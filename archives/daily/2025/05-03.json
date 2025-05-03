@@ -1,6 +1,6 @@
 {
   "startTime": 1746203485460,
-  "endTime": 1746254740564,
+  "endTime": 1746256952946,
   "band_list": [
     {
       "raw_hot": 3458319,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 724831,
+      "num": 262363,
+      "word": "幼儿园园长之子性侵猥亵女童",
+      "onboard_time": 1746256099,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 719184,
       "num": 719184,
       "word": "五一的桂林快忙成马六甲了",
@@ -115,7 +123,15 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 701455,
+      "raw_hot": 711946,
+      "num": 711946,
+      "word": "交警称9米长林肯是钻空子上山",
+      "onboard_time": 1746253461,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707219,
       "num": 701455,
       "word": "孙颖莎 嘉人",
       "onboard_time": 1746251601,
@@ -209,6 +225,14 @@
       "onboard_time": 1746238220,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 533140,
+      "num": 205600,
+      "word": "天降猫咪掉进露天火锅烫伤9人",
+      "onboard_time": 1746248421,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 512125,
@@ -331,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327815,
+      "num": 280822,
+      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
+      "onboard_time": 1746252021,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316773,
       "num": 332505,
       "word": "美多地爆发大规模抗议活动",
@@ -345,6 +377,14 @@
       "onboard_time": 1746249021,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310121,
+      "num": 310121,
+      "word": "周杰伦王俊凯周游记",
+      "onboard_time": 1746256160,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 308894,
@@ -403,20 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282591,
-      "num": 282591,
-      "word": "交警称9米长林肯是钻空子上山",
-      "onboard_time": 1746253461,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 280822,
-      "num": 280822,
-      "word": "邓超妈妈辛苦爱你小花爸爸好帅",
-      "onboard_time": 1746252021,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 284510,
+      "num": 210536,
+      "word": "原来100元可以买这么多东西",
+      "onboard_time": 1746250820,
+      "rank": 38,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 278322,
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243349,
+      "num": 243349,
+      "word": "侯佩岑 我好喜欢李斯丹妮啊",
+      "onboard_time": 1746256160,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242482,
       "num": 220218,
       "word": "景区买东西前千万要砍价",
@@ -499,12 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210536,
-      "num": 210536,
-      "word": "原来100元可以买这么多东西",
-      "onboard_time": 1746250820,
-      "rank": 38,
-      "category": "情感,民生新闻"
+      "raw_hot": 227046,
+      "num": 227046,
+      "word": "时代少年团演唱会花墙应援",
+      "onboard_time": 1746256160,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 223470,
+      "num": 139741,
+      "word": "陈雨菲发文胜利献给祖国",
+      "onboard_time": 1746256099,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 208491,
@@ -523,20 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205600,
-      "num": 205600,
-      "word": "天降猫咪掉进露天火锅烫伤9人",
-      "onboard_time": 1746248421,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204215,
       "num": 204215,
       "word": "孟佳淋雨下跪镜头",
       "onboard_time": 1746249140,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203728,
+      "num": 203728,
+      "word": "医学院有很多专业不能当医生",
+      "onboard_time": 1746256099,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203378,
@@ -603,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192621,
+      "num": 192621,
+      "word": "陈德容四公练到下一个天亮",
+      "onboard_time": 1746252801,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191311,
       "num": 183597,
       "word": "余宇涵成吴镇宇人形挂件了",
@@ -649,6 +705,14 @@
       "onboard_time": 1746248901,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186332,
+      "num": 186332,
+      "word": "美国Tony吐槽关税涨了理发的人少了",
+      "onboard_time": 1746248480,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186330,
@@ -723,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170120,
-      "num": 170120,
-      "word": "陈德容四公练到下一个天亮",
-      "onboard_time": 1746252801,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 168795,
+      "num": 168795,
+      "word": "谁把程潇的中药换成冰美式了",
+      "onboard_time": 1746256579,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 168332,
@@ -931,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142119,
+      "num": 142119,
+      "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
+      "onboard_time": 1746254062,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 141687,
       "num": 141687,
       "word": "冯彦哲复刻日本队庆祝动作回击",
@@ -1011,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130781,
+      "num": 130781,
+      "word": "邓家佳有种气血很足的美",
+      "onboard_time": 1746251601,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130040,
       "num": 331198,
       "word": "无限王者团成团六周年",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1746237020,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128297,
-      "num": 128297,
-      "word": "千万网红大logo带货茶叶涉嫌虚假宣传",
-      "onboard_time": 1746254062,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 127618,
@@ -1171,14 +1243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119546,
-      "num": 119546,
-      "word": "邓家佳有种气血很足的美",
-      "onboard_time": 1746251601,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118293,
       "num": 335871,
       "word": "晒晒你的五一旅行照",
@@ -1187,12 +1251,36 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 116155,
+      "num": 116155,
+      "word": "张小婉管乐天若有情好哭",
+      "onboard_time": 1746256521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "美国重大旅行车祸有中国公民伤亡",
       "onboard_time": 1746242180,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113621,
+      "num": 113621,
+      "word": "被场下的樊振东萌化",
+      "onboard_time": 1746253339,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112657,
+      "num": 112657,
+      "word": "爸爸抱起孩子大狗仍追着咬",
+      "onboard_time": 1746256160,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112465,
@@ -1299,6 +1387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105529,
+      "num": 105529,
+      "word": "王权弘业她爱我不然为什么只扎我",
+      "onboard_time": 1746256281,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104217,
+      "num": 191897,
+      "word": "美国电商平台商品价格全线上涨",
+      "onboard_time": 1746256160,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104003,
       "num": 104003,
       "word": "苏杯半决赛中国3比0日本",
@@ -1337,14 +1441,6 @@
       "onboard_time": 1746252740,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102764,
-      "num": 102764,
-      "word": "被场下的樊振东萌化",
-      "onboard_time": 1746253339,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 102407,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1746252021,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98149,
+      "num": 98149,
+      "word": "国家队一出手就是超强实力",
+      "onboard_time": 1746256460,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97162,
@@ -1483,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94046,
+      "num": 94046,
+      "word": "敖瑞鹏hi6初体验",
+      "onboard_time": 1746256821,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92383,
       "num": 78185,
       "word": "詹姆斯左膝韧带二级扭伤",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1746238220,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90085,
+      "num": 90085,
+      "word": "苏州买房补贴新政",
+      "onboard_time": 1746255741,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89664,
@@ -1867,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50486,
+      "num": 108832,
+      "word": "英国男子耳朵藏积木20年",
+      "onboard_time": 1746256221,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50105,
       "num": 157255,
       "word": "植物人是可以动的",
@@ -1897,6 +2025,14 @@
       "onboard_time": 1746221895,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 49113,
+      "num": 260330,
+      "word": "三亚通报游客骑摩托艇出海跟丢向导",
+      "onboard_time": 1746255920,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 46598,
@@ -2049,6 +2185,14 @@
       "onboard_time": 1746210675,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25304,
+      "num": 259728,
+      "word": "喜欢的游戏动漫IP都来WAW了",
+      "onboard_time": 1746255801,
+      "rank": 14,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 24326,
