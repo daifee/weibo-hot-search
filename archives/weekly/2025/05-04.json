@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746354294920,
+  "endTime": 1746355312204,
   "band_list": [
     {
       "raw_hot": 2062863,
@@ -43,6 +43,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1388262,
+      "num": 1388262,
+      "word": "第五人格发布会",
+      "onboard_time": 1746353721,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1293412,
       "num": 987073,
       "word": "罗云熙 超时",
@@ -75,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1169494,
+      "num": 1169494,
+      "word": "网红小猫悟空疑因中毒去世",
+      "onboard_time": 1746351322,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1062578,
       "num": 1170012,
       "word": "男子轻生前点奶茶店主骑手果断报警",
@@ -91,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 992910,
-      "num": 1158865,
-      "word": "第五人格发布会",
-      "onboard_time": 1746353721,
-      "rank": 0,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 962133,
       "num": 1153941,
       "word": "被短剧演法消耗的演员灵气",
       "onboard_time": 1746328761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 959894,
+      "num": 378418,
+      "word": "输头孢离世女生曾自行拔针头自救",
+      "onboard_time": 1746352162,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 938400,
@@ -139,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 820557,
-      "num": 377164,
-      "word": "输头孢离世女生曾自行拔针头自救",
-      "onboard_time": 1746352162,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 799051,
       "num": 799051,
       "word": "做了将近7个小时的饭",
@@ -171,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 766880,
-      "num": 766880,
-      "word": "网红小猫悟空疑因中毒去世",
-      "onboard_time": 1746351322,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 759647,
-      "num": 394094,
+      "num": 459223,
       "word": "洪尧说吴谨言来演综秒杀所有",
       "onboard_time": 1746350421,
       "rank": 41,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481163,
+      "num": 481163,
+      "word": "第五人格",
+      "onboard_time": 1746326300,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 479603,
       "num": 294449,
       "word": "悟空小猫",
@@ -387,12 +395,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 478734,
+      "num": 478734,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454471,
       "num": 454471,
       "word": "全季 导盲犬",
       "onboard_time": 1746348441,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433776,
+      "num": 433776,
+      "word": "关晓彤白裙黑长直",
+      "onboard_time": 1746352522,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 423549,
+      "num": 334952,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 422686,
@@ -427,28 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 403267,
-      "num": 359072,
-      "word": "关晓彤白裙黑长直",
-      "onboard_time": 1746352522,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403066,
       "num": 403066,
       "word": "石宇奇苏杯战神",
       "onboard_time": 1746350901,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 397561,
-      "num": 397561,
-      "word": "第五人格",
-      "onboard_time": 1746326300,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 395141,
@@ -563,12 +579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333938,
+      "num": 333938,
+      "word": "苏杯中国vs韩国",
+      "onboard_time": 1746340521,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331349,
       "num": 331349,
       "word": "沈马",
       "onboard_time": 1746319881,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331227,
+      "num": 331227,
+      "word": "五一假期余额还剩两天",
+      "onboard_time": 1746346522,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330690,
@@ -593,14 +625,6 @@
       "onboard_time": 1746281485,
       "rank": 9,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 321951,
-      "num": 321951,
-      "word": "五一假期余额还剩两天",
-      "onboard_time": 1746346522,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 315182,
@@ -659,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291351,
-      "num": 291351,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1746340581,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287927,
       "num": 287927,
       "word": "翟潇闻摸了一下下巴受伤了",
@@ -697,6 +713,14 @@
       "onboard_time": 1746334640,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 267417,
+      "num": 267417,
+      "word": "苏杯中国2比1韩国",
+      "onboard_time": 1746352403,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 266066,
@@ -731,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257776,
+      "num": 257776,
+      "word": "普通家庭对女儿最好的托举是什么",
+      "onboard_time": 1746354861,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256404,
       "num": 256404,
       "word": "了不起的中国青年",
@@ -748,19 +780,11 @@
     },
     {
       "raw_hot": 255591,
-      "num": 255591,
+      "num": 257206,
       "word": "种地吧生活直播",
       "onboard_time": 1746352641,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253320,
-      "num": 253320,
-      "word": "苏杯中国vs韩国",
-      "onboard_time": 1746340521,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 252451,
@@ -771,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250810,
-      "num": 250810,
-      "word": "理发师晓华说店面处于亏损状态",
-      "onboard_time": 1746352821,
-      "rank": 22,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 250783,
       "num": 250783,
       "word": "最后一批中国商品免关税货船本周入美",
       "onboard_time": 1746286162,
       "rank": 17,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 250617,
+      "num": 250617,
+      "word": "第五人格 纸嫁衣",
+      "onboard_time": 1746354802,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 247977,
@@ -801,14 +825,6 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 242439,
-      "num": 242439,
-      "word": "苏杯中国2比1韩国",
-      "onboard_time": 1746352403,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 242015,
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193686,
+      "num": 183440,
+      "word": "aespa拍摄回归MV路透",
+      "onboard_time": 1746355283,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193509,
       "num": 193509,
       "word": "成为老登是一种宿命",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1746341602,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181450,
+      "num": 181450,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180571,
@@ -1219,8 +1251,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169947,
+      "num": 169947,
+      "word": "日本女孩屡报警遭漠视4个月变白骨",
+      "onboard_time": 1746352821,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168718,
+      "num": 168718,
+      "word": "第五人格 芙莉莲",
+      "onboard_time": 1746355163,
+      "rank": 37,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 168483,
-      "num": 214546,
+      "num": 257179,
       "word": "以军拦截胡塞武装导弹失败",
       "onboard_time": 1746352042,
       "rank": 27,
@@ -1339,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155182,
+      "num": 155182,
+      "word": "国羽苏迪曼杯夺冠",
+      "onboard_time": 1746355283,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154352,
       "num": 187721,
       "word": "周峻纬吃播",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1746319820,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 145938,
+      "word": "任嘉伦音乐节宣传无忧渡",
+      "onboard_time": 1746355101,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 145918,
@@ -1587,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135163,
-      "num": 135163,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "歌手2025",
@@ -1643,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128366,
+      "num": 128366,
+      "word": "巴菲特正式宣布接班人",
+      "onboard_time": 1746354081,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127864,
       "num": 127864,
       "word": "五四青年节",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1746287842,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126852,
+      "num": 126852,
+      "word": "敖瑞鹏又演妖了",
+      "onboard_time": 1746354143,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126730,
@@ -1771,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120649,
-      "num": 120649,
-      "word": "巴菲特正式宣布接班人",
-      "onboard_time": 1746354081,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 120440,
       "num": 147437,
       "word": "沈月异域服饰",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1746341121,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118043,
-      "num": 118043,
-      "word": "敖瑞鹏又演妖了",
-      "onboard_time": 1746354143,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 116997,
@@ -2049,6 +2105,14 @@
       "onboard_time": 1746340161,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101423,
+      "num": 390259,
+      "word": "视障人士携带导盲犬入住全季被拒",
+      "onboard_time": 1746353541,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100381,
@@ -2380,7 +2444,7 @@
     },
     {
       "raw_hot": 66322,
-      "num": 178369,
+      "num": 268507,
       "word": "石宇奇火力全开",
       "onboard_time": 1746354143,
       "rank": 33,
@@ -2417,14 +2481,6 @@
       "onboard_time": 1746315019,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 59999,
-      "num": 390259,
-      "word": "视障人士携带导盲犬入住全季被拒",
-      "onboard_time": 1746353541,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57639,
@@ -2515,20 +2571,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43224,
+      "num": 936147,
+      "word": "中国青年继续向前",
+      "onboard_time": 1746351021,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42935,
       "num": 269777,
       "word": "王权弘业穿着深V就要去见老丈人",
       "onboard_time": 1746335481,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42644,
-      "num": 802630,
-      "word": "中国青年继续向前",
-      "onboard_time": 1746351021,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40221,
@@ -2763,12 +2819,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 21643,
+      "num": 363394,
+      "word": "律师解读女生输头孢离世事件责任划分",
+      "onboard_time": 1746354861,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20112,
       "num": 24620,
       "word": "和登陆少年解锁无畏新地图",
       "onboard_time": 1746300075,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20095,
+      "num": 339397,
+      "word": "大学生挺身而出救人诠释青年热血",
+      "onboard_time": 1746354921,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 19996,
@@ -2803,6 +2875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16231,
+      "num": 257178,
+      "word": "男子违规爬西安城墙还教别人爬",
+      "onboard_time": 1746354921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16163,
       "num": 366233,
       "word": "在WAW现场遇见本命",
@@ -2833,6 +2913,14 @@
       "onboard_time": 1746342860,
       "rank": 39,
       "category": "民生新闻,其它"
+    },
+    {
+      "raw_hot": 13391,
+      "num": 343213,
+      "word": "职场年龄焦虑如何面对",
+      "onboard_time": 1746354621,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 11754,
