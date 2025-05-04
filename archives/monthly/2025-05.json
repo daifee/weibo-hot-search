@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746315438539,
+  "endTime": 1746324323186,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -289,6 +289,14 @@
       "onboard_time": 1746198152,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1293412,
+      "num": 987073,
+      "word": "罗云熙 超时",
+      "onboard_time": 1746318439,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 1286235,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 827365,
+      "num": 1132378,
+      "word": "男子轻生前点奶茶店主骑手果断报警",
+      "onboard_time": 1746319940,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 823968,
       "num": 823968,
       "word": "泰山陪爬小伙忙疯了也赚疯了",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1746113961,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609529,
+      "num": 276830,
+      "word": "董子健 姐弟恋cp",
+      "onboard_time": 1746319160,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 609301,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1746236720,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460696,
+      "num": 460696,
+      "word": "哈里王子担心戴安娜王妃悲剧重演",
+      "onboard_time": 1746322340,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 459790,
@@ -2195,6 +2227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351163,
+      "num": 351163,
+      "word": "赴山海",
+      "onboard_time": 1746319881,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349303,
       "num": 271667,
       "word": "尹净汉出国",
@@ -2315,12 +2355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331349,
+      "num": 331349,
+      "word": "沈马",
+      "onboard_time": 1746319881,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330946,
       "num": 330946,
       "word": "韩国代总统辞职",
       "onboard_time": 1746084201,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 330690,
+      "num": 274529,
+      "word": "争上亿遗产无业男错杀亲侄子",
+      "onboard_time": 1746319940,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330360,
@@ -2691,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293970,
+      "num": 293970,
+      "word": "央视新闻播出周云杰演讲",
+      "onboard_time": 1746323420,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292789,
       "num": 292789,
       "word": "王励勤强调国乒是一个集体",
@@ -2803,12 +2867,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272496,
+      "num": 190507,
+      "word": "控糖60天面部的变化",
+      "onboard_time": 1746320000,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272089,
       "num": 272089,
       "word": "赵丽颖短发杀青照",
       "onboard_time": 1746065659,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270265,
+      "num": 270265,
+      "word": "美加州称将继续对中国敞开贸易大门",
+      "onboard_time": 1746321139,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270195,
@@ -2872,6 +2952,14 @@
       "word": "卫健委亮剑调查肖董事件期待公正通报",
       "onboard_time": 1746071661,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266066,
+      "num": 266066,
+      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+      "onboard_time": 1746295756,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3097,6 +3185,14 @@
       "onboard_time": 1746109582,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247943,
+      "num": 247943,
+      "word": "了不起的中国青年",
+      "onboard_time": 1746319881,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 247900,
@@ -3459,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211374,
+      "num": 189682,
+      "word": "免费入住文旅局长家游客发声",
+      "onboard_time": 1746321381,
+      "rank": 22,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 211194,
       "num": 211194,
       "word": "陈奕迅终于在妈生地唱了富士山下",
@@ -3555,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207328,
+      "num": 292991,
+      "word": "我们为何如此热爱青春",
+      "onboard_time": 1746322039,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 207321,
       "num": 207321,
       "word": "为考博熬夜10天进icu",
@@ -3593,6 +3705,14 @@
       "onboard_time": 1746081681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206381,
+      "num": 206381,
+      "word": "李沐宸没接住戏",
+      "onboard_time": 1746314417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 205938,
@@ -4739,6 +4859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182527,
+      "num": 182527,
+      "word": "草莓窑鸡",
+      "onboard_time": 1746320060,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 182477,
       "num": 182477,
       "word": "我的五一",
@@ -4985,6 +5113,14 @@
       "onboard_time": 1746160110,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175204,
+      "num": 205553,
+      "word": "殿前欢",
+      "onboard_time": 1746322762,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 174951,
@@ -5891,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154154,
-      "num": 154154,
-      "word": "大叔25年卖600万个鸡蛋饼挣4套房",
-      "onboard_time": 1746295756,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153849,
       "num": 153849,
       "word": "苏新皓 第一视角",
@@ -6057,6 +6185,14 @@
       "onboard_time": 1746281242,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150322,
+      "num": 201801,
+      "word": "谢娜问张杰在鸟巢开运动会吗",
+      "onboard_time": 1746316099,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 150053,
@@ -6323,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146411,
+      "num": 146411,
+      "word": "快船vs掘金",
+      "onboard_time": 1746319820,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146152,
       "num": 146152,
       "word": "李现新剧演复仇男主",
@@ -6451,6 +6595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144500,
+      "num": 144500,
+      "word": "网红猫爷一周涨粉近70万",
+      "onboard_time": 1746318920,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 144479,
       "num": 220365,
       "word": "李在明案被发回重审",
@@ -6537,6 +6689,14 @@
       "onboard_time": 1746058100,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141717,
+      "num": 141717,
+      "word": "五一假期返程天气",
+      "onboard_time": 1746323420,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141687,
@@ -7499,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127582,
+      "num": 142317,
+      "word": "TFBOYS为王源音乐节打call",
+      "onboard_time": 1746317660,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -8051,6 +8219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118844,
+      "num": 118844,
+      "word": "日媒称美再拒绝给日本特殊关税待遇",
+      "onboard_time": 1746323600,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118804,
       "num": 118804,
       "word": "唐国强230秒面试给毕业生亿点震撼",
@@ -8395,6 +8571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112599,
+      "num": 141875,
+      "word": "柯淳哭戏",
+      "onboard_time": 1746322762,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112501,
       "num": 112501,
       "word": "饶毅力挺协和4加4有何深意",
@@ -8417,6 +8601,14 @@
       "onboard_time": 1746264021,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112179,
+      "num": 112179,
+      "word": "青春万岁中国加油",
+      "onboard_time": 1746323481,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112051,
@@ -8475,6 +8667,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111243,
+      "num": 111243,
+      "word": "杭州西湖边的大屏也申请五一休假了",
+      "onboard_time": 1746319940,
+      "rank": 37,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 111004,
+      "num": 980737,
+      "word": "五一假期文旅市场有哪些新亮点",
+      "onboard_time": 1746282504,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110930,
       "num": 110930,
       "word": "种地吧",
@@ -8489,6 +8697,14 @@
       "onboard_time": 1746067760,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110719,
+      "num": 110719,
+      "word": "威少太了解哈登了",
+      "onboard_time": 1746322340,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 110617,
@@ -8835,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105369,
+      "num": 105369,
+      "word": "张博恒用焕然一新形容自己",
+      "onboard_time": 1746320661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105321,
       "num": 105321,
       "word": "苏新皓大屏太权威了",
@@ -9083,6 +9307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 99379,
+      "num": 99379,
+      "word": "快船掘金抢七",
+      "onboard_time": 1746322340,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99174,
       "num": 99174,
       "word": "邓超世面都见过这种人没见过",
@@ -9216,6 +9448,14 @@
       "word": "詹姆斯至少再打一个赛季",
       "onboard_time": 1746149309,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96746,
+      "num": 96746,
+      "word": "全红婵新房宅基地系夺冠后村里奖励",
+      "onboard_time": 1746321139,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -9459,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88246,
+      "num": 88246,
+      "word": "丁程鑫跳星奇摇害羞了",
+      "onboard_time": 1746323060,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88182,
       "num": 140324,
       "word": "董宇辉讲英语完型填空",
@@ -9579,6 +9827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85362,
+      "num": 85362,
+      "word": "李克勤发与梁伟铿贾一凡凤凰合影",
+      "onboard_time": 1746323961,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 85130,
       "num": 93258,
       "word": "刘宇讲粤语 师父别念了",
@@ -9593,6 +9849,14 @@
       "onboard_time": 1746198263,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 84960,
+      "num": 84960,
+      "word": "巴菲特今年底卸任",
+      "onboard_time": 1746316279,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 84809,
@@ -9699,12 +9963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82305,
-      "num": 86051,
-      "word": "李沐宸没接住戏",
-      "onboard_time": 1746314417,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 82123,
+      "num": 112224,
+      "word": "被饿了么的网吧广告洗脑了",
+      "onboard_time": 1746320481,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 81996,
@@ -9937,14 +10201,6 @@
       "onboard_time": 1746234680,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74472,
-      "num": 980737,
-      "word": "五一假期文旅市场有哪些新亮点",
-      "onboard_time": 1746282504,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74049,
@@ -11019,6 +11275,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 39383,
+      "num": 141746,
+      "word": "夏磊漫展集邮爽",
+      "onboard_time": 1746323420,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 39174,
       "num": 245129,
       "word": "五一人不多也就亿点点",
@@ -11241,6 +11505,14 @@
       "onboard_time": 1746074420,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32894,
+      "num": 767963,
+      "word": "教育强国有我",
+      "onboard_time": 1746323600,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32367,

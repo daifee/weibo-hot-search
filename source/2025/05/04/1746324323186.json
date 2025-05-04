@@ -1,0 +1,410 @@
+{
+  "runTime": 1746324323186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 827365,
+        "num": 1132378,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1293412,
+        "num": 987073,
+        "word": "罗云熙 超时",
+        "onboard_time": 1746318439,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32894,
+        "num": 767963,
+        "word": "教育强国有我",
+        "onboard_time": 1746323600,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611898,
+        "num": 611898,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460696,
+        "num": 460696,
+        "word": "哈里王子担心戴安娜王妃悲剧重演",
+        "onboard_time": 1746322340,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365913,
+        "num": 365913,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351163,
+        "num": 351163,
+        "word": "赴山海",
+        "onboard_time": 1746319881,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331349,
+        "num": 331349,
+        "word": "沈马",
+        "onboard_time": 1746319881,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293970,
+        "num": 293970,
+        "word": "央视新闻播出周云杰演讲",
+        "onboard_time": 1746323420,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207328,
+        "num": 292991,
+        "word": "我们为何如此热爱青春",
+        "onboard_time": 1746322039,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 639208,
+        "num": 287892,
+        "word": "协和4加4培养的是天才还是关系户",
+        "onboard_time": 1746321501,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609529,
+        "num": 276830,
+        "word": "董子健 姐弟恋cp",
+        "onboard_time": 1746319160,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330690,
+        "num": 274529,
+        "word": "争上亿遗产无业男错杀亲侄子",
+        "onboard_time": 1746319940,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270265,
+        "num": 270265,
+        "word": "美加州称将继续对中国敞开贸易大门",
+        "onboard_time": 1746321139,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266985,
+        "num": 266985,
+        "word": "全红婵老家建120平别墅",
+        "onboard_time": 1746282743,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266066,
+        "num": 266066,
+        "word": "大叔25年卖600万个鸡蛋饼挣4套房",
+        "onboard_time": 1746295756,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247943,
+        "num": 247943,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 206381,
+        "num": 206381,
+        "word": "李沐宸没接住戏",
+        "onboard_time": 1746314417,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175204,
+        "num": 205553,
+        "word": "殿前欢",
+        "onboard_time": 1746322762,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150322,
+        "num": 201801,
+        "word": "谢娜问张杰在鸟巢开运动会吗",
+        "onboard_time": 1746316099,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342633,
+        "num": 197239,
+        "word": "医院回应女生输头孢过敏离世",
+        "onboard_time": 1746289461,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272496,
+        "num": 190507,
+        "word": "控糖60天面部的变化",
+        "onboard_time": 1746320000,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211374,
+        "num": 189682,
+        "word": "免费入住文旅局长家游客发声",
+        "onboard_time": 1746321381,
+        "rank": 22,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 185663,
+        "num": 185663,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182527,
+        "num": 182527,
+        "word": "草莓窑鸡",
+        "onboard_time": 1746320060,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146411,
+        "num": 146411,
+        "word": "快船vs掘金",
+        "onboard_time": 1746319820,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144500,
+        "num": 144500,
+        "word": "网红猫爷一周涨粉近70万",
+        "onboard_time": 1746318920,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127582,
+        "num": 142317,
+        "word": "TFBOYS为王源音乐节打call",
+        "onboard_time": 1746317660,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112599,
+        "num": 141875,
+        "word": "柯淳哭戏",
+        "onboard_time": 1746322762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39383,
+        "num": 141746,
+        "word": "夏磊漫展集邮爽",
+        "onboard_time": 1746323420,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141717,
+        "num": 141717,
+        "word": "五一假期返程天气",
+        "onboard_time": 1746323420,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125224,
+        "num": 125224,
+        "word": "女子决定离婚再和AI男友举办婚礼",
+        "onboard_time": 1746300915,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118844,
+        "num": 118844,
+        "word": "日媒称美再拒绝给日本特殊关税待遇",
+        "onboard_time": 1746323600,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113306,
+        "num": 113306,
+        "word": "工藤新一第31个17岁",
+        "onboard_time": 1746291738,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112551,
+        "num": 112551,
+        "word": "meiko",
+        "onboard_time": 1746288021,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82123,
+        "num": 112224,
+        "word": "被饿了么的网吧广告洗脑了",
+        "onboard_time": 1746320481,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112179,
+        "num": 112179,
+        "word": "青春万岁中国加油",
+        "onboard_time": 1746323481,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111243,
+        "num": 111243,
+        "word": "杭州西湖边的大屏也申请五一休假了",
+        "onboard_time": 1746319940,
+        "rank": 37,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 111030,
+        "num": 111030,
+        "word": "加州州长最新涉华表态",
+        "onboard_time": 1746284065,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111004,
+        "num": 111004,
+        "word": "五一假期文旅市场有哪些新亮点",
+        "onboard_time": 1746282504,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110719,
+        "num": 110719,
+        "word": "威少太了解哈登了",
+        "onboard_time": 1746322340,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 105369,
+        "word": "张博恒用焕然一新形容自己",
+        "onboard_time": 1746320661,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99379,
+        "num": 99379,
+        "word": "快船掘金抢七",
+        "onboard_time": 1746322340,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96746,
+        "num": 96746,
+        "word": "全红婵新房宅基地系夺冠后村里奖励",
+        "onboard_time": 1746321139,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90882,
+        "num": 90882,
+        "word": "五四青年节",
+        "onboard_time": 1746313997,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90384,
+        "num": 90384,
+        "word": "抖音回应胖东来投诉柴怼怼",
+        "onboard_time": 1746288801,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 88246,
+        "num": 88246,
+        "word": "丁程鑫跳星奇摇害羞了",
+        "onboard_time": 1746323060,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85362,
+        "num": 85362,
+        "word": "李克勤发与梁伟铿贾一凡凤凰合影",
+        "onboard_time": 1746323961,
+        "rank": 47,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 84960,
+        "num": 84960,
+        "word": "巴菲特今年底卸任",
+        "onboard_time": 1746316279,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84448,
+        "num": 84448,
+        "word": "这居然是华晨宇",
+        "onboard_time": 1746278904,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的青春寄语#"
+    }
+  }
+}
