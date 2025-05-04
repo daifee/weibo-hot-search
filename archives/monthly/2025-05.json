@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746369578730,
+  "endTime": 1746372252532,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -97,6 +97,14 @@
       "onboard_time": 1746344899,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2031197,
+      "num": 2031197,
+      "word": "贵州游船倾覆事故已致3人死亡",
+      "onboard_time": 1746369864,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2018686,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1746340761,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 735000,
+      "num": 254388,
+      "word": "严浩翔哭了",
+      "onboard_time": 1746370105,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 732362,
@@ -2531,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 402711,
+      "num": 402711,
+      "word": "赵朔称悟空定位器20分钟断网",
+      "onboard_time": 1746369086,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1746359964,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396317,
+      "num": 396317,
+      "word": "任嘉伦不愧是去韩国训练过的",
+      "onboard_time": 1746370105,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 395141,
@@ -3867,6 +3899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257117,
+      "num": 257117,
+      "word": "周深一首歌唱给追光的你我",
+      "onboard_time": 1746370825,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256868,
       "num": 256868,
       "word": "美军战机正运往乌克兰",
@@ -4211,6 +4251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229832,
+      "num": 229832,
+      "word": "刘诗诗张云龙沈月聚餐合照",
+      "onboard_time": 1746371665,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229727,
       "num": 229727,
       "word": "南京夫子庙回应有人强制卖花",
@@ -4225,6 +4273,22 @@
       "onboard_time": 1746195872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229114,
+      "num": 229114,
+      "word": "是女儿是妈妈2开播",
+      "onboard_time": 1746370645,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228503,
+      "num": 228503,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 228489,
@@ -4377,6 +4441,14 @@
       "onboard_time": 1746275183,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220675,
+      "num": 228579,
+      "word": "许嵩 可是他叫我小哥哥诶",
+      "onboard_time": 1746370945,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 220468,
@@ -5323,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195324,
+      "num": 195324,
+      "word": "戏影",
+      "onboard_time": 1746371067,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195216,
       "num": 195216,
       "word": "染发",
@@ -5683,6 +5763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190170,
+      "num": 190170,
+      "word": "DRG一穿四晋级春决",
+      "onboard_time": 1746372025,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190094,
       "num": 190094,
       "word": "回忆专用小马甲一夜掉粉2.6万",
@@ -5840,6 +5928,14 @@
       "word": "华晨宇穿这么仙唱这么凶",
       "onboard_time": 1746366025,
       "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188294,
+      "num": 188294,
+      "word": "严浩翔掌声响起来",
+      "onboard_time": 1746371604,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -6115,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183274,
+      "num": 205692,
+      "word": "贵州黔西游船侧翻事故游客发声",
+      "onboard_time": 1746369446,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 182894,
       "num": 182894,
       "word": "王力宏贴脸唱心跳",
@@ -6193,6 +6297,14 @@
       "onboard_time": 1746341602,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181448,
+      "num": 181448,
+      "word": "宋亚轩被彩带攻击",
+      "onboard_time": 1746372025,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 181260,
@@ -6579,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172248,
+      "num": 172248,
+      "word": "沈月我会一直一直一直盯着这个秉竹业游",
+      "onboard_time": 1746369984,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171951,
       "num": 171951,
       "word": "薛之谦音乐节",
@@ -6723,14 +6843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169007,
-      "num": 169007,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168483,
       "num": 257179,
       "word": "以军拦截胡塞武装导弹失败",
@@ -6801,6 +6913,14 @@
       "onboard_time": 1746348503,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166860,
+      "num": 166860,
+      "word": "马嘉祺权杖舞",
+      "onboard_time": 1746371604,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 166855,
@@ -7036,7 +7156,7 @@
     },
     {
       "raw_hot": 163666,
-      "num": 163666,
+      "num": 228708,
       "word": "WB在干嘛",
       "onboard_time": 1746366263,
       "rank": 41,
@@ -7827,6 +7947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151034,
+      "num": 151034,
+      "word": "女孩溺水被救家长先责怪孩子",
+      "onboard_time": 1746372084,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150499,
       "num": 150499,
       "word": "DRG锁定败者组决赛",
@@ -8259,6 +8387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145095,
+      "num": 205285,
+      "word": "韩国人可太爱延吉游了",
+      "onboard_time": 1746369446,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144816,
       "num": 144816,
       "word": "80后女博士养鸡20年获评劳模",
@@ -8337,6 +8473,14 @@
       "onboard_time": 1746289461,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144082,
+      "num": 144082,
+      "word": "贵州游船事故亲历者发声",
+      "onboard_time": 1746369685,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143964,
@@ -8545,6 +8689,14 @@
       "onboard_time": 1746252740,
       "rank": 18,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 140695,
+      "num": 188988,
+      "word": "胡先煦赵今麦的祝福送到心里了",
+      "onboard_time": 1746370945,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 140654,
@@ -8963,6 +9115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135123,
+      "num": 149496,
+      "word": "斯诺克世锦赛",
+      "onboard_time": 1746368064,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134867,
       "num": 134867,
       "word": "时代少年团谁的发型不行",
@@ -9195,14 +9355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131826,
-      "num": 149496,
-      "word": "斯诺克世锦赛",
-      "onboard_time": 1746368064,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131798,
       "num": 131798,
       "word": "小甜甜向前夫求复合",
@@ -9384,6 +9536,14 @@
       "word": "黄东萍好牛",
       "onboard_time": 1746344300,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129429,
+      "num": 129429,
+      "word": "羽毛球",
+      "onboard_time": 1746370046,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -11147,14 +11307,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 106695,
-      "num": 305445,
-      "word": "赵朔称悟空定位器20分钟断网",
-      "onboard_time": 1746369086,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106662,
       "num": 106662,
       "word": "格林放倒格林",
@@ -11345,6 +11497,14 @@
       "onboard_time": 1746346401,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103856,
+      "num": 169418,
+      "word": "浙江一文旅局长五一亲自当导游带团",
+      "onboard_time": 1746368723,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103763,
@@ -12281,6 +12441,14 @@
       "onboard_time": 1746349462,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84426,
+      "num": 167041,
+      "word": "五一节后减肥7天冲刺食谱",
+      "onboard_time": 1746372144,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 84382,
@@ -13641,14 +13809,6 @@
       "onboard_time": 1746335782,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44421,
-      "num": 205692,
-      "word": "贵州黔西游船侧翻事故游客发声",
-      "onboard_time": 1746369446,
-      "rank": 28,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 44384,
@@ -15099,6 +15259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 15247,
+      "num": 248780,
+      "word": "WAW星光见面会",
+      "onboard_time": 1746370885,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14934,
       "num": 164168,
       "word": "想快乐排便有一个黄金姿势",
@@ -15361,14 +15529,6 @@
       "onboard_time": 1746241279,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 10657,
-      "num": 205285,
-      "word": "韩国人可太爱延吉游了",
-      "onboard_time": 1746369446,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10585,
