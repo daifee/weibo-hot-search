@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746380312686,
+  "endTime": 1746383509363,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89341,
+      "num": 89341,
+      "word": "日本女孩屡报警遭漠视4个月变白骨",
+      "onboard_time": 1746352821,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88190,
       "num": 140522,
       "word": "5月5日13时57分迎来立夏",
@@ -425,14 +433,6 @@
       "onboard_time": 1746374063,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68827,
-      "num": 68827,
-      "word": "日本女孩屡报警遭漠视4个月变白骨",
-      "onboard_time": 1746352821,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63912,
@@ -513,6 +513,30 @@
       "onboard_time": 1746366446,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29687,
+      "num": 36412,
+      "word": "宋亚轩诠释了什么叫好彩自然来",
+      "onboard_time": 1746380657,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 28565,
+      "num": 36410,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24932,
+      "num": 36404,
+      "word": "青春赞歌",
+      "onboard_time": 1746381856,
+      "rank": 49,
+      "category": "综艺,音乐"
     }
   ],
   "hotgov_list": [
