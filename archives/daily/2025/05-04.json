@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746355312204,
+  "endTime": 1746357595936,
   "band_list": [
     {
       "raw_hot": 2062863,
@@ -25,6 +25,14 @@
       "onboard_time": 1746339380,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1752866,
+      "num": 1752866,
+      "word": "医院拒绝给离世女大学生道歉",
+      "onboard_time": 1746355521,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1548965,
@@ -91,6 +99,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1068550,
+      "num": 334952,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 22,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1062578,
       "num": 1170012,
       "word": "男子轻生前点奶茶店主骑手果断报警",
@@ -137,6 +153,14 @@
       "onboard_time": 1746288501,
       "rank": 7,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 918045,
+      "num": 918045,
+      "word": "国羽苏迪曼杯夺冠",
+      "onboard_time": 1746355283,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 845122,
@@ -187,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747692,
+      "num": 239203,
+      "word": "严浩翔白发背头",
+      "onboard_time": 1746356960,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 740057,
       "num": 351730,
       "word": "柯淳回应退出无限超越班",
@@ -225,6 +257,14 @@
       "onboard_time": 1746342260,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 614519,
+      "num": 390329,
+      "word": "卢靖姗说二胎反应更大",
+      "onboard_time": 1746350963,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 609529,
@@ -297,14 +337,6 @@
       "onboard_time": 1746330021,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 550707,
-      "num": 390329,
-      "word": "卢靖姗说二胎反应更大",
-      "onboard_time": 1746350963,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 538723,
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423549,
-      "num": 334952,
-      "word": "理发师晓华说店面处于亏损状态",
-      "onboard_time": 1746352821,
-      "rank": 22,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 422686,
       "num": 437109,
       "word": "男子与女友吵架为泄愤16楼扔电竞椅",
@@ -465,6 +489,14 @@
       "onboard_time": 1746350901,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400490,
+      "num": 400490,
+      "word": "aespa拍摄回归MV路透",
+      "onboard_time": 1746355283,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 395141,
@@ -651,6 +683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311275,
+      "num": 257206,
+      "word": "种地吧生活直播",
+      "onboard_time": 1746352641,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309630,
       "num": 344009,
       "word": "朱一龙说给成长一点耐心",
@@ -689,6 +729,14 @@
       "onboard_time": 1746350362,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279404,
+      "num": 257776,
+      "word": "普通家庭对女儿最好的托举是什么",
+      "onboard_time": 1746354861,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 278143,
@@ -755,12 +803,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257776,
-      "num": 257776,
-      "word": "普通家庭对女儿最好的托举是什么",
-      "onboard_time": 1746354861,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 258194,
+      "num": 258194,
+      "word": "第五人格 纸嫁衣",
+      "onboard_time": 1746354802,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 256404,
@@ -779,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255591,
-      "num": 257206,
-      "word": "种地吧生活直播",
-      "onboard_time": 1746352641,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252451,
       "num": 252451,
       "word": "盛李豪黄雨婷霸榜世界第一",
@@ -803,14 +843,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 250617,
-      "num": 250617,
-      "word": "第五人格 纸嫁衣",
-      "onboard_time": 1746354802,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247977,
       "num": 247977,
       "word": "蔡徐坤ins更新",
@@ -825,6 +857,14 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243754,
+      "num": 243754,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242015,
@@ -905,6 +945,14 @@
       "onboard_time": 1746332601,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208899,
+      "num": 208899,
+      "word": "第五人格 芙莉莲",
+      "onboard_time": 1746355163,
+      "rank": 37,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 208357,
@@ -1059,12 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193686,
-      "num": 183440,
-      "word": "aespa拍摄回归MV路透",
-      "onboard_time": 1746355283,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 193740,
+      "num": 193740,
+      "word": "陈昊宇撕拉片",
+      "onboard_time": 1746357142,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 193509,
@@ -1080,6 +1128,22 @@
       "word": "邓为我那出差紧张的男友",
       "onboard_time": 1746329719,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190785,
+      "num": 242696,
+      "word": "陈昊宇说人生路上最快的脚步是坚持",
+      "onboard_time": 1746357142,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189589,
+      "num": 189589,
+      "word": "时代少年团直播",
+      "onboard_time": 1746357202,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1115,20 +1179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184447,
+      "num": 184447,
+      "word": "国羽3比1战胜韩国队",
+      "onboard_time": 1746356960,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183496,
+      "num": 183496,
+      "word": "贾一凡抱石宇奇",
+      "onboard_time": 1746356960,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181544,
       "num": 181544,
       "word": "日本首相对美国撂狠话",
       "onboard_time": 1746341602,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 181450,
-      "num": 181450,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180571,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1746338721,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176552,
+      "num": 176552,
+      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+      "onboard_time": 1746357021,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176310,
@@ -1257,14 +1337,6 @@
       "onboard_time": 1746352821,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 168718,
-      "num": 168718,
-      "word": "第五人格 芙莉莲",
-      "onboard_time": 1746355163,
-      "rank": 37,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 168483,
@@ -1355,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "中国羽毛球队苏迪曼杯4连冠",
+      "onboard_time": 1746357142,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160521,
       "num": 160521,
       "word": "金靖勇敢的人先享受张凌赫的腹肌",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1746343161,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160143,
+      "num": 160143,
+      "word": "中国队苏杯四连冠",
+      "onboard_time": 1746357202,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 157081,
@@ -1387,11 +1475,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155182,
-      "num": 155182,
-      "word": "国羽苏迪曼杯夺冠",
-      "onboard_time": 1746355283,
-      "rank": 40,
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "梁王 吉祥物",
+      "onboard_time": 1746356902,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1419,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153334,
+      "num": 153334,
+      "word": "第五人格BLK战队",
+      "onboard_time": 1746356960,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151421,
       "num": 151421,
       "word": "罗云熙周深音乐节后台亲密合影",
@@ -1433,6 +1529,30 @@
       "onboard_time": 1746316099,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "仙逆",
+      "onboard_time": 1746357082,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 150037,
+      "num": 150037,
+      "word": "淮水竹亭",
+      "onboard_time": 1746355942,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149262,
+      "num": 149262,
+      "word": "中国7次举办苏杯7次冠军",
+      "onboard_time": 1746357082,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 148570,
@@ -1497,6 +1617,14 @@
       "onboard_time": 1746289461,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142879,
+      "num": 142879,
+      "word": "第五人格IP联动",
+      "onboard_time": 1746356960,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 142819,
@@ -1835,12 +1963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122490,
+      "num": 122490,
+      "word": "圣坛 暴力美学",
+      "onboard_time": 1746356302,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121432,
       "num": 121432,
       "word": "苏杯中国1比0韩国",
       "onboard_time": 1746344899,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120551,
+      "num": 120551,
+      "word": "央视五四晚会封面",
+      "onboard_time": 1746355761,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120440,
@@ -1873,6 +2017,14 @@
       "onboard_time": 1746341121,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117254,
+      "num": 117254,
+      "word": "安洗莹不想看了",
+      "onboard_time": 1746357562,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 116997,
@@ -2507,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55190,
+      "num": 227411,
+      "word": "盘点苏迪曼杯名场面",
+      "onboard_time": 1746357021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54080,
       "num": 54080,
       "word": "巴菲特建议找工作不要太在意薪水",
@@ -2875,6 +3035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17446,
+      "num": 226612,
+      "word": "WAW漫展COS妆造小妙招",
+      "onboard_time": 1746357261,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 16231,
       "num": 257178,
       "word": "男子违规爬西安城墙还教别人爬",
@@ -2997,6 +3165,9 @@
     },
     {
       "word": "#习近平和青年朋友的10个暖心瞬间#"
+    },
+    {
+      "word": "#做青年朋友的知心人#"
     }
   ]
 }

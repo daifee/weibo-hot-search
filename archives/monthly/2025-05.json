@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746355312204,
+  "endTime": 1746357595936,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -129,6 +129,14 @@
       "onboard_time": 1746339380,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1752866,
+      "num": 1752866,
+      "word": "医院拒绝给离世女大学生道歉",
+      "onboard_time": 1746355521,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1720327,
@@ -515,6 +523,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 1068550,
+      "num": 334952,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 22,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1065502,
       "num": 1065502,
       "word": "胖东来向胖都来寄律师函",
@@ -753,6 +769,14 @@
       "onboard_time": 1746143959,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918045,
+      "num": 918045,
+      "word": "国羽苏迪曼杯夺冠",
+      "onboard_time": 1746355283,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 914216,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1746010640,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 747692,
+      "num": 239203,
+      "word": "严浩翔白发背头",
+      "onboard_time": 1746356960,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 745860,
@@ -1299,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614519,
+      "num": 390329,
+      "word": "卢靖姗说二胎反应更大",
+      "onboard_time": 1746350963,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611862,
       "num": 611862,
       "word": "日本掉坑大爷终于找到了",
@@ -1545,14 +1585,6 @@
       "onboard_time": 1746075502,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550707,
-      "num": 390329,
-      "word": "卢靖姗说二胎反应更大",
-      "onboard_time": 1746350963,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 548617,
@@ -2155,14 +2187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423549,
-      "num": 334952,
-      "word": "理发师晓华说店面处于亏损状态",
-      "onboard_time": 1746352821,
-      "rank": 22,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 422686,
       "num": 437109,
       "word": "男子与女友吵架为泄愤16楼扔电竞椅",
@@ -2345,6 +2369,14 @@
       "onboard_time": 1746231079,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400490,
+      "num": 400490,
+      "word": "aespa拍摄回归MV路透",
+      "onboard_time": 1746355283,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 395141,
@@ -2979,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311275,
+      "num": 257206,
+      "word": "种地吧生活直播",
+      "onboard_time": 1746352641,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310526,
       "num": 310526,
       "word": "日本皇室生活费被盗",
@@ -3307,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279404,
+      "num": 257776,
+      "word": "普通家庭对女儿最好的托举是什么",
+      "onboard_time": 1746354861,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278143,
       "num": 278143,
       "word": "前国乒教练吴敬平又挖到一个小胖",
@@ -3555,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258194,
+      "num": 258194,
+      "word": "第五人格 纸嫁衣",
+      "onboard_time": 1746354802,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258032,
       "num": 258032,
       "word": "小米SU7Ultra限制1500匹马力",
@@ -3569,14 +3625,6 @@
       "onboard_time": 1746171079,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257776,
-      "num": 257776,
-      "word": "普通家庭对女儿最好的托举是什么",
-      "onboard_time": 1746354861,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 256868,
@@ -3609,14 +3657,6 @@
       "onboard_time": 1746338661,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255591,
-      "num": 257206,
-      "word": "种地吧生活直播",
-      "onboard_time": 1746352641,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 255345,
@@ -3689,14 +3729,6 @@
       "onboard_time": 1746112163,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250617,
-      "num": 250617,
-      "word": "第五人格 纸嫁衣",
-      "onboard_time": 1746354802,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 250115,
@@ -3785,6 +3817,14 @@
       "onboard_time": 1746256160,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243754,
+      "num": 243754,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242482,
@@ -4233,6 +4273,14 @@
       "onboard_time": 1746095421,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208899,
+      "num": 208899,
+      "word": "第五人格 芙莉莲",
+      "onboard_time": 1746355163,
+      "rank": 37,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 208514,
@@ -4955,20 +5003,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193740,
+      "num": 193740,
+      "word": "陈昊宇撕拉片",
+      "onboard_time": 1746357142,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193694,
       "num": 193694,
       "word": "严浩翔海口演唱会大屏",
       "onboard_time": 1746278904,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193686,
-      "num": 183440,
-      "word": "aespa拍摄回归MV路透",
-      "onboard_time": 1746355283,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 193675,
@@ -5147,6 +5195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190785,
+      "num": 242696,
+      "word": "陈昊宇说人生路上最快的脚步是坚持",
+      "onboard_time": 1746357142,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190749,
       "num": 190749,
       "word": "时代少年团全员加冠造型",
@@ -5233,6 +5289,14 @@
       "onboard_time": 1746252981,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189589,
+      "num": 189589,
+      "word": "时代少年团直播",
+      "onboard_time": 1746357202,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 189533,
@@ -5579,6 +5643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184447,
+      "num": 184447,
+      "word": "国羽3比1战胜韩国队",
+      "onboard_time": 1746356960,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184099,
       "num": 184099,
       "word": "张泽禹金发",
@@ -5593,6 +5665,14 @@
       "onboard_time": 1746159449,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183496,
+      "num": 183496,
+      "word": "贾一凡抱石宇奇",
+      "onboard_time": 1746356960,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 182894,
@@ -5673,14 +5753,6 @@
       "onboard_time": 1746341602,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 181450,
-      "num": 181450,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181260,
@@ -5849,6 +5921,14 @@
       "onboard_time": 1746263780,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176552,
+      "num": 176552,
+      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+      "onboard_time": 1746357021,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176378,
@@ -6145,14 +6225,6 @@
       "onboard_time": 1746271221,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168718,
-      "num": 168718,
-      "word": "第五人格 芙莉莲",
-      "onboard_time": 1746355163,
-      "rank": 37,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 168483,
@@ -6619,6 +6691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160643,
+      "num": 160643,
+      "word": "中国羽毛球队苏迪曼杯4连冠",
+      "onboard_time": 1746357142,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160594,
       "num": 233618,
       "word": "当地介入调查钟乳石被刻字事件",
@@ -6657,6 +6737,14 @@
       "onboard_time": 1746091641,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160143,
+      "num": 160143,
+      "word": "中国队苏杯四连冠",
+      "onboard_time": 1746357202,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 159942,
@@ -6939,14 +7027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155182,
-      "num": 155182,
-      "word": "国羽苏迪曼杯夺冠",
-      "onboard_time": 1746355283,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155025,
       "num": 155025,
       "word": "汪苏泷南京咪豆音乐节",
@@ -6961,6 +7041,14 @@
       "onboard_time": 1746196533,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154939,
+      "num": 154939,
+      "word": "梁王 吉祥物",
+      "onboard_time": 1746356902,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154747,
@@ -7049,6 +7137,14 @@
       "onboard_time": 1746149489,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153334,
+      "num": 153334,
+      "word": "第五人格BLK战队",
+      "onboard_time": 1746356960,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 153199,
@@ -7187,12 +7283,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "仙逆",
+      "onboard_time": 1746357082,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150053,
       "num": 150053,
       "word": "拿吸管手搓了穿戴甲的高三生",
       "onboard_time": 1746070100,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150037,
+      "num": 150037,
+      "word": "淮水竹亭",
+      "onboard_time": 1746097041,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 150035,
@@ -7233,6 +7345,14 @@
       "onboard_time": 1746181949,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 149262,
+      "num": 149262,
+      "word": "中国7次举办苏杯7次冠军",
+      "onboard_time": 1746357082,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 149078,
@@ -7369,14 +7489,6 @@
       "onboard_time": 1746052576,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147478,
-      "num": 145483,
-      "word": "淮水竹亭",
-      "onboard_time": 1746097041,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 147407,
@@ -7681,6 +7793,14 @@
       "onboard_time": 1746261741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142879,
+      "num": 142879,
+      "word": "第五人格IP联动",
+      "onboard_time": 1746356960,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 142819,
@@ -9299,6 +9419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122490,
+      "num": 122490,
+      "word": "圣坛 暴力美学",
+      "onboard_time": 1746356302,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122338,
       "num": 122338,
       "word": "大鹏杨幂演夫妻",
@@ -9376,6 +9504,14 @@
       "word": "宋雨琦没想到上综艺还要考算数",
       "onboard_time": 1746192691,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120551,
+      "num": 120551,
+      "word": "央视五四晚会封面",
+      "onboard_time": 1746355761,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -9617,6 +9753,14 @@
       "onboard_time": 1746092361,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117254,
+      "num": 117254,
+      "word": "安洗莹不想看了",
+      "onboard_time": 1746357562,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117165,
@@ -12347,6 +12491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55190,
+      "num": 227411,
+      "word": "盘点苏迪曼杯名场面",
+      "onboard_time": 1746357021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54802,
       "num": 280461,
       "word": "美国经济7成概率陷入衰退",
@@ -14019,6 +14171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17446,
+      "num": 226612,
+      "word": "WAW漫展COS妆造小妙招",
+      "onboard_time": 1746357261,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 17222,
       "num": 340774,
       "word": "一颗榴莲有哪些营养特长",
@@ -14561,6 +14721,9 @@
     },
     {
       "word": "#习近平和青年朋友的10个暖心瞬间#"
+    },
+    {
+      "word": "#做青年朋友的知心人#"
     }
   ]
 }
