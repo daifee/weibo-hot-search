@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746383509363,
+  "endTime": 1746384331889,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -515,8 +515,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31241,
+      "num": 37573,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29687,
-      "num": 36412,
+      "num": 37474,
       "word": "宋亚轩诠释了什么叫好彩自然来",
       "onboard_time": 1746380657,
       "rank": 41,
@@ -524,15 +532,23 @@
     },
     {
       "raw_hot": 28565,
-      "num": 36410,
+      "num": 37471,
       "word": "赵心童vs威廉姆斯",
       "onboard_time": 1746362485,
       "rank": 43,
       "category": "体育"
     },
     {
-      "raw_hot": 24932,
-      "num": 36404,
+      "raw_hot": 25709,
+      "num": 37500,
+      "word": "张真源舞台表现力",
+      "onboard_time": 1746383715,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 25062,
+      "num": 37486,
       "word": "青春赞歌",
       "onboard_time": 1746381856,
       "rank": 49,
