@@ -1,0 +1,410 @@
+{
+  "runTime": 1746343353319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1656585,
+        "num": 1656585,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555873,
+        "num": 555873,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36022,
+        "num": 443507,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1112815,
+        "num": 437998,
+        "word": "悟空 赵朔",
+        "onboard_time": 1746338060,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 427697,
+        "num": 427697,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309573,
+        "num": 309573,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740057,
+        "num": 305161,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650661,
+        "num": 304898,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297438,
+        "num": 297438,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 8,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 294832,
+        "num": 294832,
+        "word": "Prada认领登陆少年",
+        "onboard_time": 1746339260,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 479603,
+        "num": 294449,
+        "word": "悟空小猫",
+        "onboard_time": 1746340342,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476845,
+        "num": 279530,
+        "word": "张凌赫给迪丽热巴把脉",
+        "onboard_time": 1746341541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465493,
+        "num": 258830,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332854,
+        "num": 248448,
+        "word": "黄子韬称做卫生巾投了几个亿",
+        "onboard_time": 1746336981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244013,
+        "num": 244013,
+        "word": "夫妻吵架丈夫被扔高速上手机也没带",
+        "onboard_time": 1746342260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240174,
+        "num": 240174,
+        "word": "苏杯中国vs韩国",
+        "onboard_time": 1746340521,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232664,
+        "num": 232664,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228361,
+        "num": 228361,
+        "word": "荣昌政府食堂2天接待近2万游客",
+        "onboard_time": 1746338661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18135,
+        "num": 221218,
+        "word": "如何预防及改善牙龈萎缩",
+        "onboard_time": 1746342800,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48964,
+        "num": 219426,
+        "word": "27岁的他用焊花焊成了五四奖章",
+        "onboard_time": 1746342200,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 218195,
+        "num": 218195,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189006,
+        "num": 189006,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1746340581,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186184,
+        "num": 186184,
+        "word": "孙怡人鱼公主发色",
+        "onboard_time": 1746342501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180747,
+        "num": 180747,
+        "word": "日本首相对美国撂狠话",
+        "onboard_time": 1746341602,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177408,
+        "num": 177408,
+        "word": "男子与女友吵架为泄愤16楼扔电竞椅",
+        "onboard_time": 1746335001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176660,
+        "num": 176660,
+        "word": "邓超备战明年斯诺克",
+        "onboard_time": 1746333741,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 173081,
+        "num": 173081,
+        "word": "加沙瘦骨嶙峋女孩说想吃肉",
+        "onboard_time": 1746339742,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160687,
+        "num": 160687,
+        "word": "大梅沙",
+        "onboard_time": 1746335242,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158874,
+        "num": 158874,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149674,
+        "num": 149674,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148482,
+        "num": 148482,
+        "word": "LadyGaga250万人演唱会",
+        "onboard_time": 1746338721,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143289,
+        "num": 143289,
+        "word": "17岁战士为兵工厂独守7天7夜后阵亡",
+        "onboard_time": 1746343161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138181,
+        "num": 138181,
+        "word": "刘诗诗演员类型稀缺性",
+        "onboard_time": 1746331040,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124419,
+        "num": 124419,
+        "word": "吴是温开球",
+        "onboard_time": 1746338601,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 89876,
+        "num": 121095,
+        "word": "iG你比划我来猜",
+        "onboard_time": 1746343100,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118750,
+        "num": 118750,
+        "word": "普京称会努力克制住想揍人的冲动",
+        "onboard_time": 1746335841,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118734,
+        "num": 118734,
+        "word": "丁禹兮ins点赞",
+        "onboard_time": 1746328341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118279,
+        "num": 118279,
+        "word": "30岁独居女生的小家",
+        "onboard_time": 1746341121,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118103,
+        "num": 118103,
+        "word": "金靖勇敢的人先享受张凌赫的腹肌",
+        "onboard_time": 1746342980,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14220,
+        "num": 116698,
+        "word": "从什么时候起人手一部手机",
+        "onboard_time": 1746342860,
+        "rank": 39,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 116636,
+        "num": 116636,
+        "word": "气象部门回应西安雷雨夜不明飞行物",
+        "onboard_time": 1746329060,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115312,
+        "num": 115312,
+        "word": "100块人民币在日本能买多少东西",
+        "onboard_time": 1746334640,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112553,
+        "num": 112553,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 111685,
+        "num": 111685,
+        "word": "哪吒2破158亿了",
+        "onboard_time": 1746332601,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108506,
+        "num": 108506,
+        "word": "K总说家里不是小孩写作业的地方",
+        "onboard_time": 1746343219,
+        "rank": 44,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 104726,
+        "num": 104726,
+        "word": "高瀚宇上班替老板付空调电费",
+        "onboard_time": 1746341602,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102323,
+        "num": 102323,
+        "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+        "onboard_time": 1746343282,
+        "rank": 46,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 100381,
+        "num": 100381,
+        "word": "养气血这件事得向猫学",
+        "onboard_time": 1746343161,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99596,
+        "num": 99596,
+        "word": "宋妍霏真的好适合当队长",
+        "onboard_time": 1746341900,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99245,
+        "num": 99245,
+        "word": "王大陆回应涉嫌教唆杀人未遂",
+        "onboard_time": 1746330562,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
