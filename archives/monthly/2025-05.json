@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746347362437,
+  "endTime": 1746348169124,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -1523,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538723,
+      "num": 284626,
+      "word": "九派新闻 赵朔",
+      "onboard_time": 1746345802,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536673,
       "num": 432095,
       "word": "陈丽君 贾宝玉",
@@ -2075,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422314,
+      "num": 284687,
+      "word": "迪丽热巴跳九万字",
+      "onboard_time": 1746345985,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422252,
       "num": 422252,
       "word": "异瞳男生回应不到一个月涨粉200万",
@@ -2249,14 +2265,6 @@
       "onboard_time": 1746069562,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394564,
-      "num": 284687,
-      "word": "迪丽热巴跳九万字",
-      "onboard_time": 1746345985,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 393455,
@@ -2484,7 +2492,7 @@
     },
     {
       "raw_hot": 352238,
-      "num": 166854,
+      "num": 209652,
       "word": "麻省理工女硕士香港月租5万的家",
       "onboard_time": 1746344960,
       "rank": 30,
@@ -3104,14 +3112,6 @@
       "word": "医学院有很多专业不能当医生",
       "onboard_time": 1746256099,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284626,
-      "num": 284626,
-      "word": "九派新闻 赵朔",
-      "onboard_time": 1746345802,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3739,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228489,
+      "num": 225418,
+      "word": "还珠格格柳红聊爆火后的人生",
+      "onboard_time": 1746346941,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228403,
       "num": 228403,
       "word": "长期大量喝奶茶当心伤肾",
@@ -3801,14 +3809,6 @@
       "onboard_time": 1746164309,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 225418,
-      "num": 225418,
-      "word": "还珠格格柳红聊爆火后的人生",
-      "onboard_time": 1746346941,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 224540,
@@ -4841,6 +4841,14 @@
       "onboard_time": 1746184591,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192953,
+      "num": 192953,
+      "word": "iPhone18或推迟上市",
+      "onboard_time": 1746347062,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 192779,
@@ -7411,6 +7419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141963,
+      "num": 141963,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1746345081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141687,
       "num": 141687,
       "word": "冯彦哲复刻日本队庆祝动作回击",
@@ -7731,6 +7747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137565,
+      "num": 284730,
+      "word": "解放军仪仗队红场高唱抗日歌曲",
+      "onboard_time": 1746345802,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137414,
       "num": 137414,
       "word": "黄仁勋称华为全球最强科技公司之一",
@@ -7953,14 +7977,6 @@
       "onboard_time": 1746076401,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133827,
-      "num": 133827,
-      "word": "妻子的浪漫旅行",
-      "onboard_time": 1746345081,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 133464,
@@ -8675,14 +8691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125482,
-      "num": 125482,
-      "word": "iPhone18或推迟上市",
-      "onboard_time": 1746347062,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125439,
       "num": 125439,
       "word": "全红婵陈芋汐pk水花消失术",
@@ -8851,6 +8859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123121,
+      "num": 123121,
+      "word": "留学生唱强军战歌欢迎解放军",
+      "onboard_time": 1746347481,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 122833,
       "num": 122833,
       "word": "爸爸抱起孩子大狗仍追着咬",
@@ -8920,6 +8936,14 @@
       "word": "詹姆斯谈未来打算",
       "onboard_time": 1746087561,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121432,
+      "num": 121432,
+      "word": "苏杯中国1比0韩国",
+      "onboard_time": 1746344899,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -9963,6 +9987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105687,
+      "num": 212707,
+      "word": "王珞丹的小狗生病",
+      "onboard_time": 1746346583,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105637,
       "num": 114662,
       "word": "这一周期最爆古偶是永夜星河九重紫",
@@ -10001,6 +10033,14 @@
       "onboard_time": 1746257060,
       "rank": 46,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 105273,
+      "num": 105273,
+      "word": "杨天真一年瘦了25斤",
+      "onboard_time": 1746347661,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 105202,
@@ -10307,6 +10347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 99423,
+      "num": 99423,
+      "word": "59岁退休再就业打三份工的一天",
+      "onboard_time": 1746347962,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99379,
       "num": 99379,
       "word": "快船掘金抢七",
@@ -10497,6 +10545,14 @@
       "onboard_time": 1746173361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95645,
+      "num": 279663,
+      "word": "镇政府食堂假期10元可吃五菜一汤",
+      "onboard_time": 1746345985,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95278,
@@ -10731,14 +10787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89046,
-      "num": 284730,
-      "word": "解放军仪仗队红场高唱抗日歌曲",
-      "onboard_time": 1746345802,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 88866,
       "num": 88866,
       "word": "王栎鑫俞灏明合唱直到世界尽头",
@@ -10769,14 +10817,6 @@
       "onboard_time": 1746189990,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88662,
-      "num": 212707,
-      "word": "王珞丹的小狗生病",
-      "onboard_time": 1746346583,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 88344,
@@ -11777,14 +11817,6 @@
       "onboard_time": 1746250101,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58872,
-      "num": 279663,
-      "word": "镇政府食堂假期10元可吃五菜一汤",
-      "onboard_time": 1746345985,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58475,
@@ -13849,6 +13881,14 @@
       "onboard_time": 1746241279,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10585,
+      "num": 207814,
+      "word": "WAW惊现偷心大盗无料",
+      "onboard_time": 1746347363,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 10478,

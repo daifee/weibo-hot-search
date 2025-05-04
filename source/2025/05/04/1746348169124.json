@@ -1,0 +1,410 @@
+{
+  "runTime": 1746348169124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045217,
+        "num": 2045217,
+        "word": "卢靖姗韩庚官宣二胎",
+        "onboard_time": 1746344899,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459119,
+        "num": 459119,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31519,
+        "num": 378136,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 775599,
+        "num": 353991,
+        "word": "悟空 赵朔",
+        "onboard_time": 1746338060,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 298766,
+        "num": 298766,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221877,
+        "num": 221877,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731121,
+        "num": 221589,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532987,
+        "num": 221447,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+        "onboard_time": 1746343282,
+        "rank": 8,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 214634,
+        "num": 214634,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538723,
+        "num": 213792,
+        "word": "九派新闻 赵朔",
+        "onboard_time": 1746345802,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 436164,
+        "num": 212523,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422314,
+        "num": 210538,
+        "word": "迪丽热巴跳九万字",
+        "onboard_time": 1746345985,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309275,
+        "num": 209652,
+        "word": "麻省理工女硕士香港月租5万的家",
+        "onboard_time": 1746344960,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10585,
+        "num": 207814,
+        "word": "WAW惊现偷心大盗无料",
+        "onboard_time": 1746347363,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 250763,
+        "num": 207549,
+        "word": "张凌赫给迪丽热巴把脉",
+        "onboard_time": 1746341541,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246776,
+        "num": 205487,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204847,
+        "num": 204847,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1746340581,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205291,
+        "num": 204541,
+        "word": "前国乒教练吴敬平又挖到一个小胖",
+        "onboard_time": 1746343881,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192953,
+        "num": 192953,
+        "word": "iPhone18或推迟上市",
+        "onboard_time": 1746347062,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351437,
+        "num": 191594,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228489,
+        "num": 180714,
+        "word": "还珠格格柳红聊爆火后的人生",
+        "onboard_time": 1746346941,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226693,
+        "num": 177069,
+        "word": "夫妻吵架丈夫被扔高速上手机也没带",
+        "onboard_time": 1746342260,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216306,
+        "num": 168827,
+        "word": "K总说家里不是小孩写作业的地方",
+        "onboard_time": 1746343219,
+        "rank": 23,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 167317,
+        "num": 167317,
+        "word": "苏杯中国vs韩国",
+        "onboard_time": 1746340521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159213,
+        "num": 159213,
+        "word": "悟空小猫",
+        "onboard_time": 1746340342,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143818,
+        "num": 143818,
+        "word": "在网上买狗 卖家带上项圈扑过来了",
+        "onboard_time": 1746343821,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105687,
+        "num": 142647,
+        "word": "王珞丹的小狗生病",
+        "onboard_time": 1746346583,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141963,
+        "num": 141963,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1746345081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140104,
+        "num": 140104,
+        "word": "日本首相对美国撂狠话",
+        "onboard_time": 1746341602,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137565,
+        "num": 137565,
+        "word": "解放军仪仗队红场高唱抗日歌曲",
+        "onboard_time": 1746345802,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129696,
+        "num": 129696,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 31,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 128935,
+        "num": 128935,
+        "word": "陈丽君王兴兴桂海潮等获五四奖章",
+        "onboard_time": 1746344363,
+        "rank": 32,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 126743,
+        "num": 126743,
+        "word": "王一博周深邓为等亮相央视五四晚会",
+        "onboard_time": 1746346522,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 124747,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123121,
+        "num": 123121,
+        "word": "留学生唱强军战歌欢迎解放军",
+        "onboard_time": 1746347481,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121432,
+        "num": 121432,
+        "word": "苏杯中国1比0韩国",
+        "onboard_time": 1746344899,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117313,
+        "num": 117313,
+        "word": "于正专门给程潇加了吻戏",
+        "onboard_time": 1746346701,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114110,
+        "num": 114110,
+        "word": "Prada认领登陆少年",
+        "onboard_time": 1746339260,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 112859,
+        "num": 112859,
+        "word": "吴彤以为柯淳是关系户",
+        "onboard_time": 1746343340,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105273,
+        "num": 105273,
+        "word": "杨天真一年瘦了25斤",
+        "onboard_time": 1746347661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103719,
+        "num": 103719,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102315,
+        "num": 102315,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99423,
+        "num": 99423,
+        "word": "59岁退休再就业打三份工的一天",
+        "onboard_time": 1746347962,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95645,
+        "num": 95645,
+        "word": "镇政府食堂假期10元可吃五菜一汤",
+        "onboard_time": 1746345985,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94342,
+        "num": 94342,
+        "word": "沈梦辰撕拉片",
+        "onboard_time": 1746343642,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93536,
+        "num": 93536,
+        "word": "17岁战士为兵工厂独守7天7夜后阵亡",
+        "onboard_time": 1746343161,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88956,
+        "num": 88956,
+        "word": "金靖勇敢的人先享受张凌赫的腹肌",
+        "onboard_time": 1746342980,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86541,
+        "num": 86541,
+        "word": "黄东萍好牛",
+        "onboard_time": 1746344300,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86443,
+        "num": 86443,
+        "word": "马斯克建立城市",
+        "onboard_time": 1746344661,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语青年朋友#"
+    }
+  }
+}
