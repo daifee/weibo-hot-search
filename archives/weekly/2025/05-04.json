@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746387357051,
+  "endTime": 1746390359404,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1746314056,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178274,
+      "num": 178274,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178264,
@@ -3971,14 +3979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43281,
-      "num": 37956,
-      "word": "西安夜空不明物可能是什么",
-      "onboard_time": 1746383537,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42935,
       "num": 269777,
       "word": "王权弘业穿着深V就要去见老丈人",
@@ -4435,6 +4435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12403,
+      "num": 31652,
+      "word": "红场解放军这一幕令人热血沸腾",
+      "onboard_time": 1746389473,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12049,
       "num": 289210,
       "word": "WAW一日店长营业中",
@@ -4448,6 +4456,14 @@
       "word": "文化中国行",
       "onboard_time": 1746308534,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11322,
+      "num": 20435,
+      "word": "民警3天捡了25个孩子",
+      "onboard_time": 1746390254,
+      "rank": 46,
       "category": "民生新闻"
     },
     {

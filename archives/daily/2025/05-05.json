@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746387357051,
+  "endTime": 1746390359404,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -209,6 +209,14 @@
       "onboard_time": 1746374842,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178274,
+      "num": 178274,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174264,
@@ -507,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 43281,
-      "num": 37956,
-      "word": "西安夜空不明物可能是什么",
-      "onboard_time": 1746383537,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41003,
       "num": 806489,
       "word": "这是一路向前的中国青年",
@@ -561,6 +561,22 @@
       "onboard_time": 1746384495,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12403,
+      "num": 31652,
+      "word": "红场解放军这一幕令人热血沸腾",
+      "onboard_time": 1746389473,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11322,
+      "num": 20435,
+      "word": "民警3天捡了25个孩子",
+      "onboard_time": 1746390254,
+      "rank": 46,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
