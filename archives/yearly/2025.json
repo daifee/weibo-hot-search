@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746358577760,
+  "endTime": 1746362693822,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -777,6 +777,14 @@
       "onboard_time": 1735659686,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8318221,
+      "num": 9568221,
+      "word": "贵州黔西游船侧翻事故约70人落水",
+      "onboard_time": 1746359842,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8226159,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736607930,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3045444,
-      "num": 3045444,
-      "word": "孙颖莎亚洲杯亚军",
-      "onboard_time": 1740313342,
-      "rank": 3,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

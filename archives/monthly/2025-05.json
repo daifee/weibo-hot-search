@@ -1,7 +1,15 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746358577760,
+  "endTime": 1746362693822,
   "band_list": [
+    {
+      "raw_hot": 8318221,
+      "num": 9568221,
+      "word": "贵州黔西游船侧翻事故约70人落水",
+      "onboard_time": 1746359842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3885539,
       "num": 393491,
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 824688,
+      "num": 824688,
+      "word": "五四晚会",
+      "onboard_time": 1746360263,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 823968,
       "num": 823968,
       "word": "泰山陪爬小伙忙疯了也赚疯了",
@@ -939,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 797490,
+      "num": 227528,
+      "word": "白百何首晒二胎儿子",
+      "onboard_time": 1746358162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796819,
       "num": 348841,
       "word": "吸血的阴虱",
@@ -953,6 +977,14 @@
       "onboard_time": 1746257181,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 793217,
+      "num": 199255,
+      "word": "石凯站姐下手太狠了",
+      "onboard_time": 1746359182,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 780708,
@@ -1427,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 601253,
+      "num": 487406,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597298,
       "num": 597298,
       "word": "iG",
@@ -1787,14 +1827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487406,
-      "num": 487406,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 485942,
       "num": 485942,
       "word": "周深一开嗓唱出踏风破浪",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1746340581,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478087,
+      "num": 478087,
+      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+      "onboard_time": 1746357021,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477395,
@@ -2347,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407900,
+      "num": 407900,
+      "word": "贵州游船侧翻已打捞搜救50余人",
+      "onboard_time": 1746360203,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407874,
       "num": 407874,
       "word": "张小婉组五公第一",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1746355283,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397014,
+      "num": 204075,
+      "word": "贵州游船",
+      "onboard_time": 1746359964,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395141,
@@ -2547,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371550,
+      "num": 198576,
+      "word": "孙怡吃了三天过敏药才敢染红发",
+      "onboard_time": 1746359120,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371374,
       "num": 371374,
       "word": "左航耳返",
@@ -2585,6 +2649,14 @@
       "onboard_time": 1746240501,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 367902,
+      "num": 367902,
+      "word": "陕西漂流翻船当事人说2个座挤5个人",
+      "onboard_time": 1746360683,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367361,
@@ -2729,6 +2801,14 @@
       "onboard_time": 1746289461,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 345005,
+      "num": 345005,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1746359964,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 344357,
@@ -3131,14 +3211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 303612,
-      "num": 227528,
-      "word": "白百何首晒二胎儿子",
-      "onboard_time": 1746358162,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303476,
       "num": 107312,
       "word": "孩子再卷也比不上作弊的",
@@ -3401,6 +3473,14 @@
       "onboard_time": 1746029482,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276736,
+      "num": 194410,
+      "word": "马筱梅前夫晒结婚证明",
+      "onboard_time": 1746361763,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 276407,
@@ -4195,6 +4275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 216728,
+      "num": 193828,
+      "word": "全红婵说发育期不够自律",
+      "onboard_time": 1746362544,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215922,
       "num": 215922,
       "word": "确山打铁花千年来第一位女传承人",
@@ -4273,6 +4361,14 @@
       "onboard_time": 1746271221,
       "rank": 18,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 210262,
+      "num": 196976,
+      "word": "刘德华被女儿炫爸",
+      "onboard_time": 1746360143,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 210261,
@@ -4779,6 +4875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198517,
+      "num": 198517,
+      "word": "库珀Gigi公开恋情",
+      "onboard_time": 1746360624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198419,
       "num": 198419,
       "word": "小米回应SU7Ultra限制1500匹马力",
@@ -5065,6 +5169,14 @@
       "onboard_time": 1746357142,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193710,
+      "num": 193710,
+      "word": "Wolves对战ZETA",
+      "onboard_time": 1746358402,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 193694,
@@ -5411,6 +5523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188706,
+      "num": 188706,
+      "word": "狼队醒醒",
+      "onboard_time": 1746361043,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188618,
       "num": 138747,
       "word": "苏杯石宇奇2比0奈良冈功大",
@@ -5473,6 +5593,14 @@
       "onboard_time": 1746159270,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187932,
+      "num": 196563,
+      "word": "赵今麦央视镜头",
+      "onboard_time": 1746361403,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 187859,
@@ -5673,14 +5801,6 @@
       "onboard_time": 1746235941,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 184553,
-      "num": 200621,
-      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
-      "onboard_time": 1746357021,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184447,
@@ -6033,6 +6153,14 @@
       "onboard_time": 1746095841,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174713,
+      "num": 195067,
+      "word": "中国军人莫斯科彩排手握枪口护群众",
+      "onboard_time": 1746360742,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174628,
@@ -6777,6 +6905,14 @@
       "onboard_time": 1746357202,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160121,
+      "num": 160121,
+      "word": "五一随手拍",
+      "onboard_time": 1746362544,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159942,
@@ -7851,6 +7987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "日本偶遇金靖夫妇",
+      "onboard_time": 1746358341,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142616,
       "num": 142616,
       "word": "乘风2025第四次分组",
@@ -8403,6 +8547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "时代少年团谁的发型不行",
+      "onboard_time": 1746360683,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134857,
       "num": 255144,
       "word": "肖战包场支持苍茫的天涯是我的爱",
@@ -8619,14 +8771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131879,
-      "num": 131879,
-      "word": "日本偶遇金靖夫妇",
-      "onboard_time": 1746358341,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131860,
       "num": 131860,
       "word": "如果帅的追你你一秒就同意了",
@@ -8811,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129418,
+      "num": 129418,
+      "word": "迪士尼偶遇邓超孙俪一家四口",
+      "onboard_time": 1746361463,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129128,
       "num": 129128,
       "word": "跟喜欢的人短短聊天五分钟",
@@ -8857,6 +9009,14 @@
       "onboard_time": 1746160949,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128653,
+      "num": 128653,
+      "word": "韩安冉老公拍戏被男一蛐蛐",
+      "onboard_time": 1746362606,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 128594,
@@ -9128,14 +9288,6 @@
       "word": "mrc 三跑",
       "onboard_time": 1746092361,
       "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 126548,
-      "num": 126548,
-      "word": "Wolves对战ZETA",
-      "onboard_time": 1746358402,
-      "rank": 41,
       "category": "电竞"
     },
     {
@@ -9865,6 +10017,14 @@
       "onboard_time": 1746057379,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116488,
+      "num": 116488,
+      "word": "WB对战DRG",
+      "onboard_time": 1746360083,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 116483,
@@ -11289,6 +11449,14 @@
       "onboard_time": 1746345021,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92558,
+      "num": 197861,
+      "word": "在奔跑的路上发光发亮",
+      "onboard_time": 1746362425,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 92383,
@@ -13163,6 +13331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 40187,
+      "num": 198435,
+      "word": "全红婵学冰壶",
+      "onboard_time": 1746362304,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40021,
       "num": 65894,
       "word": "没有信息表明董袭莹能力超群",
@@ -13777,6 +13953,14 @@
       "onboard_time": 1746159809,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25101,
+      "num": 202722,
+      "word": "WAW二次元五一大聚会",
+      "onboard_time": 1746360083,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 24894,
@@ -14467,6 +14651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14005,
+      "num": 200238,
+      "word": "为什么碳水可以使人情绪稳定",
+      "onboard_time": 1746362185,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13546,
       "num": 151558,
       "word": "神十九回家高清图集",
@@ -14688,6 +14880,14 @@
       "word": "西班牙和葡萄牙为何同时停电",
       "onboard_time": 1746066080,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 7050,
+      "num": 197551,
+      "word": "巴基斯坦与印度对峙底气来自哪里",
+      "onboard_time": 1746362485,
+      "rank": 26,
       "category": "国际时政"
     },
     {

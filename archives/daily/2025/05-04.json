@@ -1,7 +1,15 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746358577760,
+  "endTime": 1746362693822,
   "band_list": [
+    {
+      "raw_hot": 8318221,
+      "num": 9568221,
+      "word": "贵州黔西游船侧翻事故约70人落水",
+      "onboard_time": 1746359842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2203583,
       "num": 2203583,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824688,
+      "num": 824688,
+      "word": "五四晚会",
+      "onboard_time": 1746360263,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 821012,
       "num": 821012,
       "word": "全红婵哥哥回应老家建120平别墅",
@@ -185,6 +201,22 @@
       "onboard_time": 1746326479,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 797490,
+      "num": 227528,
+      "word": "白百何首晒二胎儿子",
+      "onboard_time": 1746358162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 793217,
+      "num": 199255,
+      "word": "石凯站姐下手太狠了",
+      "onboard_time": 1746359182,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 786520,
@@ -289,6 +321,14 @@
       "onboard_time": 1746332601,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 601253,
+      "num": 487406,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 597298,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487406,
-      "num": 487406,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481163,
       "num": 481163,
       "word": "第五人格",
@@ -441,6 +473,14 @@
       "onboard_time": 1746340581,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478087,
+      "num": 478087,
+      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+      "onboard_time": 1746357021,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 454471,
@@ -499,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407900,
+      "num": 407900,
+      "word": "贵州游船侧翻已打捞搜救50余人",
+      "onboard_time": 1746360203,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403066,
       "num": 403066,
       "word": "石宇奇苏杯战神",
@@ -513,6 +561,14 @@
       "onboard_time": 1746355283,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397014,
+      "num": 204075,
+      "word": "贵州游船",
+      "onboard_time": 1746359964,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395141,
@@ -563,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371550,
+      "num": 198576,
+      "word": "孙怡吃了三天过敏药才敢染红发",
+      "onboard_time": 1746359120,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367902,
+      "num": 367902,
+      "word": "陕西漂流翻船当事人说2个座挤5个人",
+      "onboard_time": 1746360683,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360997,
       "num": 360997,
       "word": "种地吧生活直播",
@@ -609,6 +681,14 @@
       "onboard_time": 1746289461,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 345005,
+      "num": 345005,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1746359964,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 344357,
@@ -731,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303612,
-      "num": 227528,
-      "word": "白百何首晒二胎儿子",
-      "onboard_time": 1746358162,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298610,
       "num": 312896,
       "word": "柯淳哭戏",
@@ -769,6 +841,14 @@
       "onboard_time": 1746343881,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276736,
+      "num": 194410,
+      "word": "马筱梅前夫晒结婚证明",
+      "onboard_time": 1746361763,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 270440,
@@ -899,6 +979,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 237442,
+      "num": 237442,
+      "word": "时代少年团演唱会节目单",
+      "onboard_time": 1746360143,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228489,
       "num": 225418,
       "word": "还珠格格柳红聊爆火后的人生",
@@ -947,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216728,
+      "num": 193828,
+      "word": "全红婵说发育期不够自律",
+      "onboard_time": 1746362544,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215922,
       "num": 215922,
       "word": "确山打铁花千年来第一位女传承人",
@@ -976,6 +1072,14 @@
       "word": "姜磊否认云歌会逼成毅",
       "onboard_time": 1746357981,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210262,
+      "num": 196976,
+      "word": "刘德华被女儿炫爸",
+      "onboard_time": 1746360143,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1139,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198517,
+      "num": 198517,
+      "word": "库珀Gigi公开恋情",
+      "onboard_time": 1746360624,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197908,
       "num": 317749,
       "word": "中国体育正当年",
@@ -1171,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193710,
+      "num": 193710,
+      "word": "Wolves对战ZETA",
+      "onboard_time": 1746358402,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193509,
       "num": 193509,
       "word": "成为老登是一种宿命",
@@ -1195,6 +1315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188706,
+      "num": 188706,
+      "word": "狼队醒醒",
+      "onboard_time": 1746361043,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187932,
+      "num": 196563,
+      "word": "赵今麦央视镜头",
+      "onboard_time": 1746361403,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187609,
       "num": 187609,
       "word": "模仿西门礼臣 我是你的狗",
@@ -1217,14 +1353,6 @@
       "onboard_time": 1746342501,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184553,
-      "num": 200621,
-      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
-      "onboard_time": 1746357021,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184447,
@@ -1313,6 +1441,14 @@
       "onboard_time": 1746284124,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174713,
+      "num": 195067,
+      "word": "中国军人莫斯科彩排手握枪口护群众",
+      "onboard_time": 1746360742,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173805,
@@ -1491,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160121,
+      "num": 160121,
+      "word": "五一随手拍",
+      "onboard_time": 1746362544,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157081,
       "num": 157081,
       "word": "日媒称美再拒绝给日本特殊关税待遇",
@@ -1667,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "日本偶遇金靖夫妇",
+      "onboard_time": 1746358341,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141666,
       "num": 141666,
       "word": "我勒个面具团神级站位",
@@ -1819,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "时代少年团谁的发型不行",
+      "onboard_time": 1746360683,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "歌手2025",
@@ -1843,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131879,
-      "num": 131879,
-      "word": "日本偶遇金靖夫妇",
-      "onboard_time": 1746358341,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130109,
       "num": 130109,
       "word": "青春不问何时",
@@ -1873,6 +2025,22 @@
       "onboard_time": 1746344300,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129418,
+      "num": 129418,
+      "word": "迪士尼偶遇邓超孙俪一家四口",
+      "onboard_time": 1746361463,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128653,
+      "num": 128653,
+      "word": "韩安冉老公拍戏被男一蛐蛐",
+      "onboard_time": 1746362606,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 128366,
@@ -1921,14 +2089,6 @@
       "onboard_time": 1746339321,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126548,
-      "num": 126548,
-      "word": "Wolves对战ZETA",
-      "onboard_time": 1746358402,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 126460,
@@ -2089,6 +2249,14 @@
       "onboard_time": 1746326661,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116488,
+      "num": 116488,
+      "word": "WB对战DRG",
+      "onboard_time": 1746360083,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 115531,
@@ -2483,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92558,
+      "num": 197861,
+      "word": "在奔跑的路上发光发亮",
+      "onboard_time": 1746362425,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 90810,
       "num": 90810,
       "word": "梅西破门",
@@ -2811,6 +2987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 40187,
+      "num": 198435,
+      "word": "全红婵学冰壶",
+      "onboard_time": 1746362304,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39475,
       "num": 64721,
       "word": "北京草莓音乐节",
@@ -2987,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25101,
+      "num": 202722,
+      "word": "WAW二次元五一大聚会",
+      "onboard_time": 1746360083,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24878,
       "num": 32939,
       "word": "2025LPL第二赛段",
@@ -3147,6 +3339,14 @@
       "category": "民生新闻,其它"
     },
     {
+      "raw_hot": 14005,
+      "num": 200238,
+      "word": "为什么碳水可以使人情绪稳定",
+      "onboard_time": 1746362185,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13391,
       "num": 343213,
       "word": "职场年龄焦虑如何面对",
@@ -3201,6 +3401,14 @@
       "onboard_time": 1746343881,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7050,
+      "num": 197551,
+      "word": "巴基斯坦与印度对峙底气来自哪里",
+      "onboard_time": 1746362485,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4730,
