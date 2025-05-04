@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746391184723,
+  "endTime": 1746393730987,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -1595,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200847,
+      "num": 200847,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200666,
       "num": 200666,
       "word": "时代少年团die for you",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1746372025,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189713,
-      "num": 189713,
-      "word": "西安夜空不明物可能是什么",
-      "onboard_time": 1746383537,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189519,
@@ -3947,6 +3947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45893,
+      "num": 45893,
+      "word": "民警3天捡了25个孩子",
+      "onboard_time": 1746390254,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45767,
       "num": 198093,
       "word": "KB签售超长宠粉日",
@@ -4435,20 +4443,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12653,
+      "num": 24551,
+      "word": "一个人的寻亲路两代人的报国心",
+      "onboard_time": 1746391934,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12403,
       "num": 31652,
       "word": "红场解放军这一幕令人热血沸腾",
       "onboard_time": 1746389473,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12125,
-      "num": 34838,
-      "word": "民警3天捡了25个孩子",
-      "onboard_time": 1746390254,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12049,
@@ -4481,6 +4489,22 @@
       "onboard_time": 1746347363,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 19654,
+      "word": "中方坚定维护国家领土主权和海洋权益",
+      "onboard_time": 1746392714,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10222,
+      "num": 20290,
+      "word": "国防部回应日民用飞机侵闯我钓鱼岛领空",
+      "onboard_time": 1746393555,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9544,
