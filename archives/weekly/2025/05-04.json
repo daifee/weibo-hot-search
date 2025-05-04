@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746368502892,
+  "endTime": 1746369578730,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -51,7 +51,7 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 1843987,
+      "raw_hot": 1862800,
       "num": 349891,
       "word": "Angelababy小海绵自拍",
       "onboard_time": 1746365905,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707412,
+      "num": 343109,
+      "word": "李兰迪泳装",
+      "onboard_time": 1746366685,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693116,
       "num": 287892,
       "word": "协和4加4培养的是天才还是关系户",
@@ -329,14 +337,6 @@
       "onboard_time": 1746348743,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 628354,
-      "num": 343109,
-      "word": "李兰迪泳装",
-      "onboard_time": 1746366685,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 623715,
@@ -585,6 +585,14 @@
       "onboard_time": 1746348441,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452143,
+      "num": 248591,
+      "word": "被结婚的手捧花价格吓到了",
+      "onboard_time": 1746368305,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 433776,
@@ -915,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302325,
+      "num": 302325,
+      "word": "DRG战胜WB",
+      "onboard_time": 1746368906,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298610,
       "num": 312896,
       "word": "柯淳哭戏",
@@ -928,6 +944,14 @@
       "word": "刘亦菲徐海乔又同框了",
       "onboard_time": 1746348922,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293156,
+      "num": 293156,
+      "word": "淮水竹亭热度",
+      "onboard_time": 1746366806,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -953,14 +977,6 @@
       "onboard_time": 1746361763,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274257,
-      "num": 274257,
-      "word": "淮水竹亭热度",
-      "onboard_time": 1746366806,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 272646,
@@ -1091,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247625,
+      "num": 247625,
+      "word": "17夺冠",
+      "onboard_time": 1746368425,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247009,
       "num": 247009,
       "word": "pgs全球系列赛",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1746357562,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220241,
-      "num": 220241,
-      "word": "被结婚的手捧花价格吓到了",
-      "onboard_time": 1746368305,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 219625,
@@ -1307,6 +1323,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 207299,
+      "num": 245416,
+      "word": "Kznk的梦想成真了",
+      "onboard_time": 1746367406,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207139,
       "num": 207139,
       "word": "越来越看不懂上海面包店了",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1746328640,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206826,
+      "num": 206826,
+      "word": "周深敦煌",
+      "onboard_time": 1746368484,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 206381,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1746271821,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205185,
+      "num": 205185,
+      "word": "章昊崔秀彬约饭",
+      "onboard_time": 1746369086,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 204901,
@@ -1409,6 +1449,22 @@
       "onboard_time": 1746282085,
       "rank": 22,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 200457,
+      "num": 200457,
+      "word": "祺轩",
+      "onboard_time": 1746368785,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 199078,
+      "num": 199078,
+      "word": "AG晋级PEL春决",
+      "onboard_time": 1746368723,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 198787,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1746357142,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193512,
+      "num": 193512,
+      "word": "AL战胜TES",
+      "onboard_time": 1746368244,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 193509,
@@ -1635,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179343,
-      "num": 179343,
-      "word": "17夺冠",
-      "onboard_time": 1746368425,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178511,
       "num": 178511,
       "word": "马丽 不要去干涉我们的生活",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1746284124,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175158,
+      "num": 175158,
+      "word": "2025LPL",
+      "onboard_time": 1746369324,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 174713,
@@ -1769,6 +1833,14 @@
       "onboard_time": 1746367165,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170018,
+      "num": 170018,
+      "word": "王一博五四晚会主题曲",
+      "onboard_time": 1746369206,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 169947,
@@ -1891,14 +1963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161043,
-      "num": 161043,
-      "word": "AL战胜TES",
-      "onboard_time": 1746368244,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "王者荣耀",
@@ -1939,20 +2003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159440,
+      "num": 159440,
+      "word": "PEL",
+      "onboard_time": 1746368605,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159132,
       "num": 159132,
       "word": "五四晚会节目单",
       "onboard_time": 1746363925,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157473,
-      "num": 157473,
-      "word": "周深敦煌",
-      "onboard_time": 1746368484,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 157081,
@@ -2073,6 +2137,14 @@
       "onboard_time": 1746357082,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148607,
+      "num": 331847,
+      "word": "村民自发参与贵州翻船事故救援",
+      "onboard_time": 1746368005,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 148570,
@@ -2361,6 +2433,14 @@
       "onboard_time": 1746368064,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130688,
+      "num": 232086,
+      "word": "贵州游船侧翻248名消防员在搜救",
+      "onboard_time": 1746367584,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130109,
@@ -2683,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111610,
+      "num": 144120,
+      "word": "皇马3比2塞尔塔",
+      "onboard_time": 1746369265,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111542,
       "num": 111542,
       "word": "五四运动106年",
@@ -2769,6 +2857,14 @@
       "onboard_time": 1746336620,
       "rank": 46,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 106695,
+      "num": 305445,
+      "word": "赵朔称悟空定位器20分钟断网",
+      "onboard_time": 1746369086,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105909,
@@ -3275,14 +3371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 59119,
-      "num": 331847,
-      "word": "村民自发参与贵州翻船事故救援",
-      "onboard_time": 1746368005,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
@@ -3331,20 +3419,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 52941,
+      "num": 273751,
+      "word": "贵州多地遭遇冰雹大风",
+      "onboard_time": 1746368064,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52723,
       "num": 186978,
       "word": "神印王座伊莱克斯超绝COS",
       "onboard_time": 1746329900,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 51519,
-      "num": 232086,
-      "word": "贵州游船侧翻248名消防员在搜救",
-      "onboard_time": 1746367584,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48837,
@@ -3393,6 +3481,14 @@
       "onboard_time": 1746335782,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44421,
+      "num": 205692,
+      "word": "贵州黔西游船侧翻事故游客发声",
+      "onboard_time": 1746369446,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 43548,
@@ -3569,14 +3665,6 @@
       "onboard_time": 1746298816,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28791,
-      "num": 273751,
-      "word": "贵州多地遭遇冰雹大风",
-      "onboard_time": 1746368064,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28415,
@@ -3851,6 +3939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10657,
+      "num": 205285,
+      "word": "韩国人可太爱延吉游了",
+      "onboard_time": 1746369446,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10585,
       "num": 207814,
       "word": "WAW惊现偷心大盗无料",
@@ -3915,6 +4011,9 @@
     },
     {
       "word": "#总书记对新时代青年寄予殷切期望#"
+    },
+    {
+      "word": "#习近平将对俄罗斯进行国事访问#"
     }
   ]
 }

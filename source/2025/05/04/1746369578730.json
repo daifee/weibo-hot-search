@@ -1,0 +1,410 @@
+{
+  "runTime": 1746369578730,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8646712,
+        "num": 8646712,
+        "word": "贵州黔西游船侧翻事故约70人落水",
+        "onboard_time": 1746359842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2224758,
+        "num": 2224758,
+        "word": "严浩翔受伤",
+        "onboard_time": 1746366446,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64026,
+        "num": 777456,
+        "word": "这是一路向前的中国青年",
+        "onboard_time": 1746366446,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620265,
+        "num": 620265,
+        "word": "翔霖 茫",
+        "onboard_time": 1746365845,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 420970,
+        "num": 420970,
+        "word": "全红婵说发育期不够自律",
+        "onboard_time": 1746362544,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356599,
+        "num": 356599,
+        "word": "陕西漂流翻船当事人说2个座挤5个人",
+        "onboard_time": 1746360683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52275,
+        "num": 312557,
+        "word": "五一假期最后一天立夏",
+        "onboard_time": 1746366806,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420332,
+        "num": 311635,
+        "word": "马嘉祺宋亚轩 阿楚姑娘",
+        "onboard_time": 1746365966,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 397598,
+        "num": 310707,
+        "word": "那女孩对我说",
+        "onboard_time": 1746366025,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306748,
+        "num": 306748,
+        "word": "贵州游船侧翻已打捞搜救50余人",
+        "onboard_time": 1746360203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1862800,
+        "num": 306241,
+        "word": "Angelababy小海绵自拍",
+        "onboard_time": 1746365905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106695,
+        "num": 305445,
+        "word": "赵朔称悟空定位器20分钟断网",
+        "onboard_time": 1746369086,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707412,
+        "num": 304891,
+        "word": "李兰迪泳装",
+        "onboard_time": 1746366685,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600548,
+        "num": 304009,
+        "word": "白百何首晒二胎儿子",
+        "onboard_time": 1746358162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148607,
+        "num": 303177,
+        "word": "村民自发参与贵州翻船事故救援",
+        "onboard_time": 1746368005,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 380763,
+        "num": 302994,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302325,
+        "num": 302325,
+        "word": "DRG战胜WB",
+        "onboard_time": 1746368906,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 293156,
+        "num": 293156,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746366806,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255194,
+        "num": 255194,
+        "word": "理发师晓华说店面处于亏损状态",
+        "onboard_time": 1746352821,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 52941,
+        "num": 254384,
+        "word": "贵州多地遭遇冰雹大风",
+        "onboard_time": 1746368064,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634965,
+        "num": 252276,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599040,
+        "num": 250449,
+        "word": "石凯站姐下手太狠了",
+        "onboard_time": 1746359182,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 452143,
+        "num": 248591,
+        "word": "被结婚的手捧花价格吓到了",
+        "onboard_time": 1746368305,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247625,
+        "num": 247625,
+        "word": "17夺冠",
+        "onboard_time": 1746368425,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207299,
+        "num": 245416,
+        "word": "Kznk的梦想成真了",
+        "onboard_time": 1746367406,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244942,
+        "num": 244942,
+        "word": "普通家庭对女儿最好的托举是什么",
+        "onboard_time": 1746354861,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238990,
+        "num": 238990,
+        "word": "翔霖 俞纪",
+        "onboard_time": 1746366086,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206826,
+        "num": 206826,
+        "word": "周深敦煌",
+        "onboard_time": 1746368484,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44421,
+        "num": 205692,
+        "word": "贵州黔西游船侧翻事故游客发声",
+        "onboard_time": 1746369446,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130688,
+        "num": 205572,
+        "word": "贵州游船侧翻248名消防员在搜救",
+        "onboard_time": 1746367584,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205492,
+        "num": 205492,
+        "word": "ZETA夺冠",
+        "onboard_time": 1746365845,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10657,
+        "num": 205285,
+        "word": "韩国人可太爱延吉游了",
+        "onboard_time": 1746369446,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205185,
+        "num": 205185,
+        "word": "章昊崔秀彬约饭",
+        "onboard_time": 1746369086,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167627,
+        "num": 201768,
+        "word": "种地吧",
+        "onboard_time": 1746368185,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200457,
+        "num": 200457,
+        "word": "祺轩",
+        "onboard_time": 1746368785,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199078,
+        "num": 199078,
+        "word": "AG晋级PEL春决",
+        "onboard_time": 1746368723,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198187,
+        "num": 198187,
+        "word": "女儿去世后妈妈遇见了帮过她的叔叔",
+        "onboard_time": 1746365066,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193512,
+        "num": 193512,
+        "word": "AL战胜TES",
+        "onboard_time": 1746368244,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187026,
+        "num": 187026,
+        "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+        "onboard_time": 1746357021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182047,
+        "num": 182047,
+        "word": "pgs全球系列赛",
+        "onboard_time": 1746368305,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175158,
+        "num": 175158,
+        "word": "2025LPL",
+        "onboard_time": 1746369324,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170018,
+        "num": 170018,
+        "word": "王一博五四晚会主题曲",
+        "onboard_time": 1746369206,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162776,
+        "num": 162776,
+        "word": "WB对战DRG",
+        "onboard_time": 1746360083,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159440,
+        "num": 159440,
+        "word": "PEL",
+        "onboard_time": 1746368605,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156812,
+        "num": 156812,
+        "word": "戚薇恭喜卢靖姗韩庚",
+        "onboard_time": 1746363205,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150748,
+        "num": 150748,
+        "word": "WB在干嘛",
+        "onboard_time": 1746366263,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149146,
+        "num": 149146,
+        "word": "刘德华被女儿炫爸",
+        "onboard_time": 1746360143,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149119,
+        "num": 149119,
+        "word": "刘耀文港风",
+        "onboard_time": 1746365905,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146875,
+        "num": 146875,
+        "word": "严浩翔胸肌高光",
+        "onboard_time": 1746362904,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111610,
+        "num": 144120,
+        "word": "皇马3比2塞尔塔",
+        "onboard_time": 1746369265,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
