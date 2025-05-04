@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746351474942,
+  "endTime": 1746354294920,
   "band_list": [
     {
       "raw_hot": 2062863,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992910,
+      "num": 1158865,
+      "word": "第五人格发布会",
+      "onboard_time": 1746353721,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 962133,
       "num": 1153941,
       "word": "被短剧演法消耗的演员灵气",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 938400,
-      "num": 327577,
+      "num": 383347,
       "word": "美国男子注射蛇毒18年血液产生抗体",
       "onboard_time": 1746350121,
       "rank": 16,
@@ -131,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 820557,
+      "num": 377164,
+      "word": "输头孢离世女生曾自行拔针头自救",
+      "onboard_time": 1746352162,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 799051,
       "num": 799051,
       "word": "做了将近7个小时的饭",
@@ -153,6 +169,22 @@
       "onboard_time": 1746333621,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 766880,
+      "num": 766880,
+      "word": "网红小猫悟空疑因中毒去世",
+      "onboard_time": 1746351322,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 759647,
+      "num": 394094,
+      "word": "洪尧说吴谨言来演综秒杀所有",
+      "onboard_time": 1746350421,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 740057,
@@ -267,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 550707,
+      "num": 390329,
+      "word": "卢靖姗说二胎反应更大",
+      "onboard_time": 1746350963,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538723,
       "num": 322489,
       "word": "九派新闻 赵朔",
@@ -347,16 +387,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 463579,
-      "num": 325045,
-      "word": "洪尧说吴谨言来演综秒杀所有",
-      "onboard_time": 1746350421,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 435560,
-      "num": 435560,
+      "raw_hot": 454471,
+      "num": 454471,
       "word": "全季 导盲犬",
       "onboard_time": 1746348441,
       "rank": 15,
@@ -395,12 +427,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403267,
+      "num": 359072,
+      "word": "关晓彤白裙黑长直",
+      "onboard_time": 1746352522,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403066,
       "num": 403066,
       "word": "石宇奇苏杯战神",
       "onboard_time": 1746350901,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 397561,
+      "num": 397561,
+      "word": "第五人格",
+      "onboard_time": 1746326300,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 395141,
@@ -412,10 +460,18 @@
     },
     {
       "raw_hot": 392130,
-      "num": 250428,
+      "num": 263087,
       "word": "27岁女教师从326斤减至170斤",
       "onboard_time": 1746345562,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387891,
+      "num": 387891,
+      "word": "广州冰雹",
+      "onboard_time": 1746348682,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -457,6 +513,14 @@
       "onboard_time": 1746319881,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348019,
+      "num": 348019,
+      "word": "第五人格赛事",
+      "onboard_time": 1746351322,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 345775,
@@ -523,14 +587,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 327948,
-      "num": 327948,
-      "word": "广州冰雹",
-      "onboard_time": 1746348682,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325157,
       "num": 325157,
       "word": "淮水竹亭编剧 殿前欢",
@@ -539,8 +595,8 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 320644,
-      "num": 320644,
+      "raw_hot": 321951,
+      "num": 321951,
       "word": "五一假期余额还剩两天",
       "onboard_time": 1746346522,
       "rank": 17,
@@ -691,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255591,
+      "num": 255591,
+      "word": "种地吧生活直播",
+      "onboard_time": 1746352641,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253320,
       "num": 253320,
       "word": "苏杯中国vs韩国",
@@ -705,6 +769,14 @@
       "onboard_time": 1746326720,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250810,
+      "num": 250810,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 250783,
@@ -729,6 +801,14 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 242439,
+      "num": 242439,
+      "word": "苏杯中国2比1韩国",
+      "onboard_time": 1746352403,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 242015,
@@ -915,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202115,
-      "num": 202115,
-      "word": "卢靖姗说二胎反应更大",
-      "onboard_time": 1746350963,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "吴彤以为柯淳是关系户",
@@ -969,6 +1041,14 @@
       "onboard_time": 1746327260,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193509,
+      "num": 193509,
+      "word": "成为老登是一种宿命",
+      "onboard_time": 1746353721,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 190824,
@@ -1107,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173375,
+      "num": 213320,
+      "word": "原来这5种食物才是含糖大户",
+      "onboard_time": 1746353062,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173259,
       "num": 250778,
       "word": "谁家电影卖票方式这么癫啊",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1746336081,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168483,
+      "num": 214546,
+      "word": "以军拦截胡塞武装导弹失败",
+      "onboard_time": 1746352042,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168188,
@@ -1169,6 +1265,14 @@
       "onboard_time": 1746288741,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164940,
+      "num": 164940,
+      "word": "古诗里的酒原来可以调出来",
+      "onboard_time": 1746353482,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 163793,
@@ -1259,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151546,
-      "num": 151546,
-      "word": "网红小猫悟空疑因中毒去世",
-      "onboard_time": 1746351322,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 151421,
       "num": 151421,
       "word": "罗云熙周深音乐节后台亲密合影",
@@ -1336,6 +1432,14 @@
       "word": "莱比锡3比3拜仁",
       "onboard_time": 1746289461,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142819,
+      "num": 142819,
+      "word": "五大女刊孙颖莎已解锁三本",
+      "onboard_time": 1746352942,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1435,7 +1539,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138764,
+      "raw_hot": 138772,
       "num": 189596,
       "word": "解放军仪仗队走莫斯科红场好燃",
       "onboard_time": 1746348743,
@@ -1459,6 +1563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137016,
+      "num": 137016,
+      "word": "刘翔的赛会纪录被提升0.1秒",
+      "onboard_time": 1746353362,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "沈月 戴上面具顺眼很多",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1746331522,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135163,
+      "num": 135163,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133566,
@@ -1587,6 +1707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125208,
+      "num": 125208,
+      "word": "李现道士造型",
+      "onboard_time": 1746352522,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124419,
       "num": 124419,
       "word": "吴是温开球",
@@ -1643,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120649,
+      "num": 120649,
+      "word": "巴菲特正式宣布接班人",
+      "onboard_time": 1746354081,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120440,
       "num": 147437,
       "word": "沈月异域服饰",
@@ -1659,12 +1795,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 118498,
+      "num": 118498,
+      "word": "谁给李帝努做的发型",
+      "onboard_time": 1746353482,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118279,
       "num": 118279,
       "word": "30岁独居女生的小家",
       "onboard_time": 1746341121,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118043,
+      "num": 118043,
+      "word": "敖瑞鹏又演妖了",
+      "onboard_time": 1746354143,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116997,
+      "num": 116997,
+      "word": "王不染回应谁火跟谁玩",
+      "onboard_time": 1746354143,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 116960,
@@ -2043,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92399,
-      "num": 183478,
-      "word": "第五人格赛事",
-      "onboard_time": 1746351322,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90810,
       "num": 90810,
       "word": "梅西破门",
@@ -2227,6 +2379,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66322,
+      "num": 178369,
+      "word": "石宇奇火力全开",
+      "onboard_time": 1746354143,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64194,
+      "num": 213523,
+      "word": "太乙张真人声线开盲盒",
+      "onboard_time": 1746353182,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 63189,
       "num": 63189,
       "word": "廷奇12秒87打破刘翔赛会纪录",
@@ -2249,6 +2417,14 @@
       "onboard_time": 1746315019,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 59999,
+      "num": 390259,
+      "word": "视障人士携带导盲犬入住全季被拒",
+      "onboard_time": 1746353541,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57639,
@@ -2307,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48150,
+      "num": 397218,
+      "word": "全国公路逐步进入返程高峰",
+      "onboard_time": 1746351441,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47193,
       "num": 832689,
       "word": "无悔青春离不开这个必选项",
@@ -2337,6 +2521,14 @@
       "onboard_time": 1746335481,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42644,
+      "num": 802630,
+      "word": "中国青年继续向前",
+      "onboard_time": 1746351021,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40221,
@@ -2555,14 +2747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22128,
-      "num": 141677,
-      "word": "全国公路逐步进入返程高峰",
-      "onboard_time": 1746351441,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21997,
       "num": 32569,
       "word": "于东来账号设为私密后再发声",
@@ -2577,14 +2761,6 @@
       "onboard_time": 1746346282,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 20165,
-      "num": 412427,
-      "word": "中国青年继续向前",
-      "onboard_time": 1746351021,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20112,
@@ -2625,6 +2801,14 @@
       "onboard_time": 1746342800,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16163,
+      "num": 366233,
+      "word": "在WAW现场遇见本命",
+      "onboard_time": 1746352882,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 14933,
@@ -2722,6 +2906,9 @@
     },
     {
       "word": "#习近平给戍边支教志愿者回信#"
+    },
+    {
+      "word": "#习近平和青年朋友的10个暖心瞬间#"
     }
   ]
 }
