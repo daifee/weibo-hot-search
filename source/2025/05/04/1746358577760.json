@@ -1,0 +1,410 @@
+{
+  "runTime": 1746358577760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2203583,
+        "num": 2203583,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766601,
+        "num": 766601,
+        "word": "国羽苏迪曼杯夺冠",
+        "onboard_time": 1746355283,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44823,
+        "num": 575266,
+        "word": "中国青年继续向前",
+        "onboard_time": 1746351021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 487406,
+        "num": 487406,
+        "word": "烧烤遇卡式炉爆炸7人被炸伤",
+        "onboard_time": 1746353841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378724,
+        "num": 378724,
+        "word": "时代少年团直播",
+        "onboard_time": 1746357202,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1329540,
+        "num": 371719,
+        "word": "网红小猫悟空疑因中毒去世",
+        "onboard_time": 1746351322,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 360997,
+        "num": 360997,
+        "word": "种地吧生活直播",
+        "onboard_time": 1746352641,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349838,
+        "num": 349838,
+        "word": "aespa拍摄回归MV路透",
+        "onboard_time": 1746355283,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325274,
+        "num": 325274,
+        "word": "第五人格发布会",
+        "onboard_time": 1746353721,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234784,
+        "num": 234784,
+        "word": "第五人格 纸嫁衣",
+        "onboard_time": 1746354802,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 888850,
+        "num": 234397,
+        "word": "理发师晓华说店面处于亏损状态",
+        "onboard_time": 1746352821,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 652216,
+        "num": 233484,
+        "word": "卢靖姗说二胎反应更大",
+        "onboard_time": 1746350963,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528240,
+        "num": 232744,
+        "word": "严浩翔白发背头",
+        "onboard_time": 1746356960,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140361,
+        "num": 232702,
+        "word": "盘点苏迪曼杯名场面",
+        "onboard_time": 1746357021,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17815,
+        "num": 231782,
+        "word": "WAW漫展COS妆造小妙招",
+        "onboard_time": 1746357261,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 471988,
+        "num": 231068,
+        "word": "卢靖姗韩庚官宣二胎",
+        "onboard_time": 1746344899,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328487,
+        "num": 230357,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250525,
+        "num": 229377,
+        "word": "陈昊宇说人生路上最快的脚步是坚持",
+        "onboard_time": 1746357142,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468552,
+        "num": 229018,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17232,
+        "num": 228290,
+        "word": "景区应如何优化管理减少游客滞留",
+        "onboard_time": 1746357682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303612,
+        "num": 227528,
+        "word": "白百何首晒二胎儿子",
+        "onboard_time": 1746358162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408793,
+        "num": 226522,
+        "word": "普通家庭对女儿最好的托举是什么",
+        "onboard_time": 1746354861,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382935,
+        "num": 226020,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746352162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277785,
+        "num": 225238,
+        "word": "关晓彤白裙黑长直",
+        "onboard_time": 1746352522,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132518,
+        "num": 224781,
+        "word": "第五人格BLK战队",
+        "onboard_time": 1746356960,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207787,
+        "num": 224058,
+        "word": "贾一凡抱石宇奇",
+        "onboard_time": 1746356960,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223738,
+        "num": 223738,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221890,
+        "num": 221890,
+        "word": "安洗莹不想看了",
+        "onboard_time": 1746357562,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204783,
+        "num": 204783,
+        "word": "种地吧",
+        "onboard_time": 1746349401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202380,
+        "num": 202380,
+        "word": "罗云熙周深音乐节联合说明",
+        "onboard_time": 1746357741,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184553,
+        "num": 200621,
+        "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+        "onboard_time": 1746357021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213368,
+        "num": 200452,
+        "word": "姜磊否认云歌会逼成毅",
+        "onboard_time": 1746357981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199507,
+        "num": 199507,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194222,
+        "num": 194222,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190267,
+        "num": 190267,
+        "word": "陈昊宇撕拉片",
+        "onboard_time": 1746357142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162536,
+        "num": 162536,
+        "word": "广州冰雹",
+        "onboard_time": 1746348682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148543,
+        "num": 148543,
+        "word": "梁王 吉祥物",
+        "onboard_time": 1746356902,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140936,
+        "num": 140936,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140394,
+        "num": 140394,
+        "word": "第五人格",
+        "onboard_time": 1746326300,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140379,
+        "num": 140379,
+        "word": "仙逆",
+        "onboard_time": 1746357082,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131879,
+        "num": 131879,
+        "word": "日本偶遇金靖夫妇",
+        "onboard_time": 1746358341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126548,
+        "num": 126548,
+        "word": "Wolves对战ZETA",
+        "onboard_time": 1746358402,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 115609,
+        "word": "第五人格 芙莉莲",
+        "onboard_time": 1746355163,
+        "rank": 42,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 113820,
+        "num": 113820,
+        "word": "戒奶茶因为外卖大战又复喝了",
+        "onboard_time": 1746358102,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112237,
+        "num": 112237,
+        "word": "日本女孩屡报警遭漠视4个月变白骨",
+        "onboard_time": 1746352821,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112228,
+        "num": 112228,
+        "word": "中国队苏杯四连冠",
+        "onboard_time": 1746357202,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109492,
+        "num": 109492,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106858,
+        "num": 106858,
+        "word": "中国羽毛球队苏迪曼杯4连冠",
+        "onboard_time": 1746357142,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105392,
+        "num": 105392,
+        "word": "淮水竹亭",
+        "onboard_time": 1746355942,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103368,
+        "num": 103368,
+        "word": "TWS六连冠",
+        "onboard_time": 1746358341,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和青年朋友的10个暖心瞬间#"
+    }
+  }
+}

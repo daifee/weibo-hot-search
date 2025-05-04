@@ -1,7 +1,15 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746357595936,
+  "endTime": 1746358577760,
   "band_list": [
+    {
+      "raw_hot": 2203583,
+      "num": 2203583,
+      "word": "医院拒绝给离世女大学生道歉",
+      "onboard_time": 1746355521,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2062863,
       "num": 2062863,
@@ -27,14 +35,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1752866,
-      "num": 1752866,
-      "word": "医院拒绝给离世女大学生道歉",
-      "onboard_time": 1746355521,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1548965,
       "num": 1548965,
       "word": "李玉把处女作称为开山作",
@@ -57,6 +57,14 @@
       "onboard_time": 1746353721,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1329540,
+      "num": 1169494,
+      "word": "网红小猫悟空疑因中毒去世",
+      "onboard_time": 1746351322,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 1293412,
@@ -88,14 +96,6 @@
       "word": "悟空 赵朔",
       "onboard_time": 1746338060,
       "rank": 6,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 1169494,
-      "num": 1169494,
-      "word": "网红小猫悟空疑因中毒去世",
-      "onboard_time": 1746351322,
-      "rank": 38,
       "category": "网红"
     },
     {
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652216,
+      "num": 390329,
+      "word": "卢靖姗说二胎反应更大",
+      "onboard_time": 1746350963,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651302,
       "num": 375547,
       "word": "我还没嫌他们穷他们嫌我东西脏",
@@ -257,14 +265,6 @@
       "onboard_time": 1746342260,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 614519,
-      "num": 390329,
-      "word": "卢靖姗说二胎反应更大",
-      "onboard_time": 1746350963,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 609529,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487406,
+      "num": 487406,
+      "word": "烧烤遇卡式炉爆炸7人被炸伤",
+      "onboard_time": 1746353841,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481163,
       "num": 481163,
       "word": "第五人格",
@@ -483,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408793,
+      "num": 257776,
+      "word": "普通家庭对女儿最好的托举是什么",
+      "onboard_time": 1746354861,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403066,
       "num": 403066,
       "word": "石宇奇苏杯战神",
@@ -537,6 +553,22 @@
       "onboard_time": 1746272480,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 378724,
+      "num": 378724,
+      "word": "时代少年团直播",
+      "onboard_time": 1746357202,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 360997,
+      "num": 360997,
+      "word": "种地吧生活直播",
+      "onboard_time": 1746352641,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 359357,
@@ -683,14 +715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311275,
-      "num": 257206,
-      "word": "种地吧生活直播",
-      "onboard_time": 1746352641,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309630,
       "num": 344009,
       "word": "朱一龙说给成长一点耐心",
@@ -705,6 +729,14 @@
       "onboard_time": 1746263601,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303612,
+      "num": 227528,
+      "word": "白百何首晒二胎儿子",
+      "onboard_time": 1746358162,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 298610,
@@ -729,14 +761,6 @@
       "onboard_time": 1746350362,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279404,
-      "num": 257776,
-      "word": "普通家庭对女儿最好的托举是什么",
-      "onboard_time": 1746354861,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 278143,
@@ -843,6 +867,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 250525,
+      "num": 242696,
+      "word": "陈昊宇说人生路上最快的脚步是坚持",
+      "onboard_time": 1746357142,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247977,
       "num": 247977,
       "word": "蔡徐坤ins更新",
@@ -857,14 +889,6 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 243754,
-      "num": 243754,
-      "word": "烧烤遇卡式炉爆炸7人被炸伤",
-      "onboard_time": 1746353841,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242015,
@@ -907,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221890,
+      "num": 221890,
+      "word": "安洗莹不想看了",
+      "onboard_time": 1746357562,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219625,
       "num": 219625,
       "word": "山东大学生泰山陪爬月入5位数",
@@ -937,6 +969,14 @@
       "onboard_time": 1746288801,
       "rank": 42,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 213368,
+      "num": 200452,
+      "word": "姜磊否认云歌会逼成毅",
+      "onboard_time": 1746357981,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 209621,
@@ -977,6 +1017,14 @@
       "onboard_time": 1746320060,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 207787,
+      "num": 224058,
+      "word": "贾一凡抱石宇奇",
+      "onboard_time": 1746356960,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207328,
@@ -1043,8 +1091,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 203207,
-      "num": 203207,
+      "raw_hot": 204783,
+      "num": 204783,
       "word": "种地吧",
       "onboard_time": 1746349401,
       "rank": 25,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1746339980,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202380,
+      "num": 202380,
+      "word": "罗云熙周深音乐节联合说明",
+      "onboard_time": 1746357741,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 201764,
@@ -1131,22 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190785,
-      "num": 242696,
-      "word": "陈昊宇说人生路上最快的脚步是坚持",
-      "onboard_time": 1746357142,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189589,
-      "num": 189589,
-      "word": "时代少年团直播",
-      "onboard_time": 1746357202,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189519,
       "num": 333967,
       "word": "我们是新时代中国青年",
@@ -1179,19 +1219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184553,
+      "num": 200621,
+      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+      "onboard_time": 1746357021,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "国羽3比1战胜韩国队",
       "onboard_time": 1746356960,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183496,
-      "num": 183496,
-      "word": "贾一凡抱石宇奇",
-      "onboard_time": 1746356960,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -1257,14 +1297,6 @@
       "onboard_time": 1746338721,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176552,
-      "num": 176552,
-      "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
-      "onboard_time": 1746357021,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176310,
@@ -1508,7 +1540,7 @@
     },
     {
       "raw_hot": 153334,
-      "num": 153334,
+      "num": 224781,
       "word": "第五人格BLK战队",
       "onboard_time": 1746356960,
       "rank": 37,
@@ -1683,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140361,
+      "num": 232702,
+      "word": "盘点苏迪曼杯名场面",
+      "onboard_time": 1746357021,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140019,
       "num": 154033,
       "word": "吴宣仪和大学生合唱无悔当下",
@@ -1803,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131879,
+      "num": 131879,
+      "word": "日本偶遇金靖夫妇",
+      "onboard_time": 1746358341,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130109,
       "num": 130109,
       "word": "青春不问何时",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1746339321,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "Wolves对战ZETA",
+      "onboard_time": 1746358402,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 126460,
@@ -2019,14 +2075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117254,
-      "num": 117254,
-      "word": "安洗莹不想看了",
-      "onboard_time": 1746357562,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116997,
       "num": 116997,
       "word": "王不染回应谁火跟谁玩",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1746276983,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113820,
+      "num": 113820,
+      "word": "戒奶茶因为外卖大战又复喝了",
+      "onboard_time": 1746358102,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 113813,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1746325640,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103368,
+      "num": 103368,
+      "word": "TWS六连冠",
+      "onboard_time": 1746358341,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 102686,
@@ -2659,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55190,
-      "num": 227411,
-      "word": "盘点苏迪曼杯名场面",
-      "onboard_time": 1746357021,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54080,
       "num": 54080,
       "word": "巴菲特建议找工作不要太在意薪水",
@@ -2723,20 +2779,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44823,
+      "num": 936147,
+      "word": "中国青年继续向前",
+      "onboard_time": 1746351021,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44582,
       "num": 321137,
       "word": "哈登为什么关键战总拉胯",
       "onboard_time": 1746335782,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43224,
-      "num": 936147,
-      "word": "中国青年继续向前",
-      "onboard_time": 1746351021,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42935,
@@ -3035,12 +3091,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 17446,
-      "num": 226612,
+      "raw_hot": 17815,
+      "num": 231782,
       "word": "WAW漫展COS妆造小妙招",
       "onboard_time": 1746357261,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17232,
+      "num": 228290,
+      "word": "景区应如何优化管理减少游客滞留",
+      "onboard_time": 1746357682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16231,
