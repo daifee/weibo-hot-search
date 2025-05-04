@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746384331889,
+  "endTime": 1746386416219,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -507,20 +507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43281,
+      "num": 37573,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41003,
       "num": 806489,
       "word": "这是一路向前的中国青年",
       "onboard_time": 1746366446,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31241,
-      "num": 37573,
-      "word": "西安夜空不明物可能是什么",
-      "onboard_time": 1746383537,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29687,
@@ -553,6 +553,14 @@
       "onboard_time": 1746381856,
       "rank": 49,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 17502,
+      "num": 25769,
+      "word": "华晨宇日出演唱会一周年",
+      "onboard_time": 1746384495,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
