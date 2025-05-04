@@ -1,10 +1,10 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746376133159,
+  "endTime": 1746377047286,
   "band_list": [
     {
       "raw_hot": 3109600,
-      "num": 460796,
+      "num": 474446,
       "word": "贵州黔西游船侧翻事故约70人落水",
       "onboard_time": 1746359842,
       "rank": 5,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679418,
-      "num": 679418,
+      "raw_hot": 733165,
+      "num": 733165,
       "word": "张云龙沈月又吵起来了",
       "onboard_time": 1746372923,
       "rank": 3,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475451,
+      "num": 475451,
+      "word": "李晨第三次看时代少年团演唱会",
+      "onboard_time": 1746375261,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 470252,
       "num": 470252,
       "word": "赵朔称悟空定位器20分钟断网",
       "onboard_time": 1746369086,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431802,
+      "num": 264727,
+      "word": "鹿哈老婆晒婚纱照",
+      "onboard_time": 1746375081,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 425251,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 423747,
-      "num": 207998,
+      "num": 221882,
       "word": "石凯站姐下手太狠了",
       "onboard_time": 1746359182,
       "rank": 21,
@@ -123,23 +139,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274139,
-      "num": 274139,
-      "word": "李晨第三次看时代少年团演唱会",
-      "onboard_time": 1746375261,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 264727,
-      "num": 264727,
-      "word": "鹿哈老婆晒婚纱照",
-      "onboard_time": 1746375081,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 234627,
+      "raw_hot": 254208,
       "num": 234627,
       "word": "翟潇闻是不是以为大家听不见",
       "onboard_time": 1746373942,
@@ -235,19 +235,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152976,
+      "num": 152976,
+      "word": "刘耀文alpha味儿",
+      "onboard_time": 1746375741,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151406,
       "num": 151406,
       "word": "陶喆让男歌迷叫自己老公",
       "onboard_time": 1746375681,
       "rank": 32,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 148260,
-      "num": 148260,
-      "word": "刘耀文alpha味儿",
-      "onboard_time": 1746375741,
-      "rank": 33,
       "category": "演出"
     },
     {
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104314,
+      "num": 104314,
+      "word": "女孩溺水被救家长先责怪孩子",
+      "onboard_time": 1746372084,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100024,
       "num": 100024,
       "word": "沟通的本质是以心换心",
@@ -371,12 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94023,
-      "num": 94023,
-      "word": "女孩溺水被救家长先责怪孩子",
-      "onboard_time": 1746372084,
+      "raw_hot": 87655,
+      "num": 87655,
+      "word": "希林娜依高用歌声致敬奔跑的青春",
+      "onboard_time": 1746376400,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75609,
+      "num": 75609,
+      "word": "淮水竹亭纯恨反派玩纯爱",
+      "onboard_time": 1746376701,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 70807,
@@ -387,7 +403,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44298,
+      "raw_hot": 61233,
       "num": 200729,
       "word": "普京称俄乌和解不可避免",
       "onboard_time": 1746368966,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平将对俄罗斯进行国事访问#"
+    },
+    {
+      "word": "#总书记对新时代青年寄予殷切期望#"
     }
   ]
 }
