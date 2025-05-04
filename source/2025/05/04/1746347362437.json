@@ -1,0 +1,410 @@
+{
+  "runTime": 1746347362437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2062863,
+        "num": 2062863,
+        "word": "卢靖姗韩庚官宣二胎",
+        "onboard_time": 1746344899,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473898,
+        "num": 473898,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33326,
+        "num": 340659,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838630,
+        "num": 327136,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291473,
+        "num": 291473,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284869,
+        "num": 284869,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749010,
+        "num": 284857,
+        "word": "悟空 赵朔",
+        "onboard_time": 1746338060,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 534053,
+        "num": 284824,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270440,
+        "num": 284786,
+        "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+        "onboard_time": 1746343282,
+        "rank": 8,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 89046,
+        "num": 284730,
+        "word": "解放军仪仗队红场高唱抗日歌曲",
+        "onboard_time": 1746345802,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445856,
+        "num": 284709,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394564,
+        "num": 284687,
+        "word": "迪丽热巴跳九万字",
+        "onboard_time": 1746345985,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304821,
+        "num": 284650,
+        "word": "张凌赫给迪丽热巴把脉",
+        "onboard_time": 1746341541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284626,
+        "num": 284626,
+        "word": "九派新闻 赵朔",
+        "onboard_time": 1746345802,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58872,
+        "num": 279663,
+        "word": "镇政府食堂假期10元可吃五菜一汤",
+        "onboard_time": 1746345985,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278143,
+        "num": 278143,
+        "word": "前国乒教练吴敬平又挖到一个小胖",
+        "onboard_time": 1746343881,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265584,
+        "num": 265584,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236731,
+        "num": 265261,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34836,
+        "num": 257954,
+        "word": "00后北大女生一年观560种鸟",
+        "onboard_time": 1746345863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21701,
+        "num": 254081,
+        "word": "石炭纪时期的煤炭是如何形成的",
+        "onboard_time": 1746346282,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 392130,
+        "num": 250428,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295567,
+        "num": 245887,
+        "word": "夫妻吵架丈夫被扔高速上手机也没带",
+        "onboard_time": 1746342260,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242072,
+        "num": 242072,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1746340581,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242015,
+        "num": 242015,
+        "word": "K总说家里不是小孩写作业的地方",
+        "onboard_time": 1746343219,
+        "rank": 23,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 226678,
+        "num": 226678,
+        "word": "悟空小猫",
+        "onboard_time": 1746340342,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225418,
+        "num": 225418,
+        "word": "还珠格格柳红聊爆火后的人生",
+        "onboard_time": 1746346941,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88662,
+        "num": 212707,
+        "word": "王珞丹的小狗生病",
+        "onboard_time": 1746346583,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206223,
+        "num": 206223,
+        "word": "王一博周深邓为等亮相央视五四晚会",
+        "onboard_time": 1746346522,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169021,
+        "num": 169021,
+        "word": "日本首相对美国撂狠话",
+        "onboard_time": 1746341602,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22953,
+        "num": 166945,
+        "word": "欧盟呼吁印度和巴基斯坦保持克制",
+        "onboard_time": 1746346102,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352238,
+        "num": 166854,
+        "word": "麻省理工女硕士香港月租5万的家",
+        "onboard_time": 1746344960,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165451,
+        "num": 165451,
+        "word": "于正专门给程潇加了吻戏",
+        "onboard_time": 1746346701,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "陈丽君王兴兴桂海潮等获五四奖章",
+        "onboard_time": 1746344363,
+        "rank": 32,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 158917,
+        "num": 158917,
+        "word": "苏杯中国vs韩国",
+        "onboard_time": 1746340521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148570,
+        "num": 148570,
+        "word": "在网上买狗 卖家带上项圈扑过来了",
+        "onboard_time": 1746343821,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 35,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 147034,
+        "word": "Prada认领登陆少年",
+        "onboard_time": 1746339260,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 142945,
+        "word": "吴彤以为柯淳是关系户",
+        "onboard_time": 1746343340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140116,
+        "num": 140116,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133827,
+        "num": 133827,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1746345081,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129538,
+        "num": 129538,
+        "word": "黄东萍好牛",
+        "onboard_time": 1746344300,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125482,
+        "num": 125482,
+        "word": "iPhone18或推迟上市",
+        "onboard_time": 1746347062,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114144,
+        "num": 114144,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112561,
+        "num": 112561,
+        "word": "沈梦辰撕拉片",
+        "onboard_time": 1746343642,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106901,
+        "num": 106901,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103972,
+        "num": 103972,
+        "word": "我以为蹦极这辈子挣不到我的钱了",
+        "onboard_time": 1746346401,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102167,
+        "num": 102167,
+        "word": "金靖勇敢的人先享受张凌赫的腹肌",
+        "onboard_time": 1746342980,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101827,
+        "num": 101827,
+        "word": "17岁战士为兵工厂独守7天7夜后阵亡",
+        "onboard_time": 1746343161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100139,
+        "num": 100139,
+        "word": "马斯克建立城市",
+        "onboard_time": 1746344661,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93051,
+        "num": 93051,
+        "word": "冯彦哲黄东萍被罚红牌",
+        "onboard_time": 1746345021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

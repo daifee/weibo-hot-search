@@ -1,7 +1,15 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746344156292,
+  "endTime": 1746347362437,
   "band_list": [
+    {
+      "raw_hot": 2062863,
+      "num": 2062863,
+      "word": "卢靖姗韩庚官宣二胎",
+      "onboard_time": 1746344899,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1871157,
       "num": 1871157,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 489677,
-      "num": 279530,
+      "num": 284650,
       "word": "张凌赫给迪丽热巴把脉",
       "onboard_time": 1746341541,
       "rank": 11,
@@ -347,6 +355,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394564,
+      "num": 284687,
+      "word": "迪丽热巴跳九万字",
+      "onboard_time": 1746345985,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392130,
+      "num": 250428,
+      "word": "27岁女教师从326斤减至170斤",
+      "onboard_time": 1746345562,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386043,
       "num": 386043,
       "word": "Prada认领登陆少年",
@@ -368,6 +392,14 @@
       "word": "和三观不正的人聊天像在录口供",
       "onboard_time": 1746326840,
       "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 352238,
+      "num": 166854,
+      "word": "麻省理工女硕士香港月租5万的家",
+      "onboard_time": 1746344960,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -491,6 +523,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284626,
+      "num": 284626,
+      "word": "九派新闻 赵朔",
+      "onboard_time": 1746345802,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278143,
+      "num": 278143,
+      "word": "前国乒教练吴敬平又挖到一个小胖",
+      "onboard_time": 1746343881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270440,
+      "num": 284786,
+      "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+      "onboard_time": 1746343282,
+      "rank": 46,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 269622,
       "num": 269622,
       "word": "100块人民币在日本能买多少东西",
@@ -587,12 +643,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242072,
+      "num": 242072,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242015,
+      "num": 242015,
+      "word": "K总说家里不是小孩写作业的地方",
+      "onboard_time": 1746343219,
+      "rank": 44,
+      "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 236731,
+      "num": 265261,
+      "word": "五一假期余额还剩两天",
+      "onboard_time": 1746346522,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228267,
       "num": 228267,
       "word": "冰激凌咖啡",
       "onboard_time": 1746332060,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225418,
+      "num": 225418,
+      "word": "还珠格格柳红聊爆火后的人生",
+      "onboard_time": 1746346941,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224453,
@@ -633,14 +721,6 @@
       "onboard_time": 1746322762,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214829,
-      "num": 195660,
-      "word": "K总说家里不是小孩写作业的地方",
-      "onboard_time": 1746343219,
-      "rank": 44,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 214074,
@@ -715,20 +795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206223,
+      "num": 206223,
+      "word": "王一博周深邓为等亮相央视五四晚会",
+      "onboard_time": 1746346522,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205771,
       "num": 205771,
       "word": "真正的刘耀文进行曲",
       "onboard_time": 1746289520,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205441,
-      "num": 205441,
-      "word": "纪念苏联伟大卫国战争胜利80周年庆典",
-      "onboard_time": 1746343282,
-      "rank": 46,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 205194,
@@ -761,14 +841,6 @@
       "onboard_time": 1746343340,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201071,
-      "num": 201071,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1746340581,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 200666,
@@ -841,14 +913,6 @@
       "onboard_time": 1746342501,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185140,
-      "num": 185140,
-      "word": "前国乒教练吴敬平又挖到一个小胖",
-      "onboard_time": 1746343881,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 181544,
@@ -963,12 +1027,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165451,
+      "num": 165451,
+      "word": "于正专门给程潇加了吻戏",
+      "onboard_time": 1746346701,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165064,
       "num": 165064,
       "word": "马嘉祺严浩翔贺峻霖舞台可爱",
       "onboard_time": 1746288741,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163793,
+      "num": 163793,
+      "word": "陈丽君王兴兴桂海潮等获五四奖章",
+      "onboard_time": 1746344363,
+      "rank": 32,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 163619,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1746316099,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148570,
+      "num": 148570,
+      "word": "在网上买狗 卖家带上项圈扑过来了",
+      "onboard_time": 1746343821,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 147838,
@@ -1195,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1746345081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "歌手2025",
@@ -1219,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130372,
-      "num": 130372,
-      "word": "在网上买狗 卖家带上项圈扑过来了",
-      "onboard_time": 1746343821,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130109,
       "num": 130109,
       "word": "青春不问何时",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1746335841,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129538,
+      "num": 129538,
+      "word": "黄东萍好牛",
+      "onboard_time": 1746344300,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 127864,
@@ -1281,6 +1377,14 @@
       "onboard_time": 1746329421,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125482,
+      "num": 125482,
+      "word": "iPhone18或推迟上市",
+      "onboard_time": 1746347062,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 124419,
@@ -1507,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103972,
+      "num": 103972,
+      "word": "我以为蹦极这辈子挣不到我的钱了",
+      "onboard_time": 1746346401,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103377,
       "num": 103377,
       "word": "泰伦卢懵了",
@@ -1545,6 +1657,14 @@
       "onboard_time": 1746341060,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 100139,
+      "num": 100139,
+      "word": "马斯克建立城市",
+      "onboard_time": 1746344661,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99596,
@@ -1651,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93051,
+      "num": 93051,
+      "word": "冯彦哲黄东萍被罚红牌",
+      "onboard_time": 1746345021,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90810,
       "num": 90810,
       "word": "梅西破门",
@@ -1673,6 +1801,22 @@
       "onboard_time": 1746343100,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89046,
+      "num": 284730,
+      "word": "解放军仪仗队红场高唱抗日歌曲",
+      "onboard_time": 1746345802,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 88662,
+      "num": 212707,
+      "word": "王珞丹的小狗生病",
+      "onboard_time": 1746346583,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 87956,
@@ -1835,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 58872,
+      "num": 279663,
+      "word": "镇政府食堂假期10元可吃五菜一汤",
+      "onboard_time": 1746345985,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
@@ -1987,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34836,
+      "num": 257954,
+      "word": "00后北大女生一年观560种鸟",
+      "onboard_time": 1746345863,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34824,
       "num": 36143,
       "word": "莱比锡绝平拜仁",
@@ -2107,12 +2267,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22953,
+      "num": 166945,
+      "word": "欧盟呼吁印度和巴基斯坦保持克制",
+      "onboard_time": 1746346102,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21997,
       "num": 32569,
       "word": "于东来账号设为私密后再发声",
       "onboard_time": 1746298035,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21701,
+      "num": 254081,
+      "word": "石炭纪时期的煤炭是如何形成的",
+      "onboard_time": 1746346282,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 20112,
