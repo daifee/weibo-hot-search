@@ -1,0 +1,410 @@
+{
+  "runTime": 1746336257671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545421,
+        "num": 1545421,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 821012,
+        "num": 821012,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35739,
+        "num": 676025,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 994125,
+        "num": 674135,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665071,
+        "num": 665071,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39579,
+        "num": 631155,
+        "word": "五一假期返程天气",
+        "onboard_time": 1746323420,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602163,
+        "num": 602163,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 597765,
+        "num": 597765,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554131,
+        "num": 554131,
+        "word": "王大陆回应涉嫌教唆杀人未遂",
+        "onboard_time": 1746330562,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534132,
+        "num": 534132,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 476794,
+        "num": 476794,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465169,
+        "num": 465169,
+        "word": "邓超备战明年斯诺克",
+        "onboard_time": 1746333741,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 77967,
+        "num": 437109,
+        "word": "男子与女友吵架为泄愤16楼扔电竞椅",
+        "onboard_time": 1746335001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44503,
+        "num": 434878,
+        "word": "荣昌铺盖面扯面大叔扯到不想说话",
+        "onboard_time": 1746325761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35199,
+        "num": 433517,
+        "word": "李雯雯谈青年人相信的力量",
+        "onboard_time": 1746334880,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432710,
+        "num": 432710,
+        "word": "刘诗诗演员类型稀缺性",
+        "onboard_time": 1746331040,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419830,
+        "num": 419830,
+        "word": "秒切",
+        "onboard_time": 1746333082,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34367,
+        "num": 364687,
+        "word": "陈佳3米板金牌",
+        "onboard_time": 1746335782,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132173,
+        "num": 327224,
+        "word": "90后女孩6年3攀珠峰2次登顶",
+        "onboard_time": 1746334521,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44582,
+        "num": 321137,
+        "word": "哈登为什么关键战总拉胯",
+        "onboard_time": 1746335782,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316857,
+        "num": 316857,
+        "word": "气象部门回应西安雷雨夜不明飞行物",
+        "onboard_time": 1746329060,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309912,
+        "num": 309912,
+        "word": "做了将近7个小时的饭",
+        "onboard_time": 1746326479,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 300331,
+        "num": 300331,
+        "word": "丁禹兮ins点赞",
+        "onboard_time": 1746328341,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290246,
+        "num": 290246,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245781,
+        "num": 287743,
+        "word": "九尾被萝卜蹲害惨了",
+        "onboard_time": 1746333561,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211308,
+        "num": 286993,
+        "word": "TOP杂志",
+        "onboard_time": 1746333021,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206550,
+        "num": 281578,
+        "word": "哪吒2破158亿了",
+        "onboard_time": 1746332601,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70660,
+        "num": 281394,
+        "word": "普京称会努力克制住想揍人的冲动",
+        "onboard_time": 1746335841,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40221,
+        "num": 278181,
+        "word": "WAW漫展现场好多哦豁",
+        "onboard_time": 1746335481,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110615,
+        "num": 275378,
+        "word": "你有没有为1万块拼过命",
+        "onboard_time": 1746335301,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42880,
+        "num": 269777,
+        "word": "王权弘业穿着深V就要去见老丈人",
+        "onboard_time": 1746335481,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269622,
+        "num": 269622,
+        "word": "100块人民币在日本能买多少东西",
+        "onboard_time": 1746334640,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239598,
+        "num": 239598,
+        "word": "大梅沙",
+        "onboard_time": 1746335242,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 224428,
+        "num": 224428,
+        "word": "孙颖莎胸针",
+        "onboard_time": 1746333682,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188031,
+        "num": 188031,
+        "word": "冰激凌咖啡",
+        "onboard_time": 1746332060,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179391,
+        "num": 179391,
+        "word": "张帅女单夺冠",
+        "onboard_time": 1746334640,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172952,
+        "num": 172952,
+        "word": "这是中国的青春密码",
+        "onboard_time": 1746336081,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163619,
+        "num": 163619,
+        "word": "时代少年团被鸟窝拉走了",
+        "onboard_time": 1746335602,
+        "rank": 37,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 162720,
+        "num": 162720,
+        "word": "医生批评医院公众号文章太烂遭辱骂",
+        "onboard_time": 1746333082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152110,
+        "num": 152110,
+        "word": "哈妮克孜连说三句没有哭",
+        "onboard_time": 1746332300,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151421,
+        "num": 151421,
+        "word": "罗云熙周深音乐节后台亲密合影",
+        "onboard_time": 1746334822,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149553,
+        "num": 149553,
+        "word": "确山打铁花千年来第一位女传承人",
+        "onboard_time": 1746328761,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 147755,
+        "num": 147755,
+        "word": "朱一龙说给成长一点耐心",
+        "onboard_time": 1746325221,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145918,
+        "num": 145918,
+        "word": "KPL",
+        "onboard_time": 1746334941,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141121,
+        "num": 141121,
+        "word": "和三观不正的人聊天像在录口供",
+        "onboard_time": 1746326840,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139950,
+        "num": 139950,
+        "word": "中国体育正当年",
+        "onboard_time": 1746331940,
+        "rank": 45,
+        "category": "正能量,体育"
+      },
+      {
+        "raw_hot": 139307,
+        "num": 139307,
+        "word": "陈佳陈艺文包揽跳水世界杯冠亚军",
+        "onboard_time": 1746335661,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 134920,
+        "word": "蔡徐坤ins更新",
+        "onboard_time": 1746332060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134627,
+        "num": 134627,
+        "word": "曝徐敏在怀孕后新男友跑路",
+        "onboard_time": 1746327680,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128221,
+        "num": 128221,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给戍边支教志愿者回信#"
+    }
+  }
+}

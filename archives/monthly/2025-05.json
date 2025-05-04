@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746333853231,
+  "endTime": 1746336257671,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -177,6 +177,14 @@
       "onboard_time": 1746118698,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1545421,
+      "num": 1545421,
+      "word": "李玉把处女作称为开山作",
+      "onboard_time": 1746330800,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1544794,
@@ -563,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1002478,
-      "num": 1160396,
-      "word": "李玉把处女作称为开山作",
-      "onboard_time": 1746330800,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 998509,
       "num": 998509,
       "word": "孙颖莎王楚钦公园陪打",
@@ -585,6 +585,14 @@
       "onboard_time": 1746278904,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 994125,
+      "num": 674135,
+      "word": "跟曹骏认识10年的编剧找他演戏被拒",
+      "onboard_time": 1746334462,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 993727,
@@ -803,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 821012,
+      "num": 821012,
+      "word": "全红婵哥哥回应老家建120平别墅",
+      "onboard_time": 1746330981,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 809164,
       "num": 333831,
       "word": "当老爸得知我去日本玩be like",
@@ -889,14 +905,6 @@
       "onboard_time": 1746258740,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 758785,
-      "num": 758785,
-      "word": "全红婵哥哥回应老家建120平别墅",
-      "onboard_time": 1746330981,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 757736,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1746172640,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665071,
+      "num": 665071,
+      "word": "黄山3天捡了18个孩子",
+      "onboard_time": 1746333621,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 664855,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1746151349,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602163,
+      "num": 602163,
+      "word": "五一高速免费连收费杆都放假了",
+      "onboard_time": 1746332601,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 601568,
@@ -1547,14 +1571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 510403,
-      "num": 510403,
-      "word": "五一高速免费连收费杆都放假了",
-      "onboard_time": 1746332601,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 506571,
       "num": 506571,
       "word": "越来越看不懂上海面包店了",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1746181530,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 465169,
+      "num": 465169,
+      "word": "邓超备战明年斯诺克",
+      "onboard_time": 1746333741,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 464342,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1746095061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419830,
+      "num": 419830,
+      "word": "秒切",
+      "onboard_time": 1746333082,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 418188,
@@ -2731,14 +2763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 308027,
-      "num": 308027,
-      "word": "秒切",
-      "onboard_time": 1746333082,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 307296,
       "num": 424460,
       "word": "40岁陶昕然素颜状态",
@@ -3059,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269622,
+      "num": 269622,
+      "word": "100块人民币在日本能买多少东西",
+      "onboard_time": 1746334640,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 268633,
       "num": 268633,
       "word": "zmjjkk尽力了",
@@ -3371,6 +3403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245781,
+      "num": 287743,
+      "word": "九尾被萝卜蹲害惨了",
+      "onboard_time": 1746333561,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245665,
       "num": 245665,
       "word": "极禹不值得",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1746280703,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239598,
+      "num": 239598,
+      "word": "大梅沙",
+      "onboard_time": 1746335242,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 239280,
@@ -3601,6 +3649,14 @@
       "onboard_time": 1746279743,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224428,
+      "num": 224428,
+      "word": "孙颖莎胸针",
+      "onboard_time": 1746333682,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 223111,
@@ -3804,7 +3860,7 @@
     },
     {
       "raw_hot": 209621,
-      "num": 209621,
+      "num": 281578,
       "word": "哪吒2破158亿了",
       "onboard_time": 1746332601,
       "rank": 28,
@@ -5195,14 +5251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180857,
-      "num": 180857,
-      "word": "九尾被萝卜蹲害惨了",
-      "onboard_time": 1746333561,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 180683,
       "num": 180683,
       "word": "BLG教练",
@@ -5233,6 +5281,14 @@
       "onboard_time": 1746064461,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179391,
+      "num": 179391,
+      "word": "张帅女单夺冠",
+      "onboard_time": 1746334640,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 179156,
@@ -5457,6 +5513,14 @@
       "onboard_time": 1746328761,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172952,
+      "num": 172952,
+      "word": "这是中国的青春密码",
+      "onboard_time": 1746336081,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172442,
@@ -5835,20 +5899,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163619,
+      "num": 163619,
+      "word": "时代少年团被鸟窝拉走了",
+      "onboard_time": 1746335602,
+      "rank": 37,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 163568,
       "num": 163568,
       "word": "宋亚轩人鱼王子妆造",
       "onboard_time": 1746282205,
       "rank": 38,
       "category": "音乐,演出"
-    },
-    {
-      "raw_hot": 163495,
-      "num": 163495,
-      "word": "黄山3天捡了18个孩子",
-      "onboard_time": 1746333621,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163146,
@@ -5883,6 +5947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162720,
+      "num": 162720,
+      "word": "医生批评医院公众号文章太烂遭辱骂",
+      "onboard_time": 1746333082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162669,
       "num": 162669,
       "word": "勇士火箭抢七",
@@ -5905,14 +5977,6 @@
       "onboard_time": 1746280644,
       "rank": 34,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 162354,
-      "num": 162354,
-      "word": "医生批评医院公众号文章太烂遭辱骂",
-      "onboard_time": 1746333082,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162112,
@@ -6483,6 +6547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151421,
+      "num": 151421,
+      "word": "罗云熙周深音乐节后台亲密合影",
+      "onboard_time": 1746334822,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151404,
       "num": 229259,
       "word": "公务员食堂为何成旅游顶流",
@@ -6825,6 +6897,14 @@
       "onboard_time": 1746072620,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145918,
+      "num": 145918,
+      "word": "KPL",
+      "onboard_time": 1746334941,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 145890,
@@ -7179,14 +7259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140160,
-      "num": 140160,
-      "word": "邓超备战明年斯诺克",
-      "onboard_time": 1746333741,
-      "rank": 38,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 140019,
       "num": 154033,
       "word": "吴宣仪和大学生合唱无悔当下",
@@ -7209,6 +7281,14 @@
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139307,
+      "num": 139307,
+      "word": "陈佳陈艺文包揽跳水世界杯冠亚军",
+      "onboard_time": 1746335661,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 139280,
@@ -7665,6 +7745,14 @@
       "onboard_time": 1746109464,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132173,
+      "num": 327224,
+      "word": "90后女孩6年3攀珠峰2次登顶",
+      "onboard_time": 1746334521,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 132096,
@@ -8755,14 +8843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116830,
-      "num": 116830,
-      "word": "孙颖莎胸针",
-      "onboard_time": 1746333682,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116736,
       "num": 116736,
       "word": "致敬每一位劳动者",
@@ -9105,6 +9185,14 @@
       "onboard_time": 1746236541,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110615,
+      "num": 275378,
+      "word": "你有没有为1万块拼过命",
+      "onboard_time": 1746335301,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 110382,
@@ -10539,6 +10627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77967,
+      "num": 437109,
+      "word": "男子与女友吵架为泄愤16楼扔电竞椅",
+      "onboard_time": 1746335001,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77501,
       "num": 77501,
       "word": "利雅得胜利2比3川崎前锋",
@@ -10801,6 +10897,14 @@
       "onboard_time": 1746314597,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70660,
+      "num": 281394,
+      "word": "普京称会努力克制住想揍人的冲动",
+      "onboard_time": 1746335841,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70393,
@@ -11587,6 +11691,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44582,
+      "num": 321137,
+      "word": "哈登为什么关键战总拉胯",
+      "onboard_time": 1746335782,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44503,
+      "num": 434878,
+      "word": "荣昌铺盖面扯面大叔扯到不想说话",
+      "onboard_time": 1746325761,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44384,
       "num": 243579,
       "word": "王嘉尔MM2首个舞台唱的哪首歌",
@@ -11633,6 +11753,14 @@
       "onboard_time": 1746072082,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42880,
+      "num": 269777,
+      "word": "王权弘业穿着深V就要去见老丈人",
+      "onboard_time": 1746335481,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 42808,
@@ -11753,6 +11881,14 @@
       "onboard_time": 1746263303,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40221,
+      "num": 278181,
+      "word": "WAW漫展现场好多哦豁",
+      "onboard_time": 1746335481,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 40021,
@@ -11931,6 +12067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35199,
+      "num": 433517,
+      "word": "李雯雯谈青年人相信的力量",
+      "onboard_time": 1746334880,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34888,
       "num": 128862,
       "word": "假期最后一天就是立夏了",
@@ -11977,6 +12121,14 @@
       "onboard_time": 1746258740,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 34367,
+      "num": 364687,
+      "word": "陈佳3米板金牌",
+      "onboard_time": 1746335782,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 34104,
@@ -13195,6 +13347,9 @@
     },
     {
       "word": "#习近平寄语青年朋友#"
+    },
+    {
+      "word": "#习近平给戍边支教志愿者回信#"
     }
   ]
 }
