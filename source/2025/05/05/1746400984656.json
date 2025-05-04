@@ -1,0 +1,410 @@
+{
+  "runTime": 1746400984656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599774,
+        "num": 804366,
+        "word": "西安夜空不明物可能是什么",
+        "onboard_time": 1746383537,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435774,
+        "num": 435774,
+        "word": "贵州游船倾覆事故已致3人死亡",
+        "onboard_time": 1746369864,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30853,
+        "num": 374721,
+        "word": "这是一路向前的中国青年",
+        "onboard_time": 1746366446,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318593,
+        "num": 318593,
+        "word": "中方敦促日方立即停止非法侵权活动",
+        "onboard_time": 1746395595,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263742,
+        "num": 263742,
+        "word": "张云龙沈月又吵起来了",
+        "onboard_time": 1746372923,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300306,
+        "num": 237215,
+        "word": "贵州黔西游船侧翻事故约70人落水",
+        "onboard_time": 1746359842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187929,
+        "num": 187929,
+        "word": "成都大风",
+        "onboard_time": 1746372804,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156826,
+        "num": 156826,
+        "word": "民警3天捡了25个孩子",
+        "onboard_time": 1746390254,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128466,
+        "num": 128466,
+        "word": "任嘉伦不愧是去韩国训练过的",
+        "onboard_time": 1746370105,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110999,
+        "num": 110999,
+        "word": "5月5日13时57分迎来立夏",
+        "onboard_time": 1746377301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313494,
+        "num": 110180,
+        "word": "理发师晓华说店面处于亏损状态",
+        "onboard_time": 1746352821,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 252357,
+        "num": 109177,
+        "word": "鹿哈老婆晒婚纱照",
+        "onboard_time": 1746375081,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 223046,
+        "num": 107543,
+        "word": "石凯站姐下手太狠了",
+        "onboard_time": 1746359182,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158680,
+        "num": 107231,
+        "word": "贵州游船事故亲历者发声",
+        "onboard_time": 1746369685,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132265,
+        "num": 106159,
+        "word": "白百何首晒二胎儿子",
+        "onboard_time": 1746358162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124394,
+        "num": 104660,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103761,
+        "num": 103761,
+        "word": "Angelababy小海绵自拍",
+        "onboard_time": 1746365905,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100695,
+        "num": 100695,
+        "word": "全红婵说发育期不够自律",
+        "onboard_time": 1746362544,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77325,
+        "num": 100183,
+        "word": "严浩翔受伤",
+        "onboard_time": 1746366446,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74121,
+        "num": 99193,
+        "word": "严浩翔回应演唱会受伤",
+        "onboard_time": 1746375382,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64724,
+        "num": 97292,
+        "word": "女子想用炸弹炸ATM机却炸死自己",
+        "onboard_time": 1746400578,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308234,
+        "num": 95338,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117604,
+        "num": 94137,
+        "word": "运动瘦和饿瘦哪个瘦得快",
+        "onboard_time": 1746374122,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102808,
+        "num": 92831,
+        "word": "被结婚的手捧花价格吓到了",
+        "onboard_time": 1746368305,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64619,
+        "num": 91205,
+        "word": "李晨第三次看时代少年团演唱会",
+        "onboard_time": 1746375261,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74914,
+        "num": 90841,
+        "word": "解放军莫斯科红场二次彩排画面",
+        "onboard_time": 1746399498,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89540,
+        "num": 89540,
+        "word": "这种运动可有效降低体内炎症",
+        "onboard_time": 1746398295,
+        "rank": 26,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 83518,
+        "num": 83518,
+        "word": "儿女走失6年后父亲从高处坠落昏迷",
+        "onboard_time": 1746378321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50989,
+        "num": 79444,
+        "word": "李沐宸回应灵气消耗",
+        "onboard_time": 1746400578,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37515,
+        "num": 78813,
+        "word": "贺峻霖来电了",
+        "onboard_time": 1746379099,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78227,
+        "num": 78227,
+        "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+        "onboard_time": 1746357021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75412,
+        "num": 75412,
+        "word": "景区回应桂林漓江五一堵船像赤壁大战",
+        "onboard_time": 1746397337,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 67862,
+        "num": 67862,
+        "word": "赵朔公布网红猫悟空去世前后细节",
+        "onboard_time": 1746398236,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67127,
+        "num": 67127,
+        "word": "女孩溺水被救家长先责怪孩子",
+        "onboard_time": 1746372084,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63528,
+        "num": 63528,
+        "word": "赵心童7比1领先威廉姆斯",
+        "onboard_time": 1746374122,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55743,
+        "num": 55743,
+        "word": "日方有关言论颠倒是非",
+        "onboard_time": 1746398236,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47235,
+        "num": 47235,
+        "word": "陈芋汐获年度最佳女子运动员",
+        "onboard_time": 1746373283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46621,
+        "num": 46621,
+        "word": "凯恩职业生涯首冠",
+        "onboard_time": 1746398236,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46531,
+        "num": 46531,
+        "word": "文严文",
+        "onboard_time": 1746372923,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41715,
+        "num": 41715,
+        "word": "全红婵妈妈盖楼房的愿望实现了",
+        "onboard_time": 1746393914,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41671,
+        "num": 41671,
+        "word": "羽毛球",
+        "onboard_time": 1746370046,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40042,
+        "num": 40042,
+        "word": "林瀚",
+        "onboard_time": 1746400758,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36909,
+        "num": 36909,
+        "word": "翟潇闻是不是以为大家听不见",
+        "onboard_time": 1746373942,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36898,
+        "num": 36898,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1746372624,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35927,
+        "num": 35927,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746366806,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35086,
+        "num": 35086,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746362485,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34081,
+        "num": 34081,
+        "word": "日本女孩屡报警遭漠视4个月变白骨",
+        "onboard_time": 1746352821,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33718,
+        "num": 33718,
+        "word": "周深一首歌唱给追光的你我",
+        "onboard_time": 1746370825,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33462,
+        "num": 33462,
+        "word": "宋亚轩不想和大家只是萍水相逢",
+        "onboard_time": 1746400879,
+        "rank": 48,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 32904,
+        "num": 32904,
+        "word": "李兰迪泳装",
+        "onboard_time": 1746366685,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
