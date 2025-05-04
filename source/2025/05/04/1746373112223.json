@@ -1,0 +1,410 @@
+{
+  "runTime": 1746373112223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143951,
+        "num": 2143951,
+        "word": "贵州游船倾覆事故已致3人死亡",
+        "onboard_time": 1746369864,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038977,
+        "num": 1038977,
+        "word": "成都大风",
+        "onboard_time": 1746372804,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49513,
+        "num": 1023986,
+        "word": "这是一路向前的中国青年",
+        "onboard_time": 1746366446,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1021863,
+        "num": 1021863,
+        "word": "严浩翔受伤",
+        "onboard_time": 1746366446,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458448,
+        "num": 458448,
+        "word": "赵朔称悟空定位器20分钟断网",
+        "onboard_time": 1746369086,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6886814,
+        "num": 6886814,
+        "word": "贵州黔西游船侧翻事故约70人落水",
+        "onboard_time": 1746359842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389977,
+        "num": 389977,
+        "word": "任嘉伦不愧是去韩国训练过的",
+        "onboard_time": 1746370105,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375860,
+        "num": 375860,
+        "word": "陕西漂流翻船当事人说2个座挤5个人",
+        "onboard_time": 1746360683,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292748,
+        "num": 292748,
+        "word": "翔霖 茫",
+        "onboard_time": 1746365845,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164752,
+        "num": 292616,
+        "word": "四川雷电大风准备上线",
+        "onboard_time": 1746372562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1076140,
+        "num": 292484,
+        "word": "Angelababy小海绵自拍",
+        "onboard_time": 1746365905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601159,
+        "num": 292307,
+        "word": "严浩翔哭了",
+        "onboard_time": 1746370105,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 555666,
+        "num": 292235,
+        "word": "李兰迪泳装",
+        "onboard_time": 1746366685,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409929,
+        "num": 292047,
+        "word": "白百何首晒二胎儿子",
+        "onboard_time": 1746358162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13132,
+        "num": 291948,
+        "word": "WAW星光见面会",
+        "onboard_time": 1746370885,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322285,
+        "num": 291773,
+        "word": "刘诗诗张云龙沈月聚餐合照",
+        "onboard_time": 1746371665,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291687,
+        "num": 291687,
+        "word": "全红婵说发育期不够自律",
+        "onboard_time": 1746362544,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285456,
+        "num": 285456,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219487,
+        "num": 279519,
+        "word": "周深一首歌唱给追光的你我",
+        "onboard_time": 1746370825,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131580,
+        "num": 271610,
+        "word": "吴宣仪我就多余问这嘴",
+        "onboard_time": 1746372624,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579361,
+        "num": 262669,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502136,
+        "num": 259123,
+        "word": "石凯站姐下手太狠了",
+        "onboard_time": 1746359182,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316248,
+        "num": 250269,
+        "word": "被结婚的手捧花价格吓到了",
+        "onboard_time": 1746368305,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241704,
+        "num": 241704,
+        "word": "理发师晓华说店面处于亏损状态",
+        "onboard_time": 1746352821,
+        "rank": 23,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 67245,
+        "num": 233312,
+        "word": "村干部回应全红婵在老家盖别墅",
+        "onboard_time": 1746371305,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229100,
+        "num": 229100,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746362485,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205552,
+        "num": 205552,
+        "word": "许嵩 可是他叫我小哥哥诶",
+        "onboard_time": 1746370945,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204172,
+        "num": 204172,
+        "word": "宋亚轩被彩带攻击",
+        "onboard_time": 1746372025,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202734,
+        "num": 202734,
+        "word": "淮水竹亭热度",
+        "onboard_time": 1746366806,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190691,
+        "num": 190691,
+        "word": "idid 朴元彬",
+        "onboard_time": 1746372684,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223720,
+        "num": 188298,
+        "word": "普通家庭对女儿最好的托举是什么",
+        "onboard_time": 1746354861,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202336,
+        "num": 185301,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1746372624,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178209,
+        "num": 178209,
+        "word": "文严文",
+        "onboard_time": 1746372923,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176798,
+        "num": 176798,
+        "word": "贵州游船事故亲历者发声",
+        "onboard_time": 1746369685,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171150,
+        "num": 171150,
+        "word": "是女儿是妈妈2开播",
+        "onboard_time": 1746370645,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168413,
+        "num": 168413,
+        "word": "DRG一穿四晋级春决",
+        "onboard_time": 1746372025,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168212,
+        "num": 168212,
+        "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+        "onboard_time": 1746357021,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163874,
+        "num": 163874,
+        "word": "贵州游船侧翻已打捞搜救50余人",
+        "onboard_time": 1746360203,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162709,
+        "num": 162709,
+        "word": "张云龙沈月又吵起来了",
+        "onboard_time": 1746372923,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84266,
+        "num": 157361,
+        "word": "五一节后减肥7天冲刺食谱",
+        "onboard_time": 1746372144,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156448,
+        "num": 156448,
+        "word": "戏影",
+        "onboard_time": 1746371067,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154943,
+        "num": 154943,
+        "word": "薛之谦音乐节",
+        "onboard_time": 1746372264,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "马嘉祺宋亚轩 阿楚姑娘",
+        "onboard_time": 1746365966,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139988,
+        "num": 139988,
+        "word": "老累",
+        "onboard_time": 1746372504,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139389,
+        "num": 139389,
+        "word": "宋亚轩那女孩对我说",
+        "onboard_time": 1746372742,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137729,
+        "num": 137729,
+        "word": "女孩溺水被救家长先责怪孩子",
+        "onboard_time": 1746372084,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136828,
+        "num": 136828,
+        "word": "贵州黔西游船侧翻事故游客发声",
+        "onboard_time": 1746369446,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132959,
+        "num": 132959,
+        "word": "任嘉伦好真诚",
+        "onboard_time": 1746373045,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130328,
+        "num": 130328,
+        "word": "严浩翔掌声响起来",
+        "onboard_time": 1746371604,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130376,
+        "num": 129417,
+        "word": "沈月我会一直一直一直盯着这个秉竹业游",
+        "onboard_time": 1746369984,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对俄罗斯进行国事访问#"
+    }
+  }
+}
