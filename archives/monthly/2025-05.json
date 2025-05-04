@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746340395103,
+  "endTime": 1746341207622,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -113,6 +113,14 @@
       "onboard_time": 1746269781,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1765661,
+      "num": 1765661,
+      "word": "柯淳报了两万一天片酬没人找了",
+      "onboard_time": 1746339380,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1720327,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1227988,
+      "num": 494588,
+      "word": "悟空 赵朔",
+      "onboard_time": 1746338060,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1208709,
       "num": 1208709,
       "word": "中国中央广播电视总台没有邀请Kpop",
@@ -417,14 +433,6 @@
       "onboard_time": 1746090921,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1160937,
-      "num": 569636,
-      "word": "柯淳报了两万一天片酬没人找了",
-      "onboard_time": 1746339380,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1158044,
@@ -481,14 +489,6 @@
       "onboard_time": 1746081980,
       "rank": 35,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1068268,
-      "num": 357045,
-      "word": "悟空 赵朔",
-      "onboard_time": 1746338060,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1065502,
@@ -1372,7 +1372,7 @@
     },
     {
       "raw_hot": 584408,
-      "num": 348315,
+      "num": 374850,
       "word": "黄子韬称做卫生巾投了几个亿",
       "onboard_time": 1746336981,
       "rank": 23,
@@ -2243,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386043,
+      "num": 386043,
+      "word": "Prada认领登陆少年",
+      "onboard_time": 1746339260,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 383176,
       "num": 383176,
       "word": "张新成羊毛卷",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1746019941,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334388,
-      "num": 334388,
-      "word": "Prada认领登陆少年",
-      "onboard_time": 1746339260,
-      "rank": 8,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 334373,
@@ -3017,6 +3017,14 @@
       "onboard_time": 1746110663,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286784,
+      "num": 286784,
+      "word": "悟空小猫",
+      "onboard_time": 1746340342,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 286664,
@@ -3827,6 +3835,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 215832,
+      "num": 215832,
+      "word": "柯淳回应退出无限超越班",
+      "onboard_time": 1746340761,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215458,
       "num": 248294,
       "word": "殿前欢",
@@ -4185,6 +4201,14 @@
       "onboard_time": 1746266782,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202827,
+      "num": 202827,
+      "word": "柯淳新剧怎么有四副面孔啊",
+      "onboard_time": 1746339980,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202751,
@@ -5235,6 +5259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182828,
+      "num": 154820,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182477,
       "num": 182477,
       "word": "我的五一",
@@ -5409,6 +5441,14 @@
       "onboard_time": 1746328821,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177461,
+      "num": 177461,
+      "word": "LadyGaga250万人演唱会",
+      "onboard_time": 1746338721,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 177385,
@@ -6675,14 +6715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149877,
-      "num": 149877,
-      "word": "LadyGaga250万人演唱会",
-      "onboard_time": 1746338721,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149713,
       "num": 165110,
       "word": "音乐节偶遇蔡文静",
@@ -6929,14 +6961,6 @@
       "onboard_time": 1746092061,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146539,
-      "num": 146539,
-      "word": "柯淳新剧怎么有四副面孔啊",
-      "onboard_time": 1746339980,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 146522,
@@ -8019,6 +8043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129906,
+      "num": 281394,
+      "word": "普京称会努力克制住想揍人的冲动",
+      "onboard_time": 1746335841,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "医生谈网上配镜存在多重隐患",
@@ -8515,6 +8547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123859,
+      "num": 123859,
+      "word": "李乃文太好笑了",
+      "onboard_time": 1746340700,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123701,
       "num": 123701,
       "word": "欧尼熊",
@@ -8649,14 +8689,6 @@
       "onboard_time": 1746248061,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121135,
-      "num": 281394,
-      "word": "普京称会努力克制住想揍人的冲动",
-      "onboard_time": 1746335841,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120915,
@@ -9105,6 +9137,14 @@
       "onboard_time": 1746149968,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 113647,
+      "num": 326649,
+      "word": "加沙瘦骨嶙峋女孩说想吃肉",
+      "onboard_time": 1746339742,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113624,
@@ -9731,6 +9771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104786,
+      "num": 240618,
+      "word": "苏杯中国vs韩国",
+      "onboard_time": 1746340521,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104655,
       "num": 104655,
       "word": "在种地吧看到真心换真心",
@@ -9963,12 +10011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100208,
-      "num": 100208,
-      "word": "悟空小猫",
-      "onboard_time": 1746340342,
-      "rank": 48,
-      "category": "网红"
+      "raw_hot": 100241,
+      "num": 100241,
+      "word": "华晨宇风和彩带都偏爱他",
+      "onboard_time": 1746341060,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 99520,
@@ -10025,6 +10073,14 @@
       "onboard_time": 1746243800,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98574,
+      "num": 98574,
+      "word": "30岁独居女生的小家",
+      "onboard_time": 1746341121,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 98550,
@@ -10417,14 +10473,6 @@
       "onboard_time": 1746237440,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88338,
-      "num": 108921,
-      "word": "加沙瘦骨嶙峋女孩说想吃肉",
-      "onboard_time": 1746339742,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88182,
@@ -11083,6 +11131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70880,
+      "num": 157933,
+      "word": "姜广涛最理想的生活状态",
+      "onboard_time": 1746340040,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 70393,
       "num": 172889,
       "word": "多方回应游客未让座遭两女一男殴打",
@@ -11321,14 +11377,6 @@
       "onboard_time": 1746227418,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61415,
-      "num": 157933,
-      "word": "姜广涛最理想的生活状态",
-      "onboard_time": 1746340040,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 61356,
@@ -12523,6 +12571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28415,
+      "num": 308923,
+      "word": "张博恒青年知世心怀热爱",
+      "onboard_time": 1746338480,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "小鬼把更多时间花在音乐上",
@@ -12641,14 +12697,6 @@
       "onboard_time": 1746329779,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25887,
-      "num": 308923,
-      "word": "张博恒青年知世心怀热爱",
-      "onboard_time": 1746338480,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 25754,
@@ -13025,6 +13073,14 @@
       "onboard_time": 1746267681,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18606,
+      "num": 131593,
+      "word": "哈登难破关键战拉胯魔咒",
+      "onboard_time": 1746341060,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 18174,
@@ -13505,6 +13561,14 @@
       "onboard_time": 1746064881,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 4730,
+      "num": 150194,
+      "word": "王力宏杭州演唱会影响有多大",
+      "onboard_time": 1746341001,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 3125,
