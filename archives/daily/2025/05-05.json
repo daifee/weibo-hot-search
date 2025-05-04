@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746379221265,
+  "endTime": 1746380312686,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -147,20 +147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233531,
+      "num": 267599,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 14,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "周深一首歌唱给追光的你我",
       "onboard_time": 1746370825,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221293,
-      "num": 267599,
-      "word": "理发师晓华说店面处于亏损状态",
-      "onboard_time": 1746352821,
-      "rank": 14,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 209329,
@@ -248,6 +248,14 @@
       "word": "陶喆让男歌迷叫自己老公",
       "onboard_time": 1746375681,
       "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 149468,
+      "num": 96585,
+      "word": "贺峻霖来电了",
+      "onboard_time": 1746379099,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88190,
+      "num": 140522,
+      "word": "5月5日13时57分迎来立夏",
+      "onboard_time": 1746377301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87655,
       "num": 87655,
       "word": "希林娜依高用歌声致敬奔跑的青春",
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71779,
+      "num": 71779,
+      "word": "儿女走失6年后父亲从高处坠落昏迷",
+      "onboard_time": 1746378321,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70807,
       "num": 198988,
       "word": "小蝶状态",
@@ -403,12 +427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68151,
-      "num": 140522,
-      "word": "5月5日13时57分迎来立夏",
-      "onboard_time": 1746377301,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 68827,
+      "num": 68827,
+      "word": "日本女孩屡报警遭漠视4个月变白骨",
+      "onboard_time": 1746352821,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63912,
@@ -427,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59485,
-      "num": 59485,
-      "word": "儿女走失6年后父亲从高处坠落昏迷",
-      "onboard_time": 1746378321,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57676,
       "num": 57676,
       "word": "ZETA夺冠",
@@ -451,11 +467,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52786,
-      "num": 52786,
-      "word": "贺峻霖来电了",
-      "onboard_time": 1746379099,
-      "rank": 47,
+      "raw_hot": 52347,
+      "num": 52347,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1746359964,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -465,6 +481,30 @@
       "onboard_time": 1746372264,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49063,
+      "num": 49063,
+      "word": "李宇春雨中舞台",
+      "onboard_time": 1746379458,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 47532,
+      "num": 47532,
+      "word": "德甲",
+      "onboard_time": 1746380177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46790,
+      "num": 47205,
+      "word": "请钟点工和不请钟点工的都沉默了",
+      "onboard_time": 1746377598,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 41003,

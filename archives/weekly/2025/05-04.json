@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746379221265,
+  "endTime": 1746380312686,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -2403,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149468,
+      "num": 96585,
+      "word": "贺峻霖来电了",
+      "onboard_time": 1746379099,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149262,
       "num": 149262,
       "word": "中国7次举办苏杯7次冠军",
@@ -3531,6 +3539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88190,
+      "num": 140522,
+      "word": "5月5日13时57分迎来立夏",
+      "onboard_time": 1746377301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87956,
       "num": 188745,
       "word": "威少给自己做技术犯规手势",
@@ -3683,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71779,
+      "num": 71779,
+      "word": "儿女走失6年后父亲从高处坠落昏迷",
+      "onboard_time": 1746378321,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71348,
       "num": 71348,
       "word": "韩国人爱上果茶完全是人之常情",
@@ -3713,14 +3737,6 @@
       "onboard_time": 1746366446,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68151,
-      "num": 140522,
-      "word": "5月5日13时57分迎来立夏",
-      "onboard_time": 1746377301,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67245,
@@ -3803,14 +3819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59485,
-      "num": 59485,
-      "word": "儿女走失6年后父亲从高处坠落昏迷",
-      "onboard_time": 1746378321,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
@@ -3875,20 +3883,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52786,
-      "num": 52786,
-      "word": "贺峻霖来电了",
-      "onboard_time": 1746379099,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 52723,
       "num": 186978,
       "word": "神印王座伊莱克斯超绝COS",
       "onboard_time": 1746329900,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 49063,
+      "num": 49063,
+      "word": "李宇春雨中舞台",
+      "onboard_time": 1746379458,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 48837,
@@ -3907,12 +3915,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47532,
+      "num": 47532,
+      "word": "德甲",
+      "onboard_time": 1746380177,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47193,
       "num": 832689,
       "word": "无悔青春离不开这个必选项",
       "onboard_time": 1746331400,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46790,
+      "num": 47205,
+      "word": "请钟点工和不请钟点工的都沉默了",
+      "onboard_time": 1746377598,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 45767,
