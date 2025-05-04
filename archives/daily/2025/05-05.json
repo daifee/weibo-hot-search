@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746400984656,
+  "endTime": 1746401852722,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 667480,
+      "num": 924314,
+      "word": "西安夜空不明物可能是什么",
+      "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658507,
       "num": 264727,
       "word": "鹿哈老婆晒婚纱照",
@@ -57,14 +65,6 @@
       "onboard_time": 1746372923,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 599774,
-      "num": 804366,
-      "word": "西安夜空不明物可能是什么",
-      "onboard_time": 1746383537,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 568048,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385484,
+      "num": 385484,
+      "word": "贵州游船倾覆事故已致9人死亡",
+      "onboard_time": 1746369864,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355657,
       "num": 355657,
       "word": "任嘉伦不愧是去韩国训练过的",
@@ -131,28 +139,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 332292,
-      "num": 265840,
-      "word": "严浩翔哭了",
-      "onboard_time": 1746370105,
-      "rank": 15,
-      "category": "演出"
+      "raw_hot": 348682,
+      "num": 267599,
+      "word": "理发师晓华说店面处于亏损状态",
+      "onboard_time": 1746352821,
+      "rank": 14,
+      "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 318593,
-      "num": 318593,
+      "raw_hot": 332334,
+      "num": 332334,
       "word": "中方敦促日方立即停止非法侵权活动",
       "onboard_time": 1746395595,
       "rank": 6,
       "category": "国内时政"
     },
     {
-      "raw_hot": 313494,
-      "num": 267599,
-      "word": "理发师晓华说店面处于亏损状态",
-      "onboard_time": 1746352821,
-      "rank": 14,
-      "category": "民生新闻,网红"
+      "raw_hot": 332292,
+      "num": 265840,
+      "word": "严浩翔哭了",
+      "onboard_time": 1746370105,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 303533,
@@ -219,6 +227,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189440,
+      "num": 143815,
+      "word": "贵州游船事故亲历者发声",
+      "onboard_time": 1746369685,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183058,
+      "num": 183058,
+      "word": "陈梦9岁时怀疑妈妈不是亲妈",
+      "onboard_time": 1746401058,
+      "rank": 6,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "严浩翔这个视角看好直观",
@@ -241,14 +265,6 @@
       "onboard_time": 1746375501,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158680,
-      "num": 139273,
-      "word": "贵州游船事故亲历者发声",
-      "onboard_time": 1746369685,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156826,
@@ -291,6 +307,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147164,
+      "num": 147164,
+      "word": "5月5日13时57分迎来立夏",
+      "onboard_time": 1746377301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144802,
+      "num": 144802,
+      "word": "女子想用炸弹炸ATM机却炸死自己",
+      "onboard_time": 1746400578,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141467,
+      "num": 141467,
+      "word": "上海欢乐谷失火被游客误认节目效果",
+      "onboard_time": 1746401418,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127587,
       "num": 127587,
       "word": "老累",
@@ -320,6 +360,14 @@
       "word": "陈芋汐获年度最佳女子运动员",
       "onboard_time": 1746373283,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116931,
+      "num": 91417,
+      "word": "赵心童11比6领先威廉姆斯",
+      "onboard_time": 1746401418,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -355,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110999,
-      "num": 140522,
-      "word": "5月5日13时57分迎来立夏",
-      "onboard_time": 1746377301,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109495,
       "num": 109495,
       "word": "四川雷电大风准备上线",
@@ -377,6 +417,14 @@
       "onboard_time": 1746374602,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107860,
+      "num": 107860,
+      "word": "这种运动可有效降低体内炎症",
+      "onboard_time": 1746398295,
+      "rank": 31,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 104314,
@@ -419,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89540,
-      "num": 89540,
-      "word": "这种运动可有效降低体内炎症",
-      "onboard_time": 1746398295,
-      "rank": 31,
-      "category": "健康医疗,运动健身"
+      "raw_hot": 92999,
+      "num": 92999,
+      "word": "五一随手拍",
+      "onboard_time": 1746362544,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91365,
+      "num": 91365,
+      "word": "儿女走失6年后父亲从高处坠落昏迷",
+      "onboard_time": 1746378321,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89341,
@@ -443,12 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83518,
-      "num": 83518,
-      "word": "儿女走失6年后父亲从高处坠落昏迷",
-      "onboard_time": 1746378321,
-      "rank": 41,
+      "raw_hot": 84937,
+      "num": 84937,
+      "word": "赵朔公布网红猫悟空去世前后细节",
+      "onboard_time": 1746398236,
+      "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83516,
+      "num": 83516,
+      "word": "林瀚",
+      "onboard_time": 1746400758,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 79937,
+      "num": 79937,
+      "word": "日本偶遇金靖夫妇",
+      "onboard_time": 1746358341,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 75609,
@@ -459,8 +531,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75412,
-      "num": 75412,
+      "raw_hot": 75532,
+      "num": 75532,
       "word": "景区回应桂林漓江五一堵船像赤壁大战",
       "onboard_time": 1746397337,
       "rank": 49,
@@ -483,20 +555,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67862,
-      "num": 67862,
-      "word": "赵朔公布网红猫悟空去世前后细节",
-      "onboard_time": 1746398236,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 68011,
+      "num": 68011,
+      "word": "虞书欣加盟是女儿是妈妈2",
+      "onboard_time": 1746401058,
+      "rank": 39,
+      "category": "综艺"
     },
     {
-      "raw_hot": 64724,
-      "num": 97292,
-      "word": "女子想用炸弹炸ATM机却炸死自己",
+      "raw_hot": 65023,
+      "num": 79444,
+      "word": "李沐宸回应灵气消耗",
       "onboard_time": 1746400578,
-      "rank": 20,
-      "category": "海外新闻"
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64992,
+      "num": 64992,
+      "word": "刘德华被女儿炫爸",
+      "onboard_time": 1746360143,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 63912,
@@ -515,6 +595,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59528,
+      "num": 59528,
+      "word": "日方有关言论颠倒是非",
+      "onboard_time": 1746398236,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 59364,
+      "num": 59364,
+      "word": "陈奕迅日本演唱会有空投炸弹画面",
+      "onboard_time": 1746401779,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 57676,
       "num": 57676,
       "word": "ZETA夺冠",
@@ -531,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55743,
-      "num": 57200,
-      "word": "日方有关言论颠倒是非",
+      "raw_hot": 53397,
+      "num": 53397,
+      "word": "凯恩职业生涯首冠",
       "onboard_time": 1746398236,
-      "rank": 24,
-      "category": "国内时政"
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 52347,
@@ -553,14 +649,6 @@
       "onboard_time": 1746372264,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50989,
-      "num": 79444,
-      "word": "李沐宸回应灵气消耗",
-      "onboard_time": 1746400578,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 49063,
@@ -587,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 46621,
-      "num": 46621,
-      "word": "凯恩职业生涯首冠",
-      "onboard_time": 1746398236,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 46733,
+      "num": 46733,
+      "word": "宋亚轩不想和大家只是萍水相逢",
+      "onboard_time": 1746400879,
+      "rank": 48,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 41715,
@@ -611,14 +699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40042,
-      "num": 40042,
-      "word": "林瀚",
-      "onboard_time": 1746400758,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 37596,
       "num": 37596,
       "word": "赵心童vs威廉姆斯",
@@ -627,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33462,
-      "num": 33462,
-      "word": "宋亚轩不想和大家只是萍水相逢",
-      "onboard_time": 1746400879,
-      "rank": 48,
-      "category": "演出,艺人"
+      "raw_hot": 37332,
+      "num": 124702,
+      "word": "韩安冉老公拍戏被男一蛐蛐",
+      "onboard_time": 1746362606,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 32870,
