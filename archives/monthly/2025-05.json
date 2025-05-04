@@ -1,9 +1,9 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746363651124,
+  "endTime": 1746365413993,
   "band_list": [
     {
-      "raw_hot": 9848745,
+      "raw_hot": 10416594,
       "num": 11054501,
       "word": "贵州黔西游船侧翻事故约70人落水",
       "onboard_time": 1746359842,
@@ -1003,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 775611,
+      "num": 775611,
+      "word": "Wolves对战ZETA",
+      "onboard_time": 1746358402,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 767281,
       "num": 338280,
       "word": "董某莹事件唯有真相才能定纷止争",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1746197373,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 672757,
+      "num": 672757,
+      "word": "陕西漂流翻船当事人说2个座挤5个人",
+      "onboard_time": 1746360683,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 672560,
@@ -1899,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480328,
+      "num": 261666,
+      "word": "严浩翔胸肌高光",
+      "onboard_time": 1746362904,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 479603,
       "num": 294449,
       "word": "悟空小猫",
@@ -2001,14 +2025,6 @@
       "onboard_time": 1746181530,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 465843,
-      "num": 465843,
-      "word": "陕西漂流翻船当事人说2个座挤5个人",
-      "onboard_time": 1746360683,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 464342,
@@ -2612,7 +2628,7 @@
     },
     {
       "raw_hot": 371550,
-      "num": 223595,
+      "num": 235742,
       "word": "孙怡吃了三天过敏药才敢染红发",
       "onboard_time": 1746359120,
       "rank": 22,
@@ -2665,6 +2681,14 @@
       "onboard_time": 1746275121,
       "rank": 13,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 364752,
+      "num": 254047,
+      "word": "全红婵说发育期不够自律",
+      "onboard_time": 1746362544,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 364600,
@@ -3091,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315592,
+      "num": 263951,
+      "word": "戚薇恭喜卢靖姗韩庚",
+      "onboard_time": 1746363205,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315182,
       "num": 315182,
       "word": "TES对战IG",
@@ -3476,7 +3508,7 @@
     },
     {
       "raw_hot": 276736,
-      "num": 224349,
+      "num": 251015,
       "word": "马筱梅前夫晒结婚证明",
       "onboard_time": 1746361763,
       "rank": 32,
@@ -3891,14 +3923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245835,
-      "num": 245835,
-      "word": "严浩翔胸肌高光",
-      "onboard_time": 1746362904,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 245781,
       "num": 287743,
       "word": "九尾被萝卜蹲害惨了",
@@ -3987,20 +4011,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236913,
+      "num": 236913,
+      "word": "刘德华被女儿炫爸",
+      "onboard_time": 1746360143,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236698,
       "num": 290963,
       "word": "你跟我说这是黄晓明",
       "onboard_time": 1746105322,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236498,
-      "num": 236498,
-      "word": "刘德华被女儿炫爸",
-      "onboard_time": 1746360143,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 236213,
@@ -4299,14 +4323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216853,
-      "num": 193828,
-      "word": "全红婵说发育期不够自律",
-      "onboard_time": 1746362544,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215922,
       "num": 215922,
       "word": "确山打铁花千年来第一位女传承人",
@@ -4345,6 +4361,14 @@
       "onboard_time": 1746357981,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212804,
+      "num": 212804,
+      "word": "宠爱 抗压",
+      "onboard_time": 1746360863,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 212582,
@@ -4771,6 +4795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201134,
+      "num": 212992,
+      "word": "时代少年团灯牌跑起来了",
+      "onboard_time": 1746363385,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201093,
       "num": 201093,
       "word": "最卑微的妖耗尽生命为他下了一场雪",
@@ -4979,6 +5011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197423,
+      "num": 212869,
+      "word": "赵今麦央视镜头",
+      "onboard_time": 1746361403,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197403,
       "num": 197403,
       "word": "哈妮克孜连说三句没有哭",
@@ -5041,14 +5081,6 @@
       "onboard_time": 1746024803,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196338,
-      "num": 196563,
-      "word": "赵今麦央视镜头",
-      "onboard_time": 1746361403,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 196144,
@@ -5211,14 +5243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193710,
-      "num": 193710,
-      "word": "Wolves对战ZETA",
-      "onboard_time": 1746358402,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 193694,
       "num": 193694,
       "word": "严浩翔海口演唱会大屏",
@@ -5305,6 +5329,14 @@
       "onboard_time": 1746362904,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192799,
+      "num": 212827,
+      "word": "boystory 毕业",
+      "onboard_time": 1746364166,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 192779,
@@ -6003,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179738,
+      "num": 179738,
+      "word": "老板回应荣昌扯面大叔表情失控",
+      "onboard_time": 1746363625,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179648,
       "num": 212189,
       "word": "石破茂称绝不接受对汽车加征关税",
@@ -6169,14 +6209,6 @@
       "onboard_time": 1746106403,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175828,
-      "num": 175828,
-      "word": "时代少年团灯牌跑起来了",
-      "onboard_time": 1746363385,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 175757,
@@ -6995,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159132,
+      "num": 159132,
+      "word": "五四晚会节目单",
+      "onboard_time": 1746363925,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158972,
       "num": 158972,
       "word": "湖人落后",
@@ -7105,14 +7145,6 @@
       "onboard_time": 1746110903,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157136,
-      "num": 263951,
-      "word": "戚薇恭喜卢靖姗韩庚",
-      "onboard_time": 1746363205,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 157081,
@@ -7539,6 +7571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149905,
+      "num": 149905,
+      "word": "kznk好秀",
+      "onboard_time": 1746363925,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149713,
       "num": 165110,
       "word": "音乐节偶遇蔡文静",
@@ -7867,14 +7907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145606,
-      "num": 145606,
-      "word": "宠爱 抗压",
-      "onboard_time": 1746360863,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145584,
       "num": 147482,
       "word": "美国小企业被本国关税战打蒙了",
@@ -7979,6 +8011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144430,
+      "num": 144430,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144318,
       "num": 144318,
       "word": "张极灯牌",
@@ -8025,6 +8065,14 @@
       "onboard_time": 1746261741,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142955,
+      "num": 264727,
+      "word": "民警刚还了1个娃转眼又捡回来1个",
+      "onboard_time": 1746363744,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 142879,
@@ -8251,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140356,
+      "num": 258406,
+      "word": "月嫂猛颠婴儿被辞后起诉雇主",
+      "onboard_time": 1746363744,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140341,
       "num": 140341,
       "word": "刘诗诗一场戏18种眼神变化",
@@ -8409,6 +8465,14 @@
       "onboard_time": 1746078981,
       "rank": 43,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 137886,
+      "num": 137886,
+      "word": "无尽的尽头大结局",
+      "onboard_time": 1746365247,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 137875,
@@ -9131,6 +9195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128333,
+      "num": 128333,
+      "word": "女儿去世后妈妈遇见了帮过她的叔叔",
+      "onboard_time": 1746365066,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128193,
       "num": 220843,
       "word": "普通医学生培养时间能合理缩短吗",
@@ -9177,14 +9249,6 @@
       "onboard_time": 1746283165,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127727,
-      "num": 127727,
-      "word": "老板回应荣昌扯面大叔表情失控",
-      "onboard_time": 1746363625,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127723,
@@ -9761,6 +9825,14 @@
       "onboard_time": 1746095421,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120586,
+      "num": 120586,
+      "word": "叶童 香港电视台工作强度很恐怖",
+      "onboard_time": 1746364526,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 120585,
@@ -12827,6 +12899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 54294,
+      "num": 235924,
+      "word": "全红婵跳水世界杯九宫格",
+      "onboard_time": 1746364644,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54080,
       "num": 54080,
       "word": "巴菲特建议找工作不要太在意薪水",
@@ -13633,6 +13713,14 @@
       "onboard_time": 1746295756,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34750,
+      "num": 169121,
+      "word": "18个方法帮你快速入睡",
+      "onboard_time": 1746364825,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34711,
@@ -14817,6 +14905,14 @@
       "onboard_time": 1746054917,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12049,
+      "num": 256412,
+      "word": "WAW一日店长营业中",
+      "onboard_time": 1746363686,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 11897,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1746365413993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10416594,
+        "num": 10416594,
+        "word": "贵州黔西游船侧翻事故约70人落水",
+        "onboard_time": 1746359842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775611,
+        "num": 775611,
+        "word": "Wolves对战ZETA",
+        "onboard_time": 1746358402,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44346,
+        "num": 702910,
+        "word": "中国青年继续向前",
+        "onboard_time": 1746351021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672757,
+        "num": 672757,
+        "word": "陕西漂流翻船当事人说2个座挤5个人",
+        "onboard_time": 1746360683,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456683,
+        "num": 456683,
+        "word": "贵州游船侧翻已打捞搜救50余人",
+        "onboard_time": 1746360203,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368599,
+        "num": 368599,
+        "word": "女子在沙滩玩20分钟捡了小半兜锈钉",
+        "onboard_time": 1746357021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301325,
+        "num": 301325,
+        "word": "第五人格发布会",
+        "onboard_time": 1746353721,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266825,
+        "num": 266825,
+        "word": "五四晚会",
+        "onboard_time": 1746360263,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245067,
+        "num": 266731,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1746359964,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142955,
+        "num": 264727,
+        "word": "民警刚还了1个娃转眼又捡回来1个",
+        "onboard_time": 1746363744,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 722212,
+        "num": 263328,
+        "word": "白百何首晒二胎儿子",
+        "onboard_time": 1746358162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480328,
+        "num": 261666,
+        "word": "严浩翔胸肌高光",
+        "onboard_time": 1746362904,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 454780,
+        "num": 259585,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140356,
+        "num": 258406,
+        "word": "月嫂猛颠婴儿被辞后起诉雇主",
+        "onboard_time": 1746363744,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12049,
+        "num": 256412,
+        "word": "WAW一日店长营业中",
+        "onboard_time": 1746363686,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364752,
+        "num": 254047,
+        "word": "全红婵说发育期不够自律",
+        "onboard_time": 1746362544,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315592,
+        "num": 252369,
+        "word": "戚薇恭喜卢靖姗韩庚",
+        "onboard_time": 1746363205,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268514,
+        "num": 251015,
+        "word": "马筱梅前夫晒结婚证明",
+        "onboard_time": 1746361763,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250708,
+        "num": 250708,
+        "word": "理发师晓华说店面处于亏损状态",
+        "onboard_time": 1746352821,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 248216,
+        "num": 248216,
+        "word": "普通家庭对女儿最好的托举是什么",
+        "onboard_time": 1746354861,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1135275,
+        "num": 245821,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691596,
+        "num": 242150,
+        "word": "石凯站姐下手太狠了",
+        "onboard_time": 1746359182,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238077,
+        "num": 238077,
+        "word": "贵州游船",
+        "onboard_time": 1746359964,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236913,
+        "num": 236913,
+        "word": "刘德华被女儿炫爸",
+        "onboard_time": 1746360143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54294,
+        "num": 235924,
+        "word": "全红婵跳水世界杯九宫格",
+        "onboard_time": 1746364644,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235742,
+        "num": 235742,
+        "word": "孙怡吃了三天过敏药才敢染红发",
+        "onboard_time": 1746359120,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213301,
+        "num": 213301,
+        "word": "韩安冉老公拍戏被男一蛐蛐",
+        "onboard_time": 1746362606,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 201134,
+        "num": 212992,
+        "word": "时代少年团灯牌跑起来了",
+        "onboard_time": 1746363385,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197423,
+        "num": 212869,
+        "word": "赵今麦央视镜头",
+        "onboard_time": 1746361403,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192799,
+        "num": 212827,
+        "word": "boystory 毕业",
+        "onboard_time": 1746364166,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212804,
+        "num": 212804,
+        "word": "宠爱 抗压",
+        "onboard_time": 1746360863,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212587,
+        "num": 212587,
+        "word": "严浩翔白发背头",
+        "onboard_time": 1746356960,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179738,
+        "num": 179738,
+        "word": "老板回应荣昌扯面大叔表情失控",
+        "onboard_time": 1746363625,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34750,
+        "num": 169121,
+        "word": "18个方法帮你快速入睡",
+        "onboard_time": 1746364825,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168451,
+        "num": 168451,
+        "word": "狼队醒醒",
+        "onboard_time": 1746361043,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164001,
+        "num": 164001,
+        "word": "时代少年团演唱会节目单",
+        "onboard_time": 1746360143,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159527,
+        "num": 159527,
+        "word": "关晓彤白裙黑长直",
+        "onboard_time": 1746352522,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159132,
+        "num": 159132,
+        "word": "五四晚会节目单",
+        "onboard_time": 1746363925,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158862,
+        "num": 158862,
+        "word": "霓虹甜心",
+        "onboard_time": 1746363084,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155585,
+        "num": 155585,
+        "word": "五一随手拍",
+        "onboard_time": 1746362544,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149905,
+        "num": 149905,
+        "word": "kznk好秀",
+        "onboard_time": 1746363925,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144430,
+        "num": 144430,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746362485,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143724,
+        "num": 143724,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137886,
+        "num": 137886,
+        "word": "无尽的尽头大结局",
+        "onboard_time": 1746365247,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131806,
+        "num": 131806,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128333,
+        "num": 128333,
+        "word": "女儿去世后妈妈遇见了帮过她的叔叔",
+        "onboard_time": 1746365066,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122516,
+        "num": 122516,
+        "word": "姜磊否认云歌会逼成毅",
+        "onboard_time": 1746357981,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120641,
+        "num": 120641,
+        "word": "国羽苏迪曼杯夺冠",
+        "onboard_time": 1746355283,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120586,
+        "num": 120586,
+        "word": "叶童 香港电视台工作强度很恐怖",
+        "onboard_time": 1746364526,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114835,
+        "num": 114835,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和青年朋友的10个暖心瞬间#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/04 21:00:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/04 21:30:13
 </p>
 </blockquote>
 <p>
@@ -447,6 +447,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%BB%94%E8%A5%BF%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E7%BA%A670%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
+贵州黔西游船侧翻事故约70人落水（热度：10416594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%97%AD%E5%8D%8E%E9%80%9D%E4%B8%96%23" target="weibo">
 黄旭华逝世（热度：10208509）
 </a>
@@ -503,12 +509,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%A2%AB%E6%9B%9D%E6%8C%87%E4%BD%BF%E7%A4%BE%E4%BC%9A%E4%BA%BA%E5%A3%AB%E7%A0%B8%E9%97%A8%E6%81%90%E5%90%93%23" target="weibo">
 张大大被曝指使社会人士砸门恐吓（热度：9870360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%BB%94%E8%A5%BF%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E7%BA%A670%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
-贵州黔西游船侧翻事故约70人落水（热度：9848745）
 </a>
 </li>
 
