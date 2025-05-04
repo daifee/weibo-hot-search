@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746350652485,
+  "endTime": 1746351474942,
   "band_list": [
     {
       "raw_hot": 2062863,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938400,
+      "num": 327577,
+      "word": "美国男子注射蛇毒18年血液产生抗体",
+      "onboard_time": 1746350121,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 929307,
       "num": 929307,
       "word": "马丽回应与沈腾cp被过分关注",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 651302,
-      "num": 250709,
+      "num": 375547,
       "word": "我还没嫌他们穷他们嫌我东西脏",
       "onboard_time": 1746348743,
       "rank": 6,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 538723,
-      "num": 284626,
+      "num": 322489,
       "word": "九派新闻 赵朔",
       "onboard_time": 1746345802,
       "rank": 13,
@@ -339,6 +347,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 463579,
+      "num": 325045,
+      "word": "洪尧说吴谨言来演综秒杀所有",
+      "onboard_time": 1746350421,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 435560,
+      "num": 435560,
+      "word": "全季 导盲犬",
+      "onboard_time": 1746348441,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422686,
       "num": 437109,
       "word": "男子与女友吵架为泄愤16楼扔电竞椅",
@@ -371,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403066,
+      "num": 403066,
+      "word": "石宇奇苏杯战神",
+      "onboard_time": 1746350901,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395141,
       "num": 395141,
       "word": "美加州称将继续对中国敞开贸易大门",
@@ -384,14 +416,6 @@
       "word": "27岁女教师从326斤减至170斤",
       "onboard_time": 1746345562,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387612,
-      "num": 247402,
-      "word": "全季 导盲犬",
-      "onboard_time": 1746348441,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -409,14 +433,6 @@
       "onboard_time": 1746272480,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 375282,
-      "num": 247242,
-      "word": "美国男子注射蛇毒18年血液产生抗体",
-      "onboard_time": 1746350121,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 359357,
@@ -467,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340798,
+      "num": 340798,
+      "word": "iPhone18或推迟上市",
+      "onboard_time": 1746347062,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 334553,
       "num": 334553,
       "word": "文旅局长为游客去年专门考了导游证",
@@ -499,6 +523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 327948,
+      "num": 327948,
+      "word": "广州冰雹",
+      "onboard_time": 1746348682,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325157,
       "num": 325157,
       "word": "淮水竹亭编剧 殿前欢",
@@ -507,12 +539,12 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 321991,
-      "num": 321991,
-      "word": "iPhone18或推迟上市",
-      "onboard_time": 1746347062,
-      "rank": 41,
-      "category": "数码"
+      "raw_hot": 320644,
+      "num": 320644,
+      "word": "五一假期余额还剩两天",
+      "onboard_time": 1746346522,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315182,
@@ -569,6 +601,22 @@
       "onboard_time": 1746348922,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291351,
+      "num": 291351,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287927,
+      "num": 287927,
+      "word": "翟潇闻摸了一下下巴受伤了",
+      "onboard_time": 1746350362,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 278143,
@@ -667,28 +715,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 248038,
-      "num": 248038,
-      "word": "广州冰雹",
-      "onboard_time": 1746348682,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247977,
       "num": 247977,
       "word": "蔡徐坤ins更新",
       "onboard_time": 1746332060,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246666,
-      "num": 246666,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1746340581,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 245781,
@@ -705,14 +737,6 @@
       "onboard_time": 1746343219,
       "rank": 44,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 236731,
-      "num": 265261,
-      "word": "五一假期余额还剩两天",
-      "onboard_time": 1746346522,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228489,
@@ -891,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202115,
+      "num": 202115,
+      "word": "卢靖姗说二胎反应更大",
+      "onboard_time": 1746350963,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "吴彤以为柯淳是关系户",
@@ -993,6 +1025,14 @@
       "onboard_time": 1746339202,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "韩庚卢靖姗回应二胎",
+      "onboard_time": 1746350901,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 179891,
@@ -1155,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160882,
+      "num": 160882,
+      "word": "王者荣耀",
+      "onboard_time": 1746350660,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160521,
       "num": 160521,
       "word": "金靖勇敢的人先享受张凌赫的腹肌",
@@ -1177,14 +1225,6 @@
       "onboard_time": 1746323600,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 156392,
-      "num": 156392,
-      "word": "翟潇闻摸了一下下巴受伤了",
-      "onboard_time": 1746350362,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 156068,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1746329841,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151546,
+      "num": 151546,
+      "word": "网红小猫悟空疑因中毒去世",
+      "onboard_time": 1746351322,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 151421,
@@ -1291,12 +1339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141666,
+      "num": 141666,
+      "word": "我勒个面具团神级站位",
+      "onboard_time": 1746351382,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141560,
       "num": 141560,
       "word": "JYP中国男团首次音乐节",
       "onboard_time": 1746350182,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141303,
+      "num": 141303,
+      "word": "成都GG对战AXIZ",
+      "onboard_time": 1746351021,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 141068,
@@ -1355,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139358,
+      "num": 139358,
+      "word": "这就是周深高素质的兵",
+      "onboard_time": 1746351262,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139307,
       "num": 139307,
       "word": "陈佳陈艺文包揽跳水世界杯冠亚军",
@@ -1364,7 +1436,7 @@
     },
     {
       "raw_hot": 138764,
-      "num": 138764,
+      "num": 189596,
       "word": "解放军仪仗队走莫斯科红场好燃",
       "onboard_time": 1746348743,
       "rank": 40,
@@ -1401,14 +1473,6 @@
       "onboard_time": 1746331522,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135436,
-      "num": 135436,
-      "word": "洪尧说吴谨言来演综秒杀所有",
-      "onboard_time": 1746350421,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 133566,
@@ -1979,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92399,
+      "num": 183478,
+      "word": "第五人格赛事",
+      "onboard_time": 1746351322,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90810,
       "num": 90810,
       "word": "梅西破门",
@@ -2059,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84529,
+      "num": 247525,
+      "word": "部分景区因风沙紧急临时闭园或限流",
+      "onboard_time": 1746349462,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84215,
       "num": 109233,
       "word": "威廉姆斯晋级世锦赛决赛",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1746294976,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81763,
+      "num": 182900,
+      "word": "eStar全员自拍营业",
+      "onboard_time": 1746351142,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 81090,
@@ -2243,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44252,
-      "num": 247525,
-      "word": "部分景区因风沙紧急临时闭园或限流",
-      "onboard_time": 1746349462,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42935,
       "num": 269777,
       "word": "王权弘业穿着深V就要去见老丈人",
@@ -2297,6 +2377,14 @@
       "onboard_time": 1746304216,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38673,
+      "num": 246926,
+      "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
+      "onboard_time": 1746349521,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 38533,
@@ -2347,14 +2435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33644,
-      "num": 246926,
-      "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
-      "onboard_time": 1746349521,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 32056,
       "num": 308178,
       "word": "中国最年轻珠峰女孩回顾登顶",
@@ -2369,6 +2449,14 @@
       "onboard_time": 1746314118,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31490,
+      "num": 322016,
+      "word": "青年人陈梦我命由我不由天",
+      "onboard_time": 1746349283,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 30026,
@@ -2399,14 +2487,6 @@
       "num": 308923,
       "word": "张博恒青年知世心怀热爱",
       "onboard_time": 1746338480,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28281,
-      "num": 247437,
-      "word": "青年人陈梦我命由我不由天",
-      "onboard_time": 1746349283,
       "rank": 14,
       "category": "体育"
     },
@@ -2475,6 +2555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22128,
+      "num": 141677,
+      "word": "全国公路逐步进入返程高峰",
+      "onboard_time": 1746351441,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21997,
       "num": 32569,
       "word": "于东来账号设为私密后再发声",
@@ -2489,6 +2577,14 @@
       "onboard_time": 1746346282,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20165,
+      "num": 412427,
+      "word": "中国青年继续向前",
+      "onboard_time": 1746351021,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20112,

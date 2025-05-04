@@ -1,0 +1,410 @@
+{
+  "runTime": 1746351474942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410265,
+        "num": 1410265,
+        "word": "卢靖姗韩庚官宣二胎",
+        "onboard_time": 1746344899,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435560,
+        "num": 435560,
+        "word": "全季 导盲犬",
+        "onboard_time": 1746348441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20165,
+        "num": 412427,
+        "word": "中国青年继续向前",
+        "onboard_time": 1746351021,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 739200,
+        "num": 412199,
+        "word": "悟空 赵朔",
+        "onboard_time": 1746338060,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411781,
+        "num": 411781,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403066,
+        "num": 403066,
+        "word": "石宇奇苏杯战神",
+        "onboard_time": 1746350901,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574213,
+        "num": 375547,
+        "word": "我还没嫌他们穷他们嫌我东西脏",
+        "onboard_time": 1746348743,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 517169,
+        "num": 368841,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340798,
+        "num": 340798,
+        "word": "iPhone18或推迟上市",
+        "onboard_time": 1746347062,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 327948,
+        "num": 327948,
+        "word": "广州冰雹",
+        "onboard_time": 1746348682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938400,
+        "num": 327577,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463579,
+        "num": 325045,
+        "word": "洪尧说吴谨言来演综秒杀所有",
+        "onboard_time": 1746350421,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367639,
+        "num": 324581,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327992,
+        "num": 322489,
+        "word": "九派新闻 赵朔",
+        "onboard_time": 1746345802,
+        "rank": 13,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 31490,
+        "num": 322016,
+        "word": "青年人陈梦我命由我不由天",
+        "onboard_time": 1746349283,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320644,
+        "num": 320644,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316135,
+        "num": 316135,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291351,
+        "num": 291351,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1746340581,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287927,
+        "num": 287927,
+        "word": "翟潇闻摸了一下下巴受伤了",
+        "onboard_time": 1746350362,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244197,
+        "num": 244197,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291920,
+        "num": 236104,
+        "word": "迪丽热巴跳九万字",
+        "onboard_time": 1746345985,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282909,
+        "num": 232926,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275344,
+        "num": 220242,
+        "word": "刘亦菲徐海乔又同框了",
+        "onboard_time": 1746348922,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202115,
+        "num": 202115,
+        "word": "卢靖姗说二胎反应更大",
+        "onboard_time": 1746350963,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195717,
+        "num": 195717,
+        "word": "苏杯中国vs韩国",
+        "onboard_time": 1746340521,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190727,
+        "num": 190727,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131235,
+        "num": 189596,
+        "word": "解放军仪仗队走莫斯科红场好燃",
+        "onboard_time": 1746348743,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113082,
+        "num": 188066,
+        "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+        "onboard_time": 1746343282,
+        "rank": 27,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 92399,
+        "num": 183478,
+        "word": "第五人格赛事",
+        "onboard_time": 1746351322,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81763,
+        "num": 182900,
+        "word": "eStar全员自拍营业",
+        "onboard_time": 1746351142,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180445,
+        "num": 180445,
+        "word": "韩庚卢靖姗回应二胎",
+        "onboard_time": 1746350901,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175485,
+        "num": 175485,
+        "word": "青年的人生不需要标准答案",
+        "onboard_time": 1746348503,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161473,
+        "num": 161473,
+        "word": "安洗莹统治力",
+        "onboard_time": 1746348621,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38673,
+        "num": 161011,
+        "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
+        "onboard_time": 1746349521,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 160882,
+        "num": 160882,
+        "word": "王者荣耀",
+        "onboard_time": 1746350660,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159878,
+        "num": 159878,
+        "word": "种地吧",
+        "onboard_time": 1746349401,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84529,
+        "num": 154937,
+        "word": "部分景区因风沙紧急临时闭园或限流",
+        "onboard_time": 1746349462,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152421,
+        "num": 152421,
+        "word": "K总说家里不是小孩写作业的地方",
+        "onboard_time": 1746343219,
+        "rank": 37,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 151546,
+        "num": 151546,
+        "word": "网红小猫悟空疑因中毒去世",
+        "onboard_time": 1746351322,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141938,
+        "num": 141938,
+        "word": "夫妻吵架丈夫被扔高速上手机也没带",
+        "onboard_time": 1746342260,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22128,
+        "num": 141677,
+        "word": "全国公路逐步进入返程高峰",
+        "onboard_time": 1746351441,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141666,
+        "num": 141666,
+        "word": "我勒个面具团神级站位",
+        "onboard_time": 1746351382,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25832,
+        "num": 141319,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141303,
+        "num": 141303,
+        "word": "成都GG对战AXIZ",
+        "onboard_time": 1746351021,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138884,
+        "num": 140793,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1746345081,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140557,
+        "num": 140557,
+        "word": "我在冰岛的最后一包螺蛳粉",
+        "onboard_time": 1746348503,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139358,
+        "num": 139358,
+        "word": "这就是周深高素质的兵",
+        "onboard_time": 1746351262,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138004,
+        "num": 138004,
+        "word": "张凌赫给迪丽热巴把脉",
+        "onboard_time": 1746341541,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135815,
+        "num": 135815,
+        "word": "JYP中国男团首次音乐节",
+        "onboard_time": 1746350182,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121384,
+        "num": 121384,
+        "word": "还珠格格柳红聊爆火后的人生",
+        "onboard_time": 1746346941,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语青年朋友#"
+    }
+  }
+}
