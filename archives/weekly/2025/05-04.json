@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746337285913,
+  "endTime": 1746340395103,
   "band_list": [
     {
       "raw_hot": 1871157,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1118384,
-      "num": 724685,
+      "raw_hot": 1243131,
+      "num": 1243131,
       "word": "跟曹骏认识10年的编剧找他演戏被拒",
       "onboard_time": 1746334462,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1160937,
+      "num": 569636,
+      "word": "柯淳报了两万一天片酬没人找了",
+      "onboard_time": 1746339380,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1068268,
+      "num": 357045,
+      "word": "悟空 赵朔",
+      "onboard_time": 1746338060,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 1062578,
@@ -115,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 714077,
-      "num": 714077,
+      "raw_hot": 780708,
+      "num": 780708,
       "word": "黄山3天捡了18个孩子",
       "onboard_time": 1746333621,
       "rank": 32,
@@ -177,6 +193,14 @@
       "onboard_time": 1746323420,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584408,
+      "num": 348315,
+      "word": "黄子韬称做卫生巾投了几个亿",
+      "onboard_time": 1746336981,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 584021,
@@ -339,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334388,
+      "num": 334388,
+      "word": "Prada认领登陆少年",
+      "onboard_time": 1746339260,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 331349,
       "num": 331349,
       "word": "沈马",
@@ -353,6 +385,14 @@
       "onboard_time": 1746319940,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328009,
+      "num": 328009,
+      "word": "大梅沙",
+      "onboard_time": 1746335242,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 325157,
@@ -459,6 +499,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 256149,
+      "num": 256149,
+      "word": "荣昌政府食堂2天接待近2万游客",
+      "onboard_time": 1746338661,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252451,
       "num": 252451,
       "word": "盛李豪黄雨婷霸榜世界第一",
@@ -489,22 +537,6 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239598,
-      "num": 239598,
-      "word": "大梅沙",
-      "onboard_time": 1746335242,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 230956,
-      "num": 230956,
-      "word": "黄子韬称做卫生巾投了几个亿",
-      "onboard_time": 1746336981,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 228267,
@@ -569,6 +601,14 @@
       "onboard_time": 1746332601,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208357,
+      "num": 208357,
+      "word": "榜上佳婿18集判若两剧",
+      "onboard_time": 1746338420,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 207988,
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 197908,
-      "num": 197908,
+      "num": 317749,
       "word": "中国体育正当年",
       "onboard_time": 1746331940,
       "rank": 25,
@@ -705,6 +745,14 @@
       "onboard_time": 1746276501,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180571,
+      "num": 180571,
+      "word": "倪虹洁浪姐上班疯了算工伤吗",
+      "onboard_time": 1746339202,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 179391,
@@ -859,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149877,
+      "num": 149877,
+      "word": "LadyGaga250万人演唱会",
+      "onboard_time": 1746338721,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147838,
       "num": 147838,
       "word": "乌称无法确保出席俄阅兵式人士安全",
@@ -873,6 +929,14 @@
       "onboard_time": 1746322340,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146539,
+      "num": 146539,
+      "word": "柯淳新剧怎么有四副面孔啊",
+      "onboard_time": 1746339980,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 146411,
@@ -1035,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126730,
+      "num": 126730,
+      "word": "毛不易镜头签",
+      "onboard_time": 1746339321,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126460,
       "num": 126714,
       "word": "中国驻日本大使向日方提出严正交涉",
@@ -1059,12 +1131,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121135,
+      "num": 281394,
+      "word": "普京称会努力克制住想揍人的冲动",
+      "onboard_time": 1746335841,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120440,
       "num": 147437,
       "word": "沈月异域服饰",
       "onboard_time": 1746331820,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118993,
+      "num": 118993,
+      "word": "抚仙湖",
+      "onboard_time": 1746337220,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 116960,
@@ -1083,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115191,
-      "num": 281394,
-      "word": "普京称会努力克制住想揍人的冲动",
-      "onboard_time": 1746335841,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114705,
       "num": 114705,
       "word": "苏杯中国vs韩国对阵公布",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1746276983,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113774,
+      "num": 113774,
+      "word": "吴是温开球",
+      "onboard_time": 1746338601,
+      "rank": 41,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 112179,
@@ -1155,12 +1243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110254,
+      "num": 110254,
+      "word": "榜上佳婿比吻先到的是他的泪",
+      "onboard_time": 1746340161,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109498,
       "num": 109498,
       "word": "檀健次吃瓜吃到自己身上",
       "onboard_time": 1746330320,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108306,
+      "num": 108306,
+      "word": "BLACKPINK即将发行专辑",
+      "onboard_time": 1746337280,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 107712,
@@ -1227,12 +1331,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 100481,
-      "num": 100481,
-      "word": "抚仙湖",
-      "onboard_time": 1746337220,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 101848,
+      "num": 101848,
+      "word": "TOP登陆少年真心话",
+      "onboard_time": 1746340161,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100208,
+      "num": 100208,
+      "word": "悟空小猫",
+      "onboard_time": 1746340342,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 99379,
@@ -1241,6 +1353,14 @@
       "onboard_time": 1746322340,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98898,
+      "num": 98898,
+      "word": "翟潇闻新剧微表情演技好灵",
+      "onboard_time": 1746340040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 96746,
@@ -1329,6 +1449,14 @@
       "onboard_time": 1746290540,
       "rank": 43,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 88338,
+      "num": 108921,
+      "word": "加沙瘦骨嶙峋女孩说想吃肉",
+      "onboard_time": 1746339742,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87956,
@@ -1475,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61415,
+      "num": 157933,
+      "word": "姜广涛最理想的生活状态",
+      "onboard_time": 1746340040,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 61356,
       "num": 61356,
       "word": "十个勤天新歌的青年力量",
@@ -1507,12 +1643,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 53287,
+      "num": 312096,
+      "word": "向世界安利重庆这件事他做了4年",
+      "onboard_time": 1746338601,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 52723,
       "num": 186978,
       "word": "神印王座伊莱克斯超绝COS",
       "onboard_time": 1746329900,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 48837,
+      "num": 190467,
+      "word": "中国跳水队世界杯第8金",
+      "onboard_time": 1746338060,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 47193,
@@ -1651,6 +1803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 29210,
+      "num": 116927,
+      "word": "黑猫警长咪咪亮相微博漫展",
+      "onboard_time": 1746339742,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 29003,
       "num": 29003,
       "word": "宋亚轩飞吻饭撒",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1746329779,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25887,
+      "num": 308923,
+      "word": "张博恒青年知世心怀热爱",
+      "onboard_time": 1746338480,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 24878,
