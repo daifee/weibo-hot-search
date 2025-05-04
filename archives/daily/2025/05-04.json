@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746365413993,
+  "endTime": 1746366084126,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -9,6 +9,14 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2470835,
+      "num": 2470835,
+      "word": "翔霖 茫",
+      "onboard_time": 1746365845,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 2203583,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1057680,
+      "num": 328559,
+      "word": "Angelababy小海绵自拍",
+      "onboard_time": 1746365905,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013428,
       "num": 678085,
       "word": "霍思燕一家与贾乃亮一家出游",
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 797490,
-      "num": 302426,
+      "num": 321009,
       "word": "白百何首晒二胎儿子",
       "onboard_time": 1746358162,
       "rank": 20,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 793217,
-      "num": 242584,
+      "num": 274761,
       "word": "石凯站姐下手太狠了",
       "onboard_time": 1746359182,
       "rank": 21,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 747692,
-      "num": 269282,
+      "num": 273177,
       "word": "严浩翔白发背头",
       "onboard_time": 1746356960,
       "rank": 11,
@@ -329,6 +345,14 @@
       "onboard_time": 1746321381,
       "rank": 22,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 604105,
+      "num": 604105,
+      "word": "ZETA夺冠",
+      "onboard_time": 1746365845,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 602163,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523098,
+      "num": 307888,
+      "word": "严浩翔胸肌高光",
+      "onboard_time": 1746362904,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 516319,
       "num": 516319,
       "word": "这居然是华晨宇",
@@ -483,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 480328,
-      "num": 261666,
-      "word": "严浩翔胸肌高光",
-      "onboard_time": 1746362904,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 479603,
       "num": 294449,
       "word": "悟空小猫",
@@ -529,6 +553,22 @@
       "onboard_time": 1746352522,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 428766,
+      "num": 428766,
+      "word": "刘耀文港风",
+      "onboard_time": 1746365905,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 426562,
+      "num": 280197,
+      "word": "全红婵说发育期不够自律",
+      "onboard_time": 1746362544,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 422686,
@@ -651,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364752,
-      "num": 254047,
-      "word": "全红婵说发育期不够自律",
-      "onboard_time": 1746362544,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 360997,
       "num": 360997,
       "word": "种地吧生活直播",
@@ -739,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 336173,
+      "num": 336173,
+      "word": "那女孩对我说",
+      "onboard_time": 1746366025,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 334553,
       "num": 334553,
       "word": "文旅局长为游客去年专门考了导游证",
@@ -796,7 +836,7 @@
     },
     {
       "raw_hot": 315592,
-      "num": 263951,
+      "num": 278895,
       "word": "戚薇恭喜卢靖姗韩庚",
       "onboard_time": 1746363205,
       "rank": 17,
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 276736,
-      "num": 251015,
+      "num": 277956,
       "word": "马筱梅前夫晒结婚证明",
       "onboard_time": 1746361763,
       "rank": 32,
@@ -937,6 +977,14 @@
       "onboard_time": 1746284841,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262782,
+      "num": 262782,
+      "word": "贺峻霖蕾丝颈圈",
+      "onboard_time": 1746366025,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 258194,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1746360143,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232719,
+      "num": 232719,
+      "word": "时代少年团灯牌跑起来了",
+      "onboard_time": 1746363385,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 231700,
@@ -1267,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201134,
-      "num": 212992,
-      "word": "时代少年团灯牌跑起来了",
-      "onboard_time": 1746363385,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200666,
       "num": 200666,
       "word": "时代少年团die for you",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1746332300,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196193,
+      "num": 258406,
+      "word": "月嫂猛颠婴儿被辞后起诉雇主",
+      "onboard_time": 1746363744,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195955,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1746361043,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188343,
+      "num": 188343,
+      "word": "华晨宇穿这么仙唱这么凶",
+      "onboard_time": 1746366025,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 187609,
@@ -1491,6 +1555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178264,
+      "num": 178264,
+      "word": "女子高速上听闻噩耗突发急症",
+      "onboard_time": 1746366025,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177610,
       "num": 177610,
       "word": "黄磊谈盒猫制作初衷",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1746360742,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 174616,
+      "num": 167652,
+      "word": "马嘉祺宋亚轩 阿楚姑娘",
+      "onboard_time": 1746365966,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 173805,
@@ -1580,11 +1660,19 @@
     },
     {
       "raw_hot": 169947,
-      "num": 169947,
+      "num": 255700,
       "word": "日本女孩屡报警遭漠视4个月变白骨",
       "onboard_time": 1746352821,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169007,
+      "num": 169007,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 168483,
@@ -1667,6 +1755,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 163155,
+      "num": 163155,
+      "word": "无尽的尽头大结局",
+      "onboard_time": 1746365247,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162720,
       "num": 162720,
       "word": "医生批评医院公众号文章太烂遭辱骂",
@@ -1729,6 +1825,14 @@
       "onboard_time": 1746323600,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156344,
+      "num": 190770,
+      "word": "石宇奇说继续努力加油",
+      "onboard_time": 1746365905,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 156068,
@@ -1883,14 +1987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144430,
-      "num": 144430,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144235,
       "num": 154268,
       "word": "莱比锡3比3拜仁",
@@ -1987,14 +2083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140356,
-      "num": 258406,
-      "word": "月嫂猛颠婴儿被辞后起诉雇主",
-      "onboard_time": 1746363744,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140019,
       "num": 154033,
       "word": "吴宣仪和大学生合唱无悔当下",
@@ -2057,14 +2145,6 @@
       "onboard_time": 1746270501,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137886,
-      "num": 137886,
-      "word": "无尽的尽头大结局",
-      "onboard_time": 1746365247,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 137565,
@@ -3019,6 +3099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61659,
+      "num": 235924,
+      "word": "全红婵跳水世界杯九宫格",
+      "onboard_time": 1746364644,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61356,
       "num": 61356,
       "word": "十个勤天新歌的青年力量",
@@ -3049,14 +3137,6 @@
       "onboard_time": 1746342681,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54294,
-      "num": 235924,
-      "word": "全红婵跳水世界杯九宫格",
-      "onboard_time": 1746364644,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 54080,
@@ -3116,7 +3196,7 @@
     },
     {
       "raw_hot": 44823,
-      "num": 936147,
+      "num": 1508235,
       "word": "中国青年继续向前",
       "onboard_time": 1746351021,
       "rank": 2,
@@ -3379,6 +3459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23176,
+      "num": 277381,
+      "word": "游船意外落水如何自救",
+      "onboard_time": 1746365546,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22953,
       "num": 166945,
       "word": "欧盟呼吁印度和巴基斯坦保持克制",
@@ -3459,6 +3547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 17964,
+      "num": 178088,
+      "word": "上海车展背后的资本争夺",
+      "onboard_time": 1746365725,
+      "rank": 39,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 17815,
       "num": 231782,
       "word": "WAW漫展COS妆造小妙招",
@@ -3532,7 +3628,7 @@
     },
     {
       "raw_hot": 12049,
-      "num": 256412,
+      "num": 289210,
       "word": "WAW一日店长营业中",
       "onboard_time": 1746363686,
       "rank": 14,
