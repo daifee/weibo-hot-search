@@ -1,0 +1,410 @@
+{
+  "runTime": 1746333853231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962133,
+        "num": 1153941,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 879877,
+        "num": 879877,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 1,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 96463,
+        "num": 852596,
+        "word": "五一假期返程天气",
+        "onboard_time": 1746323420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 845122,
+        "num": 845122,
+        "word": "王大陆回应涉嫌教唆杀人未遂",
+        "onboard_time": 1746330562,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758785,
+        "num": 758785,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649625,
+        "num": 649625,
+        "word": "做了将近7个小时的饭",
+        "onboard_time": 1746326479,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 528637,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 789679,
+        "num": 527836,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526974,
+        "num": 526974,
+        "word": "刘诗诗演员类型稀缺性",
+        "onboard_time": 1746331040,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487168,
+        "num": 524846,
+        "word": "气象部门回应西安雷雨夜不明飞行物",
+        "onboard_time": 1746329060,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524333,
+        "num": 524333,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510403,
+        "num": 510403,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467832,
+        "num": 467832,
+        "word": "丁禹兮ins点赞",
+        "onboard_time": 1746328341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57639,
+        "num": 389783,
+        "word": "男子评论公众号写得烂被运营者辱骂",
+        "onboard_time": 1746332542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37077,
+        "num": 378192,
+        "word": "16岁青年女孩登顶珠峰后的经历",
+        "onboard_time": 1746331280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376244,
+        "num": 376244,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312174,
+        "num": 312174,
+        "word": "TOP杂志",
+        "onboard_time": 1746333021,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310504,
+        "num": 310504,
+        "word": "和三观不正的人聊天像在录口供",
+        "onboard_time": 1746326840,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32056,
+        "num": 308178,
+        "word": "中国最年轻珠峰女孩回顾登顶",
+        "onboard_time": 1746332542,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39247,
+        "num": 308096,
+        "word": "35岁后的职场如何破局",
+        "onboard_time": 1746333380,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308027,
+        "num": 308027,
+        "word": "秒切",
+        "onboard_time": 1746333082,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247977,
+        "num": 247977,
+        "word": "蔡徐坤ins更新",
+        "onboard_time": 1746332060,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228267,
+        "num": 228267,
+        "word": "冰激凌咖啡",
+        "onboard_time": 1746332060,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209621,
+        "num": 209621,
+        "word": "哪吒2破158亿了",
+        "onboard_time": 1746332601,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201920,
+        "num": 201920,
+        "word": "曝徐敏在怀孕后新男友跑路",
+        "onboard_time": 1746327680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197908,
+        "num": 197908,
+        "word": "中国体育正当年",
+        "onboard_time": 1746331940,
+        "rank": 25,
+        "category": "正能量,体育"
+      },
+      {
+        "raw_hot": 197403,
+        "num": 197403,
+        "word": "哈妮克孜连说三句没有哭",
+        "onboard_time": 1746332300,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190292,
+        "num": 190292,
+        "word": "朱一龙说给成长一点耐心",
+        "onboard_time": 1746325221,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188402,
+        "num": 188402,
+        "word": "确山打铁花千年来第一位女传承人",
+        "onboard_time": 1746328761,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105127,
+        "num": 181234,
+        "word": "陶喆耳返掉了被吓成表情包",
+        "onboard_time": 1746331700,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180857,
+        "num": 180857,
+        "word": "九尾被萝卜蹲害惨了",
+        "onboard_time": 1746333561,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174108,
+        "num": 174108,
+        "word": "ELLEMEN封面",
+        "onboard_time": 1746328640,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163495,
+        "num": 163495,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162354,
+        "num": 162354,
+        "word": "医生批评医院公众号文章太烂遭辱骂",
+        "onboard_time": 1746333082,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156741,
+        "num": 156741,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "哈里王子担心戴安娜王妃悲剧重演",
+        "onboard_time": 1746322340,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146152,
+        "num": 146152,
+        "word": "妈妈可能在经历最痛苦的10年",
+        "onboard_time": 1746329841,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140471,
+        "num": 140471,
+        "word": "有些水果都赶不上黄瓜好吃",
+        "onboard_time": 1746331820,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140160,
+        "num": 140160,
+        "word": "邓超备战明年斯诺克",
+        "onboard_time": 1746333741,
+        "rank": 38,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 136596,
+        "num": 136596,
+        "word": "控糖60天面部的变化",
+        "onboard_time": 1746320000,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130486,
+        "num": 130486,
+        "word": "王一博将出现在CCTV多个平台",
+        "onboard_time": 1746328701,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123742,
+        "num": 123742,
+        "word": "董子健 姐弟恋cp",
+        "onboard_time": 1746319160,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121794,
+        "num": 121794,
+        "word": "巴基斯坦呼吁中美俄英法介入",
+        "onboard_time": 1746325761,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 117837,
+        "word": "陈梦说乒乓球是生命不可或缺的部分",
+        "onboard_time": 1746330260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116830,
+        "num": 116830,
+        "word": "孙颖莎胸针",
+        "onboard_time": 1746333682,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112148,
+        "num": 112148,
+        "word": "全红婵绷脚面能到什么程度",
+        "onboard_time": 1746331522,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107828,
+        "num": 107828,
+        "word": "美加州称将继续对中国敞开贸易大门",
+        "onboard_time": 1746321139,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106460,
+        "num": 106460,
+        "word": "免费入住文旅局长家游客发声",
+        "onboard_time": 1746321381,
+        "rank": 47,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 105909,
+        "num": 105909,
+        "word": "宇多田光 夫妇别姓",
+        "onboard_time": 1746333741,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103606,
+        "num": 103606,
+        "word": "我们为何如此热爱青春",
+        "onboard_time": 1746322039,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746332982842,
+  "endTime": 1746333853231,
   "band_list": [
     {
       "raw_hot": 1871157,
@@ -59,12 +59,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 962133,
+      "num": 1153941,
+      "word": "被短剧演法消耗的演员灵气",
+      "onboard_time": 1746328761,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 929307,
       "num": 929307,
       "word": "马丽回应与沈腾cp被过分关注",
       "onboard_time": 1746288501,
       "rank": 7,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 845122,
+      "num": 845122,
+      "word": "王大陆回应涉嫌教唆杀人未遂",
+      "onboard_time": 1746330562,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 799051,
@@ -83,16 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 756283,
-      "num": 756283,
-      "word": "被短剧演法消耗的演员灵气",
-      "onboard_time": 1746328761,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 740791,
-      "num": 740791,
+      "raw_hot": 758785,
+      "num": 758785,
       "word": "全红婵哥哥回应老家建120平别墅",
       "onboard_time": 1746330981,
       "rank": 5,
@@ -105,14 +113,6 @@
       "onboard_time": 1746321501,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679600,
-      "num": 679600,
-      "word": "王大陆回应涉嫌教唆杀人未遂",
-      "onboard_time": 1746330562,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 662036,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 526974,
+      "num": 526974,
+      "word": "刘诗诗演员类型稀缺性",
+      "onboard_time": 1746331040,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516319,
       "num": 516319,
       "word": "这居然是华晨宇",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 514332,
-      "num": 514332,
+      "num": 524846,
       "word": "气象部门回应西安雷雨夜不明飞行物",
       "onboard_time": 1746329060,
       "rank": 36,
@@ -201,6 +209,14 @@
       "onboard_time": 1746282743,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 510403,
+      "num": 510403,
+      "word": "五一高速免费连收费杆都放假了",
+      "onboard_time": 1746332601,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 507983,
@@ -233,14 +249,6 @@
       "onboard_time": 1746321139,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 380890,
-      "num": 380890,
-      "word": "刘诗诗演员类型稀缺性",
-      "onboard_time": 1746331040,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 378874,
@@ -331,12 +339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 312174,
+      "num": 312174,
+      "word": "TOP杂志",
+      "onboard_time": 1746333021,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309630,
       "num": 344009,
       "word": "朱一龙说给成长一点耐心",
       "onboard_time": 1746325221,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308027,
+      "num": 308027,
+      "word": "秒切",
+      "onboard_time": 1746333082,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304578,
@@ -411,12 +435,20 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 227914,
-      "num": 147273,
-      "word": "五一高速免费连收费杆都放假了",
-      "onboard_time": 1746332601,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 247977,
+      "num": 247977,
+      "word": "蔡徐坤ins更新",
+      "onboard_time": 1746332060,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228267,
+      "num": 228267,
+      "word": "冰激凌咖啡",
+      "onboard_time": 1746332060,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 224453,
@@ -433,14 +465,6 @@
       "onboard_time": 1746326661,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218168,
-      "num": 218168,
-      "word": "蔡徐坤ins更新",
-      "onboard_time": 1746332060,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 215922,
@@ -465,6 +489,14 @@
       "onboard_time": 1746288801,
       "rank": 42,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 209621,
+      "num": 209621,
+      "word": "哪吒2破158亿了",
+      "onboard_time": 1746332601,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 207988,
@@ -547,6 +579,22 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 197908,
+      "num": 197908,
+      "word": "中国体育正当年",
+      "onboard_time": 1746331940,
+      "rank": 25,
+      "category": "正能量,体育"
+    },
+    {
+      "raw_hot": 197403,
+      "num": 197403,
+      "word": "哈妮克孜连说三句没有哭",
+      "onboard_time": 1746332300,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194105,
       "num": 187578,
       "word": "许昕女儿人生第一节乒乓球课",
@@ -587,12 +635,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183514,
-      "num": 183514,
-      "word": "冰激凌咖啡",
-      "onboard_time": 1746332060,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 180857,
+      "num": 180857,
+      "word": "九尾被萝卜蹲害惨了",
+      "onboard_time": 1746333561,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 178511,
@@ -625,14 +673,6 @@
       "onboard_time": 1746284124,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175473,
-      "num": 175473,
-      "word": "中国体育正当年",
-      "onboard_time": 1746331940,
-      "rank": 25,
-      "category": "正能量,体育"
     },
     {
       "raw_hot": 173805,
@@ -675,6 +715,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163495,
+      "num": 163495,
+      "word": "黄山3天捡了18个孩子",
+      "onboard_time": 1746333621,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162354,
+      "num": 162354,
+      "word": "医生批评医院公众号文章太烂遭辱骂",
+      "onboard_time": 1746333082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157081,
       "num": 157081,
       "word": "日媒称美再拒绝给日本特殊关税待遇",
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 156068,
-      "num": 492185,
+      "num": 852596,
       "word": "五一假期返程天气",
       "onboard_time": 1746323420,
       "rank": 30,
@@ -705,14 +761,6 @@
       "onboard_time": 1746329841,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151410,
-      "num": 151410,
-      "word": "哪吒2破158亿了",
-      "onboard_time": 1746332601,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 150322,
@@ -747,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146380,
-      "num": 146380,
-      "word": "哈妮克孜连说三句没有哭",
-      "onboard_time": 1746332300,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145877,
       "num": 145877,
       "word": "陈奕迅终于在妈生地唱了富士山下",
@@ -787,6 +827,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140471,
+      "num": 140471,
+      "word": "有些水果都赶不上黄瓜好吃",
+      "onboard_time": 1746331820,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140160,
+      "num": 140160,
+      "word": "邓超备战明年斯诺克",
+      "onboard_time": 1746333741,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 140019,
       "num": 154033,
       "word": "吴宣仪和大学生合唱无悔当下",
@@ -817,14 +873,6 @@
       "onboard_time": 1746270501,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138024,
-      "num": 138024,
-      "word": "有些水果都赶不上黄瓜好吃",
-      "onboard_time": 1746331820,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 136114,
@@ -923,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116830,
+      "num": 116830,
+      "word": "孙颖莎胸针",
+      "onboard_time": 1746333682,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "网红柴怼怼被禁止发布作品",
@@ -1003,12 +1059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105909,
+      "num": 105909,
+      "word": "宇多田光 夫妇别姓",
+      "onboard_time": 1746333741,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105369,
       "num": 105369,
       "word": "张博恒用焕然一新形容自己",
       "onboard_time": 1746320661,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105127,
+      "num": 181234,
+      "word": "陶喆耳返掉了被吓成表情包",
+      "onboard_time": 1746331700,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 103377,
@@ -1259,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57639,
+      "num": 389783,
+      "word": "男子评论公众号写得烂被运营者辱骂",
+      "onboard_time": 1746332542,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56923,
       "num": 56923,
       "word": "米哈游新游首曝",
@@ -1307,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39247,
+      "num": 308096,
+      "word": "35岁后的职场如何破局",
+      "onboard_time": 1746333380,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39011,
       "num": 39011,
       "word": "连云港连岛回应大量飞虫是无害食蚜蝇",
@@ -1316,7 +1404,7 @@
     },
     {
       "raw_hot": 38533,
-      "num": 246521,
+      "num": 378192,
       "word": "16岁青年女孩登顶珠峰后的经历",
       "onboard_time": 1746331280,
       "rank": 14,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1746311715,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32056,
+      "num": 308178,
+      "word": "中国最年轻珠峰女孩回顾登顶",
+      "onboard_time": 1746332542,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32006,
@@ -1459,28 +1555,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 15400,
-      "num": 211280,
-      "word": "男子评论公众号写得烂被运营者辱骂",
-      "onboard_time": 1746332542,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14933,
       "num": 215979,
       "word": "崩坏IP新作有哪些亮点值得期待",
       "onboard_time": 1746329900,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14399,
-      "num": 207579,
-      "word": "中国最年轻珠峰女孩回顾登顶",
-      "onboard_time": 1746332542,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11754,
@@ -1524,6 +1604,9 @@
     },
     {
       "word": "#习近平寄语青年朋友#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
