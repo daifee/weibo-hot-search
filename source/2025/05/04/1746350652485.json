@@ -1,0 +1,410 @@
+{
+  "runTime": 1746350652485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1556615,
+        "num": 1556615,
+        "word": "卢靖姗韩庚官宣二胎",
+        "onboard_time": 1746344899,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443940,
+        "num": 443940,
+        "word": "黄山3天捡了18个孩子",
+        "onboard_time": 1746333621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30426,
+        "num": 376833,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850087,
+        "num": 351167,
+        "word": "悟空 赵朔",
+        "onboard_time": 1746338060,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 321991,
+        "num": 321991,
+        "word": "iPhone18或推迟上市",
+        "onboard_time": 1746347062,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251253,
+        "num": 251253,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651302,
+        "num": 250709,
+        "word": "我还没嫌他们穷他们嫌我东西脏",
+        "onboard_time": 1746348743,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549912,
+        "num": 249824,
+        "word": "柯淳报了两万一天片酬没人找了",
+        "onboard_time": 1746339380,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248038,
+        "num": 248038,
+        "word": "广州冰雹",
+        "onboard_time": 1746348682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179891,
+        "num": 247991,
+        "word": "青年的人生不需要标准答案",
+        "onboard_time": 1746348503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217847,
+        "num": 247932,
+        "word": "五一假期余额还剩两天",
+        "onboard_time": 1746346522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418571,
+        "num": 247800,
+        "word": "跟曹骏认识10年的编剧找他演戏被拒",
+        "onboard_time": 1746334462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403820,
+        "num": 247721,
+        "word": "九派新闻 赵朔",
+        "onboard_time": 1746345802,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 44252,
+        "num": 247525,
+        "word": "部分景区因风沙紧急临时闭园或限流",
+        "onboard_time": 1746349462,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28281,
+        "num": 247437,
+        "word": "青年人陈梦我命由我不由天",
+        "onboard_time": 1746349283,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387612,
+        "num": 247402,
+        "word": "全季 导盲犬",
+        "onboard_time": 1746348441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375282,
+        "num": 247242,
+        "word": "美国男子注射蛇毒18年血液产生抗体",
+        "onboard_time": 1746350121,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 349274,
+        "num": 247120,
+        "word": "柯淳回应退出无限超越班",
+        "onboard_time": 1746340761,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338160,
+        "num": 247054,
+        "word": "迪丽热巴跳九万字",
+        "onboard_time": 1746345985,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33644,
+        "num": 246926,
+        "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
+        "onboard_time": 1746349521,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 325214,
+        "num": 246846,
+        "word": "27岁女教师从326斤减至170斤",
+        "onboard_time": 1746345562,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298320,
+        "num": 246734,
+        "word": "刘亦菲徐海乔又同框了",
+        "onboard_time": 1746348922,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246666,
+        "num": 246666,
+        "word": "苏迪曼杯决赛",
+        "onboard_time": 1746340581,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104422,
+        "num": 244472,
+        "word": "网红可心被指家暴",
+        "onboard_time": 1746349641,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243167,
+        "num": 243167,
+        "word": "文旅局长为游客去年专门考了导游证",
+        "onboard_time": 1746341900,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203207,
+        "num": 203207,
+        "word": "种地吧",
+        "onboard_time": 1746349401,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198787,
+        "num": 198787,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1746345081,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179970,
+        "num": 179970,
+        "word": "K总说家里不是小孩写作业的地方",
+        "onboard_time": 1746343219,
+        "rank": 27,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 173436,
+        "num": 173436,
+        "word": "安洗莹统治力",
+        "onboard_time": 1746348621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166891,
+        "num": 166891,
+        "word": "我在冰岛的最后一包螺蛳粉",
+        "onboard_time": 1746348503,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162142,
+        "num": 162142,
+        "word": "还珠格格柳红聊爆火后的人生",
+        "onboard_time": 1746346941,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "翟潇闻摸了一下下巴受伤了",
+        "onboard_time": 1746350362,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152909,
+        "num": 152909,
+        "word": "张凌赫给迪丽热巴把脉",
+        "onboard_time": 1746341541,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "苏杯中国vs韩国",
+        "onboard_time": 1746340521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124671,
+        "num": 152456,
+        "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+        "onboard_time": 1746343282,
+        "rank": 34,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 152246,
+        "num": 152246,
+        "word": "麻省理工女硕士香港月租5万的家",
+        "onboard_time": 1746344960,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146254,
+        "num": 146254,
+        "word": "前国乒教练吴敬平又挖到一个小胖",
+        "onboard_time": 1746343881,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141560,
+        "num": 141560,
+        "word": "JYP中国男团首次音乐节",
+        "onboard_time": 1746350182,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125562,
+        "num": 139824,
+        "word": "留学生唱强军战歌欢迎解放军",
+        "onboard_time": 1746347481,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 138764,
+        "num": 138764,
+        "word": "解放军仪仗队走莫斯科红场好燃",
+        "onboard_time": 1746348743,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135436,
+        "num": 135436,
+        "word": "洪尧说吴谨言来演综秒杀所有",
+        "onboard_time": 1746350421,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134286,
+        "num": 134286,
+        "word": "夫妻吵架丈夫被扔高速上手机也没带",
+        "onboard_time": 1746342260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127670,
+        "num": 127670,
+        "word": "杨天真一年瘦了25斤",
+        "onboard_time": 1746347661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125368,
+        "num": 125368,
+        "word": "羊了个羊WAW万元奖励首通玩家",
+        "onboard_time": 1746348743,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123967,
+        "num": 123967,
+        "word": "荣昌区委书记让市民把特产给客人吃",
+        "onboard_time": 1746349221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123706,
+        "num": 123706,
+        "word": "iPhone18Pro或采用屏下FaceID",
+        "onboard_time": 1746350302,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123573,
+        "num": 123573,
+        "word": "王祉怡0比2安洗莹",
+        "onboard_time": 1746349822,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114256,
+        "num": 114256,
+        "word": "王一博周深邓为等亮相央视五四晚会",
+        "onboard_time": 1746346522,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 106831,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

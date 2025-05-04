@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746348169124,
+  "endTime": 1746350652485,
   "band_list": [
     {
       "raw_hot": 3885539,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1746327680,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 651302,
+      "num": 250709,
+      "word": "我还没嫌他们穷他们嫌我东西脏",
+      "onboard_time": 1746348743,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 650192,
@@ -2307,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387612,
+      "num": 247402,
+      "word": "全季 导盲犬",
+      "onboard_time": 1746348441,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386043,
       "num": 386043,
       "word": "Prada认领登陆少年",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1746103761,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375282,
+      "num": 247242,
+      "word": "美国男子注射蛇毒18年血液产生抗体",
+      "onboard_time": 1746350121,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 374306,
@@ -2763,6 +2787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321991,
+      "num": 321991,
+      "word": "iPhone18或推迟上市",
+      "onboard_time": 1746347062,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -2993,6 +3025,14 @@
       "onboard_time": 1746322762,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298320,
+      "num": 246734,
+      "word": "刘亦菲徐海乔又同框了",
+      "onboard_time": 1746348922,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 298193,
@@ -3539,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248038,
+      "num": 248038,
+      "word": "广州冰雹",
+      "onboard_time": 1746348682,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247977,
       "num": 247977,
       "word": "蔡徐坤ins更新",
@@ -3553,6 +3601,14 @@
       "onboard_time": 1746261560,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246666,
+      "num": 246666,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 246317,
@@ -3617,14 +3673,6 @@
       "onboard_time": 1746097401,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 242072,
-      "num": 242072,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1746340581,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 242015,
@@ -4315,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203207,
+      "num": 203207,
+      "word": "种地吧",
+      "onboard_time": 1746084260,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203134,
       "num": 203134,
       "word": "赵继伟哭了",
@@ -4489,6 +4545,14 @@
       "onboard_time": 1746196533,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198787,
+      "num": 198787,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1746345081,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 198419,
@@ -4841,14 +4905,6 @@
       "onboard_time": 1746184591,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192953,
-      "num": 192953,
-      "word": "iPhone18或推迟上市",
-      "onboard_time": 1746347062,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 192779,
@@ -5515,6 +5571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 179891,
+      "num": 247991,
+      "word": "青年的人生不需要标准答案",
+      "onboard_time": 1746348503,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179648,
       "num": 212189,
       "word": "石破茂称绝不接受对汽车加征关税",
@@ -5755,6 +5819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173436,
+      "num": 173436,
+      "word": "安洗莹统治力",
+      "onboard_time": 1746348621,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173259,
       "num": 173259,
       "word": "00后重新定义了这些中国宝贝",
@@ -5961,6 +6033,14 @@
       "onboard_time": 1746084561,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166891,
+      "num": 166891,
+      "word": "我在冰岛的最后一包螺蛳粉",
+      "onboard_time": 1746348503,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 166855,
@@ -6593,6 +6673,14 @@
       "onboard_time": 1746113244,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156392,
+      "num": 156392,
+      "word": "翟潇闻摸了一下下巴受伤了",
+      "onboard_time": 1746350362,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156289,
@@ -7419,14 +7507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141963,
-      "num": 141963,
-      "word": "妻子的浪漫旅行",
-      "onboard_time": 1746345081,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141687,
       "num": 141687,
       "word": "冯彦哲复刻日本队庆祝动作回击",
@@ -7441,6 +7521,14 @@
       "onboard_time": 1746184950,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141560,
+      "num": 141560,
+      "word": "JYP中国男团首次音乐节",
+      "onboard_time": 1746350182,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 141329,
@@ -7633,6 +7721,14 @@
       "onboard_time": 1746184291,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138764,
+      "num": 138764,
+      "word": "解放军仪仗队走莫斯科红场好燃",
+      "onboard_time": 1746348743,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138520,
@@ -7897,6 +7993,14 @@
       "onboard_time": 1746107423,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135436,
+      "num": 135436,
+      "word": "洪尧说吴谨言来演综秒杀所有",
+      "onboard_time": 1746350421,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135126,
@@ -8459,6 +8563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127670,
+      "num": 127670,
+      "word": "杨天真一年瘦了25斤",
+      "onboard_time": 1746347661,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127635,
       "num": 127635,
       "word": "武契奇因病中断访美",
@@ -8683,6 +8795,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 125562,
+      "num": 139824,
+      "word": "留学生唱强军战歌欢迎解放军",
+      "onboard_time": 1746347481,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 125511,
       "num": 120535,
       "word": "王子奇五分钟斯诺克无剪辑版",
@@ -8697,6 +8817,14 @@
       "onboard_time": 1746269781,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125368,
+      "num": 125368,
+      "word": "羊了个羊WAW万元奖励首通玩家",
+      "onboard_time": 1746348743,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 125304,
@@ -8787,6 +8915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123967,
+      "num": 123967,
+      "word": "荣昌区委书记让市民把特产给客人吃",
+      "onboard_time": 1746349221,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "陈德容 歌词玄学",
@@ -8803,6 +8939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123706,
+      "num": 123706,
+      "word": "iPhone18Pro或采用屏下FaceID",
+      "onboard_time": 1746350302,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123701,
       "num": 123701,
       "word": "欧尼熊",
@@ -8817,6 +8961,14 @@
       "onboard_time": 1746088462,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123573,
+      "num": 123573,
+      "word": "王祉怡0比2安洗莹",
+      "onboard_time": 1746349822,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123563,
@@ -8857,14 +9009,6 @@
       "onboard_time": 1746233540,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123121,
-      "num": 123121,
-      "word": "留学生唱强军战歌欢迎解放军",
-      "onboard_time": 1746347481,
-      "rank": 35,
-      "category": "正能量"
     },
     {
       "raw_hot": 122833,
@@ -9587,14 +9731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110930,
-      "num": 110930,
-      "word": "种地吧",
-      "onboard_time": 1746084260,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110772,
       "num": 110772,
       "word": "毕夏张恒远",
@@ -10035,14 +10171,6 @@
       "category": "科学科普,民生新闻"
     },
     {
-      "raw_hot": 105273,
-      "num": 105273,
-      "word": "杨天真一年瘦了25斤",
-      "onboard_time": 1746347661,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105202,
       "num": 152554,
       "word": "日本男子故意驾车冲撞7名小学生",
@@ -10081,6 +10209,14 @@
       "onboard_time": 1746166829,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104422,
+      "num": 244472,
+      "word": "网红可心被指家暴",
+      "onboard_time": 1746349641,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 104217,
@@ -12323,6 +12459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44252,
+      "num": 247525,
+      "word": "部分景区因风沙紧急临时闭园或限流",
+      "onboard_time": 1746349462,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44215,
       "num": 117622,
       "word": "美乌矿产协议内容",
@@ -12771,6 +12915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33644,
+      "num": 246926,
+      "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
+      "onboard_time": 1746349521,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33253,
       "num": 343711,
       "word": "重庆一副镇长卖花走红",
@@ -12943,6 +13095,14 @@
       "num": 308923,
       "word": "张博恒青年知世心怀热爱",
       "onboard_time": 1746338480,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28281,
+      "num": 247437,
+      "word": "青年人陈梦我命由我不由天",
+      "onboard_time": 1746349283,
       "rank": 14,
       "category": "体育"
     },
