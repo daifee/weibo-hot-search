@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746366084126,
+  "endTime": 1746368502892,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -33,6 +33,14 @@
       "onboard_time": 1746241760,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2539389,
+      "num": 2539389,
+      "word": "严浩翔受伤",
+      "onboard_time": 1746366446,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 2470835,
@@ -129,6 +137,14 @@
       "onboard_time": 1746328701,
       "rank": 0,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 1843987,
+      "num": 349891,
+      "word": "Angelababy小海绵自拍",
+      "onboard_time": 1746365905,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1786906,
@@ -579,14 +595,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1057680,
-      "num": 328559,
-      "word": "Angelababy小海绵自拍",
-      "onboard_time": 1746365905,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1055400,
       "num": 281633,
       "word": "马嘉祺破音",
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 797490,
-      "num": 321009,
+      "num": 337609,
       "word": "白百何首晒二胎儿子",
       "onboard_time": 1746358162,
       "rank": 20,
@@ -1371,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628354,
+      "num": 343109,
+      "word": "李兰迪泳装",
+      "onboard_time": 1746366685,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623715,
       "num": 623715,
       "word": "夫妻吵架丈夫被扔高速上手机也没带",
@@ -1627,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561227,
+      "num": 390180,
+      "word": "马嘉祺宋亚轩 阿楚姑娘",
+      "onboard_time": 1746252021,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 559258,
       "num": 480572,
       "word": "汪峰曾发文承诺帮毕夏抚养孩子",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1746331040,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525963,
+      "num": 525963,
+      "word": "全红婵说发育期不够自律",
+      "onboard_time": 1746362544,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 523146,
@@ -1993,6 +2025,14 @@
       "onboard_time": 1746164429,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476717,
+      "num": 383081,
+      "word": "那女孩对我说",
+      "onboard_time": 1746366025,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 476337,
@@ -2289,14 +2329,6 @@
       "onboard_time": 1746174140,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426562,
-      "num": 280197,
-      "word": "全红婵说发育期不够自律",
-      "onboard_time": 1746362544,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 424561,
@@ -2939,14 +2971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336173,
-      "num": 336173,
-      "word": "那女孩对我说",
-      "onboard_time": 1746366025,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 334553,
       "num": 334553,
       "word": "文旅局长为游客去年专门考了导游证",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1746282205,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314799,
+      "num": 314799,
+      "word": "翔霖 俞纪",
+      "onboard_time": 1746366086,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 313301,
@@ -3571,6 +3603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 272646,
+      "num": 272646,
+      "word": "女儿去世后妈妈遇见了帮过她的叔叔",
+      "onboard_time": 1746365066,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272089,
       "num": 272089,
       "word": "赵丽颖短发杀青照",
@@ -3963,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247009,
+      "num": 247009,
+      "word": "pgs全球系列赛",
+      "onboard_time": 1746368305,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246317,
       "num": 188806,
       "word": "沈马cp粉",
@@ -4323,6 +4371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 220241,
+      "num": 220241,
+      "word": "被结婚的手捧花价格吓到了",
+      "onboard_time": 1746368305,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219632,
       "num": 394267,
       "word": "加沙一袋面粉卖4000元",
@@ -4547,6 +4603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208158,
+      "num": 208158,
+      "word": "张真源solo舞台露腰",
+      "onboard_time": 1746367584,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207909,
       "num": 253358,
       "word": "李斯丹妮一出场姐姐们哇声一片",
@@ -4633,6 +4697,14 @@
       "onboard_time": 1746314417,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206372,
+      "num": 233224,
+      "word": "严浩翔贺峻霖对唱",
+      "onboard_time": 1746367285,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 206223,
@@ -5177,6 +5249,14 @@
       "onboard_time": 1746182430,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195681,
+      "num": 195681,
+      "word": "沈月秉竹业游爱情保安",
+      "onboard_time": 1746367767,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195680,
@@ -6131,6 +6211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179343,
+      "num": 179343,
+      "word": "17夺冠",
+      "onboard_time": 1746368425,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179156,
       "num": 179156,
       "word": "吴艳妮创100米栏个人赛季最佳",
@@ -6235,6 +6323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176422,
+      "num": 176422,
+      "word": "WB对战DRG",
+      "onboard_time": 1746360083,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176378,
       "num": 176378,
       "word": "ZETA对战成都GG",
@@ -6321,14 +6417,6 @@
       "onboard_time": 1746285626,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174616,
-      "num": 167652,
-      "word": "马嘉祺宋亚轩 阿楚姑娘",
-      "onboard_time": 1746252021,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 174424,
@@ -6475,12 +6563,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171197,
+      "num": 171197,
+      "word": "贵州游船侧翻约70人落水目击者发声",
+      "onboard_time": 1746364825,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170849,
       "num": 170849,
       "word": "华晨宇户外演唱会开空调",
       "onboard_time": 1746165390,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170795,
+      "num": 170795,
+      "word": "ivl",
+      "onboard_time": 1746367165,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 170773,
@@ -6859,6 +6963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163666,
+      "num": 163666,
+      "word": "WB在干嘛",
+      "onboard_time": 1746366263,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163619,
       "num": 163619,
       "word": "时代少年团被鸟窝拉走了",
@@ -7017,6 +7129,14 @@
       "onboard_time": 1746031578,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161043,
+      "num": 161043,
+      "word": "AL战胜TES",
+      "onboard_time": 1746368244,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 160882,
@@ -7233,6 +7353,14 @@
       "onboard_time": 1746102861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157473,
+      "num": 157473,
+      "word": "周深敦煌",
+      "onboard_time": 1746368484,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 157278,
@@ -7545,6 +7673,14 @@
       "onboard_time": 1746277342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152373,
+      "num": 152373,
+      "word": "星船新男团idid",
+      "onboard_time": 1746367767,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 152223,
@@ -8987,6 +9123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131826,
+      "num": 149496,
+      "word": "斯诺克世锦赛",
+      "onboard_time": 1746368064,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131798,
       "num": 131798,
       "word": "小甜甜向前夫求复合",
@@ -9273,14 +9417,6 @@
       "onboard_time": 1746285022,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128333,
-      "num": 128333,
-      "word": "女儿去世后妈妈遇见了帮过她的叔叔",
-      "onboard_time": 1746365066,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128193,
@@ -10243,14 +10379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116488,
-      "num": 116488,
-      "word": "WB对战DRG",
-      "onboard_time": 1746360083,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116483,
       "num": 116483,
       "word": "刘宇宁一个人就是一个团队",
@@ -10393,6 +10521,14 @@
       "onboard_time": 1746058581,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113855,
+      "num": 149238,
+      "word": "梁王苏杯吉祥物",
+      "onboard_time": 1746368005,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113820,
@@ -10713,6 +10849,14 @@
       "onboard_time": 1746166650,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109377,
+      "num": 250232,
+      "word": "第五瓜格",
+      "onboard_time": 1746367826,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 109187,
@@ -12547,6 +12691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69464,
+      "num": 1466429,
+      "word": "这是一路向前的中国青年",
+      "onboard_time": 1746366446,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69210,
       "num": 179190,
       "word": "幽灵公主是阿凡达塞尔达的前辈",
@@ -12859,6 +13011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59119,
+      "num": 331847,
+      "word": "村民自发参与贵州翻船事故救援",
+      "onboard_time": 1746368005,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 59098,
       "num": 59098,
       "word": "华为PuraX",
@@ -12952,6 +13112,14 @@
       "word": "景区回应推出蹦极窝囊版",
       "onboard_time": 1746093741,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55720,
+      "num": 353676,
+      "word": "五一假期最后一天立夏",
+      "onboard_time": 1746366806,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13080,6 +13248,14 @@
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51519,
+      "num": 232086,
+      "word": "贵州游船侧翻248名消防员在搜救",
+      "onboard_time": 1746367584,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -13409,6 +13585,14 @@
       "onboard_time": 1746243680,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 43548,
+      "num": 273883,
+      "word": "贵州省4日曾发布强对流黄色预警",
+      "onboard_time": 1746367346,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43384,
@@ -14017,6 +14201,14 @@
       "onboard_time": 1746298816,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28791,
+      "num": 273751,
+      "word": "贵州多地遭遇冰雹大风",
+      "onboard_time": 1746368064,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28462,
@@ -15252,6 +15444,9 @@
     },
     {
       "word": "#做青年朋友的知心人#"
+    },
+    {
+      "word": "#总书记对新时代青年寄予殷切期望#"
     }
   ]
 }
