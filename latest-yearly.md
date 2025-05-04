@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/04 20:44:53
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/04 21:00:51
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%BB%94%E8%A5%BF%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E7%BA%A670%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
+贵州黔西游船侧翻事故约70人落水（热度：9848745）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%B8%8D%E6%AF%94%E4%BA%86%23" target="weibo">
 柯洁不比了（热度：9461281）
 </a>
@@ -593,12 +599,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E5%AE%89%E5%85%A8%E6%89%A3%E6%B2%A1%E6%89%A3%E5%A5%BD%23" target="weibo">
 王一博 安全扣没扣好（热度：8395718）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E9%BB%94%E8%A5%BF%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E7%BA%A670%E4%BA%BA%E8%90%BD%E6%B0%B4%23" target="weibo">
-贵州黔西游船侧翻事故约70人落水（热度：8318221）
 </a>
 </li>
 
