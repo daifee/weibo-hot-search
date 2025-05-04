@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746373112223,
+  "endTime": 1746376133159,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1054307,
+      "num": 1054307,
+      "word": "成都大风",
+      "onboard_time": 1746372804,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1044905,
       "num": 504493,
       "word": "肖飞称对董医生的指控多是不实消息",
@@ -633,14 +641,6 @@
       "onboard_time": 1746156510,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1038977,
-      "num": 1038977,
-      "word": "成都大风",
-      "onboard_time": 1746372804,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1038121,
@@ -1251,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 679418,
+      "num": 679418,
+      "word": "张云龙沈月又吵起来了",
+      "onboard_time": 1746372923,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672757,
       "num": 672757,
       "word": "陕西漂流翻船当事人说2个座挤5个人",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1746342260,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621587,
+      "num": 271696,
+      "word": "文严文",
+      "onboard_time": 1746372923,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 621447,
@@ -2091,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470252,
+      "num": 470252,
+      "word": "赵朔称悟空定位器20分钟断网",
+      "onboard_time": 1746369086,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470234,
       "num": 470234,
       "word": "不用为无忧渡大结局意难平了",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1746143179,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 458448,
-      "num": 458448,
-      "word": "赵朔称悟空定位器20分钟断网",
-      "onboard_time": 1746369086,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457055,
@@ -3371,6 +3387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 303533,
+      "num": 303533,
+      "word": "赵心童7比1领先威廉姆斯",
+      "onboard_time": 1746374122,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303476,
       "num": 107312,
       "word": "孩子再卷也比不上作弊的",
@@ -3667,6 +3691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274139,
+      "num": 274139,
+      "word": "李晨第三次看时代少年团演唱会",
+      "onboard_time": 1746375261,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272646,
       "num": 272646,
       "word": "女儿去世后妈妈遇见了帮过她的叔叔",
@@ -3793,6 +3825,14 @@
       "onboard_time": 1746160830,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264727,
+      "num": 264727,
+      "word": "鹿哈老婆晒婚纱照",
+      "onboard_time": 1746375081,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 264654,
@@ -4209,6 +4249,14 @@
       "onboard_time": 1746276983,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234627,
+      "num": 234627,
+      "word": "翟潇闻是不是以为大家听不见",
+      "onboard_time": 1746373942,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 233497,
@@ -4851,6 +4899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205647,
+      "num": 205647,
+      "word": "运动瘦和饿瘦哪个瘦得快",
+      "onboard_time": 1746374122,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "知道五一人多但没想到人这么多",
@@ -5305,6 +5361,14 @@
       "onboard_time": 1746089120,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197313,
+      "num": 197313,
+      "word": "严浩翔回应演唱会受伤",
+      "onboard_time": 1746375382,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197306,
@@ -6363,6 +6427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180168,
+      "num": 180168,
+      "word": "严浩翔这个视角看好直观",
+      "onboard_time": 1746374842,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179912,
       "num": 407902,
       "word": "美军盲信网红情报轰炸致8平民死亡",
@@ -6465,14 +6537,6 @@
       "onboard_time": 1746085881,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178209,
-      "num": 178209,
-      "word": "文严文",
-      "onboard_time": 1746372923,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 177610,
@@ -6649,6 +6713,14 @@
       "onboard_time": 1746006141,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 174209,
+      "num": 174209,
+      "word": "佣兵宁芙第一出道",
+      "onboard_time": 1746375501,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 174010,
@@ -7273,14 +7345,6 @@
       "onboard_time": 1746333082,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162709,
-      "num": 162709,
-      "word": "张云龙沈月又吵起来了",
-      "onboard_time": 1746372923,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 162669,
@@ -7979,6 +8043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151406,
+      "num": 151406,
+      "word": "陶喆让男歌迷叫自己老公",
+      "onboard_time": 1746375681,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151404,
       "num": 229259,
       "word": "公务员食堂为何成旅游顶流",
@@ -8177,6 +8249,14 @@
       "onboard_time": 1746107782,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148260,
+      "num": 148260,
+      "word": "刘耀文alpha味儿",
+      "onboard_time": 1746375741,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 148143,
@@ -10363,6 +10443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120673,
+      "num": 120673,
+      "word": "陈芋汐获年度最佳女子运动员",
+      "onboard_time": 1746373283,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120586,
       "num": 120586,
       "word": "叶童 香港电视台工作强度很恐怖",
@@ -11203,6 +11291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108947,
+      "num": 111843,
+      "word": "机器人在央视五四晚会敲上编钟了",
+      "onboard_time": 1746374602,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108921,
       "num": 108921,
       "word": "林一换头像了",
@@ -11819,6 +11915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100024,
+      "num": 100024,
+      "word": "沟通的本质是以心换心",
+      "onboard_time": 1746375143,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99596,
       "num": 99596,
       "word": "宋妍霏真的好适合当队长",
@@ -11875,6 +11979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98967,
+      "num": 98967,
+      "word": "AL采访",
+      "onboard_time": 1746372984,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98898,
       "num": 98898,
       "word": "翟潇闻新剧微表情演技好灵",
@@ -11897,6 +12009,14 @@
       "onboard_time": 1746027801,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98444,
+      "num": 98444,
+      "word": "新蜂音乐节打错单依纯名字",
+      "onboard_time": 1746375922,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 98398,
@@ -13011,6 +13131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70807,
+      "num": 198988,
+      "word": "小蝶状态",
+      "onboard_time": 1746374063,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70393,
       "num": 172889,
       "word": "多方回应游客未让座遭两女一男殴打",
@@ -13905,6 +14033,14 @@
       "onboard_time": 1746264080,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44298,
+      "num": 200729,
+      "word": "普京称俄乌和解不可避免",
+      "onboard_time": 1746368966,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44215,
