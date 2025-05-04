@@ -1,0 +1,410 @@
+{
+  "runTime": 1746332982842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1002478,
+        "num": 1160396,
+        "word": "李玉把处女作称为开山作",
+        "onboard_time": 1746330800,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 955221,
+        "num": 955221,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 1,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 47193,
+        "num": 832689,
+        "word": "无悔青春离不开这个必选项",
+        "onboard_time": 1746331400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 799051,
+        "num": 799051,
+        "word": "做了将近7个小时的饭",
+        "onboard_time": 1746326479,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 756283,
+        "num": 756283,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740791,
+        "num": 740791,
+        "word": "全红婵哥哥回应老家建120平别墅",
+        "onboard_time": 1746330981,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679600,
+        "num": 679600,
+        "word": "王大陆回应涉嫌教唆杀人未遂",
+        "onboard_time": 1746330562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551231,
+        "num": 551231,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 514332,
+        "num": 514332,
+        "word": "气象部门回应西安雷雨夜不明飞行物",
+        "onboard_time": 1746329060,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71919,
+        "num": 492185,
+        "word": "五一假期返程天气",
+        "onboard_time": 1746323420,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487690,
+        "num": 487690,
+        "word": "丁禹兮ins点赞",
+        "onboard_time": 1746328341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380890,
+        "num": 380890,
+        "word": "刘诗诗演员类型稀缺性",
+        "onboard_time": 1746331040,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359357,
+        "num": 359357,
+        "word": "和三观不正的人聊天像在录口供",
+        "onboard_time": 1746326840,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354126,
+        "num": 354126,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38533,
+        "num": 246521,
+        "word": "16岁青年女孩登顶珠峰后的经历",
+        "onboard_time": 1746331280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241067,
+        "num": 241067,
+        "word": "朱一龙说给成长一点耐心",
+        "onboard_time": 1746325221,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234762,
+        "num": 234762,
+        "word": "曝徐敏在怀孕后新男友跑路",
+        "onboard_time": 1746327680,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218168,
+        "num": 218168,
+        "word": "蔡徐坤ins更新",
+        "onboard_time": 1746332060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15400,
+        "num": 211280,
+        "word": "男子评论公众号写得烂被运营者辱骂",
+        "onboard_time": 1746332542,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30026,
+        "num": 208716,
+        "word": "遇到头孢过敏如何应对",
+        "onboard_time": 1746332180,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14399,
+        "num": 207579,
+        "word": "中国最年轻珠峰女孩回顾登顶",
+        "onboard_time": 1746332542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207082,
+        "num": 207082,
+        "word": "ELLEMEN封面",
+        "onboard_time": 1746328640,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189084,
+        "num": 189084,
+        "word": "确山打铁花千年来第一位女传承人",
+        "onboard_time": 1746328761,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 185615,
+        "num": 185615,
+        "word": "哈里王子担心戴安娜王妃悲剧重演",
+        "onboard_time": 1746322340,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183514,
+        "num": 183514,
+        "word": "冰激凌咖啡",
+        "onboard_time": 1746332060,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175473,
+        "num": 175473,
+        "word": "中国体育正当年",
+        "onboard_time": 1746331940,
+        "rank": 25,
+        "category": "正能量,体育"
+      },
+      {
+        "raw_hot": 166550,
+        "num": 166550,
+        "word": "控糖60天面部的变化",
+        "onboard_time": 1746320000,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154945,
+        "num": 154945,
+        "word": "巴基斯坦呼吁中美俄英法介入",
+        "onboard_time": 1746325761,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "哪吒2破158亿了",
+        "onboard_time": 1746332601,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148550,
+        "num": 148550,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 120440,
+        "num": 147437,
+        "word": "沈月异域服饰",
+        "onboard_time": 1746331820,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227914,
+        "num": 147273,
+        "word": "五一高速免费连收费杆都放假了",
+        "onboard_time": 1746332601,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153493,
+        "num": 146892,
+        "word": "妈妈可能在经历最痛苦的10年",
+        "onboard_time": 1746329841,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146380,
+        "num": 146380,
+        "word": "哈妮克孜连说三句没有哭",
+        "onboard_time": 1746332300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143832,
+        "num": 143832,
+        "word": "柯淳哭戏",
+        "onboard_time": 1746322762,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141068,
+        "num": 141068,
+        "word": "费启鸣哭到不能出戏",
+        "onboard_time": 1746332242,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139584,
+        "num": 139584,
+        "word": "王一博将出现在CCTV多个平台",
+        "onboard_time": 1746328701,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138024,
+        "num": 138024,
+        "word": "有些水果都赶不上黄瓜好吃",
+        "onboard_time": 1746331820,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136663,
+        "num": 136663,
+        "word": "免费入住文旅局长家游客发声",
+        "onboard_time": 1746321381,
+        "rank": 38,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 136243,
+        "num": 136243,
+        "word": "董子健 姐弟恋cp",
+        "onboard_time": 1746319160,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136035,
+        "num": 136035,
+        "word": "全红婵绷脚面能到什么程度",
+        "onboard_time": 1746331522,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123487,
+        "num": 123487,
+        "word": "陈梦说乒乓球是生命不可或缺的部分",
+        "onboard_time": 1746330260,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 122311,
+        "word": "山东大学生泰山陪爬月入5位数",
+        "onboard_time": 1746326661,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86866,
+        "num": 117189,
+        "word": "林宥嘉紧急闭麦阿肆",
+        "onboard_time": 1746332481,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116017,
+        "num": 116017,
+        "word": "乌称无法确保出席俄阅兵式人士安全",
+        "onboard_time": 1746328821,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "盛李豪黄雨婷霸榜世界第一",
+        "onboard_time": 1746326720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112838,
+        "num": 112838,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111784,
+        "num": 111784,
+        "word": "美加州称将继续对中国敞开贸易大门",
+        "onboard_time": 1746321139,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 106806,
+        "word": "我们为何如此热爱青春",
+        "onboard_time": 1746322039,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104466,
+        "num": 104466,
+        "word": "更适合中国人体质的迪士尼",
+        "onboard_time": 1746329421,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄语青年朋友#"
+    }
+  }
+}
