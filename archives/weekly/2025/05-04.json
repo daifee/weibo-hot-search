@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746343353319,
+  "endTime": 1746344156292,
   "band_list": [
     {
       "raw_hot": 1871157,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1227988,
-      "num": 494588,
+      "num": 499501,
       "word": "悟空 赵朔",
       "onboard_time": 1746338060,
       "rank": 6,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 740057,
-      "num": 305161,
+      "num": 351730,
       "word": "柯淳回应退出无限超越班",
       "onboard_time": 1746340761,
       "rank": 21,
@@ -161,6 +161,14 @@
       "onboard_time": 1746327680,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623715,
+      "num": 623715,
+      "word": "夫妻吵架丈夫被扔高速上手机也没带",
+      "onboard_time": 1746342260,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 609529,
@@ -291,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489677,
+      "num": 279530,
+      "word": "张凌赫给迪丽热巴把脉",
+      "onboard_time": 1746341541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479603,
       "num": 294449,
       "word": "悟空小猫",
       "onboard_time": 1746340342,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 476845,
-      "num": 279530,
-      "word": "张凌赫给迪丽热巴把脉",
-      "onboard_time": 1746341541,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 422686,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334553,
+      "num": 334553,
+      "word": "文旅局长为游客去年专门考了导游证",
+      "onboard_time": 1746341900,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331349,
       "num": 331349,
       "word": "沈马",
@@ -457,14 +473,6 @@
       "onboard_time": 1746325221,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309573,
-      "num": 309573,
-      "word": "文旅局长为游客去年专门考了导游证",
-      "onboard_time": 1746341900,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304578,
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253320,
+      "num": 253320,
+      "word": "苏杯中国vs韩国",
+      "onboard_time": 1746340521,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252451,
       "num": 252451,
       "word": "盛李豪黄雨婷霸榜世界第一",
@@ -569,22 +585,6 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 244013,
-      "num": 244013,
-      "word": "夫妻吵架丈夫被扔高速上手机也没带",
-      "onboard_time": 1746342260,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240174,
-      "num": 240618,
-      "word": "苏杯中国vs韩国",
-      "onboard_time": 1746340521,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 228267,
@@ -633,6 +633,14 @@
       "onboard_time": 1746322762,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214829,
+      "num": 195660,
+      "word": "K总说家里不是小孩写作业的地方",
+      "onboard_time": 1746343219,
+      "rank": 44,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 214074,
@@ -715,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205441,
+      "num": 205441,
+      "word": "纪念苏联伟大卫国战争胜利80周年庆典",
+      "onboard_time": 1746343282,
+      "rank": 46,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 205194,
       "num": 208934,
       "word": "张杰的毛坯人生精装朋友圈",
@@ -737,6 +753,22 @@
       "onboard_time": 1746339980,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201764,
+      "num": 201764,
+      "word": "吴彤以为柯淳是关系户",
+      "onboard_time": 1746343340,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201071,
+      "num": 201071,
+      "word": "苏迪曼杯决赛",
+      "onboard_time": 1746340581,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 200666,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189006,
-      "num": 189006,
-      "word": "苏迪曼杯决赛",
-      "onboard_time": 1746340581,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187609,
       "num": 187609,
       "word": "模仿西门礼臣 我是你的狗",
@@ -819,8 +843,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180747,
-      "num": 180747,
+      "raw_hot": 185140,
+      "num": 185140,
+      "word": "前国乒教练吴敬平又挖到一个小胖",
+      "onboard_time": 1746343881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181544,
+      "num": 181544,
       "word": "日本首相对美国撂狠话",
       "onboard_time": 1746341602,
       "rank": 23,
@@ -955,6 +987,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160521,
+      "num": 160521,
+      "word": "金靖勇敢的人先享受张凌赫的腹肌",
+      "onboard_time": 1746342980,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160444,
+      "num": 160444,
+      "word": "17岁战士为兵工厂独守7天7夜后阵亡",
+      "onboard_time": 1746343161,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157081,
       "num": 157081,
       "word": "日媒称美再拒绝给日本特殊关税待遇",
@@ -969,6 +1017,14 @@
       "onboard_time": 1746323420,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 187721,
+      "word": "周峻纬吃播",
+      "onboard_time": 1746343761,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 154016,
@@ -1051,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143289,
-      "num": 143289,
-      "word": "17岁战士为兵工厂独守7天7夜后阵亡",
-      "onboard_time": 1746343161,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141068,
       "num": 141068,
       "word": "费启鸣哭到不能出戏",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1746288383,
       "rank": 29,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 139902,
+      "num": 139902,
+      "word": "沈梦辰撕拉片",
+      "onboard_time": 1746343642,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 139564,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1746330260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130372,
+      "num": 130372,
+      "word": "在网上买狗 卖家带上项圈扑过来了",
+      "onboard_time": 1746343821,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 130109,
@@ -1267,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118103,
-      "num": 118103,
-      "word": "金靖勇敢的人先享受张凌赫的腹肌",
-      "onboard_time": 1746342980,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116960,
       "num": 116960,
       "word": "掘金4比3淘汰快船",
@@ -1299,12 +1355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114488,
+      "num": 114488,
+      "word": "花一百块钱去市场买菜",
+      "onboard_time": 1746343881,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113835,
       "num": 113835,
       "word": "任嘉伦音乐节",
       "onboard_time": 1746276983,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113813,
+      "num": 113813,
+      "word": "咸奶茶",
+      "onboard_time": 1746342561,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 112179,
@@ -1369,14 +1441,6 @@
       "onboard_time": 1746330320,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108506,
-      "num": 108506,
-      "word": "K总说家里不是小孩写作业的地方",
-      "onboard_time": 1746343219,
-      "rank": 44,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 108306,
@@ -1459,14 +1523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 102323,
-      "num": 102323,
-      "word": "纪念苏联伟大卫国战争胜利80周年庆典",
-      "onboard_time": 1746343282,
-      "rank": 46,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 101848,
       "num": 101848,
       "word": "TOP登陆少年真心话",
@@ -1513,6 +1569,14 @@
       "onboard_time": 1746340040,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98276,
+      "num": 219426,
+      "word": "27岁的他用焊花焊成了五四奖章",
+      "onboard_time": 1746342200,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 96746,
@@ -1604,7 +1668,7 @@
     },
     {
       "raw_hot": 89876,
-      "num": 121095,
+      "num": 190522,
       "word": "iG你比划我来猜",
       "onboard_time": 1746343100,
       "rank": 34,
@@ -1787,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56620,
+      "num": 124496,
+      "word": "古代状元放到现在是什么水平",
+      "onboard_time": 1746342681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54080,
       "num": 54080,
       "word": "巴菲特建议找工作不要太在意薪水",
@@ -1809,14 +1881,6 @@
       "onboard_time": 1746329900,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 48964,
-      "num": 219426,
-      "word": "27岁的他用焊花焊成了五四奖章",
-      "onboard_time": 1746342200,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 48837,
@@ -2145,6 +2209,14 @@
       "onboard_time": 1746315378,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7741,
+      "num": 199666,
+      "word": "年轻人如何发展自己的投资哲理",
+      "onboard_time": 1746343881,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 4730,
