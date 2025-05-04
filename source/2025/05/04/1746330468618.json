@@ -1,0 +1,410 @@
+{
+  "runTime": 1746330468618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588192,
+        "num": 1588192,
+        "word": "孙颖莎嘉人大片",
+        "onboard_time": 1746328701,
+        "rank": 0,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 646644,
+        "num": 646644,
+        "word": "做了将近7个小时的饭",
+        "onboard_time": 1746326479,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62022,
+        "num": 608065,
+        "word": "教育强国有我",
+        "onboard_time": 1746323600,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599131,
+        "num": 599131,
+        "word": "男子轻生前点奶茶店主骑手果断报警",
+        "onboard_time": 1746319940,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562089,
+        "num": 562089,
+        "word": "被短剧演法消耗的演员灵气",
+        "onboard_time": 1746328761,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536939,
+        "num": 536939,
+        "word": "霍思燕一家与贾乃亮一家出游",
+        "onboard_time": 1746277583,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407500,
+        "num": 407500,
+        "word": "免费入住文旅局长家游客发声",
+        "onboard_time": 1746321381,
+        "rank": 6,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 355191,
+        "num": 355191,
+        "word": "和三观不正的人聊天像在录口供",
+        "onboard_time": 1746326840,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284535,
+        "num": 333784,
+        "word": "朱一龙说给成长一点耐心",
+        "onboard_time": 1746325221,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321315,
+        "num": 321315,
+        "word": "气象部门回应西安雷雨夜不明飞行物",
+        "onboard_time": 1746329060,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558526,
+        "num": 320157,
+        "word": "曝徐敏在怀孕后新男友跑路",
+        "onboard_time": 1746327680,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537699,
+        "num": 318334,
+        "word": "丁禹兮ins点赞",
+        "onboard_time": 1746328341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278626,
+        "num": 316916,
+        "word": "巴基斯坦呼吁中美俄英法介入",
+        "onboard_time": 1746325761,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316160,
+        "num": 316160,
+        "word": "哈里王子担心戴安娜王妃悲剧重演",
+        "onboard_time": 1746322340,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25993,
+        "num": 267960,
+        "word": "90后青年女孩用13年兑现珠峰誓言",
+        "onboard_time": 1746329779,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243060,
+        "num": 243060,
+        "word": "董子健 姐弟恋cp",
+        "onboard_time": 1746319160,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235029,
+        "num": 235029,
+        "word": "柯淳哭戏",
+        "onboard_time": 1746322762,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227200,
+        "num": 227200,
+        "word": "盛李豪黄雨婷霸榜世界第一",
+        "onboard_time": 1746326720,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216659,
+        "num": 216659,
+        "word": "央视新闻播出周云杰演讲",
+        "onboard_time": 1746323420,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 215979,
+        "word": "崩坏IP新作有哪些亮点值得期待",
+        "onboard_time": 1746329900,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215922,
+        "num": 215922,
+        "word": "确山打铁花千年来第一位女传承人",
+        "onboard_time": 1746328761,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199896,
+        "num": 199896,
+        "word": "业内人士说音乐节演出超时相当正常",
+        "onboard_time": 1746330021,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197656,
+        "num": 197656,
+        "word": "控糖60天面部的变化",
+        "onboard_time": 1746320000,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194690,
+        "num": 194690,
+        "word": "了不起的中国青年",
+        "onboard_time": 1746319881,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 87956,
+        "num": 188745,
+        "word": "威少给自己做技术犯规手势",
+        "onboard_time": 1746328881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187609,
+        "num": 187609,
+        "word": "模仿西门礼臣 我是你的狗",
+        "onboard_time": 1746329302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191701,
+        "num": 187588,
+        "word": "赴山海",
+        "onboard_time": 1746319881,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194105,
+        "num": 187578,
+        "word": "许昕女儿人生第一节乒乓球课",
+        "onboard_time": 1746327260,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187562,
+        "num": 187562,
+        "word": "王一博将出现在CCTV多个平台",
+        "onboard_time": 1746328701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52723,
+        "num": 186978,
+        "word": "神印王座伊莱克斯超绝COS",
+        "onboard_time": 1746329900,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190824,
+        "num": 186931,
+        "word": "邓为我那出差紧张的男友",
+        "onboard_time": 1746329719,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186808,
+        "num": 186808,
+        "word": "山东大学生泰山陪爬月入5位数",
+        "onboard_time": 1746326661,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173259,
+        "num": 180668,
+        "word": "谁家电影卖票方式这么癫啊",
+        "onboard_time": 1746328761,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178694,
+        "num": 178694,
+        "word": "大一女生输头孢过敏离世",
+        "onboard_time": 1746284604,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177610,
+        "num": 177610,
+        "word": "黄磊谈盒猫制作初衷",
+        "onboard_time": 1746328821,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152624,
+        "num": 152624,
+        "word": "妈妈可能在经历最痛苦的10年",
+        "onboard_time": 1746329841,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147835,
+        "num": 147835,
+        "word": "乌称无法确保出席俄阅兵式人士安全",
+        "onboard_time": 1746328821,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146551,
+        "num": 146551,
+        "word": "美加州称将继续对中国敞开贸易大门",
+        "onboard_time": 1746321139,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139031,
+        "num": 139031,
+        "word": "TFBOYS为王源音乐节打call",
+        "onboard_time": 1746317660,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138837,
+        "num": 138837,
+        "word": "我们是新时代中国青年",
+        "onboard_time": 1746326720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136017,
+        "num": 136017,
+        "word": "殿前欢",
+        "onboard_time": 1746322762,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131890,
+        "num": 131890,
+        "word": "陈梦说乒乓球是生命不可或缺的部分",
+        "onboard_time": 1746330260,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129335,
+        "num": 129335,
+        "word": "网红猫爷一周涨粉近70万",
+        "onboard_time": 1746318920,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126336,
+        "num": 126336,
+        "word": "更适合中国人体质的迪士尼",
+        "onboard_time": 1746329421,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117250,
+        "num": 117250,
+        "word": "青春不问何时",
+        "onboard_time": 1746326720,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109498,
+        "num": 109498,
+        "word": "檀健次吃瓜吃到自己身上",
+        "onboard_time": 1746330320,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108839,
+        "num": 108839,
+        "word": "女生手机自动连上酒店WiFi被分手",
+        "onboard_time": 1746272901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108385,
+        "num": 108385,
+        "word": "我们为何如此热爱青春",
+        "onboard_time": 1746322039,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 105675,
+        "num": 105675,
+        "word": "掘金4比3淘汰快船",
+        "onboard_time": 1746326661,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105380,
+        "num": 105380,
+        "word": "ELLEMEN封面",
+        "onboard_time": 1746328640,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的青春寄语#"
+    }
+  }
+}

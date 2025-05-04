@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746329576687,
+  "endTime": 1746330468618,
   "band_list": [
     {
       "raw_hot": 1871157,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646644,
+      "num": 646644,
+      "word": "做了将近7个小时的饭",
+      "onboard_time": 1746326479,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 609529,
       "num": 282178,
       "word": "董子健 姐弟恋cp",
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562089,
+      "num": 562089,
+      "word": "被短剧演法消耗的演员灵气",
+      "onboard_time": 1746328761,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516319,
       "num": 516319,
       "word": "这居然是华晨宇",
@@ -163,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443521,
-      "num": 443521,
-      "word": "做了将近7个小时的饭",
-      "onboard_time": 1746326479,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 417237,
       "num": 198022,
       "word": "马丽感谢老公和沈腾老婆",
@@ -193,6 +201,14 @@
       "onboard_time": 1746272480,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 355191,
+      "num": 355191,
+      "word": "和三观不正的人聊天像在录口供",
+      "onboard_time": 1746326840,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 351163,
@@ -251,6 +267,14 @@
       "category": "综艺,剧集"
     },
     {
+      "raw_hot": 321315,
+      "num": 321315,
+      "word": "气象部门回应西安雷雨夜不明飞行物",
+      "onboard_time": 1746329060,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315182,
       "num": 315182,
       "word": "TES对战IG",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 312620,
-      "num": 312620,
+      "num": 316916,
       "word": "巴基斯坦呼吁中美俄英法介入",
       "onboard_time": 1746325761,
       "rank": 13,
@@ -289,22 +313,6 @@
       "onboard_time": 1746322762,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288373,
-      "num": 288373,
-      "word": "被短剧演法消耗的演员灵气",
-      "onboard_time": 1746328761,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 278092,
-      "num": 278092,
-      "word": "和三观不正的人聊天像在录口供",
-      "onboard_time": 1746326840,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 266066,
@@ -377,6 +385,14 @@
       "onboard_time": 1746326661,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215922,
+      "num": 215922,
+      "word": "确山打铁花千年来第一位女传承人",
+      "onboard_time": 1746328761,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 215458,
@@ -467,12 +483,44 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 199896,
+      "num": 199896,
+      "word": "业内人士说音乐节演出超时相当正常",
+      "onboard_time": 1746330021,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194105,
+      "num": 187578,
+      "word": "许昕女儿人生第一节乒乓球课",
+      "onboard_time": 1746327260,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190824,
+      "num": 186931,
+      "word": "邓为我那出差紧张的男友",
+      "onboard_time": 1746329719,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189519,
       "num": 333967,
       "word": "我们是新时代中国青年",
       "onboard_time": 1746326720,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187609,
+      "num": 187609,
+      "word": "模仿西门礼臣 我是你的狗",
+      "onboard_time": 1746329302,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187352,
@@ -483,20 +531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182843,
-      "num": 182843,
-      "word": "确山打铁花千年来第一位女传承人",
-      "onboard_time": 1746328761,
-      "rank": 28,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 178511,
       "num": 178511,
       "word": "马丽 不要去干涉我们的生活",
       "onboard_time": 1746314056,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177610,
+      "num": 177610,
+      "word": "黄磊谈盒猫制作初衷",
+      "onboard_time": 1746328821,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 176310,
@@ -523,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173259,
+      "num": 250778,
+      "word": "谁家电影卖票方式这么癫啊",
+      "onboard_time": 1746328761,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168188,
       "num": 168188,
       "word": "网红猫爷一周涨粉近70万",
@@ -537,14 +593,6 @@
       "onboard_time": 1746317660,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165157,
-      "num": 165157,
-      "word": "许昕女儿人生第一节乒乓球课",
-      "onboard_time": 1746327260,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 165064,
@@ -579,12 +627,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150731,
-      "num": 150731,
-      "word": "黄磊谈盒猫制作初衷",
-      "onboard_time": 1746328821,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 152624,
+      "num": 152624,
+      "word": "妈妈可能在经历最痛苦的10年",
+      "onboard_time": 1746329841,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 150322,
@@ -627,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144885,
-      "num": 250778,
-      "word": "谁家电影卖票方式这么癫啊",
-      "onboard_time": 1746328761,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144235,
       "num": 154268,
       "word": "莱比锡3比3拜仁",
@@ -657,14 +697,6 @@
       "onboard_time": 1746288383,
       "rank": 29,
       "category": "综艺,演出"
-    },
-    {
-      "raw_hot": 139722,
-      "num": 139722,
-      "word": "模仿西门礼臣 我是你的狗",
-      "onboard_time": 1746329302,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 139564,
@@ -699,20 +731,20 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 135410,
-      "num": 135410,
-      "word": "气象部门回应西安雷雨夜不明飞行物",
-      "onboard_time": 1746329060,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "歌手2025",
       "onboard_time": 1746275783,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131890,
+      "num": 131890,
+      "word": "陈梦说乒乓球是生命不可或缺的部分",
+      "onboard_time": 1746330260,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130109,
@@ -747,20 +779,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126336,
+      "num": 126336,
+      "word": "更适合中国人体质的迪士尼",
+      "onboard_time": 1746329421,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123701,
       "num": 123701,
       "word": "欧尼熊",
       "onboard_time": 1746314357,
       "rank": 42,
       "category": "网红"
-    },
-    {
-      "raw_hot": 119348,
-      "num": 119348,
-      "word": "更适合中国人体质的迪士尼",
-      "onboard_time": 1746329421,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 116960,
@@ -833,6 +865,14 @@
       "onboard_time": 1746282504,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109498,
+      "num": 109498,
+      "word": "檀健次吃瓜吃到自己身上",
+      "onboard_time": 1746330320,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 109330,
@@ -963,6 +1003,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 87956,
+      "num": 188745,
+      "word": "威少给自己做技术犯规手势",
+      "onboard_time": 1746328881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87522,
       "num": 87522,
       "word": "第一次见粉丝把明星整红温了",
@@ -1075,20 +1123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62022,
+      "num": 767963,
+      "word": "教育强国有我",
+      "onboard_time": 1746323600,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61356,
       "num": 61356,
       "word": "十个勤天新歌的青年力量",
       "onboard_time": 1746315019,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 60063,
-      "num": 767963,
-      "word": "教育强国有我",
-      "onboard_time": 1746323600,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56923,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1746314597,
       "rank": 47,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 52723,
+      "num": 186978,
+      "word": "神印王座伊莱克斯超绝COS",
+      "onboard_time": 1746329900,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 39475,
@@ -1195,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25993,
+      "num": 267960,
+      "word": "90后青年女孩用13年兑现珠峰誓言",
+      "onboard_time": 1746329779,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24878,
       "num": 32939,
       "word": "2025LPL第二赛段",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1746299716,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14933,
+      "num": 215979,
+      "word": "崩坏IP新作有哪些亮点值得期待",
+      "onboard_time": 1746329900,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 11754,
