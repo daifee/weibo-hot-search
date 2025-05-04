@@ -1,7 +1,15 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746325686256,
+  "endTime": 1746329576687,
   "band_list": [
+    {
+      "raw_hot": 1871157,
+      "num": 1871157,
+      "word": "孙颖莎嘉人大片",
+      "onboard_time": 1746328701,
+      "rank": 0,
+      "category": "体育,作品衍生"
+    },
     {
       "raw_hot": 1397208,
       "num": 1397208,
@@ -67,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662036,
+      "num": 326423,
+      "word": "曝徐敏在怀孕后新男友跑路",
+      "onboard_time": 1746327680,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609529,
-      "num": 276830,
+      "num": 282178,
       "word": "董子健 姐弟恋cp",
       "onboard_time": 1746319160,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604834,
+      "num": 604834,
+      "word": "免费入住文旅局长家游客发声",
+      "onboard_time": 1746321381,
+      "rank": 22,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 597298,
@@ -97,6 +121,14 @@
       "onboard_time": 1746322340,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 564353,
+      "num": 319827,
+      "word": "丁禹兮ins点赞",
+      "onboard_time": 1746328341,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 516319,
@@ -131,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484372,
-      "num": 484372,
-      "word": "免费入住文旅局长家游客发声",
-      "onboard_time": 1746321381,
-      "rank": 22,
-      "category": "民生新闻,旅游"
+      "raw_hot": 443521,
+      "num": 443521,
+      "word": "做了将近7个小时的饭",
+      "onboard_time": 1746326479,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 417237,
@@ -227,12 +259,52 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312620,
+      "num": 312620,
+      "word": "巴基斯坦呼吁中美俄英法介入",
+      "onboard_time": 1746325761,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 309630,
+      "num": 344009,
+      "word": "朱一龙说给成长一点耐心",
+      "onboard_time": 1746325221,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304578,
       "num": 304578,
       "word": "灵隐寺260万年租金的小卖部",
       "onboard_time": 1746263601,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298610,
+      "num": 312896,
+      "word": "柯淳哭戏",
+      "onboard_time": 1746322762,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288373,
+      "num": 288373,
+      "word": "被短剧演法消耗的演员灵气",
+      "onboard_time": 1746328761,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278092,
+      "num": 278092,
+      "word": "和三观不正的人聊天像在录口供",
+      "onboard_time": 1746326840,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 266066,
@@ -275,12 +347,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 251845,
-      "num": 251845,
-      "word": "朱一龙说给成长一点耐心",
-      "onboard_time": 1746325221,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 252451,
+      "num": 252451,
+      "word": "盛李豪黄雨婷霸榜世界第一",
+      "onboard_time": 1746326720,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 250783,
@@ -289,6 +361,22 @@
       "onboard_time": 1746286162,
       "rank": 17,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 224453,
+      "num": 224453,
+      "word": "王一博将出现在CCTV多个平台",
+      "onboard_time": 1746328701,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219625,
+      "num": 219625,
+      "word": "山东大学生泰山陪爬月入5位数",
+      "onboard_time": 1746326661,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215458,
@@ -379,12 +467,28 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 189519,
+      "num": 333967,
+      "word": "我们是新时代中国青年",
+      "onboard_time": 1746326720,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187352,
       "num": 187352,
       "word": "32岁儿子辞职照顾2岁的妈妈",
       "onboard_time": 1746276501,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182843,
+      "num": 182843,
+      "word": "确山打铁花千年来第一位女传承人",
+      "onboard_time": 1746328761,
+      "rank": 28,
+      "category": "正能量"
     },
     {
       "raw_hot": 178511,
@@ -427,12 +531,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 165445,
+      "raw_hot": 167198,
       "num": 240565,
       "word": "TFBOYS为王源音乐节打call",
       "onboard_time": 1746317660,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165157,
+      "num": 165157,
+      "word": "许昕女儿人生第一节乒乓球课",
+      "onboard_time": 1746327260,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 165064,
@@ -467,12 +579,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150731,
+      "num": 150731,
+      "word": "黄磊谈盒猫制作初衷",
+      "onboard_time": 1746328821,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150322,
       "num": 201801,
       "word": "谢娜问张杰在鸟巢开运动会吗",
       "onboard_time": 1746316099,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "乌称无法确保出席俄阅兵式人士安全",
+      "onboard_time": 1746328821,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147094,
@@ -499,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144885,
+      "num": 250778,
+      "word": "谁家电影卖票方式这么癫啊",
+      "onboard_time": 1746328761,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144235,
       "num": 154268,
       "word": "莱比锡3比3拜仁",
@@ -521,6 +657,14 @@
       "onboard_time": 1746288383,
       "rank": 29,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 139722,
+      "num": 139722,
+      "word": "模仿西门礼臣 我是你的狗",
+      "onboard_time": 1746329302,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 139564,
@@ -555,12 +699,12 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 134356,
-      "num": 159103,
-      "word": "柯淳哭戏",
-      "onboard_time": 1746322762,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 135410,
+      "num": 135410,
+      "word": "气象部门回应西安雷雨夜不明飞行物",
+      "onboard_time": 1746329060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133566,
@@ -569,6 +713,14 @@
       "onboard_time": 1746275783,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130109,
+      "num": 130109,
+      "word": "青春不问何时",
+      "onboard_time": 1746326720,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 127864,
@@ -603,12 +755,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 119348,
+      "num": 119348,
+      "word": "更适合中国人体质的迪士尼",
+      "onboard_time": 1746329421,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 116960,
+      "num": 116960,
+      "word": "掘金4比3淘汰快船",
+      "onboard_time": 1746326661,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "网红柴怼怼被禁止发布作品",
       "onboard_time": 1746285503,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114705,
+      "num": 114705,
+      "word": "苏杯中国vs韩国对阵公布",
+      "onboard_time": 1746329001,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 113835,
@@ -625,6 +801,14 @@
       "onboard_time": 1746323481,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111542,
+      "num": 111542,
+      "word": "五四运动106年",
+      "onboard_time": 1746326661,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 111487,
@@ -649,6 +833,14 @@
       "onboard_time": 1746282504,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109330,
+      "num": 109330,
+      "word": "ELLEMEN封面",
+      "onboard_time": 1746328640,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 107712,
@@ -812,7 +1004,7 @@
     },
     {
       "raw_hot": 84215,
-      "num": 85949,
+      "num": 109233,
       "word": "威廉姆斯晋级世锦赛决赛",
       "onboard_time": 1746325340,
       "rank": 49,
@@ -985,6 +1177,14 @@
       "onboard_time": 1746302894,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27547,
+      "num": 182999,
+      "word": "巴菲特称近期美股波动不值一提",
+      "onboard_time": 1746326000,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 27309,
