@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746377047286,
+  "endTime": 1746379221265,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 658507,
+      "num": 264727,
+      "word": "鹿哈老婆晒婚纱照",
+      "onboard_time": 1746375081,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 652216,
       "num": 390329,
       "word": "卢靖姗说二胎反应更大",
@@ -657,14 +665,6 @@
       "onboard_time": 1746352522,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 431802,
-      "num": 264727,
-      "word": "鹿哈老婆晒婚纱照",
-      "onboard_time": 1746375081,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 428766,
@@ -3715,6 +3715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68151,
+      "num": 140522,
+      "word": "5月5日13时57分迎来立夏",
+      "onboard_time": 1746377301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67245,
       "num": 233312,
       "word": "村干部回应全红婵在老家盖别墅",
@@ -3745,6 +3753,14 @@
       "onboard_time": 1746353182,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 63912,
+      "num": 63912,
+      "word": "葫芦果音乐节",
+      "onboard_time": 1746378979,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 63189,
@@ -3787,11 +3803,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59485,
+      "num": 59485,
+      "word": "儿女走失6年后父亲从高处坠落昏迷",
+      "onboard_time": 1746378321,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
       "onboard_time": 1746332542,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57627,
+      "num": 57627,
+      "word": "五一假期余额仅剩1天",
+      "onboard_time": 1746376880,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -3841,6 +3873,14 @@
       "onboard_time": 1746368064,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52786,
+      "num": 52786,
+      "word": "贺峻霖来电了",
+      "onboard_time": 1746379099,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 52723,
