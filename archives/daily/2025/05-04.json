@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746336257671,
+  "endTime": 1746337285913,
   "band_list": [
     {
       "raw_hot": 1871157,
@@ -11,8 +11,8 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 1545421,
-      "num": 1545421,
+      "raw_hot": 1548965,
+      "num": 1548965,
       "word": "李玉把处女作称为开山作",
       "onboard_time": 1746330800,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1118384,
+      "num": 724685,
+      "word": "跟曹骏认识10年的编剧找他演戏被拒",
+      "onboard_time": 1746334462,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1062578,
       "num": 1170012,
       "word": "男子轻生前点奶茶店主骑手果断报警",
@@ -55,14 +63,6 @@
       "num": 678085,
       "word": "霍思燕一家与贾乃亮一家出游",
       "onboard_time": 1746277583,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 994125,
-      "num": 674135,
-      "word": "跟曹骏认识10年的编剧找他演戏被拒",
-      "onboard_time": 1746334462,
       "rank": 3,
       "category": "艺人"
     },
@@ -115,19 +115,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 714077,
+      "num": 714077,
+      "word": "黄山3天捡了18个孩子",
+      "onboard_time": 1746333621,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 693116,
       "num": 287892,
       "word": "协和4加4培养的是天才还是关系户",
       "onboard_time": 1746321501,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 665071,
-      "num": 665071,
-      "word": "黄山3天捡了18个孩子",
-      "onboard_time": 1746333621,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 498475,
+      "num": 465169,
+      "word": "邓超备战明年斯诺克",
+      "onboard_time": 1746333741,
+      "rank": 38,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 498257,
       "num": 177529,
       "word": "王大陆找黑道查个人信息被起诉",
@@ -251,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465169,
-      "num": 465169,
-      "word": "邓超备战明年斯诺克",
-      "onboard_time": 1746333741,
-      "rank": 38,
-      "category": "艺人,体育"
+      "raw_hot": 422686,
+      "num": 437109,
+      "word": "男子与女友吵架为泄愤16楼扔电竞椅",
+      "onboard_time": 1746335001,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419830,
@@ -489,6 +497,14 @@
       "onboard_time": 1746335242,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 230956,
+      "num": 230956,
+      "word": "黄子韬称做卫生巾投了几个亿",
+      "onboard_time": 1746336981,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 228267,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 136035,
-      "num": 136035,
+      "num": 213672,
       "word": "全红婵绷脚面能到什么程度",
       "onboard_time": 1746331522,
       "rank": 40,
@@ -1067,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115191,
+      "num": 281394,
+      "word": "普京称会努力克制住想揍人的冲动",
+      "onboard_time": 1746335841,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114705,
       "num": 114705,
       "word": "苏杯中国vs韩国对阵公布",
@@ -1147,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106795,
+      "num": 106795,
+      "word": "邓为五四晚会造型",
+      "onboard_time": 1746336620,
+      "rank": 46,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 105909,
       "num": 105909,
       "word": "宇多田光 夫妇别姓",
       "onboard_time": 1746333741,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "小小的猫肚子里全是猫粮",
+      "onboard_time": 1746334941,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 105369,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1746279205,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 100481,
+      "num": 100481,
+      "word": "抚仙湖",
+      "onboard_time": 1746337220,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 99379,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1746273202,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93217,
+      "num": 434878,
+      "word": "荣昌铺盖面扯面大叔扯到不想说话",
+      "onboard_time": 1746325761,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90810,
@@ -1355,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81090,
+      "num": 364687,
+      "word": "陈佳3米板金牌",
+      "onboard_time": 1746335782,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80705,
       "num": 107805,
       "word": "你可以永远相信青春的力量",
@@ -1368,14 +1432,6 @@
       "word": "异瞳男生回应不到一个月涨粉200万",
       "onboard_time": 1746278305,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77967,
-      "num": 437109,
-      "word": "男子与女友吵架为泄愤16楼扔电竞椅",
-      "onboard_time": 1746335001,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1393,14 +1449,6 @@
       "onboard_time": 1746314597,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70660,
-      "num": 281394,
-      "word": "普京称会努力克制住想揍人的冲动",
-      "onboard_time": 1746335841,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67213,
@@ -1475,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45767,
+      "num": 198093,
+      "word": "KB签售超长宠粉日",
+      "onboard_time": 1746336741,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 44582,
       "num": 321137,
       "word": "哈登为什么关键战总拉胯",
@@ -1483,15 +1539,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44503,
-      "num": 434878,
-      "word": "荣昌铺盖面扯面大叔扯到不想说话",
-      "onboard_time": 1746325761,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42880,
+      "raw_hot": 42935,
       "num": 269777,
       "word": "王权弘业穿着深V就要去见老丈人",
       "onboard_time": 1746335481,
@@ -1568,14 +1616,6 @@
       "word": "莱比锡绝平拜仁",
       "onboard_time": 1746295756,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 34367,
-      "num": 364687,
-      "word": "陈佳3米板金牌",
-      "onboard_time": 1746335782,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -1713,6 +1753,14 @@
       "onboard_time": 1746329900,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14267,
+      "num": 269477,
+      "word": "巴菲特将如何布局投资版图",
+      "onboard_time": 1746336981,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 11754,
