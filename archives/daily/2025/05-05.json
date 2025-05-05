@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746419437316,
+  "endTime": 1746420315168,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 523879,
+      "num": 269454,
+      "word": "千万不要用卫生纸擦眼镜",
+      "onboard_time": 1746418342,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 519974,
       "num": 519974,
       "word": "张睿李晟同框",
@@ -188,19 +196,19 @@
     },
     {
       "raw_hot": 514264,
-      "num": 394559,
+      "num": 494932,
       "word": "原教育局长让下属帮其女儿办婚礼",
       "onboard_time": 1746415821,
       "rank": 21,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 513117,
-      "num": 269454,
-      "word": "千万不要用卫生纸擦眼镜",
-      "onboard_time": 1746418342,
-      "rank": 21,
-      "category": "科学科普"
+      "raw_hot": 509154,
+      "num": 509154,
+      "word": "李嘉格妈妈反对女儿和车澈结婚",
+      "onboard_time": 1746419363,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 502534,
@@ -209,6 +217,14 @@
       "onboard_time": 1746355521,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495322,
+      "num": 391930,
+      "word": "明天上班进公司大门的我",
+      "onboard_time": 1746418342,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 486766,
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428201,
+      "num": 428201,
+      "word": "蔡依林新专辑PLEASURE官宣",
+      "onboard_time": 1746419123,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 425251,
       "num": 425251,
       "word": "严浩翔受伤",
@@ -273,14 +297,6 @@
       "onboard_time": 1746417623,
       "rank": 6,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 402975,
-      "num": 402975,
-      "word": "蔡依林新专辑PLEASURE官宣",
-      "onboard_time": 1746419123,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 401109,
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273751,
-      "num": 268896,
-      "word": "明天上班进公司大门的我",
-      "onboard_time": 1746418342,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 257337,
       "num": 257337,
       "word": "虞书欣加盟是女儿是妈妈2",
@@ -523,6 +531,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226350,
+      "num": 226350,
+      "word": "严浩翔姐姐来了",
+      "onboard_time": 1746419243,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 222540,
+      "num": 222540,
+      "word": "邓为关晓彤合唱版愿你抬头有光",
+      "onboard_time": 1746419782,
+      "rank": 22,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 221083,
       "num": 159959,
       "word": "梁王教练回应男双躺赢",
@@ -537,6 +561,14 @@
       "onboard_time": 1746416662,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 213596,
+      "num": 213596,
+      "word": "周深说不断探索才能抵达梦想",
+      "onboard_time": 1746418461,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 212411,
@@ -555,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209539,
+      "num": 188671,
+      "word": "陈梦妈妈回应曾被女儿怀疑不是亲妈",
+      "onboard_time": 1746419363,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209329,
       "num": 209329,
       "word": "美国男子注射蛇毒18年血液产生抗体",
@@ -571,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207798,
-      "num": 207798,
-      "word": "周深说不断探索才能抵达梦想",
-      "onboard_time": 1746418461,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 207155,
+      "num": 185308,
+      "word": "25楼坠落女童生还现场管道被砸大坑",
+      "onboard_time": 1746419302,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206782,
@@ -659,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197641,
+      "num": 204769,
+      "word": "毛不易巡演二十城官宣",
+      "onboard_time": 1746419061,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197313,
       "num": 197313,
       "word": "严浩翔回应演唱会受伤",
@@ -705,14 +753,6 @@
       "onboard_time": 1746416301,
       "rank": 35,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 187713,
-      "num": 204769,
-      "word": "毛不易巡演二十城官宣",
-      "onboard_time": 1746419061,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 186762,
@@ -779,6 +819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165152,
+      "num": 165152,
+      "word": "护士发论文称男性确诊子宫肌瘤",
+      "onboard_time": 1746419542,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
@@ -787,12 +835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159298,
-      "num": 159298,
-      "word": "李嘉格妈妈反对女儿和车澈结婚",
-      "onboard_time": 1746419363,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 163756,
+      "num": 163756,
+      "word": "院方回应护士论文现男子宫肌瘤患者",
+      "onboard_time": 1746419482,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "景区回应灵隐寺小卖部年租金260万",
+      "onboard_time": 1746418822,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156826,
@@ -800,14 +856,6 @@
       "word": "民警3天捡了25个孩子",
       "onboard_time": 1746390254,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156555,
-      "num": 156555,
-      "word": "25楼坠落女童生还现场管道被砸大坑",
-      "onboard_time": 1746419302,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -825,14 +873,6 @@
       "onboard_time": 1746415401,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153854,
-      "num": 153854,
-      "word": "严浩翔姐姐来了",
-      "onboard_time": 1746419243,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 152976,
@@ -859,19 +899,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150695,
-      "num": 150695,
-      "word": "景区回应灵隐寺小卖部年租金260万",
-      "onboard_time": 1746418822,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149468,
       "num": 96585,
       "word": "贺峻霖来电了",
       "onboard_time": 1746379099,
       "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148317,
+      "num": 148317,
+      "word": "权志龙演唱会状态",
+      "onboard_time": 1746419902,
+      "rank": 40,
       "category": "演出"
     },
     {
@@ -889,6 +929,14 @@
       "onboard_time": 1746415762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140521,
+      "num": 710104,
+      "word": "小小票根带来多元消费体验",
+      "onboard_time": 1746417263,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140082,
@@ -915,14 +963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 136840,
-      "num": 136840,
-      "word": "陈梦妈妈回应曾被女儿怀疑不是亲妈",
-      "onboard_time": 1746419363,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136160,
       "num": 136160,
       "word": "周深人被风吹跑音调都没跑",
@@ -947,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130393,
+      "num": 130393,
+      "word": "韶华若锦",
+      "onboard_time": 1746420082,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128605,
       "num": 128605,
       "word": "五一爬武功山回家",
@@ -969,6 +1017,14 @@
       "onboard_time": 1746372504,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127294,
+      "num": 127294,
+      "word": "英国闺蜜与全红婵的跨国友情",
+      "onboard_time": 1746420022,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127079,
@@ -1059,16 +1115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114948,
-      "num": 710104,
-      "word": "小小票根带来多元消费体验",
-      "onboard_time": 1746417263,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114358,
-      "num": 425033,
+      "num": 500556,
       "word": "文化中国行之立夏节气",
       "onboard_time": 1746407181,
       "rank": 39,
@@ -1251,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83893,
+      "num": 395088,
+      "word": "清镇市交通局称对船舶有日常检查",
+      "onboard_time": 1746418282,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81022,
       "num": 224989,
       "word": "WAW剑网3玩家吃真好",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1746360143,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64695,
-      "num": 395088,
-      "word": "清镇市交通局称对船舶有日常检查",
-      "onboard_time": 1746418282,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63912,
@@ -1539,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23315,
+      "num": 270666,
+      "word": "为什么童年缺爱者更易成为讨好型人格",
+      "onboard_time": 1746418881,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22010,
       "num": 150000,
       "word": "胡锡进称支持胖东来投诉柴怼怼",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1746392714,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10416,
-      "num": 270666,
-      "word": "为什么童年缺爱者更易成为讨好型人格",
-      "onboard_time": 1746418881,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 10152,
