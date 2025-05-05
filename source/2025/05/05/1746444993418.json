@@ -1,0 +1,410 @@
+{
+  "runTime": 1746444993418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121323,
+        "num": 1179411,
+        "word": "晨宇炒饭被吃掉3吨",
+        "onboard_time": 1746437541,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 575222,
+        "num": 575222,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235885,
+        "num": 568658,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567690,
+        "num": 567690,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 566142,
+        "num": 566142,
+        "word": "男患子宫肌瘤论文打了谁的脸",
+        "onboard_time": 1746442460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515423,
+        "num": 515423,
+        "word": "台湾花莲海域5.7级地震",
+        "onboard_time": 1746443781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565759,
+        "num": 515292,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515096,
+        "num": 515096,
+        "word": "齐鲁医院护士霍某某受处分",
+        "onboard_time": 1746442940,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459554,
+        "num": 459554,
+        "word": "李惠利百想红毯新闻图",
+        "onboard_time": 1746440481,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153573,
+        "num": 434503,
+        "word": "陕西出土特殊砖1块重60多斤",
+        "onboard_time": 1746444323,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736341,
+        "num": 432897,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 522755,
+        "num": 431440,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428870,
+        "num": 428870,
+        "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+        "onboard_time": 1746439341,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423680,
+        "num": 423680,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418202,
+        "num": 418202,
+        "word": "林心如霍建华带女儿看电影",
+        "onboard_time": 1746443058,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310204,
+        "num": 310204,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285097,
+        "num": 285097,
+        "word": "楚后",
+        "onboard_time": 1746441740,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276030,
+        "num": 276030,
+        "word": "刘国梁卸任后对王励勤说了这句话",
+        "onboard_time": 1746437602,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273709,
+        "num": 273709,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231144,
+        "num": 231144,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713702,
+        "num": 226086,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265072,
+        "num": 224838,
+        "word": "宋慧乔比心",
+        "onboard_time": 1746443362,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259434,
+        "num": 224579,
+        "word": "这是我的西游直播",
+        "onboard_time": 1746440781,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219196,
+        "num": 219196,
+        "word": "警方通报小型汽车坠河致1人死亡",
+        "onboard_time": 1746439460,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 212634,
+        "num": 212634,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202385,
+        "num": 202385,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201913,
+        "num": 201913,
+        "word": "百想红毯",
+        "onboard_time": 1746437841,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 189621,
+        "word": "金价涨回3300美元",
+        "onboard_time": 1746443721,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174753,
+        "num": 174753,
+        "word": "警方通报男子不挂车牌超车撞人",
+        "onboard_time": 1746435740,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170406,
+        "num": 170406,
+        "word": "锦月如歌",
+        "onboard_time": 1746444622,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160184,
+        "num": 160184,
+        "word": "丁禹兮对粉丝句句有回应",
+        "onboard_time": 1746444323,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158540,
+        "num": 158540,
+        "word": "生命树杨紫路透",
+        "onboard_time": 1746442521,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154698,
+        "num": 154698,
+        "word": "冯彦哲回应黄东萍",
+        "onboard_time": 1746443721,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153948,
+        "num": 153948,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149801,
+        "num": 149801,
+        "word": "一句话让贺峻霖回复60s语音",
+        "onboard_time": 1746444501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135507,
+        "num": 135507,
+        "word": "年轻人爱上户外小型婚礼",
+        "onboard_time": 1746444259,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123969,
+        "num": 123969,
+        "word": "张真源直拍简直是Daddy级别",
+        "onboard_time": 1746443781,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118446,
+        "num": 118446,
+        "word": "女生cos国漫角色被男子指责穿和服",
+        "onboard_time": 1746437602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118389,
+        "num": 118389,
+        "word": "王一博托腮连拍",
+        "onboard_time": 1746442521,
+        "rank": 38,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 113168,
+        "num": 113168,
+        "word": "香港私房菜",
+        "onboard_time": 1746441441,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 111072,
+        "word": "原来这就是精通PPT吗",
+        "onboard_time": 1746441861,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108697,
+        "num": 108697,
+        "word": "费启鸣拍了撕拉片",
+        "onboard_time": 1746443240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106786,
+        "num": 106786,
+        "word": "乳腺癌最小患者仅有3岁",
+        "onboard_time": 1746432740,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106344,
+        "num": 106344,
+        "word": "人 希望你能像我们一样自由",
+        "onboard_time": 1746444142,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103612,
+        "num": 103612,
+        "word": "73岁普京每天健身1.5小时",
+        "onboard_time": 1746431541,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103066,
+        "num": 103066,
+        "word": "福建震感",
+        "onboard_time": 1746444921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102025,
+        "num": 102025,
+        "word": "这就是有温度的中国排面",
+        "onboard_time": 1746441441,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 100986,
+        "num": 100986,
+        "word": "WE战胜FPX",
+        "onboard_time": 1746444142,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99330,
+        "num": 99330,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98646,
+        "num": 98646,
+        "word": "秀智好美",
+        "onboard_time": 1746444921,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}

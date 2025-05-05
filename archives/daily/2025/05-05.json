@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746444104113,
+  "endTime": 1746444993418,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1616969,
-      "num": 366742,
+      "num": 432897,
       "word": "月入3万攒2万五",
       "onboard_time": 1746434541,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1746415821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1121323,
+      "num": 1179411,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 1081512,
@@ -161,14 +169,6 @@
       "onboard_time": 1746423563,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 831155,
-      "num": 1132984,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 807527,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 674744,
-      "num": 497556,
+      "num": 515292,
       "word": "刘涛怼刘奕畅",
       "onboard_time": 1746437541,
       "rank": 23,
@@ -363,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 566142,
+      "num": 566142,
+      "word": "男患子宫肌瘤论文打了谁的脸",
+      "onboard_time": 1746442460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562821,
       "num": 562821,
       "word": "护士发论文称男性确诊子宫肌瘤",
@@ -387,6 +395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 522755,
+      "num": 431440,
+      "word": "IU白裙盘发",
+      "onboard_time": 1746443601,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 519974,
       "num": 519974,
       "word": "张睿李晟同框",
@@ -395,8 +411,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515423,
+      "num": 515423,
+      "word": "台湾花莲海域5.7级地震",
+      "onboard_time": 1746443781,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515096,
+      "num": 515096,
+      "word": "齐鲁医院护士霍某某受处分",
+      "onboard_time": 1746442940,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514373,
-      "num": 318089,
+      "num": 459554,
       "word": "李惠利百想红毯新闻图",
       "onboard_time": 1746440481,
       "rank": 27,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 485904,
-      "num": 364903,
+      "num": 428870,
       "word": "丁禹兮孟子义淮水竹亭剧情线来了",
       "onboard_time": 1746439341,
       "rank": 16,
@@ -513,6 +545,22 @@
       "onboard_time": 1746417623,
       "rank": 6,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 423680,
+      "num": 423680,
+      "word": "蒋奇明演技",
+      "onboard_time": 1746443481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 418202,
+      "num": 418202,
+      "word": "林心如霍建华带女儿看电影",
+      "onboard_time": 1746443058,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 401109,
@@ -667,14 +715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 320968,
-      "num": 320968,
-      "word": "台湾花莲海域5.7级地震",
-      "onboard_time": 1746443781,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
@@ -697,14 +737,6 @@
       "onboard_time": 1746374122,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303416,
-      "num": 303416,
-      "word": "IU白裙盘发",
-      "onboard_time": 1746443601,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 302874,
@@ -731,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298251,
-      "num": 252484,
-      "word": "林心如霍建华带女儿看电影",
-      "onboard_time": 1746443058,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297403,
       "num": 291881,
       "word": "弃养父亲病逝儿子与继母争遗产",
@@ -752,14 +776,6 @@
       "word": "滕州",
       "onboard_time": 1746435023,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296416,
-      "num": 296416,
-      "word": "齐鲁医院护士霍某某受处分",
-      "onboard_time": 1746442940,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285097,
+      "num": 285097,
+      "word": "楚后",
+      "onboard_time": 1746441740,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
@@ -817,6 +841,14 @@
       "onboard_time": 1746422843,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 265072,
+      "num": 224838,
+      "word": "宋慧乔比心",
+      "onboard_time": 1746443362,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 257337,
@@ -915,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227525,
-      "num": 227525,
-      "word": "楚后",
-      "onboard_time": 1746441740,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227476,
       "num": 227476,
       "word": "杨幂小猫贴贴",
@@ -985,6 +1009,14 @@
       "onboard_time": 1746422901,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212634,
+      "num": 212634,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 212411,
@@ -1099,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202385,
+      "num": 202385,
+      "word": "写了四天作业发现忘装笔芯",
+      "onboard_time": 1746442701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201138,
       "num": 201138,
       "word": "被结婚的手捧花价格吓到了",
@@ -1115,28 +1155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200286,
-      "num": 200286,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199979,
       "num": 199979,
       "word": "王鹤棣咸鱼飞升生图路透",
       "onboard_time": 1746437541,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199109,
-      "num": 199109,
-      "word": "蒋奇明演技",
-      "onboard_time": 1746443481,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 198957,
@@ -1267,20 +1291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189621,
+      "num": 189621,
+      "word": "金价涨回3300美元",
+      "onboard_time": 1746443721,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186762,
       "num": 186762,
       "word": "DeepSeek教师指令大全",
       "onboard_time": 1746417563,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186625,
-      "num": 314335,
-      "word": "男患子宫肌瘤论文打了谁的脸",
-      "onboard_time": 1746442460,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184259,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1746421704,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183250,
-      "num": 183250,
-      "word": "写了四天作业发现忘装笔芯",
-      "onboard_time": 1746442701,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 182317,
@@ -1379,12 +1395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171506,
-      "num": 171506,
-      "word": "宋慧乔比心",
-      "onboard_time": 1746443362,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 170406,
+      "num": 170406,
+      "word": "锦月如歌",
+      "onboard_time": 1746444622,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 168383,
@@ -1475,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160184,
+      "num": 160184,
+      "word": "丁禹兮对粉丝句句有回应",
+      "onboard_time": 1746444323,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159193,
       "num": 159193,
       "word": "詹青云聊全女模式",
@@ -1531,6 +1555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154698,
+      "num": 154698,
+      "word": "冯彦哲回应黄东萍",
+      "onboard_time": 1746443721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153573,
+      "num": 434503,
+      "word": "陕西出土特殊砖1块重60多斤",
+      "onboard_time": 1746444323,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152976,
       "num": 152976,
       "word": "刘耀文alpha味儿",
@@ -1579,12 +1619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149738,
-      "num": 149738,
-      "word": "金价涨回3300美元",
-      "onboard_time": 1746443721,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 149801,
+      "num": 149801,
+      "word": "一句话让贺峻霖回复60s语音",
+      "onboard_time": 1746444501,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 149468,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1746441441,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 135507,
+      "num": 135507,
+      "word": "年轻人爱上户外小型婚礼",
+      "onboard_time": 1746444259,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 135086,
@@ -2155,6 +2203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113168,
+      "num": 113168,
+      "word": "香港私房菜",
+      "onboard_time": 1746441441,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113019,
       "num": 113019,
       "word": "吴宣仪我就多余问这嘴",
@@ -2187,14 +2243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111378,
-      "num": 111378,
-      "word": "冯彦哲回应黄东萍",
-      "onboard_time": 1746443721,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111280,
       "num": 111280,
       "word": "淮水竹亭热度",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1746357021,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111072,
+      "num": 111072,
+      "word": "原来这就是精通PPT吗",
+      "onboard_time": 1746441861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110161,
@@ -2283,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106344,
+      "num": 106344,
+      "word": "人 希望你能像我们一样自由",
+      "onboard_time": 1746444142,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105612,
       "num": 105612,
       "word": "苹果的果张力拉满了",
@@ -2315,12 +2379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101942,
-      "num": 101942,
-      "word": "香港私房菜",
-      "onboard_time": 1746441441,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 103066,
+      "num": 103066,
+      "word": "福建震感",
+      "onboard_time": 1746444921,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101474,
@@ -2337,6 +2401,14 @@
       "onboard_time": 1746407721,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100986,
+      "num": 100986,
+      "word": "WE战胜FPX",
+      "onboard_time": 1746444142,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100499,
@@ -2371,14 +2443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99343,
-      "num": 99343,
-      "word": "原来这就是精通PPT吗",
-      "onboard_time": 1746441861,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98967,
       "num": 98967,
       "word": "AL采访",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1746437061,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "秀智好美",
+      "onboard_time": 1746444921,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98444,

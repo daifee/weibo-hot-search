@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746444104113,
+  "endTime": 1746444993418,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1616969,
-      "num": 366742,
+      "num": 432897,
       "word": "月入3万攒2万五",
       "onboard_time": 1746434541,
       "rank": 30,
@@ -609,6 +609,14 @@
       "onboard_time": 1746415821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1121323,
+      "num": 1179411,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 1097674,
@@ -1051,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 831155,
-      "num": 1132984,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 831061,
       "num": 831061,
       "word": "交警称9米长林肯是钻空子上山",
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 674744,
-      "num": 497556,
+      "num": 515292,
       "word": "刘涛怼刘奕畅",
       "onboard_time": 1746437541,
       "rank": 23,
@@ -1979,6 +1979,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 566142,
+      "num": 566142,
+      "word": "男患子宫肌瘤论文打了谁的脸",
+      "onboard_time": 1746442460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564353,
       "num": 487690,
       "word": "丁禹兮ins点赞",
@@ -2171,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 522755,
+      "num": 431440,
+      "word": "IU白裙盘发",
+      "onboard_time": 1746443601,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 522721,
       "num": 282977,
       "word": "CMG没有邀请韩国Kpop巡回演出",
@@ -2195,8 +2211,24 @@
       "category": "演出,作品衍生"
     },
     {
+      "raw_hot": 515423,
+      "num": 515423,
+      "word": "台湾花莲海域5.7级地震",
+      "onboard_time": 1746443781,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515096,
+      "num": 515096,
+      "word": "齐鲁医院护士霍某某受处分",
+      "onboard_time": 1746442940,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514373,
-      "num": 318089,
+      "num": 459554,
       "word": "李惠利百想红毯新闻图",
       "onboard_time": 1746440481,
       "rank": 27,
@@ -2316,7 +2348,7 @@
     },
     {
       "raw_hot": 485904,
-      "num": 364903,
+      "num": 428870,
       "word": "丁禹兮孟子义淮水竹亭剧情线来了",
       "onboard_time": 1746439341,
       "rank": 16,
@@ -2827,6 +2859,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 423680,
+      "num": 423680,
+      "word": "蒋奇明演技",
+      "onboard_time": 1746443481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422686,
       "num": 437109,
       "word": "男子与女友吵架为泄愤16楼扔电竞椅",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1746333082,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418202,
+      "num": 418202,
+      "word": "林心如霍建华带女儿看电影",
+      "onboard_time": 1746443058,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 418188,
@@ -3755,14 +3803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320968,
-      "num": 320968,
-      "word": "台湾花莲海域5.7级地震",
-      "onboard_time": 1746443781,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -3971,14 +4011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 303416,
-      "num": 303416,
-      "word": "IU白裙盘发",
-      "onboard_time": 1746443601,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 303006,
       "num": 239863,
       "word": "全红婵向陈艺文父母打招呼",
@@ -4083,14 +4115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298251,
-      "num": 252484,
-      "word": "林心如霍建华带女儿看电影",
-      "onboard_time": 1746443058,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298193,
       "num": 298193,
       "word": "协和4+4毕业生本科专业有西班牙语园林等",
@@ -4137,14 +4161,6 @@
       "onboard_time": 1746245239,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296416,
-      "num": 296416,
-      "word": "齐鲁医院护士霍某某受处分",
-      "onboard_time": 1746442940,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296022,
@@ -4281,6 +4297,14 @@
       "onboard_time": 1746256099,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285097,
+      "num": 285097,
+      "word": "楚后",
+      "onboard_time": 1746266421,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 284510,
@@ -4505,6 +4529,14 @@
       "onboard_time": 1746160830,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265072,
+      "num": 224838,
+      "word": "宋慧乔比心",
+      "onboard_time": 1746443362,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 264654,
@@ -5131,14 +5163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227525,
-      "num": 227525,
-      "word": "楚后",
-      "onboard_time": 1746266421,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227476,
       "num": 227476,
       "word": "杨幂小猫贴贴",
@@ -5449,6 +5473,14 @@
       "onboard_time": 1746360863,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212634,
+      "num": 212634,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 212582,
@@ -5987,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202385,
+      "num": 202385,
+      "word": "写了四天作业发现忘装笔芯",
+      "onboard_time": 1746442701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202380,
       "num": 202380,
       "word": "罗云熙周深音乐节联合说明",
@@ -6083,14 +6123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200286,
-      "num": 200286,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200259,
       "num": 200259,
       "word": "快船3比3掘金",
@@ -6153,14 +6185,6 @@
       "onboard_time": 1746199462,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199109,
-      "num": 199109,
-      "word": "蒋奇明演技",
-      "onboard_time": 1746443481,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 199078,
@@ -6963,6 +6987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189621,
+      "num": 189621,
+      "word": "金价涨回3300美元",
+      "onboard_time": 1746443721,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189533,
       "num": 189533,
       "word": "苏迪曼杯抽签",
@@ -7219,14 +7251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 186625,
-      "num": 314335,
-      "word": "男患子宫肌瘤论文打了谁的脸",
-      "onboard_time": 1746442460,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186589,
       "num": 186589,
       "word": "周洁琼撕拉片",
@@ -7401,14 +7425,6 @@
       "onboard_time": 1746369446,
       "rank": 28,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 183250,
-      "num": 183250,
-      "word": "写了四天作业发现忘装笔芯",
-      "onboard_time": 1746442701,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 182894,
@@ -7969,14 +7985,6 @@
       "onboard_time": 1746070761,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171506,
-      "num": 171506,
-      "word": "宋慧乔比心",
-      "onboard_time": 1746443362,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 171423,
@@ -8731,6 +8739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160184,
+      "num": 160184,
+      "word": "丁禹兮对粉丝句句有回应",
+      "onboard_time": 1746444323,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160143,
       "num": 160143,
       "word": "中国队苏杯四连冠",
@@ -9115,6 +9131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154698,
+      "num": 154698,
+      "word": "冯彦哲回应黄东萍",
+      "onboard_time": 1746443721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154683,
       "num": 154683,
       "word": "东北姑娘带爸爸到杭州看病被震惊了",
@@ -9161,6 +9185,14 @@
       "onboard_time": 1746153449,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153573,
+      "num": 434503,
+      "word": "陕西出土特殊砖1块重60多斤",
+      "onboard_time": 1746444323,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153493,
@@ -9443,12 +9475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149738,
-      "num": 149738,
-      "word": "金价涨回3300美元",
-      "onboard_time": 1746443721,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 149801,
+      "num": 149801,
+      "word": "一句话让贺峻霖回复60s语音",
+      "onboard_time": 1746444501,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 149713,
@@ -10713,6 +10745,14 @@
       "onboard_time": 1746441441,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 135507,
+      "num": 135507,
+      "word": "年轻人爱上户外小型婚礼",
+      "onboard_time": 1746444259,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 135126,
@@ -12803,6 +12843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113168,
+      "num": 113168,
+      "word": "香港私房菜",
+      "onboard_time": 1746441441,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112915,
       "num": 208389,
       "word": "星铁演唱会是什么大型无料交换现场",
@@ -12939,14 +12987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 111378,
-      "num": 111378,
-      "word": "冯彦哲回应黄东萍",
-      "onboard_time": 1746443721,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111372,
       "num": 108207,
       "word": "王浩信最想合作高海宁",
@@ -12969,6 +13009,14 @@
       "onboard_time": 1746319940,
       "rank": 37,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 111072,
+      "num": 111072,
+      "word": "原来这就是精通PPT吗",
+      "onboard_time": 1746441861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111004,
@@ -13403,6 +13451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106344,
+      "num": 106344,
+      "word": "人 希望你能像我们一样自由",
+      "onboard_time": 1746444142,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106332,
       "num": 106332,
       "word": "小伙被外国人骂秦腔穷霸气回怼",
@@ -13659,6 +13715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103066,
+      "num": 103066,
+      "word": "福建震感",
+      "onboard_time": 1746444921,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103020,
       "num": 103020,
       "word": "省委书记暗访餐饮店",
@@ -13689,14 +13753,6 @@
       "onboard_time": 1746078682,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101942,
-      "num": 101942,
-      "word": "香港私房菜",
-      "onboard_time": 1746441441,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 101848,
@@ -13761,6 +13817,14 @@
       "onboard_time": 1746407721,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100986,
+      "num": 100986,
+      "word": "WE战胜FPX",
+      "onboard_time": 1746444142,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 100826,
@@ -13931,14 +13995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99343,
-      "num": 99343,
-      "word": "原来这就是精通PPT吗",
-      "onboard_time": 1746441861,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99174,
       "num": 99174,
       "word": "邓超世面都见过这种人没见过",
@@ -13993,6 +14049,14 @@
       "onboard_time": 1746437061,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98646,
+      "num": 98646,
+      "word": "秀智好美",
+      "onboard_time": 1746444921,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 98550,
