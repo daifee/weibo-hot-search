@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746415100319,
+  "endTime": 1746415837119,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1868480,
-      "num": 1868480,
+      "raw_hot": 1994901,
+      "num": 1994901,
       "word": "医院违规为单身女性做试管婴儿",
       "onboard_time": 1746412102,
       "rank": 0,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808687,
+      "num": 808687,
+      "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+      "onboard_time": 1746413602,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770665,
       "num": 770665,
       "word": "景区回应大量虫子往脖子里钻",
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703230,
+      "num": 541747,
+      "word": "13岁女孩动漫直播间被骗购软色情玩具",
+      "onboard_time": 1746413901,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667480,
       "num": 924314,
       "word": "西安夜空不明物可能是什么",
@@ -105,6 +121,14 @@
       "onboard_time": 1746375081,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 639010,
+      "num": 639010,
+      "word": "特朗普再发涉二战惊人言论",
+      "onboard_time": 1746414682,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 621587,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 455693,
-      "num": 455693,
+      "num": 587889,
       "word": "于正晒白鹿临江仙血泪照",
       "onboard_time": 1746411262,
       "rank": 17,
@@ -195,20 +219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 421358,
-      "num": 397686,
-      "word": "13岁女孩动漫直播间被骗购软色情玩具",
-      "onboard_time": 1746413901,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 402437,
-      "num": 402437,
-      "word": "游客吐槽天津一奶茶品牌包装有不雅字",
-      "onboard_time": 1746413602,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 416343,
+      "num": 416343,
+      "word": "孙颖莎嘉人封面释出",
+      "onboard_time": 1746415164,
+      "rank": 12,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 401109,
@@ -228,15 +244,15 @@
     },
     {
       "raw_hot": 397588,
-      "num": 397588,
+      "num": 404818,
       "word": "陈铭谈奇葩说停播原因",
       "onboard_time": 1746412401,
       "rank": 12,
       "category": "综艺"
     },
     {
-      "raw_hot": 381255,
-      "num": 381255,
+      "raw_hot": 392363,
+      "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
       "onboard_time": 1746412522,
       "rank": 13,
@@ -267,6 +283,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 346776,
+      "num": 398528,
+      "word": "立夏是减肥的黄金起点",
+      "onboard_time": 1746411441,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 334211,
       "num": 334211,
       "word": "女子想用炸弹炸ATM机却炸死自己",
@@ -291,20 +315,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323860,
-      "num": 398528,
-      "word": "立夏是减肥的黄金起点",
-      "onboard_time": 1746411441,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
       "onboard_time": 1746401779,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311703,
+      "num": 543925,
+      "word": "已有多所高中不再双休",
+      "onboard_time": 1746414503,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309474,
@@ -347,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296022,
+      "num": 401767,
+      "word": "歌手",
+      "onboard_time": 1746413001,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286998,
       "num": 286998,
       "word": "贵州游船事故亲历者发声",
       "onboard_time": 1746369685,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271467,
-      "num": 377914,
-      "word": "歌手",
-      "onboard_time": 1746413001,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 257337,
@@ -393,6 +417,14 @@
       "onboard_time": 1746406640,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238673,
+      "num": 238673,
+      "word": "情侣想改名惹怒老父亲",
+      "onboard_time": 1746415463,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 232016,
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206782,
+      "num": 206782,
+      "word": "翔霖",
+      "onboard_time": 1746414682,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205647,
       "num": 205647,
       "word": "运动瘦和饿瘦哪个瘦得快",
@@ -497,6 +537,14 @@
       "onboard_time": 1746411081,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "压下库里浮起希尔德",
+      "onboard_time": 1746414801,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 197313,
@@ -547,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175105,
+      "num": 175105,
+      "word": "苏醒出道十八年工龄才三五年",
+      "onboard_time": 1746415401,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174264,
       "num": 174264,
       "word": "白桃星座一周运势",
@@ -563,22 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171911,
-      "num": 171911,
-      "word": "压下库里浮起希尔德",
-      "onboard_time": 1746414801,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 170519,
-      "num": 170519,
-      "word": "翔霖",
-      "onboard_time": 1746414682,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168383,
       "num": 168383,
       "word": "SMTR25墨西哥舞台剧透",
@@ -587,20 +627,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167082,
-      "num": 369245,
-      "word": "特朗普再发涉二战惊人言论",
-      "onboard_time": 1746414682,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166941,
       "num": 166941,
       "word": "特朗普称对进入美国的电影征关税",
       "onboard_time": 1746410540,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166799,
+      "num": 166799,
+      "word": "奔跑吧后期特效没放过任何人",
+      "onboard_time": 1746415343,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 156826,
@@ -619,12 +659,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "巴基斯坦宣布禁止与印度进口贸易",
+      "onboard_time": 1746415401,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152976,
       "num": 152976,
       "word": "刘耀文alpha味儿",
       "onboard_time": 1746375741,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152542,
+      "num": 152542,
+      "word": "五一返程这些伴手礼不能上火车",
+      "onboard_time": 1746415164,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151406,
@@ -651,20 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145843,
+      "num": 145843,
+      "word": "库里第四节充满电了",
+      "onboard_time": 1746415762,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143512,
+      "num": 143512,
+      "word": "爸爸当家",
+      "onboard_time": 1746415642,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140082,
       "num": 140082,
       "word": "黄霄雲音乐节现场军训",
       "onboard_time": 1746414622,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136538,
-      "num": 397763,
-      "word": "已有多所高中不再双休",
-      "onboard_time": 1746414503,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134445,
@@ -691,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127641,
+      "num": 127641,
+      "word": "库里晚安",
+      "onboard_time": 1746415762,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127587,
       "num": 127587,
       "word": "老累",
@@ -699,12 +771,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127079,
+      "num": 127079,
+      "word": "减肥虽难但成功后一定值得",
+      "onboard_time": 1746415583,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126104,
       "num": 126104,
       "word": "全红婵说发育期不够自律",
       "onboard_time": 1746362544,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "我怀疑这西瓜是来报恩的",
+      "onboard_time": 1746412763,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 123678,
@@ -779,14 +867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113603,
-      "num": 113603,
-      "word": "我怀疑这西瓜是来报恩的",
-      "onboard_time": 1746412763,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113019,
       "num": 113019,
       "word": "吴宣仪我就多余问这嘴",
@@ -833,6 +913,14 @@
       "onboard_time": 1746398295,
       "rank": 31,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 107530,
+      "num": 413294,
+      "word": "灵隐寺小卖部年租金260万引质疑",
+      "onboard_time": 1746415164,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107314,
@@ -915,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91771,
+      "num": 409422,
+      "word": "饿了么让五一假期的奶茶店忙疯了",
+      "onboard_time": 1746414080,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91644,
       "num": 195556,
       "word": "立夏养心记得多吃酸",
@@ -948,7 +1044,7 @@
     },
     {
       "raw_hot": 81022,
-      "num": 205175,
+      "num": 224989,
       "word": "WAW剑网3玩家吃真好",
       "onboard_time": 1746414801,
       "rank": 29,
@@ -1003,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66486,
-      "num": 379480,
-      "word": "饿了么让五一假期的奶茶店忙疯了",
-      "onboard_time": 1746414080,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 65023,
       "num": 79444,
       "word": "李沐宸回应灵气消耗",
@@ -1052,7 +1140,7 @@
     },
     {
       "raw_hot": 58098,
-      "num": 206708,
+      "num": 218326,
       "word": "WAW真假纸嫁衣",
       "onboard_time": 1746414801,
       "rank": 28,
@@ -1171,6 +1259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 34138,
+      "num": 156512,
+      "word": "过期产品还能这样用",
+      "onboard_time": 1746414801,
+      "rank": 39,
+      "category": "美妆,民生新闻"
+    },
+    {
       "raw_hot": 32870,
       "num": 65398,
       "word": "上春山出了博物馆版",
@@ -1267,20 +1363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9094,
-      "num": 141040,
-      "word": "过期产品还能这样用",
-      "onboard_time": 1746414801,
-      "rank": 39,
-      "category": "美妆,民生新闻"
-    },
-    {
       "raw_hot": 6169,
       "num": 128480,
       "word": "巴基斯坦与印度对峙底气来自哪里",
       "onboard_time": 1746362485,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1285,
+      "num": 395232,
+      "word": "年轻人如何发展自己的投资哲学",
+      "onboard_time": 1746415282,
+      "rank": 18,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746415100319,
+  "endTime": 1746415837119,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1994901,
+      "num": 1994901,
+      "word": "医院违规为单身女性做试管婴儿",
+      "onboard_time": 1746412102,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1926786,
       "num": 1926786,
       "word": "女生手机自动连上酒店WiFi被分手",
@@ -145,14 +153,6 @@
       "onboard_time": 1746328701,
       "rank": 0,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 1868480,
-      "num": 1868480,
-      "word": "医院违规为单身女性做试管婴儿",
-      "onboard_time": 1746412102,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1862800,
@@ -1003,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808687,
+      "num": 808687,
+      "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+      "onboard_time": 1746413602,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 807858,
       "num": 478986,
       "word": "蓝盈莹粉丝考上法学排名世界第6的大学",
@@ -1299,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703230,
+      "num": 541747,
+      "word": "13岁女孩动漫直播间被骗购软色情玩具",
+      "onboard_time": 1746413901,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 683337,
       "num": 683337,
       "word": "Bin blg回来了",
@@ -1417,6 +1433,14 @@
       "onboard_time": 1746070761,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 639010,
+      "num": 639010,
+      "word": "特朗普再发涉二战惊人言论",
+      "onboard_time": 1746414682,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 637181,
@@ -2308,7 +2332,7 @@
     },
     {
       "raw_hot": 455693,
-      "num": 455693,
+      "num": 587889,
       "word": "于正晒白鹿临江仙血泪照",
       "onboard_time": 1746411262,
       "rank": 17,
@@ -2539,14 +2563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 421358,
-      "num": 397686,
-      "word": "13岁女孩动漫直播间被骗购软色情玩具",
-      "onboard_time": 1746413901,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 420797,
       "num": 420797,
       "word": "为什么年轻人普遍牙不好",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1746314056,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416343,
+      "num": 416343,
+      "word": "孙颖莎嘉人封面释出",
+      "onboard_time": 1746415164,
+      "rank": 12,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 415561,
@@ -2699,14 +2723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 402437,
-      "num": 402437,
-      "word": "游客吐槽天津一奶茶品牌包装有不雅字",
-      "onboard_time": 1746413602,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
@@ -2724,7 +2740,7 @@
     },
     {
       "raw_hot": 397588,
-      "num": 397588,
+      "num": 404818,
       "word": "陈铭谈奇葩说停播原因",
       "onboard_time": 1746412401,
       "rank": 12,
@@ -2785,6 +2801,14 @@
       "onboard_time": 1746086662,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 392363,
+      "num": 392363,
+      "word": "小米汽车智驾更名为辅助驾驶",
+      "onboard_time": 1746412522,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 392130,
@@ -2849,14 +2873,6 @@
       "onboard_time": 1746161550,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381255,
-      "num": 381255,
-      "word": "小米汽车智驾更名为辅助驾驶",
-      "onboard_time": 1746412522,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 379497,
@@ -3097,6 +3113,14 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346776,
+      "num": 398528,
+      "word": "立夏是减肥的黄金起点",
+      "onboard_time": 1746411441,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 345775,
@@ -3355,14 +3379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 323860,
-      "num": 398528,
-      "word": "立夏是减肥的黄金起点",
-      "onboard_time": 1746411441,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 323675,
       "num": 276002,
       "word": "女子请病假追星被辞退起诉赔偿被驳",
@@ -3481,6 +3497,14 @@
       "onboard_time": 1746249021,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311703,
+      "num": 543925,
+      "word": "已有多所高中不再双休",
+      "onboard_time": 1746414503,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310526,
@@ -3731,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296022,
+      "num": 401767,
+      "word": "歌手",
+      "onboard_time": 1746413001,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295814,
       "num": 295814,
       "word": "丁禹兮 范思哲",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1746065659,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271467,
-      "num": 377914,
-      "word": "歌手",
-      "onboard_time": 1746413001,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 270440,
@@ -4473,6 +4497,14 @@
       "onboard_time": 1746259221,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238673,
+      "num": 238673,
+      "word": "情侣想改名惹怒老父亲",
+      "onboard_time": 1746415463,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 236913,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1746113003,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197650,
+      "num": 197650,
+      "word": "压下库里浮起希尔德",
+      "onboard_time": 1746414801,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 197423,
@@ -7003,6 +7043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175105,
+      "num": 175105,
+      "word": "苏醒出道十八年工龄才三五年",
+      "onboard_time": 1746415401,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174951,
       "num": 378288,
       "word": "打卡重庆荣昌政府机关食堂",
@@ -7145,14 +7193,6 @@
       "onboard_time": 1746105024,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171911,
-      "num": 171911,
-      "word": "压下库里浮起希尔德",
-      "onboard_time": 1746414801,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 171788,
@@ -7355,14 +7395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167082,
-      "num": 369245,
-      "word": "特朗普再发涉二战惊人言论",
-      "onboard_time": 1746414682,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167034,
       "num": 167034,
       "word": "极禹",
@@ -7409,6 +7441,14 @@
       "onboard_time": 1746071121,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166799,
+      "num": 166799,
+      "word": "奔跑吧后期特效没放过任何人",
+      "onboard_time": 1746415343,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 166706,
@@ -8155,6 +8195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155967,
+      "num": 155967,
+      "word": "巴基斯坦宣布禁止与印度进口贸易",
+      "onboard_time": 1746415401,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155695,
       "num": 155695,
       "word": "楚后",
@@ -8321,6 +8369,14 @@
       "onboard_time": 1746375741,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152542,
+      "num": 152542,
+      "word": "五一返程这些伴手礼不能上火车",
+      "onboard_time": 1746415164,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152444,
@@ -8867,6 +8923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145843,
+      "num": 145843,
+      "word": "库里第四节充满电了",
+      "onboard_time": 1746415762,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145584,
       "num": 147482,
       "word": "美国小企业被本国关税战打蒙了",
@@ -9008,6 +9072,14 @@
       "word": "金莎孙丞潇稳稳的幸福",
       "onboard_time": 1746284782,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143512,
+      "num": 143512,
+      "word": "爸爸当家",
+      "onboard_time": 1746415642,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -9545,14 +9617,6 @@
       "onboard_time": 1746198862,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136538,
-      "num": 397763,
-      "word": "已有多所高中不再双休",
-      "onboard_time": 1746414503,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136438,
@@ -10291,6 +10355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127641,
+      "num": 127641,
+      "word": "库里晚安",
+      "onboard_time": 1746415762,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127635,
       "num": 127635,
       "word": "武契奇因病中断访美",
@@ -10353,6 +10425,14 @@
       "onboard_time": 1746077360,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127079,
+      "num": 127079,
+      "word": "减肥虽难但成功后一定值得",
+      "onboard_time": 1746415583,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127018,
@@ -10577,6 +10657,14 @@
       "onboard_time": 1746192510,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125041,
+      "num": 125041,
+      "word": "我怀疑这西瓜是来报恩的",
+      "onboard_time": 1746412763,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 125018,
@@ -11435,14 +11523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113603,
-      "num": 113603,
-      "word": "我怀疑这西瓜是来报恩的",
-      "onboard_time": 1746412763,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 113206,
       "num": 113206,
       "word": "这都能让王俊凯闻出来",
@@ -11889,6 +11969,14 @@
       "onboard_time": 1746200300,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107530,
+      "num": 413294,
+      "word": "灵隐寺小卖部年租金260万引质疑",
+      "onboard_time": 1746415164,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107314,
@@ -12827,6 +12915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91771,
+      "num": 409422,
+      "word": "饿了么让五一假期的奶茶店忙疯了",
+      "onboard_time": 1746414080,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91746,
       "num": 112820,
       "word": "北京男篮vs山西男篮",
@@ -13348,7 +13444,7 @@
     },
     {
       "raw_hot": 81022,
-      "num": 205175,
+      "num": 224989,
       "word": "WAW剑网3玩家吃真好",
       "onboard_time": 1746414801,
       "rank": 29,
@@ -13819,14 +13915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 66486,
-      "num": 379480,
-      "word": "饿了么让五一假期的奶茶店忙疯了",
-      "onboard_time": 1746414080,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 66322,
       "num": 268507,
       "word": "石宇奇火力全开",
@@ -14140,7 +14228,7 @@
     },
     {
       "raw_hot": 58098,
-      "num": 206708,
+      "num": 218326,
       "word": "WAW真假纸嫁衣",
       "onboard_time": 1746414801,
       "rank": 28,
@@ -15177,6 +15265,14 @@
       "onboard_time": 1746258740,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 34138,
+      "num": 156512,
+      "word": "过期产品还能这样用",
+      "onboard_time": 1746414801,
+      "rank": 39,
+      "category": "美妆,民生新闻"
     },
     {
       "raw_hot": 34104,
@@ -16587,14 +16683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 9094,
-      "num": 141040,
-      "word": "过期产品还能这样用",
-      "onboard_time": 1746414801,
-      "rank": 39,
-      "category": "美妆,民生新闻"
-    },
-    {
       "raw_hot": 8273,
       "num": 57882,
       "word": "武契奇短期内将暂停工作",
@@ -16657,6 +16745,14 @@
       "onboard_time": 1746029661,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1285,
+      "num": 395232,
+      "word": "年轻人如何发展自己的投资哲学",
+      "onboard_time": 1746415282,
+      "rank": 18,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

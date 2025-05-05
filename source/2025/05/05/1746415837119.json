@@ -1,0 +1,410 @@
+{
+  "runTime": 1746415837119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994901,
+        "num": 1994901,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073713,
+        "num": 1073713,
+        "word": "九寨沟的调度能力太强了",
+        "onboard_time": 1746411501,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 827568,
+        "word": "网警藏蓝青春键指河山",
+        "onboard_time": 1746403761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808687,
+        "num": 808687,
+        "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+        "onboard_time": 1746413602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639010,
+        "num": 639010,
+        "word": "特朗普再发涉二战惊人言论",
+        "onboard_time": 1746414682,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 623696,
+        "num": 623696,
+        "word": "景区回应大量虫子往脖子里钻",
+        "onboard_time": 1746410782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623631,
+        "num": 623631,
+        "word": "周深罗云熙联合发声明",
+        "onboard_time": 1746411681,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 452880,
+        "num": 587889,
+        "word": "于正晒白鹿临江仙血泪照",
+        "onboard_time": 1746411262,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565993,
+        "num": 565993,
+        "word": "贵州游船倾覆事故已致9人死亡",
+        "onboard_time": 1746369864,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311703,
+        "num": 543925,
+        "word": "已有多所高中不再双休",
+        "onboard_time": 1746414503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703230,
+        "num": 541747,
+        "word": "13岁女孩动漫直播间被骗购软色情玩具",
+        "onboard_time": 1746413901,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524883,
+        "num": 524883,
+        "word": "勇士vs火箭",
+        "onboard_time": 1746410241,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416343,
+        "num": 416343,
+        "word": "孙颖莎嘉人封面释出",
+        "onboard_time": 1746415164,
+        "rank": 12,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 107530,
+        "num": 413294,
+        "word": "灵隐寺小卖部年租金260万引质疑",
+        "onboard_time": 1746415164,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91771,
+        "num": 409422,
+        "word": "饿了么让五一假期的奶茶店忙疯了",
+        "onboard_time": 1746414080,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341382,
+        "num": 404818,
+        "word": "陈铭谈奇葩说停播原因",
+        "onboard_time": 1746412401,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296022,
+        "num": 401767,
+        "word": "歌手",
+        "onboard_time": 1746413001,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222132,
+        "num": 396455,
+        "word": "张云龙沈月又吵起来了",
+        "onboard_time": 1746372923,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1285,
+        "num": 395232,
+        "word": "年轻人如何发展自己的投资哲学",
+        "onboard_time": 1746415282,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392363,
+        "num": 392363,
+        "word": "小米汽车智驾更名为辅助驾驶",
+        "onboard_time": 1746412522,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 346776,
+        "num": 346776,
+        "word": "立夏是减肥的黄金起点",
+        "onboard_time": 1746411441,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 331404,
+        "num": 331404,
+        "word": "胡宇桐 我资源不行法务还行",
+        "onboard_time": 1746411380,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312717,
+        "num": 312717,
+        "word": "特朗普又又又提吞并加拿大",
+        "onboard_time": 1746402499,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263278,
+        "num": 263278,
+        "word": "孙颖莎立夏海报",
+        "onboard_time": 1746412820,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238673,
+        "num": 238673,
+        "word": "情侣想改名惹怒老父亲",
+        "onboard_time": 1746415463,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195702,
+        "num": 237787,
+        "word": "虞书欣加盟是女儿是妈妈2",
+        "onboard_time": 1746401058,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195321,
+        "num": 230063,
+        "word": "张睿李晟同框",
+        "onboard_time": 1746407300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57060,
+        "num": 224989,
+        "word": "WAW剑网3玩家吃真好",
+        "onboard_time": 1746414801,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53036,
+        "num": 218326,
+        "word": "WAW真假纸嫁衣",
+        "onboard_time": 1746414801,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217628,
+        "num": 217628,
+        "word": "美国恶魔岛监狱将重新启用",
+        "onboard_time": 1746412102,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206782,
+        "num": 206782,
+        "word": "翔霖",
+        "onboard_time": 1746414682,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "景区突现大量虫子已用灭虫剂处理",
+        "onboard_time": 1746412522,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197650,
+        "num": 197650,
+        "word": "压下库里浮起希尔德",
+        "onboard_time": 1746414801,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196576,
+        "num": 196576,
+        "word": "王鹤棣为新角色修了细眉",
+        "onboard_time": 1746411563,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175105,
+        "num": 175105,
+        "word": "苏醒出道十八年工龄才三五年",
+        "onboard_time": 1746415401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175033,
+        "num": 175033,
+        "word": "180斤女子减重65斤后感叹人生美好",
+        "onboard_time": 1746405800,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169510,
+        "num": 169510,
+        "word": "弃养父亲病逝儿子与继母争遗产",
+        "onboard_time": 1746410181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 166799,
+        "word": "奔跑吧后期特效没放过任何人",
+        "onboard_time": 1746415343,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160937,
+        "num": 160937,
+        "word": "张韶涵演唱会不慎摔倒",
+        "onboard_time": 1746412040,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34138,
+        "num": 156512,
+        "word": "过期产品还能这样用",
+        "onboard_time": 1746414801,
+        "rank": 39,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "刑警的日子今日开播",
+        "onboard_time": 1746414080,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155967,
+        "num": 155967,
+        "word": "巴基斯坦宣布禁止与印度进口贸易",
+        "onboard_time": 1746415401,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152542,
+        "num": 152542,
+        "word": "五一返程这些伴手礼不能上火车",
+        "onboard_time": 1746415164,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147833,
+        "num": 147833,
+        "word": "程潇妈妈乳腺癌手术没告诉女儿",
+        "onboard_time": 1746402019,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "库里第四节充满电了",
+        "onboard_time": 1746415762,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143512,
+        "num": 143512,
+        "word": "爸爸当家",
+        "onboard_time": 1746415642,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138876,
+        "num": 138876,
+        "word": "立夏",
+        "onboard_time": 1746404420,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127641,
+        "num": 127641,
+        "word": "库里晚安",
+        "onboard_time": 1746415762,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127079,
+        "num": 127079,
+        "word": "减肥虽难但成功后一定值得",
+        "onboard_time": 1746415583,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125041,
+        "num": 125041,
+        "word": "我怀疑这西瓜是来报恩的",
+        "onboard_time": 1746412763,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对新时代青年寄予殷切期望#"
+    }
+  }
+}
