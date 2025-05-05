@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746427808098,
+  "endTime": 1746429944689,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1078733,
-      "num": 655272,
+      "num": 675656,
       "word": "韩国爱豆多次在公开场合求救",
       "onboard_time": 1746421040,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801193,
+      "num": 801193,
+      "word": "柯淳工作室",
+      "onboard_time": 1746427403,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787561,
       "num": 787561,
       "word": "明天上班进公司大门的我",
@@ -163,12 +171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 717969,
+      "num": 409532,
+      "word": "韩安冉老公片酬",
+      "onboard_time": 1746424942,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 705285,
       "num": 705285,
       "word": "周深罗云熙联合发声明",
       "onboard_time": 1746411681,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 676084,
+      "num": 381707,
+      "word": "谁能管管商场厕所",
+      "onboard_time": 1746427160,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 667480,
@@ -179,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 665540,
-      "num": 409532,
-      "word": "韩安冉老公片酬",
-      "onboard_time": 1746424942,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 658507,
       "num": 264727,
       "word": "鹿哈老婆晒婚纱照",
       "onboard_time": 1746375081,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 650235,
+      "num": 650235,
+      "word": "泰山两游客翻越护栏险坠崖",
+      "onboard_time": 1746424342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 649025,
@@ -411,14 +435,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 382272,
-      "num": 382272,
-      "word": "泰山两游客翻越护栏险坠崖",
-      "onboard_time": 1746424342,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 373000,
       "num": 373000,
       "word": "严浩翔姐姐来了",
@@ -465,6 +481,14 @@
       "onboard_time": 1746411441,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 346626,
+      "num": 346626,
+      "word": "黄宗泽新剧天崩开局",
+      "onboard_time": 1746426502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 334211,
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216059,
+      "num": 210916,
+      "word": "华晨宇用2000架无人机复刻日出",
+      "onboard_time": 1746428601,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215946,
       "num": 215946,
       "word": "雷军小米之家职务变更",
@@ -721,14 +753,6 @@
       "onboard_time": 1746425663,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210862,
-      "num": 228531,
-      "word": "黄宗泽新剧天崩开局",
-      "onboard_time": 1746426502,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 209557,
@@ -803,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205132,
-      "num": 205132,
-      "word": "柯淳工作室",
-      "onboard_time": 1746427403,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203274,
       "num": 279686,
       "word": "华晨宇嘴巴在笑眼睛在哭",
@@ -833,6 +849,14 @@
       "onboard_time": 1746414080,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200159,
+      "num": 200159,
+      "word": "这是我的西游",
+      "onboard_time": 1746426081,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 198957,
@@ -915,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194579,
+      "num": 222782,
+      "word": "谢霆锋妹妹谢婷婷晒二胎喜讯",
+      "onboard_time": 1746424583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194145,
       "num": 266652,
       "word": "奔跑吧后期特效没放过任何人",
@@ -945,14 +977,6 @@
       "onboard_time": 1746417563,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186613,
-      "num": 186613,
-      "word": "谁能管管商场厕所",
-      "onboard_time": 1746427160,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 184259,
@@ -1009,22 +1033,6 @@
       "onboard_time": 1746375501,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174100,
-      "num": 174100,
-      "word": "这是我的西游",
-      "onboard_time": 1746426081,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172996,
-      "num": 172996,
-      "word": "谢霆锋妹妹谢婷婷晒二胎喜讯",
-      "onboard_time": 1746424583,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 168383,
@@ -1355,6 +1363,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127578,
+      "num": 208202,
+      "word": "震撼空对空视角看中国战机飞越雪山",
+      "onboard_time": 1746427881,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127294,
       "num": 204330,
       "word": "英国闺蜜与全红婵的跨国友情",
@@ -1459,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115474,
+      "num": 115474,
+      "word": "新复仇者联盟",
+      "onboard_time": 1746428421,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114647,
       "num": 114647,
       "word": "南京明孝陵石兽骆驼被写到此一游",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1746372624,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112093,
+      "num": 112093,
+      "word": "故事鲜艳而缘分却太浅",
+      "onboard_time": 1746428060,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 111280,
@@ -1539,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107130,
+      "num": 107130,
+      "word": "这演唱会啊还以为歌手竞演现场呢",
+      "onboard_time": 1746429681,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "特朗普称考虑用武力占领格陵兰岛",
@@ -1552,6 +1592,30 @@
       "word": "F1",
       "onboard_time": 1746410301,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103979,
+      "num": 103979,
+      "word": "杨丞琳万人喊安可现场",
+      "onboard_time": 1746428180,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 101474,
+      "num": 101474,
+      "word": "敖瑞鹏好事都想着刘学义",
+      "onboard_time": 1746429142,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101418,
+      "num": 101418,
+      "word": "库里在认真的老去",
+      "onboard_time": 1746429861,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1577,6 +1641,14 @@
       "onboard_time": 1746424342,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100185,
+      "num": 216665,
+      "word": "景区回应游客翻越护栏称将加强监管",
+      "onboard_time": 1746428542,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100024,
@@ -1619,6 +1691,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96854,
+      "num": 96854,
+      "word": "黄景瑜为新剧配音哭红眼",
+      "onboard_time": 1746429919,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96652,
+      "num": 96652,
+      "word": "二手平台一盒撕拉片相纸价格涨到2000元",
+      "onboard_time": 1746429441,
+      "rank": 47,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 96211,
       "num": 306228,
       "word": "景区回应上海欢乐谷火灾无伤亡",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1746370645,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94605,
+      "num": 94605,
+      "word": "五一档电影票房破7亿",
+      "onboard_time": 1746429861,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 91644,
@@ -1851,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56289,
+      "num": 220891,
+      "word": "特朗普吹嘘经济好部分归他坏部分归拜登",
+      "onboard_time": 1746429500,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54661,
       "num": 366249,
       "word": "医院违规做试管遭质疑后嚣张回应",
@@ -1993,6 +2097,14 @@
       "onboard_time": 1746422001,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 31570,
+      "num": 214892,
+      "word": "特朗普抨击华尔街日报为烂报纸",
+      "onboard_time": 1746429681,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29687,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1746429944689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301220,
+        "num": 1301220,
+        "word": "贵州游船倾覆最后一名失联人员被找到",
+        "onboard_time": 1746423442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801193,
+        "num": 801193,
+        "word": "柯淳工作室",
+        "onboard_time": 1746427403,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105905,
+        "num": 680738,
+        "word": "小小票根带来多元消费体验",
+        "onboard_time": 1746417263,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876261,
+        "num": 675656,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650235,
+        "num": 650235,
+        "word": "泰山两游客翻越护栏险坠崖",
+        "onboard_time": 1746424342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552332,
+        "num": 552332,
+        "word": "游客感谢女船长带全船人逃过一劫",
+        "onboard_time": 1746424221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652503,
+        "num": 540297,
+        "word": "全员加速中",
+        "onboard_time": 1746425541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491116,
+        "num": 491116,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448104,
+        "num": 448104,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403884,
+        "num": 403884,
+        "word": "51岁阿姨月薪1710元的独居生活",
+        "onboard_time": 1746421162,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 717969,
+        "num": 383937,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 676084,
+        "num": 381707,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 533191,
+        "num": 374036,
+        "word": "白鹿接触LV",
+        "onboard_time": 1746423563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352025,
+        "num": 352025,
+        "word": "娱乐圈 瘦气",
+        "onboard_time": 1746415821,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346626,
+        "num": 346626,
+        "word": "黄宗泽新剧天崩开局",
+        "onboard_time": 1746426502,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308322,
+        "num": 308322,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239288,
+        "num": 239288,
+        "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+        "onboard_time": 1746413602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223582,
+        "num": 223582,
+        "word": "赵丽颖立夏新发色",
+        "onboard_time": 1746422901,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194579,
+        "num": 222782,
+        "word": "谢霆锋妹妹谢婷婷晒二胎喜讯",
+        "onboard_time": 1746424583,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56289,
+        "num": 220891,
+        "word": "特朗普吹嘘经济好部分归他坏部分归拜登",
+        "onboard_time": 1746429500,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346060,
+        "num": 219631,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100185,
+        "num": 216665,
+        "word": "景区回应游客翻越护栏称将加强监管",
+        "onboard_time": 1746428542,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31570,
+        "num": 214892,
+        "word": "特朗普抨击华尔街日报为烂报纸",
+        "onboard_time": 1746429681,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214504,
+        "num": 214504,
+        "word": "贵州4艘游船倾覆10人遇难",
+        "onboard_time": 1746369864,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318558,
+        "num": 212051,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216059,
+        "num": 210916,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127578,
+        "num": 208202,
+        "word": "震撼空对空视角看中国战机飞越雪山",
+        "onboard_time": 1746427881,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208004,
+        "num": 208004,
+        "word": "小鸡小鸡是王蓉唯一一首赚钱的歌",
+        "onboard_time": 1746425663,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 200159,
+        "word": "这是我的西游",
+        "onboard_time": 1746426081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172710,
+        "num": 172710,
+        "word": "撕拉片",
+        "onboard_time": 1746424523,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164428,
+        "num": 164428,
+        "word": "贵州游船倾覆时有人没穿救生衣",
+        "onboard_time": 1746423981,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 149508,
+        "num": 149508,
+        "word": "明天上班进公司大门的我",
+        "onboard_time": 1746418342,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148061,
+        "num": 148061,
+        "word": "小猫悟空去世仍有多个疑点",
+        "onboard_time": 1746420922,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145286,
+        "num": 145286,
+        "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
+        "onboard_time": 1746423381,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143600,
+        "num": 143600,
+        "word": "欧尼熊",
+        "onboard_time": 1746422843,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136861,
+        "num": 136861,
+        "word": "中医建议立夏后晚睡早起",
+        "onboard_time": 1746422901,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "作家周晴病逝",
+        "onboard_time": 1746426982,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 126413,
+        "num": 126413,
+        "word": "13岁女孩动漫直播间被骗购软色情玩具",
+        "onboard_time": 1746413901,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124549,
+        "num": 124549,
+        "word": "严浩翔姐姐来了",
+        "onboard_time": 1746419243,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116616,
+        "num": 116616,
+        "word": "今年还剩11天假期",
+        "onboard_time": 1746425720,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115474,
+        "num": 115474,
+        "word": "新复仇者联盟",
+        "onboard_time": 1746428421,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112093,
+        "num": 112093,
+        "word": "故事鲜艳而缘分却太浅",
+        "onboard_time": 1746428060,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107130,
+        "num": 107130,
+        "word": "这演唱会啊还以为歌手竞演现场呢",
+        "onboard_time": 1746429681,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103979,
+        "num": 103979,
+        "word": "杨丞琳万人喊安可现场",
+        "onboard_time": 1746428180,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101474,
+        "num": 101474,
+        "word": "敖瑞鹏好事都想着刘学义",
+        "onboard_time": 1746429142,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101418,
+        "num": 101418,
+        "word": "库里在认真的老去",
+        "onboard_time": 1746429861,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96854,
+        "num": 96854,
+        "word": "黄景瑜为新剧配音哭红眼",
+        "onboard_time": 1746429919,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96652,
+        "num": 96652,
+        "word": "二手平台一盒撕拉片相纸价格涨到2000元",
+        "onboard_time": 1746429441,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 95061,
+        "num": 95061,
+        "word": "欧豪张佳宁一搭be二搭直达婚礼",
+        "onboard_time": 1746424101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94605,
+        "num": 94605,
+        "word": "五一档电影票房破7亿",
+        "onboard_time": 1746429861,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
