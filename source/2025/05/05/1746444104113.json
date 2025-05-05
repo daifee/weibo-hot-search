@@ -1,0 +1,410 @@
+{
+  "runTime": 1746444104113,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831155,
+        "num": 1132984,
+        "word": "晨宇炒饭被吃掉3吨",
+        "onboard_time": 1746437541,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 588589,
+        "num": 588589,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257524,
+        "num": 365600,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 807527,
+        "num": 361632,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334411,
+        "num": 334411,
+        "word": "刘国梁卸任后对王励勤说了这句话",
+        "onboard_time": 1746437602,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320968,
+        "num": 320968,
+        "word": "台湾花莲海域5.7级地震",
+        "onboard_time": 1746443781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619251,
+        "num": 319707,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514373,
+        "num": 318089,
+        "word": "李惠利百想红毯新闻图",
+        "onboard_time": 1746440481,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485904,
+        "num": 315636,
+        "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+        "onboard_time": 1746439341,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186625,
+        "num": 314335,
+        "word": "男患子宫肌瘤论文打了谁的脸",
+        "onboard_time": 1746442460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786753,
+        "num": 312981,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386958,
+        "num": 311133,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360863,
+        "num": 308989,
+        "word": "这是我的西游直播",
+        "onboard_time": 1746440781,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302874,
+        "num": 307493,
+        "word": "警方通报小型汽车坠河致1人死亡",
+        "onboard_time": 1746439460,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 306499,
+        "num": 306499,
+        "word": "允儿跳likejennie",
+        "onboard_time": 1746438382,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295053,
+        "num": 303419,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 303416,
+        "num": 303416,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296416,
+        "num": 296416,
+        "word": "齐鲁医院护士霍某某受处分",
+        "onboard_time": 1746442940,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269333,
+        "num": 269333,
+        "word": "特朗普爆欧盟领导人打不通普京电话",
+        "onboard_time": 1746432320,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255681,
+        "num": 255681,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 995582,
+        "num": 252948,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298251,
+        "num": 252484,
+        "word": "林心如霍建华带女儿看电影",
+        "onboard_time": 1746443058,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236258,
+        "num": 236258,
+        "word": "警方通报男子不挂车牌超车撞人",
+        "onboard_time": 1746435740,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 227525,
+        "num": 227525,
+        "word": "楚后",
+        "onboard_time": 1746441740,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222053,
+        "num": 222053,
+        "word": "百想红毯",
+        "onboard_time": 1746437841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200286,
+        "num": 200286,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199109,
+        "num": 199109,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189918,
+        "num": 189918,
+        "word": "韩维辰金宣虎wink",
+        "onboard_time": 1746442881,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184379,
+        "num": 184379,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45696,
+        "num": 183380,
+        "word": "卡琳娜宠粉有的是力气手段",
+        "onboard_time": 1746443301,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183250,
+        "num": 183250,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171506,
+        "num": 171506,
+        "word": "宋慧乔比心",
+        "onboard_time": 1746443362,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167877,
+        "num": 167877,
+        "word": "生命树杨紫路透",
+        "onboard_time": 1746442521,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149738,
+        "num": 149738,
+        "word": "金价涨回3300美元",
+        "onboard_time": 1746443721,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145840,
+        "num": 145840,
+        "word": "女生cos国漫角色被男子指责穿和服",
+        "onboard_time": 1746437602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "张真源直拍简直是Daddy级别",
+        "onboard_time": 1746443781,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135629,
+        "num": 135629,
+        "word": "这就是有温度的中国排面",
+        "onboard_time": 1746441441,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 135086,
+        "num": 135086,
+        "word": "王一博托腮连拍",
+        "onboard_time": 1746442521,
+        "rank": 37,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 128462,
+        "num": 128462,
+        "word": "费启鸣拍了撕拉片",
+        "onboard_time": 1746443240,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126136,
+        "num": 126136,
+        "word": "宠物结婚比我结婚还有仪式感",
+        "onboard_time": 1746440601,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123815,
+        "num": 123815,
+        "word": "乳腺癌最小患者仅有3岁",
+        "onboard_time": 1746432740,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114886,
+        "num": 114886,
+        "word": "我国首批五座9000吨气膜粮仓充气成型",
+        "onboard_time": 1746440720,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114590,
+        "num": 114590,
+        "word": "靡言选角",
+        "onboard_time": 1746441501,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111378,
+        "num": 111378,
+        "word": "冯彦哲回应黄东萍",
+        "onboard_time": 1746443721,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110212,
+        "num": 110212,
+        "word": "73岁普京每天健身1.5小时",
+        "onboard_time": 1746431541,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108792,
+        "num": 108792,
+        "word": "阿诺德加盟皇马",
+        "onboard_time": 1746437900,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107338,
+        "num": 107338,
+        "word": "刘学义兰香如故造型",
+        "onboard_time": 1746439640,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101195,
+        "num": 101195,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100606,
+        "num": 100606,
+        "word": "老人被狗扑倒致死法院判赔40万",
+        "onboard_time": 1746437781,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99382,
+        "num": 99382,
+        "word": "李惠利麻花辫",
+        "onboard_time": 1746441560,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746441927042,
+  "endTime": 1746444104113,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 831155,
+      "num": 1132984,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 824688,
       "num": 824688,
       "word": "五四晚会",
@@ -361,6 +369,14 @@
       "onboard_time": 1746330981,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 807527,
+      "num": 1119199,
+      "word": "华晨宇用2000架无人机复刻日出",
+      "onboard_time": 1746428601,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 801193,
@@ -425,14 +441,6 @@
       "onboard_time": 1746358402,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 772330,
-      "num": 1119199,
-      "word": "华晨宇用2000架无人机复刻日出",
-      "onboard_time": 1746428601,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 770665,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588589,
+      "num": 588589,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584408,
       "num": 374850,
       "word": "黄子韬称做卫生巾投了几个亿",
@@ -745,14 +761,6 @@
       "onboard_time": 1746322340,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 567610,
-      "num": 567610,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 564353,
@@ -851,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 514373,
+      "num": 318089,
+      "word": "李惠利百想红毯新闻图",
+      "onboard_time": 1746440481,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514332,
       "num": 524846,
       "word": "气象部门回应西安雷雨夜不明飞行物",
@@ -915,12 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 484899,
-      "num": 372752,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 485904,
+      "num": 364903,
+      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+      "onboard_time": 1746439341,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 483762,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1746415164,
       "rank": 12,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 457780,
-      "num": 364903,
-      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
-      "onboard_time": 1746439341,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 455693,
@@ -1467,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320968,
+      "num": 320968,
+      "word": "台湾花莲海域5.7级地震",
+      "onboard_time": 1746443781,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
@@ -1547,6 +1563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303416,
+      "num": 303416,
+      "word": "IU白裙盘发",
+      "onboard_time": 1746443601,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302874,
+      "num": 368571,
+      "word": "警方通报小型汽车坠河致1人死亡",
+      "onboard_time": 1746439460,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 302325,
       "num": 302325,
       "word": "DRG战胜WB",
@@ -1587,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298251,
+      "num": 252484,
+      "word": "林心如霍建华带女儿看电影",
+      "onboard_time": 1746443058,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297403,
       "num": 291881,
       "word": "弃养父亲病逝儿子与继母争遗产",
@@ -1600,6 +1640,14 @@
       "word": "滕州",
       "onboard_time": 1746435023,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296416,
+      "num": 296416,
+      "word": "齐鲁医院护士霍某某受处分",
+      "onboard_time": 1746442940,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1761,14 +1809,6 @@
       "onboard_time": 1746366025,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 261817,
-      "num": 174056,
-      "word": "李惠利百想红毯新闻图",
-      "onboard_time": 1746440481,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 258194,
@@ -2017,6 +2057,14 @@
       "onboard_time": 1746332060,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227525,
+      "num": 227525,
+      "word": "楚后",
+      "onboard_time": 1746441740,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 227476,
@@ -2491,12 +2539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200286,
+      "num": 200286,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199979,
       "num": 199979,
       "word": "王鹤棣咸鱼飞升生图路透",
       "onboard_time": 1746437541,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199109,
+      "num": 199109,
+      "word": "蒋奇明演技",
+      "onboard_time": 1746443481,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 199078,
@@ -2771,6 +2835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189918,
+      "num": 189918,
+      "word": "韩维辰金宣虎wink",
+      "onboard_time": 1746442881,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189519,
       "num": 333967,
       "word": "我们是新时代中国青年",
@@ -2827,6 +2899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186625,
+      "num": 314335,
+      "word": "男患子宫肌瘤论文打了谁的脸",
+      "onboard_time": 1746442460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186184,
       "num": 186184,
       "word": "孙怡人鱼公主发色",
@@ -2875,12 +2955,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 182798,
-      "num": 368571,
-      "word": "警方通报小型汽车坠河致1人死亡",
-      "onboard_time": 1746439460,
-      "rank": 31,
-      "category": "辟谣/通报"
+      "raw_hot": 183250,
+      "num": 183250,
+      "word": "写了四天作业发现忘装笔芯",
+      "onboard_time": 1746442701,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 182317,
@@ -3115,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171506,
+      "num": 171506,
+      "word": "宋慧乔比心",
+      "onboard_time": 1746443362,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171197,
       "num": 171197,
       "word": "贵州游船侧翻约70人落水目击者发声",
@@ -3169,6 +3257,14 @@
       "onboard_time": 1746318920,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 167877,
+      "num": 167877,
+      "word": "生命树杨紫路透",
+      "onboard_time": 1746442521,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167198,
@@ -3627,6 +3723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149738,
+      "num": 149738,
+      "word": "金价涨回3300美元",
+      "onboard_time": 1746443721,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149468,
       "num": 96585,
       "word": "贺峻霖来电了",
@@ -3947,6 +4051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "张真源直拍简直是Daddy级别",
+      "onboard_time": 1746443781,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139389,
       "num": 139389,
       "word": "宋亚轩那女孩对我说",
@@ -4059,12 +4171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135629,
+      "num": 135629,
+      "word": "这就是有温度的中国排面",
+      "onboard_time": 1746441441,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 135123,
       "num": 149496,
       "word": "斯诺克世锦赛",
       "onboard_time": 1746368064,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135086,
+      "num": 135086,
+      "word": "王一博托腮连拍",
+      "onboard_time": 1746442521,
+      "rank": 37,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 134867,
@@ -4153,14 +4281,6 @@
       "onboard_time": 1746441680,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130911,
-      "num": 130911,
-      "word": "这就是有温度的中国排面",
-      "onboard_time": 1746441441,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 130791,
@@ -4259,6 +4379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128462,
+      "num": 128462,
+      "word": "费启鸣拍了撕拉片",
+      "onboard_time": 1746443240,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128366,
       "num": 128366,
       "word": "巴菲特正式宣布接班人",
@@ -4353,6 +4481,14 @@
       "onboard_time": 1746329421,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126136,
+      "num": 126136,
+      "word": "宠物结婚比我结婚还有仪式感",
+      "onboard_time": 1746440601,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 125562,
@@ -4555,14 +4691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120008,
-      "num": 120008,
-      "word": "楚后",
-      "onboard_time": 1746441740,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118993,
       "num": 118993,
       "word": "抚仙湖",
@@ -4683,12 +4811,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114886,
+      "num": 114886,
+      "word": "我国首批五座9000吨气膜粮仓充气成型",
+      "onboard_time": 1746440720,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114705,
       "num": 114705,
       "word": "苏杯中国vs韩国对阵公布",
       "onboard_time": 1746329001,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114590,
+      "num": 114590,
+      "word": "靡言选角",
+      "onboard_time": 1746441501,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 114488,
@@ -4827,20 +4971,20 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 111378,
+      "num": 111378,
+      "word": "冯彦哲回应黄东萍",
+      "onboard_time": 1746443721,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111243,
       "num": 111243,
       "word": "杭州西湖边的大屏也申请五一休假了",
       "onboard_time": 1746319940,
       "rank": 37,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 111124,
-      "num": 111124,
-      "word": "我国首批五座9000吨气膜粮仓充气成型",
-      "onboard_time": 1746440720,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111004,
@@ -4929,14 +5073,6 @@
       "onboard_time": 1746289940,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107391,
-      "num": 107391,
-      "word": "靡言选角",
-      "onboard_time": 1746441501,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 107314,
@@ -6065,6 +6201,14 @@
       "onboard_time": 1746336741,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45696,
+      "num": 183380,
+      "word": "卡琳娜宠粉有的是力气手段",
+      "onboard_time": 1746443301,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 44823,
