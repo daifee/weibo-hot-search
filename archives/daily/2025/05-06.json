@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746487436480,
+  "endTime": 1746488384841,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -19,12 +19,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1279875,
-      "num": 1279875,
+      "raw_hot": 1434901,
+      "num": 1434901,
       "word": "赵心童夺世锦赛冠军",
       "onboard_time": 1746474616,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1112871,
+      "num": 704441,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1006491,
@@ -35,16 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 953594,
-      "num": 704441,
-      "word": "印度不允许一滴水流向巴基斯坦",
-      "onboard_time": 1746454402,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 760794,
-      "num": 128366,
+      "num": 183316,
       "word": "身上这种小红点可能是血管瘤",
       "onboard_time": 1746480615,
       "rank": 30,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528086,
+      "num": 528086,
+      "word": "订8万婚宴被酒店经理私吞4.5万",
+      "onboard_time": 1746468197,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475933,
       "num": 475933,
       "word": "王奕解约",
@@ -83,12 +91,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 376359,
-      "num": 376359,
-      "word": "订8万婚宴被酒店经理私吞4.5万",
-      "onboard_time": 1746468197,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 431183,
+      "num": 431183,
+      "word": "短剧女演员杨珊子拍戏遇极端天气",
+      "onboard_time": 1746459081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389664,
+      "num": 314141,
+      "word": "特朗普继续开辟关税新战场",
+      "onboard_time": 1746485358,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 371673,
@@ -99,12 +115,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 326213,
-      "num": 326213,
-      "word": "短剧女演员杨珊子拍戏遇极端天气",
-      "onboard_time": 1746459081,
-      "rank": 24,
+      "raw_hot": 333156,
+      "num": 310951,
+      "word": "张杰直播为谢娜庆生",
+      "onboard_time": 1746486499,
+      "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319841,
+      "num": 319841,
+      "word": "MetGala",
+      "onboard_time": 1746487279,
+      "rank": 23,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 310232,
@@ -113,6 +137,14 @@
       "onboard_time": 1746457225,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309757,
+      "num": 309757,
+      "word": "Jennie第三次参加MetGala",
+      "onboard_time": 1746487099,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 309026,
@@ -136,6 +168,14 @@
       "word": "赵心童vs威廉姆斯",
       "onboard_time": 1746447383,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300580,
+      "num": 300580,
+      "word": "赵心童夺冠刷爆多项纪录",
+      "onboard_time": 1746486499,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -171,12 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220419,
-      "num": 203709,
-      "word": "张杰直播为谢娜庆生",
-      "onboard_time": 1746486499,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 227438,
+      "num": 1105669,
+      "word": "五一假期全国消费市场数据来了",
+      "onboard_time": 1746449783,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 224016,
+      "num": 224016,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 209359,
@@ -187,20 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202245,
-      "num": 202245,
-      "word": "特朗普继续开辟关税新战场",
-      "onboard_time": 1746485358,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 192790,
-      "num": 192790,
-      "word": "Jennie第三次参加MetGala",
-      "onboard_time": 1746487099,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 194947,
+      "num": 117685,
+      "word": "孙红雷祝贺赵心童夺冠",
+      "onboard_time": 1746487340,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 192659,
@@ -209,14 +249,6 @@
       "onboard_time": 1746449601,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190499,
-      "num": 190499,
-      "word": "胖东来玉石产品抽检全合规",
-      "onboard_time": 1746455065,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 186484,
@@ -235,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184190,
-      "num": 1105669,
-      "word": "五一假期全国消费市场数据来了",
-      "onboard_time": 1746449783,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 183262,
+      "num": 301424,
+      "word": "赵心童邀请女朋友上台",
+      "onboard_time": 1746487759,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183123,
+      "num": 183123,
+      "word": "一觉醒来斯诺克历史被中国人刷新",
+      "onboard_time": 1746486739,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 181870,
@@ -251,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181867,
-      "num": 181867,
-      "word": "赵心童夺冠刷爆多项纪录",
+      "raw_hot": 172973,
+      "num": 204739,
+      "word": "特朗普关税谈判模板计划受挫",
       "onboard_time": 1746486499,
-      "rank": 16,
-      "category": "体育"
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165570,
@@ -283,12 +323,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147129,
+      "num": 147129,
+      "word": "芒果待播节目 石凯镜头",
+      "onboard_time": 1746487279,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141561,
       "num": 114132,
       "word": "王奕连一口饭都咽不下去了",
       "onboard_time": 1746459621,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141306,
+      "num": 141306,
+      "word": "这种网红玩具正在毒害你的孩子",
+      "onboard_time": 1746455121,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130484,
@@ -299,16 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128999,
-      "num": 128999,
-      "word": "一觉醒来斯诺克历史被中国人刷新",
-      "onboard_time": 1746486739,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126719,
-      "num": 126719,
+      "raw_hot": 126911,
+      "num": 126911,
       "word": "接亲路上国家给刷了个大火箭",
       "onboard_time": 1746459382,
       "rank": 26,
@@ -323,12 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118604,
-      "num": 118604,
-      "word": "MetGala",
-      "onboard_time": 1746487279,
-      "rank": 23,
-      "category": "时尚,作品衍生"
+      "raw_hot": 123247,
+      "num": 128388,
+      "word": "田曦薇我支持五一假期延长",
+      "onboard_time": 1746486499,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 118505,
@@ -339,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114984,
-      "num": 114984,
-      "word": "这种网红玩具正在毒害你的孩子",
-      "onboard_time": 1746455121,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 115190,
+      "num": 115190,
+      "word": "金价",
+      "onboard_time": 1746446721,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 107806,
@@ -353,22 +401,6 @@
       "onboard_time": 1746452903,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103120,
-      "num": 204739,
-      "word": "特朗普关税谈判模板计划受挫",
-      "onboard_time": 1746486499,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 100661,
-      "num": 100661,
-      "word": "金价",
-      "onboard_time": 1746446721,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 99989,
@@ -459,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83489,
-      "num": 83489,
-      "word": "孙红雷祝贺赵心童夺冠",
-      "onboard_time": 1746487340,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83049,
       "num": 86597,
       "word": "崔康熙 下课",
@@ -483,6 +507,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79521,
+      "num": 79521,
+      "word": "网友挖出更多离谱医学论文",
+      "onboard_time": 1746455603,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75726,
+      "num": 75726,
+      "word": "西安一男子当街踢打妻子引公愤",
+      "onboard_time": 1746488059,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74832,
       "num": 74832,
       "word": "薛小婉任权要领证了",
@@ -497,14 +537,6 @@
       "onboard_time": 1746458422,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74420,
-      "num": 74420,
-      "word": "网友挖出更多离谱医学论文",
-      "onboard_time": 1746455603,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70817,
@@ -531,11 +563,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65766,
-      "num": 65766,
+      "raw_hot": 67715,
+      "num": 67715,
       "word": "陈建斌蒋勤勤带儿子逛环球影城",
       "onboard_time": 1746480434,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67183,
+      "num": 67183,
+      "word": "田曦薇真不把我们当外人",
+      "onboard_time": 1746487759,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -555,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62030,
-      "num": 62030,
-      "word": "芒果待播节目 石凯镜头",
-      "onboard_time": 1746487279,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61509,
       "num": 61509,
       "word": "五一环游记",
@@ -571,24 +603,24 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 60729,
-      "num": 128388,
-      "word": "田曦薇我支持五一假期延长",
-      "onboard_time": 1746486499,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 57162,
-      "num": 57162,
+      "raw_hot": 60693,
+      "num": 60693,
       "word": "七月初七淮水竹亭就此作罢",
       "onboard_time": 1746472814,
       "rank": 33,
       "category": "剧集"
     },
     {
+      "raw_hot": 57375,
+      "num": 57375,
+      "word": "赵心童说今晚要喝一杯",
+      "onboard_time": 1746488301,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56902,
-      "num": 56902,
+      "num": 183477,
       "word": "王奕和丝芭传媒打官司",
       "onboard_time": 1746465198,
       "rank": 35,
@@ -663,6 +695,14 @@
       "num": 44075,
       "word": "88岁院士说就是要跟美国人争口气",
       "onboard_time": 1746473055,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16378,
+      "num": 319771,
+      "word": "94岁加拿大采购商参加过69届广交会",
+      "onboard_time": 1746487939,
       "rank": 9,
       "category": "国内时政"
     },
