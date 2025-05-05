@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746411764905,
+  "endTime": 1746415100319,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1868480,
+      "num": 1868480,
+      "word": "医院违规为单身女性做试管婴儿",
+      "onboard_time": 1746412102,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1338939,
       "num": 1338939,
       "word": "上海欢乐谷失火被游客误认节目效果",
       "onboard_time": 1746401418,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1284682,
+      "num": 1284682,
+      "word": "九寨沟的调度能力太强了",
+      "onboard_time": 1746411501,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 1054307,
@@ -51,12 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770665,
+      "num": 770665,
+      "word": "景区回应大量虫子往脖子里钻",
+      "onboard_time": 1746410782,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 733165,
       "num": 733165,
       "word": "张云龙沈月又吵起来了",
       "onboard_time": 1746372923,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 705285,
+      "num": 705285,
+      "word": "周深罗云熙联合发声明",
+      "onboard_time": 1746411681,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 667480,
@@ -91,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 600164,
+      "num": 600164,
+      "word": "勇士vs火箭",
+      "onboard_time": 1746410241,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568048,
       "num": 271018,
       "word": "石凯站姐下手太狠了",
@@ -115,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 477039,
-      "num": 477039,
-      "word": "九寨沟的调度能力太强了",
-      "onboard_time": 1746411501,
-      "rank": 1,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 475451,
       "num": 475451,
       "word": "李晨第三次看时代少年团演唱会",
@@ -137,6 +169,14 @@
       "onboard_time": 1746369086,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455693,
+      "num": 455693,
+      "word": "于正晒白鹿临江仙血泪照",
+      "onboard_time": 1746411262,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 449322,
@@ -155,6 +195,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 421358,
+      "num": 397686,
+      "word": "13岁女孩动漫直播间被骗购软色情玩具",
+      "onboard_time": 1746413901,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 402437,
+      "num": 402437,
+      "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+      "onboard_time": 1746413602,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401109,
       "num": 269701,
       "word": "白百何首晒二胎儿子",
@@ -171,20 +227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397588,
+      "num": 397588,
+      "word": "陈铭谈奇葩说停播原因",
+      "onboard_time": 1746412401,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 381255,
+      "num": 381255,
+      "word": "小米汽车智驾更名为辅助驾驶",
+      "onboard_time": 1746412522,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 367593,
+      "num": 367593,
+      "word": "胡宇桐 我资源不行法务还行",
+      "onboard_time": 1746411380,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355657,
       "num": 355657,
       "word": "任嘉伦不愧是去韩国训练过的",
       "onboard_time": 1746370105,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350561,
-      "num": 350561,
-      "word": "景区回应大量虫子往脖子里钻",
-      "onboard_time": 1746410782,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348682,
@@ -219,12 +291,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323860,
+      "num": 398528,
+      "word": "立夏是减肥的黄金起点",
+      "onboard_time": 1746411441,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
       "onboard_time": 1746401779,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 309474,
+      "num": 309474,
+      "word": "孙颖莎立夏海报",
+      "onboard_time": 1746412820,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 303533,
@@ -267,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271467,
+      "num": 377914,
+      "word": "歌手",
+      "onboard_time": 1746413001,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257337,
       "num": 257337,
       "word": "虞书欣加盟是女儿是妈妈2",
       "onboard_time": 1746401058,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255495,
+      "num": 255495,
+      "word": "美国恶魔岛监狱将重新启用",
+      "onboard_time": 1746412102,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 254208,
@@ -339,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208571,
+      "num": 208571,
+      "word": "王鹤棣为新角色修了细眉",
+      "onboard_time": 1746411563,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205647,
       "num": 205647,
       "word": "运动瘦和饿瘦哪个瘦得快",
@@ -347,12 +459,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 202465,
-      "num": 202465,
-      "word": "于正晒白鹿临江仙血泪照",
-      "onboard_time": 1746411262,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 205143,
+      "num": 205143,
+      "word": "景区突现大量虫子已用灭虫剂处理",
+      "onboard_time": 1746412522,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201138,
@@ -361,6 +473,14 @@
       "onboard_time": 1746368305,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201126,
+      "num": 211660,
+      "word": "刑警的日子今日开播",
+      "onboard_time": 1746414080,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 198957,
@@ -377,14 +497,6 @@
       "onboard_time": 1746411081,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198018,
-      "num": 198018,
-      "word": "勇士vs火箭",
-      "onboard_time": 1746410241,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 197313,
@@ -419,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184259,
+      "num": 184259,
+      "word": "张韶涵演唱会不慎摔倒",
+      "onboard_time": 1746412040,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "严浩翔这个视角看好直观",
@@ -443,20 +563,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171911,
+      "num": 171911,
+      "word": "压下库里浮起希尔德",
+      "onboard_time": 1746414801,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170519,
+      "num": 170519,
+      "word": "翔霖",
+      "onboard_time": 1746414682,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 168383,
+      "num": 168383,
+      "word": "SMTR25墨西哥舞台剧透",
+      "onboard_time": 1746414080,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 167082,
+      "num": 369245,
+      "word": "特朗普再发涉二战惊人言论",
+      "onboard_time": 1746414682,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166941,
       "num": 166941,
       "word": "特朗普称对进入美国的电影征关税",
       "onboard_time": 1746410540,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160893,
-      "num": 160893,
-      "word": "胡宇桐 我资源不行法务还行",
-      "onboard_time": 1746411380,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 156826,
@@ -473,14 +617,6 @@
       "onboard_time": 1746365845,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153693,
-      "num": 153693,
-      "word": "王鹤棣为新角色修了细眉",
-      "onboard_time": 1746411563,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 152976,
@@ -515,12 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140997,
-      "num": 140997,
-      "word": "立夏是减肥的黄金起点",
-      "onboard_time": 1746411441,
-      "rank": 37,
-      "category": "运动健身"
+      "raw_hot": 140082,
+      "num": 140082,
+      "word": "黄霄雲音乐节现场军训",
+      "onboard_time": 1746414622,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136538,
+      "num": 397763,
+      "word": "已有多所高中不再双休",
+      "onboard_time": 1746414503,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134445,
@@ -529,6 +673,14 @@
       "onboard_time": 1746372084,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128605,
+      "num": 128605,
+      "word": "五一爬武功山回家",
+      "onboard_time": 1746414622,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127981,
@@ -579,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121035,
-      "num": 146899,
-      "word": "周深罗云熙联合发声明",
-      "onboard_time": 1746411681,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120710,
       "num": 120710,
       "word": "科内利亚诺女排欧冠卫冕",
@@ -633,6 +777,14 @@
       "onboard_time": 1746372684,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113603,
+      "num": 113603,
+      "word": "我怀疑这西瓜是来报恩的",
+      "onboard_time": 1746412763,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 113019,
@@ -795,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81022,
+      "num": 205175,
+      "word": "WAW剑网3玩家吃真好",
+      "onboard_time": 1746414801,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79937,
       "num": 79937,
       "word": "日本偶遇金靖夫妇",
@@ -843,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66486,
+      "num": 379480,
+      "word": "饿了么让五一假期的奶茶店忙疯了",
+      "onboard_time": 1746414080,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65023,
       "num": 79444,
       "word": "李沐宸回应灵气消耗",
@@ -881,6 +1049,14 @@
       "onboard_time": 1746398236,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58098,
+      "num": 206708,
+      "word": "WAW真假纸嫁衣",
+      "onboard_time": 1746414801,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 57676,
@@ -1028,7 +1204,7 @@
     },
     {
       "raw_hot": 23915,
-      "num": 652516,
+      "num": 890352,
       "word": "网警藏蓝青春键指河山",
       "onboard_time": 1746403761,
       "rank": 2,
@@ -1081,6 +1257,22 @@
       "onboard_time": 1746392714,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10152,
+      "num": 370042,
+      "word": "湖人该签下哪位中锋",
+      "onboard_time": 1746414143,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9094,
+      "num": 141040,
+      "word": "过期产品还能这样用",
+      "onboard_time": 1746414801,
+      "rank": 39,
+      "category": "美妆,民生新闻"
     },
     {
       "raw_hot": 6169,
