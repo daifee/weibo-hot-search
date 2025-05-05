@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746440897091,
+  "endTime": 1746441927042,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1616969,
-      "num": 313476,
+      "num": 366742,
       "word": "月入3万攒2万五",
       "onboard_time": 1746434541,
       "rank": 30,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632977,
+      "num": 377434,
+      "word": "这是我的西游直播",
+      "onboard_time": 1746440781,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621587,
       "num": 271696,
       "word": "文严文",
@@ -339,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 567610,
+      "num": 567610,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562821,
       "num": 562821,
       "word": "护士发论文称男性确诊子宫肌瘤",
@@ -353,14 +369,6 @@
       "onboard_time": 1746432861,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531728,
-      "num": 320666,
-      "word": "这是我的西游直播",
-      "onboard_time": 1746440781,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 530526,
@@ -395,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 491403,
-      "num": 491403,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 486766,
       "num": 486766,
       "word": "灵隐寺小卖部年租金260万引质疑",
       "onboard_time": 1746415164,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484899,
+      "num": 372752,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 475451,
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462404,
-      "num": 306731,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 459737,
       "num": 459737,
       "word": "小猫悟空去世仍有多个疑点",
@@ -449,6 +449,14 @@
       "onboard_time": 1746415164,
       "rank": 12,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 457780,
+      "num": 364903,
+      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+      "onboard_time": 1746439341,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 455693,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 449255,
-      "num": 268811,
+      "num": 362611,
       "word": "马君妍正在备孕二胎",
       "onboard_time": 1746438021,
       "rank": 44,
@@ -540,11 +548,19 @@
     },
     {
       "raw_hot": 384682,
-      "num": 266422,
+      "num": 360355,
       "word": "允儿跳likejennie",
       "onboard_time": 1746438382,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377605,
+      "num": 377605,
+      "word": "警方通报男子不挂车牌超车撞人",
+      "onboard_time": 1746435740,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 373000,
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293982,
+      "num": 293982,
+      "word": "百想红毯",
+      "onboard_time": 1746437841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288195,
       "num": 288195,
       "word": "库里晚安",
@@ -731,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283150,
-      "num": 298093,
-      "word": "警方通报男子不挂车牌超车撞人",
-      "onboard_time": 1746435740,
-      "rank": 20,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
@@ -755,20 +771,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 264142,
-      "num": 264142,
-      "word": "百想红毯",
-      "onboard_time": 1746437841,
-      "rank": 33,
+      "raw_hot": 261817,
+      "num": 174056,
+      "word": "李惠利百想红毯新闻图",
+      "onboard_time": 1746440481,
+      "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260530,
-      "num": 260530,
-      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
-      "onboard_time": 1746439341,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 257337,
@@ -1219,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182798,
+      "num": 368571,
+      "word": "警方通报小型汽车坠河致1人死亡",
+      "onboard_time": 1746439460,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "欧豪真的豪豪豪豪豪多新剧",
@@ -1347,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "女生cos国漫角色被男子指责穿和服",
+      "onboard_time": 1746437602,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160368,
       "num": 160368,
       "word": "张云龙妖系妆造神性美",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1746439640,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157736,
-      "num": 157736,
-      "word": "李惠利百想红毯新闻图",
-      "onboard_time": 1746440481,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 157724,
@@ -1539,14 +1555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143612,
-      "num": 143612,
-      "word": "警方通报小型汽车坠河致1人死亡",
-      "onboard_time": 1746439460,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 140991,
       "num": 140991,
       "word": "徐若晗周柯宇爱意生长芭莎大片",
@@ -1657,6 +1665,22 @@
       "onboard_time": 1746426982,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 131165,
+      "num": 131165,
+      "word": "汪苏泷南昌站点歌",
+      "onboard_time": 1746441680,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130911,
+      "num": 130911,
+      "word": "这就是有温度的中国排面",
+      "onboard_time": 1746441441,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 130791,
@@ -1819,20 +1843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122505,
-      "num": 122505,
-      "word": "女生cos国漫角色被男子指责穿和服",
-      "onboard_time": 1746437602,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121789,
       "num": 415572,
       "word": "饿了么让五一假期的奶茶店忙疯了",
       "onboard_time": 1746414080,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121033,
+      "num": 121033,
+      "word": "VOGUE一周最佳穿搭",
+      "onboard_time": 1746441020,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 120710,
@@ -1857,6 +1881,22 @@
       "onboard_time": 1746430221,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120243,
+      "num": 120243,
+      "word": "李惠利麻花辫",
+      "onboard_time": 1746441560,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120008,
+      "num": 120008,
+      "word": "楚后",
+      "onboard_time": 1746441740,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 118917,
@@ -1947,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113385,
+      "num": 127323,
+      "word": "老人被狗扑倒致死法院判赔40万",
+      "onboard_time": 1746437781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113357,
       "num": 113357,
       "word": "本人活着就这么脆弱",
@@ -1987,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111748,
+      "num": 111748,
+      "word": "张凌赫可不兴这么说自己",
+      "onboard_time": 1746441321,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111280,
       "num": 111280,
       "word": "淮水竹亭热度",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1746357021,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111124,
+      "num": 111124,
+      "word": "我国首批五座9000吨气膜粮仓充气成型",
+      "onboard_time": 1746440720,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110161,
@@ -2043,6 +2107,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 107391,
+      "num": 107391,
+      "word": "靡言选角",
+      "onboard_time": 1746441501,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107314,
       "num": 107314,
       "word": "李沐宸抱歉让大家失望",
@@ -2075,12 +2147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105770,
-      "num": 105770,
-      "word": "我国首批五座9000吨气膜粮仓充气成型",
-      "onboard_time": 1746440720,
+      "raw_hot": 105612,
+      "num": 105612,
+      "word": "苹果的果张力拉满了",
+      "onboard_time": 1746441680,
       "rank": 47,
-      "category": "国内时政"
+      "category": "美食"
     },
     {
       "raw_hot": 104750,
@@ -2107,12 +2179,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103226,
-      "num": 127323,
-      "word": "老人被狗扑倒致死法院判赔40万",
-      "onboard_time": 1746437781,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 101942,
+      "num": 101942,
+      "word": "香港私房菜",
+      "onboard_time": 1746441441,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 101474,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1746426320,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99343,
+      "num": 99343,
+      "word": "原来这就是精通PPT吗",
+      "onboard_time": 1746441861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98967,
@@ -2251,6 +2331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89879,
+      "num": 206524,
+      "word": "研究称常去音乐节能延寿",
+      "onboard_time": 1746439700,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 89341,
       "num": 89341,
       "word": "日本女孩屡报警遭漠视4个月变白骨",
@@ -2337,14 +2425,6 @@
       "onboard_time": 1746418282,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83768,
-      "num": 206524,
-      "word": "研究称常去音乐节能延寿",
-      "onboard_time": 1746439700,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 81022,
@@ -2788,7 +2868,7 @@
     },
     {
       "raw_hot": 11355,
-      "num": 265595,
+      "num": 359461,
       "word": "WAW漫展隐藏福袋大放送",
       "onboard_time": 1746439282,
       "rank": 14,

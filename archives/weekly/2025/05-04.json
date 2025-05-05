@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746440897091,
+  "endTime": 1746441927042,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1616969,
-      "num": 313476,
+      "num": 366742,
       "word": "月入3万攒2万五",
       "onboard_time": 1746434541,
       "rank": 30,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632977,
+      "num": 377434,
+      "word": "这是我的西游直播",
+      "onboard_time": 1746440781,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623715,
       "num": 623715,
       "word": "夫妻吵架丈夫被扔高速上手机也没带",
@@ -739,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 567610,
+      "num": 567610,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564353,
       "num": 487690,
       "word": "丁禹兮ins点赞",
@@ -785,14 +801,6 @@
       "onboard_time": 1746345802,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531728,
-      "num": 320666,
-      "word": "这是我的西游直播",
-      "onboard_time": 1746440781,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 530526,
@@ -891,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 491403,
-      "num": 491403,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489677,
       "num": 284650,
       "word": "张凌赫给迪丽热巴把脉",
@@ -913,6 +913,14 @@
       "onboard_time": 1746415164,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484899,
+      "num": 372752,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 483762,
@@ -979,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462404,
-      "num": 306731,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 459737,
       "num": 459737,
       "word": "小猫悟空去世仍有多个疑点",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1746415164,
       "rank": 12,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 457780,
+      "num": 364903,
+      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+      "onboard_time": 1746439341,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 455693,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 449255,
-      "num": 268811,
+      "num": 362611,
       "word": "马君妍正在备孕二胎",
       "onboard_time": 1746438021,
       "rank": 44,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 384682,
-      "num": 266422,
+      "num": 360355,
       "word": "允儿跳likejennie",
       "onboard_time": 1746438382,
       "rank": 13,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1746357202,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377605,
+      "num": 377605,
+      "word": "警方通报男子不挂车牌超车撞人",
+      "onboard_time": 1746435740,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 373000,
@@ -1595,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293982,
+      "num": 293982,
+      "word": "百想红毯",
+      "onboard_time": 1746437841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293156,
       "num": 293156,
       "word": "淮水竹亭热度",
@@ -1633,14 +1657,6 @@
       "onboard_time": 1746369685,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283150,
-      "num": 298093,
-      "word": "警方通报男子不挂车牌超车撞人",
-      "onboard_time": 1746435740,
-      "rank": 20,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 280657,
@@ -1731,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264142,
-      "num": 264142,
-      "word": "百想红毯",
-      "onboard_time": 1746437841,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264049,
       "num": 264049,
       "word": "哈里王子想与英国王室和解",
@@ -1755,12 +1763,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260530,
-      "num": 260530,
-      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
-      "onboard_time": 1746439341,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 261817,
+      "num": 174056,
+      "word": "李惠利百想红毯新闻图",
+      "onboard_time": 1746440481,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 258194,
@@ -2867,6 +2875,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 182798,
+      "num": 368571,
+      "word": "警方通报小型汽车坠河致1人死亡",
+      "onboard_time": 1746439460,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "欧豪真的豪豪豪豪豪多新剧",
@@ -3315,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161673,
+      "num": 161673,
+      "word": "女生cos国漫角色被男子指责穿和服",
+      "onboard_time": 1746437602,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "王者荣耀",
@@ -3393,14 +3417,6 @@
       "onboard_time": 1746439640,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157736,
-      "num": 157736,
-      "word": "李惠利百想红毯新闻图",
-      "onboard_time": 1746440481,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 157724,
@@ -3771,14 +3787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143612,
-      "num": 143612,
-      "word": "警方通报小型汽车坠河致1人死亡",
-      "onboard_time": 1746439460,
-      "rank": 31,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 142955,
       "num": 264727,
       "word": "民警刚还了1个娃转眼又捡回来1个",
@@ -4139,6 +4147,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 131165,
+      "num": 131165,
+      "word": "汪苏泷南昌站点歌",
+      "onboard_time": 1746441680,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130911,
+      "num": 130911,
+      "word": "这就是有温度的中国排面",
+      "onboard_time": 1746441441,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 130791,
       "num": 130791,
       "word": "咸鱼飞升",
@@ -4443,14 +4467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122505,
-      "num": 122505,
-      "word": "女生cos国漫角色被男子指责穿和服",
-      "onboard_time": 1746437602,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122490,
       "num": 122490,
       "word": "圣坛 暴力美学",
@@ -4473,6 +4489,14 @@
       "onboard_time": 1746344899,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121033,
+      "num": 121033,
+      "word": "VOGUE一周最佳穿搭",
+      "onboard_time": 1746441020,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 120710,
@@ -4521,6 +4545,22 @@
       "onboard_time": 1746331820,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120243,
+      "num": 120243,
+      "word": "李惠利麻花辫",
+      "onboard_time": 1746441560,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120008,
+      "num": 120008,
+      "word": "楚后",
+      "onboard_time": 1746441740,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 118993,
@@ -4707,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113385,
+      "num": 127323,
+      "word": "老人被狗扑倒致死法院判赔40万",
+      "onboard_time": 1746437781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113357,
       "num": 113357,
       "word": "本人活着就这么脆弱",
@@ -4747,6 +4795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111748,
+      "num": 111748,
+      "word": "张凌赫可不兴这么说自己",
+      "onboard_time": 1746441321,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111610,
       "num": 144120,
       "word": "皇马3比2塞尔塔",
@@ -4777,6 +4833,14 @@
       "onboard_time": 1746319940,
       "rank": 37,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 111124,
+      "num": 111124,
+      "word": "我国首批五座9000吨气膜粮仓充气成型",
+      "onboard_time": 1746440720,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111004,
@@ -4867,6 +4931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107391,
+      "num": 107391,
+      "word": "靡言选角",
+      "onboard_time": 1746441501,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107314,
       "num": 107314,
       "word": "李沐宸抱歉让大家失望",
@@ -4923,20 +4995,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105770,
-      "num": 105770,
-      "word": "我国首批五座9000吨气膜粮仓充气成型",
-      "onboard_time": 1746440720,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105687,
       "num": 212707,
       "word": "王珞丹的小狗生病",
       "onboard_time": 1746346583,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105612,
+      "num": 105612,
+      "word": "苹果的果张力拉满了",
+      "onboard_time": 1746441680,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 105369,
@@ -5027,20 +5099,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103226,
-      "num": 127323,
-      "word": "老人被狗扑倒致死法院判赔40万",
-      "onboard_time": 1746437781,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102686,
       "num": 102686,
       "word": "欧尼熊出轨澄清",
       "onboard_time": 1746279205,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 101942,
+      "num": 101942,
+      "word": "香港私房菜",
+      "onboard_time": 1746441441,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 101848,
@@ -5153,6 +5225,14 @@
       "onboard_time": 1746322340,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99343,
+      "num": 99343,
+      "word": "原来这就是精通PPT吗",
+      "onboard_time": 1746441861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98967,
@@ -5371,6 +5451,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 89879,
+      "num": 206524,
+      "word": "研究称常去音乐节能延寿",
+      "onboard_time": 1746439700,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 89876,
       "num": 190522,
       "word": "iG你比划我来猜",
@@ -5537,14 +5625,6 @@
       "onboard_time": 1746418282,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83768,
-      "num": 206524,
-      "word": "研究称常去音乐节能延寿",
-      "onboard_time": 1746439700,
-      "rank": 19,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 82123,
@@ -6628,7 +6708,7 @@
     },
     {
       "raw_hot": 11355,
-      "num": 265595,
+      "num": 359461,
       "word": "WAW漫展隐藏福袋大放送",
       "onboard_time": 1746439282,
       "rank": 14,

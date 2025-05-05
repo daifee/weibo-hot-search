@@ -1,0 +1,410 @@
+{
+  "runTime": 1746441927042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 730637,
+        "num": 1116902,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 567610,
+        "num": 567610,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304064,
+        "num": 496478,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 659791,
+        "num": 482222,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461480,
+        "num": 461480,
+        "word": "刘国梁卸任后对王励勤说了这句话",
+        "onboard_time": 1746437602,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377605,
+        "num": 377605,
+        "word": "警方通报男子不挂车牌超车撞人",
+        "onboard_time": 1746435740,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 632977,
+        "num": 377434,
+        "word": "这是我的西游直播",
+        "onboard_time": 1746440781,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484899,
+        "num": 372752,
+        "word": "晨宇炒饭被吃掉3吨",
+        "onboard_time": 1746437541,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274929,
+        "num": 370733,
+        "word": "特朗普爆欧盟领导人打不通普京电话",
+        "onboard_time": 1746432320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182798,
+        "num": 368571,
+        "word": "警方通报小型汽车坠河致1人死亡",
+        "onboard_time": 1746439460,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 932112,
+        "num": 366742,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457780,
+        "num": 364903,
+        "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+        "onboard_time": 1746439341,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424700,
+        "num": 362611,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360355,
+        "num": 360355,
+        "word": "允儿跳likejennie",
+        "onboard_time": 1746438382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10650,
+        "num": 359461,
+        "word": "WAW漫展隐藏福袋大放送",
+        "onboard_time": 1746439282,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 359082,
+        "num": 359082,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315991,
+        "num": 315991,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293982,
+        "num": 293982,
+        "word": "百想红毯",
+        "onboard_time": 1746437841,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247051,
+        "num": 247051,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184229,
+        "num": 184229,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229905,
+        "num": 182262,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261817,
+        "num": 174056,
+        "word": "李惠利百想红毯新闻图",
+        "onboard_time": 1746440481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161673,
+        "num": 161673,
+        "word": "女生cos国漫角色被男子指责穿和服",
+        "onboard_time": 1746437602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157176,
+        "num": 157176,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148010,
+        "num": 148010,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138191,
+        "num": 138191,
+        "word": "阿诺德加盟皇马",
+        "onboard_time": 1746437900,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131554,
+        "num": 131554,
+        "word": "全员加速中",
+        "onboard_time": 1746425541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131165,
+        "num": 131165,
+        "word": "汪苏泷南昌站点歌",
+        "onboard_time": 1746441680,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130911,
+        "num": 130911,
+        "word": "这就是有温度的中国排面",
+        "onboard_time": 1746441441,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 128933,
+        "num": 128933,
+        "word": "王鹤棣咸鱼飞升生图路透",
+        "onboard_time": 1746437541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128187,
+        "num": 128187,
+        "word": "这是我的西游",
+        "onboard_time": 1746426081,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121133,
+        "num": 121133,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121033,
+        "num": 121033,
+        "word": "VOGUE一周最佳穿搭",
+        "onboard_time": 1746441020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120243,
+        "num": 120243,
+        "word": "李惠利麻花辫",
+        "onboard_time": 1746441560,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120008,
+        "num": 120008,
+        "word": "楚后",
+        "onboard_time": 1746441740,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116699,
+        "num": 116699,
+        "word": "乳腺癌最小患者仅有3岁",
+        "onboard_time": 1746432740,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115042,
+        "num": 115042,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113385,
+        "num": 113385,
+        "word": "老人被狗扑倒致死法院判赔40万",
+        "onboard_time": 1746437781,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111748,
+        "num": 111748,
+        "word": "张凌赫可不兴这么说自己",
+        "onboard_time": 1746441321,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111124,
+        "num": 111124,
+        "word": "我国首批五座9000吨气膜粮仓充气成型",
+        "onboard_time": 1746440720,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110888,
+        "num": 110888,
+        "word": "刘学义兰香如故造型",
+        "onboard_time": 1746439640,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110021,
+        "num": 110021,
+        "word": "杨幂小猫贴贴",
+        "onboard_time": 1746432560,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 108995,
+        "num": 108995,
+        "word": "赵丽颖立夏新发色",
+        "onboard_time": 1746422901,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107707,
+        "num": 107707,
+        "word": "73岁普京每天健身1.5小时",
+        "onboard_time": 1746431541,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89879,
+        "num": 107526,
+        "word": "研究称常去音乐节能延寿",
+        "onboard_time": 1746439700,
+        "rank": 44,
+        "category": "演出,健康医疗"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "靡言选角",
+        "onboard_time": 1746441501,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106202,
+        "num": 106202,
+        "word": "白鹿接触LV",
+        "onboard_time": 1746423563,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105612,
+        "num": 105612,
+        "word": "苹果的果张力拉满了",
+        "onboard_time": 1746441680,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101942,
+        "num": 101942,
+        "word": "香港私房菜",
+        "onboard_time": 1746441441,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99343,
+        "num": 99343,
+        "word": "原来这就是精通PPT吗",
+        "onboard_time": 1746441861,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}
