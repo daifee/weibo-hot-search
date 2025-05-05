@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746437289288,
+  "endTime": 1746438147105,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1707292,
+      "num": 1707292,
+      "word": "19岁女孩哭泣照被盗用到高潮针配图",
+      "onboard_time": 1746435321,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1652308,
       "num": 1652308,
       "word": "贵州游船倾覆最后一名失联人员被找到",
@@ -91,15 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1548965,
-      "num": 1548965,
-      "word": "李玉把处女作称为开山作",
-      "onboard_time": 1746330800,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1542904,
+      "raw_hot": 1616969,
       "num": 313476,
       "word": "月入3万攒2万五",
       "onboard_time": 1746434541,
@@ -107,12 +107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1503794,
-      "num": 1503794,
-      "word": "19岁女孩哭泣照被盗用到高潮针配图",
-      "onboard_time": 1746435321,
+      "raw_hot": 1548965,
+      "num": 1548965,
+      "word": "李玉把处女作称为开山作",
+      "onboard_time": 1746330800,
       "rank": 0,
-      "category": "民生新闻"
+      "category": "电影"
     },
     {
       "raw_hot": 1483626,
@@ -497,6 +497,14 @@
       "onboard_time": 1746425541,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718142,
+      "num": 718142,
+      "word": "刘国梁卸任后对王励勤说了这句话",
+      "onboard_time": 1746437602,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 717969,
@@ -1115,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394950,
+      "num": 394950,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392363,
       "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1746348682,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387104,
+      "num": 387104,
+      "word": "特朗普爆欧盟领导人打不通普京电话",
+      "onboard_time": 1746432320,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 386043,
@@ -1515,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297326,
+      "num": 297326,
+      "word": "滕州",
+      "onboard_time": 1746435023,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296022,
       "num": 401767,
       "word": "歌手",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1746366025,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 259637,
-      "num": 259637,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258194,
@@ -2035,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213585,
+      "num": 213585,
+      "word": "刘涛怼刘奕畅",
+      "onboard_time": 1746437541,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213558,
       "num": 203732,
       "word": "中医建议立夏后晚睡早起",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1746355163,
       "rank": 37,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 208755,
+      "num": 208755,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 208571,
@@ -2395,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199979,
+      "num": 199979,
+      "word": "王鹤棣咸鱼飞升生图路透",
+      "onboard_time": 1746437541,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199078,
       "num": 199078,
       "word": "AG晋级PEL春决",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1746360624,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198401,
-      "num": 321022,
-      "word": "特朗普爆欧盟领导人打不通普京电话",
-      "onboard_time": 1746432320,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197908,
@@ -2771,20 +2811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183437,
-      "num": 161202,
-      "word": "滕州",
-      "onboard_time": 1746435023,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183274,
       "num": 205692,
       "word": "贵州黔西游船侧翻事故游客发声",
       "onboard_time": 1746369446,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 182317,
+      "num": 182317,
+      "word": "欧豪真的豪豪豪豪豪多新剧",
+      "onboard_time": 1746434781,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 181544,
@@ -2873,14 +2913,6 @@
       "onboard_time": 1746338721,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177034,
-      "num": 177034,
-      "word": "欧豪真的豪豪豪豪豪多新剧",
-      "onboard_time": 1746434781,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 176422,
@@ -3171,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164121,
+      "num": 164121,
+      "word": "阿诺德加盟皇马",
+      "onboard_time": 1746437900,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1746333082,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161959,
+      "num": 161959,
+      "word": "百想红毯",
+      "onboard_time": 1746437841,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 160882,
@@ -3300,7 +3348,7 @@
     },
     {
       "raw_hot": 158144,
-      "num": 239865,
+      "num": 298093,
       "word": "警方通报男子不挂车牌超车撞人",
       "onboard_time": 1746435740,
       "rank": 20,
@@ -4259,6 +4307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 124196,
+      "num": 259699,
+      "word": "第一批跟风开村咖的人后悔了",
+      "onboard_time": 1746432320,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123967,
       "num": 123967,
       "word": "荣昌区委书记让市民把特产给客人吃",
@@ -4307,10 +4363,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123368,
-      "num": 259699,
-      "word": "第一批跟风开村咖的人后悔了",
-      "onboard_time": 1746432320,
+      "raw_hot": 122505,
+      "num": 122505,
+      "word": "女生cos国漫角色被男子指责穿和服",
+      "onboard_time": 1746437602,
       "rank": 43,
       "category": "民生新闻"
     },
@@ -4321,6 +4377,14 @@
       "onboard_time": 1746356302,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122276,
+      "num": 122276,
+      "word": "马君妍正在备孕二胎",
+      "onboard_time": 1746438021,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 121789,
@@ -4667,6 +4731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109252,
+      "num": 109252,
+      "word": "全员加速中安全倡议书",
+      "onboard_time": 1746437961,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108947,
       "num": 111843,
       "word": "机器人在央视五四晚会敲上编钟了",
@@ -4769,6 +4841,14 @@
       "onboard_time": 1746331700,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104750,
+      "num": 112167,
+      "word": "农村孩子五一放假的意义",
+      "onboard_time": 1746436101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104726,
@@ -5073,6 +5153,14 @@
       "onboard_time": 1746316279,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94380,
+      "num": 246472,
+      "word": "黄东萍回应夺冠",
+      "onboard_time": 1746437422,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 94257,
@@ -5475,14 +5563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68418,
-      "num": 112167,
-      "word": "农村孩子五一放假的意义",
-      "onboard_time": 1746436101,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67245,
       "num": 233312,
       "word": "村干部回应全红婵在老家盖别墅",
@@ -5803,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43189,
+      "num": 190979,
+      "word": "合肥动物园国字脸猴因丑萌出圈",
+      "onboard_time": 1746437900,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43073,
       "num": 233024,
       "word": "勇士还能过森林狼这关吗",
@@ -5915,20 +6003,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36391,
+      "num": 297439,
+      "word": "北方有自己的大型漫展了",
+      "onboard_time": 1746435681,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 35199,
       "num": 433517,
       "word": "李雯雯谈青年人相信的力量",
       "onboard_time": 1746334880,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35124,
-      "num": 283006,
-      "word": "北方有自己的大型漫展了",
-      "onboard_time": 1746435681,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 34836,
@@ -6472,6 +6560,14 @@
       "word": "异瞳少年治沙本意是不想让爸爸受累",
       "onboard_time": 1746307994,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8596,
+      "num": 127323,
+      "word": "老人被狗扑倒致死法院判赔40万",
+      "onboard_time": 1746437781,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

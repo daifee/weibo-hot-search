@@ -1,0 +1,410 @@
+{
+  "runTime": 1746438147105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707292,
+        "num": 1707292,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718142,
+        "num": 718142,
+        "word": "刘国梁卸任后对王励勤说了这句话",
+        "onboard_time": 1746437602,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310959,
+        "num": 707149,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704756,
+        "num": 704756,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 690788,
+        "num": 690788,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 542727,
+        "num": 542727,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394950,
+        "num": 394950,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387104,
+        "num": 387104,
+        "word": "特朗普爆欧盟领导人打不通普京电话",
+        "onboard_time": 1746432320,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298226,
+        "num": 298226,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138722,
+        "num": 298093,
+        "word": "警方通报男子不挂车牌超车撞人",
+        "onboard_time": 1746435740,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1616969,
+        "num": 298052,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 977364,
+        "num": 297909,
+        "word": "滕州善国路车祸",
+        "onboard_time": 1746434421,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451628,
+        "num": 297683,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369514,
+        "num": 297564,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36391,
+        "num": 297439,
+        "word": "北方有自己的大型漫展了",
+        "onboard_time": 1746435681,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 297326,
+        "num": 297326,
+        "word": "滕州",
+        "onboard_time": 1746435023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287111,
+        "num": 287111,
+        "word": "全员加速中",
+        "onboard_time": 1746425541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276570,
+        "num": 276570,
+        "word": "73岁普京每天健身1.5小时",
+        "onboard_time": 1746431541,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268541,
+        "num": 268541,
+        "word": "偷拍裙底关乎女性安全感不能姑息",
+        "onboard_time": 1746432861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94380,
+        "num": 246472,
+        "word": "黄东萍回应夺冠",
+        "onboard_time": 1746437422,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230825,
+        "num": 230825,
+        "word": "白鹿接触LV",
+        "onboard_time": 1746423563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227566,
+        "num": 227566,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223755,
+        "num": 223755,
+        "word": "杨幂小猫贴贴",
+        "onboard_time": 1746432560,
+        "rank": 22,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 213585,
+        "num": 213585,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208755,
+        "num": 208755,
+        "word": "晨宇炒饭被吃掉3吨",
+        "onboard_time": 1746437541,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199979,
+        "num": 199979,
+        "word": "王鹤棣咸鱼飞升生图路透",
+        "onboard_time": 1746437541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196374,
+        "num": 196374,
+        "word": "乳腺癌最小患者仅有3岁",
+        "onboard_time": 1746432740,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43189,
+        "num": 190979,
+        "word": "合肥动物园国字脸猴因丑萌出圈",
+        "onboard_time": 1746437900,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188856,
+        "num": 188856,
+        "word": "迪丽热巴想打响指结果比了个心",
+        "onboard_time": 1746431422,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182317,
+        "num": 182317,
+        "word": "欧豪真的豪豪豪豪豪多新剧",
+        "onboard_time": 1746434781,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204489,
+        "num": 178971,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173226,
+        "num": 173226,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164121,
+        "num": 164121,
+        "word": "阿诺德加盟皇马",
+        "onboard_time": 1746437900,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161959,
+        "num": 161959,
+        "word": "百想红毯",
+        "onboard_time": 1746437841,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161524,
+        "num": 161524,
+        "word": "正媛",
+        "onboard_time": 1746434842,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137632,
+        "num": 137632,
+        "word": "田曦薇五一plog",
+        "onboard_time": 1746436401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133068,
+        "num": 133068,
+        "word": "赵丽颖立夏新发色",
+        "onboard_time": 1746422901,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "柯淳工作室",
+        "onboard_time": 1746427403,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127392,
+        "num": 127392,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8596,
+        "num": 127323,
+        "word": "老人被狗扑倒致死法院判赔40万",
+        "onboard_time": 1746437781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127263,
+        "num": 127263,
+        "word": "张钧甯带了六桶酸辣粉去意大利",
+        "onboard_time": 1746432022,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127033,
+        "num": 127033,
+        "word": "周一到周五也没这么快啊",
+        "onboard_time": 1746434781,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124196,
+        "num": 124196,
+        "word": "第一批跟风开村咖的人后悔了",
+        "onboard_time": 1746432320,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 122505,
+        "word": "女生cos国漫角色被男子指责穿和服",
+        "onboard_time": 1746437602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122276,
+        "num": 122276,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119823,
+        "num": 119823,
+        "word": "娱乐圈 瘦气",
+        "onboard_time": 1746415821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 109252,
+        "word": "全员加速中安全倡议书",
+        "onboard_time": 1746437961,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107486,
+        "num": 107486,
+        "word": "泰山两游客翻越护栏险坠崖",
+        "onboard_time": 1746424342,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 105510,
+        "word": "中医建议立夏后晚睡早起",
+        "onboard_time": 1746422901,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104750,
+        "num": 104750,
+        "word": "农村孩子五一放假的意义",
+        "onboard_time": 1746436101,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}
