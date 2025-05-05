@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746438147105,
+  "endTime": 1746440897091,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 772330,
-      "num": 772330,
+      "num": 1119199,
       "word": "华晨宇用2000架无人机复刻日出",
       "onboard_time": 1746428601,
       "rank": 25,
@@ -537,6 +537,14 @@
       "onboard_time": 1746321501,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674744,
+      "num": 497556,
+      "word": "刘涛怼刘奕畅",
+      "onboard_time": 1746437541,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 672757,
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531728,
+      "num": 320666,
+      "word": "这是我的西游直播",
+      "onboard_time": 1746440781,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530526,
       "num": 269454,
       "word": "千万不要用卫生纸擦眼镜",
@@ -875,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491403,
+      "num": 491403,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489677,
       "num": 284650,
       "word": "张凌赫给迪丽热巴把脉",
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462404,
+      "num": 306731,
+      "word": "晨宇炒饭被吃掉3吨",
+      "onboard_time": 1746437541,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 459737,
       "num": 459737,
       "word": "小猫悟空去世仍有多个疑点",
@@ -1000,6 +1032,14 @@
       "word": "程潇妈妈乳腺癌手术没告诉女儿",
       "onboard_time": 1746402019,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449255,
+      "num": 268811,
+      "word": "马君妍正在备孕二胎",
+      "onboard_time": 1746438021,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1123,14 +1163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 394950,
-      "num": 394950,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392363,
       "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1746339260,
       "rank": 8,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 384682,
+      "num": 266422,
+      "word": "允儿跳likejennie",
+      "onboard_time": 1746438382,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 378874,
@@ -1595,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283150,
+      "num": 298093,
+      "word": "警方通报男子不挂车牌超车撞人",
+      "onboard_time": 1746435740,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
@@ -1683,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264142,
+      "num": 264142,
+      "word": "百想红毯",
+      "onboard_time": 1746437841,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264049,
       "num": 264049,
       "word": "哈里王子想与英国王室和解",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1746366025,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260530,
+      "num": 260530,
+      "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+      "onboard_time": 1746439341,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 258194,
@@ -1784,6 +1848,14 @@
       "word": "陈昊宇说人生路上最快的脚步是坚持",
       "onboard_time": 1746357142,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249338,
+      "num": 200159,
+      "word": "这是我的西游",
+      "onboard_time": 1746426081,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2059,14 +2131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213585,
-      "num": 213585,
-      "word": "刘涛怼刘奕畅",
-      "onboard_time": 1746437541,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213558,
       "num": 203732,
       "word": "中医建议立夏后晚睡早起",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1746355163,
       "rank": 37,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 208755,
-      "num": 208755,
-      "word": "晨宇炒饭被吃掉3吨",
-      "onboard_time": 1746437541,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 208571,
@@ -2425,14 +2481,6 @@
       "onboard_time": 1746368785,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200159,
-      "num": 200159,
-      "word": "这是我的西游",
-      "onboard_time": 1746426081,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 199979,
@@ -3267,14 +3315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161959,
-      "num": 161959,
-      "word": "百想红毯",
-      "onboard_time": 1746437841,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "王者荣耀",
@@ -3347,12 +3387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158144,
-      "num": 298093,
-      "word": "警方通报男子不挂车牌超车撞人",
-      "onboard_time": 1746435740,
-      "rank": 20,
-      "category": "辟谣/通报"
+      "raw_hot": 158796,
+      "num": 158796,
+      "word": "阿诺德 利物浦",
+      "onboard_time": 1746439640,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157736,
+      "num": 157736,
+      "word": "李惠利百想红毯新闻图",
+      "onboard_time": 1746440481,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 157724,
@@ -3723,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143612,
+      "num": 143612,
+      "word": "警方通报小型汽车坠河致1人死亡",
+      "onboard_time": 1746439460,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 142955,
       "num": 264727,
       "word": "民警刚还了1个娃转眼又捡回来1个",
@@ -3865,6 +3921,14 @@
       "onboard_time": 1746343642,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139841,
+      "num": 139841,
+      "word": "刘学义兰香如故造型",
+      "onboard_time": 1746439640,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 139564,
@@ -4073,6 +4137,14 @@
       "onboard_time": 1746426982,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 130791,
+      "num": 130791,
+      "word": "咸鱼飞升",
+      "onboard_time": 1746439282,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130688,
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123123,
+      "num": 190979,
+      "word": "合肥动物园国字脸猴因丑萌出圈",
+      "onboard_time": 1746437900,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122505,
       "num": 122505,
       "word": "女生cos国漫角色被男子指责穿和服",
@@ -4377,14 +4457,6 @@
       "onboard_time": 1746356302,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122276,
-      "num": 122276,
-      "word": "马君妍正在备孕二胎",
-      "onboard_time": 1746438021,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 121789,
@@ -4489,6 +4561,14 @@
       "onboard_time": 1746341121,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117565,
+      "num": 117565,
+      "word": "崔然竣空降",
+      "onboard_time": 1746439161,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 117370,
@@ -4619,6 +4699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113571,
+      "num": 113571,
+      "word": "鞠婧祎水莲少女",
+      "onboard_time": 1746439161,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113357,
       "num": 113357,
       "word": "本人活着就这么脆弱",
@@ -4715,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110161,
+      "num": 110161,
+      "word": "WTA罗马赛签表出炉",
+      "onboard_time": 1746440781,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109498,
       "num": 109498,
       "word": "檀健次吃瓜吃到自己身上",
@@ -4787,6 +4883,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 106760,
+      "num": 106760,
+      "word": "喻言广州抢票",
+      "onboard_time": 1746439460,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "特朗普称考虑用武力占领格陵兰岛",
@@ -4817,6 +4921,14 @@
       "onboard_time": 1746334941,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105770,
+      "num": 105770,
+      "word": "我国首批五座9000吨气膜粮仓充气成型",
+      "onboard_time": 1746440720,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105687,
@@ -4913,6 +5025,14 @@
       "onboard_time": 1746358341,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103226,
+      "num": 127323,
+      "word": "老人被狗扑倒致死法院判赔40万",
+      "onboard_time": 1746437781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102686,
@@ -5419,6 +5539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83768,
+      "num": 206524,
+      "word": "研究称常去音乐节能延寿",
+      "onboard_time": 1746439700,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 82123,
       "num": 112224,
       "word": "被饿了么的网吧广告洗脑了",
@@ -5880,14 +6008,6 @@
       "word": "贵州省4日曾发布强对流黄色预警",
       "onboard_time": 1746367346,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43189,
-      "num": 190979,
-      "word": "合肥动物园国字脸猴因丑萌出圈",
-      "onboard_time": 1746437900,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6507,6 +6627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11355,
+      "num": 265595,
+      "word": "WAW漫展隐藏福袋大放送",
+      "onboard_time": 1746439282,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 11183,
       "num": 118081,
       "word": "618比价红黑榜来了",
@@ -6560,14 +6688,6 @@
       "word": "异瞳少年治沙本意是不想让爸爸受累",
       "onboard_time": 1746307994,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8596,
-      "num": 127323,
-      "word": "老人被狗扑倒致死法院判赔40万",
-      "onboard_time": 1746437781,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
