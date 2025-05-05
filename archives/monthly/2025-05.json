@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746410408458,
+  "endTime": 1746411764905,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 1036212,
-      "num": 1036212,
+      "num": 1150200,
       "word": "贵州游船倾覆事故已致9人死亡",
       "onboard_time": 1746369864,
       "rank": 1,
@@ -2115,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477039,
+      "num": 477039,
+      "word": "九寨沟的调度能力太强了",
+      "onboard_time": 1746411501,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 476717,
       "num": 383081,
       "word": "那女孩对我说",
@@ -2971,6 +2979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350561,
+      "num": 350561,
+      "word": "景区回应大量虫子往脖子里钻",
+      "onboard_time": 1746410782,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349303,
       "num": 271667,
       "word": "尹净汉出国",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1746085161,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297403,
+      "num": 291881,
+      "word": "弃养父亲病逝儿子与继母争遗产",
+      "onboard_time": 1746410181,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297281,
@@ -4620,7 +4644,7 @@
     },
     {
       "raw_hot": 221083,
-      "num": 137716,
+      "num": 159959,
       "word": "梁王教练回应男双躺赢",
       "onboard_time": 1746408262,
       "rank": 30,
@@ -5219,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202465,
+      "num": 202465,
+      "word": "于正晒白鹿临江仙血泪照",
+      "onboard_time": 1746411262,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202380,
       "num": 202380,
       "word": "罗云熙周深音乐节联合说明",
@@ -5387,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198804,
+      "num": 198804,
+      "word": "落花时节又逢君",
+      "onboard_time": 1746411081,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198787,
       "num": 198787,
       "word": "妻子的浪漫旅行",
@@ -5433,6 +5473,14 @@
       "onboard_time": 1746077119,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "勇士vs火箭",
+      "onboard_time": 1746410241,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 197951,
@@ -6563,14 +6611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181391,
-      "num": 181391,
-      "word": "弃养父亲病逝儿子与继母争遗产",
-      "onboard_time": 1746410181,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181260,
       "num": 181260,
       "word": "RIIZE新歌",
@@ -7187,6 +7227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166941,
+      "num": 166941,
+      "word": "特朗普称对进入美国的电影征关税",
+      "onboard_time": 1746410540,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166891,
       "num": 166891,
       "word": "我在冰岛的最后一包螺蛳粉",
@@ -7608,6 +7656,14 @@
       "word": "李永钦张新成合拍",
       "onboard_time": 1746031578,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160893,
+      "num": 160893,
+      "word": "胡宇桐 我资源不行法务还行",
+      "onboard_time": 1746411380,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -8065,6 +8121,14 @@
       "onboard_time": 1746180749,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153693,
+      "num": 153693,
+      "word": "王鹤棣为新角色修了细眉",
+      "onboard_time": 1746411563,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 153589,
@@ -8969,6 +9033,14 @@
       "onboard_time": 1746332242,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140997,
+      "num": 140997,
+      "word": "立夏是减肥的黄金起点",
+      "onboard_time": 1746411441,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 140924,
@@ -10139,14 +10211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127098,
-      "num": 127098,
-      "word": "勇士vs火箭",
-      "onboard_time": 1746410241,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127018,
       "num": 127018,
       "word": "协和医学院有必要站出来回应质疑",
@@ -10651,12 +10715,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121035,
+      "num": 146899,
+      "word": "周深罗云熙联合发声明",
+      "onboard_time": 1746411681,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120915,
       "num": 120915,
       "word": "婚礼现场新娘身穿9.9米非遗婚服",
       "onboard_time": 1746095421,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120710,
+      "num": 120710,
+      "word": "科内利亚诺女排欧冠卫冕",
+      "onboard_time": 1746410301,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120673,
@@ -10945,6 +11025,14 @@
       "onboard_time": 1746363324,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117251,
+      "num": 117251,
+      "word": "立夏之后不可剧烈运动",
+      "onboard_time": 1746410540,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117165,
@@ -11659,6 +11747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107314,
+      "num": 107314,
+      "word": "李沐宸抱歉让大家失望",
+      "onboard_time": 1746406221,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107280,
       "num": 107280,
       "word": "钟丽丽为哈妮克孜试戏跑前跑后",
@@ -11728,6 +11824,14 @@
       "word": "格林放倒格林",
       "onboard_time": 1746241639,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106649,
+      "num": 106649,
+      "word": "F1",
+      "onboard_time": 1746410301,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -12475,14 +12579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94658,
-      "num": 94658,
-      "word": "李沐宸抱歉让大家失望",
-      "onboard_time": 1746406221,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94218,
       "num": 94218,
       "word": "王星越版火力全开",
@@ -12616,14 +12712,6 @@
       "word": "程子龙朱子锋跳水世界杯夺冠",
       "onboard_time": 1746180328,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 91322,
-      "num": 91322,
-      "word": "科内利亚诺女排欧冠卫冕",
-      "onboard_time": 1746410301,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -12945,14 +13033,6 @@
       "onboard_time": 1746245601,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 84631,
-      "num": 84631,
-      "word": "F1",
-      "onboard_time": 1746410301,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 84529,
@@ -13488,6 +13568,14 @@
       "word": "多方回应游客未让座遭两女一男殴打",
       "onboard_time": 1746271281,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70385,
+      "num": 244663,
+      "word": "今日立夏万物至此皆长大",
+      "onboard_time": 1746405680,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -15969,6 +16057,14 @@
       "onboard_time": 1746081621,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15298,
+      "num": 160103,
+      "word": "巴菲特为什么增加大量现金储备",
+      "onboard_time": 1746363686,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 15247,

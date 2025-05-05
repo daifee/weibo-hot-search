@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746410408458,
+  "endTime": 1746411764905,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1036212,
-      "num": 1036212,
+      "num": 1150200,
       "word": "贵州游船倾覆事故已致9人死亡",
       "onboard_time": 1746369864,
       "rank": 1,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477039,
+      "num": 477039,
+      "word": "九寨沟的调度能力太强了",
+      "onboard_time": 1746411501,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 475451,
       "num": 475451,
       "word": "李晨第三次看时代少年团演唱会",
@@ -169,6 +177,14 @@
       "onboard_time": 1746370105,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 350561,
+      "num": 350561,
+      "word": "景区回应大量虫子往脖子里钻",
+      "onboard_time": 1746410782,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348682,
@@ -235,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297403,
+      "num": 291881,
+      "word": "弃养父亲病逝儿子与继母争遗产",
+      "onboard_time": 1746410181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286998,
       "num": 286998,
       "word": "贵州游船事故亲历者发声",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 221083,
-      "num": 137716,
+      "num": 159959,
       "word": "梁王教练回应男双躺赢",
       "onboard_time": 1746408262,
       "rank": 30,
@@ -323,6 +347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 202465,
+      "num": 202465,
+      "word": "于正晒白鹿临江仙血泪照",
+      "onboard_time": 1746411262,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201138,
       "num": 201138,
       "word": "被结婚的手捧花价格吓到了",
@@ -337,6 +369,22 @@
       "onboard_time": 1746371665,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198804,
+      "num": 198804,
+      "word": "落花时节又逢君",
+      "onboard_time": 1746411081,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "勇士vs火箭",
+      "onboard_time": 1746410241,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 197313,
@@ -371,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181391,
-      "num": 181391,
-      "word": "弃养父亲病逝儿子与继母争遗产",
-      "onboard_time": 1746410181,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180168,
       "num": 180168,
       "word": "严浩翔这个视角看好直观",
@@ -403,6 +443,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166941,
+      "num": 166941,
+      "word": "特朗普称对进入美国的电影征关税",
+      "onboard_time": 1746410540,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 160893,
+      "num": 160893,
+      "word": "胡宇桐 我资源不行法务还行",
+      "onboard_time": 1746411380,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156826,
       "num": 156826,
       "word": "民警3天捡了25个孩子",
@@ -417,6 +473,14 @@
       "onboard_time": 1746365845,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153693,
+      "num": 153693,
+      "word": "王鹤棣为新角色修了细眉",
+      "onboard_time": 1746411563,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 152976,
@@ -451,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140997,
+      "num": 140997,
+      "word": "立夏是减肥的黄金起点",
+      "onboard_time": 1746411441,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 134445,
       "num": 134445,
       "word": "女孩溺水被救家长先责怪孩子",
@@ -473,14 +545,6 @@
       "onboard_time": 1746372504,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127098,
-      "num": 127098,
-      "word": "勇士vs火箭",
-      "onboard_time": 1746410241,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 126104,
@@ -515,12 +579,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121035,
+      "num": 146899,
+      "word": "周深罗云熙联合发声明",
+      "onboard_time": 1746411681,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120710,
+      "num": 120710,
+      "word": "科内利亚诺女排欧冠卫冕",
+      "onboard_time": 1746410301,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120673,
       "num": 120673,
       "word": "陈芋汐获年度最佳女子运动员",
       "onboard_time": 1746373283,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117251,
+      "num": 117251,
+      "word": "立夏之后不可剧烈运动",
+      "onboard_time": 1746410540,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116931,
@@ -595,6 +683,22 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 107314,
+      "num": 107314,
+      "word": "李沐宸抱歉让大家失望",
+      "onboard_time": 1746406221,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106649,
+      "num": 106649,
+      "word": "F1",
+      "onboard_time": 1746410301,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101146,
       "num": 101146,
       "word": "第五人格医生",
@@ -659,28 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94658,
-      "num": 94658,
-      "word": "李沐宸抱歉让大家失望",
-      "onboard_time": 1746406221,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91644,
       "num": 195556,
       "word": "立夏养心记得多吃酸",
       "onboard_time": 1746409521,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 91322,
-      "num": 91322,
-      "word": "科内利亚诺女排欧冠卫冕",
-      "onboard_time": 1746410301,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 89341,
@@ -704,14 +792,6 @@
       "word": "丛明晨宣布退役",
       "onboard_time": 1746408800,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84631,
-      "num": 84631,
-      "word": "F1",
-      "onboard_time": 1746410301,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -753,6 +833,14 @@
       "onboard_time": 1746374063,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70385,
+      "num": 244663,
+      "word": "今日立夏万物至此皆长大",
+      "onboard_time": 1746405680,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65023,
@@ -963,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15298,
+      "num": 160103,
+      "word": "巴菲特为什么增加大量现金储备",
+      "onboard_time": 1746363686,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 12653,
       "num": 24551,
       "word": "一个人的寻亲路两代人的报国心",
@@ -985,6 +1081,14 @@
       "onboard_time": 1746392714,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6169,
+      "num": 128480,
+      "word": "巴基斯坦与印度对峙底气来自哪里",
+      "onboard_time": 1746362485,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

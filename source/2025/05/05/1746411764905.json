@@ -1,0 +1,410 @@
+{
+  "runTime": 1746411764905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938753,
+        "num": 1150200,
+        "word": "贵州游船倾覆事故已致9人死亡",
+        "onboard_time": 1746369864,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477039,
+        "num": 477039,
+        "word": "九寨沟的调度能力太强了",
+        "onboard_time": 1746411501,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 21936,
+        "num": 452229,
+        "word": "网警藏蓝青春键指河山",
+        "onboard_time": 1746403761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438477,
+        "num": 438477,
+        "word": "张睿李晟同框",
+        "onboard_time": 1746407300,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1140713,
+        "num": 437437,
+        "word": "上海欢乐谷失火被游客误认节目效果",
+        "onboard_time": 1746401418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531507,
+        "num": 436874,
+        "word": "特朗普又又又提吞并加拿大",
+        "onboard_time": 1746402499,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436126,
+        "num": 436126,
+        "word": "程潇妈妈乳腺癌手术没告诉女儿",
+        "onboard_time": 1746402019,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364592,
+        "num": 364592,
+        "word": "张云龙沈月又吵起来了",
+        "onboard_time": 1746372923,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350561,
+        "num": 350561,
+        "word": "景区回应大量虫子往脖子里钻",
+        "onboard_time": 1746410782,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291891,
+        "num": 291891,
+        "word": "女子想用炸弹炸ATM机却炸死自己",
+        "onboard_time": 1746400578,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297403,
+        "num": 291881,
+        "word": "弃养父亲病逝儿子与继母争遗产",
+        "onboard_time": 1746410181,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291762,
+        "num": 291762,
+        "word": "陈奕迅日本演唱会有空投炸弹画面",
+        "onboard_time": 1746401779,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254505,
+        "num": 254505,
+        "word": "虞书欣加盟是女儿是妈妈2",
+        "onboard_time": 1746401058,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251718,
+        "num": 251718,
+        "word": "贵州游船事故亲历者发声",
+        "onboard_time": 1746369685,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249216,
+        "num": 249216,
+        "word": "西安夜空不明物可能是什么",
+        "onboard_time": 1746383537,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70385,
+        "num": 244663,
+        "word": "今日立夏万物至此皆长大",
+        "onboard_time": 1746405680,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243712,
+        "num": 243712,
+        "word": "石凯站姐下手太狠了",
+        "onboard_time": 1746359182,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202465,
+        "num": 202465,
+        "word": "于正晒白鹿临江仙血泪照",
+        "onboard_time": 1746411262,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198804,
+        "num": 198804,
+        "word": "落花时节又逢君",
+        "onboard_time": 1746411081,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198018,
+        "num": 198018,
+        "word": "勇士vs火箭",
+        "onboard_time": 1746410241,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213996,
+        "num": 193862,
+        "word": "医院拒绝给离世女大学生道歉",
+        "onboard_time": 1746355521,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188978,
+        "num": 188978,
+        "word": "180斤女子减重65斤后感叹人生美好",
+        "onboard_time": 1746405800,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188011,
+        "num": 188011,
+        "word": "陈梦9岁时怀疑妈妈不是亲妈",
+        "onboard_time": 1746401058,
+        "rank": 22,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 184377,
+        "num": 184377,
+        "word": "优时颜 张康乐马柏全采访",
+        "onboard_time": 1746407721,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183326,
+        "num": 183326,
+        "word": "被结婚的手捧花价格吓到了",
+        "onboard_time": 1746368305,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176596,
+        "num": 176596,
+        "word": "立夏",
+        "onboard_time": 1746404420,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166941,
+        "num": 166941,
+        "word": "特朗普称对进入美国的电影征关税",
+        "onboard_time": 1746410540,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160893,
+        "num": 160893,
+        "word": "胡宇桐 我资源不行法务还行",
+        "onboard_time": 1746411380,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160438,
+        "num": 160438,
+        "word": "鹿哈老婆晒婚纱照",
+        "onboard_time": 1746375081,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15298,
+        "num": 160103,
+        "word": "巴菲特为什么增加大量现金储备",
+        "onboard_time": 1746363686,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162766,
+        "num": 159959,
+        "word": "梁王教练回应男双躺赢",
+        "onboard_time": 1746408262,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159811,
+        "num": 159811,
+        "word": "林瀚",
+        "onboard_time": 1746400758,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156126,
+        "num": 156126,
+        "word": "祖国山河大地陆续切换夏天模式",
+        "onboard_time": 1746406640,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153693,
+        "num": 153693,
+        "word": "王鹤棣为新角色修了细眉",
+        "onboard_time": 1746411563,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152907,
+        "num": 152907,
+        "word": "成都暴雨",
+        "onboard_time": 1746408800,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121035,
+        "num": 146899,
+        "word": "周深罗云熙联合发声明",
+        "onboard_time": 1746411681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144235,
+        "num": 144235,
+        "word": "和平精英",
+        "onboard_time": 1746408379,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "立夏是减肥的黄金起点",
+        "onboard_time": 1746411441,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137541,
+        "num": 137541,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1746404960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6169,
+        "num": 128480,
+        "word": "巴基斯坦与印度对峙底气来自哪里",
+        "onboard_time": 1746362485,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127535,
+        "num": 127535,
+        "word": "女孩溺水被救家长先责怪孩子",
+        "onboard_time": 1746372084,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126702,
+        "num": 126702,
+        "word": "Angelababy小海绵自拍",
+        "onboard_time": 1746365905,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121848,
+        "num": 121848,
+        "word": "运动瘦和饿瘦哪个瘦得快",
+        "onboard_time": 1746374122,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120710,
+        "num": 120710,
+        "word": "科内利亚诺女排欧冠卫冕",
+        "onboard_time": 1746410301,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117251,
+        "num": 117251,
+        "word": "立夏之后不可剧烈运动",
+        "onboard_time": 1746410540,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111360,
+        "num": 111360,
+        "word": "5月5日13时57分迎来立夏",
+        "onboard_time": 1746377301,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107314,
+        "num": 107314,
+        "word": "李沐宸抱歉让大家失望",
+        "onboard_time": 1746406221,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106649,
+        "num": 106649,
+        "word": "F1",
+        "onboard_time": 1746410301,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105715,
+        "num": 105715,
+        "word": "中国羽协主席称新老交替非常理想",
+        "onboard_time": 1746408262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103764,
+        "num": 103764,
+        "word": "五一随手拍",
+        "onboard_time": 1746362544,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对新时代青年寄予殷切期望#"
+    }
+  }
+}
