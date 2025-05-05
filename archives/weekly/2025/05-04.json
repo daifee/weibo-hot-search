@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746472732143,
+  "endTime": 1746473787532,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -7953,6 +7953,14 @@
       "onboard_time": 1746347363,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10348,
+      "num": 44075,
+      "word": "88岁院士说就是要跟美国人争口气",
+      "onboard_time": 1746473055,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10152,
