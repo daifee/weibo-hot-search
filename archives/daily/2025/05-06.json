@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746463667900,
+  "endTime": 1746465779159,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -139,6 +139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186484,
+      "num": 186484,
+      "word": "熬夜延长假期",
+      "onboard_time": 1746460401,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183046,
       "num": 1105669,
       "word": "五一假期全国消费市场数据来了",
@@ -201,14 +209,6 @@
       "onboard_time": 1746459621,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131475,
-      "num": 131475,
-      "word": "熬夜延长假期",
-      "onboard_time": 1746460401,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 130484,
@@ -347,12 +347,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80413,
+      "num": 80413,
+      "word": "巴基斯坦再次试射一地对地导弹",
+      "onboard_time": 1746464177,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74531,
       "num": 74531,
       "word": "苦尽柑来遇见你百想最佳作品",
       "onboard_time": 1746458422,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70817,
+      "num": 194792,
+      "word": "克里姆林宫红墙外的无名烈士墓",
+      "onboard_time": 1746462979,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68816,
@@ -411,12 +427,36 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 49045,
-      "num": 194792,
-      "word": "克里姆林宫红墙外的无名烈士墓",
-      "onboard_time": 1746462979,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 56902,
+      "num": 56902,
+      "word": "王奕和丝芭传媒打官司",
+      "onboard_time": 1746465198,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43302,
+      "num": 56348,
+      "word": "林宥嘉神爱世人",
+      "onboard_time": 1746463878,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 41644,
+      "num": 56346,
+      "word": "宋慧乔短发",
+      "onboard_time": 1746445702,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40735,
+      "num": 56343,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 39297,
@@ -425,6 +465,14 @@
       "onboard_time": 1746455962,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18162,
+      "num": 77509,
+      "word": "假期消费热度折射经济向好的温度",
+      "onboard_time": 1746465377,
+      "rank": 24,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [

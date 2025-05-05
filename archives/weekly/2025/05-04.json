@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746463667900,
+  "endTime": 1746465779159,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -3371,6 +3371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186484,
+      "num": 186484,
+      "word": "熬夜延长假期",
+      "onboard_time": 1746460401,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186184,
       "num": 186184,
       "word": "孙怡人鱼公主发色",
@@ -5001,14 +5009,6 @@
       "onboard_time": 1746422843,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131475,
-      "num": 131475,
-      "word": "熬夜延长假期",
-      "onboard_time": 1746460401,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 131195,
@@ -6683,6 +6683,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 80413,
+      "num": 80413,
+      "word": "巴基斯坦再次试射一地对地导弹",
+      "onboard_time": 1746464177,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80070,
       "num": 93244,
       "word": "异瞳男生回应不到一个月涨粉200万",
@@ -6761,6 +6769,14 @@
       "onboard_time": 1746340040,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70817,
+      "num": 194792,
+      "word": "克里姆林宫红墙外的无名烈士墓",
+      "onboard_time": 1746462979,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70807,
@@ -6987,6 +7003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56902,
+      "num": 56902,
+      "word": "王奕和丝芭传媒打官司",
+      "onboard_time": 1746465198,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56620,
       "num": 124496,
       "word": "古代状元放到现在是什么水平",
@@ -7073,14 +7097,6 @@
       "onboard_time": 1746379458,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49045,
-      "num": 194792,
-      "word": "克里姆林宫红墙外的无名烈士墓",
-      "onboard_time": 1746462979,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48837,
@@ -7185,6 +7201,14 @@
       "onboard_time": 1746367346,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43302,
+      "num": 56348,
+      "word": "林宥嘉神爱世人",
+      "onboard_time": 1746463878,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 43073,
@@ -7681,6 +7705,14 @@
       "onboard_time": 1746393555,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18162,
+      "num": 77509,
+      "word": "假期消费热度折射经济向好的温度",
+      "onboard_time": 1746465377,
+      "rank": 24,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 18135,
