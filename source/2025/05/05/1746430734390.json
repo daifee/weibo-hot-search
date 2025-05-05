@@ -1,0 +1,410 @@
+{
+  "runTime": 1746430734390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168128,
+        "num": 1186900,
+        "word": "贵州游船倾覆最后一名失联人员被找到",
+        "onboard_time": 1746423442,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655782,
+        "num": 655782,
+        "word": "全员加速中",
+        "onboard_time": 1746425541,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97688,
+        "num": 585259,
+        "word": "小小票根带来多元消费体验",
+        "onboard_time": 1746417263,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815363,
+        "num": 582996,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558566,
+        "num": 558566,
+        "word": "泰山两游客翻越护栏险坠崖",
+        "onboard_time": 1746424342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485260,
+        "num": 485260,
+        "word": "游客感谢女船长带全船人逃过一劫",
+        "onboard_time": 1746424221,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783190,
+        "num": 477125,
+        "word": "柯淳工作室",
+        "onboard_time": 1746427403,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423499,
+        "num": 423499,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414229,
+        "num": 414229,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127870,
+        "num": 403834,
+        "word": "震撼空对空视角看中国战机飞越雪山",
+        "onboard_time": 1746427881,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1204584,
+        "num": 386272,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623326,
+        "num": 378033,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 487747,
+        "num": 363692,
+        "word": "白鹿接触LV",
+        "onboard_time": 1746423563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352846,
+        "num": 352846,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333806,
+        "num": 333806,
+        "word": "黄宗泽新剧天崩开局",
+        "onboard_time": 1746426502,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313572,
+        "num": 313572,
+        "word": "娱乐圈 瘦气",
+        "onboard_time": 1746415821,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311846,
+        "num": 311846,
+        "word": "51岁阿姨月薪1710元的独居生活",
+        "onboard_time": 1746421162,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276912,
+        "num": 276912,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30543,
+        "num": 262620,
+        "word": "特朗普抨击华尔街日报为烂报纸",
+        "onboard_time": 1746429681,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71080,
+        "num": 244260,
+        "word": "特朗普吹嘘经济好部分归他坏部分归拜登",
+        "onboard_time": 1746429500,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340198,
+        "num": 240642,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313047,
+        "num": 216065,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211030,
+        "num": 211030,
+        "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+        "onboard_time": 1746413602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203632,
+        "num": 203632,
+        "word": "赵丽颖立夏新发色",
+        "onboard_time": 1746422901,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202287,
+        "num": 202287,
+        "word": "贵州4艘游船倾覆10人遇难",
+        "onboard_time": 1746369864,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "谢霆锋妹妹谢婷婷晒二胎喜讯",
+        "onboard_time": 1746424583,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178698,
+        "num": 178698,
+        "word": "小鸡小鸡是王蓉唯一一首赚钱的歌",
+        "onboard_time": 1746425663,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168615,
+        "num": 168615,
+        "word": "撕拉片",
+        "onboard_time": 1746424523,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156409,
+        "num": 156409,
+        "word": "这是我的西游",
+        "onboard_time": 1746426081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 156286,
+        "word": "中医建议立夏后晚睡早起",
+        "onboard_time": 1746422901,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152331,
+        "num": 152331,
+        "word": "贵州游船倾覆时有人没穿救生衣",
+        "onboard_time": 1746423981,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 150061,
+        "num": 150061,
+        "word": "库里在认真的老去",
+        "onboard_time": 1746429861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140890,
+        "num": 140890,
+        "word": "景区回应游客翻越护栏称将加强监管",
+        "onboard_time": 1746428542,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133533,
+        "num": 133533,
+        "word": "明天上班进公司大门的我",
+        "onboard_time": 1746418342,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130473,
+        "num": 130473,
+        "word": "这演唱会啊还以为歌手竞演现场呢",
+        "onboard_time": 1746429681,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128950,
+        "num": 128950,
+        "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
+        "onboard_time": 1746423381,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128207,
+        "num": 128207,
+        "word": "小猫悟空去世仍有多个疑点",
+        "onboard_time": 1746420922,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120614,
+        "num": 120614,
+        "word": "焦虑的本质是对不确定的恐惧",
+        "onboard_time": 1746430221,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118923,
+        "num": 118923,
+        "word": "今年还剩11天假期",
+        "onboard_time": 1746425720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11183,
+        "num": 118081,
+        "word": "618比价红黑榜来了",
+        "onboard_time": 1746430340,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117794,
+        "num": 117794,
+        "word": "严浩翔姐姐来了",
+        "onboard_time": 1746419243,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116136,
+        "num": 116136,
+        "word": "欧尼熊",
+        "onboard_time": 1746422843,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 115693,
+        "word": "13岁女孩动漫直播间被骗购软色情玩具",
+        "onboard_time": 1746413901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115456,
+        "num": 115456,
+        "word": "晒过被子的太阳味可不是烤螨虫味",
+        "onboard_time": 1746430340,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 112258,
+        "word": "作家周晴病逝",
+        "onboard_time": 1746426982,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 104372,
+        "num": 104372,
+        "word": "五一档电影票房破7亿",
+        "onboard_time": 1746429861,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100672,
+        "num": 100672,
+        "word": "新复仇者联盟",
+        "onboard_time": 1746428421,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96881,
+        "num": 96881,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95695,
+        "num": 95695,
+        "word": "虞书欣林晚星教师vlog",
+        "onboard_time": 1746430581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95546,
+        "num": 95546,
+        "word": "杨丞琳万人喊安可现场",
+        "onboard_time": 1746428180,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}

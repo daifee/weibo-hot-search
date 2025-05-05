@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746429944689,
+  "endTime": 1746430734390,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -49,6 +49,14 @@
       "onboard_time": 1746411501,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1204584,
+      "num": 386272,
+      "word": "谁能管管商场厕所",
+      "onboard_time": 1746427160,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1150898,
@@ -185,14 +193,6 @@
       "onboard_time": 1746411681,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 676084,
-      "num": 381707,
-      "word": "谁能管管商场厕所",
-      "onboard_time": 1746427160,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 667480,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352846,
+      "num": 352846,
+      "word": "华晨宇用2000架无人机复刻日出",
+      "onboard_time": 1746428601,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349885,
       "num": 349885,
       "word": "赵丽颖立夏新发色",
@@ -697,14 +705,6 @@
       "onboard_time": 1746408262,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216059,
-      "num": 210916,
-      "word": "华晨宇用2000架无人机复刻日出",
-      "onboard_time": 1746428601,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 215946,
@@ -1155,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150061,
+      "num": 150061,
+      "word": "库里在认真的老去",
+      "onboard_time": 1746429861,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149809,
       "num": 149809,
       "word": "时代少年团solo舞台出图",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1746425783,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140890,
+      "num": 216665,
+      "word": "景区回应游客翻越护栏称将加强监管",
+      "onboard_time": 1746428542,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140521,
@@ -1323,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130473,
+      "num": 130473,
+      "word": "这演唱会啊还以为歌手竞演现场呢",
+      "onboard_time": 1746429681,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130393,
       "num": 130393,
       "word": "韶华若锦",
@@ -1355,20 +1379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127870,
+      "num": 403834,
+      "word": "震撼空对空视角看中国战机飞越雪山",
+      "onboard_time": 1746427881,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127587,
       "num": 127587,
       "word": "老累",
       "onboard_time": 1746372504,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127578,
-      "num": 208202,
-      "word": "震撼空对空视角看中国战机飞越雪山",
-      "onboard_time": 1746427881,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127294,
@@ -1451,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120614,
+      "num": 120614,
+      "word": "焦虑的本质是对不确定的恐惧",
+      "onboard_time": 1746430221,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "ACL",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1746428421,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115456,
+      "num": 115456,
+      "word": "晒过被子的太阳味可不是烤螨虫味",
+      "onboard_time": 1746430340,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 114647,
@@ -1571,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107130,
-      "num": 107130,
-      "word": "这演唱会啊还以为歌手竞演现场呢",
-      "onboard_time": 1746429681,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "特朗普称考虑用武力占领格陵兰岛",
@@ -1595,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104372,
+      "num": 104372,
+      "word": "五一档电影票房破7亿",
+      "onboard_time": 1746429861,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103979,
       "num": 103979,
       "word": "杨丞琳万人喊安可现场",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1746429142,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101418,
-      "num": 101418,
-      "word": "库里在认真的老去",
-      "onboard_time": 1746429861,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 101146,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1746424342,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100185,
-      "num": 216665,
-      "word": "景区回应游客翻越护栏称将加强监管",
-      "onboard_time": 1746428542,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100024,
@@ -1691,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96881,
+      "num": 96881,
+      "word": "日本一地出现神秘地鸣",
+      "onboard_time": 1746430642,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96854,
       "num": 96854,
       "word": "黄景瑜为新剧配音哭红眼",
@@ -1723,12 +1755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94605,
-      "num": 94605,
-      "word": "五一档电影票房破7亿",
-      "onboard_time": 1746429861,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 95695,
+      "num": 95695,
+      "word": "虞书欣林晚星教师vlog",
+      "onboard_time": 1746430581,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91644,
@@ -1843,6 +1875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71080,
+      "num": 244260,
+      "word": "特朗普吹嘘经济好部分归他坏部分归拜登",
+      "onboard_time": 1746429500,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70807,
       "num": 198988,
       "word": "小蝶状态",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1746376880,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56289,
-      "num": 220891,
-      "word": "特朗普吹嘘经济好部分归他坏部分归拜登",
-      "onboard_time": 1746429500,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54661,
@@ -2100,7 +2132,7 @@
     },
     {
       "raw_hot": 31570,
-      "num": 214892,
+      "num": 262620,
       "word": "特朗普抨击华尔街日报为烂报纸",
       "onboard_time": 1746429681,
       "rank": 22,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1746389473,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11183,
+      "num": 118081,
+      "word": "618比价红黑榜来了",
+      "onboard_time": 1746430340,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11128,
