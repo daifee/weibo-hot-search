@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746426997420,
+  "endTime": 1746427808098,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 722009,
+      "num": 722009,
+      "word": "全员加速中",
+      "onboard_time": 1746425541,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707412,
       "num": 343109,
       "word": "李兰迪泳装",
@@ -473,6 +481,14 @@
       "onboard_time": 1746383537,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 665540,
+      "num": 409532,
+      "word": "韩安冉老公片酬",
+      "onboard_time": 1746424942,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 662036,
@@ -531,12 +547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 610471,
-      "num": 409532,
-      "word": "韩安冉老公片酬",
-      "onboard_time": 1746424942,
-      "rank": 11,
-      "category": "网红"
+      "raw_hot": 614646,
+      "num": 614646,
+      "word": "游客感谢女船长带全船人逃过一劫",
+      "onboard_time": 1746424221,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 609529,
@@ -592,6 +608,14 @@
       "word": "烧烤遇卡式炉爆炸7人被炸伤",
       "onboard_time": 1746353841,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601155,
+      "num": 601155,
+      "word": "再上19天班又放假了",
+      "onboard_time": 1746423381,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -667,22 +691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 548193,
-      "num": 548193,
-      "word": "再上19天班又放假了",
-      "onboard_time": 1746423381,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545928,
-      "num": 545928,
-      "word": "游客感谢女船长带全船人逃过一劫",
-      "onboard_time": 1746424221,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538723,
       "num": 322489,
       "word": "九派新闻 赵朔",
@@ -721,14 +729,6 @@
       "onboard_time": 1746362904,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 520725,
-      "num": 520725,
-      "word": "全员加速中",
-      "onboard_time": 1746425541,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 519974,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1746339260,
       "rank": 8,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 382272,
+      "num": 382272,
+      "word": "泰山两游客翻越护栏险坠崖",
+      "onboard_time": 1746424342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378874,
@@ -1523,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265841,
+      "num": 265841,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 264883,
       "num": 264883,
       "word": "特朗普把自己P成了教皇",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1746366025,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258371,
-      "num": 258371,
-      "word": "欧尼熊",
-      "onboard_time": 1746314357,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 258194,
@@ -1707,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242442,
+      "num": 384228,
+      "word": "贵州游船倾覆时有人没穿救生衣",
+      "onboard_time": 1746423981,
+      "rank": 22,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 242015,
       "num": 242015,
       "word": "K总说家里不是小孩写作业的地方",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1746360143,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235554,
-      "num": 235554,
-      "word": "贵州游船倾覆时有人没穿救生衣",
-      "onboard_time": 1746423981,
-      "rank": 22,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 232719,
@@ -1785,6 +1793,14 @@
       "onboard_time": 1746332060,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 225295,
+      "num": 492875,
+      "word": "贵州4艘游船倾覆10人遇难",
+      "onboard_time": 1746369864,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224453,
@@ -1883,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213558,
+      "num": 203732,
+      "word": "中医建议立夏后晚睡早起",
+      "onboard_time": 1746422901,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 213368,
       "num": 200452,
       "word": "姜磊否认云歌会逼成毅",
@@ -1923,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210862,
+      "num": 228531,
+      "word": "黄宗泽新剧天崩开局",
+      "onboard_time": 1746426502,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209621,
       "num": 281578,
       "word": "哪吒2破158亿了",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1746419363,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209526,
-      "num": 492875,
-      "word": "贵州4艘游船倾覆10人遇难",
-      "onboard_time": 1746369864,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209205,
@@ -2139,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205132,
+      "num": 205132,
+      "word": "柯淳工作室",
+      "onboard_time": 1746427403,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204901,
       "num": 122209,
       "word": "工藤新一第31个17岁",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1746372025,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203732,
-      "num": 203732,
-      "word": "中医建议立夏后晚睡早起",
-      "onboard_time": 1746422901,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 203274,
@@ -2379,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195269,
+      "num": 195269,
+      "word": "撕拉片",
+      "onboard_time": 1746424523,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194715,
       "num": 278935,
       "word": "王一博五四晚会造型出图",
@@ -2539,6 +2571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186613,
+      "num": 186613,
+      "word": "谁能管管商场厕所",
+      "onboard_time": 1746427160,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186184,
       "num": 186184,
       "word": "孙怡人鱼公主发色",
@@ -2561,6 +2601,14 @@
       "onboard_time": 1746412040,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184226,
+      "num": 202535,
+      "word": "欧豪张佳宁一搭be二搭直达婚礼",
+      "onboard_time": 1746424101,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 183482,
@@ -2851,14 +2899,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 167256,
-      "num": 167256,
-      "word": "黄宗泽新剧天崩开局",
-      "onboard_time": 1746426502,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167198,
       "num": 240565,
       "word": "TFBOYS为王源音乐节打call",
@@ -2995,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162557,
-      "num": 162557,
-      "word": "泰山两游客翻越护栏险坠崖",
-      "onboard_time": 1746424342,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160882,
       "num": 160882,
       "word": "王者荣耀",
@@ -3089,6 +3121,14 @@
       "onboard_time": 1746323600,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157051,
+      "num": 157051,
+      "word": "今年还剩11天假期",
+      "onboard_time": 1746425720,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156826,
@@ -3276,7 +3316,7 @@
     },
     {
       "raw_hot": 149164,
-      "num": 149164,
+      "num": 201389,
       "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
       "onboard_time": 1746423381,
       "rank": 42,
@@ -3299,12 +3339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148010,
-      "num": 148010,
-      "word": "欧豪张佳宁一搭be二搭直达婚礼",
-      "onboard_time": 1746424101,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 148409,
+      "num": 148409,
+      "word": "张杰鸟巢连开破纪录",
+      "onboard_time": 1746426562,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 147838,
@@ -3379,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145743,
+      "num": 145743,
+      "word": "婚礼上的狗方亲友",
+      "onboard_time": 1746426502,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145095,
       "num": 205285,
       "word": "韩国人可太爱延吉游了",
@@ -3393,14 +3441,6 @@
       "onboard_time": 1746420980,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144268,
-      "num": 144268,
-      "word": "撕拉片",
-      "onboard_time": 1746424523,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144235,
@@ -3489,14 +3529,6 @@
       "onboard_time": 1746370945,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140687,
-      "num": 140687,
-      "word": "今年还剩11天假期",
-      "onboard_time": 1746425720,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140521,
@@ -3635,20 +3667,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137535,
-      "num": 137535,
-      "word": "婚礼上的狗方亲友",
-      "onboard_time": 1746426502,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "刘翔的赛会纪录被提升0.1秒",
       "onboard_time": 1746353362,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136848,
+      "num": 196712,
+      "word": "灵魂画手卡琳娜画哆啦A梦",
+      "onboard_time": 1746427160,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 136160,
@@ -3745,6 +3777,14 @@
       "onboard_time": 1746422843,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131195,
+      "num": 131195,
+      "word": "作家周晴病逝",
+      "onboard_time": 1746426982,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 130688,
@@ -3860,7 +3900,7 @@
     },
     {
       "raw_hot": 127294,
-      "num": 127294,
+      "num": 204330,
       "word": "英国闺蜜与全红婵的跨国友情",
       "onboard_time": 1746420022,
       "rank": 47,
@@ -4067,6 +4107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 118917,
+      "num": 118917,
+      "word": "ACL",
+      "onboard_time": 1746427223,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118498,
       "num": 118498,
       "word": "谁给李帝努做的发型",
@@ -4137,6 +4185,14 @@
       "onboard_time": 1746329001,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114647,
+      "num": 114647,
+      "word": "南京明孝陵石兽骆驼被写到此一游",
+      "onboard_time": 1746427521,
+      "rank": 44,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 114488,
@@ -4227,14 +4283,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 111083,
-      "num": 111083,
-      "word": "张杰鸟巢连开破纪录",
-      "onboard_time": 1746426562,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111004,
       "num": 702961,
       "word": "五一假期文旅市场有哪些新亮点",
@@ -4321,6 +4369,14 @@
       "onboard_time": 1746336620,
       "rank": 46,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 106740,
+      "num": 106740,
+      "word": "特朗普称考虑用武力占领格陵兰岛",
+      "onboard_time": 1746426261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106649,
@@ -4609,14 +4665,6 @@
       "onboard_time": 1746345985,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94990,
-      "num": 94990,
-      "word": "特朗普称考虑用武力占领格陵兰岛",
-      "onboard_time": 1746426261,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94831,
@@ -5027,6 +5075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 64019,
+      "num": 198034,
+      "word": "LadyGaga演唱会遭恐怖袭击威胁",
+      "onboard_time": 1746424703,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63912,
       "num": 63912,
       "word": "葫芦果音乐节",
@@ -5137,14 +5193,6 @@
       "onboard_time": 1746342681,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55957,
-      "num": 168374,
-      "word": "LadyGaga演唱会遭恐怖袭击威胁",
-      "onboard_time": 1746424703,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 55720,
@@ -5299,6 +5347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43073,
+      "num": 233024,
+      "word": "勇士还能过森林狼这关吗",
+      "onboard_time": 1746423202,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42935,
       "num": 269777,
       "word": "王权弘业穿着深V就要去见老丈人",
@@ -5369,14 +5425,6 @@
       "onboard_time": 1746304216,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38721,
-      "num": 233024,
-      "word": "勇士还能过森林狼这关吗",
-      "onboard_time": 1746423202,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 38673,
