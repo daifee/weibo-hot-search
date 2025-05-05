@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746415837119,
+  "endTime": 1746417424664,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -17,6 +17,14 @@
       "onboard_time": 1746412102,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1349917,
+      "num": 1349917,
+      "word": "特朗普再发涉二战惊人言论",
+      "onboard_time": 1746414682,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1338939,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 836476,
+      "num": 455819,
+      "word": "娱乐圈 瘦气",
+      "onboard_time": 1746415821,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808687,
       "num": 808687,
       "word": "游客吐槽天津一奶茶品牌包装有不雅字",
@@ -80,6 +96,14 @@
       "word": "景区回应大量虫子往脖子里钻",
       "onboard_time": 1746410782,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740594,
+      "num": 541747,
+      "word": "13岁女孩动漫直播间被骗购软色情玩具",
+      "onboard_time": 1746413901,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -99,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 703230,
-      "num": 541747,
-      "word": "13岁女孩动漫直播间被骗购软色情玩具",
-      "onboard_time": 1746413901,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 667480,
       "num": 924314,
       "word": "西安夜空不明物可能是什么",
@@ -121,14 +137,6 @@
       "onboard_time": 1746375081,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 639010,
-      "num": 639010,
-      "word": "特朗普再发涉二战惊人言论",
-      "onboard_time": 1746414682,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 621587,
@@ -179,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490854,
+      "num": 543925,
+      "word": "已有多所高中不再双休",
+      "onboard_time": 1746414503,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486766,
+      "num": 486766,
+      "word": "灵隐寺小卖部年租金260万引质疑",
+      "onboard_time": 1746415164,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475451,
       "num": 475451,
       "word": "李晨第三次看时代少年团演唱会",
@@ -193,6 +217,14 @@
       "onboard_time": 1746369086,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459256,
+      "num": 459256,
+      "word": "孙颖莎嘉人封面释出",
+      "onboard_time": 1746415164,
+      "rank": 12,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 455693,
@@ -219,14 +251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 416343,
-      "num": 416343,
-      "word": "孙颖莎嘉人封面释出",
-      "onboard_time": 1746415164,
-      "rank": 12,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 401109,
       "num": 269701,
       "word": "白百何首晒二胎儿子",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 397588,
-      "num": 404818,
+      "num": 405805,
       "word": "陈铭谈奇葩说停播原因",
       "onboard_time": 1746412401,
       "rank": 12,
@@ -265,6 +289,14 @@
       "onboard_time": 1746411380,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363326,
+      "num": 363326,
+      "word": "原教育局长让下属帮其女儿办婚礼",
+      "onboard_time": 1746415821,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 355657,
@@ -323,14 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 311703,
-      "num": 543925,
-      "word": "已有多所高中不再双休",
-      "onboard_time": 1746414503,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309474,
       "num": 309474,
       "word": "孙颖莎立夏海报",
@@ -379,6 +403,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288195,
+      "num": 288195,
+      "word": "库里晚安",
+      "onboard_time": 1746415762,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 287222,
+      "num": 398760,
+      "word": "爸爸当家",
+      "onboard_time": 1746415642,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286998,
       "num": 286998,
       "word": "贵州游船事故亲历者发声",
@@ -419,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243823,
+      "num": 243823,
+      "word": "勇士4比3淘汰火箭",
+      "onboard_time": 1746415882,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238673,
       "num": 238673,
       "word": "情侣想改名惹怒老父亲",
@@ -449,6 +497,14 @@
       "onboard_time": 1746408262,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215946,
+      "num": 215946,
+      "word": "雷军小米之家职务变更",
+      "onboard_time": 1746416662,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 212411,
@@ -505,6 +561,14 @@
       "onboard_time": 1746412522,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203274,
+      "num": 279686,
+      "word": "华晨宇嘴巴在笑眼睛在哭",
+      "onboard_time": 1746416183,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 201138,
@@ -579,6 +643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194145,
+      "num": 266652,
+      "word": "奔跑吧后期特效没放过任何人",
+      "onboard_time": 1746415343,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193363,
+      "num": 193363,
+      "word": "嘉人头像换成孙颖莎了",
+      "onboard_time": 1746416301,
+      "rank": 35,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 184259,
       "num": 184259,
       "word": "张韶涵演唱会不慎摔倒",
@@ -619,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170539,
+      "num": 170539,
+      "word": "贵州游船倾覆事故70人还在医院救治",
+      "onboard_time": 1746416782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168383,
       "num": 168383,
       "word": "SMTR25墨西哥舞台剧透",
@@ -635,12 +723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 166799,
-      "num": 166799,
-      "word": "奔跑吧后期特效没放过任何人",
-      "onboard_time": 1746415343,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 163981,
+      "num": 163981,
+      "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
+      "onboard_time": 1746417021,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156826,
@@ -715,19 +803,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143512,
-      "num": 143512,
-      "word": "爸爸当家",
-      "onboard_time": 1746415642,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140082,
       "num": 140082,
       "word": "黄霄雲音乐节现场军训",
       "onboard_time": 1746414622,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "周深人被风吹跑音调都没跑",
+      "onboard_time": 1746417323,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -753,14 +841,6 @@
       "onboard_time": 1746362544,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127641,
-      "num": 127641,
-      "word": "库里晚安",
-      "onboard_time": 1746415762,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 127587,
@@ -817,6 +897,14 @@
       "onboard_time": 1746370046,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121789,
+      "num": 415572,
+      "word": "饿了么让五一假期的奶茶店忙疯了",
+      "onboard_time": 1746414080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 120710,
@@ -915,14 +1003,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 107530,
-      "num": 413294,
-      "word": "灵隐寺小卖部年租金260万引质疑",
-      "onboard_time": 1746415164,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107314,
       "num": 107314,
       "word": "李沐宸抱歉让大家失望",
@@ -1003,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91771,
-      "num": 409422,
-      "word": "饿了么让五一假期的奶茶店忙疯了",
-      "onboard_time": 1746414080,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 91644,
       "num": 195556,
       "word": "立夏养心记得多吃酸",
@@ -1025,6 +1097,14 @@
       "onboard_time": 1746352821,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88667,
+      "num": 291088,
+      "word": "朱婷夺赛季全满贯",
+      "onboard_time": 1746416601,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 87655,
@@ -1131,6 +1211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60228,
+      "num": 276313,
+      "word": "梅德韦杰夫回应特朗普涉二战言论",
+      "onboard_time": 1746416902,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59528,
       "num": 59528,
       "word": "日方有关言论颠倒是非",
@@ -1160,6 +1248,14 @@
       "word": "五一假期余额仅剩1天",
       "onboard_time": 1746376880,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54661,
+      "num": 366249,
+      "word": "医院违规做试管遭质疑后嚣张回应",
+      "onboard_time": 1746417202,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1347,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11128,
+      "num": 383781,
+      "word": "景区陪爬能成为新职业吗",
+      "onboard_time": 1746416542,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10957,
       "num": 30223,
       "word": "中方坚定维护国家领土主权和海洋权益",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1746414143,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7903,
+      "num": 685250,
+      "word": "小小票根带来多元消费体验",
+      "onboard_time": 1746417263,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6169,
