@@ -1,0 +1,410 @@
+{
+  "runTime": 1746459691155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2626486,
+        "num": 2626486,
+        "word": "金泰梨二封百想视后",
+        "onboard_time": 1746456504,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1521241,
+        "num": 1521241,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225017,
+        "num": 1254369,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1850258,
+        "num": 1186139,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097593,
+        "num": 1097593,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432504,
+        "num": 432504,
+        "word": "赵心童17比8拿到冠军点",
+        "onboard_time": 1746457283,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916051,
+        "num": 430295,
+        "word": "王奕解约",
+        "onboard_time": 1746457703,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419459,
+        "num": 419459,
+        "word": "周思成直播查雅思成绩",
+        "onboard_time": 1746451762,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406330,
+        "num": 406330,
+        "word": "周深在沙漠唱响化身孤岛的鲸",
+        "onboard_time": 1746457162,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304924,
+        "num": 304924,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551692,
+        "num": 303773,
+        "word": "朱智勋获百想视帝",
+        "onboard_time": 1746456865,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534012,
+        "num": 294721,
+        "word": "百想获奖名单",
+        "onboard_time": 1746452784,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474802,
+        "num": 281365,
+        "word": "曹政奭百想影帝",
+        "onboard_time": 1746457162,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464798,
+        "num": 273314,
+        "word": "全度妍五封百想影后",
+        "onboard_time": 1746457162,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97776,
+        "num": 271053,
+        "word": "淘宝闪购上线6天日订单已千万",
+        "onboard_time": 1746457283,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263333,
+        "num": 263333,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187433,
+        "num": 262299,
+        "word": "陈芋汐跳水世界杯发博",
+        "onboard_time": 1746455843,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139494,
+        "num": 262250,
+        "word": "斯诺克",
+        "onboard_time": 1746450262,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138637,
+        "num": 260418,
+        "word": "崔康熙 下课",
+        "onboard_time": 1746456384,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30491,
+        "num": 259320,
+        "word": "博主称猪脚饭后厨有活鼠店长报警",
+        "onboard_time": 1746458843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365747,
+        "num": 258308,
+        "word": "石凯 全员加速中",
+        "onboard_time": 1746451642,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355162,
+        "num": 257950,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317318,
+        "num": 256252,
+        "word": "杨紫去年就拍了撕拉片",
+        "onboard_time": 1746449601,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314396,
+        "num": 255374,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291265,
+        "num": 254813,
+        "word": "阿姨是黄圣依和妈妈之间的禁忌词",
+        "onboard_time": 1746457225,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287288,
+        "num": 253205,
+        "word": "可心 欧尼熊",
+        "onboard_time": 1746458902,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285808,
+        "num": 252198,
+        "word": "王奕发长文",
+        "onboard_time": 1746456144,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164313,
+        "num": 251776,
+        "word": "丁俊晖",
+        "onboard_time": 1746459322,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250854,
+        "num": 250854,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76256,
+        "num": 223035,
+        "word": "赵心童远台进攻太准了",
+        "onboard_time": 1746458422,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218424,
+        "num": 218424,
+        "word": "胖东来玉石产品抽检全合规",
+        "onboard_time": 1746455065,
+        "rank": 30,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 217295,
+        "num": 217295,
+        "word": "爱纯妈妈获奖了",
+        "onboard_time": 1746452903,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 735718,
+        "num": 206932,
+        "word": "流量化的音乐节不该让专业歌手托底",
+        "onboard_time": 1746451043,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88374,
+        "num": 196511,
+        "word": "好莱坞一批新片将受电影关税影响",
+        "onboard_time": 1746457643,
+        "rank": 33,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 196256,
+        "num": 196256,
+        "word": "诗情画奕",
+        "onboard_time": 1746459263,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189813,
+        "num": 189813,
+        "word": "苦尽柑来遇见你百想最佳作品",
+        "onboard_time": 1746458422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182845,
+        "num": 182845,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175319,
+        "num": 175319,
+        "word": "短剧女演员杨珊子拍戏遇极端天气",
+        "onboard_time": 1746459081,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162814,
+        "num": 162814,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138407,
+        "num": 138407,
+        "word": "谁来田曦薇这都得后空翻一个再走",
+        "onboard_time": 1746457944,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137895,
+        "num": 137895,
+        "word": "4集演出了别人40集的进度",
+        "onboard_time": 1746449241,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118440,
+        "num": 137834,
+        "word": "王奕连一口饭都咽不下去了",
+        "onboard_time": 1746459621,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137796,
+        "num": 137796,
+        "word": "薛小婉任权要领证了",
+        "onboard_time": 1746454284,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137054,
+        "num": 137054,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136318,
+        "num": 136318,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115198,
+        "num": 133255,
+        "word": "接亲路上国家给刷了个大火箭",
+        "onboard_time": 1746459382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132601,
+        "num": 132601,
+        "word": "刘诗诗没带马甲",
+        "onboard_time": 1746458782,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 132184,
+        "word": "薛之谦彩带",
+        "onboard_time": 1746456744,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129989,
+        "num": 129989,
+        "word": "赴山海剧宣",
+        "onboard_time": 1746450024,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27637,
+        "num": 124335,
+        "word": "适合立夏节气的运动有哪些",
+        "onboard_time": 1746458183,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
