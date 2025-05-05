@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746452117804,
+  "endTime": 1746452771426,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -91,8 +91,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 1272189,
-      "num": 1272189,
+      "raw_hot": 1276923,
+      "num": 1276923,
       "word": "百想",
       "onboard_time": 1746442701,
       "rank": 25,
@@ -193,6 +193,14 @@
       "onboard_time": 1746413602,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 869209,
+      "num": 869209,
+      "word": "流量化的音乐节不该让专业歌手托底",
+      "onboard_time": 1746451043,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 831366,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688631,
+      "num": 688631,
+      "word": "4集演出了别人40集的进度",
+      "onboard_time": 1746449241,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674744,
       "num": 515292,
       "word": "刘涛怼刘奕畅",
@@ -311,6 +327,14 @@
       "num": 924314,
       "word": "西安夜空不明物可能是什么",
       "onboard_time": 1746383537,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 660445,
+      "num": 545111,
+      "word": "贵州",
+      "onboard_time": 1746447922,
       "rank": 34,
       "category": "民生新闻"
     },
@@ -339,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635549,
+      "num": 615217,
+      "word": "杨紫去年就拍了撕拉片",
+      "onboard_time": 1746449601,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632977,
       "num": 377434,
       "word": "这是我的西游直播",
@@ -347,28 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 626547,
-      "num": 626547,
-      "word": "4集演出了别人40集的进度",
-      "onboard_time": 1746449241,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 621587,
       "num": 271696,
       "word": "文严文",
       "onboard_time": 1746372923,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 615217,
-      "num": 615217,
-      "word": "杨紫去年就拍了撕拉片",
-      "onboard_time": 1746449601,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 614646,
@@ -456,14 +472,6 @@
       "word": "偷拍裙底关乎女性安全感不能姑息",
       "onboard_time": 1746432861,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544941,
-      "num": 383189,
-      "word": "贵州",
-      "onboard_time": 1746447922,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 433351,
-      "num": 433351,
+      "num": 613633,
       "word": "五一假期全国消费市场数据来了",
       "onboard_time": 1746449783,
       "rank": 29,
@@ -667,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419920,
+      "num": 419920,
+      "word": "石凯 全员加速中",
+      "onboard_time": 1746451642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418202,
       "num": 418202,
       "word": "林心如霍建华带女儿看电影",
@@ -697,14 +713,6 @@
       "onboard_time": 1746412401,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393468,
-      "num": 393468,
-      "word": "流量化的音乐节不该让专业歌手托底",
-      "onboard_time": 1746451043,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 392363,
@@ -739,6 +747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 374313,
+      "num": 374313,
+      "word": "周思成直播查雅思成绩",
+      "onboard_time": 1746451762,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 373000,
       "num": 373000,
       "word": "严浩翔姐姐来了",
@@ -761,6 +777,22 @@
       "onboard_time": 1746370105,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352501,
+      "num": 352501,
+      "word": "90后干部多次收受茅台五粮液",
+      "onboard_time": 1746450742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351579,
+      "num": 287104,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 349885,
@@ -851,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318496,
-      "num": 263793,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
@@ -913,6 +937,14 @@
       "onboard_time": 1746404960,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299350,
+      "num": 270719,
+      "word": "苦尽柑来遇见你百想最佳剧本奖",
+      "onboard_time": 1746452063,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 297403,
@@ -1019,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254767,
-      "num": 254767,
-      "word": "苦尽柑来遇见你百想最佳剧本奖",
-      "onboard_time": 1746452063,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254257,
       "num": 254257,
       "word": "情侣想改名惹怒老父亲",
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251370,
+      "num": 251370,
+      "word": "小猫悟空",
+      "onboard_time": 1746449481,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251241,
       "num": 251241,
       "word": "黄圣依和妈妈相处方式",
@@ -1056,6 +1088,14 @@
       "word": "这是我的西游",
       "onboard_time": 1746426081,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246615,
+      "num": 246615,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1107,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229511,
-      "num": 229511,
-      "word": "小猫悟空",
-      "onboard_time": 1746449481,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 228281,
       "num": 228281,
       "word": "优时颜 张康乐马柏全采访",
@@ -1163,14 +1195,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216671,
-      "num": 216671,
-      "word": "石凯 全员加速中",
-      "onboard_time": 1746451642,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215946,
       "num": 215946,
       "word": "雷军小米之家职务变更",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1746401058,
       "rank": 6,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 211725,
+      "num": 211725,
+      "word": "男子买牛油果水果切盘打开后傻眼了",
+      "onboard_time": 1746450623,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211042,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1746350121,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 209270,
-      "num": 209270,
-      "word": "男子买牛油果水果切盘打开后傻眼了",
-      "onboard_time": 1746450623,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209205,
@@ -1299,20 +1323,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206381,
+      "num": 206381,
+      "word": "孟佳连续唱跳35分钟",
+      "onboard_time": 1746451642,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205647,
       "num": 205647,
       "word": "运动瘦和饿瘦哪个瘦得快",
       "onboard_time": 1746374122,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 205373,
-      "num": 203537,
-      "word": "百想直播",
-      "onboard_time": 1746447320,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 205143,
@@ -1427,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195951,
-      "num": 342766,
-      "word": "90后干部多次收受茅台五粮液",
-      "onboard_time": 1746450742,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195481,
       "num": 195481,
       "word": "180斤女子减重65斤后感叹人生美好",
@@ -1507,19 +1523,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187422,
+      "num": 187422,
+      "word": "嘉祺别走",
+      "onboard_time": 1746452663,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186762,
       "num": 186762,
       "word": "DeepSeek教师指令大全",
       "onboard_time": 1746417563,
       "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 184829,
-      "num": 184829,
-      "word": "周思成直播查雅思成绩",
-      "onboard_time": 1746451762,
-      "rank": 37,
       "category": "教育"
     },
     {
@@ -1552,6 +1568,14 @@
       "word": "欧豪真的豪豪豪豪豪多新剧",
       "onboard_time": 1746434781,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180338,
+      "num": 180338,
+      "word": "我那么大的一个高圆圆去哪儿了",
+      "onboard_time": 1746452244,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1659,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 166635,
+      "num": 166635,
+      "word": "陶喆说火是我同事点的",
+      "onboard_time": 1746452484,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165473,
       "num": 187650,
       "word": "权志龙演唱会状态",
@@ -1729,6 +1761,22 @@
       "onboard_time": 1746444323,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160129,
+      "num": 160129,
+      "word": "陈丽君说坚持会开出梦想的花",
+      "onboard_time": 1746452484,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159265,
+      "num": 159265,
+      "word": "KLG对战JDG",
+      "onboard_time": 1746451762,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 159193,
@@ -1899,14 +1947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147812,
-      "num": 147812,
-      "word": "KLG对战JDG",
-      "onboard_time": 1746451762,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147164,
       "num": 147164,
       "word": "5月5日13时57分迎来立夏",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1746420980,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144050,
-      "num": 144050,
-      "word": "孟佳连续唱跳35分钟",
-      "onboard_time": 1746451642,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 144007,
@@ -2035,6 +2067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 137419,
+      "num": 137419,
+      "word": "沈月晒御妖国拍立得",
+      "onboard_time": 1746451702,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136848,
       "num": 196712,
       "word": "灵魂画手卡琳娜画哆啦A梦",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1746417323,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135779,
+      "num": 135779,
+      "word": "五一就是把上半年挣的工资花掉",
+      "onboard_time": 1746451883,
+      "rank": 40,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 135629,
@@ -2171,12 +2219,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 129885,
-      "num": 129885,
-      "word": "五一就是把上半年挣的工资花掉",
-      "onboard_time": 1746451883,
-      "rank": 40,
-      "category": "情感,民生新闻"
+      "raw_hot": 129296,
+      "num": 129296,
+      "word": "欧豪张佳宁CP",
+      "onboard_time": 1746452424,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 128605,
@@ -2467,14 +2515,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 114509,
-      "num": 114509,
-      "word": "沈月晒御妖国拍立得",
-      "onboard_time": 1746451702,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114358,
       "num": 541695,
       "word": "文化中国行之立夏节气",
@@ -2619,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108911,
+      "num": 108911,
+      "word": "河南队vs天津津门虎",
+      "onboard_time": 1746452424,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107860,
       "num": 107860,
       "word": "这种运动可有效降低体内炎症",
@@ -2691,6 +2739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104307,
+      "num": 112966,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1746452063,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103979,
       "num": 103979,
       "word": "杨丞琳万人喊安可现场",
@@ -2705,14 +2761,6 @@
       "onboard_time": 1746444921,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102693,
-      "num": 112966,
-      "word": "TTG战胜Hero",
-      "onboard_time": 1746452063,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 101474,
@@ -3075,6 +3123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63220,
+      "num": 319063,
+      "word": "张信哲也没约到大同景区门票",
+      "onboard_time": 1746451165,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61233,
       "num": 200729,
       "word": "普京称俄乌和解不可避免",
@@ -3265,14 +3321,6 @@
       "onboard_time": 1746362606,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 36648,
-      "num": 319063,
-      "word": "张信哲也没约到大同景区门票",
-      "onboard_time": 1746451165,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 36391,

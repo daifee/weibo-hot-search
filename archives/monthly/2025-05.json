@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746452117804,
+  "endTime": 1746452771426,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -483,20 +483,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1276923,
+      "num": 1276923,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1272960,
       "num": 1272960,
       "word": "刘烨 秒删党",
       "onboard_time": 1746154469,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272189,
-      "num": 1272189,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1268836,
@@ -1059,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 869209,
+      "num": 869209,
+      "word": "流量化的音乐节不该让专业歌手托底",
+      "onboard_time": 1746451043,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 867633,
       "num": 458907,
       "word": "石凯前女友回应",
@@ -1507,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688631,
+      "num": 688631,
+      "word": "4集演出了别人40集的进度",
+      "onboard_time": 1746449241,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683337,
       "num": 683337,
       "word": "Bin blg回来了",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1746327680,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 660445,
+      "num": 545111,
+      "word": "贵州",
+      "onboard_time": 1746447922,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 658507,
@@ -1667,6 +1691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 635549,
+      "num": 615217,
+      "word": "杨紫去年就拍了撕拉片",
+      "onboard_time": 1746449601,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 633876,
       "num": 633876,
       "word": "刘诗诗仪态",
@@ -1723,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626547,
-      "num": 626547,
-      "word": "4集演出了别人40集的进度",
-      "onboard_time": 1746449241,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 623715,
       "num": 623715,
       "word": "夫妻吵架丈夫被扔高速上手机也没带",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1746096502,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 615217,
-      "num": 615217,
-      "word": "杨紫去年就拍了撕拉片",
-      "onboard_time": 1746449601,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 614646,
@@ -2145,14 +2161,6 @@
       "onboard_time": 1746072620,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544941,
-      "num": 383189,
-      "word": "贵州",
-      "onboard_time": 1746447922,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540889,
@@ -2892,7 +2900,7 @@
     },
     {
       "raw_hot": 433351,
-      "num": 433351,
+      "num": 613633,
       "word": "五一假期全国消费市场数据来了",
       "onboard_time": 1746449783,
       "rank": 29,
@@ -3017,6 +3025,14 @@
       "onboard_time": 1746095061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419920,
+      "num": 419920,
+      "word": "石凯 全员加速中",
+      "onboard_time": 1746451642,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 419830,
@@ -3227,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 393468,
-      "num": 393468,
-      "word": "流量化的音乐节不该让专业歌手托底",
-      "onboard_time": 1746451043,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 393455,
       "num": 393455,
       "word": "杜华说百万年薪应该带脑子上班",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1746103761,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 374313,
+      "num": 374313,
+      "word": "周思成直播查雅思成绩",
+      "onboard_time": 1746451762,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 374306,
@@ -3539,12 +3555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352501,
+      "num": 352501,
+      "word": "90后干部多次收受茅台五粮液",
+      "onboard_time": 1746450742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352238,
       "num": 209652,
       "word": "麻省理工女硕士香港月租5万的家",
       "onboard_time": 1746344960,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351579,
+      "num": 287104,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 351163,
@@ -3939,14 +3971,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 318496,
-      "num": 263793,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317350,
       "num": 317350,
       "word": "王珞丹浪姐遭遇信任崩塌",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1746404960,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299350,
+      "num": 270719,
+      "word": "苦尽柑来遇见你百想最佳剧本奖",
+      "onboard_time": 1746452063,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 298610,
@@ -4867,14 +4899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254767,
-      "num": 254767,
-      "word": "苦尽柑来遇见你百想最佳剧本奖",
-      "onboard_time": 1746452063,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254270,
       "num": 254270,
       "word": "张智霖袁咏仪视频都在打麻将",
@@ -4929,6 +4953,14 @@
       "onboard_time": 1746326720,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251370,
+      "num": 251370,
+      "word": "小猫悟空",
+      "onboard_time": 1746449481,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 251241,
@@ -5033,6 +5065,14 @@
       "onboard_time": 1746368305,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246615,
+      "num": 246615,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 246604,
@@ -5257,14 +5297,6 @@
       "onboard_time": 1746040395,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229511,
-      "num": 229511,
-      "word": "小猫悟空",
-      "onboard_time": 1746449481,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 229190,
@@ -5563,14 +5595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 216671,
-      "num": 216671,
-      "word": "石凯 全员加速中",
-      "onboard_time": 1746451642,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215946,
       "num": 215946,
       "word": "雷军小米之家职务变更",
@@ -5657,6 +5681,14 @@
       "onboard_time": 1746401058,
       "rank": 6,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 211725,
+      "num": 211725,
+      "word": "男子买牛油果水果切盘打开后傻眼了",
+      "onboard_time": 1746450623,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211194,
@@ -5753,14 +5785,6 @@
       "onboard_time": 1746109943,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209270,
-      "num": 209270,
-      "word": "男子买牛油果水果切盘打开后傻眼了",
-      "onboard_time": 1746450623,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209205,
@@ -5963,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206381,
+      "num": 206381,
+      "word": "孟佳连续唱跳35分钟",
+      "onboard_time": 1746451642,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206372,
       "num": 233224,
       "word": "严浩翔贺峻霖对唱",
@@ -6009,14 +6041,6 @@
       "onboard_time": 1746374122,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 205373,
-      "num": 203537,
-      "word": "百想直播",
-      "onboard_time": 1746447320,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 205203,
@@ -6657,14 +6681,6 @@
       "onboard_time": 1746363084,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195951,
-      "num": 342766,
-      "word": "90后干部多次收受茅台五粮液",
-      "onboard_time": 1746450742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195821,
@@ -7371,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187422,
+      "num": 187422,
+      "word": "嘉祺别走",
+      "onboard_time": 1746452663,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187412,
       "num": 280476,
       "word": "愿此行终抵群星",
@@ -7555,14 +7579,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 184829,
-      "num": 184829,
-      "word": "周思成直播查雅思成绩",
-      "onboard_time": 1746451762,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "张峻豪音乐节",
@@ -7745,6 +7761,14 @@
       "onboard_time": 1746350901,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180338,
+      "num": 180338,
+      "word": "我那么大的一个高圆圆去哪儿了",
+      "onboard_time": 1746452244,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180168,
@@ -8451,6 +8475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166635,
+      "num": 166635,
+      "word": "陶喆说火是我同事点的",
+      "onboard_time": 1746452484,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166624,
       "num": 166624,
       "word": "韩国人把这家超市业绩买成上海区第一",
@@ -8971,6 +9003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160129,
+      "num": 160129,
+      "word": "陈丽君说坚持会开出梦想的花",
+      "onboard_time": 1746452484,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "张凌赫手臂肌肉",
@@ -9008,6 +9048,14 @@
       "word": "PEL",
       "onboard_time": 1746368605,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 159265,
+      "num": 159265,
+      "word": "KLG对战JDG",
+      "onboard_time": 1746451762,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -9907,14 +9955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147812,
-      "num": 147812,
-      "word": "KLG对战JDG",
-      "onboard_time": 1746451762,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147779,
       "num": 147779,
       "word": "虞书欣千禧风辣妹",
@@ -10257,14 +10297,6 @@
       "onboard_time": 1746289461,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144050,
-      "num": 144050,
-      "word": "孟佳连续唱跳35分钟",
-      "onboard_time": 1746451642,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 144007,
@@ -10827,6 +10859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137419,
+      "num": 137419,
+      "word": "沈月晒御妖国拍立得",
+      "onboard_time": 1746451702,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137414,
       "num": 137414,
       "word": "黄仁勋称华为全球最强科技公司之一",
@@ -10969,6 +11009,14 @@
       "onboard_time": 1746253999,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135779,
+      "num": 135779,
+      "word": "五一就是把上半年挣的工资花掉",
+      "onboard_time": 1746451883,
+      "rank": 40,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 135746,
@@ -11531,14 +11579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129885,
-      "num": 129885,
-      "word": "五一就是把上半年挣的工资花掉",
-      "onboard_time": 1746451883,
-      "rank": 40,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "医生谈网上配镜存在多重隐患",
@@ -11577,6 +11617,14 @@
       "onboard_time": 1746361463,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129296,
+      "num": 129296,
+      "word": "欧豪张佳宁CP",
+      "onboard_time": 1746452424,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129128,
@@ -12987,14 +13035,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 114509,
-      "num": 114509,
-      "word": "沈月晒御妖国拍立得",
-      "onboard_time": 1746451702,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114504,
       "num": 114504,
       "word": "美国重大旅行车祸有中国公民伤亡",
@@ -13515,6 +13555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108911,
+      "num": 108911,
+      "word": "河南队vs天津津门虎",
+      "onboard_time": 1746452424,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108898,
       "num": 108898,
       "word": "成都GG对战MRC",
@@ -13923,6 +13971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104307,
+      "num": 112966,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1746452063,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104217,
       "num": 191897,
       "word": "美国电商平台商品价格全线上涨",
@@ -14041,14 +14097,6 @@
       "onboard_time": 1746252740,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102693,
-      "num": 112966,
-      "word": "TTG战胜Hero",
-      "onboard_time": 1746452063,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 102407,
@@ -15971,6 +16019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63220,
+      "num": 319063,
+      "word": "张信哲也没约到大同景区门票",
+      "onboard_time": 1746451165,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 63189,
       "num": 63189,
       "word": "廷奇12秒87打破刘翔赛会纪录",
@@ -17145,14 +17201,6 @@
       "onboard_time": 1746169290,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 36648,
-      "num": 319063,
-      "word": "张信哲也没约到大同景区门票",
-      "onboard_time": 1746451165,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 36598,
