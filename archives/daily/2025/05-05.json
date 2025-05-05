@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746401852722,
+  "endTime": 1746410408458,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -8,6 +8,14 @@
       "word": "贵州黔西游船侧翻事故约70人落水",
       "onboard_time": 1746359842,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1338939,
+      "num": 1338939,
+      "word": "上海欢乐谷失火被游客误认节目效果",
+      "onboard_time": 1746401418,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -22,6 +30,14 @@
       "raw_hot": 1053371,
       "num": 1053371,
       "word": "贵州游船倾覆事故已致3人死亡",
+      "onboard_time": 1746369864,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1036212,
+      "num": 1036212,
+      "word": "贵州游船倾覆事故已致9人死亡",
       "onboard_time": 1746369864,
       "rank": 1,
       "category": "民生新闻"
@@ -67,12 +83,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 602810,
+      "num": 602810,
+      "word": "特朗普又又又提吞并加拿大",
+      "onboard_time": 1746402499,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568048,
-      "num": 221882,
+      "num": 271018,
       "word": "石凯站姐下手太狠了",
       "onboard_time": 1746359182,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 519974,
+      "num": 519974,
+      "word": "张睿李晟同框",
+      "onboard_time": 1746407300,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 502534,
@@ -99,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449322,
+      "num": 449322,
+      "word": "程潇妈妈乳腺癌手术没告诉女儿",
+      "onboard_time": 1746402019,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425251,
       "num": 425251,
       "word": "严浩翔受伤",
@@ -123,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385484,
-      "num": 385484,
-      "word": "贵州游船倾覆事故已致9人死亡",
-      "onboard_time": 1746369864,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 355657,
       "num": 355657,
       "word": "任嘉伦不愧是去韩国训练过的",
@@ -145,6 +177,14 @@
       "onboard_time": 1746352821,
       "rank": 14,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 334211,
+      "num": 334211,
+      "word": "女子想用炸弹炸ATM机却炸死自己",
+      "onboard_time": 1746400578,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 332334,
@@ -163,12 +203,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316762,
+      "num": 316762,
+      "word": "陈奕迅日本演唱会有空投炸弹画面",
+      "onboard_time": 1746401779,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303533,
       "num": 303533,
       "word": "赵心童7比1领先威廉姆斯",
       "onboard_time": 1746374122,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301925,
+      "num": 301925,
+      "word": "和平精英",
+      "onboard_time": 1746408379,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 299580,
+      "num": 299580,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1746404960,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286998,
+      "num": 286998,
+      "word": "贵州游船事故亲历者发声",
+      "onboard_time": 1746369685,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257337,
+      "num": 257337,
+      "word": "虞书欣加盟是女儿是妈妈2",
+      "onboard_time": 1746401058,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 254208,
@@ -179,12 +259,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246604,
+      "num": 246604,
+      "word": "祖国山河大地陆续切换夏天模式",
+      "onboard_time": 1746406640,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "周深一首歌唱给追光的你我",
       "onboard_time": 1746370825,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228281,
+      "num": 228281,
+      "word": "优时颜 张康乐马柏全采访",
+      "onboard_time": 1746407721,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221083,
+      "num": 137716,
+      "word": "梁王教练回应男双躺赢",
+      "onboard_time": 1746408262,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212411,
+      "num": 212411,
+      "word": "陈梦9岁时怀疑妈妈不是亲妈",
+      "onboard_time": 1746401058,
+      "rank": 6,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 211042,
+      "num": 211042,
+      "word": "立夏",
+      "onboard_time": 1746404420,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209329,
@@ -203,20 +323,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 201138,
+      "num": 201138,
+      "word": "被结婚的手捧花价格吓到了",
+      "onboard_time": 1746368305,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198957,
       "num": 198957,
       "word": "刘诗诗张云龙沈月聚餐合照",
       "onboard_time": 1746371665,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197397,
-      "num": 197397,
-      "word": "被结婚的手捧花价格吓到了",
-      "onboard_time": 1746368305,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 197313,
@@ -227,20 +347,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189440,
-      "num": 143815,
-      "word": "贵州游船事故亲历者发声",
-      "onboard_time": 1746369685,
-      "rank": 34,
+      "raw_hot": 197181,
+      "num": 197181,
+      "word": "成都暴雨",
+      "onboard_time": 1746408800,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183058,
-      "num": 183058,
-      "word": "陈梦9岁时怀疑妈妈不是亲妈",
-      "onboard_time": 1746401058,
-      "rank": 6,
-      "category": "综艺,体育"
+      "raw_hot": 196367,
+      "num": 196367,
+      "word": "林瀚",
+      "onboard_time": 1746400758,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 195481,
+      "num": 195481,
+      "word": "180斤女子减重65斤后感叹人生美好",
+      "onboard_time": 1746405800,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181391,
+      "num": 181391,
+      "word": "弃养父亲病逝儿子与继母争遗产",
+      "onboard_time": 1746410181,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180168,
@@ -315,19 +451,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144802,
-      "num": 144802,
-      "word": "女子想用炸弹炸ATM机却炸死自己",
-      "onboard_time": 1746400578,
-      "rank": 20,
-      "category": "海外新闻"
+      "raw_hot": 134445,
+      "num": 134445,
+      "word": "女孩溺水被救家长先责怪孩子",
+      "onboard_time": 1746372084,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 141467,
-      "num": 141467,
-      "word": "上海欢乐谷失火被游客误认节目效果",
-      "onboard_time": 1746401418,
-      "rank": 17,
+      "raw_hot": 127981,
+      "num": 127981,
+      "word": "五一随手拍",
+      "onboard_time": 1746362544,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -339,10 +475,34 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "勇士vs火箭",
+      "onboard_time": 1746410241,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126104,
       "num": 126104,
       "word": "全红婵说发育期不够自律",
       "onboard_time": 1746362544,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123678,
+      "num": 123678,
+      "word": "赵朔公布网红猫悟空去世前后细节",
+      "onboard_time": 1746398236,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123634,
+      "num": 123634,
+      "word": "中国羽协主席称新老交替非常理想",
+      "onboard_time": 1746408262,
       "rank": 36,
       "category": "体育"
     },
@@ -369,6 +529,14 @@
       "onboard_time": 1746401418,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114358,
+      "num": 114358,
+      "word": "文化中国行之立夏节气",
+      "onboard_time": 1746407181,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114084,
@@ -427,11 +595,19 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 104314,
-      "num": 104314,
-      "word": "女孩溺水被救家长先责怪孩子",
-      "onboard_time": 1746372084,
-      "rank": 49,
+      "raw_hot": 101146,
+      "num": 101146,
+      "word": "第五人格医生",
+      "onboard_time": 1746407721,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 100499,
+      "num": 100499,
+      "word": "儿女走失6年后父亲从高处坠落昏迷",
+      "onboard_time": 1746378321,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -459,6 +635,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97690,
+      "num": 97690,
+      "word": "女子吐槽老公太粗糙香皂当车载熏香",
+      "onboard_time": 1746402318,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96211,
+      "num": 306228,
+      "word": "景区回应上海欢乐谷火灾无伤亡",
+      "onboard_time": 1746406762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95842,
       "num": 95842,
       "word": "是女儿是妈妈2开播",
@@ -467,20 +659,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92999,
-      "num": 92999,
-      "word": "五一随手拍",
-      "onboard_time": 1746362544,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 94658,
+      "num": 94658,
+      "word": "李沐宸抱歉让大家失望",
+      "onboard_time": 1746406221,
+      "rank": 46,
+      "category": "艺人"
     },
     {
-      "raw_hot": 91365,
-      "num": 91365,
-      "word": "儿女走失6年后父亲从高处坠落昏迷",
-      "onboard_time": 1746378321,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 91644,
+      "num": 195556,
+      "word": "立夏养心记得多吃酸",
+      "onboard_time": 1746409521,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91322,
+      "num": 91322,
+      "word": "科内利亚诺女排欧冠卫冕",
+      "onboard_time": 1746410301,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 89341,
@@ -499,20 +699,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84937,
-      "num": 84937,
-      "word": "赵朔公布网红猫悟空去世前后细节",
-      "onboard_time": 1746398236,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 86925,
+      "num": 86925,
+      "word": "丛明晨宣布退役",
+      "onboard_time": 1746408800,
+      "rank": 48,
+      "category": "体育"
     },
     {
-      "raw_hot": 83516,
-      "num": 83516,
-      "word": "林瀚",
-      "onboard_time": 1746400758,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 84631,
+      "num": 84631,
+      "word": "F1",
+      "onboard_time": 1746410301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79937,
@@ -555,14 +755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68011,
-      "num": 68011,
-      "word": "虞书欣加盟是女儿是妈妈2",
-      "onboard_time": 1746401058,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65023,
       "num": 79444,
       "word": "李沐宸回应灵气消耗",
@@ -601,14 +793,6 @@
       "onboard_time": 1746398236,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59364,
-      "num": 59364,
-      "word": "陈奕迅日本演唱会有空投炸弹画面",
-      "onboard_time": 1746401779,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 57676,
@@ -657,6 +841,14 @@
       "onboard_time": 1746379458,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48189,
+      "num": 138197,
+      "word": "不良人现场好多人啊",
+      "onboard_time": 1746409881,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 47532,
@@ -745,6 +937,14 @@
       "onboard_time": 1746381856,
       "rank": 49,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 23915,
+      "num": 652516,
+      "word": "网警藏蓝青春键指河山",
+      "onboard_time": 1746403761,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18432,
