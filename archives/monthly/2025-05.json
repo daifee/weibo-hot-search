@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746455191722,
+  "endTime": 1746456303959,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -27,8 +27,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2729157,
-      "num": 2729157,
+      "raw_hot": 2738002,
+      "num": 2738002,
       "word": "淘宝免单",
       "onboard_time": 1746448761,
       "rank": 22,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1650361,
+      "num": 1650361,
+      "word": "百想获奖名单",
+      "onboard_time": 1746452784,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1648767,
       "num": 384277,
       "word": "酒店痛房",
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1344733,
-      "num": 1344733,
-      "word": "百想获奖名单",
-      "onboard_time": 1746452784,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1339493,
       "num": 760327,
       "word": "特朗普称美国孩子只能有2个玩具了",
@@ -569,6 +569,14 @@
       "onboard_time": 1746075741,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1231991,
+      "num": 1231991,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1227988,
@@ -1019,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 898342,
+      "num": 869209,
+      "word": "流量化的音乐节不该让专业歌手托底",
+      "onboard_time": 1746451043,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 894757,
       "num": 894757,
       "word": "特朗普把自己P成了教皇",
@@ -1072,14 +1088,6 @@
       "word": "韩媒曝KPOP爱豆中韩演唱会",
       "onboard_time": 1746149128,
       "rank": 0,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 869209,
-      "num": 869209,
-      "word": "流量化的音乐节不该让专业歌手托底",
-      "onboard_time": 1746451043,
-      "rank": 9,
       "category": "演出"
     },
     {
@@ -2051,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579483,
+      "num": 796877,
+      "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+      "onboard_time": 1746449121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579260,
       "num": 234513,
       "word": "涉肖某董某事件多个账号被禁言",
@@ -2072,14 +2088,6 @@
       "word": "国家卫健委对肖某引发舆情问题开展调查",
       "onboard_time": 1746060381,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571820,
-      "num": 796877,
-      "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
-      "onboard_time": 1746449121,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -2275,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524619,
+      "num": 324349,
+      "word": "这种网红玩具正在毒害你的孩子",
+      "onboard_time": 1746455121,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523146,
       "num": 523146,
       "word": "赵露思辣妹红发",
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 490431,
-      "num": 650843,
+      "num": 1400907,
       "word": "五一假期全国消费市场数据来了",
       "onboard_time": 1746449783,
       "rank": 29,
@@ -3363,20 +3379,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 383058,
+      "num": 383058,
+      "word": "爱纯妈妈获奖了",
+      "onboard_time": 1746452903,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382175,
       "num": 382175,
       "word": "石凯说我不可能自卑",
       "onboard_time": 1746267981,
       "rank": 21,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 381480,
-      "num": 381480,
-      "word": "爱纯妈妈获奖了",
-      "onboard_time": 1746452903,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 381330,
@@ -3979,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321239,
+      "num": 321239,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -4233,14 +4257,6 @@
       "onboard_time": 1746252142,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301491,
-      "num": 301491,
-      "word": "印度不允许一滴水流向巴基斯坦",
-      "onboard_time": 1746454402,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301255,
@@ -4579,6 +4595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274282,
+      "num": 400585,
+      "word": "西藏那曲3头熊深夜撞门进入奶茶店",
+      "onboard_time": 1746454524,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274233,
       "num": 274233,
       "word": "BLG十番战EDG",
@@ -4803,6 +4827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261330,
+      "num": 261330,
+      "word": "向佐摇来了胡歌",
+      "onboard_time": 1746455242,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259805,
       "num": 241751,
       "word": "苏新皓中控红海",
@@ -4961,14 +4993,6 @@
       "onboard_time": 1746282563,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252687,
-      "num": 252687,
-      "word": "百想直播",
-      "onboard_time": 1746447320,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 252516,
@@ -5419,6 +5443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 226084,
+      "num": 325421,
+      "word": "假期结束夏天开始",
+      "onboard_time": 1746455962,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225594,
       "num": 234901,
       "word": "AXIZ对战WBG",
@@ -5500,7 +5532,7 @@
     },
     {
       "raw_hot": 221963,
-      "num": 221963,
+      "num": 329645,
       "word": "薛小婉任权要领证了",
       "onboard_time": 1746454284,
       "rank": 31,
@@ -6363,6 +6395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200437,
+      "num": 200437,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 200259,
       "num": 200259,
       "word": "快船3比3掘金",
@@ -6393,6 +6433,14 @@
       "onboard_time": 1746437541,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199974,
+      "num": 199974,
+      "word": "陈芋汐跳水世界杯发博",
+      "onboard_time": 1746455843,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 199803,
@@ -6467,14 +6515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198601,
-      "num": 198601,
-      "word": "胖东来玉石产品抽检全合规",
-      "onboard_time": 1746455065,
-      "rank": 35,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 198517,
       "num": 198517,
       "word": "库珀Gigi公开恋情",
@@ -6489,6 +6529,14 @@
       "onboard_time": 1746151830,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198317,
+      "num": 198317,
+      "word": "嘉祺别走",
+      "onboard_time": 1746452663,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 198305,
@@ -6779,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195078,
+      "num": 195078,
+      "word": "seventeen正规五辑概念照",
+      "onboard_time": 1746455904,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195069,
       "num": 195069,
       "word": "苏新皓 好薄的一片腹肌",
@@ -7059,14 +7115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191642,
-      "num": 191642,
-      "word": "这种网红玩具正在毒害你的孩子",
-      "onboard_time": 1746455121,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191598,
       "num": 191598,
       "word": "陈丽君陈昊宇唱花田错",
@@ -7105,6 +7153,14 @@
       "onboard_time": 1746092361,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191241,
+      "num": 191241,
+      "word": "王奕发长文",
+      "onboard_time": 1746456144,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 191008,
@@ -7440,14 +7496,6 @@
       "word": "模仿西门礼臣 我是你的狗",
       "onboard_time": 1746329302,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187422,
-      "num": 187422,
-      "word": "嘉祺别走",
-      "onboard_time": 1746452663,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -8305,6 +8353,14 @@
       "onboard_time": 1746364825,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171113,
+      "num": 381543,
+      "word": "黄祖骏再被通报",
+      "onboard_time": 1746454104,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170849,
@@ -10809,6 +10865,14 @@
       "onboard_time": 1746184291,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139263,
+      "num": 139263,
+      "word": "田曦薇钓鱼愿者上钩",
+      "onboard_time": 1746456083,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 138772,
@@ -14243,14 +14307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101695,
-      "num": 399853,
-      "word": "西藏那曲3头熊深夜撞门进入奶茶店",
-      "onboard_time": 1746454524,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101474,
       "num": 101474,
       "word": "敖瑞鹏好事都想着刘学义",
@@ -14616,6 +14672,14 @@
       "word": "假期上班最早的是游客",
       "onboard_time": 1746183929,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97325,
+      "num": 386367,
+      "word": "贵州游船侧翻事发时出现14级阵风",
+      "onboard_time": 1746455002,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -15507,14 +15571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79519,
-      "num": 381543,
-      "word": "黄祖骏再被通报",
-      "onboard_time": 1746454104,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79270,
       "num": 92340,
       "word": "周洁琼直播模仿猫妖",
@@ -16227,14 +16283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60662,
-      "num": 191100,
-      "word": "贵州游船侧翻事发时出现14级阵风",
-      "onboard_time": 1746455002,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60617,
       "num": 60617,
       "word": "西湖游客调侃断桥要压断了",
@@ -16353,6 +16401,14 @@
       "onboard_time": 1746414801,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58013,
+      "num": 178659,
+      "word": "网友挖出更多离谱医学论文",
+      "onboard_time": 1746455603,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57639,
@@ -16497,6 +16553,14 @@
       "onboard_time": 1746195391,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53663,
+      "num": 327891,
+      "word": "不同运动暗藏哪些抗炎玄机",
+      "onboard_time": 1746455784,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 53397,
@@ -18825,6 +18889,14 @@
       "onboard_time": 1746088881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 11447,
+      "num": 179305,
+      "word": "印度断水最先受害者或是自己",
+      "onboard_time": 1746455962,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11391,

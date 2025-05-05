@@ -1,0 +1,410 @@
+{
+  "runTime": 1746456303959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2738002,
+        "num": 2738002,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1650361,
+        "num": 1650361,
+        "word": "百想获奖名单",
+        "onboard_time": 1746452784,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373273,
+        "num": 1400907,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1231991,
+        "num": 1231991,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1013173,
+        "num": 1013173,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 851343,
+        "num": 851343,
+        "word": "周思成直播查雅思成绩",
+        "onboard_time": 1746451762,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 898342,
+        "num": 841426,
+        "word": "流量化的音乐节不该让专业歌手托底",
+        "onboard_time": 1746451043,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 747052,
+        "num": 747052,
+        "word": "石凯 全员加速中",
+        "onboard_time": 1746451642,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518742,
+        "num": 518742,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363435,
+        "num": 466328,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724532,
+        "num": 453944,
+        "word": "杨紫去年就拍了撕拉片",
+        "onboard_time": 1746449601,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 579483,
+        "num": 442611,
+        "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+        "onboard_time": 1746449121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420028,
+        "num": 420028,
+        "word": "4集演出了别人40集的进度",
+        "onboard_time": 1746449241,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274282,
+        "num": 400585,
+        "word": "西藏那曲3头熊深夜撞门进入奶茶店",
+        "onboard_time": 1746454524,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97325,
+        "num": 386367,
+        "word": "贵州游船侧翻事发时出现14级阵风",
+        "onboard_time": 1746455002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383058,
+        "num": 383058,
+        "word": "爱纯妈妈获奖了",
+        "onboard_time": 1746452903,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331822,
+        "num": 331822,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329697,
+        "num": 329697,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206877,
+        "num": 329645,
+        "word": "薛小婉任权要领证了",
+        "onboard_time": 1746454284,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53663,
+        "num": 327891,
+        "word": "不同运动暗藏哪些抗炎玄机",
+        "onboard_time": 1746455784,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 685859,
+        "num": 327093,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226084,
+        "num": 325421,
+        "word": "假期结束夏天开始",
+        "onboard_time": 1746455962,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524619,
+        "num": 324349,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422042,
+        "num": 322574,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332542,
+        "num": 321656,
+        "word": "赴山海剧宣",
+        "onboard_time": 1746450024,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321239,
+        "num": 321239,
+        "word": "百想直播",
+        "onboard_time": 1746447320,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274956,
+        "num": 274956,
+        "word": "贵州",
+        "onboard_time": 1746447922,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261330,
+        "num": 261330,
+        "word": "向佐摇来了胡歌",
+        "onboard_time": 1746455242,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246144,
+        "num": 246144,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239843,
+        "num": 239843,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207069,
+        "num": 207069,
+        "word": "梁伟铿感谢王昶",
+        "onboard_time": 1746455002,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200437,
+        "num": 200437,
+        "word": "胖东来玉石产品抽检全合规",
+        "onboard_time": 1746455065,
+        "rank": 31,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 199974,
+        "num": 199974,
+        "word": "陈芋汐跳水世界杯发博",
+        "onboard_time": 1746455843,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198317,
+        "num": 198317,
+        "word": "嘉祺别走",
+        "onboard_time": 1746452663,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195078,
+        "num": 195078,
+        "word": "seventeen正规五辑概念照",
+        "onboard_time": 1746455904,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192292,
+        "num": 192292,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191241,
+        "num": 191241,
+        "word": "王奕发长文",
+        "onboard_time": 1746456144,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180525,
+        "num": 180525,
+        "word": "90后干部多次收受茅台五粮液",
+        "onboard_time": 1746450742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11447,
+        "num": 179305,
+        "word": "印度断水最先受害者或是自己",
+        "onboard_time": 1746455962,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58013,
+        "num": 178659,
+        "word": "网友挖出更多离谱医学论文",
+        "onboard_time": 1746455603,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178203,
+        "num": 178203,
+        "word": "小猫悟空",
+        "onboard_time": 1746449481,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171113,
+        "num": 171113,
+        "word": "黄祖骏再被通报",
+        "onboard_time": 1746454104,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170529,
+        "num": 170529,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163690,
+        "num": 163690,
+        "word": "福建8岁男童在1800米山顶失踪",
+        "onboard_time": 1746447561,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "斯诺克",
+        "onboard_time": 1746450262,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161041,
+        "num": 161041,
+        "word": "嘉人",
+        "onboard_time": 1746453023,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159868,
+        "num": 159868,
+        "word": "苦尽柑来遇见你百想最佳剧本奖",
+        "onboard_time": 1746452063,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159447,
+        "num": 159447,
+        "word": "宋慧乔短发",
+        "onboard_time": 1746445702,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147894,
+        "num": 147894,
+        "word": "刑警的日子 雪迷宫",
+        "onboard_time": 1746452963,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139263,
+        "num": 139263,
+        "word": "田曦薇钓鱼愿者上钩",
+        "onboard_time": 1746456083,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}
