@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746476877144,
+  "endTime": 1746477691754,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -545,6 +545,14 @@
       "onboard_time": 1746467176,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14066,
+      "num": 16014,
+      "word": "开始推理吧",
+      "onboard_time": 1746477674,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
