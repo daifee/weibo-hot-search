@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746423798963,
+  "endTime": 1746426997420,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -81,6 +81,14 @@
       "onboard_time": 1746339380,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1652308,
+      "num": 1652308,
+      "word": "贵州游船倾覆最后一名失联人员被找到",
+      "onboard_time": 1746423442,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1548965,
@@ -288,6 +296,14 @@
       "word": "王大陆回应涉嫌教唆杀人未遂",
       "onboard_time": 1746330562,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 831366,
+      "num": 454207,
+      "word": "白鹿接触LV",
+      "onboard_time": 1746423563,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -515,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 610471,
+      "num": 409532,
+      "word": "韩安冉老公片酬",
+      "onboard_time": 1746424942,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 609529,
       "num": 282178,
       "word": "董子健 姐弟恋cp",
@@ -643,6 +667,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 548193,
+      "num": 548193,
+      "word": "再上19天班又放假了",
+      "onboard_time": 1746423381,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545928,
+      "num": 545928,
+      "word": "游客感谢女船长带全船人逃过一劫",
+      "onboard_time": 1746424221,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538723,
       "num": 322489,
       "word": "九派新闻 赵朔",
@@ -681,6 +721,14 @@
       "onboard_time": 1746362904,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 520725,
+      "num": 520725,
+      "word": "全员加速中",
+      "onboard_time": 1746425541,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 519974,
@@ -1507,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258371,
+      "num": 258371,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 258194,
       "num": 258194,
       "word": "第五人格 纸嫁衣",
@@ -1537,14 +1593,6 @@
       "onboard_time": 1746319881,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 256345,
-      "num": 256345,
-      "word": "白鹿接触LV",
-      "onboard_time": 1746423563,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 256149,
@@ -1667,20 +1715,20 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 238822,
-      "num": 238822,
-      "word": "再上19天班又放假了",
-      "onboard_time": 1746423381,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236913,
       "num": 236913,
       "word": "刘德华被女儿炫爸",
       "onboard_time": 1746360143,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235554,
+      "num": 235554,
+      "word": "贵州游船倾覆时有人没穿救生衣",
+      "onboard_time": 1746423981,
+      "rank": 22,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 232719,
@@ -1867,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210951,
+      "num": 210951,
+      "word": "小鸡小鸡是王蓉唯一一首赚钱的歌",
+      "onboard_time": 1746425663,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209621,
       "num": 281578,
       "word": "哪吒2破158亿了",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1746419363,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209526,
+      "num": 492875,
+      "word": "贵州4艘游船倾覆10人遇难",
+      "onboard_time": 1746369864,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209205,
@@ -2099,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203732,
+      "num": 203732,
+      "word": "中医建议立夏后晚睡早起",
+      "onboard_time": 1746422901,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203274,
       "num": 279686,
       "word": "华晨宇嘴巴在笑眼睛在哭",
@@ -2209,14 +2281,6 @@
       "onboard_time": 1746416782,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197832,
-      "num": 197832,
-      "word": "欧尼熊",
-      "onboard_time": 1746314357,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 197650,
@@ -2659,6 +2723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174100,
+      "num": 174100,
+      "word": "这是我的西游",
+      "onboard_time": 1746426081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173805,
       "num": 173805,
       "word": "女生输头孢过敏离世父亲发声",
@@ -2697,6 +2769,14 @@
       "onboard_time": 1746339742,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172996,
+      "num": 172996,
+      "word": "谢霆锋妹妹谢婷婷晒二胎喜讯",
+      "onboard_time": 1746424583,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 172952,
@@ -2769,6 +2849,14 @@
       "onboard_time": 1746318920,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 167256,
+      "num": 167256,
+      "word": "黄宗泽新剧天崩开局",
+      "onboard_time": 1746426502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 167198,
@@ -2851,14 +2939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164645,
-      "num": 256637,
-      "word": "贵州游船倾覆最后一名失联人员被找到",
-      "onboard_time": 1746423442,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
@@ -2912,6 +2992,14 @@
       "word": "医生批评医院公众号文章太烂遭辱骂",
       "onboard_time": 1746333082,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162557,
+      "num": 162557,
+      "word": "泰山两游客翻越护栏险坠崖",
+      "onboard_time": 1746424342,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3163,6 +3251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149809,
+      "num": 149809,
+      "word": "时代少年团solo舞台出图",
+      "onboard_time": 1746426440,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149468,
       "num": 96585,
       "word": "贺峻霖来电了",
@@ -3203,6 +3299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148010,
+      "num": 148010,
+      "word": "欧豪张佳宁一搭be二搭直达婚礼",
+      "onboard_time": 1746424101,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147838,
       "num": 147838,
       "word": "乌称无法确保出席俄阅兵式人士安全",
@@ -3233,14 +3337,6 @@
       "onboard_time": 1746422301,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146445,
-      "num": 146445,
-      "word": "中医建议立夏后晚睡早起",
-      "onboard_time": 1746422901,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146411,
@@ -3297,6 +3393,14 @@
       "onboard_time": 1746420980,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144268,
+      "num": 144268,
+      "word": "撕拉片",
+      "onboard_time": 1746424523,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144235,
@@ -3371,12 +3475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140991,
+      "num": 140991,
+      "word": "徐若晗周柯宇爱意生长芭莎大片",
+      "onboard_time": 1746425783,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140695,
       "num": 188988,
       "word": "胡先煦赵今麦的祝福送到心里了",
       "onboard_time": 1746370945,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140687,
+      "num": 140687,
+      "word": "今年还剩11天假期",
+      "onboard_time": 1746425720,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140521,
@@ -3513,6 +3633,14 @@
       "onboard_time": 1746345802,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137535,
+      "num": 137535,
+      "word": "婚礼上的狗方亲友",
+      "onboard_time": 1746426502,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 137016,
@@ -4099,6 +4227,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 111083,
+      "num": 111083,
+      "word": "张杰鸟巢连开破纪录",
+      "onboard_time": 1746426562,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111004,
       "num": 702961,
       "word": "五一假期文旅市场有哪些新亮点",
@@ -4339,6 +4475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100187,
+      "num": 100187,
+      "word": "肖战飒酷机车风look",
+      "onboard_time": 1746424342,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100139,
       "num": 100139,
       "word": "马斯克建立城市",
@@ -4353,6 +4497,14 @@
       "onboard_time": 1746375143,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99693,
+      "num": 99693,
+      "word": "奥沙利文称赵心童有能力夺冠",
+      "onboard_time": 1746426320,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 99596,
@@ -4457,6 +4609,14 @@
       "onboard_time": 1746345985,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94990,
+      "num": 94990,
+      "word": "特朗普称考虑用武力占领格陵兰岛",
+      "onboard_time": 1746426261,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94831,
@@ -4571,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88631,
+      "num": 475836,
+      "word": "云南禄丰一尾矿干堆场坍塌致5人被埋",
+      "onboard_time": 1746425242,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 87956,
       "num": 188745,
       "word": "威少给自己做技术犯规手势",
@@ -4601,6 +4769,14 @@
       "onboard_time": 1746408800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86903,
+      "num": 167442,
+      "word": "AKB48超甜心动舞台",
+      "onboard_time": 1746426200,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 86866,
@@ -4961,6 +5137,14 @@
       "onboard_time": 1746342681,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55957,
+      "num": 168374,
+      "word": "LadyGaga演唱会遭恐怖袭击威胁",
+      "onboard_time": 1746424703,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 55720,
