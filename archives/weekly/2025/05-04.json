@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746444993418,
+  "endTime": 1746449460561,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -97,6 +97,14 @@
       "onboard_time": 1746423442,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1633965,
+      "num": 1633965,
+      "word": "写了四天作业发现忘装笔芯",
+      "onboard_time": 1746442701,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1616969,
@@ -225,6 +233,14 @@
       "onboard_time": 1746415821,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1126734,
+      "num": 203859,
+      "word": "金价",
+      "onboard_time": 1746446721,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 1121323,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 769972,
+      "num": 769972,
+      "word": "蒋奇明演技",
+      "onboard_time": 1746443481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 759647,
       "num": 459223,
       "word": "洪尧说吴谨言来演综秒杀所有",
@@ -497,6 +521,14 @@
       "onboard_time": 1746372923,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 723321,
+      "num": 419449,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 722009,
@@ -1091,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446802,
+      "num": 418798,
+      "word": "楚后",
+      "onboard_time": 1746441740,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433776,
       "num": 433776,
       "word": "关晓彤白裙黑长直",
@@ -1123,14 +1163,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 423680,
-      "num": 423680,
-      "word": "蒋奇明演技",
-      "onboard_time": 1746443481,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422686,
       "num": 437109,
       "word": "男子与女友吵架为泄愤16楼扔电竞椅",
@@ -1145,6 +1177,30 @@
       "onboard_time": 1746345985,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421402,
+      "num": 314759,
+      "word": "夏志远当爸",
+      "onboard_time": 1746447081,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 420198,
+      "num": 420198,
+      "word": "福建8岁男童在1800米山顶失踪",
+      "onboard_time": 1746447561,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420143,
+      "num": 420143,
+      "word": "论文男女不分撕开学术遮羞布",
+      "onboard_time": 1746446902,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419830,
@@ -1193,6 +1249,14 @@
       "onboard_time": 1746355283,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 399463,
+      "num": 203706,
+      "word": "淘宝免单",
+      "onboard_time": 1746448761,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 397588,
@@ -1499,20 +1563,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 325503,
+      "num": 800792,
+      "word": "数据看五一各地出游热度",
+      "onboard_time": 1746433281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325157,
       "num": 325157,
       "word": "淮水竹亭编剧 殿前欢",
       "onboard_time": 1746281485,
       "rank": 9,
       "category": "综艺,剧集"
-    },
-    {
-      "raw_hot": 323352,
-      "num": 800792,
-      "word": "数据看五一各地出游热度",
-      "onboard_time": 1746433281,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 322285,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1746412820,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304780,
+      "num": 304780,
+      "word": "田曦薇直播",
+      "onboard_time": 1746448642,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 304578,
@@ -1721,14 +1793,6 @@
       "onboard_time": 1746369685,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285097,
-      "num": 285097,
-      "word": "楚后",
-      "onboard_time": 1746441740,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 280657,
@@ -2051,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229868,
+      "num": 229868,
+      "word": "黄圣依和妈妈相处方式",
+      "onboard_time": 1746446721,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229114,
       "num": 229114,
       "word": "是女儿是妈妈2开播",
@@ -2235,14 +2307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 212634,
-      "num": 212634,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212411,
       "num": 212411,
       "word": "陈梦9岁时怀疑妈妈不是亲妈",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1746356960,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207335,
+      "num": 186528,
+      "word": "快到学校门口的你",
+      "onboard_time": 1746449241,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 207328,
@@ -2507,6 +2579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203867,
+      "num": 203867,
+      "word": "宋慧乔短发",
+      "onboard_time": 1746445702,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203274,
       "num": 279686,
       "word": "华晨宇嘴巴在笑眼睛在哭",
@@ -2521,14 +2601,6 @@
       "onboard_time": 1746339980,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202385,
-      "num": 202385,
-      "word": "写了四天作业发现忘装笔芯",
-      "onboard_time": 1746442701,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 202380,
@@ -2835,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191368,
+      "num": 191368,
+      "word": "成毅的赴山海人山人海",
+      "onboard_time": 1746447922,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190824,
       "num": 186931,
       "word": "邓为我那出差紧张的男友",
@@ -2939,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184592,
+      "num": 184592,
+      "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+      "onboard_time": 1746448882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "国羽3比1战胜韩国队",
@@ -3041,6 +3129,22 @@
       "onboard_time": 1746334640,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179243,
+      "num": 179243,
+      "word": "林智妍吊带粉裙",
+      "onboard_time": 1746447383,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179130,
+      "num": 179130,
+      "word": "孟佳现场稳成这样吗",
+      "onboard_time": 1746449001,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 178511,
@@ -3216,6 +3320,14 @@
       "word": "贵州游船侧翻约70人落水目击者发声",
       "onboard_time": 1746364825,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170913,
+      "num": 170913,
+      "word": "贵州",
+      "onboard_time": 1746447922,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3707,6 +3819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151052,
+      "num": 151052,
+      "word": "朴宝剑裴秀智百想同框",
+      "onboard_time": 1746445941,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151034,
       "num": 151034,
       "word": "女孩溺水被救家长先责怪孩子",
@@ -3923,12 +4043,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144968,
+      "num": 144968,
+      "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+      "onboard_time": 1746449121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144235,
       "num": 154268,
       "word": "莱比锡3比3拜仁",
       "onboard_time": 1746289461,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144007,
+      "num": 144007,
+      "word": "孙珍妮是青花瓷成精了",
+      "onboard_time": 1746446422,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143001,
+      "num": 143001,
+      "word": "4集演出了别人40集的进度",
+      "onboard_time": 1746449241,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142955,
@@ -4659,6 +4803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122254,
+      "num": 122254,
+      "word": "被张凌赫逗得滋哇乱叫",
+      "onboard_time": 1746448821,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121789,
       "num": 415572,
       "word": "饿了么让五一假期的奶茶店忙疯了",
@@ -4779,6 +4931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117976,
+      "num": 117976,
+      "word": "秀智好美",
+      "onboard_time": 1746444921,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117565,
       "num": 117565,
       "word": "崔然竣空降",
@@ -4841,6 +5001,14 @@
       "onboard_time": 1746434361,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116113,
+      "num": 116113,
+      "word": "梵净山",
+      "onboard_time": 1746447501,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 115531,
@@ -5459,14 +5627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98646,
-      "num": 98646,
-      "word": "秀智好美",
-      "onboard_time": 1746444921,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 98444,
       "num": 98444,
       "word": "新蜂音乐节打错单依纯名字",
@@ -5929,6 +6089,14 @@
       "onboard_time": 1746399498,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74182,
+      "num": 203641,
+      "word": "男女不分的论文怎么发出来的",
+      "onboard_time": 1746445041,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71348,
@@ -6635,6 +6803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24489,
+      "num": 145740,
+      "word": "打卡足球圣殿",
+      "onboard_time": 1746446902,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23915,
       "num": 890352,
       "word": "网警藏蓝青春键指河山",
@@ -6977,6 +7153,14 @@
       "onboard_time": 1746414143,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9778,
+      "num": 317702,
+      "word": "WAW大型宠粉现场",
+      "onboard_time": 1746446480,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 9544,

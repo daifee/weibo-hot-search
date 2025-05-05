@@ -1,0 +1,410 @@
+{
+  "runTime": 1746449460561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633965,
+        "num": 1633965,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 769972,
+        "num": 769972,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325503,
+        "num": 558446,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420198,
+        "num": 420198,
+        "word": "福建8岁男童在1800米山顶失踪",
+        "onboard_time": 1746447561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420143,
+        "num": 420143,
+        "word": "论文男女不分撕开学术遮羞布",
+        "onboard_time": 1746446902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844315,
+        "num": 419805,
+        "word": "晨宇炒饭被吃掉3吨",
+        "onboard_time": 1746437541,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 723321,
+        "num": 419449,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446802,
+        "num": 418798,
+        "word": "楚后",
+        "onboard_time": 1746441740,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417686,
+        "num": 417686,
+        "word": "男患子宫肌瘤论文打了谁的脸",
+        "onboard_time": 1746442460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187878,
+        "num": 412967,
+        "word": "台湾花莲海域5.7级地震",
+        "onboard_time": 1746443781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497762,
+        "num": 412356,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474067,
+        "num": 412137,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409776,
+        "num": 409776,
+        "word": "齐鲁医院护士霍某某受处分",
+        "onboard_time": 1746442940,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86446,
+        "num": 336361,
+        "word": "陕西出土特殊砖1块重60多斤",
+        "onboard_time": 1746444323,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9778,
+        "num": 317702,
+        "word": "WAW大型宠粉现场",
+        "onboard_time": 1746446480,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 421402,
+        "num": 314759,
+        "word": "夏志远当爸",
+        "onboard_time": 1746447081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304780,
+        "num": 304780,
+        "word": "田曦薇直播",
+        "onboard_time": 1746448642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274605,
+        "num": 274605,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229868,
+        "num": 229868,
+        "word": "黄圣依和妈妈相处方式",
+        "onboard_time": 1746446721,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203867,
+        "num": 203867,
+        "word": "宋慧乔短发",
+        "onboard_time": 1746445702,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1126734,
+        "num": 203859,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 485804,
+        "num": 203777,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399463,
+        "num": 203706,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74182,
+        "num": 203641,
+        "word": "男女不分的论文怎么发出来的",
+        "onboard_time": 1746445041,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203616,
+        "num": 203616,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203446,
+        "num": 203446,
+        "word": "林心如霍建华带女儿看电影",
+        "onboard_time": 1746443058,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200481,
+        "num": 200481,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197176,
+        "num": 197176,
+        "word": "宋慧乔比心",
+        "onboard_time": 1746443362,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191368,
+        "num": 191368,
+        "word": "成毅的赴山海人山人海",
+        "onboard_time": 1746447922,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207335,
+        "num": 186528,
+        "word": "快到学校门口的你",
+        "onboard_time": 1746449241,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184592,
+        "num": 184592,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179243,
+        "num": 179243,
+        "word": "林智妍吊带粉裙",
+        "onboard_time": 1746447383,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179130,
+        "num": 179130,
+        "word": "孟佳现场稳成这样吗",
+        "onboard_time": 1746449001,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170913,
+        "num": 170913,
+        "word": "贵州",
+        "onboard_time": 1746447922,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170266,
+        "num": 170266,
+        "word": "丁禹兮孟子义淮水竹亭剧情线来了",
+        "onboard_time": 1746439341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160256,
+        "num": 160256,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153176,
+        "num": 153176,
+        "word": "锦月如歌",
+        "onboard_time": 1746444622,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151052,
+        "num": 151052,
+        "word": "朴宝剑裴秀智百想同框",
+        "onboard_time": 1746445941,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24489,
+        "num": 145740,
+        "word": "打卡足球圣殿",
+        "onboard_time": 1746446902,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144968,
+        "num": 144968,
+        "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+        "onboard_time": 1746449121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144007,
+        "num": 144007,
+        "word": "孙珍妮是青花瓷成精了",
+        "onboard_time": 1746446422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143001,
+        "num": 143001,
+        "word": "4集演出了别人40集的进度",
+        "onboard_time": 1746449241,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138361,
+        "num": 138361,
+        "word": "生命树杨紫路透",
+        "onboard_time": 1746442521,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132962,
+        "num": 132962,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122254,
+        "num": 122254,
+        "word": "被张凌赫逗得滋哇乱叫",
+        "onboard_time": 1746448821,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118412,
+        "num": 118412,
+        "word": "刘国梁卸任后对王励勤说了这句话",
+        "onboard_time": 1746437602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117976,
+        "num": 117976,
+        "word": "秀智好美",
+        "onboard_time": 1746444921,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116113,
+        "num": 116113,
+        "word": "梵净山",
+        "onboard_time": 1746447501,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112924,
+        "num": 112924,
+        "word": "李惠利百想红毯新闻图",
+        "onboard_time": 1746440481,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}
