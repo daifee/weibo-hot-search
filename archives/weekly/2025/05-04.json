@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746422795014,
+  "endTime": 1746423798963,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078733,
+      "num": 655272,
+      "word": "韩国爱豆多次在公开场合求救",
+      "onboard_time": 1746421040,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1068550,
       "num": 334952,
       "word": "理发师晓华说店面处于亏损状态",
@@ -223,14 +231,6 @@
       "num": 678085,
       "word": "霍思燕一家与贾乃亮一家出游",
       "onboard_time": 1746277583,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1004925,
-      "num": 655272,
-      "word": "韩国爱豆多次在公开场合求救",
-      "onboard_time": 1746421040,
       "rank": 3,
       "category": "艺人"
     },
@@ -555,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 602066,
+      "num": 602066,
+      "word": "51岁阿姨月薪1710元的独居生活",
+      "onboard_time": 1746421162,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 601253,
       "num": 487406,
       "word": "烧烤遇卡式炉爆炸7人被炸伤",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562821,
+      "num": 562821,
+      "word": "护士发论文称男性确诊子宫肌瘤",
+      "onboard_time": 1746419542,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561227,
       "num": 390180,
       "word": "马嘉祺宋亚轩 阿楚姑娘",
@@ -625,14 +641,6 @@
       "onboard_time": 1746330021,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 548508,
-      "num": 548508,
-      "word": "护士发论文称男性确诊子宫肌瘤",
-      "onboard_time": 1746419542,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 538723,
@@ -819,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459737,
+      "num": 459737,
+      "word": "小猫悟空去世仍有多个疑点",
+      "onboard_time": 1746420922,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459256,
       "num": 459256,
       "word": "孙颖莎嘉人封面释出",
@@ -857,14 +873,6 @@
       "onboard_time": 1746402019,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441188,
-      "num": 412123,
-      "word": "51岁阿姨月薪1710元的独居生活",
-      "onboard_time": 1746421162,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 433776,
@@ -1035,20 +1043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373000,
+      "num": 373000,
+      "word": "严浩翔姐姐来了",
+      "onboard_time": 1746419243,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 371550,
       "num": 235742,
       "word": "孙怡吃了三天过敏药才敢染红发",
       "onboard_time": 1746359120,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 370302,
-      "num": 370302,
-      "word": "严浩翔姐姐来了",
-      "onboard_time": 1746419243,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 367593,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1746319881,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349885,
+      "num": 349885,
+      "word": "赵丽颖立夏新发色",
+      "onboard_time": 1746422901,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 348019,
@@ -1483,14 +1499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263563,
-      "num": 263563,
-      "word": "小猫悟空去世仍有多个疑点",
-      "onboard_time": 1746420922,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 262782,
       "num": 262782,
       "word": "贺峻霖蕾丝颈圈",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1746319881,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 256345,
+      "num": 256345,
+      "word": "白鹿接触LV",
+      "onboard_time": 1746423563,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 256149,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1746343219,
       "rank": 44,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 238822,
+      "num": 238822,
+      "word": "再上19天班又放假了",
+      "onboard_time": 1746423381,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236913,
@@ -1851,12 +1875,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209557,
+      "num": 209557,
+      "word": "王一博表情包上摩天轮",
+      "onboard_time": 1746421340,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209539,
-      "num": 188671,
+      "num": 210185,
       "word": "陈梦妈妈回应曾被女儿怀疑不是亲妈",
       "onboard_time": 1746419363,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209205,
+      "num": 209205,
+      "word": "李一桐拍了撕拉片",
+      "onboard_time": 1746422722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208899,
@@ -2171,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197832,
+      "num": 197832,
+      "word": "欧尼熊",
+      "onboard_time": 1746314357,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197650,
       "num": 197650,
       "word": "压下库里浮起希尔德",
@@ -2211,28 +2259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197216,
-      "num": 197216,
-      "word": "王一博表情包上摩天轮",
-      "onboard_time": 1746421340,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197181,
       "num": 197181,
       "word": "成都暴雨",
       "onboard_time": 1746408800,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196979,
-      "num": 196979,
-      "word": "李一桐拍了撕拉片",
-      "onboard_time": 1746422722,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 196367,
@@ -2819,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164645,
+      "num": 256637,
+      "word": "贵州游船倾覆最后一名失联人员被找到",
+      "onboard_time": 1746423442,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
@@ -2907,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160368,
+      "num": 160368,
+      "word": "张云龙妖系妆造神性美",
+      "onboard_time": 1746422962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160143,
       "num": 160143,
       "word": "中国队苏杯四连冠",
@@ -2921,6 +2969,14 @@
       "onboard_time": 1746368605,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159193,
+      "num": 159193,
+      "word": "詹青云聊全女模式",
+      "onboard_time": 1746422781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 159132,
@@ -3123,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149164,
+      "num": 149164,
+      "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
+      "onboard_time": 1746423381,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148607,
       "num": 331847,
       "word": "村民自发参与贵州翻船事故救援",
@@ -3164,11 +3228,19 @@
     },
     {
       "raw_hot": 147065,
-      "num": 147065,
+      "num": 209266,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1746422301,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146445,
+      "num": 146445,
+      "word": "中医建议立夏后晚睡早起",
+      "onboard_time": 1746422901,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146411,
@@ -3539,12 +3611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131543,
+      "num": 131543,
+      "word": "五一即将结束的痛被毛不易哄好了",
+      "onboard_time": 1746422843,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130688,
       "num": 232086,
       "word": "贵州游船侧翻248名消防员在搜救",
       "onboard_time": 1746367584,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130627,
+      "num": 130627,
+      "word": "宋亚轩 不想和大家只是萍水相逢",
+      "onboard_time": 1746422542,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130393,
@@ -3755,14 +3843,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 123701,
-      "num": 123701,
-      "word": "欧尼熊",
-      "onboard_time": 1746314357,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123678,
       "num": 123678,
       "word": "赵朔公布网红猫悟空去世前后细节",
@@ -3945,14 +4025,6 @@
       "onboard_time": 1746407181,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114068,
-      "num": 114068,
-      "word": "詹青云聊全女模式",
-      "onboard_time": 1746422781,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 113855,
@@ -4555,6 +4627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 85870,
+      "num": 149920,
+      "word": "贵州翻船之前暴风雨画面",
+      "onboard_time": 1746422121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85362,
       "num": 238317,
       "word": "李克勤发与梁伟铿贾一凡凤凰合影",
@@ -5068,7 +5148,7 @@
     },
     {
       "raw_hot": 39910,
-      "num": 197965,
+      "num": 209302,
       "word": "如鸢这样的男人能嫁吗",
       "onboard_time": 1746422482,
       "rank": 23,
@@ -5105,6 +5185,14 @@
       "onboard_time": 1746304216,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38721,
+      "num": 233024,
+      "word": "勇士还能过森林狼这关吗",
+      "onboard_time": 1746423202,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 38673,
@@ -5408,14 +5496,6 @@
       "word": "律师解读女生输头孢离世事件责任划分",
       "onboard_time": 1746354861,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21363,
-      "num": 131845,
-      "word": "贵州翻船之前暴风雨画面",
-      "onboard_time": 1746422121,
-      "rank": 38,
       "category": "民生新闻"
     },
     {

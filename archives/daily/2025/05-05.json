@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746422795014,
+  "endTime": 1746423798963,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1078733,
+      "num": 655272,
+      "word": "韩国爱豆多次在公开场合求救",
+      "onboard_time": 1746421040,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1054307,
       "num": 1054307,
       "word": "成都大风",
@@ -81,14 +89,6 @@
       "onboard_time": 1746369864,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1004925,
-      "num": 655272,
-      "word": "韩国爱豆多次在公开场合求救",
-      "onboard_time": 1746421040,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 911091,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 602066,
+      "num": 602066,
+      "word": "51岁阿姨月薪1710元的独居生活",
+      "onboard_time": 1746421162,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600164,
       "num": 600164,
       "word": "勇士vs火箭",
@@ -203,8 +211,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 548508,
-      "num": 548508,
+      "raw_hot": 562821,
+      "num": 562821,
       "word": "护士发论文称男性确诊子宫肌瘤",
       "onboard_time": 1746419542,
       "rank": 36,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459737,
+      "num": 459737,
+      "word": "小猫悟空去世仍有多个疑点",
+      "onboard_time": 1746420922,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 459256,
       "num": 459256,
       "word": "孙颖莎嘉人封面释出",
@@ -289,14 +305,6 @@
       "onboard_time": 1746402019,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441188,
-      "num": 412123,
-      "word": "51岁阿姨月薪1710元的独居生活",
-      "onboard_time": 1746421162,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 428201,
@@ -355,8 +363,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 370302,
-      "num": 370302,
+      "raw_hot": 373000,
+      "num": 373000,
       "word": "严浩翔姐姐来了",
       "onboard_time": 1746419243,
       "rank": 36,
@@ -377,6 +385,14 @@
       "onboard_time": 1746370105,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 349885,
+      "num": 349885,
+      "word": "赵丽颖立夏新发色",
+      "onboard_time": 1746422901,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 348682,
@@ -499,20 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263563,
-      "num": 263563,
-      "word": "小猫悟空去世仍有多个疑点",
-      "onboard_time": 1746420922,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 257337,
       "num": 257337,
       "word": "虞书欣加盟是女儿是妈妈2",
       "onboard_time": 1746401058,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256345,
+      "num": 256345,
+      "word": "白鹿接触LV",
+      "onboard_time": 1746423563,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 255495,
@@ -553,6 +569,14 @@
       "onboard_time": 1746415882,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238822,
+      "num": 238822,
+      "word": "再上19天班又放假了",
+      "onboard_time": 1746423381,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232016,
@@ -619,8 +643,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209557,
+      "num": 209557,
+      "word": "王一博表情包上摩天轮",
+      "onboard_time": 1746421340,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209539,
-      "num": 188671,
+      "num": 210185,
       "word": "陈梦妈妈回应曾被女儿怀疑不是亲妈",
       "onboard_time": 1746419363,
       "rank": 45,
@@ -633,6 +665,14 @@
       "onboard_time": 1746350121,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209205,
+      "num": 209205,
+      "word": "李一桐拍了撕拉片",
+      "onboard_time": 1746422722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208571,
@@ -723,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197832,
+      "num": 197832,
+      "word": "欧尼熊",
+      "onboard_time": 1746422843,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197650,
       "num": 197650,
       "word": "压下库里浮起希尔德",
@@ -747,28 +795,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197216,
-      "num": 197216,
-      "word": "王一博表情包上摩天轮",
-      "onboard_time": 1746421340,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197181,
       "num": 197181,
       "word": "成都暴雨",
       "onboard_time": 1746408800,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196979,
-      "num": 196979,
-      "word": "李一桐拍了撕拉片",
-      "onboard_time": 1746422722,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 196367,
@@ -891,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164645,
+      "num": 256637,
+      "word": "贵州游船倾覆最后一名失联人员被找到",
+      "onboard_time": 1746423442,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163981,
       "num": 163981,
       "word": "贵州黔西市游船倾覆事故致9人死亡1人失联",
@@ -905,6 +945,22 @@
       "onboard_time": 1746419482,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160368,
+      "num": 160368,
+      "word": "张云龙妖系妆造神性美",
+      "onboard_time": 1746422962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159193,
+      "num": 159193,
+      "word": "詹青云聊全女模式",
+      "onboard_time": 1746422781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 157724,
@@ -971,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149164,
+      "num": 149164,
+      "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
+      "onboard_time": 1746423381,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147164,
       "num": 147164,
       "word": "5月5日13时57分迎来立夏",
@@ -980,11 +1044,19 @@
     },
     {
       "raw_hot": 147065,
-      "num": 147065,
+      "num": 209266,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1746422301,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146445,
+      "num": 146445,
+      "word": "中医建议立夏后晚睡早起",
+      "onboard_time": 1746422901,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145843,
@@ -1057,6 +1129,22 @@
       "onboard_time": 1746372084,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131543,
+      "num": 131543,
+      "word": "五一即将结束的痛被毛不易哄好了",
+      "onboard_time": 1746422843,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 130627,
+      "num": 130627,
+      "word": "宋亚轩 不想和大家只是萍水相逢",
+      "onboard_time": 1746422542,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130393,
@@ -1209,14 +1297,6 @@
       "onboard_time": 1746372684,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114068,
-      "num": 114068,
-      "word": "詹青云聊全女模式",
-      "onboard_time": 1746422781,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 113019,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1746408800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85870,
+      "num": 149920,
+      "word": "贵州翻船之前暴风雨画面",
+      "onboard_time": 1746422121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83893,
@@ -1620,11 +1708,19 @@
     },
     {
       "raw_hot": 39910,
-      "num": 197965,
+      "num": 209302,
       "word": "如鸢这样的男人能嫁吗",
       "onboard_time": 1746422482,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38721,
+      "num": 233024,
+      "word": "勇士还能过森林狼这关吗",
+      "onboard_time": 1746423202,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 37596,
@@ -1712,14 +1808,6 @@
       "word": "胡锡进称支持胖东来投诉柴怼怼",
       "onboard_time": 1746419001,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21363,
-      "num": 131845,
-      "word": "贵州翻船之前暴风雨画面",
-      "onboard_time": 1746422121,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
