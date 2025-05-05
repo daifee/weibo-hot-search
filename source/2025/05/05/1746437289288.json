@@ -1,0 +1,410 @@
+{
+  "runTime": 1746437289288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503794,
+        "num": 1503794,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882423,
+        "num": 882423,
+        "word": "日本一地出现神秘地鸣",
+        "onboard_time": 1746430642,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323352,
+        "num": 747980,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 700586,
+        "num": 700586,
+        "word": "华晨宇用2000架无人机复刻日出",
+        "onboard_time": 1746428601,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 606803,
+        "num": 606803,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338014,
+        "num": 338014,
+        "word": "73岁普京每天健身1.5小时",
+        "onboard_time": 1746431541,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335662,
+        "num": 335662,
+        "word": "全员加速中",
+        "onboard_time": 1746425541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330508,
+        "num": 330508,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321366,
+        "num": 321366,
+        "word": "偷拍裙底关乎女性安全感不能姑息",
+        "onboard_time": 1746432861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198401,
+        "num": 321022,
+        "word": "特朗普爆欧盟领导人打不通普京电话",
+        "onboard_time": 1746432320,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1542904,
+        "num": 313476,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1081512,
+        "num": 305555,
+        "word": "滕州善国路车祸",
+        "onboard_time": 1746434421,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582860,
+        "num": 294673,
+        "word": "谁能管管商场厕所",
+        "onboard_time": 1746427160,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407597,
+        "num": 285277,
+        "word": "韩安冉老公片酬",
+        "onboard_time": 1746424942,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35124,
+        "num": 283006,
+        "word": "北方有自己的大型漫展了",
+        "onboard_time": 1746435681,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 276375,
+        "num": 276375,
+        "word": "白鹿接触LV",
+        "onboard_time": 1746423563,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219756,
+        "num": 261417,
+        "word": "迪丽热巴想打响指结果比了个心",
+        "onboard_time": 1746431422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180027,
+        "num": 260455,
+        "word": "魔道祖师动画联名益禾堂",
+        "onboard_time": 1746433340,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112934,
+        "num": 259699,
+        "word": "第一批跟风开村咖的人后悔了",
+        "onboard_time": 1746432320,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259637,
+        "num": 259637,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158144,
+        "num": 239865,
+        "word": "警方通报男子不挂车牌超车撞人",
+        "onboard_time": 1746435740,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 234700,
+        "num": 234700,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214239,
+        "num": 214239,
+        "word": "再上19天班又放假了",
+        "onboard_time": 1746423381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210710,
+        "num": 210710,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 205698,
+        "num": 205698,
+        "word": "杨幂小猫贴贴",
+        "onboard_time": 1746432560,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 196212,
+        "num": 196212,
+        "word": "田曦薇五一plog",
+        "onboard_time": 1746436401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191799,
+        "num": 191799,
+        "word": "乳腺癌最小患者仅有3岁",
+        "onboard_time": 1746432740,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177034,
+        "num": 177034,
+        "word": "欧豪真的豪豪豪豪豪多新剧",
+        "onboard_time": 1746434781,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176193,
+        "num": 176193,
+        "word": "正媛",
+        "onboard_time": 1746434842,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 162351,
+        "word": "人人人幕星社签售人人人",
+        "onboard_time": 1746435920,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183437,
+        "num": 161202,
+        "word": "滕州",
+        "onboard_time": 1746435023,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159402,
+        "num": 159402,
+        "word": "赵丽颖立夏新发色",
+        "onboard_time": 1746422901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153369,
+        "num": 153369,
+        "word": "娱乐圈 瘦气",
+        "onboard_time": 1746415821,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146937,
+        "num": 146937,
+        "word": "周一到周五也没这么快啊",
+        "onboard_time": 1746434781,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138918,
+        "num": 138918,
+        "word": "张钧甯带了六桶酸辣粉去意大利",
+        "onboard_time": 1746432022,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135879,
+        "num": 135879,
+        "word": "何老师终究是夸早了",
+        "onboard_time": 1746433822,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "柯淳工作室",
+        "onboard_time": 1746427403,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126541,
+        "num": 126541,
+        "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+        "onboard_time": 1746413602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122978,
+        "num": 122978,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68418,
+        "num": 112167,
+        "word": "农村孩子五一放假的意义",
+        "onboard_time": 1746436101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 110381,
+        "word": "泰山两游客翻越护栏险坠崖",
+        "onboard_time": 1746424342,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105904,
+        "num": 105904,
+        "word": "梁田爱人的眼睛是第八大洋",
+        "onboard_time": 1746431840,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102291,
+        "num": 102291,
+        "word": "贵州游船倾覆时有人没穿救生衣",
+        "onboard_time": 1746423981,
+        "rank": 42,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 100545,
+        "num": 100545,
+        "word": "小鸡小鸡是王蓉唯一一首赚钱的歌",
+        "onboard_time": 1746425663,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "热情大方一问三不知",
+        "onboard_time": 1746437061,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94730,
+        "num": 94730,
+        "word": "中医建议立夏后晚睡早起",
+        "onboard_time": 1746422901,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90795,
+        "num": 90795,
+        "word": "严浩翔姐姐来了",
+        "onboard_time": 1746419243,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88870,
+        "num": 88870,
+        "word": "这种蔬菜花青素含量比蓝莓还高",
+        "onboard_time": 1746434541,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87023,
+        "num": 87023,
+        "word": "小狗家属探望主人",
+        "onboard_time": 1746436701,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86836,
+        "num": 86836,
+        "word": "广东广西人穿衣有多随意",
+        "onboard_time": 1746437241,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}
