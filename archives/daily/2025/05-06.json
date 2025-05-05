@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746469871465,
+  "endTime": 1746470752761,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -203,6 +203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148079,
+      "num": 148079,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746447383,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141561,
       "num": 114132,
       "word": "王奕连一口饭都咽不下去了",
@@ -219,20 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129007,
-      "num": 129007,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746447383,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125755,
       "num": 125755,
       "word": "陈芋汐跳水世界杯发博",
       "onboard_time": 1746455843,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113402,
+      "num": 113402,
+      "word": "订8万婚宴被酒店经理私吞4.5万",
+      "onboard_time": 1746468197,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112875,
@@ -299,14 +307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 90238,
-      "num": 90238,
-      "word": "订8万婚宴被酒店经理私吞4.5万",
-      "onboard_time": 1746468197,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89886,
       "num": 89886,
       "word": "4集演出了别人40集的进度",
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75574,
+      "num": 75574,
+      "word": "斯诺克",
+      "onboard_time": 1746450262,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74531,
       "num": 74531,
       "word": "苦尽柑来遇见你百想最佳作品",
@@ -377,14 +385,6 @@
       "onboard_time": 1746462979,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69424,
-      "num": 69424,
-      "word": "斯诺克",
-      "onboard_time": 1746450262,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 68816,
@@ -499,20 +499,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 15131,
+      "num": 70610,
+      "word": "四川达州一小型汽车坠河致1人死亡",
+      "onboard_time": 1746469636,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 15060,
       "num": 24212,
       "word": "坚决克服麻痹思想狠抓工作落实",
       "onboard_time": 1746467176,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13366,
-      "num": 34276,
-      "word": "四川达州一小型汽车坠河致1人死亡",
-      "onboard_time": 1746469636,
-      "rank": 27,
-      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
