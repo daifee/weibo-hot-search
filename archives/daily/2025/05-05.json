@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746452771426,
+  "endTime": 1746455191722,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2250963,
-      "num": 2250963,
+      "raw_hot": 2729157,
+      "num": 2729157,
       "word": "淘宝免单",
       "onboard_time": 1746448761,
       "rank": 22,
@@ -65,6 +65,14 @@
       "onboard_time": 1746414682,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1344733,
+      "num": 1344733,
+      "word": "百想获奖名单",
+      "onboard_time": 1746452784,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1338939,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1126734,
-      "num": 304730,
+      "num": 383014,
       "word": "金价",
       "onboard_time": 1746446721,
       "rank": 20,
@@ -169,6 +177,14 @@
       "onboard_time": 1746369864,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039939,
+      "num": 1039939,
+      "word": "周思成直播查雅思成绩",
+      "onboard_time": 1746451762,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 1036212,
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 759057,
+      "num": 759057,
+      "word": "石凯 全员加速中",
+      "onboard_time": 1746451642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 740594,
       "num": 541747,
       "word": "13岁女孩动漫直播间被骗购软色情玩具",
@@ -273,6 +297,14 @@
       "onboard_time": 1746372923,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 731681,
+      "num": 615217,
+      "word": "杨紫去年就拍了撕拉片",
+      "onboard_time": 1746449601,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722009,
@@ -363,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 635549,
-      "num": 615217,
-      "word": "杨紫去年就拍了撕拉片",
-      "onboard_time": 1746449601,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 632977,
       "num": 377434,
       "word": "这是我的西游直播",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 571820,
-      "num": 571820,
+      "num": 796877,
       "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
       "onboard_time": 1746449121,
       "rank": 40,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490431,
+      "num": 650843,
+      "word": "五一假期全国消费市场数据来了",
+      "onboard_time": 1746449783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486766,
       "num": 486766,
       "word": "灵隐寺小卖部年租金260万引质疑",
@@ -627,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433351,
-      "num": 613633,
-      "word": "五一假期全国消费市场数据来了",
-      "onboard_time": 1746449783,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 428201,
       "num": 428201,
       "word": "蔡依林新专辑PLEASURE官宣",
@@ -675,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419920,
-      "num": 419920,
-      "word": "石凯 全员加速中",
-      "onboard_time": 1746451642,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418202,
       "num": 418202,
       "word": "林心如霍建华带女儿看电影",
@@ -715,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393111,
+      "num": 393111,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392363,
       "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
       "onboard_time": 1746412522,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 388274,
+      "num": 388274,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 387104,
@@ -739,20 +771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381480,
+      "num": 381480,
+      "word": "爱纯妈妈获奖了",
+      "onboard_time": 1746452903,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 377605,
       "num": 377605,
       "word": "警方通报男子不挂车牌超车撞人",
       "onboard_time": 1746435740,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 374313,
-      "num": 374313,
-      "word": "周思成直播查雅思成绩",
-      "onboard_time": 1746451762,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 373000,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351579,
-      "num": 287104,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 349885,
       "num": 349885,
       "word": "赵丽颖立夏新发色",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 349306,
-      "num": 1041290,
+      "num": 1133610,
       "word": "数据看五一各地出游热度",
       "onboard_time": 1746433281,
       "rank": 2,
@@ -875,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323349,
-      "num": 323349,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
@@ -931,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301491,
+      "num": 301491,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299580,
       "num": 299580,
       "word": "樊振东是首位超级金满贯得主",
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 299350,
-      "num": 270719,
+      "num": 289357,
       "word": "苦尽柑来遇见你百想最佳剧本奖",
       "onboard_time": 1746452063,
       "rank": 25,
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252687,
+      "num": 252687,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251370,
       "num": 251370,
       "word": "小猫悟空",
@@ -1088,14 +1120,6 @@
       "word": "这是我的西游",
       "onboard_time": 1746426081,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 246615,
-      "num": 246615,
-      "word": "百想直播",
-      "onboard_time": 1746447320,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1179,6 +1203,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 221963,
+      "num": 221963,
+      "word": "薛小婉任权要领证了",
+      "onboard_time": 1746454284,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221083,
       "num": 159959,
       "word": "梁王教练回应男双躺赢",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1746416662,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214959,
+      "num": 214959,
+      "word": "梁伟铿感谢王昶",
+      "onboard_time": 1746455002,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 213596,
@@ -1395,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198601,
+      "num": 198601,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 197844,
       "num": 197844,
       "word": "贵州游船倾覆事故70人还在医院救治",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1746421102,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191642,
+      "num": 191642,
+      "word": "这种网红玩具正在毒害你的孩子",
+      "onboard_time": 1746455121,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191368,
@@ -1739,12 +1795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162942,
+      "num": 162942,
+      "word": "嘉人",
+      "onboard_time": 1746453023,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 161673,
       "num": 161673,
       "word": "女生cos国漫角色被男子指责穿和服",
       "onboard_time": 1746437602,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161105,
+      "num": 161105,
+      "word": "周思成回应雅思写作考不到8点5",
+      "onboard_time": 1746453623,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 160368,
@@ -1891,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150352,
+      "num": 150352,
+      "word": "刑警的日子 雪迷宫",
+      "onboard_time": 1746452963,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150061,
       "num": 150061,
       "word": "库里在认真的老去",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1746449961,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147351,
+      "num": 147351,
+      "word": "5楼污水直排像瀑布楼下阳台封5年",
+      "onboard_time": 1746453023,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147164,
@@ -2043,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139594,
+      "num": 139594,
+      "word": "饿了么在淘宝闪购日订单已1000万",
+      "onboard_time": 1746454703,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 139420,
       "num": 139420,
       "word": "张真源直拍简直是Daddy级别",
@@ -2065,6 +2161,14 @@
       "onboard_time": 1746416721,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137481,
+      "num": 137481,
+      "word": "敦煌月牙泉目之所及全是人",
+      "onboard_time": 1746453804,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 137419,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1746442521,
       "rank": 37,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 135030,
+      "num": 135030,
+      "word": "云南玉昆3比2山东泰山",
+      "onboard_time": 1746454763,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 134612,
@@ -2667,6 +2779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108512,
+      "num": 199423,
+      "word": "翟潇闻对吴宣仪撒娇",
+      "onboard_time": 1746455065,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107860,
       "num": 107860,
       "word": "这种运动可有效降低体内炎症",
@@ -2760,6 +2880,14 @@
       "word": "福建震感",
       "onboard_time": 1746444921,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101695,
+      "num": 399853,
+      "word": "西藏那曲3头熊深夜撞门进入奶茶店",
+      "onboard_time": 1746454524,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3019,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79519,
+      "num": 381543,
+      "word": "黄祖骏再被通报",
+      "onboard_time": 1746454104,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76593,
       "num": 162351,
       "word": "人人人幕星社签售人人人",
@@ -3139,6 +3275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60662,
+      "num": 191100,
+      "word": "贵州游船侧翻事发时出现14级阵风",
+      "onboard_time": 1746455002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60228,
       "num": 276313,
       "word": "梅德韦杰夫回应特朗普涉二战言论",
@@ -3201,6 +3345,14 @@
       "onboard_time": 1746398236,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52366,
+      "num": 384914,
+      "word": "蛮好的人生一开始就没设置姐弟恋",
+      "onboard_time": 1746453923,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 52347,
@@ -3441,6 +3593,14 @@
       "onboard_time": 1746384495,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16139,
+      "num": 386518,
+      "word": "立夏后为何中医建议晚睡早起",
+      "onboard_time": 1746454703,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15298,

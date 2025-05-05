@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746452771426,
+  "endTime": 1746455191722,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -9,6 +9,14 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2729157,
+      "num": 2729157,
+      "word": "淘宝免单",
+      "onboard_time": 1746448761,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 2539389,
@@ -25,14 +33,6 @@
       "onboard_time": 1746365845,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2250963,
-      "num": 2250963,
-      "word": "淘宝免单",
-      "onboard_time": 1746448761,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 2203583,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1344733,
+      "num": 1344733,
+      "word": "百想获奖名单",
+      "onboard_time": 1746452784,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1338939,
       "num": 1338939,
       "word": "上海欢乐谷失火被游客误认节目效果",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1126734,
-      "num": 304730,
+      "num": 383014,
       "word": "金价",
       "onboard_time": 1746446721,
       "rank": 20,
@@ -305,6 +313,14 @@
       "onboard_time": 1746372804,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039939,
+      "num": 1039939,
+      "word": "周思成直播查雅思成绩",
+      "onboard_time": 1746451762,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 1036212,
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 759057,
+      "num": 759057,
+      "word": "石凯 全员加速中",
+      "onboard_time": 1746451642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 747692,
       "num": 273177,
       "word": "严浩翔白发背头",
@@ -553,6 +577,14 @@
       "onboard_time": 1746372923,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 731681,
+      "num": 615217,
+      "word": "杨紫去年就拍了撕拉片",
+      "onboard_time": 1746449601,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 722009,
@@ -689,14 +721,6 @@
       "onboard_time": 1746414503,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 635549,
-      "num": 615217,
-      "word": "杨紫去年就拍了撕拉片",
-      "onboard_time": 1746449601,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 632977,
@@ -844,7 +868,7 @@
     },
     {
       "raw_hot": 571820,
-      "num": 571820,
+      "num": 796877,
       "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
       "onboard_time": 1746449121,
       "rank": 40,
@@ -1043,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490431,
+      "num": 650843,
+      "word": "五一假期全国消费市场数据来了",
+      "onboard_time": 1746449783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489677,
       "num": 284650,
       "word": "张凌赫给迪丽热巴把脉",
@@ -1203,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433351,
-      "num": 613633,
-      "word": "五一假期全国消费市场数据来了",
-      "onboard_time": 1746449783,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 428766,
       "num": 428766,
       "word": "刘耀文港风",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1746446902,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419920,
-      "num": 419920,
-      "word": "石凯 全员加速中",
-      "onboard_time": 1746451642,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 419830,
@@ -1355,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 393111,
+      "num": 393111,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392363,
       "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1746345562,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388274,
+      "num": 388274,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 387891,
@@ -1403,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381480,
+      "num": 381480,
+      "word": "爱纯妈妈获奖了",
+      "onboard_time": 1746452903,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378874,
       "num": 378874,
       "word": "三个月瘦了32斤的侧脸变化",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1746435740,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 374313,
-      "num": 374313,
-      "word": "周思成直播查雅思成绩",
-      "onboard_time": 1746451762,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 373000,
@@ -1491,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351579,
-      "num": 287104,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 351163,
       "num": 351163,
       "word": "赴山海",
@@ -1516,7 +1540,7 @@
     },
     {
       "raw_hot": 349306,
-      "num": 1041290,
+      "num": 1133610,
       "word": "数据看五一各地出游热度",
       "onboard_time": 1746433281,
       "rank": 2,
@@ -1675,14 +1699,6 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 323349,
-      "num": 323349,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322285,
       "num": 291773,
       "word": "刘诗诗张云龙沈月聚餐合照",
@@ -1803,6 +1819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301491,
+      "num": 301491,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299580,
       "num": 299580,
       "word": "樊振东是首位超级金满贯得主",
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 299350,
-      "num": 270719,
+      "num": 289357,
       "word": "苦尽柑来遇见你百想最佳剧本奖",
       "onboard_time": 1746452063,
       "rank": 25,
@@ -2091,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252687,
+      "num": 252687,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252451,
       "num": 252451,
       "word": "盛李豪黄雨婷霸榜世界第一",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1746368305,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 246615,
-      "num": 246615,
-      "word": "百想直播",
-      "onboard_time": 1746447320,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 246604,
@@ -2331,6 +2355,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 221963,
+      "num": 221963,
+      "word": "薛小婉任权要领证了",
+      "onboard_time": 1746454284,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "安洗莹不想看了",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1746322762,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214959,
+      "num": 214959,
+      "word": "梁伟铿感谢王昶",
+      "onboard_time": 1746455002,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 214074,
@@ -2819,6 +2859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198601,
+      "num": 198601,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 198517,
       "num": 198517,
       "word": "库珀Gigi公开恋情",
@@ -3041,6 +3089,14 @@
       "onboard_time": 1746421102,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191642,
+      "num": 191642,
+      "word": "这种网红玩具正在毒害你的孩子",
+      "onboard_time": 1746455121,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191368,
@@ -3691,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162942,
+      "num": 162942,
+      "word": "嘉人",
+      "onboard_time": 1746453023,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162720,
       "num": 162720,
       "word": "医生批评医院公众号文章太烂遭辱骂",
@@ -3705,6 +3769,14 @@
       "onboard_time": 1746437602,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161105,
+      "num": 161105,
+      "word": "周思成回应雅思写作考不到8点5",
+      "onboard_time": 1746453623,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 160882,
@@ -3995,6 +4067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150352,
+      "num": 150352,
+      "word": "刑警的日子 雪迷宫",
+      "onboard_time": 1746452963,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150322,
       "num": 201801,
       "word": "谢娜问张杰在鸟巢开运动会吗",
@@ -4113,6 +4193,14 @@
       "onboard_time": 1746328821,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147351,
+      "num": 147351,
+      "word": "5楼污水直排像瀑布楼下阳台封5年",
+      "onboard_time": 1746453023,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147164,
@@ -4379,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139594,
+      "num": 139594,
+      "word": "饿了么在淘宝闪购日订单已1000万",
+      "onboard_time": 1746454703,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 139564,
       "num": 139564,
       "word": "郝蕾怼张丹峰说法海没有太太",
@@ -4465,6 +4561,14 @@
       "onboard_time": 1746345802,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137481,
+      "num": 137481,
+      "word": "敦煌月牙泉目之所及全是人",
+      "onboard_time": 1746453804,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 137419,
@@ -4561,6 +4665,14 @@
       "onboard_time": 1746442521,
       "rank": 37,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 135030,
+      "num": 135030,
+      "word": "云南玉昆3比2山东泰山",
+      "onboard_time": 1746454763,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 134867,
@@ -5467,6 +5579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108512,
+      "num": 199423,
+      "word": "翟潇闻对吴宣仪撒娇",
+      "onboard_time": 1746455065,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108306,
       "num": 108306,
       "word": "BLACKPINK即将发行专辑",
@@ -5689,6 +5809,14 @@
       "onboard_time": 1746340161,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101695,
+      "num": 399853,
+      "word": "西藏那曲3头熊深夜撞门进入奶茶店",
+      "onboard_time": 1746454524,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101474,
@@ -6251,6 +6379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79519,
+      "num": 381543,
+      "word": "黄祖骏再被通报",
+      "onboard_time": 1746454104,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76593,
       "num": 162351,
       "word": "人人人幕星社签售人人人",
@@ -6459,6 +6595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60662,
+      "num": 191100,
+      "word": "贵州游船侧翻事发时出现14级阵风",
+      "onboard_time": 1746455002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60228,
       "num": 276313,
       "word": "梅德韦杰夫回应特朗普涉二战言论",
@@ -6577,6 +6721,14 @@
       "onboard_time": 1746329900,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 52366,
+      "num": 384914,
+      "word": "蛮好的人生一开始就没设置姐弟恋",
+      "onboard_time": 1746453923,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 49063,
@@ -7217,6 +7369,14 @@
       "onboard_time": 1746352882,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16139,
+      "num": 386518,
+      "word": "立夏后为何中医建议晚睡早起",
+      "onboard_time": 1746454703,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15298,
