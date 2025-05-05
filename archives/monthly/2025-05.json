@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746456303959,
+  "endTime": 1746458836131,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -25,6 +25,14 @@
       "onboard_time": 1746242841,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3104219,
+      "num": 3104219,
+      "word": "金泰梨二封百想视后",
+      "onboard_time": 1746456504,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2738002,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274363,
+      "num": 1274363,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1272960,
       "num": 1272960,
       "word": "刘烨 秒删党",
@@ -569,14 +585,6 @@
       "onboard_time": 1746075741,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1231991,
-      "num": 1231991,
-      "word": "印度不允许一滴水流向巴基斯坦",
-      "onboard_time": 1746454402,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1227988,
@@ -657,6 +665,14 @@
       "onboard_time": 1746119898,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1125470,
+      "num": 1125470,
+      "word": "王奕解约",
+      "onboard_time": 1746457703,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121323,
@@ -1456,6 +1472,14 @@
       "word": "全员加速中",
       "onboard_time": 1746425541,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 721976,
+      "num": 421605,
+      "word": "朱智勋获百想视帝",
+      "onboard_time": 1746456865,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -2291,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524082,
+      "num": 384078,
+      "word": "全度妍五封百想影后",
+      "onboard_time": 1746457162,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523146,
       "num": 523146,
       "word": "赵露思辣妹红发",
@@ -2401,6 +2433,14 @@
       "onboard_time": 1746152729,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499681,
+      "num": 322454,
+      "word": "曹政奭百想影帝",
+      "onboard_time": 1746457162,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 498475,
@@ -2675,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468518,
+      "num": 468518,
+      "word": "周深在沙漠唱响化身孤岛的鲸",
+      "onboard_time": 1746457162,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 468083,
       "num": 434738,
       "word": "太湖湾音乐节 激光笔",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1746188969,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463139,
+      "num": 463139,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 461296,
@@ -2771,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455718,
+      "num": 190467,
+      "word": "IU陪跑三次了",
+      "onboard_time": 1746458482,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455693,
       "num": 587889,
       "word": "于正晒白鹿临江仙血泪照",
@@ -2787,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453548,
+      "num": 191241,
+      "word": "王奕发长文",
+      "onboard_time": 1746456144,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452143,
       "num": 250269,
       "word": "被结婚的手捧花价格吓到了",
@@ -2801,6 +2873,14 @@
       "onboard_time": 1746245301,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450244,
+      "num": 450244,
+      "word": "赵心童17比8拿到冠军点",
+      "onboard_time": 1746457283,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 449716,
@@ -3283,14 +3363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393111,
-      "num": 393111,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392506,
       "num": 392506,
       "word": "朱志鑫簪花",
@@ -3545,6 +3617,14 @@
       "onboard_time": 1746055458,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361950,
+      "num": 190233,
+      "word": "阿姨是黄圣依和妈妈之间的禁忌词",
+      "onboard_time": 1746457225,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 360997,
@@ -5091,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248080,
+      "num": 200437,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 247977,
       "num": 247977,
       "word": "蔡徐坤ins更新",
@@ -6395,14 +6483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200437,
-      "num": 200437,
-      "word": "胖东来玉石产品抽检全合规",
-      "onboard_time": 1746455065,
-      "rank": 35,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 200259,
       "num": 200259,
       "word": "快船3比3掘金",
@@ -7153,14 +7233,6 @@
       "onboard_time": 1746092361,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191241,
-      "num": 191241,
-      "word": "王奕发长文",
-      "onboard_time": 1746456144,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 191008,
@@ -8363,6 +8435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170949,
+      "num": 170949,
+      "word": "正年",
+      "onboard_time": 1746457522,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170849,
       "num": 170849,
       "word": "华晨宇户外演唱会开空调",
@@ -8441,6 +8521,14 @@
       "onboard_time": 1746352821,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169735,
+      "num": 169735,
+      "word": "苦尽柑来遇见你百想最佳作品",
+      "onboard_time": 1746458422,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 169223,
@@ -8953,6 +9041,14 @@
       "onboard_time": 1746280644,
       "rank": 34,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "刘耀文solo舞台抹了一手血",
+      "onboard_time": 1746457522,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 162112,
@@ -9779,6 +9875,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151365,
+      "num": 151365,
+      "word": "谁来田曦薇这都得后空翻一个再走",
+      "onboard_time": 1746457944,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151267,
       "num": 151267,
       "word": "玲花是曾毅特别鸣谢的第一位",
@@ -9833,6 +9937,14 @@
       "onboard_time": 1746357082,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150171,
+      "num": 150171,
+      "word": "崔康熙 下课",
+      "onboard_time": 1746456384,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 150061,
@@ -10124,7 +10236,7 @@
     },
     {
       "raw_hot": 147351,
-      "num": 147351,
+      "num": 190526,
       "word": "5楼污水直排像瀑布楼下阳台封5年",
       "onboard_time": 1746453023,
       "rank": 46,
@@ -10299,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "薛之谦彩带",
+      "onboard_time": 1746456744,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145743,
       "num": 145743,
       "word": "婚礼上的狗方亲友",
@@ -10337,6 +10457,14 @@
       "onboard_time": 1746034877,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145213,
+      "num": 145213,
+      "word": "梁伟铿回应中国队夺冠",
+      "onboard_time": 1746457402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 145201,
@@ -10800,6 +10928,14 @@
       "word": "刘学义兰香如故造型",
       "onboard_time": 1746439640,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139689,
+      "num": 139689,
+      "word": "刘诗诗没带马甲",
+      "onboard_time": 1746458782,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -14411,6 +14547,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 100634,
+      "num": 190349,
+      "word": "赵心童远台进攻太准了",
+      "onboard_time": 1746458422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100588,
       "num": 100588,
       "word": "单亲母亲丢失孩子的那一刻",
@@ -14905,6 +15049,14 @@
       "onboard_time": 1746022705,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 339737,
+      "word": "淘宝闪购上线6天日订单已千万",
+      "onboard_time": 1746457283,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 93217,
@@ -16411,6 +16563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57989,
+      "num": 360188,
+      "word": "好莱坞一批新片将受电影关税影响",
+      "onboard_time": 1746457643,
+      "rank": 13,
+      "category": "国际时政,电影"
+    },
+    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
@@ -17113,6 +17273,14 @@
       "onboard_time": 1746030562,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42243,
+      "num": 190588,
+      "word": "适合立夏节气的运动有哪些",
+      "onboard_time": 1746458183,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 42146,
@@ -18785,6 +18953,14 @@
       "onboard_time": 1746100882,
       "rank": 14,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 12973,
+      "num": 190128,
+      "word": "2025闪闪发光的你",
+      "onboard_time": 1746458482,
+      "rank": 30,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 12780,

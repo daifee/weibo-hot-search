@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746456303959,
+  "endTime": 1746458836131,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -9,6 +9,14 @@
       "onboard_time": 1746359842,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3104219,
+      "num": 3104219,
+      "word": "金泰梨二封百想视后",
+      "onboard_time": 1746456504,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2738002,
@@ -107,8 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1231991,
-      "num": 1231991,
+      "raw_hot": 1274363,
+      "num": 1274363,
       "word": "印度不允许一滴水流向巴基斯坦",
       "onboard_time": 1746454402,
       "rank": 24,
@@ -145,6 +153,14 @@
       "onboard_time": 1746446721,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1125470,
+      "num": 1125470,
+      "word": "王奕解约",
+      "onboard_time": 1746457703,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121323,
@@ -320,6 +336,14 @@
       "word": "全员加速中",
       "onboard_time": 1746425541,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 721976,
+      "num": 421605,
+      "word": "朱智勋获百想视帝",
+      "onboard_time": 1746456865,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524082,
+      "num": 384078,
+      "word": "全度妍五封百想影后",
+      "onboard_time": 1746457162,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522755,
       "num": 431440,
       "word": "IU白裙盘发",
@@ -579,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499681,
+      "num": 322454,
+      "word": "曹政奭百想影帝",
+      "onboard_time": 1746457162,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495148,
       "num": 345108,
       "word": "夏志远当爸",
@@ -627,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468518,
+      "num": 468518,
+      "word": "周深在沙漠唱响化身孤岛的鲸",
+      "onboard_time": 1746457162,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 463139,
+      "num": 463139,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459737,
       "num": 459737,
       "word": "小猫悟空去世仍有多个疑点",
@@ -643,12 +699,36 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 455718,
+      "num": 190467,
+      "word": "IU陪跑三次了",
+      "onboard_time": 1746458482,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455693,
       "num": 587889,
       "word": "于正晒白鹿临江仙血泪照",
       "onboard_time": 1746411262,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453548,
+      "num": 191241,
+      "word": "王奕发长文",
+      "onboard_time": 1746456144,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450244,
+      "num": 450244,
+      "word": "赵心童17比8拿到冠军点",
+      "onboard_time": 1746457283,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 449322,
@@ -747,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393111,
-      "num": 393111,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392363,
       "num": 392363,
       "word": "小米汽车智驾更名为辅助驾驶",
@@ -817,6 +889,14 @@
       "onboard_time": 1746411380,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361950,
+      "num": 190233,
+      "word": "阿姨是黄圣依和妈妈之间的禁忌词",
+      "onboard_time": 1746457225,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 355657,
@@ -1147,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248080,
+      "num": 200437,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 246604,
       "num": 246604,
       "word": "祖国山河大地陆续切换夏天模式",
@@ -1443,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200437,
-      "num": 200437,
-      "word": "胖东来玉石产品抽检全合规",
-      "onboard_time": 1746455065,
-      "rank": 35,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 199979,
       "num": 199979,
       "word": "王鹤棣咸鱼飞升生图路透",
@@ -1611,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191241,
-      "num": 191241,
-      "word": "王奕发长文",
-      "onboard_time": 1746456144,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189918,
       "num": 189918,
       "word": "韩维辰金宣虎wink",
@@ -1763,11 +1835,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170949,
+      "num": 170949,
+      "word": "正年",
+      "onboard_time": 1746457522,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170406,
       "num": 170406,
       "word": "锦月如歌",
       "onboard_time": 1746444622,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169735,
+      "num": 169735,
+      "word": "苦尽柑来遇见你百想最佳作品",
+      "onboard_time": 1746458422,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1857,6 +1945,14 @@
       "onboard_time": 1746453023,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "刘耀文solo舞台抹了一手血",
+      "onboard_time": 1746457522,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 161673,
@@ -2019,12 +2115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151365,
+      "num": 151365,
+      "word": "谁来田曦薇这都得后空翻一个再走",
+      "onboard_time": 1746457944,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150352,
       "num": 150352,
       "word": "刑警的日子 雪迷宫",
       "onboard_time": 1746452963,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150171,
+      "num": 150171,
+      "word": "崔康熙 下课",
+      "onboard_time": 1746456384,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 150061,
@@ -2084,7 +2196,7 @@
     },
     {
       "raw_hot": 147351,
-      "num": 147351,
+      "num": 190526,
       "word": "5楼污水直排像瀑布楼下阳台封5年",
       "onboard_time": 1746453023,
       "rank": 46,
@@ -2123,12 +2235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "薛之谦彩带",
+      "onboard_time": 1746456744,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145743,
       "num": 145743,
       "word": "婚礼上的狗方亲友",
       "onboard_time": 1746426502,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145213,
+      "num": 145213,
+      "word": "梁伟铿回应中国队夺冠",
+      "onboard_time": 1746457402,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 144984,
@@ -2184,6 +2312,14 @@
       "word": "刘学义兰香如故造型",
       "onboard_time": 1746439640,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139689,
+      "num": 139689,
+      "word": "刘诗诗没带马甲",
+      "onboard_time": 1746458782,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2971,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100634,
+      "num": 190349,
+      "word": "赵心童远台进攻太准了",
+      "onboard_time": 1746458422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100499,
       "num": 100499,
       "word": "儿女走失6年后父亲从高处坠落昏迷",
@@ -3089,6 +3233,14 @@
       "onboard_time": 1746437422,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 339737,
+      "word": "淘宝闪购上线6天日订单已千万",
+      "onboard_time": 1746457283,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 91644,
@@ -3371,6 +3523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57989,
+      "num": 360188,
+      "word": "好莱坞一批新片将受电影关税影响",
+      "onboard_time": 1746457643,
+      "rank": 13,
+      "category": "国际时政,电影"
+    },
+    {
       "raw_hot": 57676,
       "num": 57676,
       "word": "ZETA夺冠",
@@ -3497,6 +3657,14 @@
       "onboard_time": 1746423202,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42243,
+      "num": 190588,
+      "word": "适合立夏节气的运动有哪些",
+      "onboard_time": 1746458183,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 41715,
@@ -3681,6 +3849,14 @@
       "onboard_time": 1746418943,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12973,
+      "num": 190128,
+      "word": "2025闪闪发光的你",
+      "onboard_time": 1746458482,
+      "rank": 30,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 12653,
