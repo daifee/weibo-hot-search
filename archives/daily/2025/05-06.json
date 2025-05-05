@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746484977151,
+  "endTime": 1746487436480,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1279875,
+      "num": 1279875,
+      "word": "赵心童夺世锦赛冠军",
+      "onboard_time": 1746474616,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1006491,
       "num": 1006491,
       "word": "金泰梨二封百想视后",
@@ -27,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 771092,
-      "num": 771092,
-      "word": "赵心童夺世锦赛冠军",
-      "onboard_time": 1746474616,
-      "rank": 0,
-      "category": "体育"
+      "raw_hot": 953594,
+      "num": 704441,
+      "word": "印度不允许一滴水流向巴基斯坦",
+      "onboard_time": 1746454402,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 760794,
+      "num": 128366,
+      "word": "身上这种小红点可能是血管瘤",
+      "onboard_time": 1746480615,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 714442,
@@ -41,14 +57,6 @@
       "onboard_time": 1746460701,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 704441,
-      "num": 704441,
-      "word": "印度不允许一滴水流向巴基斯坦",
-      "onboard_time": 1746454402,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 614297,
@@ -75,12 +83,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 443572,
-      "num": 99499,
-      "word": "身上这种小红点可能是血管瘤",
-      "onboard_time": 1746480615,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 376359,
+      "num": 376359,
+      "word": "订8万婚宴被酒店经理私吞4.5万",
+      "onboard_time": 1746468197,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371673,
@@ -89,6 +97,14 @@
       "onboard_time": 1746457162,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326213,
+      "num": 326213,
+      "word": "短剧女演员杨珊子拍戏遇极端天气",
+      "onboard_time": 1746459081,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 310232,
@@ -155,20 +171,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228493,
-      "num": 228493,
-      "word": "短剧女演员杨珊子拍戏遇极端天气",
-      "onboard_time": 1746459081,
-      "rank": 24,
+      "raw_hot": 220419,
+      "num": 203709,
+      "word": "张杰直播为谢娜庆生",
+      "onboard_time": 1746486499,
+      "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 196563,
-      "num": 196563,
-      "word": "订8万婚宴被酒店经理私吞4.5万",
-      "onboard_time": 1746468197,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 209359,
+      "num": 209359,
+      "word": "丁俊晖祝贺赵心童",
+      "onboard_time": 1746485478,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202245,
+      "num": 202245,
+      "word": "特朗普继续开辟关税新战场",
+      "onboard_time": 1746485358,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 192790,
+      "num": 192790,
+      "word": "Jennie第三次参加MetGala",
+      "onboard_time": 1746487099,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 192659,
@@ -179,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190499,
+      "num": 190499,
+      "word": "胖东来玉石产品抽检全合规",
+      "onboard_time": 1746455065,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 186484,
       "num": 186484,
       "word": "熬夜延长假期",
@@ -187,7 +227,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183046,
+      "raw_hot": 185605,
+      "num": 185605,
+      "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+      "onboard_time": 1746448882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184190,
       "num": 1105669,
       "word": "五一假期全国消费市场数据来了",
       "onboard_time": 1746449783,
@@ -203,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168935,
-      "num": 168935,
-      "word": "胖东来玉石产品抽检全合规",
-      "onboard_time": 1746455065,
-      "rank": 14,
-      "category": "财经,民生新闻"
+      "raw_hot": 181867,
+      "num": 181867,
+      "word": "赵心童夺冠刷爆多项纪录",
+      "onboard_time": 1746486499,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 165570,
@@ -251,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128999,
+      "num": 128999,
+      "word": "一觉醒来斯诺克历史被中国人刷新",
+      "onboard_time": 1746486739,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 126719,
+      "word": "接亲路上国家给刷了个大火箭",
+      "onboard_time": 1746459382,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125755,
       "num": 125755,
       "word": "陈芋汐跳水世界杯发博",
@@ -259,19 +323,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112875,
-      "num": 112875,
-      "word": "这种网红玩具正在毒害你的孩子",
-      "onboard_time": 1746455121,
-      "rank": 30,
+      "raw_hot": 118604,
+      "num": 118604,
+      "word": "MetGala",
+      "onboard_time": 1746487279,
+      "rank": 23,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 118505,
+      "num": 118505,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108419,
-      "num": 108419,
-      "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
-      "onboard_time": 1746448882,
-      "rank": 31,
+      "raw_hot": 114984,
+      "num": 114984,
+      "word": "这种网红玩具正在毒害你的孩子",
+      "onboard_time": 1746455121,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -283,12 +355,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103120,
+      "num": 204739,
+      "word": "特朗普关税谈判模板计划受挫",
+      "onboard_time": 1746486499,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 100661,
+      "num": 100661,
+      "word": "金价",
+      "onboard_time": 1746446721,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99989,
       "num": 99989,
       "word": "高伟光选对剧本了",
       "onboard_time": 1746461301,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98539,
+      "num": 85847,
+      "word": "赵心童夺冠",
+      "onboard_time": 1746486739,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 94923,
@@ -315,20 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91385,
-      "num": 115229,
-      "word": "接亲路上国家给刷了个大火箭",
-      "onboard_time": 1746459382,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90527,
       "num": 90527,
       "word": "淘宝闪购上线6天日订单已千万",
       "onboard_time": 1746457283,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90016,
+      "num": 90016,
+      "word": "赵心童亚洲首个斯诺克世锦赛冠军",
+      "onboard_time": 1746486799,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 89886,
@@ -363,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83489,
+      "num": 83489,
+      "word": "孙红雷祝贺赵心童夺冠",
+      "onboard_time": 1746487340,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83049,
       "num": 86597,
       "word": "崔康熙 下课",
       "onboard_time": 1746456384,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80755,
-      "num": 80755,
-      "word": "金价",
-      "onboard_time": 1746446721,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 80413,
@@ -387,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74832,
+      "num": 74832,
+      "word": "薛小婉任权要领证了",
+      "onboard_time": 1746454284,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74531,
       "num": 74531,
       "word": "苦尽柑来遇见你百想最佳作品",
@@ -395,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74358,
-      "num": 74358,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 41,
+      "raw_hot": 74420,
+      "num": 74420,
+      "word": "网友挖出更多离谱医学论文",
+      "onboard_time": 1746455603,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -411,19 +515,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70573,
+      "num": 70573,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68816,
       "num": 68816,
       "word": "我在乌江翻船现场的十二分钟",
       "onboard_time": 1746457225,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68796,
-      "num": 68796,
-      "word": "网友挖出更多离谱医学论文",
-      "onboard_time": 1746455603,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -443,20 +547,20 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 64577,
-      "num": 64577,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63110,
       "num": 63110,
       "word": "台湾花莲海域5.7级地震",
       "onboard_time": 1746443781,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62030,
+      "num": 62030,
+      "word": "芒果待播节目 石凯镜头",
+      "onboard_time": 1746487279,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 61509,
@@ -467,12 +571,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 60729,
+      "num": 128388,
+      "word": "田曦薇我支持五一假期延长",
+      "onboard_time": 1746486499,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57162,
+      "num": 57162,
+      "word": "七月初七淮水竹亭就此作罢",
+      "onboard_time": 1746472814,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56902,
       "num": 56902,
       "word": "王奕和丝芭传媒打官司",
       "onboard_time": 1746465198,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53688,
+      "num": 56346,
+      "word": "宋慧乔短发",
+      "onboard_time": 1746445702,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 46876,
@@ -483,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 44564,
-      "num": 44564,
-      "word": "薛小婉任权要领证了",
-      "onboard_time": 1746454284,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42111,
       "num": 56343,
       "word": "百想",
@@ -499,28 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41644,
-      "num": 56346,
-      "word": "宋慧乔短发",
-      "onboard_time": 1746445702,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 39297,
       "num": 70009,
       "word": "印度断水最先受害者或是自己",
       "onboard_time": 1746455962,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34487,
-      "num": 34487,
-      "word": "七月初七淮水竹亭就此作罢",
-      "onboard_time": 1746472814,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 31298,

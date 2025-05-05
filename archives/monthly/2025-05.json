@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746484977151,
+  "endTime": 1746487436480,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -505,6 +505,14 @@
       "onboard_time": 1746411501,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1279875,
+      "num": 1279875,
+      "word": "赵心童夺世锦赛冠军",
+      "onboard_time": 1746474616,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1276923,
@@ -1299,14 +1307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 771092,
-      "num": 771092,
-      "word": "赵心童夺世锦赛冠军",
-      "onboard_time": 1746474616,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 770885,
       "num": 770885,
       "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
@@ -1345,6 +1345,14 @@
       "onboard_time": 1746249261,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760794,
+      "num": 128366,
+      "word": "身上这种小红点可能是血管瘤",
+      "onboard_time": 1746480615,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 759976,
@@ -2995,14 +3003,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 443572,
-      "num": 99499,
-      "word": "身上这种小红点可能是血管瘤",
-      "onboard_time": 1746480615,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 442599,
       "num": 293963,
       "word": "不体面却赚钱的工作",
@@ -3547,6 +3547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 376359,
+      "num": 376359,
+      "word": "订8万婚宴被酒店经理私吞4.5万",
+      "onboard_time": 1746468197,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375571,
       "num": 475660,
       "word": "大风杀",
@@ -4073,6 +4081,14 @@
       "onboard_time": 1746106823,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 326213,
+      "num": 326213,
+      "word": "短剧女演员杨珊子拍戏遇极端天气",
+      "onboard_time": 1746459081,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 324681,
@@ -5491,14 +5507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228493,
-      "num": 228493,
-      "word": "短剧女演员杨珊子拍戏遇极端天气",
-      "onboard_time": 1746459081,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228489,
       "num": 225418,
       "word": "还珠格格柳红聊爆火后的人生",
@@ -5721,6 +5729,14 @@
       "onboard_time": 1746198384,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220419,
+      "num": 203709,
+      "word": "张杰直播为谢娜庆生",
+      "onboard_time": 1746486499,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 220356,
@@ -5993,6 +6009,14 @@
       "onboard_time": 1746109943,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209359,
+      "num": 209359,
+      "word": "丁俊晖祝贺赵心童",
+      "onboard_time": 1746485478,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 209205,
@@ -6459,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202245,
+      "num": 202245,
+      "word": "特朗普继续开辟关税新战场",
+      "onboard_time": 1746485358,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "吴彤以为柯淳是关系户",
@@ -6843,14 +6875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196563,
-      "num": 196563,
-      "word": "订8万婚宴被酒店经理私吞4.5万",
-      "onboard_time": 1746468197,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196524,
       "num": 196524,
       "word": "留学生翻译爽文小说把老外爽到了",
@@ -7209,6 +7233,14 @@
       "onboard_time": 1746364166,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192790,
+      "num": 192790,
+      "word": "Jennie第三次参加MetGala",
+      "onboard_time": 1746487099,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 192779,
@@ -7961,6 +7993,14 @@
       "onboard_time": 1746077600,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181867,
+      "num": 181867,
+      "word": "赵心童夺冠刷爆多项纪录",
+      "onboard_time": 1746486499,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 181823,
@@ -12035,6 +12075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128999,
+      "num": 128999,
+      "word": "一觉醒来斯诺克历史被中国人刷新",
+      "onboard_time": 1746486739,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128940,
       "num": 128940,
       "word": "奔跑吧",
@@ -12361,6 +12409,14 @@
       "onboard_time": 1746245361,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126719,
+      "num": 133255,
+      "word": "接亲路上国家给刷了个大火箭",
+      "onboard_time": 1746459382,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126652,
@@ -13091,6 +13147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118604,
+      "num": 118604,
+      "word": "MetGala",
+      "onboard_time": 1746487279,
+      "rank": 23,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 118573,
       "num": 118573,
       "word": "小孩姐真情告白孙颖莎",
@@ -13377,14 +13441,6 @@
       "onboard_time": 1746428421,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115198,
-      "num": 133255,
-      "word": "接亲路上国家给刷了个大火箭",
-      "onboard_time": 1746459382,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115055,
@@ -14491,6 +14547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103120,
+      "num": 204739,
+      "word": "特朗普关税谈判模板计划受挫",
+      "onboard_time": 1746486499,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103066,
       "num": 103066,
       "word": "福建震感",
@@ -14849,6 +14913,14 @@
       "onboard_time": 1746027801,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98539,
+      "num": 85847,
+      "word": "赵心童夺冠",
+      "onboard_time": 1746486739,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 98444,
@@ -15307,6 +15379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90016,
+      "num": 90016,
+      "word": "赵心童亚洲首个斯诺克世锦赛冠军",
+      "onboard_time": 1746486799,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89879,
       "num": 206524,
       "word": "研究称常去音乐节能延寿",
@@ -15715,6 +15795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83489,
+      "num": 83489,
+      "word": "孙红雷祝贺赵心童夺冠",
+      "onboard_time": 1746487340,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82934,
       "num": 82934,
       "word": "包包挂件",
@@ -16059,6 +16147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74420,
+      "num": 178659,
+      "word": "网友挖出更多离谱医学论文",
+      "onboard_time": 1746455603,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74182,
       "num": 203641,
       "word": "男女不分的论文怎么发出来的",
@@ -16288,14 +16384,6 @@
       "word": "我在乌江翻船现场的十二分钟",
       "onboard_time": 1746457225,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68796,
-      "num": 178659,
-      "word": "网友挖出更多离谱医学论文",
-      "onboard_time": 1746455603,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -16563,6 +16651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62030,
+      "num": 62030,
+      "word": "芒果待播节目 石凯镜头",
+      "onboard_time": 1746487279,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62022,
       "num": 767963,
       "word": "教育强国有我",
@@ -16609,6 +16705,14 @@
       "onboard_time": 1746368966,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60729,
+      "num": 128388,
+      "word": "田曦薇我支持五一假期延长",
+      "onboard_time": 1746486499,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 60617,
@@ -16769,6 +16873,14 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57162,
+      "num": 57162,
+      "word": "七月初七淮水竹亭就此作罢",
+      "onboard_time": 1746472814,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 56923,
@@ -17857,14 +17969,6 @@
       "onboard_time": 1746042855,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34487,
-      "num": 34487,
-      "word": "七月初七淮水竹亭就此作罢",
-      "onboard_time": 1746472814,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 34373,

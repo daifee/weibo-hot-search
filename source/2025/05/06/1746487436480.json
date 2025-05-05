@@ -1,0 +1,410 @@
+{
+  "runTime": 1746487436480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1279875,
+        "num": 1279875,
+        "word": "赵心童夺世锦赛冠军",
+        "onboard_time": 1746474616,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554842,
+        "num": 554842,
+        "word": "丁俊晖",
+        "onboard_time": 1746459322,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184190,
+        "num": 483015,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433655,
+        "num": 433655,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378318,
+        "num": 378318,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 376359,
+        "num": 376359,
+        "word": "订8万婚宴被酒店经理私吞4.5万",
+        "onboard_time": 1746468197,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326880,
+        "num": 326880,
+        "word": "金泰梨二封百想视后",
+        "onboard_time": 1746456504,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326213,
+        "num": 326213,
+        "word": "短剧女演员杨珊子拍戏遇极端天气",
+        "onboard_time": 1746459081,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209359,
+        "num": 209359,
+        "word": "丁俊晖祝贺赵心童",
+        "onboard_time": 1746485478,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103120,
+        "num": 204739,
+        "word": "特朗普关税谈判模板计划受挫",
+        "onboard_time": 1746486499,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 953594,
+        "num": 204022,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220419,
+        "num": 203709,
+        "word": "张杰直播为谢娜庆生",
+        "onboard_time": 1746486499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202245,
+        "num": 202245,
+        "word": "特朗普继续开辟关税新战场",
+        "onboard_time": 1746485358,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192790,
+        "num": 192790,
+        "word": "Jennie第三次参加MetGala",
+        "onboard_time": 1746487099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190499,
+        "num": 190499,
+        "word": "胖东来玉石产品抽检全合规",
+        "onboard_time": 1746455065,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 185605,
+        "num": 185605,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181867,
+        "num": 181867,
+        "word": "赵心童夺冠刷爆多项纪录",
+        "onboard_time": 1746486499,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155339,
+        "num": 155339,
+        "word": "王奕解约",
+        "onboard_time": 1746457703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 128999,
+        "word": "一觉醒来斯诺克历史被中国人刷新",
+        "onboard_time": 1746486739,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60729,
+        "num": 128388,
+        "word": "田曦薇我支持五一假期延长",
+        "onboard_time": 1746486499,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760794,
+        "num": 128366,
+        "word": "身上这种小红点可能是血管瘤",
+        "onboard_time": 1746480615,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128345,
+        "num": 128345,
+        "word": "曹政奭百想影帝",
+        "onboard_time": 1746457162,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126719,
+        "num": 126719,
+        "word": "接亲路上国家给刷了个大火箭",
+        "onboard_time": 1746459382,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118604,
+        "num": 118604,
+        "word": "MetGala",
+        "onboard_time": 1746487279,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 118505,
+        "num": 118505,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114984,
+        "num": 114984,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107406,
+        "num": 107406,
+        "word": "全度妍五封百想影后",
+        "onboard_time": 1746457162,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102850,
+        "num": 102850,
+        "word": "可心 欧尼熊",
+        "onboard_time": 1746458902,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100661,
+        "num": 100661,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95098,
+        "num": 95098,
+        "word": "杨紫去年就拍了撕拉片",
+        "onboard_time": 1746449601,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91597,
+        "num": 91597,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90016,
+        "num": 90016,
+        "word": "赵心童亚洲首个斯诺克世锦赛冠军",
+        "onboard_time": 1746486799,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88570,
+        "num": 88570,
+        "word": "石凯 全员加速中",
+        "onboard_time": 1746451642,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86263,
+        "num": 86263,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98539,
+        "num": 85847,
+        "word": "赵心童夺冠",
+        "onboard_time": 1746486739,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85403,
+        "num": 85403,
+        "word": "阿姨是黄圣依和妈妈之间的禁忌词",
+        "onboard_time": 1746457225,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83489,
+        "num": 83489,
+        "word": "孙红雷祝贺赵心童夺冠",
+        "onboard_time": 1746487340,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75544,
+        "num": 75544,
+        "word": "周思成直播查雅思成绩",
+        "onboard_time": 1746451762,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74832,
+        "num": 74832,
+        "word": "薛小婉任权要领证了",
+        "onboard_time": 1746454284,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74420,
+        "num": 74420,
+        "word": "网友挖出更多离谱医学论文",
+        "onboard_time": 1746455603,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70573,
+        "num": 70573,
+        "word": "赴山海剧宣",
+        "onboard_time": 1746450024,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67721,
+        "num": 67721,
+        "word": "巴基斯坦再次试射一地对地导弹",
+        "onboard_time": 1746464177,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62030,
+        "num": 62030,
+        "word": "芒果待播节目 石凯镜头",
+        "onboard_time": 1746487279,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59552,
+        "num": 59552,
+        "word": "陈建斌蒋勤勤带儿子逛环球影城",
+        "onboard_time": 1746480434,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57162,
+        "num": 57162,
+        "word": "七月初七淮水竹亭就此作罢",
+        "onboard_time": 1746472814,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56548,
+        "num": 56548,
+        "word": "IU金宣虎笑",
+        "onboard_time": 1746460701,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54142,
+        "num": 54142,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53688,
+        "num": 53688,
+        "word": "宋慧乔短发",
+        "onboard_time": 1746445702,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51381,
+        "num": 51381,
+        "word": "淘宝闪购上线6天日订单已千万",
+        "onboard_time": 1746457283,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45688,
+        "num": 45688,
+        "word": "朱智勋获百想视帝",
+        "onboard_time": 1746456865,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
