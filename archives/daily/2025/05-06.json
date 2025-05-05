@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746483936382,
+  "endTime": 1746484977151,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771092,
+      "num": 771092,
+      "word": "赵心童夺世锦赛冠军",
+      "onboard_time": 1746474616,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 714442,
       "num": 556061,
       "word": "IU金宣虎笑",
@@ -51,14 +59,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 591696,
-      "num": 591696,
-      "word": "赵心童夺世锦赛冠军",
-      "onboard_time": 1746474616,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 475933,
       "num": 475933,
       "word": "王奕解约",
@@ -75,20 +75,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 443572,
+      "num": 99499,
+      "word": "身上这种小红点可能是血管瘤",
+      "onboard_time": 1746480615,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 371673,
       "num": 188102,
       "word": "周深在沙漠唱响化身孤岛的鲸",
       "onboard_time": 1746457162,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315270,
-      "num": 76263,
-      "word": "身上这种小红点可能是血管瘤",
-      "onboard_time": 1746480615,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 310232,
@@ -155,6 +155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228493,
+      "num": 228493,
+      "word": "短剧女演员杨珊子拍戏遇极端天气",
+      "onboard_time": 1746459081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196563,
+      "num": 196563,
+      "word": "订8万婚宴被酒店经理私吞4.5万",
+      "onboard_time": 1746468197,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192659,
       "num": 118133,
       "word": "杨紫去年就拍了撕拉片",
@@ -184,14 +200,6 @@
       "word": "诗情画奕",
       "onboard_time": 1746459263,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170398,
-      "num": 170398,
-      "word": "短剧女演员杨珊子拍戏遇极端天气",
-      "onboard_time": 1746459081,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1746459621,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134751,
-      "num": 134751,
-      "word": "订8万婚宴被酒店经理私吞4.5万",
-      "onboard_time": 1746468197,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130484,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74358,
+      "num": 74358,
+      "word": "女生晒照被网友看出血管瘤",
+      "onboard_time": 1746435862,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70817,
       "num": 194792,
       "word": "克里姆林宫红墙外的无名烈士墓",
@@ -416,14 +424,6 @@
       "word": "网友挖出更多离谱医学论文",
       "onboard_time": 1746455603,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67819,
-      "num": 67819,
-      "word": "女生晒照被网友看出血管瘤",
-      "onboard_time": 1746435862,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -483,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 44564,
+      "num": 44564,
+      "word": "薛小婉任权要领证了",
+      "onboard_time": 1746454284,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42111,
       "num": 56343,
       "word": "百想",
@@ -507,16 +515,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36069,
-      "num": 36069,
-      "word": "薛小婉任权要领证了",
-      "onboard_time": 1746454284,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 34487,
+      "num": 34487,
+      "word": "七月初七淮水竹亭就此作罢",
+      "onboard_time": 1746472814,
+      "rank": 33,
+      "category": "剧集"
     },
     {
-      "raw_hot": 31044,
-      "num": 31044,
+      "raw_hot": 31298,
+      "num": 34486,
       "word": "卖锅小伙说我们得站着还把钱挣了",
       "onboard_time": 1746481755,
       "rank": 36,
@@ -531,12 +539,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 28225,
-      "num": 28225,
-      "word": "七月初七淮水竹亭就此作罢",
-      "onboard_time": 1746472814,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 27422,
+      "num": 77799,
+      "word": "古人的小冰箱中式美学拉满",
+      "onboard_time": 1746483195,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18921,
@@ -577,14 +585,6 @@
       "onboard_time": 1746477674,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11818,
-      "num": 77799,
-      "word": "古人的小冰箱中式美学拉满",
-      "onboard_time": 1746483195,
-      "rank": 9,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

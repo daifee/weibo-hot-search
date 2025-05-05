@@ -1,0 +1,410 @@
+{
+  "runTime": 1746484977151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 771092,
+        "num": 771092,
+        "word": "赵心童夺世锦赛冠军",
+        "onboard_time": 1746474616,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487597,
+        "num": 487597,
+        "word": "丁俊晖",
+        "onboard_time": 1746459322,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 261820,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228493,
+        "num": 228493,
+        "word": "短剧女演员杨珊子拍戏遇极端天气",
+        "onboard_time": 1746459081,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203151,
+        "num": 203151,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196563,
+        "num": 196563,
+        "word": "订8万婚宴被酒店经理私吞4.5万",
+        "onboard_time": 1746468197,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185264,
+        "num": 185264,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "金泰梨二封百想视后",
+        "onboard_time": 1746456504,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121836,
+        "num": 121836,
+        "word": "胖东来玉石产品抽检全合规",
+        "onboard_time": 1746455065,
+        "rank": 8,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 100018,
+        "num": 100018,
+        "word": "王奕解约",
+        "onboard_time": 1746457703,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513048,
+        "num": 99666,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443572,
+        "num": 99499,
+        "word": "身上这种小红点可能是血管瘤",
+        "onboard_time": 1746480615,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98692,
+        "num": 98692,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93563,
+        "num": 93563,
+        "word": "可心 欧尼熊",
+        "onboard_time": 1746458902,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78545,
+        "num": 78545,
+        "word": "曹政奭百想影帝",
+        "onboard_time": 1746457162,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74358,
+        "num": 74358,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66637,
+        "num": 66637,
+        "word": "接亲路上国家给刷了个大火箭",
+        "onboard_time": 1746459382,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62607,
+        "num": 62607,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58698,
+        "num": 58698,
+        "word": "陈建斌蒋勤勤带儿子逛环球影城",
+        "onboard_time": 1746480434,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54472,
+        "num": 54472,
+        "word": "IU金宣虎笑",
+        "onboard_time": 1746460701,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62392,
+        "num": 54362,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60257,
+        "num": 54278,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54038,
+        "num": 54038,
+        "word": "全度妍五封百想影后",
+        "onboard_time": 1746457162,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49859,
+        "num": 49859,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48374,
+        "num": 48374,
+        "word": "石凯 全员加速中",
+        "onboard_time": 1746451642,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48016,
+        "num": 48016,
+        "word": "杨紫去年就拍了撕拉片",
+        "onboard_time": 1746449601,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44564,
+        "num": 44564,
+        "word": "薛小婉任权要领证了",
+        "onboard_time": 1746454284,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44116,
+        "num": 44116,
+        "word": "阿姨是黄圣依和妈妈之间的禁忌词",
+        "onboard_time": 1746457225,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 43444,
+        "word": "赴山海剧宣",
+        "onboard_time": 1746450024,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42432,
+        "num": 42432,
+        "word": "网友挖出更多离谱医学论文",
+        "onboard_time": 1746455603,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42177,
+        "num": 42177,
+        "word": "巴基斯坦再次试射一地对地导弹",
+        "onboard_time": 1746464177,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41223,
+        "num": 41223,
+        "word": "周思成直播查雅思成绩",
+        "onboard_time": 1746451762,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40115,
+        "num": 40115,
+        "word": "诗情画奕",
+        "onboard_time": 1746459263,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37608,
+        "num": 37608,
+        "word": "周深在沙漠唱响化身孤岛的鲸",
+        "onboard_time": 1746457162,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36911,
+        "num": 36911,
+        "word": "4集演出了别人40集的进度",
+        "onboard_time": 1746449241,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36541,
+        "num": 36541,
+        "word": "宋慧乔短发",
+        "onboard_time": 1746445702,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35438,
+        "num": 35438,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35300,
+        "num": 35300,
+        "word": "熬夜延长假期",
+        "onboard_time": 1746460401,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34558,
+        "num": 34558,
+        "word": "朱智勋获百想视帝",
+        "onboard_time": 1746456865,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34487,
+        "num": 34487,
+        "word": "七月初七淮水竹亭就此作罢",
+        "onboard_time": 1746472814,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31298,
+        "num": 34486,
+        "word": "卖锅小伙说我们得站着还把钱挣了",
+        "onboard_time": 1746481755,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30481,
+        "num": 34474,
+        "word": "克里姆林宫红墙外的无名烈士墓",
+        "onboard_time": 1746462979,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29155,
+        "num": 34469,
+        "word": "淘宝闪购上线6天日订单已千万",
+        "onboard_time": 1746457283,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28729,
+        "num": 34457,
+        "word": "高伟光选对剧本了",
+        "onboard_time": 1746461301,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28568,
+        "num": 34454,
+        "word": "王奕和丝芭传媒打官司",
+        "onboard_time": 1746465198,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28454,
+        "num": 34443,
+        "word": "百想获奖名单",
+        "onboard_time": 1746452784,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27422,
+        "num": 34432,
+        "word": "古人的小冰箱中式美学拉满",
+        "onboard_time": 1746483195,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26026,
+        "num": 34429,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24817,
+        "num": 34417,
+        "word": "斯诺克",
+        "onboard_time": 1746450262,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21357,
+        "num": 34414,
+        "word": "台湾花莲海域5.7级地震",
+        "onboard_time": 1746443781,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
