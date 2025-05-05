@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746459691155,
+  "endTime": 1746462739439,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1850258,
-      "num": 1186139,
+      "num": 1640736,
       "word": "IU陪跑三次了",
       "onboard_time": 1746458482,
       "rank": 21,
@@ -651,6 +651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 714442,
+      "num": 556061,
+      "word": "IU金宣虎笑",
+      "onboard_time": 1746460701,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707412,
       "num": 343109,
       "word": "李兰迪泳装",
@@ -793,6 +801,14 @@
       "onboard_time": 1746424221,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 614297,
+      "num": 614297,
+      "word": "丁俊晖",
+      "onboard_time": 1746459322,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 609529,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1746375261,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 474113,
+      "num": 253205,
+      "word": "可心 欧尼熊",
+      "onboard_time": 1746458902,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 470252,
@@ -2009,14 +2033,6 @@
       "onboard_time": 1746350362,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287288,
-      "num": 253205,
-      "word": "可心 欧尼熊",
-      "onboard_time": 1746458902,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 287222,
@@ -3859,14 +3875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164313,
-      "num": 251776,
-      "word": "丁俊晖",
-      "onboard_time": 1746459322,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164121,
       "num": 164121,
       "word": "阿诺德加盟皇马",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1746365905,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156173,
+      "num": 114427,
+      "word": "棍顺余打篮球",
+      "onboard_time": 1746461841,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156110,
@@ -4569,6 +4585,14 @@
       "onboard_time": 1746351382,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141561,
+      "num": 137834,
+      "word": "王奕连一口饭都咽不下去了",
+      "onboard_time": 1746459621,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141560,
@@ -5419,6 +5443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120020,
+      "num": 120020,
+      "word": "熬夜延长假期",
+      "onboard_time": 1746460401,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118993,
       "num": 118993,
       "word": "抚仙湖",
@@ -5449,14 +5481,6 @@
       "onboard_time": 1746353482,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118440,
-      "num": 137834,
-      "word": "王奕连一口饭都咽不下去了",
-      "onboard_time": 1746459621,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 118279,
@@ -6147,6 +6171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99989,
+      "num": 99989,
+      "word": "高伟光选对剧本了",
+      "onboard_time": 1746461301,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99693,
       "num": 99693,
       "word": "奥沙利文称赵心童有能力夺冠",
@@ -6329,6 +6361,14 @@
       "onboard_time": 1746267621,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93987,
+      "num": 93987,
+      "word": "朴宝剑主持",
+      "onboard_time": 1746459802,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 93906,
@@ -6747,6 +6787,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68816,
+      "num": 68816,
+      "word": "我在乌江翻船现场的十二分钟",
+      "onboard_time": 1746457225,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68796,
+      "num": 178659,
+      "word": "网友挖出更多离谱医学论文",
+      "onboard_time": 1746455603,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67245,
       "num": 233312,
       "word": "村干部回应全红婵在老家盖别墅",
@@ -6777,6 +6833,14 @@
       "onboard_time": 1746400578,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64968,
+      "num": 64968,
+      "word": "张杰对我的眼睛耳朵很友好",
+      "onboard_time": 1746461481,
+      "rank": 47,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 64403,
@@ -6889,14 +6953,6 @@
       "onboard_time": 1746414801,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 58013,
-      "num": 178659,
-      "word": "网友挖出更多离谱医学论文",
-      "onboard_time": 1746455603,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57639,
@@ -7185,6 +7241,14 @@
       "onboard_time": 1746323420,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 39297,
+      "num": 179305,
+      "word": "印度断水最先受害者或是自己",
+      "onboard_time": 1746455962,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39247,
@@ -7769,14 +7833,6 @@
       "onboard_time": 1746308534,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11447,
-      "num": 179305,
-      "word": "印度断水最先受害者或是自己",
-      "onboard_time": 1746455962,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11355,
