@@ -1,0 +1,410 @@
+{
+  "runTime": 1746452117804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2250963,
+        "num": 2250963,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1272189,
+        "num": 1272189,
+        "word": "百想",
+        "onboard_time": 1746442701,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349306,
+        "num": 1041290,
+        "word": "数据看五一各地出游热度",
+        "onboard_time": 1746433281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 855400,
+        "num": 855400,
+        "word": "写了四天作业发现忘装笔芯",
+        "onboard_time": 1746442701,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 770885,
+        "num": 770885,
+        "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+        "onboard_time": 1746448882,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626547,
+        "num": 626547,
+        "word": "4集演出了别人40集的进度",
+        "onboard_time": 1746449241,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615217,
+        "num": 615217,
+        "word": "杨紫去年就拍了撕拉片",
+        "onboard_time": 1746449601,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571820,
+        "num": 571820,
+        "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+        "onboard_time": 1746449121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433351,
+        "num": 433351,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393468,
+        "num": 393468,
+        "word": "流量化的音乐节不该让专业歌手托底",
+        "onboard_time": 1746451043,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 544941,
+        "num": 383189,
+        "word": "贵州",
+        "onboard_time": 1746447922,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472612,
+        "num": 366740,
+        "word": "蒋奇明演技",
+        "onboard_time": 1746443481,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347973,
+        "num": 347973,
+        "word": "IU白裙盘发",
+        "onboard_time": 1746443601,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347799,
+        "num": 347799,
+        "word": "月入3万攒2万五",
+        "onboard_time": 1746434541,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 342766,
+        "word": "90后干部多次收受茅台五粮液",
+        "onboard_time": 1746450742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342367,
+        "num": 342367,
+        "word": "夏志远当爸",
+        "onboard_time": 1746447081,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342058,
+        "num": 342058,
+        "word": "宋慧乔短发",
+        "onboard_time": 1746445702,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323349,
+        "num": 323349,
+        "word": "赵心童vs威廉姆斯",
+        "onboard_time": 1746447383,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36648,
+        "num": 319063,
+        "word": "张信哲也没约到大同景区门票",
+        "onboard_time": 1746451165,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317748,
+        "num": 317748,
+        "word": "福建8岁男童在1800米山顶失踪",
+        "onboard_time": 1746447561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660281,
+        "num": 304730,
+        "word": "金价",
+        "onboard_time": 1746446721,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199767,
+        "num": 296814,
+        "word": "田曦薇直播",
+        "onboard_time": 1746448642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392615,
+        "num": 279334,
+        "word": "19岁女孩哭泣照被盗用到高潮针配图",
+        "onboard_time": 1746435321,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318496,
+        "num": 263793,
+        "word": "赴山海剧宣",
+        "onboard_time": 1746450024,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254904,
+        "num": 254904,
+        "word": "斯诺克",
+        "onboard_time": 1746450262,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254767,
+        "num": 254767,
+        "word": "苦尽柑来遇见你百想最佳剧本奖",
+        "onboard_time": 1746452063,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253797,
+        "num": 253797,
+        "word": "齐鲁医院护士霍某某受处分",
+        "onboard_time": 1746442940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232738,
+        "num": 232738,
+        "word": "黄圣依和妈妈相处方式",
+        "onboard_time": 1746446721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229511,
+        "num": 229511,
+        "word": "小猫悟空",
+        "onboard_time": 1746449481,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123014,
+        "num": 217291,
+        "word": "台湾花莲海域5.7级地震",
+        "onboard_time": 1746443781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216671,
+        "num": 216671,
+        "word": "石凯 全员加速中",
+        "onboard_time": 1746451642,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209270,
+        "num": 209270,
+        "word": "男子买牛油果水果切盘打开后傻眼了",
+        "onboard_time": 1746450623,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204231,
+        "num": 204231,
+        "word": "楚后",
+        "onboard_time": 1746441740,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205373,
+        "num": 203537,
+        "word": "百想直播",
+        "onboard_time": 1746447320,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202212,
+        "num": 202212,
+        "word": "论文男女不分撕开学术遮羞布",
+        "onboard_time": 1746446902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436287,
+        "num": 201264,
+        "word": "男患子宫肌瘤论文打了谁的脸",
+        "onboard_time": 1746442460,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188803,
+        "num": 188803,
+        "word": "女生晒照被网友看出血管瘤",
+        "onboard_time": 1746435862,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184829,
+        "num": 184829,
+        "word": "周思成直播查雅思成绩",
+        "onboard_time": 1746451762,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147812,
+        "num": 147812,
+        "word": "KLG对战JDG",
+        "onboard_time": 1746451762,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144050,
+        "num": 144050,
+        "word": "孟佳连续唱跳35分钟",
+        "onboard_time": 1746451642,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129885,
+        "num": 129885,
+        "word": "五一就是把上半年挣的工资花掉",
+        "onboard_time": 1746451883,
+        "rank": 40,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 129310,
+        "num": 129310,
+        "word": "百万网红说人生开门红还是拍保守了",
+        "onboard_time": 1746449961,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126327,
+        "num": 126327,
+        "word": "成毅的赴山海人山人海",
+        "onboard_time": 1746447922,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126054,
+        "num": 126054,
+        "word": "林智妍吊带粉裙",
+        "onboard_time": 1746447383,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 123776,
+        "word": "刘涛怼刘奕畅",
+        "onboard_time": 1746437541,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122120,
+        "num": 122120,
+        "word": "朴宝剑裴秀智百想同框",
+        "onboard_time": 1746445941,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121652,
+        "num": 121652,
+        "word": "孟佳现场稳成这样吗",
+        "onboard_time": 1746449001,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118495,
+        "num": 118495,
+        "word": "马君妍正在备孕二胎",
+        "onboard_time": 1746438021,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114509,
+        "num": 114509,
+        "word": "沈月晒御妖国拍立得",
+        "onboard_time": 1746451702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102693,
+        "num": 112966,
+        "word": "TTG战胜Hero",
+        "onboard_time": 1746452063,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#争取跑出当代青年的最好成绩#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746450346450,
+  "endTime": 1746452117804,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -25,6 +25,14 @@
       "onboard_time": 1746365845,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2250963,
+      "num": 2250963,
+      "word": "淘宝免单",
+      "onboard_time": 1746448761,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 2203583,
@@ -187,6 +195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1272189,
+      "num": 1272189,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1268836,
       "num": 588950,
       "word": "大一女生输头孢过敏离世",
@@ -209,14 +225,6 @@
       "onboard_time": 1746338060,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1185469,
-      "num": 1185469,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 1160004,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1126734,
-      "num": 299518,
+      "num": 304730,
       "word": "金价",
       "onboard_time": 1746446721,
       "rank": 20,
@@ -387,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 824462,
-      "num": 824462,
-      "word": "淘宝免单",
-      "onboard_time": 1746448761,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 821012,
       "num": 821012,
       "word": "全红婵哥哥回应老家建120平别墅",
@@ -473,6 +473,14 @@
       "onboard_time": 1746358402,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 770885,
+      "num": 770885,
+      "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
+      "onboard_time": 1746448882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 770665,
@@ -667,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626547,
+      "num": 626547,
+      "word": "4集演出了别人40集的进度",
+      "onboard_time": 1746449241,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 623715,
       "num": 623715,
       "word": "夫妻吵架丈夫被扔高速上手机也没带",
@@ -681,6 +697,14 @@
       "onboard_time": 1746372923,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 615217,
+      "num": 615217,
+      "word": "杨紫去年就拍了撕拉片",
+      "onboard_time": 1746449601,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 614646,
@@ -803,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 571820,
+      "num": 571820,
+      "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
+      "onboard_time": 1746449121,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 566142,
       "num": 566142,
       "word": "男患子宫肌瘤论文打了谁的脸",
@@ -851,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 544941,
+      "num": 383189,
+      "word": "贵州",
+      "onboard_time": 1746447922,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538723,
       "num": 322489,
       "word": "九派新闻 赵朔",
@@ -881,14 +921,6 @@
       "onboard_time": 1746362544,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 524529,
-      "num": 524529,
-      "word": "父亲身亡获56万赔偿姑父喊话孩子回家",
-      "onboard_time": 1746448882,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523098,
@@ -1163,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433351,
+      "num": 433351,
+      "word": "五一假期全国消费市场数据来了",
+      "onboard_time": 1746449783,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428766,
       "num": 428766,
       "word": "刘耀文港风",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1746321139,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 393468,
+      "num": 393468,
+      "word": "流量化的音乐节不该让专业歌手托底",
+      "onboard_time": 1746451043,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 392363,
@@ -1435,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349306,
+      "num": 1041290,
+      "word": "数据看五一各地出游热度",
+      "onboard_time": 1746433281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 348019,
       "num": 348019,
       "word": "第五人格赛事",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1746300915,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342058,
+      "num": 342058,
+      "word": "宋慧乔短发",
+      "onboard_time": 1746445702,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340798,
@@ -1571,14 +1635,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 325503,
-      "num": 981907,
-      "word": "数据看五一各地出游热度",
-      "onboard_time": 1746433281,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 325157,
       "num": 325157,
       "word": "淮水竹亭编剧 殿前欢",
@@ -1587,12 +1643,12 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 322922,
-      "num": 322922,
-      "word": "4集演出了别人40集的进度",
-      "onboard_time": 1746449241,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 323349,
+      "num": 323349,
+      "word": "赵心童vs威廉姆斯",
+      "onboard_time": 1746362485,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 322285,
@@ -1601,6 +1657,14 @@
       "onboard_time": 1746371665,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318496,
+      "num": 263793,
+      "word": "赴山海剧宣",
+      "onboard_time": 1746450024,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 316762,
@@ -1691,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303520,
-      "num": 303520,
-      "word": "贵州",
-      "onboard_time": 1746447922,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302874,
       "num": 368571,
       "word": "警方通报小型汽车坠河致1人死亡",
@@ -1779,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293631,
-      "num": 293631,
-      "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
-      "onboard_time": 1746449121,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293156,
       "num": 293156,
       "word": "淮水竹亭热度",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1746361763,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276189,
-      "num": 302481,
-      "word": "杨紫去年就拍了撕拉片",
-      "onboard_time": 1746449601,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 272646,
@@ -1947,14 +1987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262627,
-      "num": 250159,
-      "word": "宋慧乔短发",
-      "onboard_time": 1746445702,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 258194,
       "num": 258194,
       "word": "第五人格 纸嫁衣",
@@ -2001,6 +2033,22 @@
       "onboard_time": 1746412102,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 254904,
+      "num": 254904,
+      "word": "斯诺克",
+      "onboard_time": 1746450262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254767,
+      "num": 254767,
+      "word": "苦尽柑来遇见你百想最佳剧本奖",
+      "onboard_time": 1746452063,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 254257,
@@ -2147,14 +2195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234187,
-      "num": 234187,
-      "word": "赵心童vs威廉姆斯",
-      "onboard_time": 1746362485,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232719,
       "num": 232719,
       "word": "时代少年团灯牌跑起来了",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1746433822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229511,
+      "num": 229511,
+      "word": "小猫悟空",
+      "onboard_time": 1746449481,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 229114,
@@ -2291,6 +2339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216671,
+      "num": 216671,
+      "word": "石凯 全员加速中",
+      "onboard_time": 1746451642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215946,
       "num": 215946,
       "word": "雷军小米之家职务变更",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1746419363,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209270,
+      "num": 209270,
+      "word": "男子买牛油果水果切盘打开后傻眼了",
+      "onboard_time": 1746450623,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209205,
@@ -2577,6 +2641,14 @@
       "onboard_time": 1746374122,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 205373,
+      "num": 203537,
+      "word": "百想直播",
+      "onboard_time": 1746447320,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 205194,
@@ -2827,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195951,
+      "num": 342766,
+      "word": "90后干部多次收受茅台五粮液",
+      "onboard_time": 1746450742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195681,
       "num": 195681,
       "word": "沈月秉竹业游爱情保安",
@@ -2857,14 +2937,6 @@
       "onboard_time": 1746424523,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194902,
-      "num": 194902,
-      "word": "小猫悟空",
-      "onboard_time": 1746449481,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 194715,
@@ -3067,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184829,
+      "num": 184829,
+      "word": "周思成直播查雅思成绩",
+      "onboard_time": 1746451762,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "国羽3比1战胜韩国队",
@@ -3171,14 +3251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179359,
-      "num": 179359,
-      "word": "赴山海剧宣",
-      "onboard_time": 1746450024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179243,
       "num": 179243,
       "word": "林智妍吊带粉裙",
@@ -3257,14 +3329,6 @@
       "onboard_time": 1746434842,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175541,
-      "num": 193168,
-      "word": "五一假期全国消费市场数据来了",
-      "onboard_time": 1746449783,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175506,
@@ -4003,6 +4067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147812,
+      "num": 147812,
+      "word": "KLG对战JDG",
+      "onboard_time": 1746451762,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147164,
       "num": 147164,
       "word": "5月5日13时57分迎来立夏",
@@ -4105,6 +4177,14 @@
       "onboard_time": 1746289461,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144050,
+      "num": 144050,
+      "word": "孟佳连续唱跳35分钟",
+      "onboard_time": 1746451642,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 144007,
@@ -4587,6 +4667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129885,
+      "num": 129885,
+      "word": "五一就是把上半年挣的工资花掉",
+      "onboard_time": 1746451883,
+      "rank": 40,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 129538,
       "num": 129538,
       "word": "黄东萍好牛",
@@ -4947,14 +5035,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 118984,
-      "num": 118984,
-      "word": "斯诺克",
-      "onboard_time": 1746450262,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "ACL",
@@ -5105,6 +5185,14 @@
       "onboard_time": 1746441501,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114509,
+      "num": 114509,
+      "word": "沈月晒御妖国拍立得",
+      "onboard_time": 1746451702,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114488,
@@ -5529,6 +5617,14 @@
       "onboard_time": 1746444921,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102693,
+      "num": 112966,
+      "word": "TTG战胜Hero",
+      "onboard_time": 1746452063,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 102686,
@@ -6649,6 +6745,14 @@
       "onboard_time": 1746293838,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36648,
+      "num": 319063,
+      "word": "张信哲也没约到大同景区门票",
+      "onboard_time": 1746451165,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 36391,
