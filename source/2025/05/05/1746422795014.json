@@ -1,0 +1,410 @@
+{
+  "runTime": 1746422795014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150898,
+        "num": 1184143,
+        "word": "李嘉格妈妈反对女儿和车澈结婚",
+        "onboard_time": 1746419363,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787561,
+        "num": 787561,
+        "word": "明天上班进公司大门的我",
+        "onboard_time": 1746418342,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131335,
+        "num": 661031,
+        "word": "小小票根带来多元消费体验",
+        "onboard_time": 1746417263,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004925,
+        "num": 655272,
+        "word": "韩国爱豆多次在公开场合求救",
+        "onboard_time": 1746421040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548508,
+        "num": 548508,
+        "word": "护士发论文称男性确诊子宫肌瘤",
+        "onboard_time": 1746419542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29923,
+        "num": 541695,
+        "word": "文化中国行之立夏节气",
+        "onboard_time": 1746407181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038348,
+        "num": 541680,
+        "word": "特朗普再发涉二战惊人言论",
+        "onboard_time": 1746414682,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 541582,
+        "num": 541582,
+        "word": "游客吐槽天津一奶茶品牌包装有不雅字",
+        "onboard_time": 1746413602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434950,
+        "num": 434950,
+        "word": "贵州游船倾覆事故已致9人死亡",
+        "onboard_time": 1746369864,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431760,
+        "num": 431760,
+        "word": "已有多所高中不再双休",
+        "onboard_time": 1746414503,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771029,
+        "num": 431122,
+        "word": "娱乐圈 瘦气",
+        "onboard_time": 1746415821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441188,
+        "num": 412123,
+        "word": "51岁阿姨月薪1710元的独居生活",
+        "onboard_time": 1746421162,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370302,
+        "num": 370302,
+        "word": "严浩翔姐姐来了",
+        "onboard_time": 1746419243,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282528,
+        "num": 282528,
+        "word": "原教育局长让下属帮其女儿办婚礼",
+        "onboard_time": 1746415821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263563,
+        "num": 263563,
+        "word": "小猫悟空去世仍有多个疑点",
+        "onboard_time": 1746420922,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250931,
+        "num": 250931,
+        "word": "九寨沟的调度能力太强了",
+        "onboard_time": 1746411501,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 231736,
+        "num": 231736,
+        "word": "灵隐寺小卖部年租金260万引质疑",
+        "onboard_time": 1746415164,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224120,
+        "num": 224120,
+        "word": "宋威龙包上恩撕拉片",
+        "onboard_time": 1746417623,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 221647,
+        "num": 221647,
+        "word": "周深罗云熙联合发声明",
+        "onboard_time": 1746411681,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200958,
+        "num": 200958,
+        "word": "蔡依林新专辑PLEASURE官宣",
+        "onboard_time": 1746419123,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96664,
+        "num": 200358,
+        "word": "院方回应护士论文现男子宫肌瘤患者",
+        "onboard_time": 1746419482,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825538,
+        "num": 199605,
+        "word": "医院违规为单身女性做试管婴儿",
+        "onboard_time": 1746412102,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530526,
+        "num": 199243,
+        "word": "千万不要用卫生纸擦眼镜",
+        "onboard_time": 1746418342,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39910,
+        "num": 197965,
+        "word": "如鸢这样的男人能嫁吗",
+        "onboard_time": 1746422482,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209248,
+        "num": 197550,
+        "word": "13岁女孩动漫直播间被骗购软色情玩具",
+        "onboard_time": 1746413901,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197216,
+        "num": 197216,
+        "word": "王一博表情包上摩天轮",
+        "onboard_time": 1746421340,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196979,
+        "num": 196979,
+        "word": "李一桐拍了撕拉片",
+        "onboard_time": 1746422722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192672,
+        "num": 192672,
+        "word": "孙颖莎嘉人封面释出",
+        "onboard_time": 1746415164,
+        "rank": 27,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 191824,
+        "num": 191824,
+        "word": "小基数减脂20斤面部变化有多大",
+        "onboard_time": 1746421102,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165473,
+        "num": 187650,
+        "word": "权志龙演唱会状态",
+        "onboard_time": 1746419902,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183482,
+        "num": 183482,
+        "word": "王俊凯送周杰伦定制茶杯",
+        "onboard_time": 1746421704,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182574,
+        "num": 182574,
+        "word": "25楼坠落女童生还现场管道被砸大坑",
+        "onboard_time": 1746419302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179999,
+        "num": 179999,
+        "word": "于正晒白鹿临江仙血泪照",
+        "onboard_time": 1746411262,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163151,
+        "num": 163151,
+        "word": "贵州游船倾覆事故70人还在医院救治",
+        "onboard_time": 1746416782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147065,
+        "num": 147065,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1746422301,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144984,
+        "num": 144984,
+        "word": "电影水饺皇后",
+        "onboard_time": 1746420980,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135926,
+        "num": 135926,
+        "word": "周深说不断探索才能抵达梦想",
+        "onboard_time": 1746418461,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "陈铭谈奇葩说停播原因",
+        "onboard_time": 1746412401,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21363,
+        "num": 131845,
+        "word": "贵州翻船之前暴风雨画面",
+        "onboard_time": 1746422121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31699,
+        "num": 130968,
+        "word": "被美国定罪教授入职清华",
+        "onboard_time": 1746422001,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 128378,
+        "num": 130897,
+        "word": "陈梦妈妈回应曾被女儿怀疑不是亲妈",
+        "onboard_time": 1746419363,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130843,
+        "num": 130843,
+        "word": "景区回应灵隐寺小卖部年租金260万",
+        "onboard_time": 1746418822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129920,
+        "num": 129920,
+        "word": "赵朔正在找小猫悟空去世线索",
+        "onboard_time": 1746420502,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127816,
+        "num": 127816,
+        "word": "毛不易巡演二十城官宣",
+        "onboard_time": 1746419061,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122998,
+        "num": 122998,
+        "word": "邓为关晓彤合唱版愿你抬头有光",
+        "onboard_time": 1746419782,
+        "rank": 44,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 116517,
+        "num": 116517,
+        "word": "DeepSeek教师指令大全",
+        "onboard_time": 1746417563,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115575,
+        "num": 115575,
+        "word": "小米汽车智驾更名为辅助驾驶",
+        "onboard_time": 1746412522,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58162,
+        "num": 114155,
+        "word": "巴特勒20分",
+        "onboard_time": 1746421402,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114068,
+        "num": 114068,
+        "word": "詹青云聊全女模式",
+        "onboard_time": 1746422781,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113637,
+        "num": 113637,
+        "word": "爸爸当家",
+        "onboard_time": 1746415642,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}

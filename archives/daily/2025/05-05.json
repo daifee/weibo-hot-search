@@ -1,6 +1,6 @@
 {
   "startTime": 1746376133159,
-  "endTime": 1746420315168,
+  "endTime": 1746422795014,
   "band_list": [
     {
       "raw_hot": 3109600,
@@ -43,6 +43,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1150898,
+      "num": 1184143,
+      "word": "李嘉格妈妈反对女儿和车澈结婚",
+      "onboard_time": 1746419363,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1147186,
       "num": 455819,
       "word": "娱乐圈 瘦气",
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1004925,
+      "num": 655272,
+      "word": "韩国爱豆多次在公开场合求救",
+      "onboard_time": 1746421040,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911091,
       "num": 273407,
       "word": "Angelababy小海绵自拍",
@@ -89,6 +105,14 @@
       "onboard_time": 1746413602,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787561,
+      "num": 787561,
+      "word": "明天上班进公司大门的我",
+      "onboard_time": 1746418342,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 770665,
@@ -179,7 +203,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 523879,
+      "raw_hot": 548508,
+      "num": 548508,
+      "word": "护士发论文称男性确诊子宫肌瘤",
+      "onboard_time": 1746419542,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530526,
       "num": 269454,
       "word": "千万不要用卫生纸擦眼镜",
       "onboard_time": 1746418342,
@@ -203,28 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509154,
-      "num": 509154,
-      "word": "李嘉格妈妈反对女儿和车澈结婚",
-      "onboard_time": 1746419363,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502534,
       "num": 208841,
       "word": "医院拒绝给离世女大学生道歉",
       "onboard_time": 1746355521,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 495322,
-      "num": 391930,
-      "word": "明天上班进公司大门的我",
-      "onboard_time": 1746418342,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 486766,
@@ -273,6 +289,14 @@
       "onboard_time": 1746402019,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441188,
+      "num": 412123,
+      "word": "51岁阿姨月薪1710元的独居生活",
+      "onboard_time": 1746421162,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 428201,
@@ -329,6 +353,14 @@
       "onboard_time": 1746412522,
       "rank": 13,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 370302,
+      "num": 370302,
+      "word": "严浩翔姐姐来了",
+      "onboard_time": 1746419243,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 367593,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263563,
+      "num": 263563,
+      "word": "小猫悟空去世仍有多个疑点",
+      "onboard_time": 1746420922,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 257337,
       "num": 257337,
       "word": "虞书欣加盟是女儿是妈妈2",
@@ -529,14 +569,6 @@
       "onboard_time": 1746407721,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 226350,
-      "num": 226350,
-      "word": "严浩翔姐姐来了",
-      "onboard_time": 1746419243,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 222540,
@@ -715,12 +747,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197216,
+      "num": 197216,
+      "word": "王一博表情包上摩天轮",
+      "onboard_time": 1746421340,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197181,
       "num": 197181,
       "word": "成都暴雨",
       "onboard_time": 1746408800,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196979,
+      "num": 196979,
+      "word": "李一桐拍了撕拉片",
+      "onboard_time": 1746422722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196367,
@@ -755,6 +803,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 191824,
+      "num": 191824,
+      "word": "小基数减脂20斤面部变化有多大",
+      "onboard_time": 1746421102,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186762,
       "num": 186762,
       "word": "DeepSeek教师指令大全",
@@ -769,6 +825,14 @@
       "onboard_time": 1746412040,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183482,
+      "num": 183482,
+      "word": "王俊凯送周杰伦定制茶杯",
+      "onboard_time": 1746421704,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 180168,
@@ -819,12 +883,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165152,
-      "num": 165152,
-      "word": "护士发论文称男性确诊子宫肌瘤",
-      "onboard_time": 1746419542,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 165473,
+      "num": 187650,
+      "word": "权志龙演唱会状态",
+      "onboard_time": 1746419902,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 163981,
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 163756,
-      "num": 163756,
+      "num": 200358,
       "word": "院方回应护士论文现男子宫肌瘤患者",
       "onboard_time": 1746419482,
       "rank": 37,
@@ -907,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148317,
-      "num": 148317,
-      "word": "权志龙演唱会状态",
-      "onboard_time": 1746419902,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147164,
       "num": 147164,
       "word": "5月5日13时57分迎来立夏",
@@ -923,12 +979,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147065,
+      "num": 147065,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1746422301,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145843,
       "num": 145843,
       "word": "库里第四节充满电了",
       "onboard_time": 1746415762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144984,
+      "num": 144984,
+      "word": "电影水饺皇后",
+      "onboard_time": 1746420980,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 140521,
@@ -993,6 +1065,14 @@
       "onboard_time": 1746420082,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129920,
+      "num": 129920,
+      "word": "赵朔正在找小猫悟空去世线索",
+      "onboard_time": 1746420502,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 128605,
@@ -1116,7 +1196,7 @@
     },
     {
       "raw_hot": 114358,
-      "num": 500556,
+      "num": 541695,
       "word": "文化中国行之立夏节气",
       "onboard_time": 1746407181,
       "rank": 39,
@@ -1129,6 +1209,14 @@
       "onboard_time": 1746372684,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114068,
+      "num": 114068,
+      "word": "詹青云聊全女模式",
+      "onboard_time": 1746422781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 113019,
@@ -1411,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58162,
+      "num": 114155,
+      "word": "巴特勒20分",
+      "onboard_time": 1746421402,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58098,
       "num": 218326,
       "word": "WAW真假纸嫁衣",
@@ -1523,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39910,
+      "num": 197965,
+      "word": "如鸢这样的男人能嫁吗",
+      "onboard_time": 1746422482,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37596,
       "num": 37596,
       "word": "赵心童vs威廉姆斯",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1746395715,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31699,
+      "num": 130968,
+      "word": "被美国定罪教授入职清华",
+      "onboard_time": 1746422001,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 29687,
@@ -1600,6 +1712,14 @@
       "word": "胡锡进称支持胖东来投诉柴怼怼",
       "onboard_time": 1746419001,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21363,
+      "num": 131845,
+      "word": "贵州翻船之前暴风雨画面",
+      "onboard_time": 1746422121,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
