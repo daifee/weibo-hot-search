@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746465779159,
+  "endTime": 1746466832186,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -435,12 +435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43302,
+      "raw_hot": 46876,
       "num": 56348,
       "word": "林宥嘉神爱世人",
       "onboard_time": 1746463878,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42111,
+      "num": 56343,
+      "word": "百想",
+      "onboard_time": 1746442701,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 41644,
@@ -451,14 +459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40735,
-      "num": 56343,
-      "word": "百想",
-      "onboard_time": 1746442701,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39297,
       "num": 70009,
       "word": "印度断水最先受害者或是自己",
@@ -467,7 +467,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18162,
+      "raw_hot": 28842,
       "num": 77509,
       "word": "假期消费热度折射经济向好的温度",
       "onboard_time": 1746465377,
