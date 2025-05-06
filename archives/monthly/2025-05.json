@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746503608887,
+  "endTime": 1746505799334,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866115,
+      "num": 353143,
+      "word": "家里最没用的把最有用的带走了",
+      "onboard_time": 1746503481,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 855460,
       "num": 651964,
       "word": "白鹿一拖三",
@@ -1667,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696791,
+      "num": 696791,
+      "word": "专家建议节后上班第一天少干活儿",
+      "onboard_time": 1746501021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688631,
       "num": 688631,
       "word": "4集演出了别人40集的进度",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1746383537,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666721,
+      "num": 666721,
+      "word": "腾讯视频五月大剧片单",
+      "onboard_time": 1746502222,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 664855,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1746096502,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 616743,
-      "num": 524333,
-      "word": "腾讯视频五月大剧片单",
-      "onboard_time": 1746502222,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 614646,
@@ -2289,14 +2305,6 @@
       "onboard_time": 1746244100,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 556062,
-      "num": 184959,
-      "word": "家里最没用的把最有用的带走了",
-      "onboard_time": 1746503481,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 555128,
@@ -2763,14 +2771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 480069,
-      "num": 480069,
-      "word": "专家建议节后上班第一天少干活儿",
-      "onboard_time": 1746501021,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 479603,
       "num": 294449,
       "word": "悟空小猫",
@@ -3009,6 +3009,14 @@
       "onboard_time": 1746415164,
       "rank": 12,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 457065,
+      "num": 437796,
+      "word": "月牙泉边周深和观众合唱小美满",
+      "onboard_time": 1746500961,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 457055,
@@ -3827,6 +3835,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 366554,
+      "num": 366554,
+      "word": "赵心童解禁复出后49场47胜",
+      "onboard_time": 1746501141,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364600,
       "num": 284117,
       "word": "张新成 李兰迪",
@@ -3897,14 +3913,6 @@
       "onboard_time": 1746258261,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 355067,
-      "num": 437796,
-      "word": "月牙泉边周深和观众合唱小美满",
-      "onboard_time": 1746500961,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 352550,
@@ -4185,14 +4193,6 @@
       "onboard_time": 1746089001,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331683,
-      "num": 331683,
-      "word": "赵心童解禁复出后49场47胜",
-      "onboard_time": 1746501141,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 331600,
@@ -4732,7 +4732,7 @@
     },
     {
       "raw_hot": 297614,
-      "num": 297614,
+      "num": 356754,
       "word": "王一博邓为周深唱响青春力量",
       "onboard_time": 1746500001,
       "rank": 16,
@@ -5547,6 +5547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247419,
+      "num": 247419,
+      "word": "25岁才感觉自己的人生刚刚开始",
+      "onboard_time": 1746503182,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247009,
       "num": 247009,
       "word": "pgs全球系列赛",
@@ -6339,14 +6347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209283,
-      "num": 209283,
-      "word": "25岁才感觉自己的人生刚刚开始",
-      "onboard_time": 1746503182,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209205,
       "num": 209205,
       "word": "李一桐拍了撕拉片",
@@ -6473,6 +6473,14 @@
       "onboard_time": 1746367406,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207169,
+      "num": 207169,
+      "word": "周也丞磊新剧90秒双向告白",
+      "onboard_time": 1746504982,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 207155,
@@ -7611,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192133,
+      "num": 169759,
+      "word": "奶茶该有的价位",
+      "onboard_time": 1746505403,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192011,
       "num": 192011,
       "word": "马嘉祺the greatest show",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1746276562,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189376,
+      "num": 189376,
+      "word": "剑网3",
+      "onboard_time": 1746503361,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 189220,
@@ -8219,6 +8243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184871,
+      "num": 184871,
+      "word": "ddg 黄子弘凡",
+      "onboard_time": 1746505702,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "张峻豪音乐节",
@@ -8417,6 +8449,14 @@
       "onboard_time": 1746339202,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180537,
+      "num": 180537,
+      "word": "羽毛球涨价中产都要打不起了",
+      "onboard_time": 1746500841,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 180445,
@@ -8787,14 +8827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173961,
-      "num": 173961,
-      "word": "剑网3",
-      "onboard_time": 1746503361,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173805,
       "num": 173805,
       "word": "女生输头孢过敏离世父亲发声",
@@ -9049,6 +9081,14 @@
       "onboard_time": 1746487279,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169506,
+      "num": 169506,
+      "word": "胖东来官网维护升级暂停开放",
+      "onboard_time": 1746504800,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169223,
@@ -10555,6 +10595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150070,
+      "num": 219270,
+      "word": "亚洲新声首发阵容官宣",
+      "onboard_time": 1746505161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150061,
       "num": 150061,
       "word": "库里在认真的老去",
@@ -11099,14 +11147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145161,
-      "num": 145161,
-      "word": "羽毛球涨价中产都要打不起了",
-      "onboard_time": 1746500841,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145095,
       "num": 205285,
       "word": "韩国人可太爱延吉游了",
@@ -11121,6 +11161,14 @@
       "onboard_time": 1746420980,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144966,
+      "num": 148756,
+      "word": "未定事件簿",
+      "onboard_time": 1746504502,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 144816,
@@ -11633,6 +11681,14 @@
       "onboard_time": 1746017543,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139434,
+      "num": 139434,
+      "word": "美教授称新冠起源于美国",
+      "onboard_time": 1746505763,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139420,
@@ -12491,6 +12547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131113,
+      "num": 131113,
+      "word": "大学生一旦过了13周就会变成章鱼哥",
+      "onboard_time": 1746504921,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131060,
       "num": 131060,
       "word": "武艺送小鬼上班",
@@ -13043,6 +13107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126590,
+      "num": 126590,
+      "word": "蒜鸟蒜鸟都不容易",
+      "onboard_time": 1746505583,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126586,
       "num": 121683,
       "word": "时代少年团棒球服",
@@ -13153,6 +13225,14 @@
       "onboard_time": 1746100461,
       "rank": 38,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 125650,
+      "num": 125650,
+      "word": "开盘半小时两市放量超500亿",
+      "onboard_time": 1746505763,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 125562,
@@ -16947,6 +17027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70455,
+      "num": 190841,
+      "word": "金饰价格一夜反弹23元",
+      "onboard_time": 1746504863,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70393,
       "num": 172889,
       "word": "多方回应游客未让座遭两女一男殴打",
@@ -17545,6 +17633,14 @@
       "onboard_time": 1746261381,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56191,
+      "num": 163519,
+      "word": "IVE复刻两年前的cha",
+      "onboard_time": 1746505642,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 56073,
@@ -19897,6 +19993,14 @@
       "onboard_time": 1746099261,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14300,
+      "num": 320854,
+      "word": "恋与制作人微博漫展好温暖",
+      "onboard_time": 1746504082,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 14289,

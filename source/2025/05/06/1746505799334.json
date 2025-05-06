@@ -1,0 +1,410 @@
+{
+  "runTime": 1746505799334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1841754,
+        "num": 1841754,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1799016,
+        "num": 1799016,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117148,
+        "num": 1310005,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 909784,
+        "num": 909784,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 3,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 696791,
+        "num": 696791,
+        "word": "专家建议节后上班第一天少干活儿",
+        "onboard_time": 1746501021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666721,
+        "num": 666721,
+        "word": "腾讯视频五月大剧片单",
+        "onboard_time": 1746502222,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562723,
+        "num": 562723,
+        "word": "白敬亭潮牌质量",
+        "onboard_time": 1746497481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366554,
+        "num": 366554,
+        "word": "赵心童解禁复出后49场47胜",
+        "onboard_time": 1746501141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360303,
+        "num": 360303,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261733,
+        "num": 356754,
+        "word": "王一博邓为周深唱响青春力量",
+        "onboard_time": 1746500001,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866115,
+        "num": 353143,
+        "word": "家里最没用的把最有用的带走了",
+        "onboard_time": 1746503481,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457065,
+        "num": 351989,
+        "word": "月牙泉边周深和观众合唱小美满",
+        "onboard_time": 1746500961,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408618,
+        "num": 346780,
+        "word": "赵丽颖送粉丝限量版礼物",
+        "onboard_time": 1746500482,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344232,
+        "num": 344232,
+        "word": "胖东来 玉石",
+        "onboard_time": 1746495140,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14300,
+        "num": 320854,
+        "word": "恋与制作人微博漫展好温暖",
+        "onboard_time": 1746504082,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320768,
+        "num": 320768,
+        "word": "老外带空箱子来中国买买买",
+        "onboard_time": 1746499041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297632,
+        "num": 297632,
+        "word": "我家的医生定档",
+        "onboard_time": 1746502700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247419,
+        "num": 247419,
+        "word": "25岁才感觉自己的人生刚刚开始",
+        "onboard_time": 1746503182,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150070,
+        "num": 219270,
+        "word": "亚洲新声首发阵容官宣",
+        "onboard_time": 1746505161,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119629,
+        "num": 216968,
+        "word": "淘宝策划疯了",
+        "onboard_time": 1746502041,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265460,
+        "num": 216566,
+        "word": "idle预告 抄袭",
+        "onboard_time": 1746488420,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216155,
+        "num": 216155,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207169,
+        "num": 207169,
+        "word": "周也丞磊新剧90秒双向告白",
+        "onboard_time": 1746504982,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195477,
+        "num": 195477,
+        "word": "赵心童邀请女朋友上台",
+        "onboard_time": 1746487759,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70455,
+        "num": 190841,
+        "word": "金饰价格一夜反弹23元",
+        "onboard_time": 1746504863,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "剑网3",
+        "onboard_time": 1746503361,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184871,
+        "num": 184871,
+        "word": "ddg 黄子弘凡",
+        "onboard_time": 1746505702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182722,
+        "num": 182722,
+        "word": "一条产妇信息售价50元",
+        "onboard_time": 1746499641,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180537,
+        "num": 180537,
+        "word": "羽毛球涨价中产都要打不起了",
+        "onboard_time": 1746500841,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169825,
+        "num": 169825,
+        "word": "张小婉这世界上不会有人不爱谢娜",
+        "onboard_time": 1746502461,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192133,
+        "num": 169759,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169506,
+        "num": 169506,
+        "word": "胖东来官网维护升级暂停开放",
+        "onboard_time": 1746504800,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163784,
+        "num": 163784,
+        "word": "刘雯G社镜头",
+        "onboard_time": 1746499760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168877,
+        "num": 163633,
+        "word": "淘宝奶茶免单",
+        "onboard_time": 1746492441,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56191,
+        "num": 163519,
+        "word": "IVE复刻两年前的cha",
+        "onboard_time": 1746505642,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163413,
+        "num": 163413,
+        "word": "张娜拉陪跑",
+        "onboard_time": 1746493462,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161019,
+        "num": 161019,
+        "word": "金价再爆发",
+        "onboard_time": 1746496881,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151717,
+        "num": 151717,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144966,
+        "num": 148756,
+        "word": "未定事件簿",
+        "onboard_time": 1746504502,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147181,
+        "num": 147181,
+        "word": "朴宝剑李惠利四宫格合照",
+        "onboard_time": 1746489260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146353,
+        "num": 146353,
+        "word": "特朗普继续开辟关税新战场",
+        "onboard_time": 1746485358,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146258,
+        "num": 146258,
+        "word": "Rihanna官宣怀三胎",
+        "onboard_time": 1746496581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146141,
+        "num": 146141,
+        "word": "这就是顶级水课老师吗",
+        "onboard_time": 1746502581,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139434,
+        "num": 139434,
+        "word": "美教授称新冠起源于美国",
+        "onboard_time": 1746505763,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135746,
+        "num": 135746,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1746500180,
+        "rank": 44,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 131113,
+        "num": 131113,
+        "word": "大学生一旦过了13周就会变成章鱼哥",
+        "onboard_time": 1746504921,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129948,
+        "num": 129948,
+        "word": "被林瀚挂的素人网友已报警",
+        "onboard_time": 1746494360,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126590,
+        "num": 126590,
+        "word": "蒜鸟蒜鸟都不容易",
+        "onboard_time": 1746505583,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125650,
+        "num": 125650,
+        "word": "开盘半小时两市放量超500亿",
+        "onboard_time": 1746505763,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120393,
+        "num": 125449,
+        "word": "奇迹暖暖",
+        "onboard_time": 1746502941,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
