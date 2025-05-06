@@ -1,0 +1,410 @@
+{
+  "runTime": 1746516332339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162128,
+        "num": 1185940,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 889397,
+        "num": 889397,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32339,
+        "num": 861109,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858446,
+        "num": 858446,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770991,
+        "num": 770991,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429544,
+        "num": 429544,
+        "word": "被胖东来寄律师函的胖都来正常营业",
+        "onboard_time": 1746512541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433293,
+        "num": 428711,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427512,
+        "num": 427512,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 7,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 415827,
+        "num": 415827,
+        "word": "多家华住会酒店拒绝携导盲犬入住",
+        "onboard_time": 1746511702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212240,
+        "num": 413885,
+        "word": "多家医院回应妇科论文出现男性患者",
+        "onboard_time": 1746514762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609652,
+        "num": 410126,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554985,
+        "num": 407464,
+        "word": "陈都灵工作室联合倡议",
+        "onboard_time": 1746510440,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525420,
+        "num": 401936,
+        "word": "K总结婚直播收入",
+        "onboard_time": 1746513321,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 523116,
+        "num": 400053,
+        "word": "韩安冉发文接好孕",
+        "onboard_time": 1746511581,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29400,
+        "num": 397069,
+        "word": "美国告别动物实验新药还安全吗",
+        "onboard_time": 1746515121,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 204840,
+        "num": 392592,
+        "word": "李宁与中国奥委会签约",
+        "onboard_time": 1746515001,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464625,
+        "num": 388460,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 346343,
+        "num": 386862,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384165,
+        "num": 384165,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254571,
+        "num": 383341,
+        "word": "王晶说刘德华太太很辛苦",
+        "onboard_time": 1746512180,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383116,
+        "num": 383116,
+        "word": "阿条姐拟保送浙江大学",
+        "onboard_time": 1746513861,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293770,
+        "num": 293770,
+        "word": "全红婵等1101名运动员保送公示",
+        "onboard_time": 1746515482,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230002,
+        "num": 230002,
+        "word": "中国台协回应赵心童禁赛令",
+        "onboard_time": 1746510859,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225787,
+        "num": 225787,
+        "word": "新西兰拟16岁以下禁用社交媒体",
+        "onboard_time": 1746513802,
+        "rank": 23,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 215137,
+        "num": 215137,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213023,
+        "num": 213023,
+        "word": "苦尽柑来遇见你 剧带人",
+        "onboard_time": 1746513200,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198558,
+        "num": 198558,
+        "word": "蜜雪冰城做饭",
+        "onboard_time": 1746514343,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197197,
+        "num": 197197,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177992,
+        "num": 195760,
+        "word": "半熟恋人4第八期含糖量",
+        "onboard_time": 1746515001,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30487,
+        "num": 195726,
+        "word": "黑马赵心童会创造中国斯诺克历史吗",
+        "onboard_time": 1746516082,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195703,
+        "num": 195703,
+        "word": "爱丽退役",
+        "onboard_time": 1746514042,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186155,
+        "num": 186155,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185785,
+        "num": 185785,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181377,
+        "num": 181377,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "只有真正离职后才明白的5件事",
+        "onboard_time": 1746511581,
+        "rank": 34,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 173206,
+        "num": 173206,
+        "word": "欧弟回应makiyo怼杨丞琳",
+        "onboard_time": 1746511822,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173061,
+        "num": 173061,
+        "word": "韩网评IU陪跑视后",
+        "onboard_time": 1746508401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168348,
+        "num": 168348,
+        "word": "楚后更名为翘楚",
+        "onboard_time": 1746508461,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73226,
+        "num": 166917,
+        "word": "女子倒污水进电梯井里",
+        "onboard_time": 1746514823,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166375,
+        "num": 166375,
+        "word": "刘诗诗的表演具象化了角色阶段",
+        "onboard_time": 1746515782,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "审丑",
+        "onboard_time": 1746513741,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155436,
+        "num": 155436,
+        "word": "易烊千玺墨香大片",
+        "onboard_time": 1746515121,
+        "rank": 41,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 152828,
+        "num": 152828,
+        "word": "喝奶茶是最小规模的摸鱼行为",
+        "onboard_time": 1746515182,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149394,
+        "num": 149394,
+        "word": "刘强东回应凑鸡蛋上大学",
+        "onboard_time": 1746505943,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147306,
+        "num": 147306,
+        "word": "赵心童和王楚钦打台球",
+        "onboard_time": 1746507082,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146405,
+        "num": 146405,
+        "word": "西村力帽子里放篮球",
+        "onboard_time": 1746515782,
+        "rank": 45,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "出租孩子去犯罪的案例改编成剧",
+        "onboard_time": 1746512781,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125520,
+        "num": 125520,
+        "word": "这是人买小了吧",
+        "onboard_time": 1746515062,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123932,
+        "num": 123932,
+        "word": "半亩花田 孙颖莎",
+        "onboard_time": 1746516201,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123720,
+        "num": 123720,
+        "word": "糊糊小猫",
+        "onboard_time": 1746516141,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
