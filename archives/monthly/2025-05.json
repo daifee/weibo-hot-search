@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746506720656,
+  "endTime": 1746509154277,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -433,6 +433,14 @@
       "onboard_time": 1746288021,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1391299,
+      "num": 356006,
+      "word": "奶茶该有的价位",
+      "onboard_time": 1746505403,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1388262,
@@ -1187,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 856945,
+      "num": 856945,
+      "word": "耀眼 关晓彤",
+      "onboard_time": 1746507802,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855460,
       "num": 651964,
       "word": "白鹿一拖三",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1746152850,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765429,
+      "num": 765429,
+      "word": "白敬亭潮牌回应质量问题",
+      "onboard_time": 1746505943,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 762262,
@@ -2131,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 597096,
+      "num": 597096,
+      "word": "赵心童和王楚钦打台球",
+      "onboard_time": 1746507082,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591824,
       "num": 591824,
       "word": "央视新闻播出周云杰演讲",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1746157350,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 570471,
-      "num": 570471,
-      "word": "白敬亭潮牌回应质量问题",
-      "onboard_time": 1746505943,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 568317,
@@ -2857,6 +2881,14 @@
       "onboard_time": 1746265700,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 476090,
+      "num": 476090,
+      "word": "小杨哥停更9个月掉粉超1300万",
+      "onboard_time": 1746507023,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 475451,
@@ -3491,14 +3523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407134,
-      "num": 353002,
-      "word": "奶茶该有的价位",
-      "onboard_time": 1746505403,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 405847,
       "num": 405847,
       "word": "群聊泄密事件当事人升职",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1746348682,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387588,
+      "num": 355533,
+      "word": "韩网评IU陪跑视后",
+      "onboard_time": 1746508401,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 387104,
@@ -3945,6 +3977,14 @@
       "onboard_time": 1746258261,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 355330,
+      "num": 355330,
+      "word": "楚后更名为翘楚",
+      "onboard_time": 1746508461,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 352550,
@@ -4587,6 +4627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306584,
+      "num": 306584,
+      "word": "谢娜生日和赵丽颖出道日是同一天",
+      "onboard_time": 1746506304,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306092,
       "num": 306092,
       "word": "苏新皓红海",
@@ -4881,6 +4929,14 @@
       "onboard_time": 1746013761,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289450,
+      "num": 289450,
+      "word": "戈登三分绝杀雷霆",
+      "onboard_time": 1746506543,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 289028,
@@ -5411,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254657,
+      "num": 254657,
+      "word": "山东滕州车祸事件目击者发声",
+      "onboard_time": 1746508222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254270,
       "num": 254270,
       "word": "张智霖袁咏仪视频都在打麻将",
@@ -5579,6 +5643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247548,
+      "num": 247548,
+      "word": "美教授称新冠起源于美国",
+      "onboard_time": 1746505763,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 247419,
       "num": 280885,
       "word": "25岁才感觉自己的人生刚刚开始",
@@ -5729,6 +5801,14 @@
       "onboard_time": 1746259221,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238689,
+      "num": 238689,
+      "word": "柴怼怼 胖东来",
+      "onboard_time": 1746506844,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236913,
@@ -5987,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224105,
+      "num": 224105,
+      "word": "淘宝答案",
+      "onboard_time": 1746506003,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223111,
       "num": 223111,
       "word": "什么是医政调查",
@@ -6155,6 +6243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217434,
+      "num": 217434,
+      "word": "孙颖莎敲门有小猫出来",
+      "onboard_time": 1746507443,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217081,
       "num": 217081,
       "word": "苏新皓solo",
@@ -6177,14 +6273,6 @@
       "onboard_time": 1746328761,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 215672,
-      "num": 276588,
-      "word": "谢娜生日和赵丽颖出道日是同一天",
-      "onboard_time": 1746506304,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 215458,
@@ -6859,14 +6947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201802,
-      "num": 201802,
-      "word": "淘宝答案",
-      "onboard_time": 1746506003,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "吴彤以为柯淳是关系户",
@@ -6897,6 +6977,14 @@
       "onboard_time": 1746146309,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200770,
+      "num": 200770,
+      "word": "Jennie和崔胜澈合照",
+      "onboard_time": 1746507681,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 200740,
@@ -7145,14 +7233,6 @@
       "onboard_time": 1746077480,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197760,
-      "num": 197760,
-      "word": "美教授称新冠起源于美国",
-      "onboard_time": 1746505763,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 197651,
@@ -7635,6 +7715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192810,
+      "num": 192810,
+      "word": "五一档票房",
+      "onboard_time": 1746508281,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192799,
       "num": 212827,
       "word": "boystory 毕业",
@@ -7761,6 +7849,14 @@
       "onboard_time": 1746329719,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190823,
+      "num": 190823,
+      "word": "恋与制作人",
+      "onboard_time": 1746508822,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 190749,
@@ -8249,14 +8345,6 @@
       "onboard_time": 1746020363,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185536,
-      "num": 205967,
-      "word": "戈登三分绝杀雷霆",
-      "onboard_time": 1746506543,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 185334,
@@ -8857,6 +8945,14 @@
       "onboard_time": 1746285083,
       "rank": 31,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 174321,
+      "num": 227205,
+      "word": "约基奇42分22篮板",
+      "onboard_time": 1746508822,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 174319,
@@ -9611,6 +9707,14 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 163326,
+      "num": 163326,
+      "word": "绝杀",
+      "onboard_time": 1746508882,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163155,
       "num": 163155,
       "word": "无尽的尽头大结局",
@@ -10361,6 +10465,14 @@
       "onboard_time": 1746343761,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154198,
+      "num": 154198,
+      "word": "建议英语不好的看完这部短片",
+      "onboard_time": 1746507082,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 154167,
@@ -11353,6 +11465,14 @@
       "onboard_time": 1746446422,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143976,
+      "num": 143976,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1746509001,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 143972,
@@ -12979,6 +13099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127994,
+      "num": 127994,
+      "word": "美国媒体用lot形容家里的中国制造",
+      "onboard_time": 1746508941,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127944,
       "num": 136127,
       "word": "CBA",
@@ -13241,6 +13369,14 @@
       "onboard_time": 1746329421,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126283,
+      "num": 126283,
+      "word": "余宇涵缺席音乐节",
+      "onboard_time": 1746509062,
+      "rank": 46,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 126191,
@@ -13523,6 +13659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123574,
+      "num": 123574,
+      "word": "奇迹暖暖十周年",
+      "onboard_time": 1746508341,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123573,
       "num": 123573,
       "word": "王祉怡0比2安洗莹",
@@ -13593,6 +13737,14 @@
       "onboard_time": 1746437900,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122998,
+      "num": 204890,
+      "word": "陕西省台球协会向赵心童发来贺信",
+      "onboard_time": 1746505824,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 122833,
@@ -13721,6 +13873,14 @@
       "onboard_time": 1746095421,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120751,
+      "num": 120751,
+      "word": "孙俪不俗地演俗人",
+      "onboard_time": 1746507143,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120710,
@@ -14945,6 +15105,14 @@
       "onboard_time": 1746200300,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107475,
+      "num": 356205,
+      "word": "南通一医院调查男性患卵巢癌论文",
+      "onboard_time": 1746508222,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107314,
@@ -17147,14 +17315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69469,
-      "num": 204890,
-      "word": "陕西省台球协会向赵心童发来贺信",
-      "onboard_time": 1746505824,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69464,
       "num": 1466429,
       "word": "这是一路向前的中国青年",
@@ -18091,6 +18251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47573,
+      "num": 162295,
+      "word": "管乐祝谢娜生日快乐",
+      "onboard_time": 1746509123,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47532,
       "num": 47532,
       "word": "德甲",
@@ -18297,6 +18465,14 @@
       "onboard_time": 1746056179,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44126,
+      "num": 954278,
+      "word": "以旧换新持续火热彰显中国经济活力",
+      "onboard_time": 1746506782,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43762,
