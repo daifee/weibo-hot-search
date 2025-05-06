@@ -1,7 +1,15 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746536827339,
+  "endTime": 1746538621741,
   "band_list": [
+    {
+      "raw_hot": 2934932,
+      "num": 2934932,
+      "word": "刘畊宏方已报警",
+      "onboard_time": 1746534561,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2873367,
       "num": 2873367,
@@ -9,14 +17,6 @@
       "onboard_time": 1746448761,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2643526,
-      "num": 2643526,
-      "word": "刘畊宏方已报警",
-      "onboard_time": 1746534561,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2327757,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723996,
+      "num": 723996,
+      "word": "坚持喝陈皮苹果3个月",
+      "onboard_time": 1746532462,
+      "rank": 8,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 714442,
       "num": 556061,
       "word": "IU金宣虎笑",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 609524,
+      "num": 451049,
+      "word": "韩安冉妈妈去当老师了",
+      "onboard_time": 1746534201,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 600716,
       "num": 600716,
       "word": "山东滕州致6人死亡肇事司机被刑拘",
@@ -345,6 +361,14 @@
       "onboard_time": 1746507082,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 578614,
+      "num": 578614,
+      "word": "烽火流金片源泄露",
+      "onboard_time": 1746536723,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 576939,
@@ -377,14 +401,6 @@
       "onboard_time": 1746500482,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 541435,
-      "num": 405313,
-      "word": "韩安冉妈妈去当老师了",
-      "onboard_time": 1746534201,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 538227,
@@ -539,6 +555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 438341,
+      "num": 384137,
+      "word": "郑恺李昀锐打网球",
+      "onboard_time": 1746536904,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434277,
       "num": 434277,
       "word": "被胖东来寄律师函的胖都来正常营业",
@@ -553,14 +577,6 @@
       "onboard_time": 1746459081,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428141,
-      "num": 428141,
-      "word": "坚持喝陈皮苹果3个月",
-      "onboard_time": 1746532462,
-      "rank": 8,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 427512,
@@ -635,6 +651,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 387334,
+      "num": 618436,
+      "word": "26岁女儿每次加班爸爸都来送饭",
+      "onboard_time": 1746532341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386937,
+      "num": 386937,
+      "word": "何洁说20年前不懂珍惜",
+      "onboard_time": 1746534622,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383116,
       "num": 383116,
       "word": "阿条姐拟保送浙江大学",
@@ -689,22 +721,6 @@
       "onboard_time": 1746526402,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364240,
-      "num": 364240,
-      "word": "何洁说20年前不懂珍惜",
-      "onboard_time": 1746534622,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 356084,
-      "num": 367348,
-      "word": "26岁女儿每次加班爸爸都来送饭",
-      "onboard_time": 1746532341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348436,
@@ -859,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298262,
+      "num": 298262,
+      "word": "一世喜乐",
+      "onboard_time": 1746538102,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297614,
       "num": 356754,
       "word": "王一博邓为周深唱响青春力量",
@@ -897,6 +921,14 @@
       "onboard_time": 1746522381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284477,
+      "num": 284477,
+      "word": "虞书欣23年的存图",
+      "onboard_time": 1746536181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 283691,
@@ -993,6 +1025,14 @@
       "onboard_time": 1746524903,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261629,
+      "num": 261629,
+      "word": "女生卖账号被用于色情诈骗",
+      "onboard_time": 1746532401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260226,
@@ -1099,11 +1139,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237727,
-      "num": 237727,
-      "word": "烽火流金片源泄露",
-      "onboard_time": 1746536723,
-      "rank": 23,
+      "raw_hot": 234645,
+      "num": 234645,
+      "word": "终于学会扎丸子头了",
+      "onboard_time": 1746538163,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233243,
+      "num": 280972,
+      "word": "李昀锐关晓彤新剧5月10日开机",
+      "onboard_time": 1746538102,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1219,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214872,
+      "num": 459363,
+      "word": "国新办发布会预告",
+      "onboard_time": 1746538102,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210047,
       "num": 210047,
       "word": "星穹铁道",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1746533061,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203002,
-      "num": 203002,
-      "word": "虞书欣23年的存图",
-      "onboard_time": 1746536181,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 202593,
@@ -1675,20 +1723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167057,
+      "num": 167057,
+      "word": "严浩翔在后台跳了冬眠",
+      "onboard_time": 1746538102,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166934,
       "num": 166934,
       "word": "白厄立绘",
       "onboard_time": 1746505883,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166381,
-      "num": 166381,
-      "word": "女生卖账号被用于色情诈骗",
-      "onboard_time": 1746532401,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166375,
@@ -1787,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162985,
+      "num": 411403,
+      "word": "央视曝光兼职注册APP账号猫腻",
+      "onboard_time": 1746534861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162447,
       "num": 162447,
       "word": "五一假后哪些人没有节后综合征",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1746506184,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157372,
+      "num": 157372,
+      "word": "剑来",
+      "onboard_time": 1746538102,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156683,
@@ -2443,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "柴怼怼回应被曝销售染色玉镯",
+      "onboard_time": 1746536782,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125650,
       "num": 125650,
       "word": "开盘半小时两市放量超500亿",
@@ -2531,11 +2603,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119216,
+      "num": 262462,
+      "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+      "onboard_time": 1746537384,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118505,
       "num": 118505,
       "word": "女生晒照被网友看出血管瘤",
       "onboard_time": 1746435862,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118105,
+      "num": 118105,
+      "word": "六旬阿姨撞树锻炼致腰椎椎体坏死",
+      "onboard_time": 1746535582,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2619,28 +2707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109832,
-      "num": 109832,
-      "word": "六旬阿姨撞树锻炼致腰椎椎体坏死",
-      "onboard_time": 1746535582,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109706,
       "num": 109706,
       "word": "土象的底色是绝情",
       "onboard_time": 1746521242,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108492,
-      "num": 108492,
-      "word": "柴怼怼回应被曝销售染色玉镯",
-      "onboard_time": 1746536782,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108301,
@@ -2891,14 +2963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70782,
-      "num": 411403,
-      "word": "央视曝光兼职注册APP账号猫腻",
-      "onboard_time": 1746534861,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70573,
       "num": 70573,
       "word": "赴山海剧宣",
@@ -2915,6 +2979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69561,
+      "num": 121366,
+      "word": "让中国游中国购风潮全球涌动",
+      "onboard_time": 1746536181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69112,
       "num": 246365,
       "word": "禁赛令对赵心童夺冠有影响吗",
@@ -2929,6 +3001,14 @@
       "onboard_time": 1746457225,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68178,
+      "num": 381506,
+      "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+      "onboard_time": 1746538222,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67715,
@@ -3019,11 +3099,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60308,
+      "num": 394078,
+      "word": "期刊成立专班调查妇科论文现男病例",
+      "onboard_time": 1746537262,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 59879,
       "num": 313565,
       "word": "和府捞面宣称中式面馆第一品牌被罚",
       "onboard_time": 1746518662,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57442,
+      "num": 174766,
+      "word": "大桥护栏被刮倒遭疑豆腐渣工程",
+      "onboard_time": 1746536723,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3043,12 +3139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55198,
+      "num": 141246,
+      "word": "青光眼或视力不清可按压这里",
+      "onboard_time": 1746537742,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 53688,
       "num": 56346,
       "word": "宋慧乔短发",
       "onboard_time": 1746445702,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53316,
+      "num": 380287,
+      "word": "公交司机被投诉不让老年卡乘客就坐",
+      "onboard_time": 1746537083,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51807,
@@ -3145,6 +3257,14 @@
       "onboard_time": 1746505824,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 43482,
+      "num": 1313265,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42111,
@@ -3283,14 +3403,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 27689,
-      "num": 1058319,
-      "word": "九张图带你了解俄罗斯",
-      "onboard_time": 1746536363,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27422,
       "num": 77799,
       "word": "古人的小冰箱中式美学拉满",
@@ -3321,14 +3433,6 @@
       "onboard_time": 1746532881,
       "rank": 14,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 25233,
-      "num": 174766,
-      "word": "大桥护栏被刮倒遭疑豆腐渣工程",
-      "onboard_time": 1746536723,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23475,
@@ -3395,6 +3499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16043,
+      "num": 268034,
+      "word": "干涸的切纳布河基本都在印度",
+      "onboard_time": 1746537742,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15591,
       "num": 217512,
       "word": "重庆卤鹅爆火对当地产业有何影响",
@@ -3441,6 +3553,14 @@
       "onboard_time": 1746477674,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14229,
+      "num": 375388,
+      "word": "哮喘患者如何健康饮食",
+      "onboard_time": 1746537682,
+      "rank": 19,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 13298,
@@ -3511,6 +3631,9 @@
     },
     {
       "word": "#健康稳定的中欧关系成就彼此照亮世界#"
+    },
+    {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
     }
   ]
 }

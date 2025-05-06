@@ -1,0 +1,410 @@
+{
+  "runTime": 1746538621741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2934932,
+        "num": 2934932,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483329,
+        "num": 1868516,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43482,
+        "num": 1313265,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1021912,
+        "num": 1021912,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 723996,
+        "num": 723996,
+        "word": "坚持喝陈皮苹果3个月",
+        "onboard_time": 1746532462,
+        "rank": 4,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 387334,
+        "num": 618436,
+        "word": "26岁女儿每次加班爸爸都来送饭",
+        "onboard_time": 1746532341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593967,
+        "num": 593967,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578614,
+        "num": 578614,
+        "word": "烽火流金片源泄露",
+        "onboard_time": 1746536723,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521506,
+        "num": 521506,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214872,
+        "num": 459363,
+        "word": "国新办发布会预告",
+        "onboard_time": 1746538102,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609524,
+        "num": 451049,
+        "word": "韩安冉妈妈去当老师了",
+        "onboard_time": 1746534201,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 441464,
+        "num": 441464,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440633,
+        "num": 440633,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439778,
+        "num": 439778,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60308,
+        "num": 394078,
+        "word": "期刊成立专班调查妇科论文现男病例",
+        "onboard_time": 1746537262,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 386937,
+        "num": 386937,
+        "word": "何洁说20年前不懂珍惜",
+        "onboard_time": 1746534622,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438341,
+        "num": 384137,
+        "word": "郑恺李昀锐打网球",
+        "onboard_time": 1746536904,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68178,
+        "num": 381506,
+        "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+        "onboard_time": 1746538222,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 53316,
+        "num": 380287,
+        "word": "公交司机被投诉不让老年卡乘客就坐",
+        "onboard_time": 1746537083,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14229,
+        "num": 375388,
+        "word": "哮喘患者如何健康饮食",
+        "onboard_time": 1746537682,
+        "rank": 19,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 604008,
+        "num": 374056,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372421,
+        "num": 372421,
+        "word": "王一博19年拍的撕拉片",
+        "onboard_time": 1746534741,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371273,
+        "num": 371273,
+        "word": "三德子赵亮致歉",
+        "onboard_time": 1746533001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298262,
+        "num": 298262,
+        "word": "一世喜乐",
+        "onboard_time": 1746538102,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284477,
+        "num": 284477,
+        "word": "虞书欣23年的存图",
+        "onboard_time": 1746536181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233243,
+        "num": 280972,
+        "word": "李昀锐关晓彤新剧5月10日开机",
+        "onboard_time": 1746538102,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204478,
+        "num": 275888,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182511,
+        "num": 274398,
+        "word": "张柏芝穿豹纹还是太权威了",
+        "onboard_time": 1746532462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16043,
+        "num": 268034,
+        "word": "干涸的切纳布河基本都在印度",
+        "onboard_time": 1746537742,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119216,
+        "num": 262462,
+        "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+        "onboard_time": 1746537384,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261629,
+        "num": 261629,
+        "word": "女生卖账号被用于色情诈骗",
+        "onboard_time": 1746532401,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234645,
+        "num": 234645,
+        "word": "终于学会扎丸子头了",
+        "onboard_time": 1746538163,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232158,
+        "num": 232158,
+        "word": "中方强烈谴责美中情局招募间谍",
+        "onboard_time": 1746529941,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174739,
+        "num": 174739,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167057,
+        "num": 167057,
+        "word": "严浩翔在后台跳了冬眠",
+        "onboard_time": 1746538102,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162985,
+        "num": 162985,
+        "word": "央视曝光兼职注册APP账号猫腻",
+        "onboard_time": 1746534861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157372,
+        "num": 157372,
+        "word": "剑来",
+        "onboard_time": 1746538102,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57442,
+        "num": 155764,
+        "word": "大桥护栏被刮倒遭疑豆腐渣工程",
+        "onboard_time": 1746536723,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155150,
+        "num": 155150,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55198,
+        "num": 141246,
+        "word": "青光眼或视力不清可按压这里",
+        "onboard_time": 1746537742,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 140893,
+        "num": 140893,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132912,
+        "num": 132912,
+        "word": "芦笋馄饨",
+        "onboard_time": 1746534381,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131508,
+        "num": 131508,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131029,
+        "num": 131029,
+        "word": "妈妈绑背带哄娃睡觉宝宝不慎后仰摔地",
+        "onboard_time": 1746532521,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125701,
+        "num": 125701,
+        "word": "柴怼怼回应被曝销售染色玉镯",
+        "onboard_time": 1746536782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122485,
+        "num": 122485,
+        "word": "中国医药指南承认学术不端",
+        "onboard_time": 1746534502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69561,
+        "num": 121366,
+        "word": "让中国游中国购风潮全球涌动",
+        "onboard_time": 1746536181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120727,
+        "num": 120727,
+        "word": "结石姐又来震撼内娱歌手了",
+        "onboard_time": 1746533242,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118105,
+        "num": 118105,
+        "word": "六旬阿姨撞树锻炼致腰椎椎体坏死",
+        "onboard_time": 1746535582,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116159,
+        "num": 116159,
+        "word": "旅游时最怕遇到这种搭子了",
+        "onboard_time": 1746536302,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}
