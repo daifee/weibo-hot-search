@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746530496319,
+  "endTime": 1746531410057,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532144,
+      "num": 532144,
+      "word": "胖都来现状",
+      "onboard_time": 1746528261,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531019,
       "num": 531019,
       "word": "肖战拍的撕拉片",
@@ -449,6 +457,14 @@
       "onboard_time": 1746508461,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498859,
+      "num": 498859,
+      "word": "中方强烈谴责美中情局招募间谍",
+      "onboard_time": 1746529941,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 476090,
@@ -531,6 +547,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 422837,
+      "num": 330802,
+      "word": "Jennie晚宴造型",
+      "onboard_time": 1746527842,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410693,
       "num": 272205,
       "word": "长胖其实是有滞后性的",
@@ -547,14 +571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398943,
-      "num": 398943,
-      "word": "胖都来现状",
-      "onboard_time": 1746528261,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395322,
       "num": 376334,
       "word": "赵心童感谢丁俊晖铺路",
@@ -569,14 +585,6 @@
       "onboard_time": 1746485358,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 389138,
-      "num": 303661,
-      "word": "Jennie晚宴造型",
-      "onboard_time": 1746527842,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 387599,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365989,
+      "num": 365989,
+      "word": "刘畊宏不好意思耽误你吃饭了",
+      "onboard_time": 1746526402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348436,
       "num": 348436,
       "word": "五一假期后第1个工作日",
@@ -651,20 +667,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338846,
+      "num": 338846,
+      "word": "孟子义跑男出发图鼻祖",
+      "onboard_time": 1746525323,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336495,
       "num": 312934,
       "word": "准爸爸给孩子起名一点弯路不想走",
       "onboard_time": 1746515182,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333751,
-      "num": 333751,
-      "word": "孟子义跑男出发图鼻祖",
-      "onboard_time": 1746525323,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 333156,
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286705,
+      "num": 286705,
+      "word": "朱婷汪顺丁宁等获评国家级教练职称",
+      "onboard_time": 1746530302,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285990,
       "num": 285990,
       "word": "论文男女不分仅处理作者远远不够",
@@ -891,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261000,
-      "num": 261000,
-      "word": "刘畊宏不好意思耽误你吃饭了",
-      "onboard_time": 1746526402,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260226,
       "num": 181477,
       "word": "只有真正离职后才明白的5件事",
@@ -939,19 +955,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251200,
-      "num": 237226,
-      "word": "朱婷汪顺丁宁等获评国家级教练职称",
-      "onboard_time": 1746530302,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250715,
       "num": 165198,
       "word": "全度妍五封百想影后",
       "onboard_time": 1746457162,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247857,
+      "num": 247857,
+      "word": "丁禹兮张正这一滴泪",
+      "onboard_time": 1746530662,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168037,
+      "num": 168037,
+      "word": "孙颖莎核心力量有多强",
+      "onboard_time": 1746528203,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166934,
       "num": 166934,
       "word": "白厄立绘",
@@ -1651,20 +1675,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156683,
+      "num": 166849,
+      "word": "任嘉伦宣夜再会蛮瑛再会",
+      "onboard_time": 1746530901,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156173,
       "num": 114427,
       "word": "棍顺余打篮球",
       "onboard_time": 1746461841,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155811,
-      "num": 155811,
-      "word": "孙颖莎核心力量有多强",
-      "onboard_time": 1746528203,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 155763,
@@ -1779,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151170,
-      "num": 328716,
-      "word": "中方强烈谴责美中情局招募间谍",
-      "onboard_time": 1746529941,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150963,
       "num": 150963,
       "word": "凯尔特人狂扔三分",
@@ -1875,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144039,
+      "num": 144039,
+      "word": "姚沐希回应和彭措分手",
+      "onboard_time": 1746527961,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143976,
       "num": 143976,
       "word": "掘金vs雷霆",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1746520342,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140527,
-      "num": 140527,
-      "word": "姚沐希回应和彭措分手",
-      "onboard_time": 1746527961,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 140197,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 135655,
+      "num": 137599,
+      "word": "7天清肠轻断食减重食谱",
+      "onboard_time": 1746529282,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 134538,
@@ -2131,6 +2155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127930,
+      "num": 269115,
+      "word": "快递点擅自加收1.5元取件费被查处",
+      "onboard_time": 1746529043,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127301,
       "num": 127301,
       "word": "杰娜",
@@ -2195,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125776,
+      "num": 125776,
+      "word": "买了10000块的食材做顿饭",
+      "onboard_time": 1746527663,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125765,
       "num": 291782,
       "word": "为什么10点前睡觉能救你",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1746518063,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125515,
+      "num": 125515,
+      "word": "马嘉祺吃一堑吃一堑吃饱了",
+      "onboard_time": 1746530962,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 123720,
@@ -2275,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122421,
-      "num": 122421,
-      "word": "买了10000块的食材做顿饭",
-      "onboard_time": 1746527663,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120751,
       "num": 120751,
       "word": "孙俪不俗地演俗人",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1746446721,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115104,
+      "num": 115104,
+      "word": "鹤秋亡国公主复仇感",
+      "onboard_time": 1746530602,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 114447,
@@ -2387,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107238,
+      "num": 107238,
+      "word": "外交部回应长和获准出售港口",
+      "onboard_time": 1746531323,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105403,
       "num": 105403,
       "word": "韩国霸总吃饭",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1746526582,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103463,
+      "num": 103463,
+      "word": "赵一博陈宥维面具团搞笑担当",
+      "onboard_time": 1746531381,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102850,
@@ -2499,14 +2563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85642,
-      "num": 269115,
-      "word": "快递点擅自加收1.5元取件费被查处",
-      "onboard_time": 1746529043,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84381,
       "num": 84381,
       "word": "谁来田曦薇这都得后空翻一个再走",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1746503182,
       "rank": 38,
       "category": "科学科普,民生新闻"
-    },
-    {
-      "raw_hot": 81382,
-      "num": 137599,
-      "word": "7天清肠轻断食减重食谱",
-      "onboard_time": 1746529282,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 80413,
@@ -2649,6 +2697,14 @@
       "onboard_time": 1746500902,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66622,
+      "num": 210392,
+      "word": "外交部回应美招募中国官员窃密",
+      "onboard_time": 1746531261,
+      "rank": 20,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 65540,
@@ -2795,6 +2851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45309,
+      "num": 235145,
+      "word": "水饺皇后的真实人生比电影更传奇",
+      "onboard_time": 1746529581,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44638,
       "num": 267738,
       "word": "港股恒指高开涨0.32%",
@@ -2931,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30614,
+      "num": 302590,
+      "word": "毕节警方回应男子在社区拐带儿童",
+      "onboard_time": 1746531142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30487,
       "num": 195726,
       "word": "黑马赵心童会创造中国斯诺克历史吗",
@@ -2979,6 +3051,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 21541,
+      "num": 125925,
+      "word": "如果巴菲特还能与芒格多呆一天",
+      "onboard_time": 1746530481,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 20519,
+      "num": 169921,
+      "word": "倪夏莲顺利完成手术",
+      "onboard_time": 1746530302,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20416,
       "num": 131321,
       "word": "赵心童总结世锦赛",
@@ -3011,12 +3099,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16253,
-      "num": 235145,
-      "word": "水饺皇后的真实人生比电影更传奇",
-      "onboard_time": 1746529581,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 15591,
+      "num": 217512,
+      "word": "重庆卤鹅爆火对当地产业有何影响",
+      "onboard_time": 1746530481,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15578,
@@ -3075,14 +3163,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 12091,
-      "num": 169921,
-      "word": "倪夏莲顺利完成手术",
-      "onboard_time": 1746530302,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 9772,
       "num": 212520,
       "word": "阿诺德离队对利物浦意味着什么挑战",
@@ -3105,6 +3185,14 @@
       "onboard_time": 1746510080,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4611,
+      "num": 164548,
+      "word": "胡锡进谈胖东来投诉柴怼怼",
+      "onboard_time": 1746530541,
+      "rank": 27,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

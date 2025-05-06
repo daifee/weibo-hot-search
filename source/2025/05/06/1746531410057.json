@@ -1,0 +1,410 @@
+{
+  "runTime": 1746531410057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1203401,
+        "num": 1203401,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1187261,
+        "num": 1187261,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67123,
+        "num": 853167,
+        "word": "数说五一假期活力图景",
+        "onboard_time": 1746525262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802418,
+        "num": 802418,
+        "word": "刘畊宏9天掉粉23万",
+        "onboard_time": 1746523822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776068,
+        "num": 776068,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 532144,
+        "num": 532144,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498859,
+        "num": 498859,
+        "word": "中方强烈谴责美中情局招募间谍",
+        "onboard_time": 1746529941,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365989,
+        "num": 365989,
+        "word": "刘畊宏不好意思耽误你吃饭了",
+        "onboard_time": 1746526402,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352504,
+        "num": 352504,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338846,
+        "num": 338846,
+        "word": "孟子义跑男出发图鼻祖",
+        "onboard_time": 1746525323,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061653,
+        "num": 333134,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647267,
+        "num": 332345,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422837,
+        "num": 330802,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326248,
+        "num": 326248,
+        "word": "山东滕州致6人死亡肇事司机被刑拘",
+        "onboard_time": 1746524963,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 302590,
+        "word": "毕节警方回应男子在社区拐带儿童",
+        "onboard_time": 1746531142,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287455,
+        "num": 287455,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 286705,
+        "num": 286705,
+        "word": "朱婷汪顺丁宁等获评国家级教练职称",
+        "onboard_time": 1746530302,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248922,
+        "num": 248922,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247857,
+        "num": 247857,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15591,
+        "num": 217512,
+        "word": "重庆卤鹅爆火对当地产业有何影响",
+        "onboard_time": 1746530481,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 66622,
+        "num": 210392,
+        "word": "外交部回应美招募中国官员窃密",
+        "onboard_time": 1746531261,
+        "rank": 20,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 205670,
+        "num": 205670,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178305,
+        "num": 178305,
+        "word": "偶遇姜妍和老公逛商场",
+        "onboard_time": 1746525863,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175103,
+        "num": 175103,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168037,
+        "num": 168037,
+        "word": "孙颖莎核心力量有多强",
+        "onboard_time": 1746528203,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156683,
+        "num": 166849,
+        "word": "任嘉伦宣夜再会蛮瑛再会",
+        "onboard_time": 1746530901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45309,
+        "num": 166092,
+        "word": "水饺皇后的真实人生比电影更传奇",
+        "onboard_time": 1746529581,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4611,
+        "num": 164548,
+        "word": "胡锡进谈胖东来投诉柴怼怼",
+        "onboard_time": 1746530541,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20519,
+        "num": 162522,
+        "word": "倪夏莲顺利完成手术",
+        "onboard_time": 1746530302,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162373,
+        "num": 162373,
+        "word": "好莱坞对特朗普政府电影关税感到震惊",
+        "onboard_time": 1746525683,
+        "rank": 29,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 151765,
+        "num": 151765,
+        "word": "淮水竹亭",
+        "onboard_time": 1746528082,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145219,
+        "num": 145219,
+        "word": "赵小童三位哥哥帅到我俩了",
+        "onboard_time": 1746528503,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144039,
+        "num": 144039,
+        "word": "姚沐希回应和彭措分手",
+        "onboard_time": 1746527961,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135655,
+        "num": 135655,
+        "word": "7天清肠轻断食减重食谱",
+        "onboard_time": 1746529282,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 132841,
+        "num": 132841,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131134,
+        "num": 131134,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130534,
+        "num": 130534,
+        "word": "运动15分钟带来的变化有多大",
+        "onboard_time": 1746528382,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127930,
+        "num": 127930,
+        "word": "快递点擅自加收1.5元取件费被查处",
+        "onboard_time": 1746529043,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127125,
+        "num": 127125,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21541,
+        "num": 125925,
+        "word": "如果巴菲特还能与芒格多呆一天",
+        "onboard_time": 1746530481,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 124076,
+        "num": 125846,
+        "word": "岚组合明年解散",
+        "onboard_time": 1746529941,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125776,
+        "num": 125776,
+        "word": "买了10000块的食材做顿饭",
+        "onboard_time": 1746527663,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125515,
+        "num": 125515,
+        "word": "马嘉祺吃一堑吃一堑吃饱了",
+        "onboard_time": 1746530962,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123364,
+        "num": 123364,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123008,
+        "num": 123008,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121420,
+        "num": 121420,
+        "word": "arashi复活",
+        "onboard_time": 1746524903,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115104,
+        "num": 115104,
+        "word": "鹤秋亡国公主复仇感",
+        "onboard_time": 1746530602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114009,
+        "num": 114009,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107238,
+        "num": 107238,
+        "word": "外交部回应长和获准出售港口",
+        "onboard_time": 1746531323,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103463,
+        "num": 103463,
+        "word": "赵一博陈宥维面具团搞笑担当",
+        "onboard_time": 1746531381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
