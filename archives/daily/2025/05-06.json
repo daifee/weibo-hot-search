@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746496608750,
+  "endTime": 1746497952997,
   "band_list": [
     {
       "raw_hot": 1780054,
@@ -51,7 +51,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 896564,
+      "raw_hot": 1004800,
       "num": 896564,
       "word": "多篇妇产科论文出现男性患者",
       "onboard_time": 1746493341,
@@ -99,6 +99,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568317,
+      "num": 276584,
+      "word": "黄金",
+      "onboard_time": 1746494962,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 538227,
+      "num": 358008,
+      "word": "上海虹桥高铁站又现拦门事件",
+      "onboard_time": 1746493942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535577,
       "num": 535577,
       "word": "赵心童邀请女朋友上台",
@@ -113,14 +129,6 @@
       "onboard_time": 1746468197,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 526043,
-      "num": 276584,
-      "word": "黄金",
-      "onboard_time": 1746494962,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 475933,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410693,
+      "num": 272205,
+      "word": "长胖其实是有滞后性的",
+      "onboard_time": 1746494780,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 399049,
       "num": 399049,
       "word": "idle预告 抄袭",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 395322,
-      "num": 348359,
+      "num": 376334,
       "word": "赵心童感谢丁俊晖铺路",
       "onboard_time": 1746494360,
       "rank": 11,
@@ -179,20 +195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 385520,
-      "num": 348343,
-      "word": "上海虹桥高铁站又现拦门事件",
-      "onboard_time": 1746493942,
-      "rank": 12,
+      "raw_hot": 378807,
+      "num": 378807,
+      "word": "胖东来 玉石",
+      "onboard_time": 1746495140,
+      "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380590,
-      "num": 272205,
-      "word": "长胖其实是有滞后性的",
-      "onboard_time": 1746494780,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 371673,
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280397,
+      "num": 280397,
+      "word": "白敬亭潮牌质量",
+      "onboard_time": 1746497481,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "赵心童17比8拿到冠军点",
@@ -313,6 +329,14 @@
       "onboard_time": 1746457162,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244109,
+      "num": 244109,
+      "word": "淘宝奶茶免单",
+      "onboard_time": 1746492441,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 242362,
@@ -347,12 +371,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 209431,
-      "num": 209431,
-      "word": "胖东来 玉石",
-      "onboard_time": 1746495140,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 218616,
+      "num": 218616,
+      "word": "Jennie人间香奈儿",
+      "onboard_time": 1746496221,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 209359,
@@ -363,20 +387,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206358,
-      "num": 206358,
-      "word": "淘宝奶茶免单",
-      "onboard_time": 1746492441,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 200552,
+      "num": 200552,
+      "word": "金价再爆发",
+      "onboard_time": 1746496881,
+      "rank": 26,
+      "category": "财经"
     },
     {
-      "raw_hot": 195163,
-      "num": 195163,
+      "raw_hot": 198889,
+      "num": 198889,
       "word": "这种网红玩具正在毒害你的孩子",
       "onboard_time": 1746455121,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196843,
+      "num": 196843,
+      "word": "A股",
+      "onboard_time": 1746497001,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 194947,
@@ -385,6 +417,14 @@
       "onboard_time": 1746487340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194486,
+      "num": 194486,
+      "word": "田曦薇真不把我们当外人",
+      "onboard_time": 1746487759,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 192659,
@@ -401,6 +441,14 @@
       "onboard_time": 1746489081,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189220,
+      "num": 194873,
+      "word": "尼克斯20分逆转凯尔特人",
+      "onboard_time": 1746497661,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 186484,
@@ -433,6 +481,14 @@
       "onboard_time": 1746459263,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181468,
+      "num": 181468,
+      "word": "孙颖莎保持11300分霸榜世排第一",
+      "onboard_time": 1746496641,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 179465,
@@ -483,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162447,
+      "num": 162447,
+      "word": "五一假后哪些人没有节后综合征",
+      "onboard_time": 1746497120,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156173,
       "num": 114427,
       "word": "棍顺余打篮球",
@@ -497,14 +561,6 @@
       "onboard_time": 1746491902,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154049,
-      "num": 154049,
-      "word": "田曦薇真不把我们当外人",
-      "onboard_time": 1746487759,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 153127,
@@ -539,12 +595,36 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 141859,
-      "num": 141859,
-      "word": "Jennie人间香奈儿",
-      "onboard_time": 1746496221,
-      "rank": 43,
+      "raw_hot": 146796,
+      "num": 146796,
+      "word": "叶童在谢娜身上看到了乘风精神",
+      "onboard_time": 1746497782,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145505,
+      "num": 145505,
+      "word": "Rihanna官宣怀三胎",
+      "onboard_time": 1746496581,
+      "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144104,
+      "num": 144104,
+      "word": "鱿鱼游戏3预告",
+      "onboard_time": 1746496460,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143972,
+      "num": 143972,
+      "word": "种地吧早九开工直播",
+      "onboard_time": 1746497481,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141561,
@@ -555,12 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138335,
-      "num": 138335,
-      "word": "鱿鱼游戏3预告",
-      "onboard_time": 1746496460,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 139288,
+      "num": 139288,
+      "word": "A股股指今日高开",
+      "onboard_time": 1746496822,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 137073,
+      "num": 164114,
+      "word": "男性确诊子宫肌瘤论文作者被记过",
+      "onboard_time": 1746490162,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 136535,
@@ -579,14 +667,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 131431,
-      "num": 131431,
-      "word": "Rihanna官宣怀三胎",
-      "onboard_time": 1746496581,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130484,
       "num": 112998,
       "word": "百想获奖名单",
@@ -596,11 +676,19 @@
     },
     {
       "raw_hot": 130470,
-      "num": 130470,
+      "num": 134324,
       "word": "丁俊晖为赵心童夺冠感到骄傲",
       "onboard_time": 1746495561,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127574,
+      "num": 127574,
+      "word": "五一假期国内3.14亿人次出游",
+      "onboard_time": 1746497120,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126911,
@@ -619,20 +707,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123248,
+      "num": 123248,
+      "word": "MetGala 无聊西装",
+      "onboard_time": 1746497841,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 123247,
       "num": 128388,
       "word": "田曦薇我支持五一假期延长",
       "onboard_time": 1746486499,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121782,
-      "num": 164114,
-      "word": "男性确诊子宫肌瘤论文作者被记过",
-      "onboard_time": 1746490162,
-      "rank": 34,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 118505,
