@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746528301589,
+  "endTime": 1746530496319,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -547,6 +547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398943,
+      "num": 398943,
+      "word": "胖都来现状",
+      "onboard_time": 1746528261,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395322,
       "num": 376334,
       "word": "赵心童感谢丁俊晖铺路",
@@ -561,6 +569,14 @@
       "onboard_time": 1746485358,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 389138,
+      "num": 303661,
+      "word": "Jennie晚宴造型",
+      "onboard_time": 1746527842,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 387599,
@@ -643,20 +659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333751,
+      "num": 333751,
+      "word": "孟子义跑男出发图鼻祖",
+      "onboard_time": 1746525323,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333156,
       "num": 310951,
       "word": "张杰直播为谢娜庆生",
       "onboard_time": 1746486499,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326330,
-      "num": 326330,
-      "word": "孟子义跑男出发图鼻祖",
-      "onboard_time": 1746525323,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 320965,
@@ -859,12 +875,28 @@
       "category": "国际时政,电影"
     },
     {
+      "raw_hot": 263623,
+      "num": 231112,
+      "word": "运动15分钟带来的变化有多大",
+      "onboard_time": 1746528382,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 262532,
       "num": 262532,
       "word": "arashi复活",
       "onboard_time": 1746524903,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261000,
+      "num": 261000,
+      "word": "刘畊宏不好意思耽误你吃饭了",
+      "onboard_time": 1746526402,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 260226,
@@ -905,6 +937,14 @@
       "onboard_time": 1746524424,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251200,
+      "num": 237226,
+      "word": "朱婷汪顺丁宁等获评国家级教练职称",
+      "onboard_time": 1746530302,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 250715,
@@ -969,14 +1009,6 @@
       "onboard_time": 1746506844,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233664,
-      "num": 233664,
-      "word": "Jennie晚宴造型",
-      "onboard_time": 1746527842,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 232355,
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 205650,
-      "num": 205650,
+      "num": 228012,
       "word": "偶遇姜妍和老公逛商场",
       "onboard_time": 1746525863,
       "rank": 34,
@@ -1185,14 +1217,6 @@
       "onboard_time": 1746514343,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 196916,
-      "num": 196916,
-      "word": "刘畊宏不好意思耽误你吃饭了",
-      "onboard_time": 1746526402,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 196843,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1746508822,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190736,
+      "num": 190736,
+      "word": "岚组合明年解散",
+      "onboard_time": 1746529941,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 190470,
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168850,
+      "num": 168850,
+      "word": "淮水竹亭",
+      "onboard_time": 1746528082,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166934,
       "num": 166934,
       "word": "白厄立绘",
@@ -1504,6 +1544,14 @@
       "word": "王星说和女友是在朋友婚礼上认识",
       "onboard_time": 1746511940,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165741,
+      "num": 156287,
+      "word": "赵小童三位哥哥帅到我俩了",
+      "onboard_time": 1746528503,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1611,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155811,
+      "num": 155811,
+      "word": "孙颖莎核心力量有多强",
+      "onboard_time": 1746528203,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155763,
       "num": 202555,
       "word": "戈登隔扣霍姆格伦",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1746507082,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 153842,
+      "num": 153842,
+      "word": "时代少年团海口站",
+      "onboard_time": 1746529822,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 153513,
@@ -1713,6 +1777,14 @@
       "onboard_time": 1746495919,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151170,
+      "num": 328716,
+      "word": "中方强烈谴责美中情局招募间谍",
+      "onboard_time": 1746529941,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150963,
@@ -1859,6 +1931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140527,
+      "num": 140527,
+      "word": "姚沐希回应和彭措分手",
+      "onboard_time": 1746527961,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140197,
       "num": 140197,
       "word": "余华铁生 地坛的树该续费了",
@@ -1904,14 +1984,6 @@
       "word": "锦月如歌月看月有预告",
       "onboard_time": 1746501980,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 137124,
-      "num": 137124,
-      "word": "淮水竹亭",
-      "onboard_time": 1746528082,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2059,14 +2131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127422,
-      "num": 127422,
-      "word": "孙颖莎核心力量有多强",
-      "onboard_time": 1746528203,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127301,
       "num": 127301,
       "word": "杰娜",
@@ -2096,6 +2160,14 @@
       "word": "接亲路上国家给刷了个大火箭",
       "onboard_time": 1746459382,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126851,
+      "num": 126851,
+      "word": "年轻人开始租三金结婚",
+      "onboard_time": 1746527302,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2163,14 +2235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123563,
-      "num": 123563,
-      "word": "姚沐希回应和彭措分手",
-      "onboard_time": 1746527961,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123248,
       "num": 123248,
       "word": "MetGala 无聊西装",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1746525202,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122421,
+      "num": 122421,
+      "word": "买了10000块的食材做顿饭",
+      "onboard_time": 1746527663,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 120751,
@@ -2275,20 +2347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111354,
+      "num": 111354,
+      "word": "王源直播被喊去采访了",
+      "onboard_time": 1746530001,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111311,
       "num": 153462,
       "word": "金饰价一夜反弹31元",
       "onboard_time": 1746508822,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 111186,
-      "num": 111186,
-      "word": "年轻人开始租三金结婚",
-      "onboard_time": 1746527302,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109706,
@@ -2427,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85642,
+      "num": 269115,
+      "word": "快递点擅自加收1.5元取件费被查处",
+      "onboard_time": 1746529043,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84381,
       "num": 84381,
       "word": "谁来田曦薇这都得后空翻一个再走",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1746503182,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 81382,
+      "num": 137599,
+      "word": "7天清肠轻断食减重食谱",
+      "onboard_time": 1746529282,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80413,
@@ -2592,6 +2680,14 @@
       "word": "台湾花莲海域5.7级地震",
       "onboard_time": 1746443781,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62731,
+      "num": 137332,
+      "word": "广东进入疯狂倒水模式",
+      "onboard_time": 1746525323,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2915,6 +3011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16253,
+      "num": 235145,
+      "word": "水饺皇后的真实人生比电影更传奇",
+      "onboard_time": 1746529581,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15578,
       "num": 352723,
       "word": "恋与制作人微博漫展好温暖",
@@ -2955,12 +3059,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13298,
+      "num": 233220,
+      "word": "高速路段遭遇横风该如何自救",
+      "onboard_time": 1746529340,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12972,
       "num": 172494,
       "word": "明孝陵文物被乱涂乱画该如何惩戒",
       "onboard_time": 1746528082,
       "rank": 26,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 12091,
+      "num": 169921,
+      "word": "倪夏莲顺利完成手术",
+      "onboard_time": 1746530302,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 9772,
@@ -2985,14 +3105,6 @@
       "onboard_time": 1746510080,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8806,
-      "num": 128605,
-      "word": "胖都来现状",
-      "onboard_time": 1746528261,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3001,6 +3113,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#以青春之我赴时代之约#"
     }
   ]
 }

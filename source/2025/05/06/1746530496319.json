@@ -1,0 +1,410 @@
+{
+  "runTime": 1746530496319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1425189,
+        "num": 1425189,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1232443,
+        "num": 1232443,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72846,
+        "num": 1034055,
+        "word": "数说五一假期活力图景",
+        "onboard_time": 1746525262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964092,
+        "num": 964092,
+        "word": "刘畊宏9天掉粉23万",
+        "onboard_time": 1746523822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870555,
+        "num": 870555,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398943,
+        "num": 398943,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362727,
+        "num": 362727,
+        "word": "山东滕州致6人死亡肇事司机被刑拘",
+        "onboard_time": 1746524963,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342058,
+        "num": 342058,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333751,
+        "num": 333751,
+        "word": "孟子义跑男出发图鼻祖",
+        "onboard_time": 1746525323,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 328716,
+        "word": "中方强烈谴责美中情局招募间谍",
+        "onboard_time": 1746529941,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1137122,
+        "num": 316852,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644821,
+        "num": 313441,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389138,
+        "num": 303661,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298901,
+        "num": 298901,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85642,
+        "num": 269115,
+        "word": "快递点擅自加收1.5元取件费被查处",
+        "onboard_time": 1746529043,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261000,
+        "num": 261000,
+        "word": "刘畊宏不好意思耽误你吃饭了",
+        "onboard_time": 1746526402,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239489,
+        "num": 239489,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251200,
+        "num": 237226,
+        "word": "朱婷汪顺丁宁等获评国家级教练职称",
+        "onboard_time": 1746530302,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16253,
+        "num": 235145,
+        "word": "水饺皇后的真实人生比电影更传奇",
+        "onboard_time": 1746529581,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 233220,
+        "word": "高速路段遭遇横风该如何自救",
+        "onboard_time": 1746529340,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 263623,
+        "num": 231112,
+        "word": "运动15分钟带来的变化有多大",
+        "onboard_time": 1746528382,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175493,
+        "num": 228012,
+        "word": "偶遇姜妍和老公逛商场",
+        "onboard_time": 1746525863,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226711,
+        "num": 226711,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222349,
+        "num": 222349,
+        "word": "好莱坞对特朗普政府电影关税感到震惊",
+        "onboard_time": 1746525683,
+        "rank": 23,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 190736,
+        "num": 190736,
+        "word": "岚组合明年解散",
+        "onboard_time": 1746529941,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183286,
+        "num": 183286,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93456,
+        "num": 173750,
+        "word": "储殷谈为何十年不换车",
+        "onboard_time": 1746526461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12091,
+        "num": 169921,
+        "word": "倪夏莲顺利完成手术",
+        "onboard_time": 1746530302,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168850,
+        "num": 168850,
+        "word": "淮水竹亭",
+        "onboard_time": 1746528082,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156372,
+        "num": 156372,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165741,
+        "num": 156287,
+        "word": "赵小童三位哥哥帅到我俩了",
+        "onboard_time": 1746528503,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155811,
+        "num": 155811,
+        "word": "孙颖莎核心力量有多强",
+        "onboard_time": 1746528203,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153842,
+        "num": 153842,
+        "word": "时代少年团海口站",
+        "onboard_time": 1746529822,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150998,
+        "num": 150998,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148814,
+        "num": 148814,
+        "word": "arashi复活",
+        "onboard_time": 1746524903,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148265,
+        "num": 148265,
+        "word": "租客欲提前退租被房东老公扇4耳光",
+        "onboard_time": 1746521541,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141405,
+        "num": 141405,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140527,
+        "num": 140527,
+        "word": "姚沐希回应和彭措分手",
+        "onboard_time": 1746527961,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81382,
+        "num": 137599,
+        "word": "7天清肠轻断食减重食谱",
+        "onboard_time": 1746529282,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137454,
+        "num": 137454,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62731,
+        "num": 137332,
+        "word": "广东进入疯狂倒水模式",
+        "onboard_time": 1746525323,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133760,
+        "num": 133760,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126851,
+        "num": 126851,
+        "word": "年轻人开始租三金结婚",
+        "onboard_time": 1746527302,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123263,
+        "num": 123263,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "买了10000块的食材做顿饭",
+        "onboard_time": 1746527663,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112468,
+        "num": 112468,
+        "word": "刘诗诗撒贝宁同框",
+        "onboard_time": 1746526942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111354,
+        "num": 111354,
+        "word": "王源直播被喊去采访了",
+        "onboard_time": 1746530001,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104788,
+        "num": 104788,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#以青春之我赴时代之约#"
+    }
+  }
+}
