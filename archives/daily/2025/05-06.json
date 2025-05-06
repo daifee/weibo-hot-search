@@ -1,10 +1,10 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746541539793,
+  "endTime": 1746542703286,
   "band_list": [
     {
-      "raw_hot": 3171963,
-      "num": 3171963,
+      "raw_hot": 3931337,
+      "num": 3931337,
       "word": "斯凯奇宣布退市",
       "onboard_time": 1746539842,
       "rank": 0,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 814617,
+      "num": 814617,
+      "word": "211",
+      "onboard_time": 1746539603,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 774401,
       "num": 774401,
       "word": "张凌赫撕拉片",
@@ -337,14 +345,6 @@
       "onboard_time": 1746502222,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 652824,
-      "num": 652824,
-      "word": "211",
-      "onboard_time": 1746539603,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 647520,
@@ -651,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414817,
+      "num": 414817,
+      "word": "张杰被中奖的粉丝整破防了",
+      "onboard_time": 1746541343,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410693,
       "num": 272205,
       "word": "长胖其实是有滞后性的",
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328128,
+      "num": 535149,
+      "word": "特朗普说他知道谁炸了北溪",
+      "onboard_time": 1746539483,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320965,
       "num": 320965,
       "word": "刘雯G社镜头",
@@ -849,6 +865,14 @@
       "onboard_time": 1746457225,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310028,
+      "num": 310028,
+      "word": "烽火流金",
+      "onboard_time": 1746539962,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 309757,
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270633,
+      "num": 438237,
+      "word": "中国锅做的牛排把老外香迷糊了",
+      "onboard_time": 1746541343,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 269783,
       "num": 269783,
       "word": "金价再爆发",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1746499641,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 257408,
-      "num": 535149,
-      "word": "特朗普说他知道谁炸了北溪",
-      "onboard_time": 1746539483,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 254129,
@@ -1179,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243031,
-      "num": 201990,
-      "word": "烽火流金",
-      "onboard_time": 1746539962,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242362,
       "num": 135723,
       "word": "石凯 全员加速中",
@@ -1200,6 +1216,14 @@
       "word": "柴怼怼 胖东来",
       "onboard_time": 1746506844,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236564,
+      "num": 312652,
+      "word": "上海独居女生为陌生女性提供免费住宿",
+      "onboard_time": 1746541884,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1251,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226202,
+      "num": 226202,
+      "word": "兰香如故",
+      "onboard_time": 1746541524,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225787,
       "num": 401105,
       "word": "新西兰拟16岁以下禁用社交媒体",
@@ -1268,7 +1300,7 @@
     },
     {
       "raw_hot": 218959,
-      "num": 295751,
+      "num": 311621,
       "word": "柴怼怼回应被曝销售染色玉镯",
       "onboard_time": 1746536782,
       "rank": 47,
@@ -1339,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214622,
+      "num": 214622,
+      "word": "开封文旅",
+      "onboard_time": 1746540143,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210047,
       "num": 210047,
       "word": "星穹铁道",
@@ -1392,6 +1432,22 @@
       "word": "王蓉报名歌手2025",
       "onboard_time": 1746519743,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205302,
+      "num": 218368,
+      "word": "心形纪念币上新了",
+      "onboard_time": 1746542004,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "刘诗诗今天认识了好多漂亮的花花",
+      "onboard_time": 1746542004,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1513,6 +1569,14 @@
       "onboard_time": 1746520701,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193250,
+      "num": 193250,
+      "word": "默茨未能当选德国总理",
+      "onboard_time": 1746539663,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192810,
@@ -1715,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177454,
-      "num": 223961,
-      "word": "中国锅做的牛排把老外香迷糊了",
-      "onboard_time": 1746541343,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174321,
       "num": 227205,
       "word": "约基奇42分22篮板",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1746533242,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169950,
+      "num": 169950,
+      "word": "770卸任",
+      "onboard_time": 1746541463,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 169748,
@@ -1995,22 +2059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158182,
-      "num": 158182,
-      "word": "开封文旅",
-      "onboard_time": 1746540143,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 157156,
-      "num": 157156,
-      "word": "张杰被中奖的粉丝整破防了",
-      "onboard_time": 1746541343,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156683,
       "num": 166849,
       "word": "任嘉伦宣夜再会蛮瑛再会",
@@ -2059,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154314,
+      "num": 154314,
+      "word": "刘诗诗插花",
+      "onboard_time": 1746542124,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154198,
       "num": 154198,
       "word": "建议英语不好的看完这部短片",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1746519743,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153424,
+      "num": 223780,
+      "word": "公交公司回应司机不让婆孙坐空位",
+      "onboard_time": 1746539363,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153386,
@@ -2179,6 +2243,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "任嘉伦无忧渡收官战报",
+      "onboard_time": 1746541942,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148583,
       "num": 148583,
       "word": "那可是金泰梨啊",
@@ -2225,14 +2297,6 @@
       "onboard_time": 1746506543,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145219,
-      "num": 145219,
-      "word": "770卸任",
-      "onboard_time": 1746541463,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 144966,
@@ -2305,14 +2369,6 @@
       "onboard_time": 1746535821,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142538,
-      "num": 223780,
-      "word": "公交公司回应司机不让婆孙坐空位",
-      "onboard_time": 1746539363,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142265,
@@ -2411,20 +2467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137684,
+      "num": 137684,
+      "word": "荣昌卤鹅",
+      "onboard_time": 1746542604,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137073,
       "num": 164114,
       "word": "男性确诊子宫肌瘤论文作者被记过",
       "onboard_time": 1746490162,
       "rank": 34,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 136837,
-      "num": 136837,
-      "word": "兰香如故",
-      "onboard_time": 1746541524,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 136535,
@@ -2441,14 +2497,6 @@
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 136235,
-      "num": 136235,
-      "word": "默茨未能当选德国总理",
-      "onboard_time": 1746539663,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136111,
@@ -2795,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118939,
+      "num": 311371,
+      "word": "老布什政府官员曝美秘建地下城",
+      "onboard_time": 1746542124,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118505,
       "num": 118505,
       "word": "女生晒照被网友看出血管瘤",
@@ -2971,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101079,
+      "num": 215884,
+      "word": "上市公司创始人控诉儿子一家抢公章",
+      "onboard_time": 1746541643,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99989,
       "num": 99989,
       "word": "高伟光选对剧本了",
@@ -3089,6 +3153,14 @@
       "onboard_time": 1746503182,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 81587,
+      "num": 215582,
+      "word": "TTG战胜KLG",
+      "onboard_time": 1746542303,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 80413,
@@ -3809,6 +3881,14 @@
       "onboard_time": 1746535283,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 6698,
+      "num": 172438,
+      "word": "关于鱼的知识点",
+      "onboard_time": 1746542544,
+      "rank": 39,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 4611,

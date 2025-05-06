@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746541539793,
+  "endTime": 1746542703286,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -9,6 +9,14 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3931337,
+      "num": 3931337,
+      "word": "斯凯奇宣布退市",
+      "onboard_time": 1746539842,
+      "rank": 0,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 3885539,
@@ -25,14 +33,6 @@
       "onboard_time": 1746242841,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3171963,
-      "num": 3171963,
-      "word": "斯凯奇宣布退市",
-      "onboard_time": 1746539842,
-      "rank": 0,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 3104219,
@@ -1387,6 +1387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 814617,
+      "num": 814617,
+      "word": "211",
+      "onboard_time": 1746539603,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 809164,
       "num": 333831,
       "word": "当老爸得知我去日本玩be like",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1746375081,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 652824,
-      "num": 652824,
-      "word": "211",
-      "onboard_time": 1746539603,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 652216,
@@ -3787,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414817,
+      "num": 414817,
+      "word": "张杰被中奖的粉丝整破防了",
+      "onboard_time": 1746541343,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414531,
       "num": 414531,
       "word": "gta6",
@@ -4755,6 +4763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328128,
+      "num": 535149,
+      "word": "特朗普说他知道谁炸了北溪",
+      "onboard_time": 1746539483,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328026,
       "num": 328026,
       "word": "李晟小考太帅了",
@@ -4969,6 +4985,14 @@
       "onboard_time": 1746256160,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310028,
+      "num": 310028,
+      "word": "烽火流金",
+      "onboard_time": 1746539962,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 309856,
@@ -5619,6 +5643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270633,
+      "num": 438237,
+      "word": "中国锅做的牛排把老外香迷糊了",
+      "onboard_time": 1746541343,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 270440,
       "num": 284786,
       "word": "纪念苏联伟大卫国战争胜利80周年庆典",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1746171079,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257408,
-      "num": 535149,
-      "word": "特朗普说他知道谁炸了北溪",
-      "onboard_time": 1746539483,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 257337,
@@ -6331,14 +6355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243031,
-      "num": 201990,
-      "word": "烽火流金",
-      "onboard_time": 1746539962,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242482,
       "num": 220218,
       "word": "景区买东西前千万要砍价",
@@ -6417,6 +6433,14 @@
       "onboard_time": 1746105322,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236564,
+      "num": 312652,
+      "word": "上海独居女生为陌生女性提供免费住宿",
+      "onboard_time": 1746541884,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236213,
@@ -6635,6 +6659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226202,
+      "num": 226202,
+      "word": "兰香如故",
+      "onboard_time": 1746541524,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226084,
       "num": 325421,
       "word": "假期结束夏天开始",
@@ -6820,7 +6852,7 @@
     },
     {
       "raw_hot": 218959,
-      "num": 295751,
+      "num": 311621,
       "word": "柴怼怼回应被曝销售染色玉镯",
       "onboard_time": 1746536782,
       "rank": 47,
@@ -6961,6 +6993,14 @@
       "onboard_time": 1746455002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214622,
+      "num": 214622,
+      "word": "开封文旅",
+      "onboard_time": 1746540143,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 214074,
@@ -7435,6 +7475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205302,
+      "num": 218368,
+      "word": "心形纪念币上新了",
+      "onboard_time": 1746542004,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "知道五一人多但没想到人这么多",
@@ -7497,6 +7545,14 @@
       "onboard_time": 1746278844,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204587,
+      "num": 204587,
+      "word": "刘诗诗今天认识了好多漂亮的花花",
+      "onboard_time": 1746542004,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 204504,
@@ -8465,6 +8521,14 @@
       "onboard_time": 1746416301,
       "rank": 35,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 193250,
+      "num": 193250,
+      "word": "默茨未能当选德国总理",
+      "onboard_time": 1746539663,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193248,
@@ -9627,14 +9691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177454,
-      "num": 223961,
-      "word": "中国锅做的牛排把老外香迷糊了",
-      "onboard_time": 1746541343,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 177385,
       "num": 177385,
       "word": "沈月赵一博看哥嫂亲热戏红温了",
@@ -10105,6 +10161,14 @@
       "onboard_time": 1746369206,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169950,
+      "num": 169950,
+      "word": "770卸任",
+      "onboard_time": 1746541463,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 169947,
@@ -11171,14 +11235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158182,
-      "num": 158182,
-      "word": "开封文旅",
-      "onboard_time": 1746540143,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "四川观察",
@@ -11233,14 +11289,6 @@
       "onboard_time": 1746110903,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157156,
-      "num": 157156,
-      "word": "张杰被中奖的粉丝整破防了",
-      "onboard_time": 1746541343,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 157081,
@@ -11523,6 +11571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154314,
+      "num": 154314,
+      "word": "刘诗诗插花",
+      "onboard_time": 1746542124,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154198,
       "num": 154198,
       "word": "建议英语不好的看完这部短片",
@@ -11617,6 +11673,14 @@
       "onboard_time": 1746280283,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153424,
+      "num": 223780,
+      "word": "公交公司回应司机不让婆孙坐空位",
+      "onboard_time": 1746539363,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153386,
@@ -11977,6 +12041,14 @@
       "onboard_time": 1746271582,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "任嘉伦无忧渡收官战报",
+      "onboard_time": 1746541942,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 149587,
@@ -12475,14 +12547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145219,
-      "num": 145219,
-      "word": "770卸任",
-      "onboard_time": 1746541463,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145213,
       "num": 145213,
       "word": "梁伟铿回应中国队夺冠",
@@ -12753,14 +12817,6 @@
       "onboard_time": 1746154049,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142538,
-      "num": 223780,
-      "word": "公交公司回应司机不让婆孙坐空位",
-      "onboard_time": 1746539363,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142265,
@@ -13323,6 +13379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137684,
+      "num": 137684,
+      "word": "荣昌卤鹅",
+      "onboard_time": 1746542604,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137661,
       "num": 137661,
       "word": "周柯宇金发撕漫男",
@@ -13435,14 +13499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 136837,
-      "num": 136837,
-      "word": "兰香如故",
-      "onboard_time": 1746541524,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136657,
       "num": 137746,
       "word": "张杰鸟巢演唱会",
@@ -13513,14 +13569,6 @@
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 136235,
-      "num": 136235,
-      "word": "默茨未能当选德国总理",
-      "onboard_time": 1746539663,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136160,
@@ -15523,6 +15571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 118939,
+      "num": 311371,
+      "word": "老布什政府官员曝美秘建地下城",
+      "onboard_time": 1746542124,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118917,
       "num": 118917,
       "word": "ACL",
@@ -17219,6 +17275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101079,
+      "num": 215884,
+      "word": "上市公司创始人控诉儿子一家抢公章",
+      "onboard_time": 1746541643,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100986,
       "num": 100986,
       "word": "WE战胜FPX",
@@ -18455,6 +18519,14 @@
       "num": 182900,
       "word": "eStar全员自拍营业",
       "onboard_time": 1746351142,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81587,
+      "num": 215582,
+      "word": "TTG战胜KLG",
+      "onboard_time": 1746542303,
       "rank": 29,
       "category": "电竞"
     },
@@ -22689,6 +22761,14 @@
       "onboard_time": 1746237680,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6698,
+      "num": 172438,
+      "word": "关于鱼的知识点",
+      "onboard_time": 1746542544,
+      "rank": 39,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 6337,

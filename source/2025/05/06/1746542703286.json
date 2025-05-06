@@ -1,0 +1,410 @@
+{
+  "runTime": 1746542703286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3931337,
+        "num": 3931337,
+        "word": "斯凯奇宣布退市",
+        "onboard_time": 1746539842,
+        "rank": 0,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 2267963,
+        "num": 2267963,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49708,
+        "num": 1550179,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1194086,
+        "num": 1194086,
+        "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+        "onboard_time": 1746537384,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 814617,
+        "num": 814617,
+        "word": "211",
+        "onboard_time": 1746539603,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 656864,
+        "num": 656864,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488568,
+        "num": 488568,
+        "word": "TheShy五杀",
+        "onboard_time": 1746539603,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270633,
+        "num": 438237,
+        "word": "中国锅做的牛排把老外香迷糊了",
+        "onboard_time": 1746541343,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328128,
+        "num": 431093,
+        "word": "特朗普说他知道谁炸了北溪",
+        "onboard_time": 1746539483,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 426398,
+        "num": 426398,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495868,
+        "num": 425276,
+        "word": "韩安冉妈妈去当老师了",
+        "onboard_time": 1746534201,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 448235,
+        "num": 424872,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422502,
+        "num": 422502,
+        "word": "坚持喝陈皮苹果3个月",
+        "onboard_time": 1746532462,
+        "rank": 12,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 414817,
+        "num": 414817,
+        "word": "张杰被中奖的粉丝整破防了",
+        "onboard_time": 1746541343,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345455,
+        "num": 345455,
+        "word": "一世喜乐",
+        "onboard_time": 1746538102,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 323526,
+        "num": 323526,
+        "word": "何洁说20年前不懂珍惜",
+        "onboard_time": 1746534622,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312948,
+        "num": 312948,
+        "word": "烽火流金片源泄露",
+        "onboard_time": 1746536723,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236564,
+        "num": 312652,
+        "word": "上海独居女生为陌生女性提供免费住宿",
+        "onboard_time": 1746541884,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210722,
+        "num": 311621,
+        "word": "柴怼怼回应被曝销售染色玉镯",
+        "onboard_time": 1746536782,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118939,
+        "num": 311371,
+        "word": "老布什政府官员曝美秘建地下城",
+        "onboard_time": 1746542124,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317322,
+        "num": 310499,
+        "word": "王一博19年拍的撕拉片",
+        "onboard_time": 1746534741,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310028,
+        "num": 310028,
+        "word": "烽火流金",
+        "onboard_time": 1746539962,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277090,
+        "num": 277090,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264917,
+        "num": 264917,
+        "word": "郑恺李昀锐打网球",
+        "onboard_time": 1746536904,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226202,
+        "num": 226202,
+        "word": "兰香如故",
+        "onboard_time": 1746541524,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218528,
+        "num": 218528,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 218368,
+        "word": "心形纪念币上新了",
+        "onboard_time": 1746542004,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241796,
+        "num": 217421,
+        "word": "张凌赫直播",
+        "onboard_time": 1746538824,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101079,
+        "num": 215884,
+        "word": "上市公司创始人控诉儿子一家抢公章",
+        "onboard_time": 1746541643,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81587,
+        "num": 215582,
+        "word": "TTG战胜KLG",
+        "onboard_time": 1746542303,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214622,
+        "num": 214622,
+        "word": "开封文旅",
+        "onboard_time": 1746540143,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209750,
+        "num": 209750,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207486,
+        "num": 207486,
+        "word": "虞书欣23年的存图",
+        "onboard_time": 1746536181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204587,
+        "num": 204587,
+        "word": "刘诗诗今天认识了好多漂亮的花花",
+        "onboard_time": 1746542004,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202851,
+        "num": 202851,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193250,
+        "num": 193250,
+        "word": "默茨未能当选德国总理",
+        "onboard_time": 1746539663,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190971,
+        "num": 190971,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190900,
+        "num": 190900,
+        "word": "李昀锐关晓彤新剧5月10日开机",
+        "onboard_time": 1746538102,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180245,
+        "num": 180245,
+        "word": "26岁女儿每次加班爸爸都来送饭",
+        "onboard_time": 1746532341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6698,
+        "num": 172438,
+        "word": "关于鱼的知识点",
+        "onboard_time": 1746542544,
+        "rank": 39,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 169950,
+        "num": 169950,
+        "word": "770卸任",
+        "onboard_time": 1746541463,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159116,
+        "num": 159116,
+        "word": "三德子赵亮致歉",
+        "onboard_time": 1746533001,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154314,
+        "num": 154314,
+        "word": "刘诗诗插花",
+        "onboard_time": 1746542124,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19092,
+        "num": 154299,
+        "word": "保研人5月一定要做的事",
+        "onboard_time": 1746540143,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 154294,
+        "num": 154294,
+        "word": "终于学会扎丸子头了",
+        "onboard_time": 1746538163,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153424,
+        "num": 153424,
+        "word": "公交公司回应司机不让婆孙坐空位",
+        "onboard_time": 1746539363,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150665,
+        "num": 150665,
+        "word": "纪念币",
+        "onboard_time": 1746540383,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149664,
+        "num": 149664,
+        "word": "任嘉伦无忧渡收官战报",
+        "onboard_time": 1746541942,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139947,
+        "num": 139947,
+        "word": "国新办发布会预告",
+        "onboard_time": 1746538102,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "荣昌卤鹅",
+        "onboard_time": 1746542604,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}
