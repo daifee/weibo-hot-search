@@ -1,0 +1,410 @@
+{
+  "runTime": 1746567544185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 265029,
+        "num": 265029,
+        "word": "斯凯奇宣布退市",
+        "onboard_time": 1746539842,
+        "rank": 0,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 147576,
+        "num": 147576,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18362,
+        "num": 117651,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89591,
+        "num": 89591,
+        "word": "国米vs巴萨",
+        "onboard_time": 1746563294,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66463,
+        "num": 66463,
+        "word": "上海独居女生为陌生女性提供免费住宿",
+        "onboard_time": 1746541884,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56696,
+        "num": 56696,
+        "word": "211",
+        "onboard_time": 1746539603,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53639,
+        "num": 53639,
+        "word": "美国76家鞋企联名求救",
+        "onboard_time": 1746545302,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52943,
+        "num": 52943,
+        "word": "肖战立下的flag你还记得吗",
+        "onboard_time": 1746548060,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46133,
+        "num": 46133,
+        "word": "中方强烈谴责美中情局招募间谍",
+        "onboard_time": 1746529941,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41347,
+        "num": 41347,
+        "word": "女生卖账号被用于色情诈骗",
+        "onboard_time": 1746532401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148765,
+        "num": 40033,
+        "word": "店主对抽烟顾客说这次免单以后别来了",
+        "onboard_time": 1746545302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55199,
+        "num": 39888,
+        "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+        "onboard_time": 1746537384,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37245,
+        "num": 37245,
+        "word": "高斯 女朋友",
+        "onboard_time": 1746543204,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34984,
+        "num": 34984,
+        "word": "外贸企业说世界之大不只有美国",
+        "onboard_time": 1746548000,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34560,
+        "num": 34560,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34072,
+        "num": 34072,
+        "word": "默茨未能当选德国总理",
+        "onboard_time": 1746539663,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31012,
+        "num": 31012,
+        "word": "特朗普承认不排除任期内经济萎缩",
+        "onboard_time": 1746543864,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30708,
+        "num": 30708,
+        "word": "何洁说20年前不懂珍惜",
+        "onboard_time": 1746534622,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25976,
+        "num": 30646,
+        "word": "李昀锐关晓彤新剧5月10日开机",
+        "onboard_time": 1746538102,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24350,
+        "num": 30640,
+        "word": "皓衣行",
+        "onboard_time": 1746544581,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45335,
+        "num": 30640,
+        "word": "长期熬夜的人长得更着急",
+        "onboard_time": 1746546560,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30640,
+        "num": 30639,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30056,
+        "num": 30056,
+        "word": "巴萨3比3国际米兰",
+        "onboard_time": 1746560113,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27184,
+        "num": 27184,
+        "word": "没想到在博物馆吃饱了",
+        "onboard_time": 1746549858,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26772,
+        "num": 26772,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25775,
+        "num": 25775,
+        "word": "德国新一任总理默茨",
+        "onboard_time": 1746543026,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24320,
+        "num": 24320,
+        "word": "中国锅做的牛排把老外香迷糊了",
+        "onboard_time": 1746541343,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23884,
+        "num": 23884,
+        "word": "特朗普说他知道谁炸了北溪",
+        "onboard_time": 1746539483,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23265,
+        "num": 23265,
+        "word": "张杰被中奖的粉丝整破防了",
+        "onboard_time": 1746541343,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19288,
+        "num": 22524,
+        "word": "烽火流金",
+        "onboard_time": 1746539962,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22290,
+        "num": 22290,
+        "word": "女子偶然间拍下孑孓变蚊子过程",
+        "onboard_time": 1746550818,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20741,
+        "num": 20741,
+        "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+        "onboard_time": 1746538222,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19935,
+        "num": 19935,
+        "word": "韩安冉妈妈去当老师了",
+        "onboard_time": 1746534201,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19827,
+        "num": 19827,
+        "word": "中国仪仗队帅成外国军人打卡点了",
+        "onboard_time": 1746555015,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19734,
+        "num": 19734,
+        "word": "坚持喝陈皮苹果3个月",
+        "onboard_time": 1746532462,
+        "rank": 34,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 19159,
+        "num": 19159,
+        "word": "手上这种小水泡千万别挠破",
+        "onboard_time": 1746543864,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19096,
+        "num": 19096,
+        "word": "河南一厂家回应零食中吃出烟头",
+        "onboard_time": 1746543265,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18187,
+        "num": 18187,
+        "word": "明显学术糊弄外行人看了都说离谱",
+        "onboard_time": 1746565274,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17852,
+        "num": 17852,
+        "word": "蛇钞",
+        "onboard_time": 1746544702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17156,
+        "num": 17851,
+        "word": "TheShy五杀",
+        "onboard_time": 1746539603,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 17850,
+        "word": "斯凯奇为何选择退市",
+        "onboard_time": 1746545302,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15635,
+        "num": 17849,
+        "word": "王一博19年拍的撕拉片",
+        "onboard_time": 1746534741,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15575,
+        "num": 17847,
+        "word": "美国因关税导致囤积商品",
+        "onboard_time": 1746564794,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15338,
+        "num": 17845,
+        "word": "朴彩英晚宴出发造型",
+        "onboard_time": 1746546681,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14896,
+        "num": 17844,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14164,
+        "num": 17844,
+        "word": "王蓉终于找对赛道了",
+        "onboard_time": 1746556394,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13877,
+        "num": 17841,
+        "word": "打奉陪到底谈大门敞开",
+        "onboard_time": 1746556515,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13243,
+        "num": 17841,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12971,
+        "num": 17838,
+        "word": "公司否认双星名人董事长发公开信",
+        "onboard_time": 1746561854,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12027,
+        "num": 17837,
+        "word": "GTA6第二支预告",
+        "onboard_time": 1746547400,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#健康稳定的中欧关系成就彼此照亮世界#"
+    }
+  }
+}
