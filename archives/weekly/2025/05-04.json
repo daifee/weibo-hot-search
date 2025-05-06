@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746527261384,
+  "endTime": 1746528301589,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -2379,6 +2379,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 326330,
+      "num": 326330,
+      "word": "孟子义跑男出发图鼻祖",
+      "onboard_time": 1746525323,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325157,
       "num": 325157,
       "word": "淮水竹亭编剧 殿前欢",
@@ -2643,14 +2651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293865,
-      "num": 293865,
-      "word": "孟子义跑男出发图鼻祖",
-      "onboard_time": 1746525323,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293156,
       "num": 293156,
       "word": "淮水竹亭热度",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1746286343,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264419,
+      "num": 300920,
+      "word": "好莱坞对特朗普政府电影关税感到震惊",
+      "onboard_time": 1746525683,
+      "rank": 14,
+      "category": "国际时政,电影"
     },
     {
       "raw_hot": 264049,
@@ -3201,6 +3209,14 @@
       "onboard_time": 1746360143,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233664,
+      "num": 233664,
+      "word": "Jennie晚宴造型",
+      "onboard_time": 1746527842,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232719,
@@ -3777,6 +3793,14 @@
       "onboard_time": 1746289520,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205650,
+      "num": 205650,
+      "word": "偶遇姜妍和老公逛商场",
+      "onboard_time": 1746525863,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 205647,
@@ -5451,14 +5475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156847,
-      "num": 156847,
-      "word": "偶遇姜妍和老公逛商场",
-      "onboard_time": 1746525863,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156826,
       "num": 156826,
       "word": "民警3天捡了25个孩子",
@@ -5689,14 +5705,6 @@
       "onboard_time": 1746367767,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152146,
-      "num": 300920,
-      "word": "好莱坞对特朗普政府电影关税感到震惊",
-      "onboard_time": 1746525683,
-      "rank": 14,
-      "category": "国际时政,电影"
     },
     {
       "raw_hot": 152029,
@@ -6124,7 +6132,7 @@
     },
     {
       "raw_hot": 143965,
-      "num": 143965,
+      "num": 160166,
       "word": "外交部回应中美是否就关税问题谈判",
       "onboard_time": 1746520582,
       "rank": 41,
@@ -6827,6 +6835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129570,
+      "num": 129570,
+      "word": "宋威龙撕拉片",
+      "onboard_time": 1746527663,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129557,
       "num": 124915,
       "word": "小程发博",
@@ -6947,6 +6963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127422,
+      "num": 127422,
+      "word": "孙颖莎核心力量有多强",
+      "onboard_time": 1746528203,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127301,
       "num": 127301,
       "word": "杰娜",
@@ -6969,6 +6993,14 @@
       "onboard_time": 1746415583,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127022,
+      "num": 127022,
+      "word": "男子过太姥山一线天肚子磨通红",
+      "onboard_time": 1746527243,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127003,
@@ -7195,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123563,
+      "num": 123563,
+      "word": "姚沐希回应和彭措分手",
+      "onboard_time": 1746527961,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123248,
       "num": 123248,
       "word": "MetGala 无聊西装",
@@ -7228,11 +7268,19 @@
     },
     {
       "raw_hot": 122883,
-      "num": 122883,
+      "num": 123061,
       "word": "耀眼",
       "onboard_time": 1746526882,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122799,
+      "num": 122799,
+      "word": "赵心童夺冠奖金约483万",
+      "onboard_time": 1746525202,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122490,
@@ -7329,14 +7377,6 @@
       "onboard_time": 1746331820,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120408,
-      "num": 120408,
-      "word": "男子过太姥山一线天肚子磨通红",
-      "onboard_time": 1746527243,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120243,
@@ -7443,6 +7483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116756,
+      "num": 116756,
+      "word": "男女主拉扯这34秒看红温了",
+      "onboard_time": 1746527542,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116386,
       "num": 116386,
       "word": "南京明孝陵石兽骆驼被写到此一游",
@@ -7489,6 +7537,14 @@
       "onboard_time": 1746428421,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115417,
+      "num": 115417,
+      "word": "翘楚官宣",
+      "onboard_time": 1746528261,
+      "rank": 47,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 114886,
@@ -7691,6 +7747,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 111186,
+      "num": 111186,
+      "word": "年轻人开始租三金结婚",
+      "onboard_time": 1746527302,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111072,
       "num": 111072,
       "word": "原来这就是精通PPT吗",
@@ -7753,14 +7817,6 @@
       "onboard_time": 1746367826,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109259,
-      "num": 109259,
-      "word": "赵心童夺冠奖金约483万",
-      "onboard_time": 1746525202,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 109252,
@@ -8707,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79244,
+      "num": 1289718,
+      "word": "数说五一假期活力图景",
+      "onboard_time": 1746525262,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77889,
       "num": 137074,
       "word": "洛阳天女散花的仙女肌肉太发达",
@@ -8848,14 +8912,6 @@
       "word": "我在乌江翻船现场的十二分钟",
       "onboard_time": 1746457225,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68303,
-      "num": 1289718,
-      "word": "数说五一假期活力图景",
-      "onboard_time": 1746525262,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -9971,6 +10027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20416,
+      "num": 131321,
+      "word": "赵心童总结世锦赛",
+      "onboard_time": 1746528261,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20112,
       "num": 24620,
       "word": "和登陆少年解锁无畏新地图",
@@ -10219,6 +10283,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 12972,
+      "num": 172494,
+      "word": "明孝陵文物被乱涂乱画该如何惩戒",
+      "onboard_time": 1746528082,
+      "rank": 26,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 12653,
       "num": 24551,
       "word": "一个人的寻亲路两代人的报国心",
@@ -10331,12 +10403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9470,
+      "num": 128483,
+      "word": "中原在260万年前是一片浅海",
+      "onboard_time": 1746528142,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 9036,
       "num": 157928,
       "word": "雷霆输在点球战术吗",
       "onboard_time": 1746510080,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8806,
+      "num": 128605,
+      "word": "胖都来现状",
+      "onboard_time": 1746528261,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8273,

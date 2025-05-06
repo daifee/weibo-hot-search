@@ -1,0 +1,410 @@
+{
+  "runTime": 1746528301589,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2233595,
+        "num": 2233595,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1333387,
+        "num": 1333387,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79244,
+        "num": 1130110,
+        "word": "数说五一假期活力图景",
+        "onboard_time": 1746525262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1038674,
+        "num": 1038674,
+        "word": "刘畊宏9天掉粉23万",
+        "onboard_time": 1746523822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839177,
+        "num": 839177,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 481459,
+        "num": 481459,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461275,
+        "num": 461275,
+        "word": "山东滕州致6人死亡肇事司机被刑拘",
+        "onboard_time": 1746524963,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426797,
+        "num": 426797,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326330,
+        "num": 326330,
+        "word": "孟子义跑男出发图鼻祖",
+        "onboard_time": 1746525323,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301649,
+        "num": 301649,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1502573,
+        "num": 301403,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683712,
+        "num": 300633,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283834,
+        "num": 283834,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264419,
+        "num": 264419,
+        "word": "好莱坞对特朗普政府电影关税感到震惊",
+        "onboard_time": 1746525683,
+        "rank": 13,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 255572,
+        "num": 255572,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233664,
+        "num": 233664,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233573,
+        "num": 233573,
+        "word": "租客欲提前退租被房东老公扇4耳光",
+        "onboard_time": 1746521541,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233146,
+        "num": 233146,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225633,
+        "num": 225633,
+        "word": "arashi复活",
+        "onboard_time": 1746524903,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196754,
+        "num": 213904,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234471,
+        "num": 213615,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205650,
+        "num": 205650,
+        "word": "偶遇姜妍和老公逛商场",
+        "onboard_time": 1746525863,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203058,
+        "num": 203058,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194382,
+        "num": 194382,
+        "word": "刘畊宏不好意思耽误你吃饭了",
+        "onboard_time": 1746526402,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131154,
+        "num": 176141,
+        "word": "马斯克称地球会被太阳焚化",
+        "onboard_time": 1746517582,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 172884,
+        "num": 172884,
+        "word": "刘诗诗撒贝宁同框",
+        "onboard_time": 1746526942,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12972,
+        "num": 172494,
+        "word": "明孝陵文物被乱涂乱画该如何惩戒",
+        "onboard_time": 1746528082,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 176417,
+        "num": 166101,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120423,
+        "num": 162598,
+        "word": "储殷谈为何十年不换车",
+        "onboard_time": 1746526461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66358,
+        "num": 160166,
+        "word": "外交部回应中美是否就关税问题谈判",
+        "onboard_time": 1746520582,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157934,
+        "num": 157934,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154377,
+        "num": 154377,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1746519623,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149665,
+        "num": 149665,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147301,
+        "num": 147301,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137124,
+        "num": 137124,
+        "word": "淮水竹亭",
+        "onboard_time": 1746528082,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20416,
+        "num": 131321,
+        "word": "赵心童总结世锦赛",
+        "onboard_time": 1746528261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129570,
+        "num": 129570,
+        "word": "宋威龙撕拉片",
+        "onboard_time": 1746527663,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8806,
+        "num": 128605,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128575,
+        "num": 128575,
+        "word": "坐一天就能赚钱的工作",
+        "onboard_time": 1746523700,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9470,
+        "num": 128483,
+        "word": "中原在260万年前是一片浅海",
+        "onboard_time": 1746528142,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 128415,
+        "num": 128415,
+        "word": "优时颜声明",
+        "onboard_time": 1746524304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127422,
+        "num": 127422,
+        "word": "孙颖莎核心力量有多强",
+        "onboard_time": 1746528203,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127022,
+        "num": 127022,
+        "word": "男子过太姥山一线天肚子磨通红",
+        "onboard_time": 1746527243,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123563,
+        "num": 123563,
+        "word": "姚沐希回应和彭措分手",
+        "onboard_time": 1746527961,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116485,
+        "num": 123061,
+        "word": "耀眼",
+        "onboard_time": 1746526882,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122799,
+        "num": 122799,
+        "word": "赵心童夺冠奖金约483万",
+        "onboard_time": 1746525202,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116756,
+        "num": 116756,
+        "word": "男女主拉扯这34秒看红温了",
+        "onboard_time": 1746527542,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115417,
+        "num": 115417,
+        "word": "翘楚官宣",
+        "onboard_time": 1746528261,
+        "rank": 47,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 111186,
+        "word": "年轻人开始租三金结婚",
+        "onboard_time": 1746527302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109927,
+        "num": 109927,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
