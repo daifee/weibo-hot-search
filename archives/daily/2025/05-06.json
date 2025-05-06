@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746510145446,
+  "endTime": 1746513315803,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -99,11 +99,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918709,
+      "num": 918709,
+      "word": "山东滕州车祸事件目击者发声",
+      "onboard_time": 1746508222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 900085,
       "num": 900085,
       "word": "耀眼 关晓彤",
       "onboard_time": 1746507802,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 869231,
+      "num": 311707,
+      "word": "陈都灵工作室联合倡议",
+      "onboard_time": 1746510440,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516046,
+      "num": 516046,
+      "word": "肖战拍的撕拉片",
+      "onboard_time": 1746510859,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514049,
       "num": 514049,
       "word": "五一假期国内3.14亿人次出游",
@@ -345,14 +369,6 @@
       "onboard_time": 1746485358,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 373712,
-      "num": 286034,
-      "word": "山东滕州车祸事件目击者发声",
-      "onboard_time": 1746508222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 371673,
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302134,
+      "num": 302134,
+      "word": "韩安冉发文接好孕",
+      "onboard_time": 1746511581,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 300580,
       "num": 300580,
       "word": "赵心童夺冠刷爆多项纪录",
@@ -499,6 +523,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294685,
+      "num": 303284,
+      "word": "多家华住会酒店拒绝携导盲犬入住",
+      "onboard_time": 1746511702,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289857,
+      "num": 289857,
+      "word": "王晶说刘德华太太很辛苦",
+      "onboard_time": 1746512180,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289450,
       "num": 289450,
       "word": "戈登三分绝杀雷霆",
@@ -508,11 +548,19 @@
     },
     {
       "raw_hot": 283691,
-      "num": 283691,
+      "num": 302107,
       "word": "美教授称新冠起源于美国",
       "onboard_time": 1746505763,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279592,
+      "num": 317688,
+      "word": "赛博重庆具象化了",
+      "onboard_time": 1746512301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279112,
@@ -545,6 +593,14 @@
       "onboard_time": 1746494962,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260226,
+      "num": 181477,
+      "word": "只有真正离职后才明白的5件事",
+      "onboard_time": 1746511581,
+      "rank": 30,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 260184,
@@ -667,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215889,
+      "num": 181256,
+      "word": "IU叹气",
+      "onboard_time": 1746512901,
+      "rank": 31,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 215415,
       "num": 215415,
       "word": "张小婉这世界上不会有人不爱谢娜",
@@ -681,6 +745,14 @@
       "onboard_time": 1746506243,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210034,
+      "num": 210034,
+      "word": "欧弟回应makiyo怼杨丞琳",
+      "onboard_time": 1746511822,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209359,
@@ -737,6 +809,14 @@
       "onboard_time": 1746487759,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194398,
+      "num": 302130,
+      "word": "出租孩子去犯罪的案例改编成剧",
+      "onboard_time": 1746512781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 192810,
@@ -859,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178948,
+      "num": 178948,
+      "word": "中国台协回应赵心童禁赛令",
+      "onboard_time": 1746510859,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174321,
       "num": 227205,
       "word": "约基奇42分22篮板",
@@ -891,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169699,
+      "num": 169699,
+      "word": "杨紫粉色系花絮",
+      "onboard_time": 1746512301,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 169636,
       "num": 191902,
       "word": "芒果待播节目 石凯镜头",
@@ -921,6 +1017,30 @@
       "onboard_time": 1746505883,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166115,
+      "num": 166115,
+      "word": "王星说和女友是在朋友婚礼上认识",
+      "onboard_time": 1746511940,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165704,
+      "num": 165704,
+      "word": "孟子义说周深活该你红",
+      "onboard_time": 1746512599,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165592,
+      "num": 165592,
+      "word": "不想上班",
+      "onboard_time": 1746512481,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 165570,
@@ -1115,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144932,
+      "num": 144932,
+      "word": "微信支付一直在花我的钱",
+      "onboard_time": 1746513022,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144104,
       "num": 144104,
       "word": "鱿鱼游戏3预告",
@@ -1243,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130597,
+      "num": 130597,
+      "word": "淘宝免单入口",
+      "onboard_time": 1746512541,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130484,
       "num": 112998,
       "word": "百想获奖名单",
@@ -1355,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116027,
+      "num": 302118,
+      "word": "美菲演习靶舰提前沉没",
+      "onboard_time": 1746511581,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115190,
       "num": 115190,
       "word": "金价",
@@ -1369,6 +1513,14 @@
       "onboard_time": 1746508822,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110481,
+      "num": 110481,
+      "word": "苦尽柑来遇见你 剧带人",
+      "onboard_time": 1746513200,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 108301,
@@ -1611,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59424,
+      "num": 302114,
+      "word": "被胖东来寄律师函的胖都来正常营业",
+      "onboard_time": 1746512541,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57375,
       "num": 57375,
       "word": "赵心童说今晚要喝一杯",
@@ -1665,6 +1825,14 @@
       "onboard_time": 1746463878,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 44638,
+      "num": 267738,
+      "word": "港股恒指高开涨0.32%",
+      "onboard_time": 1746512481,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 44126,
@@ -1745,6 +1913,14 @@
       "onboard_time": 1746483195,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27102,
+      "num": 302124,
+      "word": "育儿怎样不被割韭菜",
+      "onboard_time": 1746512481,
+      "rank": 17,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 26011,

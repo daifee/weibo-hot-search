@@ -1,0 +1,410 @@
+{
+  "runTime": 1746513315803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421780,
+        "num": 1421780,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 918709,
+        "num": 918709,
+        "word": "山东滕州车祸事件目击者发声",
+        "onboard_time": 1746508222,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30819,
+        "num": 792171,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738079,
+        "num": 738079,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 635773,
+        "num": 635773,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516046,
+        "num": 516046,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483550,
+        "num": 483550,
+        "word": "韩网评IU陪跑视后",
+        "onboard_time": 1746508401,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438309,
+        "num": 438309,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 7,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 318761,
+        "num": 318761,
+        "word": "赵心童和王楚钦打台球",
+        "onboard_time": 1746507082,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279592,
+        "num": 317688,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999078,
+        "num": 314237,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 869231,
+        "num": 311707,
+        "word": "陈都灵工作室联合倡议",
+        "onboard_time": 1746510440,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353669,
+        "num": 309226,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328112,
+        "num": 307558,
+        "word": "小杨哥停更9个月掉粉超1300万",
+        "onboard_time": 1746507023,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 294685,
+        "num": 303284,
+        "word": "多家华住会酒店拒绝携导盲犬入住",
+        "onboard_time": 1746511702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302134,
+        "num": 302134,
+        "word": "韩安冉发文接好孕",
+        "onboard_time": 1746511581,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194398,
+        "num": 302130,
+        "word": "出租孩子去犯罪的案例改编成剧",
+        "onboard_time": 1746512781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27102,
+        "num": 302124,
+        "word": "育儿怎样不被割韭菜",
+        "onboard_time": 1746512481,
+        "rank": 17,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 116027,
+        "num": 302118,
+        "word": "美菲演习靶舰提前沉没",
+        "onboard_time": 1746511581,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59424,
+        "num": 302114,
+        "word": "被胖东来寄律师函的胖都来正常营业",
+        "onboard_time": 1746512541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267340,
+        "num": 302107,
+        "word": "美教授称新冠起源于美国",
+        "onboard_time": 1746505763,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302106,
+        "num": 302106,
+        "word": "刘强东回应凑鸡蛋上大学",
+        "onboard_time": 1746505943,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 292077,
+        "num": 292077,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289857,
+        "num": 289857,
+        "word": "王晶说刘德华太太很辛苦",
+        "onboard_time": 1746512180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44638,
+        "num": 267738,
+        "word": "港股恒指高开涨0.32%",
+        "onboard_time": 1746512481,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267198,
+        "num": 267198,
+        "word": "楚后更名为翘楚",
+        "onboard_time": 1746508461,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 217081,
+        "word": "南通一医院调查男性患卵巢癌论文",
+        "onboard_time": 1746508222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210034,
+        "num": 210034,
+        "word": "欧弟回应makiyo怼杨丞琳",
+        "onboard_time": 1746511822,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186356,
+        "num": 186356,
+        "word": "谢娜生日和赵丽颖出道日是同一天",
+        "onboard_time": 1746506304,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183031,
+        "num": 183031,
+        "word": "柴怼怼 胖东来",
+        "onboard_time": 1746506844,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260226,
+        "num": 181477,
+        "word": "只有真正离职后才明白的5件事",
+        "onboard_time": 1746511581,
+        "rank": 30,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 215889,
+        "num": 181256,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 31,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 178948,
+        "num": 178948,
+        "word": "中国台协回应赵心童禁赛令",
+        "onboard_time": 1746510859,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169699,
+        "num": 169699,
+        "word": "杨紫粉色系花絮",
+        "onboard_time": 1746512301,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 166115,
+        "num": 166115,
+        "word": "王星说和女友是在朋友婚礼上认识",
+        "onboard_time": 1746511940,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165704,
+        "num": 165704,
+        "word": "孟子义说周深活该你红",
+        "onboard_time": 1746512599,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 165592,
+        "word": "不想上班",
+        "onboard_time": 1746512481,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144932,
+        "num": 144932,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136026,
+        "num": 136026,
+        "word": "家里最没用的把最有用的带走了",
+        "onboard_time": 1746503481,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134925,
+        "num": 134925,
+        "word": "歌手2025我来揭榜",
+        "onboard_time": 1746509301,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130597,
+        "num": 130597,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 126239,
+        "word": "男子遭诈骗日薪5千去以色列贴瓷砖",
+        "onboard_time": 1746509481,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123029,
+        "num": 123029,
+        "word": "五一档票房",
+        "onboard_time": 1746508281,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 122469,
+        "word": "月牙泉边周深和观众合唱小美满",
+        "onboard_time": 1746500961,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115633,
+        "num": 115633,
+        "word": "专家建议节后上班第一天少干活儿",
+        "onboard_time": 1746501021,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110481,
+        "num": 110481,
+        "word": "苦尽柑来遇见你 剧带人",
+        "onboard_time": 1746513200,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109530,
+        "num": 109530,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107359,
+        "num": 107359,
+        "word": "淘宝答案",
+        "onboard_time": 1746506003,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106680,
+        "num": 106680,
+        "word": "孙颖莎敲门有小猫出来",
+        "onboard_time": 1746507443,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99777,
+        "num": 99777,
+        "word": "美国媒体用lot形容家里的中国制造",
+        "onboard_time": 1746508941,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
