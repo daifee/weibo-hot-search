@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746516332339,
+  "endTime": 1746517179814,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1768944,
+      "num": 1768944,
+      "word": "掉入火锅小猫已离世",
+      "onboard_time": 1746515482,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1701684,
       "num": 1701684,
       "word": "疯狂小杨哥露面",
@@ -35,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1605269,
+      "num": 1605269,
+      "word": "微信支付一直在花我的钱",
+      "onboard_time": 1746513022,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1434901,
       "num": 1434901,
       "word": "赵心童夺世锦赛冠军",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1391299,
-      "num": 388460,
+      "num": 397629,
       "word": "奶茶该有的价位",
       "onboard_time": 1746505403,
       "rank": 30,
@@ -113,14 +129,6 @@
       "onboard_time": 1746507802,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 889397,
-      "num": 889397,
-      "word": "微信支付一直在花我的钱",
-      "onboard_time": 1746513022,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 869231,
@@ -219,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 609652,
-      "num": 410126,
-      "word": "掉入火锅小猫已离世",
-      "onboard_time": 1746515482,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597096,
       "num": 597096,
       "word": "赵心童和王楚钦打台球",
@@ -307,8 +307,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 524835,
+      "num": 524835,
+      "word": "全红婵等1101名运动员保送公示",
+      "onboard_time": 1746515482,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 523116,
-      "num": 400053,
+      "num": 400381,
       "word": "韩安冉发文接好孕",
       "onboard_time": 1746511581,
       "rank": 15,
@@ -387,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434277,
+      "num": 434277,
+      "word": "被胖东来寄律师函的胖都来正常营业",
+      "onboard_time": 1746512541,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431183,
       "num": 431183,
       "word": "短剧女演员杨珊子拍戏遇极端天气",
       "onboard_time": 1746459081,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429544,
-      "num": 429544,
-      "word": "被胖东来寄律师函的胖都来正常营业",
-      "onboard_time": 1746512541,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427512,
@@ -547,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307133,
+      "num": 383341,
+      "word": "王晶说刘德华太太很辛苦",
+      "onboard_time": 1746512180,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306584,
       "num": 306584,
       "word": "谢娜生日和赵丽颖出道日是同一天",
@@ -595,22 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293770,
-      "num": 293770,
-      "word": "全红婵等1101名运动员保送公示",
-      "onboard_time": 1746515482,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 289857,
-      "num": 383341,
-      "word": "王晶说刘德华太太很辛苦",
-      "onboard_time": 1746512180,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289450,
       "num": 289450,
       "word": "戈登三分绝杀雷霆",
@@ -641,6 +641,22 @@
       "onboard_time": 1746494360,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273108,
+      "num": 273108,
+      "word": "淘宝免单入口",
+      "onboard_time": 1746512541,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 272976,
+      "num": 413885,
+      "word": "多家医院回应妇科论文出现男性患者",
+      "onboard_time": 1746514762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271279,
@@ -691,6 +707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 254129,
+      "num": 254129,
+      "word": "王昶苏迪曼杯后发博",
+      "onboard_time": 1746516321,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250715,
       "num": 165198,
       "word": "全度妍五封百想影后",
@@ -721,6 +745,14 @@
       "onboard_time": 1746492441,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 243685,
+      "num": 392592,
+      "word": "李宁与中国奥委会签约",
+      "onboard_time": 1746515001,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 242362,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 225787,
-      "num": 225787,
+      "num": 401105,
       "word": "新西兰拟16岁以下禁用社交媒体",
       "onboard_time": 1746513802,
       "rank": 37,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217051,
+      "num": 217051,
+      "word": "苦尽柑来遇见你 剧带人",
+      "onboard_time": 1746513200,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216152,
       "num": 216152,
       "word": "歌手2025我来揭榜",
@@ -825,22 +865,6 @@
       "onboard_time": 1746502461,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213023,
-      "num": 213023,
-      "word": "苦尽柑来遇见你 剧带人",
-      "onboard_time": 1746513200,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 212240,
-      "num": 413885,
-      "word": "多家医院回应妇科论文出现男性患者",
-      "onboard_time": 1746514762,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210047,
@@ -859,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208115,
+      "num": 208115,
+      "word": "陈都灵今年是我出道的第十个年头",
+      "onboard_time": 1746516742,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207169,
       "num": 207169,
       "word": "周也丞磊新剧90秒双向告白",
@@ -867,20 +899,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204840,
-      "num": 392592,
-      "word": "李宁与中国奥委会签约",
-      "onboard_time": 1746515001,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200770,
       "num": 200770,
       "word": "Jennie和崔胜澈合照",
       "onboard_time": 1746507681,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199597,
+      "num": 199597,
+      "word": "审丑",
+      "onboard_time": 1746513741,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 199105,
+      "num": 199105,
+      "word": "准爸爸给孩子起名一点弯路不想走",
+      "onboard_time": 1746515182,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198889,
@@ -971,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189686,
+      "num": 189686,
+      "word": "胖东来",
+      "onboard_time": 1746516742,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189376,
       "num": 189376,
       "word": "剑网3",
@@ -993,22 +1041,6 @@
       "onboard_time": 1746460401,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186155,
-      "num": 186155,
-      "word": "淘宝免单入口",
-      "onboard_time": 1746512541,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 185785,
-      "num": 185785,
-      "word": "准爸爸给孩子起名一点弯路不想走",
-      "onboard_time": 1746515182,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185605,
@@ -1259,14 +1291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158136,
-      "num": 158136,
-      "word": "审丑",
-      "onboard_time": 1746513741,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156173,
       "num": 114427,
       "word": "棍顺余打篮球",
@@ -1280,6 +1304,14 @@
       "word": "戈登隔扣霍姆格伦",
       "onboard_time": 1746506063,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155694,
+      "num": 131946,
+      "word": "半亩花田 孙颖莎",
+      "onboard_time": 1746516201,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1515,6 +1547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136223,
+      "num": 136223,
+      "word": "胖东来珠宝1年被抽检25次均合规",
+      "onboard_time": 1746510680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134538,
       "num": 237864,
       "word": "Freen首位亮相MetGala泰国女星",
@@ -1571,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128983,
+      "num": 128983,
+      "word": "贵州女船长",
+      "onboard_time": 1746516561,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128042,
       "num": 156884,
       "word": "美国媒体用lot形容家里的中国制造",
@@ -1611,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125942,
+      "num": 125942,
+      "word": "这是人买小了吧",
+      "onboard_time": 1746515062,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125755,
       "num": 125755,
       "word": "陈芋汐跳水世界杯发博",
@@ -1625,22 +1681,6 @@
       "onboard_time": 1746505763,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125520,
-      "num": 125520,
-      "word": "这是人买小了吧",
-      "onboard_time": 1746515062,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 123932,
-      "num": 123932,
-      "word": "半亩花田 孙颖莎",
-      "onboard_time": 1746516201,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 123720,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1746446721,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114272,
+      "num": 114272,
+      "word": "五一假期国内游客出游总花费1802.69亿",
+      "onboard_time": 1746517163,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111311,
@@ -1848,6 +1896,14 @@
       "word": "网友挖出更多离谱医学论文",
       "onboard_time": 1746455603,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77889,
+      "num": 137074,
+      "word": "洛阳天女散花的仙女肌肉太发达",
+      "onboard_time": 1746516622,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2028,7 +2084,7 @@
     },
     {
       "raw_hot": 44126,
-      "num": 954278,
+      "num": 1257267,
       "word": "以旧换新持续火热彰显中国经济活力",
       "onboard_time": 1746506782,
       "rank": 2,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1746513982,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39628,
+      "num": 397069,
+      "word": "美国告别动物实验新药还安全吗",
+      "onboard_time": 1746515121,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 39297,
@@ -2113,14 +2177,6 @@
       "onboard_time": 1746516082,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29400,
-      "num": 397069,
-      "word": "美国告别动物实验新药还安全吗",
-      "onboard_time": 1746515121,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 28842,

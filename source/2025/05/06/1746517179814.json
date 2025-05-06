@@ -1,0 +1,410 @@
+{
+  "runTime": 1746517179814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768944,
+        "num": 1768944,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1605269,
+        "num": 1605269,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32353,
+        "num": 1257267,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085344,
+        "num": 1085344,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 810017,
+        "num": 810017,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747558,
+        "num": 747558,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524835,
+        "num": 524835,
+        "word": "全红婵等1101名运动员保送公示",
+        "onboard_time": 1746515482,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434277,
+        "num": 434277,
+        "word": "被胖东来寄律师函的胖都来正常营业",
+        "onboard_time": 1746512541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419852,
+        "num": 419852,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 8,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 213823,
+        "num": 401105,
+        "word": "新西兰拟16岁以下禁用社交媒体",
+        "onboard_time": 1746513802,
+        "rank": 9,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 474591,
+        "num": 400438,
+        "word": "K总结婚直播收入",
+        "onboard_time": 1746513321,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 450326,
+        "num": 400381,
+        "word": "韩安冉发文接好孕",
+        "onboard_time": 1746511581,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397629,
+        "num": 397629,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 377592,
+        "num": 377592,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330168,
+        "num": 330168,
+        "word": "陈都灵工作室联合倡议",
+        "onboard_time": 1746510440,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243685,
+        "num": 310880,
+        "word": "李宁与中国奥委会签约",
+        "onboard_time": 1746515001,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307133,
+        "num": 307133,
+        "word": "王晶说刘德华太太很辛苦",
+        "onboard_time": 1746512180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302351,
+        "num": 302351,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 277283,
+        "num": 277283,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272976,
+        "num": 275128,
+        "word": "多家医院回应妇科论文出现男性患者",
+        "onboard_time": 1746514762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279040,
+        "num": 275085,
+        "word": "阿条姐拟保送浙江大学",
+        "onboard_time": 1746513861,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272624,
+        "num": 272624,
+        "word": "多家华住会酒店拒绝携导盲犬入住",
+        "onboard_time": 1746511702,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254129,
+        "num": 254129,
+        "word": "王昶苏迪曼杯后发博",
+        "onboard_time": 1746516321,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217051,
+        "num": 217051,
+        "word": "苦尽柑来遇见你 剧带人",
+        "onboard_time": 1746513200,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208115,
+        "num": 208115,
+        "word": "陈都灵今年是我出道的第十个年头",
+        "onboard_time": 1746516742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 199597,
+        "word": "审丑",
+        "onboard_time": 1746513741,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199105,
+        "num": 199105,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198996,
+        "num": 198996,
+        "word": "中国台协回应赵心童禁赛令",
+        "onboard_time": 1746510859,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195878,
+        "num": 195878,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 189686,
+        "word": "胖东来",
+        "onboard_time": 1746516742,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187941,
+        "num": 187941,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168848,
+        "num": 168848,
+        "word": "只有真正离职后才明白的5件事",
+        "onboard_time": 1746511581,
+        "rank": 32,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 157858,
+        "num": 157858,
+        "word": "爱丽退役",
+        "onboard_time": 1746514042,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155701,
+        "num": 155701,
+        "word": "欧弟回应makiyo怼杨丞琳",
+        "onboard_time": 1746511822,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163275,
+        "num": 153143,
+        "word": "蜜雪冰城做饭",
+        "onboard_time": 1746514343,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150363,
+        "num": 150363,
+        "word": "楚后更名为翘楚",
+        "onboard_time": 1746508461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143609,
+        "num": 143609,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77889,
+        "num": 137074,
+        "word": "洛阳天女散花的仙女肌肉太发达",
+        "onboard_time": 1746516622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136223,
+        "num": 136223,
+        "word": "胖东来珠宝1年被抽检25次均合规",
+        "onboard_time": 1746510680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133030,
+        "num": 133030,
+        "word": "韩网评IU陪跑视后",
+        "onboard_time": 1746508401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39628,
+        "num": 132084,
+        "word": "美国告别动物实验新药还安全吗",
+        "onboard_time": 1746515121,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29176,
+        "num": 131957,
+        "word": "黑马赵心童会创造中国斯诺克历史吗",
+        "onboard_time": 1746516082,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155694,
+        "num": 131946,
+        "word": "半亩花田 孙颖莎",
+        "onboard_time": 1746516201,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131932,
+        "num": 131932,
+        "word": "刘诗诗的表演具象化了角色阶段",
+        "onboard_time": 1746515782,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128983,
+        "num": 128983,
+        "word": "贵州女船长",
+        "onboard_time": 1746516561,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125942,
+        "num": 125942,
+        "word": "这是人买小了吧",
+        "onboard_time": 1746515062,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124139,
+        "num": 124139,
+        "word": "刘强东回应凑鸡蛋上大学",
+        "onboard_time": 1746505943,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121473,
+        "num": 121473,
+        "word": "西村力帽子里放篮球",
+        "onboard_time": 1746515782,
+        "rank": 48,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 114272,
+        "num": 114272,
+        "word": "五一假期国内游客出游总花费1802.69亿",
+        "onboard_time": 1746517163,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
