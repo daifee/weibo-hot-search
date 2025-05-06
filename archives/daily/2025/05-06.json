@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746542703286,
+  "endTime": 1746545596238,
   "band_list": [
     {
       "raw_hot": 3931337,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1106232,
+      "num": 1106232,
+      "word": "211",
+      "onboard_time": 1746539603,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1096735,
       "num": 896564,
       "word": "多篇妇产科论文出现男性患者",
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 876009,
+      "num": 876009,
+      "word": "上海独居女生为陌生女性提供免费住宿",
+      "onboard_time": 1746541884,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869231,
       "num": 407464,
       "word": "陈都灵工作室联合倡议",
@@ -241,14 +257,6 @@
       "onboard_time": 1746519442,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 814617,
-      "num": 814617,
-      "word": "211",
-      "onboard_time": 1746539603,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 774401,
@@ -393,6 +401,14 @@
       "onboard_time": 1746538102,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 588798,
+      "num": 588798,
+      "word": "张杰被中奖的粉丝整破防了",
+      "onboard_time": 1746541343,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 578614,
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466137,
+      "num": 466137,
+      "word": "烽火流金",
+      "onboard_time": 1746539962,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457065,
       "num": 437796,
       "word": "月牙泉边周深和观众合唱小美满",
@@ -651,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 414817,
-      "num": 414817,
-      "word": "张杰被中奖的粉丝整破防了",
-      "onboard_time": 1746541343,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410693,
       "num": 272205,
       "word": "长胖其实是有滞后性的",
@@ -697,6 +713,14 @@
       "onboard_time": 1746485358,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 388724,
+      "num": 388724,
+      "word": "皓衣行",
+      "onboard_time": 1746544581,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 387599,
@@ -787,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344042,
+      "num": 344042,
+      "word": "刘德华评论向佐",
+      "onboard_time": 1746543864,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343631,
       "num": 359917,
       "word": "张柏芝穿豹纹还是太权威了",
@@ -867,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 310028,
-      "num": 310028,
-      "word": "烽火流金",
-      "onboard_time": 1746539962,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 309757,
       "num": 309757,
       "word": "Jennie第三次参加MetGala",
@@ -913,6 +937,14 @@
       "onboard_time": 1746506304,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305384,
+      "num": 305384,
+      "word": "GTA6",
+      "onboard_time": 1746543743,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 304785,
@@ -1035,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272020,
+      "num": 272020,
+      "word": "高斯 女朋友",
+      "onboard_time": 1746543204,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "赵心童17比8拿到冠军点",
@@ -1139,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254083,
+      "num": 292016,
+      "word": "德国新一任总理默茨",
+      "onboard_time": 1746543026,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252270,
       "num": 378662,
       "word": "遭高潮针配图女孩称曾被印壮阳药上",
@@ -1219,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236564,
-      "num": 312652,
-      "word": "上海独居女生为陌生女性提供免费住宿",
-      "onboard_time": 1746541884,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234645,
       "num": 234645,
       "word": "终于学会扎丸子头了",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1746455065,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 222894,
+      "num": 191600,
+      "word": "手上这种小水泡千万别挠破",
+      "onboard_time": 1746543864,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218959,
@@ -1411,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206659,
+      "num": 344323,
+      "word": "美国76家鞋企联名求救",
+      "onboard_time": 1746545302,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205650,
       "num": 228012,
       "word": "偶遇姜妍和老公逛商场",
@@ -1436,11 +1492,19 @@
     },
     {
       "raw_hot": 205302,
-      "num": 218368,
+      "num": 293129,
       "word": "心形纪念币上新了",
       "onboard_time": 1746542004,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205242,
+      "num": 193736,
+      "word": "默茨未能当选德国总理",
+      "onboard_time": 1746539663,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204587,
@@ -1491,12 +1555,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199568,
+      "num": 199568,
+      "word": "歌手",
+      "onboard_time": 1746544882,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198889,
       "num": 198889,
       "word": "这种网红玩具正在毒害你的孩子",
       "onboard_time": 1746455121,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198737,
+      "num": 198737,
+      "word": "宁艺卓ELLE",
+      "onboard_time": 1746545182,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198558,
@@ -1569,14 +1649,6 @@
       "onboard_time": 1746520701,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193250,
-      "num": 193250,
-      "word": "默茨未能当选德国总理",
-      "onboard_time": 1746539663,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192810,
@@ -1683,6 +1755,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 183572,
+      "num": 183572,
+      "word": "店主对抽烟顾客说这次免单以后别来了",
+      "onboard_time": 1746545302,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183123,
       "num": 183123,
       "word": "一觉醒来斯诺克历史被中国人刷新",
@@ -1787,12 +1867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174181,
+      "num": 195647,
+      "word": "斯凯奇为何选择退市",
+      "onboard_time": 1746545302,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174018,
       "num": 174018,
       "word": "钟丽丽求制片导演给无限艺员递本子",
       "onboard_time": 1746540383,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173664,
+      "num": 344130,
+      "word": "特朗普承认不排除任期内经济萎缩",
+      "onboard_time": 1746543864,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172973,
@@ -1987,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164377,
+      "num": 164377,
+      "word": "IG对战TT",
+      "onboard_time": 1746543743,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164013,
       "num": 164013,
       "word": "这就是顶级水课老师吗",
@@ -2073,6 +2177,14 @@
       "onboard_time": 1746461841,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155778,
+      "num": 155778,
+      "word": "荣昌卤鹅",
+      "onboard_time": 1746542604,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 155763,
@@ -2179,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152918,
+      "num": 161492,
+      "word": "河南一厂家回应零食中吃出烟头",
+      "onboard_time": 1746543265,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152828,
       "num": 152828,
       "word": "喝奶茶是最小规模的摸鱼行为",
@@ -2225,6 +2345,14 @@
       "onboard_time": 1746442701,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150664,
+      "num": 311371,
+      "word": "老布什政府官员曝美秘建地下城",
+      "onboard_time": 1746542124,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150070,
@@ -2467,14 +2595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137684,
-      "num": 137684,
-      "word": "荣昌卤鹅",
-      "onboard_time": 1746542604,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 137073,
       "num": 164114,
       "word": "男性确诊子宫肌瘤论文作者被记过",
@@ -2505,6 +2625,14 @@
       "onboard_time": 1746535463,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "五月病",
+      "onboard_time": 1746545002,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134538,
@@ -2843,12 +2971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118939,
-      "num": 311371,
-      "word": "老布什政府官员曝美秘建地下城",
-      "onboard_time": 1746542124,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 119997,
+      "num": 194382,
+      "word": "郑钦文条条大路通罗马",
+      "onboard_time": 1746545481,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 118505,
@@ -3123,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85578,
+      "num": 198882,
+      "word": "富时A50指数直线拉升",
+      "onboard_time": 1746542785,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84589,
       "num": 211367,
       "word": "胖东来和田玉平均毛利率未超20%",
@@ -3153,6 +3289,14 @@
       "onboard_time": 1746503182,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 82386,
+      "num": 194963,
+      "word": "深圳95后赵心童创造历史",
+      "onboard_time": 1746544581,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 81587,
@@ -3281,6 +3425,14 @@
       "onboard_time": 1746480434,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67258,
+      "num": 1822387,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66698,
@@ -3425,14 +3577,6 @@
       "onboard_time": 1746524481,
       "rank": 38,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 51587,
-      "num": 1822387,
-      "word": "九张图带你了解俄罗斯",
-      "onboard_time": 1746536363,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50957,
