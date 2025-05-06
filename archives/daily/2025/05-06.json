@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746517179814,
+  "endTime": 1746520419359,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -11,20 +11,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2054429,
+      "num": 2054429,
+      "word": "掉入火锅小猫已离世",
+      "onboard_time": 1746515482,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1821731,
       "num": 1821731,
       "word": "质子之争",
       "onboard_time": 1746501080,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1768944,
-      "num": 1768944,
-      "word": "掉入火锅小猫已离世",
-      "onboard_time": 1746515482,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1701684,
@@ -57,6 +57,14 @@
       "onboard_time": 1746474616,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1394641,
+      "num": 1394641,
+      "word": "淘宝免单入口",
+      "onboard_time": 1746512541,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 1391299,
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 970300,
+      "num": 970300,
+      "word": "周翊然陈都灵发文",
+      "onboard_time": 1746513741,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 923554,
       "num": 923554,
       "word": "胖东来 玉石",
@@ -147,12 +163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 858446,
-      "num": 858446,
-      "word": "周翊然陈都灵发文",
-      "onboard_time": 1746513741,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 816515,
+      "num": 816515,
+      "word": "中方和欧洲议会全面取消对交往的限制",
+      "onboard_time": 1746519442,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 770991,
@@ -185,6 +201,14 @@
       "onboard_time": 1746480615,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 741447,
+      "num": 741447,
+      "word": "马斯克称地球会被太阳焚化",
+      "onboard_time": 1746517582,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 730669,
@@ -347,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479807,
+      "num": 479807,
+      "word": "刘畊宏 清场",
+      "onboard_time": 1746518721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476090,
       "num": 476090,
       "word": "小杨哥停更9个月掉粉超1300万",
@@ -401,6 +433,14 @@
       "onboard_time": 1746512541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432941,
+      "num": 432941,
+      "word": "淘宝答案",
+      "onboard_time": 1746506003,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 431183,
@@ -459,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378246,
+      "num": 378246,
+      "word": "张凌赫撕拉片",
+      "onboard_time": 1746519682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371673,
       "num": 188102,
       "word": "周深在沙漠唱响化身孤岛的鲸",
@@ -497,6 +545,22 @@
       "onboard_time": 1746502700,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346221,
+      "num": 346221,
+      "word": "输头孢离世女生曾自行拔针头自救",
+      "onboard_time": 1746518603,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336495,
+      "num": 312934,
+      "word": "准爸爸给孩子起名一点弯路不想走",
+      "onboard_time": 1746515182,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333156,
@@ -643,12 +707,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 273108,
-      "num": 273108,
-      "word": "淘宝免单入口",
-      "onboard_time": 1746512541,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 274477,
+      "num": 232154,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1746519623,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 272976,
@@ -739,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244392,
+      "num": 233312,
+      "word": "妇科论文现男性病例涉事编辑被辞退",
+      "onboard_time": 1746518542,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 244109,
       "num": 244109,
       "word": "淘宝奶茶免单",
@@ -768,6 +840,14 @@
       "word": "柴怼怼 胖东来",
       "onboard_time": 1746506844,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230112,
+      "num": 230112,
+      "word": "贵州女船长",
+      "onboard_time": 1746516561,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -801,14 +881,6 @@
       "onboard_time": 1746513802,
       "rank": 37,
       "category": "国际时政,国际时政"
-    },
-    {
-      "raw_hot": 224105,
-      "num": 224105,
-      "word": "淘宝答案",
-      "onboard_time": 1746506003,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 224016,
@@ -899,6 +971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205459,
+      "num": 236276,
+      "word": "王蓉报名歌手2025",
+      "onboard_time": 1746519743,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202631,
+      "num": 202631,
+      "word": "胖东来",
+      "onboard_time": 1746516742,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200770,
       "num": 200770,
       "word": "Jennie和崔胜澈合照",
@@ -913,14 +1001,6 @@
       "onboard_time": 1746513741,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199105,
-      "num": 199105,
-      "word": "准爸爸给孩子起名一点弯路不想走",
-      "onboard_time": 1746515182,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198889,
@@ -961,6 +1041,14 @@
       "onboard_time": 1746487340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194681,
+      "num": 194681,
+      "word": "中国医药指南通报妇科论文现男性病例",
+      "onboard_time": 1746519861,
+      "rank": 35,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 194486,
@@ -1011,12 +1099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189686,
-      "num": 189686,
-      "word": "胖东来",
-      "onboard_time": 1746516742,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 190141,
+      "num": 190141,
+      "word": "喻言天赐舞台 吵急眼了",
+      "onboard_time": 1746520161,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 189376,
@@ -1347,6 +1435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153511,
+      "num": 153511,
+      "word": "胖东来珠宝1年被抽检25次均合规",
+      "onboard_time": 1746510680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153457,
+      "num": 153457,
+      "word": "光靠干饭就保送了",
+      "onboard_time": 1746519743,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153386,
       "num": 153386,
       "word": "余宇涵缺席音乐节",
@@ -1411,6 +1515,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 148583,
+      "num": 148583,
+      "word": "那可是金泰梨啊",
+      "onboard_time": 1746518903,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147123,
       "num": 147123,
       "word": "戈登绝杀",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1746515782,
       "rank": 45,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 146045,
+      "num": 146045,
+      "word": "故意让内向的孩子抽到空白签",
+      "onboard_time": 1746520342,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 146003,
@@ -1491,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140880,
+      "num": 140880,
+      "word": "如果美方真想谈就停止威胁施压",
+      "onboard_time": 1746520342,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139681,
       "num": 139681,
       "word": "赵心童离大满贯仅差一个大师赛冠军",
@@ -1523,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137270,
+      "num": 239398,
+      "word": "越南新娘为何接二连三失踪",
+      "onboard_time": 1746518002,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137073,
       "num": 164114,
       "word": "男性确诊子宫肌瘤论文作者被记过",
@@ -1545,14 +1681,6 @@
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 136223,
-      "num": 136223,
-      "word": "胖东来珠宝1年被抽检25次均合规",
-      "onboard_time": 1746510680,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134538,
@@ -1607,14 +1735,6 @@
       "num": 129004,
       "word": "男子遭诈骗日薪5千去以色列贴瓷砖",
       "onboard_time": 1746509481,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128983,
-      "num": 128983,
-      "word": "贵州女船长",
-      "onboard_time": 1746516561,
       "rank": 45,
       "category": "民生新闻"
     },
@@ -1803,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94769,
+      "num": 321119,
+      "word": "西安临潼当街踢打妻子男子被行拘",
+      "onboard_time": 1746518903,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94409,
       "num": 94409,
       "word": "刘耀文solo舞台抹了一手血",
@@ -1987,6 +2115,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 64011,
+      "num": 313989,
+      "word": "淘宝免单玩大了",
+      "onboard_time": 1746520042,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63110,
       "num": 63110,
       "word": "台湾花莲海域5.7级地震",
@@ -2019,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59879,
+      "num": 313565,
+      "word": "和府捞面宣称中式面馆第一品牌被罚",
+      "onboard_time": 1746518662,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57375,
       "num": 57375,
       "word": "赵心童说今晚要喝一杯",
@@ -2033,6 +2177,14 @@
       "onboard_time": 1746465198,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54268,
+      "num": 149741,
+      "word": "日女子太爱男友砍下对方无名指",
+      "onboard_time": 1746519502,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53688,
@@ -2084,7 +2236,7 @@
     },
     {
       "raw_hot": 44126,
-      "num": 1257267,
+      "num": 1678579,
       "word": "以旧换新持续火热彰显中国经济活力",
       "onboard_time": 1746506782,
       "rank": 2,
@@ -2203,12 +2355,36 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 27102,
+      "num": 242426,
+      "word": "高铁拦门事件为何屡禁难止",
+      "onboard_time": 1746520221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26011,
       "num": 225682,
       "word": "伯克希尔跌超5%",
       "onboard_time": 1746490641,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 22985,
+      "num": 313366,
+      "word": "卡式炉为何秒变定时炸弹",
+      "onboard_time": 1746519682,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 22675,
+      "num": 241517,
+      "word": "医学论文怎能雌雄不辨",
+      "onboard_time": 1746520161,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18921,
