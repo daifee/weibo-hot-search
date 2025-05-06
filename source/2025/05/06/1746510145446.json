@@ -1,0 +1,410 @@
+{
+  "runTime": 1746510145446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430071,
+        "num": 1430071,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1004878,
+        "num": 1004878,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40668,
+        "num": 949010,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 900085,
+        "num": 900085,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683461,
+        "num": 683461,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593764,
+        "num": 593764,
+        "word": "赵心童和王楚钦打台球",
+        "onboard_time": 1746507082,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594257,
+        "num": 576908,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 6,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 553690,
+        "num": 553690,
+        "word": "韩网评IU陪跑视后",
+        "onboard_time": 1746508401,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448838,
+        "num": 448838,
+        "word": "南通一医院调查男性患卵巢癌论文",
+        "onboard_time": 1746508222,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300857,
+        "num": 300857,
+        "word": "专家建议节后上班第一天少干活儿",
+        "onboard_time": 1746501021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1200443,
+        "num": 300808,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 591658,
+        "num": 295304,
+        "word": "刘强东回应凑鸡蛋上大学",
+        "onboard_time": 1746505943,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 449745,
+        "num": 292998,
+        "word": "小杨哥停更9个月掉粉超1300万",
+        "onboard_time": 1746507023,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 499171,
+        "num": 289945,
+        "word": "楚后更名为翘楚",
+        "onboard_time": 1746508461,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436272,
+        "num": 286909,
+        "word": "家里最没用的把最有用的带走了",
+        "onboard_time": 1746503481,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373712,
+        "num": 286034,
+        "word": "山东滕州车祸事件目击者发声",
+        "onboard_time": 1746508222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283691,
+        "num": 283691,
+        "word": "美教授称新冠起源于美国",
+        "onboard_time": 1746505763,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275432,
+        "num": 275432,
+        "word": "谢娜生日和赵丽颖出道日是同一天",
+        "onboard_time": 1746506304,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48080,
+        "num": 258798,
+        "word": "管乐祝谢娜生日快乐",
+        "onboard_time": 1746509123,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50663,
+        "num": 252314,
+        "word": "我记得周一到周五过得没那么快",
+        "onboard_time": 1746509423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361244,
+        "num": 251501,
+        "word": "胖东来 玉石",
+        "onboard_time": 1746495140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246469,
+        "num": 246469,
+        "word": "戈登三分绝杀雷霆",
+        "onboard_time": 1746506543,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241786,
+        "num": 241786,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221179,
+        "num": 221179,
+        "word": "腾讯视频五月大剧片单",
+        "onboard_time": 1746502222,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216152,
+        "num": 216152,
+        "word": "歌手2025我来揭榜",
+        "onboard_time": 1746509301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200858,
+        "num": 200858,
+        "word": "柴怼怼 胖东来",
+        "onboard_time": 1746506844,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196264,
+        "num": 196264,
+        "word": "孙颖莎敲门有小猫出来",
+        "onboard_time": 1746507443,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186618,
+        "num": 186618,
+        "word": "月牙泉边周深和观众合唱小美满",
+        "onboard_time": 1746500961,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179721,
+        "num": 179721,
+        "word": "Jennie和崔胜澈合照",
+        "onboard_time": 1746507681,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140388,
+        "num": 179222,
+        "word": "约基奇42分22篮板",
+        "onboard_time": 1746508822,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179008,
+        "num": 179008,
+        "word": "ddg 黄子弘凡",
+        "onboard_time": 1746505702,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177161,
+        "num": 177161,
+        "word": "五一档票房",
+        "onboard_time": 1746508281,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170850,
+        "num": 170850,
+        "word": "王菲收工下班路透",
+        "onboard_time": 1746509902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169271,
+        "num": 169271,
+        "word": "唐嫣鎏金烟熏妆",
+        "onboard_time": 1746510021,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158522,
+        "num": 158522,
+        "word": "淘宝答案",
+        "onboard_time": 1746506003,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9036,
+        "num": 157928,
+        "word": "雷霆输在点球战术吗",
+        "onboard_time": 1746510080,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157820,
+        "num": 157820,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 156884,
+        "word": "美国媒体用lot形容家里的中国制造",
+        "onboard_time": 1746508941,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156423,
+        "num": 156423,
+        "word": "王一博邓为周深唱响青春力量",
+        "onboard_time": 1746500001,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111311,
+        "num": 153462,
+        "word": "金饰价一夜反弹31元",
+        "onboard_time": 1746508822,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153386,
+        "num": 153386,
+        "word": "余宇涵缺席音乐节",
+        "onboard_time": 1746509062,
+        "rank": 40,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 150963,
+        "num": 150963,
+        "word": "凯尔特人狂扔三分",
+        "onboard_time": 1746509842,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143795,
+        "num": 143795,
+        "word": "恋与制作人",
+        "onboard_time": 1746508822,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135208,
+        "num": 135208,
+        "word": "绝杀",
+        "onboard_time": 1746508882,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 130877,
+        "word": "idle预告 抄袭",
+        "onboard_time": 1746488420,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 129004,
+        "word": "男子遭诈骗日薪5千去以色列贴瓷砖",
+        "onboard_time": 1746509481,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126632,
+        "num": 126632,
+        "word": "老外带空箱子来中国买买买",
+        "onboard_time": 1746499041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126290,
+        "num": 126290,
+        "word": "25岁才感觉自己的人生刚刚开始",
+        "onboard_time": 1746503182,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126285,
+        "num": 126285,
+        "word": "奇迹暖暖十周年",
+        "onboard_time": 1746508341,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123606,
+        "num": 123606,
+        "word": "赵丽颖送粉丝限量版礼物",
+        "onboard_time": 1746500482,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
