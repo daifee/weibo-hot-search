@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746513315803,
+  "endTime": 1746514134478,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -1187,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 531019,
+      "num": 531019,
+      "word": "肖战拍的撕拉片",
+      "onboard_time": 1746510859,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530526,
       "num": 269454,
       "word": "千万不要用卫生纸擦眼镜",
@@ -1267,14 +1275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 516046,
-      "num": 516046,
-      "word": "肖战拍的撕拉片",
-      "onboard_time": 1746510859,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 515423,
       "num": 515423,
       "word": "台湾花莲海域5.7级地震",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1746269962,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 501470,
+      "num": 501470,
+      "word": "多家华住会酒店拒绝携导盲犬入住",
+      "onboard_time": 1746511702,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499681,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1746411262,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455136,
+      "num": 302134,
+      "word": "韩安冉发文接好孕",
+      "onboard_time": 1746511581,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 454471,
@@ -1859,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 381370,
+      "num": 283882,
+      "word": "K总结婚直播收入",
+      "onboard_time": 1746513321,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 378874,
       "num": 378874,
       "word": "三个月瘦了32斤的侧脸变化",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1746300915,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342136,
+      "num": 279337,
+      "word": "IU叹气",
+      "onboard_time": 1746512901,
+      "rank": 31,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 342058,
@@ -2323,14 +2355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 302134,
-      "num": 302134,
-      "word": "韩安冉发文接好孕",
-      "onboard_time": 1746511581,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 301925,
       "num": 301925,
       "word": "和平精英",
@@ -2411,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294685,
-      "num": 303284,
-      "word": "多家华住会酒店拒绝携导盲犬入住",
-      "onboard_time": 1746511702,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293982,
       "num": 293982,
       "word": "百想红毯",
@@ -2483,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285968,
+      "num": 302114,
+      "word": "被胖东来寄律师函的胖都来正常营业",
+      "onboard_time": 1746512541,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283691,
       "num": 302107,
       "word": "美教授称新冠起源于美国",
@@ -2491,20 +2515,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283495,
+      "num": 317688,
+      "word": "赛博重庆具象化了",
+      "onboard_time": 1746512301,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
       "onboard_time": 1746431422,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279592,
-      "num": 317688,
-      "word": "赛博重庆具象化了",
-      "onboard_time": 1746512301,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279112,
@@ -2739,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253724,
+      "num": 253724,
+      "word": "微信支付一直在花我的钱",
+      "onboard_time": 1746513022,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252451,
       "num": 252451,
       "word": "盛李豪黄雨婷霸榜世界第一",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245609,
+      "num": 245609,
+      "word": "欧弟回应makiyo怼杨丞琳",
+      "onboard_time": 1746511822,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 245184,
@@ -3123,14 +3163,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 215889,
-      "num": 181256,
-      "word": "IU叹气",
-      "onboard_time": 1746512901,
-      "rank": 31,
-      "category": "音乐,艺人"
-    },
-    {
       "raw_hot": 215458,
       "num": 248294,
       "word": "殿前欢",
@@ -3227,20 +3259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210779,
+      "num": 210779,
+      "word": "苦尽柑来遇见你 剧带人",
+      "onboard_time": 1746513200,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210047,
       "num": 210047,
       "word": "星穹铁道",
       "onboard_time": 1746506243,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210034,
-      "num": 210034,
-      "word": "欧弟回应makiyo怼杨丞琳",
-      "onboard_time": 1746511822,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 209621,
@@ -3755,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195715,
+      "num": 195715,
+      "word": "周翊然陈都灵发文",
+      "onboard_time": 1746513741,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195681,
       "num": 195681,
       "word": "沈月秉竹业游爱情保安",
@@ -3921,6 +3961,14 @@
       "onboard_time": 1746447922,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191112,
+      "num": 191112,
+      "word": "阿条姐拟保送浙江大学",
+      "onboard_time": 1746513861,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190824,
@@ -5411,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147123,
+      "num": 147123,
+      "word": "戈登绝杀",
+      "onboard_time": 1746513562,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147094,
       "num": 209048,
       "word": "威少太了解哈登了",
@@ -5537,14 +5593,6 @@
       "onboard_time": 1746504502,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144932,
-      "num": 144932,
-      "word": "微信支付一直在花我的钱",
-      "onboard_time": 1746513022,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 144235,
@@ -6155,6 +6203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130815,
+      "num": 130815,
+      "word": "淘宝免单入口",
+      "onboard_time": 1746512541,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130791,
       "num": 130791,
       "word": "咸鱼飞升",
@@ -6177,14 +6233,6 @@
       "onboard_time": 1746422542,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130597,
-      "num": 130597,
-      "word": "淘宝免单入口",
-      "onboard_time": 1746512541,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 130473,
@@ -6337,6 +6385,14 @@
       "onboard_time": 1746287842,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127301,
+      "num": 127301,
+      "word": "杰娜",
+      "onboard_time": 1746513861,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 127294,
@@ -6611,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120898,
+      "num": 120898,
+      "word": "爱丽退役",
+      "onboard_time": 1746514042,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120751,
       "num": 120751,
       "word": "孙俪不俗地演俗人",
@@ -6633,6 +6697,14 @@
       "onboard_time": 1746373283,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120642,
+      "num": 148592,
+      "word": "新西兰拟16岁以下禁用社交媒体",
+      "onboard_time": 1746513802,
+      "rank": 37,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 120614,
@@ -6915,6 +6987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113354,
+      "num": 113354,
+      "word": "剑来 吴磊",
+      "onboard_time": 1746514102,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113345,
       "num": 113345,
       "word": "毛不易因感冒导致演唱会破音崩溃",
@@ -7025,14 +7105,6 @@
       "onboard_time": 1746335301,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110481,
-      "num": 110481,
-      "word": "苦尽柑来遇见你 剧带人",
-      "onboard_time": 1746513200,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 110254,
@@ -8275,14 +8347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59424,
-      "num": 302114,
-      "word": "被胖东来寄律师函的胖都来正常营业",
-      "onboard_time": 1746512541,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58162,
       "num": 114155,
       "word": "巴特勒20分",
@@ -8627,6 +8691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40694,
+      "num": 147358,
+      "word": "上帝不如我的兄弟",
+      "onboard_time": 1746513982,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40221,
       "num": 278181,
       "word": "WAW漫展现场好多哦豁",
@@ -8793,6 +8865,14 @@
       "onboard_time": 1746395715,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32666,
+      "num": 223435,
+      "word": "约基奇咆哮小波特",
+      "onboard_time": 1746506903,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 32255,
@@ -9433,6 +9513,14 @@
       "onboard_time": 1746446480,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 9772,
+      "num": 212520,
+      "word": "阿诺德离队对利物浦意味着什么挑战",
+      "onboard_time": 1746513682,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 9544,
