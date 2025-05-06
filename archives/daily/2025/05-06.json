@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746505799334,
+  "endTime": 1746506720656,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -59,6 +59,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1083868,
+      "num": 359777,
+      "word": "刘强东回应凑鸡蛋上大学",
+      "onboard_time": 1746505943,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1039019,
       "num": 1039019,
       "word": "白敬亭潮牌质量",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 866115,
-      "num": 353143,
+      "num": 356913,
       "word": "家里最没用的把最有用的带走了",
       "onboard_time": 1746503481,
       "rank": 30,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570471,
+      "num": 570471,
+      "word": "白敬亭潮牌回应质量问题",
+      "onboard_time": 1746505943,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568317,
       "num": 276584,
       "word": "黄金",
@@ -195,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514049,
+      "num": 514049,
+      "word": "五一假期国内3.14亿人次出游",
+      "onboard_time": 1746497120,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475933,
       "num": 475933,
       "word": "王奕解约",
       "onboard_time": 1746457703,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474511,
-      "num": 474511,
-      "word": "五一假期国内3.14亿人次出游",
-      "onboard_time": 1746497120,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474113,
@@ -251,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 407134,
+      "num": 353002,
+      "word": "奶茶该有的价位",
+      "onboard_time": 1746505403,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 399049,
       "num": 399049,
       "word": "idle预告 抄袭",
@@ -281,6 +305,14 @@
       "onboard_time": 1746457162,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368438,
+      "num": 349156,
+      "word": "ddg 黄子弘凡",
+      "onboard_time": 1746505702,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 366554,
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 247419,
-      "num": 247419,
+      "num": 280885,
       "word": "25岁才感觉自己的人生刚刚开始",
       "onboard_time": 1746503182,
       "rank": 28,
@@ -523,12 +555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215672,
+      "num": 276588,
+      "word": "谢娜生日和赵丽颖出道日是同一天",
+      "onboard_time": 1746506304,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215415,
       "num": 215415,
       "word": "张小婉这世界上不会有人不爱谢娜",
       "onboard_time": 1746502461,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210047,
+      "num": 210047,
+      "word": "星穹铁道",
+      "onboard_time": 1746506243,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 209359,
@@ -547,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201802,
+      "num": 201802,
+      "word": "淘宝答案",
+      "onboard_time": 1746506003,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198889,
       "num": 198889,
       "word": "这种网红玩具正在毒害你的孩子",
       "onboard_time": 1746455121,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197760,
+      "num": 197760,
+      "word": "美教授称新冠起源于美国",
+      "onboard_time": 1746505763,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196843,
@@ -585,14 +649,6 @@
       "onboard_time": 1746449601,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192133,
-      "num": 169759,
-      "word": "奶茶该有的价位",
-      "onboard_time": 1746505403,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 190470,
@@ -635,12 +691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184871,
-      "num": 184871,
-      "word": "ddg 黄子弘凡",
-      "onboard_time": 1746505702,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 185536,
+      "num": 205967,
+      "word": "戈登三分绝杀雷霆",
+      "onboard_time": 1746506543,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 183123,
@@ -683,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179764,
+      "num": 175941,
+      "word": "侵权肖战商家被强执20万",
+      "onboard_time": 1746506543,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179465,
       "num": 179465,
       "word": "当代人有自己的八百里加急",
@@ -721,6 +785,14 @@
       "onboard_time": 1746504800,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166934,
+      "num": 166934,
+      "word": "白厄立绘",
+      "onboard_time": 1746505883,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 165570,
@@ -779,12 +851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158572,
+      "num": 158572,
+      "word": "为什么小时候听不进去历史课",
+      "onboard_time": 1746506184,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156173,
       "num": 114427,
       "word": "棍顺余打篮球",
       "onboard_time": 1746461841,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155763,
+      "num": 202555,
+      "word": "戈登隔扣霍姆格伦",
+      "onboard_time": 1746506063,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 154697,
@@ -851,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146003,
+      "num": 146003,
+      "word": "肖战胜诉获赔20万",
+      "onboard_time": 1746506543,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144966,
       "num": 148756,
       "word": "未定事件簿",
@@ -897,14 +993,6 @@
       "onboard_time": 1746498800,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139434,
-      "num": 139434,
-      "word": "美教授称新冠起源于美国",
-      "onboard_time": 1746505763,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 139288,
@@ -1243,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69469,
+      "num": 204890,
+      "word": "陕西省台球协会向赵心童发来贺信",
+      "onboard_time": 1746505824,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68816,
       "num": 68816,
       "word": "我在乌江翻船现场的十二分钟",
@@ -1291,6 +1387,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 61202,
+      "num": 209943,
+      "word": "IVE复刻两年前的cha",
+      "onboard_time": 1746505642,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 60693,
       "num": 60693,
       "word": "七月初七淮水竹亭就此作罢",
@@ -1313,14 +1417,6 @@
       "onboard_time": 1746465198,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56191,
-      "num": 163519,
-      "word": "IVE复刻两年前的cha",
-      "onboard_time": 1746505642,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 53688,
@@ -1347,6 +1443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43525,
+      "num": 161807,
+      "word": "鸟届的处女座",
+      "onboard_time": 1746505824,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 42111,
       "num": 56343,
       "word": "百想",
@@ -1369,6 +1473,22 @@
       "onboard_time": 1746455962,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35430,
+      "num": 206997,
+      "word": "市监总局通报民用三表专项检查结果",
+      "onboard_time": 1746506543,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32255,
+      "num": 1264287,
+      "word": "五一ChinaTravel订单激增",
+      "onboard_time": 1746506243,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31298,
@@ -1427,6 +1547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15578,
+      "num": 352723,
+      "word": "恋与制作人微博漫展好温暖",
+      "onboard_time": 1746504082,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15131,
       "num": 70610,
       "word": "四川达州一小型汽车坠河致1人死亡",
@@ -1449,19 +1577,14 @@
       "onboard_time": 1746477674,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14300,
-      "num": 320854,
-      "word": "恋与制作人微博漫展好温暖",
-      "onboard_time": 1746504082,
-      "rank": 14,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚决克服麻痹思想狠抓工作落实#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }

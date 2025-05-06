@@ -1,0 +1,410 @@
+{
+  "runTime": 1746506720656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1941885,
+        "num": 1941885,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1711879,
+        "num": 1711879,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32255,
+        "num": 1264287,
+        "word": "五一ChinaTravel订单激增",
+        "onboard_time": 1746506243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927475,
+        "num": 927475,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 3,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 617827,
+        "num": 617827,
+        "word": "专家建议节后上班第一天少干活儿",
+        "onboard_time": 1746501021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616948,
+        "num": 616948,
+        "word": "腾讯视频五月大剧片单",
+        "onboard_time": 1746502222,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570471,
+        "num": 570471,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526342,
+        "num": 526342,
+        "word": "白敬亭潮牌质量",
+        "onboard_time": 1746497481,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514049,
+        "num": 514049,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360217,
+        "num": 360217,
+        "word": "赵心童解禁复出后49场47胜",
+        "onboard_time": 1746501141,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1083868,
+        "num": 359777,
+        "word": "刘强东回应凑鸡蛋上大学",
+        "onboard_time": 1746505943,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 835814,
+        "num": 356913,
+        "word": "家里最没用的把最有用的带走了",
+        "onboard_time": 1746503481,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450739,
+        "num": 355847,
+        "word": "月牙泉边周深和观众合唱小美满",
+        "onboard_time": 1746500961,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407134,
+        "num": 353002,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15578,
+        "num": 352723,
+        "word": "恋与制作人微博漫展好温暖",
+        "onboard_time": 1746504082,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 368438,
+        "num": 349156,
+        "word": "ddg 黄子弘凡",
+        "onboard_time": 1746505702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349050,
+        "num": 349050,
+        "word": "赵丽颖送粉丝限量版礼物",
+        "onboard_time": 1746500482,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309571,
+        "num": 309571,
+        "word": "老外带空箱子来中国买买买",
+        "onboard_time": 1746499041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244860,
+        "num": 280885,
+        "word": "25岁才感觉自己的人生刚刚开始",
+        "onboard_time": 1746503182,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215672,
+        "num": 276588,
+        "word": "谢娜生日和赵丽颖出道日是同一天",
+        "onboard_time": 1746506304,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419722,
+        "num": 276119,
+        "word": "胖东来 玉石",
+        "onboard_time": 1746495140,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274999,
+        "num": 274999,
+        "word": "我家的医生定档",
+        "onboard_time": 1746502700,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250192,
+        "num": 250192,
+        "word": "idle预告 抄袭",
+        "onboard_time": 1746488420,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232089,
+        "num": 232089,
+        "word": "王一博邓为周深唱响青春力量",
+        "onboard_time": 1746500001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121657,
+        "num": 216499,
+        "word": "亚洲新声首发阵容官宣",
+        "onboard_time": 1746505161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216263,
+        "num": 216263,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "星穹铁道",
+        "onboard_time": 1746506243,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61202,
+        "num": 209943,
+        "word": "IVE复刻两年前的cha",
+        "onboard_time": 1746505642,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35430,
+        "num": 206997,
+        "word": "市监总局通报民用三表专项检查结果",
+        "onboard_time": 1746506543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185536,
+        "num": 205967,
+        "word": "戈登三分绝杀雷霆",
+        "onboard_time": 1746506543,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69469,
+        "num": 204890,
+        "word": "陕西省台球协会向赵心童发来贺信",
+        "onboard_time": 1746505824,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155763,
+        "num": 202555,
+        "word": "戈登隔扣霍姆格伦",
+        "onboard_time": 1746506063,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201802,
+        "num": 201802,
+        "word": "淘宝答案",
+        "onboard_time": 1746506003,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197760,
+        "num": 197760,
+        "word": "美教授称新冠起源于美国",
+        "onboard_time": 1746505763,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176556,
+        "num": 176556,
+        "word": "羽毛球涨价中产都要打不起了",
+        "onboard_time": 1746500841,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179764,
+        "num": 175941,
+        "word": "侵权肖战商家被强执20万",
+        "onboard_time": 1746506543,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171840,
+        "num": 171840,
+        "word": "淘宝奶茶免单",
+        "onboard_time": 1746492441,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168045,
+        "num": 168045,
+        "word": "赵心童邀请女朋友上台",
+        "onboard_time": 1746487759,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166934,
+        "num": 166934,
+        "word": "白厄立绘",
+        "onboard_time": 1746505883,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43525,
+        "num": 161807,
+        "word": "鸟届的处女座",
+        "onboard_time": 1746505824,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 161623,
+        "word": "张娜拉陪跑",
+        "onboard_time": 1746493462,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158572,
+        "num": 158572,
+        "word": "为什么小时候听不进去历史课",
+        "onboard_time": 1746506184,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147198,
+        "num": 147198,
+        "word": "胖东来官网维护升级暂停开放",
+        "onboard_time": 1746504800,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147089,
+        "num": 147089,
+        "word": "张小婉这世界上不会有人不爱谢娜",
+        "onboard_time": 1746502461,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146003,
+        "num": 146003,
+        "word": "肖战胜诉获赔20万",
+        "onboard_time": 1746506543,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144878,
+        "num": 144878,
+        "word": "一条产妇信息售价50元",
+        "onboard_time": 1746499641,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108833,
+        "num": 141234,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138486,
+        "num": 138486,
+        "word": "这就是顶级水课老师吗",
+        "onboard_time": 1746502581,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138056,
+        "num": 138056,
+        "word": "金价再爆发",
+        "onboard_time": 1746496881,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135593,
+        "num": 135593,
+        "word": "刘雯G社镜头",
+        "onboard_time": 1746499760,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
