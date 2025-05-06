@@ -1,10 +1,10 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746538621741,
+  "endTime": 1746539298961,
   "band_list": [
     {
-      "raw_hot": 2934932,
-      "num": 2934932,
+      "raw_hot": 3079052,
+      "num": 3079052,
       "word": "刘畊宏方已报警",
       "onboard_time": 1746534561,
       "rank": 0,
@@ -331,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647371,
+      "num": 493919,
+      "word": "韩安冉妈妈去当老师了",
+      "onboard_time": 1746534201,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 614297,
       "num": 614297,
       "word": "丁俊晖",
       "onboard_time": 1746459322,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 609524,
-      "num": 451049,
-      "word": "韩安冉妈妈去当老师了",
-      "onboard_time": 1746534201,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 600716,
@@ -361,6 +361,14 @@
       "onboard_time": 1746507082,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 589717,
+      "num": 589717,
+      "word": "一世喜乐",
+      "onboard_time": 1746538102,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 578614,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 438341,
-      "num": 384137,
+      "num": 420888,
       "word": "郑恺李昀锐打网球",
       "onboard_time": 1746536904,
       "rank": 16,
@@ -569,6 +577,14 @@
       "onboard_time": 1746512541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433891,
+      "num": 433891,
+      "word": "何洁说20年前不懂珍惜",
+      "onboard_time": 1746534622,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 431183,
@@ -657,14 +673,6 @@
       "onboard_time": 1746532341,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386937,
-      "num": 386937,
-      "word": "何洁说20年前不懂珍惜",
-      "onboard_time": 1746534622,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 383116,
@@ -875,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298262,
-      "num": 298262,
-      "word": "一世喜乐",
-      "onboard_time": 1746538102,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297614,
       "num": 356754,
       "word": "王一博邓为周深唱响青春力量",
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 261629,
-      "num": 261629,
+      "num": 350715,
       "word": "女生卖账号被用于色情诈骗",
       "onboard_time": 1746532401,
       "rank": 35,
@@ -1083,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248146,
+      "num": 280972,
+      "word": "李昀锐关晓彤新剧5月10日开机",
+      "onboard_time": 1746538102,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247419,
       "num": 280885,
       "word": "25岁才感觉自己的人生刚刚开始",
@@ -1123,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242389,
+      "num": 242389,
+      "word": "张凌赫直播",
+      "onboard_time": 1746538824,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242362,
       "num": 135723,
       "word": "石凯 全员加速中",
@@ -1147,12 +1163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233243,
-      "num": 280972,
-      "word": "李昀锐关晓彤新剧5月10日开机",
+      "raw_hot": 233622,
+      "num": 509321,
+      "word": "国新办发布会预告",
       "onboard_time": 1746538102,
-      "rank": 25,
-      "category": "剧集"
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232355,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1746455065,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 222927,
+      "num": 262462,
+      "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+      "onboard_time": 1746537384,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218778,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1746502461,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214872,
-      "num": 459363,
-      "word": "国新办发布会预告",
-      "onboard_time": 1746538102,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 210047,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1746489081,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190176,
+      "num": 243286,
+      "word": "风月不相关明日官宣",
+      "onboard_time": 1746538883,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 189376,
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165309,
+      "num": 165309,
+      "word": "剑来",
+      "onboard_time": 1746538102,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165276,
       "num": 302590,
       "word": "毕节警方回应男子在社区拐带儿童",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1746506184,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157372,
-      "num": 157372,
-      "word": "剑来",
-      "onboard_time": 1746538102,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 156683,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1746515182,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152339,
+      "num": 380287,
+      "word": "公交司机被投诉不让老年卡乘客就坐",
+      "onboard_time": 1746537083,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151746,
@@ -2379,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128809,
+      "num": 128809,
+      "word": "柴怼怼回应被曝销售染色玉镯",
+      "onboard_time": 1746536782,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128783,
       "num": 187855,
       "word": "30人炒股群29个是托",
@@ -2507,14 +2547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125701,
-      "num": 125701,
-      "word": "柴怼怼回应被曝销售染色玉镯",
-      "onboard_time": 1746536782,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125650,
       "num": 125650,
       "word": "开盘半小时两市放量超500亿",
@@ -2595,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122040,
+      "num": 122040,
+      "word": "魔卡少女樱知世黑化了",
+      "onboard_time": 1746539123,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120751,
       "num": 120751,
       "word": "孙俪不俗地演俗人",
@@ -2603,20 +2643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119216,
-      "num": 262462,
-      "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
-      "onboard_time": 1746537384,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118505,
       "num": 118505,
       "word": "女生晒照被网友看出血管瘤",
       "onboard_time": 1746435862,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118182,
+      "num": 118182,
+      "word": "教大家如何分辨视频是不是摆拍",
+      "onboard_time": 1746539003,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118105,
@@ -2649,6 +2689,14 @@
       "onboard_time": 1746528261,
       "rank": 47,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 115237,
+      "num": 115237,
+      "word": "内耗型人格的典型表现",
+      "onboard_time": 1746535764,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 115190,
@@ -2697,14 +2745,6 @@
       "onboard_time": 1746508822,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110855,
-      "num": 110855,
-      "word": "内耗型人格的典型表现",
-      "onboard_time": 1746535764,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 109706,
@@ -2761,6 +2801,14 @@
       "onboard_time": 1746526582,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104925,
+      "num": 381506,
+      "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+      "onboard_time": 1746538222,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103463,
@@ -3003,11 +3051,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68178,
-      "num": 381506,
-      "word": "男性确诊子宫肌瘤侮辱了谁的智商",
-      "onboard_time": 1746538222,
-      "rank": 17,
+      "raw_hot": 68537,
+      "num": 394078,
+      "word": "期刊成立专班调查妇科论文现男病例",
+      "onboard_time": 1746537262,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -3099,19 +3147,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60308,
-      "num": 394078,
-      "word": "期刊成立专班调查妇科论文现男病例",
-      "onboard_time": 1746537262,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 59879,
       "num": 313565,
       "word": "和府捞面宣称中式面馆第一品牌被罚",
       "onboard_time": 1746518662,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58029,
+      "num": 232515,
+      "word": "逆行撞摩托车的保时捷挂的是装饰牌",
+      "onboard_time": 1746538703,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3155,20 +3203,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53316,
-      "num": 380287,
-      "word": "公交司机被投诉不让老年卡乘客就坐",
-      "onboard_time": 1746537083,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51807,
       "num": 138944,
       "word": "医院精子定制大多是欺诈",
       "onboard_time": 1746524481,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 51478,
+      "num": 1313265,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50957,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1746505824,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 43482,
-      "num": 1313265,
-      "word": "九张图带你了解俄罗斯",
-      "onboard_time": 1746536363,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42111,
@@ -3459,6 +3499,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 21211,
+      "num": 268034,
+      "word": "干涸的切纳布河基本都在印度",
+      "onboard_time": 1746537742,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20519,
       "num": 169921,
       "word": "倪夏莲顺利完成手术",
@@ -3497,14 +3545,6 @@
       "onboard_time": 1746487939,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16043,
-      "num": 268034,
-      "word": "干涸的切纳布河基本都在印度",
-      "onboard_time": 1746537742,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 15591,

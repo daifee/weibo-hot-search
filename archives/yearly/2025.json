@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746538621741,
+  "endTime": 1746539298961,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2379,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3079052,
+      "num": 3079052,
+      "word": "刘畊宏方已报警",
+      "onboard_time": 1746534561,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3068014,
       "num": 3068014,
       "word": "躲春",
@@ -2392,14 +2400,6 @@
       "word": "白鹿红包",
       "onboard_time": 1738061184,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3045867,
-      "num": 287525,
-      "word": "甜馨 出道",
-      "onboard_time": 1743669022,
-      "rank": 10,
       "category": "艺人"
     }
   ],
