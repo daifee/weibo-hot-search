@@ -1,0 +1,410 @@
+{
+  "runTime": 1746553239400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605012,
+        "num": 605012,
+        "word": "斯凯奇宣布退市",
+        "onboard_time": 1746539842,
+        "rank": 0,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 470858,
+        "num": 470858,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 306612,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224479,
+        "num": 224479,
+        "word": "211",
+        "onboard_time": 1746539603,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139841,
+        "num": 139841,
+        "word": "女生卖账号被用于色情诈骗",
+        "onboard_time": 1746532401,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "美国76家鞋企联名求救",
+        "onboard_time": 1746545302,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126100,
+        "num": 126100,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115451,
+        "num": 115451,
+        "word": "皓衣行",
+        "onboard_time": 1746544581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114061,
+        "num": 114061,
+        "word": "上海独居女生为陌生女性提供免费住宿",
+        "onboard_time": 1746541884,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93901,
+        "num": 93901,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336114,
+        "num": 92021,
+        "word": "店主对抽烟顾客说这次免单以后别来了",
+        "onboard_time": 1746545302,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136623,
+        "num": 90811,
+        "word": "高斯 女朋友",
+        "onboard_time": 1746543204,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125557,
+        "num": 90053,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89173,
+        "num": 89173,
+        "word": "宁艺卓ELLE",
+        "onboard_time": 1746545182,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 77473,
+        "num": 77473,
+        "word": "TheShy五杀",
+        "onboard_time": 1746539603,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77103,
+        "num": 77103,
+        "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+        "onboard_time": 1746537384,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76229,
+        "num": 76229,
+        "word": "王一博19年拍的撕拉片",
+        "onboard_time": 1746534741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75838,
+        "num": 75838,
+        "word": "蛇钞",
+        "onboard_time": 1746544702,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75548,
+        "num": 75548,
+        "word": "张杰被中奖的粉丝整破防了",
+        "onboard_time": 1746541343,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75371,
+        "num": 75371,
+        "word": "没想到在博物馆吃饱了",
+        "onboard_time": 1746549858,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155883,
+        "num": 73909,
+        "word": "长期熬夜的人长得更着急",
+        "onboard_time": 1746546560,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69058,
+        "num": 69058,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62218,
+        "num": 62218,
+        "word": "肖战立下的flag你还记得吗",
+        "onboard_time": 1746548060,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52406,
+        "num": 52406,
+        "word": "手上这种小水泡千万别挠破",
+        "onboard_time": 1746543864,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51858,
+        "num": 51858,
+        "word": "虞书欣23年的存图",
+        "onboard_time": 1746536181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51543,
+        "num": 51543,
+        "word": "何洁说20年前不懂珍惜",
+        "onboard_time": 1746534622,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50788,
+        "num": 50788,
+        "word": "外贸企业说世界之大不只有美国",
+        "onboard_time": 1746548000,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48949,
+        "num": 48949,
+        "word": "撕拉人",
+        "onboard_time": 1746546141,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45821,
+        "num": 45821,
+        "word": "中国锅做的牛排把老外香迷糊了",
+        "onboard_time": 1746541343,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42003,
+        "num": 44764,
+        "word": "中方强烈谴责美中情局招募间谍",
+        "onboard_time": 1746529941,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47785,
+        "num": 44680,
+        "word": "韩安冉妈妈去当老师了",
+        "onboard_time": 1746534201,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44358,
+        "num": 44358,
+        "word": "朴彩英晚宴出发造型",
+        "onboard_time": 1746546681,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42204,
+        "num": 42204,
+        "word": "坚持喝陈皮苹果3个月",
+        "onboard_time": 1746532462,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 42091,
+        "num": 42091,
+        "word": "歌手",
+        "onboard_time": 1746544882,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41135,
+        "num": 41135,
+        "word": "烽火流金",
+        "onboard_time": 1746539962,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41035,
+        "num": 41035,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40231,
+        "num": 40231,
+        "word": "德国新一任总理默茨",
+        "onboard_time": 1746543026,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39431,
+        "num": 39431,
+        "word": "GTA6第二支预告",
+        "onboard_time": 1746547400,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38900,
+        "num": 38900,
+        "word": "默茨未能当选德国总理",
+        "onboard_time": 1746539663,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32858,
+        "num": 38596,
+        "word": "河南一厂家回应零食中吃出烟头",
+        "onboard_time": 1746543265,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38389,
+        "num": 38389,
+        "word": "李昀锐关晓彤新剧5月10日开机",
+        "onboard_time": 1746538102,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32814,
+        "num": 38346,
+        "word": "特朗普说他知道谁炸了北溪",
+        "onboard_time": 1746539483,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32391,
+        "num": 38257,
+        "word": "特朗普承认不排除任期内经济萎缩",
+        "onboard_time": 1746543864,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30365,
+        "num": 38119,
+        "word": "张凌赫直播",
+        "onboard_time": 1746538824,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29910,
+        "num": 37959,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29010,
+        "num": 37878,
+        "word": "GTA6",
+        "onboard_time": 1746543743,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28888,
+        "num": 37726,
+        "word": "IG对战TT",
+        "onboard_time": 1746543743,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28772,
+        "num": 37705,
+        "word": "郑恺李昀锐打网球",
+        "onboard_time": 1746536904,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28629,
+        "num": 37565,
+        "word": "心形纪念币上新了",
+        "onboard_time": 1746542004,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26798,
+        "num": 37392,
+        "word": "男子称54岁父亲在医院输液后身亡",
+        "onboard_time": 1746543444,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}

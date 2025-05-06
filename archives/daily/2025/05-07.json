@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746552165404,
+  "endTime": 1746553239400,
   "band_list": [
     {
       "raw_hot": 1752991,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75371,
+      "num": 140247,
+      "word": "没想到在博物馆吃饱了",
+      "onboard_time": 1746549858,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72955,
       "num": 72955,
       "word": "刘诗诗今天认识了好多漂亮的花花",
@@ -411,12 +419,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 51474,
-      "num": 140247,
-      "word": "没想到在博物馆吃饱了",
-      "onboard_time": 1746549858,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 32814,
+      "num": 38346,
+      "word": "特朗普说他知道谁炸了北溪",
+      "onboard_time": 1746539483,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32617,
@@ -425,6 +433,14 @@
       "onboard_time": 1746551477,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28888,
+      "num": 37726,
+      "word": "IG对战TT",
+      "onboard_time": 1746543743,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 27405,
@@ -438,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#健康稳定的中欧关系成就彼此照亮世界#"
+    },
+    {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
     }
   ]
 }
