@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746488384841,
+  "endTime": 1746496608750,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -113,6 +113,14 @@
       "onboard_time": 1746435321,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1701684,
+      "num": 1701684,
+      "word": "疯狂小杨哥露面",
+      "onboard_time": 1746493401,
+      "rank": 0,
+      "category": "网红,综艺"
     },
     {
       "raw_hot": 1652308,
@@ -427,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 896564,
+      "num": 896564,
+      "word": "多篇妇产科论文出现男性患者",
+      "onboard_time": 1746493341,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 874391,
       "num": 874391,
       "word": "游客吐槽天津一奶茶品牌包装有不雅字",
@@ -563,8 +579,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 768835,
+      "num": 685759,
+      "word": "山东滕州车祸肇事司机被控制",
+      "onboard_time": 1746492201,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 760794,
-      "num": 183316,
+      "num": 232513,
       "word": "身上这种小红点可能是血管瘤",
       "onboard_time": 1746480615,
       "rank": 30,
@@ -633,6 +657,14 @@
       "onboard_time": 1746449601,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 730669,
+      "num": 730669,
+      "word": "张娜拉陪跑",
+      "onboard_time": 1746493462,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 722009,
@@ -1003,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 535577,
+      "num": 535577,
+      "word": "赵心童邀请女朋友上台",
+      "onboard_time": 1746487759,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530526,
       "num": 269454,
       "word": "千万不要用卫生纸擦眼镜",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1746331040,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 526043,
+      "num": 276584,
+      "word": "黄金",
+      "onboard_time": 1746494962,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 525963,
@@ -1267,6 +1315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 471700,
+      "num": 471700,
+      "word": "朴宝剑李惠利四宫格合照",
+      "onboard_time": 1746489260,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470252,
       "num": 470252,
       "word": "赵朔称悟空定位器20分钟断网",
@@ -1491,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 399049,
+      "num": 399049,
+      "word": "idle预告 抄袭",
+      "onboard_time": 1746488420,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 397588,
       "num": 405805,
       "word": "陈铭谈奇葩说停播原因",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1746370105,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 395322,
+      "num": 348359,
+      "word": "赵心童感谢丁俊晖铺路",
+      "onboard_time": 1746494360,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 395141,
@@ -1540,7 +1612,7 @@
     },
     {
       "raw_hot": 389664,
-      "num": 314141,
+      "num": 348180,
       "word": "特朗普继续开辟关税新战场",
       "onboard_time": 1746485358,
       "rank": 12,
@@ -1579,6 +1651,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 385520,
+      "num": 348343,
+      "word": "上海虹桥高铁站又现拦门事件",
+      "onboard_time": 1746493942,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384682,
       "num": 360355,
       "word": "允儿跳likejennie",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1746452903,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 380590,
+      "num": 272205,
+      "word": "长胖其实是有滞后性的",
+      "onboard_time": 1746494780,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 378874,
@@ -1705,6 +1793,14 @@
       "onboard_time": 1746433281,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348436,
+      "num": 348436,
+      "word": "五一假期后第1个工作日",
+      "onboard_time": 1746489741,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348019,
@@ -1937,6 +2033,14 @@
       "onboard_time": 1746333021,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311404,
+      "num": 311404,
+      "word": "西安一男子当街踢打妻子引公愤",
+      "onboard_time": 1746488059,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309757,
@@ -2185,6 +2289,14 @@
       "onboard_time": 1746352403,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266962,
+      "num": 266962,
+      "word": "蕾哈娜挺孕肚现身",
+      "onboard_time": 1746494962,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 266066,
@@ -2571,6 +2683,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 222154,
+      "num": 222154,
+      "word": "被林瀚挂的素人网友已报警",
+      "onboard_time": 1746494360,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 221963,
       "num": 329645,
       "word": "薛小婉任权要领证了",
@@ -2747,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209431,
+      "num": 209431,
+      "word": "胖东来 玉石",
+      "onboard_time": 1746495140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209359,
       "num": 209359,
       "word": "丁俊晖祝贺赵心童",
@@ -2913,6 +3041,14 @@
       "onboard_time": 1746367285,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206358,
+      "num": 206358,
+      "word": "淘宝奶茶免单",
+      "onboard_time": 1746492441,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 206223,
@@ -3371,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190470,
+      "num": 190470,
+      "word": "江西一副县长建七兄弟吃喝圈",
+      "onboard_time": 1746489081,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190170,
       "num": 190170,
       "word": "DRG一穿四晋级春决",
@@ -3515,14 +3659,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 183262,
-      "num": 301424,
-      "word": "赵心童邀请女朋友上台",
-      "onboard_time": 1746487759,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183123,
       "num": 183123,
       "word": "一觉醒来斯诺克历史被中国人刷新",
@@ -3592,6 +3728,14 @@
       "word": "老板回应荣昌扯面大叔表情失控",
       "onboard_time": 1746363625,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179465,
+      "num": 179465,
+      "word": "当代人有自己的八百里加急",
+      "onboard_time": 1746496042,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3851,6 +3995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169636,
+      "num": 191902,
+      "word": "芒果待播节目 石凯镜头",
+      "onboard_time": 1746487279,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168483,
       "num": 257179,
       "word": "以军拦截胡塞武装导弹失败",
@@ -3971,6 +4123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164697,
+      "num": 164697,
+      "word": "中国人从斯诺克4强变冠军",
+      "onboard_time": 1746494481,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164469,
       "num": 164469,
       "word": "叶童回应62岁还被喊许仙",
@@ -4001,6 +4161,14 @@
       "onboard_time": 1746417021,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163924,
+      "num": 163924,
+      "word": "崔胜澈Metgala生图",
+      "onboard_time": 1746496400,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 163793,
@@ -4283,11 +4451,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154697,
+      "num": 153592,
+      "word": "赵心童世界排名升至第11",
+      "onboard_time": 1746491902,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154352,
       "num": 187721,
       "word": "周峻纬吃播",
       "onboard_time": 1746343761,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154049,
+      "num": 154049,
+      "word": "田曦薇真不把我们当外人",
+      "onboard_time": 1746487759,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -4321,6 +4505,14 @@
       "onboard_time": 1746356960,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153127,
+      "num": 153127,
+      "word": "本周上4休2",
+      "onboard_time": 1746493581,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152976,
@@ -4377,6 +4569,14 @@
       "onboard_time": 1746457944,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151268,
+      "num": 348232,
+      "word": "赵心童发博庆祝夺冠",
+      "onboard_time": 1746495919,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 151034,
@@ -4459,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149796,
+      "num": 149796,
+      "word": "朴彩英出席Met Gala",
+      "onboard_time": 1746490222,
+      "rank": 42,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 149468,
       "num": 96585,
       "word": "贺峻霖来电了",
@@ -4537,14 +4745,6 @@
       "onboard_time": 1746377301,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147129,
-      "num": 147129,
-      "word": "芒果待播节目 石凯镜头",
-      "onboard_time": 1746487279,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 147094,
@@ -4696,6 +4896,14 @@
       "word": "日本偶遇金靖夫妇",
       "onboard_time": 1746358341,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141859,
+      "num": 141859,
+      "word": "Jennie人间香奈儿",
+      "onboard_time": 1746496221,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -4923,6 +5131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 138335,
+      "num": 138335,
+      "word": "鱿鱼游戏3预告",
+      "onboard_time": 1746496460,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138104,
       "num": 138104,
       "word": "西安雷雨夜空现条状不明物",
@@ -4971,12 +5187,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136535,
+      "num": 136535,
+      "word": "家暴目击者回应只拍视频不上前帮忙",
+      "onboard_time": 1746490162,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136339,
       "num": 136339,
       "word": "王鹤棣副驾视角开车",
       "onboard_time": 1746450142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136266,
+      "num": 136266,
+      "word": "婚礼接亲路上偶遇大国重器",
+      "onboard_time": 1746490402,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 136160,
@@ -5123,6 +5355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131431,
+      "num": 131431,
+      "word": "Rihanna官宣怀三胎",
+      "onboard_time": 1746496581,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131195,
       "num": 131195,
       "word": "作家周晴病逝",
@@ -5169,6 +5409,14 @@
       "onboard_time": 1746429681,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "丁俊晖为赵心童夺冠感到骄傲",
+      "onboard_time": 1746495561,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130393,
@@ -5505,6 +5753,14 @@
       "onboard_time": 1746414080,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121782,
+      "num": 164114,
+      "word": "男性确诊子宫肌瘤论文作者被记过",
+      "onboard_time": 1746490162,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 121432,
@@ -5985,6 +6241,14 @@
       "onboard_time": 1746337280,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108301,
+      "num": 128099,
+      "word": "谢娜44岁了",
+      "onboard_time": 1746492981,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 107860,
@@ -6859,14 +7123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75726,
-      "num": 75726,
-      "word": "西安一男子当街踢打妻子引公愤",
-      "onboard_time": 1746488059,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75609,
       "num": 75609,
       "word": "淮水竹亭纯恨反派玩纯爱",
@@ -6985,14 +7241,6 @@
       "onboard_time": 1746314658,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67183,
-      "num": 67183,
-      "word": "田曦薇真不把我们当外人",
-      "onboard_time": 1746487759,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 66322,
@@ -7713,6 +7961,14 @@
       "onboard_time": 1746297076,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26011,
+      "num": 225682,
+      "word": "伯克希尔跌超5%",
+      "onboard_time": 1746490641,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 25993,

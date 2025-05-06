@@ -1,0 +1,410 @@
+{
+  "runTime": 1746496608750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701684,
+        "num": 1701684,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 0,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 1207378,
+        "num": 1207378,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186348,
+        "num": 1041740,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 896564,
+        "num": 896564,
+        "word": "多篇妇产科论文出现男性患者",
+        "onboard_time": 1746493341,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 730669,
+        "num": 730669,
+        "word": "张娜拉陪跑",
+        "onboard_time": 1746493462,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768835,
+        "num": 685759,
+        "word": "山东滕州车祸肇事司机被控制",
+        "onboard_time": 1746492201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535577,
+        "num": 535577,
+        "word": "赵心童邀请女朋友上台",
+        "onboard_time": 1746487759,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471700,
+        "num": 471700,
+        "word": "朴宝剑李惠利四宫格合照",
+        "onboard_time": 1746489260,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399049,
+        "num": 399049,
+        "word": "idle预告 抄袭",
+        "onboard_time": 1746488420,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348436,
+        "num": 348436,
+        "word": "五一假期后第1个工作日",
+        "onboard_time": 1746489741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513639,
+        "num": 348414,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395322,
+        "num": 348359,
+        "word": "赵心童感谢丁俊晖铺路",
+        "onboard_time": 1746494360,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385520,
+        "num": 348343,
+        "word": "上海虹桥高铁站又现拦门事件",
+        "onboard_time": 1746493942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378823,
+        "num": 348256,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151268,
+        "num": 348232,
+        "word": "赵心童发博庆祝夺冠",
+        "onboard_time": 1746495919,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356620,
+        "num": 348180,
+        "word": "特朗普继续开辟关税新战场",
+        "onboard_time": 1746485358,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348164,
+        "num": 348164,
+        "word": "金泰梨二封百想视后",
+        "onboard_time": 1746456504,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334964,
+        "num": 334964,
+        "word": "短剧女演员杨珊子拍戏遇极端天气",
+        "onboard_time": 1746459081,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311404,
+        "num": 311404,
+        "word": "西安一男子当街踢打妻子引公愤",
+        "onboard_time": 1746488059,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279636,
+        "num": 279636,
+        "word": "订8万婚宴被酒店经理私吞4.5万",
+        "onboard_time": 1746468197,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526043,
+        "num": 276584,
+        "word": "黄金",
+        "onboard_time": 1746494962,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 380590,
+        "num": 272205,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266962,
+        "num": 266962,
+        "word": "蕾哈娜挺孕肚现身",
+        "onboard_time": 1746494962,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232513,
+        "num": 232513,
+        "word": "身上这种小红点可能是血管瘤",
+        "onboard_time": 1746480615,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26011,
+        "num": 225682,
+        "word": "伯克希尔跌超5%",
+        "onboard_time": 1746490641,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222154,
+        "num": 222154,
+        "word": "被林瀚挂的素人网友已报警",
+        "onboard_time": 1746494360,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209431,
+        "num": 209431,
+        "word": "胖东来 玉石",
+        "onboard_time": 1746495140,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206358,
+        "num": 206358,
+        "word": "淘宝奶茶免单",
+        "onboard_time": 1746492441,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195163,
+        "num": 195163,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169636,
+        "num": 191902,
+        "word": "芒果待播节目 石凯镜头",
+        "onboard_time": 1746487279,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190470,
+        "num": 190470,
+        "word": "江西一副县长建七兄弟吃喝圈",
+        "onboard_time": 1746489081,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179465,
+        "num": 179465,
+        "word": "当代人有自己的八百里加急",
+        "onboard_time": 1746496042,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177677,
+        "num": 177677,
+        "word": "MetGala",
+        "onboard_time": 1746487279,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 164697,
+        "num": 164697,
+        "word": "中国人从斯诺克4强变冠军",
+        "onboard_time": 1746494481,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121782,
+        "num": 164114,
+        "word": "男性确诊子宫肌瘤论文作者被记过",
+        "onboard_time": 1746490162,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163924,
+        "num": 163924,
+        "word": "崔胜澈Metgala生图",
+        "onboard_time": 1746496400,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "赵心童夺世锦赛冠军",
+        "onboard_time": 1746474616,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162223,
+        "num": 162223,
+        "word": "丁俊晖",
+        "onboard_time": 1746459322,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160916,
+        "num": 160916,
+        "word": "张杰直播为谢娜庆生",
+        "onboard_time": 1746486499,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154049,
+        "num": 154049,
+        "word": "田曦薇真不把我们当外人",
+        "onboard_time": 1746487759,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154697,
+        "num": 153592,
+        "word": "赵心童世界排名升至第11",
+        "onboard_time": 1746491902,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153127,
+        "num": 153127,
+        "word": "本周上4休2",
+        "onboard_time": 1746493581,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 149796,
+        "word": "朴彩英出席Met Gala",
+        "onboard_time": 1746490222,
+        "rank": 42,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 141859,
+        "word": "Jennie人间香奈儿",
+        "onboard_time": 1746496221,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138335,
+        "num": 138335,
+        "word": "鱿鱼游戏3预告",
+        "onboard_time": 1746496460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136535,
+        "num": 136535,
+        "word": "家暴目击者回应只拍视频不上前帮忙",
+        "onboard_time": 1746490162,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136266,
+        "num": 136266,
+        "word": "婚礼接亲路上偶遇大国重器",
+        "onboard_time": 1746490402,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 131431,
+        "num": 131431,
+        "word": "Rihanna官宣怀三胎",
+        "onboard_time": 1746496581,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "丁俊晖为赵心童夺冠感到骄傲",
+        "onboard_time": 1746495561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108301,
+        "num": 128099,
+        "word": "谢娜44岁了",
+        "onboard_time": 1746492981,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
