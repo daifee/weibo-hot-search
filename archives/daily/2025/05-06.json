@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746545596238,
+  "endTime": 1746546349906,
   "band_list": [
     {
       "raw_hot": 3931337,
@@ -515,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 519558,
+      "num": 519558,
+      "word": "皓衣行",
+      "onboard_time": 1746544581,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514258,
       "num": 514258,
       "word": "歌手2025",
@@ -691,6 +699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398803,
+      "num": 398803,
+      "word": "店主对抽烟顾客说这次免单以后别来了",
+      "onboard_time": 1746545302,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397506,
       "num": 397506,
       "word": "王一博19年拍的撕拉片",
@@ -713,14 +729,6 @@
       "onboard_time": 1746485358,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 388724,
-      "num": 388724,
-      "word": "皓衣行",
-      "onboard_time": 1746544581,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 387599,
@@ -841,6 +849,14 @@
       "onboard_time": 1746515182,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333642,
+      "num": 333642,
+      "word": "高斯 女朋友",
+      "onboard_time": 1746543204,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 333550,
@@ -995,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289119,
+      "num": 477605,
+      "word": "美国76家鞋企联名求救",
+      "onboard_time": 1746545302,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 286705,
       "num": 286705,
       "word": "朱婷汪顺丁宁等获评国家级教练职称",
@@ -1067,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 272020,
-      "num": 272020,
-      "word": "高斯 女朋友",
-      "onboard_time": 1746543204,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "赵心童17比8拿到冠军点",
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 270633,
-      "num": 438237,
+      "num": 486154,
       "word": "中国锅做的牛排把老外香迷糊了",
       "onboard_time": 1746541343,
       "rank": 23,
@@ -1180,7 +1196,7 @@
     },
     {
       "raw_hot": 254083,
-      "num": 292016,
+      "num": 496119,
       "word": "德国新一任总理默茨",
       "onboard_time": 1746543026,
       "rank": 19,
@@ -1459,12 +1475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206659,
-      "num": 344323,
-      "word": "美国76家鞋企联名求救",
-      "onboard_time": 1746545302,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 205702,
+      "num": 205702,
+      "word": "歌手",
+      "onboard_time": 1746544882,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 205650,
@@ -1492,7 +1508,7 @@
     },
     {
       "raw_hot": 205302,
-      "num": 293129,
+      "num": 333007,
       "word": "心形纪念币上新了",
       "onboard_time": 1746542004,
       "rank": 26,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1746539663,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "宁艺卓ELLE",
+      "onboard_time": 1746545182,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 204587,
@@ -1555,28 +1579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199568,
-      "num": 199568,
-      "word": "歌手",
-      "onboard_time": 1746544882,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198889,
       "num": 198889,
       "word": "这种网红玩具正在毒害你的孩子",
       "onboard_time": 1746455121,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198737,
-      "num": 198737,
-      "word": "宁艺卓ELLE",
-      "onboard_time": 1746545182,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198558,
@@ -1753,14 +1761,6 @@
       "onboard_time": 1746538222,
       "rank": 17,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 183572,
-      "num": 183572,
-      "word": "店主对抽烟顾客说这次免单以后别来了",
-      "onboard_time": 1746545302,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183123,
@@ -2292,7 +2292,7 @@
     },
     {
       "raw_hot": 152918,
-      "num": 161492,
+      "num": 332965,
       "word": "河南一厂家回应零食中吃出烟头",
       "onboard_time": 1746543265,
       "rank": 39,
@@ -2771,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127297,
+      "num": 127297,
+      "word": "撕拉人",
+      "onboard_time": 1746546141,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127022,
       "num": 127022,
       "word": "男子过太姥山一线天肚子磨通红",
@@ -3091,6 +3099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109387,
+      "num": 109387,
+      "word": "火象星座需要引导型的爱",
+      "onboard_time": 1746545243,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108301,
       "num": 128099,
       "word": "谢娜44岁了",
@@ -3363,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72480,
+      "num": 1822387,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70817,
       "num": 194792,
       "word": "克里姆林宫红墙外的无名烈士墓",
@@ -3425,14 +3449,6 @@
       "onboard_time": 1746480434,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67258,
-      "num": 1822387,
-      "word": "九张图带你了解俄罗斯",
-      "onboard_time": 1746536363,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66698,
@@ -3729,6 +3745,14 @@
       "onboard_time": 1746506543,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34018,
+      "num": 177832,
+      "word": "跳水奥运冠军集体挑战反应力",
+      "onboard_time": 1746545962,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 33939,
