@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746501206644,
+  "endTime": 1746502100335,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -897,6 +897,14 @@
       "onboard_time": 1746262820,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1010816,
+      "num": 1010816,
+      "word": "质子之争",
+      "onboard_time": 1746501080,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 1007173,
@@ -2187,6 +2195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 576939,
+      "num": 576939,
+      "word": "老外带空箱子来中国买买买",
+      "onboard_time": 1746499041,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576530,
       "num": 576530,
       "word": "年轻人开始流行旅游摆摊了",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1746068899,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 474511,
+      "num": 474511,
+      "word": "五一假期国内3.14亿人次出游",
+      "onboard_time": 1746497120,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474316,
@@ -3707,14 +3731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372405,
-      "num": 372405,
-      "word": "五一假期国内3.14亿人次出游",
-      "onboard_time": 1746497120,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371550,
       "num": 235742,
       "word": "孙怡吃了三天过敏药才敢染红发",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1746275121,
       "rank": 13,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 365074,
+      "num": 365074,
+      "word": "赵丽颖送粉丝限量版礼物",
+      "onboard_time": 1746500482,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 364600,
@@ -4091,14 +4115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 334166,
-      "num": 334166,
-      "word": "老外带空箱子来中国买买买",
-      "onboard_time": 1746499041,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333938,
       "num": 333938,
       "word": "苏杯中国vs韩国",
@@ -4281,6 +4297,14 @@
       "onboard_time": 1746447320,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320965,
+      "num": 320965,
+      "word": "刘雯G社镜头",
+      "onboard_time": 1746499760,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 320087,
@@ -4659,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297614,
+      "num": 297614,
+      "word": "王一博邓为周深唱响青春力量",
+      "onboard_time": 1746500001,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297403,
       "num": 291881,
       "word": "弃养父亲病逝儿子与继母争遗产",
@@ -4969,6 +5001,14 @@
       "onboard_time": 1746251242,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 269783,
+      "num": 269783,
+      "word": "金价再爆发",
+      "onboard_time": 1746496881,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 269657,
@@ -5355,14 +5395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251224,
-      "num": 251224,
-      "word": "刘雯G社镜头",
-      "onboard_time": 1746499760,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251122,
       "num": 238102,
       "word": "谁家剧一次集齐四个疯批",
@@ -5515,14 +5547,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 244555,
-      "num": 228475,
-      "word": "金价再爆发",
-      "onboard_time": 1746496881,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 244109,
       "num": 244109,
       "word": "淘宝奶茶免单",
@@ -5537,6 +5561,14 @@
       "onboard_time": 1746183270,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 243964,
+      "num": 243964,
+      "word": "月牙泉边周深和观众合唱小美满",
+      "onboard_time": 1746500961,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 243940,
@@ -5561,14 +5593,6 @@
       "onboard_time": 1746244040,
       "rank": 23,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 242452,
-      "num": 242452,
-      "word": "王一博邓为周深唱响青春力量",
-      "onboard_time": 1746500001,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 242442,
@@ -5673,14 +5697,6 @@
       "onboard_time": 1746258740,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232078,
-      "num": 232078,
-      "word": "质子之争",
-      "onboard_time": 1746501080,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 231700,
@@ -7531,14 +7547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191850,
-      "num": 191850,
-      "word": "赵丽颖送粉丝限量版礼物",
-      "onboard_time": 1746500482,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191824,
       "num": 191824,
       "word": "小基数减脂20斤面部变化有多大",
@@ -7745,6 +7753,14 @@
       "onboard_time": 1746252981,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189641,
+      "num": 470729,
+      "word": "一条产妇信息售价50元",
+      "onboard_time": 1746499641,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 189621,
@@ -8220,19 +8236,11 @@
     },
     {
       "raw_hot": 182772,
-      "num": 182772,
+      "num": 279011,
       "word": "Rihanna官宣怀三胎",
       "onboard_time": 1746496581,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182641,
-      "num": 182641,
-      "word": "月牙泉边周深和观众合唱小美满",
-      "onboard_time": 1746500961,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 182477,
@@ -8713,6 +8721,14 @@
       "onboard_time": 1746184229,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173829,
+      "num": 323825,
+      "word": "专家建议节后上班第一天少干活儿",
+      "onboard_time": 1746501021,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173805,
@@ -9651,6 +9667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160235,
+      "num": 166403,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1746500180,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 160220,
       "num": 160220,
       "word": "鞠婧祎蒂玮娜预热",
@@ -10043,14 +10067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155368,
-      "num": 227965,
-      "word": "一条产妇信息售价50元",
-      "onboard_time": 1746499641,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 155236,
       "num": 155236,
       "word": "再就业男团应到1人实到6人",
@@ -10409,6 +10425,14 @@
       "onboard_time": 1746372084,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150651,
+      "num": 322205,
+      "word": "赵心童解禁复出后49场47胜",
+      "onboard_time": 1746501141,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 150499,
@@ -10993,6 +11017,14 @@
       "onboard_time": 1746282864,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145161,
+      "num": 145161,
+      "word": "羽毛球涨价中产都要打不起了",
+      "onboard_time": 1746500841,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 145095,
@@ -12035,6 +12067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134538,
+      "num": 134538,
+      "word": "Freen首位亮相MetGala泰国女星",
+      "onboard_time": 1746501861,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134527,
       "num": 134527,
       "word": "特朗普号召美国学生进车间搬砖",
@@ -12057,6 +12097,14 @@
       "onboard_time": 1746050775,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134340,
+      "num": 134340,
+      "word": "锦月如歌月看月有预告",
+      "onboard_time": 1746501980,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133946,
@@ -14883,14 +14931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 105118,
-      "num": 166403,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1746500180,
-      "rank": 38,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 104750,
       "num": 112167,
       "word": "农村孩子五一放假的意义",
@@ -15667,14 +15707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94349,
-      "num": 182646,
-      "word": "专家建议节后上班第一天少干活儿",
-      "onboard_time": 1746501021,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94218,
       "num": 94218,
       "word": "王星越版火力全开",
@@ -16419,6 +16451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80059,
+      "num": 157839,
+      "word": "淘宝策划疯了",
+      "onboard_time": 1746502041,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79641,
       "num": 79641,
       "word": "五一假期发朋友圈的小妙招",
@@ -16931,6 +16971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66698,
+      "num": 213577,
+      "word": "鬼子专业户到景区沉浸式客串反派",
+      "onboard_time": 1746500902,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66322,
       "num": 268507,
       "word": "石宇奇火力全开",
@@ -17049,14 +17097,6 @@
       "onboard_time": 1746424703,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63997,
-      "num": 163949,
-      "word": "赵心童解禁复出后49场47胜",
-      "onboard_time": 1746501141,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 63912,
@@ -17323,6 +17363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 57845,
+      "num": 278592,
+      "word": "从丁俊晖到赵心童这条路走了九年",
+      "onboard_time": 1746501141,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57639,
       "num": 389783,
       "word": "男子评论公众号写得烂被运营者辱骂",
@@ -17563,14 +17611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52270,
-      "num": 165806,
-      "word": "从丁俊晖到赵心童这条路走了九年",
-      "onboard_time": 1746501141,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51769,
       "num": 181077,
       "word": "马丽你也没说水饺皇后是爽片啊",
@@ -17617,6 +17657,14 @@
       "onboard_time": 1746074120,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50957,
+      "num": 218454,
+      "word": "郑钦文谈手肘伤势",
+      "onboard_time": 1746501920,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 50591,
@@ -18609,14 +18657,6 @@
       "onboard_time": 1746429681,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31501,
-      "num": 192050,
-      "word": "鬼子专业户到景区沉浸式客串反派",
-      "onboard_time": 1746500902,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31490,
