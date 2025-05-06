@@ -1,0 +1,410 @@
+{
+  "runTime": 1746521218041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865810,
+        "num": 1865810,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1828574,
+        "num": 1828574,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34400,
+        "num": 1522039,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1357842,
+        "num": 1357842,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1167733,
+        "num": 1167733,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 944958,
+        "num": 944958,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777460,
+        "num": 777460,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 774401,
+        "num": 774401,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721168,
+        "num": 721168,
+        "word": "马斯克称地球会被太阳焚化",
+        "onboard_time": 1746517582,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 485258,
+        "num": 485258,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 818093,
+        "num": 485066,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453531,
+        "num": 453531,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446077,
+        "num": 446077,
+        "word": "淘宝答案",
+        "onboard_time": 1746506003,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425091,
+        "num": 425091,
+        "word": "全红婵等1101名运动员保送公示",
+        "onboard_time": 1746515482,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39861,
+        "num": 312028,
+        "word": "医学论文怎能雌雄不辨",
+        "onboard_time": 1746520161,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297234,
+        "num": 297234,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133595,
+        "num": 296264,
+        "word": "淘宝免单玩大了",
+        "onboard_time": 1746520042,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 294596,
+        "word": "越南新娘为何接二连三失踪",
+        "onboard_time": 1746518002,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43728,
+        "num": 293391,
+        "word": "高铁拦门事件为何屡禁难止",
+        "onboard_time": 1746520221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125765,
+        "num": 291782,
+        "word": "为什么10点前睡觉能救你",
+        "onboard_time": 1746518780,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322467,
+        "num": 289847,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1746519623,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289707,
+        "num": 289707,
+        "word": "韩安冉发文接好孕",
+        "onboard_time": 1746511581,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 285459,
+        "num": 285459,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273914,
+        "num": 273914,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 23,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 270107,
+        "num": 270107,
+        "word": "K总结婚直播收入",
+        "onboard_time": 1746513321,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248938,
+        "num": 248938,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211099,
+        "num": 248919,
+        "word": "王晶说刘德华太太很辛苦",
+        "onboard_time": 1746512180,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202593,
+        "num": 247782,
+        "word": "喻言天赐舞台 吵急眼了",
+        "onboard_time": 1746520161,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193788,
+        "num": 247354,
+        "word": "何洁发视频自荐歌手2025",
+        "onboard_time": 1746520701,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69112,
+        "num": 246365,
+        "word": "禁赛令对赵心童夺冠有影响吗",
+        "onboard_time": 1746520701,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 245979,
+        "word": "中国医药指南通报妇科论文现男性病例",
+        "onboard_time": 1746519861,
+        "rank": 30,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 32787,
+        "num": 245065,
+        "word": "结石姐张靓颖有种气血很足的感觉",
+        "onboard_time": 1746521062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244886,
+        "num": 244886,
+        "word": "故意让内向的孩子抽到空白签",
+        "onboard_time": 1746520342,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232355,
+        "num": 232355,
+        "word": "贵州女船长",
+        "onboard_time": 1746516561,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 218778,
+        "word": "西安临潼当街踢打妻子男子被行拘",
+        "onboard_time": 1746518903,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205496,
+        "num": 205496,
+        "word": "胖东来",
+        "onboard_time": 1746516742,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203037,
+        "num": 203037,
+        "word": "被胖东来寄律师函的胖都来正常营业",
+        "onboard_time": 1746512541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161379,
+        "num": 161379,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41497,
+        "num": 149281,
+        "word": "血燥血虚血瘀血热的破解方法",
+        "onboard_time": 1746519861,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 148543,
+        "num": 148543,
+        "word": "白敬亭潮牌回应质量问题",
+        "onboard_time": 1746505943,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147439,
+        "num": 147439,
+        "word": "新西兰拟16岁以下禁用社交媒体",
+        "onboard_time": 1746513802,
+        "rank": 40,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 143965,
+        "num": 143965,
+        "word": "外交部回应中美是否就关税问题谈判",
+        "onboard_time": 1746520582,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 142281,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135616,
+        "num": 135616,
+        "word": "2人伪造死亡证明火化证骗贷10万",
+        "onboard_time": 1746520642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64369,
+        "num": 131592,
+        "word": "日女子太爱男友砍下对方无名指",
+        "onboard_time": 1746519502,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131013,
+        "num": 131013,
+        "word": "王蓉报名歌手2025",
+        "onboard_time": 1746519743,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 128783,
+        "word": "30人炒股群29个是托",
+        "onboard_time": 1746519682,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 125601,
+        "num": 125601,
+        "word": "泡泡玛特 外国老奶奶的乌托邦",
+        "onboard_time": 1746518063,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222477,
+        "num": 125125,
+        "word": "妇科论文现男性病例涉事编辑被辞退",
+        "onboard_time": 1746518542,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124554,
+        "num": 124554,
+        "word": "如果美方真想谈就停止威胁施压",
+        "onboard_time": 1746520342,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
