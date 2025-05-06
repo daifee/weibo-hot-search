@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746535926976,
+  "endTime": 1746536827339,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -9,6 +9,14 @@
       "onboard_time": 1746448761,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2643526,
+      "num": 2643526,
+      "word": "刘畊宏方已报警",
+      "onboard_time": 1746534561,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2327757,
@@ -33,14 +41,6 @@
       "onboard_time": 1746501080,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1741146,
-      "num": 1741146,
-      "word": "刘畊宏方已报警",
-      "onboard_time": 1746534561,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1701684,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541435,
+      "num": 405313,
+      "word": "韩安冉妈妈去当老师了",
+      "onboard_time": 1746534201,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 538227,
       "num": 358008,
       "word": "上海虹桥高铁站又现拦门事件",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 498859,
-      "num": 498859,
+      "num": 692769,
       "word": "中方强烈谴责美中情局招募间谍",
       "onboard_time": 1746529941,
       "rank": 9,
@@ -515,14 +523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 454041,
-      "num": 355349,
-      "word": "韩安冉妈妈去当老师了",
-      "onboard_time": 1746534201,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 448838,
       "num": 448838,
       "word": "南通一医院调查男性患卵巢癌论文",
@@ -553,6 +553,14 @@
       "onboard_time": 1746459081,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428141,
+      "num": 428141,
+      "word": "坚持喝陈皮苹果3个月",
+      "onboard_time": 1746532462,
+      "rank": 8,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 427512,
@@ -587,20 +595,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 408795,
-      "num": 408795,
-      "word": "坚持喝陈皮苹果3个月",
-      "onboard_time": 1746532462,
-      "rank": 8,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 399049,
       "num": 399049,
       "word": "idle预告 抄袭",
       "onboard_time": 1746488420,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397506,
+      "num": 397506,
+      "word": "王一博19年拍的撕拉片",
+      "onboard_time": 1746534741,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 395322,
@@ -683,6 +691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364240,
+      "num": 364240,
+      "word": "何洁说20年前不懂珍惜",
+      "onboard_time": 1746534622,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 356084,
+      "num": 367348,
+      "word": "26岁女儿每次加班爸爸都来送饭",
+      "onboard_time": 1746532341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348436,
       "num": 348436,
       "word": "五一假期后第1个工作日",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 343631,
-      "num": 343631,
+      "num": 359917,
       "word": "张柏芝穿豹纹还是太权威了",
       "onboard_time": 1746532462,
       "rank": 12,
@@ -724,7 +748,7 @@
     },
     {
       "raw_hot": 333550,
-      "num": 333550,
+      "num": 357497,
       "word": "丁禹兮张正这一滴泪",
       "onboard_time": 1746530662,
       "rank": 18,
@@ -787,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307472,
+      "num": 307472,
+      "word": "芦笋馄饨",
+      "onboard_time": 1746534381,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307133,
       "num": 383341,
       "word": "王晶说刘德华太太很辛苦",
@@ -841,14 +873,6 @@
       "onboard_time": 1746501500,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294074,
-      "num": 294074,
-      "word": "王一博19年拍的撕拉片",
-      "onboard_time": 1746534741,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 289450,
@@ -907,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276274,
-      "num": 276274,
-      "word": "芦笋馄饨",
-      "onboard_time": 1746534381,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 272976,
       "num": 413885,
       "word": "多家医院回应妇科论文出现男性患者",
@@ -945,14 +961,6 @@
       "onboard_time": 1746496881,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 267087,
-      "num": 267087,
-      "word": "何洁说20年前不懂珍惜",
-      "onboard_time": 1746534622,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 266962,
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237727,
+      "num": 237727,
+      "word": "烽火流金片源泄露",
+      "onboard_time": 1746536723,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232355,
       "num": 232355,
       "word": "贵州女船长",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1746510859,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227488,
-      "num": 367348,
-      "word": "26岁女儿每次加班爸爸都来送饭",
-      "onboard_time": 1746532341,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227438,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1746533061,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203002,
+      "num": 203002,
+      "word": "虞书欣23年的存图",
+      "onboard_time": 1746536181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202593,
@@ -1473,6 +1489,14 @@
       "onboard_time": 1746496581,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182475,
+      "num": 182475,
+      "word": "旅游时最怕遇到这种搭子了",
+      "onboard_time": 1746536302,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 181870,
@@ -2051,6 +2075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142650,
+      "num": 142650,
+      "word": "贺峻霖那是娃娃不是拨浪鼓",
+      "onboard_time": 1746535821,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142265,
       "num": 142265,
       "word": "淮水竹亭剧粉",
@@ -2171,6 +2203,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 136111,
+      "num": 136111,
+      "word": "邓家佳给女性朋友的真诚建议",
+      "onboard_time": 1746535463,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134538,
       "num": 237864,
       "word": "Freen首位亮相MetGala泰国女星",
@@ -2201,14 +2241,6 @@
       "onboard_time": 1746520042,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133069,
-      "num": 133069,
-      "word": "邓家佳给女性朋友的真诚建议",
-      "onboard_time": 1746535463,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 131834,
@@ -2369,6 +2401,14 @@
       "onboard_time": 1746508341,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126108,
+      "num": 204075,
+      "word": "李栋旭44岁状态",
+      "onboard_time": 1746531500,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 125942,
@@ -2595,12 +2635,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109086,
-      "num": 204075,
-      "word": "李栋旭44岁状态",
-      "onboard_time": 1746531500,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 108492,
+      "num": 108492,
+      "word": "柴怼怼回应被曝销售染色玉镯",
+      "onboard_time": 1746536782,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108301,
@@ -2609,6 +2649,14 @@
       "onboard_time": 1746492981,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 108140,
+      "word": "被宁泽涛浮潜帅到了",
+      "onboard_time": 1746536723,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 107806,
@@ -2747,6 +2795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84589,
+      "num": 211367,
+      "word": "胖东来和田玉平均毛利率未超20%",
+      "onboard_time": 1746535821,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84381,
       "num": 84381,
       "word": "谁来田曦薇这都得后空翻一个再走",
@@ -2833,6 +2889,14 @@
       "onboard_time": 1746462979,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70782,
+      "num": 411403,
+      "word": "央视曝光兼职注册APP账号猫腻",
+      "onboard_time": 1746534861,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70573,
@@ -2955,14 +3019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60522,
-      "num": 209327,
-      "word": "胖东来和田玉平均毛利率未超20%",
-      "onboard_time": 1746535821,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 59879,
       "num": 313565,
       "word": "和府捞面宣称中式面馆第一品牌被罚",
@@ -3019,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49418,
+      "num": 310796,
+      "word": "各问政平台频现高中假双休问题",
+      "onboard_time": 1746535102,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48080,
       "num": 258798,
       "word": "管乐祝谢娜生日快乐",
@@ -3033,6 +3097,14 @@
       "onboard_time": 1746463878,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 46254,
+      "num": 308686,
+      "word": "哪家手机厂商OTA最强",
+      "onboard_time": 1746536483,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 45724,
@@ -3211,6 +3283,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 27689,
+      "num": 1058319,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27422,
       "num": 77799,
       "word": "古人的小冰箱中式美学拉满",
@@ -3227,20 +3307,28 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 26843,
-      "num": 270455,
-      "word": "各问政平台频现高中假双休问题",
-      "onboard_time": 1746535102,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26011,
       "num": 225682,
       "word": "伯克希尔跌超5%",
       "onboard_time": 1746490641,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25778,
+      "num": 333619,
+      "word": "WAW的戒断反应",
+      "onboard_time": 1746532881,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 25233,
+      "num": 174766,
+      "word": "大桥护栏被刮倒遭疑豆腐渣工程",
+      "onboard_time": 1746536723,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23475,
@@ -3257,14 +3345,6 @@
       "onboard_time": 1746519682,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 22245,
-      "num": 333619,
-      "word": "WAW的戒断反应",
-      "onboard_time": 1746532881,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 21541,
@@ -3428,6 +3508,9 @@
     },
     {
       "word": "#以青春之我赴时代之约#"
+    },
+    {
+      "word": "#健康稳定的中欧关系成就彼此照亮世界#"
     }
   ]
 }
