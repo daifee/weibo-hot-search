@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746521218041,
+  "endTime": 1746523687835,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 818093,
-      "num": 485066,
+      "num": 718262,
       "word": "刘畊宏 清场",
       "onboard_time": 1746518721,
       "rank": 10,
@@ -193,6 +193,14 @@
       "onboard_time": 1746514102,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 769613,
+      "num": 769613,
+      "word": "租客欲提前退租被房东老公扇4耳光",
+      "onboard_time": 1746521541,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 768835,
@@ -257,6 +265,14 @@
       "onboard_time": 1746502222,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 647520,
+      "num": 647520,
+      "word": "输头孢离世女生曾自行拔针头自救",
+      "onboard_time": 1746518603,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614297,
@@ -427,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 453531,
-      "num": 453531,
-      "word": "输头孢离世女生曾自行拔针头自救",
-      "onboard_time": 1746518603,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 448838,
       "num": 448838,
       "word": "南通一医院调查男性患卵巢癌论文",
@@ -515,6 +523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378905,
+      "num": 244886,
+      "word": "故意让内向的孩子抽到空白签",
+      "onboard_time": 1746520342,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 373078,
+      "num": 373078,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1746519623,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371673,
       "num": 188102,
       "word": "周深在沙漠唱响化身孤岛的鲸",
@@ -569,14 +593,6 @@
       "onboard_time": 1746486499,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322467,
-      "num": 289847,
-      "word": "本周做什么都顺的星座",
-      "onboard_time": 1746519623,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 320965,
@@ -723,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272955,
+      "num": 294596,
+      "word": "越南新娘为何接二连三失踪",
+      "onboard_time": 1746518002,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271279,
       "num": 271279,
       "word": "赵心童17比8拿到冠军点",
@@ -801,14 +825,6 @@
       "onboard_time": 1746511822,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244886,
-      "num": 244886,
-      "word": "故意让内向的孩子抽到空白签",
-      "onboard_time": 1746520342,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 244392,
@@ -1147,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187749,
+      "num": 187749,
+      "word": "行者无疆吃遍天下",
+      "onboard_time": 1746523642,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186484,
       "num": 186484,
       "word": "熬夜延长假期",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1746496042,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178405,
+      "num": 178405,
+      "word": "威少说很久没和詹姆斯说话了",
+      "onboard_time": 1746523642,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 177992,
@@ -1337,14 +1369,6 @@
       "onboard_time": 1746456865,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164945,
-      "num": 294596,
-      "word": "越南新娘为何接二连三失踪",
-      "onboard_time": 1746518002,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164697,
@@ -1507,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151746,
+      "num": 293391,
+      "word": "高铁拦门事件为何屡禁难止",
+      "onboard_time": 1746520221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151268,
       "num": 348232,
       "word": "赵心童发博庆祝夺冠",
@@ -1651,12 +1683,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140197,
+      "num": 140197,
+      "word": "余华铁生 地坛的树该续费了",
+      "onboard_time": 1746522441,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 139681,
       "num": 139681,
       "word": "赵心童离大满贯仅差一个大师赛冠军",
       "onboard_time": 1746498800,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "张杰有平时才会有热烈",
+      "onboard_time": 1746523642,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 139288,
@@ -1699,20 +1747,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136423,
+      "num": 136423,
+      "word": "2人伪造死亡证明火化证骗贷10万",
+      "onboard_time": 1746520642,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136266,
       "num": 136266,
       "word": "婚礼接亲路上偶遇大国重器",
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 135616,
-      "num": 135616,
-      "word": "2人伪造死亡证明火化证骗贷10万",
-      "onboard_time": 1746520642,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134538,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1746520042,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131834,
+      "num": 131834,
+      "word": "黄英推荐黄英",
+      "onboard_time": 1746521242,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 131566,
@@ -1771,6 +1827,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130314,
+      "num": 130314,
+      "word": "郭晶晶霍启刚一家五一假期踏青",
+      "onboard_time": 1746523642,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129557,
+      "num": 124915,
+      "word": "小程发博",
+      "onboard_time": 1746523522,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129004,
       "num": 129004,
       "word": "男子遭诈骗日薪5千去以色列贴瓷砖",
@@ -1780,7 +1852,7 @@
     },
     {
       "raw_hot": 128783,
-      "num": 128783,
+      "num": 187855,
       "word": "30人炒股群29个是托",
       "onboard_time": 1746519682,
       "rank": 46,
@@ -1945,6 +2017,14 @@
       "onboard_time": 1746508822,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109706,
+      "num": 109706,
+      "word": "土象的底色是绝情",
+      "onboard_time": 1746521242,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108301,
@@ -2251,6 +2331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52962,
+      "num": 279428,
+      "word": "论文男女不分仅处理作者远远不够",
+      "onboard_time": 1746522381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50957,
       "num": 218454,
       "word": "郑钦文谈手肘伤势",
@@ -2296,14 +2384,6 @@
       "word": "以旧换新持续火热彰显中国经济活力",
       "onboard_time": 1746506782,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43728,
-      "num": 293391,
-      "word": "高铁拦门事件为何屡禁难止",
-      "onboard_time": 1746520221,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -2379,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33171,
+      "num": 136990,
+      "word": "福州抽象摩天轮",
+      "onboard_time": 1746522080,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 32787,
       "num": 245065,
       "word": "结石姐张靓颖有种气血很足的感觉",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1746481755,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30802,
+      "num": 175466,
+      "word": "美东北部多州撇开白宫自己谈关税",
+      "onboard_time": 1746523401,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30487,
@@ -2513,6 +2609,14 @@
       "onboard_time": 1746477674,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11569,
+      "num": 175774,
+      "word": "美脱口秀嘲讽特朗普下属拍马屁",
+      "onboard_time": 1746522080,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9772,
