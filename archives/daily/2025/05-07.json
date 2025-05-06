@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746573816977,
+  "endTime": 1746574701964,
   "band_list": [
     {
       "raw_hot": 1752991,
@@ -9,6 +9,14 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 1536429,
+      "num": 1536429,
+      "word": "中方决定同意与美方进行接触",
+      "onboard_time": 1746572958,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1096190,
@@ -20,18 +28,18 @@
     },
     {
       "raw_hot": 860462,
-      "num": 374293,
+      "num": 480018,
       "word": "店主对抽烟顾客说这次免单以后别来了",
       "onboard_time": 1746545302,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 847759,
-      "num": 847759,
-      "word": "中方决定同意与美方进行接触",
-      "onboard_time": 1746572958,
-      "rank": 3,
+      "raw_hot": 612579,
+      "num": 612579,
+      "word": "印巴冲突",
+      "onboard_time": 1746573258,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -43,12 +51,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 482452,
+      "num": 482452,
+      "word": "巴基斯坦称遭印度导弹袭击",
+      "onboard_time": 1746572900,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 466275,
+      "num": 466275,
+      "word": "杜淳妻子回应没办婚礼",
+      "onboard_time": 1746573620,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462666,
       "num": 462666,
       "word": "皓衣行",
       "onboard_time": 1746544581,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418003,
+      "num": 418003,
+      "word": "谢娜爱人啊就继续爱下去吧",
+      "onboard_time": 1746573499,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 403632,
@@ -107,14 +139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322800,
-      "num": 322800,
-      "word": "谢娜爱人啊就继续爱下去吧",
-      "onboard_time": 1746573499,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322303,
       "num": 165258,
       "word": "长期熬夜的人长得更着急",
@@ -123,20 +147,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 314418,
-      "num": 460143,
-      "word": "巴基斯坦称遭印度导弹袭击",
-      "onboard_time": 1746572900,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 303187,
       "num": 351771,
       "word": "孙珍妮 被换角",
       "onboard_time": 1746524002,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292483,
+      "num": 292483,
+      "word": "一中国游客为捞相机命丧87米海底",
+      "onboard_time": 1746574101,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268006,
@@ -163,12 +187,44 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 206747,
+      "num": 495110,
+      "word": "巴基斯坦进入紧急状态",
+      "onboard_time": 1746573379,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 205747,
+      "num": 205747,
+      "word": "巴基斯坦",
+      "onboard_time": 1746574101,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202700,
       "num": 202700,
       "word": "微信支付一直在花我的钱",
       "onboard_time": 1746513022,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195156,
+      "num": 657585,
+      "word": "何洁说20年前不懂珍惜",
+      "onboard_time": 1746534622,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193415,
+      "num": 286224,
+      "word": "印巴开始交火",
+      "onboard_time": 1746574159,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189974,
@@ -179,20 +235,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183844,
-      "num": 657585,
-      "word": "何洁说20年前不懂珍惜",
-      "onboard_time": 1746534622,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 185182,
+      "num": 276358,
+      "word": "三德子赵亮致歉",
+      "onboard_time": 1746533001,
+      "rank": 18,
+      "category": "艺人"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "杜淳妻子回应没办婚礼",
-      "onboard_time": 1746573620,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 168061,
+      "num": 168061,
+      "word": "印度",
+      "onboard_time": 1746574101,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165303,
@@ -219,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "三德子赵亮致歉",
-      "onboard_time": 1746533001,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 158792,
+      "num": 270571,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157053,
+      "num": 157053,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 153682,
@@ -276,7 +340,7 @@
     },
     {
       "raw_hot": 133774,
-      "num": 133774,
+      "num": 168768,
       "word": "肖战立下的flag你还记得吗",
       "onboard_time": 1746548060,
       "rank": 32,
@@ -291,12 +355,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 131252,
-      "num": 494188,
-      "word": "印巴冲突",
-      "onboard_time": 1746573258,
-      "rank": 7,
-      "category": "国际时政"
+      "raw_hot": 130691,
+      "num": 130691,
+      "word": "索默单场7次扑救",
+      "onboard_time": 1746574581,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129931,
+      "num": 180163,
+      "word": "欧冠",
+      "onboard_time": 1746573979,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 127667,
@@ -315,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123743,
-      "num": 272558,
-      "word": "巴基斯坦进入紧急状态",
-      "onboard_time": 1746573379,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120138,
       "num": 120138,
       "word": "坚持喝陈皮苹果3个月",
@@ -337,6 +401,14 @@
       "onboard_time": 1746529941,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116340,
+      "num": 168094,
+      "word": "李昀锐关晓彤新剧5月10日开机",
+      "onboard_time": 1746538102,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115215,
@@ -363,6 +435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105433,
+      "num": 105433,
+      "word": "巴基斯坦全国停课",
+      "onboard_time": 1746574401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104919,
+      "num": 168068,
+      "word": "斯凯奇",
+      "onboard_time": 1746573499,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103493,
       "num": 103493,
       "word": "朴彩英晚宴出发造型",
@@ -371,11 +459,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98225,
-      "num": 98225,
-      "word": "李昀锐关晓彤新剧5月10日开机",
-      "onboard_time": 1746538102,
-      "rank": 38,
+      "raw_hot": 100113,
+      "num": 100113,
+      "word": "张萌送给黄杨钿甜的成人礼",
+      "onboard_time": 1746573319,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96609,
+      "num": 96609,
+      "word": "好久没有活人感这么足的群像了",
+      "onboard_time": 1746574641,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -403,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88099,
+      "num": 88099,
+      "word": "iG粉丝 报点",
+      "onboard_time": 1746574401,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87815,
       "num": 87815,
       "word": "Jennie晚宴造型",
@@ -428,7 +532,7 @@
     },
     {
       "raw_hot": 81948,
-      "num": 159686,
+      "num": 289529,
       "word": "中美经贸高层会谈即将举行",
       "onboard_time": 1746573439,
       "rank": 20,
@@ -440,14 +544,6 @@
       "word": "心形纪念币上新了",
       "onboard_time": 1746542004,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81041,
-      "num": 81041,
-      "word": "斯凯奇",
-      "onboard_time": 1746573499,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -491,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72136,
-      "num": 72136,
-      "word": "张萌送给黄杨钿甜的成人礼",
-      "onboard_time": 1746573319,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72030,
       "num": 98826,
       "word": "默茨未能当选德国总理",
       "onboard_time": 1746539663,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70474,
+      "num": 78877,
+      "word": "兰香如故",
+      "onboard_time": 1746541524,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 69060,
@@ -579,28 +675,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 59587,
-      "num": 59587,
-      "word": "孟子义想看自己的狗都得预约吧",
-      "onboard_time": 1746532581,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 59574,
-      "num": 848089,
+      "raw_hot": 60015,
+      "num": 931513,
       "word": "九张图带你了解俄罗斯",
       "onboard_time": 1746536363,
       "rank": 2,
       "category": "国际时政"
     },
     {
-      "raw_hot": 58773,
-      "num": 58773,
-      "word": "兰香如故",
-      "onboard_time": 1746541524,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 59587,
+      "num": 59587,
+      "word": "孟子义想看自己的狗都得预约吧",
+      "onboard_time": 1746532581,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 48845,

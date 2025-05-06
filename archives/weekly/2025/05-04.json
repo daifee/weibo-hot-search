@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746573816977,
+  "endTime": 1746574701964,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -225,6 +225,14 @@
       "onboard_time": 1746330800,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1536429,
+      "num": 1536429,
+      "word": "中方决定同意与美方进行接触",
+      "onboard_time": 1746572958,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1483626,
@@ -636,19 +644,11 @@
     },
     {
       "raw_hot": 860462,
-      "num": 398803,
+      "num": 480018,
       "word": "店主对抽烟顾客说这次免单以后别来了",
       "onboard_time": 1746545302,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 847759,
-      "num": 847759,
-      "word": "中方决定同意与美方进行接触",
-      "onboard_time": 1746572958,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 845122,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1746459322,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 612579,
+      "num": 612579,
+      "word": "印巴冲突",
+      "onboard_time": 1746573258,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 609529,
@@ -1707,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482452,
+      "num": 482452,
+      "word": "巴基斯坦称遭印度导弹袭击",
+      "onboard_time": 1746572900,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 481163,
       "num": 481163,
       "word": "第五人格",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1746457162,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 466275,
+      "num": 466275,
+      "word": "杜淳妻子回应没办婚礼",
+      "onboard_time": 1746573620,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 466137,
@@ -2048,6 +2072,14 @@
       "word": "林心如霍建华带女儿看电影",
       "onboard_time": 1746443058,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 418003,
+      "num": 418003,
+      "word": "谢娜爱人啊就继续爱下去吧",
+      "onboard_time": 1746573499,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2651,14 +2683,6 @@
       "category": "综艺,剧集"
     },
     {
-      "raw_hot": 322800,
-      "num": 322800,
-      "word": "谢娜爱人啊就继续爱下去吧",
-      "onboard_time": 1746573499,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322303,
       "num": 165258,
       "word": "长期熬夜的人长得更着急",
@@ -2729,14 +2753,6 @@
       "onboard_time": 1746366086,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 314418,
-      "num": 460143,
-      "word": "巴基斯坦称遭印度导弹袭击",
-      "onboard_time": 1746572900,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 312620,
@@ -2953,6 +2969,14 @@
       "onboard_time": 1746366806,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292483,
+      "num": 292483,
+      "word": "一中国游客为捞相机命丧87米海底",
+      "onboard_time": 1746574101,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289450,
@@ -4171,6 +4195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206747,
+      "num": 495110,
+      "word": "巴基斯坦进入紧急状态",
+      "onboard_time": 1746573379,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206675,
       "num": 375629,
       "word": "官方回应医院违规为单身女性试管助孕",
@@ -4217,6 +4249,14 @@
       "onboard_time": 1746289520,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205747,
+      "num": 205747,
+      "word": "巴基斯坦",
+      "onboard_time": 1746574101,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205650,
@@ -4753,6 +4793,14 @@
       "onboard_time": 1746353721,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193415,
+      "num": 286224,
+      "word": "印巴开始交火",
+      "onboard_time": 1746574159,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193363,
@@ -5315,14 +5363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174490,
-      "num": 174490,
-      "word": "杜淳妻子回应没办婚礼",
-      "onboard_time": 1746573620,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174321,
       "num": 227205,
       "word": "约基奇42分22篮板",
@@ -5585,6 +5625,14 @@
       "onboard_time": 1746318920,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 168061,
+      "num": 168061,
+      "word": "印度",
+      "onboard_time": 1746574101,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168037,
@@ -6059,6 +6107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158792,
+      "num": 270571,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158572,
       "num": 158572,
       "word": "为什么小时候听不进去历史课",
@@ -6081,6 +6137,14 @@
       "onboard_time": 1746323600,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157053,
+      "num": 157053,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 156826,
@@ -7404,7 +7468,7 @@
     },
     {
       "raw_hot": 133774,
-      "num": 133774,
+      "num": 168768,
       "word": "肖战立下的flag你还记得吗",
       "onboard_time": 1746548060,
       "rank": 32,
@@ -7491,14 +7555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131252,
-      "num": 494188,
-      "word": "印巴冲突",
-      "onboard_time": 1746573258,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131195,
       "num": 131195,
       "word": "作家周晴病逝",
@@ -7529,6 +7585,14 @@
       "onboard_time": 1746439282,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130691,
+      "num": 130691,
+      "word": "索默单场7次扑救",
+      "onboard_time": 1746574581,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 130688,
@@ -7585,6 +7649,14 @@
       "onboard_time": 1746524424,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129931,
+      "num": 180163,
+      "word": "欧冠",
+      "onboard_time": 1746573979,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 129920,
@@ -8017,14 +8089,6 @@
       "onboard_time": 1746340700,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123743,
-      "num": 272558,
-      "word": "巴基斯坦进入紧急状态",
-      "onboard_time": 1746573379,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123720,
@@ -8883,6 +8947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105433,
+      "num": 105433,
+      "word": "巴基斯坦全国停课",
+      "onboard_time": 1746574401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105403,
       "num": 105403,
       "word": "韩国霸总吃饭",
@@ -8913,6 +8985,14 @@
       "onboard_time": 1746526582,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104919,
+      "num": 168068,
+      "word": "斯凯奇",
+      "onboard_time": 1746573499,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104750,
@@ -9131,6 +9211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100113,
+      "num": 100113,
+      "word": "张萌送给黄杨钿甜的成人礼",
+      "onboard_time": 1746573319,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100024,
       "num": 100024,
       "word": "沟通的本质是以心换心",
@@ -9289,6 +9377,14 @@
       "onboard_time": 1746429441,
       "rank": 47,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 96609,
+      "num": 96609,
+      "word": "好久没有活人感这么足的群像了",
+      "onboard_time": 1746574641,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 96350,
@@ -9489,6 +9585,14 @@
       "onboard_time": 1746547400,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88099,
+      "num": 88099,
+      "word": "iG粉丝 报点",
+      "onboard_time": 1746574401,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 87956,
@@ -9692,7 +9796,7 @@
     },
     {
       "raw_hot": 81948,
-      "num": 159686,
+      "num": 289529,
       "word": "中美经贸高层会谈即将举行",
       "onboard_time": 1746573439,
       "rank": 20,
@@ -9729,14 +9833,6 @@
       "onboard_time": 1746335782,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81041,
-      "num": 81041,
-      "word": "斯凯奇",
-      "onboard_time": 1746573499,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81022,
@@ -9865,14 +9961,6 @@
       "onboard_time": 1746536363,
       "rank": 2,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72136,
-      "num": 72136,
-      "word": "张萌送给黄杨钿甜的成人礼",
-      "onboard_time": 1746573319,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 71348,
