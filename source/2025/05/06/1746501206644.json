@@ -1,0 +1,410 @@
+{
+  "runTime": 1746501206644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2873367,
+        "num": 2873367,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1295715,
+        "num": 1295715,
+        "word": "疯狂小杨哥露面",
+        "onboard_time": 1746493401,
+        "rank": 1,
+        "category": "网红,综艺"
+      },
+      {
+        "raw_hot": 142663,
+        "num": 1088711,
+        "word": "五一假期全国消费市场数据来了",
+        "onboard_time": 1746449783,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1039019,
+        "num": 1039019,
+        "word": "白敬亭潮牌质量",
+        "onboard_time": 1746497481,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923554,
+        "num": 923554,
+        "word": "胖东来 玉石",
+        "onboard_time": 1746495140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096735,
+        "num": 790739,
+        "word": "多篇妇产科论文出现男性患者",
+        "onboard_time": 1746493341,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 394286,
+        "num": 394286,
+        "word": "赵心童邀请女朋友上台",
+        "onboard_time": 1746487759,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373769,
+        "num": 373769,
+        "word": "idle预告 抄袭",
+        "onboard_time": 1746488420,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372405,
+        "num": 372405,
+        "word": "五一假期国内3.14亿人次出游",
+        "onboard_time": 1746497120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341408,
+        "num": 341408,
+        "word": "五一假期后第1个工作日",
+        "onboard_time": 1746489741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354470,
+        "num": 339923,
+        "word": "印度不允许一滴水流向巴基斯坦",
+        "onboard_time": 1746454402,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353288,
+        "num": 337871,
+        "word": "上海虹桥高铁站又现拦门事件",
+        "onboard_time": 1746493942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334867,
+        "num": 334867,
+        "word": "张娜拉陪跑",
+        "onboard_time": 1746493462,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334166,
+        "num": 334166,
+        "word": "老外带空箱子来中国买买买",
+        "onboard_time": 1746499041,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279112,
+        "num": 279112,
+        "word": "被林瀚挂的素人网友已报警",
+        "onboard_time": 1746494360,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251224,
+        "num": 251224,
+        "word": "刘雯G社镜头",
+        "onboard_time": 1746499760,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242452,
+        "num": 242452,
+        "word": "王一博邓为周深唱响青春力量",
+        "onboard_time": 1746500001,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236984,
+        "num": 236984,
+        "word": "朴宝剑李惠利四宫格合照",
+        "onboard_time": 1746489260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232078,
+        "num": 232078,
+        "word": "质子之争",
+        "onboard_time": 1746501080,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230590,
+        "num": 230590,
+        "word": "IU陪跑三次了",
+        "onboard_time": 1746458482,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363193,
+        "num": 229995,
+        "word": "长胖其实是有滞后性的",
+        "onboard_time": 1746494780,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347579,
+        "num": 229083,
+        "word": "黄金",
+        "onboard_time": 1746494962,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244555,
+        "num": 228475,
+        "word": "金价再爆发",
+        "onboard_time": 1746496881,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 227965,
+        "word": "一条产妇信息售价50元",
+        "onboard_time": 1746499641,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 227407,
+        "num": 227407,
+        "word": "赵心童感谢丁俊晖铺路",
+        "onboard_time": 1746494360,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217819,
+        "num": 217819,
+        "word": "以军战机猛烈空袭也门",
+        "onboard_time": 1746499102,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195974,
+        "num": 195974,
+        "word": "金泰梨二封百想视后",
+        "onboard_time": 1746456504,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194796,
+        "num": 194796,
+        "word": "特朗普继续开辟关税新战场",
+        "onboard_time": 1746485358,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132910,
+        "num": 193193,
+        "word": "孙颖莎保持11300分霸榜世排第一",
+        "onboard_time": 1746496641,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31501,
+        "num": 192050,
+        "word": "鬼子专业户到景区沉浸式客串反派",
+        "onboard_time": 1746500902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41302,
+        "num": 191910,
+        "word": "印巴互相进行贸易制裁",
+        "onboard_time": 1746499281,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191850,
+        "num": 191850,
+        "word": "赵丽颖送粉丝限量版礼物",
+        "onboard_time": 1746500482,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182772,
+        "num": 182772,
+        "word": "Rihanna官宣怀三胎",
+        "onboard_time": 1746496581,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182708,
+        "num": 182708,
+        "word": "淘宝奶茶免单",
+        "onboard_time": 1746492441,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94349,
+        "num": 182646,
+        "word": "专家建议节后上班第一天少干活儿",
+        "onboard_time": 1746501021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182641,
+        "num": 182641,
+        "word": "月牙泉边周深和观众合唱小美满",
+        "onboard_time": 1746500961,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169466,
+        "num": 169466,
+        "word": "MetGala",
+        "onboard_time": 1746487279,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 131566,
+        "num": 168824,
+        "word": "三只羊沈阳公司拟注销",
+        "onboard_time": 1746498501,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 105118,
+        "num": 166403,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1746500180,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 52270,
+        "num": 165806,
+        "word": "从丁俊晖到赵心童这条路走了九年",
+        "onboard_time": 1746501141,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63997,
+        "num": 163949,
+        "word": "赵心童解禁复出后49场47胜",
+        "onboard_time": 1746501141,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162949,
+        "num": 162949,
+        "word": "身上这种小红点可能是血管瘤",
+        "onboard_time": 1746480615,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153513,
+        "num": 153513,
+        "word": "赵丽颖出道十九周年",
+        "onboard_time": 1746500482,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152876,
+        "num": 152876,
+        "word": "Jennie人间香奈儿",
+        "onboard_time": 1746496221,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "西安一男子当街踢打妻子引公愤",
+        "onboard_time": 1746488059,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142396,
+        "num": 142396,
+        "word": "丁俊晖",
+        "onboard_time": 1746459322,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133698,
+        "num": 140013,
+        "word": "好莱坞或临灾难性冲击",
+        "onboard_time": 1746499400,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139691,
+        "num": 139691,
+        "word": "订8万婚宴被酒店经理私吞4.5万",
+        "onboard_time": 1746468197,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139681,
+        "num": 139681,
+        "word": "赵心童离大满贯仅差一个大师赛冠军",
+        "onboard_time": 1746498800,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137159,
+        "num": 137159,
+        "word": "这种网红玩具正在毒害你的孩子",
+        "onboard_time": 1746455121,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决克服麻痹思想狠抓工作落实#"
+    }
+  }
+}
