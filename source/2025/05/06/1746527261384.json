@@ -1,0 +1,410 @@
+{
+  "runTime": 1746527261384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2327757,
+        "num": 2327757,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1644566,
+        "num": 1644566,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68303,
+        "num": 1289718,
+        "word": "数说五一假期活力图景",
+        "onboard_time": 1746525262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1049990,
+        "num": 1049990,
+        "word": "刘畊宏9天掉粉23万",
+        "onboard_time": 1746523822,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 941209,
+        "num": 941209,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600716,
+        "num": 600716,
+        "word": "山东滕州致6人死亡肇事司机被刑拘",
+        "onboard_time": 1746524963,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563366,
+        "num": 563366,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 514258,
+        "num": 514258,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405699,
+        "num": 405699,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252270,
+        "num": 378662,
+        "word": "遭高潮针配图女孩称曾被印壮阳药上",
+        "onboard_time": 1746524424,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1673506,
+        "num": 374428,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 814255,
+        "num": 372375,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367788,
+        "num": 367788,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306247,
+        "num": 306247,
+        "word": "租客欲提前退租被房东老公扇4耳光",
+        "onboard_time": 1746521541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152146,
+        "num": 300920,
+        "word": "好莱坞对特朗普政府电影关税感到震惊",
+        "onboard_time": 1746525683,
+        "rank": 14,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 299896,
+        "num": 299896,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293865,
+        "num": 293865,
+        "word": "孟子义跑男出发图鼻祖",
+        "onboard_time": 1746525323,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277189,
+        "num": 277189,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262532,
+        "num": 262532,
+        "word": "arashi复活",
+        "onboard_time": 1746524903,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33939,
+        "num": 252745,
+        "word": "陕西礼泉一村民被冒名贷款40余万",
+        "onboard_time": 1746525801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281186,
+        "num": 251217,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278721,
+        "num": 250551,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244123,
+        "num": 244123,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201761,
+        "num": 201761,
+        "word": "刘诗诗撒贝宁同框",
+        "onboard_time": 1746526942,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196916,
+        "num": 196916,
+        "word": "刘畊宏不好意思耽误你吃饭了",
+        "onboard_time": 1746526402,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190518,
+        "num": 190518,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185727,
+        "num": 185727,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1746519623,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183143,
+        "num": 183143,
+        "word": "坐一天就能赚钱的工作",
+        "onboard_time": 1746523700,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178524,
+        "num": 180021,
+        "word": "储殷谈为何十年不换车",
+        "onboard_time": 1746526461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65540,
+        "num": 179612,
+        "word": "赵心童初中文化课成绩排在班级前三",
+        "onboard_time": 1746526102,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179262,
+        "num": 179262,
+        "word": "优时颜声明",
+        "onboard_time": 1746524304,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179051,
+        "num": 179051,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160965,
+        "num": 160965,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159918,
+        "num": 159918,
+        "word": "马斯克称地球会被太阳焚化",
+        "onboard_time": 1746517582,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 156847,
+        "num": 156847,
+        "word": "偶遇姜妍和老公逛商场",
+        "onboard_time": 1746525863,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143590,
+        "num": 143590,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141888,
+        "num": 141888,
+        "word": "JDG对战WE",
+        "onboard_time": 1746526882,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133828,
+        "num": 133828,
+        "word": "郭晶晶霍启刚一家五一假期踏青",
+        "onboard_time": 1746523642,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123101,
+        "num": 123101,
+        "word": "故意让内向的孩子抽到空白签",
+        "onboard_time": 1746520342,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122883,
+        "num": 122883,
+        "word": "耀眼",
+        "onboard_time": 1746526882,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120408,
+        "num": 120408,
+        "word": "男子过太姥山一线天肚子磨通红",
+        "onboard_time": 1746527243,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 119895,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 114447,
+        "word": "蒋敦豪衢州",
+        "onboard_time": 1746526461,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109259,
+        "num": 109259,
+        "word": "赵心童夺冠奖金约483万",
+        "onboard_time": 1746525202,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105703,
+        "num": 105703,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 44,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 105403,
+        "num": 105403,
+        "word": "韩国霸总吃饭",
+        "onboard_time": 1746527061,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105006,
+        "num": 105006,
+        "word": "宋妍霏团从女团风到最炫民族风",
+        "onboard_time": 1746526582,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103725,
+        "num": 103725,
+        "word": "越南新娘为何接二连三失踪",
+        "onboard_time": 1746518002,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102850,
+        "num": 102850,
+        "word": "咪咪 我真的觉得旁边这只猫很装",
+        "onboard_time": 1746526162,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99412,
+        "num": 99412,
+        "word": "又熬到全身穿搭不到五十块的季节了",
+        "onboard_time": 1746525382,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746524497203,
+  "endTime": 1746527261384,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -41,6 +41,14 @@
       "onboard_time": 1746365845,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2327757,
+      "num": 2327757,
+      "word": "山东滕州车祸致6人死亡",
+      "onboard_time": 1746524542,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2203583,
@@ -139,6 +147,14 @@
       "category": "网红,综艺"
     },
     {
+      "raw_hot": 1673506,
+      "num": 449643,
+      "word": "孙珍妮 被换角",
+      "onboard_time": 1746524002,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1652308,
       "num": 1652308,
       "word": "贵州游船倾覆最后一名失联人员被找到",
@@ -153,6 +169,14 @@
       "onboard_time": 1746452784,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1644566,
+      "num": 1644566,
+      "word": "4779",
+      "onboard_time": 1746523700,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1633965,
@@ -363,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1101873,
-      "num": 1101873,
-      "word": "4779",
-      "onboard_time": 1746523700,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1096735,
       "num": 896564,
       "word": "多篇妇产科论文出现男性患者",
@@ -425,6 +441,14 @@
       "onboard_time": 1746372804,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1049990,
+      "num": 1049990,
+      "word": "刘畊宏9天掉粉23万",
+      "onboard_time": 1746523822,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1039939,
@@ -1107,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 600716,
+      "num": 600716,
+      "word": "山东滕州致6人死亡肇事司机被刑拘",
+      "onboard_time": 1746524963,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600164,
       "num": 600164,
       "word": "勇士vs火箭",
@@ -1427,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514258,
+      "num": 514258,
+      "word": "歌手2025",
+      "onboard_time": 1746275783,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514049,
       "num": 514049,
       "word": "五一假期国内3.14亿人次出游",
@@ -1528,14 +1568,6 @@
       "word": "丁禹兮孟子义淮水竹亭剧情线来了",
       "onboard_time": 1746439341,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 484674,
-      "num": 449643,
-      "word": "孙珍妮 被换角",
-      "onboard_time": 1746524002,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2065,14 +2097,6 @@
       "onboard_time": 1746519623,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 373043,
-      "num": 373043,
-      "word": "歌手2025",
-      "onboard_time": 1746275783,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 373000,
@@ -2619,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293865,
+      "num": 293865,
+      "word": "孟子义跑男出发图鼻祖",
+      "onboard_time": 1746525323,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293156,
       "num": 293156,
       "word": "淮水竹亭热度",
@@ -2707,6 +2739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 278721,
+      "num": 250551,
+      "word": "气血不足的人节后要多睡觉",
+      "onboard_time": 1746523700,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278143,
       "num": 278143,
       "word": "前国乒教练吴敬平又挖到一个小胖",
@@ -2753,14 +2793,6 @@
       "onboard_time": 1746365066,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270873,
-      "num": 270873,
-      "word": "刘畊宏9天掉粉23万",
-      "onboard_time": 1746523822,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 270440,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1746366025,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262532,
+      "num": 262532,
+      "word": "arashi复活",
+      "onboard_time": 1746524903,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 261330,
@@ -2969,6 +3009,14 @@
       "onboard_time": 1746326720,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252270,
+      "num": 378662,
+      "word": "遭高潮针配图女孩称曾被印壮阳药上",
+      "onboard_time": 1746524424,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251370,
@@ -3137,14 +3185,6 @@
       "onboard_time": 1746343219,
       "rank": 44,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 240482,
-      "num": 240482,
-      "word": "气血不足的人节后要多睡觉",
-      "onboard_time": 1746523700,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238689,
@@ -3859,6 +3899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201761,
+      "num": 201761,
+      "word": "刘诗诗撒贝宁同框",
+      "onboard_time": 1746526942,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201126,
       "num": 211660,
       "word": "刑警的日子今日开播",
@@ -4025,6 +4073,14 @@
       "onboard_time": 1746408800,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196916,
+      "num": 196916,
+      "word": "刘畊宏不好意思耽误你吃饭了",
+      "onboard_time": 1746526402,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 196843,
@@ -4587,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179262,
+      "num": 179262,
+      "word": "优时颜声明",
+      "onboard_time": 1746524304,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179243,
       "num": 179243,
       "word": "林智妍吊带粉裙",
@@ -4601,6 +4665,14 @@
       "onboard_time": 1746449001,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178524,
+      "num": 180021,
+      "word": "储殷谈为何十年不换车",
+      "onboard_time": 1746526461,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178511,
@@ -5259,14 +5331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160635,
-      "num": 160635,
-      "word": "优时颜声明",
-      "onboard_time": 1746524304,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160521,
       "num": 160521,
       "word": "金靖勇敢的人先享受张凌赫的腹肌",
@@ -5385,6 +5449,14 @@
       "onboard_time": 1746323600,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156847,
+      "num": 156847,
+      "word": "偶遇姜妍和老公逛商场",
+      "onboard_time": 1746525863,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 156826,
@@ -5617,6 +5689,14 @@
       "onboard_time": 1746367767,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152146,
+      "num": 300920,
+      "word": "好莱坞对特朗普政府电影关税感到震惊",
+      "onboard_time": 1746525683,
+      "rank": 14,
+      "category": "国际时政,电影"
     },
     {
       "raw_hot": 152029,
@@ -6091,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141888,
+      "num": 141888,
+      "word": "JDG对战WE",
+      "onboard_time": 1746526882,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141666,
       "num": 141666,
       "word": "我勒个面具团神级站位",
@@ -6547,6 +6635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133828,
+      "num": 217466,
+      "word": "郭晶晶霍启刚一家五一假期踏青",
+      "onboard_time": 1746523642,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133698,
       "num": 140013,
       "word": "好莱坞或临灾难性冲击",
@@ -6577,14 +6673,6 @@
       "onboard_time": 1746373045,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132398,
-      "num": 217466,
-      "word": "郭晶晶霍启刚一家五一假期踏青",
-      "onboard_time": 1746523642,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 132173,
@@ -6713,14 +6801,6 @@
       "onboard_time": 1746326720,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 130091,
-      "num": 130091,
-      "word": "遭高潮针配图女孩称曾被印壮阳药上",
-      "onboard_time": 1746524424,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130063,
@@ -7147,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122883,
+      "num": 122883,
+      "word": "耀眼",
+      "onboard_time": 1746526882,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122490,
       "num": 122490,
       "word": "圣坛 暴力美学",
@@ -7241,6 +7329,14 @@
       "onboard_time": 1746331820,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120408,
+      "num": 120408,
+      "word": "男子过太姥山一线天肚子磨通红",
+      "onboard_time": 1746527243,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120243,
@@ -7425,6 +7521,14 @@
       "onboard_time": 1746343881,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114447,
+      "num": 114447,
+      "word": "蒋敦豪衢州",
+      "onboard_time": 1746526461,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 114358,
@@ -7651,6 +7755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109259,
+      "num": 109259,
+      "word": "赵心童夺冠奖金约483万",
+      "onboard_time": 1746525202,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109252,
       "num": 109252,
       "word": "全员加速中安全倡议书",
@@ -7795,6 +7907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105403,
+      "num": 105403,
+      "word": "韩国霸总吃饭",
+      "onboard_time": 1746527061,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105369,
       "num": 105369,
       "word": "张博恒用焕然一新形容自己",
@@ -7809,6 +7929,14 @@
       "onboard_time": 1746331700,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105006,
+      "num": 105006,
+      "word": "宋妍霏团从女团风到最炫民族风",
+      "onboard_time": 1746526582,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 104750,
@@ -7897,6 +8025,14 @@
       "onboard_time": 1746444921,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102850,
+      "num": 102850,
+      "word": "咪咪 我真的觉得旁边这只猫很装",
+      "onboard_time": 1746526162,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102686,
@@ -8032,6 +8168,14 @@
       "word": "59岁退休再就业打三份工的一天",
       "onboard_time": 1746347962,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99412,
+      "num": 99412,
+      "word": "又熬到全身穿搭不到五十块的季节了",
+      "onboard_time": 1746525382,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -8707,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68303,
+      "num": 1289718,
+      "word": "数说五一假期活力图景",
+      "onboard_time": 1746525262,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67715,
       "num": 67715,
       "word": "陈建斌蒋勤勤带儿子逛环球影城",
@@ -8744,6 +8896,14 @@
       "word": "石宇奇火力全开",
       "onboard_time": 1746354143,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65540,
+      "num": 179612,
+      "word": "赵心童初中文化课成绩排在班级前三",
+      "onboard_time": 1746526102,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -9449,6 +9609,14 @@
       "onboard_time": 1746311715,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33939,
+      "num": 252745,
+      "word": "陕西礼泉一村民被冒名贷款40余万",
+      "onboard_time": 1746525801,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33171,
