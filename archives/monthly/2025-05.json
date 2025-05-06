@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746539298961,
+  "endTime": 1746541539793,
   "band_list": [
     {
       "raw_hot": 10416594,
@@ -25,6 +25,14 @@
       "onboard_time": 1746242841,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3171963,
+      "num": 3171963,
+      "word": "斯凯奇宣布退市",
+      "onboard_time": 1746539842,
+      "rank": 0,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 3104219,
@@ -680,6 +688,14 @@
       "word": "泰山山顶公厕挤满避寒的人",
       "onboard_time": 1746075741,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1228674,
+      "num": 1228674,
+      "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+      "onboard_time": 1746537384,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1979,6 +1995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 652824,
+      "num": 652824,
+      "word": "211",
+      "onboard_time": 1746539603,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 652216,
       "num": 390329,
       "word": "卢靖姗说二胎反应更大",
@@ -2020,7 +2044,7 @@
     },
     {
       "raw_hot": 647371,
-      "num": 493919,
+      "num": 534703,
       "word": "韩安冉妈妈去当老师了",
       "onboard_time": 1746534201,
       "rank": 11,
@@ -2569,6 +2593,14 @@
       "onboard_time": 1746075502,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 549471,
+      "num": 549471,
+      "word": "TheShy五杀",
+      "onboard_time": 1746539603,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 548617,
@@ -5579,6 +5611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271184,
+      "num": 271184,
+      "word": "张凌赫直播",
+      "onboard_time": 1746538824,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270440,
       "num": 284786,
       "word": "纪念苏联伟大卫国战争胜利80周年庆典",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1746171079,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257408,
+      "num": 535149,
+      "word": "特朗普说他知道谁炸了北溪",
+      "onboard_time": 1746539483,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 257337,
@@ -6283,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243031,
+      "num": 201990,
+      "word": "烽火流金",
+      "onboard_time": 1746539962,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242482,
       "num": 220218,
       "word": "景区买东西前千万要砍价",
@@ -6297,14 +6353,6 @@
       "onboard_time": 1746423981,
       "rank": 22,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 242389,
-      "num": 242389,
-      "word": "张凌赫直播",
-      "onboard_time": 1746538824,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 242155,
@@ -6667,14 +6715,6 @@
       "category": "游戏,动漫"
     },
     {
-      "raw_hot": 222927,
-      "num": 262462,
-      "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
-      "onboard_time": 1746537384,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222540,
       "num": 222540,
       "word": "邓为关晓彤合唱版愿你抬头有光",
@@ -6777,6 +6817,14 @@
       "onboard_time": 1746432740,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218959,
+      "num": 295751,
+      "word": "柴怼怼回应被曝销售染色玉镯",
+      "onboard_time": 1746536782,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218913,
@@ -7947,6 +7995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197555,
+      "num": 197555,
+      "word": "纪念币",
+      "onboard_time": 1746540383,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197423,
       "num": 212869,
       "word": "赵今麦央视镜头",
@@ -9019,6 +9075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186573,
+      "num": 186573,
+      "word": "千秋令魔尊十年长生血换女主一命",
+      "onboard_time": 1746541043,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186484,
       "num": 186484,
       "word": "熬夜延长假期",
@@ -9177,6 +9241,14 @@
       "onboard_time": 1746159449,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183873,
+      "num": 381506,
+      "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+      "onboard_time": 1746538222,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 183482,
@@ -9555,6 +9627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177454,
+      "num": 223961,
+      "word": "中国锅做的牛排把老外香迷糊了",
+      "onboard_time": 1746541343,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 177385,
       "num": 177385,
       "word": "沈月赵一博看哥嫂亲热戏红温了",
@@ -9753,6 +9833,14 @@
       "onboard_time": 1746375501,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174018,
+      "num": 174018,
+      "word": "钟丽丽求制片导演给无限艺员递本子",
+      "onboard_time": 1746540383,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 174010,
@@ -11083,6 +11171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158182,
+      "num": 158182,
+      "word": "开封文旅",
+      "onboard_time": 1746540143,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "四川观察",
@@ -11137,6 +11233,14 @@
       "onboard_time": 1746110903,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157156,
+      "num": 157156,
+      "word": "张杰被中奖的粉丝整破防了",
+      "onboard_time": 1746541343,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 157081,
@@ -12107,6 +12211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147361,
+      "num": 147361,
+      "word": "适合东北宝宝体质的千层蛋糕",
+      "onboard_time": 1746540743,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147351,
       "num": 190526,
       "word": "5楼污水直排像瀑布楼下阳台封5年",
@@ -12363,6 +12475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145219,
+      "num": 145219,
+      "word": "770卸任",
+      "onboard_time": 1746541463,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145213,
       "num": 145213,
       "word": "梁伟铿回应中国队夺冠",
@@ -12555,6 +12675,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 143341,
+      "num": 143341,
+      "word": "DOTA2",
+      "onboard_time": 1746540563,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143176,
       "num": 143176,
       "word": "永安药业一字跌停",
@@ -12625,6 +12753,14 @@
       "onboard_time": 1746154049,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142538,
+      "num": 223780,
+      "word": "公交公司回应司机不让婆孙坐空位",
+      "onboard_time": 1746539363,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142265,
@@ -13299,6 +13435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136837,
+      "num": 136837,
+      "word": "兰香如故",
+      "onboard_time": 1746541524,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136657,
       "num": 137746,
       "word": "张杰鸟巢演唱会",
@@ -13369,6 +13513,14 @@
       "onboard_time": 1746490402,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 136235,
+      "num": 136235,
+      "word": "默茨未能当选德国总理",
+      "onboard_time": 1746539663,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136160,
@@ -14179,14 +14331,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 128809,
-      "num": 128809,
-      "word": "柴怼怼回应被曝销售染色玉镯",
-      "onboard_time": 1746536782,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128783,
       "num": 187855,
       "word": "30人炒股群29个是托",
@@ -14785,6 +14929,14 @@
       "onboard_time": 1746352522,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125151,
+      "num": 224792,
+      "word": "一厕所标语称蕾丝是美好的象征",
+      "onboard_time": 1746539723,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125136,
@@ -16793,14 +16945,6 @@
       "onboard_time": 1746526582,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104925,
-      "num": 381506,
-      "word": "男性确诊子宫肌瘤侮辱了谁的智商",
-      "onboard_time": 1746538222,
-      "rank": 17,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 104750,
@@ -19667,20 +19811,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51587,
+      "num": 1822387,
+      "word": "九张图带你了解俄罗斯",
+      "onboard_time": 1746536363,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51540,
       "num": 731471,
       "word": "劳动者的手每一双都了不起",
       "onboard_time": 1746104723,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51478,
-      "num": 1313265,
-      "word": "九张图带你了解俄罗斯",
-      "onboard_time": 1746536363,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51091,
@@ -21579,6 +21723,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 20652,
+      "num": 199338,
+      "word": "保研人5月一定要做的事",
+      "onboard_time": 1746540143,
+      "rank": 29,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 20519,
       "num": 169921,
       "word": "倪夏莲顺利完成手术",
@@ -22401,6 +22553,14 @@
       "onboard_time": 1746184890,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10160,
+      "num": 167976,
+      "word": "油价仍下降美石油开采商或裁员",
+      "onboard_time": 1746540143,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10152,

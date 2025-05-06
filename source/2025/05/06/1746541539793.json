@@ -1,0 +1,410 @@
+{
+  "runTime": 1746541539793,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3171963,
+        "num": 3171963,
+        "word": "斯凯奇宣布退市",
+        "onboard_time": 1746539842,
+        "rank": 0,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 2484215,
+        "num": 2484215,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51587,
+        "num": 1822387,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1228674,
+        "num": 1228674,
+        "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
+        "onboard_time": 1746537384,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652824,
+        "num": 652824,
+        "word": "211",
+        "onboard_time": 1746539603,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 633717,
+        "num": 633717,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549471,
+        "num": 549471,
+        "word": "TheShy五杀",
+        "onboard_time": 1746539603,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 536756,
+        "num": 536756,
+        "word": "坚持喝陈皮苹果3个月",
+        "onboard_time": 1746532462,
+        "rank": 7,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 380112,
+        "num": 535653,
+        "word": "山东滕州车祸致6人死亡",
+        "onboard_time": 1746524542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257408,
+        "num": 535149,
+        "word": "特朗普说他知道谁炸了北溪",
+        "onboard_time": 1746539483,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 534703,
+        "num": 534703,
+        "word": "韩安冉妈妈去当老师了",
+        "onboard_time": 1746534201,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 482646,
+        "num": 482646,
+        "word": "一世喜乐",
+        "onboard_time": 1746538102,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458094,
+        "num": 458094,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449815,
+        "num": 449815,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398230,
+        "num": 398230,
+        "word": "烽火流金片源泄露",
+        "onboard_time": 1746536723,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386047,
+        "num": 386047,
+        "word": "何洁说20年前不懂珍惜",
+        "onboard_time": 1746534622,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383325,
+        "num": 383325,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321197,
+        "num": 321197,
+        "word": "王一博19年拍的撕拉片",
+        "onboard_time": 1746534741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312195,
+        "num": 312195,
+        "word": "郑恺李昀锐打网球",
+        "onboard_time": 1746536904,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218959,
+        "num": 295751,
+        "word": "柴怼怼回应被曝销售染色玉镯",
+        "onboard_time": 1746536782,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289574,
+        "num": 289574,
+        "word": "胖都来现状",
+        "onboard_time": 1746528261,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271184,
+        "num": 271184,
+        "word": "张凌赫直播",
+        "onboard_time": 1746538824,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 224792,
+        "word": "一厕所标语称蕾丝是美好的象征",
+        "onboard_time": 1746539723,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177454,
+        "num": 223961,
+        "word": "中国锅做的牛排把老外香迷糊了",
+        "onboard_time": 1746541343,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142538,
+        "num": 223780,
+        "word": "公交公司回应司机不让婆孙坐空位",
+        "onboard_time": 1746539363,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223723,
+        "num": 223723,
+        "word": "丁禹兮张正这一滴泪",
+        "onboard_time": 1746530662,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207395,
+        "num": 207395,
+        "word": "26岁女儿每次加班爸爸都来送饭",
+        "onboard_time": 1746532341,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204450,
+        "num": 204450,
+        "word": "李昀锐关晓彤新剧5月10日开机",
+        "onboard_time": 1746538102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243031,
+        "num": 201990,
+        "word": "烽火流金",
+        "onboard_time": 1746539962,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20652,
+        "num": 199338,
+        "word": "保研人5月一定要做的事",
+        "onboard_time": 1746540143,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 242809,
+        "num": 198682,
+        "word": "虞书欣23年的存图",
+        "onboard_time": 1746536181,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197555,
+        "num": 197555,
+        "word": "纪念币",
+        "onboard_time": 1746540383,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196776,
+        "num": 196776,
+        "word": "Jennie晚宴造型",
+        "onboard_time": 1746527842,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190046,
+        "num": 190046,
+        "word": "三德子赵亮致歉",
+        "onboard_time": 1746533001,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186573,
+        "num": 186573,
+        "word": "千秋令魔尊十年长生血换女主一命",
+        "onboard_time": 1746541043,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183873,
+        "num": 183873,
+        "word": "男性确诊子宫肌瘤侮辱了谁的智商",
+        "onboard_time": 1746538222,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 174018,
+        "word": "钟丽丽求制片导演给无限艺员递本子",
+        "onboard_time": 1746540383,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169930,
+        "num": 169930,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168580,
+        "num": 168580,
+        "word": "终于学会扎丸子头了",
+        "onboard_time": 1746538163,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10160,
+        "num": 167976,
+        "word": "油价仍下降美石油开采商或裁员",
+        "onboard_time": 1746540143,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167408,
+        "num": 167408,
+        "word": "风月不相关明日官宣",
+        "onboard_time": 1746538883,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166860,
+        "num": 166860,
+        "word": "国新办发布会预告",
+        "onboard_time": 1746538102,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158182,
+        "num": 158182,
+        "word": "开封文旅",
+        "onboard_time": 1746540143,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157156,
+        "num": 157156,
+        "word": "张杰被中奖的粉丝整破防了",
+        "onboard_time": 1746541343,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147361,
+        "num": 147361,
+        "word": "适合东北宝宝体质的千层蛋糕",
+        "onboard_time": 1746540743,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145219,
+        "num": 145219,
+        "word": "770卸任",
+        "onboard_time": 1746541463,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143341,
+        "num": 143341,
+        "word": "DOTA2",
+        "onboard_time": 1746540563,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142964,
+        "num": 142964,
+        "word": "女生卖账号被用于色情诈骗",
+        "onboard_time": 1746532401,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136837,
+        "num": 136837,
+        "word": "兰香如故",
+        "onboard_time": 1746541524,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136235,
+        "num": 136235,
+        "word": "默茨未能当选德国总理",
+        "onboard_time": 1746539663,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}

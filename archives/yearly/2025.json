@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746539298961,
+  "endTime": 1746541539793,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2195,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3171963,
+      "num": 3171963,
+      "word": "斯凯奇宣布退市",
+      "onboard_time": 1746539842,
+      "rank": 0,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 3159189,
       "num": 3159189,
       "word": "女子疑因被拔错牙后坠楼身亡",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738489639,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3055513,
-      "num": 3055513,
-      "word": "白鹿红包",
-      "onboard_time": 1738061184,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
