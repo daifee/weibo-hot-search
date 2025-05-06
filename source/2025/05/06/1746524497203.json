@@ -1,0 +1,410 @@
+{
+  "runTime": 1746524497203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1505564,
+        "num": 1505564,
+        "word": "微信支付一直在花我的钱",
+        "onboard_time": 1746513022,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1101873,
+        "num": 1101873,
+        "word": "4779",
+        "onboard_time": 1746523700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32362,
+        "num": 878910,
+        "word": "以旧换新持续火热彰显中国经济活力",
+        "onboard_time": 1746506782,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 837275,
+        "num": 837275,
+        "word": "刘畊宏 清场",
+        "onboard_time": 1746518721,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801265,
+        "num": 801265,
+        "word": "淘宝免单",
+        "onboard_time": 1746448761,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 650709,
+        "num": 650709,
+        "word": "租客欲提前退租被房东老公扇4耳光",
+        "onboard_time": 1746521541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592039,
+        "num": 592039,
+        "word": "周翊然陈都灵发文",
+        "onboard_time": 1746513741,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554277,
+        "num": 554277,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1746519682,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508002,
+        "num": 508002,
+        "word": "输头孢离世女生曾自行拔针头自救",
+        "onboard_time": 1746518603,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459995,
+        "num": 459995,
+        "word": "中方和欧洲议会全面取消对交往的限制",
+        "onboard_time": 1746519442,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1481941,
+        "num": 454125,
+        "word": "掉入火锅小猫已离世",
+        "onboard_time": 1746515482,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484674,
+        "num": 449643,
+        "word": "孙珍妮 被换角",
+        "onboard_time": 1746524002,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417884,
+        "num": 417884,
+        "word": "淘宝免单入口",
+        "onboard_time": 1746512541,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 373043,
+        "num": 373043,
+        "word": "歌手2025",
+        "onboard_time": 1746523761,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355171,
+        "num": 355171,
+        "word": "马斯克称地球会被太阳焚化",
+        "onboard_time": 1746517582,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 328790,
+        "num": 328790,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1746519623,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285990,
+        "num": 285990,
+        "word": "论文男女不分仅处理作者远远不够",
+        "onboard_time": 1746522381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279067,
+        "num": 279067,
+        "word": "剑来 吴磊",
+        "onboard_time": 1746514102,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270873,
+        "num": 270873,
+        "word": "刘畊宏9天掉粉23万",
+        "onboard_time": 1746523822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45724,
+        "num": 245494,
+        "word": "美东北部多州撇开白宫自己谈关税",
+        "onboard_time": 1746523401,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387599,
+        "num": 245190,
+        "word": "坐一天就能赚钱的工作",
+        "onboard_time": 1746523700,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305088,
+        "num": 243654,
+        "word": "故意让内向的孩子抽到空白签",
+        "onboard_time": 1746520342,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240832,
+        "num": 240832,
+        "word": "肖战拍的撕拉片",
+        "onboard_time": 1746510859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240482,
+        "num": 240482,
+        "word": "气血不足的人节后要多睡觉",
+        "onboard_time": 1746523700,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132398,
+        "num": 217466,
+        "word": "郭晶晶霍启刚一家五一假期踏青",
+        "onboard_time": 1746523642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217246,
+        "num": 217246,
+        "word": "越南新娘为何接二连三失踪",
+        "onboard_time": 1746518002,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182276,
+        "num": 182276,
+        "word": "奶茶该有的价位",
+        "onboard_time": 1746505403,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181431,
+        "num": 181431,
+        "word": "准爸爸给孩子起名一点弯路不想走",
+        "onboard_time": 1746515182,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176914,
+        "num": 176914,
+        "word": "行者无疆吃遍天下",
+        "onboard_time": 1746523642,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174555,
+        "num": 174555,
+        "word": "IU叹气",
+        "onboard_time": 1746512901,
+        "rank": 29,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 169748,
+        "num": 169748,
+        "word": "边伯贤耳骨夹",
+        "onboard_time": 1746523822,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163114,
+        "num": 163114,
+        "word": "2人伪造死亡证明火化证骗贷10万",
+        "onboard_time": 1746520642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160635,
+        "num": 160635,
+        "word": "优时颜声明",
+        "onboard_time": 1746524304,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157924,
+        "num": 157924,
+        "word": "K总结婚直播收入",
+        "onboard_time": 1746513321,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14661,
+        "num": 154224,
+        "word": "美脱口秀嘲讽特朗普下属拍马屁",
+        "onboard_time": 1746522080,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116672,
+        "num": 153770,
+        "word": "淘宝免单玩大了",
+        "onboard_time": 1746520042,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153382,
+        "num": 153382,
+        "word": "被胖东来寄律师函的胖都来正常营业",
+        "onboard_time": 1746512541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139436,
+        "num": 139436,
+        "word": "王晶说刘德华太太很辛苦",
+        "onboard_time": 1746512180,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51807,
+        "num": 138944,
+        "word": "医院精子定制大多是欺诈",
+        "onboard_time": 1746524481,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 138521,
+        "num": 138521,
+        "word": "威少说很久没和詹姆斯说话了",
+        "onboard_time": 1746523642,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137488,
+        "num": 137488,
+        "word": "耀眼 关晓彤",
+        "onboard_time": 1746507802,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137378,
+        "num": 137378,
+        "word": "韩安冉发文接好孕",
+        "onboard_time": 1746511581,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130091,
+        "num": 130091,
+        "word": "遭高潮针配图女孩称曾被印壮阳药上",
+        "onboard_time": 1746524424,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130063,
+        "num": 130063,
+        "word": "中国和欧盟建交50周年",
+        "onboard_time": 1746524424,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26046,
+        "num": 129542,
+        "word": "福州抽象摩天轮",
+        "onboard_time": 1746522080,
+        "rank": 44,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 129322,
+        "num": 129322,
+        "word": "外交部回应中美是否就关税问题谈判",
+        "onboard_time": 1746520582,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128553,
+        "num": 128553,
+        "word": "全红婵等1101名运动员保送公示",
+        "onboard_time": 1746515482,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127003,
+        "num": 127003,
+        "word": "谢娜唐国强扶严浩翔上岸",
+        "onboard_time": 1746524304,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124942,
+        "num": 124942,
+        "word": "赛博重庆具象化了",
+        "onboard_time": 1746512301,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121613,
+        "num": 123355,
+        "word": "何洁发视频自荐歌手2025",
+        "onboard_time": 1746520701,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

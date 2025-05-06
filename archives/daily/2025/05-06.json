@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746523687835,
+  "endTime": 1746524497203,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1101873,
+      "num": 1101873,
+      "word": "4779",
+      "onboard_time": 1746523700,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1096735,
       "num": 896564,
       "word": "多篇妇产科论文出现男性患者",
@@ -163,8 +171,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 818093,
-      "num": 718262,
+      "raw_hot": 837275,
+      "num": 837275,
       "word": "刘畊宏 清场",
       "onboard_time": 1746518721,
       "rank": 10,
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484674,
+      "num": 449643,
+      "word": "孙珍妮 被换角",
+      "onboard_time": 1746524002,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476090,
       "num": 476090,
       "word": "小杨哥停更9个月掉粉超1300万",
@@ -515,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 387599,
+      "num": 245190,
+      "word": "坐一天就能赚钱的工作",
+      "onboard_time": 1746523700,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383116,
       "num": 383116,
       "word": "阿条姐拟保送浙江大学",
@@ -537,6 +561,14 @@
       "onboard_time": 1746519623,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 373043,
+      "num": 373043,
+      "word": "歌手2025",
+      "onboard_time": 1746523761,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 371673,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285990,
+      "num": 285990,
+      "word": "论文男女不分仅处理作者远远不够",
+      "onboard_time": 1746522381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283691,
       "num": 302107,
       "word": "美教授称新冠起源于美国",
@@ -753,6 +793,14 @@
       "onboard_time": 1746457283,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270873,
+      "num": 270873,
+      "word": "刘畊宏9天掉粉23万",
+      "onboard_time": 1746523822,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 269783,
@@ -857,6 +905,14 @@
       "onboard_time": 1746451642,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240482,
+      "num": 240482,
+      "word": "气血不足的人节后要多睡觉",
+      "onboard_time": 1746523700,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238689,
@@ -1291,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169748,
+      "num": 169748,
+      "word": "边伯贤耳骨夹",
+      "onboard_time": 1746523822,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 169699,
       "num": 169699,
       "word": "杨紫粉色系花絮",
@@ -1403,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "2人伪造死亡证明火化证骗贷10万",
+      "onboard_time": 1746520642,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162447,
       "num": 162447,
       "word": "五一假后哪些人没有节后综合征",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1746500180,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 160635,
+      "num": 160635,
+      "word": "优时颜声明",
+      "onboard_time": 1746524304,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 159302,
@@ -1747,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136423,
-      "num": 136423,
-      "word": "2人伪造死亡证明火化证骗贷10万",
-      "onboard_time": 1746520642,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136266,
       "num": 136266,
       "word": "婚礼接亲路上偶遇大国重器",
@@ -1785,6 +1857,14 @@
       "onboard_time": 1746520042,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132398,
+      "num": 217466,
+      "word": "郭晶晶霍启刚一家五一假期踏青",
+      "onboard_time": 1746523642,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 131834,
@@ -1827,12 +1907,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130314,
-      "num": 130314,
-      "word": "郭晶晶霍启刚一家五一假期踏青",
-      "onboard_time": 1746523642,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 130091,
+      "num": 130091,
+      "word": "遭高潮针配图女孩称曾被印壮阳药上",
+      "onboard_time": 1746524424,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130063,
+      "num": 130063,
+      "word": "中国和欧盟建交50周年",
+      "onboard_time": 1746524424,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129557,
@@ -1873,6 +1961,14 @@
       "onboard_time": 1746513861,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127003,
+      "num": 127003,
+      "word": "谢娜唐国强扶严浩翔上岸",
+      "onboard_time": 1746524304,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 126911,
@@ -2331,12 +2427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52962,
-      "num": 279428,
-      "word": "论文男女不分仅处理作者远远不够",
-      "onboard_time": 1746522381,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 51807,
+      "num": 138944,
+      "word": "医院精子定制大多是欺诈",
+      "onboard_time": 1746524481,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 50957,
@@ -2369,6 +2465,14 @@
       "onboard_time": 1746463878,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 45724,
+      "num": 245494,
+      "word": "美东北部多州撇开白宫自己谈关税",
+      "onboard_time": 1746523401,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44638,
@@ -2499,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30802,
-      "num": 175466,
-      "word": "美东北部多州撇开白宫自己谈关税",
-      "onboard_time": 1746523401,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30487,
       "num": 195726,
       "word": "黑马赵心童会创造中国斯诺克历史吗",
@@ -2603,20 +2699,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14661,
+      "num": 175774,
+      "word": "美脱口秀嘲讽特朗普下属拍马屁",
+      "onboard_time": 1746522080,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14503,
       "num": 18255,
       "word": "开始推理吧",
       "onboard_time": 1746477674,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11569,
-      "num": 175774,
-      "word": "美脱口秀嘲讽特朗普下属拍马屁",
-      "onboard_time": 1746522080,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9772,
