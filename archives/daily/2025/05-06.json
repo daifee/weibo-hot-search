@@ -1,6 +1,6 @@
 {
   "startTime": 1746462739439,
-  "endTime": 1746531410057,
+  "endTime": 1746535926976,
   "band_list": [
     {
       "raw_hot": 2873367,
@@ -35,6 +35,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1741146,
+      "num": 1741146,
+      "word": "刘畊宏方已报警",
+      "onboard_time": 1746534561,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1701684,
       "num": 1701684,
       "word": "疯狂小杨哥露面",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1673506,
-      "num": 449643,
+      "num": 908249,
       "word": "孙珍妮 被换角",
       "onboard_time": 1746524002,
       "rank": 11,
@@ -160,6 +168,14 @@
       "word": "胖东来 玉石",
       "onboard_time": 1746495140,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 921579,
+      "num": 532144,
+      "word": "胖都来现状",
+      "onboard_time": 1746528261,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -379,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532144,
-      "num": 532144,
-      "word": "胖都来现状",
-      "onboard_time": 1746528261,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531019,
       "num": 531019,
       "word": "肖战拍的撕拉片",
@@ -507,6 +515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 454041,
+      "num": 355349,
+      "word": "韩安冉妈妈去当老师了",
+      "onboard_time": 1746534201,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 448838,
       "num": 448838,
       "word": "南通一医院调查男性患卵巢癌论文",
@@ -547,6 +563,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 427119,
+      "num": 427119,
+      "word": "三德子赵亮致歉",
+      "onboard_time": 1746533001,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422837,
       "num": 330802,
       "word": "Jennie晚宴造型",
@@ -561,6 +585,14 @@
       "onboard_time": 1746494780,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 408795,
+      "num": 408795,
+      "word": "坚持喝陈皮苹果3个月",
+      "onboard_time": 1746532462,
+      "rank": 8,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 399049,
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343631,
+      "num": 343631,
+      "word": "张柏芝穿豹纹还是太权威了",
+      "onboard_time": 1746532462,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338846,
       "num": 338846,
       "word": "孟子义跑男出发图鼻祖",
@@ -681,6 +721,14 @@
       "onboard_time": 1746515182,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333550,
+      "num": 333550,
+      "word": "丁禹兮张正这一滴泪",
+      "onboard_time": 1746530662,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 333156,
@@ -795,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294074,
+      "num": 294074,
+      "word": "王一博19年拍的撕拉片",
+      "onboard_time": 1746534741,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289450,
       "num": 289450,
       "word": "戈登三分绝杀雷霆",
@@ -851,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276274,
+      "num": 276274,
+      "word": "芦笋馄饨",
+      "onboard_time": 1746534381,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272976,
       "num": 413885,
       "word": "多家医院回应妇科论文出现男性患者",
@@ -881,6 +945,14 @@
       "onboard_time": 1746496881,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 267087,
+      "num": 267087,
+      "word": "何洁说20年前不懂珍惜",
+      "onboard_time": 1746534622,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 266962,
@@ -963,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247857,
-      "num": 247857,
-      "word": "丁禹兮张正这一滴泪",
-      "onboard_time": 1746530662,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247419,
       "num": 280885,
       "word": "25岁才感觉自己的人生刚刚开始",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1746510859,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227488,
+      "num": 367348,
+      "word": "26岁女儿每次加班爸爸都来送饭",
+      "onboard_time": 1746532341,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227438,
@@ -1115,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216667,
+      "num": 216667,
+      "word": "妈妈绑背带哄娃睡觉宝宝不慎后仰摔地",
+      "onboard_time": 1746532521,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216152,
       "num": 216152,
       "word": "歌手2025我来揭榜",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1746519743,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203775,
+      "num": 203775,
+      "word": "女租客欠租后失联40平公寓变垃圾场",
+      "onboard_time": 1746533061,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202593,
@@ -1491,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170330,
+      "num": 217399,
+      "word": "结石姐又来震撼内娱歌手了",
+      "onboard_time": 1746533242,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169748,
       "num": 169748,
       "word": "边伯贤耳骨夹",
@@ -1539,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168647,
+      "num": 168647,
+      "word": "阿云嘎报名歌手揭榜",
+      "onboard_time": 1746535401,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "孙颖莎核心力量有多强",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1746505883,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "女生卖账号被用于色情诈骗",
+      "onboard_time": 1746532401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166375,
@@ -1601,6 +1713,14 @@
       "onboard_time": 1746456865,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165276,
+      "num": 302590,
+      "word": "毕节警方回应男子在社区拐带儿童",
+      "onboard_time": 1746531142,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164697,
@@ -1892,7 +2012,7 @@
     },
     {
       "raw_hot": 144039,
-      "num": 144039,
+      "num": 147072,
       "word": "姚沐希回应和彭措分手",
       "onboard_time": 1746527961,
       "rank": 43,
@@ -1931,6 +2051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "淮水竹亭剧粉",
+      "onboard_time": 1746532702,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141888,
       "num": 141888,
       "word": "JDG对战WE",
@@ -1947,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140913,
+      "num": 140913,
+      "word": "7天清肠轻断食减重食谱",
+      "onboard_time": 1746529282,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 140880,
       "num": 140880,
       "word": "如果美方真想谈就停止威胁施压",
@@ -1961,6 +2097,14 @@
       "onboard_time": 1746522441,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 139950,
+      "num": 139950,
+      "word": "JDG战胜WE",
+      "onboard_time": 1746534682,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 139681,
@@ -2027,14 +2171,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 135655,
-      "num": 137599,
-      "word": "7天清肠轻断食减重食谱",
-      "onboard_time": 1746529282,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 134538,
       "num": 237864,
       "word": "Freen首位亮相MetGala泰国女星",
@@ -2065,6 +2201,14 @@
       "onboard_time": 1746520042,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133069,
+      "num": 133069,
+      "word": "邓家佳给女性朋友的真诚建议",
+      "onboard_time": 1746535463,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 131834,
@@ -2203,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126733,
+      "num": 334319,
+      "word": "中国医药指南承认学术不端",
+      "onboard_time": 1746534502,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126590,
       "num": 126590,
       "word": "蒜鸟蒜鸟都不容易",
@@ -2323,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122107,
+      "num": 122107,
+      "word": "孟子义想看自己的狗都得预约吧",
+      "onboard_time": 1746532581,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120751,
       "num": 120751,
       "word": "孙俪不俗地演俗人",
@@ -2411,12 +2571,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110855,
+      "num": 110855,
+      "word": "内耗型人格的典型表现",
+      "onboard_time": 1746535764,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 109832,
+      "num": 109832,
+      "word": "六旬阿姨撞树锻炼致腰椎椎体坏死",
+      "onboard_time": 1746535582,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109706,
       "num": 109706,
       "word": "土象的底色是绝情",
       "onboard_time": 1746521242,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109086,
+      "num": 204075,
+      "word": "李栋旭44岁状态",
+      "onboard_time": 1746531500,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 108301,
@@ -2771,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60522,
+      "num": 209327,
+      "word": "胖东来和田玉平均毛利率未超20%",
+      "onboard_time": 1746535821,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59879,
       "num": 313565,
       "word": "和府捞面宣称中式面馆第一品牌被罚",
@@ -2955,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33405,
+      "num": 211344,
+      "word": "大学排行榜谁更专业",
+      "onboard_time": 1746535343,
+      "rank": 29,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 33171,
       "num": 136990,
       "word": "福州抽象摩天轮",
@@ -2995,14 +3195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30614,
-      "num": 302590,
-      "word": "毕节警方回应男子在社区拐带儿童",
-      "onboard_time": 1746531142,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30487,
       "num": 195726,
       "word": "黑马赵心童会创造中国斯诺克历史吗",
@@ -3035,6 +3227,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 26843,
+      "num": 270455,
+      "word": "各问政平台频现高中假双休问题",
+      "onboard_time": 1746535102,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26011,
       "num": 225682,
       "word": "伯克希尔跌超5%",
@@ -3043,12 +3243,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 23475,
+      "num": 213772,
+      "word": "雷雨天气为何能引发哮喘",
+      "onboard_time": 1746535041,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22985,
       "num": 313366,
       "word": "卡式炉为何秒变定时炸弹",
       "onboard_time": 1746519682,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22245,
+      "num": 333619,
+      "word": "WAW的戒断反应",
+      "onboard_time": 1746532881,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 21541,
@@ -3185,6 +3401,14 @@
       "onboard_time": 1746510080,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8469,
+      "num": 268262,
+      "word": "妇科论文出现男性反映哪些学术问题",
+      "onboard_time": 1746535283,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 4611,
