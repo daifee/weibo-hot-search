@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746636553071,
+  "endTime": 1746638593131,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -9,6 +9,14 @@
       "onboard_time": 1746632302,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738433,
+      "num": 738433,
+      "word": "学生班级搞孤立老师坚定停课惩治",
+      "onboard_time": 1746633862,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 704666,
@@ -25,14 +33,6 @@
       "onboard_time": 1746627504,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 573600,
-      "num": 573600,
-      "word": "学生班级搞孤立老师坚定停课惩治",
-      "onboard_time": 1746633862,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 470055,
@@ -227,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104002,
+      "num": 256158,
+      "word": "芬兰空军一架大黄蜂战机坠毁",
+      "onboard_time": 1746633501,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102884,
       "num": 102884,
       "word": "国泰调查乘务员给3岁小孩提供酒水",
       "onboard_time": 1746631582,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102409,
-      "num": 256158,
-      "word": "芬兰空军一架大黄蜂战机坠毁",
-      "onboard_time": 1746633501,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94029,
@@ -371,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64967,
+      "num": 64967,
+      "word": "芭莎滕王阁晚宴",
+      "onboard_time": 1746637458,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 61114,
       "num": 71686,
       "word": "樊振东给孙颖莎签名",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44080,
+      "num": 44080,
+      "word": "丁禹兮演技",
+      "onboard_time": 1746618802,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35934,
       "num": 568179,
       "word": "一图速览一揽子金融增量政策",
@@ -403,12 +419,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35828,
+      "num": 35828,
+      "word": "Bin哥没骗我们",
+      "onboard_time": 1746626363,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34350,
+      "num": 34350,
+      "word": "166斤女孩52秒变装美翻天",
+      "onboard_time": 1746638296,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12585,
       "num": 86649,
       "word": "另一位救人的女船长",
       "onboard_time": 1746635600,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11123,
+      "num": 41204,
+      "word": "新日之坠",
+      "onboard_time": 1746637398,
+      "rank": 39,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
