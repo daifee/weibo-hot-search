@@ -1,0 +1,410 @@
+{
+  "runTime": 1746625069449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974911,
+        "num": 1974911,
+        "word": "清一色",
+        "onboard_time": 1746623423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 960678,
+        "num": 960678,
+        "word": "张小婉妈妈不让张小婉凶管乐",
+        "onboard_time": 1746623303,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 948640,
+        "word": "外国游客变身中国游中国购最强嘴替",
+        "onboard_time": 1746618262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943636,
+        "num": 943636,
+        "word": "Gemini当爸",
+        "onboard_time": 1746619462,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 661462,
+        "num": 661462,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454470,
+        "num": 551128,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534051,
+        "num": 534051,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491334,
+        "num": 491334,
+        "word": "我不会跑 我是张纪中",
+        "onboard_time": 1746615382,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48237,
+        "num": 456003,
+        "word": "中国排面永远让人热泪盈眶",
+        "onboard_time": 1746615503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 446399,
+        "num": 446399,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 604655,
+        "num": 440615,
+        "word": "东京街头偶遇鹿晗",
+        "onboard_time": 1746623483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429722,
+        "num": 429722,
+        "word": "胖东升工作人员称名字是老板随便起",
+        "onboard_time": 1746619342,
+        "rank": 11,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 358277,
+        "num": 358277,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356431,
+        "num": 356431,
+        "word": "印巴爆发全面战争的可能性有多大",
+        "onboard_time": 1746623722,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307255,
+        "num": 307255,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295511,
+        "num": 295511,
+        "word": "女子用超市公筷夹咸菜品尝",
+        "onboard_time": 1746618922,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280792,
+        "num": 280792,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746618802,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258310,
+        "num": 258310,
+        "word": "92岁院士说干的都是世界第一没有第二",
+        "onboard_time": 1746619702,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 243859,
+        "num": 256258,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255783,
+        "num": 255783,
+        "word": "张康乐马柏全直播",
+        "onboard_time": 1746623783,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456255,
+        "num": 254062,
+        "word": "张纪中送娃上学途中发生剐蹭",
+        "onboard_time": 1746614783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250974,
+        "num": 250974,
+        "word": "身体出现这种感觉越强烈越长寿",
+        "onboard_time": 1746623423,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227643,
+        "num": 227643,
+        "word": "职场奶茶文化",
+        "onboard_time": 1746617543,
+        "rank": 22,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 164721,
+        "num": 202237,
+        "word": "被西装暴徒硬控8分钟",
+        "onboard_time": 1746624804,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101972,
+        "num": 201661,
+        "word": "北大实验表明孩子提分秘诀是提问",
+        "onboard_time": 1746621442,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78571,
+        "num": 201485,
+        "word": "清融上班plog",
+        "onboard_time": 1746624804,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201421,
+        "num": 201421,
+        "word": "凤凰台上",
+        "onboard_time": 1746624503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192300,
+        "num": 192300,
+        "word": "舒淇 摇曳生姿的银河玫瑰",
+        "onboard_time": 1746624444,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191185,
+        "num": 191185,
+        "word": "孙珍妮疑回应换角风波",
+        "onboard_time": 1746622282,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60791,
+        "num": 187429,
+        "word": "官方回应马吃草后骑马者被高额索赔",
+        "onboard_time": 1746623361,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 186510,
+        "num": 186510,
+        "word": "第一个兔塑迪丽热巴的简直是天才",
+        "onboard_time": 1746623844,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225558,
+        "num": 183234,
+        "word": "沙溢有吉克隽逸要的色号",
+        "onboard_time": 1746617301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55598,
+        "num": 179964,
+        "word": "加州州长解释为何起诉特朗普政府",
+        "onboard_time": 1746624322,
+        "rank": 32,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 202299,
+        "num": 179664,
+        "word": "丁禹兮孟子义好像在视频聊天",
+        "onboard_time": 1746624623,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179256,
+        "num": 179256,
+        "word": "印度第十二旅总部遭巴方摧毁",
+        "onboard_time": 1746617543,
+        "rank": 34,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 77862,
+        "num": 176743,
+        "word": "周思成雅思大作文9分范文",
+        "onboard_time": 1746611603,
+        "rank": 35,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 175472,
+        "num": 175472,
+        "word": "梁田这是什么虎狼之词",
+        "onboard_time": 1746623783,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170663,
+        "num": 170663,
+        "word": "胖东升被指抄袭胖东来工作人员回应",
+        "onboard_time": 1746622342,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164864,
+        "num": 164864,
+        "word": "肖战已获61个多领域奖项",
+        "onboard_time": 1746620061,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34256,
+        "num": 159118,
+        "word": "脾虚之人吃点烤馒头片",
+        "onboard_time": 1746623541,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 156886,
+        "num": 156886,
+        "word": "旅游大巴司机边开车边刷视频近半小时",
+        "onboard_time": 1746621801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154789,
+        "num": 154789,
+        "word": "员工未赴指定医院看病遭公司解雇",
+        "onboard_time": 1746622942,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154616,
+        "num": 154616,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150274,
+        "num": 150274,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147916,
+        "num": 147916,
+        "word": "魏晨吴昕拥抱",
+        "onboard_time": 1746618443,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146637,
+        "num": 146637,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143877,
+        "num": 143877,
+        "word": "印度防长曾称阵风是世界最牛战机之一",
+        "onboard_time": 1746607403,
+        "rank": 46,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 141492,
+        "num": 141492,
+        "word": "郑州有单位强制在编人员捐款",
+        "onboard_time": 1746615981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139727,
+        "num": 139727,
+        "word": "刘亦菲 流俗地",
+        "onboard_time": 1746613823,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130753,
+        "num": 130753,
+        "word": "小S二女儿Lily杂志大片",
+        "onboard_time": 1746615862,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在俄罗斯媒体发表署名文章#"
+    }
+  }
+}

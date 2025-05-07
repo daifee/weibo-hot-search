@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746623286399,
+  "endTime": 1746625069449,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -209,6 +209,14 @@
       "onboard_time": 1746607044,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1974911,
+      "num": 1974911,
+      "word": "清一色",
+      "onboard_time": 1746623423,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1935270,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1746328761,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 960678,
+      "num": 960678,
+      "word": "张小婉妈妈不让张小婉凶管乐",
+      "onboard_time": 1746623303,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 959894,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1746321381,
       "rank": 22,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 604655,
+      "num": 440615,
+      "word": "东京街头偶遇鹿晗",
+      "onboard_time": 1746623483,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 604310,
@@ -5067,6 +5091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 356431,
+      "num": 356431,
+      "word": "印巴爆发全面战争的可能性有多大",
+      "onboard_time": 1746623722,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 352550,
       "num": 352550,
       "word": "全红婵收获全场首个10分",
@@ -6427,6 +6459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280792,
+      "num": 290906,
+      "word": "丁禹兮演技",
+      "onboard_time": 1746618802,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
@@ -6979,6 +7019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258310,
+      "num": 258310,
+      "word": "92岁院士说干的都是世界第一没有第二",
+      "onboard_time": 1746619702,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 258194,
       "num": 258194,
       "word": "第五人格 纸嫁衣",
@@ -7057,6 +7105,14 @@
       "onboard_time": 1746338661,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255783,
+      "num": 255783,
+      "word": "张康乐马柏全直播",
+      "onboard_time": 1746623783,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 255495,
@@ -7225,6 +7281,14 @@
       "onboard_time": 1746240980,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250974,
+      "num": 250974,
+      "word": "身体出现这种感觉越强烈越长寿",
+      "onboard_time": 1746623423,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 250783,
@@ -7544,14 +7608,6 @@
       "word": "风月不相关女主",
       "onboard_time": 1746601943,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 240834,
-      "num": 290906,
-      "word": "丁禹兮演技",
-      "onboard_time": 1746618802,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -9139,6 +9195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202299,
+      "num": 179664,
+      "word": "丁禹兮孟子义好像在视频聊天",
+      "onboard_time": 1746624623,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202257,
       "num": 202257,
       "word": "跳水世界杯",
@@ -9176,6 +9240,14 @@
       "word": "虞书欣高智感冷都女路透",
       "onboard_time": 1746282023,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201421,
+      "num": 201421,
+      "word": "凤凰台上",
+      "onboard_time": 1746624503,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -10139,6 +10211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192300,
+      "num": 192300,
+      "word": "舒淇 摇曳生姿的银河玫瑰",
+      "onboard_time": 1746624444,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192011,
       "num": 192011,
       "word": "马嘉祺the greatest show",
@@ -10737,6 +10817,14 @@
       "onboard_time": 1746245420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186510,
+      "num": 186510,
+      "word": "第一个兔塑迪丽热巴的简直是天才",
+      "onboard_time": 1746623844,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 186484,
@@ -11521,6 +11609,14 @@
       "onboard_time": 1746431840,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175472,
+      "num": 175472,
+      "word": "梁田这是什么虎狼之词",
+      "onboard_time": 1746623783,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 175196,
@@ -12499,6 +12595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164721,
+      "num": 202237,
+      "word": "被西装暴徒硬控8分钟",
+      "onboard_time": 1746624804,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164697,
       "num": 164697,
       "word": "中国人从斯诺克4强变冠军",
@@ -13275,6 +13379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156886,
+      "num": 272862,
+      "word": "旅游大巴司机边开车边刷视频近半小时",
+      "onboard_time": 1746621801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156826,
       "num": 156826,
       "word": "民警3天捡了25个孩子",
@@ -13513,6 +13625,14 @@
       "onboard_time": 1746432560,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154789,
+      "num": 340701,
+      "word": "员工未赴指定医院看病遭公司解雇",
+      "onboard_time": 1746622942,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154747,
@@ -17627,14 +17747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122736,
-      "num": 122736,
-      "word": "92岁院士说干的都是世界第一没有第二",
-      "onboard_time": 1746619702,
-      "rank": 42,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 122694,
       "num": 122694,
       "word": "雷军晒AI照",
@@ -20379,14 +20491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94052,
-      "num": 272862,
-      "word": "旅游大巴司机边开车边刷视频近半小时",
-      "onboard_time": 1746621801,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93987,
       "num": 93987,
       "word": "朴宝剑主持",
@@ -21307,6 +21411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78571,
+      "num": 201485,
+      "word": "清融上班plog",
+      "onboard_time": 1746624804,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78270,
       "num": 78270,
       "word": "美方多渠道主动接触中方希望谈关税",
@@ -21329,6 +21441,14 @@
       "onboard_time": 1746516622,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77862,
+      "num": 176743,
+      "word": "周思成雅思大作文9分范文",
+      "onboard_time": 1746611603,
+      "rank": 35,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 77501,
@@ -22291,6 +22411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60791,
+      "num": 187429,
+      "word": "官方回应马吃草后骑马者被高额索赔",
+      "onboard_time": 1746623361,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 60777,
       "num": 60777,
       "word": "问界M8合格证印错",
@@ -22569,6 +22697,14 @@
       "onboard_time": 1746366806,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55598,
+      "num": 179964,
+      "word": "加州州长解释为何起诉特朗普政府",
+      "onboard_time": 1746624322,
+      "rank": 32,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 55198,
@@ -23923,6 +24059,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 34256,
+      "num": 159118,
+      "word": "脾虚之人吃点烤馒头片",
+      "onboard_time": 1746623541,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 34204,
       "num": 205245,
       "word": "刺五加注射液",
@@ -24841,14 +24985,6 @@
       "onboard_time": 1746168090,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22517,
-      "num": 340701,
-      "word": "员工未赴指定医院看病遭公司解雇",
-      "onboard_time": 1746622942,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22474,
