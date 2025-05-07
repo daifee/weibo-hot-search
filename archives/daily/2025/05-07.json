@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746587685338,
+  "endTime": 1746588559299,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -19,12 +19,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 2117832,
-      "num": 2117832,
+      "raw_hot": 2270502,
+      "num": 2270502,
       "word": "淘宝免单",
       "onboard_time": 1746580521,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2082257,
+      "num": 618702,
+      "word": "爱吃菠萝的人天塌了",
+      "onboard_time": 1746586880,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1752991,
@@ -33,14 +41,6 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 1551446,
-      "num": 575594,
-      "word": "爱吃菠萝的人天塌了",
-      "onboard_time": 1746586880,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1536429,
@@ -65,6 +65,14 @@
       "onboard_time": 1746534561,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1023187,
+      "num": 1023187,
+      "word": "灵犀相通",
+      "onboard_time": 1746587542,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 978209,
@@ -139,14 +147,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 645047,
-      "num": 645047,
-      "word": "灵犀相通",
-      "onboard_time": 1746587542,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 624250,
       "num": 624250,
       "word": "不要在路边摊随便买东西吃了",
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 576858,
-      "num": 576858,
+      "num": 628959,
       "word": "100万房贷月供少还132元",
       "onboard_time": 1746584843,
       "rank": 9,
@@ -185,6 +185,14 @@
       "onboard_time": 1746576323,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 486556,
+      "num": 486556,
+      "word": "众星痛心发文悼念苟伟",
+      "onboard_time": 1746587842,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 466275,
@@ -355,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307038,
+      "num": 427145,
+      "word": "降准降息对生活的直接影响",
+      "onboard_time": 1746586522,
+      "rank": 20,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 303187,
       "num": 351771,
       "word": "孙珍妮 被换角",
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247495,
+      "num": 247495,
+      "word": "孟子义我从一年级就开始追你了",
+      "onboard_time": 1746587963,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245176,
       "num": 373417,
       "word": "巴军方公布击落印度军机型号",
@@ -457,6 +481,22 @@
       "onboard_time": 1746515482,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244574,
+      "num": 244574,
+      "word": "201",
+      "onboard_time": 1746587901,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "60w房贷少还多少钱",
+      "onboard_time": 1746588022,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 236164,
@@ -489,6 +529,14 @@
       "onboard_time": 1746576083,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223152,
+      "num": 223152,
+      "word": "公司回应林俊杰被曝介入他人感情",
+      "onboard_time": 1746588324,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 219957,
@@ -547,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203043,
+      "num": 464552,
+      "word": "公积金利率降至历史低位",
+      "onboard_time": 1746586101,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 202700,
       "num": 202700,
       "word": "微信支付一直在花我的钱",
@@ -564,11 +620,19 @@
     },
     {
       "raw_hot": 200921,
-      "num": 589372,
+      "num": 632562,
       "word": "全员加速中首录路透",
       "onboard_time": 1746587122,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199719,
+      "num": 199719,
+      "word": "降息0.1个百分点",
+      "onboard_time": 1746587963,
+      "rank": 38,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 196748,
@@ -651,6 +715,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179330,
+      "num": 179330,
+      "word": "每年将节省公积金贷款利息超过200亿元",
+      "onboard_time": 1746585141,
+      "rank": 41,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 175858,
       "num": 175858,
       "word": "赵心童王楚钦是好友还都是左手将",
@@ -731,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153316,
-      "num": 464552,
-      "word": "公积金利率降至历史低位",
-      "onboard_time": 1746586101,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 151394,
+      "num": 151394,
+      "word": "当你有个卖奶茶的朋友",
+      "onboard_time": 1746588324,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 150419,
@@ -793,14 +865,6 @@
       "onboard_time": 1746534201,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 135779,
-      "num": 427145,
-      "word": "降准降息对生活的直接影响",
-      "onboard_time": 1746586522,
-      "rank": 20,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 135241,
@@ -891,6 +955,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 118697,
+      "num": 223465,
+      "word": "黄子弘凡浪漫起来猝不及防",
+      "onboard_time": 1746587542,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118272,
       "num": 118272,
       "word": "中方强烈谴责美中情局招募间谍",
@@ -937,6 +1009,14 @@
       "onboard_time": 1746574401,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105031,
+      "num": 308610,
+      "word": "为每只基金设立清晰的业绩比较基准",
+      "onboard_time": 1746587963,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 104919,
@@ -1075,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77713,
-      "num": 157327,
-      "word": "黄子弘凡浪漫起来猝不及防",
-      "onboard_time": 1746587542,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 74262,
       "num": 74262,
       "word": "全红婵手速第一名",
@@ -1160,6 +1232,14 @@
       "word": "男子称54岁父亲在医院输液后身亡",
       "onboard_time": 1746543444,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64974,
+      "num": 480144,
+      "word": "莫让胖东来们陷入棒杀捧杀泥潭",
+      "onboard_time": 1746587423,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1259,12 +1339,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 34906,
-      "num": 436535,
-      "word": "莫让胖东来们陷入棒杀捧杀泥潭",
-      "onboard_time": 1746587423,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 36616,
+      "num": 363299,
+      "word": "时隔一周美航母舰载机再出事故",
+      "onboard_time": 1746588143,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34403,
