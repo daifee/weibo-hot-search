@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746643734701,
+  "endTime": 1746645716437,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -161,6 +161,14 @@
       "onboard_time": 1746632722,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136285,
+      "num": 136285,
+      "word": "印巴局势再升级",
+      "onboard_time": 1746642794,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129327,
@@ -435,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 33741,
-      "num": 50127,
-      "word": "印巴局势再升级",
-      "onboard_time": 1746642794,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31388,
       "num": 47233,
       "word": "水舞间",
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19462,
+      "num": 19462,
+      "word": "我们有强大抗压能力和充足措施手段",
+      "onboard_time": 1746644055,
+      "rank": 32,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 17764,
       "num": 24530,
       "word": "AL对战BLG",
@@ -505,6 +513,14 @@
       "onboard_time": 1746643575,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13346,
+      "num": 17611,
+      "word": "环球时报记者莫斯科实拍",
+      "onboard_time": 1746631761,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 12585,
