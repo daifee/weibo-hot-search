@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746639700152,
+  "endTime": 1746642819819,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -14691,6 +14691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24810,
+      "num": 24810,
+      "word": "丁禹兮执剑变装",
+      "onboard_time": 1746641594,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24769,
       "num": 317676,
       "word": "奶茶店等小微企业借钱成本降低",
@@ -14923,6 +14931,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 19619,
+      "num": 24532,
+      "word": "黑白张正",
+      "onboard_time": 1746640815,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19154,
       "num": 205179,
       "word": "8岁男童失踪超60小时119持续搜救",
@@ -15003,6 +15019,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 17764,
+      "num": 24530,
+      "word": "AL对战BLG",
+      "onboard_time": 1746642135,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 17757,
       "num": 25769,
       "word": "华晨宇日出演唱会一周年",
@@ -15017,6 +15041,14 @@
       "onboard_time": 1746357682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17225,
+      "num": 24515,
+      "word": "印巴局势再升级",
+      "onboard_time": 1746642794,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16650,
