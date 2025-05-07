@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746660254868,
+  "endTime": 1746661196987,
   "band_list": [
     {
       "raw_hot": 1046925,
@@ -11,8 +11,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 833177,
-      "num": 833177,
+      "raw_hot": 1013286,
+      "num": 1013286,
       "word": "印巴局势再升级",
       "onboard_time": 1746642794,
       "rank": 49,
@@ -25,6 +25,14 @@
       "onboard_time": 1746632302,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788429,
+      "num": 556505,
+      "word": "巴西女硕士夸日本安全次日疑遭焚尸",
+      "onboard_time": 1746659959,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 704666,
@@ -43,14 +51,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 556505,
-      "num": 556505,
-      "word": "巴西女硕士夸日本安全次日疑遭焚尸",
-      "onboard_time": 1746659959,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 470055,
       "num": 364140,
       "word": "巴总理拍桌称有实力还有核武器",
@@ -65,6 +65,22 @@
       "onboard_time": 1746629423,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 377619,
+      "num": 386353,
+      "word": "直播间卖土鸡结果土是商标名",
+      "onboard_time": 1746627203,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 372906,
+      "num": 372906,
+      "word": "奈雪的茶再换logo改成奈雪",
+      "onboard_time": 1746660140,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 344869,
@@ -91,14 +107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 301732,
-      "num": 386353,
-      "word": "直播间卖土鸡结果土是商标名",
-      "onboard_time": 1746627203,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 289966,
       "num": 230121,
       "word": "昀牵孟绕",
@@ -113,6 +121,14 @@
       "onboard_time": 1746632064,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226064,
+      "num": 226064,
+      "word": "美联储",
+      "onboard_time": 1746659899,
+      "rank": 26,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 223527,
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173690,
+      "num": 138956,
+      "word": "睡眠最佳时间是晚10点半到早7点半",
+      "onboard_time": 1746660019,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165643,
       "num": 165643,
       "word": "全KPL在恭喜Gemini",
@@ -187,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156090,
+      "num": 156090,
+      "word": "美联储宣布维持基准利率不变",
+      "onboard_time": 1746659959,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155332,
       "num": 155332,
       "word": "印度第十二旅总部遭巴方摧毁",
@@ -195,12 +227,20 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 143199,
-      "num": 143199,
+      "raw_hot": 143813,
+      "num": 143813,
       "word": "南大教授再回应陈丽君口误",
       "onboard_time": 1746632722,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136720,
+      "num": 243690,
+      "word": "拜登卸任后首次接受采访",
+      "onboard_time": 1746659959,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136197,
@@ -209,14 +249,6 @@
       "onboard_time": 1746626902,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135444,
-      "num": 135444,
-      "word": "奈雪的茶再换logo改成奈雪",
-      "onboard_time": 1746660140,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 133686,
@@ -228,11 +260,19 @@
     },
     {
       "raw_hot": 129327,
-      "num": 129327,
+      "num": 143134,
       "word": "张小婉妈妈不让张小婉凶管乐",
       "onboard_time": 1746623303,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129168,
+      "num": 143422,
+      "word": "丁真说演十八铜人把自己害惨了",
+      "onboard_time": 1746632902,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 128994,
@@ -283,11 +323,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110258,
-      "num": 135168,
-      "word": "丁真说演十八铜人把自己害惨了",
-      "onboard_time": 1746632902,
-      "rank": 29,
+      "raw_hot": 113089,
+      "num": 113089,
+      "word": "身体出现这种感觉越强烈越长寿",
+      "onboard_time": 1746623423,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111312,
+      "num": 143258,
+      "word": "孟子义成功了是魔术失败了是小品",
+      "onboard_time": 1746656235,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -307,28 +355,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 103268,
-      "num": 103268,
-      "word": "身体出现这种感觉越强烈越长寿",
-      "onboard_time": 1746623423,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94781,
-      "num": 94781,
-      "word": "美联储",
-      "onboard_time": 1746659899,
-      "rank": 26,
-      "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 93455,
-      "num": 134973,
-      "word": "孟子义成功了是魔术失败了是小品",
-      "onboard_time": 1746656235,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 96332,
+      "num": 96332,
+      "word": "巴基斯坦将对印军入侵做出回应",
+      "onboard_time": 1746650115,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91068,
@@ -337,14 +369,6 @@
       "onboard_time": 1746633201,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 90832,
-      "num": 90832,
-      "word": "巴基斯坦将对印军入侵做出回应",
-      "onboard_time": 1746650115,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86134,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73163,
+      "num": 73163,
+      "word": "女子上门做饭每天6单月薪近2万",
+      "onboard_time": 1746660740,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72930,
       "num": 72930,
       "word": "女教师抗癌7年离世成大体老师",
@@ -419,20 +451,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68385,
-      "num": 68385,
-      "word": "睡眠最佳时间是晚10点半到早7点半",
-      "onboard_time": 1746660019,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 67993,
       "num": 71700,
       "word": "印度举行全国性演习",
       "onboard_time": 1746630683,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65636,
+      "num": 65636,
+      "word": "小女孩拿自家金饰去卖老板直接扣下",
+      "onboard_time": 1746660740,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64967,
@@ -443,12 +475,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 61718,
-      "num": 61718,
-      "word": "美联储宣布维持基准利率不变",
-      "onboard_time": 1746659959,
-      "rank": 35,
-      "category": "财经"
+      "raw_hot": 64700,
+      "num": 103765,
+      "word": "刘诗诗张云龙是真的笑场了吧",
+      "onboard_time": 1746658518,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63193,
+      "num": 63193,
+      "word": "DeepSeek致谢腾讯技术团队",
+      "onboard_time": 1746660019,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 61562,
+      "num": 61562,
+      "word": "姐不行你去无限超越班吧",
+      "onboard_time": 1746660019,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 61114,
@@ -467,8 +515,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59008,
-      "num": 59008,
+      "raw_hot": 59071,
+      "num": 59071,
       "word": "巴黎圣日耳曼vs阿森纳",
       "onboard_time": 1746612322,
       "rank": 37,
@@ -483,40 +531,32 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56987,
-      "num": 56987,
-      "word": "DeepSeek致谢腾讯技术团队",
-      "onboard_time": 1746660019,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 57759,
+      "num": 57759,
+      "word": "张伦硕为刘畊宏发声",
+      "onboard_time": 1746661040,
+      "rank": 42,
+      "category": "艺人"
     },
     {
-      "raw_hot": 56840,
-      "num": 128854,
-      "word": "拜登卸任后首次接受采访",
-      "onboard_time": 1746659959,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 57465,
+      "num": 57465,
+      "word": "胖东来起诉柴怼怼商业诋毁侵犯名誉权",
+      "onboard_time": 1746659899,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 54802,
-      "num": 85514,
-      "word": "刘诗诗张云龙是真的笑场了吧",
-      "onboard_time": 1746658518,
-      "rank": 29,
+      "raw_hot": 51096,
+      "num": 51096,
+      "word": "丁禹兮孟子义陪看吻戏红温",
+      "onboard_time": 1746660681,
+      "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 53252,
-      "num": 53252,
-      "word": "姐不行你去无限超越班吧",
-      "onboard_time": 1746660019,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 47978,
-      "num": 47978,
+      "raw_hot": 49956,
+      "num": 49956,
       "word": "丁禹兮演技",
       "onboard_time": 1746618802,
       "rank": 35,
@@ -531,7 +571,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40352,
+      "raw_hot": 44338,
       "num": 631248,
       "word": "一图速览一揽子金融增量政策",
       "onboard_time": 1746627504,
@@ -545,6 +585,14 @@
       "onboard_time": 1746626363,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33563,
+      "num": 110899,
+      "word": "普京称胜利日停火已开始生效",
+      "onboard_time": 1746661040,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31388,
@@ -593,6 +641,14 @@
       "onboard_time": 1746646815,
       "rank": 32,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 20341,
+      "num": 60435,
+      "word": "赵心童和奥沙利文亦师亦友",
+      "onboard_time": 1746661160,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19619,
