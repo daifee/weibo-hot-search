@@ -1,0 +1,410 @@
+{
+  "runTime": 1746614746420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1325122,
+        "num": 1325122,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 813444,
+        "num": 813444,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56984,
+        "num": 718386,
+        "word": "央行3类10项措施",
+        "onboard_time": 1746592645,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1443472,
+        "num": 709746,
+        "word": "周渝民谈大S",
+        "onboard_time": 1746611062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667664,
+        "num": 667664,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283046,
+        "num": 664553,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662563,
+        "num": 662563,
+        "word": "茅台回应首位代言人张艺兴",
+        "onboard_time": 1746600022,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461800,
+        "num": 461800,
+        "word": "陈丽君口误为何引发轩然大波",
+        "onboard_time": 1746609864,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446628,
+        "num": 446628,
+        "word": "联合国秘书长称世界承受不起印巴军事对抗",
+        "onboard_time": 1746607763,
+        "rank": 8,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 119966,
+        "num": 440061,
+        "word": "医院通报职工妇科论文男性样本超6成",
+        "onboard_time": 1746614122,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 873236,
+        "num": 439341,
+        "word": "吉克隽逸发文急寻粉底液救急",
+        "onboard_time": 1746609503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578864,
+        "num": 438768,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437103,
+        "num": 437103,
+        "word": "吻戏",
+        "onboard_time": 1746612921,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27945,
+        "num": 378545,
+        "word": "人民网评胖东来需讨回公道",
+        "onboard_time": 1746614423,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245514,
+        "num": 377465,
+        "word": "涉事医院通报男性子宫论文处理情况",
+        "onboard_time": 1746613103,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 376526,
+        "num": 376526,
+        "word": "印度防长曾称阵风是世界最牛战机之一",
+        "onboard_time": 1746607403,
+        "rank": 15,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 335913,
+        "num": 335913,
+        "word": "陈丽君含泪道歉",
+        "onboard_time": 1746595643,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311014,
+        "num": 311014,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165333,
+        "num": 309233,
+        "word": "偶遇赵丽颖逛商场",
+        "onboard_time": 1746614362,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 19049,
+        "num": 295008,
+        "word": "赵心童说会继续拿下更多比赛",
+        "onboard_time": 1746613763,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 860213,
+        "num": 292106,
+        "word": "男子值班与女友发生关系猝死",
+        "onboard_time": 1746607044,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477717,
+        "num": 281322,
+        "word": "孟美岐没想到能跟歌手有联系",
+        "onboard_time": 1746607464,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254090,
+        "num": 274895,
+        "word": "深圳机场连续两天发生航班大面积延误",
+        "onboard_time": 1746612621,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269006,
+        "num": 269006,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75025,
+        "num": 264322,
+        "word": "建立健全与基金投资收益相挂钩的薪酬管理机制",
+        "onboard_time": 1746613644,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263241,
+        "num": 263241,
+        "word": "往左边一瞥居然是李冰冰",
+        "onboard_time": 1746613284,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 236904,
+        "num": 262818,
+        "word": "刘亦菲 流俗地",
+        "onboard_time": 1746613823,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224106,
+        "num": 261118,
+        "word": "七根心简",
+        "onboard_time": 1746612203,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190503,
+        "num": 260083,
+        "word": "被击落的印度飞机残骸",
+        "onboard_time": 1746613162,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162089,
+        "num": 259613,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258741,
+        "num": 258741,
+        "word": "恋与深空",
+        "onboard_time": 1746613763,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252884,
+        "num": 252884,
+        "word": "抖音副总裁回应胖东来柴怼怼事件",
+        "onboard_time": 1746611784,
+        "rank": 31,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 230290,
+        "num": 230290,
+        "word": "撕拉片溢价三百多一张还未必成像",
+        "onboard_time": 1746603202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194643,
+        "num": 194643,
+        "word": "正媛",
+        "onboard_time": 1746613582,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193839,
+        "num": 193839,
+        "word": "关晓彤嘴里咬着戒指",
+        "onboard_time": 1746594324,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191265,
+        "num": 191265,
+        "word": "外交部回应美渲染中方难承受高关税压力",
+        "onboard_time": 1746608363,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 181270,
+        "num": 181270,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 180490,
+        "num": 180490,
+        "word": "汪苏泷后台回应粉丝热情",
+        "onboard_time": 1746611181,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170723,
+        "num": 170723,
+        "word": "e人送礼都要当显眼包",
+        "onboard_time": 1746613464,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166559,
+        "num": 166559,
+        "word": "撕拉片凭什么卖300多一张",
+        "onboard_time": 1746600502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157160,
+        "num": 157160,
+        "word": "迪丽热巴更换对接团队",
+        "onboard_time": 1746612142,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152404,
+        "num": 152404,
+        "word": "丁禹兮空降直播",
+        "onboard_time": 1746613464,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147489,
+        "num": 147489,
+        "word": "淮水竹亭",
+        "onboard_time": 1746613222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 142036,
+        "word": "第一次在牛脸上看到了委屈",
+        "onboard_time": 1746612023,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139443,
+        "num": 139443,
+        "word": "存量公积金贷款利率什么时候会降",
+        "onboard_time": 1746613222,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "白敬亭申请强执春山学博主",
+        "onboard_time": 1746592165,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136172,
+        "num": 136172,
+        "word": "罗予彤JYP大师课三对一",
+        "onboard_time": 1746609802,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134796,
+        "num": 134796,
+        "word": "湖南一推婴儿车女子被狗咬住不放",
+        "onboard_time": 1746613403,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134456,
+        "num": 134456,
+        "word": "张云龙回应37岁勇闯甜妹圈",
+        "onboard_time": 1746614602,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "祝贺胖都来开业的明星致歉",
+        "onboard_time": 1746590663,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺默茨当选德国总理#"
+    }
+  }
+}
