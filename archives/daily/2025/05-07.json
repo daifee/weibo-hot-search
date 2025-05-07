@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746610958089,
+  "endTime": 1746613692528,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1993595,
-      "num": 420614,
+      "num": 520395,
       "word": "男子值班与女友发生关系猝死",
       "onboard_time": 1746607044,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 1559714,
+      "num": 1559714,
+      "word": "周渝民谈大S",
+      "onboard_time": 1746611062,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1536429,
@@ -112,6 +120,14 @@
       "word": "刘畊宏方已报警",
       "onboard_time": 1746534561,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1054630,
+      "num": 493533,
+      "word": "吉克隽逸发文急寻粉底液救急",
+      "onboard_time": 1746609503,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -283,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 689749,
-      "num": 414614,
-      "word": "吉克隽逸发文急寻粉底液救急",
-      "onboard_time": 1746609503,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 692138,
+      "num": 692138,
+      "word": "联合国秘书长称世界承受不起印巴军事对抗",
+      "onboard_time": 1746607763,
+      "rank": 9,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 689605,
@@ -395,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 541016,
+      "num": 541016,
+      "word": "陈丽君口误为何引发轩然大波",
+      "onboard_time": 1746609864,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 489363,
       "num": 489363,
       "word": "悟空小猫",
@@ -417,14 +441,6 @@
       "onboard_time": 1746573620,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465200,
-      "num": 465200,
-      "word": "联合国秘书长称世界承受不起印巴军事对抗",
-      "onboard_time": 1746607763,
-      "rank": 9,
-      "category": "国际时政,军事"
     },
     {
       "raw_hot": 462666,
@@ -625,6 +641,14 @@
       "onboard_time": 1746543204,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 342969,
+      "num": 342969,
+      "word": "茅台文旅代言人张艺兴",
+      "onboard_time": 1746612802,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 340302,
@@ -1019,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231870,
+      "num": 231870,
+      "word": "七根心简",
+      "onboard_time": 1746612203,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228675,
       "num": 228675,
       "word": "王楚钦除了吃海鲜都是强项",
@@ -1067,20 +1099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220993,
+      "num": 220993,
+      "word": "抖音副总裁回应胖东来柴怼怼事件",
+      "onboard_time": 1746611784,
+      "rank": 23,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 220647,
       "num": 220647,
       "word": "有个拼凑型人格的朋友是种什么体验",
       "onboard_time": 1746599663,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220500,
-      "num": 430324,
-      "word": "陈丽君口误为何引发轩然大波",
-      "onboard_time": 1746609864,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 219957,
@@ -1120,6 +1152,14 @@
       "word": "黄宗泽新剧无妻徒刑",
       "onboard_time": 1746594742,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209106,
+      "num": 209106,
+      "word": "吻戏",
+      "onboard_time": 1746612921,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200505,
+      "num": 200505,
+      "word": "e人送礼都要当显眼包",
+      "onboard_time": 1746613464,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199719,
       "num": 388589,
       "word": "降息0.1个百分点",
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188164,
+      "num": 190783,
+      "word": "汪苏泷后台回应粉丝热情",
+      "onboard_time": 1746611181,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186566,
       "num": 186566,
       "word": "NBA",
@@ -1427,12 +1483,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182401,
+      "num": 190165,
+      "word": "往左边一瞥居然是李冰冰",
+      "onboard_time": 1746613284,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 182029,
       "num": 182029,
       "word": "现在见到刘涛就想跪",
       "onboard_time": 1746609743,
       "rank": 39,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 180195,
+      "num": 180195,
+      "word": "迪丽热巴更换对接团队",
+      "onboard_time": 1746612142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 179583,
@@ -1499,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172451,
+      "num": 172451,
+      "word": "淮水竹亭",
+      "onboard_time": 1746613222,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170599,
       "num": 264626,
       "word": "张云龙37岁勇闯甜妹圈",
@@ -1515,12 +1595,28 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 168452,
+      "num": 168452,
+      "word": "张柏芝闪钻长裙",
+      "onboard_time": 1746611422,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168225,
       "num": 286024,
       "word": "苟伟曾因抑郁未回应张杰演唱会邀约",
       "onboard_time": 1746598820,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168209,
+      "num": 539987,
+      "word": "外交部回应美渲染中方难承受高关税压力",
+      "onboard_time": 1746608363,
+      "rank": 48,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 168061,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1746609202,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160138,
+      "num": 160138,
+      "word": "丁禹兮空降直播",
+      "onboard_time": 1746613464,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159873,
@@ -1811,14 +1915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 143181,
-      "num": 143181,
-      "word": "外交部回应美渲染中方难承受高关税压力",
-      "onboard_time": 1746608363,
-      "rank": 48,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 142673,
       "num": 142673,
       "word": "理想称李想年薪6.39亿不准确",
@@ -1841,6 +1937,14 @@
       "onboard_time": 1746599243,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "于适老钱风穿搭",
+      "onboard_time": 1746612742,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 139649,
@@ -1875,6 +1979,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 136851,
+      "num": 136851,
+      "word": "第一次在牛脸上看到了委屈",
+      "onboard_time": 1746612023,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136815,
       "num": 136815,
       "word": "韩安冉妈妈去当老师了",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1746597503,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136022,
+      "num": 274732,
+      "word": "深圳机场连续两天发生航班大面积延误",
+      "onboard_time": 1746612621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135386,
@@ -2011,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128334,
+      "num": 128334,
+      "word": "湖南一推婴儿车女子被狗咬住不放",
+      "onboard_time": 1746613403,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127667,
       "num": 160042,
       "word": "国米晋级欧冠决赛",
@@ -2041,6 +2169,14 @@
       "onboard_time": 1746590544,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "正媛",
+      "onboard_time": 1746613582,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122369,
@@ -2427,6 +2563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66785,
+      "num": 441815,
+      "word": "涉事医院通报男性子宫论文处理情况",
+      "onboard_time": 1746613103,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 65661,
       "num": 65661,
       "word": "王蓉终于找对赛道了",
@@ -2473,6 +2617,14 @@
       "onboard_time": 1746588143,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63491,
+      "num": 462614,
+      "word": "胖都来为啥不能叫胖都来",
+      "onboard_time": 1746612443,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62816,
@@ -2611,6 +2763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42408,
+      "num": 149897,
+      "word": "建立健全与基金投资收益相挂钩的薪酬管理机制",
+      "onboard_time": 1746613644,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 41395,
       "num": 750292,
       "word": "小心馅饼变陷阱",
@@ -2657,6 +2817,14 @@
       "onboard_time": 1746538222,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 36023,
+      "num": 189811,
+      "word": "被击落的印度飞机残骸",
+      "onboard_time": 1746613162,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35727,

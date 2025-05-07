@@ -1,0 +1,410 @@
+{
+  "runTime": 1746613692528,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577871,
+        "num": 1577871,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1559714,
+        "num": 1559714,
+        "word": "周渝民谈大S",
+        "onboard_time": 1746611062,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66063,
+        "num": 1104325,
+        "word": "央行3类10项措施",
+        "onboard_time": 1746592645,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 709661,
+        "num": 709661,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 692138,
+        "num": 692138,
+        "word": "联合国秘书长称世界承受不起印巴军事对抗",
+        "onboard_time": 1746607763,
+        "rank": 4,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 647140,
+        "num": 647140,
+        "word": "茅台回应首位代言人张艺兴",
+        "onboard_time": 1746600022,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546281,
+        "num": 546281,
+        "word": "孟美岐没想到能跟歌手有联系",
+        "onboard_time": 1746607464,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276253,
+        "num": 543365,
+        "word": "撕拉片溢价三百多一张还未必成像",
+        "onboard_time": 1746603202,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541016,
+        "num": 541016,
+        "word": "陈丽君口误为何引发轩然大波",
+        "onboard_time": 1746609864,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168209,
+        "num": 539987,
+        "word": "外交部回应美渲染中方难承受高关税压力",
+        "onboard_time": 1746608363,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1112539,
+        "num": 520395,
+        "word": "男子值班与女友发生关系猝死",
+        "onboard_time": 1746607044,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1054630,
+        "num": 493533,
+        "word": "吉克隽逸发文急寻粉底液救急",
+        "onboard_time": 1746609503,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626395,
+        "num": 471681,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63491,
+        "num": 462614,
+        "word": "胖都来为啥不能叫胖都来",
+        "onboard_time": 1746612443,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66785,
+        "num": 441815,
+        "word": "涉事医院通报男性子宫论文处理情况",
+        "onboard_time": 1746613103,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 434217,
+        "num": 434217,
+        "word": "印度防长曾称阵风是世界最牛战机之一",
+        "onboard_time": 1746607403,
+        "rank": 15,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 389395,
+        "num": 389395,
+        "word": "陈丽君含泪道歉",
+        "onboard_time": 1746595643,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354526,
+        "num": 354526,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342969,
+        "num": 342969,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136022,
+        "num": 274732,
+        "word": "深圳机场连续两天发生航班大面积延误",
+        "onboard_time": 1746612621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267823,
+        "num": 267823,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262129,
+        "num": 262129,
+        "word": "关晓彤嘴里咬着戒指",
+        "onboard_time": 1746594324,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231870,
+        "num": 231870,
+        "word": "七根心简",
+        "onboard_time": 1746612203,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220993,
+        "num": 220993,
+        "word": "抖音副总裁回应胖东来柴怼怼事件",
+        "onboard_time": 1746611784,
+        "rank": 23,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 211956,
+        "num": 211956,
+        "word": "撕拉片凭什么卖300多一张",
+        "onboard_time": 1746600502,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209106,
+        "num": 209106,
+        "word": "吻戏",
+        "onboard_time": 1746612921,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200505,
+        "num": 200505,
+        "word": "e人送礼都要当显眼包",
+        "onboard_time": 1746613464,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188164,
+        "num": 190783,
+        "word": "汪苏泷后台回应粉丝热情",
+        "onboard_time": 1746611181,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182401,
+        "num": 190165,
+        "word": "往左边一瞥居然是李冰冰",
+        "onboard_time": 1746613284,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 36023,
+        "num": 189811,
+        "word": "被击落的印度飞机残骸",
+        "onboard_time": 1746613162,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189770,
+        "num": 189770,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 30,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 180195,
+        "num": 180195,
+        "word": "迪丽热巴更换对接团队",
+        "onboard_time": 1746612142,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179823,
+        "num": 179823,
+        "word": "白敬亭申请强执春山学博主",
+        "onboard_time": 1746592165,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178981,
+        "num": 178981,
+        "word": "罗予彤JYP大师课三对一",
+        "onboard_time": 1746609802,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172451,
+        "num": 172451,
+        "word": "淮水竹亭",
+        "onboard_time": 1746613222,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168452,
+        "num": 168452,
+        "word": "张柏芝闪钻长裙",
+        "onboard_time": 1746611422,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161607,
+        "num": 161607,
+        "word": "生理性厌恶",
+        "onboard_time": 1746588983,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160138,
+        "num": 160138,
+        "word": "丁禹兮空降直播",
+        "onboard_time": 1746613464,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151588,
+        "num": 151588,
+        "word": "祝贺胖都来开业的明星致歉",
+        "onboard_time": 1746590663,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42408,
+        "num": 149897,
+        "word": "建立健全与基金投资收益相挂钩的薪酬管理机制",
+        "onboard_time": 1746613644,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149338,
+        "num": 149338,
+        "word": "60w房贷少还多少钱",
+        "onboard_time": 1746588022,
+        "rank": 40,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 139893,
+        "num": 139893,
+        "word": "于适老钱风穿搭",
+        "onboard_time": 1746612742,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 136851,
+        "num": 136851,
+        "word": "第一次在牛脸上看到了委屈",
+        "onboard_time": 1746612023,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131172,
+        "num": 131172,
+        "word": "中方不会牺牲原则立场去寻求达成任何协议",
+        "onboard_time": 1746606984,
+        "rank": 43,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 129771,
+        "num": 129771,
+        "word": "时代少年团上海",
+        "onboard_time": 1746605603,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128334,
+        "num": 128334,
+        "word": "湖南一推婴儿车女子被狗咬住不放",
+        "onboard_time": 1746613403,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125988,
+        "num": 125988,
+        "word": "印军哨所举白旗",
+        "onboard_time": 1746606263,
+        "rank": 46,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 123346,
+        "num": 123346,
+        "word": "正媛",
+        "onboard_time": 1746613582,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125873,
+        "num": 122579,
+        "word": "商业航空公司正避开巴基斯坦领空",
+        "onboard_time": 1746590783,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120974,
+        "num": 120974,
+        "word": "印度守护的最大秘密",
+        "onboard_time": 1746610402,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺默茨当选德国总理#"
+    }
+  }
+}
