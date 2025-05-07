@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746607709197,
+  "endTime": 1746610102819,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -41,6 +41,14 @@
       "onboard_time": 1746586880,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1993595,
+      "num": 393857,
+      "word": "男子值班与女友发生关系猝死",
+      "onboard_time": 1746607044,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1935270,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1007686,
-      "num": 392270,
-      "word": "男子值班与女友发生关系猝死",
-      "onboard_time": 1746607044,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 990968,
       "num": 439962,
       "word": "关晓彤嘴里咬着戒指",
@@ -225,6 +225,14 @@
       "onboard_time": 1746600022,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 813407,
+      "num": 813407,
+      "word": "孟美岐没想到能跟歌手有联系",
+      "onboard_time": 1746607464,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 792131,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 548004,
-      "num": 386314,
+      "num": 423647,
       "word": "央视网文娱",
       "onboard_time": 1746606084,
       "rank": 21,
@@ -603,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339950,
+      "num": 339950,
+      "word": "印度防长曾称阵风是世界最牛战机之一",
+      "onboard_time": 1746607403,
+      "rank": 35,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 331996,
       "num": 331996,
       "word": "白宫又吵起来了",
@@ -633,6 +649,14 @@
       "onboard_time": 1746605362,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325466,
+      "num": 394291,
+      "word": "联合国秘书长称世界承受不起印巴军事对抗",
+      "onboard_time": 1746607763,
+      "rank": 9,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 322436,
@@ -713,6 +737,14 @@
       "onboard_time": 1746592584,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289255,
+      "num": 391101,
+      "word": "中方不会牺牲原则立场去寻求达成任何协议",
+      "onboard_time": 1746606984,
+      "rank": 30,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 285533,
@@ -875,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250075,
-      "num": 250075,
-      "word": "中方不会牺牲原则立场去寻求达成任何协议",
-      "onboard_time": 1746606984,
-      "rank": 30,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 247791,
       "num": 247791,
       "word": "印称已向美英等国通报对巴行动情况",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1746599841,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222023,
+      "num": 222023,
+      "word": "吉克隽逸发文急寻粉底液救急",
+      "onboard_time": 1746609503,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 220647,
@@ -1235,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192828,
+      "num": 229239,
+      "word": "2025优酷片单",
+      "onboard_time": 1746609503,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192375,
       "num": 192375,
       "word": "成立仅6天公司拍得水库20年经营权",
@@ -1331,14 +1371,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183942,
-      "num": 183942,
-      "word": "印度防长曾称阵风是世界最牛战机之一",
-      "onboard_time": 1746607403,
-      "rank": 35,
-      "category": "国际时政,军事"
-    },
-    {
       "raw_hot": 183813,
       "num": 183813,
       "word": "特别出演刘美含",
@@ -1403,20 +1435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177665,
+      "num": 223994,
+      "word": "罗予彤JYP大师课三对一",
+      "onboard_time": 1746609802,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175858,
       "num": 175858,
       "word": "赵心童王楚钦是好友还都是左手将",
       "onboard_time": 1746581002,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175248,
-      "num": 175248,
-      "word": "孟美岐没想到能跟歌手有联系",
-      "onboard_time": 1746607464,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 175136,
@@ -1427,12 +1459,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174283,
+      "num": 222346,
+      "word": "5月片单有藏海传",
+      "onboard_time": 1746609382,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173473,
+      "num": 173473,
+      "word": "登陆少年去非洲录综艺了",
+      "onboard_time": 1746609743,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170599,
       "num": 264626,
       "word": "张云龙37岁勇闯甜妹圈",
       "onboard_time": 1746597743,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170474,
+      "num": 170474,
+      "word": "陈丽君口误为何引发轩然大波",
+      "onboard_time": 1746609864,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168225,
@@ -1555,6 +1611,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160992,
+      "num": 160992,
+      "word": "搭子文化",
+      "onboard_time": 1746609202,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159873,
+      "num": 159873,
+      "word": "甄嬛传",
+      "onboard_time": 1746608064,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "平番排序方式",
@@ -1577,6 +1649,22 @@
       "onboard_time": 1746598163,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157855,
+      "num": 157855,
+      "word": "现在见到刘涛就想跪",
+      "onboard_time": 1746609743,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 157242,
+      "num": 157242,
+      "word": "谍报上不封顶",
+      "onboard_time": 1746608483,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 157179,
@@ -1675,6 +1763,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145478,
+      "num": 145478,
+      "word": "蔡徐坤个人网站",
+      "onboard_time": 1746607824,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144562,
+      "num": 144562,
+      "word": "上海文旅替时代少年团官宣演唱会",
+      "onboard_time": 1746609442,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144414,
       "num": 320897,
       "word": "黄子弘凡浪漫起来猝不及防",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1746541343,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142673,
+      "num": 142673,
+      "word": "理想称李想年薪6.39亿不准确",
+      "onboard_time": 1746609023,
+      "rank": 44,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 141429,
@@ -1867,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128931,
+      "num": 128931,
+      "word": "新婚燕尔原来真的是有说法的",
+      "onboard_time": 1746607702,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128923,
       "num": 128923,
       "word": "5元的蘑菇能服务一个店的顾客",
@@ -1891,12 +2011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126658,
+      "num": 126658,
+      "word": "外交部回应美渲染中方难承受高关税压力",
+      "onboard_time": 1746608363,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 124059,
       "num": 292746,
       "word": "严浩翔冰雪王子降临",
       "onboard_time": 1746590544,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122369,
+      "num": 122369,
+      "word": "孙颖莎的核心和平衡力训练",
+      "onboard_time": 1746609982,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120138,
@@ -1988,7 +2124,7 @@
     },
     {
       "raw_hot": 104562,
-      "num": 345645,
+      "num": 355726,
       "word": "来澳门必看水舞间",
       "onboard_time": 1746606803,
       "rank": 34,
@@ -2001,6 +2137,14 @@
       "onboard_time": 1746546681,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102274,
+      "num": 180227,
+      "word": "再有论文现男性患卵巢癌子宫肌瘤",
+      "onboard_time": 1746608123,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100113,
@@ -2339,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58284,
+      "num": 158264,
+      "word": "国内保肝药滥用",
+      "onboard_time": 1746608902,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 57478,
       "num": 180056,
       "word": "原来云彩里面是这样的",
@@ -2473,6 +2625,14 @@
       "onboard_time": 1746588922,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 35537,
+      "num": 219552,
+      "word": "连环性侵案背后那些出庭作证的女性",
+      "onboard_time": 1746608662,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34403,
@@ -2673,6 +2833,14 @@
       "onboard_time": 1746592884,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 9590,
+      "num": 344481,
+      "word": "地面冰川调查小队该如何取样",
+      "onboard_time": 1746609743,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 6808,
