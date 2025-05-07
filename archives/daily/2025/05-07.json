@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746592207681,
+  "endTime": 1746593088944,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2266801,
-      "num": 618702,
+      "num": 781554,
       "word": "爱吃菠萝的人天塌了",
       "onboard_time": 1746586880,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1746580822,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1289711,
+      "num": 775682,
+      "word": "祝贺胖都来开业的明星致歉",
+      "onboard_time": 1746590663,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218600,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 970555,
-      "num": 464894,
+      "num": 771124,
       "word": "公司回应林俊杰被曝介入他人感情",
       "onboard_time": 1746588324,
       "rank": 35,
@@ -105,6 +113,14 @@
       "onboard_time": 1746576684,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 884102,
+      "num": 602110,
+      "word": "蜜雪冰城",
+      "onboard_time": 1746589702,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 872407,
@@ -131,16 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 789493,
-      "num": 462060,
-      "word": "祝贺胖都来开业的明星致歉",
-      "onboard_time": 1746590663,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 787504,
-      "num": 486556,
+      "num": 679133,
       "word": "众星痛心发文悼念苟伟",
       "onboard_time": 1746587842,
       "rank": 12,
@@ -171,12 +179,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 702984,
+      "num": 702984,
+      "word": "网传台球女助教涉特殊服务",
+      "onboard_time": 1746589702,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 689605,
       "num": 430663,
       "word": "为胖都来站台的明星诚信已打了折扣",
       "onboard_time": 1746574339,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 688763,
+      "num": 688763,
+      "word": "白敬亭申请强执春山学博主",
+      "onboard_time": 1746592165,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 660322,
+      "num": 804641,
+      "word": "藏海传",
+      "onboard_time": 1746591445,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 624250,
@@ -193,22 +225,6 @@
       "onboard_time": 1746572900,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 602110,
-      "num": 602110,
-      "word": "蜜雪冰城",
-      "onboard_time": 1746589702,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 587133,
-      "num": 587133,
-      "word": "网传台球女助教涉特殊服务",
-      "onboard_time": 1746589702,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 576858,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394674,
+      "num": 394674,
+      "word": "钉钉",
+      "onboard_time": 1746588563,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 391153,
       "num": 391153,
       "word": "国新办新闻发布会",
@@ -329,6 +353,14 @@
       "onboard_time": 1746584421,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377578,
+      "num": 405236,
+      "word": "莫迪对巴基斯坦放狠话",
+      "onboard_time": 1746591625,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 376309,
@@ -395,14 +427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 331562,
-      "num": 457250,
-      "word": "藏海传",
-      "onboard_time": 1746591445,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329835,
       "num": 329835,
       "word": "李想年薪6.39亿",
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307995,
+      "num": 398098,
+      "word": "60岁老人喝自制药酒却中情花毒",
+      "onboard_time": 1746589042,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307038,
       "num": 427145,
       "word": "降准降息对生活的直接影响",
@@ -459,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302042,
-      "num": 302042,
-      "word": "钉钉",
-      "onboard_time": 1746588563,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 302020,
       "num": 302020,
       "word": "国新办介绍一揽子金融政策",
@@ -481,6 +505,14 @@
       "onboard_time": 1746574101,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285533,
+      "num": 350564,
+      "word": "金赛纶遗属再开记者会",
+      "onboard_time": 1746591805,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 285503,
@@ -555,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264308,
+      "num": 264308,
+      "word": "iPhone涨价会是国产机的机会吗",
+      "onboard_time": 1746592105,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 263580,
       "num": 263580,
       "word": "设立5000亿元服务消费与养老再贷款",
@@ -571,11 +611,19 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 256193,
-      "num": 256193,
-      "word": "金赛纶遗属再开记者会",
-      "onboard_time": 1746591805,
-      "rank": 37,
+      "raw_hot": 259329,
+      "num": 259329,
+      "word": "酷儿",
+      "onboard_time": 1746591323,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 255446,
+      "num": 255446,
+      "word": "伊能静第一次看到儿子化妆",
+      "onboard_time": 1746592584,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -651,12 +699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232375,
-      "num": 232375,
-      "word": "酷儿",
-      "onboard_time": 1746591323,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 232720,
+      "num": 232720,
+      "word": "王俊凯皮裤",
+      "onboard_time": 1746592105,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231749,
+      "num": 231749,
+      "word": "张杰悼念苟伟",
+      "onboard_time": 1746593003,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 227628,
@@ -673,14 +729,6 @@
       "onboard_time": 1746586522,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226916,
-      "num": 358489,
-      "word": "60岁老人喝自制药酒却中情花毒",
-      "onboard_time": 1746589042,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226381,
@@ -713,14 +761,6 @@
       "onboard_time": 1746582922,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213751,
-      "num": 213751,
-      "word": "iPhone涨价会是国产机的机会吗",
-      "onboard_time": 1746592105,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 210524,
@@ -795,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200819,
-      "num": 200819,
-      "word": "白敬亭申请强执春山学博主",
-      "onboard_time": 1746592165,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199719,
       "num": 199719,
       "word": "降息0.1个百分点",
@@ -841,6 +873,14 @@
       "onboard_time": 1746585262,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190851,
+      "num": 270574,
+      "word": "胡先煦何与新剧是河神兄弟篇",
+      "onboard_time": 1746592584,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 189974,
@@ -931,12 +971,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 167420,
-      "num": 405236,
-      "word": "莫迪对巴基斯坦放狠话",
-      "onboard_time": 1746591625,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 167189,
+      "num": 220305,
+      "word": "凤凰传奇北京抢票",
+      "onboard_time": 1746591685,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 165448,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153517,
+      "num": 303771,
+      "word": "库里多久能回归",
+      "onboard_time": 1746592523,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151394,
       "num": 151394,
       "word": "当你有个卖奶茶的朋友",
@@ -1043,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144414,
+      "num": 320897,
+      "word": "黄子弘凡浪漫起来猝不及防",
+      "onboard_time": 1746587542,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143492,
       "num": 347135,
       "word": "中国锅做的牛排把老外香迷糊了",
       "onboard_time": 1746541343,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139649,
+      "num": 796074,
+      "word": "专家称降准降息更利好于首次购房人群",
+      "onboard_time": 1746591924,
+      "rank": 23,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 139259,
@@ -1169,14 +1233,6 @@
       "onboard_time": 1746590544,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121727,
-      "num": 320897,
-      "word": "黄子弘凡浪漫起来猝不及防",
-      "onboard_time": 1746587542,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 120138,
@@ -1395,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73114,
+      "num": 308808,
+      "word": "朱开谈iG粉丝报点",
+      "onboard_time": 1746592523,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72955,
       "num": 72955,
       "word": "刘诗诗今天认识了好多漂亮的花花",
@@ -1409,14 +1473,6 @@
       "onboard_time": 1746539663,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 70978,
-      "num": 362993,
-      "word": "专家称降准降息更利好于首次购房人群",
-      "onboard_time": 1746591924,
-      "rank": 23,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 70474,
@@ -1475,12 +1531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65004,
+      "num": 720869,
+      "word": "印方称巴方开火造成3死7伤",
+      "onboard_time": 1746592105,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64974,
       "num": 480144,
       "word": "莫让胖东来们陷入棒杀捧杀泥潭",
       "onboard_time": 1746587423,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64564,
+      "num": 1163884,
+      "word": "央行3类10项措施",
+      "onboard_time": 1746592645,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63876,
@@ -1547,12 +1619,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49912,
-      "num": 286895,
-      "word": "印方称巴方开火造成3死7伤",
-      "onboard_time": 1746592105,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 49999,
+      "num": 1229935,
+      "word": "全球客商用订单书写对中国的信心",
+      "onboard_time": 1746590424,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48845,
@@ -1585,14 +1657,6 @@
       "onboard_time": 1746586161,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 41732,
-      "num": 1229935,
-      "word": "全球客商用订单书写对中国的信心",
-      "onboard_time": 1746590424,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37235,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1746551477,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30580,
+      "num": 787747,
+      "word": "苏联志愿飞行员的中国情缘",
+      "onboard_time": 1746592523,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29182,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1746558434,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9762,
+      "num": 365716,
+      "word": "路边摊食品隐患频现该如何保障安全",
+      "onboard_time": 1746592884,
+      "rank": 22,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
@@ -1721,6 +1801,9 @@
     },
     {
       "word": "#3个数字前瞻习主席俄罗斯之行#"
+    },
+    {
+      "word": "#习近平祝贺默茨当选德国总理#"
     }
   ]
 }
