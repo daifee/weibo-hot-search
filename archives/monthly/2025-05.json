@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746596568477,
+  "endTime": 1746599740633,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -193,6 +193,14 @@
       "onboard_time": 1746412102,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1935270,
+      "num": 388404,
+      "word": "陈丽君含泪道歉",
+      "onboard_time": 1746595643,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1926786,
@@ -995,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1052033,
-      "num": 314184,
-      "word": "陈丽君含泪道歉",
-      "onboard_time": 1746595643,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1049990,
       "num": 1049990,
       "word": "刘畊宏9天掉粉23万",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1746069320,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1040366,
+      "num": 387084,
+      "word": "生理性厌恶",
+      "onboard_time": 1746588983,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 1039939,
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 990968,
-      "num": 376622,
+      "num": 386759,
       "word": "关晓彤嘴里咬着戒指",
       "onboard_time": 1746594324,
       "rank": 20,
@@ -2075,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698579,
+      "num": 698579,
+      "word": "父亲身亡获56万赔偿孩子找到了",
+      "onboard_time": 1746597022,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696791,
       "num": 696791,
       "word": "专家建议节后上班第一天少干活儿",
@@ -2753,6 +2769,14 @@
       "onboard_time": 1746593003,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571635,
+      "num": 383612,
+      "word": "韩安冉让女儿退网",
+      "onboard_time": 1746596964,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 571119,
@@ -4379,6 +4403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389585,
+      "num": 389585,
+      "word": "aespa 不回归",
+      "onboard_time": 1746598163,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388274,
       "num": 388274,
       "word": "赴山海剧宣",
@@ -4531,20 +4563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378499,
+      "num": 405236,
+      "word": "莫迪对巴基斯坦放狠话",
+      "onboard_time": 1746591625,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 377605,
       "num": 377605,
       "word": "警方通报男子不挂车牌超车撞人",
       "onboard_time": 1746435740,
       "rank": 20,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 377578,
-      "num": 405236,
-      "word": "莫迪对巴基斯坦放狠话",
-      "onboard_time": 1746591625,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377548,
@@ -5555,14 +5587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306467,
-      "num": 269386,
-      "word": "生理性厌恶",
-      "onboard_time": 1746588983,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 306092,
       "num": 306092,
       "word": "苏新皓红海",
@@ -5851,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292962,
+      "num": 388743,
+      "word": "胖都来楼下超市叫叶波大润发",
+      "onboard_time": 1746598463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292789,
       "num": 292789,
       "word": "王励勤强调国乒是一个集体",
@@ -6032,6 +6064,14 @@
       "word": "赛博重庆具象化了",
       "onboard_time": 1746512301,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283039,
+      "num": 283039,
+      "word": "男子胁迫少女裸聊不肯就报警抓父母",
+      "onboard_time": 1746597562,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -6505,6 +6545,14 @@
       "onboard_time": 1746455242,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261121,
+      "num": 300125,
+      "word": "巴称印度袭击已致26死46伤",
+      "onboard_time": 1746596362,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 260226,
@@ -7947,6 +7995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209480,
+      "num": 209480,
+      "word": "孙珍妮 耀眼",
+      "onboard_time": 1746599123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209409,
       "num": 209409,
       "word": "SEVENTEEN十周年",
@@ -8129,6 +8185,14 @@
       "onboard_time": 1746419302,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207120,
+      "num": 381559,
+      "word": "minji现身粉丝生咖",
+      "onboard_time": 1746598101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 207082,
@@ -8515,6 +8579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 202668,
+      "num": 266099,
+      "word": "声乐老师透露苟伟死因",
+      "onboard_time": 1746597982,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202642,
       "num": 202642,
       "word": "火箭vs勇士",
@@ -8752,6 +8824,14 @@
       "word": "南大教授称陈丽君说错也没必要抹黑",
       "onboard_time": 1746199462,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199306,
+      "num": 199306,
+      "word": "演员朱颜曼滋为小猫悟空发声",
+      "onboard_time": 1746598941,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -10235,6 +10315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184069,
+      "num": 184069,
+      "word": "有个拼凑型人格的朋友是种什么体验",
+      "onboard_time": 1746599663,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184010,
       "num": 286562,
       "word": "工作人员为曾黎发声",
@@ -10297,6 +10385,14 @@
       "onboard_time": 1746112043,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182884,
+      "num": 236098,
+      "word": "aespa单曲回归",
+      "onboard_time": 1746598642,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 182772,
@@ -10851,6 +10947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174508,
+      "num": 174508,
+      "word": "美财长被问中美谁主动时紧张到结巴",
+      "onboard_time": 1746599123,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174424,
       "num": 174424,
       "word": "高会直播时代少年团",
@@ -11107,6 +11211,14 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 170599,
+      "num": 264626,
+      "word": "张云龙37岁勇闯甜妹圈",
+      "onboard_time": 1746597743,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170591,
       "num": 170591,
       "word": "管乐侯佩岑撒娇女人最好命",
@@ -11265,6 +11377,14 @@
       "onboard_time": 1746244220,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168225,
+      "num": 168225,
+      "word": "苟伟曾因抑郁未回应张杰演唱会邀约",
+      "onboard_time": 1746598820,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 168188,
@@ -12315,6 +12435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158173,
+      "num": 158173,
+      "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
+      "onboard_time": 1746597743,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158168,
       "num": 158168,
       "word": "四川观察",
@@ -12969,6 +13097,14 @@
       "onboard_time": 1746105743,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151551,
+      "num": 151551,
+      "word": "大侦探",
+      "onboard_time": 1746597623,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 151421,
@@ -13691,6 +13827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145397,
+      "num": 263837,
+      "word": "多方回应女子推婴儿车被流浪狗咬伤",
+      "onboard_time": 1746598163,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145213,
       "num": 145213,
       "word": "梁伟铿回应中国队夺冠",
@@ -14283,6 +14427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139909,
+      "num": 139909,
+      "word": "五哈团把陈赫当deepseek整",
+      "onboard_time": 1746599243,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139902,
       "num": 139902,
       "word": "沈梦辰撕拉片",
@@ -14699,6 +14851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136387,
+      "num": 136387,
+      "word": "一看剧就被高圆圆好人脸欺骗",
+      "onboard_time": 1746597503,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136374,
       "num": 138987,
       "word": "成人牙齿再生或将实现",
@@ -15025,6 +15185,14 @@
       "onboard_time": 1746228076,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 133217,
+      "num": 133217,
+      "word": "印巴最新局势",
+      "onboard_time": 1746597203,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133058,
@@ -17547,14 +17715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112031,
-      "num": 300125,
-      "word": "巴称印度袭击已致26死46伤",
-      "onboard_time": 1746596362,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111781,
       "num": 111781,
       "word": "摩羯座越是喜欢越谨慎",
@@ -19697,6 +19857,14 @@
       "onboard_time": 1746198263,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 85078,
+      "num": 261147,
+      "word": "为什么选择此时降准降息",
+      "onboard_time": 1746597022,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 84809,
@@ -22075,6 +22243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41395,
+      "num": 750292,
+      "word": "小心馅饼变陷阱",
+      "onboard_time": 1746597322,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41302,
       "num": 191910,
       "word": "印巴互相进行贸易制裁",
@@ -22912,6 +23088,14 @@
       "word": "我的追梦关键词",
       "onboard_time": 1746075201,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27641,
+      "num": 379583,
+      "word": "一个农民工二代北漂女孩的奋斗",
+      "onboard_time": 1746598283,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -23907,6 +24091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15215,
+      "num": 380720,
+      "word": "吃零食吃出烟头该如何维权",
+      "onboard_time": 1746598883,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 15131,
       "num": 70610,
       "word": "四川达州一小型汽车坠河致1人死亡",
@@ -24281,6 +24473,14 @@
       "onboard_time": 1746430340,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11163,
+      "num": 187675,
+      "word": "美大学校园被黑衣人占领",
+      "onboard_time": 1746599363,
+      "rank": 39,
+      "category": "民生新闻,其它"
     },
     {
       "raw_hot": 11128,
