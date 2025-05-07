@@ -1,0 +1,410 @@
+{
+  "runTime": 1746622378616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1130322,
+        "num": 1180851,
+        "word": "我不会跑 我是张纪中",
+        "onboard_time": 1746615382,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1115362,
+        "num": 1115362,
+        "word": "Gemini当爸",
+        "onboard_time": 1746619462,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169672,
+        "num": 984611,
+        "word": "外国游客变身中国游中国购最强嘴替",
+        "onboard_time": 1746618262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954738,
+        "num": 954738,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805959,
+        "num": 805959,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 615699,
+        "num": 615699,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470640,
+        "num": 470640,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468052,
+        "num": 468052,
+        "word": "胖东升工作人员称名字是老板随便起",
+        "onboard_time": 1746619342,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 352979,
+        "num": 352979,
+        "word": "职场奶茶文化",
+        "onboard_time": 1746617543,
+        "rank": 8,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 127940,
+        "num": 343377,
+        "word": "18800元能请前美国州长录祝福视频",
+        "onboard_time": 1746620602,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 390083,
+        "num": 327522,
+        "word": "沙溢有吉克隽逸要的色号",
+        "onboard_time": 1746617301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372065,
+        "num": 318139,
+        "word": "女子用超市公筷夹咸菜品尝",
+        "onboard_time": 1746618922,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360845,
+        "num": 293196,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290555,
+        "num": 290555,
+        "word": "魏晨吴昕拥抱",
+        "onboard_time": 1746618443,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122325,
+        "num": 285706,
+        "word": "当地回应2栋楼疑因地基发生倾斜",
+        "onboard_time": 1746620782,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283325,
+        "num": 283325,
+        "word": "郑州有单位强制在编人员捐款",
+        "onboard_time": 1746615981,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263375,
+        "num": 263375,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262478,
+        "num": 262478,
+        "word": "小S二女儿Lily杂志大片",
+        "onboard_time": 1746615862,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 254067,
+        "num": 254067,
+        "word": "刘亦菲 流俗地",
+        "onboard_time": 1746613823,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43269,
+        "num": 233665,
+        "word": "旅游大巴司机边开车边刷视频近半小时",
+        "onboard_time": 1746621801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066462,
+        "num": 231961,
+        "word": "曝张纪中开车撞到路人",
+        "onboard_time": 1746614783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217883,
+        "num": 217883,
+        "word": "中介曝网红小乔退房保洁打扫6小时",
+        "onboard_time": 1746616462,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 210382,
+        "word": "一生必看的水上汇演",
+        "onboard_time": 1746619462,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205829,
+        "num": 205829,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746618802,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204986,
+        "num": 205758,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 205695,
+        "word": "北大实验表明孩子提分秘诀是提问",
+        "onboard_time": 1746621442,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186390,
+        "num": 205533,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59237,
+        "num": 205431,
+        "word": "卫健部门调查女生注射头孢过敏去世",
+        "onboard_time": 1746621622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34204,
+        "num": 205245,
+        "word": "刺五加注射液",
+        "onboard_time": 1746620002,
+        "rank": 28,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 19154,
+        "num": 205179,
+        "word": "8岁男童失踪超60小时119持续搜救",
+        "onboard_time": 1746621562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205088,
+        "num": 205088,
+        "word": "印度防长曾称阵风是世界最牛战机之一",
+        "onboard_time": 1746607403,
+        "rank": 30,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 202796,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180176,
+        "num": 180176,
+        "word": "印度第十二旅总部遭巴方摧毁",
+        "onboard_time": 1746617543,
+        "rank": 32,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 172611,
+        "num": 172611,
+        "word": "肖战已获61个多领域奖项",
+        "onboard_time": 1746620061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167180,
+        "num": 167180,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159964,
+        "num": 159964,
+        "word": "陈丽君含泪道歉",
+        "onboard_time": 1746595643,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158252,
+        "num": 158252,
+        "word": "偶遇赵丽颖逛商场",
+        "onboard_time": 1746614362,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 149141,
+        "num": 149141,
+        "word": "胖东升被指抄袭胖东来工作人员回应",
+        "onboard_time": 1746622342,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138173,
+        "num": 138173,
+        "word": "孟美岐没想到能跟歌手有联系",
+        "onboard_time": 1746607464,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35878,
+        "num": 131567,
+        "word": "印度民众拍到战机的发动机残骸",
+        "onboard_time": 1746622342,
+        "rank": 39,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 130956,
+        "num": 130956,
+        "word": "惠英红最想合作宋佳杨幂马丽",
+        "onboard_time": 1746618862,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127202,
+        "num": 127202,
+        "word": "央行增持黄金7万盎司",
+        "onboard_time": 1746619043,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121413,
+        "num": 121413,
+        "word": "92岁院士说干的都是世界第一没有第二",
+        "onboard_time": 1746619702,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118526,
+        "num": 118526,
+        "word": "吉克隽逸发文急寻粉底液救急",
+        "onboard_time": 1746609503,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117917,
+        "num": 117917,
+        "word": "落花时节又逢君默默爬榜",
+        "onboard_time": 1746620663,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44105,
+        "num": 116906,
+        "word": "AI学习机成学生课后辅导神器",
+        "onboard_time": 1746617662,
+        "rank": 45,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 116871,
+        "num": 116871,
+        "word": "张泽禹 不要骗我哦",
+        "onboard_time": 1746620902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116821,
+        "num": 116821,
+        "word": "茅台回应首位代言人张艺兴",
+        "onboard_time": 1746600022,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114050,
+        "num": 114050,
+        "word": "孙珍妮疑回应换角风波",
+        "onboard_time": 1746622282,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112720,
+        "num": 112720,
+        "word": "新研究称人类寿命或没有极限",
+        "onboard_time": 1746620181,
+        "rank": 49,
+        "category": "科学科普,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在俄罗斯媒体发表署名文章#"
+    }
+  }
+}
