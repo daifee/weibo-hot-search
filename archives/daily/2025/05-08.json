@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746642819819,
+  "endTime": 1746643734701,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33741,
+      "num": 50127,
+      "word": "印巴局势再升级",
+      "onboard_time": 1746642794,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31388,
       "num": 47233,
       "word": "水舞间",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 19619,
-      "num": 24532,
+      "num": 24552,
       "word": "黑白张正",
       "onboard_time": 1746640815,
       "rank": 46,
@@ -483,12 +491,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17225,
-      "num": 24515,
-      "word": "印巴局势再升级",
-      "onboard_time": 1746642794,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 17406,
+      "num": 24539,
+      "word": "开始推理吧",
+      "onboard_time": 1746643395,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16802,
+      "num": 24531,
+      "word": "苏丹的游戏",
+      "onboard_time": 1746643575,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 12585,
