@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746595545941,
+  "endTime": 1746596568477,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1052033,
+      "num": 314184,
+      "word": "陈丽君含泪道歉",
+      "onboard_time": 1746595643,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1023187,
       "num": 1023187,
       "word": "灵犀相通",
@@ -97,6 +105,14 @@
       "onboard_time": 1746592165,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 990968,
+      "num": 376622,
+      "word": "关晓彤嘴里咬着戒指",
+      "onboard_time": 1746594324,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 978209,
@@ -203,20 +219,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 687929,
-      "num": 376622,
-      "word": "关晓彤嘴里咬着戒指",
-      "onboard_time": 1746594324,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 660322,
       "num": 804641,
       "word": "藏海传",
       "onboard_time": 1746591445,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 630799,
+      "num": 298839,
+      "word": "京东外卖 超时",
+      "onboard_time": 1746593544,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 624250,
@@ -264,14 +280,6 @@
       "word": "211",
       "onboard_time": 1746539603,
       "rank": 3,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 504951,
-      "num": 298839,
-      "word": "京东外卖 超时",
-      "onboard_time": 1746593544,
-      "rank": 31,
       "category": "互联网"
     },
     {
@@ -515,6 +523,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 306467,
+      "num": 269386,
+      "word": "生理性厌恶",
+      "onboard_time": 1746588983,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303187,
       "num": 351771,
       "word": "孙珍妮 被换角",
@@ -601,14 +617,6 @@
       "onboard_time": 1746584122,
       "rank": 41,
       "category": "财经,国内时政"
-    },
-    {
-      "raw_hot": 269386,
-      "num": 269386,
-      "word": "生理性厌恶",
-      "onboard_time": 1746588983,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 268006,
@@ -723,6 +731,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 243492,
+      "num": 243492,
+      "word": "杨紫侧丸子头造型",
+      "onboard_time": 1746594982,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243073,
+      "num": 287235,
+      "word": "王嘉尔新歌和印度巨星合作",
+      "onboard_time": 1746595584,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241746,
       "num": 241746,
       "word": "勇士vs森林狼",
@@ -745,6 +769,14 @@
       "onboard_time": 1746592105,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228675,
+      "num": 228675,
+      "word": "王楚钦除了吃海鲜都是强项",
+      "onboard_time": 1746595221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 227628,
@@ -915,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194809,
-      "num": 194809,
-      "word": "杨紫侧丸子头造型",
-      "onboard_time": 1746594982,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192932,
       "num": 192932,
       "word": "smtr25首次机场",
@@ -937,6 +961,14 @@
       "onboard_time": 1746585262,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191881,
+      "num": 191881,
+      "word": "全员加速中第一个被抓的是张极",
+      "onboard_time": 1746596182,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 190851,
@@ -1027,6 +1059,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 177731,
+      "num": 317993,
+      "word": "印度承认损失三架战机",
+      "onboard_time": 1746594683,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177684,
       "num": 177684,
       "word": "赵丽颖极简白裙",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1746594624,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165590,
-      "num": 165590,
-      "word": "王楚钦除了吃海鲜都是强项",
-      "onboard_time": 1746595221,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 165448,
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130487,
+      "num": 302688,
+      "word": "光明必将驱散黑暗正义终将战胜邪恶",
+      "onboard_time": 1746596244,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129931,
       "num": 180163,
       "word": "欧冠",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1746549858,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112031,
+      "num": 300125,
+      "word": "巴称印度袭击已致26死46伤",
+      "onboard_time": 1746596362,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109326,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1746543265,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93719,
+      "num": 295061,
+      "word": "勇士没有库里没问题",
+      "onboard_time": 1746595942,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 88589,
@@ -1691,6 +1747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62816,
+      "num": 270909,
+      "word": "赵心童母爱背后的坚持",
+      "onboard_time": 1746595823,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62186,
       "num": 62186,
       "word": "黄泽锋58岁妻子怀二胎",
@@ -1755,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49439,
-      "num": 317993,
-      "word": "印度承认损失三架战机",
-      "onboard_time": 1746594683,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48845,
       "num": 48845,
       "word": "明显学术糊弄外行人看了都说离谱",
@@ -1795,7 +1851,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 37793,
+      "raw_hot": 44206,
       "num": 559761,
       "word": "打卡莫斯科感受中俄友谊",
       "onboard_time": 1746593303,
@@ -1859,6 +1915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31137,
+      "num": 292809,
+      "word": "女子零食中吃出烟头获赔500元",
+      "onboard_time": 1746596302,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30580,
       "num": 787747,
       "word": "苏联志愿飞行员的中国情缘",
@@ -1899,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24125,
+      "num": 202731,
+      "word": "哈利伯顿被高估了吗",
+      "onboard_time": 1746596482,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15931,
       "num": 63467,
       "word": "打奉陪到底谈大门敞开",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1746561854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11373,
+      "num": 278872,
+      "word": "不同烹调方式适宜选用什么油",
+      "onboard_time": 1746595342,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 11249,
@@ -1931,14 +2011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10190,
-      "num": 278872,
-      "word": "不同烹调方式适宜选用什么油",
-      "onboard_time": 1746595342,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 9943,
       "num": 45000,
       "word": "五一全社会跨区域人员流动量超14.65亿人次",
@@ -1953,6 +2025,14 @@
       "onboard_time": 1746592884,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 6808,
+      "num": 200172,
+      "word": "印网友称坠机现场已被印军封锁",
+      "onboard_time": 1746596542,
+      "rank": 40,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
@@ -1964,6 +2044,9 @@
     },
     {
       "word": "#习近平祝贺默茨当选德国总理#"
+    },
+    {
+      "word": "#展望习主席俄罗斯之行#"
     }
   ]
 }
