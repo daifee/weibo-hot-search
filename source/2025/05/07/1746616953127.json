@@ -1,0 +1,410 @@
+{
+  "runTime": 1746616953127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1367213,
+        "num": 1367213,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1173434,
+        "num": 1173434,
+        "word": "曝张纪中开车撞到路人",
+        "onboard_time": 1746614783,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37852,
+        "num": 763259,
+        "word": "央行3类10项措施",
+        "onboard_time": 1746592645,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 552160,
+        "num": 552160,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534665,
+        "num": 534665,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 954344,
+        "num": 528499,
+        "word": "周渝民谈大S",
+        "onboard_time": 1746611062,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716532,
+        "num": 522415,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641971,
+        "num": 519120,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98298,
+        "num": 513042,
+        "word": "中国排面永远让人热泪盈眶",
+        "onboard_time": 1746615503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174139,
+        "num": 503690,
+        "word": "郑州有单位强制在编人员捐款",
+        "onboard_time": 1746615981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599359,
+        "num": 494057,
+        "word": "吉克隽逸发文急寻粉底液救急",
+        "onboard_time": 1746609503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597620,
+        "num": 487189,
+        "word": "我不会跑 我是张纪中",
+        "onboard_time": 1746615382,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587580,
+        "num": 482489,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115139,
+        "num": 473276,
+        "word": "欠租失联公寓变垃圾场女租客发声",
+        "onboard_time": 1746615323,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46536,
+        "num": 466921,
+        "word": "一揽子金融政策为何重磅",
+        "onboard_time": 1746615442,
+        "rank": 14,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 146952,
+        "num": 459728,
+        "word": "涉事医院通报男性子宫论文处理情况",
+        "onboard_time": 1746613103,
+        "rank": 15,
+        "category": "辟谣/通报,健康医疗"
+      },
+      {
+        "raw_hot": 456362,
+        "num": 456362,
+        "word": "刘亦菲 流俗地",
+        "onboard_time": 1746613823,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68197,
+        "num": 432188,
+        "word": "60秒回顾历次红场胜利日阅兵",
+        "onboard_time": 1746612023,
+        "rank": 17,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 423140,
+        "num": 423140,
+        "word": "吻戏",
+        "onboard_time": 1746612921,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48707,
+        "num": 375141,
+        "word": "孙颖莎今年已获3项单打冠军",
+        "onboard_time": 1746616223,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360512,
+        "num": 360512,
+        "word": "茅台回应首位代言人张艺兴",
+        "onboard_time": 1746600022,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204731,
+        "num": 344496,
+        "word": "NIP战胜WBG",
+        "onboard_time": 1746616521,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 338214,
+        "word": "第一次看这么蓝的红毯",
+        "onboard_time": 1746615802,
+        "rank": 22,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 333790,
+        "num": 333790,
+        "word": "孟美岐没想到能跟歌手有联系",
+        "onboard_time": 1746607464,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72263,
+        "num": 332199,
+        "word": "多哈世乒赛倒计时10天",
+        "onboard_time": 1746615082,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310036,
+        "num": 331864,
+        "word": "胖西来胖南来胖北来商标遭抢注",
+        "onboard_time": 1746615082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331572,
+        "num": 331572,
+        "word": "印度防长曾称阵风是世界最牛战机之一",
+        "onboard_time": 1746607403,
+        "rank": 26,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 140821,
+        "num": 324584,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73529,
+        "num": 321002,
+        "word": "庄时利和说赵翔宇简历没问题",
+        "onboard_time": 1746616283,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93235,
+        "num": 319781,
+        "word": "印巴这一战的几个重大隐喻",
+        "onboard_time": 1746615082,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318880,
+        "num": 318880,
+        "word": "偶遇赵丽颖逛商场",
+        "onboard_time": 1746614362,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 291265,
+        "num": 291265,
+        "word": "陈丽君口误为何引发轩然大波",
+        "onboard_time": 1746609864,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274240,
+        "num": 274240,
+        "word": "联合国秘书长称世界承受不起印巴军事对抗",
+        "onboard_time": 1746607763,
+        "rank": 32,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 265219,
+        "num": 265219,
+        "word": "小S二女儿Lily杂志大片",
+        "onboard_time": 1746615862,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248069,
+        "num": 248069,
+        "word": "陈丽君含泪道歉",
+        "onboard_time": 1746595643,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242433,
+        "num": 242433,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91347,
+        "num": 240363,
+        "word": "离婚时家务劳动这笔账怎么算",
+        "onboard_time": 1746614963,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240228,
+        "num": 240228,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29320,
+        "num": 229374,
+        "word": "我嘞个天津早点规则怪谈",
+        "onboard_time": 1746616882,
+        "rank": 38,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 19859,
+        "num": 226945,
+        "word": "一坠机点距印空军基地仅20公里",
+        "onboard_time": 1746615503,
+        "rank": 39,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "被击落的印度飞机残骸",
+        "onboard_time": 1746613162,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 201760,
+        "word": "抖音副总裁回应胖东来柴怼怼事件",
+        "onboard_time": 1746611784,
+        "rank": 41,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 190217,
+        "num": 190217,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184289,
+        "num": 184289,
+        "word": "七根心简",
+        "onboard_time": 1746612203,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177554,
+        "num": 177554,
+        "word": "中介曝网红小乔退房保洁打扫6小时",
+        "onboard_time": 1746616462,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 173580,
+        "word": "黄宗泽拍了十年警匪剧终于升职了",
+        "onboard_time": 1746615562,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170094,
+        "num": 170094,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 162044,
+        "num": 162044,
+        "word": "汪苏泷后台回应粉丝热情",
+        "onboard_time": 1746611181,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154372,
+        "num": 154372,
+        "word": "深圳机场连续两天发生航班大面积延误",
+        "onboard_time": 1746612621,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151197,
+        "num": 151197,
+        "word": "医院通报职工妇科论文男性样本超6成",
+        "onboard_time": 1746614122,
+        "rank": 49,
+        "category": "民生新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首继续引领两国关系登高望远#"
+    }
+  }
+}
