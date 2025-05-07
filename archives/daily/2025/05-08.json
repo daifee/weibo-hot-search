@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746653890013,
+  "endTime": 1746656697678,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -73,6 +73,14 @@
       "onboard_time": 1746629784,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318943,
+      "num": 318943,
+      "word": "印巴局势再升级",
+      "onboard_time": 1746642794,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 289966,
@@ -153,14 +161,6 @@
       "onboard_time": 1746633141,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161458,
-      "num": 189183,
-      "word": "印巴局势再升级",
-      "onboard_time": 1746642794,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 143199,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95083,
+      "num": 95083,
+      "word": "女子用公筷试吃超市咸菜后插回",
+      "onboard_time": 1746616521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94029,
       "num": 107459,
       "word": "丁真说演十八铜人把自己害惨了",
@@ -297,14 +305,6 @@
       "onboard_time": 1746631403,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 76881,
-      "num": 76881,
-      "word": "女子用公筷试吃超市咸菜后插回",
-      "onboard_time": 1746616521,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76575,
@@ -451,6 +451,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 29552,
+      "num": 44031,
+      "word": "美国极限施压对中国不灵",
+      "onboard_time": 1746651733,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29173,
+      "num": 34482,
+      "word": "巴基斯坦将对印军入侵做出回应",
+      "onboard_time": 1746650115,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27932,
       "num": 47172,
       "word": "我的动植物朋友们",
@@ -468,19 +484,19 @@
     },
     {
       "raw_hot": 24810,
-      "num": 24810,
+      "num": 25385,
       "word": "丁禹兮执剑变装",
       "onboard_time": 1746641594,
       "rank": 37,
       "category": "剧集"
     },
     {
-      "raw_hot": 23733,
-      "num": 34482,
-      "word": "巴基斯坦将对印军入侵做出回应",
-      "onboard_time": 1746650115,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 19674,
+      "num": 25426,
+      "word": "外交部紧急提醒在印巴中国公民",
+      "onboard_time": 1746646815,
+      "rank": 32,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 19619,
@@ -507,20 +523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17673,
+      "num": 25411,
+      "word": "环球时报记者莫斯科实拍",
+      "onboard_time": 1746631761,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 17406,
-      "num": 24539,
+      "num": 25400,
       "word": "开始推理吧",
       "onboard_time": 1746643395,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 17081,
-      "num": 44031,
-      "word": "美国极限施压对中国不灵",
-      "onboard_time": 1746651733,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 16852,
+      "num": 25395,
+      "word": "孟子义成功了是魔术失败了是小品",
+      "onboard_time": 1746656235,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 16802,
@@ -531,28 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16328,
-      "num": 19659,
-      "word": "外交部紧急提醒在印巴中国公民",
-      "onboard_time": 1746646815,
-      "rank": 32,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 14657,
       "num": 16805,
       "word": "亲爱的仇敌",
       "onboard_time": 1746640276,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14086,
-      "num": 19625,
-      "word": "环球时报记者莫斯科实拍",
-      "onboard_time": 1746631761,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 12585,
