@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746584415603,
+  "endTime": 1746587685338,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -401,6 +401,14 @@
       "onboard_time": 1746118698,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1551446,
+      "num": 575594,
+      "word": "爱吃菠萝的人天塌了",
+      "onboard_time": 1746586880,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1548965,
@@ -1411,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841998,
+      "num": 841998,
+      "word": "库里受伤",
+      "onboard_time": 1746585382,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 837275,
       "num": 837275,
       "word": "刘畊宏 清场",
@@ -1987,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 689605,
+      "num": 430663,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 688631,
       "num": 688631,
       "word": "4集演出了别人40集的进度",
@@ -2025,14 +2049,6 @@
       "onboard_time": 1746172640,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 669606,
-      "num": 430663,
-      "word": "为胖都来站台的明星诚信已打了折扣",
-      "onboard_time": 1746574339,
-      "rank": 32,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 667480,
@@ -2169,6 +2185,14 @@
       "onboard_time": 1746070761,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 645047,
+      "num": 645047,
+      "word": "灵犀相通",
+      "onboard_time": 1746587542,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 637181,
@@ -2601,6 +2625,14 @@
       "onboard_time": 1746499041,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576858,
+      "num": 576858,
+      "word": "100万房贷月供少还132元",
+      "onboard_time": 1746584843,
+      "rank": 9,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 576530,
@@ -3460,7 +3492,7 @@
     },
     {
       "raw_hot": 460136,
-      "num": 394758,
+      "num": 437677,
       "word": "于正撕拉片",
       "onboard_time": 1746583643,
       "rank": 13,
@@ -3875,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422035,
+      "num": 422035,
+      "word": "金价突然转跌",
+      "onboard_time": 1746580943,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 420797,
       "num": 420797,
       "word": "为什么年轻人普遍牙不好",
@@ -4123,14 +4163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 396151,
-      "num": 376194,
-      "word": "金价突然转跌",
-      "onboard_time": 1746580943,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 395322,
       "num": 376334,
       "word": "赵心童感谢丁俊晖铺路",
@@ -4289,6 +4321,22 @@
       "onboard_time": 1746438382,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384452,
+      "num": 384452,
+      "word": "100万房贷30年少还近5万",
+      "onboard_time": 1746585741,
+      "rank": 25,
+      "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 384157,
+      "num": 435162,
+      "word": "苟仲文涉嫌受贿滥用职权被提起公诉",
+      "onboard_time": 1746584421,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383176,
@@ -5907,6 +5955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274047,
+      "num": 274047,
+      "word": "房贷利率",
+      "onboard_time": 1746584122,
+      "rank": 41,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 272976,
       "num": 413885,
       "word": "多家医院回应妇科论文出现男性患者",
@@ -6643,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245176,
+      "num": 373417,
+      "word": "巴军方公布击落印度军机型号",
+      "onboard_time": 1746584182,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244825,
       "num": 244825,
       "word": "饶毅辟谣曾说协和乌烟瘴气",
@@ -6969,6 +7033,14 @@
       "onboard_time": 1746432560,
       "rank": 24,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 227353,
+      "num": 303587,
+      "word": "库里退出比赛",
+      "onboard_time": 1746586522,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 227194,
@@ -7915,14 +7987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205208,
-      "num": 205208,
-      "word": "房贷利率",
-      "onboard_time": 1746584122,
-      "rank": 41,
-      "category": "财经,国内时政"
-    },
-    {
       "raw_hot": 205203,
       "num": 205203,
       "word": "知道五一人多但没想到人这么多",
@@ -8139,6 +8203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202353,
+      "num": 393081,
+      "word": "贷款100万30年期总利息节省近5万",
+      "onboard_time": 1746583822,
+      "rank": 14,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 202336,
       "num": 185301,
       "word": "白桃星座一周运势",
@@ -8193,6 +8265,14 @@
       "onboard_time": 1746146309,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200921,
+      "num": 589372,
+      "word": "全员加速中首录路透",
+      "onboard_time": 1746587122,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 200770,
@@ -9051,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192375,
+      "num": 192375,
+      "word": "成立仅6天公司拍得水库20年经营权",
+      "onboard_time": 1746585262,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192011,
       "num": 192011,
       "word": "马嘉祺the greatest show",
@@ -9793,6 +9881,14 @@
       "onboard_time": 1746369446,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 183169,
+      "num": 183169,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1746585741,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 183123,
@@ -12171,14 +12267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153538,
-      "num": 393081,
-      "word": "贷款100万30年期总利息节省近5万",
-      "onboard_time": 1746583822,
-      "rank": 14,
-      "category": "财经,国内时政"
-    },
-    {
       "raw_hot": 153513,
       "num": 153513,
       "word": "赵丽颖出道十九周年",
@@ -12257,6 +12345,14 @@
       "onboard_time": 1746356960,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153316,
+      "num": 464552,
+      "word": "公积金利率降至历史低位",
+      "onboard_time": 1746586101,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 153199,
@@ -12632,6 +12728,14 @@
       "word": "白鹿很开心的一次出游plog",
       "onboard_time": 1746174261,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149573,
+      "num": 318628,
+      "word": "苟伟曾和张杰创作北斗星的爱",
+      "onboard_time": 1746585861,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -13827,6 +13931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139259,
+      "num": 423489,
+      "word": "seventeen克拉盘",
+      "onboard_time": 1746587002,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138840,
       "num": 138840,
       "word": "欧豪新剧眼色不详心地善良",
@@ -14187,6 +14299,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 135779,
+      "num": 427145,
+      "word": "降准降息对生活的直接影响",
+      "onboard_time": 1746586522,
+      "rank": 20,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 135746,
       "num": 184005,
       "word": "全红婵又多了一张人生照片",
@@ -14345,6 +14465,14 @@
       "onboard_time": 1746280404,
       "rank": 44,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 134373,
+      "num": 306202,
+      "word": "宋旻浩不出席WINNER演唱会",
+      "onboard_time": 1746587061,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 134356,
@@ -14705,6 +14833,14 @@
       "onboard_time": 1746251601,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130773,
+      "num": 431956,
+      "word": "我家的IP去哪儿了",
+      "onboard_time": 1746585262,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 130762,
@@ -19387,6 +19523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77713,
+      "num": 157327,
+      "word": "黄子弘凡浪漫起来猝不及防",
+      "onboard_time": 1746587542,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77501,
       "num": 77501,
       "word": "利雅得胜利2比3川崎前锋",
@@ -19644,7 +19788,7 @@
     },
     {
       "raw_hot": 72480,
-      "num": 1862928,
+      "num": 2009743,
       "word": "九张图带你了解俄罗斯",
       "onboard_time": 1746536363,
       "rank": 2,
@@ -20057,14 +20201,6 @@
       "onboard_time": 1746076521,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64039,
-      "num": 373417,
-      "word": "巴军方公布击落印度军机型号",
-      "onboard_time": 1746584182,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64019,
@@ -20691,6 +20827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51299,
+      "num": 429330,
+      "word": "巴基斯坦如何击落印度战机",
+      "onboard_time": 1746586880,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 51091,
       "num": 168029,
       "word": "高圆圆一款很会穿的梦中情姐",
@@ -21120,6 +21264,14 @@
       "word": "港股恒指高开涨0.32%",
       "onboard_time": 1746512481,
       "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 44605,
+      "num": 184199,
+      "word": "吴清谈巴菲特退休",
+      "onboard_time": 1746586161,
+      "rank": 39,
       "category": "财经"
     },
     {
@@ -21649,6 +21801,14 @@
       "onboard_time": 1746334880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34906,
+      "num": 436535,
+      "word": "莫让胖东来们陷入棒杀捧杀泥潭",
+      "onboard_time": 1746587423,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34888,
