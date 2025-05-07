@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746656697678,
+  "endTime": 1746657778379,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 440372,
+      "num": 440372,
+      "word": "印巴局势再升级",
+      "onboard_time": 1746642794,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 344869,
       "num": 265799,
       "word": "王昶24岁生日照",
@@ -73,14 +81,6 @@
       "onboard_time": 1746629784,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318943,
-      "num": 318943,
-      "word": "印巴局势再升级",
-      "onboard_time": 1746642794,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 289966,
@@ -203,6 +203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122244,
+      "num": 122244,
+      "word": "女子用公筷试吃超市咸菜后插回",
+      "onboard_time": 1746616521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121436,
       "num": 121436,
       "word": "别不开心了这个月还有小长假",
@@ -248,14 +256,6 @@
       "word": "国泰调查乘务员给3岁小孩提供酒水",
       "onboard_time": 1746631582,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95083,
-      "num": 95083,
-      "word": "女子用公筷试吃超市咸菜后插回",
-      "onboard_time": 1746616521,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 79335,
+      "num": 79335,
+      "word": "中美经贸高层会谈是应美方请求举行的",
+      "onboard_time": 1746629364,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76575,
       "num": 76575,
       "word": "第一个兔塑迪丽热巴的简直是天才",
@@ -337,14 +345,6 @@
       "onboard_time": 1746626902,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73087,
-      "num": 73087,
-      "word": "中美经贸高层会谈是应美方请求举行的",
-      "onboard_time": 1746629364,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72930,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40566,
+      "num": 40566,
+      "word": "孟子义成功了是魔术失败了是小品",
+      "onboard_time": 1746656235,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35934,
       "num": 568179,
       "word": "一图速览一揽子金融增量政策",
@@ -451,7 +459,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 29552,
+      "raw_hot": 31184,
       "num": 44031,
       "word": "美国极限施压对中国不灵",
       "onboard_time": 1746651733,
@@ -459,8 +467,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29173,
-      "num": 34482,
+      "raw_hot": 29550,
+      "num": 40477,
       "word": "巴基斯坦将对印军入侵做出回应",
       "onboard_time": 1746650115,
       "rank": 9,
@@ -484,15 +492,15 @@
     },
     {
       "raw_hot": 24810,
-      "num": 25385,
+      "num": 40317,
       "word": "丁禹兮执剑变装",
       "onboard_time": 1746641594,
       "rank": 37,
       "category": "剧集"
     },
     {
-      "raw_hot": 19674,
-      "num": 25426,
+      "raw_hot": 20599,
+      "num": 40390,
       "word": "外交部紧急提醒在印巴中国公民",
       "onboard_time": 1746646815,
       "rank": 32,
@@ -515,36 +523,28 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 17764,
-      "num": 24530,
-      "word": "AL对战BLG",
-      "onboard_time": 1746642135,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 17673,
-      "num": 25411,
-      "word": "环球时报记者莫斯科实拍",
-      "onboard_time": 1746631761,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 17406,
-      "num": 25400,
+      "raw_hot": 19021,
+      "num": 40362,
       "word": "开始推理吧",
       "onboard_time": 1746643395,
       "rank": 45,
       "category": "综艺"
     },
     {
-      "raw_hot": 16852,
-      "num": 25395,
-      "word": "孟子义成功了是魔术失败了是小品",
-      "onboard_time": 1746656235,
+      "raw_hot": 18694,
+      "num": 40339,
+      "word": "环球时报记者莫斯科实拍",
+      "onboard_time": 1746631761,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 17764,
+      "num": 24530,
+      "word": "AL对战BLG",
+      "onboard_time": 1746642135,
       "rank": 47,
-      "category": "综艺"
+      "category": "电竞"
     },
     {
       "raw_hot": 16802,
