@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746593088944,
+  "endTime": 1746595545941,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -59,20 +59,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1326572,
+      "num": 1326572,
+      "word": "60w房贷少还多少钱",
+      "onboard_time": 1746588022,
+      "rank": 31,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 1289711,
       "num": 775682,
       "word": "祝贺胖都来开业的明星致歉",
       "onboard_time": 1746590663,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1218600,
-      "num": 1218600,
-      "word": "60w房贷少还多少钱",
-      "onboard_time": 1746588022,
-      "rank": 31,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1096190,
@@ -89,6 +89,14 @@
       "onboard_time": 1746587542,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1016881,
+      "num": 688763,
+      "word": "白敬亭申请强执春山学博主",
+      "onboard_time": 1746592165,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 978209,
@@ -121,6 +129,14 @@
       "onboard_time": 1746589702,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 883560,
+      "num": 702984,
+      "word": "网传台球女助教涉特殊服务",
+      "onboard_time": 1746589702,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 872407,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702984,
-      "num": 702984,
-      "word": "网传台球女助教涉特殊服务",
-      "onboard_time": 1746589702,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 689605,
       "num": 430663,
       "word": "为胖都来站台的明星诚信已打了折扣",
@@ -195,12 +203,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 688763,
-      "num": 688763,
-      "word": "白敬亭申请强执春山学博主",
-      "onboard_time": 1746592165,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 687929,
+      "num": 376622,
+      "word": "关晓彤嘴里咬着戒指",
+      "onboard_time": 1746594324,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 660322,
@@ -227,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 581222,
+      "num": 376482,
+      "word": "关晓彤金发首封",
+      "onboard_time": 1746593364,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 576858,
       "num": 628959,
       "word": "100万房贷月供少还132元",
@@ -235,11 +251,27 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 573272,
+      "num": 375634,
+      "word": "张杰悼念苟伟",
+      "onboard_time": 1746593003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544396,
       "num": 544396,
       "word": "211",
       "onboard_time": 1746539603,
       "rank": 3,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 504951,
+      "num": 298839,
+      "word": "京东外卖 超时",
+      "onboard_time": 1746593544,
+      "rank": 31,
       "category": "互联网"
     },
     {
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380757,
+      "num": 398098,
+      "word": "60岁老人喝自制药酒却中情花毒",
+      "onboard_time": 1746589042,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377578,
       "num": 405236,
       "word": "莫迪对巴基斯坦放狠话",
@@ -467,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307995,
-      "num": 398098,
-      "word": "60岁老人喝自制药酒却中情花毒",
-      "onboard_time": 1746589042,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307038,
       "num": 427145,
       "word": "降准降息对生活的直接影响",
@@ -505,6 +537,14 @@
       "onboard_time": 1746574101,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290789,
+      "num": 380394,
+      "word": "伊能静第一次看到儿子化妆",
+      "onboard_time": 1746592584,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 285533,
@@ -563,6 +603,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 269386,
+      "num": 269386,
+      "word": "生理性厌恶",
+      "onboard_time": 1746588983,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268006,
       "num": 268006,
       "word": "蛇钞",
@@ -617,14 +665,6 @@
       "onboard_time": 1746591323,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 255446,
-      "num": 255446,
-      "word": "伊能静第一次看到儿子化妆",
-      "onboard_time": 1746592584,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 254431,
@@ -707,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231749,
-      "num": 231749,
-      "word": "张杰悼念苟伟",
-      "onboard_time": 1746593003,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227628,
       "num": 227628,
       "word": "宁艺卓ELLE",
@@ -771,10 +803,26 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 209744,
+      "num": 353878,
+      "word": "黄宗泽新剧无妻徒刑",
+      "onboard_time": 1746594742,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209055,
       "num": 387007,
       "word": "双轨",
       "onboard_time": 1746578363,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208116,
+      "num": 329165,
+      "word": "建议抓孟子义去当女儿国国王",
+      "onboard_time": 1746594384,
       "rank": 28,
       "category": "剧集"
     },
@@ -793,6 +841,14 @@
       "onboard_time": 1746574101,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "刘雨昕妈妈是非遗黔剧传承人",
+      "onboard_time": 1746595044,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 203043,
@@ -836,7 +892,7 @@
     },
     {
       "raw_hot": 199719,
-      "num": 199719,
+      "num": 388589,
       "word": "降息0.1个百分点",
       "onboard_time": 1746587963,
       "rank": 38,
@@ -857,6 +913,14 @@
       "onboard_time": 1746534622,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194809,
+      "num": 194809,
+      "word": "杨紫侧丸子头造型",
+      "onboard_time": 1746594982,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192932,
@@ -907,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186184,
+      "num": 340758,
+      "word": "央八藏海传预热",
+      "onboard_time": 1746594263,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185182,
       "num": 276358,
       "word": "三德子赵亮致歉",
@@ -955,6 +1027,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 177684,
+      "num": 177684,
+      "word": "赵丽颖极简白裙",
+      "onboard_time": 1746593364,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175858,
       "num": 175858,
       "word": "赵心童王楚钦是好友还都是左手将",
@@ -977,6 +1057,22 @@
       "onboard_time": 1746591685,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167159,
+      "num": 167159,
+      "word": "内娱纯阳之体曹骏想演反派",
+      "onboard_time": 1746594624,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165590,
+      "num": 165590,
+      "word": "王楚钦除了吃海鲜都是强项",
+      "onboard_time": 1746595221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165448,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1746581122,
       "rank": 41,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 161274,
+      "num": 161274,
+      "word": "花300块钱买下这个女人的一天",
+      "onboard_time": 1746595284,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 159200,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1746563294,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147027,
+      "num": 1163884,
+      "word": "央行3类10项措施",
+      "onboard_time": 1746592645,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146471,
@@ -1177,6 +1289,14 @@
       "onboard_time": 1746543864,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133058,
+      "num": 378741,
+      "word": "京东Ai给妈妈写诗",
+      "onboard_time": 1746594263,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 130773,
@@ -1443,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74531,
+      "num": 377559,
+      "word": "五折抢购爱马仕中产挤爆特卖会",
+      "onboard_time": 1746594384,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74262,
       "num": 74262,
       "word": "全红婵手速第一名",
@@ -1531,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65033,
+      "num": 178089,
+      "word": "互换便利已开展2次操作总金额1050亿元",
+      "onboard_time": 1746595522,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65004,
       "num": 720869,
       "word": "印方称巴方开火造成3死7伤",
@@ -1545,14 +1681,6 @@
       "onboard_time": 1746587423,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64564,
-      "num": 1163884,
-      "word": "央行3类10项措施",
-      "onboard_time": 1746592645,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63876,
@@ -1627,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49439,
+      "num": 317993,
+      "word": "印度承认损失三架战机",
+      "onboard_time": 1746594683,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48845,
       "num": 48845,
       "word": "明显学术糊弄外行人看了都说离谱",
@@ -1657,6 +1793,14 @@
       "onboard_time": 1746586161,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 37793,
+      "num": 559761,
+      "word": "打卡莫斯科感受中俄友谊",
+      "onboard_time": 1746593303,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37235,
@@ -1697,6 +1841,14 @@
       "onboard_time": 1746564794,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33282,
+      "num": 382339,
+      "word": "有机构称代发3页论文费用1万元",
+      "onboard_time": 1746594024,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32617,
@@ -1777,6 +1929,14 @@
       "onboard_time": 1746559754,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10190,
+      "num": 278872,
+      "word": "不同烹调方式适宜选用什么油",
+      "onboard_time": 1746595342,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 9943,

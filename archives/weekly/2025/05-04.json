@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746593088944,
+  "endTime": 1746595545941,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -339,6 +339,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1326572,
+      "num": 1326572,
+      "word": "60w房贷少还多少钱",
+      "onboard_time": 1746588022,
+      "rank": 31,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 1293412,
       "num": 987073,
       "word": "罗云熙 超时",
@@ -409,14 +417,6 @@
       "onboard_time": 1746338060,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1218600,
-      "num": 1218600,
-      "word": "60w房贷少还多少钱",
-      "onboard_time": 1746588022,
-      "rank": 31,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1160004,
@@ -571,6 +571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1016881,
+      "num": 688763,
+      "word": "白敬亭申请强执春山学博主",
+      "onboard_time": 1746592165,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013428,
       "num": 678085,
       "word": "霍思燕一家与贾乃亮一家出游",
@@ -697,6 +705,14 @@
       "onboard_time": 1746589702,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 883560,
+      "num": 702984,
+      "word": "网传台球女助教涉特殊服务",
+      "onboard_time": 1746589702,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 876009,
@@ -1123,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702984,
-      "num": 702984,
-      "word": "网传台球女助教涉特殊服务",
-      "onboard_time": 1746589702,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 696791,
       "num": 696791,
       "word": "专家建议节后上班第一天少干活儿",
@@ -1155,20 +1163,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 688763,
-      "num": 688763,
-      "word": "白敬亭申请强执春山学博主",
-      "onboard_time": 1746592165,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 688631,
       "num": 688631,
       "word": "4集演出了别人40集的进度",
       "onboard_time": 1746449241,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 687929,
+      "num": 376622,
+      "word": "关晓彤嘴里咬着戒指",
+      "onboard_time": 1746594324,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 674744,
@@ -1475,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 581222,
+      "num": 376482,
+      "word": "关晓彤金发首封",
+      "onboard_time": 1746593364,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 579483,
       "num": 796877,
       "word": "弟弟冒领瘫痪哥哥58万工伤金买豪车",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1746584843,
       "rank": 9,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 573272,
+      "num": 375634,
+      "word": "张杰悼念苟伟",
+      "onboard_time": 1746593003,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 568317,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1746269962,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 504951,
+      "num": 298839,
+      "word": "京东外卖 超时",
+      "onboard_time": 1746593544,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 501470,
@@ -2523,6 +2555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380757,
+      "num": 398098,
+      "word": "60岁老人喝自制药酒却中情花毒",
+      "onboard_time": 1746589042,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378905,
       "num": 244886,
       "word": "故意让内向的孩子抽到空白签",
@@ -3107,14 +3147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307995,
-      "num": 398098,
-      "word": "60岁老人喝自制药酒却中情花毒",
-      "onboard_time": 1746589042,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307472,
       "num": 307472,
       "word": "芦笋馄饨",
@@ -3305,6 +3337,14 @@
       "onboard_time": 1746574101,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290789,
+      "num": 380394,
+      "word": "伊能静第一次看到儿子化妆",
+      "onboard_time": 1746592584,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 289450,
@@ -3555,6 +3595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 269386,
+      "num": 269386,
+      "word": "生理性厌恶",
+      "onboard_time": 1746588983,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268006,
       "num": 268006,
       "word": "蛇钞",
@@ -3785,14 +3833,6 @@
       "onboard_time": 1746412102,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255446,
-      "num": 255446,
-      "word": "伊能静第一次看到儿子化妆",
-      "onboard_time": 1746592584,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 254904,
@@ -4145,14 +4185,6 @@
       "onboard_time": 1746516561,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231749,
-      "num": 231749,
-      "word": "张杰悼念苟伟",
-      "onboard_time": 1746593003,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 231700,
@@ -4587,6 +4619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209744,
+      "num": 353878,
+      "word": "黄宗泽新剧无妻徒刑",
+      "onboard_time": 1746594742,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209621,
       "num": 281578,
       "word": "哪吒2破158亿了",
@@ -4665,6 +4705,14 @@
       "onboard_time": 1746367584,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208116,
+      "num": 329165,
+      "word": "建议抓孟子义去当女儿国国王",
+      "onboard_time": 1746594384,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 208115,
@@ -4931,6 +4979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204356,
+      "num": 204356,
+      "word": "刘雨昕妈妈是非遗黔剧传承人",
+      "onboard_time": 1746595044,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204172,
       "num": 204172,
       "word": "宋亚轩被彩带攻击",
@@ -5084,7 +5140,7 @@
     },
     {
       "raw_hot": 199719,
-      "num": 199719,
+      "num": 388589,
       "word": "降息0.1个百分点",
       "onboard_time": 1746587963,
       "rank": 38,
@@ -5329,6 +5385,14 @@
       "onboard_time": 1746487340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194809,
+      "num": 194809,
+      "word": "杨紫侧丸子头造型",
+      "onboard_time": 1746594982,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194715,
@@ -5691,6 +5755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186184,
+      "num": 340758,
+      "word": "央八藏海传预热",
+      "onboard_time": 1746594263,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184933,
       "num": 213365,
       "word": "孟加拉国3毛钱人民币一晚的酒店",
@@ -5969,6 +6041,14 @@
       "onboard_time": 1746515001,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177684,
+      "num": 177684,
+      "word": "赵丽颖极简白裙",
+      "onboard_time": 1746593364,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177610,
@@ -6371,6 +6451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167159,
+      "num": 167159,
+      "word": "内娱纯阳之体曹骏想演反派",
+      "onboard_time": 1746594624,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167057,
       "num": 167057,
       "word": "严浩翔在后台跳了冬眠",
@@ -6465,6 +6553,14 @@
       "onboard_time": 1746512481,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165590,
+      "num": 165590,
+      "word": "王楚钦除了吃海鲜都是强项",
+      "onboard_time": 1746595221,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165473,
@@ -6713,6 +6809,14 @@
       "onboard_time": 1746437602,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161274,
+      "num": 161274,
+      "word": "花300块钱买下这个女人的一天",
+      "onboard_time": 1746595284,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 161105,
@@ -7481,6 +7585,14 @@
       "onboard_time": 1746422301,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147027,
+      "num": 1163884,
+      "word": "央行3类10项措施",
+      "onboard_time": 1746592645,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146937,
@@ -8297,6 +8409,14 @@
       "onboard_time": 1746433582,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133058,
+      "num": 378741,
+      "word": "京东Ai给妈妈写诗",
+      "onboard_time": 1746594263,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 132959,
@@ -10779,6 +10899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74531,
+      "num": 377559,
+      "word": "五折抢购爱马仕中产挤爆特卖会",
+      "onboard_time": 1746594384,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74262,
       "num": 74262,
       "word": "全红婵手速第一名",
@@ -10987,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65033,
+      "num": 178089,
+      "word": "互换便利已开展2次操作总金额1050亿元",
+      "onboard_time": 1746595522,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65023,
       "num": 79444,
       "word": "李沐宸回应灵气消耗",
@@ -11017,14 +11153,6 @@
       "onboard_time": 1746461481,
       "rank": 47,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 64564,
-      "num": 1163884,
-      "word": "央行3类10项措施",
-      "onboard_time": 1746592645,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64403,
@@ -11411,6 +11539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49439,
+      "num": 317993,
+      "word": "印度承认损失三架战机",
+      "onboard_time": 1746594683,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49418,
       "num": 310796,
       "word": "各问政平台频现高中假双休问题",
@@ -11787,6 +11923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37793,
+      "num": 559761,
+      "word": "打卡莫斯科感受中俄友谊",
+      "onboard_time": 1746593303,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37309,
       "num": 64682,
       "word": "陈立农直播",
@@ -11913,6 +12057,14 @@
       "onboard_time": 1746535343,
       "rank": 29,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 33282,
+      "num": 382339,
+      "word": "有机构称代发3页论文费用1万元",
+      "onboard_time": 1746594024,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33171,
@@ -12753,6 +12905,14 @@
       "onboard_time": 1746347363,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10190,
+      "num": 278872,
+      "word": "不同烹调方式适宜选用什么油",
+      "onboard_time": 1746595342,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10160,

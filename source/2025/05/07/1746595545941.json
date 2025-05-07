@@ -1,0 +1,410 @@
+{
+  "runTime": 1746595545941,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5937999,
+        "num": 5937999,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1326572,
+        "num": 1326572,
+        "word": "60w房贷少还多少钱",
+        "onboard_time": 1746588022,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 147027,
+        "num": 800464,
+        "word": "央行3类10项措施",
+        "onboard_time": 1746592645,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786522,
+        "num": 786522,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 3,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 654422,
+        "num": 654422,
+        "word": "歌手苟伟去世",
+        "onboard_time": 1746575722,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597176,
+        "num": 597176,
+        "word": "藏海传",
+        "onboard_time": 1746591445,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37793,
+        "num": 559761,
+        "word": "打卡莫斯科感受中俄友谊",
+        "onboard_time": 1746593303,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556417,
+        "num": 556417,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 548265,
+        "num": 548265,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 410554,
+        "num": 410554,
+        "word": "巴基斯坦称遭印度导弹袭击",
+        "onboard_time": 1746572900,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1146667,
+        "num": 405718,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1036555,
+        "num": 402718,
+        "word": "祝贺胖都来开业的明星致歉",
+        "onboard_time": 1746590663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016881,
+        "num": 396428,
+        "word": "白敬亭申请强执春山学博主",
+        "onboard_time": 1746592165,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90350,
+        "num": 388589,
+        "word": "降息0.1个百分点",
+        "onboard_time": 1746587963,
+        "rank": 13,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 33282,
+        "num": 382339,
+        "word": "有机构称代发3页论文费用1万元",
+        "onboard_time": 1746594024,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 380757,
+        "num": 380757,
+        "word": "60岁老人喝自制药酒却中情花毒",
+        "onboard_time": 1746589042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290789,
+        "num": 380394,
+        "word": "伊能静第一次看到儿子化妆",
+        "onboard_time": 1746592584,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883560,
+        "num": 379671,
+        "word": "网传台球女助教涉特殊服务",
+        "onboard_time": 1746589702,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133058,
+        "num": 378741,
+        "word": "京东Ai给妈妈写诗",
+        "onboard_time": 1746594263,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74531,
+        "num": 377559,
+        "word": "五折抢购爱马仕中产挤爆特卖会",
+        "onboard_time": 1746594384,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687929,
+        "num": 376622,
+        "word": "关晓彤嘴里咬着戒指",
+        "onboard_time": 1746594324,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 581222,
+        "num": 376482,
+        "word": "关晓彤金发首封",
+        "onboard_time": 1746593364,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 573272,
+        "num": 375634,
+        "word": "张杰悼念苟伟",
+        "onboard_time": 1746593003,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405138,
+        "num": 374392,
+        "word": "公司回应林俊杰被曝介入他人感情",
+        "onboard_time": 1746588324,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374127,
+        "num": 374127,
+        "word": "莫迪对巴基斯坦放狠话",
+        "onboard_time": 1746591625,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359628,
+        "num": 359628,
+        "word": "众星痛心发文悼念苟伟",
+        "onboard_time": 1746587842,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209744,
+        "num": 353878,
+        "word": "黄宗泽新剧无妻徒刑",
+        "onboard_time": 1746594742,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186184,
+        "num": 340758,
+        "word": "央八藏海传预热",
+        "onboard_time": 1746594263,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208116,
+        "num": 329165,
+        "word": "建议抓孟子义去当女儿国国王",
+        "onboard_time": 1746594384,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49439,
+        "num": 317993,
+        "word": "印度承认损失三架战机",
+        "onboard_time": 1746594683,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112735,
+        "num": 305219,
+        "word": "手脚现这4种异常可能是血管堵了",
+        "onboard_time": 1746583462,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 504951,
+        "num": 298839,
+        "word": "京东外卖 超时",
+        "onboard_time": 1746593544,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290135,
+        "num": 290135,
+        "word": "公积金贷款利率降0.25个百分点",
+        "onboard_time": 1746580822,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10190,
+        "num": 278872,
+        "word": "不同烹调方式适宜选用什么油",
+        "onboard_time": 1746595342,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269386,
+        "num": 269386,
+        "word": "生理性厌恶",
+        "onboard_time": 1746588983,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246127,
+        "num": 246127,
+        "word": "女孩高铁坐过站误入香港变跨境游",
+        "onboard_time": 1746577043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229416,
+        "num": 229416,
+        "word": "钉钉",
+        "onboard_time": 1746588563,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219895,
+        "num": 219895,
+        "word": "提词器让马嘉祺宋亚轩挪屁股",
+        "onboard_time": 1746590723,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204452,
+        "num": 204452,
+        "word": "iPhone涨价会是国产机的机会吗",
+        "onboard_time": 1746592105,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204356,
+        "num": 204356,
+        "word": "刘雨昕妈妈是非遗黔剧传承人",
+        "onboard_time": 1746595044,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194809,
+        "num": 194809,
+        "word": "杨紫侧丸子头造型",
+        "onboard_time": 1746594982,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186974,
+        "num": 186974,
+        "word": "拉椅子",
+        "onboard_time": 1746590364,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184438,
+        "num": 184438,
+        "word": "酷儿",
+        "onboard_time": 1746591323,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65033,
+        "num": 178089,
+        "word": "互换便利已开展2次操作总金额1050亿元",
+        "onboard_time": 1746595522,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177684,
+        "num": 177684,
+        "word": "赵丽颖极简白裙",
+        "onboard_time": 1746593364,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167159,
+        "num": 167159,
+        "word": "内娱纯阳之体曹骏想演反派",
+        "onboard_time": 1746594624,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165590,
+        "num": 165590,
+        "word": "王楚钦除了吃海鲜都是强项",
+        "onboard_time": 1746595221,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161274,
+        "num": 161274,
+        "word": "花300块钱买下这个女人的一天",
+        "onboard_time": 1746595284,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154420,
+        "num": 154420,
+        "word": "灵犀相通",
+        "onboard_time": 1746587542,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147002,
+        "num": 154327,
+        "word": "童年白月光曹骏回应翻红",
+        "onboard_time": 1746589042,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺默茨当选德国总理#"
+    }
+  }
+}
