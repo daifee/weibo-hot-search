@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/04 00:28:46 ~ 2025/05/08 04:42:57
+本榜单时间：2025/05/04 00:28:46 ~ 2025/05/08 05:21:25
 </p>
 </blockquote>
 <p>
@@ -11187,6 +11187,12 @@ WAW二次元五一大聚会（热度：25101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B0%86%E5%AF%B9%E5%8D%B0%E5%86%9B%E5%85%A5%E4%BE%B5%E5%81%9A%E5%87%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
+巴基斯坦将对印军入侵做出回应（热度：20196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E8%A7%A3%E9%94%81%E6%97%A0%E7%95%8F%E6%96%B0%E5%9C%B0%E5%9B%BE%23" target="weibo">
 和登陆少年解锁无畏新地图（热度：20112）
 </a>
@@ -11331,6 +11337,12 @@ AL对战BLG（热度：17764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%8D%B0%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23" target="weibo">
+外交部紧急提醒在印巴中国公民（热度：16266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9D%E8%A7%84%E7%88%AC%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E8%BF%98%E6%95%99%E5%88%AB%E4%BA%BA%E7%88%AC%23" target="weibo">
 男子违规爬西安城墙还教别人爬（热度：16231）
 </a>
@@ -11351,12 +11363,6 @@ AL对战BLG（热度：17764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%A5%89%E9%99%AA%E5%88%B0%E5%BA%95%E8%B0%88%E5%A4%A7%E9%97%A8%E6%95%9E%E5%BC%80%23" target="weibo">
 打奉陪到底谈大门敞开（热度：15931）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%8D%B0%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23" target="weibo">
-外交部紧急提醒在印巴中国公民（热度：15718）
 </a>
 </li>
 
@@ -11519,6 +11525,12 @@ WAW星光见面会（热度：15247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%E5%BC%8F%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23" target="weibo">
 俄罗斯阅兵式彩排现场视频（热度：12216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%81%B5%23" target="weibo">
+美国极限施压对中国不灵（热度：12213）
 </a>
 </li>
 
