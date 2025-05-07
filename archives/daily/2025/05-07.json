@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746602726131,
+  "endTime": 1746603556592,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 816175,
+      "num": 816175,
+      "word": "茅台回应首位代言人张艺兴",
+      "onboard_time": 1746600022,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 787504,
       "num": 679133,
       "word": "众星痛心发文悼念苟伟",
@@ -216,14 +224,6 @@
       "word": "茅台 张艺兴",
       "onboard_time": 1746575120,
       "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 774542,
-      "num": 774542,
-      "word": "茅台回应首位代言人张艺兴",
-      "onboard_time": 1746600022,
-      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -256,6 +256,14 @@
       "word": "藏海传",
       "onboard_time": 1746591445,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 647120,
+      "num": 337031,
+      "word": "刘令姿主演",
+      "onboard_time": 1746601943,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -299,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 577542,
+      "num": 577542,
+      "word": "撕拉片凭什么卖300多一张",
+      "onboard_time": 1746600502,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576858,
       "num": 628959,
       "word": "100万房贷月供少还132元",
@@ -329,14 +345,6 @@
       "onboard_time": 1746539603,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 506255,
-      "num": 214276,
-      "word": "刘令姿主演",
-      "onboard_time": 1746601943,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 489363,
@@ -523,6 +531,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 347281,
+      "num": 347281,
+      "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
+      "onboard_time": 1746597743,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346995,
       "num": 346995,
       "word": "女孩跳绳后肚子剧痛卵巢竟扭成麻花",
@@ -545,6 +561,14 @@
       "onboard_time": 1746582082,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 331996,
+      "num": 331996,
+      "word": "白宫又吵起来了",
+      "onboard_time": 1746600982,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329835,
@@ -585,14 +609,6 @@
       "onboard_time": 1746589161,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307471,
-      "num": 307471,
-      "word": "撕拉片凭什么卖300多一张",
-      "onboard_time": 1746600502,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307038,
@@ -851,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241597,
+      "num": 241597,
+      "word": "风月不相关女主",
+      "onboard_time": 1746601943,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236164,
       "num": 236164,
       "word": "晒被子的重要性具象化了",
@@ -859,20 +883,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234275,
+      "num": 234275,
+      "word": "孙珍妮 耀眼",
+      "onboard_time": 1746599123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232720,
       "num": 232720,
       "word": "王俊凯皮裤",
       "onboard_time": 1746592105,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230000,
-      "num": 230000,
-      "word": "孙珍妮 耀眼",
-      "onboard_time": 1746599123,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 228675,
@@ -952,14 +976,6 @@
       "word": "美财长被问中美谁主动时紧张到结巴",
       "onboard_time": 1746599123,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 214791,
-      "num": 322238,
-      "word": "白宫又吵起来了",
-      "onboard_time": 1746600982,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -1067,12 +1083,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201832,
-      "num": 201832,
-      "word": "风月不相关女主",
-      "onboard_time": 1746601943,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 201958,
+      "num": 201958,
+      "word": "眼镜王蛇的蛇生",
+      "onboard_time": 1746602482,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 200921,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1746587963,
       "rank": 38,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 198472,
+      "num": 198472,
+      "word": "怪不得胡一天去澳门了",
+      "onboard_time": 1746602904,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196748,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1746594263,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185322,
+      "num": 185322,
+      "word": "巴基斯坦公布对印回击细节",
+      "onboard_time": 1746602662,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185182,
@@ -1259,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171588,
-      "num": 314084,
-      "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
-      "onboard_time": 1746597743,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170599,
       "num": 264626,
       "word": "张云龙37岁勇闯甜妹圈",
@@ -1276,7 +1300,7 @@
     },
     {
       "raw_hot": 168225,
-      "num": 168225,
+      "num": 286024,
       "word": "苟伟曾因抑郁未回应张杰演唱会邀约",
       "onboard_time": 1746598820,
       "rank": 43,
@@ -1371,14 +1395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160077,
-      "num": 160077,
-      "word": "眼镜王蛇的蛇生",
-      "onboard_time": 1746602482,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "平番排序方式",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1746599601,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "中国是俄罗斯第一大贸易伙伴国",
+      "onboard_time": 1746603141,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155756,
@@ -1467,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148006,
+      "num": 148006,
+      "word": "撕拉片溢价三百多一张还未必成像",
+      "onboard_time": 1746603202,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147027,
       "num": 1163884,
       "word": "央行3类10项措施",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1746541343,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141429,
+      "num": 259771,
+      "word": "坚持一个月把肝养回来",
+      "onboard_time": 1746601642,
+      "rank": 24,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 139909,
@@ -1691,14 +1731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121959,
-      "num": 121959,
-      "word": "巴基斯坦公布对印回击细节",
-      "onboard_time": 1746602662,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120138,
       "num": 120138,
       "word": "坚持喝陈皮苹果3个月",
@@ -1859,12 +1891,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87659,
-      "num": 259771,
-      "word": "坚持一个月把肝养回来",
-      "onboard_time": 1746601642,
-      "rank": 24,
-      "category": "健康医疗,民生新闻"
+      "raw_hot": 87378,
+      "num": 334963,
+      "word": "全市场超3200个股上涨",
+      "onboard_time": 1746602904,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 87359,
@@ -2291,8 +2323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24873,
-      "num": 157928,
+      "raw_hot": 24966,
+      "num": 161599,
       "word": "国考言语最新考点梳理",
       "onboard_time": 1746601642,
       "rank": 39,
@@ -2329,6 +2361,14 @@
       "onboard_time": 1746596482,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18314,
+      "num": 204206,
+      "word": "印巴今日交火来龙去脉",
+      "onboard_time": 1746602960,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15931,
