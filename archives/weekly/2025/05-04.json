@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746588559299,
+  "endTime": 1746590104336,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2266801,
+      "num": 618702,
+      "word": "爱吃菠萝的人天塌了",
+      "onboard_time": 1746586880,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2203583,
       "num": 2203583,
       "word": "医院拒绝给离世女大学生道歉",
@@ -97,14 +105,6 @@
       "onboard_time": 1746369864,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2082257,
-      "num": 618702,
-      "word": "爱吃菠萝的人天塌了",
-      "onboard_time": 1746586880,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 2062863,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 970555,
+      "num": 433667,
+      "word": "公司回应林俊杰被曝介入他人感情",
+      "onboard_time": 1746588324,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970300,
       "num": 970300,
       "word": "周翊然陈都灵发文",
@@ -817,6 +825,14 @@
       "onboard_time": 1746418342,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 787504,
+      "num": 486556,
+      "word": "众星痛心发文悼念苟伟",
+      "onboard_time": 1746587842,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 786520,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1746501021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693903,
+      "num": 427744,
+      "word": "60w房贷少还多少钱",
+      "onboard_time": 1746588022,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 693116,
@@ -1825,14 +1849,6 @@
       "onboard_time": 1746415164,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486556,
-      "num": 486556,
-      "word": "众星痛心发文悼念苟伟",
-      "onboard_time": 1746587842,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 485904,
@@ -2579,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360799,
+      "num": 360799,
+      "word": "孙颖莎 嘉人",
+      "onboard_time": 1746589643,
+      "rank": 18,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 359357,
       "num": 359357,
       "word": "和三观不正的人聊天像在录口供",
@@ -2939,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315277,
+      "num": 319558,
+      "word": "孙颖莎有一颗百分之百争强好胜的心",
+      "onboard_time": 1746589161,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315182,
       "num": 315182,
       "word": "TES对战IG",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1746368906,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 302042,
+      "num": 302042,
+      "word": "钉钉",
+      "onboard_time": 1746588563,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 302020,
@@ -3265,6 +3305,14 @@
       "onboard_time": 1746583102,
       "rank": 30,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 284140,
+      "num": 440290,
+      "word": "印巴实时画面",
+      "onboard_time": 1746588742,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 283691,
@@ -3627,6 +3675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254431,
+      "num": 373417,
+      "word": "巴军方公布击落印度军机型号",
+      "onboard_time": 1746584182,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254257,
       "num": 254257,
       "word": "情侣想改名惹怒老父亲",
@@ -3819,14 +3875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245176,
-      "num": 373417,
-      "word": "巴军方公布击落印度军机型号",
-      "onboard_time": 1746584182,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 244574,
       "num": 244574,
       "word": "201",
@@ -3891,14 +3939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237296,
-      "num": 237296,
-      "word": "60w房贷少还多少钱",
-      "onboard_time": 1746588022,
-      "rank": 31,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 236913,
       "num": 236913,
       "word": "刘德华被女儿炫爸",
@@ -3961,6 +4001,14 @@
       "onboard_time": 1746433822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230227,
+      "num": 230227,
+      "word": "蜜雪冰城",
+      "onboard_time": 1746589702,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 230002,
@@ -4089,14 +4137,6 @@
       "onboard_time": 1746333682,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223152,
-      "num": 223152,
-      "word": "公司回应林俊杰被曝介入他人感情",
-      "onboard_time": 1746588324,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 222894,
@@ -4337,6 +4377,14 @@
       "onboard_time": 1746360863,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212637,
+      "num": 212637,
+      "word": "60岁老人喝自制药酒却中情花毒",
+      "onboard_time": 1746589042,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212411,
@@ -5027,6 +5075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 196556,
+      "num": 196556,
+      "word": "网传台球女助教涉特殊服务",
+      "onboard_time": 1746589702,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 196367,
       "num": 196367,
       "word": "林瀚",
@@ -5475,6 +5531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184933,
+      "num": 213365,
+      "word": "孟加拉国3毛钱人民币一晚的酒店",
+      "onboard_time": 1746588862,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "国羽3比1战胜韩国队",
@@ -5505,6 +5569,14 @@
       "onboard_time": 1746538222,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 183813,
+      "num": 183813,
+      "word": "特别出演刘美含",
+      "onboard_time": 1746589762,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 183482,
@@ -5665,6 +5737,14 @@
       "onboard_time": 1746334640,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179380,
+      "num": 260004,
+      "word": "呼吁印巴双方以和平稳定大局为重",
+      "onboard_time": 1746590003,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179330,
@@ -5921,6 +6001,14 @@
       "onboard_time": 1746336081,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172721,
+      "num": 427806,
+      "word": "童年白月光曹骏回应翻红",
+      "onboard_time": 1746589042,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 172248,
@@ -6241,6 +6329,14 @@
       "onboard_time": 1746346701,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165448,
+      "num": 370185,
+      "word": "苟伟曾和张杰创作北斗星的爱",
+      "onboard_time": 1746585861,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 165347,
@@ -6569,6 +6665,14 @@
       "onboard_time": 1746451762,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159200,
+      "num": 159200,
+      "word": "平番排序方式",
+      "onboard_time": 1746589102,
+      "rank": 49,
+      "category": "其它"
     },
     {
       "raw_hot": 159193,
@@ -7097,14 +7201,6 @@
       "onboard_time": 1746541942,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149573,
-      "num": 318628,
-      "word": "苟伟曾和张杰创作北斗星的爱",
-      "onboard_time": 1746585861,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 149468,
@@ -7915,6 +8011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135386,
+      "num": 317124,
+      "word": "印巴是否会爆发大规模军事冲突",
+      "onboard_time": 1746589283,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135123,
       "num": 149496,
       "word": "斯诺克世锦赛",
@@ -8587,6 +8691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124838,
+      "num": 236374,
+      "word": "印称已向美英等国通报对巴行动情况",
+      "onboard_time": 1746590063,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124446,
       "num": 124446,
       "word": "晒过被子的太阳味可不是烤螨虫味",
@@ -8755,6 +8867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121727,
+      "num": 320897,
+      "word": "黄子弘凡浪漫起来猝不及防",
+      "onboard_time": 1746587542,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121432,
       "num": 121432,
       "word": "苏杯中国1比0韩国",
@@ -8857,14 +8977,6 @@
       "onboard_time": 1746427223,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118697,
-      "num": 223465,
-      "word": "黄子弘凡浪漫起来猝不及防",
-      "onboard_time": 1746587542,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 118573,
@@ -10755,6 +10867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63876,
+      "num": 363299,
+      "word": "时隔一周美航母舰载机再出事故",
+      "onboard_time": 1746588143,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63220,
       "num": 319063,
       "word": "张信哲也没约到大同景区门票",
@@ -11459,6 +11579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37235,
+      "num": 356476,
+      "word": "斯凯奇为何选择退市避险",
+      "onboard_time": 1746589283,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37048,
       "num": 37048,
       "word": "巴萨3比3国际米兰",
@@ -11467,19 +11595,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36616,
-      "num": 363299,
-      "word": "时隔一周美航母舰载机再出事故",
-      "onboard_time": 1746588143,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36391,
       "num": 297439,
       "word": "北方有自己的大型漫展了",
       "onboard_time": 1746435681,
       "rank": 14,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 35727,
+      "num": 212975,
+      "word": "名侦探柯南夫妇组",
+      "onboard_time": 1746588922,
+      "rank": 39,
       "category": "动漫"
     },
     {
@@ -11841,6 +11969,14 @@
       "onboard_time": 1746297736,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24769,
+      "num": 317676,
+      "word": "奶茶店等小微企业借钱成本降低",
+      "onboard_time": 1746588922,
+      "rank": 27,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 24489,
