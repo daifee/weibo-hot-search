@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746616953127,
+  "endTime": 1746617871152,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -337,6 +337,14 @@
       "onboard_time": 1746085281,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1659750,
+      "num": 1659750,
+      "word": "曝张纪中开车撞到路人",
+      "onboard_time": 1746614783,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1652308,
@@ -811,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1173434,
-      "num": 1173434,
-      "word": "曝张纪中开车撞到路人",
-      "onboard_time": 1746614783,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1170100,
       "num": 371092,
       "word": "回忆专用小马甲",
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 1054630,
-      "num": 494057,
+      "num": 501684,
       "word": "吉克隽逸发文急寻粉底液救急",
       "onboard_time": 1746609503,
       "rank": 28,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1746272480,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 964517,
+      "num": 964517,
+      "word": "我不会跑 我是张纪中",
+      "onboard_time": 1746615382,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 962133,
@@ -1867,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 764207,
+      "num": 644140,
+      "word": "孟子义丁禹兮吻戏",
+      "onboard_time": 1746614122,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 762262,
       "num": 762262,
       "word": "校方建议被恶意退货商家报警",
@@ -2219,6 +2235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 680048,
+      "num": 680048,
+      "word": "樊振东给孙颖莎签名",
+      "onboard_time": 1746613943,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674744,
       "num": 515292,
       "word": "刘涛怼刘奕畅",
@@ -2393,14 +2417,6 @@
       "onboard_time": 1746070761,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 641971,
-      "num": 519120,
-      "word": "孟子义丁禹兮吻戏",
-      "onboard_time": 1746614122,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 637181,
@@ -2707,14 +2723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 597620,
-      "num": 487189,
-      "word": "我不会跑 我是张纪中",
-      "onboard_time": 1746615382,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597298,
       "num": 597298,
       "word": "iG",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1746067520,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 552160,
-      "num": 552160,
-      "word": "樊振东给孙颖莎签名",
-      "onboard_time": 1746613943,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 551231,
@@ -4939,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364245,
+      "num": 504676,
+      "word": "郑州有单位强制在编人员捐款",
+      "onboard_time": 1746615981,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363264,
       "num": 363264,
       "word": "五一劳动节",
@@ -5105,6 +5113,14 @@
       "onboard_time": 1746597743,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346987,
+      "num": 346987,
+      "word": "小S二女儿Lily杂志大片",
+      "onboard_time": 1746615862,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 346793,
@@ -5547,6 +5563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322261,
+      "num": 318880,
+      "word": "偶遇赵丽颖逛商场",
+      "onboard_time": 1746614362,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 321239,
       "num": 321239,
       "word": "百想直播",
@@ -5577,14 +5601,6 @@
       "onboard_time": 1746487279,
       "rank": 23,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 318880,
-      "num": 318880,
-      "word": "偶遇赵丽颖逛商场",
-      "onboard_time": 1746614362,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 317350,
@@ -6147,6 +6163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290841,
+      "num": 344496,
+      "word": "NIP战胜WBG",
+      "onboard_time": 1746616521,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 290789,
       "num": 380394,
       "word": "伊能静第一次看到儿子化妆",
@@ -6659,14 +6683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265219,
-      "num": 265219,
-      "word": "小S二女儿Lily杂志大片",
-      "onboard_time": 1746615862,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 265182,
       "num": 265182,
       "word": "叶童三公第一",
@@ -6955,6 +6971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 256178,
+      "num": 260083,
+      "word": "被击落的印度飞机残骸",
+      "onboard_time": 1746613162,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 256149,
       "num": 256149,
       "word": "荣昌政府食堂2天接待近2万游客",
@@ -7057,6 +7081,14 @@
       "onboard_time": 1746282563,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253630,
+      "num": 324584,
+      "word": "女子用公筷试吃超市咸菜后插回",
+      "onboard_time": 1746616521,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253156,
@@ -7289,6 +7321,14 @@
       "onboard_time": 1746333561,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 245695,
+      "num": 245695,
+      "word": "中介曝网红小乔退房保洁打扫6小时",
+      "onboard_time": 1746616462,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 245665,
@@ -7595,6 +7635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231919,
+      "num": 231919,
+      "word": "淮水竹亭 水仙",
+      "onboard_time": 1746616343,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231870,
       "num": 261118,
       "word": "七根心简",
@@ -7809,14 +7857,6 @@
       "onboard_time": 1746455962,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225850,
-      "num": 260083,
-      "word": "被击落的印度飞机残骸",
-      "onboard_time": 1746613162,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 225787,
@@ -8801,14 +8841,6 @@
       "onboard_time": 1746084260,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204731,
-      "num": 344496,
-      "word": "NIP战胜WBG",
-      "onboard_time": 1746616521,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 204587,
@@ -10035,6 +10067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191795,
+      "num": 191795,
+      "word": "沙溢有吉克隽逸要的色号",
+      "onboard_time": 1746617301,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191598,
       "num": 191598,
       "word": "陈丽君陈昊宇唱花田错",
@@ -10185,14 +10225,6 @@
       "onboard_time": 1746286582,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190217,
-      "num": 190217,
-      "word": "淮水竹亭 水仙",
-      "onboard_time": 1746616343,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 190198,
@@ -11267,14 +11299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177554,
-      "num": 177554,
-      "word": "中介曝网红小乔退房保洁打扫6小时",
-      "onboard_time": 1746616462,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 177461,
       "num": 177461,
       "word": "LadyGaga250万人演唱会",
@@ -11361,6 +11385,14 @@
       "onboard_time": 1746270262,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176119,
+      "num": 176119,
+      "word": "职场奶茶文化",
+      "onboard_time": 1746617543,
+      "rank": 42,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 175903,
@@ -11505,14 +11537,6 @@
       "onboard_time": 1746545302,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174139,
-      "num": 503690,
-      "word": "郑州有单位强制在编人员捐款",
-      "onboard_time": 1746615981,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174018,
@@ -11937,6 +11961,14 @@
       "onboard_time": 1746318920,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 168062,
+      "num": 168062,
+      "word": "丁禹兮新剧虐恋版少爷和我",
+      "onboard_time": 1746617422,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 168061,
@@ -14387,6 +14419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145920,
+      "num": 345355,
+      "word": "AI学习机成学生课后辅导神器",
+      "onboard_time": 1746617662,
+      "rank": 17,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 145918,
       "num": 145918,
       "word": "KPL",
@@ -14937,14 +14977,6 @@
       "onboard_time": 1746520342,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140821,
-      "num": 324584,
-      "word": "女子用公筷试吃超市咸菜后插回",
-      "onboard_time": 1746616521,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140793,
@@ -15513,6 +15545,14 @@
       "onboard_time": 1746427160,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136819,
+      "num": 513042,
+      "word": "中国排面永远让人热泪盈眶",
+      "onboard_time": 1746615503,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136657,
@@ -18011,6 +18051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116954,
+      "num": 346168,
+      "word": "第一次看这么蓝的红毯",
+      "onboard_time": 1746615802,
+      "rank": 22,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 116931,
       "num": 91417,
       "word": "赵心童11比6领先威廉姆斯",
@@ -18721,6 +18769,14 @@
       "onboard_time": 1746158309,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109638,
+      "num": 241108,
+      "word": "印度第十二旅总部遭巴方摧毁",
+      "onboard_time": 1746617543,
+      "rank": 26,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 109624,
@@ -19723,14 +19779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99806,
-      "num": 338214,
-      "word": "第一次看这么蓝的红毯",
-      "onboard_time": 1746615802,
-      "rank": 22,
-      "category": "演出,时尚"
-    },
-    {
       "raw_hot": 99693,
       "num": 99693,
       "word": "奥沙利文称赵心童有能力夺冠",
@@ -19865,14 +19913,6 @@
       "onboard_time": 1746022163,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98298,
-      "num": 513042,
-      "word": "中国排面永远让人热泪盈眶",
-      "onboard_time": 1746615503,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98276,
@@ -20075,6 +20115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95508,
+      "num": 349971,
+      "word": "CBA总决赛",
+      "onboard_time": 1746617362,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95278,
       "num": 376264,
       "word": "易小星人生开门红太敢拍了",
@@ -20273,6 +20321,14 @@
       "onboard_time": 1746186210,
       "rank": 38,
       "category": "体育,其它"
+    },
+    {
+      "raw_hot": 91742,
+      "num": 375141,
+      "word": "孙颖莎今年已获3项单打冠军",
+      "onboard_time": 1746616223,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 91644,
@@ -21363,6 +21419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72824,
+      "num": 509974,
+      "word": "60秒回顾历次红场胜利日阅兵",
+      "onboard_time": 1746612023,
+      "rank": 17,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 72483,
       "num": 118154,
       "word": "张杰回应唱逆战着魔磕破牙齿",
@@ -21593,14 +21657,6 @@
       "onboard_time": 1746537262,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 68197,
-      "num": 432188,
-      "word": "60秒回顾历次红场胜利日阅兵",
-      "onboard_time": 1746612023,
-      "rank": 17,
-      "category": "国际时政,军事"
     },
     {
       "raw_hot": 67715,
@@ -22619,6 +22675,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 49802,
+      "num": 244486,
+      "word": "医生提醒结节短期内变化应尽快就医",
+      "onboard_time": 1746617483,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49733,
       "num": 49733,
       "word": "孙恩盛直播",
@@ -22696,14 +22760,6 @@
       "word": "中国跳水队世界杯第8金",
       "onboard_time": 1746338060,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48707,
-      "num": 375141,
-      "word": "孙颖莎今年已获3项单打冠军",
-      "onboard_time": 1746616223,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -23057,6 +23113,14 @@
       "onboard_time": 1746505824,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 43506,
+      "num": 348085,
+      "word": "昆明一商贸城失火多家店铺被烧",
+      "onboard_time": 1746617002,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43384,
@@ -23643,6 +23707,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 34324,
+      "num": 226945,
+      "word": "一坠机点距印空军基地仅20公里",
+      "onboard_time": 1746615503,
+      "rank": 39,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 34138,
       "num": 156512,
       "word": "过期产品还能这样用",
@@ -23931,6 +24003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30180,
+      "num": 229374,
+      "word": "我嘞个天津早点规则怪谈",
+      "onboard_time": 1746616882,
+      "rank": 38,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 30039,
       "num": 459729,
       "word": "外国游客称中国简直是天堂",
@@ -23961,14 +24041,6 @@
       "onboard_time": 1746380657,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29320,
-      "num": 229374,
-      "word": "我嘞个天津早点规则怪谈",
-      "onboard_time": 1746616882,
-      "rank": 38,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 29281,
@@ -24755,14 +24827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19859,
-      "num": 226945,
-      "word": "一坠机点距印空军基地仅20公里",
-      "onboard_time": 1746615503,
-      "rank": 39,
-      "category": "国际时政,军事"
-    },
-    {
       "raw_hot": 19795,
       "num": 22554,
       "word": "鞠婧祎快乐碎片",
@@ -25411,6 +25475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12264,
+      "num": 237366,
+      "word": "胖都来的明星祝福条幅全拆了",
+      "onboard_time": 1746617543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12232,
       "num": 247929,
       "word": "实测特供中国游客的泰国海岛",
@@ -25890,6 +25962,9 @@
     },
     {
       "word": "#中俄元首继续引领两国关系登高望远#"
+    },
+    {
+      "word": "#习近平在俄罗斯媒体发表署名文章#"
     }
   ]
 }
