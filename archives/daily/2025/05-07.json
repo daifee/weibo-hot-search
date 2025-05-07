@@ -1,6 +1,6 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746590104336,
+  "endTime": 1746592207681,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1218600,
+      "num": 1218600,
+      "word": "60w房贷少还多少钱",
+      "onboard_time": 1746588022,
+      "rank": 31,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 1096190,
       "num": 1096190,
       "word": "刘畊宏方已报警",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 970555,
-      "num": 433667,
+      "num": 464894,
       "word": "公司回应林俊杰被曝介入他人感情",
       "onboard_time": 1746588324,
       "rank": 35,
@@ -99,8 +107,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 870045,
-      "num": 870045,
+      "raw_hot": 872407,
+      "num": 872407,
       "word": "歌手苟伟去世",
       "onboard_time": 1746575722,
       "rank": 5,
@@ -121,6 +129,14 @@
       "onboard_time": 1746585382,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 789493,
+      "num": 462060,
+      "word": "祝贺胖都来开业的明星致歉",
+      "onboard_time": 1746590663,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 787504,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 693903,
-      "num": 427744,
-      "word": "60w房贷少还多少钱",
-      "onboard_time": 1746588022,
-      "rank": 31,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 689605,
       "num": 430663,
       "word": "为胖都来站台的明星诚信已打了折扣",
@@ -185,6 +193,22 @@
       "onboard_time": 1746572900,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 602110,
+      "num": 602110,
+      "word": "蜜雪冰城",
+      "onboard_time": 1746589702,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 587133,
+      "num": 587133,
+      "word": "网传台球女助教涉特殊服务",
+      "onboard_time": 1746589702,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 576858,
@@ -233,6 +257,14 @@
       "onboard_time": 1746583643,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449973,
+      "num": 449973,
+      "word": "提词器让马嘉祺宋亚轩挪屁股",
+      "onboard_time": 1746590723,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 440646,
@@ -363,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 331562,
+      "num": 457250,
+      "word": "藏海传",
+      "onboard_time": 1746591445,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329835,
       "num": 329835,
       "word": "李想年薪6.39亿",
@@ -377,6 +417,14 @@
       "onboard_time": 1746570376,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322436,
+      "num": 452784,
+      "word": "童年白月光曹骏回应翻红",
+      "onboard_time": 1746589042,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 322303,
@@ -435,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285503,
+      "num": 285503,
+      "word": "拉椅子",
+      "onboard_time": 1746590364,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284351,
       "num": 284351,
       "word": "出台与房地产发展新模式相适配融资制度",
@@ -491,12 +547,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265331,
+      "num": 376651,
+      "word": "暨南大学将对全红婵采取特别培养模式",
+      "onboard_time": 1746590844,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263580,
       "num": 263580,
       "word": "设立5000亿元服务消费与养老再贷款",
       "onboard_time": 1746582022,
       "rank": 44,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 259907,
+      "num": 259907,
+      "word": "孙颖莎嘉人六月封面",
+      "onboard_time": 1746590663,
+      "rank": 36,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 256193,
+      "num": 256193,
+      "word": "金赛纶遗属再开记者会",
+      "onboard_time": 1746591805,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 254431,
@@ -507,12 +587,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253156,
+      "num": 253156,
+      "word": "中国第八位冲击NBA球员",
+      "onboard_time": 1746591384,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252011,
       "num": 637725,
       "word": "吉祥航空一航班触地立刻复飞",
       "onboard_time": 1746575420,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247791,
+      "num": 247791,
+      "word": "印称已向美英等国通报对巴行动情况",
+      "onboard_time": 1746590063,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247495,
@@ -539,6 +635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 241746,
+      "num": 241746,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1746585741,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236164,
       "num": 236164,
       "word": "晒被子的重要性具象化了",
@@ -547,11 +651,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230227,
-      "num": 230227,
-      "word": "蜜雪冰城",
-      "onboard_time": 1746589702,
-      "rank": 36,
+      "raw_hot": 232375,
+      "num": 232375,
+      "word": "酷儿",
+      "onboard_time": 1746591323,
+      "rank": 42,
       "category": "互联网"
     },
     {
@@ -569,6 +673,14 @@
       "onboard_time": 1746586522,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226916,
+      "num": 358489,
+      "word": "60岁老人喝自制药酒却中情花毒",
+      "onboard_time": 1746589042,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226381,
@@ -603,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212637,
-      "num": 212637,
-      "word": "60岁老人喝自制药酒却中情花毒",
-      "onboard_time": 1746589042,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 213751,
+      "num": 213751,
+      "word": "iPhone涨价会是国产机的机会吗",
+      "onboard_time": 1746592105,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 210524,
@@ -667,12 +779,28 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 202209,
+      "num": 202209,
+      "word": "商业航空公司正避开巴基斯坦领空",
+      "onboard_time": 1746590783,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200921,
       "num": 632562,
       "word": "全员加速中首录路透",
       "onboard_time": 1746587122,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200819,
+      "num": 200819,
+      "word": "白敬亭申请强执春山学博主",
+      "onboard_time": 1746592165,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 199719,
@@ -689,14 +817,6 @@
       "onboard_time": 1746576923,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196556,
-      "num": 196556,
-      "word": "网传台球女助教涉特殊服务",
-      "onboard_time": 1746589702,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 195156,
@@ -771,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183169,
-      "num": 183169,
-      "word": "勇士vs森林狼",
-      "onboard_time": 1746585741,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183116,
       "num": 183116,
       "word": "阿维塔 马斯克",
@@ -811,19 +923,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172721,
-      "num": 427806,
-      "word": "童年白月光曹骏回应翻红",
-      "onboard_time": 1746589042,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168061,
       "num": 168061,
       "word": "印度",
       "onboard_time": 1746574101,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167420,
+      "num": 405236,
+      "word": "莫迪对巴基斯坦放狠话",
+      "onboard_time": 1746591625,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -1051,12 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124838,
-      "num": 236374,
-      "word": "印称已向美英等国通报对巴行动情况",
-      "onboard_time": 1746590063,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 124059,
+      "num": 292746,
+      "word": "严浩翔冰雪王子降临",
+      "onboard_time": 1746590544,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 121727,
@@ -1161,6 +1273,14 @@
       "onboard_time": 1746574641,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94403,
+      "num": 349367,
+      "word": "智能驾驶未识别高架护栏致碰撞爆燃",
+      "onboard_time": 1746590364,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 94299,
@@ -1291,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70978,
+      "num": 362993,
+      "word": "专家称降准降息更利好于首次购房人群",
+      "onboard_time": 1746591924,
+      "rank": 23,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 70474,
       "num": 78877,
       "word": "兰香如故",
@@ -1419,12 +1547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49912,
+      "num": 286895,
+      "word": "印方称巴方开火造成3死7伤",
+      "onboard_time": 1746592105,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48845,
       "num": 48845,
       "word": "明显学术糊弄外行人看了都说离谱",
       "onboard_time": 1746565274,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 46114,
+      "num": 290751,
+      "word": "温州30岁男子独自爬山失联3天",
+      "onboard_time": 1746590723,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45573,
@@ -1441,6 +1585,14 @@
       "onboard_time": 1746586161,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 41732,
+      "num": 1229935,
+      "word": "全球客商用订单书写对中国的信心",
+      "onboard_time": 1746590424,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37235,
@@ -1537,6 +1689,14 @@
       "onboard_time": 1746561854,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11249,
+      "num": 390834,
+      "word": "古偶剧如何创新才能突破同质化困境",
+      "onboard_time": 1746591685,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 11198,

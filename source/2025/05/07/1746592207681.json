@@ -1,0 +1,410 @@
+{
+  "runTime": 1746592207681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8241873,
+        "num": 8241873,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1354551,
+        "num": 1354551,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41732,
+        "num": 1229935,
+        "word": "全球客商用订单书写对中国的信心",
+        "onboard_time": 1746590424,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1218600,
+        "num": 1218600,
+        "word": "60w房贷少还多少钱",
+        "onboard_time": 1746588022,
+        "rank": 3,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1072931,
+        "num": 1072931,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 912109,
+        "num": 912109,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 872407,
+        "num": 872407,
+        "word": "歌手苟伟去世",
+        "onboard_time": 1746575722,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602110,
+        "num": 602110,
+        "word": "蜜雪冰城",
+        "onboard_time": 1746589702,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 587133,
+        "num": 587133,
+        "word": "网传台球女助教涉特殊服务",
+        "onboard_time": 1746589702,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 468347,
+        "num": 468347,
+        "word": "公积金贷款利率降0.25个百分点",
+        "onboard_time": 1746580822,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1993332,
+        "num": 467919,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 915634,
+        "num": 464894,
+        "word": "公司回应林俊杰被曝介入他人感情",
+        "onboard_time": 1746588324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789493,
+        "num": 462060,
+        "word": "祝贺胖都来开业的明星致歉",
+        "onboard_time": 1746590663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331562,
+        "num": 457250,
+        "word": "藏海传",
+        "onboard_time": 1746591445,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 742029,
+        "num": 456040,
+        "word": "众星痛心发文悼念苟伟",
+        "onboard_time": 1746587842,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322436,
+        "num": 452784,
+        "word": "童年白月光曹骏回应翻红",
+        "onboard_time": 1746589042,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449973,
+        "num": 449973,
+        "word": "提词器让马嘉祺宋亚轩挪屁股",
+        "onboard_time": 1746590723,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435269,
+        "num": 435269,
+        "word": "女孩高铁坐过站误入香港变跨境游",
+        "onboard_time": 1746577043,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167420,
+        "num": 405236,
+        "word": "莫迪对巴基斯坦放狠话",
+        "onboard_time": 1746591625,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11249,
+        "num": 390834,
+        "word": "古偶剧如何创新才能突破同质化困境",
+        "onboard_time": 1746591685,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386434,
+        "num": 386434,
+        "word": "巴基斯坦称遭印度导弹袭击",
+        "onboard_time": 1746572900,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377173,
+        "num": 377173,
+        "word": "灵犀相通",
+        "onboard_time": 1746587542,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265331,
+        "num": 376651,
+        "word": "暨南大学将对全红婵采取特别培养模式",
+        "onboard_time": 1746590844,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70978,
+        "num": 362993,
+        "word": "专家称降准降息更利好于首次购房人群",
+        "onboard_time": 1746591924,
+        "rank": 23,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 226916,
+        "num": 358489,
+        "word": "60岁老人喝自制药酒却中情花毒",
+        "onboard_time": 1746589042,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94403,
+        "num": 349367,
+        "word": "智能驾驶未识别高架护栏致碰撞爆燃",
+        "onboard_time": 1746590364,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 345052,
+        "num": 345052,
+        "word": "为胖都来站台的明星诚信已打了折扣",
+        "onboard_time": 1746574339,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 295545,
+        "num": 295545,
+        "word": "孙颖莎 嘉人",
+        "onboard_time": 1746589643,
+        "rank": 27,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 124059,
+        "num": 292746,
+        "word": "严浩翔冰雪王子降临",
+        "onboard_time": 1746590544,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46114,
+        "num": 290751,
+        "word": "温州30岁男子独自爬山失联3天",
+        "onboard_time": 1746590723,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289976,
+        "num": 289976,
+        "word": "库里受伤",
+        "onboard_time": 1746585382,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49912,
+        "num": 286895,
+        "word": "印方称巴方开火造成3死7伤",
+        "onboard_time": 1746592105,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285503,
+        "num": 285503,
+        "word": "拉椅子",
+        "onboard_time": 1746590364,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281606,
+        "num": 281606,
+        "word": "100万房贷月供少还132元",
+        "onboard_time": 1746584843,
+        "rank": 33,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 278420,
+        "num": 278420,
+        "word": "钉钉",
+        "onboard_time": 1746588563,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266158,
+        "num": 266158,
+        "word": "印巴实时画面",
+        "onboard_time": 1746588742,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259907,
+        "num": 259907,
+        "word": "孙颖莎嘉人六月封面",
+        "onboard_time": 1746590663,
+        "rank": 36,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 256193,
+        "num": 256193,
+        "word": "金赛纶遗属再开记者会",
+        "onboard_time": 1746591805,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253156,
+        "num": 253156,
+        "word": "中国第八位冲击NBA球员",
+        "onboard_time": 1746591384,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90198,
+        "num": 249331,
+        "word": "黄子弘凡浪漫起来猝不及防",
+        "onboard_time": 1746587542,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247791,
+        "num": 247791,
+        "word": "印称已向美英等国通报对巴行动情况",
+        "onboard_time": 1746590063,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241746,
+        "num": 241746,
+        "word": "勇士vs森林狼",
+        "onboard_time": 1746585741,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232375,
+        "num": 232375,
+        "word": "酷儿",
+        "onboard_time": 1746591323,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228524,
+        "num": 228524,
+        "word": "茅台 张艺兴",
+        "onboard_time": 1746575120,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224556,
+        "num": 224556,
+        "word": "巴军方公布击落印度军机型号",
+        "onboard_time": 1746584182,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213751,
+        "num": 213751,
+        "word": "iPhone涨价会是国产机的机会吗",
+        "onboard_time": 1746592105,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208181,
+        "num": 208181,
+        "word": "金价突然转跌",
+        "onboard_time": 1746580943,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207860,
+        "num": 207860,
+        "word": "于正撕拉片",
+        "onboard_time": 1746583643,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202209,
+        "num": 202209,
+        "word": "商业航空公司正避开巴基斯坦领空",
+        "onboard_time": 1746590783,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200819,
+        "num": 200819,
+        "word": "白敬亭申请强执春山学博主",
+        "onboard_time": 1746592165,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}
