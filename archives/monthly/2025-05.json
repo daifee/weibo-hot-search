@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746646738062,
+  "endTime": 1746649728261,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -26235,6 +26235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15718,
+      "num": 15718,
+      "word": "外交部紧急提醒在印巴中国公民",
+      "onboard_time": 1746646815,
+      "rank": 32,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 15642,
       "num": 251389,
       "word": "为什么印度和巴基斯坦战争不断",
@@ -26595,6 +26603,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12216,
+      "num": 15018,
+      "word": "俄罗斯阅兵式彩排现场视频",
+      "onboard_time": 1746647653,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12075,
+      "num": 18680,
+      "word": "以史为鉴共创未来",
+      "onboard_time": 1746647474,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12049,
       "num": 289210,
       "word": "WAW一日店长营业中",
@@ -26673,6 +26697,14 @@
       "onboard_time": 1746439282,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11321,
+      "num": 15016,
+      "word": "周深中俄双语献唱归队主题曲",
+      "onboard_time": 1746646215,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11249,
@@ -26857,6 +26889,14 @@
       "onboard_time": 1746166889,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 9176,
+      "num": 15020,
+      "word": "一组图了解俄罗斯之行主要安排",
+      "onboard_time": 1746648973,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9036,

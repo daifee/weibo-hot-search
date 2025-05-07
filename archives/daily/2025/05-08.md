@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/08 00:32:52 ~ 2025/05/08 03:38:58
+本榜单时间：2025/05/08 00:32:52 ~ 2025/05/08 04:28:48
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ AL对战BLG（热度：17764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%8D%B0%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23" target="weibo">
+外交部紧急提醒在印巴中国公民（热度：15718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BB%87%E6%95%8C%23" target="weibo">
 亲爱的仇敌（热度：14657）
 </a>
@@ -417,8 +423,32 @@ AL对战BLG（热度：17764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%E5%BC%8F%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23" target="weibo">
+俄罗斯阅兵式彩排现场视频（热度：12216）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4%E5%85%B1%E5%88%9B%E6%9C%AA%E6%9D%A5%23" target="weibo">
+以史为鉴共创未来（热度：12075）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%AD%E4%BF%84%E5%8F%8C%E8%AF%AD%E7%8C%AE%E5%94%B1%E5%BD%92%E9%98%9F%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
+周深中俄双语献唱归队主题曲（热度：11321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%A5%E4%B9%8B%E5%9D%A0%23" target="weibo">
 新日之坠（热度：11123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%E4%B8%BB%E8%A6%81%E5%AE%89%E6%8E%92%23" target="weibo">
+一组图了解俄罗斯之行主要安排（热度：9176）
 </a>
 </li>
 
