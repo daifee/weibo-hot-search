@@ -1,0 +1,410 @@
+{
+  "runTime": 1746625764704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1998867,
+        "num": 1998867,
+        "word": "清一色",
+        "onboard_time": 1746623423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1022259,
+        "num": 1022259,
+        "word": "张小婉妈妈不让张小婉凶管乐",
+        "onboard_time": 1746623303,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 922426,
+        "word": "外国游客变身中国游中国购最强嘴替",
+        "onboard_time": 1746618262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 879465,
+        "num": 879465,
+        "word": "印巴爆发全面战争的可能性有多大",
+        "onboard_time": 1746623722,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 782073,
+        "num": 782073,
+        "word": "Gemini当爸",
+        "onboard_time": 1746619462,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 389684,
+        "num": 612732,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609408,
+        "num": 609408,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530281,
+        "num": 530281,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62820,
+        "num": 454645,
+        "word": "中国排面永远让人热泪盈眶",
+        "onboard_time": 1746615503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127324,
+        "num": 409785,
+        "word": "印巴缘何冲突再升级",
+        "onboard_time": 1746625103,
+        "rank": 9,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 832925,
+        "num": 400277,
+        "word": "东京街头偶遇鹿晗",
+        "onboard_time": 1746623483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387160,
+        "num": 387160,
+        "word": "我不会跑 我是张纪中",
+        "onboard_time": 1746615382,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366081,
+        "num": 366081,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344426,
+        "num": 344426,
+        "word": "胖东升工作人员称名字是老板随便起",
+        "onboard_time": 1746619342,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 329572,
+        "num": 329572,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287779,
+        "num": 287779,
+        "word": "92岁院士说干的都是世界第一没有第二",
+        "onboard_time": 1746619702,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 269745,
+        "num": 269745,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229481,
+        "num": 254410,
+        "word": "被西装暴徒硬控8分钟",
+        "onboard_time": 1746624804,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246539,
+        "num": 246539,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746618802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231346,
+        "num": 231346,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385471,
+        "num": 225492,
+        "word": "张纪中送娃上学途中发生剐蹭",
+        "onboard_time": 1746614783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255882,
+        "num": 219429,
+        "word": "张康乐马柏全直播",
+        "onboard_time": 1746623783,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207499,
+        "num": 207499,
+        "word": "凤凰台上",
+        "onboard_time": 1746624503,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202034,
+        "num": 202034,
+        "word": "孙珍妮疑回应换角风波",
+        "onboard_time": 1746622282,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235517,
+        "num": 201842,
+        "word": "身体出现这种感觉越强烈越长寿",
+        "onboard_time": 1746623423,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194539,
+        "num": 194539,
+        "word": "欧豪这还咋回硬汉赛道",
+        "onboard_time": 1746625163,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 193212,
+        "word": "舒淇 摇曳生姿的银河玫瑰",
+        "onboard_time": 1746624444,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98773,
+        "num": 192013,
+        "word": "北大实验表明孩子提分秘诀是提问",
+        "onboard_time": 1746621442,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253029,
+        "num": 190034,
+        "word": "女子用超市公筷夹咸菜品尝",
+        "onboard_time": 1746618922,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66546,
+        "num": 189070,
+        "word": "周思成雅思大作文9分范文",
+        "onboard_time": 1746611603,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 213915,
+        "num": 187524,
+        "word": "沙溢有吉克隽逸要的色号",
+        "onboard_time": 1746617301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186905,
+        "num": 186905,
+        "word": "丁禹兮孟子义好像在视频聊天",
+        "onboard_time": 1746624623,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186409,
+        "num": 186409,
+        "word": "CBA",
+        "onboard_time": 1746622942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175921,
+        "num": 175921,
+        "word": "李冰冰于适同框活动路透",
+        "onboard_time": 1746625342,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173187,
+        "num": 173187,
+        "word": "梁田这是什么虎狼之词",
+        "onboard_time": 1746623783,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169873,
+        "num": 169873,
+        "word": "印度第十二旅总部遭巴方摧毁",
+        "onboard_time": 1746617543,
+        "rank": 35,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "职场奶茶文化",
+        "onboard_time": 1746617543,
+        "rank": 36,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 166693,
+        "num": 166693,
+        "word": "第一个兔塑迪丽热巴的简直是天才",
+        "onboard_time": 1746623844,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158514,
+        "num": 158514,
+        "word": "肖战已获61个多领域奖项",
+        "onboard_time": 1746620061,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44196,
+        "num": 143586,
+        "word": "脾虚之人吃点烤馒头片",
+        "onboard_time": 1746623541,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 142741,
+        "num": 142741,
+        "word": "茅台文旅代言人张艺兴",
+        "onboard_time": 1746612802,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141283,
+        "num": 141283,
+        "word": "69岁奶奶一场长达50年的爱情",
+        "onboard_time": 1746625284,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140724,
+        "num": 140724,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136111,
+        "num": 136111,
+        "word": "胖东升被指抄袭胖东来工作人员回应",
+        "onboard_time": 1746622342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133220,
+        "num": 133220,
+        "word": "魏晨吴昕拥抱",
+        "onboard_time": 1746618443,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132537,
+        "num": 132537,
+        "word": "千香",
+        "onboard_time": 1746625641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132023,
+        "num": 132023,
+        "word": "员工未赴指定医院看病遭公司解雇",
+        "onboard_time": 1746622942,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128355,
+        "num": 128355,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123658,
+        "num": 123658,
+        "word": "吉克隽逸发文急寻粉底液救急",
+        "onboard_time": 1746609503,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122848,
+        "num": 122848,
+        "word": "郑州有单位强制在编人员捐款",
+        "onboard_time": 1746615981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首继续引领两国关系登高望远#"
+    }
+  }
+}
