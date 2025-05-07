@@ -1,7 +1,15 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746583047011,
+  "endTime": 1746584415603,
   "band_list": [
+    {
+      "raw_hot": 12488656,
+      "num": 13738487,
+      "word": "央行宣布降准降息",
+      "onboard_time": 1746580521,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 10416594,
       "num": 11054501,
@@ -9,14 +17,6 @@
       "onboard_time": 1746359842,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7028875,
-      "num": 8278875,
-      "word": "央行宣布降准降息",
-      "onboard_time": 1746580521,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 3931337,
@@ -65,6 +65,14 @@
       "onboard_time": 1746448761,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2740400,
+      "num": 2740400,
+      "word": "公积金",
+      "onboard_time": 1746581302,
+      "rank": 1,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 2689057,
@@ -281,14 +289,6 @@
       "onboard_time": 1746493401,
       "rank": 0,
       "category": "网红,综艺"
-    },
-    {
-      "raw_hot": 1701038,
-      "num": 1701038,
-      "word": "公积金",
-      "onboard_time": 1746581302,
-      "rank": 1,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1673506,
@@ -1587,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 778174,
+      "num": 561091,
+      "word": "茅台 张艺兴",
+      "onboard_time": 1746575120,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 775611,
       "num": 775611,
       "word": "Wolves对战ZETA",
@@ -2019,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 669606,
+      "num": 430663,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 667480,
       "num": 924314,
       "word": "西安夜空不明物可能是什么",
@@ -2435,14 +2451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 600239,
-      "num": 430663,
-      "word": "为胖都来站台的明星诚信已打了折扣",
-      "onboard_time": 1746574339,
-      "rank": 32,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 600164,
       "num": 600164,
       "word": "勇士vs火箭",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1746252021,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 561091,
-      "num": 561091,
-      "word": "茅台 张艺兴",
-      "onboard_time": 1746575120,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 559258,
@@ -3459,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460136,
+      "num": 394758,
+      "word": "于正撕拉片",
+      "onboard_time": 1746583643,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459790,
       "num": 459790,
       "word": "第一大波游客已经抵达山西",
@@ -4115,6 +4123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 396151,
+      "num": 376194,
+      "word": "金价突然转跌",
+      "onboard_time": 1746580943,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 395322,
       "num": 376334,
       "word": "赵心童感谢丁俊晖铺路",
@@ -4377,6 +4393,22 @@
       "onboard_time": 1746282085,
       "rank": 49,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 373744,
+      "num": 373744,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1746583102,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 373377,
+      "num": 373377,
+      "word": "手脚现这4种异常可能是血管堵了",
+      "onboard_time": 1746583462,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 373078,
@@ -5731,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284351,
+      "num": 284351,
+      "word": "出台与房地产发展新模式相适配融资制度",
+      "onboard_time": 1746583102,
+      "rank": 30,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 283691,
       "num": 302107,
       "word": "美教授称新冠起源于美国",
@@ -5963,14 +6003,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 269091,
-      "num": 269091,
-      "word": "金价突然转跌",
-      "onboard_time": 1746580943,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 268633,
       "num": 268633,
       "word": "zmjjkk尽力了",
@@ -6059,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265425,
+      "num": 265425,
+      "word": "持续支持两新政策实施",
+      "onboard_time": 1746583525,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265182,
       "num": 265182,
       "word": "叶童三公第一",
@@ -6121,6 +6161,14 @@
       "onboard_time": 1746528382,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 263580,
+      "num": 263580,
+      "word": "设立5000亿元服务消费与养老再贷款",
+      "onboard_time": 1746582022,
+      "rank": 44,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 262782,
@@ -6739,6 +6787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236164,
+      "num": 236164,
+      "word": "晒被子的重要性具象化了",
+      "onboard_time": 1746582202,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234645,
       "num": 234645,
       "word": "终于学会扎丸子头了",
@@ -6913,14 +6969,6 @@
       "onboard_time": 1746432560,
       "rank": 24,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 227258,
-      "num": 227258,
-      "word": "晒被子的重要性具象化了",
-      "onboard_time": 1746582202,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227194,
@@ -7244,7 +7292,7 @@
     },
     {
       "raw_hot": 217540,
-      "num": 217540,
+      "num": 373393,
       "word": "央行降准0.5%降息0.1%",
       "onboard_time": 1746581482,
       "rank": 34,
@@ -7281,6 +7329,14 @@
       "onboard_time": 1746532521,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216404,
+      "num": 216404,
+      "word": "迪丽热巴 我有的是力气和手段",
+      "onboard_time": 1746582922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 216152,
@@ -7459,6 +7515,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 210524,
+      "num": 210524,
+      "word": "增加3000亿元科技创新和技术改造再贷款额度",
+      "onboard_time": 1746582501,
+      "rank": 36,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 210261,
       "num": 367370,
       "word": "白宫送别马斯克",
@@ -7521,6 +7585,14 @@
       "onboard_time": 1746422722,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209055,
+      "num": 387007,
+      "word": "双轨",
+      "onboard_time": 1746578363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209019,
@@ -7841,6 +7913,14 @@
       "onboard_time": 1746539663,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205208,
+      "num": 205208,
+      "word": "房贷利率",
+      "onboard_time": 1746584122,
+      "rank": 41,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 205203,
@@ -8523,14 +8603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196503,
-      "num": 196503,
-      "word": "增加3000亿元科技创新和技术改造再贷款额度",
-      "onboard_time": 1746582501,
-      "rank": 36,
-      "category": "财经,国内时政"
-    },
-    {
       "raw_hot": 196367,
       "num": 196367,
       "word": "林瀚",
@@ -9171,14 +9243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189938,
-      "num": 244849,
-      "word": "双轨",
-      "onboard_time": 1746578363,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189918,
       "num": 189918,
       "word": "韩维辰金宣虎wink",
@@ -9355,6 +9419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188344,
+      "num": 188344,
+      "word": "步行者2比0骑士",
+      "onboard_time": 1746583162,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188343,
       "num": 188343,
       "word": "华晨宇穿这么仙唱这么凶",
@@ -9529,6 +9601,14 @@
       "onboard_time": 1746541043,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186566,
+      "num": 186566,
+      "word": "NBA",
+      "onboard_time": 1746245420,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 186484,
@@ -10177,6 +10257,14 @@
       "onboard_time": 1746106403,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "赵心童王楚钦是好友还都是左手将",
+      "onboard_time": 1746581002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 175757,
@@ -10971,6 +11059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165347,
+      "num": 224022,
+      "word": "印度阵风战斗机残骸视频",
+      "onboard_time": 1746583102,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165309,
       "num": 165309,
       "word": "剑来",
@@ -11715,14 +11811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157287,
-      "num": 157287,
-      "word": "赵心童王楚钦是好友还都是左手将",
-      "onboard_time": 1746581002,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157278,
       "num": 157278,
       "word": "张远一开口青春就回来了",
@@ -11931,14 +12019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155476,
-      "num": 155476,
-      "word": "设立5000亿元服务消费与养老再贷款",
-      "onboard_time": 1746582022,
-      "rank": 44,
-      "category": "财经,国内时政"
-    },
-    {
       "raw_hot": 155436,
       "num": 155436,
       "word": "易烊千玺墨香大片",
@@ -12089,6 +12169,14 @@
       "onboard_time": 1746444323,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153538,
+      "num": 393081,
+      "word": "贷款100万30年期总利息节省近5万",
+      "onboard_time": 1746583822,
+      "rank": 14,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 153513,
@@ -14267,14 +14355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134084,
-      "num": 134084,
-      "word": "迪丽热巴 我有的是力气和手段",
-      "onboard_time": 1746582922,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133946,
       "num": 133946,
       "word": "丁程鑫吟唱感染力",
@@ -15625,14 +15705,6 @@
       "onboard_time": 1746432320,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124081,
-      "num": 124081,
-      "word": "NBA",
-      "onboard_time": 1746245420,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 123967,
@@ -19083,6 +19155,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 82615,
+      "num": 399624,
+      "word": "帮受影响企业应对美加征关税冲击",
+      "onboard_time": 1746583525,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82432,
       "num": 228275,
       "word": "咒术回战在漫展里照进现实",
@@ -19564,7 +19644,7 @@
     },
     {
       "raw_hot": 72480,
-      "num": 1822387,
+      "num": 1862928,
       "word": "九张图带你了解俄罗斯",
       "onboard_time": 1746536363,
       "rank": 2,
@@ -19977,6 +20057,14 @@
       "onboard_time": 1746076521,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64039,
+      "num": 373417,
+      "word": "巴军方公布击落印度军机型号",
+      "onboard_time": 1746584182,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64019,

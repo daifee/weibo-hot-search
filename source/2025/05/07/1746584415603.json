@@ -1,0 +1,410 @@
+{
+  "runTime": 1746584415603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12488656,
+        "num": 13738487,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2740400,
+        "num": 2740400,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 47969,
+        "num": 1862928,
+        "word": "九张图带你了解俄罗斯",
+        "onboard_time": 1746536363,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1197318,
+        "num": 1197318,
+        "word": "公积金贷款利率降0.25个百分点",
+        "onboard_time": 1746580822,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784569,
+        "num": 784569,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 685488,
+        "num": 685488,
+        "word": "歌手苟伟去世",
+        "onboard_time": 1746575722,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653814,
+        "num": 653814,
+        "word": "中方决定同意与美方进行接触",
+        "onboard_time": 1746572958,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 508636,
+        "num": 508636,
+        "word": "斯凯奇宣布退市",
+        "onboard_time": 1746539842,
+        "rank": 7,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 400424,
+        "num": 400424,
+        "word": "印巴冲突",
+        "onboard_time": 1746573258,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82615,
+        "num": 399624,
+        "word": "帮受影响企业应对美加征关税冲击",
+        "onboard_time": 1746583525,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 778174,
+        "num": 398583,
+        "word": "茅台 张艺兴",
+        "onboard_time": 1746575120,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 646404,
+        "num": 397527,
+        "word": "女孩高铁坐过站误入香港变跨境游",
+        "onboard_time": 1746577043,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494623,
+        "num": 396056,
+        "word": "井柏然是刘雯的唯一关注",
+        "onboard_time": 1746578182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460136,
+        "num": 394758,
+        "word": "于正撕拉片",
+        "onboard_time": 1746583643,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153538,
+        "num": 393081,
+        "word": "贷款100万30年期总利息节省近5万",
+        "onboard_time": 1746583822,
+        "rank": 14,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 419998,
+        "num": 392131,
+        "word": "不要在路边摊随便买东西吃了",
+        "onboard_time": 1746576803,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391743,
+        "num": 391743,
+        "word": "悟空小猫",
+        "onboard_time": 1746576323,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 389756,
+        "num": 389756,
+        "word": "巴基斯坦称遭印度导弹袭击",
+        "onboard_time": 1746572900,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209055,
+        "num": 387007,
+        "word": "双轨",
+        "onboard_time": 1746578363,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201616,
+        "num": 385118,
+        "word": "兰香如故官宣",
+        "onboard_time": 1746575300,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669606,
+        "num": 381415,
+        "word": "为胖都来站台的明星诚信已打了折扣",
+        "onboard_time": 1746574339,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 396151,
+        "num": 376194,
+        "word": "金价突然转跌",
+        "onboard_time": 1746580943,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373744,
+        "num": 373744,
+        "word": "哈利伯顿绝杀",
+        "onboard_time": 1746583102,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64039,
+        "num": 373417,
+        "word": "巴军方公布击落印度军机型号",
+        "onboard_time": 1746584182,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 373393,
+        "word": "央行降准0.5%降息0.1%",
+        "onboard_time": 1746581482,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 373377,
+        "num": 373377,
+        "word": "手脚现这4种异常可能是血管堵了",
+        "onboard_time": 1746583462,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358760,
+        "num": 358760,
+        "word": "刘畊宏方已报警",
+        "onboard_time": 1746534561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349022,
+        "num": 349022,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 330278,
+        "num": 330278,
+        "word": "印巴开始交火",
+        "onboard_time": 1746574159,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146471,
+        "num": 291185,
+        "word": "全员加速中",
+        "onboard_time": 1746575601,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284351,
+        "num": 284351,
+        "word": "出台与房地产发展新模式相适配融资制度",
+        "onboard_time": 1746583102,
+        "rank": 30,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 265425,
+        "num": 265425,
+        "word": "持续支持两新政策实施",
+        "onboard_time": 1746583525,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264995,
+        "num": 264995,
+        "word": "一中国游客为捞相机命丧87米海底",
+        "onboard_time": 1746574101,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263580,
+        "num": 263580,
+        "word": "设立5000亿元服务消费与养老再贷款",
+        "onboard_time": 1746582022,
+        "rank": 33,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 248420,
+        "num": 248420,
+        "word": "LPR",
+        "onboard_time": 1746582082,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236164,
+        "num": 236164,
+        "word": "晒被子的重要性具象化了",
+        "onboard_time": 1746582202,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165347,
+        "num": 224022,
+        "word": "印度阵风战斗机残骸视频",
+        "onboard_time": 1746583102,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216404,
+        "num": 216404,
+        "word": "迪丽热巴 我有的是力气和手段",
+        "onboard_time": 1746582922,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 211010,
+        "word": "男子路边抽烟后脑勺被猛禽袭击",
+        "onboard_time": 1746576083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 210596,
+        "word": "张杰被中奖的粉丝整破防了",
+        "onboard_time": 1746541343,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210524,
+        "num": 210524,
+        "word": "增加3000亿元科技创新和技术改造再贷款额度",
+        "onboard_time": 1746582501,
+        "rank": 40,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 205208,
+        "num": 205208,
+        "word": "房贷利率",
+        "onboard_time": 1746584122,
+        "rank": 41,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 188344,
+        "num": 188344,
+        "word": "步行者2比0骑士",
+        "onboard_time": 1746583162,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186811,
+        "num": 186811,
+        "word": "陈都灵呼吁粉丝理性看待番位",
+        "onboard_time": 1746577162,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186566,
+        "num": 186566,
+        "word": "NBA",
+        "onboard_time": 1746583942,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184904,
+        "num": 184904,
+        "word": "店主对抽烟顾客说这次免单以后别来了",
+        "onboard_time": 1746545302,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179666,
+        "num": 179666,
+        "word": "吉祥航空一航班触地立刻复飞",
+        "onboard_time": 1746575420,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175858,
+        "num": 175858,
+        "word": "赵心童王楚钦是好友还都是左手将",
+        "onboard_time": 1746581002,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168096,
+        "num": 168096,
+        "word": "国新办介绍一揽子金融政策",
+        "onboard_time": 1746579923,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168070,
+        "num": 168070,
+        "word": "印度驻美国大使馆发表声明",
+        "onboard_time": 1746575842,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个数字前瞻习主席俄罗斯之行#"
+    }
+  }
+}

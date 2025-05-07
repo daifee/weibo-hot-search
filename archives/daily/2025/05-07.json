@@ -1,14 +1,22 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746583047011,
+  "endTime": 1746584415603,
   "band_list": [
     {
-      "raw_hot": 7028875,
-      "num": 8278875,
+      "raw_hot": 12488656,
+      "num": 13738487,
       "word": "央行宣布降准降息",
       "onboard_time": 1746580521,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2740400,
+      "num": 2740400,
+      "word": "公积金",
+      "onboard_time": 1746581302,
+      "rank": 1,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1752991,
@@ -17,14 +25,6 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 1701038,
-      "num": 1701038,
-      "word": "公积金",
-      "onboard_time": 1746581302,
-      "rank": 1,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1536429,
@@ -91,12 +91,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 778174,
+      "num": 561091,
+      "word": "茅台 张艺兴",
+      "onboard_time": 1746575120,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 710561,
       "num": 631538,
       "word": "井柏然是刘雯的唯一关注",
       "onboard_time": 1746578182,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669606,
+      "num": 430663,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 624250,
@@ -113,22 +129,6 @@
       "onboard_time": 1746572900,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 600239,
-      "num": 430663,
-      "word": "为胖都来站台的明星诚信已打了折扣",
-      "onboard_time": 1746574339,
-      "rank": 32,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 561091,
-      "num": 561091,
-      "word": "茅台 张艺兴",
-      "onboard_time": 1746575120,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 544396,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460136,
+      "num": 394758,
+      "word": "于正撕拉片",
+      "onboard_time": 1746583643,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440646,
       "num": 440646,
       "word": "印巴开始交火",
@@ -185,6 +193,14 @@
       "onboard_time": 1746541884,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396151,
+      "num": 376194,
+      "word": "金价突然转跌",
+      "onboard_time": 1746580943,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 391153,
@@ -217,6 +233,22 @@
       "onboard_time": 1746543864,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 373744,
+      "num": 373744,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1746583102,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 373377,
+      "num": 373377,
+      "word": "手脚现这4种异常可能是血管堵了",
+      "onboard_time": 1746583462,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 365337,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284351,
+      "num": 284351,
+      "word": "出台与房地产发展新模式相适配融资制度",
+      "onboard_time": 1746583102,
+      "rank": 30,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 274937,
       "num": 402251,
       "word": "兰香如故官宣",
@@ -315,20 +355,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 269091,
-      "num": 269091,
-      "word": "金价突然转跌",
-      "onboard_time": 1746580943,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 268006,
       "num": 268006,
       "word": "蛇钞",
       "onboard_time": 1746544702,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265425,
+      "num": 265425,
+      "word": "持续支持两新政策实施",
+      "onboard_time": 1746583525,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 263580,
+      "num": 263580,
+      "word": "设立5000亿元服务消费与养老再贷款",
+      "onboard_time": 1746582022,
+      "rank": 44,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 252011,
@@ -347,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236164,
+      "num": 236164,
+      "word": "晒被子的重要性具象化了",
+      "onboard_time": 1746582202,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227628,
       "num": 227628,
       "word": "宁艺卓ELLE",
       "onboard_time": 1746545182,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 227258,
-      "num": 227258,
-      "word": "晒被子的重要性具象化了",
-      "onboard_time": 1746582202,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226381,
@@ -380,11 +428,35 @@
     },
     {
       "raw_hot": 217540,
-      "num": 217540,
+      "num": 373393,
       "word": "央行降准0.5%降息0.1%",
       "onboard_time": 1746581482,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 216404,
+      "num": 216404,
+      "word": "迪丽热巴 我有的是力气和手段",
+      "onboard_time": 1746582922,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210524,
+      "num": 210524,
+      "word": "增加3000亿元科技创新和技术改造再贷款额度",
+      "onboard_time": 1746582501,
+      "rank": 36,
+      "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 209055,
+      "num": 387007,
+      "word": "双轨",
+      "onboard_time": 1746578363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206747,
@@ -403,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205208,
+      "num": 205208,
+      "word": "房贷利率",
+      "onboard_time": 1746584122,
+      "rank": 41,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 202700,
       "num": 202700,
       "word": "微信支付一直在花我的钱",
@@ -417,14 +497,6 @@
       "onboard_time": 1746576923,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196503,
-      "num": 196503,
-      "word": "增加3000亿元科技创新和技术改造再贷款额度",
-      "onboard_time": 1746582501,
-      "rank": 36,
-      "category": "财经,国内时政"
     },
     {
       "raw_hot": 195156,
@@ -451,12 +523,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189938,
-      "num": 244849,
-      "word": "双轨",
-      "onboard_time": 1746578363,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 188344,
+      "num": 188344,
+      "word": "步行者2比0骑士",
+      "onboard_time": 1746583162,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186566,
+      "num": 186566,
+      "word": "NBA",
+      "onboard_time": 1746583942,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 185182,
@@ -475,11 +555,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "赵心童王楚钦是好友还都是左手将",
+      "onboard_time": 1746581002,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168061,
       "num": 168061,
       "word": "印度",
       "onboard_time": 1746574101,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 165347,
+      "num": 224022,
+      "word": "印度阵风战斗机残骸视频",
+      "onboard_time": 1746583102,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -523,28 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157287,
-      "num": 157287,
-      "word": "赵心童王楚钦是好友还都是左手将",
-      "onboard_time": 1746581002,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155756,
       "num": 155756,
       "word": "三德子赵亮卖土鸡月销售额超千万",
       "onboard_time": 1746580943,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155476,
-      "num": 155476,
-      "word": "设立5000亿元服务消费与养老再贷款",
-      "onboard_time": 1746582022,
-      "rank": 44,
-      "category": "财经,国内时政"
     },
     {
       "raw_hot": 153682,
@@ -555,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153538,
+      "num": 393081,
+      "word": "贷款100万30年期总利息节省近5万",
+      "onboard_time": 1746583822,
+      "rank": 14,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 150419,
       "num": 150419,
       "word": "国米vs巴萨",
@@ -563,8 +651,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144842,
-      "num": 237397,
+      "raw_hot": 146471,
+      "num": 291185,
       "word": "全员加速中",
       "onboard_time": 1746575601,
       "rank": 29,
@@ -601,14 +689,6 @@
       "onboard_time": 1746530662,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134084,
-      "num": 134084,
-      "word": "迪丽热巴 我有的是力气和手段",
-      "onboard_time": 1746582922,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 133774,
@@ -803,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82615,
+      "num": 399624,
+      "word": "帮受影响企业应对美加征关税冲击",
+      "onboard_time": 1746583525,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82038,
       "num": 82038,
       "word": "商务部回应中美经贸高层会谈将举行",
@@ -931,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64039,
+      "num": 373417,
+      "word": "巴军方公布击落印度军机型号",
+      "onboard_time": 1746584182,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62186,
       "num": 62186,
       "word": "黄泽锋58岁妻子怀二胎",
@@ -956,7 +1052,7 @@
     },
     {
       "raw_hot": 60015,
-      "num": 1488253,
+      "num": 1862928,
       "word": "九张图带你了解俄罗斯",
       "onboard_time": 1746536363,
       "rank": 2,
