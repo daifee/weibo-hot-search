@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746631846192,
+  "endTime": 1746632644638,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -1443,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663274,
+      "num": 663274,
+      "word": "小米汽车",
+      "onboard_time": 1746631342,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 662036,
       "num": 326423,
       "word": "曝徐敏在怀孕后新男友跑路",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1746449121,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579292,
+      "num": 579292,
+      "word": "李冰冰于适手挽手",
+      "onboard_time": 1746629423,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 578614,
@@ -2105,14 +2121,6 @@
       "onboard_time": 1746282743,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 510117,
-      "num": 510117,
-      "word": "李冰冰于适手挽手",
-      "onboard_time": 1746629423,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 507983,
@@ -3121,14 +3129,6 @@
       "onboard_time": 1746589643,
       "rank": 18,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 359578,
-      "num": 359578,
-      "word": "小米汽车",
-      "onboard_time": 1746631342,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 359357,
@@ -5019,6 +5019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226470,
+      "num": 201626,
+      "word": "白鹿回老家了",
+      "onboard_time": 1746632302,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226381,
       "num": 226381,
       "word": "男子路边抽烟后脑勺被猛禽袭击",
@@ -5139,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220556,
+      "num": 217854,
+      "word": "坚持跳绳一个月的我belike",
+      "onboard_time": 1746628584,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 219957,
       "num": 219957,
       "word": "陈都灵呼吁粉丝理性看待番位",
@@ -5185,14 +5201,6 @@
       "onboard_time": 1746496221,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217854,
-      "num": 217854,
-      "word": "坚持跳绳一个月的我belike",
-      "onboard_time": 1746628584,
-      "rank": 25,
-      "category": "运动健身"
     },
     {
       "raw_hot": 217819,
@@ -6761,6 +6769,14 @@
       "onboard_time": 1746594263,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185594,
+      "num": 185594,
+      "word": "周柯宇 战至巅峰",
+      "onboard_time": 1746632064,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 185322,
@@ -10659,6 +10675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123496,
+      "num": 123496,
+      "word": "张元英卷发腮红",
+      "onboard_time": 1746631403,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 123248,
       "num": 123248,
       "word": "MetGala 无聊西装",
@@ -11267,14 +11291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111847,
-      "num": 111847,
-      "word": "张元英卷发腮红",
-      "onboard_time": 1746631403,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 111748,
       "num": 111748,
       "word": "张凌赫可不兴这么说自己",
@@ -11796,7 +11812,7 @@
     },
     {
       "raw_hot": 101981,
-      "num": 536092,
+      "num": 592209,
       "word": "中国排面在莫斯科帅成打卡点",
       "onboard_time": 1746627622,
       "rank": 25,
@@ -12499,6 +12515,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 84908,
+      "num": 357928,
+      "word": "美国想把非法移民送往乌克兰",
+      "onboard_time": 1746630683,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84589,
       "num": 211367,
       "word": "胖东来和田玉平均毛利率未超20%",
@@ -12547,6 +12571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83398,
+      "num": 280009,
+      "word": "国泰调查乘务员给3岁小孩提供酒水",
+      "onboard_time": 1746631582,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82981,
       "num": 159864,
       "word": "指甲放大50倍",
@@ -12585,6 +12617,14 @@
       "onboard_time": 1746320481,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82113,
+      "num": 218058,
+      "word": "武大回应副教授被指抄袭学生论文",
+      "onboard_time": 1746631703,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82038,
@@ -13139,14 +13179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62555,
-      "num": 218058,
-      "word": "武大回应副教授被指抄袭学生论文",
-      "onboard_time": 1746631703,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62186,
       "num": 62186,
       "word": "黄泽锋58岁妻子怀二胎",
@@ -13371,20 +13403,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 56119,
+      "num": 212213,
+      "word": "外商已开始到义乌抢圣诞用品了",
+      "onboard_time": 1746632242,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55945,
       "num": 1085002,
       "word": "一图速览一揽子金融增量政策",
       "onboard_time": 1746627504,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 55760,
-      "num": 357928,
-      "word": "美国想把非法移民送往乌克兰",
-      "onboard_time": 1746630683,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55720,
@@ -13409,6 +13441,14 @@
       "onboard_time": 1746537742,
       "rank": 39,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 54744,
+      "num": 217860,
+      "word": "多名学生称为论文降AI掏空钱包",
+      "onboard_time": 1746630862,
+      "rank": 29,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 54661,
@@ -13593,14 +13633,6 @@
       "onboard_time": 1746509123,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47902,
-      "num": 280009,
-      "word": "国泰调查乘务员给3岁小孩提供酒水",
-      "onboard_time": 1746631582,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47532,
@@ -13859,14 +13891,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 40617,
-      "num": 217860,
-      "word": "多名学生称为论文降AI掏空钱包",
-      "onboard_time": 1746630862,
-      "rank": 29,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 40221,
       "num": 278181,
       "word": "WAW漫展现场好多哦豁",
@@ -14009,6 +14033,14 @@
       "onboard_time": 1746560113,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36627,
+      "num": 179841,
+      "word": "央行降低存款准备金率0.5个百分点",
+      "onboard_time": 1746632361,
+      "rank": 27,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 36391,
@@ -14444,7 +14476,7 @@
     },
     {
       "raw_hot": 26253,
-      "num": 157862,
+      "num": 176662,
       "word": "业内称商贷利率有望下调",
       "onboard_time": 1746631825,
       "rank": 35,
@@ -14745,6 +14777,14 @@
       "onboard_time": 1746299716,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 19644,
+      "num": 357670,
+      "word": "摄影玩家称撕拉片早几年送都没人要",
+      "onboard_time": 1746631103,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 19154,
@@ -15273,14 +15313,6 @@
       "onboard_time": 1746315378,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8240,
-      "num": 357670,
-      "word": "摄影玩家称撕拉片早几年送都没人要",
-      "onboard_time": 1746631103,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 7741,
