@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746600573817,
+  "endTime": 1746602726131,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -667,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 933062,
+      "num": 412264,
+      "word": "男子胁迫少女裸聊不肯就报警抓父母",
+      "onboard_time": 1746597562,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 929307,
       "num": 929307,
       "word": "马丽回应与沈腾cp被过分关注",
@@ -937,6 +945,14 @@
       "onboard_time": 1746358402,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 774542,
+      "num": 774542,
+      "word": "茅台回应首位代言人张艺兴",
+      "onboard_time": 1746600022,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 774401,
@@ -1875,6 +1891,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 506255,
+      "num": 214276,
+      "word": "刘令姿主演",
+      "onboard_time": 1746601943,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501470,
       "num": 501470,
       "word": "多家华住会酒店拒绝携导盲犬入住",
@@ -2225,6 +2249,14 @@
       "onboard_time": 1746536904,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437519,
+      "num": 437519,
+      "word": "风月不相关官宣",
+      "onboard_time": 1746599902,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 434277,
@@ -3203,6 +3235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 307471,
+      "num": 307471,
+      "word": "撕拉片凭什么卖300多一张",
+      "onboard_time": 1746600502,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307133,
       "num": 383341,
       "word": "王晶说刘德华太太很辛苦",
@@ -3289,6 +3329,14 @@
       "onboard_time": 1746408379,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300864,
+      "num": 300864,
+      "word": "只有健身的人才懂她的执行力多强",
+      "onboard_time": 1746600682,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 300580,
@@ -3504,14 +3552,6 @@
       "word": "赛博重庆具象化了",
       "onboard_time": 1746512301,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283039,
-      "num": 412264,
-      "word": "男子胁迫少女裸聊不肯就报警抓父母",
-      "onboard_time": 1746597562,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4003,14 +4043,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 250699,
-      "num": 250699,
-      "word": "茅台回应首位代言人张艺兴",
-      "onboard_time": 1746600022,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250525,
       "num": 242696,
       "word": "陈昊宇说人生路上最快的脚步是坚持",
@@ -4299,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230000,
+      "num": 230000,
+      "word": "孙珍妮 耀眼",
+      "onboard_time": 1746599123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229114,
       "num": 229114,
       "word": "是女儿是妈妈2开播",
@@ -4411,22 +4451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225282,
-      "num": 225282,
-      "word": "孙珍妮 耀眼",
-      "onboard_time": 1746599123,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225007,
-      "num": 225007,
-      "word": "风月不相关官宣",
-      "onboard_time": 1746599902,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224453,
       "num": 224453,
       "word": "王一博将出现在CCTV多个平台",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1746333682,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223779,
+      "num": 398206,
+      "word": "莆田8岁男童野山失踪时间线",
+      "onboard_time": 1746599841,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222894,
@@ -4649,6 +4681,14 @@
       "onboard_time": 1746455002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214791,
+      "num": 322238,
+      "word": "白宫又吵起来了",
+      "onboard_time": 1746600982,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214622,
@@ -5209,6 +5249,14 @@
       "onboard_time": 1746590783,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201832,
+      "num": 201832,
+      "word": "风月不相关女主",
+      "onboard_time": 1746601943,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 201764,
@@ -5915,6 +5963,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 184626,
+      "num": 184626,
+      "word": "虞书欣allblack辣妹",
+      "onboard_time": 1746601463,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184447,
       "num": 184447,
       "word": "国羽3比1战胜韩国队",
@@ -6401,6 +6457,14 @@
       "onboard_time": 1746369984,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171588,
+      "num": 314084,
+      "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
+      "onboard_time": 1746597743,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171197,
@@ -7067,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160077,
+      "num": 160077,
+      "word": "眼镜王蛇的蛇生",
+      "onboard_time": 1746602482,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159440,
       "num": 159440,
       "word": "PEL",
@@ -7137,14 +7209,6 @@
       "onboard_time": 1746506184,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158173,
-      "num": 158173,
-      "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
-      "onboard_time": 1746597743,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157887,
@@ -7355,6 +7419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "大侦探",
+      "onboard_time": 1746597623,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153573,
       "num": 434503,
       "word": "陕西出土特殊砖1块重60多斤",
@@ -7497,14 +7569,6 @@
       "onboard_time": 1746520221,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151551,
-      "num": 151551,
-      "word": "大侦探",
-      "onboard_time": 1746597623,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 151421,
@@ -7891,14 +7955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145239,
-      "num": 145239,
-      "word": "撕拉片凭什么卖300多一张",
-      "onboard_time": 1746600502,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145213,
       "num": 145213,
       "word": "梁伟铿回应中国队夺冠",
@@ -7961,6 +8017,14 @@
       "onboard_time": 1746527961,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144020,
+      "num": 144020,
+      "word": "原来抢免单和炒股票原理差不多",
+      "onboard_time": 1746602003,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144007,
@@ -8643,6 +8707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133326,
+      "num": 207802,
+      "word": "偶遇王安宇骑行",
+      "onboard_time": 1746600563,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133217,
       "num": 133217,
       "word": "印巴最新局势",
@@ -8849,6 +8921,14 @@
       "onboard_time": 1746335841,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129693,
+      "num": 129693,
+      "word": "风月不相关只官宣了邓为",
+      "onboard_time": 1746602604,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 129570,
@@ -9403,6 +9483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121959,
+      "num": 121959,
+      "word": "巴基斯坦公布对印回击细节",
+      "onboard_time": 1746602662,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121789,
       "num": 415572,
       "word": "饿了么让五一假期的奶茶店忙疯了",
@@ -9513,6 +9601,14 @@
       "onboard_time": 1746427223,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118785,
+      "num": 130345,
+      "word": "刘学义古装将军造型",
+      "onboard_time": 1746601222,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118573,
@@ -10819,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87659,
+      "num": 259771,
+      "word": "坚持一个月把肝养回来",
+      "onboard_time": 1746601642,
+      "rank": 24,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 87655,
       "num": 87655,
       "word": "希林娜依高用歌声致敬奔跑的青春",
@@ -12091,14 +12195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41250,
-      "num": 398206,
-      "word": "莆田8岁男童野山失踪时间线",
-      "onboard_time": 1746599841,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40694,
       "num": 147358,
       "word": "上帝不如我的兄弟",
@@ -12649,6 +12745,14 @@
       "onboard_time": 1746297736,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24873,
+      "num": 157928,
+      "word": "国考言语最新考点梳理",
+      "onboard_time": 1746601642,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 24769,
