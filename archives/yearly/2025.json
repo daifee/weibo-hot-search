@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746574701964,
+  "endTime": 1746583047011,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -913,6 +913,14 @@
       "onboard_time": 1740401241,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7028875,
+      "num": 8278875,
+      "word": "央行宣布降准降息",
+      "onboard_time": 1746580521,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7020821,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746534561,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3068014,
-      "num": 3068014,
-      "word": "躲春",
-      "onboard_time": 1738489639,
-      "rank": 31,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

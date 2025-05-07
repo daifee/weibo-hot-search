@@ -1,7 +1,15 @@
 {
   "startTime": 1746549044139,
-  "endTime": 1746574701964,
+  "endTime": 1746583047011,
   "band_list": [
+    {
+      "raw_hot": 7028875,
+      "num": 8278875,
+      "word": "央行宣布降准降息",
+      "onboard_time": 1746580521,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1752991,
       "num": 1752991,
@@ -9,6 +17,14 @@
       "onboard_time": 1746539842,
       "rank": 0,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 1701038,
+      "num": 1701038,
+      "word": "公积金",
+      "onboard_time": 1746581302,
+      "rank": 1,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1536429,
@@ -19,11 +35,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1442114,
+      "num": 1442114,
+      "word": "公积金贷款利率降0.25个百分点",
+      "onboard_time": 1746580822,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1096190,
       "num": 1096190,
       "word": "刘畊宏方已报警",
       "onboard_time": 1746534561,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 978209,
+      "num": 634681,
+      "word": "女孩高铁坐过站误入香港变跨境游",
+      "onboard_time": 1746577043,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 934762,
+      "num": 934762,
+      "word": "巴基斯坦击落6架印度战机",
+      "onboard_time": 1746576684,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 870045,
+      "num": 870045,
+      "word": "歌手苟伟去世",
+      "onboard_time": 1746575722,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -35,12 +83,52 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 612579,
-      "num": 612579,
+      "raw_hot": 780209,
+      "num": 780209,
       "word": "印巴冲突",
       "onboard_time": 1746573258,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 710561,
+      "num": 631538,
+      "word": "井柏然是刘雯的唯一关注",
+      "onboard_time": 1746578182,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 624250,
+      "num": 624250,
+      "word": "不要在路边摊随便买东西吃了",
+      "onboard_time": 1746576803,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 621457,
+      "num": 621457,
+      "word": "巴基斯坦称遭印度导弹袭击",
+      "onboard_time": 1746572900,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 600239,
+      "num": 430663,
+      "word": "为胖都来站台的明星诚信已打了折扣",
+      "onboard_time": 1746574339,
+      "rank": 32,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 561091,
+      "num": 561091,
+      "word": "茅台 张艺兴",
+      "onboard_time": 1746575120,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 544396,
@@ -51,12 +139,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 482452,
-      "num": 482452,
-      "word": "巴基斯坦称遭印度导弹袭击",
-      "onboard_time": 1746572900,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 489363,
+      "num": 489363,
+      "word": "悟空小猫",
+      "onboard_time": 1746576323,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 466275,
@@ -75,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440646,
+      "num": 440646,
+      "word": "印巴开始交火",
+      "onboard_time": 1746574159,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 418003,
       "num": 418003,
       "word": "谢娜爱人啊就继续爱下去吧",
@@ -89,6 +185,22 @@
       "onboard_time": 1746541884,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391153,
+      "num": 391153,
+      "word": "国新办新闻发布会",
+      "onboard_time": 1746580521,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 389688,
+      "num": 389688,
+      "word": "淘宝免单",
+      "onboard_time": 1746580521,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 387066,
@@ -131,6 +243,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 340302,
+      "num": 340302,
+      "word": "LPR",
+      "onboard_time": 1746582082,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 329835,
+      "num": 329835,
+      "word": "李想年薪6.39亿",
+      "onboard_time": 1746575361,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 328294,
       "num": 736375,
       "word": "国米4比3巴萨",
@@ -155,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302020,
+      "num": 302020,
+      "word": "国新办介绍一揽子金融政策",
+      "onboard_time": 1746579923,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 292483,
       "num": 292483,
       "word": "一中国游客为捞相机命丧87米海底",
@@ -163,11 +299,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274937,
+      "num": 402251,
+      "word": "兰香如故官宣",
+      "onboard_time": 1746575300,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274150,
+      "num": 274150,
+      "word": "印度驻美国大使馆发表声明",
+      "onboard_time": 1746575842,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 269091,
+      "num": 269091,
+      "word": "金价突然转跌",
+      "onboard_time": 1746580943,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 268006,
       "num": 268006,
       "word": "蛇钞",
       "onboard_time": 1746544702,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252011,
+      "num": 637725,
+      "word": "吉祥航空一航班触地立刻复飞",
+      "onboard_time": 1746575420,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -185,6 +353,38 @@
       "onboard_time": 1746545182,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 227258,
+      "num": 227258,
+      "word": "晒被子的重要性具象化了",
+      "onboard_time": 1746582202,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226381,
+      "num": 226381,
+      "word": "男子路边抽烟后脑勺被猛禽袭击",
+      "onboard_time": 1746576083,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219957,
+      "num": 219957,
+      "word": "陈都灵呼吁粉丝理性看待番位",
+      "onboard_time": 1746577162,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217540,
+      "num": 217540,
+      "word": "央行降准0.5%降息0.1%",
+      "onboard_time": 1746581482,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 206747,
@@ -211,6 +411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196748,
+      "num": 196748,
+      "word": "特朗普与加拿大总理礼貌交火",
+      "onboard_time": 1746576923,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 196503,
+      "num": 196503,
+      "word": "增加3000亿元科技创新和技术改造再贷款额度",
+      "onboard_time": 1746582501,
+      "rank": 36,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 195156,
       "num": 657585,
       "word": "何洁说20年前不懂珍惜",
@@ -219,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193415,
-      "num": 286224,
-      "word": "印巴开始交火",
-      "onboard_time": 1746574159,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 192932,
+      "num": 192932,
+      "word": "smtr25首次机场",
+      "onboard_time": 1746582562,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 189974,
@@ -235,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189938,
+      "num": 244849,
+      "word": "双轨",
+      "onboard_time": 1746578363,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185182,
       "num": 276358,
       "word": "三德子赵亮致歉",
       "onboard_time": 1746533001,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183116,
+      "num": 183116,
+      "word": "阿维塔 马斯克",
+      "onboard_time": 1746581422,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 168061,
@@ -275,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162896,
+      "num": 162896,
+      "word": "降息",
+      "onboard_time": 1746581122,
+      "rank": 41,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 158792,
       "num": 270571,
       "word": "歌手直播",
@@ -283,12 +523,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157053,
-      "num": 157053,
-      "word": "为胖都来站台的明星诚信已打了折扣",
-      "onboard_time": 1746574339,
-      "rank": 32,
-      "category": "艺人,民生新闻"
+      "raw_hot": 157287,
+      "num": 157287,
+      "word": "赵心童王楚钦是好友还都是左手将",
+      "onboard_time": 1746581002,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155756,
+      "num": 155756,
+      "word": "三德子赵亮卖土鸡月销售额超千万",
+      "onboard_time": 1746580943,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155476,
+      "num": 155476,
+      "word": "设立5000亿元服务消费与养老再贷款",
+      "onboard_time": 1746582022,
+      "rank": 44,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 153682,
@@ -305,6 +561,14 @@
       "onboard_time": 1746563294,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144842,
+      "num": 237397,
+      "word": "全员加速中",
+      "onboard_time": 1746575601,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 143492,
@@ -339,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134084,
+      "num": 134084,
+      "word": "迪丽热巴 我有的是力气和手段",
+      "onboard_time": 1746582922,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133774,
       "num": 168768,
       "word": "肖战立下的flag你还记得吗",
@@ -369,6 +641,14 @@
       "onboard_time": 1746573979,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128923,
+      "num": 128923,
+      "word": "5元的蘑菇能服务一个店的顾客",
+      "onboard_time": 1746579983,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127667,
@@ -676,7 +956,7 @@
     },
     {
       "raw_hot": 60015,
-      "num": 931513,
+      "num": 1488253,
       "word": "九张图带你了解俄罗斯",
       "onboard_time": 1746536363,
       "rank": 2,
@@ -689,6 +969,14 @@
       "onboard_time": 1746532581,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50538,
+      "num": 177312,
+      "word": "原神5.5版本",
+      "onboard_time": 1746582082,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 48845,
