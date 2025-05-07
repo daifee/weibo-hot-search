@@ -1,0 +1,410 @@
+{
+  "runTime": 1746600573817,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 771620,
+        "num": 1123459,
+        "word": "60w房贷少还多少钱",
+        "onboard_time": 1746588022,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 765228,
+        "num": 765228,
+        "word": "央行宣布降准降息",
+        "onboard_time": 1746580521,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53804,
+        "num": 674247,
+        "word": "央行3类10项措施",
+        "onboard_time": 1746592645,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658477,
+        "num": 658477,
+        "word": "父亲身亡获56万赔偿孩子找到了",
+        "onboard_time": 1746597022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608979,
+        "num": 608979,
+        "word": "胖都来楼下超市叫叶波大润发",
+        "onboard_time": 1746598463,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483954,
+        "num": 483954,
+        "word": "aespa 不回归",
+        "onboard_time": 1746598163,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468600,
+        "num": 468600,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418782,
+        "num": 418782,
+        "word": "藏海传",
+        "onboard_time": 1746591445,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12091,
+        "num": 418068,
+        "word": "苏联志愿飞行员的中国情缘",
+        "onboard_time": 1746592523,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278154,
+        "num": 412264,
+        "word": "男子胁迫少女裸聊不肯就报警抓父母",
+        "onboard_time": 1746597562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455745,
+        "num": 409227,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1789235,
+        "num": 408175,
+        "word": "陈丽君含泪道歉",
+        "onboard_time": 1746595643,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 965565,
+        "num": 404368,
+        "word": "生理性厌恶",
+        "onboard_time": 1746588983,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 847534,
+        "num": 401913,
+        "word": "关晓彤嘴里咬着戒指",
+        "onboard_time": 1746594324,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41250,
+        "num": 398206,
+        "word": "莆田8岁男童野山失踪时间线",
+        "onboard_time": 1746599841,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830807,
+        "num": 395487,
+        "word": "白敬亭申请强执春山学博主",
+        "onboard_time": 1746592165,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730522,
+        "num": 391111,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550333,
+        "num": 388101,
+        "word": "祝贺胖都来开业的明星致歉",
+        "onboard_time": 1746590663,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544492,
+        "num": 385497,
+        "word": "韩安冉让女儿退网",
+        "onboard_time": 1746596964,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15463,
+        "num": 379421,
+        "word": "自制药酒可能会有哪些潜在危险",
+        "onboard_time": 1746600083,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 379336,
+        "num": 379336,
+        "word": "歌手苟伟去世",
+        "onboard_time": 1746575722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356405,
+        "num": 356405,
+        "word": "网传台球女助教涉特殊服务",
+        "onboard_time": 1746589702,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 313558,
+        "num": 313558,
+        "word": "巴基斯坦称遭印度导弹袭击",
+        "onboard_time": 1746572900,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300954,
+        "num": 300954,
+        "word": "莫迪对巴基斯坦放狠话",
+        "onboard_time": 1746591625,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269580,
+        "num": 269580,
+        "word": "演员朱颜曼滋为小猫悟空发声",
+        "onboard_time": 1746598941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258201,
+        "num": 258201,
+        "word": "公积金",
+        "onboard_time": 1746581302,
+        "rank": 25,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 250699,
+        "num": 250699,
+        "word": "茅台回应首位代言人张艺兴",
+        "onboard_time": 1746600022,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238607,
+        "num": 238607,
+        "word": "公司回应林俊杰被曝介入他人感情",
+        "onboard_time": 1746588324,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 235483,
+        "word": "一看剧就被高圆圆好人脸欺骗",
+        "onboard_time": 1746597503,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39375,
+        "num": 233754,
+        "word": "印巴冲突中的武器装备",
+        "onboard_time": 1746599841,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176468,
+        "num": 230680,
+        "word": "minji现身粉丝生咖",
+        "onboard_time": 1746598101,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299002,
+        "num": 226360,
+        "word": "京东外卖 超时",
+        "onboard_time": 1746593544,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225282,
+        "num": 225282,
+        "word": "孙珍妮 耀眼",
+        "onboard_time": 1746599123,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225007,
+        "num": 225007,
+        "word": "风月不相关官宣",
+        "onboard_time": 1746599902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220647,
+        "num": 220647,
+        "word": "有个拼凑型人格的朋友是种什么体验",
+        "onboard_time": 1746599663,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219964,
+        "num": 219964,
+        "word": "巴称印度袭击已致26死46伤",
+        "onboard_time": 1746596362,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218985,
+        "num": 218985,
+        "word": "张杰悼念苟伟",
+        "onboard_time": 1746593003,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215835,
+        "num": 215835,
+        "word": "美财长被问中美谁主动时紧张到结巴",
+        "onboard_time": 1746599123,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212432,
+        "num": 212432,
+        "word": "公积金贷款利率降0.25个百分点",
+        "onboard_time": 1746580822,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24147,
+        "num": 205483,
+        "word": "美大学校园被黑衣人占领",
+        "onboard_time": 1746599363,
+        "rank": 39,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 201413,
+        "num": 201413,
+        "word": "伊能静第一次看到儿子化妆",
+        "onboard_time": 1746592584,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191941,
+        "num": 191941,
+        "word": "王楚钦除了吃海鲜都是强项",
+        "onboard_time": 1746595221,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174745,
+        "num": 174745,
+        "word": "杨紫侧丸子头造型",
+        "onboard_time": 1746594982,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "赴山海",
+        "onboard_time": 1746600443,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157887,
+        "num": 157887,
+        "word": "多方回应女子推婴儿车被流浪狗咬伤",
+        "onboard_time": 1746598163,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157147,
+        "num": 157147,
+        "word": "灵犀相通 571",
+        "onboard_time": 1746599601,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155748,
+        "num": 155748,
+        "word": "14岁女孩失踪7年被发现抛尸凶犯死刑",
+        "onboard_time": 1746597743,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 151552,
+        "word": "声乐老师透露苟伟死因",
+        "onboard_time": 1746597982,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150490,
+        "num": 150490,
+        "word": "主包一天最多能干几个兼职",
+        "onboard_time": 1746600443,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145239,
+        "num": 145239,
+        "word": "撕拉片凭什么卖300多一张",
+        "onboard_time": 1746600502,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝贺默茨当选德国总理#"
+    }
+  }
+}
