@@ -1,0 +1,410 @@
+{
+  "runTime": 1746627991749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592515,
+        "num": 1592515,
+        "word": "清一色",
+        "onboard_time": 1746623423,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1208626,
+        "num": 1208626,
+        "word": "印巴爆发全面战争的可能性有多大",
+        "onboard_time": 1746623722,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21800,
+        "num": 1085002,
+        "word": "一图速览一揽子金融增量政策",
+        "onboard_time": 1746627504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 978635,
+        "num": 978635,
+        "word": "张小婉妈妈不让张小婉凶管乐",
+        "onboard_time": 1746623303,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652534,
+        "num": 652534,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390125,
+        "num": 515714,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490076,
+        "num": 490076,
+        "word": "Gemini当爸",
+        "onboard_time": 1746619462,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 466670,
+        "num": 466670,
+        "word": "印巴缘何冲突再升级",
+        "onboard_time": 1746625103,
+        "rank": 7,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 105820,
+        "num": 341620,
+        "word": "中国排面永远让人热泪盈眶",
+        "onboard_time": 1746615503,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303198,
+        "num": 303198,
+        "word": "樊振东给孙颖莎签名",
+        "onboard_time": 1746613943,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 984318,
+        "num": 302331,
+        "word": "东京街头偶遇鹿晗",
+        "onboard_time": 1746623483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727912,
+        "num": 301471,
+        "word": "女教师抗癌7年离世成大体老师",
+        "onboard_time": 1746626544,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386392,
+        "num": 299309,
+        "word": "刘嘉玲状态",
+        "onboard_time": 1746626003,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377387,
+        "num": 298763,
+        "word": "Bin哥没骗我们",
+        "onboard_time": 1746626363,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175135,
+        "num": 297485,
+        "word": "直播间卖土鸡结果土是商标名",
+        "onboard_time": 1746627203,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201965,
+        "num": 296033,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198913,
+        "num": 294292,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746618802,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137294,
+        "num": 293100,
+        "word": "被西装暴徒硬控8分钟",
+        "onboard_time": 1746624804,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92454,
+        "num": 291425,
+        "word": "丁真生日直播",
+        "onboard_time": 1746627203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65647,
+        "num": 290414,
+        "word": "福建一5A景区被曝河床变越野赛场",
+        "onboard_time": 1746626724,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290098,
+        "num": 290098,
+        "word": "爱吃菠萝的人天塌了",
+        "onboard_time": 1746586880,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255038,
+        "num": 255038,
+        "word": "身体出现这种感觉越强烈越长寿",
+        "onboard_time": 1746623423,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226699,
+        "num": 226699,
+        "word": "莞莞类卿",
+        "onboard_time": 1746605423,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 211624,
+        "word": "女子用超市公筷夹咸菜品尝",
+        "onboard_time": 1746618922,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179279,
+        "num": 210561,
+        "word": "安陵容 替身",
+        "onboard_time": 1746627504,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14566,
+        "num": 209185,
+        "word": "中国排面在莫斯科帅成打卡点",
+        "onboard_time": 1746627622,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177644,
+        "num": 205689,
+        "word": "梁田这是什么虎狼之词",
+        "onboard_time": 1746623783,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171069,
+        "num": 204579,
+        "word": "我不会跑 我是张纪中",
+        "onboard_time": 1746615382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203090,
+        "num": 203090,
+        "word": "九尾要当干爹",
+        "onboard_time": 1746625824,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116053,
+        "num": 198687,
+        "word": "福建8岁男童失联超72小时",
+        "onboard_time": 1746626902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321096,
+        "num": 197939,
+        "word": "胖东升工作人员称名字是老板随便起",
+        "onboard_time": 1746619342,
+        "rank": 30,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 196567,
+        "num": 196567,
+        "word": "张纪中送娃上学途中发生剐蹭",
+        "onboard_time": 1746614783,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189091,
+        "num": 189091,
+        "word": "粉丝给张凌赫P的左右脸",
+        "onboard_time": 1746627622,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180735,
+        "num": 180735,
+        "word": "杨鸣太有梗了",
+        "onboard_time": 1746627384,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172049,
+        "num": 172049,
+        "word": "郭晶晶曾说控制体重比训练还苦",
+        "onboard_time": 1746627323,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169754,
+        "num": 169754,
+        "word": "92岁院士说干的都是世界第一没有第二",
+        "onboard_time": 1746619702,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 87150,
+        "num": 169744,
+        "word": "向鱼白色衬衣好夏天",
+        "onboard_time": 1746627924,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82541,
+        "num": 169734,
+        "word": "真正的价值不在登顶的瞬间",
+        "onboard_time": 1746626544,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151599,
+        "num": 169710,
+        "word": "上海文旅回应时代少年团上海开唱",
+        "onboard_time": 1746626663,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33633,
+        "num": 169709,
+        "word": "海军究竟有多烧钱",
+        "onboard_time": 1746626003,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 169694,
+        "num": 169694,
+        "word": "沙溢有吉克隽逸要的色号",
+        "onboard_time": 1746617301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169023,
+        "num": 169023,
+        "word": "胖东升被指抄袭胖东来工作人员回应",
+        "onboard_time": 1746622342,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166342,
+        "num": 166342,
+        "word": "以色列支持印度自卫权",
+        "onboard_time": 1746626424,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152432,
+        "num": 152432,
+        "word": "外国游客变身中国游中国购最强嘴替",
+        "onboard_time": 1746618262,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151634,
+        "num": 151634,
+        "word": "巴基斯坦击落6架印度战机",
+        "onboard_time": 1746576684,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147417,
+        "num": 151204,
+        "word": "张康乐马柏全直播",
+        "onboard_time": 1746623783,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95814,
+        "num": 150926,
+        "word": "巴军方称印空袭已致至少8死35伤",
+        "onboard_time": 1746626424,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150817,
+        "num": 150817,
+        "word": "第一个兔塑迪丽热巴的简直是天才",
+        "onboard_time": 1746623844,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148826,
+        "num": 148826,
+        "word": "孙珍妮疑回应换角风波",
+        "onboard_time": 1746622282,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143657,
+        "num": 143657,
+        "word": "酸涩文TOP名场面",
+        "onboard_time": 1746626843,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席俄罗斯之行#"
+    }
+  }
+}
