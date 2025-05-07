@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746645716437,
+  "endTime": 1746646738062,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -515,7 +515,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13346,
+      "raw_hot": 14657,
+      "num": 16805,
+      "word": "亲爱的仇敌",
+      "onboard_time": 1746640276,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14086,
       "num": 17611,
       "word": "环球时报记者莫斯科实拍",
       "onboard_time": 1746631761,
