@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746638593131,
+  "endTime": 1746639700152,
   "band_list": [
     {
       "raw_hot": 816196,
@@ -403,8 +403,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44080,
-      "num": 44080,
+      "raw_hot": 51392,
+      "num": 51392,
+      "word": "166斤女孩52秒变装美翻天",
+      "onboard_time": 1746638296,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 44621,
+      "num": 47434,
       "word": "丁禹兮演技",
       "onboard_time": 1746618802,
       "rank": 35,
@@ -420,18 +428,34 @@
     },
     {
       "raw_hot": 35828,
-      "num": 35828,
+      "num": 47177,
       "word": "Bin哥没骗我们",
       "onboard_time": 1746626363,
       "rank": 44,
       "category": "电竞"
     },
     {
-      "raw_hot": 34350,
-      "num": 34350,
-      "word": "166斤女孩52秒变装美翻天",
-      "onboard_time": 1746638296,
-      "rank": 48,
+      "raw_hot": 31388,
+      "num": 47233,
+      "word": "水舞间",
+      "onboard_time": 1746639436,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27932,
+      "num": 47172,
+      "word": "我的动植物朋友们",
+      "onboard_time": 1746639376,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 26472,
+      "num": 47147,
+      "word": "一组治愈系漫画教你疼爱自己",
+      "onboard_time": 1746639618,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -457,6 +481,9 @@
     },
     {
       "word": "#习主席俄罗斯之行#"
+    },
+    {
+      "word": "#习近平离京赴莫斯科#"
     }
   ]
 }

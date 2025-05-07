@@ -1,0 +1,410 @@
+{
+  "runTime": 1746639700152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 554186,
+        "num": 554186,
+        "word": "学生班级搞孤立老师坚定停课惩治",
+        "onboard_time": 1746633862,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 198637,
+        "num": 198637,
+        "word": "小米汽车",
+        "onboard_time": 1746631342,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17963,
+        "num": 182790,
+        "word": "一图速览一揽子金融增量政策",
+        "onboard_time": 1746627504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181702,
+        "num": 181702,
+        "word": "安陵容 替身",
+        "onboard_time": 1746627504,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140857,
+        "num": 140857,
+        "word": "李冰冰于适手挽手",
+        "onboard_time": 1746629423,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22789,
+        "num": 127049,
+        "word": "中国排面在莫斯科帅成打卡点",
+        "onboard_time": 1746627622,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173809,
+        "num": 126241,
+        "word": "巴总理拍桌称有实力还有核武器",
+        "onboard_time": 1746633021,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "张柏芝顶级骨相就是这样的",
+        "onboard_time": 1746630324,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108652,
+        "num": 108652,
+        "word": "直播间卖土鸡结果土是商标名",
+        "onboard_time": 1746627203,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 104047,
+        "num": 104047,
+        "word": "被刘嘉玲认证超级帅哥的含金量",
+        "onboard_time": 1746629784,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212319,
+        "num": 100707,
+        "word": "白鹿回老家了",
+        "onboard_time": 1746632302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94781,
+        "num": 94781,
+        "word": "王昶24岁生日照",
+        "onboard_time": 1746633862,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89630,
+        "num": 89630,
+        "word": "孟子义丁禹兮吻戏",
+        "onboard_time": 1746614122,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88029,
+        "num": 88029,
+        "word": "周柯宇 战至巅峰",
+        "onboard_time": 1746632064,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84332,
+        "num": 84332,
+        "word": "芬兰空军一架大黄蜂战机坠毁",
+        "onboard_time": 1746633501,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80846,
+        "num": 80846,
+        "word": "东京街头偶遇鹿晗",
+        "onboard_time": 1746623483,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79914,
+        "num": 79914,
+        "word": "清一色",
+        "onboard_time": 1746623423,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68394,
+        "num": 68394,
+        "word": "长光卫星回应悟空小猫最后影像",
+        "onboard_time": 1746633261,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67293,
+        "num": 67293,
+        "word": "全款140万捡漏230平房子",
+        "onboard_time": 1746630324,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60669,
+        "num": 60669,
+        "word": "外商已开始到义乌抢圣诞用品了",
+        "onboard_time": 1746632242,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68561,
+        "num": 59004,
+        "word": "王鹤棣李昀锐直播状态",
+        "onboard_time": 1746633141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66488,
+        "num": 57774,
+        "word": "南大教授再回应陈丽君口误",
+        "onboard_time": 1746632722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56275,
+        "num": 56275,
+        "word": "印度第十二旅总部遭巴方摧毁",
+        "onboard_time": 1746617543,
+        "rank": 22,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 56096,
+        "num": 56096,
+        "word": "全KPL在恭喜Gemini",
+        "onboard_time": 1746631403,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53780,
+        "num": 53780,
+        "word": "昀牵孟绕",
+        "onboard_time": 1746630324,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51848,
+        "num": 51848,
+        "word": "Gemini当爸",
+        "onboard_time": 1746619462,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51392,
+        "num": 51392,
+        "word": "166斤女孩52秒变装美翻天",
+        "onboard_time": 1746638296,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47437,
+        "num": 47437,
+        "word": "丁真说演十八铜人把自己害惨了",
+        "onboard_time": 1746632902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44621,
+        "num": 47434,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746618802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37304,
+        "num": 47416,
+        "word": "女子用公筷试吃超市咸菜后插回",
+        "onboard_time": 1746616521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48324,
+        "num": 47409,
+        "word": "Xun评论ON",
+        "onboard_time": 1746633981,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40369,
+        "num": 47386,
+        "word": "巴军方获授权自主决定对印反击措施",
+        "onboard_time": 1746628223,
+        "rank": 31,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 47374,
+        "word": "芭莎滕王阁晚宴",
+        "onboard_time": 1746637458,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 47364,
+        "word": "第一个兔塑迪丽热巴的简直是天才",
+        "onboard_time": 1746623844,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34381,
+        "num": 47348,
+        "word": "福建8岁男童失联超72小时",
+        "onboard_time": 1746626902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34049,
+        "num": 47327,
+        "word": "坚持跳绳一个月的我belike",
+        "onboard_time": 1746628584,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 33825,
+        "num": 47323,
+        "word": "张小婉妈妈不让张小婉凶管乐",
+        "onboard_time": 1746623303,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33495,
+        "num": 47306,
+        "word": "身体出现这种感觉越强烈越长寿",
+        "onboard_time": 1746623423,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32993,
+        "num": 47291,
+        "word": "张元英卷发腮红",
+        "onboard_time": 1746631403,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32662,
+        "num": 47272,
+        "word": "胡杏儿给你亿点来自港姐的震撼",
+        "onboard_time": 1746630324,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32202,
+        "num": 47262,
+        "word": "淮水竹亭 水仙",
+        "onboard_time": 1746616343,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31518,
+        "num": 47251,
+        "word": "别不开心了这个月还有小长假",
+        "onboard_time": 1746630263,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31388,
+        "num": 47233,
+        "word": "水舞间",
+        "onboard_time": 1746639436,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30614,
+        "num": 47217,
+        "word": "国泰调查乘务员给3岁小孩提供酒水",
+        "onboard_time": 1746631582,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 47211,
+        "word": "贾一凡苏杯vlog",
+        "onboard_time": 1746629603,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29092,
+        "num": 47200,
+        "word": "中美经贸高层会谈是应美方请求举行的",
+        "onboard_time": 1746629364,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28937,
+        "num": 47177,
+        "word": "Bin哥没骗我们",
+        "onboard_time": 1746626363,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27932,
+        "num": 47172,
+        "word": "我的动植物朋友们",
+        "onboard_time": 1746639376,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26500,
+        "num": 47161,
+        "word": "郭晶晶曾说控制体重比训练还苦",
+        "onboard_time": 1746627323,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26472,
+        "num": 47147,
+        "word": "一组治愈系漫画教你疼爱自己",
+        "onboard_time": 1746639618,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平离京赴莫斯科#"
+    }
+  }
+}

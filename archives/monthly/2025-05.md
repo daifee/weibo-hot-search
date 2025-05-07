@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/08 01:23:13
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/08 01:41:40
 </p>
 </blockquote>
 <p>
@@ -6203,6 +6203,12 @@ kpop（热度：233497）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E4%B8%BB%E5%B8%AD%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%8B%E8%A1%8C%23%23" target="weibo">
 #习主席俄罗斯之行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A6%BB%E4%BA%AC%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%23%23" target="weibo">
+#习近平离京赴莫斯科#
 </a>
 </li>
 
