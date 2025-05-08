@@ -1,0 +1,410 @@
+{
+  "runTime": 1746747563775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497164,
+        "num": 904615,
+        "word": "巴基斯坦空军为何如此强悍",
+        "onboard_time": 1746718283,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409142,
+        "num": 409142,
+        "word": "比尔盖茨宣布将捐出几乎全部财富",
+        "onboard_time": 1746712284,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49299,
+        "num": 342209,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1005369,
+        "num": 342101,
+        "word": "新教皇",
+        "onboard_time": 1746725176,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321444,
+        "num": 321444,
+        "word": "商务部回应美取消对华小额免税政策",
+        "onboard_time": 1746723318,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239455,
+        "num": 239455,
+        "word": "胖东来和田玉标注进货价和毛利",
+        "onboard_time": 1746718942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244925,
+        "num": 239172,
+        "word": "水饺皇后为什么可惜了",
+        "onboard_time": 1746705801,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145047,
+        "num": 237546,
+        "word": "王楚钦在路边摸蛇",
+        "onboard_time": 1746708023,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61712,
+        "num": 236827,
+        "word": "美国西雅图港没船了",
+        "onboard_time": 1746746298,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 234920,
+        "word": "特朗普称美将从乌获得大量稀土",
+        "onboard_time": 1746746298,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 794117,
+        "num": 234136,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247142,
+        "num": 232154,
+        "word": "汤唯撕拉片",
+        "onboard_time": 1746745579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591910,
+        "num": 231319,
+        "word": "金巧巧回应说不适合演农村人",
+        "onboard_time": 1746745699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544122,
+        "num": 230097,
+        "word": "重庆大学已成立专项工作组",
+        "onboard_time": 1746712403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47339,
+        "num": 228837,
+        "word": "乌克兰已准备好停火30天",
+        "onboard_time": 1746746298,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228476,
+        "num": 228476,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44832,
+        "num": 228372,
+        "word": "印巴冲突升级后莫迪发声",
+        "onboard_time": 1746746418,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128457,
+        "num": 228281,
+        "word": "国防部正告菲方停止冲撞中方核心利益",
+        "onboard_time": 1746726676,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100319,
+        "num": 228072,
+        "word": "曼联4比1毕尔巴鄂竞技",
+        "onboard_time": 1746746600,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 227899,
+        "word": "首位来自美国的教皇诞生",
+        "onboard_time": 1746747020,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417343,
+        "num": 227835,
+        "word": "小英考虑让女儿出国留学",
+        "onboard_time": 1746715644,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402586,
+        "num": 227726,
+        "word": "窦靖童 我承认我从小条件就好",
+        "onboard_time": 1746715763,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350709,
+        "num": 227573,
+        "word": "3岁女童脱发眼神呆滞被查出铊中毒",
+        "onboard_time": 1746745579,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309591,
+        "num": 227345,
+        "word": "金价突然跳水",
+        "onboard_time": 1746706822,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238184,
+        "num": 227189,
+        "word": "印度开闸放水",
+        "onboard_time": 1746708802,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140926,
+        "num": 227052,
+        "word": "伪装者十年后正午阳光再拍谍战剧",
+        "onboard_time": 1746707843,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90214,
+        "num": 226872,
+        "word": "任嘉伦虐剧纯元回来了",
+        "onboard_time": 1746711503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89827,
+        "num": 226762,
+        "word": "迪丽热巴到达江西",
+        "onboard_time": 1746746839,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 85749,
+        "num": 226600,
+        "word": "油价猛涨超3%",
+        "onboard_time": 1746746418,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20189,
+        "num": 226484,
+        "word": "印称遭巴导弹和无人机袭击巴方否认",
+        "onboard_time": 1746746839,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266362,
+        "num": 226378,
+        "word": "首批加征145%关税货物轮船抵美",
+        "onboard_time": 1746705382,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226245,
+        "num": 226245,
+        "word": "儿子高烧不退查出白血病妈妈一夜白头",
+        "onboard_time": 1746706462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223044,
+        "num": 223044,
+        "word": "长期凌晨睡觉对身体的5个影响",
+        "onboard_time": 1746746481,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206195,
+        "num": 206195,
+        "word": "生理性喜欢的最真实表现",
+        "onboard_time": 1746712704,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152754,
+        "num": 152754,
+        "word": "舒淇说和冯德伦天天都是情人节",
+        "onboard_time": 1746717264,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135738,
+        "num": 135738,
+        "word": "马来西亚买龙虾砍一下午价失败了",
+        "onboard_time": 1746744377,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "本科生14篇SCI论文疑与其父相关",
+        "onboard_time": 1746715044,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98012,
+        "num": 98012,
+        "word": "印巴爆发冲突后莫迪首次公开发声",
+        "onboard_time": 1746746959,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93973,
+        "num": 93973,
+        "word": "气血不足的人外表有4个特点",
+        "onboard_time": 1746707243,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76913,
+        "num": 91517,
+        "word": "中俄签署联合声明",
+        "onboard_time": 1746705681,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90903,
+        "num": 90903,
+        "word": "赵丽颖模仿向佐",
+        "onboard_time": 1746714324,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87663,
+        "num": 87663,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71610,
+        "num": 71610,
+        "word": "日本人饭量具象化",
+        "onboard_time": 1746746481,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67430,
+        "num": 67430,
+        "word": "原以为是我嫩结果是毫无训练痕迹",
+        "onboard_time": 1746720201,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64415,
+        "num": 64415,
+        "word": "教授回应被博士生举报学术霸凌",
+        "onboard_time": 1746732374,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62784,
+        "num": 62784,
+        "word": "国际金价继续走低",
+        "onboard_time": 1746746719,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62558,
+        "num": 62558,
+        "word": "美国保税仓库火了",
+        "onboard_time": 1746747380,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60565,
+        "num": 60565,
+        "word": "曝特朗普将宣布与英国的贸易协议",
+        "onboard_time": 1746735854,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58878,
+        "num": 58878,
+        "word": "管乐一句话打了八百辆车",
+        "onboard_time": 1746747380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55919,
+        "num": 55919,
+        "word": "曼联vs毕尔巴鄂竞技",
+        "onboard_time": 1746745519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}
