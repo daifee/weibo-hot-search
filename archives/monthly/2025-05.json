@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746718986947,
+  "endTime": 1746721956680,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -713,6 +713,14 @@
       "onboard_time": 1746068300,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1348624,
+      "num": 144600,
+      "word": "19岁的黄多多",
+      "onboard_time": 1746719002,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1339493,
@@ -4643,6 +4651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454626,
+      "num": 454626,
+      "word": "英美就关税贸易协议条款达成一致",
+      "onboard_time": 1746717145,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454471,
       "num": 454471,
       "word": "全季 导盲犬",
@@ -6331,14 +6347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 338104,
-      "num": 338104,
-      "word": "英美就关税贸易协议条款达成一致",
-      "onboard_time": 1746717145,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 338014,
       "num": 338014,
       "word": "73岁普京每天健身1.5小时",
@@ -7593,6 +7601,14 @@
       "onboard_time": 1746163650,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282279,
+      "num": 282279,
+      "word": "巴基斯坦空军为何如此强悍",
+      "onboard_time": 1746718283,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281965,
@@ -12793,6 +12809,14 @@
       "onboard_time": 1746718161,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187896,
+      "num": 137488,
+      "word": "陈奕恒分享香水配方",
+      "onboard_time": 1746718103,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 187859,
@@ -19763,6 +19787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129799,
+      "num": 129799,
+      "word": "京城大师赛",
+      "onboard_time": 1746719781,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "医生谈网上配镜存在多重隐患",
@@ -20665,14 +20697,6 @@
       "onboard_time": 1746338601,
       "rank": 41,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 124413,
-      "num": 124413,
-      "word": "陈奕恒分享香水配方",
-      "onboard_time": 1746718103,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 124395,
@@ -24195,6 +24219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89976,
+      "num": 89976,
+      "word": "窦靖童指王菲是她的偶像和闺蜜",
+      "onboard_time": 1746721640,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89879,
       "num": 206524,
       "word": "研究称常去音乐节能延寿",
@@ -24284,7 +24316,7 @@
     },
     {
       "raw_hot": 88234,
-      "num": 106872,
+      "num": 130188,
       "word": "胖东来和田玉标注进货价和毛利",
       "onboard_time": 1746718942,
       "rank": 49,
@@ -24841,6 +24873,14 @@
       "onboard_time": 1746351142,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81728,
+      "num": 81728,
+      "word": "原以为是我嫩结果是毫无训练痕迹",
+      "onboard_time": 1746720201,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 81587,
@@ -26137,14 +26177,6 @@
       "onboard_time": 1746227418,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61849,
-      "num": 257893,
-      "word": "巴基斯坦空军为何如此强悍",
-      "onboard_time": 1746718283,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61659,
@@ -28089,6 +28121,14 @@
       "onboard_time": 1746334880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35122,
+      "num": 97199,
+      "word": "野兽先生视频爆火的背后",
+      "onboard_time": 1746720201,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 34888,
@@ -30177,6 +30217,14 @@
       "onboard_time": 1746467176,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15029,
+      "num": 96760,
+      "word": "另一方婚外情该如何保护自己权益",
+      "onboard_time": 1746720201,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14934,
