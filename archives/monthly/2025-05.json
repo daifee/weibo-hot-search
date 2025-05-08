@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746724932471,
+  "endTime": 1746726023063,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1746449241,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 685268,
+      "num": 685268,
+      "word": "新教皇",
+      "onboard_time": 1746725176,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 683337,
@@ -7001,6 +7009,14 @@
       "onboard_time": 1746543743,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304895,
+      "num": 74749,
+      "word": "女子脸上长火疖子排脓后留下黑洞",
+      "onboard_time": 1746725176,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304780,
@@ -20859,6 +20875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123298,
+      "num": 123298,
+      "word": "商务部回应美取消对华小额免税政策",
+      "onboard_time": 1746723318,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123248,
       "num": 123248,
       "word": "MetGala 无聊西装",
@@ -22633,14 +22657,6 @@
       "onboard_time": 1746622884,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107932,
-      "num": 107932,
-      "word": "商务部回应美取消对华小额免税政策",
-      "onboard_time": 1746723318,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107895,
@@ -28731,6 +28747,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 29227,
+      "num": 32885,
+      "word": "优酷纪录片2025片单",
+      "onboard_time": 1746725955,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29210,
       "num": 116927,
       "word": "黑猫警长咪咪亮相微博漫展",
@@ -29625,6 +29649,14 @@
       "onboard_time": 1746530302,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20466,
+      "num": 75236,
+      "word": "俄方坚定奉行一个中国原则",
+      "onboard_time": 1746725476,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20437,
