@@ -1,0 +1,410 @@
+{
+  "runTime": 1746736938020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 62657,
+        "num": 67986,
+        "word": "比尔盖茨宣布将捐出几乎全部财富",
+        "onboard_time": 1746712284,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174466,
+        "num": 67262,
+        "word": "新教皇",
+        "onboard_time": 1746725176,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15135,
+        "num": 57532,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51403,
+        "num": 51403,
+        "word": "巴基斯坦空军为何如此强悍",
+        "onboard_time": 1746718283,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36270,
+        "num": 36270,
+        "word": "商务部回应美取消对华小额免税政策",
+        "onboard_time": 1746723318,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33160,
+        "num": 35846,
+        "word": "胖东来和田玉标注进货价和毛利",
+        "onboard_time": 1746718942,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35620,
+        "num": 35620,
+        "word": "印度开闸放水",
+        "onboard_time": 1746708802,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31206,
+        "num": 31206,
+        "word": "水饺皇后为什么可惜了",
+        "onboard_time": 1746705801,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26621,
+        "num": 26621,
+        "word": "中俄签署联合声明",
+        "onboard_time": 1746705681,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22413,
+        "num": 22413,
+        "word": "终于有剧拍出怎么回60秒长语音了",
+        "onboard_time": 1746727155,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137012,
+        "num": 22284,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72713,
+        "num": 22089,
+        "word": "女子脸上长火疖子排脓后留下黑洞",
+        "onboard_time": 1746725176,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57955,
+        "num": 21935,
+        "word": "重庆大学已成立专项工作组",
+        "onboard_time": 1746712403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57029,
+        "num": 21661,
+        "word": "窦靖童 我承认我从小条件就好",
+        "onboard_time": 1746715763,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47354,
+        "num": 21528,
+        "word": "小英考虑让女儿出国留学",
+        "onboard_time": 1746715644,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29525,
+        "num": 21350,
+        "word": "首批加征145%关税货物轮船抵美",
+        "onboard_time": 1746705382,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28509,
+        "num": 21018,
+        "word": "儿子高烧不退查出白血病妈妈一夜白头",
+        "onboard_time": 1746706462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 20990,
+        "word": "富士回应一张撕拉片被炒至300多元",
+        "onboard_time": 1746708923,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19292,
+        "num": 20978,
+        "word": "国防部正告菲方停止冲撞中方核心利益",
+        "onboard_time": 1746726676,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17047,
+        "num": 20856,
+        "word": "伪装者十年后正午阳光再拍谍战剧",
+        "onboard_time": 1746707843,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37463,
+        "num": 20714,
+        "word": "金价突然跳水",
+        "onboard_time": 1746706822,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27494,
+        "num": 20531,
+        "word": "生理性喜欢的最真实表现",
+        "onboard_time": 1746712704,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20529,
+        "num": 20529,
+        "word": "本科生14篇SCI论文疑与其父相关",
+        "onboard_time": 1746715044,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19541,
+        "num": 19541,
+        "word": "舒淇说和冯德伦天天都是情人节",
+        "onboard_time": 1746717264,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18988,
+        "num": 18988,
+        "word": "教授回应被博士生举报学术霸凌",
+        "onboard_time": 1746732374,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18136,
+        "num": 18136,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15300,
+        "num": 17730,
+        "word": "新时代中俄关系更加稳定坚韧",
+        "onboard_time": 1746720501,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14568,
+        "num": 17687,
+        "word": "电影狂野时代入围戛纳主竞赛",
+        "onboard_time": 1746713962,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12427,
+        "num": 17680,
+        "word": "外交部回应菲美澳南海联合巡航炒作",
+        "onboard_time": 1746734534,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17678,
+        "num": 17678,
+        "word": "赵丽颖模仿向佐",
+        "onboard_time": 1746714324,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17219,
+        "num": 17219,
+        "word": "原以为是我嫩结果是毫无训练痕迹",
+        "onboard_time": 1746720201,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16060,
+        "num": 16060,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 31,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 15269,
+        "num": 15269,
+        "word": "特朗普称美乌达成稀土协议",
+        "onboard_time": 1746718103,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 15220,
+        "word": "王楚钦在路边摸蛇",
+        "onboard_time": 1746708023,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15181,
+        "num": 15181,
+        "word": "淘宝免单 狼人杀",
+        "onboard_time": 1746710782,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12374,
+        "num": 14879,
+        "word": "易烊千玺舒淇领衔主演",
+        "onboard_time": 1746716964,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14845,
+        "num": 14845,
+        "word": "美考虑豁免婴幼儿用品关税",
+        "onboard_time": 1746731534,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14413,
+        "num": 14413,
+        "word": "京城大师赛",
+        "onboard_time": 1746719781,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14062,
+        "num": 14062,
+        "word": "星露谷物语",
+        "onboard_time": 1746722118,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14035,
+        "num": 14035,
+        "word": "大冰 综艺",
+        "onboard_time": 1746711983,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12521,
+        "num": 14013,
+        "word": "曝特朗普将宣布与英国的贸易协议",
+        "onboard_time": 1746735854,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14012,
+        "num": 14012,
+        "word": "盖茨基金会计划2045年底永久关闭",
+        "onboard_time": 1746714864,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 13959,
+        "num": 13959,
+        "word": "窦靖童指王菲是她的偶像和闺蜜",
+        "onboard_time": 1746721640,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13846,
+        "num": 13846,
+        "word": "气血不足的人外表有4个特点",
+        "onboard_time": 1746707243,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12504,
+        "num": 13845,
+        "word": "迪丽热巴快急哭了",
+        "onboard_time": 1746707302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12345,
+        "num": 13845,
+        "word": "西安冰雹",
+        "onboard_time": 1746705382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12109,
+        "num": 13845,
+        "word": "中俄元首共见记者",
+        "onboard_time": 1746727875,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12055,
+        "num": 13845,
+        "word": "美方改变不了跨境电商快速发展势头",
+        "onboard_time": 1746729435,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11853,
+        "num": 13844,
+        "word": "中俄要继续坚定站在一起",
+        "onboard_time": 1746733454,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11203,
+        "num": 13844,
+        "word": "任嘉伦虐剧纯元回来了",
+        "onboard_time": 1746711503,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}
