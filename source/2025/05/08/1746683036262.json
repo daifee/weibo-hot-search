@@ -1,0 +1,410 @@
+{
+  "runTime": 1746683036262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1848683,
+        "num": 1848683,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736543,
+        "num": 1156349,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 107987,
+        "num": 1108313,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1086672,
+        "num": 1086672,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485075,
+        "num": 485075,
+        "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+        "onboard_time": 1746680063,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392152,
+        "num": 480171,
+        "word": "黄金",
+        "onboard_time": 1746679462,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 479013,
+        "num": 479013,
+        "word": "中餐厅 丁禹兮",
+        "onboard_time": 1746682042,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409223,
+        "num": 409223,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308477,
+        "num": 308477,
+        "word": "正午阳光评价肖战",
+        "onboard_time": 1746681442,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261806,
+        "num": 261806,
+        "word": "给女患者查前列腺是对医保动歪脑筋",
+        "onboard_time": 1746680783,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1285911,
+        "num": 261803,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 10,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 765433,
+        "num": 261772,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 683488,
+        "num": 261736,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185547,
+        "num": 261724,
+        "word": "武契奇回应被禁飞一脸落寞",
+        "onboard_time": 1746681383,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140712,
+        "num": 261693,
+        "word": "提前很久订酒店突然涨价要补3倍差价",
+        "onboard_time": 1746674662,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 640144,
+        "num": 261673,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627410,
+        "num": 261633,
+        "word": "网红猫 悬赏击杀",
+        "onboard_time": 1746682221,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81547,
+        "num": 261608,
+        "word": "文淇倪虹洁喻恩泰新片演一家三口",
+        "onboard_time": 1746682221,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261599,
+        "num": 261599,
+        "word": "中方回应美称与中国谈判前不降关税",
+        "onboard_time": 1746673402,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45119,
+        "num": 260074,
+        "word": "福建8岁男童走失地是未开发的野山",
+        "onboard_time": 1746682102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298014,
+        "num": 251857,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579069,
+        "num": 247581,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422140,
+        "num": 245494,
+        "word": "博君一肖app图标",
+        "onboard_time": 1746679943,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304017,
+        "num": 236338,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71844,
+        "num": 230004,
+        "word": "威少替约基奇出头",
+        "onboard_time": 1746679703,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229559,
+        "num": 229559,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207227,
+        "num": 207227,
+        "word": "邓超用我的梗你无需自卑",
+        "onboard_time": 1746680123,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195878,
+        "num": 195878,
+        "word": "歌手",
+        "onboard_time": 1746678504,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82130,
+        "num": 194421,
+        "word": "今年将推出总投资规模约3万亿优质项目",
+        "onboard_time": 1746682821,
+        "rank": 28,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 193427,
+        "word": "巴外长证实歼10击落印度战机",
+        "onboard_time": 1746682102,
+        "rank": 29,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 164361,
+        "num": 190386,
+        "word": "袁娅维陈昊宇万妮达最强售后",
+        "onboard_time": 1746681922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122139,
+        "num": 188288,
+        "word": "中国代表坚决拒绝美方指责抹黑",
+        "onboard_time": 1746677003,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223539,
+        "num": 186446,
+        "word": "AOA澯美结婚",
+        "onboard_time": 1746680303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200608,
+        "num": 184678,
+        "word": "孙颖莎送妈妈的母亲节礼物",
+        "onboard_time": 1746679462,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167503,
+        "num": 180580,
+        "word": "BLACKPINK2025世巡",
+        "onboard_time": 1746679403,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130045,
+        "num": 179850,
+        "word": "美民众说特朗普电影关税真的很蠢",
+        "onboard_time": 1746680903,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75902,
+        "num": 177214,
+        "word": "特朗普称愿意帮忙解决印巴冲突",
+        "onboard_time": 1746682882,
+        "rank": 36,
+        "category": "军事,国际时政"
+      },
+      {
+        "raw_hot": 6643,
+        "num": 174313,
+        "word": "奶茶10元以内的价格来临了吗",
+        "onboard_time": 1746682942,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14002,
+        "num": 173808,
+        "word": "创始股东为何选择高位清仓泡泡玛特股份",
+        "onboard_time": 1746682882,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37169,
+        "num": 170286,
+        "word": "印巴空战正在改变世界认知",
+        "onboard_time": 1746682882,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 169572,
+        "num": 169572,
+        "word": "巴基斯坦第二大城市响起爆炸声",
+        "onboard_time": 1746680783,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168196,
+        "num": 168196,
+        "word": "西藏人年均吃糖7斤成全国第一",
+        "onboard_time": 1746682221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159729,
+        "num": 159729,
+        "word": "红凝是胡意旋独自在绿幕下补拍的",
+        "onboard_time": 1746680003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159457,
+        "num": 159457,
+        "word": "新闻女王2",
+        "onboard_time": 1746674060,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153541,
+        "num": 153541,
+        "word": "乘风2025四公小考",
+        "onboard_time": 1746682643,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144940,
+        "num": 144940,
+        "word": "麻花特开心",
+        "onboard_time": 1746681022,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138579,
+        "num": 138579,
+        "word": "张泽禹 藏哪了",
+        "onboard_time": 1746682643,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 136404,
+        "word": "这些素菜的热量比肉还高",
+        "onboard_time": 1746680063,
+        "rank": 47,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 134355,
+        "num": 134355,
+        "word": "冉莹颖公开儿子五月追高计划",
+        "onboard_time": 1746682762,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 124313,
+        "num": 124313,
+        "word": "菠萝包有菠萝了",
+        "onboard_time": 1746678442,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席署名文章中的四个故事#"
+    }
+  }
+}
