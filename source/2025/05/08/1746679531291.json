@@ -1,0 +1,410 @@
+{
+  "runTime": 1746679531291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2807138,
+        "num": 2807138,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546989,
+        "num": 1639975,
+        "word": "中方回应美称与中国谈判前不降关税",
+        "onboard_time": 1746673402,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142293,
+        "num": 1169420,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 932994,
+        "num": 932994,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 649025,
+        "num": 649025,
+        "word": "谍报上不封顶",
+        "onboard_time": 1746670341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373174,
+        "num": 569649,
+        "word": "提前很久订酒店突然涨价要补3倍差价",
+        "onboard_time": 1746674662,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 494759,
+        "num": 494759,
+        "word": "新闻女王2",
+        "onboard_time": 1746674060,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442403,
+        "num": 442403,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366505,
+        "num": 366505,
+        "word": "两个人能在一起未必是因为爱情",
+        "onboard_time": 1746669921,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325045,
+        "num": 365640,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1420210,
+        "num": 358302,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1024463,
+        "num": 355321,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 476318,
+        "num": 346864,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346442,
+        "num": 346442,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339746,
+        "num": 339746,
+        "word": "樱桃琥珀 耳机分你一半",
+        "onboard_time": 1746674122,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275798,
+        "num": 275798,
+        "word": "歌手",
+        "onboard_time": 1746678504,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274808,
+        "num": 274808,
+        "word": "王星越新剧阴湿味好冲",
+        "onboard_time": 1746674122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250849,
+        "num": 250849,
+        "word": "菠萝包有菠萝了",
+        "onboard_time": 1746678442,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229719,
+        "num": 243168,
+        "word": "企业宁赔几千也不改招聘歧视",
+        "onboard_time": 1746677182,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189301,
+        "num": 238112,
+        "word": "母爱支撑孙颖莎梦想飞翔",
+        "onboard_time": 1746677303,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236046,
+        "num": 236046,
+        "word": "小米暂停SU7Ultra限制马力版本推送",
+        "onboard_time": 1746671422,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232289,
+        "num": 232289,
+        "word": "七分靠打拼",
+        "onboard_time": 1746674060,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230455,
+        "num": 230455,
+        "word": "撕拉片是情绪价值还是炒作",
+        "onboard_time": 1746676702,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230403,
+        "num": 230403,
+        "word": "优酷发了好多剧的海报",
+        "onboard_time": 1746670700,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14606,
+        "num": 228937,
+        "word": "首钢为什么能逆转广厦",
+        "onboard_time": 1746679283,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228763,
+        "num": 228763,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207688,
+        "num": 207688,
+        "word": "发帖网友回应刘畊宏强制清场争议",
+        "onboard_time": 1746676101,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207434,
+        "num": 207434,
+        "word": "三得利 成毅",
+        "onboard_time": 1746675260,
+        "rank": 27,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 203428,
+        "num": 203428,
+        "word": "虞书欣韩国机场出发",
+        "onboard_time": 1746678203,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119448,
+        "num": 194533,
+        "word": "沙溢一个不注意就要白回去",
+        "onboard_time": 1746678803,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77891,
+        "num": 193906,
+        "word": "两个关键字看懂本次降准降息",
+        "onboard_time": 1746677543,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409357,
+        "num": 193870,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193783,
+        "num": 193783,
+        "word": "雨霖铃敢放20秒不敢放20集吗",
+        "onboard_time": 1746678623,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179709,
+        "num": 192011,
+        "word": "孙颖莎交换Pin是迎接广阔世界的新方式",
+        "onboard_time": 1746679223,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32359,
+        "num": 190600,
+        "word": "萨卡空门不进",
+        "onboard_time": 1746677182,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174076,
+        "num": 190251,
+        "word": "孙颖莎封训合影",
+        "onboard_time": 1746678023,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190250,
+        "num": 190250,
+        "word": "上海60岁女生花掉养老金的一天",
+        "onboard_time": 1746675382,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 31897,
+        "num": 188700,
+        "word": "家庭主妇跟邻居学投资差点被骗16万",
+        "onboard_time": 1746677602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187962,
+        "num": 187962,
+        "word": "刘浩存宋威龙双人海报",
+        "onboard_time": 1746676942,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174863,
+        "num": 174863,
+        "word": "第一次见用水送服用榴莲的",
+        "onboard_time": 1746677844,
+        "rank": 39,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 172809,
+        "num": 172809,
+        "word": "黄金",
+        "onboard_time": 1746679462,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164578,
+        "num": 164578,
+        "word": "理想L9",
+        "onboard_time": 1746678803,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162210,
+        "num": 162210,
+        "word": "当环卫工人收到奶茶",
+        "onboard_time": 1746679462,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161590,
+        "num": 161590,
+        "word": "时代峰峻在优酷团建上了",
+        "onboard_time": 1746674302,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160200,
+        "num": 160200,
+        "word": "孙颖莎送妈妈的母亲节礼物",
+        "onboard_time": 1746679462,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159421,
+        "num": 159421,
+        "word": "BLACKPINK2025世巡",
+        "onboard_time": 1746679403,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32062,
+        "num": 159022,
+        "word": "晚饭吃多了睡不着怎么办",
+        "onboard_time": 1746678083,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159016,
+        "num": 159016,
+        "word": "女子上门做饭每天6单月薪近2万",
+        "onboard_time": 1746660740,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156613,
+        "num": 157339,
+        "word": "谍报上不封顶 周冬雨",
+        "onboard_time": 1746668130,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156959,
+        "num": 156959,
+        "word": "奔跑吧",
+        "onboard_time": 1746672140,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席署名文章中的四个故事#"
+    }
+  }
+}

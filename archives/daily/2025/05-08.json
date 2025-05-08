@@ -1,10 +1,10 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746678670440,
+  "endTime": 1746679531291,
   "band_list": [
     {
-      "raw_hot": 2537930,
-      "num": 2537930,
+      "raw_hot": 2807138,
+      "num": 2807138,
       "word": "办公室轮流请奶茶 窒息",
       "onboard_time": 1746675921,
       "rank": 20,
@@ -19,7 +19,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1384105,
+      "raw_hot": 1420210,
       "num": 554269,
       "word": "悟空",
       "onboard_time": 1746667950,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 932994,
+      "num": 932994,
+      "word": "猫界已经传开人类偷孩子了",
+      "onboard_time": 1746675982,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 872767,
       "num": 497276,
       "word": "团队曝异瞳少年治沙为摆拍",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 696279,
-      "num": 1204699,
+      "num": 1639975,
       "word": "中方回应美称与中国谈判前不降关税",
       "onboard_time": 1746673402,
       "rank": 9,
@@ -227,14 +235,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 435016,
-      "num": 435016,
-      "word": "猫界已经传开人类偷孩子了",
-      "onboard_time": 1746675982,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 432639,
       "num": 432639,
       "word": "特朗普将宣布波斯湾改称阿拉伯湾",
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409357,
+      "num": 193870,
+      "word": "DeepSeek认为最难学的语言",
+      "onboard_time": 1746678923,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 392456,
       "num": 418830,
       "word": "谍报上不封顶 周冬雨",
@@ -264,6 +272,14 @@
       "word": "直播间卖土鸡结果土是商标名",
       "onboard_time": 1746627203,
       "rank": 4,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 373174,
+      "num": 569649,
+      "word": "提前很久订酒店突然涨价要补3倍差价",
+      "onboard_time": 1746674662,
+      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -291,19 +307,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 352079,
-      "num": 459500,
-      "word": "提前很久订酒店突然涨价要补3倍差价",
-      "onboard_time": 1746674662,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 348245,
       "num": 348245,
       "word": "樱桃琥珀 耳机分你一半",
       "onboard_time": 1746674122,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346442,
+      "num": 346442,
+      "word": "大男主剧海报",
+      "onboard_time": 1746674722,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325045,
+      "num": 365640,
+      "word": "家访二本学生后我的认知被颠覆了",
+      "onboard_time": 1746678023,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 289966,
       "num": 230121,
       "word": "昀牵孟绕",
@@ -369,6 +393,14 @@
       "onboard_time": 1746675260,
       "rank": 23,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 275798,
+      "num": 275798,
+      "word": "歌手",
+      "onboard_time": 1746678504,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 266410,
@@ -403,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250849,
+      "num": 250849,
+      "word": "菠萝包有菠萝了",
+      "onboard_time": 1746678442,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247439,
       "num": 247439,
       "word": "谍战上不封顶",
@@ -427,20 +467,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241848,
-      "num": 241848,
-      "word": "大男主剧海报",
-      "onboard_time": 1746674722,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231352,
       "num": 231352,
       "word": "特朗普号召美国民众勒紧裤腰带",
       "onboard_time": 1746662902,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230455,
+      "num": 230455,
+      "word": "撕拉片是情绪价值还是炒作",
+      "onboard_time": 1746676702,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229719,
+      "num": 435602,
+      "word": "企业宁赔几千也不改招聘歧视",
+      "onboard_time": 1746677182,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229421,
@@ -451,20 +499,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228763,
+      "num": 228763,
+      "word": "小说男主竟然成了我的男友",
+      "onboard_time": 1746678923,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226064,
       "num": 226064,
       "word": "美联储",
       "onboard_time": 1746659899,
       "rank": 26,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 224064,
-      "num": 224064,
-      "word": "撕拉片是情绪价值还是炒作",
-      "onboard_time": 1746676702,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223527,
@@ -539,14 +587,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 207371,
-      "num": 207371,
-      "word": "家访二本学生后我的认知被颠覆了",
-      "onboard_time": 1746678023,
-      "rank": 28,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 207218,
       "num": 207218,
       "word": "雷霆首节领先掘金24分",
@@ -561,6 +601,14 @@
       "onboard_time": 1746660740,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203428,
+      "num": 203428,
+      "word": "虞书欣韩国机场出发",
+      "onboard_time": 1746678203,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 203290,
@@ -601,14 +649,6 @@
       "onboard_time": 1746670520,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195682,
-      "num": 195682,
-      "word": "虞书欣韩国机场出发",
-      "onboard_time": 1746678203,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 195408,
@@ -659,20 +699,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193783,
+      "num": 193783,
+      "word": "雨霖铃敢放20秒不敢放20集吗",
+      "onboard_time": 1746678623,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192015,
       "num": 255817,
       "word": "孙颖莎封训合影",
       "onboard_time": 1746678023,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191436,
-      "num": 191436,
-      "word": "歌手",
-      "onboard_time": 1746678504,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 191231,
@@ -771,6 +811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179709,
+      "num": 192011,
+      "word": "孙颖莎交换Pin是迎接广阔世界的新方式",
+      "onboard_time": 1746679223,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178284,
       "num": 178284,
       "word": "外商已开始到义乌抢圣诞用品了",
@@ -819,6 +867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172809,
+      "num": 172809,
+      "word": "黄金",
+      "onboard_time": 1746679462,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171715,
       "num": 266657,
       "word": "李佳琦妈妈直播带货",
@@ -843,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164578,
+      "num": 164578,
+      "word": "理想L9",
+      "onboard_time": 1746678803,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 163575,
       "num": 163575,
       "word": "王鹤棣李昀锐直播状态",
@@ -859,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162210,
+      "num": 162210,
+      "word": "当环卫工人收到奶茶",
+      "onboard_time": 1746679462,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160815,
       "num": 160815,
       "word": "北约轰炸中牺牲的3位烈士雕像塑成",
@@ -867,12 +939,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160065,
-      "num": 160065,
-      "word": "菠萝包有菠萝了",
-      "onboard_time": 1746678442,
+      "raw_hot": 160200,
+      "num": 160200,
+      "word": "孙颖莎送妈妈的母亲节礼物",
+      "onboard_time": 1746679462,
       "rank": 44,
-      "category": "美食"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159421,
+      "num": 159421,
+      "word": "BLACKPINK2025世巡",
+      "onboard_time": 1746679403,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 159076,
@@ -931,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148523,
-      "num": 435602,
-      "word": "企业宁赔几千也不改招聘歧视",
-      "onboard_time": 1746677182,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147086,
       "num": 147086,
       "word": "外公去世7年砍的柴还没用",
@@ -971,12 +1043,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141302,
-      "num": 141302,
-      "word": "雨霖铃敢放20秒不敢放20集吗",
-      "onboard_time": 1746678623,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 142293,
+      "num": 1169420,
+      "word": "直击莫斯科接机现场",
+      "onboard_time": 1746677722,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136888,
@@ -1115,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119448,
+      "num": 194533,
+      "word": "沙溢一个不注意就要白回去",
+      "onboard_time": 1746678803,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116332,
       "num": 116332,
       "word": "易烊千玺网站更新",
@@ -1161,14 +1241,6 @@
       "onboard_time": 1746667829,
       "rank": 43,
       "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 109822,
-      "num": 830455,
-      "word": "直击莫斯科接机现场",
-      "onboard_time": 1746677722,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108559,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1746631403,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77891,
+      "num": 435973,
+      "word": "两个关键字看懂本次降准降息",
+      "onboard_time": 1746677543,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77743,
@@ -1427,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57212,
-      "num": 435973,
-      "word": "两个关键字看懂本次降准降息",
-      "onboard_time": 1746677543,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 54204,
       "num": 206738,
       "word": "郑钦文罗马赛首战对阵达尼洛维奇",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1746661040,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32359,
+      "num": 190600,
+      "word": "萨卡空门不进",
+      "onboard_time": 1746677182,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 32285,
@@ -1675,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14606,
+      "num": 228937,
+      "word": "首钢为什么能逆转广厦",
+      "onboard_time": 1746679283,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12585,
       "num": 86649,
       "word": "另一位救人的女船长",
@@ -1752,6 +1840,9 @@
     },
     {
       "word": "#习近平俄罗斯之行#"
+    },
+    {
+      "word": "#习主席署名文章中的四个故事#"
     }
   ]
 }
