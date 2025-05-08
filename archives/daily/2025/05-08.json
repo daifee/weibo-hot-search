@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746697283835,
+  "endTime": 1746700193343,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 910890,
+      "num": 910890,
+      "word": "淘宝免单 1999",
+      "onboard_time": 1746695542,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 872767,
       "num": 497276,
       "word": "团队曝异瞳少年治沙为摆拍",
@@ -225,6 +233,14 @@
       "onboard_time": 1746678023,
       "rank": 28,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 706601,
+      "num": 706601,
+      "word": "马嘉祺报名歌手揭榜",
+      "onboard_time": 1746697761,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 706000,
@@ -289,6 +305,14 @@
       "onboard_time": 1746678923,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596993,
+      "num": 459917,
+      "word": "歌手2025",
+      "onboard_time": 1746697761,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 578990,
@@ -515,6 +539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 377485,
+      "num": 377485,
+      "word": "王宝强四十岁这状态叫欠佳那我算啥",
+      "onboard_time": 1746698002,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373174,
       "num": 569649,
       "word": "提前很久订酒店突然涨价要补3倍差价",
@@ -611,6 +643,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 340237,
+      "num": 340237,
+      "word": "孟子义输的液都是冰美式",
+      "onboard_time": 1746695782,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329528,
       "num": 417210,
       "word": "奔跑吧",
@@ -635,12 +675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314174,
-      "num": 314174,
-      "word": "孟子义输的液都是冰美式",
-      "onboard_time": 1746695782,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 315379,
+      "num": 323087,
+      "word": "陈妍希被搀扶着走红毯",
+      "onboard_time": 1746683722,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 315140,
+      "num": 378111,
+      "word": "网友称在银行买到掺假金条",
+      "onboard_time": 1746698422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308477,
@@ -649,14 +697,6 @@
       "onboard_time": 1746681442,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303719,
-      "num": 303719,
-      "word": "淘宝免单 1999",
-      "onboard_time": 1746695542,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 302437,
@@ -771,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260341,
-      "num": 323087,
-      "word": "陈妍希被搀扶着走红毯",
-      "onboard_time": 1746683722,
+      "raw_hot": 260236,
+      "num": 260236,
+      "word": "优酷押宝肖战双剧",
+      "onboard_time": 1746698840,
       "rank": 22,
-      "category": "作品衍生,时尚"
+      "category": "剧集"
     },
     {
       "raw_hot": 254322,
@@ -817,6 +857,14 @@
       "onboard_time": 1746670341,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247415,
+      "num": 247415,
+      "word": "周柯宇对迪丽热巴说踩我",
+      "onboard_time": 1746699081,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 245323,
@@ -873,6 +921,14 @@
       "onboard_time": 1746676702,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230308,
+      "num": 230308,
+      "word": "金靖女明星和张凌赫保镖",
+      "onboard_time": 1746699141,
+      "rank": 25,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 229719,
@@ -987,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213823,
+      "num": 213823,
+      "word": "巴基斯坦称击落超25架印度无人机",
+      "onboard_time": 1746697462,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213800,
       "num": 335298,
       "word": "美联储主席发布会提及关税超20次",
@@ -1073,6 +1137,14 @@
       "onboard_time": 1746660740,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205294,
+      "num": 205294,
+      "word": "IU进入百想艺术大赏大赏二轮候补",
+      "onboard_time": 1746699502,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204633,
@@ -1377,6 +1449,14 @@
       "onboard_time": 1746676702,
       "rank": 32,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 187545,
+      "num": 187545,
+      "word": "i人是如何交朋友的",
+      "onboard_time": 1746699983,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 187090,
@@ -1723,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162518,
+      "num": 162518,
+      "word": "歌手2025我来揭榜",
+      "onboard_time": 1746686422,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162210,
       "num": 162210,
       "word": "当环卫工人收到奶茶",
@@ -1739,12 +1827,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 160670,
+      "num": 160670,
+      "word": "中方将同俄方一道挺膺担当",
+      "onboard_time": 1746696503,
+      "rank": 46,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 160604,
       "num": 160604,
       "word": "分享一种健康的社交心态",
       "onboard_time": 1746688822,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160031,
+      "num": 168566,
+      "word": "原来吃水果真能缓解焦虑",
+      "onboard_time": 1746698901,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159510,
@@ -1779,20 +1883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156958,
-      "num": 156958,
-      "word": "中方将同俄方一道挺膺担当",
-      "onboard_time": 1746696503,
-      "rank": 46,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 156482,
       "num": 248026,
       "word": "A股军工股全线爆发",
       "onboard_time": 1746689722,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156326,
+      "num": 156326,
+      "word": "boss直聘回应秀恩爱引发不适",
+      "onboard_time": 1746699743,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 156094,
@@ -1841,6 +1945,14 @@
       "onboard_time": 1746684742,
       "rank": 43,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 153760,
+      "num": 162529,
+      "word": "鹭卓直播",
+      "onboard_time": 1746698602,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 153541,
@@ -1939,12 +2051,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 142702,
+      "num": 142702,
+      "word": "读书会让你的人生多一些选择",
+      "onboard_time": 1746699322,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142293,
       "num": 1252886,
       "word": "直击莫斯科接机现场",
       "onboard_time": 1746677722,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141214,
+      "num": 141214,
+      "word": "王嘉尔你这样我有点害怕",
+      "onboard_time": 1746699322,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 140719,
@@ -2075,12 +2203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126471,
+      "num": 126471,
+      "word": "猫 我将360度无死角恨你",
+      "onboard_time": 1746699862,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125900,
       "num": 125900,
       "word": "Gemini当爸",
       "onboard_time": 1746619462,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125432,
+      "num": 125432,
+      "word": "谁懂白鹿红衣的杀伤力",
+      "onboard_time": 1746700042,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 123885,
@@ -2145,14 +2289,6 @@
       "onboard_time": 1746663202,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115591,
-      "num": 158119,
-      "word": "歌手2025我来揭榜",
-      "onboard_time": 1746686422,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 114717,
@@ -2259,6 +2395,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 98351,
+      "num": 197868,
+      "word": "巴外长回应阵风网传言论",
+      "onboard_time": 1746699141,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 96332,
       "num": 96332,
       "word": "巴基斯坦将对印军入侵做出回应",
@@ -2313,6 +2457,14 @@
       "onboard_time": 1746638296,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82981,
+      "num": 379343,
+      "word": "用五月天的方式说爱你",
+      "onboard_time": 1746695062,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 82152,
@@ -2499,6 +2651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67897,
+      "num": 417873,
+      "word": "博士生实名举报教授贴文已不可见",
+      "onboard_time": 1746699443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65988,
       "num": 434414,
       "word": "婚介机构广告牌现越南新娘七天领证",
@@ -2616,6 +2776,22 @@
       "word": "胖东来起诉柴怼怼商业诋毁侵犯名誉权",
       "onboard_time": 1746659899,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54648,
+      "num": 846813,
+      "word": "一文带你了解俄罗斯",
+      "onboard_time": 1746695602,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 54349,
+      "num": 296068,
+      "word": "市监局回应女子公筷试吃咸菜后插回",
+      "onboard_time": 1746698781,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2755,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40515,
-      "num": 343002,
-      "word": "用五月天的方式说爱你",
-      "onboard_time": 1746695062,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 38926,
       "num": 238186,
       "word": "印度空军为何被巴空军压着打",
@@ -2777,14 +2945,6 @@
       "onboard_time": 1746682882,
       "rank": 39,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 36525,
-      "num": 846813,
-      "word": "一文带你了解俄罗斯",
-      "onboard_time": 1746695602,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35828,
@@ -2876,7 +3036,7 @@
     },
     {
       "raw_hot": 30749,
-      "num": 325089,
+      "num": 425299,
       "word": "一揽子金融政策传递哪些重要信号",
       "onboard_time": 1746694642,
       "rank": 22,
@@ -3121,6 +3281,14 @@
       "onboard_time": 1746691943,
       "rank": 28,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 17869,
+      "num": 160816,
+      "word": "合肥野生动物园一猴子丑出圈",
+      "onboard_time": 1746700102,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17764,
