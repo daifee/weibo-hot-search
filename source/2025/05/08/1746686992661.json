@@ -1,0 +1,410 @@
+{
+  "runTime": 1746686992661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1132210,
+        "num": 1181153,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587810,
+        "num": 954097,
+        "word": "日本地铁出现随机杀人事件",
+        "onboard_time": 1746685102,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75877,
+        "num": 841557,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 827712,
+        "num": 827712,
+        "word": "店主讲述刘畊宏南宁拍摄事件经过",
+        "onboard_time": 1746685462,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 683983,
+        "num": 683983,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 527800,
+        "num": 527800,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 462142,
+        "num": 462142,
+        "word": "中餐厅 丁禹兮",
+        "onboard_time": 1746682042,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346802,
+        "num": 346802,
+        "word": "武汉暴风雨下上演现实版海上钢琴师",
+        "onboard_time": 1746684022,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369406,
+        "num": 342822,
+        "word": "尾鱼女主都选了谋女郎",
+        "onboard_time": 1746683420,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75542,
+        "num": 340878,
+        "word": "首批受高额关税影响的货船到美国了",
+        "onboard_time": 1746685343,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2053277,
+        "num": 335398,
+        "word": "网红猫 悬赏击杀",
+        "onboard_time": 1746682221,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644906,
+        "num": 331808,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 488326,
+        "num": 329483,
+        "word": "小S二女儿回应是否进演艺圈",
+        "onboard_time": 1746683062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403711,
+        "num": 322155,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43391,
+        "num": 320033,
+        "word": "救护车转运重症病人半路要求加价",
+        "onboard_time": 1746685702,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317161,
+        "num": 317161,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310884,
+        "num": 310884,
+        "word": "酵色 虞书欣",
+        "onboard_time": 1746683182,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 254035,
+        "num": 305865,
+        "word": "南部战区发声",
+        "onboard_time": 1746684442,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304327,
+        "num": 304327,
+        "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+        "onboard_time": 1746680063,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127128,
+        "num": 287756,
+        "word": "冉莹颖公开儿子五月追高计划",
+        "onboard_time": 1746682762,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 283082,
+        "num": 283082,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260341,
+        "num": 260341,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 258462,
+        "num": 258462,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257750,
+        "num": 257750,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 230575,
+        "word": "博君一肖app图标",
+        "onboard_time": 1746679943,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223614,
+        "num": 228675,
+        "word": "西藏人年均吃糖7斤成全国第一",
+        "onboard_time": 1746682221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190285,
+        "num": 227175,
+        "word": "正午阳光评价肖战",
+        "onboard_time": 1746681442,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176981,
+        "num": 226910,
+        "word": "张艺兴回归这就是街舞7",
+        "onboard_time": 1746684862,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226876,
+        "num": 226876,
+        "word": "王者荣耀",
+        "onboard_time": 1746685881,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75913,
+        "num": 226692,
+        "word": "阵风生产商股价骤跌",
+        "onboard_time": 1746685283,
+        "rank": 29,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 42730,
+        "num": 226647,
+        "word": "朱开说BLG夺冠LPL收益最大",
+        "onboard_time": 1746685702,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226616,
+        "num": 226616,
+        "word": "武契奇回应被禁飞一脸落寞",
+        "onboard_time": 1746681383,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170785,
+        "num": 223588,
+        "word": "张凌赫在开推3出场即是人生镜头",
+        "onboard_time": 1746685702,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223572,
+        "num": 223572,
+        "word": "巴外长证实歼10击落印度战机",
+        "onboard_time": 1746682102,
+        "rank": 33,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 191488,
+        "num": 191488,
+        "word": "小猫已经暗示得这么明显了",
+        "onboard_time": 1746685523,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160750,
+        "num": 160750,
+        "word": "严浩翔新说唱贝雷帽look",
+        "onboard_time": 1746685642,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 166057,
+        "num": 160331,
+        "word": "韩安冉说女儿遗传了前夫的多动症",
+        "onboard_time": 1746684022,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158496,
+        "num": 158496,
+        "word": "全国降水最强势的一天",
+        "onboard_time": 1746684202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22268,
+        "num": 158471,
+        "word": "网友感谢巴铁直播带货",
+        "onboard_time": 1746686662,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 70802,
+        "num": 158334,
+        "word": "印度被击落战机连编号都证实了",
+        "onboard_time": 1746686601,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 64422,
+        "num": 158150,
+        "word": "亚历山大正负值正51",
+        "onboard_time": 1746685642,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115591,
+        "num": 158119,
+        "word": "歌手2025我来揭榜",
+        "onboard_time": 1746686422,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "男子彩票守号3年中10万错过兑奖",
+        "onboard_time": 1746686301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156094,
+        "num": 156094,
+        "word": "黄景瑜黄明昊林一人均宽肩窄腰",
+        "onboard_time": 1746686061,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154223,
+        "num": 154223,
+        "word": "给女患者查前列腺是对医保动歪脑筋",
+        "onboard_time": 1746680783,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150277,
+        "num": 150277,
+        "word": "巴基斯坦外长盛赞歼10C",
+        "onboard_time": 1746685582,
+        "rank": 45,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 146065,
+        "num": 146065,
+        "word": "离了沈腾马丽谁还逗我们笑",
+        "onboard_time": 1746685224,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "南太铉吸毒缓刑期间酒驾",
+        "onboard_time": 1746683602,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126944,
+        "num": 126944,
+        "word": "巴方称若非克制至少可击落十架印战机",
+        "onboard_time": 1746686181,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114717,
+        "num": 126452,
+        "word": "你的手机5GA了吗",
+        "onboard_time": 1746686301,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同发出维护国际公平正义的时代强音#"
+    }
+  }
+}
