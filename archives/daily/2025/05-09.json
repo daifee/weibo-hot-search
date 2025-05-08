@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746722913094,
+  "endTime": 1746724932471,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -195,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136339,
+      "num": 136339,
+      "word": "胖东来和田玉标注进货价和毛利",
+      "onboard_time": 1746718942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129799,
       "num": 129799,
       "word": "京城大师赛",
@@ -243,6 +251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107932,
+      "num": 107932,
+      "word": "商务部回应美取消对华小额免税政策",
+      "onboard_time": 1746723318,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99735,
       "num": 131095,
       "word": "易烊千玺舒淇领衔主演",
@@ -265,14 +281,6 @@
       "onboard_time": 1746708802,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90052,
-      "num": 133436,
-      "word": "胖东来和田玉标注进货价和毛利",
-      "onboard_time": 1746718942,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89976,
@@ -379,12 +387,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 55599,
+      "num": 55599,
+      "word": "淘宝免单 72",
+      "onboard_time": 1746712643,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55325,
       "num": 316019,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55200,
+      "num": 55200,
+      "word": "星露谷物语",
+      "onboard_time": 1746722118,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 50480,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 46685,
-      "num": 58228,
+      "num": 63381,
       "word": "盖茨基金会计划2045年底永久关闭",
       "onboard_time": 1746714864,
       "rank": 48,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 46104,
-      "num": 58213,
+      "num": 63670,
       "word": "西安冰雹",
       "onboard_time": 1746705382,
       "rank": 49,
@@ -425,6 +449,22 @@
       "onboard_time": 1746720201,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 18454,
+      "num": 48708,
+      "word": "新时代中俄关系更加稳定坚韧",
+      "onboard_time": 1746720501,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18115,
+      "num": 43577,
+      "word": "俄罗斯歌舞团中文演唱游击队歌",
+      "onboard_time": 1746724698,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15029,
