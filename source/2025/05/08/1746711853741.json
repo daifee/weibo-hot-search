@@ -1,0 +1,410 @@
+{
+  "runTime": 1746711853741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1596122,
+        "num": 1596122,
+        "word": "淘宝免单 狼人杀",
+        "onboard_time": 1746710782,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1287412,
+        "num": 1287412,
+        "word": "富士回应一张撕拉片被炒至300多元",
+        "onboard_time": 1746708923,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32556,
+        "num": 1187260,
+        "word": "为什么这一纪念不能忘却",
+        "onboard_time": 1746695361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1184290,
+        "num": 1184290,
+        "word": "王楚钦在路边摸蛇",
+        "onboard_time": 1746708023,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744090,
+        "num": 744090,
+        "word": "水饺皇后为什么可惜了",
+        "onboard_time": 1746705801,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 796307,
+        "num": 684569,
+        "word": "首批加征145%关税货物轮船抵美",
+        "onboard_time": 1746705382,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 592734,
+        "num": 592734,
+        "word": "西安冰雹",
+        "onboard_time": 1746705382,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450003,
+        "num": 508456,
+        "word": "郑丹妮退团",
+        "onboard_time": 1746703102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 487019,
+        "word": "一揽子金融政策传递哪些重要信号",
+        "onboard_time": 1746694642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467754,
+        "num": 467754,
+        "word": "中俄签署联合声明",
+        "onboard_time": 1746705681,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2021600,
+        "num": 448282,
+        "word": "儿子高烧不退查出白血病妈妈一夜白头",
+        "onboard_time": 1746706462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509173,
+        "num": 441790,
+        "word": "迪丽热巴快急哭了",
+        "onboard_time": 1746707302,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308290,
+        "num": 426190,
+        "word": "孙燕姿北京演唱会抢票",
+        "onboard_time": 1746706943,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 420663,
+        "num": 420663,
+        "word": "印度开闸放水",
+        "onboard_time": 1746708802,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419567,
+        "num": 419567,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 14,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 82600,
+        "num": 419082,
+        "word": "九号电动车Q出新元气",
+        "onboard_time": 1746709704,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126802,
+        "num": 407498,
+        "word": "联想发布天禧和想帮帮两款智能体",
+        "onboard_time": 1746707602,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 398540,
+        "word": "林更新李幼斌新片演绎冤种忘年交",
+        "onboard_time": 1746710843,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186894,
+        "num": 388420,
+        "word": "伪装者十年后正午阳光再拍谍战剧",
+        "onboard_time": 1746707843,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150391,
+        "num": 380298,
+        "word": "人民网评五一档票房为什么不热",
+        "onboard_time": 1746710304,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 377471,
+        "num": 377471,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663371,
+        "num": 366096,
+        "word": "金价突然跳水",
+        "onboard_time": 1746706822,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 319684,
+        "num": 319684,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284853,
+        "num": 284853,
+        "word": "气血不足的人外表有4个特点",
+        "onboard_time": 1746707243,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216151,
+        "num": 278955,
+        "word": "理想L系列智能焕新版上市",
+        "onboard_time": 1746711263,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276615,
+        "num": 276615,
+        "word": "田小娟金发寸头",
+        "onboard_time": 1746704181,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268308,
+        "num": 268308,
+        "word": "电视剧开端登上俄罗斯荧屏",
+        "onboard_time": 1746707963,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233340,
+        "num": 233340,
+        "word": "BLACKPINK抢票",
+        "onboard_time": 1746706462,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213822,
+        "num": 233074,
+        "word": "曝歌手2025首发阵容",
+        "onboard_time": 1746701721,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161617,
+        "num": 231846,
+        "word": "印巴交火一航班独闯战区",
+        "onboard_time": 1746709643,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49396,
+        "num": 231010,
+        "word": "中俄要做百炼成钢的真朋友",
+        "onboard_time": 1746709823,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255088,
+        "num": 229325,
+        "word": "全红婵成了陈梦的人形挂件",
+        "onboard_time": 1746710782,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228873,
+        "num": 228873,
+        "word": "淘宝免单",
+        "onboard_time": 1746580521,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210635,
+        "num": 210635,
+        "word": "赵丽颖说想到处走走不被发现",
+        "onboard_time": 1746710962,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199129,
+        "num": 199129,
+        "word": "丁禹兮直播做饭人夫感",
+        "onboard_time": 1746706221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186564,
+        "num": 186564,
+        "word": "孙颖莎王楚钦世乒赛混双搭档",
+        "onboard_time": 1746705023,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165672,
+        "num": 165672,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165291,
+        "num": 165291,
+        "word": "张杰连开十二场体力永动机",
+        "onboard_time": 1746710663,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162912,
+        "num": 162912,
+        "word": "老师我家迪丽热巴可以做童模吗",
+        "onboard_time": 1746703703,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161820,
+        "num": 161820,
+        "word": "任嘉伦虐剧纯元回来了",
+        "onboard_time": 1746711503,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159904,
+        "num": 159904,
+        "word": "成毅权谋味太浓了",
+        "onboard_time": 1746704542,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159568,
+        "num": 159568,
+        "word": "印巴之间可能随时爆发核战争",
+        "onboard_time": 1746706341,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145326,
+        "num": 145326,
+        "word": "理想汽车发布会",
+        "onboard_time": 1746707963,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138682,
+        "num": 138682,
+        "word": "中国排面亮相白俄罗斯有多帅",
+        "onboard_time": 1746711443,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138382,
+        "num": 138382,
+        "word": "记者梳理本科生14篇SCI论文争议",
+        "onboard_time": 1746711384,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134802,
+        "num": 134802,
+        "word": "王宝强四十岁这状态叫欠佳那我算啥",
+        "onboard_time": 1746698002,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132991,
+        "num": 132991,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131039,
+        "num": 131039,
+        "word": "金价",
+        "onboard_time": 1746710363,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127379,
+        "num": 127379,
+        "word": "复旦大学文科杰出教授裘锡圭逝世",
+        "onboard_time": 1746711743,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126430,
+        "num": 126430,
+        "word": "金价极速转跌",
+        "onboard_time": 1746710484,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}
