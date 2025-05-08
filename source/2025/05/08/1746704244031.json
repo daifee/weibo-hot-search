@@ -1,0 +1,410 @@
+{
+  "runTime": 1746704244031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854676,
+        "num": 1136748,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 822770,
+        "num": 822770,
+        "word": "博士生实名举报教授贴文已不可见",
+        "onboard_time": 1746699443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43220,
+        "num": 766206,
+        "word": "一文带你了解俄罗斯",
+        "onboard_time": 1746695602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763500,
+        "num": 763500,
+        "word": "郑丹妮退团",
+        "onboard_time": 1746703102,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591795,
+        "num": 591795,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 426978,
+        "num": 426978,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525683,
+        "num": 418927,
+        "word": "曝歌手2025首发阵容",
+        "onboard_time": 1746701721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378264,
+        "num": 378264,
+        "word": "马嘉祺报名歌手揭榜",
+        "onboard_time": 1746697761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25670,
+        "num": 378072,
+        "word": "一揽子金融政策传递哪些重要信号",
+        "onboard_time": 1746694642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108609,
+        "num": 377405,
+        "word": "中国大熊猫在俄罗斯成团宠",
+        "onboard_time": 1746703402,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1031043,
+        "num": 376772,
+        "word": "赵丽颖粉发白裙",
+        "onboard_time": 1746702743,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 848312,
+        "num": 375512,
+        "word": "印度大坝已打开两道闸门",
+        "onboard_time": 1746700762,
+        "rank": 11,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 650093,
+        "num": 374852,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 12,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 485194,
+        "num": 374172,
+        "word": "王宝强四十岁这状态叫欠佳那我算啥",
+        "onboard_time": 1746698002,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67235,
+        "num": 373230,
+        "word": "甘肃杂交羊肉为啥好吃不膻",
+        "onboard_time": 1746702080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373175,
+        "num": 373175,
+        "word": "歌手2025",
+        "onboard_time": 1746697761,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361092,
+        "num": 361092,
+        "word": "于适陈都灵同框",
+        "onboard_time": 1746701962,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 358086,
+        "num": 358086,
+        "word": "网友称在银行买到掺假金条",
+        "onboard_time": 1746698422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40276,
+        "num": 348229,
+        "word": "广州一老板上新租三金结婚业务",
+        "onboard_time": 1746703703,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15283,
+        "num": 342657,
+        "word": "超市咸菜公筷使用规则有哪些",
+        "onboard_time": 1746703282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341383,
+        "num": 341383,
+        "word": "优酷押宝肖战双剧",
+        "onboard_time": 1746698840,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335993,
+        "num": 335993,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311803,
+        "num": 311803,
+        "word": "大妈走路突然转身撞到男子获赔7万",
+        "onboard_time": 1746690382,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303621,
+        "num": 303621,
+        "word": "暖暖Nikki达成100万关注",
+        "onboard_time": 1746700461,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291250,
+        "num": 291250,
+        "word": "丁禹兮孟子义 接二搭",
+        "onboard_time": 1746702080,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206469,
+        "num": 206469,
+        "word": "田小娟金发寸头",
+        "onboard_time": 1746704181,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194750,
+        "num": 194750,
+        "word": "原来吃水果真能缓解焦虑",
+        "onboard_time": 1746698901,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146835,
+        "num": 193346,
+        "word": "王楚钦感谢爸爸妈妈一路支持",
+        "onboard_time": 1746703763,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116088,
+        "num": 193329,
+        "word": "成都一苗圃遭组团挖花损失几百万",
+        "onboard_time": 1746702560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120243,
+        "num": 193320,
+        "word": "沈阳一宝马行驶途中打开双侧车门",
+        "onboard_time": 1746703522,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193319,
+        "num": 193319,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192897,
+        "num": 192897,
+        "word": "我使馆建议在苏中国公民尽快撤离",
+        "onboard_time": 1746701302,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60769,
+        "num": 191002,
+        "word": "赵心童落地深圳了",
+        "onboard_time": 1746703041,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189601,
+        "num": 189601,
+        "word": "淘宝免单 我们都一样",
+        "onboard_time": 1746692362,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80153,
+        "num": 185072,
+        "word": "印占克什米尔发现坠毁战机弹射座椅",
+        "onboard_time": 1746701782,
+        "rank": 34,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 184914,
+        "num": 184914,
+        "word": "假装领导帮买房办编制诈骗721万",
+        "onboard_time": 1746701122,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180694,
+        "num": 180694,
+        "word": "boss直聘 秀恩爱",
+        "onboard_time": 1746689660,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174081,
+        "num": 174081,
+        "word": "老师我家迪丽热巴可以做童模吗",
+        "onboard_time": 1746703703,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "韩国为柯洁事件改规则",
+        "onboard_time": 1746692003,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38289,
+        "num": 158561,
+        "word": "万斯戏称要驱逐2026世界杯游客",
+        "onboard_time": 1746704181,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 158370,
+        "num": 158370,
+        "word": "谁懂吴宣仪跳出来那一下的救赎感",
+        "onboard_time": 1746703640,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153299,
+        "num": 153299,
+        "word": "印防长称印军创造了新历史",
+        "onboard_time": 1746694941,
+        "rank": 41,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 147443,
+        "num": 147443,
+        "word": "虞书欣用了站姐图",
+        "onboard_time": 1746700882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145727,
+        "num": 145727,
+        "word": "印巴",
+        "onboard_time": 1746696921,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145629,
+        "num": 145629,
+        "word": "工行回应网友买到掺假金条",
+        "onboard_time": 1746703402,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 143604,
+        "num": 143604,
+        "word": "当男孩子给女朋友拍出人生照片后",
+        "onboard_time": 1746703763,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143405,
+        "num": 143405,
+        "word": "土耳其警方焚烧20吨大麻致多人中毒",
+        "onboard_time": 1746703102,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141336,
+        "num": 141336,
+        "word": "关晓彤续上四宫格",
+        "onboard_time": 1746702922,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135967,
+        "num": 135967,
+        "word": "Faker狐狸五杀",
+        "onboard_time": 1746703882,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "周柯宇对迪丽热巴说踩我",
+        "onboard_time": 1746699081,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}

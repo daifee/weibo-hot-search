@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746703313473,
+  "endTime": 1746704244031,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -131,6 +131,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1031043,
+      "num": 376772,
+      "word": "赵丽颖粉发白裙",
+      "onboard_time": 1746702743,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1023968,
       "num": 1163834,
       "word": "谍报上不封顶",
@@ -195,12 +203,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 848312,
+      "num": 375512,
+      "word": "印度大坝已打开两道闸门",
+      "onboard_time": 1746700762,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 827712,
       "num": 827712,
       "word": "店主讲述刘畊宏南宁拍摄事件经过",
       "onboard_time": 1746685462,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 822770,
+      "num": 822770,
+      "word": "博士生实名举报教授贴文已不可见",
+      "onboard_time": 1746699443,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 816196,
@@ -225,6 +249,14 @@
       "onboard_time": 1746669921,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 763500,
+      "num": 763500,
+      "word": "郑丹妮退团",
+      "onboard_time": 1746703102,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 736543,
@@ -323,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 585314,
-      "num": 585314,
-      "word": "博士生实名举报教授贴文已不可见",
-      "onboard_time": 1746699443,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 578990,
       "num": 578990,
       "word": "泡泡玛特股份被创始股东高位清仓",
@@ -355,14 +379,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 548834,
-      "num": 371293,
-      "word": "印度大坝已打开两道闸门",
-      "onboard_time": 1746700762,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 541545,
       "num": 943197,
       "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
@@ -377,6 +393,14 @@
       "onboard_time": 1746691881,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525683,
+      "num": 418927,
+      "word": "曝歌手2025首发阵容",
+      "onboard_time": 1746701721,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 521925,
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361092,
+      "num": 361092,
+      "word": "于适陈都灵同框",
+      "onboard_time": 1746701962,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 352139,
       "num": 352139,
       "word": "鸿蒙pc",
@@ -707,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315960,
-      "num": 315960,
-      "word": "曝歌手2025首发阵容",
-      "onboard_time": 1746701721,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315379,
       "num": 323087,
       "word": "陈妍希被搀扶着走红毯",
@@ -731,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306554,
-      "num": 261243,
-      "word": "赵丽颖粉发白裙",
-      "onboard_time": 1746702743,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 303621,
+      "num": 303621,
+      "word": "暖暖Nikki达成100万关注",
+      "onboard_time": 1746700461,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 302437,
@@ -777,6 +801,14 @@
       "onboard_time": 1746689302,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291250,
+      "num": 291250,
+      "word": "丁禹兮孟子义 接二搭",
+      "onboard_time": 1746702080,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289966,
@@ -857,14 +889,6 @@
       "onboard_time": 1746662902,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 264691,
-      "num": 264691,
-      "word": "于适陈都灵同框",
-      "onboard_time": 1746701962,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 261806,
@@ -969,14 +993,6 @@
       "onboard_time": 1746694941,
       "rank": 29,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 236641,
-      "num": 241435,
-      "word": "暖暖Nikki达成100万关注",
-      "onboard_time": 1746700461,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 234012,
@@ -1107,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216948,
-      "num": 216948,
-      "word": "丁禹兮孟子义 接二搭",
-      "onboard_time": 1746702080,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216748,
       "num": 216748,
       "word": "全款140万捡漏230平房子",
@@ -1227,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206469,
+      "num": 206469,
+      "word": "田小娟金发寸头",
+      "onboard_time": 1746704181,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205651,
       "num": 205651,
       "word": "女子上门做饭每天6单月薪近2万",
@@ -1316,7 +1332,7 @@
     },
     {
       "raw_hot": 201199,
-      "num": 350948,
+      "num": 373230,
       "word": "甘肃杂交羊肉为啥好吃不膻",
       "onboard_time": 1746695182,
       "rank": 15,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1746676942,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194750,
+      "num": 194750,
+      "word": "原来吃水果真能缓解焦虑",
+      "onboard_time": 1746698901,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194731,
@@ -1552,14 +1576,6 @@
       "word": "迪丽热巴你礼貌吗",
       "onboard_time": 1746693862,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 188329,
-      "num": 188329,
-      "word": "郑丹妮退团",
-      "onboard_time": 1746703102,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "老师我家迪丽热巴可以做童模吗",
+      "onboard_time": 1746703703,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173878,
       "num": 335483,
       "word": "北京公积金贷款利率下调",
@@ -1979,20 +2003,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160031,
-      "num": 168566,
-      "word": "原来吃水果真能缓解焦虑",
-      "onboard_time": 1746698901,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159076,
       "num": 159076,
       "word": "菲35号护卫艇企图侵闯我黄岩岛领海",
       "onboard_time": 1746677063,
       "rank": 45,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 158370,
+      "num": 158370,
+      "word": "谁懂吴宣仪跳出来那一下的救赎感",
+      "onboard_time": 1746703640,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 157883,
@@ -2139,6 +2163,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146835,
+      "num": 193346,
+      "word": "王楚钦感谢爸爸妈妈一路支持",
+      "onboard_time": 1746703763,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145629,
+      "num": 145629,
+      "word": "工行回应网友买到掺假金条",
+      "onboard_time": 1746703402,
+      "rank": 44,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 144898,
       "num": 341378,
       "word": "美民众说特朗普电影关税真的很蠢",
@@ -2163,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143604,
+      "num": 143604,
+      "word": "当男孩子给女朋友拍出人生照片后",
+      "onboard_time": 1746703763,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143567,
       "num": 184534,
       "word": "跑男常州青果巷录制",
@@ -2177,6 +2225,14 @@
       "onboard_time": 1746681862,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143405,
+      "num": 143405,
+      "word": "土耳其警方焚烧20吨大麻致多人中毒",
+      "onboard_time": 1746703102,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143173,
@@ -2265,6 +2321,14 @@
       "onboard_time": 1746626902,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135967,
+      "num": 135967,
+      "word": "Faker狐狸五杀",
+      "onboard_time": 1746703882,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 134954,
@@ -2403,6 +2467,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 120243,
+      "num": 193320,
+      "word": "沈阳一宝马行驶途中打开双侧车门",
+      "onboard_time": 1746703522,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "印巴背后或涉及中美博弈",
@@ -2441,6 +2513,14 @@
       "onboard_time": 1746663202,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116088,
+      "num": 205338,
+      "word": "成都一苗圃遭组团挖花损失几百万",
+      "onboard_time": 1746702560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114717,
@@ -2499,12 +2579,12 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 108624,
-      "num": 205338,
-      "word": "成都一苗圃遭组团挖花损失几百万",
-      "onboard_time": 1746702560,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 108609,
+      "num": 377405,
+      "word": "中国大熊猫在俄罗斯成团宠",
+      "onboard_time": 1746703402,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108559,
@@ -2657,6 +2737,14 @@
       "onboard_time": 1746682221,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 80153,
+      "num": 204322,
+      "word": "印占克什米尔发现坠毁战机弹射座椅",
+      "onboard_time": 1746701782,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 79457,
@@ -2987,14 +3075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53820,
-      "num": 204322,
-      "word": "印占克什米尔发现坠毁战机弹射座椅",
-      "onboard_time": 1746701782,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 53237,
       "num": 289431,
       "word": "拥有自主军工体系有多么重要",
@@ -3139,11 +3219,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40276,
+      "num": 348229,
+      "word": "广州一老板上新租三金结婚业务",
+      "onboard_time": 1746703703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38926,
       "num": 238186,
       "word": "印度空军为何被巴空军压着打",
       "onboard_time": 1746693201,
       "rank": 28,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 38289,
+      "num": 158561,
+      "word": "万斯戏称要驱逐2026世界杯游客",
+      "onboard_time": 1746704181,
+      "rank": 39,
       "category": "国际时政,民生新闻"
     },
     {
@@ -3531,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15283,
+      "num": 342657,
+      "word": "超市咸菜公筷使用规则有哪些",
+      "onboard_time": 1746703282,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15147,
       "num": 261409,
       "word": "AI教的理财方法是否科学",
@@ -3649,14 +3753,6 @@
       "onboard_time": 1746692482,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 7328,
-      "num": 165487,
-      "word": "超市咸菜公筷使用规则有哪些",
-      "onboard_time": 1746703282,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6643,
