@@ -1,0 +1,410 @@
+{
+  "runTime": 1746697283835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237622,
+        "num": 1237622,
+        "word": "淘宝免单 我们都一样",
+        "onboard_time": 1746692362,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1148149,
+        "num": 1148149,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36525,
+        "num": 778078,
+        "word": "一文带你了解俄罗斯",
+        "onboard_time": 1746695602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702217,
+        "num": 702217,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 694843,
+        "num": 694843,
+        "word": "韩国为柯洁事件改规则",
+        "onboard_time": 1746692003,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485186,
+        "num": 485186,
+        "word": "白鹿名牌变白梦妍",
+        "onboard_time": 1746687142,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407331,
+        "num": 407331,
+        "word": "boss直聘 秀恩爱",
+        "onboard_time": 1746689660,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382953,
+        "num": 382953,
+        "word": "四搭 王星越终于做白鹿的男主了",
+        "onboard_time": 1746695182,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541545,
+        "num": 378682,
+        "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
+        "onboard_time": 1746692722,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336995,
+        "num": 336995,
+        "word": "老人索要39万元带孙费被驳回",
+        "onboard_time": 1746691881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791130,
+        "num": 336914,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 10,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 35933,
+        "num": 332749,
+        "word": "用五月天的方式说爱你",
+        "onboard_time": 1746695062,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41846,
+        "num": 331099,
+        "word": "没有美国的全球化正在推进",
+        "onboard_time": 1746695602,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93849,
+        "num": 327310,
+        "word": "印度掀桌子开了危险先例",
+        "onboard_time": 1746695962,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19994,
+        "num": 324038,
+        "word": "淘宝免单把AI都干冒烟",
+        "onboard_time": 1746694882,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 480047,
+        "num": 320098,
+        "word": "七位男alpha",
+        "onboard_time": 1746694582,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368030,
+        "num": 317453,
+        "word": "大妈走路突然转身撞到男子获赔7万",
+        "onboard_time": 1746690382,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197031,
+        "num": 314819,
+        "word": "甘肃杂交羊肉为啥好吃不膻",
+        "onboard_time": 1746695182,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314174,
+        "num": 314174,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61301,
+        "num": 305551,
+        "word": "公司回应教室打死流浪狗保安已开除",
+        "onboard_time": 1746696142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466663,
+        "num": 305438,
+        "word": "上海交大一博士生举报教授学术霸凌",
+        "onboard_time": 1746687982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303719,
+        "num": 303719,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 297694,
+        "num": 297694,
+        "word": "淘宝免单 120",
+        "onboard_time": 1746688222,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252705,
+        "num": 252705,
+        "word": "多名毕业生论文致谢樊振东",
+        "onboard_time": 1746695481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159510,
+        "num": 248663,
+        "word": "2025高考30天倒计时",
+        "onboard_time": 1746696802,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245463,
+        "num": 245463,
+        "word": "国防部奉劝有关国家不要引狼入室",
+        "onboard_time": 1746689899,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159343,
+        "num": 241317,
+        "word": "比亚迪海狮07DMI强到起飞",
+        "onboard_time": 1746695001,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181796,
+        "num": 240585,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240320,
+        "num": 240320,
+        "word": "印防长称印军创造了新历史",
+        "onboard_time": 1746694941,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 79457,
+        "num": 226687,
+        "word": "巴民众拍到VT坦克向边境集结",
+        "onboard_time": 1746695481,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 225762,
+        "num": 225762,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223003,
+        "num": 223003,
+        "word": "陈都灵方回应番位问题",
+        "onboard_time": 1746694463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212128,
+        "num": 212128,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 32,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 204633,
+        "num": 204633,
+        "word": "迪丽热巴被吓到跳起来",
+        "onboard_time": 1746696203,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201062,
+        "num": 201062,
+        "word": "印巴",
+        "onboard_time": 1746696921,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196324,
+        "num": 196324,
+        "word": "宋妍霏浓颜拍撕拉片就是爽",
+        "onboard_time": 1746696921,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33353,
+        "num": 194583,
+        "word": "怎样认识印度这个国家",
+        "onboard_time": 1746696142,
+        "rank": 36,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 30309,
+        "num": 194220,
+        "word": "找到督促自己运动的理由了",
+        "onboard_time": 1746694941,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 41461,
+        "num": 190856,
+        "word": "马来西亚九成医生是低收入群体",
+        "onboard_time": 1746694941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 190029,
+        "word": "加法交换律的底层逻辑",
+        "onboard_time": 1746695662,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 185512,
+        "num": 186795,
+        "word": "西安碑林博物馆门票从10元涨到85元",
+        "onboard_time": 1746694821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186134,
+        "num": 186134,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171155,
+        "num": 171155,
+        "word": "杭州奶茶店员一天连做千杯奶茶",
+        "onboard_time": 1746696681,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166913,
+        "num": 166913,
+        "word": "马嘉祺紧急撤回一个擦汗",
+        "onboard_time": 1746691523,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "SMTOWN开通中国专属账号",
+        "onboard_time": 1746697223,
+        "rank": 44,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 158640,
+        "num": 158640,
+        "word": "这就是街舞",
+        "onboard_time": 1746687081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156958,
+        "num": 156958,
+        "word": "中方将同俄方一道挺膺担当",
+        "onboard_time": 1746696503,
+        "rank": 46,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 150624,
+        "word": "A股",
+        "onboard_time": 1746693981,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29646,
+        "num": 149037,
+        "word": "上门做饭服务为何能在短时间内成为高收入职业",
+        "onboard_time": 1746696142,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 147973,
+        "num": 147973,
+        "word": "刘德华 还想生啊",
+        "onboard_time": 1746688702,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}
