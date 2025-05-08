@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746736938020,
+  "endTime": 1746739448713,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21747,
+      "num": 21747,
+      "word": "曝特朗普将宣布与英国的贸易协议",
+      "onboard_time": 1746735854,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21706,
       "num": 30104,
       "word": "朴彩英新歌Messy",
@@ -571,27 +579,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14951,
+      "num": 17680,
+      "word": "外交部回应菲美澳南海联合巡航炒作",
+      "onboard_time": 1746734534,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13138,
       "num": 37884,
       "word": "商务部召开发布会回应近期热点",
       "onboard_time": 1746727995,
       "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12521,
-      "num": 16209,
-      "word": "曝特朗普将宣布与英国的贸易协议",
-      "onboard_time": 1746735854,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12451,
-      "num": 17680,
-      "word": "外交部回应菲美澳南海联合巡航炒作",
-      "onboard_time": 1746734534,
-      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -608,6 +608,14 @@
       "word": "中俄要继续坚定站在一起",
       "onboard_time": 1746733454,
       "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10601,
+      "num": 40475,
+      "word": "两个生动比喻见证中俄人民情谊",
+      "onboard_time": 1746738734,
+      "rank": 9,
       "category": "国内时政"
     }
   ],
