@@ -1,0 +1,410 @@
+{
+  "runTime": 1746708655299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100099,
+        "num": 1176015,
+        "word": "首批加征145%关税货物轮船抵美",
+        "onboard_time": 1746705382,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1231067,
+        "num": 1073321,
+        "word": "西安冰雹",
+        "onboard_time": 1746705382,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45500,
+        "num": 863919,
+        "word": "一文带你了解俄罗斯",
+        "onboard_time": 1746695602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783646,
+        "num": 783646,
+        "word": "郑丹妮退团",
+        "onboard_time": 1746703102,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578833,
+        "num": 578833,
+        "word": "孙燕姿北京演唱会抢票",
+        "onboard_time": 1746706943,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 577500,
+        "num": 577500,
+        "word": "中俄签署联合声明",
+        "onboard_time": 1746705681,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528867,
+        "num": 528867,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432565,
+        "num": 432565,
+        "word": "曝歌手2025首发阵容",
+        "onboard_time": 1746701721,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21354,
+        "num": 432417,
+        "word": "一揽子金融政策传递哪些重要信号",
+        "onboard_time": 1746694642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178159,
+        "num": 431468,
+        "word": "美国港口一片冷清",
+        "onboard_time": 1746708023,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2250562,
+        "num": 431077,
+        "word": "儿子高烧不退查出白血病妈妈一夜白头",
+        "onboard_time": 1746706462,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964553,
+        "num": 430729,
+        "word": "赵丽颖说换发色是换个心情",
+        "onboard_time": 1746706221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780726,
+        "num": 430251,
+        "word": "赵丽颖粉发白裙",
+        "onboard_time": 1746702743,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578072,
+        "num": 429461,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 13,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 17185,
+        "num": 429129,
+        "word": "北方最大游戏动漫展圆满收官",
+        "onboard_time": 1746705681,
+        "rank": 14,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 708666,
+        "num": 428332,
+        "word": "演员熊乃槿为小猫悟空发声",
+        "onboard_time": 1746703222,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346021,
+        "num": 427849,
+        "word": "孙颖莎王楚钦世乒赛混双搭档",
+        "onboard_time": 1746705023,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221459,
+        "num": 427339,
+        "word": "联想发布天禧和想帮帮两款智能体",
+        "onboard_time": 1746707602,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39046,
+        "num": 426769,
+        "word": "电视剧开端登上俄罗斯荧屏",
+        "onboard_time": 1746707963,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446590,
+        "num": 426308,
+        "word": "田小娟金发寸头",
+        "onboard_time": 1746704181,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425834,
+        "num": 425834,
+        "word": "水饺皇后为什么可惜了",
+        "onboard_time": 1746705801,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414218,
+        "num": 414218,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 411118,
+        "num": 411118,
+        "word": "印度大坝已打开两道闸门",
+        "onboard_time": 1746700762,
+        "rank": 22,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 153065,
+        "num": 333782,
+        "word": "李昊直播",
+        "onboard_time": 1746704781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170138,
+        "num": 329966,
+        "word": "世乒赛首日国乒赛程",
+        "onboard_time": 1746706641,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327308,
+        "num": 327308,
+        "word": "金价突然跳水",
+        "onboard_time": 1746706822,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296813,
+        "num": 296813,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228641,
+        "num": 295118,
+        "word": "BLACKPINK抢票",
+        "onboard_time": 1746706462,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293988,
+        "num": 293988,
+        "word": "博士生实名举报教授贴文已不可见",
+        "onboard_time": 1746699443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27472,
+        "num": 292657,
+        "word": "北京迎中到大雨局地暴雨",
+        "onboard_time": 1746707602,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291979,
+        "num": 291979,
+        "word": "王楚钦在路边摸蛇",
+        "onboard_time": 1746708023,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242813,
+        "num": 242813,
+        "word": "迪丽热巴快急哭了",
+        "onboard_time": 1746707302,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228409,
+        "num": 228409,
+        "word": "丁禹兮直播做饭人夫感",
+        "onboard_time": 1746706221,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210487,
+        "num": 210487,
+        "word": "老师我家迪丽热巴可以做童模吗",
+        "onboard_time": 1746703703,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207693,
+        "num": 207693,
+        "word": "王楚钦感谢爸爸妈妈一路支持",
+        "onboard_time": 1746703763,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200514,
+        "num": 200514,
+        "word": "理想汽车发布会",
+        "onboard_time": 1746707963,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194750,
+        "num": 194750,
+        "word": "成毅权谋味太浓了",
+        "onboard_time": 1746704542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190899,
+        "num": 190899,
+        "word": "印巴之间可能随时爆发核战争",
+        "onboard_time": 1746706341,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39514,
+        "num": 185162,
+        "word": "巴方确认击落五架印度战机",
+        "onboard_time": 1746707302,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30766,
+        "num": 182944,
+        "word": "印度为什么能拿捏巴基斯坦的命脉",
+        "onboard_time": 1746707483,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182283,
+        "num": 182283,
+        "word": "王宝强四十岁这状态叫欠佳那我算啥",
+        "onboard_time": 1746698002,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 181618,
+        "word": "印巴军力全面对比",
+        "onboard_time": 1746705742,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175726,
+        "num": 175726,
+        "word": "气血不足的人外表有4个特点",
+        "onboard_time": 1746707243,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174643,
+        "num": 174643,
+        "word": "竹业 亡妻回忆录",
+        "onboard_time": 1746704480,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164809,
+        "num": 164809,
+        "word": "优酷押宝肖战双剧",
+        "onboard_time": 1746698840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150422,
+        "num": 150422,
+        "word": "大妈走路突然转身撞到男子获赔7万",
+        "onboard_time": 1746690382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150265,
+        "num": 150265,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149261,
+        "num": 149261,
+        "word": "伪装者十年后正午阳光再拍谍战剧",
+        "onboard_time": 1746707843,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129457,
+        "num": 129457,
+        "word": "工行回应网友买到掺假金条",
+        "onboard_time": 1746703402,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 138169,
+        "num": 129285,
+        "word": "京东外卖多家品质堂食店被曝造假",
+        "onboard_time": 1746705681,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}
