@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/09 00:32:36 ~ 2025/05/09 05:24:08
+本榜单时间：2025/05/09 00:32:36 ~ 2025/05/09 05:38:46
 </p>
 </blockquote>
 <p>
@@ -382,7 +382,7 @@ BLACKPINK抢票（热度：83225）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E4%B8%8E%E8%8B%B1%E5%9B%BD%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%23" target="weibo">
-曝特朗普将宣布与英国的贸易协议（热度：21747）
+曝特朗普将宣布与英国的贸易协议（热度：23212）
 </a>
 </li>
 
@@ -453,6 +453,12 @@ BLACKPINK抢票（热度：83225）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E7%94%9F%E5%8A%A8%E6%AF%94%E5%96%BB%E8%A7%81%E8%AF%81%E4%B8%AD%E4%BF%84%E4%BA%BA%E6%B0%91%E6%83%85%E8%B0%8A%23" target="weibo">
+两个生动比喻见证中俄人民情谊（热度：13990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%8A%A1%E9%83%A8%E5%8F%AC%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E7%83%AD%E7%82%B9%23" target="weibo">
 商务部召开发布会回应近期热点（热度：13138）
 </a>
@@ -471,8 +477,8 @@ BLACKPINK抢票（热度：83225）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E7%94%9F%E5%8A%A8%E6%AF%94%E5%96%BB%E8%A7%81%E8%AF%81%E4%B8%AD%E4%BF%84%E4%BA%BA%E6%B0%91%E6%83%85%E8%B0%8A%23" target="weibo">
-两个生动比喻见证中俄人民情谊（热度：10601）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E6%98%AF%E5%B1%B1%E6%B0%B4%E7%9B%B8%E8%BF%9E%E7%9A%84%E5%8F%8B%E5%A5%BD%E9%82%BB%E9%82%A6%E6%9B%B4%E6%98%AF%E7%99%BE%E7%82%BC%E6%88%90%E9%92%A2%E7%9A%84%E7%9C%9F%E5%BF%83%E6%9C%8B%E5%8F%8B%23" target="weibo">
+中俄是山水相连的友好邻邦更是百炼成钢的真心朋友（热度：10919）
 </a>
 </li>
 
