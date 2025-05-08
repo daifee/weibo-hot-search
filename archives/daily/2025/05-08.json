@@ -1,7 +1,31 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746661196987,
+  "endTime": 1746669491328,
   "band_list": [
+    {
+      "raw_hot": 1279383,
+      "num": 1279383,
+      "word": "淘宝免单答案清一色",
+      "onboard_time": 1746665071,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1144945,
+      "num": 335463,
+      "word": "印巴125架战机激战1小时",
+      "onboard_time": 1746666691,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1058186,
+      "num": 335402,
+      "word": "杜淳妻子发长文给未婚女生十点建议",
+      "onboard_time": 1746665071,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1046925,
       "num": 1046925,
@@ -17,6 +41,14 @@
       "onboard_time": 1746642794,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 872767,
+      "num": 497276,
+      "word": "团队曝异瞳少年治沙为摆拍",
+      "onboard_time": 1746662841,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 816196,
@@ -51,6 +83,38 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 663162,
+      "num": 663162,
+      "word": "全红婵家新房盖好可拎包入住",
+      "onboard_time": 1746665552,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 611188,
+      "num": 335360,
+      "word": "悟空",
+      "onboard_time": 1746667950,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 578990,
+      "num": 578990,
+      "word": "泡泡玛特股份被创始股东高位清仓",
+      "onboard_time": 1746661280,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 521925,
+      "num": 521925,
+      "word": "中央气象台连发3预警",
+      "onboard_time": 1746664891,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470055,
       "num": 364140,
       "word": "巴总理拍桌称有实力还有核武器",
@@ -67,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432639,
+      "num": 432639,
+      "word": "特朗普将宣布波斯湾改称阿拉伯湾",
+      "onboard_time": 1746662241,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 377619,
       "num": 386353,
       "word": "直播间卖土鸡结果土是商标名",
@@ -81,6 +153,14 @@
       "onboard_time": 1746660140,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 357578,
+      "num": 357578,
+      "word": "小女孩拿自家金饰去卖老板直接扣下",
+      "onboard_time": 1746660740,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344869,
@@ -107,6 +187,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335524,
+      "num": 335524,
+      "word": "谍战上不封顶 周冬雨",
+      "onboard_time": 1746668130,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 312031,
+      "num": 312031,
+      "word": "男子辞职照顾2岁妈妈回应啃老质疑",
+      "onboard_time": 1746665552,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289966,
       "num": 230121,
       "word": "昀牵孟绕",
@@ -121,6 +217,30 @@
       "onboard_time": 1746632064,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265810,
+      "num": 265810,
+      "word": "女子吐槽半个玉米扣蛋挞上50元",
+      "onboard_time": 1746662902,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231352,
+      "num": 231352,
+      "word": "特朗普号召美国民众勒紧裤腰带",
+      "onboard_time": 1746662902,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 229421,
+      "num": 229421,
+      "word": "外国神秘大佬来北京吃火锅",
+      "onboard_time": 1746667529,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 226064,
@@ -155,6 +275,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213800,
+      "num": 335298,
+      "word": "美联储主席发布会提及关税超20次",
+      "onboard_time": 1746667710,
+      "rank": 13,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 205651,
+      "num": 205651,
+      "word": "女子上门做饭每天6单月薪近2万",
+      "onboard_time": 1746660740,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202467,
+      "num": 330358,
+      "word": "丁真说演十八铜人把自己害惨了",
+      "onboard_time": 1746632902,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184476,
       "num": 184476,
       "word": "孟子义丁禹兮吻戏",
@@ -163,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184100,
+      "num": 184100,
+      "word": "阳光灿烂的笑容有多治愈",
+      "onboard_time": 1746667529,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182349,
       "num": 182349,
       "word": "女子用公筷试吃超市咸菜后插回",
       "onboard_time": 1746616521,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181285,
+      "num": 181285,
+      "word": "小米SU7 Ultra量产版",
+      "onboard_time": 1746667590,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 178284,
@@ -227,12 +387,36 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 151723,
+      "num": 319037,
+      "word": "Bin霸气发言",
+      "onboard_time": 1746667590,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 150775,
+      "num": 313723,
+      "word": "国乒结束成都封训",
+      "onboard_time": 1746668370,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143813,
       "num": 143813,
       "word": "南大教授再回应陈丽君口误",
       "onboard_time": 1746632722,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142889,
+      "num": 142889,
+      "word": "体检报告出现这些词要当心",
+      "onboard_time": 1746664163,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 136720,
@@ -248,6 +432,22 @@
       "word": "福建8岁男童失联超72小时",
       "onboard_time": 1746626902,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136042,
+      "num": 136042,
+      "word": "乘务员错把酒当水倒给3岁小孩",
+      "onboard_time": 1746667769,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134954,
+      "num": 134954,
+      "word": "奈雪内部人士回应改名",
+      "onboard_time": 1746667769,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -267,20 +467,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129168,
-      "num": 143422,
-      "word": "丁真说演十八铜人把自己害惨了",
-      "onboard_time": 1746632902,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128994,
       "num": 128994,
       "word": "胡杏儿给你亿点来自港姐的震撼",
       "onboard_time": 1746630324,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128607,
+      "num": 335483,
+      "word": "北京公积金贷款利率下调",
+      "onboard_time": 1746668841,
+      "rank": 9,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 127668,
@@ -305,6 +505,22 @@
       "onboard_time": 1746630263,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120153,
+      "num": 120153,
+      "word": "印巴背后或涉及中美博弈",
+      "onboard_time": 1746663502,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 116332,
+      "num": 116332,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1746663202,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114521,
@@ -339,11 +555,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109922,
+      "num": 109922,
+      "word": "鲜枣的维C含量是苹果的近百倍",
+      "onboard_time": 1746667829,
+      "rank": 43,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 108559,
       "num": 108559,
       "word": "长光卫星回应悟空小猫最后影像",
       "onboard_time": 1746633261,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106027,
+      "num": 106027,
+      "word": "中国留学生在马来西亚遭绑架后获救",
+      "onboard_time": 1746667529,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -355,12 +587,60 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103176,
+      "num": 103176,
+      "word": "巴黎圣日耳曼2比1阿森纳",
+      "onboard_time": 1746661219,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102742,
+      "num": 219080,
+      "word": "李宏毅杨雨潼同框好养眼",
+      "onboard_time": 1746668660,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102539,
+      "num": 102539,
+      "word": "江苏将有8级以上阵风",
+      "onboard_time": 1746664891,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101959,
+      "num": 101959,
+      "word": "泡泡玛特大跌超5%",
+      "onboard_time": 1746668430,
+      "rank": 49,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 96332,
       "num": 96332,
       "word": "巴基斯坦将对印军入侵做出回应",
       "onboard_time": 1746650115,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95830,
+      "num": 104822,
+      "word": "羽毛球冠军刘毅想得到虞书欣的祝福",
+      "onboard_time": 1746666811,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 92147,
+      "num": 216467,
+      "word": "张艺兴曾发行名为酒的歌曲",
+      "onboard_time": 1746666752,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 91068,
@@ -419,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73163,
-      "num": 73163,
-      "word": "女子上门做饭每天6单月薪近2万",
-      "onboard_time": 1746660740,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72930,
       "num": 72930,
       "word": "女教师抗癌7年离世成大体老师",
@@ -457,14 +729,6 @@
       "onboard_time": 1746630683,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65636,
-      "num": 65636,
-      "word": "小女孩拿自家金饰去卖老板直接扣下",
-      "onboard_time": 1746660740,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64967,
@@ -587,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34618,
+      "num": 216249,
+      "word": "金价返涨",
+      "onboard_time": 1746661581,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33563,
       "num": 110899,
       "word": "普京称胜利日停火已开始生效",
@@ -633,6 +905,14 @@
       "onboard_time": 1746641594,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22019,
+      "num": 182648,
+      "word": "布云朝克特0比2达尔德里",
+      "onboard_time": 1746668310,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 20599,
@@ -767,6 +1047,9 @@
     },
     {
       "word": "#中俄元首继续引领两国关系登高望远#"
+    },
+    {
+      "word": "#中俄关系不断焕发新活力#"
     }
   ]
 }
