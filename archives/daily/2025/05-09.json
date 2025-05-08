@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746730143866,
+  "endTime": 1746732091391,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -475,20 +475,20 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 29521,
+      "num": 38703,
+      "word": "终于有剧拍出怎么回60秒长语音了",
+      "onboard_time": 1746727155,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29227,
       "num": 32885,
       "word": "优酷纪录片2025片单",
       "onboard_time": 1746725955,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24784,
-      "num": 31178,
-      "word": "终于有剧拍出怎么回60秒长语音了",
-      "onboard_time": 1746727155,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 21706,
@@ -531,12 +531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17139,
+      "num": 22204,
+      "word": "中俄元首共见记者",
+      "onboard_time": 1746727875,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15029,
       "num": 96760,
       "word": "另一方婚外情该如何保护自己权益",
       "onboard_time": 1746720201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14033,
+      "num": 38655,
+      "word": "美考虑豁免婴幼儿用品关税",
+      "onboard_time": 1746731534,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13138,
