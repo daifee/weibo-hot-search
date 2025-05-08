@@ -1,0 +1,410 @@
+{
+  "runTime": 1746703313473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957925,
+        "num": 1153268,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687586,
+        "num": 687586,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48752,
+        "num": 586794,
+        "word": "一文带你了解俄罗斯",
+        "onboard_time": 1746695602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 585314,
+        "num": 585314,
+        "word": "博士生实名举报教授贴文已不可见",
+        "onboard_time": 1746699443,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511941,
+        "num": 511941,
+        "word": "歌手2025",
+        "onboard_time": 1746697761,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447639,
+        "num": 447639,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418637,
+        "num": 418637,
+        "word": "马嘉祺报名歌手揭榜",
+        "onboard_time": 1746697761,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400165,
+        "num": 400165,
+        "word": "网友称在银行买到掺假金条",
+        "onboard_time": 1746698422,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20945,
+        "num": 391257,
+        "word": "一揽子金融政策传递哪些重要信号",
+        "onboard_time": 1746694642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391235,
+        "num": 391235,
+        "word": "优酷押宝肖战双剧",
+        "onboard_time": 1746698840,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 785450,
+        "num": 383591,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 10,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 590444,
+        "num": 372551,
+        "word": "王宝强四十岁这状态叫欠佳那我算啥",
+        "onboard_time": 1746698002,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548834,
+        "num": 371293,
+        "word": "印度大坝已打开两道闸门",
+        "onboard_time": 1746700762,
+        "rank": 12,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 353594,
+        "num": 353594,
+        "word": "大妈走路突然转身撞到男子获赔7万",
+        "onboard_time": 1746690382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56727,
+        "num": 350948,
+        "word": "甘肃杂交羊肉为啥好吃不膻",
+        "onboard_time": 1746702080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349644,
+        "num": 349644,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315960,
+        "num": 315960,
+        "word": "曝歌手2025首发阵容",
+        "onboard_time": 1746701721,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246323,
+        "num": 274243,
+        "word": "我使馆建议在苏中国公民尽快撤离",
+        "onboard_time": 1746701302,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264691,
+        "num": 264691,
+        "word": "于适陈都灵同框",
+        "onboard_time": 1746701962,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15147,
+        "num": 261409,
+        "word": "AI教的理财方法是否科学",
+        "onboard_time": 1746702201,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306554,
+        "num": 261243,
+        "word": "赵丽颖粉发白裙",
+        "onboard_time": 1746702743,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66492,
+        "num": 261109,
+        "word": "养殖场给活牛注水输送厦门岛内",
+        "onboard_time": 1746701421,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260988,
+        "num": 260988,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255528,
+        "num": 255528,
+        "word": "假装领导帮买房办编制诈骗721万",
+        "onboard_time": 1746701122,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236641,
+        "num": 241435,
+        "word": "暖暖Nikki达成100万关注",
+        "onboard_time": 1746700461,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237296,
+        "num": 237296,
+        "word": "韩国为柯洁事件改规则",
+        "onboard_time": 1746692003,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216948,
+        "num": 216948,
+        "word": "丁禹兮孟子义 接二搭",
+        "onboard_time": 1746702080,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72923,
+        "num": 208344,
+        "word": "赵心童落地深圳了",
+        "onboard_time": 1746703041,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108624,
+        "num": 205338,
+        "word": "成都一苗圃遭组团挖花损失几百万",
+        "onboard_time": 1746702560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53820,
+        "num": 204322,
+        "word": "印占克什米尔发现坠毁战机弹射座椅",
+        "onboard_time": 1746701782,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 203737,
+        "num": 203737,
+        "word": "淘宝免单 我们都一样",
+        "onboard_time": 1746692362,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188329,
+        "num": 188329,
+        "word": "郑丹妮退团",
+        "onboard_time": 1746703102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 187920,
+        "word": "印巴",
+        "onboard_time": 1746696921,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180585,
+        "num": 180585,
+        "word": "boss直聘 秀恩爱",
+        "onboard_time": 1746689660,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "关晓彤续上四宫格",
+        "onboard_time": 1746702922,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168256,
+        "num": 168256,
+        "word": "虞书欣用了站姐图",
+        "onboard_time": 1746700882,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167764,
+        "num": 167764,
+        "word": "印防长称印军创造了新历史",
+        "onboard_time": 1746694941,
+        "rank": 36,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 7328,
+        "num": 165487,
+        "word": "超市咸菜公筷使用规则有哪些",
+        "onboard_time": 1746703282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165156,
+        "num": 165156,
+        "word": "周柯宇对迪丽热巴说踩我",
+        "onboard_time": 1746699081,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153523,
+        "num": 153523,
+        "word": "巴基斯坦称击落超25架印度无人机",
+        "onboard_time": 1746697462,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98826,
+        "num": 145538,
+        "word": "演员熊乃槿为小猫悟空发声",
+        "onboard_time": 1746703222,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139825,
+        "num": 139825,
+        "word": "原来吃水果真能缓解焦虑",
+        "onboard_time": 1746698901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265949,
+        "num": 139359,
+        "word": "白鹿名牌变白梦妍",
+        "onboard_time": 1746687142,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138583,
+        "num": 138583,
+        "word": "四搭 王星越终于做白鹿的男主了",
+        "onboard_time": 1746695182,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133518,
+        "num": 133518,
+        "word": "印度被关闭的水坝重新开闸放水",
+        "onboard_time": 1746702201,
+        "rank": 44,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 131776,
+        "num": 131776,
+        "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
+        "onboard_time": 1746692722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 128579,
+        "word": "IU进入百想艺术大赏大赏二轮候补",
+        "onboard_time": 1746699502,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123933,
+        "num": 123933,
+        "word": "金靖女明星和张凌赫保镖",
+        "onboard_time": 1746699141,
+        "rank": 47,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 79021,
+        "num": 119825,
+        "word": "男子偷寺庙60公斤佛像回家供奉",
+        "onboard_time": 1746701302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118964,
+        "num": 118964,
+        "word": "刘德华 还想生啊",
+        "onboard_time": 1746688702,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}

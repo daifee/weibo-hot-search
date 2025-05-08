@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746701123035,
+  "endTime": 1746703313473,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -3163,6 +3163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 590444,
+      "num": 377485,
+      "word": "王宝强四十岁这状态叫欠佳那我算啥",
+      "onboard_time": 1746698002,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589847,
       "num": 457240,
       "word": "赵露思七分钟演出",
@@ -3208,6 +3216,14 @@
       "word": "董某某事件背后有没有大鱼",
       "onboard_time": 1746026663,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585314,
+      "num": 585314,
+      "word": "博士生实名举报教授贴文已不可见",
+      "onboard_time": 1746699443,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3457,6 +3473,14 @@
       "onboard_time": 1746539603,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 548834,
+      "num": 371293,
+      "word": "印度大坝已打开两道闸门",
+      "onboard_time": 1746700762,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 548617,
@@ -3793,14 +3817,6 @@
       "onboard_time": 1746497120,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513693,
-      "num": 377485,
-      "word": "王宝强四十岁这状态叫欠佳那我算啥",
-      "onboard_time": 1746698002,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 512125,
@@ -5083,6 +5099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400165,
+      "num": 400165,
+      "word": "网友称在银行买到掺假金条",
+      "onboard_time": 1746698422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399049,
       "num": 399049,
       "word": "idle预告 抄袭",
@@ -5209,6 +5233,14 @@
       "onboard_time": 1746345562,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391235,
+      "num": 391235,
+      "word": "优酷押宝肖战双剧",
+      "onboard_time": 1746698840,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 391153,
@@ -5739,14 +5771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356027,
-      "num": 378111,
-      "word": "网友称在银行买到掺假金条",
-      "onboard_time": 1746698422,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352550,
       "num": 352550,
       "word": "全红婵收获全场首个10分",
@@ -5801,6 +5825,14 @@
       "onboard_time": 1746422901,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349644,
+      "num": 349644,
+      "word": "孟子义输的液都是冰美式",
+      "onboard_time": 1746695782,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 349306,
@@ -6009,14 +6041,6 @@
       "onboard_time": 1746582082,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 340237,
-      "num": 340237,
-      "word": "孟子义输的液都是冰美式",
-      "onboard_time": 1746695782,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 340159,
@@ -6451,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315960,
+      "num": 315960,
+      "word": "曝歌手2025首发阵容",
+      "onboard_time": 1746701721,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315592,
       "num": 278895,
       "word": "戚薇恭喜卢靖姗韩庚",
@@ -6665,6 +6697,14 @@
       "onboard_time": 1746506304,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306554,
+      "num": 261243,
+      "word": "赵丽颖粉发白裙",
+      "onboard_time": 1746702743,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306092,
@@ -7675,6 +7715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264691,
+      "num": 264691,
+      "word": "于适陈都灵同框",
+      "onboard_time": 1746701962,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 264654,
       "num": 264654,
       "word": "中医给鼻炎患者的建议",
@@ -7827,14 +7875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 260236,
-      "num": 260236,
-      "word": "优酷押宝肖战双剧",
-      "onboard_time": 1746698840,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260226,
       "num": 181477,
       "word": "只有真正离职后才明白的5件事",
@@ -7985,6 +8025,14 @@
       "onboard_time": 1746623783,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255528,
+      "num": 255528,
+      "word": "假装领导帮买房办编制诈骗721万",
+      "onboard_time": 1746701122,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255495,
@@ -8339,6 +8387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246323,
+      "num": 274243,
+      "word": "我使馆建议在苏中国公民尽快撤离",
+      "onboard_time": 1746701302,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246317,
       "num": 188806,
       "word": "沈马cp粉",
@@ -8609,6 +8665,14 @@
       "onboard_time": 1746609802,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236641,
+      "num": 241435,
+      "word": "暖暖Nikki达成100万关注",
+      "onboard_time": 1746700461,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 236530,
@@ -9203,14 +9267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220923,
-      "num": 199473,
-      "word": "暖暖Nikki达成100万关注",
-      "onboard_time": 1746700461,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 220675,
       "num": 228579,
       "word": "许嵩 可是他叫我小哥哥诶",
@@ -9384,6 +9440,14 @@
       "word": "苦尽柑来遇见你 剧带人",
       "onboard_time": 1746513200,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216948,
+      "num": 216948,
+      "word": "丁禹兮孟子义 接二搭",
+      "onboard_time": 1746702080,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -10003,14 +10067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206511,
-      "num": 417873,
-      "word": "博士生实名举报教授贴文已不可见",
-      "onboard_time": 1746699443,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206479,
       "num": 257165,
       "word": "太好了是李昀锐夏天有救了",
@@ -10556,7 +10612,7 @@
     },
     {
       "raw_hot": 201199,
-      "num": 336482,
+      "num": 350948,
       "word": "甘肃杂交羊肉为啥好吃不膻",
       "onboard_time": 1746695182,
       "rank": 15,
@@ -12203,6 +12259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188329,
+      "num": 188329,
+      "word": "郑丹妮退团",
+      "onboard_time": 1746703102,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188294,
       "num": 188294,
       "word": "严浩翔掌声响起来",
@@ -12945,6 +13009,14 @@
       "onboard_time": 1746452244,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180280,
+      "num": 180280,
+      "word": "关晓彤续上四宫格",
+      "onboard_time": 1746702922,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180195,
@@ -13985,6 +14057,14 @@
       "onboard_time": 1746244220,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168256,
+      "num": 168256,
+      "word": "虞书欣用了站姐图",
+      "onboard_time": 1746700882,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 168225,
@@ -16169,14 +16249,6 @@
       "onboard_time": 1746668370,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150771,
-      "num": 150771,
-      "word": "虞书欣用了站姐图",
-      "onboard_time": 1746700882,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 150664,
@@ -18465,6 +18537,14 @@
       "onboard_time": 1746629123,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133518,
+      "num": 133518,
+      "word": "印度被关闭的水坝重新开闸放水",
+      "onboard_time": 1746702201,
+      "rank": 44,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 133514,
@@ -21683,6 +21763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108624,
+      "num": 205338,
+      "word": "成都一苗圃遭组团挖花损失几百万",
+      "onboard_time": 1746702560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108559,
       "num": 108559,
       "word": "长光卫星回应悟空小猫最后影像",
@@ -22705,6 +22793,14 @@
       "onboard_time": 1746340040,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98826,
+      "num": 145538,
+      "word": "演员熊乃槿为小猫悟空发声",
+      "onboard_time": 1746703222,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 98808,
@@ -24075,6 +24171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79021,
+      "num": 119825,
+      "word": "男子偷寺庙60公斤佛像回家供奉",
+      "onboard_time": 1746701302,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78855,
       "num": 253695,
       "word": "金价跌破千元大关",
@@ -24475,6 +24579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 72923,
+      "num": 208344,
+      "word": "赵心童落地深圳了",
+      "onboard_time": 1746703041,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72868,
       "num": 72868,
       "word": "在宠物店工作真的很容易爱上客人",
@@ -24817,6 +24929,14 @@
       "onboard_time": 1746531261,
       "rank": 20,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 66492,
+      "num": 261109,
+      "word": "养殖场给活牛注水输送厦门岛内",
+      "onboard_time": 1746701421,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66322,
@@ -25705,6 +25825,14 @@
       "onboard_time": 1746195391,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53820,
+      "num": 204322,
+      "word": "印占克什米尔发现坠毁战机弹射座椅",
+      "onboard_time": 1746701782,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 53663,
@@ -29083,6 +29211,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 15147,
+      "num": 261409,
+      "word": "AI教的理财方法是否科学",
+      "onboard_time": 1746702201,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15131,
       "num": 70610,
       "word": "四川达州一小型汽车坠河致1人死亡",
@@ -29201,14 +29337,6 @@
       "onboard_time": 1746099261,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14298,
-      "num": 199907,
-      "word": "印度大坝已打开两道闸门",
-      "onboard_time": 1746700762,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 14289,
@@ -29777,6 +29905,14 @@
       "onboard_time": 1746066080,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7328,
+      "num": 165487,
+      "word": "超市咸菜公筷使用规则有哪些",
+      "onboard_time": 1746703282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7057,
