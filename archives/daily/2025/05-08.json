@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746689986824,
+  "endTime": 1746693201549,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1790046,
+      "num": 1790046,
+      "word": "淘宝免单 我们都一样",
+      "onboard_time": 1746692362,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1713600,
-      "num": 954097,
+      "num": 1019017,
       "word": "日本地铁出现随机杀人事件",
       "onboard_time": 1746685102,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1454802,
+      "num": 1454802,
+      "word": "boss直聘 秀恩爱",
+      "onboard_time": 1746689660,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1420210,
@@ -41,6 +57,14 @@
       "onboard_time": 1746667950,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1397860,
+      "num": 1397860,
+      "word": "敢偷中国人的手机你是疯了吧",
+      "onboard_time": 1746687442,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1313401,
@@ -75,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1108686,
+      "num": 1019342,
+      "word": "被资本做局了",
+      "onboard_time": 1746690022,
+      "rank": 10,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 1058186,
       "num": 552662,
       "word": "杜淳妻子发长文给未婚女生十点建议",
@@ -99,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1019632,
+      "num": 1019632,
+      "word": "上海交大一博士生举报教授学术霸凌",
+      "onboard_time": 1746687982,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1013286,
       "num": 1013286,
       "word": "印巴局势再升级",
@@ -107,20 +147,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1012337,
-      "num": 1161973,
-      "word": "敢偷中国人的手机你是疯了吧",
-      "onboard_time": 1746687442,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1002301,
       "num": 1156078,
       "word": "白鹿名牌变白梦妍",
       "onboard_time": 1746687142,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 941733,
+      "num": 941733,
+      "word": "淘宝免单 120",
+      "onboard_time": 1746688222,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 932994,
@@ -275,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 508056,
+      "num": 1621195,
+      "word": "国防部奉劝有关国家不要引狼入室",
+      "onboard_time": 1746689899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 504456,
       "num": 489054,
       "word": "王星越新剧阴湿味好冲",
@@ -379,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403036,
+      "num": 403036,
+      "word": "淘宝免单 虎扑",
+      "onboard_time": 1746688282,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 393195,
       "num": 602073,
       "word": "南部战区发声",
@@ -419,14 +475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 372049,
-      "num": 640018,
-      "word": "上海交大一博士生举报教授学术霸凌",
-      "onboard_time": 1746687982,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 368240,
       "num": 368240,
       "word": "小女孩拿自家金饰去卖老板直接扣下",
@@ -444,7 +492,7 @@
     },
     {
       "raw_hot": 365684,
-      "num": 498369,
+      "num": 1019229,
       "word": "肖战新剧将登陆央视八套",
       "onboard_time": 1746679584,
       "rank": 6,
@@ -475,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347973,
+      "num": 347973,
+      "word": "大妈走路突然转身撞到男子获赔7万",
+      "onboard_time": 1746690382,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344869,
       "num": 265799,
       "word": "王昶24岁生日照",
@@ -497,14 +553,6 @@
       "onboard_time": 1746629784,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 342905,
-      "num": 342905,
-      "word": "淘宝免单 120",
-      "onboard_time": 1746688222,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 340836,
@@ -532,19 +580,11 @@
     },
     {
       "raw_hot": 322428,
-      "num": 584631,
+      "num": 1019168,
       "word": "刘耀文外务常驻新综",
       "onboard_time": 1746687682,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321783,
-      "num": 321783,
-      "word": "淘宝免单 虎扑",
-      "onboard_time": 1746688282,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 308477,
@@ -555,8 +595,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302437,
+      "num": 302437,
+      "word": "淘宝免单",
+      "onboard_time": 1746580521,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 301143,
-      "num": 301143,
+      "num": 1019456,
       "word": "这就是街舞",
       "onboard_time": 1746687081,
       "rank": 23,
@@ -569,6 +617,14 @@
       "onboard_time": 1746679462,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294365,
+      "num": 1019520,
+      "word": "医生高铁上救人后反被要求登记信息",
+      "onboard_time": 1746689302,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289966,
@@ -619,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272009,
-      "num": 224064,
-      "word": "boss直聘 秀恩爱",
-      "onboard_time": 1746689660,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266410,
       "num": 229343,
       "word": "周柯宇 战至巅峰",
@@ -659,6 +707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 254373,
+      "num": 967573,
+      "word": "老人索要39万元带孙费被驳回",
+      "onboard_time": 1746691881,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254322,
       "num": 291246,
       "word": "母爱支撑孙颖莎梦想飞翔",
@@ -681,6 +737,14 @@
       "onboard_time": 1746678442,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249346,
+      "num": 249346,
+      "word": "杜华身上痒就去洗澡",
+      "onboard_time": 1746689483,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 247439,
@@ -713,6 +777,14 @@
       "onboard_time": 1746672500,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234012,
+      "num": 234012,
+      "word": "重庆大学回应本科生发14篇SCI论文",
+      "onboard_time": 1746687862,
+      "rank": 31,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 231352,
@@ -795,12 +867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216826,
-      "num": 216826,
-      "word": "重庆大学回应本科生发14篇SCI论文",
-      "onboard_time": 1746687862,
-      "rank": 31,
-      "category": "民生新闻,教育"
+      "raw_hot": 219549,
+      "num": 219549,
+      "word": "李武军镜头下的孙颖莎",
+      "onboard_time": 1746692901,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 216748,
@@ -841,6 +913,14 @@
       "onboard_time": 1746680783,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213709,
+      "num": 286743,
+      "word": "韩国为柯洁事件改规则",
+      "onboard_time": 1746692003,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 212551,
@@ -939,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202351,
+      "num": 202351,
+      "word": "淘宝免单 12000",
+      "onboard_time": 1746692422,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201599,
       "num": 201599,
       "word": "第一次见用水送服用榴莲的",
@@ -979,6 +1067,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 199658,
+      "num": 199658,
+      "word": "蒋敦豪将演出收入捐赠给民勤种树",
+      "onboard_time": 1746692660,
+      "rank": 45,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 196900,
       "num": 150535,
       "word": "快1岁的妹猪竟然还没被卡住",
@@ -1011,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194739,
-      "num": 194739,
-      "word": "杜华身上痒就去洗澡",
-      "onboard_time": 1746689483,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 194140,
+      "num": 194140,
+      "word": "马嘉祺紧急撤回一个擦汗",
+      "onboard_time": 1746691523,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 194018,
@@ -1049,6 +1145,14 @@
       "onboard_time": 1746678623,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193266,
+      "num": 181726,
+      "word": "歼10C是怎么击杀印度阵风的",
+      "onboard_time": 1746688942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192015,
@@ -1460,7 +1564,7 @@
     },
     {
       "raw_hot": 156482,
-      "num": 156482,
+      "num": 226914,
       "word": "A股军工股全线爆发",
       "onboard_time": 1746689722,
       "rank": 46,
@@ -1795,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119032,
-      "num": 435777,
-      "word": "医生高铁上救人后反被要求登记信息",
-      "onboard_time": 1746689302,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116332,
       "num": 116332,
       "word": "易烊千玺网站更新",
@@ -1955,6 +2051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 86631,
+      "num": 1019123,
+      "word": "一线城市的2元面包店还能开多久",
+      "onboard_time": 1746691881,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86134,
       "num": 86134,
       "word": "巴军方获授权自主决定对印反击措施",
@@ -2083,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73412,
-      "num": 178990,
-      "word": "歼10C是怎么击杀印度阵风的",
-      "onboard_time": 1746688942,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73091,
       "num": 435582,
       "word": "巴基斯坦信德省卡拉奇发生爆炸",
@@ -2137,6 +2233,14 @@
       "onboard_time": 1746627622,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68269,
+      "num": 235525,
+      "word": "印巴冲突背后的大国博弈",
+      "onboard_time": 1746690862,
+      "rank": 33,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 67993,
@@ -2193,14 +2297,6 @@
       "onboard_time": 1746660019,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 61629,
-      "num": 179491,
-      "word": "国防部奉劝有关国家不要引狼入室",
-      "onboard_time": 1746689899,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61562,
@@ -2267,12 +2363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51817,
+      "num": 219899,
+      "word": "学习真的能让人长脑子",
+      "onboard_time": 1746690443,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 51578,
       "num": 133268,
       "word": "邻居装修水泥冲破墙把家淹了",
       "onboard_time": 1746684142,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51319,
+      "num": 1019023,
+      "word": "为了搞钱连冰箱贴都要靠抢的",
+      "onboard_time": 1746691281,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 51096,
@@ -2297,6 +2409,14 @@
       "onboard_time": 1746675802,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46803,
+      "num": 943197,
+      "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
+      "onboard_time": 1746692722,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45988,
@@ -2443,6 +2563,14 @@
       "category": "海外新闻,议题讨论"
     },
     {
+      "raw_hot": 29176,
+      "num": 273183,
+      "word": "阵风单价超2亿美元",
+      "onboard_time": 1746691342,
+      "rank": 29,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 28082,
       "num": 266768,
       "word": "上班付出的情绪劳动让人疲惫",
@@ -2464,6 +2592,14 @@
       "word": "特朗普为何帮忙解决印巴冲突",
       "onboard_time": 1746688942,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26732,
+      "num": 1019418,
+      "word": "三个维度解读本轮中美经贸谈判",
+      "onboard_time": 1746692122,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -2523,12 +2659,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 20843,
+      "num": 203503,
+      "word": "一个视频看懂种牙全过程",
+      "onboard_time": 1746690743,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20599,
       "num": 40390,
       "word": "外交部紧急提醒在印巴中国公民",
       "onboard_time": 1746646815,
       "rank": 32,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 20366,
+      "num": 1492965,
+      "word": "一组图看阅兵前夕的莫斯科",
+      "onboard_time": 1746677482,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20341,
@@ -2571,6 +2723,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17956,
+      "num": 280087,
+      "word": "景区陪爬能走向正规化吗",
+      "onboard_time": 1746691943,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17764,
       "num": 24530,
       "word": "AL对战BLG",
@@ -2579,12 +2739,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17619,
+      "num": 223350,
+      "word": "回忆一下雄鹰10联合训练",
+      "onboard_time": 1746692542,
+      "rank": 38,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 17545,
+      "num": 289431,
+      "word": "拥有自主军工体系有多么重要",
+      "onboard_time": 1746692482,
+      "rank": 26,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 16802,
       "num": 24531,
       "word": "苏丹的游戏",
       "onboard_time": 1746643575,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16795,
+      "num": 264388,
+      "word": "赵心童回国休整",
+      "onboard_time": 1746691943,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 14657,
@@ -2675,12 +2859,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8809,
+      "num": 225172,
+      "word": "认识自己比努力更重要",
+      "onboard_time": 1746693142,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 8364,
       "num": 270698,
       "word": "车企负债率应该如何解读",
       "onboard_time": 1746681622,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8250,
+      "num": 944879,
+      "word": "绝密较量里的步态识别有多厉害",
+      "onboard_time": 1746692482,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 6643,
