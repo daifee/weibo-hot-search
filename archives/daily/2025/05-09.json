@@ -1,17 +1,17 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746744137924,
+  "endTime": 1746746675475,
   "band_list": [
     {
       "raw_hot": 1455770,
-      "num": 144600,
+      "num": 205981,
       "word": "19岁的黄多多",
       "onboard_time": 1746719002,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 715221,
+      "raw_hot": 1073363,
       "num": 685268,
       "word": "新教皇",
       "onboard_time": 1746725176,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 657905,
-      "num": 143235,
+      "num": 205210,
       "word": "小英考虑让女儿出国留学",
       "onboard_time": 1746715644,
       "rank": 11,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 555848,
-      "num": 142701,
+      "num": 205465,
       "word": "重庆大学已成立专项工作组",
       "onboard_time": 1746712403,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464911,
+      "num": 796885,
+      "word": "巴基斯坦空军为何如此强悍",
+      "onboard_time": 1746718283,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 454626,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 443763,
-      "num": 141065,
+      "num": 204698,
       "word": "窦靖童 我承认我从小条件就好",
       "onboard_time": 1746715763,
       "rank": 13,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 382799,
-      "num": 136543,
+      "num": 200508,
       "word": "金价突然跳水",
       "onboard_time": 1746706822,
       "rank": 20,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 360995,
-      "num": 141061,
+      "num": 203120,
       "word": "儿子高烧不退查出白血病妈妈一夜白头",
       "onboard_time": 1746706462,
       "rank": 14,
@@ -91,11 +99,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315986,
-      "num": 498794,
-      "word": "巴基斯坦空军为何如此强悍",
-      "onboard_time": 1746718283,
-      "rank": 4,
+      "raw_hot": 319398,
+      "num": 201184,
+      "word": "3岁女童脱发眼神呆滞被查出铊中毒",
+      "onboard_time": 1746745579,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306039,
+      "num": 306039,
+      "word": "商务部回应美取消对华小额免税政策",
+      "onboard_time": 1746723318,
+      "rank": 6,
       "category": "国际时政"
     },
     {
@@ -115,12 +131,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287538,
+      "num": 203966,
+      "word": "金巧巧回应说不适合演农村人",
+      "onboard_time": 1746745699,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265809,
-      "num": 135324,
+      "num": 158734,
       "word": "生理性喜欢的最真实表现",
       "onboard_time": 1746712704,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235026,
+      "num": 203766,
+      "word": "首批加征145%关税货物轮船抵美",
+      "onboard_time": 1746705382,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 227345,
+      "num": 227345,
+      "word": "胖东来和田玉标注进货价和毛利",
+      "onboard_time": 1746718942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212156,
+      "num": 212156,
+      "word": "水饺皇后为什么可惜了",
+      "onboard_time": 1746705801,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206763,
+      "num": 206763,
+      "word": "印度开闸放水",
+      "onboard_time": 1746708802,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200870,
@@ -131,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200011,
+      "num": 200011,
+      "word": "舒淇说和冯德伦天天都是情人节",
+      "onboard_time": 1746717264,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193913,
       "num": 193913,
       "word": "伪装者十年后正午阳光再拍谍战剧",
       "onboard_time": 1746707843,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191569,
-      "num": 191569,
-      "word": "水饺皇后为什么可惜了",
-      "onboard_time": 1746705801,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 187896,
@@ -171,44 +227,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170539,
-      "num": 170539,
-      "word": "商务部回应美取消对华小额免税政策",
-      "onboard_time": 1746723318,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 175625,
+      "num": 207121,
+      "word": "汤唯撕拉片",
+      "onboard_time": 1746745579,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 165888,
-      "num": 165888,
+      "num": 202104,
       "word": "王楚钦在路边摸蛇",
       "onboard_time": 1746708023,
       "rank": 8,
       "category": "体育"
     },
     {
-      "raw_hot": 151259,
-      "num": 133324,
-      "word": "舒淇说和冯德伦天天都是情人节",
-      "onboard_time": 1746717264,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 150524,
+      "num": 150524,
+      "word": "长期凌晨睡觉对身体的5个影响",
+      "onboard_time": 1746746481,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 144716,
-      "num": 144716,
+      "num": 165483,
       "word": "任嘉伦虐剧纯元回来了",
       "onboard_time": 1746711503,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143999,
-      "num": 132317,
-      "word": "首批加征145%关税货物轮船抵美",
-      "onboard_time": 1746705382,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138325,
@@ -219,12 +267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136339,
-      "num": 136339,
-      "word": "胖东来和田玉标注进货价和毛利",
-      "onboard_time": 1746718942,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 135222,
+      "num": 202670,
+      "word": "国防部正告菲方停止冲撞中方核心利益",
+      "onboard_time": 1746726676,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129799,
@@ -251,6 +299,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "普雷沃斯特当选新任教皇",
+      "onboard_time": 1746745519,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116422,
       "num": 116422,
       "word": "淘宝免单 狼人杀",
@@ -273,14 +329,6 @@
       "onboard_time": 1746713844,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103995,
-      "num": 103995,
-      "word": "印度开闸放水",
-      "onboard_time": 1746708802,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99735,
@@ -371,6 +419,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81324,
+      "num": 81324,
+      "word": "马来西亚买龙虾砍一下午价失败了",
+      "onboard_time": 1746744377,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77811,
+      "num": 81816,
+      "word": "油价猛涨超3%",
+      "onboard_time": 1746746418,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76766,
       "num": 81719,
       "word": "严浩翔自己搭新说唱造型",
@@ -403,12 +467,52 @@
       "category": "数码"
     },
     {
-      "raw_hot": 59418,
-      "num": 59418,
-      "word": "国防部正告菲方停止冲撞中方核心利益",
-      "onboard_time": 1746726676,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 63770,
+      "num": 63770,
+      "word": "曼联vs毕尔巴鄂竞技",
+      "onboard_time": 1746745519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62835,
+      "num": 62835,
+      "word": "藏海传赴山海 对打",
+      "onboard_time": 1746746659,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60661,
+      "num": 60661,
+      "word": "国乒回京都穿蓝色不告诉王楚钦",
+      "onboard_time": 1746712463,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58151,
+      "num": 58151,
+      "word": "教授回应被博士生举报学术霸凌",
+      "onboard_time": 1746732374,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58122,
+      "num": 58122,
+      "word": "曼联4比1毕尔巴鄂竞技",
+      "onboard_time": 1746746600,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57263,
+      "num": 57263,
+      "word": "日本人饭量具象化",
+      "onboard_time": 1746746481,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 55599,
@@ -420,7 +524,7 @@
     },
     {
       "raw_hot": 55325,
-      "num": 316019,
+      "num": 321246,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
@@ -433,6 +537,14 @@
       "onboard_time": 1746722118,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 54029,
+      "num": 54029,
+      "word": "曝特朗普将宣布与英国的贸易协议",
+      "onboard_time": 1746735854,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50480,
@@ -475,20 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36153,
-      "num": 36153,
-      "word": "曝特朗普将宣布与英国的贸易协议",
-      "onboard_time": 1746735854,
-      "rank": 33,
+      "raw_hot": 35300,
+      "num": 117584,
+      "word": "乌克兰已准备好停火30天",
+      "onboard_time": 1746746298,
+      "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35311,
-      "num": 35311,
-      "word": "教授回应被博士生举报学术霸凌",
-      "onboard_time": 1746732374,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35122,
@@ -579,6 +683,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17632,
+      "num": 201515,
+      "word": "特朗普称美将从乌获得大量稀土",
+      "onboard_time": 1746746298,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17337,
+      "num": 206715,
+      "word": "守护历史记忆维护国际公平正义",
+      "onboard_time": 1746745639,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15029,
       "num": 96760,
       "word": "另一方婚外情该如何保护自己权益",
@@ -603,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12926,
+      "num": 132296,
+      "word": "印巴冲突升级后莫迪发声",
+      "onboard_time": 1746746418,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12234,
       "num": 21366,
       "word": "中俄人民在血与火淬炼中凝结伟大友谊",
@@ -617,6 +745,14 @@
       "onboard_time": 1746733454,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11796,
+      "num": 200037,
+      "word": "美国西雅图港没船了",
+      "onboard_time": 1746746298,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10919,

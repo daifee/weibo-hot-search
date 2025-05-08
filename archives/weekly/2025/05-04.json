@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746744137924,
+  "endTime": 1746746675475,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1455770,
-      "num": 144600,
+      "num": 205981,
       "word": "19岁的黄多多",
       "onboard_time": 1746719002,
       "rank": 10,
@@ -777,6 +777,14 @@
       "onboard_time": 1746421040,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1073363,
+      "num": 685268,
+      "word": "新教皇",
+      "onboard_time": 1746725176,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1068550,
@@ -1697,14 +1705,6 @@
       "onboard_time": 1746424942,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 715221,
-      "num": 685268,
-      "word": "新教皇",
-      "onboard_time": 1746725176,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 714442,
@@ -3017,6 +3017,14 @@
       "onboard_time": 1746539962,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464911,
+      "num": 796885,
+      "word": "巴基斯坦空军为何如此强悍",
+      "onboard_time": 1746718283,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 463139,
@@ -4459,20 +4467,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 319398,
+      "num": 201184,
+      "word": "3岁女童脱发眼神呆滞被查出铊中毒",
+      "onboard_time": 1746745579,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316762,
       "num": 316762,
       "word": "陈奕迅日本演唱会有空投炸弹画面",
       "onboard_time": 1746401779,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 315986,
-      "num": 498794,
-      "word": "巴基斯坦空军为何如此强悍",
-      "onboard_time": 1746718283,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 315592,
@@ -4625,6 +4633,14 @@
       "onboard_time": 1746506304,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306039,
+      "num": 306039,
+      "word": "商务部回应美取消对华小额免税政策",
+      "onboard_time": 1746723318,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 305384,
@@ -4937,6 +4953,14 @@
       "onboard_time": 1746619702,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 287538,
+      "num": 203966,
+      "word": "金巧巧回应说不适合演农村人",
+      "onboard_time": 1746745699,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 287222,
@@ -6331,6 +6355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227345,
+      "num": 227345,
+      "word": "胖东来和田玉标注进货价和毛利",
+      "onboard_time": 1746718942,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226848,
       "num": 226848,
       "word": "奇迹暖暖",
@@ -7651,6 +7683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200011,
+      "num": 200011,
+      "word": "舒淇说和冯德伦天天都是情人节",
+      "onboard_time": 1746717264,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199979,
       "num": 199979,
       "word": "王鹤棣咸鱼飞升生图路透",
@@ -7768,14 +7808,6 @@
       "word": "嘉祺别走",
       "onboard_time": 1746452663,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198281,
-      "num": 198281,
-      "word": "舒淇说和冯德伦天天都是情人节",
-      "onboard_time": 1746717264,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -9347,6 +9379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175625,
+      "num": 207121,
+      "word": "汤唯撕拉片",
+      "onboard_time": 1746745579,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175506,
       "num": 184691,
       "word": "梁田爱人的眼睛是第八大洋",
@@ -9657,14 +9697,6 @@
       "onboard_time": 1746597743,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170539,
-      "num": 170539,
-      "word": "商务部回应美取消对华小额免税政策",
-      "onboard_time": 1746723318,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 170406,
@@ -11235,6 +11267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150524,
+      "num": 150524,
+      "word": "长期凌晨睡觉对身体的5个影响",
+      "onboard_time": 1746746481,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150490,
       "num": 150490,
       "word": "主包一天最多能干几个兼职",
@@ -12443,14 +12483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136339,
-      "num": 136339,
-      "word": "胖东来和田玉标注进货价和毛利",
-      "onboard_time": 1746718942,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136266,
       "num": 136266,
       "word": "婚礼接亲路上偶遇大国重器",
@@ -12537,6 +12569,14 @@
       "onboard_time": 1746589283,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135222,
+      "num": 202670,
+      "word": "国防部正告菲方停止冲撞中方核心利益",
+      "onboard_time": 1746726676,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135123,
@@ -13921,6 +13961,14 @@
       "onboard_time": 1746439161,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "普雷沃斯特当选新任教皇",
+      "onboard_time": 1746745519,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117370,
@@ -15883,6 +15931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81324,
+      "num": 81324,
+      "word": "马来西亚买龙虾砍一下午价失败了",
+      "onboard_time": 1746744377,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81090,
       "num": 364687,
       "word": "陈佳3米板金牌",
@@ -16009,6 +16065,14 @@
       "onboard_time": 1746611603,
       "rank": 35,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 77811,
+      "num": 81816,
+      "word": "油价猛涨超3%",
+      "onboard_time": 1746746418,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 77743,
@@ -16579,6 +16643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63770,
+      "num": 63770,
+      "word": "曼联vs毕尔巴鄂竞技",
+      "onboard_time": 1746745519,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63491,
       "num": 462614,
       "word": "胖都来为啥不能叫胖都来",
@@ -16609,6 +16681,14 @@
       "onboard_time": 1746314658,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62835,
+      "num": 62835,
+      "word": "藏海传赴山海 对打",
+      "onboard_time": 1746746659,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 62816,
@@ -16771,14 +16851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59418,
-      "num": 59418,
-      "word": "国防部正告菲方停止冲撞中方核心利益",
-      "onboard_time": 1746726676,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59071,
       "num": 59071,
       "word": "巴黎圣日耳曼vs阿森纳",
@@ -16800,6 +16872,22 @@
       "word": "巴特勒20分",
       "onboard_time": 1746421402,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58151,
+      "num": 58151,
+      "word": "教授回应被博士生举报学术霸凌",
+      "onboard_time": 1746732374,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58122,
+      "num": 58122,
+      "word": "曼联4比1毕尔巴鄂竞技",
+      "onboard_time": 1746746600,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -16889,6 +16977,14 @@
       "onboard_time": 1746488301,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57263,
+      "num": 57263,
+      "word": "日本人饭量具象化",
+      "onboard_time": 1746746481,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 56923,
@@ -17009,6 +17105,14 @@
       "onboard_time": 1746314597,
       "rank": 47,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 54029,
+      "num": 54029,
+      "word": "曝特朗普将宣布与英国的贸易协议",
+      "onboard_time": 1746735854,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53663,
@@ -17795,14 +17899,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 36153,
-      "num": 36153,
-      "word": "曝特朗普将宣布与英国的贸易协议",
-      "onboard_time": 1746735854,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35927,
       "num": 152388,
       "word": "印度民众拍到战机的发动机残骸",
@@ -17835,12 +17931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35311,
-      "num": 35311,
-      "word": "教授回应被博士生举报学术霸凌",
-      "onboard_time": 1746732374,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 35300,
+      "num": 117584,
+      "word": "乌克兰已准备好停火30天",
+      "onboard_time": 1746746298,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35199,
@@ -19099,12 +19195,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17632,
+      "num": 201515,
+      "word": "特朗普称美将从乌获得大量稀土",
+      "onboard_time": 1746746298,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17619,
       "num": 223350,
       "word": "回忆一下雄鹰10联合训练",
       "onboard_time": 1746692542,
       "rank": 38,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 17337,
+      "num": 206715,
+      "word": "守护历史记忆维护国际公平正义",
+      "onboard_time": 1746745639,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17232,
@@ -19427,6 +19539,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 12926,
+      "num": 132296,
+      "word": "印巴冲突升级后莫迪发声",
+      "onboard_time": 1746746418,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12795,
       "num": 214774,
       "word": "誓死效忠猫猫嘴插画",
@@ -19513,6 +19633,14 @@
       "onboard_time": 1746733454,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11796,
+      "num": 200037,
+      "word": "美国西雅图港没船了",
+      "onboard_time": 1746746298,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11754,
