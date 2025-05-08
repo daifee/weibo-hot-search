@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746721956680,
+  "endTime": 1746722913094,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -595,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1455770,
+      "num": 144600,
+      "word": "19岁的黄多多",
+      "onboard_time": 1746719002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1454802,
       "num": 1454802,
       "word": "boss直聘 秀恩爱",
@@ -713,14 +721,6 @@
       "onboard_time": 1746068300,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1348624,
-      "num": 144600,
-      "word": "19岁的黄多多",
-      "onboard_time": 1746719002,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1339493,
@@ -6755,6 +6755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315986,
+      "num": 315986,
+      "word": "巴基斯坦空军为何如此强悍",
+      "onboard_time": 1746718283,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 315592,
       "num": 278895,
       "word": "戚薇恭喜卢靖姗韩庚",
@@ -7601,14 +7609,6 @@
       "onboard_time": 1746163650,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282279,
-      "num": 282279,
-      "word": "巴基斯坦空军为何如此强悍",
-      "onboard_time": 1746718283,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 281965,
@@ -24211,6 +24211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90052,
+      "num": 133436,
+      "word": "胖东来和田玉标注进货价和毛利",
+      "onboard_time": 1746718942,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90016,
       "num": 90016,
       "word": "赵心童亚洲首个斯诺克世锦赛冠军",
@@ -24220,7 +24228,7 @@
     },
     {
       "raw_hot": 89976,
-      "num": 89976,
+      "num": 107473,
       "word": "窦靖童指王菲是她的偶像和闺蜜",
       "onboard_time": 1746721640,
       "rank": 41,
@@ -24313,14 +24321,6 @@
       "onboard_time": 1746237440,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88234,
-      "num": 130188,
-      "word": "胖东来和田玉标注进货价和毛利",
-      "onboard_time": 1746718942,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88201,
@@ -26009,6 +26009,14 @@
       "onboard_time": 1746353182,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64143,
+      "num": 64143,
+      "word": "折叠iPhone或将采用三星新型显示面板",
+      "onboard_time": 1746722598,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 64111,

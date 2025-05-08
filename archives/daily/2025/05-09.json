@@ -1,9 +1,9 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746721956680,
+  "endTime": 1746722913094,
   "band_list": [
     {
-      "raw_hot": 1348624,
+      "raw_hot": 1455770,
       "num": 144600,
       "word": "19岁的黄多多",
       "onboard_time": 1746719002,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315986,
+      "num": 315986,
+      "word": "巴基斯坦空军为何如此强悍",
+      "onboard_time": 1746718283,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302511,
       "num": 302511,
       "word": "富士回应一张撕拉片被炒至300多元",
       "onboard_time": 1746708923,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282279,
-      "num": 282279,
-      "word": "巴基斯坦空军为何如此强悍",
-      "onboard_time": 1746718283,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 265809,
@@ -267,8 +267,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90052,
+      "num": 133436,
+      "word": "胖东来和田玉标注进货价和毛利",
+      "onboard_time": 1746718942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89976,
-      "num": 89976,
+      "num": 107473,
       "word": "窦靖童指王菲是她的偶像和闺蜜",
       "onboard_time": 1746721640,
       "rank": 41,
@@ -339,14 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79927,
-      "num": 130188,
-      "word": "胖东来和田玉标注进货价和毛利",
-      "onboard_time": 1746718942,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76766,
       "num": 81719,
       "word": "严浩翔自己搭新说唱造型",
@@ -371,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64143,
+      "num": 64143,
+      "word": "折叠iPhone或将采用三星新型显示面板",
+      "onboard_time": 1746722598,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55325,
-      "num": 312502,
+      "num": 316019,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50480,
+      "num": 73249,
+      "word": "中国女排世联赛24人名单",
+      "onboard_time": 1746706403,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 50308,
@@ -385,6 +401,22 @@
       "onboard_time": 1746717504,
       "rank": 15,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 46685,
+      "num": 58228,
+      "word": "盖茨基金会计划2045年底永久关闭",
+      "onboard_time": 1746714864,
+      "rank": 48,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 46104,
+      "num": 58213,
+      "word": "西安冰雹",
+      "onboard_time": 1746705382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35122,
