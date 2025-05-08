@@ -1,0 +1,410 @@
+{
+  "runTime": 1746681966252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100011,
+        "num": 2100011,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 664998,
+        "num": 1338337,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 114683,
+        "num": 1252886,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1242984,
+        "num": 1242984,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508067,
+        "num": 508067,
+        "word": "黄金",
+        "onboard_time": 1746679462,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 481768,
+        "num": 481768,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353994,
+        "num": 353994,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332511,
+        "num": 342258,
+        "word": "中方回应美称与中国谈判前不降关税",
+        "onboard_time": 1746673402,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341664,
+        "num": 341664,
+        "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+        "onboard_time": 1746680063,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75547,
+        "num": 341378,
+        "word": "美民众说特朗普电影关税真的很蠢",
+        "onboard_time": 1746680903,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 853886,
+        "num": 338998,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 822421,
+        "num": 338658,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 661774,
+        "num": 335774,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335727,
+        "num": 335727,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83197,
+        "num": 333990,
+        "word": "给女患者查前列腺是对医保动歪脑筋",
+        "onboard_time": 1746680783,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235996,
+        "num": 327985,
+        "word": "歌手",
+        "onboard_time": 1746678504,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629377,
+        "num": 322057,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 77199,
+        "num": 311079,
+        "word": "巴基斯坦东部城市拉合尔发生爆炸",
+        "onboard_time": 1746680963,
+        "rank": 17,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 119428,
+        "num": 304689,
+        "word": "偷拿理发店千元剪刀女子被拘",
+        "onboard_time": 1746680424,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41611,
+        "num": 303071,
+        "word": "216平住宅违规改出10个卫生间",
+        "onboard_time": 1746680903,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296666,
+        "num": 296666,
+        "word": "孙颖莎送妈妈的母亲节礼物",
+        "onboard_time": 1746679462,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206577,
+        "num": 296178,
+        "word": "AOA澯美结婚",
+        "onboard_time": 1746680303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212551,
+        "num": 291382,
+        "word": "邓超用我的梗你无需自卑",
+        "onboard_time": 1746680123,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209166,
+        "num": 285188,
+        "word": "谍报上不封顶",
+        "onboard_time": 1746670341,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197687,
+        "num": 283695,
+        "word": "正午阳光评价肖战",
+        "onboard_time": 1746681442,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201038,
+        "num": 279345,
+        "word": "迪丽热巴不是wink",
+        "onboard_time": 1746681503,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227666,
+        "num": 275890,
+        "word": "新闻女王2",
+        "onboard_time": 1746674060,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8364,
+        "num": 270698,
+        "word": "车企负债率应该如何解读",
+        "onboard_time": 1746681622,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28082,
+        "num": 266768,
+        "word": "上班付出的情绪劳动让人疲惫",
+        "onboard_time": 1746681503,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21472,
+        "num": 265524,
+        "word": "武汉70岁雕塑家用2年为三位烈士塑像",
+        "onboard_time": 1746680424,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 604144,
+        "num": 258262,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497891,
+        "num": 257083,
+        "word": "博君一肖app图标",
+        "onboard_time": 1746679943,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183378,
+        "num": 250829,
+        "word": "BLACKPINK2025世巡",
+        "onboard_time": 1746679403,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376485,
+        "num": 249967,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109952,
+        "num": 244460,
+        "word": "刘涛水边大片好仙",
+        "onboard_time": 1746679584,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242593,
+        "num": 242593,
+        "word": "提前很久订酒店突然涨价要补3倍差价",
+        "onboard_time": 1746674662,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213742,
+        "num": 213742,
+        "word": "巴基斯坦第二大城市响起爆炸声",
+        "onboard_time": 1746680783,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76351,
+        "num": 201822,
+        "word": "威少替约基奇出头",
+        "onboard_time": 1746679703,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195426,
+        "num": 195426,
+        "word": "武契奇回应被禁飞一脸落寞",
+        "onboard_time": 1746681383,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189131,
+        "num": 194531,
+        "word": "麻花特开心",
+        "onboard_time": 1746681022,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193661,
+        "num": 193661,
+        "word": "菠萝包有菠萝了",
+        "onboard_time": 1746678442,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186724,
+        "num": 186724,
+        "word": "中国代表坚决拒绝美方指责抹黑",
+        "onboard_time": 1746677003,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "by2说周深唱的爱丫爱丫好听",
+        "onboard_time": 1746680483,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170376,
+        "num": 170376,
+        "word": "红凝是胡意旋独自在绿幕下补拍的",
+        "onboard_time": 1746680003,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167496,
+        "num": 167496,
+        "word": "樱桃琥珀 耳机分你一半",
+        "onboard_time": 1746674122,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154454,
+        "num": 154454,
+        "word": "美年达 登陆少年",
+        "onboard_time": 1746681321,
+        "rank": 45,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 150485,
+        "num": 150485,
+        "word": "袁娅维陈昊宇万妮达最强售后",
+        "onboard_time": 1746681922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 147718,
+        "word": "两个人能在一起未必是因为爱情",
+        "onboard_time": 1746669921,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146288,
+        "num": 146288,
+        "word": "虞书欣韩国机场出发",
+        "onboard_time": 1746678203,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143529,
+        "num": 143529,
+        "word": "以为是暗恋没想到是悬疑",
+        "onboard_time": 1746681862,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系不断焕发新活力#"
+    }
+  }
+}

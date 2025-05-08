@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746679531291,
+  "endTime": 1746681966252,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -40,6 +40,14 @@
       "word": "淘宝免单答案清一色",
       "onboard_time": 1746665071,
       "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1242984,
+      "num": 1242984,
+      "word": "DeepSeek认为最难学的语言",
+      "onboard_time": 1746678923,
+      "rank": 31,
       "category": "互联网"
     },
     {
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 664998,
+      "num": 1338337,
+      "word": "家访二本学生后我的认知被颠覆了",
+      "onboard_time": 1746678023,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 663162,
       "num": 663162,
       "word": "全红婵家新房盖好可拎包入住",
@@ -160,6 +176,22 @@
       "word": "新闻女王2",
       "onboard_time": 1746674060,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 629377,
+      "num": 322057,
+      "word": "香港蔡天凤碎尸案押后6月裁决",
+      "onboard_time": 1746681261,
+      "rank": 16,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 604144,
+      "num": 258262,
+      "word": "小说男主竟然成了我的男友",
+      "onboard_time": 1746678923,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -187,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508067,
+      "num": 508067,
+      "word": "黄金",
+      "onboard_time": 1746679462,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 504456,
       "num": 489054,
       "word": "王星越新剧阴湿味好冲",
@@ -195,12 +235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497891,
+      "num": 257083,
+      "word": "博君一肖app图标",
+      "onboard_time": 1746679943,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487704,
       "num": 487704,
       "word": "七分靠打拼",
       "onboard_time": 1746674060,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 481768,
+      "num": 481768,
+      "word": "大男主剧海报",
+      "onboard_time": 1746674722,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 479871,
@@ -251,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 409357,
-      "num": 193870,
-      "word": "DeepSeek认为最难学的语言",
-      "onboard_time": 1746678923,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 392456,
       "num": 418830,
       "word": "谍报上不封顶 周冬雨",
@@ -299,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353994,
+      "num": 353994,
+      "word": "肖战新剧将登陆央视八套",
+      "onboard_time": 1746679584,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352139,
       "num": 352139,
       "word": "鸿蒙pc",
@@ -312,14 +368,6 @@
       "word": "樱桃琥珀 耳机分你一半",
       "onboard_time": 1746674122,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 346442,
-      "num": 346442,
-      "word": "大男主剧海报",
-      "onboard_time": 1746674722,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -347,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341664,
+      "num": 341664,
+      "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+      "onboard_time": 1746680063,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329528,
       "num": 417210,
       "word": "奔跑吧",
@@ -363,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325045,
-      "num": 365640,
-      "word": "家访二本学生后我的认知被颠覆了",
-      "onboard_time": 1746678023,
-      "rank": 28,
-      "category": "民生新闻,教育"
+      "raw_hot": 296666,
+      "num": 296666,
+      "word": "孙颖莎送妈妈的母亲节礼物",
+      "onboard_time": 1746679462,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 289966,
@@ -396,7 +452,7 @@
     },
     {
       "raw_hot": 275798,
-      "num": 275798,
+      "num": 327985,
       "word": "歌手",
       "onboard_time": 1746678504,
       "rank": 34,
@@ -499,14 +555,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 228763,
-      "num": 228763,
-      "word": "小说男主竟然成了我的男友",
-      "onboard_time": 1746678923,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226064,
       "num": 226064,
       "word": "美联储",
@@ -563,6 +611,22 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 213742,
+      "num": 213742,
+      "word": "巴基斯坦第二大城市响起爆炸声",
+      "onboard_time": 1746680783,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212551,
+      "num": 291382,
+      "word": "邓超用我的梗你无需自卑",
+      "onboard_time": 1746680123,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209730,
       "num": 209730,
       "word": "东部变天了",
@@ -593,6 +657,14 @@
       "onboard_time": 1746674002,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206577,
+      "num": 296178,
+      "word": "AOA澯美结婚",
+      "onboard_time": 1746680303,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 205651,
@@ -643,12 +715,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201038,
+      "num": 279345,
+      "word": "迪丽热巴不是wink",
+      "onboard_time": 1746681503,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197687,
+      "num": 283695,
+      "word": "正午阳光评价肖战",
+      "onboard_time": 1746681442,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196900,
       "num": 150535,
       "word": "快1岁的妹猪竟然还没被卡住",
       "onboard_time": 1746670520,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195426,
+      "num": 195426,
+      "word": "武契奇回应被禁飞一脸落寞",
+      "onboard_time": 1746681383,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195408,
@@ -739,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189131,
+      "num": 194531,
+      "word": "麻花特开心",
+      "onboard_time": 1746681022,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188863,
       "num": 206738,
       "word": "广西放假离校后失联女生遗体被找到",
@@ -763,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186724,
+      "num": 186724,
+      "word": "中国代表坚决拒绝美方指责抹黑",
+      "onboard_time": 1746677003,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184835,
       "num": 184835,
       "word": "吉赛尔ins头像是林娜琏",
@@ -785,6 +897,14 @@
       "onboard_time": 1746667529,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183378,
+      "num": 250829,
+      "word": "BLACKPINK2025世巡",
+      "onboard_time": 1746679403,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 182349,
@@ -835,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174304,
+      "num": 174304,
+      "word": "by2说周深唱的爱丫爱丫好听",
+      "onboard_time": 1746680483,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173878,
       "num": 335483,
       "word": "北京公积金贷款利率下调",
@@ -867,20 +995,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 172809,
-      "num": 172809,
-      "word": "黄金",
-      "onboard_time": 1746679462,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 171715,
       "num": 266657,
       "word": "李佳琦妈妈直播带货",
       "onboard_time": 1746674662,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 170376,
+      "num": 170376,
+      "word": "红凝是胡意旋独自在绿幕下补拍的",
+      "onboard_time": 1746680003,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 165945,
@@ -939,22 +1067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160200,
-      "num": 160200,
-      "word": "孙颖莎送妈妈的母亲节礼物",
-      "onboard_time": 1746679462,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 159421,
-      "num": 159421,
-      "word": "BLACKPINK2025世巡",
-      "onboard_time": 1746679403,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159076,
       "num": 159076,
       "word": "菲35号护卫艇企图侵闯我黄岩岛领海",
@@ -987,6 +1099,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 154454,
+      "num": 154454,
+      "word": "美年达 登陆少年",
+      "onboard_time": 1746681321,
+      "rank": 45,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 154108,
       "num": 154108,
       "word": "首款鸿蒙电脑亮相",
@@ -1009,6 +1129,14 @@
       "onboard_time": 1746668370,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150485,
+      "num": 150485,
+      "word": "袁娅维陈昊宇万妮达最强售后",
+      "onboard_time": 1746681922,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 147086,
@@ -1035,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143529,
+      "num": 143529,
+      "word": "以为是暗恋没想到是悬疑",
+      "onboard_time": 1746681862,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142889,
       "num": 142889,
       "word": "体检报告出现这些词要当心",
@@ -1044,7 +1180,7 @@
     },
     {
       "raw_hot": 142293,
-      "num": 1169420,
+      "num": 1252886,
       "word": "直击莫斯科接机现场",
       "onboard_time": 1746677722,
       "rank": 2,
@@ -1195,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119428,
+      "num": 304689,
+      "word": "偷拿理发店千元剪刀女子被拘",
+      "onboard_time": 1746680424,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116332,
       "num": 116332,
       "word": "易烊千玺网站更新",
@@ -1233,6 +1377,14 @@
       "onboard_time": 1746656235,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109952,
+      "num": 244460,
+      "word": "刘涛水边大片好仙",
+      "onboard_time": 1746679584,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 109922,
@@ -1339,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83197,
+      "num": 333990,
+      "word": "给女患者查前列腺是对医保动歪脑筋",
+      "onboard_time": 1746680783,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82152,
       "num": 82152,
       "word": "张元英卷发腮红",
@@ -1363,6 +1523,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 77199,
+      "num": 311079,
+      "word": "巴基斯坦东部城市拉合尔发生爆炸",
+      "onboard_time": 1746680963,
+      "rank": 17,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 76575,
       "num": 76575,
       "word": "第一个兔塑迪丽热巴的简直是天才",
@@ -1371,12 +1539,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76351,
+      "num": 201822,
+      "word": "威少替约基奇出头",
+      "onboard_time": 1746679703,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75978,
       "num": 75978,
       "word": "郭晶晶曾说控制体重比训练还苦",
       "onboard_time": 1746627323,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75547,
+      "num": 341378,
+      "word": "美民众说特朗普电影关税真的很蠢",
+      "onboard_time": 1746680903,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74397,
@@ -1563,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41611,
+      "num": 303071,
+      "word": "216平住宅违规改出10个卫生间",
+      "onboard_time": 1746680903,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35828,
       "num": 47177,
       "word": "Bin哥没骗我们",
@@ -1643,6 +1835,14 @@
       "category": "海外新闻,议题讨论"
     },
     {
+      "raw_hot": 28082,
+      "num": 266768,
+      "word": "上班付出的情绪劳动让人疲惫",
+      "onboard_time": 1746681503,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27932,
       "num": 47172,
       "word": "我的动植物朋友们",
@@ -1681,6 +1881,14 @@
       "onboard_time": 1746668310,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21472,
+      "num": 265524,
+      "word": "武汉70岁雕塑家用2年为三位烈士塑像",
+      "onboard_time": 1746680424,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 20599,
@@ -1817,6 +2025,14 @@
       "onboard_time": 1746648973,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8364,
+      "num": 270698,
+      "word": "车企负债率应该如何解读",
+      "onboard_time": 1746681622,
+      "rank": 27,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
