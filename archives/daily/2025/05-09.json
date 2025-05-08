@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746732091391,
+  "endTime": 1746732987861,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -523,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18119,
+      "num": 38655,
+      "word": "美考虑豁免婴幼儿用品关税",
+      "onboard_time": 1746731534,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18115,
       "num": 43577,
       "word": "俄罗斯歌舞团中文演唱游击队歌",
@@ -539,20 +547,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16685,
+      "num": 43320,
+      "word": "美方改变不了跨境电商快速发展势头",
+      "onboard_time": 1746729435,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15029,
       "num": 96760,
       "word": "另一方婚外情该如何保护自己权益",
       "onboard_time": 1746720201,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14033,
-      "num": 38655,
-      "word": "美考虑豁免婴幼儿用品关税",
-      "onboard_time": 1746731534,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13138,
@@ -563,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11736,
-      "num": 43320,
-      "word": "美方改变不了跨境电商快速发展势头",
-      "onboard_time": 1746729435,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 12234,
+      "num": 21366,
+      "word": "中俄人民在血与火淬炼中凝结伟大友谊",
+      "onboard_time": 1746732734,
+      "rank": 24,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
