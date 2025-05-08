@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746676582816,
+  "endTime": 1746678670440,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -73,6 +73,14 @@
       "onboard_time": 1746366446,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2537930,
+      "num": 2537930,
+      "word": "办公室轮流请奶茶 窒息",
+      "onboard_time": 1746675921,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2470835,
@@ -371,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1384105,
+      "num": 554269,
+      "word": "悟空",
+      "onboard_time": 1746667950,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1338939,
       "num": 1338939,
       "word": "上海欢乐谷失火被游客误认节目效果",
@@ -417,14 +433,6 @@
       "onboard_time": 1746318439,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1292098,
-      "num": 554269,
-      "word": "悟空",
-      "onboard_time": 1746667950,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 1289711,
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 696279,
-      "num": 696279,
+      "num": 1204699,
       "word": "中方回应美称与中国谈判前不降关税",
       "onboard_time": 1746673402,
       "rank": 9,
@@ -2747,20 +2755,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435016,
+      "num": 435016,
+      "word": "猫界已经传开人类偷孩子了",
+      "onboard_time": 1746675982,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 434277,
       "num": 434277,
       "word": "被胖东来寄律师函的胖都来正常营业",
       "onboard_time": 1746512541,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434118,
-      "num": 290312,
-      "word": "办公室轮流请奶茶 窒息",
-      "onboard_time": 1746675921,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 433891,
@@ -3411,6 +3419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 352079,
+      "num": 459500,
+      "word": "提前很久订酒店突然涨价要补3倍差价",
+      "onboard_time": 1746674662,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 351163,
       "num": 351163,
       "word": "赴山海",
@@ -3441,6 +3457,14 @@
       "onboard_time": 1746489741,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348245,
+      "num": 348245,
+      "word": "樱桃琥珀 耳机分你一半",
+      "onboard_time": 1746674122,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 348019,
@@ -3681,14 +3705,6 @@
       "onboard_time": 1746319940,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 329888,
-      "num": 329888,
-      "word": "樱桃琥珀 耳机分你一半",
-      "onboard_time": 1746674122,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 329835,
@@ -4259,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284785,
+      "num": 284785,
+      "word": "三得利 成毅",
+      "onboard_time": 1746675260,
+      "rank": 23,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 284477,
       "num": 284477,
       "word": "虞书欣23年的存图",
@@ -4715,14 +4739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256672,
-      "num": 256672,
-      "word": "三得利 成毅",
-      "onboard_time": 1746675260,
-      "rank": 23,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 256404,
       "num": 256404,
       "word": "了不起的中国青年",
@@ -4777,6 +4793,14 @@
       "onboard_time": 1746584182,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 254322,
+      "num": 291246,
+      "word": "母爱支撑孙颖莎梦想飞翔",
+      "onboard_time": 1746677303,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 254257,
@@ -5059,14 +5083,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 244173,
-      "num": 333811,
-      "word": "提前很久订酒店突然涨价要补3倍差价",
-      "onboard_time": 1746674662,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 244109,
       "num": 244109,
       "word": "淘宝奶茶免单",
@@ -5129,6 +5145,14 @@
       "onboard_time": 1746343219,
       "rank": 44,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 241848,
+      "num": 241848,
+      "word": "大男主剧海报",
+      "onboard_time": 1746674722,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 241746,
@@ -5451,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224064,
+      "num": 224064,
+      "word": "撕拉片是情绪价值还是炒作",
+      "onboard_time": 1746676702,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223779,
       "num": 398206,
       "word": "莆田8岁男童野山失踪时间线",
@@ -5529,14 +5561,6 @@
       "onboard_time": 1746628584,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 220017,
-      "num": 220017,
-      "word": "大男主剧海报",
-      "onboard_time": 1746674722,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 219957,
@@ -5979,6 +6003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207371,
+      "num": 207371,
+      "word": "家访二本学生后我的认知被颠覆了",
+      "onboard_time": 1746678023,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 207335,
       "num": 193149,
       "word": "快到学校门口的你",
@@ -6395,6 +6427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201599,
+      "num": 201599,
+      "word": "第一次见用水送服用榴莲的",
+      "onboard_time": 1746677844,
+      "rank": 30,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 201158,
       "num": 201158,
       "word": "王一博青春探路者",
@@ -6691,6 +6731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195682,
+      "num": 195682,
+      "word": "虞书欣韩国机场出发",
+      "onboard_time": 1746678203,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195681,
       "num": 195681,
       "word": "沈月秉竹业游爱情保安",
@@ -6761,6 +6809,14 @@
       "onboard_time": 1746487340,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194773,
+      "num": 194773,
+      "word": "刘浩存宋威龙双人海报",
+      "onboard_time": 1746676942,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194715,
@@ -6969,6 +7025,14 @@
       "onboard_time": 1746624444,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192015,
+      "num": 255817,
+      "word": "孙颖莎封训合影",
+      "onboard_time": 1746678023,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 191881,
@@ -7235,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187569,
+      "num": 194926,
+      "word": "美联储不降息三大原因",
+      "onboard_time": 1746676702,
+      "rank": 32,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 187352,
       "num": 187352,
       "word": "32岁儿子辞职照顾2岁的妈妈",
@@ -7465,6 +7537,14 @@
       "onboard_time": 1746434781,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182170,
+      "num": 182170,
+      "word": "鸿蒙电脑有哪些亮点",
+      "onboard_time": 1746677422,
+      "rank": 37,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 182029,
@@ -7771,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175753,
+      "num": 175753,
+      "word": "尼克斯连续两场20分逆转",
+      "onboard_time": 1746678384,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175506,
       "num": 184691,
       "word": "梁田爱人的眼睛是第八大洋",
@@ -7889,6 +7977,14 @@
       "onboard_time": 1746660019,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173637,
+      "num": 173637,
+      "word": "不良人",
+      "onboard_time": 1746677482,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 173580,
@@ -8747,6 +8843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160065,
+      "num": 160065,
+      "word": "菠萝包有菠萝了",
+      "onboard_time": 1746678442,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159873,
       "num": 159873,
       "word": "甄嬛传",
@@ -8801,6 +8905,14 @@
       "onboard_time": 1746363925,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159076,
+      "num": 159076,
+      "word": "菲35号护卫艇企图侵闯我黄岩岛领海",
+      "onboard_time": 1746677063,
+      "rank": 45,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 158796,
@@ -9523,6 +9635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148523,
+      "num": 435602,
+      "word": "企业宁赔几千也不改招聘歧视",
+      "onboard_time": 1746677182,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148409,
       "num": 148409,
       "word": "张杰鸟巢连开破纪录",
@@ -9985,6 +10105,14 @@
       "onboard_time": 1746351021,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "雨霖铃敢放20秒不敢放20集吗",
+      "onboard_time": 1746678623,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 141283,
@@ -12219,6 +12347,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 109822,
+      "num": 830455,
+      "word": "直击莫斯科接机现场",
+      "onboard_time": 1746677722,
+      "rank": 2,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109706,
       "num": 109706,
       "word": "土象的底色是绝情",
@@ -13867,6 +14003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69044,
+      "num": 313478,
+      "word": "MrBeast入驻微博",
+      "onboard_time": 1746677543,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 68816,
       "num": 68816,
       "word": "我在乌江翻船现场的十二分钟",
@@ -14345,6 +14489,14 @@
       "onboard_time": 1746488301,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57212,
+      "num": 435973,
+      "word": "两个关键字看懂本次降准降息",
+      "onboard_time": 1746677543,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56923,
@@ -15131,6 +15283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34449,
+      "num": 289443,
+      "word": "晚饭吃多了睡不着怎么办",
+      "onboard_time": 1746678083,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34403,
       "num": 34403,
       "word": "美国因关税导致囤积商品",
@@ -15257,6 +15417,14 @@
       "onboard_time": 1746551477,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32285,
+      "num": 201674,
+      "word": "家庭主妇跟邻居学投资差点被骗16万",
+      "onboard_time": 1746677602,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32257,

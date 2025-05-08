@@ -1,0 +1,410 @@
+{
+  "runTime": 1746678670440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2537930,
+        "num": 2537930,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598606,
+        "num": 1204699,
+        "word": "中方回应美称与中国谈判前不降关税",
+        "onboard_time": 1746673402,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109822,
+        "num": 830455,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 741012,
+        "num": 741012,
+        "word": "谍报上不封顶",
+        "onboard_time": 1746670341,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497176,
+        "num": 497176,
+        "word": "新闻女王2",
+        "onboard_time": 1746674060,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352079,
+        "num": 459500,
+        "word": "提前很久订酒店突然涨价要补3倍差价",
+        "onboard_time": 1746674662,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 453451,
+        "num": 453451,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 436181,
+        "num": 436181,
+        "word": "两个人能在一起未必是因为爱情",
+        "onboard_time": 1746669921,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57212,
+        "num": 435973,
+        "word": "两个关键字看懂本次降准降息",
+        "onboard_time": 1746677543,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148523,
+        "num": 435602,
+        "word": "企业宁赔几千也不改招聘歧视",
+        "onboard_time": 1746677182,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1384105,
+        "num": 435503,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1078367,
+        "num": 435143,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 435016,
+        "num": 435016,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348245,
+        "num": 348245,
+        "word": "樱桃琥珀 耳机分你一半",
+        "onboard_time": 1746674122,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327392,
+        "num": 327392,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69044,
+        "num": 313478,
+        "word": "MrBeast入驻微博",
+        "onboard_time": 1746677543,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 305747,
+        "num": 305747,
+        "word": "发帖网友回应刘畊宏强制清场争议",
+        "onboard_time": 1746676101,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 295854,
+        "num": 295854,
+        "word": "小米暂停SU7Ultra限制马力版本推送",
+        "onboard_time": 1746671422,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254322,
+        "num": 291246,
+        "word": "母爱支撑孙颖莎梦想飞翔",
+        "onboard_time": 1746677303,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 289443,
+        "word": "晚饭吃多了睡不着怎么办",
+        "onboard_time": 1746678083,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287797,
+        "num": 287797,
+        "word": "王星越新剧阴湿味好冲",
+        "onboard_time": 1746674122,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286362,
+        "num": 286362,
+        "word": "七分靠打拼",
+        "onboard_time": 1746674060,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284785,
+        "num": 284785,
+        "word": "三得利 成毅",
+        "onboard_time": 1746675260,
+        "rank": 22,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 278854,
+        "num": 278854,
+        "word": "优酷发了好多剧的海报",
+        "onboard_time": 1746670700,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192015,
+        "num": 255817,
+        "word": "孙颖莎封训合影",
+        "onboard_time": 1746678023,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241848,
+        "num": 241848,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224064,
+        "num": 224064,
+        "word": "撕拉片是情绪价值还是炒作",
+        "onboard_time": 1746676702,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210047,
+        "num": 210047,
+        "word": "奔跑吧",
+        "onboard_time": 1746672140,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207371,
+        "num": 207371,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 28,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 32285,
+        "num": 201674,
+        "word": "家庭主妇跟邻居学投资差点被骗16万",
+        "onboard_time": 1746677602,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201599,
+        "num": 201599,
+        "word": "第一次见用水送服用榴莲的",
+        "onboard_time": 1746677844,
+        "rank": 30,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 195682,
+        "num": 195682,
+        "word": "虞书欣韩国机场出发",
+        "onboard_time": 1746678203,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187569,
+        "num": 194926,
+        "word": "美联储不降息三大原因",
+        "onboard_time": 1746676702,
+        "rank": 32,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 194773,
+        "num": 194773,
+        "word": "刘浩存宋威龙双人海报",
+        "onboard_time": 1746676942,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191436,
+        "num": 191436,
+        "word": "歌手",
+        "onboard_time": 1746678504,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189534,
+        "num": 189534,
+        "word": "泡泡玛特股份被创始股东高位清仓",
+        "onboard_time": 1746661280,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186702,
+        "num": 186702,
+        "word": "上海60岁女生花掉养老金的一天",
+        "onboard_time": 1746675382,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 182170,
+        "num": 182170,
+        "word": "鸿蒙电脑有哪些亮点",
+        "onboard_time": 1746677422,
+        "rank": 37,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "谍报上不封顶 周冬雨",
+        "onboard_time": 1746668130,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179579,
+        "num": 179579,
+        "word": "对悟空死亡的一些看法",
+        "onboard_time": 1746672741,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175753,
+        "num": 175753,
+        "word": "尼克斯连续两场20分逆转",
+        "onboard_time": 1746678384,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173637,
+        "num": 173637,
+        "word": "不良人",
+        "onboard_time": 1746677482,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167361,
+        "num": 167361,
+        "word": "黄金跳水有人一次性狂买10万元",
+        "onboard_time": 1746671900,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163436,
+        "num": 163436,
+        "word": "陈奕迅成功追星陈小霞",
+        "onboard_time": 1746674182,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160065,
+        "num": 160065,
+        "word": "菠萝包有菠萝了",
+        "onboard_time": 1746678442,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159076,
+        "num": 159076,
+        "word": "菲35号护卫艇企图侵闯我黄岩岛领海",
+        "onboard_time": 1746677063,
+        "rank": 45,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 156087,
+        "num": 156087,
+        "word": "女子上门做饭每天6单月薪近2万",
+        "onboard_time": 1746660740,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150916,
+        "num": 150916,
+        "word": "乘务员错把酒当水倒给3岁小孩",
+        "onboard_time": 1746667769,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144025,
+        "num": 144025,
+        "word": "时代峰峻在优酷团建上了",
+        "onboard_time": 1746674302,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141302,
+        "num": 141302,
+        "word": "雨霖铃敢放20秒不敢放20集吗",
+        "onboard_time": 1746678623,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系不断焕发新活力#"
+    }
+  }
+}
