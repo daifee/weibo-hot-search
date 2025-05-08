@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746709583688,
+  "endTime": 1746711294155,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 2361360,
-      "num": 438469,
+      "num": 524785,
       "word": "儿子高烧不退查出白血病妈妈一夜白头",
       "onboard_time": 1746706462,
       "rank": 10,
@@ -971,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1175685,
+      "num": 1188109,
+      "word": "富士回应一张撕拉片被炒至300多元",
+      "onboard_time": 1746708923,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1170100,
       "num": 371092,
       "word": "回忆专用小马甲",
@@ -1147,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1072110,
+      "num": 1072110,
+      "word": "淘宝免单 狼人杀",
+      "onboard_time": 1746710782,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1070406,
       "num": 298578,
       "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1746267621,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1037655,
+      "num": 1037655,
+      "word": "王楚钦在路边摸蛇",
+      "onboard_time": 1746708023,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1036212,
@@ -2315,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 745486,
+      "num": 745486,
+      "word": "水饺皇后为什么可惜了",
+      "onboard_time": 1746705801,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 741447,
       "num": 741447,
       "word": "马斯克称地球会被太阳焚化",
@@ -2883,6 +2915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639174,
+      "num": 376463,
+      "word": "金价突然跳水",
+      "onboard_time": 1746706822,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 637181,
       "num": 359926,
       "word": "苏州一直升机坠落致1死4伤",
@@ -2897,14 +2937,6 @@
       "onboard_time": 1746154290,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 635876,
-      "num": 635876,
-      "word": "王楚钦在路边摸蛇",
-      "onboard_time": 1746708023,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 634974,
@@ -3457,14 +3489,6 @@
       "onboard_time": 1746494962,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 567478,
-      "num": 567478,
-      "word": "水饺皇后为什么可惜了",
-      "onboard_time": 1746705801,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 566142,
@@ -4505,14 +4529,6 @@
       "onboard_time": 1746629784,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 457401,
-      "num": 376463,
-      "word": "金价突然跳水",
-      "onboard_time": 1746706822,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 457065,
@@ -5659,6 +5675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 372940,
+      "num": 372940,
+      "word": "迪丽热巴快急哭了",
+      "onboard_time": 1746707302,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372906,
       "num": 372906,
       "word": "奈雪的茶再换logo改成奈雪",
@@ -6129,6 +6153,14 @@
       "onboard_time": 1746300915,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342541,
+      "num": 406885,
+      "word": "印度开闸放水",
+      "onboard_time": 1746708802,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 342058,
@@ -7619,6 +7651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270918,
+      "num": 270918,
+      "word": "气血不足的人外表有4个特点",
+      "onboard_time": 1746707243,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270633,
       "num": 486154,
       "word": "中国锅做的牛排把老外香迷糊了",
@@ -8059,14 +8099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258415,
-      "num": 258415,
-      "word": "气血不足的人外表有4个特点",
-      "onboard_time": 1746707243,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 258194,
       "num": 258194,
       "word": "第五人格 纸嫁衣",
@@ -8169,14 +8201,6 @@
       "onboard_time": 1746412102,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255380,
-      "num": 255380,
-      "word": "迪丽热巴快急哭了",
-      "onboard_time": 1746707302,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 255345,
@@ -8353,6 +8377,14 @@
       "onboard_time": 1746240980,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251063,
+      "num": 296864,
+      "word": "BLACKPINK抢票",
+      "onboard_time": 1746706462,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 250849,
@@ -8673,14 +8705,6 @@
       "onboard_time": 1746515001,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243580,
-      "num": 295118,
-      "word": "BLACKPINK抢票",
-      "onboard_time": 1746706462,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 243492,
@@ -9065,6 +9089,14 @@
       "onboard_time": 1746370645,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229027,
+      "num": 426769,
+      "word": "电视剧开端登上俄罗斯荧屏",
+      "onboard_time": 1746707963,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 228795,
@@ -10291,6 +10323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206086,
+      "num": 293939,
+      "word": "伪装者十年后正午阳光再拍谍战剧",
+      "onboard_time": 1746707843,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205938,
       "num": 223885,
       "word": "95生四顶",
@@ -10504,6 +10544,14 @@
       "word": "宋亚轩被彩带攻击",
       "onboard_time": 1746372025,
       "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204021,
+      "num": 204021,
+      "word": "张杰连开十二场体力永动机",
+      "onboard_time": 1746710663,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -11977,6 +12025,14 @@
       "onboard_time": 1746162390,
       "rank": 30,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 191594,
+      "num": 191594,
+      "word": "全红婵成了陈梦的人形挂件",
+      "onboard_time": 1746710782,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 191488,
@@ -14747,6 +14803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164825,
+      "num": 164825,
+      "word": "赵丽颖说想到处走走不被发现",
+      "onboard_time": 1746710962,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164822,
       "num": 164822,
       "word": "天津泡泡岛音乐节",
@@ -15601,6 +15665,14 @@
       "onboard_time": 1746110903,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157256,
+      "num": 292981,
+      "word": "印巴交火一航班独闯战区",
+      "onboard_time": 1746709643,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157231,
@@ -16675,27 +16747,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149261,
-      "num": 149261,
-      "word": "伪装者十年后正午阳光再拍谍战剧",
-      "onboard_time": 1746707843,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149164,
       "num": 201389,
       "word": "特朗普称好莱坞遭受重创对美构成国家安全威胁",
       "onboard_time": 1746423381,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 149160,
-      "num": 406885,
-      "word": "印度开闸放水",
-      "onboard_time": 1746708802,
-      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -18609,14 +18665,6 @@
       "onboard_time": 1746589283,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135181,
-      "num": 426769,
-      "word": "电视剧开端登上俄罗斯荧屏",
-      "onboard_time": 1746707963,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 135126,
@@ -21291,6 +21339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115703,
+      "num": 187373,
+      "word": "TES对战NIP",
+      "onboard_time": 1746710062,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115596,
       "num": 213811,
       "word": "美国获特权开发乌克兰自然资源",
@@ -22339,6 +22395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106646,
+      "num": 362153,
+      "word": "九号电动车Q出新元气",
+      "onboard_time": 1746709704,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106628,
       "num": 106628,
       "word": "把米饭溶解了",
@@ -22353,6 +22417,14 @@
       "onboard_time": 1746141740,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106564,
+      "num": 353069,
+      "word": "人民网评五一档票房为什么不热",
+      "onboard_time": 1746710304,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 106344,
@@ -22481,6 +22553,14 @@
       "onboard_time": 1746106945,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105187,
+      "num": 177430,
+      "word": "中国女排世联赛24人名单",
+      "onboard_time": 1746706403,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105127,
@@ -24227,6 +24307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83719,
+      "num": 344208,
+      "word": "林更新李幼斌新片演绎冤种忘年交",
+      "onboard_time": 1746710843,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83697,
       "num": 83697,
       "word": "5月份十二星座注意事项",
@@ -25059,6 +25147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70977,
+      "num": 181862,
+      "word": "理想L系列智能焕新版上市",
+      "onboard_time": 1746711263,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70880,
       "num": 157933,
       "word": "姜广涛最理想的生活状态",
@@ -25257,14 +25353,6 @@
       "onboard_time": 1746314658,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67181,
-      "num": 422505,
-      "word": "富士回应一张撕拉片被炒至300多元",
-      "onboard_time": 1746708923,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66698,
@@ -26593,6 +26681,14 @@
       "onboard_time": 1746509123,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48032,
+      "num": 531171,
+      "word": "中俄要做百炼成钢的真朋友",
+      "onboard_time": 1746709823,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47532,
@@ -28028,7 +28124,7 @@
     },
     {
       "raw_hot": 30749,
-      "num": 450915,
+      "num": 533872,
       "word": "一揽子金融政策传递哪些重要信号",
       "onboard_time": 1746694642,
       "rank": 22,
@@ -28217,6 +28313,14 @@
       "onboard_time": 1746693742,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28278,
+      "num": 1045789,
+      "word": "为什么这一纪念不能忘却",
+      "onboard_time": 1746695361,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28238,
@@ -28505,6 +28609,14 @@
       "onboard_time": 1746362485,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25321,
+      "num": 291812,
+      "word": "河底捞商标被判不侵权",
+      "onboard_time": 1746709704,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25101,
@@ -29800,6 +29912,14 @@
       "word": "公司否认双星名人董事长发公开信",
       "onboard_time": 1746561854,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13663,
+      "num": 187340,
+      "word": "新疆南山发洪水系谣言",
+      "onboard_time": 1746710423,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
