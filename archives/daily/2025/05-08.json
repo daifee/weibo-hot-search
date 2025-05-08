@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746711853741,
+  "endTime": 1746714216236,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -33,6 +33,14 @@
       "onboard_time": 1746706462,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2322277,
+      "num": 2322277,
+      "word": "比尔盖茨宣布将捐出几乎全部财富",
+      "onboard_time": 1746712284,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 2186580,
@@ -331,6 +339,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 722311,
+      "num": 407912,
+      "word": "大冰 综艺",
+      "onboard_time": 1746711983,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708666,
       "num": 428332,
       "word": "演员熊乃槿为小猫悟空发声",
@@ -379,8 +395,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 668842,
+      "num": 441790,
+      "word": "迪丽热巴快急哭了",
+      "onboard_time": 1746707302,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 663371,
-      "num": 376463,
+      "num": 385341,
       "word": "金价突然跳水",
       "onboard_time": 1746706822,
       "rank": 25,
@@ -409,6 +433,14 @@
       "onboard_time": 1746674060,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 646538,
+      "num": 407726,
+      "word": "重庆大学已成立专项工作组",
+      "onboard_time": 1746712403,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 640144,
@@ -515,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509173,
-      "num": 441790,
-      "word": "迪丽热巴快急哭了",
-      "onboard_time": 1746707302,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 513961,
+      "num": 513961,
+      "word": "印度开闸放水",
+      "onboard_time": 1746708802,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508067,
@@ -619,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 446881,
+      "num": 446881,
+      "word": "淘宝免单",
+      "onboard_time": 1746580521,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 446590,
       "num": 426308,
       "word": "田小娟金发寸头",
@@ -651,20 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420663,
-      "num": 420663,
-      "word": "印度开闸放水",
-      "onboard_time": 1746708802,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 419389,
       "num": 572322,
       "word": "乘务员错把酒当水倒给3岁小孩",
       "onboard_time": 1746667769,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407415,
+      "num": 407415,
+      "word": "任嘉伦虐剧纯元回来了",
+      "onboard_time": 1746711503,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 403036,
@@ -891,14 +931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302437,
-      "num": 302437,
-      "word": "淘宝免单",
-      "onboard_time": 1746580521,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 301143,
       "num": 1019456,
       "word": "这就是街舞",
@@ -921,6 +953,14 @@
       "onboard_time": 1746679462,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295121,
+      "num": 295121,
+      "word": "现在的果切都进化成这样了吗",
+      "onboard_time": 1746713545,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 294365,
@@ -953,6 +993,14 @@
       "onboard_time": 1746671900,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 285347,
+      "num": 285347,
+      "word": "全红婵成了陈梦的人形挂件",
+      "onboard_time": 1746710782,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 284853,
@@ -1035,12 +1083,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262873,
+      "num": 397771,
+      "word": "丁禹兮咬皮筋这一下",
+      "onboard_time": 1746713063,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262085,
+      "num": 371217,
+      "word": "理想L系列智能焕新版上市",
+      "onboard_time": 1746711263,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 261806,
       "num": 514919,
       "word": "给女患者查前列腺是对医保动歪脑筋",
       "onboard_time": 1746680783,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258792,
+      "num": 258792,
+      "word": "生理性喜欢的最真实表现",
+      "onboard_time": 1746712704,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 255528,
@@ -1051,12 +1123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255088,
-      "num": 229325,
-      "word": "全红婵成了陈梦的人形挂件",
-      "onboard_time": 1746710782,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 254394,
+      "num": 404797,
+      "word": "伪装者十年后正午阳光再拍谍战剧",
+      "onboard_time": 1746707843,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 254322,
@@ -1251,6 +1323,22 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 224575,
+      "num": 224575,
+      "word": "特朗普",
+      "onboard_time": 1746713665,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223775,
+      "num": 359365,
+      "word": "狂野时代",
+      "onboard_time": 1746713784,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223584,
       "num": 223584,
       "word": "巴外长证实歼10击落印度战机",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1746630324,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216151,
-      "num": 278955,
-      "word": "理想L系列智能焕新版上市",
-      "onboard_time": 1746711263,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 215128,
@@ -1459,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206086,
-      "num": 388420,
-      "word": "伪装者十年后正午阳光再拍谍战剧",
-      "onboard_time": 1746707843,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205651,
       "num": 205651,
       "word": "女子上门做饭每天6单月薪近2万",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1746710663,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203766,
+      "num": 203766,
+      "word": "电影狂野时代入围戛纳主竞赛",
+      "onboard_time": 1746713962,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 203428,
@@ -1747,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192943,
+      "num": 192943,
+      "word": "优酷2025主打一个自己卷自己",
+      "onboard_time": 1746713484,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192015,
       "num": 255817,
       "word": "孙颖莎封训合影",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1746693862,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188053,
+      "num": 188053,
+      "word": "登陆少年人气",
+      "onboard_time": 1746713244,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 187569,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1746677422,
       "rank": 37,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 181672,
+      "num": 181672,
+      "word": "淘宝免单 72",
+      "onboard_time": 1746712643,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 181618,
@@ -2267,14 +2371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161820,
-      "num": 161820,
-      "word": "任嘉伦虐剧纯元回来了",
-      "onboard_time": 1746711503,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161617,
       "num": 292981,
       "word": "印巴交火一航班独闯战区",
@@ -2425,6 +2521,14 @@
       "onboard_time": 1746685582,
       "rank": 45,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 152531,
+      "num": 152531,
+      "word": "报名歌手2025揭榜的明星",
+      "onboard_time": 1746713665,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 151723,
@@ -2595,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139013,
+      "num": 407553,
+      "word": "男主播与榜一大姐分手被判还4.5万",
+      "onboard_time": 1746712943,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138682,
       "num": 138682,
       "word": "中国排面亮相白俄罗斯有多帅",
@@ -2713,6 +2825,14 @@
       "onboard_time": 1746670942,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130053,
+      "num": 329315,
+      "word": "国乒回京都穿蓝色不告诉王楚钦",
+      "onboard_time": 1746712463,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129327,
@@ -3147,6 +3267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80705,
+      "num": 295531,
+      "word": "无畏探索海洋馆",
+      "onboard_time": 1746713004,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80153,
       "num": 204322,
       "word": "印占克什米尔发现坠毁战机弹射座椅",
@@ -3475,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56533,
+      "num": 390812,
+      "word": "本轮冲突特朗普为何没支持印度",
+      "onboard_time": 1746712943,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54648,
       "num": 863919,
       "word": "一文带你了解俄罗斯",
@@ -3569,6 +3705,14 @@
       "onboard_time": 1746682102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44804,
+      "num": 949437,
+      "word": "从莫斯科看到更大的世界",
+      "onboard_time": 1746713303,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44604,
@@ -3825,6 +3969,14 @@
       "onboard_time": 1746693742,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28351,
+      "num": 408213,
+      "word": "中国金融政策打出组合拳",
+      "onboard_time": 1746713184,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28082,
@@ -4273,6 +4425,9 @@
     },
     {
       "word": "#习主席第11次俄罗斯之行#"
+    },
+    {
+      "word": "#习近平同普京举行会谈#"
     }
   ]
 }
