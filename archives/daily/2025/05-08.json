@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746708655299,
+  "endTime": 1746709583688,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2250562,
-      "num": 431077,
+      "raw_hot": 2361360,
+      "num": 438469,
       "word": "儿子高烧不退查出白血病妈妈一夜白头",
       "onboard_time": 1746706462,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1381520,
+      "num": 435433,
+      "word": "赵丽颖说换发色是换个心情",
+      "onboard_time": 1746706221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1313401,
       "num": 555186,
       "word": "印巴125架战机激战1小时",
@@ -97,6 +105,14 @@
       "onboard_time": 1746665071,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1269929,
+      "num": 1176015,
+      "word": "首批加征145%关税货物轮船抵美",
+      "onboard_time": 1746705382,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1242984,
@@ -131,14 +147,6 @@
       "category": "幽默,互联网"
     },
     {
-      "raw_hot": 1100099,
-      "num": 1176015,
-      "word": "首批加征145%关税货物轮船抵美",
-      "onboard_time": 1746705382,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1058186,
       "num": 552662,
       "word": "杜淳妻子发长文给未婚女生十点建议",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1031043,
-      "num": 430251,
+      "num": 433015,
       "word": "赵丽颖粉发白裙",
       "onboard_time": 1746702743,
       "rank": 20,
@@ -201,14 +209,6 @@
       "onboard_time": 1746695542,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 964553,
-      "num": 430729,
-      "word": "赵丽颖说换发色是换个心情",
-      "onboard_time": 1746706221,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 941733,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 783646,
-      "num": 783646,
+      "num": 1119891,
       "word": "郑丹妮退团",
       "onboard_time": 1746703102,
       "rank": 31,
@@ -379,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635876,
+      "num": 635876,
+      "word": "王楚钦在路边摸蛇",
+      "onboard_time": 1746708023,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 634974,
+      "num": 634974,
+      "word": "中俄签署联合声明",
+      "onboard_time": 1746705681,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 596993,
       "num": 511941,
       "word": "歌手2025",
@@ -411,20 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 577500,
-      "num": 577500,
-      "word": "中俄签署联合声明",
-      "onboard_time": 1746705681,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 572524,
       "num": 1797609,
       "word": "国防部奉劝有关国家不要引狼入室",
       "onboard_time": 1746689899,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 567478,
+      "num": 567478,
+      "word": "水饺皇后为什么可惜了",
+      "onboard_time": 1746705801,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 557146,
@@ -563,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457401,
+      "num": 376463,
+      "word": "金价突然跳水",
+      "onboard_time": 1746706822,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 453455,
       "num": 453455,
       "word": "李冰冰于适手挽手",
@@ -593,14 +617,6 @@
       "onboard_time": 1746662241,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 425834,
-      "num": 425834,
-      "word": "水饺皇后为什么可惜了",
-      "onboard_time": 1746705801,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 421319,
@@ -811,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327308,
-      "num": 327308,
-      "word": "金价突然跳水",
-      "onboard_time": 1746706822,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 322428,
       "num": 1019168,
       "word": "刘耀文外务常驻新综",
@@ -889,14 +897,6 @@
       "onboard_time": 1746689302,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291979,
-      "num": 291979,
-      "word": "王楚钦在路边摸蛇",
-      "onboard_time": 1746708023,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 291250,
@@ -995,12 +995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258415,
+      "num": 258415,
+      "word": "气血不足的人外表有4个特点",
+      "onboard_time": 1746707243,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 255528,
       "num": 255528,
       "word": "假装领导帮买房办编制诈骗721万",
       "onboard_time": 1746701122,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255380,
+      "num": 255380,
+      "word": "迪丽热巴快急哭了",
+      "onboard_time": 1746707302,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 254322,
@@ -1059,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245788,
+      "num": 427339,
+      "word": "联想发布天禧和想帮帮两款智能体",
+      "onboard_time": 1746707602,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245323,
       "num": 245323,
       "word": "益禾堂 魔道祖师",
@@ -1075,20 +1099,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 243580,
+      "num": 295118,
+      "word": "BLACKPINK抢票",
+      "onboard_time": 1746706462,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 243286,
       "num": 243286,
       "word": "肖战新角色人设",
       "onboard_time": 1746672500,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242813,
-      "num": 242813,
-      "word": "迪丽热巴快急哭了",
-      "onboard_time": 1746707302,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 240320,
@@ -1163,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228641,
-      "num": 295118,
-      "word": "BLACKPINK抢票",
-      "onboard_time": 1746706462,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228409,
       "num": 228409,
       "word": "丁禹兮直播做饭人夫感",
@@ -1235,12 +1251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221459,
-      "num": 427339,
-      "word": "联想发布天禧和想帮帮两款智能体",
-      "onboard_time": 1746707602,
-      "rank": 17,
-      "category": "数码"
+      "raw_hot": 221257,
+      "num": 431468,
+      "word": "美国港口一片冷清",
+      "onboard_time": 1746708023,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 219549,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1746623423,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214674,
+      "num": 214674,
+      "word": "方可帮赵丽颖做的千禧辣妹盘发",
+      "onboard_time": 1746709042,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 213998,
@@ -1875,6 +1899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 180490,
+      "num": 180490,
+      "word": "章若楠露营plog",
+      "onboard_time": 1746708983,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180280,
       "num": 180280,
       "word": "关晓彤续上四宫格",
@@ -1923,14 +1955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 178159,
-      "num": 431468,
-      "word": "美国港口一片冷清",
-      "onboard_time": 1746708023,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 178150,
       "num": 178150,
       "word": "哑巴新郎遇上喇叭新娘",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1746678384,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175726,
-      "num": 175726,
-      "word": "气血不足的人外表有4个特点",
-      "onboard_time": 1746707243,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174643,
@@ -2347,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149160,
+      "num": 406885,
+      "word": "印度开闸放水",
+      "onboard_time": 1746708802,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147833,
       "num": 147833,
       "word": "周翊然领衔主演翘楚",
@@ -2539,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135181,
+      "num": 426769,
+      "word": "电视剧开端登上俄罗斯荧屏",
+      "onboard_time": 1746707963,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134954,
       "num": 134954,
       "word": "奈雪内部人士回应改名",
@@ -2569,6 +2601,14 @@
       "onboard_time": 1746670820,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131780,
+      "num": 131780,
+      "word": "周深上海演唱会抢票",
+      "onboard_time": 1746709524,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 131684,
@@ -2899,6 +2939,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 85381,
+      "num": 225882,
+      "word": "公考上岸需要达到的强度",
+      "onboard_time": 1746704422,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83920,
       "num": 83920,
       "word": "166斤女孩52秒变装美翻天",
@@ -2937,6 +2985,14 @@
       "onboard_time": 1746682221,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81411,
+      "num": 185162,
+      "word": "巴方确认击落五架印度战机",
+      "onboard_time": 1746707302,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80153,
@@ -3131,6 +3187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67181,
+      "num": 422505,
+      "word": "富士回应一张撕拉片被炒至300多元",
+      "onboard_time": 1746708923,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66492,
       "num": 261109,
       "word": "养殖场给活牛注水输送厦门岛内",
@@ -3233,6 +3297,14 @@
       "onboard_time": 1746628103,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58062,
+      "num": 353679,
+      "word": "中俄双方交换20多份双边合作文本",
+      "onboard_time": 1746709223,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58033,
@@ -3419,28 +3491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40392,
+      "num": 182944,
+      "word": "印度为什么能拿捏巴基斯坦的命脉",
+      "onboard_time": 1746707483,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40276,
       "num": 348229,
       "word": "广州一老板上新租三金结婚业务",
       "onboard_time": 1746703703,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39514,
-      "num": 185162,
-      "word": "巴方确认击落五架印度战机",
-      "onboard_time": 1746707302,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 39046,
-      "num": 426769,
-      "word": "电视剧开端登上俄罗斯荧屏",
-      "onboard_time": 1746707963,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 38926,
@@ -3555,16 +3619,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 30766,
-      "num": 182944,
-      "word": "印度为什么能拿捏巴基斯坦的命脉",
-      "onboard_time": 1746707483,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30749,
-      "num": 432417,
+      "num": 450915,
       "word": "一揽子金融政策传递哪些重要信号",
       "onboard_time": 1746694642,
       "rank": 22,
@@ -3763,6 +3819,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 20434,
+      "num": 429129,
+      "word": "北方最大游戏动漫展圆满收官",
+      "onboard_time": 1746705681,
+      "rank": 14,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 20341,
       "num": 60435,
       "word": "赵心童和奥沙利文亦师亦友",
@@ -3833,14 +3897,6 @@
       "onboard_time": 1746692542,
       "rank": 38,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 17185,
-      "num": 429129,
-      "word": "北方最大游戏动漫展圆满收官",
-      "onboard_time": 1746705681,
-      "rank": 14,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 16802,
