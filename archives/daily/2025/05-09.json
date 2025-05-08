@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746729299463,
+  "endTime": 1746730143866,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -483,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22665,
-      "num": 22665,
+      "raw_hot": 24784,
+      "num": 31178,
       "word": "终于有剧拍出怎么回60秒长语音了",
       "onboard_time": 1746727155,
       "rank": 40,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 21706,
-      "num": 21706,
+      "num": 30104,
       "word": "朴彩英新歌Messy",
       "onboard_time": 1746727218,
       "rank": 42,
@@ -545,6 +545,14 @@
       "onboard_time": 1746727995,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11736,
+      "num": 43320,
+      "word": "美方改变不了跨境电商快速发展势头",
+      "onboard_time": 1746729435,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
