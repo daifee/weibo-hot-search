@@ -1,0 +1,410 @@
+{
+  "runTime": 1746670864082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192037,
+        "num": 1192037,
+        "word": "月薪三千4年存了10万块",
+        "onboard_time": 1746669921,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 614685,
+        "num": 614685,
+        "word": "全红婵家新房盖好可拎包入住",
+        "onboard_time": 1746665552,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36040,
+        "num": 497808,
+        "word": "一图速览一揽子金融增量政策",
+        "onboard_time": 1746627504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479871,
+        "num": 479871,
+        "word": "谍战上不封顶 周冬雨",
+        "onboard_time": 1746668130,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1187514,
+        "num": 472094,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419240,
+        "num": 419240,
+        "word": "泡泡玛特股份被创始股东高位清仓",
+        "onboard_time": 1746661280,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416489,
+        "num": 416489,
+        "word": "中央气象台连发3预警",
+        "onboard_time": 1746664891,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368240,
+        "num": 368240,
+        "word": "小女孩拿自家金饰去卖老板直接扣下",
+        "onboard_time": 1746660740,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247439,
+        "num": 247439,
+        "word": "谍战上不封顶",
+        "onboard_time": 1746670341,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244248,
+        "num": 244248,
+        "word": "学生班级搞孤立老师坚定停课惩治",
+        "onboard_time": 1746633862,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1313401,
+        "num": 244025,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1126561,
+        "num": 242648,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 696249,
+        "num": 241377,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250068,
+        "num": 240972,
+        "word": "巴西女硕士夸日本安全次日疑遭焚尸",
+        "onboard_time": 1746659959,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240243,
+        "num": 240243,
+        "word": "印巴局势再升级",
+        "onboard_time": 1746642794,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219903,
+        "num": 219903,
+        "word": "白鹿回老家了",
+        "onboard_time": 1746632302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216390,
+        "num": 216390,
+        "word": "优酷发了好多剧的海报",
+        "onboard_time": 1746670700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209730,
+        "num": 209730,
+        "word": "东部变天了",
+        "onboard_time": 1746669921,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188616,
+        "num": 205223,
+        "word": "被刘嘉玲认证超级帅哥的含金量",
+        "onboard_time": 1746629784,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165843,
+        "num": 202931,
+        "word": "丁真说演十八铜人把自己害惨了",
+        "onboard_time": 1746632902,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327482,
+        "num": 202895,
+        "word": "男子辞职照顾2岁妈妈回应啃老质疑",
+        "onboard_time": 1746665552,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 202783,
+        "word": "女子上门做饭每天6单月薪近2万",
+        "onboard_time": 1746660740,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198469,
+        "num": 198469,
+        "word": "女子吐槽半个玉米扣蛋挞上50元",
+        "onboard_time": 1746662902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195083,
+        "num": 195083,
+        "word": "尼克斯2比0凯尔特人",
+        "onboard_time": 1746669621,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129875,
+        "num": 193864,
+        "word": "睡眠最佳时间是晚10点半到早7点半",
+        "onboard_time": 1746660019,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193770,
+        "num": 193770,
+        "word": "奈雪的茶再换logo改成奈雪",
+        "onboard_time": 1746660140,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120488,
+        "num": 193685,
+        "word": "李冰冰于适手挽手",
+        "onboard_time": 1746629423,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91433,
+        "num": 193335,
+        "word": "江苏将有8级以上阵风",
+        "onboard_time": 1746664891,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43046,
+        "num": 192724,
+        "word": "郑钦文罗马赛首战对手确定",
+        "onboard_time": 1746669921,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10766,
+        "num": 192521,
+        "word": "大脑拒绝了一个运动请求",
+        "onboard_time": 1746670282,
+        "rank": 29,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 173878,
+        "num": 192019,
+        "word": "北京公积金贷款利率下调",
+        "onboard_time": 1746668841,
+        "rank": 30,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 216858,
+        "num": 191560,
+        "word": "两个人能在一起未必是因为爱情",
+        "onboard_time": 1746669921,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191421,
+        "num": 191421,
+        "word": "外国神秘大佬来北京吃火锅",
+        "onboard_time": 1746667529,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191231,
+        "num": 191231,
+        "word": "雷军回应很久没健身打卡",
+        "onboard_time": 1746669921,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155021,
+        "num": 155021,
+        "word": "美联储主席发布会提及关税超20次",
+        "onboard_time": 1746667710,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 91602,
+        "num": 154123,
+        "word": "张艺兴曾发行名为酒的歌曲",
+        "onboard_time": 1746666752,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "特朗普号召美国民众勒紧裤腰带",
+        "onboard_time": 1746662902,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196900,
+        "num": 150535,
+        "word": "快1岁的妹猪竟然还没被卡住",
+        "onboard_time": 1746670520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147335,
+        "num": 147335,
+        "word": "乘务员错把酒当水倒给3岁小孩",
+        "onboard_time": 1746667769,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136307,
+        "num": 136307,
+        "word": "小米SU7 Ultra量产版",
+        "onboard_time": 1746667590,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128373,
+        "num": 128373,
+        "word": "凯尔特人vs尼克斯",
+        "onboard_time": 1746669680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127755,
+        "num": 127755,
+        "word": "国乒结束成都封训",
+        "onboard_time": 1746668370,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123885,
+        "num": 123885,
+        "word": "smtr25抵达墨西哥路透",
+        "onboard_time": 1746670222,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122005,
+        "num": 122005,
+        "word": "小米汽车",
+        "onboard_time": 1746631342,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119574,
+        "num": 119574,
+        "word": "奈雪内部人士回应改名",
+        "onboard_time": 1746667769,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119475,
+        "num": 119475,
+        "word": "中国留学生在马来西亚遭绑架后获救",
+        "onboard_time": 1746667529,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117331,
+        "num": 117331,
+        "word": "阳光灿烂的笑容有多治愈",
+        "onboard_time": 1746667529,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86510,
+        "num": 113340,
+        "word": "李宏毅杨雨潼同框好养眼",
+        "onboard_time": 1746668660,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112137,
+        "num": 112137,
+        "word": "母亲节礼物",
+        "onboard_time": 1746670820,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108662,
+        "num": 108662,
+        "word": "唐宫奇案首发先导片",
+        "onboard_time": 1746670820,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和俄罗斯是好邻居真朋友好伙伴#"
+    }
+  }
+}
