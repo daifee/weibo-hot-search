@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746732987861,
+  "endTime": 1746736114113,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -555,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16436,
+      "num": 16436,
+      "word": "教授回应被博士生举报学术霸凌",
+      "onboard_time": 1746732374,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15029,
       "num": 96760,
       "word": "另一方婚外情该如何保护自己权益",
@@ -571,12 +579,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12451,
+      "num": 14104,
+      "word": "外交部回应菲美澳南海联合巡航炒作",
+      "onboard_time": 1746734534,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12234,
       "num": 21366,
       "word": "中俄人民在血与火淬炼中凝结伟大友谊",
       "onboard_time": 1746732734,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11863,
+      "num": 16209,
+      "word": "曝特朗普将宣布与英国的贸易协议",
+      "onboard_time": 1746735854,
+      "rank": 33,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
