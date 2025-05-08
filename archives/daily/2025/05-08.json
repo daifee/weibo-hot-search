@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746689133282,
+  "endTime": 1746689986824,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1285911,
-      "num": 370648,
+      "num": 433971,
       "word": "香港蔡天凤碎尸案押后6月裁决",
       "onboard_time": 1746681261,
       "rank": 16,
@@ -107,7 +107,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 975492,
+      "raw_hot": 1012337,
+      "num": 1161973,
+      "word": "敢偷中国人的手机你是疯了吧",
+      "onboard_time": 1746687442,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1002301,
       "num": 1156078,
       "word": "白鹿名牌变白梦妍",
       "onboard_time": 1746687142,
@@ -169,14 +177,6 @@
       "onboard_time": 1746678023,
       "rank": 28,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 707482,
-      "num": 306622,
-      "word": "敢偷中国人的手机你是疯了吧",
-      "onboard_time": 1746687442,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 704666,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 393195,
-      "num": 393195,
+      "num": 602073,
       "word": "南部战区发声",
       "onboard_time": 1746684442,
       "rank": 12,
@@ -419,6 +419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 372049,
+      "num": 640018,
+      "word": "上海交大一博士生举报教授学术霸凌",
+      "onboard_time": 1746687982,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368240,
       "num": 368240,
       "word": "小女孩拿自家金饰去卖老板直接扣下",
@@ -427,8 +435,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368094,
+      "num": 368094,
+      "word": "刘德华 还想生啊",
+      "onboard_time": 1746688702,
+      "rank": 24,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 365684,
-      "num": 365684,
+      "num": 498369,
       "word": "肖战新剧将登陆央视八套",
       "onboard_time": 1746679584,
       "rank": 6,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 350409,
-      "num": 350409,
+      "num": 508708,
       "word": "武汉暴风雨下上演现实版海上钢琴师",
       "onboard_time": 1746684022,
       "rank": 18,
@@ -483,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342905,
+      "num": 342905,
+      "word": "淘宝免单 120",
+      "onboard_time": 1746688222,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 340836,
       "num": 340836,
       "word": "酵色 虞书欣",
@@ -507,12 +531,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322428,
+      "num": 584631,
+      "word": "刘耀文外务常驻新综",
+      "onboard_time": 1746687682,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321783,
+      "num": 321783,
+      "word": "淘宝免单 虎扑",
+      "onboard_time": 1746688282,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 308477,
       "num": 322006,
       "word": "正午阳光评价肖战",
       "onboard_time": 1746681442,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301143,
+      "num": 301143,
+      "word": "这就是街舞",
+      "onboard_time": 1746687081,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 296666,
@@ -571,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272009,
+      "num": 224064,
+      "word": "boss直聘 秀恩爱",
+      "onboard_time": 1746689660,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266410,
       "num": 229343,
       "word": "周柯宇 战至巅峰",
@@ -601,14 +657,6 @@
       "onboard_time": 1746683722,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 259431,
-      "num": 293608,
-      "word": "刘耀文外务常驻新综",
-      "onboard_time": 1746687682,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 254322,
@@ -649,6 +697,14 @@
       "onboard_time": 1746674060,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 243785,
+      "num": 293711,
+      "word": "为什么说E人养狗I人养猫",
+      "onboard_time": 1746687923,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 243286,
@@ -699,14 +755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227299,
-      "num": 227299,
-      "word": "这就是街舞",
-      "onboard_time": 1746687081,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226064,
       "num": 226064,
       "word": "美联储",
@@ -739,20 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223272,
-      "num": 223272,
-      "word": "刘德华 还想生啊",
-      "onboard_time": 1746688702,
-      "rank": 24,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 221880,
       "num": 221880,
       "word": "肖战代号1207",
       "onboard_time": 1746674122,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216826,
+      "num": 216826,
+      "word": "重庆大学回应本科生发14篇SCI论文",
+      "onboard_time": 1746687862,
+      "rank": 31,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 216748,
@@ -769,22 +817,6 @@
       "onboard_time": 1746623423,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 214786,
-      "num": 214786,
-      "word": "上海交大一博士生举报教授学术霸凌",
-      "onboard_time": 1746687982,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214756,
-      "num": 214756,
-      "word": "重庆大学回应本科生发14篇SCI论文",
-      "onboard_time": 1746687862,
-      "rank": 31,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 213998,
@@ -825,22 +857,6 @@
       "onboard_time": 1746688161,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212206,
-      "num": 212206,
-      "word": "淘宝免单 虎扑",
-      "onboard_time": 1746688282,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 211432,
-      "num": 211432,
-      "word": "淘宝免单 120",
-      "onboard_time": 1746688222,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 209730,
@@ -995,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194739,
+      "num": 194739,
+      "word": "杜华身上痒就去洗澡",
+      "onboard_time": 1746689483,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194018,
       "num": 194018,
       "word": "对悟空死亡的一些看法",
@@ -1091,6 +1115,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 187090,
+      "num": 187090,
+      "word": "王俊凯昆明活动",
+      "onboard_time": 1746689122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186872,
       "num": 186872,
       "word": "肖战一二零七以谍报挽战局",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1746677003,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185526,
+      "num": 185526,
+      "word": "迪丽热巴邪恶莲蓉包",
+      "onboard_time": 1746689841,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 184835,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1746684022,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 182594,
+      "num": 435032,
+      "word": "这不得把打工人迷死了",
+      "onboard_time": 1746687923,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 182349,
@@ -1275,6 +1323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172565,
+      "num": 172565,
+      "word": "白鹿曾舜晞宣传临江仙",
+      "onboard_time": 1746689660,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171715,
       "num": 266657,
       "word": "李佳琦妈妈直播带货",
@@ -1339,20 +1395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163558,
+      "num": 434758,
+      "word": "邓为超A怼脸拍",
+      "onboard_time": 1746687923,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162679,
       "num": 162679,
       "word": "凯尔特人两场出手100记三分",
       "onboard_time": 1746674002,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162250,
-      "num": 281356,
-      "word": "邓为超A怼脸拍",
-      "onboard_time": 1746687923,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 162210,
@@ -1403,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156482,
+      "num": 156482,
+      "word": "A股军工股全线爆发",
+      "onboard_time": 1746689722,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156094,
       "num": 156094,
       "word": "黄景瑜黄明昊林一人均宽肩窄腰",
@@ -1451,20 +1515,20 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 153977,
-      "num": 278466,
-      "word": "这不得把打工人迷死了",
-      "onboard_time": 1746687923,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 153541,
       "num": 153541,
       "word": "乘风2025四公小考",
       "onboard_time": 1746682643,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152642,
+      "num": 152642,
+      "word": "巴基斯坦外长盛赞歼10C",
+      "onboard_time": 1746685582,
+      "rank": 45,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 151723,
@@ -1475,20 +1539,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151650,
+      "num": 225859,
+      "word": "月薪上万快打不起羽毛球了",
+      "onboard_time": 1746688222,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150775,
       "num": 313723,
       "word": "国乒结束成都封训",
       "onboard_time": 1746668370,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150277,
-      "num": 150277,
-      "word": "巴基斯坦外长盛赞歼10C",
-      "onboard_time": 1746685582,
-      "rank": 45,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 147086,
@@ -1545,14 +1609,6 @@
       "onboard_time": 1746677722,
       "rank": 2,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141379,
-      "num": 214768,
-      "word": "月薪上万快打不起羽毛球了",
-      "onboard_time": 1746688222,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140719,
@@ -1736,6 +1792,14 @@
       "word": "偷拿理发店千元剪刀女子被拘",
       "onboard_time": 1746680424,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119032,
+      "num": 435777,
+      "word": "医生高铁上救人后反被要求登记信息",
+      "onboard_time": 1746689302,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2019,6 +2083,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73412,
+      "num": 178990,
+      "word": "歼10C是怎么击杀印度阵风的",
+      "onboard_time": 1746688942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 73091,
+      "num": 435582,
+      "word": "巴基斯坦信德省卡拉奇发生爆炸",
+      "onboard_time": 1746689002,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72930,
       "num": 72930,
       "word": "女教师抗癌7年离世成大体老师",
@@ -2041,14 +2121,6 @@
       "onboard_time": 1746686601,
       "rank": 39,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 69827,
-      "num": 293711,
-      "word": "为什么说E人养狗I人养猫",
-      "onboard_time": 1746687923,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 69044,
@@ -2075,12 +2147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65988,
+      "num": 434414,
+      "word": "婚介机构广告牌现越南新娘七天领证",
+      "onboard_time": 1746688343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64967,
       "num": 64967,
       "word": "芭莎滕王阁晚宴",
       "onboard_time": 1746637458,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64786,
+      "num": 214780,
+      "word": "喝完眼睛皮肤亮亮的饮品",
+      "onboard_time": 1746688761,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64700,
@@ -2105,6 +2193,14 @@
       "onboard_time": 1746660019,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 61629,
+      "num": 179491,
+      "word": "国防部奉劝有关国家不要引狼入室",
+      "onboard_time": 1746689899,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61562,
@@ -2219,14 +2315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44798,
-      "num": 211761,
-      "word": "巴基斯坦信德省卡拉奇发生爆炸",
-      "onboard_time": 1746689002,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44338,
       "num": 697324,
       "word": "一图速览一揽子金融增量政策",
@@ -2263,22 +2351,6 @@
       "num": 303071,
       "word": "216平住宅违规改出10个卫生间",
       "onboard_time": 1746680903,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41180,
-      "num": 214780,
-      "word": "喝完眼睛皮肤亮亮的饮品",
-      "onboard_time": 1746688761,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40715,
-      "num": 277420,
-      "word": "婚介机构广告牌现越南新娘七天领证",
-      "onboard_time": 1746688343,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -2371,14 +2443,6 @@
       "category": "海外新闻,议题讨论"
     },
     {
-      "raw_hot": 29392,
-      "num": 178157,
-      "word": "歼10C是怎么击杀印度阵风的",
-      "onboard_time": 1746688942,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28082,
       "num": 266768,
       "word": "上班付出的情绪劳动让人疲惫",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1746639376,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26886,
+      "num": 434195,
+      "word": "特朗普为何帮忙解决印巴冲突",
+      "onboard_time": 1746688942,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26472,
@@ -2457,14 +2529,6 @@
       "onboard_time": 1746646815,
       "rank": 32,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 20530,
-      "num": 212531,
-      "word": "特朗普为何帮忙解决印巴冲突",
-      "onboard_time": 1746688942,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20341,
