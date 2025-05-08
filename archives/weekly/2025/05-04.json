@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746670864082,
+  "endTime": 1746674184117,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -81,6 +81,14 @@
       "onboard_time": 1746365845,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2366410,
+      "num": 1192037,
+      "word": "月薪三千4年存了10万块",
+      "onboard_time": 1746669921,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 2327757,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 1313401,
-      "num": 335463,
+      "num": 380047,
       "word": "印巴125架战机激战1小时",
       "onboard_time": 1746666691,
       "rank": 10,
@@ -491,14 +499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1192037,
-      "num": 1192037,
-      "word": "月薪三千4年存了10万块",
-      "onboard_time": 1746669921,
-      "rank": 0,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1160004,
       "num": 1185600,
       "word": "日本一地出现神秘地鸣",
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1126561,
-      "num": 335360,
+      "num": 369754,
       "word": "悟空",
       "onboard_time": 1746667950,
       "rank": 12,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 1058186,
-      "num": 335402,
+      "num": 364213,
       "word": "杜淳妻子发长文给未婚女生十点建议",
       "onboard_time": 1746665071,
       "rank": 11,
@@ -825,6 +825,14 @@
       "onboard_time": 1746350121,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 935881,
+      "num": 1149741,
+      "word": "谍报上不封顶",
+      "onboard_time": 1746608483,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 934762,
@@ -1555,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660353,
+      "num": 445956,
+      "word": "优酷发了好多剧的海报",
+      "onboard_time": 1746670700,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 660322,
       "num": 804641,
       "word": "藏海传",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1746630324,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 634297,
+      "num": 634297,
+      "word": "两个人能在一起未必是因为爱情",
+      "onboard_time": 1746669921,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 632977,
@@ -2675,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436002,
+      "num": 436002,
+      "word": "小米暂停SU7Ultra限制马力版本推送",
+      "onboard_time": 1746671422,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 434277,
       "num": 434277,
       "word": "被胖东来寄律师函的胖都来正常营业",
@@ -2859,6 +2891,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 405334,
+      "num": 405334,
+      "word": "乘务员错把酒当水倒给3岁小孩",
+      "onboard_time": 1746667769,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403066,
       "num": 403066,
       "word": "石宇奇苏杯战神",
@@ -2937,6 +2977,14 @@
       "onboard_time": 1746588563,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 392456,
+      "num": 392456,
+      "word": "谍报上不封顶 周冬雨",
+      "onboard_time": 1746668130,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 392363,
@@ -3291,6 +3339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352844,
+      "num": 352844,
+      "word": "新闻女王2",
+      "onboard_time": 1746674060,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352501,
       "num": 352501,
       "word": "90后干部多次收受茅台五粮液",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1746344960,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 352139,
+      "num": 352139,
+      "word": "鸿蒙pc",
+      "onboard_time": 1746671302,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 351163,
@@ -3585,6 +3649,14 @@
       "onboard_time": 1746575361,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 329528,
+      "num": 352737,
+      "word": "奔跑吧",
+      "onboard_time": 1746672140,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 328294,
@@ -4089,6 +4161,14 @@
       "onboard_time": 1746415642,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287193,
+      "num": 287193,
+      "word": "黄金跳水有人一次性狂买10万元",
+      "onboard_time": 1746671900,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 286998,
@@ -4939,6 +5019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243286,
+      "num": 243286,
+      "word": "肖战新角色人设",
+      "onboard_time": 1746672500,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243073,
       "num": 287235,
       "word": "王嘉尔新歌和印度巨星合作",
@@ -4985,6 +5073,14 @@
       "onboard_time": 1746506844,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238260,
+      "num": 238260,
+      "word": "益禾堂 魔道祖师",
+      "onboard_time": 1746674060,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 236913,
@@ -5283,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224054,
+      "num": 224054,
+      "word": "七分靠打拼",
+      "onboard_time": 1746674060,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223779,
       "num": 398206,
       "word": "莆田8岁男童野山失踪时间线",
@@ -5435,14 +5539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216858,
-      "num": 191560,
-      "word": "两个人能在一起未必是因为爱情",
-      "onboard_time": 1746669921,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216667,
       "num": 216667,
       "word": "妈妈绑背带哄娃睡觉宝宝不慎后仰摔地",
@@ -5457,14 +5553,6 @@
       "onboard_time": 1746582922,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216390,
-      "num": 216390,
-      "word": "优酷发了好多剧的海报",
-      "onboard_time": 1746670700,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 216152,
@@ -5529,6 +5617,14 @@
       "onboard_time": 1746288801,
       "rank": 42,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 213998,
+      "num": 213998,
+      "word": "库里更衣室落泪",
+      "onboard_time": 1746671240,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 213800,
@@ -5809,6 +5905,14 @@
       "onboard_time": 1746367406,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207218,
+      "num": 207218,
+      "word": "雷霆首节领先掘金24分",
+      "onboard_time": 1746674002,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 207169,
@@ -6171,6 +6275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201870,
+      "num": 201870,
+      "word": "肖战代号1207",
+      "onboard_time": 1746674122,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201764,
       "num": 201764,
       "word": "吴彤以为柯淳是关系户",
@@ -6443,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196248,
+      "num": 196248,
+      "word": "王星越新剧阴湿味好冲",
+      "onboard_time": 1746674122,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196212,
       "num": 196212,
       "word": "田曦薇五一plog",
@@ -6619,6 +6739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194018,
+      "num": 194018,
+      "word": "对悟空死亡的一些看法",
+      "onboard_time": 1746672741,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193788,
       "num": 247354,
       "word": "何洁发视频自荐歌手2025",
@@ -6641,6 +6769,14 @@
       "onboard_time": 1746357142,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193577,
+      "num": 193577,
+      "word": "韩束 丁禹兮",
+      "onboard_time": 1746674060,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 193512,
@@ -7057,6 +7193,14 @@
       "onboard_time": 1746588862,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 184835,
+      "num": 184835,
+      "word": "吉赛尔ins头像是林娜琏",
+      "onboard_time": 1746673341,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 184626,
@@ -8515,20 +8659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157883,
+      "num": 157883,
+      "word": "母亲节礼物",
+      "onboard_time": 1746670820,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157724,
       "num": 157724,
       "word": "景区回应灵隐寺小卖部年租金260万",
       "onboard_time": 1746418822,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157242,
-      "num": 157242,
-      "word": "谍报上不封顶",
-      "onboard_time": 1746608483,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 157231,
@@ -8625,6 +8769,14 @@
       "onboard_time": 1746461841,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156144,
+      "num": 386848,
+      "word": "中方回应美称与中国谈判前不降关税",
+      "onboard_time": 1746673402,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156110,
@@ -9235,14 +9387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147335,
-      "num": 147335,
-      "word": "乘务员错把酒当水倒给3岁小孩",
-      "onboard_time": 1746667769,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147164,
       "num": 147164,
       "word": "5月5日13时57分迎来立夏",
@@ -9507,12 +9651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143667,
+      "num": 143667,
+      "word": "北约轰炸中牺牲的3位烈士雕像塑成",
+      "onboard_time": 1746672442,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143657,
       "num": 143657,
       "word": "酸涩文TOP名场面",
       "onboard_time": 1746626843,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 143567,
+      "num": 184534,
+      "word": "跑男常州青果巷录制",
+      "onboard_time": 1746672863,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 143341,
@@ -9553,6 +9713,14 @@
       "onboard_time": 1746356960,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142874,
+      "num": 142874,
+      "word": "广西放假离校后失联女生遗体被找到",
+      "onboard_time": 1746673821,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 142819,
@@ -10019,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136888,
+      "num": 158174,
+      "word": "女孩cos石矶娘娘成景区打卡点",
+      "onboard_time": 1746672261,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136848,
       "num": 196712,
       "word": "灵魂画手卡琳娜画哆啦A梦",
@@ -10243,6 +10419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134217,
+      "num": 134217,
+      "word": "樱桃琥珀 耳机分你一半",
+      "onboard_time": 1746674122,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134068,
       "num": 134068,
       "word": "惠英红最想合作宋佳杨幂马丽",
@@ -10329,6 +10513,14 @@
       "onboard_time": 1746373045,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132896,
+      "num": 158010,
+      "word": "唐宫奇案首发先导片",
+      "onboard_time": 1746670820,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132617,
@@ -11475,6 +11667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116328,
+      "num": 352421,
+      "word": "五月天对我说你是唯一",
+      "onboard_time": 1746670942,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116313,
       "num": 116313,
       "word": "十个勤天直播",
@@ -11723,14 +11923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112137,
-      "num": 112137,
-      "word": "母亲节礼物",
-      "onboard_time": 1746670820,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112093,
       "num": 112093,
       "word": "故事鲜艳而缘分却太浅",
@@ -11921,14 +12113,6 @@
       "onboard_time": 1746452424,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108662,
-      "num": 108662,
-      "word": "唐宫奇案首发先导片",
-      "onboard_time": 1746670820,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108559,
@@ -14067,6 +14251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54204,
+      "num": 206738,
+      "word": "郑钦文罗马赛首战对阵达尼洛维奇",
+      "onboard_time": 1746673942,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54080,
       "num": 54080,
       "word": "巴菲特建议找工作不要太在意薪水",
@@ -14977,6 +15169,14 @@
       "onboard_time": 1746596302,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31015,
+      "num": 144323,
+      "word": "毛发干枯易断可能是气血虚",
+      "onboard_time": 1746667590,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30775,
@@ -16113,6 +16313,14 @@
       "onboard_time": 1746535283,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 8435,
+      "num": 158782,
+      "word": "乌克兰为何沦落为欧洲最穷国",
+      "onboard_time": 1746674060,
+      "rank": 39,
+      "category": "海外新闻,议题讨论"
     },
     {
       "raw_hot": 8273,
