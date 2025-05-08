@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746675024790,
+  "endTime": 1746676582816,
   "band_list": [
     {
       "raw_hot": 2366410,
@@ -19,20 +19,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1292098,
+      "num": 554269,
+      "word": "悟空",
+      "onboard_time": 1746667950,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1279383,
       "num": 1279383,
       "word": "淘宝免单答案清一色",
       "onboard_time": 1746665071,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1126561,
-      "num": 554269,
-      "word": "悟空",
-      "onboard_time": 1746667950,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 1058186,
@@ -107,6 +107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 696279,
+      "num": 696279,
+      "word": "中方回应美称与中国谈判前不降关税",
+      "onboard_time": 1746673402,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 688782,
       "num": 688782,
       "word": "安陵容 替身",
@@ -139,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 609288,
-      "num": 609288,
-      "word": "中方回应美称与中国谈判前不降关税",
-      "onboard_time": 1746673402,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 578990,
       "num": 578990,
       "word": "泡泡玛特股份被创始股东高位清仓",
@@ -169,6 +169,22 @@
       "onboard_time": 1746664891,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504456,
+      "num": 489054,
+      "word": "王星越新剧阴湿味好冲",
+      "onboard_time": 1746674122,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 487704,
+      "num": 487704,
+      "word": "七分靠打拼",
+      "onboard_time": 1746674060,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 479871,
@@ -195,6 +211,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 437692,
+      "num": 495568,
+      "word": "发帖网友回应刘畊宏强制清场争议",
+      "onboard_time": 1746676101,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 434118,
+      "num": 290312,
+      "word": "办公室轮流请奶茶 窒息",
+      "onboard_time": 1746675921,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 432639,
       "num": 432639,
       "word": "特朗普将宣布波斯湾改称阿拉伯湾",
@@ -209,14 +241,6 @@
       "onboard_time": 1746667769,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 413963,
-      "num": 413963,
-      "word": "七分靠打拼",
-      "onboard_time": 1746674060,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 392456,
@@ -283,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329888,
+      "num": 329888,
+      "word": "樱桃琥珀 耳机分你一半",
+      "onboard_time": 1746674122,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329528,
       "num": 417210,
       "word": "奔跑吧",
@@ -323,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265906,
-      "num": 265906,
-      "word": "王星越新剧阴湿味好冲",
-      "onboard_time": 1746674122,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265810,
       "num": 265810,
       "word": "女子吐槽半个玉米扣蛋挞上50元",
       "onboard_time": 1746662902,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256672,
+      "num": 256672,
+      "word": "三得利 成毅",
+      "onboard_time": 1746675260,
+      "rank": 23,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 252907,
@@ -361,6 +393,14 @@
       "onboard_time": 1746674060,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 244173,
+      "num": 333811,
+      "word": "提前很久订酒店突然涨价要补3倍差价",
+      "onboard_time": 1746674662,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 243286,
@@ -411,11 +451,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217420,
-      "num": 217420,
-      "word": "樱桃琥珀 耳机分你一半",
-      "onboard_time": 1746674122,
-      "rank": 49,
+      "raw_hot": 220017,
+      "num": 220017,
+      "word": "大男主剧海报",
+      "onboard_time": 1746674722,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -467,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207667,
+      "num": 207667,
+      "word": "上海60岁女生花掉养老金的一天",
+      "onboard_time": 1746675382,
+      "rank": 27,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 207218,
       "num": 207218,
       "word": "雷霆首节领先掘金24分",
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203290,
+      "num": 203290,
+      "word": "陶昕然25岁演出了安陵容的复杂",
+      "onboard_time": 1746675982,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202467,
       "num": 330358,
       "word": "丁真说演十八铜人把自己害惨了",
@@ -497,14 +553,6 @@
       "onboard_time": 1746674481,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200092,
-      "num": 200092,
-      "word": "大男主剧海报",
-      "onboard_time": 1746674722,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 196900,
@@ -539,6 +587,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193956,
+      "num": 193956,
+      "word": "凤凰台上首发预告",
+      "onboard_time": 1746675982,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "南部战区回应菲艇企图侵闯我黄岩岛领海",
+      "onboard_time": 1746675202,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191231,
       "num": 191231,
       "word": "雷军回应很久没健身打卡",
@@ -564,11 +628,19 @@
     },
     {
       "raw_hot": 188863,
-      "num": 188863,
+      "num": 206738,
       "word": "广西放假离校后失联女生遗体被找到",
       "onboard_time": 1746673821,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 186872,
+      "num": 186872,
+      "word": "肖战一二零七以谍报挽战局",
+      "onboard_time": 1746675743,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184835,
@@ -651,6 +723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165945,
+      "num": 165945,
+      "word": "白鹿王星越唐宫新海报",
+      "onboard_time": 1746675861,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165643,
       "num": 165643,
       "word": "全KPL在恭喜Gemini",
@@ -707,6 +787,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 154108,
+      "num": 154108,
+      "word": "首款鸿蒙电脑亮相",
+      "onboard_time": 1746675082,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151723,
       "num": 319037,
       "word": "Bin霸气发言",
@@ -721,6 +809,14 @@
       "onboard_time": 1746668370,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147086,
+      "num": 147086,
+      "word": "外公去世7年砍的柴还没用",
+      "onboard_time": 1746674542,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 143813,
@@ -859,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120315,
+      "num": 206426,
+      "word": "脑机接口概念拉升",
+      "onboard_time": 1746675682,
+      "rank": 29,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "印巴背后或涉及中美博弈",
@@ -971,14 +1075,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 98879,
-      "num": 333811,
-      "word": "提前很久订酒店突然涨价要补3倍差价",
-      "onboard_time": 1746674662,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 96332,
       "num": 96332,
       "word": "巴基斯坦将对印军入侵做出回应",
@@ -1033,6 +1129,14 @@
       "onboard_time": 1746631403,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77743,
+      "num": 180730,
+      "word": "工作能力和人情世故哪个重要",
+      "onboard_time": 1746674243,
+      "rank": 38,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 76575,
@@ -1195,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47341,
+      "num": 231101,
+      "word": "阿森纳本赛季四大皆空",
+      "onboard_time": 1746675802,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45988,
       "num": 45988,
       "word": "长大后最恐怖的事情之一",
@@ -1204,7 +1316,7 @@
     },
     {
       "raw_hot": 44338,
-      "num": 694403,
+      "num": 697324,
       "word": "一图速览一揽子金融增量政策",
       "onboard_time": 1746627504,
       "rank": 2,
@@ -1275,14 +1387,6 @@
       "category": "海外新闻,议题讨论"
     },
     {
-      "raw_hot": 29541,
-      "num": 180730,
-      "word": "工作能力和人情世故哪个重要",
-      "onboard_time": 1746674243,
-      "rank": 38,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 27932,
       "num": 47172,
       "word": "我的动植物朋友们",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1746641594,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22967,
+      "num": 298656,
+      "word": "去世30年邓丽君依然是大女主",
+      "onboard_time": 1746675442,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 22019,
