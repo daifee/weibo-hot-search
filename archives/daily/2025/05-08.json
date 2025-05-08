@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746683036262,
+  "endTime": 1746686169644,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -17,6 +17,14 @@
       "onboard_time": 1746669921,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2186580,
+      "num": 371633,
+      "word": "网红猫 悬赏击杀",
+      "onboard_time": 1746682221,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1420210,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1285911,
-      "num": 322057,
+      "num": 370648,
       "word": "香港蔡天凤碎尸案押后6月裁决",
       "onboard_time": 1746681261,
       "rank": 16,
@@ -131,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 765821,
+      "num": 765821,
+      "word": "店主讲述刘畊宏南宁拍摄事件经过",
+      "onboard_time": 1746685462,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 736543,
       "num": 1338337,
       "word": "家访二本学生后我的认知被颠覆了",
@@ -188,19 +204,11 @@
     },
     {
       "raw_hot": 640144,
-      "num": 261673,
+      "num": 293055,
       "word": "小说男主竟然成了我的男友",
       "onboard_time": 1746678923,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 627410,
-      "num": 261633,
-      "word": "网红猫 悬赏击杀",
-      "onboard_time": 1746682221,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 578990,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514247,
+      "num": 514247,
+      "word": "中餐厅 丁禹兮",
+      "onboard_time": 1746682042,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508067,
       "num": 508067,
       "word": "黄金",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 497891,
-      "num": 257083,
+      "num": 258510,
       "word": "博君一肖app图标",
       "onboard_time": 1746679943,
       "rank": 31,
@@ -275,20 +291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481331,
+      "num": 367454,
+      "word": "小S二女儿回应是否进演艺圈",
+      "onboard_time": 1746683062,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479871,
       "num": 479871,
       "word": "谍战上不封顶 周冬雨",
       "onboard_time": 1746668130,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 479013,
-      "num": 479013,
-      "word": "中餐厅 丁禹兮",
-      "onboard_time": 1746682042,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 470055,
@@ -321,6 +337,14 @@
       "onboard_time": 1746662241,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 421319,
+      "num": 421319,
+      "word": "尾鱼女主都选了谋女郎",
+      "onboard_time": 1746683420,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 419389,
@@ -371,8 +395,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353994,
-      "num": 353994,
+      "raw_hot": 365684,
+      "num": 365684,
       "word": "肖战新剧将登陆央视八套",
       "onboard_time": 1746679584,
       "rank": 6,
@@ -419,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 340836,
+      "num": 340836,
+      "word": "酵色 虞书欣",
+      "onboard_time": 1746683182,
+      "rank": 17,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 329528,
       "num": 417210,
       "word": "奔跑吧",
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 308477,
-      "num": 308477,
+      "num": 322006,
       "word": "正午阳光评价肖战",
       "onboard_time": 1746681442,
       "rank": 24,
@@ -483,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273242,
+      "num": 273242,
+      "word": "武契奇回应被禁飞一脸落寞",
+      "onboard_time": 1746681383,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266410,
       "num": 229343,
       "word": "周柯宇 战至巅峰",
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 261806,
-      "num": 333990,
+      "num": 514919,
       "word": "给女患者查前列腺是对医保动歪脑筋",
       "onboard_time": 1746680783,
       "rank": 14,
@@ -555,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236838,
+      "num": 323087,
+      "word": "陈妍希被搀扶着走红毯",
+      "onboard_time": 1746683722,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 231352,
       "num": 231352,
       "word": "特朗普号召美国民众勒紧裤腰带",
@@ -587,12 +635,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228795,
+      "num": 228795,
+      "word": "西藏人年均吃糖7斤成全国第一",
+      "onboard_time": 1746682221,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226064,
       "num": 226064,
       "word": "美联储",
       "onboard_time": 1746659899,
       "rank": 26,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 223584,
+      "num": 223584,
+      "word": "巴外长证实歼10击落印度战机",
+      "onboard_time": 1746682102,
+      "rank": 29,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 223539,
@@ -617,6 +681,14 @@
       "onboard_time": 1746674122,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221660,
+      "num": 369159,
+      "word": "南部战区发声",
+      "onboard_time": 1746684442,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216748,
@@ -681,6 +753,14 @@
       "onboard_time": 1746674961,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207774,
+      "num": 311344,
+      "word": "张艺兴回归这就是街舞7",
+      "onboard_time": 1746684862,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 207667,
@@ -755,20 +835,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199818,
+      "num": 235019,
+      "word": "严浩翔新说唱贝雷帽look",
+      "onboard_time": 1746685642,
+      "rank": 34,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 196900,
       "num": 150535,
       "word": "快1岁的妹猪竟然还没被卡住",
       "onboard_time": 1746670520,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195426,
-      "num": 261724,
-      "word": "武契奇回应被禁飞一脸落寞",
-      "onboard_time": 1746681383,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 195408,
@@ -875,6 +955,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 188302,
+      "num": 336073,
+      "word": "武汉暴风雨下上演现实版海上钢琴师",
+      "onboard_time": 1746684022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188037,
+      "num": 188037,
+      "word": "王者荣耀",
+      "onboard_time": 1746685881,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187569,
       "num": 194926,
       "word": "美联储不降息三大原因",
@@ -889,6 +985,14 @@
       "onboard_time": 1746675743,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186822,
+      "num": 186822,
+      "word": "离了沈腾马丽谁还逗我们笑",
+      "onboard_time": 1746685224,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 186724,
@@ -931,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182642,
+      "num": 182642,
+      "word": "韩安冉说女儿遗传了前夫的多动症",
+      "onboard_time": 1746684022,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 182349,
       "num": 182349,
       "word": "女子用公筷试吃超市咸菜后插回",
@@ -955,12 +1067,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181183,
+      "num": 298598,
+      "word": "日本地铁出现随机杀人事件",
+      "onboard_time": 1746685102,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179709,
       "num": 192011,
       "word": "孙颖莎交换Pin是迎接广阔世界的新方式",
       "onboard_time": 1746679223,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178919,
+      "num": 178919,
+      "word": "南太铉吸毒缓刑期间酒驾",
+      "onboard_time": 1746683602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 178284,
@@ -1033,14 +1161,6 @@
       "onboard_time": 1746680003,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168196,
-      "num": 168196,
-      "word": "西藏人年均吃糖7斤成全国第一",
-      "onboard_time": 1746682221,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165945,
@@ -1139,6 +1259,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 154710,
+      "num": 154710,
+      "word": "冉莹颖公开儿子五月追高计划",
+      "onboard_time": 1746682762,
+      "rank": 48,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 154454,
       "num": 154454,
       "word": "美年达 登陆少年",
@@ -1153,6 +1281,14 @@
       "onboard_time": 1746675082,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153985,
+      "num": 153985,
+      "word": "抛弃精致感去旅行真的好爽",
+      "onboard_time": 1746684742,
+      "rank": 43,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 153541,
@@ -1179,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149588,
+      "num": 307481,
+      "word": "全国降水最强势的一天",
+      "onboard_time": 1746684202,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147086,
       "num": 147086,
       "word": "外公去世7年砍的柴还没用",
       "onboard_time": 1746674542,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144898,
+      "num": 341378,
+      "word": "美民众说特朗普电影关税真的很蠢",
+      "onboard_time": 1746680903,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143813,
@@ -1227,11 +1379,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140784,
+      "num": 140784,
+      "word": "小猫已经暗示得这么明显了",
+      "onboard_time": 1746685523,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140719,
+      "num": 140719,
+      "word": "蒋敦豪在大家看不见的角落挺主动的",
+      "onboard_time": 1746685821,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140220,
+      "num": 140220,
+      "word": "黄景瑜黄明昊林一人均宽肩窄腰",
+      "onboard_time": 1746686061,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138579,
       "num": 138579,
       "word": "张泽禹 藏哪了",
       "onboard_time": 1746682643,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137889,
+      "num": 274183,
+      "word": "张凌赫在开推3出场即是人生镜头",
+      "onboard_time": 1746685702,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1275,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134355,
-      "num": 134355,
-      "word": "冉莹颖公开儿子五月追高计划",
-      "onboard_time": 1746682762,
-      "rank": 48,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 133686,
       "num": 133686,
       "word": "中美经贸高层会谈是应美方请求举行的",
@@ -1305,14 +1481,6 @@
       "onboard_time": 1746670942,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130045,
-      "num": 341378,
-      "word": "美民众说特朗普电影关税真的很蠢",
-      "onboard_time": 1746680903,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129327,
@@ -1723,20 +1891,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61267,
-      "num": 193427,
-      "word": "巴外长证实歼10击落印度战机",
-      "onboard_time": 1746682102,
-      "rank": 29,
-      "category": "军事,民生新闻"
-    },
-    {
       "raw_hot": 61114,
       "num": 71686,
       "word": "樊振东给孙颖莎签名",
       "onboard_time": 1746613943,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61060,
+      "num": 293627,
+      "word": "阵风生产商股价骤跌",
+      "onboard_time": 1746685283,
+      "rank": 28,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 61016,
@@ -1785,6 +1953,22 @@
       "onboard_time": 1746673942,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51677,
+      "num": 316748,
+      "word": "亚历山大正负值正51",
+      "onboard_time": 1746685642,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51578,
+      "num": 133268,
+      "word": "邻居装修水泥冲破墙把家淹了",
+      "onboard_time": 1746684142,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51096,
@@ -1849,6 +2033,14 @@
       "onboard_time": 1746680903,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41027,
+      "num": 372103,
+      "word": "首批受高额关税影响的货船到美国了",
+      "onboard_time": 1746685343,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37169,
@@ -1971,12 +2163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24125,
+      "num": 184031,
+      "word": "绝对代差是种什么感觉",
+      "onboard_time": 1746685582,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 22967,
       "num": 298656,
       "word": "去世30年邓丽君依然是大女主",
       "onboard_time": 1746675442,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22895,
+      "num": 368348,
+      "word": "救护车转运重症病人半路要求加价",
+      "onboard_time": 1746685702,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22019,
@@ -2129,6 +2337,14 @@
       "onboard_time": 1746670282,
       "rank": 29,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 10531,
+      "num": 333957,
+      "word": "朱开说BLG夺冠LPL收益最大",
+      "onboard_time": 1746685702,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 10005,

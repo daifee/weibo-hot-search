@@ -1,0 +1,410 @@
+{
+  "runTime": 1746686169644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097115,
+        "num": 1175538,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539528,
+        "num": 953013,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 67331,
+        "num": 846743,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 765821,
+        "num": 765821,
+        "word": "店主讲述刘畊宏南宁拍摄事件经过",
+        "onboard_time": 1746685462,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 686345,
+        "num": 686345,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222510,
+        "num": 514919,
+        "word": "给女患者查前列腺是对医保动歪脑筋",
+        "onboard_time": 1746680783,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514247,
+        "num": 514247,
+        "word": "中餐厅 丁禹兮",
+        "onboard_time": 1746682042,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421319,
+        "num": 421319,
+        "word": "尾鱼女主都选了谋女郎",
+        "onboard_time": 1746683420,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372703,
+        "num": 372703,
+        "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+        "onboard_time": 1746680063,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41027,
+        "num": 372103,
+        "word": "首批受高额关税影响的货船到美国了",
+        "onboard_time": 1746685343,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2186580,
+        "num": 371633,
+        "word": "网红猫 悬赏击杀",
+        "onboard_time": 1746682221,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718263,
+        "num": 370648,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 221660,
+        "num": 369159,
+        "word": "南部战区发声",
+        "onboard_time": 1746684442,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22895,
+        "num": 368348,
+        "word": "救护车转运重症病人半路要求加价",
+        "onboard_time": 1746685702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481331,
+        "num": 367454,
+        "word": "小S二女儿回应是否进演艺圈",
+        "onboard_time": 1746683062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394950,
+        "num": 365957,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365684,
+        "num": 365684,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340836,
+        "num": 340836,
+        "word": "酵色 虞书欣",
+        "onboard_time": 1746683182,
+        "rank": 17,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 188302,
+        "num": 336073,
+        "word": "武汉暴风雨下上演现实版海上钢琴师",
+        "onboard_time": 1746684022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10531,
+        "num": 333957,
+        "word": "朱开说BLG夺冠LPL收益最大",
+        "onboard_time": 1746685702,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 333076,
+        "num": 333076,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 327244,
+        "num": 327244,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236838,
+        "num": 323087,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219737,
+        "num": 322006,
+        "word": "正午阳光评价肖战",
+        "onboard_time": 1746681442,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51677,
+        "num": 316748,
+        "word": "亚历山大正负值正51",
+        "onboard_time": 1746685642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207774,
+        "num": 311344,
+        "word": "张艺兴回归这就是街舞7",
+        "onboard_time": 1746684862,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149588,
+        "num": 307481,
+        "word": "全国降水最强势的一天",
+        "onboard_time": 1746684202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 298598,
+        "word": "日本地铁出现随机杀人事件",
+        "onboard_time": 1746685102,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61060,
+        "num": 293627,
+        "word": "阵风生产商股价骤跌",
+        "onboard_time": 1746685283,
+        "rank": 28,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 293055,
+        "num": 293055,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144898,
+        "num": 275977,
+        "word": "美民众说特朗普电影关税真的很蠢",
+        "onboard_time": 1746680903,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137889,
+        "num": 274183,
+        "word": "张凌赫在开推3出场即是人生镜头",
+        "onboard_time": 1746685702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273242,
+        "num": 273242,
+        "word": "武契奇回应被禁飞一脸落寞",
+        "onboard_time": 1746681383,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258510,
+        "num": 258510,
+        "word": "博君一肖app图标",
+        "onboard_time": 1746679943,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199818,
+        "num": 235019,
+        "word": "严浩翔新说唱贝雷帽look",
+        "onboard_time": 1746685642,
+        "rank": 34,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 228795,
+        "num": 228795,
+        "word": "西藏人年均吃糖7斤成全国第一",
+        "onboard_time": 1746682221,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223584,
+        "num": 223584,
+        "word": "巴外长证实歼10击落印度战机",
+        "onboard_time": 1746682102,
+        "rank": 36,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 188037,
+        "num": 188037,
+        "word": "王者荣耀",
+        "onboard_time": 1746685881,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186822,
+        "num": 186822,
+        "word": "离了沈腾马丽谁还逗我们笑",
+        "onboard_time": 1746685224,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24125,
+        "num": 184031,
+        "word": "绝对代差是种什么感觉",
+        "onboard_time": 1746685582,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 182642,
+        "num": 182642,
+        "word": "韩安冉说女儿遗传了前夫的多动症",
+        "onboard_time": 1746684022,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 178919,
+        "num": 178919,
+        "word": "南太铉吸毒缓刑期间酒驾",
+        "onboard_time": 1746683602,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154710,
+        "num": 154710,
+        "word": "冉莹颖公开儿子五月追高计划",
+        "onboard_time": 1746682762,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 153985,
+        "word": "抛弃精致感去旅行真的好爽",
+        "onboard_time": 1746684742,
+        "rank": 43,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 140784,
+        "num": 140784,
+        "word": "小猫已经暗示得这么明显了",
+        "onboard_time": 1746685523,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140719,
+        "num": 140719,
+        "word": "蒋敦豪在大家看不见的角落挺主动的",
+        "onboard_time": 1746685821,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "黄景瑜黄明昊林一人均宽肩窄腰",
+        "onboard_time": 1746686061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140137,
+        "num": 140137,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51578,
+        "num": 133268,
+        "word": "邻居装修水泥冲破墙把家淹了",
+        "onboard_time": 1746684142,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132378,
+        "num": 132378,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系不断焕发新活力#"
+    }
+  }
+}
