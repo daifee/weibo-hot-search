@@ -1,0 +1,410 @@
+{
+  "runTime": 1746689133282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975492,
+        "num": 1156078,
+        "word": "白鹿名牌变白梦妍",
+        "onboard_time": 1746687142,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446045,
+        "num": 983105,
+        "word": "家访二本学生后我的认知被颠覆了",
+        "onboard_time": 1746678023,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 84674,
+        "num": 903838,
+        "word": "直击莫斯科接机现场",
+        "onboard_time": 1746677722,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1713600,
+        "num": 897860,
+        "word": "日本地铁出现随机杀人事件",
+        "onboard_time": 1746685102,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 881618,
+        "num": 881618,
+        "word": "办公室轮流请奶茶 窒息",
+        "onboard_time": 1746675921,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521975,
+        "num": 521975,
+        "word": "店主讲述刘畊宏南宁拍摄事件经过",
+        "onboard_time": 1746685462,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454424,
+        "num": 454424,
+        "word": "DeepSeek认为最难学的语言",
+        "onboard_time": 1746678923,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 393195,
+        "num": 393195,
+        "word": "南部战区发声",
+        "onboard_time": 1746684442,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350409,
+        "num": 350409,
+        "word": "武汉暴风雨下上演现实版海上钢琴师",
+        "onboard_time": 1746684022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310784,
+        "num": 310784,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 707482,
+        "num": 306622,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460568,
+        "num": 306212,
+        "word": "香港蔡天凤碎尸案押后6月裁决",
+        "onboard_time": 1746681261,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 393268,
+        "num": 302789,
+        "word": "小S二女儿回应是否进演艺圈",
+        "onboard_time": 1746683062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294406,
+        "num": 294406,
+        "word": "肖战新剧将登陆央视八套",
+        "onboard_time": 1746679584,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69827,
+        "num": 293711,
+        "word": "为什么说E人养狗I人养猫",
+        "onboard_time": 1746687923,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 259431,
+        "num": 293608,
+        "word": "刘耀文外务常驻新综",
+        "onboard_time": 1746687682,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293540,
+        "num": 293540,
+        "word": "中餐厅 丁禹兮",
+        "onboard_time": 1746682042,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162250,
+        "num": 281356,
+        "word": "邓为超A怼脸拍",
+        "onboard_time": 1746687923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153977,
+        "num": 278466,
+        "word": "这不得把打工人迷死了",
+        "onboard_time": 1746687923,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40715,
+        "num": 277420,
+        "word": "婚介机构广告牌现越南新娘七天领证",
+        "onboard_time": 1746688343,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277329,
+        "num": 277329,
+        "word": "王者荣耀",
+        "onboard_time": 1746685881,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235512,
+        "num": 235512,
+        "word": "尾鱼女主都选了谋女郎",
+        "onboard_time": 1746683420,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235334,
+        "num": 235334,
+        "word": "酵色 虞书欣",
+        "onboard_time": 1746683182,
+        "rank": 22,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 227299,
+        "num": 227299,
+        "word": "这就是街舞",
+        "onboard_time": 1746687081,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223272,
+        "num": 223272,
+        "word": "刘德华 还想生啊",
+        "onboard_time": 1746688702,
+        "rank": 24,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 214786,
+        "num": 214786,
+        "word": "上海交大一博士生举报教授学术霸凌",
+        "onboard_time": 1746687982,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176009,
+        "num": 214785,
+        "word": "全国降水最强势的一天",
+        "onboard_time": 1746684202,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41180,
+        "num": 214780,
+        "word": "喝完眼睛皮肤亮亮的饮品",
+        "onboard_time": 1746688761,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12795,
+        "num": 214774,
+        "word": "誓死效忠猫猫嘴插画",
+        "onboard_time": 1746688402,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141379,
+        "num": 214768,
+        "word": "月薪上万快打不起羽毛球了",
+        "onboard_time": 1746688222,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208625,
+        "num": 214761,
+        "word": "冉莹颖公开儿子五月追高计划",
+        "onboard_time": 1746682762,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 214756,
+        "num": 214756,
+        "word": "重庆大学回应本科生发14篇SCI论文",
+        "onboard_time": 1746687862,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20530,
+        "num": 212531,
+        "word": "特朗普为何帮忙解决印巴冲突",
+        "onboard_time": 1746688942,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212399,
+        "num": 212399,
+        "word": "孙颖莎24个夺冠名场面",
+        "onboard_time": 1746688161,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212206,
+        "num": 212206,
+        "word": "淘宝免单 虎扑",
+        "onboard_time": 1746688282,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44798,
+        "num": 211761,
+        "word": "巴基斯坦信德省卡拉奇发生爆炸",
+        "onboard_time": 1746689002,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211432,
+        "num": 211432,
+        "word": "淘宝免单 120",
+        "onboard_time": 1746688222,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200410,
+        "num": 200410,
+        "word": "男子彩票守号3年中10万错过兑奖",
+        "onboard_time": 1746686301,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179114,
+        "num": 179114,
+        "word": "陈昊宇当师姐了就是不一样",
+        "onboard_time": 1746688582,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29392,
+        "num": 178157,
+        "word": "歼10C是怎么击杀印度阵风的",
+        "onboard_time": 1746688942,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178150,
+        "num": 178150,
+        "word": "哑巴新郎遇上喇叭新娘",
+        "onboard_time": 1746688761,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182150,
+        "num": 176842,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168084,
+        "num": 168084,
+        "word": "被两国禁飞武契奇仍如约抵达莫斯科",
+        "onboard_time": 1746680063,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160604,
+        "num": 160604,
+        "word": "分享一种健康的社交心态",
+        "onboard_time": 1746688822,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158987,
+        "num": 158987,
+        "word": "猫界已经传开人类偷孩子了",
+        "onboard_time": 1746675982,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157204,
+        "num": 157204,
+        "word": "回顾王楚钦孙颖莎德班夺冠时刻",
+        "onboard_time": 1746687743,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150398,
+        "num": 155059,
+        "word": "巴外长证实歼10击落印度战机",
+        "onboard_time": 1746682102,
+        "rank": 46,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 154193,
+        "num": 154193,
+        "word": "小说男主竟然成了我的男友",
+        "onboard_time": 1746678923,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76864,
+        "num": 148738,
+        "word": "国泰航空被指提供过期10个月食品",
+        "onboard_time": 1746687022,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148498,
+        "num": 148498,
+        "word": "张艺兴回归这就是街舞7",
+        "onboard_time": 1746684862,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关系不断焕发新活力#"
+    }
+  }
+}
