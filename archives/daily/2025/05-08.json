@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746674184117,
+  "endTime": 1746675024790,
   "band_list": [
     {
       "raw_hot": 2366410,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1313401,
-      "num": 380047,
+      "num": 555186,
       "word": "印巴125架战机激战1小时",
       "onboard_time": 1746666691,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1126561,
-      "num": 369754,
+      "num": 554269,
       "word": "悟空",
       "onboard_time": 1746667950,
       "rank": 12,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1058186,
-      "num": 364213,
+      "num": 552662,
       "word": "杜淳妻子发长文给未婚女生十点建议",
       "onboard_time": 1746665071,
       "rank": 11,
@@ -51,20 +51,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1023968,
+      "num": 1163834,
+      "word": "谍报上不封顶",
+      "onboard_time": 1746670341,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1013286,
       "num": 1013286,
       "word": "印巴局势再升级",
       "onboard_time": 1746642794,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 935881,
-      "num": 1149741,
-      "word": "谍报上不封顶",
-      "onboard_time": 1746670341,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 872767,
@@ -89,6 +89,14 @@
       "onboard_time": 1746659959,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 785475,
+      "num": 785475,
+      "word": "两个人能在一起未必是因为爱情",
+      "onboard_time": 1746669921,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 704666,
@@ -116,19 +124,27 @@
     },
     {
       "raw_hot": 660353,
-      "num": 445956,
+      "num": 598482,
       "word": "优酷发了好多剧的海报",
       "onboard_time": 1746670700,
       "rank": 16,
       "category": "剧集"
     },
     {
-      "raw_hot": 634297,
-      "num": 634297,
-      "word": "两个人能在一起未必是因为爱情",
-      "onboard_time": 1746669921,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 652349,
+      "num": 652349,
+      "word": "新闻女王2",
+      "onboard_time": 1746674060,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 609288,
+      "num": 609288,
+      "word": "中方回应美称与中国谈判前不降关税",
+      "onboard_time": 1746673402,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 578990,
@@ -137,6 +153,14 @@
       "onboard_time": 1746661280,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 557146,
+      "num": 557146,
+      "word": "小米暂停SU7Ultra限制马力版本推送",
+      "onboard_time": 1746671422,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 521925,
@@ -171,14 +195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 436002,
-      "num": 436002,
-      "word": "小米暂停SU7Ultra限制马力版本推送",
-      "onboard_time": 1746671422,
-      "rank": 4,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 432639,
       "num": 432639,
       "word": "特朗普将宣布波斯湾改称阿拉伯湾",
@@ -187,16 +203,24 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 405334,
-      "num": 405334,
+      "raw_hot": 419389,
+      "num": 572322,
       "word": "乘务员错把酒当水倒给3岁小孩",
       "onboard_time": 1746667769,
       "rank": 37,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413963,
+      "num": 413963,
+      "word": "七分靠打拼",
+      "onboard_time": 1746674060,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 392456,
-      "num": 392456,
+      "num": 418830,
       "word": "谍报上不封顶 周冬雨",
       "onboard_time": 1746668130,
       "rank": 8,
@@ -225,14 +249,6 @@
       "onboard_time": 1746660740,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352844,
-      "num": 352844,
-      "word": "新闻女王2",
-      "onboard_time": 1746674060,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 352139,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 329528,
-      "num": 352737,
+      "num": 417210,
       "word": "奔跑吧",
       "onboard_time": 1746672140,
       "rank": 15,
@@ -307,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265906,
+      "num": 265906,
+      "word": "王星越新剧阴湿味好冲",
+      "onboard_time": 1746674122,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265810,
       "num": 265810,
       "word": "女子吐槽半个玉米扣蛋挞上50元",
       "onboard_time": 1746662902,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252907,
+      "num": 252907,
+      "word": "陈奕迅成功追星陈小霞",
+      "onboard_time": 1746674182,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 247439,
@@ -323,20 +355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245323,
+      "num": 245323,
+      "word": "益禾堂 魔道祖师",
+      "onboard_time": 1746674060,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 243286,
       "num": 243286,
       "word": "肖战新角色人设",
       "onboard_time": 1746672500,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238260,
-      "num": 238260,
-      "word": "益禾堂 魔道祖师",
-      "onboard_time": 1746674060,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 231352,
@@ -363,20 +395,28 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 224054,
-      "num": 224054,
-      "word": "七分靠打拼",
-      "onboard_time": 1746674060,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 223527,
       "num": 223527,
       "word": "东京街头偶遇鹿晗",
       "onboard_time": 1746623483,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221880,
+      "num": 221880,
+      "word": "肖战代号1207",
+      "onboard_time": 1746674122,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217420,
+      "num": 217420,
+      "word": "樱桃琥珀 耳机分你一半",
+      "onboard_time": 1746674122,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 216748,
@@ -419,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209276,
+      "num": 209276,
+      "word": "柳智敏MLB全球品牌代言人",
+      "onboard_time": 1746674961,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207218,
       "num": 207218,
       "word": "雷霆首节领先掘金24分",
@@ -443,11 +491,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201870,
-      "num": 201870,
-      "word": "肖战代号1207",
-      "onboard_time": 1746674122,
-      "rank": 28,
+      "raw_hot": 201158,
+      "num": 201158,
+      "word": "王一博青春探路者",
+      "onboard_time": 1746674481,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200092,
+      "num": 200092,
+      "word": "大男主剧海报",
+      "onboard_time": 1746674722,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -459,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196248,
-      "num": 196248,
-      "word": "王星越新剧阴湿味好冲",
-      "onboard_time": 1746674122,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 195408,
+      "num": 195408,
+      "word": "韩束 丁禹兮",
+      "onboard_time": 1746674060,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 195083,
@@ -483,20 +539,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193577,
-      "num": 193577,
-      "word": "韩束 丁禹兮",
-      "onboard_time": 1746674060,
-      "rank": 31,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 191231,
       "num": 191231,
       "word": "雷军回应很久没健身打卡",
       "onboard_time": 1746669921,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190017,
+      "num": 190017,
+      "word": "奶茶社交",
+      "onboard_time": 1746674542,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189542,
+      "num": 198587,
+      "word": "时代峰峻在优酷团建上了",
+      "onboard_time": 1746674302,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188863,
+      "num": 188863,
+      "word": "广西放假离校后失联女生遗体被找到",
+      "onboard_time": 1746673821,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 184835,
@@ -571,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 171715,
+      "num": 266657,
+      "word": "李佳琦妈妈直播带货",
+      "onboard_time": 1746674662,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 165643,
       "num": 165643,
       "word": "全KPL在恭喜Gemini",
@@ -587,20 +667,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162679,
+      "num": 162679,
+      "word": "凯尔特人两场出手100记三分",
+      "onboard_time": 1746674002,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160815,
+      "num": 160815,
+      "word": "北约轰炸中牺牲的3位烈士雕像塑成",
+      "onboard_time": 1746672442,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157883,
       "num": 157883,
       "word": "母亲节礼物",
       "onboard_time": 1746670820,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156144,
-      "num": 386848,
-      "word": "中方回应美称与中国谈判前不降关税",
-      "onboard_time": 1746673402,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 156090,
@@ -643,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143667,
-      "num": 143667,
-      "word": "北约轰炸中牺牲的3位烈士雕像塑成",
-      "onboard_time": 1746672442,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143567,
       "num": 184534,
       "word": "跑男常州青果巷录制",
@@ -665,14 +745,6 @@
       "onboard_time": 1746664163,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142874,
-      "num": 142874,
-      "word": "广西放假离校后失联女生遗体被找到",
-      "onboard_time": 1746673821,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 136888,
@@ -707,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134217,
-      "num": 134217,
-      "word": "樱桃琥珀 耳机分你一半",
-      "onboard_time": 1746674122,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133686,
       "num": 133686,
       "word": "中美经贸高层会谈是应美方请求举行的",
@@ -729,6 +793,14 @@
       "onboard_time": 1746670820,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131684,
+      "num": 415695,
+      "word": "五月天对我说你是唯一",
+      "onboard_time": 1746670942,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 129327,
@@ -809,14 +881,6 @@
       "onboard_time": 1746663202,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116328,
-      "num": 352421,
-      "word": "五月天对我说你是唯一",
-      "onboard_time": 1746670942,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 114521,
@@ -905,6 +969,14 @@
       "onboard_time": 1746668430,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 98879,
+      "num": 333811,
+      "word": "提前很久订酒店突然涨价要补3倍差价",
+      "onboard_time": 1746674662,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 96332,
@@ -1132,7 +1204,7 @@
     },
     {
       "raw_hot": 44338,
-      "num": 631248,
+      "num": 694403,
       "word": "一图速览一揽子金融增量政策",
       "onboard_time": 1746627504,
       "rank": 2,
@@ -1193,6 +1265,22 @@
       "onboard_time": 1746667590,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29585,
+      "num": 180253,
+      "word": "乌克兰为何沦落为欧洲最穷国",
+      "onboard_time": 1746674060,
+      "rank": 39,
+      "category": "海外新闻,议题讨论"
+    },
+    {
+      "raw_hot": 29541,
+      "num": 180730,
+      "word": "工作能力和人情世故哪个重要",
+      "onboard_time": 1746674243,
+      "rank": 38,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 27932,
@@ -1353,14 +1441,6 @@
       "onboard_time": 1746648973,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8435,
-      "num": 158782,
-      "word": "乌克兰为何沦落为欧洲最穷国",
-      "onboard_time": 1746674060,
-      "rank": 39,
-      "category": "海外新闻,议题讨论"
     }
   ],
   "hotgov_list": [
@@ -1381,6 +1461,9 @@
     },
     {
       "word": "#中国和俄罗斯是好邻居真朋友好伙伴#"
+    },
+    {
+      "word": "#习近平俄罗斯之行#"
     }
   ]
 }

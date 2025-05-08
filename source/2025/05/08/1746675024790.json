@@ -1,0 +1,410 @@
+{
+  "runTime": 1746675024790,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023968,
+        "num": 1163834,
+        "word": "谍报上不封顶",
+        "onboard_time": 1746670341,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 785475,
+        "num": 785475,
+        "word": "两个人能在一起未必是因为爱情",
+        "onboard_time": 1746669921,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42401,
+        "num": 694403,
+        "word": "一图速览一揽子金融增量政策",
+        "onboard_time": 1746627504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652349,
+        "num": 652349,
+        "word": "新闻女王2",
+        "onboard_time": 1746674060,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609288,
+        "num": 609288,
+        "word": "中方回应美称与中国谈判前不降关税",
+        "onboard_time": 1746673402,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2305388,
+        "num": 605995,
+        "word": "月薪三千4年存了10万块",
+        "onboard_time": 1746669921,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 820252,
+        "num": 605098,
+        "word": "淘宝免单答案清一色",
+        "onboard_time": 1746665071,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 598482,
+        "num": 598482,
+        "word": "优酷发了好多剧的海报",
+        "onboard_time": 1746670700,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419389,
+        "num": 572322,
+        "word": "乘务员错把酒当水倒给3岁小孩",
+        "onboard_time": 1746667769,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557146,
+        "num": 557146,
+        "word": "小米暂停SU7Ultra限制马力版本推送",
+        "onboard_time": 1746671422,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1066384,
+        "num": 555186,
+        "word": "印巴125架战机激战1小时",
+        "onboard_time": 1746666691,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1057456,
+        "num": 554269,
+        "word": "悟空",
+        "onboard_time": 1746667950,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 552662,
+        "num": 552662,
+        "word": "杜淳妻子发长文给未婚女生十点建议",
+        "onboard_time": 1746665071,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419169,
+        "num": 419169,
+        "word": "全红婵家新房盖好可拎包入住",
+        "onboard_time": 1746665552,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378336,
+        "num": 418830,
+        "word": "谍报上不封顶 周冬雨",
+        "onboard_time": 1746668130,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316581,
+        "num": 417210,
+        "word": "奔跑吧",
+        "onboard_time": 1746672140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 415695,
+        "word": "五月天对我说你是唯一",
+        "onboard_time": 1746670942,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275498,
+        "num": 414925,
+        "word": "泡泡玛特股份被创始股东高位清仓",
+        "onboard_time": 1746661280,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413963,
+        "num": 413963,
+        "word": "七分靠打拼",
+        "onboard_time": 1746674060,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 333811,
+        "word": "提前很久订酒店突然涨价要补3倍差价",
+        "onboard_time": 1746674662,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 269363,
+        "num": 269363,
+        "word": "鸿蒙pc",
+        "onboard_time": 1746671302,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 266657,
+        "word": "李佳琦妈妈直播带货",
+        "onboard_time": 1746674662,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 265906,
+        "num": 265906,
+        "word": "王星越新剧阴湿味好冲",
+        "onboard_time": 1746674122,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237688,
+        "num": 258240,
+        "word": "黄金跳水有人一次性狂买10万元",
+        "onboard_time": 1746671900,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208989,
+        "num": 253056,
+        "word": "中央气象台连发3预警",
+        "onboard_time": 1746664891,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252907,
+        "num": 252907,
+        "word": "陈奕迅成功追星陈小霞",
+        "onboard_time": 1746674182,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245323,
+        "num": 245323,
+        "word": "益禾堂 魔道祖师",
+        "onboard_time": 1746674060,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 221880,
+        "num": 221880,
+        "word": "肖战代号1207",
+        "onboard_time": 1746674122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217420,
+        "num": 217420,
+        "word": "樱桃琥珀 耳机分你一半",
+        "onboard_time": 1746674122,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209276,
+        "num": 209276,
+        "word": "柳智敏MLB全球品牌代言人",
+        "onboard_time": 1746674961,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201158,
+        "num": 201158,
+        "word": "王一博青春探路者",
+        "onboard_time": 1746674481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200092,
+        "num": 200092,
+        "word": "大男主剧海报",
+        "onboard_time": 1746674722,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189542,
+        "num": 198587,
+        "word": "时代峰峻在优酷团建上了",
+        "onboard_time": 1746674302,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198442,
+        "num": 198442,
+        "word": "肖战新角色人设",
+        "onboard_time": 1746672500,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186819,
+        "num": 196092,
+        "word": "雷霆首节领先掘金24分",
+        "onboard_time": 1746674002,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195408,
+        "num": 195408,
+        "word": "韩束 丁禹兮",
+        "onboard_time": 1746674060,
+        "rank": 35,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 190017,
+        "num": 190017,
+        "word": "奶茶社交",
+        "onboard_time": 1746674542,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188863,
+        "num": 188863,
+        "word": "广西放假离校后失联女生遗体被找到",
+        "onboard_time": 1746673821,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 29541,
+        "num": 180730,
+        "word": "工作能力和人情世故哪个重要",
+        "onboard_time": 1746674243,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 29585,
+        "num": 180253,
+        "word": "乌克兰为何沦落为欧洲最穷国",
+        "onboard_time": 1746674060,
+        "rank": 39,
+        "category": "海外新闻,议题讨论"
+      },
+      {
+        "raw_hot": 46007,
+        "num": 179936,
+        "word": "郑钦文罗马赛首战对阵达尼洛维奇",
+        "onboard_time": 1746673942,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179911,
+        "num": 179911,
+        "word": "吉赛尔ins头像是林娜琏",
+        "onboard_time": 1746673341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175166,
+        "num": 175166,
+        "word": "库里更衣室落泪",
+        "onboard_time": 1746671240,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174686,
+        "num": 174686,
+        "word": "女子吐槽半个玉米扣蛋挞上50元",
+        "onboard_time": 1746662902,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164956,
+        "num": 164956,
+        "word": "巴西女硕士夸日本安全次日疑遭焚尸",
+        "onboard_time": 1746659959,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163679,
+        "num": 163679,
+        "word": "女子上门做饭每天6单月薪近2万",
+        "onboard_time": 1746660740,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162679,
+        "num": 162679,
+        "word": "凯尔特人两场出手100记三分",
+        "onboard_time": 1746674002,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162527,
+        "num": 162527,
+        "word": "印巴局势再升级",
+        "onboard_time": 1746642794,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160815,
+        "num": 160815,
+        "word": "北约轰炸中牺牲的3位烈士雕像塑成",
+        "onboard_time": 1746672442,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150009,
+        "num": 150009,
+        "word": "小女孩拿自家金饰去卖老板直接扣下",
+        "onboard_time": 1746660740,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯之行#"
+    }
+  }
+}
