@@ -1,6 +1,6 @@
 {
   "startTime": 1746635572118,
-  "endTime": 1746693201549,
+  "endTime": 1746694043372,
   "band_list": [
     {
       "raw_hot": 2807138,
@@ -9,6 +9,14 @@
       "onboard_time": 1746675921,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2562935,
+      "num": 2562935,
+      "word": "淘宝免单 我们都一样",
+      "onboard_time": 1746692362,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2366410,
@@ -25,14 +33,6 @@
       "onboard_time": 1746682221,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1790046,
-      "num": 1790046,
-      "word": "淘宝免单 我们都一样",
-      "onboard_time": 1746692362,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1713600,
@@ -99,7 +99,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1108686,
+      "raw_hot": 1163916,
       "num": 1019342,
       "word": "被资本做局了",
       "onboard_time": 1746690022,
@@ -283,12 +283,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 572524,
+      "num": 1797609,
+      "word": "国防部奉劝有关国家不要引狼入室",
+      "onboard_time": 1746689899,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 557146,
       "num": 557146,
       "word": "小米暂停SU7Ultra限制马力版本推送",
       "onboard_time": 1746671422,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 538959,
+      "num": 967573,
+      "word": "老人索要39万元带孙费被驳回",
+      "onboard_time": 1746691881,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 521925,
@@ -313,14 +329,6 @@
       "onboard_time": 1746679462,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 508056,
-      "num": 1621195,
-      "word": "国防部奉劝有关国家不要引狼入室",
-      "onboard_time": 1746689899,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 504456,
@@ -393,6 +401,14 @@
       "onboard_time": 1746629423,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449567,
+      "num": 449567,
+      "word": "大妈走路突然转身撞到男子获赔7万",
+      "onboard_time": 1746690382,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437692,
@@ -523,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347973,
-      "num": 347973,
-      "word": "大妈走路突然转身撞到男子获赔7万",
-      "onboard_time": 1746690382,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344869,
       "num": 265799,
       "word": "王昶24岁生日照",
@@ -593,6 +601,14 @@
       "onboard_time": 1746681442,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306751,
+      "num": 306751,
+      "word": "韩国为柯洁事件改规则",
+      "onboard_time": 1746692003,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 302437,
@@ -707,14 +723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 254373,
-      "num": 967573,
-      "word": "老人索要39万元带孙费被驳回",
-      "onboard_time": 1746691881,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254322,
       "num": 291246,
       "word": "母爱支撑孙颖莎梦想飞翔",
@@ -819,6 +827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229215,
+      "num": 249697,
+      "word": "临江仙变更为32集",
+      "onboard_time": 1746693322,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228795,
       "num": 228795,
       "word": "西藏人年均吃糖7斤成全国第一",
@@ -915,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213709,
-      "num": 286743,
-      "word": "韩国为柯洁事件改规则",
-      "onboard_time": 1746692003,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212551,
       "num": 291382,
       "word": "邓超用我的梗你无需自卑",
@@ -937,6 +945,14 @@
       "onboard_time": 1746688161,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211347,
+      "num": 211347,
+      "word": "把所有人都熬红了你终于肯播了",
+      "onboard_time": 1746693981,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 209730,
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204293,
+      "num": 204293,
+      "word": "我的社交能力",
+      "onboard_time": 1746693562,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 203428,
       "num": 203428,
       "word": "虞书欣韩国机场出发",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1746677844,
       "rank": 30,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 201363,
+      "num": 201363,
+      "word": "A股",
+      "onboard_time": 1746693981,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 201158,
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 193266,
-      "num": 181726,
+      "num": 182328,
       "word": "歼10C是怎么击杀印度阵风的",
       "onboard_time": 1746688942,
       "rank": 39,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1746669921,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190205,
+      "num": 190205,
+      "word": "演员马丽谈电影水饺皇后创作",
+      "onboard_time": 1746693922,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 190017,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1746673821,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188688,
+      "num": 188688,
+      "word": "迪丽热巴你礼貌吗",
+      "onboard_time": 1746693862,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 187569,
@@ -1292,7 +1340,7 @@
     },
     {
       "raw_hot": 182642,
-      "num": 182642,
+      "num": 192680,
       "word": "韩安冉说女儿遗传了前夫的多动症",
       "onboard_time": 1746684022,
       "rank": 40,
@@ -1345,6 +1393,14 @@
       "onboard_time": 1746688582,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178941,
+      "num": 178941,
+      "word": "中国队健儿高考加油壁纸",
+      "onboard_time": 1746693981,
+      "rank": 49,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 178919,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1746677482,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 173312,
+      "num": 183827,
+      "word": "做美国的朋友可能是致命的",
+      "onboard_time": 1746690743,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172565,
@@ -1564,7 +1628,7 @@
     },
     {
       "raw_hot": 156482,
-      "num": 226914,
+      "num": 248026,
       "word": "A股军工股全线爆发",
       "onboard_time": 1746689722,
       "rank": 46,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1746680903,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144832,
+      "num": 1019123,
+      "word": "一线城市的2元面包店还能开多久",
+      "onboard_time": 1746691881,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143813,
@@ -1979,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106109,
+      "num": 943197,
+      "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
+      "onboard_time": 1746692722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104002,
       "num": 256158,
       "word": "芬兰空军一架大黄蜂战机坠毁",
@@ -2049,14 +2129,6 @@
       "onboard_time": 1746633201,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 86631,
-      "num": 1019123,
-      "word": "一线城市的2元面包店还能开多久",
-      "onboard_time": 1746691881,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86134,
@@ -2363,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53237,
+      "num": 289431,
+      "word": "拥有自主军工体系有多么重要",
+      "onboard_time": 1746692482,
+      "rank": 26,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 51817,
       "num": 219899,
       "word": "学习真的能让人长脑子",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1746675802,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46803,
-      "num": 943197,
-      "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
-      "onboard_time": 1746692722,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45988,
@@ -2475,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38926,
+      "num": 238186,
+      "word": "印度空军为何被巴空军压着打",
+      "onboard_time": 1746693201,
+      "rank": 28,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 37169,
       "num": 170286,
       "word": "印巴空战正在改变世界认知",
@@ -2505,6 +2585,14 @@
       "onboard_time": 1746678083,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33765,
+      "num": 1019418,
+      "word": "三个维度解读本轮中美经贸谈判",
+      "onboard_time": 1746692122,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33563,
@@ -2571,6 +2659,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 28405,
+      "num": 243898,
+      "word": "智驾和辅助驾驶区别是什么",
+      "onboard_time": 1746693742,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28082,
       "num": 266768,
       "word": "上班付出的情绪劳动让人疲惫",
@@ -2587,19 +2683,19 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 27576,
+      "num": 379071,
+      "word": "不能把论文男女不分当笑话听",
+      "onboard_time": 1746693562,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26886,
       "num": 434195,
       "word": "特朗普为何帮忙解决印巴冲突",
       "onboard_time": 1746688942,
       "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26732,
-      "num": 1019418,
-      "word": "三个维度解读本轮中美经贸谈判",
-      "onboard_time": 1746692122,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -2611,12 +2707,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24984,
+      "num": 225172,
+      "word": "认识自己比努力更重要",
+      "onboard_time": 1746693142,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24810,
       "num": 40317,
       "word": "丁禹兮执剑变装",
       "onboard_time": 1746641594,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24291,
+      "num": 1492965,
+      "word": "一组图看阅兵前夕的莫斯科",
+      "onboard_time": 1746677482,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24125,
@@ -2651,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21717,
+      "num": 234382,
+      "word": "中国学者质问印度何来资格谴责",
+      "onboard_time": 1746693381,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 21472,
       "num": 265524,
       "word": "武汉70岁雕塑家用2年为三位烈士塑像",
@@ -2673,14 +2793,6 @@
       "onboard_time": 1746646815,
       "rank": 32,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 20366,
-      "num": 1492965,
-      "word": "一组图看阅兵前夕的莫斯科",
-      "onboard_time": 1746677482,
-      "rank": 2,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20341,
@@ -2723,6 +2835,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 18462,
+      "num": 189027,
+      "word": "后半夜易醒或因肝经有邪",
+      "onboard_time": 1746693381,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 17956,
       "num": 280087,
       "word": "景区陪爬能走向正规化吗",
@@ -2745,14 +2865,6 @@
       "onboard_time": 1746692542,
       "rank": 38,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 17545,
-      "num": 289431,
-      "word": "拥有自主军工体系有多么重要",
-      "onboard_time": 1746692482,
-      "rank": 26,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 16802,
@@ -2857,14 +2969,6 @@
       "onboard_time": 1746648973,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8809,
-      "num": 225172,
-      "word": "认识自己比努力更重要",
-      "onboard_time": 1746693142,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 8364,
