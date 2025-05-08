@@ -1,0 +1,410 @@
+{
+  "runTime": 1746701123035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017482,
+        "num": 1162797,
+        "word": "把所有人都熬红了你终于肯播了",
+        "onboard_time": 1746693981,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 977124,
+        "num": 977124,
+        "word": "淘宝免单 1999",
+        "onboard_time": 1746695542,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52437,
+        "num": 666924,
+        "word": "一文带你了解俄罗斯",
+        "onboard_time": 1746695602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602961,
+        "num": 602961,
+        "word": "马嘉祺报名歌手揭榜",
+        "onboard_time": 1746697761,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399453,
+        "num": 399453,
+        "word": "敢偷中国人的手机你是疯了吧",
+        "onboard_time": 1746687442,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379525,
+        "num": 379525,
+        "word": "韩国为柯洁事件改规则",
+        "onboard_time": 1746692003,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569158,
+        "num": 369523,
+        "word": "歌手2025",
+        "onboard_time": 1746697761,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356027,
+        "num": 356027,
+        "word": "网友称在银行买到掺假金条",
+        "onboard_time": 1746698422,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23013,
+        "num": 355961,
+        "word": "一揽子金融政策传递哪些重要信号",
+        "onboard_time": 1746694642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77098,
+        "num": 354515,
+        "word": "终于懂了什么叫无情哈拉少",
+        "onboard_time": 1746700221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 885223,
+        "num": 352442,
+        "word": "被资本做局了",
+        "onboard_time": 1746690022,
+        "rank": 10,
+        "category": "幽默,互联网"
+      },
+      {
+        "raw_hot": 513693,
+        "num": 351839,
+        "word": "王宝强四十岁这状态叫欠佳那我算啥",
+        "onboard_time": 1746698002,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358366,
+        "num": 350143,
+        "word": "造谣给家暴丈夫喂猪饲料既蠢又坏",
+        "onboard_time": 1746692722,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349556,
+        "num": 349556,
+        "word": "淘宝免单 我们都一样",
+        "onboard_time": 1746692362,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43207,
+        "num": 322576,
+        "word": "合肥野生动物园一猴子丑出圈",
+        "onboard_time": 1746700102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320515,
+        "num": 320515,
+        "word": "大妈走路突然转身撞到男子获赔7万",
+        "onboard_time": 1746690382,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307285,
+        "num": 307285,
+        "word": "白鹿名牌变白梦妍",
+        "onboard_time": 1746687142,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300341,
+        "num": 300341,
+        "word": "孟子义输的液都是冰美式",
+        "onboard_time": 1746695782,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277139,
+        "num": 299625,
+        "word": "鹭卓直播",
+        "onboard_time": 1746698602,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44604,
+        "num": 299324,
+        "word": "男子拿火锅店餐具给狗喂食",
+        "onboard_time": 1746700821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299245,
+        "num": 299245,
+        "word": "市监局回应女子公筷试吃咸菜后插回",
+        "onboard_time": 1746698781,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298995,
+        "num": 298995,
+        "word": "陈妍希被搀扶着走红毯",
+        "onboard_time": 1746683722,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257881,
+        "num": 257881,
+        "word": "优酷押宝肖战双剧",
+        "onboard_time": 1746698840,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246431,
+        "num": 246431,
+        "word": "四搭 王星越终于做白鹿的男主了",
+        "onboard_time": 1746695182,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226473,
+        "num": 226473,
+        "word": "印巴",
+        "onboard_time": 1746696921,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225543,
+        "num": 225543,
+        "word": "印防长称印军创造了新历史",
+        "onboard_time": 1746694941,
+        "rank": 25,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 222933,
+        "num": 222933,
+        "word": "周柯宇对迪丽热巴说踩我",
+        "onboard_time": 1746699081,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206992,
+        "num": 206992,
+        "word": "巴基斯坦称击落超25架印度无人机",
+        "onboard_time": 1746697462,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206511,
+        "num": 206511,
+        "word": "博士生实名举报教授贴文已不可见",
+        "onboard_time": 1746699443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14298,
+        "num": 199907,
+        "word": "印度大坝已打开两道闸门",
+        "onboard_time": 1746700762,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 220923,
+        "num": 199473,
+        "word": "暖暖Nikki达成100万关注",
+        "onboard_time": 1746700461,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198827,
+        "num": 198827,
+        "word": "boss直聘 秀恩爱",
+        "onboard_time": 1746689660,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198044,
+        "num": 198044,
+        "word": "全场都是张杰演唱会灯光play的一环",
+        "onboard_time": 1746700342,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186141,
+        "num": 194778,
+        "word": "IU进入百想艺术大赏大赏二轮候补",
+        "onboard_time": 1746699502,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194731,
+        "num": 194731,
+        "word": "i人是如何交朋友的",
+        "onboard_time": 1746699983,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193397,
+        "num": 193397,
+        "word": "七位男alpha",
+        "onboard_time": 1746694582,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189528,
+        "num": 189528,
+        "word": "淮水竹亭",
+        "onboard_time": 1746700461,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171828,
+        "num": 171828,
+        "word": "金靖女明星和张凌赫保镖",
+        "onboard_time": 1746699141,
+        "rank": 37,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 6569,
+        "num": 170111,
+        "word": "五月饮食小tips",
+        "onboard_time": 1746701001,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 8352,
+        "num": 169867,
+        "word": "几内亚比绍绿卡仅需3万元",
+        "onboard_time": 1746700882,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 169760,
+        "num": 169760,
+        "word": "2025高考30天倒计时",
+        "onboard_time": 1746696802,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164549,
+        "num": 164549,
+        "word": "刘德华 还想生啊",
+        "onboard_time": 1746688702,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 150771,
+        "num": 150771,
+        "word": "虞书欣用了站姐图",
+        "onboard_time": 1746700882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78766,
+        "num": 148420,
+        "word": "用五月天的方式说爱你",
+        "onboard_time": 1746695062,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147833,
+        "num": 147833,
+        "word": "周翊然领衔主演翘楚",
+        "onboard_time": 1746700582,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147233,
+        "num": 147233,
+        "word": "谁懂白鹿红衣的杀伤力",
+        "onboard_time": 1746700042,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "张泽禹追着猎人聊天",
+        "onboard_time": 1746700342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142462,
+        "num": 142462,
+        "word": "多名毕业生论文致谢樊振东",
+        "onboard_time": 1746695481,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131660,
+        "num": 131660,
+        "word": "boss直聘回应秀恩爱引发不适",
+        "onboard_time": 1746699743,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 128421,
+        "word": "这就是黄子弘凡说的把世界灭掉的高音",
+        "onboard_time": 1746700942,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席第11次俄罗斯之行#"
+    }
+  }
+}
