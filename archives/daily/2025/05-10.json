@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746822460509,
+  "endTime": 1746823282182,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33508,
+      "num": 47530,
+      "word": "中俄人民付出巨大牺牲赢得伟大胜利",
+      "onboard_time": 1746817335,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29881,
       "num": 42264,
       "word": "cp31",
@@ -481,14 +489,6 @@
       "onboard_time": 1746786262,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25130,
-      "num": 47530,
-      "word": "中俄人民付出巨大牺牲赢得伟大胜利",
-      "onboard_time": 1746817335,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24122,
@@ -555,12 +555,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12042,
+      "num": 15430,
+      "word": "官方回应葬礼墙体倒塌人员伤亡",
+      "onboard_time": 1746823154,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11345,
-      "num": 16393,
+      "num": 18778,
       "word": "7句话读懂中俄关系",
       "onboard_time": 1746822194,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10643,
+      "num": 16115,
+      "word": "加沙人吃着饭就被炸死了",
+      "onboard_time": 1746822914,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10062,
