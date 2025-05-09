@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746823282182,
+  "endTime": 1746825779500,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85205,
+      "num": 70311,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 84677,
       "num": 98686,
       "word": "房琪我赌你的歌词里有子弹",
@@ -313,14 +321,6 @@
       "onboard_time": 1746802104,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82161,
-      "num": 70311,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
-      "rank": 38,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 80065,
@@ -427,7 +427,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39309,
+      "raw_hot": 40735,
       "num": 50767,
       "word": "日本地铁砍人嫌犯特意选东大附近作案",
       "onboard_time": 1746809179,
@@ -441,6 +441,14 @@
       "onboard_time": 1746809840,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36640,
+      "num": 36640,
+      "word": "加沙人吃着饭就被炸死了",
+      "onboard_time": 1746822914,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35662,
@@ -515,12 +523,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18035,
-      "num": 16981,
+      "raw_hot": 18869,
+      "num": 17091,
       "word": "多国领导人正陆续抵达克里姆林宫",
       "onboard_time": 1746819195,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17417,
+      "num": 17417,
+      "word": "校方回应献血后可减免晨跑和体育课",
+      "onboard_time": 1746824474,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17221,
@@ -547,6 +563,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14376,
+      "num": 18188,
+      "word": "普京红场讲话提醒牢记二战教训",
+      "onboard_time": 1746823334,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13610,
+      "num": 15430,
+      "word": "官方回应葬礼墙体倒塌人员伤亡",
+      "onboard_time": 1746823154,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12606,
+      "num": 18778,
+      "word": "7句话读懂中俄关系",
+      "onboard_time": 1746822194,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12532,
       "num": 15689,
       "word": "坚定捍卫第二次世界大战胜利成果",
@@ -555,27 +595,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12042,
-      "num": 15430,
-      "word": "官方回应葬礼墙体倒塌人员伤亡",
-      "onboard_time": 1746823154,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11345,
-      "num": 18778,
-      "word": "7句话读懂中俄关系",
-      "onboard_time": 1746822194,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 10643,
-      "num": 16115,
-      "word": "加沙人吃着饭就被炸死了",
-      "onboard_time": 1746822914,
-      "rank": 29,
+      "raw_hot": 11888,
+      "num": 20855,
+      "word": "提醒在巴中国公民加强安全防范",
+      "onboard_time": 1746824954,
+      "rank": 24,
       "category": "国际时政"
     },
     {
