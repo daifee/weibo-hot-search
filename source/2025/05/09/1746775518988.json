@@ -1,0 +1,410 @@
+{
+  "runTime": 1746775518988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805999,
+        "num": 1128959,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 702741,
+        "num": 702741,
+        "word": "心相印",
+        "onboard_time": 1746770242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633249,
+        "num": 633249,
+        "word": "巴铁亮出中国反无人机王牌武器",
+        "onboard_time": 1746767602,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 601045,
+        "num": 601045,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416977,
+        "num": 416977,
+        "word": "阅兵",
+        "onboard_time": 1746774441,
+        "rank": 4,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 528418,
+        "num": 394026,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354415,
+        "num": 354415,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341050,
+        "num": 341050,
+        "word": "腾讯更新片单",
+        "onboard_time": 1746770902,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330059,
+        "num": 330059,
+        "word": "下一个天亮好哭",
+        "onboard_time": 1746769283,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226443,
+        "num": 330041,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 735611,
+        "num": 325400,
+        "word": "到了美国才发现并没有滤镜",
+        "onboard_time": 1746771562,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 581476,
+        "num": 323301,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536106,
+        "num": 320018,
+        "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+        "onboard_time": 1746769581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228307,
+        "num": 314680,
+        "word": "刘耀文在家做饭给宋亚轩吃",
+        "onboard_time": 1746772701,
+        "rank": 13,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 72344,
+        "num": 314036,
+        "word": "现在用的撕拉片都是过期货",
+        "onboard_time": 1746774561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207389,
+        "num": 311357,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308400,
+        "num": 308400,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82358,
+        "num": 283505,
+        "word": "杨幂白西装银礼服全拿捏",
+        "onboard_time": 1746770782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15628,
+        "num": 280301,
+        "word": "九号Q解锁骑行情绪密码",
+        "onboard_time": 1746771382,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37270,
+        "num": 278751,
+        "word": "反向升学读技校的大学毕业生",
+        "onboard_time": 1746774622,
+        "rank": 19,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 277428,
+        "num": 277428,
+        "word": "女生输头孢离世家属与医院和解",
+        "onboard_time": 1746766222,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 262401,
+        "num": 262401,
+        "word": "李承铉边睡觉边给戚薇捏脚",
+        "onboard_time": 1746769760,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256393,
+        "num": 256393,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239646,
+        "num": 239646,
+        "word": "学生被7个机构教官殴打致耳聋",
+        "onboard_time": 1746767303,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 207351,
+        "num": 207351,
+        "word": "诀爱 王珞丹",
+        "onboard_time": 1746774202,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205057,
+        "num": 205057,
+        "word": "肖战新中式盘扣白衬衫",
+        "onboard_time": 1746774441,
+        "rank": 25,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 174224,
+        "num": 203208,
+        "word": "虞书欣定点饭撒不理解但尊重",
+        "onboard_time": 1746773962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165164,
+        "num": 203012,
+        "word": "印度光辉战斗机的作战能力如何",
+        "onboard_time": 1746772762,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 202856,
+        "word": "HPV阳性就提示宫颈癌吗",
+        "onboard_time": 1746774802,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202835,
+        "num": 202835,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201058,
+        "num": 201058,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195076,
+        "num": 195076,
+        "word": "孙颖莎嘉人销量破纪录",
+        "onboard_time": 1746774202,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176070,
+        "num": 176070,
+        "word": "孙颖莎五大女刊已解锁三本",
+        "onboard_time": 1746774261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162413,
+        "num": 162413,
+        "word": "俄罗斯阅兵",
+        "onboard_time": 1746756801,
+        "rank": 33,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 160074,
+        "num": 160074,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36305,
+        "num": 158852,
+        "word": "孙颖莎callback小时候",
+        "onboard_time": 1746766523,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158577,
+        "num": 158577,
+        "word": "马嘉祺丁程鑫被光所诱惑",
+        "onboard_time": 1746774861,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64338,
+        "num": 155915,
+        "word": "孙颖莎状态被阳光聆听",
+        "onboard_time": 1746775462,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19445,
+        "num": 154396,
+        "word": "探访巴基斯坦地下兵工厂",
+        "onboard_time": 1746775282,
+        "rank": 38,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 31302,
+        "num": 154192,
+        "word": "一家三口的自行车环球旅行",
+        "onboard_time": 1746773481,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 154082,
+        "num": 154082,
+        "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
+        "onboard_time": 1746773061,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149296,
+        "num": 149296,
+        "word": "恒安集团回应客服辱骂顾客送冥币",
+        "onboard_time": 1746770242,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148921,
+        "num": 148921,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145265,
+        "num": 145265,
+        "word": "大理偶遇陈好宋茜",
+        "onboard_time": 1746769343,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144649,
+        "num": 144649,
+        "word": "虹猫蓝兔小时候也吃得太好了",
+        "onboard_time": 1746774983,
+        "rank": 44,
+        "category": "动漫,民生新闻"
+      },
+      {
+        "raw_hot": 140565,
+        "num": 140565,
+        "word": "大叔3次出手救了3条人命",
+        "onboard_time": 1746775162,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 65500,
+        "num": 138820,
+        "word": "宫崎骏动画在AI时代有何意义",
+        "onboard_time": 1746774082,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138426,
+        "num": 138426,
+        "word": "鹿晗应援棒",
+        "onboard_time": 1746767963,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133203,
+        "num": 133203,
+        "word": "吴敬平晒樊振东球迷礼物",
+        "onboard_time": 1746773542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127354,
+        "num": 127354,
+        "word": "谢娜看到叶童赢哭了",
+        "onboard_time": 1746771261,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}

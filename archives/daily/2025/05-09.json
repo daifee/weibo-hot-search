@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746773359677,
+  "endTime": 1746775518988,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735611,
+      "num": 325400,
+      "word": "到了美国才发现并没有滤镜",
+      "onboard_time": 1746771562,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 723495,
       "num": 723495,
       "word": "世乒赛后王楚钦无法重返世一",
@@ -153,6 +161,14 @@
       "onboard_time": 1746755841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 702741,
+      "num": 702741,
+      "word": "心相印",
+      "onboard_time": 1746770242,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 692019,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536106,
+      "num": 680585,
+      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+      "onboard_time": 1746769581,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520350,
       "num": 706278,
       "word": "广州暴雨",
@@ -315,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422728,
-      "num": 183684,
-      "word": "到了美国才发现并没有滤镜",
-      "onboard_time": 1746771562,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 416977,
+      "num": 416977,
+      "word": "阅兵",
+      "onboard_time": 1746774441,
+      "rank": 4,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 414702,
@@ -395,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341050,
+      "num": 341050,
+      "word": "腾讯更新片单",
+      "onboard_time": 1746770902,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331775,
       "num": 1021196,
       "word": "爸爸当家",
       "onboard_time": 1746762383,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328453,
-      "num": 680585,
-      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
-      "onboard_time": 1746769581,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321444,
@@ -595,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256393,
+      "num": 256393,
+      "word": "5月10日起结婚离婚都不用户口本",
+      "onboard_time": 1746774920,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251718,
       "num": 728428,
       "word": "空空导弹是24小时无人自动化生产",
@@ -659,20 +691,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229733,
-      "num": 205136,
-      "word": "腾讯更新片单",
-      "onboard_time": 1746770902,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229313,
       "num": 305451,
       "word": "谢娜看到叶童赢哭了",
       "onboard_time": 1746771261,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228307,
+      "num": 314680,
+      "word": "刘耀文在家做饭给宋亚轩吃",
+      "onboard_time": 1746772701,
+      "rank": 23,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 226443,
+      "num": 330041,
+      "word": "红场阅兵前中国排面高唱当那一天来临",
+      "onboard_time": 1746774321,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223044,
@@ -787,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207351,
+      "num": 207351,
+      "word": "诀爱 王珞丹",
+      "onboard_time": 1746774202,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207101,
       "num": 994947,
       "word": "肖战开了家东方客栈",
@@ -819,20 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204423,
-      "num": 204423,
-      "word": "刘耀文在家做饭给宋亚轩吃",
-      "onboard_time": 1746772701,
-      "rank": 23,
-      "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 204315,
-      "num": 204315,
-      "word": "心相印",
-      "onboard_time": 1746770242,
+      "raw_hot": 205057,
+      "num": 205057,
+      "word": "肖战新中式盘扣白衬衫",
+      "onboard_time": 1746774441,
       "rank": 25,
-      "category": "民生新闻"
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 202672,
@@ -897,6 +937,14 @@
       "onboard_time": 1746767663,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195076,
+      "num": 195076,
+      "word": "孙颖莎嘉人销量破纪录",
+      "onboard_time": 1746774202,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 193913,
@@ -1075,6 +1123,22 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 176070,
+      "num": 176070,
+      "word": "孙颖莎五大女刊已解锁三本",
+      "onboard_time": 1746774261,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174224,
+      "num": 203208,
+      "word": "虞书欣定点饭撒不理解但尊重",
+      "onboard_time": 1746773962,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174103,
       "num": 174103,
       "word": "印度看到这个视频天塌了",
@@ -1147,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165164,
+      "num": 203012,
+      "word": "印度光辉战斗机的作战能力如何",
+      "onboard_time": 1746772762,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 164685,
       "num": 168378,
       "word": "孙颖莎摄影于聪",
@@ -1187,12 +1259,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158577,
+      "num": 158577,
+      "word": "马嘉祺丁程鑫被光所诱惑",
+      "onboard_time": 1746774861,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157071,
       "num": 157071,
       "word": "柳州8元一碗的白粥",
       "onboard_time": 1746749002,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154082,
+      "num": 154082,
+      "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
+      "onboard_time": 1746773061,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148736,
@@ -1227,14 +1315,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 145715,
-      "num": 145715,
-      "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
-      "onboard_time": 1746773061,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145534,
       "num": 166892,
       "word": "3岁女孩铊中毒毒源来自哪里",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1746711503,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144649,
+      "num": 144649,
+      "word": "虹猫蓝兔小时候也吃得太好了",
+      "onboard_time": 1746774983,
+      "rank": 44,
+      "category": "动漫,民生新闻"
     },
     {
       "raw_hot": 144166,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1746759922,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140565,
+      "num": 140565,
+      "word": "大叔3次出手救了3条人命",
+      "onboard_time": 1746775162,
+      "rank": 45,
+      "category": "正能量"
     },
     {
       "raw_hot": 140218,
@@ -1355,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133203,
+      "num": 133203,
+      "word": "吴敬平晒樊振东球迷礼物",
+      "onboard_time": 1746773542,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132911,
       "num": 132911,
       "word": "宋妍霏单手撑地起",
@@ -1369,14 +1473,6 @@
       "onboard_time": 1746719781,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128746,
-      "num": 193728,
-      "word": "印度光辉战斗机的作战能力如何",
-      "onboard_time": 1746772762,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 127678,
@@ -1763,6 +1859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72344,
+      "num": 314036,
+      "word": "现在用的撕拉片都是过期货",
+      "onboard_time": 1746774561,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "日本人饭量具象化",
@@ -1803,12 +1907,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65500,
+      "num": 138820,
+      "word": "宫崎骏动画在AI时代有何意义",
+      "onboard_time": 1746774082,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64415,
       "num": 64415,
       "word": "教授回应被博士生举报学术霸凌",
       "onboard_time": 1746732374,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64338,
+      "num": 155915,
+      "word": "孙颖莎状态被阳光聆听",
+      "onboard_time": 1746775462,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 64143,
@@ -1995,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37270,
+      "num": 278751,
+      "word": "反向升学读技校的大学毕业生",
+      "onboard_time": 1746774622,
+      "rank": 19,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 35122,
       "num": 97199,
       "word": "野兽先生视频爆火的背后",
@@ -2025,6 +2153,14 @@
       "onboard_time": 1746751760,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31302,
+      "num": 154192,
+      "word": "一家三口的自行车环球旅行",
+      "onboard_time": 1746773481,
+      "rank": 39,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 29227,
@@ -2099,6 +2235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20617,
+      "num": 202856,
+      "word": "HPV阳性就提示宫颈癌吗",
+      "onboard_time": 1746774802,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20189,
       "num": 226484,
       "word": "印称遭巴导弹和无人机袭击巴方否认",
@@ -2113,6 +2257,14 @@
       "onboard_time": 1746728596,
       "rank": 47,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 19445,
+      "num": 154396,
+      "word": "探访巴基斯坦地下兵工厂",
+      "onboard_time": 1746775282,
+      "rank": 38,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 19128,
