@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746830493052,
+  "endTime": 1746833001616,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -43,12 +43,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 466157,
+      "num": 782988,
+      "word": "印称巴派出300至400架无人机发动攻击",
+      "onboard_time": 1746806181,
+      "rank": 10,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 441867,
       "num": 252961,
       "word": "内娱最有味道的吻戏出现了",
       "onboard_time": 1746797541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417983,
+      "num": 97084,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 404441,
@@ -67,20 +83,12 @@
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 345440,
-      "num": 505287,
-      "word": "印称巴派出300至400架无人机发动攻击",
-      "onboard_time": 1746806181,
-      "rank": 10,
-      "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 336430,
-      "num": 90057,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
-      "rank": 38,
-      "category": "军事,民生新闻"
+      "raw_hot": 336530,
+      "num": 336530,
+      "word": "西安雷雨夜再现龙形不明飞行物",
+      "onboard_time": 1746793702,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310136,
@@ -123,20 +131,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 224335,
-      "num": 231630,
-      "word": "西安雷雨夜再现龙形不明飞行物",
-      "onboard_time": 1746793702,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222940,
       "num": 222940,
       "word": "贵州发现罕见幽灵之花",
       "onboard_time": 1746795023,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221735,
+      "num": 73632,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1746828315,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198610,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160438,
+      "num": 160438,
+      "word": "巴方称击落29架印度无人机",
+      "onboard_time": 1746826994,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160161,
       "num": 160161,
       "word": "梁田吃了5天胡允庭做的牛肉面",
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136639,
+      "num": 136639,
+      "word": "南京一大学被曝献血免晨跑和体育课",
+      "onboard_time": 1746792260,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122806,
       "num": 122806,
       "word": "何炅谢娜马嘉祺丁程鑫宋亚轩一起蹦迪",
@@ -203,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109048,
-      "num": 52568,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1746828315,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 111304,
+      "num": 111304,
+      "word": "浪姐后期把张小婉当哪国人整啊",
+      "onboard_time": 1746813137,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 106342,
@@ -219,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104231,
-      "num": 104231,
-      "word": "南京一大学被曝献血免晨跑和体育课",
-      "onboard_time": 1746792260,
-      "rank": 32,
-      "category": "民生新闻,教育"
+      "raw_hot": 98840,
+      "num": 92131,
+      "word": "日本地铁砍人嫌犯特意选东大附近作案",
+      "onboard_time": 1746809179,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98618,
@@ -233,6 +257,14 @@
       "onboard_time": 1746804442,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97987,
+      "num": 97987,
+      "word": "吴镇宇一根手指调整王星表演的眼神",
+      "onboard_time": 1746828795,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 95888,
@@ -283,12 +315,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92189,
-      "num": 92189,
-      "word": "浪姐后期把张小婉当哪国人整啊",
-      "onboard_time": 1746813137,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 91750,
+      "num": 91750,
+      "word": "央八藏海传预热",
+      "onboard_time": 1746802104,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 90466,
@@ -307,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88990,
-      "num": 88990,
-      "word": "日本地铁砍人嫌犯特意选东大附近作案",
-      "onboard_time": 1746809179,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84677,
       "num": 98686,
       "word": "房琪我赌你的歌词里有子弹",
@@ -329,14 +353,6 @@
       "onboard_time": 1746790760,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83039,
-      "num": 90533,
-      "word": "央八藏海传预热",
-      "onboard_time": 1746802104,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 80065,
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74278,
+      "num": 74278,
+      "word": "被中国乘客疯狂投喂",
+      "onboard_time": 1746830356,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74034,
       "num": 74034,
       "word": "朱志鑫首部电视剧镜头",
@@ -385,14 +409,6 @@
       "onboard_time": 1746804622,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73265,
-      "num": 73265,
-      "word": "巴方称击落29架印度无人机",
-      "onboard_time": 1746826994,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71359,
@@ -459,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40024,
+      "num": 40024,
+      "word": "普通人实现财富自由的具体步骤",
+      "onboard_time": 1746831557,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38523,
       "num": 50770,
       "word": "张靓颖刘宇宁合唱九万字",
       "onboard_time": 1746809840,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37395,
+      "num": 37395,
+      "word": "马云现身阿里音乐会",
+      "onboard_time": 1746832818,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 36206,
@@ -491,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35144,
-      "num": 35144,
-      "word": "吴镇宇一根手指调整王星表演的眼神",
-      "onboard_time": 1746828795,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33508,
       "num": 47530,
       "word": "中俄人民付出巨大牺牲赢得伟大胜利",
@@ -507,12 +531,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31418,
+      "num": 31418,
+      "word": "是时候去一趟喀纳斯了",
+      "onboard_time": 1746832939,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 29881,
       "num": 42264,
       "word": "cp31",
       "onboard_time": 1746800843,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29835,
+      "num": 29835,
+      "word": "孙颖莎偷偷比耶",
+      "onboard_time": 1746832818,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 28001,
@@ -587,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17193,
-      "num": 25671,
-      "word": "被中国乘客疯狂投喂",
-      "onboard_time": 1746830356,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16382,
       "num": 16382,
       "word": "中俄关于全球战略稳定的联合声明",
@@ -635,8 +667,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12415,
+      "num": 30637,
+      "word": "巴基斯坦驻美大使谴责印度加剧冲突",
+      "onboard_time": 1746832939,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10062,
-      "num": 255278,
+      "num": 271444,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 7,
