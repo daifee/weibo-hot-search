@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746800669403,
+  "endTime": 1746801794066,
   "band_list": [
     {
       "raw_hot": 2420677,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722259,
+      "num": 722259,
+      "word": "内娱最有味道的吻戏出现了",
+      "onboard_time": 1746797541,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714065,
       "num": 714065,
       "word": "淘宝免单 重逢的季节",
@@ -305,14 +313,6 @@
       "onboard_time": 1746755841,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696488,
-      "num": 696488,
-      "word": "内娱最有味道的吻戏出现了",
-      "onboard_time": 1746797541,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 693722,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 647586,
-      "num": 316499,
+      "num": 367745,
       "word": "韩安冉说自己存款不到20万",
       "onboard_time": 1746797962,
       "rank": 33,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454194,
+      "num": 293477,
+      "word": "网红姜涛为娶妻生子退网",
+      "onboard_time": 1746800424,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 451302,
       "num": 451302,
       "word": "荣昌高书记问开这么多药房干什么",
@@ -592,6 +600,14 @@
       "word": "七旬大爷出门散步被拉去割眼袋",
       "onboard_time": 1746762262,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392353,
+      "num": 392353,
+      "word": "贵州发现罕见幽灵之花",
+      "onboard_time": 1746795023,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 347210,
+      "num": 347210,
+      "word": "国际乒联公开收入",
+      "onboard_time": 1746800964,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342507,
       "num": 139041,
       "word": "本科生14篇SCI论文疑与其父相关",
@@ -785,14 +809,6 @@
       "onboard_time": 1746758001,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314295,
-      "num": 314295,
-      "word": "贵州发现罕见幽灵之花",
-      "onboard_time": 1746795023,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313446,
@@ -1091,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236936,
+      "num": 236936,
+      "word": "斗罗大陆2动画",
+      "onboard_time": 1746800424,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 233523,
       "num": 233523,
       "word": "优酷纪录片2025片单",
@@ -1243,20 +1267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211206,
+      "num": 211206,
+      "word": "李耕耘健身照",
+      "onboard_time": 1746800545,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210081,
       "num": 224200,
       "word": "去文淇的梦里看一看",
       "onboard_time": 1746777801,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209324,
-      "num": 209324,
-      "word": "斗罗大陆2动画",
-      "onboard_time": 1746800424,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 208561,
@@ -1296,6 +1320,14 @@
       "word": "肖战开了家东方客栈",
       "onboard_time": 1746763522,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206871,
+      "num": 206871,
+      "word": "湖南卫视又连发8条成毅",
+      "onboard_time": 1746800783,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1499,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "cp31",
+      "onboard_time": 1746800843,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191864,
       "num": 425004,
       "word": "王楚钦唱无限温柔",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1746765683,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190022,
+      "num": 206129,
+      "word": "马嘉祺回复湖南卫视歌手",
+      "onboard_time": 1746801264,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 189990,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1746764363,
       "rank": 45,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 187282,
-      "num": 187282,
-      "word": "网红姜涛为娶妻生子退网",
-      "onboard_time": 1746800424,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 186771,
@@ -1979,12 +2019,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162998,
+      "num": 162998,
+      "word": "结婚离婚为什么不需要户口本了",
+      "onboard_time": 1746799825,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 162602,
       "num": 162602,
       "word": "孙颖莎callback小时候",
       "onboard_time": 1746766523,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161981,
+      "num": 202225,
+      "word": "芒果又有好看的医疗群像剧了",
+      "onboard_time": 1746801443,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161598,
+      "num": 161598,
+      "word": "章昊BadBoy舞台",
+      "onboard_time": 1746801324,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 160624,
@@ -2044,7 +2108,7 @@
     },
     {
       "raw_hot": 156953,
-      "num": 156953,
+      "num": 195989,
       "word": "一直减肥却瘦不下来的原因",
       "onboard_time": 1746797184,
       "rank": 32,
@@ -2200,6 +2264,14 @@
       "word": "谢娜回复李小冉爱你就是爱你",
       "onboard_time": 1746761241,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143873,
+      "num": 251598,
+      "word": "郑恺陪李昀锐练网球",
+      "onboard_time": 1746800483,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2387,12 +2459,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134316,
-      "num": 134316,
-      "word": "结婚离婚为什么不需要户口本了",
-      "onboard_time": 1746799825,
-      "rank": 48,
-      "category": "议题讨论"
+      "raw_hot": 133919,
+      "num": 133919,
+      "word": "淘宝免单 1212",
+      "onboard_time": 1746798382,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 133815,
@@ -2432,6 +2504,14 @@
       "word": "王霏霏有的是力气和手段",
       "onboard_time": 1746786860,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131565,
+      "num": 131565,
+      "word": "周深想不起女演员名字",
+      "onboard_time": 1746801744,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2667,6 +2747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119184,
+      "num": 142941,
+      "word": "梁伟铿苏杯男双杀球球速第一",
+      "onboard_time": 1746800664,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118497,
       "num": 529894,
       "word": "郑钦文vs达尼洛维奇",
@@ -2755,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113836,
+      "num": 363437,
+      "word": "百色一葬礼墙体倒塌多人死伤",
+      "onboard_time": 1746801144,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113713,
       "num": 113713,
       "word": "马嘉祺丁程鑫熟人演不了一点戏",
@@ -2833,6 +2929,14 @@
       "onboard_time": 1746780081,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 110427,
+      "num": 149213,
+      "word": "外媒评印巴空战为灾难",
+      "onboard_time": 1746801384,
+      "rank": 39,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 109740,
@@ -2931,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103331,
-      "num": 186341,
-      "word": "郑恺陪李昀锐练网球",
-      "onboard_time": 1746800483,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102587,
       "num": 117219,
       "word": "赵一博沈月爱情保安",
@@ -3009,6 +3105,22 @@
       "onboard_time": 1746746959,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95518,
+      "num": 876416,
+      "word": "中文强军战歌响彻红场",
+      "onboard_time": 1746799883,
+      "rank": 2,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 92623,
+      "num": 351664,
+      "word": "广厦男篮总决赛首胜",
+      "onboard_time": 1746801024,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 92559,
@@ -3467,14 +3579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47607,
-      "num": 876416,
-      "word": "中文强军战歌响彻红场",
-      "onboard_time": 1746799883,
-      "rank": 2,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 47339,
       "num": 228837,
       "word": "乌克兰已准备好停火30天",
@@ -3603,8 +3707,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 39643,
+      "num": 251419,
+      "word": "商家298元售非遗证书称持证月薪过万",
+      "onboard_time": 1746800545,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38519,
-      "num": 375209,
+      "num": 389997,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 9,
@@ -3827,14 +3939,6 @@
       "category": "海外新闻,民生新闻"
     },
     {
-      "raw_hot": 23288,
-      "num": 169199,
-      "word": "商家298元售非遗证书称持证月薪过万",
-      "onboard_time": 1746800545,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23113,
       "num": 272298,
       "word": "客服用冥币侮辱顾客该如何担责",
@@ -3881,6 +3985,22 @@
       "onboard_time": 1746720501,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20803,
+      "num": 200210,
+      "word": "降息后深圳有楼盘单日客流近千人",
+      "onboard_time": 1746801024,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20693,
+      "num": 152073,
+      "word": "当年种下的植物变成什么样了",
+      "onboard_time": 1746800783,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20641,
@@ -4136,6 +4256,9 @@
     },
     {
       "word": "#习近平出席红场阅兵式#"
+    },
+    {
+      "word": "#为中俄关系定向领航#"
     }
   ]
 }
