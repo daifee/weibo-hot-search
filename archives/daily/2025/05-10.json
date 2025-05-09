@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746809117428,
+  "endTime": 1746811324656,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -17,6 +17,14 @@
       "onboard_time": 1746792201,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524875,
+      "num": 524875,
+      "word": "李晟真没拿我们当外人",
+      "onboard_time": 1746807741,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 520182,
@@ -41,14 +49,6 @@
       "onboard_time": 1746797541,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 420964,
-      "num": 420964,
-      "word": "李晟真没拿我们当外人",
-      "onboard_time": 1746807741,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 404441,
@@ -187,8 +187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114426,
-      "num": 114426,
+      "raw_hot": 122806,
+      "num": 122806,
       "word": "何炅谢娜马嘉祺丁程鑫宋亚轩一起蹦迪",
       "onboard_time": 1746805582,
       "rank": 25,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82161,
+      "num": 70311,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 80065,
       "num": 80065,
       "word": "斗罗大陆2动画",
@@ -395,12 +403,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58907,
-      "num": 70311,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
+      "raw_hot": 44250,
+      "num": 50770,
+      "word": "迪丽热巴一个平A刘宇宁直接开大",
+      "onboard_time": 1746810439,
       "rank": 38,
-      "category": "军事,民生新闻"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39170,
+      "num": 50767,
+      "word": "日本地铁砍人嫌犯特意选东大附近作案",
+      "onboard_time": 1746809179,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38523,
+      "num": 50770,
+      "word": "张靓颖刘宇宁合唱九万字",
+      "onboard_time": 1746809840,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35662,
+      "num": 50766,
+      "word": "TXT澳门演唱会",
+      "onboard_time": 1746809359,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 10062,
@@ -417,6 +449,9 @@
     },
     {
       "word": "#习近平向中国人民解放军仪仗队致意#"
+    },
+    {
+      "word": "#为中俄关系定向领航#"
     }
   ]
 }
