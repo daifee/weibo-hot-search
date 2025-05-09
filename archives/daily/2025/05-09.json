@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746769338954,
+  "endTime": 1746772569239,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -65,6 +65,22 @@
       "onboard_time": 1746748161,
       "rank": 5,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 1087585,
+      "num": 1087585,
+      "word": "17岁的森碟",
+      "onboard_time": 1746768203,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 1083038,
+      "num": 678012,
+      "word": "心相印客服辱骂顾客并送冥币",
+      "onboard_time": 1746767543,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1073363,
@@ -139,8 +155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 681648,
-      "num": 681648,
+      "raw_hot": 692019,
+      "num": 692019,
       "word": "巴铁亮出中国反无人机王牌武器",
       "onboard_time": 1746767602,
       "rank": 30,
@@ -161,6 +177,14 @@
       "onboard_time": 1746715644,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 652739,
+      "num": 652739,
+      "word": "学生被7个机构教官殴打致耳聋",
+      "onboard_time": 1746767303,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 650209,
@@ -211,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573098,
-      "num": 573098,
-      "word": "17岁的森碟",
-      "onboard_time": 1746768203,
-      "rank": 47,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 555848,
       "num": 230097,
       "word": "重庆大学已成立专项工作组",
@@ -233,6 +249,14 @@
       "onboard_time": 1746752961,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502645,
+      "num": 687574,
+      "word": "向佐喊话赵丽颖下次一起玩",
+      "onboard_time": 1746770721,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 497164,
@@ -299,6 +323,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 377245,
+      "num": 691528,
+      "word": "女生输头孢离世家属与医院和解",
+      "onboard_time": 1746766222,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 364149,
+      "num": 364149,
+      "word": "下一个天亮好哭",
+      "onboard_time": 1746769283,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360995,
       "num": 226245,
       "word": "儿子高烧不退查出白血病妈妈一夜白头",
@@ -336,14 +376,6 @@
       "word": "3岁女童脱发眼神呆滞被查出铊中毒",
       "onboard_time": 1746745579,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349883,
-      "num": 349883,
-      "word": "心相印客服辱骂顾客并送冥币",
-      "onboard_time": 1746767543,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -403,6 +435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 305188,
+      "num": 305188,
+      "word": "李承铉边睡觉边给戚薇捏脚",
+      "onboard_time": 1746769760,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305163,
       "num": 305163,
       "word": "李兰迪 她的瞳",
@@ -435,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301180,
+      "num": 183370,
+      "word": "到了美国才发现并没有滤镜",
+      "onboard_time": 1746771562,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 298335,
       "num": 248765,
       "word": "5个月大宝宝以为自己叫小爱同学",
@@ -449,6 +497,14 @@
       "onboard_time": 1746765084,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297077,
+      "num": 297077,
+      "word": "鹿晗应援棒",
+      "onboard_time": 1746767963,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 297051,
@@ -475,14 +531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 287939,
-      "num": 287939,
-      "word": "学生被7个机构教官殴打致耳聋",
-      "onboard_time": 1746767303,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 286886,
       "num": 255968,
       "word": "生育可以不用那么痛",
@@ -507,20 +555,12 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 277836,
-      "num": 277836,
-      "word": "鹿晗应援棒",
-      "onboard_time": 1746767963,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "女生输头孢离世家属与医院和解",
-      "onboard_time": 1746766222,
-      "rank": 25,
-      "category": "舆论监督"
+      "raw_hot": 275902,
+      "num": 680585,
+      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+      "onboard_time": 1746769581,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266362,
@@ -617,6 +657,22 @@
       "onboard_time": 1746754701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229733,
+      "num": 195380,
+      "word": "腾讯更新片单",
+      "onboard_time": 1746770902,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229313,
+      "num": 305451,
+      "word": "谢娜看到叶童赢哭了",
+      "onboard_time": 1746771261,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 223044,
@@ -755,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204315,
+      "num": 204315,
+      "word": "心相印",
+      "onboard_time": 1746770242,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202672,
       "num": 280141,
       "word": "陈昊宇陈丽君浪姐四公大片",
@@ -867,6 +931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 189325,
+      "num": 189325,
+      "word": "新说唱节目组格局",
+      "onboard_time": 1746771202,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188616,
       "num": 188616,
       "word": "淮水竹亭扫楼",
@@ -937,6 +1009,14 @@
       "onboard_time": 1746693981,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180189,
+      "num": 180189,
+      "word": "王珞丹浪姐6首个唱跳舞台",
+      "onboard_time": 1746772103,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179253,
@@ -1027,12 +1107,36 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 166821,
+      "num": 166821,
+      "word": "少年王权弘业是无忧渡的小兔子",
+      "onboard_time": 1746772220,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166583,
+      "num": 176340,
+      "word": "孟佳站立一字马",
+      "onboard_time": 1746771202,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165888,
       "num": 237546,
       "word": "王楚钦在路边摸蛇",
       "onboard_time": 1746708023,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164828,
+      "num": 164828,
+      "word": "恒安集团回应客服辱骂顾客送冥币",
+      "onboard_time": 1746770242,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164685,
@@ -1187,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136404,
+      "num": 340077,
+      "word": "杨幂白西装银礼服全拿捏",
+      "onboard_time": 1746770782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135738,
       "num": 135738,
       "word": "马来西亚买龙虾砍一下午价失败了",
@@ -1209,6 +1321,14 @@
       "onboard_time": 1746751881,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133966,
+      "num": 320923,
+      "word": "大理偶遇陈好宋茜",
+      "onboard_time": 1746769343,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 129799,
@@ -1243,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124034,
+      "num": 124034,
+      "word": "宇露君沾",
+      "onboard_time": 1746771802,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123894,
       "num": 123894,
       "word": "被资本做局了",
@@ -1265,6 +1393,14 @@
       "onboard_time": 1746752062,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123109,
+      "num": 123109,
+      "word": "不回微信不一定忙",
+      "onboard_time": 1746771923,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122092,
@@ -1323,12 +1459,12 @@
       "category": "幽默,科学科普"
     },
     {
-      "raw_hot": 113296,
-      "num": 113296,
-      "word": "下一个天亮好哭",
-      "onboard_time": 1746769283,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 113017,
+      "num": 113017,
+      "word": "阿维塔公开直播风洞测试",
+      "onboard_time": 1746771802,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 112868,
@@ -1353,6 +1489,14 @@
       "onboard_time": 1746765383,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110867,
+      "num": 110867,
+      "word": "王嘉尔新歌和印度巨星合作",
+      "onboard_time": 1746772401,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 109740,
@@ -1587,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67628,
+      "num": 337193,
+      "word": "九号Q解锁骑行情绪密码",
+      "onboard_time": 1746771382,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65622,
       "num": 234920,
       "word": "特朗普称美将从乌获得大量稀土",
@@ -1819,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26985,
+      "num": 187737,
+      "word": "早高峰遇暴雨男生光脚上阵拼全勤",
+      "onboard_time": 1746771082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25288,
       "num": 38655,
       "word": "美考虑豁免婴幼儿用品关税",
@@ -2017,6 +2177,14 @@
       "onboard_time": 1746768143,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8321,
+      "num": 308534,
+      "word": "哪些状况会导致坐过山车时颅内出血",
+      "onboard_time": 1746771682,
+      "rank": 19,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [

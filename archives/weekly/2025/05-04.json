@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746769338954,
+  "endTime": 1746772569239,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -803,12 +803,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1087585,
+      "num": 1087585,
+      "word": "17岁的森碟",
+      "onboard_time": 1746768203,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 1083868,
       "num": 359777,
       "word": "刘强东回应凑鸡蛋上大学",
       "onboard_time": 1746505943,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1083038,
+      "num": 678012,
+      "word": "心相印客服辱骂顾客并送冥币",
+      "onboard_time": 1746767543,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1081512,
@@ -1939,6 +1955,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 692019,
+      "num": 692019,
+      "word": "巴铁亮出中国反无人机王牌武器",
+      "onboard_time": 1746767602,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 689605,
       "num": 430663,
       "word": "为胖都来站台的明星诚信已打了折扣",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1746449241,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 681648,
-      "num": 681648,
-      "word": "巴铁亮出中国反无人机王牌武器",
-      "onboard_time": 1746767602,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 680048,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1746375081,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 652739,
+      "num": 652739,
+      "word": "学生被7个机构教官殴打致耳聋",
+      "onboard_time": 1746767303,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 652349,
@@ -2491,14 +2515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 573098,
-      "num": 573098,
-      "word": "17岁的森碟",
-      "onboard_time": 1746768203,
-      "rank": 47,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 572524,
       "num": 1797609,
       "word": "国防部奉劝有关国家不要引狼入室",
@@ -2897,6 +2913,14 @@
       "onboard_time": 1746674122,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502645,
+      "num": 687574,
+      "word": "向佐喊话赵丽颖下次一起玩",
+      "onboard_time": 1746770721,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 501470,
@@ -4003,6 +4027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 377245,
+      "num": 691528,
+      "word": "女生输头孢离世家属与医院和解",
+      "onboard_time": 1746766222,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 376309,
       "num": 376309,
       "word": "特朗普承认不排除任期内经济萎缩",
@@ -4147,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364149,
+      "num": 364149,
+      "word": "下一个天亮好哭",
+      "onboard_time": 1746769283,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361950,
       "num": 254813,
       "word": "阿姨是黄圣依和妈妈之间的禁忌词",
@@ -4281,14 +4321,6 @@
       "onboard_time": 1746422901,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349883,
-      "num": 349883,
-      "word": "心相印客服辱骂顾客并送冥币",
-      "onboard_time": 1746767543,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349644,
@@ -4931,6 +4963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305188,
+      "num": 305188,
+      "word": "李承铉边睡觉边给戚薇捏脚",
+      "onboard_time": 1746769760,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305163,
       "num": 305163,
       "word": "李兰迪 她的瞳",
@@ -5017,6 +5057,14 @@
       "onboard_time": 1746408379,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301180,
+      "num": 183370,
+      "word": "到了美国才发现并没有滤镜",
+      "onboard_time": 1746771562,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 301143,
@@ -5121,6 +5169,14 @@
       "onboard_time": 1746435023,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297077,
+      "num": 297077,
+      "word": "鹿晗应援棒",
+      "onboard_time": 1746767963,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 297051,
@@ -5273,14 +5329,6 @@
       "onboard_time": 1746415762,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287939,
-      "num": 287939,
-      "word": "学生被7个机构教官殴打致耳聋",
-      "onboard_time": 1746767303,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 287927,
@@ -5475,14 +5523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277836,
-      "num": 277836,
-      "word": "鹿晗应援棒",
-      "onboard_time": 1746767963,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 277329,
       "num": 277329,
       "word": "王者荣耀",
@@ -5505,6 +5545,14 @@
       "onboard_time": 1746361763,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275902,
+      "num": 680585,
+      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+      "onboard_time": 1746769581,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274937,
@@ -5625,14 +5673,6 @@
       "onboard_time": 1746598941,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "女生输头孢离世家属与医院和解",
-      "onboard_time": 1746766222,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 269169,
@@ -6659,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229733,
+      "num": 195380,
+      "word": "腾讯更新片单",
+      "onboard_time": 1746770902,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229719,
       "num": 435602,
       "word": "企业宁赔几千也不改招聘歧视",
@@ -6681,6 +6729,14 @@
       "onboard_time": 1746667529,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229313,
+      "num": 305451,
+      "word": "谢娜看到叶童赢哭了",
+      "onboard_time": 1746771261,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 229215,
@@ -7913,6 +7969,14 @@
       "onboard_time": 1746595044,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204315,
+      "num": 204315,
+      "word": "心相印",
+      "onboard_time": 1746770242,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204293,
@@ -9179,6 +9243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 189325,
+      "num": 189325,
+      "word": "新说唱节目组格局",
+      "onboard_time": 1746771202,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189220,
       "num": 194873,
       "word": "尼克斯20分逆转凯尔特人",
@@ -9792,6 +9864,14 @@
       "word": "迪丽热巴更换对接团队",
       "onboard_time": 1746612142,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180189,
+      "num": 180189,
+      "word": "王珞丹浪姐6首个唱跳舞台",
+      "onboard_time": 1746772103,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -10739,12 +10819,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166821,
+      "num": 166821,
+      "word": "少年王权弘业是无忧渡的小兔子",
+      "onboard_time": 1746772220,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166635,
       "num": 166635,
       "word": "陶喆说火是我同事点的",
       "onboard_time": 1746452484,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166583,
+      "num": 176340,
+      "word": "孟佳站立一字马",
+      "onboard_time": 1746771202,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166399,
@@ -10905,6 +11001,14 @@
       "onboard_time": 1746353482,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164828,
+      "num": 164828,
+      "word": "恒安集团回应客服辱骂顾客送冥币",
+      "onboard_time": 1746770242,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164752,
@@ -13347,6 +13451,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 136404,
+      "num": 340077,
+      "word": "杨幂白西装银礼服全拿捏",
+      "onboard_time": 1746770782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136387,
       "num": 235483,
       "word": "一看剧就被高圆圆好人脸欺骗",
@@ -13576,6 +13688,14 @@
       "word": "惠英红最想合作宋佳杨幂马丽",
       "onboard_time": 1746618862,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133966,
+      "num": 320923,
+      "word": "大理偶遇陈好宋茜",
+      "onboard_time": 1746769343,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -14451,6 +14571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124034,
+      "num": 124034,
+      "word": "宇露君沾",
+      "onboard_time": 1746771802,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123967,
       "num": 123967,
       "word": "荣昌区委书记让市民把特产给客人吃",
@@ -14561,6 +14689,14 @@
       "onboard_time": 1746752062,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123109,
+      "num": 123109,
+      "word": "不回微信不一定忙",
+      "onboard_time": 1746771923,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122998,
@@ -15251,20 +15387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113296,
-      "num": 113296,
-      "word": "下一个天亮好哭",
-      "onboard_time": 1746769283,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113168,
       "num": 113168,
       "word": "香港私房菜",
       "onboard_time": 1746441441,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113017,
+      "num": 113017,
+      "word": "阿维塔公开直播风洞测试",
+      "onboard_time": 1746771802,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 112868,
@@ -17499,6 +17635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67628,
+      "num": 337193,
+      "word": "九号Q解锁骑行情绪密码",
+      "onboard_time": 1746771382,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67245,
       "num": 233312,
       "word": "村干部回应全红婵在老家盖别墅",
@@ -19699,6 +19843,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 26985,
+      "num": 187737,
+      "word": "早高峰遇暴雨男生光脚上阵拼全勤",
+      "onboard_time": 1746771082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26886,
       "num": 434195,
       "word": "特朗普为何帮忙解决印巴冲突",
@@ -21065,6 +21217,14 @@
       "onboard_time": 1746700882,
       "rank": 39,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 8321,
+      "num": 308534,
+      "word": "哪些状况会导致坐过山车时颅内出血",
+      "onboard_time": 1746771682,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 8273,
