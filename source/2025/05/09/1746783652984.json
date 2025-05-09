@@ -1,0 +1,410 @@
+{
+  "runTime": 1746783652984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1992420,
+        "num": 1992420,
+        "word": "淘宝免单 优酷",
+        "onboard_time": 1746780201,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1128419,
+        "num": 1128419,
+        "word": "父母花光积蓄将抑郁孩子送进矫治机构",
+        "onboard_time": 1746778042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54063,
+        "num": 705747,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 1259394,
+        "num": 704926,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 694513,
+        "num": 694513,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664565,
+        "num": 664565,
+        "word": "藏海传档期",
+        "onboard_time": 1746781221,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597412,
+        "num": 597412,
+        "word": "本科生发表14篇SCI论文可能性有多大",
+        "onboard_time": 1746780801,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 411312,
+        "num": 411312,
+        "word": "淘宝免单 重逢的季节",
+        "onboard_time": 1746782661,
+        "rank": 7,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 33943,
+        "num": 399589,
+        "word": "解放军仪仗队红场正步原声纯享",
+        "onboard_time": 1746783081,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21501,
+        "num": 394403,
+        "word": "2分钟了解民营经济促进法",
+        "onboard_time": 1746782481,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 614582,
+        "num": 394200,
+        "word": "全日制单身",
+        "onboard_time": 1746782122,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393314,
+        "num": 393314,
+        "word": "李小冉说躺着就把肥减了",
+        "onboard_time": 1746779241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330953,
+        "num": 330953,
+        "word": "俄罗斯举行盛大庆典",
+        "onboard_time": 1746777683,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201410,
+        "num": 327465,
+        "word": "虞书欣即将回归中餐厅9",
+        "onboard_time": 1746783382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28996,
+        "num": 325219,
+        "word": "为何美英率先达成贸易协议",
+        "onboard_time": 1746782902,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324738,
+        "num": 324738,
+        "word": "淘宝热搜",
+        "onboard_time": 1746780081,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274098,
+        "num": 274098,
+        "word": "3岁女童因家庭纠纷被人为投毒",
+        "onboard_time": 1746782602,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272322,
+        "num": 272322,
+        "word": "红场阅兵式上乌拉震天响",
+        "onboard_time": 1746780201,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188315,
+        "num": 272306,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23113,
+        "num": 272298,
+        "word": "客服用冥币侮辱顾客该如何担责",
+        "onboard_time": 1746782481,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "金亨泰入驻微博",
+        "onboard_time": 1746783081,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272245,
+        "num": 272245,
+        "word": "学院招聘要求大赛前三被质疑萝卜岗",
+        "onboard_time": 1746781521,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 250984,
+        "num": 250984,
+        "word": "上海微软大裁员赔偿金N加8",
+        "onboard_time": 1746782241,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 236665,
+        "num": 236665,
+        "word": "解放军仪仗队通过红场画面",
+        "onboard_time": 1746780861,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144471,
+        "num": 236499,
+        "word": "尚雯婕回复旦了",
+        "onboard_time": 1746783142,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236462,
+        "num": 236462,
+        "word": "马頔好画 就三天",
+        "onboard_time": 1746779720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224186,
+        "num": 224186,
+        "word": "唐国强锐评短剧悲哀原因",
+        "onboard_time": 1746776362,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204155,
+        "num": 204155,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132521,
+        "num": 202842,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117729,
+        "num": 202284,
+        "word": "虞书欣定点饭撒不理解但尊重",
+        "onboard_time": 1746773962,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202129,
+        "num": 202129,
+        "word": "俄罗斯阅兵直播",
+        "onboard_time": 1746776002,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179216,
+        "num": 179216,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172423,
+        "num": 172423,
+        "word": "中俄元首一道登上主观礼台",
+        "onboard_time": 1746783022,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169779,
+        "num": 169779,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145035,
+        "num": 145035,
+        "word": "陈昊宇安慰侯佩岑",
+        "onboard_time": 1746782781,
+        "rank": 34,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 129917,
+        "num": 129917,
+        "word": "黄景瑜一出场好有安全感",
+        "onboard_time": 1746783501,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126905,
+        "num": 126905,
+        "word": "中国仪仗队红场阅兵现场画面",
+        "onboard_time": 1746780142,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73265,
+        "num": 126497,
+        "word": "中国排面齐唱放心吧祖国",
+        "onboard_time": 1746782180,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 27790,
+        "num": 126245,
+        "word": "在艰苦年代造出世界一流的歼10",
+        "onboard_time": 1746782422,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 29006,
+        "num": 126242,
+        "word": "为什么说不要和同事交心",
+        "onboard_time": 1746782481,
+        "rank": 39,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 126241,
+        "num": 126241,
+        "word": "属于AG的理想春天",
+        "onboard_time": 1746782962,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121249,
+        "num": 121249,
+        "word": "淘宝免单第十一场答案",
+        "onboard_time": 1746783201,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 119082,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116251,
+        "num": 116251,
+        "word": "中国军人和俄罗斯少年合唱喀秋莎",
+        "onboard_time": 1746779842,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113576,
+        "num": 113576,
+        "word": "无限超越班导师勇闯这是我的西游",
+        "onboard_time": 1746783442,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113568,
+        "num": 113568,
+        "word": "贾跃亭主动回应还债回国时间",
+        "onboard_time": 1746781521,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 112033,
+        "num": 112033,
+        "word": "淘宝免单 506",
+        "onboard_time": 1746781822,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110000,
+        "num": 110000,
+        "word": "印媒报击落巴方战机遭否认",
+        "onboard_time": 1746776242,
+        "rank": 47,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 109422,
+        "num": 109422,
+        "word": "韩安冉老公去做医美了",
+        "onboard_time": 1746783621,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109110,
+        "num": 109110,
+        "word": "SMTOWN墨西哥演唱会红毯",
+        "onboard_time": 1746783621,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄两国要风雨同渡关山共越#"
+    }
+  }
+}
