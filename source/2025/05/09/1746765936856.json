@@ -1,0 +1,410 @@
+{
+  "runTime": 1746765936856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1855359,
+        "num": 1855359,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 913779,
+        "num": 1152559,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31083,
+        "num": 1060699,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1054540,
+        "num": 1054540,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413592,
+        "num": 1051608,
+        "word": "何炅谢娜为李小冉庆生",
+        "onboard_time": 1746755841,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650209,
+        "num": 1044034,
+        "word": "孙颖莎嘉人销量",
+        "onboard_time": 1746763822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474240,
+        "num": 1037545,
+        "word": "男子每天拍拍西瓜月入3万元",
+        "onboard_time": 1746761181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368074,
+        "num": 1033160,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331775,
+        "num": 1021196,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020792,
+        "num": 1020792,
+        "word": "美官员称歼10击落至少两架印度军机",
+        "onboard_time": 1746760161,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146872,
+        "num": 994947,
+        "word": "肖战开了家东方客栈",
+        "onboard_time": 1746763522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 972596,
+        "num": 972596,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602125,
+        "num": 602125,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34960,
+        "num": 533025,
+        "word": "撕拉片相纸带火同款滤镜",
+        "onboard_time": 1746764542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45031,
+        "num": 519397,
+        "word": "比了才知道夸克AI搜商有多高",
+        "onboard_time": 1746763283,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 516498,
+        "num": 516498,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250334,
+        "num": 509884,
+        "word": "迪丽热巴对迪丽姐热了吧暗号",
+        "onboard_time": 1746758722,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263792,
+        "num": 500126,
+        "word": "遇事叫妈妈是对妈妈好吗",
+        "onboard_time": 1746763522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239117,
+        "num": 496120,
+        "word": "迪丽热巴 红玫瑰",
+        "onboard_time": 1746764843,
+        "rank": 18,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 19128,
+        "num": 479851,
+        "word": "有农业博主三五天速成伪专家行骗",
+        "onboard_time": 1746765204,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 476193,
+        "num": 476193,
+        "word": "特朗普称或将下调对华145%关税",
+        "onboard_time": 1746759500,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468016,
+        "num": 468016,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24867,
+        "num": 456856,
+        "word": "氨糖真的能救关节吗",
+        "onboard_time": 1746765683,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226506,
+        "num": 432268,
+        "word": "浪姐四公",
+        "onboard_time": 1746765084,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191864,
+        "num": 425004,
+        "word": "王楚钦唱无限温柔",
+        "onboard_time": 1746764422,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212289,
+        "num": 398134,
+        "word": "易烊千玺17岁奥斯卡24岁戛纳",
+        "onboard_time": 1746758659,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121973,
+        "num": 383996,
+        "word": "明星都在用的美白牙膏",
+        "onboard_time": 1746765445,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 193315,
+        "num": 366306,
+        "word": "谁懂孟美岐选秀四连跳的含金量",
+        "onboard_time": 1746765563,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354616,
+        "num": 354616,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104790,
+        "num": 320740,
+        "word": "电影电视剧短剧化",
+        "onboard_time": 1746765445,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289115,
+        "num": 289115,
+        "word": "女子发现出国丈夫与情人同居多年",
+        "onboard_time": 1746762562,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288150,
+        "num": 288150,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1746748161,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 266355,
+        "num": 266355,
+        "word": "字节跳动20元餐标的免费早餐",
+        "onboard_time": 1746761481,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261374,
+        "num": 261374,
+        "word": "淘宝免单 爱要大声说出来",
+        "onboard_time": 1746760642,
+        "rank": 33,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 228731,
+        "num": 228731,
+        "word": "世乒赛后王楚钦无法重返世一",
+        "onboard_time": 1746754280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222104,
+        "num": 222104,
+        "word": "孙颖莎渴望被世界认可",
+        "onboard_time": 1746764843,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221831,
+        "num": 221831,
+        "word": "印度境内发现巴方导弹残骸",
+        "onboard_time": 1746764962,
+        "rank": 36,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 217683,
+        "num": 217683,
+        "word": "这次大雨有一定致灾性",
+        "onboard_time": 1746752841,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196307,
+        "num": 210146,
+        "word": "陈妍希哭戏",
+        "onboard_time": 1746763942,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110978,
+        "num": 209041,
+        "word": "鬼灭之刃炼狱杏寿郎",
+        "onboard_time": 1746765383,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 208897,
+        "num": 208897,
+        "word": "巴方称与约80架印度战机交战",
+        "onboard_time": 1746749483,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205756,
+        "num": 205756,
+        "word": "广州网友称今天暴雨中开车如开船",
+        "onboard_time": 1746759382,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184667,
+        "num": 200202,
+        "word": "空空导弹是24小时无人自动化生产",
+        "onboard_time": 1746748102,
+        "rank": 42,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 166963,
+        "num": 199831,
+        "word": "卤鹅哥将其与甲亢哥名字合并注册商标",
+        "onboard_time": 1746765802,
+        "rank": 43,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 188224,
+        "num": 199676,
+        "word": "凤凰传奇北京抢票",
+        "onboard_time": 1746764664,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199651,
+        "num": 199651,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190276,
+        "num": 190276,
+        "word": "何超莲晒和家人庆生照",
+        "onboard_time": 1746765683,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188616,
+        "num": 188616,
+        "word": "淮水竹亭扫楼",
+        "onboard_time": 1746765144,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186029,
+        "num": 186029,
+        "word": "陈昊宇陈丽君浪姐四公大片",
+        "onboard_time": 1746764003,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184782,
+        "num": 184782,
+        "word": "汪顺MAT封面",
+        "onboard_time": 1746765263,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}

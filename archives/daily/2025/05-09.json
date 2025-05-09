@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746765039557,
+  "endTime": 1746765936856,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1694066,
-      "num": 1694066,
+      "raw_hot": 1855359,
+      "num": 1855359,
       "word": "普通话一甲 1244",
       "onboard_time": 1746761360,
       "rank": 16,
@@ -75,20 +75,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 971612,
-      "num": 971612,
-      "word": "美官员称歼10击落至少两架印度军机",
-      "onboard_time": 1746760161,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 927655,
-      "num": 927655,
+      "raw_hot": 1054540,
+      "num": 1054540,
       "word": "大家讨厌的不是月薪3500",
       "onboard_time": 1746761844,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1020792,
+      "num": 1020792,
+      "word": "美官员称歼10击落至少两架印度军机",
+      "onboard_time": 1746760161,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 925758,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 706850,
-      "num": 927858,
+      "num": 1051608,
       "word": "何炅谢娜为李小冉庆生",
       "onboard_time": 1746755841,
       "rank": 14,
@@ -137,6 +137,14 @@
       "onboard_time": 1746715644,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 650209,
+      "num": 1044034,
+      "word": "孙颖莎嘉人销量",
+      "onboard_time": 1746763822,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 640071,
@@ -163,8 +171,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 602125,
+      "num": 602125,
+      "word": "5人用方言作弊打麻将骗了9万元",
+      "onboard_time": 1746762502,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596448,
-      "num": 928542,
+      "num": 1037545,
       "word": "男子每天拍拍西瓜月入3万元",
       "onboard_time": 1746761181,
       "rank": 28,
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413092,
-      "num": 413092,
-      "word": "孙颖莎嘉人销量",
-      "onboard_time": 1746763822,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 382799,
       "num": 227345,
       "word": "金价突然跳水",
@@ -313,6 +321,14 @@
       "onboard_time": 1746715044,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331775,
+      "num": 1021196,
+      "word": "爸爸当家",
+      "onboard_time": 1746762383,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 321444,
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301039,
-      "num": 525199,
-      "word": "5人用方言作弊打麻将骗了9万元",
-      "onboard_time": 1746762502,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298335,
       "num": 248765,
       "word": "5个月大宝宝以为自己叫小爱同学",
@@ -401,6 +409,14 @@
       "onboard_time": 1746749601,
       "rank": 14,
       "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 289115,
+      "num": 289115,
+      "word": "女子发现出国丈夫与情人同居多年",
+      "onboard_time": 1746762562,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289048,
@@ -424,14 +440,6 @@
       "word": "遇事叫妈妈是对妈妈好吗",
       "onboard_time": 1746763522,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279859,
-      "num": 279859,
-      "word": "女子发现出国丈夫与情人同居多年",
-      "onboard_time": 1746762562,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1746759382,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252904,
-      "num": 531898,
-      "word": "爸爸当家",
-      "onboard_time": 1746762383,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 251718,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239117,
+      "num": 496120,
+      "word": "迪丽热巴 红玫瑰",
+      "onboard_time": 1746764843,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 238184,
       "num": 227189,
       "word": "印度开闸放水",
@@ -537,6 +545,14 @@
       "onboard_time": 1746754701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226506,
+      "num": 432268,
+      "word": "浪姐四公",
+      "onboard_time": 1746765084,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223044,
@@ -561,6 +577,22 @@
       "onboard_time": 1746761780,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222104,
+      "num": 222104,
+      "word": "孙颖莎渴望被世界认可",
+      "onboard_time": 1746764843,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221831,
+      "num": 221831,
+      "word": "印度境内发现巴方导弹残骸",
+      "onboard_time": 1746764962,
+      "rank": 47,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 218587,
@@ -635,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206079,
-      "num": 286497,
-      "word": "迪丽热巴 红玫瑰",
-      "onboard_time": 1746764843,
-      "rank": 32,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 205481,
       "num": 462416,
       "word": "蒋一侨坚持了不该坚持的",
@@ -665,14 +689,6 @@
       "onboard_time": 1746714685,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200258,
-      "num": 200258,
-      "word": "孙颖莎渴望被世界认可",
-      "onboard_time": 1746764843,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 200011,
@@ -707,11 +723,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193315,
+      "num": 366306,
+      "word": "谁懂孟美岐选秀四连跳的含金量",
+      "onboard_time": 1746765563,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191864,
+      "num": 425004,
+      "word": "王楚钦唱无限温柔",
+      "onboard_time": 1746764422,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "何超莲晒和家人庆生照",
+      "onboard_time": 1746765683,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189990,
       "num": 385977,
       "word": "陷入我们的热恋",
       "onboard_time": 1746761181,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188616,
+      "num": 188616,
+      "word": "淮水竹亭扫楼",
+      "onboard_time": 1746765144,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -747,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184782,
+      "num": 184782,
+      "word": "汪顺MAT封面",
+      "onboard_time": 1746765263,
+      "rank": 49,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "阿里CEO吴泳铭内网发帖",
@@ -761,14 +817,6 @@
       "onboard_time": 1746693981,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179644,
-      "num": 179644,
-      "word": "印度境内发现巴方导弹残骸",
-      "onboard_time": 1746764962,
-      "rank": 47,
-      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 179253,
@@ -827,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166963,
+      "num": 199831,
+      "word": "卤鹅哥将其与甲亢哥名字合并注册商标",
+      "onboard_time": 1746765802,
+      "rank": 43,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 165888,
       "num": 237546,
       "word": "王楚钦在路边摸蛇",
@@ -873,6 +929,14 @@
       "onboard_time": 1746750442,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146872,
+      "num": 994947,
+      "word": "肖战开了家东方客栈",
+      "onboard_time": 1746763522,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 146218,
@@ -1027,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121973,
+      "num": 383996,
+      "word": "明星都在用的美白牙膏",
+      "onboard_time": 1746765445,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 117912,
       "num": 117912,
       "word": "懂了台湾人为啥吃饭爱配新闻",
@@ -1083,20 +1155,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 112480,
-      "num": 568308,
-      "word": "肖战开了家东方客栈",
-      "onboard_time": 1746763522,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112210,
       "num": 112210,
       "word": "欧盟公布对美关税反制清单",
       "onboard_time": 1746750142,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110978,
+      "num": 209041,
+      "word": "鬼灭之刃炼狱杏寿郎",
+      "onboard_time": 1746765383,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 109415,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1746763403,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104790,
+      "num": 320740,
+      "word": "电影电视剧短剧化",
+      "onboard_time": 1746765445,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 100319,
@@ -1475,20 +1555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45031,
+      "num": 528121,
+      "word": "比了才知道夸克AI搜商有多高",
+      "onboard_time": 1746763283,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44832,
       "num": 228372,
       "word": "印巴冲突升级后莫迪发声",
       "onboard_time": 1746746418,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40011,
-      "num": 528121,
-      "word": "比了才知道夸克AI搜商有多高",
-      "onboard_time": 1746763283,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 37528,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1746720201,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 34960,
+      "num": 533025,
+      "word": "撕拉片相纸带火同款滤镜",
+      "onboard_time": 1746764542,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31437,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1746731534,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24867,
+      "num": 456856,
+      "word": "氨糖真的能救关节吗",
+      "onboard_time": 1746765683,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23829,
@@ -1587,6 +1683,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 19128,
+      "num": 479851,
+      "word": "有农业博主三五天速成伪专家行骗",
+      "onboard_time": 1746765204,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18573,
       "num": 32211,
       "word": "外交部回应菲美澳南海联合巡航炒作",
@@ -1609,14 +1713,6 @@
       "onboard_time": 1746762141,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17380,
-      "num": 530470,
-      "word": "撕拉片相纸带火同款滤镜",
-      "onboard_time": 1746764542,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17337,
