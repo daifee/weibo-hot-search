@@ -1,0 +1,410 @@
+{
+  "runTime": 1746761357364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2082065,
+        "num": 2082065,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1409424,
+        "num": 1409424,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37455,
+        "num": 1274115,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1199734,
+        "num": 1199734,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 953483,
+        "num": 953483,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 727701,
+        "num": 727701,
+        "word": "这次大雨有一定致灾性",
+        "onboard_time": 1746752841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586031,
+        "num": 586031,
+        "word": "何炅谢娜为李小冉庆生",
+        "onboard_time": 1746755841,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304095,
+        "num": 582511,
+        "word": "易烊千玺17岁奥斯卡24岁戛纳",
+        "onboard_time": 1746758659,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356951,
+        "num": 567930,
+        "word": "李现拍鸟带来的思考",
+        "onboard_time": 1746758241,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 482577,
+        "num": 555584,
+        "word": "巴方称与约80架印度战机交战",
+        "onboard_time": 1746749483,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 587969,
+        "num": 541318,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533348,
+        "num": 533348,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516220,
+        "num": 516220,
+        "word": "世乒赛后王楚钦无法重返世一",
+        "onboard_time": 1746754280,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306837,
+        "num": 507922,
+        "word": "广州暴雨",
+        "onboard_time": 1746752961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311185,
+        "num": 501399,
+        "word": "美官员称歼10击落至少两架印度军机",
+        "onboard_time": 1746760161,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276063,
+        "num": 481505,
+        "word": "迪丽热巴对迪丽姐热了吧暗号",
+        "onboard_time": 1746758722,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208514,
+        "num": 470124,
+        "word": "小小的我",
+        "onboard_time": 1746760222,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178871,
+        "num": 462416,
+        "word": "蒋一侨坚持了不该坚持的",
+        "onboard_time": 1746760522,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456659,
+        "num": 456659,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1746748161,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 15479,
+        "num": 438009,
+        "word": "哪些措施可以应对本次大雨的致灾性",
+        "onboard_time": 1746760881,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 425885,
+        "num": 425885,
+        "word": "特朗普称或将下调对华145%关税",
+        "onboard_time": 1746759500,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321458,
+        "num": 321458,
+        "word": "iPhone17Air戴手机壳效果",
+        "onboard_time": 1746756860,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 315831,
+        "num": 315831,
+        "word": "巴基斯坦外交部声明",
+        "onboard_time": 1746755841,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307056,
+        "num": 307056,
+        "word": "31岁章泽天素颜怼脸照",
+        "onboard_time": 1746752481,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259511,
+        "num": 290882,
+        "word": "王楚钦安检时发现带走房卡尴尬笑了",
+        "onboard_time": 1746758001,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290854,
+        "num": 290854,
+        "word": "淘宝免单 爱要大声说出来",
+        "onboard_time": 1746760642,
+        "rank": 25,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 163833,
+        "num": 282569,
+        "word": "乘风四公大片",
+        "onboard_time": 1746761122,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161509,
+        "num": 280245,
+        "word": "藏海传",
+        "onboard_time": 1746750321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92267,
+        "num": 266593,
+        "word": "男子每天拍拍西瓜月入3万元",
+        "onboard_time": 1746761181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183002,
+        "num": 256148,
+        "word": "撕拉片和拍立得有什么区别",
+        "onboard_time": 1746749601,
+        "rank": 29,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 255968,
+        "num": 255968,
+        "word": "生育可以不用那么痛",
+        "onboard_time": 1746759500,
+        "rank": 30,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 62795,
+        "num": 234304,
+        "word": "便利店偶遇文淇",
+        "onboard_time": 1746760402,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 223700,
+        "num": 223700,
+        "word": "美众院同意将墨西哥湾改名美国湾",
+        "onboard_time": 1746754821,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66467,
+        "num": 189156,
+        "word": "谢娜回复李小冉爱你就是爱你",
+        "onboard_time": 1746761241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188649,
+        "num": 188649,
+        "word": "俄罗斯阅兵",
+        "onboard_time": 1746756801,
+        "rank": 34,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 188043,
+        "num": 188043,
+        "word": "森林狼1比1勇士",
+        "onboard_time": 1746761241,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177209,
+        "num": 177209,
+        "word": "A股又曝天价离婚",
+        "onboard_time": 1746759200,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 173606,
+        "num": 173606,
+        "word": "3岁女童脱发眼神呆滞被查出铊中毒",
+        "onboard_time": 1746745579,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168841,
+        "num": 168841,
+        "word": "印度看到这个视频天塌了",
+        "onboard_time": 1746761241,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143643,
+        "num": 163452,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1746761181,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162443,
+        "num": 162443,
+        "word": "计算机二级成绩",
+        "onboard_time": 1746759382,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "荣昌高书记问开这么多药房干什么",
+        "onboard_time": 1746749362,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152731,
+        "num": 152731,
+        "word": "小英考虑让女儿出国留学",
+        "onboard_time": 1746715644,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143401,
+        "num": 143401,
+        "word": "长期凌晨睡觉对身体的5个影响",
+        "onboard_time": 1746746481,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133915,
+        "num": 133915,
+        "word": "肖战藏海传演技获郑晓龙肯定",
+        "onboard_time": 1746759922,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132976,
+        "num": 132976,
+        "word": "5个月大宝宝以为自己叫小爱同学",
+        "onboard_time": 1746754280,
+        "rank": 45,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 127927,
+        "num": 127927,
+        "word": "宋佳为陈妍希宣传新剧",
+        "onboard_time": 1746759861,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 126058,
+        "word": "比尔盖茨宣布将捐出几乎全部财富",
+        "onboard_time": 1746712284,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123881,
+        "num": 123881,
+        "word": "窦骁零点零一分为何超莲庆生",
+        "onboard_time": 1746760581,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123077,
+        "num": 123077,
+        "word": "金巧巧回应说不适合演农村人",
+        "onboard_time": 1746745699,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}

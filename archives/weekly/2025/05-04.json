@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746760493217,
+  "endTime": 1746761357364,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -161,6 +161,14 @@
       "onboard_time": 1746369864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2082065,
+      "num": 2082065,
+      "word": "孙颖莎嘉人",
+      "onboard_time": 1746760642,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2062863,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1746616521,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 953483,
+      "num": 953483,
+      "word": "刚买的飞机刚买的飞机",
+      "onboard_time": 1746759082,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 941733,
@@ -3435,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425885,
+      "num": 425885,
+      "word": "特朗普称或将下调对华145%关税",
+      "onboard_time": 1746759500,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 424318,
       "num": 424318,
       "word": "宋威龙包上恩撕拉片",
@@ -3537,14 +3561,6 @@
       "onboard_time": 1746314056,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416078,
-      "num": 416078,
-      "word": "刚买的飞机刚买的飞机",
-      "onboard_time": 1746759082,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 410693,
@@ -4091,6 +4107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356951,
+      "num": 659604,
+      "word": "李现拍鸟带来的思考",
+      "onboard_time": 1746758241,
+      "rank": 8,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 356329,
       "num": 356329,
       "word": "全款140万捡漏230平房子",
@@ -4345,14 +4369,6 @@
       "onboard_time": 1746347062,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 340543,
-      "num": 659604,
-      "word": "李现拍鸟带来的思考",
-      "onboard_time": 1746758241,
-      "rank": 8,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 340302,
@@ -4675,14 +4691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 314503,
-      "num": 314503,
-      "word": "特朗普称或将下调对华145%关税",
-      "onboard_time": 1746759500,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 312620,
       "num": 316916,
       "word": "巴基斯坦呼吁中美俄英法介入",
@@ -4721,6 +4729,14 @@
       "onboard_time": 1746488059,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311185,
+      "num": 501399,
+      "word": "美官员称歼10击落至少两架印度军机",
+      "onboard_time": 1746760161,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 310036,
@@ -5059,6 +5075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 290854,
+      "num": 290854,
+      "word": "淘宝免单 爱要大声说出来",
+      "onboard_time": 1746760642,
+      "rank": 25,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 290841,
       "num": 344496,
       "word": "NIP战胜WBG",
@@ -5164,7 +5188,7 @@
     },
     {
       "raw_hot": 286886,
-      "num": 213277,
+      "num": 255968,
       "word": "生育可以不用那么痛",
       "onboard_time": 1746759500,
       "rank": 30,
@@ -5329,6 +5353,14 @@
       "onboard_time": 1746361763,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276063,
+      "num": 481505,
+      "word": "迪丽热巴对迪丽姐热了吧暗号",
+      "onboard_time": 1746758722,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 274937,
@@ -7075,14 +7107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211430,
-      "num": 442226,
-      "word": "迪丽热巴对迪丽姐热了吧暗号",
-      "onboard_time": 1746758722,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211042,
       "num": 211042,
       "word": "立夏",
@@ -7225,6 +7249,14 @@
       "onboard_time": 1746411563,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208514,
+      "num": 470124,
+      "word": "小小的我",
+      "onboard_time": 1746760222,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 208357,
@@ -8843,6 +8875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1746756801,
+      "rank": 44,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 188639,
       "num": 188639,
       "word": "杨鸣太有梗了",
@@ -8889,6 +8929,14 @@
       "onboard_time": 1746713244,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188043,
+      "num": 188043,
+      "word": "森林狼1比1勇士",
+      "onboard_time": 1746761241,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 187957,
@@ -9403,14 +9451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179493,
-      "num": 179493,
-      "word": "俄罗斯阅兵",
-      "onboard_time": 1746756801,
-      "rank": 44,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 179465,
       "num": 179465,
       "word": "当代人有自己的八百里加急",
@@ -9489,6 +9529,14 @@
       "onboard_time": 1746683602,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178871,
+      "num": 462416,
+      "word": "蒋一侨坚持了不该坚持的",
+      "onboard_time": 1746760522,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 178524,
@@ -10099,6 +10147,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 168841,
+      "num": 168841,
+      "word": "印度看到这个视频天塌了",
+      "onboard_time": 1746761241,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168758,
       "num": 168758,
       "word": "妻子举报高管丈夫涉嫌重婚",
@@ -10529,6 +10585,14 @@
       "onboard_time": 1746496400,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163833,
+      "num": 282569,
+      "word": "乘风四公大片",
+      "onboard_time": 1746761122,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163793,
@@ -12099,6 +12163,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 143643,
+      "num": 163452,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1746761181,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143604,
       "num": 143604,
       "word": "当男孩子给女朋友拍出人生照片后",
@@ -12329,14 +12401,6 @@
       "onboard_time": 1746332242,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141007,
-      "num": 141007,
-      "word": "小小的我",
-      "onboard_time": 1746760222,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 140991,
@@ -13939,6 +14003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123881,
+      "num": 123881,
+      "word": "窦骁零点零一分为何超莲庆生",
+      "onboard_time": 1746760581,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123859,
       "num": 123859,
       "word": "李乃文太好笑了",
@@ -15451,14 +15523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101769,
-      "num": 417829,
-      "word": "美官员称歼10击落至少两架印度军机",
-      "onboard_time": 1746760161,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101474,
       "num": 101474,
       "word": "敖瑞鹏好事都想着刘学义",
@@ -15961,6 +16025,14 @@
       "onboard_time": 1746627203,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92267,
+      "num": 266593,
+      "word": "男子每天拍拍西瓜月入3万元",
+      "onboard_time": 1746761181,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92147,
@@ -16524,7 +16596,7 @@
     },
     {
       "raw_hot": 78750,
-      "num": 1155799,
+      "num": 1274115,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
@@ -16955,6 +17027,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 66467,
+      "num": 189156,
+      "word": "谢娜回复李小冉爱你就是爱你",
+      "onboard_time": 1746761241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66322,
       "num": 268507,
       "word": "石宇奇火力全开",
@@ -17201,6 +17281,14 @@
       "onboard_time": 1746595823,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62795,
+      "num": 234304,
+      "word": "便利店偶遇文淇",
+      "onboard_time": 1746760402,
+      "rank": 34,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 62784,
@@ -17561,14 +17649,6 @@
       "onboard_time": 1746624322,
       "rank": 32,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 55204,
-      "num": 180972,
-      "word": "便利店偶遇文淇",
-      "onboard_time": 1746760402,
-      "rank": 34,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 55200,
@@ -19849,6 +19929,14 @@
       "onboard_time": 1746504082,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15479,
+      "num": 438009,
+      "word": "哪些措施可以应对本次大雨的致灾性",
+      "onboard_time": 1746760881,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15463,

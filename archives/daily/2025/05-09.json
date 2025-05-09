@@ -1,7 +1,15 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746760493217,
+  "endTime": 1746761357364,
   "band_list": [
+    {
+      "raw_hot": 2082065,
+      "num": 2082065,
+      "word": "孙颖莎嘉人",
+      "onboard_time": 1746760642,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1455770,
       "num": 621447,
@@ -19,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1409424,
+      "num": 1409424,
+      "word": "淘宝免单",
+      "onboard_time": 1746713844,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1265196,
       "num": 1265196,
       "word": "美国关税战已经打到婴儿",
       "onboard_time": 1746756141,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1151050,
-      "num": 1151050,
-      "word": "淘宝免单",
-      "onboard_time": 1746713844,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 1119175,
@@ -49,6 +57,14 @@
       "onboard_time": 1746725176,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 953483,
+      "num": 953483,
+      "word": "刚买的飞机刚买的飞机",
+      "onboard_time": 1746759082,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 925758,
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416078,
-      "num": 416078,
-      "word": "刚买的飞机刚买的飞机",
-      "onboard_time": 1746759082,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 425885,
+      "num": 425885,
+      "word": "特朗普称或将下调对华145%关税",
+      "onboard_time": 1746759500,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 382799,
@@ -201,6 +217,14 @@
       "onboard_time": 1746706462,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356951,
+      "num": 659604,
+      "word": "李现拍鸟带来的思考",
+      "onboard_time": 1746758241,
+      "rank": 8,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 351014,
@@ -225,14 +249,6 @@
       "onboard_time": 1746715044,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340543,
-      "num": 659604,
-      "word": "李现拍鸟带来的思考",
-      "onboard_time": 1746758241,
-      "rank": 8,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 321444,
@@ -267,11 +283,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314503,
-      "num": 314503,
-      "word": "特朗普称或将下调对华145%关税",
-      "onboard_time": 1746759500,
-      "rank": 25,
+      "raw_hot": 311185,
+      "num": 501399,
+      "word": "美官员称歼10击落至少两架印度军机",
+      "onboard_time": 1746760161,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -315,6 +331,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 290854,
+      "num": 290854,
+      "word": "淘宝免单 爱要大声说出来",
+      "onboard_time": 1746760642,
+      "rank": 25,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 289048,
       "num": 289048,
       "word": "首位来自美国的教皇诞生",
@@ -324,11 +348,19 @@
     },
     {
       "raw_hot": 286886,
-      "num": 213277,
+      "num": 255968,
       "word": "生育可以不用那么痛",
       "onboard_time": 1746759500,
       "rank": 30,
       "category": "母婴育儿,健康医疗"
+    },
+    {
+      "raw_hot": 276063,
+      "num": 481505,
+      "word": "迪丽热巴对迪丽姐热了吧暗号",
+      "onboard_time": 1746758722,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 266362,
@@ -443,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211430,
-      "num": 442226,
-      "word": "迪丽热巴对迪丽姐热了吧暗号",
-      "onboard_time": 1746758722,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 208514,
+      "num": 470124,
+      "word": "小小的我",
+      "onboard_time": 1746760222,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 200870,
@@ -475,6 +507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1746756801,
+      "rank": 44,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 188043,
+      "num": 188043,
+      "word": "森林狼1比1勇士",
+      "onboard_time": 1746761241,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187896,
       "num": 137488,
       "word": "陈奕恒分享香水配方",
@@ -491,20 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179493,
-      "num": 179493,
-      "word": "俄罗斯阅兵",
-      "onboard_time": 1746756801,
-      "rank": 44,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 179253,
       "num": 133669,
       "word": "赵丽颖模仿向佐",
       "onboard_time": 1746714324,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178871,
+      "num": 462416,
+      "word": "蒋一侨坚持了不该坚持的",
+      "onboard_time": 1746760522,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 177712,
@@ -521,6 +569,14 @@
       "onboard_time": 1746759861,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168841,
+      "num": 168841,
+      "word": "印度看到这个视频天塌了",
+      "onboard_time": 1746761241,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 168758,
@@ -545,6 +601,14 @@
       "onboard_time": 1746708023,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163833,
+      "num": 282569,
+      "word": "乘风四公大片",
+      "onboard_time": 1746761122,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 157071,
@@ -587,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143643,
+      "num": 163452,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1746761181,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143252,
       "num": 143252,
       "word": "比尔盖茨痛批马斯克",
@@ -601,14 +673,6 @@
       "onboard_time": 1746759922,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141007,
-      "num": 141007,
-      "word": "小小的我",
-      "onboard_time": 1746760222,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 140218,
@@ -705,6 +769,14 @@
       "onboard_time": 1746690022,
       "rank": 32,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 123881,
+      "num": 123881,
+      "word": "窦骁零点零一分为何超莲庆生",
+      "onboard_time": 1746760581,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 123111,
@@ -819,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101769,
-      "num": 417829,
-      "word": "美官员称歼10击落至少两架印度军机",
-      "onboard_time": 1746760161,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100319,
       "num": 228072,
       "word": "曼联4比1毕尔巴鄂竞技",
@@ -865,6 +929,14 @@
       "onboard_time": 1746746959,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92267,
+      "num": 266593,
+      "word": "男子每天拍拍西瓜月入3万元",
+      "onboard_time": 1746761181,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89976,
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 75617,
-      "num": 1155799,
+      "num": 1274115,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
@@ -984,6 +1056,14 @@
       "word": "丁禹兮零帧起唱爱的主打歌",
       "onboard_time": 1746718343,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66467,
+      "num": 189156,
+      "word": "谢娜回复李小冉爱你就是爱你",
+      "onboard_time": 1746761241,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1017,6 +1097,14 @@
       "onboard_time": 1746745519,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62795,
+      "num": 234304,
+      "word": "便利店偶遇文淇",
+      "onboard_time": 1746760402,
+      "rank": 34,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 62784,
@@ -1065,14 +1153,6 @@
       "onboard_time": 1746712643,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 55204,
-      "num": 180972,
-      "word": "便利店偶遇文淇",
-      "onboard_time": 1746760402,
-      "rank": 34,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 55200,
@@ -1257,6 +1337,14 @@
       "onboard_time": 1746759680,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15479,
+      "num": 438009,
+      "word": "哪些措施可以应对本次大雨的致灾性",
+      "onboard_time": 1746760881,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15029,
