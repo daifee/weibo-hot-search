@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746826677627,
+  "endTime": 1746829433656,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 315417,
-      "num": 315417,
+      "num": 397593,
       "word": "印称巴派出300至400架无人机发动攻击",
       "onboard_time": 1746806181,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1746799825,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 226788,
+      "num": 70311,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 224335,
@@ -193,14 +201,6 @@
       "onboard_time": 1746805582,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112618,
-      "num": 70311,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
-      "rank": 38,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 106342,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73497,
+      "num": 73497,
+      "word": "加沙人吃着饭就被炸死了",
+      "onboard_time": 1746822914,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73370,
       "num": 73370,
       "word": "韩国高尔夫球场推荐榜第1名在江苏",
@@ -369,6 +377,14 @@
       "onboard_time": 1746807981,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70233,
+      "num": 50767,
+      "word": "日本地铁砍人嫌犯特意选东大附近作案",
+      "onboard_time": 1746809179,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 69817,
@@ -419,20 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51293,
-      "num": 51293,
-      "word": "加沙人吃着饭就被炸死了",
-      "onboard_time": 1746822914,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 49017,
-      "num": 50767,
-      "word": "日本地铁砍人嫌犯特意选东大附近作案",
-      "onboard_time": 1746809179,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 42922,
+      "num": 32498,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1746828315,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 42756,
@@ -441,6 +449,14 @@
       "onboard_time": 1746812057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42320,
+      "num": 42320,
+      "word": "巴方称击落29架印度无人机",
+      "onboard_time": 1746826994,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38523,
@@ -475,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32506,
+      "num": 32506,
+      "word": "何超莲回复窦骁生日祝福",
+      "onboard_time": 1746786262,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29881,
       "num": 42264,
       "word": "cp31",
@@ -491,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27684,
-      "num": 28053,
-      "word": "何超莲回复窦骁生日祝福",
-      "onboard_time": 1746786262,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 25606,
+      "num": 32491,
+      "word": "多国领导人正陆续抵达克里姆林宫",
+      "onboard_time": 1746819195,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24122,
@@ -523,16 +547,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21106,
-      "num": 18037,
-      "word": "多国领导人正陆续抵达克里姆林宫",
-      "onboard_time": 1746819195,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 21110,
+      "num": 32474,
+      "word": "吴镇宇一根手指调整王星表演的眼神",
+      "onboard_time": 1746828795,
+      "rank": 38,
+      "category": "综艺"
     },
     {
-      "raw_hot": 18130,
-      "num": 18188,
+      "raw_hot": 20348,
+      "num": 32465,
       "word": "普京红场讲话提醒牢记二战教训",
       "onboard_time": 1746823334,
       "rank": 26,
@@ -553,6 +577,14 @@
       "onboard_time": 1746817575,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17047,
+      "num": 32449,
+      "word": "提醒在巴中国公民加强安全防范",
+      "onboard_time": 1746824954,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16382,
@@ -595,14 +627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12381,
-      "num": 23227,
-      "word": "提醒在巴中国公民加强安全防范",
-      "onboard_time": 1746824954,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10062,
       "num": 255278,
       "word": "一图读懂民营经济促进法亮点",
@@ -611,7 +635,7 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 6573,
+      "raw_hot": 6969,
       "num": 71123,
       "word": "2分钟了解民营经济促进法",
       "onboard_time": 1746782481,
