@@ -1,14 +1,30 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746747563775,
+  "endTime": 1746755828912,
   "band_list": [
     {
       "raw_hot": 1455770,
-      "num": 234136,
+      "num": 389260,
       "word": "19岁的黄多多",
       "onboard_time": 1746719002,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1356657,
+      "num": 1356657,
+      "word": "这次大雨有一定致灾性",
+      "onboard_time": 1746752841,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1119175,
+      "num": 670921,
+      "word": "一个比考公考编更难的事",
+      "onboard_time": 1746748161,
+      "rank": 5,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1073363,
@@ -19,8 +35,32 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 925758,
+      "num": 925758,
+      "word": "31岁章泽天素颜怼脸照",
+      "onboard_time": 1746752481,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 832201,
+      "num": 832201,
+      "word": "藏海传赴山海 对打",
+      "onboard_time": 1746746659,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 692879,
+      "num": 692879,
+      "word": "世乒赛后王楚钦无法重返世一",
+      "onboard_time": 1746754280,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 657905,
-      "num": 227835,
+      "num": 302131,
       "word": "小英考虑让女儿出国留学",
       "onboard_time": 1746715644,
       "rank": 11,
@@ -35,8 +75,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 626275,
+      "num": 626275,
+      "word": "巴方称与约80架印度战机交战",
+      "onboard_time": 1746749483,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 591910,
-      "num": 231319,
+      "num": 371811,
       "word": "金巧巧回应说不适合演农村人",
       "onboard_time": 1746745699,
       "rank": 14,
@@ -48,6 +96,14 @@
       "word": "重庆大学已成立专项工作组",
       "onboard_time": 1746712403,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520350,
+      "num": 520350,
+      "word": "广州暴雨",
+      "onboard_time": 1746752961,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -67,8 +123,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451302,
+      "num": 451302,
+      "word": "荣昌高书记问开这么多药房干什么",
+      "onboard_time": 1746749362,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443763,
-      "num": 227726,
+      "num": 248739,
       "word": "窦靖童 我承认我从小条件就好",
       "onboard_time": 1746715763,
       "rank": 13,
@@ -139,6 +203,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298335,
+      "num": 248765,
+      "word": "5个月大宝宝以为自己叫小爱同学",
+      "onboard_time": 1746754280,
+      "rank": 20,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 297051,
+      "num": 297051,
+      "word": "撕拉片和拍立得有什么区别",
+      "onboard_time": 1746749601,
+      "rank": 14,
+      "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 289048,
+      "num": 289048,
+      "word": "首位来自美国的教皇诞生",
+      "onboard_time": 1746747020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 277277,
+      "num": 277277,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1746755000,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266362,
       "num": 226378,
       "word": "首批加征145%关税货物轮船抵美",
@@ -155,8 +251,32 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263697,
+      "num": 248756,
+      "word": "网店卖婴儿高跟鞋被批畸形审美",
+      "onboard_time": 1746751881,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251718,
+      "num": 251718,
+      "word": "空空导弹是24小时无人自动化生产",
+      "onboard_time": 1746748102,
+      "rank": 17,
+      "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 250501,
+      "num": 250501,
+      "word": "藏海传",
+      "onboard_time": 1746750321,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247142,
-      "num": 232154,
+      "num": 248778,
       "word": "汤唯撕拉片",
       "onboard_time": 1746745579,
       "rank": 7,
@@ -187,12 +307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228476,
-      "num": 228476,
-      "word": "藏海传赴山海 对打",
-      "onboard_time": 1746746659,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 231298,
+      "num": 206611,
+      "word": "终于知道为什么都喜欢小说的女主了",
+      "onboard_time": 1746754701,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 223044,
@@ -201,6 +321,22 @@
       "onboard_time": 1746746481,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219764,
+      "num": 392795,
+      "word": "美众院同意将墨西哥湾改名美国湾",
+      "onboard_time": 1746754821,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211443,
+      "num": 211443,
+      "word": "异瞳少年治沙月入7200元",
+      "onboard_time": 1746753801,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200870,
@@ -251,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168758,
+      "num": 168758,
+      "word": "妻子举报高管丈夫涉嫌重婚",
+      "onboard_time": 1746753980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168411,
+      "num": 168411,
+      "word": "婴儿疑遭亲戚反复用力摇晃致脑出血",
+      "onboard_time": 1746750083,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165888,
       "num": 237546,
       "word": "王楚钦在路边摸蛇",
@@ -259,12 +411,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157071,
+      "num": 157071,
+      "word": "柳州8元一碗的白粥",
+      "onboard_time": 1746749002,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148736,
+      "num": 148736,
+      "word": "商家回应婴儿高跟鞋形似三寸金莲",
+      "onboard_time": 1746754701,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147160,
+      "num": 210460,
+      "word": "赴山海",
+      "onboard_time": 1746750442,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144716,
       "num": 226872,
       "word": "任嘉伦虐剧纯元回来了",
       "onboard_time": 1746711503,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140092,
+      "num": 226762,
+      "word": "迪丽热巴到达江西",
+      "onboard_time": 1746746839,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 138325,
@@ -307,12 +491,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125210,
+      "num": 125210,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1746753379,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125005,
+      "num": 125005,
+      "word": "iPhone17Air参数曝光",
+      "onboard_time": 1746751881,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123894,
       "num": 123894,
       "word": "被资本做局了",
       "onboard_time": 1746690022,
       "rank": 32,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 123111,
+      "num": 208724,
+      "word": "王阳五部一番男主剧",
+      "onboard_time": 1746752062,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117912,
+      "num": 117912,
+      "word": "懂了台湾人为啥吃饭爱配新闻",
+      "onboard_time": 1746749122,
+      "rank": 43,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 117546,
@@ -331,12 +547,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116304,
+      "num": 116304,
+      "word": "孩子们和子弟兵的相遇好暖",
+      "onboard_time": 1746754941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114726,
       "num": 131538,
       "word": "曝歌手2025首发阵容",
       "onboard_time": 1746701721,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113630,
+      "num": 113630,
+      "word": "原来电池会被饿死",
+      "onboard_time": 1746749181,
+      "rank": 46,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 112274,
@@ -347,12 +579,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112210,
+      "num": 112210,
+      "word": "欧盟公布对美关税反制清单",
+      "onboard_time": 1746750142,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 109415,
+      "num": 109415,
+      "word": "学校是世界上最好减肥的地方",
+      "onboard_time": 1746754641,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108648,
+      "num": 206915,
+      "word": "宁艺卓橘发",
+      "onboard_time": 1746754881,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100319,
       "num": 228072,
       "word": "曼联4比1毕尔巴鄂竞技",
       "onboard_time": 1746746600,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100317,
+      "num": 107844,
+      "word": "易烊千玺刷新华语男演员入围戛纳记录",
+      "onboard_time": 1746749662,
+      "rank": 49,
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 99735,
@@ -385,14 +649,6 @@
       "onboard_time": 1746721640,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89827,
-      "num": 226762,
-      "word": "迪丽热巴到达江西",
-      "onboard_time": 1746746839,
-      "rank": 27,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 89216,
@@ -473,6 +729,14 @@
       "onboard_time": 1746716843,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75617,
+      "num": 867003,
+      "word": "从莫斯科看到更大的世界",
+      "onboard_time": 1746713303,
+      "rank": 2,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71610,
@@ -587,14 +851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 55325,
-      "num": 342209,
-      "word": "从莫斯科看到更大的世界",
-      "onboard_time": 1746713303,
-      "rank": 2,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55200,
       "num": 55200,
       "word": "星露谷物语",
@@ -659,20 +915,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41570,
-      "num": 227899,
-      "word": "首位来自美国的教皇诞生",
-      "onboard_time": 1746747020,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35122,
       "num": 97199,
       "word": "野兽先生视频爆火的背后",
       "onboard_time": 1746720201,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 31437,
+      "num": 214976,
+      "word": "切尔西1比0尤尔加登",
+      "onboard_time": 1746751760,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 29227,

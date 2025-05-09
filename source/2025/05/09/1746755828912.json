@@ -1,0 +1,410 @@
+{
+  "runTime": 1746755828912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356657,
+        "num": 1356657,
+        "word": "这次大雨有一定致灾性",
+        "onboard_time": 1746752841,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925758,
+        "num": 925758,
+        "word": "31岁章泽天素颜怼脸照",
+        "onboard_time": 1746752481,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75617,
+        "num": 867003,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 832201,
+        "num": 832201,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 692879,
+        "num": 692879,
+        "word": "世乒赛后王楚钦无法重返世一",
+        "onboard_time": 1746754280,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1119175,
+        "num": 670921,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1746748161,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 626275,
+        "num": 626275,
+        "word": "巴方称与约80架印度战机交战",
+        "onboard_time": 1746749483,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 520350,
+        "num": 520350,
+        "word": "广州暴雨",
+        "onboard_time": 1746752961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451302,
+        "num": 451302,
+        "word": "荣昌高书记问开这么多药房干什么",
+        "onboard_time": 1746749362,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219764,
+        "num": 392795,
+        "word": "美众院同意将墨西哥湾改名美国湾",
+        "onboard_time": 1746754821,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 973607,
+        "num": 389260,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371811,
+        "num": 371811,
+        "word": "金巧巧回应说不适合演农村人",
+        "onboard_time": 1746745699,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363605,
+        "num": 363605,
+        "word": "比尔盖茨宣布将捐出几乎全部财富",
+        "onboard_time": 1746712284,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302131,
+        "num": 302131,
+        "word": "小英考虑让女儿出国留学",
+        "onboard_time": 1746715644,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297051,
+        "num": 297051,
+        "word": "撕拉片和拍立得有什么区别",
+        "onboard_time": 1746749601,
+        "rank": 14,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 289048,
+        "num": 289048,
+        "word": "首位来自美国的教皇诞生",
+        "onboard_time": 1746747020,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277277,
+        "num": 277277,
+        "word": "爱德华兹受伤",
+        "onboard_time": 1746755000,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251718,
+        "num": 251718,
+        "word": "空空导弹是24小时无人自动化生产",
+        "onboard_time": 1746748102,
+        "rank": 17,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 250501,
+        "num": 250501,
+        "word": "藏海传",
+        "onboard_time": 1746750321,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188920,
+        "num": 248778,
+        "word": "汤唯撕拉片",
+        "onboard_time": 1746745579,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298335,
+        "num": 248765,
+        "word": "5个月大宝宝以为自己叫小爱同学",
+        "onboard_time": 1746754280,
+        "rank": 20,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 263697,
+        "num": 248756,
+        "word": "网店卖婴儿高跟鞋被批畸形审美",
+        "onboard_time": 1746751881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248739,
+        "num": 248739,
+        "word": "窦靖童 我承认我从小条件就好",
+        "onboard_time": 1746715763,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221852,
+        "num": 221852,
+        "word": "长期凌晨睡觉对身体的5个影响",
+        "onboard_time": 1746746481,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31437,
+        "num": 214976,
+        "word": "切尔西1比0尤尔加登",
+        "onboard_time": 1746751760,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211443,
+        "num": 211443,
+        "word": "异瞳少年治沙月入7200元",
+        "onboard_time": 1746753801,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147160,
+        "num": 210460,
+        "word": "赴山海",
+        "onboard_time": 1746750442,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140092,
+        "num": 209188,
+        "word": "迪丽热巴到达江西",
+        "onboard_time": 1746746839,
+        "rank": 27,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 123111,
+        "num": 208724,
+        "word": "王阳五部一番男主剧",
+        "onboard_time": 1746752062,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108648,
+        "num": 206915,
+        "word": "宁艺卓橘发",
+        "onboard_time": 1746754881,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231298,
+        "num": 206611,
+        "word": "终于知道为什么都喜欢小说的女主了",
+        "onboard_time": 1746754701,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205697,
+        "num": 205697,
+        "word": "巴基斯坦空军为何如此强悍",
+        "onboard_time": 1746718283,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202132,
+        "num": 202132,
+        "word": "金价突然跳水",
+        "onboard_time": 1746706822,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202072,
+        "num": 202072,
+        "word": "3岁女童脱发眼神呆滞被查出铊中毒",
+        "onboard_time": 1746745579,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168758,
+        "num": 168758,
+        "word": "妻子举报高管丈夫涉嫌重婚",
+        "onboard_time": 1746753980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168411,
+        "num": 168411,
+        "word": "婴儿疑遭亲戚反复用力摇晃致脑出血",
+        "onboard_time": 1746750083,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157071,
+        "num": 157071,
+        "word": "柳州8元一碗的白粥",
+        "onboard_time": 1746749002,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 148736,
+        "word": "商家回应婴儿高跟鞋形似三寸金莲",
+        "onboard_time": 1746754701,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "重庆大学已成立专项工作组",
+        "onboard_time": 1746712403,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143044,
+        "num": 143044,
+        "word": "生理性喜欢的最真实表现",
+        "onboard_time": 1746712704,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139162,
+        "num": 139162,
+        "word": "新教皇",
+        "onboard_time": 1746725176,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125210,
+        "num": 125210,
+        "word": "勇士vs森林狼",
+        "onboard_time": 1746753379,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125005,
+        "num": 125005,
+        "word": "iPhone17Air参数曝光",
+        "onboard_time": 1746751881,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117912,
+        "num": 117912,
+        "word": "懂了台湾人为啥吃饭爱配新闻",
+        "onboard_time": 1746749122,
+        "rank": 43,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 116304,
+        "num": 116304,
+        "word": "孩子们和子弟兵的相遇好暖",
+        "onboard_time": 1746754941,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114437,
+        "num": 114437,
+        "word": "胖东来和田玉标注进货价和毛利",
+        "onboard_time": 1746718942,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113630,
+        "num": 113630,
+        "word": "原来电池会被饿死",
+        "onboard_time": 1746749181,
+        "rank": 46,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 112210,
+        "num": 112210,
+        "word": "欧盟公布对美关税反制清单",
+        "onboard_time": 1746750142,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109415,
+        "num": 109415,
+        "word": "学校是世界上最好减肥的地方",
+        "onboard_time": 1746754641,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100317,
+        "num": 107844,
+        "word": "易烊千玺刷新华语男演员入围戛纳记录",
+        "onboard_time": 1746749662,
+        "rank": 49,
+        "category": "电影,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}
