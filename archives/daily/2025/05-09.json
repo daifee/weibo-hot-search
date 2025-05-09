@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746798327926,
+  "endTime": 1746800669403,
   "band_list": [
     {
       "raw_hot": 2420677,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696488,
+      "num": 696488,
+      "word": "内娱最有味道的吻戏出现了",
+      "onboard_time": 1746797541,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 693722,
       "num": 270003,
       "word": "痛经是因为子宫太想保护你",
@@ -361,6 +369,14 @@
       "onboard_time": 1746763822,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647586,
+      "num": 316499,
+      "word": "韩安冉说自己存款不到20万",
+      "onboard_time": 1746797962,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 641673,
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526535,
+      "num": 462253,
+      "word": "房琪我赌你的歌词里有子弹",
+      "onboard_time": 1746795562,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520350,
       "num": 706278,
       "word": "广州暴雨",
@@ -497,14 +521,6 @@
       "onboard_time": 1746792622,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 462253,
-      "num": 462253,
-      "word": "房琪我赌你的歌词里有子弹",
-      "onboard_time": 1746795562,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 454626,
@@ -771,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314295,
+      "num": 314295,
+      "word": "贵州发现罕见幽灵之花",
+      "onboard_time": 1746795023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313446,
       "num": 263889,
       "word": "阿维塔公开直播风洞测试",
@@ -865,6 +889,14 @@
       "onboard_time": 1746783081,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291905,
+      "num": 291905,
+      "word": "张凌赫二旬老人的朋友圈",
+      "onboard_time": 1746798203,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 289645,
@@ -1043,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238654,
-      "num": 238654,
-      "word": "贵州发现罕见幽灵之花",
-      "onboard_time": 1746795023,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238184,
       "num": 227189,
       "word": "印度开闸放水",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1746754701,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229812,
-      "num": 289710,
-      "word": "内娱最有味道的吻戏出现了",
-      "onboard_time": 1746797541,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 229313,
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209324,
+      "num": 209324,
+      "word": "斗罗大陆2动画",
+      "onboard_time": 1746800424,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208561,
       "num": 191186,
       "word": "孙颖莎两套高定",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1746766523,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205274,
+      "num": 205274,
+      "word": "CBA",
+      "onboard_time": 1746799643,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 205057,
@@ -1403,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198994,
+      "num": 198994,
+      "word": "原来机器人也有性格设定",
+      "onboard_time": 1746800483,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198949,
       "num": 198949,
       "word": "52岁的杨坤18岁的腰",
@@ -1467,12 +1507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191701,
+      "num": 191701,
+      "word": "崔秀彬像晴天像雨天cover",
+      "onboard_time": 1746800305,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191104,
       "num": 191104,
       "word": "长大后养的第一个小孩是妈妈",
       "onboard_time": 1746785841,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190904,
+      "num": 190904,
+      "word": "淘宝免单 618",
+      "onboard_time": 1746799643,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 190276,
@@ -1547,6 +1603,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 187282,
+      "num": 187282,
+      "word": "网红姜涛为娶妻生子退网",
+      "onboard_time": 1746800424,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 186771,
       "num": 279991,
       "word": "爸爸当家慢享季定档官宣",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1746793702,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185530,
+      "num": 185530,
+      "word": "淘宝免单 2003",
+      "onboard_time": 1746800305,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 184782,
@@ -1609,6 +1681,14 @@
       "onboard_time": 1746693981,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182313,
+      "num": 185532,
+      "word": "周翊然工作室告黑",
+      "onboard_time": 1746799283,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180189,
@@ -1659,14 +1739,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 178320,
-      "num": 178320,
-      "word": "韩安冉说自己存款不到20万",
-      "onboard_time": 1746797962,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 177712,
       "num": 177712,
       "word": "梵蒂冈",
@@ -1691,12 +1763,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176309,
+      "num": 176309,
+      "word": "放水题",
+      "onboard_time": 1746798503,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176070,
       "num": 176070,
       "word": "孙颖莎五大女刊已解锁三本",
       "onboard_time": 1746774261,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175969,
+      "num": 175969,
+      "word": "丧妻男子看前座情侣吵架突然崩溃",
+      "onboard_time": 1746799223,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175924,
@@ -2019,20 +2107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149916,
+      "num": 149916,
+      "word": "阵风战机宣传片每一句都像回旋镖",
+      "onboard_time": 1746799041,
+      "rank": 40,
+      "category": "军事,国际时政"
+    },
+    {
       "raw_hot": 149873,
       "num": 149873,
       "word": "iG公布报点事件麦克风",
       "onboard_time": 1746786923,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 149343,
-      "num": 149343,
-      "word": "张凌赫二旬老人的朋友圈",
-      "onboard_time": 1746798203,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 148736,
@@ -2147,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141247,
+      "num": 141247,
+      "word": "丞磊没有忘记gogogo的后半句",
+      "onboard_time": 1746800003,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140913,
       "num": 140913,
       "word": "王俊凯CL一日店长",
@@ -2195,6 +2291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139476,
+      "num": 139476,
+      "word": "张凌赫将去戛纳",
+      "onboard_time": 1746800305,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138325,
       "num": 138325,
       "word": "中俄签署联合声明",
@@ -2209,6 +2313,14 @@
       "onboard_time": 1746766883,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137142,
+      "num": 137142,
+      "word": "时代少年团去了张杰演唱会",
+      "onboard_time": 1746800545,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 136828,
@@ -2275,6 +2387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134316,
+      "num": 134316,
+      "word": "结婚离婚为什么不需要户口本了",
+      "onboard_time": 1746799825,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 133815,
       "num": 133815,
       "word": "罗予彤憋着眼泪一直练",
@@ -2315,12 +2435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131440,
+      "num": 131440,
+      "word": "何运晨拒绝打工人请假羞耻",
+      "onboard_time": 1746800062,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130569,
       "num": 130569,
       "word": "陈好宋茜的旅行日记",
       "onboard_time": 1746780622,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129952,
+      "num": 139543,
+      "word": "好多明星看张杰演唱会",
+      "onboard_time": 1746799163,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 129917,
@@ -2795,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103331,
+      "num": 186341,
+      "word": "郑恺陪李昀锐练网球",
+      "onboard_time": 1746800483,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102587,
       "num": 117219,
       "word": "赵一博沈月爱情保安",
@@ -2993,6 +3137,14 @@
       "onboard_time": 1746706462,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83114,
+      "num": 201776,
+      "word": "孙颖莎回应想解锁什么新身份",
+      "onboard_time": 1746799464,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 81728,
@@ -3267,6 +3419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 54993,
+      "num": 139614,
+      "word": "多款手机修图APP出现撕拉片滤镜",
+      "onboard_time": 1746798623,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54575,
       "num": 145172,
       "word": "中国排面震撼我一回又一回",
@@ -3305,6 +3465,14 @@
       "onboard_time": 1746727155,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47607,
+      "num": 876416,
+      "word": "中文强军战歌响彻红场",
+      "onboard_time": 1746799883,
+      "rank": 2,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 47339,
@@ -3507,6 +3675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31497,
+      "num": 151707,
+      "word": "医生用善意谎言欺骗癌症患者",
+      "onboard_time": 1746799583,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 31437,
       "num": 214976,
       "word": "切尔西1比0尤尔加登",
@@ -3649,6 +3825,14 @@
       "onboard_time": 1746775282,
       "rank": 38,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 23288,
+      "num": 169199,
+      "word": "商家298元售非遗证书称持证月薪过万",
+      "onboard_time": 1746800545,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23113,
@@ -3875,6 +4059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11773,
+      "num": 150611,
+      "word": "正确健身不再瘦弱",
+      "onboard_time": 1746800305,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 11633,
       "num": 192620,
       "word": "医学体制有待改革",
@@ -3941,6 +4133,9 @@
     },
     {
       "word": "#中俄两国要风雨同渡关山共越#"
+    },
+    {
+      "word": "#习近平出席红场阅兵式#"
     }
   ]
 }
