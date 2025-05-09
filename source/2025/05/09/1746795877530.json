@@ -1,0 +1,410 @@
+{
+  "runTime": 1746795877530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 983234,
+        "num": 1157317,
+        "word": "歌手2025回复马嘉祺",
+        "onboard_time": 1746791241,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2150437,
+        "num": 978800,
+        "word": "女子月薪4700元负债2544万元",
+        "onboard_time": 1746792201,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48512,
+        "num": 798171,
+        "word": "中国排面齐唱放心吧祖国",
+        "onboard_time": 1746782180,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 747392,
+        "num": 747392,
+        "word": "南京一大学被曝献血免晨跑和体育课",
+        "onboard_time": 1746792260,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678526,
+        "num": 678526,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442903,
+        "num": 442903,
+        "word": "淘宝免单 优酷",
+        "onboard_time": 1746780201,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 412628,
+        "num": 412628,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23980,
+        "num": 328787,
+        "word": "2分钟了解民营经济促进法",
+        "onboard_time": 1746782481,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 294286,
+        "num": 294286,
+        "word": "张杰演唱会",
+        "onboard_time": 1746793162,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 275284,
+        "num": 275284,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1746794423,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 677989,
+        "num": 274969,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 534093,
+        "num": 273426,
+        "word": "男子高考640分辅导女儿沉默60秒",
+        "onboard_time": 1746790760,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444307,
+        "num": 273147,
+        "word": "张云龙又吵架了还吵输了",
+        "onboard_time": 1746792622,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432863,
+        "num": 272012,
+        "word": "何超莲回复窦骁生日祝福",
+        "onboard_time": 1746786262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101390,
+        "num": 270810,
+        "word": "特朗普竟称港口没船是好事情",
+        "onboard_time": 1746794423,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379872,
+        "num": 269687,
+        "word": "马嘉祺丁程鑫宋亚轩看张杰演唱会",
+        "onboard_time": 1746794363,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64839,
+        "num": 268273,
+        "word": "特朗普说对英10%关税并非他国模板",
+        "onboard_time": 1746786262,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34599,
+        "num": 267575,
+        "word": "王楚钦孙颖莎复盘训练满脸认真",
+        "onboard_time": 1746795443,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87390,
+        "num": 266020,
+        "word": "达尼洛维奇摔球拍",
+        "onboard_time": 1746795503,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44265,
+        "num": 264952,
+        "word": "警方回应女子寻亲被养父母送精神病院",
+        "onboard_time": 1746794483,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306301,
+        "num": 264363,
+        "word": "老人摘十斤樱桃摆路边被人顺走",
+        "onboard_time": 1746785001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263889,
+        "num": 263889,
+        "word": "阿维塔公开直播风洞测试",
+        "onboard_time": 1746792201,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 241624,
+        "num": 241624,
+        "word": "淘宝免单 重逢的季节",
+        "onboard_time": 1746782661,
+        "rank": 22,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 34015,
+        "num": 236259,
+        "word": "如何减少对毕业论文的戾气",
+        "onboard_time": 1746793463,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 657283,
+        "num": 226041,
+        "word": "痛经是因为子宫太想保护你",
+        "onboard_time": 1746791720,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162767,
+        "num": 217147,
+        "word": "长相完美听障女孩宸玥回应整容",
+        "onboard_time": 1746783801,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309102,
+        "num": 207526,
+        "word": "原来真有人命好到一塌糊涂",
+        "onboard_time": 1746790521,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 200554,
+        "num": 200554,
+        "word": "巴基斯坦称已摧毁77架印度无人机",
+        "onboard_time": 1746784101,
+        "rank": 27,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 184302,
+        "num": 184302,
+        "word": "林磊儿这次不住小姨家住哥哥家",
+        "onboard_time": 1746794543,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152564,
+        "num": 182356,
+        "word": "陈昊宇新剧出场就被坑",
+        "onboard_time": 1746794483,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 181110,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169383,
+        "num": 169383,
+        "word": "西安雷雨夜再现龙形不明飞行物",
+        "onboard_time": 1746793702,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168660,
+        "num": 168660,
+        "word": "贵州发现罕见幽灵之花",
+        "onboard_time": 1746795023,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163267,
+        "num": 163267,
+        "word": "沈月你要整死张云龙啊",
+        "onboard_time": 1746794603,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156907,
+        "num": 156907,
+        "word": "韩安冉老公去做医美了",
+        "onboard_time": 1746783621,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150893,
+        "num": 150893,
+        "word": "巴基斯坦展示印度无人机残骸",
+        "onboard_time": 1746789801,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150660,
+        "num": 150660,
+        "word": "环球小姐伪造学历入读港大获刑240天",
+        "onboard_time": 1746786622,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148147,
+        "num": 148147,
+        "word": "房琪我赌你的歌词里有子弹",
+        "onboard_time": 1746795562,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145196,
+        "num": 145196,
+        "word": "法院回应女子负债超两千万申请破产",
+        "onboard_time": 1746794242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137604,
+        "num": 142344,
+        "word": "藏海传档期",
+        "onboard_time": 1746781221,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140913,
+        "num": 140913,
+        "word": "王俊凯CL一日店长",
+        "onboard_time": 1746795684,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53559,
+        "num": 140789,
+        "word": "郑钦文2比0达尼洛维奇",
+        "onboard_time": 1746795803,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89686,
+        "num": 140770,
+        "word": "郑钦文罗马站开门红",
+        "onboard_time": 1746795803,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140752,
+        "num": 140752,
+        "word": "care王朝了",
+        "onboard_time": 1746794242,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135356,
+        "num": 135356,
+        "word": "妈妈也是一个小女孩的瞬间",
+        "onboard_time": 1746794723,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117238,
+        "num": 117238,
+        "word": "郑钦文vs达尼洛维奇",
+        "onboard_time": 1746788901,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116782,
+        "num": 116782,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 115007,
+        "word": "解放军仪仗队通过红场画面",
+        "onboard_time": 1746780861,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103381,
+        "num": 114792,
+        "word": "小婉管乐果然是有福之人",
+        "onboard_time": 1746794842,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114712,
+        "num": 114712,
+        "word": "中国军人一个方阵只有一个脚步声",
+        "onboard_time": 1746792260,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在莫斯科出席红场阅兵式#"
+    }
+  }
+}
