@@ -1,0 +1,410 @@
+{
+  "runTime": 1746779601101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1063046,
+        "num": 1170087,
+        "word": "俄罗斯阅兵直播",
+        "onboard_time": 1746776002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1949928,
+        "num": 1084507,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5644,
+        "num": 591242,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1565633,
+        "num": 576715,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 546827,
+        "num": 546827,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 473122,
+        "num": 473122,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 330352,
+        "num": 436253,
+        "word": "唐国强锐评短剧悲哀原因",
+        "onboard_time": 1746776362,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294200,
+        "num": 426984,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424316,
+        "num": 424316,
+        "word": "纪念苏联伟大卫国战争胜利80周年阅兵式",
+        "onboard_time": 1746777441,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38519,
+        "num": 375209,
+        "word": "一图读懂民营经济促进法亮点",
+        "onboard_time": 1746777981,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 361928,
+        "num": 361928,
+        "word": "到了美国才发现并没有滤镜",
+        "onboard_time": 1746771562,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 351870,
+        "num": 351870,
+        "word": "巴铁亮出中国反无人机王牌武器",
+        "onboard_time": 1746767602,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330481,
+        "num": 330481,
+        "word": "阅兵",
+        "onboard_time": 1746774441,
+        "rank": 12,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 311459,
+        "num": 311459,
+        "word": "俄罗斯举行盛大庆典",
+        "onboard_time": 1746777683,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91511,
+        "num": 237981,
+        "word": "新员工病逝公司拖缴社保被判赔11万",
+        "onboard_time": 1746778223,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231531,
+        "num": 231531,
+        "word": "诀爱 王珞丹",
+        "onboard_time": 1746774202,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262063,
+        "num": 228349,
+        "word": "黄英四公只分到37个字",
+        "onboard_time": 1746777261,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206833,
+        "num": 224200,
+        "word": "去文淇的梦里看一看",
+        "onboard_time": 1746777801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98852,
+        "num": 222188,
+        "word": "5年前租的车突然被自动扣款1100",
+        "onboard_time": 1746778042,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13807,
+        "num": 217652,
+        "word": "验瓜师如何使用感官检验西瓜品质的",
+        "onboard_time": 1746778942,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 216152,
+        "num": 216152,
+        "word": "恒安集团回应客服辱骂顾客送冥币",
+        "onboard_time": 1746770242,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215540,
+        "num": 215540,
+        "word": "沙溢健身后的速度累到摄像",
+        "onboard_time": 1746778223,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214906,
+        "num": 214906,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204253,
+        "num": 204253,
+        "word": "一直以为看虾仁是件很小众的事情",
+        "onboard_time": 1746777562,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194021,
+        "num": 194021,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193845,
+        "num": 193845,
+        "word": "父母花光积蓄将抑郁孩子送进矫治机构",
+        "onboard_time": 1746778042,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173447,
+        "num": 189793,
+        "word": "虞书欣定点饭撒不理解但尊重",
+        "onboard_time": 1746773962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161634,
+        "num": 187548,
+        "word": "腾讯更新片单",
+        "onboard_time": 1746770902,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136829,
+        "num": 186367,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186324,
+        "num": 186324,
+        "word": "孟子义演坏人有自己的演法",
+        "onboard_time": 1746778884,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457540,
+        "num": 185609,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184851,
+        "num": 184851,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184244,
+        "num": 184244,
+        "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+        "onboard_time": 1746769581,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179617,
+        "num": 179617,
+        "word": "现场直击2025年俄罗斯胜利日阅兵",
+        "onboard_time": 1746775822,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152457,
+        "num": 152457,
+        "word": "李承铉边睡觉边给戚薇捏脚",
+        "onboard_time": 1746769760,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148369,
+        "num": 148369,
+        "word": "女生输头孢离世家属与医院和解",
+        "onboard_time": 1746766222,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 143612,
+        "word": "印媒报击落巴方战机遭否认",
+        "onboard_time": 1746776242,
+        "rank": 36,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 141557,
+        "num": 141557,
+        "word": "大叔3次出手救了3条人命",
+        "onboard_time": 1746775162,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35460,
+        "num": 137131,
+        "word": "找饭搭子的方式去相亲",
+        "onboard_time": 1746778284,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 18914,
+        "num": 136798,
+        "word": "真实的武汉是什么样的",
+        "onboard_time": 1746777683,
+        "rank": 39,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 136634,
+        "num": 136634,
+        "word": "李小冉说躺着就把肥减了",
+        "onboard_time": 1746779241,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "孙颖莎嘉人销量破纪录",
+        "onboard_time": 1746774202,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126254,
+        "num": 126254,
+        "word": "宋亚轩我姓宋我应该不会怂",
+        "onboard_time": 1746778583,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "和上班搭子一天的高频词",
+        "onboard_time": 1746779361,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123522,
+        "num": 123522,
+        "word": "百度地图回应导航植入广告",
+        "onboard_time": 1746778042,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123103,
+        "num": 123103,
+        "word": "中国排面在红场一步一帅",
+        "onboard_time": 1746778702,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114835,
+        "num": 114835,
+        "word": "打击战略矿产走私出口",
+        "onboard_time": 1746776242,
+        "rank": 46,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 113837,
+        "num": 113837,
+        "word": "快给周深练成下腰了",
+        "onboard_time": 1746779122,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109521,
+        "num": 109521,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109493,
+        "num": 109493,
+        "word": "刘耀文在家做饭给宋亚轩吃",
+        "onboard_time": 1746772701,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京茶叙#"
+    }
+  }
+}
