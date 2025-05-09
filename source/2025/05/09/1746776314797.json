@@ -1,0 +1,410 @@
+{
+  "runTime": 1746776314797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1106533,
+        "num": 1177045,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 993883,
+        "num": 993883,
+        "word": "心相印",
+        "onboard_time": 1746770242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6175,
+        "num": 891675,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843685,
+        "num": 843685,
+        "word": "阅兵",
+        "onboard_time": 1746774441,
+        "rank": 3,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 769510,
+        "num": 769510,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 718660,
+        "num": 718660,
+        "word": "到了美国才发现并没有滤镜",
+        "onboard_time": 1746771562,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 544591,
+        "num": 544591,
+        "word": "巴铁亮出中国反无人机王牌武器",
+        "onboard_time": 1746767602,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 528075,
+        "num": 528075,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322784,
+        "num": 516362,
+        "word": "腾讯更新片单",
+        "onboard_time": 1746770902,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175924,
+        "num": 515233,
+        "word": "中国仪仗队走上红场",
+        "onboard_time": 1746775583,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 514923,
+        "num": 514923,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464652,
+        "num": 464652,
+        "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+        "onboard_time": 1746769581,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365781,
+        "num": 365781,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301854,
+        "num": 301854,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113079,
+        "num": 279533,
+        "word": "现在用的撕拉片都是过期货",
+        "onboard_time": 1746774561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266853,
+        "num": 266853,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117957,
+        "num": 257717,
+        "word": "现场直击2025年俄罗斯胜利日阅兵",
+        "onboard_time": 1746775822,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253371,
+        "num": 253371,
+        "word": "下一个天亮好哭",
+        "onboard_time": 1746769283,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222052,
+        "num": 248535,
+        "word": "刘耀文在家做饭给宋亚轩吃",
+        "onboard_time": 1746772701,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 43034,
+        "num": 248242,
+        "word": "反向升学读技校的大学毕业生",
+        "onboard_time": 1746774622,
+        "rank": 19,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 248146,
+        "num": 248146,
+        "word": "女生输头孢离世家属与医院和解",
+        "onboard_time": 1746766222,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224833,
+        "num": 224833,
+        "word": "李承铉边睡觉边给戚薇捏脚",
+        "onboard_time": 1746769760,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203735,
+        "num": 203735,
+        "word": "俄罗斯阅兵直播",
+        "onboard_time": 1746776002,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197896,
+        "num": 203594,
+        "word": "开局一堆人结局一堆坟",
+        "onboard_time": 1746775522,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77626,
+        "num": 203238,
+        "word": "孙颖莎状态被阳光聆听",
+        "onboard_time": 1746775462,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196627,
+        "num": 202513,
+        "word": "诀爱 王珞丹",
+        "onboard_time": 1746774202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194671,
+        "num": 202294,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166415,
+        "num": 201971,
+        "word": "虞书欣定点饭撒不理解但尊重",
+        "onboard_time": 1746773962,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163325,
+        "num": 201612,
+        "word": "吴宣仪谁让你这么跑的",
+        "onboard_time": 1746775881,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201229,
+        "num": 201229,
+        "word": "俄罗斯阅兵",
+        "onboard_time": 1746756801,
+        "rank": 29,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 178454,
+        "num": 178454,
+        "word": "孙颖莎嘉人销量破纪录",
+        "onboard_time": 1746774202,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168075,
+        "num": 168075,
+        "word": "学生被7个机构教官殴打致耳聋",
+        "onboard_time": 1746767303,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163425,
+        "num": 163425,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159151,
+        "num": 159151,
+        "word": "赴山海这段成毅来了都得笑半小时",
+        "onboard_time": 1746775761,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158843,
+        "num": 158843,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144995,
+        "num": 144995,
+        "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
+        "onboard_time": 1746773061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144764,
+        "num": 144764,
+        "word": "印度光辉战斗机的作战能力如何",
+        "onboard_time": 1746772762,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144659,
+        "num": 144659,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28223,
+        "num": 143916,
+        "word": "用唱歌的方式打开科普视频",
+        "onboard_time": 1746775881,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23424,
+        "num": 143891,
+        "word": "探访巴基斯坦地下兵工厂",
+        "onboard_time": 1746775282,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 143880,
+        "num": 143880,
+        "word": "虹猫蓝兔小时候也吃得太好了",
+        "onboard_time": 1746774983,
+        "rank": 40,
+        "category": "动漫,民生新闻"
+      },
+      {
+        "raw_hot": 134950,
+        "num": 134950,
+        "word": "恒安集团回应客服辱骂顾客送冥币",
+        "onboard_time": 1746770242,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "大叔3次出手救了3条人命",
+        "onboard_time": 1746775162,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121658,
+        "num": 128712,
+        "word": "马嘉祺丁程鑫被光所诱惑",
+        "onboard_time": 1746774861,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128618,
+        "num": 128618,
+        "word": "打击战略矿产走私出口",
+        "onboard_time": 1746776242,
+        "rank": 44,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 127437,
+        "num": 127437,
+        "word": "绝区零雨果",
+        "onboard_time": 1746775942,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125716,
+        "num": 125716,
+        "word": "谢娜看到叶童赢哭了",
+        "onboard_time": 1746771261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122524,
+        "num": 122524,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119948,
+        "num": 119948,
+        "word": "吴敬平晒樊振东球迷礼物",
+        "onboard_time": 1746773542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115285,
+        "num": 115285,
+        "word": "印媒报击落巴方战机遭否认",
+        "onboard_time": 1746776242,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}
