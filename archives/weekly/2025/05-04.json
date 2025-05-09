@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746765936856,
+  "endTime": 1746768308501,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843583,
+      "num": 602125,
+      "word": "5人用方言作弊打麻将骗了9万元",
+      "onboard_time": 1746762502,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841998,
       "num": 841998,
       "word": "库里受伤",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1746428601,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 804827,
+      "num": 804827,
+      "word": "花田错",
+      "onboard_time": 1746765924,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 801193,
@@ -2257,14 +2273,6 @@
       "onboard_time": 1746332601,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 602125,
-      "num": 602125,
-      "word": "5人用方言作弊打麻将骗了9万元",
-      "onboard_time": 1746762502,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 602066,
@@ -4979,6 +4987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301209,
+      "num": 204061,
+      "word": "巴铁亮出中国反无人机王牌武器",
+      "onboard_time": 1746767602,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 301143,
       "num": 1019456,
       "word": "这就是街舞",
@@ -5049,6 +5065,14 @@
       "onboard_time": 1746348922,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298026,
+      "num": 432268,
+      "word": "浪姐四公",
+      "onboard_time": 1746765084,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 297614,
@@ -5395,6 +5419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 278856,
+      "num": 496120,
+      "word": "迪丽热巴 红玫瑰",
+      "onboard_time": 1746764843,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 278721,
       "num": 250551,
       "word": "气血不足的人节后要多睡觉",
@@ -5553,6 +5585,14 @@
       "onboard_time": 1746598941,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269391,
+      "num": 269391,
+      "word": "女生输头孢离世家属与医院和解",
+      "onboard_time": 1746766222,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 269169,
@@ -6403,14 +6443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239117,
-      "num": 496120,
-      "word": "迪丽热巴 红玫瑰",
-      "onboard_time": 1746764843,
-      "rank": 32,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 238689,
       "num": 238689,
       "word": "柴怼怼 胖东来",
@@ -6715,14 +6747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226506,
-      "num": 432268,
-      "word": "浪姐四公",
-      "onboard_time": 1746765084,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226473,
       "num": 226473,
       "word": "印巴",
@@ -6947,6 +6971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 220327,
+      "num": 200493,
+      "word": "心相印客服辱骂顾客并送冥币",
+      "onboard_time": 1746767543,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219957,
       "num": 219957,
       "word": "陈都灵呼吁粉丝理性看待番位",
@@ -7105,6 +7137,14 @@
       "onboard_time": 1746502461,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215177,
+      "num": 215177,
+      "word": "李兰迪 她的瞳",
+      "onboard_time": 1746766942,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 214959,
@@ -7531,6 +7571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207598,
+      "num": 207598,
+      "word": "鹿晗应援棒",
+      "onboard_time": 1746767963,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207499,
       "num": 207499,
       "word": "凤凰台上",
@@ -7600,6 +7648,14 @@
       "word": "minji现身粉丝生咖",
       "onboard_time": 1746598101,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207101,
+      "num": 994947,
+      "word": "肖战开了家东方客栈",
+      "onboard_time": 1746763522,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -7736,6 +7792,14 @@
       "word": "蒋一侨坚持了不该坚持的",
       "onboard_time": 1746760522,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205467,
+      "num": 205467,
+      "word": "章若楠加盟无限超越班",
+      "onboard_time": 1746766523,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -8211,6 +8275,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 199686,
+      "num": 199686,
+      "word": "如何避免买到毒衣服",
+      "onboard_time": 1746767663,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199658,
       "num": 199658,
       "word": "蒋敦豪将演出收入捐赠给民勤种树",
@@ -8457,6 +8529,14 @@
       "onboard_time": 1746363084,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195937,
+      "num": 195937,
+      "word": "赴山海有29个联名",
+      "onboard_time": 1746767663,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195703,
@@ -9411,6 +9491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184373,
+      "num": 184373,
+      "word": "黄子弘凡肖俊人鱼的眼泪",
+      "onboard_time": 1746767062,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184259,
       "num": 184259,
       "word": "张韶涵演唱会不慎摔倒",
@@ -9803,6 +9891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "张凌赫红衣战损",
+      "onboard_time": 1746767482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178524,
       "num": 180021,
       "word": "储殷谈为何十年不换车",
@@ -10187,6 +10283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172676,
+      "num": 204901,
+      "word": "甘肃省原副省长赵金云被决定逮捕",
+      "onboard_time": 1746766285,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172565,
       "num": 172565,
       "word": "白鹿曾舜晞宣传临江仙",
@@ -10265,6 +10369,14 @@
       "onboard_time": 1746509902,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170822,
+      "num": 170822,
+      "word": "豪哥哥",
+      "onboard_time": 1746767243,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 170795,
@@ -10787,6 +10899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164626,
+      "num": 383996,
+      "word": "明星都在用的美白牙膏",
+      "onboard_time": 1746765445,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 164578,
       "num": 164578,
       "word": "理想L9",
@@ -10992,6 +11112,14 @@
       "word": "凯尔特人两场出手100记三分",
       "onboard_time": 1746674002,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162602,
+      "num": 162602,
+      "word": "孙颖莎callback小时候",
+      "onboard_time": 1746766523,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -11755,6 +11883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152470,
+      "num": 152470,
+      "word": "17岁的森碟",
+      "onboard_time": 1746768203,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 152373,
       "num": 152373,
       "word": "星船新男团idid",
@@ -12083,6 +12219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148352,
+      "num": 148352,
+      "word": "马嘉祺俯卧撑也不耽误vocal实力",
+      "onboard_time": 1746768143,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148228,
       "num": 148228,
       "word": "百万网红说人生开门红还是拍保守了",
@@ -12185,14 +12329,6 @@
       "onboard_time": 1746434781,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146872,
-      "num": 994947,
-      "word": "肖战开了家东方客栈",
-      "onboard_time": 1746763522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 146796,
@@ -13049,6 +13185,14 @@
       "onboard_time": 1746270501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137748,
+      "num": 137748,
+      "word": "沈腾宋亚轩村长懒羊羊塑",
+      "onboard_time": 1746766883,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 137703,
@@ -14123,6 +14267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126293,
+      "num": 278384,
+      "word": "学生被7个机构教官殴打致耳聋",
+      "onboard_time": 1746767303,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126285,
       "num": 126285,
       "word": "奇迹暖暖十周年",
@@ -14449,14 +14601,6 @@
       "onboard_time": 1746539123,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 121973,
-      "num": 383996,
-      "word": "明星都在用的美白牙膏",
-      "onboard_time": 1746765445,
-      "rank": 26,
-      "category": "美妆"
     },
     {
       "raw_hot": 121789,
@@ -19195,6 +19339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 31359,
+      "num": 276657,
+      "word": "花4万做心理咨询被贬低长相普通",
+      "onboard_time": 1746767363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31298,
       "num": 34486,
       "word": "卖锅小伙说我们得站着还把钱挣了",
@@ -20067,6 +20219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18675,
+      "num": 202670,
+      "word": "美英达成贸易协议但细节尚待敲定",
+      "onboard_time": 1746768143,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18606,
       "num": 131593,
       "word": "哈登难破关键战拉胯魔咒",
@@ -20801,6 +20961,14 @@
       "onboard_time": 1746609743,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9574,
+      "num": 270304,
+      "word": "科尔的战术是否为无效调整",
+      "onboard_time": 1746768143,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 9544,

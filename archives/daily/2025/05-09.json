@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746765936856,
+  "endTime": 1746768308501,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -99,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843583,
+      "num": 602125,
+      "word": "5人用方言作弊打麻将骗了9万元",
+      "onboard_time": 1746762502,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 832201,
       "num": 832201,
       "word": "藏海传赴山海 对打",
       "onboard_time": 1746746659,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 804827,
+      "num": 804827,
+      "word": "花田错",
+      "onboard_time": 1746765924,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 723495,
@@ -169,14 +185,6 @@
       "onboard_time": 1746749483,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 602125,
-      "num": 602125,
-      "word": "5人用方言作弊打麻将骗了9万元",
-      "onboard_time": 1746762502,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 596448,
@@ -395,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301209,
+      "num": 204061,
+      "word": "巴铁亮出中国反无人机王牌武器",
+      "onboard_time": 1746767602,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298335,
       "num": 248765,
       "word": "5个月大宝宝以为自己叫小爱同学",
       "onboard_time": 1746754280,
       "rank": 20,
       "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 298026,
+      "num": 432268,
+      "word": "浪姐四公",
+      "onboard_time": 1746765084,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 297051,
@@ -441,6 +465,22 @@
       "onboard_time": 1746763522,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278856,
+      "num": 496120,
+      "word": "迪丽热巴 红玫瑰",
+      "onboard_time": 1746764843,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 269391,
+      "num": 269391,
+      "word": "女生输头孢离世家属与医院和解",
+      "onboard_time": 1746766222,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 266362,
@@ -523,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239117,
-      "num": 496120,
-      "word": "迪丽热巴 红玫瑰",
-      "onboard_time": 1746764843,
-      "rank": 32,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 238184,
       "num": 227189,
       "word": "印度开闸放水",
@@ -545,14 +577,6 @@
       "onboard_time": 1746754701,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 226506,
-      "num": 432268,
-      "word": "浪姐四公",
-      "onboard_time": 1746765084,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223044,
@@ -595,6 +619,14 @@
       "category": "海外新闻,军事"
     },
     {
+      "raw_hot": 220327,
+      "num": 200493,
+      "word": "心相印客服辱骂顾客并送冥币",
+      "onboard_time": 1746767543,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218587,
       "num": 313129,
       "word": "陈妍希哭戏",
@@ -609,6 +641,14 @@
       "onboard_time": 1746759382,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215177,
+      "num": 215177,
+      "word": "李兰迪 她的瞳",
+      "onboard_time": 1746766942,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213448,
@@ -659,6 +699,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207598,
+      "num": 207598,
+      "word": "鹿晗应援棒",
+      "onboard_time": 1746767963,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207101,
+      "num": 994947,
+      "word": "肖战开了家东方客栈",
+      "onboard_time": 1746763522,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206815,
       "num": 311749,
       "word": "北大生遭女主播骗260万两年仍在查",
@@ -672,6 +728,14 @@
       "word": "蒋一侨坚持了不该坚持的",
       "onboard_time": 1746760522,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205467,
+      "num": 205467,
+      "word": "章若楠加盟无限超越班",
+      "onboard_time": 1746766523,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -699,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199686,
+      "num": 199686,
+      "word": "如何避免买到毒衣服",
+      "onboard_time": 1746767663,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199362,
       "num": 211432,
       "word": "王俊凯配音动画",
@@ -713,6 +785,14 @@
       "onboard_time": 1746764542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195937,
+      "num": 195937,
+      "word": "赴山海有29个联名",
+      "onboard_time": 1746767663,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193913,
@@ -803,6 +883,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 184373,
+      "num": 184373,
+      "word": "黄子弘凡肖俊人鱼的眼泪",
+      "onboard_time": 1746767062,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "阿里CEO吴泳铭内网发帖",
@@ -827,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178753,
+      "num": 178753,
+      "word": "张凌赫红衣战损",
+      "onboard_time": 1746767482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178385,
       "num": 178385,
       "word": "马云回应明天回归阿里",
@@ -849,6 +945,22 @@
       "onboard_time": 1746761241,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172676,
+      "num": 204901,
+      "word": "甘肃省原副省长赵金云被决定逮捕",
+      "onboard_time": 1746766285,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 170822,
+      "num": 170822,
+      "word": "豪哥哥",
+      "onboard_time": 1746767243,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 168758,
@@ -899,12 +1011,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164626,
+      "num": 383996,
+      "word": "明星都在用的美白牙膏",
+      "onboard_time": 1746765445,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 163833,
       "num": 282569,
       "word": "乘风四公大片",
       "onboard_time": 1746761122,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162602,
+      "num": 162602,
+      "word": "孙颖莎callback小时候",
+      "onboard_time": 1746766523,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 157071,
@@ -915,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152470,
+      "num": 152470,
+      "word": "17岁的森碟",
+      "onboard_time": 1746768203,
+      "rank": 47,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 148736,
       "num": 148736,
       "word": "商家回应婴儿高跟鞋形似三寸金莲",
@@ -923,20 +1059,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148352,
+      "num": 148352,
+      "word": "马嘉祺俯卧撑也不耽误vocal实力",
+      "onboard_time": 1746768143,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147160,
       "num": 210460,
       "word": "赴山海",
       "onboard_time": 1746750442,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146872,
-      "num": 994947,
-      "word": "肖战开了家东方客栈",
-      "onboard_time": 1746763522,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 146218,
@@ -1003,6 +1139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137748,
+      "num": 137748,
+      "word": "沈腾宋亚轩村长懒羊羊塑",
+      "onboard_time": 1746766883,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136467,
       "num": 209247,
       "word": "管乐一句话打了八百辆车",
@@ -1051,6 +1195,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 126293,
+      "num": 278384,
+      "word": "学生被7个机构教官殴打致耳聋",
+      "onboard_time": 1746767303,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125581,
       "num": 125581,
       "word": "特朗普称美乌达成稀土协议",
@@ -1089,14 +1241,6 @@
       "onboard_time": 1746752062,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121973,
-      "num": 383996,
-      "word": "明星都在用的美白牙膏",
-      "onboard_time": 1746765445,
-      "rank": 26,
-      "category": "美妆"
     },
     {
       "raw_hot": 117912,
@@ -1603,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31359,
+      "num": 276657,
+      "word": "花4万做心理咨询被贬低长相普通",
+      "onboard_time": 1746767363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29227,
       "num": 32885,
       "word": "优酷纪录片2025片单",
@@ -1689,6 +1841,14 @@
       "onboard_time": 1746765204,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 18675,
+      "num": 202670,
+      "word": "美英达成贸易协议但细节尚待敲定",
+      "onboard_time": 1746768143,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18573,
@@ -1801,6 +1961,14 @@
       "onboard_time": 1746738016,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9574,
+      "num": 270304,
+      "word": "科尔的战术是否为无效调整",
+      "onboard_time": 1746768143,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

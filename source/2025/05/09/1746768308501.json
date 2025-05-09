@@ -1,0 +1,410 @@
+{
+  "runTime": 1746768308501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1148850,
+        "num": 1183816,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 663235,
+        "num": 928938,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20711,
+        "num": 872086,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 865903,
+        "num": 865903,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 804827,
+        "num": 804827,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470988,
+        "num": 470988,
+        "word": "孙颖莎嘉人销量",
+        "onboard_time": 1746763822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699291,
+        "num": 422728,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298026,
+        "num": 298026,
+        "word": "浪姐四公",
+        "onboard_time": 1746765084,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286305,
+        "num": 286305,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238241,
+        "num": 281604,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 843583,
+        "num": 280633,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287701,
+        "num": 280194,
+        "word": "何炅谢娜为李小冉庆生",
+        "onboard_time": 1746755841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278856,
+        "num": 278856,
+        "word": "迪丽热巴 红玫瑰",
+        "onboard_time": 1746764843,
+        "rank": 12,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 274069,
+        "num": 278501,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126293,
+        "num": 278384,
+        "word": "学生被7个机构教官殴打致耳聋",
+        "onboard_time": 1746767303,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 755713,
+        "num": 277985,
+        "word": "美官员称歼10击落至少两架印度军机",
+        "onboard_time": 1746760161,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207101,
+        "num": 277441,
+        "word": "肖战开了家东方客栈",
+        "onboard_time": 1746763522,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340499,
+        "num": 277233,
+        "word": "特朗普称或将下调对华145%关税",
+        "onboard_time": 1746759500,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154455,
+        "num": 276850,
+        "word": "遇事叫妈妈是对妈妈好吗",
+        "onboard_time": 1746763522,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31359,
+        "num": 276657,
+        "word": "花4万做心理咨询被贬低长相普通",
+        "onboard_time": 1746767363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164626,
+        "num": 276236,
+        "word": "明星都在用的美白牙膏",
+        "onboard_time": 1746765445,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 426285,
+        "num": 275740,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371492,
+        "num": 275338,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275294,
+        "num": 275294,
+        "word": "男子每天拍拍西瓜月入3万元",
+        "onboard_time": 1746761181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9574,
+        "num": 270304,
+        "word": "科尔的战术是否为无效调整",
+        "onboard_time": 1746768143,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269391,
+        "num": 269391,
+        "word": "女生输头孢离世家属与医院和解",
+        "onboard_time": 1746766222,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 215177,
+        "num": 215177,
+        "word": "李兰迪 她的瞳",
+        "onboard_time": 1746766942,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207598,
+        "num": 207598,
+        "word": "鹿晗应援棒",
+        "onboard_time": 1746767963,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205467,
+        "num": 205467,
+        "word": "章若楠加盟无限超越班",
+        "onboard_time": 1746766523,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172676,
+        "num": 204901,
+        "word": "甘肃省原副省长赵金云被决定逮捕",
+        "onboard_time": 1746766285,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301209,
+        "num": 204061,
+        "word": "巴铁亮出中国反无人机王牌武器",
+        "onboard_time": 1746767602,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18675,
+        "num": 202670,
+        "word": "美英达成贸易协议但细节尚待敲定",
+        "onboard_time": 1746768143,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230918,
+        "num": 201422,
+        "word": "女子发现出国丈夫与情人同居多年",
+        "onboard_time": 1746762562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220327,
+        "num": 200493,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199686,
+        "num": 199686,
+        "word": "如何避免买到毒衣服",
+        "onboard_time": 1746767663,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195937,
+        "num": 195937,
+        "word": "赴山海有29个联名",
+        "onboard_time": 1746767663,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188390,
+        "num": 188390,
+        "word": "印度境内发现巴方导弹残骸",
+        "onboard_time": 1746764962,
+        "rank": 36,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 184373,
+        "num": 184373,
+        "word": "黄子弘凡肖俊人鱼的眼泪",
+        "onboard_time": 1746767062,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178753,
+        "num": 178753,
+        "word": "张凌赫红衣战损",
+        "onboard_time": 1746767482,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178032,
+        "num": 178032,
+        "word": "孙颖莎渴望被世界认可",
+        "onboard_time": 1746764843,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173607,
+        "num": 173607,
+        "word": "谁懂孟美岐选秀四连跳的含金量",
+        "onboard_time": 1746765563,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170822,
+        "num": 170822,
+        "word": "豪哥哥",
+        "onboard_time": 1746767243,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170220,
+        "num": 170220,
+        "word": "字节跳动20元餐标的免费早餐",
+        "onboard_time": 1746761481,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165645,
+        "num": 165645,
+        "word": "何超莲晒和家人庆生照",
+        "onboard_time": 1746765683,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162602,
+        "num": 162602,
+        "word": "孙颖莎callback小时候",
+        "onboard_time": 1746766523,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 159174,
+        "word": "世乒赛后王楚钦无法重返世一",
+        "onboard_time": 1746754280,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154963,
+        "num": 154963,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1746748161,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 152470,
+        "num": 152470,
+        "word": "17岁的森碟",
+        "onboard_time": 1746768203,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 148352,
+        "num": 148352,
+        "word": "马嘉祺俯卧撑也不耽误vocal实力",
+        "onboard_time": 1746768143,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137748,
+        "num": 137748,
+        "word": "沈腾宋亚轩村长懒羊羊塑",
+        "onboard_time": 1746766883,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}
