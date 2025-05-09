@@ -1,0 +1,410 @@
+{
+  "runTime": 1746780398489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 874194,
+        "num": 1139871,
+        "word": "俄罗斯阅兵直播",
+        "onboard_time": 1746776002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1657863,
+        "num": 997343,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6094,
+        "num": 613703,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1496886,
+        "num": 573401,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521738,
+        "num": 521738,
+        "word": "淘宝免单 优酷",
+        "onboard_time": 1746780201,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485546,
+        "num": 485546,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439825,
+        "num": 439825,
+        "word": "唐国强锐评短剧悲哀原因",
+        "onboard_time": 1746776362,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270469,
+        "num": 414408,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395332,
+        "num": 395332,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20297,
+        "num": 379559,
+        "word": "重温中国女兵闪耀莫斯科红场",
+        "onboard_time": 1746779842,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 372903,
+        "num": 372903,
+        "word": "淘宝热搜",
+        "onboard_time": 1746780081,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 349007,
+        "num": 349007,
+        "word": "俄罗斯举行盛大庆典",
+        "onboard_time": 1746777683,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311961,
+        "num": 311961,
+        "word": "到了美国才发现并没有滤镜",
+        "onboard_time": 1746771562,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 236197,
+        "num": 263760,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100575,
+        "num": 260013,
+        "word": "中国军人和俄罗斯少年合唱喀秋莎",
+        "onboard_time": 1746779842,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258741,
+        "num": 258741,
+        "word": "阅兵",
+        "onboard_time": 1746774441,
+        "rank": 15,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 233523,
+        "num": 233523,
+        "word": "优酷纪录片2025片单",
+        "onboard_time": 1746725955,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223455,
+        "num": 223455,
+        "word": "李小冉说躺着就把肥减了",
+        "onboard_time": 1746779241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210081,
+        "num": 222615,
+        "word": "去文淇的梦里看一看",
+        "onboard_time": 1746777801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 221798,
+        "word": "父母花光积蓄将抑郁孩子送进矫治机构",
+        "onboard_time": 1746778042,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219102,
+        "num": 219102,
+        "word": "黄英四公只分到37个字",
+        "onboard_time": 1746777261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382727,
+        "num": 213021,
+        "word": "纪念苏联伟大卫国战争胜利80周年阅兵式",
+        "onboard_time": 1746777441,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206460,
+        "num": 206460,
+        "word": "沙溢健身后的速度累到摄像",
+        "onboard_time": 1746778223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197973,
+        "num": 197973,
+        "word": "诀爱 王珞丹",
+        "onboard_time": 1746774202,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186726,
+        "num": 197336,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142974,
+        "num": 196579,
+        "word": "虞书欣定点饭撒不理解但尊重",
+        "onboard_time": 1746773962,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142519,
+        "num": 195164,
+        "word": "腾讯更新片单",
+        "onboard_time": 1746770902,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129390,
+        "num": 194159,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28710,
+        "num": 193213,
+        "word": "婴儿为什么不能摇晃抱",
+        "onboard_time": 1746780142,
+        "rank": 28,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 11633,
+        "num": 192620,
+        "word": "医学体制有待改革",
+        "onboard_time": 1746780081,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 191573,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419712,
+        "num": 190013,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189591,
+        "num": 189591,
+        "word": "红场阅兵式上乌拉震天响",
+        "onboard_time": 1746780201,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181639,
+        "num": 181639,
+        "word": "恒安集团回应客服辱骂顾客送冥币",
+        "onboard_time": 1746770242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177836,
+        "num": 177836,
+        "word": "马頔好画 就三天",
+        "onboard_time": 1746779720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176937,
+        "num": 176937,
+        "word": "中国排面在红场一步一帅",
+        "onboard_time": 1746778702,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176833,
+        "num": 176833,
+        "word": "一直以为看虾仁是件很小众的事情",
+        "onboard_time": 1746777562,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174029,
+        "num": 174029,
+        "word": "中国仪仗队走上红场",
+        "onboard_time": 1746775583,
+        "rank": 37,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 110582,
+        "num": 171361,
+        "word": "为什么毛巾用久了会变硬",
+        "onboard_time": 1746780081,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 35721,
+        "num": 170093,
+        "word": "找饭搭子的方式去相亲",
+        "onboard_time": 1746778284,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 79843,
+        "num": 169348,
+        "word": "九尾无限王者团合拍",
+        "onboard_time": 1746780322,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169151,
+        "num": 169151,
+        "word": "中国仪仗队红场阅兵现场画面",
+        "onboard_time": 1746780142,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161068,
+        "num": 161068,
+        "word": "孟子义演坏人有自己的演法",
+        "onboard_time": 1746778884,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159034,
+        "num": 159034,
+        "word": "印媒报击落巴方战机遭否认",
+        "onboard_time": 1746776242,
+        "rank": 43,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 145870,
+        "num": 145870,
+        "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+        "onboard_time": 1746769581,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133340,
+        "num": 133340,
+        "word": "现场直击2025年俄罗斯胜利日阅兵",
+        "onboard_time": 1746775822,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132914,
+        "num": 132914,
+        "word": "和上班搭子一天的高频词",
+        "onboard_time": 1746779361,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 125533,
+        "word": "成年人在社交时的潜台词",
+        "onboard_time": 1746780262,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121940,
+        "num": 121940,
+        "word": "李承铉边睡觉边给戚薇捏脚",
+        "onboard_time": 1746769760,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118152,
+        "num": 118152,
+        "word": "新员工病逝公司拖缴社保被判赔11万",
+        "onboard_time": 1746778223,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄关于全球战略稳定的联合声明#"
+    }
+  }
+}
