@@ -1,0 +1,410 @@
+{
+  "runTime": 1746787456596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 899682,
+        "num": 1143949,
+        "word": "本科生发表14篇SCI论文可能性有多大",
+        "onboard_time": 1746780801,
+        "rank": 0,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 858305,
+        "num": 858305,
+        "word": "淘宝免单 优酷",
+        "onboard_time": 1746780201,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84782,
+        "num": 723343,
+        "word": "红场阅兵前中国排面高唱当那一天来临",
+        "onboard_time": 1746774321,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 938793,
+        "num": 693857,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 593694,
+        "num": 593694,
+        "word": "巴基斯坦称已摧毁77架印度无人机",
+        "onboard_time": 1746784101,
+        "rank": 4,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 506918,
+        "num": 506918,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371562,
+        "num": 504898,
+        "word": "藏海传档期",
+        "onboard_time": 1746781221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44553,
+        "num": 504041,
+        "word": "2分钟了解民营经济促进法",
+        "onboard_time": 1746782481,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 254528,
+        "num": 500261,
+        "word": "虞书欣即将回归中餐厅9",
+        "onboard_time": 1746783382,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165244,
+        "num": 497402,
+        "word": "红场阅兵式上乌拉震天响",
+        "onboard_time": 1746780201,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 752007,
+        "num": 494483,
+        "word": "全日制单身",
+        "onboard_time": 1746782122,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 658048,
+        "num": 493966,
+        "word": "老人摘十斤樱桃摆路边被人顺走",
+        "onboard_time": 1746785001,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634994,
+        "num": 491116,
+        "word": "韩安冉老公去做医美了",
+        "onboard_time": 1746783621,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91600,
+        "num": 487674,
+        "word": "环球小姐伪造学历入读港大获刑240天",
+        "onboard_time": 1746786622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63046,
+        "num": 486402,
+        "word": "美国农民发愁鸡爪鱼头找不到买家",
+        "onboard_time": 1746786562,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484064,
+        "num": 484064,
+        "word": "父母花光积蓄将抑郁孩子送进矫治机构",
+        "onboard_time": 1746778042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423915,
+        "num": 423915,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335220,
+        "num": 335220,
+        "word": "上海微软大裁员赔偿金N加8",
+        "onboard_time": 1746782241,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 320205,
+        "num": 320205,
+        "word": "何超莲回复窦骁生日祝福",
+        "onboard_time": 1746786262,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289645,
+        "num": 289645,
+        "word": "尚雯婕回复旦了",
+        "onboard_time": 1746783142,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280794,
+        "num": 280794,
+        "word": "3岁女童因家庭纠纷被人为投毒",
+        "onboard_time": 1746782602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252254,
+        "num": 252254,
+        "word": "金亨泰入驻微博",
+        "onboard_time": 1746783081,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177378,
+        "num": 210352,
+        "word": "车银优或将7月入伍",
+        "onboard_time": 1746784402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187900,
+        "num": 200974,
+        "word": "种地吧官微10分钟访问量暴涨100万",
+        "onboard_time": 1746786562,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139650,
+        "num": 197612,
+        "word": "AG春决迎光而战",
+        "onboard_time": 1746784941,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196278,
+        "num": 196278,
+        "word": "中俄元首一道登上主观礼台",
+        "onboard_time": 1746783022,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195152,
+        "num": 195152,
+        "word": "李小冉说躺着就把肥减了",
+        "onboard_time": 1746779241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177854,
+        "num": 177854,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159364,
+        "num": 177238,
+        "word": "长相完美听障女孩宸玥回应整容",
+        "onboard_time": 1746783801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147294,
+        "num": 177007,
+        "word": "为什么中国人上车饺子下车面",
+        "onboard_time": 1746785121,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204490,
+        "num": 177002,
+        "word": "第一次见到大体老师",
+        "onboard_time": 1746785721,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176972,
+        "num": 176972,
+        "word": "淘宝免单 重逢的季节",
+        "onboard_time": 1746782661,
+        "rank": 31,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 166917,
+        "num": 166917,
+        "word": "齐思钧死手快拧呀",
+        "onboard_time": 1746787041,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123002,
+        "num": 151496,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68407,
+        "num": 149939,
+        "word": "宫崎骏花15年做幽灵公主值得吗",
+        "onboard_time": 1746786081,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "iG公布报点事件麦克风",
+        "onboard_time": 1746786923,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29817,
+        "num": 149788,
+        "word": "巴基斯坦是如何击落无人机的",
+        "onboard_time": 1746787341,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149769,
+        "num": 149769,
+        "word": "解放军仪仗队通过红场画面",
+        "onboard_time": 1746780861,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31609,
+        "num": 144268,
+        "word": "歼10击落至少两架印度军机",
+        "onboard_time": 1746785301,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8117,
+        "num": 141653,
+        "word": "印度高温为何如此致命",
+        "onboard_time": 1746787282,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 141379,
+        "num": 141379,
+        "word": "俄罗斯举行盛大庆典",
+        "onboard_time": 1746777683,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 131687,
+        "word": "王霏霏有的是力气和手段",
+        "onboard_time": 1746786860,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123383,
+        "num": 123383,
+        "word": "严浩翔燕尾服",
+        "onboard_time": 1746787282,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118025,
+        "num": 118025,
+        "word": "孙颖莎拍杂志忍不住笑场了",
+        "onboard_time": 1746785241,
+        "rank": 43,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 116411,
+        "num": 116411,
+        "word": "丁真与华春莹同框",
+        "onboard_time": 1746784821,
+        "rank": 44,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "长大后养的第一个小孩是妈妈",
+        "onboard_time": 1746785841,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103248,
+        "num": 103248,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100862,
+        "num": 100862,
+        "word": "她自信有趣做什么都会成功的",
+        "onboard_time": 1746785902,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100554,
+        "num": 100554,
+        "word": "淮水竹亭扫楼",
+        "onboard_time": 1746765144,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99556,
+        "num": 99556,
+        "word": "孙颖莎王楚钦封训混双训练画面",
+        "onboard_time": 1746784521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在莫斯科出席红场阅兵式#"
+    }
+  }
+}
