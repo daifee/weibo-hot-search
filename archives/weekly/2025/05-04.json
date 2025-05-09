@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746755828912,
+  "endTime": 1746757204120,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -419,6 +419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1413247,
+      "num": 1356657,
+      "word": "这次大雨有一定致灾性",
+      "onboard_time": 1746752841,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1397860,
       "num": 1397860,
       "word": "敢偷中国人的手机你是疯了吧",
@@ -465,14 +473,6 @@
       "onboard_time": 1746706221,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1356657,
-      "num": 1356657,
-      "word": "这次大雨有一定致灾性",
-      "onboard_time": 1746752841,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1338939,
@@ -1699,6 +1699,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 723495,
+      "num": 723495,
+      "word": "世乒赛后王楚钦无法重返世一",
+      "onboard_time": 1746754280,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 722311,
       "num": 416411,
       "word": "大冰 综艺",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1746321501,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 692879,
-      "num": 692879,
-      "word": "世乒赛后王楚钦无法重返世一",
-      "onboard_time": 1746754280,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 692138,
@@ -2076,7 +2076,7 @@
     },
     {
       "raw_hot": 626275,
-      "num": 626275,
+      "num": 1084842,
       "word": "巴方称与约80架印度战机交战",
       "onboard_time": 1746749483,
       "rank": 6,
@@ -3267,6 +3267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 445780,
+      "num": 445780,
+      "word": "美众院同意将墨西哥湾改名美国湾",
+      "onboard_time": 1746754821,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441265,
       "num": 441265,
       "word": "任嘉伦虐剧纯元回来了",
@@ -3289,6 +3297,14 @@
       "onboard_time": 1746604222,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438697,
+      "num": 306679,
+      "word": "何炅谢娜为李小冉庆生",
+      "onboard_time": 1746755841,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 438341,
@@ -4771,6 +4787,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 302693,
+      "num": 302693,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1746755000,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302325,
       "num": 302325,
       "word": "DRG战胜WB",
@@ -4817,6 +4841,14 @@
       "onboard_time": 1746486499,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299949,
+      "num": 329946,
+      "word": "巴基斯坦外交部声明",
+      "onboard_time": 1746755841,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 299580,
@@ -4892,7 +4924,7 @@
     },
     {
       "raw_hot": 297051,
-      "num": 297051,
+      "num": 308952,
       "word": "撕拉片和拍立得有什么区别",
       "onboard_time": 1746749601,
       "rank": 14,
@@ -5217,14 +5249,6 @@
       "onboard_time": 1746350660,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277277,
-      "num": 277277,
-      "word": "爱德华兹受伤",
-      "onboard_time": 1746755000,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 277139,
@@ -6697,14 +6721,6 @@
       "onboard_time": 1746577162,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219764,
-      "num": 392795,
-      "word": "美众院同意将墨西哥湾改名美国湾",
-      "onboard_time": 1746754821,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219625,
@@ -9443,6 +9459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177712,
+      "num": 177712,
+      "word": "梵蒂冈",
+      "onboard_time": 1746751760,
+      "rank": 32,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 177684,
       "num": 177684,
       "word": "赵丽颖极简白裙",
@@ -9897,6 +9921,14 @@
       "onboard_time": 1746352821,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169910,
+      "num": 169910,
+      "word": "美国关税战已经打到婴儿",
+      "onboard_time": 1746756141,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169760,
@@ -12003,6 +12035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "比尔盖茨痛批马斯克",
+      "onboard_time": 1746756740,
+      "rank": 35,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 143176,
       "num": 143176,
       "word": "永安药业一字跌停",
@@ -12248,6 +12288,14 @@
       "word": "盘点苏迪曼杯名场面",
       "onboard_time": 1746357021,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140218,
+      "num": 140218,
+      "word": "墨菲炮轰世界台联涉赵心童决定",
+      "onboard_time": 1746756681,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -12627,6 +12675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136467,
+      "num": 209247,
+      "word": "管乐一句话打了八百辆车",
+      "onboard_time": 1746747380,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "穿了和穿搭是两回事",
@@ -12779,6 +12835,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 135078,
+      "num": 135078,
+      "word": "iPhone17Air参数曝光",
+      "onboard_time": 1746751881,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135030,
       "num": 135030,
       "word": "云南玉昆3比2山东泰山",
@@ -12865,6 +12929,14 @@
       "onboard_time": 1746618862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133898,
+      "num": 133898,
+      "word": "iPhone17Air戴手机壳效果",
+      "onboard_time": 1746756860,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 133828,
@@ -13371,6 +13443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1746756801,
+      "rank": 44,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 127870,
       "num": 403834,
       "word": "震撼空对空视角看中国战机飞越雪山",
@@ -13689,14 +13769,6 @@
       "onboard_time": 1746412763,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125005,
-      "num": 125005,
-      "word": "iPhone17Air参数曝光",
-      "onboard_time": 1746751881,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 124446,
@@ -14897,6 +14969,14 @@
       "onboard_time": 1746531323,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106994,
+      "num": 212275,
+      "word": "吴艳妮世界排名升至第23位",
+      "onboard_time": 1746756443,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 106795,
@@ -17169,14 +17249,6 @@
       "onboard_time": 1746612322,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58878,
-      "num": 58878,
-      "word": "管乐一句话打了八百辆车",
-      "onboard_time": 1746747380,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 58284,

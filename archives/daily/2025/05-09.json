@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746755828912,
+  "endTime": 1746757204120,
   "band_list": [
     {
       "raw_hot": 1455770,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1356657,
+      "raw_hot": 1413247,
       "num": 1356657,
       "word": "这次大雨有一定致灾性",
       "onboard_time": 1746752841,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 692879,
-      "num": 692879,
+      "raw_hot": 723495,
+      "num": 723495,
       "word": "世乒赛后王楚钦无法重返世一",
       "onboard_time": 1746754280,
       "rank": 4,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 626275,
-      "num": 626275,
+      "num": 1084842,
       "word": "巴方称与约80架印度战机交战",
       "onboard_time": 1746749483,
       "rank": 6,
@@ -131,11 +131,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445780,
+      "num": 445780,
+      "word": "美众院同意将墨西哥湾改名美国湾",
+      "onboard_time": 1746754821,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443763,
       "num": 248739,
       "word": "窦靖童 我承认我从小条件就好",
       "onboard_time": 1746715763,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438697,
+      "num": 306679,
+      "word": "何炅谢娜为李小冉庆生",
+      "onboard_time": 1746755841,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -195,12 +211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302693,
+      "num": 302693,
+      "word": "爱德华兹受伤",
+      "onboard_time": 1746755000,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302511,
       "num": 302511,
       "word": "富士回应一张撕拉片被炒至300多元",
       "onboard_time": 1746708923,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299949,
+      "num": 329946,
+      "word": "巴基斯坦外交部声明",
+      "onboard_time": 1746755841,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 298335,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 297051,
-      "num": 297051,
+      "num": 308952,
       "word": "撕拉片和拍立得有什么区别",
       "onboard_time": 1746749601,
       "rank": 14,
@@ -225,14 +257,6 @@
       "onboard_time": 1746747020,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 277277,
-      "num": 277277,
-      "word": "爱德华兹受伤",
-      "onboard_time": 1746755000,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 266362,
@@ -323,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219764,
-      "num": 392795,
-      "word": "美众院同意将墨西哥湾改名美国湾",
-      "onboard_time": 1746754821,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 211443,
       "num": 211443,
       "word": "异瞳少年治沙月入7200元",
@@ -385,6 +401,22 @@
       "onboard_time": 1746714324,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177712,
+      "num": 177712,
+      "word": "梵蒂冈",
+      "onboard_time": 1746751760,
+      "rank": 32,
+      "category": "国际时政,国际时政"
+    },
+    {
+      "raw_hot": 169910,
+      "num": 169910,
+      "word": "美国关税战已经打到婴儿",
+      "onboard_time": 1746756141,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168758,
@@ -443,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143252,
+      "num": 143252,
+      "word": "比尔盖茨痛批马斯克",
+      "onboard_time": 1746756740,
+      "rank": 35,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 140218,
+      "num": 140218,
+      "word": "墨菲炮轰世界台联涉赵心童决定",
+      "onboard_time": 1746756681,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140092,
       "num": 226762,
       "word": "迪丽热巴到达江西",
@@ -457,6 +505,14 @@
       "onboard_time": 1746705681,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136467,
+      "num": 209247,
+      "word": "管乐一句话打了八百辆车",
+      "onboard_time": 1746747380,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 135738,
@@ -475,12 +531,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135078,
+      "num": 135078,
+      "word": "iPhone17Air参数曝光",
+      "onboard_time": 1746751881,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133898,
+      "num": 133898,
+      "word": "iPhone17Air戴手机壳效果",
+      "onboard_time": 1746756860,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129799,
       "num": 129799,
       "word": "京城大师赛",
       "onboard_time": 1746719781,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1746756801,
+      "rank": 44,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 125581,
@@ -497,14 +577,6 @@
       "onboard_time": 1746753379,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125005,
-      "num": 125005,
-      "word": "iPhone17Air参数曝光",
-      "onboard_time": 1746751881,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 123894,
@@ -601,6 +673,14 @@
       "onboard_time": 1746754881,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106994,
+      "num": 212275,
+      "word": "吴艳妮世界排名升至第23位",
+      "onboard_time": 1746756443,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 100319,
@@ -732,7 +812,7 @@
     },
     {
       "raw_hot": 75617,
-      "num": 867003,
+      "num": 871393,
       "word": "从莫斯科看到更大的世界",
       "onboard_time": 1746713303,
       "rank": 2,
@@ -833,14 +913,6 @@
       "onboard_time": 1746735854,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 58878,
-      "num": 58878,
-      "word": "管乐一句话打了八百辆车",
-      "onboard_time": 1746747380,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 55599,
