@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746768308501,
+  "endTime": 1746769338954,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 843583,
-      "num": 602125,
+      "num": 643122,
       "word": "5人用方言作弊打麻将骗了9万元",
       "onboard_time": 1746762502,
       "rank": 15,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1746518721,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 835638,
+      "num": 835638,
+      "word": "花田错",
+      "onboard_time": 1746765924,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 832201,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1746428601,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 804827,
-      "num": 804827,
-      "word": "花田错",
-      "onboard_time": 1746765924,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 801193,
@@ -1955,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 681648,
+      "num": 681648,
+      "word": "巴铁亮出中国反无人机王牌武器",
+      "onboard_time": 1746767602,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 680048,
       "num": 680048,
       "word": "樊振东给孙颖莎签名",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1746593003,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573098,
+      "num": 573098,
+      "word": "17岁的森碟",
+      "onboard_time": 1746768203,
+      "rank": 47,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 572524,
@@ -3628,7 +3644,7 @@
     },
     {
       "raw_hot": 414702,
-      "num": 597412,
+      "num": 710241,
       "word": "七旬大爷出门散步被拉去割眼袋",
       "onboard_time": 1746762262,
       "rank": 18,
@@ -4265,6 +4281,14 @@
       "onboard_time": 1746422901,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349883,
+      "num": 349883,
+      "word": "心相印客服辱骂顾客并送冥币",
+      "onboard_time": 1746767543,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349644,
@@ -4907,6 +4931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305163,
+      "num": 305163,
+      "word": "李兰迪 她的瞳",
+      "onboard_time": 1746766942,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304895,
       "num": 74749,
       "word": "女子脸上长火疖子排脓后留下黑洞",
@@ -4985,14 +5017,6 @@
       "onboard_time": 1746408379,
       "rank": 10,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301209,
-      "num": 204061,
-      "word": "巴铁亮出中国反无人机王牌武器",
-      "onboard_time": 1746767602,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301143,
@@ -5251,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287939,
+      "num": 287939,
+      "word": "学生被7个机构教官殴打致耳聋",
+      "onboard_time": 1746767303,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 287927,
       "num": 287927,
       "word": "翟潇闻摸了一下下巴受伤了",
@@ -5441,6 +5473,14 @@
       "onboard_time": 1746343881,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277836,
+      "num": 277836,
+      "word": "鹿晗应援棒",
+      "onboard_time": 1746767963,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 277329,
@@ -6971,14 +7011,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 220327,
-      "num": 200493,
-      "word": "心相印客服辱骂顾客并送冥币",
-      "onboard_time": 1746767543,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219957,
       "num": 219957,
       "word": "陈都灵呼吁粉丝理性看待番位",
@@ -7137,14 +7169,6 @@
       "onboard_time": 1746502461,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215177,
-      "num": 215177,
-      "word": "李兰迪 她的瞳",
-      "onboard_time": 1746766942,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 214959,
@@ -7569,14 +7593,6 @@
       "onboard_time": 1746629364,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 207598,
-      "num": 207598,
-      "word": "鹿晗应援棒",
-      "onboard_time": 1746767963,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 207499,
@@ -8313,6 +8329,14 @@
       "onboard_time": 1746368723,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198949,
+      "num": 198949,
+      "word": "52岁的杨坤18岁的腰",
+      "onboard_time": 1746768622,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 198832,
@@ -9145,6 +9169,14 @@
       "onboard_time": 1746503361,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189360,
+      "num": 383996,
+      "word": "明星都在用的美白牙膏",
+      "onboard_time": 1746765445,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 189220,
@@ -10899,20 +10931,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164626,
-      "num": 383996,
-      "word": "明星都在用的美白牙膏",
-      "onboard_time": 1746765445,
-      "rank": 26,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 164578,
       "num": 164578,
       "word": "理想L9",
       "onboard_time": 1746678803,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 164534,
+      "num": 164534,
+      "word": "马嘉祺俯卧撑也不耽误vocal实力",
+      "onboard_time": 1746768143,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 164469,
@@ -11225,6 +11257,14 @@
       "onboard_time": 1746357142,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160624,
+      "num": 160624,
+      "word": "idle泄曲",
+      "onboard_time": 1746768862,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 160604,
@@ -11883,14 +11923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152470,
-      "num": 152470,
-      "word": "17岁的森碟",
-      "onboard_time": 1746768203,
-      "rank": 47,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 152373,
       "num": 152373,
       "word": "星船新男团idid",
@@ -12219,14 +12251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148352,
-      "num": 148352,
-      "word": "马嘉祺俯卧撑也不耽误vocal实力",
-      "onboard_time": 1746768143,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148228,
       "num": 148228,
       "word": "百万网红说人生开门红还是拍保守了",
@@ -12433,6 +12457,14 @@
       "onboard_time": 1746703402,
       "rank": 44,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 145534,
+      "num": 166892,
+      "word": "3岁女孩铊中毒毒源来自哪里",
+      "onboard_time": 1746768323,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 145478,
@@ -14267,14 +14299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126293,
-      "num": 278384,
-      "word": "学生被7个机构教官殴打致耳聋",
-      "onboard_time": 1746767303,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 126285,
       "num": 126285,
       "word": "奇迹暖暖十周年",
@@ -14593,6 +14617,14 @@
       "onboard_time": 1746532581,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122092,
+      "num": 122092,
+      "word": "我的地盘",
+      "onboard_time": 1746768803,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122040,
@@ -15219,6 +15251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113296,
+      "num": 113296,
+      "word": "下一个天亮好哭",
+      "onboard_time": 1746769283,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113168,
       "num": 113168,
       "word": "香港私房菜",
@@ -15433,6 +15473,14 @@
       "onboard_time": 1746667829,
       "rank": 43,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 109740,
+      "num": 109740,
+      "word": "工信部发文整顿隐藏式车门把手",
+      "onboard_time": 1746769221,
+      "rank": 47,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 109706,
@@ -18427,6 +18475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47303,
+      "num": 276657,
+      "word": "花4万做心理咨询被贬低长相普通",
+      "onboard_time": 1746767363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47193,
       "num": 832689,
       "word": "无悔青春离不开这个必选项",
@@ -19291,6 +19347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31714,
+      "num": 689187,
+      "word": "美英达成贸易协议但细节尚待敲定",
+      "onboard_time": 1746768143,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31699,
       "num": 130968,
       "word": "被美国定罪教授入职清华",
@@ -19337,14 +19401,6 @@
       "onboard_time": 1746639436,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 31359,
-      "num": 276657,
-      "word": "花4万做心理咨询被贬低长相普通",
-      "onboard_time": 1746767363,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31298,
@@ -20217,14 +20273,6 @@
       "onboard_time": 1746474255,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18675,
-      "num": 202670,
-      "word": "美英达成贸易协议但细节尚待敲定",
-      "onboard_time": 1746768143,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18606,
