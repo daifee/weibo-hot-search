@@ -1,0 +1,410 @@
+{
+  "runTime": 1746826677627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124335,
+        "num": 183244,
+        "word": "印称巴派出300至400架无人机发动攻击",
+        "onboard_time": 1746806181,
+        "rank": 0,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 84733,
+        "num": 84733,
+        "word": "西安雷雨夜再现龙形不明飞行物",
+        "onboard_time": 1746793702,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60600,
+        "num": 60600,
+        "word": "浪姐后期把张小婉当哪国人整啊",
+        "onboard_time": 1746813137,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51293,
+        "num": 51293,
+        "word": "加沙人吃着饭就被炸死了",
+        "onboard_time": 1746822914,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50748,
+        "num": 50748,
+        "word": "银行卖疑似假黄金监管介入",
+        "onboard_time": 1746804503,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 49835,
+        "num": 49835,
+        "word": "结婚离婚为什么不需要户口本了",
+        "onboard_time": 1746799825,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 45104,
+        "num": 45104,
+        "word": "贵州发现罕见幽灵之花",
+        "onboard_time": 1746795023,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6232,
+        "num": 41898,
+        "word": "2分钟了解民营经济促进法",
+        "onboard_time": 1746782481,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 41197,
+        "num": 41197,
+        "word": "李晟真没拿我们当外人",
+        "onboard_time": 1746807741,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 39832,
+        "word": "南京一大学被曝献血免晨跑和体育课",
+        "onboard_time": 1746792260,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 97675,
+        "num": 38174,
+        "word": "网红姜涛为娶妻生子退网",
+        "onboard_time": 1746800424,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78617,
+        "num": 37253,
+        "word": "女子月薪4700元负债2544万元",
+        "onboard_time": 1746792201,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69801,
+        "num": 34944,
+        "word": "外媒评印巴空战为灾难",
+        "onboard_time": 1746801384,
+        "rank": 12,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 49017,
+        "num": 34009,
+        "word": "日本地铁砍人嫌犯特意选东大附近作案",
+        "onboard_time": 1746809179,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33072,
+        "num": 33072,
+        "word": "韩安冉说自己存款不到20万",
+        "onboard_time": 1746797962,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29701,
+        "num": 29701,
+        "word": "央八藏海传预热",
+        "onboard_time": 1746802104,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "曾冒用学籍女子发现自己学籍也被冒用",
+        "onboard_time": 1746804022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25471,
+        "num": 25471,
+        "word": "丁禹兮演技",
+        "onboard_time": 1746804983,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24153,
+        "num": 24153,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23454,
+        "num": 23454,
+        "word": "女子没喊爸妈被公婆指责没教养",
+        "onboard_time": 1746804442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12381,
+        "num": 23227,
+        "word": "提醒在巴中国公民加强安全防范",
+        "onboard_time": 1746824954,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44091,
+        "num": 22403,
+        "word": "内娱最有味道的吻戏出现了",
+        "onboard_time": 1746797541,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33865,
+        "num": 21735,
+        "word": "痛经是因为子宫太想保护你",
+        "onboard_time": 1746791720,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 21498,
+        "word": "原来真有人命好到一塌糊涂",
+        "onboard_time": 1746790521,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 20959,
+        "num": 20959,
+        "word": "男子高考640分辅导女儿沉默60秒",
+        "onboard_time": 1746790760,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20507,
+        "num": 20507,
+        "word": "中俄人民付出巨大牺牲赢得伟大胜利",
+        "onboard_time": 1746817335,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19900,
+        "num": 19900,
+        "word": "何超莲回复窦骁生日祝福",
+        "onboard_time": 1746786262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18130,
+        "num": 18130,
+        "word": "普京红场讲话提醒牢记二战教训",
+        "onboard_time": 1746823334,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18074,
+        "num": 18074,
+        "word": "闫军判罚",
+        "onboard_time": 1746806241,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17752,
+        "num": 18051,
+        "word": "马嘉祺回复湖南卫视歌手",
+        "onboard_time": 1746801264,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112618,
+        "num": 18045,
+        "word": "一个国家靠自己骗自己挽回面子",
+        "onboard_time": 1746805103,
+        "rank": 30,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 21106,
+        "num": 18037,
+        "word": "多国领导人正陆续抵达克里姆林宫",
+        "onboard_time": 1746819195,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18027,
+        "num": 18027,
+        "word": "阵风战机宣传片每一句都像回旋镖",
+        "onboard_time": 1746799041,
+        "rank": 32,
+        "category": "军事,国际时政"
+      },
+      {
+        "raw_hot": 17818,
+        "num": 17818,
+        "word": "梁田吃了5天胡允庭做的牛肉面",
+        "onboard_time": 1746803303,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17789,
+        "num": 17789,
+        "word": "韩国高尔夫球场推荐榜第1名在江苏",
+        "onboard_time": 1746804622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16928,
+        "num": 16928,
+        "word": "刘诗诗穿旗袍扫楼",
+        "onboard_time": 1746806302,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16630,
+        "num": 16630,
+        "word": "国际乒联公开收入",
+        "onboard_time": 1746800964,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16513,
+        "num": 16513,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16205,
+        "num": 16205,
+        "word": "校方回应献血后可减免晨跑和体育课",
+        "onboard_time": 1746824474,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15161,
+        "num": 16204,
+        "word": "闪闪发光的妈妈",
+        "onboard_time": 1746811756,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14963,
+        "num": 16202,
+        "word": "房琪我赌你的歌词里有子弹",
+        "onboard_time": 1746795562,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14821,
+        "num": 16202,
+        "word": "迪丽热巴一个平A刘宇宁直接开大",
+        "onboard_time": 1746810439,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14480,
+        "num": 16200,
+        "word": "中文强军战歌响彻红场",
+        "onboard_time": 1746799883,
+        "rank": 42,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 14426,
+        "num": 16197,
+        "word": "5月10日起婚姻登记实现全国通办",
+        "onboard_time": 1746817575,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14295,
+        "num": 16196,
+        "word": "淘宝免单 余额宝",
+        "onboard_time": 1746796402,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14063,
+        "num": 16194,
+        "word": "中俄关于全球战略稳定的联合声明",
+        "onboard_time": 1746820994,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13889,
+        "num": 16194,
+        "word": "cp31",
+        "onboard_time": 1746800843,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13780,
+        "num": 16192,
+        "word": "官方回应葬礼墙体倒塌人员伤亡",
+        "onboard_time": 1746823154,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12615,
+        "num": 16189,
+        "word": "歌手2025回复马嘉祺",
+        "onboard_time": 1746791241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12475,
+        "num": 16189,
+        "word": "奔跑吧",
+        "onboard_time": 1746802704,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向中国人民解放军仪仗队致意#"
+    }
+  }
+}

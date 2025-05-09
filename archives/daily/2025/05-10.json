@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746825779500,
+  "endTime": 1746826677627,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112618,
+      "num": 70311,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 106342,
       "num": 106342,
       "word": "曾冒用学籍女子发现自己学籍也被冒用",
@@ -289,14 +297,6 @@
       "onboard_time": 1746798203,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85205,
-      "num": 70311,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
-      "rank": 38,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 84677,
@@ -419,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51293,
+      "num": 51293,
+      "word": "加沙人吃着饭就被炸死了",
+      "onboard_time": 1746822914,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49017,
+      "num": 50767,
+      "word": "日本地铁砍人嫌犯特意选东大附近作案",
+      "onboard_time": 1746809179,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42756,
       "num": 42756,
       "word": "王俊凯上海活动生图",
@@ -427,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40735,
-      "num": 50767,
-      "word": "日本地铁砍人嫌犯特意选东大附近作案",
-      "onboard_time": 1746809179,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 38523,
       "num": 50770,
       "word": "张靓颖刘宇宁合唱九万字",
       "onboard_time": 1746809840,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36640,
-      "num": 36640,
-      "word": "加沙人吃着饭就被炸死了",
-      "onboard_time": 1746822914,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35662,
@@ -523,11 +523,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18869,
-      "num": 17091,
+      "raw_hot": 21106,
+      "num": 18037,
       "word": "多国领导人正陆续抵达克里姆林宫",
       "onboard_time": 1746819195,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18130,
+      "num": 18188,
+      "word": "普京红场讲话提醒牢记二战教训",
+      "onboard_time": 1746823334,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -563,16 +571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14376,
-      "num": 18188,
-      "word": "普京红场讲话提醒牢记二战教训",
-      "onboard_time": 1746823334,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13610,
-      "num": 15430,
+      "raw_hot": 13780,
+      "num": 16192,
       "word": "官方回应葬礼墙体倒塌人员伤亡",
       "onboard_time": 1746823154,
       "rank": 48,
@@ -595,8 +595,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11888,
-      "num": 20855,
+      "raw_hot": 12381,
+      "num": 23227,
       "word": "提醒在巴中国公民加强安全防范",
       "onboard_time": 1746824954,
       "rank": 24,
