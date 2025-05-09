@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746797664710,
+  "endTime": 1746798327926,
   "band_list": [
     {
       "raw_hot": 2420677,
@@ -33,6 +33,14 @@
       "onboard_time": 1746774920,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1943012,
+      "num": 1943012,
+      "word": "淘宝免单 余额宝",
+      "onboard_time": 1746796402,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1855359,
@@ -91,12 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1242536,
-      "num": 1242536,
-      "word": "淘宝免单 余额宝",
-      "onboard_time": 1746796402,
-      "rank": 0,
-      "category": "互联网"
+      "raw_hot": 1220931,
+      "num": 1220931,
+      "word": "鞠婧祎 沪上阿姨",
+      "onboard_time": 1746793041,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1128419,
@@ -153,14 +161,6 @@
       "onboard_time": 1746776002,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1056837,
-      "num": 1056837,
-      "word": "鞠婧祎 沪上阿姨",
-      "onboard_time": 1746793041,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1054540,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 693722,
-      "num": 256451,
+      "num": 270003,
       "word": "痛经是因为子宫太想保护你",
       "onboard_time": 1746791720,
       "rank": 21,
@@ -492,11 +492,19 @@
     },
     {
       "raw_hot": 478343,
-      "num": 276771,
+      "num": 299107,
       "word": "张云龙又吵架了还吵输了",
       "onboard_time": 1746792622,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 462253,
+      "num": 462253,
+      "word": "房琪我赌你的歌词里有子弹",
+      "onboard_time": 1746795562,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 454626,
@@ -563,14 +571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 417450,
-      "num": 417450,
-      "word": "房琪我赌你的歌词里有子弹",
-      "onboard_time": 1746795562,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414702,
       "num": 710241,
       "word": "七旬大爷出门散步被拉去割眼袋",
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 379872,
-      "num": 271093,
+      "num": 290890,
       "word": "马嘉祺丁程鑫宋亚轩看张杰演唱会",
       "onboard_time": 1746794363,
       "rank": 24,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 363209,
-      "num": 250696,
+      "num": 266310,
       "word": "原来真有人命好到一塌糊涂",
       "onboard_time": 1746790521,
       "rank": 49,
@@ -1043,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238654,
+      "num": 238654,
+      "word": "贵州发现罕见幽灵之花",
+      "onboard_time": 1746795023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238184,
       "num": 227189,
       "word": "印度开闸放水",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1746786562,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234871,
-      "num": 234871,
-      "word": "贵州发现罕见幽灵之花",
-      "onboard_time": 1746795023,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233523,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1746754701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229812,
+      "num": 289710,
+      "word": "内娱最有味道的吻戏出现了",
+      "onboard_time": 1746797541,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 229313,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1746759382,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216461,
+      "num": 216461,
+      "word": "iG对战WE",
+      "onboard_time": 1746798142,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 216152,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1746764003,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201374,
+      "num": 201374,
+      "word": "母亲节鲜花今年芍药成新宠",
+      "onboard_time": 1746797484,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200870,
@@ -1539,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186099,
+      "num": 186099,
+      "word": "西安雷雨夜再现龙形不明飞行物",
+      "onboard_time": 1746793702,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184782,
       "num": 202239,
       "word": "汪顺MAT封面",
@@ -1587,20 +1619,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179768,
-      "num": 179768,
-      "word": "西安雷雨夜再现龙形不明飞行物",
-      "onboard_time": 1746793702,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179617,
       "num": 257717,
       "word": "现场直击2025年俄罗斯胜利日阅兵",
       "onboard_time": 1746775822,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179357,
+      "num": 179357,
+      "word": "连谢娜本人都觉得很像怎么办",
+      "onboard_time": 1746798024,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 179253,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1746763942,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 178320,
+      "num": 178320,
+      "word": "韩安冉说自己存款不到20万",
+      "onboard_time": 1746797962,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 177712,
@@ -1721,6 +1761,14 @@
       "onboard_time": 1746785662,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169075,
+      "num": 169075,
+      "word": "王霏霏这么明艳的脸跳这么帅的舞",
+      "onboard_time": 1746797122,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 168758,
@@ -1915,20 +1963,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156255,
+      "num": 156255,
+      "word": "王鹤棣晚宴小卷毛",
+      "onboard_time": 1746797962,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155852,
       "num": 150893,
       "word": "巴基斯坦展示印度无人机残骸",
       "onboard_time": 1746789801,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155018,
-      "num": 155018,
-      "word": "母亲节鲜花今年芍药成新宠",
-      "onboard_time": 1746797484,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154082,
@@ -1971,20 +2019,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150534,
-      "num": 150534,
-      "word": "王霏霏这么明艳的脸跳这么帅的舞",
-      "onboard_time": 1746797122,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149873,
       "num": 149873,
       "word": "iG公布报点事件麦克风",
       "onboard_time": 1746786923,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 149343,
+      "num": 149343,
+      "word": "张凌赫二旬老人的朋友圈",
+      "onboard_time": 1746798203,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 148736,
@@ -2219,6 +2267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134339,
+      "num": 134339,
+      "word": "俄记者穿中国旗袍报道",
+      "onboard_time": 1746798142,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133815,
       "num": 133815,
       "word": "罗予彤憋着眼泪一直练",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1746782962,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125705,
+      "num": 125705,
+      "word": "老外为了在中国网络火有多拼",
+      "onboard_time": 1746798083,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125581,
@@ -2465,14 +2529,6 @@
       "onboard_time": 1746786262,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118917,
-      "num": 118917,
-      "word": "内娱最有味道的吻戏出现了",
-      "onboard_time": 1746797541,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 118497,
@@ -2859,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87239,
+      "num": 271015,
+      "word": "货车起火烧毁3万元货物货拉拉拒赔",
+      "onboard_time": 1746796642,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86316,
       "num": 86316,
       "word": "大冰 综艺",
@@ -2905,6 +2969,14 @@
       "onboard_time": 1746717203,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 84714,
+      "num": 259451,
+      "word": "普京高度赞赏英勇的中国人民",
+      "onboard_time": 1746797184,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83364,
@@ -2985,6 +3057,14 @@
       "onboard_time": 1746716843,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76213,
+      "num": 150674,
+      "word": "可以消炎的9个中成药",
+      "onboard_time": 1746797184,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 75617,
@@ -3155,19 +3235,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59814,
-      "num": 150674,
-      "word": "可以消炎的9个中成药",
-      "onboard_time": 1746797184,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 59463,
       "num": 341126,
       "word": "女子误下车17万现金被高铁拉走",
       "onboard_time": 1746762081,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59270,
+      "num": 149017,
+      "word": "胡锡进谈结婚离婚不用户口本",
+      "onboard_time": 1746798203,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3323,14 +3403,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 43197,
-      "num": 259451,
-      "word": "普京高度赞赏英勇的中国人民",
-      "onboard_time": 1746797184,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43034,
       "num": 278751,
       "word": "反向升学读技校的大学毕业生",
@@ -3377,14 +3449,6 @@
       "onboard_time": 1746757461,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36148,
-      "num": 260427,
-      "word": "货车起火烧毁3万元货物货拉拉拒赔",
-      "onboard_time": 1746796642,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35721,
@@ -3465,6 +3529,14 @@
       "onboard_time": 1746787341,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29351,
+      "num": 277127,
+      "word": "撕拉片的技术没有失传",
+      "onboard_time": 1746797844,
+      "rank": 18,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 29006,
@@ -3595,6 +3667,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 22338,
+      "num": 150816,
+      "word": "行人走路安全距离是多少",
+      "onboard_time": 1746796224,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22070,
       "num": 32224,
       "word": "中俄元首共见记者",
@@ -3617,14 +3697,6 @@
       "onboard_time": 1746720501,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20860,
-      "num": 150816,
-      "word": "行人走路安全距离是多少",
-      "onboard_time": 1746796224,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20641,
@@ -3657,6 +3729,14 @@
       "onboard_time": 1746746839,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19990,
+      "num": 186133,
+      "word": "一图读懂美联储硬刚特朗普政府始末",
+      "onboard_time": 1746797184,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19977,
@@ -3721,14 +3801,6 @@
       "onboard_time": 1746745639,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17193,
-      "num": 176165,
-      "word": "一图读懂美联储硬刚特朗普政府始末",
-      "onboard_time": 1746797184,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17024,

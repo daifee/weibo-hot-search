@@ -1,0 +1,410 @@
+{
+  "runTime": 1746798327926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1943012,
+        "num": 1943012,
+        "word": "淘宝免单 余额宝",
+        "onboard_time": 1746796402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1220931,
+        "num": 1220931,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69172,
+        "num": 954229,
+        "word": "中国排面齐唱放心吧祖国",
+        "onboard_time": 1746782180,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 788213,
+        "num": 788213,
+        "word": "歌手2025回复马嘉祺",
+        "onboard_time": 1746791241,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740164,
+        "num": 740164,
+        "word": "南京一大学被曝献血免晨跑和体育课",
+        "onboard_time": 1746792260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626444,
+        "num": 626444,
+        "word": "淘宝免单 遇水则发",
+        "onboard_time": 1746796402,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 613953,
+        "num": 613953,
+        "word": "淘宝免单 重逢的季节",
+        "onboard_time": 1746782661,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 21222,
+        "num": 520763,
+        "word": "2分钟了解民营经济促进法",
+        "onboard_time": 1746782481,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 462253,
+        "num": 462253,
+        "word": "房琪我赌你的歌词里有子弹",
+        "onboard_time": 1746795562,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310051,
+        "num": 310051,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1970842,
+        "num": 309590,
+        "word": "女子月薪4700元负债2544万元",
+        "onboard_time": 1746792201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499705,
+        "num": 305643,
+        "word": "支付宝微信 自动扣款服务",
+        "onboard_time": 1746776603,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 386679,
+        "num": 299107,
+        "word": "张云龙又吵架了还吵输了",
+        "onboard_time": 1746792622,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356106,
+        "num": 297144,
+        "word": "何超莲回复窦骁生日祝福",
+        "onboard_time": 1746786262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341364,
+        "num": 290890,
+        "word": "马嘉祺丁程鑫宋亚轩看张杰演唱会",
+        "onboard_time": 1746794363,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229812,
+        "num": 289710,
+        "word": "内娱最有味道的吻戏出现了",
+        "onboard_time": 1746797541,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210464,
+        "num": 283342,
+        "word": "张杰演唱会",
+        "onboard_time": 1746793162,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330851,
+        "num": 280511,
+        "word": "男子高考640分辅导女儿沉默60秒",
+        "onboard_time": 1746790760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29351,
+        "num": 277127,
+        "word": "撕拉片的技术没有失传",
+        "onboard_time": 1746797844,
+        "rank": 18,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 87239,
+        "num": 271015,
+        "word": "货车起火烧毁3万元货物货拉拉拒赔",
+        "onboard_time": 1746796642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617957,
+        "num": 270003,
+        "word": "痛经是因为子宫太想保护你",
+        "onboard_time": 1746791720,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266310,
+        "num": 266310,
+        "word": "原来真有人命好到一塌糊涂",
+        "onboard_time": 1746790521,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 238654,
+        "num": 238654,
+        "word": "贵州发现罕见幽灵之花",
+        "onboard_time": 1746795023,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216461,
+        "num": 216461,
+        "word": "iG对战WE",
+        "onboard_time": 1746798142,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211631,
+        "num": 211631,
+        "word": "老人摘十斤樱桃摆路边被人顺走",
+        "onboard_time": 1746785001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201374,
+        "num": 201374,
+        "word": "母亲节鲜花今年芍药成新宠",
+        "onboard_time": 1746797484,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196317,
+        "num": 196317,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186314,
+        "num": 186314,
+        "word": "淘宝免单 优酷",
+        "onboard_time": 1746780201,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84714,
+        "num": 186201,
+        "word": "普京高度赞赏英勇的中国人民",
+        "onboard_time": 1746797184,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19990,
+        "num": 186133,
+        "word": "一图读懂美联储硬刚特朗普政府始末",
+        "onboard_time": 1746797184,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186099,
+        "num": 186099,
+        "word": "西安雷雨夜再现龙形不明飞行物",
+        "onboard_time": 1746793702,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182378,
+        "num": 182378,
+        "word": "5月10日起结婚离婚都不用户口本",
+        "onboard_time": 1746774920,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179357,
+        "num": 179357,
+        "word": "连谢娜本人都觉得很像怎么办",
+        "onboard_time": 1746798024,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 178320,
+        "word": "韩安冉说自己存款不到20万",
+        "onboard_time": 1746797962,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169075,
+        "num": 169075,
+        "word": "王霏霏这么明艳的脸跳这么帅的舞",
+        "onboard_time": 1746797122,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156255,
+        "num": 156255,
+        "word": "王鹤棣晚宴小卷毛",
+        "onboard_time": 1746797962,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149343,
+        "num": 149343,
+        "word": "张凌赫二旬老人的朋友圈",
+        "onboard_time": 1746798203,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59270,
+        "num": 149017,
+        "word": "胡锡进谈结婚离婚不用户口本",
+        "onboard_time": 1746798203,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22338,
+        "num": 148896,
+        "word": "行人走路安全距离是多少",
+        "onboard_time": 1746796224,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76213,
+        "num": 148859,
+        "word": "可以消炎的9个中成药",
+        "onboard_time": 1746797184,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 148848,
+        "num": 148848,
+        "word": "沈月你要整死张云龙啊",
+        "onboard_time": 1746794603,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148793,
+        "num": 148793,
+        "word": "范丞丞放过姚译添吧",
+        "onboard_time": 1746795863,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143083,
+        "num": 143083,
+        "word": "迪丽热巴被这四个男人逗乐了",
+        "onboard_time": 1746797122,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138648,
+        "num": 138648,
+        "word": "孙颖莎用emoji回答心情",
+        "onboard_time": 1746796523,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134339,
+        "num": 134339,
+        "word": "俄记者穿中国旗袍报道",
+        "onboard_time": 1746798142,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131643,
+        "num": 131643,
+        "word": "何运晨说自己是牛马打工人",
+        "onboard_time": 1746796943,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127936,
+        "num": 127936,
+        "word": "林磊儿这次不住小姨家住哥哥家",
+        "onboard_time": 1746794543,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "藏海传档期",
+        "onboard_time": 1746781221,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127706,
+        "num": 127706,
+        "word": "妈妈也是一个小女孩的瞬间",
+        "onboard_time": 1746794723,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125705,
+        "num": 125705,
+        "word": "老外为了在中国网络火有多拼",
+        "onboard_time": 1746798083,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄两国要风雨同渡关山共越#"
+    }
+  }
+}
