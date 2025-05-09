@@ -1,0 +1,410 @@
+{
+  "runTime": 1746762909691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836966,
+        "num": 1836966,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967677,
+        "num": 967677,
+        "word": "淘宝免单",
+        "onboard_time": 1746713844,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41289,
+        "num": 849570,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1298028,
+        "num": 820360,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 781646,
+        "num": 781646,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 596448,
+        "num": 765815,
+        "word": "男子每天拍拍西瓜月入3万元",
+        "onboard_time": 1746761181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506249,
+        "num": 751681,
+        "word": "何炅谢娜为李小冉庆生",
+        "onboard_time": 1746755841,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461080,
+        "num": 732522,
+        "word": "这次大雨有一定致灾性",
+        "onboard_time": 1746752841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358460,
+        "num": 713257,
+        "word": "迪丽热巴对迪丽姐热了吧暗号",
+        "onboard_time": 1746758722,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626299,
+        "num": 690819,
+        "word": "特朗普称或将下调对华145%关税",
+        "onboard_time": 1746759500,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 683301,
+        "num": 683301,
+        "word": "美官员称歼10击落至少两架印度军机",
+        "onboard_time": 1746760161,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 672628,
+        "num": 672628,
+        "word": "淘宝免单 爱要大声说出来",
+        "onboard_time": 1746760642,
+        "rank": 11,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 314696,
+        "num": 664560,
+        "word": "易烊千玺17岁奥斯卡24岁戛纳",
+        "onboard_time": 1746758659,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243876,
+        "num": 656250,
+        "word": "领衔主演王星越向涵之",
+        "onboard_time": 1746761844,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80249,
+        "num": 637923,
+        "word": "无人机穿越千年古塔涉事飞手被拘10日",
+        "onboard_time": 1746761902,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208041,
+        "num": 634267,
+        "word": "宋佳为陈妍希宣传新剧",
+        "onboard_time": 1746759861,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 624536,
+        "num": 624536,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18078,
+        "num": 604943,
+        "word": "印巴空战会引发怎样的地区冲突",
+        "onboard_time": 1746762141,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122982,
+        "num": 597412,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591330,
+        "num": 591330,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144166,
+        "num": 553904,
+        "word": "谢娜回复李小冉爱你就是爱你",
+        "onboard_time": 1746761241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523331,
+        "num": 523331,
+        "word": "藏海传赴山海 对打",
+        "onboard_time": 1746746659,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446449,
+        "num": 446449,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 443588,
+        "num": 443588,
+        "word": "一个比考公考编更难的事",
+        "onboard_time": 1746748161,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 205481,
+        "num": 403847,
+        "word": "蒋一侨坚持了不该坚持的",
+        "onboard_time": 1746760522,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189990,
+        "num": 385977,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1746761181,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383936,
+        "num": 383936,
+        "word": "世乒赛后王楚钦无法重返世一",
+        "onboard_time": 1746754280,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61850,
+        "num": 347463,
+        "word": "SpaceX星链疑似被电诈园区滥用",
+        "onboard_time": 1746761780,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59463,
+        "num": 341126,
+        "word": "女子误下车17万现金被高铁拉走",
+        "onboard_time": 1746762081,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335988,
+        "num": 335988,
+        "word": "巴方称与约80架印度战机交战",
+        "onboard_time": 1746749483,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301489,
+        "num": 301489,
+        "word": "iPhone17Air戴手机壳效果",
+        "onboard_time": 1746756860,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 297051,
+        "num": 297051,
+        "word": "李现拍鸟带来的思考",
+        "onboard_time": 1746758241,
+        "rank": 31,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 292080,
+        "num": 292080,
+        "word": "字节跳动20元餐标的免费早餐",
+        "onboard_time": 1746761481,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222839,
+        "num": 222839,
+        "word": "孙颖莎高定高珠封面",
+        "onboard_time": 1746761780,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37528,
+        "num": 217663,
+        "word": "格林放倒里德",
+        "onboard_time": 1746757461,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36727,
+        "num": 214209,
+        "word": "墨菲炮轰世界台联涉赵心童决定",
+        "onboard_time": 1746756681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213448,
+        "num": 213448,
+        "word": "俄罗斯阅兵",
+        "onboard_time": 1746756801,
+        "rank": 36,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 193832,
+        "num": 193832,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116952,
+        "num": 191412,
+        "word": "窦骁零点零一分为何超莲庆生",
+        "onboard_time": 1746760581,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12811,
+        "num": 191234,
+        "word": "库里不在对勇士影响有多大",
+        "onboard_time": 1746762863,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208561,
+        "num": 191186,
+        "word": "孙颖莎两套高定",
+        "onboard_time": 1746761962,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191087,
+        "num": 191087,
+        "word": "31岁章泽天素颜怼脸照",
+        "onboard_time": 1746752481,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191170,
+        "num": 190365,
+        "word": "王楚钦安检时发现带走房卡尴尬笑了",
+        "onboard_time": 1746758001,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188893,
+        "num": 188893,
+        "word": "生育可以不用那么痛",
+        "onboard_time": 1746759500,
+        "rank": 43,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 176302,
+        "num": 176302,
+        "word": "广州暴雨",
+        "onboard_time": 1746752961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174103,
+        "num": 174103,
+        "word": "印度看到这个视频天塌了",
+        "onboard_time": 1746761241,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172164,
+        "num": 172164,
+        "word": "女子发现出国丈夫与情人同居多年",
+        "onboard_time": 1746762562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164685,
+        "num": 168378,
+        "word": "孙颖莎摄影于聪",
+        "onboard_time": 1746761360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167956,
+        "num": 167956,
+        "word": "巴基斯坦外交部声明",
+        "onboard_time": 1746755841,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167840,
+        "num": 167840,
+        "word": "开始推理吧",
+        "onboard_time": 1746762863,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京举行会谈#"
+    }
+  }
+}

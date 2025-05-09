@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746761357364,
+  "endTime": 1746762909691,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -35,6 +35,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1298028,
+      "num": 953483,
+      "word": "刚买的飞机刚买的飞机",
+      "onboard_time": 1746759082,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1265196,
       "num": 1265196,
       "word": "美国关税战已经打到婴儿",
@@ -57,14 +65,6 @@
       "onboard_time": 1746725176,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 953483,
-      "num": 953483,
-      "word": "刚买的飞机刚买的飞机",
-      "onboard_time": 1746759082,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 925758,
@@ -92,11 +92,27 @@
     },
     {
       "raw_hot": 706850,
-      "num": 706850,
+      "num": 751681,
       "word": "何炅谢娜为李小冉庆生",
       "onboard_time": 1746755841,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683301,
+      "num": 683301,
+      "word": "美官员称歼10击落至少两架印度军机",
+      "onboard_time": 1746760161,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 672628,
+      "num": 672628,
+      "word": "淘宝免单 爱要大声说出来",
+      "onboard_time": 1746760642,
+      "rank": 25,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 657905,
@@ -115,12 +131,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 626299,
+      "num": 690819,
+      "word": "特朗普称或将下调对华145%关税",
+      "onboard_time": 1746759500,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 626275,
       "num": 1084842,
       "word": "巴方称与约80架印度战机交战",
       "onboard_time": 1746749483,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 624536,
+      "num": 624536,
+      "word": "普通话一甲 1244",
+      "onboard_time": 1746761360,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 596448,
+      "num": 765815,
+      "word": "男子每天拍拍西瓜月入3万元",
+      "onboard_time": 1746761181,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 591910,
@@ -179,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 446449,
+      "num": 446449,
+      "word": "大家讨厌的不是月薪3500",
+      "onboard_time": 1746761844,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 445780,
       "num": 445780,
       "word": "美众院同意将墨西哥湾改名美国湾",
@@ -195,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425885,
-      "num": 425885,
-      "word": "特朗普称或将下调对华145%关税",
-      "onboard_time": 1746759500,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 382799,
       "num": 227345,
       "word": "金价突然跳水",
@@ -217,6 +257,14 @@
       "onboard_time": 1746706462,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358460,
+      "num": 713257,
+      "word": "迪丽热巴对迪丽姐热了吧暗号",
+      "onboard_time": 1746758722,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 356951,
@@ -283,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311185,
-      "num": 501399,
-      "word": "美官员称歼10击落至少两架印度军机",
-      "onboard_time": 1746760161,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 304895,
       "num": 74749,
       "word": "女子脸上长火疖子排脓后留下黑洞",
@@ -331,12 +371,12 @@
       "category": "民生新闻,民生新闻"
     },
     {
-      "raw_hot": 290854,
-      "num": 290854,
-      "word": "淘宝免单 爱要大声说出来",
-      "onboard_time": 1746760642,
-      "rank": 25,
-      "category": "互联网,民生新闻"
+      "raw_hot": 292080,
+      "num": 292080,
+      "word": "字节跳动20元餐标的免费早餐",
+      "onboard_time": 1746761481,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 289048,
@@ -353,14 +393,6 @@
       "onboard_time": 1746759500,
       "rank": 30,
       "category": "母婴育儿,健康医疗"
-    },
-    {
-      "raw_hot": 276063,
-      "num": 481505,
-      "word": "迪丽热巴对迪丽姐热了吧暗号",
-      "onboard_time": 1746758722,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 266362,
@@ -419,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243876,
+      "num": 656250,
+      "word": "领衔主演王星越向涵之",
+      "onboard_time": 1746761844,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239455,
       "num": 239455,
       "word": "胖东来和田玉标注进货价和毛利",
@@ -459,12 +499,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 222839,
+      "num": 222839,
+      "word": "孙颖莎高定高珠封面",
+      "onboard_time": 1746761780,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216706,
       "num": 216706,
       "word": "计算机二级成绩",
       "onboard_time": 1746759382,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213448,
+      "num": 213448,
+      "word": "俄罗斯阅兵",
+      "onboard_time": 1746756801,
+      "rank": 44,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 211443,
@@ -475,12 +531,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208561,
+      "num": 191186,
+      "word": "孙颖莎两套高定",
+      "onboard_time": 1746761962,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208514,
       "num": 470124,
       "word": "小小的我",
       "onboard_time": 1746760222,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208041,
+      "num": 634267,
+      "word": "宋佳为陈妍希宣传新剧",
+      "onboard_time": 1746759861,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205481,
+      "num": 462416,
+      "word": "蒋一侨坚持了不该坚持的",
+      "onboard_time": 1746760522,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 200870,
@@ -507,12 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188649,
-      "num": 188649,
-      "word": "俄罗斯阅兵",
-      "onboard_time": 1746756801,
-      "rank": 44,
-      "category": "国内时政,国际时政"
+      "raw_hot": 193832,
+      "num": 193832,
+      "word": "爸爸当家",
+      "onboard_time": 1746762383,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189990,
+      "num": 385977,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1746761181,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 188043,
@@ -547,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178871,
-      "num": 462416,
-      "word": "蒋一侨坚持了不该坚持的",
-      "onboard_time": 1746760522,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177712,
       "num": 177712,
       "word": "梵蒂冈",
@@ -563,20 +643,20 @@
       "category": "国际时政,国际时政"
     },
     {
-      "raw_hot": 169589,
-      "num": 427629,
-      "word": "宋佳为陈妍希宣传新剧",
-      "onboard_time": 1746759861,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168841,
-      "num": 168841,
+      "raw_hot": 174103,
+      "num": 174103,
       "word": "印度看到这个视频天塌了",
       "onboard_time": 1746761241,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172164,
+      "num": 172164,
+      "word": "女子发现出国丈夫与情人同居多年",
+      "onboard_time": 1746762562,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168758,
@@ -595,11 +675,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167840,
+      "num": 167840,
+      "word": "开始推理吧",
+      "onboard_time": 1746762863,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165888,
       "num": 237546,
       "word": "王楚钦在路边摸蛇",
       "onboard_time": 1746708023,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164685,
+      "num": 168378,
+      "word": "孙颖莎摄影于聪",
+      "onboard_time": 1746761360,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -651,12 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143643,
-      "num": 163452,
-      "word": "陷入我们的热恋",
-      "onboard_time": 1746761181,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 144166,
+      "num": 553904,
+      "word": "谢娜回复李小冉爱你就是爱你",
+      "onboard_time": 1746761241,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 143252,
@@ -676,7 +772,7 @@
     },
     {
       "raw_hot": 140218,
-      "num": 140218,
+      "num": 214209,
       "word": "墨菲炮轰世界台联涉赵心童决定",
       "onboard_time": 1746756681,
       "rank": 37,
@@ -772,7 +868,7 @@
     },
     {
       "raw_hot": 123881,
-      "num": 123881,
+      "num": 191412,
       "word": "窦骁零点零一分为何超莲庆生",
       "onboard_time": 1746760581,
       "rank": 48,
@@ -785,6 +881,14 @@
       "onboard_time": 1746752062,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122982,
+      "num": 597412,
+      "word": "七旬大爷出门散步被拉去割眼袋",
+      "onboard_time": 1746762262,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117912,
@@ -931,14 +1035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92267,
-      "num": 266593,
-      "word": "男子每天拍拍西瓜月入3万元",
-      "onboard_time": 1746761181,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89976,
       "num": 107473,
       "word": "窦靖童指王菲是她的偶像和闺蜜",
@@ -1019,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80249,
+      "num": 637923,
+      "word": "无人机穿越千年古塔涉事飞手被拘10日",
+      "onboard_time": 1746761902,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76766,
       "num": 81719,
       "word": "严浩翔自己搭新说唱造型",
@@ -1056,14 +1160,6 @@
       "word": "丁禹兮零帧起唱爱的主打歌",
       "onboard_time": 1746718343,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 66467,
-      "num": 189156,
-      "word": "谢娜回复李小冉爱你就是爱你",
-      "onboard_time": 1746761241,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1123,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61850,
+      "num": 347463,
+      "word": "SpaceX星链疑似被电诈园区滥用",
+      "onboard_time": 1746761780,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61712,
       "num": 236827,
       "word": "美国西雅图港没船了",
@@ -1145,6 +1249,14 @@
       "onboard_time": 1746735854,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59463,
+      "num": 341126,
+      "word": "女子误下车17万现金被高铁拉走",
+      "onboard_time": 1746762081,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55599,
@@ -1217,6 +1329,14 @@
       "onboard_time": 1746746418,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37528,
+      "num": 217663,
+      "word": "格林放倒里德",
+      "onboard_time": 1746757461,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 35122,
@@ -1323,6 +1443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18078,
+      "num": 604943,
+      "word": "印巴空战会引发怎样的地区冲突",
+      "onboard_time": 1746762141,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17337,
       "num": 206715,
       "word": "守护历史记忆维护国际公平正义",
@@ -1369,6 +1497,14 @@
       "onboard_time": 1746727995,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12811,
+      "num": 191234,
+      "word": "库里不在对勇士影响有多大",
+      "onboard_time": 1746762863,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12234,
