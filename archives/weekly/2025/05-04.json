@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746801794066,
+  "endTime": 1746804409945,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -2155,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676176,
+      "num": 293477,
+      "word": "网红姜涛为娶妻生子退网",
+      "onboard_time": 1746800424,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 674744,
       "num": 515292,
       "word": "刘涛怼刘奕畅",
@@ -3531,6 +3539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457716,
+      "num": 244769,
+      "word": "外媒评印巴空战为灾难",
+      "onboard_time": 1746801384,
+      "rank": 39,
+      "category": "海外新闻,军事"
+    },
+    {
       "raw_hot": 457065,
       "num": 437796,
       "word": "月牙泉边周深和观众合唱小美满",
@@ -3577,14 +3593,6 @@
       "onboard_time": 1746348441,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454194,
-      "num": 293477,
-      "word": "网红姜涛为娶妻生子退网",
-      "onboard_time": 1746800424,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 453548,
@@ -3689,6 +3697,14 @@
       "onboard_time": 1746754821,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 442316,
+      "num": 396805,
+      "word": "马嘉祺回复湖南卫视歌手",
+      "onboard_time": 1746801264,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 441265,
@@ -3809,6 +3825,14 @@
       "onboard_time": 1746459081,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430991,
+      "num": 430991,
+      "word": "国际乒联公开收入",
+      "onboard_time": 1746800964,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 428766,
@@ -3953,6 +3977,14 @@
       "onboard_time": 1746314056,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416845,
+      "num": 416845,
+      "word": "结婚离婚为什么不需要户口本了",
+      "onboard_time": 1746799825,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 414702,
@@ -4737,14 +4769,6 @@
       "onboard_time": 1746597743,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347210,
-      "num": 347210,
-      "word": "国际乒联公开收入",
-      "onboard_time": 1746800964,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 346987,
@@ -7043,6 +7067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234034,
+      "num": 363437,
+      "word": "百色一葬礼墙体倒塌多人死伤",
+      "onboard_time": 1746801144,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234012,
       "num": 234012,
       "word": "重庆大学回应本科生发14篇SCI论文",
@@ -7291,6 +7323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227734,
+      "num": 227734,
+      "word": "李耕耘健身照",
+      "onboard_time": 1746800545,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227628,
       "num": 227628,
       "word": "宁艺卓ELLE",
@@ -7521,6 +7561,14 @@
       "onboard_time": 1746408262,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221037,
+      "num": 221037,
+      "word": "梁田吃了5天胡允庭做的牛肉面",
+      "onboard_time": 1746803303,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 220675,
@@ -7889,14 +7937,6 @@
       "onboard_time": 1746753801,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211206,
-      "num": 211206,
-      "word": "李耕耘健身照",
-      "onboard_time": 1746800545,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 211042,
@@ -9817,14 +9857,6 @@
       "onboard_time": 1746372025,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190022,
-      "num": 206129,
-      "word": "马嘉祺回复湖南卫视歌手",
-      "onboard_time": 1746801264,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 190017,
@@ -12059,14 +12091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162998,
-      "num": 162998,
-      "word": "结婚离婚为什么不需要户口本了",
-      "onboard_time": 1746799825,
-      "rank": 48,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 162985,
       "num": 411403,
       "word": "央视曝光兼职注册APP账号猫腻",
@@ -12177,6 +12201,14 @@
       "onboard_time": 1746801324,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161501,
+      "num": 161501,
+      "word": "朱志鑫首部电视剧镜头",
+      "onboard_time": 1746803003,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 161274,
@@ -15539,6 +15571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127019,
+      "num": 876416,
+      "word": "中文强军战歌响彻红场",
+      "onboard_time": 1746799883,
+      "rank": 2,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 127003,
       "num": 127003,
       "word": "谢娜唐国强扶严浩翔上岸",
@@ -15785,6 +15825,22 @@
       "onboard_time": 1746412763,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124767,
+      "num": 124767,
+      "word": "陈奕恒跺脚变装",
+      "onboard_time": 1746804082,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124475,
+      "num": 124475,
+      "word": "谁懂女性剧里有杨笠的含金量",
+      "onboard_time": 1746803843,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 124446,
@@ -16699,14 +16755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113836,
-      "num": 363437,
-      "word": "百色一葬礼墙体倒塌多人死伤",
-      "onboard_time": 1746801144,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113835,
       "num": 113835,
       "word": "任嘉伦音乐节",
@@ -16825,6 +16873,14 @@
       "onboard_time": 1746620181,
       "rank": 49,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 112548,
+      "num": 124587,
+      "word": "全国一年制作发行电视剧3490集",
+      "onboard_time": 1746803722,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 112359,
@@ -16979,20 +17035,20 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 110536,
+      "num": 110536,
+      "word": "日本地铁随机砍人43岁嫌犯自述",
+      "onboard_time": 1746803964,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110475,
       "num": 177430,
       "word": "中国女排世联赛24人名单",
       "onboard_time": 1746706403,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110427,
-      "num": 149213,
-      "word": "外媒评印巴空战为灾难",
-      "onboard_time": 1746801384,
-      "rank": 39,
-      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 110254,
@@ -17987,6 +18043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95981,
+      "num": 95981,
+      "word": "李晟说祝绪丹眼里只看得到王珞丹",
+      "onboard_time": 1746804203,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95830,
       "num": 104822,
       "word": "羽毛球冠军刘毅想得到虞书欣的祝福",
@@ -18019,20 +18083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95518,
-      "num": 876416,
-      "word": "中文强军战歌响彻红场",
-      "onboard_time": 1746799883,
-      "rank": 2,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 95508,
       "num": 349971,
       "word": "CBA总决赛",
       "onboard_time": 1746617362,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "陈张太康 我有自己的工作和生活规划",
+      "onboard_time": 1746802104,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 94888,
@@ -19539,6 +19603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63666,
+      "num": 125341,
+      "word": "巴方称印度袭击已致巴方33人死亡",
+      "onboard_time": 1746803543,
+      "rank": 29,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 63491,
       "num": 462614,
       "word": "胖都来为啥不能叫胖都来",
@@ -20731,6 +20803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41070,
+      "num": 114984,
+      "word": "印度裔记者遭到死亡威胁",
+      "onboard_time": 1746803784,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40694,
       "num": 147358,
       "word": "上帝不如我的兄弟",
@@ -20913,6 +20993,14 @@
       "onboard_time": 1746434300,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38160,
+      "num": 180147,
+      "word": "曾冒用学籍女子发现自己学籍也被冒用",
+      "onboard_time": 1746804022,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37528,
@@ -21811,6 +21899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25596,
+      "num": 185884,
+      "word": "轻信能买国企带编岗被骗30余万",
+      "onboard_time": 1746803423,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25409,
       "num": 262364,
       "word": "巴基斯坦与印度对峙底气来自哪里",
@@ -22065,6 +22161,14 @@
       "onboard_time": 1746346102,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22905,
+      "num": 115055,
+      "word": "屈臣氏霉斑内裤事件最新进展",
+      "onboard_time": 1746804323,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22405,
@@ -22657,6 +22761,14 @@
       "onboard_time": 1746504082,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15506,
+      "num": 104516,
+      "word": "豪哥哥紧跟时事",
+      "onboard_time": 1746803183,
+      "rank": 44,
+      "category": "民生新闻,军事"
     },
     {
       "raw_hot": 15479,

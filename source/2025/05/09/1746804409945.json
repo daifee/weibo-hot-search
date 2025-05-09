@@ -1,0 +1,410 @@
+{
+  "runTime": 1746804409945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895313,
+        "num": 1143250,
+        "word": "淘宝免单 余额宝",
+        "onboard_time": 1746796402,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 778010,
+        "num": 778010,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127019,
+        "num": 627567,
+        "word": "中文强军战歌响彻红场",
+        "onboard_time": 1746799883,
+        "rank": 2,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 485166,
+        "num": 485166,
+        "word": "内娱最有味道的吻戏出现了",
+        "onboard_time": 1746797541,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430991,
+        "num": 430991,
+        "word": "国际乒联公开收入",
+        "onboard_time": 1746800964,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416845,
+        "num": 416845,
+        "word": "结婚离婚为什么不需要户口本了",
+        "onboard_time": 1746799825,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 442316,
+        "num": 396805,
+        "word": "马嘉祺回复湖南卫视歌手",
+        "onboard_time": 1746801264,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9052,
+        "num": 369580,
+        "word": "一图读懂民营经济促进法亮点",
+        "onboard_time": 1746777981,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 350999,
+        "num": 350999,
+        "word": "贵州发现罕见幽灵之花",
+        "onboard_time": 1746795023,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271151,
+        "num": 271151,
+        "word": "歌手2025回复马嘉祺",
+        "onboard_time": 1746791241,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767481,
+        "num": 266478,
+        "word": "女子月薪4700元负债2544万元",
+        "onboard_time": 1746792201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676176,
+        "num": 260606,
+        "word": "网红姜涛为娶妻生子退网",
+        "onboard_time": 1746800424,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 457716,
+        "num": 244769,
+        "word": "外媒评印巴空战为灾难",
+        "onboard_time": 1746801384,
+        "rank": 12,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 321820,
+        "num": 241247,
+        "word": "韩安冉说自己存款不到20万",
+        "onboard_time": 1746797962,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234034,
+        "num": 234034,
+        "word": "百色一葬礼墙体倒塌多人死伤",
+        "onboard_time": 1746801144,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227734,
+        "num": 227734,
+        "word": "李耕耘健身照",
+        "onboard_time": 1746800545,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221037,
+        "num": 221037,
+        "word": "梁田吃了5天胡允庭做的牛肉面",
+        "onboard_time": 1746803303,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203428,
+        "num": 203428,
+        "word": "房琪我赌你的歌词里有子弹",
+        "onboard_time": 1746795562,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186723,
+        "num": 186723,
+        "word": "南京一大学被曝献血免晨跑和体育课",
+        "onboard_time": 1746792260,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 25596,
+        "num": 185884,
+        "word": "轻信能买国企带编岗被骗30余万",
+        "onboard_time": 1746803423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38160,
+        "num": 180147,
+        "word": "曾冒用学籍女子发现自己学籍也被冒用",
+        "onboard_time": 1746804022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398015,
+        "num": 169291,
+        "word": "痛经是因为子宫太想保护你",
+        "onboard_time": 1746791720,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223629,
+        "num": 163851,
+        "word": "原来真有人命好到一塌糊涂",
+        "onboard_time": 1746790521,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 161501,
+        "num": 161501,
+        "word": "朱志鑫首部电视剧镜头",
+        "onboard_time": 1746803003,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149996,
+        "num": 149996,
+        "word": "张凌赫二旬老人的朋友圈",
+        "onboard_time": 1746798203,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "男子高考640分辅导女儿沉默60秒",
+        "onboard_time": 1746790760,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "何超莲回复窦骁生日祝福",
+        "onboard_time": 1746786262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133046,
+        "num": 133046,
+        "word": "原来你一直把蛋挞读错了",
+        "onboard_time": 1746783022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126552,
+        "num": 126552,
+        "word": "央八藏海传预热",
+        "onboard_time": 1746802104,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63666,
+        "num": 125341,
+        "word": "巴方称印度袭击已致巴方33人死亡",
+        "onboard_time": 1746803543,
+        "rank": 29,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 124767,
+        "num": 124767,
+        "word": "陈奕恒跺脚变装",
+        "onboard_time": 1746804082,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112548,
+        "num": 124587,
+        "word": "全国一年制作发行电视剧3490集",
+        "onboard_time": 1746803722,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124475,
+        "num": 124475,
+        "word": "谁懂女性剧里有杨笠的含金量",
+        "onboard_time": 1746803843,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123781,
+        "num": 123781,
+        "word": "西安雷雨夜再现龙形不明飞行物",
+        "onboard_time": 1746793702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121759,
+        "num": 121759,
+        "word": "奔跑吧",
+        "onboard_time": 1746802704,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119973,
+        "num": 119973,
+        "word": "郑恺陪李昀锐练网球",
+        "onboard_time": 1746800483,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117167,
+        "num": 117167,
+        "word": "芒果又有好看的医疗群像剧了",
+        "onboard_time": 1746801443,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90256,
+        "num": 116063,
+        "word": "阵风战机宣传片每一句都像回旋镖",
+        "onboard_time": 1746799041,
+        "rank": 37,
+        "category": "军事,国际时政"
+      },
+      {
+        "raw_hot": 22905,
+        "num": 115055,
+        "word": "屈臣氏霉斑内裤事件最新进展",
+        "onboard_time": 1746804323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41070,
+        "num": 114984,
+        "word": "印度裔记者遭到死亡威胁",
+        "onboard_time": 1746803784,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "cp31",
+        "onboard_time": 1746800843,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111410,
+        "num": 111410,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110536,
+        "num": 110536,
+        "word": "日本地铁随机砍人43岁嫌犯自述",
+        "onboard_time": 1746803964,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107058,
+        "num": 107058,
+        "word": "斗罗大陆2动画",
+        "onboard_time": 1746800424,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15506,
+        "num": 104516,
+        "word": "豪哥哥紧跟时事",
+        "onboard_time": 1746803183,
+        "rank": 44,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 102360,
+        "num": 102360,
+        "word": "老人摘十斤樱桃摆路边被人顺走",
+        "onboard_time": 1746785001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98565,
+        "num": 98565,
+        "word": "周翊然工作室告黑",
+        "onboard_time": 1746799283,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95981,
+        "num": 95981,
+        "word": "李晟说祝绪丹眼里只看得到王珞丹",
+        "onboard_time": 1746804203,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 95496,
+        "word": "陈张太康 我有自己的工作和生活规划",
+        "onboard_time": 1746802104,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93898,
+        "num": 93898,
+        "word": "时代少年团去了张杰演唱会",
+        "onboard_time": 1746800545,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席红场阅兵式#"
+    }
+  }
+}
