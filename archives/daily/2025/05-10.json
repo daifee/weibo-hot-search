@@ -1,9 +1,9 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746808290469,
+  "endTime": 1746809117428,
   "band_list": [
     {
-      "raw_hot": 903986,
+      "raw_hot": 981094,
       "num": 694518,
       "word": "日本地铁随机砍人43岁嫌犯自述",
       "onboard_time": 1746803964,
@@ -12,14 +12,14 @@
     },
     {
       "raw_hot": 543889,
-      "num": 243368,
+      "num": 248687,
       "word": "女子月薪4700元负债2544万元",
       "onboard_time": 1746792201,
       "rank": 11,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 470707,
+      "raw_hot": 520182,
       "num": 840938,
       "word": "鞠婧祎 沪上阿姨",
       "onboard_time": 1746793041,
@@ -35,12 +35,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 415353,
+      "raw_hot": 441867,
       "num": 252961,
       "word": "内娱最有味道的吻戏出现了",
       "onboard_time": 1746797541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420964,
+      "num": 420964,
+      "word": "李晟真没拿我们当外人",
+      "onboard_time": 1746807741,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 404441,
@@ -52,23 +60,23 @@
     },
     {
       "raw_hot": 384809,
-      "num": 229928,
+      "num": 234884,
       "word": "外媒评印巴空战为灾难",
       "onboard_time": 1746801384,
       "rank": 14,
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 367152,
-      "num": 367152,
-      "word": "李晟真没拿我们当外人",
-      "onboard_time": 1746807741,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 315417,
+      "num": 315417,
+      "word": "印称巴派出300至400架无人机发动攻击",
+      "onboard_time": 1746806181,
+      "rank": 10,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 310136,
-      "num": 248300,
+      "num": 254610,
       "word": "马嘉祺回复湖南卫视歌手",
       "onboard_time": 1746801264,
       "rank": 8,
@@ -83,8 +91,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259119,
-      "num": 223770,
+      "raw_hot": 290803,
+      "num": 263283,
       "word": "丁禹兮演技",
       "onboard_time": 1746804983,
       "rank": 15,
@@ -107,15 +115,7 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 222940,
-      "num": 222940,
-      "word": "贵州发现罕见幽灵之花",
-      "onboard_time": 1746795023,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212845,
+      "raw_hot": 224335,
       "num": 231630,
       "word": "西安雷雨夜再现龙形不明飞行物",
       "onboard_time": 1746793702,
@@ -123,12 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211170,
-      "num": 246176,
-      "word": "印称巴派出300至400架无人机发动攻击",
-      "onboard_time": 1746806181,
-      "rank": 10,
-      "category": "国内时政,军事"
+      "raw_hot": 222940,
+      "num": 222940,
+      "word": "贵州发现罕见幽灵之花",
+      "onboard_time": 1746795023,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198610,
@@ -217,6 +217,14 @@
       "onboard_time": 1746802104,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95847,
+      "num": 95847,
+      "word": "邓丽君去世30周年",
+      "onboard_time": 1746807561,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 95696,
@@ -315,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78881,
+      "num": 78881,
+      "word": "闫军判罚",
+      "onboard_time": 1746806241,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74034,
       "num": 74034,
       "word": "朱志鑫首部电视剧镜头",
       "onboard_time": 1746803003,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73560,
-      "num": 73560,
-      "word": "闫军判罚",
-      "onboard_time": 1746806241,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 73370,
@@ -347,28 +355,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 69165,
-      "num": 69165,
-      "word": "全国一年制作发行电视剧3490集",
-      "onboard_time": 1746803722,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 67810,
-      "num": 67810,
+      "raw_hot": 69817,
+      "num": 69817,
       "word": "周翊然工作室告黑",
       "onboard_time": 1746799283,
       "rank": 45,
       "category": "艺人"
     },
     {
-      "raw_hot": 66420,
-      "num": 66420,
-      "word": "邓丽君去世30周年",
-      "onboard_time": 1746807561,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 69165,
+      "num": 77969,
+      "word": "全国一年制作发行电视剧3490集",
+      "onboard_time": 1746803722,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 64180,
@@ -395,8 +395,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58907,
+      "num": 70311,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 10062,
-      "num": 248359,
+      "num": 255278,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 7,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平出席红场阅兵式#"
+    },
+    {
+      "word": "#习近平向中国人民解放军仪仗队致意#"
     }
   ]
 }
