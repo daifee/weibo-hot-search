@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746833001616,
+  "endTime": 1746833869177,
   "band_list": [
     {
       "raw_hot": 981094,
@@ -9,6 +9,14 @@
       "onboard_time": 1746803964,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 685716,
+      "num": 118123,
+      "word": "爸爸哭诉刚上幼儿园说没就没了",
+      "onboard_time": 1746832998,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 543889,
@@ -35,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482709,
+      "num": 115493,
+      "word": "一个国家靠自己骗自己挽回面子",
+      "onboard_time": 1746805103,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 469715,
       "num": 469715,
       "word": "淘宝免单 余额宝",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 466157,
-      "num": 782988,
+      "num": 884987,
       "word": "印称巴派出300至400架无人机发动攻击",
       "onboard_time": 1746806181,
       "rank": 10,
@@ -59,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417983,
-      "num": 97084,
-      "word": "一个国家靠自己骗自己挽回面子",
-      "onboard_time": 1746805103,
-      "rank": 38,
-      "category": "军事,民生新闻"
+      "raw_hot": 416068,
+      "num": 416068,
+      "word": "西安雷雨夜再现龙形不明飞行物",
+      "onboard_time": 1746793702,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404441,
@@ -81,14 +97,6 @@
       "onboard_time": 1746801384,
       "rank": 14,
       "category": "海外新闻,军事"
-    },
-    {
-      "raw_hot": 336530,
-      "num": 336530,
-      "word": "西安雷雨夜再现龙形不明飞行物",
-      "onboard_time": 1746793702,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310136,
@@ -115,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287365,
+      "num": 92866,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1746828315,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 259661,
+      "num": 259661,
+      "word": "结婚离婚为什么不需要户口本了",
+      "onboard_time": 1746799825,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 257687,
       "num": 257687,
       "word": "银行卖疑似假黄金监管介入",
@@ -123,28 +147,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 247589,
-      "num": 247589,
-      "word": "结婚离婚为什么不需要户口本了",
-      "onboard_time": 1746799825,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 222940,
       "num": 222940,
       "word": "贵州发现罕见幽灵之花",
       "onboard_time": 1746795023,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221735,
-      "num": 73632,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1746828315,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 198610,
@@ -161,6 +169,14 @@
       "onboard_time": 1746790521,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 164553,
+      "num": 108770,
+      "word": "被中国乘客疯狂投喂",
+      "onboard_time": 1746830356,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163681,
@@ -195,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154349,
+      "num": 154349,
+      "word": "南京一大学被曝献血免晨跑和体育课",
+      "onboard_time": 1746792260,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 146280,
       "num": 146280,
       "word": "李耕耘健身照",
       "onboard_time": 1746800545,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145088,
+      "num": 145088,
+      "word": "浪姐后期把张小婉当哪国人整啊",
+      "onboard_time": 1746813137,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 137421,
@@ -211,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136639,
-      "num": 136639,
-      "word": "南京一大学被曝献血免晨跑和体育课",
-      "onboard_time": 1746792260,
-      "rank": 32,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 122806,
       "num": 122806,
       "word": "何炅谢娜马嘉祺丁程鑫宋亚轩一起蹦迪",
@@ -227,12 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111304,
-      "num": 111304,
-      "word": "浪姐后期把张小婉当哪国人整啊",
-      "onboard_time": 1746813137,
-      "rank": 14,
+      "raw_hot": 118712,
+      "num": 118712,
+      "word": "吴镇宇一根手指调整王星表演的眼神",
+      "onboard_time": 1746828795,
+      "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108513,
+      "num": 108513,
+      "word": "日本地铁砍人嫌犯特意选东大附近作案",
+      "onboard_time": 1746809179,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106342,
@@ -243,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98840,
-      "num": 92131,
-      "word": "日本地铁砍人嫌犯特意选东大附近作案",
-      "onboard_time": 1746809179,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 99345,
+      "num": 99345,
+      "word": "央八藏海传预热",
+      "onboard_time": 1746802104,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 98618,
@@ -257,14 +289,6 @@
       "onboard_time": 1746804442,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97987,
-      "num": 97987,
-      "word": "吴镇宇一根手指调整王星表演的眼神",
-      "onboard_time": 1746828795,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 95888,
@@ -315,14 +339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91750,
-      "num": 91750,
-      "word": "央八藏海传预热",
-      "onboard_time": 1746802104,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90466,
       "num": 90466,
       "word": "原来你一直把蛋挞读错了",
@@ -353,6 +369,14 @@
       "onboard_time": 1746790760,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83859,
+      "num": 72207,
+      "word": "认真刷牙为什么还会口臭",
+      "onboard_time": 1746833298,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80065,
@@ -387,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 74278,
-      "num": 74278,
-      "word": "被中国乘客疯狂投喂",
-      "onboard_time": 1746830356,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74034,
       "num": 74034,
       "word": "朱志鑫首部电视剧镜头",
@@ -409,6 +425,14 @@
       "onboard_time": 1746804622,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71582,
+      "num": 71582,
+      "word": "连谢娜本人都觉得很像怎么办",
+      "onboard_time": 1746798024,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 71359,
@@ -467,20 +491,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42756,
-      "num": 42756,
-      "word": "王俊凯上海活动生图",
-      "onboard_time": 1746812057,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 40024,
-      "num": 40024,
+      "raw_hot": 57629,
+      "num": 57629,
       "word": "普通人实现财富自由的具体步骤",
       "onboard_time": 1746831557,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55592,
+      "num": 54114,
+      "word": "近期手上出现小水泡千万别掐破",
+      "onboard_time": 1746833538,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44119,
+      "num": 51124,
+      "word": "linglingkwong",
+      "onboard_time": 1746833238,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42756,
+      "num": 51079,
+      "word": "王俊凯上海活动生图",
+      "onboard_time": 1746812057,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 38523,
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 37395,
-      "num": 37395,
+      "num": 51096,
       "word": "马云现身阿里音乐会",
       "onboard_time": 1746832818,
       "rank": 35,
@@ -523,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34962,
+      "num": 51071,
+      "word": "孙颖莎偷偷比耶",
+      "onboard_time": 1746832818,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33508,
       "num": 47530,
       "word": "中俄人民付出巨大牺牲赢得伟大胜利",
@@ -545,14 +593,6 @@
       "onboard_time": 1746800843,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29835,
-      "num": 29835,
-      "word": "孙颖莎偷偷比耶",
-      "onboard_time": 1746832818,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 28001,
@@ -611,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17911,
+      "num": 93658,
+      "word": "巴基斯坦驻美大使谴责印度加剧冲突",
+      "onboard_time": 1746832939,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17620,
       "num": 32449,
       "word": "提醒在巴中国公民加强安全防范",
@@ -667,16 +715,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12415,
-      "num": 30637,
-      "word": "巴基斯坦驻美大使谴责印度加剧冲突",
-      "onboard_time": 1746832939,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 10282,
+      "num": 52758,
+      "word": "工行回应两售出金条疑有杂质",
+      "onboard_time": 1746833779,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10062,
-      "num": 271444,
+      "num": 273838,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 7,
