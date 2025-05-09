@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746772569239,
+  "endTime": 1746773359677,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -219,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 623986,
+      "num": 687574,
+      "word": "向佐喊话赵丽颖下次一起玩",
+      "onboard_time": 1746770721,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596448,
       "num": 1037545,
       "word": "男子每天拍拍西瓜月入3万元",
@@ -249,14 +257,6 @@
       "onboard_time": 1746752961,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 502645,
-      "num": 687574,
-      "word": "向佐喊话赵丽颖下次一起玩",
-      "onboard_time": 1746770721,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 497164,
@@ -307,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435444,
+      "num": 632798,
+      "word": "下一个天亮好哭",
+      "onboard_time": 1746769283,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 422728,
+      "num": 183684,
+      "word": "到了美国才发现并没有滤镜",
+      "onboard_time": 1746771562,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 414702,
       "num": 710241,
       "word": "七旬大爷出门散步被拉去割眼袋",
@@ -329,14 +345,6 @@
       "onboard_time": 1746766222,
       "rank": 25,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 364149,
-      "num": 364149,
-      "word": "下一个天亮好哭",
-      "onboard_time": 1746769283,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 360995,
@@ -393,6 +401,14 @@
       "onboard_time": 1746762383,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328453,
+      "num": 680585,
+      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+      "onboard_time": 1746769581,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321444,
@@ -475,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301180,
-      "num": 183370,
-      "word": "到了美国才发现并没有滤镜",
-      "onboard_time": 1746771562,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 298335,
       "num": 248765,
       "word": "5个月大宝宝以为自己叫小爱同学",
@@ -553,14 +561,6 @@
       "onboard_time": 1746764843,
       "rank": 32,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 275902,
-      "num": 680585,
-      "word": "单亲妈妈照顾3个孩子7年后想改嫁",
-      "onboard_time": 1746769581,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266362,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 229733,
-      "num": 195380,
+      "num": 205136,
       "word": "腾讯更新片单",
       "onboard_time": 1746770902,
       "rank": 27,
@@ -729,6 +729,14 @@
       "onboard_time": 1746759382,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213997,
+      "num": 213997,
+      "word": "少年王权弘业是无忧渡的小兔子",
+      "onboard_time": 1746772220,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 213448,
@@ -809,6 +817,14 @@
       "onboard_time": 1746766523,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204423,
+      "num": 204423,
+      "word": "刘耀文在家做饭给宋亚轩吃",
+      "onboard_time": 1746772701,
+      "rank": 23,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 204315,
@@ -980,7 +996,7 @@
     },
     {
       "raw_hot": 184782,
-      "num": 184782,
+      "num": 202239,
       "word": "汪顺MAT封面",
       "onboard_time": 1746765263,
       "rank": 49,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1746693981,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180295,
+      "num": 180295,
+      "word": "恒安集团回应客服辱骂顾客送冥币",
+      "onboard_time": 1746770242,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180189,
@@ -1107,16 +1131,8 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 166821,
-      "num": 166821,
-      "word": "少年王权弘业是无忧渡的小兔子",
-      "onboard_time": 1746772220,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166583,
-      "num": 176340,
+      "num": 189511,
       "word": "孟佳站立一字马",
       "onboard_time": 1746771202,
       "rank": 34,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1746708023,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164828,
-      "num": 164828,
-      "word": "恒安集团回应客服辱骂顾客送冥币",
-      "onboard_time": 1746770242,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164685,
@@ -1195,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148586,
+      "num": 320923,
+      "word": "大理偶遇陈好宋茜",
+      "onboard_time": 1746769343,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147160,
       "num": 210460,
       "word": "赴山海",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1746758659,
       "rank": 29,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 145715,
+      "num": 145715,
+      "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
+      "onboard_time": 1746773061,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 145534,
@@ -1323,12 +1347,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133966,
-      "num": 320923,
-      "word": "大理偶遇陈好宋茜",
-      "onboard_time": 1746769343,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 133815,
+      "num": 133815,
+      "word": "罗予彤憋着眼泪一直练",
+      "onboard_time": 1746772821,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132911,
+      "num": 132911,
+      "word": "宋妍霏单手撑地起",
+      "onboard_time": 1746773061,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129799,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1746719781,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128746,
+      "num": 193728,
+      "word": "印度光辉战斗机的作战能力如何",
+      "onboard_time": 1746772762,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 127678,
@@ -1403,6 +1443,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 123039,
+      "num": 123039,
+      "word": "做事主要靠临时起意和死到临头",
+      "onboard_time": 1746772881,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 122092,
       "num": 122092,
       "word": "我的地盘",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1746754941,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116108,
+      "num": 116108,
+      "word": "中芯国际跌超6%",
+      "onboard_time": 1746770242,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 114726,
@@ -1923,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42931,
+      "num": 135705,
+      "word": "原神5.6版本二创",
+      "onboard_time": 1746772701,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37528,
       "num": 217663,
       "word": "格林放倒里德",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1746771682,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 7108,
+      "num": 133116,
+      "word": "牛油果何以毁掉墨西哥",
+      "onboard_time": 1746772942,
+      "rank": 39,
+      "category": "民生新闻,其它"
     }
   ],
   "hotgov_list": [

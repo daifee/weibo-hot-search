@@ -1,0 +1,410 @@
+{
+  "runTime": 1746773359677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758601,
+        "num": 1121376,
+        "word": "普通话一甲 1244",
+        "onboard_time": 1746761360,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 457692,
+        "num": 796454,
+        "word": "孙颖莎嘉人",
+        "onboard_time": 1746760642,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8709,
+        "num": 726867,
+        "word": "从莫斯科看到更大的世界",
+        "onboard_time": 1746713303,
+        "rank": 2,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 678824,
+        "num": 678824,
+        "word": "巴铁亮出中国反无人机王牌武器",
+        "onboard_time": 1746767602,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 639798,
+        "num": 639798,
+        "word": "刚买的飞机刚买的飞机",
+        "onboard_time": 1746759082,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363709,
+        "num": 637542,
+        "word": "女生输头孢离世家属与医院和解",
+        "onboard_time": 1746766222,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 435444,
+        "num": 632798,
+        "word": "下一个天亮好哭",
+        "onboard_time": 1746769283,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187991,
+        "num": 630364,
+        "word": "美国关税战已经打到婴儿",
+        "onboard_time": 1746756141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328453,
+        "num": 625663,
+        "word": "单亲妈妈照顾3个孩子7年后想改嫁",
+        "onboard_time": 1746769581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623986,
+        "num": 623986,
+        "word": "向佐喊话赵丽颖下次一起玩",
+        "onboard_time": 1746770721,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965443,
+        "num": 620811,
+        "word": "心相印客服辱骂顾客并送冥币",
+        "onboard_time": 1746767543,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526266,
+        "num": 526266,
+        "word": "学生被7个机构教官殴打致耳聋",
+        "onboard_time": 1746767303,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 308326,
+        "num": 308326,
+        "word": "大家讨厌的不是月薪3500",
+        "onboard_time": 1746761844,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300554,
+        "num": 300554,
+        "word": "花田错",
+        "onboard_time": 1746765924,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232998,
+        "num": 271467,
+        "word": "七旬大爷出门散步被拉去割眼袋",
+        "onboard_time": 1746762262,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259330,
+        "num": 259330,
+        "word": "李承铉边睡觉边给戚薇捏脚",
+        "onboard_time": 1746769760,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 252827,
+        "word": "杨幂白西装银礼服全拿捏",
+        "onboard_time": 1746770782,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246810,
+        "num": 246810,
+        "word": "鹿晗应援棒",
+        "onboard_time": 1746767963,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148586,
+        "num": 218954,
+        "word": "大理偶遇陈好宋茜",
+        "onboard_time": 1746769343,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46513,
+        "num": 216447,
+        "word": "九号Q解锁骑行情绪密码",
+        "onboard_time": 1746771382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213997,
+        "num": 213997,
+        "word": "少年王权弘业是无忧渡的小兔子",
+        "onboard_time": 1746772220,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205136,
+        "num": 205136,
+        "word": "腾讯更新片单",
+        "onboard_time": 1746770902,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208907,
+        "num": 205093,
+        "word": "5人用方言作弊打麻将骗了9万元",
+        "onboard_time": 1746762502,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204423,
+        "num": 204423,
+        "word": "刘耀文在家做饭给宋亚轩吃",
+        "onboard_time": 1746772701,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 51429,
+        "num": 202239,
+        "word": "汪顺MAT封面",
+        "onboard_time": 1746765263,
+        "rank": 24,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 201981,
+        "num": 201981,
+        "word": "爸爸当家",
+        "onboard_time": 1746762383,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198662,
+        "num": 198662,
+        "word": "李兰迪 她的瞳",
+        "onboard_time": 1746766942,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156019,
+        "num": 195414,
+        "word": "心相印",
+        "onboard_time": 1746770242,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128746,
+        "num": 193728,
+        "word": "印度光辉战斗机的作战能力如何",
+        "onboard_time": 1746772762,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 117026,
+        "num": 189511,
+        "word": "孟佳站立一字马",
+        "onboard_time": 1746771202,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422728,
+        "num": 183684,
+        "word": "到了美国才发现并没有滤镜",
+        "onboard_time": 1746771562,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183045,
+        "num": 183045,
+        "word": "谢娜看到叶童赢哭了",
+        "onboard_time": 1746771261,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180295,
+        "num": 180295,
+        "word": "恒安集团回应客服辱骂顾客送冥币",
+        "onboard_time": 1746770242,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152199,
+        "num": 152199,
+        "word": "王珞丹浪姐6首个唱跳舞台",
+        "onboard_time": 1746772103,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904350,
+        "num": 150864,
+        "word": "17岁的森碟",
+        "onboard_time": 1746768203,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 145715,
+        "num": 145715,
+        "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
+        "onboard_time": 1746773061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138502,
+        "num": 138502,
+        "word": "迪丽热巴 红玫瑰",
+        "onboard_time": 1746764843,
+        "rank": 36,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 42931,
+        "num": 135705,
+        "word": "原神5.6版本二创",
+        "onboard_time": 1746772701,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133815,
+        "num": 133815,
+        "word": "罗予彤憋着眼泪一直练",
+        "onboard_time": 1746772821,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7108,
+        "num": 133116,
+        "word": "牛油果何以毁掉墨西哥",
+        "onboard_time": 1746772942,
+        "rank": 39,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 132982,
+        "num": 132982,
+        "word": "孙颖莎嘉人销量",
+        "onboard_time": 1746763822,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132911,
+        "num": 132911,
+        "word": "宋妍霏单手撑地起",
+        "onboard_time": 1746773061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126997,
+        "num": 126997,
+        "word": "idle泄曲",
+        "onboard_time": 1746768862,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126003,
+        "num": 126003,
+        "word": "19岁的黄多多",
+        "onboard_time": 1746719002,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123039,
+        "num": 123039,
+        "word": "做事主要靠临时起意和死到临头",
+        "onboard_time": 1746772881,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 119762,
+        "num": 119762,
+        "word": "女子发现出国丈夫与情人同居多年",
+        "onboard_time": 1746762562,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118742,
+        "num": 118742,
+        "word": "新说唱节目组格局",
+        "onboard_time": 1746771202,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 116108,
+        "word": "中芯国际跌超6%",
+        "onboard_time": 1746770242,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116024,
+        "num": 116024,
+        "word": "特朗普称或将下调对华145%关税",
+        "onboard_time": 1746759500,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104785,
+        "num": 104785,
+        "word": "甘肃省原副省长赵金云被决定逮捕",
+        "onboard_time": 1746766285,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄人民付出巨大牺牲赢得伟大胜利#"
+    }
+  }
+}
