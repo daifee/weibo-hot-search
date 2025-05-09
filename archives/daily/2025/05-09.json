@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746789660998,
+  "endTime": 1746790645691,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -179,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 894026,
+      "num": 499327,
+      "word": "何超莲回复窦骁生日祝福",
+      "onboard_time": 1746786262,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 843685,
       "num": 843685,
       "word": "阅兵",
@@ -211,20 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 832137,
-      "num": 499327,
-      "word": "何超莲回复窦骁生日祝福",
-      "onboard_time": 1746786262,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 807415,
       "num": 494483,
       "word": "全日制单身",
       "onboard_time": 1746782122,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742775,
+      "num": 1118844,
+      "word": "原来你一直把蛋挞读错了",
+      "onboard_time": 1746783022,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735611,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579012,
-      "num": 579012,
-      "word": "原来你一直把蛋挞读错了",
-      "onboard_time": 1746783022,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 555848,
       "num": 230097,
       "word": "重庆大学已成立专项工作组",
@@ -392,6 +392,14 @@
       "word": "广州暴雨",
       "onboard_time": 1746752961,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500346,
+      "num": 500346,
+      "word": "环球小姐伪造学历入读港大获刑240天",
+      "onboard_time": 1746786622,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -451,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440756,
-      "num": 487674,
-      "word": "环球小姐伪造学历入读港大获刑240天",
-      "onboard_time": 1746786622,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 439825,
       "num": 439825,
       "word": "唐国强锐评短剧悲哀原因",
@@ -497,6 +497,14 @@
       "onboard_time": 1746782661,
       "rank": 7,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 385636,
+      "num": 385636,
+      "word": "第一次见到大体老师",
+      "onboard_time": 1746785721,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 382799,
@@ -867,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251929,
-      "num": 251929,
-      "word": "第一次见到大体老师",
-      "onboard_time": 1746785721,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 251718,
       "num": 728428,
       "word": "空空导弹是24小时无人自动化生产",
@@ -931,6 +931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237441,
+      "num": 579738,
+      "word": "种地吧官微10分钟访问量暴涨100万",
+      "onboard_time": 1746786562,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233523,
       "num": 233523,
       "word": "优酷纪录片2025片单",
@@ -969,14 +977,6 @@
       "onboard_time": 1746772701,
       "rank": 23,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 228055,
-      "num": 579738,
-      "word": "种地吧官微10分钟访问量暴涨100万",
-      "onboard_time": 1746786562,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223044,
@@ -1515,6 +1515,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 174439,
+      "num": 570583,
+      "word": "曝印度要求美国免除所有关税",
+      "onboard_time": 1746789021,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174224,
       "num": 270119,
       "word": "虞书欣定点饭撒不理解但尊重",
@@ -1675,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160425,
+      "num": 544991,
+      "word": "中方回应能否恢复日本水产品进口",
+      "onboard_time": 1746788302,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "赴山海这段成毅来了都得笑半小时",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1746773061,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152563,
+      "num": 152563,
+      "word": "女子因100多个工作群崩溃报复性进食",
+      "onboard_time": 1746788060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149873,
@@ -1817,14 +1841,6 @@
       "onboard_time": 1746779842,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 142819,
-      "num": 142819,
-      "word": "女子因100多个工作群崩溃报复性进食",
-      "onboard_time": 1746788060,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141557,
@@ -2171,6 +2187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118497,
+      "num": 529894,
+      "word": "郑钦文vs达尼洛维奇",
+      "onboard_time": 1746788901,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118152,
       "num": 237981,
       "word": "新员工病逝公司拖缴社保被判赔11万",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1746770242,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115791,
+      "num": 115791,
+      "word": "凤凰古城",
+      "onboard_time": 1746786502,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 114726,
@@ -2331,6 +2363,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 109453,
+      "num": 151630,
+      "word": "腾讯是捅了恋综窝了吧",
+      "onboard_time": 1746790400,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109415,
       "num": 109415,
       "word": "学校是世界上最好减肥的地方",
@@ -2361,14 +2401,6 @@
       "onboard_time": 1746754881,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108485,
-      "num": 544991,
-      "word": "中方回应能否恢复日本水产品进口",
-      "onboard_time": 1746788302,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107179,
@@ -2403,16 +2435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104027,
-      "num": 104027,
-      "word": "凤凰古城",
-      "onboard_time": 1746786502,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 102587,
-      "num": 102587,
+      "num": 117219,
       "word": "赵一博沈月爱情保安",
       "onboard_time": 1746787941,
       "rank": 48,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1746786562,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91925,
+      "num": 91925,
+      "word": "原来真有人命好到一塌糊涂",
+      "onboard_time": 1746790521,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 90270,
@@ -2585,6 +2617,14 @@
       "onboard_time": 1746780322,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77819,
+      "num": 167517,
+      "word": "新人婚宴被要求不给钱不上菜",
+      "onboard_time": 1746788962,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77626,
@@ -2763,12 +2803,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 59836,
-      "num": 529894,
-      "word": "郑钦文vs达尼洛维奇",
-      "onboard_time": 1746788901,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 60179,
+      "num": 351113,
+      "word": "高圆圆演着演着本体出来了",
+      "onboard_time": 1746787520,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 59463,
@@ -2843,20 +2883,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 46643,
+      "num": 474849,
+      "word": "淘宝直播20亿红包抢疯了",
+      "onboard_time": 1746788481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46104,
       "num": 63670,
       "word": "西安冰雹",
       "onboard_time": 1746705382,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45966,
-      "num": 570583,
-      "word": "曝印度要求美国免除所有关税",
-      "onboard_time": 1746789021,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45031,
@@ -2873,14 +2913,6 @@
       "onboard_time": 1746746418,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44632,
-      "num": 474849,
-      "word": "淘宝直播20亿红包抢疯了",
-      "onboard_time": 1746788481,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 44553,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1746785061,
       "rank": 14,
       "category": "舆论监督,财经"
-    },
-    {
-      "raw_hot": 39923,
-      "num": 167517,
-      "word": "新人婚宴被要求不给钱不上菜",
-      "onboard_time": 1746788962,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39765,
@@ -3027,6 +3051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29448,
+      "num": 123739,
+      "word": "巴基斯坦展示印度无人机残骸",
+      "onboard_time": 1746789801,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29006,
       "num": 141645,
       "word": "为什么说不要和同事交心",
@@ -3107,6 +3139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25229,
+      "num": 131053,
+      "word": "英伟达是如何制造算力焦虑的",
+      "onboard_time": 1746788541,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 24867,
       "num": 456856,
       "word": "氨糖真的能救关节吗",
@@ -3136,6 +3176,14 @@
       "word": "客服用冥币侮辱顾客该如何担责",
       "onboard_time": 1746782481,
       "rank": 24,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 22405,
+      "num": 424022,
+      "word": "网上玩梗的边界在哪儿",
+      "onboard_time": 1746788780,
+      "rank": 18,
       "category": "议题讨论"
     },
     {
@@ -3193,14 +3241,6 @@
       "onboard_time": 1746746839,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20155,
-      "num": 424022,
-      "word": "网上玩梗的边界在哪儿",
-      "onboard_time": 1746788780,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 19977,
@@ -3289,14 +3329,6 @@
       "onboard_time": 1746720201,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14783,
-      "num": 131053,
-      "word": "英伟达是如何制造算力焦虑的",
-      "onboard_time": 1746788541,
-      "rank": 39,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 13990,
