@@ -1,6 +1,6 @@
 {
   "startTime": 1746721956680,
-  "endTime": 1746787456596,
+  "endTime": 1746789660998,
   "band_list": [
     {
       "raw_hot": 2082065,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 906353,
+      "num": 511307,
+      "word": "老人摘十斤樱桃摆路边被人顺走",
+      "onboard_time": 1746785001,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899682,
       "num": 1143949,
       "word": "本科生发表14篇SCI论文可能性有多大",
@@ -201,6 +209,14 @@
       "onboard_time": 1746746659,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 832137,
+      "num": 499327,
+      "word": "何超莲回复窦骁生日祝福",
+      "onboard_time": 1746786262,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 807415,
@@ -257,14 +273,6 @@
       "onboard_time": 1746781221,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 658048,
-      "num": 493966,
-      "word": "老人摘十斤樱桃摆路边被人顺走",
-      "onboard_time": 1746785001,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 657905,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579012,
+      "num": 579012,
+      "word": "原来你一直把蛋挞读错了",
+      "onboard_time": 1746783022,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555848,
       "num": 230097,
       "word": "重庆大学已成立专项工作组",
@@ -376,14 +392,6 @@
       "word": "广州暴雨",
       "onboard_time": 1746752961,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506918,
-      "num": 506918,
-      "word": "原来你一直把蛋挞读错了",
-      "onboard_time": 1746783022,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -441,6 +449,14 @@
       "onboard_time": 1746715763,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440756,
+      "num": 487674,
+      "word": "环球小姐伪造学历入读港大获刑240天",
+      "onboard_time": 1746786622,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439825,
@@ -617,14 +633,6 @@
       "onboard_time": 1746707302,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320205,
-      "num": 320205,
-      "word": "何超莲回复窦骁生日祝福",
-      "onboard_time": 1746786262,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 318377,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251929,
+      "num": 251929,
+      "word": "第一次见到大体老师",
+      "onboard_time": 1746785721,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251718,
       "num": 728428,
       "word": "空空导弹是24小时无人自动化生产",
@@ -953,6 +969,14 @@
       "onboard_time": 1746772701,
       "rank": 23,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 228055,
+      "num": 579738,
+      "word": "种地吧官微10分钟访问量暴涨100万",
+      "onboard_time": 1746786562,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223044,
@@ -1147,14 +1171,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 204490,
-      "num": 177002,
-      "word": "第一次见到大体老师",
-      "onboard_time": 1746785721,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204253,
       "num": 204253,
       "word": "一直以为看虾仁是件很小众的事情",
@@ -1180,7 +1196,7 @@
     },
     {
       "raw_hot": 202698,
-      "num": 233434,
+      "num": 450527,
       "word": "长相完美听障女孩宸玥回应整容",
       "onboard_time": 1746783801,
       "rank": 25,
@@ -1345,14 +1361,6 @@
       "onboard_time": 1746761241,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187900,
-      "num": 200974,
-      "word": "种地吧官微10分钟访问量暴涨100万",
-      "onboard_time": 1746786562,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 187896,
@@ -1627,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164402,
+      "num": 169248,
+      "word": "网传虞书欣丁禹兮都去中餐厅",
+      "onboard_time": 1746788481,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163833,
       "num": 282569,
       "word": "乘风四公大片",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1746779842,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142819,
+      "num": 142819,
+      "word": "女子因100多个工作群崩溃报复性进食",
+      "onboard_time": 1746788060,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141557,
@@ -2339,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108485,
+      "num": 544991,
+      "word": "中方回应能否恢复日本水产品进口",
+      "onboard_time": 1746788302,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107179,
       "num": 107179,
       "word": "森林狼回应爱德华兹受伤",
@@ -2368,6 +2400,22 @@
       "word": "电影电视剧短剧化",
       "onboard_time": 1746765445,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104027,
+      "num": 104027,
+      "word": "凤凰古城",
+      "onboard_time": 1746786502,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 102587,
+      "num": 102587,
+      "word": "赵一博沈月爱情保安",
+      "onboard_time": 1746787941,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2419,12 +2467,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91600,
-      "num": 487674,
-      "word": "环球小姐伪造学历入读港大获刑240天",
-      "onboard_time": 1746786622,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 92559,
+      "num": 486402,
+      "word": "美国农民发愁鸡爪鱼头找不到买家",
+      "onboard_time": 1746786562,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90270,
@@ -2659,14 +2707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63046,
-      "num": 486402,
-      "word": "美国农民发愁鸡爪鱼头找不到买家",
-      "onboard_time": 1746786562,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 62795,
       "num": 234304,
       "word": "便利店偶遇文淇",
@@ -2721,6 +2761,14 @@
       "onboard_time": 1746735854,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59836,
+      "num": 529894,
+      "word": "郑钦文vs达尼洛维奇",
+      "onboard_time": 1746788901,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 59463,
@@ -2803,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45966,
+      "num": 570583,
+      "word": "曝印度要求美国免除所有关税",
+      "onboard_time": 1746789021,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45031,
       "num": 528121,
       "word": "比了才知道夸克AI搜商有多高",
@@ -2819,8 +2875,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44632,
+      "num": 474849,
+      "word": "淘宝直播20亿红包抢疯了",
+      "onboard_time": 1746788481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44553,
-      "num": 504041,
+      "num": 559134,
       "word": "2分钟了解民营经济促进法",
       "onboard_time": 1746782481,
       "rank": 18,
@@ -2833,6 +2897,14 @@
       "onboard_time": 1746785301,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43577,
+      "num": 122398,
+      "word": "魔卡少女樱还是太权威了",
+      "onboard_time": 1746787821,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 43034,
@@ -2857,6 +2929,22 @@
       "onboard_time": 1746785061,
       "rank": 14,
       "category": "舆论监督,财经"
+    },
+    {
+      "raw_hot": 39923,
+      "num": 167517,
+      "word": "新人婚宴被要求不给钱不上菜",
+      "onboard_time": 1746788962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39765,
+      "num": 488771,
+      "word": "荣昌机关食堂请全区环卫工吃卤鹅",
+      "onboard_time": 1746788421,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 38519,
@@ -2987,12 +3075,28 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 27474,
+      "num": 141653,
+      "word": "印度高温为何如此致命",
+      "onboard_time": 1746787282,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 26985,
       "num": 187737,
       "word": "早高峰遇暴雨男生光脚上阵拼全勤",
       "onboard_time": 1746771082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25768,
+      "num": 416695,
+      "word": "咬胡夏的蝉是什么品种",
+      "onboard_time": 1746788541,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25288,
@@ -3091,6 +3195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20155,
+      "num": 424022,
+      "word": "网上玩梗的边界在哪儿",
+      "onboard_time": 1746788780,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 19977,
       "num": 20501,
       "word": "苏新皓全黑发带look",
@@ -3113,6 +3225,14 @@
       "onboard_time": 1746777683,
       "rank": 39,
       "category": "民生新闻,其它"
+    },
+    {
+      "raw_hot": 18808,
+      "num": 139175,
+      "word": "祖国终将记住奉献于祖国的人",
+      "onboard_time": 1746788780,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18573,
@@ -3169,6 +3289,14 @@
       "onboard_time": 1746720201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14783,
+      "num": 131053,
+      "word": "英伟达是如何制造算力焦虑的",
+      "onboard_time": 1746788541,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 13990,
@@ -3257,14 +3385,6 @@
       "onboard_time": 1746771682,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 8117,
-      "num": 141653,
-      "word": "印度高温为何如此致命",
-      "onboard_time": 1746787282,
-      "rank": 39,
-      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 7108,
