@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746886899634,
+  "endTime": 1746887967680,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -3443,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 674487,
+      "num": 674487,
+      "word": "青岛行人相撞案相关法院道歉",
+      "onboard_time": 1746885562,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672757,
       "num": 672757,
       "word": "陕西漂流翻船当事人说2个座挤5个人",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1746419542,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562634,
+      "num": 562634,
+      "word": "颜安 下镜",
+      "onboard_time": 1746885143,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 561227,
@@ -6001,14 +6017,6 @@
       "onboard_time": 1746599902,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437247,
-      "num": 437247,
-      "word": "青岛行人相撞案相关法院道歉",
-      "onboard_time": 1746885562,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 437103,
@@ -7611,14 +7619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345877,
-      "num": 358497,
-      "word": "颜安 下镜",
-      "onboard_time": 1746885143,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345775,
       "num": 345775,
       "word": "医院回应女生输头孢过敏离世",
@@ -7745,6 +7745,14 @@
       "onboard_time": 1746347062,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 340776,
+      "num": 371804,
+      "word": "法院回应两行人相撞案",
+      "onboard_time": 1746885502,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340302,
@@ -8099,6 +8107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326963,
+      "num": 396866,
+      "word": "周迅起床了天塌了",
+      "onboard_time": 1746883884,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324681,
       "num": 324681,
       "word": "三亚通报网友买水果九斤变六斤",
@@ -8201,14 +8217,6 @@
       "onboard_time": 1746499760,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320388,
-      "num": 371804,
-      "word": "法院回应两行人相撞案",
-      "onboard_time": 1746885502,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320087,
@@ -9779,14 +9787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267495,
-      "num": 233688,
-      "word": "周迅起床了天塌了",
-      "onboard_time": 1746883884,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267417,
       "num": 267417,
       "word": "苏杯中国2比1韩国",
@@ -10241,6 +10241,14 @@
       "onboard_time": 1746354802,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258131,
+      "num": 258131,
+      "word": "梦泪捧杯",
+      "onboard_time": 1746886162,
+      "rank": 31,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 258032,
@@ -11067,6 +11075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238039,
+      "num": 238039,
+      "word": "歼35让中国海军实现作战能力最大化",
+      "onboard_time": 1746886342,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237441,
       "num": 579738,
       "word": "种地吧官微10分钟访问量暴涨100万",
@@ -11193,14 +11209,6 @@
       "onboard_time": 1746161850,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 233359,
-      "num": 233359,
-      "word": "歼35让中国海军实现作战能力最大化",
-      "onboard_time": 1746886342,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233142,
@@ -11801,14 +11809,6 @@
       "onboard_time": 1746454284,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221962,
-      "num": 221962,
-      "word": "梦泪捧杯",
-      "onboard_time": 1746886162,
-      "rank": 31,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 221890,
@@ -13939,6 +13939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198658,
+      "num": 355379,
+      "word": "邓为空降",
+      "onboard_time": 1746882443,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198558,
       "num": 198558,
       "word": "蜜雪冰城做饭",
@@ -13993,6 +14001,14 @@
       "onboard_time": 1746090742,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198112,
+      "num": 198112,
+      "word": "石凯被P掉了",
+      "onboard_time": 1746887723,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 198078,
@@ -15227,6 +15243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190345,
+      "num": 190345,
+      "word": "周诗雨万人迷",
+      "onboard_time": 1746886824,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190276,
       "num": 190276,
       "word": "何超莲晒和家人庆生照",
@@ -16337,6 +16361,14 @@
       "onboard_time": 1746687923,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182525,
+      "num": 182525,
+      "word": "心疼梦岚",
+      "onboard_time": 1746887303,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 182477,
@@ -18627,14 +18659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164072,
-      "num": 164072,
-      "word": "邓为空降",
-      "onboard_time": 1746882443,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164025,
       "num": 164025,
       "word": "许嵩 今年巡演最北城市是天津",
@@ -19611,6 +19635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157360,
+      "num": 157360,
+      "word": "刘奕畅演戏吓的薛家燕后退",
+      "onboard_time": 1746886642,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157278,
       "num": 157278,
       "word": "张远一开口青春就回来了",
@@ -20451,6 +20483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152415,
+      "num": 152415,
+      "word": "冠军教练Zwy",
+      "onboard_time": 1746886882,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152403,
       "num": 282411,
       "word": "80后国企财务成短剧恶婆婆专业户",
@@ -21001,6 +21041,14 @@
       "onboard_time": 1746754701,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148707,
+      "num": 148707,
+      "word": "长生头发好萌",
+      "onboard_time": 1746887242,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 148648,
@@ -22019,6 +22067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142695,
+      "num": 142695,
+      "word": "K1射一诺",
+      "onboard_time": 1746887903,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142673,
       "num": 142673,
       "word": "理想称李想年薪6.39亿不准确",
@@ -22081,14 +22137,6 @@
       "onboard_time": 1746612023,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 141977,
-      "num": 141977,
-      "word": "周诗雨万人迷",
-      "onboard_time": 1746886824,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 141968,
@@ -23715,6 +23763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132899,
+      "num": 132899,
+      "word": "丁真演技",
+      "onboard_time": 1746887184,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132896,
       "num": 158010,
       "word": "唐宫奇案首发先导片",
@@ -24289,6 +24345,14 @@
       "onboard_time": 1746852871,
       "rank": 48,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 129953,
+      "num": 481319,
+      "word": "敏感肌被赵丽颖种草了",
+      "onboard_time": 1746886642,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 129952,
@@ -25409,6 +25473,14 @@
       "onboard_time": 1746804082,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124756,
+      "num": 124756,
+      "word": "钟意大满贯冠军打野",
+      "onboard_time": 1746887723,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 124707,
@@ -27699,6 +27771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109415,
+      "num": 440776,
+      "word": "许多印度人开始囤积性抢购",
+      "onboard_time": 1746886943,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109387,
       "num": 109387,
       "word": "火象星座需要引导型的爱",
@@ -29113,14 +29193,6 @@
       "onboard_time": 1746437061,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98633,
-      "num": 233588,
-      "word": "敏感肌被赵丽颖种草了",
-      "onboard_time": 1746886642,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 98618,
@@ -34504,6 +34576,14 @@
       "word": "连环性侵案背后那些出庭作证的女性",
       "onboard_time": 1746608662,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35512,
+      "num": 228508,
+      "word": "学术的严肃不容近水楼台随意松动",
+      "onboard_time": 1746887723,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
