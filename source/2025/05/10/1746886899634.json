@@ -1,0 +1,410 @@
+{
+  "runTime": 1746886899634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2474104,
+        "num": 2474104,
+        "word": "AG夺冠",
+        "onboard_time": 1746884065,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2110507,
+        "num": 2110507,
+        "word": "退休夫妻月入1.2万负债1.2亿",
+        "onboard_time": 1746882142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39824,
+        "num": 1812509,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1774468,
+        "num": 1774468,
+        "word": "艺人吃中国饭砸中国锅绝不容忍",
+        "onboard_time": 1746878722,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1154904,
+        "num": 1154904,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50532,
+        "num": 1073663,
+        "word": "送给妈妈的暖心漫画",
+        "onboard_time": 1746884544,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051993,
+        "num": 1051993,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478523,
+        "num": 478523,
+        "word": "赴山海剧组好六预告",
+        "onboard_time": 1746883224,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437247,
+        "num": 437247,
+        "word": "青岛行人相撞案相关法院道歉",
+        "onboard_time": 1746885562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387882,
+        "num": 387882,
+        "word": "上海浦东机场T1被曝开放24小时安检",
+        "onboard_time": 1746882082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 824558,
+        "num": 384117,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626126,
+        "num": 381023,
+        "word": "时代峰峻声明",
+        "onboard_time": 1746880281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597392,
+        "num": 379553,
+        "word": "花少北 734",
+        "onboard_time": 1746879863,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 573546,
+        "num": 373342,
+        "word": "会癌变的痣一般有5个特征",
+        "onboard_time": 1746880882,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320388,
+        "num": 371804,
+        "word": "法院回应两行人相撞案",
+        "onboard_time": 1746885502,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523712,
+        "num": 368183,
+        "word": "赴山海除名李凯馨",
+        "onboard_time": 1746868222,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414836,
+        "num": 361937,
+        "word": "印度",
+        "onboard_time": 1746879023,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345877,
+        "num": 358497,
+        "word": "颜安 下镜",
+        "onboard_time": 1746885143,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357358,
+        "num": 357358,
+        "word": "钟意FMVP",
+        "onboard_time": 1746884482,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212509,
+        "num": 338819,
+        "word": "刘学义提到白茶咬牙切齿",
+        "onboard_time": 1746885203,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330139,
+        "num": 330139,
+        "word": "鞠婧祎额头受伤",
+        "onboard_time": 1746876442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292518,
+        "num": 292518,
+        "word": "赴山海",
+        "onboard_time": 1746880762,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284882,
+        "num": 284882,
+        "word": "女子金手镯剪开流出液体疑遇注水黄金",
+        "onboard_time": 1746879323,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234193,
+        "num": 234193,
+        "word": "张杰请把墨镜焊死在脸上",
+        "onboard_time": 1746880882,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230660,
+        "num": 234100,
+        "word": "章若楠公主盘发",
+        "onboard_time": 1746882561,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168206,
+        "num": 233997,
+        "word": "首部AI短剧",
+        "onboard_time": 1746878843,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267172,
+        "num": 233902,
+        "word": "AG的春天不留遗憾",
+        "onboard_time": 1746884303,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267495,
+        "num": 233688,
+        "word": "周迅起床了天塌了",
+        "onboard_time": 1746883884,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98633,
+        "num": 233588,
+        "word": "敏感肌被赵丽颖种草了",
+        "onboard_time": 1746886642,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76371,
+        "num": 233477,
+        "word": "AG夺冠后发文纪录由我们创造",
+        "onboard_time": 1746885983,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233359,
+        "num": 233359,
+        "word": "歼35让中国海军实现作战能力最大化",
+        "onboard_time": 1746886342,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221962,
+        "num": 221962,
+        "word": "梦泪捧杯",
+        "onboard_time": 1746886162,
+        "rank": 31,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 187062,
+        "num": 187062,
+        "word": "王铮亮发博祝贺AG",
+        "onboard_time": 1746885983,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167184,
+        "num": 185788,
+        "word": "你好星期六",
+        "onboard_time": 1746880344,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185218,
+        "num": 185218,
+        "word": "结婚无需户口本首日爸妈们有话说",
+        "onboard_time": 1746882801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182974,
+        "num": 182974,
+        "word": "轩染 AG天下无敌",
+        "onboard_time": 1746885802,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164072,
+        "num": 164072,
+        "word": "邓为空降",
+        "onboard_time": 1746882443,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156277,
+        "num": 156277,
+        "word": "直击中美经贸高层会谈",
+        "onboard_time": 1746877762,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154364,
+        "num": 154364,
+        "word": "高叶眼睛在哭嘴巴在笑",
+        "onboard_time": 1746885263,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149738,
+        "num": 149738,
+        "word": "潘玮柏出道以来露最多的一次",
+        "onboard_time": 1746883042,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149115,
+        "num": 149115,
+        "word": "吴宣仪王权醉素妆哭戏破碎感",
+        "onboard_time": 1746883464,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90884,
+        "num": 147200,
+        "word": "巴基斯坦对所有航班重新开放领空",
+        "onboard_time": 1746884963,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146528,
+        "num": 146528,
+        "word": "虞书欣直播",
+        "onboard_time": 1746873081,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145367,
+        "num": 145367,
+        "word": "奇瑞董事长称有些车企胆子太大",
+        "onboard_time": 1746884723,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143220,
+        "num": 143220,
+        "word": "贺峻霖去看张杰演唱会了",
+        "onboard_time": 1746879562,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141977,
+        "num": 141977,
+        "word": "周诗雨万人迷",
+        "onboard_time": 1746886824,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141825,
+        "num": 141825,
+        "word": "钟意要挑战花海七冠打野",
+        "onboard_time": 1746885502,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141372,
+        "num": 141372,
+        "word": "钟意获春决MVP",
+        "onboard_time": 1746885143,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140639,
+        "num": 140639,
+        "word": "印度70%电网瘫痪当地华人发声",
+        "onboard_time": 1746879562,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124698,
+        "num": 140215,
+        "word": "樊振东唱歌表白妈妈",
+        "onboard_time": 1746881542,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首达成许多新的重要共识#"
+    }
+  }
+}

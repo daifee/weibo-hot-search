@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746884491705,
+  "endTime": 1746886899634,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -113,6 +113,14 @@
       "onboard_time": 1746366446,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2474104,
+      "num": 2474104,
+      "word": "AG夺冠",
+      "onboard_time": 1746884065,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 2470835,
@@ -849,14 +857,6 @@
       "onboard_time": 1746793041,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1220792,
-      "num": 1220792,
-      "word": "AG夺冠",
-      "onboard_time": 1746884065,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 1212314,
@@ -2811,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 626126,
+      "num": 598026,
+      "word": "时代峰峻声明",
+      "onboard_time": 1746880281,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624250,
       "num": 624250,
       "word": "不要在路边摊随便买东西吃了",
@@ -2953,14 +2961,6 @@
       "onboard_time": 1746410241,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 598026,
-      "num": 598026,
-      "word": "时代峰峻声明",
-      "onboard_time": 1746880281,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 597298,
@@ -3875,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478523,
+      "num": 478523,
+      "word": "赴山海剧组好六预告",
+      "onboard_time": 1746883224,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478343,
       "num": 299107,
       "word": "张云龙又吵架了还吵输了",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1746599902,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437247,
+      "num": 437247,
+      "word": "青岛行人相撞案相关法院道歉",
+      "onboard_time": 1746885562,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437103,
@@ -5283,14 +5299,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 360769,
-      "num": 360769,
-      "word": "赴山海剧组好六预告",
-      "onboard_time": 1746883224,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359357,
       "num": 359357,
       "word": "和三观不正的人聊天像在录口供",
@@ -5321,6 +5329,14 @@
       "onboard_time": 1746782241,
       "rank": 22,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 357358,
+      "num": 357358,
+      "word": "钟意FMVP",
+      "onboard_time": 1746884482,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 356951,
@@ -5497,6 +5513,14 @@
       "onboard_time": 1746705023,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345877,
+      "num": 358497,
+      "word": "颜安 下镜",
+      "onboard_time": 1746885143,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 345775,
@@ -5921,6 +5945,14 @@
       "onboard_time": 1746499760,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320388,
+      "num": 371804,
+      "word": "法院回应两行人相撞案",
+      "onboard_time": 1746885502,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319841,
@@ -7075,12 +7107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267495,
+      "num": 233688,
+      "word": "周迅起床了天塌了",
+      "onboard_time": 1746883884,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267417,
       "num": 267417,
       "word": "苏杯中国2比1韩国",
       "onboard_time": 1746352403,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267172,
+      "num": 259641,
+      "word": "AG的春天不留遗憾",
+      "onboard_time": 1746884303,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 266962,
@@ -8163,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233359,
+      "num": 233359,
+      "word": "歼35让中国海军实现作战能力最大化",
+      "onboard_time": 1746886342,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233142,
       "num": 407946,
       "word": "胖东升被指抄袭胖东来工作人员回应",
@@ -8627,6 +8683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221962,
+      "num": 221962,
+      "word": "梦泪捧杯",
+      "onboard_time": 1746886162,
+      "rank": 31,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "安洗莹不想看了",
@@ -9016,6 +9080,14 @@
       "word": "邓超用我的梗你无需自卑",
       "onboard_time": 1746680123,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212509,
+      "num": 338819,
+      "word": "刘学义提到白茶咬牙切齿",
+      "onboard_time": 1746885203,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -11491,6 +11563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187062,
+      "num": 187062,
+      "word": "王铮亮发博祝贺AG",
+      "onboard_time": 1746885983,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186872,
       "num": 186872,
       "word": "肖战一二零七以谍报挽战局",
@@ -11801,6 +11881,14 @@
       "onboard_time": 1746581422,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 182974,
+      "num": 182974,
+      "word": "轩染 AG天下无敌",
+      "onboard_time": 1746885802,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 182884,
@@ -13531,6 +13619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164072,
+      "num": 164072,
+      "word": "邓为空降",
+      "onboard_time": 1746882443,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164013,
       "num": 164013,
       "word": "这就是顶级水课老师吗",
@@ -14251,14 +14347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156914,
-      "num": 156914,
-      "word": "邓为空降",
-      "onboard_time": 1746882443,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156886,
       "num": 272862,
       "word": "旅游大巴司机边开车边刷视频近半小时",
@@ -14529,6 +14617,14 @@
       "onboard_time": 1746681321,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 154364,
+      "num": 154364,
+      "word": "高叶眼睛在哭嘴巴在笑",
+      "onboard_time": 1746885263,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 154352,
@@ -15475,6 +15571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145367,
+      "num": 145367,
+      "word": "奇瑞董事长称有些车企胆子太大",
+      "onboard_time": 1746884723,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145213,
       "num": 145213,
       "word": "梁伟铿回应中国队夺冠",
@@ -15665,14 +15769,6 @@
       "onboard_time": 1746520582,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143923,
-      "num": 259641,
-      "word": "AG的春天不留遗憾",
-      "onboard_time": 1746884303,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 143873,
@@ -15891,11 +15987,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141977,
+      "num": 141977,
+      "word": "周诗雨万人迷",
+      "onboard_time": 1746886824,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141888,
       "num": 141888,
       "word": "JDG对战WE",
       "onboard_time": 1746526882,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 141825,
+      "num": 141825,
+      "word": "钟意要挑战花海七冠打野",
+      "onboard_time": 1746885502,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -15945,6 +16057,14 @@
       "onboard_time": 1746759922,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141372,
+      "num": 141372,
+      "word": "钟意获春决MVP",
+      "onboard_time": 1746885143,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 141303,
@@ -16409,14 +16529,6 @@
       "onboard_time": 1746270501,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138102,
-      "num": 138102,
-      "word": "周迅起床了天塌了",
-      "onboard_time": 1746883884,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 137748,
@@ -20491,6 +20603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98633,
+      "num": 233588,
+      "word": "敏感肌被赵丽颖种草了",
+      "onboard_time": 1746886642,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98618,
       "num": 98618,
       "word": "女子没喊爸妈被公婆指责没教养",
@@ -20913,6 +21033,14 @@
       "onboard_time": 1746633201,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 90884,
+      "num": 147200,
+      "word": "巴基斯坦对所有航班重新开放领空",
+      "onboard_time": 1746884963,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90810,
@@ -21721,6 +21849,14 @@
       "onboard_time": 1746435920,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 76371,
+      "num": 233477,
+      "word": "AG夺冠后发文纪录由我们创造",
+      "onboard_time": 1746885983,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 76351,
@@ -23065,6 +23201,14 @@
       "onboard_time": 1746582082,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50532,
+      "num": 1073663,
+      "word": "送给妈妈的暖心漫画",
+      "onboard_time": 1746884544,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50393,
