@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746849054226,
+  "endTime": 1746851371695,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1807846,
+      "num": 286819,
+      "word": "赴山海女主",
+      "onboard_time": 1746848852,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1376907,
       "num": 1376907,
       "word": "雷军说过去1个月是创业最艰难时期",
       "onboard_time": 1746835461,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1170932,
+      "num": 1187349,
+      "word": "17岁到67岁 你居然不爱我了",
+      "onboard_time": 1746845791,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 981094,
@@ -35,7 +51,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 924964,
+      "raw_hot": 931953,
       "num": 1360395,
       "word": "印度战机被击落飞行员被俘",
       "onboard_time": 1746847832,
@@ -65,14 +81,6 @@
       "onboard_time": 1746835461,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 853505,
-      "num": 853505,
-      "word": "17岁到67岁 你居然不爱我了",
-      "onboard_time": 1746845791,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 730984,
@@ -107,19 +115,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 599140,
+      "num": 354142,
+      "word": "印巴冲突",
+      "onboard_time": 1746848191,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 574688,
       "num": 363396,
       "word": "巴基斯坦",
       "onboard_time": 1746834739,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 564169,
-      "num": 354142,
-      "word": "印巴冲突",
-      "onboard_time": 1746848191,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1746792201,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535801,
+      "num": 535801,
+      "word": "00后开始反向富养妈妈了",
+      "onboard_time": 1746845550,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 524875,
@@ -169,14 +185,6 @@
       "onboard_time": 1746796402,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 467801,
-      "num": 397469,
-      "word": "00后开始反向富养妈妈了",
-      "onboard_time": 1746845550,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 466157,
@@ -299,6 +307,22 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 338507,
+      "num": 277872,
+      "word": "周杰伦ins点赞狮城山海",
+      "onboard_time": 1746849151,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318110,
+      "num": 318110,
+      "word": "张杰回复宋亚轩呀好xuan",
+      "onboard_time": 1746848852,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312043,
       "num": 312043,
       "word": "大批韩国游客涌入盐城打高尔夫",
@@ -313,6 +337,14 @@
       "onboard_time": 1746801264,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306989,
+      "num": 276769,
+      "word": "男子地铁遗失400万警方拒绝归还",
+      "onboard_time": 1746850591,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304818,
@@ -419,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224124,
+      "num": 284451,
+      "word": "范丞丞的C张真源的O到底是什么",
+      "onboard_time": 1746850470,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222940,
       "num": 222940,
       "word": "贵州发现罕见幽灵之花",
       "onboard_time": 1746795023,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216748,
+      "num": 216748,
+      "word": "陈梦官宣去踢足球",
+      "onboard_time": 1746851251,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 216288,
@@ -435,12 +483,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 215344,
-      "num": 215344,
-      "word": "赴山海女主",
-      "onboard_time": 1746848852,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 213524,
+      "num": 282509,
+      "word": "陈豪被曝养家压力大频繁接戏",
+      "onboard_time": 1746849030,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 210583,
@@ -475,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202018,
+      "num": 282064,
+      "word": "迪丽热巴金靖你们要吵出去吵",
+      "onboard_time": 1746849452,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201095,
       "num": 350860,
       "word": "张杰回复马嘉祺期待小马的未live",
@@ -507,11 +563,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191408,
+      "num": 191408,
+      "word": "第五人格",
+      "onboard_time": 1746851191,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187138,
       "num": 187138,
       "word": "女子按摩遭猥亵技师辩称乳腺不好",
       "onboard_time": 1746834859,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186882,
+      "num": 184073,
+      "word": "14岁女孩被抛尸水井案凶手执行死刑",
+      "onboard_time": 1746849212,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -547,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175672,
+      "num": 175672,
+      "word": "巴方称成功拦截印度导弹",
+      "onboard_time": 1746849572,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174519,
       "num": 174519,
       "word": "答辩季",
@@ -561,6 +641,14 @@
       "onboard_time": 1746836302,
       "rank": 28,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 168470,
+      "num": 168470,
+      "word": "云南人画饼是鲜花饼",
+      "onboard_time": 1746850050,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 164553,
@@ -595,20 +683,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161684,
-      "num": 223552,
-      "word": "张杰回复宋亚轩呀好xuan",
-      "onboard_time": 1746848852,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161332,
       "num": 161332,
       "word": "巴称印发射6枚弹道导弹均落在印领土",
       "onboard_time": 1746848072,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161043,
+      "num": 161043,
+      "word": "妈妈一定不会拒绝的过节方式",
+      "onboard_time": 1746849931,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 160438,
@@ -731,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138695,
+      "num": 236022,
+      "word": "于正剪掉八集等于丢弃了几千万",
+      "onboard_time": 1746849752,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138119,
       "num": 138119,
       "word": "对方撤回了一位帅哥数学老师",
@@ -761,14 +857,6 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130116,
-      "num": 205227,
-      "word": "陈豪被曝养家压力大频繁接戏",
-      "onboard_time": 1746849030,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 129902,
@@ -995,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94400,
+      "num": 280949,
+      "word": "工作人员谈结婚不用户口本登记",
+      "onboard_time": 1746849512,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93606,
       "num": 580973,
       "word": "中文强军战歌响彻红场",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1746845851,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84778,
+      "num": 694047,
+      "word": "17个新职业和42个新工种亮相",
+      "onboard_time": 1746850532,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84677,
@@ -1107,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73679,
+      "num": 174462,
+      "word": "NCTWISH不参加SMTOWN洛杉矶",
+      "onboard_time": 1746850832,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73370,
       "num": 73370,
       "word": "韩国高尔夫球场推荐榜第1名在江苏",
@@ -1144,6 +1256,22 @@
       "word": "全国一年制作发行电视剧3490集",
       "onboard_time": 1746803722,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68734,
+      "num": 278841,
+      "word": "女子回应上门做饭月薪近2万被质疑",
+      "onboard_time": 1746850231,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68039,
+      "num": 210249,
+      "word": "临江仙调色ab版中和了",
+      "onboard_time": 1746850470,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1193,6 +1321,14 @@
       "onboard_time": 1746833538,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 48906,
+      "num": 189961,
+      "word": "巴军集中打击高价值目标",
+      "onboard_time": 1746850172,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44119,
@@ -1299,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30433,
+      "num": 279857,
+      "word": "巴基斯坦为何突然宣布关闭全国领空",
+      "onboard_time": 1746850891,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29881,
       "num": 42264,
       "word": "cp31",
@@ -1339,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22465,
+      "num": 235892,
+      "word": "男子台铁遗失400万因疑点多警方不归还",
+      "onboard_time": 1746850770,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22341,
       "num": 347712,
       "word": "月经周期长短真能反映卵巢健康状况吗",
@@ -1368,6 +1520,22 @@
       "word": "校方回应献血后可减免晨跑和体育课",
       "onboard_time": 1746824474,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17993,
+      "num": 356260,
+      "word": "中俄关系不断焕发出新活力",
+      "onboard_time": 1746850291,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17933,
+      "num": 283147,
+      "word": "夸克不愧是AI届搜商天花板",
+      "onboard_time": 1746849692,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
