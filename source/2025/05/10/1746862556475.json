@@ -1,0 +1,410 @@
+{
+  "runTime": 1746862556475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1691174,
+        "num": 1691174,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 942570,
+        "num": 942570,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129185,
+        "num": 920578,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 903312,
+        "num": 903312,
+        "word": "34岁女生花70万去英国留学一年",
+        "onboard_time": 1746858382,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 688408,
+        "num": 688408,
+        "word": "没人选宋妍霏的原因找到了",
+        "onboard_time": 1746859881,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22102,
+        "num": 637289,
+        "word": "中俄关系不断焕发出新活力",
+        "onboard_time": 1746850291,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607493,
+        "num": 607493,
+        "word": "海外社媒满屏都是刚买的飞机",
+        "onboard_time": 1746855141,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 586813,
+        "num": 586813,
+        "word": "巴基斯坦最新战果曝光",
+        "onboard_time": 1746852692,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405143,
+        "num": 584817,
+        "word": "内娱终于有刀群舞女团了",
+        "onboard_time": 1746855022,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91857,
+        "num": 578488,
+        "word": "巴基斯坦华人为被困同胞送物资",
+        "onboard_time": 1746861622,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2106879,
+        "num": 570538,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800985,
+        "num": 569340,
+        "word": "s400",
+        "onboard_time": 1746858503,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 784101,
+        "num": 562570,
+        "word": "黄俊捷 嘻嘻",
+        "onboard_time": 1746861502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559598,
+        "num": 559598,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16519,
+        "num": 535963,
+        "word": "深度搜索让深度思考成为过去式",
+        "onboard_time": 1746860480,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535640,
+        "num": 535640,
+        "word": "炎亚纶回应汪东城被指变脸",
+        "onboard_time": 1746857002,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489936,
+        "num": 489936,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416525,
+        "num": 416525,
+        "word": "迪丽热巴黑旗袍",
+        "onboard_time": 1746858503,
+        "rank": 17,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 341334,
+        "num": 341334,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8581,
+        "num": 339689,
+        "word": "亚历山大今天该给雷霆背锅吗",
+        "onboard_time": 1746861741,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480786,
+        "num": 339405,
+        "word": "李凯馨",
+        "onboard_time": 1746855442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338651,
+        "num": 338651,
+        "word": "关晓彤晒撕拉片",
+        "onboard_time": 1746852392,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305125,
+        "num": 305125,
+        "word": "高考700分和给你700万你要哪个",
+        "onboard_time": 1746859042,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299350,
+        "num": 299350,
+        "word": "印度否认S400被巴方击毁",
+        "onboard_time": 1746860721,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263260,
+        "num": 263260,
+        "word": "重庆大学撤销刘某乔国奖等荣誉",
+        "onboard_time": 1746860241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261272,
+        "num": 261272,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243418,
+        "num": 243418,
+        "word": "邓超让五哈给79年出生的人道歉",
+        "onboard_time": 1746852692,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151740,
+        "num": 243141,
+        "word": "章子怡等到了李安的拥抱",
+        "onboard_time": 1746860182,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145734,
+        "num": 240704,
+        "word": "歌手",
+        "onboard_time": 1746860602,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145608,
+        "num": 238402,
+        "word": "奔跑吧下期有孟子义李昀锐",
+        "onboard_time": 1746861321,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85460,
+        "num": 236664,
+        "word": "拿万能卡无限刷的男孩选了消防专业",
+        "onboard_time": 1746862402,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236006,
+        "num": 236006,
+        "word": "李凯馨最新动态",
+        "onboard_time": 1746861622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193476,
+        "num": 193476,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185971,
+        "num": 185971,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182690,
+        "num": 182690,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166398,
+        "num": 166398,
+        "word": "14篇SCI论文事件2名当事人被处理",
+        "onboard_time": 1746860542,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154598,
+        "num": 154598,
+        "word": "这居然是内娱女团",
+        "onboard_time": 1746861922,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141526,
+        "num": 141526,
+        "word": "白鹿凤凰神女",
+        "onboard_time": 1746854012,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80424,
+        "num": 141110,
+        "word": "美国老板吐槽3000美元商品关税4600",
+        "onboard_time": 1746862461,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140790,
+        "num": 140790,
+        "word": "100块和1000块美甲的区别",
+        "onboard_time": 1746862160,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133378,
+        "num": 139555,
+        "word": "德容不语德容只是一味训练",
+        "onboard_time": 1746862102,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138862,
+        "num": 138862,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135562,
+        "num": 135562,
+        "word": "杨紫生命树开机vlog",
+        "onboard_time": 1746859340,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131400,
+        "num": 131400,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119044,
+        "num": 119044,
+        "word": "林更新怎么老是被贴脸开大",
+        "onboard_time": 1746861922,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118210,
+        "num": 118210,
+        "word": "芍药",
+        "onboard_time": 1746862281,
+        "rank": 45,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 114759,
+        "num": 114759,
+        "word": "银川地震",
+        "onboard_time": 1746862281,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107357,
+        "num": 107357,
+        "word": "周深没认出张雨绮后续",
+        "onboard_time": 1746860542,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105167,
+        "num": 105167,
+        "word": "JDG官宣Zoom担任教练",
+        "onboard_time": 1746859520,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103030,
+        "num": 103030,
+        "word": "我正过着一种无所谓的生活",
+        "onboard_time": 1746861622,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞两国要传承发扬铁杆友谊#"
+    }
+  }
+}

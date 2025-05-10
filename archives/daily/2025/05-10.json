@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746861724290,
+  "endTime": 1746862556475,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -8,6 +8,14 @@
       "word": "人民日报官博删除赴山海",
       "onboard_time": 1746846931,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2106879,
+      "num": 570538,
+      "word": "李凯馨 录音",
+      "onboard_time": 1746855502,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -20,23 +28,15 @@
     },
     {
       "raw_hot": 2087843,
-      "num": 504862,
+      "num": 559598,
       "word": "赴山海女主",
       "onboard_time": 1746848852,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 2042451,
-      "num": 565105,
-      "word": "李凯馨 录音",
-      "onboard_time": 1746855502,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1560864,
-      "num": 1560864,
+      "raw_hot": 1691174,
+      "num": 1691174,
       "word": "重庆大学通报本科生14篇SCI论文",
       "onboard_time": 1746858081,
       "rank": 9,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1005609,
-      "num": 337594,
+      "num": 338651,
       "word": "关晓彤晒撕拉片",
       "onboard_time": 1746852392,
       "rank": 11,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 942570,
+      "num": 942570,
+      "word": "巴基斯坦称枭龙摧毁印度S400",
+      "onboard_time": 1746860301,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 919442,
       "num": 1132844,
       "word": "巴基斯坦最新战果曝光",
@@ -105,6 +113,14 @@
       "onboard_time": 1746836181,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 903312,
+      "num": 903312,
+      "word": "34岁女生花70万去英国留学一年",
+      "onboard_time": 1746858382,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 895258,
@@ -131,20 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800985,
+      "num": 569340,
+      "word": "s400",
+      "onboard_time": 1746858503,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 784101,
+      "num": 562570,
+      "word": "黄俊捷 嘻嘻",
+      "onboard_time": 1746861502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743301,
       "num": 354142,
       "word": "印巴冲突",
       "onboard_time": 1746848191,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 737790,
-      "num": 570313,
-      "word": "34岁女生花70万去英国留学一年",
-      "onboard_time": 1746858382,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 730984,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 702412,
-      "num": 309491,
+      "num": 339405,
       "word": "李凯馨",
       "onboard_time": 1746855442,
       "rank": 32,
@@ -169,6 +193,14 @@
       "onboard_time": 1746838051,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 688408,
+      "num": 688408,
+      "word": "没人选宋妍霏的原因找到了",
+      "onboard_time": 1746859881,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 685716,
@@ -211,28 +243,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 571076,
-      "num": 571076,
-      "word": "没人选宋妍霏的原因找到了",
-      "onboard_time": 1746859881,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564765,
       "num": 564765,
       "word": "炎亚纶回应汪东城被指变脸",
       "onboard_time": 1746857002,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557287,
-      "num": 557287,
-      "word": "s400",
-      "onboard_time": 1746858503,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 543889,
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390258,
-      "num": 390258,
-      "word": "巴基斯坦称枭龙摧毁印度S400",
-      "onboard_time": 1746860301,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 384809,
       "num": 234884,
       "word": "外媒评印巴空战为灾难",
@@ -499,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305125,
+      "num": 305125,
+      "word": "高考700分和给你700万你要哪个",
+      "onboard_time": 1746859042,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304818,
       "num": 304818,
       "word": "网友曝腾讯工位全国最大",
@@ -529,6 +545,14 @@
       "onboard_time": 1746835099,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299350,
+      "num": 299350,
+      "word": "印度否认S400被巴方击毁",
+      "onboard_time": 1746860721,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 297891,
@@ -595,12 +619,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263260,
+      "num": 520246,
+      "word": "重庆大学撤销刘某乔国奖等荣誉",
+      "onboard_time": 1746860241,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261435,
       "num": 392056,
       "word": "马嘉祺让张杰请看他拍的星海",
       "onboard_time": 1746841891,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 261272,
+      "num": 261272,
+      "word": "女子走路减肥20天瘦12斤",
+      "onboard_time": 1746860661,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258218,
@@ -659,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 241851,
-      "num": 241851,
-      "word": "女子走路减肥20天瘦12斤",
-      "onboard_time": 1746860661,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240253,
       "num": 240253,
       "word": "孙颖莎嘉人销售额破3000万",
@@ -675,19 +707,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238594,
-      "num": 238594,
-      "word": "高考700分和给你700万你要哪个",
-      "onboard_time": 1746859042,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 236413,
-      "num": 236413,
-      "word": "黄俊捷 嘻嘻",
-      "onboard_time": 1746861502,
-      "rank": 25,
+      "raw_hot": 236006,
+      "num": 236006,
+      "word": "李凯馨最新动态",
+      "onboard_time": 1746861622,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -811,14 +835,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 198181,
-      "num": 198181,
-      "word": "印度否认S400被巴方击毁",
-      "onboard_time": 1746860721,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 197061,
       "num": 233795,
       "word": "五哈",
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 196396,
-      "num": 234880,
+      "num": 240704,
       "word": "歌手",
       "onboard_time": 1746860602,
       "rank": 26,
@@ -857,14 +873,6 @@
       "onboard_time": 1746858681,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 193380,
-      "num": 520246,
-      "word": "重庆大学撤销刘某乔国奖等荣誉",
-      "onboard_time": 1746860241,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192534,
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 169987,
-      "num": 220848,
+      "num": 243141,
       "word": "章子怡等到了李安的拥抱",
       "onboard_time": 1746860182,
       "rank": 28,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1746850050,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 166398,
+      "num": 565535,
+      "word": "14篇SCI论文事件2名当事人被处理",
+      "onboard_time": 1746860542,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166382,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 156946,
-      "num": 897477,
+      "num": 920578,
       "word": "17个新职业和42个新工种亮相",
       "onboard_time": 1746850532,
       "rank": 2,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1746839011,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "这居然是内娱女团",
+      "onboard_time": 1746861922,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 154349,
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145608,
+      "num": 238402,
+      "word": "奔跑吧下期有孟子义李昀锐",
+      "onboard_time": 1746861321,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145401,
       "num": 145401,
       "word": "我以后一定好好听销售电话",
@@ -1251,12 +1283,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141601,
-      "num": 216636,
-      "word": "奔跑吧下期有孟子义李昀锐",
-      "onboard_time": 1746861321,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 140790,
+      "num": 140790,
+      "word": "100块和1000块美甲的区别",
+      "onboard_time": 1746862160,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 138119,
@@ -1283,7 +1315,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134808,
+      "raw_hot": 135562,
       "num": 158997,
       "word": "杨紫生命树开机vlog",
       "onboard_time": 1746859340,
@@ -1296,6 +1328,14 @@
       "word": "侯佩岑组还原陈昊宇陈丽君名场面",
       "onboard_time": 1746855563,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133378,
+      "num": 139555,
+      "word": "德容不语德容只是一味训练",
+      "onboard_time": 1746862102,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1339,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128370,
-      "num": 128370,
-      "word": "李凯馨最新动态",
-      "onboard_time": 1746861622,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128341,
       "num": 128341,
       "word": "刘某华被免去重庆大学研究生院副院长",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1746847531,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126976,
-      "num": 565535,
-      "word": "14篇SCI论文事件2名当事人被处理",
-      "onboard_time": 1746860542,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126756,
@@ -1451,12 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119044,
+      "num": 119044,
+      "word": "林更新怎么老是被贴脸开大",
+      "onboard_time": 1746861922,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118712,
       "num": 118712,
       "word": "吴镇宇一根手指调整王星表演的眼神",
       "onboard_time": 1746828795,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118210,
+      "num": 118210,
+      "word": "芍药",
+      "onboard_time": 1746862281,
+      "rank": 45,
+      "category": "休闲"
     },
     {
       "raw_hot": 117216,
@@ -1488,6 +1528,14 @@
       "word": "司机醉蒙了呼气143以为是罚款",
       "onboard_time": 1746845970,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "银川地震",
+      "onboard_time": 1746862281,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1569,6 +1617,14 @@
       "onboard_time": 1746833779,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105167,
+      "num": 105167,
+      "word": "JDG官宣Zoom担任教练",
+      "onboard_time": 1746859520,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 104120,
@@ -1683,6 +1739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91857,
+      "num": 578488,
+      "word": "巴基斯坦华人为被困同胞送物资",
+      "onboard_time": 1746861622,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90466,
       "num": 90466,
       "word": "原来你一直把蛋挞读错了",
@@ -1715,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85460,
+      "num": 236664,
+      "word": "拿万能卡无限刷的男孩选了消防专业",
+      "onboard_time": 1746862402,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84677,
       "num": 98686,
       "word": "房琪我赌你的歌词里有子弹",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1746854302,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80424,
+      "num": 141110,
+      "word": "美国老板吐槽3000美元商品关税4600",
+      "onboard_time": 1746862461,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80065,
@@ -1825,14 +1905,6 @@
       "onboard_time": 1746803722,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68852,
-      "num": 209232,
-      "word": "巴基斯坦华人为被困同胞送物资",
-      "onboard_time": 1746861622,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68039,
@@ -2044,7 +2116,7 @@
     },
     {
       "raw_hot": 31763,
-      "num": 595663,
+      "num": 637289,
       "word": "中俄关系不断焕发出新活力",
       "onboard_time": 1746850291,
       "rank": 5,
@@ -2219,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16519,
+      "num": 535963,
+      "word": "深度搜索让深度思考成为过去式",
+      "onboard_time": 1746860480,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16382,
       "num": 16382,
       "word": "中俄关于全球战略稳定的联合声明",
@@ -2248,14 +2328,6 @@
       "word": "官方回应葬礼墙体倒塌人员伤亡",
       "onboard_time": 1746823154,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13740,
-      "num": 507884,
-      "word": "深度搜索让深度思考成为过去式",
-      "onboard_time": 1746860480,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2289,6 +2361,14 @@
       "onboard_time": 1746777981,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 8581,
+      "num": 339689,
+      "word": "亚历山大今天该给雷霆背锅吗",
+      "onboard_time": 1746861741,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 6969,
