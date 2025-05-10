@@ -1,0 +1,410 @@
+{
+  "runTime": 1746852276529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310747,
+        "num": 1310747,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 977776,
+        "num": 977776,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145028,
+        "num": 721395,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 523490,
+        "num": 523490,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363678,
+        "num": 363678,
+        "word": "巴军方称又击落一架印度战机",
+        "onboard_time": 1746844890,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26139,
+        "num": 336187,
+        "word": "中俄关系不断焕发出新活力",
+        "onboard_time": 1746850291,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318752,
+        "num": 318752,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311110,
+        "num": 311110,
+        "word": "张杰回复宋亚轩呀好xuan",
+        "onboard_time": 1746848852,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298052,
+        "num": 298052,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278753,
+        "num": 278753,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2087843,
+        "num": 278744,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 977819,
+        "num": 278701,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743301,
+        "num": 278659,
+        "word": "印巴冲突",
+        "onboard_time": 1746848191,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441022,
+        "num": 278625,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17761,
+        "num": 278602,
+        "word": "夸克不愧是AI届搜商天花板",
+        "onboard_time": 1746849692,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423030,
+        "num": 278556,
+        "word": "周杰伦ins点赞狮城山海",
+        "onboard_time": 1746849151,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278539,
+        "num": 278539,
+        "word": "全红婵账号虞书欣星奇摇作品已不可见",
+        "onboard_time": 1746834799,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 270749,
+        "num": 270749,
+        "word": "陈豪被曝养家压力大频繁接戏",
+        "onboard_time": 1746849030,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249243,
+        "num": 270326,
+        "word": "母亲节送妈妈什么礼物",
+        "onboard_time": 1746848252,
+        "rank": 18,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 222036,
+        "num": 268581,
+        "word": "迪丽热巴金靖你们要吵出去吵",
+        "onboard_time": 1746849452,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417982,
+        "num": 267520,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294921,
+        "num": 266720,
+        "word": "陈梦官宣去踢足球",
+        "onboard_time": 1746851251,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265904,
+        "num": 265904,
+        "word": "第五人格",
+        "onboard_time": 1746851191,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258218,
+        "num": 258218,
+        "word": "14岁女孩被抛尸水井案凶手执行死刑",
+        "onboard_time": 1746849212,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235581,
+        "num": 235581,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145993,
+        "num": 220243,
+        "word": "于正剪掉八集等于丢弃了几千万",
+        "onboard_time": 1746849752,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123648,
+        "num": 210552,
+        "word": "范丞丞的C张真源的O到底是什么",
+        "onboard_time": 1746850470,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209136,
+        "num": 209136,
+        "word": "印度要求封禁8000多个社媒账号",
+        "onboard_time": 1746836181,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67319,
+        "num": 203480,
+        "word": "临江仙调色ab版中和了",
+        "onboard_time": 1746850470,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42489,
+        "num": 201137,
+        "word": "男子台铁遗失400万因疑点多警方不归还",
+        "onboard_time": 1746850770,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3962069,
+        "num": 200980,
+        "word": "人民日报官博删除赴山海",
+        "onboard_time": 1746846931,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200667,
+        "num": 200667,
+        "word": "巴基斯坦启动军事行动回应印度挑衅",
+        "onboard_time": 1746836971,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195283,
+        "num": 195283,
+        "word": "樊振东杭州",
+        "onboard_time": 1746846330,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192534,
+        "num": 192534,
+        "word": "女子回应上门做饭月薪近2万被质疑",
+        "onboard_time": 1746850231,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58876,
+        "num": 185506,
+        "word": "外交部谈印巴局势升级",
+        "onboard_time": 1746852151,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184214,
+        "num": 184214,
+        "word": "恋与深空洗澡卡",
+        "onboard_time": 1746847590,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28004,
+        "num": 182114,
+        "word": "如何平衡婚姻自由与风险防控",
+        "onboard_time": 1746852151,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 181966,
+        "num": 181966,
+        "word": "巴方称成功拦截印度导弹",
+        "onboard_time": 1746849572,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181629,
+        "num": 181629,
+        "word": "檀健次盲盒",
+        "onboard_time": 1746851432,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99581,
+        "num": 178534,
+        "word": "巴军集中打击高价值目标",
+        "onboard_time": 1746850172,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177361,
+        "num": 178278,
+        "word": "阵风",
+        "onboard_time": 1746848131,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178097,
+        "num": 178097,
+        "word": "网友曝腾讯工位全国最大",
+        "onboard_time": 1746842071,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 174807,
+        "num": 174807,
+        "word": "李河民飞吻",
+        "onboard_time": 1746852091,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164904,
+        "num": 164904,
+        "word": "哥哥第一次带女朋友回家",
+        "onboard_time": 1746846870,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "巴基斯坦对印度发动网络攻击",
+        "onboard_time": 1746840931,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157931,
+        "num": 157931,
+        "word": "妈妈一定不会拒绝的过节方式",
+        "onboard_time": 1746849931,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157208,
+        "num": 157208,
+        "word": "螺蛳粉",
+        "onboard_time": 1746851371,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149786,
+        "num": 149786,
+        "word": "巴基斯坦",
+        "onboard_time": 1746834739,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149394,
+        "num": 149394,
+        "word": "近6亿中国人去年看网文花了430亿",
+        "onboard_time": 1746847290,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116408,
+        "num": 146410,
+        "word": "马嘉祺让张杰请看他拍的星海",
+        "onboard_time": 1746841891,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念伟大胜利捍卫公平正义#"
+    }
+  }
+}

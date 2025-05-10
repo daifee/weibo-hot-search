@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746851371695,
+  "endTime": 1746852276529,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1807846,
+      "raw_hot": 2087843,
       "num": 286819,
       "word": "赴山海女主",
       "onboard_time": 1746848852,
@@ -35,8 +35,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1170932,
-      "num": 1187349,
+      "raw_hot": 1310747,
+      "num": 1310747,
       "word": "17岁到67岁 你居然不爱我了",
       "onboard_time": 1746845791,
       "rank": 15,
@@ -51,7 +51,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 931953,
+      "raw_hot": 977776,
       "num": 1360395,
       "word": "印度战机被击落飞行员被俘",
       "onboard_time": 1746847832,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 743301,
+      "num": 354142,
+      "word": "印巴冲突",
+      "onboard_time": 1746848191,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 730984,
       "num": 375927,
       "word": "全红婵账号虞书欣星奇摇作品已不可见",
@@ -112,14 +120,6 @@
       "word": "巴基斯坦启动军事行动回应印度挑衅",
       "onboard_time": 1746836971,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 599140,
-      "num": 354142,
-      "word": "印巴冲突",
-      "onboard_time": 1746848191,
-      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -251,6 +251,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 423030,
+      "num": 278556,
+      "word": "周杰伦ins点赞狮城山海",
+      "onboard_time": 1746849151,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417982,
+      "num": 276769,
+      "word": "男子地铁遗失400万警方拒绝归还",
+      "onboard_time": 1746850591,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416068,
       "num": 416068,
       "word": "西安雷雨夜再现龙形不明飞行物",
@@ -307,14 +323,6 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 338507,
-      "num": 277872,
-      "word": "周杰伦ins点赞狮城山海",
-      "onboard_time": 1746849151,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318110,
       "num": 318110,
       "word": "张杰回复宋亚轩呀好xuan",
@@ -337,14 +345,6 @@
       "onboard_time": 1746801264,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306989,
-      "num": 276769,
-      "word": "男子地铁遗失400万警方拒绝归还",
-      "onboard_time": 1746850591,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304818,
@@ -395,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 294921,
+      "num": 266720,
+      "word": "陈梦官宣去踢足球",
+      "onboard_time": 1746851251,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290803,
       "num": 263283,
       "word": "丁禹兮演技",
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270749,
+      "num": 282509,
+      "word": "陈豪被曝养家压力大频繁接戏",
+      "onboard_time": 1746849030,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268168,
       "num": 268168,
       "word": "樊振东杭州",
@@ -419,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265904,
+      "num": 265904,
+      "word": "第五人格",
+      "onboard_time": 1746851191,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 261435,
       "num": 392056,
       "word": "马嘉祺让张杰请看他拍的星海",
       "onboard_time": 1746841891,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258218,
+      "num": 258218,
+      "word": "14岁女孩被抛尸水井案凶手执行死刑",
+      "onboard_time": 1746849212,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257687,
@@ -467,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216748,
-      "num": 216748,
-      "word": "陈梦官宣去踢足球",
-      "onboard_time": 1746851251,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 222036,
+      "num": 282064,
+      "word": "迪丽热巴金靖你们要吵出去吵",
+      "onboard_time": 1746849452,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 216288,
@@ -481,14 +513,6 @@
       "onboard_time": 1746834739,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 213524,
-      "num": 282509,
-      "word": "陈豪被曝养家压力大频繁接戏",
-      "onboard_time": 1746849030,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 210583,
@@ -523,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202018,
-      "num": 282064,
-      "word": "迪丽热巴金靖你们要吵出去吵",
-      "onboard_time": 1746849452,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201095,
       "num": 350860,
       "word": "张杰回复马嘉祺期待小马的未live",
@@ -563,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191408,
-      "num": 191408,
-      "word": "第五人格",
-      "onboard_time": 1746851191,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 192534,
+      "num": 278841,
+      "word": "女子回应上门做饭月薪近2万被质疑",
+      "onboard_time": 1746850231,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187138,
@@ -576,14 +592,6 @@
       "word": "女子按摩遭猥亵技师辩称乳腺不好",
       "onboard_time": 1746834859,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186882,
-      "num": 184073,
-      "word": "14岁女孩被抛尸水井案凶手执行死刑",
-      "onboard_time": 1746849212,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -619,12 +627,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175672,
-      "num": 175672,
+      "raw_hot": 181966,
+      "num": 181966,
       "word": "巴方称成功拦截印度导弹",
       "onboard_time": 1746849572,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181629,
+      "num": 181629,
+      "word": "檀健次盲盒",
+      "onboard_time": 1746851432,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174807,
+      "num": 174807,
+      "word": "李河民飞吻",
+      "onboard_time": 1746852091,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 174519,
@@ -731,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157208,
+      "num": 157208,
+      "word": "螺蛳粉",
+      "onboard_time": 1746851371,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "张靓颖戴眼镜 妈妈级别",
@@ -779,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145993,
+      "num": 236022,
+      "word": "于正剪掉八集等于丢弃了几千万",
+      "onboard_time": 1746849752,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145401,
       "num": 145401,
       "word": "我以后一定好好听销售电话",
       "onboard_time": 1746835221,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145028,
+      "num": 721395,
+      "word": "17个新职业和42个新工种亮相",
+      "onboard_time": 1746850532,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144849,
@@ -817,14 +865,6 @@
       "onboard_time": 1746843031,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138695,
-      "num": 236022,
-      "word": "于正剪掉八集等于丢弃了几千万",
-      "onboard_time": 1746849752,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 138119,
@@ -1035,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99581,
+      "num": 189961,
+      "word": "巴军集中打击高价值目标",
+      "onboard_time": 1746850172,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99345,
       "num": 99345,
       "word": "央八藏海传预热",
@@ -1147,14 +1195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84778,
-      "num": 694047,
-      "word": "17个新职业和42个新工种亮相",
-      "onboard_time": 1746850532,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 84677,
       "num": 98686,
       "word": "房琪我赌你的歌词里有子弹",
@@ -1259,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68734,
-      "num": 278841,
-      "word": "女子回应上门做饭月薪近2万被质疑",
-      "onboard_time": 1746850231,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68039,
       "num": 210249,
       "word": "临江仙调色ab版中和了",
@@ -1307,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58876,
+      "num": 185506,
+      "word": "外交部谈印巴局势升级",
+      "onboard_time": 1746852151,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57629,
       "num": 57629,
       "word": "普通人实现财富自由的具体步骤",
@@ -1323,14 +1363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 48906,
-      "num": 189961,
-      "word": "巴军集中打击高价值目标",
-      "onboard_time": 1746850172,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44119,
       "num": 51124,
       "word": "linglingkwong",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1746812057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42489,
+      "num": 235892,
+      "word": "男子台铁遗失400万因疑点多警方不归还",
+      "onboard_time": 1746850770,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38523,
@@ -1451,6 +1491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 28004,
+      "num": 182114,
+      "word": "如何平衡婚姻自由与风险防控",
+      "onboard_time": 1746852151,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 28001,
       "num": 28001,
       "word": "没人说过何洁这么会唱跳啊",
@@ -1467,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26139,
+      "num": 356260,
+      "word": "中俄关系不断焕发出新活力",
+      "onboard_time": 1746850291,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24122,
       "num": 24122,
       "word": "花好",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1746814276,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22465,
-      "num": 235892,
-      "word": "男子台铁遗失400万因疑点多警方不归还",
-      "onboard_time": 1746850770,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22341,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1746824474,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17993,
-      "num": 356260,
-      "word": "中俄关系不断焕发出新活力",
-      "onboard_time": 1746850291,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17933,
@@ -1636,6 +1676,9 @@
     },
     {
       "word": "#为中俄关系定向领航#"
+    },
+    {
+      "word": "#纪念伟大胜利捍卫公平正义#"
     }
   ]
 }
