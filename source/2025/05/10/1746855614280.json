@@ -1,0 +1,410 @@
+{
+  "runTime": 1746855614280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142531,
+        "num": 1182805,
+        "word": "邓超给所有79年出生的人道歉",
+        "onboard_time": 1746852692,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750782,
+        "num": 750782,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156946,
+        "num": 734639,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 732319,
+        "num": 732319,
+        "word": "巴基斯坦最新战果曝光",
+        "onboard_time": 1746852692,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392980,
+        "num": 392980,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26998,
+        "num": 362342,
+        "word": "中俄关系不断焕发出新活力",
+        "onboard_time": 1746850291,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777413,
+        "num": 357366,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342223,
+        "num": 342223,
+        "word": "奔跑吧直播",
+        "onboard_time": 1746854901,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339239,
+        "num": 339239,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47558,
+        "num": 339172,
+        "word": "撕拉片的热度还会持续多久",
+        "onboard_time": 1746854362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1532375,
+        "num": 338418,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 981330,
+        "num": 337594,
+        "word": "关晓彤晒撕拉片",
+        "onboard_time": 1746852392,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694479,
+        "num": 337332,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336797,
+        "num": 336797,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335705,
+        "num": 335705,
+        "word": "女子被冒名结婚撤销3年仍显示已婚",
+        "onboard_time": 1746853771,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332674,
+        "num": 332674,
+        "word": "印巴冲突",
+        "onboard_time": 1746848191,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232198,
+        "num": 331264,
+        "word": "陈豪被曝养家压力大频繁接戏",
+        "onboard_time": 1746849030,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212369,
+        "num": 328970,
+        "word": "张杰回复宋亚轩呀好xuan",
+        "onboard_time": 1746848852,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81785,
+        "num": 325609,
+        "word": "一嗨租车5年后扣款1098元用户发声",
+        "onboard_time": 1746854302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38392,
+        "num": 324321,
+        "word": "印巴双方防空能力究竟几何",
+        "onboard_time": 1746854482,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321649,
+        "num": 321649,
+        "word": "赴山海主演戏份",
+        "onboard_time": 1746853232,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338317,
+        "num": 320884,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305565,
+        "num": 305565,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297456,
+        "num": 297456,
+        "word": "陈梦官宣去踢足球",
+        "onboard_time": 1746851251,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271628,
+        "num": 271628,
+        "word": "巴军方称又击落一架印度战机",
+        "onboard_time": 1746844890,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265935,
+        "num": 265935,
+        "word": "多邻国 多儿滚",
+        "onboard_time": 1746852271,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254389,
+        "num": 254389,
+        "word": "戈登三分绝平雷霆",
+        "onboard_time": 1746854901,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245286,
+        "num": 245286,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197061,
+        "num": 233795,
+        "word": "五哈",
+        "onboard_time": 1746855082,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153274,
+        "num": 230431,
+        "word": "海外社媒满屏都是刚买的飞机",
+        "onboard_time": 1746855141,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1795529,
+        "num": 229569,
+        "word": "人民日报官博删除赴山海",
+        "onboard_time": 1746846931,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227836,
+        "num": 227836,
+        "word": "白鹿凤凰神女",
+        "onboard_time": 1746854012,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207459,
+        "num": 207459,
+        "word": "李凯馨",
+        "onboard_time": 1746855442,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206968,
+        "num": 206968,
+        "word": "14岁女孩被抛尸水井案凶手执行死刑",
+        "onboard_time": 1746849212,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191438,
+        "num": 191438,
+        "word": "掘金2比1雷霆",
+        "onboard_time": 1746854901,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189720,
+        "num": 189720,
+        "word": "周杰伦ins点赞狮城山海",
+        "onboard_time": 1746849151,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186552,
+        "num": 186552,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180719,
+        "num": 180719,
+        "word": "母亲节送妈妈什么礼物",
+        "onboard_time": 1746848252,
+        "rank": 37,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 178687,
+        "num": 178687,
+        "word": "宋妍霏甜妹",
+        "onboard_time": 1746854362,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37139,
+        "num": 178213,
+        "word": "智搜预测AG对战DRG结果",
+        "onboard_time": 1746854901,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178006,
+        "num": 178006,
+        "word": "孙颖莎嘉人销售额破3000万",
+        "onboard_time": 1746852752,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141665,
+        "num": 174638,
+        "word": "Daniel舞台大屏",
+        "onboard_time": 1746854482,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171870,
+        "num": 171870,
+        "word": "内娱终于有刀群舞女团了",
+        "onboard_time": 1746855022,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164274,
+        "num": 164274,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163287,
+        "num": 163287,
+        "word": "NBA",
+        "onboard_time": 1746855262,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151700,
+        "num": 151700,
+        "word": "巴基斯坦公布击落印度战机证据",
+        "onboard_time": 1746852812,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146382,
+        "num": 146382,
+        "word": "吴宣仪要唱哭了",
+        "onboard_time": 1746855442,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137954,
+        "num": 137954,
+        "word": "网友曝腾讯工位全国最大",
+        "onboard_time": 1746842071,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 135221,
+        "num": 135221,
+        "word": "迪丽热巴金靖你们要吵出去吵",
+        "onboard_time": 1746849452,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "侯佩岑组还原陈昊宇陈丽君名场面",
+        "onboard_time": 1746855563,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念伟大胜利捍卫公平正义#"
+    }
+  }
+}
