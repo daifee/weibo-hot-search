@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746912091145,
+  "endTime": 1746912960640,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85097,
+      "num": 85097,
+      "word": "结婚无需户口本首日爸妈们有话说",
+      "onboard_time": 1746882801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
@@ -417,14 +425,6 @@
       "onboard_time": 1746892821,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68868,
-      "num": 68868,
-      "word": "结婚无需户口本首日爸妈们有话说",
-      "onboard_time": 1746882801,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59499,
@@ -595,8 +595,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14409,
-      "num": 15846,
+      "raw_hot": 15492,
+      "num": 17501,
       "word": "在印在巴中国公民必知电话",
       "onboard_time": 1746909734,
       "rank": 43,
@@ -625,6 +625,14 @@
       "onboard_time": 1746903075,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12355,
+      "num": 17498,
+      "word": "中国品牌日",
+      "onboard_time": 1746912854,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
