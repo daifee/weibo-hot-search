@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746891505374,
+  "endTime": 1746894539323,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -3064,6 +3064,14 @@
       "word": "女教师抗癌7年离世成大体老师",
       "onboard_time": 1746626544,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727884,
+      "num": 727884,
+      "word": "大连西山水库惊现成群超大怪鱼",
+      "onboard_time": 1746890244,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -10539,6 +10547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252068,
+      "num": 252068,
+      "word": "李沐宸给足了刘奕畅情绪价值",
+      "onboard_time": 1746889405,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252011,
       "num": 637725,
       "word": "吉祥航空一航班触地立刻复飞",
@@ -11307,6 +11323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231849,
+      "num": 231849,
+      "word": "谁给白鹿做的特效",
+      "onboard_time": 1746891143,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231700,
       "num": 231700,
       "word": "韩安冉老公拍戏被男一蛐蛐",
@@ -11968,6 +11992,14 @@
       "word": "山东大学生泰山陪爬月入5位数",
       "onboard_time": 1746326661,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219623,
+      "num": 219623,
+      "word": "车内座位不够3个娃被藏后备箱",
+      "onboard_time": 1746891863,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -12649,14 +12681,6 @@
       "onboard_time": 1746268401,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208244,
-      "num": 208244,
-      "word": "李沐宸给足了刘奕畅情绪价值",
-      "onboard_time": 1746889405,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 208158,
@@ -17572,7 +17596,7 @@
     },
     {
       "raw_hot": 172489,
-      "num": 343199,
+      "num": 490423,
       "word": "AG拿下冠军后又拿下了飞猪",
       "onboard_time": 1746891203,
       "rank": 20,
@@ -17937,6 +17961,14 @@
       "onboard_time": 1746487279,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169565,
+      "num": 169565,
+      "word": "飞猪小编押中冠军",
+      "onboard_time": 1746893482,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 169506,
@@ -19475,6 +19507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159418,
+      "num": 138310,
+      "word": "母亲节文案大赏",
+      "onboard_time": 1746893241,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159302,
       "num": 278592,
       "word": "从丁俊晖到赵心童这条路走了九年",
@@ -19681,14 +19721,6 @@
       "onboard_time": 1746151708,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158168,
-      "num": 158168,
-      "word": "谁给白鹿做的特效",
-      "onboard_time": 1746891143,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 158085,
@@ -20648,14 +20680,6 @@
       "word": "公交司机被投诉不让老年卡乘客就坐",
       "onboard_time": 1746537083,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152278,
-      "num": 207646,
-      "word": "大连西山水库惊现成群超大怪鱼",
-      "onboard_time": 1746890244,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -22875,6 +22899,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139200,
+      "num": 139200,
+      "word": "哈妮克孜让丁真不要无所谓",
+      "onboard_time": 1746892581,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139112,
+      "num": 139112,
+      "word": "全红婵去了张杰演唱会",
+      "onboard_time": 1746891982,
+      "rank": 29,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 138994,
       "num": 574041,
       "word": "敏感肌被赵丽颖种草了",
@@ -23649,6 +23689,14 @@
       "onboard_time": 1746418641,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134553,
+      "num": 142014,
+      "word": "eStar 来财",
+      "onboard_time": 1746888803,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 134538,
@@ -25787,6 +25835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123838,
+      "num": 352186,
+      "word": "女子离家藏匿孩子一年不让丈夫见",
+      "onboard_time": 1746891023,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123720,
       "num": 123720,
       "word": "糊糊小猫",
@@ -27171,6 +27227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114605,
+      "num": 114605,
+      "word": "刘宪华说粤语好苏",
+      "onboard_time": 1746893182,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114590,
       "num": 114590,
       "word": "靡言选角",
@@ -27785,6 +27849,14 @@
       "onboard_time": 1746710843,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110003,
+      "num": 110003,
+      "word": "慕强天菜一诺",
+      "onboard_time": 1746892042,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 109952,
@@ -30051,6 +30123,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 90269,
+      "num": 102083,
+      "word": "李九瓶子解说",
+      "onboard_time": 1746892102,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90085,
       "num": 90085,
       "word": "苏州买房补贴新政",
@@ -30265,6 +30345,14 @@
       "onboard_time": 1746303975,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87404,
+      "num": 102062,
+      "word": "陆虎演唱会超绝光影氛围",
+      "onboard_time": 1746894142,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 87390,
@@ -30833,6 +30921,14 @@
       "onboard_time": 1746250160,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81846,
+      "num": 490427,
+      "word": "广州大雨下不停",
+      "onboard_time": 1746894020,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81813,
@@ -31785,6 +31881,14 @@
       "onboard_time": 1746099082,
       "rank": 29,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 69169,
+      "num": 102110,
+      "word": "DRG的故事才刚刚开始",
+      "onboard_time": 1746892821,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 69161,
@@ -34353,14 +34457,6 @@
       "onboard_time": 1746422482,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 39899,
-      "num": 352186,
-      "word": "女子离家藏匿孩子一年不让丈夫见",
-      "onboard_time": 1746891023,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39861,
