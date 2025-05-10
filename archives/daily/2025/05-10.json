@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746869035865,
+  "endTime": 1746869852242,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -73,6 +73,14 @@
       "onboard_time": 1746852692,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1029216,
+      "num": 261261,
+      "word": "赴山海除名李凯馨",
+      "onboard_time": 1746868222,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1005609,
@@ -331,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 496406,
-      "num": 191995,
-      "word": "赴山海除名李凯馨",
-      "onboard_time": 1746868222,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482709,
       "num": 431611,
       "word": "一个国家靠自己骗自己挽回面子",
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 402333,
-      "num": 252069,
+      "num": 254049,
       "word": "巴方称若印度就此止步巴方也考虑止步",
       "onboard_time": 1746866601,
       "rank": 16,
@@ -488,6 +488,14 @@
       "word": "郑恺真的想把李昀锐培养成专业运动员",
       "onboard_time": 1746837930,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388143,
+      "num": 388143,
+      "word": "周柯宇对迪丽热巴说把你不吃的给我",
+      "onboard_time": 1746868581,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -627,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301502,
+      "num": 301502,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1746864621,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301201,
       "num": 301201,
       "word": "唐嫣龚俊双C位",
@@ -729,6 +745,14 @@
       "onboard_time": 1746841891,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 261193,
+      "num": 196508,
+      "word": "谢娜零容忍",
+      "onboard_time": 1746869121,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 258218,
@@ -867,14 +891,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212083,
-      "num": 253046,
-      "word": "香港全款400万15平的小家",
-      "onboard_time": 1746864621,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211801,
       "num": 211801,
       "word": "smtown乡村红毯",
@@ -921,14 +937,6 @@
       "onboard_time": 1746848131,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 204023,
-      "num": 252370,
-      "word": "周柯宇对迪丽热巴说把你不吃的给我",
-      "onboard_time": 1746868581,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 201256,
@@ -985,6 +993,14 @@
       "onboard_time": 1746842731,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193721,
+      "num": 193721,
+      "word": "王俊凯收工照",
+      "onboard_time": 1746868822,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 193538,
@@ -1099,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181615,
+      "num": 181615,
+      "word": "以为痛房够离谱了直到看到痛楼",
+      "onboard_time": 1746869062,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178803,
       "num": 178803,
       "word": "全网的妈妈都在收花",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1746862160,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175471,
+      "num": 204595,
+      "word": "人民网评乘风2025",
+      "onboard_time": 1746868641,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 174807,
@@ -1187,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168348,
+      "num": 168348,
+      "word": "苹果渠道官方调价",
+      "onboard_time": 1746869301,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166398,
       "num": 565535,
       "word": "14篇SCI论文事件2名当事人被处理",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1746856280,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165829,
+      "num": 165829,
+      "word": "黄杨钿甜成人礼",
+      "onboard_time": 1746869363,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 164553,
@@ -1307,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158893,
+      "num": 245913,
+      "word": "清融是酷boy",
+      "onboard_time": 1746868701,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158856,
       "num": 250989,
       "word": "车兴德从偶像剧闯进刑侦剧了",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1746850532,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156630,
-      "num": 156630,
-      "word": "王俊凯收工照",
-      "onboard_time": 1746868822,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 156430,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1746865161,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151038,
-      "num": 151038,
-      "word": "人民网评乘风2025",
-      "onboard_time": 1746868641,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 148984,
@@ -1563,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136053,
+      "num": 136053,
+      "word": "赴山海还能播出吗",
+      "onboard_time": 1746869602,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135562,
       "num": 158997,
       "word": "杨紫生命树开机vlog",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1746866962,
       "rank": 45,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 134582,
+      "num": 134582,
+      "word": "3岁女童铊中毒案确认为投毒并已结案",
+      "onboard_time": 1746869662,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134473,
@@ -1611,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130859,
-      "num": 245913,
-      "word": "清融是酷boy",
-      "onboard_time": 1746868701,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130137,
       "num": 130137,
       "word": "法国阵风战机外棺确实不错",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1746840511,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129203,
+      "num": 129203,
+      "word": "200万美元导弹摧毁15亿防控系统",
+      "onboard_time": 1746866782,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128920,
@@ -1689,6 +1745,14 @@
       "onboard_time": 1746845011,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126336,
+      "num": 126336,
+      "word": "婚姻登记变化第一天",
+      "onboard_time": 1746869541,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125020,
@@ -1899,6 +1963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109639,
+      "num": 207287,
+      "word": "投资2亿开酒店因整修被阻无法开业",
+      "onboard_time": 1746866002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108533,
       "num": 108533,
       "word": "赵心童调侃50万镑已经花掉了",
@@ -1985,14 +2057,6 @@
       "onboard_time": 1746843031,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 100573,
-      "num": 207287,
-      "word": "投资2亿开酒店因整修被阻无法开业",
-      "onboard_time": 1746866002,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99581,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1746845851,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85502,
+      "num": 249482,
+      "word": "霉霉收到S女王官司法院传票",
+      "onboard_time": 1746869062,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 85460,
@@ -2355,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39577,
+      "num": 251316,
+      "word": "一张图看懂美国的谈判压力",
+      "onboard_time": 1746868763,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38523,
       "num": 50770,
       "word": "张靓颖刘宇宁合唱九万字",
@@ -2523,14 +2603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27780,
-      "num": 251316,
-      "word": "一张图看懂美国的谈判压力",
-      "onboard_time": 1746868763,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27694,
       "num": 32491,
       "word": "多国领导人正陆续抵达克里姆林宫",
@@ -2601,6 +2673,14 @@
       "onboard_time": 1746823334,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20133,
+      "num": 383031,
+      "word": "6组数据感受中国外贸韧性",
+      "onboard_time": 1746869121,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19456,
@@ -2683,6 +2763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14774,
+      "num": 251647,
+      "word": "起底学生被打致耳聋涉事学校",
+      "onboard_time": 1746868763,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14682,
       "num": 348470,
       "word": "0热量的盐为什么要少吃",
@@ -2704,14 +2792,6 @@
       "word": "官方回应葬礼墙体倒塌人员伤亡",
       "onboard_time": 1746823154,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13559,
-      "num": 251647,
-      "word": "起底学生被打致耳聋涉事学校",
-      "onboard_time": 1746868763,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2739,11 +2819,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10504,
-      "num": 168218,
+      "raw_hot": 11829,
+      "num": 244433,
       "word": "为何牛奶成为中国人的日常必需品",
       "onboard_time": 1746868881,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10131,
+      "num": 268109,
+      "word": "被这些中国品牌燃到了",
+      "onboard_time": 1746869242,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2786,6 +2874,9 @@
     },
     {
       "word": "#中塞两国要传承发扬铁杆友谊#"
+    },
+    {
+      "word": "#中俄元首达成许多新的重要共识#"
     }
   ]
 }
