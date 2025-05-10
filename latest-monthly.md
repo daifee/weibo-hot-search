@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/10 14:32:09
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/10 14:45:34
 </p>
 </blockquote>
 <p>
@@ -1461,6 +1461,12 @@ Gemini当爸（热度：1115362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E6%9C%AC%E7%A7%91%E7%94%9F14%E7%AF%87SCI%E8%AE%BA%E6%96%87%23" target="weibo">
+重庆大学通报本科生14篇SCI论文（热度：926203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2331%E5%B2%81%E7%AB%A0%E6%B3%BD%E5%A4%A9%E7%B4%A0%E9%A2%9C%E6%80%BC%E8%84%B8%E7%85%A7%23" target="weibo">
 31岁章泽天素颜怼脸照（热度：925758）
 </a>
@@ -1481,6 +1487,12 @@ Gemini当爸（热度：1115362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E9%83%BD%E6%9D%A5%E7%8E%B0%E7%8A%B6%23" target="weibo">
 胖都来现状（热度：921579）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9C%80%E6%96%B0%E6%88%98%E6%9E%9C%E6%9B%9D%E5%85%89%23" target="weibo">
+巴基斯坦最新战果曝光（热度：919442）
 </a>
 </li>
 
@@ -1541,6 +1553,12 @@ Gemini当爸（热度：1115362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E9%87%8F%E5%8C%96%E7%9A%84%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8D%E8%AF%A5%E8%AE%A9%E4%B8%93%E4%B8%9A%E6%AD%8C%E6%89%8B%E6%89%98%E5%BA%95%23" target="weibo">
 流量化的音乐节不该让专业歌手托底（热度：898342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%96%E7%A4%BE%E5%AA%92%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E5%88%9A%E4%B9%B0%E7%9A%84%E9%A3%9E%E6%9C%BA%23" target="weibo">
+海外社媒满屏都是刚买的飞机（热度：895258）
 </a>
 </li>
 
@@ -1727,12 +1745,6 @@ Gemini当爸（热度：1115362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E7%A7%B09%E7%B1%B3%E9%95%BF%E6%9E%97%E8%82%AF%E6%98%AF%E9%92%BB%E7%A9%BA%E5%AD%90%E4%B8%8A%E5%B1%B1%23" target="weibo">
 交警称9米长林肯是钻空子上山（热度：831061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%9C%80%E6%96%B0%E6%88%98%E6%9E%9C%E6%9B%9D%E5%85%89%23" target="weibo">
-巴基斯坦最新战果曝光（热度：830276）
 </a>
 </li>
 
@@ -2703,6 +2715,12 @@ Bin blg回来了（热度：683337）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%88%E4%BA%8E%E6%9C%89%E5%88%80%E7%BE%A4%E8%88%9E%E5%A5%B3%E5%9B%A2%E4%BA%86%23" target="weibo">
+内娱终于有刀群舞女团了（热度：630779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E6%91%94%E5%80%92%23" target="weibo">
 苏新皓摔倒（热度：630442）
 </a>
@@ -2765,12 +2783,6 @@ Bin blg回来了（热度：683337）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%9D%99%E4%B8%80%E5%AE%B6%E5%90%83%E9%A5%AD%E5%90%84%E5%90%83%E5%90%84%E7%9A%84%23" target="weibo">
 胡静一家吃饭各吃各的（热度：621447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%A4%96%E7%A4%BE%E5%AA%92%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E5%88%9A%E4%B9%B0%E7%9A%84%E9%A3%9E%E6%9C%BA%23" target="weibo">
-海外社媒满屏都是刚买的飞机（热度：621264）
 </a>
 </li>
 
@@ -3515,12 +3527,6 @@ CMG没有邀请韩国Kpop巡回演出（热度：522721）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%BC%80%E9%97%B8%E6%94%BE%E6%B0%B4%23" target="weibo">
 印度开闸放水（热度：513961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%88%E4%BA%8E%E6%9C%89%E5%88%80%E7%BE%A4%E8%88%9E%E5%A5%B3%E5%9B%A2%E4%BA%86%23" target="weibo">
-内娱终于有刀群舞女团了（热度：513270）
 </a>
 </li>
 
@@ -5781,6 +5787,12 @@ LPR（热度：340302）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BB%91%E6%97%97%E8%A2%8D%23" target="weibo">
+迪丽热巴黑旗袍（热度：322868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80%23" target="weibo">
 如果你看到一个人朋友圈干干净净（热度：322764）
 </a>
@@ -5999,18 +6011,6 @@ TES对战IG（热度：315182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%91%A8%E6%B8%B8%E8%AE%B0%23" target="weibo">
 周杰伦王俊凯周游记（热度：310121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E8%A5%BF%E6%9D%A5%E8%83%96%E5%8D%97%E6%9D%A5%E8%83%96%E5%8C%97%E6%9D%A5%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8%23" target="weibo">
-胖西来胖南来胖北来商标遭抢注（热度：310036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%8A%B180%E5%85%83%E4%BD%93%E9%AA%8C3%E5%B0%8F%E6%97%B6%E7%A7%9F%E8%85%BF%E7%99%BB%E6%B3%B0%E5%B1%B1%23" target="weibo">
-游客花80元体验3小时租腿登泰山（热度：309856）
 </a>
 </li>
 
@@ -6305,6 +6305,12 @@ TES对战IG（热度：315182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%BA%AA%E5%BF%B5%E4%BC%9F%E5%A4%A7%E8%83%9C%E5%88%A9%E6%8D%8D%E5%8D%AB%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89%23%23" target="weibo">
 #纪念伟大胜利捍卫公平正义#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%A1%9E%E4%B8%A4%E5%9B%BD%E8%A6%81%E4%BC%A0%E6%89%BF%E5%8F%91%E6%89%AC%E9%93%81%E6%9D%86%E5%8F%8B%E8%B0%8A%23%23" target="weibo">
+#中塞两国要传承发扬铁杆友谊#
 </a>
 </li>
 
