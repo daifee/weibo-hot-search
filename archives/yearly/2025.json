@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1746847553950,
+  "endTime": 1746849054226,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1315,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 4160078,
+      "num": 853721,
+      "word": "人民日报官博删除赴山海",
+      "onboard_time": 1746846931,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 4153442,
       "num": 657974,
       "word": "王星到园区第一天就挨了打",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736295803,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3081452,
-      "num": 3081452,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1745036722,
-      "rank": 47,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

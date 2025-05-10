@@ -1,0 +1,410 @@
+{
+  "runTime": 1746849054226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924964,
+        "num": 1360395,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 856251,
+        "num": 856251,
+        "word": "巴军方称又击落一架印度战机",
+        "onboard_time": 1746844890,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7174,
+        "num": 853910,
+        "word": "一图读懂民营经济促进法亮点",
+        "onboard_time": 1746777981,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 4160078,
+        "num": 853721,
+        "word": "人民日报官博删除赴山海",
+        "onboard_time": 1746846931,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 853505,
+        "num": 853505,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36351,
+        "num": 586358,
+        "word": "网警查处一起法律服务公司侵公案",
+        "onboard_time": 1746848252,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557640,
+        "num": 557640,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 366442,
+        "num": 366442,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356975,
+        "num": 356975,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297891,
+        "num": 356855,
+        "word": "近6亿中国人去年看网文花了430亿",
+        "onboard_time": 1746847290,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1234110,
+        "num": 355577,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530250,
+        "num": 354690,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564169,
+        "num": 354142,
+        "word": "印巴冲突",
+        "onboard_time": 1746848191,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339368,
+        "num": 353303,
+        "word": "母亲节送妈妈什么礼物",
+        "onboard_time": 1746848252,
+        "rank": 13,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 297623,
+        "num": 352671,
+        "word": "巴基斯坦战机进入印度领空",
+        "onboard_time": 1746843930,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213755,
+        "num": 351767,
+        "word": "马嘉祺让张杰请看他拍的星海",
+        "onboard_time": 1746841891,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201095,
+        "num": 350860,
+        "word": "张杰回复马嘉祺期待小马的未live",
+        "onboard_time": 1746847892,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182061,
+        "num": 349280,
+        "word": "宋雨琦当卧底戏有点过了",
+        "onboard_time": 1746848552,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14682,
+        "num": 348470,
+        "word": "0热量的盐为什么要少吃",
+        "onboard_time": 1746848072,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22341,
+        "num": 347712,
+        "word": "月经周期长短真能反映卵巢健康状况吗",
+        "onboard_time": 1746848492,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 440864,
+        "num": 347348,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346702,
+        "num": 346702,
+        "word": "巴基斯坦对印度发动网络攻击",
+        "onboard_time": 1746840931,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340900,
+        "num": 340900,
+        "word": "哥哥第一次带女朋友回家",
+        "onboard_time": 1746846870,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332757,
+        "num": 332757,
+        "word": "全红婵账号虞书欣星奇摇作品已不可见",
+        "onboard_time": 1746834799,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 318371,
+        "num": 318371,
+        "word": "巴基斯坦启动军事行动回应印度挑衅",
+        "onboard_time": 1746836971,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268168,
+        "num": 268168,
+        "word": "樊振东杭州",
+        "onboard_time": 1746846330,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251355,
+        "num": 251355,
+        "word": "印称1名高级官员在袭击中死亡",
+        "onboard_time": 1746846271,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158856,
+        "num": 250989,
+        "word": "车兴德从偶像剧闯进刑侦剧了",
+        "onboard_time": 1746847771,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156610,
+        "num": 250597,
+        "word": "smtr25新舞台",
+        "onboard_time": 1746846630,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35440,
+        "num": 250229,
+        "word": "看我的摩托",
+        "onboard_time": 1746847231,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302953,
+        "num": 249694,
+        "word": "恋与深空洗澡卡",
+        "onboard_time": 1746847590,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291961,
+        "num": 249178,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248991,
+        "num": 248991,
+        "word": "网友曝腾讯工位全国最大",
+        "onboard_time": 1746842071,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 237040,
+        "num": 237040,
+        "word": "印度要求封禁8000多个社媒账号",
+        "onboard_time": 1746836181,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161684,
+        "num": 223552,
+        "word": "张杰回复宋亚轩呀好xuan",
+        "onboard_time": 1746848852,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215344,
+        "num": 215344,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213932,
+        "num": 213932,
+        "word": "巴基斯坦",
+        "onboard_time": 1746834739,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130116,
+        "num": 205227,
+        "word": "陈豪被曝养家压力大频繁接戏",
+        "onboard_time": 1746849030,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204973,
+        "num": 204973,
+        "word": "阵风",
+        "onboard_time": 1746848131,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185543,
+        "num": 185543,
+        "word": "爸爸哭诉刚上幼儿园说没就没了",
+        "onboard_time": 1746832998,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196406,
+        "num": 185109,
+        "word": "20岁男子杀害14岁女孩被执行死刑",
+        "onboard_time": 1746845791,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184409,
+        "num": 184409,
+        "word": "巴军事行动致印度约70%电网瘫痪",
+        "onboard_time": 1746848072,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167965,
+        "num": 167965,
+        "word": "雷军复更健身房打卡",
+        "onboard_time": 1746834739,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161332,
+        "num": 161332,
+        "word": "巴称印发射6枚弹道导弹均落在印领土",
+        "onboard_time": 1746848072,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159491,
+        "num": 159491,
+        "word": "雷霆vs掘金",
+        "onboard_time": 1746848731,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144006,
+        "num": 152724,
+        "word": "歌手歌单",
+        "onboard_time": 1746847590,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150006,
+        "num": 150006,
+        "word": "耀祖",
+        "onboard_time": 1746835821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149822,
+        "num": 149822,
+        "word": "大批韩国游客涌入盐城打高尔夫",
+        "onboard_time": 1746839130,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143554,
+        "num": 143554,
+        "word": "男子地铁怪行为致3人恐慌受伤",
+        "onboard_time": 1746842731,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143511,
+        "num": 143511,
+        "word": "裙撑",
+        "onboard_time": 1746847832,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#为中俄关系定向领航#"
+    }
+  }
+}

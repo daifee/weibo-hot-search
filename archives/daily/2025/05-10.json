@@ -1,7 +1,15 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746847553950,
+  "endTime": 1746849054226,
   "band_list": [
+    {
+      "raw_hot": 4160078,
+      "num": 853721,
+      "word": "人民日报官博删除赴山海",
+      "onboard_time": 1746846931,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2097420,
       "num": 395681,
@@ -25,6 +33,14 @@
       "onboard_time": 1746803964,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 924964,
+      "num": 1360395,
+      "word": "印度战机被击落飞行员被俘",
+      "onboard_time": 1746847832,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 916878,
@@ -51,16 +67,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 847690,
-      "num": 523963,
-      "word": "人民日报官博删除赴山海",
-      "onboard_time": 1746846931,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 827615,
-      "num": 388622,
+      "raw_hot": 853505,
+      "num": 853505,
       "word": "17岁到67岁 你居然不爱我了",
       "onboard_time": 1746845791,
       "rank": 15,
@@ -104,6 +112,14 @@
       "word": "巴基斯坦",
       "onboard_time": 1746834739,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 564169,
+      "num": 354142,
+      "word": "印巴冲突",
+      "onboard_time": 1746848191,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -275,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339368,
+      "num": 353303,
+      "word": "母亲节送妈妈什么礼物",
+      "onboard_time": 1746848252,
+      "rank": 13,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 312043,
       "num": 312043,
       "word": "大批韩国游客涌入盐城打高尔夫",
@@ -307,12 +331,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 302953,
+      "num": 249694,
+      "word": "恋与深空洗澡卡",
+      "onboard_time": 1746847590,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301201,
       "num": 301201,
       "word": "唐嫣龚俊双C位",
       "onboard_time": 1746835099,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297891,
+      "num": 356855,
+      "word": "近6亿中国人去年看网文花了430亿",
+      "onboard_time": 1746847290,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 295104,
@@ -339,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268168,
+      "num": 268168,
+      "word": "樊振东杭州",
+      "onboard_time": 1746846330,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261435,
       "num": 392056,
       "word": "马嘉祺让张杰请看他拍的星海",
@@ -355,15 +403,7 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 248831,
-      "num": 278243,
-      "word": "三得利 成毅",
-      "onboard_time": 1746840871,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244019,
+      "raw_hot": 251355,
       "num": 398703,
       "word": "印称1名高级官员在袭击中死亡",
       "onboard_time": 1746846271,
@@ -371,12 +411,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 231137,
-      "num": 231137,
-      "word": "樊振东杭州",
-      "onboard_time": 1746846330,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 248831,
+      "num": 278243,
+      "word": "三得利 成毅",
+      "onboard_time": 1746840871,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 222940,
@@ -393,6 +433,14 @@
       "onboard_time": 1746834739,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 215344,
+      "num": 215344,
+      "word": "赴山海女主",
+      "onboard_time": 1746848852,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 210583,
@@ -417,6 +465,22 @@
       "onboard_time": 1746840811,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204973,
+      "num": 204973,
+      "word": "阵风",
+      "onboard_time": 1746848131,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 201095,
+      "num": 350860,
+      "word": "张杰回复马嘉祺期待小马的未live",
+      "onboard_time": 1746847892,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 198610,
@@ -459,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184409,
+      "num": 184409,
+      "word": "巴军事行动致印度约70%电网瘫痪",
+      "onboard_time": 1746848072,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183734,
       "num": 161143,
       "word": "原来真有人命好到一塌糊涂",
@@ -467,12 +539,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 176064,
-      "num": 176064,
-      "word": "近6亿中国人去年看网文花了430亿",
-      "onboard_time": 1746847290,
-      "rank": 34,
-      "category": "读书作家"
+      "raw_hot": 182061,
+      "num": 349280,
+      "word": "宋雨琦当卧底戏有点过了",
+      "onboard_time": 1746848552,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 174519,
@@ -523,6 +595,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161684,
+      "num": 223552,
+      "word": "张杰回复宋亚轩呀好xuan",
+      "onboard_time": 1746848852,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161332,
+      "num": 161332,
+      "word": "巴称印发射6枚弹道导弹均落在印领土",
+      "onboard_time": 1746848072,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160438,
       "num": 160438,
       "word": "巴方称击落29架印度无人机",
@@ -537,6 +625,22 @@
       "onboard_time": 1746803303,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159491,
+      "num": 159491,
+      "word": "雷霆vs掘金",
+      "onboard_time": 1746848731,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158856,
+      "num": 250989,
+      "word": "车兴德从偶像剧闯进刑侦剧了",
+      "onboard_time": 1746847771,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 155825,
@@ -603,6 +707,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 144006,
+      "num": 152724,
+      "word": "歌手歌单",
+      "onboard_time": 1746847590,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143511,
+      "num": 143511,
+      "word": "裙撑",
+      "onboard_time": 1746847832,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 143015,
       "num": 246099,
       "word": "李晟在张杰演唱会蹦迪",
@@ -641,6 +761,14 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130116,
+      "num": 205227,
+      "word": "陈豪被曝养家压力大频繁接戏",
+      "onboard_time": 1746849030,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129902,
@@ -1099,6 +1227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36351,
+      "num": 586358,
+      "word": "网警查处一起法律服务公司侵公案",
+      "onboard_time": 1746848252,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36206,
       "num": 34348,
       "word": "何超莲回复窦骁生日祝福",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1746809359,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35440,
+      "num": 250229,
+      "word": "看我的摩托",
+      "onboard_time": 1746847231,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 35432,
@@ -1137,14 +1281,6 @@
       "onboard_time": 1746817335,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33143,
-      "num": 245977,
-      "word": "看我的摩托",
-      "onboard_time": 1746847231,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 31418,
@@ -1201,6 +1337,14 @@
       "onboard_time": 1746814276,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22341,
+      "num": 347712,
+      "word": "月经周期长短真能反映卵巢健康状况吗",
+      "onboard_time": 1746848492,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21943,
@@ -1267,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14682,
+      "num": 348470,
+      "word": "0热量的盐为什么要少吃",
+      "onboard_time": 1746848072,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13780,
       "num": 16192,
       "word": "官方回应葬礼墙体倒塌人员伤亡",
@@ -1292,7 +1444,7 @@
     },
     {
       "raw_hot": 10062,
-      "num": 715547,
+      "num": 853910,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 7,
