@@ -1,0 +1,410 @@
+{
+  "runTime": 1746916797334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421960,
+        "num": 506419,
+        "word": "大连西山水库惊现成群超大怪鱼",
+        "onboard_time": 1746890244,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301175,
+        "num": 301175,
+        "word": "艺人吃中国饭砸中国锅绝不容忍",
+        "onboard_time": 1746878722,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11425,
+        "num": 267702,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253879,
+        "num": 253879,
+        "word": "退休夫妻月入1.2万负债1.2亿",
+        "onboard_time": 1746882142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213218,
+        "num": 213218,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200170,
+        "num": 200170,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192311,
+        "num": 192311,
+        "word": "结婚无需户口本首日爸妈们有话说",
+        "onboard_time": 1746882801,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116064,
+        "num": 116064,
+        "word": "周迅起床了天塌了",
+        "onboard_time": 1746883884,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109804,
+        "num": 109804,
+        "word": "上海浦东机场T1被曝开放24小时安检",
+        "onboard_time": 1746882082,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104699,
+        "num": 104699,
+        "word": "车内座位不够3个娃被藏后备箱",
+        "onboard_time": 1746891863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203858,
+        "num": 103241,
+        "word": "许多印度人开始囤积性抢购",
+        "onboard_time": 1746886943,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123475,
+        "num": 100505,
+        "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
+        "onboard_time": 1746895520,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97667,
+        "num": 97667,
+        "word": "印度",
+        "onboard_time": 1746879023,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93582,
+        "num": 93582,
+        "word": "母亲节文案大赏",
+        "onboard_time": 1746893241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88462,
+        "num": 88462,
+        "word": "郭晓婷回应客串淮水竹亭",
+        "onboard_time": 1746895460,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77969,
+        "num": 77969,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75179,
+        "num": 75179,
+        "word": "大连一水库出现成群黑色大鱼",
+        "onboard_time": 1746895520,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67256,
+        "num": 67256,
+        "word": "哈妮克孜让丁真不要无所谓",
+        "onboard_time": 1746892581,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62895,
+        "num": 62895,
+        "word": "会癌变的痣一般有5个特征",
+        "onboard_time": 1746880882,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43845,
+        "num": 43845,
+        "word": "赴山海剧组好六预告",
+        "onboard_time": 1746883224,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51886,
+        "num": 43478,
+        "word": "歼10总工程师",
+        "onboard_time": 1746888803,
+        "rank": 20,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 37917,
+        "num": 37917,
+        "word": "法院回应两行人相撞案",
+        "onboard_time": 1746885502,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36996,
+        "num": 36996,
+        "word": "花少北 734",
+        "onboard_time": 1746879863,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 36205,
+        "word": "小男孩说话算话带着包子冒雨赴约",
+        "onboard_time": 1746904934,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35926,
+        "num": 35926,
+        "word": "歼35让中国海军实现作战能力最大化",
+        "onboard_time": 1746886342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35268,
+        "num": 35268,
+        "word": "AG夺冠",
+        "onboard_time": 1746884065,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34123,
+        "num": 34123,
+        "word": "赴山海除名李凯馨",
+        "onboard_time": 1746868222,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33343,
+        "num": 33343,
+        "word": "谁给袁姗姗做的妆造出来挨夸",
+        "onboard_time": 1746888923,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32610,
+        "num": 32610,
+        "word": "全红婵去了张杰演唱会",
+        "onboard_time": 1746891982,
+        "rank": 28,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 30875,
+        "num": 30875,
+        "word": "赴山海",
+        "onboard_time": 1746880762,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30396,
+        "num": 30396,
+        "word": "人民网评称乘风带动雄安游客热潮",
+        "onboard_time": 1746914534,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29849,
+        "num": 29849,
+        "word": "谁给白鹿做的特效",
+        "onboard_time": 1746891143,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29140,
+        "num": 29140,
+        "word": "李沐宸给足了刘奕畅情绪价值",
+        "onboard_time": 1746889405,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29018,
+        "num": 29018,
+        "word": "时代峰峻声明",
+        "onboard_time": 1746880281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25894,
+        "num": 29010,
+        "word": "鞠婧祎额头受伤",
+        "onboard_time": 1746876442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25250,
+        "num": 29002,
+        "word": "颜安 下镜",
+        "onboard_time": 1746885143,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23508,
+        "num": 29000,
+        "word": "偶遇王文也与未婚夫约会",
+        "onboard_time": 1746901636,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23048,
+        "num": 28987,
+        "word": "广州大雨下不停",
+        "onboard_time": 1746894020,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22604,
+        "num": 28979,
+        "word": "张杰请把墨镜焊死在脸上",
+        "onboard_time": 1746880882,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22584,
+        "num": 28972,
+        "word": "强烈呼吁印巴双方以和平稳定大局为重",
+        "onboard_time": 1746899836,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22464,
+        "num": 28963,
+        "word": "机智的住院医生生活",
+        "onboard_time": 1746889703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21681,
+        "num": 28953,
+        "word": "00后民警MVP结算画面好可爱",
+        "onboard_time": 1746907334,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21456,
+        "num": 28949,
+        "word": "钟意FMVP",
+        "onboard_time": 1746884482,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21302,
+        "num": 28940,
+        "word": "慕强天菜一诺",
+        "onboard_time": 1746892042,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21273,
+        "num": 28929,
+        "word": "中国军人挥手告别时藏着爱",
+        "onboard_time": 1746906135,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18150,
+        "num": 28922,
+        "word": "何秋亊杂志",
+        "onboard_time": 1746905594,
+        "rank": 45,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 17453,
+        "num": 28918,
+        "word": "在印在巴中国公民必知电话",
+        "onboard_time": 1746909734,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16728,
+        "num": 28905,
+        "word": "花了1800元学到的炸蘑菇方法",
+        "onboard_time": 1746905655,
+        "rank": 47,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 16637,
+        "num": 28894,
+        "word": "东大圆脸模仿刚买的飞机被打了",
+        "onboard_time": 1746916756,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15177,
+        "num": 28890,
+        "word": "丁俊晖谈赵心童夺冠",
+        "onboard_time": 1746889161,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束对俄罗斯国事访问#"
+    }
+  }
+}
