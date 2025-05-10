@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746895539500,
+  "endTime": 1746897598778,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -10387,6 +10387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255711,
+      "num": 490427,
+      "word": "广州大雨下不停",
+      "onboard_time": 1746894020,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255528,
       "num": 255528,
       "word": "假装领导帮买房办编制诈骗721万",
@@ -11409,14 +11417,6 @@
       "onboard_time": 1746699141,
       "rank": 25,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 230104,
-      "num": 490427,
-      "word": "广州大雨下不停",
-      "onboard_time": 1746894020,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230002,
@@ -27243,6 +27243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114642,
+      "num": 114642,
+      "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
+      "onboard_time": 1746895520,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114605,
       "num": 114605,
       "word": "刘宪华说粤语好苏",
@@ -30035,14 +30043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91703,
-      "num": 91703,
-      "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
-      "onboard_time": 1746895520,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91644,
       "num": 195556,
       "word": "立夏养心记得多吃酸",
@@ -32779,6 +32779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59166,
+      "num": 66778,
+      "word": "0元get撕拉片",
+      "onboard_time": 1746897019,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59098,
       "num": 59098,
       "word": "华为PuraX",
@@ -33441,6 +33449,14 @@
       "onboard_time": 1746083302,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50269,
+      "num": 66772,
+      "word": "母亲节文案",
+      "onboard_time": 1746896359,
+      "rank": 43,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 50105,
@@ -35249,6 +35265,14 @@
       "onboard_time": 1746522080,
       "rank": 39,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 33042,
+      "num": 66777,
+      "word": "四连冠游走大帅",
+      "onboard_time": 1746896239,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 32983,
