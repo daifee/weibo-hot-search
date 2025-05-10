@@ -1,0 +1,410 @@
+{
+  "runTime": 1746876976909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1389481,
+        "num": 1389481,
+        "word": "身份证丢了会被结婚么",
+        "onboard_time": 1746869842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845610,
+        "num": 845610,
+        "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+        "onboard_time": 1746872842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37591,
+        "num": 624609,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621058,
+        "num": 621058,
+        "word": "苹果渠道官方调价",
+        "onboard_time": 1746869301,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 404263,
+        "num": 404263,
+        "word": "正媛be",
+        "onboard_time": 1746875002,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351071,
+        "num": 351071,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343455,
+        "num": 343455,
+        "word": "中美会谈前中国加速替代美产品",
+        "onboard_time": 1746874761,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289850,
+        "num": 289850,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277259,
+        "num": 277259,
+        "word": "世界之外",
+        "onboard_time": 1746876321,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230780,
+        "num": 275406,
+        "word": "印方称将对巴基斯坦的行动作出回应",
+        "onboard_time": 1746875663,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1184864,
+        "num": 274340,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420976,
+        "num": 271157,
+        "word": "虞书欣直播",
+        "onboard_time": 1746873081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407929,
+        "num": 266793,
+        "word": "孟子义来自早上6点59的撕拉片",
+        "onboard_time": 1746872301,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383490,
+        "num": 264056,
+        "word": "巴基斯坦士兵昼夜不停密集炮轰印度",
+        "onboard_time": 1746870562,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109173,
+        "num": 262116,
+        "word": "搬家提供10个纸箱没想到只搬10箱",
+        "onboard_time": 1746875541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329983,
+        "num": 258394,
+        "word": "艾威妻子病危发文求助",
+        "onboard_time": 1746874402,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163326,
+        "num": 256753,
+        "word": "洪知秀造型",
+        "onboard_time": 1746875182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254792,
+        "num": 254792,
+        "word": "关注印巴局势",
+        "onboard_time": 1746870142,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82940,
+        "num": 253844,
+        "word": "妈妈称没想过再生个孩子照顾小岱",
+        "onboard_time": 1746875481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19040,
+        "num": 251994,
+        "word": "5GA和5G有什么区别",
+        "onboard_time": 1746876082,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 930473,
+        "num": 249877,
+        "word": "赴山海除名李凯馨",
+        "onboard_time": 1746868222,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324102,
+        "num": 249715,
+        "word": "鞠婧祎额头受伤",
+        "onboard_time": 1746876442,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300324,
+        "num": 247916,
+        "word": "赴山海还能播出吗",
+        "onboard_time": 1746869602,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118149,
+        "num": 246052,
+        "word": "宋妍霏马吟吟直播",
+        "onboard_time": 1746876561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285992,
+        "num": 244155,
+        "word": "小红书回应网友评论曾捂死半岁女婴",
+        "onboard_time": 1746873621,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243094,
+        "num": 243094,
+        "word": "中美经贸高层会谈在瑞士日内瓦开始举行",
+        "onboard_time": 1746867142,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 242822,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127971,
+        "num": 217184,
+        "word": "我就说看无限超越班有用吧",
+        "onboard_time": 1746875961,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381261,
+        "num": 211862,
+        "word": "谢娜零容忍",
+        "onboard_time": 1746869121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84447,
+        "num": 203888,
+        "word": "DRG拿下一血",
+        "onboard_time": 1746876743,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199764,
+        "num": 199764,
+        "word": "蝶变2",
+        "onboard_time": 1746876321,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 126011,
+        "num": 190175,
+        "word": "花缘夏洛特太强了",
+        "onboard_time": 1746876802,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186625,
+        "num": 186625,
+        "word": "苏新皓网盘",
+        "onboard_time": 1746872722,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185009,
+        "num": 185009,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1746864621,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168041,
+        "num": 168041,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139791,
+        "num": 139791,
+        "word": "李嘉诚七折抛售旗下北京楼盘",
+        "onboard_time": 1746871821,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138817,
+        "num": 138817,
+        "word": "赵心童说和王楚钦顶峰相见",
+        "onboard_time": 1746871040,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136492,
+        "num": 136492,
+        "word": "黄杨钿甜成人礼",
+        "onboard_time": 1746869363,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125408,
+        "num": 125408,
+        "word": "中方回应印巴局势持续升级",
+        "onboard_time": 1746873381,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23480,
+        "num": 122800,
+        "word": "小樱知世最好的闺蜜组",
+        "onboard_time": 1746876682,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122777,
+        "num": 122777,
+        "word": "蝶变",
+        "onboard_time": 1746873621,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121591,
+        "num": 121591,
+        "word": "学煮苹果水养脾胃",
+        "onboard_time": 1746866240,
+        "rank": 41,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 116490,
+        "num": 116490,
+        "word": "巴方称若印度就此止步巴方也考虑止步",
+        "onboard_time": 1746866601,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115105,
+        "num": 115105,
+        "word": "黄俊捷 嘻嘻",
+        "onboard_time": 1746861502,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111488,
+        "num": 114456,
+        "word": "NCT合照",
+        "onboard_time": 1746872901,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114386,
+        "num": 114386,
+        "word": "痛经",
+        "onboard_time": 1746862822,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111510,
+        "num": 111510,
+        "word": "巴基斯坦军事行动代号铜墙铁壁",
+        "onboard_time": 1746868881,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106651,
+        "num": 106651,
+        "word": "AG开场好帅",
+        "onboard_time": 1746873262,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100187,
+        "num": 105107,
+        "word": "淮水竹亭",
+        "onboard_time": 1746872901,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97418,
+        "num": 104921,
+        "word": "没人选宋妍霏的原因找到了",
+        "onboard_time": 1746859881,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首达成许多新的重要共识#"
+    }
+  }
+}

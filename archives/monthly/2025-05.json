@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746876054414,
+  "endTime": 1746876976909,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -803,6 +803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1389481,
+      "num": 1389481,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1388262,
       "num": 1388262,
       "word": "第五人格发布会",
@@ -856,14 +864,6 @@
       "word": "上海欢乐谷失火被游客误认节目效果",
       "onboard_time": 1746401418,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1333986,
-      "num": 1333986,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -2297,6 +2297,14 @@
       "onboard_time": 1746700762,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 845610,
+      "num": 845610,
+      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+      "onboard_time": 1746872842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 845122,
@@ -6107,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420976,
+      "num": 271157,
+      "word": "虞书欣直播",
+      "onboard_time": 1746873081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420797,
       "num": 420797,
       "word": "为什么年轻人普遍牙不好",
@@ -6275,14 +6291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 410789,
-      "num": 410789,
-      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
-      "onboard_time": 1746872842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 410693,
       "num": 272205,
       "word": "长胖其实是有滞后性的",
@@ -6323,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407929,
+      "num": 305839,
+      "word": "孟子义来自早上6点59的撕拉片",
+      "onboard_time": 1746872301,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407874,
       "num": 407874,
       "word": "张小婉组五公第一",
@@ -6353,6 +6369,14 @@
       "onboard_time": 1746078020,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404263,
+      "num": 404263,
+      "word": "正媛be",
+      "onboard_time": 1746875002,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 403379,
@@ -6401,14 +6425,6 @@
       "onboard_time": 1746698422,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399524,
-      "num": 264074,
-      "word": "虞书欣直播",
-      "onboard_time": 1746873081,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 399049,
@@ -6737,14 +6753,6 @@
       "onboard_time": 1746695182,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382268,
-      "num": 305839,
-      "word": "孟子义来自早上6点59的撕拉片",
-      "onboard_time": 1746872301,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 382175,
@@ -7507,6 +7515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343455,
+      "num": 343455,
+      "word": "中美会谈前中国加速替代美产品",
+      "onboard_time": 1746874761,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 343054,
       "num": 276520,
       "word": "女子决定离婚再和AI男友举办婚礼",
@@ -7803,6 +7819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329983,
+      "num": 261346,
+      "word": "艾威妻子病危发文求助",
+      "onboard_time": 1746874402,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329835,
       "num": 329835,
       "word": "李想年薪6.39亿",
@@ -7891,14 +7915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327401,
-      "num": 261346,
-      "word": "艾威妻子病危发文求助",
-      "onboard_time": 1746874402,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327138,
       "num": 327138,
       "word": "在朋友圈最有面子的一刻",
@@ -7921,6 +7937,14 @@
       "onboard_time": 1746069440,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 324102,
+      "num": 249715,
+      "word": "鞠婧祎额头受伤",
+      "onboard_time": 1746876442,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 323675,
@@ -9067,6 +9091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285992,
+      "num": 244155,
+      "word": "小红书回应网友评论曾捂死半岁女婴",
+      "onboard_time": 1746873621,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 285990,
       "num": 285990,
       "word": "论文男女不分仅处理作者远远不够",
@@ -9259,6 +9291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277259,
+      "num": 277259,
+      "word": "世界之外",
+      "onboard_time": 1746818174,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277139,
       "num": 299625,
       "word": "鹭卓直播",
@@ -9385,14 +9425,6 @@
       "onboard_time": 1746365066,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272550,
-      "num": 272550,
-      "word": "正媛be",
-      "onboard_time": 1746875002,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 272245,
@@ -11035,6 +11067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230780,
+      "num": 275406,
+      "word": "印方称将对巴基斯坦的行动作出回应",
+      "onboard_time": 1746875663,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230455,
       "num": 230455,
       "word": "撕拉片是情绪价值还是炒作",
@@ -11377,14 +11417,6 @@
       "onboard_time": 1746333682,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224248,
-      "num": 224248,
-      "word": "小红书回应网友评论曾捂死半岁女婴",
-      "onboard_time": 1746873621,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 224124,
@@ -13489,6 +13521,14 @@
       "onboard_time": 1746276923,
       "rank": 26,
       "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 199764,
+      "num": 199764,
+      "word": "蝶变2",
+      "onboard_time": 1746876321,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 199719,
@@ -18371,6 +18411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163326,
+      "num": 256753,
+      "word": "洪知秀造型",
+      "onboard_time": 1746875182,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163325,
       "num": 201612,
       "word": "吴宣仪谁让你这么跑的",
@@ -18953,14 +19001,6 @@
       "onboard_time": 1746451762,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159203,
-      "num": 271784,
-      "word": "中美会谈前中国加速替代美产品",
-      "onboard_time": 1746874761,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159200,
@@ -20769,14 +20809,6 @@
       "onboard_time": 1746700042,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147232,
-      "num": 213651,
-      "word": "洪知秀造型",
-      "onboard_time": 1746875182,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 147164,
@@ -24195,6 +24227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127971,
+      "num": 217184,
+      "word": "我就说看无限超越班有用吧",
+      "onboard_time": 1746875961,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127940,
       "num": 343377,
       "word": "18800元能请前美国州长录祝福视频",
@@ -24680,6 +24720,14 @@
       "word": "COA8年度评选",
       "onboard_time": 1746267860,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126011,
+      "num": 190175,
+      "word": "花缘夏洛特太强了",
+      "onboard_time": 1746876802,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -25849,6 +25897,14 @@
       "onboard_time": 1746778223,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118149,
+      "num": 246052,
+      "word": "宋妍霏马吟吟直播",
+      "onboard_time": 1746876561,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 118105,
@@ -27187,6 +27243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109173,
+      "num": 262257,
+      "word": "搬家提供10个纸箱没想到只搬10箱",
+      "onboard_time": 1746875541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109110,
       "num": 109110,
       "word": "SMTOWN墨西哥演唱会红毯",
@@ -27945,14 +28009,6 @@
       "onboard_time": 1746346401,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 103858,
-      "num": 103858,
-      "word": "我就说看无限超越班有用吧",
-      "onboard_time": 1746875961,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 103856,
@@ -29763,6 +29819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84447,
+      "num": 203888,
+      "word": "DRG拿下一血",
+      "onboard_time": 1746876743,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84426,
       "num": 167041,
       "word": "五一节后减肥7天冲刺食谱",
@@ -29865,6 +29929,14 @@
       "onboard_time": 1746695062,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 82940,
+      "num": 255264,
+      "word": "妈妈称没想过再生个孩子照顾小岱",
+      "onboard_time": 1746875481,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82934,
@@ -30225,14 +30297,6 @@
       "onboard_time": 1746624804,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78480,
-      "num": 257915,
-      "word": "印方称将对巴基斯坦的行动作出回应",
-      "onboard_time": 1746875663,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78270,
@@ -34331,14 +34395,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 31887,
-      "num": 255264,
-      "word": "妈妈称没想过再生个孩子照顾小岱",
-      "onboard_time": 1746875481,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31763,
       "num": 637289,
       "word": "中俄关系不断焕发出新活力",
@@ -35419,6 +35475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23480,
+      "num": 122800,
+      "word": "小樱知世最好的闺蜜组",
+      "onboard_time": 1746876682,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23475,
       "num": 213772,
       "word": "雷雨天气为何能引发哮喘",
@@ -35875,14 +35939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20358,
-      "num": 262257,
-      "word": "搬家提供10个纸箱没想到只搬10箱",
-      "onboard_time": 1746875541,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20348,
       "num": 32465,
       "word": "普京红场讲话提醒牢记二战教训",
@@ -36089,6 +36145,14 @@
       "onboard_time": 1746613763,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19040,
+      "num": 251994,
+      "word": "5GA和5G有什么区别",
+      "onboard_time": 1746876082,
+      "rank": 19,
+      "category": "其它"
     },
     {
       "raw_hot": 18921,
@@ -36465,14 +36529,6 @@
       "onboard_time": 1746487939,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16257,
-      "num": 28034,
-      "word": "世界之外",
-      "onboard_time": 1746818174,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 16231,

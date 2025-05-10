@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746876054414,
+  "endTime": 1746876976909,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -51,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1389481,
+      "num": 1389481,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1376907,
       "num": 1376907,
       "word": "雷军说过去1个月是创业最艰难时期",
       "onboard_time": 1746835461,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1333986,
-      "num": 1333986,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1310747,
@@ -193,6 +193,14 @@
       "onboard_time": 1746835461,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 845610,
+      "num": 845610,
+      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+      "onboard_time": 1746872842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 800985,
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420976,
+      "num": 271157,
+      "word": "虞书欣直播",
+      "onboard_time": 1746873081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420189,
       "num": 282069,
       "word": "巴方称若印度就此止步巴方也考虑止步",
@@ -515,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410789,
-      "num": 410789,
-      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
-      "onboard_time": 1746872842,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 407929,
+      "num": 305839,
+      "word": "孟子义来自早上6点59的撕拉片",
+      "onboard_time": 1746872301,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 404441,
@@ -531,20 +547,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 404263,
+      "num": 404263,
+      "word": "正媛be",
+      "onboard_time": 1746875002,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403379,
       "num": 403379,
       "word": "花10万找网红带货卖了2000元的货",
       "onboard_time": 1746835280,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399524,
-      "num": 264074,
-      "word": "虞书欣直播",
-      "onboard_time": 1746873081,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 398145,
@@ -571,14 +587,6 @@
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 382268,
-      "num": 305839,
-      "word": "孟子义来自早上6点59的撕拉片",
-      "onboard_time": 1746872301,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374143,
       "num": 280343,
       "word": "赴山海还能播出吗",
@@ -600,6 +608,14 @@
       "word": "中美经贸高层会谈在瑞士日内瓦开始举行",
       "onboard_time": 1746867142,
       "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 343455,
+      "num": 343455,
+      "word": "中美会谈前中国加速替代美产品",
+      "onboard_time": 1746874761,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -635,12 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327401,
+      "raw_hot": 329983,
       "num": 261346,
       "word": "艾威妻子病危发文求助",
       "onboard_time": 1746874402,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324102,
+      "num": 249715,
+      "word": "鞠婧祎额头受伤",
+      "onboard_time": 1746876442,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 321649,
@@ -779,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285992,
+      "num": 244155,
+      "word": "小红书回应网友评论曾捂死半岁女婴",
+      "onboard_time": 1746873621,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 281967,
       "num": 331264,
       "word": "陈豪被曝养家压力大频繁接戏",
@@ -787,20 +819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277259,
+      "num": 277259,
+      "word": "世界之外",
+      "onboard_time": 1746818174,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275464,
       "num": 275464,
       "word": "赵心童说和王楚钦顶峰相见",
       "onboard_time": 1746871040,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272550,
-      "num": 272550,
-      "word": "正媛be",
-      "onboard_time": 1746875002,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 268168,
@@ -931,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230780,
+      "num": 275406,
+      "word": "印方称将对巴基斯坦的行动作出回应",
+      "onboard_time": 1746875663,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227836,
       "num": 227836,
       "word": "白鹿凤凰神女",
@@ -945,14 +985,6 @@
       "onboard_time": 1746855442,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224248,
-      "num": 224248,
-      "word": "小红书回应网友评论曾捂死半岁女婴",
-      "onboard_time": 1746873621,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 224124,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1746847892,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199764,
+      "num": 199764,
+      "word": "蝶变2",
+      "onboard_time": 1746876321,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 198610,
@@ -1443,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163326,
+      "num": 256753,
+      "word": "洪知秀造型",
+      "onboard_time": 1746875182,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163287,
       "num": 163287,
       "word": "NBA",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1746803303,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159203,
-      "num": 271784,
-      "word": "中美会谈前中国加速替代美产品",
-      "onboard_time": 1746874761,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158893,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1746842371,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147232,
-      "num": 213651,
-      "word": "洪知秀造型",
-      "onboard_time": 1746875182,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 146837,
@@ -2003,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127971,
+      "num": 217184,
+      "word": "我就说看无限超越班有用吧",
+      "onboard_time": 1746875961,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127181,
       "num": 127181,
       "word": "唐诗和黄梅戏是什么梦幻组合",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1746845011,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126011,
+      "num": 190175,
+      "word": "花缘夏洛特太强了",
+      "onboard_time": 1746876802,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 125020,
@@ -2121,6 +2169,14 @@
       "onboard_time": 1746862281,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 118149,
+      "num": 246052,
+      "word": "宋妍霏马吟吟直播",
+      "onboard_time": 1746876561,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 117302,
@@ -2251,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109173,
+      "num": 262257,
+      "word": "搬家提供10个纸箱没想到只搬10箱",
+      "onboard_time": 1746875541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108533,
       "num": 108533,
       "word": "赵心童调侃50万镑已经花掉了",
@@ -2321,14 +2385,6 @@
       "onboard_time": 1746837451,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103858,
-      "num": 103858,
-      "word": "我就说看无限超越班有用吧",
-      "onboard_time": 1746875961,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 102866,
@@ -2507,11 +2563,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84447,
+      "num": 203888,
+      "word": "DRG拿下一血",
+      "onboard_time": 1746876743,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83956,
       "num": 83956,
       "word": "男子高考640分辅导女儿沉默60秒",
       "onboard_time": 1746790760,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82940,
+      "num": 255264,
+      "word": "妈妈称没想过再生个孩子照顾小岱",
+      "onboard_time": 1746875481,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2561,14 +2633,6 @@
       "onboard_time": 1746873501,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78480,
-      "num": 257915,
-      "word": "印方称将对巴基斯坦的行动作出回应",
-      "onboard_time": 1746875663,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77958,
@@ -2891,14 +2955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31887,
-      "num": 255264,
-      "word": "妈妈称没想过再生个孩子照顾小岱",
-      "onboard_time": 1746875481,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31763,
       "num": 637289,
       "word": "中俄关系不断焕发出新活力",
@@ -3019,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23480,
+      "num": 122800,
+      "word": "小樱知世最好的闺蜜组",
+      "onboard_time": 1746876682,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23146,
       "num": 23790,
       "word": "周深马来西亚站收官vlog",
@@ -3043,14 +3107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20358,
-      "num": 262257,
-      "word": "搬家提供10个纸箱没想到只搬10箱",
-      "onboard_time": 1746875541,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20348,
       "num": 32465,
       "word": "普京红场讲话提醒牢记二战教训",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1746824474,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19040,
+      "num": 251994,
+      "word": "5GA和5G有什么区别",
+      "onboard_time": 1746876082,
+      "rank": 19,
+      "category": "其它"
     },
     {
       "raw_hot": 18567,
@@ -3129,14 +3193,6 @@
       "onboard_time": 1746820994,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16257,
-      "num": 28034,
-      "word": "世界之外",
-      "onboard_time": 1746818174,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 14774,
