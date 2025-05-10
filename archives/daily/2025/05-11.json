@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746908720229,
+  "endTime": 1746909528688,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -563,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16299,
+      "num": 24905,
+      "word": "00后民警MVP结算画面好可爱",
+      "onboard_time": 1746907334,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 16136,
       "num": 22373,
       "word": "花了1800元学到的炸蘑菇方法",
       "onboard_time": 1746905655,
       "rank": 49,
       "category": "美食,休闲"
-    },
-    {
-      "raw_hot": 15866,
-      "num": 24905,
-      "word": "00后民警MVP结算画面好可爱",
-      "onboard_time": 1746907334,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 15579,
@@ -595,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14032,
+      "num": 17373,
+      "word": "周诗雨YOLO",
+      "onboard_time": 1746909374,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 13036,
       "num": 18050,
       "word": "张杰高朋满座电量满格幸福求婚合唱满分",
@@ -603,8 +611,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 10885,
-      "num": 18257,
+      "raw_hot": 11425,
+      "num": 41670,
       "word": "喀秋莎和茉莉花在机场奏响",
       "onboard_time": 1746908535,
       "rank": 37,
