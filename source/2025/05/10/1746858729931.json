@@ -1,0 +1,410 @@
+{
+  "runTime": 1746858729931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 830276,
+        "num": 1132844,
+        "word": "巴基斯坦最新战果曝光",
+        "onboard_time": 1746852692,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 630393,
+        "num": 630393,
+        "word": "邓超让五哈给79年出生的人道歉",
+        "onboard_time": 1746852692,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112735,
+        "num": 624950,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 621264,
+        "num": 621264,
+        "word": "海外社媒满屏都是刚买的飞机",
+        "onboard_time": 1746855141,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 513270,
+        "num": 513270,
+        "word": "内娱终于有刀群舞女团了",
+        "onboard_time": 1746855022,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23331,
+        "num": 356348,
+        "word": "中俄关系不断焕发出新活力",
+        "onboard_time": 1746850291,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627797,
+        "num": 356315,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356249,
+        "num": 356249,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283057,
+        "num": 283057,
+        "word": "女子被冒名结婚撤销3年仍显示已婚",
+        "onboard_time": 1746853771,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222407,
+        "num": 277256,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2042451,
+        "num": 276987,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778449,
+        "num": 276034,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274838,
+        "num": 274838,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558175,
+        "num": 272084,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499083,
+        "num": 270723,
+        "word": "关晓彤晒撕拉片",
+        "onboard_time": 1746852392,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264190,
+        "num": 264190,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263256,
+        "num": 263256,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211603,
+        "num": 250455,
+        "word": "吴宣仪要唱哭了",
+        "onboard_time": 1746855442,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67800,
+        "num": 249571,
+        "word": "生理性和心理性喜欢的本质区别是什么",
+        "onboard_time": 1746858081,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25316,
+        "num": 249190,
+        "word": "5499元的考研秘籍竟是刷题小程序",
+        "onboard_time": 1746857302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249119,
+        "num": 249119,
+        "word": "强烈呼吁印巴双方保持冷静克制",
+        "onboard_time": 1746856042,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 702412,
+        "num": 242378,
+        "word": "李凯馨",
+        "onboard_time": 1746855442,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231061,
+        "num": 231061,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228100,
+        "num": 228100,
+        "word": "姚译添碰到孟子义都夹起来了",
+        "onboard_time": 1746856403,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227424,
+        "num": 227424,
+        "word": "炎亚纶回应汪东城被指变脸",
+        "onboard_time": 1746857002,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196882,
+        "num": 196882,
+        "word": "白鹿凤凰神女",
+        "onboard_time": 1746854012,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195941,
+        "num": 195941,
+        "word": "迪丽热巴黑旗袍",
+        "onboard_time": 1746858503,
+        "rank": 26,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 182426,
+        "num": 182426,
+        "word": "刚买的飞机",
+        "onboard_time": 1746858681,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 178507,
+        "word": "QQ音乐",
+        "onboard_time": 1746857722,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151368,
+        "num": 178287,
+        "word": "奔跑吧直播",
+        "onboard_time": 1746854901,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 981049,
+        "num": 178276,
+        "word": "人民日报官博删除赴山海",
+        "onboard_time": 1746846931,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178214,
+        "num": 178214,
+        "word": "印巴冲突",
+        "onboard_time": 1746848191,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166382,
+        "num": 166382,
+        "word": "据传印度女战机飞行员被俘",
+        "onboard_time": 1746856280,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161381,
+        "num": 161381,
+        "word": "赴山海主演戏份",
+        "onboard_time": 1746853232,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148581,
+        "num": 148581,
+        "word": "34岁女生花70万去英国留学一年",
+        "onboard_time": 1746858382,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136704,
+        "num": 148459,
+        "word": "邓超说何炅扑面而来的青春气息",
+        "onboard_time": 1746858561,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30262,
+        "num": 148170,
+        "word": "印军方辟谣女飞行员被捕",
+        "onboard_time": 1746858681,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28225,
+        "num": 148039,
+        "word": "刚买的飞机清唱版",
+        "onboard_time": 1746857061,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107939,
+        "num": 147812,
+        "word": "需要焯水的30种蔬菜",
+        "onboard_time": 1746858081,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 48830,
+        "num": 147483,
+        "word": "躲避大妈撞击被判负30%责任",
+        "onboard_time": 1746858081,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147324,
+        "num": 147324,
+        "word": "14岁女孩被抛尸水井案凶手执行死刑",
+        "onboard_time": 1746849212,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146689,
+        "num": 146689,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139091,
+        "num": 139091,
+        "word": "多邻国 多儿滚",
+        "onboard_time": 1746852271,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141116,
+        "num": 136960,
+        "word": "s400",
+        "onboard_time": 1746858503,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134521,
+        "num": 134521,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132906,
+        "num": 132906,
+        "word": "陈梦官宣去踢足球",
+        "onboard_time": 1746851251,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124659,
+        "num": 128909,
+        "word": "这句祖国永远是你们的家看哭了",
+        "onboard_time": 1746857302,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126172,
+        "num": 126172,
+        "word": "第五人格",
+        "onboard_time": 1746851191,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120488,
+        "num": 120488,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115271,
+        "num": 118619,
+        "word": "张雨绮张真源豪门姐弟售后",
+        "onboard_time": 1746857541,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念伟大胜利捍卫公平正义#"
+    }
+  }
+}
