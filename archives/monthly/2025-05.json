@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746881038588,
+  "endTime": 1746882019854,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -91,6 +91,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2834909,
+      "num": 2834909,
+      "word": "艺人吃中国饭砸中国锅绝不容忍",
+      "onboard_time": 1746878722,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2807138,
       "num": 2807138,
       "word": "办公室轮流请奶茶 窒息",
@@ -112,14 +120,6 @@
       "word": "石凯聊天记录",
       "onboard_time": 1746241760,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2588149,
-      "num": 2588149,
-      "word": "艺人吃中国饭砸中国锅绝不容忍",
-      "onboard_time": 1746878722,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -369,6 +369,14 @@
       "onboard_time": 1746595643,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1927816,
+      "num": 1927816,
+      "word": "印巴同意立即停火",
+      "onboard_time": 1746879682,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1926786,
@@ -643,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1554524,
-      "num": 1554524,
-      "word": "印巴同意立即停火",
-      "onboard_time": 1746879682,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1548965,
       "num": 1548965,
       "word": "李玉把处女作称为开山作",
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1412627,
+      "num": 1389481,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1411997,
       "num": 1411997,
       "word": "胡杏儿抽到黄宗泽的问题",
@@ -825,14 +833,6 @@
       "onboard_time": 1746505403,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1389481,
-      "num": 1389481,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1388262,
@@ -1777,6 +1777,14 @@
       "onboard_time": 1746095841,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 991157,
+      "num": 283946,
+      "word": "花少北 734",
+      "onboard_time": 1746879863,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 990968,
@@ -3667,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637513,
+      "num": 280201,
+      "word": "鞠婧祎额头受伤",
+      "onboard_time": 1746876442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637181,
       "num": 359926,
       "word": "苏州一直升机坠落致1死4伤",
@@ -4027,14 +4043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 599278,
-      "num": 282639,
-      "word": "花少北 734",
-      "onboard_time": 1746879863,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 597298,
       "num": 597298,
       "word": "iG",
@@ -4065,14 +4073,6 @@
       "onboard_time": 1746761181,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 594325,
-      "num": 280201,
-      "word": "鞠婧祎额头受伤",
-      "onboard_time": 1746876442,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 593694,
@@ -4481,6 +4481,14 @@
       "onboard_time": 1746500482,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543025,
+      "num": 269794,
+      "word": "会癌变的痣一般有5个特征",
+      "onboard_time": 1746880882,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 542254,
@@ -5923,6 +5931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437286,
+      "num": 351163,
+      "word": "赴山海",
+      "onboard_time": 1746319881,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437103,
       "num": 437103,
       "word": "吻戏",
@@ -7131,6 +7147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364782,
+      "num": 364782,
+      "word": "你好星期六",
+      "onboard_time": 1746880344,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364600,
       "num": 284117,
       "word": "张新成 李兰迪",
@@ -7169,6 +7193,14 @@
       "onboard_time": 1746790521,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 362693,
+      "num": 262655,
+      "word": "首部AI短剧",
+      "onboard_time": 1746878843,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 362312,
@@ -7321,14 +7353,6 @@
       "onboard_time": 1746671302,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 351163,
-      "num": 351163,
-      "word": "赴山海",
-      "onboard_time": 1746319881,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 351014,
@@ -7899,6 +7923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328662,
+      "num": 328662,
+      "word": "贺峻霖去看张杰演唱会了",
+      "onboard_time": 1746879562,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 328553,
       "num": 328553,
       "word": "一群富翁竟要求美国儿童做牺牲",
@@ -8224,14 +8256,6 @@
       "word": "两大叔圈天菜终于又合作了",
       "onboard_time": 1746020363,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 312653,
-      "num": 262655,
-      "word": "首部AI短剧",
-      "onboard_time": 1746878843,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -8920,6 +8944,14 @@
       "word": "一中国游客为捞相机命丧87米海底",
       "onboard_time": 1746574101,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292322,
+      "num": 292322,
+      "word": "女子金手镯剪开流出液体疑遇注水黄金",
+      "onboard_time": 1746879323,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -10547,14 +10579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247583,
-      "num": 266440,
-      "word": "贺峻霖去看张杰演唱会了",
-      "onboard_time": 1746879562,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 247495,
       "num": 247495,
       "word": "孟子义我从一年级就开始追你了",
@@ -10961,6 +10985,14 @@
       "onboard_time": 1746605603,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236497,
+      "num": 228787,
+      "word": "时代峰峻声明",
+      "onboard_time": 1746880281,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 236213,
@@ -12323,14 +12355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209337,
-      "num": 264788,
-      "word": "你好星期六",
-      "onboard_time": 1746880344,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209276,
       "num": 209276,
       "word": "柳智敏MLB全球品牌代言人",
@@ -12425,14 +12449,6 @@
       "onboard_time": 1746338420,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208288,
-      "num": 208288,
-      "word": "时代峰峻声明",
-      "onboard_time": 1746880281,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 208265,
@@ -12889,6 +12905,14 @@
       "onboard_time": 1746539663,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205210,
+      "num": 238961,
+      "word": "张杰请把墨镜焊死在脸上",
+      "onboard_time": 1746880882,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 205203,
@@ -13689,6 +13713,14 @@
       "onboard_time": 1746764121,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 235913,
+      "word": "无限超越班",
+      "onboard_time": 1746880762,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199078,
@@ -15571,6 +15603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187263,
+      "num": 187263,
+      "word": "zwy 梭哈起来",
+      "onboard_time": 1746880643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187236,
       "num": 187236,
       "word": "韩国月子中心都吃什么",
@@ -15785,14 +15825,6 @@
       "onboard_time": 1746594263,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185721,
-      "num": 169431,
-      "word": "会癌变的痣一般有5个特征",
-      "onboard_time": 1746880882,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 185691,
@@ -17275,6 +17307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172339,
+      "num": 198157,
+      "word": "刘学义直播",
+      "onboard_time": 1746881542,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172248,
       "num": 172248,
       "word": "沈月我会一直一直一直盯着这个秉竹业游",
@@ -18059,6 +18099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165993,
+      "num": 165993,
+      "word": "刘耀文看似不在意实则心里爽翻",
+      "onboard_time": 1746881361,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165945,
       "num": 165945,
       "word": "白鹿王星越唐宫新海报",
@@ -18184,6 +18232,14 @@
       "word": "剑来",
       "onboard_time": 1746538102,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165289,
+      "num": 165289,
+      "word": "翟潇闻新剧下的雨也该停了",
+      "onboard_time": 1746881122,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -19923,14 +19979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153831,
-      "num": 153831,
-      "word": "zwy 梭哈起来",
-      "onboard_time": 1746880643,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153763,
       "num": 153763,
       "word": "大侦探",
@@ -20105,14 +20153,6 @@
       "onboard_time": 1746375741,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152969,
-      "num": 152969,
-      "word": "女子金手镯剪开流出液体疑遇注水黄金",
-      "onboard_time": 1746879323,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152918,
@@ -20529,6 +20569,14 @@
       "onboard_time": 1746357082,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 150287,
+      "num": 150287,
+      "word": "梦岚单杀一诺",
+      "onboard_time": 1746879323,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 150171,
@@ -21208,14 +21256,6 @@
       "word": "奔跑吧下期有孟子义李昀锐",
       "onboard_time": 1746861321,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145594,
-      "num": 145594,
-      "word": "无限超越班",
-      "onboard_time": 1746880762,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -22705,14 +22745,6 @@
       "onboard_time": 1746353362,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136944,
-      "num": 136944,
-      "word": "张杰请把墨镜焊死在脸上",
-      "onboard_time": 1746880882,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 136888,
@@ -24739,6 +24771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126613,
+      "num": 126613,
+      "word": "钟意裴擒虎四杀",
+      "onboard_time": 1746878542,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126590,
       "num": 126590,
       "word": "蒜鸟蒜鸟都不容易",
@@ -25659,6 +25699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120820,
+      "num": 162297,
+      "word": "印度外交部和军方举行联合发布会",
+      "onboard_time": 1746880942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120751,
       "num": 120751,
       "word": "孙俪不俗地演俗人",
@@ -26385,14 +26433,6 @@
       "onboard_time": 1746754941,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116179,
-      "num": 147940,
-      "word": "印度外交部和军方举行联合发布会",
-      "onboard_time": 1746880942,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 116155,
@@ -27539,6 +27579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108570,
+      "num": 260608,
+      "word": "中美经贸高层会谈还将继续",
+      "onboard_time": 1746881604,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108559,
       "num": 108559,
       "word": "长光卫星回应悟空小猫最后影像",
@@ -27649,6 +27697,14 @@
       "onboard_time": 1746398295,
       "rank": 31,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 107825,
+      "num": 107825,
+      "word": "蝶变 锦瑟",
+      "onboard_time": 1746881961,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 107803,
@@ -29611,6 +29667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 88622,
+      "num": 248921,
+      "word": "樊振东唱歌表白妈妈",
+      "onboard_time": 1746881542,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88374,
       "num": 360188,
       "word": "好莱坞一批新片将受电影关税影响",
@@ -31547,6 +31611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64780,
+      "num": 256427,
+      "word": "印巴停火是谁做了妥协",
+      "onboard_time": 1746881302,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64700,
       "num": 103765,
       "word": "刘诗诗张云龙是真的笑场了吧",
@@ -32956,7 +33028,7 @@
     },
     {
       "raw_hot": 47026,
-      "num": 1936336,
+      "num": 2061212,
       "word": "6组数据感受中国外贸韧性",
       "onboard_time": 1746869121,
       "rank": 2,
@@ -35564,7 +35636,7 @@
     },
     {
       "raw_hot": 24351,
-      "num": 155451,
+      "num": 231861,
       "word": "稀土管制为何有效",
       "onboard_time": 1746880882,
       "rank": 35,
@@ -37811,6 +37883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 7374,
+      "num": 258171,
+      "word": "火山岩地貌有哪些特点及其科学价值",
+      "onboard_time": 1746880882,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 7108,
       "num": 133116,
       "word": "牛油果何以毁掉墨西哥",
@@ -37889,14 +37969,6 @@
       "onboard_time": 1746064881,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 5738,
-      "num": 158291,
-      "word": "火山岩地貌有哪些特点及其科学价值",
-      "onboard_time": 1746880882,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 4730,

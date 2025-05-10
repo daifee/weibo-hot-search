@@ -1,0 +1,410 @@
+{
+  "runTime": 1746882019854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3266147,
+        "num": 3266147,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2834909,
+        "num": 2834909,
+        "word": "艺人吃中国饭砸中国锅绝不容忍",
+        "onboard_time": 1746878722,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45231,
+        "num": 2061212,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1927816,
+        "num": 1927816,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421391,
+        "num": 421391,
+        "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+        "onboard_time": 1746872842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411078,
+        "num": 411078,
+        "word": "特朗普称印巴已同意立即全面停火",
+        "onboard_time": 1746878843,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364782,
+        "num": 364782,
+        "word": "你好星期六",
+        "onboard_time": 1746880344,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328662,
+        "num": 328662,
+        "word": "贺峻霖去看张杰演唱会了",
+        "onboard_time": 1746879562,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292322,
+        "num": 292322,
+        "word": "女子金手镯剪开流出液体疑遇注水黄金",
+        "onboard_time": 1746879323,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297049,
+        "num": 289487,
+        "word": "正媛be",
+        "onboard_time": 1746875002,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 991157,
+        "num": 283946,
+        "word": "花少北 734",
+        "onboard_time": 1746879863,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 959837,
+        "num": 279413,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637513,
+        "num": 277700,
+        "word": "鞠婧祎额头受伤",
+        "onboard_time": 1746876442,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84042,
+        "num": 273664,
+        "word": "直击中美经贸高层会谈",
+        "onboard_time": 1746877762,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543025,
+        "num": 269794,
+        "word": "会癌变的痣一般有5个特征",
+        "onboard_time": 1746880882,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233355,
+        "num": 264751,
+        "word": "易烊千玺一人饰五角",
+        "onboard_time": 1746879323,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261869,
+        "num": 261869,
+        "word": "中美经贸高层会谈在瑞士日内瓦开始举行",
+        "onboard_time": 1746867142,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108570,
+        "num": 260608,
+        "word": "中美经贸高层会谈还将继续",
+        "onboard_time": 1746881604,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7374,
+        "num": 258171,
+        "word": "火山岩地貌有哪些特点及其科学价值",
+        "onboard_time": 1746880882,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64780,
+        "num": 256427,
+        "word": "印巴停火是谁做了妥协",
+        "onboard_time": 1746881302,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 733648,
+        "num": 254854,
+        "word": "赴山海除名李凯馨",
+        "onboard_time": 1746868222,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362693,
+        "num": 251767,
+        "word": "首部AI短剧",
+        "onboard_time": 1746878843,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437286,
+        "num": 250754,
+        "word": "赴山海",
+        "onboard_time": 1746880762,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249331,
+        "num": 249331,
+        "word": "印方称将对巴基斯坦的行动作出回应",
+        "onboard_time": 1746875663,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88622,
+        "num": 248921,
+        "word": "樊振东唱歌表白妈妈",
+        "onboard_time": 1746881542,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1412627,
+        "num": 243605,
+        "word": "身份证丢了会被结婚么",
+        "onboard_time": 1746869842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210493,
+        "num": 241372,
+        "word": "虞书欣直播",
+        "onboard_time": 1746873081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205210,
+        "num": 238961,
+        "word": "张杰请把墨镜焊死在脸上",
+        "onboard_time": 1746880882,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199362,
+        "num": 235913,
+        "word": "无限超越班",
+        "onboard_time": 1746880762,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22622,
+        "num": 231861,
+        "word": "稀土管制为何有效",
+        "onboard_time": 1746880882,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230942,
+        "num": 230942,
+        "word": "印度",
+        "onboard_time": 1746879023,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236497,
+        "num": 228787,
+        "word": "时代峰峻声明",
+        "onboard_time": 1746880281,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226297,
+        "num": 226297,
+        "word": "苹果渠道官方调价",
+        "onboard_time": 1746869301,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210089,
+        "num": 210089,
+        "word": "印度70%电网瘫痪当地华人发声",
+        "onboard_time": 1746879562,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172339,
+        "num": 198157,
+        "word": "刘学义直播",
+        "onboard_time": 1746881542,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187263,
+        "num": 187263,
+        "word": "zwy 梭哈起来",
+        "onboard_time": 1746880643,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165993,
+        "num": 165993,
+        "word": "刘耀文看似不在意实则心里爽翻",
+        "onboard_time": 1746881361,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165289,
+        "num": 165289,
+        "word": "翟潇闻新剧下的雨也该停了",
+        "onboard_time": 1746881122,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130542,
+        "num": 162407,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120820,
+        "num": 162297,
+        "word": "印度外交部和军方举行联合发布会",
+        "onboard_time": 1746880942,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162294,
+        "num": 162294,
+        "word": "王者荣耀",
+        "onboard_time": 1746880102,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157438,
+        "num": 157438,
+        "word": "孟子义来自早上6点59的撕拉片",
+        "onboard_time": 1746872301,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154484,
+        "num": 154484,
+        "word": "赴山海还能播出吗",
+        "onboard_time": 1746869602,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150287,
+        "num": 150287,
+        "word": "梦岚单杀一诺",
+        "onboard_time": 1746879323,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136531,
+        "num": 136531,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1746879982,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126613,
+        "num": 126613,
+        "word": "钟意裴擒虎四杀",
+        "onboard_time": 1746878542,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121768,
+        "num": 121768,
+        "word": "淮水竹亭刘诗诗郭晓婷同框",
+        "onboard_time": 1746877943,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121160,
+        "num": 121160,
+        "word": "宁艺卓杂志",
+        "onboard_time": 1746880102,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107825,
+        "num": 107825,
+        "word": "蝶变 锦瑟",
+        "onboard_time": 1746881961,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#红场阅兵坐在习主席身旁的他是谁#"
+    }
+  }
+}
