@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746862556475,
+  "endTime": 1746865769898,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -33,6 +33,14 @@
       "onboard_time": 1746848852,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1692671,
+      "num": 1692671,
+      "word": "高考700分和给你700万你要哪个",
+      "onboard_time": 1746859042,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 1691174,
@@ -131,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 888749,
+      "num": 562570,
+      "word": "黄俊捷 嘻嘻",
+      "onboard_time": 1746861502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 863278,
       "num": 1138124,
       "word": "巴军方称又击落一架印度战机",
@@ -155,14 +171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 784101,
-      "num": 562570,
-      "word": "黄俊捷 嘻嘻",
-      "onboard_time": 1746861502,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743301,
       "num": 354142,
       "word": "印巴冲突",
@@ -185,6 +193,14 @@
       "onboard_time": 1746855442,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 696588,
+      "num": 696588,
+      "word": "李凯馨工作室回应",
+      "onboard_time": 1746863721,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 692716,
@@ -379,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 430944,
+      "num": 523153,
+      "word": "金宝罗离婚",
+      "onboard_time": 1746864503,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423030,
       "num": 278556,
       "word": "周杰伦ins点赞狮城山海",
@@ -443,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352164,
+      "num": 352164,
+      "word": "痛经",
+      "onboard_time": 1746862822,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342223,
       "num": 342223,
       "word": "奔跑吧直播",
@@ -491,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310804,
+      "num": 578488,
+      "word": "巴基斯坦华人为被困同胞送物资",
+      "onboard_time": 1746861622,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310136,
       "num": 254610,
       "word": "马嘉祺回复湖南卫视歌手",
@@ -507,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305125,
-      "num": 305125,
-      "word": "高考700分和给你700万你要哪个",
-      "onboard_time": 1746859042,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 306585,
+      "num": 306585,
+      "word": "女子走路减肥20天瘦12斤",
+      "onboard_time": 1746860661,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304818,
@@ -603,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266693,
+      "num": 512768,
+      "word": "重庆大学",
+      "onboard_time": 1746860002,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265935,
       "num": 265935,
       "word": "多邻国 多儿滚",
@@ -627,20 +675,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261586,
+      "num": 362505,
+      "word": "美国老板吐槽3000美元商品关税4600",
+      "onboard_time": 1746862461,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 261435,
       "num": 392056,
       "word": "马嘉祺让张杰请看他拍的星海",
       "onboard_time": 1746841891,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 261272,
-      "num": 261272,
-      "word": "女子走路减肥20天瘦12斤",
-      "onboard_time": 1746860661,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258218,
@@ -752,6 +800,14 @@
       "word": "迪丽热巴金靖你们要吵出去吵",
       "onboard_time": 1746849452,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217852,
+      "num": 217852,
+      "word": "范丞丞想当白鹿的爸爸",
+      "onboard_time": 1746864321,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -899,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186906,
+      "num": 186906,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1746864621,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186580,
       "num": 186580,
       "word": "我有个收到花不扫兴的妈妈",
@@ -969,6 +1033,14 @@
       "onboard_time": 1746854362,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175745,
+      "num": 175745,
+      "word": "100块和1000块美甲的区别",
+      "onboard_time": 1746862160,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 174807,
@@ -1195,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151250,
+      "num": 213884,
+      "word": "王珞丹看张杰演唱会哭了",
+      "onboard_time": 1746865161,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148984,
       "num": 148984,
       "word": "玄机科技",
@@ -1259,6 +1339,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 144497,
+      "num": 144497,
+      "word": "确诊宦官",
+      "onboard_time": 1746863000,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144006,
       "num": 152724,
       "word": "歌手歌单",
@@ -1283,12 +1371,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140790,
-      "num": 140790,
-      "word": "100块和1000块美甲的区别",
-      "onboard_time": 1746862160,
-      "rank": 39,
-      "category": "美妆"
+      "raw_hot": 140855,
+      "num": 306454,
+      "word": "加沙一家一半孩子都死了",
+      "onboard_time": 1746863661,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138119,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1746806302,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136841,
+      "num": 136841,
+      "word": "厦门防空警报",
+      "onboard_time": 1746864202,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136350,
@@ -1331,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133430,
+      "num": 133430,
+      "word": "为什么窜稀时会火辣辣的疼",
+      "onboard_time": 1746865403,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 133378,
       "num": 139555,
       "word": "德容不语德容只是一味训练",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130137,
+      "num": 130137,
+      "word": "法国阵风战机外棺确实不错",
+      "onboard_time": 1746864861,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130027,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1746847531,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127181,
+      "num": 127181,
+      "word": "唐诗和黄梅戏是什么梦幻组合",
+      "onboard_time": 1746864621,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 126756,
@@ -1459,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122717,
+      "num": 122717,
+      "word": "发现了容易焦虑的底层逻辑",
+      "onboard_time": 1746864681,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121320,
       "num": 206601,
       "word": "周深 Crush",
@@ -1497,6 +1625,22 @@
       "onboard_time": 1746862281,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 117609,
+      "num": 117609,
+      "word": "SMTOWN墨西哥演唱会合照",
+      "onboard_time": 1746865641,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117302,
+      "num": 117302,
+      "word": "减肥可以以鸡蛋为标杆",
+      "onboard_time": 1746865581,
+      "rank": 49,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 117216,
@@ -1739,14 +1883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91857,
-      "num": 578488,
-      "word": "巴基斯坦华人为被困同胞送物资",
-      "onboard_time": 1746861622,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 90466,
       "num": 90466,
       "word": "原来你一直把蛋挞读错了",
@@ -1811,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80424,
-      "num": 141110,
-      "word": "美国老板吐槽3000美元商品关税4600",
-      "onboard_time": 1746862461,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80065,
       "num": 80065,
       "word": "斗罗大陆2动画",
@@ -1841,6 +1969,14 @@
       "onboard_time": 1746806241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78413,
+      "num": 372965,
+      "word": "女孩被关17天虐待致死案继母生父上诉",
+      "onboard_time": 1746865282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77958,
@@ -2291,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16990,
+      "num": 212254,
+      "word": "十爷名头响彻天下",
+      "onboard_time": 1746865222,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16519,
       "num": 535963,
       "word": "深度搜索让深度思考成为过去式",
@@ -2321,6 +2465,14 @@
       "onboard_time": 1746848072,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14160,
+      "num": 306681,
+      "word": "华人讲述飞离巴基斯坦经历",
+      "onboard_time": 1746865222,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13780,
