@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746876976909,
+  "endTime": 1746881038588,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -9,6 +9,22 @@
       "onboard_time": 1746846931,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3423802,
+      "num": 3423802,
+      "word": "中美谈判",
+      "onboard_time": 1746877581,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 2588149,
+      "num": 2588149,
+      "word": "艺人吃中国饭砸中国锅绝不容忍",
+      "onboard_time": 1746878722,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2106879,
@@ -49,6 +65,14 @@
       "onboard_time": 1746858081,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1554524,
+      "num": 1554524,
+      "word": "印巴同意立即停火",
+      "onboard_time": 1746879682,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1389481,
@@ -315,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599278,
+      "num": 282639,
+      "word": "花少北 734",
+      "onboard_time": 1746879863,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 594325,
+      "num": 280201,
+      "word": "鞠婧祎额头受伤",
+      "onboard_time": 1746876442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574688,
       "num": 363396,
       "word": "巴基斯坦",
@@ -337,6 +377,14 @@
       "onboard_time": 1746792201,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542254,
+      "num": 542254,
+      "word": "特朗普称印巴已同意立即全面停火",
+      "onboard_time": 1746878843,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 540420,
@@ -659,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324102,
-      "num": 249715,
-      "word": "鞠婧祎额头受伤",
-      "onboard_time": 1746876442,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 321649,
       "num": 321649,
       "word": "赴山海主演戏份",
@@ -689,6 +729,14 @@
       "onboard_time": 1746860661,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312653,
+      "num": 262655,
+      "word": "首部AI短剧",
+      "onboard_time": 1746878843,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 312043,
@@ -771,6 +819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295760,
+      "num": 295760,
+      "word": "印方称将对巴基斯坦的行动作出回应",
+      "onboard_time": 1746875663,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 295104,
       "num": 161778,
       "word": "痛经是因为子宫太想保护你",
@@ -835,6 +891,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274477,
+      "num": 261896,
+      "word": "赴山海",
+      "onboard_time": 1746880762,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269187,
+      "num": 269187,
+      "word": "易烊千玺一人饰五角",
+      "onboard_time": 1746879323,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268168,
       "num": 268168,
       "word": "樊振东杭州",
@@ -891,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257884,
+      "num": 257884,
+      "word": "印度",
+      "onboard_time": 1746879023,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257687,
       "num": 257687,
       "word": "银行卖疑似假黄金监管介入",
@@ -939,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247583,
+      "num": 266440,
+      "word": "贺峻霖去看张杰演唱会了",
+      "onboard_time": 1746879562,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246715,
       "num": 246715,
       "word": "姚译添碰到孟子义都夹起来了",
@@ -955,20 +1043,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237401,
+      "num": 237401,
+      "word": "印度70%电网瘫痪当地华人发声",
+      "onboard_time": 1746879562,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236006,
       "num": 236006,
       "word": "李凯馨最新动态",
       "onboard_time": 1746861622,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230780,
-      "num": 275406,
-      "word": "印方称将对巴基斯坦的行动作出回应",
-      "onboard_time": 1746875663,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 227836,
@@ -1051,6 +1139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209337,
+      "num": 264788,
+      "word": "你好星期六",
+      "onboard_time": 1746880344,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "时代峰峻声明",
+      "onboard_time": 1746880281,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208157,
       "num": 208157,
       "word": "王鹤棣单挑郭艾伦",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1746848131,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202555,
+      "num": 202555,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1746879982,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 201256,
@@ -1195,6 +1307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "王者荣耀",
+      "onboard_time": 1746880102,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191438,
       "num": 191438,
       "word": "掘金2比1雷霆",
@@ -1249,6 +1369,14 @@
       "onboard_time": 1746853346,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185721,
+      "num": 169431,
+      "word": "会癌变的痣一般有5个特征",
+      "onboard_time": 1746880882,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185046,
@@ -1595,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "宁艺卓杂志",
+      "onboard_time": 1746880102,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157208,
       "num": 157208,
       "word": "螺蛳粉",
@@ -1659,12 +1795,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153831,
+      "num": 153831,
+      "word": "zwy 梭哈起来",
+      "onboard_time": 1746880643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152997,
       "num": 152997,
       "word": "确诊宦官",
       "onboard_time": 1746863000,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152969,
+      "num": 152969,
+      "word": "女子金手镯剪开流出液体疑遇注水黄金",
+      "onboard_time": 1746879323,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152907,
@@ -1771,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145594,
+      "num": 145594,
+      "word": "无限超越班",
+      "onboard_time": 1746880762,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145401,
       "num": 145401,
       "word": "我以后一定好好听销售电话",
@@ -1851,12 +2011,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "八段锦完整跟练教程",
+      "onboard_time": 1746880821,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137421,
       "num": 137421,
       "word": "刘诗诗穿旗袍扫楼",
       "onboard_time": 1746806302,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136944,
+      "num": 136944,
+      "word": "张杰请把墨镜焊死在脸上",
+      "onboard_time": 1746880882,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 136841,
@@ -1921,6 +2097,14 @@
       "onboard_time": 1746871760,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133414,
+      "num": 297590,
+      "word": "直击中美经贸高层会谈",
+      "onboard_time": 1746877762,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133378,
@@ -2067,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125136,
+      "num": 125136,
+      "word": "陈昊宇新剧独自照顾患病外公",
+      "onboard_time": 1746880942,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125020,
       "num": 125020,
       "word": "男孩说报我名字免费吃100个包子",
@@ -2089,6 +2281,14 @@
       "onboard_time": 1746860782,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 124684,
+      "num": 124684,
+      "word": "淮水竹亭刘诗诗郭晓婷同框",
+      "onboard_time": 1746877943,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124659,
@@ -2209,6 +2409,14 @@
       "onboard_time": 1746872242,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116179,
+      "num": 147940,
+      "word": "印度外交部和军方举行联合发布会",
+      "onboard_time": 1746880942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115900,
@@ -2401,6 +2609,14 @@
       "onboard_time": 1746843031,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100473,
+      "num": 263501,
+      "word": "客服回应疑粽子吃出带血创可贴",
+      "onboard_time": 1746879262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99581,
@@ -2803,6 +3019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47026,
+      "num": 1936336,
+      "word": "6组数据感受中国外贸韧性",
+      "onboard_time": 1746869121,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44119,
       "num": 51124,
       "word": "linglingkwong",
@@ -2817,14 +3041,6 @@
       "onboard_time": 1746872242,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42982,
-      "num": 718970,
-      "word": "6组数据感受中国外贸韧性",
-      "onboard_time": 1746869121,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42756,
@@ -2947,12 +3163,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 34440,
+      "num": 268960,
+      "word": "谷歌地图将墨西哥湾标记为美国湾",
+      "onboard_time": 1746879623,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33508,
       "num": 47530,
       "word": "中俄人民付出巨大牺牲赢得伟大胜利",
       "onboard_time": 1746817335,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33273,
+      "num": 128144,
+      "word": "夜间心脏不适问题的修复方法",
+      "onboard_time": 1746878484,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31763,
@@ -3067,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24351,
+      "num": 155451,
+      "word": "稀土管制为何有效",
+      "onboard_time": 1746880882,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24122,
       "num": 24122,
       "word": "花好",
@@ -3113,6 +3353,14 @@
       "onboard_time": 1746823334,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20098,
+      "num": 137077,
+      "word": "高考和财富到底有多少的关系",
+      "onboard_time": 1746879682,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 19456,
@@ -3297,6 +3545,14 @@
       "onboard_time": 1746873682,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5738,
+      "num": 158291,
+      "word": "火山岩地貌有哪些特点及其科学价值",
+      "onboard_time": 1746880882,
+      "rank": 33,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [

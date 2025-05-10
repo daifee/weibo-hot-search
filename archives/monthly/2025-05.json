@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746876976909,
+  "endTime": 1746881038588,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -47,6 +47,14 @@
       "num": 3458319,
       "word": "五三惨案",
       "onboard_time": 1746242841,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 3423802,
+      "num": 3423802,
+      "word": "中美谈判",
+      "onboard_time": 1746877581,
       "rank": 0,
       "category": "国内时政"
     },
@@ -104,6 +112,14 @@
       "word": "石凯聊天记录",
       "onboard_time": 1746241760,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2588149,
+      "num": 2588149,
+      "word": "艺人吃中国饭砸中国锅绝不容忍",
+      "onboard_time": 1746878722,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -625,6 +641,14 @@
       "onboard_time": 1746611062,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1554524,
+      "num": 1554524,
+      "word": "印巴同意立即停火",
+      "onboard_time": 1746879682,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1548965,
@@ -4003,6 +4027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599278,
+      "num": 282639,
+      "word": "花少北 734",
+      "onboard_time": 1746879863,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 597298,
       "num": 597298,
       "word": "iG",
@@ -4033,6 +4065,14 @@
       "onboard_time": 1746761181,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594325,
+      "num": 280201,
+      "word": "鞠婧祎额头受伤",
+      "onboard_time": 1746876442,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 593694,
@@ -4441,6 +4481,14 @@
       "onboard_time": 1746500482,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542254,
+      "num": 542254,
+      "word": "特朗普称印巴已同意立即全面停火",
+      "onboard_time": 1746878843,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 541545,
@@ -7939,14 +7987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324102,
-      "num": 249715,
-      "word": "鞠婧祎额头受伤",
-      "onboard_time": 1746876442,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323675,
       "num": 276002,
       "word": "女子请病假追星被辞退起诉赔偿被驳",
@@ -8184,6 +8224,14 @@
       "word": "两大叔圈天菜终于又合作了",
       "onboard_time": 1746020363,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312653,
+      "num": 262655,
+      "word": "首部AI短剧",
+      "onboard_time": 1746878843,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -8785,6 +8833,14 @@
       "onboard_time": 1746062361,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295760,
+      "num": 295760,
+      "word": "印方称将对巴基斯坦的行动作出回应",
+      "onboard_time": 1746875663,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 294767,
@@ -9523,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269187,
+      "num": 269187,
+      "word": "易烊千玺一人饰五角",
+      "onboard_time": 1746879323,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269169,
       "num": 269169,
       "word": "美财长被问中美谁主动时紧张到结巴",
@@ -10035,6 +10099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257884,
+      "num": 257884,
+      "word": "印度",
+      "onboard_time": 1746574101,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257687,
       "num": 257687,
       "word": "银行卖疑似假黄金监管介入",
@@ -10475,6 +10547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247583,
+      "num": 266440,
+      "word": "贺峻霖去看张杰演唱会了",
+      "onboard_time": 1746879562,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 247495,
       "num": 247495,
       "word": "孟子义我从一年级就开始追你了",
@@ -10835,6 +10915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237401,
+      "num": 237401,
+      "word": "印度70%电网瘫痪当地华人发声",
+      "onboard_time": 1746879562,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236936,
       "num": 236936,
       "word": "斗罗大陆2动画",
@@ -11065,14 +11153,6 @@
       "onboard_time": 1746433822,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230780,
-      "num": 275406,
-      "word": "印方称将对巴基斯坦的行动作出回应",
-      "onboard_time": 1746875663,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 230455,
@@ -12243,6 +12323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209337,
+      "num": 264788,
+      "word": "你好星期六",
+      "onboard_time": 1746880344,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209276,
       "num": 209276,
       "word": "柳智敏MLB全球品牌代言人",
@@ -12337,6 +12425,14 @@
       "onboard_time": 1746338420,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208288,
+      "num": 208288,
+      "word": "时代峰峻声明",
+      "onboard_time": 1746880281,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208265,
@@ -13153,6 +13249,14 @@
       "onboard_time": 1746520161,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202555,
+      "num": 202555,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1746879982,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 202467,
@@ -15683,6 +15787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185721,
+      "num": 169431,
+      "word": "会癌变的痣一般有5个特征",
+      "onboard_time": 1746880882,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185691,
       "num": 171357,
       "word": "张新成 脱衣服",
@@ -17651,14 +17763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168061,
-      "num": 168061,
-      "word": "印度",
-      "onboard_time": 1746574101,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168037,
       "num": 168037,
       "word": "孙颖莎核心力量有多强",
@@ -19139,6 +19243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158407,
+      "num": 158407,
+      "word": "宁艺卓杂志",
+      "onboard_time": 1746880102,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158401,
       "num": 158401,
       "word": "沈月赵一博陪看",
@@ -19811,6 +19923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153831,
+      "num": 153831,
+      "word": "zwy 梭哈起来",
+      "onboard_time": 1746880643,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153763,
       "num": 153763,
       "word": "大侦探",
@@ -19985,6 +20105,14 @@
       "onboard_time": 1746375741,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152969,
+      "num": 152969,
+      "word": "女子金手镯剪开流出液体疑遇注水黄金",
+      "onboard_time": 1746879323,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152918,
@@ -21080,6 +21208,14 @@
       "word": "奔跑吧下期有孟子义李昀锐",
       "onboard_time": 1746861321,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145594,
+      "num": 145594,
+      "word": "无限超越班",
+      "onboard_time": 1746880762,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -22467,6 +22603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137526,
+      "num": 137526,
+      "word": "八段锦完整跟练教程",
+      "onboard_time": 1746880821,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137481,
       "num": 137481,
       "word": "敦煌月牙泉目之所及全是人",
@@ -22561,6 +22705,14 @@
       "onboard_time": 1746353362,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136944,
+      "num": 136944,
+      "word": "张杰请把墨镜焊死在脸上",
+      "onboard_time": 1746880882,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 136888,
@@ -23201,6 +23353,14 @@
       "onboard_time": 1746871760,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133414,
+      "num": 297590,
+      "word": "直击中美经贸高层会谈",
+      "onboard_time": 1746877762,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133378,
@@ -24883,6 +25043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125136,
+      "num": 125136,
+      "word": "陈昊宇新剧独自照顾患病外公",
+      "onboard_time": 1746880942,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125041,
       "num": 125041,
       "word": "我怀疑这西瓜是来报恩的",
@@ -24953,6 +25121,14 @@
       "onboard_time": 1746015442,
       "rank": 43,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 124684,
+      "num": 124684,
+      "word": "淮水竹亭刘诗诗郭晓婷同框",
+      "onboard_time": 1746877943,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124659,
@@ -26209,6 +26385,14 @@
       "onboard_time": 1746754941,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116179,
+      "num": 147940,
+      "word": "印度外交部和军方举行联合发布会",
+      "onboard_time": 1746880942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116155,
@@ -28384,6 +28568,14 @@
       "word": "儿女走失6年后父亲从高处坠落昏迷",
       "onboard_time": 1746378321,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100473,
+      "num": 263501,
+      "word": "客服回应疑粽子吃出带血创可贴",
+      "onboard_time": 1746879262,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -32763,6 +32955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47026,
+      "num": 1936336,
+      "word": "6组数据感受中国外贸韧性",
+      "onboard_time": 1746869121,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46952,
       "num": 170563,
       "word": "美国零售商自担关税维持供货",
@@ -33224,14 +33424,6 @@
       "word": "本地人私藏美食能有多靠谱",
       "onboard_time": 1746072082,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42982,
-      "num": 718970,
-      "word": "6组数据感受中国外贸韧性",
-      "onboard_time": 1746869121,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -34091,6 +34283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34440,
+      "num": 268960,
+      "word": "谷歌地图将墨西哥湾标记为美国湾",
+      "onboard_time": 1746879623,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34403,
       "num": 34403,
       "word": "美国因关税导致囤积商品",
@@ -34249,6 +34449,14 @@
       "onboard_time": 1746594024,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33273,
+      "num": 128144,
+      "word": "夜间心脏不适问题的修复方法",
+      "onboard_time": 1746878484,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33253,
@@ -35355,6 +35563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24351,
+      "num": 155451,
+      "word": "稀土管制为何有效",
+      "onboard_time": 1746880882,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24291,
       "num": 1492965,
       "word": "一组图看阅兵前夕的莫斯科",
@@ -35993,6 +36209,14 @@
       "onboard_time": 1746300075,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20098,
+      "num": 137077,
+      "word": "高考和财富到底有多少的关系",
+      "onboard_time": 1746879682,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 20095,
@@ -37665,6 +37889,14 @@
       "onboard_time": 1746064881,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 5738,
+      "num": 158291,
+      "word": "火山岩地貌有哪些特点及其科学价值",
+      "onboard_time": 1746880882,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 4730,
