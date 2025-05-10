@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746894539323,
+  "endTime": 1746895539500,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -57,6 +57,14 @@
       "onboard_time": 1746882082,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496140,
+      "num": 496140,
+      "word": "郭晓婷回应客串淮水竹亭",
+      "onboard_time": 1746895460,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 491584,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230104,
+      "num": 490427,
+      "word": "广州大雨下不停",
+      "onboard_time": 1746894020,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220130,
       "num": 220130,
       "word": "AG夺冠",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 162176,
-      "num": 138680,
+      "num": 147052,
       "word": "印度",
       "onboard_time": 1746879023,
       "rank": 30,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 159418,
-      "num": 138310,
+      "num": 139307,
       "word": "母亲节文案大赏",
       "onboard_time": 1746893241,
       "rank": 31,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 134553,
-      "num": 142014,
+      "num": 160907,
       "word": "eStar 来财",
       "onboard_time": 1746888803,
       "rank": 27,
@@ -331,12 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95241,
+      "raw_hot": 101565,
+      "num": 101565,
+      "word": "大连一水库出现成群黑色大鱼",
+      "onboard_time": 1746895520,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95465,
       "num": 490423,
       "word": "AG拿下冠军后又拿下了飞猪",
       "onboard_time": 1746891203,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91703,
+      "num": 91703,
+      "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
+      "onboard_time": 1746895520,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90671,
@@ -355,20 +387,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89245,
+      "num": 89245,
+      "word": "雇李荣浩给妈妈过节",
+      "onboard_time": 1746894920,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87404,
       "num": 102062,
       "word": "陆虎演唱会超绝光影氛围",
       "onboard_time": 1746894142,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81846,
-      "num": 490427,
-      "word": "广州大雨下不停",
-      "onboard_time": 1746894020,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75031,
@@ -395,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54675,
+      "num": 83208,
+      "word": "中国队晋级男女混合4×100米接力决赛",
+      "onboard_time": 1746892342,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28333,
       "num": 876301,
       "word": "6组数据感受中国外贸韧性",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#习近平俄罗斯之行#"
+    },
+    {
+      "word": "#习近平圆满结束对俄罗斯国事访问#"
     }
   ]
 }
