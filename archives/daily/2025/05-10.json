@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746866582632,
+  "endTime": 1746869035865,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -97,6 +97,14 @@
       "onboard_time": 1746847832,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 966122,
+      "num": 352164,
+      "word": "痛经",
+      "onboard_time": 1746862822,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 942570,
@@ -235,12 +243,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 660619,
-      "num": 352164,
-      "word": "痛经",
-      "onboard_time": 1746862822,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 659926,
+      "num": 372965,
+      "word": "女孩被关17天虐待致死案继母生父上诉",
+      "onboard_time": 1746865282,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 630779,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540420,
+      "num": 540420,
+      "word": "李凯馨事件对赴山海播出有哪些影响",
+      "onboard_time": 1746867321,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535801,
       "num": 535801,
       "word": "00后开始反向富养妈妈了",
@@ -313,6 +329,14 @@
       "onboard_time": 1746793041,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496406,
+      "num": 191995,
+      "word": "赴山海除名李凯馨",
+      "onboard_time": 1746868222,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 482709,
@@ -451,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402333,
+      "num": 252069,
+      "word": "巴方称若印度就此止步巴方也考虑止步",
+      "onboard_time": 1746866601,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 398145,
       "num": 398145,
       "word": "郑恺真的想把李昀锐培养成专业运动员",
@@ -475,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 347249,
+      "num": 347249,
+      "word": "中美经贸高层会谈在瑞士日内瓦开始举行",
+      "onboard_time": 1746867142,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 342223,
       "num": 342223,
       "word": "奔跑吧直播",
@@ -489,6 +529,14 @@
       "onboard_time": 1746848252,
       "rank": 13,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 339295,
+      "num": 339295,
+      "word": "印度否认S400被巴方击毁",
+      "onboard_time": 1746860721,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 335705,
@@ -585,14 +633,6 @@
       "onboard_time": 1746835099,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 299350,
-      "num": 299350,
-      "word": "印度否认S400被巴方击毁",
-      "onboard_time": 1746860721,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 297891,
@@ -723,6 +763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 251167,
+      "num": 251167,
+      "word": "为什么窜稀时会火辣辣的疼",
+      "onboard_time": 1746865403,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 249119,
       "num": 249119,
       "word": "强烈呼吁印巴双方保持冷静克制",
@@ -819,6 +867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212083,
+      "num": 253046,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1746864621,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211801,
       "num": 211801,
       "word": "smtown乡村红毯",
@@ -833,14 +889,6 @@
       "onboard_time": 1746845791,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209778,
-      "num": 209778,
-      "word": "香港全款400万15平的小家",
-      "onboard_time": 1746864621,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 208157,
@@ -873,6 +921,14 @@
       "onboard_time": 1746848131,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204023,
+      "num": 252370,
+      "word": "周柯宇对迪丽热巴说把你不吃的给我",
+      "onboard_time": 1746868581,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 201256,
@@ -955,6 +1011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191296,
+      "num": 135146,
+      "word": "李凯馨大粉脱粉",
+      "onboard_time": 1746868822,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189891,
+      "num": 189891,
+      "word": "王俊凯工作室被指疑似倒卖代言礼品",
+      "onboard_time": 1746868281,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187138,
       "num": 187138,
       "word": "女子按摩遭猥亵技师辩称乳腺不好",
@@ -1027,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178803,
+      "num": 178803,
+      "word": "全网的妈妈都在收花",
+      "onboard_time": 1746868763,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178687,
       "num": 178687,
       "word": "宋妍霏甜妹",
@@ -1075,12 +1155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170163,
-      "num": 372965,
-      "word": "女孩被关17天虐待致死案继母生父上诉",
-      "onboard_time": 1746865282,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 170799,
+      "num": 210571,
+      "word": "杨紫高原吸氧",
+      "onboard_time": 1746867682,
+      "rank": 28,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 170132,
@@ -1203,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160969,
+      "num": 270561,
+      "word": "孟子义逆应援粉丝卫生巾",
+      "onboard_time": 1746865762,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160438,
       "num": 160438,
       "word": "巴方称击落29架印度无人机",
@@ -1241,6 +1329,22 @@
       "onboard_time": 1746850532,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156630,
+      "num": 156630,
+      "word": "王俊凯收工照",
+      "onboard_time": 1746868822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156430,
+      "num": 156430,
+      "word": "宋亚轩帮刘耀文扯安全带",
+      "onboard_time": 1746867682,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156391,
@@ -1315,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151038,
+      "num": 151038,
+      "word": "人民网评乘风2025",
+      "onboard_time": 1746868641,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148984,
       "num": 148984,
       "word": "玄机科技",
@@ -1329,6 +1441,14 @@
       "onboard_time": 1746842371,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146837,
+      "num": 146837,
+      "word": "李昀锐说白鹿宋雨琦丢神鸟的面子",
+      "onboard_time": 1746867200,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 146280,
@@ -1395,6 +1515,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 143025,
+      "num": 143025,
+      "word": "黄子弘凡和巡演官博吵起来了",
+      "onboard_time": 1746866601,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143015,
       "num": 246099,
       "word": "李晟在张杰演唱会蹦迪",
@@ -1443,20 +1571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135203,
+      "num": 135203,
+      "word": "孙颖莎新杂志打破销售记录",
+      "onboard_time": 1746866962,
+      "rank": 45,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 134473,
       "num": 134473,
       "word": "侯佩岑组还原陈昊宇陈丽君名场面",
       "onboard_time": 1746855563,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133430,
-      "num": 133430,
-      "word": "为什么窜稀时会火辣辣的疼",
-      "onboard_time": 1746865403,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 133378,
@@ -1481,6 +1609,14 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130859,
+      "num": 245913,
+      "word": "清融是酷boy",
+      "onboard_time": 1746868701,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 130137,
@@ -1675,7 +1811,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115999,
+      "raw_hot": 116995,
       "num": 151069,
       "word": "学煮苹果水养脾胃",
       "onboard_time": 1746866240,
@@ -1731,12 +1867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112388,
-      "num": 270561,
-      "word": "孟子义逆应援粉丝卫生巾",
-      "onboard_time": 1746865762,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 113823,
+      "num": 135175,
+      "word": "亚历山大今天拉了",
+      "onboard_time": 1746868942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113273,
+      "num": 196639,
+      "word": "巴基斯坦军事行动代号铜墙铁壁",
+      "onboard_time": 1746868881,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110786,
@@ -1841,6 +1985,14 @@
       "onboard_time": 1746843031,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100573,
+      "num": 207287,
+      "word": "投资2亿开酒店因整修被阻无法开业",
+      "onboard_time": 1746866002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99581,
@@ -2371,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27780,
+      "num": 251316,
+      "word": "一张图看懂美国的谈判压力",
+      "onboard_time": 1746868763,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27694,
       "num": 32491,
       "word": "多国领导人正陆续抵达克里姆林宫",
@@ -2385,6 +2545,14 @@
       "onboard_time": 1746865222,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26482,
+      "num": 164047,
+      "word": "中国诸神体系为何难以理解",
+      "onboard_time": 1746867682,
+      "rank": 36,
+      "category": "其它"
     },
     {
       "raw_hot": 25316,
@@ -2539,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13559,
+      "num": 251647,
+      "word": "起底学生被打致耳聋涉事学校",
+      "onboard_time": 1746868763,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12606,
       "num": 18778,
       "word": "7句话读懂中俄关系",
@@ -2560,6 +2736,14 @@
       "word": "婚姻登记条例修改了哪些内容",
       "onboard_time": 1746859281,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10504,
+      "num": 168218,
+      "word": "为何牛奶成为中国人的日常必需品",
+      "onboard_time": 1746868881,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
