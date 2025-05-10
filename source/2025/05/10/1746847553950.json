@@ -1,0 +1,410 @@
+{
+  "runTime": 1746847553950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863278,
+        "num": 1138124,
+        "word": "巴军方称又击落一架印度战机",
+        "onboard_time": 1746844890,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 708856,
+        "num": 708856,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 4960,
+        "num": 555010,
+        "word": "一图读懂民营经济促进法亮点",
+        "onboard_time": 1746777981,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 847690,
+        "num": 523963,
+        "word": "人民日报官博删除赴山海",
+        "onboard_time": 1746846931,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482704,
+        "num": 482704,
+        "word": "巴基斯坦对印度发动网络攻击",
+        "onboard_time": 1746840931,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422307,
+        "num": 422307,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401690,
+        "num": 401690,
+        "word": "巴基斯坦战机进入印度领空",
+        "onboard_time": 1746843930,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 548905,
+        "num": 401329,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123207,
+        "num": 400000,
+        "word": "别再逼着消费者大喊三遍转人工",
+        "onboard_time": 1746846570,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244019,
+        "num": 398703,
+        "word": "印称1名高级官员在袭击中死亡",
+        "onboard_time": 1746846271,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467801,
+        "num": 397469,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385531,
+        "num": 396374,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1389301,
+        "num": 395681,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31256,
+        "num": 394054,
+        "word": "男子运冻牛肉被抢后入伙一起抢别人",
+        "onboard_time": 1746846751,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89246,
+        "num": 392778,
+        "word": "巴总理召开国家指挥当局紧急会议",
+        "onboard_time": 1746845851,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261435,
+        "num": 392056,
+        "word": "马嘉祺让张杰请看他拍的星海",
+        "onboard_time": 1746841891,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195948,
+        "num": 391115,
+        "word": "smtr25新舞台",
+        "onboard_time": 1746846630,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176116,
+        "num": 389511,
+        "word": "TVB视帝陈豪被爆养家压力大",
+        "onboard_time": 1746838110,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827615,
+        "num": 388622,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115199,
+        "num": 387526,
+        "word": "司机醉蒙了呼气143以为是罚款",
+        "onboard_time": 1746845970,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387146,
+        "num": 387146,
+        "word": "巴基斯坦启动军事行动回应印度挑衅",
+        "onboard_time": 1746836971,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375927,
+        "num": 375927,
+        "word": "全红婵账号虞书欣星奇摇作品已不可见",
+        "onboard_time": 1746834799,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 162055,
+        "num": 364594,
+        "word": "如果你还关心中国牛奶",
+        "onboard_time": 1746843691,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 361006,
+        "num": 361006,
+        "word": "哥哥第一次带女朋友回家",
+        "onboard_time": 1746846870,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309810,
+        "num": 309810,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285054,
+        "num": 285054,
+        "word": "大批韩国游客涌入盐城打高尔夫",
+        "onboard_time": 1746839130,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284109,
+        "num": 284109,
+        "word": "网友曝腾讯工位全国最大",
+        "onboard_time": 1746842071,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 145281,
+        "num": 246300,
+        "word": "郑恺真的想把李昀锐培养成专业运动员",
+        "onboard_time": 1746837930,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130154,
+        "num": 246099,
+        "word": "李晟在张杰演唱会蹦迪",
+        "onboard_time": 1746843031,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33143,
+        "num": 245977,
+        "word": "看我的摩托",
+        "onboard_time": 1746847231,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245934,
+        "num": 245934,
+        "word": "爸爸哭诉刚上幼儿园说没就没了",
+        "onboard_time": 1746832998,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231137,
+        "num": 231137,
+        "word": "樊振东杭州",
+        "onboard_time": 1746846330,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210583,
+        "num": 210583,
+        "word": "20岁男子杀害14岁女孩被执行死刑",
+        "onboard_time": 1746845791,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179613,
+        "num": 179613,
+        "word": "耀祖",
+        "onboard_time": 1746835821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176064,
+        "num": 176064,
+        "word": "近6亿中国人去年看网文花了430亿",
+        "onboard_time": 1746847290,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 168125,
+        "num": 168125,
+        "word": "男子地铁怪行为致3人恐慌受伤",
+        "onboard_time": 1746842731,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166070,
+        "num": 166070,
+        "word": "花10万找网红带货卖了2000元的货",
+        "onboard_time": 1746835280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336710,
+        "num": 163847,
+        "word": "印度要求封禁8000多个社媒账号",
+        "onboard_time": 1746836181,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161469,
+        "num": 161469,
+        "word": "雷军复更健身房打卡",
+        "onboard_time": 1746834739,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153704,
+        "num": 153704,
+        "word": "唐嫣龚俊双C位",
+        "onboard_time": 1746835099,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142727,
+        "num": 142727,
+        "word": "中国产战机击落法国产战机的意义",
+        "onboard_time": 1746840811,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141886,
+        "num": 141886,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1746828315,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138119,
+        "num": 138119,
+        "word": "对方撤回了一位帅哥数学老师",
+        "onboard_time": 1746847111,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127978,
+        "num": 127978,
+        "word": "妈妈是林孝埈最大的底气",
+        "onboard_time": 1746847531,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "送妈妈的花永远不会出现在垃圾桶",
+        "onboard_time": 1746847290,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124186,
+        "num": 124186,
+        "word": "警方通报男子地铁博流量做怪异行为",
+        "onboard_time": 1746843870,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123267,
+        "num": 123267,
+        "word": "特朗普称对华关税不能再高了将下调",
+        "onboard_time": 1746845011,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119191,
+        "num": 119191,
+        "word": "结婚离婚为什么不需要户口本了",
+        "onboard_time": 1746799825,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 117807,
+        "num": 117807,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "心脉受损",
+        "onboard_time": 1746847531,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席红场阅兵式#"
+    }
+  }
+}

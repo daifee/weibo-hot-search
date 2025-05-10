@@ -1,10 +1,10 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746846535585,
+  "endTime": 1746847553950,
   "band_list": [
     {
       "raw_hot": 2097420,
-      "num": 371422,
+      "num": 395681,
       "word": "王俊凯工作室闲鱼",
       "onboard_time": 1746836481,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 863278,
+      "num": 1138124,
+      "word": "巴军方称又击落一架印度战机",
+      "onboard_time": 1746844890,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 860107,
       "num": 860107,
       "word": "歌手首发阵容",
@@ -43,8 +51,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 847690,
+      "num": 523963,
+      "word": "人民日报官博删除赴山海",
+      "onboard_time": 1746846931,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 827615,
+      "num": 388622,
+      "word": "17岁到67岁 你居然不爱我了",
+      "onboard_time": 1746845791,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 730984,
-      "num": 366158,
+      "num": 375927,
       "word": "全红婵账号虞书欣星奇摇作品已不可见",
       "onboard_time": 1746834799,
       "rank": 12,
@@ -99,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 520678,
-      "num": 520678,
-      "word": "巴军方称又击落一架印度战机",
-      "onboard_time": 1746844890,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 520182,
       "num": 840938,
       "word": "鞠婧祎 沪上阿姨",
@@ -123,8 +139,8 @@
       "category": "军事,民生新闻"
     },
     {
-      "raw_hot": 477205,
-      "num": 425618,
+      "raw_hot": 482704,
+      "num": 482704,
       "word": "巴基斯坦对印度发动网络攻击",
       "onboard_time": 1746840931,
       "rank": 7,
@@ -139,6 +155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467801,
+      "num": 397469,
+      "word": "00后开始反向富养妈妈了",
+      "onboard_time": 1746845550,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 466157,
       "num": 884987,
       "word": "印称巴派出300至400架无人机发动攻击",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 465823,
-      "num": 305527,
+      "num": 309810,
       "word": "月经3天和月经7天哪个更健康",
       "onboard_time": 1746835159,
       "rank": 20,
@@ -243,11 +267,11 @@
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 356675,
-      "num": 308597,
-      "word": "17岁到67岁 你居然不爱我了",
-      "onboard_time": 1746845791,
-      "rank": 15,
+      "raw_hot": 361006,
+      "num": 361006,
+      "word": "哥哥第一次带女朋友回家",
+      "onboard_time": 1746846870,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -315,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261435,
+      "num": 392056,
+      "word": "马嘉祺让张杰请看他拍的星海",
+      "onboard_time": 1746841891,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257687,
       "num": 257687,
       "word": "银行卖疑似假黄金监管介入",
@@ -331,12 +363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229656,
-      "num": 324345,
-      "word": "马嘉祺让张杰请看他拍的星海",
-      "onboard_time": 1746841891,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 244019,
+      "num": 398703,
+      "word": "印称1名高级官员在袭击中死亡",
+      "onboard_time": 1746846271,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 231137,
+      "num": 231137,
+      "word": "樊振东杭州",
+      "onboard_time": 1746846330,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 222940,
@@ -355,12 +395,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 207901,
-      "num": 207901,
-      "word": "00后开始反向富养妈妈了",
-      "onboard_time": 1746845550,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 210583,
+      "num": 210583,
+      "word": "20岁男子杀害14岁女孩被执行死刑",
+      "onboard_time": 1746845791,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206711,
@@ -387,12 +427,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 198198,
-      "num": 198198,
-      "word": "20岁男子杀害14岁女孩被执行死刑",
-      "onboard_time": 1746845791,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 195948,
+      "num": 391115,
+      "word": "smtr25新舞台",
+      "onboard_time": 1746846630,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 194846,
@@ -425,6 +465,14 @@
       "onboard_time": 1746790521,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 176064,
+      "num": 176064,
+      "word": "近6亿中国人去年看网文花了430亿",
+      "onboard_time": 1746847290,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 174519,
@@ -465,6 +513,14 @@
       "onboard_time": 1746801144,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162055,
+      "num": 364594,
+      "word": "如果你还关心中国牛奶",
+      "onboard_time": 1746843691,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 160438,
@@ -548,11 +604,19 @@
     },
     {
       "raw_hot": 143015,
-      "num": 207639,
+      "num": 246099,
       "word": "李晟在张杰演唱会蹦迪",
       "onboard_time": 1746843031,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138119,
+      "num": 138119,
+      "word": "对方撤回了一位帅哥数学老师",
+      "onboard_time": 1746847111,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 137421,
@@ -579,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131917,
-      "num": 205915,
-      "word": "如果你还关心中国牛奶",
-      "onboard_time": 1746843691,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129902,
       "num": 129902,
       "word": "李煜东停训",
@@ -595,20 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128495,
-      "num": 128495,
-      "word": "樊振东杭州",
-      "onboard_time": 1746846330,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128083,
       "num": 128083,
       "word": "含金量很高的证书都在这里",
       "onboard_time": 1746838710,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 127978,
+      "num": 127978,
+      "word": "妈妈是林孝埈最大的底气",
+      "onboard_time": 1746847531,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126756,
@@ -625,6 +681,22 @@
       "onboard_time": 1746836302,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124974,
+      "num": 124974,
+      "word": "送妈妈的花永远不会出现在垃圾桶",
+      "onboard_time": 1746847290,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123207,
+      "num": 400000,
+      "word": "别再逼着消费者大喊三遍转人工",
+      "onboard_time": 1746846570,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 122806,
@@ -649,6 +721,22 @@
       "onboard_time": 1746828795,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115900,
+      "num": 115900,
+      "word": "心脉受损",
+      "onboard_time": 1746847531,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115199,
+      "num": 387526,
+      "word": "司机醉蒙了呼气143以为是罚款",
+      "onboard_time": 1746845970,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114191,
@@ -827,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89246,
+      "num": 392778,
+      "word": "巴总理召开国家指挥当局紧急会议",
+      "onboard_time": 1746845851,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84677,
       "num": 98686,
       "word": "房琪我赌你的歌词里有子弹",
@@ -921,14 +1017,6 @@
       "onboard_time": 1746803722,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68773,
-      "num": 205383,
-      "word": "印称1名高级官员在袭击中死亡",
-      "onboard_time": 1746846271,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 64180,
@@ -1035,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35215,
-      "num": 306137,
-      "word": "司机醉蒙了呼气143以为是罚款",
-      "onboard_time": 1746845970,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34962,
       "num": 51071,
       "word": "孙颖莎偷偷比耶",
@@ -1059,12 +1139,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31803,
-      "num": 309583,
-      "word": "巴总理召开国家指挥当局紧急会议",
-      "onboard_time": 1746845851,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 33143,
+      "num": 245977,
+      "word": "看我的摩托",
+      "onboard_time": 1746847231,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 31418,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1746832939,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31256,
+      "num": 394054,
+      "word": "男子运冻牛肉被抢后入伙一起抢别人",
+      "onboard_time": 1746846751,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29881,
