@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746919370541,
+  "endTime": 1746920229436,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 727884,
-      "num": 803254,
+      "num": 906671,
       "word": "大连西山水库惊现成群超大怪鱼",
       "onboard_time": 1746890244,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1746882082,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529287,
+      "num": 212892,
+      "word": "吴昕主持人的含金量还在上升",
+      "onboard_time": 1746875663,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 496140,
@@ -147,6 +155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 272086,
+      "num": 292366,
+      "word": "印巴到底停没停火",
+      "onboard_time": 1746918737,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255711,
       "num": 490427,
       "word": "广州大雨下不停",
@@ -211,12 +227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201734,
-      "num": 201734,
+      "raw_hot": 210042,
+      "num": 210042,
       "word": "母亲节文案大赏",
       "onboard_time": 1746893241,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204830,
+      "num": 204830,
+      "word": "王楚钦二十五岁生日",
+      "onboard_time": 1746919218,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 184556,
@@ -257,6 +281,14 @@
       "onboard_time": 1746893482,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143895,
+      "num": 143895,
+      "word": "钟丽缇自曝生三孩子经历",
+      "onboard_time": 1746919338,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 139200,
@@ -387,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97929,
+      "num": 214255,
+      "word": "中方绝不会牺牲原则立场与美达成协议",
+      "onboard_time": 1746918857,
+      "rank": 12,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 95465,
       "num": 490423,
       "word": "AG拿下冠军后又拿下了飞猪",
@@ -428,19 +468,27 @@
     },
     {
       "raw_hot": 85914,
-      "num": 65208,
+      "num": 78040,
       "word": "东大圆脸模仿刚买的飞机被打了",
       "onboard_time": 1746916756,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 77590,
-      "num": 77590,
-      "word": "王楚钦二十五岁生日",
-      "onboard_time": 1746919218,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 80580,
+      "num": 80580,
+      "word": "李乃文遇游客撞脸张子枫",
+      "onboard_time": 1746919816,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77476,
+      "num": 77476,
+      "word": "章若楠浴巾撕拉片",
+      "onboard_time": 1746919577,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 75031,
@@ -451,20 +499,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72013,
-      "num": 292366,
-      "word": "印巴到底停没停火",
-      "onboard_time": 1746918737,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69169,
       "num": 102110,
       "word": "DRG的故事才刚刚开始",
       "onboard_time": 1746892821,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65889,
+      "num": 266526,
+      "word": "你就是妈妈最好的礼物",
+      "onboard_time": 1746918558,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60707,
+      "num": 60707,
+      "word": "5种不舒服可能是心梗症状",
+      "onboard_time": 1746919277,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 59499,
@@ -507,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48299,
-      "num": 48299,
-      "word": "5种不舒服可能是心梗症状",
-      "onboard_time": 1746919277,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 48629,
+      "num": 136287,
+      "word": "印巴局势依旧不明朗",
+      "onboard_time": 1746919938,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48148,
@@ -563,14 +619,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 40525,
-      "num": 40525,
-      "word": "钟丽缇自曝生三孩子经历",
-      "onboard_time": 1746919338,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39780,
       "num": 39780,
       "word": "偶遇王文也与未婚夫约会",
@@ -579,28 +627,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35081,
+      "num": 108796,
+      "word": "中国队男子4×400米直通世锦赛",
+      "onboard_time": 1746919277,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33042,
       "num": 66777,
       "word": "四连冠游走大帅",
       "onboard_time": 1746896239,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32013,
-      "num": 266526,
-      "word": "你就是妈妈最好的礼物",
-      "onboard_time": 1746918558,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30960,
-      "num": 42676,
-      "word": "中国队男子4×400米直通世锦赛",
-      "onboard_time": 1746919277,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 28333,
@@ -641,14 +681,6 @@
       "onboard_time": 1746907334,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 18621,
-      "num": 207740,
-      "word": "中方绝不会牺牲原则立场与美达成协议",
-      "onboard_time": 1746918857,
-      "rank": 12,
-      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 17843,
