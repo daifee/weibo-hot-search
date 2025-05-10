@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746852276529,
+  "endTime": 1746854607049,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -1139,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1005609,
+      "num": 281844,
+      "word": "关晓彤晒撕拉片",
+      "onboard_time": 1746852392,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1002301,
       "num": 1156078,
       "word": "白鹿名牌变白梦妍",
@@ -1471,6 +1479,14 @@
       "num": 860107,
       "word": "歌手首发阵容",
       "onboard_time": 1746835461,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 858140,
+      "num": 858140,
+      "word": "邓超给所有79年出生的人道歉",
+      "onboard_time": 1746852692,
       "rank": 1,
       "category": "综艺"
     },
@@ -2921,6 +2937,14 @@
       "onboard_time": 1746365966,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 557361,
+      "num": 281640,
+      "word": "巴基斯坦最新战果曝光",
+      "onboard_time": 1746852692,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 557146,
@@ -5627,6 +5651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 307471,
+      "num": 266720,
+      "word": "陈梦官宣去踢足球",
+      "onboard_time": 1746851251,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307133,
       "num": 383341,
       "word": "王晶说刘德华太太很辛苦",
@@ -5921,14 +5953,6 @@
       "onboard_time": 1746413001,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 294921,
-      "num": 266720,
-      "word": "陈梦官宣去踢足球",
-      "onboard_time": 1746851251,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 294767,
@@ -6251,6 +6275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281967,
+      "num": 282509,
+      "word": "陈豪被曝养家压力大频繁接戏",
+      "onboard_time": 1746849030,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "赴山海主演戏份",
+      "onboard_time": 1746853232,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280657,
       "num": 332000,
       "word": "迪丽热巴想打响指结果比了个心",
@@ -6408,14 +6448,6 @@
       "word": "张凌赫直播",
       "onboard_time": 1746538824,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 270749,
-      "num": 282509,
-      "word": "陈豪被曝养家压力大频繁接戏",
-      "onboard_time": 1746849030,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -7379,6 +7411,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 240253,
+      "num": 240253,
+      "word": "孙颖莎嘉人销售额破3000万",
+      "onboard_time": 1746852752,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239455,
       "num": 239455,
       "word": "胖东来和田玉标注进货价和毛利",
@@ -7441,6 +7481,14 @@
       "onboard_time": 1746582202,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235090,
+      "num": 235090,
+      "word": "多邻国 多儿滚",
+      "onboard_time": 1746852271,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 234645,
@@ -8323,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211801,
+      "num": 211801,
+      "word": "smtown乡村红毯",
+      "onboard_time": 1746853712,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211725,
       "num": 211725,
       "word": "男子买牛油果水果切盘打开后傻眼了",
@@ -8529,6 +8585,14 @@
       "onboard_time": 1746367584,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208157,
+      "num": 208157,
+      "word": "王鹤棣单挑郭艾伦",
+      "onboard_time": 1746853831,
+      "rank": 31,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 208116,
@@ -10643,6 +10707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186580,
+      "num": 186580,
+      "word": "我有个收到花不扫兴的妈妈",
+      "onboard_time": 1746853346,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186573,
       "num": 186573,
       "word": "千秋令魔尊十年长生血换女主一命",
@@ -10980,7 +11052,7 @@
     },
     {
       "raw_hot": 181966,
-      "num": 181966,
+      "num": 195256,
       "word": "巴方称成功拦截印度导弹",
       "onboard_time": 1746849572,
       "rank": 43,
@@ -11313,6 +11385,14 @@
       "onboard_time": 1746366025,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178235,
+      "num": 178235,
+      "word": "白鹿凤凰神女",
+      "onboard_time": 1746854012,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 178150,
@@ -12683,6 +12763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162215,
+      "num": 162215,
+      "word": "宋妍霏甜妹",
+      "onboard_time": 1746854362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162210,
       "num": 162210,
       "word": "当环卫工人收到奶茶",
@@ -12745,6 +12833,14 @@
       "onboard_time": 1746801324,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161560,
+      "num": 161560,
+      "word": "雷霆vs掘金",
+      "onboard_time": 1746848731,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 161501,
@@ -12921,14 +13017,6 @@
       "onboard_time": 1746608064,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159491,
-      "num": 159491,
-      "word": "雷霆vs掘金",
-      "onboard_time": 1746848731,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 159440,
@@ -13187,6 +13275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156391,
+      "num": 209610,
+      "word": "巴基斯坦公布击落印度战机证据",
+      "onboard_time": 1746852812,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156344,
       "num": 190770,
       "word": "石宇奇说继续努力加油",
@@ -13281,6 +13377,14 @@
       "onboard_time": 1746789801,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155827,
+      "num": 741250,
+      "word": "17个新职业和42个新工种亮相",
+      "onboard_time": 1746850532,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155825,
@@ -13401,6 +13505,14 @@
       "onboard_time": 1746542124,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154306,
+      "num": 194030,
+      "word": "Daniel舞台大屏",
+      "onboard_time": 1746854482,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 154198,
@@ -14273,14 +14385,6 @@
       "onboard_time": 1746782781,
       "rank": 40,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 145028,
-      "num": 721395,
-      "word": "17个新职业和42个新工种亮相",
-      "onboard_time": 1746850532,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144984,
@@ -15299,6 +15403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136350,
+      "num": 136350,
+      "word": "孙颖莎杂志采访",
+      "onboard_time": 1746853232,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136339,
       "num": 136339,
       "word": "王鹤棣副驾视角开车",
@@ -15937,6 +16049,14 @@
       "onboard_time": 1746712463,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "小米或将恢复正常宣发",
+      "onboard_time": 1746852871,
+      "rank": 48,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 129952,
@@ -21283,6 +21403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50219,
+      "num": 281683,
+      "word": "女子被冒名结婚撤销3年仍显示已婚",
+      "onboard_time": 1746853771,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49999,
       "num": 1229935,
       "word": "全球客商用订单书写对中国的信心",
@@ -21787,6 +21915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42200,
+      "num": 197162,
+      "word": "撕拉片的热度还会持续多久",
+      "onboard_time": 1746854362,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42106,
       "num": 365771,
       "word": "记者暗访一口价黄金饰品套路曝光",
@@ -22283,6 +22419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34378,
+      "num": 181190,
+      "word": "印巴双方防空能力究竟几何",
+      "onboard_time": 1746854482,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34324,
       "num": 226945,
       "word": "一坠机点距印空军基地仅20公里",
@@ -22497,6 +22641,14 @@
       "onboard_time": 1746314118,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31763,
+      "num": 362809,
+      "word": "中俄关系不断焕发出新活力",
+      "onboard_time": 1746850291,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31714,
@@ -22721,6 +22873,14 @@
       "onboard_time": 1746674060,
       "rank": 39,
       "category": "海外新闻,议题讨论"
+    },
+    {
+      "raw_hot": 29500,
+      "num": 236975,
+      "word": "一嗨租车5年后扣款1098元用户发声",
+      "onboard_time": 1746854302,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29351,
@@ -23017,14 +23177,6 @@
       "onboard_time": 1746631825,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 26139,
-      "num": 356260,
-      "word": "中俄关系不断焕发出新活力",
-      "onboard_time": 1746850291,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26011,

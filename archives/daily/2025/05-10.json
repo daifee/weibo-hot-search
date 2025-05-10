@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746852276529,
+  "endTime": 1746854607049,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1005609,
+      "num": 281844,
+      "word": "关晓彤晒撕拉片",
+      "onboard_time": 1746852392,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 981094,
       "num": 694518,
       "word": "日本地铁随机砍人43岁嫌犯自述",
@@ -79,6 +87,14 @@
       "num": 860107,
       "word": "歌手首发阵容",
       "onboard_time": 1746835461,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 858140,
+      "num": 858140,
+      "word": "邓超给所有79年出生的人道歉",
+      "onboard_time": 1746852692,
       "rank": 1,
       "category": "综艺"
     },
@@ -128,6 +144,14 @@
       "word": "巴基斯坦",
       "onboard_time": 1746834739,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 557361,
+      "num": 281640,
+      "word": "巴基斯坦最新战果曝光",
+      "onboard_time": 1746852692,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307471,
+      "num": 266720,
+      "word": "陈梦官宣去踢足球",
+      "onboard_time": 1746851251,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304818,
       "num": 304818,
       "word": "网友曝腾讯工位全国最大",
@@ -395,14 +427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 294921,
-      "num": 266720,
-      "word": "陈梦官宣去踢足球",
-      "onboard_time": 1746851251,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290803,
       "num": 263283,
       "word": "丁禹兮演技",
@@ -419,12 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270749,
+      "raw_hot": 281967,
       "num": 282509,
       "word": "陈豪被曝养家压力大频繁接戏",
       "onboard_time": 1746849030,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "赴山海主演戏份",
+      "onboard_time": 1746853232,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 268168,
@@ -483,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240253,
+      "num": 240253,
+      "word": "孙颖莎嘉人销售额破3000万",
+      "onboard_time": 1746852752,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235090,
+      "num": 235090,
+      "word": "多邻国 多儿滚",
+      "onboard_time": 1746852271,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 224124,
       "num": 284451,
       "word": "范丞丞的C张真源的O到底是什么",
@@ -515,12 +563,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 211801,
+      "num": 211801,
+      "word": "smtown乡村红毯",
+      "onboard_time": 1746853712,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210583,
       "num": 210583,
       "word": "20岁男子杀害14岁女孩被执行死刑",
       "onboard_time": 1746845791,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208157,
+      "num": 208157,
+      "word": "王鹤棣单挑郭艾伦",
+      "onboard_time": 1746853831,
+      "rank": 31,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 206711,
@@ -595,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186580,
+      "num": 186580,
+      "word": "我有个收到花不扫兴的妈妈",
+      "onboard_time": 1746853346,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185046,
       "num": 277799,
       "word": "浪姐后期把张小婉当哪国人整啊",
@@ -628,7 +700,7 @@
     },
     {
       "raw_hot": 181966,
-      "num": 181966,
+      "num": 195256,
       "word": "巴方称成功拦截印度导弹",
       "onboard_time": 1746849572,
       "rank": 43,
@@ -641,6 +713,14 @@
       "onboard_time": 1746851432,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178235,
+      "num": 178235,
+      "word": "白鹿凤凰神女",
+      "onboard_time": 1746854012,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 174807,
@@ -699,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162215,
+      "num": 162215,
+      "word": "宋妍霏甜妹",
+      "onboard_time": 1746854362,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162055,
       "num": 364594,
       "word": "如果你还关心中国牛奶",
       "onboard_time": 1746843691,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161560,
+      "num": 161560,
+      "word": "雷霆vs掘金",
+      "onboard_time": 1746848731,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 161332,
@@ -739,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159491,
-      "num": 159491,
-      "word": "雷霆vs掘金",
-      "onboard_time": 1746848731,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158856,
       "num": 250989,
       "word": "车兴德从偶像剧闯进刑侦剧了",
@@ -763,6 +851,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156391,
+      "num": 209610,
+      "word": "巴基斯坦公布击落印度战机证据",
+      "onboard_time": 1746852812,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155827,
+      "num": 741250,
+      "word": "17个新职业和42个新工种亮相",
+      "onboard_time": 1746850532,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155825,
       "num": 155825,
       "word": "张靓颖戴眼镜 妈妈级别",
@@ -777,6 +881,14 @@
       "onboard_time": 1746792260,
       "rank": 32,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 154306,
+      "num": 194030,
+      "word": "Daniel舞台大屏",
+      "onboard_time": 1746854482,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 151281,
@@ -827,14 +939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145028,
-      "num": 721395,
-      "word": "17个新职业和42个新工种亮相",
-      "onboard_time": 1746850532,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 144849,
       "num": 144849,
       "word": "警方通报男子地铁博流量做怪异行为",
@@ -883,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136350,
+      "num": 136350,
+      "word": "孙颖莎杂志采访",
+      "onboard_time": 1746853232,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132641,
       "num": 132641,
       "word": "认真刷牙为什么还会口臭",
@@ -897,6 +1009,14 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "小米或将恢复正常宣发",
+      "onboard_time": 1746852871,
+      "rank": 48,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 129902,
@@ -1363,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 50219,
+      "num": 281683,
+      "word": "女子被冒名结婚撤销3年仍显示已婚",
+      "onboard_time": 1746853771,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44119,
       "num": 51124,
       "word": "linglingkwong",
@@ -1384,6 +1512,14 @@
       "word": "男子台铁遗失400万因疑点多警方不归还",
       "onboard_time": 1746850770,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42200,
+      "num": 197162,
+      "word": "撕拉片的热度还会持续多久",
+      "onboard_time": 1746854362,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1451,11 +1587,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34378,
+      "num": 181190,
+      "word": "印巴双方防空能力究竟几何",
+      "onboard_time": 1746854482,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33508,
       "num": 47530,
       "word": "中俄人民付出巨大牺牲赢得伟大胜利",
       "onboard_time": 1746817335,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31763,
+      "num": 362809,
+      "word": "中俄关系不断焕发出新活力",
+      "onboard_time": 1746850291,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -1491,6 +1643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 29500,
+      "num": 236975,
+      "word": "一嗨租车5年后扣款1098元用户发声",
+      "onboard_time": 1746854302,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28004,
       "num": 182114,
       "word": "如何平衡婚姻自由与风险防控",
@@ -1513,14 +1673,6 @@
       "onboard_time": 1746819195,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26139,
-      "num": 356260,
-      "word": "中俄关系不断焕发出新活力",
-      "onboard_time": 1746850291,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24122,
