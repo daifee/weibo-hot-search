@@ -1,0 +1,410 @@
+{
+  "runTime": 1746866582632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1992481,
+        "num": 1992481,
+        "word": "高考700分和给你700万你要哪个",
+        "onboard_time": 1746859042,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 781839,
+        "num": 781839,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100847,
+        "num": 685259,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 616232,
+        "num": 616232,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586859,
+        "num": 586859,
+        "word": "李凯馨工作室回应",
+        "onboard_time": 1746863721,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527699,
+        "num": 527699,
+        "word": "金宝罗离婚",
+        "onboard_time": 1746864503,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450554,
+        "num": 450554,
+        "word": "没人选宋妍霏的原因找到了",
+        "onboard_time": 1746859881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314283,
+        "num": 314283,
+        "word": "巴基斯坦最新战果曝光",
+        "onboard_time": 1746852692,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296578,
+        "num": 296578,
+        "word": "重庆大学",
+        "onboard_time": 1746860002,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282121,
+        "num": 282121,
+        "word": "印度否认S400被巴方击毁",
+        "onboard_time": 1746860721,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1969468,
+        "num": 280753,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807588,
+        "num": 279949,
+        "word": "黄俊捷 嘻嘻",
+        "onboard_time": 1746861502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660619,
+        "num": 278761,
+        "word": "痛经",
+        "onboard_time": 1746862822,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162899,
+        "num": 277803,
+        "word": "加沙一家一半孩子都死了",
+        "onboard_time": 1746863661,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170163,
+        "num": 276220,
+        "word": "女孩被关17天虐待致死案继母生父上诉",
+        "onboard_time": 1746865282,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460000,
+        "num": 274322,
+        "word": "34岁女生花70万去英国留学一年",
+        "onboard_time": 1746858382,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403222,
+        "num": 272756,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339432,
+        "num": 271142,
+        "word": "s400",
+        "onboard_time": 1746858503,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112388,
+        "num": 270561,
+        "word": "孟子义逆应援粉丝卫生巾",
+        "onboard_time": 1746865762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27572,
+        "num": 269000,
+        "word": "华人讲述飞离巴基斯坦经历",
+        "onboard_time": 1746865222,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 673739,
+        "num": 268087,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315932,
+        "num": 265659,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265293,
+        "num": 265293,
+        "word": "炎亚纶回应汪东城被指变脸",
+        "onboard_time": 1746857002,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206258,
+        "num": 264597,
+        "word": "巴基斯坦华人为被困同胞送物资",
+        "onboard_time": 1746861622,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204612,
+        "num": 264346,
+        "word": "范丞丞想当白鹿的爸爸",
+        "onboard_time": 1746864321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192940,
+        "num": 263098,
+        "word": "内娱终于有刀群舞女团了",
+        "onboard_time": 1746855022,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170132,
+        "num": 262256,
+        "word": "SMTOWN墨西哥演唱会合照",
+        "onboard_time": 1746865641,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161030,
+        "num": 261892,
+        "word": "孟子义两句话吴昕全招了",
+        "onboard_time": 1746865882,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118622,
+        "num": 260505,
+        "word": "王珞丹看张杰演唱会哭了",
+        "onboard_time": 1746865161,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110786,
+        "num": 259761,
+        "word": "一诺说让KPL刻上AG的名字",
+        "onboard_time": 1746865762,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204044,
+        "num": 259096,
+        "word": "美国老板吐槽3000美元商品关税4600",
+        "onboard_time": 1746862461,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28585,
+        "num": 257943,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257775,
+        "num": 257775,
+        "word": "迪丽热巴黑旗袍",
+        "onboard_time": 1746858503,
+        "rank": 32,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 226684,
+        "num": 226684,
+        "word": "关晓彤晒撕拉片",
+        "onboard_time": 1746852392,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212816,
+        "num": 212816,
+        "word": "李凯馨",
+        "onboard_time": 1746855442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209778,
+        "num": 209778,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1746864621,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196621,
+        "num": 196621,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162773,
+        "num": 162773,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14357,
+        "num": 156605,
+        "word": "取消户口本要求对结婚离婚有何利弊",
+        "onboard_time": 1746866482,
+        "rank": 38,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 152997,
+        "num": 152997,
+        "word": "确诊宦官",
+        "onboard_time": 1746863000,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 151069,
+        "word": "学煮苹果水养脾胃",
+        "onboard_time": 1746866240,
+        "rank": 40,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 150847,
+        "num": 150847,
+        "word": "100块和1000块美甲的区别",
+        "onboard_time": 1746862160,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120055,
+        "num": 120055,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119767,
+        "num": 119767,
+        "word": "厦门防空警报",
+        "onboard_time": 1746864202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 119649,
+        "word": "巴外长称印度让巴基斯坦别无选择",
+        "onboard_time": 1746866363,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "歌手",
+        "onboard_time": 1746860602,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115242,
+        "num": 115242,
+        "word": "法国阵风战机外棺确实不错",
+        "onboard_time": 1746864861,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113459,
+        "num": 113459,
+        "word": "为什么窜稀时会火辣辣的疼",
+        "onboard_time": 1746865403,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94841,
+        "num": 109363,
+        "word": "迪拜的山羊长得也太可怕了",
+        "onboard_time": 1746865161,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109165,
+        "num": 109165,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念伟大胜利捍卫公平正义#"
+    }
+  }
+}

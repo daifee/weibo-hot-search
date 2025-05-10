@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746865769898,
+  "endTime": 1746866582632,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1692671,
-      "num": 1692671,
+      "raw_hot": 1992481,
+      "num": 1992481,
       "word": "高考700分和给你700万你要哪个",
       "onboard_time": 1746859042,
       "rank": 33,
@@ -235,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 660619,
+      "num": 352164,
+      "word": "痛经",
+      "onboard_time": 1746862822,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 630779,
       "num": 630779,
       "word": "内娱终于有刀群舞女团了",
@@ -281,6 +289,14 @@
       "onboard_time": 1746845550,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 527699,
+      "num": 527699,
+      "word": "金宝罗离婚",
+      "onboard_time": 1746864503,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 524875,
@@ -395,14 +411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 430944,
-      "num": 523153,
-      "word": "金宝罗离婚",
-      "onboard_time": 1746864503,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423030,
       "num": 278556,
       "word": "周杰伦ins点赞狮城山海",
@@ -467,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352164,
-      "num": 352164,
-      "word": "痛经",
-      "onboard_time": 1746862822,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 342223,
       "num": 342223,
       "word": "奔跑吧直播",
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315932,
+      "num": 306585,
+      "word": "女子走路减肥20天瘦12斤",
+      "onboard_time": 1746860661,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312043,
       "num": 312043,
       "word": "大批韩国游客涌入盐城打高尔夫",
@@ -545,14 +553,6 @@
       "onboard_time": 1746851251,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306585,
-      "num": 306585,
-      "word": "女子走路减肥20天瘦12斤",
-      "onboard_time": 1746860661,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304818,
@@ -603,6 +603,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 296578,
+      "num": 512768,
+      "word": "重庆大学",
+      "onboard_time": 1746860002,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 295104,
       "num": 161778,
       "word": "痛经是因为子宫太想保护你",
@@ -641,14 +649,6 @@
       "onboard_time": 1746846330,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266693,
-      "num": 512768,
-      "word": "重庆大学",
-      "onboard_time": 1746860002,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 265935,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 217852,
-      "num": 217852,
+      "num": 264346,
       "word": "范丞丞想当白鹿的爸爸",
       "onboard_time": 1746864321,
       "rank": 26,
@@ -833,6 +833,14 @@
       "onboard_time": 1746845791,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209778,
+      "num": 209778,
+      "word": "香港全款400万15平的小家",
+      "onboard_time": 1746864621,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 208157,
@@ -955,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186906,
-      "num": 186906,
-      "word": "香港全款400万15平的小家",
-      "onboard_time": 1746864621,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186580,
       "num": 186580,
       "word": "我有个收到花不扫兴的妈妈",
@@ -1075,6 +1075,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170163,
+      "num": 372965,
+      "word": "女孩被关17天虐待致死案继母生父上诉",
+      "onboard_time": 1746865282,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170132,
+      "num": 262256,
+      "word": "SMTOWN墨西哥演唱会合照",
+      "onboard_time": 1746865641,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169987,
       "num": 243141,
       "word": "章子怡等到了李安的拥抱",
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162899,
+      "num": 306454,
+      "word": "加沙一家一半孩子都死了",
+      "onboard_time": 1746863661,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162393,
       "num": 162393,
       "word": "百色一葬礼墙体倒塌多人死伤",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1746849931,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161030,
+      "num": 261892,
+      "word": "孟子义两句话吴昕全招了",
+      "onboard_time": 1746865882,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 160438,
@@ -1251,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "确诊宦官",
+      "onboard_time": 1746863000,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151413,
       "num": 178507,
       "word": "QQ音乐",
@@ -1268,7 +1308,7 @@
     },
     {
       "raw_hot": 151250,
-      "num": 213884,
+      "num": 260505,
       "word": "王珞丹看张杰演唱会哭了",
       "onboard_time": 1746865161,
       "rank": 28,
@@ -1339,14 +1379,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 144497,
-      "num": 144497,
-      "word": "确诊宦官",
-      "onboard_time": 1746863000,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144006,
       "num": 152724,
       "word": "歌手歌单",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1746843031,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140855,
-      "num": 306454,
-      "word": "加沙一家一半孩子都死了",
-      "onboard_time": 1746863661,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138119,
@@ -1603,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119649,
+      "num": 119649,
+      "word": "巴外长称印度让巴基斯坦别无选择",
+      "onboard_time": 1746866363,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119044,
       "num": 119044,
       "word": "林更新怎么老是被贴脸开大",
@@ -1627,14 +1659,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 117609,
-      "num": 117609,
-      "word": "SMTOWN墨西哥演唱会合照",
-      "onboard_time": 1746865641,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 117302,
       "num": 117302,
       "word": "减肥可以以鸡蛋为标杆",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1746861622,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115999,
+      "num": 151069,
+      "word": "学煮苹果水养脾胃",
+      "onboard_time": 1746866240,
+      "rank": 40,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 115900,
@@ -1697,6 +1729,22 @@
       "onboard_time": 1746842429,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112388,
+      "num": 270561,
+      "word": "孟子义逆应援粉丝卫生巾",
+      "onboard_time": 1746865762,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110786,
+      "num": 259761,
+      "word": "一诺说让KPL刻上AG的名字",
+      "onboard_time": 1746865762,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 109914,
@@ -1851,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94841,
+      "num": 109363,
+      "word": "迪拜的山羊长得也太可怕了",
+      "onboard_time": 1746865161,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 94400,
       "num": 280949,
       "word": "工作人员谈结婚不用户口本登记",
@@ -1969,14 +2025,6 @@
       "onboard_time": 1746806241,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78413,
-      "num": 372965,
-      "word": "女孩被关17天虐待致死案继母生父上诉",
-      "onboard_time": 1746865282,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77958,
@@ -2331,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27572,
+      "num": 306681,
+      "word": "华人讲述飞离巴基斯坦经历",
+      "onboard_time": 1746865222,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25316,
       "num": 249190,
       "word": "5499元的考研秘籍竟是刷题小程序",
@@ -2467,12 +2523,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14160,
-      "num": 306681,
-      "word": "华人讲述飞离巴基斯坦经历",
-      "onboard_time": 1746865222,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 14357,
+      "num": 156605,
+      "word": "取消户口本要求对结婚离婚有何利弊",
+      "onboard_time": 1746866482,
+      "rank": 38,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 13780,
