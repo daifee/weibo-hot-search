@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746905782393,
+  "endTime": 1746908720229,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -491,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41839,
+      "num": 41839,
+      "word": "何秋亊杂志",
+      "onboard_time": 1746905594,
+      "rank": 45,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 33042,
       "num": 66777,
       "word": "四连冠游走大帅",
@@ -515,12 +523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26079,
+      "num": 67988,
+      "word": "小男孩说话算话带着包子冒雨赴约",
+      "onboard_time": 1746904934,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25267,
       "num": 27187,
       "word": "李昊猛男养蚕第四天",
       "onboard_time": 1746901276,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24910,
+      "num": 24910,
+      "word": "中国军人挥手告别时藏着爱",
+      "onboard_time": 1746906135,
+      "rank": 25,
+      "category": "正能量"
     },
     {
       "raw_hot": 18711,
@@ -539,12 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17788,
-      "num": 22374,
-      "word": "何秋亊杂志",
-      "onboard_time": 1746905594,
-      "rank": 45,
-      "category": "艺人,剧集"
+      "raw_hot": 16136,
+      "num": 22373,
+      "word": "花了1800元学到的炸蘑菇方法",
+      "onboard_time": 1746905655,
+      "rank": 49,
+      "category": "美食,休闲"
+    },
+    {
+      "raw_hot": 15866,
+      "num": 24905,
+      "word": "00后民警MVP结算画面好可爱",
+      "onboard_time": 1746907334,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 15579,
@@ -555,20 +587,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14829,
-      "num": 67988,
-      "word": "小男孩说话算话带着包子冒雨赴约",
-      "onboard_time": 1746904934,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 14115,
+      "num": 18052,
+      "word": "檀健次多见一次巡回演唱会",
+      "onboard_time": 1746908174,
+      "rank": 46,
+      "category": "演出"
     },
     {
-      "raw_hot": 11092,
-      "num": 22373,
-      "word": "花了1800元学到的炸蘑菇方法",
-      "onboard_time": 1746905655,
-      "rank": 49,
-      "category": "美食,休闲"
+      "raw_hot": 13036,
+      "num": 18050,
+      "word": "张杰高朋满座电量满格幸福求婚合唱满分",
+      "onboard_time": 1746903075,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 10885,
+      "num": 18257,
+      "word": "喀秋莎和茉莉花在机场奏响",
+      "onboard_time": 1746908535,
+      "rank": 37,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
