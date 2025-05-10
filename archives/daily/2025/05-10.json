@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746887967680,
+  "endTime": 1746890664711,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -33,6 +33,14 @@
       "onboard_time": 1746884065,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2332657,
+      "num": 2332657,
+      "word": "石凯被P掉了",
+      "onboard_time": 1746887723,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 2201816,
@@ -227,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 892692,
+      "num": 892692,
+      "word": "青岛行人相撞案相关法院道歉",
+      "onboard_time": 1746885562,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888749,
       "num": 562570,
       "word": "黄俊捷 嘻嘻",
@@ -248,6 +264,14 @@
       "word": "歌手首发阵容",
       "onboard_time": 1746835461,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 855697,
+      "num": 855697,
+      "word": "颜安 下镜",
+      "onboard_time": 1746885143,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 674487,
-      "num": 674487,
-      "word": "青岛行人相撞案相关法院道歉",
-      "onboard_time": 1746885562,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 666390,
       "num": 429604,
       "word": "巴基斯坦启动军事行动回应印度挑衅",
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577498,
+      "num": 577498,
+      "word": "周迅起床了天塌了",
+      "onboard_time": 1746883884,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574688,
       "num": 363396,
       "word": "巴基斯坦",
@@ -427,20 +451,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 572283,
+      "num": 572283,
+      "word": "谁给袁姗姗做的妆造出来挨夸",
+      "onboard_time": 1746888923,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564765,
       "num": 564765,
       "word": "炎亚纶回应汪东城被指变脸",
       "onboard_time": 1746857002,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562634,
-      "num": 562634,
-      "word": "颜安 下镜",
-      "onboard_time": 1746885143,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 543889,
@@ -851,14 +875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 326963,
-      "num": 396866,
-      "word": "周迅起床了天塌了",
-      "onboard_time": 1746883884,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321649,
       "num": 321649,
       "word": "赴山海主演戏份",
@@ -921,6 +937,14 @@
       "onboard_time": 1746842071,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 304632,
+      "num": 304632,
+      "word": "歼35让中国海军实现作战能力最大化",
+      "onboard_time": 1746886342,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303318,
@@ -1083,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263621,
+      "num": 263621,
+      "word": "AG发长文",
+      "onboard_time": 1746887964,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 263260,
       "num": 520246,
       "word": "重庆大学撤销刘某乔国奖等荣誉",
@@ -1179,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247986,
+      "num": 197144,
+      "word": "歼10总工程师",
+      "onboard_time": 1746888803,
+      "rank": 30,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 246715,
       "num": 246715,
       "word": "姚译添碰到孟子义都夹起来了",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1746883042,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 238039,
-      "num": 238039,
-      "word": "歼35让中国海军实现作战能力最大化",
-      "onboard_time": 1746886342,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237401,
@@ -1331,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208244,
+      "num": 208244,
+      "word": "李沐宸给足了刘奕畅情绪价值",
+      "onboard_time": 1746889405,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208157,
       "num": 208157,
       "word": "王鹤棣单挑郭艾伦",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1746848131,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202866,
+      "num": 202866,
+      "word": "机智的住院医生生活",
+      "onboard_time": 1746889703,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 202555,
@@ -1427,14 +1475,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 198112,
-      "num": 198112,
-      "word": "石凯被P掉了",
-      "onboard_time": 1746887723,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197061,
       "num": 233795,
       "word": "五哈",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1746882801,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 194939,
+      "word": "贺峻霖回应看张杰演唱会",
+      "onboard_time": 1746889944,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 194846,
@@ -1643,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184295,
+      "num": 184295,
+      "word": "被邓紫棋8米狮子开场震撼到了",
+      "onboard_time": 1746889161,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183734,
       "num": 161143,
       "word": "原来真有人命好到一塌糊涂",
@@ -1660,7 +1716,7 @@
     },
     {
       "raw_hot": 182525,
-      "num": 182525,
+      "num": 184526,
       "word": "心疼梦岚",
       "onboard_time": 1746887303,
       "rank": 33,
@@ -1803,6 +1859,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169301,
+      "num": 169301,
+      "word": "K1射一诺",
+      "onboard_time": 1746887903,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 169008,
+      "num": 169008,
+      "word": "赵丽颖粉发白裙",
+      "onboard_time": 1746889703,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168470,
       "num": 168470,
       "word": "云南人画饼是鲜花饼",
@@ -1857,6 +1929,14 @@
       "onboard_time": 1746881122,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164848,
+      "num": 164848,
+      "word": "母亲节成都的大屏只有川渝人能懂",
+      "onboard_time": 1746888022,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164553,
@@ -1923,12 +2003,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161619,
+      "num": 161619,
+      "word": "成毅张智霖还原一年级剧照",
+      "onboard_time": 1746888865,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161560,
       "num": 161560,
       "word": "雷霆vs掘金",
       "onboard_time": 1746848731,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161380,
+      "num": 161380,
+      "word": "柯淳这段台词像在嘴里炒了一遍",
+      "onboard_time": 1746889584,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161332,
@@ -2065,6 +2161,14 @@
       "onboard_time": 1746881542,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155599,
+      "num": 440776,
+      "word": "许多印度人开始囤积性抢购",
+      "onboard_time": 1746886943,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154598,
@@ -2283,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143873,
+      "num": 143873,
+      "word": "刘宪华跳得这么撩唱得这么帅",
+      "onboard_time": 1746890244,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143511,
       "num": 143511,
       "word": "裙撑",
@@ -2305,14 +2417,6 @@
       "onboard_time": 1746843031,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142695,
-      "num": 142695,
-      "word": "K1射一诺",
-      "onboard_time": 1746887903,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 142613,
@@ -2353,6 +2457,14 @@
       "onboard_time": 1746868881,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138994,
+      "num": 574041,
+      "word": "敏感肌被赵丽颖种草了",
+      "onboard_time": 1746886642,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138119,
@@ -2483,6 +2595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131333,
+      "num": 199590,
+      "word": "丁俊晖谈赵心童夺冠",
+      "onboard_time": 1746889161,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131001,
       "num": 131001,
       "word": "婚姻登记变化第一天",
@@ -2521,14 +2641,6 @@
       "onboard_time": 1746852871,
       "rank": 48,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 129953,
-      "num": 481319,
-      "word": "敏感肌被赵丽颖种草了",
-      "onboard_time": 1746886642,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 129902,
@@ -2609,6 +2721,14 @@
       "onboard_time": 1746878542,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126280,
+      "num": 562272,
+      "word": "1.9万名村官被查背后",
+      "onboard_time": 1746889643,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126011,
@@ -2891,14 +3011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109415,
-      "num": 440776,
-      "word": "许多印度人开始囤积性抢购",
-      "onboard_time": 1746886943,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109173,
       "num": 262257,
       "word": "搬家提供10个纸箱没想到只搬10箱",
@@ -3163,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88040,
+      "num": 131584,
+      "word": "首款折叠屏iPhone关键部件已送样",
+      "onboard_time": 1746888202,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85502,
       "num": 249482,
       "word": "霉霉收到S女王官司法院传票",
@@ -3283,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74449,
+      "num": 563481,
+      "word": "AG回应大满贯",
+      "onboard_time": 1746888443,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74034,
       "num": 74034,
       "word": "朱志鑫首部电视剧镜头",
@@ -3353,6 +3481,14 @@
       "onboard_time": 1746858081,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67031,
+      "num": 202343,
+      "word": "大连西山水库惊现成群超大怪鱼",
+      "onboard_time": 1746890244,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64180,
@@ -3832,6 +3968,14 @@
       "word": "玻尿酸巨头实控人遭立案调查",
       "onboard_time": 1746859222,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18192,
+      "num": 319573,
+      "word": "分别32年和26年后他们再见母亲",
+      "onboard_time": 1746889944,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
