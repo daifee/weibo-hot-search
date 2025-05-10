@@ -1,0 +1,410 @@
+{
+  "runTime": 1746843318574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068508,
+        "num": 1170961,
+        "word": "雷军说过去1个月是创业最艰难时期",
+        "onboard_time": 1746835461,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 792987,
+        "num": 792987,
+        "word": "歌手首发阵容",
+        "onboard_time": 1746835461,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5315,
+        "num": 706162,
+        "word": "一图读懂民营经济促进法亮点",
+        "onboard_time": 1746777981,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 692716,
+        "num": 692716,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441183,
+        "num": 441183,
+        "word": "TVB视帝陈豪被爆养家压力大",
+        "onboard_time": 1746838110,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403379,
+        "num": 403379,
+        "word": "花10万找网红带货卖了2000元的货",
+        "onboard_time": 1746835280,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586089,
+        "num": 403337,
+        "word": "巴基斯坦启动军事行动回应印度挑衅",
+        "onboard_time": 1746836971,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398145,
+        "num": 398145,
+        "word": "郑恺真的想把李昀锐培养成专业运动员",
+        "onboard_time": 1746837930,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376927,
+        "num": 376927,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114191,
+        "num": 376052,
+        "word": "结婚登记不再需要户口本需要这些",
+        "onboard_time": 1746842429,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1887811,
+        "num": 371422,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751756,
+        "num": 368888,
+        "word": "印度要求封禁8000多个社媒账号",
+        "onboard_time": 1746836181,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 549114,
+        "num": 366158,
+        "word": "全红婵账号虞书欣星奇摇作品已不可见",
+        "onboard_time": 1746834799,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 475521,
+        "num": 363396,
+        "word": "巴基斯坦",
+        "onboard_time": 1746834739,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361094,
+        "num": 361094,
+        "word": "爸爸哭诉刚上幼儿园说没就没了",
+        "onboard_time": 1746832998,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321579,
+        "num": 321579,
+        "word": "耀祖",
+        "onboard_time": 1746835821,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303295,
+        "num": 303295,
+        "word": "一个国家靠自己骗自己挽回面子",
+        "onboard_time": 1746805103,
+        "rank": 16,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 257977,
+        "num": 257977,
+        "word": "唐嫣龚俊双C位",
+        "onboard_time": 1746835099,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255156,
+        "num": 255156,
+        "word": "结婚离婚为什么不需要户口本了",
+        "onboard_time": 1746799825,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 248831,
+        "num": 248831,
+        "word": "三得利 成毅",
+        "onboard_time": 1746840871,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387145,
+        "num": 238400,
+        "word": "月经3天和月经7天哪个更健康",
+        "onboard_time": 1746835159,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212909,
+        "num": 212909,
+        "word": "大批韩国游客涌入盐城打高尔夫",
+        "onboard_time": 1746839130,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207803,
+        "num": 207803,
+        "word": "雷军复更健身房打卡",
+        "onboard_time": 1746834739,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206711,
+        "num": 206711,
+        "word": "种地吧开工直播",
+        "onboard_time": 1746842071,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206435,
+        "num": 206435,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1746828315,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181457,
+        "num": 181457,
+        "word": "马嘉祺让张杰请看他拍的星海",
+        "onboard_time": 1746841891,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174858,
+        "num": 174858,
+        "word": "女子月薪4700元负债2544万元",
+        "onboard_time": 1746792201,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170233,
+        "num": 170233,
+        "word": "中国产战机击落法国产战机的意义",
+        "onboard_time": 1746840811,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148350,
+        "num": 148350,
+        "word": "女子按摩遭猥亵技师辩称乳腺不好",
+        "onboard_time": 1746834859,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145622,
+        "num": 145622,
+        "word": "浪姐后期把张小婉当哪国人整啊",
+        "onboard_time": 1746813137,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274747,
+        "num": 143393,
+        "word": "网友曝腾讯工位全国最大",
+        "onboard_time": 1746842071,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 147845,
+        "num": 142023,
+        "word": "马龙封训一天三练还指导队员",
+        "onboard_time": 1746842371,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140230,
+        "num": 140230,
+        "word": "张靓颖戴眼镜 妈妈级别",
+        "onboard_time": 1746839011,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137679,
+        "num": 137679,
+        "word": "山东的樱桃也太大了",
+        "onboard_time": 1746836302,
+        "rank": 33,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 128083,
+        "num": 128083,
+        "word": "含金量很高的证书都在这里",
+        "onboard_time": 1746838710,
+        "rank": 34,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 126117,
+        "num": 126117,
+        "word": "玄机科技",
+        "onboard_time": 1746839911,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120764,
+        "num": 120764,
+        "word": "网红姜涛为娶妻生子退网",
+        "onboard_time": 1746800424,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120316,
+        "num": 120316,
+        "word": "我以后一定好好听销售电话",
+        "onboard_time": 1746835221,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116450,
+        "num": 116450,
+        "word": "男子地铁怪行为致3人恐慌受伤",
+        "onboard_time": 1746842731,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114856,
+        "num": 114856,
+        "word": "鞠婧祎 沪上阿姨",
+        "onboard_time": 1746793041,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111727,
+        "num": 111727,
+        "word": "李煜东停训",
+        "onboard_time": 1746840511,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111632,
+        "num": 111632,
+        "word": "认真刷牙为什么还会口臭",
+        "onboard_time": 1746833298,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105915,
+        "num": 105915,
+        "word": "工行回应两售出金条疑有杂质",
+        "onboard_time": 1746833779,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102637,
+        "num": 102637,
+        "word": "中国驻印度大使馆发文",
+        "onboard_time": 1746843031,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101970,
+        "num": 101970,
+        "word": "刘奕畅 一个人整顿无限超越班所有人",
+        "onboard_time": 1746837149,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101529,
+        "num": 101529,
+        "word": "李晟在张杰演唱会蹦迪",
+        "onboard_time": 1746843031,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97196,
+        "num": 97196,
+        "word": "孙颖莎说对乒乓球有百分百好胜心",
+        "onboard_time": 1746843031,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97119,
+        "num": 97119,
+        "word": "痛经是因为子宫太想保护你",
+        "onboard_time": 1746791720,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91347,
+        "num": 91347,
+        "word": "男孩说报我名字免费吃100个包子",
+        "onboard_time": 1746836302,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90654,
+        "num": 90654,
+        "word": "赵心童调侃50万镑已经花掉了",
+        "onboard_time": 1746834739,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席红场阅兵式#"
+    }
+  }
+}
