@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746873759653,
+  "endTime": 1746876054414,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1333986,
+      "num": 1333986,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1330984,
       "num": 386272,
       "word": "谁能管管商场厕所",
@@ -769,14 +777,6 @@
       "onboard_time": 1746678923,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1236040,
-      "num": 1236040,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1231067,
@@ -4315,6 +4315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 423541,
+      "num": 281050,
+      "word": "巴基斯坦士兵昼夜不停密集炮轰印度",
+      "onboard_time": 1746870562,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423030,
       "num": 278556,
       "word": "周杰伦ins点赞狮城山海",
@@ -4459,6 +4467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410789,
+      "num": 410789,
+      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+      "onboard_time": 1746872842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410693,
       "num": 272205,
       "word": "长胖其实是有滞后性的",
@@ -4481,14 +4497,6 @@
       "onboard_time": 1746617543,
       "rank": 42,
       "category": "情感,美食"
-    },
-    {
-      "raw_hot": 404201,
-      "num": 281050,
-      "word": "巴基斯坦士兵昼夜不停密集炮轰印度",
-      "onboard_time": 1746870562,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 403379,
@@ -4529,6 +4537,14 @@
       "onboard_time": 1746698422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399524,
+      "num": 264074,
+      "word": "虞书欣直播",
+      "onboard_time": 1746873081,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 399049,
@@ -4803,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382268,
+      "num": 305839,
+      "word": "孟子义来自早上6点59的撕拉片",
+      "onboard_time": 1746872301,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380757,
       "num": 398098,
       "word": "60岁老人喝自制药酒却中情花毒",
@@ -4881,6 +4905,14 @@
       "onboard_time": 1746543864,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 374143,
+      "num": 280343,
+      "word": "赴山海还能播出吗",
+      "onboard_time": 1746869602,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 373744,
@@ -5627,20 +5659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327603,
-      "num": 280343,
-      "word": "赴山海还能播出吗",
-      "onboard_time": 1746869602,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327482,
       "num": 312031,
       "word": "男子辞职照顾2岁妈妈回应啃老质疑",
       "onboard_time": 1746665552,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327401,
+      "num": 261346,
+      "word": "艾威妻子病危发文求助",
+      "onboard_time": 1746874402,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 325157,
@@ -6275,6 +6307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293686,
+      "num": 293686,
+      "word": "关注印巴局势",
+      "onboard_time": 1746870142,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 293156,
       "num": 293156,
       "word": "淮水竹亭热度",
@@ -6587,14 +6627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280007,
-      "num": 280007,
-      "word": "关注印巴局势",
-      "onboard_time": 1746870142,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 279112,
       "num": 279112,
       "word": "被林瀚挂的素人网友已报警",
@@ -6737,6 +6769,14 @@
       "onboard_time": 1746365066,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272550,
+      "num": 272550,
+      "word": "正媛be",
+      "onboard_time": 1746875002,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 272245,
@@ -7827,14 +7867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236561,
-      "num": 255779,
-      "word": "孟子义来自早上6点59的撕拉片",
-      "onboard_time": 1746872301,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236530,
       "num": 371754,
       "word": "时代少年团上海",
@@ -8249,6 +8281,14 @@
       "onboard_time": 1746333682,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224248,
+      "num": 224248,
+      "word": "小红书回应网友评论曾捂死半岁女婴",
+      "onboard_time": 1746873621,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 224124,
@@ -8785,6 +8825,14 @@
       "onboard_time": 1746753801,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211385,
+      "num": 211385,
+      "word": "苏新皓网盘",
+      "onboard_time": 1746872722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 211042,
@@ -9979,14 +10027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198790,
-      "num": 198790,
-      "word": "虞书欣直播",
-      "onboard_time": 1746873081,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198787,
       "num": 198787,
       "word": "妻子的浪漫旅行",
@@ -10153,14 +10193,6 @@
       "onboard_time": 1746695001,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 196766,
-      "num": 196766,
-      "word": "苏新皓网盘",
-      "onboard_time": 1746872722,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 196748,
@@ -12219,6 +12251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174275,
+      "num": 174275,
+      "word": "AG对战DRG",
+      "onboard_time": 1746874162,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174224,
       "num": 270119,
       "word": "虞书欣定点饭撒不理解但尊重",
@@ -12827,14 +12867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167036,
-      "num": 167036,
-      "word": "小红书回应网友评论曾捂死半岁女婴",
-      "onboard_time": 1746873621,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 166963,
       "num": 199831,
       "word": "卤鹅哥将其与甲亢哥名字合并注册商标",
@@ -12881,6 +12913,14 @@
       "onboard_time": 1746371604,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166787,
+      "num": 188551,
+      "word": "中方回应印巴局势持续升级",
+      "onboard_time": 1746873381,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166635,
@@ -13139,6 +13179,14 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 164417,
+      "num": 164417,
+      "word": "蝶变",
+      "onboard_time": 1746873621,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 164416,
       "num": 164416,
       "word": "今年还剩11天假期",
@@ -13241,14 +13289,6 @@
       "onboard_time": 1746366263,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163661,
-      "num": 163661,
-      "word": "蝶变",
-      "onboard_time": 1746873621,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 163619,
@@ -13681,6 +13721,14 @@
       "onboard_time": 1746451762,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159203,
+      "num": 271784,
+      "word": "中美会谈前中国加速替代美产品",
+      "onboard_time": 1746874761,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159200,
@@ -14651,6 +14699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150322,
+      "num": 203766,
+      "word": "李嘉诚七折抛售旗下北京楼盘",
+      "onboard_time": 1746871821,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150299,
       "num": 150299,
       "word": "仙逆",
@@ -14811,14 +14867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148456,
-      "num": 203766,
-      "word": "李嘉诚七折抛售旗下北京楼盘",
-      "onboard_time": 1746871821,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148409,
       "num": 148409,
       "word": "张杰鸟巢连开破纪录",
@@ -14881,6 +14929,14 @@
       "onboard_time": 1746700042,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147232,
+      "num": 213651,
+      "word": "洪知秀造型",
+      "onboard_time": 1746875182,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147164,
@@ -15177,6 +15233,14 @@
       "onboard_time": 1746587542,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144324,
+      "num": 252318,
+      "word": "宋亚轩贺峻霖让锦超不用硬夸",
+      "onboard_time": 1746874761,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 144235,
@@ -15649,6 +15713,14 @@
       "onboard_time": 1746331820,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140469,
+      "num": 209160,
+      "word": "邓为蓝发鼻梁钻造型",
+      "onboard_time": 1746875002,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140361,
@@ -16275,6 +16347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135518,
+      "num": 151069,
+      "word": "学煮苹果水养脾胃",
+      "onboard_time": 1746866240,
+      "rank": 40,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 135507,
       "num": 135507,
       "word": "年轻人爱上户外小型婚礼",
@@ -16627,14 +16707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132393,
-      "num": 224128,
-      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
-      "onboard_time": 1746872842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132218,
       "num": 132218,
       "word": "黄雅莉不甘于在菜地和客厅",
@@ -16817,6 +16889,14 @@
       "onboard_time": 1746780622,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130556,
+      "num": 130556,
+      "word": "巴无人机飞越德里上空",
+      "onboard_time": 1746874702,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130487,
@@ -17553,14 +17633,6 @@
       "onboard_time": 1746539723,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125073,
-      "num": 188551,
-      "word": "中方回应印巴局势持续升级",
-      "onboard_time": 1746873381,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125041,
@@ -18331,16 +18403,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 116995,
-      "num": 151069,
-      "word": "学煮苹果水养脾胃",
-      "onboard_time": 1746866240,
-      "rank": 40,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 116985,
-      "num": 116985,
+      "num": 226148,
       "word": "花海清融Fly评论席合体",
       "onboard_time": 1746872242,
       "rank": 46,
@@ -18897,6 +18961,14 @@
       "onboard_time": 1746284065,
       "rank": 29,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 111381,
+      "num": 207878,
+      "word": "AG十分钟的神",
+      "onboard_time": 1746875122,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 111354,
@@ -19569,6 +19641,14 @@
       "onboard_time": 1746346401,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103858,
+      "num": 103858,
+      "word": "我就说看无限超越班有用吧",
+      "onboard_time": 1746875961,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103856,
@@ -21065,6 +21145,14 @@
       "onboard_time": 1746624804,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78480,
+      "num": 257915,
+      "word": "印方称将对巴基斯坦的行动作出回应",
+      "onboard_time": 1746875663,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77958,
@@ -23803,6 +23891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31887,
+      "num": 255264,
+      "word": "妈妈称没想过再生个孩子照顾小岱",
+      "onboard_time": 1746875481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31763,
       "num": 637289,
       "word": "中俄关系不断焕发出新活力",
@@ -24921,6 +25017,14 @@
       "onboard_time": 1746528261,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20358,
+      "num": 262257,
+      "word": "搬家提供10个纸箱没想到只搬10箱",
+      "onboard_time": 1746875541,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20348,
