@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746897598778,
+  "endTime": 1746898663812,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -203,6 +203,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 178535,
+      "num": 178535,
+      "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
+      "onboard_time": 1746895520,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176141,
       "num": 176141,
       "word": "赴山海",
@@ -297,14 +305,6 @@
       "onboard_time": 1746886943,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114642,
-      "num": 114642,
-      "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
-      "onboard_time": 1746895520,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114605,
@@ -459,12 +459,36 @@
       "category": "情感,母婴育儿"
     },
     {
+      "raw_hot": 48148,
+      "num": 56841,
+      "word": "梦泪捧杯",
+      "onboard_time": 1746886162,
+      "rank": 37,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 46885,
       "num": 66769,
       "word": "钟意FMVP",
       "onboard_time": 1746884482,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 44256,
+      "num": 56748,
+      "word": "王鹤棣压线逆风翻盘",
+      "onboard_time": 1746898277,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42789,
+      "num": 56733,
+      "word": "黄子弘凡除了快乐禁止入内",
+      "onboard_time": 1746897977,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 33042,
@@ -481,6 +505,14 @@
       "onboard_time": 1746869121,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15579,
+      "num": 56695,
+      "word": "冠军武将轩染",
+      "onboard_time": 1746898637,
+      "rank": 44,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
