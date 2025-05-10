@@ -1,0 +1,410 @@
+{
+  "runTime": 1746861724290,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560864,
+        "num": 1560864,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571076,
+        "num": 571076,
+        "word": "没人选宋妍霏的原因找到了",
+        "onboard_time": 1746859881,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116170,
+        "num": 571056,
+        "word": "17个新职业和42个新工种亮相",
+        "onboard_time": 1746850532,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 737790,
+        "num": 570313,
+        "word": "34岁女生花70万去英国留学一年",
+        "onboard_time": 1746858382,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454123,
+        "num": 569591,
+        "word": "内娱终于有刀群舞女团了",
+        "onboard_time": 1746855022,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19801,
+        "num": 568874,
+        "word": "中俄关系不断焕发出新活力",
+        "onboard_time": 1746850291,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620240,
+        "num": 567831,
+        "word": "巴基斯坦最新战果曝光",
+        "onboard_time": 1746852692,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 618875,
+        "num": 566887,
+        "word": "海外社媒满屏都是刚买的飞机",
+        "onboard_time": 1746855141,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 372696,
+        "num": 566723,
+        "word": "印度战机被击落飞行员被俘",
+        "onboard_time": 1746847832,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126976,
+        "num": 565535,
+        "word": "14篇SCI论文事件2名当事人被处理",
+        "onboard_time": 1746860542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1580392,
+        "num": 565105,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564765,
+        "num": 564765,
+        "word": "炎亚纶回应汪东城被指变脸",
+        "onboard_time": 1746857002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557287,
+        "num": 557287,
+        "word": "s400",
+        "onboard_time": 1746858503,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193380,
+        "num": 520246,
+        "word": "重庆大学撤销刘某乔国奖等荣誉",
+        "onboard_time": 1746860241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13740,
+        "num": 507884,
+        "word": "深度搜索让深度思考成为过去式",
+        "onboard_time": 1746860480,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504862,
+        "num": 504862,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500841,
+        "num": 500841,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431226,
+        "num": 431226,
+        "word": "迪丽热巴黑旗袍",
+        "onboard_time": 1746858503,
+        "rank": 17,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 390258,
+        "num": 390258,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328808,
+        "num": 328808,
+        "word": "关晓彤晒撕拉片",
+        "onboard_time": 1746852392,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486534,
+        "num": 309491,
+        "word": "李凯馨",
+        "onboard_time": 1746855442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287950,
+        "num": 287950,
+        "word": "邓超让五哈给79年出生的人道歉",
+        "onboard_time": 1746852692,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241851,
+        "num": 241851,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34921,
+        "num": 239416,
+        "word": "全球首个可触控3D全息图的意义是什么",
+        "onboard_time": 1746860480,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 238594,
+        "num": 238594,
+        "word": "高考700分和给你700万你要哪个",
+        "onboard_time": 1746859042,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236413,
+        "num": 236413,
+        "word": "黄俊捷 嘻嘻",
+        "onboard_time": 1746861502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196396,
+        "num": 234880,
+        "word": "歌手",
+        "onboard_time": 1746860602,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171959,
+        "num": 227967,
+        "word": "周深没认出张雨绮后续",
+        "onboard_time": 1746860542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169987,
+        "num": 220848,
+        "word": "章子怡等到了李安的拥抱",
+        "onboard_time": 1746860182,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141601,
+        "num": 216636,
+        "word": "奔跑吧下期有孟子义李昀锐",
+        "onboard_time": 1746861321,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213425,
+        "num": 213425,
+        "word": "巴基斯坦将打击印度多个区域",
+        "onboard_time": 1746838051,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68852,
+        "num": 209232,
+        "word": "巴基斯坦华人为被困同胞送物资",
+        "onboard_time": 1746861622,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205097,
+        "num": 205097,
+        "word": "17岁到67岁 你居然不爱我了",
+        "onboard_time": 1746845791,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198181,
+        "num": 198181,
+        "word": "印度否认S400被巴方击毁",
+        "onboard_time": 1746860721,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178323,
+        "num": 178323,
+        "word": "男子地铁遗失400万警方拒绝归还",
+        "onboard_time": 1746850591,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146007,
+        "num": 146007,
+        "word": "仿佛触碰到了曾经的自己",
+        "onboard_time": 1746860842,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139393,
+        "num": 139393,
+        "word": "白鹿凤凰神女",
+        "onboard_time": 1746854012,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135706,
+        "num": 135706,
+        "word": "纸片茅台撕拉片涨到2000元一盒",
+        "onboard_time": 1746838110,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128370,
+        "num": 128370,
+        "word": "李凯馨最新动态",
+        "onboard_time": 1746861622,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128341,
+        "num": 128341,
+        "word": "刘某华被免去重庆大学研究生院副院长",
+        "onboard_time": 1746860182,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128312,
+        "num": 128312,
+        "word": "00后开始反向富养妈妈了",
+        "onboard_time": 1746845550,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124707,
+        "num": 124707,
+        "word": "510阿里日",
+        "onboard_time": 1746860782,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123009,
+        "num": 123009,
+        "word": "据传印度女战机飞行员被俘",
+        "onboard_time": 1746856280,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121255,
+        "num": 121255,
+        "word": "张本智和深受雨果夺冠冲击",
+        "onboard_time": 1746860602,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121103,
+        "num": 121103,
+        "word": "杨紫生命树开机vlog",
+        "onboard_time": 1746859340,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68932,
+        "num": 117493,
+        "word": "侯佩岑组还原陈昊宇陈丽君名场面",
+        "onboard_time": 1746855563,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117216,
+        "num": 117216,
+        "word": "我正过着一种无所谓的生活",
+        "onboard_time": 1746861622,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "躲避大妈撞击被判负30%责任",
+        "onboard_time": 1746858081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112507,
+        "num": 112507,
+        "word": "姚译添碰到孟子义都夹起来了",
+        "onboard_time": 1746856403,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 109914,
+        "word": "撕拉片",
+        "onboard_time": 1746861380,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念伟大胜利捍卫公平正义#"
+    }
+  }
+}
