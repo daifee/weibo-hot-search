@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746843318574,
+  "endTime": 1746846535585,
   "band_list": [
     {
       "raw_hot": 2097420,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520678,
+      "num": 520678,
+      "word": "巴军方称又击落一架印度战机",
+      "onboard_time": 1746844890,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 520182,
       "num": 840938,
       "word": "鞠婧祎 沪上阿姨",
@@ -113,6 +121,14 @@
       "onboard_time": 1746805103,
       "rank": 38,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 477205,
+      "num": 425618,
+      "word": "巴基斯坦对印度发动网络攻击",
+      "onboard_time": 1746840931,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 469715,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 465823,
-      "num": 277781,
+      "num": 305527,
       "word": "月经3天和月经7天哪个更健康",
       "onboard_time": 1746835159,
       "rank": 20,
@@ -145,6 +161,14 @@
       "onboard_time": 1746835821,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452152,
+      "num": 452152,
+      "word": "纸片茅台撕拉片涨到2000元一盒",
+      "onboard_time": 1746838110,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444931,
@@ -169,6 +193,14 @@
       "onboard_time": 1746838110,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431106,
+      "num": 431106,
+      "word": "巴基斯坦战机进入印度领空",
+      "onboard_time": 1746843930,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 416068,
@@ -211,11 +243,19 @@
       "category": "海外新闻,军事"
     },
     {
-      "raw_hot": 376927,
-      "num": 376927,
-      "word": "纸片茅台撕拉片涨到2000元一盒",
-      "onboard_time": 1746838110,
-      "rank": 22,
+      "raw_hot": 356675,
+      "num": 308597,
+      "word": "17岁到67岁 你居然不爱我了",
+      "onboard_time": 1746845791,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 312043,
+      "num": 312043,
+      "word": "大批韩国游客涌入盐城打高尔夫",
+      "onboard_time": 1746839130,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -225,6 +265,14 @@
       "onboard_time": 1746801264,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304818,
+      "num": 304818,
+      "word": "网友曝腾讯工位全国最大",
+      "onboard_time": 1746842071,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 303318,
@@ -267,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274747,
-      "num": 143393,
-      "word": "网友曝腾讯工位全国最大",
-      "onboard_time": 1746842071,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 257687,
       "num": 257687,
       "word": "银行卖疑似假黄金监管介入",
@@ -289,6 +329,14 @@
       "onboard_time": 1746840871,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229656,
+      "num": 324345,
+      "word": "马嘉祺让张杰请看他拍的星海",
+      "onboard_time": 1746841891,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 222940,
@@ -307,12 +355,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 212909,
-      "num": 212909,
-      "word": "大批韩国游客涌入盐城打高尔夫",
-      "onboard_time": 1746839130,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 207901,
+      "num": 207901,
+      "word": "00后开始反向富养妈妈了",
+      "onboard_time": 1746845550,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 206711,
@@ -323,12 +371,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205286,
+      "num": 205286,
+      "word": "中国产战机击落法国产战机的意义",
+      "onboard_time": 1746840811,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198610,
       "num": 198610,
       "word": "韩安冉说自己存款不到20万",
       "onboard_time": 1746797962,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 198198,
+      "num": 198198,
+      "word": "20岁男子杀害14岁女孩被执行死刑",
+      "onboard_time": 1746845791,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194846,
+      "num": 194846,
+      "word": "男子地铁怪行为致3人恐慌受伤",
+      "onboard_time": 1746842731,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187138,
@@ -355,12 +427,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 181457,
-      "num": 181457,
-      "word": "马嘉祺让张杰请看他拍的星海",
-      "onboard_time": 1746841891,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 174519,
+      "num": 174519,
+      "word": "答辩季",
+      "onboard_time": 1746845371,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 173340,
@@ -369,14 +441,6 @@
       "onboard_time": 1746836302,
       "rank": 28,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 170233,
-      "num": 170233,
-      "word": "中国产战机击落法国产战机的意义",
-      "onboard_time": 1746840811,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164553,
@@ -435,6 +499,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 151281,
+      "num": 151281,
+      "word": "为什么圈子干净却活成寡王",
+      "onboard_time": 1746845371,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148984,
       "num": 148984,
       "word": "玄机科技",
@@ -467,6 +539,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144849,
+      "num": 144849,
+      "word": "警方通报男子地铁博流量做怪异行为",
+      "onboard_time": 1746843870,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 143015,
+      "num": 207639,
+      "word": "李晟在张杰演唱会蹦迪",
+      "onboard_time": 1746843031,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137421,
       "num": 137421,
       "word": "刘诗诗穿旗袍扫楼",
@@ -491,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131917,
+      "num": 205915,
+      "word": "如果你还关心中国牛奶",
+      "onboard_time": 1746843691,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129902,
       "num": 129902,
       "word": "李煜东停训",
@@ -499,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128495,
+      "num": 128495,
+      "word": "樊振东杭州",
+      "onboard_time": 1746846330,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128083,
       "num": 128083,
       "word": "含金量很高的证书都在这里",
       "onboard_time": 1746838710,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 126756,
+      "num": 126756,
+      "word": "特朗普称对华关税不能再高了将下调",
+      "onboard_time": 1746845011,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125020,
@@ -523,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121320,
+      "num": 206601,
+      "word": "周深 Crush",
+      "onboard_time": 1746844470,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118712,
       "num": 118712,
       "word": "吴镇宇一根手指调整王星表演的眼神",
       "onboard_time": 1746828795,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116450,
-      "num": 116450,
-      "word": "男子地铁怪行为致3人恐慌受伤",
-      "onboard_time": 1746842731,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114191,
@@ -603,20 +715,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102866,
+      "num": 102866,
+      "word": "骑士1比2步行者",
+      "onboard_time": 1746846151,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102637,
       "num": 102637,
       "word": "中国驻印度大使馆发文",
       "onboard_time": 1746843031,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101529,
-      "num": 101529,
-      "word": "李晟在张杰演唱会蹦迪",
-      "onboard_time": 1746843031,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 99345,
@@ -811,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68773,
+      "num": 205383,
+      "word": "印称1名高级官员在袭击中死亡",
+      "onboard_time": 1746846271,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64180,
       "num": 64180,
       "word": "阵风战机宣传片每一句都像回旋镖",
@@ -915,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35215,
+      "num": 306137,
+      "word": "司机醉蒙了呼气143以为是罚款",
+      "onboard_time": 1746845970,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34962,
       "num": 51071,
       "word": "孙颖莎偷偷比耶",
@@ -929,6 +1057,14 @@
       "onboard_time": 1746817335,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31803,
+      "num": 309583,
+      "word": "巴总理召开国家指挥当局紧急会议",
+      "onboard_time": 1746845851,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31418,
