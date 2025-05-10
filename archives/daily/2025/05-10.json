@@ -1,7 +1,23 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746833869177,
+  "endTime": 1746841958738,
   "band_list": [
+    {
+      "raw_hot": 2097420,
+      "num": 303095,
+      "word": "王俊凯工作室闲鱼",
+      "onboard_time": 1746836481,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1376907,
+      "num": 1376907,
+      "word": "雷军说过去1个月是创业最艰难时期",
+      "onboard_time": 1746835461,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 981094,
       "num": 694518,
@@ -11,12 +27,60 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 916878,
+      "num": 302635,
+      "word": "印度要求封禁8000多个社媒账号",
+      "onboard_time": 1746836181,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 860107,
+      "num": 860107,
+      "word": "歌手首发阵容",
+      "onboard_time": 1746835461,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 730984,
+      "num": 302563,
+      "word": "全红婵账号虞书欣星奇摇作品已不可见",
+      "onboard_time": 1746834799,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 685716,
-      "num": 118123,
+      "num": 301264,
       "word": "爸爸哭诉刚上幼儿园说没就没了",
       "onboard_time": 1746832998,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667993,
+      "num": 667993,
+      "word": "巴基斯坦将打击印度多个区域",
+      "onboard_time": 1746838051,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 666390,
+      "num": 429604,
+      "word": "巴基斯坦启动军事行动回应印度挑衅",
+      "onboard_time": 1746836971,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 574688,
+      "num": 302192,
+      "word": "巴基斯坦",
+      "onboard_time": 1746834739,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 543889,
@@ -44,7 +108,7 @@
     },
     {
       "raw_hot": 482709,
-      "num": 115493,
+      "num": 431611,
       "word": "一个国家靠自己骗自己挽回面子",
       "onboard_time": 1746805103,
       "rank": 38,
@@ -67,12 +131,44 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 465823,
+      "num": 277781,
+      "word": "月经3天和月经7天哪个更健康",
+      "onboard_time": 1746835159,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 456320,
+      "num": 301778,
+      "word": "耀祖",
+      "onboard_time": 1746835821,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444931,
+      "num": 411926,
+      "word": "巴基斯坦关闭全部领空",
+      "onboard_time": 1746839671,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 441867,
       "num": 252961,
       "word": "内娱最有味道的吻戏出现了",
       "onboard_time": 1746797541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427335,
+      "num": 427335,
+      "word": "TVB视帝陈豪被爆养家压力大",
+      "onboard_time": 1746838110,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 416068,
@@ -99,12 +195,36 @@
       "category": "海外新闻,军事"
     },
     {
+      "raw_hot": 379964,
+      "num": 379964,
+      "word": "花10万找网红带货卖了2000元的货",
+      "onboard_time": 1746835280,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310136,
       "num": 254610,
       "word": "马嘉祺回复湖南卫视歌手",
       "onboard_time": 1746801264,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303318,
+      "num": 303318,
+      "word": "结婚离婚为什么不需要户口本了",
+      "onboard_time": 1746799825,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 301201,
+      "num": 301201,
+      "word": "唐嫣龚俊双C位",
+      "onboard_time": 1746835099,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295104,
@@ -124,19 +244,19 @@
     },
     {
       "raw_hot": 287365,
-      "num": 92866,
+      "num": 223560,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1746828315,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 259661,
-      "num": 259661,
-      "word": "结婚离婚为什么不需要户口本了",
-      "onboard_time": 1746799825,
-      "rank": 9,
-      "category": "议题讨论"
+      "raw_hot": 281059,
+      "num": 281059,
+      "word": "郑恺真的想把李昀锐培养成专业运动员",
+      "onboard_time": 1746837930,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 257687,
@@ -147,12 +267,36 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 257661,
+      "num": 257661,
+      "word": "纸片茅台撕拉片涨到2000元一盒",
+      "onboard_time": 1746838110,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222940,
       "num": 222940,
       "word": "贵州发现罕见幽灵之花",
       "onboard_time": 1746795023,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216288,
+      "num": 216288,
+      "word": "雷军复更健身房打卡",
+      "onboard_time": 1746834739,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 204362,
+      "num": 278243,
+      "word": "三得利 成毅",
+      "onboard_time": 1746840871,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 198610,
@@ -163,12 +307,44 @@
       "category": "网红"
     },
     {
+      "raw_hot": 187138,
+      "num": 187138,
+      "word": "女子按摩遭猥亵技师辩称乳腺不好",
+      "onboard_time": 1746834859,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185660,
+      "num": 185660,
+      "word": "大批韩国游客涌入盐城打高尔夫",
+      "onboard_time": 1746839130,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185046,
+      "num": 277799,
+      "word": "浪姐后期把张小婉当哪国人整啊",
+      "onboard_time": 1746813137,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183734,
       "num": 161143,
       "word": "原来真有人命好到一塌糊涂",
       "onboard_time": 1746790521,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 173340,
+      "num": 173340,
+      "word": "山东的樱桃也太大了",
+      "onboard_time": 1746836302,
+      "rank": 28,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 164553,
@@ -211,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155825,
+      "num": 155825,
+      "word": "张靓颖戴眼镜 妈妈级别",
+      "onboard_time": 1746839011,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154349,
       "num": 154349,
       "word": "南京一大学被曝献血免晨跑和体育课",
       "onboard_time": 1746792260,
       "rank": 32,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 148984,
+      "num": 148984,
+      "word": "玄机科技",
+      "onboard_time": 1746839911,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 146280,
@@ -227,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145088,
-      "num": 145088,
-      "word": "浪姐后期把张小婉当哪国人整啊",
-      "onboard_time": 1746813137,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 145401,
+      "num": 145401,
+      "word": "我以后一定好好听销售电话",
+      "onboard_time": 1746835221,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 137421,
@@ -241,6 +433,38 @@
       "onboard_time": 1746806302,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132641,
+      "num": 132641,
+      "word": "认真刷牙为什么还会口臭",
+      "onboard_time": 1746833298,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132481,
+      "num": 145549,
+      "word": "刘奕畅 一个人整顿无限超越班所有人",
+      "onboard_time": 1746837149,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129902,
+      "num": 129902,
+      "word": "李煜东停训",
+      "onboard_time": 1746840511,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125020,
+      "num": 125020,
+      "word": "男孩说报我名字免费吃100个包子",
+      "onboard_time": 1746836302,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122806,
@@ -259,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116959,
+      "num": 116959,
+      "word": "含金量很高的证书都在这里",
+      "onboard_time": 1746838710,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 108533,
+      "num": 108533,
+      "word": "赵心童调侃50万镑已经花掉了",
+      "onboard_time": 1746834739,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108513,
       "num": 108513,
       "word": "日本地铁砍人嫌犯特意选东大附近作案",
@@ -267,11 +507,43 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107645,
+      "num": 107645,
+      "word": "雷军回应社会活动减少",
+      "onboard_time": 1746840511,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 107283,
+      "num": 107283,
+      "word": "国乒男线群像",
+      "onboard_time": 1746840391,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106342,
       "num": 106342,
       "word": "曾冒用学籍女子发现自己学籍也被冒用",
       "onboard_time": 1746804022,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104687,
+      "num": 104687,
+      "word": "工行回应两售出金条疑有杂质",
+      "onboard_time": 1746833779,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104120,
+      "num": 104120,
+      "word": "大哥掏鸟触电倒挂15米杆上被展览",
+      "onboard_time": 1746837451,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -305,6 +577,14 @@
       "onboard_time": 1746807561,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95636,
+      "num": 95636,
+      "word": "马嘉祺让张杰请看他拍的星海",
+      "onboard_time": 1746841891,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 95000,
@@ -347,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89784,
+      "num": 89784,
+      "word": "歌手2025",
+      "onboard_time": 1746840330,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89449,
       "num": 89449,
       "word": "张凌赫二旬老人的朋友圈",
@@ -369,14 +657,6 @@
       "onboard_time": 1746790760,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83859,
-      "num": 72207,
-      "word": "认真刷牙为什么还会口臭",
-      "onboard_time": 1746833298,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 80065,
@@ -481,6 +761,14 @@
       "onboard_time": 1746800783,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61519,
+      "num": 161712,
+      "word": "中国产战机击落法国产战机的意义",
+      "onboard_time": 1746840811,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 60610,
@@ -715,16 +1003,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10282,
-      "num": 52758,
-      "word": "工行回应两售出金条疑有杂质",
-      "onboard_time": 1746833779,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10062,
-      "num": 273838,
+      "num": 715547,
       "word": "一图读懂民营经济促进法亮点",
       "onboard_time": 1746777981,
       "rank": 7,
