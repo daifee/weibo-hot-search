@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746909528688,
+  "endTime": 1746912091145,
   "band_list": [
     {
       "raw_hot": 1439244,
@@ -419,8 +419,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66780,
-      "num": 66780,
+      "raw_hot": 68868,
+      "num": 68868,
       "word": "结婚无需户口本首日爸妈们有话说",
       "onboard_time": 1746882801,
       "rank": 37,
@@ -571,6 +571,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 16222,
+      "num": 41670,
+      "word": "喀秋莎和茉莉花在机场奏响",
+      "onboard_time": 1746908535,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16136,
       "num": 22373,
       "word": "花了1800元学到的炸蘑菇方法",
@@ -585,6 +593,14 @@
       "onboard_time": 1746898637,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14409,
+      "num": 15846,
+      "word": "在印在巴中国公民必知电话",
+      "onboard_time": 1746909734,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14115,
@@ -609,14 +625,6 @@
       "onboard_time": 1746903075,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11425,
-      "num": 41670,
-      "word": "喀秋莎和茉莉花在机场奏响",
-      "onboard_time": 1746908535,
-      "rank": 37,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
