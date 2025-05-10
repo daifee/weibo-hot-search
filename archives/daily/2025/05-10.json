@@ -1,6 +1,6 @@
 {
   "startTime": 1746808290469,
-  "endTime": 1746872737522,
+  "endTime": 1746873759653,
   "band_list": [
     {
       "raw_hot": 4160078,
@@ -83,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1236040,
+      "num": 1236040,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1142531,
       "num": 1182805,
       "word": "邓超给所有79年出生的人道歉",
       "onboard_time": 1746852692,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1009883,
-      "num": 1161581,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1005609,
@@ -203,8 +203,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 755537,
-      "num": 755537,
+      "raw_hot": 800416,
+      "num": 800416,
       "word": "苹果渠道官方调价",
       "onboard_time": 1746869301,
       "rank": 36,
@@ -883,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236561,
+      "num": 255779,
+      "word": "孟子义来自早上6点59的撕拉片",
+      "onboard_time": 1746872301,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236006,
       "num": 236006,
       "word": "李凯馨最新动态",
@@ -1019,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198790,
+      "num": 198790,
+      "word": "虞书欣直播",
+      "onboard_time": 1746873081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198610,
       "num": 198610,
       "word": "韩安冉说自己存款不到20万",
@@ -1035,6 +1051,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197023,
+      "num": 202356,
+      "word": "NCT合照",
+      "onboard_time": 1746872901,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196766,
+      "num": 196766,
+      "word": "苏新皓网盘",
+      "onboard_time": 1746872722,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196396,
       "num": 240704,
       "word": "歌手",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1746846630,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195154,
-      "num": 255779,
-      "word": "孟子义来自早上6点59的撕拉片",
-      "onboard_time": 1746872301,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 194846,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1746868281,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189374,
+      "num": 189374,
+      "word": "jayjay舞台",
+      "onboard_time": 1746872482,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 187138,
@@ -1275,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171296,
+      "num": 171296,
+      "word": "AG开场好帅",
+      "onboard_time": 1746873262,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170799,
       "num": 210571,
       "word": "杨紫高原吸氧",
@@ -1315,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167036,
+      "num": 167036,
+      "word": "小红书回应网友评论曾捂死半岁女婴",
+      "onboard_time": 1746873621,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166398,
       "num": 565535,
       "word": "14篇SCI论文事件2名当事人被处理",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1746800964,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163661,
+      "num": 163661,
+      "word": "蝶变",
+      "onboard_time": 1746873621,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 163287,
@@ -1675,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139329,
+      "num": 196639,
+      "word": "巴基斯坦军事行动代号铜墙铁壁",
+      "onboard_time": 1746868881,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138119,
       "num": 138119,
       "word": "对方撤回了一位帅哥数学老师",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1746866962,
       "rank": 45,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 134567,
-      "num": 134567,
-      "word": "jayjay舞台",
-      "onboard_time": 1746872482,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 134473,
@@ -1779,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132393,
+      "num": 224128,
+      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+      "onboard_time": 1746872842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131001,
       "num": 131001,
       "word": "婚姻登记变化第一天",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1746864861,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130084,
+      "num": 130084,
+      "word": "淮水竹亭",
+      "onboard_time": 1746872901,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130027,
@@ -1864,6 +1936,14 @@
       "word": "特朗普称对华关税不能再高了将下调",
       "onboard_time": 1746845011,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 125073,
+      "num": 188551,
+      "word": "中方回应印巴局势持续升级",
+      "onboard_time": 1746873381,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -1987,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117201,
+      "num": 129528,
+      "word": "邓为首本五大女刊是ELLE",
+      "onboard_time": 1746873081,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116995,
       "num": 151069,
       "word": "学煮苹果水养脾胃",
@@ -2065,14 +2153,6 @@
       "onboard_time": 1746868942,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113273,
-      "num": 196639,
-      "word": "巴基斯坦军事行动代号铜墙铁壁",
-      "onboard_time": 1746868881,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110786,
@@ -2283,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91076,
+      "num": 185553,
+      "word": "沉浸式体验春决现场",
+      "onboard_time": 1746873441,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90466,
       "num": 90466,
       "word": "原来你一直把蛋挞读错了",
@@ -2347,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82800,
+      "num": 182694,
+      "word": "KPL春决开幕式太燃了",
+      "onboard_time": 1746873441,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81785,
       "num": 325609,
       "word": "一嗨租车5年后扣款1098元用户发声",
@@ -2377,6 +2473,14 @@
       "onboard_time": 1746806241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78656,
+      "num": 164526,
+      "word": "解说花海上线",
+      "onboard_time": 1746873501,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 77958,
@@ -2499,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58031,
+      "num": 184631,
+      "word": "赵心童关注王楚钦夺冠",
+      "onboard_time": 1746873441,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57629,
       "num": 57629,
       "word": "普通人实现财富自由的具体步骤",
@@ -2547,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43691,
+      "num": 163946,
+      "word": "打得一拳开订单八方来",
+      "onboard_time": 1746872242,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42982,
       "num": 718970,
       "word": "6组数据感受中国外贸韧性",
@@ -2569,6 +2689,14 @@
       "onboard_time": 1746850770,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39855,
+      "num": 192234,
+      "word": "戈登又拯救了掘金",
+      "onboard_time": 1746872301,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 39577,
@@ -2760,14 +2888,6 @@
       "word": "华人讲述飞离巴基斯坦经历",
       "onboard_time": 1746865222,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27076,
-      "num": 149477,
-      "word": "打得一拳开订单八方来",
-      "onboard_time": 1746872242,
-      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -2971,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12021,
+      "num": 207871,
+      "word": "买金条有哪些当场鉴别真伪的方法",
+      "onboard_time": 1746872482,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11829,
       "num": 244433,
       "word": "为何牛奶成为中国人的日常必需品",
@@ -3003,11 +3131,11 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 6765,
-      "num": 207871,
-      "word": "买金条有哪些当场鉴别真伪的方法",
-      "onboard_time": 1746872482,
-      "rank": 28,
+      "raw_hot": 6935,
+      "num": 171468,
+      "word": "新职业新工种的就业门槛有哪些",
+      "onboard_time": 1746873682,
+      "rank": 35,
       "category": "民生新闻"
     }
   ],

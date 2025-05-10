@@ -1,6 +1,6 @@
 {
   "startTime": 1746289726292,
-  "endTime": 1746872737522,
+  "endTime": 1746873759653,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -771,6 +771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1236040,
+      "num": 1236040,
+      "word": "身份证丢了会被结婚么",
+      "onboard_time": 1746869842,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1231067,
       "num": 1073321,
       "word": "西安冰雹",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1746642794,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1009883,
-      "num": 1161581,
-      "word": "身份证丢了会被结婚么",
-      "onboard_time": 1746869842,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1005609,
@@ -1779,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 800416,
+      "num": 800416,
+      "word": "苹果渠道官方调价",
+      "onboard_time": 1746869301,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 799051,
       "num": 799051,
       "word": "做了将近7个小时的饭",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1746614783,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 755537,
-      "num": 755537,
-      "word": "苹果渠道官方调价",
-      "onboard_time": 1746869301,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 747692,
@@ -7827,6 +7827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236561,
+      "num": 255779,
+      "word": "孟子义来自早上6点59的撕拉片",
+      "onboard_time": 1746872301,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236530,
       "num": 371754,
       "word": "时代少年团上海",
@@ -9971,6 +9979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198790,
+      "num": 198790,
+      "word": "虞书欣直播",
+      "onboard_time": 1746873081,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198787,
       "num": 198787,
       "word": "妻子的浪漫旅行",
@@ -10115,6 +10131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197023,
+      "num": 202356,
+      "word": "NCT合照",
+      "onboard_time": 1746872901,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196900,
       "num": 150535,
       "word": "快1岁的妹猪竟然还没被卡住",
@@ -10129,6 +10153,14 @@
       "onboard_time": 1746695001,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 196766,
+      "num": 196766,
+      "word": "苏新皓网盘",
+      "onboard_time": 1746872722,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 196748,
@@ -10257,14 +10289,6 @@
       "onboard_time": 1746628284,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 195154,
-      "num": 255779,
-      "word": "孟子义来自早上6点59的撕拉片",
-      "onboard_time": 1746872301,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 195083,
@@ -10929,6 +10953,14 @@
       "onboard_time": 1746503361,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189374,
+      "num": 189374,
+      "word": "jayjay舞台",
+      "onboard_time": 1746872482,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 189360,
@@ -12379,6 +12411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171296,
+      "num": 171296,
+      "word": "AG开场好帅",
+      "onboard_time": 1746873262,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171197,
       "num": 171197,
       "word": "贵州游船侧翻约70人落水目击者发声",
@@ -12787,6 +12827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167036,
+      "num": 167036,
+      "word": "小红书回应网友评论曾捂死半岁女婴",
+      "onboard_time": 1746873621,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166963,
       "num": 199831,
       "word": "卤鹅哥将其与甲亢哥名字合并注册商标",
@@ -13193,6 +13241,14 @@
       "onboard_time": 1746366263,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163661,
+      "num": 163661,
+      "word": "蝶变",
+      "onboard_time": 1746873621,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 163619,
@@ -15803,6 +15859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139329,
+      "num": 196639,
+      "word": "巴基斯坦军事行动代号铜墙铁壁",
+      "onboard_time": 1746868881,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139307,
       "num": 139307,
       "word": "陈佳陈艺文包揽跳水世界杯冠亚军",
@@ -16315,14 +16379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134567,
-      "num": 134567,
-      "word": "jayjay舞台",
-      "onboard_time": 1746872482,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134538,
       "num": 237864,
       "word": "Freen首位亮相MetGala泰国女星",
@@ -16569,6 +16625,14 @@
       "onboard_time": 1746837149,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132393,
+      "num": 224128,
+      "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+      "onboard_time": 1746872842,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132218,
@@ -17491,6 +17555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125073,
+      "num": 188551,
+      "word": "中方回应印巴局势持续升级",
+      "onboard_time": 1746873381,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125041,
       "num": 125041,
       "word": "我怀疑这西瓜是来报恩的",
@@ -18243,6 +18315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117201,
+      "num": 129528,
+      "word": "邓为首本五大女刊是ELLE",
+      "onboard_time": 1746873081,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 116997,
       "num": 116997,
       "word": "王不染回应谁火跟谁玩",
@@ -18697,14 +18777,6 @@
       "onboard_time": 1746428481,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113273,
-      "num": 196639,
-      "word": "巴基斯坦军事行动代号铜墙铁壁",
-      "onboard_time": 1746868881,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113168,
@@ -20299,6 +20371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91076,
+      "num": 185553,
+      "word": "沉浸式体验春决现场",
+      "onboard_time": 1746873441,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91068,
       "num": 91068,
       "word": "李冰冰这才是大花水准",
@@ -20723,6 +20803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82800,
+      "num": 182694,
+      "word": "KPL春决开幕式太燃了",
+      "onboard_time": 1746873441,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82615,
       "num": 399624,
       "word": "帮受影响企业应对美加征关税冲击",
@@ -20961,6 +21049,14 @@
       "onboard_time": 1746713303,
       "rank": 2,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78656,
+      "num": 164526,
+      "word": "解说花海上线",
+      "onboard_time": 1746873501,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 78571,
@@ -22051,6 +22147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58031,
+      "num": 184631,
+      "word": "赵心童关注王楚钦夺冠",
+      "onboard_time": 1746873441,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58029,
       "num": 232515,
       "word": "逆行撞摩托车的保时捷挂的是装饰牌",
@@ -22811,6 +22915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43691,
+      "num": 163946,
+      "word": "打得一拳开订单八方来",
+      "onboard_time": 1746872242,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43577,
       "num": 122398,
       "word": "魔卡少女樱还是太权威了",
@@ -23073,6 +23185,14 @@
       "onboard_time": 1746520161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39855,
+      "num": 192234,
+      "word": "戈登又拯救了掘金",
+      "onboard_time": 1746872301,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 39765,
@@ -24201,14 +24321,6 @@
       "onboard_time": 1746512481,
       "rank": 17,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 27076,
-      "num": 149477,
-      "word": "打得一拳开订单八方来",
-      "onboard_time": 1746872242,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26985,
@@ -25667,6 +25779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12021,
+      "num": 207871,
+      "word": "买金条有哪些当场鉴别真伪的方法",
+      "onboard_time": 1746872482,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11904,
       "num": 16807,
       "word": "周深中俄双语献唱归队主题曲",
@@ -25995,20 +26115,20 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 6935,
+      "num": 171468,
+      "word": "新职业新工种的就业门槛有哪些",
+      "onboard_time": 1746873682,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6808,
       "num": 200172,
       "word": "印网友称坠机现场已被印军封锁",
       "onboard_time": 1746596542,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 6765,
-      "num": 207871,
-      "word": "买金条有哪些当场鉴别真伪的方法",
-      "onboard_time": 1746872482,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6698,

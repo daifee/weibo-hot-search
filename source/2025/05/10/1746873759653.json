@@ -1,0 +1,410 @@
+{
+  "runTime": 1746873759653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1236040,
+        "num": 1236040,
+        "word": "身份证丢了会被结婚么",
+        "onboard_time": 1746869842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800416,
+        "num": 800416,
+        "word": "苹果渠道官方调价",
+        "onboard_time": 1746869301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 38690,
+        "num": 295186,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259219,
+        "num": 259219,
+        "word": "重庆大学通报本科生14篇SCI论文",
+        "onboard_time": 1746858081,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234919,
+        "num": 234919,
+        "word": "关注印巴局势",
+        "onboard_time": 1746870142,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43914,
+        "num": 234228,
+        "word": "被这些中国品牌燃到了",
+        "onboard_time": 1746869242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1222474,
+        "num": 232756,
+        "word": "谢娜零容忍",
+        "onboard_time": 1746869121,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661586,
+        "num": 232452,
+        "word": "网友评论区称曾捂死半岁女婴",
+        "onboard_time": 1746870201,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407207,
+        "num": 231110,
+        "word": "巴基斯坦称枭龙摧毁印度S400",
+        "onboard_time": 1746860301,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303668,
+        "num": 230011,
+        "word": "周柯宇对迪丽热巴说把你不吃的给我",
+        "onboard_time": 1746868581,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1225193,
+        "num": 228407,
+        "word": "李凯馨 录音",
+        "onboard_time": 1746855502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396260,
+        "num": 226838,
+        "word": "巴基斯坦士兵昼夜不停密集炮轰印度",
+        "onboard_time": 1746870562,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364214,
+        "num": 226557,
+        "word": "香港全款400万15平的小家",
+        "onboard_time": 1746864621,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323406,
+        "num": 224673,
+        "word": "赴山海还能播出吗",
+        "onboard_time": 1746869602,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132393,
+        "num": 224128,
+        "word": "7楼8楼闹矛盾致9楼躺枪后续来了",
+        "onboard_time": 1746872842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996114,
+        "num": 222358,
+        "word": "赴山海除名李凯馨",
+        "onboard_time": 1746868222,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289131,
+        "num": 221870,
+        "word": "巴方称若印度就此止步巴方也考虑止步",
+        "onboard_time": 1746866601,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236561,
+        "num": 220183,
+        "word": "孟子义来自早上6点59的撕拉片",
+        "onboard_time": 1746872301,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219685,
+        "num": 219685,
+        "word": "中美经贸高层会谈在瑞士日内瓦开始举行",
+        "onboard_time": 1746867142,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197023,
+        "num": 202356,
+        "word": "NCT合照",
+        "onboard_time": 1746872901,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 201681,
+        "word": "王俊凯工作室闲鱼",
+        "onboard_time": 1746836481,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198790,
+        "num": 198790,
+        "word": "虞书欣直播",
+        "onboard_time": 1746873081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198701,
+        "num": 198701,
+        "word": "赵心童说和王楚钦顶峰相见",
+        "onboard_time": 1746871040,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196766,
+        "num": 196766,
+        "word": "苏新皓网盘",
+        "onboard_time": 1746872722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39855,
+        "num": 192234,
+        "word": "戈登又拯救了掘金",
+        "onboard_time": 1746872301,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189374,
+        "num": 189374,
+        "word": "jayjay舞台",
+        "onboard_time": 1746872482,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125073,
+        "num": 188551,
+        "word": "中方回应印巴局势持续升级",
+        "onboard_time": 1746873381,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91076,
+        "num": 185553,
+        "word": "沉浸式体验春决现场",
+        "onboard_time": 1746873441,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58031,
+        "num": 184631,
+        "word": "赵心童关注王楚钦夺冠",
+        "onboard_time": 1746873441,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82800,
+        "num": 182694,
+        "word": "KPL春决开幕式太燃了",
+        "onboard_time": 1746873441,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12021,
+        "num": 181147,
+        "word": "买金条有哪些当场鉴别真伪的方法",
+        "onboard_time": 1746872482,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193973,
+        "num": 178720,
+        "word": "黄俊捷 嘻嘻",
+        "onboard_time": 1746861502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177599,
+        "num": 177599,
+        "word": "女子健身把腿部的肌肉练拉丝了",
+        "onboard_time": 1746870201,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176785,
+        "num": 176785,
+        "word": "女子走路减肥20天瘦12斤",
+        "onboard_time": 1746860661,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172121,
+        "num": 172121,
+        "word": "黄杨钿甜成人礼",
+        "onboard_time": 1746869363,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6935,
+        "num": 171468,
+        "word": "新职业新工种的就业门槛有哪些",
+        "onboard_time": 1746873682,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171296,
+        "num": 171296,
+        "word": "AG开场好帅",
+        "onboard_time": 1746873262,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167036,
+        "num": 167036,
+        "word": "小红书回应网友评论曾捂死半岁女婴",
+        "onboard_time": 1746873621,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78656,
+        "num": 164526,
+        "word": "解说花海上线",
+        "onboard_time": 1746873501,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43691,
+        "num": 163946,
+        "word": "打得一拳开订单八方来",
+        "onboard_time": 1746872242,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117602,
+        "num": 163665,
+        "word": "李嘉诚七折抛售旗下北京楼盘",
+        "onboard_time": 1746871821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163661,
+        "num": 163661,
+        "word": "蝶变",
+        "onboard_time": 1746873621,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139329,
+        "num": 152364,
+        "word": "巴基斯坦军事行动代号铜墙铁壁",
+        "onboard_time": 1746868881,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145877,
+        "num": 145877,
+        "word": "痛经",
+        "onboard_time": 1746862822,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141494,
+        "num": 141494,
+        "word": "赴山海女主",
+        "onboard_time": 1746848852,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136634,
+        "num": 136634,
+        "word": "花融",
+        "onboard_time": 1746870622,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116236,
+        "num": 133457,
+        "word": "头一次觉得阴阳怪气这么顺耳",
+        "onboard_time": 1746872060,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131166,
+        "num": 131166,
+        "word": "高考700分和给你700万你要哪个",
+        "onboard_time": 1746859042,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130084,
+        "num": 130084,
+        "word": "淮水竹亭",
+        "onboard_time": 1746872901,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117201,
+        "num": 129528,
+        "word": "邓为首本五大女刊是ELLE",
+        "onboard_time": 1746873081,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#红场阅兵坐在习主席身旁的他是谁#"
+    }
+  }
+}
