@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746968437230,
+  "endTime": 1746970194947,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -105,6 +105,14 @@
       "onboard_time": 1746921018,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1171885,
+      "num": 257684,
+      "word": "杨子女儿伯克利音乐学院毕业",
+      "onboard_time": 1746968362,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 1171020,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363021,
+      "num": 363021,
+      "word": "巴基斯坦人停车对偶遇的中国人欢呼",
+      "onboard_time": 1746969922,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361042,
       "num": 343870,
       "word": "歌手2025音乐合伙人官宣",
@@ -641,6 +657,14 @@
       "onboard_time": 1746886943,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 324706,
+      "num": 113756,
+      "word": "普通家庭从怀孕到娃10个月大",
+      "onboard_time": 1746969922,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 324375,
@@ -1139,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199372,
+      "num": 199372,
+      "word": "严浩翔做手工祝妈妈节日快乐",
+      "onboard_time": 1746969922,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199370,
       "num": 199370,
       "word": "吞海广播剧",
@@ -1395,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170511,
+      "num": 170511,
+      "word": "罗云熙去看张杰演唱会",
+      "onboard_time": 1746969982,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "飞猪小编押中冠军",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1746948141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157736,
+      "num": 157736,
+      "word": "男子百万买二手房竟收4万天价水费",
+      "onboard_time": 1746965421,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157302,
@@ -1593,14 +1641,6 @@
       "onboard_time": 1746961702,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150617,
-      "num": 150617,
-      "word": "男子百万买二手房竟收4万天价水费",
-      "onboard_time": 1746965421,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149914,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1746953722,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138847,
+      "num": 138847,
+      "word": "TT战胜WBG",
+      "onboard_time": 1746968601,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 137236,
@@ -2075,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124853,
+      "num": 124853,
+      "word": "荔枝价格从7字头跌到4字头",
+      "onboard_time": 1746969862,
+      "rank": 24,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 123977,
       "num": 123977,
       "word": "印度分军种和巴基斯坦PK",
@@ -2315,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110477,
+      "num": 113789,
+      "word": "在试卷上看到王安宇了",
+      "onboard_time": 1746967762,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110454,
       "num": 110454,
       "word": "许嵩的梗已经进化到英文了",
@@ -2411,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104490,
+      "num": 146735,
+      "word": "汶川地震十七年了",
+      "onboard_time": 1746968242,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103524,
       "num": 103524,
       "word": "虞书欣直播",
@@ -2424,6 +2496,14 @@
       "word": "葬礼墙体倒塌致3死亲历者发声",
       "onboard_time": 1746924681,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102422,
+      "num": 102422,
+      "word": "榴莲价格普降两到三成",
+      "onboard_time": 1746969922,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2489,14 +2569,6 @@
       "onboard_time": 1746891203,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94925,
-      "num": 94925,
-      "word": "杨子女儿伯克利音乐学院毕业",
-      "onboard_time": 1746968362,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 94836,
@@ -2651,6 +2723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79493,
+      "num": 79493,
+      "word": "刑警的日子",
+      "onboard_time": 1746970043,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78991,
       "num": 285822,
       "word": "一生对妈妈说的话浓缩在这30秒里",
@@ -2673,6 +2753,22 @@
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72547,
+      "num": 72547,
+      "word": "王心凌今天一定要留给妈妈",
+      "onboard_time": 1746968242,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72408,
+      "num": 72408,
+      "word": "看得出来妹妹已经被礼物收买了",
+      "onboard_time": 1746970162,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 70783,
@@ -2956,7 +3052,7 @@
     },
     {
       "raw_hot": 36627,
-      "num": 230163,
+      "num": 449140,
       "word": "神二十航天员vlog上新",
       "onboard_time": 1746954863,
       "rank": 24,
@@ -2985,14 +3081,6 @@
       "onboard_time": 1746927561,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 33199,
-      "num": 146735,
-      "word": "汶川地震十七年了",
-      "onboard_time": 1746968242,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33042,

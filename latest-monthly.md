@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/11 21:00:37
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/11 21:29:54
 </p>
 </blockquote>
 <p>
@@ -1013,6 +1013,12 @@ DeepSeek认为最难学的语言（热度：1242984）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E5%8C%97%20734%23" target="weibo">
 花少北 734（热度：1182654）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%AD%90%E5%A5%B3%E5%84%BF%E4%BC%AF%E5%85%8B%E5%88%A9%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2%E6%AF%95%E4%B8%9A%23" target="weibo">
+杨子女儿伯克利音乐学院毕业（热度：1171885）
 </a>
 </li>
 
@@ -5859,6 +5865,12 @@ ddg 黄子弘凡（热度：368438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E5%81%9C%E8%BD%A6%E5%AF%B9%E5%81%B6%E9%81%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%AC%A2%E5%91%BC%23" target="weibo">
+巴基斯坦人停车对偶遇的中国人欢呼（热度：363021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%83%A8AI%E7%9F%AD%E5%89%A7%23" target="weibo">
 首部AI短剧（热度：362693）
 </a>
@@ -5999,18 +6011,6 @@ ddg 黄子弘凡（热度：368438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone17Air%E6%88%B4%E6%89%8B%E6%9C%BA%E5%A3%B3%E6%95%88%E6%9E%9C%23" target="weibo">
 iPhone17Air戴手机壳效果（热度：351014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%84%B1%E5%8F%91%E7%9C%BC%E7%A5%9E%E5%91%86%E6%BB%9E%E8%A2%AB%E6%9F%A5%E5%87%BA%E9%93%8A%E4%B8%AD%E6%AF%92%23" target="weibo">
-3岁女童脱发眼神呆滞被查出铊中毒（热度：350709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%A3%8E%E9%9B%A8%E4%B8%8B%E4%B8%8A%E6%BC%94%E7%8E%B0%E5%AE%9E%E7%89%88%E6%B5%B7%E4%B8%8A%E9%92%A2%E7%90%B4%E5%B8%88%23" target="weibo">
-武汉暴风雨下上演现实版海上钢琴师（热度：350409）
 </a>
 </li>
 
