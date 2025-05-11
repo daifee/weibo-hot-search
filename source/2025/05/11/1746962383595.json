@@ -1,0 +1,410 @@
+{
+  "runTime": 1746962383595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605397,
+        "num": 1605397,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1299513,
+        "num": 1299513,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54648,
+        "num": 1010604,
+        "word": "这只瓶子上藏着对妈妈的爱",
+        "onboard_time": 1746955221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1421979,
+        "num": 926868,
+        "word": "张馨予家被水淹了",
+        "onboard_time": 1746960741,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774086,
+        "num": 774086,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 503383,
+        "num": 503383,
+        "word": "张凌赫下水前问女生方不方便",
+        "onboard_time": 1746959902,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499377,
+        "num": 499377,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 422669,
+        "num": 422669,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371630,
+        "num": 371630,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71137,
+        "num": 361276,
+        "word": "嫦娥五号月球样品运抵英国",
+        "onboard_time": 1746961880,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405435,
+        "num": 359467,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357283,
+        "num": 357283,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339883,
+        "num": 339883,
+        "word": "收到中国月壤后英方存入保险箱",
+        "onboard_time": 1746955520,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17045,
+        "num": 333416,
+        "word": "原来这才是我住过最珍贵的房子",
+        "onboard_time": 1746961761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226639,
+        "num": 331198,
+        "word": "聋哑司机偷拍乘客被行拘",
+        "onboard_time": 1746960862,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 330129,
+        "num": 330129,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323766,
+        "num": 323766,
+        "word": "75万采购路由器中标方参保人数0",
+        "onboard_time": 1746960681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321512,
+        "num": 321512,
+        "word": "殿前欢",
+        "onboard_time": 1746957741,
+        "rank": 17,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 256731,
+        "num": 256731,
+        "word": "韦雪自曝要去do脸了",
+        "onboard_time": 1746954442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40776,
+        "num": 253670,
+        "word": "按摩哪些面部穴位可以让五官变年轻",
+        "onboard_time": 1746961282,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 882784,
+        "num": 253368,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253064,
+        "num": 253064,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195712,
+        "num": 218909,
+        "word": "宋亚轩祝妈咪母亲节快乐",
+        "onboard_time": 1746958820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217279,
+        "num": 217279,
+        "word": "马龙像送孩子出征的家长",
+        "onboard_time": 1746960561,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210629,
+        "num": 210629,
+        "word": "佑灰",
+        "onboard_time": 1746961821,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202117,
+        "num": 202117,
+        "word": "仙逆",
+        "onboard_time": 1746961761,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196328,
+        "num": 196328,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 191520,
+        "word": "王权醉被杨一叹一剑刺死",
+        "onboard_time": 1746951682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 189015,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18398,
+        "num": 187219,
+        "word": "油罐车前往加油站途中车祸起火",
+        "onboard_time": 1746962000,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187033,
+        "num": 187033,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139326,
+        "num": 180549,
+        "word": "淮水竹亭超点",
+        "onboard_time": 1746960862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179279,
+        "num": 179279,
+        "word": "专家称判断肥胖关键要看腰围",
+        "onboard_time": 1746962242,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169173,
+        "num": 169173,
+        "word": "花75万采购299元产品高校已终止采购",
+        "onboard_time": 1746949462,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140944,
+        "num": 162465,
+        "word": "蔡文静桃花坞录制路透",
+        "onboard_time": 1746961821,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157362,
+        "num": 157362,
+        "word": "37年没上过班打发时间教程",
+        "onboard_time": 1746958042,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156864,
+        "num": 156864,
+        "word": "实探上海1800元一杯咖啡",
+        "onboard_time": 1746962180,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154296,
+        "num": 154296,
+        "word": "今年高价水果为啥纷纷降价",
+        "onboard_time": 1746960561,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 152767,
+        "num": 152767,
+        "word": "现在的街头舞蹈都潮成这样了",
+        "onboard_time": 1746961702,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33673,
+        "num": 147758,
+        "word": "基建狂魔又上分",
+        "onboard_time": 1746952041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143924,
+        "num": 143924,
+        "word": "孕妇被狗咬主人称狗咬的让狗道歉",
+        "onboard_time": 1746959000,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137523,
+        "num": 137523,
+        "word": "国乒出发多哈世乒赛",
+        "onboard_time": 1746957440,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133244,
+        "num": 133244,
+        "word": "肖俊请exo检查作业",
+        "onboard_time": 1746954501,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19660,
+        "num": 130925,
+        "word": "网友拍摄的新鲜出炉的火箭转移",
+        "onboard_time": 1746959842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129266,
+        "num": 129266,
+        "word": "德容变形记",
+        "onboard_time": 1746961941,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129028,
+        "num": 129028,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122154,
+        "num": 122154,
+        "word": "王一博汤唯合作",
+        "onboard_time": 1746952102,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116437,
+        "num": 116437,
+        "word": "真榴莲自由马上来了",
+        "onboard_time": 1746944721,
+        "rank": 48,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 114094,
+        "num": 114094,
+        "word": "郭保坤你变了",
+        "onboard_time": 1746960321,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#两个维度看习近平俄罗斯之行#"
+    }
+  }
+}

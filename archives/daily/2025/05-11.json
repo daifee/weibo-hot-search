@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746960070101,
+  "endTime": 1746962383595,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -57,6 +57,14 @@
       "onboard_time": 1746887723,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1421979,
+      "num": 926868,
+      "word": "张馨予家被水淹了",
+      "onboard_time": 1746960741,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1369099,
@@ -171,6 +179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 774086,
+      "num": 774086,
+      "word": "苹果16Pro首次参加国补",
+      "onboard_time": 1746958642,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 754406,
       "num": 371205,
       "word": "陈赫回应把张子萱打码",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 648502,
-      "num": 319896,
+      "num": 330129,
       "word": "巴基斯坦向印度发射导弹现场",
       "onboard_time": 1746946641,
       "rank": 12,
@@ -329,6 +345,14 @@
       "onboard_time": 1746939801,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503383,
+      "num": 503383,
+      "word": "张凌赫下水前问女生方不方便",
+      "onboard_time": 1746959902,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 496420,
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371567,
-      "num": 371567,
-      "word": "苹果16Pro首次参加国补",
-      "onboard_time": 1746958642,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 371029,
       "num": 284511,
       "word": "花75万采购299元产品高校已终止采购",
@@ -579,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339883,
+      "num": 362526,
+      "word": "收到中国月壤后英方存入保险箱",
+      "onboard_time": 1746955520,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337831,
       "num": 337831,
       "word": "李嘉诚现身五月天演唱会",
@@ -603,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323766,
+      "num": 323766,
+      "word": "75万采购路由器中标方参保人数0",
+      "onboard_time": 1746960681,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321704,
       "num": 382426,
       "word": "肖战藏海传期待无需多言",
       "onboard_time": 1746933861,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321512,
+      "num": 321512,
+      "word": "殿前欢",
+      "onboard_time": 1746957741,
+      "rank": 21,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 314556,
@@ -747,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250979,
-      "num": 362526,
-      "word": "收到中国月壤后英方存入保险箱",
-      "onboard_time": 1746955520,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 250291,
       "num": 250291,
       "word": "赴山海除名李凯馨",
@@ -795,14 +827,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 239538,
-      "num": 239538,
-      "word": "殿前欢",
-      "onboard_time": 1746957741,
-      "rank": 21,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 237980,
       "num": 237980,
       "word": "滴滴回应聋哑司机偷拍大量女乘客发上网",
@@ -817,6 +841,14 @@
       "onboard_time": 1746891143,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226639,
+      "num": 331198,
+      "word": "聋哑司机偷拍乘客被行拘",
+      "onboard_time": 1746960862,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 224879,
@@ -891,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217279,
+      "num": 217279,
+      "word": "马龙像送孩子出征的家长",
+      "onboard_time": 1746960561,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216521,
       "num": 216521,
       "word": "花粉选的二番生",
@@ -913,6 +953,14 @@
       "onboard_time": 1746929062,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210629,
+      "num": 210629,
+      "word": "佑灰",
+      "onboard_time": 1746961821,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 208852,
@@ -985,6 +1033,14 @@
       "onboard_time": 1746919218,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202117,
+      "num": 202117,
+      "word": "仙逆",
+      "onboard_time": 1746961761,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 201931,
@@ -1163,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179279,
+      "num": 179279,
+      "word": "专家称判断肥胖关键要看腰围",
+      "onboard_time": 1746962242,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
@@ -1267,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167835,
-      "num": 167835,
-      "word": "张凌赫下水前问女生方不方便",
-      "onboard_time": 1746959902,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167712,
       "num": 167712,
       "word": "花海 反方向的钟",
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 159911,
-      "num": 150852,
+      "num": 157362,
       "word": "37年没上过班打发时间教程",
       "onboard_time": 1746958042,
       "rank": 36,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1746935120,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156864,
+      "num": 156864,
+      "word": "实探上海1800元一杯咖啡",
+      "onboard_time": 1746962180,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 156560,
@@ -1387,6 +1451,14 @@
       "category": "剧集,民生新闻"
     },
     {
+      "raw_hot": 154296,
+      "num": 154296,
+      "word": "今年高价水果为啥纷纷降价",
+      "onboard_time": 1746960561,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 154279,
       "num": 342862,
       "word": "妈妈级马拉松运动员如何重回巅峰",
@@ -1425,6 +1497,14 @@
       "onboard_time": 1746951981,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152767,
+      "num": 152767,
+      "word": "现在的街头舞蹈都潮成这样了",
+      "onboard_time": 1746961702,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 149914,
@@ -1507,6 +1587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143924,
+      "num": 152336,
+      "word": "孕妇被狗咬主人称狗咬的让狗道歉",
+      "onboard_time": 1746959000,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143906,
       "num": 223002,
       "word": "翟潇闻黑狐我不允许你登录",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1746940221,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140944,
+      "num": 162465,
+      "word": "蔡文静桃花坞录制路透",
+      "onboard_time": 1746961821,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 140705,
@@ -1577,6 +1673,14 @@
       "onboard_time": 1746937102,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139326,
+      "num": 180549,
+      "word": "淮水竹亭超点",
+      "onboard_time": 1746960862,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 139200,
@@ -1752,6 +1856,14 @@
       "word": "种地吧今天来采购",
       "onboard_time": 1746929721,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129266,
+      "num": 129266,
+      "word": "德容变形记",
+      "onboard_time": 1746961941,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1993,6 +2105,14 @@
       "onboard_time": 1746935181,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114094,
+      "num": 114094,
+      "word": "郭保坤你变了",
+      "onboard_time": 1746960321,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113846,
@@ -2267,14 +2387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83056,
-      "num": 152336,
-      "word": "孕妇被狗咬主人称狗咬的让狗道歉",
-      "onboard_time": 1746959000,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82395,
       "num": 348599,
       "word": "她首先是她自己才是妈妈",
@@ -2313,6 +2425,14 @@
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71137,
+      "num": 361276,
+      "word": "嫦娥五号月球样品运抵英国",
+      "onboard_time": 1746961880,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70783,
@@ -2563,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40776,
+      "num": 253670,
+      "word": "按摩哪些面部穴位可以让五官变年轻",
+      "onboard_time": 1746961282,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39780,
       "num": 39780,
       "word": "偶遇王文也与未婚夫约会",
@@ -2787,12 +2915,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19660,
+      "num": 150227,
+      "word": "网友拍摄的新鲜出炉的火箭转移",
+      "onboard_time": 1746959842,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19058,
       "num": 179598,
       "word": "如何辨别山寨射频治疗仪器",
       "onboard_time": 1746952882,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18398,
+      "num": 187219,
+      "word": "油罐车前往加油站途中车祸起火",
+      "onboard_time": 1746962000,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17843,
@@ -2833,6 +2977,14 @@
       "onboard_time": 1746909734,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17045,
+      "num": 333416,
+      "word": "原来这才是我住过最珍贵的房子",
+      "onboard_time": 1746961761,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16728,
@@ -2913,14 +3065,6 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 9341,
-      "num": 150227,
-      "word": "网友拍摄的新鲜出炉的火箭转移",
-      "onboard_time": 1746959842,
-      "rank": 31,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
