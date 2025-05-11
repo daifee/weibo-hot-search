@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746941040216,
+  "endTime": 1746942117269,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -17,6 +17,14 @@
       "onboard_time": 1746935300,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1532387,
+      "num": 345340,
+      "word": "陈赫生气了",
+      "onboard_time": 1746940642,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1439244,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 815363,
+      "num": 815363,
+      "word": "淮水竹亭结局",
+      "onboard_time": 1746939261,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 754406,
       "num": 371205,
       "word": "陈赫回应把张子萱打码",
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 632606,
-      "num": 632606,
-      "word": "淮水竹亭结局",
-      "onboard_time": 1746939261,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "老赖欠390万转让房产给女儿逃避执行",
@@ -139,8 +147,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 606063,
-      "num": 317177,
+      "raw_hot": 623277,
+      "num": 337907,
       "word": "陈乔恩吐槽香港机场地勤",
       "onboard_time": 1746939501,
       "rank": 11,
@@ -163,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 532520,
-      "num": 310778,
-      "word": "陈赫生气了",
-      "onboard_time": 1746940642,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 537412,
+      "num": 335504,
+      "word": "在蓝盈莹脸上看到漂亮基因的强大",
+      "onboard_time": 1746939981,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 529287,
@@ -177,6 +185,14 @@
       "onboard_time": 1746875663,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504263,
+      "num": 504263,
+      "word": "青木媛杀死张正",
+      "onboard_time": 1746939801,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 496140,
@@ -209,6 +225,14 @@
       "onboard_time": 1746930681,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 473071,
+      "num": 473071,
+      "word": "母亲节红包",
+      "onboard_time": 1746939741,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 452079,
@@ -251,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398600,
-      "num": 398600,
-      "word": "青木媛杀死张正",
-      "onboard_time": 1746939801,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 396328,
+      "num": 326272,
+      "word": "年轻人养的东西越来越离谱了",
+      "onboard_time": 1746940761,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 392890,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361042,
+      "num": 321272,
+      "word": "歌手2025音乐合伙人官宣",
+      "onboard_time": 1746940761,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346255,
       "num": 346255,
       "word": "母亲节鲜花卖爆了",
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 340624,
-      "num": 297350,
+      "num": 306216,
       "word": "顺产开十指的痛具象化了",
       "onboard_time": 1746938961,
       "rank": 14,
@@ -371,18 +403,18 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300574,
+      "num": 324248,
+      "word": "美国关税战把美国农业打得好疼",
+      "onboard_time": 1746939741,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298854,
       "num": 298854,
       "word": "鞠婧祎额头受伤",
       "onboard_time": 1746876442,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296680,
-      "num": 296680,
-      "word": "在蓝盈莹脸上看到漂亮基因的强大",
-      "onboard_time": 1746939981,
       "rank": 15,
       "category": "艺人"
     },
@@ -401,6 +433,14 @@
       "onboard_time": 1746888923,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286569,
+      "num": 286569,
+      "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
+      "onboard_time": 1746939082,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274625,
@@ -531,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213891,
-      "num": 213891,
-      "word": "歌手2025音乐合伙人官宣",
-      "onboard_time": 1746940761,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213330,
       "num": 213330,
       "word": "森林狼vs勇士",
@@ -569,14 +601,6 @@
       "onboard_time": 1746938001,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206235,
-      "num": 206235,
-      "word": "年轻人养的东西越来越离谱了",
-      "onboard_time": 1746940761,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 206072,
@@ -627,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193287,
+      "num": 193287,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1746941182,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192976,
       "num": 287576,
       "word": "普京提议无条件重启俄乌谈判",
@@ -651,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186517,
-      "num": 186517,
-      "word": "母亲节红包",
-      "onboard_time": 1746939741,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 188070,
+      "num": 188070,
+      "word": "代高政一句话惹怒吴镇宇",
+      "onboard_time": 1746941542,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 184556,
@@ -699,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180250,
-      "num": 180250,
-      "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
-      "onboard_time": 1746939082,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
@@ -747,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168645,
+      "num": 168645,
+      "word": "鹿晗新歌预热",
+      "onboard_time": 1746941841,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168557,
       "num": 168557,
       "word": "30件让妈妈嘴角上扬的暖心事",
@@ -761,6 +793,14 @@
       "onboard_time": 1746931641,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161922,
+      "num": 332641,
+      "word": "女子闯红灯撞车受伤被交警定全责",
+      "onboard_time": 1746941063,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161786,
@@ -884,11 +924,19 @@
     },
     {
       "raw_hot": 145279,
-      "num": 145279,
+      "num": 188489,
       "word": "佟丽娅回应看张杰演唱会",
       "onboard_time": 1746937759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143582,
+      "num": 143582,
+      "word": "上门做饭月薪近2万女子再谈现状",
+      "onboard_time": 1746941421,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141899,
@@ -929,14 +977,6 @@
       "onboard_time": 1746891982,
       "rank": 29,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 137269,
-      "num": 324248,
-      "word": "美国关税战把美国农业打得好疼",
-      "onboard_time": 1746939741,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137115,
@@ -1227,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106682,
+      "num": 349672,
+      "word": "美方为何坐不住了",
+      "onboard_time": 1746941482,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105430,
       "num": 105430,
       "word": "王楚钦打台球有点天赋在身上",
@@ -1467,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54604,
+      "num": 307629,
+      "word": "9旬母亲走1小时路看望7旬女儿",
+      "onboard_time": 1746941063,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52037,
       "num": 65208,
       "word": "人民网评称乘风带动雄安游客热潮",
@@ -1475,7 +1531,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49671,
+      "raw_hot": 50979,
       "num": 894111,
       "word": "华龙一号凭啥这么火",
       "onboard_time": 1746937401,
@@ -1651,6 +1707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 23486,
+      "num": 189701,
+      "word": "印媒舆论战未忽悠到西方媒体",
+      "onboard_time": 1746941063,
+      "rank": 29,
+      "category": "海外新闻,议题讨论"
+    },
+    {
       "raw_hot": 22584,
       "num": 28972,
       "word": "强烈呼吁印巴双方以和平稳定大局为重",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1746907334,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 20662,
+      "num": 141601,
+      "word": "抗议移民政策美一市长被捕",
+      "onboard_time": 1746942022,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20300,

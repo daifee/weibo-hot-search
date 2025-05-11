@@ -1,0 +1,410 @@
+{
+  "runTime": 1746942117269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076755,
+        "num": 1172280,
+        "word": "多地结婚登记预约火爆",
+        "onboard_time": 1746935300,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815363,
+        "num": 815363,
+        "word": "淮水竹亭结局",
+        "onboard_time": 1746939261,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50979,
+        "num": 575037,
+        "word": "华龙一号凭啥这么火",
+        "onboard_time": 1746937401,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504263,
+        "num": 504263,
+        "word": "青木媛杀死张正",
+        "onboard_time": 1746939801,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473071,
+        "num": 473071,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437493,
+        "num": 437493,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499737,
+        "num": 421731,
+        "word": "李嘉格结婚五年没有和老公一起过年",
+        "onboard_time": 1746936261,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392151,
+        "num": 392151,
+        "word": "老赖欠390万转让房产给女儿逃避执行",
+        "onboard_time": 1746936200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351042,
+        "num": 351042,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106682,
+        "num": 349672,
+        "word": "美方为何坐不住了",
+        "onboard_time": 1746941482,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1532387,
+        "num": 345340,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719839,
+        "num": 344197,
+        "word": "芒果的后期已经牛到这个地步了吗",
+        "onboard_time": 1746921018,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623277,
+        "num": 337907,
+        "word": "陈乔恩吐槽香港机场地勤",
+        "onboard_time": 1746939501,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537412,
+        "num": 335504,
+        "word": "在蓝盈莹脸上看到漂亮基因的强大",
+        "onboard_time": 1746939981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161922,
+        "num": 332641,
+        "word": "女子闯红灯撞车受伤被交警定全责",
+        "onboard_time": 1746941063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398742,
+        "num": 329176,
+        "word": "陈赫回应把张子萱打码",
+        "onboard_time": 1746920659,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396328,
+        "num": 326272,
+        "word": "年轻人养的东西越来越离谱了",
+        "onboard_time": 1746940761,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361042,
+        "num": 321272,
+        "word": "歌手2025音乐合伙人官宣",
+        "onboard_time": 1746940761,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321012,
+        "num": 321012,
+        "word": "李嘉诚现身五月天演唱会",
+        "onboard_time": 1746936861,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54604,
+        "num": 307629,
+        "word": "9旬母亲走1小时路看望7旬女儿",
+        "onboard_time": 1746941063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336744,
+        "num": 306216,
+        "word": "顺产开十指的痛具象化了",
+        "onboard_time": 1746938961,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 348182,
+        "num": 304474,
+        "word": "60岁失独母亲冒死生下双胞胎女儿",
+        "onboard_time": 1746931041,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300574,
+        "num": 300574,
+        "word": "美国关税战把美国农业打得好疼",
+        "onboard_time": 1746939741,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286569,
+        "num": 286569,
+        "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
+        "onboard_time": 1746939082,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234383,
+        "num": 234383,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204817,
+        "num": 204817,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202202,
+        "num": 202202,
+        "word": "没见过我妈的都说我好看",
+        "onboard_time": 1746940761,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198313,
+        "num": 198313,
+        "word": "原来广东烧鹅左腿最好吃",
+        "onboard_time": 1746938541,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193287,
+        "num": 193287,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1746941182,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23486,
+        "num": 189701,
+        "word": "印媒舆论战未忽悠到西方媒体",
+        "onboard_time": 1746941063,
+        "rank": 29,
+        "category": "海外新闻,议题讨论"
+      },
+      {
+        "raw_hot": 71266,
+        "num": 188489,
+        "word": "佟丽娅回应看张杰演唱会",
+        "onboard_time": 1746937759,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188070,
+        "num": 188070,
+        "word": "代高政一句话惹怒吴镇宇",
+        "onboard_time": 1746941542,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168645,
+        "num": 168645,
+        "word": "鹿晗新歌预热",
+        "onboard_time": 1746941841,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "原来这就是冷泡茶",
+        "onboard_time": 1746933202,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147439,
+        "num": 147439,
+        "word": "工行疑似掺假金条检测结果为真金",
+        "onboard_time": 1746924021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159410,
+        "num": 147170,
+        "word": "张杰回复黄霄雲",
+        "onboard_time": 1746934761,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145991,
+        "word": "乘风2025",
+        "onboard_time": 1746939441,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143582,
+        "num": 143582,
+        "word": "上门做饭月薪近2万女子再谈现状",
+        "onboard_time": 1746941421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142243,
+        "num": 142243,
+        "word": "印巴为何停火",
+        "onboard_time": 1746930681,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20662,
+        "num": 141601,
+        "word": "抗议移民政策美一市长被捕",
+        "onboard_time": 1746942022,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141186,
+        "num": 141186,
+        "word": "母亲节文案大赏",
+        "onboard_time": 1746893241,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130478,
+        "num": 130478,
+        "word": "花100万买到了300平的房子",
+        "onboard_time": 1746940882,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129688,
+        "num": 129688,
+        "word": "叶童说我是特别的怎么都好看",
+        "onboard_time": 1746934580,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124308,
+        "num": 124308,
+        "word": "妈妈也是第一次当妈妈",
+        "onboard_time": 1746936381,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118637,
+        "num": 118637,
+        "word": "狗狗去宠物店洗澡被误以为很脏",
+        "onboard_time": 1746933501,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117049,
+        "num": 117049,
+        "word": "李荣浩现场有人杀猪吗",
+        "onboard_time": 1746940221,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104262,
+        "num": 114815,
+        "word": "波尔赞王楚钦是顶级球员",
+        "onboard_time": 1746939621,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85972,
+        "num": 114705,
+        "word": "逆水寒",
+        "onboard_time": 1746939682,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85005,
+        "num": 114660,
+        "word": "自己在家熬夜差点猝死如何自救",
+        "onboard_time": 1746938721,
+        "rank": 48,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 114640,
+        "num": 114640,
+        "word": "发现拼多多买花的人一定是天才",
+        "onboard_time": 1746936381,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯之行这些场景令人难忘#"
+    }
+  }
+}
