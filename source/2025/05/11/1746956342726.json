@@ -1,0 +1,410 @@
+{
+  "runTime": 1746956342726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446661,
+        "num": 1446661,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1183880,
+        "num": 1183880,
+        "word": "苹果商店下架国家反诈中心",
+        "onboard_time": 1746955520,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27418,
+        "num": 784633,
+        "word": "这只瓶子上藏着对妈妈的爱",
+        "onboard_time": 1746955221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699405,
+        "num": 699405,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 560432,
+        "num": 560432,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428415,
+        "num": 428415,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407531,
+        "num": 407531,
+        "word": "苹果再次降价降幅超1000元",
+        "onboard_time": 1746943400,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 327445,
+        "num": 327445,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314556,
+        "num": 314556,
+        "word": "肖俊请exo检查作业",
+        "onboard_time": 1746954501,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20359,
+        "num": 314502,
+        "word": "妈妈是自带光芒的多面体",
+        "onboard_time": 1746954863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536980,
+        "num": 312300,
+        "word": "印度大坝已完全打开",
+        "onboard_time": 1746950121,
+        "rank": 10,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 366546,
+        "num": 309674,
+        "word": "奚梦瑶何猷君出席好友婚礼",
+        "onboard_time": 1746950422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351908,
+        "num": 307815,
+        "word": "韦雪自曝要去do脸了",
+        "onboard_time": 1746954442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318135,
+        "num": 305078,
+        "word": "小S二女儿晒照说你永远在我身边",
+        "onboard_time": 1746953064,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304533,
+        "num": 304533,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299773,
+        "num": 299773,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290282,
+        "num": 290282,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281696,
+        "num": 281696,
+        "word": "王一博汤唯合作",
+        "onboard_time": 1746952102,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251636,
+        "num": 251636,
+        "word": "王楚钦说带着妈妈的祝愿奔向太阳",
+        "onboard_time": 1746950780,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27307,
+        "num": 250043,
+        "word": "淮水竹亭结局有哪些意难平",
+        "onboard_time": 1746955281,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249655,
+        "num": 249655,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248771,
+        "num": 248771,
+        "word": "易梦玲水手服",
+        "onboard_time": 1746952762,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 230411,
+        "num": 230411,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217014,
+        "num": 217014,
+        "word": "花75万采购299元产品高校已终止采购",
+        "onboard_time": 1746949462,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211879,
+        "num": 211879,
+        "word": "西方国家很多人睡不着觉了",
+        "onboard_time": 1746954140,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208510,
+        "num": 208510,
+        "word": "K总备孕",
+        "onboard_time": 1746953901,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 196030,
+        "num": 196030,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193745,
+        "num": 193745,
+        "word": "收到中国月壤后英方存入保险箱",
+        "onboard_time": 1746955520,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188675,
+        "num": 188675,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31826,
+        "num": 188300,
+        "word": "3D全景还原印巴冲突19天",
+        "onboard_time": 1746955940,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188190,
+        "num": 188190,
+        "word": "男子得物买52瓶古驰香水包装是假的",
+        "onboard_time": 1746947601,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173006,
+        "num": 173006,
+        "word": "泽连斯基回应普京重启俄乌谈判提议",
+        "onboard_time": 1746954202,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168759,
+        "num": 168759,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166114,
+        "num": 166114,
+        "word": "吃什么东西瘦的最快",
+        "onboard_time": 1746953901,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161723,
+        "num": 161723,
+        "word": "利路修 综艺",
+        "onboard_time": 1746952942,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156590,
+        "num": 156590,
+        "word": "王楚然拍的撕拉片",
+        "onboard_time": 1746949101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "王权醉被杨一叹一剑刺死",
+        "onboard_time": 1746951682,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145092,
+        "num": 145092,
+        "word": "叶童回应房琪事件",
+        "onboard_time": 1746943822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144126,
+        "num": 144126,
+        "word": "人鱼",
+        "onboard_time": 1746947362,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139398,
+        "num": 139398,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139060,
+        "num": 139060,
+        "word": "苹果客服回应国家反诈中心下架",
+        "onboard_time": 1746955881,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137928,
+        "num": 137928,
+        "word": "吞海广播剧",
+        "onboard_time": 1746954863,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 136866,
+        "num": 136866,
+        "word": "手工辣条的受欢迎程度有多高",
+        "onboard_time": 1746955580,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125224,
+        "num": 125224,
+        "word": "高校回应网传花75万采购售价299产品",
+        "onboard_time": 1746950662,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120582,
+        "num": 120582,
+        "word": "真榴莲自由马上来了",
+        "onboard_time": 1746944721,
+        "rank": 44,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 115719,
+        "num": 115719,
+        "word": "张檬看剖腹产影像泪流满面",
+        "onboard_time": 1746954981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114889,
+        "num": 114889,
+        "word": "蛋酒 唐家三少",
+        "onboard_time": 1746952342,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113308,
+        "num": 113308,
+        "word": "王楚钦母亲节发文",
+        "onboard_time": 1746951081,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113224,
+        "num": 113224,
+        "word": "巴萨vs皇马",
+        "onboard_time": 1746956120,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108775,
+        "num": 108775,
+        "word": "今天的我如何替一个月后的我做决定",
+        "onboard_time": 1746956180,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#两个维度看习近平俄罗斯之行#"
+    }
+  }
+}
