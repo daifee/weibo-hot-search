@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746999377111,
+  "endTime": 1747002193970,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334034,
+      "num": 403515,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328889,
       "num": 283739,
       "word": "杨子女儿伯克利音乐学院毕业",
@@ -121,14 +129,6 @@
       "onboard_time": 1746975983,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281445,
-      "num": 281445,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 277130,
@@ -315,8 +315,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76627,
-      "num": 76627,
+      "raw_hot": 77492,
+      "num": 77492,
       "word": "三问工行金条掺假事件",
       "onboard_time": 1746970342,
       "rank": 40,
@@ -345,6 +345,14 @@
       "onboard_time": 1746963502,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73269,
+      "num": 73269,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 72948,
@@ -377,14 +385,6 @@
       "onboard_time": 1746980900,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69669,
-      "num": 69669,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 69470,
@@ -499,6 +499,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37145,
+      "num": 37145,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35485,
+      "num": 31521,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34147,
+      "num": 31054,
+      "word": "妈宝女",
+      "onboard_time": 1746996434,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29834,
+      "num": 29834,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26121,
       "num": 35071,
       "word": "咒术回战五条悟",
@@ -515,20 +547,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24351,
-      "num": 26517,
-      "word": "美国经济陷入衰退已成基本预期",
-      "onboard_time": 1746987315,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 24297,
+      "num": 64681,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
     },
     {
-      "raw_hot": 21507,
-      "num": 21507,
-      "word": "妈宝女",
-      "onboard_time": 1746996434,
-      "rank": 32,
+      "raw_hot": 23834,
+      "num": 160447,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21880,
+      "num": 22830,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 21271,
@@ -563,44 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17524,
-      "num": 19749,
-      "word": "学校偶遇森碟",
-      "onboard_time": 1746992774,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15961,
       "num": 18143,
       "word": "射频抗衰后没效果皮肤反被烫伤",
       "onboard_time": 1746989774,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15420,
-      "num": 19737,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15142,
-      "num": 19734,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13646,
-      "num": 84896,
-      "word": "AI用60秒掠过她的半辈子",
-      "onboard_time": 1746974423,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12977,

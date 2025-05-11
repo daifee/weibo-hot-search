@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746999377111,
+  "endTime": 1747002193970,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -8627,6 +8627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 334034,
+      "num": 403515,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333938,
       "num": 333938,
       "word": "苏杯中国vs韩国",
@@ -10297,14 +10305,6 @@
       "onboard_time": 1746193591,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281445,
-      "num": 281445,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 280657,
@@ -34403,6 +34403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73269,
+      "num": 73269,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 73265,
       "num": 1001699,
       "word": "中国排面齐唱放心吧祖国",
@@ -34729,14 +34737,6 @@
       "onboard_time": 1746200480,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69669,
-      "num": 69669,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 69561,
@@ -37947,6 +37947,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 37145,
+      "num": 37145,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37139,
       "num": 178213,
       "word": "智搜预测AG对战DRG结果",
@@ -38096,6 +38104,14 @@
       "word": "学术的严肃不容近水楼台随意松动",
       "onboard_time": 1746887723,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35485,
+      "num": 31521,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -38297,6 +38313,14 @@
       "onboard_time": 1746620002,
       "rank": 28,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 34147,
+      "num": 31054,
+      "word": "妈宝女",
+      "onboard_time": 1746996434,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34138,
@@ -38881,6 +38905,14 @@
       "onboard_time": 1746210735,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29834,
+      "num": 29834,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29817,
@@ -39691,12 +39723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24351,
-      "num": 26517,
-      "word": "美国经济陷入衰退已成基本预期",
-      "onboard_time": 1746987315,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 24297,
+      "num": 64681,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 24291,
@@ -39791,6 +39823,14 @@
       "num": 890352,
       "word": "网警藏蓝青春键指河山",
       "onboard_time": 1746403761,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23834,
+      "num": 160447,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -40123,6 +40163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 21880,
+      "num": 22830,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21812,
       "num": 21812,
       "word": "张泽禹像天使一样",
@@ -40193,14 +40241,6 @@
       "onboard_time": 1746530481,
       "rank": 39,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 21507,
-      "num": 21507,
-      "word": "妈宝女",
-      "onboard_time": 1746996434,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21472,
@@ -40915,14 +40955,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 17524,
-      "num": 19749,
-      "word": "学校偶遇森碟",
-      "onboard_time": 1746992774,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17453,
       "num": 28918,
       "word": "在印在巴中国公民必知电话",
@@ -41267,14 +41299,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 15420,
-      "num": 19737,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15298,
       "num": 160103,
       "word": "巴菲特为什么增加大量现金储备",
@@ -41313,14 +41337,6 @@
       "onboard_time": 1746702201,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 15142,
-      "num": 19734,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15131,
@@ -41584,14 +41600,6 @@
       "word": "新疆南山发洪水系谣言",
       "onboard_time": 1746710423,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13646,
-      "num": 84896,
-      "word": "AI用60秒掠过她的半辈子",
-      "onboard_time": 1746974423,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
