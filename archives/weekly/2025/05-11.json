@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747003241208,
+  "endTime": 1747005778779,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -227,6 +227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 771202,
+      "num": 831795,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 768750,
       "num": 768750,
       "word": "巴基斯坦人停车对偶遇的中国人欢呼",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618991,
+      "num": 618991,
+      "word": "中美双方将发布联合声明",
+      "onboard_time": 1747004898,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 617316,
       "num": 865533,
       "word": "官方通报郑州夜市摊贩被收香烟事件",
@@ -376,6 +392,14 @@
       "word": "四姑娘山一游客疑因高反身亡",
       "onboard_time": 1746955580,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580961,
+      "num": 580961,
+      "word": "汶川地震追空投的男孩已成空降兵",
+      "onboard_time": 1746976824,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -531,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465034,
-      "num": 518849,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 456629,
       "num": 456629,
       "word": "王楚钦说带着妈妈的祝愿奔向太阳",
@@ -665,14 +681,6 @@
       "onboard_time": 1746936141,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402595,
-      "num": 402595,
-      "word": "汶川地震追空投的男孩已成空降兵",
-      "onboard_time": 1746976824,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 399566,
@@ -1368,6 +1376,14 @@
       "word": "我国成功发射遥感四十号02组卫星",
       "onboard_time": 1746973164,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 199430,
+      "num": 199430,
+      "word": "中美经贸达成重要共识",
+      "onboard_time": 1747005018,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2755,6 +2771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114138,
+      "num": 114138,
+      "word": "吴敏霞重穿泳衣为女儿示范跳水",
+      "onboard_time": 1747005199,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114094,
       "num": 114094,
       "word": "郭保坤你变了",
@@ -2899,6 +2923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106709,
+      "num": 106709,
+      "word": "一直对菌子火锅没概念直到吃了一次",
+      "onboard_time": 1747005678,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105789,
       "num": 105789,
       "word": "只有大学生才懂她有多强",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1746926360,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99597,
+      "num": 99597,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 97929,
@@ -3099,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90767,
+      "num": 90767,
+      "word": "长沙奶茶还是太超前了",
+      "onboard_time": 1747005678,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90671,
       "num": 102142,
       "word": "成毅张智霖还原一年级剧照",
@@ -3187,6 +3235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85413,
+      "num": 85413,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85126,
       "num": 140355,
       "word": "自己在家熬夜差点猝死如何自救",
@@ -3235,12 +3291,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79737,
-      "num": 79737,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 81044,
+      "num": 81044,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80022,
+      "num": 80022,
+      "word": "雷霆2比2掘金",
+      "onboard_time": 1747005620,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 78991,
@@ -3323,6 +3387,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "西藏拉孜发生5.5级地震",
+      "onboard_time": 1747005620,
+      "rank": 35,
+      "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 70002,
+      "num": 70002,
+      "word": "要减重每天睡足7小时",
+      "onboard_time": 1746982337,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 69470,
       "num": 74797,
       "word": "王鹤棣跳车丝滑度满分",
@@ -3363,12 +3443,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 64119,
+      "num": 64119,
+      "word": "王楚钦乒乓球蛋糕",
+      "onboard_time": 1747005678,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63780,
       "num": 315732,
       "word": "乐见潮向音乐节超好拍",
       "onboard_time": 1746949462,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63001,
+      "num": 85410,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 62234,
@@ -3403,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59537,
+      "num": 85405,
+      "word": "郑钦文连续三年晋级罗马站16强",
+      "onboard_time": 1747005079,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59499,
       "num": 102017,
       "word": "樊振东唱歌表白妈妈",
@@ -3425,6 +3529,14 @@
       "onboard_time": 1746982337,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57867,
+      "num": 57867,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57671,
@@ -3459,6 +3571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54734,
+      "num": 54734,
+      "word": "郑州经开区对袁某某停职调查",
+      "onboard_time": 1747005620,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 54675,
       "num": 83208,
       "word": "中国队晋级男女混合4×100米接力决赛",
@@ -3473,22 +3593,6 @@
       "onboard_time": 1746941063,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54437,
-      "num": 54437,
-      "word": "要减重每天睡足7小时",
-      "onboard_time": 1746982337,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 53710,
-      "num": 53710,
-      "word": "美国经济陷入衰退已成基本预期",
-      "onboard_time": 1746987315,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53077,
@@ -3521,6 +3625,14 @@
       "onboard_time": 1746956423,
       "rank": 29,
       "category": "海外新闻,军事"
+    },
+    {
+      "raw_hot": 50579,
+      "num": 50579,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 48785,
@@ -3571,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47808,
+      "num": 47808,
+      "word": "厦门机场偶遇李荣浩杨丞琳",
+      "onboard_time": 1747002196,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46885,
       "num": 66769,
       "word": "钟意FMVP",
@@ -3579,12 +3699,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45927,
-      "num": 64681,
-      "word": "72岁赵雅芝重游雷峰塔",
-      "onboard_time": 1747000816,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 46108,
+      "num": 597123,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45343,
@@ -3592,14 +3712,6 @@
       "word": "为啥以前结婚得带户口本",
       "onboard_time": 1746934280,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45113,
-      "num": 45113,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3657,14 +3769,6 @@
       "onboard_time": 1746983417,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42290,
-      "num": 42290,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42250,
@@ -3835,22 +3939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28078,
-      "num": 238100,
-      "word": "AI用60秒掠过她的半辈子",
-      "onboard_time": 1746974423,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27864,
-      "num": 29889,
-      "word": "学校偶遇森碟",
-      "onboard_time": 1746992774,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27307,
       "num": 250043,
       "word": "淮水竹亭结局有哪些意难平",
@@ -3953,14 +4041,6 @@
       "onboard_time": 1746941063,
       "rank": 29,
       "category": "海外新闻,议题讨论"
-    },
-    {
-      "raw_hot": 22924,
-      "num": 29881,
-      "word": "厦门机场偶遇李荣浩杨丞琳",
-      "onboard_time": 1747002196,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 22584,
@@ -4073,6 +4153,14 @@
       "onboard_time": 1746899836,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17840,
+      "num": 85405,
+      "word": "如果美国家庭没有中国制造",
+      "onboard_time": 1747005079,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17742,
