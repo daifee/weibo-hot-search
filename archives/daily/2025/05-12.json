@@ -1,7 +1,23 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747005778779,
+  "endTime": 1747006650326,
   "band_list": [
+    {
+      "raw_hot": 1783226,
+      "num": 1783226,
+      "word": "中美双方将发布联合声明",
+      "onboard_time": 1747004898,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1037569,
+      "num": 1037569,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
     {
       "raw_hot": 793883,
       "num": 286812,
@@ -9,14 +25,6 @@
       "onboard_time": 1746962601,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 771202,
-      "num": 831795,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 630770,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 618991,
-      "num": 618991,
-      "word": "中美双方将发布联合声明",
-      "onboard_time": 1747004898,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 617316,
       "num": 865533,
       "word": "官方通报郑州夜市摊贩被收香烟事件",
@@ -43,8 +43,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 580961,
-      "num": 580961,
+      "raw_hot": 601995,
+      "num": 601995,
       "word": "汶川地震追空投的男孩已成空降兵",
       "onboard_time": 1746976824,
       "rank": 6,
@@ -57,6 +57,14 @@
       "onboard_time": 1746973524,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489579,
+      "num": 489579,
+      "word": "中美经贸达成重要共识",
+      "onboard_time": 1747005018,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 428999,
@@ -155,12 +163,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258601,
+      "num": 258601,
+      "word": "黄圣依妈妈在北京帮带孙子10年",
+      "onboard_time": 1746966381,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242235,
       "num": 282572,
       "word": "淮水竹亭陪看变陪哭",
       "onboard_time": 1746973283,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241435,
+      "num": 178194,
+      "word": "吴敏霞重穿泳衣为女儿示范跳水",
+      "onboard_time": 1747005199,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236932,
+      "num": 236932,
+      "word": "三问工行金条掺假事件",
+      "onboard_time": 1746970342,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 226111,
@@ -171,36 +203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224812,
-      "num": 224812,
-      "word": "黄圣依妈妈在北京帮带孙子10年",
-      "onboard_time": 1746966381,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223108,
       "num": 223108,
       "word": "黄多多出演人鱼",
       "onboard_time": 1746951561,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202201,
-      "num": 202201,
-      "word": "三问工行金条掺假事件",
-      "onboard_time": 1746970342,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 199430,
-      "num": 199430,
-      "word": "中美经贸达成重要共识",
-      "onboard_time": 1747005018,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195437,
@@ -211,8 +219,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148715,
-      "num": 148715,
+      "raw_hot": 183714,
+      "num": 183714,
+      "word": "一直对菌子火锅没概念直到吃了一次",
+      "onboard_time": 1747005678,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 163921,
+      "num": 163921,
       "word": "巴基斯坦人停车对偶遇的中国人欢呼",
       "onboard_time": 1746969922,
       "rank": 24,
@@ -227,12 +243,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145510,
+      "num": 145510,
+      "word": "长沙奶茶还是太超前了",
+      "onboard_time": 1747005678,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144376,
       "num": 144376,
       "word": "95花撕拉片",
       "onboard_time": 1746977962,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142649,
+      "num": 142649,
+      "word": "雷霆2比2掘金",
+      "onboard_time": 1747005620,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138053,
+      "num": 138053,
+      "word": "原来这么干都是无效减重",
+      "onboard_time": 1746977124,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 137395,
@@ -251,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118714,
-      "num": 118714,
-      "word": "原来这么干都是无效减重",
-      "onboard_time": 1746977124,
-      "rank": 32,
-      "category": "运动健身"
+      "raw_hot": 125169,
+      "num": 125169,
+      "word": "普通家庭从怀孕到娃10个月大",
+      "onboard_time": 1746969922,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 115114,
@@ -267,28 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114138,
-      "num": 114138,
-      "word": "吴敏霞重穿泳衣为女儿示范跳水",
-      "onboard_time": 1747005199,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 112641,
-      "num": 112641,
-      "word": "普通家庭从怀孕到娃10个月大",
-      "onboard_time": 1746969922,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 106709,
-      "num": 106709,
-      "word": "一直对菌子火锅没概念直到吃了一次",
-      "onboard_time": 1747005678,
-      "rank": 20,
-      "category": "美食"
+      "raw_hot": 106147,
+      "num": 106147,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99597,
@@ -297,6 +321,14 @@
       "onboard_time": 1746984257,
       "rank": 21,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 98114,
+      "num": 644807,
+      "word": "中美经贸高层会谈取得了实质性进展",
+      "onboard_time": 1747006159,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96661,
@@ -347,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90767,
-      "num": 90767,
-      "word": "长沙奶茶还是太超前了",
-      "onboard_time": 1747005678,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 90490,
       "num": 90490,
       "word": "中国排面歌唱祖国泪洒戎装",
@@ -371,28 +395,52 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85413,
-      "num": 85413,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
+      "raw_hot": 89442,
+      "num": 89442,
+      "word": "西藏拉孜发生5.5级地震",
+      "onboard_time": 1747005620,
+      "rank": 35,
+      "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 87612,
+      "num": 87612,
+      "word": "郑钦文连续三年晋级罗马站16强",
+      "onboard_time": 1747005079,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83566,
+      "num": 83566,
+      "word": "王楚钦乒乓球蛋糕",
+      "onboard_time": 1747005678,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83156,
+      "num": 83156,
+      "word": "512致敬护士",
+      "onboard_time": 1747005798,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81044,
-      "num": 81044,
+      "raw_hot": 83006,
+      "num": 83006,
       "word": "美国经济陷入衰退已成基本预期",
       "onboard_time": 1746987315,
       "rank": 44,
       "category": "国际时政"
     },
     {
-      "raw_hot": 80022,
-      "num": 80022,
-      "word": "雷霆2比2掘金",
+      "raw_hot": 77339,
+      "num": 77339,
+      "word": "郑州经开区对袁某某停职调查",
       "onboard_time": 1747005620,
-      "rank": 33,
-      "category": "体育"
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 76303,
@@ -435,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71883,
+      "num": 130838,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71414,
       "num": 68635,
       "word": "陈凯歌说卜冠今可以演疯子",
@@ -449,14 +505,6 @@
       "onboard_time": 1746980900,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70381,
-      "num": 70381,
-      "word": "西藏拉孜发生5.5级地震",
-      "onboard_time": 1747005620,
-      "rank": 35,
-      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 70002,
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65799,
+      "num": 65799,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65315,
       "num": 74730,
       "word": "杭州偶遇章若楠逛街",
@@ -499,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64119,
-      "num": 64119,
-      "word": "王楚钦乒乓球蛋糕",
-      "onboard_time": 1747005678,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64046,
       "num": 68707,
       "word": "张杰敖丙我们是朋友了",
@@ -515,27 +563,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63001,
-      "num": 85410,
-      "word": "72岁赵雅芝重游雷峰塔",
-      "onboard_time": 1747000816,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 60465,
       "num": 68658,
       "word": "中国队接力获4张世锦赛门票",
       "onboard_time": 1746981440,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59537,
-      "num": 85405,
-      "word": "郑钦文连续三年晋级罗马站16强",
-      "onboard_time": 1747005079,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -547,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57867,
-      "num": 57867,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 58425,
+      "num": 165611,
+      "word": "南迦巴瓦偶遇白敬亭",
+      "onboard_time": 1747005859,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 57725,
@@ -571,12 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54734,
-      "num": 54734,
-      "word": "郑州经开区对袁某某停职调查",
-      "onboard_time": 1747005620,
-      "rank": 44,
-      "category": "辟谣/通报"
+      "raw_hot": 55563,
+      "num": 164509,
+      "word": "航拍今日汶川看泪目了",
+      "onboard_time": 1747005798,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53077,
@@ -585,6 +617,14 @@
       "onboard_time": 1746982997,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52672,
+      "num": 143768,
+      "word": "如果美国家庭没有中国制造",
+      "onboard_time": 1747005079,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50789,
@@ -691,20 +731,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17840,
-      "num": 85405,
-      "word": "如果美国家庭没有中国制造",
-      "onboard_time": 1747005079,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15961,
       "num": 18143,
       "word": "射频抗衰后没效果皮肤反被烫伤",
       "onboard_time": 1746989774,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14010,
+      "num": 125436,
+      "word": "美国农业已受到美关税政策冲击",
+      "onboard_time": 1747006159,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12977,
