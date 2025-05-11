@@ -1,7 +1,15 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746928990318,
+  "endTime": 1746930345267,
   "band_list": [
+    {
+      "raw_hot": 1594357,
+      "num": 484514,
+      "word": "麒麟 王楚钦",
+      "onboard_time": 1746922940,
+      "rank": 3,
+      "category": "体育,数码"
+    },
     {
       "raw_hot": 1439244,
       "num": 689075,
@@ -9,14 +17,6 @@
       "onboard_time": 1746887723,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1400765,
-      "num": 484514,
-      "word": "麒麟 王楚钦",
-      "onboard_time": 1746922940,
-      "rank": 3,
-      "category": "体育,数码"
     },
     {
       "raw_hot": 1369099,
@@ -99,20 +99,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559631,
+      "num": 559631,
+      "word": "母亲节文案大赏",
+      "onboard_time": 1746893241,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529287,
       "num": 333024,
       "word": "吴昕主持人的含金量还在上升",
       "onboard_time": 1746875663,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524086,
-      "num": 524086,
-      "word": "母亲节文案大赏",
-      "onboard_time": 1746893241,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 496140,
@@ -144,6 +144,14 @@
       "word": "聋哑司机偷拍女乘客视频配文低俗",
       "onboard_time": 1746922460,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451478,
+      "num": 304993,
+      "word": "员工拒从广州调岗到云南怒江被开除",
+      "onboard_time": 1746927801,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -208,14 +216,6 @@
       "word": "结婚无需户口本首日爸妈们有话说",
       "onboard_time": 1746882801,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304993,
-      "num": 304993,
-      "word": "员工拒从广州调岗到云南怒江被开除",
-      "onboard_time": 1746927801,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 183165,
+      "num": 183165,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1746929062,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
@@ -395,8 +403,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 168301,
-      "num": 168301,
+      "raw_hot": 168557,
+      "num": 168557,
       "word": "30件让妈妈嘴角上扬的暖心事",
       "onboard_time": 1746922580,
       "rank": 25,
@@ -411,12 +419,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154194,
+      "num": 154194,
+      "word": "102岁妈妈收到母亲节最暖礼物",
+      "onboard_time": 1746929781,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147539,
       "num": 147539,
       "word": "章若楠浴巾撕拉片",
       "onboard_time": 1746919577,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146259,
+      "num": 146259,
+      "word": "京东喊网友反馈无堂食餐厅混入外卖",
+      "onboard_time": 1746930081,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 146223,
+      "num": 295285,
+      "word": "母亲节鲜花卖爆了",
+      "onboard_time": 1746928280,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144821,
+      "num": 144821,
+      "word": "赵朔称基本确定悟空死因",
+      "onboard_time": 1746926241,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139200,
@@ -459,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132210,
+      "num": 132210,
+      "word": "WTT发文为王楚钦庆生",
+      "onboard_time": 1746925821,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131801,
       "num": 131801,
       "word": "机智的住院医生生活",
@@ -467,12 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127360,
-      "num": 127360,
-      "word": "赵朔称基本确定悟空死因",
-      "onboard_time": 1746926241,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 131059,
+      "num": 131059,
+      "word": "种地吧今天来采购",
+      "onboard_time": 1746929721,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128586,
+      "num": 340986,
+      "word": "加州州长再就关税批评特朗普政府",
+      "onboard_time": 1746925280,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126691,
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 116971,
-      "num": 169707,
+      "num": 240445,
       "word": "种地吧",
       "onboard_time": 1746928581,
       "rank": 24,
@@ -537,6 +593,14 @@
       "onboard_time": 1746926001,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114661,
+      "num": 114661,
+      "word": "雷军空降超话",
+      "onboard_time": 1746928581,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 114605,
@@ -555,20 +619,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113308,
+      "num": 113308,
+      "word": "郑钦文收到周生如故同款捷报",
+      "onboard_time": 1746929241,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110003,
       "num": 110003,
       "word": "慕强天菜一诺",
       "onboard_time": 1746892042,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108041,
-      "num": 108041,
-      "word": "WTT发文为王楚钦庆生",
-      "onboard_time": 1746925821,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 107812,
@@ -579,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106845,
-      "num": 106845,
-      "word": "母亲节鲜花卖爆了",
-      "onboard_time": 1746928280,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105430,
       "num": 105430,
       "word": "王楚钦打台球有点天赋在身上",
       "onboard_time": 1746927801,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104938,
+      "num": 131559,
+      "word": "素人晒与黄杨钿甜合照",
+      "onboard_time": 1746929001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 103524,
@@ -603,20 +667,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103439,
+      "num": 103439,
+      "word": "葬礼墙体倒塌致3死亲历者发声",
+      "onboard_time": 1746924681,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "法院回应两行人相撞案",
       "onboard_time": 1746885502,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101191,
-      "num": 101191,
-      "word": "雷军空降超话",
-      "onboard_time": 1746928581,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 100084,
@@ -635,6 +699,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 96416,
+      "num": 96416,
+      "word": "妈妈的事业粉已上线",
+      "onboard_time": 1746929181,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95570,
       "num": 95570,
       "word": "有一种美好瞬间是叫妈有人回答",
@@ -651,11 +723,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94757,
-      "num": 94757,
-      "word": "葬礼墙体倒塌致3死亲历者发声",
-      "onboard_time": 1746924681,
-      "rank": 46,
+      "raw_hot": 94836,
+      "num": 94836,
+      "word": "没药花园谈小猫悟空事件",
+      "onboard_time": 1746929062,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -715,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83257,
+      "num": 136566,
+      "word": "陈都灵温峥嵘母亲节售后",
+      "onboard_time": 1746929121,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
@@ -723,20 +803,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70978,
-      "num": 340986,
-      "word": "加州州长再就关税批评特朗普政府",
-      "onboard_time": 1746925280,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69169,
       "num": 102110,
       "word": "DRG的故事才刚刚开始",
       "onboard_time": 1746892821,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 67124,
+      "num": 161791,
+      "word": "印度记者称他们会传播假新闻",
+      "onboard_time": 1746928401,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 60707,
@@ -953,14 +1033,6 @@
       "onboard_time": 1746898637,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15312,
-      "num": 161791,
-      "word": "印度记者称他们会传播假新闻",
-      "onboard_time": 1746928401,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 14115,
