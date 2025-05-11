@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746938676608,
+  "endTime": 1746941040216,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632606,
+      "num": 632606,
+      "word": "淮水竹亭结局",
+      "onboard_time": 1746939261,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "老赖欠390万转让房产给女儿逃避执行",
       "onboard_time": 1746936200,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 606063,
+      "num": 317177,
+      "word": "陈乔恩吐槽香港机场地勤",
+      "onboard_time": 1746939501,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 568176,
@@ -145,6 +161,14 @@
       "onboard_time": 1746893241,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532520,
+      "num": 310778,
+      "word": "陈赫生气了",
+      "onboard_time": 1746940642,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 529287,
@@ -227,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398600,
+      "num": 398600,
+      "word": "青木媛杀死张正",
+      "onboard_time": 1746939801,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392890,
       "num": 392890,
       "word": "时代峰峻声明",
@@ -283,6 +315,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340624,
+      "num": 297350,
+      "word": "顺产开十指的痛具象化了",
+      "onboard_time": 1746938961,
+      "rank": 14,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 337831,
+      "num": 337831,
+      "word": "李嘉诚现身五月天演唱会",
+      "onboard_time": 1746936861,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327695,
       "num": 262328,
       "word": "许多印度人开始囤积性抢购",
@@ -315,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 308795,
-      "num": 285609,
-      "word": "李嘉诚现身五月天演唱会",
-      "onboard_time": 1746936861,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
@@ -335,6 +375,14 @@
       "num": 298854,
       "word": "鞠婧祎额头受伤",
       "onboard_time": 1746876442,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296680,
+      "num": 296680,
+      "word": "在蓝盈莹脸上看到漂亮基因的强大",
+      "onboard_time": 1746939981,
       "rank": 15,
       "category": "艺人"
     },
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 263183,
-      "num": 236728,
+      "num": 237938,
       "word": "张杰回复黄霄雲",
       "onboard_time": 1746934761,
       "rank": 30,
@@ -409,6 +457,14 @@
       "onboard_time": 1746868222,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248689,
+      "num": 248689,
+      "word": "原来广东烧鹅左腿最好吃",
+      "onboard_time": 1746938541,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 244145,
@@ -467,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216278,
-      "num": 216278,
-      "word": "原来广东烧鹅左腿最好吃",
-      "onboard_time": 1746938541,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214593,
       "num": 283563,
       "word": "邓超母亲节陪妈妈遛弯儿",
       "onboard_time": 1746931222,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213891,
+      "num": 213891,
+      "word": "歌手2025音乐合伙人官宣",
+      "onboard_time": 1746940761,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 213330,
@@ -499,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207672,
+      "num": 207672,
+      "word": "没见过我妈的都说我好看",
+      "onboard_time": 1746940761,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206632,
       "num": 206632,
       "word": "芒果TV招商片单",
       "onboard_time": 1746938001,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "年轻人养的东西越来越离谱了",
+      "onboard_time": 1746940761,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 206072,
@@ -579,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186517,
+      "num": 186517,
+      "word": "母亲节红包",
+      "onboard_time": 1746939741,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184556,
       "num": 184556,
       "word": "印度",
@@ -617,6 +697,14 @@
       "onboard_time": 1746935481,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180250,
+      "num": 180250,
+      "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
+      "onboard_time": 1746939082,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178535,
@@ -699,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "巴方否认违反停火协议",
+      "onboard_time": 1746935120,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156073,
       "num": 205360,
       "word": "巴铁女英雄贾米洛一战封神",
@@ -731,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152928,
+      "num": 176404,
+      "word": "李荣浩现场有人杀猪吗",
+      "onboard_time": 1746940221,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149914,
       "num": 149914,
       "word": "刘浩存王安宇都营业了",
@@ -745,6 +849,14 @@
       "onboard_time": 1746935120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148590,
+      "num": 148590,
+      "word": "乘风2025",
+      "onboard_time": 1746939441,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 147539,
@@ -779,6 +891,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141899,
+      "num": 141899,
+      "word": "苏新皓生日会首唱一天一天",
+      "onboard_time": 1746940221,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140232,
+      "num": 140232,
+      "word": "陆虎演唱会退场真的很陆虎",
+      "onboard_time": 1746939441,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139353,
       "num": 204205,
       "word": "美国学校男女共用浴室藏摄像头",
@@ -801,6 +929,14 @@
       "onboard_time": 1746891982,
       "rank": 29,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 137269,
+      "num": 324248,
+      "word": "美国关税战把美国农业打得好疼",
+      "onboard_time": 1746939741,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137115,
@@ -867,6 +1003,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132934,
+      "num": 132934,
+      "word": "康乃馨",
+      "onboard_time": 1746939682,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 132332,
+      "num": 132332,
+      "word": "花100万买到了300平的房子",
+      "onboard_time": 1746940882,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132210,
       "num": 132210,
       "word": "WTT发文为王楚钦庆生",
@@ -889,6 +1041,14 @@
       "onboard_time": 1746929721,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129088,
+      "num": 129088,
+      "word": "波尔赞王楚钦是顶级球员",
+      "onboard_time": 1746939621,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 128586,
@@ -937,6 +1097,22 @@
       "onboard_time": 1746933560,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121291,
+      "num": 121291,
+      "word": "逆水寒",
+      "onboard_time": 1746939682,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 121012,
+      "num": 121012,
+      "word": "女子半夜在家听到摄像头传出口哨声",
+      "onboard_time": 1746938961,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120755,
@@ -1203,12 +1379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85130,
-      "num": 156470,
-      "word": "巴方否认违反停火协议",
-      "onboard_time": 1746935120,
+      "raw_hot": 85126,
+      "num": 140355,
+      "word": "自己在家熬夜差点猝死如何自救",
+      "onboard_time": 1746938721,
       "rank": 38,
-      "category": "国际时政"
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 83257,
@@ -1297,6 +1473,14 @@
       "onboard_time": 1746914534,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49671,
+      "num": 894111,
+      "word": "华龙一号凭啥这么火",
+      "onboard_time": 1746937401,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48629,
@@ -1393,14 +1577,6 @@
       "onboard_time": 1746901636,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36915,
-      "num": 894111,
-      "word": "华龙一号凭啥这么火",
-      "onboard_time": 1746937401,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35081,
