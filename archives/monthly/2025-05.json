@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746963385590,
+  "endTime": 1746967461805,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -465,6 +465,14 @@
       "onboard_time": 1746458482,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1827568,
+      "num": 304271,
+      "word": "小英怒斥小三",
+      "onboard_time": 1746962601,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1821731,
@@ -1401,14 +1409,6 @@
       "onboard_time": 1746415821,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1142606,
-      "num": 304271,
-      "word": "小英怒斥小三",
-      "onboard_time": 1746962601,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1142531,
@@ -3201,6 +3201,14 @@
       "onboard_time": 1746372923,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732652,
+      "num": 297905,
+      "word": "月薪6千过出2万的生活质量",
+      "onboard_time": 1746964341,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 732362,
@@ -8803,6 +8811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320133,
+      "num": 320133,
+      "word": "今年高价水果为啥纷纷降价",
+      "onboard_time": 1746960561,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 320087,
       "num": 289643,
       "word": "协和4加4培养出的董医生医术如何",
@@ -8961,6 +8977,14 @@
       "onboard_time": 1746020363,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312708,
+      "num": 312708,
+      "word": "黄圣依妈妈在北京帮带孙子10年",
+      "onboard_time": 1746966381,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 312620,
@@ -12203,6 +12227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228537,
+      "num": 266497,
+      "word": "德容变形记",
+      "onboard_time": 1746961941,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228489,
       "num": 225418,
       "word": "还珠格格柳红聊爆火后的人生",
@@ -13393,6 +13425,14 @@
       "onboard_time": 1746422722,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209087,
+      "num": 209087,
+      "word": "张杰演唱会偶遇张极",
+      "onboard_time": 1746966561,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 209055,
@@ -14617,6 +14657,14 @@
       "onboard_time": 1746587122,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200903,
+      "num": 200903,
+      "word": "97年小伙做到家护士月入2.8万",
+      "onboard_time": 1746964341,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200770,
@@ -17595,14 +17643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181735,
-      "num": 266497,
-      "word": "德容变形记",
-      "onboard_time": 1746961941,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181672,
       "num": 181672,
       "word": "淘宝免单 72",
@@ -19027,6 +19067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "白鹿双马尾错位图",
+      "onboard_time": 1746963502,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169760,
       "num": 248663,
       "word": "2025高考30天倒计时",
@@ -19753,6 +19801,14 @@
       "onboard_time": 1746177750,
       "rank": 38,
       "category": "演出,综艺"
+    },
+    {
+      "raw_hot": 165041,
+      "num": 165041,
+      "word": "淮水竹亭番外",
+      "onboard_time": 1746965900,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 164940,
@@ -21553,14 +21609,6 @@
       "onboard_time": 1746854482,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154296,
-      "num": 265483,
-      "word": "今年高价水果为啥纷纷降价",
-      "onboard_time": 1746960561,
-      "rank": 37,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 154279,
@@ -23763,6 +23811,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 141438,
+      "num": 141438,
+      "word": "男子百万买二手房竟收4万天价水费",
+      "onboard_time": 1746965421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141429,
       "num": 259771,
       "word": "坚持一个月把肝养回来",
@@ -24675,6 +24731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137236,
+      "num": 137236,
+      "word": "时代少年团加冠礼演唱会",
+      "onboard_time": 1746300315,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137145,
       "num": 137145,
       "word": "WBG对战RC",
@@ -24841,6 +24905,14 @@
       "onboard_time": 1746031759,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 233632,
+      "word": "彭小苒直播",
+      "onboard_time": 1746966262,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 136404,
@@ -27251,6 +27323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125090,
+      "num": 125090,
+      "word": "刘诗诗粉色满钻露肩礼服",
+      "onboard_time": 1746966620,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125073,
+      "num": 125073,
+      "word": "买超带儿子看病",
+      "onboard_time": 1746967221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125041,
       "num": 125041,
       "word": "我怀疑这西瓜是来报恩的",
@@ -27809,6 +27897,14 @@
       "onboard_time": 1746414080,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121720,
+      "num": 121720,
+      "word": "警方通报网约车司机偷拍散布他人隐私",
+      "onboard_time": 1746966203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121668,
@@ -28915,6 +29011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115168,
+      "num": 230907,
+      "word": "减脂人最爱的咖啡单品",
+      "onboard_time": 1746965181,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 115139,
       "num": 473276,
       "word": "欠租失联公寓变垃圾场女租客发声",
@@ -29747,6 +29851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109758,
+      "num": 109758,
+      "word": "2次关税战没压垮广东罗非鱼",
+      "onboard_time": 1746965181,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109740,
       "num": 109740,
       "word": "工信部发文整顿隐藏式车门把手",
@@ -30217,6 +30329,14 @@
       "onboard_time": 1746083182,
       "rank": 48,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 107195,
+      "num": 107195,
+      "word": "余承恩撕拉片",
+      "onboard_time": 1746965541,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 107179,
@@ -31563,6 +31683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96399,
+      "num": 96399,
+      "word": "刘美含即兴表演打动于佩尔",
+      "onboard_time": 1746966682,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96332,
       "num": 96332,
       "word": "巴基斯坦将对印军入侵做出回应",
@@ -31857,6 +31985,14 @@
       "onboard_time": 1746345021,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92864,
+      "num": 92864,
+      "word": "晚霞",
+      "onboard_time": 1746964762,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92623,
@@ -35291,6 +35427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53809,
+      "num": 266021,
+      "word": "用特朗普智能体分析美方谈判策略",
+      "onboard_time": 1746967042,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53663,
       "num": 327891,
       "word": "不同运动暗藏哪些抗炎玄机",
@@ -37595,6 +37739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32372,
+      "num": 165099,
+      "word": "闫安发博预祝国乒多哈取得好成绩",
+      "onboard_time": 1746966381,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32367,
       "num": 44064,
       "word": "工作人员回应给游客撒蛤蜊",
@@ -38667,6 +38819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24794,
+      "num": 264676,
+      "word": "母亲节给妈妈最硬核的告白",
+      "onboard_time": 1746966381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24769,
       "num": 317676,
       "word": "奶茶店等小微企业借钱成本降低",
@@ -39481,14 +39641,6 @@
       "onboard_time": 1746254541,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19996,
-      "num": 24610,
-      "word": "时代少年团加冠礼演唱会",
-      "onboard_time": 1746300315,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 19990,
@@ -40929,6 +41081,14 @@
       "onboard_time": 1746637398,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11060,
+      "num": 165238,
+      "word": "打开飞机安全出口会面临什么处罚",
+      "onboard_time": 1746967282,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11002,

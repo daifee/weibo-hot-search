@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746963385590,
+  "endTime": 1746967461805,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -9,6 +9,14 @@
       "onboard_time": 1746951561,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1827568,
+      "num": 304271,
+      "word": "小英怒斥小三",
+      "onboard_time": 1746962601,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1642831,
@@ -115,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1142606,
-      "num": 304271,
-      "word": "小英怒斥小三",
-      "onboard_time": 1746962601,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -209,6 +209,14 @@
       "onboard_time": 1746939082,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732652,
+      "num": 297905,
+      "word": "月薪6千过出2万的生活质量",
+      "onboard_time": 1746964341,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 727884,
@@ -659,11 +667,27 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 320133,
+      "num": 320133,
+      "word": "今年高价水果为啥纷纷降价",
+      "onboard_time": 1746960561,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 314556,
       "num": 314556,
       "word": "肖俊请exo检查作业",
       "onboard_time": 1746954501,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312708,
+      "num": 312708,
+      "word": "黄圣依妈妈在北京帮带孙子10年",
+      "onboard_time": 1746966381,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -867,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228537,
+      "num": 266497,
+      "word": "德容变形记",
+      "onboard_time": 1746961941,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224879,
       "num": 224879,
       "word": "吃什么东西瘦的最快",
@@ -979,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209087,
+      "num": 209087,
+      "word": "张杰演唱会偶遇张极",
+      "onboard_time": 1746966561,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208852,
       "num": 179465,
       "word": "陈哲远撕拉片",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1746942741,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200903,
+      "num": 200903,
+      "word": "97年小伙做到家护士月入2.8万",
+      "onboard_time": 1746964341,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199673,
@@ -1219,6 +1267,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 183590,
+      "num": 165175,
+      "word": "张杰演唱会",
+      "onboard_time": 1746963622,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183003,
       "num": 183003,
       "word": "共享AG荣耀时刻",
@@ -1233,14 +1289,6 @@
       "onboard_time": 1746936381,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181735,
-      "num": 266497,
-      "word": "德容变形记",
-      "onboard_time": 1746961941,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 180858,
@@ -1331,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169853,
+      "num": 169853,
+      "word": "白鹿双马尾错位图",
+      "onboard_time": 1746963502,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "飞猪小编押中冠军",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1746949821,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165041,
+      "num": 165041,
+      "word": "淮水竹亭番外",
+      "onboard_time": 1746965900,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 161786,
@@ -1473,14 +1537,6 @@
       "onboard_time": 1746930442,
       "rank": 26,
       "category": "剧集,民生新闻"
-    },
-    {
-      "raw_hot": 154296,
-      "num": 265483,
-      "word": "今年高价水果为啥纷纷降价",
-      "onboard_time": 1746960561,
-      "rank": 37,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 154279,
@@ -1651,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141438,
+      "num": 141438,
+      "word": "男子百万买二手房竟收4万天价水费",
+      "onboard_time": 1746965421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140944,
       "num": 162465,
       "word": "蔡文静桃花坞录制路透",
@@ -1755,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137236,
+      "num": 137236,
+      "word": "时代少年团加冠礼演唱会",
+      "onboard_time": 1746966022,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137115,
       "num": 137115,
       "word": "cp31",
@@ -1777,6 +1849,14 @@
       "onboard_time": 1746934821,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 233632,
+      "word": "彭小苒直播",
+      "onboard_time": 1746966262,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 136225,
@@ -1955,6 +2035,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125090,
+      "num": 125090,
+      "word": "刘诗诗粉色满钻露肩礼服",
+      "onboard_time": 1746966620,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125073,
+      "num": 125073,
+      "word": "买超带儿子看病",
+      "onboard_time": 1746967221,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123977,
       "num": 123977,
       "word": "印度分军种和巴基斯坦PK",
@@ -1985,6 +2081,14 @@
       "onboard_time": 1746946641,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121720,
+      "num": 121720,
+      "word": "警方通报网约车司机偷拍散布他人隐私",
+      "onboard_time": 1746966203,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121668,
@@ -2123,6 +2227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115168,
+      "num": 230907,
+      "word": "减脂人最爱的咖啡单品",
+      "onboard_time": 1746965181,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 114661,
       "num": 114661,
       "word": "雷军空降超话",
@@ -2203,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109758,
+      "num": 109758,
+      "word": "2次关税战没压垮广东罗非鱼",
+      "onboard_time": 1746965181,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109355,
       "num": 109355,
       "word": "30岁正是上一年级的好时候",
@@ -2225,6 +2345,14 @@
       "onboard_time": 1746883224,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107195,
+      "num": 107195,
+      "word": "余承恩撕拉片",
+      "onboard_time": 1746965541,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105789,
@@ -2299,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96399,
+      "num": 96399,
+      "word": "刘美含即兴表演打动于佩尔",
+      "onboard_time": 1746966682,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95775,
       "num": 139350,
       "word": "动物园悬赏寻找出逃40天水豚",
@@ -2329,6 +2465,14 @@
       "onboard_time": 1746929062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92864,
+      "num": 92864,
+      "word": "晚霞",
+      "onboard_time": 1746964762,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 92614,
@@ -2595,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53809,
+      "num": 266021,
+      "word": "用特朗普智能体分析美方谈判策略",
+      "onboard_time": 1746967042,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52037,
       "num": 65208,
       "word": "人民网评称乘风带动雄安游客热潮",
@@ -2803,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32372,
+      "num": 165099,
+      "word": "闫安发博预祝国乒多哈取得好成绩",
+      "onboard_time": 1746966381,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31826,
       "num": 188300,
       "word": "3D全景还原印巴冲突19天",
@@ -2889,6 +3049,14 @@
       "onboard_time": 1746906135,
       "rank": 25,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 24794,
+      "num": 264676,
+      "word": "母亲节给妈妈最硬核的告白",
+      "onboard_time": 1746966381,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24586,
@@ -3112,6 +3280,14 @@
       "word": "中国品牌日",
       "onboard_time": 1746912854,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11060,
+      "num": 165238,
+      "word": "打开飞机安全出口会面临什么处罚",
+      "onboard_time": 1746967282,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
