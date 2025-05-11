@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746937766486,
+  "endTime": 1746938676608,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -9,6 +9,14 @@
       "onboard_time": 1746922940,
       "rank": 3,
       "category": "体育,数码"
+    },
+    {
+      "raw_hot": 1583680,
+      "num": 1583680,
+      "word": "多地结婚登记预约火爆",
+      "onboard_time": 1746935300,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1439244,
@@ -25,14 +33,6 @@
       "onboard_time": 1746878722,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1270699,
-      "num": 1270699,
-      "word": "多地结婚登记预约火爆",
-      "onboard_time": 1746935300,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1229366,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1047869,
+      "num": 1047869,
+      "word": "李嘉格结婚五年没有和老公一起过年",
+      "onboard_time": 1746936261,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 960210,
       "num": 1153633,
       "word": "工行疑似掺假金条检测结果为真金",
@@ -73,14 +81,6 @@
       "onboard_time": 1746919218,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 778278,
-      "num": 778278,
-      "word": "李嘉格结婚五年没有和老公一起过年",
-      "onboard_time": 1746936261,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 754406,
@@ -120,6 +120,14 @@
       "word": "上海浦东机场T1被曝开放24小时安检",
       "onboard_time": 1746882082,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631882,
+      "num": 631882,
+      "word": "老赖欠390万转让房产给女儿逃避执行",
+      "onboard_time": 1746936200,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 480133,
-      "num": 480133,
-      "word": "老赖欠390万转让房产给女儿逃避执行",
-      "onboard_time": 1746936200,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 452079,
       "num": 338651,
       "word": "聋哑司机偷拍女乘客视频配文低俗",
@@ -217,6 +217,14 @@
       "onboard_time": 1746885562,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403096,
+      "num": 403096,
+      "word": "导演肯定也知道卢昱晓的手好看",
+      "onboard_time": 1746936141,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 392890,
@@ -307,6 +315,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308795,
+      "num": 285609,
+      "word": "李嘉诚现身五月天演唱会",
+      "onboard_time": 1746936861,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 306800,
+      "num": 306800,
+      "word": "母亲节快乐",
+      "onboard_time": 1746938300,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298854,
       "num": 298854,
       "word": "鞠婧祎额头受伤",
@@ -315,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295905,
+      "num": 280042,
+      "word": "叶童说我是特别的怎么都好看",
+      "onboard_time": 1746934580,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294091,
       "num": 294091,
       "word": "谁给袁姗姗做的妆造出来挨夸",
       "onboard_time": 1746888923,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280042,
-      "num": 280042,
-      "word": "叶童说我是特别的怎么都好看",
-      "onboard_time": 1746934580,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 274625,
@@ -345,6 +369,14 @@
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 263183,
+      "num": 236728,
+      "word": "张杰回复黄霄雲",
+      "onboard_time": 1746934761,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 262705,
@@ -403,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236728,
-      "num": 236728,
-      "word": "张杰回复黄霄雲",
-      "onboard_time": 1746934761,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 231849,
       "num": 231849,
       "word": "谁给白鹿做的特效",
@@ -443,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216278,
+      "num": 216278,
+      "word": "原来广东烧鹅左腿最好吃",
+      "onboard_time": 1746938541,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214593,
       "num": 283563,
       "word": "邓超母亲节陪妈妈遛弯儿",
       "onboard_time": 1746931222,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213350,
-      "num": 367042,
-      "word": "导演肯定也知道卢昱晓的手好看",
-      "onboard_time": 1746936141,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 213330,
@@ -475,11 +499,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206632,
+      "num": 206632,
+      "word": "芒果TV招商片单",
+      "onboard_time": 1746938001,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206072,
       "num": 284259,
       "word": "丁禹兮战损海报",
       "onboard_time": 1746933440,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205003,
+      "num": 205003,
+      "word": "吴宣仪淮水竹亭战损海报",
+      "onboard_time": 1746937822,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -513,14 +553,6 @@
       "onboard_time": 1746935420,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197744,
-      "num": 197744,
-      "word": "李嘉诚现身五月天演唱会",
-      "onboard_time": 1746936861,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 192976,
@@ -569,6 +601,22 @@
       "onboard_time": 1746888803,
       "rank": 24,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 181865,
+      "num": 338870,
+      "word": "发现拼多多买花的人一定是天才",
+      "onboard_time": 1746936381,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180858,
+      "num": 180858,
+      "word": "堵车原因是土拨鼠打架",
+      "onboard_time": 1746935481,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 178535,
@@ -627,22 +675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167341,
-      "num": 338870,
-      "word": "发现拼多多买花的人一定是天才",
-      "onboard_time": 1746936381,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166005,
-      "num": 166005,
-      "word": "堵车原因是土拨鼠打架",
-      "onboard_time": 1746935481,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -667,20 +699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156073,
+      "num": 205360,
+      "word": "巴铁女英雄贾米洛一战封神",
+      "onboard_time": 1746934880,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156005,
       "num": 156005,
       "word": "任嘉伦说张艺兴好样的",
       "onboard_time": 1746931222,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155722,
-      "num": 205360,
-      "word": "巴铁女英雄贾米洛一战封神",
-      "onboard_time": 1746934880,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155183,
@@ -739,6 +771,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "佟丽娅回应看张杰演唱会",
+      "onboard_time": 1746937759,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139353,
+      "num": 204205,
+      "word": "美国学校男女共用浴室藏摄像头",
+      "onboard_time": 1746937102,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139200,
       "num": 161852,
       "word": "哈妮克孜让丁真不要无所谓",
@@ -787,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134820,
+      "num": 204443,
+      "word": "许嵩背过身擦眼泪",
+      "onboard_time": 1746938001,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134553,
       "num": 160907,
       "word": "eStar 来财",
@@ -801,6 +857,14 @@
       "onboard_time": 1746886342,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133197,
+      "num": 204945,
+      "word": "母爱让林孝埈无畏前行",
+      "onboard_time": 1746936381,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 132210,
@@ -849,14 +913,6 @@
       "onboard_time": 1746880882,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124369,
-      "num": 124369,
-      "word": "美国学校男女共用浴室藏摄像头",
-      "onboard_time": 1746937102,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123977,
@@ -915,6 +971,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115777,
+      "num": 182350,
+      "word": "佟丽娅和谢娜鸟巢碰面成功",
+      "onboard_time": 1746937221,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115335,
+      "num": 115335,
+      "word": "成毅阿达娃同框",
+      "onboard_time": 1746938601,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115306,
       "num": 115306,
       "word": "潘玮柏承认是露最多的一次",
@@ -960,14 +1032,6 @@
       "word": "郑钦文收到周生如故同款捷报",
       "onboard_time": 1746929241,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 112331,
-      "num": 156305,
-      "word": "母爱让林孝埈无畏前行",
-      "onboard_time": 1746936381,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1019,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101600,
-      "num": 182350,
-      "word": "佟丽娅和谢娜鸟巢碰面成功",
-      "onboard_time": 1746937221,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100084,
       "num": 162002,
       "word": "hi6后期把王星越当哪国人整啊",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1746929062,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92614,
+      "num": 419449,
+      "word": "向每一位平凡而伟大的中国母亲致敬",
+      "onboard_time": 1746935541,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90671,
@@ -1211,14 +1275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56623,
-      "num": 419449,
-      "word": "向每一位平凡而伟大的中国母亲致敬",
-      "onboard_time": 1746935541,
-      "rank": 22,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55140,
       "num": 67988,
       "word": "小男孩说话算话带着包子冒雨赴约",
@@ -1248,6 +1304,14 @@
       "word": "印巴局势依旧不明朗",
       "onboard_time": 1746919938,
       "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48160,
+      "num": 203592,
+      "word": "巴基斯坦对印反击的空中优势",
+      "onboard_time": 1746937280,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -1331,12 +1395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36525,
-      "num": 179219,
-      "word": "巴基斯坦对印反击的空中优势",
-      "onboard_time": 1746937280,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 36915,
+      "num": 894111,
+      "word": "华龙一号凭啥这么火",
+      "onboard_time": 1746937401,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35081,
@@ -1372,11 +1436,19 @@
     },
     {
       "raw_hot": 28976,
-      "num": 151627,
+      "num": 203836,
       "word": "联合国秘书长欢迎印巴达成停火协议",
       "onboard_time": 1746937640,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28871,
+      "num": 152411,
+      "word": "哪本财经证书的含金量还在上升",
+      "onboard_time": 1746936319,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 28333,
@@ -1411,20 +1483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22159,
-      "num": 148014,
-      "word": "哪本财经证书的含金量还在上升",
-      "onboard_time": 1746936319,
-      "rank": 39,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 21681,
       "num": 28953,
       "word": "00后民警MVP结算画面好可爱",
       "onboard_time": 1746907334,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 20300,
+      "num": 243818,
+      "word": "康乃馨如何象征母爱",
+      "onboard_time": 1746937882,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 17843,
@@ -1505,14 +1577,6 @@
       "onboard_time": 1746912854,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10313,
-      "num": 800411,
-      "word": "华龙一号凭啥这么火",
-      "onboard_time": 1746937401,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10165,
