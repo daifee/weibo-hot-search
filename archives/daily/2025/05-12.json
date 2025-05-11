@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746980933953,
+  "endTime": 1746981866735,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532848,
+      "raw_hot": 617316,
       "num": 865533,
       "word": "官方通报郑州夜市摊贩被收香烟事件",
       "onboard_time": 1746977664,
@@ -33,6 +33,14 @@
       "onboard_time": 1746973524,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428999,
+      "num": 428999,
+      "word": "罗云熙回应看张杰演唱会",
+      "onboard_time": 1746979340,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 424648,
@@ -59,20 +67,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 402595,
+      "num": 402595,
+      "word": "汶川地震追空投的男孩已成空降兵",
+      "onboard_time": 1746976824,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388110,
       "num": 285261,
       "word": "W女士要求蔡徐坤方赔礼道歉",
       "onboard_time": 1746975623,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373623,
-      "num": 373623,
-      "word": "汶川地震追空投的男孩已成空降兵",
-      "onboard_time": 1746976824,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339642,
@@ -97,14 +105,6 @@
       "onboard_time": 1746979281,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 307005,
-      "num": 282966,
-      "word": "罗云熙回应看张杰演唱会",
-      "onboard_time": 1746979340,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 287767,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 195437,
-      "num": 195437,
+      "num": 202364,
       "word": "东方秦兰当妈妈了",
       "onboard_time": 1746976941,
       "rank": 23,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94786,
+      "num": 111046,
+      "word": "喻言音乐节",
+      "onboard_time": 1746977421,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94408,
       "num": 94408,
       "word": "荔枝价格从7字头跌到4字头",
@@ -296,14 +304,6 @@
       "word": "罗云熙在张杰演唱会蹦上迪了",
       "onboard_time": 1746978322,
       "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 82929,
-      "num": 82929,
-      "word": "喻言音乐节",
-      "onboard_time": 1746977421,
-      "rank": 39,
       "category": "演出"
     },
     {
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70819,
+      "num": 74753,
+      "word": "刘诗诗体验派演员",
+      "onboard_time": 1746980900,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69470,
       "num": 74797,
       "word": "王鹤棣跳车丝滑度满分",
@@ -363,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66318,
-      "num": 74753,
-      "word": "刘诗诗体验派演员",
-      "onboard_time": 1746980900,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 67185,
+      "num": 201875,
+      "word": "郑钦文vs弗莱彻",
+      "onboard_time": 1746981080,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 65315,
@@ -387,6 +395,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64046,
+      "num": 68707,
+      "word": "张杰敖丙我们是朋友了",
+      "onboard_time": 1746973164,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 60465,
+      "num": 68658,
+      "word": "中国队接力获4张世锦赛门票",
+      "onboard_time": 1746981440,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57839,
+      "num": 68635,
+      "word": "陈凯歌说卜冠今可以演疯子",
+      "onboard_time": 1746981680,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57725,
       "num": 456830,
       "word": "其实我们能为妈妈做的还有很多",
@@ -395,7 +427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28989,
+      "raw_hot": 50789,
       "num": 284899,
       "word": "印巴剑拔弩张背后有何深层矛盾",
       "onboard_time": 1746980540,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#勿忘人间真情#"
+    },
+    {
+      "word": "#领航战略协作共促世界和平#"
     }
   ]
 }
