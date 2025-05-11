@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746948990077,
+  "endTime": 1746952202046,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021466,
+      "num": 558880,
+      "word": "人鱼",
+      "onboard_time": 1746947362,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 960210,
       "num": 1153633,
       "word": "工行疑似掺假金条检测结果为真金",
       "onboard_time": 1746924021,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 832920,
-      "num": 524177,
-      "word": "人鱼",
-      "onboard_time": 1746947362,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 832134,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 648502,
-      "num": 293823,
+      "num": 319896,
       "word": "巴基斯坦向印度发射导弹现场",
       "onboard_time": 1746946641,
       "rank": 12,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552011,
+      "num": 552011,
+      "word": "男子得物买52瓶古驰香水包装是假的",
+      "onboard_time": 1746947601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537412,
       "num": 348648,
       "word": "在蓝盈莹脸上看到漂亮基因的强大",
@@ -257,6 +265,14 @@
       "onboard_time": 1746895460,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494562,
+      "num": 301132,
+      "word": "王楚然拍的撕拉片",
+      "onboard_time": 1746949101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 491584,
@@ -315,12 +331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 438862,
+      "num": 438862,
+      "word": "王楚钦说带着妈妈的祝愿奔向太阳",
+      "onboard_time": 1746950780,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427329,
       "num": 427329,
       "word": "青岛行人相撞案相关法院道歉",
       "onboard_time": 1746885562,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424678,
+      "num": 424678,
+      "word": "印度大坝已完全打开",
+      "onboard_time": 1746950121,
+      "rank": 6,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 421095,
@@ -411,11 +443,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347971,
+      "num": 347971,
+      "word": "黄多多出演人鱼",
+      "onboard_time": 1746951561,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346255,
       "num": 346255,
       "word": "母亲节鲜花卖爆了",
       "onboard_time": 1746928280,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341761,
+      "num": 284511,
+      "word": "花75万采购299元产品高校已终止采购",
+      "onboard_time": 1746949462,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305879,
+      "num": 305879,
+      "word": "藏海传赴山海百指",
+      "onboard_time": 1746951141,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300574,
       "num": 324248,
       "word": "美国关税战把美国农业打得好疼",
@@ -515,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284003,
+      "num": 284003,
+      "word": "花12000元打热玛吉被烫一脸泡",
+      "onboard_time": 1746948622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "会癌变的痣一般有5个特征",
@@ -544,6 +608,14 @@
       "word": "妈妈也是第一次当妈妈",
       "onboard_time": 1746936381,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261550,
+      "num": 261550,
+      "word": "高校回应网传花75万采购售价299产品",
+      "onboard_time": 1746950662,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -616,14 +688,6 @@
       "word": "男孩患巨痣植入扩张器治疗",
       "onboard_time": 1746927801,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220598,
-      "num": 290548,
-      "word": "男子得物买52瓶古驰香水包装是假的",
-      "onboard_time": 1746947601,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -707,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206620,
+      "num": 206620,
+      "word": "王楚钦母亲节发文",
+      "onboard_time": 1746951081,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206072,
       "num": 284259,
       "word": "丁禹兮战损海报",
@@ -761,6 +833,14 @@
       "onboard_time": 1746942741,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201184,
+      "num": 297189,
+      "word": "奚梦瑶何猷君出席好友婚礼",
+      "onboard_time": 1746950422,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 198577,
@@ -843,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184759,
+      "num": 257865,
+      "word": "蒙娜丽莎",
+      "onboard_time": 1746948262,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184556,
       "num": 184556,
       "word": "印度",
@@ -883,12 +971,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178760,
-      "num": 178760,
-      "word": "蒙娜丽莎",
-      "onboard_time": 1746948262,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 179528,
+      "num": 256713,
+      "word": "王权醉被杨一叹一剑刺死",
+      "onboard_time": 1746951682,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 178535,
@@ -979,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167438,
+      "num": 167438,
+      "word": "第五人格致歉低级失误",
+      "onboard_time": 1746949821,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1746935120,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157167,
+      "num": 157167,
+      "word": "王一博汤唯合作",
+      "onboard_time": 1746952102,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 156560,
@@ -1091,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149821,
+      "num": 255332,
+      "word": "印军方称不想发动战争",
+      "onboard_time": 1746950541,
+      "rank": 28,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 149678,
       "num": 465909,
       "word": "老外难逃中国品牌真香定律",
@@ -1113,6 +1225,14 @@
       "onboard_time": 1746919577,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146376,
+      "num": 146376,
+      "word": "张艺兴回复任嘉伦",
+      "onboard_time": 1746952041,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146259,
@@ -1153,6 +1273,14 @@
       "onboard_time": 1746941421,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143136,
+      "num": 143136,
+      "word": "孟子义内娱眼泪女王",
+      "onboard_time": 1746948862,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 141899,
@@ -1331,6 +1459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130659,
+      "num": 130659,
+      "word": "鹿晗四巡新乐器",
+      "onboard_time": 1746951981,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129557,
+      "num": 129557,
+      "word": "陈哲远撕拉片",
+      "onboard_time": 1746952162,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "波尔赞王楚钦是顶级球员",
@@ -1347,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126896,
+      "num": 311353,
+      "word": "母亲节拒绝表白羞耻",
+      "onboard_time": 1746951382,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "母亲节文案",
@@ -1361,14 +1513,6 @@
       "onboard_time": 1746880882,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124292,
-      "num": 124292,
-      "word": "孟子义内娱眼泪女王",
-      "onboard_time": 1746948862,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 123977,
@@ -1499,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115613,
+      "num": 314033,
+      "word": "吴艳妮因为妈妈从不会焦虑和自卑",
+      "onboard_time": 1746951741,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115335,
       "num": 115335,
       "word": "成毅阿达娃同框",
@@ -1616,14 +1768,6 @@
       "word": "葬礼墙体倒塌致3死亲历者发声",
       "onboard_time": 1746924681,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103102,
-      "num": 263767,
-      "word": "花12000元打热玛吉被烫一脸泡",
-      "onboard_time": 1746948622,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1883,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48755,
+      "num": 303776,
+      "word": "我国多地将加入升温热热热群聊",
+      "onboard_time": 1746949821,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48629,
       "num": 136287,
       "word": "印巴局势依旧不明朗",
@@ -1947,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43785,
+      "num": 306273,
+      "word": "母亲节的意义并不是歌颂和安慰",
+      "onboard_time": 1746950541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43707,
       "num": 283287,
       "word": "哪些痣的特征可能预示着癌变风险",
@@ -1979,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38198,
+      "num": 315732,
+      "word": "乐见潮向音乐节超好拍",
+      "onboard_time": 1746949462,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36382,
       "num": 346059,
       "word": "特教妈妈用19年托举281个家庭",
@@ -2009,6 +2177,14 @@
       "onboard_time": 1746896239,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31299,
+      "num": 295618,
+      "word": "地面沉降会对城市带来什么影响",
+      "onboard_time": 1746951682,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 29187,
@@ -2163,6 +2339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17284,
+      "num": 148100,
+      "word": "当年多么辛酸现在就有多风光",
+      "onboard_time": 1746951682,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 16728,
       "num": 28905,
       "word": "花了1800元学到的炸蘑菇方法",
@@ -2241,6 +2425,14 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8403,
+      "num": 149439,
+      "word": "基建狂魔又上分",
+      "onboard_time": 1746952041,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

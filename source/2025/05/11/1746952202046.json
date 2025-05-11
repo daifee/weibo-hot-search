@@ -1,0 +1,410 @@
+{
+  "runTime": 1746952202046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 946997,
+        "num": 1151519,
+        "word": "苹果再次降价降幅超1000元",
+        "onboard_time": 1746943400,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 591317,
+        "num": 591317,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35811,
+        "num": 560028,
+        "word": "华龙一号凭啥这么火",
+        "onboard_time": 1746937401,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1021466,
+        "num": 558880,
+        "word": "人鱼",
+        "onboard_time": 1746947362,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552011,
+        "num": 552011,
+        "word": "男子得物买52瓶古驰香水包装是假的",
+        "onboard_time": 1746947601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438862,
+        "num": 438862,
+        "word": "王楚钦说带着妈妈的祝愿奔向太阳",
+        "onboard_time": 1746950780,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424678,
+        "num": 424678,
+        "word": "印度大坝已完全打开",
+        "onboard_time": 1746950121,
+        "rank": 6,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 362067,
+        "num": 362067,
+        "word": "演员3狂飙5个高启强7个高启盛",
+        "onboard_time": 1746944000,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347971,
+        "num": 347971,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320810,
+        "num": 320810,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 570584,
+        "num": 319896,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38198,
+        "num": 315732,
+        "word": "乐见潮向音乐节超好拍",
+        "onboard_time": 1746949462,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115613,
+        "num": 314033,
+        "word": "吴艳妮因为妈妈从不会焦虑和自卑",
+        "onboard_time": 1746951741,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126896,
+        "num": 311353,
+        "word": "母亲节拒绝表白羞耻",
+        "onboard_time": 1746951382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43785,
+        "num": 306273,
+        "word": "母亲节的意义并不是歌颂和安慰",
+        "onboard_time": 1746950541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305879,
+        "num": 305879,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48755,
+        "num": 303776,
+        "word": "我国多地将加入升温热热热群聊",
+        "onboard_time": 1746949821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494562,
+        "num": 301132,
+        "word": "王楚然拍的撕拉片",
+        "onboard_time": 1746949101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201184,
+        "num": 297189,
+        "word": "奚梦瑶何猷君出席好友婚礼",
+        "onboard_time": 1746950422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31299,
+        "num": 295618,
+        "word": "地面沉降会对城市带来什么影响",
+        "onboard_time": 1746951682,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 467159,
+        "num": 290787,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344536,
+        "num": 287814,
+        "word": "叶童回应房琪事件",
+        "onboard_time": 1746943822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341761,
+        "num": 284511,
+        "word": "花75万采购299元产品高校已终止采购",
+        "onboard_time": 1746949462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284003,
+        "num": 284003,
+        "word": "花12000元打热玛吉被烫一脸泡",
+        "onboard_time": 1746948622,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261550,
+        "num": 261550,
+        "word": "高校回应网传花75万采购售价299产品",
+        "onboard_time": 1746950662,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221972,
+        "num": 260644,
+        "word": "淮水竹亭结局",
+        "onboard_time": 1746939261,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184759,
+        "num": 257865,
+        "word": "蒙娜丽莎",
+        "onboard_time": 1746948262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179528,
+        "num": 256713,
+        "word": "王权醉被杨一叹一剑刺死",
+        "onboard_time": 1746951682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 255332,
+        "word": "印军方称不想发动战争",
+        "onboard_time": 1746950541,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 253908,
+        "num": 253908,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225569,
+        "num": 225569,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216025,
+        "num": 216025,
+        "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
+        "onboard_time": 1746939082,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206620,
+        "num": 206620,
+        "word": "王楚钦母亲节发文",
+        "onboard_time": 1746951081,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188428,
+        "num": 188428,
+        "word": "真榴莲自由马上来了",
+        "onboard_time": 1746944721,
+        "rank": 33,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 172851,
+        "num": 172851,
+        "word": "钟丽缇小女儿走秀状态",
+        "onboard_time": 1746946760,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167438,
+        "num": 167438,
+        "word": "第五人格致歉低级失误",
+        "onboard_time": 1746949821,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "王一博汤唯合作",
+        "onboard_time": 1746952102,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155584,
+        "num": 155584,
+        "word": "多地结婚登记预约火爆",
+        "onboard_time": 1746935300,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8403,
+        "num": 149439,
+        "word": "基建狂魔又上分",
+        "onboard_time": 1746952041,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17284,
+        "num": 148100,
+        "word": "当年多么辛酸现在就有多风光",
+        "onboard_time": 1746951682,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 147310,
+        "num": 147310,
+        "word": "白鹿称拍戏父母会接送上下班",
+        "onboard_time": 1746947781,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 146376,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143447,
+        "num": 143447,
+        "word": "芒果的后期已经牛到这个地步了吗",
+        "onboard_time": 1746921018,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143136,
+        "num": 143136,
+        "word": "孟子义内娱眼泪女王",
+        "onboard_time": 1746948862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139879,
+        "num": 139879,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133199,
+        "num": 133199,
+        "word": "管乐 你脸怎么这么小",
+        "onboard_time": 1746948141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130659,
+        "num": 130659,
+        "word": "鹿晗四巡新乐器",
+        "onboard_time": 1746951981,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129557,
+        "num": 129557,
+        "word": "陈哲远撕拉片",
+        "onboard_time": 1746952162,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 128367,
+        "word": "孟子义演技",
+        "onboard_time": 1746942682,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127010,
+        "num": 127010,
+        "word": "陈梦说好成绩不是被打出来的",
+        "onboard_time": 1746948321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从历史逻辑中感知习近平俄罗斯之行#"
+    }
+  }
+}
