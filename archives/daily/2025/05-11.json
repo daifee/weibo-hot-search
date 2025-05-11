@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746935151221,
+  "endTime": 1746935833813,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1157224,
-      "num": 286465,
+      "num": 286694,
       "word": "60岁失独母亲冒死生下双胞胎女儿",
       "onboard_time": 1746931041,
       "rank": 12,
@@ -147,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 466636,
-      "num": 466636,
+      "raw_hot": 486770,
+      "num": 486770,
       "word": "印巴为何停火",
       "onboard_time": 1746930681,
       "rank": 6,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340950,
+      "num": 281567,
+      "word": "狗狗去宠物店洗澡被误以为很脏",
+      "onboard_time": 1746933501,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327695,
       "num": 262328,
       "word": "许多印度人开始囤积性抢购",
@@ -251,8 +259,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321704,
+      "num": 321704,
+      "word": "肖战藏海传期待无需多言",
+      "onboard_time": 1746933861,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311883,
-      "num": 246943,
+      "num": 269014,
       "word": "原来这就是冷泡茶",
       "onboard_time": 1746933202,
       "rank": 30,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280042,
+      "num": 280042,
+      "word": "叶童说我是特别的怎么都好看",
+      "onboard_time": 1746934580,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "会癌变的痣一般有5个特征",
@@ -289,22 +313,6 @@
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 270602,
-      "num": 245170,
-      "word": "狗狗去宠物店洗澡被误以为很脏",
-      "onboard_time": 1746933501,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 258036,
-      "num": 258036,
-      "word": "肖战藏海传期待无需多言",
-      "onboard_time": 1746933861,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 255711,
@@ -361,6 +369,14 @@
       "onboard_time": 1746926061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236728,
+      "num": 236728,
+      "word": "张杰回复黄霄雲",
+      "onboard_time": 1746934761,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 231849,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205357,
-      "num": 205357,
-      "word": "张杰回复黄霄雲",
-      "onboard_time": 1746934761,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204882,
       "num": 204882,
       "word": "旅行是年轻人最好的医美",
@@ -457,6 +465,14 @@
       "onboard_time": 1746933440,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198577,
+      "num": 198577,
+      "word": "花海清融Fly怎么总是你们",
+      "onboard_time": 1746935420,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 192976,
@@ -555,14 +571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162027,
-      "num": 162027,
-      "word": "叶童说我是特别的怎么都好看",
-      "onboard_time": 1746934580,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -585,6 +593,14 @@
       "onboard_time": 1746934161,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158480,
+      "num": 158480,
+      "word": "堵车原因是土拨鼠打架",
+      "onboard_time": 1746935481,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 156005,
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149914,
+      "num": 149914,
+      "word": "刘浩存王安宇都营业了",
+      "onboard_time": 1746935061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147539,
       "num": 147539,
       "word": "章若楠浴巾撕拉片",
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140786,
+      "num": 205360,
+      "word": "巴铁女英雄贾米洛一战封神",
+      "onboard_time": 1746934880,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139200,
       "num": 161852,
       "word": "哈妮克孜让丁真不要无所谓",
@@ -649,6 +681,30 @@
       "onboard_time": 1746891982,
       "rank": 29,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 137115,
+      "num": 137115,
+      "word": "cp31",
+      "onboard_time": 1746932661,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 136762,
+      "num": 136762,
+      "word": "王鹤棣范世錡零帧起手跳九万字",
+      "onboard_time": 1746934821,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136188,
+      "num": 280711,
+      "word": "多地结婚登记预约火爆",
+      "onboard_time": 1746935300,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135511,
@@ -713,14 +769,6 @@
       "onboard_time": 1746925280,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128377,
-      "num": 128377,
-      "word": "王鹤棣范世錡零帧起手跳九万字",
-      "onboard_time": 1746934821,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 126691,
@@ -835,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110292,
-      "num": 110292,
-      "word": "cp31",
-      "onboard_time": 1746932661,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 110003,
       "num": 110003,
       "word": "慕强天菜一诺",
@@ -931,14 +971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95213,
-      "num": 205360,
-      "word": "巴铁女英雄贾米洛一战封神",
-      "onboard_time": 1746934880,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 94836,
       "num": 94836,
       "word": "没药花园谈小猫悟空事件",
@@ -995,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86113,
+      "num": 156204,
+      "word": "2024全球十大武器出口国排名",
+      "onboard_time": 1746934041,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 85914,
       "num": 78040,
       "word": "东大圆脸模仿刚买的飞机被打了",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1746929121,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76042,
+      "num": 288359,
+      "word": "日本母亲节流行送大米",
+      "onboard_time": 1746935181,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75031,
@@ -1043,6 +1091,22 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 65235,
+      "num": 465909,
+      "word": "老外难逃中国品牌真香定律",
+      "onboard_time": 1746935120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61799,
+      "num": 283832,
+      "word": "母亲节给妈妈消毒级安心守护",
+      "onboard_time": 1746932839,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60707,
       "num": 60707,
       "word": "5种不舒服可能是心梗症状",
@@ -1059,20 +1123,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59411,
-      "num": 283832,
-      "word": "母亲节给妈妈消毒级安心守护",
-      "onboard_time": 1746932839,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 59166,
       "num": 66778,
       "word": "0元get撕拉片",
       "onboard_time": 1746897019,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56623,
+      "num": 242812,
+      "word": "向每一位平凡而伟大的中国母亲致敬",
+      "onboard_time": 1746935541,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55140,
@@ -1145,14 +1209,6 @@
       "onboard_time": 1746932540,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44496,
-      "num": 156204,
-      "word": "2024全球十大武器出口国排名",
-      "onboard_time": 1746934041,
-      "rank": 39,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 44256,
@@ -1331,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6965,
-      "num": 465909,
-      "word": "老外难逃中国品牌真香定律",
-      "onboard_time": 1746935120,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 10165,
+      "num": 269023,
+      "word": "明星同款撕拉片为何如此抢手",
+      "onboard_time": 1746935481,
+      "rank": 19,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
