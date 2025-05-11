@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746970194947,
+  "endTime": 1746970930172,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 821914,
+      "num": 239974,
+      "word": "普通家庭从怀孕到娃10个月大",
+      "onboard_time": 1746969922,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 815363,
       "num": 815363,
       "word": "淮水竹亭结局",
@@ -288,6 +296,14 @@
       "word": "巴基斯坦向印度发射导弹现场",
       "onboard_time": 1746946641,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 636523,
+      "num": 636523,
+      "word": "巴基斯坦人停车对偶遇的中国人欢呼",
+      "onboard_time": 1746969922,
+      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -595,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363021,
-      "num": 363021,
-      "word": "巴基斯坦人停车对偶遇的中国人欢呼",
-      "onboard_time": 1746969922,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 361042,
       "num": 343870,
       "word": "歌手2025音乐合伙人官宣",
@@ -657,14 +665,6 @@
       "onboard_time": 1746886943,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 324706,
-      "num": 113756,
-      "word": "普通家庭从怀孕到娃10个月大",
-      "onboard_time": 1746969922,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 324375,
@@ -1123,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202775,
+      "num": 202775,
+      "word": "严浩翔做手工祝妈妈节日快乐",
+      "onboard_time": 1746969922,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201931,
       "num": 201931,
       "word": "杨紫三分钟唱尽万千女儿心底私语",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1746951682,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199372,
-      "num": 199372,
-      "word": "严浩翔做手工祝妈妈节日快乐",
-      "onboard_time": 1746969922,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 199370,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1746945500,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "罗云熙去看张杰演唱会",
+      "onboard_time": 1746969982,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 189843,
@@ -1347,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177612,
+      "num": 177612,
+      "word": "荔枝价格从7字头跌到4字头",
+      "onboard_time": 1746969862,
+      "rank": 24,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "母亲节礼物",
@@ -1427,12 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170511,
-      "num": 170511,
-      "word": "罗云熙去看张杰演唱会",
-      "onboard_time": 1746969982,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 171542,
+      "num": 251535,
+      "word": "榴莲价格普降两到三成",
+      "onboard_time": 1746969922,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169565,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1746958042,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 159606,
+      "num": 159606,
+      "word": "被街头的潮人浓度震惊了",
+      "onboard_time": 1746969562,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 158701,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1746937759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144535,
+      "num": 178666,
+      "word": "欧豪张佳宁新剧电话哄睡含糖量",
+      "onboard_time": 1746969862,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 143924,
@@ -1971,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134339,
+      "num": 134339,
+      "word": "国家德比",
+      "onboard_time": 1746970762,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "歼35让中国海军实现作战能力最大化",
@@ -2121,14 +2161,6 @@
       "onboard_time": 1746966620,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124853,
-      "num": 124853,
-      "word": "荔枝价格从7字头跌到4字头",
-      "onboard_time": 1746969862,
-      "rank": 24,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 123977,
@@ -2371,6 +2403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112959,
+      "num": 112959,
+      "word": "纽卡斯尔联2比0切尔西",
+      "onboard_time": 1746970641,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110483,
+      "num": 110483,
+      "word": "三问工行金条掺假事件",
+      "onboard_time": 1746970342,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 110477,
       "num": 113789,
       "word": "在试卷上看到王安宇了",
@@ -2499,14 +2547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102422,
-      "num": 102422,
-      "word": "榴莲价格普降两到三成",
-      "onboard_time": 1746969922,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "法院回应两行人相撞案",
@@ -2587,12 +2627,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93288,
+      "num": 93288,
+      "word": "刑警的日子",
+      "onboard_time": 1746970043,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92614,
       "num": 419449,
       "word": "向每一位平凡而伟大的中国母亲致敬",
       "onboard_time": 1746935541,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92135,
+      "num": 185760,
+      "word": "美国西海岸港口靠岸中国货船数归零",
+      "onboard_time": 1746970402,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92088,
@@ -2723,20 +2779,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79493,
-      "num": 79493,
-      "word": "刑警的日子",
-      "onboard_time": 1746970043,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78991,
       "num": 285822,
       "word": "一生对妈妈说的话浓缩在这30秒里",
       "onboard_time": 1746954683,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78108,
+      "num": 78108,
+      "word": "汇源果汁发布声明",
+      "onboard_time": 1746970883,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 77538,
@@ -2769,6 +2825,14 @@
       "onboard_time": 1746970162,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71807,
+      "num": 71807,
+      "word": "一诺模仿招牌英雄孙尚香",
+      "onboard_time": 1746970883,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 70783,
@@ -3052,7 +3116,7 @@
     },
     {
       "raw_hot": 36627,
-      "num": 449140,
+      "num": 525116,
       "word": "神二十航天员vlog上新",
       "onboard_time": 1746954863,
       "rank": 24,

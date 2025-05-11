@@ -1,0 +1,410 @@
+{
+  "runTime": 1746970930172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 703941,
+        "num": 1112630,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636523,
+        "num": 636523,
+        "word": "巴基斯坦人停车对偶遇的中国人欢呼",
+        "onboard_time": 1746969922,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29768,
+        "num": 525116,
+        "word": "神二十航天员vlog上新",
+        "onboard_time": 1746954863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434516,
+        "num": 434516,
+        "word": "黄圣依妈妈在北京帮带孙子10年",
+        "onboard_time": 1746966381,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375508,
+        "num": 375508,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337179,
+        "num": 337179,
+        "word": "张馨予家被水淹了",
+        "onboard_time": 1746960741,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307175,
+        "num": 307175,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283780,
+        "num": 283780,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254737,
+        "num": 254737,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171542,
+        "num": 251535,
+        "word": "榴莲价格普降两到三成",
+        "onboard_time": 1746969922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1062091,
+        "num": 250109,
+        "word": "小英怒斥小三",
+        "onboard_time": 1746962601,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1058985,
+        "num": 245487,
+        "word": "杨子女儿伯克利音乐学院毕业",
+        "onboard_time": 1746968362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821914,
+        "num": 239974,
+        "word": "普通家庭从怀孕到娃10个月大",
+        "onboard_time": 1746969922,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236711,
+        "num": 236711,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 225999,
+        "num": 225999,
+        "word": "月薪6千过出2万的生活质量",
+        "onboard_time": 1746964341,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202775,
+        "num": 202775,
+        "word": "严浩翔做手工祝妈妈节日快乐",
+        "onboard_time": 1746969922,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191206,
+        "num": 191206,
+        "word": "罗云熙去看张杰演唱会",
+        "onboard_time": 1746969982,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188206,
+        "num": 188206,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152759,
+        "num": 185840,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92135,
+        "num": 185760,
+        "word": "美国西海岸港口靠岸中国货船数归零",
+        "onboard_time": 1746970402,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208921,
+        "num": 185755,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185746,
+        "num": 185746,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144535,
+        "num": 178666,
+        "word": "欧豪张佳宁新剧电话哄睡含糖量",
+        "onboard_time": 1746969862,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177612,
+        "num": 177612,
+        "word": "荔枝价格从7字头跌到4字头",
+        "onboard_time": 1746969862,
+        "rank": 23,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 159606,
+        "num": 159606,
+        "word": "被街头的潮人浓度震惊了",
+        "onboard_time": 1746969562,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134339,
+        "num": 134339,
+        "word": "国家德比",
+        "onboard_time": 1746970762,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133014,
+        "num": 133014,
+        "word": "白鹿双马尾错位图",
+        "onboard_time": 1746963502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132093,
+        "num": 132093,
+        "word": "男子百万买二手房竟收4万天价水费",
+        "onboard_time": 1746965421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "陈哲远居然用创可贴种花",
+        "onboard_time": 1746967523,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125676,
+        "num": 125676,
+        "word": "张凌赫下水前问女生方不方便",
+        "onboard_time": 1746959902,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120545,
+        "num": 120545,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113471,
+        "num": 113471,
+        "word": "淮水竹亭超点",
+        "onboard_time": 1746960862,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112959,
+        "num": 112959,
+        "word": "纽卡斯尔联2比0切尔西",
+        "onboard_time": 1746970641,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110483,
+        "num": 110483,
+        "word": "三问工行金条掺假事件",
+        "onboard_time": 1746970342,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 104322,
+        "num": 104322,
+        "word": "在试卷上看到王安宇了",
+        "onboard_time": 1746967762,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104206,
+        "num": 104206,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103282,
+        "num": 103282,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102029,
+        "num": 102029,
+        "word": "97年小伙做到家护士月入2.8万",
+        "onboard_time": 1746964341,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97608,
+        "num": 97608,
+        "word": "75万采购路由器中标方参保人数0",
+        "onboard_time": 1746960681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93647,
+        "num": 93647,
+        "word": "TT战胜WBG",
+        "onboard_time": 1746968601,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93288,
+        "num": 93288,
+        "word": "刑警的日子",
+        "onboard_time": 1746970043,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92421,
+        "num": 92421,
+        "word": "张杰演唱会偶遇张极",
+        "onboard_time": 1746966561,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88358,
+        "num": 88358,
+        "word": "警方通报网约车司机偷拍散布他人隐私",
+        "onboard_time": 1746966203,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86456,
+        "num": 88196,
+        "word": "买超带儿子看病",
+        "onboard_time": 1746967221,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88073,
+        "num": 88073,
+        "word": "马龙像送孩子出征的家长",
+        "onboard_time": 1746960561,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87667,
+        "num": 87667,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82515,
+        "num": 82515,
+        "word": "汶川地震十七年了",
+        "onboard_time": 1746968242,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78108,
+        "num": 78108,
+        "word": "汇源果汁发布声明",
+        "onboard_time": 1746970883,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74717,
+        "num": 74717,
+        "word": "专家称判断肥胖关键要看腰围",
+        "onboard_time": 1746962242,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 71807,
+        "num": 71807,
+        "word": "一诺模仿招牌英雄孙尚香",
+        "onboard_time": 1746970883,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#两个维度看习近平俄罗斯之行#"
+    }
+  }
+}
