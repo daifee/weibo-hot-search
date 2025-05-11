@@ -1,0 +1,410 @@
+{
+  "runTime": 1746959055324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517561,
+        "num": 1517561,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1273374,
+        "num": 1273374,
+        "word": "苹果商店下架国家反诈中心",
+        "onboard_time": 1746955520,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46907,
+        "num": 968386,
+        "word": "这只瓶子上藏着对妈妈的爱",
+        "onboard_time": 1746955221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723157,
+        "num": 723157,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 592022,
+        "num": 592022,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586195,
+        "num": 586195,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 449858,
+        "num": 449858,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313321,
+        "num": 313321,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297763,
+        "num": 297763,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92088,
+        "num": 297439,
+        "word": "美商家称美国顾客选择中国造",
+        "onboard_time": 1746955221,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514072,
+        "num": 294310,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465277,
+        "num": 291711,
+        "word": "韦雪自曝要去do脸了",
+        "onboard_time": 1746954442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304185,
+        "num": 288645,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41889,
+        "num": 286756,
+        "word": "学二代不当署名很难被及时发现处理",
+        "onboard_time": 1746958642,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 285830,
+        "num": 285830,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266693,
+        "num": 266693,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257210,
+        "num": 257210,
+        "word": "肖俊请exo检查作业",
+        "onboard_time": 1746954501,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251318,
+        "num": 251318,
+        "word": "苹果再次降价降幅超1000元",
+        "onboard_time": 1746943400,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230489,
+        "num": 230489,
+        "word": "收到中国月壤后英方存入保险箱",
+        "onboard_time": 1746955520,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196404,
+        "num": 230217,
+        "word": "K总备孕",
+        "onboard_time": 1746953901,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1296164,
+        "num": 230212,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230206,
+        "num": 230206,
+        "word": "殿前欢",
+        "onboard_time": 1746957741,
+        "rank": 21,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 216732,
+        "num": 216732,
+        "word": "印度大坝已完全打开",
+        "onboard_time": 1746950121,
+        "rank": 22,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 203605,
+        "num": 203605,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178254,
+        "num": 202013,
+        "word": "王一博汤唯合作",
+        "onboard_time": 1746952102,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201145,
+        "num": 201145,
+        "word": "花75万采购299元产品高校已终止采购",
+        "onboard_time": 1746949462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 200252,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145590,
+        "num": 199121,
+        "word": "演员请就位",
+        "onboard_time": 1746958341,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140273,
+        "num": 197650,
+        "word": "陈德容吴宣仪看我72变",
+        "onboard_time": 1746957321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50682,
+        "num": 196944,
+        "word": "印巴为何停火后又开火",
+        "onboard_time": 1746956423,
+        "rank": 29,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 195560,
+        "num": 195560,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176819,
+        "num": 176819,
+        "word": "奚梦瑶何猷君出席好友婚礼",
+        "onboard_time": 1746950422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175071,
+        "num": 175071,
+        "word": "国乒出发多哈世乒赛",
+        "onboard_time": 1746957440,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140413,
+        "num": 162835,
+        "word": "宋亚轩祝妈咪母亲节快乐",
+        "onboard_time": 1746958820,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21699,
+        "num": 158955,
+        "word": "世界防治肥胖日如何避免减重反弹",
+        "onboard_time": 1746958881,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158356,
+        "num": 158356,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "37年没上过班打发时间教程",
+        "onboard_time": 1746958042,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53571,
+        "num": 150335,
+        "word": "刚买的飞机外网病毒式传播",
+        "onboard_time": 1746957321,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81360,
+        "num": 149761,
+        "word": "枭龙打S400相当于潜艇打反潜机",
+        "onboard_time": 1746957262,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48785,
+        "num": 149528,
+        "word": "全世界针对男性秃头仅三种办法",
+        "onboard_time": 1746958760,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 128617,
+        "num": 148884,
+        "word": "王一博王传君合作",
+        "onboard_time": 1746958282,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148634,
+        "num": 148634,
+        "word": "动物园回应悬赏越狱卡皮巴拉",
+        "onboard_time": 1746957022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139673,
+        "num": 139673,
+        "word": "吞海广播剧破亿",
+        "onboard_time": 1746957202,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 138220,
+        "num": 138220,
+        "word": "吃什么东西瘦的最快",
+        "onboard_time": 1746953901,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 138128,
+        "word": "孕妇被狗咬主人称狗咬的让狗道歉",
+        "onboard_time": 1746959000,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138095,
+        "num": 138095,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135608,
+        "num": 135608,
+        "word": "真榴莲自由马上来了",
+        "onboard_time": 1746944721,
+        "rank": 46,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 129903,
+        "num": 129903,
+        "word": "易梦玲水手服",
+        "onboard_time": 1746952762,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 127221,
+        "num": 127221,
+        "word": "叶童回应房琪事件",
+        "onboard_time": 1746943822,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125354,
+        "num": 125354,
+        "word": "王楚钦说带着妈妈的祝愿奔向太阳",
+        "onboard_time": 1746950780,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁言寸草心报得三春晖#"
+    }
+  }
+}
