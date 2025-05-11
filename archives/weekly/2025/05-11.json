@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746930345267,
+  "endTime": 1746934245406,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -48,6 +48,14 @@
       "word": "工行疑似掺假金条检测结果为真金",
       "onboard_time": 1746924021,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 882076,
+      "num": 286465,
+      "word": "60岁失独母亲冒死生下双胞胎女儿",
+      "onboard_time": 1746931041,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -195,12 +203,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355162,
+      "num": 355162,
+      "word": "刘奕畅承认自己戏不行",
+      "onboard_time": 1746930501,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346255,
+      "num": 346255,
+      "word": "母亲节鲜花卖爆了",
+      "onboard_time": 1746928280,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341599,
       "num": 341599,
       "word": "王楚钦生日妈妈的双向祝福",
       "onboard_time": 1746923901,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337472,
+      "num": 337472,
+      "word": "印巴为何停火",
+      "onboard_time": 1746930681,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 327695,
@@ -307,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226189,
+      "num": 226189,
+      "word": "素人晒与黄杨钿甜合照",
+      "onboard_time": 1746929001,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223188,
       "num": 223188,
       "word": "男孩患巨痣植入扩张器治疗",
@@ -331,12 +371,60 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206072,
+      "num": 284259,
+      "word": "丁禹兮战损海报",
+      "onboard_time": 1746933440,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205850,
+      "num": 196708,
+      "word": "原来这就是冷泡茶",
+      "onboard_time": 1746933202,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204830,
       "num": 204830,
       "word": "王楚钦二十五岁生日",
       "onboard_time": 1746919218,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202677,
+      "num": 197089,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1746929062,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201790,
+      "num": 201790,
+      "word": "周震南一秒认出A班班服",
+      "onboard_time": 1746933440,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197732,
+      "num": 197732,
+      "word": "肖战藏海传期待无需多言",
+      "onboard_time": 1746933861,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196488,
+      "num": 196488,
+      "word": "王一博感谢妈妈支持他的兴趣爱好",
+      "onboard_time": 1746934161,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188800,
@@ -363,20 +451,36 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 183165,
-      "num": 183165,
-      "word": "森林狼vs勇士",
-      "onboard_time": 1746929062,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
       "onboard_time": 1746895520,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178469,
+      "num": 178469,
+      "word": "赵朔称基本确定悟空死因",
+      "onboard_time": 1746926241,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "母亲节礼物",
+      "onboard_time": 1746933741,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176658,
+      "num": 176658,
+      "word": "狗狗去宠物店洗澡被误以为很脏",
+      "onboard_time": 1746933501,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 176141,
@@ -419,12 +523,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160155,
+      "num": 160155,
+      "word": "AG粉丝在郑州吃得太好了",
+      "onboard_time": 1746933142,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155183,
+      "num": 197709,
+      "word": "刘亦菲这段话说出了妈妈的心声",
+      "onboard_time": 1746930442,
+      "rank": 26,
+      "category": "剧集,民生新闻"
+    },
+    {
       "raw_hot": 154194,
       "num": 154194,
       "word": "102岁妈妈收到母亲节最暖礼物",
       "onboard_time": 1746929781,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "花海 反方向的钟",
+      "onboard_time": 1746931641,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 147539,
@@ -443,20 +571,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146223,
-      "num": 295285,
-      "word": "母亲节鲜花卖爆了",
-      "onboard_time": 1746928280,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 145843,
+      "num": 197295,
+      "word": "欧豪新剧被徒弟当短剧女主宠",
+      "onboard_time": 1746933501,
+      "rank": 27,
+      "category": "剧集"
     },
     {
-      "raw_hot": 144821,
-      "num": 144821,
-      "word": "赵朔称基本确定悟空死因",
-      "onboard_time": 1746926241,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 145530,
+      "num": 145530,
+      "word": "任嘉伦说张艺兴好样的",
+      "onboard_time": 1746931222,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 139200,
@@ -531,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126819,
+      "num": 283563,
+      "word": "邓超母亲节陪妈妈遛弯儿",
+      "onboard_time": 1746931222,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "母亲节文案",
@@ -545,6 +681,14 @@
       "onboard_time": 1746880882,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126234,
+      "num": 126234,
+      "word": "14岁印度小孩哥让记者噎住",
+      "onboard_time": 1746932720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123977,
@@ -563,12 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123370,
+      "num": 123370,
+      "word": "球迷给王楚钦的25岁生贺视频",
+      "onboard_time": 1746933560,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120755,
       "num": 120755,
       "word": "大连一水库出现成群黑色大鱼",
       "onboard_time": 1746895520,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119280,
+      "num": 149681,
+      "word": "刘诗诗淮水竹亭战损海报",
+      "onboard_time": 1746931941,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 119062,
@@ -585,6 +745,14 @@
       "onboard_time": 1746928581,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116780,
+      "num": 287576,
+      "word": "普京提议无条件重启俄乌谈判",
+      "onboard_time": 1746933080,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115306,
@@ -611,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114303,
+      "num": 114303,
+      "word": "6个台湾品牌被评为福建老字号",
+      "onboard_time": 1746934161,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113846,
       "num": 113846,
       "word": "AG发长文",
@@ -625,6 +801,14 @@
       "onboard_time": 1746929241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110292,
+      "num": 110292,
+      "word": "cp31",
+      "onboard_time": 1746932661,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 110003,
@@ -649,14 +833,6 @@
       "onboard_time": 1746927801,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104938,
-      "num": 131559,
-      "word": "素人晒与黄杨钿甜合照",
-      "onboard_time": 1746929001,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 103524,
@@ -835,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59411,
+      "num": 283832,
+      "word": "母亲节给妈妈消毒级安心守护",
+      "onboard_time": 1746932839,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59166,
       "num": 66778,
       "word": "0元get撕拉片",
@@ -899,12 +1083,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44948,
+      "num": 196939,
+      "word": "没人告诉我巨唐这么强盛啊",
+      "onboard_time": 1746932540,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44256,
       "num": 56748,
       "word": "王鹤棣压线逆风翻盘",
       "onboard_time": 1746898277,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43707,
+      "num": 283287,
+      "word": "哪些痣的特征可能预示着癌变风险",
+      "onboard_time": 1746933080,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42789,
@@ -1065,6 +1265,14 @@
       "onboard_time": 1746912854,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9789,
+      "num": 149533,
+      "word": "2024全球十大武器出口国排名",
+      "onboard_time": 1746934041,
+      "rank": 39,
+      "category": "军事,民生新闻"
     }
   ],
   "hotgov_list": [
