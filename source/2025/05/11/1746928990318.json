@@ -1,0 +1,410 @@
+{
+  "runTime": 1746928990318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 960210,
+        "num": 1153633,
+        "word": "工行疑似掺假金条检测结果为真金",
+        "onboard_time": 1746924021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524086,
+        "num": 524086,
+        "word": "母亲节文案大赏",
+        "onboard_time": 1746893241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12646,
+        "num": 490774,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1400765,
+        "num": 484514,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1746922940,
+        "rank": 3,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 599979,
+        "num": 481844,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470749,
+        "num": 470749,
+        "word": "艺人吃中国饭砸中国锅绝不容忍",
+        "onboard_time": 1746878722,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441115,
+        "num": 441115,
+        "word": "巴基斯坦总理发表全国讲话",
+        "onboard_time": 1746920538,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341599,
+        "num": 341599,
+        "word": "王楚钦生日妈妈的双向祝福",
+        "onboard_time": 1746923901,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138052,
+        "num": 341294,
+        "word": "郭晓婷回应客串淮水竹亭",
+        "onboard_time": 1746895460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70978,
+        "num": 340986,
+        "word": "加州州长再就关税批评特朗普政府",
+        "onboard_time": 1746925280,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1229366,
+        "num": 340510,
+        "word": "芒果的后期已经牛到这个地步了吗",
+        "onboard_time": 1746921018,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299184,
+        "num": 339907,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 754406,
+        "num": 339719,
+        "word": "陈赫回应把张子萱打码",
+        "onboard_time": 1746920659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568176,
+        "num": 338941,
+        "word": "放任女儿在优衣库大便爸爸道歉",
+        "onboard_time": 1746923301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452079,
+        "num": 338651,
+        "word": "聋哑司机偷拍女乘客视频配文低俗",
+        "onboard_time": 1746922460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369595,
+        "num": 338154,
+        "word": "李乃文遇游客撞脸张子枫",
+        "onboard_time": 1746919816,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337915,
+        "num": 337915,
+        "word": "退休夫妻月入1.2万负债1.2亿",
+        "onboard_time": 1746882142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333024,
+        "num": 333024,
+        "word": "吴昕主持人的含金量还在上升",
+        "onboard_time": 1746875663,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304993,
+        "num": 304993,
+        "word": "员工拒从广州调岗到云南怒江被开除",
+        "onboard_time": 1746927801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237980,
+        "num": 237980,
+        "word": "滴滴回应聋哑司机偷拍大量女乘客发上网",
+        "onboard_time": 1746926061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223188,
+        "num": 223188,
+        "word": "男孩患巨痣植入扩张器治疗",
+        "onboard_time": 1746927801,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188800,
+        "num": 188800,
+        "word": "胖都来征求名字建议",
+        "onboard_time": 1746927440,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185815,
+        "num": 185815,
+        "word": "大连西山水库惊现成群超大怪鱼",
+        "onboard_time": 1746890244,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174310,
+        "num": 174310,
+        "word": "普京提议15日恢复俄乌直接谈判",
+        "onboard_time": 1746924081,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 169707,
+        "word": "种地吧",
+        "onboard_time": 1746928581,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168301,
+        "num": 168301,
+        "word": "30件让妈妈嘴角上扬的暖心事",
+        "onboard_time": 1746922580,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164575,
+        "num": 164575,
+        "word": "印巴到底停没停火",
+        "onboard_time": 1746918737,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100084,
+        "num": 162002,
+        "word": "hi6后期把王星越当哪国人整啊",
+        "onboard_time": 1746926360,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96829,
+        "num": 161852,
+        "word": "哈妮克孜让丁真不要无所谓",
+        "onboard_time": 1746892581,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15312,
+        "num": 161791,
+        "word": "印度记者称他们会传播假新闻",
+        "onboard_time": 1746928401,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 161786,
+        "num": 161786,
+        "word": "钟丽缇自曝生三孩子经历",
+        "onboard_time": 1746919338,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147539,
+        "num": 147539,
+        "word": "章若楠浴巾撕拉片",
+        "onboard_time": 1746919577,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127360,
+        "num": 127360,
+        "word": "赵朔称基本确定悟空死因",
+        "onboard_time": 1746926241,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "印度分军种和巴基斯坦PK",
+        "onboard_time": 1746923481,
+        "rank": 33,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 119062,
+        "num": 119062,
+        "word": "你就是妈妈最好的礼物",
+        "onboard_time": 1746918558,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118362,
+        "num": 118362,
+        "word": "母亲节文案",
+        "onboard_time": 1746919218,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115306,
+        "num": 115306,
+        "word": "潘玮柏承认是露最多的一次",
+        "onboard_time": 1746926001,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110298,
+        "num": 110298,
+        "word": "母亲节",
+        "onboard_time": 1746919218,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89523,
+        "num": 108115,
+        "word": "李沐宸给足了刘奕畅情绪价值",
+        "onboard_time": 1746889405,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "WTT发文为王楚钦庆生",
+        "onboard_time": 1746925821,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34239,
+        "num": 107375,
+        "word": "指甲下长黑线当心黑色素瘤",
+        "onboard_time": 1746927561,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106845,
+        "num": 106845,
+        "word": "母亲节鲜花卖爆了",
+        "onboard_time": 1746928280,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105430,
+        "num": 105430,
+        "word": "王楚钦打台球有点天赋在身上",
+        "onboard_time": 1746927801,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101191,
+        "num": 101191,
+        "word": "雷军空降超话",
+        "onboard_time": 1746928581,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98290,
+        "num": 98290,
+        "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
+        "onboard_time": 1746895520,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95570,
+        "num": 95570,
+        "word": "有一种美好瞬间是叫妈有人回答",
+        "onboard_time": 1746924560,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94757,
+        "num": 94757,
+        "word": "葬礼墙体倒塌致3死亲历者发声",
+        "onboard_time": 1746924681,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90146,
+        "num": 90146,
+        "word": "黄圣依妈妈为了上节目半个月瘦8斤",
+        "onboard_time": 1746922460,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89307,
+        "num": 89307,
+        "word": "丁俊晖回应若赵心童先大满贯怎么办",
+        "onboard_time": 1746927801,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75033,
+        "num": 89224,
+        "word": "颜安 下镜",
+        "onboard_time": 1746885143,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首达成许多新的重要共识#"
+    }
+  }
+}
