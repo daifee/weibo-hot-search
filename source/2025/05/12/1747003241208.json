@@ -1,0 +1,410 @@
+{
+  "runTime": 1747003241208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 465034,
+        "num": 518849,
+        "word": "黄多多进军影视圈",
+        "onboard_time": 1746984077,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298133,
+        "num": 298133,
+        "word": "官方通报郑州夜市摊贩被收香烟事件",
+        "onboard_time": 1746977664,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 28078,
+        "num": 238100,
+        "word": "AI用60秒掠过她的半辈子",
+        "onboard_time": 1746974423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185245,
+        "num": 185245,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167240,
+        "num": 167240,
+        "word": "运20未向巴基斯坦运送救援物资",
+        "onboard_time": 1746979281,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160274,
+        "num": 160274,
+        "word": "疑因高反身亡男子3天前曾吸氧",
+        "onboard_time": 1746973524,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125967,
+        "num": 125967,
+        "word": "黄圣依妈妈在北京帮带孙子10年",
+        "onboard_time": 1746966381,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110910,
+        "num": 110910,
+        "word": "三问工行金条掺假事件",
+        "onboard_time": 1746970342,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 97263,
+        "num": 97263,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79737,
+        "num": 79737,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 206063,
+        "num": 79608,
+        "word": "小英怒斥小三",
+        "onboard_time": 1746962601,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189833,
+        "num": 79388,
+        "word": "港媒报道李凯馨",
+        "onboard_time": 1746975562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115206,
+        "num": 79120,
+        "word": "W女士要求蔡徐坤方赔礼道歉",
+        "onboard_time": 1746975623,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98920,
+        "num": 78948,
+        "word": "周杰伦晒昆凌与小女儿合照",
+        "onboard_time": 1746973042,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78872,
+        "num": 78872,
+        "word": "巴基斯坦人停车对偶遇的中国人欢呼",
+        "onboard_time": 1746969922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70336,
+        "num": 70336,
+        "word": "普通家庭从怀孕到娃10个月大",
+        "onboard_time": 1746969922,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68808,
+        "num": 68808,
+        "word": "罗云熙回应看张杰演唱会",
+        "onboard_time": 1746979340,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61646,
+        "num": 67836,
+        "word": "陈凯歌说卜冠今可以演疯子",
+        "onboard_time": 1746981680,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50243,
+        "num": 67589,
+        "word": "张馨予家被水淹了",
+        "onboard_time": 1746960741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49363,
+        "num": 67584,
+        "word": "淮水竹亭陪看变陪哭",
+        "onboard_time": 1746973283,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67579,
+        "num": 67579,
+        "word": "巴萨半场4比2皇马",
+        "onboard_time": 1746976584,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64820,
+        "num": 64820,
+        "word": "央视曝光健康证办理乱象",
+        "onboard_time": 1746974663,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62812,
+        "num": 62812,
+        "word": "原来这么干都是无效减重",
+        "onboard_time": 1746977124,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53710,
+        "num": 53710,
+        "word": "美国经济陷入衰退已成基本预期",
+        "onboard_time": 1746987315,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52971,
+        "num": 52971,
+        "word": "要减重每天睡足7小时",
+        "onboard_time": 1746982337,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45927,
+        "num": 45927,
+        "word": "72岁赵雅芝重游雷峰塔",
+        "onboard_time": 1747000816,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45113,
+        "num": 45113,
+        "word": "夫妻带双方母亲环游33国妻子发声",
+        "onboard_time": 1746997214,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44778,
+        "num": 44778,
+        "word": "张凌赫下水前问女生方不方便",
+        "onboard_time": 1746959902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42290,
+        "num": 42290,
+        "word": "武汉坐地铁公交可以抵扣房贷",
+        "onboard_time": 1746992235,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39873,
+        "num": 39873,
+        "word": "东方秦兰当妈妈了",
+        "onboard_time": 1746976941,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39526,
+        "num": 39526,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37326,
+        "num": 37326,
+        "word": "印巴剑拔弩张背后有何深层矛盾",
+        "onboard_time": 1746980540,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34685,
+        "num": 34685,
+        "word": "榴莲价格普降两到三成",
+        "onboard_time": 1746969922,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34170,
+        "num": 34170,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31137,
+        "num": 31137,
+        "word": "荔枝价格从7字头跌到4字头",
+        "onboard_time": 1746969862,
+        "rank": 34,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 31115,
+        "num": 31115,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30056,
+        "num": 30056,
+        "word": "张靓颖九万字",
+        "onboard_time": 1746976642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29983,
+        "num": 29983,
+        "word": "郑钦文vs弗莱彻",
+        "onboard_time": 1746981080,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29920,
+        "num": 29920,
+        "word": "妈宝女",
+        "onboard_time": 1746996434,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29889,
+        "num": 29889,
+        "word": "白桃星座",
+        "onboard_time": 1746975983,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27864,
+        "num": 29889,
+        "word": "学校偶遇森碟",
+        "onboard_time": 1746992774,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27562,
+        "num": 29887,
+        "word": "李秀满加场smtown",
+        "onboard_time": 1746977902,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26601,
+        "num": 29885,
+        "word": "月薪6千过出2万的生活质量",
+        "onboard_time": 1746964341,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23673,
+        "num": 29884,
+        "word": "国家德比",
+        "onboard_time": 1746970762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22924,
+        "num": 29881,
+        "word": "厦门机场偶遇李荣浩杨丞琳",
+        "onboard_time": 1747002196,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21832,
+        "num": 29881,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 29880,
+        "word": "利物浦vs阿森纳",
+        "onboard_time": 1746982337,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19258,
+        "num": 29878,
+        "word": "张杰感谢你们12场的陪伴",
+        "onboard_time": 1746984016,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18392,
+        "num": 29877,
+        "word": "赵丽颖粉发",
+        "onboard_time": 1746979400,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17294,
+        "num": 29874,
+        "word": "95花撕拉片",
+        "onboard_time": 1746977962,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

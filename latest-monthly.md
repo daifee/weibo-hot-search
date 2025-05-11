@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/12 06:23:13
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/12 06:40:41
 </p>
 </blockquote>
 <p>
@@ -4539,6 +4539,12 @@ aespa 不回归（热度：483954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E8%BF%9B%E5%86%9B%E5%BD%B1%E8%A7%86%E5%9C%88%23" target="weibo">
+黄多多进军影视圈（热度：465034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E9%9B%B6%E5%94%AE%E5%95%86%E5%81%9C%E6%AD%A2%E5%90%91%E7%BE%8E%E5%8F%91%E8%B4%A7%23" target="weibo">
 多国零售商停止向美发货（热度：464342）
 </a>
@@ -6005,12 +6011,6 @@ ddg 黄子弘凡（热度：368438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E9%99%88%E9%83%BD%E7%81%B5%E5%90%8C%E6%A1%86%23" target="weibo">
 于适陈都灵同框（热度：361092）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2025%E9%9F%B3%E4%B9%90%E5%90%88%E4%BC%99%E4%BA%BA%E5%AE%98%E5%AE%A3%23" target="weibo">
-歌手2025音乐合伙人官宣（热度：361042）
 </a>
 </li>
 

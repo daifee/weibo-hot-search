@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747002193970,
+  "endTime": 1747003241208,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465034,
+      "num": 518849,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 456629,
       "num": 456629,
       "word": "王楚钦说带着妈妈的祝愿奔向太阳",
@@ -809,14 +817,6 @@
       "onboard_time": 1746975983,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334034,
-      "num": 403515,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 327695,
@@ -3235,6 +3235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79737,
+      "num": 79737,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 78991,
       "num": 285822,
       "word": "一生对妈妈说的话浓缩在这30秒里",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73269,
-      "num": 73269,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 72547,
@@ -3483,6 +3483,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53710,
+      "num": 53710,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53077,
       "num": 53077,
       "word": "王鹤棣今天就把话放这",
@@ -3571,11 +3579,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45927,
+      "num": 64681,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45343,
       "num": 247705,
       "word": "为啥以前结婚得带户口本",
       "onboard_time": 1746934280,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45113,
+      "num": 45113,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3635,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42290,
+      "num": 42290,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42250,
       "num": 157470,
       "word": "四姑娘山镇卫生院回应游客因高反身亡",
@@ -3683,14 +3715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37145,
-      "num": 37145,
-      "word": "美国经济陷入衰退已成基本预期",
-      "onboard_time": 1746987315,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36627,
       "num": 709835,
       "word": "神二十航天员vlog上新",
@@ -3704,14 +3728,6 @@
       "word": "特教妈妈用19年托举281个家庭",
       "onboard_time": 1746943881,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35485,
-      "num": 31521,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3779,14 +3795,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 29834,
-      "num": 29834,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29187,
       "num": 349404,
       "word": "母亲节和妈妈聊聊HPV预防",
@@ -3825,6 +3833,22 @@
       "onboard_time": 1746869121,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28078,
+      "num": 238100,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27864,
+      "num": 29889,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 27307,
@@ -3899,14 +3923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24297,
-      "num": 64681,
-      "word": "72岁赵雅芝重游雷峰塔",
-      "onboard_time": 1747000816,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24250,
       "num": 152937,
       "word": "当年多么辛酸现在就有多风光",
@@ -3931,20 +3947,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23834,
-      "num": 160447,
-      "word": "AI用60秒掠过她的半辈子",
-      "onboard_time": 1746974423,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23486,
       "num": 189701,
       "word": "印媒舆论战未忽悠到西方媒体",
       "onboard_time": 1746941063,
       "rank": 29,
       "category": "海外新闻,议题讨论"
+    },
+    {
+      "raw_hot": 22924,
+      "num": 29881,
+      "word": "厦门机场偶遇李荣浩杨丞琳",
+      "onboard_time": 1747002196,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 22584,
@@ -3961,14 +3977,6 @@
       "onboard_time": 1746948501,
       "rank": 29,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 21880,
-      "num": 22830,
-      "word": "学校偶遇森碟",
-      "onboard_time": 1746992774,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 21699,

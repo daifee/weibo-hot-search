@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747002193970,
+  "endTime": 1747003241208,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -33,6 +33,14 @@
       "onboard_time": 1746973524,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465034,
+      "num": 518849,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 428999,
@@ -89,14 +97,6 @@
       "onboard_time": 1746973042,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334034,
-      "num": 403515,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 328889,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110910,
+      "num": 110910,
+      "word": "三问工行金条掺假事件",
+      "onboard_time": 1746970342,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 99400,
       "num": 99400,
       "word": "原来这么干都是无效减重",
@@ -315,12 +323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77492,
-      "num": 77492,
-      "word": "三问工行金条掺假事件",
-      "onboard_time": 1746970342,
-      "rank": 40,
-      "category": "舆论监督"
+      "raw_hot": 79737,
+      "num": 79737,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 76303,
@@ -345,14 +353,6 @@
       "onboard_time": 1746963502,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73269,
-      "num": 73269,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 72948,
@@ -467,6 +467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 53710,
+      "num": 53710,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53077,
       "num": 53077,
       "word": "王鹤棣今天就把话放这",
@@ -491,6 +499,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45927,
+      "num": 64681,
+      "word": "72岁赵雅芝重游雷峰塔",
+      "onboard_time": 1747000816,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45113,
+      "num": 45113,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42717,
       "num": 42717,
       "word": "杨紫唱出对妈妈的爱",
@@ -499,19 +523,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37145,
-      "num": 37145,
-      "word": "美国经济陷入衰退已成基本预期",
-      "onboard_time": 1746987315,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 35485,
-      "num": 31521,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
+      "raw_hot": 42290,
+      "num": 42290,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -523,12 +539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29834,
-      "num": 29834,
-      "word": "武汉坐地铁公交可以抵扣房贷",
-      "onboard_time": 1746992235,
-      "rank": 36,
+      "raw_hot": 28078,
+      "num": 238100,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27864,
+      "num": 29889,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 26121,
@@ -547,27 +571,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24297,
-      "num": 64681,
-      "word": "72岁赵雅芝重游雷峰塔",
-      "onboard_time": 1747000816,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23834,
-      "num": 160447,
-      "word": "AI用60秒掠过她的半辈子",
-      "onboard_time": 1746974423,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21880,
-      "num": 22830,
-      "word": "学校偶遇森碟",
-      "onboard_time": 1746992774,
-      "rank": 24,
+      "raw_hot": 22924,
+      "num": 29881,
+      "word": "厦门机场偶遇李荣浩杨丞琳",
+      "onboard_time": 1747002196,
+      "rank": 44,
       "category": "艺人"
     },
     {
