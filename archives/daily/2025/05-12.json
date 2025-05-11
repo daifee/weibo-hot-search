@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746998520776,
+  "endTime": 1746999377111,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -523,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21507,
+      "num": 21507,
+      "word": "妈宝女",
+      "onboard_time": 1746996434,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21271,
       "num": 26538,
       "word": "杨博文写信祝妈妈母亲节快乐",
@@ -556,19 +564,11 @@
     },
     {
       "raw_hot": 17524,
-      "num": 17524,
+      "num": 19749,
       "word": "学校偶遇森碟",
       "onboard_time": 1746992774,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16044,
-      "num": 16044,
-      "word": "妈宝女",
-      "onboard_time": 1746996434,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15961,
@@ -579,11 +579,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 14610,
-      "num": 16041,
+      "raw_hot": 15420,
+      "num": 19737,
       "word": "武汉坐地铁公交可以抵扣房贷",
       "onboard_time": 1746992235,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15142,
+      "num": 19734,
+      "word": "夫妻带双方母亲环游33国妻子发声",
+      "onboard_time": 1746997214,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -592,14 +600,6 @@
       "word": "AI用60秒掠过她的半辈子",
       "onboard_time": 1746974423,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13088,
-      "num": 16034,
-      "word": "夫妻带双方母亲环游33国妻子发声",
-      "onboard_time": 1746997214,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 12955,
-      "num": 16024,
+      "num": 19692,
       "word": "勿忘人间真情",
       "onboard_time": 1746992353,
       "rank": 48,
