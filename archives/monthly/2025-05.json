@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746988288952,
+  "endTime": 1746989080655,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -39555,6 +39555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25030,
+      "num": 25030,
+      "word": "吉克隽逸太阳的女儿演唱会",
+      "onboard_time": 1746988514,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24984,
       "num": 225172,
       "word": "认识自己比努力更重要",
@@ -42185,6 +42193,14 @@
       "onboard_time": 1746343881,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7738,
+      "num": 84896,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7401,

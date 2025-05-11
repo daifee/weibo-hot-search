@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/12 00:28:53 ~ 2025/05/12 02:31:28
+本榜单时间：2025/05/12 00:28:53 ~ 2025/05/12 02:44:40
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ W女士要求蔡徐坤方赔礼道歉（热度：388110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%A4%AA%E9%98%B3%E7%9A%84%E5%A5%B3%E5%84%BF%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+吉克隽逸太阳的女儿演唱会（热度：25030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%86%99%E4%BF%A1%E7%A5%9D%E5%A6%88%E5%A6%88%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
 杨博文写信祝妈妈母亲节快乐（热度：21271）
 </a>
@@ -413,6 +419,12 @@ W女士要求蔡徐坤方赔礼道歉（热度：388110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E5%AE%98%E6%91%84%E8%88%9E%E5%8F%B0%E5%A4%AA%E7%88%BD%E4%BA%86%23" target="weibo">
 张泽禹官摄舞台太爽了（热度：19570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%94%A860%E7%A7%92%E6%8E%A0%E8%BF%87%E5%A5%B9%E7%9A%84%E5%8D%8A%E8%BE%88%E5%AD%90%23" target="weibo">
+AI用60秒掠过她的半辈子（热度：7738）
 </a>
 </li>
 

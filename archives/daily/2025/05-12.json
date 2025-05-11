@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746988288952,
+  "endTime": 1746989080655,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -507,6 +507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 25030,
+      "num": 25030,
+      "word": "吉克隽逸太阳的女儿演唱会",
+      "onboard_time": 1746988514,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21271,
       "num": 26538,
       "word": "杨博文写信祝妈妈母亲节快乐",
@@ -537,6 +545,14 @@
       "onboard_time": 1746988217,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7738,
+      "num": 84896,
+      "word": "AI用60秒掠过她的半辈子",
+      "onboard_time": 1746974423,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

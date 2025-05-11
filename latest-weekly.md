@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/11 00:28:59 ~ 2025/05/12 02:31:28
+本榜单时间：2025/05/11 00:28:59 ~ 2025/05/12 02:44:40
 </p>
 </blockquote>
 <p>
@@ -2889,6 +2889,12 @@ DRG的故事才刚刚开始（热度：69169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E5%A4%AA%E9%98%B3%E7%9A%84%E5%A5%B3%E5%84%BF%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+吉克隽逸太阳的女儿演唱会（热度：25030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%E6%97%B6%E8%97%8F%E7%9D%80%E7%88%B1%23" target="weibo">
 中国军人挥手告别时藏着爱（热度：24910）
 </a>
@@ -3107,6 +3113,12 @@ CNN疯狂输出印度（热度：21957）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E6%92%95%E6%8B%89%E7%89%87%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E6%8A%A2%E6%89%8B%23" target="weibo">
 明星同款撕拉片为何如此抢手（热度：10165）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%94%A860%E7%A7%92%E6%8E%A0%E8%BF%87%E5%A5%B9%E7%9A%84%E5%8D%8A%E8%BE%88%E5%AD%90%23" target="weibo">
+AI用60秒掠过她的半辈子（热度：7738）
 </a>
 </li>
 
