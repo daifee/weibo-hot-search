@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746973361258,
+  "endTime": 1746974424432,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1827568,
-      "num": 332715,
+      "num": 422351,
       "word": "小英怒斥小三",
       "onboard_time": 1746962601,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1171885,
-      "num": 327186,
+      "num": 416033,
       "word": "杨子女儿伯克利音乐学院毕业",
       "onboard_time": 1746968362,
       "rank": 46,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 732652,
-      "num": 326189,
+      "num": 396666,
       "word": "月薪6千过出2万的生活质量",
       "onboard_time": 1746964341,
       "rank": 11,
@@ -273,6 +273,14 @@
       "onboard_time": 1746877581,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 680075,
+      "num": 398327,
+      "word": "W女士发声明称蔡徐坤方造谣",
+      "onboard_time": 1746971481,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 675961,
@@ -329,6 +337,14 @@
       "onboard_time": 1746966381,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606819,
+      "num": 606819,
+      "word": "荔枝价格从7字头跌到4字头",
+      "onboard_time": 1746969862,
+      "rank": 24,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 592022,
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464547,
-      "num": 464547,
-      "word": "荔枝价格从7字头跌到4字头",
-      "onboard_time": 1746969862,
-      "rank": 24,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 456629,
       "num": 456629,
       "word": "王楚钦说带着妈妈的祝愿奔向太阳",
@@ -531,20 +539,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 440031,
+      "num": 440031,
+      "word": "三问工行金条掺假事件",
+      "onboard_time": 1746970342,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 434363,
       "num": 434363,
       "word": "淮水竹亭直播",
       "onboard_time": 1746971061,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 433364,
-      "num": 324013,
-      "word": "W女士发声明称蔡徐坤方造谣",
-      "onboard_time": 1746971481,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 427329,
@@ -691,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 337561,
+      "num": 337561,
+      "word": "吴宣仪翟潇闻撕拉片",
+      "onboard_time": 1746972023,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327695,
       "num": 262328,
       "word": "许多印度人开始囤积性抢购",
@@ -771,20 +787,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 309261,
-      "num": 309261,
-      "word": "三问工行金条掺假事件",
-      "onboard_time": 1746970342,
-      "rank": 33,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
       "onboard_time": 1746938300,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305415,
+      "num": 305415,
+      "word": "周杰伦晒昆凌与小女儿合照",
+      "onboard_time": 1746973042,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "丁禹兮直播",
+      "onboard_time": 1746972263,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 300574,
@@ -817,6 +841,14 @@
       "onboard_time": 1746888923,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291474,
+      "num": 291474,
+      "word": "淮水竹亭陪看变陪哭",
+      "onboard_time": 1746973283,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 284003,
@@ -931,19 +963,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247799,
+      "num": 296241,
+      "word": "疑因高反身亡男子3天前曾吸氧",
+      "onboard_time": 1746973524,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244145,
       "num": 244145,
       "word": "素人晒与黄杨钿甜合照",
       "onboard_time": 1746929001,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244023,
-      "num": 244023,
-      "word": "吴宣仪翟潇闻撕拉片",
-      "onboard_time": 1746972023,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1072,14 +1104,6 @@
       "word": "邓超母亲节陪妈妈遛弯儿",
       "onboard_time": 1746931222,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213699,
-      "num": 213699,
-      "word": "丁禹兮直播",
-      "onboard_time": 1746972263,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1235,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199576,
+      "num": 429813,
+      "word": "我国成功发射遥感四十号02组卫星",
+      "onboard_time": 1746973164,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199370,
       "num": 199370,
       "word": "吞海广播剧",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1746972263,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 193456,
+      "num": 193456,
+      "word": "张杰敖丙我们是朋友了",
+      "onboard_time": 1746973164,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 193287,
@@ -1435,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177092,
+      "num": 177092,
+      "word": "左航母亲节发文",
+      "onboard_time": 1746973943,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176838,
       "num": 176838,
       "word": "利路修 综艺",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1746965900,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164823,
+      "num": 319153,
+      "word": "来伊份粽子被指吃出带血创可贴",
+      "onboard_time": 1746971903,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161786,
@@ -1715,14 +1771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152814,
-      "num": 155507,
-      "word": "我国成功发射遥感四十号02组卫星",
-      "onboard_time": 1746973164,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152774,
       "num": 152774,
       "word": "鹿晗四巡新乐器",
@@ -1857,14 +1905,6 @@
       "onboard_time": 1746948862,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142824,
-      "num": 156917,
-      "word": "张杰敖丙我们是朋友了",
-      "onboard_time": 1746973164,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 142047,
@@ -2003,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137967,
+      "num": 137967,
+      "word": "国家德比",
+      "onboard_time": 1746970762,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137236,
       "num": 137236,
       "word": "时代少年团加冠礼演唱会",
@@ -2089,22 +2137,6 @@
       "onboard_time": 1746888803,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134417,
-      "num": 134417,
-      "word": "周杰伦晒昆凌与小女儿合照",
-      "onboard_time": 1746973042,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134339,
-      "num": 134339,
-      "word": "国家德比",
-      "onboard_time": 1746970762,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 133989,
@@ -2211,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127588,
-      "num": 127588,
-      "word": "淮水竹亭陪看变陪哭",
-      "onboard_time": 1746973283,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127529,
       "num": 139501,
       "word": "世界防治肥胖日",
@@ -2265,6 +2289,14 @@
       "onboard_time": 1746966620,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125040,
+      "num": 125040,
+      "word": "武汉三镇2比2大连英博",
+      "onboard_time": 1746973702,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 123977,
@@ -2427,6 +2459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116079,
+      "num": 116079,
+      "word": "杭州偶遇章若楠逛街",
+      "onboard_time": 1746974183,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115777,
       "num": 182350,
       "word": "佟丽娅和谢娜鸟巢碰面成功",
@@ -2531,6 +2571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111448,
+      "num": 316759,
+      "word": "动物园成立卡皮巴拉抓捕专班",
+      "onboard_time": 1746972563,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110527,
+      "num": 110527,
+      "word": "下馆子后为什么特别渴",
+      "onboard_time": 1746972443,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110477,
       "num": 113789,
       "word": "在试卷上看到王安宇了",
@@ -2544,6 +2600,14 @@
       "word": "许嵩的梗已经进化到英文了",
       "onboard_time": 1746963261,
       "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110350,
+      "num": 110350,
+      "word": "内娱女团海外音乐节舞台好争气",
+      "onboard_time": 1746973283,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -2675,28 +2739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99405,
-      "num": 99405,
-      "word": "内娱女团海外音乐节舞台好争气",
-      "onboard_time": 1746973283,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97929,
       "num": 214255,
       "word": "中方绝不会牺牲原则立场与美达成协议",
       "onboard_time": 1746918857,
       "rank": 12,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 97491,
-      "num": 316759,
-      "word": "动物园成立卡皮巴拉抓捕专班",
-      "onboard_time": 1746972563,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96416,
@@ -2987,14 +3035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63686,
-      "num": 319153,
-      "word": "来伊份粽子被指吃出带血创可贴",
-      "onboard_time": 1746971903,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62234,
       "num": 116837,
       "word": "歼10给妈妈的一封信",
@@ -3163,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44483,
+      "num": 175533,
+      "word": "90后夫妻带双方母亲环游33国",
+      "onboard_time": 1746972863,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44256,
       "num": 56748,
       "word": "王鹤棣压线逆风翻盘",
@@ -3281,14 +3329,6 @@
       "onboard_time": 1746896239,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32828,
-      "num": 156086,
-      "word": "90后夫妻带双方母亲环游33国",
-      "onboard_time": 1746972863,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32372,
@@ -3664,6 +3704,9 @@
     },
     {
       "word": "#谁言寸草心报得三春晖#"
+    },
+    {
+      "word": "#领航战略协作共促世界和平#"
     }
   ]
 }
