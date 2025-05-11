@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746934245406,
+  "endTime": 1746935151221,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157224,
+      "num": 286465,
+      "word": "60岁失独母亲冒死生下双胞胎女儿",
+      "onboard_time": 1746931041,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -48,14 +56,6 @@
       "word": "工行疑似掺假金条检测结果为真金",
       "onboard_time": 1746924021,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 882076,
-      "num": 286465,
-      "word": "60岁失独母亲冒死生下双胞胎女儿",
-      "onboard_time": 1746931041,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466636,
+      "num": 466636,
+      "word": "印巴为何停火",
+      "onboard_time": 1746930681,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452079,
       "num": 338651,
       "word": "聋哑司机偷拍女乘客视频配文低俗",
@@ -203,8 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355162,
-      "num": 355162,
+      "raw_hot": 366729,
+      "num": 366729,
       "word": "刘奕畅承认自己戏不行",
       "onboard_time": 1746930501,
       "rank": 4,
@@ -227,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337472,
-      "num": 337472,
-      "word": "印巴为何停火",
-      "onboard_time": 1746930681,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 327695,
       "num": 262328,
       "word": "许多印度人开始囤积性抢购",
@@ -249,6 +249,14 @@
       "onboard_time": 1746882801,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311883,
+      "num": 246943,
+      "word": "原来这就是冷泡茶",
+      "onboard_time": 1746933202,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 298854,
@@ -283,6 +291,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 270602,
+      "num": 245170,
+      "word": "狗狗去宠物店洗澡被误以为很脏",
+      "onboard_time": 1746933501,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258036,
+      "num": 258036,
+      "word": "肖战藏海传期待无需多言",
+      "onboard_time": 1746933861,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255711,
       "num": 490427,
       "word": "广州大雨下不停",
@@ -305,6 +329,14 @@
       "onboard_time": 1746868222,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244145,
+      "num": 244145,
+      "word": "素人晒与黄杨钿甜合照",
+      "onboard_time": 1746929001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 243966,
@@ -339,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226189,
-      "num": 226189,
-      "word": "素人晒与黄杨钿甜合照",
-      "onboard_time": 1746929001,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223188,
       "num": 223188,
       "word": "男孩患巨痣植入扩张器治疗",
@@ -371,6 +395,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214593,
+      "num": 283563,
+      "word": "邓超母亲节陪妈妈遛弯儿",
+      "onboard_time": 1746931222,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213330,
+      "num": 213330,
+      "word": "森林狼vs勇士",
+      "onboard_time": 1746929062,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208003,
+      "num": 205325,
+      "word": "王一博感谢妈妈支持他的兴趣爱好",
+      "onboard_time": 1746934161,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206072,
       "num": 284259,
       "word": "丁禹兮战损海报",
@@ -379,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205850,
-      "num": 196708,
-      "word": "原来这就是冷泡茶",
-      "onboard_time": 1746933202,
+      "raw_hot": 205357,
+      "num": 205357,
+      "word": "张杰回复黄霄雲",
+      "onboard_time": 1746934761,
       "rank": 30,
-      "category": "幽默"
+      "category": "演出"
+    },
+    {
+      "raw_hot": 204882,
+      "num": 204882,
+      "word": "旅行是年轻人最好的医美",
+      "onboard_time": 1746934401,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 204830,
@@ -395,36 +451,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202677,
-      "num": 197089,
-      "word": "森林狼vs勇士",
-      "onboard_time": 1746929062,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201790,
-      "num": 201790,
+      "num": 205741,
       "word": "周震南一秒认出A班班服",
       "onboard_time": 1746933440,
       "rank": 24,
       "category": "综艺"
     },
     {
-      "raw_hot": 197732,
-      "num": 197732,
-      "word": "肖战藏海传期待无需多言",
-      "onboard_time": 1746933861,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 192976,
+      "num": 287576,
+      "word": "普京提议无条件重启俄乌谈判",
+      "onboard_time": 1746933080,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 196488,
-      "num": 196488,
-      "word": "王一博感谢妈妈支持他的兴趣爱好",
-      "onboard_time": 1746934161,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 192527,
+      "num": 192527,
+      "word": "赵朔称基本确定悟空死因",
+      "onboard_time": 1746926241,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188800,
@@ -459,28 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178469,
-      "num": 178469,
-      "word": "赵朔称基本确定悟空死因",
-      "onboard_time": 1746926241,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "母亲节礼物",
       "onboard_time": 1746933741,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176658,
-      "num": 176658,
-      "word": "狗狗去宠物店洗澡被误以为很脏",
-      "onboard_time": 1746933501,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 176141,
@@ -515,6 +547,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167712,
+      "num": 167712,
+      "word": "花海 反方向的钟",
+      "onboard_time": 1746931641,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162027,
+      "num": 162027,
+      "word": "叶童说我是特别的怎么都好看",
+      "onboard_time": 1746934580,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -531,8 +579,24 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159927,
+      "num": 159927,
+      "word": "6个台湾品牌被评为福建老字号",
+      "onboard_time": 1746934161,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "任嘉伦说张艺兴好样的",
+      "onboard_time": 1746931222,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155183,
-      "num": 197709,
+      "num": 205549,
       "word": "刘亦菲这段话说出了妈妈的心声",
       "onboard_time": 1746930442,
       "rank": 26,
@@ -545,14 +609,6 @@
       "onboard_time": 1746929781,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149405,
-      "num": 149405,
-      "word": "花海 反方向的钟",
-      "onboard_time": 1746931641,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 147539,
@@ -579,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145530,
-      "num": 145530,
-      "word": "任嘉伦说张艺兴好样的",
-      "onboard_time": 1746931222,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139200,
       "num": 161852,
       "word": "哈妮克孜让丁真不要无所谓",
@@ -609,6 +657,14 @@
       "onboard_time": 1746889161,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134877,
+      "num": 134877,
+      "word": "14岁印度小孩哥让记者噎住",
+      "onboard_time": 1746932720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134553,
@@ -659,12 +715,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126819,
-      "num": 283563,
-      "word": "邓超母亲节陪妈妈遛弯儿",
-      "onboard_time": 1746931222,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 128377,
+      "num": 128377,
+      "word": "王鹤棣范世錡零帧起手跳九万字",
+      "onboard_time": 1746934821,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126691,
@@ -681,14 +737,6 @@
       "onboard_time": 1746880882,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126234,
-      "num": 126234,
-      "word": "14岁印度小孩哥让记者噎住",
-      "onboard_time": 1746932720,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123977,
@@ -747,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116780,
-      "num": 287576,
-      "word": "普京提议无条件重启俄乌谈判",
-      "onboard_time": 1746933080,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115306,
       "num": 115306,
       "word": "潘玮柏承认是露最多的一次",
@@ -777,14 +817,6 @@
       "onboard_time": 1746893182,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114303,
-      "num": 114303,
-      "word": "6个台湾品牌被评为福建老字号",
-      "onboard_time": 1746934161,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113846,
@@ -899,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95213,
+      "num": 205360,
+      "word": "巴铁女英雄贾米洛一战封神",
+      "onboard_time": 1746934880,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94836,
       "num": 94836,
       "word": "没药花园谈小猫悟空事件",
@@ -961,6 +1001,14 @@
       "onboard_time": 1746916756,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85130,
+      "num": 156470,
+      "word": "巴方否认违反停火协议",
+      "onboard_time": 1746935120,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83257,
@@ -1083,12 +1131,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45343,
+      "num": 247705,
+      "word": "为啥以前结婚得带户口本",
+      "onboard_time": 1746934280,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44948,
       "num": 196939,
       "word": "没人告诉我巨唐这么强盛啊",
       "onboard_time": 1746932540,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44496,
+      "num": 156204,
+      "word": "2024全球十大武器出口国排名",
+      "onboard_time": 1746934041,
+      "rank": 39,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 44256,
@@ -1267,12 +1331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9789,
-      "num": 149533,
-      "word": "2024全球十大武器出口国排名",
-      "onboard_time": 1746934041,
-      "rank": 39,
-      "category": "军事,民生新闻"
+      "raw_hot": 6965,
+      "num": 465909,
+      "word": "老外难逃中国品牌真香定律",
+      "onboard_time": 1746935120,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

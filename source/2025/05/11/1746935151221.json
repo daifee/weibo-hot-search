@@ -1,0 +1,410 @@
+{
+  "runTime": 1746935151221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740084,
+        "num": 1118413,
+        "word": "工行疑似掺假金条检测结果为真金",
+        "onboard_time": 1746924021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466636,
+        "num": 466636,
+        "word": "印巴为何停火",
+        "onboard_time": 1746930681,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6965,
+        "num": 465909,
+        "word": "老外难逃中国品牌真香定律",
+        "onboard_time": 1746935120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465896,
+        "num": 465896,
+        "word": "母亲节文案大赏",
+        "onboard_time": 1746893241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423753,
+        "num": 423753,
+        "word": "中美谈判",
+        "onboard_time": 1746877581,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366729,
+        "num": 366729,
+        "word": "刘奕畅承认自己戏不行",
+        "onboard_time": 1746930501,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343848,
+        "num": 343848,
+        "word": "母亲节鲜花卖爆了",
+        "onboard_time": 1746928280,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310341,
+        "num": 310341,
+        "word": "艺人吃中国饭砸中国锅绝不容忍",
+        "onboard_time": 1746878722,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259391,
+        "num": 259391,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258036,
+        "num": 258036,
+        "word": "肖战藏海传期待无需多言",
+        "onboard_time": 1746933861,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1157224,
+        "num": 257973,
+        "word": "60岁失独母亲冒死生下双胞胎女儿",
+        "onboard_time": 1746931041,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1129746,
+        "num": 256529,
+        "word": "芒果的后期已经牛到这个地步了吗",
+        "onboard_time": 1746921018,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8106,
+        "num": 255716,
+        "word": "6组数据感受中国外贸韧性",
+        "onboard_time": 1746869121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973686,
+        "num": 254505,
+        "word": "麒麟 王楚钦",
+        "onboard_time": 1746922940,
+        "rank": 13,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 192976,
+        "num": 253612,
+        "word": "普京提议无条件重启俄乌谈判",
+        "onboard_time": 1746933080,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 599037,
+        "num": 251880,
+        "word": "陈赫回应把张子萱打码",
+        "onboard_time": 1746920659,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328422,
+        "num": 251542,
+        "word": "聋哑司机偷拍女乘客视频配文低俗",
+        "onboard_time": 1746922460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324107,
+        "num": 250443,
+        "word": "放任女儿在优衣库大便爸爸道歉",
+        "onboard_time": 1746923301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49151,
+        "num": 248634,
+        "word": "母亲节给妈妈消毒级安心守护",
+        "onboard_time": 1746932839,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45343,
+        "num": 247705,
+        "word": "为啥以前结婚得带户口本",
+        "onboard_time": 1746934280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311883,
+        "num": 246943,
+        "word": "原来这就是冷泡茶",
+        "onboard_time": 1746933202,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280177,
+        "num": 246052,
+        "word": "员工拒从广州调岗到云南怒江被开除",
+        "onboard_time": 1746927801,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270602,
+        "num": 245170,
+        "word": "狗狗去宠物店洗澡被误以为很脏",
+        "onboard_time": 1746933501,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244145,
+        "num": 244145,
+        "word": "素人晒与黄杨钿甜合照",
+        "onboard_time": 1746929001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229588,
+        "num": 229588,
+        "word": "李乃文遇游客撞脸张子枫",
+        "onboard_time": 1746919816,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229375,
+        "num": 229375,
+        "word": "巴基斯坦总理发表全国讲话",
+        "onboard_time": 1746920538,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213330,
+        "num": 213330,
+        "word": "森林狼vs勇士",
+        "onboard_time": 1746929062,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179723,
+        "num": 205741,
+        "word": "周震南一秒认出A班班服",
+        "onboard_time": 1746933440,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151645,
+        "num": 205549,
+        "word": "刘亦菲这段话说出了妈妈的心声",
+        "onboard_time": 1746930442,
+        "rank": 28,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 95213,
+        "num": 205360,
+        "word": "巴铁女英雄贾米洛一战封神",
+        "onboard_time": 1746934880,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205357,
+        "num": 205357,
+        "word": "张杰回复黄霄雲",
+        "onboard_time": 1746934761,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214593,
+        "num": 205348,
+        "word": "邓超母亲节陪妈妈遛弯儿",
+        "onboard_time": 1746931222,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208003,
+        "num": 205325,
+        "word": "王一博感谢妈妈支持他的兴趣爱好",
+        "onboard_time": 1746934161,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204882,
+        "num": 204882,
+        "word": "旅行是年轻人最好的医美",
+        "onboard_time": 1746934401,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 192527,
+        "word": "赵朔称基本确定悟空死因",
+        "onboard_time": 1746926241,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167712,
+        "num": 167712,
+        "word": "花海 反方向的钟",
+        "onboard_time": 1746931641,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162027,
+        "num": 162027,
+        "word": "叶童说我是特别的怎么都好看",
+        "onboard_time": 1746934580,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159927,
+        "num": 159927,
+        "word": "6个台湾品牌被评为福建老字号",
+        "onboard_time": 1746934161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85130,
+        "num": 156470,
+        "word": "巴方否认违反停火协议",
+        "onboard_time": 1746935120,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44496,
+        "num": 156204,
+        "word": "2024全球十大武器出口国排名",
+        "onboard_time": 1746934041,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 156005,
+        "num": 156005,
+        "word": "任嘉伦说张艺兴好样的",
+        "onboard_time": 1746931222,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145596,
+        "num": 145596,
+        "word": "胖都来征求名字建议",
+        "onboard_time": 1746927440,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142626,
+        "num": 142626,
+        "word": "母亲节礼物",
+        "onboard_time": 1746933741,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 142076,
+        "word": "丁禹兮战损海报",
+        "onboard_time": 1746933440,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134877,
+        "num": 134877,
+        "word": "14岁印度小孩哥让记者噎住",
+        "onboard_time": 1746932720,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132158,
+        "num": 132158,
+        "word": "王楚钦生日妈妈的双向祝福",
+        "onboard_time": 1746923901,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128377,
+        "num": 128377,
+        "word": "王鹤棣范世錡零帧起手跳九万字",
+        "onboard_time": 1746934821,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 122890,
+        "word": "退休夫妻月入1.2万负债1.2亿",
+        "onboard_time": 1746882142,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122428,
+        "num": 122428,
+        "word": "男孩患巨痣植入扩张器治疗",
+        "onboard_time": 1746927801,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109159,
+        "num": 116285,
+        "word": "刘诗诗淮水竹亭战损海报",
+        "onboard_time": 1746931941,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平圆满结束对俄罗斯国事访问#"
+    }
+  }
+}
