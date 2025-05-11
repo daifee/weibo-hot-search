@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746991148900,
+  "endTime": 1746992165119,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -4161,6 +4161,14 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9830,
+      "num": 36926,
+      "word": "30秒道尽一辈子对妈妈说的话",
+      "onboard_time": 1746991514,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
