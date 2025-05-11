@@ -1,0 +1,410 @@
+{
+  "runTime": 1746968437230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933111,
+        "num": 1149297,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612772,
+        "num": 612772,
+        "word": "黄圣依妈妈在北京帮带孙子10年",
+        "onboard_time": 1746966381,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37308,
+        "num": 607141,
+        "word": "这只瓶子上藏着对妈妈的爱",
+        "onboard_time": 1746955221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604770,
+        "num": 604770,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 568963,
+        "num": 568963,
+        "word": "张馨予家被水淹了",
+        "onboard_time": 1746960741,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341482,
+        "num": 341482,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352622,
+        "num": 337346,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291214,
+        "num": 291214,
+        "word": "张凌赫下水前问女生方不方便",
+        "onboard_time": 1746959902,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 91351,
+        "num": 270564,
+        "word": "用特朗普智能体分析美方谈判策略",
+        "onboard_time": 1746967042,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1644556,
+        "num": 269943,
+        "word": "小英怒斥小三",
+        "onboard_time": 1746962601,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367909,
+        "num": 269557,
+        "word": "月薪6千过出2万的生活质量",
+        "onboard_time": 1746964341,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268742,
+        "num": 268742,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239988,
+        "num": 239988,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204718,
+        "num": 204718,
+        "word": "75万采购路由器中标方参保人数0",
+        "onboard_time": 1746960681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202819,
+        "num": 202819,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 202222,
+        "word": "德容变形记",
+        "onboard_time": 1746961941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174821,
+        "num": 199569,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72079,
+        "num": 198203,
+        "word": "减脂人最爱的咖啡单品",
+        "onboard_time": 1746965181,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16595,
+        "num": 196790,
+        "word": "打开飞机安全出口会面临什么处罚",
+        "onboard_time": 1746967282,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353931,
+        "num": 194180,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193010,
+        "num": 193010,
+        "word": "今年高价水果为啥纷纷降价",
+        "onboard_time": 1746960561,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 181438,
+        "num": 181438,
+        "word": "陈哲远居然用创可贴种花",
+        "onboard_time": 1746967523,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172923,
+        "num": 172923,
+        "word": "白鹿双马尾错位图",
+        "onboard_time": 1746963502,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166564,
+        "num": 166564,
+        "word": "97年小伙做到家护士月入2.8万",
+        "onboard_time": 1746964341,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150617,
+        "num": 150617,
+        "word": "男子百万买二手房竟收4万天价水费",
+        "onboard_time": 1746965421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33199,
+        "num": 146735,
+        "word": "汶川地震十七年了",
+        "onboard_time": 1746968242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146064,
+        "num": 146064,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142047,
+        "num": 142047,
+        "word": "买超带儿子看病",
+        "onboard_time": 1746967221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127529,
+        "num": 139501,
+        "word": "世界防治肥胖日",
+        "onboard_time": 1746968182,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138160,
+        "num": 138160,
+        "word": "张杰演唱会偶遇张极",
+        "onboard_time": 1746966561,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134136,
+        "num": 134136,
+        "word": "专家称判断肥胖关键要看腰围",
+        "onboard_time": 1746962242,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127635,
+        "num": 127635,
+        "word": "彭小苒直播",
+        "onboard_time": 1746966262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127436,
+        "num": 127436,
+        "word": "警方通报网约车司机偷拍散布他人隐私",
+        "onboard_time": 1746966203,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124807,
+        "num": 124807,
+        "word": "淮水竹亭番外",
+        "onboard_time": 1746965900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126073,
+        "num": 122800,
+        "word": "张杰演唱会",
+        "onboard_time": 1746963622,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116946,
+        "num": 116946,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115020,
+        "num": 115020,
+        "word": "刘诗诗粉色满钻露肩礼服",
+        "onboard_time": 1746966620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114371,
+        "num": 114371,
+        "word": "纽卡斯尔联vs切尔西",
+        "onboard_time": 1746968122,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113756,
+        "num": 113756,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108387,
+        "num": 108387,
+        "word": "晚霞",
+        "onboard_time": 1746964762,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107737,
+        "num": 107737,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101072,
+        "num": 101072,
+        "word": "马龙像送孩子出征的家长",
+        "onboard_time": 1746960561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98922,
+        "num": 98922,
+        "word": "收到中国月壤后英方存入保险箱",
+        "onboard_time": 1746955520,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98403,
+        "num": 98403,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98076,
+        "num": 98076,
+        "word": "佑灰",
+        "onboard_time": 1746961821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94925,
+        "num": 94925,
+        "word": "杨子女儿伯克利音乐学院毕业",
+        "onboard_time": 1746968362,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94614,
+        "num": 94614,
+        "word": "世界上怎么会有如此貌美的小猫",
+        "onboard_time": 1746965900,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94499,
+        "num": 94499,
+        "word": "2次关税战没压垮广东罗非鱼",
+        "onboard_time": 1746965181,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91705,
+        "num": 91705,
+        "word": "余承恩撕拉片",
+        "onboard_time": 1746965541,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁言寸草心报得三春晖#"
+    }
+  }
+}
