@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746948198951,
+  "endTime": 1746948990077,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1246454,
+      "num": 1246454,
+      "word": "苹果再次降价降幅超1000元",
+      "onboard_time": 1746943400,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1229366,
       "num": 374865,
       "word": "芒果的后期已经牛到这个地步了吗",
@@ -67,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1108990,
-      "num": 1177438,
-      "word": "苹果再次降价降幅超1000元",
-      "onboard_time": 1746943400,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -96,6 +96,22 @@
       "word": "工行疑似掺假金条检测结果为真金",
       "onboard_time": 1746924021,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 832920,
+      "num": 524177,
+      "word": "人鱼",
+      "onboard_time": 1746947362,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 832134,
+      "num": 832134,
+      "word": "10元手冲咖啡阿姨爆火一年后现状",
+      "onboard_time": 1746944301,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -139,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 718357,
-      "num": 718357,
-      "word": "10元手冲咖啡阿姨爆火一年后现状",
-      "onboard_time": 1746944301,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 717421,
       "num": 352288,
       "word": "叶童回应房琪事件",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648502,
+      "num": 293823,
+      "word": "巴基斯坦向印度发射导弹现场",
+      "onboard_time": 1746946641,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "老赖欠390万转让房产给女儿逃避执行",
@@ -209,14 +225,6 @@
       "onboard_time": 1746893241,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545268,
-      "num": 293823,
-      "word": "巴基斯坦向印度发射导弹现场",
-      "onboard_time": 1746946641,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 537412,
@@ -315,8 +323,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419300,
-      "num": 419300,
+      "raw_hot": 421095,
+      "num": 421095,
       "word": "演员3狂飙5个高启强7个高启盛",
       "onboard_time": 1746944000,
       "rank": 25,
@@ -571,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247115,
-      "num": 247115,
-      "word": "人鱼",
-      "onboard_time": 1746947362,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244145,
       "num": 244145,
       "word": "素人晒与黄杨钿甜合照",
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220598,
+      "num": 290548,
+      "word": "男子得物买52瓶古驰香水包装是假的",
+      "onboard_time": 1746947601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220130,
       "num": 220130,
       "word": "AG夺冠",
@@ -641,6 +649,14 @@
       "onboard_time": 1746891863,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218136,
+      "num": 218136,
+      "word": "陈梦说好成绩不是被打出来的",
+      "onboard_time": 1746948321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 216521,
@@ -787,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189032,
+      "num": 189032,
+      "word": "真榴莲自由马上来了",
+      "onboard_time": 1746944721,
+      "rank": 42,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 188800,
       "num": 188800,
       "word": "胖都来征求名字建议",
@@ -857,6 +881,14 @@
       "onboard_time": 1746935481,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178760,
+      "num": 178760,
+      "word": "蒙娜丽莎",
+      "onboard_time": 1746948262,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 178535,
@@ -947,14 +979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162581,
-      "num": 162581,
-      "word": "真榴莲自由马上来了",
-      "onboard_time": 1746944721,
-      "rank": 42,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -987,12 +1011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157902,
+      "num": 157902,
+      "word": "管乐 你脸怎么这么小",
+      "onboard_time": 1746948141,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157302,
       "num": 157302,
       "word": "巴方否认违反停火协议",
       "onboard_time": 1746935120,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156560,
+      "num": 265182,
+      "word": "侯佩岑 谢谢儿子们给的限定版戒指",
+      "onboard_time": 1746946100,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 156073,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1746939441,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140131,
+      "num": 140131,
+      "word": "hamin无袖彩排",
+      "onboard_time": 1746947960,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 139353,
@@ -1299,14 +1347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128274,
-      "num": 238558,
-      "word": "侯佩岑 谢谢儿子们给的限定版戒指",
-      "onboard_time": 1746946100,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126691,
       "num": 126691,
       "word": "母亲节文案",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1746880882,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124292,
+      "num": 124292,
+      "word": "孟子义内娱眼泪女王",
+      "onboard_time": 1746948862,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 123977,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1746895520,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120521,
-      "num": 120521,
-      "word": "hamin无袖彩排",
-      "onboard_time": 1746947960,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 119431,
@@ -1579,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103102,
+      "num": 263767,
+      "word": "花12000元打热玛吉被烫一脸泡",
+      "onboard_time": 1746948622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "法院回应两行人相撞案",
@@ -1592,14 +1640,6 @@
       "word": "hi6后期把王星越当哪国人整啊",
       "onboard_time": 1746926360,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 98470,
-      "num": 98470,
-      "word": "管乐 你脸怎么这么小",
-      "onboard_time": 1746948141,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1753,14 +1793,6 @@
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73124,
-      "num": 290548,
-      "word": "男子得物买52瓶古驰香水包装是假的",
-      "onboard_time": 1746947601,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69169,
@@ -2044,7 +2076,7 @@
     },
     {
       "raw_hot": 24124,
-      "num": 132195,
+      "num": 263144,
       "word": "忙碌中如何表达对母亲的思念之情",
       "onboard_time": 1746948080,
       "rank": 36,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1746899836,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21957,
+      "num": 167326,
+      "word": "CNN疯狂输出印度",
+      "onboard_time": 1746948501,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 21681,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1746936681,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17543,
+      "num": 171095,
+      "word": "27年前歼10试飞员的承诺",
+      "onboard_time": 1746948080,
+      "rank": 37,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 17453,
@@ -2179,20 +2227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10961,
+      "num": 131509,
+      "word": "苏红军女战士献花被乌警察逮捕",
+      "onboard_time": 1746948622,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 10165,
       "num": 269023,
       "word": "明星同款撕拉片为何如此抢手",
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 8583,
-      "num": 131702,
-      "word": "27年前歼10试飞员的承诺",
-      "onboard_time": 1746948080,
-      "rank": 37,
-      "category": "国际时政,民生新闻"
     }
   ],
   "hotgov_list": [

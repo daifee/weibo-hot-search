@@ -1,0 +1,410 @@
+{
+  "runTime": 1746948990077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246454,
+        "num": 1246454,
+        "word": "苹果再次降价降幅超1000元",
+        "onboard_time": 1746943400,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 832134,
+        "num": 832134,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 526501,
+        "word": "华龙一号凭啥这么火",
+        "onboard_time": 1746937401,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832920,
+        "num": 524177,
+        "word": "人鱼",
+        "onboard_time": 1746947362,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497133,
+        "num": 497133,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421095,
+        "num": 421095,
+        "word": "演员3狂飙5个高启强7个高启盛",
+        "onboard_time": 1746944000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350554,
+        "num": 350554,
+        "word": "淮水竹亭结局",
+        "onboard_time": 1746939261,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346928,
+        "num": 346928,
+        "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
+        "onboard_time": 1746939082,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321749,
+        "num": 321749,
+        "word": "孟子义演技",
+        "onboard_time": 1746942682,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294949,
+        "num": 294949,
+        "word": "多地结婚登记预约火爆",
+        "onboard_time": 1746935300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685667,
+        "num": 293743,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648502,
+        "num": 292301,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 617865,
+        "num": 290917,
+        "word": "叶童回应房琪事件",
+        "onboard_time": 1746943822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330123,
+        "num": 290175,
+        "word": "钟丽缇小女儿走秀状态",
+        "onboard_time": 1746946760,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220598,
+        "num": 288471,
+        "word": "男子得物买52瓶古驰香水包装是假的",
+        "onboard_time": 1746947601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287518,
+        "num": 287518,
+        "word": "印巴同意立即停火",
+        "onboard_time": 1746879682,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272104,
+        "num": 272104,
+        "word": "芒果的后期已经牛到这个地步了吗",
+        "onboard_time": 1746921018,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156560,
+        "num": 265182,
+        "word": "侯佩岑 谢谢儿子们给的限定版戒指",
+        "onboard_time": 1746946100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 263767,
+        "word": "花12000元打热玛吉被烫一脸泡",
+        "onboard_time": 1746948622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23029,
+        "num": 263144,
+        "word": "忙碌中如何表达对母亲的思念之情",
+        "onboard_time": 1746948080,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262969,
+        "num": 262969,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218136,
+        "num": 218136,
+        "word": "陈梦说好成绩不是被打出来的",
+        "onboard_time": 1746948321,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217379,
+        "num": 217379,
+        "word": "白鹿称拍戏父母会接送上下班",
+        "onboard_time": 1746947781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210970,
+        "num": 210970,
+        "word": "在蓝盈莹脸上看到漂亮基因的强大",
+        "onboard_time": 1746939981,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189032,
+        "num": 189032,
+        "word": "真榴莲自由马上来了",
+        "onboard_time": 1746944721,
+        "rank": 24,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 188497,
+        "num": 188497,
+        "word": "顺产开十指的痛具象化了",
+        "onboard_time": 1746938961,
+        "rank": 25,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 178760,
+        "num": 178760,
+        "word": "蒙娜丽莎",
+        "onboard_time": 1746948262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133136,
+        "num": 178640,
+        "word": "李嘉格结婚五年没有和老公一起过年",
+        "onboard_time": 1746936261,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17543,
+        "num": 171095,
+        "word": "27年前歼10试飞员的承诺",
+        "onboard_time": 1746948080,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 21957,
+        "num": 167326,
+        "word": "CNN疯狂输出印度",
+        "onboard_time": 1746948501,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 186525,
+        "num": 164005,
+        "word": "女子闯红灯撞车受伤被交警定全责",
+        "onboard_time": 1746941063,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163408,
+        "num": 163408,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129260,
+        "num": 157966,
+        "word": "杨紫三分钟唱尽万千女儿心底私语",
+        "onboard_time": 1746946941,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157902,
+        "num": 157902,
+        "word": "管乐 你脸怎么这么小",
+        "onboard_time": 1746948141,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131158,
+        "num": 157254,
+        "word": "歌手2025音乐合伙人官宣",
+        "onboard_time": 1746940761,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156896,
+        "num": 156896,
+        "word": "陈梦程潇偷偷比肤色",
+        "onboard_time": 1746944721,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154770,
+        "num": 154770,
+        "word": "女子患怪病全身剧痛走路如僵尸",
+        "onboard_time": 1746944182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140131,
+        "num": 140131,
+        "word": "hamin无袖彩排",
+        "onboard_time": 1746947960,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135185,
+        "num": 135185,
+        "word": "60岁失独母亲冒死生下双胞胎女儿",
+        "onboard_time": 1746931041,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10961,
+        "num": 131509,
+        "word": "苏红军女战士献花被乌警察逮捕",
+        "onboard_time": 1746948622,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 129381,
+        "num": 129381,
+        "word": "年轻人养的东西越来越离谱了",
+        "onboard_time": 1746940761,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128779,
+        "num": 128779,
+        "word": "美国所有最大城市都在下沉",
+        "onboard_time": 1746944961,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124292,
+        "num": 124292,
+        "word": "孟子义内娱眼泪女王",
+        "onboard_time": 1746948862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122640,
+        "num": 122640,
+        "word": "垃圾桶有玫瑰 但不会有康乃馨",
+        "onboard_time": 1746942201,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122069,
+        "num": 122069,
+        "word": "花粉选的二番生",
+        "onboard_time": 1746945021,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120362,
+        "num": 120362,
+        "word": "乘风2025",
+        "onboard_time": 1746939441,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120764,
+        "num": 118652,
+        "word": "陈乔恩吐槽香港机场地勤",
+        "onboard_time": 1746939501,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116005,
+        "num": 116005,
+        "word": "上门做饭月薪近2万女子再谈现状",
+        "onboard_time": 1746941421,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110741,
+        "num": 110741,
+        "word": "选美国籍教皇是因为他反特朗普",
+        "onboard_time": 1746946641,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109503,
+        "num": 109503,
+        "word": "发现拼多多买花的人一定是天才",
+        "onboard_time": 1746943281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平俄罗斯之行这些场景令人难忘#"
+    }
+  }
+}
