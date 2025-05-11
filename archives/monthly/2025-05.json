@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746977048059,
+  "endTime": 1746977945163,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -2243,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 917986,
+      "num": 330698,
+      "word": "港媒报道李凯馨",
+      "onboard_time": 1746975562,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 916878,
       "num": 368888,
       "word": "印度要求封禁8000多个社媒账号",
@@ -2835,12 +2843,12 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 796738,
-      "num": 301640,
-      "word": "港媒报道李凯馨",
-      "onboard_time": 1746975562,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 796104,
+      "num": 1127376,
+      "word": "疑因高反身亡男子3天前曾吸氧",
+      "onboard_time": 1746973524,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 793337,
@@ -3169,14 +3177,6 @@
       "onboard_time": 1746707302,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 744841,
-      "num": 1119174,
-      "word": "疑因高反身亡男子3天前曾吸氧",
-      "onboard_time": 1746973524,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 742775,
@@ -5131,6 +5131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527070,
+      "num": 527070,
+      "word": "特朗普坦言自己夜不能寐",
+      "onboard_time": 1746975502,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 526974,
       "num": 526974,
       "word": "刘诗诗演员类型稀缺性",
@@ -6731,14 +6739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 423199,
-      "num": 423199,
-      "word": "特朗普坦言自己夜不能寐",
-      "onboard_time": 1746975502,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 423030,
       "num": 278556,
       "word": "周杰伦ins点赞狮城山海",
@@ -7795,6 +7795,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 367945,
+      "num": 367945,
+      "word": "巴萨半场4比2皇马",
+      "onboard_time": 1746976584,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367593,
       "num": 367593,
       "word": "胡宇桐 我资源不行法务还行",
@@ -8531,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336461,
+      "num": 336461,
+      "word": "白桃星座",
+      "onboard_time": 1746975983,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335705,
       "num": 335705,
       "word": "女子被冒名结婚撤销3年仍显示已婚",
@@ -8657,6 +8673,14 @@
       "onboard_time": 1746319940,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330538,
+      "num": 330538,
+      "word": "央视曝光健康证办理乱象",
+      "onboard_time": 1746974663,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 330360,
@@ -9409,14 +9433,6 @@
       "onboard_time": 1746886342,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303865,
-      "num": 303865,
-      "word": "央视曝光健康证办理乱象",
-      "onboard_time": 1746974663,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 303790,
@@ -10401,14 +10417,6 @@
       "onboard_time": 1746584122,
       "rank": 41,
       "category": "财经,国内时政"
-    },
-    {
-      "raw_hot": 273681,
-      "num": 273681,
-      "word": "白桃星座",
-      "onboard_time": 1746975983,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 273242,
@@ -12523,6 +12531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226616,
+      "num": 226616,
+      "word": "东方秦兰当妈妈了",
+      "onboard_time": 1746976941,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226473,
       "num": 226473,
       "word": "印巴",
@@ -14305,14 +14321,6 @@
       "onboard_time": 1746102382,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204443,
-      "num": 204443,
-      "word": "巴萨半场4比2皇马",
-      "onboard_time": 1746976584,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 204356,
@@ -17923,14 +17931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181421,
-      "num": 181421,
-      "word": "东方秦兰当妈妈了",
-      "onboard_time": 1746976941,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181285,
       "num": 181285,
       "word": "小米SU7 Ultra量产版",
@@ -18683,6 +18683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174864,
+      "num": 330841,
+      "word": "汶川地震追空投的男孩已成空降兵",
+      "onboard_time": 1746976824,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174807,
       "num": 174807,
       "word": "李河民飞吻",
@@ -19243,6 +19251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170198,
+      "num": 170198,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1746977182,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170138,
       "num": 329966,
       "word": "世乒赛首日国乒赛程",
@@ -19625,6 +19641,14 @@
       "onboard_time": 1746594624,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167079,
+      "num": 190925,
+      "word": "喻言音乐节",
+      "onboard_time": 1746977421,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 167057,
@@ -20763,6 +20787,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 160875,
+      "num": 188918,
+      "word": "邓紫棋演唱会新歌单上桌",
+      "onboard_time": 1746977002,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160815,
       "num": 160815,
       "word": "北约轰炸中牺牲的3位烈士雕像塑成",
@@ -21737,6 +21769,14 @@
       "onboard_time": 1746515121,
       "rank": 41,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 155423,
+      "num": 183190,
+      "word": "张靓颖九万字",
+      "onboard_time": 1746976642,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155236,
@@ -22899,6 +22939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148476,
+      "num": 178955,
+      "word": "张杰在定海神针舞台唱一生所爱",
+      "onboard_time": 1746976824,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148409,
       "num": 148409,
       "word": "张杰鸟巢连开破纪录",
@@ -23361,6 +23409,14 @@
       "onboard_time": 1746861321,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145605,
+      "num": 145605,
+      "word": "原来这么干都是无效减重",
+      "onboard_time": 1746977124,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145590,
@@ -26235,14 +26291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131505,
-      "num": 131505,
-      "word": "张靓颖九万字",
-      "onboard_time": 1746976642,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131440,
       "num": 131440,
       "word": "何运晨拒绝打工人请假羞耻",
@@ -26673,14 +26721,6 @@
       "onboard_time": 1746361463,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129318,
-      "num": 129318,
-      "word": "张杰在定海神针舞台唱一生所爱",
-      "onboard_time": 1746976824,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 129311,
@@ -27435,6 +27475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126350,
+      "num": 181510,
+      "word": "杭州偶遇章若楠逛街",
+      "onboard_time": 1746974183,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126336,
       "num": 126336,
       "word": "更适合中国人体质的迪士尼",
@@ -27665,14 +27713,6 @@
       "onboard_time": 1746243500,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125257,
-      "num": 125257,
-      "word": "邓紫棋演唱会新歌单上桌",
-      "onboard_time": 1746977002,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 125208,
@@ -29273,14 +29313,6 @@
       "onboard_time": 1746702560,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116079,
-      "num": 181510,
-      "word": "杭州偶遇章若楠逛街",
-      "onboard_time": 1746974183,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 116027,
@@ -31595,14 +31627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100845,
-      "num": 206489,
-      "word": "汶川地震追空投的男孩已成空降兵",
-      "onboard_time": 1746976824,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100826,
       "num": 245847,
       "word": "原来凤凰传奇里曾毅不会骑马",
@@ -31913,6 +31937,14 @@
       "onboard_time": 1746437061,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98791,
+      "num": 98791,
+      "word": "李秀满加场smtown",
+      "onboard_time": 1746977902,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 98618,
@@ -32435,6 +32467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93670,
+      "num": 93670,
+      "word": "就这个NMIXX爽",
+      "onboard_time": 1746977781,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93619,
       "num": 93619,
       "word": "丁程鑫跳星奇摇害羞了",
@@ -32688,6 +32728,14 @@
       "word": "小时候抓周抓的是手机",
       "onboard_time": 1746238220,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90641,
+      "num": 90641,
+      "word": "狗狗因走路走神而掉进水沟",
+      "onboard_time": 1746977902,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -40633,6 +40681,14 @@
       "onboard_time": 1746745639,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17302,
+      "num": 220025,
+      "word": "官方通报郑州夜市摊贩被收香烟事件",
+      "onboard_time": 1746977664,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 17232,
