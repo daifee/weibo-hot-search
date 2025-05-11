@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746985090594,
+  "endTime": 1746988288952,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281445,
+      "num": 281445,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277130,
       "num": 287660,
       "word": "张馨予家被水淹了",
@@ -233,14 +241,6 @@
       "onboard_time": 1746969922,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 100380,
-      "num": 90127,
-      "word": "黄多多进军影视圈",
-      "onboard_time": 1746984077,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 99400,
@@ -505,6 +505,38 @@
       "onboard_time": 1746984916,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 21271,
+      "num": 26538,
+      "word": "杨博文写信祝妈妈母亲节快乐",
+      "onboard_time": 1746987134,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20392,
+      "num": 26517,
+      "word": "美国经济陷入衰退已成基本预期",
+      "onboard_time": 1746987315,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20012,
+      "num": 26496,
+      "word": "张峻豪演唱会幕后纪录片",
+      "onboard_time": 1746987434,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 19570,
+      "num": 26475,
+      "word": "张泽禹官摄舞台太爽了",
+      "onboard_time": 1746988217,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
