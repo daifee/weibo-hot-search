@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1746953083643,
+  "endTime": 1746955459796,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -369,6 +369,14 @@
       "onboard_time": 1746859042,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1962552,
+      "num": 1962552,
+      "word": "黄多多出演人鱼",
+      "onboard_time": 1746951561,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 1949928,
@@ -809,14 +817,6 @@
       "onboard_time": 1746474616,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1426580,
-      "num": 1426580,
-      "word": "黄多多出演人鱼",
-      "onboard_time": 1746951561,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 1425447,
@@ -2715,6 +2715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 806463,
+      "num": 806463,
+      "word": "高校通报75万采购市价299元产品",
+      "onboard_time": 1746952942,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 801193,
       "num": 801193,
       "word": "柯淳工作室",
@@ -3601,6 +3609,14 @@
       "onboard_time": 1746800424,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 675961,
+      "num": 424678,
+      "word": "印度大坝已完全打开",
+      "onboard_time": 1746950121,
+      "rank": 6,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 674744,
@@ -5331,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496420,
+      "num": 496420,
+      "word": "藏海传赴山海百指",
+      "onboard_time": 1746951141,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496140,
       "num": 496140,
       "word": "郭晓婷回应客串淮水竹亭",
@@ -5747,20 +5771,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 468959,
-      "num": 424678,
-      "word": "印度大坝已完全打开",
-      "onboard_time": 1746950121,
-      "rank": 6,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 468518,
       "num": 468518,
       "word": "周深在沙漠唱响化身孤岛的鲸",
       "onboard_time": 1746457162,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 468119,
+      "num": 297189,
+      "word": "奚梦瑶何猷君出席好友婚礼",
+      "onboard_time": 1746950422,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 468083,
@@ -6105,6 +6129,14 @@
       "onboard_time": 1746175701,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447036,
+      "num": 280099,
+      "word": "小S二女儿晒照说你永远在我身边",
+      "onboard_time": 1746953064,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 446900,
@@ -6897,14 +6929,6 @@
       "onboard_time": 1746688282,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 402182,
-      "num": 402182,
-      "word": "藏海传赴山海百指",
-      "onboard_time": 1746951141,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 402024,
@@ -8939,6 +8963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309482,
+      "num": 309482,
+      "word": "王一博汤唯合作",
+      "onboard_time": 1746952102,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309477,
       "num": 309477,
       "word": "冲着月薪一万应聘九天到手一千",
@@ -10091,14 +10123,6 @@
       "category": "财经,国内时政"
     },
     {
-      "raw_hot": 273452,
-      "num": 297189,
-      "word": "奚梦瑶何猷君出席好友婚礼",
-      "onboard_time": 1746950422,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273242,
       "num": 273242,
       "word": "武契奇回应被禁飞一脸落寞",
@@ -10795,6 +10819,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 258076,
+      "num": 242404,
+      "word": "张艺兴回复任嘉伦",
+      "onboard_time": 1746952041,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258032,
       "num": 258032,
       "word": "小米SU7Ultra限制1500匹马力",
@@ -11467,6 +11499,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 244108,
+      "num": 244108,
+      "word": "韦雪自曝要去do脸了",
+      "onboard_time": 1746954442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244037,
       "num": 244037,
       "word": "文豪野犬作者举起太中大旗",
@@ -11699,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236718,
+      "num": 236718,
+      "word": "肖俊请exo检查作业",
+      "onboard_time": 1746954501,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236698,
       "num": 290963,
       "word": "你跟我说这是黄晓明",
@@ -11923,14 +11971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230801,
-      "num": 230801,
-      "word": "张艺兴回复任嘉伦",
-      "onboard_time": 1746952041,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 230455,
       "num": 230455,
       "word": "撕拉片是情绪价值还是炒作",
@@ -11953,14 +11993,6 @@
       "onboard_time": 1746510859,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229760,
-      "num": 229760,
-      "word": "王一博汤唯合作",
-      "onboard_time": 1746952102,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 229727,
@@ -12235,6 +12267,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 225744,
+      "num": 225744,
+      "word": "易梦玲水手服",
+      "onboard_time": 1746952762,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 225658,
       "num": 254634,
       "word": "吴宣仪要唱哭了",
@@ -12257,6 +12297,14 @@
       "onboard_time": 1746369864,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224879,
+      "num": 224879,
+      "word": "吃什么东西瘦的最快",
+      "onboard_time": 1746953901,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 224540,
@@ -12289,6 +12337,14 @@
       "onboard_time": 1746850470,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223898,
+      "num": 223898,
+      "word": "西方国家很多人睡不着觉了",
+      "onboard_time": 1746954140,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223779,
@@ -12337,6 +12393,14 @@
       "onboard_time": 1746746481,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223018,
+      "num": 223018,
+      "word": "K总备孕",
+      "onboard_time": 1746953901,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 223003,
@@ -14627,6 +14691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199370,
+      "num": 199370,
+      "word": "吞海广播剧",
+      "onboard_time": 1746954863,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 199367,
       "num": 199367,
       "word": "南大教授称陈丽君说错也没必要抹黑",
@@ -16169,6 +16241,14 @@
       "onboard_time": 1746177270,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189843,
+      "num": 189843,
+      "word": "蛋酒 唐家三少",
+      "onboard_time": 1746952342,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 189813,
@@ -17913,6 +17993,14 @@
       "onboard_time": 1746778702,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176838,
+      "num": 176838,
+      "word": "利路修 综艺",
+      "onboard_time": 1746952942,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176795,
@@ -20483,14 +20571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158980,
-      "num": 167276,
-      "word": "高校通报75万采购市价299元产品",
-      "onboard_time": 1746952942,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 158972,
       "num": 158972,
       "word": "湖人落后",
@@ -21123,6 +21203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155476,
+      "num": 155476,
+      "word": "张檬看剖腹产影像泪流满面",
+      "onboard_time": 1746954981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155436,
       "num": 155436,
       "word": "易烊千玺墨香大片",
@@ -21659,6 +21747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152305,
+      "num": 275808,
+      "word": "泽连斯基回应普京重启俄乌谈判提议",
+      "onboard_time": 1746954202,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152223,
       "num": 152223,
       "word": "王蓉回应再次走红",
@@ -21713,14 +21809,6 @@
       "onboard_time": 1746667590,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151699,
-      "num": 151699,
-      "word": "利路修 综艺",
-      "onboard_time": 1746952942,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151669,
@@ -24043,6 +24131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138969,
+      "num": 138969,
+      "word": "姜磊说五月播赴山海",
+      "onboard_time": 1746953722,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138840,
       "num": 138840,
       "word": "欧豪新剧眼色不详心地善良",
@@ -24937,14 +25033,6 @@
       "onboard_time": 1746618862,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134030,
-      "num": 134030,
-      "word": "易梦玲水手服",
-      "onboard_time": 1746952762,
-      "rank": 46,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 133946,
@@ -26259,6 +26347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127653,
+      "num": 127653,
+      "word": "陈哲远像是死缠烂打就能追到的人",
+      "onboard_time": 1746955042,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127635,
       "num": 127635,
       "word": "武契奇因病中断访美",
@@ -26289,14 +26385,6 @@
       "onboard_time": 1746161069,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127474,
-      "num": 127474,
-      "word": "小S二女儿晒照说你永远在我身边",
-      "onboard_time": 1746953064,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 127437,
@@ -27969,6 +28057,14 @@
       "onboard_time": 1746788901,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118464,
+      "num": 118464,
+      "word": "张云龙说弘业后悔了",
+      "onboard_time": 1746953842,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118416,
@@ -32691,6 +32787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78991,
+      "num": 285822,
+      "word": "一生对妈妈说的话浓缩在这30秒里",
+      "onboard_time": 1746954683,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78881,
       "num": 78881,
       "word": "闫军判罚",
@@ -36043,6 +36147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41582,
+      "num": 152807,
+      "word": "基建狂魔又上分",
+      "onboard_time": 1746952041,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41497,
       "num": 149281,
       "word": "血燥血虚血瘀血热的破解方法",
@@ -36545,6 +36657,14 @@
       "onboard_time": 1746632361,
       "rank": 27,
       "category": "财经,国内时政"
+    },
+    {
+      "raw_hot": 36627,
+      "num": 230163,
+      "word": "神二十航天员vlog上新",
+      "onboard_time": 1746954863,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36598,
@@ -37523,6 +37643,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 28759,
+      "num": 146647,
+      "word": "苹果降价能否缓解其创新乏力的困境",
+      "onboard_time": 1746954080,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28710,
       "num": 193213,
       "word": "婴儿为什么不能摇晃抱",
@@ -38120,14 +38248,6 @@
       "word": "工行金条检测结果为啥被质疑",
       "onboard_time": 1746944481,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24512,
-      "num": 152807,
-      "word": "基建狂魔又上分",
-      "onboard_time": 1746952041,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -39907,6 +40027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13916,
+      "num": 163116,
+      "word": "美商家称美国顾客选择中国造",
+      "onboard_time": 1746955221,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13888,
       "num": 33060,
       "word": "公司否认双星名人董事长发公开信",
@@ -40041,6 +40169,14 @@
       "onboard_time": 1746228497,
       "rank": 9,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 12708,
+      "num": 583726,
+      "word": "这只瓶子上藏着对妈妈的爱",
+      "onboard_time": 1746955221,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12653,
@@ -40601,6 +40737,14 @@
       "onboard_time": 1746066080,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 7400,
+      "num": 191335,
+      "word": "淮水竹亭结局有哪些意难平",
+      "onboard_time": 1746955281,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 7374,

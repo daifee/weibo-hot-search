@@ -1,7 +1,15 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746953083643,
+  "endTime": 1746955459796,
   "band_list": [
+    {
+      "raw_hot": 1962552,
+      "num": 1962552,
+      "word": "黄多多出演人鱼",
+      "onboard_time": 1746951561,
+      "rank": 8,
+      "category": "电影"
+    },
     {
       "raw_hot": 1594357,
       "num": 484514,
@@ -33,14 +41,6 @@
       "onboard_time": 1746887723,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1426580,
-      "num": 1426580,
-      "word": "黄多多出演人鱼",
-      "onboard_time": 1746951561,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 1369099,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 806463,
+      "num": 806463,
+      "word": "高校通报75万采购市价299元产品",
+      "onboard_time": 1746952942,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 754406,
       "num": 371205,
       "word": "陈赫回应把张子萱打码",
@@ -177,6 +185,14 @@
       "onboard_time": 1746877581,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 675961,
+      "num": 424678,
+      "word": "印度大坝已完全打开",
+      "onboard_time": 1746950121,
+      "rank": 6,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 665901,
@@ -267,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496420,
+      "num": 496420,
+      "word": "藏海传赴山海百指",
+      "onboard_time": 1746951141,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496140,
       "num": 496140,
       "word": "郭晓婷回应客串淮水竹亭",
@@ -307,12 +331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 468959,
-      "num": 424678,
-      "word": "印度大坝已完全打开",
-      "onboard_time": 1746950121,
-      "rank": 6,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 468119,
+      "num": 297189,
+      "word": "奚梦瑶何猷君出席好友婚礼",
+      "onboard_time": 1746950422,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 456629,
@@ -337,6 +361,14 @@
       "onboard_time": 1746927801,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447036,
+      "num": 280099,
+      "word": "小S二女儿晒照说你永远在我身边",
+      "onboard_time": 1746953064,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 442380,
@@ -392,14 +424,6 @@
       "word": "导演肯定也知道卢昱晓的手好看",
       "onboard_time": 1746936141,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 402182,
-      "num": 402182,
-      "word": "藏海传赴山海百指",
-      "onboard_time": 1746951141,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -531,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309482,
+      "num": 309482,
+      "word": "王一博汤唯合作",
+      "onboard_time": 1746952102,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
@@ -587,14 +619,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 273452,
-      "num": 297189,
-      "word": "奚梦瑶何猷君出席好友婚礼",
-      "onboard_time": 1746950422,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272086,
       "num": 292366,
       "word": "印巴到底停没停火",
@@ -625,6 +649,14 @@
       "onboard_time": 1746936381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258076,
+      "num": 242404,
+      "word": "张艺兴回复任嘉伦",
+      "onboard_time": 1746952041,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255711,
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244108,
+      "num": 244108,
+      "word": "韦雪自曝要去do脸了",
+      "onboard_time": 1746954442,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243966,
       "num": 243966,
       "word": "花少北 734",
@@ -683,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236718,
+      "num": 236718,
+      "word": "肖俊请exo检查作业",
+      "onboard_time": 1746954501,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231849,
       "num": 231849,
       "word": "谁给白鹿做的特效",
@@ -691,20 +739,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230801,
-      "num": 230801,
-      "word": "张艺兴回复任嘉伦",
-      "onboard_time": 1746952041,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 225744,
+      "num": 225744,
+      "word": "易梦玲水手服",
+      "onboard_time": 1746952762,
+      "rank": 46,
+      "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 229760,
-      "num": 229760,
-      "word": "王一博汤唯合作",
-      "onboard_time": 1746952102,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 224879,
+      "num": 224879,
+      "word": "吃什么东西瘦的最快",
+      "onboard_time": 1746953901,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223898,
+      "num": 223898,
+      "word": "西方国家很多人睡不着觉了",
+      "onboard_time": 1746954140,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223188,
@@ -713,6 +769,14 @@
       "onboard_time": 1746927801,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223018,
+      "num": 223018,
+      "word": "K总备孕",
+      "onboard_time": 1746953901,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 220130,
@@ -875,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199370,
+      "num": 199370,
+      "word": "吞海广播剧",
+      "onboard_time": 1746954863,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 198577,
       "num": 198577,
       "word": "花海清融Fly怎么总是你们",
@@ -913,6 +985,14 @@
       "onboard_time": 1746945500,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189843,
+      "num": 189843,
+      "word": "蛋酒 唐家三少",
+      "onboard_time": 1746952342,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 189032,
@@ -1019,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176838,
+      "num": 176838,
+      "word": "利路修 综艺",
+      "onboard_time": 1746952942,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176166,
       "num": 176166,
       "word": "女子患怪病全身剧痛走路如僵尸",
@@ -1123,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158980,
-      "num": 167276,
-      "word": "高校通报75万采购市价299元产品",
-      "onboard_time": 1746952942,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 158701,
       "num": 158701,
       "word": "13岁女孩被男生扇耳光后精神异常",
@@ -1179,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155476,
+      "num": 155476,
+      "word": "张檬看剖腹产影像泪流满面",
+      "onboard_time": 1746954981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155183,
       "num": 205549,
       "word": "刘亦菲这段话说出了妈妈的心声",
@@ -1219,12 +1307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151699,
-      "num": 151699,
-      "word": "利路修 综艺",
-      "onboard_time": 1746952942,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 152305,
+      "num": 275808,
+      "word": "泽连斯基回应普京重启俄乌谈判提议",
+      "onboard_time": 1746954202,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149914,
@@ -1379,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138969,
+      "num": 138969,
+      "word": "姜磊说五月播赴山海",
+      "onboard_time": 1746953722,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137115,
       "num": 137115,
       "word": "cp31",
@@ -1441,14 +1537,6 @@
       "onboard_time": 1746888803,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134030,
-      "num": 134030,
-      "word": "易梦玲水手服",
-      "onboard_time": 1746952762,
-      "rank": 46,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 133989,
@@ -1531,11 +1619,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127474,
-      "num": 127474,
-      "word": "小S二女儿晒照说你永远在我身边",
-      "onboard_time": 1746953064,
-      "rank": 48,
+      "raw_hot": 127653,
+      "num": 127653,
+      "word": "陈哲远像是死缠烂打就能追到的人",
+      "onboard_time": 1746955042,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1665,6 +1753,14 @@
       "onboard_time": 1746918558,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118464,
+      "num": 118464,
+      "word": "张云龙说弘业后悔了",
+      "onboard_time": 1746953842,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118005,
@@ -1971,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78991,
+      "num": 285822,
+      "word": "一生对妈妈说的话浓缩在这30秒里",
+      "onboard_time": 1746954683,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77538,
       "num": 179484,
       "word": "在校生浏览境外反华网站传播谣言",
@@ -2195,12 +2299,28 @@
       "category": "艺人,剧集"
     },
     {
+      "raw_hot": 41582,
+      "num": 152807,
+      "word": "基建狂魔又上分",
+      "onboard_time": 1746952041,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39780,
       "num": 39780,
       "word": "偶遇王文也与未婚夫约会",
       "onboard_time": 1746901636,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36627,
+      "num": 230163,
+      "word": "神二十航天员vlog上新",
+      "onboard_time": 1746954863,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36382,
@@ -2267,6 +2387,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 28759,
+      "num": 146647,
+      "word": "苹果降价能否缓解其创新乏力的困境",
+      "onboard_time": 1746954080,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 28333,
       "num": 876301,
       "word": "6组数据感受中国外贸韧性",
@@ -2304,14 +2432,6 @@
       "word": "工行金条检测结果为啥被质疑",
       "onboard_time": 1746944481,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24512,
-      "num": 152807,
-      "word": "基建狂魔又上分",
-      "onboard_time": 1746952041,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2475,12 +2595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13916,
+      "num": 163116,
+      "word": "美商家称美国顾客选择中国造",
+      "onboard_time": 1746955221,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13036,
       "num": 18050,
       "word": "张杰高朋满座电量满格幸福求婚合唱满分",
       "onboard_time": 1746903075,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12708,
+      "num": 583726,
+      "word": "这只瓶子上藏着对妈妈的爱",
+      "onboard_time": 1746955221,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12355,
@@ -2505,6 +2641,14 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7400,
+      "num": 191335,
+      "word": "淮水竹亭结局有哪些意难平",
+      "onboard_time": 1746955281,
+      "rank": 32,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
