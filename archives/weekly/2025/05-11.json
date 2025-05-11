@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746992165119,
+  "endTime": 1746995129331,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -4043,6 +4043,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 17524,
+      "num": 17524,
+      "word": "学校偶遇森碟",
+      "onboard_time": 1746992774,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17453,
       "num": 28918,
       "word": "在印在巴中国公民必知电话",
@@ -4107,6 +4115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14284,
+      "num": 14284,
+      "word": "武汉坐地铁公交可以抵扣房贷",
+      "onboard_time": 1746992235,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14115,
       "num": 18052,
       "word": "檀健次多见一次巡回演唱会",
@@ -4139,12 +4155,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12977,
+      "num": 36926,
+      "word": "30秒道尽一辈子对妈妈说的话",
+      "onboard_time": 1746991514,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12355,
       "num": 17498,
       "word": "中国品牌日",
       "onboard_time": 1746912854,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11980,
+      "num": 14065,
+      "word": "勿忘人间真情",
+      "onboard_time": 1746992353,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10961,
@@ -4163,12 +4195,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9830,
-      "num": 36926,
-      "word": "30秒道尽一辈子对妈妈说的话",
-      "onboard_time": 1746991514,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 6731,
+      "num": 14085,
+      "word": "黑执事塞夏对抗路主仆",
+      "onboard_time": 1746994874,
+      "rank": 39,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
