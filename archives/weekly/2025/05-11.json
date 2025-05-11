@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746959055324,
+  "endTime": 1746960070101,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -9,6 +9,14 @@
       "onboard_time": 1746951561,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1642831,
+      "num": 1642831,
+      "word": "东航MU5828安全出口被乘客打开",
+      "onboard_time": 1746957440,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1594357,
@@ -35,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1517561,
-      "num": 1517561,
-      "word": "东航MU5828安全出口被乘客打开",
-      "onboard_time": 1746957440,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 1475089,
+      "num": 1475089,
+      "word": "花海退役",
+      "onboard_time": 1746958642,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 1439244,
@@ -299,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535723,
+      "num": 362481,
+      "word": "马嘉祺高会",
+      "onboard_time": 1746955940,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529287,
       "num": 333024,
       "word": "吴昕主持人的含金量还在上升",
       "onboard_time": 1746875663,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 514072,
-      "num": 294310,
-      "word": "马嘉祺高会",
-      "onboard_time": 1746955940,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 504263,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 465277,
-      "num": 307815,
+      "num": 362089,
       "word": "韦雪自曝要去do脸了",
       "onboard_time": 1746954442,
       "rank": 18,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371567,
+      "num": 371567,
+      "word": "苹果16Pro首次参加国补",
+      "onboard_time": 1746958642,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 371029,
       "num": 284511,
       "word": "花75万采购299元产品高校已终止采购",
@@ -601,14 +617,6 @@
       "onboard_time": 1746954501,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313321,
-      "num": 313321,
-      "word": "花海退役",
-      "onboard_time": 1746958642,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 311883,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250979,
+      "num": 362526,
+      "word": "收到中国月壤后英方存入保险箱",
+      "onboard_time": 1746955520,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250291,
       "num": 250291,
       "word": "赴山海除名李凯馨",
@@ -779,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 239538,
+      "num": 239538,
+      "word": "殿前欢",
+      "onboard_time": 1746957741,
+      "rank": 21,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 237980,
       "num": 237980,
       "word": "滴滴回应聋哑司机偷拍大量女乘客发上网",
@@ -793,22 +817,6 @@
       "onboard_time": 1746891143,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230489,
-      "num": 230489,
-      "word": "收到中国月壤后英方存入保险箱",
-      "onboard_time": 1746955520,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 230206,
-      "num": 230206,
-      "word": "殿前欢",
-      "onboard_time": 1746957741,
-      "rank": 21,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 224879,
@@ -841,6 +849,14 @@
       "onboard_time": 1746953901,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 222181,
+      "num": 247143,
+      "word": "宋亚轩祝妈咪母亲节快乐",
+      "onboard_time": 1746958820,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 220130,
@@ -969,14 +985,6 @@
       "onboard_time": 1746919218,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203605,
-      "num": 203605,
-      "word": "苹果16Pro首次参加国补",
-      "onboard_time": 1746958642,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 201931,
@@ -1259,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167835,
+      "num": 167835,
+      "word": "张凌赫下水前问女生方不方便",
+      "onboard_time": 1746959902,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167712,
       "num": 167712,
       "word": "花海 反方向的钟",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1746934161,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159911,
+      "num": 150852,
+      "word": "37年没上过班打发时间教程",
+      "onboard_time": 1746958042,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 158701,
@@ -1379,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153628,
+      "num": 197650,
+      "word": "陈德容吴宣仪看我72变",
+      "onboard_time": 1746957321,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152928,
       "num": 176404,
       "word": "李荣浩现场有人杀猪吗",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1746951981,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150852,
-      "num": 150852,
-      "word": "37年没上过班打发时间教程",
-      "onboard_time": 1746958042,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 149914,
@@ -1521,22 +1545,6 @@
       "onboard_time": 1746951741,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140413,
-      "num": 162835,
-      "word": "宋亚轩祝妈咪母亲节快乐",
-      "onboard_time": 1746958820,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140273,
-      "num": 197650,
-      "word": "陈德容吴宣仪看我72变",
-      "onboard_time": 1746957321,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 140232,
@@ -1931,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116762,
+      "num": 116762,
+      "word": "吉克隽逸 内娱黑珍珠",
+      "onboard_time": 1746959842,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115777,
       "num": 182350,
       "word": "佟丽娅和谢娜鸟巢碰面成功",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1746944481,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104671,
+      "num": 104671,
+      "word": "只有大学生才懂她有多强",
+      "onboard_time": 1746960021,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 103524,
@@ -2227,12 +2251,28 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 84737,
+      "num": 150335,
+      "word": "刚买的飞机外网病毒式传播",
+      "onboard_time": 1746957321,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83257,
       "num": 136566,
       "word": "陈都灵温峥嵘母亲节售后",
       "onboard_time": 1746929121,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83056,
+      "num": 152336,
+      "word": "孕妇被狗咬主人称狗咬的让狗道歉",
+      "onboard_time": 1746959000,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82395,
@@ -2299,6 +2339,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 66057,
+      "num": 298973,
+      "word": "学二代不当署名很难被及时发现处理",
+      "onboard_time": 1746958642,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 63780,
       "num": 315732,
       "word": "乐见潮向音乐节超好拍",
@@ -2339,6 +2387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57195,
+      "num": 1176695,
+      "word": "这只瓶子上藏着对妈妈的爱",
+      "onboard_time": 1746955221,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55140,
       "num": 67988,
       "word": "小男孩说话算话带着包子冒雨赴约",
@@ -2369,14 +2425,6 @@
       "onboard_time": 1746941063,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53571,
-      "num": 150335,
-      "word": "刚买的飞机外网病毒式传播",
-      "onboard_time": 1746957321,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52037,
@@ -2443,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46907,
-      "num": 968386,
-      "word": "这只瓶子上藏着对妈妈的爱",
-      "onboard_time": 1746955221,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46885,
       "num": 66769,
       "word": "钟意FMVP",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1746897977,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41889,
-      "num": 286756,
-      "word": "学二代不当署名很难被及时发现处理",
-      "onboard_time": 1746958642,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 41839,
@@ -2651,14 +2683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 25674,
-      "num": 138128,
-      "word": "孕妇被狗咬主人称狗咬的让狗道歉",
-      "onboard_time": 1746959000,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25267,
       "num": 27187,
       "word": "李昊猛男养蚕第四天",
@@ -2724,7 +2748,7 @@
     },
     {
       "raw_hot": 21699,
-      "num": 158955,
+      "num": 238624,
       "word": "世界防治肥胖日如何避免减重反弹",
       "onboard_time": 1746958881,
       "rank": 34,
@@ -2889,6 +2913,14 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9341,
+      "num": 150227,
+      "word": "网友拍摄的新鲜出炉的火箭转移",
+      "onboard_time": 1746959842,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
