@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746952202046,
+  "endTime": 1746953083643,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -33,6 +33,14 @@
       "onboard_time": 1746887723,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1426580,
+      "num": 1426580,
+      "word": "黄多多出演人鱼",
+      "onboard_time": 1746951561,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 1369099,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1021466,
-      "num": 558880,
+      "num": 750982,
       "word": "人鱼",
       "onboard_time": 1746947362,
       "rank": 18,
@@ -299,6 +307,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 468959,
+      "num": 424678,
+      "word": "印度大坝已完全打开",
+      "onboard_time": 1746950121,
+      "rank": 6,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 456629,
+      "num": 456629,
+      "word": "王楚钦说带着妈妈的祝愿奔向太阳",
+      "onboard_time": 1746950780,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 452079,
       "num": 338651,
       "word": "聋哑司机偷拍女乘客视频配文低俗",
@@ -331,28 +355,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 438862,
-      "num": 438862,
-      "word": "王楚钦说带着妈妈的祝愿奔向太阳",
-      "onboard_time": 1746950780,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427329,
       "num": 427329,
       "word": "青岛行人相撞案相关法院道歉",
       "onboard_time": 1746885562,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "印度大坝已完全打开",
-      "onboard_time": 1746950121,
-      "rank": 6,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 421095,
@@ -384,6 +392,14 @@
       "word": "导演肯定也知道卢昱晓的手好看",
       "onboard_time": 1746936141,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 402182,
+      "num": 402182,
+      "word": "藏海传赴山海百指",
+      "onboard_time": 1746951141,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371029,
+      "num": 284511,
+      "word": "花75万采购299元产品高校已终止采购",
+      "onboard_time": 1746949462,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369595,
       "num": 338154,
       "word": "李乃文遇游客撞脸张子枫",
@@ -443,27 +467,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347971,
-      "num": 347971,
-      "word": "黄多多出演人鱼",
-      "onboard_time": 1746951561,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 346255,
       "num": 346255,
       "word": "母亲节鲜花卖爆了",
       "onboard_time": 1746928280,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341761,
-      "num": 284511,
-      "word": "花75万采购299元产品高校已终止采购",
-      "onboard_time": 1746949462,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -531,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305879,
-      "num": 305879,
-      "word": "藏海传赴山海百指",
-      "onboard_time": 1746951141,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300574,
       "num": 324248,
       "word": "美国关税战把美国农业打得好疼",
@@ -587,12 +587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 273452,
+      "num": 297189,
+      "word": "奚梦瑶何猷君出席好友婚礼",
+      "onboard_time": 1746950422,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272086,
       "num": 292366,
       "word": "印巴到底停没停火",
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264751,
+      "num": 264751,
+      "word": "高校回应网传花75万采购售价299产品",
+      "onboard_time": 1746950662,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263183,
@@ -608,14 +624,6 @@
       "word": "妈妈也是第一次当妈妈",
       "onboard_time": 1746936381,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261550,
-      "num": 261550,
-      "word": "高校回应网传花75万采购售价299产品",
-      "onboard_time": 1746950662,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -683,6 +691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230801,
+      "num": 230801,
+      "word": "张艺兴回复任嘉伦",
+      "onboard_time": 1746952041,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229760,
+      "num": 229760,
+      "word": "王一博汤唯合作",
+      "onboard_time": 1746952102,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223188,
       "num": 223188,
       "word": "男孩患巨痣植入扩张器治疗",
@@ -745,6 +769,14 @@
       "onboard_time": 1746929062,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208852,
+      "num": 179465,
+      "word": "陈哲远撕拉片",
+      "onboard_time": 1746952162,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 208003,
@@ -835,12 +867,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201184,
-      "num": 297189,
-      "word": "奚梦瑶何猷君出席好友婚礼",
-      "onboard_time": 1746950422,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 199673,
+      "num": 256713,
+      "word": "王权醉被杨一叹一剑刺死",
+      "onboard_time": 1746951682,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 198577,
@@ -971,14 +1003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179528,
-      "num": 256713,
-      "word": "王权醉被杨一叹一剑刺死",
-      "onboard_time": 1746951682,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
@@ -1099,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158980,
+      "num": 167276,
+      "word": "高校通报75万采购市价299元产品",
+      "onboard_time": 1746952942,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 158701,
       "num": 158701,
       "word": "13岁女孩被男生扇耳光后精神异常",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1746935120,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157167,
-      "num": 157167,
-      "word": "王一博汤唯合作",
-      "onboard_time": 1746952102,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 156560,
@@ -1187,6 +1211,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152774,
+      "num": 152774,
+      "word": "鹿晗四巡新乐器",
+      "onboard_time": 1746951981,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151699,
+      "num": 151699,
+      "word": "利路修 综艺",
+      "onboard_time": 1746952942,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149914,
       "num": 149914,
       "word": "刘浩存王安宇都营业了",
@@ -1225,14 +1265,6 @@
       "onboard_time": 1746919577,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146376,
-      "num": 146376,
-      "word": "张艺兴回复任嘉伦",
-      "onboard_time": 1746952041,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146259,
@@ -1291,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140705,
+      "num": 314033,
+      "word": "吴艳妮因为妈妈从不会焦虑和自卑",
+      "onboard_time": 1746951741,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140232,
       "num": 140232,
       "word": "陆虎演唱会退场真的很陆虎",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1746891982,
       "rank": 29,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 139106,
+      "num": 139106,
+      "word": "中药被李斯丹妮踢翻了",
+      "onboard_time": 1746952641,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 137115,
@@ -1395,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134030,
+      "num": 134030,
+      "word": "易梦玲水手服",
+      "onboard_time": 1746952762,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "歼35让中国海军实现作战能力最大化",
@@ -1459,22 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130659,
-      "num": 130659,
-      "word": "鹿晗四巡新乐器",
-      "onboard_time": 1746951981,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 129557,
-      "num": 129557,
-      "word": "陈哲远撕拉片",
-      "onboard_time": 1746952162,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129088,
       "num": 129088,
       "word": "波尔赞王楚钦是顶级球员",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1746925280,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127474,
+      "num": 127474,
+      "word": "小S二女儿晒照说你永远在我身边",
+      "onboard_time": 1746953064,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 126896,
@@ -1641,14 +1689,6 @@
       "onboard_time": 1746937221,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115613,
-      "num": 314033,
-      "word": "吴艳妮因为妈妈从不会焦虑和自卑",
-      "onboard_time": 1746951741,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 115335,
@@ -1931,12 +1971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77538,
+      "num": 179484,
+      "word": "在校生浏览境外反华网站传播谣言",
+      "onboard_time": 1746952282,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70783,
+      "num": 166485,
+      "word": "多地医院为胖友开减重营",
+      "onboard_time": 1746952222,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69169,
@@ -1953,6 +2009,14 @@
       "onboard_time": 1746928401,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 63780,
+      "num": 315732,
+      "word": "乐见潮向音乐节超好拍",
+      "onboard_time": 1746949462,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 61799,
@@ -1995,6 +2059,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 54970,
+      "num": 894111,
+      "word": "华龙一号凭啥这么火",
+      "onboard_time": 1746937401,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54675,
       "num": 83208,
       "word": "中国队晋级男女混合4×100米接力决赛",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1746941063,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53063,
-      "num": 894111,
-      "word": "华龙一号凭啥这么火",
-      "onboard_time": 1746937401,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52037,
@@ -2139,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38198,
-      "num": 315732,
-      "word": "乐见潮向音乐节超好拍",
-      "onboard_time": 1746949462,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 36382,
       "num": 346059,
       "word": "特教妈妈用19年托举281个家庭",
@@ -2251,6 +2307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24512,
+      "num": 152807,
+      "word": "基建狂魔又上分",
+      "onboard_time": 1746952041,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24250,
+      "num": 152937,
+      "word": "当年多么辛酸现在就有多风光",
+      "onboard_time": 1746951682,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 24124,
       "num": 263144,
       "word": "忙碌中如何表达对母亲的思念之情",
@@ -2307,12 +2379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19058,
+      "num": 179598,
+      "word": "如何辨别山寨射频治疗仪器",
+      "onboard_time": 1746952882,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17843,
       "num": 26636,
       "word": "国风舞蹈花田错舞台尽显东方美",
       "onboard_time": 1746899836,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17742,
+      "num": 179558,
+      "word": "巴民众近距离围观火箭炮发射",
+      "onboard_time": 1746952222,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17614,
@@ -2337,14 +2425,6 @@
       "onboard_time": 1746909734,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17284,
-      "num": 148100,
-      "word": "当年多么辛酸现在就有多风光",
-      "onboard_time": 1746951682,
-      "rank": 39,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 16728,
@@ -2425,14 +2505,6 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 8403,
-      "num": 149439,
-      "word": "基建狂魔又上分",
-      "onboard_time": 1746952041,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
