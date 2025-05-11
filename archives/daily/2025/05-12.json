@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1746984017437,
+  "endTime": 1746985090594,
   "band_list": [
     {
       "raw_hot": 793883,
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100380,
+      "num": 90127,
+      "word": "黄多多进军影视圈",
+      "onboard_time": 1746984077,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99400,
       "num": 99400,
       "word": "原来这么干都是无效减重",
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69669,
+      "num": 69669,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 69470,
       "num": 74797,
       "word": "王鹤棣跳车丝滑度满分",
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57671,
+      "num": 57671,
+      "word": "张杰感谢你们12场的陪伴",
+      "onboard_time": 1746984016,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 54437,
       "num": 54437,
       "word": "要减重每天睡足7小时",
@@ -473,6 +497,14 @@
       "onboard_time": 1746983417,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26121,
+      "num": 35071,
+      "word": "咒术回战五条悟",
+      "onboard_time": 1746984916,
+      "rank": 43,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
