@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746962383595,
+  "endTime": 1746963385590,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -59,7 +59,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1421979,
+      "raw_hot": 1423757,
       "num": 926868,
       "word": "张馨予家被水淹了",
       "onboard_time": 1746960741,
@@ -113,6 +113,14 @@
       "onboard_time": 1746931041,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1142606,
+      "num": 304271,
+      "word": "小英怒斥小三",
+      "onboard_time": 1746962601,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1058705,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552932,
+      "num": 552932,
+      "word": "张凌赫下水前问女生方不方便",
+      "onboard_time": 1746959902,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552011,
       "num": 552011,
       "word": "男子得物买52瓶古驰香水包装是假的",
@@ -345,14 +361,6 @@
       "onboard_time": 1746939801,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 503383,
-      "num": 503383,
-      "word": "张凌赫下水前问女生方不方便",
-      "onboard_time": 1746959902,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 496420,
@@ -667,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309631,
+      "num": 331198,
+      "word": "聋哑司机偷拍乘客被行拘",
+      "onboard_time": 1746960862,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 309482,
       "num": 309482,
       "word": "王一博汤唯合作",
@@ -737,6 +753,14 @@
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266651,
+      "num": 266651,
+      "word": "仙逆",
+      "onboard_time": 1746961761,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 264751,
@@ -841,14 +865,6 @@
       "onboard_time": 1746891143,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226639,
-      "num": 331198,
-      "word": "聋哑司机偷拍乘客被行拘",
-      "onboard_time": 1746960862,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 224879,
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208097,
+      "num": 208097,
+      "word": "专家称判断肥胖关键要看腰围",
+      "onboard_time": 1746962242,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 208003,
       "num": 205325,
       "word": "王一博感谢妈妈支持他的兴趣爱好",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1746919218,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202117,
-      "num": 202117,
-      "word": "仙逆",
-      "onboard_time": 1746961761,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 201931,
@@ -1203,6 +1219,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 183003,
+      "num": 183003,
+      "word": "共享AG荣耀时刻",
+      "onboard_time": 1746962663,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181865,
       "num": 345220,
       "word": "发现拼多多买花的人一定是天才",
@@ -1211,20 +1235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181735,
+      "num": 266497,
+      "word": "德容变形记",
+      "onboard_time": 1746961941,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180858,
       "num": 180858,
       "word": "堵车原因是土拨鼠打架",
       "onboard_time": 1746935481,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 179279,
-      "num": 179279,
-      "word": "专家称判断肥胖关键要看腰围",
-      "onboard_time": 1746962242,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 178535,
@@ -1452,7 +1476,7 @@
     },
     {
       "raw_hot": 154296,
-      "num": 154296,
+      "num": 265483,
       "word": "今年高价水果为啥纷纷降价",
       "onboard_time": 1746960561,
       "rank": 37,
@@ -1683,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139222,
+      "num": 139222,
+      "word": "花融友谊",
+      "onboard_time": 1746962842,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139200,
       "num": 161852,
       "word": "哈妮克孜让丁真不要无所谓",
@@ -1859,11 +1891,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129266,
-      "num": 129266,
-      "word": "德容变形记",
-      "onboard_time": 1746961941,
-      "rank": 45,
+      "raw_hot": 129311,
+      "num": 129311,
+      "word": "冠军命的陈昊宇很慌",
+      "onboard_time": 1746962301,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2003,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120462,
+      "num": 120462,
+      "word": "魏哲鸣就这样摇头摇到我心里了",
+      "onboard_time": 1746963021,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119431,
       "num": 119431,
       "word": "男子坚持戒糖3个月体重不降反升",
@@ -2139,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110454,
+      "num": 110454,
+      "word": "许嵩的梗已经进化到英文了",
+      "onboard_time": 1746963261,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110004,
       "num": 187018,
       "word": "刘诗诗完全是妈妈级别的",
@@ -2179,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105789,
+      "num": 105789,
+      "word": "只有大学生才懂她有多强",
+      "onboard_time": 1746960021,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105430,
       "num": 105430,
       "word": "王楚钦打台球有点天赋在身上",
@@ -2193,14 +2249,6 @@
       "onboard_time": 1746944481,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104671,
-      "num": 104671,
-      "word": "只有大学生才懂她有多强",
-      "onboard_time": 1746960021,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 103524,
@@ -2387,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83216,
+      "num": 361276,
+      "word": "嫦娥五号月球样品运抵英国",
+      "onboard_time": 1746961880,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82395,
       "num": 348599,
       "word": "她首先是她自己才是妈妈",
@@ -2425,14 +2481,6 @@
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71137,
-      "num": 361276,
-      "word": "嫦娥五号月球样品运抵英国",
-      "onboard_time": 1746961880,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 70783,
@@ -2667,6 +2715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42250,
+      "num": 157470,
+      "word": "四姑娘山镇卫生院回应游客因高反身亡",
+      "onboard_time": 1746957981,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41839,
       "num": 41839,
       "word": "何秋亊杂志",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1746961282,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40157,
+      "num": 263709,
+      "word": "哪些蔬菜烹饪前需焯水断生",
+      "onboard_time": 1746962481,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 39780,
@@ -2851,6 +2915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23987,
+      "num": 187219,
+      "word": "油罐车前往加油站途中车祸起火",
+      "onboard_time": 1746962000,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23486,
       "num": 189701,
       "word": "印媒舆论战未忽悠到西方媒体",
@@ -2929,14 +3001,6 @@
       "onboard_time": 1746952882,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18398,
-      "num": 187219,
-      "word": "油罐车前往加油站途中车祸起火",
-      "onboard_time": 1746962000,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17843,

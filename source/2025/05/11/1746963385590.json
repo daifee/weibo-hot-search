@@ -1,0 +1,410 @@
+{
+  "runTime": 1746963385590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1441464,
+        "num": 1441464,
+        "word": "东航MU5828安全出口被乘客打开",
+        "onboard_time": 1746957440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1065161,
+        "num": 1065161,
+        "word": "花海退役",
+        "onboard_time": 1746958642,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49265,
+        "num": 802133,
+        "word": "这只瓶子上藏着对妈妈的爱",
+        "onboard_time": 1746955221,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696998,
+        "num": 696998,
+        "word": "苹果16Pro首次参加国补",
+        "onboard_time": 1746958642,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 552932,
+        "num": 552932,
+        "word": "张凌赫下水前问女生方不方便",
+        "onboard_time": 1746959902,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411827,
+        "num": 411827,
+        "word": "高校通报75万采购市价299元产品",
+        "onboard_time": 1746952942,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 358777,
+        "num": 358777,
+        "word": "四姑娘山一游客疑因高反身亡",
+        "onboard_time": 1746955580,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340466,
+        "num": 340466,
+        "word": "许佳琪原生家庭",
+        "onboard_time": 1746955580,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335850,
+        "num": 335850,
+        "word": "藏海传赴山海百指",
+        "onboard_time": 1746951141,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309631,
+        "num": 309631,
+        "word": "聋哑司机偷拍乘客被行拘",
+        "onboard_time": 1746960862,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1423757,
+        "num": 305831,
+        "word": "张馨予家被水淹了",
+        "onboard_time": 1746960741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142606,
+        "num": 304271,
+        "word": "小英怒斥小三",
+        "onboard_time": 1746962601,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 301460,
+        "num": 301460,
+        "word": "巴基斯坦向印度发射导弹现场",
+        "onboard_time": 1746946641,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286989,
+        "num": 286989,
+        "word": "殿前欢",
+        "onboard_time": 1746957741,
+        "rank": 13,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 275990,
+        "num": 275990,
+        "word": "马嘉祺高会",
+        "onboard_time": 1746955940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268336,
+        "num": 268336,
+        "word": "75万采购路由器中标方参保人数0",
+        "onboard_time": 1746960681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266651,
+        "num": 266651,
+        "word": "仙逆",
+        "onboard_time": 1746961761,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181735,
+        "num": 266497,
+        "word": "德容变形记",
+        "onboard_time": 1746961941,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134213,
+        "num": 265483,
+        "word": "今年高价水果为啥纷纷降价",
+        "onboard_time": 1746960561,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 40157,
+        "num": 263709,
+        "word": "哪些蔬菜烹饪前需焯水断生",
+        "onboard_time": 1746962481,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 723467,
+        "num": 262969,
+        "word": "黄多多出演人鱼",
+        "onboard_time": 1746951561,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262523,
+        "num": 262523,
+        "word": "收到中国月壤后英方存入保险箱",
+        "onboard_time": 1746955520,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250870,
+        "num": 250870,
+        "word": "母亲节",
+        "onboard_time": 1746936381,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208097,
+        "num": 208097,
+        "word": "专家称判断肥胖关键要看腰围",
+        "onboard_time": 1746962242,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183003,
+        "num": 183003,
+        "word": "共享AG荣耀时刻",
+        "onboard_time": 1746962663,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184606,
+        "num": 179950,
+        "word": "马龙像送孩子出征的家长",
+        "onboard_time": 1746960561,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169814,
+        "num": 169814,
+        "word": "花75万采购299元产品高校已终止采购",
+        "onboard_time": 1746949462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167227,
+        "num": 167227,
+        "word": "佑灰",
+        "onboard_time": 1746961821,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149251,
+        "num": 162138,
+        "word": "王权醉被杨一叹一剑刺死",
+        "onboard_time": 1746951682,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23987,
+        "num": 161815,
+        "word": "油罐车前往加油站途中车祸起火",
+        "onboard_time": 1746962000,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161712,
+        "num": 161712,
+        "word": "韦雪自曝要去do脸了",
+        "onboard_time": 1746954442,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42250,
+        "num": 157470,
+        "word": "四姑娘山镇卫生院回应游客因高反身亡",
+        "onboard_time": 1746957981,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83216,
+        "num": 157199,
+        "word": "嫦娥五号月球样品运抵英国",
+        "onboard_time": 1746961880,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156954,
+        "num": 156954,
+        "word": "10元手冲咖啡阿姨爆火一年后现状",
+        "onboard_time": 1746944301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 156651,
+        "word": "张艺兴回复任嘉伦",
+        "onboard_time": 1746952041,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133556,
+        "num": 156522,
+        "word": "淮水竹亭超点",
+        "onboard_time": 1746960862,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156407,
+        "num": 156407,
+        "word": "陈赫生气了",
+        "onboard_time": 1746940642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152508,
+        "num": 152508,
+        "word": "母亲节红包",
+        "onboard_time": 1746939741,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139222,
+        "num": 139222,
+        "word": "花融友谊",
+        "onboard_time": 1746962842,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32653,
+        "num": 135391,
+        "word": "基建狂魔又上分",
+        "onboard_time": 1746952041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132884,
+        "num": 132884,
+        "word": "孕妇被狗咬主人称狗咬的让狗道歉",
+        "onboard_time": 1746959000,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130238,
+        "num": 130238,
+        "word": "37年没上过班打发时间教程",
+        "onboard_time": 1746958042,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129311,
+        "num": 129311,
+        "word": "冠军命的陈昊宇很慌",
+        "onboard_time": 1746962301,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128943,
+        "num": 128943,
+        "word": "实探上海1800元一杯咖啡",
+        "onboard_time": 1746962180,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 127458,
+        "word": "母亲节快乐",
+        "onboard_time": 1746938300,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120462,
+        "num": 120462,
+        "word": "魏哲鸣就这样摇头摇到我心里了",
+        "onboard_time": 1746963021,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110454,
+        "num": 110454,
+        "word": "许嵩的梗已经进化到英文了",
+        "onboard_time": 1746963261,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "王一博汤唯合作",
+        "onboard_time": 1746952102,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105789,
+        "num": 105789,
+        "word": "只有大学生才懂她有多强",
+        "onboard_time": 1746960021,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105674,
+        "num": 105674,
+        "word": "国乒出发多哈世乒赛",
+        "onboard_time": 1746957440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#谁言寸草心报得三春晖#"
+    }
+  }
+}
