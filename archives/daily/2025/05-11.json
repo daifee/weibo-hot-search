@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1746945179294,
+  "endTime": 1746946010321,
   "band_list": [
     {
       "raw_hot": 1594357,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1532387,
-      "num": 348108,
+      "num": 355874,
       "word": "陈赫生气了",
       "onboard_time": 1746940642,
       "rank": 12,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 537412,
-      "num": 347539,
+      "num": 348648,
       "word": "在蓝盈莹脸上看到漂亮基因的强大",
       "onboard_time": 1746939981,
       "rank": 15,
@@ -201,6 +201,14 @@
       "onboard_time": 1746875663,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510267,
+      "num": 510267,
+      "word": "苹果再次降价降幅超1000元",
+      "onboard_time": 1746943400,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 504263,
@@ -243,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 466061,
+      "num": 352288,
+      "word": "叶童回应房琪事件",
+      "onboard_time": 1746943822,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452079,
       "num": 338651,
       "word": "聋哑司机偷拍女乘客视频配文低俗",
@@ -259,8 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 441194,
-      "num": 441194,
+      "raw_hot": 442380,
+      "num": 442380,
       "word": "女子闯红灯撞车受伤被交警定全责",
       "onboard_time": 1746941063,
       "rank": 14,
@@ -273,6 +289,14 @@
       "onboard_time": 1746920538,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 431599,
+      "num": 431599,
+      "word": "10元手冲咖啡阿姨爆火一年后现状",
+      "onboard_time": 1746944301,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427329,
@@ -299,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399566,
+      "num": 399566,
+      "word": "孟子义演技",
+      "onboard_time": 1746942682,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396328,
       "num": 326272,
       "word": "年轻人养的东西越来越离谱了",
@@ -313,14 +345,6 @@
       "onboard_time": 1746880281,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376544,
-      "num": 376544,
-      "word": "孟子义演技",
-      "onboard_time": 1746942682,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 376268,
@@ -419,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310624,
+      "num": 345655,
+      "word": "演员3狂飙5个高启强7个高启盛",
+      "onboard_time": 1746944000,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
@@ -451,28 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295656,
-      "num": 295656,
-      "word": "叶童回应房琪事件",
-      "onboard_time": 1746943822,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 294091,
       "num": 294091,
       "word": "谁给袁姗姗做的妆造出来挨夸",
       "onboard_time": 1746888923,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286798,
-      "num": 286798,
-      "word": "苹果再次降价降幅超1000元",
-      "onboard_time": 1746943400,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 274625,
@@ -489,22 +505,6 @@
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 269012,
-      "num": 269012,
-      "word": "演员3狂飙5个高启强7个高启盛",
-      "onboard_time": 1746944000,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 265842,
-      "num": 265842,
-      "word": "10元手冲咖啡阿姨爆火一年后现状",
-      "onboard_time": 1746944301,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263183,
@@ -611,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216521,
+      "num": 216521,
+      "word": "花粉选的二番生",
+      "onboard_time": 1746945021,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214593,
       "num": 283563,
       "word": "邓超母亲节陪妈妈遛弯儿",
@@ -683,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204307,
-      "num": 204307,
-      "word": "花粉选的二番生",
-      "onboard_time": 1746945021,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201790,
       "num": 205741,
       "word": "周震南一秒认出A班班服",
@@ -737,6 +737,14 @@
       "onboard_time": 1746926241,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191595,
+      "num": 191595,
+      "word": "孟子义说阿媛错手杀了最爱的人",
+      "onboard_time": 1746945500,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 188800,
@@ -843,6 +851,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172367,
+      "num": 188148,
+      "word": "乘风2025",
+      "onboard_time": 1746939441,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171980,
+      "num": 171980,
+      "word": "陈梦程潇偷偷比肤色",
+      "onboard_time": 1746944721,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "飞猪小编押中冠军",
@@ -880,14 +904,6 @@
       "word": "钟丽缇自曝生三孩子经历",
       "onboard_time": 1746919338,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 160958,
-      "num": 160958,
-      "word": "乘风2025",
-      "onboard_time": 1746939441,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -987,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149221,
+      "num": 149221,
+      "word": "美国所有最大城市都在下沉",
+      "onboard_time": 1746944961,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 147539,
       "num": 147539,
       "word": "章若楠浴巾撕拉片",
@@ -1059,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 139201,
+      "num": 139201,
+      "word": "真榴莲自由马上来了",
+      "onboard_time": 1746944721,
+      "rank": 42,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 139200,
       "num": 161852,
       "word": "哈妮克孜让丁真不要无所谓",
@@ -1091,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136225,
+      "num": 136225,
+      "word": "垃圾桶有玫瑰 但不会有康乃馨",
+      "onboard_time": 1746942201,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "被邓紫棋8米狮子开场震撼到了",
       "onboard_time": 1746889161,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135129,
+      "num": 135129,
+      "word": "巴基斯坦民众坐在远火发射车旁",
+      "onboard_time": 1746944841,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134877,
@@ -1131,20 +1179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133883,
+      "num": 133883,
+      "word": "smtr25彩排",
+      "onboard_time": 1746945380,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133197,
       "num": 204945,
       "word": "母爱让林孝埈无畏前行",
       "onboard_time": 1746936381,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133081,
-      "num": 133081,
-      "word": "垃圾桶有玫瑰 但不会有康乃馨",
-      "onboard_time": 1746942201,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 132934,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1746925280,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126957,
-      "num": 126957,
-      "word": "美国所有最大城市都在下沉",
-      "onboard_time": 1746944961,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 126691,
@@ -1387,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110004,
+      "num": 187018,
+      "word": "刘诗诗完全是妈妈级别的",
+      "onboard_time": 1746943641,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110003,
       "num": 110003,
       "word": "慕强天菜一诺",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1746927801,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105264,
+      "num": 342555,
+      "word": "上门做饭月薪近2万女子发微博",
+      "onboard_time": 1746944481,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103524,
@@ -1456,6 +1512,14 @@
       "word": "妈妈的事业粉已上线",
       "onboard_time": 1746929181,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95775,
+      "num": 139350,
+      "word": "动物园悬赏寻找出逃40天水豚",
+      "onboard_time": 1746943102,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82395,
+      "num": 348599,
+      "word": "她首先是她自己才是妈妈",
+      "onboard_time": 1746944121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
@@ -1625,22 +1697,6 @@
       "onboard_time": 1746897019,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59065,
-      "num": 348599,
-      "word": "她首先是她自己才是妈妈",
-      "onboard_time": 1746944121,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56021,
-      "num": 342555,
-      "word": "上门做饭月薪近2万女子发微博",
-      "onboard_time": 1746944481,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55140,
@@ -1779,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36382,
+      "num": 346059,
+      "word": "特教妈妈用19年托举281个家庭",
+      "onboard_time": 1746943881,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35081,
       "num": 108796,
       "word": "中国队男子4×400米直通世锦赛",
@@ -1827,20 +1891,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 28868,
-      "num": 346059,
-      "word": "特教妈妈用19年托举281个家庭",
-      "onboard_time": 1746943881,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28333,
       "num": 876301,
       "word": "6组数据感受中国外贸韧性",
       "onboard_time": 1746869121,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25684,
+      "num": 329899,
+      "word": "识别心梗信号后应该怎么办",
+      "onboard_time": 1746945681,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25267,
@@ -1945,6 +2009,14 @@
       "onboard_time": 1746908535,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15959,
+      "num": 139203,
+      "word": "一代人有一代人的饺子吃法",
+      "onboard_time": 1746945560,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15579,
