@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747031831709,
+  "endTime": 1747032657820,
   "band_list": [
     {
       "raw_hot": 3321710,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1217375,
-      "num": 1217375,
+      "raw_hot": 1265236,
+      "num": 1265236,
       "word": "章若楠看丁真演戏的表情",
       "onboard_time": 1747028790,
       "rank": 1,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 955455,
+      "num": 372801,
+      "word": "张伦硕否认与钟丽缇一见钟情",
+      "onboard_time": 1747029869,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925958,
       "num": 538996,
       "word": "胡连馨 我去串个戏不要嫌弃我",
@@ -123,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 840899,
-      "num": 326674,
-      "word": "张伦硕否认与钟丽缇一见钟情",
-      "onboard_time": 1747029869,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 826383,
       "num": 541787,
       "word": "从存款40万到负债70万的真实经历",
@@ -145,6 +145,14 @@
       "onboard_time": 1746962601,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 709889,
+      "num": 709889,
+      "word": "金饰克价跌到1000元",
+      "onboard_time": 1747028431,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 703195,
@@ -219,14 +227,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 566677,
-      "num": 566677,
-      "word": "金饰克价跌到1000元",
-      "onboard_time": 1747028431,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 563563,
       "num": 563563,
       "word": "零分教资 满分教师",
@@ -296,6 +296,14 @@
       "word": "空降兵十五勇士惊天一跳再看依然震撼",
       "onboard_time": 1747012823,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465947,
+      "num": 465947,
+      "word": "5月12日14时28分",
+      "onboard_time": 1747030712,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330771,
-      "num": 330771,
-      "word": "5月12日14时28分",
-      "onboard_time": 1747030712,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 328889,
       "num": 283739,
       "word": "杨子女儿伯克利音乐学院毕业",
@@ -465,6 +465,14 @@
       "onboard_time": 1747014441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302389,
+      "num": 302389,
+      "word": "小米SU7成4月份10至50万销量榜首",
+      "onboard_time": 1747030591,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 298826,
@@ -595,20 +603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238514,
+      "num": 316196,
+      "word": "长沙一乡村别墅现地下代孕交易",
+      "onboard_time": 1747031722,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 238479,
       "num": 540291,
       "word": "刘宇说黄圣依很清醒",
       "onboard_time": 1747022423,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237649,
-      "num": 237649,
-      "word": "小米SU7成4月份10至50万销量榜首",
-      "onboard_time": 1747030591,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 236932,
@@ -691,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206007,
+      "num": 206007,
+      "word": "拍立得相纸涨价",
+      "onboard_time": 1747031842,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205668,
       "num": 541877,
       "word": "缅怀同胞致敬新生祝福汶川",
@@ -713,6 +729,14 @@
       "onboard_time": 1747015522,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201893,
+      "num": 176556,
+      "word": "当你不停运动3个月后",
+      "onboard_time": 1747032321,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 200128,
@@ -819,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178630,
+      "num": 178630,
+      "word": "巴基斯坦股市上涨9.2%",
+      "onboard_time": 1747028911,
+      "rank": 39,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 176291,
       "num": 176291,
       "word": "特朗普称将免费获得波音747当专机",
@@ -923,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161966,
+      "num": 179015,
+      "word": "演员请就位 卸妆抢角",
+      "onboard_time": 1747031069,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160601,
       "num": 160601,
       "word": "波尔说孙颖莎16岁就已经超强",
@@ -945,14 +985,6 @@
       "onboard_time": 1747012642,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159518,
-      "num": 179015,
-      "word": "演员请就位 卸妆抢角",
-      "onboard_time": 1747031069,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 158393,
@@ -1099,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143009,
+      "num": 143009,
+      "word": "中医鬼门十三针",
+      "onboard_time": 1747030050,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142649,
       "num": 142649,
       "word": "雷霆2比2掘金",
@@ -1131,12 +1171,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140437,
+      "num": 140437,
+      "word": "吃粽子吃出带血创可贴事件最新进展",
+      "onboard_time": 1747029151,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "倪虹洁一家八口跳手势舞",
       "onboard_time": 1747013660,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138940,
+      "num": 303069,
+      "word": "特朗普将签署行政令降低药价",
+      "onboard_time": 1747030409,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138135,
@@ -1211,28 +1267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131460,
-      "num": 303069,
-      "word": "特朗普将签署行政令降低药价",
-      "onboard_time": 1747030409,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 130862,
       "num": 130862,
       "word": "2025KPL夏季转会期",
       "onboard_time": 1747026982,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130504,
-      "num": 130504,
-      "word": "长沙一乡村别墅现地下代孕交易",
-      "onboard_time": 1747031722,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 129951,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1747025064,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126576,
+      "num": 126576,
+      "word": "淮水竹亭 开局一群人结局一堆坟",
+      "onboard_time": 1747031661,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 126162,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1747011922,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123665,
-      "num": 123665,
-      "word": "巴基斯坦股市上涨9.2%",
-      "onboard_time": 1747028911,
-      "rank": 39,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 123437,
@@ -1387,14 +1427,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 115119,
-      "num": 115119,
-      "word": "吃粽子吃出带血创可贴事件最新进展",
-      "onboard_time": 1747029151,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115114,
       "num": 115114,
       "word": "丁禹兮直播",
@@ -1404,7 +1436,7 @@
     },
     {
       "raw_hot": 114989,
-      "num": 114989,
+      "num": 175996,
       "word": "老师库存不足",
       "onboard_time": 1747030050,
       "rank": 44,
@@ -1433,14 +1465,6 @@
       "onboard_time": 1746992235,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105215,
-      "num": 105215,
-      "word": "淮水竹亭 开局一群人结局一堆坟",
-      "onboard_time": 1747031661,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 104526,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1746978322,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88912,
+      "num": 178882,
+      "word": "17年前被埋73小时后消逝的生命",
+      "onboard_time": 1747031069,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87612,
@@ -1723,20 +1755,20 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 67230,
+      "num": 1042986,
+      "word": "中国经济是大海",
+      "onboard_time": 1747026323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67185,
       "num": 201875,
       "word": "郑钦文vs弗莱彻",
       "onboard_time": 1746981080,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67100,
-      "num": 1042986,
-      "word": "中国经济是大海",
-      "onboard_time": 1747026323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65799,
@@ -1771,14 +1803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62309,
-      "num": 178882,
-      "word": "17年前被埋73小时后消逝的生命",
-      "onboard_time": 1747031069,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60506,
       "num": 124495,
       "word": "美媒称印度请求美国出面调停",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1746981440,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58889,
+      "num": 373369,
+      "word": "地震幸存者戴假肢爬512阶纪念同学",
+      "onboard_time": 1747032021,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58793,
@@ -1955,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37251,
+      "num": 140956,
+      "word": "张杰听小咘芽语音笑着哭了",
+      "onboard_time": 1747032562,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36374,
       "num": 477616,
       "word": "汶川大地震改变和留下了什么",
@@ -1977,6 +2017,14 @@
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29653,
+      "num": 140449,
+      "word": "印媒解读美官员为何宣传阵风被击落",
+      "onboard_time": 1747032621,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 29419,
@@ -2147,12 +2195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10094,
+      "num": 209967,
+      "word": "加沙供水危机对当地生活有何影响",
+      "onboard_time": 1747032081,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8137,
       "num": 14085,
       "word": "黑执事塞夏对抗路主仆",
       "onboard_time": 1746994874,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6729,
+      "num": 140443,
+      "word": "法国网友为阵风战机辩解",
+      "onboard_time": 1747032621,
+      "rank": 40,
+      "category": "国际时政,民生新闻"
     }
   ],
   "hotgov_list": [
