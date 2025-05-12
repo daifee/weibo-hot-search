@@ -1,0 +1,410 @@
+{
+  "runTime": 1747049864940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5677437,
+        "num": 5677437,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 734857,
+        "num": 734857,
+        "word": "浙江省饭",
+        "onboard_time": 1747045642,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 618207,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 598673,
+        "num": 598673,
+        "word": "金龟子女儿30天带货销售额超千万",
+        "onboard_time": 1747044862,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493423,
+        "num": 493423,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373637,
+        "num": 373637,
+        "word": "人生若如初见",
+        "onboard_time": 1747047203,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298478,
+        "num": 298478,
+        "word": "彭小苒反派胜利结算画面",
+        "onboard_time": 1747048940,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273965,
+        "num": 273965,
+        "word": "选丁真来演戏的人真是个天才",
+        "onboard_time": 1747041383,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271942,
+        "num": 271942,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249024,
+        "num": 249024,
+        "word": "中国稀土出口管制还在继续",
+        "onboard_time": 1747044381,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694753,
+        "num": 245489,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541373,
+        "num": 241302,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525693,
+        "num": 238500,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235434,
+        "num": 235434,
+        "word": "美取消14259号和14266号行政令关税",
+        "onboard_time": 1747038744,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126827,
+        "num": 234429,
+        "word": "中国队到达多哈后首次训练",
+        "onboard_time": 1747049182,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109975,
+        "num": 231474,
+        "word": "朱大爷离世前摔断肋骨住进ICU",
+        "onboard_time": 1747041503,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11879,
+        "num": 229346,
+        "word": "印巴停火期局势如何发展",
+        "onboard_time": 1747049542,
+        "rank": 16,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 113776,
+        "num": 228513,
+        "word": "孙颖莎多哈第一天上训",
+        "onboard_time": 1747049602,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69132,
+        "num": 225805,
+        "word": "中美联合声明将如何影响黄金市场",
+        "onboard_time": 1747048821,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105982,
+        "num": 223859,
+        "word": "荔枝榴莲价格跳水近30%",
+        "onboard_time": 1747049060,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 221891,
+        "num": 221891,
+        "word": "四十七 张康乐",
+        "onboard_time": 1747044922,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316377,
+        "num": 220787,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291943,
+        "num": 220190,
+        "word": "疑似李凯馨干爹发文",
+        "onboard_time": 1747034663,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706382,
+        "num": 218249,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223380,
+        "num": 217107,
+        "word": "张伦硕否认与钟丽缇一见钟情",
+        "onboard_time": 1747029869,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195089,
+        "num": 215290,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161112,
+        "num": 213376,
+        "word": "ian柳智敏cha",
+        "onboard_time": 1747046602,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157733,
+        "num": 211317,
+        "word": "许佳琪素颜",
+        "onboard_time": 1747049182,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142396,
+        "num": 210790,
+        "word": "网红迪士尼在逃公主每天只睡6小时",
+        "onboard_time": 1747033281,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58486,
+        "num": 209099,
+        "word": "孕晚期拒绝异地调岗被公司自动离职",
+        "onboard_time": 1747048642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58743,
+        "num": 207286,
+        "word": "智搜谈中美联合声明多维度影响",
+        "onboard_time": 1747048821,
+        "rank": 30,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 206679,
+        "num": 206679,
+        "word": "执法人员进入时有代孕女子躺在床上",
+        "onboard_time": 1747048281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205538,
+        "num": 205538,
+        "word": "李凯馨在外网发韩国春节快乐",
+        "onboard_time": 1747042942,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197448,
+        "num": 197448,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187674,
+        "num": 187674,
+        "word": "河海大学回应女博士实名举报导师",
+        "onboard_time": 1747048220,
+        "rank": 34,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 180903,
+        "num": 180903,
+        "word": "月亮",
+        "onboard_time": 1747049661,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14566,
+        "num": 173181,
+        "word": "折腰短剧版如何还原原著精髓",
+        "onboard_time": 1747048581,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170388,
+        "num": 170388,
+        "word": "男子误吞5cm鱼刺用土方身亡",
+        "onboard_time": 1747036345,
+        "rank": 37,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 146376,
+        "word": "买iPhone16还是等iPhone17",
+        "onboard_time": 1747041201,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13004,
+        "num": 138802,
+        "word": "美国公布一段最新的UFO视频",
+        "onboard_time": 1747049661,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 133067,
+        "num": 133067,
+        "word": "芬太尼",
+        "onboard_time": 1747039042,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129300,
+        "num": 129300,
+        "word": "折腰要拍短剧了",
+        "onboard_time": 1747038504,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129145,
+        "num": 129145,
+        "word": "CBA总决赛",
+        "onboard_time": 1747048642,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124342,
+        "num": 124342,
+        "word": "长沙涉嫌非法代孕活动场所已被查封",
+        "onboard_time": 1747040724,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123518,
+        "num": 123518,
+        "word": "戛纳明星造型",
+        "onboard_time": 1747045041,
+        "rank": 44,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 123035,
+        "num": 123035,
+        "word": "锤娜丽莎问李川你在高贵什么",
+        "onboard_time": 1747042642,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120777,
+        "num": 120777,
+        "word": "巴基斯坦网友惦记上了J35",
+        "onboard_time": 1747039405,
+        "rank": 46,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 111470,
+        "num": 111470,
+        "word": "短剧折腰选角",
+        "onboard_time": 1747048340,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110989,
+        "num": 110989,
+        "word": "沈月一笑就知道她又嗑到了",
+        "onboard_time": 1747049781,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108790,
+        "num": 108790,
+        "word": "汶川地震班里44人只活下来11人",
+        "onboard_time": 1747049422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

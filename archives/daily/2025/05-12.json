@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747048940977,
+  "endTime": 1747049864940,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -227,6 +227,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 734857,
+      "num": 734857,
+      "word": "浙江省饭",
+      "onboard_time": 1747045642,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 706382,
+      "num": 218249,
+      "word": "取消置顶删除聊天框宣告某人死亡了",
+      "onboard_time": 1747047321,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 703195,
       "num": 703195,
       "word": "藏海传",
@@ -323,20 +339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 598673,
+      "num": 598673,
+      "word": "金龟子女儿30天带货销售额超千万",
+      "onboard_time": 1747044862,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595589,
       "num": 595589,
       "word": "5月12日14时28分",
       "onboard_time": 1747030712,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 591724,
-      "num": 591724,
-      "word": "浙江省饭",
-      "onboard_time": 1747045642,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 586821,
@@ -433,14 +449,6 @@
       "onboard_time": 1747011322,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495216,
-      "num": 495216,
-      "word": "金龟子女儿30天带货销售额超千万",
-      "onboard_time": 1747044862,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 492633,
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373637,
+      "num": 373637,
+      "word": "人生若如初见",
+      "onboard_time": 1747047203,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365061,
       "num": 478528,
       "word": "歌手",
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298478,
+      "num": 298478,
+      "word": "彭小苒反派胜利结算画面",
+      "onboard_time": 1747048940,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287767,
       "num": 287767,
       "word": "东航MU5828安全出口被乘客打开",
@@ -809,14 +833,6 @@
       "onboard_time": 1747032862,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 271173,
-      "num": 271173,
-      "word": "人生若如初见",
-      "onboard_time": 1747047203,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 271092,
@@ -947,14 +963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238510,
-      "num": 193862,
-      "word": "取消置顶删除聊天框宣告某人死亡了",
-      "onboard_time": 1747047321,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238479,
       "num": 540291,
       "word": "刘宇说黄圣依很清醒",
@@ -1083,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206679,
+      "num": 270765,
+      "word": "执法人员进入时有代孕女子躺在床上",
+      "onboard_time": 1747048281,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205668,
       "num": 541877,
       "word": "缅怀同胞致敬新生祝福汶川",
@@ -1140,7 +1156,7 @@
     },
     {
       "raw_hot": 195466,
-      "num": 195466,
+      "num": 213376,
       "word": "ian柳智敏cha",
       "onboard_time": 1747046602,
       "rank": 43,
@@ -1153,6 +1169,14 @@
       "onboard_time": 1746976941,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195089,
+      "num": 215290,
+      "word": "歌手2025首发阵容和经纪人",
+      "onboard_time": 1747049121,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 194006,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1747042342,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187674,
+      "num": 187674,
+      "word": "河海大学回应女博士实名举报导师",
+      "onboard_time": 1747048220,
+      "rank": 33,
+      "category": "舆论监督,教育"
     },
     {
       "raw_hot": 187282,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1747014681,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180903,
+      "num": 180903,
+      "word": "月亮",
+      "onboard_time": 1747049661,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178630,
@@ -1507,14 +1547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160099,
-      "num": 141921,
-      "word": "河海大学回应女博士实名举报导师",
-      "onboard_time": 1747048220,
-      "rank": 33,
-      "category": "舆论监督,教育"
-    },
-    {
       "raw_hot": 159068,
       "num": 159068,
       "word": "港股",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1747016482,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 157733,
+      "num": 211317,
+      "word": "许佳琪素颜",
+      "onboard_time": 1747049182,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 157600,
@@ -1939,6 +1979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129145,
+      "num": 129145,
+      "word": "CBA总决赛",
+      "onboard_time": 1747048642,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127616,
       "num": 371131,
       "word": "在矫正学校死亡的14岁少年",
@@ -1953,6 +2001,14 @@
       "onboard_time": 1747025064,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126827,
+      "num": 234429,
+      "word": "中国队到达多哈后首次训练",
+      "onboard_time": 1747049182,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 126576,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1746969922,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124551,
-      "num": 124551,
-      "word": "CBA总决赛",
-      "onboard_time": 1747048642,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 124542,
@@ -2147,6 +2195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113776,
+      "num": 228513,
+      "word": "孙颖莎多哈第一天上训",
+      "onboard_time": 1747049602,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112725,
       "num": 124463,
       "word": "黑执事作者枢梁发文",
@@ -2155,12 +2211,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 111317,
-      "num": 270765,
-      "word": "执法人员进入时有代孕女子躺在床上",
-      "onboard_time": 1747048281,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 111470,
+      "num": 111470,
+      "word": "短剧折腰选角",
+      "onboard_time": 1747048340,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110989,
+      "num": 110989,
+      "word": "沈月一笑就知道她又嗑到了",
+      "onboard_time": 1747049781,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110896,
@@ -2179,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108790,
+      "num": 108790,
+      "word": "汶川地震班里44人只活下来11人",
+      "onboard_time": 1747049422,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107537,
       "num": 251927,
       "word": "苹果概念港股大涨",
@@ -2195,20 +2267,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105982,
+      "num": 223859,
+      "word": "荔枝榴莲价格跳水近30%",
+      "onboard_time": 1747049060,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 104526,
       "num": 104526,
       "word": "原来这些歌是为汶川地震写的",
       "onboard_time": 1747030350,
       "rank": 48,
       "category": "音乐,民生新闻"
-    },
-    {
-      "raw_hot": 104293,
-      "num": 104293,
-      "word": "短剧折腰选角",
-      "onboard_time": 1747048340,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 103319,
@@ -2539,6 +2611,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 69132,
+      "num": 225805,
+      "word": "中美联合声明将如何影响黄金市场",
+      "onboard_time": 1747048821,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69036,
       "num": 117859,
       "word": "先收藏起来吓吓没用的身体",
@@ -2641,6 +2721,22 @@
       "onboard_time": 1746982337,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58743,
+      "num": 207286,
+      "word": "智搜谈中美联合声明多维度影响",
+      "onboard_time": 1747048821,
+      "rank": 34,
+      "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 58486,
+      "num": 209099,
+      "word": "孕晚期拒绝异地调岗被公司自动离职",
+      "onboard_time": 1747048642,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58425,
@@ -2891,14 +2987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36744,
-      "num": 143238,
-      "word": "孕晚期拒绝异地调岗被公司自动离职",
-      "onboard_time": 1747048642,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36374,
       "num": 477616,
       "word": "汶川大地震改变和留下了什么",
@@ -3099,28 +3187,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17955,
-      "num": 142215,
-      "word": "中美联合声明将如何影响黄金市场",
-      "onboard_time": 1747048821,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15961,
       "num": 18143,
       "word": "射频抗衰后没效果皮肤反被烫伤",
       "onboard_time": 1746989774,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15569,
-      "num": 141394,
-      "word": "智搜谈中美联合声明多维度影响",
-      "onboard_time": 1747048821,
-      "rank": 34,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 15553,
@@ -3147,6 +3219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14566,
+      "num": 187835,
+      "word": "折腰短剧版如何还原原著精髓",
+      "onboard_time": 1747048581,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14010,
       "num": 125436,
       "word": "美国农业已受到美关税政策冲击",
@@ -3161,6 +3241,14 @@
       "onboard_time": 1747037783,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13004,
+      "num": 138802,
+      "word": "美国公布一段最新的UFO视频",
+      "onboard_time": 1747049661,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 12977,
@@ -3203,6 +3291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11879,
+      "num": 229346,
+      "word": "印巴停火期局势如何发展",
+      "onboard_time": 1747049542,
+      "rank": 16,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 10094,
       "num": 209967,
       "word": "加沙供水危机对当地生活有何影响",
@@ -3217,14 +3313,6 @@
       "onboard_time": 1747041383,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 8301,
-      "num": 187835,
-      "word": "折腰短剧版如何还原原著精髓",
-      "onboard_time": 1747048581,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 8137,
