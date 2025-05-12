@@ -1,0 +1,410 @@
+{
+  "runTime": 1747025144457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3197026,
+        "num": 3197026,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000675,
+        "num": 1000675,
+        "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+        "onboard_time": 1747019061,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171910,
+        "num": 703757,
+        "word": "中美经贸高层会谈取得了实质性进展",
+        "onboard_time": 1747006159,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655017,
+        "num": 655017,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641593,
+        "num": 641593,
+        "word": "女子为取已故父亲存款起诉奶奶",
+        "onboard_time": 1747020323,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629025,
+        "num": 629025,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586342,
+        "num": 586342,
+        "word": "汶川地震朱大爷已于2011年去世",
+        "onboard_time": 1747016841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563563,
+        "num": 563563,
+        "word": "零分教资 满分教师",
+        "onboard_time": 1747020501,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526017,
+        "num": 526017,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517148,
+        "num": 517148,
+        "word": "张杰女儿小咘芽商标已被抢注",
+        "onboard_time": 1747021642,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1347238,
+        "num": 490997,
+        "word": "曝李凯馨ins翻车",
+        "onboard_time": 1747023022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074241,
+        "num": 486548,
+        "word": "菅纫姿发文",
+        "onboard_time": 1747021342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838023,
+        "num": 476477,
+        "word": "胡连馨 我去串个戏不要嫌弃我",
+        "onboard_time": 1747021221,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445889,
+        "num": 445889,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54047,
+        "num": 371131,
+        "word": "在矫正学校死亡的14岁少年",
+        "onboard_time": 1747024704,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617977,
+        "num": 369140,
+        "word": "印军方称击落数架巴基斯坦飞机",
+        "onboard_time": 1747019900,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 583362,
+        "num": 368013,
+        "word": "古茗 黑白",
+        "onboard_time": 1747023983,
+        "rank": 16,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 364696,
+        "num": 364696,
+        "word": "高圆圆说自己的人生底色是悲观",
+        "onboard_time": 1747023743,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213472,
+        "num": 326436,
+        "word": "歌手",
+        "onboard_time": 1747019422,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109438,
+        "num": 316679,
+        "word": "美国疑出现可变形UFO盘旋15分钟",
+        "onboard_time": 1747024404,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386492,
+        "num": 316490,
+        "word": "从存款40万到负债70万的真实经历",
+        "onboard_time": 1747007360,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315837,
+        "num": 315837,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295250,
+        "num": 295250,
+        "word": "李凯馨",
+        "onboard_time": 1747012402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200128,
+        "num": 294761,
+        "word": "JIWOO的鞋飞出去了",
+        "onboard_time": 1747022721,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29419,
+        "num": 292466,
+        "word": "现货黄金日内跌2%",
+        "onboard_time": 1747015522,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189331,
+        "num": 290567,
+        "word": "肖战得闲谨制推介会",
+        "onboard_time": 1747024524,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185674,
+        "num": 287209,
+        "word": "刘宇说黄圣依很清醒",
+        "onboard_time": 1747022423,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19914,
+        "num": 285338,
+        "word": "汶川空降兵十五勇士的请战书",
+        "onboard_time": 1747024883,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98720,
+        "num": 284092,
+        "word": "印军承认有战斗机损毁",
+        "onboard_time": 1747024883,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115842,
+        "num": 282481,
+        "word": "英媒将巴空军称为空中之王",
+        "onboard_time": 1747023743,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 278811,
+        "num": 280621,
+        "word": "上门做饭月入2万女子每周只休半天",
+        "onboard_time": 1747017981,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279142,
+        "num": 279142,
+        "word": "世界突然开始以和为贵",
+        "onboard_time": 1747019482,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14755,
+        "num": 274541,
+        "word": "美国今年夏天将更昂贵",
+        "onboard_time": 1747025064,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204565,
+        "num": 272640,
+        "word": "乘风2025",
+        "onboard_time": 1747025003,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272573,
+        "num": 272573,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241250,
+        "num": 241250,
+        "word": "本周财运暴涨的星座",
+        "onboard_time": 1747023201,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217925,
+        "num": 217925,
+        "word": "工作舒服的秘诀只有一个",
+        "onboard_time": 1747022721,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214955,
+        "num": 214955,
+        "word": "台当局将96%汉人改为其余人口遭批",
+        "onboard_time": 1747011381,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211136,
+        "num": 211136,
+        "word": "巴少将称阵风用的好会很强大",
+        "onboard_time": 1747019001,
+        "rank": 38,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 45338,
+        "num": 204468,
+        "word": "睡前可以练的超简单腿部动作",
+        "onboard_time": 1747024823,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 203605,
+        "num": 203605,
+        "word": "空降兵十五勇士惊天一跳再看依然震撼",
+        "onboard_time": 1747012823,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192231,
+        "num": 192231,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 41,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 92401,
+        "num": 190177,
+        "word": "普京观看二战电影时默默流泪",
+        "onboard_time": 1747024583,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188517,
+        "num": 188517,
+        "word": "对这种玩笑 永远不要笑",
+        "onboard_time": 1747018641,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177954,
+        "num": 177954,
+        "word": "李凯馨疑似戏份比娜扎还要多",
+        "onboard_time": 1747020022,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164619,
+        "num": 173008,
+        "word": "六公主排片纽约我爱你",
+        "onboard_time": 1747018582,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110419,
+        "num": 171516,
+        "word": "林志炫发文悼念恩师韩贤光",
+        "onboard_time": 1747024944,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170961,
+        "num": 170961,
+        "word": "何炅上班和上学哪一个更苦",
+        "onboard_time": 1747011322,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30025,
+        "num": 167346,
+        "word": "银魂还是太全面了",
+        "onboard_time": 1747024944,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 167241,
+        "word": "汶川大地震改变和留下了什么",
+        "onboard_time": 1747020620,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

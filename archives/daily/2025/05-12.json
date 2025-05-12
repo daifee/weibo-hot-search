@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747024270782,
+  "endTime": 1747025144457,
   "band_list": [
     {
       "raw_hot": 3321710,
@@ -17,6 +17,14 @@
       "onboard_time": 1747004898,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1347238,
+      "num": 537429,
+      "word": "曝李凯馨ins翻车",
+      "onboard_time": 1747023022,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1300099,
@@ -115,14 +123,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 741779,
-      "num": 537429,
-      "word": "曝李凯馨ins翻车",
-      "onboard_time": 1747023022,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 703195,
       "num": 703195,
       "word": "藏海传",
@@ -131,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641593,
+      "num": 641593,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630770,
       "num": 286159,
       "word": "港媒报道李凯馨",
       "onboard_time": 1746975562,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617977,
+      "num": 536145,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 617316,
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 591880,
-      "num": 536145,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 586821,
       "num": 586821,
       "word": "5121428是中国人的心痛瞬间",
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 561490,
-      "num": 561490,
+      "raw_hot": 583362,
+      "num": 368013,
+      "word": "古茗 黑白",
+      "onboard_time": 1747023983,
+      "rank": 36,
+      "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 563563,
+      "num": 563563,
       "word": "零分教资 满分教师",
       "onboard_time": 1747020501,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 540509,
-      "num": 540509,
-      "word": "女子为取已故父亲存款起诉奶奶",
-      "onboard_time": 1747020323,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 536107,
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364696,
+      "num": 481712,
+      "word": "高圆圆说自己的人生底色是悲观",
+      "onboard_time": 1747023743,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354512,
       "num": 354512,
       "word": "母亲失联20多年起诉3子女要求陪伴",
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 252709,
-      "num": 252709,
-      "word": "古茗 黑白",
-      "onboard_time": 1747023983,
-      "rank": 36,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 242235,
       "num": 282572,
       "word": "淮水竹亭陪看变陪哭",
@@ -579,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206898,
-      "num": 481712,
-      "word": "高圆圆说自己的人生底色是悲观",
-      "onboard_time": 1747023743,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205668,
       "num": 541877,
       "word": "缅怀同胞致敬新生祝福汶川",
@@ -595,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204565,
+      "num": 272640,
+      "word": "乘风2025",
+      "onboard_time": 1747025003,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203152,
       "num": 203152,
       "word": "印度空军称所有飞行员已返回国内",
       "onboard_time": 1747015522,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200128,
+      "num": 381005,
+      "word": "JIWOO的鞋飞出去了",
+      "onboard_time": 1747022721,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 195878,
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189331,
+      "num": 290567,
+      "word": "肖战得闲谨制推介会",
+      "onboard_time": 1747024524,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187282,
       "num": 273221,
       "word": "央8节目单有藏海传了",
@@ -641,14 +665,6 @@
       "onboard_time": 1747005798,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185457,
-      "num": 381005,
-      "word": "JIWOO的鞋飞出去了",
-      "onboard_time": 1747022721,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 184573,
@@ -1035,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115842,
+      "num": 369542,
+      "word": "英媒将巴空军称为空中之王",
+      "onboard_time": 1747023743,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 115114,
       "num": 115114,
       "word": "丁禹兮直播",
@@ -1043,12 +1067,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114926,
-      "num": 369542,
-      "word": "英媒将巴空军称为空中之王",
-      "onboard_time": 1747023743,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 110419,
+      "num": 171516,
+      "word": "林志炫发文悼念恩师韩贤光",
+      "onboard_time": 1747024944,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109438,
+      "num": 316679,
+      "word": "美国疑出现可变形UFO盘旋15分钟",
+      "onboard_time": 1747024404,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106147,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1746992235,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98720,
+      "num": 284092,
+      "word": "印军承认有战斗机损毁",
+      "onboard_time": 1747024883,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96661,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1746969862,
       "rank": 36,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 92401,
+      "num": 190177,
+      "word": "普京观看二战电影时默默流泪",
+      "onboard_time": 1747024583,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90936,
@@ -1387,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54047,
+      "num": 371131,
+      "word": "在矫正学校死亡的14岁少年",
+      "onboard_time": 1747024704,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53515,
       "num": 209872,
       "word": "S400被打爆具有划时代的意义",
@@ -1467,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45338,
+      "num": 204468,
+      "word": "睡前可以练的超简单腿部动作",
+      "onboard_time": 1747024823,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 43931,
       "num": 217841,
       "word": "宁德时代将在港上市",
@@ -1499,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36374,
+      "num": 477616,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34147,
       "num": 31054,
       "word": "妈宝女",
@@ -1507,12 +1579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26237,
-      "num": 477616,
-      "word": "汶川大地震改变和留下了什么",
-      "onboard_time": 1747020620,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 30025,
+      "num": 167346,
+      "word": "银魂还是太全面了",
+      "onboard_time": 1747024944,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 29419,
+      "num": 292466,
+      "word": "现货黄金日内跌2%",
+      "onboard_time": 1747015522,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 26121,
@@ -1579,6 +1659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19914,
+      "num": 285338,
+      "word": "汶川空降兵十五勇士的请战书",
+      "onboard_time": 1747024883,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19570,
       "num": 26475,
       "word": "张泽禹官摄舞台太爽了",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1746989774,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14755,
+      "num": 274541,
+      "word": "美国今年夏天将更昂贵",
+      "onboard_time": 1747025064,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14651,

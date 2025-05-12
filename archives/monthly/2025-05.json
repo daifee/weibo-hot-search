@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747024270782,
+  "endTime": 1747025144457,
   "band_list": [
     {
       "raw_hot": 12488656,
@@ -977,6 +977,14 @@
       "onboard_time": 1746068300,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1347238,
+      "num": 537429,
+      "word": "曝李凯馨ins翻车",
+      "onboard_time": 1747023022,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1339493,
@@ -3291,14 +3299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 741779,
-      "num": 537429,
-      "word": "曝李凯馨ins翻车",
-      "onboard_time": 1747023022,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 741447,
       "num": 741447,
       "word": "马斯克称地球会被太阳焚化",
@@ -4131,6 +4131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 641593,
+      "num": 641593,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640144,
       "num": 293055,
       "word": "小说男主竟然成了我的男友",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1746087561,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617977,
+      "num": 536145,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 617826,
@@ -4627,14 +4643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591880,
-      "num": 536145,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 591824,
       "num": 591824,
       "word": "央视新闻播出周云杰演讲",
@@ -4737,6 +4745,14 @@
       "onboard_time": 1746322340,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 583362,
+      "num": 368013,
+      "word": "古茗 黑白",
+      "onboard_time": 1747023983,
+      "rank": 36,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 581521,
@@ -4923,20 +4939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563563,
+      "num": 563563,
+      "word": "零分教资 满分教师",
+      "onboard_time": 1747020501,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 562821,
       "num": 562821,
       "word": "护士发论文称男性确诊子宫肌瘤",
       "onboard_time": 1746419542,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561490,
-      "num": 561490,
-      "word": "零分教资 满分教师",
-      "onboard_time": 1747020501,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 561227,
@@ -5105,14 +5121,6 @@
       "onboard_time": 1746170120,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540509,
-      "num": 540509,
-      "word": "女子为取已故父亲存款起诉奶奶",
-      "onboard_time": 1747020323,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540420,
@@ -8145,6 +8153,14 @@
       "onboard_time": 1746413001,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364696,
+      "num": 481712,
+      "word": "高圆圆说自己的人生底色是悲观",
+      "onboard_time": 1747023743,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 364600,
@@ -11739,14 +11755,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 252709,
-      "num": 252709,
-      "word": "古茗 黑白",
-      "onboard_time": 1747023983,
-      "rank": 36,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 252516,
       "num": 365787,
       "word": "出嫁不是剥夺女性土地权益的理由",
@@ -14339,14 +14347,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 206898,
-      "num": 481712,
-      "word": "高圆圆说自己的人生底色是悲观",
-      "onboard_time": 1747023743,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206871,
       "num": 206871,
       "word": "湖南卫视又连发8条成毅",
@@ -14736,6 +14736,14 @@
       "word": "刘诗诗今天认识了好多漂亮的花花",
       "onboard_time": 1746542004,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204565,
+      "num": 272640,
+      "word": "乘风2025",
+      "onboard_time": 1746939441,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -15353,6 +15361,14 @@
       "onboard_time": 1746161790,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200128,
+      "num": 381005,
+      "word": "JIWOO的鞋飞出去了",
+      "onboard_time": 1747022721,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 200123,
@@ -17227,6 +17243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 189331,
+      "num": 290567,
+      "word": "肖战得闲谨制推介会",
+      "onboard_time": 1747024524,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189325,
       "num": 189325,
       "word": "新说唱节目组格局",
@@ -17865,14 +17889,6 @@
       "onboard_time": 1746694821,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185457,
-      "num": 381005,
-      "word": "JIWOO的鞋飞出去了",
-      "onboard_time": 1747022721,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 185334,
@@ -19504,14 +19520,6 @@
       "word": "种地吧五一插秧日plive",
       "onboard_time": 1746082883,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172367,
-      "num": 188148,
-      "word": "乘风2025",
-      "onboard_time": 1746939441,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -30115,6 +30123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115842,
+      "num": 369542,
+      "word": "英媒将巴空军称为空中之王",
+      "onboard_time": 1747023743,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 115791,
       "num": 115791,
       "word": "凤凰古城",
@@ -30289,14 +30305,6 @@
       "onboard_time": 1746631224,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114926,
-      "num": 369542,
-      "word": "英媒将巴空军称为空中之王",
-      "onboard_time": 1747023743,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 114886,
@@ -31019,6 +31027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110419,
+      "num": 171516,
+      "word": "林志炫发文悼念恩师韩贤光",
+      "onboard_time": 1747024944,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110382,
       "num": 110382,
       "word": "张康乐营业",
@@ -31225,6 +31241,14 @@
       "onboard_time": 1746603742,
       "rank": 18,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 109438,
+      "num": 316679,
+      "word": "美国疑出现可变形UFO盘旋15分钟",
+      "onboard_time": 1747024404,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109415,
@@ -32739,6 +32763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98720,
+      "num": 284092,
+      "word": "印军承认有战斗机损毁",
+      "onboard_time": 1747024883,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98618,
       "num": 98618,
       "word": "女子没喊爸妈被公婆指责没教养",
@@ -33385,6 +33417,14 @@
       "onboard_time": 1746627203,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92401,
+      "num": 190177,
+      "word": "普京观看二战电影时默默流泪",
+      "onboard_time": 1747024583,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92383,
@@ -37027,6 +37067,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 54047,
+      "num": 371131,
+      "word": "在矫正学校死亡的14岁少年",
+      "onboard_time": 1747024704,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54027,
       "num": 224785,
       "word": "直播五一假期的景点",
@@ -37897,6 +37945,14 @@
       "onboard_time": 1746934280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45338,
+      "num": 204468,
+      "word": "睡前可以练的超简单腿部动作",
+      "onboard_time": 1747024823,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 45309,
@@ -38987,6 +39043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36374,
+      "num": 477616,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36351,
       "num": 586358,
       "word": "网警查处一起法律服务公司侵公案",
@@ -39835,6 +39899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 30025,
+      "num": 167346,
+      "word": "银魂还是太全面了",
+      "onboard_time": 1747024944,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30019,
       "num": 30019,
       "word": "张峻豪我们下次再见",
@@ -39873,6 +39945,14 @@
       "onboard_time": 1746674060,
       "rank": 39,
       "category": "海外新闻,议题讨论"
+    },
+    {
+      "raw_hot": 29419,
+      "num": 292466,
+      "word": "现货黄金日内跌2%",
+      "onboard_time": 1747015522,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 29351,
@@ -40337,14 +40417,6 @@
       "onboard_time": 1746631825,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 26237,
-      "num": 477616,
-      "word": "汶川大地震改变和留下了什么",
-      "onboard_time": 1747020620,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26121,
@@ -41491,6 +41563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19914,
+      "num": 285338,
+      "word": "汶川空降兵十五勇士的请战书",
+      "onboard_time": 1747024883,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19796,
       "num": 349236,
       "word": "分别32年和26年后他们再见母亲",
@@ -42337,6 +42417,14 @@
       "onboard_time": 1746868763,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14755,
+      "num": 274541,
+      "word": "美国今年夏天将更昂贵",
+      "onboard_time": 1747025064,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14696,
