@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747067589335,
+  "endTime": 1747068535373,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411130,
+      "num": 411130,
+      "word": "丁真我真没空陪你闹了",
+      "onboard_time": 1747064482,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389859,
       "num": 245566,
       "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372403,
-      "num": 372403,
-      "word": "丁真我真没空陪你闹了",
-      "onboard_time": 1747064482,
+      "raw_hot": 366232,
+      "num": 366232,
+      "word": "SK",
+      "onboard_time": 1747067600,
       "rank": 4,
-      "category": "综艺"
+      "category": "电竞"
     },
     {
       "raw_hot": 343995,
@@ -131,6 +139,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 218182,
+      "num": 253237,
+      "word": "上官正义曝别墅代孕后接到神秘电话",
+      "onboard_time": 1747064421,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213098,
       "num": 213098,
       "word": "折腰",
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181675,
+      "num": 145692,
+      "word": "重庆震感",
+      "onboard_time": 1747066520,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 163263,
       "num": 163263,
       "word": "男子称花费17万做屁股整形遇假专家",
@@ -171,28 +195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135757,
-      "num": 253237,
-      "word": "上官正义曝别墅代孕后接到神秘电话",
-      "onboard_time": 1747064421,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132632,
       "num": 132632,
       "word": "知情人称成都一家三口河边游玩溺水",
       "onboard_time": 1747060464,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130336,
-      "num": 130336,
-      "word": "重庆震感",
-      "onboard_time": 1747066520,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 129638,
@@ -211,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117766,
-      "num": 117766,
+      "raw_hot": 125606,
+      "num": 125606,
       "word": "网友说黄多多补全了05四花",
       "onboard_time": 1747066881,
       "rank": 28,
@@ -339,20 +347,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85150,
+      "num": 214378,
+      "word": "郑钦文vs安德莱斯库",
+      "onboard_time": 1747065201,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83403,
       "num": 83403,
       "word": "中美关税降税后不到30%",
       "onboard_time": 1747038865,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82109,
-      "num": 214378,
-      "word": "郑钦文vs安德莱斯库",
-      "onboard_time": 1747065201,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 81892,
@@ -387,6 +395,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59350,
+      "num": 59350,
+      "word": "客服回应雪碧悄悄换配方",
+      "onboard_time": 1747059683,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57425,
+      "num": 57425,
+      "word": "美方要珍惜中方的善意",
+      "onboard_time": 1747068438,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 47733,
       "num": 76718,
       "word": "成都本地车厘子上市",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#中国为维护全球战略稳定干了实事#"
+    },
+    {
+      "word": "#领航战略协作共促世界和平#"
     }
   ]
 }

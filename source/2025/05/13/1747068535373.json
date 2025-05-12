@@ -1,0 +1,410 @@
+{
+  "runTime": 1747068535373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 727945,
+        "num": 756471,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411130,
+        "num": 411130,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32439,
+        "num": 377841,
+        "word": "万千气象看荆楚",
+        "onboard_time": 1747057405,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 369859,
+        "num": 369859,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366232,
+        "num": 366232,
+        "word": "SK",
+        "onboard_time": 1747067600,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322730,
+        "num": 322730,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259266,
+        "num": 259266,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219290,
+        "num": 219290,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 7,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 218182,
+        "num": 218182,
+        "word": "上官正义曝别墅代孕后接到神秘电话",
+        "onboard_time": 1747064421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85150,
+        "num": 213379,
+        "word": "郑钦文vs安德莱斯库",
+        "onboard_time": 1747065201,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406690,
+        "num": 213178,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212496,
+        "num": 212496,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302823,
+        "num": 211550,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287472,
+        "num": 199003,
+        "word": "98年出生的老爷猫去世",
+        "onboard_time": 1747061484,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277123,
+        "num": 196273,
+        "word": "安静公主自曝没谈过恋爱",
+        "onboard_time": 1747062623,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 182754,
+        "num": 182754,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177298,
+        "num": 177298,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175618,
+        "num": 175618,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165522,
+        "num": 165522,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154792,
+        "num": 154792,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803751,
+        "num": 149899,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192281,
+        "num": 148862,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181675,
+        "num": 145692,
+        "word": "重庆震感",
+        "onboard_time": 1747066520,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141063,
+        "num": 141063,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138508,
+        "num": 138508,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125606,
+        "num": 125606,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107968,
+        "num": 107968,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100297,
+        "num": 100297,
+        "word": "男子称花费17万做屁股整形遇假专家",
+        "onboard_time": 1747063582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86629,
+        "num": 86629,
+        "word": "钟汉良肖战藏海传里演父子",
+        "onboard_time": 1747064482,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86119,
+        "num": 86119,
+        "word": "让黄圣依最疲惫的综艺出现了",
+        "onboard_time": 1747066219,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87458,
+        "num": 85190,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57202,
+        "num": 84134,
+        "word": "102岁老人每天6点半起床撸铁",
+        "onboard_time": 1747058783,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83562,
+        "num": 83562,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77931,
+        "num": 77931,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77755,
+        "num": 77755,
+        "word": "金价下跌因素",
+        "onboard_time": 1747065142,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76687,
+        "num": 76687,
+        "word": "知情人称成都一家三口河边游玩溺水",
+        "onboard_time": 1747060464,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72143,
+        "num": 72143,
+        "word": "小沈月最近又在哪闯祸呢",
+        "onboard_time": 1747060044,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70738,
+        "num": 70738,
+        "word": "3个有助于减重的运动",
+        "onboard_time": 1747067239,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70143,
+        "num": 70143,
+        "word": "恋与深空粘土人",
+        "onboard_time": 1747063282,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69389,
+        "num": 69389,
+        "word": "刘浩存从未这样对朕撒娇过",
+        "onboard_time": 1747060583,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68898,
+        "num": 68898,
+        "word": "连陈凯歌都说野心太大的人出现了",
+        "onboard_time": 1747061724,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66643,
+        "num": 66643,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65761,
+        "num": 65761,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64350,
+        "num": 64350,
+        "word": "券商连夜加班开电话会",
+        "onboard_time": 1747064062,
+        "rank": 43,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 63753,
+        "num": 63753,
+        "word": "真心佩服河南卧底记者",
+        "onboard_time": 1747063762,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59350,
+        "num": 59350,
+        "word": "客服回应雪碧悄悄换配方",
+        "onboard_time": 1747059683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59266,
+        "num": 59266,
+        "word": "业内分析黄金后期走势",
+        "onboard_time": 1747066520,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57716,
+        "num": 57716,
+        "word": "恋与深空",
+        "onboard_time": 1747060044,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57425,
+        "num": 57425,
+        "word": "美方要珍惜中方的善意",
+        "onboard_time": 1747068438,
+        "rank": 48,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 53874,
+        "num": 53874,
+        "word": "印度为何急刹车停火",
+        "onboard_time": 1747062204,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
