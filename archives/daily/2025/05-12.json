@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747057045612,
+  "endTime": 1747057693201,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1561330,
+      "num": 283175,
+      "word": "代孕",
+      "onboard_time": 1747054581,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1560754,
       "num": 1560754,
       "word": "美国疑出现可变形UFO盘旋15分钟",
       "onboard_time": 1747024404,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1431368,
-      "num": 283175,
-      "word": "代孕",
-      "onboard_time": 1747054581,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1427551,
@@ -96,6 +96,14 @@
       "word": "曝李凯馨ins翻车",
       "onboard_time": 1747023022,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1322030,
+      "num": 1322030,
+      "word": "黄晓明进上戏考博复试",
+      "onboard_time": 1747056143,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -171,14 +179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1015160,
-      "num": 1015160,
-      "word": "黄晓明进上戏考博复试",
-      "onboard_time": 1747056143,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1009667,
       "num": 353063,
       "word": "孙俪女儿拉丁舞英国夺冠",
@@ -209,6 +209,14 @@
       "onboard_time": 1747029869,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 948352,
+      "num": 948352,
+      "word": "印度民众打砸一家叫卡拉奇的面包店",
+      "onboard_time": 1747055542,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 925958,
@@ -267,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 709332,
+      "num": 282675,
+      "word": "林宥嘉评论邓紫棋黑粉",
+      "onboard_time": 1747054401,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703195,
       "num": 703195,
       "word": "藏海传",
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 688842,
-      "num": 282675,
-      "word": "林宥嘉评论邓紫棋黑粉",
-      "onboard_time": 1747054401,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 679841,
@@ -537,14 +545,6 @@
       "onboard_time": 1747036345,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471815,
-      "num": 471815,
-      "word": "印度民众打砸一家叫卡拉奇的面包店",
-      "onboard_time": 1747055542,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 467744,
@@ -1139,20 +1139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213357,
+      "num": 213357,
+      "word": "阿雅11岁女儿正面照",
+      "onboard_time": 1747056143,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213355,
       "num": 309230,
       "word": "王一博人鱼推介会",
       "onboard_time": 1747019180,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212267,
-      "num": 212267,
-      "word": "阿雅11岁女儿正面照",
-      "onboard_time": 1747056143,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 209274,
@@ -1427,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179854,
+      "num": 179854,
+      "word": "单依纯歌手经纪人是郑方一",
+      "onboard_time": 1747056503,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178630,
       "num": 404204,
       "word": "巴基斯坦股市上涨9.2%",
@@ -1587,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166622,
+      "num": 166622,
+      "word": "金宣虎39岁状态",
+      "onboard_time": 1747057643,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "汶川地震小英雄林浩要做爸爸了",
@@ -1697,14 +1713,6 @@
       "onboard_time": 1747036703,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 158551,
-      "num": 158551,
-      "word": "单依纯歌手经纪人是郑方一",
-      "onboard_time": 1747056503,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 158466,
@@ -2019,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140426,
+      "num": 281835,
+      "word": "周启豪说会选樊振东一起荒岛求生",
+      "onboard_time": 1747055725,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "倪虹洁一家八口跳手势舞",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1747030409,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138743,
+      "num": 138743,
+      "word": "成毅你是真的会武功吧",
+      "onboard_time": 1747057223,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 138135,
@@ -2211,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127695,
+      "num": 282320,
+      "word": "外交部重申台湾从来不是一个国家",
+      "onboard_time": 1747054522,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127616,
       "num": 371131,
       "word": "在矫正学校死亡的14岁少年",
@@ -2259,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125613,
+      "num": 125613,
+      "word": "主食吃太少会引发多种健康问题",
+      "onboard_time": 1747055183,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125169,
       "num": 125169,
       "word": "普通家庭从怀孕到娃10个月大",
@@ -2299,14 +2339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122779,
-      "num": 281835,
-      "word": "周启豪说会选樊振东一起荒岛求生",
-      "onboard_time": 1747055725,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122759,
       "num": 122759,
       "word": "内娱好久没有这么热血的女团了",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1747025904,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 121104,
-      "num": 121104,
-      "word": "主食吃太少会引发多种健康问题",
-      "onboard_time": 1747055183,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120813,
@@ -2411,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118343,
+      "num": 118343,
+      "word": "时团最后一次全员学生时代演唱会",
+      "onboard_time": 1747057104,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117844,
       "num": 117844,
       "word": "取之于母用之于母",
@@ -2467,12 +2499,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114329,
+      "num": 114329,
+      "word": "中国姑娘接力跑现场燃起来了",
+      "onboard_time": 1747057283,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113776,
       "num": 228513,
       "word": "孙颖莎多哈第一天上训",
       "onboard_time": 1747049602,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113213,
+      "num": 113213,
+      "word": "NIP战胜FPX",
+      "onboard_time": 1747057405,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112725,
@@ -2523,6 +2571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 109929,
+      "num": 173645,
+      "word": "央视曝光AI造假起号",
+      "onboard_time": 1747057283,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107537,
       "num": 251927,
       "word": "苹果概念港股大涨",
@@ -2561,14 +2617,6 @@
       "onboard_time": 1747031311,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 102595,
-      "num": 282320,
-      "word": "外交部重申台湾从来不是一个国家",
-      "onboard_time": 1747054522,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100935,
@@ -3331,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33650,
+      "num": 140060,
+      "word": "还记得汶川地震的叶志平校长吗",
+      "onboard_time": 1747056023,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32839,
       "num": 282844,
       "word": "布云朝克特梦想打入世界前十",
@@ -3345,14 +3401,6 @@
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29925,
-      "num": 140060,
-      "word": "还记得汶川地震的叶志平校长吗",
-      "onboard_time": 1747056023,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29559,
@@ -3401,6 +3449,14 @@
       "onboard_time": 1746984916,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25396,
+      "num": 968101,
+      "word": "万千气象看荆楚",
+      "onboard_time": 1747057405,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25123,
@@ -3571,6 +3627,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 14953,
+      "num": 282063,
+      "word": "陈楚生在歌手中将演唱哪些歌曲",
+      "onboard_time": 1747056681,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14728,
       "num": 297660,
       "word": "经历汶川地震的孩子都怎么样了",
@@ -3673,14 +3737,6 @@
       "onboard_time": 1747041383,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 9452,
-      "num": 282063,
-      "word": "陈楚生在歌手中将演唱哪些歌曲",
-      "onboard_time": 1747056681,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 8137,
