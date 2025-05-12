@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747085928925,
+  "endTime": 1747088690391,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109277,
+      "num": 109277,
+      "word": "美方要珍惜中方的善意",
+      "onboard_time": 1747068438,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 108596,
       "num": 108596,
       "word": "小沈月最近又在哪闯祸呢",
@@ -403,12 +411,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 78037,
-      "num": 78037,
-      "word": "美方要珍惜中方的善意",
-      "onboard_time": 1747068438,
-      "rank": 48,
-      "category": "国内时政,财经"
+      "raw_hot": 65550,
+      "num": 65550,
+      "word": "巴方并未俘获印度飞行员",
+      "onboard_time": 1747080615,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59350,
@@ -419,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57504,
+      "num": 57504,
+      "word": "肖战藏海传致命身份暗藏杀机",
+      "onboard_time": 1747086014,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55571,
       "num": 55571,
       "word": "刘诗诗想刀人的眼神藏不住了",
       "onboard_time": 1747068798,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50959,
+      "num": 40095,
+      "word": "小花简直就是女版邓超附体",
+      "onboard_time": 1747085234,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 47733,
@@ -441,14 +465,6 @@
       "onboard_time": 1747070656,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 42899,
-      "num": 42899,
-      "word": "巴方并未俘获印度飞行员",
-      "onboard_time": 1747080615,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41176,
@@ -483,12 +499,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25094,
-      "num": 25094,
+      "raw_hot": 34393,
+      "num": 166645,
+      "word": "商务部解读中美关税新举措",
+      "onboard_time": 1747059625,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 32017,
+      "num": 32017,
       "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
       "onboard_time": 1747080374,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23912,
+      "num": 25125,
+      "word": "父母说的这些话最伤孩子",
+      "onboard_time": 1747085955,
+      "rank": 44,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 21945,
+      "num": 112319,
+      "word": "印巴双方矛盾冲突的根源",
+      "onboard_time": 1747087634,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21527,
@@ -499,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19690,
-      "num": 19690,
-      "word": "小花简直就是女版邓超附体",
-      "onboard_time": 1747085234,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 21458,
+      "num": 25101,
+      "word": "中美声明点燃全球乐观情绪",
+      "onboard_time": 1747076115,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19399,
@@ -513,22 +553,6 @@
       "onboard_time": 1747061004,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18469,
-      "num": 159721,
-      "word": "商务部解读中美关税新举措",
-      "onboard_time": 1747059625,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 17838,
-      "num": 18196,
-      "word": "中美声明点燃全球乐观情绪",
-      "onboard_time": 1747076115,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16308,
@@ -553,6 +577,14 @@
       "onboard_time": 1747074373,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14110,
+      "num": 25099,
+      "word": "降价的风终于吹到了榴莲",
+      "onboard_time": 1747088176,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 11300,
