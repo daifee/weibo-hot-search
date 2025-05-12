@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/12 20:52:39
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/12 21:07:56
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@ gidle改名idle（热度：2306655）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E7%BD%AE%E9%A1%B6%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E6%A1%86%E5%AE%A3%E5%91%8A%E6%9F%90%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%BA%86%23" target="weibo">
+取消置顶删除聊天框宣告某人死亡了（热度：2037238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%AE%BA%E6%96%87%E9%9B%B7%E5%90%8C%E8%B4%A8%E7%96%91%23" target="weibo">
 北科大回应董袭莹论文雷同质疑（热度：2018686）
 </a>
@@ -317,12 +323,6 @@ gidle改名idle（热度：2306655）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A%E5%87%BA%E6%BC%94%E4%BA%BA%E9%B1%BC%23" target="weibo">
 黄多多出演人鱼（热度：1962552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E7%BD%AE%E9%A1%B6%E5%88%A0%E9%99%A4%E8%81%8A%E5%A4%A9%E6%A1%86%E5%AE%A3%E5%91%8A%E6%9F%90%E4%BA%BA%E6%AD%BB%E4%BA%A1%E4%BA%86%23" target="weibo">
-取消置顶删除聊天框宣告某人死亡了（热度：1962193）
 </a>
 </li>
 
@@ -3117,6 +3117,12 @@ W女士发声明称蔡徐坤方造谣（热度：680075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%B8%96%E4%BD%B3%E6%8A%A5%E8%80%83%E4%B8%8A%E6%88%8F%E5%8D%9A%E5%A3%AB%23" target="weibo">
+金世佳报考上戏博士（热度：656010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E8%A2%AB7%E4%B8%AA%E6%9C%BA%E6%9E%84%E6%95%99%E5%AE%98%E6%AE%B4%E6%89%93%E8%87%B4%E8%80%B3%E8%81%8B%23" target="weibo">
 学生被7个机构教官殴打致耳聋（热度：652739）
 </a>
@@ -4995,6 +5001,12 @@ aespa 不回归（热度：483954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%E5%8F%88%E8%A6%81%E8%A7%A3%E9%87%8A%E8%BF%99%E4%B8%8D%E6%98%AF%E7%9D%A1%E8%A1%A3%E4%BA%86%23" target="weibo">
+李艺彤又要解释这不是睡衣了（热度：456003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E6%99%92%E7%99%BD%E9%B9%BF%E4%B8%B4%E6%B1%9F%E4%BB%99%E8%A1%80%E6%B3%AA%E7%85%A7%23" target="weibo">
 于正晒白鹿临江仙血泪照（热度：455693）
 </a>
@@ -5999,18 +6011,6 @@ W女士要求蔡徐坤方赔礼道歉（热度：388110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%88%86%E6%AC%A7%E7%9B%9F%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%89%93%E4%B8%8D%E9%80%9A%E6%99%AE%E4%BA%AC%E7%94%B5%E8%AF%9D%23" target="weibo">
 特朗普爆欧盟领导人打不通普京电话（热度：387104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD76%E5%AE%B6%E9%9E%8B%E4%BC%81%E8%81%94%E5%90%8D%E6%B1%82%E6%95%91%23" target="weibo">
-美国76家鞋企联名求救（热度：387066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E7%8A%B6%E6%80%81%23" target="weibo">
-刘嘉玲状态（热度：386392）
 </a>
 </li>
 
