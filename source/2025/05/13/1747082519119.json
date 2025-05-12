@@ -1,0 +1,410 @@
+{
+  "runTime": 1747082519119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 95329,
+        "num": 95329,
+        "word": "04年男子拒服兵役被罚3.8万",
+        "onboard_time": 1747069517,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71869,
+        "num": 71869,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14219,
+        "num": 56679,
+        "word": "商务部解读中美关税新举措",
+        "onboard_time": 1747059625,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 54835,
+        "num": 54835,
+        "word": "上官正义曝别墅代孕后接到神秘电话",
+        "onboard_time": 1747064421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54793,
+        "num": 54793,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61212,
+        "num": 54565,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54142,
+        "num": 54142,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49166,
+        "num": 49166,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49002,
+        "num": 49002,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 47527,
+        "num": 47527,
+        "word": "SK",
+        "onboard_time": 1747067600,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42769,
+        "num": 42769,
+        "word": "美方要珍惜中方的善意",
+        "onboard_time": 1747068438,
+        "rank": 10,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 42631,
+        "num": 42631,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35468,
+        "num": 35468,
+        "word": "让黄圣依最疲惫的综艺出现了",
+        "onboard_time": 1747066219,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34846,
+        "num": 34846,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34398,
+        "num": 34398,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30921,
+        "num": 30921,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30251,
+        "num": 30251,
+        "word": "安静公主自曝没谈过恋爱",
+        "onboard_time": 1747062623,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28373,
+        "num": 28373,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23986,
+        "num": 23986,
+        "word": "郑钦文vs安德莱斯库",
+        "onboard_time": 1747065201,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20863,
+        "num": 20863,
+        "word": "98年出生的老爷猫去世",
+        "onboard_time": 1747061484,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77685,
+        "num": 20767,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29602,
+        "num": 20700,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28977,
+        "num": 20629,
+        "word": "重庆震感",
+        "onboard_time": 1747066520,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24274,
+        "num": 20463,
+        "word": "男孩患巨痣手术后成功取掉扩张器",
+        "onboard_time": 1747065500,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23136,
+        "num": 20438,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20361,
+        "num": 20361,
+        "word": "英媒称英国首相住所起火",
+        "onboard_time": 1747065262,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20232,
+        "num": 20232,
+        "word": "客服回应雪碧悄悄换配方",
+        "onboard_time": 1747059683,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19107,
+        "num": 19107,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18800,
+        "num": 18800,
+        "word": "连陈凯歌都说野心太大的人出现了",
+        "onboard_time": 1747061724,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18071,
+        "num": 18725,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19272,
+        "num": 18718,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19206,
+        "num": 18718,
+        "word": "业内分析黄金后期走势",
+        "onboard_time": 1747066520,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 18707,
+        "word": "派出所回应成都一家三口溺水事故",
+        "onboard_time": 1747070236,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18240,
+        "num": 18240,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10559,
+        "num": 18103,
+        "word": "牛钰仍会梦到去世亲朋好友",
+        "onboard_time": 1747082414,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18085,
+        "num": 18085,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17762,
+        "num": 17762,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16998,
+        "num": 16998,
+        "word": "金价下跌因素",
+        "onboard_time": 1747065142,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16731,
+        "num": 16731,
+        "word": "巴方并未俘获印度飞行员",
+        "onboard_time": 1747080615,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16508,
+        "num": 16508,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 16308,
+        "word": "外交部回应印巴同意停火",
+        "onboard_time": 1747078816,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15756,
+        "num": 15756,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15652,
+        "num": 15652,
+        "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+        "onboard_time": 1747080374,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15516,
+        "num": 15516,
+        "word": "小沈月最近又在哪闯祸呢",
+        "onboard_time": 1747060044,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15468,
+        "num": 15468,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15087,
+        "num": 15087,
+        "word": "人与人交往的黄金定律",
+        "onboard_time": 1747065201,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14991,
+        "num": 14991,
+        "word": "中美声明点燃全球乐观情绪",
+        "onboard_time": 1747076115,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14895,
+        "num": 14895,
+        "word": "3个有助于减重的运动",
+        "onboard_time": 1747067239,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 11675,
+        "num": 14615,
+        "word": "单依纯歌手经纪人是郑方一",
+        "onboard_time": 1747056503,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9971,
+        "num": 14606,
+        "word": "再看这场接力赛还是热血沸腾",
+        "onboard_time": 1747081454,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}

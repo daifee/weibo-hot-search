@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747081718970,
+  "endTime": 1747082519119,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -499,6 +499,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16731,
+      "num": 16731,
+      "word": "巴方并未俘获印度飞行员",
+      "onboard_time": 1747080615,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16308,
+      "num": 16308,
+      "word": "外交部回应印巴同意停火",
+      "onboard_time": 1747078816,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16155,
       "num": 159721,
       "word": "商务部解读中美关税新举措",
@@ -507,12 +523,12 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 15908,
-      "num": 15908,
-      "word": "外交部回应印巴同意停火",
-      "onboard_time": 1747078816,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 15652,
+      "num": 15652,
+      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+      "onboard_time": 1747080374,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15328,
@@ -523,24 +539,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13724,
-      "num": 13724,
-      "word": "巴方并未俘获印度飞行员",
-      "onboard_time": 1747080615,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13529,
-      "num": 13529,
-      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
-      "onboard_time": 1747080374,
-      "rank": 46,
+      "raw_hot": 10559,
+      "num": 18103,
+      "word": "牛钰仍会梦到去世亲朋好友",
+      "onboard_time": 1747082414,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
       "raw_hot": 10209,
-      "num": 13520,
+      "num": 14606,
       "word": "再看这场接力赛还是热血沸腾",
       "onboard_time": 1747081454,
       "rank": 49,
