@@ -1,0 +1,410 @@
+{
+  "runTime": 1747064626714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503741,
+        "num": 1503741,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680855,
+        "num": 680855,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48466,
+        "num": 650586,
+        "word": "万千气象看荆楚",
+        "onboard_time": 1747057405,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 636006,
+        "num": 636006,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455689,
+        "num": 455689,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598483,
+        "num": 448349,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 434292,
+        "num": 434292,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348001,
+        "num": 348001,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 341543,
+        "word": "那年512我们托举生命",
+        "onboard_time": 1747063882,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 36318,
+        "num": 339888,
+        "word": "中美经贸本质是互利共赢",
+        "onboard_time": 1747063702,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 638496,
+        "num": 339335,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338719,
+        "num": 338719,
+        "word": "102岁老人每天6点半起床撸铁",
+        "onboard_time": 1747058783,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629054,
+        "num": 338266,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349279,
+        "num": 337642,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21119,
+        "num": 337002,
+        "word": "券商连夜加班开电话会",
+        "onboard_time": 1747064062,
+        "rank": 14,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 347546,
+        "num": 336188,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335471,
+        "num": 335471,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326066,
+        "num": 326066,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 200776,
+        "num": 324018,
+        "word": "双男主古装悬疑剧",
+        "onboard_time": 1747057943,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62492,
+        "num": 317689,
+        "word": "男子称花费17万做屁股整形遇假专家",
+        "onboard_time": 1747063582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34221,
+        "num": 313758,
+        "word": "商务部将全力为外贸企业纾困解难",
+        "onboard_time": 1747062744,
+        "rank": 20,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1337341,
+        "num": 308350,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447239,
+        "num": 302552,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299638,
+        "num": 299638,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264041,
+        "num": 264041,
+        "word": "知情人称成都一家三口河边游玩溺水",
+        "onboard_time": 1747060464,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263471,
+        "num": 263471,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255471,
+        "num": 255471,
+        "word": "98年出生的老爷猫去世",
+        "onboard_time": 1747061484,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241035,
+        "num": 241035,
+        "word": "连陈凯歌都说野心太大的人出现了",
+        "onboard_time": 1747061724,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99148,
+        "num": 205325,
+        "word": "盖茨说对中国技术封锁起到反作用",
+        "onboard_time": 1747061004,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197653,
+        "num": 197653,
+        "word": "盖茨批评美国关税危害",
+        "onboard_time": 1747061063,
+        "rank": 29,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 195494,
+        "num": 195494,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190834,
+        "num": 190834,
+        "word": "印度为何急刹车停火",
+        "onboard_time": 1747062204,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177126,
+        "num": 177126,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173451,
+        "num": 173451,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138259,
+        "num": 163646,
+        "word": "巴西总统夫人出席我仍在此首映礼",
+        "onboard_time": 1747063524,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162531,
+        "num": 162531,
+        "word": "恋与深空粘土人",
+        "onboard_time": 1747063282,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39216,
+        "num": 156510,
+        "word": "安切洛蒂本月执教巴西队",
+        "onboard_time": 1747059625,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156488,
+        "num": 156488,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146190,
+        "num": 146190,
+        "word": "安静公主自曝没谈过恋爱",
+        "onboard_time": 1747062623,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92863,
+        "num": 141022,
+        "word": "真心佩服河南卧底记者",
+        "onboard_time": 1747063762,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138710,
+        "num": 138710,
+        "word": "金价短期内或面临较大调整",
+        "onboard_time": 1747058783,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136352,
+        "num": 136352,
+        "word": "小沈月最近又在哪闯祸呢",
+        "onboard_time": 1747060044,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132576,
+        "num": 132576,
+        "word": "恋与深空",
+        "onboard_time": 1747060044,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131493,
+        "num": 131493,
+        "word": "克拉盘",
+        "onboard_time": 1747061004,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129195,
+        "num": 129195,
+        "word": "上官正义曝别墅代孕后接到神秘电话",
+        "onboard_time": 1747064421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129054,
+        "num": 129054,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129016,
+        "num": 129016,
+        "word": "刘浩存从未这样对朕撒娇过",
+        "onboard_time": 1747060583,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123868,
+        "num": 123868,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124600,
+        "num": 123863,
+        "word": "钟汉良肖战藏海传里演父子",
+        "onboard_time": 1747064482,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123798,
+        "num": 123798,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
