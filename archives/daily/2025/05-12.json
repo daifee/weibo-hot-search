@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747038875856,
+  "endTime": 1747039697391,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1009667,
-      "num": 319731,
+      "num": 346647,
       "word": "孙俪女儿拉丁舞英国夺冠",
       "onboard_time": 1747036703,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 904572,
+      "num": 348190,
+      "word": "李承铉因为弟弟凶Lucky",
+      "onboard_time": 1747037003,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 855169,
       "num": 855169,
       "word": "上门做饭月入2万女子每周只休半天",
@@ -193,14 +201,6 @@
       "onboard_time": 1746962601,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 764284,
-      "num": 319504,
-      "word": "李承铉因为弟弟凶Lucky",
-      "onboard_time": 1747037003,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 703195,
@@ -323,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 557838,
+      "num": 346444,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536107,
       "num": 536107,
       "word": "张杰女儿小咘芽商标已被抢注",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 472453,
-      "num": 288149,
+      "num": 293668,
       "word": "男子误吞5cm鱼刺用土方身亡",
       "onboard_time": 1747036345,
       "rank": 20,
@@ -507,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377637,
+      "num": 377637,
+      "word": "折腰要拍短剧了",
+      "onboard_time": 1747038504,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 376277,
+      "num": 376277,
+      "word": "美取消14259号和14266号行政令关税",
+      "onboard_time": 1747038744,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 365061,
       "num": 478528,
       "word": "歌手",
@@ -539,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349591,
+      "num": 349591,
+      "word": "长沙别墅代孕窝点查处现场",
+      "onboard_time": 1747037604,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347172,
       "num": 323535,
       "word": "对这种玩笑 永远不要笑",
       "onboard_time": 1747018641,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340590,
+      "num": 344951,
+      "word": "中美关税降税后不到30%",
+      "onboard_time": 1747038865,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 339642,
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303566,
-      "num": 303566,
-      "word": "长沙别墅代孕窝点查处现场",
-      "onboard_time": 1747037604,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302661,
       "num": 278814,
       "word": "妈妈听到陈梦无麻药穿刺火疖子反应",
@@ -625,6 +657,14 @@
       "onboard_time": 1747012823,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291167,
+      "num": 291167,
+      "word": "奶茶券",
+      "onboard_time": 1747037723,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 287767,
@@ -657,14 +697,6 @@
       "onboard_time": 1746975983,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280158,
-      "num": 280158,
-      "word": "奶茶券",
-      "onboard_time": 1747037723,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 280101,
@@ -763,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249529,
+      "num": 249529,
+      "word": "稀土",
+      "onboard_time": 1747039104,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 243970,
       "num": 243970,
       "word": "婚礼前10分钟婚庆公司撤场",
@@ -819,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225325,
+      "num": 225325,
+      "word": "金龟子女儿回应蹭妈妈流量",
+      "onboard_time": 1747035083,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223797,
       "num": 223797,
       "word": "马龙樊振东孙颖莎王曼昱好闪耀",
@@ -841,6 +889,14 @@
       "onboard_time": 1747029389,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217637,
+      "num": 299669,
+      "word": "朱洁静 轻舟已过万重山",
+      "onboard_time": 1747038083,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 215745,
@@ -891,14 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 207258,
-      "num": 247096,
-      "word": "美取消14259号和14266号行政令关税",
-      "onboard_time": 1747038744,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 207106,
       "num": 325594,
       "word": "藏海传周日见",
@@ -931,14 +979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200919,
-      "num": 229252,
-      "word": "折腰要拍短剧了",
-      "onboard_time": 1747038504,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200128,
       "num": 381005,
       "word": "JIWOO的鞋飞出去了",
@@ -947,12 +987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198260,
-      "num": 198260,
-      "word": "折腰",
-      "onboard_time": 1747038624,
+      "raw_hot": 199397,
+      "num": 199397,
+      "word": "芬太尼",
+      "onboard_time": 1747039042,
       "rank": 33,
-      "category": "剧集"
+      "category": "国内时政"
     },
     {
       "raw_hot": 197827,
@@ -979,20 +1019,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193646,
-      "num": 193646,
-      "word": "金龟子女儿回应蹭妈妈流量",
-      "onboard_time": 1747035083,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192551,
       "num": 228019,
       "word": "半熟4好会爱人的一个女生",
       "onboard_time": 1747026323,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189572,
+      "num": 177954,
+      "word": "印巴",
+      "onboard_time": 1747038923,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189503,
@@ -1051,6 +1091,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 183404,
+      "num": 183404,
+      "word": "认错狗了",
+      "onboard_time": 1747038504,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182912,
       "num": 182912,
       "word": "我请假领导不高兴",
@@ -1075,6 +1123,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 176652,
+      "num": 285625,
+      "word": "恒生科技指数涨幅扩至6%",
+      "onboard_time": 1747039405,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176291,
       "num": 176291,
       "word": "特朗普称将免费获得波音747当专机",
@@ -1083,12 +1139,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176246,
+      "num": 176246,
+      "word": "二手烟80%致癌物会黏在家里",
+      "onboard_time": 1747035444,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175036,
       "num": 175036,
       "word": "一定要让猫咪们远离头绳皮筋",
       "onboard_time": 1747014441,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172897,
+      "num": 303914,
+      "word": "离岸人民币升破7.2",
+      "onboard_time": 1747037843,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 171516,
@@ -1195,14 +1267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165484,
-      "num": 165484,
-      "word": "朱洁静 轻舟已过万重山",
-      "onboard_time": 1747038083,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165051,
       "num": 165051,
       "word": "汶川",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1747021221,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160589,
-      "num": 160589,
-      "word": "二手烟80%致癌物会黏在家里",
-      "onboard_time": 1747035444,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160577,
@@ -1705,14 +1761,6 @@
       "onboard_time": 1747025904,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 121520,
-      "num": 303914,
-      "word": "离岸人民币升破7.2",
-      "onboard_time": 1747037843,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 120813,
@@ -2179,6 +2227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62257,
+      "num": 198977,
+      "word": "男乒五虎将集结多哈",
+      "onboard_time": 1747039645,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60506,
       "num": 124495,
       "word": "美媒称印度请求美国出面调停",
@@ -2491,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21646,
+      "num": 192471,
+      "word": "aespa最新舞台的表现如何",
+      "onboard_time": 1747039582,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21271,
       "num": 26538,
       "word": "杨博文写信祝妈妈母亲节快乐",
@@ -2563,6 +2627,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 14728,
+      "num": 297660,
+      "word": "经历汶川地震的孩子都怎么样了",
+      "onboard_time": 1747038744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14651,
       "num": 461915,
       "word": "大餐后体重飙升是怎么回事",
@@ -2577,14 +2649,6 @@
       "onboard_time": 1747006159,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13714,
-      "num": 169952,
-      "word": "经历汶川地震的孩子都怎么样了",
-      "onboard_time": 1747038744,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13658,
@@ -2611,12 +2675,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12579,
+      "num": 191584,
+      "word": "扬基点评印巴空战",
+      "onboard_time": 1747038865,
+      "rank": 38,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 12264,
       "num": 297549,
       "word": "巴方如何在对印冲突中展现空中优势",
       "onboard_time": 1747020141,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10598,
+      "num": 225587,
+      "word": "巴基斯坦网友惦记上了J35",
+      "onboard_time": 1747039405,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 10094,
@@ -2635,6 +2715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 7983,
+      "num": 190235,
+      "word": "马斯克会让美国成推特翻版吗",
+      "onboard_time": 1747039523,
+      "rank": 39,
+      "category": "民生新闻,海外新闻"
+    },
+    {
       "raw_hot": 7790,
       "num": 169293,
       "word": "郑海洋说那男孩已长大成人",
@@ -2649,6 +2737,14 @@
       "onboard_time": 1747032621,
       "rank": 40,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 5617,
+      "num": 194150,
+      "word": "解决经贸问题不能只靠谈判",
+      "onboard_time": 1747039645,
+      "rank": 36,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
