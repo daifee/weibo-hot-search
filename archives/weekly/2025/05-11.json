@@ -1,10 +1,10 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747020712109,
+  "endTime": 1747022363331,
   "band_list": [
     {
-      "raw_hot": 2643965,
-      "num": 2643965,
+      "raw_hot": 3307436,
+      "num": 3307436,
       "word": "512",
       "onboard_time": 1747008201,
       "rank": 25,
@@ -137,6 +137,14 @@
       "onboard_time": 1746921018,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1209727,
+      "num": 1209727,
+      "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+      "onboard_time": 1747019061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1171885,
@@ -363,6 +371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703195,
+      "num": 703195,
+      "word": "藏海传",
+      "onboard_time": 1747015341,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 699267,
+      "num": 474832,
+      "word": "菅纫姿发文",
+      "onboard_time": 1747021342,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690717,
       "num": 690717,
       "word": "中美谈判",
@@ -409,6 +433,14 @@
       "onboard_time": 1746946641,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 642031,
+      "num": 473992,
+      "word": "胡连馨 我去串个戏不要嫌弃我",
+      "onboard_time": 1747021221,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 631882,
@@ -491,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554024,
-      "num": 554024,
-      "word": "藏海传",
-      "onboard_time": 1747015341,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 552932,
       "num": 552932,
       "word": "张凌赫下水前问女生方不方便",
@@ -556,7 +580,7 @@
     },
     {
       "raw_hot": 506186,
-      "num": 1014772,
+      "num": 1047100,
       "word": "中美经贸高层会谈取得了实质性进展",
       "onboard_time": 1747006159,
       "rank": 2,
@@ -681,14 +705,6 @@
       "onboard_time": 1746954442,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461481,
-      "num": 461481,
-      "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
-      "onboard_time": 1747019061,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456629,
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399817,
+      "num": 399817,
+      "word": "零分教资 满分教师",
+      "onboard_time": 1747020501,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 399566,
       "num": 399566,
       "word": "孟子义演技",
@@ -867,12 +891,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394150,
+      "num": 394150,
+      "word": "巴少将称阵风用的好会很强大",
+      "onboard_time": 1747019001,
+      "rank": 35,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 392890,
       "num": 392890,
       "word": "时代峰峻声明",
       "onboard_time": 1746880281,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392369,
+      "num": 392369,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 388110,
@@ -931,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365061,
+      "num": 478528,
+      "word": "歌手",
+      "onboard_time": 1747019422,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361042,
       "num": 343870,
       "word": "歌手2025音乐合伙人官宣",
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 347172,
-      "num": 296405,
+      "num": 323535,
       "word": "对这种玩笑 永远不要笑",
       "onboard_time": 1747018641,
       "rank": 33,
@@ -1163,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298066,
-      "num": 298066,
-      "word": "巴少将称阵风用的好会很强大",
-      "onboard_time": 1747019001,
-      "rank": 35,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 295905,
       "num": 280042,
       "word": "叶童说我是特别的怎么都好看",
@@ -1187,28 +1227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287592,
+      "num": 287592,
+      "word": "世界突然开始以和为贵",
+      "onboard_time": 1747019482,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284003,
       "num": 284003,
       "word": "花12000元打热玛吉被烫一脸泡",
       "onboard_time": 1746948622,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283869,
-      "num": 283869,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 283137,
-      "num": 308715,
-      "word": "歌手",
-      "onboard_time": 1747019422,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 274625,
@@ -1236,7 +1268,7 @@
     },
     {
       "raw_hot": 269571,
-      "num": 297115,
+      "num": 463667,
       "word": "谢娜谈三个女儿性格",
       "onboard_time": 1747018462,
       "rank": 36,
@@ -1256,14 +1288,6 @@
       "word": "高校回应网传花75万采购售价299产品",
       "onboard_time": 1746950662,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263504,
-      "num": 263504,
-      "word": "世界突然开始以和为贵",
-      "onboard_time": 1747019482,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1305,6 +1329,14 @@
       "onboard_time": 1746894020,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255006,
+      "num": 469813,
+      "word": "张杰女儿小咘芽商标已被抢注",
+      "onboard_time": 1747021642,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 252068,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1747005199,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240435,
+      "num": 468667,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237980,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1746940761,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207106,
+      "num": 325594,
+      "word": "藏海传周日见",
+      "onboard_time": 1747021283,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206632,
@@ -1785,6 +1833,14 @@
       "onboard_time": 1746952342,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 189503,
+      "num": 189503,
+      "word": "表演火裙舞被烧伤女演员已报警",
+      "onboard_time": 1747021523,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189032,
@@ -2099,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169420,
+      "num": 324459,
+      "word": "巴基斯坦版刚买的飞机",
+      "onboard_time": 1747020441,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 168645,
       "num": 168645,
       "word": "鹿晗新歌预热",
@@ -2147,8 +2211,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166256,
+      "num": 166256,
+      "word": "汶川地震小英雄林浩要做爸爸了",
+      "onboard_time": 1747021463,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166094,
-      "num": 166094,
+      "num": 369523,
       "word": "金饰价格一夜跌了14元",
       "onboard_time": 1747016661,
       "rank": 43,
@@ -2193,6 +2265,14 @@
       "onboard_time": 1746977002,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160601,
+      "num": 160601,
+      "word": "波尔说孙颖莎16岁就已经超强",
+      "onboard_time": 1747021221,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 160577,
@@ -2241,14 +2321,6 @@
       "onboard_time": 1746969562,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159302,
-      "num": 159302,
-      "word": "女子为取已故父亲存款起诉奶奶",
-      "onboard_time": 1747020323,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158701,
@@ -2443,14 +2515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150989,
-      "num": 140056,
-      "word": "零分教资 满分教师",
-      "onboard_time": 1747020501,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 150304,
       "num": 175920,
       "word": "高盛超配A股",
@@ -2579,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145534,
+      "num": 145534,
+      "word": "巴方发现印度曾向印境内发射导弹",
+      "onboard_time": 1747022123,
+      "rank": 48,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 145510,
       "num": 145510,
       "word": "长沙奶茶还是太超前了",
@@ -2657,6 +2729,14 @@
       "onboard_time": 1747005620,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142117,
+      "num": 477236,
+      "word": "9块9茶包掺土掺木渣",
+      "onboard_time": 1747021042,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142092,
@@ -2817,6 +2897,14 @@
       "onboard_time": 1746968601,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138135,
+      "num": 186479,
+      "word": "第17个全国防灾减灾日",
+      "onboard_time": 1747021221,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137967,
@@ -4227,6 +4315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52762,
+      "num": 323612,
+      "word": "长大后我就成了你",
+      "onboard_time": 1747020862,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52672,
       "num": 143768,
       "word": "如果美国家庭没有中国制造",
@@ -4635,6 +4731,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25039,
+      "num": 460821,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25030,
       "num": 25030,
       "word": "吉克隽逸太阳的女儿演唱会",
@@ -4915,6 +5019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14651,
+      "num": 461915,
+      "word": "大餐后体重飙升是怎么回事",
+      "onboard_time": 1747021822,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14115,
       "num": 18052,
       "word": "檀健次多见一次巡回演唱会",
@@ -4995,28 +5107,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9935,
-      "num": 295030,
-      "word": "巴基斯坦版刚买的飞机",
-      "onboard_time": 1747020441,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 8137,
       "num": 14085,
       "word": "黑执事塞夏对抗路主仆",
       "onboard_time": 1746994874,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 6184,
-      "num": 286154,
-      "word": "汶川大地震改变和留下了什么",
-      "onboard_time": 1747020620,
-      "rank": 33,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

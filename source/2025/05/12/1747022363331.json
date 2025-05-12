@@ -1,0 +1,410 @@
+{
+  "runTime": 1747022363331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3307436,
+        "num": 3307436,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1209727,
+        "num": 1209727,
+        "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+        "onboard_time": 1747019061,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190455,
+        "num": 1047100,
+        "word": "中美经贸高层会谈取得了实质性进展",
+        "onboard_time": 1747006159,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 952078,
+        "num": 952078,
+        "word": "汶川地震朱大爷已于2011年去世",
+        "onboard_time": 1747016841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703195,
+        "num": 703195,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 647789,
+        "num": 647789,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 642135,
+        "num": 642135,
+        "word": "上门做饭月入2万女子每周只休半天",
+        "onboard_time": 1747017981,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480152,
+        "num": 480152,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365061,
+        "num": 478528,
+        "word": "歌手",
+        "onboard_time": 1747019422,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142117,
+        "num": 477236,
+        "word": "9块9茶包掺土掺木渣",
+        "onboard_time": 1747021042,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699267,
+        "num": 474832,
+        "word": "菅纫姿发文",
+        "onboard_time": 1747021342,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642031,
+        "num": 473992,
+        "word": "胡连馨 我去串个戏不要嫌弃我",
+        "onboard_time": 1747021221,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531777,
+        "num": 471898,
+        "word": "从存款40万到负债70万的真实经历",
+        "onboard_time": 1747007360,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255006,
+        "num": 469813,
+        "word": "张杰女儿小咘芽商标已被抢注",
+        "onboard_time": 1747021642,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 468667,
+        "word": "女子为取已故父亲存款起诉奶奶",
+        "onboard_time": 1747020323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237775,
+        "num": 465955,
+        "word": "何炅上班和上学哪一个更苦",
+        "onboard_time": 1747011322,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214741,
+        "num": 463667,
+        "word": "谢娜谈三个女儿性格",
+        "onboard_time": 1747018462,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14651,
+        "num": 461915,
+        "word": "大餐后体重飙升是怎么回事",
+        "onboard_time": 1747021822,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25039,
+        "num": 460821,
+        "word": "汶川大地震改变和留下了什么",
+        "onboard_time": 1747020620,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413552,
+        "num": 457876,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457678,
+        "num": 457678,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399817,
+        "num": 399817,
+        "word": "零分教资 满分教师",
+        "onboard_time": 1747020501,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394150,
+        "num": 394150,
+        "word": "巴少将称阵风用的好会很强大",
+        "onboard_time": 1747019001,
+        "rank": 22,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 392369,
+        "num": 392369,
+        "word": "印军方称击落数架巴基斯坦飞机",
+        "onboard_time": 1747019900,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161996,
+        "num": 369523,
+        "word": "金饰价格一夜跌了14元",
+        "onboard_time": 1747016661,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 349110,
+        "num": 349110,
+        "word": "台当局将96%汉人改为其余人口遭批",
+        "onboard_time": 1747011381,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337434,
+        "num": 337434,
+        "word": "谢娜发文为女儿小咘芽庆生",
+        "onboard_time": 1747009341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207106,
+        "num": 325594,
+        "word": "藏海传周日见",
+        "onboard_time": 1747021283,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169420,
+        "num": 324459,
+        "word": "巴基斯坦版刚买的飞机",
+        "onboard_time": 1747020441,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52762,
+        "num": 323612,
+        "word": "长大后我就成了你",
+        "onboard_time": 1747020862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323535,
+        "num": 323535,
+        "word": "对这种玩笑 永远不要笑",
+        "onboard_time": 1747018641,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287592,
+        "num": 287592,
+        "word": "世界突然开始以和为贵",
+        "onboard_time": 1747019482,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284787,
+        "num": 284787,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262751,
+        "num": 262751,
+        "word": "空降兵十五勇士惊天一跳再看依然震撼",
+        "onboard_time": 1747012823,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218928,
+        "num": 218928,
+        "word": "母亲失联20多年起诉3子女要求陪伴",
+        "onboard_time": 1747017622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213381,
+        "num": 213381,
+        "word": "李凯馨",
+        "onboard_time": 1747012402,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189503,
+        "num": 189503,
+        "word": "表演火裙舞被烧伤女演员已报警",
+        "onboard_time": 1747021523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204712,
+        "num": 188195,
+        "word": "李凯馨疑似戏份比娜扎还要多",
+        "onboard_time": 1747020022,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 186479,
+        "word": "第17个全国防灾减灾日",
+        "onboard_time": 1747021221,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185849,
+        "num": 185849,
+        "word": "王楚然四百没了四百没了",
+        "onboard_time": 1747007421,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166491,
+        "num": 166491,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 40,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 166256,
+        "word": "汶川地震小英雄林浩要做爸爸了",
+        "onboard_time": 1747021463,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160601,
+        "num": 160601,
+        "word": "波尔说孙颖莎16岁就已经超强",
+        "onboard_time": 1747021221,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156248,
+        "num": 156248,
+        "word": "来伊份发布情况说明",
+        "onboard_time": 1747018521,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155877,
+        "num": 155877,
+        "word": "六公主排片纽约我爱你",
+        "onboard_time": 1747018582,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155875,
+        "num": 155875,
+        "word": "加沙孩子们都快渴死了",
+        "onboard_time": 1747013781,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154969,
+        "num": 154969,
+        "word": "刘诗诗吴宣仪都哭红了眼",
+        "onboard_time": 1747008801,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153965,
+        "num": 153965,
+        "word": "锤娜丽莎被李川油到了",
+        "onboard_time": 1747014441,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "巴方发现印度曾向印境内发射导弹",
+        "onboard_time": 1747022123,
+        "rank": 48,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 117550,
+        "num": 142864,
+        "word": "王一博人鱼推介会",
+        "onboard_time": 1747019180,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
