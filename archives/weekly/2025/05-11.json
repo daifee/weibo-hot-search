@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747049864940,
+  "endTime": 1747054359577,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1962193,
+      "num": 246365,
+      "word": "取消置顶删除聊天框宣告某人死亡了",
+      "onboard_time": 1747047321,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1827568,
       "num": 422351,
       "word": "小英怒斥小三",
@@ -65,6 +73,14 @@
       "onboard_time": 1747004898,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1687366,
+      "num": 273338,
+      "word": "林宥嘉 希望你能原谅",
+      "onboard_time": 1747051941,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1642831,
@@ -505,14 +521,6 @@
       "onboard_time": 1746943822,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 706382,
-      "num": 218249,
-      "word": "取消置顶删除聊天框宣告某人死亡了",
-      "onboard_time": 1747047321,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 703195,
@@ -1003,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457972,
+      "num": 457972,
+      "word": "歌手2025首发阵容和经纪人",
+      "onboard_time": 1747049121,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456629,
       "num": 456629,
       "word": "王楚钦说带着妈妈的祝愿奔向太阳",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1746880281,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389964,
+      "num": 389964,
+      "word": "卢靖姗27岁前都觉得妈妈不爱她",
+      "onboard_time": 1747050322,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 388110,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313561,
+      "num": 261818,
+      "word": "李艺彤又要解释这不是睡衣了",
+      "onboard_time": 1747053323,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312680,
       "num": 312680,
       "word": "运20未向巴基斯坦运送救援物资",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1747036703,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 309747,
+      "num": 309747,
+      "word": "荔枝榴莲价格跳水近30%",
+      "onboard_time": 1747049060,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 309631,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1747033042,
       "rank": 22,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 302280,
+      "num": 259762,
+      "word": "金世佳报考上戏博士",
+      "onboard_time": 1747053743,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 300574,
@@ -2347,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196068,
+      "num": 196068,
+      "word": "汶川地震班里44人只活下来11人",
+      "onboard_time": 1747049422,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195878,
       "num": 538331,
       "word": "六公主排片纽约我爱你",
@@ -2363,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195089,
-      "num": 215290,
-      "word": "歌手2025首发阵容和经纪人",
-      "onboard_time": 1747049121,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194006,
       "num": 194006,
       "word": "印巴",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1746972263,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 193538,
+      "num": 193538,
+      "word": "许凯 听风令",
+      "onboard_time": 1747052482,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 193456,
@@ -2567,6 +2623,14 @@
       "num": 257865,
       "word": "蒙娜丽莎",
       "onboard_time": 1746948262,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184723,
+      "num": 184723,
+      "word": "何炅歌手2025主持人官宣",
+      "onboard_time": 1747053202,
       "rank": 26,
       "category": "综艺"
     },
@@ -3267,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155707,
+      "num": 155707,
+      "word": "CBA",
+      "onboard_time": 1747053861,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155476,
       "num": 155476,
       "word": "张檬看剖腹产影像泪流满面",
@@ -3297,6 +3369,14 @@
       "onboard_time": 1747027101,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154586,
+      "num": 154586,
+      "word": "印度阵风战机残骸",
+      "onboard_time": 1747050861,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154569,
@@ -3675,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142605,
+      "num": 142605,
+      "word": "长沙县卫生健康局情况通报",
+      "onboard_time": 1747051702,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142117,
       "num": 477236,
       "word": "9块9茶包掺土掺木渣",
@@ -3947,6 +4035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136222,
+      "num": 136222,
+      "word": "夏志远 剧组应该让她赔钱赔到新加坡",
+      "onboard_time": 1747054161,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "被邓紫棋8米狮子开场震撼到了",
@@ -3961,6 +4057,14 @@
       "onboard_time": 1747010782,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135130,
+      "num": 135130,
+      "word": "李凯馨在外网发LunarNewYear",
+      "onboard_time": 1747042942,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 135129,
@@ -4017,6 +4121,14 @@
       "onboard_time": 1746945380,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133791,
+      "num": 138802,
+      "word": "美国公布一段最新的UFO视频",
+      "onboard_time": 1747049661,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 133716,
@@ -4161,6 +4273,14 @@
       "onboard_time": 1746939621,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128677,
+      "num": 128677,
+      "word": "孟子义也有插不上话的时候",
+      "onboard_time": 1747051582,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 128617,
@@ -4395,6 +4515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121368,
+      "num": 121368,
+      "word": "黄金价格5月新低",
+      "onboard_time": 1747050682,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121291,
       "num": 121291,
       "word": "逆水寒",
@@ -4465,6 +4593,14 @@
       "onboard_time": 1747028071,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119776,
+      "num": 119776,
+      "word": "内娱好久没有这么热血的女团了",
+      "onboard_time": 1747051280,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 119762,
@@ -4651,6 +4787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114385,
+      "num": 114385,
+      "word": "刘浩存你别激王安宇他啥都会",
+      "onboard_time": 1747053982,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114371,
       "num": 114371,
       "word": "纽卡斯尔联vs切尔西",
@@ -4737,6 +4881,14 @@
       "onboard_time": 1746972563,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111362,
+      "num": 111362,
+      "word": "EDG击败TEC夺冠",
+      "onboard_time": 1747054282,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 110989,
@@ -4827,14 +4979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108790,
-      "num": 108790,
-      "word": "汶川地震班里44人只活下来11人",
-      "onboard_time": 1747049422,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108775,
       "num": 108775,
       "word": "今天的我如何替一个月后的我做决定",
@@ -4881,14 +5025,6 @@
       "onboard_time": 1746992235,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105982,
-      "num": 223859,
-      "word": "荔枝榴莲价格跳水近30%",
-      "onboard_time": 1747049060,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 105789,
@@ -4995,6 +5131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99309,
+      "num": 99309,
+      "word": "印方不满特朗普抢莫迪风头",
+      "onboard_time": 1747054282,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98720,
       "num": 284092,
       "word": "印军承认有战斗机损毁",
@@ -5017,6 +5161,22 @@
       "onboard_time": 1746918857,
       "rank": 12,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 97606,
+      "num": 97606,
+      "word": "南方雨雨雨接着雨雨雨",
+      "onboard_time": 1747053502,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97164,
+      "num": 97164,
+      "word": "现货黄金失守3220美元",
+      "onboard_time": 1747054342,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 96510,
@@ -5345,6 +5505,14 @@
       "onboard_time": 1746957262,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81007,
+      "num": 274557,
+      "word": "中美关税时间线全梳理",
+      "onboard_time": 1747052902,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79186,
@@ -6659,6 +6827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17148,
+      "num": 268316,
+      "word": "俄乌领导人土耳其会谈能顺利举行吗",
+      "onboard_time": 1747053441,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17045,
       "num": 333416,
       "word": "原来这才是我住过最珍贵的房子",
@@ -6787,14 +6963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13004,
-      "num": 138802,
-      "word": "美国公布一段最新的UFO视频",
-      "onboard_time": 1747049661,
-      "rank": 39,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 12977,
       "num": 36926,
       "word": "30秒道尽一辈子对妈妈说的话",
@@ -6881,6 +7049,14 @@
       "onboard_time": 1747041383,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8355,
+      "num": 199692,
+      "word": "AI换脸能否挽回赴山海的播出命运",
+      "onboard_time": 1747054041,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 8137,

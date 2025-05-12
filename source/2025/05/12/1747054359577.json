@@ -1,0 +1,410 @@
+{
+  "runTime": 1747054359577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211170,
+        "num": 1211170,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675265,
+        "num": 675265,
+        "word": "浙江省饭",
+        "onboard_time": 1747045642,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 591436,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 583259,
+        "num": 583259,
+        "word": "金龟子女儿30天带货销售额超千万",
+        "onboard_time": 1747044862,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476146,
+        "num": 476146,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457972,
+        "num": 457972,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389964,
+        "num": 389964,
+        "word": "卢靖姗27岁前都觉得妈妈不爱她",
+        "onboard_time": 1747050322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345313,
+        "num": 345313,
+        "word": "人生若如初见",
+        "onboard_time": 1747047203,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309747,
+        "num": 309747,
+        "word": "荔枝榴莲价格跳水近30%",
+        "onboard_time": 1747049060,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 81007,
+        "num": 274557,
+        "word": "中美关税时间线全梳理",
+        "onboard_time": 1747052902,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1687366,
+        "num": 273338,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523022,
+        "num": 272549,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271405,
+        "num": 271405,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489072,
+        "num": 269366,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17148,
+        "num": 268316,
+        "word": "俄乌领导人土耳其会谈能顺利举行吗",
+        "onboard_time": 1747053441,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 437800,
+        "num": 266651,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412383,
+        "num": 263239,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313561,
+        "num": 261818,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302280,
+        "num": 259762,
+        "word": "金世佳报考上戏博士",
+        "onboard_time": 1747053743,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258719,
+        "num": 258719,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1962193,
+        "num": 246365,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226036,
+        "num": 226036,
+        "word": "美取消14259号和14266号行政令关税",
+        "onboard_time": 1747038744,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8355,
+        "num": 199692,
+        "word": "AI换脸能否挽回赴山海的播出命运",
+        "onboard_time": 1747054041,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196068,
+        "num": 196068,
+        "word": "汶川地震班里44人只活下来11人",
+        "onboard_time": 1747049422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193737,
+        "num": 193737,
+        "word": "疑似李凯馨干爹发文",
+        "onboard_time": 1747034663,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193538,
+        "num": 193538,
+        "word": "许凯 听风令",
+        "onboard_time": 1747052482,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184723,
+        "num": 184723,
+        "word": "何炅歌手2025主持人官宣",
+        "onboard_time": 1747053202,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174880,
+        "num": 174880,
+        "word": "选丁真来演戏的人真是个天才",
+        "onboard_time": 1747041383,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167299,
+        "num": 167299,
+        "word": "男子误吞5cm鱼刺用土方身亡",
+        "onboard_time": 1747036345,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 155707,
+        "num": 155707,
+        "word": "CBA",
+        "onboard_time": 1747053861,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154586,
+        "num": 154586,
+        "word": "印度阵风战机残骸",
+        "onboard_time": 1747050861,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153879,
+        "num": 153879,
+        "word": "河海大学回应女博士实名举报导师",
+        "onboard_time": 1747048220,
+        "rank": 31,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 142605,
+        "num": 142605,
+        "word": "长沙县卫生健康局情况通报",
+        "onboard_time": 1747051702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 136222,
+        "word": "夏志远 剧组应该让她赔钱赔到新加坡",
+        "onboard_time": 1747054161,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "李凯馨在外网发LunarNewYear",
+        "onboard_time": 1747042942,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133791,
+        "num": 133791,
+        "word": "美国公布一段最新的UFO视频",
+        "onboard_time": 1747049661,
+        "rank": 35,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 128677,
+        "num": 128677,
+        "word": "孟子义也有插不上话的时候",
+        "onboard_time": 1747051582,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123593,
+        "num": 123593,
+        "word": "月亮",
+        "onboard_time": 1747049661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122614,
+        "num": 122614,
+        "word": "买iPhone16还是等iPhone17",
+        "onboard_time": 1747041201,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121368,
+        "num": 121368,
+        "word": "黄金价格5月新低",
+        "onboard_time": 1747050682,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119776,
+        "num": 119776,
+        "word": "内娱好久没有这么热血的女团了",
+        "onboard_time": 1747051280,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118455,
+        "num": 118455,
+        "word": "中国稀土出口管制还在继续",
+        "onboard_time": 1747044381,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114385,
+        "num": 114385,
+        "word": "刘浩存你别激王安宇他啥都会",
+        "onboard_time": 1747053982,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111362,
+        "num": 111362,
+        "word": "EDG击败TEC夺冠",
+        "onboard_time": 1747054282,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109676,
+        "num": 109676,
+        "word": "折腰要拍短剧了",
+        "onboard_time": 1747038504,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "执法人员进入时有代孕女子躺在床上",
+        "onboard_time": 1747048281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99309,
+        "num": 99309,
+        "word": "印方不满特朗普抢莫迪风头",
+        "onboard_time": 1747054282,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98866,
+        "num": 98866,
+        "word": "中国资产大幅上涨",
+        "onboard_time": 1747044381,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97606,
+        "num": 97606,
+        "word": "南方雨雨雨接着雨雨雨",
+        "onboard_time": 1747053502,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97164,
+        "num": 97164,
+        "word": "现货黄金失守3220美元",
+        "onboard_time": 1747054342,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
