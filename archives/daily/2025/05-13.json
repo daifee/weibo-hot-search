@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747088690391,
+  "endTime": 1747089770710,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 411130,
-      "num": 411130,
+      "num": 520849,
       "word": "丁真我真没空陪你闹了",
       "onboard_time": 1747064482,
       "rank": 4,
@@ -107,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270706,
+      "raw_hot": 277564,
       "num": 270706,
       "word": "金龟子女儿1分钟视频报价15万",
       "onboard_time": 1747058063,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255753,
+      "num": 255753,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255538,
@@ -144,14 +152,6 @@
       "word": "上官正义曝别墅代孕后接到神秘电话",
       "onboard_time": 1747064421,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215881,
-      "num": 215881,
-      "word": "04年男子拒服兵役被罚3.8万",
-      "onboard_time": 1747069517,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118585,
+      "num": 118585,
+      "word": "美方要珍惜中方的善意",
+      "onboard_time": 1747068438,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 114169,
       "num": 114169,
       "word": "赴山海 换脸",
@@ -249,6 +257,14 @@
       "onboard_time": 1747065142,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111153,
+      "num": 111153,
+      "word": "让黄圣依最疲惫的综艺出现了",
+      "onboard_time": 1747066219,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 110820,
@@ -267,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109277,
-      "num": 109277,
-      "word": "美方要珍惜中方的善意",
-      "onboard_time": 1747068438,
-      "rank": 48,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 108596,
       "num": 108596,
       "word": "小沈月最近又在哪闯祸呢",
@@ -291,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103495,
-      "num": 103495,
-      "word": "让黄圣依最疲惫的综艺出现了",
-      "onboard_time": 1747066219,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 101352,
+      "num": 80369,
+      "word": "男孩患巨痣手术后成功取掉扩张器",
+      "onboard_time": 1747065500,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -363,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86263,
+      "num": 86263,
+      "word": "巴方并未俘获印度飞行员",
+      "onboard_time": 1747080615,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85150,
       "num": 214378,
       "word": "郑钦文vs安德莱斯库",
@@ -395,12 +411,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80369,
-      "num": 80369,
-      "word": "男孩患巨痣手术后成功取掉扩张器",
-      "onboard_time": 1747065500,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 78606,
+      "num": 78606,
+      "word": "肖战藏海传致命身份暗藏杀机",
+      "onboard_time": 1747086014,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 78087,
@@ -411,14 +427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65550,
-      "num": 65550,
-      "word": "巴方并未俘获印度飞行员",
-      "onboard_time": 1747080615,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "客服回应雪碧悄悄换配方",
@@ -427,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57504,
-      "num": 57504,
-      "word": "肖战藏海传致命身份暗藏杀机",
-      "onboard_time": 1747086014,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 57349,
+      "num": 49287,
+      "word": "小花简直就是女版邓超附体",
+      "onboard_time": 1747085234,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 55571,
@@ -443,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50959,
-      "num": 40095,
-      "word": "小花简直就是女版邓超附体",
-      "onboard_time": 1747085234,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 50133,
+      "num": 81636,
+      "word": "派出所回应成都一家三口溺水事故",
+      "onboard_time": 1747070236,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47733,
@@ -483,12 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38954,
-      "num": 81636,
-      "word": "派出所回应成都一家三口溺水事故",
-      "onboard_time": 1747070236,
-      "rank": 25,
+      "raw_hot": 39415,
+      "num": 136467,
+      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+      "onboard_time": 1747080374,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38138,
+      "num": 227674,
+      "word": "商务部解读中美关税新举措",
+      "onboard_time": 1747059625,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 34698,
@@ -499,36 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34393,
-      "num": 166645,
-      "word": "商务部解读中美关税新举措",
-      "onboard_time": 1747059625,
-      "rank": 2,
-      "category": "国内时政,财经"
+      "raw_hot": 32749,
+      "num": 112319,
+      "word": "印巴双方矛盾冲突的根源",
+      "onboard_time": 1747087634,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 32017,
-      "num": 32017,
-      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
-      "onboard_time": 1747080374,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23912,
-      "num": 25125,
+      "raw_hot": 30876,
+      "num": 35792,
       "word": "父母说的这些话最伤孩子",
       "onboard_time": 1747085955,
       "rank": 44,
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 21945,
-      "num": 112319,
-      "word": "印巴双方矛盾冲突的根源",
-      "onboard_time": 1747087634,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 26750,
+      "num": 35779,
+      "word": "中美声明点燃全球乐观情绪",
+      "onboard_time": 1747076115,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21527,
@@ -539,20 +547,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21458,
-      "num": 25101,
-      "word": "中美声明点燃全球乐观情绪",
-      "onboard_time": 1747076115,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19399,
       "num": 23444,
       "word": "克拉盘",
       "onboard_time": 1747061004,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17376,
+      "num": 35765,
+      "word": "降价的风终于吹到了榴莲",
+      "onboard_time": 1747088176,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 16308,
@@ -577,14 +585,6 @@
       "onboard_time": 1747074373,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14110,
-      "num": 25099,
-      "word": "降价的风终于吹到了榴莲",
-      "onboard_time": 1747088176,
-      "rank": 49,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 11300,
