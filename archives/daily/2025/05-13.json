@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747068535373,
+  "endTime": 1747070566971,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -25,6 +25,14 @@
       "onboard_time": 1747051941,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532273,
+      "num": 532273,
+      "word": "SK",
+      "onboard_time": 1747067600,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 453742,
@@ -57,14 +65,6 @@
       "onboard_time": 1747059745,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 366232,
-      "num": 366232,
-      "word": "SK",
-      "onboard_time": 1747067600,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 343995,
@@ -139,12 +139,20 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 218182,
+      "raw_hot": 220240,
       "num": 253237,
       "word": "上官正义曝别墅代孕后接到神秘电话",
       "onboard_time": 1747064421,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214442,
+      "num": 145692,
+      "word": "重庆震感",
+      "onboard_time": 1747066520,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 213098,
@@ -169,14 +177,6 @@
       "onboard_time": 1747054401,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181675,
-      "num": 145692,
-      "word": "重庆震感",
-      "onboard_time": 1747066520,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 163263,
@@ -395,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78037,
+      "num": 78037,
+      "word": "美方要珍惜中方的善意",
+      "onboard_time": 1747068438,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "客服回应雪碧悄悄换配方",
@@ -403,12 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57425,
-      "num": 57425,
-      "word": "美方要珍惜中方的善意",
-      "onboard_time": 1747068438,
-      "rank": 48,
-      "category": "国内时政,财经"
+      "raw_hot": 55571,
+      "num": 55571,
+      "word": "刘诗诗想刀人的眼神藏不住了",
+      "onboard_time": 1747068798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51491,
+      "num": 51491,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47733,
@@ -425,6 +441,22 @@
       "onboard_time": 1747057405,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40897,
+      "num": 40897,
+      "word": "单依纯歌手经纪人是郑方一",
+      "onboard_time": 1747056503,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22813,
+      "num": 81636,
+      "word": "派出所回应成都一家三口溺水事故",
+      "onboard_time": 1747070236,
+      "rank": 25,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747068535373,
+  "endTime": 1747070566971,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -875,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532273,
+      "num": 532273,
+      "word": "SK",
+      "onboard_time": 1747067600,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 529287,
       "num": 333024,
       "word": "吴昕主持人的含金量还在上升",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1746930501,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 366232,
-      "num": 366232,
-      "word": "SK",
-      "onboard_time": 1747067600,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 365061,
@@ -2235,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220240,
+      "num": 253237,
+      "word": "上官正义曝别墅代孕后接到神秘电话",
+      "onboard_time": 1747064421,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220130,
       "num": 220130,
       "word": "AG夺冠",
@@ -2256,14 +2264,6 @@
       "word": "车内座位不够3个娃被藏后备箱",
       "onboard_time": 1746891863,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218182,
-      "num": 253237,
-      "word": "上官正义曝别墅代孕后接到神秘电话",
-      "onboard_time": 1747064421,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2329,6 +2329,14 @@
       "onboard_time": 1746931222,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214442,
+      "num": 145692,
+      "word": "重庆震感",
+      "onboard_time": 1747066520,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 213357,
@@ -2985,14 +2993,6 @@
       "onboard_time": 1746975922,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181675,
-      "num": 145692,
-      "word": "重庆震感",
-      "onboard_time": 1747066520,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 181438,
@@ -6099,6 +6099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78037,
+      "num": 78037,
+      "word": "美方要珍惜中方的善意",
+      "onboard_time": 1747068438,
+      "rank": 48,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 77538,
       "num": 179484,
       "word": "在校生浏览境外反华网站传播谣言",
@@ -6475,20 +6483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57425,
-      "num": 57425,
-      "word": "美方要珍惜中方的善意",
-      "onboard_time": 1747068438,
-      "rank": 48,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 57195,
       "num": 1176695,
       "word": "这只瓶子上藏着对妈妈的爱",
       "onboard_time": 1746955221,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55571,
+      "num": 55571,
+      "word": "刘诗诗想刀人的眼神藏不住了",
+      "onboard_time": 1747068798,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 55140,
@@ -6600,6 +6608,14 @@
       "word": "专家批评武士道书法非常丑陋",
       "onboard_time": 1747045702,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51491,
+      "num": 51491,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -7321,6 +7337,14 @@
       "onboard_time": 1747053441,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22813,
+      "num": 81636,
+      "word": "派出所回应成都一家三口溺水事故",
+      "onboard_time": 1747070236,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22584,
