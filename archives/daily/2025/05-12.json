@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747042144771,
+  "endTime": 1747042954568,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -49,6 +49,14 @@
       "onboard_time": 1747024404,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1427551,
+      "num": 349591,
+      "word": "长沙别墅代孕窝点查处现场",
+      "onboard_time": 1747037604,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1347238,
@@ -155,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 958157,
-      "num": 349591,
-      "word": "长沙别墅代孕窝点查处现场",
-      "onboard_time": 1747037604,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 955455,
       "num": 542773,
       "word": "张伦硕否认与钟丽缇一见钟情",
@@ -179,20 +179,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870582,
+      "num": 870582,
+      "word": "中美关税降税后不到30%",
+      "onboard_time": 1747038865,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 855169,
       "num": 855169,
       "word": "上门做饭月入2万女子每周只休半天",
       "onboard_time": 1747017981,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 852618,
-      "num": 852618,
-      "word": "中美关税降税后不到30%",
-      "onboard_time": 1747038865,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 837575,
@@ -395,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 505771,
+      "num": 505771,
+      "word": "芬太尼",
+      "onboard_time": 1747039042,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 503316,
       "num": 543400,
       "word": "何炅上班和上学哪一个更苦",
@@ -515,14 +523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 418023,
-      "num": 418023,
-      "word": "芬太尼",
-      "onboard_time": 1747039042,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 407265,
       "num": 407265,
       "word": "特朗普坦言自己夜不能寐",
@@ -600,6 +600,14 @@
       "word": "母亲失联20多年起诉3子女要求陪伴",
       "onboard_time": 1747017622,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354183,
+      "num": 354183,
+      "word": "地下代孕16张病床住着多位代孕女子",
+      "onboard_time": 1747041682,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -747,6 +755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 271129,
+      "num": 271129,
+      "word": "选丁真来演戏的人真是个天才",
+      "onboard_time": 1747041383,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271092,
       "num": 271092,
       "word": "他们用行动证明没什么能打垮中国人",
@@ -825,6 +841,14 @@
       "onboard_time": 1747041503,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247124,
+      "num": 247124,
+      "word": "买iPhone16还是等iPhone17",
+      "onboard_time": 1747041201,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 243970,
@@ -923,20 +947,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217002,
+      "num": 217002,
+      "word": "全球股市爆发",
+      "onboard_time": 1747041201,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 215745,
       "num": 372705,
       "word": "藏海传人物关系没那么简单",
       "onboard_time": 1747026624,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215513,
-      "num": 215513,
-      "word": "地下代孕16张病床住着多位代孕女子",
-      "onboard_time": 1747041682,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214658,
@@ -1043,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194294,
-      "num": 242962,
-      "word": "选丁真来演戏的人真是个天才",
-      "onboard_time": 1747041383,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194006,
       "num": 194006,
       "word": "印巴",
@@ -1067,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189977,
+      "num": 290618,
+      "word": "官方通报一出租房疑存非法代孕活动",
+      "onboard_time": 1747040782,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 189503,
       "num": 189503,
       "word": "表演火裙舞被烧伤女演员已报警",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1747024524,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187787,
+      "num": 214577,
+      "word": "藏海传人物关系图鉴来了",
+      "onboard_time": 1747042342,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 187282,
@@ -1123,28 +1155,12 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 184002,
-      "num": 184002,
-      "word": "买iPhone16还是等iPhone17",
-      "onboard_time": 1747041201,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 183404,
       "num": 183404,
       "word": "认错狗了",
       "onboard_time": 1747038504,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183154,
-      "num": 183154,
-      "word": "全球股市爆发",
-      "onboard_time": 1747041201,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 182912,
@@ -1435,6 +1451,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 156364,
+      "num": 179806,
+      "word": "中美发布联合声明",
+      "onboard_time": 1747041623,
+      "rank": 41,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 155687,
+      "num": 155687,
+      "word": "美商务部长称10%基准关税将持续存在",
+      "onboard_time": 1747042402,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154767,
       "num": 371827,
       "word": "张馨予回应自己不导电",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1747015821,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150037,
+      "num": 209474,
+      "word": "锤娜丽莎问李川你在高贵什么",
+      "onboard_time": 1747042642,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 149979,
@@ -1699,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135270,
+      "num": 159035,
+      "word": "脾胃虚弱一定要多饿一饿",
+      "onboard_time": 1747042583,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 133716,
       "num": 308229,
       "word": "音乐人韩贤光病逝",
@@ -1739,6 +1787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130389,
+      "num": 130389,
+      "word": "长沙涉嫌非法代孕活动场所已被查封",
+      "onboard_time": 1747040724,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129951,
       "num": 129951,
       "word": "西藏拉孜发生5.5级地震",
@@ -1755,12 +1811,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 128606,
-      "num": 179806,
-      "word": "中美发布联合声明",
-      "onboard_time": 1747041623,
-      "rank": 41,
-      "category": "国内时政,财经"
+      "raw_hot": 129647,
+      "num": 129647,
+      "word": "周思成雅思4场8.5",
+      "onboard_time": 1747041022,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 128691,
+      "num": 128691,
+      "word": "李凯馨在外网发韩国春节快乐",
+      "onboard_time": 1747042942,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127616,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1747016540,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120065,
-      "num": 290618,
-      "word": "官方通报一出租房疑存非法代孕活动",
-      "onboard_time": 1747040782,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119940,
@@ -1985,6 +2041,14 @@
       "onboard_time": 1747031311,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99851,
+      "num": 232977,
+      "word": "中美双方实际保留的关税",
+      "onboard_time": 1747041324,
+      "rank": 28,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 99415,
@@ -2387,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55089,
+      "num": 290850,
+      "word": "如何理解中美经贸高层会谈共识",
+      "onboard_time": 1747042043,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54457,
       "num": 307854,
       "word": "来伊份吃出创口贴粽子疑为五芳斋代工",
@@ -2515,12 +2587,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 43171,
-      "num": 188031,
-      "word": "如何理解中美经贸高层会谈共识",
-      "onboard_time": 1747042043,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 42981,
+      "num": 240459,
+      "word": "印度被击落的阵风战斗机有多强",
+      "onboard_time": 1747041742,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 42747,
@@ -2537,14 +2609,6 @@
       "onboard_time": 1746983417,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40751,
-      "num": 232977,
-      "word": "中美双方实际保留的关税",
-      "onboard_time": 1747041324,
-      "rank": 28,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 40096,
@@ -2595,20 +2659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31152,
-      "num": 240459,
-      "word": "印度被击落的阵风战斗机有多强",
-      "onboard_time": 1747041742,
-      "rank": 27,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 30025,
       "num": 167346,
       "word": "银魂还是太全面了",
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 29559,
+      "num": 280508,
+      "word": "汶川地震失去左腿的男孩已成为舞者",
+      "onboard_time": 1747041802,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29419,
@@ -2683,6 +2747,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22188,
+      "num": 231303,
+      "word": "巴方称曾拦截多枚巡航导弹",
+      "onboard_time": 1747040483,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 22006,
+      "num": 278051,
+      "word": "印巴恢复瓦加边境降旗仪式",
+      "onboard_time": 1747042043,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21646,
       "num": 192471,
       "word": "aespa最新舞台的表现如何",
@@ -2747,12 +2827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18095,
-      "num": 231303,
-      "word": "巴方称曾拦截多枚巡航导弹",
-      "onboard_time": 1747040483,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 17986,
+      "num": 265946,
+      "word": "美国加州拍到的UFO可能是什么",
+      "onboard_time": 1747042284,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15961,
@@ -2835,28 +2915,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10559,
-      "num": 188031,
-      "word": "印巴恢复瓦加边境降旗仪式",
-      "onboard_time": 1747042043,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10094,
       "num": 209967,
       "word": "加沙供水危机对当地生活有何影响",
       "onboard_time": 1747032081,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9733,
-      "num": 278937,
-      "word": "汶川地震失去左腿的男孩已成为舞者",
-      "onboard_time": 1747041802,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9640,
