@@ -1,10 +1,10 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747022363331,
+  "endTime": 1747024270782,
   "band_list": [
     {
-      "raw_hot": 3307436,
-      "num": 3307436,
+      "raw_hot": 3321710,
+      "num": 3321710,
       "word": "512",
       "onboard_time": 1747008201,
       "rank": 25,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1109987,
+      "num": 539389,
+      "word": "菅纫姿发文",
+      "onboard_time": 1747021342,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1037569,
       "num": 1037569,
       "word": "黄多多进军影视圈",
@@ -73,6 +81,14 @@
       "onboard_time": 1747011381,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 925958,
+      "num": 538996,
+      "word": "胡连馨 我去串个戏不要嫌弃我",
+      "onboard_time": 1747021221,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 855169,
@@ -99,27 +115,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 741779,
+      "num": 537429,
+      "word": "曝李凯馨ins翻车",
+      "onboard_time": 1747023022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703195,
       "num": 703195,
       "word": "藏海传",
       "onboard_time": 1747015341,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 699267,
-      "num": 474832,
-      "word": "菅纫姿发文",
-      "onboard_time": 1747021342,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 642031,
-      "num": 473992,
-      "word": "胡连馨 我去串个戏不要嫌弃我",
-      "onboard_time": 1747021221,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -147,12 +155,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591880,
+      "num": 536145,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 586821,
       "num": 586821,
       "word": "5121428是中国人的心痛瞬间",
       "onboard_time": 1747007360,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561490,
+      "num": 561490,
+      "word": "零分教资 满分教师",
+      "onboard_time": 1747020501,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 540509,
+      "num": 540509,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536107,
+      "num": 536107,
+      "word": "张杰女儿小咘芽商标已被抢注",
+      "onboard_time": 1747021642,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 526586,
@@ -275,28 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399817,
-      "num": 399817,
-      "word": "零分教资 满分教师",
-      "onboard_time": 1747020501,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 394150,
       "num": 394150,
       "word": "巴少将称阵风用的好会很强大",
       "onboard_time": 1747019001,
       "rank": 35,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 392369,
-      "num": 392369,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 388110,
@@ -443,6 +467,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268250,
+      "num": 268250,
+      "word": "工作舒服的秘诀只有一个",
+      "onboard_time": 1747022721,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 259518,
+      "num": 259518,
+      "word": "本周财运暴涨的星座",
+      "onboard_time": 1747023201,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258601,
       "num": 258601,
       "word": "黄圣依妈妈在北京帮带孙子10年",
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255006,
-      "num": 469813,
-      "word": "张杰女儿小咘芽商标已被抢注",
-      "onboard_time": 1747021642,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 252709,
+      "num": 252709,
+      "word": "古茗 黑白",
+      "onboard_time": 1747023983,
+      "rank": 36,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 242235,
@@ -475,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240435,
-      "num": 468667,
-      "word": "女子为取已故父亲存款起诉奶奶",
-      "onboard_time": 1747020323,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 238479,
+      "num": 540291,
+      "word": "刘宇说黄圣依很清醒",
+      "onboard_time": 1747022423,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 236932,
@@ -539,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206898,
+      "num": 481712,
+      "word": "高圆圆说自己的人生底色是悲观",
+      "onboard_time": 1747023743,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205668,
       "num": 541877,
       "word": "缅怀同胞致敬新生祝福汶川",
@@ -556,7 +604,7 @@
     },
     {
       "raw_hot": 195878,
-      "num": 308877,
+      "num": 538331,
       "word": "六公主排片纽约我爱你",
       "onboard_time": 1747018582,
       "rank": 23,
@@ -595,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185457,
+      "num": 381005,
+      "word": "JIWOO的鞋飞出去了",
+      "onboard_time": 1747022721,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184573,
       "num": 184573,
       "word": "飞机餐需要60多位厨师",
@@ -609,6 +665,14 @@
       "onboard_time": 1747017381,
       "rank": 28,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 182912,
+      "num": 182912,
+      "word": "我请假领导不高兴",
+      "onboard_time": 1747023983,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 182637,
@@ -796,7 +860,7 @@
     },
     {
       "raw_hot": 145801,
-      "num": 145801,
+      "num": 378480,
       "word": "JackeyLove回应参加solo",
       "onboard_time": 1747013541,
       "rank": 43,
@@ -979,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114926,
+      "num": 369542,
+      "word": "英媒将巴空军称为空中之王",
+      "onboard_time": 1747023743,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 106147,
       "num": 106147,
       "word": "武汉坐地铁公交可以抵扣房贷",
@@ -1009,6 +1081,14 @@
       "onboard_time": 1746979400,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94984,
+      "num": 372687,
+      "word": "美财长警告X日或将在8月来临",
+      "onboard_time": 1747022782,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94786,
@@ -1057,6 +1137,14 @@
       "onboard_time": 1747005079,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84770,
+      "num": 374383,
+      "word": "巴方称已袭击印境内26个军事目标",
+      "onboard_time": 1747022482,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 83566,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1747008321,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 214660,
+      "word": "AI是让大学生降智还是变聪明",
+      "onboard_time": 1747022903,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 72948,
@@ -1323,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50955,
+      "num": 536796,
+      "word": "17年前的汶川记忆",
+      "onboard_time": 1747023083,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50789,
       "num": 284899,
       "word": "印巴剑拔弩张背后有何深层矛盾",
@@ -1379,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38623,
+      "num": 477818,
+      "word": "骑士还有可能1比3逆转吗",
+      "onboard_time": 1747023683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38118,
       "num": 179598,
       "word": "郑钦文说逐渐进入红土状态",
@@ -1392,6 +1504,14 @@
       "word": "妈宝女",
       "onboard_time": 1746996434,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26237,
+      "num": 477616,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1411,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25039,
-      "num": 460821,
-      "word": "汶川大地震改变和留下了什么",
-      "onboard_time": 1747020620,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25030,
       "num": 25030,
       "word": "吉克隽逸太阳的女儿演唱会",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1747018940,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 22380,
+      "num": 215818,
+      "word": "跟着他你就能活",
+      "onboard_time": 1747022482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21271,

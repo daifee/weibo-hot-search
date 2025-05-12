@@ -1,10 +1,10 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747022363331,
+  "endTime": 1747024270782,
   "band_list": [
     {
-      "raw_hot": 3307436,
-      "num": 3307436,
+      "raw_hot": 3321710,
+      "num": 3321710,
       "word": "512",
       "onboard_time": 1747008201,
       "rank": 25,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1109987,
+      "num": 539389,
+      "word": "菅纫姿发文",
+      "onboard_time": 1747021342,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -233,6 +241,14 @@
       "onboard_time": 1746924021,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 925958,
+      "num": 538996,
+      "word": "胡连馨 我去串个戏不要嫌弃我",
+      "onboard_time": 1747021221,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 917986,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 741779,
+      "num": 537429,
+      "word": "曝李凯馨ins翻车",
+      "onboard_time": 1747023022,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732652,
       "num": 396666,
       "word": "月薪6千过出2万的生活质量",
@@ -377,14 +401,6 @@
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 699267,
-      "num": 474832,
-      "word": "菅纫姿发文",
-      "onboard_time": 1747021342,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 690717,
@@ -433,14 +449,6 @@
       "onboard_time": 1746946641,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 642031,
-      "num": 473992,
-      "word": "胡连馨 我去串个戏不要嫌弃我",
-      "onboard_time": 1747021221,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 631882,
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591880,
+      "num": 536145,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 586821,
       "num": 586821,
       "word": "5121428是中国人的心痛瞬间",
@@ -513,6 +529,14 @@
       "onboard_time": 1746923301,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561490,
+      "num": 561490,
+      "word": "零分教资 满分教师",
+      "onboard_time": 1747020501,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 559631,
@@ -539,11 +563,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540509,
+      "num": 540509,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537412,
       "num": 348648,
       "word": "在蓝盈莹脸上看到漂亮基因的强大",
       "onboard_time": 1746939981,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 536107,
+      "num": 536107,
+      "word": "张杰女儿小咘芽商标已被抢注",
+      "onboard_time": 1747021642,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -867,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399817,
-      "num": 399817,
-      "word": "零分教资 满分教师",
-      "onboard_time": 1747020501,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 399566,
       "num": 399566,
       "word": "孟子义演技",
@@ -905,14 +937,6 @@
       "onboard_time": 1746880281,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392369,
-      "num": 392369,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 388110,
@@ -1275,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268250,
+      "num": 268250,
+      "word": "工作舒服的秘诀只有一个",
+      "onboard_time": 1747022721,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266651,
       "num": 266651,
       "word": "仙逆",
@@ -1307,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259518,
+      "num": 259518,
+      "word": "本周财运暴涨的星座",
+      "onboard_time": 1747023201,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258376,
       "num": 309974,
       "word": "贺峻霖携富贵一起祝某位女士母亲节快乐",
@@ -1331,12 +1371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255006,
-      "num": 469813,
-      "word": "张杰女儿小咘芽商标已被抢注",
-      "onboard_time": 1747021642,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 252709,
+      "num": 252709,
+      "word": "古茗 黑白",
+      "onboard_time": 1747023983,
+      "rank": 36,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 252068,
@@ -1395,12 +1435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240435,
-      "num": 468667,
-      "word": "女子为取已故父亲存款起诉奶奶",
-      "onboard_time": 1747020323,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 238479,
+      "num": 540291,
+      "word": "刘宇说黄圣依很清醒",
+      "onboard_time": 1747022423,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 237980,
@@ -1619,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206898,
+      "num": 481712,
+      "word": "高圆圆说自己的人生底色是悲观",
+      "onboard_time": 1747023743,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206632,
       "num": 206632,
       "word": "芒果TV招商片单",
@@ -1756,7 +1804,7 @@
     },
     {
       "raw_hot": 195878,
-      "num": 308877,
+      "num": 538331,
       "word": "六公主排片纽约我爱你",
       "onboard_time": 1747018582,
       "rank": 23,
@@ -1899,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185457,
+      "num": 381005,
+      "word": "JIWOO的鞋飞出去了",
+      "onboard_time": 1747022721,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184759,
       "num": 257865,
       "word": "蒙娜丽莎",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1746962663,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182912,
+      "num": 182912,
+      "word": "我请假领导不高兴",
+      "onboard_time": 1747023983,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 182637,
@@ -2620,7 +2684,7 @@
     },
     {
       "raw_hot": 145801,
-      "num": 145801,
+      "num": 378480,
       "word": "JackeyLove回应参加solo",
       "onboard_time": 1747013541,
       "rank": 43,
@@ -3435,6 +3499,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114926,
+      "num": 369542,
+      "word": "英媒将巴空军称为空中之王",
+      "onboard_time": 1747023743,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 114661,
       "num": 114661,
       "word": "雷军空降超话",
@@ -3747,6 +3819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94984,
+      "num": 372687,
+      "word": "美财长警告X日或将在8月来临",
+      "onboard_time": 1747022782,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94836,
       "num": 94836,
       "word": "没药花园谈小猫悟空事件",
@@ -3923,6 +4003,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 84770,
+      "num": 374383,
+      "word": "巴方称已袭击印境内26个军事目标",
+      "onboard_time": 1747022482,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 84737,
       "num": 150335,
       "word": "刚买的飞机外网病毒式传播",
@@ -4041,6 +4129,14 @@
       "onboard_time": 1747008321,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 214660,
+      "word": "AI是让大学生降智还是变聪明",
+      "onboard_time": 1747022903,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 72547,
@@ -4339,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50955,
+      "num": 536796,
+      "word": "17年前的汶川记忆",
+      "onboard_time": 1747023083,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50789,
       "num": 284899,
       "word": "印巴剑拔弩张背后有何深层矛盾",
@@ -4555,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38623,
+      "num": 477818,
+      "word": "骑士还有可能1比3逆转吗",
+      "onboard_time": 1747023683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38118,
       "num": 179598,
       "word": "郑钦文说逐渐进入红土状态",
@@ -4691,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26237,
+      "num": 477616,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26121,
       "num": 35071,
       "word": "咒术回战五条悟",
@@ -4729,14 +4849,6 @@
       "onboard_time": 1746975743,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 25039,
-      "num": 460821,
-      "word": "汶川大地震改变和留下了什么",
-      "onboard_time": 1747020620,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25030,
@@ -4817,6 +4929,14 @@
       "onboard_time": 1746899836,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22380,
+      "num": 215818,
+      "word": "跟着他你就能活",
+      "onboard_time": 1747022482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21957,
