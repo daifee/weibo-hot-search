@@ -1,0 +1,410 @@
+{
+  "runTime": 1747060032445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562149,
+        "num": 1562149,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1340759,
+        "num": 1340759,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63797,
+        "num": 1241718,
+        "word": "商务部解读中美关税新举措",
+        "onboard_time": 1747059625,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1182786,
+        "num": 1182786,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1022949,
+        "num": 1022949,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393888,
+        "num": 393888,
+        "word": "金龟子女儿30天带货销售额超千万",
+        "onboard_time": 1747044862,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345111,
+        "num": 345111,
+        "word": "双男主古装悬疑剧",
+        "onboard_time": 1747057943,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316933,
+        "num": 316933,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295918,
+        "num": 295918,
+        "word": "金世佳报考上戏博士",
+        "onboard_time": 1747053743,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276728,
+        "num": 276728,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1192667,
+        "num": 275498,
+        "word": "代孕",
+        "onboard_time": 1747054581,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1002779,
+        "num": 274507,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522307,
+        "num": 272343,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146589,
+        "num": 271783,
+        "word": "客服回应雪碧悄悄换配方",
+        "onboard_time": 1747059683,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270322,
+        "num": 270322,
+        "word": "印度民众对美国感到愤怒",
+        "onboard_time": 1747058543,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243961,
+        "num": 269508,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 673698,
+        "num": 267359,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461614,
+        "num": 266962,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33087,
+        "num": 264456,
+        "word": "监视居住期间被私了的命案",
+        "onboard_time": 1747058723,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50574,
+        "num": 263007,
+        "word": "世界势必因这场空战重新认识中国",
+        "onboard_time": 1747059504,
+        "rank": 19,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 1725483,
+        "num": 261678,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415865,
+        "num": 259910,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410974,
+        "num": 258201,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322890,
+        "num": 257478,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69739,
+        "num": 254490,
+        "word": "CBA总决赛时隔10年重回北京",
+        "onboard_time": 1747059683,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273148,
+        "num": 253729,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252736,
+        "num": 252736,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252197,
+        "num": 252197,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153802,
+        "num": 220776,
+        "word": "单依纯歌手经纪人是郑方一",
+        "onboard_time": 1747056503,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49038,
+        "num": 218038,
+        "word": "75万中标的路由器天价采购疑点重重",
+        "onboard_time": 1747058124,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 265695,
+        "num": 217933,
+        "word": "金价短期内或面临较大调整",
+        "onboard_time": 1747058783,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215406,
+        "num": 215406,
+        "word": "102岁老人每天6点半起床撸铁",
+        "onboard_time": 1747058783,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202958,
+        "num": 202958,
+        "word": "果然直播的尽头是带货",
+        "onboard_time": 1747059084,
+        "rank": 32,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 190868,
+        "num": 190868,
+        "word": "林心如晒8岁女儿手写卡片",
+        "onboard_time": 1747055063,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148491,
+        "num": 177387,
+        "word": "夏志远 剧组应该让她赔钱赔到新加坡",
+        "onboard_time": 1747054161,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172817,
+        "num": 172817,
+        "word": "浙江省饭",
+        "onboard_time": 1747045642,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164786,
+        "num": 164786,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148339,
+        "num": 148339,
+        "word": "中国中车近期签约547.4亿元大单",
+        "onboard_time": 1747058184,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47604,
+        "num": 145431,
+        "word": "万千气象看荆楚",
+        "onboard_time": 1747057405,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145309,
+        "num": 145309,
+        "word": "卢靖姗27岁前都觉得妈妈不爱她",
+        "onboard_time": 1747050322,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145264,
+        "num": 145264,
+        "word": "安切洛蒂本月执教巴西队",
+        "onboard_time": 1747059625,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 142753,
+        "word": "成毅你是真的会武功吧",
+        "onboard_time": 1747057223,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142258,
+        "num": 142258,
+        "word": "男子误吞5cm鱼刺用土方身亡",
+        "onboard_time": 1747036345,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 140838,
+        "num": 140838,
+        "word": "韩安冉称生10个孩子也能养活",
+        "onboard_time": 1747056382,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136269,
+        "num": 136269,
+        "word": "贝尔摩得和宫野志保",
+        "onboard_time": 1747058603,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135817,
+        "num": 135817,
+        "word": "疑似李凯馨干爹发文",
+        "onboard_time": 1747034663,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "金宣虎39岁状态",
+        "onboard_time": 1747057643,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132659,
+        "num": 132659,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112220,
+        "num": 112220,
+        "word": "美取消14259号和14266号行政令关税",
+        "onboard_time": 1747038744,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 111044,
+        "word": "阿雅11岁女儿正面照",
+        "onboard_time": 1747056143,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
