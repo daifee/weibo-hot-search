@@ -1,0 +1,410 @@
+{
+  "runTime": 1747071665029,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 502908,
+        "num": 502908,
+        "word": "SK",
+        "onboard_time": 1747067600,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358163,
+        "num": 358163,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20114,
+        "num": 281658,
+        "word": "万千气象看荆楚",
+        "onboard_time": 1747057405,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279256,
+        "num": 279256,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213361,
+        "num": 213361,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172566,
+        "num": 172566,
+        "word": "上官正义曝别墅代孕后接到神秘电话",
+        "onboard_time": 1747064421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168610,
+        "num": 168610,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153136,
+        "num": 153136,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132198,
+        "num": 132198,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 108795,
+        "num": 108795,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243723,
+        "num": 108754,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146427,
+        "num": 107371,
+        "word": "98年出生的老爷猫去世",
+        "onboard_time": 1747061484,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134408,
+        "num": 105774,
+        "word": "安静公主自曝没谈过恋爱",
+        "onboard_time": 1747062623,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132599,
+        "num": 104873,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104370,
+        "num": 104370,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101053,
+        "num": 101053,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85364,
+        "num": 85364,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78810,
+        "num": 78810,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77175,
+        "num": 77175,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71273,
+        "num": 71273,
+        "word": "郑钦文vs安德莱斯库",
+        "onboard_time": 1747065201,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456307,
+        "num": 70572,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181771,
+        "num": 70285,
+        "word": "重庆震感",
+        "onboard_time": 1747066520,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 89545,
+        "num": 68683,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81299,
+        "num": 67924,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67817,
+        "num": 67817,
+        "word": "美方要珍惜中方的善意",
+        "onboard_time": 1747068438,
+        "rank": 24,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 64112,
+        "num": 64112,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63560,
+        "num": 63560,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47531,
+        "num": 63165,
+        "word": "MEOVV回归",
+        "onboard_time": 1747070656,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 62360,
+        "word": "102岁老人每天6点半起床撸铁",
+        "onboard_time": 1747058783,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46538,
+        "num": 61404,
+        "word": "让黄圣依最疲惫的综艺出现了",
+        "onboard_time": 1747066219,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38954,
+        "num": 59519,
+        "word": "派出所回应成都一家三口溺水事故",
+        "onboard_time": 1747070236,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59470,
+        "num": 59470,
+        "word": "04年男子拒服兵役被罚3.8万",
+        "onboard_time": 1747069517,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52952,
+        "num": 52952,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51523,
+        "num": 51523,
+        "word": "刘诗诗想刀人的眼神藏不住了",
+        "onboard_time": 1747068798,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44010,
+        "num": 44010,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42784,
+        "num": 42784,
+        "word": "客服回应雪碧悄悄换配方",
+        "onboard_time": 1747059683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42603,
+        "num": 42603,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40068,
+        "num": 40068,
+        "word": "男孩患巨痣手术后成功取掉扩张器",
+        "onboard_time": 1747065500,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39956,
+        "num": 39956,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38669,
+        "num": 38669,
+        "word": "小沈月最近又在哪闯祸呢",
+        "onboard_time": 1747060044,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38501,
+        "num": 38501,
+        "word": "金价下跌因素",
+        "onboard_time": 1747065142,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 37981,
+        "word": "钟汉良肖战藏海传里演父子",
+        "onboard_time": 1747064482,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37259,
+        "num": 37259,
+        "word": "恋与深空粘土人",
+        "onboard_time": 1747063282,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36810,
+        "num": 36810,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36549,
+        "num": 36549,
+        "word": "单依纯歌手经纪人是郑方一",
+        "onboard_time": 1747056503,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36491,
+        "num": 36491,
+        "word": "3个有助于减重的运动",
+        "onboard_time": 1747067239,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34711,
+        "num": 34711,
+        "word": "刘浩存从未这样对朕撒娇过",
+        "onboard_time": 1747060583,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34698,
+        "num": 34698,
+        "word": "迪丽热巴金靖随地大小演",
+        "onboard_time": 1747070896,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33098,
+        "num": 34697,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32282,
+        "num": 34697,
+        "word": "连陈凯歌都说野心太大的人出现了",
+        "onboard_time": 1747061724,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

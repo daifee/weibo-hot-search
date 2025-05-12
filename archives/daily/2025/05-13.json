@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747070566971,
+  "endTime": 1747071665029,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -403,6 +403,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 59470,
+      "num": 59470,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "客服回应雪碧悄悄换配方",
@@ -419,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51491,
-      "num": 51491,
-      "word": "04年男子拒服兵役被罚3.8万",
-      "onboard_time": 1747069517,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47733,
       "num": 76718,
       "word": "成都本地车厘子上市",
       "onboard_time": 1747067540,
       "rank": 49,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 47531,
+      "num": 63165,
+      "word": "MEOVV回归",
+      "onboard_time": 1747070656,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 41176,
@@ -451,12 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22813,
+      "raw_hot": 38954,
       "num": 81636,
       "word": "派出所回应成都一家三口溺水事故",
       "onboard_time": 1747070236,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34698,
+      "num": 34698,
+      "word": "迪丽热巴金靖随地大小演",
+      "onboard_time": 1747070896,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
