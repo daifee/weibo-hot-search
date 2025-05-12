@@ -1,0 +1,410 @@
+{
+  "runTime": 1747057045612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024567,
+        "num": 1163930,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1015160,
+        "num": 1015160,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 768433,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 617668,
+        "num": 617668,
+        "word": "金世佳报考上戏博士",
+        "onboard_time": 1747053743,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471815,
+        "num": 471815,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 449476,
+        "num": 449476,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431815,
+        "num": 431815,
+        "word": "金龟子女儿30天带货销售额超千万",
+        "onboard_time": 1747044862,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323185,
+        "num": 323185,
+        "word": "浙江省饭",
+        "onboard_time": 1747045642,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297863,
+        "num": 297863,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283227,
+        "num": 283227,
+        "word": "歌手2025首发阵容和经纪人",
+        "onboard_time": 1747049121,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1431368,
+        "num": 283175,
+        "word": "代孕",
+        "onboard_time": 1747054581,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1169730,
+        "num": 283065,
+        "word": "林宥嘉 希望你能原谅",
+        "onboard_time": 1747051941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487334,
+        "num": 283060,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44863,
+        "num": 282917,
+        "word": "汶川地震受灾最严重的北川中学",
+        "onboard_time": 1747056143,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32839,
+        "num": 282844,
+        "word": "布云朝克特梦想打入世界前十",
+        "onboard_time": 1747056204,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417953,
+        "num": 282790,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688842,
+        "num": 282675,
+        "word": "林宥嘉评论邓紫棋黑粉",
+        "onboard_time": 1747054401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105770,
+        "num": 282603,
+        "word": "男子寻母被警方认定企图制造压力",
+        "onboard_time": 1747053323,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37522,
+        "num": 282513,
+        "word": "论文抽查会在毕业后多久进行",
+        "onboard_time": 1747055842,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29491,
+        "num": 282397,
+        "word": "空战史上规模最大的超视距作战",
+        "onboard_time": 1747056204,
+        "rank": 19,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 282320,
+        "word": "外交部重申台湾从来不是一个国家",
+        "onboard_time": 1747054522,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1804170,
+        "num": 282261,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 367710,
+        "num": 282207,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9452,
+        "num": 282063,
+        "word": "陈楚生在歌手中将演唱哪些歌曲",
+        "onboard_time": 1747056681,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322288,
+        "num": 281998,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319772,
+        "num": 281944,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122779,
+        "num": 281835,
+        "word": "周启豪说会选樊振东一起荒岛求生",
+        "onboard_time": 1747055725,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216626,
+        "num": 281737,
+        "word": "卢靖姗27岁前都觉得妈妈不爱她",
+        "onboard_time": 1747050322,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170990,
+        "num": 281690,
+        "word": "人生若如初见",
+        "onboard_time": 1747047203,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281645,
+        "num": 281645,
+        "word": "林心如晒8岁女儿手写卡片",
+        "onboard_time": 1747055063,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261570,
+        "num": 261570,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212267,
+        "num": 212267,
+        "word": "阿雅11岁女儿正面照",
+        "onboard_time": 1747056143,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186260,
+        "num": 186260,
+        "word": "韩安冉称生10个孩子也能养活",
+        "onboard_time": 1747056382,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175798,
+        "num": 175798,
+        "word": "长沙县卫生健康局情况通报",
+        "onboard_time": 1747051702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170083,
+        "num": 170083,
+        "word": "于适 贵州",
+        "onboard_time": 1747056143,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168959,
+        "num": 168959,
+        "word": "荔枝榴莲价格跳水近30%",
+        "onboard_time": 1747049060,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 158551,
+        "num": 158551,
+        "word": "单依纯歌手经纪人是郑方一",
+        "onboard_time": 1747056503,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154547,
+        "num": 154547,
+        "word": "美取消14259号和14266号行政令关税",
+        "onboard_time": 1747038744,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143969,
+        "num": 143969,
+        "word": "男子误吞5cm鱼刺用土方身亡",
+        "onboard_time": 1747036345,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 29925,
+        "num": 140060,
+        "word": "还记得汶川地震的叶志平校长吗",
+        "onboard_time": 1747056023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137704,
+        "num": 137704,
+        "word": "许凯 听风令",
+        "onboard_time": 1747052482,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132976,
+        "num": 132976,
+        "word": "夏志远 剧组应该让她赔钱赔到新加坡",
+        "onboard_time": 1747054161,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "选丁真来演戏的人真是个天才",
+        "onboard_time": 1747041383,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126633,
+        "num": 126633,
+        "word": "何炅歌手2025主持人官宣",
+        "onboard_time": 1747053202,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117340,
+        "num": 117340,
+        "word": "刘浩存你别激王安宇他啥都会",
+        "onboard_time": 1747053982,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114203,
+        "num": 114203,
+        "word": "为什么广东人吃鹅要分左右腿",
+        "onboard_time": 1747055183,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113429,
+        "num": 113429,
+        "word": "黄金价格5月新低",
+        "onboard_time": 1747050682,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112755,
+        "num": 112755,
+        "word": "疑似李凯馨干爹发文",
+        "onboard_time": 1747034663,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111711,
+        "num": 111711,
+        "word": "主食吃太少会引发多种健康问题",
+        "onboard_time": 1747055183,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110088,
+        "num": 110088,
+        "word": "华为与优必选签署全面合作协议",
+        "onboard_time": 1747056925,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
