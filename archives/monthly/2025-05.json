@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747046767790,
+  "endTime": 1747048940977,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -4827,6 +4827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 591724,
+      "num": 591724,
+      "word": "浙江省饭",
+      "onboard_time": 1747045642,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 590444,
       "num": 377485,
       "word": "王宝强四十岁这状态叫欠佳那我算啥",
@@ -5929,6 +5937,14 @@
       "onboard_time": 1746264562,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495216,
+      "num": 495216,
+      "word": "金龟子女儿30天带货销售额超千万",
+      "onboard_time": 1747044862,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495148,
@@ -7497,14 +7513,6 @@
       "onboard_time": 1746180269,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 412537,
-      "num": 412537,
-      "word": "金龟子女儿30天带货销售额超千万",
-      "onboard_time": 1747044862,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412450,
@@ -10763,14 +10771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286115,
-      "num": 286115,
-      "word": "浙江省饭",
-      "onboard_time": 1747045642,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 285992,
       "num": 244155,
       "word": "小红书回应网友评论曾捂死半岁女婴",
@@ -11169,6 +11169,14 @@
       "onboard_time": 1746538824,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271173,
+      "num": 271173,
+      "word": "人生若如初见",
+      "onboard_time": 1747047203,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 271092,
@@ -12809,6 +12817,14 @@
       "onboard_time": 1746506844,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238510,
+      "num": 193862,
+      "word": "取消置顶删除聊天框宣告某人死亡了",
+      "onboard_time": 1747047321,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 238479,
@@ -16553,6 +16569,14 @@
       "onboard_time": 1746405800,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195466,
+      "num": 195466,
+      "word": "ian柳智敏cha",
+      "onboard_time": 1747046602,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 195408,
@@ -22219,6 +22243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160099,
+      "num": 141921,
+      "word": "河海大学回应女博士实名举报导师",
+      "onboard_time": 1747048220,
+      "rank": 33,
+      "category": "舆论监督,教育"
+    },
+    {
       "raw_hot": 159942,
       "num": 159942,
       "word": "张凌赫手臂肌肉",
@@ -23203,6 +23235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154569,
+      "num": 286331,
+      "word": "锤娜丽莎问李川你在高贵什么",
+      "onboard_time": 1747042642,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154486,
       "num": 154486,
       "word": "加州州长最新涉华表态",
@@ -24049,14 +24089,6 @@
       "onboard_time": 1746070100,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150037,
-      "num": 286331,
-      "word": "锤娜丽莎问李川你在高贵什么",
-      "onboard_time": 1747042642,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 150035,
@@ -25755,6 +25787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141146,
+      "num": 286234,
+      "word": "汶川盲跳十五勇士今成社区守护者",
+      "onboard_time": 1747046542,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141121,
       "num": 141121,
       "word": "彭小苒淘汰",
@@ -27347,6 +27387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133927,
+      "num": 133927,
+      "word": "肖战四个角色上星央八",
+      "onboard_time": 1747047802,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133922,
       "num": 133922,
       "word": "王源音乐IP形象HUG",
@@ -27889,14 +27937,6 @@
       "onboard_time": 1746273801,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 131481,
-      "num": 131481,
-      "word": "ian柳智敏cha",
-      "onboard_time": 1747046602,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 131440,
@@ -29545,6 +29585,14 @@
       "onboard_time": 1746174861,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 124551,
+      "num": 349971,
+      "word": "CBA总决赛",
+      "onboard_time": 1746617362,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 124542,
@@ -31923,6 +31971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111317,
+      "num": 270765,
+      "word": "执法人员进入时有代孕女子躺在床上",
+      "onboard_time": 1747048281,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111312,
       "num": 143258,
       "word": "孟子义成功了是魔术失败了是小品",
@@ -33115,6 +33171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104293,
+      "num": 104293,
+      "word": "短剧折腰选角",
+      "onboard_time": 1747048340,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104217,
       "num": 191897,
       "word": "美国电商平台商品价格全线上涨",
@@ -33497,6 +33561,14 @@
       "onboard_time": 1746444142,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100935,
+      "num": 100935,
+      "word": "永野芽郁状态",
+      "onboard_time": 1747046901,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 100826,
@@ -33899,6 +33971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98093,
+      "num": 171066,
+      "word": "王者荣耀的算法像极了社会潜规则",
+      "onboard_time": 1747045461,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 98012,
       "num": 98012,
       "word": "印巴爆发冲突后莫迪首次公开发声",
@@ -34193,14 +34273,6 @@
       "onboard_time": 1746924560,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95508,
-      "num": 349971,
-      "word": "CBA总决赛",
-      "onboard_time": 1746617362,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 95278,
@@ -38075,14 +38147,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 55479,
-      "num": 171066,
-      "word": "王者荣耀的算法像极了社会潜规则",
-      "onboard_time": 1747045461,
-      "rank": 39,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 55200,
       "num": 55200,
       "word": "星露谷物语",
@@ -40241,6 +40305,14 @@
       "onboard_time": 1746169290,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 36744,
+      "num": 143238,
+      "word": "孕晚期拒绝异地调岗被公司自动离职",
+      "onboard_time": 1747048642,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36627,
@@ -43187,6 +43259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 17955,
+      "num": 142215,
+      "word": "中美联合声明将如何影响黄金市场",
+      "onboard_time": 1747048821,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17933,
       "num": 283147,
       "word": "夸克不愧是AI届搜商天花板",
@@ -43305,14 +43385,6 @@
       "onboard_time": 1746909734,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17408,
-      "num": 286234,
-      "word": "汶川盲跳十五勇士今成社区守护者",
-      "onboard_time": 1747046542,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17337,
@@ -43617,6 +43689,14 @@
       "onboard_time": 1746504082,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15569,
+      "num": 141394,
+      "word": "智搜谈中美联合声明多维度影响",
+      "onboard_time": 1747048821,
+      "rank": 34,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 15553,
@@ -44681,6 +44761,14 @@
       "onboard_time": 1746771682,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8301,
+      "num": 187835,
+      "word": "折腰短剧版如何还原原著精髓",
+      "onboard_time": 1747048581,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 8273,

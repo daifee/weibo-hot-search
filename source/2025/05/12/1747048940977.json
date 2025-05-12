@@ -1,0 +1,410 @@
+{
+  "runTime": 1747048940977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6283661,
+        "num": 6283661,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 591724,
+        "num": 591724,
+        "word": "浙江省饭",
+        "onboard_time": 1747045642,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173688,
+        "num": 550862,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 548095,
+        "num": 548095,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 495216,
+        "num": 495216,
+        "word": "金龟子女儿30天带货销售额超千万",
+        "onboard_time": 1747044862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321599,
+        "num": 321599,
+        "word": "选丁真来演戏的人真是个天才",
+        "onboard_time": 1747041383,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292715,
+        "num": 292715,
+        "word": "中国稀土出口管制还在继续",
+        "onboard_time": 1747044381,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286717,
+        "num": 286717,
+        "word": "四十七 张康乐",
+        "onboard_time": 1747044922,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271173,
+        "num": 271173,
+        "word": "人生若如初见",
+        "onboard_time": 1747047203,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111317,
+        "num": 270765,
+        "word": "执法人员进入时有代孕女子躺在床上",
+        "onboard_time": 1747048281,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712520,
+        "num": 269165,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605290,
+        "num": 268608,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551852,
+        "num": 266929,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342178,
+        "num": 265572,
+        "word": "疑似李凯馨干爹发文",
+        "onboard_time": 1747034663,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332465,
+        "num": 265030,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264011,
+        "num": 264011,
+        "word": "李凯馨在外网发韩国春节快乐",
+        "onboard_time": 1747042942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238605,
+        "num": 238605,
+        "word": "美取消14259号和14266号行政令关税",
+        "onboard_time": 1747038744,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223056,
+        "num": 223056,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216618,
+        "num": 216618,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195466,
+        "num": 195466,
+        "word": "ian柳智敏cha",
+        "onboard_time": 1747046602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238510,
+        "num": 193862,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 8301,
+        "num": 187835,
+        "word": "折腰短剧版如何还原原著精髓",
+        "onboard_time": 1747048581,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639189,
+        "num": 187806,
+        "word": "脾胃虚弱一定要多饿一饿",
+        "onboard_time": 1747042583,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 187012,
+        "num": 187012,
+        "word": "张伦硕否认与钟丽缇一见钟情",
+        "onboard_time": 1747029869,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181474,
+        "num": 181474,
+        "word": "芬太尼",
+        "onboard_time": 1747039042,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167608,
+        "num": 167608,
+        "word": "网红迪士尼在逃公主每天只睡6小时",
+        "onboard_time": 1747033281,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156391,
+        "num": 156391,
+        "word": "她在说话他在闻她头发",
+        "onboard_time": 1747045223,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154569,
+        "num": 154569,
+        "word": "锤娜丽莎问李川你在高贵什么",
+        "onboard_time": 1747042642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143508,
+        "num": 143508,
+        "word": "折腰要拍短剧了",
+        "onboard_time": 1747038504,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36744,
+        "num": 143238,
+        "word": "孕晚期拒绝异地调岗被公司自动离职",
+        "onboard_time": 1747048642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181012,
+        "num": 143036,
+        "word": "男子误吞5cm鱼刺用土方身亡",
+        "onboard_time": 1747036345,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 167420,
+        "num": 142529,
+        "word": "买iPhone16还是等iPhone17",
+        "onboard_time": 1747041201,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17955,
+        "num": 142215,
+        "word": "中美联合声明将如何影响黄金市场",
+        "onboard_time": 1747048821,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160099,
+        "num": 141921,
+        "word": "河海大学回应女博士实名举报导师",
+        "onboard_time": 1747048220,
+        "rank": 33,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 15569,
+        "num": 141394,
+        "word": "智搜谈中美联合声明多维度影响",
+        "onboard_time": 1747048821,
+        "rank": 34,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 141146,
+        "num": 141146,
+        "word": "汶川盲跳十五勇士今成社区守护者",
+        "onboard_time": 1747046542,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140532,
+        "num": 140532,
+        "word": "戛纳明星造型",
+        "onboard_time": 1747045041,
+        "rank": 36,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "肖战四个角色上星央八",
+        "onboard_time": 1747047802,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130672,
+        "num": 130672,
+        "word": "巴基斯坦网友惦记上了J35",
+        "onboard_time": 1747039405,
+        "rank": 38,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 124551,
+        "num": 124551,
+        "word": "CBA总决赛",
+        "onboard_time": 1747048642,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1325401,
+        "num": 123253,
+        "word": "地下代孕16张病床住着多位代孕女子",
+        "onboard_time": 1747041682,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 121812,
+        "word": "中国资产大幅上涨",
+        "onboard_time": 1747044381,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117239,
+        "num": 117239,
+        "word": "奶茶券",
+        "onboard_time": 1747037723,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109524,
+        "num": 109524,
+        "word": "陈楚生参加歌手",
+        "onboard_time": 1747043782,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108538,
+        "num": 108538,
+        "word": "朱大爷离世前摔断肋骨住进ICU",
+        "onboard_time": 1747041503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104293,
+        "num": 104293,
+        "word": "短剧折腰选角",
+        "onboard_time": 1747048340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100935,
+        "num": 100935,
+        "word": "永野芽郁状态",
+        "onboard_time": 1747046901,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100813,
+        "num": 100813,
+        "word": "全球股市爆发",
+        "onboard_time": 1747041201,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 100000,
+        "word": "汶川地震可乐男孩已成为可乐馆长",
+        "onboard_time": 1747042524,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98093,
+        "num": 98093,
+        "word": "王者荣耀的算法像极了社会潜规则",
+        "onboard_time": 1747045461,
+        "rank": 49,
+        "category": "游戏,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
