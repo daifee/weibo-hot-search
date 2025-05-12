@@ -1,0 +1,410 @@
+{
+  "runTime": 1747027582816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1875950,
+        "num": 1875950,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1183005,
+        "num": 1183005,
+        "word": "美国疑出现可变形UFO盘旋15分钟",
+        "onboard_time": 1747024404,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38613,
+        "num": 856364,
+        "word": "中国经济是大海",
+        "onboard_time": 1747026323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612120,
+        "num": 612120,
+        "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+        "onboard_time": 1747019061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522598,
+        "num": 522598,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417439,
+        "num": 417439,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386607,
+        "num": 386607,
+        "word": "汶川地震朱大爷已于2011年去世",
+        "onboard_time": 1747016841,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383816,
+        "num": 383816,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377469,
+        "num": 377469,
+        "word": "进厂吧兄弟已经开始踩缝纫机了",
+        "onboard_time": 1747026144,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81011,
+        "num": 376904,
+        "word": "普京观看二战电影时默默流泪",
+        "onboard_time": 1747024583,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 946253,
+        "num": 376257,
+        "word": "曝李凯馨ins翻车",
+        "onboard_time": 1747023022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606337,
+        "num": 375133,
+        "word": "菅纫姿发文",
+        "onboard_time": 1747021342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359594,
+        "num": 373893,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471856,
+        "num": 373552,
+        "word": "胡连馨 我去串个戏不要嫌弃我",
+        "onboard_time": 1747021221,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372870,
+        "num": 372870,
+        "word": "女子为取已故父亲存款起诉奶奶",
+        "onboard_time": 1747020323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215745,
+        "num": 372705,
+        "word": "藏海传人物关系没那么简单",
+        "onboard_time": 1747026624,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208069,
+        "num": 371913,
+        "word": "高圆圆说自己的人生底色是悲观",
+        "onboard_time": 1747023743,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73524,
+        "num": 371827,
+        "word": "张馨予回应自己不导电",
+        "onboard_time": 1747027101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27652,
+        "num": 371117,
+        "word": "女演员演出被烧伤双方该如何定责",
+        "onboard_time": 1747027281,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 66479,
+        "num": 370494,
+        "word": "74岁老奶奶带73岁闺蜜自驾游",
+        "onboard_time": 1747026263,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370411,
+        "num": 370411,
+        "word": "张杰女儿小咘芽商标已被抢注",
+        "onboard_time": 1747021642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360528,
+        "num": 360528,
+        "word": "印军方称击落数架巴基斯坦飞机",
+        "onboard_time": 1747019900,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308748,
+        "num": 308748,
+        "word": "零分教资 满分教师",
+        "onboard_time": 1747020501,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "从存款40万到负债70万的真实经历",
+        "onboard_time": 1747007360,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254613,
+        "num": 254613,
+        "word": "金饰克价两天大跌19元",
+        "onboard_time": 1747025425,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 231904,
+        "num": 231904,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192551,
+        "num": 192551,
+        "word": "半熟4好会爱人的一个女生",
+        "onboard_time": 1747026323,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158393,
+        "num": 187560,
+        "word": "怎么刘诗诗总能哭到心坎里",
+        "onboard_time": 1747025904,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186789,
+        "num": 186789,
+        "word": "工作舒服的秘诀只有一个",
+        "onboard_time": 1747022721,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 184486,
+        "word": "藏海传质感",
+        "onboard_time": 1747026263,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183566,
+        "num": 183566,
+        "word": "李凯馨",
+        "onboard_time": 1747012402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179814,
+        "num": 179814,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172257,
+        "num": 172257,
+        "word": "世界突然开始以和为贵",
+        "onboard_time": 1747019482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156681,
+        "num": 156681,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 33,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "张艺兴深圳出发韩国",
+        "onboard_time": 1747027402,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152656,
+        "num": 152656,
+        "word": "空降兵十五勇士惊天一跳再看依然震撼",
+        "onboard_time": 1747012823,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147000,
+        "num": 147000,
+        "word": "本周财运暴涨的星座",
+        "onboard_time": 1747023201,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "半熟恋人",
+        "onboard_time": 1747026982,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146260,
+        "num": 146260,
+        "word": "王楚然四百没了四百没了",
+        "onboard_time": 1747007421,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141824,
+        "num": 141824,
+        "word": "JIWOO的鞋飞出去了",
+        "onboard_time": 1747022721,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140186,
+        "num": 140186,
+        "word": "台当局将96%汉人改为其余人口遭批",
+        "onboard_time": 1747011381,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130862,
+        "num": 130862,
+        "word": "2025KPL夏季转会期",
+        "onboard_time": 1747026982,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130662,
+        "num": 130662,
+        "word": "乘风2025",
+        "onboard_time": 1747025003,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128528,
+        "num": 128528,
+        "word": "对这种玩笑 永远不要笑",
+        "onboard_time": 1747018641,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127616,
+        "num": 127616,
+        "word": "在矫正学校死亡的14岁少年",
+        "onboard_time": 1747024704,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127429,
+        "num": 127429,
+        "word": "美国今年夏天将更昂贵",
+        "onboard_time": 1747025064,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126980,
+        "num": 126980,
+        "word": "我请假领导不高兴",
+        "onboard_time": 1747023983,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126162,
+        "num": 126162,
+        "word": "王楚钦现身机场出发多哈世乒赛",
+        "onboard_time": 1747027221,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122429,
+        "num": 124581,
+        "word": "泰国粉红沙滩 全靠P图",
+        "onboard_time": 1747025904,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112725,
+        "num": 124463,
+        "word": "黑执事作者枢梁发文",
+        "onboard_time": 1747027522,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
