@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747082519119,
+  "endTime": 1747085033096,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -475,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24362,
+      "num": 24362,
+      "word": "巴方并未俘获印度飞行员",
+      "onboard_time": 1747080615,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21527,
       "num": 23445,
       "word": "英媒称英国首相住所起火",
       "onboard_time": 1747065262,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20068,
+      "num": 20068,
+      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+      "onboard_time": 1747080374,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19399,
@@ -499,14 +515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16731,
-      "num": 16731,
-      "word": "巴方并未俘获印度飞行员",
-      "onboard_time": 1747080615,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16308,
       "num": 16308,
       "word": "外交部回应印巴同意停火",
@@ -523,11 +531,11 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 15652,
-      "num": 15652,
-      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
-      "onboard_time": 1747080374,
-      "rank": 46,
+      "raw_hot": 15353,
+      "num": 20656,
+      "word": "牛钰仍会梦到去世亲朋好友",
+      "onboard_time": 1747082414,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -539,16 +547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10559,
-      "num": 18103,
-      "word": "牛钰仍会梦到去世亲朋好友",
-      "onboard_time": 1747082414,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10209,
-      "num": 14606,
+      "raw_hot": 10847,
+      "num": 14798,
       "word": "再看这场接力赛还是热血沸腾",
       "onboard_time": 1747081454,
       "rank": 49,
