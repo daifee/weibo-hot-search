@@ -1,0 +1,410 @@
+{
+  "runTime": 1747016636137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1819776,
+        "num": 1819776,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1199796,
+        "num": 1199796,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62042,
+        "num": 1169822,
+        "word": "网警查处一起出售公民个人信息案",
+        "onboard_time": 1747012462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156003,
+        "num": 1156003,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742863,
+        "num": 742863,
+        "word": "台当局将96%汉人改为其余人口遭批",
+        "onboard_time": 1747011381,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586821,
+        "num": 586821,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506186,
+        "num": 506186,
+        "word": "中美经贸高层会谈取得了实质性进展",
+        "onboard_time": 1747006159,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475242,
+        "num": 475242,
+        "word": "加沙孩子们都快渴死了",
+        "onboard_time": 1747013781,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458319,
+        "num": 458319,
+        "word": "何炅上班和上学哪一个更苦",
+        "onboard_time": 1747011322,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406353,
+        "num": 457213,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298826,
+        "num": 455904,
+        "word": "汶川地震17周年纪念短片",
+        "onboard_time": 1747012823,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924808,
+        "num": 453784,
+        "word": "黄金",
+        "onboard_time": 1747011322,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 555432,
+        "num": 453331,
+        "word": "从存款40万到负债70万的真实经历",
+        "onboard_time": 1747007360,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452160,
+        "num": 452160,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423728,
+        "num": 423728,
+        "word": "谢娜发文为女儿小咘芽庆生",
+        "onboard_time": 1747009341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373276,
+        "num": 373276,
+        "word": "空降兵十五勇士惊天一跳再看依然震撼",
+        "onboard_time": 1747012823,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357280,
+        "num": 357280,
+        "word": "王楚然四百没了四百没了",
+        "onboard_time": 1747007421,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352823,
+        "num": 352823,
+        "word": "李凯馨",
+        "onboard_time": 1747012402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340845,
+        "num": 340845,
+        "word": "刘诗诗吴宣仪都哭红了眼",
+        "onboard_time": 1747008801,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256294,
+        "num": 256294,
+        "word": "锤娜丽莎被李川油到了",
+        "onboard_time": 1747014441,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369512,
+        "num": 249318,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235440,
+        "num": 235440,
+        "word": "中美经贸达成重要共识",
+        "onboard_time": 1747005018,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219508,
+        "num": 219508,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 22,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 187282,
+        "num": 217928,
+        "word": "央8节目单有藏海传了",
+        "onboard_time": 1747015040,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43931,
+        "num": 217841,
+        "word": "宁德时代将在港上市",
+        "onboard_time": 1747011322,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153645,
+        "num": 215184,
+        "word": "aespa洛杉矶红毯",
+        "onboard_time": 1747012642,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 213079,
+        "word": "迪丽热巴问张凌赫金靖怎么老在号脉",
+        "onboard_time": 1747011441,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113526,
+        "num": 211643,
+        "word": "VaVa为浪姐决赛曲连发五条微博",
+        "onboard_time": 1747014681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53515,
+        "num": 209872,
+        "word": "S400被打爆具有划时代的意义",
+        "onboard_time": 1747016482,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 25123,
+        "num": 208053,
+        "word": "从地震救援看到科技进步的意义",
+        "onboard_time": 1747015101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207897,
+        "num": 207897,
+        "word": "一直对菌子火锅没概念直到吃了一次",
+        "onboard_time": 1747005678,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203152,
+        "num": 203152,
+        "word": "印度空军称所有飞行员已返回国内",
+        "onboard_time": 1747015522,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184573,
+        "num": 184573,
+        "word": "飞机餐需要60多位厨师",
+        "onboard_time": 1747013781,
+        "rank": 32,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 38118,
+        "num": 179598,
+        "word": "郑钦文说逐渐进入红土状态",
+        "onboard_time": 1747016540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176936,
+        "num": 176936,
+        "word": "印网友宣布印度赢了",
+        "onboard_time": 1747016422,
+        "rank": 34,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 176291,
+        "num": 176291,
+        "word": "特朗普称将免费获得波音747当专机",
+        "onboard_time": 1747014860,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170287,
+        "num": 170287,
+        "word": "汶川地震失去双腿舞者廖智发声",
+        "onboard_time": 1747016001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167386,
+        "num": 167386,
+        "word": "汶川地震紧急转移大熊猫画面",
+        "onboard_time": 1747011322,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 163444,
+        "word": "真正有效的休息方式",
+        "onboard_time": 1747010241,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95572,
+        "num": 159568,
+        "word": "陈梦回忆因麒麟臂漏洞退赛",
+        "onboard_time": 1747007541,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157820,
+        "num": 157820,
+        "word": "阿维塔律师函",
+        "onboard_time": 1747016482,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150304,
+        "num": 150304,
+        "word": "高盛超配A股",
+        "onboard_time": 1747015821,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140306,
+        "num": 140306,
+        "word": "王宝宝 爱水水",
+        "onboard_time": 1747013421,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132387,
+        "num": 132387,
+        "word": "航拍今日汶川看泪目了",
+        "onboard_time": 1747005798,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129951,
+        "num": 129951,
+        "word": "西藏拉孜发生5.5级地震",
+        "onboard_time": 1747005620,
+        "rank": 44,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 120813,
+        "word": "改娃师火了",
+        "onboard_time": 1747016540,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120029,
+        "num": 120029,
+        "word": "运动后30分钟是进食黄金期",
+        "onboard_time": 1747010241,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119098,
+        "num": 119098,
+        "word": "乘风2025选曲投票",
+        "onboard_time": 1747016601,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118458,
+        "num": 118458,
+        "word": "邻居一个举动帮老人保住120万",
+        "onboard_time": 1747010241,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69036,
+        "num": 117859,
+        "word": "先收藏起来吓吓没用的身体",
+        "onboard_time": 1747015280,
+        "rank": 49,
+        "category": "健康医疗,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

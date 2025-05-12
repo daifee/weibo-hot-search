@@ -1,7 +1,15 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747015277722,
+  "endTime": 1747016636137,
   "band_list": [
+    {
+      "raw_hot": 1819776,
+      "num": 1819776,
+      "word": "512",
+      "onboard_time": 1747008201,
+      "rank": 25,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1783226,
       "num": 1783226,
@@ -19,8 +27,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1108581,
-      "num": 1108581,
+      "raw_hot": 1156003,
+      "num": 1156003,
       "word": "汶川地震李小萌路遇朱大爷完整版",
       "onboard_time": 1747010241,
       "rank": 3,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 826383,
-      "num": 429314,
+      "num": 453331,
       "word": "从存款40万到负债70万的真实经历",
       "onboard_time": 1747007360,
       "rank": 10,
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 540610,
-      "num": 540610,
+      "raw_hot": 586821,
+      "num": 586821,
       "word": "5121428是中国人的心痛瞬间",
       "onboard_time": 1747007360,
       "rank": 5,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 526586,
-      "num": 409547,
+      "num": 423728,
       "word": "谢娜发文为女儿小咘芽庆生",
       "onboard_time": 1747009341,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506186,
+      "num": 644807,
+      "word": "中美经贸高层会谈取得了实质性进展",
+      "onboard_time": 1747006159,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 503316,
@@ -123,20 +139,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 475242,
+      "num": 475242,
+      "word": "加沙孩子们都快渴死了",
+      "onboard_time": 1747013781,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 467744,
       "num": 467744,
       "word": "空降兵十五勇士惊天一跳再看依然震撼",
       "onboard_time": 1747012823,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447828,
-      "num": 644807,
-      "word": "中美经贸高层会谈取得了实质性进展",
-      "onboard_time": 1747006159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 435896,
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406353,
+      "num": 457213,
+      "word": "藏海传",
+      "onboard_time": 1747015341,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399898,
       "num": 399898,
       "word": "李凯馨",
@@ -243,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 298826,
+      "num": 455904,
+      "word": "汶川地震17周年纪念短片",
+      "onboard_time": 1747012823,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287767,
       "num": 287767,
       "word": "东航MU5828安全出口被乘客打开",
@@ -257,14 +289,6 @@
       "onboard_time": 1746975983,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278282,
-      "num": 278282,
-      "word": "汶川地震17周年纪念短片",
-      "onboard_time": 1747012823,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277130,
@@ -291,19 +315,19 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 262223,
-      "num": 262223,
-      "word": "加沙孩子们都快渴死了",
-      "onboard_time": 1747013781,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 258601,
       "num": 258601,
       "word": "黄圣依妈妈在北京帮带孙子10年",
       "onboard_time": 1746966381,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256294,
+      "num": 256294,
+      "word": "锤娜丽莎被李川油到了",
+      "onboard_time": 1747014441,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -347,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219948,
-      "num": 219948,
-      "word": "512",
-      "onboard_time": 1747008201,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208482,
       "num": 208482,
       "word": "真正有效的休息方式",
@@ -363,12 +379,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 201530,
-      "num": 201530,
-      "word": "锤娜丽莎被李川油到了",
-      "onboard_time": 1747014441,
+      "raw_hot": 203152,
+      "num": 203152,
+      "word": "印度空军称所有飞行员已返回国内",
+      "onboard_time": 1747015522,
       "rank": 31,
-      "category": "综艺"
+      "category": "国际时政"
     },
     {
       "raw_hot": 195437,
@@ -376,6 +392,14 @@
       "word": "东方秦兰当妈妈了",
       "onboard_time": 1746976941,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187282,
+      "num": 273221,
+      "word": "央8节目单有藏海传了",
+      "onboard_time": 1747015040,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -387,12 +411,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184573,
+      "num": 184573,
+      "word": "飞机餐需要60多位厨师",
+      "onboard_time": 1747013781,
+      "rank": 40,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 182637,
       "num": 201859,
       "word": "A股",
       "onboard_time": 1747014681,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176936,
+      "num": 176936,
+      "word": "印网友宣布印度赢了",
+      "onboard_time": 1747016422,
+      "rank": 34,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 176291,
+      "num": 176291,
+      "word": "特朗普称将免费获得波音747当专机",
+      "onboard_time": 1747014860,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175036,
@@ -403,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173507,
-      "num": 173507,
-      "word": "特朗普称将免费获得波音747当专机",
-      "onboard_time": 1747014860,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 170287,
+      "num": 170287,
+      "word": "汶川地震失去双腿舞者廖智发声",
+      "onboard_time": 1747016001,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167386,
+      "num": 167386,
+      "word": "汶川地震紧急转移大熊猫画面",
+      "onboard_time": 1747011322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165051,
@@ -427,14 +483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161865,
-      "num": 273221,
-      "word": "央8节目单有藏海传了",
-      "onboard_time": 1747015040,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160577,
       "num": 160577,
       "word": "骑士步行者冲突",
@@ -449,6 +497,14 @@
       "onboard_time": 1747012642,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157820,
+      "num": 157820,
+      "word": "阿维塔律师函",
+      "onboard_time": 1747016482,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 157600,
@@ -475,28 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153888,
-      "num": 153888,
-      "word": "飞机餐需要60多位厨师",
-      "onboard_time": 1747013781,
-      "rank": 40,
-      "category": "美食,民生新闻"
+      "raw_hot": 150304,
+      "num": 150304,
+      "word": "高盛超配A股",
+      "onboard_time": 1747015821,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 149979,
-      "num": 207802,
+      "num": 213079,
       "word": "迪丽热巴问张凌赫金靖怎么老在号脉",
       "onboard_time": 1747011441,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149832,
-      "num": 149832,
-      "word": "汶川地震紧急转移大熊猫画面",
-      "onboard_time": 1747011322,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148512,
@@ -532,7 +580,7 @@
     },
     {
       "raw_hot": 143657,
-      "num": 205185,
+      "num": 211643,
       "word": "VaVa为浪姐决赛曲连发五条微博",
       "onboard_time": 1747014681,
       "rank": 28,
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129951,
+      "num": 129951,
+      "word": "西藏拉孜发生5.5级地震",
+      "onboard_time": 1747005620,
+      "rank": 35,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 126138,
       "num": 126138,
       "word": "张靓颖九万字",
@@ -611,20 +667,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124705,
-      "num": 124705,
-      "word": "西藏拉孜发生5.5级地震",
-      "onboard_time": 1747005620,
-      "rank": 35,
-      "category": "民生新闻,民生新闻"
-    },
-    {
       "raw_hot": 124173,
       "num": 124173,
       "word": "赴山海",
       "onboard_time": 1747011922,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120813,
+      "num": 120813,
+      "word": "改娃师火了",
+      "onboard_time": 1747016540,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119098,
+      "num": 119098,
+      "word": "乘风2025选曲投票",
+      "onboard_time": 1747016601,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 115114,
@@ -756,7 +820,7 @@
     },
     {
       "raw_hot": 76222,
-      "num": 1122755,
+      "num": 1169822,
       "word": "网警查处一起出售公民个人信息案",
       "onboard_time": 1747012462,
       "rank": 2,
@@ -851,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69036,
+      "num": 117859,
+      "word": "先收藏起来吓吓没用的身体",
+      "onboard_time": 1747015280,
+      "rank": 49,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 67185,
       "num": 201875,
       "word": "郑钦文vs弗莱彻",
@@ -931,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53515,
+      "num": 209872,
+      "word": "S400被打爆具有划时代的意义",
+      "onboard_time": 1747016482,
+      "rank": 28,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 53077,
       "num": 53077,
       "word": "王鹤棣今天就把话放这",
@@ -987,12 +1067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43931,
+      "num": 217841,
+      "word": "宁德时代将在港上市",
+      "onboard_time": 1747011322,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 42717,
       "num": 42717,
       "word": "杨紫唱出对妈妈的爱",
       "onboard_time": 1746983417,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38118,
+      "num": 179598,
+      "word": "郑钦文说逐渐进入红土状态",
+      "onboard_time": 1747016540,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 34147,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1746984916,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25123,
+      "num": 208053,
+      "word": "从地震救援看到科技进步的意义",
+      "onboard_time": 1747015101,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25030,
@@ -1081,14 +1185,6 @@
       "onboard_time": 1746992353,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9200,
-      "num": 160936,
-      "word": "从地震救援看到科技进步的意义",
-      "onboard_time": 1747015101,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8137,
