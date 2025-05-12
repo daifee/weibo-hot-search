@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747074918962,
+  "endTime": 1747075747571,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2307,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215881,
+      "num": 215881,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215745,
       "num": 372705,
       "word": "藏海传人物关系没那么简单",
@@ -2321,14 +2329,6 @@
       "onboard_time": 1747020022,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214608,
-      "num": 214608,
-      "word": "04年男子拒服兵役被罚3.8万",
-      "onboard_time": 1747069517,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214593,
@@ -7427,20 +7427,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21527,
+      "num": 23445,
+      "word": "英媒称英国首相住所起火",
+      "onboard_time": 1747065262,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21271,
       "num": 26538,
       "word": "杨博文写信祝妈妈母亲节快乐",
       "onboard_time": 1746987134,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20992,
-      "num": 23445,
-      "word": "英媒称英国首相住所起火",
-      "onboard_time": 1747065262,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20662,
@@ -7659,6 +7659,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 15328,
+      "num": 70996,
+      "word": "04年男子拒服兵役受8项惩戒",
+      "onboard_time": 1747074373,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14953,
       "num": 282063,
       "word": "陈楚生在歌手中将演唱哪些歌曲",
@@ -7745,14 +7753,6 @@
       "onboard_time": 1746992353,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12942,
-      "num": 70996,
-      "word": "04年男子拒服兵役受8项惩戒",
-      "onboard_time": 1747074373,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12579,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/11 00:28:59 ~ 2025/05/13 02:35:18
+本榜单时间：2025/05/11 00:28:59 ~ 2025/05/13 02:49:07
 </p>
 </blockquote>
 <p>
@@ -1743,6 +1743,12 @@ AG夺冠（热度：220130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2304%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A3.8%E4%B8%87%23" target="weibo">
+04年男子拒服兵役被罚3.8万（热度：215881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB%E6%B2%A1%E9%82%A3%E4%B9%88%E7%AE%80%E5%8D%95%23" target="weibo">
 藏海传人物关系没那么简单（热度：215745）
 </a>
@@ -1751,12 +1757,6 @@ AG夺冠（热度：220130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E9%A6%A8%E7%96%91%E4%BC%BC%E6%88%8F%E4%BB%BD%E6%AF%94%E5%A8%9C%E6%89%8E%E8%BF%98%E8%A6%81%E5%A4%9A%23" target="weibo">
 李凯馨疑似戏份比娜扎还要多（热度：214658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2304%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E8%A2%AB%E7%BD%9A3.8%E4%B8%87%23" target="weibo">
-04年男子拒服兵役被罚3.8万（热度：214608）
 </a>
 </li>
 
@@ -5583,14 +5583,14 @@ aespa最新舞台的表现如何（热度：21646）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%86%99%E4%BF%A1%E7%A5%9D%E5%A6%88%E5%A6%88%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
-杨博文写信祝妈妈母亲节快乐（热度：21271）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BD%8F%E6%89%80%E8%B5%B7%E7%81%AB%23" target="weibo">
+英媒称英国首相住所起火（热度：21527）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E4%BD%8F%E6%89%80%E8%B5%B7%E7%81%AB%23" target="weibo">
-英媒称英国首相住所起火（热度：20992）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%86%99%E4%BF%A1%E7%A5%9D%E5%A6%88%E5%A6%88%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
+杨博文写信祝妈妈母亲节快乐（热度：21271）
 </a>
 </li>
 
@@ -5757,6 +5757,12 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2304%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%978%E9%A1%B9%E6%83%A9%E6%88%92%23" target="weibo">
+04年男子拒服兵役受8项惩戒（热度：15328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9C%A8%E6%AD%8C%E6%89%8B%E4%B8%AD%E5%B0%86%E6%BC%94%E5%94%B1%E5%93%AA%E4%BA%9B%E6%AD%8C%E6%9B%B2%23" target="weibo">
 陈楚生在歌手中将演唱哪些歌曲（热度：14953）
 </a>
@@ -5819,12 +5825,6 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8B%BF%E5%BF%98%E4%BA%BA%E9%97%B4%E7%9C%9F%E6%83%85%23" target="weibo">
 勿忘人间真情（热度：12955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2304%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%978%E9%A1%B9%E6%83%A9%E6%88%92%23" target="weibo">
-04年男子拒服兵役受8项惩戒（热度：12942）
 </a>
 </li>
 
