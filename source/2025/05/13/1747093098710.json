@@ -1,0 +1,410 @@
+{
+  "runTime": 1747093098710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 888000,
+        "num": 959597,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481732,
+        "num": 481732,
+        "word": "04年男子拒服兵役被罚3.8万",
+        "onboard_time": 1747069517,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80739,
+        "num": 421217,
+        "word": "商务部解读中美关税新举措",
+        "onboard_time": 1747059625,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 554176,
+        "num": 420296,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408418,
+        "num": 408418,
+        "word": "上官正义曝别墅代孕后接到神秘电话",
+        "onboard_time": 1747064421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380821,
+        "num": 380821,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371931,
+        "num": 371931,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329586,
+        "num": 329586,
+        "word": "西北大学副校长范代娣成陕西首富",
+        "onboard_time": 1747059563,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323446,
+        "num": 323446,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280213,
+        "num": 280213,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 292347,
+        "num": 267124,
+        "word": "小花简直就是女版邓超附体",
+        "onboard_time": 1747085234,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253111,
+        "num": 253111,
+        "word": "郑钦文罗马赛再战萨巴伦卡",
+        "onboard_time": 1747091779,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248118,
+        "num": 248118,
+        "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
+        "onboard_time": 1747059745,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215163,
+        "num": 215163,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106241,
+        "num": 209187,
+        "word": "郑钦文晋级罗马站8强",
+        "onboard_time": 1747092380,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207528,
+        "num": 207528,
+        "word": "让黄圣依最疲惫的综艺出现了",
+        "onboard_time": 1747066219,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203317,
+        "num": 203317,
+        "word": "男友曾为陪韦雪放弃读研",
+        "onboard_time": 1747091779,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193731,
+        "num": 193731,
+        "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+        "onboard_time": 1747080374,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168740,
+        "num": 168740,
+        "word": "巴方并未俘获印度飞行员",
+        "onboard_time": 1747080615,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158037,
+        "num": 164358,
+        "word": "黄晓明进上戏考博复试",
+        "onboard_time": 1747056143,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384192,
+        "num": 164291,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269660,
+        "num": 164188,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163759,
+        "num": 163759,
+        "word": "男孩患巨痣手术后成功取掉扩张器",
+        "onboard_time": 1747065500,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161610,
+        "num": 161610,
+        "word": "小沈月最近又在哪闯祸呢",
+        "onboard_time": 1747060044,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134822,
+        "num": 134822,
+        "word": "一米六八小伙跟两米二女孩谈恋爱",
+        "onboard_time": 1747092200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122637,
+        "num": 122637,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 120183,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119256,
+        "num": 119256,
+        "word": "无忧渡",
+        "onboard_time": 1747092560,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118216,
+        "num": 118617,
+        "word": "她的遗物不多王权弘业是其中一个",
+        "onboard_time": 1747090939,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99063,
+        "num": 118335,
+        "word": "肖战藏海传致命身份暗藏杀机",
+        "onboard_time": 1747086014,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84061,
+        "num": 118331,
+        "word": "郑钦文惊艳胯下击球",
+        "onboard_time": 1747091779,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118331,
+        "num": 118330,
+        "word": "中国股市处在质变前夜",
+        "onboard_time": 1747092680,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114266,
+        "num": 114266,
+        "word": "美方要珍惜中方的善意",
+        "onboard_time": 1747068438,
+        "rank": 32,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 98423,
+        "num": 98423,
+        "word": "SK",
+        "onboard_time": 1747067600,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94285,
+        "num": 94285,
+        "word": "派出所回应成都一家三口溺水事故",
+        "onboard_time": 1747070236,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93073,
+        "num": 93073,
+        "word": "印巴双方矛盾冲突的根源",
+        "onboard_time": 1747087634,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90497,
+        "num": 90497,
+        "word": "中美关税降税后不到30%",
+        "onboard_time": 1747038865,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88819,
+        "num": 88819,
+        "word": "折腰",
+        "onboard_time": 1747038624,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85842,
+        "num": 85842,
+        "word": "李艺彤又要解释这不是睡衣了",
+        "onboard_time": 1747053323,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52516,
+        "num": 84832,
+        "word": "郑钦文1比0安德莱斯库",
+        "onboard_time": 1747091779,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84036,
+        "num": 84036,
+        "word": "夏志远 剧组应该让她赔钱赔到新加坡",
+        "onboard_time": 1747054161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80397,
+        "num": 80397,
+        "word": "赴山海 换脸",
+        "onboard_time": 1747035265,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80093,
+        "num": 80093,
+        "word": "孙俪女儿拉丁舞英国夺冠",
+        "onboard_time": 1747036703,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77009,
+        "num": 77009,
+        "word": "李承铉因为弟弟凶Lucky",
+        "onboard_time": 1747037003,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76841,
+        "num": 76841,
+        "word": "重庆震感",
+        "onboard_time": 1747066520,
+        "rank": 44,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 74354,
+        "num": 74354,
+        "word": "3个有助于减重的运动",
+        "onboard_time": 1747067239,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70288,
+        "num": 70288,
+        "word": "98年出生的老爷猫去世",
+        "onboard_time": 1747061484,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69220,
+        "num": 69220,
+        "word": "连陈凯歌都说野心太大的人出现了",
+        "onboard_time": 1747061724,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66194,
+        "num": 66194,
+        "word": "cp31",
+        "onboard_time": 1747092680,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 63625,
+        "num": 63625,
+        "word": "央视曝光AI造假起号",
+        "onboard_time": 1747057283,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
