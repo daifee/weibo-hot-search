@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747071665029,
+  "endTime": 1747074918962,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -144,6 +144,14 @@
       "word": "上官正义曝别墅代孕后接到神秘电话",
       "onboard_time": 1747064421,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214608,
+      "num": 214608,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -403,14 +411,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 59470,
-      "num": 59470,
-      "word": "04年男子拒服兵役被罚3.8万",
-      "onboard_time": 1747069517,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59350,
       "num": 59350,
       "word": "客服回应雪碧悄悄换配方",
@@ -473,6 +473,38 @@
       "onboard_time": 1747070896,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20992,
+      "num": 23445,
+      "word": "英媒称英国首相住所起火",
+      "onboard_time": 1747065262,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19399,
+      "num": 23444,
+      "word": "克拉盘",
+      "onboard_time": 1747061004,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 12942,
+      "num": 70996,
+      "word": "04年男子拒服兵役受8项惩戒",
+      "onboard_time": 1747074373,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10979,
+      "num": 159721,
+      "word": "商务部解读中美关税新举措",
+      "onboard_time": 1747059625,
+      "rank": 2,
+      "category": "国内时政,财经"
     }
   ],
   "hotgov_list": [

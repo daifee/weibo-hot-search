@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747071665029,
+  "endTime": 1747074918962,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1747020022,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214608,
+      "num": 214608,
+      "word": "04年男子拒服兵役被罚3.8万",
+      "onboard_time": 1747069517,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214593,
@@ -6435,14 +6443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59470,
-      "num": 59470,
-      "word": "04年男子拒服兵役被罚3.8万",
-      "onboard_time": 1747069517,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59166,
       "num": 66778,
       "word": "0元get撕拉片",
@@ -7435,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20992,
+      "num": 23445,
+      "word": "英媒称英国首相住所起火",
+      "onboard_time": 1747065262,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20662,
       "num": 141601,
       "word": "抗议移民政策美一市长被捕",
@@ -7737,6 +7745,14 @@
       "onboard_time": 1746992353,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12942,
+      "num": 70996,
+      "word": "04年男子拒服兵役受8项惩戒",
+      "onboard_time": 1747074373,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12579,
