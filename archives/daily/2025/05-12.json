@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747019994202,
+  "endTime": 1747020712109,
   "band_list": [
     {
       "raw_hot": 2643965,
@@ -27,8 +27,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1203395,
-      "num": 1203395,
+      "raw_hot": 1281730,
+      "num": 1281730,
       "word": "汶川地震朱大爷已于2011年去世",
       "onboard_time": 1747016841,
       "rank": 1,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 855169,
+      "num": 855169,
+      "word": "上门做饭月入2万女子每周只休半天",
+      "onboard_time": 1747017981,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826383,
       "num": 541787,
       "word": "从存款40万到负债70万的真实经历",
@@ -81,14 +89,6 @@
       "onboard_time": 1746962601,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 733832,
-      "num": 733832,
-      "word": "上门做饭月入2万女子每周只休半天",
-      "onboard_time": 1747017981,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630770,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461481,
+      "num": 461481,
+      "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+      "onboard_time": 1747019061,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435896,
       "num": 309620,
       "word": "女生因妈妈吃药导致完全无鼻骨",
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347172,
+      "num": 296405,
+      "word": "对这种玩笑 永远不要笑",
+      "onboard_time": 1747018641,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339642,
       "num": 284431,
       "word": "周杰伦晒昆凌与小女儿合照",
@@ -289,6 +305,14 @@
       "onboard_time": 1747005678,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 315134,
+      "num": 315134,
+      "word": "来伊份发布情况说明",
+      "onboard_time": 1747018521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312680,
@@ -315,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296405,
-      "num": 296405,
-      "word": "对这种玩笑 永远不要笑",
-      "onboard_time": 1747018641,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 298066,
+      "num": 298066,
+      "word": "巴少将称阵风用的好会很强大",
+      "onboard_time": 1747019001,
+      "rank": 35,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 287767,
@@ -329,6 +353,22 @@
       "onboard_time": 1746957440,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283869,
+      "num": 283869,
+      "word": "印军方称击落数架巴基斯坦飞机",
+      "onboard_time": 1747019900,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 283137,
+      "num": 308715,
+      "word": "歌手",
+      "onboard_time": 1747019422,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 282027,
@@ -345,14 +385,6 @@
       "onboard_time": 1746960741,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276685,
-      "num": 276685,
-      "word": "巴少将称阵风用的好会很强大",
-      "onboard_time": 1747019001,
-      "rank": 35,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 274296,
@@ -372,11 +404,19 @@
     },
     {
       "raw_hot": 269571,
-      "num": 269571,
+      "num": 297115,
       "word": "谢娜谈三个女儿性格",
       "onboard_time": 1747018462,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263504,
+      "num": 263504,
+      "word": "世界突然开始以和为贵",
+      "onboard_time": 1747019482,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258601,
@@ -411,14 +451,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 228392,
-      "num": 228392,
-      "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
-      "onboard_time": 1747019061,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "月薪6千过出2万的生活质量",
@@ -435,20 +467,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214658,
+      "num": 214658,
+      "word": "李凯馨疑似戏份比娜扎还要多",
+      "onboard_time": 1747020022,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213355,
       "num": 309230,
       "word": "王一博人鱼推介会",
       "onboard_time": 1747019180,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210318,
-      "num": 210318,
-      "word": "世界突然开始以和为贵",
-      "onboard_time": 1747019482,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208482,
@@ -459,7 +491,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203891,
+      "raw_hot": 205668,
       "num": 541877,
       "word": "缅怀同胞致敬新生祝福汶川",
       "onboard_time": 1747018762,
@@ -489,14 +521,6 @@
       "onboard_time": 1746976941,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191436,
-      "num": 308715,
-      "word": "歌手",
-      "onboard_time": 1747019422,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 187282,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 170287,
-      "num": 170287,
+      "num": 295864,
       "word": "汶川地震失去双腿舞者廖智发声",
       "onboard_time": 1747016001,
       "rank": 36,
@@ -627,12 +651,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158376,
-      "num": 158376,
-      "word": "印军方称击落数架巴基斯坦飞机",
-      "onboard_time": 1747019900,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 159302,
+      "num": 159302,
+      "word": "女子为取已故父亲存款起诉奶奶",
+      "onboard_time": 1747020323,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157820,
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150989,
+      "num": 140056,
+      "word": "零分教资 满分教师",
+      "onboard_time": 1747020501,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150304,
       "num": 175920,
       "word": "高盛超配A股",
@@ -689,6 +721,14 @@
       "onboard_time": 1746958642,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146450,
+      "num": 146450,
+      "word": "开庭带上你那粉扑",
+      "onboard_time": 1747020323,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 145801,
@@ -779,7 +819,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133430,
+      "raw_hot": 133716,
       "num": 308229,
       "word": "音乐人韩贤光病逝",
       "onboard_time": 1747017202,
@@ -897,14 +937,6 @@
       "onboard_time": 1746969862,
       "rank": 36,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 92486,
-      "num": 309898,
-      "word": "来伊份发布情况说明",
-      "onboard_time": 1747018521,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90936,
@@ -1163,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54457,
+      "num": 307854,
+      "word": "来伊份吃出创口贴粽子疑为五芳斋代工",
+      "onboard_time": 1747019600,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53515,
       "num": 209872,
       "word": "S400被打爆具有划时代的意义",
@@ -1209,14 +1249,6 @@
       "onboard_time": 1747002196,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47503,
-      "num": 307854,
-      "word": "来伊份吃出创口贴粽子疑为五芳斋代工",
-      "onboard_time": 1747019600,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46280,
@@ -1331,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18653,
+      "num": 307572,
+      "word": "面对地震等灾害时该如何应对",
+      "onboard_time": 1747019241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15961,
       "num": 18143,
       "word": "射频抗衰后没效果皮肤反被烫伤",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1747006159,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13770,
-      "num": 307572,
-      "word": "面对地震等灾害时该如何应对",
-      "onboard_time": 1747019241,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12977,
@@ -1371,12 +1403,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12264,
+      "num": 297549,
+      "word": "巴方如何在对印冲突中展现空中优势",
+      "onboard_time": 1747020141,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 9935,
+      "num": 295030,
+      "word": "巴基斯坦版刚买的飞机",
+      "onboard_time": 1747020441,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 8137,
       "num": 14085,
       "word": "黑执事塞夏对抗路主仆",
       "onboard_time": 1746994874,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6184,
+      "num": 286154,
+      "word": "汶川大地震改变和留下了什么",
+      "onboard_time": 1747020620,
+      "rank": 33,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

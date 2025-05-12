@@ -1,0 +1,410 @@
+{
+  "runTime": 1747020712109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2470853,
+        "num": 2470853,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1281730,
+        "num": 1281730,
+        "word": "汶川地震朱大爷已于2011年去世",
+        "onboard_time": 1747016841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182268,
+        "num": 858551,
+        "word": "中美经贸高层会谈取得了实质性进展",
+        "onboard_time": 1747006159,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855169,
+        "num": 855169,
+        "word": "上门做饭月入2万女子每周只休半天",
+        "onboard_time": 1747017981,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742991,
+        "num": 742991,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547348,
+        "num": 547348,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461481,
+        "num": 461481,
+        "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+        "onboard_time": 1747019061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424680,
+        "num": 424680,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415842,
+        "num": 415842,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342187,
+        "num": 393076,
+        "word": "何炅上班和上学哪一个更苦",
+        "onboard_time": 1747011322,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545523,
+        "num": 392603,
+        "word": "从存款40万到负债70万的真实经历",
+        "onboard_time": 1747007360,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388251,
+        "num": 388251,
+        "word": "谢娜发文为女儿小咘芽庆生",
+        "onboard_time": 1747009341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365770,
+        "num": 365770,
+        "word": "台当局将96%汉人改为其余人口遭批",
+        "onboard_time": 1747011381,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363527,
+        "num": 363527,
+        "word": "空降兵十五勇士惊天一跳再看依然震撼",
+        "onboard_time": 1747012823,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346647,
+        "num": 346647,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329104,
+        "num": 329104,
+        "word": "母亲失联20多年起诉3子女要求陪伴",
+        "onboard_time": 1747017622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315134,
+        "num": 315134,
+        "word": "来伊份发布情况说明",
+        "onboard_time": 1747018521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298066,
+        "num": 298066,
+        "word": "巴少将称阵风用的好会很强大",
+        "onboard_time": 1747019001,
+        "rank": 17,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 283137,
+        "num": 297849,
+        "word": "歌手",
+        "onboard_time": 1747019422,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12264,
+        "num": 297549,
+        "word": "巴方如何在对印冲突中展现空中优势",
+        "onboard_time": 1747020141,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205668,
+        "num": 297501,
+        "word": "缅怀同胞致敬新生祝福汶川",
+        "onboard_time": 1747018762,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260521,
+        "num": 297115,
+        "word": "谢娜谈三个女儿性格",
+        "onboard_time": 1747018462,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229027,
+        "num": 296956,
+        "word": "刘诗诗吴宣仪都哭红了眼",
+        "onboard_time": 1747008801,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161228,
+        "num": 296670,
+        "word": "六公主排片纽约我爱你",
+        "onboard_time": 1747018582,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164735,
+        "num": 296254,
+        "word": "步行者3比1骑士",
+        "onboard_time": 1747019301,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159029,
+        "num": 296142,
+        "word": "王一博人鱼推介会",
+        "onboard_time": 1747019180,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126862,
+        "num": 295864,
+        "word": "汶川地震失去双腿舞者廖智发声",
+        "onboard_time": 1747016001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18653,
+        "num": 295597,
+        "word": "面对地震等灾害时该如何应对",
+        "onboard_time": 1747019241,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54457,
+        "num": 295451,
+        "word": "来伊份吃出创口贴粽子疑为五芳斋代工",
+        "onboard_time": 1747019600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9935,
+        "num": 295030,
+        "word": "巴基斯坦版刚买的飞机",
+        "onboard_time": 1747020441,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 347172,
+        "num": 294833,
+        "word": "对这种玩笑 永远不要笑",
+        "onboard_time": 1747018641,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325808,
+        "num": 294530,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294443,
+        "num": 294443,
+        "word": "锤娜丽莎被李川油到了",
+        "onboard_time": 1747014441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6184,
+        "num": 286154,
+        "word": "汶川大地震改变和留下了什么",
+        "onboard_time": 1747020620,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157114,
+        "num": 284775,
+        "word": "巴电视台热播刚买的飞机",
+        "onboard_time": 1747017381,
+        "rank": 34,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 284755,
+        "num": 284755,
+        "word": "王楚然四百没了四百没了",
+        "onboard_time": 1747007421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283869,
+        "num": 283869,
+        "word": "印军方称击落数架巴基斯坦飞机",
+        "onboard_time": 1747019900,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276129,
+        "num": 276129,
+        "word": "李凯馨",
+        "onboard_time": 1747012402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263504,
+        "num": 263504,
+        "word": "世界突然开始以和为贵",
+        "onboard_time": 1747019482,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238835,
+        "num": 238835,
+        "word": "加沙孩子们都快渴死了",
+        "onboard_time": 1747013781,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214658,
+        "num": 214658,
+        "word": "李凯馨疑似戏份比娜扎还要多",
+        "onboard_time": 1747020022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180624,
+        "num": 180624,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 41,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 159302,
+        "num": 159302,
+        "word": "女子为取已故父亲存款起诉奶奶",
+        "onboard_time": 1747020323,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146450,
+        "num": 146450,
+        "word": "开庭带上你那粉扑",
+        "onboard_time": 1747020323,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142756,
+        "num": 142756,
+        "word": "金饰价格一夜跌了14元",
+        "onboard_time": 1747016661,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 142308,
+        "word": "音乐人韩贤光病逝",
+        "onboard_time": 1747017202,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126806,
+        "num": 140455,
+        "word": "smtown直播",
+        "onboard_time": 1747017801,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150989,
+        "num": 140056,
+        "word": "零分教资 满分教师",
+        "onboard_time": 1747020501,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 138253,
+        "word": "汶川舞者廖智已收获爱情和一双儿女",
+        "onboard_time": 1747017501,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137483,
+        "num": 137483,
+        "word": "飞机餐需要60多位厨师",
+        "onboard_time": 1747013781,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#勿忘人间真情#"
+    }
+  }
+}
