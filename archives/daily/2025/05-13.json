@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747085033096,
+  "endTime": 1747085928925,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -443,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42899,
+      "num": 42899,
+      "word": "巴方并未俘获印度飞行员",
+      "onboard_time": 1747080615,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41176,
       "num": 441157,
       "word": "万千气象看荆楚",
@@ -475,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24362,
-      "num": 24362,
-      "word": "巴方并未俘获印度飞行员",
-      "onboard_time": 1747080615,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 25094,
+      "num": 25094,
+      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
+      "onboard_time": 1747080374,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21527,
@@ -491,12 +499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20068,
-      "num": 20068,
-      "word": "牺牲飞行员贴身衣兜里装着寻亲字条",
-      "onboard_time": 1747080374,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 19690,
+      "num": 19690,
+      "word": "小花简直就是女版邓超附体",
+      "onboard_time": 1747085234,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 19399,
@@ -505,6 +513,14 @@
       "onboard_time": 1747061004,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18469,
+      "num": 159721,
+      "word": "商务部解读中美关税新举措",
+      "onboard_time": 1747059625,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 17838,
@@ -516,19 +532,11 @@
     },
     {
       "raw_hot": 16308,
-      "num": 16308,
+      "num": 18024,
       "word": "外交部回应印巴同意停火",
       "onboard_time": 1747078816,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16155,
-      "num": 159721,
-      "word": "商务部解读中美关税新举措",
-      "onboard_time": 1747059625,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 15353,
@@ -547,8 +555,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10847,
-      "num": 14798,
+      "raw_hot": 11300,
+      "num": 18002,
       "word": "再看这场接力赛还是热血沸腾",
       "onboard_time": 1747081454,
       "rank": 49,
