@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747028592252,
+  "endTime": 1747031831709,
   "band_list": [
     {
       "raw_hot": 3321710,
@@ -49,6 +49,14 @@
       "onboard_time": 1747016841,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1217375,
+      "num": 1217375,
+      "word": "章若楠看丁真演戏的表情",
+      "onboard_time": 1747028790,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1209727,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 840899,
+      "num": 326674,
+      "word": "张伦硕否认与钟丽缇一见钟情",
+      "onboard_time": 1747029869,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826383,
       "num": 541787,
       "word": "从存款40万到负债70万的真实经历",
@@ -171,6 +187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 615613,
+      "num": 615613,
+      "word": "进厂吧兄弟已经开始踩缝纫机了",
+      "onboard_time": 1747026144,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601995,
       "num": 601995,
       "word": "汶川地震追空投的男孩已成空降兵",
@@ -195,12 +219,12 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 575429,
-      "num": 575429,
-      "word": "进厂吧兄弟已经开始踩缝纫机了",
-      "onboard_time": 1747026144,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 566677,
+      "num": 566677,
+      "word": "金饰克价跌到1000元",
+      "onboard_time": 1747028431,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 563563,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330771,
+      "num": 330771,
+      "word": "5月12日14时28分",
+      "onboard_time": 1747030712,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328889,
       "num": 283739,
       "word": "杨子女儿伯克利音乐学院毕业",
@@ -467,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280101,
+      "num": 322235,
+      "word": "喻言淡黄的长裙蓬松的头发",
+      "onboard_time": 1747027642,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277130,
       "num": 287660,
       "word": "张馨予家被水淹了",
@@ -531,6 +571,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 250206,
+      "num": 250206,
+      "word": "金巧巧50岁还上演综的原因",
+      "onboard_time": 1747028003,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242235,
       "num": 282572,
       "word": "淮水竹亭陪看变陪哭",
@@ -553,6 +601,14 @@
       "onboard_time": 1747022423,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237649,
+      "num": 237649,
+      "word": "小米SU7成4月份10至50万销量榜首",
+      "onboard_time": 1747030591,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 236932,
@@ -579,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 222390,
+      "num": 222390,
+      "word": "警方回应百万粉丝网红疑遭勒索自杀",
+      "onboard_time": 1747029389,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215745,
       "num": 372705,
       "word": "藏海传人物关系没那么简单",
@@ -603,20 +667,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209274,
+      "num": 372828,
+      "word": "泽连斯基将在土耳其等普京",
+      "onboard_time": 1747027881,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208482,
       "num": 208482,
       "word": "真正有效的休息方式",
       "onboard_time": 1747010241,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207285,
-      "num": 322235,
-      "word": "喻言淡黄的长裙蓬松的头发",
-      "onboard_time": 1747027642,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 207106,
@@ -651,14 +715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200188,
-      "num": 232859,
-      "word": "金巧巧50岁还上演综的原因",
-      "onboard_time": 1747028003,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200128,
       "num": 381005,
       "word": "JIWOO的鞋飞出去了",
@@ -689,6 +745,14 @@
       "onboard_time": 1747026323,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191174,
+      "num": 178699,
+      "word": "蔡徐坤名下一工作室增资450万",
+      "onboard_time": 1747030649,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189503,
@@ -811,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167214,
+      "num": 167214,
+      "word": "文科教师沦为高校边缘人",
+      "onboard_time": 1747029869,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166256,
       "num": 166256,
       "word": "汶川地震小英雄林浩要做爸爸了",
@@ -843,12 +915,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 163287,
-      "num": 163287,
-      "word": "金饰克价跌到1000元",
-      "onboard_time": 1747028431,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 163013,
+      "num": 163013,
+      "word": "警方将核实网红是小念噢自杀传言",
+      "onboard_time": 1747030591,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160601,
@@ -873,6 +945,14 @@
       "onboard_time": 1747012642,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159518,
+      "num": 179015,
+      "word": "演员请就位 卸妆抢角",
+      "onboard_time": 1747031069,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 158393,
@@ -1075,6 +1155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 137982,
+      "num": 178908,
+      "word": "利路修 五哈",
+      "onboard_time": 1747031010,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137395,
       "num": 137395,
       "word": "苹果16Pro首次参加国补",
@@ -1083,12 +1171,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 135693,
-      "num": 372828,
-      "word": "泽连斯基将在土耳其等普京",
-      "onboard_time": 1747027881,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 135707,
+      "num": 130313,
+      "word": "演员请就位",
+      "onboard_time": 1747031368,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 135338,
@@ -1123,12 +1211,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131460,
+      "num": 303069,
+      "word": "特朗普将签署行政令降低药价",
+      "onboard_time": 1747030409,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130862,
       "num": 130862,
       "word": "2025KPL夏季转会期",
       "onboard_time": 1747026982,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130504,
+      "num": 130504,
+      "word": "长沙一乡村别墅现地下代孕交易",
+      "onboard_time": 1747031722,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 129951,
@@ -1187,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123665,
+      "num": 123665,
+      "word": "巴基斯坦股市上涨9.2%",
+      "onboard_time": 1747028911,
+      "rank": 39,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 123437,
       "num": 123437,
       "word": "张馨予不导电她是绝缘体",
@@ -1243,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118584,
+      "num": 118584,
+      "word": "一起致敬重生勇毅前行",
+      "onboard_time": 1747030712,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117844,
       "num": 117844,
       "word": "取之于母用之于母",
@@ -1267,12 +1387,28 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 115119,
+      "num": 115119,
+      "word": "吃粽子吃出带血创可贴事件最新进展",
+      "onboard_time": 1747029151,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115114,
       "num": 115114,
       "word": "丁禹兮直播",
       "onboard_time": 1746972263,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114989,
+      "num": 114989,
+      "word": "老师库存不足",
+      "onboard_time": 1747030050,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 112725,
@@ -1297,6 +1433,30 @@
       "onboard_time": 1746992235,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105215,
+      "num": 105215,
+      "word": "淮水竹亭 开局一群人结局一堆坟",
+      "onboard_time": 1747031661,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104526,
+      "num": 104526,
+      "word": "原来这些歌是为汶川地震写的",
+      "onboard_time": 1747030350,
+      "rank": 48,
+      "category": "音乐,民生新闻"
+    },
+    {
+      "raw_hot": 103319,
+      "num": 103319,
+      "word": "特斯拉家长设置时速后驾驶员无法更改",
+      "onboard_time": 1747031311,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 98720,
@@ -1571,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67100,
+      "num": 1042986,
+      "word": "中国经济是大海",
+      "onboard_time": 1747026323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65799,
       "num": 65799,
       "word": "夫妻带双方母亲环游33国妻子发声",
@@ -1603,12 +1771,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62433,
-      "num": 856364,
-      "word": "中国经济是大海",
-      "onboard_time": 1747026323,
-      "rank": 2,
+      "raw_hot": 62309,
+      "num": 178882,
+      "word": "17年前被埋73小时后消逝的生命",
+      "onboard_time": 1747031069,
+      "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60506,
+      "num": 124495,
+      "word": "美媒称印度请求美国出面调停",
+      "onboard_time": 1747029869,
+      "rank": 38,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 60465,
@@ -1921,6 +2097,14 @@
       "onboard_time": 1746989774,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15553,
+      "num": 243616,
+      "word": "吃菌子火锅有哪些注意事项",
+      "onboard_time": 1747030890,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 14651,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747031831709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248772,
+        "num": 1248772,
+        "word": "512",
+        "onboard_time": 1747008201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1217375,
+        "num": 1217375,
+        "word": "章若楠看丁真演戏的表情",
+        "onboard_time": 1747028790,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67100,
+        "num": 1042986,
+        "word": "中国经济是大海",
+        "onboard_time": 1747026323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967167,
+        "num": 967167,
+        "word": "美国疑出现可变形UFO盘旋15分钟",
+        "onboard_time": 1747024404,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 615613,
+        "num": 615613,
+        "word": "进厂吧兄弟已经开始踩缝纫机了",
+        "onboard_time": 1747026144,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566677,
+        "num": 566677,
+        "word": "金饰克价跌到1000元",
+        "onboard_time": 1747028431,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417293,
+        "num": 417293,
+        "word": "丈夫吸烟43年妻子基因突变确诊肺癌",
+        "onboard_time": 1747019061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403936,
+        "num": 403936,
+        "word": "藏海传",
+        "onboard_time": 1747015341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375063,
+        "num": 375063,
+        "word": "汶川地震李小萌路遇朱大爷完整版",
+        "onboard_time": 1747010241,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330771,
+        "num": 330771,
+        "word": "5月12日14时28分",
+        "onboard_time": 1747030712,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840899,
+        "num": 326674,
+        "word": "张伦硕否认与钟丽缇一见钟情",
+        "onboard_time": 1747029869,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567836,
+        "num": 322617,
+        "word": "曝李凯馨ins翻车",
+        "onboard_time": 1747023022,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306987,
+        "num": 306987,
+        "word": "中美双方将发布联合声明",
+        "onboard_time": 1747004898,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303306,
+        "num": 303306,
+        "word": "汶川地震追空投的男孩已成空降兵",
+        "onboard_time": 1746976824,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131460,
+        "num": 303069,
+        "word": "特朗普将签署行政令降低药价",
+        "onboard_time": 1747030409,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302986,
+        "num": 302986,
+        "word": "菅纫姿发文",
+        "onboard_time": 1747021342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280101,
+        "num": 280101,
+        "word": "喻言淡黄的长裙蓬松的头发",
+        "onboard_time": 1747027642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252853,
+        "num": 252853,
+        "word": "印军方称击落数架巴基斯坦飞机",
+        "onboard_time": 1747019900,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250206,
+        "num": 250206,
+        "word": "金巧巧50岁还上演综的原因",
+        "onboard_time": 1747028003,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15553,
+        "num": 243616,
+        "word": "吃菌子火锅有哪些注意事项",
+        "onboard_time": 1747030890,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 237649,
+        "num": 237649,
+        "word": "小米SU7成4月份10至50万销量榜首",
+        "onboard_time": 1747030591,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233650,
+        "num": 233650,
+        "word": "汶川地震朱大爷已于2011年去世",
+        "onboard_time": 1747016841,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222390,
+        "num": 222390,
+        "word": "警方回应百万粉丝网红疑遭勒索自杀",
+        "onboard_time": 1747029389,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220508,
+        "num": 220508,
+        "word": "胡连馨 我去串个戏不要嫌弃我",
+        "onboard_time": 1747021221,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209274,
+        "num": 209274,
+        "word": "泽连斯基将在土耳其等普京",
+        "onboard_time": 1747027881,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193833,
+        "num": 193833,
+        "word": "5121428是中国人的心痛瞬间",
+        "onboard_time": 1747007360,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179091,
+        "num": 179091,
+        "word": "张杰女儿小咘芽商标已被抢注",
+        "onboard_time": 1747021642,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159518,
+        "num": 179015,
+        "word": "演员请就位 卸妆抢角",
+        "onboard_time": 1747031069,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137982,
+        "num": 178908,
+        "word": "利路修 五哈",
+        "onboard_time": 1747031010,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62309,
+        "num": 178882,
+        "word": "17年前被埋73小时后消逝的生命",
+        "onboard_time": 1747031069,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191174,
+        "num": 178699,
+        "word": "蔡徐坤名下一工作室增资450万",
+        "onboard_time": 1747030649,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178694,
+        "num": 178694,
+        "word": "女生因妈妈吃药导致完全无鼻骨",
+        "onboard_time": 1747007360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167214,
+        "num": 167214,
+        "word": "文科教师沦为高校边缘人",
+        "onboard_time": 1747029869,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163013,
+        "num": 163013,
+        "word": "警方将核实网红是小念噢自杀传言",
+        "onboard_time": 1747030591,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 140551,
+        "word": "女子为取已故父亲存款起诉奶奶",
+        "onboard_time": 1747020323,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130504,
+        "num": 130504,
+        "word": "长沙一乡村别墅现地下代孕交易",
+        "onboard_time": 1747031722,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 135707,
+        "num": 130313,
+        "word": "演员请就位",
+        "onboard_time": 1747031368,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128409,
+        "num": 128409,
+        "word": "半熟4好会爱人的一个女生",
+        "onboard_time": 1747026323,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60506,
+        "num": 124495,
+        "word": "美媒称印度请求美国出面调停",
+        "onboard_time": 1747029869,
+        "rank": 38,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 123665,
+        "num": 123665,
+        "word": "巴基斯坦股市上涨9.2%",
+        "onboard_time": 1747028911,
+        "rank": 39,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 121963,
+        "word": "金饰克价两天大跌19元",
+        "onboard_time": 1747025425,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 118584,
+        "num": 118584,
+        "word": "一起致敬重生勇毅前行",
+        "onboard_time": 1747030712,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118000,
+        "num": 118000,
+        "word": "他们用行动证明没什么能打垮中国人",
+        "onboard_time": 1746984257,
+        "rank": 42,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 115119,
+        "num": 115119,
+        "word": "吃粽子吃出带血创可贴事件最新进展",
+        "onboard_time": 1747029151,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114989,
+        "num": 114989,
+        "word": "老师库存不足",
+        "onboard_time": 1747030050,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108637,
+        "num": 108637,
+        "word": "零分教资 满分教师",
+        "onboard_time": 1747020501,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105215,
+        "num": 105215,
+        "word": "淮水竹亭 开局一群人结局一堆坟",
+        "onboard_time": 1747031661,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104896,
+        "num": 104896,
+        "word": "工作舒服的秘诀只有一个",
+        "onboard_time": 1747022721,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104526,
+        "num": 104526,
+        "word": "原来这些歌是为汶川地震写的",
+        "onboard_time": 1747030350,
+        "rank": 48,
+        "category": "音乐,民生新闻"
+      },
+      {
+        "raw_hot": 103319,
+        "num": 103319,
+        "word": "特斯拉家长设置时速后驾驶员无法更改",
+        "onboard_time": 1747031311,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
