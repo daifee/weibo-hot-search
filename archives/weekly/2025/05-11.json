@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747045743712,
+  "endTime": 1747046767790,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -51,20 +51,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1794357,
+      "num": 416969,
+      "word": "地下代孕16张病床住着多位代孕女子",
+      "onboard_time": 1747041682,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1783226,
       "num": 1783226,
       "word": "中美双方将发布联合声明",
       "onboard_time": 1747004898,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1696882,
-      "num": 396076,
-      "word": "地下代孕16张病床住着多位代孕女子",
-      "onboard_time": 1747041682,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1642831,
@@ -563,8 +563,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 642891,
-      "num": 642891,
+      "raw_hot": 643981,
+      "num": 643981,
       "word": "脾胃虚弱一定要多饿一饿",
       "onboard_time": 1747042583,
       "rank": 38,
@@ -1115,12 +1115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 418006,
+      "num": 418006,
+      "word": "选丁真来演戏的人真是个天才",
+      "onboard_time": 1747041383,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414333,
       "num": 414333,
       "word": "顺产开十指的痛具象化了",
       "onboard_time": 1746938961,
       "rank": 14,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 412537,
+      "num": 412537,
+      "word": "金龟子女儿30天带货销售额超千万",
+      "onboard_time": 1747044862,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 407252,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1746855502,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373422,
-      "num": 373422,
-      "word": "选丁真来演戏的人真是个天才",
-      "onboard_time": 1747041383,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 371029,
@@ -1315,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345570,
+      "num": 353423,
+      "word": "中国稀土出口管制还在继续",
+      "onboard_time": 1747044381,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 341599,
       "num": 341599,
       "word": "王楚钦生日妈妈的双向祝福",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1746975983,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333639,
+      "num": 352782,
+      "word": "四十七 张康乐",
+      "onboard_time": 1747044922,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 327695,
@@ -1553,6 +1577,22 @@
       "onboard_time": 1747019482,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286841,
+      "num": 286841,
+      "word": "李凯馨在外网发韩国春节快乐",
+      "onboard_time": 1747042942,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286115,
+      "num": 286115,
+      "word": "浙江省饭",
+      "onboard_time": 1747045642,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 284003,
@@ -1771,12 +1811,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 244434,
-      "num": 244434,
-      "word": "李凯馨在外网发韩国春节快乐",
-      "onboard_time": 1747042942,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 246288,
+      "num": 294924,
+      "word": "她在说话他在闻她头发",
+      "onboard_time": 1747045223,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 244145,
@@ -1867,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225321,
-      "num": 225321,
-      "word": "金龟子女儿30天带货销售额超千万",
-      "onboard_time": 1747044862,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224879,
       "num": 224879,
       "word": "吃什么东西瘦的最快",
@@ -1961,14 +1993,6 @@
       "onboard_time": 1746948321,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217743,
-      "num": 352782,
-      "word": "四十七 张康乐",
-      "onboard_time": 1747044922,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 217637,
@@ -2281,14 +2305,6 @@
       "onboard_time": 1746935420,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 198313,
-      "num": 273977,
-      "word": "她在说话他在闻她头发",
-      "onboard_time": 1747045223,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 197827,
@@ -2963,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162030,
+      "num": 162030,
+      "word": "美商务部长称10%基准关税将持续存在",
+      "onboard_time": 1747042402,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 161966,
       "num": 179015,
       "word": "演员请就位 卸妆抢角",
@@ -3059,20 +3083,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158466,
+      "num": 339001,
+      "word": "陈楚生参加歌手",
+      "onboard_time": 1747043782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158393,
       "num": 187560,
       "word": "怎么刘诗诗总能哭到心坎里",
       "onboard_time": 1747025904,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157967,
-      "num": 157967,
-      "word": "美商务部长称10%基准关税将持续存在",
-      "onboard_time": 1747042402,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157902,
@@ -3097,14 +3121,6 @@
       "onboard_time": 1746965421,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157649,
-      "num": 353423,
-      "word": "中国稀土出口管制还在继续",
-      "onboard_time": 1747044381,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157600,
@@ -3177,14 +3193,6 @@
       "onboard_time": 1746931222,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155553,
-      "num": 268783,
-      "word": "陈楚生参加歌手",
-      "onboard_time": 1747043782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 155476,
@@ -3332,7 +3340,7 @@
     },
     {
       "raw_hot": 150037,
-      "num": 264144,
+      "num": 286331,
       "word": "锤娜丽莎问李川你在高贵什么",
       "onboard_time": 1747042642,
       "rank": 27,
@@ -3497,6 +3505,14 @@
       "onboard_time": 1746937759,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144536,
+      "num": 286532,
+      "word": "戛纳明星造型",
+      "onboard_time": 1747045041,
+      "rank": 26,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 144535,
@@ -3851,14 +3867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136102,
-      "num": 260353,
-      "word": "戛纳明星造型",
-      "onboard_time": 1747045041,
-      "rank": 26,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 135511,
       "num": 135511,
       "word": "被邓紫棋8米狮子开场震撼到了",
@@ -3995,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131481,
+      "num": 131481,
+      "word": "ian柳智敏cha",
+      "onboard_time": 1747046602,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "种地吧今天来采购",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1747026982,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130374,
+      "num": 130374,
+      "word": "毕业后可能会被通知抽中论文抽检",
+      "onboard_time": 1747045702,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 129951,
@@ -4179,6 +4203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124542,
+      "num": 124542,
+      "word": "特朗普宣布药价向全球最低价看齐",
+      "onboard_time": 1747043902,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123977,
       "num": 123977,
       "word": "印度分军种和巴基斯坦PK",
@@ -4225,6 +4257,14 @@
       "onboard_time": 1747033042,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122640,
+      "num": 339558,
+      "word": "中国资产大幅上涨",
+      "onboard_time": 1747044381,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 122582,
@@ -4379,14 +4419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118697,
-      "num": 118697,
-      "word": "浙江省饭",
-      "onboard_time": 1747045642,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118584,
       "num": 118584,
       "word": "一起致敬重生勇毅前行",
@@ -4401,6 +4433,14 @@
       "onboard_time": 1746953842,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118444,
+      "num": 118444,
+      "word": "汶川地震可乐男孩已成为可乐馆长",
+      "onboard_time": 1747042524,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118005,
@@ -4593,14 +4633,6 @@
       "onboard_time": 1747044322,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110851,
-      "num": 110851,
-      "word": "毕业后可能会被通知抽中论文抽检",
-      "onboard_time": 1747045702,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 110527,
@@ -4913,6 +4945,14 @@
       "onboard_time": 1746965900,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94276,
+      "num": 338155,
+      "word": "官方调查同一站点两名骑手先后猝死",
+      "onboard_time": 1747046122,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 93670,
@@ -5507,6 +5547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55479,
+      "num": 171066,
+      "word": "王者荣耀的算法像极了社会潜规则",
+      "onboard_time": 1747045461,
+      "rank": 39,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 55140,
       "num": 67988,
       "word": "小男孩说话算话带着包子冒雨赴约",
@@ -5609,6 +5657,14 @@
       "onboard_time": 1746914534,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51910,
+      "num": 338674,
+      "word": "专家批评武士道书法非常丑陋",
+      "onboard_time": 1747045702,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50955,
@@ -5859,6 +5915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41005,
+      "num": 339388,
+      "word": "美国从芭比娃娃到洗衣机都在涨价",
+      "onboard_time": 1747045763,
+      "rank": 14,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 40776,
       "num": 253670,
       "word": "按摩哪些面部穴位可以让五官变年轻",
@@ -6017,14 +6081,6 @@
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29971,
-      "num": 163808,
-      "word": "专家批评武士道书法非常丑陋",
-      "onboard_time": 1747045702,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29559,
@@ -6435,6 +6491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17408,
+      "num": 286234,
+      "word": "汶川盲跳十五勇士今成社区守护者",
+      "onboard_time": 1747046542,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17045,
       "num": 333416,
       "word": "原来这才是我住过最珍贵的房子",
@@ -6579,6 +6643,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 12405,
+      "num": 338262,
+      "word": "踩缝纫机的路透能踩出爆款综艺吗",
+      "onboard_time": 1747045942,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12355,
       "num": 17498,
       "word": "中国品牌日",
@@ -6649,14 +6721,6 @@
       "onboard_time": 1747038563,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7632,
-      "num": 158380,
-      "word": "王者荣耀的算法像极了社会潜规则",
-      "onboard_time": 1747045461,
-      "rank": 39,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 6729,
