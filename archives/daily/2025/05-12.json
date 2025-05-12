@@ -1,6 +1,6 @@
 {
   "startTime": 1746980933953,
-  "endTime": 1747035555719,
+  "endTime": 1747038875856,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 5649699,
-      "num": 5649699,
+      "raw_hot": 9712414,
+      "num": 9712414,
       "word": "中美相互24%关税90天内暂停实施",
       "onboard_time": 1747034002,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1272902,
+      "num": 1272902,
+      "word": "赴山海 换脸",
+      "onboard_time": 1747035265,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1265236,
       "num": 1265236,
       "word": "章若楠看丁真演戏的表情",
@@ -113,6 +121,14 @@
       "onboard_time": 1746984077,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1009667,
+      "num": 319731,
+      "word": "孙俪女儿拉丁舞英国夺冠",
+      "onboard_time": 1747036703,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1007892,
@@ -179,12 +195,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 764284,
+      "num": 319504,
+      "word": "李承铉因为弟弟凶Lucky",
+      "onboard_time": 1747037003,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 703195,
       "num": 703195,
       "word": "藏海传",
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 679841,
+      "num": 544752,
+      "word": "商务部回应中美经贸会谈联合声明",
+      "onboard_time": 1747033822,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 641593,
@@ -275,6 +307,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 565609,
+      "num": 565609,
+      "word": "中美双方降低超100%关税",
+      "onboard_time": 1747036043,
+      "rank": 4,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 563563,
       "num": 563563,
       "word": "零分教资 满分教师",
@@ -331,6 +371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 492321,
+      "num": 492321,
+      "word": "中美5月14日前采取举措",
+      "onboard_time": 1747036345,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 491735,
       "num": 491735,
       "word": "疑因高反身亡男子3天前曾吸氧",
@@ -355,12 +403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 472453,
+      "num": 288149,
+      "word": "男子误吞5cm鱼刺用土方身亡",
+      "onboard_time": 1747036345,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467744,
       "num": 467744,
       "word": "空降兵十五勇士惊天一跳再看依然震撼",
       "onboard_time": 1747012823,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452294,
+      "num": 452294,
+      "word": "网红迪士尼在逃公主每天只睡6小时",
+      "onboard_time": 1747033281,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 435896,
@@ -443,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376851,
-      "num": 433273,
-      "word": "网红迪士尼在逃公主每天只睡6小时",
-      "onboard_time": 1747033281,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 365061,
       "num": 478528,
       "word": "歌手",
@@ -531,12 +587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311697,
+      "num": 311697,
+      "word": "中美将继续就经贸关系协商",
+      "onboard_time": 1747036703,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 309392,
       "num": 298957,
       "word": "锤娜丽莎被李川油到了",
       "onboard_time": 1747014441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303566,
+      "num": 303566,
+      "word": "长沙别墅代孕窝点查处现场",
+      "onboard_time": 1747037604,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302661,
@@ -587,12 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281922,
-      "num": 281922,
-      "word": "赴山海 换脸",
-      "onboard_time": 1747035265,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 280158,
+      "num": 280158,
+      "word": "奶茶券",
+      "onboard_time": 1747037723,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 280101,
@@ -691,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243970,
+      "num": 243970,
+      "word": "婚礼前10分钟婚庆公司撤场",
+      "onboard_time": 1747035024,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242235,
       "num": 282572,
       "word": "淮水竹亭陪看变陪哭",
@@ -705,6 +785,14 @@
       "onboard_time": 1747005199,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239839,
+      "num": 239839,
+      "word": "A股港股彻底爆发",
+      "onboard_time": 1747035624,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 238479,
@@ -729,6 +817,14 @@
       "onboard_time": 1746964341,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223797,
+      "num": 223797,
+      "word": "马龙樊振东孙颖莎王曼昱好闪耀",
+      "onboard_time": 1747037243,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 223108,
@@ -795,6 +891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207258,
+      "num": 247096,
+      "word": "美取消14259号和14266号行政令关税",
+      "onboard_time": 1747038744,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207106,
       "num": 325594,
       "word": "藏海传周日见",
@@ -827,12 +931,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200919,
+      "num": 229252,
+      "word": "折腰要拍短剧了",
+      "onboard_time": 1747038504,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200128,
       "num": 381005,
       "word": "JIWOO的鞋飞出去了",
       "onboard_time": 1747022721,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198260,
+      "num": 198260,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197827,
@@ -857,6 +977,14 @@
       "onboard_time": 1746976941,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193646,
+      "num": 193646,
+      "word": "金龟子女儿回应蹭妈妈流量",
+      "onboard_time": 1747035083,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 192551,
@@ -971,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171141,
+      "num": 171141,
+      "word": "我国加强战略矿产出口全链条管控",
+      "onboard_time": 1747037124,
+      "rank": 36,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 170287,
       "num": 295864,
       "word": "汶川地震失去双腿舞者廖智发声",
@@ -993,6 +1129,14 @@
       "onboard_time": 1747020441,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168605,
+      "num": 168605,
+      "word": "奇瑞高管称吉利新车是烂车",
+      "onboard_time": 1747038683,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 167386,
@@ -1043,6 +1187,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166001,
+      "num": 166001,
+      "word": "金价一克跌17元",
+      "onboard_time": 1747037243,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165484,
+      "num": 165484,
+      "word": "朱洁静 轻舟已过万重山",
+      "onboard_time": 1747038083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165051,
       "num": 165051,
       "word": "汶川",
@@ -1083,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160589,
+      "num": 160589,
+      "word": "二手烟80%致癌物会黏在家里",
+      "onboard_time": 1747035444,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160577,
       "num": 160577,
       "word": "骑士步行者冲突",
@@ -1097,6 +1265,14 @@
       "onboard_time": 1747012642,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159068,
+      "num": 159068,
+      "word": "港股",
+      "onboard_time": 1747036703,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 158393,
@@ -1121,14 +1297,6 @@
       "onboard_time": 1747010241,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157561,
-      "num": 157561,
-      "word": "金龟子女儿回应蹭妈妈流量",
-      "onboard_time": 1747035083,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 157170,
@@ -1339,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139819,
+      "num": 224514,
+      "word": "巴基斯坦民众走上街头疯狂庆祝",
+      "onboard_time": 1747036883,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 138940,
       "num": 303069,
       "word": "特朗普将签署行政令降低药价",
@@ -1417,14 +1593,6 @@
       "onboard_time": 1747026263,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132014,
-      "num": 132014,
-      "word": "婚礼前10分钟婚庆公司撤场",
-      "onboard_time": 1747035024,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131992,
@@ -1524,7 +1692,7 @@
     },
     {
       "raw_hot": 122936,
-      "num": 128116,
+      "num": 293263,
       "word": "孙娜恩离开YG",
       "onboard_time": 1747033042,
       "rank": 48,
@@ -1537,6 +1705,14 @@
       "onboard_time": 1747025904,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121520,
+      "num": 303914,
+      "word": "离岸人民币升破7.2",
+      "onboard_time": 1747037843,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 120813,
@@ -1643,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107537,
+      "num": 251927,
+      "word": "苹果概念港股大涨",
+      "onboard_time": 1747037424,
+      "rank": 24,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 106147,
       "num": 106147,
       "word": "武汉坐地铁公交可以抵扣房贷",
@@ -1668,7 +1852,7 @@
     },
     {
       "raw_hot": 99415,
-      "num": 2987933,
+      "num": 4665050,
       "word": "中国经济是大海",
       "onboard_time": 1747026323,
       "rank": 2,
@@ -2347,6 +2531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19401,
+      "num": 169077,
+      "word": "j10配货",
+      "onboard_time": 1747038203,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 18653,
       "num": 307572,
       "word": "面对地震等灾害时该如何应对",
@@ -2387,6 +2579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13714,
+      "num": 169952,
+      "word": "经历汶川地震的孩子都怎么样了",
+      "onboard_time": 1747038744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13658,
+      "num": 288874,
+      "word": "杨瀚森在试训中需重点展示哪些能力",
+      "onboard_time": 1747037783,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12977,
       "num": 36926,
       "word": "30秒道尽一辈子对妈妈说的话",
@@ -2425,6 +2633,14 @@
       "onboard_time": 1746994874,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 7790,
+      "num": 169293,
+      "word": "郑海洋说那男孩已长大成人",
+      "onboard_time": 1747038563,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6729,
