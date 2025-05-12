@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747039697391,
+  "endTime": 1747042144771,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -1771,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1058175,
+      "num": 348190,
+      "word": "李承铉因为弟弟凶Lucky",
+      "onboard_time": 1747037003,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055400,
       "num": 281633,
       "word": "马嘉祺破音",
@@ -2211,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 958157,
+      "num": 349591,
+      "word": "长沙别墅代孕窝点查处现场",
+      "onboard_time": 1747037604,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 955455,
       "num": 542773,
       "word": "张伦硕否认与钟丽缇一见钟情",
@@ -2451,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 904572,
-      "num": 348190,
-      "word": "李承铉因为弟弟凶Lucky",
-      "onboard_time": 1747037003,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 903312,
       "num": 903312,
       "word": "34岁女生花70万去英国留学一年",
@@ -2689,6 +2697,14 @@
       "onboard_time": 1747017981,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 852618,
+      "num": 852618,
+      "word": "中美关税降税后不到30%",
+      "onboard_time": 1747038865,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 848312,
@@ -4499,6 +4515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614481,
+      "num": 291167,
+      "word": "奶茶券",
+      "onboard_time": 1747037723,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 614297,
       "num": 614297,
       "word": "丁俊晖",
@@ -4939,6 +4963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578178,
+      "num": 346444,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 577498,
       "num": 577498,
       "word": "周迅起床了天塌了",
@@ -5105,14 +5137,6 @@
       "onboard_time": 1746064520,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557838,
-      "num": 346444,
-      "word": "折腰",
-      "onboard_time": 1747038624,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 557146,
@@ -5625,6 +5649,14 @@
       "onboard_time": 1746442940,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514879,
+      "num": 514879,
+      "word": "稀土",
+      "onboard_time": 1747039104,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 514373,
@@ -6587,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452834,
+      "num": 452834,
+      "word": "美取消14259号和14266号行政令关税",
+      "onboard_time": 1747038744,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452294,
       "num": 452294,
       "word": "网红迪士尼在逃公主每天只睡6小时",
@@ -7321,6 +7361,14 @@
       "onboard_time": 1746145889,
       "rank": 13,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 418023,
+      "num": 418023,
+      "word": "芬太尼",
+      "onboard_time": 1747039042,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 418003,
@@ -8067,14 +8115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 376277,
-      "num": 376277,
-      "word": "美取消14259号和14266号行政令关税",
-      "onboard_time": 1747038744,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 375571,
       "num": 475660,
       "word": "大风杀",
@@ -8635,14 +8675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349591,
-      "num": 349591,
-      "word": "长沙别墅代孕窝点查处现场",
-      "onboard_time": 1747037604,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349306,
       "num": 1133610,
       "word": "数据看五一各地出游热度",
@@ -8937,14 +8969,6 @@
       "onboard_time": 1746885502,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 340590,
-      "num": 344951,
-      "word": "中美关税降税后不到30%",
-      "onboard_time": 1747038865,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 340302,
@@ -10483,14 +10507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291167,
-      "num": 291167,
-      "word": "奶茶券",
-      "onboard_time": 1747037723,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 291087,
       "num": 291087,
       "word": "全KPL在恭喜Gemini",
@@ -11627,6 +11643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261471,
+      "num": 261471,
+      "word": "高学历过滤学渣但过滤不了人渣",
+      "onboard_time": 1747039942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261459,
       "num": 224940,
       "word": "月亮姐姐淘汰",
@@ -12179,14 +12203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249529,
-      "num": 249529,
-      "word": "稀土",
-      "onboard_time": 1747039104,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249346,
       "num": 249346,
       "word": "杜华身上痒就去洗澡",
@@ -12297,6 +12313,14 @@
       "onboard_time": 1746590063,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 247707,
+      "num": 247707,
+      "word": "朱大爷离世前摔断肋骨住进ICU",
+      "onboard_time": 1747041503,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247625,
@@ -13929,6 +13953,14 @@
       "onboard_time": 1746778223,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215513,
+      "num": 215513,
+      "word": "地下代孕16张病床住着多位代孕女子",
+      "onboard_time": 1747041682,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215415,
@@ -15883,14 +15915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199397,
-      "num": 199397,
-      "word": "芬太尼",
-      "onboard_time": 1747039042,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199370,
       "num": 199370,
       "word": "吞海广播剧",
@@ -16657,6 +16681,14 @@
       "onboard_time": 1746168150,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194294,
+      "num": 242962,
+      "word": "选丁真来演戏的人真是个天才",
+      "onboard_time": 1747041383,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 194218,
@@ -18507,6 +18539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184002,
+      "num": 184002,
+      "word": "买iPhone16还是等iPhone17",
+      "onboard_time": 1747041201,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 183873,
       "num": 381506,
       "word": "男性确诊子宫肌瘤侮辱了谁的智商",
@@ -18561,6 +18601,14 @@
       "onboard_time": 1746763342,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183154,
+      "num": 183154,
+      "word": "全球股市爆发",
+      "onboard_time": 1747041201,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 183123,
@@ -19363,6 +19411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176900,
+      "num": 176900,
+      "word": "一图看懂中美关税调整",
+      "onboard_time": 1747040243,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176838,
       "num": 176838,
       "word": "利路修 综艺",
@@ -19929,6 +19985,14 @@
       "onboard_time": 1747037843,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 172889,
+      "num": 225587,
+      "word": "巴基斯坦网友惦记上了J35",
+      "onboard_time": 1747039405,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 172676,
@@ -21081,6 +21145,14 @@
       "onboard_time": 1746531142,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165189,
+      "num": 165189,
+      "word": "在毕业典礼收到Rose的祝福",
+      "onboard_time": 1747041802,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 165185,
@@ -28283,6 +28355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128606,
+      "num": 179806,
+      "word": "中美发布联合声明",
+      "onboard_time": 1747041623,
+      "rank": 41,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 128605,
       "num": 128605,
       "word": "五一爬武功山回家",
@@ -30129,6 +30209,14 @@
       "onboard_time": 1746663502,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120065,
+      "num": 290618,
+      "word": "官方通报一出租房疑存非法代孕活动",
+      "onboard_time": 1747040782,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 119997,
@@ -36235,6 +36323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72061,
+      "num": 247709,
+      "word": "为什么二手烟的毒性更强",
+      "onboard_time": 1747041563,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71998,
       "num": 98964,
       "word": "抗战岁月里春天的召唤",
@@ -37409,6 +37505,14 @@
       "onboard_time": 1746518662,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59533,
+      "num": 184873,
+      "word": "美媒称莫迪被巴导弹袭击吓停火",
+      "onboard_time": 1747036585,
+      "rank": 38,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 59528,
@@ -39107,6 +39211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43171,
+      "num": 188031,
+      "word": "如何理解中美经贸高层会谈共识",
+      "onboard_time": 1747042043,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43073,
       "num": 233024,
       "word": "勇士还能过森林狼这关吗",
@@ -39185,6 +39297,14 @@
       "onboard_time": 1746812057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42747,
+      "num": 177342,
+      "word": "美妆好物分享",
+      "onboard_time": 1747041201,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 42730,
@@ -39417,6 +39537,14 @@
       "onboard_time": 1746961282,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40751,
+      "num": 232977,
+      "word": "中美双方实际保留的关税",
+      "onboard_time": 1747041324,
+      "rank": 28,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 40702,
@@ -40641,6 +40769,14 @@
       "onboard_time": 1746651733,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31152,
+      "num": 240459,
+      "word": "印度被击落的阵风战斗机有多强",
+      "onboard_time": 1747041742,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 31137,
@@ -42731,6 +42867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18095,
+      "num": 231303,
+      "word": "巴方称曾拦截多枚巡航导弹",
+      "onboard_time": 1747040483,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 18091,
       "num": 231868,
       "word": "五一假期如何避堵",
@@ -44059,20 +44203,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 10598,
-      "num": 225587,
-      "word": "巴基斯坦网友惦记上了J35",
-      "onboard_time": 1747039405,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 10585,
       "num": 207814,
       "word": "WAW惊现偷心大盗无料",
       "onboard_time": 1746347363,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10559,
+      "num": 188031,
+      "word": "印巴恢复瓦加边境降旗仪式",
+      "onboard_time": 1747042043,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10478,
@@ -44161,6 +44305,22 @@
       "onboard_time": 1746592884,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 9733,
+      "num": 278937,
+      "word": "汶川地震失去左腿的男孩已成为舞者",
+      "onboard_time": 1747041802,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9640,
+      "num": 277594,
+      "word": "地震时正在乘坐电梯该如何避震",
+      "onboard_time": 1747041383,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 9604,
