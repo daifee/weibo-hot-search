@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747075747571,
+  "endTime": 1747077689830,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -44593,6 +44593,14 @@
       "onboard_time": 1746215413,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16088,
+      "num": 18196,
+      "word": "中美声明点燃全球乐观情绪",
+      "onboard_time": 1747076115,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16065,

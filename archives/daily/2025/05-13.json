@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747075747571,
+  "endTime": 1747077689830,
   "band_list": [
     {
       "raw_hot": 1078853,
@@ -491,20 +491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16088,
+      "num": 18196,
+      "word": "中美声明点燃全球乐观情绪",
+      "onboard_time": 1747076115,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15663,
+      "num": 159721,
+      "word": "商务部解读中美关税新举措",
+      "onboard_time": 1747059625,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 15328,
       "num": 70996,
       "word": "04年男子拒服兵役受8项惩戒",
       "onboard_time": 1747074373,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13152,
-      "num": 159721,
-      "word": "商务部解读中美关税新举措",
-      "onboard_time": 1747059625,
-      "rank": 2,
-      "category": "国内时政,财经"
     }
   ],
   "hotgov_list": [
