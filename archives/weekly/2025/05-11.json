@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747006650326,
+  "endTime": 1747015277722,
   "band_list": [
     {
       "raw_hot": 1962552,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1300099,
+      "num": 1300099,
+      "word": "黄金",
+      "onboard_time": 1747011322,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1273374,
       "num": 1273374,
       "word": "苹果商店下架国家反诈中心",
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1108581,
+      "num": 1108581,
+      "word": "汶川地震李小萌路遇朱大爷完整版",
+      "onboard_time": 1747010241,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -171,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 972352,
+      "num": 972352,
+      "word": "台当局将96%汉人改为其余人口遭批",
+      "onboard_time": 1747011381,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 960210,
       "num": 1153633,
       "word": "工行疑似掺假金条检测结果为真金",
@@ -201,6 +225,14 @@
       "onboard_time": 1746919218,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 826383,
+      "num": 429314,
+      "word": "从存款40万到负债70万的真实经历",
+      "onboard_time": 1747007360,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 821914,
@@ -435,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540610,
+      "num": 540610,
+      "word": "5121428是中国人的心痛瞬间",
+      "onboard_time": 1747007360,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537412,
       "num": 348648,
       "word": "在蓝盈莹脸上看到漂亮基因的强大",
@@ -467,12 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 526586,
+      "num": 409547,
+      "word": "谢娜发文为女儿小咘芽庆生",
+      "onboard_time": 1747009341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504263,
       "num": 504263,
       "word": "青木媛杀死张正",
       "onboard_time": 1746939801,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503316,
+      "num": 503316,
+      "word": "何炅上班和上学哪一个更苦",
+      "onboard_time": 1747011322,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 501699,
@@ -547,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467744,
+      "num": 467744,
+      "word": "空降兵十五勇士惊天一跳再看依然震撼",
+      "onboard_time": 1747012823,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467424,
       "num": 467424,
       "word": "淮水竹亭陪看变陪哭",
@@ -587,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447828,
+      "num": 644807,
+      "word": "中美经贸高层会谈取得了实质性进展",
+      "onboard_time": 1747006159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 447036,
       "num": 305078,
       "word": "小S二女儿晒照说你永远在我身边",
@@ -617,6 +689,14 @@
       "onboard_time": 1746970342,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 435896,
+      "num": 271204,
+      "word": "女生因妈妈吃药导致完全无鼻骨",
+      "onboard_time": 1747007360,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434363,
@@ -651,6 +731,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 422657,
+      "num": 407400,
+      "word": "王楚然四百没了四百没了",
+      "onboard_time": 1747007421,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421095,
       "num": 421095,
       "word": "演员3狂飙5个高启强7个高启盛",
@@ -675,6 +763,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 407252,
+      "num": 449320,
+      "word": "刘诗诗吴宣仪都哭红了眼",
+      "onboard_time": 1747008801,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406567,
       "num": 292729,
       "word": "钟丽缇小女儿走秀状态",
@@ -689,6 +785,14 @@
       "onboard_time": 1746936141,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399898,
+      "num": 399898,
+      "word": "李凯馨",
+      "onboard_time": 1747012402,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 399566,
@@ -883,6 +987,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 317424,
+      "num": 317424,
+      "word": "一直对菌子火锅没概念直到吃了一次",
+      "onboard_time": 1747005678,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 314556,
       "num": 314556,
       "word": "肖俊请exo检查作业",
@@ -979,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278282,
+      "num": 278282,
+      "word": "汶川地震17周年纪念短片",
+      "onboard_time": 1747012823,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "会癌变的痣一般有5个特征",
@@ -993,6 +1113,14 @@
       "onboard_time": 1746918737,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 271092,
+      "num": 271092,
+      "word": "他们用行动证明没什么能打垮中国人",
+      "onboard_time": 1746984257,
+      "rank": 21,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 266651,
@@ -1025,6 +1153,14 @@
       "onboard_time": 1746936381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262223,
+      "num": 262223,
+      "word": "加沙孩子们都快渴死了",
+      "onboard_time": 1747013781,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258376,
@@ -1195,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219948,
+      "num": 219948,
+      "word": "512",
+      "onboard_time": 1747008201,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219623,
       "num": 219623,
       "word": "车内座位不够3个娃被藏后备箱",
@@ -1265,6 +1409,14 @@
       "onboard_time": 1746952162,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208482,
+      "num": 208482,
+      "word": "真正有效的休息方式",
+      "onboard_time": 1747010241,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208097,
@@ -1369,6 +1521,14 @@
       "onboard_time": 1746942741,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201530,
+      "num": 201530,
+      "word": "锤娜丽莎被李川油到了",
+      "onboard_time": 1747014441,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 200903,
@@ -1515,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186932,
+      "num": 186932,
+      "word": "航拍今日汶川看泪目了",
+      "onboard_time": 1747005798,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186925,
       "num": 186925,
       "word": "乘风投票",
@@ -1547,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183714,
-      "num": 183714,
-      "word": "一直对菌子火锅没概念直到吃了一次",
-      "onboard_time": 1747005678,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183707,
       "num": 183707,
       "word": "歼10总工程师",
@@ -1577,6 +1737,14 @@
       "onboard_time": 1746962663,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182637,
+      "num": 201859,
+      "word": "A股",
+      "onboard_time": 1747014681,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 181865,
@@ -1667,11 +1835,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175036,
+      "num": 175036,
+      "word": "一定要让猫咪们远离头绳皮筋",
+      "onboard_time": 1747014441,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174310,
       "num": 174310,
       "word": "普京提议15日恢复俄乌直接谈判",
       "onboard_time": 1746924081,
       "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 173507,
+      "num": 173507,
+      "word": "特朗普称将免费获得波音747当专机",
+      "onboard_time": 1747014860,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -1763,6 +1947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165051,
+      "num": 165051,
+      "word": "汶川",
+      "onboard_time": 1747013901,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165041,
       "num": 165041,
       "word": "淮水竹亭番外",
@@ -1779,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161865,
+      "num": 273221,
+      "word": "央8节目单有藏海传了",
+      "onboard_time": 1747015040,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161786,
       "num": 161786,
       "word": "钟丽缇自曝生三孩子经历",
@@ -1793,6 +1993,22 @@
       "onboard_time": 1746977002,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160577,
+      "num": 160577,
+      "word": "骑士步行者冲突",
+      "onboard_time": 1747014381,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160334,
+      "num": 271317,
+      "word": "aespa洛杉矶红毯",
+      "onboard_time": 1747012642,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160155,
@@ -1851,12 +2067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157600,
+      "num": 157600,
+      "word": "邻居一个举动帮老人保住120万",
+      "onboard_time": 1747010241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157302,
       "num": 157302,
       "word": "巴方否认违反停火协议",
       "onboard_time": 1746935120,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157170,
+      "num": 157170,
+      "word": "运动后30分钟是进食黄金期",
+      "onboard_time": 1747010241,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 156864,
@@ -1923,6 +2155,14 @@
       "category": "剧集,民生新闻"
     },
     {
+      "raw_hot": 154371,
+      "num": 227753,
+      "word": "陈梦回忆因麒麟臂漏洞退赛",
+      "onboard_time": 1747007541,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154279,
       "num": 342862,
       "word": "妈妈级马拉松运动员如何重回巅峰",
@@ -1937,6 +2177,14 @@
       "onboard_time": 1746929781,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "飞机餐需要60多位厨师",
+      "onboard_time": 1747013781,
+      "rank": 40,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 153759,
@@ -1987,12 +2235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149979,
+      "num": 207802,
+      "word": "迪丽热巴问张凌赫金靖怎么老在号脉",
+      "onboard_time": 1747011441,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149914,
       "num": 149914,
       "word": "刘浩存王安宇都营业了",
       "onboard_time": 1746935061,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149832,
+      "num": 149832,
+      "word": "汶川地震紧急转移大熊猫画面",
+      "onboard_time": 1747011322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149821,
@@ -2067,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145801,
+      "num": 145801,
+      "word": "JackeyLove回应参加solo",
+      "onboard_time": 1747013541,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145605,
       "num": 145605,
       "word": "原来这么干都是无效减重",
@@ -2131,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143657,
+      "num": 205185,
+      "word": "VaVa为浪姐决赛曲连发五条微博",
+      "onboard_time": 1747014681,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143582,
       "num": 143582,
       "word": "上门做饭月薪近2万女子再谈现状",
@@ -2153,6 +2433,14 @@
       "onboard_time": 1747005620,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142092,
+      "num": 142092,
+      "word": "王宝宝 爱水水",
+      "onboard_time": 1747013421,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 142047,
@@ -2193,6 +2481,14 @@
       "onboard_time": 1746939441,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140156,
+      "num": 140156,
+      "word": "倪虹洁一家八口跳手势舞",
+      "onboard_time": 1747013660,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140131,
@@ -2363,6 +2659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135338,
+      "num": 135338,
+      "word": "网传杨幂主演江山大同",
+      "onboard_time": 1747010782,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135129,
       "num": 135129,
       "word": "巴基斯坦民众坐在远火发射车旁",
@@ -2440,6 +2744,14 @@
       "word": "WTT发文为王楚钦庆生",
       "onboard_time": 1746925821,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131992,
+      "num": 131992,
+      "word": "马龙握手送别孙颖莎出征多哈",
+      "onboard_time": 1747012340,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2569,6 +2881,14 @@
       "onboard_time": 1746973702,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124705,
+      "num": 124705,
+      "word": "西藏拉孜发生5.5级地震",
+      "onboard_time": 1747005620,
+      "rank": 35,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 123977,
@@ -3019,22 +3339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99597,
-      "num": 99597,
-      "word": "他们用行动证明没什么能打垮中国人",
-      "onboard_time": 1746984257,
-      "rank": 21,
-      "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 98114,
-      "num": 644807,
-      "word": "中美经贸高层会谈取得了实质性进展",
-      "onboard_time": 1747006159,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 97929,
       "num": 214255,
       "word": "中方绝不会牺牲原则立场与美达成协议",
@@ -3219,14 +3523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89442,
-      "num": 89442,
-      "word": "西藏拉孜发生5.5级地震",
-      "onboard_time": 1747005620,
-      "rank": 35,
-      "category": "民生新闻,民生新闻"
-    },
-    {
       "raw_hot": 89307,
       "num": 89307,
       "word": "丁俊晖回应若赵心童先大满贯怎么办",
@@ -3379,12 +3675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76222,
+      "num": 1122755,
+      "word": "网警查处一起出售公民个人信息案",
+      "onboard_time": 1747012462,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
       "onboard_time": 1746889161,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74067,
+      "num": 222572,
+      "word": "现货黄金低开逾1%",
+      "onboard_time": 1747008321,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 72547,
@@ -3401,6 +3713,14 @@
       "onboard_time": 1746970162,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72320,
+      "num": 203808,
+      "word": "郑钦文离罗马战萨巴伦卡还差一胜",
+      "onboard_time": 1747014742,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 71883,
@@ -3584,14 +3904,6 @@
       "word": "这只瓶子上藏着对妈妈的爱",
       "onboard_time": 1746955221,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55563,
-      "num": 164509,
-      "word": "航拍今日汶川看泪目了",
-      "onboard_time": 1747005798,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4353,6 +4665,14 @@
       "onboard_time": 1746935481,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9200,
+      "num": 160936,
+      "word": "从地震救援看到科技进步的意义",
+      "onboard_time": 1747015101,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8137,
