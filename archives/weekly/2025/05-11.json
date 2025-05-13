@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747141701103,
+  "endTime": 1747143467000,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667070,
+      "num": 667070,
+      "word": "月经是女性健康的试金石",
+      "onboard_time": 1747142001,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 665901,
       "num": 665901,
       "word": "印巴同意立即停火",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1746936200,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631443,
+      "num": 631443,
+      "word": "将门毒后",
+      "onboard_time": 1747138822,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 623277,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557269,
+      "num": 557269,
+      "word": "李现关注了刘亦菲",
+      "onboard_time": 1747141942,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554176,
       "num": 455689,
       "word": "金龟子女儿1分钟视频报价15万",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1747031842,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 507568,
+      "num": 507568,
+      "word": "徐艺洋没吃过爱情的苦",
+      "onboard_time": 1747140801,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 506186,
@@ -2611,12 +2643,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 282369,
-      "num": 282369,
-      "word": "将门毒后",
-      "onboard_time": 1747138822,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 282696,
+      "num": 282696,
+      "word": "北京冰雹好大",
+      "onboard_time": 1747141822,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281645,
@@ -2740,7 +2772,7 @@
     },
     {
       "raw_hot": 264272,
-      "num": 186938,
+      "num": 196872,
       "word": "魏建军称网友的声音都听到了",
       "onboard_time": 1747139960,
       "rank": 30,
@@ -3033,6 +3065,14 @@
       "onboard_time": 1747035624,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 239619,
+      "num": 305160,
+      "word": "深圳中院回应退休夫妻负债1.2亿",
+      "onboard_time": 1747139481,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239483,
@@ -3827,6 +3867,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 198945,
+      "num": 198945,
+      "word": "戛纳",
+      "onboard_time": 1747141100,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198577,
       "num": 198577,
       "word": "花海清融Fly怎么总是你们",
@@ -3897,6 +3945,14 @@
       "onboard_time": 1747130601,
       "rank": 14,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 194172,
+      "num": 213934,
+      "word": "8岁男孩落水父母下水施救父亲遇难",
+      "onboard_time": 1747137141,
+      "rank": 20,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 194006,
@@ -4443,6 +4499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180480,
+      "num": 180480,
+      "word": "刘宇宁太高扇不到脸",
+      "onboard_time": 1747141221,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180086,
       "num": 165618,
       "word": "黄晓明金世佳是以同等学力申请读博",
@@ -4867,14 +4931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 167212,
-      "num": 167212,
-      "word": "戛纳",
-      "onboard_time": 1747141100,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167079,
       "num": 190925,
       "word": "喻言音乐节",
@@ -5079,14 +5135,6 @@
       "num": 161610,
       "word": "小沈月最近又在哪闯祸呢",
       "onboard_time": 1747060044,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161474,
-      "num": 161474,
-      "word": "徐艺洋没吃过爱情的苦",
-      "onboard_time": 1747140801,
       "rank": 32,
       "category": "艺人"
     },
@@ -5483,14 +5531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154504,
-      "num": 154504,
-      "word": "刘宇宁太高扇不到脸",
-      "onboard_time": 1747141221,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154371,
       "num": 227753,
       "word": "陈梦回忆因麒麟臂漏洞退赛",
@@ -5689,6 +5729,14 @@
       "onboard_time": 1746935120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149432,
+      "num": 149432,
+      "word": "凑60多万为农村父母建别墅3姐妹发声",
+      "onboard_time": 1747137622,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149304,
@@ -6299,6 +6347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138689,
+      "num": 138689,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1747143082,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138606,
       "num": 138606,
       "word": "和平精英",
@@ -6481,6 +6537,14 @@
       "onboard_time": 1746938001,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 353802,
+      "word": "多方回应小伙为救同学错过考试",
+      "onboard_time": 1747140020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134597,
@@ -6745,14 +6809,6 @@
       "onboard_time": 1747099700,
       "rank": 33,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 129434,
-      "num": 129434,
-      "word": "凑60多万为农村父母建别墅3姐妹发声",
-      "onboard_time": 1747137622,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129318,
@@ -7291,6 +7347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119427,
+      "num": 119427,
+      "word": "大疆Mavic4Pro",
+      "onboard_time": 1747142481,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 119386,
       "num": 119386,
       "word": "苹果渠道官方调价",
@@ -7441,6 +7505,14 @@
       "onboard_time": 1746959842,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116592,
+      "num": 116592,
+      "word": "一关灯姥姥姥爷就会甜蜜互动",
+      "onboard_time": 1747142781,
+      "rank": 43,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 116076,
@@ -7691,14 +7763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111361,
-      "num": 111361,
-      "word": "深圳中院回应退休夫妻负债1.2亿",
-      "onboard_time": 1747139481,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110989,
       "num": 110989,
       "word": "沈月一笑就知道她又嗑到了",
@@ -7841,6 +7905,14 @@
       "onboard_time": 1747126221,
       "rank": 45,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 107301,
+      "num": 107301,
+      "word": "大疆新品",
+      "onboard_time": 1747142602,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 107195,
@@ -7993,6 +8065,14 @@
       "onboard_time": 1747105459,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102346,
+      "num": 102346,
+      "word": "37度的嘴怎么能说出这么冰冷的话",
+      "onboard_time": 1747143322,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 102147,
@@ -8707,14 +8787,6 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 75403,
-      "num": 213934,
-      "word": "8岁男孩落水父母下水施救父亲遇难",
-      "onboard_time": 1747137141,
-      "rank": 20,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
@@ -8995,14 +9067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63810,
-      "num": 353802,
-      "word": "多方回应小伙为救同学错过考试",
-      "onboard_time": 1747140020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63780,
       "num": 315732,
       "word": "乐见潮向音乐节超好拍",
@@ -9172,7 +9236,7 @@
     },
     {
       "raw_hot": 56959,
-      "num": 168693,
+      "num": 215411,
       "word": "军事竞赛夺冠的她回校看望张桂梅",
       "onboard_time": 1747141401,
       "rank": 29,
@@ -9595,6 +9659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45751,
+      "num": 199867,
+      "word": "胡锡进谈美国输了",
+      "onboard_time": 1747141761,
+      "rank": 29,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 45343,
       "num": 247705,
       "word": "为啥以前结婚得带户口本",
@@ -9643,20 +9715,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44327,
+      "num": 377795,
+      "word": "岳云鹏朱广权体验理想汽车",
+      "onboard_time": 1747137859,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44256,
       "num": 56748,
       "word": "王鹤棣压线逆风翻盘",
       "onboard_time": 1746898277,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44028,
-      "num": 377795,
-      "word": "岳云鹏朱广权体验理想汽车",
-      "onboard_time": 1747137859,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 43931,
@@ -10083,6 +10155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32124,
+      "num": 200081,
+      "word": "部分摄影师称不理解撕拉片走红",
+      "onboard_time": 1747141882,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31826,
       "num": 188300,
       "word": "3D全景还原印巴冲突19天",
@@ -10217,6 +10297,14 @@
       "onboard_time": 1746955281,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27058,
+      "num": 209725,
+      "word": "阿尔卡拉斯首进罗马大师赛八强",
+      "onboard_time": 1747142001,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 26750,
@@ -10441,6 +10529,14 @@
       "onboard_time": 1747117881,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22110,
+      "num": 199839,
+      "word": "牛仔半裙怎么洗才能既干净又不掉色",
+      "onboard_time": 1747142181,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 22100,
@@ -11011,6 +11107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12376,
+      "num": 263101,
+      "word": "隐形式车门把手存在哪些问题",
+      "onboard_time": 1747143082,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 12355,
       "num": 17498,
       "word": "中国品牌日",
@@ -11161,6 +11265,14 @@
       "onboard_time": 1747038563,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7396,
+      "num": 887135,
+      "word": "我国页岩气井垂深纪录刷新",
+      "onboard_time": 1747143322,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7079,
