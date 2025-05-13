@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747164075419,
+  "endTime": 1747164994113,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17662,
+      "num": 48372,
+      "word": "欢迎巴西总统访华",
+      "onboard_time": 1747163054,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15959,
       "num": 66805,
       "word": "今天在北京开的这个会值得美国掂量",
@@ -491,12 +499,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11613,
-      "num": 48372,
-      "word": "欢迎巴西总统访华",
-      "onboard_time": 1747163054,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 13888,
+      "num": 20899,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13761,
+      "num": 20892,
+      "word": "我们好极了歌会",
+      "onboard_time": 1747159217,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9903,
+      "num": 31400,
+      "word": "在札幌的中国同胞中国游客小心熊出没",
+      "onboard_time": 1747164254,
+      "rank": 14,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

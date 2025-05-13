@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/14 00:33:05 ~ 2025/05/14 03:21:15
+本榜单时间：2025/05/14 00:33:05 ~ 2025/05/14 03:36:34
 </p>
 </blockquote>
 <p>
@@ -375,14 +375,32 @@ iG战胜JDG（热度：35332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%23" target="weibo">
+欢迎巴西总统访华（热度：17662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%BC%80%E7%9A%84%E8%BF%99%E4%B8%AA%E4%BC%9A%E5%80%BC%E5%BE%97%E7%BE%8E%E5%9B%BD%E6%8E%82%E9%87%8F%23" target="weibo">
 今天在北京开的这个会值得美国掂量（热度：15959）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%23" target="weibo">
-欢迎巴西总统访华（热度：11613）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B959%E5%90%8D%E5%8D%97%E9%9D%9E%E7%99%BD%E4%BA%BA%E9%9A%BE%E6%B0%91%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%23" target="weibo">
+首批59名南非白人难民抵达美国（热度：13888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%A5%BD%E6%9E%81%E4%BA%86%E6%AD%8C%E4%BC%9A%23" target="weibo">
+我们好极了歌会（热度：13761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9C%AD%E5%B9%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%8C%E8%83%9E%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%BF%83%E7%86%8A%E5%87%BA%E6%B2%A1%23" target="weibo">
+在札幌的中国同胞中国游客小心熊出没（热度：9903）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/11 00:28:59 ~ 2025/05/14 03:21:15
+本榜单时间：2025/05/11 00:28:59 ~ 2025/05/14 03:36:34
 </p>
 </blockquote>
 <p>
@@ -8595,6 +8595,12 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%23" target="weibo">
+欢迎巴西总统访华（热度：17662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E7%8C%AB%E5%92%AA%E9%A2%86%E5%85%BB%E6%9A%97%E8%97%8F%E5%93%AA%E4%BA%9B%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF%23" target="weibo">
 免费猫咪领养暗藏哪些诈骗套路（热度：17625）
 </a>
@@ -8781,8 +8787,20 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B959%E5%90%8D%E5%8D%97%E9%9D%9E%E7%99%BD%E4%BA%BA%E9%9A%BE%E6%B0%91%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%23" target="weibo">
+首批59名南非白人难民抵达美国（热度：13888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%9947%E4%B8%87%E4%BA%BA%E9%A5%A5%E9%A5%BF%E5%9B%B0%E5%A2%83%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8C%96%E8%A7%A3%23" target="weibo">
 加沙47万人饥饿困境该如何化解（热度：13804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%A5%BD%E6%9E%81%E4%BA%86%E6%AD%8C%E4%BC%9A%23" target="weibo">
+我们好极了歌会（热度：13761）
 </a>
 </li>
 
@@ -8859,12 +8877,6 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E5%B7%B4%E8%A5%BF%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E%23" target="weibo">
-欢迎巴西总统访华（热度：11613）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E7%9C%8B%E8%BF%99%E5%9C%BA%E6%8E%A5%E5%8A%9B%E8%B5%9B%E8%BF%98%E6%98%AF%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE%23" target="weibo">
 再看这场接力赛还是热血沸腾（热度：11300）
 </a>
@@ -8897,6 +8909,12 @@ AI换脸能否挽回赴山海的播出命运（热度：19176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E8%90%8C%E5%9B%9E%E5%BF%86%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E4%B8%AD%E7%9A%84%E6%9C%B1%E5%A4%A7%E7%88%B7%23" target="weibo">
 李小萌回忆汶川地震中的朱大爷（热度：9969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9C%AD%E5%B9%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%8C%E8%83%9E%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%BF%83%E7%86%8A%E5%87%BA%E6%B2%A1%23" target="weibo">
+在札幌的中国同胞中国游客小心熊出没（热度：9903）
 </a>
 </li>
 
