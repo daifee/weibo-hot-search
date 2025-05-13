@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747140777362,
+  "endTime": 1747141701103,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1833597,
+      "num": 1833597,
+      "word": "京东美团饿了么等外卖平台被约谈",
+      "onboard_time": 1747136661,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1827568,
       "num": 422351,
       "word": "小英怒斥小三",
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1609615,
-      "num": 1609615,
-      "word": "京东美团饿了么等外卖平台被约谈",
-      "onboard_time": 1747136661,
-      "rank": 0,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1594357,
       "num": 484514,
       "word": "麒麟 王楚钦",
@@ -187,8 +187,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1537201,
-      "num": 579446,
+      "raw_hot": 1547300,
+      "num": 699270,
       "word": "特朗普突然提统一吓坏台当局",
       "onboard_time": 1747134621,
       "rank": 17,
@@ -361,6 +361,14 @@
       "onboard_time": 1747038624,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1220473,
+      "num": 1220473,
+      "word": "北京冰雹",
+      "onboard_time": 1747139241,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1209727,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717377,
+      "num": 717377,
+      "word": "中国巴西发表联合声明",
+      "onboard_time": 1747139362,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 716918,
       "num": 716918,
       "word": "下跪求饶必为中国人民所不齿",
@@ -849,14 +865,6 @@
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 696493,
-      "num": 696493,
-      "word": "中国巴西发表联合声明",
-      "onboard_time": 1747139362,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 690717,
@@ -939,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 649371,
+      "num": 622791,
+      "word": "折腰第4集绝了",
+      "onboard_time": 1747133062,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 648502,
       "num": 330129,
       "word": "巴基斯坦向印度发射导弹现场",
@@ -993,14 +1009,6 @@
       "onboard_time": 1746939501,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 622791,
-      "num": 622791,
-      "word": "折腰第4集绝了",
-      "onboard_time": 1747133062,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 617977,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1747111462,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 579505,
-      "num": 579505,
-      "word": "北京冰雹",
-      "onboard_time": 1747139241,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 579239,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401384,
+      "num": 401384,
+      "word": "刘亦菲为李现新剧宣传",
+      "onboard_time": 1747136300,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399898,
       "num": 399898,
       "word": "李凯馨",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1747115602,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379530,
-      "num": 379530,
-      "word": "刘亦菲为李现新剧宣传",
-      "onboard_time": 1747136300,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 377637,
@@ -2611,6 +2611,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 282369,
+      "num": 282369,
+      "word": "将门毒后",
+      "onboard_time": 1747138822,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281645,
       "num": 281645,
       "word": "林心如晒8岁女儿手写卡片",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1747126163,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 264272,
+      "num": 186938,
+      "word": "魏建军称网友的声音都听到了",
+      "onboard_time": 1747139960,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 263183,
@@ -2864,14 +2880,6 @@
       "word": "赴山海除名李凯馨",
       "onboard_time": 1746868222,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250249,
-      "num": 250249,
-      "word": "将门毒后",
-      "onboard_time": 1747138822,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -3011,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241037,
+      "num": 225064,
+      "word": "沪上阿姨鞠婧祎",
+      "onboard_time": 1747138640,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239839,
       "num": 239839,
       "word": "A股港股彻底爆发",
@@ -3033,14 +3049,6 @@
       "onboard_time": 1747103361,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 239172,
-      "num": 186938,
-      "word": "魏建军称网友的声音都听到了",
-      "onboard_time": 1747139960,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 238621,
@@ -3160,14 +3168,6 @@
       "word": "金龟子女儿回应蹭妈妈流量",
       "onboard_time": 1747035083,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 225064,
-      "num": 225064,
-      "word": "沪上阿姨鞠婧祎",
-      "onboard_time": 1747138640,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -4867,6 +4867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167212,
+      "num": 167212,
+      "word": "戛纳",
+      "onboard_time": 1747141100,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167079,
       "num": 190925,
       "word": "喻言音乐节",
@@ -5075,12 +5083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161474,
+      "num": 161474,
+      "word": "徐艺洋没吃过爱情的苦",
+      "onboard_time": 1747140801,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161289,
       "num": 168494,
       "word": "2025中国乒超联赛时间确定",
       "onboard_time": 1747111582,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161233,
+      "num": 189211,
+      "word": "JDG对战iG",
+      "onboard_time": 1747140681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 160875,
@@ -5339,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156480,
+      "num": 156480,
+      "word": "别人troublemaker你俩doublejoke",
+      "onboard_time": 1747140861,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156364,
       "num": 179806,
       "word": "中美发布联合声明",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1747042642,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154504,
+      "num": 154504,
+      "word": "刘宇宁太高扇不到脸",
+      "onboard_time": 1747141221,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154371,
@@ -6707,6 +6747,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 129434,
+      "num": 129434,
+      "word": "凑60多万为农村父母建别墅3姐妹发声",
+      "onboard_time": 1747137622,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129318,
       "num": 129318,
       "word": "2025年国际乒联第20周排名",
@@ -7057,14 +7105,6 @@
       "onboard_time": 1747068438,
       "rank": 48,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 122789,
-      "num": 122789,
-      "word": "凑60多万为农村父母建别墅3姐妹发声",
-      "onboard_time": 1747137622,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122759,
@@ -7563,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113975,
+      "num": 113975,
+      "word": "夫妻滇藏自驾遇狗子腹泻暴击",
+      "onboard_time": 1747138101,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113846,
       "num": 113846,
       "word": "AG发长文",
@@ -7585,14 +7633,6 @@
       "onboard_time": 1747127001,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113384,
-      "num": 113384,
-      "word": "JDG对战iG",
-      "onboard_time": 1747140681,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 113308,
@@ -7931,6 +7971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103423,
+      "num": 103423,
+      "word": "羌族人结婚的排场有多大",
+      "onboard_time": 1747139362,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103319,
       "num": 103319,
       "word": "特斯拉家长设置时速后驾驶员无法更改",
@@ -7961,6 +8009,14 @@
       "onboard_time": 1747120522,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 100978,
+      "num": 392477,
+      "word": "前MCN高管谈克里西账号被封",
+      "onboard_time": 1747140141,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 100964,
@@ -8651,6 +8707,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 75403,
+      "num": 213934,
+      "word": "8岁男孩落水父母下水施救父亲遇难",
+      "onboard_time": 1747137141,
+      "rank": 20,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 75031,
       "num": 102047,
       "word": "丁俊晖谈赵心童夺冠",
@@ -8931,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63810,
+      "num": 353802,
+      "word": "多方回应小伙为救同学错过考试",
+      "onboard_time": 1747140020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63780,
       "num": 315732,
       "word": "乐见潮向音乐节超好拍",
@@ -9043,6 +9115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 58820,
+      "num": 115240,
+      "word": "董军同法国国防部长会谈",
+      "onboard_time": 1747141342,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58793,
       "num": 58793,
       "word": "利物浦vs阿森纳",
@@ -9088,6 +9168,14 @@
       "word": "这只瓶子上藏着对妈妈的爱",
       "onboard_time": 1746955221,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56959,
+      "num": 168693,
+      "word": "军事竞赛夺冠的她回校看望张桂梅",
+      "onboard_time": 1747141401,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -9563,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44028,
+      "num": 377795,
+      "word": "岳云鹏朱广权体验理想汽车",
+      "onboard_time": 1747137859,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43931,
       "num": 217841,
       "word": "宁德时代将在港上市",
@@ -9675,14 +9771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41389,
-      "num": 353802,
-      "word": "多方回应小伙为救同学错过考试",
-      "onboard_time": 1747140020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41005,
       "num": 339388,
       "word": "美国从芭比娃娃到洗衣机都在涨价",
@@ -9705,14 +9793,6 @@
       "onboard_time": 1747112722,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40184,
-      "num": 392477,
-      "word": "前MCN高管谈克里西账号被封",
-      "onboard_time": 1747140141,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 40157,
@@ -9785,14 +9865,6 @@
       "onboard_time": 1747110324,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 38498,
-      "num": 377795,
-      "word": "岳云鹏朱广权体验理想汽车",
-      "onboard_time": 1747137859,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 38118,
@@ -11089,6 +11161,14 @@
       "onboard_time": 1747038563,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7079,
+      "num": 215691,
+      "word": "哪种西北杂粮有降血脂的成分",
+      "onboard_time": 1747141342,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6729,
