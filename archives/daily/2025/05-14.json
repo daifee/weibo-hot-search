@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747172327780,
+  "endTime": 1747175128092,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113560,
+      "num": 113560,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113270,
       "num": 113270,
       "word": "为什么我们的衣服越来越难买了",
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99342,
-      "num": 99342,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95019,
       "num": 95019,
       "word": "医生辟谣生理期不能吃冰不能吃辣",
@@ -257,6 +257,14 @@
       "onboard_time": 1747146502,
       "rank": 30,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 89565,
+      "num": 89565,
+      "word": "河南5名干部违规吃喝饮酒1人死亡",
+      "onboard_time": 1747150161,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89344,
@@ -289,14 +297,6 @@
       "onboard_time": 1747135460,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 84455,
-      "num": 84455,
-      "word": "河南5名干部违规吃喝饮酒1人死亡",
-      "onboard_time": 1747150161,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 84430,
@@ -419,12 +419,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48744,
+      "raw_hot": 49951,
       "num": 48744,
       "word": "官方通报珠海发生旋挖桩机倾倒事件",
       "onboard_time": 1747155678,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46376,
+      "num": 46376,
+      "word": "李现人缘",
+      "onboard_time": 1747165334,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44286,
+      "num": 46187,
+      "word": "邱淑贞带两个女儿同游西安",
+      "onboard_time": 1747173014,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 39739,
@@ -443,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35419,
-      "num": 46020,
-      "word": "李现人缘",
-      "onboard_time": 1747165334,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35332,
       "num": 35332,
       "word": "iG战胜JDG",
@@ -459,31 +467,55 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24364,
-      "num": 24364,
-      "word": "折腰腾讯站内热度值破23000",
-      "onboard_time": 1747160476,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23211,
-      "num": 23646,
-      "word": "刘诗诗长沙线下活动",
-      "onboard_time": 1747160595,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21412,
-      "num": 23658,
+      "raw_hot": 32964,
+      "num": 32964,
       "word": "韩彩英45岁状态",
       "onboard_time": 1747147104,
       "rank": 47,
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 20560,
+      "raw_hot": 30831,
+      "num": 30831,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24364,
+      "num": 27054,
+      "word": "折腰腾讯站内热度值破23000",
+      "onboard_time": 1747160476,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23223,
+      "num": 27051,
+      "word": "肖战藏海传造型暗藏玄机",
+      "onboard_time": 1747165995,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23211,
+      "num": 27044,
+      "word": "刘诗诗长沙线下活动",
+      "onboard_time": 1747160595,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21637,
+      "num": 27050,
+      "word": "陕西首富范代娣夫妇商业版图盘点",
+      "onboard_time": 1747155198,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21217,
       "num": 72297,
       "word": "中国始终做拉美和加勒比国家的好朋友",
       "onboard_time": 1747160114,
@@ -491,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18499,
-      "num": 20899,
-      "word": "首批59名南非白人难民抵达美国",
-      "onboard_time": 1747164733,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 18928,
+      "num": 66805,
+      "word": "今天在北京开的这个会值得美国掂量",
+      "onboard_time": 1747161434,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17662,
@@ -507,28 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17079,
-      "num": 17944,
-      "word": "陕西首富范代娣夫妇商业版图盘点",
-      "onboard_time": 1747155198,
-      "rank": 32,
+      "raw_hot": 16344,
+      "num": 27046,
+      "word": "拉美朋友转机2次用上3天来北京",
+      "onboard_time": 1747171574,
+      "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16406,
-      "num": 17944,
-      "word": "肖战藏海传造型暗藏玄机",
-      "onboard_time": 1747165995,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15959,
-      "num": 66805,
-      "word": "今天在北京开的这个会值得美国掂量",
-      "onboard_time": 1747161434,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14310,
@@ -593,14 +609,6 @@
       "onboard_time": 1747167614,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10056,
-      "num": 18530,
-      "word": "拉美朋友转机2次用上3天来北京",
-      "onboard_time": 1747171574,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8545,
