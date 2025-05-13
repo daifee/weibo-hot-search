@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747110670417,
+  "endTime": 1747111530547,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3497207,
+      "num": 3497207,
+      "word": "一天官宣三部大剧",
+      "onboard_time": 1747106902,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3492105,
       "num": 3492105,
       "word": "什么是爆肺",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1736502681,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3445548,
-      "num": 3445548,
-      "word": "一天官宣三部大剧",
-      "onboard_time": 1747106902,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 3437147,

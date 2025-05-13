@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747110670417,
+  "endTime": 1747111530547,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -67,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3497207,
+      "num": 3497207,
+      "word": "一天官宣三部大剧",
+      "onboard_time": 1747106902,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3458319,
       "num": 3458319,
       "word": "五三惨案",
       "onboard_time": 1746242841,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3445548,
-      "num": 3445548,
-      "word": "一天官宣三部大剧",
-      "onboard_time": 1747106902,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 3423802,
@@ -923,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1452236,
+      "num": 577510,
+      "word": "南烟斋笔录",
+      "onboard_time": 1747108823,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1442114,
       "num": 1442114,
       "word": "公积金贷款利率降0.25个百分点",
@@ -936,14 +944,6 @@
       "word": "藏海传定档",
       "onboard_time": 1747102341,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1436933,
-      "num": 577510,
-      "word": "南烟斋笔录",
-      "onboard_time": 1747108823,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1467,6 +1467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1225450,
+      "num": 539545,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1220931,
       "num": 1220931,
       "word": "鞠婧祎 沪上阿姨",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1746879863,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1178132,
-      "num": 539545,
-      "word": "折腰",
-      "onboard_time": 1747038624,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 1171885,
@@ -2393,6 +2393,14 @@
       "onboard_time": 1746860301,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 942477,
+      "num": 942477,
+      "word": "小龙虾价格暴降近50%",
+      "onboard_time": 1747106242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941733,
@@ -3297,14 +3305,6 @@
       "onboard_time": 1746575120,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 776077,
-      "num": 776077,
-      "word": "小龙虾价格暴降近50%",
-      "onboard_time": 1747106242,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 775611,
@@ -5467,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 550623,
+      "num": 550623,
+      "word": "一救护车疑在墨脱旅游拉警报开道",
+      "onboard_time": 1747109062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549471,
       "num": 549471,
       "word": "TheShy五杀",
@@ -6505,6 +6513,14 @@
       "onboard_time": 1746357021,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477667,
+      "num": 477667,
+      "word": "被年轻人精致穷的消费观震惊了",
+      "onboard_time": 1747108401,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 477395,
@@ -8019,14 +8035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 399665,
-      "num": 399665,
-      "word": "被年轻人精致穷的消费观震惊了",
-      "onboard_time": 1747108401,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 399566,
       "num": 399566,
       "word": "孟子义演技",
@@ -8057,6 +8065,14 @@
       "onboard_time": 1746412401,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397564,
+      "num": 397564,
+      "word": "林更新再现与赵丽颖合作造型",
+      "onboard_time": 1747110623,
+      "rank": 29,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 397506,
@@ -8521,6 +8537,14 @@
       "onboard_time": 1746282085,
       "rank": 49,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 374147,
+      "num": 377565,
+      "word": "泼汽油男子父亲希望女方出具谅解书",
+      "onboard_time": 1747107624,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374143,
@@ -9283,6 +9307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 345076,
+      "num": 199802,
+      "word": "折腰滤镜",
+      "onboard_time": 1747111283,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345005,
       "num": 345005,
       "word": "时代少年团演唱会",
@@ -9609,14 +9641,6 @@
       "onboard_time": 1746400578,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 334156,
-      "num": 377565,
-      "word": "泼汽油男子父亲希望女方出具谅解书",
-      "onboard_time": 1747107624,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333938,
@@ -10537,6 +10561,14 @@
       "onboard_time": 1746842071,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 304782,
+      "num": 541537,
+      "word": "中美联合声明是中国反制的胜利",
+      "onboard_time": 1747108102,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 304780,
@@ -12811,14 +12843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250184,
-      "num": 250184,
-      "word": "林更新再现与赵丽颖合作造型",
-      "onboard_time": 1747110623,
-      "rank": 29,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 250115,
       "num": 250115,
       "word": "杨紫无缝进组",
@@ -13467,20 +13491,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237370,
-      "num": 456609,
-      "word": "一救护车疑在墨脱旅游拉警报开道",
-      "onboard_time": 1747109062,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236936,
       "num": 236936,
       "word": "斗罗大陆2动画",
       "onboard_time": 1746800424,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 236934,
+      "num": 399840,
+      "word": "粉色张艺兴",
+      "onboard_time": 1747107624,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 236913,
@@ -13561,6 +13585,14 @@
       "onboard_time": 1746687862,
       "rank": 31,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 233792,
+      "num": 233792,
+      "word": "乘风2025成团夜分组",
+      "onboard_time": 1747111103,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 233622,
@@ -13675,20 +13707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231738,
+      "num": 272640,
+      "word": "乘风2025",
+      "onboard_time": 1746939441,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231700,
       "num": 231700,
       "word": "韩安冉老公拍戏被男一蛐蛐",
       "onboard_time": 1746362606,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 231574,
-      "num": 399840,
-      "word": "粉色张艺兴",
-      "onboard_time": 1747107624,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 231531,
@@ -14267,6 +14299,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 222392,
+      "num": 460643,
+      "word": "13岁女孩称以为是妈妈让女教官打自己",
+      "onboard_time": 1747110805,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222390,
       "num": 222390,
       "word": "警方回应百万粉丝网红疑遭勒索自杀",
@@ -14627,14 +14667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 216764,
-      "num": 541537,
-      "word": "中美联合声明是中国反制的胜利",
-      "onboard_time": 1747108102,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 216706,
       "num": 216706,
       "word": "计算机二级成绩",
@@ -14843,6 +14875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213628,
+      "num": 213628,
+      "word": "黄奕采访哭了一分钟",
+      "onboard_time": 1747110623,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 213596,
       "num": 213596,
       "word": "周深说不断探索才能抵达梦想",
@@ -15011,20 +15051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210956,
-      "num": 272640,
-      "word": "乘风2025",
-      "onboard_time": 1746939441,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210951,
       "num": 210951,
       "word": "小鸡小鸡是王蓉唯一一首赚钱的歌",
       "onboard_time": 1746425663,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210932,
+      "num": 210932,
+      "word": "原神",
+      "onboard_time": 1746605004,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 210786,
@@ -18091,6 +18131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191534,
+      "num": 191534,
+      "word": "藏海传好权威的阵容",
+      "onboard_time": 1747111044,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191488,
       "num": 191488,
       "word": "小猫已经暗示得这么明显了",
@@ -18603,6 +18651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 189334,
+      "num": 189334,
+      "word": "春夏",
+      "onboard_time": 1747110203,
+      "rank": 35,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 189331,
       "num": 290567,
       "word": "肖战得闲谨制推介会",
@@ -18681,6 +18737,14 @@
       "onboard_time": 1746944721,
       "rank": 42,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 188976,
+      "num": 188976,
+      "word": "生在这家背辈分不亚于高考",
+      "onboard_time": 1747110085,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 188863,
@@ -19017,14 +19081,6 @@
       "onboard_time": 1746834859,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187092,
-      "num": 187092,
-      "word": "春夏",
-      "onboard_time": 1747110203,
-      "rank": 35,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 187090,
@@ -20675,14 +20731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175136,
-      "num": 175136,
-      "word": "原神",
-      "onboard_time": 1746605004,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175105,
       "num": 175105,
       "word": "苏醒出道十八年工龄才三五年",
@@ -20704,14 +20752,6 @@
       "word": "一定要让猫咪们远离头绳皮筋",
       "onboard_time": 1747014441,
       "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 175025,
-      "num": 175025,
-      "word": "生在这家背辈分不亚于高考",
-      "onboard_time": 1747110085,
-      "rank": 38,
       "category": "幽默"
     },
     {
@@ -20873,6 +20913,14 @@
       "onboard_time": 1746668841,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 173832,
+      "num": 173832,
+      "word": "马吟吟 庐州月",
+      "onboard_time": 1747111462,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 173805,
@@ -21323,6 +21371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170156,
+      "num": 170156,
+      "word": "女子被困自家别墅电梯1天1夜",
+      "onboard_time": 1747111044,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170138,
       "num": 329966,
       "word": "世乒赛首日国乒赛程",
@@ -21675,6 +21731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168102,
+      "num": 168102,
+      "word": "终于有人把英语体系说清楚了",
+      "onboard_time": 1747111403,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168086,
       "num": 274557,
       "word": "中美关税时间线全梳理",
@@ -21849,14 +21913,6 @@
       "onboard_time": 1746787041,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166900,
-      "num": 166900,
-      "word": "黄奕采访哭了一分钟",
-      "onboard_time": 1747110623,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 166891,
@@ -24033,6 +24089,14 @@
       "onboard_time": 1746461841,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156127,
+      "num": 477940,
+      "word": "小龙虾价格腰斩还会再跌",
+      "onboard_time": 1747110743,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156110,
@@ -41883,6 +41947,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 38909,
+      "num": 853636,
+      "word": "中国坚定不移扩大高水平对外开放",
+      "onboard_time": 1747103182,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38673,
       "num": 246926,
       "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
@@ -41905,6 +41977,14 @@
       "onboard_time": 1747023683,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38611,
+      "num": 401395,
+      "word": "郑州通报健康证办理乱象查处",
+      "onboard_time": 1747110324,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 38533,
@@ -42043,6 +42123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 37335,
+      "num": 399773,
+      "word": "印巴空战详细复盘与深度研究",
+      "onboard_time": 1747110503,
+      "rank": 23,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 37309,
       "num": 64682,
       "word": "陈立农直播",
@@ -42121,14 +42209,6 @@
       "onboard_time": 1746169290,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 36729,
-      "num": 788236,
-      "word": "中国坚定不移扩大高水平对外开放",
-      "onboard_time": 1747103182,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36627,
@@ -43227,14 +43307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28976,
-      "num": 400433,
-      "word": "郑州通报健康证办理乱象查处",
-      "onboard_time": 1747110324,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 28871,
       "num": 152411,
       "word": "哪本财经证书的含金量还在上升",
@@ -43601,6 +43673,14 @@
       "onboard_time": 1746255801,
       "rank": 14,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 26581,
+      "num": 167670,
+      "word": "郑钦文连续三年晋级罗马站八强",
+      "onboard_time": 1747108763,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 26512,
@@ -46675,14 +46755,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 9735,
-      "num": 334124,
-      "word": "印巴空战详细复盘与深度研究",
-      "onboard_time": 1747110503,
-      "rank": 23,
-      "category": "国际时政,军事"
-    },
-    {
       "raw_hot": 9640,
       "num": 277594,
       "word": "地震时正在乘坐电梯该如何避震",
@@ -46729,6 +46801,14 @@
       "onboard_time": 1746528142,
       "rank": 39,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 9260,
+      "num": 402825,
+      "word": "狂野时代国际版预告讲什么",
+      "onboard_time": 1747110682,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 9229,
