@@ -1,0 +1,410 @@
+{
+  "runTime": 1747107052325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3107776,
+        "num": 3107776,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574682,
+        "num": 574682,
+        "word": "花500捞手机没捞到隔天定位在商场",
+        "onboard_time": 1747104081,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26363,
+        "num": 539599,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1240388,
+        "num": 539382,
+        "word": "藏海传定档",
+        "onboard_time": 1747102341,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525215,
+        "num": 525215,
+        "word": "日本16岁男孩谋杀祖父母后淡定上学",
+        "onboard_time": 1747101200,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362243,
+        "num": 362243,
+        "word": "股市",
+        "onboard_time": 1747105820,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 595466,
+        "num": 360471,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 354418,
+        "num": 354418,
+        "word": "肖战张婧仪领衔主演藏海传",
+        "onboard_time": 1747105582,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339705,
+        "num": 339705,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 8,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 335482,
+        "num": 335482,
+        "word": "女子皮肤可拉伸几厘米如橡皮人",
+        "onboard_time": 1747106480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298705,
+        "num": 333789,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 645580,
+        "num": 331123,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353368,
+        "num": 328200,
+        "word": "折腰云包场",
+        "onboard_time": 1747103720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688338,
+        "num": 325394,
+        "word": "藏海传对打折腰",
+        "onboard_time": 1747098621,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324570,
+        "num": 324570,
+        "word": "塔图姆受伤",
+        "onboard_time": 1747102580,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617955,
+        "num": 324429,
+        "word": "月薪3K带月薪5w体验低消费的一天",
+        "onboard_time": 1747098260,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557416,
+        "num": 322988,
+        "word": "宣璐领衔主演折腰",
+        "onboard_time": 1747102341,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77783,
+        "num": 322697,
+        "word": "你永远可以相信智己的底盘",
+        "onboard_time": 1747105459,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24800,
+        "num": 321743,
+        "word": "印巴冲突中莫迪面临哪些挑战",
+        "onboard_time": 1747106181,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207678,
+        "num": 320459,
+        "word": "小龙虾价格暴降近50%",
+        "onboard_time": 1747106242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518651,
+        "num": 319879,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372467,
+        "num": 319145,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334821,
+        "num": 317755,
+        "word": "折腰预告",
+        "onboard_time": 1747103961,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317678,
+        "num": 317678,
+        "word": "野狗骨头",
+        "onboard_time": 1747101681,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44955,
+        "num": 309435,
+        "word": "马刺 榜眼签",
+        "onboard_time": 1747105220,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19457,
+        "num": 305650,
+        "word": "骗子拿走女子30万现金翻墙被拦截",
+        "onboard_time": 1747106842,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304620,
+        "num": 304620,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284320,
+        "num": 284320,
+        "word": "李到晛今天退伍",
+        "onboard_time": 1747102281,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277783,
+        "num": 277783,
+        "word": "爸爸当家",
+        "onboard_time": 1747105582,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34935,
+        "num": 268404,
+        "word": "代孕窝点被端幕后老板来电求私了",
+        "onboard_time": 1747106600,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 268085,
+        "num": 268085,
+        "word": "小伙为救同学职教高考语文缺考",
+        "onboard_time": 1747094060,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 251446,
+        "num": 251446,
+        "word": "李晟大家不要熬夜给我投票了",
+        "onboard_time": 1747101561,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 21037,
+        "num": 249425,
+        "word": "福建8岁男孩爬山失联已超8天",
+        "onboard_time": 1747106902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248990,
+        "num": 248990,
+        "word": "人生若如初见今日开播",
+        "onboard_time": 1747105522,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239356,
+        "num": 239356,
+        "word": "金饰克价跌至987元",
+        "onboard_time": 1747103361,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224908,
+        "num": 224908,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 199034,
+        "num": 199034,
+        "word": "四大平台将上线新剧",
+        "onboard_time": 1747103482,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192323,
+        "num": 192323,
+        "word": "日本北海道发生无差别伤害案件",
+        "onboard_time": 1747104020,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191818,
+        "num": 191818,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23780,
+        "num": 191753,
+        "word": "几个在工作中极不成熟的表现",
+        "onboard_time": 1747106541,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 191746,
+        "num": 191746,
+        "word": "巴基斯坦空军指挥室内部照片",
+        "onboard_time": 1747104381,
+        "rank": 40,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 186603,
+        "num": 186603,
+        "word": "有了这十年才有觉醒年代",
+        "onboard_time": 1747106541,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174584,
+        "num": 174584,
+        "word": "国补版iPhone16Pro被抢空",
+        "onboard_time": 1747096762,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164452,
+        "num": 164452,
+        "word": "男子持刀讨要婚外情赠与财物被判3年",
+        "onboard_time": 1747104499,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163734,
+        "num": 163734,
+        "word": "深圳一海洋馆出现鱼吃鱼",
+        "onboard_time": 1747106541,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158588,
+        "num": 158588,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156507,
+        "num": 156507,
+        "word": "年中奖好小众的词",
+        "onboard_time": 1747101861,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139838,
+        "num": 139838,
+        "word": "脊柱侧弯千万不能做的动作",
+        "onboard_time": 1747093461,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138062,
+        "num": 138062,
+        "word": "周洁琼资源",
+        "onboard_time": 1747100841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134597,
+        "num": 134597,
+        "word": "郭晶晶再上央视做裁判",
+        "onboard_time": 1747106480,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
