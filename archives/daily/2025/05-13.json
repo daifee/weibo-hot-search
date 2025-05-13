@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747146415523,
+  "endTime": 1747147553733,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -219,8 +219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 909525,
-      "num": 909525,
+      "raw_hot": 924119,
+      "num": 924119,
       "word": "内娱谁敢接李现这样的造型",
       "onboard_time": 1747144042,
       "rank": 21,
@@ -315,6 +315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 721770,
+      "num": 721770,
+      "word": "折腰一出 拉郎遍地",
+      "onboard_time": 1747143863,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 717377,
       "num": 717377,
       "word": "中国巴西发表联合声明",
@@ -345,14 +353,6 @@
       "onboard_time": 1747127781,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 661611,
-      "num": 661611,
-      "word": "折腰一出 拉郎遍地",
-      "onboard_time": 1747143863,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 655415,
@@ -731,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 393365,
+      "num": 454928,
+      "word": "饮品店取名警茶贴警察卡通引争议",
+      "onboard_time": 1747145003,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391332,
       "num": 391332,
       "word": "藏海传无头驾驶",
       "onboard_time": 1747122202,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391109,
+      "num": 694759,
+      "word": "调整对原产美国的进口商品加征关税",
+      "onboard_time": 1747145784,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389859,
@@ -1091,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247803,
+      "num": 247803,
+      "word": "5句话防止孩子成为讨好型人格",
+      "onboard_time": 1747147461,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 245335,
       "num": 222372,
       "word": "王怡人 乐华",
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227335,
+      "num": 227335,
+      "word": "SEVENTEEN全员solo曲",
+      "onboard_time": 1747146502,
+      "rank": 25,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 226586,
       "num": 226586,
       "word": "小米SU7被货车碾压还能开车门放音乐",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1747033822,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 221048,
+      "num": 269368,
+      "word": "墨西哥市长候选人直播遭枪杀",
+      "onboard_time": 1747145723,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 220013,
@@ -1435,14 +1475,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 204296,
-      "num": 204296,
-      "word": "墨西哥市长候选人直播遭枪杀",
-      "onboard_time": 1747145723,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 204267,
       "num": 204267,
       "word": "一米六八小伙跟两米二女孩谈恋爱",
@@ -1451,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202950,
-      "num": 694759,
-      "word": "调整对原产美国的进口商品加征关税",
-      "onboard_time": 1747145784,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 202681,
+      "num": 395607,
+      "word": "上官正义曝光代孕团伙反侦查手段",
+      "onboard_time": 1747145425,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202625,
@@ -1963,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163747,
+      "num": 163747,
+      "word": "万有颖力cp官宣",
+      "onboard_time": 1747146802,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163734,
       "num": 163734,
       "word": "深圳一海洋馆出现鱼吃鱼",
@@ -2065,6 +2105,14 @@
       "onboard_time": 1747111823,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157946,
+      "num": 157946,
+      "word": "梁田认证恋综最帅男嘉宾胡嗲嗲",
+      "onboard_time": 1747146321,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 157763,
@@ -2203,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "代孕女子自曝酬劳16万元",
+      "onboard_time": 1747147043,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 151085,
       "num": 151085,
       "word": "nova14或将搭载潜望长焦镜头",
@@ -2292,7 +2348,7 @@
     },
     {
       "raw_hot": 141577,
-      "num": 153942,
+      "num": 232661,
       "word": "邱贻可回应与马龙两代人",
       "onboard_time": 1747146144,
       "rank": 40,
@@ -2369,6 +2425,14 @@
       "onboard_time": 1747117701,
       "rank": 46,
       "category": "电竞,游戏"
+    },
+    {
+      "raw_hot": 138014,
+      "num": 138014,
+      "word": "韩彩英45岁状态",
+      "onboard_time": 1747147104,
+      "rank": 39,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 135631,
@@ -2491,12 +2555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131904,
+      "num": 131904,
+      "word": "广州一新开饮品店取名叫警茶",
+      "onboard_time": 1747146983,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131808,
       "num": 131808,
       "word": "肖战一键转场打开藏海传",
       "onboard_time": 1747119623,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131476,
+      "num": 131476,
+      "word": "周扬青美男鱼派对",
+      "onboard_time": 1747146022,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 131336,
@@ -2643,14 +2723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124088,
-      "num": 124088,
-      "word": "梁田认证恋综最帅男嘉宾胡嗲嗲",
-      "onboard_time": 1747146321,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123366,
       "num": 123366,
       "word": "折腰季肖冰战损",
@@ -2673,6 +2745,14 @@
       "onboard_time": 1747068438,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 122329,
+      "num": 436415,
+      "word": "全新智己L6价格",
+      "onboard_time": 1747145063,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 122256,
@@ -2739,22 +2819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118905,
-      "num": 454928,
-      "word": "饮品店取名警茶贴警察卡通引争议",
-      "onboard_time": 1747145003,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118652,
-      "num": 118652,
-      "word": "周扬青美男鱼派对",
-      "onboard_time": 1747146022,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 118331,
       "num": 118330,
       "word": "中国股市处在质变前夜",
@@ -2777,14 +2841,6 @@
       "onboard_time": 1747142781,
       "rank": 43,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 116576,
-      "num": 436415,
-      "word": "全新智己L6价格",
-      "onboard_time": 1747145063,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 115774,
@@ -2865,6 +2921,22 @@
       "onboard_time": 1747127001,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111723,
+      "num": 111723,
+      "word": "阿那亚偶遇张柏芝",
+      "onboard_time": 1747147403,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111502,
+      "num": 111502,
+      "word": "手动挡狗都会开",
+      "onboard_time": 1747146083,
+      "rank": 48,
+      "category": "幽默,汽车"
     },
     {
       "raw_hot": 110820,
@@ -3395,6 +3467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60733,
+      "num": 244605,
+      "word": "五人制亚洲杯中国女足四强",
+      "onboard_time": 1747147163,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60665,
       "num": 334095,
       "word": "孙颖莎10250分世排第一",
@@ -3641,14 +3721,6 @@
       "onboard_time": 1747114221,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42234,
-      "num": 395607,
-      "word": "上官正义曝光代孕团伙反侦查手段",
-      "onboard_time": 1747145425,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41176,
