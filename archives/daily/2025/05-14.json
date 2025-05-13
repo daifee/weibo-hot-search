@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747154917055,
+  "endTime": 1747157010336,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -123,20 +123,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 183090,
+      "num": 172656,
+      "word": "天蝎座最大的软肋",
+      "onboard_time": 1747151541,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177862,
       "num": 177862,
       "word": "张艺兴和马东锡合照",
       "onboard_time": 1747148544,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172656,
-      "num": 172656,
-      "word": "天蝎座最大的软肋",
-      "onboard_time": 1747151541,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 168062,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111570,
+      "num": 111570,
+      "word": "刘宇宁谢谢开推包场折腰",
+      "onboard_time": 1747152320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109375,
       "num": 109375,
       "word": "鬼鬼为女购学区房",
@@ -209,14 +217,6 @@
       "onboard_time": 1747149501,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 106216,
-      "num": 106216,
-      "word": "刘宇宁谢谢开推包场折腰",
-      "onboard_time": 1747152320,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 105111,
@@ -273,6 +273,14 @@
       "onboard_time": 1747135460,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84944,
+      "num": 84944,
+      "word": "戛纳",
+      "onboard_time": 1747141100,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 84455,
@@ -339,14 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 74507,
-      "num": 74507,
-      "word": "戛纳",
-      "onboard_time": 1747141100,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70370,
       "num": 71186,
       "word": "李艺彤投票",
@@ -409,6 +409,38 @@
       "onboard_time": 1747138640,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48744,
+      "num": 48744,
+      "word": "官方通报珠海发生旋挖桩机倾倒事件",
+      "onboard_time": 1747155678,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39739,
+      "num": 39739,
+      "word": "浪姐",
+      "onboard_time": 1747156756,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37593,
+      "num": 78043,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35332,
+      "num": 35332,
+      "word": "iG战胜JDG",
+      "onboard_time": 1747145664,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
