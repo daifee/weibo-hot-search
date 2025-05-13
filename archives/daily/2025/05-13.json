@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747136283380,
+  "endTime": 1747140777362,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -49,6 +49,30 @@
       "onboard_time": 1747124001,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1609615,
+      "num": 1609615,
+      "word": "京东美团饿了么等外卖平台被约谈",
+      "onboard_time": 1747136661,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1537201,
+      "num": 579446,
+      "word": "特朗普突然提统一吓坏台当局",
+      "onboard_time": 1747134621,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1506688,
+      "num": 1506688,
+      "word": "赵樱子戛纳礼服脏了发文求助",
+      "onboard_time": 1747136601,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1452236,
@@ -211,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 849403,
-      "num": 368225,
-      "word": "特朗普突然提统一吓坏台当局",
-      "onboard_time": 1747134621,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 794290,
       "num": 794290,
       "word": "一救护车疑在墨脱旅游拉警报开道",
@@ -265,6 +281,14 @@
       "onboard_time": 1747133721,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 696493,
+      "num": 696493,
+      "word": "中国巴西发表联合声明",
+      "onboard_time": 1747139362,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 688338,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579505,
+      "num": 579505,
+      "word": "北京冰雹",
+      "onboard_time": 1747139241,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579239,
       "num": 579239,
       "word": "花500捞手机没捞到隔天定位在商场",
@@ -425,6 +457,14 @@
       "onboard_time": 1747122502,
       "rank": 20,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 542865,
+      "num": 542865,
+      "word": "北京天气",
+      "onboard_time": 1747136000,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537477,
@@ -555,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421369,
+      "num": 421369,
+      "word": "张艺兴金钟仁cha",
+      "onboard_time": 1747135460,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 420291,
       "num": 326452,
       "word": "71岁的成龙",
@@ -627,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379530,
+      "num": 379530,
+      "word": "刘亦菲为李现新剧宣传",
+      "onboard_time": 1747136300,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374595,
       "num": 374595,
       "word": "莫迪对印巴空战公开讲话但只字不提美国",
@@ -641,6 +697,14 @@
       "onboard_time": 1747107624,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373815,
+      "num": 373815,
+      "word": "半熟恋人4",
+      "onboard_time": 1747135581,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 371931,
@@ -899,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253775,
-      "num": 253775,
-      "word": "张艺兴金钟仁cha",
-      "onboard_time": 1747135460,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 253311,
       "num": 253311,
       "word": "原神丝柯克",
@@ -921,6 +977,14 @@
       "onboard_time": 1747091779,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250249,
+      "num": 250249,
+      "word": "将门毒后",
+      "onboard_time": 1747138822,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 250061,
@@ -987,6 +1051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 239172,
+      "num": 186938,
+      "word": "魏建军称网友的声音都听到了",
+      "onboard_time": 1747139960,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 238739,
       "num": 238739,
       "word": "李承铉因为弟弟凶Lucky",
@@ -1051,6 +1123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226586,
+      "num": 226586,
+      "word": "小米SU7被货车碾压还能开车门放音乐",
+      "onboard_time": 1747136842,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 225064,
+      "num": 225064,
+      "word": "沪上阿姨鞠婧祎",
+      "onboard_time": 1747138640,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223781,
       "num": 231477,
       "word": "刑侦12定档",
@@ -1065,14 +1153,6 @@
       "onboard_time": 1747118004,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223321,
-      "num": 223321,
-      "word": "半熟恋人4",
-      "onboard_time": 1747135581,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 222797,
@@ -1193,6 +1273,14 @@
       "onboard_time": 1747111222,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209874,
+      "num": 209874,
+      "word": "李现谢谢红豆",
+      "onboard_time": 1747139840,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209808,
@@ -1603,14 +1691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173751,
-      "num": 173751,
-      "word": "北京天气",
-      "onboard_time": 1747136000,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172524,
       "num": 172524,
       "word": "王源宣传魏大勋新剧",
@@ -2011,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140444,
+      "num": 140444,
+      "word": "磊鹅",
+      "onboard_time": 1747136901,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140156,
       "num": 140156,
       "word": "年终奖全用来买家庭地位了",
@@ -2259,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127197,
+      "num": 123289,
+      "word": "宋妍霏马吟吟cha了likeJennie",
+      "onboard_time": 1747140322,
+      "rank": 40,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 126828,
       "num": 126828,
       "word": "买iPhone选性能还是选内存",
@@ -2291,6 +2387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123366,
+      "num": 123366,
+      "word": "折腰季肖冰战损",
+      "onboard_time": 1747137082,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "于正说陈腾跃是下一个周星驰",
@@ -2307,11 +2411,27 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 122789,
+      "num": 122789,
+      "word": "凑60多万为农村父母建别墅3姐妹发声",
+      "onboard_time": 1747137622,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122216,
       "num": 351635,
       "word": "奥克兰市长喊话新西兰给中国免签",
       "onboard_time": 1747117761,
       "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 121779,
+      "num": 121779,
+      "word": "关税",
+      "onboard_time": 1747138461,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -2387,6 +2507,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 114924,
+      "num": 114924,
+      "word": "留学圣体的1.5磅英国午餐",
+      "onboard_time": 1747140141,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114169,
       "num": 114169,
       "word": "赴山海 换脸",
@@ -2425,6 +2553,22 @@
       "onboard_time": 1747127001,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "JDG对战iG",
+      "onboard_time": 1747140681,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111361,
+      "num": 111361,
+      "word": "深圳中院回应退休夫妻负债1.2亿",
+      "onboard_time": 1747139481,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110820,
@@ -2475,12 +2619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105616,
+      "num": 105616,
+      "word": "特朗普吹嘘用贸易威胁换来印巴停火",
+      "onboard_time": 1747137501,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105185,
       "num": 105185,
       "word": "沈月脖子还好吗",
       "onboard_time": 1747128082,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104436,
+      "num": 104436,
+      "word": "韩国人在车展偷拍女生被抓",
+      "onboard_time": 1747136422,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104107,
@@ -2617,6 +2777,14 @@
       "onboard_time": 1747038865,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89468,
+      "num": 377675,
+      "word": "国足生死战印尼时间定了",
+      "onboard_time": 1747139302,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 88948,
@@ -2867,6 +3035,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 64309,
+      "num": 103898,
+      "word": "三姐妹凑60万为农村父母建别墅",
+      "onboard_time": 1747140681,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60919,
       "num": 198669,
       "word": "无锡到上海高铁能包月了",
@@ -2979,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52108,
+      "num": 354462,
+      "word": "为何KPL队伍的教练都是那几个",
+      "onboard_time": 1747140440,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50929,
       "num": 351162,
       "word": "云南杀害邻居男子曾多次犯罪",
@@ -3083,6 +3267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41389,
+      "num": 353802,
+      "word": "多方回应小伙为救同学错过考试",
+      "onboard_time": 1747140020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41176,
       "num": 721019,
       "word": "万千气象看荆楚",
@@ -3107,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40184,
+      "num": 392477,
+      "word": "前MCN高管谈克里西账号被封",
+      "onboard_time": 1747140141,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 39796,
       "num": 348359,
       "word": "高校辅导员更像是24小时服务员",
@@ -3123,6 +3323,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 38938,
+      "num": 377624,
+      "word": "天猫618史上折扣最大消费券来了",
+      "onboard_time": 1747137680,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38909,
       "num": 997736,
       "word": "中国坚定不移扩大高水平对外开放",
@@ -3137,6 +3345,14 @@
       "onboard_time": 1747110324,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38498,
+      "num": 377795,
+      "word": "岳云鹏朱广权体验理想汽车",
+      "onboard_time": 1747137859,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 37335,
@@ -3321,6 +3537,14 @@
       "onboard_time": 1747102823,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21708,
+      "num": 252824,
+      "word": "郑晓龙再导古装剧能否重现甄嬛传辉煌",
+      "onboard_time": 1747139541,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 21527,

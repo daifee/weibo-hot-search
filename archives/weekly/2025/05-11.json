@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747136283380,
+  "endTime": 1747140777362,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1609615,
+      "num": 1609615,
+      "word": "京东美团饿了么等外卖平台被约谈",
+      "onboard_time": 1747136661,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1594357,
       "num": 484514,
       "word": "麒麟 王楚钦",
@@ -179,12 +187,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1537201,
+      "num": 579446,
+      "word": "特朗普突然提统一吓坏台当局",
+      "onboard_time": 1747134621,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1532387,
       "num": 355874,
       "word": "陈赫生气了",
       "onboard_time": 1746940642,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1506688,
+      "num": 1506688,
+      "word": "赵樱子戛纳礼服脏了发文求助",
+      "onboard_time": 1747136601,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1475089,
@@ -619,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 849403,
-      "num": 368225,
-      "word": "特朗普突然提统一吓坏台当局",
-      "onboard_time": 1747134621,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 837575,
       "num": 709889,
       "word": "金饰克价跌到1000元",
@@ -833,6 +849,14 @@
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 696493,
+      "num": 696493,
+      "word": "中国巴西发表联合声明",
+      "onboard_time": 1747139362,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 690717,
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579505,
+      "num": 579505,
+      "word": "北京冰雹",
+      "onboard_time": 1747139241,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579239,
       "num": 579239,
       "word": "花500捞手机没捞到隔天定位在商场",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1747122502,
       "rank": 20,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 542865,
+      "num": 542865,
+      "word": "北京天气",
+      "onboard_time": 1747136000,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537477,
@@ -1723,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421369,
+      "num": 421369,
+      "word": "张艺兴金钟仁cha",
+      "onboard_time": 1747135460,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421095,
       "num": 421095,
       "word": "演员3狂飙5个高启强7个高启盛",
@@ -1899,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379530,
+      "num": 379530,
+      "word": "刘亦菲为李现新剧宣传",
+      "onboard_time": 1747136300,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377637,
       "num": 377637,
       "word": "折腰要拍短剧了",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1747107624,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373815,
+      "num": 373815,
+      "word": "半熟恋人4",
+      "onboard_time": 1747135581,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 373637,
@@ -2771,14 +2835,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 253775,
-      "num": 253775,
-      "word": "张艺兴金钟仁cha",
-      "onboard_time": 1747135460,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 253311,
       "num": 253311,
       "word": "原神丝柯克",
@@ -2808,6 +2864,14 @@
       "word": "赴山海除名李凯馨",
       "onboard_time": 1746868222,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250249,
+      "num": 250249,
+      "word": "将门毒后",
+      "onboard_time": 1747138822,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -2971,6 +3035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 239172,
+      "num": 186938,
+      "word": "魏建军称网友的声音都听到了",
+      "onboard_time": 1747139960,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 238621,
       "num": 238621,
       "word": "马吟吟浪姐调剂票还没高考分高",
@@ -3075,11 +3147,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226586,
+      "num": 226586,
+      "word": "小米SU7被货车碾压还能开车门放音乐",
+      "onboard_time": 1747136842,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 225325,
       "num": 225325,
       "word": "金龟子女儿回应蹭妈妈流量",
       "onboard_time": 1747035083,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225064,
+      "num": 225064,
+      "word": "沪上阿姨鞠婧祎",
+      "onboard_time": 1747138640,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -3121,14 +3209,6 @@
       "onboard_time": 1747118004,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223321,
-      "num": 223321,
-      "word": "半熟恋人4",
-      "onboard_time": 1747135581,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 223188,
@@ -3393,6 +3473,14 @@
       "onboard_time": 1746961821,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209874,
+      "num": 209874,
+      "word": "李现谢谢红豆",
+      "onboard_time": 1747139840,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209808,
@@ -4537,14 +4625,6 @@
       "onboard_time": 1747113620,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173751,
-      "num": 173751,
-      "word": "北京天气",
-      "onboard_time": 1747136000,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173006,
@@ -5987,6 +6067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140444,
+      "num": 140444,
+      "word": "磊鹅",
+      "onboard_time": 1747136901,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140426,
       "num": 281835,
       "word": "周启豪说会选樊振东一起荒岛求生",
@@ -6755,6 +6843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127197,
+      "num": 123289,
+      "word": "宋妍霏马吟吟cha了likeJennie",
+      "onboard_time": 1747140322,
+      "rank": 40,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 126896,
       "num": 311353,
       "word": "母亲节拒绝表白羞耻",
@@ -6923,6 +7019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123366,
+      "num": 123366,
+      "word": "折腰季肖冰战损",
+      "onboard_time": 1747137082,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123059,
       "num": 123059,
       "word": "亲妈站",
@@ -6953,6 +7057,14 @@
       "onboard_time": 1747068438,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 122789,
+      "num": 122789,
+      "word": "凑60多万为农村父母建别墅3姐妹发声",
+      "onboard_time": 1747137622,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122759,
@@ -7371,6 +7483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114924,
+      "num": 114924,
+      "word": "留学圣体的1.5磅英国午餐",
+      "onboard_time": 1747140141,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114661,
       "num": 114661,
       "word": "雷军空降超话",
@@ -7467,6 +7587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113384,
+      "num": 113384,
+      "word": "JDG对战iG",
+      "onboard_time": 1747140681,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113308,
       "num": 113308,
       "word": "郑钦文收到周生如故同款捷报",
@@ -7520,6 +7648,14 @@
       "word": "动物园成立卡皮巴拉抓捕专班",
       "onboard_time": 1746972563,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111361,
+      "num": 111361,
+      "word": "深圳中院回应退休夫妻负债1.2亿",
+      "onboard_time": 1747139481,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -7707,6 +7843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105616,
+      "num": 105616,
+      "word": "特朗普吹嘘用贸易威胁换来印巴停火",
+      "onboard_time": 1747137501,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105430,
       "num": 105430,
       "word": "王楚钦打台球有点天赋在身上",
@@ -7744,6 +7888,14 @@
       "word": "汶川地震十七年了",
       "onboard_time": 1746968242,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104436,
+      "num": 104436,
+      "word": "韩国人在车展偷拍女生被抓",
+      "onboard_time": 1747136422,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -8169,6 +8321,14 @@
       "onboard_time": 1746978322,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89468,
+      "num": 377675,
+      "word": "国足生死战印尼时间定了",
+      "onboard_time": 1747139302,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 89307,
@@ -8763,6 +8923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64309,
+      "num": 103898,
+      "word": "三姐妹凑60万为农村父母建别墅",
+      "onboard_time": 1747140681,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63780,
       "num": 315732,
       "word": "乐见潮向音乐节超好拍",
@@ -9097,6 +9265,14 @@
       "onboard_time": 1747116682,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52108,
+      "num": 354462,
+      "word": "为何KPL队伍的教练都是那几个",
+      "onboard_time": 1747140440,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 52037,
@@ -9499,6 +9675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41389,
+      "num": 353802,
+      "word": "多方回应小伙为救同学错过考试",
+      "onboard_time": 1747140020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41005,
       "num": 339388,
       "word": "美国从芭比娃娃到洗衣机都在涨价",
@@ -9521,6 +9705,14 @@
       "onboard_time": 1747112722,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40184,
+      "num": 392477,
+      "word": "前MCN高管谈克里西账号被封",
+      "onboard_time": 1747140141,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 40157,
@@ -9563,6 +9755,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 38938,
+      "num": 377624,
+      "word": "天猫618史上折扣最大消费券来了",
+      "onboard_time": 1747137680,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38909,
       "num": 997736,
       "word": "中国坚定不移扩大高水平对外开放",
@@ -9585,6 +9785,14 @@
       "onboard_time": 1747110324,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38498,
+      "num": 377795,
+      "word": "岳云鹏朱广权体验理想汽车",
+      "onboard_time": 1747137859,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 38118,
@@ -10193,6 +10401,14 @@
       "onboard_time": 1746948501,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 21708,
+      "num": 252824,
+      "word": "郑晓龙再导古装剧能否重现甄嬛传辉煌",
+      "onboard_time": 1747139541,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 21699,
