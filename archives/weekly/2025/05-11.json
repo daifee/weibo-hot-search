@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747101529809,
+  "endTime": 1747102930570,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -17,6 +17,14 @@
       "onboard_time": 1747034002,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 4167577,
+      "num": 4167577,
+      "word": "折腰今日开播",
+      "onboard_time": 1747101920,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3321710,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1254969,
+      "num": 492937,
+      "word": "藏海传定档",
+      "onboard_time": 1747102341,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1246454,
       "num": 1246454,
       "word": "苹果再次降价降幅超1000元",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1104944,
+      "num": 388974,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
@@ -379,14 +403,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 976081,
-      "num": 352947,
-      "word": "折腰",
-      "onboard_time": 1747038624,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 972352,
       "num": 972352,
       "word": "台当局将96%汉人改为其余人口遭批",
@@ -403,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 959868,
+      "num": 1151797,
+      "word": "黄晓明的打字速度",
+      "onboard_time": 1747098441,
+      "rank": 0,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 955455,
       "num": 542773,
       "word": "张伦硕否认与钟丽缇一见钟情",
       "onboard_time": 1747029869,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 948731,
-      "num": 1151797,
-      "word": "黄晓明的打字速度",
-      "onboard_time": 1747098441,
-      "rank": 0,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 925958,
@@ -577,6 +593,14 @@
       "onboard_time": 1746964341,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 730577,
+      "num": 382630,
+      "word": "宣璐领衔主演折腰",
+      "onboard_time": 1747102341,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 727884,
@@ -891,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552604,
+      "num": 387854,
+      "word": "藏海传对打折腰",
+      "onboard_time": 1747098621,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552011,
       "num": 552011,
       "word": "男子得物买52瓶古驰香水包装是假的",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1746973283,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466616,
+      "num": 466616,
+      "word": "日本16岁男孩谋杀祖父母后淡定上学",
+      "onboard_time": 1747101200,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 465277,
@@ -1403,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392080,
-      "num": 325248,
-      "word": "藏海传对打折腰",
-      "onboard_time": 1747098621,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 389964,
       "num": 389964,
       "word": "卢靖姗27岁前都觉得妈妈不爱她",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1746940761,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360876,
+      "num": 360876,
+      "word": "塔图姆受伤",
+      "onboard_time": 1747102580,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 357970,
@@ -1771,6 +1811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311889,
+      "num": 311889,
+      "word": "野狗骨头",
+      "onboard_time": 1747101681,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311883,
       "num": 294093,
       "word": "原来这就是冷泡茶",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1746960862,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 309532,
+      "num": 309532,
+      "word": "周洁琼资源",
+      "onboard_time": 1747100841,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 309482,
@@ -1944,14 +2000,6 @@
       "word": "喻言淡黄的长裙蓬松的头发",
       "onboard_time": 1747027642,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 276595,
-      "num": 276595,
-      "word": "周洁琼资源",
-      "onboard_time": 1747100841,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -2267,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237010,
+      "num": 237010,
+      "word": "李到晛今天退伍",
+      "onboard_time": 1747102281,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232991,
       "num": 205064,
       "word": "脊柱侧弯千万不能做的动作",
@@ -2497,6 +2553,14 @@
       "onboard_time": 1746961821,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209770,
+      "num": 209770,
+      "word": "李晟大家不要熬夜给我投票了",
+      "onboard_time": 1747101561,
+      "rank": 26,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209274,
@@ -2811,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194699,
+      "num": 194699,
+      "word": "金价",
+      "onboard_time": 1747099820,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 194651,
       "num": 194651,
       "word": "华为5月新品发布会官宣",
@@ -2929,6 +3001,22 @@
       "onboard_time": 1747062204,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "肖战藏海传致命身份暗藏杀机",
+      "onboard_time": 1747086014,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190686,
+      "num": 190686,
+      "word": "年中奖好小众的词",
+      "onboard_time": 1747101861,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 189977,
@@ -3153,6 +3241,14 @@
       "onboard_time": 1747023983,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182665,
+      "num": 240445,
+      "word": "种地吧",
+      "onboard_time": 1746928581,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 182637,
@@ -3411,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "特朗普称美国阻止了印巴核战",
+      "onboard_time": 1747099222,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "飞猪小编押中冠军",
@@ -3571,6 +3675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165381,
+      "num": 223527,
+      "word": "独行侠 弗拉格",
+      "onboard_time": 1747098801,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165189,
       "num": 165189,
       "word": "在毕业典礼收到Rose的祝福",
@@ -3715,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159926,
+      "num": 159926,
+      "word": "凯尔特人vs尼克斯",
+      "onboard_time": 1747099521,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159911,
       "num": 157362,
       "word": "37年没上过班打发时间教程",
@@ -3771,14 +3891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158000,
-      "num": 158000,
-      "word": "特朗普称美国阻止了印巴核战",
-      "onboard_time": 1747099222,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157902,
       "num": 157902,
       "word": "管乐 你脸怎么这么小",
@@ -3833,14 +3945,6 @@
       "onboard_time": 1747010241,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 157169,
-      "num": 157169,
-      "word": "日本16岁男孩谋杀祖父母后淡定上学",
-      "onboard_time": 1747101200,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 156864,
@@ -3987,6 +4091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153918,
+      "num": 153918,
+      "word": "印巴发布会面部表情对比",
+      "onboard_time": 1747096942,
+      "rank": 40,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 153910,
       "num": 370494,
       "word": "74岁老奶奶带73岁闺蜜自驾游",
@@ -4115,6 +4227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149165,
+      "num": 149165,
+      "word": "日本股市集体大涨",
+      "onboard_time": 1747101440,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149162,
       "num": 149162,
       "word": "刘浩存你别激王安宇他啥都会",
@@ -4193,6 +4313,14 @@
       "onboard_time": 1747020323,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146269,
+      "num": 146269,
+      "word": "韩泰山 抓夹",
+      "onboard_time": 1747101800,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 146259,
@@ -4289,14 +4417,6 @@
       "onboard_time": 1746977962,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144284,
-      "num": 144284,
-      "word": "印巴发布会面部表情对比",
-      "onboard_time": 1747096942,
-      "rank": 40,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 143924,
@@ -4635,14 +4755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137929,
-      "num": 137929,
-      "word": "独行侠 弗拉格",
-      "onboard_time": 1747098801,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "伊能静恩利米粒同框",
@@ -4883,14 +4995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131290,
-      "num": 144417,
-      "word": "肖战藏海传致命身份暗藏杀机",
-      "onboard_time": 1747086014,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131059,
       "num": 131059,
       "word": "种地吧今天来采购",
@@ -5009,14 +5113,6 @@
       "onboard_time": 1746925280,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128536,
-      "num": 128536,
-      "word": "金价",
-      "onboard_time": 1747099820,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 127695,
@@ -5153,14 +5249,6 @@
       "onboard_time": 1746973702,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124912,
-      "num": 124912,
-      "word": "日本股市集体大涨",
-      "onboard_time": 1747101440,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 124600,
@@ -5515,14 +5603,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 116971,
-      "num": 240445,
-      "word": "种地吧",
-      "onboard_time": 1746928581,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116768,
       "num": 238030,
       "word": "字母哥生涯首次考虑是否离队",
@@ -5811,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109707,
+      "num": 590847,
+      "word": "官方通报65款应用违法收集个人信息",
+      "onboard_time": 1747100182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109355,
       "num": 109355,
       "word": "30岁正是上一年级的好时候",
@@ -5920,14 +6008,6 @@
       "word": "汶川地震十七年了",
       "onboard_time": 1746968242,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104450,
-      "num": 590847,
-      "word": "官方通报65款应用违法收集个人信息",
-      "onboard_time": 1747100182,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -6304,6 +6384,14 @@
       "word": "17年前被埋73小时后消逝的生命",
       "onboard_time": 1747031069,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88611,
+      "num": 157048,
+      "word": "央视曝光AI造假引流新套路",
+      "onboard_time": 1747102462,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -7753,6 +7841,14 @@
       "onboard_time": 1747040483,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 22007,
+      "num": 156861,
+      "word": "上官正义发文报平安",
+      "onboard_time": 1747102823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22006,

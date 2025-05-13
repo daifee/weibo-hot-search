@@ -1,0 +1,410 @@
+{
+  "runTime": 1747102930570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4167577,
+        "num": 4167577,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594025,
+        "num": 594025,
+        "word": "小伙为救同学职教高考语文缺考",
+        "onboard_time": 1747094060,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109707,
+        "num": 494548,
+        "word": "官方通报65款应用违法收集个人信息",
+        "onboard_time": 1747100182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254969,
+        "num": 492937,
+        "word": "藏海传定档",
+        "onboard_time": 1747102341,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469707,
+        "num": 469707,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1074402,
+        "num": 469512,
+        "word": "月薪3K带月薪5w体验低消费的一天",
+        "onboard_time": 1747098260,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 959868,
+        "num": 468138,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 466616,
+        "num": 466616,
+        "word": "日本16岁男孩谋杀祖父母后淡定上学",
+        "onboard_time": 1747101200,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 464840,
+        "num": 464840,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416339,
+        "num": 416339,
+        "word": "国补版iPhone16Pro被抢空",
+        "onboard_time": 1747096762,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1104944,
+        "num": 388974,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552604,
+        "num": 387854,
+        "word": "藏海传对打折腰",
+        "onboard_time": 1747098621,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730577,
+        "num": 382630,
+        "word": "宣璐领衔主演折腰",
+        "onboard_time": 1747102341,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360876,
+        "num": 360876,
+        "word": "塔图姆受伤",
+        "onboard_time": 1747102580,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339440,
+        "num": 339440,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311889,
+        "num": 311889,
+        "word": "野狗骨头",
+        "onboard_time": 1747101681,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309532,
+        "num": 309532,
+        "word": "周洁琼资源",
+        "onboard_time": 1747100841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272174,
+        "num": 272174,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 17,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 266612,
+        "num": 266612,
+        "word": "一觉醒来中国航天又发射成功了",
+        "onboard_time": 1747095802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237010,
+        "num": 237010,
+        "word": "李到晛今天退伍",
+        "onboard_time": 1747102281,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472947,
+        "num": 236203,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472865,
+        "num": 236149,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255673,
+        "num": 236047,
+        "word": "男友曾为陪韦雪放弃读研",
+        "onboard_time": 1747091779,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233154,
+        "num": 233154,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165381,
+        "num": 223527,
+        "word": "独行侠 弗拉格",
+        "onboard_time": 1747098801,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217946,
+        "num": 217946,
+        "word": "杜特尔特在狱中赢得市长选举",
+        "onboard_time": 1747100361,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209770,
+        "num": 209770,
+        "word": "李晟大家不要熬夜给我投票了",
+        "onboard_time": 1747101561,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 197153,
+        "num": 197153,
+        "word": "脊柱侧弯千万不能做的动作",
+        "onboard_time": 1747093461,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194699,
+        "num": 194699,
+        "word": "金价",
+        "onboard_time": 1747099820,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190711,
+        "num": 190711,
+        "word": "肖战藏海传致命身份暗藏杀机",
+        "onboard_time": 1747086014,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190686,
+        "num": 190686,
+        "word": "年中奖好小众的词",
+        "onboard_time": 1747101861,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186239,
+        "num": 186239,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182665,
+        "num": 182665,
+        "word": "种地吧",
+        "onboard_time": 1747101982,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169761,
+        "num": 169761,
+        "word": "特朗普称美国阻止了印巴核战",
+        "onboard_time": 1747099222,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166813,
+        "num": 166813,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161959,
+        "num": 161959,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161170,
+        "num": 161170,
+        "word": "她的遗物不多王权弘业是其中一个",
+        "onboard_time": 1747090939,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159926,
+        "num": 159926,
+        "word": "凯尔特人vs尼克斯",
+        "onboard_time": 1747099521,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88611,
+        "num": 157048,
+        "word": "央视曝光AI造假引流新套路",
+        "onboard_time": 1747102462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22007,
+        "num": 156861,
+        "word": "上官正义发文报平安",
+        "onboard_time": 1747102823,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156849,
+        "num": 156849,
+        "word": "存款利率已全面迈向1时代",
+        "onboard_time": 1747098083,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153918,
+        "num": 153918,
+        "word": "印巴发布会面部表情对比",
+        "onboard_time": 1747096942,
+        "rank": 41,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 149165,
+        "num": 149165,
+        "word": "日本股市集体大涨",
+        "onboard_time": 1747101440,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148877,
+        "num": 148877,
+        "word": "孙颖莎马龙樊振东闪耀冠军奖杯",
+        "onboard_time": 1747098980,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146269,
+        "num": 146269,
+        "word": "韩泰山 抓夹",
+        "onboard_time": 1747101800,
+        "rank": 44,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 143854,
+        "num": 143854,
+        "word": "狂野时代",
+        "onboard_time": 1747100781,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143160,
+        "num": 143160,
+        "word": "男子家中滑倒双腿卡护栏数天",
+        "onboard_time": 1747097481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136659,
+        "num": 136659,
+        "word": "一米六八小伙跟两米二女孩谈恋爱",
+        "onboard_time": 1747092200,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136532,
+        "num": 136532,
+        "word": "华为5月新品发布会官宣",
+        "onboard_time": 1747100421,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135270,
+        "num": 135270,
+        "word": "小米回应徕卡水印消失原因",
+        "onboard_time": 1747100421,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}

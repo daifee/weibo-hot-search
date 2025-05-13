@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747101529809,
+  "endTime": 1747102930570,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1331,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 4167577,
+      "num": 4167577,
+      "word": "折腰今日开播",
+      "onboard_time": 1747101920,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 4160078,
       "num": 853721,
       "word": "人民日报官博删除赴山海",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737038179,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3092132,
-      "num": 1923908,
-      "word": "一段录音是订婚强奸案重要证据",
-      "onboard_time": 1742865859,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

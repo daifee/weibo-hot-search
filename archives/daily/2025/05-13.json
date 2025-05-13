@@ -1,7 +1,23 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747101529809,
+  "endTime": 1747102930570,
   "band_list": [
+    {
+      "raw_hot": 4167577,
+      "num": 4167577,
+      "word": "折腰今日开播",
+      "onboard_time": 1747101920,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1254969,
+      "num": 492937,
+      "word": "藏海传定档",
+      "onboard_time": 1747102341,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1116307,
       "num": 553393,
@@ -11,8 +27,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1104944,
+      "num": 388974,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1078853,
-      "num": 206375,
+      "num": 236149,
       "word": "取消置顶删除聊天框宣告某人死亡了",
       "onboard_time": 1747047321,
       "rank": 20,
@@ -27,15 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 976081,
-      "num": 325319,
-      "word": "折腰",
-      "onboard_time": 1747038624,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 948731,
+      "raw_hot": 959868,
       "num": 1151797,
       "word": "黄晓明的打字速度",
       "onboard_time": 1747098441,
@@ -49,6 +65,14 @@
       "onboard_time": 1747064482,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730577,
+      "num": 382630,
+      "word": "宣璐领衔主演折腰",
+      "onboard_time": 1747102341,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 725101,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 560883,
-      "num": 205677,
+      "num": 236203,
       "word": "金价又崩了",
       "onboard_time": 1747061484,
       "rank": 21,
@@ -81,6 +105,14 @@
       "onboard_time": 1747058063,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552604,
+      "num": 387854,
+      "word": "藏海传对打折腰",
+      "onboard_time": 1747098621,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 532273,
@@ -115,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 466616,
+      "num": 466616,
+      "word": "日本16岁男孩谋杀祖父母后淡定上学",
+      "onboard_time": 1747101200,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 437600,
       "num": 437600,
       "word": "迪丽热巴十五秒出片的含金量",
@@ -139,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392080,
-      "num": 325248,
-      "word": "藏海传对打折腰",
-      "onboard_time": 1747098621,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 389859,
       "num": 248118,
       "word": "黄多多艾米黄杨钿甜邓恩熙05花四美",
@@ -161,6 +193,14 @@
       "onboard_time": 1747055542,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 360876,
+      "num": 360876,
+      "word": "塔图姆受伤",
+      "onboard_time": 1747102580,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 351375,
@@ -203,6 +243,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 311889,
+      "num": 311889,
+      "word": "野狗骨头",
+      "onboard_time": 1747101681,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 309532,
+      "num": 309532,
+      "word": "周洁琼资源",
+      "onboard_time": 1747100841,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292347,
       "num": 267124,
       "word": "小花简直就是女版邓超附体",
@@ -217,14 +273,6 @@
       "onboard_time": 1747033642,
       "rank": 15,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 276595,
-      "num": 276595,
-      "word": "周洁琼资源",
-      "onboard_time": 1747100841,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 255538,
@@ -267,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237010,
+      "num": 237010,
+      "word": "李到晛今天退伍",
+      "onboard_time": 1747102281,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232991,
       "num": 205064,
       "word": "脊柱侧弯千万不能做的动作",
@@ -299,6 +355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 209770,
+      "num": 209770,
+      "word": "李晟大家不要熬夜给我投票了",
+      "onboard_time": 1747101561,
+      "rank": 26,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 208462,
       "num": 208462,
       "word": "狂野时代",
@@ -321,6 +385,14 @@
       "onboard_time": 1747056143,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194699,
+      "num": 194699,
+      "word": "金价",
+      "onboard_time": 1747099820,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 194651,
@@ -347,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "肖战藏海传致命身份暗藏杀机",
+      "onboard_time": 1747086014,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190686,
+      "num": 190686,
+      "word": "年中奖好小众的词",
+      "onboard_time": 1747101861,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189638,
       "num": 189638,
       "word": "男孩患巨痣手术后成功取掉扩张器",
@@ -371,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182665,
+      "num": 182665,
+      "word": "种地吧",
+      "onboard_time": 1747101982,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181275,
       "num": 181275,
       "word": "网友说黄多多补全了05四花",
       "onboard_time": 1747066881,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169761,
+      "num": 169761,
+      "word": "特朗普称美国阻止了印巴核战",
+      "onboard_time": 1747099222,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168740,
@@ -393,6 +497,14 @@
       "onboard_time": 1747100421,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165381,
+      "num": 223527,
+      "word": "独行侠 弗拉格",
+      "onboard_time": 1747098801,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 163275,
@@ -419,28 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159926,
+      "num": 159926,
+      "word": "凯尔特人vs尼克斯",
+      "onboard_time": 1747099521,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159738,
       "num": 159738,
       "word": "男子家中滑倒双腿卡护栏数天",
       "onboard_time": 1747097481,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158000,
-      "num": 158000,
-      "word": "特朗普称美国阻止了印巴核战",
-      "onboard_time": 1747099222,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157169,
-      "num": 157169,
-      "word": "日本16岁男孩谋杀祖父母后淡定上学",
-      "onboard_time": 1747101200,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 155700,
@@ -451,20 +555,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144284,
-      "num": 144284,
+      "raw_hot": 153918,
+      "num": 153918,
       "word": "印巴发布会面部表情对比",
       "onboard_time": 1747096942,
       "rank": 40,
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 137929,
-      "num": 137929,
-      "word": "独行侠 弗拉格",
-      "onboard_time": 1747098801,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 149165,
+      "num": 149165,
+      "word": "日本股市集体大涨",
+      "onboard_time": 1747101440,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 146269,
+      "num": 146269,
+      "word": "韩泰山 抓夹",
+      "onboard_time": 1747101800,
+      "rank": 44,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 133252,
@@ -489,14 +601,6 @@
       "onboard_time": 1747101381,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131290,
-      "num": 144417,
-      "word": "肖战藏海传致命身份暗藏杀机",
-      "onboard_time": 1747086014,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 129638,
@@ -537,22 +641,6 @@
       "onboard_time": 1747096762,
       "rank": 45,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 128536,
-      "num": 128536,
-      "word": "金价",
-      "onboard_time": 1747099820,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 124912,
-      "num": 124912,
-      "word": "日本股市集体大涨",
-      "onboard_time": 1747101440,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 122867,
@@ -603,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109707,
+      "num": 590847,
+      "word": "官方通报65款应用违法收集个人信息",
+      "onboard_time": 1747100182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109679,
       "num": 115152,
       "word": "钟汉良肖战藏海传里演父子",
@@ -625,14 +721,6 @@
       "onboard_time": 1747092380,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104450,
-      "num": 590847,
-      "word": "官方通报65款应用违法收集个人信息",
-      "onboard_time": 1747100182,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -705,6 +793,14 @@
       "onboard_time": 1747063282,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88611,
+      "num": 157048,
+      "word": "央视曝光AI造假引流新套路",
+      "onboard_time": 1747102462,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87927,
@@ -865,6 +961,14 @@
       "onboard_time": 1747076115,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22007,
+      "num": 156861,
+      "word": "上官正义发文报平安",
+      "onboard_time": 1747102823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21527,
