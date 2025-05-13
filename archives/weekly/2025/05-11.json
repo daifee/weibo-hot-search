@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747111530547,
+  "endTime": 1747113931281,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1452236,
-      "num": 577510,
+      "num": 582305,
       "word": "南烟斋笔录",
       "onboard_time": 1747108823,
       "rank": 6,
@@ -345,6 +345,14 @@
       "onboard_time": 1747098260,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1110731,
+      "num": 591105,
+      "word": "折腰滤镜",
+      "onboard_time": 1747111283,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 1109987,
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712218,
+      "num": 712218,
+      "word": "一救护车疑在墨脱旅游拉警报开道",
+      "onboard_time": 1747109062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 709332,
       "num": 318173,
       "word": "林宥嘉评论邓紫棋黑粉",
@@ -899,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592961,
+      "num": 592961,
+      "word": "13岁女孩称以为是妈妈让女教官打自己",
+      "onboard_time": 1747110805,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592022,
       "num": 592022,
       "word": "四姑娘山一游客疑因高反身亡",
@@ -923,12 +947,28 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 579898,
+      "num": 524926,
+      "word": "马吟吟 庐州月",
+      "onboard_time": 1747111462,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579239,
       "num": 579239,
       "word": "花500捞手机没捞到隔天定位在商场",
       "onboard_time": 1747104081,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568892,
+      "num": 568892,
+      "word": "关税下降美国商人的真实反应",
+      "onboard_time": 1747111643,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 568176,
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 550623,
-      "num": 550623,
-      "word": "一救护车疑在墨脱旅游拉警报开道",
-      "onboard_time": 1747109062,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 537477,
       "num": 404834,
       "word": "河海大学女博士实名举报导师性骚扰",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1747009341,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523126,
+      "num": 523126,
+      "word": "被年轻人精致穷的消费观震惊了",
+      "onboard_time": 1747108401,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 520774,
@@ -1219,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 477667,
-      "num": 477667,
-      "word": "被年轻人精致穷的消费观震惊了",
-      "onboard_time": 1747108401,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 475242,
       "num": 475242,
       "word": "加沙孩子们都快渴死了",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1746941063,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441262,
+      "num": 441262,
+      "word": "乘风2025成团夜分组",
+      "onboard_time": 1747111103,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 441115,
@@ -1499,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408077,
+      "num": 408077,
+      "word": "林更新再现与赵丽颖合作造型",
+      "onboard_time": 1747110623,
+      "rank": 29,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 407252,
       "num": 449320,
       "word": "刘诗诗吴宣仪都哭红了眼",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1746942682,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397564,
-      "num": 397564,
-      "word": "林更新再现与赵丽颖合作造型",
-      "onboard_time": 1747110623,
-      "rank": 29,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 396328,
@@ -1747,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350309,
+      "num": 350309,
+      "word": "女子被困自家别墅电梯1天1夜",
+      "onboard_time": 1747111044,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347172,
       "num": 323535,
       "word": "对这种玩笑 永远不要笑",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1747044381,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 345076,
-      "num": 199802,
-      "word": "折腰滤镜",
-      "onboard_time": 1747111283,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 344823,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1746972023,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337279,
+      "num": 337279,
+      "word": "杜海涛没认出减肥后的方家翊",
+      "onboard_time": 1747112605,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 336461,
@@ -2243,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267410,
+      "num": 267410,
+      "word": "数百名小米SU7Ultra车主要求退车",
+      "onboard_time": 1747112541,
+      "rank": 26,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 266651,
       "num": 266651,
       "word": "仙逆",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1747039942,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260782,
+      "num": 260782,
+      "word": "耳夹式耳机",
+      "onboard_time": 1747109062,
+      "rank": 30,
+      "category": "数码,休闲"
     },
     {
       "raw_hot": 259518,
@@ -2345,6 +2409,14 @@
       "onboard_time": 1747025425,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 253311,
+      "num": 253311,
+      "word": "原神丝柯克",
+      "onboard_time": 1747111943,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 253111,
@@ -2547,12 +2619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233792,
-      "num": 233792,
-      "word": "乘风2025成团夜分组",
-      "onboard_time": 1747111103,
+      "raw_hot": 234072,
+      "num": 234072,
+      "word": "龚俊戛纳电影节造型释出",
+      "onboard_time": 1747111884,
       "rank": 29,
-      "category": "综艺"
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 232991,
@@ -2561,14 +2633,6 @@
       "onboard_time": 1747093461,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 232290,
-      "num": 232290,
-      "word": "耳夹式耳机",
-      "onboard_time": 1747109062,
-      "rank": 30,
-      "category": "数码,休闲"
     },
     {
       "raw_hot": 231849,
@@ -2593,6 +2657,14 @@
       "onboard_time": 1747108581,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229081,
+      "num": 229081,
+      "word": "沈月撕拉片",
+      "onboard_time": 1747113022,
+      "rank": 33,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 228537,
@@ -2665,14 +2737,6 @@
       "onboard_time": 1746953901,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 222392,
-      "num": 460643,
-      "word": "13岁女孩称以为是妈妈让女教官打自己",
-      "onboard_time": 1747110805,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222390,
@@ -3011,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204338,
+      "num": 204338,
+      "word": "春夏",
+      "onboard_time": 1747110203,
+      "rank": 35,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 204267,
       "num": 204267,
       "word": "一米六八小伙跟两米二女孩谈恋爱",
@@ -3243,6 +3315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192805,
+      "num": 311628,
+      "word": "孙颖莎多哈街头戴头巾",
+      "onboard_time": 1747112482,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192551,
       "num": 228019,
       "word": "半熟4好会爱人的一个女生",
@@ -3355,14 +3435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189334,
-      "num": 189334,
-      "word": "春夏",
-      "onboard_time": 1747110203,
-      "rank": 35,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 189331,
       "num": 290567,
       "word": "肖战得闲谨制推介会",
@@ -3433,6 +3505,14 @@
       "onboard_time": 1747099882,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187386,
+      "num": 187386,
+      "word": "森林狼3比1勇士",
+      "onboard_time": 1747113742,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 187282,
@@ -3763,6 +3843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174831,
+      "num": 174831,
+      "word": "人生若如初见题材",
+      "onboard_time": 1747113261,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174310,
       "num": 174310,
       "word": "普京提议15日恢复俄乌直接谈判",
@@ -3771,12 +3859,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173832,
-      "num": 173832,
-      "word": "马吟吟 庐州月",
-      "onboard_time": 1747111462,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 174018,
+      "num": 174018,
+      "word": "易烊千玺混乱中的孤独感",
+      "onboard_time": 1747113620,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 173006,
@@ -3851,14 +3939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170156,
-      "num": 170156,
-      "word": "女子被困自家别墅电梯1天1夜",
-      "onboard_time": 1747111044,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170083,
       "num": 170083,
       "word": "于适 贵州",
@@ -3876,7 +3956,7 @@
     },
     {
       "raw_hot": 169851,
-      "num": 169851,
+      "num": 230948,
       "word": "患者家属扛着樱桃树冲进医生办公室",
       "onboard_time": 1747109002,
       "rank": 44,
@@ -4179,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161289,
+      "num": 168494,
+      "word": "2025中国乒超联赛时间确定",
+      "onboard_time": 1747111582,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160875,
       "num": 188918,
       "word": "邓紫棋演唱会新歌单上桌",
@@ -4289,6 +4377,14 @@
       "onboard_time": 1747025904,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157998,
+      "num": 157998,
+      "word": "不敢想住在这个家里会有多爽",
+      "onboard_time": 1747111823,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 157902,
@@ -4593,6 +4689,14 @@
       "onboard_time": 1747034964,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151085,
+      "num": 151085,
+      "word": "nova14或将搭载潜望长焦镜头",
+      "onboard_time": 1747113861,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 150304,
@@ -7387,6 +7491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60399,
+      "num": 350490,
+      "word": "nova14大眼萌镜头",
+      "onboard_time": 1747112662,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 59533,
       "num": 184873,
       "word": "美媒称莫迪被巴导弹袭击吓停火",
@@ -7457,6 +7569,14 @@
       "onboard_time": 1746955221,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55825,
+      "num": 178980,
+      "word": "高铁上大叔送饼给女生",
+      "onboard_time": 1747111643,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 55571,
@@ -7577,6 +7697,14 @@
       "onboard_time": 1747005079,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52656,
+      "num": 170979,
+      "word": "藏海传原著小说有哪些精彩之处",
+      "onboard_time": 1747112482,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 52037,
@@ -7929,6 +8057,14 @@
       "onboard_time": 1746961282,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40330,
+      "num": 350310,
+      "word": "留学中介收1.4万未成功被判退费7千",
+      "onboard_time": 1747112722,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40157,
@@ -8953,6 +9089,14 @@
       "onboard_time": 1747110682,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8432,
+      "num": 350312,
+      "word": "如何有效防范应用违法收集信息",
+      "onboard_time": 1747113383,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 8137,

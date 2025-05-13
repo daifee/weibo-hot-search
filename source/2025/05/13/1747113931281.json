@@ -1,0 +1,410 @@
+{
+  "runTime": 1747113931281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2386203,
+        "num": 2386203,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 756747,
+        "num": 756747,
+        "word": "小龙虾价格暴降近50%",
+        "onboard_time": 1747106242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32019,
+        "num": 713247,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1596372,
+        "num": 713025,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712218,
+        "num": 712218,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592961,
+        "num": 592961,
+        "word": "13岁女孩称以为是妈妈让女教官打自己",
+        "onboard_time": 1747110805,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1110731,
+        "num": 591105,
+        "word": "折腰滤镜",
+        "onboard_time": 1747111283,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 893113,
+        "num": 582305,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568892,
+        "num": 568892,
+        "word": "关税下降美国商人的真实反应",
+        "onboard_time": 1747111643,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 531608,
+        "num": 531608,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 902742,
+        "num": 527392,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670411,
+        "num": 526382,
+        "word": "前妻和现任见面眼里全是欣赏",
+        "onboard_time": 1747107561,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579898,
+        "num": 524926,
+        "word": "马吟吟 庐州月",
+        "onboard_time": 1747111462,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523126,
+        "num": 523126,
+        "word": "被年轻人精致穷的消费观震惊了",
+        "onboard_time": 1747108401,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 441262,
+        "num": 441262,
+        "word": "乘风2025成团夜分组",
+        "onboard_time": 1747111103,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408077,
+        "num": 408077,
+        "word": "林更新再现与赵丽颖合作造型",
+        "onboard_time": 1747110623,
+        "rank": 15,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 357417,
+        "num": 357417,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60399,
+        "num": 350490,
+        "word": "nova14大眼萌镜头",
+        "onboard_time": 1747112662,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8432,
+        "num": 350312,
+        "word": "如何有效防范应用违法收集信息",
+        "onboard_time": 1747113383,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 40330,
+        "num": 350310,
+        "word": "留学中介收1.4万未成功被判退费7千",
+        "onboard_time": 1747112722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350309,
+        "num": 350309,
+        "word": "女子被困自家别墅电梯1天1夜",
+        "onboard_time": 1747111044,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337279,
+        "num": 337279,
+        "word": "杜海涛没认出减肥后的方家翊",
+        "onboard_time": 1747112605,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333134,
+        "num": 333134,
+        "word": "李现魏大勋双男主",
+        "onboard_time": 1747107561,
+        "rank": 22,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 316975,
+        "num": 316975,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 192805,
+        "num": 311628,
+        "word": "孙颖莎多哈街头戴头巾",
+        "onboard_time": 1747112482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309766,
+        "num": 309766,
+        "word": "股市",
+        "onboard_time": 1747105820,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267410,
+        "num": 267410,
+        "word": "数百名小米SU7Ultra车主要求退车",
+        "onboard_time": 1747112541,
+        "rank": 26,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 260782,
+        "num": 260782,
+        "word": "耳夹式耳机",
+        "onboard_time": 1747109062,
+        "rank": 27,
+        "category": "数码,休闲"
+      },
+      {
+        "raw_hot": 253311,
+        "num": 253311,
+        "word": "原神丝柯克",
+        "onboard_time": 1747111943,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234072,
+        "num": 234072,
+        "word": "龚俊戛纳电影节造型释出",
+        "onboard_time": 1747111884,
+        "rank": 29,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 139152,
+        "num": 231525,
+        "word": "粉色张艺兴",
+        "onboard_time": 1747107624,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 230948,
+        "word": "患者家属扛着樱桃树冲进医生办公室",
+        "onboard_time": 1747109002,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 230609,
+        "num": 230609,
+        "word": "藏海传定档",
+        "onboard_time": 1747102341,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229081,
+        "num": 229081,
+        "word": "沈月撕拉片",
+        "onboard_time": 1747113022,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 204763,
+        "num": 204763,
+        "word": "花500捞手机没捞到隔天定位在商场",
+        "onboard_time": 1747104081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204338,
+        "num": 204338,
+        "word": "春夏",
+        "onboard_time": 1747110203,
+        "rank": 35,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 187386,
+        "num": 187386,
+        "word": "森林狼3比1勇士",
+        "onboard_time": 1747113742,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182531,
+        "num": 182531,
+        "word": "奚梦瑶官宣爸爸当家观察员",
+        "onboard_time": 1747107624,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55825,
+        "num": 178980,
+        "word": "高铁上大叔送饼给女生",
+        "onboard_time": 1747111643,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 177614,
+        "num": 177614,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 39,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 174831,
+        "num": 174831,
+        "word": "人生若如初见题材",
+        "onboard_time": 1747113261,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174018,
+        "num": 174018,
+        "word": "易烊千玺混乱中的孤独感",
+        "onboard_time": 1747113620,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52656,
+        "num": 170979,
+        "word": "藏海传原著小说有哪些精彩之处",
+        "onboard_time": 1747112482,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168679,
+        "num": 168679,
+        "word": "泼汽油男子父亲希望女方出具谅解书",
+        "onboard_time": 1747107624,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161289,
+        "num": 168494,
+        "word": "2025中国乒超联赛时间确定",
+        "onboard_time": 1747111582,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168326,
+        "num": 168326,
+        "word": "女子皮肤可拉伸几厘米如橡皮人",
+        "onboard_time": 1747106480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162986,
+        "num": 162986,
+        "word": "终于有人把英语体系说清楚了",
+        "onboard_time": 1747111403,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157998,
+        "num": 157998,
+        "word": "不敢想住在这个家里会有多爽",
+        "onboard_time": 1747111823,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151085,
+        "num": 151085,
+        "word": "nova14或将搭载潜望长焦镜头",
+        "onboard_time": 1747113861,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "中美联合声明是中国反制的胜利",
+        "onboard_time": 1747108102,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
