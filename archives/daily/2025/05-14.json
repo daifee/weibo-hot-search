@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747157010336,
+  "endTime": 1747158094076,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99342,
+      "num": 99342,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95019,
       "num": 95019,
       "word": "医生辟谣生理期不能吃冰不能吃辣",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87883,
+      "num": 99401,
+      "word": "戛纳",
+      "onboard_time": 1747141100,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86646,
       "num": 86646,
       "word": "海陆看秀状态",
@@ -273,14 +289,6 @@
       "onboard_time": 1747135460,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 84944,
-      "num": 84944,
-      "word": "戛纳",
-      "onboard_time": 1747141100,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 84455,
@@ -427,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37593,
-      "num": 78043,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 35688,
+      "num": 35688,
+      "word": "沉浸式感受国乒多哈训练",
+      "onboard_time": 1747157956,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 35332,
@@ -446,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同巴西总统卢拉会谈#"
+    },
+    {
+      "word": "#中国始终做拉美和加勒比国家的好朋友#"
     }
   ]
 }
