@@ -1,0 +1,410 @@
+{
+  "runTime": 1747129337547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774552,
+        "num": 1774552,
+        "word": "女装退货率",
+        "onboard_time": 1747124301,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1734259,
+        "num": 1734259,
+        "word": "高退款人群屏蔽",
+        "onboard_time": 1747124001,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69657,
+        "num": 1207439,
+        "word": "嫦娥五号月球土特产让老外惊叹",
+        "onboard_time": 1747128201,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1127026,
+        "num": 1127026,
+        "word": "火车穿村被撞身亡者最小仅1岁半",
+        "onboard_time": 1747125142,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1111007,
+        "num": 1111007,
+        "word": "百万网红克里西账号被封",
+        "onboard_time": 1747123462,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 660325,
+        "num": 660325,
+        "word": "李诚儒看苍兰诀配音如芒刺背",
+        "onboard_time": 1747125262,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610652,
+        "num": 610652,
+        "word": "律师称网红是小念噢或被刑事追责",
+        "onboard_time": 1747126882,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 388492,
+        "num": 388492,
+        "word": "迪士尼发了肖战剧照",
+        "onboard_time": 1747118661,
+        "rank": 7,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 322830,
+        "num": 322830,
+        "word": "三姐妹因赡养老人闹矛盾仨女婿被刑拘",
+        "onboard_time": 1747123281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308245,
+        "num": 308245,
+        "word": "折腰妆造",
+        "onboard_time": 1747128262,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740703,
+        "num": 308162,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 10,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 445349,
+        "num": 307911,
+        "word": "抖音通报克里西对5岁女孩开黄腔",
+        "onboard_time": 1747123462,
+        "rank": 11,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 307658,
+        "num": 307658,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295892,
+        "num": 295892,
+        "word": "缅甸7.9级地震地表位移画面首曝光",
+        "onboard_time": 1747116682,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22100,
+        "num": 284449,
+        "word": "男女互换都能办健康证的医院被立案",
+        "onboard_time": 1747128680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278501,
+        "num": 278501,
+        "word": "白敬亭 看到了日照金山",
+        "onboard_time": 1747123942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251817,
+        "num": 251817,
+        "word": "藏海传第一对cp来了",
+        "onboard_time": 1747123701,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29616,
+        "num": 251443,
+        "word": "竞赛生坠楼背后失衡的升学道路",
+        "onboard_time": 1747128621,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 59286,
+        "num": 249823,
+        "word": "郑钦文第7次与萨巴伦卡交手",
+        "onboard_time": 1747128143,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18653,
+        "num": 248150,
+        "word": "网红假自杀涨粉是否属于诈骗行为",
+        "onboard_time": 1747128742,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 288757,
+        "num": 246633,
+        "word": "医生辟谣生理期不能吃冰不能吃辣",
+        "onboard_time": 1747122502,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 246297,
+        "num": 246297,
+        "word": "恋与深空仅10厘米粘土手办售价319",
+        "onboard_time": 1747126163,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237596,
+        "num": 237596,
+        "word": "百万网红自导自演自杀一度涨粉2万",
+        "onboard_time": 1747121542,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227185,
+        "num": 227185,
+        "word": "黄晓明金世佳复试还需加试3科笔试",
+        "onboard_time": 1747127781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 214469,
+        "word": "王楚钦多哈街头戴浴巾",
+        "onboard_time": 1747127421,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184062,
+        "num": 207178,
+        "word": "铁路部门回应多人横越铁路被撞身亡",
+        "onboard_time": 1747124481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205952,
+        "num": 205952,
+        "word": "周深工作室公布维权进度表",
+        "onboard_time": 1747128442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "李羲承 酵色",
+        "onboard_time": 1747128680,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60919,
+        "num": 198669,
+        "word": "无锡到上海高铁能包月了",
+        "onboard_time": 1747127962,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39602,
+        "num": 194668,
+        "word": "每天坚持吃鸡蛋的人怎样了",
+        "onboard_time": 1747128502,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 71360,
+        "num": 193377,
+        "word": "警方辟谣网红疑遭勒索自杀去世",
+        "onboard_time": 1747128201,
+        "rank": 30,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 193193,
+        "num": 193193,
+        "word": "折腰魏劭偷听",
+        "onboard_time": 1747129041,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 184904,
+        "num": 184904,
+        "word": "莫迪称印度的行动震惊巴基斯坦",
+        "onboard_time": 1747119321,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176921,
+        "num": 176921,
+        "word": "五月天42场鸟巢破纪录",
+        "onboard_time": 1747128201,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52771,
+        "num": 164112,
+        "word": "嘬老族算不算新型啃老",
+        "onboard_time": 1747127362,
+        "rank": 34,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 156395,
+        "num": 156395,
+        "word": "官方通报穿警察字样雨衣办丧事",
+        "onboard_time": 1747125142,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140156,
+        "num": 140156,
+        "word": "年终奖全用来买家庭地位了",
+        "onboard_time": 1747128561,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57779,
+        "num": 139538,
+        "word": "京东一口气请了六个惊喜大使",
+        "onboard_time": 1747123821,
+        "rank": 37,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 139076,
+        "num": 139076,
+        "word": "黄晓明金世佳是以同等学力申请读博",
+        "onboard_time": 1747126822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135631,
+        "num": 135631,
+        "word": "人生若如初见开播口碑",
+        "onboard_time": 1747128262,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131664,
+        "num": 131664,
+        "word": "刘宇宁古偶",
+        "onboard_time": 1747112843,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120292,
+        "num": 120292,
+        "word": "竹子的一生被东方淮竹具象化了",
+        "onboard_time": 1747129041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119386,
+        "num": 119386,
+        "word": "苹果渠道官方调价",
+        "onboard_time": 1747129101,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115774,
+        "num": 115774,
+        "word": "特朗普迅速将炮火转向欧盟",
+        "onboard_time": 1747128802,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9864,
+        "num": 115421,
+        "word": "消费降级宠物经济升级",
+        "onboard_time": 1747129282,
+        "rank": 44,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 115398,
+        "num": 115398,
+        "word": "中国人民抗战胜利80周年",
+        "onboard_time": 1747126402,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110341,
+        "num": 110341,
+        "word": "卫健委回应救护车在西藏拉警报旅游",
+        "onboard_time": 1747117881,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 110201,
+        "num": 110201,
+        "word": "无效健身十大表现",
+        "onboard_time": 1747126343,
+        "rank": 47,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 98482,
+        "num": 98482,
+        "word": "孟佳王霏霏有种祖师奶的从容",
+        "onboard_time": 1747126521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97529,
+        "num": 97529,
+        "word": "苏黎世贝勒爷",
+        "onboard_time": 1747129163,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中拉论坛第四届部长级会议开幕式#"
+    }
+  }
+}
