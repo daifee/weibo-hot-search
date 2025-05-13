@@ -1,0 +1,410 @@
+{
+  "runTime": 1747144186683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602474,
+        "num": 1602474,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1169751,
+        "num": 1169751,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8295,
+        "num": 986527,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 953849,
+        "num": 953849,
+        "word": "月经是女性健康的试金石",
+        "onboard_time": 1747142001,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 813043,
+        "num": 813043,
+        "word": "徐艺洋没吃过爱情的苦",
+        "onboard_time": 1747140801,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1300279,
+        "num": 752537,
+        "word": "赵樱子戛纳礼服脏了发文求助",
+        "onboard_time": 1747136601,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1234881,
+        "num": 696946,
+        "word": "特朗普突然提统一吓坏台当局",
+        "onboard_time": 1747134621,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 636705,
+        "num": 636705,
+        "word": "将门毒后",
+        "onboard_time": 1747138822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620928,
+        "num": 620928,
+        "word": "李现关注了刘亦菲",
+        "onboard_time": 1747141942,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450683,
+        "num": 603543,
+        "word": "北京冰雹好大",
+        "onboard_time": 1747141822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593219,
+        "num": 593219,
+        "word": "中国巴西发表联合声明",
+        "onboard_time": 1747139362,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525437,
+        "num": 525437,
+        "word": "甄嬛传14年后郑晓龙再导古装剧",
+        "onboard_time": 1747133361,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426486,
+        "num": 426486,
+        "word": "折腰妆造",
+        "onboard_time": 1747128262,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383144,
+        "num": 383144,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 13,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 350118,
+        "num": 350118,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336610,
+        "num": 336610,
+        "word": "半熟恋人4",
+        "onboard_time": 1747135581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253079,
+        "num": 335937,
+        "word": "深圳中院回应退休夫妻负债1.2亿",
+        "onboard_time": 1747139481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36991,
+        "num": 333614,
+        "word": "我国页岩气井垂深纪录刷新",
+        "onboard_time": 1747143322,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18566,
+        "num": 330893,
+        "word": "隐形式车门把手存在哪些问题",
+        "onboard_time": 1747143082,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33877,
+        "num": 330644,
+        "word": "高校被曝投拍恐怖片要学生自费观影",
+        "onboard_time": 1747143563,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328865,
+        "num": 328865,
+        "word": "张艺兴金钟仁cha",
+        "onboard_time": 1747135460,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327010,
+        "num": 327010,
+        "word": "内娱谁敢接李现这样的造型",
+        "onboard_time": 1747144042,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245336,
+        "num": 245336,
+        "word": "折腰一出 拉郎遍地",
+        "onboard_time": 1747143863,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241076,
+        "num": 241076,
+        "word": "618提前了",
+        "onboard_time": 1747143921,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235159,
+        "num": 235159,
+        "word": "刘诗诗给主持人挡腿",
+        "onboard_time": 1747131501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228531,
+        "num": 228531,
+        "word": "医生辟谣生理期不能吃冰不能吃辣",
+        "onboard_time": 1747122502,
+        "rank": 25,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 225905,
+        "num": 225905,
+        "word": "对刘宇宁189有了实感",
+        "onboard_time": 1747130601,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88637,
+        "num": 224867,
+        "word": "北京雷声比雨声大",
+        "onboard_time": 1747143921,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193113,
+        "num": 224541,
+        "word": "律师称网红是小念噢或被刑事追责",
+        "onboard_time": 1747126882,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 224398,
+        "num": 224398,
+        "word": "沪上阿姨鞠婧祎",
+        "onboard_time": 1747138640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211941,
+        "num": 211941,
+        "word": "藏海传预告片上线",
+        "onboard_time": 1747130720,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204628,
+        "num": 204628,
+        "word": "戛纳",
+        "onboard_time": 1747141100,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192777,
+        "num": 192777,
+        "word": "小米SU7被货车碾压还能开车门放音乐",
+        "onboard_time": 1747136842,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192553,
+        "num": 192553,
+        "word": "锦月如歌",
+        "onboard_time": 1747143563,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142677,
+        "num": 183475,
+        "word": "魏建军称网友的声音都听到了",
+        "onboard_time": 1747139960,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85532,
+        "num": 181715,
+        "word": "大连理工十佳歌手决赛之夜",
+        "onboard_time": 1747144164,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43872,
+        "num": 180934,
+        "word": "胡锡进谈美国输了",
+        "onboard_time": 1747141761,
+        "rank": 36,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 180621,
+        "num": 180621,
+        "word": "8岁男孩落水父母下水施救父亲遇难",
+        "onboard_time": 1747137141,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 175873,
+        "num": 175873,
+        "word": "百万网红克里西账号被封",
+        "onboard_time": 1747123462,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174866,
+        "num": 174866,
+        "word": "周深演唱会抢票",
+        "onboard_time": 1747143082,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155539,
+        "num": 155539,
+        "word": "邱贻可回应世界杯孙颖莎蒯曼争冠",
+        "onboard_time": 1747144042,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62757,
+        "num": 155140,
+        "word": "军事竞赛夺冠的她回校看望张桂梅",
+        "onboard_time": 1747141401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155081,
+        "num": 155081,
+        "word": "关税",
+        "onboard_time": 1747138461,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142726,
+        "num": 142726,
+        "word": "凑60多万为农村父母建别墅3姐妹发声",
+        "onboard_time": 1747137622,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134805,
+        "num": 134805,
+        "word": "冯骥金亨泰互关",
+        "onboard_time": 1747143501,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "大促终于把数学试卷撕了",
+        "onboard_time": 1747143984,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124297,
+        "num": 124297,
+        "word": "李诚儒看苍兰诀配音如芒刺背",
+        "onboard_time": 1747125262,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122581,
+        "num": 122581,
+        "word": "多方回应小伙为救同学错过考试",
+        "onboard_time": 1747140020,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122256,
+        "num": 122256,
+        "word": "大疆新品",
+        "onboard_time": 1747142602,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117914,
+        "num": 117914,
+        "word": "李想回应2万都要自己审批",
+        "onboard_time": 1747144101,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中拉论坛第四届部长级会议开幕式#"
+    }
+  }
+}
