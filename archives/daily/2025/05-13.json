@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747107052325,
+  "endTime": 1747108635016,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -8,6 +8,14 @@
       "word": "折腰今日开播",
       "onboard_time": 1747101920,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2676343,
+      "num": 571024,
+      "word": "一天官宣三部大剧",
+      "onboard_time": 1747106902,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1104944,
-      "num": 406616,
+      "num": 422524,
       "word": "折腰",
       "onboard_time": 1747038624,
       "rank": 17,
@@ -57,6 +65,14 @@
       "onboard_time": 1747098441,
       "rank": 0,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 888465,
+      "num": 888465,
+      "word": "股市",
+      "onboard_time": 1747105820,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 888000,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 560883,
-      "num": 320072,
+      "num": 361162,
       "word": "金价又崩了",
       "onboard_time": 1747061484,
       "rank": 21,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537477,
+      "num": 404834,
+      "word": "河海大学女博士实名举报导师性骚扰",
+      "onboard_time": 1747103182,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532273,
       "num": 532273,
       "word": "SK",
@@ -139,12 +163,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 518651,
-      "num": 372019,
-      "word": "河海大学女博士实名举报导师性骚扰",
-      "onboard_time": 1747103182,
-      "rank": 14,
+      "raw_hot": 493862,
+      "num": 493862,
+      "word": "小龙虾价格暴降近50%",
+      "onboard_time": 1747106242,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493550,
+      "num": 376679,
+      "word": "李现魏大勋双男主",
+      "onboard_time": 1747107561,
+      "rank": 22,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 484749,
@@ -187,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436863,
+      "num": 377223,
+      "word": "女子皮肤可拉伸几厘米如橡皮人",
+      "onboard_time": 1747106480,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433762,
       "num": 433762,
       "word": "折腰云包场",
@@ -219,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376427,
+      "num": 376427,
+      "word": "前妻和现任见面眼里全是欣赏",
+      "onboard_time": 1747107561,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371931,
       "num": 371931,
       "word": "印度民众打砸一家叫卡拉奇的面包店",
       "onboard_time": 1747055542,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 362243,
-      "num": 362243,
-      "word": "股市",
-      "onboard_time": 1747105820,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 355207,
@@ -264,14 +304,6 @@
       "word": "98年出生的老爷猫去世",
       "onboard_time": 1747061484,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335482,
-      "num": 335482,
-      "word": "女子皮肤可拉伸几厘米如橡皮人",
-      "onboard_time": 1747106480,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -323,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303727,
+      "num": 303727,
+      "word": "爸爸当家",
+      "onboard_time": 1747105582,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292347,
       "num": 267124,
       "word": "小花简直就是女版邓超附体",
@@ -345,14 +385,6 @@
       "onboard_time": 1747101561,
       "rank": 26,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 277783,
-      "num": 277783,
-      "word": "爸爸当家",
-      "onboard_time": 1747105582,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 255538,
@@ -385,6 +417,14 @@
       "onboard_time": 1747104020,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 249162,
+      "num": 249162,
+      "word": "奚梦瑶官宣爸爸当家观察员",
+      "onboard_time": 1747107624,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 248990,
@@ -435,12 +475,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229260,
+      "num": 229260,
+      "word": "折腰追剧日历",
+      "onboard_time": 1747108581,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221833,
       "num": 221833,
       "word": "商务部回应中美经贸会谈联合声明",
       "onboard_time": 1747033822,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217947,
+      "num": 217947,
+      "word": "陈妍希特邀出演",
+      "onboard_time": 1747107742,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 214512,
@@ -459,20 +515,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 209808,
+      "num": 209808,
+      "word": "杨紫樱桃look",
+      "onboard_time": 1747108282,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208462,
       "num": 208462,
       "word": "狂野时代",
       "onboard_time": 1747100781,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207678,
-      "num": 320459,
-      "word": "小龙虾价格暴降近50%",
-      "onboard_time": 1747106242,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204267,
@@ -489,6 +545,30 @@
       "onboard_time": 1747056143,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199649,
+      "num": 214946,
+      "word": "巴基斯坦空军指挥室内部照片",
+      "onboard_time": 1747104381,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 198639,
+      "num": 376743,
+      "word": "粉色张艺兴",
+      "onboard_time": 1747107624,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195998,
+      "num": 195998,
+      "word": "被年轻人精致穷的消费观震惊了",
+      "onboard_time": 1747108401,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 194699,
@@ -513,22 +593,6 @@
       "onboard_time": 1747080374,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191818,
-      "num": 191818,
-      "word": "一天官宣三部大剧",
-      "onboard_time": 1747106902,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 191746,
-      "num": 214946,
-      "word": "巴基斯坦空军指挥室内部照片",
-      "onboard_time": 1747104381,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 190877,
@@ -587,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185979,
+      "num": 185979,
+      "word": "邓为ELLE6月刊封面",
+      "onboard_time": 1747108222,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182665,
       "num": 182665,
       "word": "种地吧",
@@ -601,6 +673,14 @@
       "onboard_time": 1747066881,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178067,
+      "num": 268404,
+      "word": "代孕窝点被端幕后老板来电求私了",
+      "onboard_time": 1747106600,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 169761,
@@ -667,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162045,
+      "num": 231477,
+      "word": "刑侦12定档",
+      "onboard_time": 1747108461,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161610,
       "num": 161610,
       "word": "小沈月最近又在哪闯祸呢",
@@ -723,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147166,
+      "num": 377565,
+      "word": "泼汽油男子父亲希望女方出具谅解书",
+      "onboard_time": 1747107624,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146269,
       "num": 146269,
       "word": "韩泰山 抓夹",
@@ -736,6 +832,14 @@
       "word": "官方通报65款应用违法收集个人信息",
       "onboard_time": 1747100182,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140991,
+      "num": 433303,
+      "word": "福建8岁男孩爬山失联已超8天",
+      "onboard_time": 1747106902,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -916,11 +1020,19 @@
     },
     {
       "raw_hot": 102922,
-      "num": 354740,
+      "num": 378283,
       "word": "你永远可以相信智己的底盘",
       "onboard_time": 1747105459,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 100964,
+      "num": 203482,
+      "word": "几个在工作中极不成熟的表现",
+      "onboard_time": 1747106541,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -945,6 +1057,14 @@
       "onboard_time": 1747067239,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 95772,
+      "num": 378820,
+      "word": "骗子拿走女子30万现金翻墙被拦截",
+      "onboard_time": 1747106842,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94458,
@@ -1000,6 +1120,14 @@
       "word": "央视曝光AI造假引流新套路",
       "onboard_time": 1747102462,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88551,
+      "num": 378571,
+      "word": "初次网购的快乐还记得吗",
+      "onboard_time": 1747107142,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74834,
+      "num": 377337,
+      "word": "如何测量内脏脂肪",
+      "onboard_time": 1747107502,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66194,
       "num": 66194,
       "word": "cp31",
@@ -1105,6 +1241,14 @@
       "onboard_time": 1747068798,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54947,
+      "num": 377845,
+      "word": "体重上升不一定是长胖了吗",
+      "onboard_time": 1747108041,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 54259,
@@ -1163,12 +1307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34935,
-      "num": 268404,
-      "word": "代孕窝点被端幕后老板来电求私了",
-      "onboard_time": 1747106600,
-      "rank": 29,
-      "category": "舆论监督"
+      "raw_hot": 36729,
+      "num": 571617,
+      "word": "中国坚定不移扩大高水平对外开放",
+      "onboard_time": 1747103182,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34698,
@@ -1187,28 +1331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 26363,
-      "num": 539599,
-      "word": "中国坚定不移扩大高水平对外开放",
-      "onboard_time": 1747103182,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 24800,
       "num": 321743,
       "word": "印巴冲突中莫迪面临哪些挑战",
       "onboard_time": 1747106181,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23780,
-      "num": 191753,
-      "word": "几个在工作中极不成熟的表现",
-      "onboard_time": 1747106541,
-      "rank": 39,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 22007,
@@ -1235,12 +1363,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 21037,
-      "num": 249425,
-      "word": "福建8岁男孩爬山失联已超8天",
-      "onboard_time": 1747106902,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 20926,
+      "num": 178026,
+      "word": "塔图姆受伤队友该如何填补空缺",
+      "onboard_time": 1747107081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 20747,
@@ -1249,14 +1377,6 @@
       "onboard_time": 1747105280,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 19457,
-      "num": 305650,
-      "word": "骗子拿走女子30万现金翻墙被拦截",
-      "onboard_time": 1747106842,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19399,
