@@ -1,0 +1,410 @@
+{
+  "runTime": 1747179517986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305107,
+        "num": 1305107,
+        "word": "夫妻俩制假币每天印多少花多少",
+        "onboard_time": 1747148424,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376678,
+        "num": 376678,
+        "word": "女子用假文凭入职被发现后起诉索赔",
+        "onboard_time": 1747151302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 300263,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298881,
+        "num": 298881,
+        "word": "90后健身博主山阿离世",
+        "onboard_time": 1747151600,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270806,
+        "num": 270806,
+        "word": "美国和沙特签署上千亿美元军售协议",
+        "onboard_time": 1747177879,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395193,
+        "num": 267807,
+        "word": "特朗普突然提统一吓坏台当局",
+        "onboard_time": 1747134621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314393,
+        "num": 265038,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197158,
+        "num": 261442,
+        "word": "迪丽热巴支持折腰",
+        "onboard_time": 1747177879,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29210,
+        "num": 255279,
+        "word": "英伟达暴涨5.63%",
+        "onboard_time": 1747178960,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29513,
+        "num": 252976,
+        "word": "美国主动请求关税休战",
+        "onboard_time": 1747178779,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249060,
+        "num": 249060,
+        "word": "盖茨称美禁令让中国在各领域全速发展",
+        "onboard_time": 1747156516,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230758,
+        "num": 230758,
+        "word": "为什么我们的衣服越来越难买了",
+        "onboard_time": 1747151181,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804355,
+        "num": 212436,
+        "word": "杜淳妻子自曝当不了演员的原因",
+        "onboard_time": 1747150221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376442,
+        "num": 202330,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188481,
+        "num": 188481,
+        "word": "河南5名干部违规吃喝饮酒1人死亡",
+        "onboard_time": 1747150161,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 178410,
+        "num": 178410,
+        "word": "女子拔完智齿头痛难忍嘴里竟有根针",
+        "onboard_time": 1747148902,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158202,
+        "num": 158202,
+        "word": "比尔盖茨财富清零",
+        "onboard_time": 1747150102,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157295,
+        "num": 157295,
+        "word": "内娱谁敢接李现这样的造型",
+        "onboard_time": 1747144042,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134618,
+        "num": 134618,
+        "word": "邱淑贞带两个女儿同游西安",
+        "onboard_time": 1747173014,
+        "rank": 18,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 134128,
+        "word": "李现人缘",
+        "onboard_time": 1747165334,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389512,
+        "num": 132033,
+        "word": "北京有车桥下躲冰雹致堵车",
+        "onboard_time": 1747150582,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251445,
+        "num": 130170,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42350,
+        "num": 128655,
+        "word": "希腊6.0级地震",
+        "onboard_time": 1747179139,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217413,
+        "num": 126513,
+        "word": "医生晒出18颗一模一样胆结石",
+        "onboard_time": 1747177938,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125907,
+        "num": 125907,
+        "word": "小米SU7被货车碾压还能开车门放音乐",
+        "onboard_time": 1747136842,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121876,
+        "num": 121876,
+        "word": "首批59名南非白人难民抵达美国",
+        "onboard_time": 1747164733,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121667,
+        "num": 121667,
+        "word": "天蝎座最大的软肋",
+        "onboard_time": 1747151541,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86246,
+        "num": 119549,
+        "word": "戛纳",
+        "onboard_time": 1747141100,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82795,
+        "num": 118019,
+        "word": "肖战藏海传抬眸杀",
+        "onboard_time": 1747176017,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74750,
+        "num": 113420,
+        "word": "甄嬛传14年后郑晓龙再导古装剧",
+        "onboard_time": 1747133361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132531,
+        "num": 112878,
+        "word": "他们居然相爱了16425天",
+        "onboard_time": 1747179500,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110345,
+        "num": 110345,
+        "word": "鬼鬼为女购学区房",
+        "onboard_time": 1747144881,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90175,
+        "num": 90175,
+        "word": "官方通报珠海发生旋挖桩机倾倒事件",
+        "onboard_time": 1747155678,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87596,
+        "num": 87596,
+        "word": "特朗普与沙特王储喝咖啡聊天",
+        "onboard_time": 1747177338,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86490,
+        "num": 86490,
+        "word": "对刘宇宁189有了实感",
+        "onboard_time": 1747130601,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75925,
+        "num": 75925,
+        "word": "墨西哥市长候选人直播遭枪杀",
+        "onboard_time": 1747145723,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74292,
+        "num": 74292,
+        "word": "调整对原产美国的进口商品加征关税",
+        "onboard_time": 1747145784,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73722,
+        "num": 73722,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 37,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 72697,
+        "num": 72697,
+        "word": "将门毒后",
+        "onboard_time": 1747138822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66295,
+        "num": 66295,
+        "word": "最早不婚族自梳女",
+        "onboard_time": 1747147582,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64332,
+        "num": 64332,
+        "word": "沪上阿姨鞠婧祎",
+        "onboard_time": 1747138640,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55989,
+        "num": 64310,
+        "word": "官方通报5干部培训期饮酒1人死亡",
+        "onboard_time": 1747148424,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51731,
+        "num": 64297,
+        "word": "毛利兰新剧场版打戏好爽",
+        "onboard_time": 1747178059,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 51490,
+        "num": 64285,
+        "word": "邓为五大销售登顶",
+        "onboard_time": 1747149501,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50045,
+        "num": 64250,
+        "word": "半熟恋人",
+        "onboard_time": 1747179321,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49246,
+        "num": 64238,
+        "word": "中国巴西发表联合声明",
+        "onboard_time": 1747139362,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48680,
+        "num": 64213,
+        "word": "陕西首富范代娣夫妇商业版图盘点",
+        "onboard_time": 1747155198,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46547,
+        "num": 64198,
+        "word": "邱贻可说陈玘养猪没活几个",
+        "onboard_time": 1747153401,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42035,
+        "num": 64177,
+        "word": "刑警的日子",
+        "onboard_time": 1747175597,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41033,
+        "num": 64147,
+        "word": "藏海传预告片上线",
+        "onboard_time": 1747130720,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉会谈#"
+    }
+  }
+}

@@ -1,14 +1,22 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747178657633,
+  "endTime": 1747179517986,
   "band_list": [
     {
-      "raw_hot": 1144615,
-      "num": 1144615,
+      "raw_hot": 1305107,
+      "num": 1305107,
       "word": "夫妻俩制假币每天印多少花多少",
       "onboard_time": 1747148424,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804355,
+      "num": 300615,
+      "word": "杜淳妻子自曝当不了演员的原因",
+      "onboard_time": 1747150221,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 723466,
@@ -16,14 +24,6 @@
       "word": "贾玲近照又瘦了",
       "onboard_time": 1747143622,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 708303,
-      "num": 300615,
-      "word": "杜淳妻子自曝当不了演员的原因",
-      "onboard_time": 1747150221,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 389512,
+      "num": 168727,
+      "word": "北京有车桥下躲冰雹致堵车",
+      "onboard_time": 1747150582,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389191,
       "num": 389191,
       "word": "女子拔完智齿头痛难忍嘴里竟有根针",
@@ -59,19 +67,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348227,
-      "num": 348227,
+      "raw_hot": 376678,
+      "num": 376678,
       "word": "女子用假文凭入职被发现后起诉索赔",
       "onboard_time": 1747151302,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345316,
-      "num": 168727,
-      "word": "北京有车桥下躲冰雹致堵车",
-      "onboard_time": 1747150582,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288403,
-      "num": 288403,
+      "raw_hot": 298881,
+      "num": 298881,
       "word": "90后健身博主山阿离世",
       "onboard_time": 1747151600,
       "rank": 13,
@@ -107,12 +107,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270806,
+      "num": 270806,
+      "word": "美国和沙特签署上千亿美元军售协议",
+      "onboard_time": 1747177879,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260340,
       "num": 314344,
       "word": "内娱谁敢接李现这样的造型",
       "onboard_time": 1747144042,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249060,
+      "num": 249060,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 230758,
+      "num": 230758,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218791,
@@ -123,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215674,
-      "num": 215674,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 217413,
+      "num": 126513,
+      "word": "医生晒出18颗一模一样胆结石",
+      "onboard_time": 1747177938,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202028,
@@ -139,12 +163,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 197762,
-      "num": 197762,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 197158,
+      "num": 261442,
+      "word": "迪丽热巴支持折腰",
+      "onboard_time": 1747177879,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188481,
+      "num": 188481,
+      "word": "河南5名干部违规吃喝饮酒1人死亡",
+      "onboard_time": 1747150161,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 183090,
@@ -171,44 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159907,
-      "num": 159907,
-      "word": "河南5名干部违规吃喝饮酒1人死亡",
-      "onboard_time": 1747150161,
-      "rank": 35,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 156218,
-      "num": 156218,
-      "word": "迪丽热巴支持折腰",
-      "onboard_time": 1747177879,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 150846,
-      "num": 150846,
-      "word": "美国和沙特签署上千亿美元军售协议",
-      "onboard_time": 1747177879,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 145000,
-      "num": 121278,
-      "word": "医生晒出18颗一模一样胆结石",
-      "onboard_time": 1747177938,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141661,
       "num": 141661,
       "word": "邱淑贞带两个女儿同游西安",
       "onboard_time": 1747173014,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 132531,
+      "num": 112878,
+      "word": "他们居然相爱了16425天",
+      "onboard_time": 1747179500,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 129764,
@@ -227,12 +235,28 @@
       "category": "海外新闻,军事"
     },
     {
+      "raw_hot": 125907,
+      "num": 125907,
+      "word": "小米SU7被货车碾压还能开车门放音乐",
+      "onboard_time": 1747136842,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 122557,
       "num": 122557,
       "word": "半熟恋人4",
       "onboard_time": 1747135581,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121876,
+      "num": 173173,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119785,
@@ -259,8 +283,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109375,
-      "num": 109375,
+      "raw_hot": 110345,
+      "num": 110345,
       "word": "鬼鬼为女购学区房",
       "onboard_time": 1747144881,
       "rank": 25,
@@ -283,12 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101966,
-      "num": 101966,
-      "word": "小米SU7被货车碾压还能开车门放音乐",
-      "onboard_time": 1747136842,
-      "rank": 37,
-      "category": "汽车"
+      "raw_hot": 104100,
+      "num": 134128,
+      "word": "李现人缘",
+      "onboard_time": 1747165334,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95595,
+      "num": 346605,
+      "word": "外国航司狂接中国游流量",
+      "onboard_time": 1747144042,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95262,
@@ -324,11 +356,19 @@
     },
     {
       "raw_hot": 87883,
-      "num": 99401,
+      "num": 119549,
       "word": "戛纳",
       "onboard_time": 1747141100,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87596,
+      "num": 87596,
+      "word": "特朗普与沙特王储喝咖啡聊天",
+      "onboard_time": 1747177338,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86646,
@@ -347,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82970,
-      "num": 82970,
-      "word": "李现人缘",
-      "onboard_time": 1747165334,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82969,
       "num": 82969,
       "word": "调整对原产美国的进口商品加征关税",
@@ -363,28 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82557,
-      "num": 346605,
-      "word": "外国航司狂接中国游流量",
-      "onboard_time": 1747144042,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 82029,
-      "num": 71149,
-      "word": "特朗普与沙特王储喝咖啡聊天",
-      "onboard_time": 1747177338,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 80897,
-      "num": 173173,
-      "word": "首批59名南非白人难民抵达美国",
-      "onboard_time": 1747164733,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 82795,
+      "num": 118019,
+      "word": "肖战藏海传抬眸杀",
+      "onboard_time": 1747176017,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 78698,
@@ -411,8 +427,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75854,
-      "num": 75854,
+      "raw_hot": 75925,
+      "num": 75925,
       "word": "墨西哥市长候选人直播遭枪杀",
       "onboard_time": 1747145723,
       "rank": 40,
@@ -459,7 +475,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60641,
+      "raw_hot": 64332,
       "num": 71611,
       "word": "沪上阿姨鞠婧祎",
       "onboard_time": 1747138640,
@@ -483,12 +499,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56186,
-      "num": 56186,
-      "word": "肖战藏海传抬眸杀",
-      "onboard_time": 1747176017,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 51731,
+      "num": 64297,
+      "word": "毛利兰新剧场版打戏好爽",
+      "onboard_time": 1747178059,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 50045,
+      "num": 64250,
+      "word": "半熟恋人",
+      "onboard_time": 1747179321,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48680,
+      "num": 64213,
+      "word": "陕西首富范代娣夫妇商业版图盘点",
+      "onboard_time": 1747155198,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46923,
@@ -499,14 +531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 46469,
-      "num": 55947,
-      "word": "毛利兰新剧场版打戏好爽",
-      "onboard_time": 1747178059,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 43316,
       "num": 43316,
       "word": "韩彩英45岁状态",
@@ -515,12 +539,20 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 39766,
-      "num": 55922,
-      "word": "陕西首富范代娣夫妇商业版图盘点",
-      "onboard_time": 1747155198,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 42350,
+      "num": 128655,
+      "word": "希腊6.0级地震",
+      "onboard_time": 1747179139,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 42035,
+      "num": 64177,
+      "word": "刑警的日子",
+      "onboard_time": 1747175597,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 39739,
@@ -529,14 +561,6 @@
       "onboard_time": 1747156756,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36124,
-      "num": 55868,
-      "word": "刑警的日子",
-      "onboard_time": 1747175597,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 35688,
@@ -569,6 +593,22 @@
       "onboard_time": 1747160476,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29513,
+      "num": 252976,
+      "word": "美国主动请求关税休战",
+      "onboard_time": 1747178779,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29210,
+      "num": 255279,
+      "word": "英伟达暴涨5.63%",
+      "onboard_time": 1747178960,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 26681,
