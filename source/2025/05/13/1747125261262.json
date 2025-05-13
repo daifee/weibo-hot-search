@@ -1,0 +1,410 @@
+{
+  "runTime": 1747125261262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277059,
+        "num": 1277059,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 0,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 1203269,
+        "num": 1203269,
+        "word": "百万网红克里西账号被封",
+        "onboard_time": 1747123462,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 22112,
+        "num": 642280,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614836,
+        "num": 614836,
+        "word": "缅甸7.9级地震地表位移画面首曝光",
+        "onboard_time": 1747116682,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510113,
+        "num": 510113,
+        "word": "迪士尼发了肖战剧照",
+        "onboard_time": 1747118661,
+        "rank": 4,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 622203,
+        "num": 497235,
+        "word": "折腰打破2025腾讯记录",
+        "onboard_time": 1747118902,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478579,
+        "num": 478579,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531465,
+        "num": 473384,
+        "word": "刘晓庆 折腰",
+        "onboard_time": 1747120822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429336,
+        "num": 429336,
+        "word": "莫迪称印度的行动震惊巴基斯坦",
+        "onboard_time": 1747119321,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391332,
+        "num": 391332,
+        "word": "藏海传无头驾驶",
+        "onboard_time": 1747122202,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1047990,
+        "num": 372101,
+        "word": "百万网红自导自演自杀一度涨粉2万",
+        "onboard_time": 1747121542,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576798,
+        "num": 366910,
+        "word": "抖音通报克里西对5岁女孩开黄腔",
+        "onboard_time": 1747123462,
+        "rank": 11,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 69569,
+        "num": 350703,
+        "word": "京东一口气请了六个惊喜大使",
+        "onboard_time": 1747123821,
+        "rank": 12,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 346383,
+        "num": 346383,
+        "word": "卫健委回应救护车在西藏拉警报旅游",
+        "onboard_time": 1747117881,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 257555,
+        "num": 257555,
+        "word": "女装退货率",
+        "onboard_time": 1747124301,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 252820,
+        "num": 252820,
+        "word": "白敬亭 看到了日照金山",
+        "onboard_time": 1747123942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232856,
+        "num": 241504,
+        "word": "藏海传第一对cp来了",
+        "onboard_time": 1747123701,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239058,
+        "num": 239058,
+        "word": "三姐妹因赡养老人闹矛盾仨女婿被刑拘",
+        "onboard_time": 1747123281,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18368,
+        "num": 238838,
+        "word": "开救护车旅游的司机该如何处罚",
+        "onboard_time": 1747124181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117698,
+        "num": 238593,
+        "word": "百万粉丝网红自编自导自杀",
+        "onboard_time": 1747123762,
+        "rank": 19,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 550880,
+        "num": 237841,
+        "word": "医生辟谣生理期不能吃冰不能吃辣",
+        "onboard_time": 1747122502,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 248308,
+        "num": 237426,
+        "word": "13岁女孩称以为是妈妈让女教官打自己",
+        "onboard_time": 1747110805,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47173,
+        "num": 236997,
+        "word": "男孩商场骑平衡车撞倒老人坚称无责",
+        "onboard_time": 1747124961,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203550,
+        "num": 236456,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135172,
+        "num": 236232,
+        "word": "库里说无法出战G5",
+        "onboard_time": 1747124841,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235908,
+        "num": 235908,
+        "word": "高退款人群屏蔽",
+        "onboard_time": 1747124001,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168859,
+        "num": 233005,
+        "word": "特朗普说欧盟更糟糕",
+        "onboard_time": 1747120761,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158670,
+        "num": 222740,
+        "word": "刘宇宁古偶",
+        "onboard_time": 1747112843,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25964,
+        "num": 215410,
+        "word": "印巴突然停火是真是假",
+        "onboard_time": 1747123881,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35158,
+        "num": 209257,
+        "word": "二房东伪造合同骗30多人百万租金",
+        "onboard_time": 1747123881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205176,
+        "num": 205176,
+        "word": "救援队称8岁失踪男童仍有生还可能",
+        "onboard_time": 1747121661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195480,
+        "num": 195480,
+        "word": "克里西对女童开黄腔",
+        "onboard_time": 1747124421,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186903,
+        "num": 186903,
+        "word": "国家级公开课",
+        "onboard_time": 1747121842,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10565,
+        "num": 186855,
+        "word": "折腰的服装造型有哪些亮点",
+        "onboard_time": 1747125082,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150283,
+        "num": 186852,
+        "word": "71岁的成龙",
+        "onboard_time": 1747117221,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186850,
+        "num": 186850,
+        "word": "铁路部门回应多人横越铁路被撞身亡",
+        "onboard_time": 1747124481,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167451,
+        "num": 167451,
+        "word": "曝司机骚扰未成年女乘客问是不是处女",
+        "onboard_time": 1747115602,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159385,
+        "num": 159385,
+        "word": "加沙47万人面临灾难性饥饿",
+        "onboard_time": 1747122681,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154914,
+        "num": 154914,
+        "word": "阿维塔起诉造谣自媒体索赔1000万",
+        "onboard_time": 1747124841,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144130,
+        "num": 144130,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22642,
+        "num": 140129,
+        "word": "春夏叠穿万能公式",
+        "onboard_time": 1747125201,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139304,
+        "num": 139304,
+        "word": "少时始源泰民A2OMAY李秀满同框",
+        "onboard_time": 1747125082,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76295,
+        "num": 133175,
+        "word": "惩治网红造假不能只等警方介入",
+        "onboard_time": 1747117523,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132811,
+        "num": 132811,
+        "word": "华晨宇半人半兽造型",
+        "onboard_time": 1747124542,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129608,
+        "num": 129608,
+        "word": "火车穿村被撞身亡者最小仅1岁半",
+        "onboard_time": 1747125142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129205,
+        "num": 129205,
+        "word": "夏之光R1SE是朋友是家人",
+        "onboard_time": 1747124722,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127914,
+        "num": 127914,
+        "word": "阿维塔再发声",
+        "onboard_time": 1747123942,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127878,
+        "num": 127878,
+        "word": "前妻和现任见面眼里全是欣赏",
+        "onboard_time": 1747107561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127604,
+        "num": 127604,
+        "word": "黎斯和澹台烬谁更惨",
+        "onboard_time": 1747124481,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126434,
+        "num": 126434,
+        "word": "章若楠双马尾红裙",
+        "onboard_time": 1747124781,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中拉论坛第四届部长级会议开幕式#"
+    }
+  }
+}
