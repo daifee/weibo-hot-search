@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747162066298,
+  "endTime": 1747164075419,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -483,10 +483,18 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12147,
+      "raw_hot": 15959,
       "num": 66805,
       "word": "今天在北京开的这个会值得美国掂量",
       "onboard_time": 1747161434,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11613,
+      "num": 48372,
+      "word": "欢迎巴西总统访华",
+      "onboard_time": 1747163054,
       "rank": 9,
       "category": "国内时政"
     }
