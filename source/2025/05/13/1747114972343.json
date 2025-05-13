@@ -1,0 +1,410 @@
+{
+  "runTime": 1747114972343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2153118,
+        "num": 2153118,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 810684,
+        "num": 810684,
+        "word": "13岁女孩称以为是妈妈让女教官打自己",
+        "onboard_time": 1747110805,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32919,
+        "num": 796998,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1337102,
+        "num": 796937,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 794290,
+        "num": 794290,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545456,
+        "num": 545456,
+        "word": "关税下降美国商人的真实反应",
+        "onboard_time": 1747111643,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 890052,
+        "num": 542138,
+        "word": "折腰热度",
+        "onboard_time": 1747114581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506886,
+        "num": 506886,
+        "word": "小龙虾价格暴降近50%",
+        "onboard_time": 1747106242,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854522,
+        "num": 501254,
+        "word": "折腰滤镜",
+        "onboard_time": 1747111283,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380506,
+        "num": 380506,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 728312,
+        "num": 380504,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554674,
+        "num": 380502,
+        "word": "马吟吟 庐州月",
+        "onboard_time": 1747111462,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79836,
+        "num": 380501,
+        "word": "上海一民警收受娱乐场所贿款200余万",
+        "onboard_time": 1747114581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76612,
+        "num": 380495,
+        "word": "印度拟对美部分输印商品征收关税",
+        "onboard_time": 1747114342,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 548355,
+        "num": 380494,
+        "word": "前妻和现任见面眼里全是欣赏",
+        "onboard_time": 1747107561,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466319,
+        "num": 380492,
+        "word": "被年轻人精致穷的消费观震惊了",
+        "onboard_time": 1747108401,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 411984,
+        "num": 380487,
+        "word": "杜海涛没认出减肥后的方家翊",
+        "onboard_time": 1747112605,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71903,
+        "num": 380487,
+        "word": "nova14大眼萌镜头",
+        "onboard_time": 1747112662,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14134,
+        "num": 380482,
+        "word": "小龙虾价格暴跌哪些区域最受影响",
+        "onboard_time": 1747114342,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 70214,
+        "num": 380480,
+        "word": "10岁女孩领养免费猫咪被骗6千多",
+        "onboard_time": 1747114162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148995,
+        "num": 380477,
+        "word": "张艺兴成为京东潮流代言人",
+        "onboard_time": 1747114520,
+        "rank": 20,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 380476,
+        "num": 380476,
+        "word": "乘风2025成团夜分组",
+        "onboard_time": 1747111103,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 379109,
+        "word": "林更新再现与赵丽颖合作造型",
+        "onboard_time": 1747110623,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 351435,
+        "num": 351435,
+        "word": "女子被困自家别墅电梯1天1夜",
+        "onboard_time": 1747111044,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262472,
+        "num": 346616,
+        "word": "森林狼3比1勇士",
+        "onboard_time": 1747113742,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345182,
+        "num": 345182,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303745,
+        "num": 303745,
+        "word": "沈月撕拉片",
+        "onboard_time": 1747113022,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 243436,
+        "num": 243436,
+        "word": "数百名小米SU7Ultra车主要求退车",
+        "onboard_time": 1747112541,
+        "rank": 27,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 237662,
+        "word": "易烊千玺混乱中的孤独感",
+        "onboard_time": 1747113620,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42614,
+        "num": 236151,
+        "word": "英国永居等待时间将从5年变为10年",
+        "onboard_time": 1747114221,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235395,
+        "num": 235395,
+        "word": "耳夹式耳机",
+        "onboard_time": 1747109062,
+        "rank": 30,
+        "category": "数码,休闲"
+      },
+      {
+        "raw_hot": 230736,
+        "num": 230736,
+        "word": "李现魏大勋双男主",
+        "onboard_time": 1747107561,
+        "rank": 31,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 222455,
+        "num": 222455,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 195644,
+        "num": 195644,
+        "word": "股市",
+        "onboard_time": 1747105820,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187045,
+        "num": 187045,
+        "word": "优酷开启了大男主复仇赛道",
+        "onboard_time": 1747114101,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179447,
+        "num": 179447,
+        "word": "莫迪对印巴空战公开讲话但只字不提美国",
+        "onboard_time": 1747114941,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183628,
+        "num": 178122,
+        "word": "藏海传定档",
+        "onboard_time": 1747102341,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176368,
+        "num": 176368,
+        "word": "孙颖莎多哈街头戴头巾",
+        "onboard_time": 1747112482,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169727,
+        "num": 169727,
+        "word": "春夏",
+        "onboard_time": 1747110203,
+        "rank": 38,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 156731,
+        "num": 156731,
+        "word": "患者家属扛着樱桃树冲进医生办公室",
+        "onboard_time": 1747109002,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "终于有人把英语体系说清楚了",
+        "onboard_time": 1747111403,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154056,
+        "num": 154056,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 41,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 142683,
+        "num": 142683,
+        "word": "女子皮肤可拉伸几厘米如橡皮人",
+        "onboard_time": 1747106480,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141501,
+        "num": 141501,
+        "word": "吴宣仪看我72变队长",
+        "onboard_time": 1747111582,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140620,
+        "num": 140620,
+        "word": "花500捞手机没捞到隔天定位在商场",
+        "onboard_time": 1747104081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135460,
+        "num": 135460,
+        "word": "奚梦瑶官宣爸爸当家观察员",
+        "onboard_time": 1747107624,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134971,
+        "num": 134971,
+        "word": "金价还在跌",
+        "onboard_time": 1747113083,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126863,
+        "num": 126863,
+        "word": "nova14或将搭载潜望长焦镜头",
+        "onboard_time": 1747113861,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126661,
+        "num": 126661,
+        "word": "上班真的很可怕一件事",
+        "onboard_time": 1747114283,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119272,
+        "num": 119272,
+        "word": "不敢想住在这个家里会有多爽",
+        "onboard_time": 1747111823,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}

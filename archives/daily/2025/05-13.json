@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747113931281,
+  "endTime": 1747114972343,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 890052,
+      "num": 542138,
+      "word": "折腰热度",
+      "onboard_time": 1747114581,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 888465,
       "num": 888465,
       "word": "股市",
@@ -115,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 810684,
+      "num": 810684,
+      "word": "13岁女孩称以为是妈妈让女教官打自己",
+      "onboard_time": 1747110805,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 794290,
+      "num": 794290,
+      "word": "一救护车疑在墨脱旅游拉警报开道",
+      "onboard_time": 1747109062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730577,
       "num": 382630,
       "word": "宣璐领衔主演折腰",
@@ -129,14 +153,6 @@
       "onboard_time": 1747094060,
       "rank": 1,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 712218,
-      "num": 712218,
-      "word": "一救护车疑在墨脱旅游拉警报开道",
-      "onboard_time": 1747109062,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 688338,
@@ -161,14 +177,6 @@
       "onboard_time": 1747101200,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 592961,
-      "num": 592961,
-      "word": "13岁女孩称以为是妈妈让女教官打自己",
-      "onboard_time": 1747110805,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 579898,
@@ -331,6 +339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 411984,
+      "num": 380487,
+      "word": "杜海涛没认出减肥后的方家翊",
+      "onboard_time": 1747112605,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408418,
       "num": 408418,
       "word": "上官正义曝别墅代孕后接到神秘电话",
@@ -387,19 +403,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 351435,
+      "num": 351435,
+      "word": "女子被困自家别墅电梯1天1夜",
+      "onboard_time": 1747111044,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351375,
       "num": 351375,
       "word": "一觉醒来中国航天又发射成功了",
       "onboard_time": 1747095802,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350309,
-      "num": 350309,
-      "word": "女子被困自家别墅电梯1天1夜",
-      "onboard_time": 1747111044,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -409,14 +425,6 @@
       "onboard_time": 1747061484,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337279,
-      "num": 337279,
-      "word": "杜海涛没认出减肥后的方家翊",
-      "onboard_time": 1747112605,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 334821,
@@ -475,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 303745,
+      "num": 303745,
+      "word": "沈月撕拉片",
+      "onboard_time": 1747113022,
+      "rank": 33,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 303727,
       "num": 303727,
       "word": "爸爸当家",
@@ -513,6 +529,14 @@
       "onboard_time": 1747112541,
       "rank": 26,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 262472,
+      "num": 346616,
+      "word": "森林狼3比1勇士",
+      "onboard_time": 1747113742,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 260782,
@@ -649,14 +673,6 @@
       "onboard_time": 1747108581,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229081,
-      "num": 229081,
-      "word": "沈月撕拉片",
-      "onboard_time": 1747113022,
-      "rank": 33,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 223781,
@@ -851,12 +867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187386,
-      "num": 187386,
-      "word": "森林狼3比1勇士",
-      "onboard_time": 1747113742,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 187045,
+      "num": 187045,
+      "word": "优酷开启了大男主复仇赛道",
+      "onboard_time": 1747114101,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 186603,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179447,
+      "num": 179447,
+      "word": "莫迪对印巴空战公开讲话但只字不提美国",
+      "onboard_time": 1747114941,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178067,
       "num": 268404,
       "word": "代孕窝点被端幕后老板来电求私了",
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 174018,
-      "num": 174018,
+      "num": 237662,
       "word": "易烊千玺混乱中的孤独感",
       "onboard_time": 1747113620,
       "rank": 41,
@@ -1115,6 +1139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148995,
+      "num": 380477,
+      "word": "张艺兴成为京东潮流代言人",
+      "onboard_time": 1747114520,
+      "rank": 20,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 146269,
       "num": 146269,
       "word": "韩泰山 抓夹",
@@ -1131,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141501,
+      "num": 141501,
+      "word": "吴宣仪看我72变队长",
+      "onboard_time": 1747111582,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140991,
       "num": 433303,
       "word": "福建8岁男孩爬山失联已超8天",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1747104861,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134971,
+      "num": 134971,
+      "word": "金价还在跌",
+      "onboard_time": 1747113083,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 134597,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1747103961,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126661,
+      "num": 126661,
+      "word": "上班真的很可怕一件事",
+      "onboard_time": 1747114283,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 122867,
@@ -1499,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79836,
+      "num": 380501,
+      "word": "上海一民警收受娱乐场所贿款200余万",
+      "onboard_time": 1747114581,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78087,
       "num": 78087,
       "word": "恋与深空",
@@ -1507,12 +1571,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76612,
+      "num": 380495,
+      "word": "印度拟对美部分输印商品征收关税",
+      "onboard_time": 1747114342,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74834,
       "num": 377337,
       "word": "如何测量内脏脂肪",
       "onboard_time": 1747107502,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71903,
+      "num": 380487,
+      "word": "nova14大眼萌镜头",
+      "onboard_time": 1747112662,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 70214,
+      "num": 380480,
+      "word": "10岁女孩领养免费猫咪被骗6千多",
+      "onboard_time": 1747114162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66194,
@@ -1529,14 +1617,6 @@
       "onboard_time": 1747109543,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60399,
-      "num": 350490,
-      "word": "nova14大眼萌镜头",
-      "onboard_time": 1747112662,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 59350,
@@ -1625,6 +1705,14 @@
       "onboard_time": 1747109783,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 42614,
+      "num": 236151,
+      "word": "英国永居等待时间将从5年变为10年",
+      "onboard_time": 1747114221,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41176,
@@ -1785,6 +1873,14 @@
       "onboard_time": 1747074373,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14134,
+      "num": 380482,
+      "word": "小龙虾价格暴跌哪些区域最受影响",
+      "onboard_time": 1747114342,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 11300,
