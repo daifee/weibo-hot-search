@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747129337547,
+  "endTime": 1747132126578,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1127026,
-      "num": 1127026,
+      "num": 1179741,
       "word": "火车穿村被撞身亡者最小仅1岁半",
       "onboard_time": 1747125142,
       "rank": 44,
@@ -425,6 +425,14 @@
       "onboard_time": 1746882142,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1058652,
+      "num": 1058652,
+      "word": "deepseek",
+      "onboard_time": 1747129823,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1058175,
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750592,
+      "num": 750592,
+      "word": "李诚儒看苍兰诀配音如芒刺背",
+      "onboard_time": 1747125262,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 746734,
       "num": 746734,
       "word": "台湾女生赞大陆发达被骂奶声奶气回怼",
@@ -843,12 +859,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 660325,
-      "num": 660325,
-      "word": "李诚儒看苍兰诀配音如芒刺背",
-      "onboard_time": 1747125262,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 659354,
+      "num": 659354,
+      "word": "黄晓明金世佳复试还需加试3科笔试",
+      "onboard_time": 1747127781,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 656010,
@@ -1259,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518013,
+      "num": 518013,
+      "word": "Everglow宣布解散",
+      "onboard_time": 1747129941,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514879,
       "num": 514879,
       "word": "稀土",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1747102580,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469040,
+      "num": 469040,
+      "word": "折腰妆造",
+      "onboard_time": 1747128262,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 468119,
@@ -2187,6 +2219,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 318099,
+      "num": 318099,
+      "word": "大帅 AG",
+      "onboard_time": 1747131382,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 317424,
       "num": 317424,
       "word": "一直对菌子火锅没概念直到吃了一次",
@@ -2283,20 +2323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308245,
-      "num": 308245,
-      "word": "折腰妆造",
-      "onboard_time": 1747128262,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
       "onboard_time": 1746938300,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305717,
+      "num": 305717,
+      "word": "姜妍艺校时期被孤立",
+      "onboard_time": 1747130001,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 304782,
@@ -2553,6 +2593,14 @@
       "onboard_time": 1747126163,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263935,
+      "num": 263935,
+      "word": "对刘宇宁189有了实感",
+      "onboard_time": 1747130601,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 263183,
@@ -2867,12 +2915,12 @@
       "category": "电影,作品衍生"
     },
     {
-      "raw_hot": 233095,
-      "num": 227185,
-      "word": "黄晓明金世佳复试还需加试3科笔试",
-      "onboard_time": 1747127781,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 233927,
+      "num": 233927,
+      "word": "三嫁魔君开播",
+      "onboard_time": 1747130901,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 232991,
@@ -3017,6 +3065,14 @@
       "onboard_time": 1747119982,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220205,
+      "num": 220205,
+      "word": "刘诗诗给主持人挡腿",
+      "onboard_time": 1747131501,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220130,
@@ -3235,6 +3291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208995,
+      "num": 523940,
+      "word": "藏海传预告片上线",
+      "onboard_time": 1747130720,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208852,
       "num": 179465,
       "word": "陈哲远撕拉片",
@@ -3425,6 +3489,14 @@
       "onboard_time": 1747092200,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203322,
+      "num": 203322,
+      "word": "杨紫转发李现新剧",
+      "onboard_time": 1747131321,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 203152,
@@ -3923,6 +3995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186878,
+      "num": 186878,
+      "word": "高圆圆扫楼生图美得很权威",
+      "onboard_time": 1747131560,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186603,
       "num": 186603,
       "word": "有了这十年才有觉醒年代",
@@ -3945,6 +4025,14 @@
       "onboard_time": 1747094842,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186103,
+      "num": 267662,
+      "word": "618淘宝直播红包",
+      "onboard_time": 1747131261,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 185979,
@@ -4059,6 +4147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182449,
+      "num": 182449,
+      "word": "阴阳师",
+      "onboard_time": 1747130901,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181865,
       "num": 345220,
       "word": "发现拼多多买花的人一定是天才",
@@ -4081,6 +4177,14 @@
       "onboard_time": 1747117642,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181493,
+      "num": 181493,
+      "word": "国补后苹果官旗价格现罕见降幅",
+      "onboard_time": 1747130422,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 181438,
@@ -4139,6 +4243,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 178630,
+      "num": 348766,
+      "word": "苹果16Pro天猫国补最高省2500",
+      "onboard_time": 1747131321,
+      "rank": 15,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 178535,
       "num": 178535,
       "word": "女子吃减肥药暴瘦20斤停药反弹70斤",
@@ -4169,6 +4281,14 @@
       "onboard_time": 1746973943,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177019,
+      "num": 361524,
+      "word": "特朗普要求美国部分药品价格下降90%",
+      "onboard_time": 1747130601,
+      "rank": 14,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 176900,
@@ -5515,6 +5635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143347,
+      "num": 143347,
+      "word": "张凌赫包场刘宇宁新剧折腰",
+      "onboard_time": 1747132041,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143136,
       "num": 143136,
       "word": "孟子义内娱眼泪女王",
@@ -5609,6 +5737,14 @@
       "onboard_time": 1746940221,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141736,
+      "num": 141736,
+      "word": "梁田樱花树下站谁都美",
+      "onboard_time": 1747131861,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141501,
@@ -7643,6 +7779,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 94076,
+      "num": 1434419,
+      "word": "嫦娥五号月球土特产让老外惊叹",
+      "onboard_time": 1747128201,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93670,
       "num": 93670,
       "word": "就这个NMIXX爽",
@@ -7929,6 +8073,14 @@
       "onboard_time": 1746987315,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82665,
+      "num": 217432,
+      "word": "男子赤裸摔倒双腿被卡找到时已晕厥",
+      "onboard_time": 1747130841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82395,
@@ -8233,14 +8385,6 @@
       "onboard_time": 1747059683,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69657,
-      "num": 1434419,
-      "word": "嫦娥五号月球土特产让老外惊叹",
-      "onboard_time": 1747128201,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69470,
@@ -8875,6 +9019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47213,
+      "num": 265425,
+      "word": "Deepseek预测2025高考题销量过百",
+      "onboard_time": 1747130302,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 47006,
       "num": 317346,
       "word": "警方回应救护车无任务鸣笛开道",
@@ -9048,6 +9200,14 @@
       "word": "四姑娘山镇卫生院回应游客因高反身亡",
       "onboard_time": 1746957981,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41919,
+      "num": 377698,
+      "word": "眼球缺失盲人办卡被要求眨眼刷脸",
+      "onboard_time": 1747131140,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -9513,6 +9673,14 @@
       "onboard_time": 1747108763,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26448,
+      "num": 264106,
+      "word": "沪深两市半日成交额8840亿",
+      "onboard_time": 1747131501,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 26121,
@@ -10051,6 +10219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 15727,
+      "num": 282048,
+      "word": "外交斡旋如何将印巴从战争边缘拉回来",
+      "onboard_time": 1747131382,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15579,
       "num": 56695,
       "word": "冠军武将轩染",
@@ -10065,6 +10241,14 @@
       "onboard_time": 1747030890,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 15486,
+      "num": 217216,
+      "word": "鹿寨水文局回应楼梯安装倒刺扶手",
+      "onboard_time": 1747132041,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15353,
@@ -10171,6 +10355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13280,
+      "num": 144444,
+      "word": "美超千人住拉斯维加斯下水道",
+      "onboard_time": 1747131982,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13036,
       "num": 18050,
       "word": "张杰高朋满座电量满格幸福求婚合唱满分",
@@ -10241,6 +10433,14 @@
       "onboard_time": 1747063882,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12114,
+      "num": 218700,
+      "word": "莫迪称巴军乞求印度停火",
+      "onboard_time": 1747131922,
+      "rank": 28,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 11879,
@@ -10412,6 +10612,9 @@
     },
     {
       "word": "#中拉论坛第四届部长级会议开幕式#"
+    },
+    {
+      "word": "#中拉命运共同体新篇章#"
     }
   ]
 }
