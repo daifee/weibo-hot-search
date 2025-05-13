@@ -1,0 +1,410 @@
+{
+  "runTime": 1747135339947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029134,
+        "num": 1164661,
+        "word": "火车穿村被撞身亡者最小仅1岁半",
+        "onboard_time": 1747125142,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799176,
+        "num": 799176,
+        "word": "deepseek",
+        "onboard_time": 1747129823,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68072,
+        "num": 605497,
+        "word": "嫦娥五号月球土特产让老外惊叹",
+        "onboard_time": 1747128201,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1069748,
+        "num": 602913,
+        "word": "高退款人群屏蔽",
+        "onboard_time": 1747124001,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595155,
+        "num": 595155,
+        "word": "女装退货率",
+        "onboard_time": 1747124301,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 501443,
+        "num": 501443,
+        "word": "折腰第4集绝了",
+        "onboard_time": 1747133062,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444917,
+        "num": 444917,
+        "word": "李诚儒看苍兰诀配音如芒刺背",
+        "onboard_time": 1747125262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440685,
+        "num": 440685,
+        "word": "百万网红克里西账号被封",
+        "onboard_time": 1747123462,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 395343,
+        "num": 395343,
+        "word": "下跪求饶必为中国人民所不齿",
+        "onboard_time": 1747133721,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386778,
+        "num": 386778,
+        "word": "甄嬛传14年后郑晓龙再导古装剧",
+        "onboard_time": 1747133361,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 845961,
+        "num": 383740,
+        "word": "对刘宇宁189有了实感",
+        "onboard_time": 1747130601,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474752,
+        "num": 382933,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 11,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 380167,
+        "num": 380167,
+        "word": "黄晓明金世佳复试还需加试3科笔试",
+        "onboard_time": 1747127781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339346,
+        "num": 339346,
+        "word": "折腰妆造",
+        "onboard_time": 1747128262,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61601,
+        "num": 332180,
+        "word": "多方回应潮汕天价豪宅英之园被强拆",
+        "onboard_time": 1747134321,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329203,
+        "num": 329203,
+        "word": "Everglow宣布解散",
+        "onboard_time": 1747129941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172324,
+        "num": 324291,
+        "word": "苹果16Pro天猫国补最高省2500",
+        "onboard_time": 1747131321,
+        "rank": 16,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 319597,
+        "num": 319597,
+        "word": "特朗普突然提统一吓坏台当局",
+        "onboard_time": 1747134621,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311117,
+        "num": 311117,
+        "word": "72元富士拍立得相纸转卖要150元",
+        "onboard_time": 1747132162,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304127,
+        "num": 304127,
+        "word": "光与夜之恋",
+        "onboard_time": 1747134081,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143527,
+        "num": 302582,
+        "word": "618淘宝直播红包",
+        "onboard_time": 1747131261,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 302355,
+        "num": 302355,
+        "word": "律师称网红是小念噢或被刑事追责",
+        "onboard_time": 1747126882,
+        "rank": 21,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 269796,
+        "num": 269796,
+        "word": "抖音通报克里西对5岁女孩开黄腔",
+        "onboard_time": 1747123462,
+        "rank": 22,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 258578,
+        "num": 258578,
+        "word": "刘诗诗给主持人挡腿",
+        "onboard_time": 1747131501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76970,
+        "num": 240882,
+        "word": "幻海恋歌祁煜520主题街区",
+        "onboard_time": 1747134380,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12689,
+        "num": 231436,
+        "word": "阴阳师新版本日曜永恒有哪些改动",
+        "onboard_time": 1747134081,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229897,
+        "num": 229897,
+        "word": "杨紫转发李现新剧",
+        "onboard_time": 1747131321,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221546,
+        "num": 221546,
+        "word": "藏海传预告片上线",
+        "onboard_time": 1747130720,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12379,
+        "num": 218986,
+        "word": "诈骗快递为何有精准的个人信息和地址",
+        "onboard_time": 1747135041,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82476,
+        "num": 217002,
+        "word": "福建失联女大学生手机在江边被捡到",
+        "onboard_time": 1747134741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245335,
+        "num": 216983,
+        "word": "王怡人 乐华",
+        "onboard_time": 1747133062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216899,
+        "num": 216899,
+        "word": "金靖真把迪丽热巴当孩子哄了吧",
+        "onboard_time": 1747134321,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215625,
+        "num": 215625,
+        "word": "医生辟谣生理期不能吃冰不能吃辣",
+        "onboard_time": 1747122502,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 191239,
+        "num": 191239,
+        "word": "马吟吟浪姐调剂票还没高考分高",
+        "onboard_time": 1747132762,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 183542,
+        "word": "姜妍艺校时期被孤立",
+        "onboard_time": 1747130001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172097,
+        "num": 172097,
+        "word": "范丞丞撕拉片末班车",
+        "onboard_time": 1747134920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171854,
+        "num": 171854,
+        "word": "大帅 AG",
+        "onboard_time": 1747131382,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155000,
+        "num": 155000,
+        "word": "中国短道速滑队军训实录",
+        "onboard_time": 1747134380,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153978,
+        "num": 153978,
+        "word": "三嫁魔君开播",
+        "onboard_time": 1747130901,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20360,
+        "num": 147826,
+        "word": "甘肃平凉庆阳为何不划入陕西",
+        "onboard_time": 1747134321,
+        "rank": 39,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 146867,
+        "num": 146867,
+        "word": "折腰 背景虚化",
+        "onboard_time": 1747132400,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139996,
+        "num": 139996,
+        "word": "韩安冉妈妈承认不关心韩安冉",
+        "onboard_time": 1747134621,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129785,
+        "num": 129785,
+        "word": "被圆明园这片芍药花海浪漫到了",
+        "onboard_time": 1747135221,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 124735,
+        "num": 124735,
+        "word": "伞兵到考场提前踩点了",
+        "onboard_time": 1747134501,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119610,
+        "num": 119610,
+        "word": "小明剑魔和老婆分居",
+        "onboard_time": 1747134201,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119439,
+        "num": 119439,
+        "word": "她把一生都装进了幼儿园",
+        "onboard_time": 1747135221,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118591,
+        "num": 118591,
+        "word": "百万网红自导自演自杀一度涨粉2万",
+        "onboard_time": 1747121542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109926,
+        "num": 114635,
+        "word": "高圆圆扫楼生图美得很权威",
+        "onboard_time": 1747131560,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114271,
+        "num": 114271,
+        "word": "迪士尼发了肖战剧照",
+        "onboard_time": 1747118661,
+        "rank": 48,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 110603,
+        "num": 110603,
+        "word": "唐嫣戛纳抵达",
+        "onboard_time": 1747132521,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中拉论坛第四届部长级会议开幕式#"
+    }
+  }
+}
