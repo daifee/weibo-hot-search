@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747118980722,
+  "endTime": 1747121161160,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -19,7 +19,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1942749,
+      "raw_hot": 2077863,
       "num": 352826,
       "word": "代孕一旦合法穷人更将苦不堪言",
       "onboard_time": 1747115662,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1306700,
+      "num": 1306700,
+      "word": "缅甸7.9级地震地表位移画面首曝光",
+      "onboard_time": 1747116682,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1225450,
       "num": 539545,
       "word": "折腰",
       "onboard_time": 1747038624,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1156887,
-      "num": 1156887,
-      "word": "缅甸7.9级地震地表位移画面首曝光",
-      "onboard_time": 1747116682,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1116307,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792184,
+      "num": 792184,
+      "word": "折腰打破2025腾讯记录",
+      "onboard_time": 1747118902,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 730577,
       "num": 382630,
       "word": "宣璐领衔主演折腰",
@@ -211,20 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 578800,
-      "num": 578800,
-      "word": "折腰打破2025腾讯记录",
-      "onboard_time": 1747118902,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 577298,
       "num": 249864,
       "word": "林宥嘉 希望你能原谅",
       "onboard_time": 1747051941,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574797,
+      "num": 324658,
+      "word": "迪士尼发了肖战剧照",
+      "onboard_time": 1747118661,
+      "rank": 23,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 572789,
@@ -241,6 +249,14 @@
       "onboard_time": 1747111643,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 566120,
+      "num": 566120,
+      "word": "卫健委回应救护车在西藏拉警报旅游",
+      "onboard_time": 1747117881,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 560883,
@@ -363,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 420291,
+      "num": 307470,
+      "word": "71岁的成龙",
+      "onboard_time": 1747117221,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411984,
       "num": 380487,
       "word": "杜海涛没认出减肥后的方家翊",
@@ -409,6 +433,14 @@
       "onboard_time": 1747059745,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387511,
+      "num": 246760,
+      "word": "曝司机骚扰未成年女乘客问是不是处女",
+      "onboard_time": 1747115602,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374595,
@@ -499,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 322308,
+      "num": 233033,
+      "word": "刘晓庆 折腰",
+      "onboard_time": 1747120822,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314334,
       "num": 314334,
       "word": "李到晛今天退伍",
@@ -512,14 +552,6 @@
       "word": "周洁琼资源",
       "onboard_time": 1747100841,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 307470,
-      "num": 307470,
-      "word": "71岁的成龙",
-      "onboard_time": 1747117221,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -569,6 +601,14 @@
       "onboard_time": 1747101561,
       "rank": 26,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 269417,
+      "num": 269417,
+      "word": "莫迪称印度的行动震惊巴基斯坦",
+      "onboard_time": 1747119321,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267410,
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237843,
-      "num": 237843,
-      "word": "曝司机骚扰未成年女乘客问是不是处女",
-      "onboard_time": 1747115602,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236934,
       "num": 399840,
       "word": "粉色张艺兴",
@@ -721,14 +753,6 @@
       "onboard_time": 1747096762,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231151,
-      "num": 231151,
-      "word": "迪士尼发了肖战剧照",
-      "onboard_time": 1747118661,
-      "rank": 23,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 229260,
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222025,
+      "num": 167941,
+      "word": "吴宣仪两次神级救场",
+      "onboard_time": 1747119982,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221833,
       "num": 221833,
       "word": "商务部回应中美经贸会谈联合声明",
@@ -785,6 +817,14 @@
       "onboard_time": 1747115361,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218292,
+      "num": 218292,
+      "word": "A股高开超4700股飘红",
+      "onboard_time": 1747119862,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 218259,
@@ -1027,6 +1067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185501,
+      "num": 185501,
+      "word": "巴基斯坦举国感谢中国",
+      "onboard_time": 1747119803,
+      "rank": 19,
+      "category": "海外新闻,军事"
+    },
+    {
       "raw_hot": 183593,
       "num": 183593,
       "word": "乘风投票",
@@ -1072,6 +1120,14 @@
       "word": "张艺兴成为京东潮流代言人",
       "onboard_time": 1747114520,
       "rank": 20,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 175929,
+      "num": 301340,
+      "word": "张艺兴京东",
+      "onboard_time": 1747116862,
+      "rank": 40,
       "category": "艺人,互联网"
     },
     {
@@ -1129,14 +1185,6 @@
       "onboard_time": 1747080615,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 166692,
-      "num": 301340,
-      "word": "张艺兴京东",
-      "onboard_time": 1747116862,
-      "rank": 40,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 166614,
@@ -1259,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155814,
+      "num": 174060,
+      "word": "孙恩盛因压力大长白头发",
+      "onboard_time": 1747117642,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 155700,
       "num": 155700,
       "word": "孙颖莎马龙樊振东闪耀冠军奖杯",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1747101440,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147820,
-      "num": 147820,
-      "word": "孙恩盛因压力大长白头发",
-      "onboard_time": 1747117642,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 146269,
@@ -1403,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131808,
+      "num": 131808,
+      "word": "肖战一键转场打开藏海传",
+      "onboard_time": 1747119623,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131336,
       "num": 131336,
       "word": "上官正义",
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129114,
+      "num": 129114,
+      "word": "日方不反省侵略罪责反而对正义说三道四",
+      "onboard_time": 1747121062,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "不得任意修改纪念活动标识",
@@ -1491,6 +1555,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 122216,
+      "num": 351635,
+      "word": "奥克兰市长喊话新西兰给中国免签",
+      "onboard_time": 1747117761,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119256,
       "num": 119256,
       "word": "无忧渡",
@@ -1507,6 +1579,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118061,
+      "num": 118061,
+      "word": "于正说陈腾跃是下一个周星驰",
+      "onboard_time": 1747120942,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115672,
+      "num": 115672,
+      "word": "我的猫用语言击溃了甲方",
+      "onboard_time": 1747120401,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114169,
       "num": 114169,
       "word": "赴山海 换脸",
@@ -1521,14 +1609,6 @@
       "onboard_time": 1747065142,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112503,
-      "num": 351635,
-      "word": "奥克兰市长喊话新西兰给中国免签",
-      "onboard_time": 1747117761,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110820,
@@ -1571,12 +1651,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102566,
-      "num": 349714,
-      "word": "卫健委回应救护车在西藏拉警报旅游",
-      "onboard_time": 1747117881,
-      "rank": 16,
-      "category": "辟谣/通报"
+      "raw_hot": 101042,
+      "num": 109825,
+      "word": "iPhone音频变焦",
+      "onboard_time": 1747120522,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 100964,
@@ -1641,6 +1721,14 @@
       "onboard_time": 1747087634,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92928,
+      "num": 167932,
+      "word": "中国人在国外开辟了新赛道",
+      "onboard_time": 1747118902,
+      "rank": 39,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 92893,
@@ -1787,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 74570,
+      "num": 171594,
+      "word": "禁止将智能穿戴设备与涉密信息系统连接",
+      "onboard_time": 1747120822,
+      "rank": 23,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 71903,
       "num": 380487,
       "word": "nova14大眼萌镜头",
@@ -1825,6 +1921,14 @@
       "onboard_time": 1747092680,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 61721,
+      "num": 187136,
+      "word": "刘宇宁如何演绎魏邵的枭雄气质",
+      "onboard_time": 1747120582,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 60665,
@@ -1899,20 +2003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51922,
+      "num": 161564,
+      "word": "汕头占地57亩违建豪宅被责令拆除",
+      "onboard_time": 1747120522,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50929,
       "num": 351162,
       "word": "云南杀害邻居男子曾多次犯罪",
       "onboard_time": 1747116382,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50510,
-      "num": 167932,
-      "word": "中国人在国外开辟了新赛道",
-      "onboard_time": 1747118902,
-      "rank": 39,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 48647,
@@ -2035,12 +2139,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33632,
+      "num": 121625,
+      "word": "AI为什么会表现出讨好型行为",
+      "onboard_time": 1747119741,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 32893,
+      "num": 162550,
+      "word": "味精致癌谣言下莲花味精逆袭",
+      "onboard_time": 1747119020,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32528,
       "num": 349067,
       "word": "为什么王嘉尔在MV里吃章鱼",
       "onboard_time": 1747117041,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 31459,
+      "num": 121625,
+      "word": "中国科学家30年追上世界第一",
+      "onboard_time": 1747119681,
+      "rank": 39,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 30064,
+      "num": 165628,
+      "word": "警方回应救护车无任务鸣笛开道",
+      "onboard_time": 1747121000,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26750,
