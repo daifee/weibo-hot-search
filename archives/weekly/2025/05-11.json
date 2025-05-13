@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747108635016,
+  "endTime": 1747110670417,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -27,20 +27,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 3445548,
+      "num": 3445548,
+      "word": "一天官宣三部大剧",
+      "onboard_time": 1747106902,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3321710,
       "num": 3321710,
       "word": "512",
       "onboard_time": 1747008201,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2676343,
-      "num": 571024,
-      "word": "一天官宣三部大剧",
-      "onboard_time": 1747106902,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 2535609,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1436933,
+      "num": 577510,
+      "word": "南烟斋笔录",
+      "onboard_time": 1747108823,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1427551,
       "num": 353366,
       "word": "长沙别墅代孕窝点查处现场",
@@ -291,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1178132,
+      "num": 539545,
+      "word": "折腰",
+      "onboard_time": 1747038624,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1171885,
       "num": 416033,
       "word": "杨子女儿伯克利音乐学院毕业",
@@ -337,14 +353,6 @@
       "onboard_time": 1747021342,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1104944,
-      "num": 422524,
-      "word": "折腰",
-      "onboard_time": 1747038624,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 1058705,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849784,
+      "num": 575515,
+      "word": "前妻和现任见面眼里全是欣赏",
+      "onboard_time": 1747107561,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837575,
       "num": 709889,
       "word": "金饰克价跌到1000元",
@@ -551,6 +567,14 @@
       "num": 1127376,
       "word": "疑因高反身亡男子3天前曾吸氧",
       "onboard_time": 1746973524,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 776077,
+      "num": 776077,
+      "word": "小龙虾价格暴降近50%",
+      "onboard_time": 1747106242,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 640997,
+      "num": 538806,
+      "word": "李现魏大勋双男主",
+      "onboard_time": 1747107561,
+      "rank": 22,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 631882,
       "num": 631882,
       "word": "老赖欠390万转让房产给女儿逃避执行",
@@ -891,8 +923,8 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 574682,
-      "num": 574682,
+      "raw_hot": 579239,
+      "num": 579239,
       "word": "花500捞手机没捞到隔天定位在商场",
       "onboard_time": 1747104081,
       "rank": 1,
@@ -1027,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520774,
+      "num": 520774,
+      "word": "领衔主演刘端端",
+      "onboard_time": 1747110383,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514879,
       "num": 514879,
       "word": "稀土",
@@ -1107,22 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 493862,
-      "num": 493862,
-      "word": "小龙虾价格暴降近50%",
-      "onboard_time": 1747106242,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493550,
-      "num": 376679,
-      "word": "李现魏大勋双男主",
-      "onboard_time": 1747107561,
-      "rank": 22,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 492633,
       "num": 492633,
       "word": "当你不停运动3个月后",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1747036345,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472162,
+      "num": 171098,
+      "word": "折腰敖子逸主演",
+      "onboard_time": 1747109964,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 470560,
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399665,
+      "num": 399665,
+      "word": "被年轻人精致穷的消费观震惊了",
+      "onboard_time": 1747108401,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 399566,
       "num": 399566,
       "word": "孟子义演技",
@@ -1536,14 +1576,6 @@
       "word": "折腰要拍短剧了",
       "onboard_time": 1747038504,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 376427,
-      "num": 376427,
-      "word": "前妻和现任见面眼里全是欣赏",
-      "onboard_time": 1747107561,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1785,6 +1817,14 @@
       "onboard_time": 1747103961,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334156,
+      "num": 377565,
+      "word": "泼汽油男子父亲希望女方出具谅解书",
+      "onboard_time": 1747107624,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333664,
@@ -2307,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250184,
+      "num": 250184,
+      "word": "林更新再现与赵丽颖合作造型",
+      "onboard_time": 1747110623,
+      "rank": 29,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 250061,
       "num": 250061,
       "word": "日本北海道发生无差别伤害案件",
@@ -2467,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237370,
+      "num": 456609,
+      "word": "一救护车疑在墨脱旅游拉警报开道",
+      "onboard_time": 1747109062,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232991,
       "num": 205064,
       "word": "脊柱侧弯千万不能做的动作",
@@ -2475,12 +2531,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232290,
+      "num": 232290,
+      "word": "耳夹式耳机",
+      "onboard_time": 1747109062,
+      "rank": 30,
+      "category": "数码,休闲"
+    },
+    {
       "raw_hot": 231849,
       "num": 231849,
       "word": "谁给白鹿做的特效",
       "onboard_time": 1746891143,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231574,
+      "num": 399840,
+      "word": "粉色张艺兴",
+      "onboard_time": 1747107624,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 229260,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1747037243,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223781,
+      "num": 231477,
+      "word": "刑侦12定档",
+      "onboard_time": 1747108461,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 223188,
@@ -2635,6 +2715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216764,
+      "num": 541537,
+      "word": "中美联合声明是中国反制的胜利",
+      "onboard_time": 1747108102,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216521,
       "num": 216521,
       "word": "花粉选的二番生",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1746929062,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210956,
+      "num": 272640,
+      "word": "乘风2025",
+      "onboard_time": 1746939441,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 210629,
@@ -2875,14 +2971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204565,
-      "num": 272640,
-      "word": "乘风2025",
-      "onboard_time": 1746939441,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204267,
       "num": 204267,
       "word": "一米六八小伙跟两米二女孩谈恋爱",
@@ -3003,14 +3091,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 198639,
-      "num": 376743,
-      "word": "粉色张艺兴",
-      "onboard_time": 1747107624,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198577,
       "num": 198577,
       "word": "花海清融Fly怎么总是你们",
@@ -3033,14 +3113,6 @@
       "onboard_time": 1747049422,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195998,
-      "num": 195998,
-      "word": "被年轻人精致穷的消费观震惊了",
-      "onboard_time": 1747108401,
-      "rank": 43,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 195878,
@@ -3305,6 +3377,14 @@
       "onboard_time": 1747015040,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187092,
+      "num": 187092,
+      "word": "春夏",
+      "onboard_time": 1747110203,
+      "rank": 35,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 186932,
@@ -3627,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "生在这家背辈分不亚于高考",
+      "onboard_time": 1747110085,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174310,
       "num": 174310,
       "word": "普京提议15日恢复俄乌直接谈判",
@@ -3713,6 +3801,22 @@
       "onboard_time": 1747056143,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170079,
+      "num": 170079,
+      "word": "王嘉尔新歌MV吃章鱼",
+      "onboard_time": 1747110144,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 169851,
+      "num": 169851,
+      "word": "患者家属扛着樱桃树冲进医生办公室",
+      "onboard_time": 1747109002,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 169761,
@@ -3825,6 +3929,14 @@
       "onboard_time": 1746977421,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166900,
+      "num": 166900,
+      "word": "黄奕采访哭了一分钟",
+      "onboard_time": 1747110623,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 166821,
@@ -3969,14 +4081,6 @@
       "onboard_time": 1747063282,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162045,
-      "num": 231477,
-      "word": "刑侦12定档",
-      "onboard_time": 1747108461,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 162030,
@@ -4161,6 +4265,14 @@
       "onboard_time": 1747010241,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157313,
+      "num": 165763,
+      "word": "肖战藏海眼神转换",
+      "onboard_time": 1747109362,
+      "rank": 46,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 157302,
@@ -4537,14 +4649,6 @@
       "onboard_time": 1746975802,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147166,
-      "num": 377565,
-      "word": "泼汽油男子父亲希望女方出具谅解书",
-      "onboard_time": 1747107624,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146697,
@@ -6708,7 +6812,7 @@
     },
     {
       "raw_hot": 88551,
-      "num": 378571,
+      "num": 401611,
       "word": "初次网购的快乐还记得吗",
       "onboard_time": 1747107142,
       "rank": 15,
@@ -7185,6 +7289,14 @@
       "onboard_time": 1746919277,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60665,
+      "num": 334095,
+      "word": "孙颖莎10250分世排第一",
+      "onboard_time": 1747109543,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60506,
@@ -7683,6 +7795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42775,
+      "num": 401471,
+      "word": "鸿蒙电脑到底有什么不一样",
+      "onboard_time": 1747109783,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42747,
       "num": 177342,
       "word": "美妆好物分享",
@@ -7804,7 +7924,7 @@
     },
     {
       "raw_hot": 36729,
-      "num": 571617,
+      "num": 788236,
       "word": "中国坚定不移扩大高水平对外开放",
       "onboard_time": 1747103182,
       "rank": 2,
@@ -7993,6 +8113,14 @@
       "onboard_time": 1746937640,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28976,
+      "num": 400433,
+      "word": "郑州通报健康证办理乱象查处",
+      "onboard_time": 1747110324,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 28871,
@@ -8721,6 +8849,14 @@
       "onboard_time": 1747078215,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9735,
+      "num": 334124,
+      "word": "印巴空战详细复盘与深度研究",
+      "onboard_time": 1747110503,
+      "rank": 23,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 9640,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747108635016,
+  "endTime": 1747110670417,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1899,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 3445548,
+      "num": 3445548,
+      "word": "一天官宣三部大剧",
+      "onboard_time": 1747106902,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3437147,
       "num": 3437147,
       "word": "特朗普恢复死刑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744434145,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 3096612,
-      "num": 307404,
-      "word": "疑似支付宝出现重大bug",
-      "onboard_time": 1737038179,
-      "rank": 10,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747110670417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3445548,
+        "num": 3445548,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 807316,
+        "num": 807316,
+        "word": "股市",
+        "onboard_time": 1747105820,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35702,
+        "num": 788236,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2510576,
+        "num": 783168,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776077,
+        "num": 776077,
+        "word": "小龙虾价格暴降近50%",
+        "onboard_time": 1747106242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579239,
+        "num": 579239,
+        "word": "花500捞手机没捞到隔天定位在商场",
+        "onboard_time": 1747104081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1436933,
+        "num": 577510,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 849784,
+        "num": 575515,
+        "word": "前妻和现任见面眼里全是欣赏",
+        "onboard_time": 1747107561,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572789,
+        "num": 572789,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216764,
+        "num": 541537,
+        "word": "中美联合声明是中国反制的胜利",
+        "onboard_time": 1747108102,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1178132,
+        "num": 539545,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640997,
+        "num": 538806,
+        "word": "李现魏大勋双男主",
+        "onboard_time": 1747107561,
+        "rank": 11,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 520774,
+        "num": 520774,
+        "word": "领衔主演刘端端",
+        "onboard_time": 1747110383,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465003,
+        "num": 465003,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 13,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 237370,
+        "num": 456609,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455049,
+        "num": 455049,
+        "word": "藏海传定档",
+        "onboard_time": 1747102341,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402117,
+        "num": 402117,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68575,
+        "num": 401611,
+        "word": "初次网购的快乐还记得吗",
+        "onboard_time": 1747107142,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42775,
+        "num": 401471,
+        "word": "鸿蒙电脑到底有什么不一样",
+        "onboard_time": 1747109783,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28976,
+        "num": 400433,
+        "word": "郑州通报健康证办理乱象查处",
+        "onboard_time": 1747110324,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231574,
+        "num": 399840,
+        "word": "粉色张艺兴",
+        "onboard_time": 1747107624,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399665,
+        "num": 399665,
+        "word": "被年轻人精致穷的消费观震惊了",
+        "onboard_time": 1747108401,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 334156,
+        "num": 334156,
+        "word": "泼汽油男子父亲希望女方出具谅解书",
+        "onboard_time": 1747107624,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9735,
+        "num": 334124,
+        "word": "印巴空战详细复盘与深度研究",
+        "onboard_time": 1747110503,
+        "rank": 23,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 60665,
+        "num": 334095,
+        "word": "孙颖莎10250分世排第一",
+        "onboard_time": 1747109543,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334094,
+        "num": 334094,
+        "word": "女子皮肤可拉伸几厘米如橡皮人",
+        "onboard_time": 1747106480,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278796,
+        "num": 278796,
+        "word": "爸爸当家",
+        "onboard_time": 1747105582,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274013,
+        "num": 274013,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 27,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 270067,
+        "num": 270067,
+        "word": "藏海传对打折腰",
+        "onboard_time": 1747098621,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250184,
+        "num": 250184,
+        "word": "林更新再现与赵丽颖合作造型",
+        "onboard_time": 1747110623,
+        "rank": 29,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 232290,
+        "num": 232290,
+        "word": "耳夹式耳机",
+        "onboard_time": 1747109062,
+        "rank": 30,
+        "category": "数码,休闲"
+      },
+      {
+        "raw_hot": 223781,
+        "num": 223781,
+        "word": "刑侦12定档",
+        "onboard_time": 1747108461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210956,
+        "num": 210956,
+        "word": "乘风2025",
+        "onboard_time": 1747096762,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196899,
+        "num": 196899,
+        "word": "巴基斯坦空军指挥室内部照片",
+        "onboard_time": 1747104381,
+        "rank": 33,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 195314,
+        "num": 195314,
+        "word": "日本16岁男孩谋杀祖父母后淡定上学",
+        "onboard_time": 1747101200,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187092,
+        "num": 187092,
+        "word": "春夏",
+        "onboard_time": 1747110203,
+        "rank": 35,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 183593,
+        "num": 183593,
+        "word": "乘风投票",
+        "onboard_time": 1747109301,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182350,
+        "num": 182350,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 175025,
+        "word": "生在这家背辈分不亚于高考",
+        "onboard_time": 1747110085,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173460,
+        "num": 173460,
+        "word": "月薪3K带月薪5w体验低消费的一天",
+        "onboard_time": 1747098260,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171368,
+        "num": 171368,
+        "word": "奚梦瑶官宣爸爸当家观察员",
+        "onboard_time": 1747107624,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472162,
+        "num": 171098,
+        "word": "折腰敖子逸主演",
+        "onboard_time": 1747109964,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170079,
+        "num": 170079,
+        "word": "王嘉尔新歌MV吃章鱼",
+        "onboard_time": 1747110144,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167902,
+        "num": 169864,
+        "word": "代孕窝点被端幕后老板来电求私了",
+        "onboard_time": 1747106600,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 169851,
+        "num": 169851,
+        "word": "患者家属扛着樱桃树冲进医生办公室",
+        "onboard_time": 1747109002,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 166900,
+        "num": 166900,
+        "word": "黄奕采访哭了一分钟",
+        "onboard_time": 1747110623,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157313,
+        "num": 165763,
+        "word": "肖战藏海眼神转换",
+        "onboard_time": 1747109362,
+        "rank": 46,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 164766,
+        "num": 164766,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 47,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 160483,
+        "num": 160483,
+        "word": "塔图姆受伤",
+        "onboard_time": 1747102580,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159047,
+        "num": 159047,
+        "word": "野狗骨头",
+        "onboard_time": 1747101681,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
