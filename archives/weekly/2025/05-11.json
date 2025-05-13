@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747102930570,
+  "endTime": 1747106247021,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1438654,
+      "num": 492937,
+      "word": "藏海传定档",
+      "onboard_time": 1747102341,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1427551,
       "num": 353366,
       "word": "长沙别墅代孕窝点查处现场",
@@ -241,14 +249,6 @@
       "onboard_time": 1747028790,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1254969,
-      "num": 492937,
-      "word": "藏海传定档",
-      "onboard_time": 1747102341,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1246454,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1104944,
-      "num": 388974,
+      "num": 406616,
       "word": "折腰",
       "onboard_time": 1747038624,
       "rank": 33,
@@ -787,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 612786,
+      "num": 473430,
+      "word": "日本16岁男孩谋杀祖父母后淡定上学",
+      "onboard_time": 1747101200,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 612772,
       "num": 612772,
       "word": "黄圣依妈妈在北京帮带孙子10年",
@@ -801,6 +809,14 @@
       "onboard_time": 1746969862,
       "rank": 24,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 603667,
+      "num": 389422,
+      "word": "藏海传对打折腰",
+      "onboard_time": 1747098621,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 602524,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 560883,
-      "num": 302552,
+      "num": 320072,
       "word": "金价又崩了",
       "onboard_time": 1747061484,
       "rank": 21,
@@ -913,14 +929,6 @@
       "onboard_time": 1746959902,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552604,
-      "num": 387854,
-      "word": "藏海传对打折腰",
-      "onboard_time": 1747098621,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 552011,
@@ -1107,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 488544,
+      "num": 372019,
+      "word": "河海大学女博士实名举报导师性骚扰",
+      "onboard_time": 1747103182,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486770,
       "num": 486770,
       "word": "印巴为何停火",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1747096461,
       "rank": 4,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 484518,
+      "num": 484518,
+      "word": "花500捞手机没捞到隔天定位在商场",
+      "onboard_time": 1747104081,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481732,
@@ -1147,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470560,
+      "num": 470560,
+      "word": "塔图姆受伤",
+      "onboard_time": 1747102580,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468119,
       "num": 309674,
       "word": "奚梦瑶何猷君出席好友婚礼",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1746973283,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466616,
-      "num": 466616,
-      "word": "日本16岁男孩谋杀祖父母后淡定上学",
-      "onboard_time": 1747101200,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 465277,
@@ -1296,6 +1320,14 @@
       "word": "淮水竹亭直播",
       "onboard_time": 1746971061,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 433762,
+      "num": 433762,
+      "word": "折腰云包场",
+      "onboard_time": 1747103720,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -1571,20 +1603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360876,
-      "num": 360876,
-      "word": "塔图姆受伤",
-      "onboard_time": 1747102580,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357970,
       "num": 357970,
       "word": "102岁老人每天6点半起床撸铁",
       "onboard_time": 1747058783,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355207,
+      "num": 355207,
+      "word": "野狗骨头",
+      "onboard_time": 1747101681,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 354512,
@@ -1803,20 +1835,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314334,
+      "num": 314334,
+      "word": "李到晛今天退伍",
+      "onboard_time": 1747102281,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312680,
       "num": 312680,
       "word": "运20未向巴基斯坦运送救援物资",
       "onboard_time": 1746979281,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 311889,
-      "num": 311889,
-      "word": "野狗骨头",
-      "onboard_time": 1747101681,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 311883,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1747042942,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284363,
+      "num": 284363,
+      "word": "李晟大家不要熬夜给我投票了",
+      "onboard_time": 1747101561,
+      "rank": 26,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 284003,
@@ -2147,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254655,
+      "num": 254655,
+      "word": "四大平台将上线新剧",
+      "onboard_time": 1747103482,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254613,
       "num": 254613,
       "word": "金饰克价两天大跌19元",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1747028003,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250061,
+      "num": 250061,
+      "word": "日本北海道发生无差别伤害案件",
+      "onboard_time": 1747104020,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 249559,
@@ -2313,14 +2369,6 @@
       "onboard_time": 1747059683,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237010,
-      "num": 237010,
-      "word": "李到晛今天退伍",
-      "onboard_time": 1747102281,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 232991,
@@ -2523,6 +2571,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 214254,
+      "num": 214254,
+      "word": "折腰预告",
+      "onboard_time": 1747103961,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213357,
       "num": 213357,
       "word": "阿雅11岁女儿正面照",
@@ -2553,14 +2609,6 @@
       "onboard_time": 1746961821,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209770,
-      "num": 209770,
-      "word": "李晟大家不要熬夜给我投票了",
-      "onboard_time": 1747101561,
-      "rank": 26,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209274,
@@ -2609,6 +2657,14 @@
       "onboard_time": 1747100781,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208347,
+      "num": 208347,
+      "word": "人生若如初见今日开播",
+      "onboard_time": 1747105522,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208097,
@@ -2801,6 +2857,14 @@
       "onboard_time": 1747060164,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200531,
+      "num": 200531,
+      "word": "爸爸当家",
+      "onboard_time": 1747105582,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200128,
@@ -3017,6 +3081,14 @@
       "onboard_time": 1747101861,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190657,
+      "num": 190657,
+      "word": "股市",
+      "onboard_time": 1747105820,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 189977,
@@ -3281,6 +3353,14 @@
       "onboard_time": 1746967523,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181285,
+      "num": 181285,
+      "word": "肖战张婧仪领衔主演藏海传",
+      "onboard_time": 1747105582,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 181275,
@@ -4027,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155296,
+      "num": 214946,
+      "word": "巴基斯坦空军指挥室内部照片",
+      "onboard_time": 1747104381,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 155183,
       "num": 205549,
       "word": "刘亦菲这段话说出了妈妈的心声",
@@ -4153,6 +4241,14 @@
       "onboard_time": 1746961702,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152145,
+      "num": 152145,
+      "word": "王者荣耀",
+      "onboard_time": 1747104561,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 151993,
@@ -4507,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142309,
+      "num": 590847,
+      "word": "官方通报65款应用违法收集个人信息",
+      "onboard_time": 1747100182,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142117,
       "num": 477236,
       "word": "9块9茶包掺土掺木渣",
@@ -4699,6 +4803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139041,
+      "num": 139041,
+      "word": "尼克斯3比1凯尔特人",
+      "onboard_time": 1747104861,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138969,
       "num": 138969,
       "word": "姜磊说五月播赴山海",
@@ -4737,6 +4849,14 @@
       "onboard_time": 1747021221,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138085,
+      "num": 430476,
+      "word": "金饰克价跌至987元",
+      "onboard_time": 1747103361,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 137982,
@@ -5011,6 +5131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130717,
+      "num": 130717,
+      "word": "魅影神捕",
+      "onboard_time": 1747105399,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130374,
       "num": 130374,
       "word": "毕业后可能会被通知抽中论文抽检",
@@ -5169,6 +5297,14 @@
       "onboard_time": 1746951382,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126828,
+      "num": 126828,
+      "word": "买iPhone选性能还是选内存",
+      "onboard_time": 1747103961,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 126827,
@@ -5891,14 +6027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109707,
-      "num": 590847,
-      "word": "官方通报65款应用违法收集个人信息",
-      "onboard_time": 1747100182,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109355,
       "num": 109355,
       "word": "30岁正是上一年级的好时候",
@@ -6032,6 +6160,14 @@
       "word": "特斯拉家长设置时速后驾驶员无法更改",
       "onboard_time": 1747031311,
       "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 102922,
+      "num": 354740,
+      "word": "你永远可以相信智己的底盘",
+      "onboard_time": 1747105459,
+      "rank": 17,
       "category": "汽车"
     },
     {
@@ -6339,6 +6475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90372,
+      "num": 332248,
+      "word": "男子持刀讨要婚外情赠与财物被判3年",
+      "onboard_time": 1747104499,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90269,
       "num": 102083,
       "word": "李九瓶子解说",
@@ -6545,6 +6689,14 @@
       "onboard_time": 1747059625,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 80307,
+      "num": 284419,
+      "word": "波尔特别感谢王楚钦",
+      "onboard_time": 1747105399,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 79186,
@@ -7811,6 +7963,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 23200,
+      "num": 152536,
+      "word": "印巴冲突中莫迪面临哪些挑战",
+      "onboard_time": 1747106181,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22814,
       "num": 268316,
       "word": "俄乌领导人土耳其会谈能顺利举行吗",
@@ -7913,6 +8073,14 @@
       "onboard_time": 1746987134,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20747,
+      "num": 341907,
+      "word": "雪碧换配方会带来哪些新的市场机会",
+      "onboard_time": 1747105280,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 20662,
