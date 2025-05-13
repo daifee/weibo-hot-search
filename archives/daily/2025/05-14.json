@@ -1,10 +1,10 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747176184841,
+  "endTime": 1747178657633,
   "band_list": [
     {
-      "raw_hot": 984582,
-      "num": 984582,
+      "raw_hot": 1144615,
+      "num": 1144615,
       "word": "夫妻俩制假币每天印多少花多少",
       "onboard_time": 1747148424,
       "rank": 0,
@@ -59,11 +59,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338086,
-      "num": 338086,
+      "raw_hot": 348227,
+      "num": 348227,
       "word": "女子用假文凭入职被发现后起诉索赔",
       "onboard_time": 1747151302,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345316,
+      "num": 168727,
+      "word": "北京有车桥下躲冰雹致堵车",
+      "onboard_time": 1747150582,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -83,7 +91,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269525,
+      "raw_hot": 288403,
+      "num": 288403,
+      "word": "90后健身博主山阿离世",
+      "onboard_time": 1747151600,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 278336,
       "num": 269525,
       "word": "西北大学回应副校长成陕西首富",
       "onboard_time": 1747151661,
@@ -99,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220444,
-      "num": 220252,
-      "word": "90后健身博主山阿离世",
-      "onboard_time": 1747151600,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 218791,
       "num": 312403,
       "word": "徐艺洋没吃过爱情的苦",
@@ -115,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215674,
+      "num": 215674,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202028,
       "num": 202028,
       "word": "官方通报5干部培训期饮酒1人死亡",
       "onboard_time": 1747148424,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 197762,
+      "num": 197762,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183090,
@@ -139,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169653,
-      "num": 168727,
-      "word": "北京有车桥下躲冰雹致堵车",
-      "onboard_time": 1747150582,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168062,
       "num": 168062,
       "word": "李现关注了刘亦菲",
@@ -155,20 +171,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158442,
-      "num": 158442,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "河南5名干部违规吃喝饮酒1人死亡",
+      "onboard_time": 1747150161,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 156218,
+      "num": 156218,
+      "word": "迪丽热巴支持折腰",
+      "onboard_time": 1747177879,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "美国和沙特签署上千亿美元军售协议",
+      "onboard_time": 1747177879,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 145000,
+      "num": 121278,
+      "word": "医生晒出18颗一模一样胆结石",
+      "onboard_time": 1747177938,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144633,
-      "num": 144633,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 141661,
+      "num": 141661,
+      "word": "邱淑贞带两个女儿同游西安",
+      "onboard_time": 1747173014,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 129764,
@@ -203,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114996,
+      "num": 114996,
+      "word": "官方通报珠海发生旋挖桩机倾倒事件",
+      "onboard_time": 1747155678,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111570,
       "num": 111570,
       "word": "刘宇宁谢谢开推包场折腰",
       "onboard_time": 1747152320,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110036,
-      "num": 110036,
-      "word": "河南5名干部违规吃喝饮酒1人死亡",
-      "onboard_time": 1747150161,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109375,
@@ -240,6 +280,22 @@
       "word": "翟潇闻琼瑶式哭戏",
       "onboard_time": 1747152320,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101966,
+      "num": 101966,
+      "word": "小米SU7被货车碾压还能开车门放音乐",
+      "onboard_time": 1747136842,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 95262,
+      "num": 89344,
+      "word": "对刘宇宁189有了实感",
+      "onboard_time": 1747130601,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -267,14 +323,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 89344,
-      "num": 89344,
-      "word": "对刘宇宁189有了实感",
-      "onboard_time": 1747130601,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87883,
       "num": 99401,
       "word": "戛纳",
@@ -299,12 +347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84430,
-      "num": 84430,
-      "word": "小米SU7被货车碾压还能开车门放音乐",
-      "onboard_time": 1747136842,
-      "rank": 37,
-      "category": "汽车"
+      "raw_hot": 82970,
+      "num": 82970,
+      "word": "李现人缘",
+      "onboard_time": 1747165334,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 82969,
@@ -323,12 +371,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 79714,
-      "num": 79714,
-      "word": "邱淑贞带两个女儿同游西安",
-      "onboard_time": 1747173014,
-      "rank": 19,
-      "category": "艺人,综艺"
+      "raw_hot": 82029,
+      "num": 71149,
+      "word": "特朗普与沙特王储喝咖啡聊天",
+      "onboard_time": 1747177338,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80897,
+      "num": 173173,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78698,
@@ -361,14 +417,6 @@
       "onboard_time": 1747145723,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 73254,
-      "num": 54864,
-      "word": "官方通报珠海发生旋挖桩机倾倒事件",
-      "onboard_time": 1747155678,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70370,
@@ -411,11 +459,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61535,
-      "num": 61535,
-      "word": "李现人缘",
-      "onboard_time": 1747165334,
-      "rank": 15,
+      "raw_hot": 60641,
+      "num": 71611,
+      "word": "沪上阿姨鞠婧祎",
+      "onboard_time": 1747138640,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -435,12 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55807,
-      "num": 71183,
-      "word": "沪上阿姨鞠婧祎",
-      "onboard_time": 1747138640,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 56186,
+      "num": 56186,
+      "word": "肖战藏海传抬眸杀",
+      "onboard_time": 1747176017,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46923,
+      "num": 56030,
+      "word": "标普500指数年内转涨",
+      "onboard_time": 1747178059,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 46469,
+      "num": 55947,
+      "word": "毛利兰新剧场版打戏好爽",
+      "onboard_time": 1747178059,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 43316,
@@ -451,6 +515,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 39766,
+      "num": 55922,
+      "word": "陕西首富范代娣夫妇商业版图盘点",
+      "onboard_time": 1747155198,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39739,
       "num": 39739,
       "word": "浪姐",
@@ -459,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38431,
-      "num": 38431,
-      "word": "首批59名南非白人难民抵达美国",
-      "onboard_time": 1747164733,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 36124,
+      "num": 55868,
+      "word": "刑警的日子",
+      "onboard_time": 1747175597,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 35688,
@@ -483,20 +555,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33406,
+      "num": 66805,
+      "word": "今天在北京开的这个会值得美国掂量",
+      "onboard_time": 1747161434,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30085,
       "num": 35807,
       "word": "折腰腾讯站内热度值破23000",
       "onboard_time": 1747160476,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29999,
-      "num": 35800,
-      "word": "陕西首富范代娣夫妇商业版图盘点",
-      "onboard_time": 1747155198,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26681,
@@ -523,36 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23100,
-      "num": 66805,
-      "word": "今天在北京开的这个会值得美国掂量",
-      "onboard_time": 1747161434,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21757,
-      "num": 35756,
-      "word": "刑警的日子",
-      "onboard_time": 1747175597,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17662,
       "num": 48372,
       "word": "欢迎巴西总统访华",
       "onboard_time": 1747163054,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17160,
-      "num": 35751,
-      "word": "肖战藏海传抬眸杀",
-      "onboard_time": 1747176017,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 16344,

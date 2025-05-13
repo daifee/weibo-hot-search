@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747176184841,
+  "endTime": 1747178657633,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1144615,
+      "num": 1144615,
+      "word": "夫妻俩制假币每天印多少花多少",
+      "onboard_time": 1747148424,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1116307,
       "num": 553393,
       "word": "月薪3K带月薪5w体验低消费的一天",
@@ -553,14 +561,6 @@
       "onboard_time": 1747016422,
       "rank": 34,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 984582,
-      "num": 984582,
-      "word": "夫妻俩制假币每天印多少花多少",
-      "onboard_time": 1747148424,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 972352,
@@ -2267,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348227,
+      "num": 348227,
+      "word": "女子用假文凭入职被发现后起诉索赔",
+      "onboard_time": 1747151302,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347172,
       "num": 323535,
       "word": "对这种玩笑 永远不要笑",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1747044381,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345316,
+      "num": 168727,
+      "word": "北京有车桥下躲冰雹致堵车",
+      "onboard_time": 1747150582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344889,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1746955520,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 338086,
-      "num": 338086,
-      "word": "女子用假文凭入职被发现后起诉索赔",
-      "onboard_time": 1747151302,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337831,
@@ -2715,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288403,
+      "num": 288403,
+      "word": "90后健身博主山阿离世",
+      "onboard_time": 1747151600,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 287592,
       "num": 287592,
       "word": "世界突然开始以和为贵",
@@ -2771,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278336,
+      "num": 269525,
+      "word": "西北大学回应副校长成陕西首富",
+      "onboard_time": 1747151661,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275939,
       "num": 308380,
       "word": "618淘宝直播红包",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1747018462,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269525,
-      "num": 269525,
-      "word": "西北大学回应副校长成陕西首富",
-      "onboard_time": 1747151661,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268250,
@@ -3451,14 +3467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220444,
-      "num": 220252,
-      "word": "90后健身博主山阿离世",
-      "onboard_time": 1747151600,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 220130,
       "num": 220130,
       "word": "AG夺冠",
@@ -3585,6 +3593,14 @@
       "onboard_time": 1747026624,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215674,
+      "num": 215674,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214658,
@@ -4081,6 +4097,14 @@
       "onboard_time": 1747033822,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197762,
+      "num": 197762,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196445,
@@ -5067,14 +5091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 169653,
-      "num": 168727,
-      "word": "北京有车桥下躲冰雹致堵车",
-      "onboard_time": 1747150582,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "飞猪小编押中冠军",
@@ -5499,6 +5515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "河南5名干部违规吃喝饮酒1人死亡",
+      "onboard_time": 1747150161,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 159738,
       "num": 159738,
       "word": "男子家中滑倒双腿卡护栏数天",
@@ -5553,14 +5577,6 @@
       "onboard_time": 1747043782,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158442,
-      "num": 158442,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158393,
@@ -5713,6 +5729,14 @@
       "onboard_time": 1747041623,
       "rank": 41,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 156218,
+      "num": 156218,
+      "word": "迪丽热巴支持折腰",
+      "onboard_time": 1747177879,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 156127,
@@ -6003,6 +6027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150846,
+      "num": 150846,
+      "word": "美国和沙特签署上千亿美元军售协议",
+      "onboard_time": 1747177879,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150304,
       "num": 175920,
       "word": "高盛超配A股",
@@ -6251,12 +6283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144633,
-      "num": 144633,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 145000,
+      "num": 121278,
+      "word": "医生晒出18颗一模一样胆结石",
+      "onboard_time": 1747177938,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144536,
@@ -6433,6 +6465,14 @@
       "onboard_time": 1746940221,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141661,
+      "num": 141661,
+      "word": "邱淑贞带两个女儿同游西安",
+      "onboard_time": 1747173014,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 141588,
@@ -8019,6 +8059,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 114996,
+      "num": 114996,
+      "word": "官方通报珠海发生旋挖桩机倾倒事件",
+      "onboard_time": 1747155678,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114989,
       "num": 175996,
       "word": "老师库存不足",
@@ -8305,14 +8353,6 @@
       "onboard_time": 1747056925,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 110074,
-      "num": 110074,
-      "word": "河南5名干部违规吃喝饮酒1人死亡",
-      "onboard_time": 1747150161,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110004,
@@ -9139,6 +9179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82970,
+      "num": 82970,
+      "word": "李现人缘",
+      "onboard_time": 1747165334,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82665,
       "num": 217432,
       "word": "男子赤裸摔倒双腿被卡找到时已晕厥",
@@ -9163,6 +9211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82029,
+      "num": 71149,
+      "word": "特朗普与沙特王储喝咖啡聊天",
+      "onboard_time": 1747177338,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81842,
       "num": 327615,
       "word": "男孩商场骑平衡车撞倒老人坚称无责",
@@ -9176,6 +9232,14 @@
       "word": "枭龙打S400相当于潜艇打反潜机",
       "onboard_time": 1746957262,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 80897,
+      "num": 173173,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -9217,14 +9281,6 @@
       "onboard_time": 1747114581,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79714,
-      "num": 79714,
-      "word": "邱淑贞带两个女儿同游西安",
-      "onboard_time": 1747173014,
-      "rank": 19,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 79514,
@@ -9353,14 +9409,6 @@
       "onboard_time": 1747022903,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 73254,
-      "num": 54864,
-      "word": "官方通报珠海发生旋挖桩机倾倒事件",
-      "onboard_time": 1747155678,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72547,
@@ -9659,14 +9707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61535,
-      "num": 61535,
-      "word": "李现人缘",
-      "onboard_time": 1747165334,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60919,
       "num": 198669,
       "word": "无锡到上海高铁能包月了",
@@ -9817,6 +9857,14 @@
       "onboard_time": 1747127660,
       "rank": 28,
       "category": "动漫,音乐"
+    },
+    {
+      "raw_hot": 56186,
+      "num": 56186,
+      "word": "肖战藏海传抬眸杀",
+      "onboard_time": 1747176017,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 55825,
@@ -10219,12 +10267,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 46923,
+      "num": 56030,
+      "word": "标普500指数年内转涨",
+      "onboard_time": 1747178059,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 46885,
       "num": 66769,
       "word": "钟意FMVP",
       "onboard_time": 1746884482,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46469,
+      "num": 55947,
+      "word": "毛利兰新剧场版打戏好爽",
+      "onboard_time": 1747178059,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 46108,
@@ -10491,6 +10555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39766,
+      "num": 55922,
+      "word": "陕西首富范代娣夫妇商业版图盘点",
+      "onboard_time": 1747155198,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39739,
       "num": 39739,
       "word": "浪姐",
@@ -10537,14 +10609,6 @@
       "onboard_time": 1747110324,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 38431,
-      "num": 38431,
-      "word": "首批59名南非白人难民抵达美国",
-      "onboard_time": 1747164733,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38118,
@@ -10739,6 +10803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 33406,
+      "num": 66805,
+      "word": "今天在北京开的这个会值得美国掂量",
+      "onboard_time": 1747161434,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33087,
       "num": 264456,
       "word": "监视居住期间被私了的命案",
@@ -10841,14 +10913,6 @@
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29999,
-      "num": 35800,
-      "word": "陕西首富范代娣夫妇商业版图盘点",
-      "onboard_time": 1747155198,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29616,
@@ -11153,14 +11217,6 @@
       "onboard_time": 1747160595,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23100,
-      "num": 66805,
-      "word": "今天在北京开的这个会值得美国掂量",
-      "onboard_time": 1747161434,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23078,
@@ -11545,14 +11601,6 @@
       "onboard_time": 1747088176,
       "rank": 49,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 17160,
-      "num": 35751,
-      "word": "肖战藏海传抬眸杀",
-      "onboard_time": 1747176017,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 17045,
