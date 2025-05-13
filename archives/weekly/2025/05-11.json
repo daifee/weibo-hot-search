@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747132126578,
+  "endTime": 1747133181224,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -371,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1161755,
+      "num": 1185880,
+      "word": "火车穿村被撞身亡者最小仅1岁半",
+      "onboard_time": 1747125142,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1157224,
       "num": 372745,
       "word": "60岁失独母亲冒死生下双胞胎女儿",
@@ -384,14 +392,6 @@
       "word": "汶川地震李小萌路遇朱大爷完整版",
       "onboard_time": 1747010241,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1127026,
-      "num": 1179741,
-      "word": "火车穿村被撞身亡者最小仅1岁半",
-      "onboard_time": 1747125142,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -419,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099496,
+      "num": 1099496,
+      "word": "deepseek",
+      "onboard_time": 1747129823,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1058705,
       "num": 1058705,
       "word": "退休夫妻月入1.2万负债1.2亿",
       "onboard_time": 1746882142,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1058652,
-      "num": 1058652,
-      "word": "deepseek",
-      "onboard_time": 1747129823,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1058175,
@@ -851,20 +851,20 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 670247,
+      "num": 670247,
+      "word": "黄晓明金世佳复试还需加试3科笔试",
+      "onboard_time": 1747127781,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665901,
       "num": 665901,
       "word": "印巴同意立即停火",
       "onboard_time": 1746879682,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 659354,
-      "num": 659354,
-      "word": "黄晓明金世佳复试还需加试3科笔试",
-      "onboard_time": 1747127781,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 656010,
@@ -1979,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362743,
+      "num": 308315,
+      "word": "刘诗诗给主持人挡腿",
+      "onboard_time": 1747131501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361042,
       "num": 343870,
       "word": "歌手2025音乐合伙人官宣",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1746933501,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339910,
+      "num": 339910,
+      "word": "对刘宇宁189有了实感",
+      "onboard_time": 1747130601,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 339883,
@@ -2323,20 +2339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308643,
+      "num": 308643,
+      "word": "姜妍艺校时期被孤立",
+      "onboard_time": 1747130001,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
       "onboard_time": 1746938300,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305717,
-      "num": 305717,
-      "word": "姜妍艺校时期被孤立",
-      "onboard_time": 1747130001,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 304782,
@@ -2499,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275939,
+      "num": 308380,
+      "word": "618淘宝直播红包",
+      "onboard_time": 1747131261,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 274975,
       "num": 274975,
       "word": "盖茨批评美国关税危害",
@@ -2595,14 +2619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263935,
-      "num": 263935,
-      "word": "对刘宇宁189有了实感",
-      "onboard_time": 1747130601,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263183,
       "num": 237938,
       "word": "张杰回复黄霄雲",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1747023201,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259388,
+      "num": 523940,
+      "word": "藏海传预告片上线",
+      "onboard_time": 1747130720,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 258376,
@@ -2971,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225333,
+      "num": 225333,
+      "word": "杨紫转发李现新剧",
+      "onboard_time": 1747131321,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225325,
       "num": 225325,
       "word": "金龟子女儿回应蹭妈妈流量",
@@ -3065,14 +3097,6 @@
       "onboard_time": 1747119982,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220205,
-      "num": 220205,
-      "word": "刘诗诗给主持人挡腿",
-      "onboard_time": 1747131501,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 220130,
@@ -3251,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211052,
+      "num": 308445,
+      "word": "唐嫣戛纳抵达",
+      "onboard_time": 1747132521,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210932,
       "num": 210932,
       "word": "原神",
@@ -3289,14 +3321,6 @@
       "onboard_time": 1746966561,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208995,
-      "num": 523940,
-      "word": "藏海传预告片上线",
-      "onboard_time": 1747130720,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 208852,
@@ -3491,14 +3515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203322,
-      "num": 203322,
-      "word": "杨紫转发李现新剧",
-      "onboard_time": 1747131321,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203152,
       "num": 203152,
       "word": "印度空军称所有飞行员已返回国内",
@@ -3544,6 +3560,14 @@
       "word": "母亲节 微信状态",
       "onboard_time": 1746942741,
       "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 201588,
+      "num": 201588,
+      "word": "京东一季度净利润109亿元",
+      "onboard_time": 1747132221,
+      "rank": 28,
       "category": "互联网"
     },
     {
@@ -3683,6 +3707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 194440,
+      "num": 361524,
+      "word": "特朗普要求美国部分药品价格下降90%",
+      "onboard_time": 1747130601,
+      "rank": 14,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 194006,
       "num": 194006,
       "word": "印巴",
@@ -3800,6 +3832,14 @@
       "word": "单依纯歌手经纪人是郑方一",
       "onboard_time": 1747056503,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191843,
+      "num": 191843,
+      "word": "马吟吟浪姐调剂票还没高考分高",
+      "onboard_time": 1747132762,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -3955,6 +3995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187513,
+      "num": 187513,
+      "word": "京东第一季度净营收3010.8亿元",
+      "onboard_time": 1747132342,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 187282,
       "num": 273221,
       "word": "央8节目单有藏海传了",
@@ -4025,14 +4073,6 @@
       "onboard_time": 1747094842,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186103,
-      "num": 267662,
-      "word": "618淘宝直播红包",
-      "onboard_time": 1747131261,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 185979,
@@ -4113,6 +4153,14 @@
       "onboard_time": 1747038504,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183215,
+      "num": 183215,
+      "word": "折腰 背景虚化",
+      "onboard_time": 1747132400,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183003,
@@ -4281,14 +4329,6 @@
       "onboard_time": 1746973943,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177019,
-      "num": 361524,
-      "word": "特朗普要求美国部分药品价格下降90%",
-      "onboard_time": 1747130601,
-      "rank": 14,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 176900,
@@ -4995,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157900,
+      "num": 157900,
+      "word": "折腰第4集绝了",
+      "onboard_time": 1747133062,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157820,
       "num": 157820,
       "word": "阿维塔律师函",
@@ -5057,6 +5105,14 @@
       "onboard_time": 1747010241,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 156885,
+      "num": 156885,
+      "word": "原来是大帅爸爸",
+      "onboard_time": 1747132880,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 156864,
@@ -5203,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154345,
+      "num": 153171,
+      "word": "长公主的万花世界开机",
+      "onboard_time": 1747132400,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154279,
       "num": 342862,
       "word": "妈妈级马拉松运动员如何重回巅峰",
@@ -5275,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153474,
+      "num": 153474,
+      "word": "梁田樱花树下站谁都美",
+      "onboard_time": 1747131861,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153156,
       "num": 185760,
       "word": "美国西海岸港口靠岸中国货船数归零",
@@ -5329,6 +5401,14 @@
       "onboard_time": 1747034964,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151599,
+      "num": 151599,
+      "word": "王怡人 乐华",
+      "onboard_time": 1747133062,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 151085,
@@ -5737,14 +5817,6 @@
       "onboard_time": 1746940221,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141736,
-      "num": 141736,
-      "word": "梁田樱花树下站谁都美",
-      "onboard_time": 1747131861,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 141501,
@@ -6172,7 +6244,7 @@
     },
     {
       "raw_hot": 134472,
-      "num": 197395,
+      "num": 487425,
       "word": "中国人民抗战胜利80周年",
       "onboard_time": 1747126402,
       "rank": 27,
@@ -8371,6 +8443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70214,
+      "num": 377698,
+      "word": "眼球缺失盲人办卡被要求眨眼刷脸",
+      "onboard_time": 1747131140,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70002,
       "num": 70002,
       "word": "要减重每天睡足7小时",
@@ -8963,6 +9043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48572,
+      "num": 308582,
+      "word": "藏海传与盗墓笔记有何关联",
+      "onboard_time": 1747132281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48160,
       "num": 203592,
       "word": "巴基斯坦对印反击的空中优势",
@@ -9203,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41919,
-      "num": 377698,
-      "word": "眼球缺失盲人办卡被要求眨眼刷脸",
-      "onboard_time": 1747131140,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41839,
       "num": 41839,
       "word": "何秋亊杂志",
@@ -9353,6 +9433,14 @@
       "onboard_time": 1747032562,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36903,
+      "num": 218700,
+      "word": "莫迪称巴军乞求印度停火",
+      "onboard_time": 1747131922,
+      "rank": 28,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 36749,
@@ -9539,6 +9627,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 31455,
+      "num": 339937,
+      "word": "72元富士拍立得相纸转卖要150元",
+      "onboard_time": 1747132162,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31299,
       "num": 295618,
       "word": "地面沉降会对城市带来什么影响",
@@ -9689,6 +9785,14 @@
       "onboard_time": 1746984916,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25976,
+      "num": 308511,
+      "word": "鹿寨水文局回应楼梯安装倒刺扶手",
+      "onboard_time": 1747132041,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25684,
@@ -10131,6 +10235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17387,
+      "num": 158907,
+      "word": "美超千人住拉斯维加斯下水道",
+      "onboard_time": 1747131982,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17376,
       "num": 35765,
       "word": "降价的风终于吹到了榴莲",
@@ -10243,14 +10355,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 15486,
-      "num": 217216,
-      "word": "鹿寨水文局回应楼梯安装倒刺扶手",
-      "onboard_time": 1747132041,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15353,
       "num": 20656,
       "word": "牛钰仍会梦到去世亲朋好友",
@@ -10355,14 +10459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13280,
-      "num": 144444,
-      "word": "美超千人住拉斯维加斯下水道",
-      "onboard_time": 1747131982,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 13036,
       "num": 18050,
       "word": "张杰高朋满座电量满格幸福求婚合唱满分",
@@ -10433,14 +10529,6 @@
       "onboard_time": 1747063882,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12114,
-      "num": 218700,
-      "word": "莫迪称巴军乞求印度停火",
-      "onboard_time": 1747131922,
-      "rank": 28,
-      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 11879,
