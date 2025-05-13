@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747126091553,
+  "endTime": 1747128526764,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1901583,
+      "num": 1901583,
+      "word": "女装退货率",
+      "onboard_time": 1747124301,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1788705,
       "num": 1788705,
       "word": "百万网红克里西账号被封",
       "onboard_time": 1747123462,
       "rank": 1,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1468945,
+      "num": 1468945,
+      "word": "高退款人群屏蔽",
+      "onboard_time": 1747124001,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 1452236,
@@ -104,6 +120,14 @@
       "word": "百万网红自导自演自杀一度涨粉2万",
       "onboard_time": 1747121542,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1003428,
+      "num": 1003428,
+      "word": "火车穿村被撞身亡者最小仅1岁半",
+      "onboard_time": 1747125142,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 669462,
-      "num": 669462,
-      "word": "女装退货率",
-      "onboard_time": 1747124301,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 640997,
       "num": 538806,
       "word": "李现魏大勋双男主",
@@ -233,6 +249,14 @@
       "onboard_time": 1747118661,
       "rank": 23,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 622716,
+      "num": 622716,
+      "word": "李诚儒看苍兰诀配音如芒刺背",
+      "onboard_time": 1747125262,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 616022,
@@ -523,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 380849,
-      "num": 380849,
-      "word": "高退款人群屏蔽",
-      "onboard_time": 1747124001,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 374595,
       "num": 374595,
       "word": "莫迪对印巴空战公开讲话但只字不提美国",
@@ -553,6 +569,14 @@
       "onboard_time": 1747055542,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 360412,
+      "num": 360412,
+      "word": "律师称网红是小念噢或被刑事追责",
+      "onboard_time": 1747126882,
+      "rank": 8,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 355207,
@@ -625,14 +649,6 @@
       "onboard_time": 1747091779,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 316217,
-      "num": 316217,
-      "word": "火车穿村被撞身亡者最小仅1岁半",
-      "onboard_time": 1747125142,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314334,
@@ -715,6 +731,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 264640,
+      "num": 264640,
+      "word": "恋与深空仅10厘米粘土手办售价319",
+      "onboard_time": 1747126163,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262472,
       "num": 346616,
       "word": "森林狼3比1勇士",
@@ -729,14 +753,6 @@
       "onboard_time": 1747109062,
       "rank": 30,
       "category": "数码,休闲"
-    },
-    {
-      "raw_hot": 258371,
-      "num": 330518,
-      "word": "李诚儒看苍兰诀配音如芒刺背",
-      "onboard_time": 1747125262,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 255538,
@@ -841,6 +857,14 @@
       "onboard_time": 1747111884,
       "rank": 29,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 233095,
+      "num": 193648,
+      "word": "黄晓明金世佳复试还需加试3科笔试",
+      "onboard_time": 1747127781,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 232991,
@@ -979,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210542,
+      "num": 210542,
+      "word": "折腰妆造",
+      "onboard_time": 1747128262,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209808,
       "num": 209808,
       "word": "杨紫樱桃look",
@@ -1059,6 +1091,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 197508,
+      "num": 197508,
+      "word": "周深工作室公布维权进度表",
+      "onboard_time": 1747128442,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195480,
       "num": 195480,
       "word": "克里西对女童开黄腔",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1747080374,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193442,
+      "num": 193442,
+      "word": "五月天42场鸟巢破纪录",
+      "onboard_time": 1747128201,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 193032,
@@ -1235,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180086,
+      "num": 165618,
+      "word": "黄晓明金世佳是以同等学力申请读博",
+      "onboard_time": 1747126822,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179677,
       "num": 179677,
       "word": "终于有人把英语体系说清楚了",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1747100421,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 166287,
+      "num": 166287,
+      "word": "官方通报穿警察字样雨衣办丧事",
+      "onboard_time": 1747125142,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 165381,
@@ -1459,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157763,
+      "num": 201784,
+      "word": "王楚钦多哈街头戴浴巾",
+      "onboard_time": 1747127421,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157313,
       "num": 165763,
       "word": "肖战藏海眼神转换",
@@ -1555,12 +1627,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 143720,
-      "num": 143720,
-      "word": "官方通报穿警察字样雨衣办丧事",
-      "onboard_time": 1747125142,
-      "rank": 42,
-      "category": "辟谣/通报"
+      "raw_hot": 145666,
+      "num": 145666,
+      "word": "克里西",
+      "onboard_time": 1747127182,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 142385,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1747106480,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134472,
+      "num": 197395,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1747126402,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134458,
@@ -1811,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124103,
+      "num": 124103,
+      "word": "人生若如初见开播口碑",
+      "onboard_time": 1747128262,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "于正说陈腾跃是下一个周星驰",
@@ -1859,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115303,
+      "num": 325535,
+      "word": "印度退役中将自嗨",
+      "onboard_time": 1747125681,
+      "rank": 16,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 114169,
       "num": 114169,
       "word": "赴山海 换脸",
@@ -1873,6 +1969,22 @@
       "onboard_time": 1747065142,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113998,
+      "num": 113998,
+      "word": "孟佳王霏霏有种祖师奶的从容",
+      "onboard_time": 1747126521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113562,
+      "num": 300010,
+      "word": "郑钦文发文回应罗马站8强",
+      "onboard_time": 1747127001,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 110820,
@@ -1891,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107515,
+      "num": 107515,
+      "word": "张云龙晒面具团",
+      "onboard_time": 1747126221,
+      "rank": 45,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 107002,
       "num": 107002,
       "word": "歌手2025首发阵容和经纪人",
@@ -1905,6 +2025,30 @@
       "onboard_time": 1747092380,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105185,
+      "num": 105185,
+      "word": "沈月脖子还好吗",
+      "onboard_time": 1747128082,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104107,
+      "num": 104107,
+      "word": "阿维塔 苏黎世贝勒爷",
+      "onboard_time": 1747127362,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 104028,
+      "num": 104028,
+      "word": "诚意来了",
+      "onboard_time": 1747127301,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102922,
@@ -1929,6 +2073,14 @@
       "onboard_time": 1747106541,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 100661,
+      "num": 144119,
+      "word": "无效健身十大表现",
+      "onboard_time": 1747126343,
+      "rank": 38,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 97440,
@@ -2243,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56674,
+      "num": 196377,
+      "word": "陈张太康吞海主题曲",
+      "onboard_time": 1747127660,
+      "rank": 28,
+      "category": "动漫,音乐"
+    },
+    {
       "raw_hot": 55825,
       "num": 178980,
       "word": "高铁上大叔送饼给女生",
@@ -2323,14 +2483,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 48932,
-      "num": 325535,
-      "word": "印度退役中将自嗨",
-      "onboard_time": 1747125681,
-      "rank": 16,
-      "category": "国际时政,军事"
-    },
-    {
       "raw_hot": 48647,
       "num": 48647,
       "word": "父母说的这些话最伤孩子",
@@ -2387,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43089,
+      "num": 298991,
+      "word": "嘬老族算不算新型啃老",
+      "onboard_time": 1747127362,
+      "rank": 18,
+      "category": "议题讨论,民生新闻"
+    },
+    {
       "raw_hot": 42775,
       "num": 401471,
       "word": "鸿蒙电脑到底有什么不一样",
@@ -2401,6 +2561,14 @@
       "onboard_time": 1747114221,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41861,
+      "num": 195592,
+      "word": "无锡到上海高铁能包月了",
+      "onboard_time": 1747127962,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41176,
@@ -2457,6 +2625,38 @@
       "onboard_time": 1747110503,
       "rank": 23,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 37120,
+      "num": 301331,
+      "word": "郑钦文第7次与萨巴伦卡交手",
+      "onboard_time": 1747128143,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36749,
+      "num": 303284,
+      "word": "管乐笑称最大竞争者就是张小婉",
+      "onboard_time": 1747127001,
+      "rank": 14,
+      "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 36705,
+      "num": 1434419,
+      "word": "嫦娥五号月球土特产让老外惊叹",
+      "onboard_time": 1747128201,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 36677,
+      "num": 104639,
+      "word": "库里不在勇士是另一支球队",
+      "onboard_time": 1747127362,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 35158,
@@ -2563,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21799,
+      "num": 132104,
+      "word": "每天坚持吃鸡蛋的人怎样了",
+      "onboard_time": 1747128502,
+      "rank": 40,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 21527,
       "num": 23445,
       "word": "英媒称英国首相住所起火",
@@ -2627,6 +2835,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 16916,
+      "num": 298264,
+      "word": "屏蔽高退款人群的商家能节省哪些成本",
+      "onboard_time": 1747127781,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 16525,
       "num": 151079,
       "word": "美国上蹿下跳一切回到原点",
@@ -2688,6 +2904,14 @@
       "word": "加沙47万人饥饿困境该如何化解",
       "onboard_time": 1747125982,
       "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12816,
+      "num": 126866,
+      "word": "全国汽车以旧换新补贴申请量合计突破1000万份",
+      "onboard_time": 1747128143,
+      "rank": 41,
       "category": "国内时政"
     },
     {
