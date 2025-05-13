@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747175128092,
+  "endTime": 1747176184841,
   "band_list": [
     {
       "raw_hot": 984582,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 220444,
-      "num": 210067,
+      "num": 220252,
       "word": "90后健身博主山阿离世",
       "onboard_time": 1747151600,
       "rank": 13,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169653,
+      "num": 168727,
+      "word": "北京有车桥下躲冰雹致堵车",
+      "onboard_time": 1747150582,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168062,
       "num": 168062,
       "word": "李现关注了刘亦菲",
@@ -147,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155206,
-      "num": 168727,
-      "word": "北京有车桥下躲冰雹致堵车",
-      "onboard_time": 1747150582,
-      "rank": 15,
+      "raw_hot": 158442,
+      "num": 158442,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144633,
+      "num": 144633,
+      "word": "盖茨称美禁令让中国在各领域全速发展",
+      "onboard_time": 1747156516,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129764,
@@ -187,28 +203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113560,
-      "num": 113560,
-      "word": "盖茨称美禁令让中国在各领域全速发展",
-      "onboard_time": 1747156516,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 113270,
-      "num": 113270,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111570,
       "num": 111570,
       "word": "刘宇宁谢谢开推包场折腰",
       "onboard_time": 1747152320,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110036,
+      "num": 110036,
+      "word": "河南5名干部违规吃喝饮酒1人死亡",
+      "onboard_time": 1747150161,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109375,
@@ -257,14 +265,6 @@
       "onboard_time": 1747146502,
       "rank": 30,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 89565,
-      "num": 89565,
-      "word": "河南5名干部违规吃喝饮酒1人死亡",
-      "onboard_time": 1747150161,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 89344,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79714,
+      "num": 79714,
+      "word": "邱淑贞带两个女儿同游西安",
+      "onboard_time": 1747173014,
+      "rank": 19,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 78698,
       "num": 78698,
       "word": "邱贻可说陈玘养猪没活几个",
@@ -353,6 +361,14 @@
       "onboard_time": 1747145723,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73254,
+      "num": 54864,
+      "word": "官方通报珠海发生旋挖桩机倾倒事件",
+      "onboard_time": 1747155678,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70370,
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61535,
+      "num": 61535,
+      "word": "李现人缘",
+      "onboard_time": 1747165334,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60038,
       "num": 60038,
       "word": "北京冰雹好大",
@@ -419,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49951,
-      "num": 48744,
-      "word": "官方通报珠海发生旋挖桩机倾倒事件",
-      "onboard_time": 1747155678,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46376,
-      "num": 46376,
-      "word": "李现人缘",
-      "onboard_time": 1747165334,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 44286,
-      "num": 46187,
-      "word": "邱淑贞带两个女儿同游西安",
-      "onboard_time": 1747173014,
-      "rank": 19,
-      "category": "艺人,综艺"
+      "raw_hot": 43316,
+      "num": 43316,
+      "word": "韩彩英45岁状态",
+      "onboard_time": 1747147104,
+      "rank": 47,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 39739,
@@ -449,6 +457,14 @@
       "onboard_time": 1747156756,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38431,
+      "num": 38431,
+      "word": "首批59名南非白人难民抵达美国",
+      "onboard_time": 1747164733,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35688,
@@ -467,36 +483,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32964,
-      "num": 32964,
-      "word": "韩彩英45岁状态",
-      "onboard_time": 1747147104,
-      "rank": 47,
-      "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 30831,
-      "num": 30831,
-      "word": "首批59名南非白人难民抵达美国",
-      "onboard_time": 1747164733,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 24364,
-      "num": 27054,
+      "raw_hot": 30085,
+      "num": 35807,
       "word": "折腰腾讯站内热度值破23000",
       "onboard_time": 1747160476,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 23223,
-      "num": 27051,
+      "raw_hot": 29999,
+      "num": 35800,
+      "word": "陕西首富范代娣夫妇商业版图盘点",
+      "onboard_time": 1747155198,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26681,
+      "num": 35791,
       "word": "肖战藏海传造型暗藏玄机",
       "onboard_time": 1747165995,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24317,
+      "num": 72297,
+      "word": "中国始终做拉美和加勒比国家的好朋友",
+      "onboard_time": 1747160114,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23211,
@@ -507,28 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21637,
-      "num": 27050,
-      "word": "陕西首富范代娣夫妇商业版图盘点",
-      "onboard_time": 1747155198,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21217,
-      "num": 72297,
-      "word": "中国始终做拉美和加勒比国家的好朋友",
-      "onboard_time": 1747160114,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 18928,
+      "raw_hot": 23100,
       "num": 66805,
       "word": "今天在北京开的这个会值得美国掂量",
       "onboard_time": 1747161434,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21757,
+      "num": 35756,
+      "word": "刑警的日子",
+      "onboard_time": 1747175597,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 17662,
@@ -537,6 +545,14 @@
       "onboard_time": 1747163054,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17160,
+      "num": 35751,
+      "word": "肖战藏海传抬眸杀",
+      "onboard_time": 1747176017,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16344,
