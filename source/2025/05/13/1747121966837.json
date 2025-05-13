@@ -1,0 +1,410 @@
+{
+  "runTime": 1747121966837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1133948,
+        "num": 1181431,
+        "word": "缅甸7.9级地震地表位移画面首曝光",
+        "onboard_time": 1747116682,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1075171,
+        "num": 1075171,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30040,
+        "num": 846345,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784208,
+        "num": 784208,
+        "word": "折腰打破2025腾讯记录",
+        "onboard_time": 1747118902,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559085,
+        "num": 559085,
+        "word": "卫健委回应救护车在西藏拉警报旅游",
+        "onboard_time": 1747117881,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 355531,
+        "num": 355531,
+        "word": "13岁女孩称以为是妈妈让女教官打自己",
+        "onboard_time": 1747110805,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633214,
+        "num": 353321,
+        "word": "迪士尼发了肖战剧照",
+        "onboard_time": 1747118661,
+        "rank": 6,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 567755,
+        "num": 349274,
+        "word": "刘晓庆 折腰",
+        "onboard_time": 1747120822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343749,
+        "num": 343749,
+        "word": "莫迪称印度的行动震惊巴基斯坦",
+        "onboard_time": 1747119321,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153683,
+        "num": 340696,
+        "word": "日方不反省侵略罪责反而对正义说三道四",
+        "onboard_time": 1747121062,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1886718,
+        "num": 335057,
+        "word": "代孕一旦合法穷人更将苦不堪言",
+        "onboard_time": 1747115662,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588844,
+        "num": 330819,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 11,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 376536,
+        "num": 326452,
+        "word": "71岁的成龙",
+        "onboard_time": 1747117221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320766,
+        "num": 320766,
+        "word": "曝司机骚扰未成年女乘客问是不是处女",
+        "onboard_time": 1747115602,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47006,
+        "num": 317346,
+        "word": "警方回应救护车无任务鸣笛开道",
+        "onboard_time": 1747121000,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 314440,
+        "num": 314440,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296285,
+        "num": 296285,
+        "word": "百万网红自导自演自杀一度涨粉2万",
+        "onboard_time": 1747121542,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68646,
+        "num": 282644,
+        "word": "救援队称8岁失踪男童仍有生还可能",
+        "onboard_time": 1747121661,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82374,
+        "num": 276501,
+        "word": "男子用餐厅廉价纸巾擦脸肿成猪头",
+        "onboard_time": 1747121361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 273354,
+        "word": "缅甸地震地表位移面临哪些重建困难",
+        "onboard_time": 1747121482,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 273188,
+        "num": 273188,
+        "word": "女子被困自家别墅电梯1天1夜",
+        "onboard_time": 1747111044,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181647,
+        "num": 245477,
+        "word": "孙恩盛因压力大长白头发",
+        "onboard_time": 1747117642,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239271,
+        "num": 239271,
+        "word": "马頔接机李纯",
+        "onboard_time": 1747115121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223135,
+        "num": 223135,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 186873,
+        "word": "吴宣仪两次神级救场",
+        "onboard_time": 1747119982,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127345,
+        "num": 186648,
+        "word": "张艺兴京东",
+        "onboard_time": 1747116862,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 168561,
+        "num": 186496,
+        "word": "刘宇宁古偶",
+        "onboard_time": 1747112843,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11053,
+        "num": 186328,
+        "word": "同一天内的李在明和尹锡悦",
+        "onboard_time": 1747121600,
+        "rank": 27,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 52554,
+        "num": 186030,
+        "word": "汕头占地57亩违建豪宅被责令拆除",
+        "onboard_time": 1747120522,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133159,
+        "num": 185842,
+        "word": "游泳冠军赛孙杨报四项",
+        "onboard_time": 1747121241,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687666,
+        "num": 185626,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185513,
+        "num": 185513,
+        "word": "莫迪对印巴空战公开讲话但只字不提美国",
+        "onboard_time": 1747114941,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182881,
+        "num": 182881,
+        "word": "A股高开超4700股飘红",
+        "onboard_time": 1747119862,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155008,
+        "num": 155008,
+        "word": "蒋敦豪和女友先后走出机场",
+        "onboard_time": 1747116862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151904,
+        "num": 151904,
+        "word": "马吟吟 庐州月",
+        "onboard_time": 1747111462,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149389,
+        "num": 149389,
+        "word": "孔雪儿战国袍",
+        "onboard_time": 1747117761,
+        "rank": 35,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 134170,
+        "num": 134170,
+        "word": "余男古装扮相",
+        "onboard_time": 1747121542,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124675,
+        "num": 124675,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9880,
+        "num": 123519,
+        "word": "原来甲骨文里也隐藏了母亲的爱",
+        "onboard_time": 1747121361,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 28099,
+        "num": 123082,
+        "word": "中国科学家30年追上世界第一",
+        "onboard_time": 1747119681,
+        "rank": 39,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 80283,
+        "num": 123003,
+        "word": "刘宇宁如何演绎魏邵的枭雄气质",
+        "onboard_time": 1747120582,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122972,
+        "num": 122972,
+        "word": "于正说陈腾跃是下一个周星驰",
+        "onboard_time": 1747120942,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118891,
+        "num": 118891,
+        "word": "关税下降美国商人的真实反应",
+        "onboard_time": 1747111643,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 117133,
+        "word": "孙颖莎多哈街头戴头巾",
+        "onboard_time": 1747112482,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110513,
+        "num": 110513,
+        "word": "张极和张杰合照",
+        "onboard_time": 1747118362,
+        "rank": 44,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 109717,
+        "num": 109717,
+        "word": "杜海涛没认出减肥后的方家翊",
+        "onboard_time": 1747112605,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108743,
+        "num": 108743,
+        "word": "国家级公开课",
+        "onboard_time": 1747121842,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105883,
+        "num": 105883,
+        "word": "邓超女儿拉丁舞英国夺冠",
+        "onboard_time": 1747118182,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105293,
+        "num": 105293,
+        "word": "奥克兰市长喊话新西兰给中国免签",
+        "onboard_time": 1747117761,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104716,
+        "num": 104716,
+        "word": "夜旅人",
+        "onboard_time": 1747115361,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
