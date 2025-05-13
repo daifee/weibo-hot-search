@@ -1,6 +1,6 @@
 {
   "startTime": 1747067589335,
-  "endTime": 1747144186683,
+  "endTime": 1747146415523,
   "band_list": [
     {
       "raw_hot": 4167577,
@@ -59,8 +59,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1685781,
+      "num": 678021,
+      "word": "贾玲近照又瘦了",
+      "onboard_time": 1747143622,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1547300,
-      "num": 699270,
+      "num": 763030,
       "word": "特朗普突然提统一吓坏台当局",
       "onboard_time": 1747134621,
       "rank": 17,
@@ -105,6 +113,14 @@
       "onboard_time": 1747119803,
       "rank": 19,
       "category": "海外新闻,军事"
+    },
+    {
+      "raw_hot": 1275089,
+      "num": 1275089,
+      "word": "月经是女性健康的试金石",
+      "onboard_time": 1747142001,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1225450,
@@ -187,14 +203,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 953849,
-      "num": 953849,
-      "word": "月经是女性健康的试金石",
-      "onboard_time": 1747142001,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 942477,
       "num": 942477,
       "word": "小龙虾价格暴降近50%",
@@ -208,6 +216,14 @@
       "word": "对刘宇宁189有了实感",
       "onboard_time": 1747130601,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 909525,
+      "num": 909525,
+      "word": "内娱谁敢接李现这样的造型",
+      "onboard_time": 1747144042,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -243,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 872707,
+      "num": 813043,
+      "word": "徐艺洋没吃过爱情的苦",
+      "onboard_time": 1747140801,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849784,
       "num": 575515,
       "word": "前妻和现任见面眼里全是欣赏",
       "onboard_time": 1747107561,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 813043,
-      "num": 813043,
-      "word": "徐艺洋没吃过爱情的苦",
-      "onboard_time": 1747140801,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 794290,
@@ -329,6 +345,14 @@
       "onboard_time": 1747127781,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661611,
+      "num": 661611,
+      "word": "折腰一出 拉郎遍地",
+      "onboard_time": 1747143863,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 655415,
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 450683,
-      "num": 603543,
+      "num": 776331,
       "word": "北京冰雹好大",
       "onboard_time": 1747141822,
       "rank": 16,
@@ -609,6 +633,14 @@
       "onboard_time": 1747106480,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436055,
+      "num": 436055,
+      "word": "鬼鬼为女购学区房",
+      "onboard_time": 1747144881,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 433762,
@@ -787,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350118,
-      "num": 350118,
-      "word": "贾玲近照又瘦了",
-      "onboard_time": 1747143622,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 344889,
       "num": 344889,
       "word": "72元富士拍立得相纸转卖要150元",
@@ -841,14 +865,6 @@
       "onboard_time": 1747059563,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327010,
-      "num": 327010,
-      "word": "内娱谁敢接李现这样的造型",
-      "onboard_time": 1747144042,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 325102,
@@ -1072,14 +1088,6 @@
       "word": "人生若如初见今日开播",
       "onboard_time": 1747105522,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 245336,
-      "num": 245336,
-      "word": "折腰一出 拉郎遍地",
-      "onboard_time": 1747143863,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1427,12 +1435,28 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 204296,
+      "num": 204296,
+      "word": "墨西哥市长候选人直播遭枪杀",
+      "onboard_time": 1747145723,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204267,
       "num": 204267,
       "word": "一米六八小伙跟两米二女孩谈恋爱",
       "onboard_time": 1747092200,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202950,
+      "num": 694759,
+      "word": "调整对原产美国的进口商品加征关税",
+      "onboard_time": 1747145784,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202625,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1747132221,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200532,
+      "num": 200531,
+      "word": "iG战胜JDG",
+      "onboard_time": 1747145664,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 199649,
@@ -1667,6 +1699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184945,
+      "num": 184945,
+      "word": "邱贻可回应世界杯孙颖莎蒯曼争冠",
+      "onboard_time": 1747144042,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183593,
       "num": 183593,
       "word": "乘风投票",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1747111403,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "李艺彤投票",
+      "onboard_time": 1747144342,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178630,
@@ -2075,12 +2123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155539,
-      "num": 155539,
-      "word": "邱贻可回应世界杯孙颖莎蒯曼争冠",
-      "onboard_time": 1747144042,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 155149,
+      "num": 155149,
+      "word": "张小斐入夏失败",
+      "onboard_time": 1747144702,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 155081,
@@ -2179,6 +2227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146510,
+      "num": 146510,
+      "word": "宝诗龙 肖战",
+      "onboard_time": 1747144584,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146269,
       "num": 146269,
       "word": "韩泰山 抓夹",
@@ -2225,6 +2281,22 @@
       "onboard_time": 1747100182,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141588,
+      "num": 986527,
+      "word": "外国航司狂接中国游流量",
+      "onboard_time": 1747144042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141577,
+      "num": 153942,
+      "word": "邱贻可回应与马龙两代人",
+      "onboard_time": 1747146144,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141501,
@@ -2281,6 +2353,14 @@
       "onboard_time": 1747104861,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138629,
+      "num": 224867,
+      "word": "北京雷声比雨声大",
+      "onboard_time": 1747143921,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138606,
@@ -2563,6 +2643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124088,
+      "num": 124088,
+      "word": "梁田认证恋综最帅男嘉宾胡嗲嗲",
+      "onboard_time": 1747146321,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123366,
       "num": 123366,
       "word": "折腰季肖冰战损",
@@ -2651,6 +2739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118905,
+      "num": 454928,
+      "word": "饮品店取名警茶贴警察卡通引争议",
+      "onboard_time": 1747145003,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118652,
+      "num": 118652,
+      "word": "周扬青美男鱼派对",
+      "onboard_time": 1747146022,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 118331,
       "num": 118330,
       "word": "中国股市处在质变前夜",
@@ -2673,6 +2777,14 @@
       "onboard_time": 1747142781,
       "rank": 43,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 116576,
+      "num": 436415,
+      "word": "全新智己L6价格",
+      "onboard_time": 1747145063,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 115774,
@@ -2801,6 +2913,14 @@
       "onboard_time": 1747092380,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106150,
+      "num": 200545,
+      "word": "30万买二手保时捷造假车祸骗保100万",
+      "onboard_time": 1747145124,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105616,
@@ -3003,14 +3123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88637,
-      "num": 224867,
-      "word": "北京雷声比雨声大",
-      "onboard_time": 1747143921,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88611,
       "num": 157048,
       "word": "央视曝光AI造假引流新套路",
@@ -3052,7 +3164,7 @@
     },
     {
       "raw_hot": 85532,
-      "num": 181715,
+      "num": 200532,
       "word": "大连理工十佳歌手决赛之夜",
       "onboard_time": 1747144164,
       "rank": 35,
@@ -3507,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42822,
+      "num": 399585,
+      "word": "北京白天超30度晚间为何有冰雹",
+      "onboard_time": 1747144942,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42775,
       "num": 401471,
       "word": "鸿蒙电脑到底有什么不一样",
@@ -3521,6 +3641,14 @@
       "onboard_time": 1747114221,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42234,
+      "num": 395607,
+      "word": "上官正义曝光代孕团伙反侦查手段",
+      "onboard_time": 1747145425,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41176,
@@ -3641,6 +3769,14 @@
       "onboard_time": 1747070896,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34613,
+      "num": 200533,
+      "word": "北京冰雹摆出汤圆的效果",
+      "onboard_time": 1747144762,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33877,
@@ -4075,14 +4211,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 8295,
-      "num": 986527,
-      "word": "外国航司狂接中国游流量",
-      "onboard_time": 1747144042,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7079,
       "num": 215691,
       "word": "哪种西北杂粮有降血脂的成分",
@@ -4103,6 +4231,9 @@
     },
     {
       "word": "#中拉命运共同体新篇章#"
+    },
+    {
+      "word": "#习近平同巴西总统卢拉会谈#"
     }
   ]
 }

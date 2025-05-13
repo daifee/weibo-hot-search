@@ -1,0 +1,410 @@
+{
+  "runTime": 1747146415523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275089,
+        "num": 1275089,
+        "word": "月经是女性健康的试金石",
+        "onboard_time": 1747142001,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 909525,
+        "num": 909525,
+        "word": "内娱谁敢接李现这样的造型",
+        "onboard_time": 1747144042,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 835675,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786096,
+        "num": 786096,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419991,
+        "num": 776331,
+        "word": "北京冰雹好大",
+        "onboard_time": 1747141822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1072212,
+        "num": 763030,
+        "word": "特朗普突然提统一吓坏台当局",
+        "onboard_time": 1747134621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1350091,
+        "num": 732909,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1033143,
+        "num": 723829,
+        "word": "赵樱子戛纳礼服脏了发文求助",
+        "onboard_time": 1747136601,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 872707,
+        "num": 702377,
+        "word": "徐艺洋没吃过爱情的苦",
+        "onboard_time": 1747140801,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 694759,
+        "word": "调整对原产美国的进口商品加征关税",
+        "onboard_time": 1747145784,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1685781,
+        "num": 678021,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661611,
+        "num": 661611,
+        "word": "折腰一出 拉郎遍地",
+        "onboard_time": 1747143863,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470099,
+        "num": 470099,
+        "word": "将门毒后",
+        "onboard_time": 1747138822,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455026,
+        "num": 455026,
+        "word": "甄嬛传14年后郑晓龙再导古装剧",
+        "onboard_time": 1747133361,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118905,
+        "num": 454928,
+        "word": "饮品店取名警茶贴警察卡通引争议",
+        "onboard_time": 1747145003,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454876,
+        "num": 454876,
+        "word": "李现关注了刘亦菲",
+        "onboard_time": 1747141942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116576,
+        "num": 436415,
+        "word": "全新智己L6价格",
+        "onboard_time": 1747145063,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 436055,
+        "num": 436055,
+        "word": "鬼鬼为女购学区房",
+        "onboard_time": 1747144881,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42822,
+        "num": 399585,
+        "word": "北京白天超30度晚间为何有冰雹",
+        "onboard_time": 1747144942,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42234,
+        "num": 395607,
+        "word": "上官正义曝光代孕团伙反侦查手段",
+        "onboard_time": 1747145425,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391687,
+        "num": 391687,
+        "word": "折腰妆造",
+        "onboard_time": 1747128262,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375178,
+        "num": 375178,
+        "word": "中国巴西发表联合声明",
+        "onboard_time": 1747139362,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335325,
+        "num": 335325,
+        "word": "巴基斯坦举国感谢中国",
+        "onboard_time": 1747119803,
+        "rank": 22,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 288953,
+        "num": 288953,
+        "word": "半熟恋人4",
+        "onboard_time": 1747135581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231453,
+        "num": 231453,
+        "word": "张艺兴金钟仁cha",
+        "onboard_time": 1747135460,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213247,
+        "num": 213247,
+        "word": "医生辟谣生理期不能吃冰不能吃辣",
+        "onboard_time": 1747122502,
+        "rank": 25,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 212329,
+        "num": 212329,
+        "word": "藏海传预告片上线",
+        "onboard_time": 1747130720,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204296,
+        "num": 204296,
+        "word": "墨西哥市长候选人直播遭枪杀",
+        "onboard_time": 1747145723,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106150,
+        "num": 200545,
+        "word": "30万买二手保时捷造假车祸骗保100万",
+        "onboard_time": 1747145124,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 200533,
+        "word": "北京冰雹摆出汤圆的效果",
+        "onboard_time": 1747144762,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83837,
+        "num": 200532,
+        "word": "大连理工十佳歌手决赛之夜",
+        "onboard_time": 1747144164,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200532,
+        "num": 200531,
+        "word": "iG战胜JDG",
+        "onboard_time": 1747145664,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192758,
+        "num": 192758,
+        "word": "刘诗诗给主持人挡腿",
+        "onboard_time": 1747131501,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185610,
+        "num": 185610,
+        "word": "小米SU7被货车碾压还能开车门放音乐",
+        "onboard_time": 1747136842,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114255,
+        "num": 184980,
+        "word": "魏建军称网友的声音都听到了",
+        "onboard_time": 1747139960,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184945,
+        "num": 184945,
+        "word": "邱贻可回应世界杯孙颖莎蒯曼争冠",
+        "onboard_time": 1747144042,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179418,
+        "num": 179418,
+        "word": "李艺彤投票",
+        "onboard_time": 1747144342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167280,
+        "num": 167280,
+        "word": "对刘宇宁189有了实感",
+        "onboard_time": 1747130601,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156911,
+        "num": 156911,
+        "word": "沪上阿姨鞠婧祎",
+        "onboard_time": 1747138640,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155149,
+        "num": 155149,
+        "word": "张小斐入夏失败",
+        "onboard_time": 1747144702,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141577,
+        "num": 153942,
+        "word": "邱贻可回应与马龙两代人",
+        "onboard_time": 1747146144,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153023,
+        "num": 153023,
+        "word": "深圳中院回应退休夫妻负债1.2亿",
+        "onboard_time": 1747139481,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150831,
+        "num": 150831,
+        "word": "JDG对战iG",
+        "onboard_time": 1747140681,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 146510,
+        "word": "宝诗龙 肖战",
+        "onboard_time": 1747144584,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138629,
+        "num": 138629,
+        "word": "北京雷声比雨声大",
+        "onboard_time": 1747143921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138094,
+        "num": 138094,
+        "word": "戛纳",
+        "onboard_time": 1747141100,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 131921,
+        "word": "凑60多万为农村父母建别墅3姐妹发声",
+        "onboard_time": 1747137622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124088,
+        "num": 124088,
+        "word": "梁田认证恋综最帅男嘉宾胡嗲嗲",
+        "onboard_time": 1747146321,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118652,
+        "num": 118652,
+        "word": "周扬青美男鱼派对",
+        "onboard_time": 1747146022,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117282,
+        "num": 117282,
+        "word": "律师称网红是小念噢或被刑事追责",
+        "onboard_time": 1747126882,
+        "rank": 49,
+        "category": "民生新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉会谈#"
+    }
+  }
+}
