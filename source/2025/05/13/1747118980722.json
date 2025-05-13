@@ -1,0 +1,410 @@
+{
+  "runTime": 1747118980722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565317,
+        "num": 1565317,
+        "word": "一天官宣三部大剧",
+        "onboard_time": 1747106902,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1156887,
+        "num": 1156887,
+        "word": "缅甸7.9级地震地表位移画面首曝光",
+        "onboard_time": 1747116682,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31510,
+        "num": 901460,
+        "word": "中国坚定不移扩大高水平对外开放",
+        "onboard_time": 1747103182,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 868386,
+        "num": 868386,
+        "word": "折腰今日开播",
+        "onboard_time": 1747101920,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641105,
+        "num": 641105,
+        "word": "13岁女孩称以为是妈妈让女教官打自己",
+        "onboard_time": 1747110805,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387504,
+        "num": 579565,
+        "word": "女子被困自家别墅电梯1天1夜",
+        "onboard_time": 1747111044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578800,
+        "num": 578800,
+        "word": "折腰打破2025腾讯记录",
+        "onboard_time": 1747118902,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477639,
+        "num": 477639,
+        "word": "南烟斋笔录",
+        "onboard_time": 1747108823,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356601,
+        "num": 356601,
+        "word": "莫迪对印巴空战公开讲话但只字不提美国",
+        "onboard_time": 1747114941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112503,
+        "num": 346171,
+        "word": "奥克兰市长喊话新西兰给中国免签",
+        "onboard_time": 1747117761,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1942749,
+        "num": 335429,
+        "word": "代孕一旦合法穷人更将苦不堪言",
+        "onboard_time": 1747115662,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476750,
+        "num": 322614,
+        "word": "折腰热度",
+        "onboard_time": 1747114581,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386610,
+        "num": 313103,
+        "word": "马頔接机李纯",
+        "onboard_time": 1747115121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307470,
+        "num": 307470,
+        "word": "71岁的成龙",
+        "onboard_time": 1747117221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102566,
+        "num": 302607,
+        "word": "卫健委回应救护车在西藏拉警报旅游",
+        "onboard_time": 1747117881,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166692,
+        "num": 301340,
+        "word": "张艺兴京东",
+        "onboard_time": 1747116862,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 301157,
+        "num": 301157,
+        "word": "马吟吟 庐州月",
+        "onboard_time": 1747111462,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39796,
+        "num": 267991,
+        "word": "高校辅导员更像是24小时服务员",
+        "onboard_time": 1747117822,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 18593,
+        "num": 255946,
+        "word": "凯尔特人1比3落后该如何翻盘",
+        "onboard_time": 1747117881,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66297,
+        "num": 255807,
+        "word": "长沙别墅代孕窝点查处最新进展",
+        "onboard_time": 1747117941,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255688,
+        "num": 255688,
+        "word": "关税下降美国商人的真实反应",
+        "onboard_time": 1747111643,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250779,
+        "num": 250779,
+        "word": "杜海涛没认出减肥后的方家翊",
+        "onboard_time": 1747112605,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237843,
+        "num": 237843,
+        "word": "曝司机骚扰未成年女乘客问是不是处女",
+        "onboard_time": 1747115602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231151,
+        "num": 231151,
+        "word": "迪士尼发了肖战剧照",
+        "onboard_time": 1747118661,
+        "rank": 23,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 52337,
+        "num": 224067,
+        "word": "勇三崩碰上狼三疯",
+        "onboard_time": 1747116682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223463,
+        "num": 223463,
+        "word": "黄奕很奇怪很多小花不愿意演坏人",
+        "onboard_time": 1747118004,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17625,
+        "num": 219189,
+        "word": "免费猫咪领养暗藏哪些诈骗套路",
+        "onboard_time": 1747118842,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175275,
+        "num": 218331,
+        "word": "张艺兴成为京东潮流代言人",
+        "onboard_time": 1747114520,
+        "rank": 27,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 218259,
+        "num": 218259,
+        "word": "孔雪儿战国袍",
+        "onboard_time": 1747117761,
+        "rank": 28,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 43507,
+        "num": 214034,
+        "word": "陕西首富范代娣名下2公司被吊销",
+        "onboard_time": 1747118362,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212135,
+        "num": 212135,
+        "word": "前妻和现任见面眼里全是欣赏",
+        "onboard_time": 1747107561,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199313,
+        "num": 199313,
+        "word": "张极和张杰合照",
+        "onboard_time": 1747118362,
+        "rank": 31,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 193032,
+        "num": 193032,
+        "word": "鹭卓撕拉片",
+        "onboard_time": 1747118482,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185527,
+        "num": 185527,
+        "word": "蒋敦豪和女友先后走出机场",
+        "onboard_time": 1747116862,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441441,
+        "num": 185218,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177800,
+        "num": 177800,
+        "word": "一救护车疑在墨脱旅游拉警报开道",
+        "onboard_time": 1747109062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173386,
+        "num": 173386,
+        "word": "夜旅人",
+        "onboard_time": 1747115361,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172524,
+        "num": 172524,
+        "word": "王源宣传魏大勋新剧",
+        "onboard_time": 1747118541,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170135,
+        "num": 170135,
+        "word": "河海大学女博士实名举报导师性骚扰",
+        "onboard_time": 1747103182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50510,
+        "num": 167932,
+        "word": "中国人在国外开辟了新赛道",
+        "onboard_time": 1747118902,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 167565,
+        "num": 167565,
+        "word": "沈月撕拉片",
+        "onboard_time": 1747113022,
+        "rank": 40,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 166815,
+        "num": 166815,
+        "word": "乘风2025成团夜分组",
+        "onboard_time": 1747111103,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161815,
+        "num": 161815,
+        "word": "邓超女儿拉丁舞英国夺冠",
+        "onboard_time": 1747118182,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153799,
+        "num": 153799,
+        "word": "张婧仪野狗骨头开机图",
+        "onboard_time": 1747118362,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138159,
+        "num": 138159,
+        "word": "孙恩盛因压力大长白头发",
+        "onboard_time": 1747117642,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184166,
+        "num": 137178,
+        "word": "被年轻人精致穷的消费观震惊了",
+        "onboard_time": 1747108401,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 54949,
+        "num": 135728,
+        "word": "中国最红的城市",
+        "onboard_time": 1747116441,
+        "rank": 46,
+        "category": "民生新闻,其它"
+      },
+      {
+        "raw_hot": 67241,
+        "num": 134912,
+        "word": "中方提供的全是确定性",
+        "onboard_time": 1747116502,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134897,
+        "num": 134897,
+        "word": "孙颖莎多哈街头戴头巾",
+        "onboard_time": 1747112482,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133998,
+        "num": 133998,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 49,
+        "category": "国内时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国为维护全球战略稳定干了实事#"
+    }
+  }
+}
