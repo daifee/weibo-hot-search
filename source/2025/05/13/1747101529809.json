@@ -1,0 +1,410 @@
+{
+  "runTime": 1747101529809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948731,
+        "num": 1151797,
+        "word": "黄晓明的打字速度",
+        "onboard_time": 1747098441,
+        "rank": 0,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 725101,
+        "num": 725101,
+        "word": "小伙为救同学职教高考语文缺考",
+        "onboard_time": 1747094060,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104450,
+        "num": 590847,
+        "word": "官方通报65款应用违法收集个人信息",
+        "onboard_time": 1747100182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1116307,
+        "num": 553393,
+        "word": "月薪3K带月薪5w体验低消费的一天",
+        "onboard_time": 1747098260,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484749,
+        "num": 484749,
+        "word": "抗战胜利80周年纪念活动",
+        "onboard_time": 1747096461,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 468030,
+        "num": 468030,
+        "word": "中美相互24%关税90天内暂停实施",
+        "onboard_time": 1747034002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457609,
+        "num": 457609,
+        "word": "丁真我真没空陪你闹了",
+        "onboard_time": 1747064482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430816,
+        "num": 430816,
+        "word": "国补版iPhone16Pro被抢空",
+        "onboard_time": 1747096762,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351375,
+        "num": 351375,
+        "word": "一觉醒来中国航天又发射成功了",
+        "onboard_time": 1747095802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239483,
+        "num": 325408,
+        "word": "杜特尔特在狱中赢得市长选举",
+        "onboard_time": 1747100361,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 976081,
+        "num": 325319,
+        "word": "折腰",
+        "onboard_time": 1747099401,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392080,
+        "num": 325248,
+        "word": "藏海传对打折腰",
+        "onboard_time": 1747098621,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325102,
+        "num": 325102,
+        "word": "男友曾为陪韦雪放弃读研",
+        "onboard_time": 1747091779,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291900,
+        "num": 291900,
+        "word": "中美日内瓦经贸会谈联合声明",
+        "onboard_time": 1747033642,
+        "rank": 13,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 277385,
+        "num": 277385,
+        "word": "金龟子女儿1分钟视频报价15万",
+        "onboard_time": 1747058063,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276595,
+        "num": 276595,
+        "word": "周洁琼资源",
+        "onboard_time": 1747100841,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262009,
+        "num": 262009,
+        "word": "雪碧悄悄换了配方",
+        "onboard_time": 1747058242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241940,
+        "num": 241940,
+        "word": "她的遗物不多王权弘业是其中一个",
+        "onboard_time": 1747090939,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208462,
+        "num": 208462,
+        "word": "狂野时代",
+        "onboard_time": 1747100781,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186198,
+        "num": 208175,
+        "word": "折腰官号动了",
+        "onboard_time": 1747094842,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607388,
+        "num": 206375,
+        "word": "取消置顶删除聊天框宣告某人死亡了",
+        "onboard_time": 1747047321,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560883,
+        "num": 205677,
+        "word": "金价又崩了",
+        "onboard_time": 1747061484,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232991,
+        "num": 205064,
+        "word": "脊柱侧弯千万不能做的动作",
+        "onboard_time": 1747093461,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204267,
+        "num": 204267,
+        "word": "一米六八小伙跟两米二女孩谈恋爱",
+        "onboard_time": 1747092200,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194651,
+        "num": 194651,
+        "word": "华为5月新品发布会官宣",
+        "onboard_time": 1747100421,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190844,
+        "num": 190844,
+        "word": "04年男子拒服兵役被罚3.8万",
+        "onboard_time": 1747069517,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189638,
+        "num": 189638,
+        "word": "男孩患巨痣手术后成功取掉扩张器",
+        "onboard_time": 1747065500,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187607,
+        "num": 187607,
+        "word": "原神5.6",
+        "onboard_time": 1747099882,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181275,
+        "num": 181275,
+        "word": "网友说黄多多补全了05四花",
+        "onboard_time": 1747066881,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21396,
+        "num": 181241,
+        "word": "台教授称中国强大是奋斗得来的",
+        "onboard_time": 1747100841,
+        "rank": 29,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 181238,
+        "num": 181238,
+        "word": "商务部回应中美经贸会谈联合声明",
+        "onboard_time": 1747033822,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166614,
+        "num": 166614,
+        "word": "小米回应徕卡水印消失原因",
+        "onboard_time": 1747100421,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163275,
+        "num": 163275,
+        "word": "存款利率已全面迈向1时代",
+        "onboard_time": 1747098083,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129469,
+        "num": 160771,
+        "word": "合诗雨 聊斋",
+        "onboard_time": 1747099700,
+        "rank": 33,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 159738,
+        "num": 159738,
+        "word": "男子家中滑倒双腿卡护栏数天",
+        "onboard_time": 1747097481,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158000,
+        "num": 158000,
+        "word": "特朗普称美国阻止了印巴核战",
+        "onboard_time": 1747099222,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157169,
+        "num": 157169,
+        "word": "日本16岁男孩谋杀祖父母后淡定上学",
+        "onboard_time": 1747101200,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155700,
+        "num": 155700,
+        "word": "孙颖莎马龙樊振东闪耀冠军奖杯",
+        "onboard_time": 1747098980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "小花简直就是女版邓超附体",
+        "onboard_time": 1747085234,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131290,
+        "num": 144417,
+        "word": "肖战藏海传致命身份暗藏杀机",
+        "onboard_time": 1747086014,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144284,
+        "num": 144284,
+        "word": "印巴发布会面部表情对比",
+        "onboard_time": 1747096942,
+        "rank": 40,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 137929,
+        "word": "独行侠 弗拉格",
+        "onboard_time": 1747098801,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133252,
+        "num": 133252,
+        "word": "金饰克价跌到991元",
+        "onboard_time": 1747100121,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131336,
+        "num": 131336,
+        "word": "上官正义",
+        "onboard_time": 1747101381,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129318,
+        "num": 129318,
+        "word": "2025年国际乒联第20周排名",
+        "onboard_time": 1747100599,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128860,
+        "num": 128860,
+        "word": "不得任意修改纪念活动标识",
+        "onboard_time": 1747096762,
+        "rank": 45,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 128536,
+        "num": 128536,
+        "word": "金价",
+        "onboard_time": 1747099820,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124912,
+        "num": 124912,
+        "word": "日本股市集体大涨",
+        "onboard_time": 1747101440,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124102,
+        "num": 124102,
+        "word": "印度民众打砸一家叫卡拉奇的面包店",
+        "onboard_time": 1747055542,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110593,
+        "num": 123231,
+        "word": "迪丽热巴十五秒出片的含金量",
+        "onboard_time": 1747062204,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航战略协作共促世界和平#"
+    }
+  }
+}
