@@ -1,0 +1,410 @@
+{
+  "runTime": 1747208354302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182251,
+        "num": 1189160,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649285,
+        "num": 649285,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14630,
+        "num": 499635,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798199,
+        "num": 482367,
+        "word": "甘薇贾跃亭离婚",
+        "onboard_time": 1747200984,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363539,
+        "num": 363539,
+        "word": "为救同学缺考男生获评见义勇为",
+        "onboard_time": 1747203504,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 361925,
+        "num": 361925,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 423220,
+        "num": 356791,
+        "word": "歌手2025阵容还是太全面了",
+        "onboard_time": 1747205183,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292089,
+        "num": 292089,
+        "word": "金曲奖提名",
+        "onboard_time": 1747203144,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245925,
+        "num": 245925,
+        "word": "印媒证实S400操作手殉职",
+        "onboard_time": 1747200144,
+        "rank": 8,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 199854,
+        "num": 199854,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5875564,
+        "num": 5875564,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1260742,
+        "num": 196727,
+        "word": "强奸杀害88岁妇女罪犯已被枪决",
+        "onboard_time": 1747204222,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567357,
+        "num": 193892,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338783,
+        "num": 191056,
+        "word": "今年的女夏装真的一言难尽",
+        "onboard_time": 1747204883,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286061,
+        "num": 190760,
+        "word": "韦雪让男友去照顾前夫",
+        "onboard_time": 1747204823,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 280620,
+        "num": 186559,
+        "word": "日本神田偶遇鹿晗",
+        "onboard_time": 1747204764,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217723,
+        "num": 185413,
+        "word": "三只羊七老板复播",
+        "onboard_time": 1747206742,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206074,
+        "num": 183389,
+        "word": "原来折腰里的刘琰是伯邑考",
+        "onboard_time": 1747207401,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201230,
+        "num": 180710,
+        "word": "李现白客演了个假清澈和真窝囊",
+        "onboard_time": 1747207343,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179804,
+        "num": 179804,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243115,
+        "num": 179796,
+        "word": "女子每天步行10公里20天瘦12斤",
+        "onboard_time": 1747202604,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140495,
+        "num": 178855,
+        "word": "网传全深圳都在绿化带捡龟背竹",
+        "onboard_time": 1747205662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23888,
+        "num": 178784,
+        "word": "苹果全新辅助功能适配性有哪些考量",
+        "onboard_time": 1747207943,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127394,
+        "num": 177821,
+        "word": "王楚钦轻松完成一字马",
+        "onboard_time": 1747205662,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205408,
+        "num": 177605,
+        "word": "北京桥下躲冰雹被堵司机发声",
+        "onboard_time": 1747206624,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192150,
+        "num": 176954,
+        "word": "刘宇宁折腰片尾曲烽月音频上线",
+        "onboard_time": 1747207464,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176819,
+        "num": 176819,
+        "word": "上官正义称有人要给他注射病毒",
+        "onboard_time": 1747206444,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176245,
+        "num": 176245,
+        "word": "怪不得老一辈都喜欢生小孩",
+        "onboard_time": 1747195102,
+        "rank": 27,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 171396,
+        "num": 171396,
+        "word": "新说唱",
+        "onboard_time": 1747207582,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23810,
+        "num": 166632,
+        "word": "物业单方毁约车位租金猛涨六七成",
+        "onboard_time": 1747207822,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21632,
+        "num": 163979,
+        "word": "印度战机击落前录音曝光了哪些细节",
+        "onboard_time": 1747206982,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313698,
+        "num": 163972,
+        "word": "普京爆粗",
+        "onboard_time": 1747207883,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 163922,
+        "word": "何炅发文告别大侦探10",
+        "onboard_time": 1747205362,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161385,
+        "num": 161385,
+        "word": "小婉管乐双人舞台王炸级别",
+        "onboard_time": 1747207163,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158276,
+        "num": 158276,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64323,
+        "num": 155590,
+        "word": "汽车不仅是技术活更是良心活",
+        "onboard_time": 1747202725,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153417,
+        "num": 153417,
+        "word": "甘薇称离婚原因是丧偶式婚姻",
+        "onboard_time": 1747208063,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61268,
+        "num": 151329,
+        "word": "南京一高校副处长被举报学术不端",
+        "onboard_time": 1747208304,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151180,
+        "num": 151180,
+        "word": "大乔比彘",
+        "onboard_time": 1747202604,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52151,
+        "num": 150841,
+        "word": "巴基斯坦外甥来中国探亲犹如穿越",
+        "onboard_time": 1747207283,
+        "rank": 39,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 150830,
+        "num": 150830,
+        "word": "法院回应网传执行死刑布告",
+        "onboard_time": 1747208003,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150262,
+        "num": 150262,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115936,
+        "num": 150117,
+        "word": "美国采购商抓紧囤货",
+        "onboard_time": 1747206202,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99667,
+        "num": 150081,
+        "word": "双非院校毕业生的就业出路在哪里",
+        "onboard_time": 1747206323,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 150076,
+        "num": 150076,
+        "word": "宋妍霏说不用再投票了",
+        "onboard_time": 1747207103,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143849,
+        "num": 148380,
+        "word": "印度战机被击落前录音曝光",
+        "onboard_time": 1747204163,
+        "rank": 45,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 147831,
+        "num": 147831,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 46,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 147245,
+        "num": 147245,
+        "word": "杨紫看李现李现人生若如初见",
+        "onboard_time": 1747207401,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145520,
+        "num": 145520,
+        "word": "谁懂刘诗诗佝偻着腰的破碎感",
+        "onboard_time": 1747203144,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134628,
+        "num": 134628,
+        "word": "韩国93岁女校长回应保持童颜",
+        "onboard_time": 1747195703,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布中拉携手启动五大工程#"
+    }
+  }
+}
