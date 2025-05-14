@@ -1,0 +1,410 @@
+{
+  "runTime": 1747214892132,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865742,
+        "num": 1138518,
+        "word": "大学生曝宿舍男厕便池藏偷摄像头",
+        "onboard_time": 1747212504,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815131,
+        "num": 815131,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24814,
+        "num": 613148,
+        "word": "2025中国网络文明大会新闻发布会",
+        "onboard_time": 1747214361,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528702,
+        "num": 528702,
+        "word": "日本餐饮公司就拒绝接待中国人道歉",
+        "onboard_time": 1747210342,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525867,
+        "num": 525867,
+        "word": "藏海传最后不会杀的只剩剧名了吧",
+        "onboard_time": 1747210524,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411566,
+        "num": 411566,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390166,
+        "num": 390166,
+        "word": "为救同学缺考男生获评见义勇为",
+        "onboard_time": 1747203504,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 381769,
+        "num": 381769,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 341518,
+        "num": 341518,
+        "word": "官方回应小伙为救同学放弃考试",
+        "onboard_time": 1747211903,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 273925,
+        "num": 273925,
+        "word": "歌手2025阵容还是太全面了",
+        "onboard_time": 1747205183,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2931616,
+        "num": 273854,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2666488,
+        "num": 272692,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863651,
+        "num": 271740,
+        "word": "普京爆粗",
+        "onboard_time": 1747207883,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 622196,
+        "num": 271419,
+        "word": "花165万买到了北京150平米的老破大",
+        "onboard_time": 1747208424,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49577,
+        "num": 270603,
+        "word": "美平均关税仍为1934年来最高",
+        "onboard_time": 1747213463,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393298,
+        "num": 269372,
+        "word": "焉栩嘉去赵磊婚礼",
+        "onboard_time": 1747211364,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377086,
+        "num": 268707,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189771,
+        "num": 267731,
+        "word": "荣耀400让你戒掉手机壳",
+        "onboard_time": 1747210524,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199675,
+        "num": 267101,
+        "word": "东极岛国际版海报登戛纳场刊封面",
+        "onboard_time": 1747214063,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65677,
+        "num": 265879,
+        "word": "NBA 扩军 32 队该如何平衡竞争",
+        "onboard_time": 1747212143,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101661,
+        "num": 265048,
+        "word": "黑龙江一地多位基层干部冒领残疾补贴",
+        "onboard_time": 1747213163,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 300701,
+        "num": 264288,
+        "word": "丁禹兮工作室 线下",
+        "onboard_time": 1747210825,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264234,
+        "num": 264234,
+        "word": "偶遇鹿晗东京吃拉面",
+        "onboard_time": 1747213522,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224034,
+        "num": 224034,
+        "word": "cp31还没开票",
+        "onboard_time": 1747196364,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185715,
+        "num": 185715,
+        "word": "医生建议40岁以上人群定期筛查这种癌",
+        "onboard_time": 1747212263,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181134,
+        "num": 181134,
+        "word": "小乔求婚把男君哄成胚胎了",
+        "onboard_time": 1747212324,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50728,
+        "num": 176973,
+        "word": "全新智己L6续航完成率超95%",
+        "onboard_time": 1747212083,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174870,
+        "num": 174870,
+        "word": "周深偷偷流了许多眼泪",
+        "onboard_time": 1747214243,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26641,
+        "num": 174863,
+        "word": "语言是社会权力关系的载体",
+        "onboard_time": 1747214183,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 42304,
+        "num": 174727,
+        "word": "小龙虾价格腰斩还会再降",
+        "onboard_time": 1747213763,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183188,
+        "num": 174669,
+        "word": "陈楚生有多i人",
+        "onboard_time": 1747211784,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124023,
+        "num": 174617,
+        "word": "刘宇宁也逃不过真香定律",
+        "onboard_time": 1747213341,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179574,
+        "num": 174528,
+        "word": "美国枪口直指华为芯片",
+        "onboard_time": 1747210465,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174502,
+        "num": 174502,
+        "word": "走读生带17份早餐买空包子的一天",
+        "onboard_time": 1747211184,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134315,
+        "num": 166279,
+        "word": "黄圣依可以自己选剧本了",
+        "onboard_time": 1747214781,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54541,
+        "num": 165568,
+        "word": "胡兵也加入快递大军",
+        "onboard_time": 1747210524,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 165310,
+        "num": 165310,
+        "word": "女子每天步行10公里20天瘦12斤",
+        "onboard_time": 1747202604,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158590,
+        "num": 158590,
+        "word": "雷军微博设置关注100天才能评论",
+        "onboard_time": 1747213884,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89613,
+        "num": 157900,
+        "word": "在白敬亭的店被吴彦祖拉去拍照",
+        "onboard_time": 1747214183,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26201,
+        "num": 157841,
+        "word": "特朗普要求药企降价",
+        "onboard_time": 1747214482,
+        "rank": 39,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 157818,
+        "num": 157818,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138378,
+        "num": 138378,
+        "word": "韦雪让男友去照顾前夫",
+        "onboard_time": 1747204823,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "三只羊七老板复播",
+        "onboard_time": 1747206742,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125545,
+        "num": 125545,
+        "word": "早安对GAI说不管考的怎么样全家都爱你",
+        "onboard_time": 1747211364,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124480,
+        "num": 124480,
+        "word": "Grace 歌手",
+        "onboard_time": 1747210102,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120230,
+        "num": 120230,
+        "word": "网传全深圳都在绿化带捡龟背竹",
+        "onboard_time": 1747205662,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119693,
+        "num": 119693,
+        "word": "今年的女夏装真的一言难尽",
+        "onboard_time": 1747204883,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115663,
+        "num": 115663,
+        "word": "印媒证实S400操作手殉职",
+        "onboard_time": 1747200144,
+        "rank": 47,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 112707,
+        "num": 112707,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102308,
+        "num": 102308,
+        "word": "马嘉祺vocal水平",
+        "onboard_time": 1747213221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见智利总统#"
+    }
+  }
+}
