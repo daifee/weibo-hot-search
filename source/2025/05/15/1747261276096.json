@@ -1,0 +1,410 @@
+{
+  "runTime": 1747261276096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 232935,
+        "num": 377547,
+        "word": "英退伍军人集体揭英军非法杀戮",
+        "onboard_time": 1747240639,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193490,
+        "num": 193490,
+        "word": "杨天真瘦成不穿大码女装的样子了",
+        "onboard_time": 1747233024,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3974,
+        "num": 162851,
+        "word": "万千气象看荆楚",
+        "onboard_time": 1747057405,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157291,
+        "num": 157291,
+        "word": "提醒在英中国公民加强安全防范",
+        "onboard_time": 1747249094,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108343,
+        "num": 108343,
+        "word": "娃哈哈客服回应纯净水由今麦郎代工",
+        "onboard_time": 1747232363,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126123,
+        "num": 97898,
+        "word": "中国乒协辟谣刘国梁被抓",
+        "onboard_time": 1747232124,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81875,
+        "num": 81875,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1747242557,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77023,
+        "num": 77023,
+        "word": "中方回应对藏南部分地区标准化命名",
+        "onboard_time": 1747235063,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71069,
+        "num": 71069,
+        "word": "义乌商户说接下来15天肯定要大干",
+        "onboard_time": 1747252814,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64700,
+        "num": 64700,
+        "word": "李现 下次参加刘冲活动多解一颗扣子",
+        "onboard_time": 1747238242,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185898,
+        "num": 64629,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90882,
+        "num": 64553,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76006,
+        "num": 64427,
+        "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
+        "onboard_time": 1747237043,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73186,
+        "num": 64224,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64169,
+        "num": 64169,
+        "word": "杜海涛都没见过沈梦辰的这一面",
+        "onboard_time": 1747230264,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60868,
+        "num": 60868,
+        "word": "藏海传最新画面",
+        "onboard_time": 1747235903,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58378,
+        "num": 58378,
+        "word": "有被王鸥魏大勋友谊感动到",
+        "onboard_time": 1747255874,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55005,
+        "num": 55005,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48951,
+        "num": 48951,
+        "word": "王一博周深的歌入选2024优秀歌曲",
+        "onboard_time": 1747230023,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48769,
+        "num": 48769,
+        "word": "特朗普访问中东三国主要目的是什么",
+        "onboard_time": 1747236202,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130624,
+        "num": 48211,
+        "word": "女子因过度防晒睡觉翻身时骨折",
+        "onboard_time": 1747244295,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 47910,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67279,
+        "num": 46544,
+        "word": "郑钦文回应首胜萨巴伦卡",
+        "onboard_time": 1747258093,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48800,
+        "num": 46243,
+        "word": "金价",
+        "onboard_time": 1747230443,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45495,
+        "num": 45495,
+        "word": "折腰破28000",
+        "onboard_time": 1747242737,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43401,
+        "num": 43401,
+        "word": "央视端午晚会录制阵容",
+        "onboard_time": 1747239140,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42566,
+        "num": 42566,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40418,
+        "num": 40418,
+        "word": "女子回应私厨一天6家月入2万争议",
+        "onboard_time": 1747235244,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39818,
+        "num": 39818,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38139,
+        "num": 38139,
+        "word": "义乌商家清早接到30万双袜子大单",
+        "onboard_time": 1747230502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35545,
+        "num": 35545,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34497,
+        "num": 34497,
+        "word": "藏南地名标准化属中国主权",
+        "onboard_time": 1747239441,
+        "rank": 31,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 33933,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32787,
+        "num": 32787,
+        "word": "中华民族不可能再让台湾分裂出去",
+        "onboard_time": 1747242676,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32577,
+        "num": 32577,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31126,
+        "num": 31126,
+        "word": "月子中心的秘密",
+        "onboard_time": 1747233143,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29444,
+        "num": 29444,
+        "word": "考试院回应小伙因救人缺考",
+        "onboard_time": 1747246275,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26140,
+        "num": 26140,
+        "word": "邓超问什么蛋糕可以插319根蜡烛",
+        "onboard_time": 1747236263,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25892,
+        "num": 25892,
+        "word": "男子骑车遭风筝线割喉",
+        "onboard_time": 1747255215,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25730,
+        "num": 25730,
+        "word": "孔雪儿是谁叫我邪恶水蜜桃",
+        "onboard_time": 1747240639,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25525,
+        "num": 25525,
+        "word": "东极岛",
+        "onboard_time": 1747233623,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24592,
+        "num": 24592,
+        "word": "魏劭一瞬间把孩子名都想好了",
+        "onboard_time": 1747259773,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24074,
+        "num": 24074,
+        "word": "刘国梁联合国参加活动",
+        "onboard_time": 1747229842,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23763,
+        "num": 23763,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23472,
+        "num": 23472,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1747227982,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23283,
+        "num": 23283,
+        "word": "美国订单回来了",
+        "onboard_time": 1747253174,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22105,
+        "num": 23283,
+        "word": "k总发视频回应退网",
+        "onboard_time": 1747228222,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20387,
+        "num": 23274,
+        "word": "男子虐猫后挂网络平台叫卖被行拘",
+        "onboard_time": 1747234522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18871,
+        "num": 23272,
+        "word": "高芙四连胜安德列娃",
+        "onboard_time": 1747249094,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18783,
+        "num": 23266,
+        "word": "国产剧最有味道的cp也be了",
+        "onboard_time": 1747260134,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哥战略伙伴关系持续走深走实#"
+    }
+  }
+}
