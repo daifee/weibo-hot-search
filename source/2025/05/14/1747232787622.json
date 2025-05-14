@@ -1,0 +1,410 @@
+{
+  "runTime": 1747232787622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933594,
+        "num": 1149375,
+        "word": "刘国梁联合国参加活动",
+        "onboard_time": 1747229842,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780056,
+        "num": 780056,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52819,
+        "num": 693140,
+        "word": "全球清洁能源发展的中国方案",
+        "onboard_time": 1747228582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 641362,
+        "num": 641362,
+        "word": "蒲熠星撕拉片失败了",
+        "onboard_time": 1747222882,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605479,
+        "num": 605479,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 604719,
+        "num": 604719,
+        "word": "金价",
+        "onboard_time": 1747230443,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 600591,
+        "num": 600591,
+        "word": "强奸前科教师被曝出狱后办教培",
+        "onboard_time": 1747227443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570741,
+        "num": 570741,
+        "word": "中国乒协辟谣刘国梁被抓",
+        "onboard_time": 1747232124,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478656,
+        "num": 478656,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1747227982,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434374,
+        "num": 478392,
+        "word": "王一博周深的歌入选2024优秀歌曲",
+        "onboard_time": 1747230023,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1478802,
+        "num": 473965,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855680,
+        "num": 471368,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828159,
+        "num": 469203,
+        "word": "杨天真跺脚变装好瘦",
+        "onboard_time": 1747228703,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646566,
+        "num": 465606,
+        "word": "周柯宇发长文",
+        "onboard_time": 1747227862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176830,
+        "num": 462002,
+        "word": "官方回应鄂州车祸情况",
+        "onboard_time": 1747231044,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460471,
+        "num": 460471,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438931,
+        "num": 438931,
+        "word": "马龙和家人现身CBA总决赛",
+        "onboard_time": 1747227804,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430719,
+        "num": 430719,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376005,
+        "num": 376005,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258008,
+        "num": 258008,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1739857,
+        "num": 251145,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239791,
+        "num": 239791,
+        "word": "杜海涛都没见过沈梦辰的这一面",
+        "onboard_time": 1747230264,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229750,
+        "num": 229750,
+        "word": "邓科 林玉芬",
+        "onboard_time": 1747228282,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206103,
+        "num": 206103,
+        "word": "义乌商家清早接到30万双袜子大单",
+        "onboard_time": 1747230502,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193343,
+        "num": 193343,
+        "word": "向佐采访谈和郭碧婷结婚六年",
+        "onboard_time": 1747230742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192219,
+        "num": 192219,
+        "word": "乒乓世界",
+        "onboard_time": 1747231824,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189936,
+        "num": 189936,
+        "word": "沈月路透",
+        "onboard_time": 1747231582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189668,
+        "num": 189668,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184856,
+        "num": 184856,
+        "word": "袁咏仪直到45岁前都很想生女儿",
+        "onboard_time": 1747228162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177251,
+        "num": 177251,
+        "word": "突然能理解古人笔下的浮光跃金了",
+        "onboard_time": 1747232603,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175651,
+        "num": 175651,
+        "word": "刘宇宁抱狗看折腰",
+        "onboard_time": 1747229842,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175151,
+        "num": 175151,
+        "word": "陈丽君西湖长桥执扇唱越剧",
+        "onboard_time": 1747228102,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173244,
+        "num": 173244,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166098,
+        "num": 166098,
+        "word": "小乔发烧 魏劭抱她淋雨",
+        "onboard_time": 1747229062,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107357,
+        "num": 164514,
+        "word": "GAI的拉布布是布瑞吉给的",
+        "onboard_time": 1747228941,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131852,
+        "num": 163484,
+        "word": "k总发视频回应退网",
+        "onboard_time": 1747228222,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163168,
+        "num": 163168,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162454,
+        "num": 162454,
+        "word": "章若楠直播",
+        "onboard_time": 1747231463,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 145978,
+        "num": 145978,
+        "word": "娃哈哈客服回应纯净水由今麦郎代工",
+        "onboard_time": 1747232363,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140320,
+        "num": 140320,
+        "word": "金价再次转跌",
+        "onboard_time": 1747231224,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "脊柱最讨厌的4个坐姿",
+        "onboard_time": 1747224383,
+        "rank": 41,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 136312,
+        "num": 136312,
+        "word": "腾讯一季度收入1800.22亿",
+        "onboard_time": 1747229242,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129791,
+        "num": 129791,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129151,
+        "num": 129151,
+        "word": "Xiaohu的安妮",
+        "onboard_time": 1747231463,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125103,
+        "num": 125103,
+        "word": "杨超越真是小嘴抹了鹤顶红",
+        "onboard_time": 1747231523,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72488,
+        "num": 125042,
+        "word": "当地回应强奸前科教师出狱后办教培",
+        "onboard_time": 1747230803,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125029,
+        "num": 125029,
+        "word": "张云龙咻一下就滑出来了",
+        "onboard_time": 1747230443,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120272,
+        "num": 120272,
+        "word": "CP31回流",
+        "onboard_time": 1747229423,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117026,
+        "num": 117026,
+        "word": "杨旭文剧透唐诡3的心藏不住了",
+        "onboard_time": 1747230502,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哥战略伙伴关系持续走深走实#"
+    }
+  }
+}

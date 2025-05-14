@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747230438836,
+  "endTime": 1747232787622,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3496470,
-      "num": 438019,
+      "num": 471368,
       "word": "关晓彤无名指戒指",
       "onboard_time": 1747210283,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1491453,
-      "num": 452331,
+      "num": 473965,
       "word": "赵丽颖赵德胤曾被偶遇一起逛街",
       "onboard_time": 1747227502,
       "rank": 11,
@@ -187,12 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 844448,
-      "num": 844448,
+      "raw_hot": 933594,
+      "num": 1149375,
       "word": "刘国梁联合国参加活动",
       "onboard_time": 1747229842,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 828159,
+      "num": 469203,
+      "word": "杨天真跺脚变装好瘦",
+      "onboard_time": 1747228703,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 804355,
@@ -291,7 +299,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 644008,
+      "raw_hot": 646566,
       "num": 644008,
       "word": "周柯宇发长文",
       "onboard_time": 1747227862,
@@ -323,6 +331,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 604719,
+      "num": 604719,
+      "word": "金价",
+      "onboard_time": 1747230443,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 600591,
+      "num": 600591,
+      "word": "强奸前科教师被曝出狱后办教培",
+      "onboard_time": 1747227443,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598501,
       "num": 332826,
       "word": "黄子韬给徐艺洋发了一堆表情",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 594926,
-      "num": 419655,
+      "num": 460471,
       "word": "全班都用ai做作业 教授爆发了",
       "onboard_time": 1747221623,
       "rank": 41,
@@ -361,6 +385,14 @@
       "onboard_time": 1747193180,
       "rank": 33,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 570741,
+      "num": 570741,
+      "word": "中国乒协辟谣刘国梁被抓",
+      "onboard_time": 1747232124,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 568102,
@@ -427,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 504558,
-      "num": 421549,
-      "word": "杨天真跺脚变装好瘦",
-      "onboard_time": 1747228703,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 497919,
       "num": 268752,
       "word": "女子称穿瑜伽服上门做饭不是为流量",
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478656,
+      "num": 478656,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1747227982,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 476177,
       "num": 361598,
       "word": "宋浩然回应韩安冉怀三胎",
@@ -465,14 +497,6 @@
       "onboard_time": 1747186169,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 469859,
-      "num": 469859,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1747227982,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 463756,
@@ -569,6 +593,14 @@
       "onboard_time": 1747186231,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434374,
+      "num": 478392,
+      "word": "王一博周深的歌入选2024优秀歌曲",
+      "onboard_time": 1747230023,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 427114,
@@ -777,14 +809,6 @@
       "onboard_time": 1747217122,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312485,
-      "num": 463225,
-      "word": "强奸前科教师被曝出狱后办教培",
-      "onboard_time": 1747227443,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312359,
@@ -1003,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 239791,
+      "num": 239791,
+      "word": "杜海涛都没见过沈梦辰的这一面",
+      "onboard_time": 1747230264,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239333,
       "num": 199236,
       "word": "沈梦辰时隔12年气质变化",
@@ -1171,14 +1203,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 216686,
-      "num": 216686,
-      "word": "王一博周深的歌入选2024优秀歌曲",
-      "onboard_time": 1747230023,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 216069,
       "num": 830387,
       "word": "我国成功发射太空计算卫星星座",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1747193781,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206103,
+      "num": 206103,
+      "word": "义乌商家清早接到30万双袜子大单",
+      "onboard_time": 1747230502,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206074,
@@ -1443,6 +1475,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193343,
+      "num": 193343,
+      "word": "向佐采访谈和郭碧婷结婚六年",
+      "onboard_time": 1747230742,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192219,
+      "num": 192219,
+      "word": "乒乓世界",
+      "onboard_time": 1747231824,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192157,
       "num": 192157,
       "word": "肖战藏海传雪中落泪",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1747196963,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189936,
+      "num": 189936,
+      "word": "沈月路透",
+      "onboard_time": 1747231582,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 189365,
@@ -1555,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179927,
-      "num": 179927,
-      "word": "杜海涛都没见过沈梦辰的这一面",
-      "onboard_time": 1747230264,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178436,
       "num": 155335,
       "word": "单依纯新歌珠玉",
@@ -1603,12 +1651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177251,
+      "num": 177251,
+      "word": "突然能理解古人笔下的浮光跃金了",
+      "onboard_time": 1747232603,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 177091,
       "num": 177091,
       "word": "建议天天保持过年的仪式感",
       "onboard_time": 1747196244,
       "rank": 44,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 176830,
+      "num": 462002,
+      "word": "官方回应鄂州车祸情况",
+      "onboard_time": 1747231044,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176819,
@@ -1681,6 +1745,14 @@
       "onboard_time": 1747192760,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173244,
+      "num": 213102,
+      "word": "女子海底捞母婴室哺乳遭员工开门",
+      "onboard_time": 1747229662,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172113,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1747195403,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 162454,
+      "num": 162454,
+      "word": "章若楠直播",
+      "onboard_time": 1747231463,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 160163,
@@ -1932,7 +2012,7 @@
     },
     {
       "raw_hot": 154397,
-      "num": 160400,
+      "num": 163484,
       "word": "k总发视频回应退网",
       "onboard_time": 1747228222,
       "rank": 42,
@@ -2067,6 +2147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145978,
+      "num": 145978,
+      "word": "娃哈哈客服回应纯净水由今麦郎代工",
+      "onboard_time": 1747232363,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143940,
       "num": 172300,
       "word": "金价止跌回升",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1747202725,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140320,
+      "num": 140320,
+      "word": "金价再次转跌",
+      "onboard_time": 1747231224,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 139210,
@@ -2283,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129151,
+      "num": 129151,
+      "word": "Xiaohu的安妮",
+      "onboard_time": 1747231463,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128311,
       "num": 128311,
       "word": "印度女议员咆哮议会为何丧事喜办",
@@ -2339,6 +2443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125103,
+      "num": 125103,
+      "word": "杨超越真是小嘴抹了鹤顶红",
+      "onboard_time": 1747231523,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125044,
       "num": 125044,
       "word": "严浩翔新说唱录制现场见",
@@ -2352,6 +2464,14 @@
       "word": "刘浩存王安宇好会哭的两个人",
       "onboard_time": 1747217181,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125029,
+      "num": 125029,
+      "word": "张云龙咻一下就滑出来了",
+      "onboard_time": 1747230443,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2472,6 +2592,14 @@
       "word": "榜上佳婿",
       "onboard_time": 1747221921,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117026,
+      "num": 117026,
+      "word": "杨旭文剧透唐诡3的心藏不住了",
+      "onboard_time": 1747230502,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2731,14 +2859,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 94181,
-      "num": 213102,
-      "word": "女子海底捞母婴室哺乳遭员工开门",
-      "onboard_time": 1747229662,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94147,
       "num": 94147,
       "word": "最早不婚族自梳女",
@@ -2953,6 +3073,14 @@
       "onboard_time": 1747219043,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72488,
+      "num": 125042,
+      "word": "当地回应强奸前科教师出狱后办教培",
+      "onboard_time": 1747230803,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71623,
