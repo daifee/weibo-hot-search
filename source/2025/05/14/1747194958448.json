@@ -1,0 +1,410 @@
+{
+  "runTime": 1747194958448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388125,
+        "num": 1388125,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1374548,
+        "num": 1374548,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82894,
+        "num": 742805,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 589485,
+        "num": 589485,
+        "word": "韶华若锦定档",
+        "onboard_time": 1747189649,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579329,
+        "num": 579329,
+        "word": "刘晓庆的翡翠好大",
+        "onboard_time": 1747193180,
+        "rank": 4,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 491370,
+        "num": 491370,
+        "word": "翻了24家银行找不到2%的存款",
+        "onboard_time": 1747191441,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 499772,
+        "num": 484893,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 6,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 423771,
+        "num": 423771,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 409056,
+        "num": 409056,
+        "word": "一口锅救了一整栋楼",
+        "onboard_time": 1747191980,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67110,
+        "num": 407556,
+        "word": "美媒称美鸡爪痛失中国市场",
+        "onboard_time": 1747194142,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1075256,
+        "num": 407308,
+        "word": "史诗级牛马",
+        "onboard_time": 1747190601,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 975048,
+        "num": 405558,
+        "word": "韩安冉三胎是双胞胎",
+        "onboard_time": 1747179861,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 722874,
+        "num": 403536,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643805,
+        "num": 401467,
+        "word": "刘宇宁妆造",
+        "onboard_time": 1747193001,
+        "rank": 13,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 75596,
+        "num": 401206,
+        "word": "大学生兼职配音0收入被索赔违约金",
+        "onboard_time": 1747193902,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 336501,
+        "num": 399560,
+        "word": "梁庭cp官宣",
+        "onboard_time": 1747186110,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156075,
+        "num": 397479,
+        "word": "高铁卫生巾自由",
+        "onboard_time": 1747194442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330698,
+        "num": 395283,
+        "word": "赵樱子回怼",
+        "onboard_time": 1747193425,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16704,
+        "num": 395022,
+        "word": "假文凭对用人单位有什么影响",
+        "onboard_time": 1747194442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43794,
+        "num": 392967,
+        "word": "残障女孩被撞死火车站说最多赔9万",
+        "onboard_time": 1747194021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579967,
+        "num": 391963,
+        "word": "广东150平毒枭房产149万成交",
+        "onboard_time": 1747188510,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441534,
+        "num": 389474,
+        "word": "防偷窥聊天背景图",
+        "onboard_time": 1747181783,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389127,
+        "num": 389127,
+        "word": "未达成协议对华关税也不会重回145%",
+        "onboard_time": 1747187910,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363881,
+        "num": 363881,
+        "word": "姜妍说第一次被叫小姨还不太理解",
+        "onboard_time": 1747194562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352842,
+        "num": 352842,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331008,
+        "num": 331008,
+        "word": "黄金",
+        "onboard_time": 1747193961,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 325296,
+        "num": 325296,
+        "word": "黄蓉扮演者翁美玲去世40周年",
+        "onboard_time": 1747186231,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302853,
+        "num": 302853,
+        "word": "黄子韬给徐艺洋发了一堆表情",
+        "onboard_time": 1747181541,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296731,
+        "num": 296731,
+        "word": "福宝排黏液",
+        "onboard_time": 1747187790,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250148,
+        "num": 250148,
+        "word": "戛纳红毯上的中国艺人",
+        "onboard_time": 1747194262,
+        "rank": 29,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 237981,
+        "num": 237981,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230015,
+        "num": 230015,
+        "word": "夫妻俩制假币每天印多少花多少",
+        "onboard_time": 1747148424,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228519,
+        "num": 228519,
+        "word": "月薪6000如何过出两万的气势",
+        "onboard_time": 1747194021,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208876,
+        "num": 208876,
+        "word": "因为尚雯婕选了复旦",
+        "onboard_time": 1747191201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207834,
+        "num": 207834,
+        "word": "电影独一无二终极预告",
+        "onboard_time": 1747190302,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206381,
+        "num": 206381,
+        "word": "曝指原莉乃犬饲贵丈恋情",
+        "onboard_time": 1747193781,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200128,
+        "num": 200128,
+        "word": "赵丽颖身上的不低头不将就",
+        "onboard_time": 1747194082,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 199177,
+        "word": "李现不过膝短裤",
+        "onboard_time": 1747194562,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196962,
+        "num": 196962,
+        "word": "男孩把三角尺塞进嘴中被卡",
+        "onboard_time": 1747186649,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38215,
+        "num": 195372,
+        "word": "上官正义称长沙全面排查代孕",
+        "onboard_time": 1747194142,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 194032,
+        "word": "代孕",
+        "onboard_time": 1747193781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27526,
+        "num": 176356,
+        "word": "福宝此次排粘液与假孕有关吗",
+        "onboard_time": 1747193542,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 174635,
+        "num": 174635,
+        "word": "垃圾睡眠的伤害有多大",
+        "onboard_time": 1747193241,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166129,
+        "num": 166129,
+        "word": "掘金vs雷霆",
+        "onboard_time": 1747194862,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163336,
+        "num": 163336,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162169,
+        "num": 162169,
+        "word": "落马副局长微信名为兵不燕诈",
+        "onboard_time": 1747192582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158168,
+        "num": 158168,
+        "word": "医生晒出18颗一模一样胆结石",
+        "onboard_time": 1747177938,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "郑恺当初选角一致同意李昀锐",
+        "onboard_time": 1747192760,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154726,
+        "num": 154726,
+        "word": "国台办回应台当局删除汉人表述",
+        "onboard_time": 1747192341,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153110,
+        "num": 153110,
+        "word": "杜淳妻子自曝当不了演员的原因",
+        "onboard_time": 1747150221,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉会谈#"
+    }
+  }
+}

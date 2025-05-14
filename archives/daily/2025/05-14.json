@@ -1,10 +1,26 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747193397470,
+  "endTime": 1747194958448,
   "band_list": [
     {
+      "raw_hot": 1388125,
+      "num": 1388125,
+      "word": "同学的生命只有一次",
+      "onboard_time": 1747190541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1374548,
+      "num": 1374548,
+      "word": "浪还在琴没了",
+      "onboard_time": 1747193241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1334576,
-      "num": 345074,
+      "num": 405558,
       "word": "韩安冉三胎是双胞胎",
       "onboard_time": 1747179861,
       "rank": 10,
@@ -20,11 +36,19 @@
     },
     {
       "raw_hot": 1274183,
-      "num": 341917,
+      "num": 403536,
       "word": "女生晒出养了三年的酵母",
       "onboard_time": 1747187070,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1075256,
+      "num": 407308,
+      "word": "史诗级牛马",
+      "onboard_time": 1747190601,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1059282,
@@ -41,14 +65,6 @@
       "onboard_time": 1747186649,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 882176,
-      "num": 338508,
-      "word": "史诗级牛马",
-      "onboard_time": 1747190601,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 804355,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 726479,
-      "num": 334870,
+      "num": 389474,
       "word": "防偷窥聊天背景图",
       "onboard_time": 1747181783,
       "rank": 12,
@@ -107,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 651001,
-      "num": 651001,
-      "word": "同学的生命只有一次",
-      "onboard_time": 1747190541,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 643805,
+      "num": 401467,
+      "word": "刘宇宁妆造",
+      "onboard_time": 1747193001,
+      "rank": 25,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 608359,
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579329,
+      "num": 579329,
+      "word": "刘晓庆的翡翠好大",
+      "onboard_time": 1747193180,
+      "rank": 33,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 541569,
       "num": 541569,
       "word": "未达成协议对华关税也不会重回145%",
@@ -145,6 +169,14 @@
       "onboard_time": 1747180040,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499772,
+      "num": 484893,
+      "word": "多次拒绝吴彦祖",
+      "onboard_time": 1747193841,
+      "rank": 6,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 470333,
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 442617,
-      "num": 317548,
+      "num": 352842,
       "word": "陈梦爆冷后把自己关在卫生间两小时",
       "onboard_time": 1747191261,
       "rank": 20,
@@ -185,6 +217,14 @@
       "onboard_time": 1747187790,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409056,
+      "num": 409056,
+      "word": "一口锅救了一整栋楼",
+      "onboard_time": 1747191980,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 396724,
@@ -243,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363881,
+      "num": 363881,
+      "word": "姜妍说第一次被叫小姨还不太理解",
+      "onboard_time": 1747194562,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362367,
       "num": 321754,
       "word": "医生晒出18颗一模一样胆结石",
@@ -283,20 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331008,
+      "num": 331008,
+      "word": "黄金",
+      "onboard_time": 1747193961,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 330698,
+      "num": 395283,
+      "word": "赵樱子回怼",
+      "onboard_time": 1747193425,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312359,
       "num": 320163,
       "word": "因为尚雯婕选了复旦",
       "onboard_time": 1747191201,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307834,
-      "num": 307834,
-      "word": "一口锅救了一整栋楼",
-      "onboard_time": 1747191980,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 307320,
@@ -331,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274286,
-      "num": 274286,
-      "word": "刘宇宁妆造",
-      "onboard_time": 1747193001,
-      "rank": 25,
-      "category": "艺人,剧集"
-    },
-    {
       "raw_hot": 268411,
       "num": 268411,
       "word": "日本15岁男孩当街杀死8旬老妇",
@@ -355,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250148,
+      "num": 250148,
+      "word": "戛纳红毯上的中国艺人",
+      "onboard_time": 1747194262,
+      "rank": 29,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 249060,
       "num": 249060,
       "word": "盖茨称美禁令让中国在各领域全速发展",
@@ -369,6 +425,14 @@
       "onboard_time": 1747185392,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "月薪6000如何过出两万的气势",
+      "onboard_time": 1747194021,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 224375,
@@ -403,12 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 203979,
-      "num": 203979,
-      "word": "刘晓庆的翡翠好大",
-      "onboard_time": 1747193180,
-      "rank": 33,
-      "category": "综艺,艺人"
+      "raw_hot": 206381,
+      "num": 206381,
+      "word": "曝指原莉乃犬饲贵丈恋情",
+      "onboard_time": 1747193781,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202810,
@@ -427,6 +491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200128,
+      "num": 200128,
+      "word": "赵丽颖身上的不低头不将就",
+      "onboard_time": 1747194082,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199235,
       "num": 199235,
       "word": "哪吒汽车",
@@ -435,12 +507,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199177,
+      "num": 199177,
+      "word": "李现不过膝短裤",
+      "onboard_time": 1747194562,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197158,
       "num": 261442,
       "word": "迪丽热巴支持折腰",
       "onboard_time": 1747177879,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194032,
+      "num": 194032,
+      "word": "代孕",
+      "onboard_time": 1747193781,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189365,
@@ -507,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174635,
+      "num": 226912,
+      "word": "垃圾睡眠的伤害有多大",
+      "onboard_time": 1747193241,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173533,
       "num": 246998,
       "word": "郑恺当初选角一致同意李昀锐",
@@ -531,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161215,
-      "num": 161215,
-      "word": "浪还在琴没了",
-      "onboard_time": 1747193241,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 166129,
+      "num": 166129,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1747194862,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 159780,
@@ -553,6 +649,14 @@
       "onboard_time": 1747191141,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 397479,
+      "word": "高铁卫生巾自由",
+      "onboard_time": 1747194442,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155917,
@@ -595,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149476,
-      "num": 226912,
-      "word": "垃圾睡眠的伤害有多大",
-      "onboard_time": 1747193241,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147190,
       "num": 147190,
       "word": "丁真爆改十八铜人",
@@ -620,7 +716,7 @@
     },
     {
       "raw_hot": 142729,
-      "num": 667078,
+      "num": 742805,
       "word": "外国航司狂接中国游流量",
       "onboard_time": 1747144042,
       "rank": 2,
@@ -987,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75596,
+      "num": 401206,
+      "word": "大学生兼职配音0收入被索赔违约金",
+      "onboard_time": 1747193902,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 70370,
       "num": 71186,
       "word": "李艺彤投票",
@@ -1017,6 +1121,14 @@
       "onboard_time": 1747151781,
       "rank": 45,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 67110,
+      "num": 407556,
+      "word": "美媒称美鸡爪痛失中国市场",
+      "onboard_time": 1747194142,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65918,
@@ -1115,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43794,
+      "num": 392967,
+      "word": "残障女孩被撞死火车站说最多赔9万",
+      "onboard_time": 1747194021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43316,
       "num": 43316,
       "word": "韩彩英45岁状态",
@@ -1152,6 +1272,14 @@
       "word": "气象部门解答北京冰雹成因",
       "onboard_time": 1747192281,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38215,
+      "num": 195372,
+      "word": "上官正义称长沙全面排查代孕",
+      "onboard_time": 1747194142,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1219,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 27526,
+      "num": 176356,
+      "word": "福宝此次排粘液与假孕有关吗",
+      "onboard_time": 1747193542,
+      "rank": 41,
+      "category": "其它"
+    },
+    {
       "raw_hot": 26715,
       "num": 162144,
       "word": "智绘新江苏盐续创未来",
@@ -1257,6 +1393,14 @@
       "onboard_time": 1747163054,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16704,
+      "num": 395022,
+      "word": "假文凭对用人单位有什么影响",
+      "onboard_time": 1747194442,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16344,
