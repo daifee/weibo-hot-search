@@ -1,0 +1,410 @@
+{
+  "runTime": 1747205403990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495455,
+        "num": 1495455,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802317,
+        "num": 802317,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23716,
+        "num": 492279,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1309270,
+        "num": 459852,
+        "word": "甘薇贾跃亭离婚",
+        "onboard_time": 1747200984,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265432,
+        "num": 265432,
+        "word": "为救同学缺考男生获评见义勇为",
+        "onboard_time": 1747203504,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 260645,
+        "num": 260645,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626077,
+        "num": 257794,
+        "word": "金曲奖提名",
+        "onboard_time": 1747203144,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396360,
+        "num": 255350,
+        "word": "歌手2025阵容还是太全面了",
+        "onboard_time": 1747205183,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251377,
+        "num": 251377,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 204070,
+        "num": 251368,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7478042,
+        "num": 7478042,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1116726,
+        "num": 251337,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462389,
+        "num": 251307,
+        "word": "强奸杀害88岁妇女罪犯已被枪决",
+        "onboard_time": 1747204222,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337112,
+        "num": 251301,
+        "word": "歌手发布会",
+        "onboard_time": 1747199187,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296566,
+        "num": 251263,
+        "word": "印媒证实S400操作手殉职",
+        "onboard_time": 1747200144,
+        "rank": 14,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 208930,
+        "num": 251251,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290893,
+        "num": 251244,
+        "word": "怪不得老一辈都喜欢生小孩",
+        "onboard_time": 1747195102,
+        "rank": 16,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 98993,
+        "num": 251216,
+        "word": "汽车不仅是技术活更是良心活",
+        "onboard_time": 1747202725,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251206,
+        "num": 251206,
+        "word": "谁懂刘诗诗佝偻着腰的破碎感",
+        "onboard_time": 1747203144,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18042,
+        "num": 250456,
+        "word": "巨型风筝载人有哪些安全隐患",
+        "onboard_time": 1747204344,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250235,
+        "num": 250235,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 224301,
+        "num": 224301,
+        "word": "陈妍希摔倒周柯宇下意识保护",
+        "onboard_time": 1747200684,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224086,
+        "num": 224086,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206487,
+        "num": 206487,
+        "word": "女子每天步行10公里20天瘦12斤",
+        "onboard_time": 1747202604,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192157,
+        "num": 192157,
+        "word": "肖战藏海传雪中落泪",
+        "onboard_time": 1747205362,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177299,
+        "num": 177299,
+        "word": "韩国93岁女校长回应保持童颜",
+        "onboard_time": 1747195703,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172273,
+        "num": 172273,
+        "word": "日本神田偶遇鹿晗",
+        "onboard_time": 1747204764,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170790,
+        "num": 170790,
+        "word": "宋威龙熹妃回宫只用一个单手抱",
+        "onboard_time": 1747201943,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37498,
+        "num": 169489,
+        "word": "村书记卖樱桃说出问题不会逃避",
+        "onboard_time": 1747204703,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85565,
+        "num": 167675,
+        "word": "印度战机被击落前录音曝光",
+        "onboard_time": 1747204163,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 651777,
+        "num": 165020,
+        "word": "京东外卖崩了",
+        "onboard_time": 1747197262,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288170,
+        "num": 164480,
+        "word": "今年的女夏装真的一言难尽",
+        "onboard_time": 1747204883,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10203,
+        "num": 161003,
+        "word": "歌手2025赛制有哪些调整",
+        "onboard_time": 1747205243,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160419,
+        "num": 160419,
+        "word": "黄金",
+        "onboard_time": 1747193961,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182399,
+        "num": 159498,
+        "word": "韦雪让男友去照顾前夫",
+        "onboard_time": 1747204823,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155878,
+        "num": 155878,
+        "word": "大乔比彘",
+        "onboard_time": 1747202604,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149961,
+        "num": 149961,
+        "word": "宋浩然回应韩安冉怀三胎",
+        "onboard_time": 1747195942,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149494,
+        "num": 149494,
+        "word": "易烊千玺骨相还是太权威了",
+        "onboard_time": 1747200684,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56654,
+        "num": 141110,
+        "word": "医院里多了一个满分考生",
+        "onboard_time": 1747203144,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64182,
+        "num": 138493,
+        "word": "晚上几点睡才最健康",
+        "onboard_time": 1747204703,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33637,
+        "num": 138131,
+        "word": "多哈世乒赛栗色球台亮相",
+        "onboard_time": 1747204103,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137924,
+        "num": 137924,
+        "word": "刘宇宁妆造",
+        "onboard_time": 1747193001,
+        "rank": 41,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 133791,
+        "num": 133791,
+        "word": "座头鲸偷偷探班中国科考船",
+        "onboard_time": 1747204883,
+        "rank": 42,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 128657,
+        "num": 128657,
+        "word": "大侦探",
+        "onboard_time": 1747200085,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125044,
+        "num": 125044,
+        "word": "严浩翔新说唱录制现场见",
+        "onboard_time": 1747205362,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 121272,
+        "word": "老人因性格问题被拒门外睡楼道4个月",
+        "onboard_time": 1747198405,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118035,
+        "num": 118035,
+        "word": "金曲奖",
+        "onboard_time": 1747199786,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115174,
+        "num": 115174,
+        "word": "何炅发文告别大侦探10",
+        "onboard_time": 1747205362,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114493,
+        "num": 114493,
+        "word": "姜妍说第一次被叫小姨还不太理解",
+        "onboard_time": 1747194562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111462,
+        "num": 111462,
+        "word": "cp31还没开票",
+        "onboard_time": 1747196364,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布中拉携手启动五大工程#"
+    }
+  }
+}
