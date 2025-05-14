@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747187857925,
+  "endTime": 1747189234940,
   "band_list": [
     {
       "raw_hot": 1334576,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1274183,
+      "num": 332964,
+      "word": "女生晒出养了三年的酵母",
+      "onboard_time": 1747187070,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1059282,
       "num": 1169485,
       "word": "前夫受贿千万女局长心理扭曲开始敛财",
@@ -27,32 +35,40 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 965056,
+      "num": 1154408,
+      "word": "哪吒汽车被申请破产",
+      "onboard_time": 1747186649,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 804355,
-      "num": 330058,
+      "num": 332724,
       "word": "杜淳妻子自曝当不了演员的原因",
       "onboard_time": 1747150221,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 723466,
-      "num": 326749,
-      "word": "贾玲近照又瘦了",
-      "onboard_time": 1747143622,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 690701,
-      "num": 332454,
+      "raw_hot": 726479,
+      "num": 332897,
       "word": "防偷窥聊天背景图",
       "onboard_time": 1747181783,
       "rank": 12,
       "category": "幽默"
     },
     {
+      "raw_hot": 723466,
+      "num": 332748,
+      "word": "贾玲近照又瘦了",
+      "onboard_time": 1747143622,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 681045,
-      "num": 406087,
+      "num": 406133,
       "word": "京东美团饿了么等外卖平台被约谈",
       "onboard_time": 1747136661,
       "rank": 5,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 598501,
-      "num": 330338,
+      "num": 332826,
       "word": "黄子韬给徐艺洋发了一堆表情",
       "onboard_time": 1747181541,
       "rank": 13,
@@ -75,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470333,
+      "num": 470333,
+      "word": "赵樱子戛纳镂空碎钻裙造型",
+      "onboard_time": 1747186169,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 453099,
       "num": 337538,
       "word": "特朗普突然提统一吓坏台当局",
@@ -83,20 +107,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 431018,
-      "num": 431018,
-      "word": "赵樱子戛纳镂空碎钻裙造型",
-      "onboard_time": 1747186169,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 450679,
+      "num": 450679,
+      "word": "梁庭cp官宣",
+      "onboard_time": 1747186110,
+      "rank": 16,
+      "category": "综艺"
     },
     {
-      "raw_hot": 411260,
-      "num": 411260,
-      "word": "哪吒汽车被申请破产",
-      "onboard_time": 1747186649,
-      "rank": 4,
-      "category": "汽车"
+      "raw_hot": 439679,
+      "num": 393292,
+      "word": "黄蓉扮演者翁美玲去世40周年",
+      "onboard_time": 1747186231,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 396724,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378524,
+      "num": 332773,
+      "word": "福宝排黏液",
+      "onboard_time": 1747187790,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376678,
       "num": 376678,
       "word": "女子用假文凭入职被发现后起诉索赔",
@@ -147,19 +179,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365974,
-      "num": 322876,
-      "word": "女生晒出养了三年的酵母",
-      "onboard_time": 1747187070,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 362367,
       "num": 321754,
       "word": "医生晒出18颗一模一样胆结石",
       "onboard_time": 1747177938,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350351,
+      "num": 324593,
+      "word": "男孩把三角尺塞进嘴中被卡",
+      "onboard_time": 1747186649,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -187,22 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334320,
-      "num": 328102,
-      "word": "梁庭cp官宣",
-      "onboard_time": 1747186110,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 329036,
-      "num": 329036,
-      "word": "黄蓉扮演者翁美玲去世40周年",
-      "onboard_time": 1747186231,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307320,
       "num": 307320,
       "word": "李现回复刘亦菲谢谢红豆",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 290275,
-      "num": 290275,
+      "num": 298702,
       "word": "戛纳红毯",
       "onboard_time": 1747179560,
       "rank": 25,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 224375,
-      "num": 224375,
+      "num": 291289,
       "word": "折腰开播指数",
       "onboard_time": 1747187070,
       "rank": 28,
@@ -292,11 +308,19 @@
     },
     {
       "raw_hot": 207758,
-      "num": 207758,
+      "num": 308453,
       "word": "5种素菜其实是吸油大户",
       "onboard_time": 1747181421,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202810,
+      "num": 329870,
+      "word": "步行者淘汰骑士",
+      "onboard_time": 1747188090,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 202028,
@@ -305,6 +329,14 @@
       "onboard_time": 1747148424,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 199235,
+      "num": 199235,
+      "word": "哪吒汽车",
+      "onboard_time": 1747187969,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 197158,
@@ -321,6 +353,14 @@
       "onboard_time": 1747150161,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 187714,
+      "num": 280277,
+      "word": "步行者4比1骑士",
+      "onboard_time": 1747188629,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 183090,
@@ -340,11 +380,19 @@
     },
     {
       "raw_hot": 177721,
-      "num": 177721,
+      "num": 290341,
       "word": "歌手彩排",
       "onboard_time": 1747180099,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175724,
+      "num": 313314,
+      "word": "广东150平毒枭房产149万成交",
+      "onboard_time": 1747188510,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168062,
@@ -371,8 +419,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150252,
+      "num": 150252,
+      "word": "步行者晋级东决",
+      "onboard_time": 1747188330,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146192,
+      "num": 146192,
+      "word": "哪吒敖丙配音演员登上戛纳红毯",
+      "onboard_time": 1747187490,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142729,
-      "num": 443793,
+      "num": 503107,
       "word": "外国航司狂接中国游流量",
       "onboard_time": 1747144042,
       "rank": 2,
@@ -387,12 +451,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 141166,
-      "num": 141166,
-      "word": "男孩把三角尺塞进嘴中被卡",
-      "onboard_time": 1747186649,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 138573,
+      "num": 138573,
+      "word": "未达成协议对华关税也不会重回145%",
+      "onboard_time": 1747187910,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135763,
@@ -403,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135298,
-      "num": 135298,
-      "word": "哪吒敖丙配音演员登上戛纳红毯",
-      "onboard_time": 1747187490,
-      "rank": 40,
-      "category": "电影"
+      "raw_hot": 134806,
+      "num": 134806,
+      "word": "养小猫后明白了什么叫做生理性喜欢",
+      "onboard_time": 1747187969,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 133827,
@@ -425,6 +489,14 @@
       "onboard_time": 1747182811,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133117,
+      "num": 321009,
+      "word": "陈祥榕烈士母校将以祥榕命名",
+      "onboard_time": 1747187009,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132531,
@@ -529,14 +601,6 @@
       "onboard_time": 1747152320,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111162,
-      "num": 111162,
-      "word": "福宝排黏液",
-      "onboard_time": 1747187790,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110661,
@@ -649,6 +713,14 @@
       "onboard_time": 1747135460,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83229,
+      "num": 157391,
+      "word": "市场监管总局提醒冲锋衣功能性陷阱",
+      "onboard_time": 1747187849,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82969,
@@ -795,6 +867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45814,
+      "num": 172183,
+      "word": "新编童话卖J10的小女孩",
+      "onboard_time": 1747188868,
+      "rank": 37,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 43316,
       "num": 43316,
       "word": "韩彩英45岁状态",
@@ -851,6 +931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30457,
+      "num": 170197,
+      "word": "歼10首飞成功的现场影像",
+      "onboard_time": 1747187729,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 30085,
       "num": 35807,
       "word": "折腰腾讯站内热度值破23000",
@@ -873,6 +961,14 @@
       "onboard_time": 1747178960,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 26715,
+      "num": 162144,
+      "word": "智绘新江苏盐续创未来",
+      "onboard_time": 1747188090,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26681,
@@ -977,14 +1073,6 @@
       "onboard_time": 1747167614,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 8693,
-      "num": 135457,
-      "word": "歼10首飞成功的现场影像",
-      "onboard_time": 1747187729,
-      "rank": 39,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 8545,

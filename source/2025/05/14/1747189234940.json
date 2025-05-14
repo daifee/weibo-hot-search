@@ -1,0 +1,410 @@
+{
+  "runTime": 1747189234940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 965056,
+        "num": 1154408,
+        "word": "哪吒汽车被申请破产",
+        "onboard_time": 1747186649,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 700968,
+        "num": 700968,
+        "word": "前夫受贿千万女局长心理扭曲开始敛财",
+        "onboard_time": 1747182384,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111351,
+        "num": 503107,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470333,
+        "num": 470333,
+        "word": "赵樱子戛纳镂空碎钻裙造型",
+        "onboard_time": 1747186169,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 450679,
+        "num": 450679,
+        "word": "梁庭cp官宣",
+        "onboard_time": 1747186110,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406133,
+        "num": 406133,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 439679,
+        "num": 393292,
+        "word": "黄蓉扮演者翁美玲去世40周年",
+        "onboard_time": 1747186231,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359067,
+        "num": 359067,
+        "word": "单依纯歌手 珠玉",
+        "onboard_time": 1747180040,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333011,
+        "num": 333011,
+        "word": "美国和沙特签署上千亿美元军售协议",
+        "onboard_time": 1747177879,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228903,
+        "num": 332983,
+        "word": "为什么我们的衣服越来越难买了",
+        "onboard_time": 1747151181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1274183,
+        "num": 332964,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1230195,
+        "num": 332933,
+        "word": "韩安冉三胎是双胞胎",
+        "onboard_time": 1747179861,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 726479,
+        "num": 332897,
+        "word": "防偷窥聊天背景图",
+        "onboard_time": 1747181783,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 534851,
+        "num": 332864,
+        "word": "夫妻俩制假币每天印多少花多少",
+        "onboard_time": 1747148424,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465342,
+        "num": 332826,
+        "word": "黄子韬给徐艺洋发了一堆表情",
+        "onboard_time": 1747181541,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378524,
+        "num": 332773,
+        "word": "福宝排黏液",
+        "onboard_time": 1747187790,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337499,
+        "num": 332748,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332724,
+        "num": 332724,
+        "word": "杜淳妻子自曝当不了演员的原因",
+        "onboard_time": 1747150221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202810,
+        "num": 329870,
+        "word": "步行者淘汰骑士",
+        "onboard_time": 1747188090,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296095,
+        "num": 326333,
+        "word": "折腰原著",
+        "onboard_time": 1747181062,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350351,
+        "num": 324593,
+        "word": "男孩把三角尺塞进嘴中被卡",
+        "onboard_time": 1747186649,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133117,
+        "num": 321009,
+        "word": "陈祥榕烈士母校将以祥榕命名",
+        "onboard_time": 1747187009,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339664,
+        "num": 316827,
+        "word": "医生晒出18颗一模一样胆结石",
+        "onboard_time": 1747177938,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175724,
+        "num": 313314,
+        "word": "广东150平毒枭房产149万成交",
+        "onboard_time": 1747188510,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 308453,
+        "word": "5种素菜其实是吸油大户",
+        "onboard_time": 1747181421,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199058,
+        "num": 305697,
+        "word": "女子拔完智齿头痛难忍嘴里竟有根针",
+        "onboard_time": 1747148902,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187059,
+        "num": 298702,
+        "word": "戛纳红毯",
+        "onboard_time": 1747179560,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179531,
+        "num": 296299,
+        "word": "李现回复刘亦菲谢谢红豆",
+        "onboard_time": 1747182321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154554,
+        "num": 291289,
+        "word": "折腰开播指数",
+        "onboard_time": 1747187070,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147947,
+        "num": 290341,
+        "word": "歌手彩排",
+        "onboard_time": 1747180099,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192608,
+        "num": 285222,
+        "word": "特朗普突然提统一吓坏台当局",
+        "onboard_time": 1747134621,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187714,
+        "num": 280277,
+        "word": "步行者4比1骑士",
+        "onboard_time": 1747188629,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279506,
+        "num": 279506,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223260,
+        "num": 223260,
+        "word": "日本15岁男孩当街杀死8旬老妇",
+        "onboard_time": 1747184491,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199235,
+        "num": 199235,
+        "word": "哪吒汽车",
+        "onboard_time": 1747187969,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183053,
+        "num": 183053,
+        "word": "LPL 宫斗",
+        "onboard_time": 1747185392,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148129,
+        "num": 179264,
+        "word": "内娱谁敢接李现这样的造型",
+        "onboard_time": 1747144042,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45814,
+        "num": 172183,
+        "word": "新编童话卖J10的小女孩",
+        "onboard_time": 1747188868,
+        "rank": 37,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 30457,
+        "num": 170197,
+        "word": "歼10首飞成功的现场影像",
+        "onboard_time": 1747187729,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 26715,
+        "num": 162144,
+        "word": "智绘新江苏盐续创未来",
+        "onboard_time": 1747188090,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83229,
+        "num": 157391,
+        "word": "市场监管总局提醒冲锋衣功能性陷阱",
+        "onboard_time": 1747187849,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154036,
+        "num": 154036,
+        "word": "美沙讨论是否允许沙特购买F35战机",
+        "onboard_time": 1747181421,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150252,
+        "num": 150252,
+        "word": "步行者晋级东决",
+        "onboard_time": 1747188330,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148996,
+        "num": 148996,
+        "word": "NBA计划扩至32队",
+        "onboard_time": 1747185149,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146192,
+        "num": 146192,
+        "word": "哪吒敖丙配音演员登上戛纳红毯",
+        "onboard_time": 1747187490,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138573,
+        "num": 138573,
+        "word": "未达成协议对华关税也不会重回145%",
+        "onboard_time": 1747187910,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136841,
+        "num": 136841,
+        "word": "河南5名干部违规吃喝饮酒1人死亡",
+        "onboard_time": 1747150161,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 134806,
+        "word": "养小猫后明白了什么叫做生理性喜欢",
+        "onboard_time": 1747187969,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134492,
+        "num": 134492,
+        "word": "站姐发了赵磊出发婚礼路透",
+        "onboard_time": 1747183950,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131940,
+        "num": 131940,
+        "word": "北京有车桥下躲冰雹致堵车",
+        "onboard_time": 1747150582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国始终做拉美和加勒比国家的好朋友#"
+    }
+  }
+}
