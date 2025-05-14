@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747244443881,
+  "endTime": 1747247604428,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -12075,6 +12075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79455,
+      "num": 127035,
+      "word": "中华民族不可能再让台湾分裂出去",
+      "onboard_time": 1747242676,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79186,
       "num": 339279,
       "word": "装修发现房顶一敲就碎露出生锈钢筋",
@@ -12107,6 +12115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77865,
+      "num": 126601,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1747242557,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77538,
       "num": 179484,
       "word": "在校生浏览境外反华网站传播谣言",
@@ -12129,14 +12145,6 @@
       "onboard_time": 1747134380,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76926,
-      "num": 127035,
-      "word": "中华民族不可能再让台湾分裂出去",
-      "onboard_time": 1747242676,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76612,
@@ -12601,14 +12609,6 @@
       "onboard_time": 1747210524,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 62351,
-      "num": 126601,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1747242557,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 62257,
@@ -13611,6 +13611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42018,
+      "num": 34693,
+      "word": "女子因过度防晒睡觉翻身时骨折",
+      "onboard_time": 1747244295,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41839,
       "num": 41839,
       "word": "何秋亊杂志",
@@ -14153,14 +14161,6 @@
       "onboard_time": 1747024944,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 29639,
-      "num": 34693,
-      "word": "女子因过度防晒睡觉翻身时骨折",
-      "onboard_time": 1747244295,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29616,
@@ -14755,6 +14755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21176,
+      "num": 23201,
+      "word": "丁程鑫西游reaction",
+      "onboard_time": 1747246574,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20926,
       "num": 178026,
       "word": "塔图姆受伤队友该如何填补空缺",
@@ -14817,6 +14825,14 @@
       "onboard_time": 1746987434,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19936,
+      "num": 23190,
+      "word": "考试院回应小伙因救人缺考",
+      "onboard_time": 1747246275,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19914,
