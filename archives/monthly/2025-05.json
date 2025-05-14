@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747222645954,
+  "endTime": 1747227076117,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2403,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1013298,
+      "num": 1013298,
+      "word": "CP31开票",
+      "onboard_time": 1747222341,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1013286,
       "num": 1013286,
       "word": "印巴局势再升级",
@@ -4035,6 +4043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 732122,
+      "num": 732122,
+      "word": "蒲熠星撕拉片失败了",
+      "onboard_time": 1747222882,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731681,
       "num": 615217,
       "word": "杨紫去年就拍了撕拉片",
@@ -5563,6 +5579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594926,
+      "num": 228719,
+      "word": "全班都用ai做作业 教授爆发了",
+      "onboard_time": 1747221623,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 593694,
       "num": 593694,
       "word": "巴基斯坦称已摧毁77架印度无人机",
@@ -6841,6 +6865,14 @@
       "onboard_time": 1746306914,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497919,
+      "num": 268752,
+      "word": "女子称穿瑜伽服上门做饭不是为流量",
+      "onboard_time": 1747221081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497891,
@@ -8363,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427114,
+      "num": 427114,
+      "word": "姜同学你在人生大考中已获满分",
+      "onboard_time": 1747219762,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 424648,
       "num": 424648,
       "word": "央视曝光健康证办理乱象",
@@ -8833,14 +8873,6 @@
       "onboard_time": 1746169521,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 405164,
-      "num": 405164,
-      "word": "姜同学你在人生大考中已获满分",
-      "onboard_time": 1747219762,
-      "rank": 7,
-      "category": "正能量"
     },
     {
       "raw_hot": 404719,
@@ -9393,14 +9425,6 @@
       "onboard_time": 1746589042,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380622,
-      "num": 228719,
-      "word": "全班都用ai做作业 教授爆发了",
-      "onboard_time": 1747221623,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 379872,
@@ -11299,6 +11323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314968,
+      "num": 229438,
+      "word": "女硕士失踪13年生育两孩案家属发声",
+      "onboard_time": 1747219882,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314844,
       "num": 260120,
       "word": "韦雪让男友去照顾前夫",
@@ -12683,6 +12715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282093,
+      "num": 282093,
+      "word": "只有张凌赫和迪丽热巴回答一样",
+      "onboard_time": 1747223843,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281967,
       "num": 331264,
       "word": "陈豪被曝养家压力大频繁接戏",
@@ -13089,14 +13129,6 @@
       "onboard_time": 1746599123,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 268752,
-      "num": 268752,
-      "word": "女子称穿瑜伽服上门做饭不是为流量",
-      "onboard_time": 1747221081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268633,
@@ -15339,14 +15371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 229438,
-      "num": 229438,
-      "word": "女硕士失踪13年生育两孩案家属发声",
-      "onboard_time": 1747219882,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229421,
       "num": 229421,
       "word": "外国神秘大佬来北京吃火锅",
@@ -15521,6 +15545,14 @@
       "onboard_time": 1746854012,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227678,
+      "num": 227678,
+      "word": "鹿晗亚巡北京站获批",
+      "onboard_time": 1747223963,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 227628,
@@ -16428,7 +16460,7 @@
     },
     {
       "raw_hot": 216069,
-      "num": 725075,
+      "num": 830387,
       "word": "我国成功发射太空计算卫星星座",
       "onboard_time": 1747203504,
       "rank": 31,
@@ -23235,6 +23267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174506,
+      "num": 174506,
+      "word": "脊柱最讨厌的4个坐姿",
+      "onboard_time": 1747224383,
+      "rank": 23,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 174502,
       "num": 174502,
       "word": "走读生带17份早餐买空包子的一天",
@@ -25419,6 +25459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162755,
+      "num": 152220,
+      "word": "孙颖莎世乒赛首轮对手确定",
+      "onboard_time": 1747224023,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162720,
       "num": 162720,
       "word": "医生批评医院公众号文章太烂遭辱骂",
@@ -26547,14 +26595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 157125,
-      "num": 157125,
-      "word": "CP31开票",
-      "onboard_time": 1747222341,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 157081,
       "num": 157081,
       "word": "日媒称美再拒绝给日本特殊关税待遇",
@@ -26953,6 +26993,14 @@
       "onboard_time": 1747189289,
       "rank": 39,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 155868,
+      "num": 155868,
+      "word": "折腰改编",
+      "onboard_time": 1747225044,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 155852,
@@ -27593,6 +27641,14 @@
       "onboard_time": 1746704781,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153009,
+      "num": 153009,
+      "word": "墨雨云间优酷拉新榜TOP1",
+      "onboard_time": 1747222462,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 152997,
@@ -28265,6 +28321,14 @@
       "onboard_time": 1746444501,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "王者荣耀流水再创历史新高",
+      "onboard_time": 1747222341,
+      "rank": 39,
+      "category": "电竞,游戏"
     },
     {
       "raw_hot": 149796,
@@ -30041,14 +30105,6 @@
       "onboard_time": 1747111582,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141448,
-      "num": 141448,
-      "word": "墨雨云间优酷拉新榜TOP1",
-      "onboard_time": 1747222462,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 141429,
@@ -31947,6 +32003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134110,
+      "num": 134110,
+      "word": "北京冰雹4S店损失惨重",
+      "onboard_time": 1747225643,
+      "rank": 31,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 134068,
       "num": 134068,
       "word": "惠英红最想合作宋佳杨幂马丽",
@@ -32633,6 +32697,14 @@
       "onboard_time": 1747146022,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 131473,
+      "num": 131473,
+      "word": "印度发现大型导弹残骸",
+      "onboard_time": 1747223362,
+      "rank": 32,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 131440,
@@ -33425,14 +33497,6 @@
       "onboard_time": 1746285022,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128317,
-      "num": 128317,
-      "word": "王者荣耀流水再创历史新高",
-      "onboard_time": 1747222341,
-      "rank": 39,
-      "category": "电竞,游戏"
     },
     {
       "raw_hot": 128249,
@@ -35075,6 +35139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122107,
+      "num": 122107,
+      "word": "cpp崩了",
+      "onboard_time": 1747225283,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 122092,
       "num": 122092,
       "word": "我的地盘",
@@ -35473,6 +35545,14 @@
       "onboard_time": 1747060884,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120046,
+      "num": 120046,
+      "word": "重庆狼队vs广州TTG",
+      "onboard_time": 1747226843,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 119997,
@@ -36601,6 +36681,14 @@
       "onboard_time": 1746286402,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 114943,
+      "num": 114943,
+      "word": "五问火车穿村致19人身亡",
+      "onboard_time": 1747223122,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 114939,
@@ -38939,6 +39027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103041,
+      "num": 103041,
+      "word": "零元购芒狗",
+      "onboard_time": 1747226422,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103020,
       "num": 103020,
       "word": "省委书记暗访餐饮店",
@@ -39017,6 +39113,14 @@
       "onboard_time": 1746242540,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102379,
+      "num": 102379,
+      "word": "中国男篮主教练观战总决赛",
+      "onboard_time": 1747223422,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102346,
@@ -40059,6 +40163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94499,
+      "num": 102351,
+      "word": "印度女议员咆哮议会为何丧事喜办",
+      "onboard_time": 1747224442,
+      "rank": 42,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 94458,
       "num": 94458,
       "word": "人与人交往的黄金定律",
@@ -40177,6 +40289,14 @@
       "onboard_time": 1746192751,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93754,
+      "num": 102307,
+      "word": "林俊杰巡演",
+      "onboard_time": 1747224623,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 93719,
@@ -40393,6 +40513,14 @@
       "onboard_time": 1746616223,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91677,
+      "num": 102288,
+      "word": "网传张婧仪王楚然即将录制奔跑吧",
+      "onboard_time": 1747224802,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 91655,
@@ -40875,6 +41003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87393,
+      "num": 102257,
+      "word": "法拉利CEO谈车载显示屏",
+      "onboard_time": 1747224802,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87390,
       "num": 266020,
       "word": "达尼洛维奇摔球拍",
@@ -40985,6 +41121,14 @@
       "onboard_time": 1746437241,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86467,
+      "num": 102247,
+      "word": "RIIZE公开主打MV",
+      "onboard_time": 1747224501,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 86347,
@@ -42739,6 +42883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71313,
+      "num": 188169,
+      "word": "失踪女硕士仍在医院接受治疗",
+      "onboard_time": 1747225520,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71102,
       "num": 196113,
       "word": "芯竹喊话说唱节目",
@@ -44081,6 +44233,14 @@
       "onboard_time": 1746852151,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58869,
+      "num": 150995,
+      "word": "二十岁中后期人生的第二个青春期",
+      "onboard_time": 1747225882,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 58820,
@@ -45793,6 +45953,14 @@
       "onboard_time": 1746098421,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45172,
+      "num": 151676,
+      "word": "哪吒敖丙配音戛纳亮相",
+      "onboard_time": 1747226843,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 45119,
@@ -49019,6 +49187,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 25131,
+      "num": 150569,
+      "word": "女硕士失踪案嫌犯涉嫌罪名或含强奸",
+      "onboard_time": 1747225763,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25123,
       "num": 208053,
       "word": "从地震救援看到科技进步的意义",
@@ -50601,6 +50777,14 @@
       "onboard_time": 1746628463,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 18009,
+      "num": 186001,
+      "word": "印巴冲突如何影响法国军工产业声誉",
+      "onboard_time": 1747225882,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17986,
@@ -52241,6 +52425,14 @@
       "onboard_time": 1746184890,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10371,
+      "num": 179366,
+      "word": "不同价位电饭煲有什么区别",
+      "onboard_time": 1747226782,
+      "rank": 21,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 10203,

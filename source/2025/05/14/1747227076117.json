@@ -1,0 +1,410 @@
+{
+  "runTime": 1747227076117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1116641,
+        "num": 1178662,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013298,
+        "num": 1013298,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 36193,
+        "num": 830387,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 732122,
+        "num": 732122,
+        "word": "蒲熠星撕拉片失败了",
+        "onboard_time": 1747222882,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427114,
+        "num": 427114,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 282093,
+        "num": 282093,
+        "word": "只有张凌赫和迪丽热巴回答一样",
+        "onboard_time": 1747223843,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237661,
+        "num": 237661,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229556,
+        "num": 229556,
+        "word": "男子14.8万卖金条后银行卡被冻结",
+        "onboard_time": 1747217602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227678,
+        "num": 227678,
+        "word": "鹿晗亚巡北京站获批",
+        "onboard_time": 1747223963,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202761,
+        "num": 202761,
+        "word": "为救同学缺考小伙将参加副题考试",
+        "onboard_time": 1747218502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938363,
+        "num": 202744,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594926,
+        "num": 200702,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 497919,
+        "num": 197125,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314968,
+        "num": 195909,
+        "word": "女硕士失踪13年生育两孩案家属发声",
+        "onboard_time": 1747219882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314769,
+        "num": 194474,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229359,
+        "num": 191780,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190793,
+        "num": 190793,
+        "word": "GAI挂labubu上歌手",
+        "onboard_time": 1747220001,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179012,
+        "num": 189287,
+        "word": "藏海传张本",
+        "onboard_time": 1747217122,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71313,
+        "num": 188169,
+        "word": "失踪女硕士仍在医院接受治疗",
+        "onboard_time": 1747225520,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18009,
+        "num": 186001,
+        "word": "印巴冲突如何影响法国军工产业声誉",
+        "onboard_time": 1747225882,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1548804,
+        "num": 181892,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10371,
+        "num": 179366,
+        "word": "不同价位电饭煲有什么区别",
+        "onboard_time": 1747226782,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 179103,
+        "num": 179103,
+        "word": "陈梦回应没拿到大满贯",
+        "onboard_time": 1747219043,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174506,
+        "num": 174506,
+        "word": "脊柱最讨厌的4个坐姿",
+        "onboard_time": 1747224383,
+        "rank": 23,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 155868,
+        "num": 155868,
+        "word": "折腰改编",
+        "onboard_time": 1747225044,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153009,
+        "num": 153009,
+        "word": "墨雨云间优酷拉新榜TOP1",
+        "onboard_time": 1747222462,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162755,
+        "num": 152220,
+        "word": "孙颖莎世乒赛首轮对手确定",
+        "onboard_time": 1747224023,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45172,
+        "num": 151676,
+        "word": "哪吒敖丙配音戛纳亮相",
+        "onboard_time": 1747226843,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58869,
+        "num": 150995,
+        "word": "二十岁中后期人生的第二个青春期",
+        "onboard_time": 1747225882,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25131,
+        "num": 150569,
+        "word": "女硕士失踪案嫌犯涉嫌罪名或含强奸",
+        "onboard_time": 1747225763,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149800,
+        "num": 149800,
+        "word": "王者荣耀流水再创历史新高",
+        "onboard_time": 1747222341,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134110,
+        "num": 134110,
+        "word": "北京冰雹4S店损失惨重",
+        "onboard_time": 1747225643,
+        "rank": 31,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 131473,
+        "num": 131473,
+        "word": "印度发现大型导弹残骸",
+        "onboard_time": 1747223362,
+        "rank": 32,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 122107,
+        "num": 122107,
+        "word": "cpp崩了",
+        "onboard_time": 1747225283,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120046,
+        "num": 120046,
+        "word": "重庆狼队vs广州TTG",
+        "onboard_time": 1747226843,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114943,
+        "num": 114943,
+        "word": "五问火车穿村致19人身亡",
+        "onboard_time": 1747223122,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113479,
+        "num": 113479,
+        "word": "单依纯在歌手发布会上打瞌睡",
+        "onboard_time": 1747220183,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106823,
+        "num": 106823,
+        "word": "曝iPhone18Pro将配屏下FaceID",
+        "onboard_time": 1747219162,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104066,
+        "num": 104066,
+        "word": "普京爆粗",
+        "onboard_time": 1747207883,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103041,
+        "num": 103041,
+        "word": "零元购芒狗",
+        "onboard_time": 1747226422,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102379,
+        "num": 102379,
+        "word": "中国男篮主教练观战总决赛",
+        "onboard_time": 1747223422,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94867,
+        "num": 102364,
+        "word": "歌手2025阵容还是太全面了",
+        "onboard_time": 1747205183,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94499,
+        "num": 102351,
+        "word": "印度女议员咆哮议会为何丧事喜办",
+        "onboard_time": 1747224442,
+        "rank": 42,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 94176,
+        "num": 102339,
+        "word": "樊振东吃冠军灶",
+        "onboard_time": 1747219341,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84857,
+        "num": 102324,
+        "word": "葛夕黄圣依一起学潜水",
+        "onboard_time": 1747221502,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93754,
+        "num": 102307,
+        "word": "林俊杰巡演",
+        "onboard_time": 1747224623,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91677,
+        "num": 102288,
+        "word": "网传张婧仪王楚然即将录制奔跑吧",
+        "onboard_time": 1747224802,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87393,
+        "num": 102257,
+        "word": "法拉利CEO谈车载显示屏",
+        "onboard_time": 1747224802,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86467,
+        "num": 102247,
+        "word": "RIIZE公开主打MV",
+        "onboard_time": 1747224501,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84691,
+        "num": 102228,
+        "word": "RIIZE新歌",
+        "onboard_time": 1747223422,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见智利总统#"
+    }
+  }
+}
