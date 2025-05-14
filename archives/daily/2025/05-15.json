@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747262253886,
+  "endTime": 1747265036582,
   "band_list": [
     {
       "raw_hot": 933376,
@@ -57,6 +57,14 @@
       "onboard_time": 1747210283,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380969,
+      "num": 380969,
+      "word": "英退伍军人集体揭英军非法杀戮",
+      "onboard_time": 1747240639,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370312,
@@ -123,12 +131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280497,
-      "num": 377547,
-      "word": "英退伍军人集体揭英军非法杀戮",
-      "onboard_time": 1747240639,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 282612,
+      "num": 102318,
+      "word": "女子因过度防晒睡觉翻身时骨折",
+      "onboard_time": 1747244295,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277977,
+      "num": 170358,
+      "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
+      "onboard_time": 1747237043,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 262967,
@@ -155,6 +171,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226230,
+      "num": 226230,
+      "word": "义乌商户说接下来15天肯定要大干",
+      "onboard_time": 1747252814,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213983,
+      "num": 167036,
+      "word": "女子称穿瑜伽服上门做饭不是为流量",
+      "onboard_time": 1747221081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197356,
+      "num": 197356,
+      "word": "郑钦文 山海皆可平",
+      "onboard_time": 1747264879,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194233,
       "num": 194233,
       "word": "义乌商家清早接到30万双袜子大单",
@@ -171,6 +211,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184193,
+      "num": 184193,
+      "word": "郑钦文回应首胜萨巴伦卡",
+      "onboard_time": 1747258093,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174727,
+      "num": 175190,
+      "word": "提醒在英中国公民加强安全防范",
+      "onboard_time": 1747249094,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171796,
       "num": 171796,
       "word": "鹿晗演唱会",
@@ -179,28 +235,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168168,
-      "num": 56165,
-      "word": "女子因过度防晒睡觉翻身时骨折",
-      "onboard_time": 1747244295,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164428,
       "num": 164428,
       "word": "王一博周深的歌入选2024优秀歌曲",
       "onboard_time": 1747230023,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157291,
-      "num": 175190,
-      "word": "提醒在英中国公民加强安全防范",
-      "onboard_time": 1747249094,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 149999,
@@ -217,6 +257,14 @@
       "onboard_time": 1747239140,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128522,
+      "num": 173389,
+      "word": "国产剧最有味道的cp也be了",
+      "onboard_time": 1747260134,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127485,
@@ -251,27 +299,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121995,
-      "num": 110985,
-      "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
-      "onboard_time": 1747237043,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121782,
       "num": 121782,
       "word": "男子虐猫后挂网络平台叫卖被行拘",
       "onboard_time": 1747234522,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114692,
-      "num": 112660,
-      "word": "女子称穿瑜伽服上门做饭不是为流量",
-      "onboard_time": 1747221081,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -283,16 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103522,
-      "num": 103522,
-      "word": "义乌商户说接下来15天肯定要大干",
-      "onboard_time": 1747252814,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97807,
-      "num": 97807,
+      "num": 100280,
       "word": "邓超问什么蛋糕可以插319根蜡烛",
       "onboard_time": 1747236263,
       "rank": 32,
@@ -307,8 +331,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95256,
-      "num": 95256,
+      "raw_hot": 96197,
+      "num": 96197,
       "word": "特朗普访问中东三国主要目的是什么",
       "onboard_time": 1747236202,
       "rank": 34,
@@ -321,6 +345,14 @@
       "onboard_time": 1747224383,
       "rank": 35,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 92378,
+      "num": 92378,
+      "word": "女子海底捞母婴室哺乳遭员工开门",
+      "onboard_time": 1747229662,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91609,
@@ -363,12 +395,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 76119,
+      "num": 104054,
+      "word": "女子回应私厨一天6家月入2万争议",
+      "onboard_time": 1747235244,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75470,
       "num": 75470,
       "word": "刘国梁联合国参加活动",
       "onboard_time": 1747229842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75363,
+      "num": 75363,
+      "word": "cp31",
+      "onboard_time": 1747264938,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 74745,
+      "num": 99101,
+      "word": "女主咳了两声男主丧失主卧权",
+      "onboard_time": 1747263858,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 74078,
@@ -385,14 +441,6 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73311,
-      "num": 73311,
-      "word": "女子海底捞母婴室哺乳遭员工开门",
-      "onboard_time": 1747229662,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72041,
@@ -425,22 +473,6 @@
       "onboard_time": 1747236982,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69631,
-      "num": 104054,
-      "word": "女子回应私厨一天6家月入2万争议",
-      "onboard_time": 1747235244,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67279,
-      "num": 64749,
-      "word": "郑钦文回应首胜萨巴伦卡",
-      "onboard_time": 1747258093,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 59398,
@@ -483,6 +515,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 54268,
+      "num": 54268,
+      "word": "魏劭一瞬间把孩子名都想好了",
+      "onboard_time": 1747259773,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53398,
       "num": 69552,
       "word": "贵州茅台股东大会爆满改地点",
@@ -497,6 +537,14 @@
       "onboard_time": 1747238481,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50260,
+      "num": 50260,
+      "word": "考试院回应小伙因救人缺考",
+      "onboard_time": 1747246275,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48402,
@@ -515,20 +563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39209,
+      "num": 97935,
+      "word": "普京确定俄乌谈判俄方代表团名单",
+      "onboard_time": 1747264518,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37525,
       "num": 37525,
       "word": "2025LPL第二赛段",
       "onboard_time": 1747243696,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 36901,
-      "num": 36901,
-      "word": "国产剧最有味道的cp也be了",
-      "onboard_time": 1747260134,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 34562,
@@ -539,19 +587,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 34330,
-      "num": 34330,
-      "word": "魏劭一瞬间把孩子名都想好了",
-      "onboard_time": 1747259773,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33457,
-      "num": 33457,
-      "word": "考试院回应小伙因救人缺考",
-      "onboard_time": 1747246275,
-      "rank": 46,
+      "raw_hot": 33964,
+      "num": 291201,
+      "word": "终于有电影讲讲新疆棉花故事了",
+      "onboard_time": 1747228343,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -601,6 +641,22 @@
       "onboard_time": 1747248314,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 15215,
+      "num": 97069,
+      "word": "中美对话的基础不会改变",
+      "onboard_time": 1747264398,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13074,
+      "num": 96741,
+      "word": "俄称解决俄乌冲突与俄美关系并不关联",
+      "onboard_time": 1747264459,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12741,
