@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747241273120,
+  "endTime": 1747243404062,
   "band_list": [
     {
       "raw_hot": 933376,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201462,
+      "num": 201462,
+      "word": "英退伍军人集体揭英军非法杀戮",
+      "onboard_time": 1747240639,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194233,
       "num": 194233,
       "word": "义乌商家清早接到30万双袜子大单",
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124137,
+      "num": 124137,
+      "word": "孔雪儿是谁叫我邪恶水蜜桃",
+      "onboard_time": 1747240639,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121782,
       "num": 121782,
       "word": "男子虐猫后挂网络平台叫卖被行拘",
@@ -233,14 +249,6 @@
       "onboard_time": 1747221081,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107890,
-      "num": 107890,
-      "word": "孔雪儿是谁叫我邪恶水蜜桃",
-      "onboard_time": 1747240639,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 104511,
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72041,
+      "num": 72041,
+      "word": "折腰破28000",
+      "onboard_time": 1747242737,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70945,
       "num": 70945,
       "word": "腾讯一季度收入1800.22亿",
@@ -395,20 +411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58776,
-      "num": 58776,
-      "word": "英退伍军人集体揭英军非法杀戮",
-      "onboard_time": 1747240639,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57382,
       "num": 69554,
       "word": "毕业生花钱给论文降低AI率",
       "onboard_time": 1747236923,
       "rank": 47,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 55767,
+      "num": 126601,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1747242557,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 53398,
@@ -433,6 +449,30 @@
       "onboard_time": 1747240398,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 48286,
+      "num": 48286,
+      "word": "杜海涛都没见过沈梦辰的这一面",
+      "onboard_time": 1747230264,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34562,
+      "num": 34562,
+      "word": "中国稀土择机开展并购重组",
+      "onboard_time": 1747242018,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 25087,
+      "num": 127035,
+      "word": "中华民族不可能再让台湾分裂出去",
+      "onboard_time": 1747242676,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5273,
