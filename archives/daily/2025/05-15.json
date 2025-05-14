@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747254230783,
+  "endTime": 1747255017371,
   "band_list": [
     {
       "raw_hot": 933376,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102836,
+      "num": 102836,
+      "word": "提醒在英中国公民加强安全防范",
+      "onboard_time": 1747249094,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97807,
       "num": 97807,
       "word": "邓超问什么蛋糕可以插319根蜡烛",
@@ -281,14 +289,6 @@
       "onboard_time": 1747202424,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96435,
-      "num": 96435,
-      "word": "提醒在英中国公民加强安全防范",
-      "onboard_time": 1747249094,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 95256,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24538,
+      "num": 31673,
+      "word": "义乌商户说接下来15天肯定要大干",
+      "onboard_time": 1747252814,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23758,
       "num": 25008,
       "word": "歌手首发阵容官宣",
@@ -547,20 +555,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 14348,
-      "num": 31673,
-      "word": "义乌商户说接下来15天肯定要大干",
-      "onboard_time": 1747252814,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12136,
+      "raw_hot": 12741,
       "num": 38875,
       "word": "生命这道选择题他们答得毫不犹豫",
       "onboard_time": 1747250294,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12681,
+      "num": 33291,
+      "word": "美国订单回来了",
+      "onboard_time": 1747253174,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11749,
