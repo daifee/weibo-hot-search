@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747255017371,
+  "endTime": 1747257638050,
   "band_list": [
     {
       "raw_hot": 933376,
@@ -259,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105989,
+      "num": 128069,
+      "word": "提醒在英中国公民加强安全防范",
+      "onboard_time": 1747249094,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104511,
       "num": 104511,
       "word": "孙俪回应甄嬛生日",
       "onboard_time": 1747233444,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102836,
-      "num": 102836,
-      "word": "提醒在英中国公民加强安全防范",
-      "onboard_time": 1747249094,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97807,
@@ -507,20 +507,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 27804,
+      "num": 31673,
+      "word": "义乌商户说接下来15天肯定要大干",
+      "onboard_time": 1747252814,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26878,
       "num": 26878,
       "word": "孙恩盛直播",
       "onboard_time": 1747247653,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24538,
-      "num": 31673,
-      "word": "义乌商户说接下来15天肯定要大干",
-      "onboard_time": 1747252814,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23758,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21112,
+      "num": 21112,
+      "word": "男子骑车遭风筝线割喉",
+      "onboard_time": 1747255215,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20284,
       "num": 25001,
       "word": "考试院回应小伙因救人缺考",
@@ -555,20 +563,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 17171,
+      "num": 33291,
+      "word": "美国订单回来了",
+      "onboard_time": 1747253174,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14809,
+      "num": 15921,
+      "word": "有被王鸥魏大勋友谊感动到",
+      "onboard_time": 1747255874,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12741,
       "num": 38875,
       "word": "生命这道选择题他们答得毫不犹豫",
       "onboard_time": 1747250294,
       "rank": 36,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12681,
-      "num": 33291,
-      "word": "美国订单回来了",
-      "onboard_time": 1747253174,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11749,
