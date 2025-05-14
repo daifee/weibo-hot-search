@@ -1,0 +1,402 @@
+{
+  "runTime": 1747201390922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265192,
+        "num": 1265192,
+        "word": "歌手发布会",
+        "onboard_time": 1747199187,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1163158,
+        "num": 1163158,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47928,
+        "num": 622608,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529050,
+        "num": 529050,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 527303,
+        "num": 527303,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 4,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 411310,
+        "num": 411310,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505328,
+        "num": 355753,
+        "word": "甘薇贾跃亭离婚",
+        "onboard_time": 1747200984,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462965,
+        "num": 348299,
+        "word": "金曲奖",
+        "onboard_time": 1747199786,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297433,
+        "num": 297433,
+        "word": "代孕",
+        "onboard_time": 1747193781,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199665,
+        "num": 297417,
+        "word": "赖清德称和日本感情像家人被严斥",
+        "onboard_time": 1747197324,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11213340,
+        "num": 11213340,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449771,
+        "num": 296421,
+        "word": "歌手",
+        "onboard_time": 1747200804,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451713,
+        "num": 295816,
+        "word": "怪不得老一辈都喜欢生小孩",
+        "onboard_time": 1747195102,
+        "rank": 12,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 313656,
+        "num": 295478,
+        "word": "姜妍说第一次被叫小姨还不太理解",
+        "onboard_time": 1747194562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61145,
+        "num": 295104,
+        "word": "新房没买成20万元团购费竟不给退",
+        "onboard_time": 1747200264,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312446,
+        "num": 294651,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294561,
+        "num": 294561,
+        "word": "宋浩然回应韩安冉怀三胎",
+        "onboard_time": 1747195942,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277186,
+        "num": 277186,
+        "word": "美媒称美鸡爪痛失中国市场",
+        "onboard_time": 1747194142,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256618,
+        "num": 256618,
+        "word": "发了offer催离职又反悔公司判赔3.4万",
+        "onboard_time": 1747196782,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5481,
+        "num": 242982,
+        "word": "独一无二中家庭与梦想该如何权衡",
+        "onboard_time": 1747200684,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291940,
+        "num": 242041,
+        "word": "韩国93岁女校长回应保持童颜",
+        "onboard_time": 1747195703,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240657,
+        "num": 240657,
+        "word": "黄金",
+        "onboard_time": 1747193961,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237753,
+        "num": 237753,
+        "word": "陈楚生歌手首位官宣",
+        "onboard_time": 1747200564,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235810,
+        "num": 235810,
+        "word": "刘宇宁妆造",
+        "onboard_time": 1747193001,
+        "rank": 23,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 212711,
+        "num": 235590,
+        "word": "大侦探",
+        "onboard_time": 1747200085,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119883,
+        "num": 234178,
+        "word": "京东五大补贴哪里领",
+        "onboard_time": 1747199066,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205994,
+        "num": 232805,
+        "word": "陈妍希摔倒周柯宇下意识保护",
+        "onboard_time": 1747200684,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25696,
+        "num": 229695,
+        "word": "印度民众开始庆祝活动",
+        "onboard_time": 1747200743,
+        "rank": 27,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 15494,
+        "num": 229224,
+        "word": "胡锡进说世界势必重新认识中国",
+        "onboard_time": 1747200025,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80949,
+        "num": 228019,
+        "word": "警方回应超市老板借领养名义烹食狗肉",
+        "onboard_time": 1747200505,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71349,
+        "num": 226145,
+        "word": "2次酒驾2次肇事老人再驾老头乐酒驾",
+        "onboard_time": 1747199547,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1429345,
+        "num": 225501,
+        "word": "京东外卖崩了",
+        "onboard_time": 1747197262,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272700,
+        "num": 223845,
+        "word": "乔家栋送网友孙颖莎杂志",
+        "onboard_time": 1747200863,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223350,
+        "num": 223350,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194348,
+        "num": 194348,
+        "word": "易烊千玺骨相还是太权威了",
+        "onboard_time": 1747200684,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198251,
+        "num": 190732,
+        "word": "林志炫第三次参加歌手",
+        "onboard_time": 1747201044,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186063,
+        "num": 186063,
+        "word": "疑似武艺对何老师发起攻击",
+        "onboard_time": 1747199665,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114577,
+        "num": 184938,
+        "word": "印媒证实S400操作手殉职",
+        "onboard_time": 1747200144,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 184756,
+        "num": 184756,
+        "word": "赵樱子回怼",
+        "onboard_time": 1747193425,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180137,
+        "num": 180137,
+        "word": "建议内娱cp都来上这个综艺",
+        "onboard_time": 1747201104,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177318,
+        "num": 177318,
+        "word": "TFBOYS发文为王俊凯配音打call",
+        "onboard_time": 1747195884,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173989,
+        "num": 173989,
+        "word": "恋与制作人新pv",
+        "onboard_time": 1747199845,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175650,
+        "num": 172768,
+        "word": "李艺彤票数",
+        "onboard_time": 1747195823,
+        "rank": 42,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 167254,
+        "num": 167254,
+        "word": "苹果全新辅助功能",
+        "onboard_time": 1747201104,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92523,
+        "num": 157989,
+        "word": "一品牛肉干竟是猪肉做的",
+        "onboard_time": 1747199304,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157566,
+        "num": 157566,
+        "word": "戛纳红毯上的中国艺人",
+        "onboard_time": 1747194262,
+        "rank": 45,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 178436,
+        "num": 155335,
+        "word": "单依纯新歌珠玉",
+        "onboard_time": 1747200444,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 146619,
+        "word": "林俊杰北京站官宣",
+        "onboard_time": 1747197504,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146232,
+        "num": 146232,
+        "word": "老人因性格问题被拒门外睡楼道4个月",
+        "onboard_time": 1747198405,
+        "rank": 48,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见哥伦比亚总统佩特罗#"
+    }
+  }
+}
