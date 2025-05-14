@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747197051062,
+  "endTime": 1747197920821,
   "band_list": [
     {
       "raw_hot": 2101720,
@@ -65,6 +65,14 @@
       "onboard_time": 1747186649,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 874952,
+      "num": 313288,
+      "word": "京东外卖崩了",
+      "onboard_time": 1747197262,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 804355,
@@ -179,19 +187,19 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 557136,
+      "num": 557136,
+      "word": "美媒称美鸡爪痛失中国市场",
+      "onboard_time": 1747194142,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 541569,
       "num": 541569,
       "word": "未达成协议对华关税也不会重回145%",
       "onboard_time": 1747187910,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 515115,
-      "num": 515115,
-      "word": "美媒称美鸡爪痛失中国市场",
-      "onboard_time": 1747194142,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1747180040,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476177,
+      "num": 361598,
+      "word": "宋浩然回应韩安冉怀三胎",
+      "onboard_time": 1747195942,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 470333,
@@ -257,14 +273,6 @@
       "onboard_time": 1747191980,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 405038,
-      "num": 361598,
-      "word": "宋浩然回应韩安冉怀三胎",
-      "onboard_time": 1747195942,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 396724,
@@ -355,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345583,
+      "num": 345583,
+      "word": "中美最新关税已实施",
+      "onboard_time": 1747197385,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 343375,
+      "num": 382898,
+      "word": "浪琴回应网友购入手表后其表盘丢失",
+      "onboard_time": 1747196244,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339150,
       "num": 339150,
       "word": "怪不得老一辈都喜欢生小孩",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 321781,
-      "num": 321781,
+      "num": 340167,
       "word": "TFBOYS发文为王俊凯配音打call",
       "onboard_time": 1747195884,
       "rank": 30,
@@ -409,6 +433,14 @@
       "onboard_time": 1747151600,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 297785,
+      "num": 297785,
+      "word": "代孕",
+      "onboard_time": 1747193781,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290275,
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 250148,
-      "num": 298293,
+      "num": 317971,
       "word": "戛纳红毯上的中国艺人",
       "onboard_time": 1747194262,
       "rank": 29,
@@ -499,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228532,
-      "num": 228532,
-      "word": "代孕",
-      "onboard_time": 1747193781,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224375,
       "num": 291289,
       "word": "折腰开播指数",
@@ -523,12 +547,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221697,
+      "num": 328008,
+      "word": "张杰谈鸟巢演唱会歌单",
+      "onboard_time": 1747197625,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218791,
       "num": 312403,
       "word": "徐艺洋没吃过爱情的苦",
       "onboard_time": 1747140801,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208713,
+      "num": 208713,
+      "word": "赖清德称和日本感情像家人被严斥",
+      "onboard_time": 1747197324,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207758,
@@ -579,12 +619,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200087,
+      "num": 200087,
+      "word": "林俊杰北京站官宣",
+      "onboard_time": 1747197504,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199235,
       "num": 199235,
       "word": "哪吒汽车",
       "onboard_time": 1747187969,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199218,
+      "num": 199218,
+      "word": "谭松韵黑发素颜状态",
+      "onboard_time": 1747197083,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 199177,
@@ -595,12 +651,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198430,
-      "num": 382898,
-      "word": "浪琴回应网友购入手表后其表盘丢失",
-      "onboard_time": 1747196244,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 199097,
+      "num": 199097,
+      "word": "王俊凯她扣子系串了",
+      "onboard_time": 1747197443,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198932,
+      "num": 342776,
+      "word": "高圆圆的长颈鹿是从两元店淘的吧",
+      "onboard_time": 1747196782,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 197158,
@@ -609,6 +673,14 @@
       "onboard_time": 1747177879,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190969,
+      "num": 190969,
+      "word": "雷霆逆转掘金",
+      "onboard_time": 1747196963,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 189365,
@@ -627,20 +699,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 188048,
+      "num": 332139,
+      "word": "发了offer催离职又反悔公司判赔3.4万",
+      "onboard_time": 1747196782,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187714,
       "num": 280277,
       "word": "步行者4比1骑士",
       "onboard_time": 1747188629,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186756,
-      "num": 342776,
-      "word": "高圆圆的长颈鹿是从两元店淘的吧",
-      "onboard_time": 1747196782,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 183090,
@@ -691,11 +763,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177257,
-      "num": 177257,
-      "word": "雷霆逆转掘金",
-      "onboard_time": 1747196963,
-      "rank": 43,
+      "raw_hot": 177446,
+      "num": 339462,
+      "word": "樊振东和波尔有个新约定",
+      "onboard_time": 1747196123,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -747,12 +819,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166027,
-      "num": 339462,
-      "word": "樊振东和波尔有个新约定",
-      "onboard_time": 1747196123,
-      "rank": 26,
+      "raw_hot": 163377,
+      "num": 163377,
+      "word": "决胜时刻还得看亚历山大",
+      "onboard_time": 1747197864,
+      "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162482,
+      "num": 162482,
+      "word": "樱兰高校男公关部",
+      "onboard_time": 1747195403,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 159780,
@@ -923,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131368,
-      "num": 332139,
-      "word": "发了offer催离职又反悔公司判赔3.4万",
-      "onboard_time": 1747196782,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129764,
       "num": 129764,
       "word": "甄嬛传14年后郑晓龙再导古装剧",
@@ -969,6 +1041,14 @@
       "onboard_time": 1747190481,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123217,
+      "num": 374352,
+      "word": "美专家分析美政府迅速让步原因",
+      "onboard_time": 1747196545,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122557,
@@ -1123,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91820,
+      "num": 218297,
+      "word": "男大学生洗衣翻车白衣服全变芭比粉",
+      "onboard_time": 1747196545,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89618,
       "num": 89618,
       "word": "SEVENTEEN全员solo曲",
@@ -1145,14 +1233,6 @@
       "onboard_time": 1747177338,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87131,
-      "num": 218297,
-      "word": "男大学生洗衣翻车白衣服全变芭比粉",
-      "onboard_time": 1747196545,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86646,
@@ -1299,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53710,
+      "num": 366721,
+      "word": "妈妈谈3岁男童治疗兽皮痣近况",
+      "onboard_time": 1747196244,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51731,
       "num": 64297,
       "word": "毛利兰新剧场版打戏好爽",
@@ -1361,14 +1449,6 @@
       "onboard_time": 1747188570,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43501,
-      "num": 374352,
-      "word": "美专家分析美政府迅速让步原因",
-      "onboard_time": 1747196545,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43316,
@@ -1475,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29724,
-      "num": 366721,
-      "word": "妈妈谈3岁男童治疗兽皮痣近况",
-      "onboard_time": 1747196244,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29513,
       "num": 252976,
       "word": "美国主动请求关税休战",
@@ -1537,6 +1609,14 @@
       "onboard_time": 1747160595,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18044,
+      "num": 339130,
+      "word": "骑士被步行者淘汰暴露出哪些短板",
+      "onboard_time": 1747197083,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 17662,

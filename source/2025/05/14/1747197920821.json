@@ -1,0 +1,410 @@
+{
+  "runTime": 1747197920821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1935114,
+        "num": 1935114,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1102016,
+        "num": 1102016,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 80021,
+        "num": 863860,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 762554,
+        "num": 762554,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 3,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 557136,
+        "num": 557136,
+        "word": "美媒称美鸡爪痛失中国市场",
+        "onboard_time": 1747194142,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 437727,
+        "num": 437727,
+        "word": "赵樱子回怼",
+        "onboard_time": 1747193425,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405302,
+        "num": 405302,
+        "word": "刘晓庆的翡翠好大",
+        "onboard_time": 1747193180,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 350273,
+        "num": 350273,
+        "word": "翻了24家银行找不到2%的存款",
+        "onboard_time": 1747191441,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 345583,
+        "num": 345583,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343375,
+        "num": 343375,
+        "word": "浪琴回应网友购入手表后其表盘丢失",
+        "onboard_time": 1747196244,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820816,
+        "num": 342909,
+        "word": "韩安冉三胎是双胞胎",
+        "onboard_time": 1747179861,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 690155,
+        "num": 342764,
+        "word": "姜妍说第一次被叫小姨还不太理解",
+        "onboard_time": 1747194562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250778,
+        "num": 342388,
+        "word": "韶华若锦定档",
+        "onboard_time": 1747189649,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156242,
+        "num": 341667,
+        "word": "京东国补更便宜",
+        "onboard_time": 1747195403,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 341219,
+        "word": "美专家分析美政府迅速让步原因",
+        "onboard_time": 1747196545,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198932,
+        "num": 340702,
+        "word": "高圆圆的长颈鹿是从两元店淘的吧",
+        "onboard_time": 1747196782,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249256,
+        "num": 340167,
+        "word": "TFBOYS发文为王俊凯配音打call",
+        "onboard_time": 1747195884,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120804,
+        "num": 339877,
+        "word": "高铁卫生巾自由",
+        "onboard_time": 1747194442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18044,
+        "num": 339130,
+        "word": "骑士被步行者淘汰暴露出哪些短板",
+        "onboard_time": 1747197083,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53710,
+        "num": 338986,
+        "word": "妈妈谈3岁男童治疗兽皮痣近况",
+        "onboard_time": 1747196244,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395581,
+        "num": 338112,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545446,
+        "num": 337801,
+        "word": "黄金",
+        "onboard_time": 1747193961,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 476177,
+        "num": 337072,
+        "word": "宋浩然回应韩安冉怀三胎",
+        "onboard_time": 1747195942,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383804,
+        "num": 336584,
+        "word": "刘宇宁妆造",
+        "onboard_time": 1747193001,
+        "rank": 23,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 336549,
+        "num": 336549,
+        "word": "广东150平毒枭房产149万成交",
+        "onboard_time": 1747188510,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328887,
+        "num": 328887,
+        "word": "怪不得老一辈都喜欢生小孩",
+        "onboard_time": 1747195102,
+        "rank": 25,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 221697,
+        "num": 328008,
+        "word": "张杰谈鸟巢演唱会歌单",
+        "onboard_time": 1747197625,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219184,
+        "num": 322291,
+        "word": "李艺彤票数",
+        "onboard_time": 1747195823,
+        "rank": 27,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 207250,
+        "num": 317971,
+        "word": "戛纳红毯上的中国艺人",
+        "onboard_time": 1747194262,
+        "rank": 28,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 188048,
+        "num": 314552,
+        "word": "发了offer催离职又反悔公司判赔3.4万",
+        "onboard_time": 1747196782,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874952,
+        "num": 313288,
+        "word": "京东外卖崩了",
+        "onboard_time": 1747197262,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310037,
+        "num": 310037,
+        "word": "韩国93岁女校长回应保持童颜",
+        "onboard_time": 1747195703,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297785,
+        "num": 297785,
+        "word": "代孕",
+        "onboard_time": 1747193781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275412,
+        "num": 275412,
+        "word": "cp31还没开票",
+        "onboard_time": 1747196364,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259637,
+        "num": 259637,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247510,
+        "num": 247510,
+        "word": "月薪6000如何过出两万的气势",
+        "onboard_time": 1747194021,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224111,
+        "num": 224111,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208713,
+        "num": 208713,
+        "word": "赖清德称和日本感情像家人被严斥",
+        "onboard_time": 1747197324,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91820,
+        "num": 203377,
+        "word": "男大学生洗衣翻车白衣服全变芭比粉",
+        "onboard_time": 1747196545,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200087,
+        "num": 200087,
+        "word": "林俊杰北京站官宣",
+        "onboard_time": 1747197504,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199218,
+        "num": 199218,
+        "word": "谭松韵黑发素颜状态",
+        "onboard_time": 1747197083,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199097,
+        "num": 199097,
+        "word": "王俊凯她扣子系串了",
+        "onboard_time": 1747197443,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190969,
+        "num": 190969,
+        "word": "雷霆逆转掘金",
+        "onboard_time": 1747196963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188065,
+        "num": 188065,
+        "word": "nana民宿",
+        "onboard_time": 1747196723,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180280,
+        "num": 180280,
+        "word": "黄蓉扮演者翁美玲去世40周年",
+        "onboard_time": 1747186231,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177446,
+        "num": 177446,
+        "word": "樊振东和波尔有个新约定",
+        "onboard_time": 1747196123,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171814,
+        "num": 171814,
+        "word": "一口锅救了一整栋楼",
+        "onboard_time": 1747191980,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163479,
+        "num": 163479,
+        "word": "黄子韬给徐艺洋发了一堆表情",
+        "onboard_time": 1747181541,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163377,
+        "num": 163377,
+        "word": "决胜时刻还得看亚历山大",
+        "onboard_time": 1747197864,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162482,
+        "num": 162482,
+        "word": "樱兰高校男公关部",
+        "onboard_time": 1747195403,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统卢拉会谈#"
+    }
+  }
+}
