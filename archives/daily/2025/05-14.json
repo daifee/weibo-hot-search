@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747221721563,
+  "endTime": 1747222645954,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1612853,
+      "num": 1612853,
+      "word": "山西订婚强奸入选最高法案例",
+      "onboard_time": 1747218802,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1586892,
       "num": 482367,
       "word": "甘薇贾跃亭离婚",
@@ -65,14 +73,6 @@
       "onboard_time": 1747207883,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1402611,
-      "num": 1402611,
-      "word": "山西订婚强奸入选最高法案例",
-      "onboard_time": 1747218802,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1388125,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 405164,
+      "num": 405164,
+      "word": "姜同学你在人生大考中已获满分",
+      "onboard_time": 1747219762,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 396724,
       "num": 396724,
       "word": "美国和沙特签署上千亿美元军售协议",
@@ -529,6 +537,14 @@
       "onboard_time": 1747148123,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380622,
+      "num": 228719,
+      "word": "全班都用ai做作业 教授爆发了",
+      "onboard_time": 1747221623,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 376678,
@@ -691,20 +707,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303579,
-      "num": 303579,
-      "word": "姜同学你在人生大考中已获满分",
-      "onboard_time": 1747219762,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 300701,
       "num": 264288,
       "word": "丁禹兮工作室 线下",
       "onboard_time": 1747210825,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300681,
+      "num": 295045,
+      "word": "单依纯上歌手不想火药味太重",
+      "onboard_time": 1747216524,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 298881,
@@ -721,14 +737,6 @@
       "onboard_time": 1747200144,
       "rank": 39,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 295045,
-      "num": 295045,
-      "word": "单依纯上歌手不想火药味太重",
-      "onboard_time": 1747216524,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 290275,
@@ -761,6 +769,14 @@
       "onboard_time": 1747200863,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268752,
+      "num": 268752,
+      "word": "女子称穿瑜伽服上门做饭不是为流量",
+      "onboard_time": 1747221081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268411,
@@ -859,12 +875,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 242636,
+      "num": 262878,
+      "word": "单依纯在歌手发布会上打瞌睡",
+      "onboard_time": 1747220183,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241015,
       "num": 241015,
       "word": "曝iPhone18Pro将配屏下FaceID",
       "onboard_time": 1747219162,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 239333,
+      "num": 199236,
+      "word": "沈梦辰时隔12年气质变化",
+      "onboard_time": 1747221563,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 237753,
@@ -891,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235188,
-      "num": 262878,
-      "word": "单依纯在歌手发布会上打瞌睡",
-      "onboard_time": 1747220183,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231592,
       "num": 267731,
       "word": "荣耀400让你戒掉手机壳",
@@ -921,6 +945,14 @@
       "onboard_time": 1747194862,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228663,
+      "num": 275665,
+      "word": "中俄就共建月球核电站签署合作备忘录",
+      "onboard_time": 1747220842,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 227995,
@@ -1003,7 +1035,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215072,
+      "raw_hot": 215808,
       "num": 288867,
       "word": "为救同学缺考小伙将参加副题考试",
       "onboard_time": 1747218502,
@@ -1571,12 +1603,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 157282,
-      "num": 157282,
-      "word": "沈梦辰时隔12年气质变化",
-      "onboard_time": 1747221563,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 157125,
+      "num": 157125,
+      "word": "CP31开票",
+      "onboard_time": 1747222341,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 157001,
@@ -1803,6 +1835,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 141448,
+      "num": 141448,
+      "word": "墨雨云间优酷拉新榜TOP1",
+      "onboard_time": 1747222462,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141259,
       "num": 257711,
       "word": "汽车不仅是技术活更是良心活",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1747182511,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135732,
+      "num": 135732,
+      "word": "葛夕黄圣依一起学潜水",
+      "onboard_time": 1747221502,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 134806,
@@ -1907,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128317,
+      "num": 128317,
+      "word": "王者荣耀流水再创历史新高",
+      "onboard_time": 1747222341,
+      "rank": 39,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 128249,
       "num": 128249,
       "word": "张萌说折腰好看",
@@ -1971,12 +2027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124945,
-      "num": 124945,
-      "word": "全班都用ai做作业 教授爆发了",
-      "onboard_time": 1747221623,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 124582,
+      "num": 124582,
+      "word": "印议员称80小时损失950亿美元",
+      "onboard_time": 1747221264,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124023,
@@ -2035,14 +2091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120369,
-      "num": 120369,
-      "word": "印议员称80小时损失950亿美元",
-      "onboard_time": 1747221264,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120202,
       "num": 150841,
       "word": "巴基斯坦外甥来中国探亲犹如穿越",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1747189590,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117327,
+      "num": 117327,
+      "word": "榜上佳婿",
+      "onboard_time": 1747221921,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 116173,
@@ -2121,14 +2177,6 @@
       "onboard_time": 1747220121,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 112447,
-      "num": 112447,
-      "word": "葛夕黄圣依一起学潜水",
-      "onboard_time": 1747221502,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 112161,
@@ -2187,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110182,
+      "num": 110182,
+      "word": "郑钦文积极备战萨巴伦卡",
+      "onboard_time": 1747221980,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109428,
       "num": 265048,
       "word": "黑龙江一地多位基层干部冒领残疾补贴",
@@ -2241,6 +2297,14 @@
       "onboard_time": 1747165334,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103609,
+      "num": 103609,
+      "word": "何炅吴昕同框就不缺名场面",
+      "onboard_time": 1747222521,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103268,
@@ -2547,12 +2611,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 63948,
-      "num": 266078,
-      "word": "女子称穿瑜伽服上门做饭不是为流量",
-      "onboard_time": 1747221081,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 63392,
+      "num": 153209,
+      "word": "普京爆粗口后道歉",
+      "onboard_time": 1747222341,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62597,
@@ -2617,14 +2681,6 @@
       "onboard_time": 1747210342,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57099,
-      "num": 275665,
-      "word": "中俄就共建月球核电站签署合作备忘录",
-      "onboard_time": 1747220842,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56654,
@@ -2995,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24314,
+      "num": 226142,
+      "word": "一个很好训练表达能力的小方法",
+      "onboard_time": 1747221382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23888,
       "num": 178784,
       "word": "苹果全新辅助功能适配性有哪些考量",
@@ -3187,14 +3251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11630,
-      "num": 226142,
-      "word": "一个很好训练表达能力的小方法",
-      "onboard_time": 1747221382,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11059,
       "num": 45491,
       "word": "王宜林一审获刑13年",
@@ -3259,12 +3315,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5962,
+      "raw_hot": 7717,
+      "num": 100365,
+      "word": "京东这么宠张艺兴的嘛",
+      "onboard_time": 1747222462,
+      "rank": 48,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 7484,
       "num": 272628,
       "word": "Grace的翻唱经历如何助力歌手舞台",
       "onboard_time": 1747221382,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 6303,
+      "num": 212430,
+      "word": "跨界经历如何影响魏如萱夺奖",
+      "onboard_time": 1747222281,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 5481,

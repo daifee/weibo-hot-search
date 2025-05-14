@@ -1,0 +1,410 @@
+{
+  "runTime": 1747222645954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612853,
+        "num": 1612853,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549617,
+        "num": 549617,
+        "word": "男子14.8万卖金条后银行卡被冻结",
+        "onboard_time": 1747217602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45041,
+        "num": 447664,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418039,
+        "num": 418039,
+        "word": "陈梦回应没拿到大满贯",
+        "onboard_time": 1747219043,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405164,
+        "num": 405164,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 384677,
+        "num": 384677,
+        "word": "GAI挂labubu上歌手",
+        "onboard_time": 1747220001,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381475,
+        "num": 381475,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268752,
+        "num": 268752,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300681,
+        "num": 249765,
+        "word": "单依纯上歌手不想火药味太重",
+        "onboard_time": 1747216524,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229194,
+        "num": 229194,
+        "word": "藏海传张本",
+        "onboard_time": 1747217122,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1542664,
+        "num": 229084,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 949396,
+        "num": 229012,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456011,
+        "num": 228886,
+        "word": "普京爆粗",
+        "onboard_time": 1747207883,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380622,
+        "num": 228719,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228663,
+        "num": 228663,
+        "word": "中俄就共建月球核电站签署合作备忘录",
+        "onboard_time": 1747220842,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215808,
+        "num": 215808,
+        "word": "为救同学缺考小伙将参加副题考试",
+        "onboard_time": 1747218502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354755,
+        "num": 215648,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242636,
+        "num": 215228,
+        "word": "单依纯在歌手发布会上打瞌睡",
+        "onboard_time": 1747220183,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183326,
+        "num": 214300,
+        "word": "王源为GAI上歌手打call",
+        "onboard_time": 1747221563,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213471,
+        "num": 213471,
+        "word": "花165万买到了北京150平米的老破大",
+        "onboard_time": 1747208424,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6303,
+        "num": 212430,
+        "word": "跨界经历如何影响魏如萱夺奖",
+        "onboard_time": 1747222281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7484,
+        "num": 207333,
+        "word": "Grace的翻唱经历如何助力歌手舞台",
+        "onboard_time": 1747221382,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1833203,
+        "num": 204920,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239333,
+        "num": 199236,
+        "word": "沈梦辰时隔12年气质变化",
+        "onboard_time": 1747221563,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 198361,
+        "word": "女硕士失踪13年生育两孩案家属发声",
+        "onboard_time": 1747219882,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173044,
+        "num": 173044,
+        "word": "樊振东吃冠军灶",
+        "onboard_time": 1747219341,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158613,
+        "num": 158613,
+        "word": "曝iPhone18Pro将配屏下FaceID",
+        "onboard_time": 1747219162,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 157125,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 63392,
+        "num": 153209,
+        "word": "普京爆粗口后道歉",
+        "onboard_time": 1747222341,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24314,
+        "num": 150616,
+        "word": "一个很好训练表达能力的小方法",
+        "onboard_time": 1747221382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150160,
+        "num": 150160,
+        "word": "闫桉素颜直播帅成这样",
+        "onboard_time": 1747220362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157069,
+        "num": 149839,
+        "word": "偶遇鹿晗东京吃拉面",
+        "onboard_time": 1747213522,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149000,
+        "num": 149000,
+        "word": "中方对美芬太尼反制仍然有效",
+        "onboard_time": 1747215143,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146389,
+        "num": 146389,
+        "word": "大学生曝宿舍男厕便池藏偷摄像头",
+        "onboard_time": 1747212504,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141448,
+        "num": 141448,
+        "word": "墨雨云间优酷拉新榜TOP1",
+        "onboard_time": 1747222462,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135732,
+        "num": 135732,
+        "word": "葛夕黄圣依一起学潜水",
+        "onboard_time": 1747221502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142858,
+        "num": 132895,
+        "word": "朱正廷发文痛斥私生",
+        "onboard_time": 1747217543,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 132295,
+        "word": "12岁女孩不知情欠债250万成老赖",
+        "onboard_time": 1747216102,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "孔雪儿一出场让我忘了王妃的善良",
+        "onboard_time": 1747219162,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128317,
+        "num": 128317,
+        "word": "王者荣耀流水再创历史新高",
+        "onboard_time": 1747222341,
+        "rank": 39,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 1442654,
+        "num": 127529,
+        "word": "折腰",
+        "onboard_time": 1747218922,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125726,
+        "num": 125726,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124582,
+        "num": 124582,
+        "word": "印议员称80小时损失950亿美元",
+        "onboard_time": 1747221264,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117327,
+        "num": 117327,
+        "word": "榜上佳婿",
+        "onboard_time": 1747221921,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 115559,
+        "word": "日本餐饮公司就拒绝接待中国人道歉",
+        "onboard_time": 1747210342,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110182,
+        "num": 110182,
+        "word": "郑钦文积极备战萨巴伦卡",
+        "onboard_time": 1747221980,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103609,
+        "num": 103609,
+        "word": "何炅吴昕同框就不缺名场面",
+        "onboard_time": 1747222521,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100727,
+        "num": 100727,
+        "word": "官方回应小伙为救同学放弃考试",
+        "onboard_time": 1747211903,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 7717,
+        "num": 100365,
+        "word": "京东这么宠张艺兴的嘛",
+        "onboard_time": 1747222462,
+        "rank": 48,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 113239,
+        "num": 100086,
+        "word": "歌手发布会",
+        "onboard_time": 1747199187,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见智利总统#"
+    }
+  }
+}
