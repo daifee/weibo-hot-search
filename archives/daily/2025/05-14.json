@@ -1,21 +1,21 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747194958448,
+  "endTime": 1747197051062,
   "band_list": [
+    {
+      "raw_hot": 2101720,
+      "num": 2101720,
+      "word": "浪还在琴没了",
+      "onboard_time": 1747193241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1388125,
       "num": 1388125,
       "word": "同学的生命只有一次",
       "onboard_time": 1747190541,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1374548,
-      "num": 1374548,
-      "word": "浪还在琴没了",
-      "onboard_time": 1747193241,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -72,6 +72,22 @@
       "word": "杜淳妻子自曝当不了演员的原因",
       "onboard_time": 1747150221,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774692,
+      "num": 774692,
+      "word": "多次拒绝吴彦祖",
+      "onboard_time": 1747193841,
+      "rank": 6,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 771972,
+      "num": 380140,
+      "word": "姜妍说第一次被叫小姨还不太理解",
+      "onboard_time": 1747194562,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591784,
+      "num": 362946,
+      "word": "黄金",
+      "onboard_time": 1747193961,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 579329,
       "num": 579329,
       "word": "刘晓庆的翡翠好大",
@@ -163,20 +187,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 515115,
+      "num": 515115,
+      "word": "美媒称美鸡爪痛失中国市场",
+      "onboard_time": 1747194142,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 511774,
       "num": 511774,
       "word": "单依纯歌手 珠玉",
       "onboard_time": 1747180040,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 499772,
-      "num": 484893,
-      "word": "多次拒绝吴彦祖",
-      "onboard_time": 1747193841,
-      "rank": 6,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 470333,
@@ -193,6 +217,14 @@
       "onboard_time": 1747134621,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 452281,
+      "num": 452281,
+      "word": "赵樱子回怼",
+      "onboard_time": 1747193425,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 442617,
@@ -225,6 +257,14 @@
       "onboard_time": 1747191980,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405038,
+      "num": 361598,
+      "word": "宋浩然回应韩安冉怀三胎",
+      "onboard_time": 1747195942,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 396724,
@@ -283,20 +323,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363881,
-      "num": 363881,
-      "word": "姜妍说第一次被叫小姨还不太理解",
-      "onboard_time": 1747194562,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362367,
       "num": 321754,
       "word": "医生晒出18颗一模一样胆结石",
       "onboard_time": 1747177938,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356477,
+      "num": 356477,
+      "word": "韩国93岁女校长回应保持童颜",
+      "onboard_time": 1747195703,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 351019,
@@ -315,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339150,
+      "num": 339150,
+      "word": "怪不得老一辈都喜欢生小孩",
+      "onboard_time": 1747195102,
+      "rank": 27,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 336782,
       "num": 336782,
       "word": "比尔盖茨财富清零",
@@ -331,20 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331008,
-      "num": 331008,
-      "word": "黄金",
-      "onboard_time": 1747193961,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 330698,
-      "num": 395283,
-      "word": "赵樱子回怼",
-      "onboard_time": 1747193425,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 321781,
+      "num": 321781,
+      "word": "TFBOYS发文为王俊凯配音打call",
+      "onboard_time": 1747195884,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 312359,
@@ -379,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289860,
+      "num": 289860,
+      "word": "cp31还没开票",
+      "onboard_time": 1747196364,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 278336,
       "num": 269525,
       "word": "西北大学回应副校长成陕西首富",
@@ -403,8 +451,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254108,
+      "num": 254108,
+      "word": "月薪6000如何过出两万的气势",
+      "onboard_time": 1747194021,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250148,
-      "num": 250148,
+      "num": 298293,
       "word": "戛纳红毯上的中国艺人",
       "onboard_time": 1747194262,
       "rank": 29,
@@ -419,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244105,
+      "num": 358467,
+      "word": "李艺彤票数",
+      "onboard_time": 1747195823,
+      "rank": 22,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 237128,
       "num": 237128,
       "word": "LPL 宫斗",
@@ -427,12 +491,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 228519,
-      "num": 228519,
-      "word": "月薪6000如何过出两万的气势",
-      "onboard_time": 1747194021,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 228741,
+      "num": 228741,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1747194862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228532,
+      "num": 228532,
+      "word": "代孕",
+      "onboard_time": 1747193781,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224375,
@@ -475,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203421,
+      "num": 203421,
+      "word": "nana民宿",
+      "onboard_time": 1747196723,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202810,
       "num": 329870,
       "word": "步行者淘汰骑士",
@@ -515,20 +595,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198430,
+      "num": 382898,
+      "word": "浪琴回应网友购入手表后其表盘丢失",
+      "onboard_time": 1747196244,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197158,
       "num": 261442,
       "word": "迪丽热巴支持折腰",
       "onboard_time": 1747177879,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194032,
-      "num": 194032,
-      "word": "代孕",
-      "onboard_time": 1747193781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189365,
@@ -553,6 +633,14 @@
       "onboard_time": 1747188629,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186756,
+      "num": 342776,
+      "word": "高圆圆的长颈鹿是从两元店淘的吧",
+      "onboard_time": 1747196782,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 183090,
@@ -595,6 +683,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177589,
+      "num": 392967,
+      "word": "残障女孩被撞死火车站说最多赔9万",
+      "onboard_time": 1747194021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177257,
+      "num": 177257,
+      "word": "雷霆逆转掘金",
+      "onboard_time": 1747196963,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177091,
+      "num": 177091,
+      "word": "建议天天保持过年的仪式感",
+      "onboard_time": 1747196244,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 174635,
       "num": 226912,
       "word": "垃圾睡眠的伤害有多大",
@@ -627,11 +739,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166129,
-      "num": 166129,
-      "word": "掘金vs雷霆",
-      "onboard_time": 1747194862,
-      "rank": 43,
+      "raw_hot": 166115,
+      "num": 166115,
+      "word": "月入2千活得像月入2万",
+      "onboard_time": 1747195222,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166027,
+      "num": 339462,
+      "word": "樊振东和波尔有个新约定",
+      "onboard_time": 1747196123,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -649,6 +769,14 @@
       "onboard_time": 1747191141,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158532,
+      "num": 371266,
+      "word": "京东国补更便宜",
+      "onboard_time": 1747195403,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 156075,
@@ -716,7 +844,7 @@
     },
     {
       "raw_hot": 142729,
-      "num": 742805,
+      "num": 873817,
       "word": "外国航司狂接中国游流量",
       "onboard_time": 1747144042,
       "rank": 2,
@@ -793,6 +921,14 @@
       "onboard_time": 1747179500,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131368,
+      "num": 332139,
+      "word": "发了offer催离职又反悔公司判赔3.4万",
+      "onboard_time": 1747196782,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129764,
@@ -1011,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87131,
+      "num": 218297,
+      "word": "男大学生洗衣翻车白衣服全变芭比粉",
+      "onboard_time": 1747196545,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86646,
       "num": 86646,
       "word": "海陆看秀状态",
@@ -1123,14 +1267,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 67110,
-      "num": 407556,
-      "word": "美媒称美鸡爪痛失中国市场",
-      "onboard_time": 1747194142,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65918,
       "num": 71181,
       "word": "卖便宜零食还是一门好生意吗",
@@ -1227,12 +1363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43794,
-      "num": 392967,
-      "word": "残障女孩被撞死火车站说最多赔9万",
-      "onboard_time": 1747194021,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 43501,
+      "num": 374352,
+      "word": "美专家分析美政府迅速让步原因",
+      "onboard_time": 1747196545,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43316,
@@ -1315,6 +1451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31967,
+      "num": 368003,
+      "word": "藏海传权谋复仇有哪些看点",
+      "onboard_time": 1747196182,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30457,
       "num": 170197,
       "word": "歼10首飞成功的现场影像",
@@ -1329,6 +1473,14 @@
       "onboard_time": 1747160476,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29724,
+      "num": 366721,
+      "word": "妈妈谈3岁男童治疗兽皮痣近况",
+      "onboard_time": 1747196244,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29513,
