@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747179517986,
+  "endTime": 1747187857925,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334576,
+      "num": 333717,
+      "word": "韩安冉三胎是双胞胎",
+      "onboard_time": 1747179861,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1306700,
       "num": 1306700,
       "word": "缅甸7.9级地震地表位移画面首曝光",
@@ -489,6 +497,14 @@
       "onboard_time": 1747129823,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1059282,
+      "num": 1169485,
+      "word": "前夫受贿千万女局长心理扭曲开始敛财",
+      "onboard_time": 1747182384,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1058705,
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 804355,
-      "num": 300615,
+      "num": 330058,
       "word": "杜淳妻子自曝当不了演员的原因",
       "onboard_time": 1747150221,
       "rank": 21,
@@ -937,6 +953,14 @@
       "onboard_time": 1746877581,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 690701,
+      "num": 332454,
+      "word": "防偷窥聊天背景图",
+      "onboard_time": 1747181783,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 688338,
@@ -1203,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 598501,
+      "num": 330338,
+      "word": "黄子韬给徐艺洋发了一堆表情",
+      "onboard_time": 1747181541,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595671,
       "num": 595671,
       "word": "三姐妹因赡养老人闹矛盾仨女婿被刑拘",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1747039104,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 511774,
+      "num": 511774,
+      "word": "单依纯歌手 珠玉",
+      "onboard_time": 1747180040,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 508201,
@@ -1819,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431018,
+      "num": 431018,
+      "word": "赵樱子戛纳镂空碎钻裙造型",
+      "onboard_time": 1747186169,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430816,
       "num": 430816,
       "word": "国补版iPhone16Pro被抢空",
@@ -1923,6 +1971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411260,
+      "num": 411260,
+      "word": "哪吒汽车被申请破产",
+      "onboard_time": 1747186649,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 408418,
       "num": 408418,
       "word": "上官正义曝别墅代孕后接到神秘电话",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1747115121,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396724,
+      "num": 396724,
+      "word": "美国和沙特签署上千亿美元军售协议",
+      "onboard_time": 1747177879,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 396328,
@@ -2147,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371797,
+      "num": 371797,
+      "word": "折腰原著",
+      "onboard_time": 1747181062,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371029,
       "num": 284511,
       "word": "花75万采购299元产品高校已终止采购",
@@ -2185,6 +2257,14 @@
       "onboard_time": 1746930501,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365974,
+      "num": 322876,
+      "word": "女生晒出养了三年的酵母",
+      "onboard_time": 1747187070,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365061,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1747131501,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362367,
+      "num": 321754,
+      "word": "医生晒出18颗一模一样胆结石",
+      "onboard_time": 1747177938,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361042,
@@ -2387,12 +2475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334856,
+      "num": 334856,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334821,
       "num": 317755,
       "word": "折腰预告",
       "onboard_time": 1747103961,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334320,
+      "num": 328102,
+      "word": "梁庭cp官宣",
+      "onboard_time": 1747186110,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 333752,
@@ -2425,6 +2529,14 @@
       "onboard_time": 1747062623,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 329036,
+      "num": 329036,
+      "word": "黄蓉扮演者翁美玲去世40周年",
+      "onboard_time": 1747186231,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 327695,
@@ -2603,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307320,
+      "num": 307320,
+      "word": "李现回复刘亦菲谢谢红豆",
+      "onboard_time": 1747182321,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306800,
       "num": 306800,
       "word": "母亲节快乐",
@@ -2731,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290275,
+      "num": 290275,
+      "word": "戛纳红毯",
+      "onboard_time": 1747179560,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287592,
       "num": 287592,
       "word": "世界突然开始以和为贵",
@@ -2843,20 +2971,20 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 270806,
-      "num": 270806,
-      "word": "美国和沙特签署上千亿美元军售协议",
-      "onboard_time": 1747177879,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 269571,
       "num": 463667,
       "word": "谢娜谈三个女儿性格",
       "onboard_time": 1747018462,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268411,
+      "num": 268411,
+      "word": "日本15岁男孩当街杀死8旬老妇",
+      "onboard_time": 1747184491,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 268250,
@@ -3291,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237128,
+      "num": 237128,
+      "word": "LPL 宫斗",
+      "onboard_time": 1747185392,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236934,
       "num": 399840,
       "word": "粉色张艺兴",
@@ -3337,14 +3473,6 @@
       "onboard_time": 1746939441,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230758,
-      "num": 230758,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229260,
@@ -3403,6 +3531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224375,
+      "num": 224375,
+      "word": "折腰开播指数",
+      "onboard_time": 1747187070,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223898,
       "num": 223898,
       "word": "西方国家很多人睡不着觉了",
@@ -3433,6 +3569,14 @@
       "onboard_time": 1747118004,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223370,
+      "num": 223370,
+      "word": "美沙讨论是否允许沙特购买F35战机",
+      "onboard_time": 1747181421,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223188,
@@ -3577,14 +3721,6 @@
       "onboard_time": 1747038083,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217413,
-      "num": 126513,
-      "word": "医生晒出18颗一模一样胆结石",
-      "onboard_time": 1747177938,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217279,
@@ -3793,6 +3929,14 @@
       "onboard_time": 1746934161,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207758,
+      "num": 207758,
+      "word": "5种素菜其实是吸油大户",
+      "onboard_time": 1747181421,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207672,
@@ -4452,7 +4596,7 @@
     },
     {
       "raw_hot": 188481,
-      "num": 188481,
+      "num": 325567,
       "word": "河南5名干部违规吃喝饮酒1人死亡",
       "onboard_time": 1747150161,
       "rank": 47,
@@ -4849,6 +4993,14 @@
       "onboard_time": 1747106600,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 177721,
+      "num": 177721,
+      "word": "歌手彩排",
+      "onboard_time": 1747180099,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 177302,
@@ -6011,6 +6163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152537,
+      "num": 152537,
+      "word": "站姐发了赵磊出发婚礼路透",
+      "onboard_time": 1747183950,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152145,
       "num": 152145,
       "word": "王者荣耀",
@@ -6025,6 +6185,14 @@
       "onboard_time": 1747032081,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151847,
+      "num": 323332,
+      "word": "NBA计划扩至32队",
+      "onboard_time": 1747185149,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 151740,
@@ -6403,6 +6571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142729,
+      "num": 986527,
+      "word": "外国航司狂接中国游流量",
+      "onboard_time": 1747144042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142709,
       "num": 142709,
       "word": "吃粽子吃出带血创可贴事件最新进展",
@@ -6475,14 +6651,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 141588,
-      "num": 986527,
-      "word": "外国航司狂接中国游流量",
-      "onboard_time": 1747144042,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141577,
       "num": 232661,
       "word": "邱贻可回应与马龙两代人",
@@ -6497,6 +6665,14 @@
       "onboard_time": 1747111582,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "男孩把三角尺塞进嘴中被卡",
+      "onboard_time": 1747186649,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141146,
@@ -6859,6 +7035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135763,
+      "num": 135763,
+      "word": "刘晓庆戛纳红毯",
+      "onboard_time": 1747182511,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135631,
       "num": 135631,
       "word": "人生若如初见开播口碑",
@@ -6881,6 +7065,14 @@
       "onboard_time": 1747010782,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135298,
+      "num": 135298,
+      "word": "哪吒敖丙配音演员登上戛纳红毯",
+      "onboard_time": 1747187490,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 135172,
@@ -7019,12 +7211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "被清朝古偶宫斗剧骗了",
+      "onboard_time": 1747187249,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133716,
       "num": 308229,
       "word": "音乐人韩贤光病逝",
       "onboard_time": 1747017202,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133340,
+      "num": 133340,
+      "word": "龚俊戛纳拖地长风衣",
+      "onboard_time": 1747182811,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 133302,
@@ -7337,6 +7545,14 @@
       "onboard_time": 1747123942,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127713,
+      "num": 127713,
+      "word": "特朗普将取消对叙利亚制裁",
+      "onboard_time": 1747183592,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127695,
@@ -8003,6 +8219,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 116173,
+      "num": 116173,
+      "word": "步行者vs骑士",
+      "onboard_time": 1747183352,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116076,
       "num": 117470,
       "word": "女子痴迷暗器改手镯为袖箭",
@@ -8016,6 +8240,14 @@
       "word": "英媒将巴空军称为空中之王",
       "onboard_time": 1747023743,
       "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 115807,
+      "num": 115807,
+      "word": "印巴空战后日网友刷新认知",
+      "onboard_time": 1747180401,
+      "rank": 45,
       "category": "国际时政,民生新闻"
     },
     {
@@ -8259,6 +8491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112010,
+      "num": 112010,
+      "word": "女生择偶不同阶层分析",
+      "onboard_time": 1747182203,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111723,
       "num": 111723,
       "word": "阿那亚偶遇张柏芝",
@@ -8299,6 +8539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "福宝排黏液",
+      "onboard_time": 1747187790,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110989,
       "num": 110989,
       "word": "沈月一笑就知道她又嗑到了",
@@ -8313,6 +8561,14 @@
       "onboard_time": 1747044322,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110661,
+      "num": 144749,
+      "word": "加压水塔突然爆炸家中3人被冲懵",
+      "onboard_time": 1747185091,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110527,
@@ -8561,6 +8817,14 @@
       "onboard_time": 1747136422,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104129,
+      "num": 104129,
+      "word": "美国20个州起诉联邦政府",
+      "onboard_time": 1747181240,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104107,
@@ -12089,6 +12353,14 @@
       "onboard_time": 1747135940,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8693,
+      "num": 135457,
+      "word": "歼10首飞成功的现场影像",
+      "onboard_time": 1747187729,
+      "rank": 39,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 8545,

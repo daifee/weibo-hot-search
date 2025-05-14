@@ -1,7 +1,15 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747179517986,
+  "endTime": 1747187857925,
   "band_list": [
+    {
+      "raw_hot": 1334576,
+      "num": 333717,
+      "word": "韩安冉三胎是双胞胎",
+      "onboard_time": 1747179861,
+      "rank": 10,
+      "category": "网红"
+    },
     {
       "raw_hot": 1305107,
       "num": 1305107,
@@ -11,8 +19,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1059282,
+      "num": 1169485,
+      "word": "前夫受贿千万女局长心理扭曲开始敛财",
+      "onboard_time": 1747182384,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804355,
-      "num": 300615,
+      "num": 330058,
       "word": "杜淳妻子自曝当不了演员的原因",
       "onboard_time": 1747150221,
       "rank": 11,
@@ -20,26 +36,74 @@
     },
     {
       "raw_hot": 723466,
-      "num": 298692,
+      "num": 326749,
       "word": "贾玲近照又瘦了",
       "onboard_time": 1747143622,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 690701,
+      "num": 332454,
+      "word": "防偷窥聊天背景图",
+      "onboard_time": 1747181783,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 681045,
-      "num": 322165,
+      "num": 406087,
       "word": "京东美团饿了么等外卖平台被约谈",
       "onboard_time": 1747136661,
       "rank": 5,
       "category": "互联网"
     },
     {
+      "raw_hot": 598501,
+      "num": 330338,
+      "word": "黄子韬给徐艺洋发了一堆表情",
+      "onboard_time": 1747181541,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 511774,
+      "num": 511774,
+      "word": "单依纯歌手 珠玉",
+      "onboard_time": 1747180040,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453099,
-      "num": 317572,
+      "num": 337538,
       "word": "特朗普突然提统一吓坏台当局",
       "onboard_time": 1747134621,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 431018,
+      "num": 431018,
+      "word": "赵樱子戛纳镂空碎钻裙造型",
+      "onboard_time": 1747186169,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 411260,
+      "num": 411260,
+      "word": "哪吒汽车被申请破产",
+      "onboard_time": 1747186649,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 396724,
+      "num": 396724,
+      "word": "美国和沙特签署上千亿美元军售协议",
+      "onboard_time": 1747177879,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -75,6 +139,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371797,
+      "num": 371797,
+      "word": "折腰原著",
+      "onboard_time": 1747181062,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 365974,
+      "num": 322876,
+      "word": "女生晒出养了三年的酵母",
+      "onboard_time": 1747187070,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362367,
+      "num": 321754,
+      "word": "医生晒出18颗一模一样胆结石",
+      "onboard_time": 1747177938,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349324,
+      "num": 319469,
+      "word": "北京冰雹",
+      "onboard_time": 1747139241,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336782,
       "num": 336782,
       "word": "比尔盖茨财富清零",
@@ -83,12 +179,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 312011,
-      "num": 155645,
-      "word": "北京冰雹",
-      "onboard_time": 1747139241,
-      "rank": 20,
+      "raw_hot": 334856,
+      "num": 334856,
+      "word": "为什么我们的衣服越来越难买了",
+      "onboard_time": 1747151181,
+      "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334320,
+      "num": 328102,
+      "word": "梁庭cp官宣",
+      "onboard_time": 1747186110,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329036,
+      "num": 329036,
+      "word": "黄蓉扮演者翁美玲去世40周年",
+      "onboard_time": 1747186231,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307320,
+      "num": 307320,
+      "word": "李现回复刘亦菲谢谢红豆",
+      "onboard_time": 1747182321,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 298881,
@@ -99,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 290275,
+      "num": 290275,
+      "word": "戛纳红毯",
+      "onboard_time": 1747179560,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 278336,
       "num": 269525,
       "word": "西北大学回应副校长成陕西首富",
@@ -107,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270806,
-      "num": 270806,
-      "word": "美国和沙特签署上千亿美元军售协议",
-      "onboard_time": 1747177879,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 268411,
+      "num": 268411,
+      "word": "日本15岁男孩当街杀死8旬老妇",
+      "onboard_time": 1747184491,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260340,
@@ -131,12 +259,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230758,
-      "num": 230758,
-      "word": "为什么我们的衣服越来越难买了",
-      "onboard_time": 1747151181,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 237128,
+      "num": 237128,
+      "word": "LPL 宫斗",
+      "onboard_time": 1747185392,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 224375,
+      "num": 224375,
+      "word": "折腰开播指数",
+      "onboard_time": 1747187070,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223370,
+      "num": 223370,
+      "word": "美沙讨论是否允许沙特购买F35战机",
+      "onboard_time": 1747181421,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 218791,
@@ -147,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217413,
-      "num": 126513,
-      "word": "医生晒出18颗一模一样胆结石",
-      "onboard_time": 1747177938,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 207758,
+      "num": 207758,
+      "word": "5种素菜其实是吸油大户",
+      "onboard_time": 1747181421,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202028,
@@ -172,7 +316,7 @@
     },
     {
       "raw_hot": 188481,
-      "num": 188481,
+      "num": 325567,
       "word": "河南5名干部违规吃喝饮酒1人死亡",
       "onboard_time": 1747150161,
       "rank": 35,
@@ -195,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177721,
+      "num": 177721,
+      "word": "歌手彩排",
+      "onboard_time": 1747180099,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168062,
       "num": 168062,
       "word": "李现关注了刘亦菲",
@@ -203,12 +355,76 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152537,
+      "num": 152537,
+      "word": "站姐发了赵磊出发婚礼路透",
+      "onboard_time": 1747183950,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151847,
+      "num": 323332,
+      "word": "NBA计划扩至32队",
+      "onboard_time": 1747185149,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142729,
+      "num": 443793,
+      "word": "外国航司狂接中国游流量",
+      "onboard_time": 1747144042,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141661,
       "num": 141661,
       "word": "邱淑贞带两个女儿同游西安",
       "onboard_time": 1747173014,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "男孩把三角尺塞进嘴中被卡",
+      "onboard_time": 1747186649,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135763,
+      "num": 135763,
+      "word": "刘晓庆戛纳红毯",
+      "onboard_time": 1747182511,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 135298,
+      "num": 135298,
+      "word": "哪吒敖丙配音演员登上戛纳红毯",
+      "onboard_time": 1747187490,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "被清朝古偶宫斗剧骗了",
+      "onboard_time": 1747187249,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133340,
+      "num": 133340,
+      "word": "龚俊戛纳拖地长风衣",
+      "onboard_time": 1747182811,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 132531,
@@ -225,6 +441,14 @@
       "onboard_time": 1747133361,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127713,
+      "num": 127713,
+      "word": "特朗普将取消对叙利亚制裁",
+      "onboard_time": 1747183592,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126497,
@@ -267,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116173,
+      "num": 116173,
+      "word": "步行者vs骑士",
+      "onboard_time": 1747183352,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115807,
+      "num": 115807,
+      "word": "印巴空战后日网友刷新认知",
+      "onboard_time": 1747180401,
+      "rank": 45,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 114996,
       "num": 114996,
       "word": "官方通报珠海发生旋挖桩机倾倒事件",
@@ -275,12 +515,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112010,
+      "num": 112010,
+      "word": "女生择偶不同阶层分析",
+      "onboard_time": 1747182203,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111570,
       "num": 111570,
       "word": "刘宇宁谢谢开推包场折腰",
       "onboard_time": 1747152320,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111162,
+      "num": 111162,
+      "word": "福宝排黏液",
+      "onboard_time": 1747187790,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110661,
+      "num": 144749,
+      "word": "加压水塔突然爆炸家中3人被冲懵",
+      "onboard_time": 1747185091,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110345,
@@ -307,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104129,
+      "num": 104129,
+      "word": "美国20个州起诉联邦政府",
+      "onboard_time": 1747181240,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104100,
       "num": 134128,
       "word": "李现人缘",
       "onboard_time": 1747165334,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95595,
-      "num": 346605,
-      "word": "外国航司狂接中国游流量",
-      "onboard_time": 1747144042,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95262,
@@ -713,6 +977,14 @@
       "onboard_time": 1747167614,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 8693,
+      "num": 135457,
+      "word": "歼10首飞成功的现场影像",
+      "onboard_time": 1747187729,
+      "rank": 39,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 8545,
