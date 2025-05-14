@@ -1,0 +1,410 @@
+{
+  "runTime": 1747233825316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260340,
+        "num": 1260340,
+        "word": "中国乒协辟谣刘国梁被抓",
+        "onboard_time": 1747232124,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 742442,
+        "num": 742442,
+        "word": "蒲熠星撕拉片失败了",
+        "onboard_time": 1747222882,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56753,
+        "num": 735357,
+        "word": "全球清洁能源发展的中国方案",
+        "onboard_time": 1747228582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 938866,
+        "num": 735228,
+        "word": "金价",
+        "onboard_time": 1747230443,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 731732,
+        "num": 731732,
+        "word": "刘国梁联合国参加活动",
+        "onboard_time": 1747229842,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532098,
+        "num": 532098,
+        "word": "强奸前科教师被曝出狱后办教培",
+        "onboard_time": 1747227443,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450569,
+        "num": 450569,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1747227982,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 443052,
+        "num": 443052,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 416555,
+        "num": 416555,
+        "word": "马龙和家人现身CBA总决赛",
+        "onboard_time": 1747227804,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278520,
+        "num": 403511,
+        "word": "义乌商家清早接到30万双袜子大单",
+        "onboard_time": 1747230502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1369298,
+        "num": 399139,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394127,
+        "num": 394127,
+        "word": "王一博周深的歌入选2024优秀歌曲",
+        "onboard_time": 1747230023,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 837073,
+        "num": 393037,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855552,
+        "num": 392404,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821608,
+        "num": 390021,
+        "word": "杨天真跺脚变装好瘦",
+        "onboard_time": 1747228703,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489988,
+        "num": 388796,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410568,
+        "num": 386601,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621297,
+        "num": 384684,
+        "word": "周柯宇发长文",
+        "onboard_time": 1747227862,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78807,
+        "num": 382702,
+        "word": "彭楚粤出发赵磊婚礼",
+        "onboard_time": 1747233203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263409,
+        "num": 381447,
+        "word": "娃哈哈客服回应纯净水由今麦郎代工",
+        "onboard_time": 1747232363,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1738061,
+        "num": 378721,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378711,
+        "num": 378711,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287843,
+        "num": 287843,
+        "word": "杜海涛都没见过沈梦辰的这一面",
+        "onboard_time": 1747230264,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274656,
+        "num": 274656,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215287,
+        "num": 215287,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32912,
+        "num": 210199,
+        "word": "律师解读订婚强奸案入选最高法案例",
+        "onboard_time": 1747233563,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209096,
+        "num": 209096,
+        "word": "GOING SEVENTEEN",
+        "onboard_time": 1747233323,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202340,
+        "num": 202340,
+        "word": "邓科 林玉芬",
+        "onboard_time": 1747228282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194258,
+        "num": 194258,
+        "word": "沈月路透",
+        "onboard_time": 1747231582,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168434,
+        "num": 189524,
+        "word": "小乔发烧 魏劭抱她淋雨",
+        "onboard_time": 1747229062,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230788,
+        "num": 189496,
+        "word": "杨天真瘦成不穿大码女装的样子了",
+        "onboard_time": 1747233024,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216484,
+        "num": 189494,
+        "word": "月子中心的秘密",
+        "onboard_time": 1747233143,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 189457,
+        "word": "官方回应鄂州车祸情况",
+        "onboard_time": 1747231044,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179199,
+        "num": 179199,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169860,
+        "num": 169860,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159614,
+        "num": 159614,
+        "word": "突然能理解古人笔下的浮光跃金了",
+        "onboard_time": 1747232603,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 158124,
+        "word": "刘宇宁抱狗看折腰",
+        "onboard_time": 1747229842,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155803,
+        "num": 155803,
+        "word": "袁咏仪直到45岁前都很想生女儿",
+        "onboard_time": 1747228162,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150744,
+        "num": 150744,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148127,
+        "num": 148127,
+        "word": "向佐采访谈和郭碧婷结婚六年",
+        "onboard_time": 1747230742,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "pgs全球系列赛",
+        "onboard_time": 1747233503,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142384,
+        "num": 142384,
+        "word": "腾讯一季度收入1800.22亿",
+        "onboard_time": 1747229242,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142114,
+        "num": 142114,
+        "word": "陈丽君西湖长桥执扇唱越剧",
+        "onboard_time": 1747228102,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140952,
+        "num": 140952,
+        "word": "孙俪回应甄嬛生日",
+        "onboard_time": 1747233444,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126160,
+        "num": 126160,
+        "word": "章若楠直播",
+        "onboard_time": 1747231463,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126066,
+        "num": 126066,
+        "word": "脊柱最讨厌的4个坐姿",
+        "onboard_time": 1747224383,
+        "rank": 45,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 121856,
+        "num": 121856,
+        "word": "东极岛",
+        "onboard_time": 1747233623,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121570,
+        "num": 121570,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118574,
+        "num": 118574,
+        "word": "张云龙咻一下就滑出来了",
+        "onboard_time": 1747230443,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114342,
+        "num": 114342,
+        "word": "娃哈哈纯净水显示今麦郎生产",
+        "onboard_time": 1747233804,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席为中拉命运共同体谱写新篇章#"
+    }
+  }
+}

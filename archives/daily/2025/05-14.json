@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747232787622,
+  "endTime": 1747233825316,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1260340,
+      "num": 1260340,
+      "word": "中国乒协辟谣刘国梁被抓",
+      "onboard_time": 1747232124,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1192904,
       "num": 283848,
       "word": "内衣终于癫成了我不认识的样子",
@@ -185,6 +193,14 @@
       "onboard_time": 1747212504,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 938866,
+      "num": 735228,
+      "word": "金价",
+      "onboard_time": 1747230443,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 933594,
@@ -331,14 +347,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 604719,
-      "num": 604719,
-      "word": "金价",
-      "onboard_time": 1747230443,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 600591,
       "num": 600591,
       "word": "强奸前科教师被曝出狱后办教培",
@@ -385,14 +393,6 @@
       "onboard_time": 1747193180,
       "rank": 33,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 570741,
-      "num": 570741,
-      "word": "中国乒协辟谣刘国梁被抓",
-      "onboard_time": 1747232124,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 568102,
@@ -891,12 +891,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 287843,
+      "num": 287843,
+      "word": "杜海涛都没见过沈梦辰的这一面",
+      "onboard_time": 1747230264,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282093,
       "num": 282093,
       "word": "只有张凌赫和迪丽热巴回答一样",
       "onboard_time": 1747223843,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278520,
+      "num": 403511,
+      "word": "义乌商家清早接到30万双袜子大单",
+      "onboard_time": 1747230502,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278336,
@@ -921,6 +937,14 @@
       "onboard_time": 1747184491,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 263409,
+      "num": 381447,
+      "word": "娃哈哈客服回应纯净水由今麦郎代工",
+      "onboard_time": 1747232363,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260340,
@@ -1027,14 +1051,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 239791,
-      "num": 239791,
-      "word": "杜海涛都没见过沈梦辰的这一面",
-      "onboard_time": 1747230264,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239333,
       "num": 199236,
       "word": "沈梦辰时隔12年气质变化",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1747210524,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 230788,
+      "num": 189496,
+      "word": "杨天真瘦成不穿大码女装的样子了",
+      "onboard_time": 1747233024,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 228741,
@@ -1203,6 +1227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 216484,
+      "num": 189494,
+      "word": "月子中心的秘密",
+      "onboard_time": 1747233143,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216069,
       "num": 830387,
       "word": "我国成功发射太空计算卫星星座",
@@ -1243,6 +1275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 209096,
+      "num": 209096,
+      "word": "GOING SEVENTEEN",
+      "onboard_time": 1747233323,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208713,
       "num": 297417,
       "word": "赖清德称和日本感情像家人被严斥",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1747193781,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206103,
-      "num": 206103,
-      "word": "义乌商家清早接到30万双袜子大单",
-      "onboard_time": 1747230502,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206074,
@@ -1467,6 +1499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194258,
+      "num": 194258,
+      "word": "沈月路透",
+      "onboard_time": 1747231582,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193807,
       "num": 193807,
       "word": "奇谷米",
@@ -1515,12 +1555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189936,
-      "num": 189936,
-      "word": "沈月路透",
-      "onboard_time": 1747231582,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 189457,
+      "num": 462002,
+      "word": "官方回应鄂州车祸情况",
+      "onboard_time": 1747231044,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189365,
@@ -1611,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179199,
+      "num": 213102,
+      "word": "女子海底捞母婴室哺乳遭员工开门",
+      "onboard_time": 1747229662,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178436,
       "num": 155335,
       "word": "单依纯新歌珠玉",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1747196244,
       "rank": 44,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 176830,
-      "num": 462002,
-      "word": "官方回应鄂州车祸情况",
-      "onboard_time": 1747231044,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176819,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1747192760,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173244,
-      "num": 213102,
-      "word": "女子海底捞母婴室哺乳遭员工开门",
-      "onboard_time": 1747229662,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172113,
@@ -2147,14 +2179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145978,
-      "num": 145978,
-      "word": "娃哈哈客服回应纯净水由今麦郎代工",
-      "onboard_time": 1747232363,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143940,
       "num": 172300,
       "word": "金价止跌回升",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1747204163,
       "rank": 28,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 143810,
+      "num": 143810,
+      "word": "pgs全球系列赛",
+      "onboard_time": 1747233503,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 143455,
@@ -2217,6 +2249,14 @@
       "onboard_time": 1747202725,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140952,
+      "num": 140952,
+      "word": "孙俪回应甄嬛生日",
+      "onboard_time": 1747233444,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 140320,
@@ -2531,6 +2571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121856,
+      "num": 121856,
+      "word": "东极岛",
+      "onboard_time": 1747233623,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121677,
       "num": 121677,
       "word": "网友食堂偶遇樊振东",
@@ -2640,6 +2688,14 @@
       "word": "官方通报珠海发生旋挖桩机倾倒事件",
       "onboard_time": 1747155678,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114342,
+      "num": 114342,
+      "word": "娃哈哈纯净水显示今麦郎生产",
+      "onboard_time": 1747233804,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3025,6 +3081,14 @@
       "onboard_time": 1747200505,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 78807,
+      "num": 382702,
+      "word": "彭楚粤出发赵磊婚礼",
+      "onboard_time": 1747233203,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 78698,
@@ -3539,6 +3603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32912,
+      "num": 210199,
+      "word": "律师解读订婚强奸案入选最高法案例",
+      "onboard_time": 1747233563,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31967,
       "num": 368003,
       "word": "藏海传权谋复仇有哪些看点",
@@ -4048,6 +4120,9 @@
     },
     {
       "word": "#推动中哥战略伙伴关系持续走深走实#"
+    },
+    {
+      "word": "#习主席为中拉命运共同体谱写新篇章#"
     }
   ]
 }
