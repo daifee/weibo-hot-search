@@ -1,0 +1,410 @@
+{
+  "runTime": 1747229768475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211540,
+        "num": 1211540,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 872784,
+        "num": 872784,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47904,
+        "num": 619400,
+        "word": "全球清洁能源发展的中国方案",
+        "onboard_time": 1747228582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 582208,
+        "num": 582208,
+        "word": "周柯宇发长文",
+        "onboard_time": 1747227862,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569226,
+        "num": 569226,
+        "word": "蒲熠星撕拉片失败了",
+        "onboard_time": 1747222882,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426082,
+        "num": 426082,
+        "word": "马龙和家人现身CBA总决赛",
+        "onboard_time": 1747227804,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500045,
+        "num": 400866,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444343,
+        "num": 391514,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1747227982,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 312485,
+        "num": 312485,
+        "word": "强奸前科教师被曝出狱后办教培",
+        "onboard_time": 1747227443,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305969,
+        "num": 305969,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1491453,
+        "num": 305361,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781032,
+        "num": 297968,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452890,
+        "num": 293492,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402273,
+        "num": 288134,
+        "word": "杨天真跺脚变装好瘦",
+        "onboard_time": 1747228703,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400175,
+        "num": 285103,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 278426,
+        "word": "哪吒敖丙配音戛纳亮相",
+        "onboard_time": 1747226843,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195311,
+        "num": 272522,
+        "word": "袁咏仪直到45岁前都很想生女儿",
+        "onboard_time": 1747228162,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139025,
+        "num": 268509,
+        "word": "五问火车穿村致19人身亡",
+        "onboard_time": 1747223122,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 12529,
+        "num": 266340,
+        "word": "张本对藏海传的解读有什么不同之处",
+        "onboard_time": 1747228582,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30400,
+        "num": 260899,
+        "word": "被泼汽油致残女孩一度放弃求生",
+        "onboard_time": 1747229302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380587,
+        "num": 256759,
+        "word": "邓科 林玉芬",
+        "onboard_time": 1747228282,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1621043,
+        "num": 250887,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247560,
+        "num": 247560,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230966,
+        "num": 230966,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213716,
+        "num": 213716,
+        "word": "脊柱最讨厌的4个坐姿",
+        "onboard_time": 1747224383,
+        "rank": 24,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 94069,
+        "num": 209246,
+        "word": "驻英使领馆提醒在英中国公民",
+        "onboard_time": 1747228822,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198663,
+        "num": 207955,
+        "word": "陈丽君西湖长桥执扇唱越剧",
+        "onboard_time": 1747228102,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 5095,
+        "num": 207160,
+        "word": "吴越梁母鉴镯暗藏哪些深层隐喻",
+        "onboard_time": 1747229542,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206895,
+        "num": 206895,
+        "word": "为救同学缺考小伙将参加副题考试",
+        "onboard_time": 1747218502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25277,
+        "num": 198285,
+        "word": "结婚证件简化更需强化责任意识",
+        "onboard_time": 1747227680,
+        "rank": 29,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "CBA",
+        "onboard_time": 1747229362,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186003,
+        "num": 186003,
+        "word": "只有张凌赫和迪丽热巴回答一样",
+        "onboard_time": 1747223843,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175693,
+        "num": 175693,
+        "word": "小乔发烧 魏劭抱她淋雨",
+        "onboard_time": 1747229062,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174155,
+        "num": 174155,
+        "word": "折腰热度破27000",
+        "onboard_time": 1747228522,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44620,
+        "num": 172220,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170441,
+        "num": 170441,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169792,
+        "num": 169792,
+        "word": "GAI的拉布布是布瑞吉给的",
+        "onboard_time": 1747228941,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167862,
+        "num": 167862,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157593,
+        "num": 157593,
+        "word": "女硕士失踪13年生育两孩案家属发声",
+        "onboard_time": 1747219882,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67981,
+        "num": 150933,
+        "word": "你一定不知道的蔬菜冷知识",
+        "onboard_time": 1747229542,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149618,
+        "num": 149618,
+        "word": "北京冰雹4S店损失惨重",
+        "onboard_time": 1747225643,
+        "rank": 40,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 142228,
+        "num": 142228,
+        "word": "撕拉片",
+        "onboard_time": 1747227621,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 141783,
+        "num": 141783,
+        "word": "k总发视频回应退网",
+        "onboard_time": 1747228222,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 133935,
+        "word": "印度议员讽刺莫迪买的战机脆弱不堪",
+        "onboard_time": 1747227082,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132058,
+        "num": 132058,
+        "word": "肖战藏海是成长型角色",
+        "onboard_time": 1747229662,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131328,
+        "num": 131328,
+        "word": "印度发现大型导弹残骸",
+        "onboard_time": 1747223362,
+        "rank": 45,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 130957,
+        "word": "腾讯一季度收入1800.22亿",
+        "onboard_time": 1747229242,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127069,
+        "num": 127069,
+        "word": "男子14.8万卖金条后银行卡被冻结",
+        "onboard_time": 1747217602,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126896,
+        "num": 126896,
+        "word": "孙颖莎世乒赛首轮对手确定",
+        "onboard_time": 1747224023,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125624,
+        "num": 125624,
+        "word": "侮辱雷军小米博主发道歉信",
+        "onboard_time": 1747229484,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哥战略伙伴关系持续走深走实#"
+    }
+  }
+}
