@@ -1,0 +1,410 @@
+{
+  "runTime": 1747192509615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712362,
+        "num": 1113978,
+        "word": "梁庭cp官宣",
+        "onboard_time": 1747186110,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668486,
+        "num": 668486,
+        "word": "广东150平毒枭房产149万成交",
+        "onboard_time": 1747188510,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80336,
+        "num": 667078,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1055069,
+        "num": 667034,
+        "word": "哪吒汽车被申请破产",
+        "onboard_time": 1747186649,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 666978,
+        "num": 666978,
+        "word": "韶华若锦定档",
+        "onboard_time": 1747189649,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543097,
+        "num": 543097,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465865,
+        "num": 465865,
+        "word": "未达成协议对华关税也不会重回145%",
+        "onboard_time": 1747187910,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464451,
+        "num": 464451,
+        "word": "京东美团饿了么等外卖平台被约谈",
+        "onboard_time": 1747136661,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 375378,
+        "num": 375378,
+        "word": "电影独一无二终极预告",
+        "onboard_time": 1747190302,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348160,
+        "num": 348160,
+        "word": "黄蓉扮演者翁美玲去世40周年",
+        "onboard_time": 1747186231,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009054,
+        "num": 345074,
+        "word": "韩安冉三胎是双胞胎",
+        "onboard_time": 1747179861,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 965706,
+        "num": 341917,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713830,
+        "num": 338508,
+        "word": "史诗级牛马",
+        "onboard_time": 1747190601,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486962,
+        "num": 334870,
+        "word": "防偷窥聊天背景图",
+        "onboard_time": 1747181783,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424606,
+        "num": 332514,
+        "word": "福宝排黏液",
+        "onboard_time": 1747187790,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351457,
+        "num": 330273,
+        "word": "夫妻俩制假币每天印多少花多少",
+        "onboard_time": 1747148424,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18673,
+        "num": 326290,
+        "word": "团伙流窜多地盗窃医院住院部财务",
+        "onboard_time": 1747192222,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324091,
+        "num": 324091,
+        "word": "翻了24家银行找不到2%的存款",
+        "onboard_time": 1747191441,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 349722,
+        "num": 323200,
+        "word": "黄子韬给徐艺洋发了一堆表情",
+        "onboard_time": 1747181541,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261401,
+        "num": 320163,
+        "word": "因为尚雯婕选了复旦",
+        "onboard_time": 1747191201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442617,
+        "num": 317548,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351019,
+        "num": 314086,
+        "word": "男孩把三角尺塞进嘴中被卡",
+        "onboard_time": 1747186649,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248786,
+        "num": 313114,
+        "word": "前夫受贿千万女局长心理扭曲开始敛财",
+        "onboard_time": 1747182384,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107818,
+        "num": 309262,
+        "word": "多哈世乒赛首日国乒有7场比赛",
+        "onboard_time": 1747191860,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13273,
+        "num": 307580,
+        "word": "前往非洲打工的中国年轻人",
+        "onboard_time": 1747192222,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214673,
+        "num": 305042,
+        "word": "赵樱子戛纳镂空碎钻裙造型",
+        "onboard_time": 1747186169,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189365,
+        "num": 301018,
+        "word": "时间之子",
+        "onboard_time": 1747191500,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184174,
+        "num": 298305,
+        "word": "单依纯歌手 珠玉",
+        "onboard_time": 1747180040,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159588,
+        "num": 295331,
+        "word": "王俊凯首配动画男主",
+        "onboard_time": 1747191141,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25057,
+        "num": 293164,
+        "word": "气象部门解答北京冰雹成因",
+        "onboard_time": 1747192281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292653,
+        "num": 292653,
+        "word": "贾玲近照又瘦了",
+        "onboard_time": 1747143622,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267111,
+        "num": 267111,
+        "word": "杜淳妻子自曝当不了演员的原因",
+        "onboard_time": 1747150221,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 255045,
+        "word": "歌手彩排",
+        "onboard_time": 1747180099,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251679,
+        "num": 251679,
+        "word": "医生晒出18颗一模一样胆结石",
+        "onboard_time": 1747177938,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245365,
+        "num": 245365,
+        "word": "一口锅救了一整栋楼",
+        "onboard_time": 1747191980,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220922,
+        "num": 220922,
+        "word": "北京冰雹",
+        "onboard_time": 1747139241,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212944,
+        "num": 212944,
+        "word": "美国和沙特签署上千亿美元军售协议",
+        "onboard_time": 1747177879,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173482,
+        "num": 173482,
+        "word": "日本15岁男孩当街杀死8旬老妇",
+        "onboard_time": 1747184491,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169325,
+        "num": 169325,
+        "word": "孙颖莎王楚钦世乒赛训练现场",
+        "onboard_time": 1747190960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155917,
+        "num": 155917,
+        "word": "消息称歼10C将参加巴黎航展",
+        "onboard_time": 1747189289,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 154669,
+        "num": 154669,
+        "word": "你长这么慢 我很难看到你长大",
+        "onboard_time": 1747191020,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134828,
+        "num": 134828,
+        "word": "国台办回应台当局删除汉人表述",
+        "onboard_time": 1747192341,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134768,
+        "num": 134768,
+        "word": "折腰小说 重生",
+        "onboard_time": 1747192281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132200,
+        "num": 132200,
+        "word": "国台办批台当局花招百出操弄去中国化",
+        "onboard_time": 1747192222,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 129495,
+        "word": "戛纳红毯",
+        "onboard_time": 1747179560,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128124,
+        "num": 128124,
+        "word": "5种素菜其实是吸油大户",
+        "onboard_time": 1747181421,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125645,
+        "num": 125645,
+        "word": "塔图姆手术成功",
+        "onboard_time": 1747190481,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118133,
+        "num": 118133,
+        "word": "A股",
+        "onboard_time": 1747189590,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116222,
+        "num": 116222,
+        "word": "LPL 宫斗",
+        "onboard_time": 1747185392,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113529,
+        "num": 113529,
+        "word": "哪吒敖丙配音演员登上戛纳红毯",
+        "onboard_time": 1747187490,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国始终做拉美和加勒比国家的好朋友#"
+    }
+  }
+}

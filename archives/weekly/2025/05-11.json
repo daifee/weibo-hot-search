@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747189234940,
+  "endTime": 1747192509615,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1334576,
-      "num": 333717,
+      "num": 345074,
       "word": "韩安冉三胎是双胞胎",
       "onboard_time": 1747179861,
       "rank": 10,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1274183,
-      "num": 332964,
+      "num": 341917,
       "word": "女生晒出养了三年的酵母",
       "onboard_time": 1747187070,
       "rank": 20,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1055069,
+      "num": 1154408,
+      "word": "哪吒汽车被申请破产",
+      "onboard_time": 1747186649,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1047990,
       "num": 372101,
       "word": "百万网红自导自演自杀一度涨粉2万",
@@ -593,14 +601,6 @@
       "onboard_time": 1747011381,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 965056,
-      "num": 1154408,
-      "word": "哪吒汽车被申请破产",
-      "onboard_time": 1747186649,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 960210,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 726479,
-      "num": 332897,
+      "num": 334870,
       "word": "防偷窥聊天背景图",
       "onboard_time": 1747181783,
       "rank": 12,
@@ -953,6 +953,22 @@
       "onboard_time": 1747133721,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 713830,
+      "num": 338508,
+      "word": "史诗级牛马",
+      "onboard_time": 1747190601,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 712362,
+      "num": 1113978,
+      "word": "梁庭cp官宣",
+      "onboard_time": 1747186110,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 709332,
@@ -1017,6 +1033,22 @@
       "onboard_time": 1747127781,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 668486,
+      "num": 668486,
+      "word": "广东150平毒枭房产149万成交",
+      "onboard_time": 1747188510,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666978,
+      "num": 666978,
+      "word": "韶华若锦定档",
+      "onboard_time": 1747189649,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 665901,
@@ -1403,6 +1435,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 543097,
+      "num": 543097,
+      "word": "同学的生命只有一次",
+      "onboard_time": 1747190541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542865,
       "num": 542865,
       "word": "北京天气",
@@ -1723,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465865,
+      "num": 465865,
+      "word": "未达成协议对华关税也不会重回145%",
+      "onboard_time": 1747187910,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 465277,
       "num": 362089,
       "word": "韦雪自曝要去do脸了",
@@ -1795,20 +1843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 450679,
-      "num": 450679,
-      "word": "梁庭cp官宣",
-      "onboard_time": 1747186110,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 447036,
       "num": 305078,
       "word": "小S二女儿晒照说你永远在我身边",
       "onboard_time": 1746953064,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442617,
+      "num": 317548,
+      "word": "陈梦爆冷后把自己关在卫生间两小时",
+      "onboard_time": 1747191261,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 442380,
@@ -1937,6 +1985,14 @@
       "onboard_time": 1746974663,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 424606,
+      "num": 332773,
+      "word": "福宝排黏液",
+      "onboard_time": 1747187790,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422657,
@@ -2179,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378524,
-      "num": 332773,
-      "word": "福宝排黏液",
-      "onboard_time": 1747187790,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377637,
       "num": 377637,
       "word": "折腰要拍短剧了",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1746855502,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375378,
+      "num": 375378,
+      "word": "电影独一无二终极预告",
+      "onboard_time": 1747190302,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 374595,
@@ -2395,7 +2451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350351,
+      "raw_hot": 351019,
       "num": 324593,
       "word": "男孩把三角尺塞进嘴中被卡",
       "onboard_time": 1747186649,
@@ -2577,6 +2633,14 @@
       "onboard_time": 1746882801,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324091,
+      "num": 324091,
+      "word": "翻了24家银行找不到2%的存款",
+      "onboard_time": 1747191441,
+      "rank": 17,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 323766,
@@ -3091,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261401,
+      "num": 320163,
+      "word": "因为尚雯婕选了复旦",
+      "onboard_time": 1747191201,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260782,
       "num": 260782,
       "word": "耳夹式耳机",
@@ -3305,6 +3377,14 @@
       "onboard_time": 1747045223,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245365,
+      "num": 245365,
+      "word": "一口锅救了一整栋楼",
+      "onboard_time": 1747191980,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 245335,
@@ -4595,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189365,
+      "num": 301018,
+      "word": "时间之子",
+      "onboard_time": 1747191500,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189331,
       "num": 290567,
       "word": "肖战得闲谨制推介会",
@@ -5139,14 +5227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175724,
-      "num": 313314,
-      "word": "广东150平毒枭房产149万成交",
-      "onboard_time": 1747188510,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175071,
       "num": 175071,
       "word": "国乒出发多哈世乒赛",
@@ -5345,6 +5425,14 @@
       "onboard_time": 1747020441,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169325,
+      "num": 169325,
+      "word": "孙颖莎王楚钦世乒赛训练现场",
+      "onboard_time": 1747190960,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 168859,
@@ -5771,6 +5859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159588,
+      "num": 295331,
+      "word": "王俊凯首配动画男主",
+      "onboard_time": 1747191141,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159385,
       "num": 242343,
       "word": "加沙47万人面临灾难性饥饿",
@@ -5979,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155917,
+      "num": 155917,
+      "word": "消息称歼10C将参加巴黎航展",
+      "onboard_time": 1747189289,
+      "rank": 39,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 155707,
       "num": 155707,
       "word": "CBA",
@@ -6057,6 +6161,14 @@
       "onboard_time": 1747027101,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154669,
+      "num": 154669,
+      "word": "你长这么慢 我很难看到你长大",
+      "onboard_time": 1747191020,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 154586,
@@ -6987,14 +7099,6 @@
       "category": "电竞,游戏"
     },
     {
-      "raw_hot": 138573,
-      "num": 138573,
-      "word": "未达成协议对华关税也不会重回145%",
-      "onboard_time": 1747187910,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138259,
       "num": 163646,
       "word": "巴西总统夫人出席我仍在此首映礼",
@@ -7179,6 +7283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134828,
+      "num": 134828,
+      "word": "国台办回应台当局删除汉人表述",
+      "onboard_time": 1747192341,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134820,
       "num": 204443,
       "word": "许嵩背过身擦眼泪",
@@ -7201,6 +7313,14 @@
       "onboard_time": 1747143501,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134768,
+      "num": 134768,
+      "word": "折腰小说 重生",
+      "onboard_time": 1747192281,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 134638,
@@ -7401,6 +7521,14 @@
       "onboard_time": 1746925821,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132200,
+      "num": 132200,
+      "word": "国台办批台当局花招百出操弄去中国化",
+      "onboard_time": 1747192222,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131992,
@@ -7760,6 +7888,14 @@
       "word": "王楚钦现身机场出发多哈世乒赛",
       "onboard_time": 1747027221,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125645,
+      "num": 125645,
+      "word": "塔图姆手术成功",
+      "onboard_time": 1747190481,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -8737,6 +8873,14 @@
       "onboard_time": 1746964762,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107818,
+      "num": 309262,
+      "word": "多哈世乒赛首日国乒有7场比赛",
+      "onboard_time": 1747191860,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 107812,
@@ -11499,6 +11643,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25057,
+      "num": 293164,
+      "word": "气象部门解答北京冰雹成因",
+      "onboard_time": 1747192281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25030,
       "num": 25030,
       "word": "吉克隽逸太阳的女儿演唱会",
@@ -11883,6 +12035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18673,
+      "num": 326290,
+      "word": "团伙流窜多地盗窃医院住院部财务",
+      "onboard_time": 1747192222,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18653,
       "num": 307572,
       "word": "面对地震等灾害时该如何应对",
@@ -12241,6 +12401,14 @@
       "onboard_time": 1747169053,
       "rank": 49,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 13273,
+      "num": 307580,
+      "word": "前往非洲打工的中国年轻人",
+      "onboard_time": 1747192222,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13082,
