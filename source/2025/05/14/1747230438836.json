@@ -1,0 +1,410 @@
+{
+  "runTime": 1747230438836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334205,
+        "num": 1334205,
+        "word": "CP31开票",
+        "onboard_time": 1747222341,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 871744,
+        "num": 871744,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63322,
+        "num": 845553,
+        "word": "全球清洁能源发展的中国方案",
+        "onboard_time": 1747228582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844448,
+        "num": 844448,
+        "word": "刘国梁联合国参加活动",
+        "onboard_time": 1747229842,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680210,
+        "num": 680210,
+        "word": "蒲熠星撕拉片失败了",
+        "onboard_time": 1747222882,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644008,
+        "num": 644008,
+        "word": "周柯宇发长文",
+        "onboard_time": 1747227862,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515727,
+        "num": 515727,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488246,
+        "num": 488246,
+        "word": "马龙和家人现身CBA总决赛",
+        "onboard_time": 1747227804,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469859,
+        "num": 469859,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1747227982,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 294484,
+        "num": 463225,
+        "word": "强奸前科教师被曝出狱后办教培",
+        "onboard_time": 1747227443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1471736,
+        "num": 452331,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775764,
+        "num": 438019,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504558,
+        "num": 421549,
+        "word": "杨天真跺脚变装好瘦",
+        "onboard_time": 1747228703,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419655,
+        "num": 419655,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411226,
+        "num": 411226,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337218,
+        "num": 337218,
+        "word": "邓科 林玉芬",
+        "onboard_time": 1747228282,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48557,
+        "num": 317006,
+        "word": "哪吒敖丙配音戛纳亮相",
+        "onboard_time": 1747226843,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306987,
+        "num": 306987,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 8125,
+        "num": 299632,
+        "word": "吴越梁母鉴镯暗藏哪些深层隐喻",
+        "onboard_time": 1747229542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44934,
+        "num": 291026,
+        "word": "被泼汽油致残女孩一度放弃求生",
+        "onboard_time": 1747229302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222508,
+        "num": 280161,
+        "word": "袁咏仪直到45岁前都很想生女儿",
+        "onboard_time": 1747228162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1802467,
+        "num": 265218,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256924,
+        "num": 256924,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233970,
+        "num": 233970,
+        "word": "刘宇宁抱狗看折腰",
+        "onboard_time": 1747229842,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137435,
+        "num": 229499,
+        "word": "陈梦谈观众对乒乓球期待",
+        "onboard_time": 1747230143,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227341,
+        "num": 227341,
+        "word": "小乔发烧 魏劭抱她淋雨",
+        "onboard_time": 1747229062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222147,
+        "num": 222147,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 216686,
+        "word": "王一博周深的歌入选2024优秀歌曲",
+        "onboard_time": 1747230023,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130627,
+        "num": 214796,
+        "word": "现货黄金向下跌破3200美元",
+        "onboard_time": 1747230202,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94181,
+        "num": 213102,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212996,
+        "num": 212996,
+        "word": "CBA",
+        "onboard_time": 1747229362,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197340,
+        "num": 197340,
+        "word": "脊柱最讨厌的4个坐姿",
+        "onboard_time": 1747224383,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 193807,
+        "num": 193807,
+        "word": "奇谷米",
+        "onboard_time": 1747230143,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193570,
+        "num": 193570,
+        "word": "陈丽君西湖长桥执扇唱越剧",
+        "onboard_time": 1747228102,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186317,
+        "num": 186317,
+        "word": "为救同学缺考小伙将参加副题考试",
+        "onboard_time": 1747218502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179927,
+        "num": 179927,
+        "word": "杜海涛都没见过沈梦辰的这一面",
+        "onboard_time": 1747230264,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179906,
+        "num": 179906,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173846,
+        "num": 173846,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164241,
+        "num": 164241,
+        "word": "只有张凌赫和迪丽热巴回答一样",
+        "onboard_time": 1747223843,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69444,
+        "num": 161782,
+        "word": "你一定不知道的蔬菜冷知识",
+        "onboard_time": 1747229542,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 5983,
+        "num": 160649,
+        "word": "李荣浩三提金曲奖都经历了什么",
+        "onboard_time": 1747230382,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154397,
+        "num": 160400,
+        "word": "k总发视频回应退网",
+        "onboard_time": 1747228222,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160163,
+        "num": 160163,
+        "word": "月亮",
+        "onboard_time": 1747230264,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157233,
+        "num": 157233,
+        "word": "北京冰雹4S店损失惨重",
+        "onboard_time": 1747225643,
+        "rank": 43,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 156507,
+        "num": 156507,
+        "word": "腾讯一季度收入1800.22亿",
+        "onboard_time": 1747229242,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 143455,
+        "word": "五问火车穿村致19人身亡",
+        "onboard_time": 1747223122,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142458,
+        "num": 142458,
+        "word": "肖战藏海是成长型角色",
+        "onboard_time": 1747229662,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141799,
+        "num": 141799,
+        "word": "女硕士失踪13年生育两孩案家属发声",
+        "onboard_time": 1747219882,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139210,
+        "num": 139210,
+        "word": "CP31回流",
+        "onboard_time": 1747229423,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138576,
+        "num": 138576,
+        "word": "侮辱雷军小米博主发道歉信",
+        "onboard_time": 1747229484,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哥战略伙伴关系持续走深走实#"
+    }
+  }
+}
