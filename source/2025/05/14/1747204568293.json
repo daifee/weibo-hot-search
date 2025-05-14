@@ -1,0 +1,410 @@
+{
+  "runTime": 1747204568293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803643,
+        "num": 1803643,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793211,
+        "num": 793211,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27651,
+        "num": 370733,
+        "word": "外国航司狂接中国游流量",
+        "onboard_time": 1747144042,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1586892,
+        "num": 354016,
+        "word": "甘薇贾跃亭离婚",
+        "onboard_time": 1747200984,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313814,
+        "num": 313814,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 282528,
+        "num": 282528,
+        "word": "为救同学缺考男生获评见义勇为",
+        "onboard_time": 1747203504,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 605110,
+        "num": 280729,
+        "word": "金曲奖提名",
+        "onboard_time": 1747203144,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 493109,
+        "num": 280054,
+        "word": "歌手发布会",
+        "onboard_time": 1747199187,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272648,
+        "num": 272648,
+        "word": "陈梦爆冷后把自己关在卫生间两小时",
+        "onboard_time": 1747191261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205369,
+        "num": 205369,
+        "word": "中美最新关税已实施",
+        "onboard_time": 1747197385,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8051462,
+        "num": 8051462,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192904,
+        "num": 204868,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313404,
+        "num": 204811,
+        "word": "多次拒绝吴彦祖",
+        "onboard_time": 1747193841,
+        "rank": 12,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 312702,
+        "num": 204376,
+        "word": "怪不得老一辈都喜欢生小孩",
+        "onboard_time": 1747195102,
+        "rank": 13,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 288309,
+        "num": 204285,
+        "word": "印媒证实S400操作手殉职",
+        "onboard_time": 1747200144,
+        "rank": 14,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 271298,
+        "num": 203911,
+        "word": "歌手",
+        "onboard_time": 1747200804,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141259,
+        "num": 203822,
+        "word": "汽车不仅是技术活更是良心活",
+        "onboard_time": 1747202725,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236096,
+        "num": 203473,
+        "word": "谁懂刘诗诗佝偻着腰的破碎感",
+        "onboard_time": 1747203144,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10138,
+        "num": 203148,
+        "word": "36届金曲奖哪些会成为年度歌曲",
+        "onboard_time": 1747203384,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24431,
+        "num": 203017,
+        "word": "贾跃亭不回国如何办理离婚手续",
+        "onboard_time": 1747203682,
+        "rank": 19,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 242951,
+        "num": 202696,
+        "word": "女生晒出养了三年的酵母",
+        "onboard_time": 1747187070,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9048,
+        "num": 202387,
+        "word": "巨型风筝载人有哪些安全隐患",
+        "onboard_time": 1747204344,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 202284,
+        "word": "陈妍希摔倒周柯宇下意识保护",
+        "onboard_time": 1747200684,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57598,
+        "num": 201919,
+        "word": "大金融股集体异动拉升",
+        "onboard_time": 1747203803,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 201848,
+        "word": "女子每天步行10公里20天瘦12斤",
+        "onboard_time": 1747202604,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193317,
+        "num": 193317,
+        "word": "强奸杀害88岁妇女罪犯已被枪决",
+        "onboard_time": 1747204222,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191967,
+        "num": 191967,
+        "word": "韩国93岁女校长回应保持童颜",
+        "onboard_time": 1747195703,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176913,
+        "num": 176913,
+        "word": "金曲奖",
+        "onboard_time": 1747199786,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51145,
+        "num": 173264,
+        "word": "印度战机被击落前录音曝光",
+        "onboard_time": 1747204163,
+        "rank": 28,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 33538,
+        "num": 173194,
+        "word": "多哈世乒赛栗色球台亮相",
+        "onboard_time": 1747204103,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762349,
+        "num": 173188,
+        "word": "京东外卖崩了",
+        "onboard_time": 1747197262,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173165,
+        "num": 173165,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171499,
+        "num": 171499,
+        "word": "大乔比彘",
+        "onboard_time": 1747202604,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170429,
+        "num": 170429,
+        "word": "黄金",
+        "onboard_time": 1747193961,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163696,
+        "num": 163696,
+        "word": "宋威龙熹妃回宫只用一个单手抱",
+        "onboard_time": 1747201943,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159648,
+        "num": 159648,
+        "word": "宋浩然回应韩安冉怀三胎",
+        "onboard_time": 1747195942,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155585,
+        "num": 155585,
+        "word": "刘宇宁妆造",
+        "onboard_time": 1747193001,
+        "rank": 36,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 147996,
+        "num": 147996,
+        "word": "易烊千玺骨相还是太权威了",
+        "onboard_time": 1747200684,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44395,
+        "num": 141933,
+        "word": "医院里多了一个满分考生",
+        "onboard_time": 1747203144,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137935,
+        "num": 137935,
+        "word": "老人因性格问题被拒门外睡楼道4个月",
+        "onboard_time": 1747198405,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130234,
+        "num": 130234,
+        "word": "赖清德称和日本感情像家人被严斥",
+        "onboard_time": 1747197324,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128180,
+        "num": 128180,
+        "word": "大侦探",
+        "onboard_time": 1747200085,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114380,
+        "num": 114380,
+        "word": "姜妍说第一次被叫小姨还不太理解",
+        "onboard_time": 1747194562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112416,
+        "num": 112416,
+        "word": "cp31还没开票",
+        "onboard_time": 1747196364,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "白敬亭徒步12宫格",
+        "onboard_time": 1747203863,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107202,
+        "num": 107202,
+        "word": "印度民众开始庆祝活动",
+        "onboard_time": 1747200743,
+        "rank": 45,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 104361,
+        "num": 104361,
+        "word": "疑似武艺对何老师发起攻击",
+        "onboard_time": 1747199665,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103615,
+        "num": 103615,
+        "word": "建议内娱cp都来上这个综艺",
+        "onboard_time": 1747201104,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101978,
+        "num": 101978,
+        "word": "苹果全新辅助功能",
+        "onboard_time": 1747201104,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98357,
+        "num": 98357,
+        "word": "美媒称美鸡爪痛失中国市场",
+        "onboard_time": 1747194142,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宣布中拉携手启动五大工程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747201390922,
+  "endTime": 1747204568293,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -17,6 +17,22 @@
       "onboard_time": 1747193241,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1803643,
+      "num": 1803643,
+      "word": "歌手首发阵容官宣",
+      "onboard_time": 1747202424,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1586892,
+      "num": 355753,
+      "word": "甘薇贾跃亭离婚",
+      "onboard_time": 1747200984,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1520438,
@@ -65,6 +81,14 @@
       "onboard_time": 1747199187,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1192904,
+      "num": 204868,
+      "word": "内衣终于癫成了我不认识的样子",
+      "onboard_time": 1747202424,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1075256,
@@ -179,6 +203,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 605110,
+      "num": 280729,
+      "word": "金曲奖提名",
+      "onboard_time": 1747203144,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 598501,
       "num": 332826,
       "word": "黄子韬给徐艺洋发了一堆表情",
@@ -233,14 +265,6 @@
       "onboard_time": 1747180040,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505328,
-      "num": 355753,
-      "word": "甘薇贾跃亭离婚",
-      "onboard_time": 1747200984,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 476177,
@@ -499,6 +523,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 288309,
+      "num": 204285,
+      "word": "印媒证实S400操作手殉职",
+      "onboard_time": 1747200144,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 282528,
+      "num": 282528,
+      "word": "为救同学缺考男生获评见义勇为",
+      "onboard_time": 1747203504,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 278336,
       "num": 269525,
       "word": "西北大学回应副校长成陕西首富",
@@ -587,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236096,
+      "num": 203473,
+      "word": "谁懂刘诗诗佝偻着腰的破碎感",
+      "onboard_time": 1747203144,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228741,
       "num": 228741,
       "word": "掘金vs雷霆",
@@ -601,6 +649,14 @@
       "onboard_time": 1747187070,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224315,
+      "num": 232805,
+      "word": "陈妍希摔倒周柯宇下意识保护",
+      "onboard_time": 1747200684,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 223370,
@@ -659,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205994,
-      "num": 232805,
-      "word": "陈妍希摔倒周柯宇下意识保护",
-      "onboard_time": 1747200684,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203421,
       "num": 203421,
       "word": "nana民宿",
@@ -697,6 +745,14 @@
       "onboard_time": 1747148424,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201848,
+      "num": 201848,
+      "word": "女子每天步行10公里20天瘦12斤",
+      "onboard_time": 1747202604,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200128,
@@ -785,6 +841,14 @@
       "onboard_time": 1747200684,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193317,
+      "num": 193317,
+      "word": "强奸杀害88岁妇女罪犯已被枪决",
+      "onboard_time": 1747204222,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190969,
@@ -939,6 +1003,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173165,
+      "num": 173165,
+      "word": "我国成功发射太空计算卫星星座",
+      "onboard_time": 1747203504,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171499,
+      "num": 171499,
+      "word": "大乔比彘",
+      "onboard_time": 1747202604,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169325,
       "num": 169325,
       "word": "孙颖莎王楚钦世乒赛训练现场",
@@ -969,6 +1049,14 @@
       "onboard_time": 1747195222,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163696,
+      "num": 163696,
+      "word": "宋威龙熹妃回宫只用一个单手抱",
+      "onboard_time": 1747201943,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 163377,
@@ -1121,6 +1209,14 @@
       "onboard_time": 1747173014,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 141259,
+      "num": 203822,
+      "word": "汽车不仅是技术活更是良心活",
+      "onboard_time": 1747202725,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136851,
@@ -1291,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114577,
-      "num": 184938,
-      "word": "印媒证实S400操作手殉职",
-      "onboard_time": 1747200144,
-      "rank": 39,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "白敬亭徒步12宫格",
+      "onboard_time": 1747203863,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 112010,
@@ -1337,6 +1433,14 @@
       "onboard_time": 1747191860,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107202,
+      "num": 229695,
+      "word": "印度民众开始庆祝活动",
+      "onboard_time": 1747200743,
+      "rank": 27,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 106220,
@@ -1611,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57598,
+      "num": 201919,
+      "word": "大金融股集体异动拉升",
+      "onboard_time": 1747203803,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53710,
       "num": 366721,
       "word": "妈妈谈3岁男童治疗兽皮痣近况",
@@ -1625,6 +1737,14 @@
       "onboard_time": 1747178059,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 51145,
+      "num": 173264,
+      "word": "印度战机被击落前录音曝光",
+      "onboard_time": 1747204163,
+      "rank": 28,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 50045,
@@ -1681,6 +1801,14 @@
       "onboard_time": 1747188570,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44395,
+      "num": 141933,
+      "word": "医院里多了一个满分考生",
+      "onboard_time": 1747203144,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43316,
@@ -1763,6 +1891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 33538,
+      "num": 173194,
+      "word": "多哈世乒赛栗色球台亮相",
+      "onboard_time": 1747204103,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33406,
       "num": 66805,
       "word": "今天在北京开的这个会值得美国掂量",
@@ -1835,12 +1971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25696,
-      "num": 229695,
-      "word": "印度民众开始庆祝活动",
-      "onboard_time": 1747200743,
-      "rank": 27,
-      "category": "国际时政,民生新闻"
+      "raw_hot": 24431,
+      "num": 203017,
+      "word": "贾跃亭不回国如何办理离婚手续",
+      "onboard_time": 1747203682,
+      "rank": 19,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 24317,
@@ -1971,6 +2107,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10138,
+      "num": 203148,
+      "word": "36届金曲奖哪些会成为年度歌曲",
+      "onboard_time": 1747203384,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 9048,
+      "num": 202387,
+      "word": "巨型风筝载人有哪些安全隐患",
+      "onboard_time": 1747204344,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8545,
       "num": 16081,
       "word": "出境旅客行李藏文物被查",
@@ -1996,6 +2148,9 @@
     },
     {
       "word": "#习近平会见哥伦比亚总统佩特罗#"
+    },
+    {
+      "word": "#习近平宣布中拉携手启动五大工程#"
     }
   ]
 }
