@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747215713863,
+  "endTime": 1747218496086,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -283,6 +283,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 568102,
+      "num": 568102,
+      "word": "中方对美芬太尼反制仍然有效",
+      "onboard_time": 1747215143,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 557136,
       "num": 557136,
       "word": "美媒称美鸡爪痛失中国市场",
@@ -345,6 +353,14 @@
       "onboard_time": 1747186169,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 463269,
+      "num": 463269,
+      "word": "官方回应小伙为救同学放弃考试",
+      "onboard_time": 1747211903,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 462965,
@@ -483,20 +499,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374224,
+      "num": 264234,
+      "word": "偶遇鹿晗东京吃拉面",
+      "onboard_time": 1747213522,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371797,
       "num": 371797,
       "word": "折腰原著",
       "onboard_time": 1747181062,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363601,
-      "num": 363601,
-      "word": "官方回应小伙为救同学放弃考试",
-      "onboard_time": 1747211903,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 362367,
@@ -683,14 +699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 264234,
-      "num": 264234,
-      "word": "偶遇鹿晗东京吃拉面",
-      "onboard_time": 1747213522,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260340,
       "num": 314344,
       "word": "内娱谁敢接李现这样的造型",
@@ -705,6 +713,14 @@
       "onboard_time": 1747196782,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256537,
+      "num": 256537,
+      "word": "紫光集团原董事长赵伟国一审死缓",
+      "onboard_time": 1747217122,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 256251,
@@ -761,6 +777,14 @@
       "onboard_time": 1747195823,
       "rank": 22,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 238847,
+      "num": 238847,
+      "word": "藏海传张本",
+      "onboard_time": 1747217122,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 237753,
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 216069,
-      "num": 251368,
+      "num": 479035,
       "word": "我国成功发射太空计算卫星星座",
       "onboard_time": 1747203504,
       "rank": 31,
@@ -881,6 +905,14 @@
       "onboard_time": 1747200085,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209080,
+      "num": 209080,
+      "word": "朱正廷发文痛斥私生",
+      "onboard_time": 1747217543,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 208713,
@@ -961,6 +993,14 @@
       "onboard_time": 1747207343,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200977,
+      "num": 200977,
+      "word": "12岁女孩不知情欠债250万成老赖",
+      "onboard_time": 1747216102,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200128,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1747151541,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181659,
+      "num": 215322,
+      "word": "单依纯上歌手不想火药味太重",
+      "onboard_time": 1747216524,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 181384,
@@ -1419,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156382,
+      "num": 156382,
+      "word": "越幸福的人越喜欢说废话",
+      "onboard_time": 1747215862,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156192,
       "num": 172913,
       "word": "魏如萱 二封",
@@ -1529,6 +1585,14 @@
       "onboard_time": 1747207103,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147469,
+      "num": 147469,
+      "word": "外媒称特朗普开除出馊主意华裔顾问",
+      "onboard_time": 1747216881,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147245,
@@ -1763,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125042,
+      "num": 172664,
+      "word": "刘浩存王安宇好会哭的两个人",
+      "onboard_time": 1747217181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124023,
       "num": 174617,
       "word": "刘宇宁也逃不过真香定律",
@@ -1803,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121677,
+      "num": 121677,
+      "word": "网友食堂偶遇樊振东",
+      "onboard_time": 1747215623,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120202,
       "num": 150841,
       "word": "巴基斯坦外甥来中国探亲犹如穿越",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1747138822,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119758,
+      "num": 236418,
+      "word": "在白敬亭的店被吴彦祖拉去拍照",
+      "onboard_time": 1747214183,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 118133,
@@ -1849,6 +1937,14 @@
       "onboard_time": 1747180401,
       "rank": 45,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 115735,
+      "num": 229380,
+      "word": "京东又宣了好多九块九",
+      "onboard_time": 1747217241,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 114996,
@@ -1963,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103268,
+      "num": 120051,
+      "word": "藏海上班是潜龙入渊 我是牛马入栏",
+      "onboard_time": 1747217061,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102308,
       "num": 102308,
       "word": "马嘉祺vocal水平",
@@ -1971,12 +2075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100807,
-      "num": 236418,
-      "word": "在白敬亭的店被吴彦祖拉去拍照",
-      "onboard_time": 1747214183,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 100969,
+      "num": 100969,
+      "word": "好多房子都舍不得给厨房面积",
+      "onboard_time": 1747218262,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99667,
@@ -1985,14 +2089,6 @@
       "onboard_time": 1747206323,
       "rank": 18,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 99076,
-      "num": 99076,
-      "word": "网友食堂偶遇樊振东",
-      "onboard_time": 1747215623,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 95262,
@@ -2033,14 +2129,6 @@
       "onboard_time": 1747199304,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 92378,
-      "num": 298358,
-      "word": "中方对美芬太尼反制仍然有效",
-      "onboard_time": 1747215143,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91820,
@@ -2105,6 +2193,14 @@
       "onboard_time": 1747135460,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 84084,
+      "num": 227077,
+      "word": "男子14.8万卖金条后银行卡被冻结",
+      "onboard_time": 1747217602,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83229,
@@ -2451,6 +2547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40257,
+      "num": 114802,
+      "word": "三大股指午后全线翻红",
+      "onboard_time": 1747213581,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39739,
       "num": 39739,
       "word": "浪姐",
@@ -2563,6 +2667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29448,
+      "num": 165422,
+      "word": "内塔尼亚胡计划全力进入加沙",
+      "onboard_time": 1747217003,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29210,
       "num": 255279,
       "word": "英伟达暴涨5.63%",
@@ -2609,6 +2721,14 @@
       "onboard_time": 1747214183,
       "rank": 28,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 25423,
+      "num": 157614,
+      "word": "单身经济重塑商业格局",
+      "onboard_time": 1747216642,
+      "rank": 29,
+      "category": "民生新闻,其它"
     },
     {
       "raw_hot": 24814,
@@ -2675,6 +2795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18832,
+      "num": 211990,
+      "word": "掘金在天王山之战中主要失误有哪些",
+      "onboard_time": 1747217843,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18044,
       "num": 339130,
       "word": "骑士被步行者淘汰暴露出哪些短板",
@@ -2728,6 +2856,14 @@
       "word": "拉美朋友转机2次用上3天来北京",
       "onboard_time": 1747171574,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15649,
+      "num": 118852,
+      "word": "华萍女高学生毕业入伍跪谢张桂梅",
+      "onboard_time": 1747218262,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
