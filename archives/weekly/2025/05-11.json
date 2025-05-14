@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747208354302,
+  "endTime": 1747211629725,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -41,6 +41,14 @@
       "onboard_time": 1747106902,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3474399,
+      "num": 200910,
+      "word": "关晓彤无名指戒指",
+      "onboard_time": 1747210283,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3321710,
@@ -305,6 +313,14 @@
       "onboard_time": 1746960741,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1404498,
+      "num": 197796,
+      "word": "普京爆粗",
+      "onboard_time": 1747207883,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1388125,
@@ -1531,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558283,
+      "num": 177905,
+      "word": "花165万买到了北京150平米的老破大",
+      "onboard_time": 1747208424,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 557136,
       "num": 557136,
       "word": "美媒称美鸡爪痛失中国市场",
@@ -2275,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405757,
+      "num": 405757,
+      "word": "为救同学缺考男生获评见义勇为",
+      "onboard_time": 1747203504,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 403096,
       "num": 403096,
       "word": "导演肯定也知道卢昱晓的手好看",
@@ -2419,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383184,
+      "num": 383184,
+      "word": "藏海传最后不会杀的只剩剧名了吧",
+      "onboard_time": 1747210524,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377637,
       "num": 377637,
       "word": "折腰要拍短剧了",
@@ -2553,14 +2593,6 @@
       "onboard_time": 1747030591,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 363539,
-      "num": 363539,
-      "word": "为救同学缺考男生获评见义勇为",
-      "onboard_time": 1747203504,
-      "rank": 5,
-      "category": "正能量"
     },
     {
       "raw_hot": 363043,
@@ -2939,14 +2971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313698,
-      "num": 163972,
-      "word": "普京爆粗",
-      "onboard_time": 1747207883,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 313157,
       "num": 332192,
       "word": "藏海传第一对cp来了",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1747191201,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312334,
+      "num": 312334,
+      "word": "网传全深圳都在绿化带捡龟背竹",
+      "onboard_time": 1747205662,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311883,
@@ -3483,12 +3515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256251,
+      "num": 175685,
+      "word": "美国枪口直指华为芯片",
+      "onboard_time": 1747210465,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255711,
       "num": 490427,
       "word": "广州大雨下不停",
       "onboard_time": 1746894020,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254749,
+      "num": 175576,
+      "word": "丁禹兮工作室 线下",
+      "onboard_time": 1747210825,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 254707,
@@ -3873,6 +3921,14 @@
       "onboard_time": 1746939441,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229453,
+      "num": 229453,
+      "word": "荣耀400让你戒掉手机壳",
+      "onboard_time": 1747210524,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 229260,
@@ -4987,6 +5043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193470,
+      "num": 193470,
+      "word": "日本餐饮公司就拒绝接待中国人道歉",
+      "onboard_time": 1747210342,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193456,
       "num": 210333,
       "word": "张杰敖丙我们是朋友了",
@@ -5771,6 +5835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176429,
+      "num": 176429,
+      "word": "Grace 歌手",
+      "onboard_time": 1747210102,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176291,
       "num": 176291,
       "word": "特朗普称将免费获得波音747当专机",
@@ -6131,14 +6203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167810,
-      "num": 178855,
-      "word": "网传全深圳都在绿化带捡龟背竹",
-      "onboard_time": 1747205662,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167712,
       "num": 167712,
       "word": "花海 反方向的钟",
@@ -6257,6 +6321,14 @@
       "onboard_time": 1747037243,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 165948,
+      "num": 172499,
+      "word": "早安对GAI说不管考的怎么样全家都爱你",
+      "onboard_time": 1747211364,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165510,
@@ -6595,6 +6667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158685,
+      "num": 174809,
+      "word": "折腰细糠",
+      "onboard_time": 1747209504,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158532,
       "num": 371266,
       "word": "京东国补更便宜",
@@ -6707,6 +6787,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 157114,
+      "num": 157114,
+      "word": "焉栩嘉去赵磊婚礼",
+      "onboard_time": 1747211364,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157001,
       "num": 234178,
       "word": "京东五大补贴哪里领",
@@ -6729,6 +6817,14 @@
       "onboard_time": 1746962180,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156844,
+      "num": 286532,
+      "word": "戛纳明星造型",
+      "onboard_time": 1747045041,
+      "rank": 26,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 156762,
@@ -6769,6 +6865,14 @@
       "onboard_time": 1747041623,
       "rank": 41,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 156192,
+      "num": 172913,
+      "word": "魏如萱 二封",
+      "onboard_time": 1747209083,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 156127,
@@ -7435,14 +7539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144536,
-      "num": 286532,
-      "word": "戛纳明星造型",
-      "onboard_time": 1747045041,
-      "rank": 26,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 144535,
       "num": 178666,
       "word": "欧豪张佳宁新剧电话哄睡含糖量",
@@ -7460,7 +7556,7 @@
     },
     {
       "raw_hot": 143940,
-      "num": 143940,
+      "num": 172300,
       "word": "金价止跌回升",
       "onboard_time": 1747205782,
       "rank": 44,
@@ -8395,6 +8491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131495,
+      "num": 131495,
+      "word": "只有印度人以为印度赢了",
+      "onboard_time": 1747209684,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131476,
       "num": 131476,
       "word": "周扬青美男鱼派对",
@@ -8545,6 +8649,14 @@
       "onboard_time": 1747051582,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128665,
+      "num": 178351,
+      "word": "上官正义称全家被发追杀令",
+      "onboard_time": 1747209743,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128617,
@@ -9033,6 +9145,14 @@
       "onboard_time": 1747129041,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120202,
+      "num": 150841,
+      "word": "巴基斯坦外甥来中国探亲犹如穿越",
+      "onboard_time": 1747207283,
+      "rank": 39,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 120075,
@@ -10371,6 +10491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90612,
+      "num": 158523,
+      "word": "官方回应深圳绿化带的龟背竹不可捡",
+      "onboard_time": 1747210524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90490,
       "num": 90490,
       "word": "中国排面歌唱祖国泪洒戎装",
@@ -10601,6 +10729,14 @@
       "onboard_time": 1747176017,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82690,
+      "num": 160727,
+      "word": "巴基斯坦人让日本人唱中国国歌",
+      "onboard_time": 1747208542,
+      "rank": 38,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 82665,
@@ -11115,6 +11251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62597,
+      "num": 173564,
+      "word": "胡兵也加入快递大军",
+      "onboard_time": 1747210524,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62257,
       "num": 198977,
       "word": "男乒五虎将集结多哈",
@@ -11305,6 +11449,14 @@
       "onboard_time": 1747203803,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57564,
+      "num": 173680,
+      "word": "男子借债擅自加妻女名字",
+      "onboard_time": 1747210342,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57195,
@@ -11513,14 +11665,6 @@
       "onboard_time": 1747116682,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52151,
-      "num": 150841,
-      "word": "巴基斯坦外甥来中国探亲犹如穿越",
-      "onboard_time": 1747207283,
-      "rank": 39,
-      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 52108,
@@ -12345,6 +12489,14 @@
       "onboard_time": 1747143563,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33874,
+      "num": 173187,
+      "word": "三场国际大战后一个新世界呼之欲出",
+      "onboard_time": 1747211423,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33650,
@@ -13435,6 +13587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14765,
+      "num": 172977,
+      "word": "美沙军售协议如何影响中东军事格局",
+      "onboard_time": 1747211483,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14728,
       "num": 297660,
       "word": "经历汶川地震的孩子都怎么样了",
@@ -13585,6 +13745,14 @@
       "onboard_time": 1747128143,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12709,
+      "num": 176190,
+      "word": "座头鲸探船传递了哪些生态信号",
+      "onboard_time": 1747210584,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12689,

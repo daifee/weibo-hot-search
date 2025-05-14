@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747208354302,
+  "endTime": 1747211629725,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3474399,
+      "num": 200910,
+      "word": "关晓彤无名指戒指",
+      "onboard_time": 1747210283,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3460295,
       "num": 3460295,
       "word": "苹果手机",
@@ -2392,14 +2400,6 @@
       "word": "金泰梨二封百想视后",
       "onboard_time": 1746456504,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3098430,
-      "num": 615127,
-      "word": "章子怡发飙让张嘉元下去",
-      "onboard_time": 1739539222,
-      "rank": 28,
       "category": "综艺"
     }
   ],
