@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747197920821,
+  "endTime": 1747200343403,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -353,6 +353,14 @@
       "onboard_time": 1747033642,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12882219,
+      "num": 12882219,
+      "word": "赵丽颖新恋情",
+      "onboard_time": 1747198647,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 12853710,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739539222,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3097149,
-      "num": 3097149,
-      "word": "升至125%后为何中国不陪了",
-      "onboard_time": 1744434145,
-      "rank": 0,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

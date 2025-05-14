@@ -1,7 +1,15 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747197920821,
+  "endTime": 1747200343403,
   "band_list": [
+    {
+      "raw_hot": 12882219,
+      "num": 12882219,
+      "word": "赵丽颖新恋情",
+      "onboard_time": 1747198647,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2101720,
       "num": 2101720,
@@ -9,6 +17,14 @@
       "onboard_time": 1747193241,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1520438,
+      "num": 313288,
+      "word": "京东外卖崩了",
+      "onboard_time": 1747197262,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 1388125,
@@ -67,12 +83,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 874952,
-      "num": 313288,
-      "word": "京东外卖崩了",
-      "onboard_time": 1747197262,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 1030660,
+      "num": 1030660,
+      "word": "歌手发布会",
+      "onboard_time": 1747199187,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 804355,
@@ -179,6 +195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 585042,
+      "num": 585042,
+      "word": "中美最新关税已实施",
+      "onboard_time": 1747197385,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 579329,
       "num": 579329,
       "word": "刘晓庆的翡翠好大",
@@ -283,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 393861,
+      "num": 339150,
+      "word": "怪不得老一辈都喜欢生小孩",
+      "onboard_time": 1747195102,
+      "rank": 27,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 389512,
       "num": 168727,
       "word": "北京有车桥下躲冰雹致堵车",
@@ -363,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345583,
-      "num": 345583,
-      "word": "中美最新关税已实施",
-      "onboard_time": 1747197385,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 343375,
       "num": 382898,
       "word": "浪琴回应网友购入手表后其表盘丢失",
       "onboard_time": 1747196244,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339150,
-      "num": 339150,
-      "word": "怪不得老一辈都喜欢生小孩",
-      "onboard_time": 1747195102,
-      "rank": 27,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 336782,
@@ -400,6 +416,14 @@
       "word": "为什么我们的衣服越来越难买了",
       "onboard_time": 1747151181,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332812,
+      "num": 332812,
+      "word": "代孕",
+      "onboard_time": 1747193781,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -433,14 +457,6 @@
       "onboard_time": 1747151600,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 297785,
-      "num": 297785,
-      "word": "代孕",
-      "onboard_time": 1747193781,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290275,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 250148,
-      "num": 317971,
+      "num": 329022,
       "word": "戛纳红毯上的中国艺人",
       "onboard_time": 1747194262,
       "rank": 29,
@@ -513,6 +529,14 @@
       "onboard_time": 1747195823,
       "rank": 22,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 242956,
+      "num": 273544,
+      "word": "金曲奖",
+      "onboard_time": 1747199786,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 237128,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203351,
+      "num": 203351,
+      "word": "新说唱2025",
+      "onboard_time": 1747199725,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202810,
       "num": 329870,
       "word": "步行者淘汰骑士",
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197716,
+      "num": 197716,
+      "word": "肖战藏海正冠剧照",
+      "onboard_time": 1747199606,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197158,
       "num": 261442,
       "word": "迪丽热巴支持折腰",
@@ -691,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188521,
+      "num": 188521,
+      "word": "疑似武艺对何老师发起攻击",
+      "onboard_time": 1747199665,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188481,
       "num": 325567,
       "word": "河南5名干部违规吃喝饮酒1人死亡",
@@ -713,6 +761,22 @@
       "onboard_time": 1747188629,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187630,
+      "num": 290341,
+      "word": "歌手彩排",
+      "onboard_time": 1747180099,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186204,
+      "num": 186204,
+      "word": "大麦",
+      "onboard_time": 1747199187,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 183090,
@@ -745,14 +809,6 @@
       "onboard_time": 1747148544,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177721,
-      "num": 290341,
-      "word": "歌手彩排",
-      "onboard_time": 1747180099,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 177589,
@@ -795,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171143,
+      "num": 171143,
+      "word": "大侦探",
+      "onboard_time": 1747200085,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169325,
       "num": 169325,
       "word": "孙颖莎王楚钦世乒赛训练现场",
@@ -835,6 +899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 159895,
+      "num": 159895,
+      "word": "恋与制作人新pv",
+      "onboard_time": 1747199845,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159780,
       "num": 159780,
       "word": "国台办批台当局花招百出操弄去中国化",
@@ -856,6 +928,14 @@
       "word": "京东国补更便宜",
       "onboard_time": 1747195403,
       "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 157001,
+      "num": 197720,
+      "word": "京东五大补贴哪里领",
+      "onboard_time": 1747199066,
+      "rank": 26,
       "category": "互联网"
     },
     {
@@ -899,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151226,
+      "num": 151226,
+      "word": "以为折腰12点更新",
+      "onboard_time": 1747198886,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150252,
       "num": 150252,
       "word": "步行者晋级东决",
@@ -921,6 +1009,14 @@
       "onboard_time": 1747187490,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143290,
+      "num": 143290,
+      "word": "还以为小乔被无忧渡木偶妖附身了",
+      "onboard_time": 1747199007,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142729,
@@ -1251,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83991,
+      "num": 255038,
+      "word": "一品牛肉干竟是猪肉做的",
+      "onboard_time": 1747199304,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 83229,
       "num": 157391,
       "word": "市场监管总局提醒冲锋衣功能性陷阱",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1747138640,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60353,
+      "num": 259742,
+      "word": "歼10C在巴黎航展能否斩获新订单",
+      "onboard_time": 1747199786,
+      "rank": 17,
+      "category": "军事"
     },
     {
       "raw_hot": 60038,
@@ -1475,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40611,
+      "num": 198384,
+      "word": "银行板块A股总市值破10万亿元大关",
+      "onboard_time": 1747195582,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39739,
       "num": 39739,
       "word": "浪姐",
@@ -1488,6 +1608,14 @@
       "word": "气象部门解答北京冰雹成因",
       "onboard_time": 1747192281,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38675,
+      "num": 258645,
+      "word": "2次酒驾2次肇事老人再驾老头乐酒驾",
+      "onboard_time": 1747199547,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1521,6 +1649,14 @@
       "onboard_time": 1747145664,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35000,
+      "num": 185789,
+      "word": "新房没买成20万元团购费竟不给退",
+      "onboard_time": 1747200264,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33406,
@@ -1569,6 +1705,14 @@
       "onboard_time": 1747178960,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28254,
+      "num": 168733,
+      "word": "印媒证实S400操作手殉职",
+      "onboard_time": 1747200144,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 27526,
@@ -1715,6 +1859,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 9311,
+      "num": 187188,
+      "word": "胡锡进说世界势必重新认识中国",
+      "onboard_time": 1747200025,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8545,
       "num": 16081,
       "word": "出境旅客行李藏文物被查",
@@ -1729,6 +1881,9 @@
     },
     {
       "word": "#中国始终做拉美和加勒比国家的好朋友#"
+    },
+    {
+      "word": "#习近平会见哥伦比亚总统佩特罗#"
     }
   ]
 }
