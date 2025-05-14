@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747192509615,
+  "endTime": 1747193397470,
   "band_list": [
     {
       "raw_hot": 1334576,
@@ -43,12 +43,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 882176,
+      "num": 338508,
+      "word": "史诗级牛马",
+      "onboard_time": 1747190601,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 804355,
       "num": 332724,
       "word": "杜淳妻子自曝当不了演员的原因",
       "onboard_time": 1747150221,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 750807,
+      "num": 1120129,
+      "word": "广东150平毒枭房产149万成交",
+      "onboard_time": 1747188510,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726479,
@@ -67,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 713830,
-      "num": 338508,
-      "word": "史诗级牛马",
-      "onboard_time": 1747190601,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 712362,
       "num": 1113978,
       "word": "梁庭cp官宣",
@@ -91,20 +99,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 668486,
-      "num": 668486,
-      "word": "广东150平毒枭房产149万成交",
-      "onboard_time": 1747188510,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 666978,
       "num": 666978,
       "word": "韶华若锦定档",
       "onboard_time": 1747189649,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 651001,
+      "num": 651001,
+      "word": "同学的生命只有一次",
+      "onboard_time": 1747190541,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608359,
+      "num": 608359,
+      "word": "翻了24家银行找不到2%的存款",
+      "onboard_time": 1747191441,
+      "rank": 17,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 598501,
@@ -115,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543097,
-      "num": 543097,
-      "word": "同学的生命只有一次",
-      "onboard_time": 1747190541,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 541569,
+      "num": 541569,
+      "word": "未达成协议对华关税也不会重回145%",
+      "onboard_time": 1747187910,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 511774,
@@ -137,14 +153,6 @@
       "onboard_time": 1747186169,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 465865,
-      "num": 465865,
-      "word": "未达成协议对华关税也不会重回145%",
-      "onboard_time": 1747187910,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 453099,
@@ -275,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324091,
-      "num": 324091,
-      "word": "翻了24家银行找不到2%的存款",
-      "onboard_time": 1747191441,
-      "rank": 17,
-      "category": "民生新闻,财经"
+      "raw_hot": 312359,
+      "num": 320163,
+      "word": "因为尚雯婕选了复旦",
+      "onboard_time": 1747191201,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307834,
+      "num": 307834,
+      "word": "一口锅救了一整栋楼",
+      "onboard_time": 1747191980,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 307320,
@@ -315,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274286,
+      "num": 274286,
+      "word": "刘宇宁妆造",
+      "onboard_time": 1747193001,
+      "rank": 25,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 268411,
       "num": 268411,
       "word": "日本15岁男孩当街杀死8旬老妇",
       "onboard_time": 1747184491,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 261401,
-      "num": 320163,
-      "word": "因为尚雯婕选了复旦",
-      "onboard_time": 1747191201,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 260340,
@@ -345,14 +361,6 @@
       "onboard_time": 1747156516,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245365,
-      "num": 245365,
-      "word": "一口锅救了一整栋楼",
-      "onboard_time": 1747191980,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 237128,
@@ -393,6 +401,14 @@
       "onboard_time": 1747181421,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203979,
+      "num": 203979,
+      "word": "刘晓庆的翡翠好大",
+      "onboard_time": 1747193180,
+      "rank": 33,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 202810,
@@ -459,6 +475,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181384,
+      "num": 181384,
+      "word": "国台办回应台当局删除汉人表述",
+      "onboard_time": 1747192341,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 180187,
+      "num": 180187,
+      "word": "落马副局长微信名为兵不燕诈",
+      "onboard_time": 1747192582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177862,
       "num": 177862,
       "word": "张艺兴和马东锡合照",
@@ -475,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173533,
+      "num": 246998,
+      "word": "郑恺当初选角一致同意李昀锐",
+      "onboard_time": 1747192760,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169325,
       "num": 169325,
       "word": "孙颖莎王楚钦世乒赛训练现场",
@@ -489,6 +529,22 @@
       "onboard_time": 1747141942,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161215,
+      "num": 161215,
+      "word": "浪还在琴没了",
+      "onboard_time": 1747193241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159780,
+      "num": 159780,
+      "word": "国台办批台当局花招百出操弄去中国化",
+      "onboard_time": 1747192222,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159588,
@@ -539,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149476,
+      "num": 226912,
+      "word": "垃圾睡眠的伤害有多大",
+      "onboard_time": 1747193241,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147190,
+      "num": 147190,
+      "word": "丁真爆改十八铜人",
+      "onboard_time": 1747192940,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146192,
       "num": 146192,
       "word": "哪吒敖丙配音演员登上戛纳红毯",
@@ -563,20 +635,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 136851,
+      "num": 136851,
+      "word": "多哈世乒赛王曼昱海报",
+      "onboard_time": 1747193301,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135763,
       "num": 135763,
       "word": "刘晓庆戛纳红毯",
       "onboard_time": 1747182511,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134828,
-      "num": 134828,
-      "word": "国台办回应台当局删除汉人表述",
-      "onboard_time": 1747192341,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134806,
@@ -625,14 +697,6 @@
       "onboard_time": 1747179500,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132200,
-      "num": 132200,
-      "word": "国台办批台当局花招百出操弄去中国化",
-      "onboard_time": 1747192222,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129764,
@@ -1011,6 +1075,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48226,
+      "num": 308227,
+      "word": "前往非洲打工的中国年轻人",
+      "onboard_time": 1747192222,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48224,
+      "num": 326290,
+      "word": "团伙流窜多地盗窃医院住院部财务",
+      "onboard_time": 1747192222,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46923,
       "num": 56030,
       "word": "标普500指数年内转涨",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1747188868,
       "rank": 37,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 45339,
+      "num": 274359,
+      "word": "郑钦文凌晨1点再战萨巴伦卡",
+      "onboard_time": 1747188570,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 43316,
@@ -1057,6 +1145,22 @@
       "onboard_time": 1747156756,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39321,
+      "num": 293164,
+      "word": "气象部门解答北京冰雹成因",
+      "onboard_time": 1747192281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37382,
+      "num": 308166,
+      "word": "塔图姆跟腱断裂后还能重回巅峰吗",
+      "onboard_time": 1747192582,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 35688,
@@ -1131,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25057,
-      "num": 293164,
-      "word": "气象部门解答北京冰雹成因",
-      "onboard_time": 1747192281,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24317,
       "num": 72297,
       "word": "中国始终做拉美和加勒比国家的好朋友",
@@ -1155,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18673,
-      "num": 326290,
-      "word": "团伙流窜多地盗窃医院住院部财务",
-      "onboard_time": 1747192222,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17662,
       "num": 48372,
       "word": "欢迎巴西总统访华",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1747171574,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15267,
+      "num": 175851,
+      "word": "卡塔尔赠美国豪华空军一号",
+      "onboard_time": 1747192881,
+      "rank": 39,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 14310,
@@ -1209,14 +1305,6 @@
       "onboard_time": 1747169053,
       "rank": 49,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 13273,
-      "num": 307580,
-      "word": "前往非洲打工的中国年轻人",
-      "onboard_time": 1747192222,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13082,
