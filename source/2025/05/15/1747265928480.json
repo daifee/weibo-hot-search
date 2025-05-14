@@ -1,0 +1,410 @@
+{
+  "runTime": 1747265928480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850444,
+        "num": 961140,
+        "word": "郑钦文终结萨巴伦卡1000赛15连胜",
+        "onboard_time": 1747265059,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684761,
+        "num": 684761,
+        "word": "杨天真瘦成不穿大码女装的样子了",
+        "onboard_time": 1747233024,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47878,
+        "num": 334220,
+        "word": "终于有电影讲讲新疆棉花故事了",
+        "onboard_time": 1747228343,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314414,
+        "num": 314414,
+        "word": "娃哈哈客服回应纯净水由今麦郎代工",
+        "onboard_time": 1747232363,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292096,
+        "num": 292096,
+        "word": "英退伍军人集体揭英军非法杀戮",
+        "onboard_time": 1747240639,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278872,
+        "num": 278872,
+        "word": "郑钦文 山海皆可平",
+        "onboard_time": 1747264879,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255869,
+        "num": 255869,
+        "word": "中国乒协辟谣刘国梁被抓",
+        "onboard_time": 1747232124,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207973,
+        "num": 207973,
+        "word": "义乌商户说接下来15天肯定要大干",
+        "onboard_time": 1747252814,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96284,
+        "num": 207958,
+        "word": "肖战10秒演出四种情绪",
+        "onboard_time": 1747265240,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20608,
+        "num": 207871,
+        "word": "中美对话的基础不会改变",
+        "onboard_time": 1747264398,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482299,
+        "num": 207798,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363813,
+        "num": 207733,
+        "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
+        "onboard_time": 1747237043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251593,
+        "num": 207657,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213697,
+        "num": 207613,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127773,
+        "num": 207575,
+        "word": "普京确定俄乌谈判俄方代表团名单",
+        "onboard_time": 1747264518,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207528,
+        "num": 207528,
+        "word": "郑钦文谈第一次击败萨巴伦卡",
+        "onboard_time": 1747265059,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207314,
+        "num": 207314,
+        "word": "郑钦文一战刷新三大纪录",
+        "onboard_time": 1747265059,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121747,
+        "num": 206296,
+        "word": "国产剧最有味道的cp也be了",
+        "onboard_time": 1747260134,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160862,
+        "num": 202489,
+        "word": "李亚鹏妻子搬家",
+        "onboard_time": 1747265179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20937,
+        "num": 200140,
+        "word": "俄称解决俄乌冲突与俄美关系并不关联",
+        "onboard_time": 1747264459,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1585641,
+        "num": 195971,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 275692,
+        "num": 195200,
+        "word": "女子因过度防晒睡觉翻身时骨折",
+        "onboard_time": 1747244295,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274446,
+        "num": 190417,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189967,
+        "num": 189967,
+        "word": "金价",
+        "onboard_time": 1747230443,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174208,
+        "num": 174208,
+        "word": "郑钦文首胜萨巴伦卡",
+        "onboard_time": 1747265059,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98402,
+        "num": 174107,
+        "word": "内娱写字最好看的男女主出现了",
+        "onboard_time": 1747228222,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89822,
+        "num": 170420,
+        "word": "邓超问什么蛋糕可以插319根蜡烛",
+        "onboard_time": 1747236263,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80963,
+        "num": 165963,
+        "word": "李现 下次参加刘冲活动多解一颗扣子",
+        "onboard_time": 1747238242,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83575,
+        "num": 161663,
+        "word": "一觉醒来郑钦文再创多项新纪录",
+        "onboard_time": 1747265059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17510,
+        "num": 159606,
+        "word": "美线海运再现一舱难求",
+        "onboard_time": 1747265120,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 157478,
+        "word": "中方回应对藏南部分地区标准化命名",
+        "onboard_time": 1747235063,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151115,
+        "num": 151115,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144955,
+        "num": 144955,
+        "word": "提醒在英中国公民加强安全防范",
+        "onboard_time": 1747249094,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130944,
+        "num": 130944,
+        "word": "郑钦文回应首胜萨巴伦卡",
+        "onboard_time": 1747258093,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104137,
+        "num": 104137,
+        "word": "教育局回应学校要求家长参与护学岗",
+        "onboard_time": 1747265899,
+        "rank": 34,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 103146,
+        "num": 103146,
+        "word": "cp31",
+        "onboard_time": 1747264938,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 101213,
+        "num": 101213,
+        "word": "泫雅结婚后不失眠了",
+        "onboard_time": 1747228162,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97605,
+        "num": 97605,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96612,
+        "num": 96612,
+        "word": "特朗普访问中东三国主要目的是什么",
+        "onboard_time": 1747236202,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85333,
+        "num": 85333,
+        "word": "上海和睦家医院声明",
+        "onboard_time": 1747265418,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83173,
+        "num": 83173,
+        "word": "女子海底捞母婴室哺乳遭员工开门",
+        "onboard_time": 1747229662,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80135,
+        "num": 80135,
+        "word": "女子回应私厨一天6家月入2万争议",
+        "onboard_time": 1747235244,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74917,
+        "num": 74917,
+        "word": "女主咳了两声男主丧失主卧权",
+        "onboard_time": 1747263858,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68996,
+        "num": 68996,
+        "word": "中华民族不可能再让台湾分裂出去",
+        "onboard_time": 1747242676,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68982,
+        "num": 68982,
+        "word": "藏海传最新画面",
+        "onboard_time": 1747235903,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67527,
+        "num": 67527,
+        "word": "义乌商家清早接到30万双袜子大单",
+        "onboard_time": 1747230502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63158,
+        "num": 63158,
+        "word": "折腰热度",
+        "onboard_time": 1747265840,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62505,
+        "num": 62505,
+        "word": "杜海涛都没见过沈梦辰的这一面",
+        "onboard_time": 1747230264,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59073,
+        "num": 59073,
+        "word": "月子中心的秘密",
+        "onboard_time": 1747233143,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56412,
+        "num": 56412,
+        "word": "刘国梁联合国参加活动",
+        "onboard_time": 1747229842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中哥战略伙伴关系持续走深走实#"
+    }
+  }
+}

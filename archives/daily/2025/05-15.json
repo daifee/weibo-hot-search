@@ -1,7 +1,15 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747265036582,
+  "endTime": 1747265928480,
   "band_list": [
+    {
+      "raw_hot": 1585641,
+      "num": 195971,
+      "word": "原来处女膜一直都在被误解",
+      "onboard_time": 1747265359,
+      "rank": 20,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 933376,
       "num": 933376,
@@ -11,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850444,
+      "num": 961140,
+      "word": "郑钦文终结萨巴伦卡1000赛15连胜",
+      "onboard_time": 1747265059,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 833145,
-      "num": 158381,
+      "num": 190417,
       "word": "赵丽颖新恋情",
       "onboard_time": 1747198647,
       "rank": 20,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 487756,
-      "num": 157642,
+      "num": 189967,
       "word": "金价",
       "onboard_time": 1747230443,
       "rank": 21,
@@ -72,6 +88,14 @@
       "word": "蒲熠星撕拉片失败了",
       "onboard_time": 1747222882,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363813,
+      "num": 207733,
+      "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
+      "onboard_time": 1747237043,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -132,19 +156,19 @@
     },
     {
       "raw_hot": 282612,
-      "num": 102318,
+      "num": 195200,
       "word": "女子因过度防晒睡觉翻身时骨折",
       "onboard_time": 1747244295,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277977,
-      "num": 170358,
-      "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
-      "onboard_time": 1747237043,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 278872,
+      "num": 278872,
+      "word": "郑钦文 山海皆可平",
+      "onboard_time": 1747264879,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 262967,
@@ -180,18 +204,26 @@
     },
     {
       "raw_hot": 213983,
-      "num": 167036,
+      "num": 207613,
       "word": "女子称穿瑜伽服上门做饭不是为流量",
       "onboard_time": 1747221081,
       "rank": 29,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197356,
-      "num": 197356,
-      "word": "郑钦文 山海皆可平",
-      "onboard_time": 1747264879,
-      "rank": 6,
+      "raw_hot": 207528,
+      "num": 207528,
+      "word": "郑钦文谈第一次击败萨巴伦卡",
+      "onboard_time": 1747265059,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207314,
+      "num": 207314,
+      "word": "郑钦文一战刷新三大纪录",
+      "onboard_time": 1747265059,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -227,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174208,
+      "num": 174208,
+      "word": "郑钦文首胜萨巴伦卡",
+      "onboard_time": 1747265059,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171796,
       "num": 171796,
       "word": "鹿晗演唱会",
@@ -241,6 +281,14 @@
       "onboard_time": 1747230023,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160862,
+      "num": 202489,
+      "word": "李亚鹏妻子搬家",
+      "onboard_time": 1747265179,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 149999,
@@ -260,11 +308,19 @@
     },
     {
       "raw_hot": 128522,
-      "num": 173389,
+      "num": 206296,
       "word": "国产剧最有味道的cp也be了",
       "onboard_time": 1747260134,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127773,
+      "num": 207575,
+      "word": "普京确定俄乌谈判俄方代表团名单",
+      "onboard_time": 1747264518,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127485,
@@ -315,8 +371,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104137,
+      "num": 104137,
+      "word": "教育局回应学校要求家长参与护学岗",
+      "onboard_time": 1747265899,
+      "rank": 34,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 103146,
+      "num": 103146,
+      "word": "cp31",
+      "onboard_time": 1747264938,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97807,
-      "num": 100280,
+      "num": 170420,
       "word": "邓超问什么蛋糕可以插319根蜡烛",
       "onboard_time": 1747236263,
       "rank": 32,
@@ -331,12 +403,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96197,
-      "num": 96197,
+      "raw_hot": 96612,
+      "num": 96612,
       "word": "特朗普访问中东三国主要目的是什么",
       "onboard_time": 1747236202,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96284,
+      "num": 207958,
+      "word": "肖战10秒演出四种情绪",
+      "onboard_time": 1747265240,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 92853,
@@ -363,12 +443,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85333,
+      "num": 85333,
+      "word": "上海和睦家医院声明",
+      "onboard_time": 1747265418,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83575,
+      "num": 161663,
+      "word": "一觉醒来郑钦文再创多项新纪录",
+      "onboard_time": 1747265059,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82214,
       "num": 82214,
       "word": "罗云熙返图",
       "onboard_time": 1747240639,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80135,
+      "num": 104054,
+      "word": "女子回应私厨一天6家月入2万争议",
+      "onboard_time": 1747235244,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79455,
@@ -395,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 76119,
-      "num": 104054,
-      "word": "女子回应私厨一天6家月入2万争议",
-      "onboard_time": 1747235244,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75470,
       "num": 75470,
       "word": "刘国梁联合国参加活动",
@@ -411,15 +507,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75363,
-      "num": 75363,
-      "word": "cp31",
-      "onboard_time": 1747264938,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 74745,
+      "raw_hot": 74917,
       "num": 99101,
       "word": "女主咳了两声男主丧失主卧权",
       "onboard_time": 1747263858,
@@ -472,6 +560,14 @@
       "word": "谁懂折腰剧粉和开推粉的救赎感",
       "onboard_time": 1747236982,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63158,
+      "num": 63158,
+      "word": "折腰热度",
+      "onboard_time": 1747265840,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -555,20 +651,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 47878,
+      "num": 334220,
+      "word": "终于有电影讲讲新疆棉花故事了",
+      "onboard_time": 1747228343,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41182,
       "num": 33617,
       "word": "高芙四连胜安德列娃",
       "onboard_time": 1747249094,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39209,
-      "num": 97935,
-      "word": "普京确定俄乌谈判俄方代表团名单",
-      "onboard_time": 1747264518,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37525,
@@ -585,14 +681,6 @@
       "onboard_time": 1747242018,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 33964,
-      "num": 291201,
-      "word": "终于有电影讲讲新疆棉花故事了",
-      "onboard_time": 1747228343,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26878,
@@ -635,28 +723,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17191,
-      "num": 24997,
-      "word": "王源时尚先生封面",
-      "onboard_time": 1747248314,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 20937,
+      "num": 200140,
+      "word": "俄称解决俄乌冲突与俄美关系并不关联",
+      "onboard_time": 1747264459,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 15215,
-      "num": 97069,
+      "raw_hot": 20608,
+      "num": 207871,
       "word": "中美对话的基础不会改变",
       "onboard_time": 1747264398,
       "rank": 28,
       "category": "国内时政"
     },
     {
-      "raw_hot": 13074,
-      "num": 96741,
-      "word": "俄称解决俄乌冲突与俄美关系并不关联",
-      "onboard_time": 1747264459,
+      "raw_hot": 17510,
+      "num": 159606,
+      "word": "美线海运再现一舱难求",
+      "onboard_time": 1747265120,
       "rank": 29,
-      "category": "国际时政"
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 17191,
+      "num": 24997,
+      "word": "王源时尚先生封面",
+      "onboard_time": 1747248314,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12741,
