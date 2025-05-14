@@ -1,6 +1,6 @@
 {
   "startTime": 1747153985155,
-  "endTime": 1747219537931,
+  "endTime": 1747221721563,
   "band_list": [
     {
       "raw_hot": 12882219,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1658093,
+      "num": 1083982,
+      "word": "折腰",
+      "onboard_time": 1747218922,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1586892,
       "num": 482367,
       "word": "甘薇贾跃亭离婚",
@@ -57,6 +65,14 @@
       "onboard_time": 1747207883,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1402611,
+      "num": 1402611,
+      "word": "山西订婚强奸入选最高法案例",
+      "onboard_time": 1747218802,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1388125,
@@ -121,6 +137,14 @@
       "onboard_time": 1747190601,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1067576,
+      "num": 290152,
+      "word": "赵磊婚礼",
+      "onboard_time": 1747218562,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1059282,
@@ -259,14 +283,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 599163,
-      "num": 599163,
-      "word": "折腰",
-      "onboard_time": 1747218922,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 598501,
       "num": 332826,
       "word": "黄子韬给徐艺洋发了一堆表情",
@@ -305,14 +321,6 @@
       "onboard_time": 1747215143,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 567674,
-      "num": 290152,
-      "word": "赵磊婚礼",
-      "onboard_time": 1747218562,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 557136,
@@ -377,6 +385,14 @@
       "onboard_time": 1747186169,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 463756,
+      "num": 385906,
+      "word": "GAI挂labubu上歌手",
+      "onboard_time": 1747220001,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 463269,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303579,
+      "num": 303579,
+      "word": "姜同学你在人生大考中已获满分",
+      "onboard_time": 1747219762,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 300701,
       "num": 264288,
       "word": "丁禹兮工作室 线下",
@@ -867,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235188,
+      "num": 262878,
+      "word": "单依纯在歌手发布会上打瞌睡",
+      "onboard_time": 1747220183,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231592,
       "num": 267731,
       "word": "荣耀400让你戒掉手机壳",
@@ -875,12 +907,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 229438,
+      "num": 229438,
+      "word": "女硕士失踪13年生育两孩案家属发声",
+      "onboard_time": 1747219882,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228741,
       "num": 228741,
       "word": "掘金vs雷霆",
       "onboard_time": 1747194862,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227995,
+      "num": 260193,
+      "word": "王源为GAI上歌手打call",
+      "onboard_time": 1747221563,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 224966,
@@ -948,11 +996,19 @@
     },
     {
       "raw_hot": 216069,
-      "num": 601982,
+      "num": 725075,
       "word": "我国成功发射太空计算卫星星座",
       "onboard_time": 1747203504,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215072,
+      "num": 288867,
+      "word": "为救同学缺考小伙将参加副题考试",
+      "onboard_time": 1747218502,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212711,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1747148424,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201328,
+      "num": 258141,
+      "word": "闫桉素颜直播帅成这样",
+      "onboard_time": 1747220362,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 201230,
@@ -1331,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175141,
+      "num": 175141,
+      "word": "樊振东吃冠军灶",
+      "onboard_time": 1747219341,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174870,
       "num": 204604,
       "word": "周深偷偷流了许多眼泪",
@@ -1419,6 +1491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 167238,
+      "num": 232908,
+      "word": "孔雪儿一出场让我忘了王妃的善良",
+      "onboard_time": 1747219162,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "月入2千活得像月入2万",
@@ -1483,20 +1563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158615,
-      "num": 158615,
-      "word": "山西订婚强奸入选最高法案例",
-      "onboard_time": 1747218802,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158532,
       "num": 371266,
       "word": "京东国补更便宜",
       "onboard_time": 1747195403,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 157282,
+      "num": 157282,
+      "word": "沈梦辰时隔12年气质变化",
+      "onboard_time": 1747221563,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 157001,
@@ -1827,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128249,
+      "num": 128249,
+      "word": "张萌说折腰好看",
+      "onboard_time": 1747221022,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127713,
       "num": 127713,
       "word": "特朗普将取消对叙利亚制裁",
@@ -1881,6 +1969,14 @@
       "onboard_time": 1747217181,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124945,
+      "num": 124945,
+      "word": "全班都用ai做作业 教授爆发了",
+      "onboard_time": 1747221623,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 124023,
@@ -1939,6 +2035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120369,
+      "num": 120369,
+      "word": "印议员称80小时损失950亿美元",
+      "onboard_time": 1747221264,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120202,
       "num": 150841,
       "word": "巴基斯坦外甥来中国探亲犹如穿越",
@@ -1969,14 +2073,6 @@
       "onboard_time": 1747189590,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 116479,
-      "num": 116479,
-      "word": "樊振东吃冠军灶",
-      "onboard_time": 1747219341,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 116173,
@@ -2019,6 +2115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113191,
+      "num": 113191,
+      "word": "宁艺卓ELLE6月刊封面预告",
+      "onboard_time": 1747220121,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112447,
+      "num": 112447,
+      "word": "葛夕黄圣依一起学潜水",
+      "onboard_time": 1747221502,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112161,
       "num": 112161,
       "word": "白敬亭徒步12宫格",
@@ -2041,6 +2153,14 @@
       "onboard_time": 1747152320,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111213,
+      "num": 111213,
+      "word": "程潇有自己的超长睡眠",
+      "onboard_time": 1747220061,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 110661,
@@ -2073,14 +2193,6 @@
       "onboard_time": 1747213163,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 108785,
-      "num": 232908,
-      "word": "孔雪儿一出场让我忘了王妃的善良",
-      "onboard_time": 1747219162,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 107818,
@@ -2137,14 +2249,6 @@
       "onboard_time": 1747217061,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103191,
-      "num": 103191,
-      "word": "为救同学缺考小伙将参加副题考试",
-      "onboard_time": 1747218502,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102308,
@@ -2443,6 +2547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63948,
+      "num": 266078,
+      "word": "女子称穿瑜伽服上门做饭不是为流量",
+      "onboard_time": 1747221081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62597,
       "num": 202659,
       "word": "胡兵也加入快递大军",
@@ -2505,6 +2617,14 @@
       "onboard_time": 1747210342,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57099,
+      "num": 275665,
+      "word": "中俄就共建月球核电站签署合作备忘录",
+      "onboard_time": 1747220842,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56654,
@@ -2585,6 +2705,14 @@
       "onboard_time": 1747178059,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 46380,
+      "num": 269630,
+      "word": "台退役将领解读特朗普统一言论",
+      "onboard_time": 1747220302,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45814,
@@ -3059,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11630,
+      "num": 226142,
+      "word": "一个很好训练表达能力的小方法",
+      "onboard_time": 1747221382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11059,
       "num": 45491,
       "word": "王宜林一审获刑13年",
@@ -3099,6 +3235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9593,
+      "num": 267462,
+      "word": "翁美玲有哪些值得回味的经典作品",
+      "onboard_time": 1747220542,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9067,
       "num": 233182,
       "word": "如何利用藏海传推动文旅融合发展",
@@ -3113,6 +3257,14 @@
       "onboard_time": 1747168093,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5962,
+      "num": 272628,
+      "word": "Grace的翻唱经历如何助力歌手舞台",
+      "onboard_time": 1747221382,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 5481,

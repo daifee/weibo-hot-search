@@ -1,0 +1,410 @@
+{
+  "runTime": 1747221721563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1402611,
+        "num": 1402611,
+        "word": "山西订婚强奸入选最高法案例",
+        "onboard_time": 1747218802,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1658093,
+        "num": 1083982,
+        "word": "折腰",
+        "onboard_time": 1747218922,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46215,
+        "num": 725075,
+        "word": "我国成功发射太空计算卫星星座",
+        "onboard_time": 1747203504,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657839,
+        "num": 657839,
+        "word": "男子14.8万卖金条后银行卡被冻结",
+        "onboard_time": 1747217602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474521,
+        "num": 474521,
+        "word": "歌手首发阵容官宣",
+        "onboard_time": 1747202424,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386115,
+        "num": 386115,
+        "word": "陈梦回应没拿到大满贯",
+        "onboard_time": 1747219043,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463756,
+        "num": 385906,
+        "word": "GAI挂labubu上歌手",
+        "onboard_time": 1747220001,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303579,
+        "num": 303579,
+        "word": "姜同学你在人生大考中已获满分",
+        "onboard_time": 1747219762,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 290153,
+        "num": 290153,
+        "word": "单依纯上歌手不想火药味太重",
+        "onboard_time": 1747216524,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215072,
+        "num": 288867,
+        "word": "为救同学缺考小伙将参加副题考试",
+        "onboard_time": 1747218502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1583860,
+        "num": 285046,
+        "word": "关晓彤无名指戒指",
+        "onboard_time": 1747210283,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1067576,
+        "num": 282877,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747218562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429167,
+        "num": 280969,
+        "word": "普京爆粗",
+        "onboard_time": 1747207883,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94358,
+        "num": 278692,
+        "word": "京东又宣了好多九块九",
+        "onboard_time": 1747217241,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57099,
+        "num": 275665,
+        "word": "中俄就共建月球核电站签署合作备忘录",
+        "onboard_time": 1747220842,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273096,
+        "num": 273096,
+        "word": "内衣终于癫成了我不认识的样子",
+        "onboard_time": 1747202424,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 5962,
+        "num": 272628,
+        "word": "Grace的翻唱经历如何助力歌手舞台",
+        "onboard_time": 1747221382,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46380,
+        "num": 269630,
+        "word": "台退役将领解读特朗普统一言论",
+        "onboard_time": 1747220302,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9593,
+        "num": 267462,
+        "word": "翁美玲有哪些值得回味的经典作品",
+        "onboard_time": 1747220542,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63948,
+        "num": 266078,
+        "word": "女子称穿瑜伽服上门做饭不是为流量",
+        "onboard_time": 1747221081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1874134,
+        "num": 264697,
+        "word": "赵丽颖新恋情",
+        "onboard_time": 1747198647,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235188,
+        "num": 262878,
+        "word": "单依纯在歌手发布会上打瞌睡",
+        "onboard_time": 1747220183,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227995,
+        "num": 260193,
+        "word": "王源为GAI上歌手打call",
+        "onboard_time": 1747221563,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201328,
+        "num": 258141,
+        "word": "闫桉素颜直播帅成这样",
+        "onboard_time": 1747220362,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257344,
+        "num": 257344,
+        "word": "花165万买到了北京150平米的老破大",
+        "onboard_time": 1747208424,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236742,
+        "num": 236742,
+        "word": "中方对美芬太尼反制仍然有效",
+        "onboard_time": 1747215143,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234550,
+        "num": 234550,
+        "word": "藏海传张本",
+        "onboard_time": 1747217122,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234053,
+        "num": 234053,
+        "word": "大学生曝宿舍男厕便池藏偷摄像头",
+        "onboard_time": 1747212504,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229438,
+        "num": 229438,
+        "word": "女硕士失踪13年生育两孩案家属发声",
+        "onboard_time": 1747219882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11630,
+        "num": 226142,
+        "word": "一个很好训练表达能力的小方法",
+        "onboard_time": 1747221382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224898,
+        "num": 224898,
+        "word": "偶遇鹿晗东京吃拉面",
+        "onboard_time": 1747213522,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183621,
+        "num": 183621,
+        "word": "曝iPhone18Pro将配屏下FaceID",
+        "onboard_time": 1747219162,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181981,
+        "num": 181981,
+        "word": "朱正廷发文痛斥私生",
+        "onboard_time": 1747217543,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175141,
+        "num": 175141,
+        "word": "樊振东吃冠军灶",
+        "onboard_time": 1747219341,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167238,
+        "num": 167238,
+        "word": "孔雪儿一出场让我忘了王妃的善良",
+        "onboard_time": 1747219162,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164264,
+        "num": 164264,
+        "word": "12岁女孩不知情欠债250万成老赖",
+        "onboard_time": 1747216102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162501,
+        "num": 162501,
+        "word": "官方回应小伙为救同学放弃考试",
+        "onboard_time": 1747211903,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 157282,
+        "num": 157282,
+        "word": "沈梦辰时隔12年气质变化",
+        "onboard_time": 1747221563,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153370,
+        "num": 153370,
+        "word": "同学的生命只有一次",
+        "onboard_time": 1747190541,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148777,
+        "num": 148777,
+        "word": "日本餐饮公司就拒绝接待中国人道歉",
+        "onboard_time": 1747210342,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128249,
+        "num": 128249,
+        "word": "张萌说折腰好看",
+        "onboard_time": 1747221022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124945,
+        "num": 124945,
+        "word": "全班都用ai做作业 教授爆发了",
+        "onboard_time": 1747221623,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121915,
+        "num": 121915,
+        "word": "紫光集团原董事长赵伟国一审死缓",
+        "onboard_time": 1747217122,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120369,
+        "num": 120369,
+        "word": "印议员称80小时损失950亿美元",
+        "onboard_time": 1747221264,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115859,
+        "num": 115859,
+        "word": "藏海传最后不会杀的只剩剧名了吧",
+        "onboard_time": 1747210524,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113191,
+        "num": 113191,
+        "word": "宁艺卓ELLE6月刊封面预告",
+        "onboard_time": 1747220121,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112447,
+        "num": 112447,
+        "word": "葛夕黄圣依一起学潜水",
+        "onboard_time": 1747221502,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111213,
+        "num": 111213,
+        "word": "程潇有自己的超长睡眠",
+        "onboard_time": 1747220061,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 110976,
+        "word": "医生建议40岁以上人群定期筛查这种癌",
+        "onboard_time": 1747212263,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107957,
+        "num": 107957,
+        "word": "浪还在琴没了",
+        "onboard_time": 1747193241,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见智利总统#"
+    }
+  }
+}
