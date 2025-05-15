@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747329803077,
+  "endTime": 1747330822326,
   "band_list": [
     {
       "raw_hot": 1112167,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 633914,
-      "num": 426100,
+      "raw_hot": 655150,
+      "num": 655150,
       "word": "队长",
       "onboard_time": 1747316905,
       "rank": 7,
