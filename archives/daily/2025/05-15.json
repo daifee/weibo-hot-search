@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747293943666,
+  "endTime": 1747294758702,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -17,6 +17,14 @@
       "onboard_time": 1747281562,
       "rank": 4,
       "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 2313698,
+      "num": 2313698,
+      "word": "比伯破产",
+      "onboard_time": 1747293501,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 2006231,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1253026,
+      "num": 489563,
+      "word": "向往的生活 回归",
+      "onboard_time": 1747292602,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1182364,
       "num": 456969,
       "word": "黄杨钿甜 葛莉莎",
@@ -65,14 +81,6 @@
       "onboard_time": 1747266561,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1126990,
-      "num": 489563,
-      "word": "向往的生活 回归",
-      "onboard_time": 1747292602,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1085327,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 592031,
-      "num": 368164,
+      "num": 431488,
       "word": "X玖少年团不会在婚礼合体吧",
       "onboard_time": 1747292182,
       "rank": 11,
@@ -219,20 +227,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 589385,
-      "num": 466421,
-      "word": "比伯破产",
-      "onboard_time": 1747293501,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 580626,
       "num": 580626,
       "word": "35岁工程师患胃癌晚期家中3人有胃癌",
       "onboard_time": 1747281983,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579786,
+      "num": 579786,
+      "word": "小米YU7 发布会",
+      "onboard_time": 1747293023,
+      "rank": 8,
+      "category": "汽车"
     },
     {
       "raw_hot": 552109,
@@ -379,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429965,
-      "num": 429965,
-      "word": "小米YU7 发布会",
-      "onboard_time": 1747293023,
-      "rank": 8,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 427070,
       "num": 224444,
       "word": "关晓彤无名指戒指",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 373881,
-      "num": 373881,
+      "num": 437939,
       "word": "中国发往美国集装箱爆仓",
       "onboard_time": 1747292001,
       "rank": 9,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 360577,
-      "num": 360577,
+      "num": 386229,
       "word": "赵樱子带弟弟走红毯",
       "onboard_time": 1747291643,
       "rank": 31,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265847,
+      "num": 284669,
+      "word": "祝绪丹和相亲对象打电话急眼了",
+      "onboard_time": 1747293743,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262967,
       "num": 213931,
       "word": "李现 下次参加刘冲活动多解一颗扣子",
@@ -883,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213651,
-      "num": 213651,
-      "word": "祝绪丹和相亲对象打电话急眼了",
-      "onboard_time": 1747293743,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212087,
       "num": 314478,
       "word": "李晟说要善于发现自己的优点",
@@ -907,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211471,
+      "num": 211471,
+      "word": "中餐厅",
+      "onboard_time": 1747294402,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210494,
       "num": 274487,
       "word": "中国网协祝贺郑钦文终结萨巴伦卡",
       "onboard_time": 1747278442,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209136,
+      "num": 209136,
+      "word": "印度爆发抗议要求政府公开真相",
+      "onboard_time": 1747294402,
+      "rank": 42,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 208108,
@@ -1083,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189306,
+      "num": 189306,
+      "word": "向往的生活",
+      "onboard_time": 1747294223,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189212,
       "num": 339782,
       "word": "美团会员很牛吗",
@@ -1155,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181198,
+      "num": 181198,
+      "word": "谁来给金靖安个热巴防沉迷",
+      "onboard_time": 1747294463,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179334,
       "num": 179334,
       "word": "勇士vs森林狼",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1747278201,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175519,
+      "num": 434970,
+      "word": "美线海运一夜爆单",
+      "onboard_time": 1747293381,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175441,
@@ -1683,12 +1723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123603,
+      "num": 285258,
+      "word": "哪些信号是甲状腺在求救",
+      "onboard_time": 1747294162,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121782,
       "num": 121782,
       "word": "男子虐猫后挂网络平台叫卖被行拘",
       "onboard_time": 1747234522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118582,
+      "num": 479568,
+      "word": "新工体夏日歌会门票免费",
+      "onboard_time": 1747291341,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 114892,
@@ -1699,20 +1755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113989,
+      "num": 283459,
+      "word": "AG集齐青白蛇冠军签名",
+      "onboard_time": 1747294162,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111961,
       "num": 111961,
       "word": "京东外卖",
       "onboard_time": 1747273280,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 109779,
-      "num": 479568,
-      "word": "新工体夏日歌会门票免费",
-      "onboard_time": 1747291341,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 107275,
@@ -1849,14 +1905,6 @@
       "onboard_time": 1747233623,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 90719,
-      "num": 303567,
-      "word": "美线海运一夜爆单",
-      "onboard_time": 1747293381,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87485,
@@ -2331,6 +2379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41177,
+      "num": 317771,
+      "word": "国际乒联回顾孙颖莎德班世乒赛夺冠",
+      "onboard_time": 1747293802,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39117,
+      "num": 282641,
+      "word": "郑钦文田忌赛马智取萨巴伦卡",
+      "onboard_time": 1747294102,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37525,
       "num": 37525,
       "word": "2025LPL第二赛段",
@@ -2388,7 +2452,7 @@
     },
     {
       "raw_hot": 27424,
-      "num": 239802,
+      "num": 302604,
       "word": "本周后期广东雷雨渐趋活跃",
       "onboard_time": 1747293863,
       "rank": 34,
@@ -2409,14 +2473,6 @@
       "onboard_time": 1747255215,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26156,
-      "num": 317771,
-      "word": "国际乒联回顾孙颖莎德班世乒赛夺冠",
-      "onboard_time": 1747293802,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 25494,
@@ -2499,6 +2555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 16312,
+      "num": 292607,
+      "word": "重病客户取款去世该怎样优化流程",
+      "onboard_time": 1747294283,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16078,
       "num": 277039,
       "word": "新骗术遥控取钱是怎样蛊惑上当的",
@@ -2529,6 +2593,14 @@
       "onboard_time": 1747283484,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11758,
+      "num": 213958,
+      "word": "教资面试结构化时政题汇",
+      "onboard_time": 1747294283,
+      "rank": 39,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 11749,
@@ -2569,6 +2641,14 @@
       "onboard_time": 1747278081,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7749,
+      "num": 214303,
+      "word": "美F35险被胡赛导弹击中",
+      "onboard_time": 1747294703,
+      "rank": 38,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 5273,
