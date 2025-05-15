@@ -1,14 +1,22 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747265928480,
+  "endTime": 1747274158736,
   "band_list": [
     {
       "raw_hot": 1585641,
-      "num": 195971,
+      "num": 198022,
       "word": "原来处女膜一直都在被误解",
       "onboard_time": 1747265359,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1019376,
+      "num": 301314,
+      "word": "关晓彤回应无名指戒指",
+      "onboard_time": 1747266561,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 933376,
@@ -17,6 +25,14 @@
       "onboard_time": 1747233024,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 911447,
+      "num": 1145831,
+      "word": "小楚乔原定演员葛莉莎曾回应过换角",
+      "onboard_time": 1747271252,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 850444,
@@ -43,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552109,
+      "num": 298600,
+      "word": "他甚至用裤子擦了一下抓错人的手",
+      "onboard_time": 1747267643,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 518357,
       "num": 229571,
       "word": "月子中心的秘密",
@@ -51,12 +75,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 510058,
+      "num": 298107,
+      "word": "断崖式分手后的两个多月",
+      "onboard_time": 1747268122,
+      "rank": 12,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 487756,
       "num": 189967,
       "word": "金价",
       "onboard_time": 1747230443,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 461069,
+      "num": 197337,
+      "word": "李亚鹏经济状况不好再次搬家",
+      "onboard_time": 1747272742,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 438047,
@@ -75,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384577,
+      "num": 384577,
+      "word": "华为官宣鸿蒙电脑非凡大师版",
+      "onboard_time": 1747272682,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 380969,
       "num": 380969,
       "word": "英退伍军人集体揭英军非法杀戮",
@@ -91,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365348,
+      "num": 365348,
+      "word": "G社拍的张凌赫章昊李宛妲",
+      "onboard_time": 1747268063,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363813,
       "num": 207733,
       "word": "网红千惠回应戛纳红毯穿大裙摆礼服",
@@ -99,12 +155,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360441,
+      "num": 196029,
+      "word": "女子因过度防晒睡觉翻身时骨折",
+      "onboard_time": 1747244295,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356428,
       "num": 215834,
       "word": "全班都用ai做作业 教授爆发了",
       "onboard_time": 1747221623,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 336980,
+      "num": 296968,
+      "word": "越南女首富狱中发函求免死",
+      "onboard_time": 1747266620,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 328638,
+      "num": 328638,
+      "word": "广东多名中学生出操被地面烫伤",
+      "onboard_time": 1747266319,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324984,
+      "num": 324984,
+      "word": "废品回收站发现几百个机密文件",
+      "onboard_time": 1747267701,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324010,
+      "num": 324010,
+      "word": "水龙吟",
+      "onboard_time": 1747272742,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 305367,
@@ -123,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301472,
+      "num": 301472,
+      "word": "魏劭谁懂啊宣夜我懂",
+      "onboard_time": 1747268002,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300569,
       "num": 300569,
       "word": "中方回应对藏南部分地区标准化命名",
@@ -137,6 +241,14 @@
       "onboard_time": 1747235182,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295629,
+      "num": 295629,
+      "word": "黄磊孙莉带儿女逛西湖",
+      "onboard_time": 1747268002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 288337,
@@ -155,20 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282612,
-      "num": 195200,
-      "word": "女子因过度防晒睡觉翻身时骨折",
-      "onboard_time": 1747244295,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278872,
       "num": 278872,
       "word": "郑钦文 山海皆可平",
       "onboard_time": 1747264879,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270730,
+      "num": 270730,
+      "word": "肖战10秒演出四种情绪",
+      "onboard_time": 1747265240,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 262967,
@@ -187,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253809,
+      "num": 253809,
+      "word": "种地吧直播",
+      "onboard_time": 1747273641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239971,
       "num": 239971,
       "word": "郑钦文vs萨巴伦卡",
@@ -201,6 +321,14 @@
       "onboard_time": 1747252814,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220351,
+      "num": 220351,
+      "word": "普京确定俄乌谈判俄方代表团名单",
+      "onboard_time": 1747264518,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213983,
@@ -227,6 +355,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200342,
+      "num": 200342,
+      "word": "野狗骨头阵容官宣",
+      "onboard_time": 1747273521,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198557,
+      "num": 198557,
+      "word": "aespa将6月回归",
+      "onboard_time": 1747273161,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 194266,
+      "num": 194266,
+      "word": "何小鹏官宣全新小鹏P7",
+      "onboard_time": 1747273521,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194233,
       "num": 194233,
       "word": "义乌商家清早接到30万双袜子大单",
@@ -251,6 +403,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182876,
+      "num": 182876,
+      "word": "水龙吟首支片花",
+      "onboard_time": 1747272742,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182178,
+      "num": 195472,
+      "word": "端午假期购票日历请收好",
+      "onboard_time": 1747273521,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179095,
+      "num": 179095,
+      "word": "日本女性的长期饮食压抑",
+      "onboard_time": 1747267822,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178093,
+      "num": 178093,
+      "word": "伊朗将与美国签署有条件的核协议",
+      "onboard_time": 1747273221,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 178093,
+      "num": 178092,
+      "word": "野狗骨头",
+      "onboard_time": 1747272802,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174727,
       "num": 175190,
       "word": "提醒在英中国公民加强安全防范",
@@ -267,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172514,
+      "num": 172514,
+      "word": "唐嫣抹胸花朵刺绣高定",
+      "onboard_time": 1747272922,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171796,
       "num": 171796,
       "word": "鹿晗演唱会",
@@ -275,12 +475,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169899,
+      "num": 169899,
+      "word": "女子买金饰秒下单称货买当下值",
+      "onboard_time": 1747269991,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166268,
+      "num": 166268,
+      "word": "姐姐姐夫先亲上了",
+      "onboard_time": 1747273221,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164428,
       "num": 164428,
       "word": "王一博周深的歌入选2024优秀歌曲",
       "onboard_time": 1747230023,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162837,
+      "num": 162837,
+      "word": "潘粤明熬夜看郑钦文比赛",
+      "onboard_time": 1747271431,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "黄杨钿甜 葛莉莎",
+      "onboard_time": 1747273880,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 160862,
@@ -299,6 +531,54 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149495,
+      "num": 147315,
+      "word": "鄂州车祸已致1死2伤",
+      "onboard_time": 1747268481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147609,
+      "num": 147609,
+      "word": "警方通报保时捷失控致1死2伤",
+      "onboard_time": 1747273761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146890,
+      "num": 146890,
+      "word": "金饰消费暴跌金币金条消费暴涨",
+      "onboard_time": 1747267402,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 142764,
+      "num": 142764,
+      "word": "李帝努上大学了",
+      "onboard_time": 1747270830,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142353,
+      "num": 397844,
+      "word": "网警提醒这些习惯正泄露你的个人信息",
+      "onboard_time": 1747272029,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142027,
+      "num": 194398,
+      "word": "金饰克价跌到975元",
+      "onboard_time": 1747273401,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "央视端午晚会录制阵容",
@@ -307,20 +587,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136535,
+      "num": 136535,
+      "word": "许我耀眼",
+      "onboard_time": 1747272389,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 133625,
+      "word": "猫 我征服人类只需要呼吸",
+      "onboard_time": 1747269511,
+      "rank": 44,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 132589,
+      "num": 132589,
+      "word": "李雪琴演技",
+      "onboard_time": 1747270770,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128522,
       "num": 206296,
       "word": "国产剧最有味道的cp也be了",
       "onboard_time": 1747260134,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127773,
-      "num": 207575,
-      "word": "普京确定俄乌谈判俄方代表团名单",
-      "onboard_time": 1747264518,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127485,
@@ -339,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126654,
+      "num": 118354,
+      "word": "金饰克价一夜再跌17元",
+      "onboard_time": 1747273401,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125498,
       "num": 125498,
       "word": "泫雅结婚后不失眠了",
       "onboard_time": 1747228162,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125082,
+      "num": 125082,
+      "word": "今日国际家庭日",
+      "onboard_time": 1747273880,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124137,
@@ -387,6 +699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 101414,
+      "num": 112108,
+      "word": "文化中国行传承优良家风",
+      "onboard_time": 1747269331,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 97807,
       "num": 170420,
       "word": "邓超问什么蛋糕可以插319根蜡烛",
@@ -409,14 +729,6 @@
       "onboard_time": 1747236202,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96284,
-      "num": 207958,
-      "word": "肖战10秒演出四种情绪",
-      "onboard_time": 1747265240,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 92853,
@@ -444,7 +756,7 @@
     },
     {
       "raw_hot": 85333,
-      "num": 85333,
+      "num": 178093,
       "word": "上海和睦家医院声明",
       "onboard_time": 1747265418,
       "rank": 39,
