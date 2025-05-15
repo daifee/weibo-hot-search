@@ -1,0 +1,410 @@
+{
+  "runTime": 1747319188491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6532235,
+        "num": 6532235,
+        "word": "董某莹四项证书被撤销",
+        "onboard_time": 1747311022,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1102906,
+        "num": 1102906,
+        "word": "上海10岁女孩确诊长发公主综合征",
+        "onboard_time": 1747306703,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89615,
+        "num": 884212,
+        "word": "降准释放了明确稳增长的积极信号",
+        "onboard_time": 1747316424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702535,
+        "num": 702535,
+        "word": "歌手歌单",
+        "onboard_time": 1747310782,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686775,
+        "num": 686775,
+        "word": "北京协和医学院正在深入整改",
+        "onboard_time": 1747311625,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 644726,
+        "num": 644726,
+        "word": "人民网评小米芯片即将问世",
+        "onboard_time": 1747318164,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 785225,
+        "num": 591530,
+        "word": "董袭莹不符合当年协和4加4报考资格",
+        "onboard_time": 1747312884,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467770,
+        "num": 467770,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503955,
+        "num": 459415,
+        "word": "肖某事件涉及单位人员正被调查",
+        "onboard_time": 1747312043,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 429579,
+        "num": 429579,
+        "word": "赵樱子请了顶级妆造团队",
+        "onboard_time": 1747312103,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81072,
+        "num": 418557,
+        "word": "小米自主研发设计手机芯片将发布",
+        "onboard_time": 1747318284,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2074117,
+        "num": 418431,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450657,
+        "num": 418309,
+        "word": "肖某被吊销医师执业证书",
+        "onboard_time": 1747311082,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 415953,
+        "num": 415953,
+        "word": "队长",
+        "onboard_time": 1747316905,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441354,
+        "num": 407136,
+        "word": "董某莹入学资格存在造假行为",
+        "onboard_time": 1747311323,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396862,
+        "num": 396862,
+        "word": "奶奶没接凉水4岁孙子洗澡误入皮烫掉",
+        "onboard_time": 1747309763,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350761,
+        "num": 350761,
+        "word": "石鸿燊刘晓庆居然相差60岁",
+        "onboard_time": 1747317265,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420723,
+        "num": 348904,
+        "word": "卫健委调查组通报董某莹舆情事件",
+        "onboard_time": 1747310842,
+        "rank": 17,
+        "category": "辟谣/通报,健康医疗"
+      },
+      {
+        "raw_hot": 341405,
+        "num": 341405,
+        "word": "除肖战谷嘉诚外X玖少年团齐聚",
+        "onboard_time": 1747317867,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53821,
+        "num": 337142,
+        "word": "杭州西湖一桥洞前凌晨挤满人",
+        "onboard_time": 1747318645,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375732,
+        "num": 334553,
+        "word": "原来微信过期图片是可以找回的",
+        "onboard_time": 1747303882,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 928455,
+        "num": 329595,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 21,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 509976,
+        "num": 321594,
+        "word": "金靖P图不带迪丽热巴",
+        "onboard_time": 1747302383,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456695,
+        "num": 318339,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 23,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 246453,
+        "num": 313828,
+        "word": "杨洋田曦薇翟子路同框",
+        "onboard_time": 1747318584,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241656,
+        "num": 310049,
+        "word": "田曦薇娇兰活动生图",
+        "onboard_time": 1747316064,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231432,
+        "num": 305927,
+        "word": "小乔雨中抱大乔雨中吻",
+        "onboard_time": 1747314985,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61352,
+        "num": 300170,
+        "word": "常态化开展证券纠纷代表人诉讼",
+        "onboard_time": 1747318524,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47293,
+        "num": 291757,
+        "word": "曝大学生统计建模大赛多组作品雷同",
+        "onboard_time": 1747318104,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61108,
+        "num": 287504,
+        "word": "严格规范证券执行工作",
+        "onboard_time": 1747318524,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 352029,
+        "num": 282166,
+        "word": "中日友好医院被罚款",
+        "onboard_time": 1747312341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281216,
+        "num": 281216,
+        "word": "王楚钦世乒赛备战陪练男双",
+        "onboard_time": 1747317024,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260209,
+        "num": 260209,
+        "word": "喜茶回应奶茶被放入微波炉加热着火",
+        "onboard_time": 1747315105,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222749,
+        "num": 222749,
+        "word": "彭楚粤发合照",
+        "onboard_time": 1747318406,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205564,
+        "num": 205564,
+        "word": "钟楚曦戛纳钻石镂空高定",
+        "onboard_time": 1747318704,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199757,
+        "num": 199757,
+        "word": "台湾地区",
+        "onboard_time": 1747305623,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193833,
+        "num": 193833,
+        "word": "藏海传两个卫视跟播",
+        "onboard_time": 1747318645,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187527,
+        "num": 187527,
+        "word": "幽门螺杆菌是胃癌的明确致病因素",
+        "onboard_time": 1747301483,
+        "rank": 37,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 187192,
+        "num": 187192,
+        "word": "孙颖莎登上多哈大屏",
+        "onboard_time": 1747318164,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166807,
+        "num": 185045,
+        "word": "麻醉医生称肖某为谎言付出代价",
+        "onboard_time": 1747317204,
+        "rank": 39,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 184533,
+        "num": 184533,
+        "word": "代购带50个泡泡玛特玩偶入境被查",
+        "onboard_time": 1747314865,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182939,
+        "num": 182939,
+        "word": "折腰王母仙丹后劲",
+        "onboard_time": 1747315705,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182700,
+        "num": 182700,
+        "word": "肖某在患者麻醉状态中断手术擅离手术室",
+        "onboard_time": 1747312765,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 179553,
+        "num": 179553,
+        "word": "鹿晗一天预告",
+        "onboard_time": 1747313542,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179425,
+        "num": 179425,
+        "word": "刘宇宁古装",
+        "onboard_time": 1747308683,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165305,
+        "num": 165305,
+        "word": "向往的生活 回归",
+        "onboard_time": 1747292602,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164554,
+        "num": 164554,
+        "word": "徐明浩模仿青蛙影子",
+        "onboard_time": 1747318406,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150254,
+        "num": 150254,
+        "word": "胡锡进称调查并没有结束",
+        "onboard_time": 1747315765,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148337,
+        "num": 148337,
+        "word": "鬼夜曲",
+        "onboard_time": 1747317505,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143991,
+        "num": 143991,
+        "word": "央视曝光炒股App骗局",
+        "onboard_time": 1747316364,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良党风引领社风民风#"
+    }
+  }
+}
