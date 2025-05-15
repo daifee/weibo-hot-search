@@ -1,0 +1,410 @@
+{
+  "runTime": 1747286774556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2344676,
+        "num": 2344676,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 0,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 1001036,
+        "num": 1001036,
+        "word": "娃哈哈称已终止和今麦郎代工合作",
+        "onboard_time": 1747280662,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 870937,
+        "word": "中国外贸企业被美国客户疯狂催单",
+        "onboard_time": 1747281682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773413,
+        "num": 773413,
+        "word": "你以为很丑但越来越好看的标志",
+        "onboard_time": 1747283963,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 632146,
+        "num": 632146,
+        "word": "莲花楼作者的家底有多厚",
+        "onboard_time": 1747285762,
+        "rank": 4,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 601965,
+        "num": 601965,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562177,
+        "num": 562177,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 469559,
+        "num": 513002,
+        "word": "心疼李艺彤",
+        "onboard_time": 1747285403,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314706,
+        "num": 506787,
+        "word": "转人工客服怎么这么难",
+        "onboard_time": 1747282284,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 503714,
+        "num": 503714,
+        "word": "伊朗",
+        "onboard_time": 1747282943,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77916,
+        "num": 502576,
+        "word": "成毅美式复古造型赢麻了",
+        "onboard_time": 1747285583,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30795,
+        "num": 495284,
+        "word": "汪苏泷玩转人设二选一",
+        "onboard_time": 1747282343,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2318072,
+        "num": 491158,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977105,
+        "num": 485536,
+        "word": "王大陆逃兵服役看许光汉表演",
+        "onboard_time": 1747283785,
+        "rank": 13,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 292592,
+        "num": 483008,
+        "word": "锦绣芳华开预约",
+        "onboard_time": 1747282882,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97958,
+        "num": 478447,
+        "word": "全长沙都在偶遇刘诗诗",
+        "onboard_time": 1747282343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896558,
+        "num": 476274,
+        "word": "赵丽颖带想想逛公园",
+        "onboard_time": 1747284922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704858,
+        "num": 471314,
+        "word": "曝病重老人被要求亲自取钱在银行去世",
+        "onboard_time": 1747280843,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213689,
+        "num": 464984,
+        "word": "太好了是喜综我们有救啦",
+        "onboard_time": 1747286063,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27923,
+        "num": 460891,
+        "word": "勇士休赛期会有怎样的调整",
+        "onboard_time": 1747286183,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608269,
+        "num": 456969,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569879,
+        "num": 452421,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 550759,
+        "num": 447696,
+        "word": "黄金价格",
+        "onboard_time": 1747283423,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247490,
+        "num": 442385,
+        "word": "男子故意将孩子遗弃在地铁站",
+        "onboard_time": 1747278381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73700,
+        "num": 438452,
+        "word": "郑钦文将和高芙争决赛门票",
+        "onboard_time": 1747286362,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236997,
+        "num": 432608,
+        "word": "孟子义李昀锐跑男首次合体",
+        "onboard_time": 1747286302,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208108,
+        "num": 427761,
+        "word": "王亚飞给迪丽热巴化的海盗妆",
+        "onboard_time": 1747285703,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202960,
+        "num": 423689,
+        "word": "管乐票数",
+        "onboard_time": 1747286542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75925,
+        "num": 418738,
+        "word": "多哈世乒赛中国包揽5金要过哪些坎",
+        "onboard_time": 1747285824,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73656,
+        "num": 413611,
+        "word": "世乒赛女子单打历史回顾",
+        "onboard_time": 1747286002,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57351,
+        "num": 410396,
+        "word": "中美互降关税后货柜车司机发声",
+        "onboard_time": 1747284325,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407741,
+        "num": 407741,
+        "word": "28元一个的蛋挞真的很贵",
+        "onboard_time": 1747280361,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401789,
+        "num": 401789,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376913,
+        "num": 376913,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196201,
+        "num": 348054,
+        "word": "水龙吟",
+        "onboard_time": 1747272742,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138730,
+        "num": 336869,
+        "word": "极氪007GT上市首月交付破万",
+        "onboard_time": 1747285583,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 330266,
+        "num": 330266,
+        "word": "35岁工程师患胃癌晚期家中3人有胃癌",
+        "onboard_time": 1747281983,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324343,
+        "num": 324343,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185279,
+        "num": 310192,
+        "word": "被99%中国男人羡慕的女生",
+        "onboard_time": 1747286362,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 303391,
+        "num": 303391,
+        "word": "洞洞鞋",
+        "onboard_time": 1747283423,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 288438,
+        "num": 288438,
+        "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+        "onboard_time": 1747277661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252833,
+        "num": 252833,
+        "word": "哈佛大学硬刚美国政府",
+        "onboard_time": 1747284443,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234065,
+        "num": 234065,
+        "word": "主人掉了一只拖鞋小狗掉了三只",
+        "onboard_time": 1747285942,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197440,
+        "num": 197440,
+        "word": "爷爷忘了很多唯独没忘我爱你",
+        "onboard_time": 1747286723,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195818,
+        "num": 195818,
+        "word": "李晟说要善于发现自己的优点",
+        "onboard_time": 1747286662,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194783,
+        "num": 194783,
+        "word": "森林狼4比1淘汰勇士",
+        "onboard_time": 1747284863,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191762,
+        "num": 191762,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "李斌1块电池从上海开到合肥",
+        "onboard_time": 1747285464,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189606,
+        "num": 185139,
+        "word": "殷世航回应韩安冉怀三胎",
+        "onboard_time": 1747286723,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 175441,
+        "num": 175441,
+        "word": "章昊对张凌赫说你好高啊",
+        "onboard_time": 1747285043,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信中国丹麦商会负责人#"
+    }
+  }
+}

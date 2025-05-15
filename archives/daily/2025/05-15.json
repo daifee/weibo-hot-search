@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747284317829,
+  "endTime": 1747286774556,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2344676,
+      "num": 2344676,
+      "word": "税务部门调查刘晓庆偷税",
+      "onboard_time": 1747281562,
+      "rank": 4,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 1585641,
-      "num": 344480,
+      "num": 452421,
       "word": "原来处女膜一直都在被误解",
       "onboard_time": 1747265359,
       "rank": 20,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1296268,
-      "num": 348655,
+      "num": 471314,
       "word": "曝病重老人被要求亲自取钱在银行去世",
       "onboard_time": 1747280843,
       "rank": 13,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1182364,
-      "num": 360381,
+      "num": 456969,
       "word": "黄杨钿甜 葛莉莎",
       "onboard_time": 1747273880,
       "rank": 36,
@@ -36,11 +44,27 @@
     },
     {
       "raw_hot": 1165647,
-      "num": 353770,
+      "num": 401789,
       "word": "关晓彤回应无名指戒指",
       "onboard_time": 1747266561,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1001036,
+      "num": 1149137,
+      "word": "娃哈哈称已终止和今麦郎代工合作",
+      "onboard_time": 1747280662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 977105,
+      "num": 485536,
+      "word": "王大陆逃兵服役看许光汉表演",
+      "onboard_time": 1747283785,
+      "rank": 25,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 933376,
@@ -49,14 +73,6 @@
       "onboard_time": 1747233024,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 932107,
-      "num": 1149137,
-      "word": "娃哈哈称已终止和今麦郎代工合作",
-      "onboard_time": 1747280662,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 911447,
@@ -73,6 +89,14 @@
       "onboard_time": 1747275021,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 896558,
+      "num": 476274,
+      "word": "赵丽颖带想想逛公园",
+      "onboard_time": 1747284922,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 850444,
@@ -92,11 +116,19 @@
     },
     {
       "raw_hot": 791955,
-      "num": 347096,
+      "num": 407741,
       "word": "28元一个的蛋挞真的很贵",
       "onboard_time": 1747280361,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 773413,
+      "num": 773413,
+      "word": "你以为很丑但越来越好看的标志",
+      "onboard_time": 1747283963,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 769949,
@@ -115,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632146,
+      "num": 632146,
+      "word": "莲花楼作者的家底有多厚",
+      "onboard_time": 1747285762,
+      "rank": 4,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 607185,
       "num": 237931,
       "word": "赵丽颖赵德胤曾被偶遇一起逛街",
       "onboard_time": 1747227502,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601965,
+      "num": 601965,
+      "word": "农行回应重病客户取款时不幸去世",
+      "onboard_time": 1747282343,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580626,
@@ -139,8 +187,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 550759,
+      "num": 447696,
+      "word": "黄金价格",
+      "onboard_time": 1747283423,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 523535,
-      "num": 335029,
+      "num": 376913,
       "word": "李亚鹏经济状况不好再次搬家",
       "onboard_time": 1747272742,
       "rank": 21,
@@ -171,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503739,
-      "num": 503739,
-      "word": "税务部门调查刘晓庆偷税",
-      "onboard_time": 1747281562,
-      "rank": 4,
-      "category": "舆论监督,艺人"
+      "raw_hot": 503714,
+      "num": 503714,
+      "word": "伊朗",
+      "onboard_time": 1747282943,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 496215,
@@ -201,6 +257,14 @@
       "onboard_time": 1747230443,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 469559,
+      "num": 513002,
+      "word": "心疼李艺彤",
+      "onboard_time": 1747285403,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 465959,
@@ -259,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389280,
-      "num": 389280,
-      "word": "农行回应重病客户取款时不幸去世",
-      "onboard_time": 1747282343,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384577,
       "num": 384577,
       "word": "华为官宣鸿蒙电脑非凡大师版",
@@ -297,14 +353,6 @@
       "onboard_time": 1747273221,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 371302,
-      "num": 249440,
-      "word": "王大陆逃兵服役看许光汉表演",
-      "onboard_time": 1747283785,
-      "rank": 25,
-      "category": "演出,艺人"
     },
     {
       "raw_hot": 370312,
@@ -387,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314706,
+      "num": 506787,
+      "word": "转人工客服怎么这么难",
+      "onboard_time": 1747282284,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 307630,
       "num": 289340,
       "word": "墨西哥一网红直播中遭枪杀",
@@ -409,6 +465,14 @@
       "onboard_time": 1747218802,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303391,
+      "num": 303391,
+      "word": "洞洞鞋",
+      "onboard_time": 1747283423,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 301472,
@@ -467,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292592,
+      "num": 483008,
+      "word": "锦绣芳华开预约",
+      "onboard_time": 1747282882,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288337,
       "num": 154705,
       "word": "周柯宇发长文",
@@ -499,22 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285080,
-      "num": 342338,
-      "word": "锦绣芳华开预约",
-      "onboard_time": 1747282882,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 283639,
-      "num": 246776,
-      "word": "黄金价格",
-      "onboard_time": 1747283423,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 278872,
       "num": 278872,
       "word": "郑钦文 山海皆可平",
@@ -537,14 +593,6 @@
       "onboard_time": 1747277421,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 263919,
-      "num": 246465,
-      "word": "你以为很丑但越来越好看的标志",
-      "onboard_time": 1747283963,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 262967,
@@ -579,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252833,
+      "num": 252833,
+      "word": "哈佛大学硬刚美国政府",
+      "onboard_time": 1747284443,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 250056,
       "num": 250056,
       "word": "刘诗诗把意难平赛道走穿了",
@@ -593,14 +649,6 @@
       "onboard_time": 1747276282,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246286,
-      "num": 348673,
-      "word": "转人工客服怎么这么难",
-      "onboard_time": 1747282284,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 242200,
@@ -625,6 +673,22 @@
       "onboard_time": 1747283182,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236997,
+      "num": 432608,
+      "word": "孟子义李昀锐跑男首次合体",
+      "onboard_time": 1747286302,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234065,
+      "num": 234065,
+      "word": "主人掉了一只拖鞋小狗掉了三只",
+      "onboard_time": 1747285942,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 231885,
@@ -659,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213689,
+      "num": 464984,
+      "word": "太好了是喜综我们有救啦",
+      "onboard_time": 1747286063,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211868,
       "num": 259203,
       "word": "全员加速中",
@@ -673,6 +745,14 @@
       "onboard_time": 1747278442,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208108,
+      "num": 427761,
+      "word": "王亚飞给迪丽热巴化的海盗妆",
+      "onboard_time": 1747285703,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207528,
@@ -697,6 +777,14 @@
       "onboard_time": 1747280001,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 423689,
+      "word": "管乐票数",
+      "onboard_time": 1747286542,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200717,
@@ -747,6 +835,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197440,
+      "num": 197440,
+      "word": "爷爷忘了很多唯独没忘我爱你",
+      "onboard_time": 1747286723,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 195818,
+      "num": 195818,
+      "word": "李晟说要善于发现自己的优点",
+      "onboard_time": 1747286662,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195456,
       "num": 195456,
       "word": "藏海和师父吃饭是刘星分饼",
@@ -761,6 +865,14 @@
       "onboard_time": 1747280602,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 194783,
+      "num": 194783,
+      "word": "森林狼4比1淘汰勇士",
+      "onboard_time": 1747284863,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 194233,
@@ -787,12 +899,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189606,
+      "num": 185139,
+      "word": "殷世航回应韩安冉怀三胎",
+      "onboard_time": 1747286723,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 189212,
       "num": 339782,
       "word": "美团会员很牛吗",
       "onboard_time": 1747280782,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 187482,
+      "num": 187482,
+      "word": "李斌1块电池从上海开到合肥",
+      "onboard_time": 1747285464,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 187273,
@@ -819,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185279,
+      "num": 310192,
+      "word": "被99%中国男人羡慕的女生",
+      "onboard_time": 1747286362,
+      "rank": 38,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 184822,
       "num": 184822,
       "word": "藏海传最新画面",
@@ -835,28 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183166,
-      "num": 183166,
-      "word": "伊朗",
-      "onboard_time": 1747282943,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 182876,
       "num": 182876,
       "word": "水龙吟首支片花",
       "onboard_time": 1747272742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182711,
-      "num": 182711,
-      "word": "洞洞鞋",
-      "onboard_time": 1747283423,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 179334,
@@ -905,6 +1025,14 @@
       "onboard_time": 1747278201,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175441,
+      "num": 175441,
+      "word": "章昊对张凌赫说你好高啊",
+      "onboard_time": 1747285043,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 174727,
@@ -972,7 +1100,7 @@
     },
     {
       "raw_hot": 166445,
-      "num": 584681,
+      "num": 870937,
       "word": "中国外贸企业被美国客户疯狂催单",
       "onboard_time": 1747281682,
       "rank": 2,
@@ -1161,6 +1289,14 @@
       "onboard_time": 1747239140,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138730,
+      "num": 336869,
+      "word": "极氪007GT上市首月交付破万",
+      "onboard_time": 1747285583,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 138149,
@@ -1371,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97958,
+      "num": 478447,
+      "word": "全长沙都在偶遇刘诗诗",
+      "onboard_time": 1747282343,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97807,
       "num": 170420,
       "word": "邓超问什么蛋糕可以插319根蜡烛",
@@ -1507,12 +1651,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78063,
-      "num": 348645,
-      "word": "全长沙都在偶遇刘诗诗",
-      "onboard_time": 1747282343,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 77916,
+      "num": 502576,
+      "word": "成毅美式复古造型赢麻了",
+      "onboard_time": 1747285583,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77912,
@@ -1536,6 +1680,14 @@
       "word": "多哈世乒赛林诗栋海报",
       "onboard_time": 1747274721,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75925,
+      "num": 418738,
+      "word": "多哈世乒赛中国包揽5金要过哪些坎",
+      "onboard_time": 1747285824,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1585,6 +1737,22 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73700,
+      "num": 438452,
+      "word": "郑钦文将和高芙争决赛门票",
+      "onboard_time": 1747286362,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73656,
+      "num": 413611,
+      "word": "世乒赛女子单打历史回顾",
+      "onboard_time": 1747286002,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 72363,
@@ -1691,6 +1859,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 57351,
+      "num": 410396,
+      "word": "中美互降关税后货柜车司机发声",
+      "onboard_time": 1747284325,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54268,
       "num": 54268,
       "word": "魏劭一瞬间把孩子名都想好了",
@@ -1716,7 +1892,7 @@
     },
     {
       "raw_hot": 51509,
-      "num": 348641,
+      "num": 495284,
       "word": "汪苏泷玩转人设二选一",
       "onboard_time": 1747282343,
       "rank": 13,
@@ -1799,6 +1975,14 @@
       "num": 222405,
       "word": "世界第一萨巴伦卡此战暴露哪些短板",
       "onboard_time": 1747280782,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27923,
+      "num": 460891,
+      "word": "勇士休赛期会有怎样的调整",
+      "onboard_time": 1747286183,
       "rank": 19,
       "category": "体育"
     },
