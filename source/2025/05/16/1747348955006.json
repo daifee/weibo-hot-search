@@ -1,0 +1,410 @@
+{
+  "runTime": 1747348955006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105853,
+        "num": 1105853,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390573,
+        "num": 390573,
+        "word": "欧阳娜娜等20多人被台当局威胁",
+        "onboard_time": 1747321464,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29998,
+        "num": 328783,
+        "word": "降准释放了明确稳增长的积极信号",
+        "onboard_time": 1747316424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290733,
+        "num": 290733,
+        "word": "麻醉医生称肖某为谎言付出代价",
+        "onboard_time": 1747317204,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 238533,
+        "num": 238533,
+        "word": "在银行去世老人家属放弃送医",
+        "onboard_time": 1747323982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215994,
+        "num": 215994,
+        "word": "郑钦文凌晨2点半迎战高芙",
+        "onboard_time": 1747343954,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202498,
+        "num": 202498,
+        "word": "董某莹四项证书被撤销",
+        "onboard_time": 1747311022,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 199562,
+        "num": 199562,
+        "word": "幼儿园4名老师多次殴打女童被行拘",
+        "onboard_time": 1747324102,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150535,
+        "num": 150535,
+        "word": "4加4通报证明没人能包庇董小姐",
+        "onboard_time": 1747321764,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 129796,
+        "num": 129796,
+        "word": "姜广涛获国赔",
+        "onboard_time": 1747322183,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312132,
+        "num": 129610,
+        "word": "7人帮刮奖刮出100万每人分1万",
+        "onboard_time": 1747324102,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222064,
+        "num": 128774,
+        "word": "刘晓庆回应被指偷税",
+        "onboard_time": 1747321584,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200021,
+        "num": 126998,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124690,
+        "num": 124690,
+        "word": "成都5岁女童被碾亡案被告车主发声",
+        "onboard_time": 1747322363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120569,
+        "num": 120569,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110282,
+        "num": 110282,
+        "word": "台湾地区",
+        "onboard_time": 1747305623,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84512,
+        "num": 84512,
+        "word": "叶舒华把头像换成宋雨琦",
+        "onboard_time": 1747325062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82342,
+        "num": 82342,
+        "word": "队长",
+        "onboard_time": 1747316905,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72424,
+        "num": 81493,
+        "word": "藏海传预约人数破700万",
+        "onboard_time": 1747328716,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66056,
+        "num": 80205,
+        "word": "折腰雨中戏份太抓马了",
+        "onboard_time": 1747327039,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83826,
+        "num": 76443,
+        "word": "北京协和医学院正在深入整改",
+        "onboard_time": 1747311625,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 387901,
+        "num": 74615,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 21,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 74437,
+        "num": 74437,
+        "word": "新冠感染又抬头",
+        "onboard_time": 1747321584,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 68431,
+        "num": 68431,
+        "word": "金价一跌再跌网友直呼亏麻了",
+        "onboard_time": 1747320263,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65950,
+        "num": 65950,
+        "word": "奶奶没接凉水4岁孙子洗澡误入皮烫掉",
+        "onboard_time": 1747309763,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62491,
+        "num": 62491,
+        "word": "现货黄金突破3200",
+        "onboard_time": 1747328298,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55777,
+        "num": 61668,
+        "word": "赵樱子请了顶级妆造团队",
+        "onboard_time": 1747312103,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50276,
+        "num": 60765,
+        "word": "娇兰晚宴上的杨洋",
+        "onboard_time": 1747319424,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41930,
+        "num": 59275,
+        "word": "陈哲远什么都敢往外发啊",
+        "onboard_time": 1747323863,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40912,
+        "num": 58199,
+        "word": "歌手歌单",
+        "onboard_time": 1747310782,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57599,
+        "num": 57599,
+        "word": "董袭莹博士论文与他人重复率超20%",
+        "onboard_time": 1747319904,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56570,
+        "num": 56570,
+        "word": "人民网评小米芯片即将问世",
+        "onboard_time": 1747318164,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55447,
+        "num": 55447,
+        "word": "幽门螺杆菌是胃癌的明确致病因素",
+        "onboard_time": 1747301483,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 50143,
+        "num": 50143,
+        "word": "欧洲偶遇刘强东章泽天牵手逛街",
+        "onboard_time": 1747321404,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48655,
+        "num": 48655,
+        "word": "肖某被吊销医师执业证书",
+        "onboard_time": 1747311082,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 46450,
+        "num": 46450,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 35,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 44107,
+        "num": 44107,
+        "word": "原来微信过期图片是可以找回的",
+        "onboard_time": 1747303882,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43446,
+        "num": 43446,
+        "word": "王楚钦世乒赛备战陪练男双",
+        "onboard_time": 1747317024,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40425,
+        "num": 40425,
+        "word": "董某莹入学资格存在造假行为",
+        "onboard_time": 1747311323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39525,
+        "num": 39525,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39516,
+        "num": 39516,
+        "word": "喜茶回应奶茶被放入微波炉加热着火",
+        "onboard_time": 1747315105,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39290,
+        "num": 39290,
+        "word": "女子深夜拍到绿植转圈圈拼命生长",
+        "onboard_time": 1747343474,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39153,
+        "num": 39153,
+        "word": "除肖战谷嘉诚外X玖少年团齐聚",
+        "onboard_time": 1747317867,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38925,
+        "num": 38925,
+        "word": "肖某事件涉及单位人员正被调查",
+        "onboard_time": 1747312043,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 37005,
+        "num": 37005,
+        "word": "姜同学得知补考后说更不后悔了",
+        "onboard_time": 1747342094,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37569,
+        "num": 35230,
+        "word": "还有没有其他董小姐没挖出来",
+        "onboard_time": 1747323502,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32568,
+        "num": 32568,
+        "word": "第一批炒撕拉片的年轻人已经赚到钱了",
+        "onboard_time": 1747323023,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32205,
+        "num": 32205,
+        "word": "温峥嵘戛纳红毯造型",
+        "onboard_time": 1747326620,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31901,
+        "num": 31901,
+        "word": "金靖P图不带迪丽热巴",
+        "onboard_time": 1747302383,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30223,
+        "num": 31895,
+        "word": "鹿晗一天预告",
+        "onboard_time": 1747313542,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良党风引领社风民风#"
+    }
+  }
+}

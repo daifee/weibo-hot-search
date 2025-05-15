@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747347872670,
+  "endTime": 1747348955006,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2203,6 +2203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1105853,
+      "num": 1105853,
+      "word": "母女就餐1小时未动筷老板报警",
+      "onboard_time": 1747331235,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1099496,
       "num": 1099496,
       "word": "deepseek",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1746685462,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 827563,
-      "num": 827563,
-      "word": "母女就餐1小时未动筷老板报警",
-      "onboard_time": 1747331235,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 826480,
@@ -13507,6 +13507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290733,
+      "num": 290733,
+      "word": "麻醉医生称肖某为谎言付出代价",
+      "onboard_time": 1747317204,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 290555,
       "num": 307000,
       "word": "魏晨吴昕拥抱",
@@ -17883,14 +17891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217623,
-      "num": 212938,
-      "word": "麻醉医生称肖某为谎言付出代价",
-      "onboard_time": 1747317204,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 217542,
       "num": 217542,
       "word": "燕尾蝶",
@@ -18041,6 +18041,14 @@
       "onboard_time": 1747203504,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215994,
+      "num": 215994,
+      "word": "郑钦文凌晨2点半迎战高芙",
+      "onboard_time": 1747343954,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 215946,
@@ -20579,6 +20587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "幼儿园4名老师多次殴打女童被行拘",
+      "onboard_time": 1747324102,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199446,
       "num": 199446,
       "word": "玄戒",
@@ -22505,14 +22521,6 @@
       "onboard_time": 1747101861,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190672,
-      "num": 190672,
-      "word": "郑钦文凌晨2点半迎战高芙",
-      "onboard_time": 1747343954,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 190606,
@@ -26865,14 +26873,6 @@
       "onboard_time": 1746317660,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167196,
-      "num": 167196,
-      "word": "幼儿园4名老师多次殴打女童被行拘",
-      "onboard_time": 1747324102,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167159,
@@ -51235,6 +51235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39290,
+      "num": 39290,
+      "word": "女子深夜拍到绿植转圈圈拼命生长",
+      "onboard_time": 1747343474,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39282,
       "num": 171073,
       "word": "吞下口香糖会在胃里停留多久",
@@ -51601,6 +51609,14 @@
       "onboard_time": 1746560113,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37005,
+      "num": 37005,
+      "word": "姜同学得知补考后说更不后悔了",
+      "onboard_time": 1747342094,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 36991,
@@ -52193,14 +52209,6 @@
       "onboard_time": 1747119741,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 33580,
-      "num": 33580,
-      "word": "女子深夜拍到绿植转圈圈拼命生长",
-      "onboard_time": 1747343474,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33563,
@@ -52993,14 +53001,6 @@
       "onboard_time": 1746691342,
       "rank": 29,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 29124,
-      "num": 29124,
-      "word": "姜同学得知补考后说更不后悔了",
-      "onboard_time": 1747342094,
-      "rank": 42,
-      "category": "正能量"
     },
     {
       "raw_hot": 29006,
