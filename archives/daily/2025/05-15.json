@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747298046840,
+  "endTime": 1747298858876,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1253026,
-      "num": 489563,
+      "num": 551799,
       "word": "向往的生活 回归",
       "onboard_time": 1747292602,
       "rank": 6,
@@ -121,6 +121,14 @@
       "onboard_time": 1747271252,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 910621,
+      "num": 439234,
+      "word": "字字不提穷但一听就穷的话",
+      "onboard_time": 1747293983,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 906081,
@@ -195,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641103,
-      "num": 305842,
-      "word": "字字不提穷但一听就穷的话",
-      "onboard_time": 1747293983,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 670798,
+      "num": 670798,
+      "word": "盒马鸡蛋",
+      "onboard_time": 1747292182,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 607185,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498494,
+      "num": 416029,
+      "word": "印度爆发抗议要求政府公开真相",
+      "onboard_time": 1747294402,
+      "rank": 42,
+      "category": "海外新闻,军事"
+    },
+    {
       "raw_hot": 496215,
       "num": 496215,
       "word": "男子故意将孩子遗弃在地铁站",
@@ -363,12 +379,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 481509,
-      "num": 481509,
-      "word": "盒马鸡蛋",
-      "onboard_time": 1747292182,
-      "rank": 4,
-      "category": "舆论监督"
+      "raw_hot": 470699,
+      "num": 409021,
+      "word": "张檬晒儿子正面照",
+      "onboard_time": 1747297462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467903,
+      "num": 467903,
+      "word": "中国对巴西等5国试行免签",
+      "onboard_time": 1747294943,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 465959,
@@ -377,14 +401,6 @@
       "onboard_time": 1747276102,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 464210,
-      "num": 464210,
-      "word": "中国对巴西等5国试行免签",
-      "onboard_time": 1747294943,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 443858,
@@ -425,14 +441,6 @@
       "onboard_time": 1747210283,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422147,
-      "num": 294429,
-      "word": "印度爆发抗议要求政府公开真相",
-      "onboard_time": 1747294402,
-      "rank": 42,
-      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 421481,
@@ -481,6 +489,14 @@
       "onboard_time": 1747273221,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 371143,
+      "num": 371143,
+      "word": "银监部门回应重病女子取款时去世",
+      "onboard_time": 1747296684,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370312,
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320391,
+      "num": 320391,
+      "word": "中方不同意台湾参加今年的世卫大会",
+      "onboard_time": 1747298723,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 307630,
       "num": 289340,
       "word": "墨西哥一网红直播中遭枪杀",
@@ -601,6 +625,14 @@
       "onboard_time": 1747218802,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303881,
+      "num": 370954,
+      "word": "中餐厅",
+      "onboard_time": 1747294402,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 303391,
@@ -641,6 +673,14 @@
       "onboard_time": 1747276521,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298140,
+      "num": 298140,
+      "word": "内娱终于有不要钱的演唱会了",
+      "onboard_time": 1747297942,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 297939,
@@ -739,14 +779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 269905,
-      "num": 269905,
-      "word": "张檬晒儿子正面照",
-      "onboard_time": 1747297462,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269602,
       "num": 325302,
       "word": "女子旅游半月店门忘关运营正常",
@@ -843,22 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245129,
-      "num": 245129,
-      "word": "中餐厅",
-      "onboard_time": 1747294402,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 243435,
-      "num": 243435,
-      "word": "银监部门回应重病女子取款时去世",
-      "onboard_time": 1747296684,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242200,
       "num": 242200,
       "word": "偷一句去恶心死朋友",
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 226410,
-      "num": 258953,
+      "num": 370008,
       "word": "14万家用车卷上天了",
       "onboard_time": 1747296324,
       "rank": 15,
@@ -937,6 +953,22 @@
       "onboard_time": 1747264518,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 219529,
+      "num": 276033,
+      "word": "吴宣仪从乘风姐姐们身上学到了什么",
+      "onboard_time": 1747297942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217157,
+      "num": 217157,
+      "word": "发明扁头的人真是个天才",
+      "onboard_time": 1747297583,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 216695,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 210715,
-      "num": 210715,
+      "num": 265444,
       "word": "金靖这可是张凌赫周柯宇的吻啊",
       "onboard_time": 1747296204,
       "rank": 23,
@@ -1211,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185708,
+      "num": 222432,
+      "word": "深情眼",
+      "onboard_time": 1747295844,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185440,
       "num": 185440,
       "word": "罗云熙新剧有10条cp线",
@@ -1219,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184991,
+      "num": 184991,
+      "word": "吴宣仪说会一直唱跳到80岁",
+      "onboard_time": 1747298543,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184822,
       "num": 184822,
       "word": "藏海传最新画面",
       "onboard_time": 1747235903,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184480,
+      "num": 207451,
+      "word": "决定调整组建3所军队院校",
+      "onboard_time": 1747295122,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 184193,
@@ -1259,12 +1315,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181038,
-      "num": 181038,
-      "word": "吴宣仪从乘风姐姐们身上学到了什么",
-      "onboard_time": 1747297942,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 180368,
+      "num": 233834,
+      "word": "云合",
+      "onboard_time": 1747298242,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 179334,
@@ -1296,6 +1352,14 @@
       "word": "张韶涵宋雨琦同台是两代青春碰面",
       "onboard_time": 1747283602,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178696,
+      "num": 230169,
+      "word": "迪丽热巴和水池吵了一架",
+      "onboard_time": 1747297822,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1355,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175064,
-      "num": 175064,
-      "word": "内娱终于有不要钱的演唱会了",
-      "onboard_time": 1747297942,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174727,
       "num": 175190,
       "word": "提醒在英中国公民加强安全防范",
@@ -1411,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168548,
+      "num": 168548,
+      "word": "刘宇宁问魏劭你干横么去",
+      "onboard_time": 1747298363,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168234,
       "num": 168234,
       "word": "孙颖莎坚持热爱追逐信仰",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1747273761,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166708,
-      "num": 166708,
-      "word": "发明扁头的人真是个天才",
-      "onboard_time": 1747297583,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 166497,
@@ -1523,14 +1579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 159824,
-      "num": 181328,
-      "word": "深情眼",
-      "onboard_time": 1747295844,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158467,
       "num": 158467,
       "word": "高伟光新剧豆瓣评分逆跌至8.3",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1747285164,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155811,
-      "num": 207451,
-      "word": "决定调整组建3所军队院校",
-      "onboard_time": 1747295122,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 155493,
@@ -1611,14 +1651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147482,
-      "num": 147482,
-      "word": "迪丽热巴和水池吵了一架",
-      "onboard_time": 1747297822,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147279,
       "num": 147279,
       "word": "金饰克价跌到972元",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1747267402,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145641,
+      "num": 145641,
+      "word": "比伯团队否认破产",
+      "onboard_time": 1747298422,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 145578,
@@ -1764,7 +1804,7 @@
     },
     {
       "raw_hot": 132804,
-      "num": 132804,
+      "num": 294603,
       "word": "金饰克价一个月内跌超百元",
       "onboard_time": 1747297822,
       "rank": 47,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1747274540,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127547,
+      "num": 127547,
+      "word": "爱死亡和机器人",
+      "onboard_time": 1747295602,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 127485,
@@ -2057,6 +2105,14 @@
       "onboard_time": 1747233623,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90039,
+      "num": 459650,
+      "word": "商务部回应美232关税措施",
+      "onboard_time": 1747297882,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87485,
@@ -2483,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46000,
+      "num": 286530,
+      "word": "家属称在银行去世老人当时眨眼都费劲",
+      "onboard_time": 1747298603,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45680,
       "num": 338204,
       "word": "包装上的零添加到底不添加什么",
@@ -2515,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41888,
+      "num": 454303,
+      "word": "金融监管部门调查病重老人取钱去世",
+      "onboard_time": 1747298062,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41581,
       "num": 220781,
       "word": "野兽先生建100栋房子送人",
@@ -2539,12 +2611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40717,
+      "num": 562229,
+      "word": "共商人工智能发展治理",
+      "onboard_time": 1747296864,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40145,
       "num": 139132,
       "word": "伊朗愿承诺销毁高浓缩铀库存",
       "onboard_time": 1747295483,
       "rank": 44,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 39282,
+      "num": 171073,
+      "word": "吞下口香糖会在胃里停留多久",
+      "onboard_time": 1747296562,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 39117,
@@ -2603,22 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29978,
-      "num": 153349,
-      "word": "吞下口香糖会在胃里停留多久",
-      "onboard_time": 1747296562,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 29960,
-      "num": 183351,
-      "word": "商务部回应美232关税措施",
-      "onboard_time": 1747297882,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28424,
       "num": 222405,
       "word": "世界第一萨巴伦卡此战暴露哪些短板",
@@ -2643,14 +2715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27368,
-      "num": 490254,
-      "word": "共商人工智能发展治理",
-      "onboard_time": 1747296864,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26878,
       "num": 26878,
       "word": "孙恩盛直播",
@@ -2668,7 +2732,7 @@
     },
     {
       "raw_hot": 26182,
-      "num": 188019,
+      "num": 368456,
       "word": "苹果屏下FaceID将如何优化安全性",
       "onboard_time": 1747297882,
       "rank": 28,
@@ -2681,6 +2745,14 @@
       "onboard_time": 1747290682,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24696,
+      "num": 248942,
+      "word": "模范教师言语残疾冒领补贴",
+      "onboard_time": 1747298062,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23758,
@@ -2721,6 +2793,14 @@
       "onboard_time": 1747264459,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20716,
+      "num": 369598,
+      "word": "陕西一驻村干部让村民帮其朋友贷款",
+      "onboard_time": 1747298242,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20608,
@@ -2840,6 +2920,14 @@
       "word": "人工客服难找对消费者带来哪些困扰",
       "onboard_time": 1747282583,
       "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 10032,
+      "num": 257775,
+      "word": "广东雷雨渐趋活跃防汛措施如何开展",
+      "onboard_time": 1747298782,
+      "rank": 28,
       "category": "议题讨论"
     },
     {
