@@ -1,0 +1,410 @@
+{
+  "runTime": 1747275541984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852303,
+        "num": 1136368,
+        "word": "小楚乔原定演员葛莉莎曾回应过换角",
+        "onboard_time": 1747271252,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416516,
+        "num": 416516,
+        "word": "广东多名中学生出操被地面烫伤",
+        "onboard_time": 1747266319,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29923,
+        "num": 413522,
+        "word": "终于有电影讲讲新疆棉花故事了",
+        "onboard_time": 1747228343,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413232,
+        "num": 413232,
+        "word": "郑钦文终结萨巴伦卡1000赛15连胜",
+        "onboard_time": 1747265059,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359059,
+        "num": 359059,
+        "word": "水龙吟",
+        "onboard_time": 1747272742,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254391,
+        "num": 254391,
+        "word": "华为官宣鸿蒙电脑非凡大师版",
+        "onboard_time": 1747272682,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 257029,
+        "num": 253679,
+        "word": "G社拍的张凌赫章昊李宛妲",
+        "onboard_time": 1747268063,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254942,
+        "num": 253250,
+        "word": "肖战10秒演出四种情绪",
+        "onboard_time": 1747265240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243578,
+        "num": 243578,
+        "word": "端午假期购票日历请收好",
+        "onboard_time": 1747273521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180775,
+        "num": 242149,
+        "word": "伊朗将与美国签署有条件的核协议",
+        "onboard_time": 1747273221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1165647,
+        "num": 240541,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769949,
+        "num": 239666,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539774,
+        "num": 237901,
+        "word": "他甚至用裤子擦了一下抓错人的手",
+        "onboard_time": 1747267643,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237288,
+        "num": 237288,
+        "word": "娃哈哈客服回应纯净水由今麦郎代工",
+        "onboard_time": 1747232363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224342,
+        "num": 224342,
+        "word": "废品回收站发现几百个机密文件",
+        "onboard_time": 1747267701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509755,
+        "num": 216732,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336150,
+        "num": 213043,
+        "word": "断崖式分手后的两个多月",
+        "onboard_time": 1747268122,
+        "rank": 16,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 306676,
+        "num": 212389,
+        "word": "越南女首富狱中发函求免死",
+        "onboard_time": 1747266620,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201294,
+        "num": 201294,
+        "word": "黄磊孙莉带儿女逛西湖",
+        "onboard_time": 1747268002,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 198361,
+        "word": "何小鹏官宣全新小鹏P7",
+        "onboard_time": 1747273521,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 985881,
+        "num": 197488,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 400871,
+        "num": 197255,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282168,
+        "num": 196775,
+        "word": "女子因过度防晒睡觉翻身时骨折",
+        "onboard_time": 1747244295,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195558,
+        "num": 195558,
+        "word": "女子请10天育儿假照顾生病孩子遭解雇",
+        "onboard_time": 1747275381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182773,
+        "num": 182773,
+        "word": "种地吧直播",
+        "onboard_time": 1747273641,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177079,
+        "num": 177079,
+        "word": "魏劭谁懂啊宣夜我懂",
+        "onboard_time": 1747268002,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133742,
+        "num": 175755,
+        "word": "金饰克价一夜再跌17元",
+        "onboard_time": 1747273401,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174944,
+        "num": 174944,
+        "word": "野狗骨头阵容官宣",
+        "onboard_time": 1747273521,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139802,
+        "num": 170471,
+        "word": "许我耀眼",
+        "onboard_time": 1747272389,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76239,
+        "num": 169125,
+        "word": "多哈世乒赛林诗栋海报",
+        "onboard_time": 1747274721,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167837,
+        "num": 167837,
+        "word": "警方通报保时捷失控致1死2伤",
+        "onboard_time": 1747273761,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153998,
+        "num": 153998,
+        "word": "姐姐姐夫先亲上了",
+        "onboard_time": 1747273221,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145607,
+        "num": 145607,
+        "word": "女子买金饰秒下单称货买当下值",
+        "onboard_time": 1747269991,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135868,
+        "num": 135868,
+        "word": "潘粤明熬夜看郑钦文比赛",
+        "onboard_time": 1747271431,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133190,
+        "num": 133190,
+        "word": "普京确定俄乌谈判俄方代表团名单",
+        "onboard_time": 1747264518,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132147,
+        "num": 132147,
+        "word": "赵丽颖赵德胤曾被偶遇一起逛街",
+        "onboard_time": 1747227502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 129432,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 128148,
+        "num": 128148,
+        "word": "20周年版iPhone疯狂堆料",
+        "onboard_time": 1747274540,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125448,
+        "num": 125448,
+        "word": "日本女性的长期饮食压抑",
+        "onboard_time": 1747267822,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125282,
+        "num": 125282,
+        "word": "水龙吟首支片花",
+        "onboard_time": 1747272742,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123003,
+        "num": 123003,
+        "word": "唐嫣抹胸花朵刺绣高定",
+        "onboard_time": 1747272922,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116824,
+        "num": 116824,
+        "word": "李雪琴演技",
+        "onboard_time": 1747270770,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114892,
+        "num": 114892,
+        "word": "郑钦文说中国人讲究玄学",
+        "onboard_time": 1747272389,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115200,
+        "num": 113721,
+        "word": "野狗骨头",
+        "onboard_time": 1747272802,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111961,
+        "num": 111961,
+        "word": "京东外卖",
+        "onboard_time": 1747273280,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105840,
+        "num": 105840,
+        "word": "勇士vs森林狼",
+        "onboard_time": 1747275501,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102771,
+        "num": 102771,
+        "word": "马龙在演我的看球状态",
+        "onboard_time": 1747272450,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102225,
+        "num": 102225,
+        "word": "aespa将6月回归",
+        "onboard_time": 1747273161,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "猫 我征服人类只需要呼吸",
+        "onboard_time": 1747269511,
+        "rank": 48,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 100772,
+        "num": 100772,
+        "word": "凯尔特人2比3尼克斯",
+        "onboard_time": 1747275501,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席为中拉命运共同体谱写新篇章#"
+    }
+  }
+}

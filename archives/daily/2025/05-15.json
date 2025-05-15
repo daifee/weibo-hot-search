@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747274158736,
+  "endTime": 1747275541984,
   "band_list": [
     {
       "raw_hot": 1585641,
@@ -11,7 +11,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1019376,
+      "raw_hot": 1165647,
       "num": 301314,
       "word": "关晓彤回应无名指戒指",
       "onboard_time": 1747266561,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769949,
+      "num": 239666,
+      "word": "工作室删除范丞丞撕拉片",
+      "onboard_time": 1747274242,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607185,
       "num": 237931,
       "word": "赵丽颖赵德胤曾被偶遇一起逛街",
@@ -83,6 +91,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 509755,
+      "num": 216732,
+      "word": "黄杨钿甜 葛莉莎",
+      "onboard_time": 1747273880,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487756,
       "num": 189967,
       "word": "金价",
@@ -113,6 +129,14 @@
       "onboard_time": 1747210283,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416516,
+      "num": 416516,
+      "word": "广东多名中学生出操被地面烫伤",
+      "onboard_time": 1747266319,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384577,
@@ -156,11 +180,19 @@
     },
     {
       "raw_hot": 360441,
-      "num": 196029,
+      "num": 196775,
       "word": "女子因过度防晒睡觉翻身时骨折",
       "onboard_time": 1747244295,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359059,
+      "num": 359059,
+      "word": "水龙吟",
+      "onboard_time": 1747272742,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 356428,
@@ -179,28 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 328638,
-      "num": 328638,
-      "word": "广东多名中学生出操被地面烫伤",
-      "onboard_time": 1747266319,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 324984,
       "num": 324984,
       "word": "废品回收站发现几百个机密文件",
       "onboard_time": 1747267701,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324010,
-      "num": 324010,
-      "word": "水龙吟",
-      "onboard_time": 1747272742,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 305367,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243578,
+      "num": 243578,
+      "word": "端午假期购票日历请收好",
+      "onboard_time": 1747273521,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239971,
       "num": 239971,
       "word": "郑钦文vs萨巴伦卡",
@@ -371,12 +395,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194266,
-      "num": 194266,
+      "raw_hot": 198361,
+      "num": 198361,
       "word": "何小鹏官宣全新小鹏P7",
       "onboard_time": 1747273521,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 195558,
+      "num": 195558,
+      "word": "女子请10天育儿假照顾生病孩子遭解雇",
+      "onboard_time": 1747275381,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194233,
@@ -411,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182178,
-      "num": 195472,
-      "word": "端午假期购票日历请收好",
-      "onboard_time": 1747273521,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 180775,
+      "num": 242149,
+      "word": "伊朗将与美国签署有条件的核协议",
+      "onboard_time": 1747273221,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179095,
@@ -425,14 +457,6 @@
       "onboard_time": 1747267822,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178093,
-      "num": 178093,
-      "word": "伊朗将与美国签署有条件的核协议",
-      "onboard_time": 1747273221,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 178093,
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167837,
+      "num": 167837,
+      "word": "警方通报保时捷失控致1死2伤",
+      "onboard_time": 1747273761,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166268,
       "num": 166268,
       "word": "姐姐姐夫先亲上了",
@@ -507,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161360,
-      "num": 161360,
-      "word": "黄杨钿甜 葛莉莎",
-      "onboard_time": 1747273880,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160862,
       "num": 202489,
       "word": "李亚鹏妻子搬家",
@@ -536,14 +560,6 @@
       "word": "鄂州车祸已致1死2伤",
       "onboard_time": 1747268481,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147609,
-      "num": 147609,
-      "word": "警方通报保时捷失控致1死2伤",
-      "onboard_time": 1747273761,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -579,6 +595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139802,
+      "num": 170471,
+      "word": "许我耀眼",
+      "onboard_time": 1747272389,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139230,
       "num": 139230,
       "word": "央视端午晚会录制阵容",
@@ -587,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136535,
-      "num": 136535,
-      "word": "许我耀眼",
-      "onboard_time": 1747272389,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 133742,
+      "num": 175755,
+      "word": "金饰克价一夜再跌17元",
+      "onboard_time": 1747273401,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 133625,
@@ -611,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129432,
+      "num": 129432,
+      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+      "onboard_time": 1747275021,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 128522,
       "num": 206296,
       "word": "国产剧最有味道的cp也be了",
       "onboard_time": 1747260134,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128148,
+      "num": 128148,
+      "word": "20周年版iPhone疯狂堆料",
+      "onboard_time": 1747274540,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 127485,
@@ -633,14 +673,6 @@
       "onboard_time": 1747235602,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126654,
-      "num": 118354,
-      "word": "金饰克价一夜再跌17元",
-      "onboard_time": 1747273401,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 125498,
@@ -675,6 +707,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114892,
+      "num": 114892,
+      "word": "郑钦文说中国人讲究玄学",
+      "onboard_time": 1747272389,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111961,
+      "num": 111961,
+      "word": "京东外卖",
+      "onboard_time": 1747273280,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 105840,
+      "num": 105840,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1747275501,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104511,
       "num": 104511,
       "word": "孙俪回应甄嬛生日",
@@ -699,12 +755,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102771,
+      "num": 102771,
+      "word": "马龙在演我的看球状态",
+      "onboard_time": 1747272450,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101414,
       "num": 112108,
       "word": "文化中国行传承优良家风",
       "onboard_time": 1747269331,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 100772,
+      "num": 100772,
+      "word": "凯尔特人2比3尼克斯",
+      "onboard_time": 1747275501,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 97807,
@@ -809,6 +881,14 @@
       "onboard_time": 1747228222,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 76239,
+      "num": 169125,
+      "word": "多哈世乒赛林诗栋海报",
+      "onboard_time": 1747274721,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 75470,
@@ -964,7 +1044,7 @@
     },
     {
       "raw_hot": 47878,
-      "num": 334220,
+      "num": 413522,
       "word": "终于有电影讲讲新疆棉花故事了",
       "onboard_time": 1747228343,
       "rank": 2,
