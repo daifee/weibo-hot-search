@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747316115761,
+  "endTime": 1747316825498,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -971,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 971832,
+      "num": 496246,
+      "word": "丁真 被资本做局了",
+      "onboard_time": 1747315765,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 960210,
       "num": 1153633,
       "word": "工行疑似掺假金条检测结果为真金",
@@ -1491,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 690673,
+      "num": 1227470,
+      "word": "赵樱子请了顶级妆造团队",
+      "onboard_time": 1747312103,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688338,
       "num": 389422,
       "word": "藏海传对打折腰",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1747193001,
       "rank": 25,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 643750,
-      "num": 1227470,
-      "word": "赵樱子请了顶级妆造团队",
-      "onboard_time": 1747312103,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 641593,
@@ -2547,6 +2555,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 484081,
+      "num": 484081,
+      "word": "董袭莹不符合当年协和4加4报考资格",
+      "onboard_time": 1747312884,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481732,
       "num": 481732,
       "word": "04年男子拒服兵役被罚3.8万",
@@ -2841,6 +2857,14 @@
       "onboard_time": 1747266319,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442647,
+      "num": 321185,
+      "word": "小乔雨中抱大乔雨中吻",
+      "onboard_time": 1747314985,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 442617,
@@ -3249,14 +3273,6 @@
       "onboard_time": 1746880281,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392407,
-      "num": 321185,
-      "word": "小乔雨中抱大乔雨中吻",
-      "onboard_time": 1747314985,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 391332,
@@ -3937,14 +3953,6 @@
       "onboard_time": 1747301483,
       "rank": 48,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 320651,
-      "num": 320651,
-      "word": "丁真 被资本做局了",
-      "onboard_time": 1747315765,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 320133,
@@ -4707,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262417,
+      "num": 262417,
+      "word": "田曦薇娇兰活动生图",
+      "onboard_time": 1747316064,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261471,
       "num": 261471,
       "word": "高学历过滤学渣但过滤不了人渣",
@@ -4985,6 +5001,14 @@
       "onboard_time": 1747033163,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249396,
+      "num": 304930,
+      "word": "鹿晗一天预告",
+      "onboard_time": 1747313542,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 249162,
@@ -5323,6 +5347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236868,
+      "num": 324626,
+      "word": "代购带50个泡泡玛特玩偶入境被查",
+      "onboard_time": 1747314865,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235902,
       "num": 235902,
       "word": "陈楚生有多i人",
@@ -5411,14 +5443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231722,
-      "num": 304930,
-      "word": "鹿晗一天预告",
-      "onboard_time": 1747313542,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231592,
       "num": 267731,
       "word": "荣耀400让你戒掉手机壳",
@@ -5497,14 +5521,6 @@
       "onboard_time": 1747146502,
       "rank": 25,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 226657,
-      "num": 226657,
-      "word": "董袭莹不符合当年协和4加4报考资格",
-      "onboard_time": 1747312884,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226616,
@@ -5675,6 +5691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 222258,
+      "num": 321781,
+      "word": "喜茶回应奶茶被放入微波炉加热着火",
+      "onboard_time": 1747315105,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222181,
       "num": 247143,
       "word": "宋亚轩祝妈咪母亲节快乐",
@@ -5697,14 +5721,6 @@
       "onboard_time": 1747197625,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221063,
-      "num": 221063,
-      "word": "田曦薇娇兰活动生图",
-      "onboard_time": 1747316064,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 220351,
@@ -6403,6 +6419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204539,
+      "num": 204539,
+      "word": "小鸟在张杰鸟巢演唱会筑巢了",
+      "onboard_time": 1747315644,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204338,
       "num": 204338,
       "word": "春夏",
@@ -6851,6 +6875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196225,
+      "num": 196225,
+      "word": "折腰王母仙丹后劲",
+      "onboard_time": 1747315705,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196093,
+      "num": 196093,
+      "word": "宋茜流苏高定",
+      "onboard_time": 1747315525,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196068,
       "num": 196068,
       "word": "汶川地震班里44人只活下来11人",
@@ -6865,6 +6905,14 @@
       "onboard_time": 1747018582,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195831,
+      "num": 429050,
+      "word": "时代少年团出道2000天",
+      "onboard_time": 1747315884,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195480,
@@ -7115,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192479,
+      "num": 676567,
+      "word": "BLACKPINK排队",
+      "onboard_time": 1747311924,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192453,
       "num": 192453,
       "word": "姆巴佩点球破门",
@@ -7185,14 +7241,6 @@
       "onboard_time": 1747196963,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190841,
-      "num": 676567,
-      "word": "BLACKPINK排队",
-      "onboard_time": 1747311924,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 190834,
@@ -7345,6 +7393,14 @@
       "onboard_time": 1747150161,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188465,
+      "num": 446862,
+      "word": "张云龙我们大家在现实世界里不会散",
+      "onboard_time": 1747314624,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188070,
@@ -7715,14 +7771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182904,
-      "num": 182904,
-      "word": "小鸟在张杰鸟巢演唱会筑巢了",
-      "onboard_time": 1747315644,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 182876,
       "num": 182876,
       "word": "水龙吟首支片花",
@@ -7891,12 +7939,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 179609,
-      "num": 324626,
-      "word": "代购带50个泡泡玛特玩偶入境被查",
-      "onboard_time": 1747314865,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 179436,
+      "num": 179436,
+      "word": "外媒称周迅是中国影坛标志性人物",
+      "onboard_time": 1747316484,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 179418,
@@ -7993,14 +8041,6 @@
       "onboard_time": 1747200444,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178091,
-      "num": 178091,
-      "word": "折腰王母仙丹后劲",
-      "onboard_time": 1747315705,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 178067,
@@ -8113,14 +8153,6 @@
       "onboard_time": 1747300523,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176561,
-      "num": 323192,
-      "word": "时代少年团出道2000天",
-      "onboard_time": 1747315884,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 176429,
@@ -9403,14 +9435,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 157225,
-      "num": 157225,
-      "word": "宋茜流苏高定",
-      "onboard_time": 1747315525,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 157170,
       "num": 157170,
       "word": "运动后30分钟是进食黄金期",
@@ -9425,6 +9449,14 @@
       "onboard_time": 1747310661,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157013,
+      "num": 157013,
+      "word": "珠玉",
+      "onboard_time": 1747316424,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 157001,
@@ -9777,14 +9809,6 @@
       "onboard_time": 1746976222,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153690,
-      "num": 321781,
-      "word": "喜茶回应奶茶被放入微波炉加热着火",
-      "onboard_time": 1747315105,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153683,
@@ -13539,6 +13563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106038,
+      "num": 321435,
+      "word": "花2万多考6本技能证书不被认可",
+      "onboard_time": 1747314923,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105900,
       "num": 105900,
       "word": "小米诉Vidda三年后者已成行业第二",
@@ -13971,14 +14003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 96717,
-      "num": 321435,
-      "word": "花2万多考6本技能证书不被认可",
-      "onboard_time": 1747314923,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96612,
       "num": 152756,
       "word": "特朗普访问中东三国主要目的是什么",
@@ -14369,6 +14393,14 @@
       "onboard_time": 1746894920,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89134,
+      "num": 444083,
+      "word": "央视曝光炒股App骗局",
+      "onboard_time": 1747316364,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 88912,
@@ -14969,6 +15001,14 @@
       "onboard_time": 1747120822,
       "rank": 23,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 74210,
+      "num": 322628,
+      "word": "胡锡进称调查并没有结束",
+      "onboard_time": 1747315765,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74078,
@@ -15731,6 +15771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56707,
+      "num": 192274,
+      "word": "男子失踪19年被宣告死亡后又复活",
+      "onboard_time": 1747316784,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56674,
       "num": 196377,
       "word": "陈张太康吞海主题曲",
@@ -15753,6 +15801,14 @@
       "onboard_time": 1747226843,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56102,
+      "num": 453863,
+      "word": "火出国门的中国制造有多少",
+      "onboard_time": 1747313244,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55825,
@@ -15832,14 +15888,6 @@
       "word": "9旬母亲走1小时路看望7旬女儿",
       "onboard_time": 1746941063,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54531,
-      "num": 325017,
-      "word": "火出国门的中国制造有多少",
-      "onboard_time": 1747313244,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -16987,14 +17035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 37093,
-      "num": 322628,
-      "word": "胡锡进称调查并没有结束",
-      "onboard_time": 1747315765,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37065,
       "num": 202668,
       "word": "三场国际大战后一个新世界呼之欲出",
@@ -17379,6 +17419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30039,
+      "num": 456046,
+      "word": "曝美国反对泽连斯基参加北约峰会",
+      "onboard_time": 1747315345,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30025,
       "num": 167346,
       "word": "银魂还是太全面了",
@@ -17521,14 +17569,6 @@
       "onboard_time": 1747286183,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27919,
-      "num": 328558,
-      "word": "曝美国反对泽连斯基参加北约峰会",
-      "onboard_time": 1747315345,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27889,
@@ -18211,6 +18251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20236,
+      "num": 1040999,
+      "word": "降准释放了明确稳增长的积极信号",
+      "onboard_time": 1747316424,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20107,
       "num": 20107,
       "word": "萨巴伦卡2比1肯宁",
@@ -18667,6 +18715,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 14988,
+      "num": 440219,
+      "word": "乳制品的核心价值有哪些",
+      "onboard_time": 1747315884,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14966,
       "num": 324224,
       "word": "折腰的服装造型有哪些亮点",
@@ -18681,14 +18737,6 @@
       "onboard_time": 1747056681,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14774,
-      "num": 323597,
-      "word": "乳制品的核心价值有哪些",
-      "onboard_time": 1747315884,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 14728,
