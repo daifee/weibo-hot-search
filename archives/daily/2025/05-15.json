@@ -1,10 +1,10 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747313477316,
+  "endTime": 1747314297346,
   "band_list": [
     {
-      "raw_hot": 8779319,
-      "num": 10029319,
+      "raw_hot": 9150504,
+      "num": 10400504,
       "word": "董某莹四项证书被撤销",
       "onboard_time": 1747311022,
       "rank": 0,
@@ -99,19 +99,19 @@
       "category": "辟谣/通报,健康医疗"
     },
     {
+      "raw_hot": 1322587,
+      "num": 1322587,
+      "word": "上海10岁女孩确诊长发公主综合征",
+      "onboard_time": 1747306703,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1296268,
       "num": 471314,
       "word": "曝病重老人被要求亲自取钱在银行去世",
       "onboard_time": 1747280843,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1290364,
-      "num": 1290364,
-      "word": "上海10岁女孩确诊长发公主综合征",
-      "onboard_time": 1747306703,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1169148,
+      "num": 1169148,
+      "word": "肖某被吊销医师执业证书",
+      "onboard_time": 1747311082,
+      "rank": 20,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1165647,
       "num": 401789,
       "word": "关晓彤回应无名指戒指",
@@ -177,14 +185,6 @@
       "onboard_time": 1747283785,
       "rank": 25,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 1081799,
-      "num": 1144614,
-      "word": "肖某被吊销医师执业证书",
-      "onboard_time": 1747311082,
-      "rank": 20,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 1068828,
@@ -339,6 +339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 628026,
+      "num": 628026,
+      "word": "中日友好医院被罚款",
+      "onboard_time": 1747312341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607920,
       "num": 607920,
       "word": "温州一母亲疑殴打女儿致死",
@@ -409,6 +417,14 @@
       "onboard_time": 1747267643,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 547718,
+      "num": 547718,
+      "word": "雷军官宣小米自研手机芯片",
+      "onboard_time": 1747313364,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 544932,
@@ -563,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 446425,
+      "num": 1227470,
+      "word": "赵樱子请了顶级妆造团队",
+      "onboard_time": 1747312103,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443858,
       "num": 443858,
       "word": "俄乌谈判",
@@ -627,20 +651,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406071,
+      "num": 1252715,
+      "word": "刘宇宁古装",
+      "onboard_time": 1747308683,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396005,
       "num": 396005,
       "word": "银监部门回应重病女子取款时去世",
       "onboard_time": 1747296684,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394922,
-      "num": 1252715,
-      "word": "刘宇宁古装",
-      "onboard_time": 1747308683,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 384577,
@@ -657,14 +681,6 @@
       "onboard_time": 1747240639,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 379441,
-      "num": 379441,
-      "word": "中日友好医院被罚款",
-      "onboard_time": 1747312341,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375878,
@@ -873,14 +889,6 @@
       "onboard_time": 1747235063,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 299969,
-      "num": 1227470,
-      "word": "赵樱子请了顶级妆造团队",
-      "onboard_time": 1747312103,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 299555,
@@ -1105,6 +1113,22 @@
       "onboard_time": 1747284024,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249763,
+      "num": 1205333,
+      "word": "肖某在患者麻醉状态中断手术擅离手术室",
+      "onboard_time": 1747312765,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 249043,
+      "num": 249043,
+      "word": "香港25岁女董助月薪5万的家",
+      "onboard_time": 1747310243,
+      "rank": 36,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 247844,
@@ -1379,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206055,
+      "num": 304930,
+      "word": "鹿晗一天预告",
+      "onboard_time": 1747313542,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "枯藤老树昏猫",
@@ -1387,12 +1419,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204385,
-      "num": 204385,
-      "word": "香港25岁女董助月薪5万的家",
-      "onboard_time": 1747310243,
-      "rank": 36,
-      "category": "休闲,民生新闻"
+      "raw_hot": 202451,
+      "num": 1181557,
+      "word": "小米SU7Ultra的治愈声纹",
+      "onboard_time": 1747312043,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 201320,
@@ -1675,20 +1707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181355,
+      "num": 676567,
+      "word": "BLACKPINK排队",
+      "onboard_time": 1747311924,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181198,
       "num": 181198,
       "word": "谁来给金靖安个热巴防沉迷",
       "onboard_time": 1747294463,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180935,
-      "num": 180935,
-      "word": "雷军官宣小米自研手机芯片",
-      "onboard_time": 1747313364,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 180368,
@@ -1867,14 +1899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170822,
-      "num": 1181557,
-      "word": "小米SU7Ultra的治愈声纹",
-      "onboard_time": 1747312043,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 169899,
       "num": 169899,
       "word": "女子买金饰秒下单称货买当下值",
@@ -2043,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157097,
+      "num": 184968,
+      "word": "古巨基说自己是儿子的ATM机",
+      "onboard_time": 1747310661,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156446,
       "num": 156446,
       "word": "咸鱼飞升官宣李沁妙烟",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1747286782,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154925,
-      "num": 676567,
-      "word": "BLACKPINK排队",
-      "onboard_time": 1747311924,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 153442,
@@ -2169,14 +2193,6 @@
       "onboard_time": 1747279221,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147365,
-      "num": 184968,
-      "word": "古巨基说自己是儿子的ATM机",
-      "onboard_time": 1747310661,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 147365,
@@ -2555,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124781,
+      "num": 124781,
+      "word": "清华教授建议调整毕业论文查重设置",
+      "onboard_time": 1747314204,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124137,
       "num": 124137,
       "word": "孔雪儿是谁叫我邪恶水蜜桃",
@@ -2585,6 +2609,14 @@
       "onboard_time": 1747234522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119974,
+      "num": 542036,
+      "word": "张凌赫男友视角直播",
+      "onboard_time": 1747313964,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 118943,
@@ -2771,6 +2803,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 93708,
+      "num": 643377,
+      "word": "陆军士兵遗体被运回印度",
+      "onboard_time": 1747311804,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92853,
       "num": 92853,
       "word": "脊柱最讨厌的4个坐姿",
@@ -2865,14 +2905,6 @@
       "onboard_time": 1747300762,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82906,
-      "num": 643377,
-      "word": "陆军士兵遗体被运回印度",
-      "onboard_time": 1747311804,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82565,
@@ -3033,14 +3065,6 @@
       "onboard_time": 1747286362,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73665,
-      "num": 1205333,
-      "word": "肖某在患者麻醉状态中断手术擅离手术室",
-      "onboard_time": 1747312765,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 73656,
@@ -3251,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54203,
+      "num": 301044,
+      "word": "火出国门的中国制造有多少",
+      "onboard_time": 1747313244,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53398,
       "num": 69552,
       "word": "贵州茅台股东大会爆满改地点",
@@ -3363,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47765,
+      "num": 660722,
+      "word": "阿里巴巴第四财季净利润298.5亿元",
+      "onboard_time": 1747312944,
+      "rank": 27,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 47445,
       "num": 1396422,
       "word": "共商人工智能发展治理",
@@ -3408,14 +3448,6 @@
       "word": "医生推荐一名患者获200元好处费",
       "onboard_time": 1747286961,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43133,
-      "num": 186195,
-      "word": "火出国门的中国制造有多少",
-      "onboard_time": 1747313244,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3515,6 +3547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36978,
+      "num": 1152360,
+      "word": "如何避免下一个董某莹出现",
+      "onboard_time": 1747312944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36939,
       "num": 153801,
       "word": "知世大小姐萌的没边",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1747290202,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35123,
-      "num": 660722,
-      "word": "阿里巴巴第四财季净利润298.5亿元",
-      "onboard_time": 1747312944,
-      "rank": 27,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 34562,
@@ -3891,14 +3923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11337,
-      "num": 1152360,
-      "word": "如何避免下一个董某莹出现",
-      "onboard_time": 1747312944,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11278,
       "num": 345821,
       "word": "人工客服难找对消费者带来哪些困扰",
@@ -3961,6 +3985,14 @@
       "onboard_time": 1747057405,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4264,
+      "num": 479553,
+      "word": "聊斋兰若寺的叙事结构会有哪些利弊",
+      "onboard_time": 1747314084,
+      "rank": 23,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
