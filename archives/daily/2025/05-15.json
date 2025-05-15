@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747298858876,
+  "endTime": 1747301298855,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -25,6 +25,14 @@
       "onboard_time": 1747281562,
       "rank": 4,
       "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 2111687,
+      "num": 2111687,
+      "word": "中方不同意台湾参加今年的世卫大会",
+      "onboard_time": 1747298723,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2006231,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 1253026,
-      "num": 551799,
+      "num": 767481,
       "word": "向往的生活 回归",
       "onboard_time": 1747292602,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1203554,
+      "num": 1203554,
+      "word": "家属称在银行去世老人当时眨眼都费劲",
+      "onboard_time": 1747298603,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1182364,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396005,
+      "num": 396005,
+      "word": "银监部门回应重病女子取款时去世",
+      "onboard_time": 1747296684,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384577,
       "num": 384577,
       "word": "华为官宣鸿蒙电脑非凡大师版",
@@ -465,6 +489,14 @@
       "onboard_time": 1747240639,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 376184,
+      "num": 376184,
+      "word": "中餐厅去非洲了",
+      "onboard_time": 1747299563,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 375878,
@@ -489,14 +521,6 @@
       "onboard_time": 1747273221,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 371143,
-      "num": 371143,
-      "word": "银监部门回应重病女子取款时去世",
-      "onboard_time": 1747296684,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 370312,
@@ -593,14 +617,6 @@
       "onboard_time": 1747267701,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320391,
-      "num": 320391,
-      "word": "中方不同意台湾参加今年的世卫大会",
-      "onboard_time": 1747298723,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 307630,
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266595,
+      "num": 266595,
+      "word": "中方敦促美方尽快停止232关税措施",
+      "onboard_time": 1747299623,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265847,
       "num": 284669,
       "word": "祝绪丹和相亲对象打电话急眼了",
@@ -795,12 +819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265549,
+      "num": 265549,
+      "word": "比伯团队否认破产",
+      "onboard_time": 1747298422,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262967,
       "num": 213931,
       "word": "李现 下次参加刘冲活动多解一颗扣子",
       "onboard_time": 1747238242,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258640,
+      "num": 198800,
+      "word": "两人以怀孕为由敲诈勒索孙兴慜",
+      "onboard_time": 1747301003,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 255490,
@@ -931,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231182,
+      "num": 217157,
+      "word": "发明扁头的人真是个天才",
+      "onboard_time": 1747297583,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226410,
       "num": 370008,
       "word": "14万家用车卷上天了",
@@ -961,14 +1009,6 @@
       "onboard_time": 1747297942,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217157,
-      "num": 217157,
-      "word": "发明扁头的人真是个天才",
-      "onboard_time": 1747297583,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 216695,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1747278442,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208334,
+      "num": 222432,
+      "word": "深情眼",
+      "onboard_time": 1747295844,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 208108,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192122,
+      "num": 192122,
+      "word": "俄向印兜售S500防空系统",
+      "onboard_time": 1747300463,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190799,
       "num": 190799,
       "word": "膳魔师 檀健次",
@@ -1240,14 +1296,6 @@
       "word": "玉茗茶骨",
       "onboard_time": 1747278022,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185708,
-      "num": 222432,
-      "word": "深情眼",
-      "onboard_time": 1747295844,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1304,6 +1352,14 @@
       "word": "水龙吟首支片花",
       "onboard_time": 1747272742,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182099,
+      "num": 182099,
+      "word": "折腰云合已登顶",
+      "onboard_time": 1747300463,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1467,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169283,
+      "num": 169283,
+      "word": "贾玲 此刻开始你可以讨好我吗",
+      "onboard_time": 1747299683,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168548,
       "num": 168548,
       "word": "刘宇宁问魏劭你干横么去",
@@ -1603,6 +1667,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "南京大屠杀幸存者谢桂英去世",
+      "onboard_time": 1747301184,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153442,
+      "num": 153442,
+      "word": "种地吧",
+      "onboard_time": 1747300223,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152022,
       "num": 333638,
       "word": "买下300方大平层邻居全用来办公",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1747222341,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 149961,
+      "num": 149961,
+      "word": "商务部介绍近期重点工作",
+      "onboard_time": 1747299802,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149495,
@@ -1667,14 +1755,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 145641,
-      "num": 145641,
-      "word": "比伯团队否认破产",
-      "onboard_time": 1747298422,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145578,
       "num": 345189,
       "word": "奶奶用泡椒凤爪配方给孙女治汗疱疹",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1747273401,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141593,
+      "num": 141593,
+      "word": "记者实测网传盒马删除鸡蛋订单记录",
+      "onboard_time": 1747300882,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141405,
@@ -1771,6 +1859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137970,
+      "num": 137970,
+      "word": "曹骏友情出演",
+      "onboard_time": 1747300223,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137757,
       "num": 137757,
       "word": "谁家男主因为生气要跟女主同居啊",
@@ -1785,6 +1881,22 @@
       "onboard_time": 1747289902,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 137087,
+      "num": 459650,
+      "word": "商务部回应美232关税措施",
+      "onboard_time": 1747297882,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134515,
+      "num": 256020,
+      "word": "外交部回应台湾地区未收到世卫大会邀请",
+      "onboard_time": 1747300044,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133742,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1747260134,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128190,
+      "num": 128190,
+      "word": "刘宇宁哼着歌儿做美甲",
+      "onboard_time": 1747301242,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128148,
@@ -1936,6 +2056,14 @@
       "word": "男子虐猫后挂网络平台叫卖被行拘",
       "onboard_time": 1747234522,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120573,
+      "num": 247600,
+      "word": "农行工作人员曾劝说老人回去休息",
+      "onboard_time": 1747300523,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2107,12 +2235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90039,
-      "num": 459650,
-      "word": "商务部回应美232关税措施",
-      "onboard_time": 1747297882,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 90940,
+      "num": 155847,
+      "word": "越吃越白的8种食物",
+      "onboard_time": 1747296864,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 87485,
@@ -2217,6 +2345,14 @@
       "onboard_time": 1747228222,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 77291,
+      "num": 286755,
+      "word": "宋雨琦的Live图神机",
+      "onboard_time": 1747300223,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 76426,
@@ -2331,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71535,
+      "num": 248167,
+      "word": "南昌大学惊现舌尖上的教学",
+      "onboard_time": 1747301003,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 70945,
       "num": 70945,
       "word": "腾讯一季度收入1800.22亿",
@@ -2353,6 +2497,14 @@
       "onboard_time": 1747236982,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68390,
+      "num": 201143,
+      "word": "日本自卫队伙食",
+      "onboard_time": 1747299203,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 67088,
@@ -2539,12 +2691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46000,
-      "num": 286530,
-      "word": "家属称在银行去世老人当时眨眼都费劲",
-      "onboard_time": 1747298603,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 47445,
+      "num": 1394635,
+      "word": "共商人工智能发展治理",
+      "onboard_time": 1747296864,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45680,
@@ -2609,14 +2761,6 @@
       "onboard_time": 1747293802,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40717,
-      "num": 562229,
-      "word": "共商人工智能发展治理",
-      "onboard_time": 1747296864,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40145,
@@ -2689,6 +2833,14 @@
       "onboard_time": 1747290740,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29400,
+      "num": 203333,
+      "word": "陈梦唯美杂志封面",
+      "onboard_time": 1747300702,
+      "rank": 28,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 28424,
@@ -2795,6 +2947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20767,
+      "num": 206994,
+      "word": "货拉拉为违法改装车推广接单",
+      "onboard_time": 1747301003,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20716,
       "num": 369598,
       "word": "陕西一驻村干部让村民帮其朋友贷款",
@@ -2865,6 +3025,14 @@
       "onboard_time": 1747289783,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14261,
+      "num": 254265,
+      "word": "消费者如何辨别鸡蛋是否兽药超标",
+      "onboard_time": 1747300643,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 12850,
