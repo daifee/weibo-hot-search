@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747348955006,
+  "endTime": 1747351480262,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -105,6 +105,14 @@
       "onboard_time": 1747033822,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2519428,
+      "num": 2519428,
+      "word": "母女就餐1小时未动筷老板报警",
+      "onboard_time": 1747331235,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2116580,
@@ -825,14 +833,6 @@
       "onboard_time": 1747021342,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1105853,
-      "num": 1105853,
-      "word": "母女就餐1小时未动筷老板报警",
-      "onboard_time": 1747331235,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1099496,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1747122502,
       "rank": 20,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 546537,
+      "num": 546537,
+      "word": "麻醉医生称肖某为谎言付出代价",
+      "onboard_time": 1747317204,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 544932,
@@ -4507,14 +4515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290733,
-      "num": 290733,
-      "word": "麻醉医生称肖某为谎言付出代价",
-      "onboard_time": 1747317204,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 290285,
       "num": 403511,
       "word": "义乌商家清早接到30万双袜子大单",
@@ -4801,6 +4801,14 @@
       "onboard_time": 1747298422,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265282,
+      "num": 265282,
+      "word": "幼儿园4名老师多次殴打女童被行拘",
+      "onboard_time": 1747324102,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264751,
@@ -6332,7 +6340,7 @@
     },
     {
       "raw_hot": 208752,
-      "num": 208752,
+      "num": 234767,
       "word": "金价一跌再跌网友直呼亏麻了",
       "onboard_time": 1747320263,
       "rank": 35,
@@ -6659,6 +6667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204180,
+      "num": 204180,
+      "word": "杜淳妻子体检被误诊",
+      "onboard_time": 1747351280,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203421,
       "num": 203421,
       "word": "nana民宿",
@@ -6929,14 +6945,6 @@
       "onboard_time": 1746973164,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199562,
-      "num": 199562,
-      "word": "幼儿园4名老师多次殴打女童被行拘",
-      "onboard_time": 1747324102,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199446,
@@ -8889,6 +8897,14 @@
       "onboard_time": 1747017501,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169524,
+      "num": 169524,
+      "word": "西班牙人0比2巴萨",
+      "onboard_time": 1747350920,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 169420,
@@ -13315,6 +13331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115988,
+      "num": 115988,
+      "word": "郑钦文无缘罗马赛决赛",
+      "onboard_time": 1747350920,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115936,
       "num": 266373,
       "word": "美国采购商抓紧囤货",
@@ -13467,6 +13491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114474,
+      "num": 151071,
+      "word": "折腰雨中戏份太抓马了",
+      "onboard_time": 1747327039,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114371,
       "num": 114371,
       "word": "纽卡斯尔联vs切尔西",
@@ -13497,6 +13529,14 @@
       "onboard_time": 1747309044,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114249,
+      "num": 114249,
+      "word": "郑钦文高芙3个半小时鏖战",
+      "onboard_time": 1747351280,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 114180,
@@ -14595,6 +14635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93646,
+      "num": 93646,
+      "word": "高芙保利尼争冠",
+      "onboard_time": 1747351220,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93288,
       "num": 93288,
       "word": "刑警的日子",
@@ -14649,6 +14697,22 @@
       "onboard_time": 1747199304,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 92248,
+      "num": 92248,
+      "word": "现货黄金突破3200",
+      "onboard_time": 1747328298,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 92239,
+      "num": 92239,
+      "word": "郑钦文1比2高芙",
+      "onboard_time": 1747351280,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 92088,
@@ -15211,6 +15275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79999,
+      "num": 113305,
+      "word": "小花镜头下的孙俪好美",
+      "onboard_time": 1747349597,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79836,
       "num": 380501,
       "word": "上海一民警收受娱乐场所贿款200余万",
@@ -15361,6 +15433,14 @@
       "onboard_time": 1747012462,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76158,
+      "num": 113287,
+      "word": "俄蒙混血网红让韩国化妆师化kpop妆",
+      "onboard_time": 1747350499,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 75925,
@@ -15665,22 +15745,6 @@
       "onboard_time": 1746952222,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70604,
-      "num": 70604,
-      "word": "现货黄金突破3200",
-      "onboard_time": 1747328298,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 70450,
-      "num": 86936,
-      "word": "折腰雨中戏份太抓马了",
-      "onboard_time": 1747327039,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 70214,
@@ -19083,6 +19147,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 17372,
+      "num": 115545,
+      "word": "保利尼首进罗马赛决赛",
+      "onboard_time": 1747350978,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17191,
       "num": 24997,
       "word": "王源时尚先生封面",
@@ -19289,6 +19361,14 @@
       "onboard_time": 1747192881,
       "rank": 39,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 15041,
+      "num": 88375,
+      "word": "泽连斯基称已派出谈判代表",
+      "onboard_time": 1747351039,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14988,
