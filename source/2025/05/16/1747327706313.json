@@ -1,0 +1,410 @@
+{
+  "runTime": 1747327706313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887066,
+        "num": 887066,
+        "word": "欧阳娜娜等20多人被台当局威胁",
+        "onboard_time": 1747321464,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427123,
+        "num": 427123,
+        "word": "董某莹四项证书被撤销",
+        "onboard_time": 1747311022,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 43498,
+        "num": 426170,
+        "word": "降准释放了明确稳增长的积极信号",
+        "onboard_time": 1747316424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558015,
+        "num": 426100,
+        "word": "队长",
+        "onboard_time": 1747316905,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425960,
+        "num": 425960,
+        "word": "北京协和医学院正在深入整改",
+        "onboard_time": 1747311625,
+        "rank": 4,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 305438,
+        "num": 305438,
+        "word": "在银行去世老人家属放弃送医",
+        "onboard_time": 1747323982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534554,
+        "num": 300176,
+        "word": "姜广涛获国赔",
+        "onboard_time": 1747322183,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410184,
+        "num": 297991,
+        "word": "4加4通报证明没人能包庇董小姐",
+        "onboard_time": 1747321764,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 294403,
+        "num": 294403,
+        "word": "成都5岁女童被碾亡案被告车主发声",
+        "onboard_time": 1747322363,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98060,
+        "num": 283519,
+        "word": "董袭莹博士论文与他人重复率超20%",
+        "onboard_time": 1747319904,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770183,
+        "num": 271257,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 730496,
+        "num": 251997,
+        "word": "7人帮刮奖刮出100万每人分1万",
+        "onboard_time": 1747324102,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711105,
+        "num": 240086,
+        "word": "刘晓庆回应被指偷税",
+        "onboard_time": 1747321584,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674448,
+        "num": 225500,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 524807,
+        "num": 208204,
+        "word": "叶舒华把头像换成宋雨琦",
+        "onboard_time": 1747325062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338364,
+        "num": 201182,
+        "word": "肖某事件涉及单位人员正被调查",
+        "onboard_time": 1747312043,
+        "rank": 15,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 192336,
+        "num": 192336,
+        "word": "歌手歌单",
+        "onboard_time": 1747310782,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199013,
+        "num": 185893,
+        "word": "肖某被吊销医师执业证书",
+        "onboard_time": 1747311082,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 169622,
+        "num": 169622,
+        "word": "奶奶没接凉水4岁孙子洗澡误入皮烫掉",
+        "onboard_time": 1747309763,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135804,
+        "num": 168400,
+        "word": "赵樱子请了顶级妆造团队",
+        "onboard_time": 1747312103,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540122,
+        "num": 167385,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 20,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 289215,
+        "num": 166518,
+        "word": "金靖P图不带迪丽热巴",
+        "onboard_time": 1747302383,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195746,
+        "num": 164789,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 22,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 163779,
+        "num": 163779,
+        "word": "人民网评小米芯片即将问世",
+        "onboard_time": 1747318164,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139480,
+        "num": 139480,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138071,
+        "num": 138071,
+        "word": "还有没有其他董小姐没挖出来",
+        "onboard_time": 1747323502,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127331,
+        "num": 127331,
+        "word": "彭楚粤晒X玖少年团qko合照",
+        "onboard_time": 1747325301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123703,
+        "num": 123703,
+        "word": "新冠感染又抬头",
+        "onboard_time": 1747321584,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 103184,
+        "num": 111999,
+        "word": "娇兰晚宴上的杨洋",
+        "onboard_time": 1747319424,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97563,
+        "num": 109763,
+        "word": "鹿晗一天预告",
+        "onboard_time": 1747313542,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108795,
+        "num": 108795,
+        "word": "原来微信过期图片是可以找回的",
+        "onboard_time": 1747303882,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106784,
+        "num": 106784,
+        "word": "金价一跌再跌网友直呼亏麻了",
+        "onboard_time": 1747320263,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105135,
+        "num": 105135,
+        "word": "台湾地区",
+        "onboard_time": 1747305623,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102689,
+        "num": 102689,
+        "word": "幼儿园4名老师多次殴打女童被行拘",
+        "onboard_time": 1747324102,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91568,
+        "num": 91568,
+        "word": "董某莹入学资格存在造假行为",
+        "onboard_time": 1747311323,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90294,
+        "num": 90294,
+        "word": "除肖战谷嘉诚外X玖少年团齐聚",
+        "onboard_time": 1747317867,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87349,
+        "num": 87349,
+        "word": "麻醉医生称肖某为谎言付出代价",
+        "onboard_time": 1747317204,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 87199,
+        "num": 87199,
+        "word": "陈哲远什么都敢往外发啊",
+        "onboard_time": 1747323863,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77662,
+        "num": 87195,
+        "word": "张凌赫卡成PPT了也要直播",
+        "onboard_time": 1747323562,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73266,
+        "num": 87136,
+        "word": "温峥嵘戛纳红毯造型",
+        "onboard_time": 1747326620,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72888,
+        "num": 87081,
+        "word": "杨洋田曦薇翟子路同框",
+        "onboard_time": 1747318584,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69335,
+        "num": 87055,
+        "word": "欧洲偶遇刘强东章泽天牵手逛街",
+        "onboard_time": 1747321404,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69062,
+        "num": 87001,
+        "word": "第一批炒撕拉片的年轻人已经赚到钱了",
+        "onboard_time": 1747323023,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67810,
+        "num": 86936,
+        "word": "折腰雨中戏份太抓马了",
+        "onboard_time": 1747327039,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67522,
+        "num": 86872,
+        "word": "王楚钦世乒赛备战陪练男双",
+        "onboard_time": 1747317024,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65525,
+        "num": 86845,
+        "word": "幽门螺杆菌是胃癌的明确致病因素",
+        "onboard_time": 1747301483,
+        "rank": 45,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 62058,
+        "num": 86812,
+        "word": "喜茶回应奶茶被放入微波炉加热着火",
+        "onboard_time": 1747315105,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60695,
+        "num": 86758,
+        "word": "最好的友情就在这4句话里",
+        "onboard_time": 1747325600,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59342,
+        "num": 86724,
+        "word": "刘宇宁破碎版魏劭",
+        "onboard_time": 1747327579,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57098,
+        "num": 86671,
+        "word": "专家称美对华芯片限制注定失败",
+        "onboard_time": 1747322363,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良党风引领社风民风#"
+    }
+  }
+}
