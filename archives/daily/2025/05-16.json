@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747327706313,
+  "endTime": 1747329803077,
   "band_list": [
     {
       "raw_hot": 1112167,
@@ -115,19 +115,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339341,
+      "num": 339341,
+      "word": "在银行去世老人家属放弃送医",
+      "onboard_time": 1747323982,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337506,
       "num": 337506,
       "word": "成都5岁女童被碾亡案被告车主发声",
       "onboard_time": 1747322363,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305438,
-      "num": 305438,
-      "word": "在银行去世老人家属放弃送医",
-      "onboard_time": 1747323982,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -185,6 +185,14 @@
       "onboard_time": 1747312103,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169560,
+      "num": 160660,
+      "word": "藏海传预约人数破700万",
+      "onboard_time": 1747328716,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 157969,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84249,
+      "num": 87136,
+      "word": "温峥嵘戛纳红毯造型",
+      "onboard_time": 1747326620,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80028,
       "num": 80028,
       "word": "郭晶晶说爱家才是立身之本",
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 75286,
-      "num": 86671,
+      "num": 159183,
       "word": "专家称美对华芯片限制注定失败",
       "onboard_time": 1747322363,
       "rank": 43,
@@ -355,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73266,
-      "num": 87136,
-      "word": "温峥嵘戛纳红毯造型",
-      "onboard_time": 1747326620,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70703,
       "num": 87001,
       "word": "第一批炒撕拉片的年轻人已经赚到钱了",
@@ -371,7 +379,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67810,
+      "raw_hot": 70604,
+      "num": 70604,
+      "word": "现货黄金突破3200",
+      "onboard_time": 1747328298,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 70450,
       "num": 86936,
       "word": "折腰雨中戏份太抓马了",
       "onboard_time": 1747327039,
@@ -401,6 +417,14 @@
       "onboard_time": 1747315105,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59647,
+      "num": 59647,
+      "word": "于正否认许凯听风令双男主",
+      "onboard_time": 1747328837,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 59342,

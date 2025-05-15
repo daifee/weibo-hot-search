@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747327706313,
+  "endTime": 1747329803077,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -11555,6 +11555,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 339341,
+      "num": 339341,
+      "word": "在银行去世老人家属放弃送医",
+      "onboard_time": 1747323982,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339295,
       "num": 339295,
       "word": "印度否认S400被巴方击毁",
@@ -12745,14 +12753,6 @@
       "onboard_time": 1746081862,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 305438,
-      "num": 305438,
-      "word": "在银行去世老人家属放弃送医",
-      "onboard_time": 1747323982,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305384,
@@ -26449,6 +26449,14 @@
       "onboard_time": 1746893482,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169560,
+      "num": 160660,
+      "word": "藏海传预约人数破700万",
+      "onboard_time": 1747328716,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 169529,
@@ -45011,6 +45019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84249,
+      "num": 87136,
+      "word": "温峥嵘戛纳红毯造型",
+      "onboard_time": 1747326620,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84215,
       "num": 109233,
       "word": "威廉姆斯晋级世锦赛决赛",
@@ -46363,14 +46379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 73266,
-      "num": 87136,
-      "word": "温峥嵘戛纳红毯造型",
-      "onboard_time": 1747326620,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 73265,
       "num": 1001699,
       "word": "中国排面齐唱放心吧祖国",
@@ -46779,12 +46787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70604,
+      "num": 70604,
+      "word": "现货黄金突破3200",
+      "onboard_time": 1747328298,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70455,
       "num": 190841,
       "word": "金饰价格一夜反弹23元",
       "onboard_time": 1746504863,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70450,
+      "num": 86936,
+      "word": "折腰雨中戏份太抓马了",
+      "onboard_time": 1747327039,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 70393,
@@ -47000,14 +47024,6 @@
       "word": "临江仙调色ab版中和了",
       "onboard_time": 1746850470,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 67810,
-      "num": 86936,
-      "word": "折腰雨中戏份太抓马了",
-      "onboard_time": 1747327039,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -48073,6 +48089,14 @@
       "onboard_time": 1746518662,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59647,
+      "num": 59647,
+      "word": "于正否认许凯听风令双男主",
+      "onboard_time": 1747328837,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 59533,
