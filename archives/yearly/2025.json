@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747309076836,
+  "endTime": 1747313477316,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -769,6 +769,14 @@
       "onboard_time": 1744214184,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8779319,
+      "num": 10029319,
+      "word": "董某莹四项证书被撤销",
+      "onboard_time": 1747311022,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 8711179,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742905702,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3110747,
-      "num": 846998,
-      "word": "杨丞琳李荣浩婚礼1周年",
-      "onboard_time": 1739854823,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
