@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747320243530,
+  "endTime": 1747322788716,
   "band_list": [
     {
       "raw_hot": 9150504,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2116580,
-      "num": 496246,
+      "num": 519829,
       "word": "丁真 被资本做局了",
       "onboard_time": 1747315765,
       "rank": 31,
@@ -73,6 +73,14 @@
       "onboard_time": 1747302383,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1820072,
+      "num": 1820072,
+      "word": "刘晓庆回应被指偷税",
+      "onboard_time": 1747321584,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1585641,
@@ -203,6 +211,14 @@
       "category": "读书作家,作品衍生"
     },
     {
+      "raw_hot": 1053483,
+      "num": 1053483,
+      "word": "队长",
+      "onboard_time": 1747316905,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1002544,
       "num": 1002544,
       "word": "在银行取款死亡的62岁老人",
@@ -217,6 +233,22 @@
       "onboard_time": 1747280662,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991826,
+      "num": 518854,
+      "word": "纤维粒 夏思齐",
+      "onboard_time": 1747320864,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 961392,
+      "num": 820766,
+      "word": "欧阳娜娜等20多人被台当局威胁",
+      "onboard_time": 1747321464,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 933376,
@@ -411,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 594904,
+      "num": 1236045,
+      "word": "肖某事件涉及单位人员正被调查",
+      "onboard_time": 1747312043,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 592031,
       "num": 431488,
       "word": "X玖少年团不会在婚礼合体吧",
@@ -457,14 +497,6 @@
       "onboard_time": 1747313364,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 564264,
-      "num": 1236045,
-      "word": "肖某事件涉及单位人员正被调查",
-      "onboard_time": 1747312043,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 552109,
@@ -537,14 +569,6 @@
       "onboard_time": 1747268122,
       "rank": 12,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 509736,
-      "num": 509736,
-      "word": "队长",
-      "onboard_time": 1747316905,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 505999,
@@ -625,6 +649,14 @@
       "onboard_time": 1747276102,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464513,
+      "num": 464513,
+      "word": "姜广涛获国赔",
+      "onboard_time": 1747322183,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 443858,
@@ -739,6 +771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 374701,
+      "num": 442664,
+      "word": "除肖战谷嘉诚外X玖少年团齐聚",
+      "onboard_time": 1747317867,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373881,
       "num": 437939,
       "word": "中国发往美国集装箱爆仓",
@@ -817,14 +857,6 @@
       "onboard_time": 1747272742,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 358815,
-      "num": 358815,
-      "word": "除肖战谷嘉诚外X玖少年团齐聚",
-      "onboard_time": 1747317867,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 356428,
@@ -1331,6 +1363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 234495,
+      "num": 234495,
+      "word": "近期新冠又出现抬头趋势",
+      "onboard_time": 1747319184,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234065,
       "num": 234065,
       "word": "主人掉了一只拖鞋小狗掉了三只",
@@ -1371,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225282,
+      "num": 225282,
+      "word": "专家称美对华芯片限制注定失败",
+      "onboard_time": 1747322363,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222749,
       "num": 222749,
       "word": "彭楚粤发合照",
@@ -1395,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217623,
+      "num": 212938,
+      "word": "麻醉医生称肖某为谎言付出代价",
+      "onboard_time": 1747317204,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 216695,
       "num": 320565,
       "word": "彭昱畅求王影璐做个人",
       "onboard_time": 1747292902,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216599,
+      "num": 206509,
+      "word": "4加4通报证明没人能包庇董小姐",
+      "onboard_time": 1747321764,
+      "rank": 36,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 215587,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1747221081,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213978,
+      "num": 213978,
+      "word": "娇兰晚宴上的杨洋",
+      "onboard_time": 1747319424,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 213904,
@@ -1473,6 +1545,14 @@
       "onboard_time": 1747278442,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208752,
+      "num": 208752,
+      "word": "金价一跌再跌网友直呼亏麻了",
+      "onboard_time": 1747320263,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 208334,
@@ -1643,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198704,
-      "num": 198704,
-      "word": "麻醉医生称肖某为谎言付出代价",
-      "onboard_time": 1747317204,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 198557,
       "num": 198557,
       "word": "aespa将6月回归",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1747296982,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197925,
+      "num": 197925,
+      "word": "欧洲偶遇刘强东章泽天牵手逛街",
+      "onboard_time": 1747321404,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196225,
@@ -1729,14 +1809,6 @@
       "onboard_time": 1747318645,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193216,
-      "num": 193216,
-      "word": "娇兰晚宴上的杨洋",
-      "onboard_time": 1747319424,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 193082,
@@ -1899,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184442,
+      "num": 184442,
+      "word": "听风令",
+      "onboard_time": 1747322003,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184193,
       "num": 184193,
       "word": "郑钦文回应首胜萨巴伦卡",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1747300463,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181511,
-      "num": 181511,
-      "word": "近期新冠又出现抬头趋势",
-      "onboard_time": 1747319184,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181198,
@@ -2155,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169596,
+      "num": 186204,
+      "word": "张凌赫你往直播里加了什么",
+      "onboard_time": 1747321345,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169283,
       "num": 169283,
       "word": "贾玲 此刻开始你可以讨好我吗",
@@ -2177,6 +2257,14 @@
       "onboard_time": 1747280242,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167926,
+      "num": 520506,
+      "word": "小米自主研发设计手机芯片将发布",
+      "onboard_time": 1747318284,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 167837,
@@ -2443,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148890,
+      "num": 258138,
+      "word": "奶茶放入微波炉加热30秒后着火",
+      "onboard_time": 1747319904,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148724,
       "num": 244905,
       "word": "沈月第一部古装剧收官文",
@@ -2537,6 +2633,14 @@
       "onboard_time": 1747279761,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 144492,
+      "num": 144492,
+      "word": "丁禹兮直播",
+      "onboard_time": 1747321464,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 144451,
@@ -2715,6 +2819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137016,
+      "num": 137016,
+      "word": "郑钦文vs高芙",
+      "onboard_time": 1747320384,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133742,
       "num": 175755,
       "word": "金饰克价一夜再跌17元",
@@ -2745,14 +2857,6 @@
       "onboard_time": 1747270770,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132528,
-      "num": 475750,
-      "word": "小米自主研发设计手机芯片将发布",
-      "onboard_time": 1747318284,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 132338,
@@ -2889,6 +2993,14 @@
       "onboard_time": 1747314204,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 124537,
+      "num": 522546,
+      "word": "人民网评肖某舆情事件",
+      "onboard_time": 1747321345,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124137,
@@ -3180,7 +3292,7 @@
     },
     {
       "raw_hot": 89615,
-      "num": 1040999,
+      "num": 1432105,
       "word": "降准释放了明确稳增长的积极信号",
       "onboard_time": 1747316424,
       "rank": 2,
@@ -3305,14 +3417,6 @@
       "onboard_time": 1747279282,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 77936,
-      "num": 258138,
-      "word": "奶茶放入微波炉加热30秒后着火",
-      "onboard_time": 1747319904,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77912,
@@ -3955,6 +4059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 36060,
+      "num": 489097,
+      "word": "老人银行取款死亡责任如何界定",
+      "onboard_time": 1747322003,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35527,
       "num": 275743,
       "word": "勇士没能等到库里回来",
@@ -4003,6 +4115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30959,
+      "num": 441687,
+      "word": "成都5岁女童被碾亡案被告车主发声",
+      "onboard_time": 1747322363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30167,
       "num": 235729,
       "word": "以军炸弹落入加沙一医院致28死",
@@ -4033,6 +4153,14 @@
       "onboard_time": 1747300702,
       "rank": 28,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 29202,
+      "num": 225783,
+      "word": "犯罪团伙用冥币厂做掩护狂印刷假币",
+      "onboard_time": 1747321705,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28862,
