@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747330822326,
+  "endTime": 1747334127849,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2681,6 +2681,14 @@
       "onboard_time": 1747013781,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 472507,
+      "num": 66089,
+      "word": "母女就餐1小时未动筷老板报警",
+      "onboard_time": 1747331235,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472453,
@@ -18435,6 +18443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 23872,
+      "num": 23872,
+      "word": "王鹤棣咸鱼飞升预热",
+      "onboard_time": 1747333275,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23810,
       "num": 166632,
       "word": "物业单方毁约车位租金猛涨六七成",
@@ -18465,6 +18481,14 @@
       "onboard_time": 1747307782,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23355,
+      "num": 23355,
+      "word": "韶华若锦",
+      "onboard_time": 1747334055,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 23329,
