@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747301298855,
+  "endTime": 1747302114911,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -299,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 535228,
+      "num": 535228,
+      "word": "两人以怀孕为由敲诈勒索孙兴慜",
+      "onboard_time": 1747301003,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 525065,
       "num": 525065,
       "word": "国防部首位80后新闻发言人",
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412979,
+      "num": 412979,
+      "word": "中餐厅去非洲了",
+      "onboard_time": 1747299563,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396005,
       "num": 396005,
       "word": "银监部门回应重病女子取款时去世",
@@ -489,14 +505,6 @@
       "onboard_time": 1747240639,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 376184,
-      "num": 376184,
-      "word": "中餐厅去非洲了",
-      "onboard_time": 1747299563,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 375878,
@@ -585,6 +593,14 @@
       "onboard_time": 1747221623,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 341537,
+      "num": 341537,
+      "word": "中方敦促美方尽快停止232关税措施",
+      "onboard_time": 1747299623,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 336980,
@@ -803,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266595,
-      "num": 266595,
-      "word": "中方敦促美方尽快停止232关税措施",
-      "onboard_time": 1747299623,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 265847,
       "num": 284669,
       "word": "祝绪丹和相亲对象打电话急眼了",
@@ -833,14 +841,6 @@
       "onboard_time": 1747238242,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258640,
-      "num": 198800,
-      "word": "两人以怀孕为由敲诈勒索孙兴慜",
-      "onboard_time": 1747301003,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 255490,
@@ -913,6 +913,14 @@
       "onboard_time": 1747276282,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243569,
+      "num": 243569,
+      "word": "何炅黄磊合作新节目",
+      "onboard_time": 1747301363,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 242200,
@@ -1131,6 +1139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201861,
+      "num": 201861,
+      "word": "南京大屠杀幸存者谢桂英去世",
+      "onboard_time": 1747301184,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201320,
+      "num": 234519,
+      "word": "人生若如初见 寝室三个人四个群",
+      "onboard_time": 1747301542,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200844,
       "num": 200844,
       "word": "Labubu",
@@ -1235,20 +1259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193082,
+      "num": 192122,
+      "word": "俄向印兜售S500防空系统",
+      "onboard_time": 1747300463,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192528,
       "num": 192528,
       "word": "肖战藏海传提灯海报",
       "onboard_time": 1747282163,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192122,
-      "num": 192122,
-      "word": "俄向印兜售S500防空系统",
-      "onboard_time": 1747300463,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 190799,
@@ -1315,11 +1339,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184962,
+      "num": 184962,
+      "word": "OPPO发布会现场放大招",
+      "onboard_time": 1747302082,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184822,
       "num": 184822,
       "word": "藏海传最新画面",
       "onboard_time": 1747235903,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184734,
+      "num": 184734,
+      "word": "刘诗诗张云龙把我家床单挂墙上了",
+      "onboard_time": 1747301843,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1435,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176583,
+      "num": 247600,
+      "word": "农行工作人员曾劝说老人回去休息",
+      "onboard_time": 1747300523,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175832,
       "num": 175832,
       "word": "我爱的男人们都秃了",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1747285043,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174924,
+      "num": 174924,
+      "word": "魏大勋新剧卤蛋变猕猴桃",
+      "onboard_time": 1747301363,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 174727,
@@ -1635,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160754,
+      "num": 160754,
+      "word": "芒果招商会好多艺人啊",
+      "onboard_time": 1747301483,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160176,
       "num": 160176,
       "word": "林俊杰的歌还是太会刀了",
@@ -1665,14 +1729,6 @@
       "onboard_time": 1747286782,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154886,
-      "num": 154886,
-      "word": "南京大屠杀幸存者谢桂英去世",
-      "onboard_time": 1747301184,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153442,
@@ -1779,6 +1835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143133,
+      "num": 143133,
+      "word": "田柾国更新WVS",
+      "onboard_time": 1747302082,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142764,
       "num": 142764,
       "word": "李帝努上大学了",
@@ -1801,6 +1865,14 @@
       "onboard_time": 1747273401,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141843,
+      "num": 406445,
+      "word": "外交部回应台湾地区未收到世卫大会邀请",
+      "onboard_time": 1747300044,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141593,
@@ -1883,19 +1955,19 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 137521,
+      "num": 137521,
+      "word": "一生都在拿命吃饭的云南人",
+      "onboard_time": 1747301902,
+      "rank": 47,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 137087,
       "num": 459650,
       "word": "商务部回应美232关税措施",
       "onboard_time": 1747297882,
       "rank": 31,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 134515,
-      "num": 256020,
-      "word": "外交部回应台湾地区未收到世卫大会邀请",
-      "onboard_time": 1747300044,
-      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -2003,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126756,
+      "num": 137367,
+      "word": "幽门螺杆菌是胃癌的明确致病因素",
+      "onboard_time": 1747301483,
+      "rank": 48,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 126657,
       "num": 126657,
       "word": "茶颜悦色被曝茶包里有头发",
@@ -2059,12 +2139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120573,
-      "num": 247600,
-      "word": "农行工作人员曾劝说老人回去休息",
-      "onboard_time": 1747300523,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 118943,
+      "num": 137234,
+      "word": "京城大师赛",
+      "onboard_time": 1747301783,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 118582,
@@ -2201,6 +2281,14 @@
       "onboard_time": 1747236202,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96249,
+      "num": 377496,
+      "word": "宋雨琦的Live图神机",
+      "onboard_time": 1747300223,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 95740,
@@ -2345,14 +2433,6 @@
       "onboard_time": 1747228222,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 77291,
-      "num": 286755,
-      "word": "宋雨琦的Live图神机",
-      "onboard_time": 1747300223,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 76426,
@@ -2835,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30128,
+      "num": 206994,
+      "word": "货拉拉为违法改装车推广接单",
+      "onboard_time": 1747301003,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29400,
       "num": 203333,
       "word": "陈梦唯美杂志封面",
@@ -2864,6 +2952,14 @@
       "word": "本周后期广东雷雨渐趋活跃",
       "onboard_time": 1747293863,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27406,
+      "num": 143489,
+      "word": "湖南一女童被狗扑咬受伤",
+      "onboard_time": 1747302082,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2931,6 +3027,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 21298,
+      "num": 254265,
+      "word": "消费者如何辨别鸡蛋是否兽药超标",
+      "onboard_time": 1747300643,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 21176,
       "num": 23201,
       "word": "丁程鑫西游reaction",
@@ -2945,14 +3049,6 @@
       "onboard_time": 1747264459,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20767,
-      "num": 206994,
-      "word": "货拉拉为违法改装车推广接单",
-      "onboard_time": 1747301003,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 20716,
@@ -3025,14 +3121,6 @@
       "onboard_time": 1747289783,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14261,
-      "num": 254265,
-      "word": "消费者如何辨别鸡蛋是否兽药超标",
-      "onboard_time": 1747300643,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 12850,
@@ -3113,6 +3201,14 @@
       "onboard_time": 1747278081,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8896,
+      "num": 233734,
+      "word": "巴西等国试行免签入境管理有何调整",
+      "onboard_time": 1747301483,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7749,

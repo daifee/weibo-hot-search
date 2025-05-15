@@ -1,0 +1,410 @@
+{
+  "runTime": 1747302114911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1998133,
+        "num": 1998133,
+        "word": "中方不同意台湾参加今年的世卫大会",
+        "onboard_time": 1747298723,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1798730,
+        "num": 1798730,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43490,
+        "num": 1132494,
+        "word": "共商人工智能发展治理",
+        "onboard_time": 1747296864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1099639,
+        "num": 1099639,
+        "word": "家属称在银行去世老人当时眨眼都费劲",
+        "onboard_time": 1747298603,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648504,
+        "num": 648504,
+        "word": "向往的生活 回归",
+        "onboard_time": 1747292602,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548467,
+        "num": 548467,
+        "word": "盒马鸡蛋",
+        "onboard_time": 1747292182,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 535228,
+        "num": 535228,
+        "word": "两人以怀孕为由敲诈勒索孙兴慜",
+        "onboard_time": 1747301003,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 526830,
+        "num": 526830,
+        "word": "芒果一口气宣了88部大剧",
+        "onboard_time": 1747290082,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412979,
+        "num": 412979,
+        "word": "中餐厅去非洲了",
+        "onboard_time": 1747299563,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 406445,
+        "word": "外交部回应台湾地区未收到世卫大会邀请",
+        "onboard_time": 1747300044,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650613,
+        "num": 384155,
+        "word": "字字不提穷但一听就穷的话",
+        "onboard_time": 1747293983,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96249,
+        "num": 377496,
+        "word": "宋雨琦的Live图神机",
+        "onboard_time": 1747300223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590086,
+        "num": 348851,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 12,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 348494,
+        "num": 348494,
+        "word": "银监部门回应重病女子取款时去世",
+        "onboard_time": 1747296684,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341537,
+        "num": 341537,
+        "word": "中方敦促美方尽快停止232关税措施",
+        "onboard_time": 1747299623,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294417,
+        "num": 294417,
+        "word": "印度爆发抗议要求政府公开真相",
+        "onboard_time": 1747294402,
+        "rank": 15,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 265838,
+        "num": 265838,
+        "word": "X玖少年团不会在婚礼合体吧",
+        "onboard_time": 1747292182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243569,
+        "num": 243569,
+        "word": "何炅黄磊合作新节目",
+        "onboard_time": 1747301363,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201320,
+        "num": 234519,
+        "word": "人生若如初见 寝室三个人四个群",
+        "onboard_time": 1747301542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8896,
+        "num": 233734,
+        "word": "巴西等国试行免签入境管理有何调整",
+        "onboard_time": 1747301483,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233549,
+        "num": 233549,
+        "word": "比伯团队否认破产",
+        "onboard_time": 1747298422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229714,
+        "num": 229714,
+        "word": "张檬晒儿子正面照",
+        "onboard_time": 1747297462,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221755,
+        "num": 221755,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221669,
+        "num": 221669,
+        "word": "内娱终于有不要钱的演唱会了",
+        "onboard_time": 1747297942,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67154,
+        "num": 207659,
+        "word": "南昌大学惊现舌尖上的教学",
+        "onboard_time": 1747301003,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201861,
+        "num": 201861,
+        "word": "南京大屠杀幸存者谢桂英去世",
+        "onboard_time": 1747301184,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198766,
+        "num": 198766,
+        "word": "国防部首位80后新闻发言人",
+        "onboard_time": 1747294763,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197590,
+        "num": 197590,
+        "word": "发明扁头的人真是个天才",
+        "onboard_time": 1747297583,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192069,
+        "num": 192069,
+        "word": "中国对巴西等5国试行免签",
+        "onboard_time": 1747294943,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30128,
+        "num": 187739,
+        "word": "货拉拉为违法改装车推广接单",
+        "onboard_time": 1747301003,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 193082,
+        "num": 186462,
+        "word": "俄向印兜售S500防空系统",
+        "onboard_time": 1747300463,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184962,
+        "num": 184962,
+        "word": "OPPO发布会现场放大招",
+        "onboard_time": 1747302082,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184734,
+        "num": 184734,
+        "word": "刘诗诗张云龙把我家床单挂墙上了",
+        "onboard_time": 1747301843,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176583,
+        "num": 176583,
+        "word": "农行工作人员曾劝说老人回去休息",
+        "onboard_time": 1747300523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174924,
+        "num": 174924,
+        "word": "魏大勋新剧卤蛋变猕猴桃",
+        "onboard_time": 1747301363,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168023,
+        "num": 168023,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160754,
+        "num": 160754,
+        "word": "芒果招商会好多艺人啊",
+        "onboard_time": 1747301483,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160583,
+        "num": 160583,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149990,
+        "num": 149990,
+        "word": "贾玲 此刻开始你可以讨好我吗",
+        "onboard_time": 1747299683,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144435,
+        "num": 144435,
+        "word": "家属质疑银行规定致病人取款时离世",
+        "onboard_time": 1747289482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144206,
+        "num": 144206,
+        "word": "商务部介绍近期重点工作",
+        "onboard_time": 1747299802,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144095,
+        "num": 144095,
+        "word": "中餐厅",
+        "onboard_time": 1747294402,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27406,
+        "num": 143489,
+        "word": "湖南一女童被狗扑咬受伤",
+        "onboard_time": 1747302082,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143133,
+        "num": 143133,
+        "word": "田柾国更新WVS",
+        "onboard_time": 1747302082,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142090,
+        "num": 142090,
+        "word": "折腰云合已登顶",
+        "onboard_time": 1747300463,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21298,
+        "num": 140178,
+        "word": "消费者如何辨别鸡蛋是否兽药超标",
+        "onboard_time": 1747300643,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 139047,
+        "num": 139047,
+        "word": "深情眼",
+        "onboard_time": 1747295844,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137521,
+        "num": 137521,
+        "word": "一生都在拿命吃饭的云南人",
+        "onboard_time": 1747301902,
+        "rank": 47,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 126756,
+        "num": 137367,
+        "word": "幽门螺杆菌是胃癌的明确致病因素",
+        "onboard_time": 1747301483,
+        "rank": 48,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 118943,
+        "num": 137234,
+        "word": "京城大师赛",
+        "onboard_time": 1747301783,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建中拉命运共同体习主席这样强调#"
+    }
+  }
+}
