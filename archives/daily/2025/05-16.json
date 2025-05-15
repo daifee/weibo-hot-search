@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747334127849,
+  "endTime": 1747334958484,
   "band_list": [
     {
       "raw_hot": 1112167,
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27427,
+      "num": 27427,
+      "word": "淮水竹亭今晚收官",
+      "onboard_time": 1747334894,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23872,
       "num": 23872,
       "word": "王鹤棣咸鱼飞升预热",
@@ -464,6 +472,14 @@
       "word": "韶华若锦",
       "onboard_time": 1747334055,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20253,
+      "num": 21806,
+      "word": "刘诗诗希望大家开心享受当下的每一天",
+      "onboard_time": 1747324522,
+      "rank": 49,
       "category": "剧集"
     }
   ],
