@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747314297346,
+  "endTime": 1747316115761,
   "band_list": [
     {
       "raw_hot": 9150504,
@@ -339,6 +339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 643750,
+      "num": 1227470,
+      "word": "赵樱子请了顶级妆造团队",
+      "onboard_time": 1747312103,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628026,
       "num": 628026,
       "word": "中日友好医院被罚款",
@@ -411,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576819,
+      "num": 547718,
+      "word": "雷军官宣小米自研手机芯片",
+      "onboard_time": 1747313364,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 552109,
       "num": 298600,
       "word": "他甚至用裤子擦了一下抓错人的手",
       "onboard_time": 1747267643,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 547718,
-      "num": 547718,
-      "word": "雷军官宣小米自研手机芯片",
-      "onboard_time": 1747313364,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 544932,
@@ -579,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 446425,
-      "num": 1227470,
-      "word": "赵樱子请了顶级妆造团队",
-      "onboard_time": 1747312103,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443858,
       "num": 443858,
       "word": "俄乌谈判",
@@ -665,6 +665,14 @@
       "onboard_time": 1747296684,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392407,
+      "num": 321185,
+      "word": "小乔雨中抱大乔雨中吻",
+      "onboard_time": 1747314985,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 384577,
@@ -811,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325306,
+      "num": 1205333,
+      "word": "肖某在患者麻醉状态中断手术擅离手术室",
+      "onboard_time": 1747312765,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 324984,
       "num": 324984,
       "word": "废品回收站发现几百个机密文件",
@@ -825,6 +841,14 @@
       "onboard_time": 1747301483,
       "rank": 48,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 320651,
+      "num": 320651,
+      "word": "丁真 被资本做局了",
+      "onboard_time": 1747315765,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 307630,
@@ -1115,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249763,
-      "num": 1205333,
-      "word": "肖某在患者麻醉状态中断手术擅离手术室",
-      "onboard_time": 1747312765,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 249043,
       "num": 249043,
       "word": "香港25岁女董助月薪5万的家",
@@ -1227,12 +1243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231722,
+      "num": 304930,
+      "word": "鹿晗一天预告",
+      "onboard_time": 1747313542,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231182,
       "num": 217157,
       "word": "发明扁头的人真是个天才",
       "onboard_time": 1747297583,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226657,
+      "num": 226657,
+      "word": "董袭莹不符合当年协和4加4报考资格",
+      "onboard_time": 1747312884,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226410,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1747252814,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221063,
+      "num": 221063,
+      "word": "田曦薇娇兰活动生图",
+      "onboard_time": 1747316064,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 220351,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1747292902,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215587,
+      "num": 215587,
+      "word": "陈楚生歌手首期唱将进酒",
+      "onboard_time": 1747314865,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 213983,
@@ -1403,14 +1451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206055,
-      "num": 304930,
-      "word": "鹿晗一天预告",
-      "onboard_time": 1747313542,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 205431,
       "num": 205431,
       "word": "枯藤老树昏猫",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1747289962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "玄戒",
+      "onboard_time": 1747314803,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 199435,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1747282163,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190841,
+      "num": 676567,
+      "word": "BLACKPINK排队",
+      "onboard_time": 1747311924,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 190799,
@@ -1691,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182904,
+      "num": 182904,
+      "word": "小鸟在张杰鸟巢演唱会筑巢了",
+      "onboard_time": 1747315644,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182876,
       "num": 182876,
       "word": "水龙吟首支片花",
@@ -1707,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181355,
-      "num": 676567,
-      "word": "BLACKPINK排队",
-      "onboard_time": 1747311924,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181198,
       "num": 181198,
       "word": "谁来给金靖安个热巴防沉迷",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1747298242,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179609,
+      "num": 324626,
+      "word": "代购带50个泡泡玛特玩偶入境被查",
+      "onboard_time": 1747314865,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179334,
@@ -1787,12 +1851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178091,
+      "num": 178091,
+      "word": "折腰王母仙丹后劲",
+      "onboard_time": 1747315705,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176583,
       "num": 247600,
       "word": "农行工作人员曾劝说老人回去休息",
       "onboard_time": 1747300523,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176561,
+      "num": 323192,
+      "word": "时代少年团出道2000天",
+      "onboard_time": 1747315884,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 176100,
@@ -2067,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157225,
+      "num": 157225,
+      "word": "宋茜流苏高定",
+      "onboard_time": 1747315525,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157097,
       "num": 184968,
       "word": "古巨基说自己是儿子的ATM机",
@@ -2089,6 +2177,22 @@
       "onboard_time": 1747286782,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155227,
+      "num": 542036,
+      "word": "张凌赫男友视角直播",
+      "onboard_time": 1747313964,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153690,
+      "num": 321781,
+      "word": "喜茶回应奶茶被放入微波炉加热着火",
+      "onboard_time": 1747315105,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153442,
@@ -2233,6 +2337,14 @@
       "onboard_time": 1747282703,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "张智霖回应自己不太唱歌了",
+      "onboard_time": 1747314683,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145136,
@@ -2611,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119974,
-      "num": 542036,
-      "word": "张凌赫男友视角直播",
-      "onboard_time": 1747313964,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118943,
       "num": 137234,
       "word": "京城大师赛",
@@ -2785,6 +2889,14 @@
       "onboard_time": 1747202424,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96717,
+      "num": 321435,
+      "word": "花2万多考6本技能证书不被认可",
+      "onboard_time": 1747314923,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96612,
@@ -3243,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57460,
+      "num": 326002,
+      "word": "律师解读刘晓庆被举报偷税",
+      "onboard_time": 1747314325,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57382,
       "num": 69554,
       "word": "毕业生花钱给论文降低AI率",
@@ -3267,20 +3387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54531,
+      "num": 325017,
+      "word": "火出国门的中国制造有多少",
+      "onboard_time": 1747313244,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54268,
       "num": 54268,
       "word": "魏劭一瞬间把孩子名都想好了",
       "onboard_time": 1747259773,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54203,
-      "num": 301044,
-      "word": "火出国门的中国制造有多少",
-      "onboard_time": 1747313244,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53398,
@@ -3547,6 +3667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37093,
+      "num": 322628,
+      "word": "胡锡进称调查并没有结束",
+      "onboard_time": 1747315765,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36978,
       "num": 1152360,
       "word": "如何避免下一个董某莹出现",
@@ -3657,6 +3785,14 @@
       "onboard_time": 1747286183,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27919,
+      "num": 328558,
+      "word": "曝美国反对泽连斯基参加北约峰会",
+      "onboard_time": 1747315345,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27424,
@@ -3867,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14774,
+      "num": 323597,
+      "word": "乳制品的核心价值有哪些",
+      "onboard_time": 1747315884,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13481,
       "num": 231594,
       "word": "印若购入 S500如何融入现有防空网",
@@ -3889,6 +4033,14 @@
       "onboard_time": 1747250294,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12529,
+      "num": 324832,
+      "word": "芭莎戛纳晚宴怎样将时尚与电影融合",
+      "onboard_time": 1747315045,
+      "rank": 18,
+      "category": "其它"
     },
     {
       "raw_hot": 12203,
