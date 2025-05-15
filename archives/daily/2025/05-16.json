@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747340946865,
+  "endTime": 1747341731597,
   "band_list": [
     {
       "raw_hot": 1112167,
@@ -497,6 +497,14 @@
       "onboard_time": 1747335915,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12729,
+      "num": 15923,
+      "word": "任嘉伦逛澳门",
+      "onboard_time": 1747341674,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 7456,
