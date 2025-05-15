@@ -1,21 +1,37 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747275541984,
+  "endTime": 1747278877399,
   "band_list": [
     {
       "raw_hot": 1585641,
-      "num": 198022,
+      "num": 304710,
       "word": "原来处女膜一直都在被误解",
       "onboard_time": 1747265359,
       "rank": 20,
       "category": "科学科普"
     },
     {
+      "raw_hot": 1182364,
+      "num": 360381,
+      "word": "黄杨钿甜 葛莉莎",
+      "onboard_time": 1747273880,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1165647,
-      "num": 301314,
+      "num": 353770,
       "word": "关晓彤回应无名指戒指",
       "onboard_time": 1747266561,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 970540,
+      "num": 1155286,
+      "word": "刘晓庆被举报偷税",
+      "onboard_time": 1747278321,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -52,11 +68,27 @@
     },
     {
       "raw_hot": 769949,
-      "num": 239666,
+      "num": 343108,
       "word": "工作室删除范丞丞撕拉片",
       "onboard_time": 1747274242,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 691488,
+      "num": 349534,
+      "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+      "onboard_time": 1747277661,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 661085,
+      "num": 661085,
+      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+      "onboard_time": 1747275021,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 607185,
@@ -91,12 +123,20 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 509755,
-      "num": 216732,
-      "word": "黄杨钿甜 葛莉莎",
-      "onboard_time": 1747273880,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 505999,
+      "num": 334681,
+      "word": "女子请10天育儿假照顾生病孩子遭解雇",
+      "onboard_time": 1747275381,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495207,
+      "num": 374116,
+      "word": "咸鱼飞升官宣",
+      "onboard_time": 1747275621,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 487756,
@@ -107,12 +147,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 465959,
+      "num": 373964,
+      "word": "阿汤哥和赵樱子戛纳红毯握手",
+      "onboard_time": 1747276102,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 461069,
-      "num": 197337,
+      "num": 303618,
       "word": "李亚鹏经济状况不好再次搬家",
       "onboard_time": 1747272742,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443007,
+      "num": 443007,
+      "word": "广东多名中学生出操被地面烫伤",
+      "onboard_time": 1747266319,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438047,
@@ -131,11 +187,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416516,
-      "num": 416516,
-      "word": "广东多名中学生出操被地面烫伤",
-      "onboard_time": 1747266319,
-      "rank": 6,
+      "raw_hot": 421481,
+      "num": 330329,
+      "word": "18岁中国留学生绑架案被控自导自演",
+      "onboard_time": 1747276341,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -152,6 +208,22 @@
       "word": "英退伍军人集体揭英军非法杀戮",
       "onboard_time": 1747240639,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 375878,
+      "num": 375878,
+      "word": "何小鹏官宣全新小鹏P7",
+      "onboard_time": 1747273521,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 371397,
+      "num": 371397,
+      "word": "伊朗将与美国签署有条件的核协议",
+      "onboard_time": 1747273221,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -180,7 +252,7 @@
     },
     {
       "raw_hot": 360441,
-      "num": 196775,
+      "num": 240963,
       "word": "女子因过度防晒睡觉翻身时骨折",
       "onboard_time": 1747244295,
       "rank": 48,
@@ -209,6 +281,22 @@
       "onboard_time": 1747266620,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 326707,
+      "num": 326707,
+      "word": "肖战10秒演出四种情绪",
+      "onboard_time": 1747265240,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 325101,
+      "num": 325101,
+      "word": "俄乌谈判",
+      "onboard_time": 1747277541,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 324984,
@@ -259,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299137,
+      "num": 299137,
+      "word": "印度通报朱砂行动成功",
+      "onboard_time": 1747276521,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 297939,
+      "num": 325389,
+      "word": "端午假期购票日历请收好",
+      "onboard_time": 1747273521,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295629,
       "num": 295629,
       "word": "黄磊孙莉带儿女逛西湖",
@@ -283,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286230,
+      "num": 144456,
+      "word": "雀巢 孙颖莎",
+      "onboard_time": 1747276341,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278872,
       "num": 278872,
       "word": "郑钦文 山海皆可平",
       "onboard_time": 1747264879,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270730,
-      "num": 270730,
-      "word": "肖战10秒演出四种情绪",
-      "onboard_time": 1747265240,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 262967,
@@ -323,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243578,
-      "num": 243578,
-      "word": "端午假期购票日历请收好",
-      "onboard_time": 1747273521,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 247844,
+      "num": 247844,
+      "word": "林允包上恩陈瑶领衔女主演",
+      "onboard_time": 1747276282,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 239971,
@@ -363,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210494,
+      "num": 210494,
+      "word": "中国网协祝贺郑钦文终结萨巴伦卡",
+      "onboard_time": 1747278442,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207528,
       "num": 207528,
       "word": "郑钦文谈第一次击败萨巴伦卡",
@@ -379,11 +491,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204120,
+      "num": 366522,
+      "word": "中国至美国运单飙升近300%",
+      "onboard_time": 1747277421,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200342,
       "num": 200342,
       "word": "野狗骨头阵容官宣",
       "onboard_time": 1747273521,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "宋威龙张婧仪平番官宣",
+      "onboard_time": 1747277480,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -395,28 +523,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198361,
-      "num": 198361,
-      "word": "何小鹏官宣全新小鹏P7",
-      "onboard_time": 1747273521,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 195558,
-      "num": 195558,
-      "word": "女子请10天育儿假照顾生病孩子遭解雇",
-      "onboard_time": 1747275381,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194233,
       "num": 194233,
       "word": "义乌商家清早接到30万双袜子大单",
       "onboard_time": 1747230502,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188219,
+      "num": 188219,
+      "word": "全员加速中",
+      "onboard_time": 1747276161,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186774,
+      "num": 186774,
+      "word": "男子故意将孩子遗弃在地铁站",
+      "onboard_time": 1747278381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185944,
+      "num": 185944,
+      "word": "玉茗茶骨",
+      "onboard_time": 1747278022,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 184822,
@@ -441,14 +577,6 @@
       "onboard_time": 1747272742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180775,
-      "num": 242149,
-      "word": "伊朗将与美国签署有条件的核协议",
-      "onboard_time": 1747273221,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179095,
@@ -507,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169003,
+      "num": 169003,
+      "word": "罗云熙新剧有10条cp线",
+      "onboard_time": 1747278622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167837,
       "num": 167837,
       "word": "警方通报保时捷失控致1死2伤",
@@ -521,6 +657,14 @@
       "onboard_time": 1747273221,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166150,
+      "num": 166150,
+      "word": "男子不让女友出去喝酒被剪刀捅伤",
+      "onboard_time": 1747276341,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164428,
@@ -571,6 +715,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144501,
+      "num": 144501,
+      "word": "没有库里的勇士",
+      "onboard_time": 1747278201,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144451,
+      "num": 144451,
+      "word": "不良人",
+      "onboard_time": 1747277480,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 142764,
       "num": 142764,
       "word": "李帝努上大学了",
@@ -611,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138149,
+      "num": 138149,
+      "word": "小鹏P7",
+      "onboard_time": 1747277780,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 133742,
       "num": 175755,
       "word": "金饰克价一夜再跌17元",
@@ -635,12 +803,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129432,
-      "num": 129432,
-      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
-      "onboard_time": 1747275021,
-      "rank": 36,
-      "category": "正能量"
+      "raw_hot": 130524,
+      "num": 130524,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1747275501,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130253,
+      "num": 144456,
+      "word": "任何形式的黑公关都不应该被接受",
+      "onboard_time": 1747278321,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128522,
@@ -667,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127326,
+      "num": 127326,
+      "word": "人工客服越来越难找了",
+      "onboard_time": 1747277120,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126657,
       "num": 126657,
       "word": "茶颜悦色被曝茶包里有头发",
@@ -688,6 +872,14 @@
       "word": "今日国际家庭日",
       "onboard_time": 1747273880,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124938,
+      "num": 199399,
+      "word": "买金镯子半个月亏了2000块",
+      "onboard_time": 1747278321,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -721,14 +913,6 @@
       "onboard_time": 1747273280,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105840,
-      "num": 105840,
-      "word": "勇士vs森林狼",
-      "onboard_time": 1747275501,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 104511,
@@ -843,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82565,
+      "num": 144470,
+      "word": "9元拉面 高级料汁",
+      "onboard_time": 1747278381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82214,
       "num": 82214,
       "word": "罗云熙返图",
@@ -883,6 +1075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 76426,
+      "num": 202252,
+      "word": "网友称郑钦文为红土女王",
+      "onboard_time": 1747278442,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76239,
       "num": 169125,
       "word": "多哈世乒赛林诗栋海报",
@@ -921,6 +1121,14 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72216,
+      "num": 250217,
+      "word": "曾凡博继续逐梦NBA",
+      "onboard_time": 1747278081,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 72041,
@@ -1044,7 +1252,7 @@
     },
     {
       "raw_hot": 47878,
-      "num": 413522,
+      "num": 645600,
       "word": "终于有电影讲讲新疆棉花故事了",
       "onboard_time": 1747228343,
       "rank": 2,
@@ -1161,6 +1369,14 @@
       "onboard_time": 1747254194,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 9561,
+      "num": 304767,
+      "word": "地上的云朵怎样借棉花传递情感",
+      "onboard_time": 1747278081,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 5273,

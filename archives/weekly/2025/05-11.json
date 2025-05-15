@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747275541984,
+  "endTime": 1747278877399,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1585641,
-      "num": 198022,
+      "num": 304710,
       "word": "原来处女膜一直都在被误解",
       "onboard_time": 1747265359,
       "rank": 20,
@@ -571,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1182364,
+      "num": 360381,
+      "word": "黄杨钿甜 葛莉莎",
+      "onboard_time": 1747273880,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1171885,
       "num": 416033,
       "word": "杨子女儿伯克利音乐学院毕业",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 1165647,
-      "num": 301314,
+      "num": 353770,
       "word": "关晓彤回应无名指戒指",
       "onboard_time": 1747266561,
       "rank": 10,
@@ -777,6 +785,14 @@
       "onboard_time": 1747011381,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 970540,
+      "num": 1155286,
+      "word": "刘晓庆被举报偷税",
+      "onboard_time": 1747278321,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 960210,
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 769949,
-      "num": 239666,
+      "num": 343108,
       "word": "工作室删除范丞丞撕拉片",
       "onboard_time": 1747274242,
       "rank": 11,
@@ -1235,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 691488,
+      "num": 349534,
+      "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+      "onboard_time": 1747277661,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 690717,
       "num": 690717,
       "word": "中美谈判",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1746879682,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 661085,
+      "num": 661085,
+      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+      "onboard_time": 1747275021,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 658289,
@@ -1947,14 +1979,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 509755,
-      "num": 216732,
-      "word": "黄杨钿甜 葛莉莎",
-      "onboard_time": 1747273880,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 508201,
       "num": 508201,
       "word": "拍立得相纸涨价",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1747006159,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 505999,
+      "num": 334681,
+      "word": "女子请10天育儿假照顾生病孩子遭解雇",
+      "onboard_time": 1747275381,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 505771,
@@ -2024,6 +2056,14 @@
       "word": "郭晓婷回应客串淮水竹亭",
       "onboard_time": 1746895460,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 495207,
+      "num": 374116,
+      "word": "咸鱼飞升官宣",
+      "onboard_time": 1747275621,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2195,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465959,
+      "num": 373964,
+      "word": "阿汤哥和赵樱子戛纳红毯握手",
+      "onboard_time": 1747276102,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465277,
       "num": 362089,
       "word": "韦雪自曝要去do脸了",
@@ -2228,7 +2276,7 @@
     },
     {
       "raw_hot": 461069,
-      "num": 197337,
+      "num": 303618,
       "word": "李亚鹏经济状况不好再次搬家",
       "onboard_time": 1747272742,
       "rank": 21,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1746953064,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443007,
+      "num": 443007,
+      "word": "广东多名中学生出操被地面烫伤",
+      "onboard_time": 1747266319,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442617,
@@ -2523,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421481,
+      "num": 330329,
+      "word": "18岁中国留学生绑架案被控自导自演",
+      "onboard_time": 1747276341,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421369,
       "num": 421369,
       "word": "张艺兴金钟仁cha",
@@ -2561,14 +2625,6 @@
       "onboard_time": 1747041383,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416516,
-      "num": 416516,
-      "word": "广东多名中学生出操被地面烫伤",
-      "onboard_time": 1747266319,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414333,
@@ -2827,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375878,
+      "num": 375878,
+      "word": "何小鹏官宣全新小鹏P7",
+      "onboard_time": 1747273521,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 375378,
       "num": 375378,
       "word": "电影独一无二终极预告",
@@ -2889,6 +2953,14 @@
       "onboard_time": 1747103961,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371397,
+      "num": 371397,
+      "word": "伊朗将与美国签署有条件的核协议",
+      "onboard_time": 1747273221,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 371029,
@@ -3004,7 +3076,7 @@
     },
     {
       "raw_hot": 360441,
-      "num": 196775,
+      "num": 240963,
       "word": "女子因过度防晒睡觉翻身时骨折",
       "onboard_time": 1747244295,
       "rank": 48,
@@ -3251,12 +3323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326707,
+      "num": 326707,
+      "word": "肖战10秒演出四种情绪",
+      "onboard_time": 1747265240,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325102,
       "num": 325102,
       "word": "男友曾为陪韦雪放弃读研",
       "onboard_time": 1747091779,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 325101,
+      "num": 325101,
+      "word": "俄乌谈判",
+      "onboard_time": 1747277541,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 324984,
@@ -3587,6 +3675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 299137,
+      "num": 299137,
+      "word": "印度通报朱砂行动成功",
+      "onboard_time": 1747276521,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298881,
       "num": 298881,
       "word": "90后健身博主山阿离世",
@@ -3617,6 +3713,14 @@
       "onboard_time": 1747048940,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297939,
+      "num": 325389,
+      "word": "端午假期购票日历请收好",
+      "onboard_time": 1747273521,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296566,
@@ -3713,6 +3817,14 @@
       "onboard_time": 1747042942,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286230,
+      "num": 144456,
+      "word": "雀巢 孙颖莎",
+      "onboard_time": 1747276341,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 284363,
@@ -3833,14 +3945,6 @@
       "onboard_time": 1746984257,
       "rank": 21,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 270730,
-      "num": 270730,
-      "word": "肖战10秒演出四种情绪",
-      "onboard_time": 1747265240,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 269571,
@@ -4219,6 +4323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247844,
+      "num": 247844,
+      "word": "林允包上恩陈瑶领衔女主演",
+      "onboard_time": 1747276282,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247803,
       "num": 247803,
       "word": "5句话防止孩子成为讨好型人格",
@@ -4289,14 +4401,6 @@
       "onboard_time": 1746879863,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 243578,
-      "num": 243578,
-      "word": "端午假期购票日历请收好",
-      "onboard_time": 1747273521,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242636,
@@ -5051,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210494,
+      "num": 210494,
+      "word": "中国网协祝贺郑钦文终结萨巴伦卡",
+      "onboard_time": 1747278442,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209874,
       "num": 209874,
       "word": "李现谢谢红豆",
@@ -5347,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204120,
+      "num": 366522,
+      "word": "中国至美国运单飙升近300%",
+      "onboard_time": 1747277421,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203421,
       "num": 203421,
       "word": "nana民宿",
@@ -5635,6 +5755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "宋威龙张婧仪平番官宣",
+      "onboard_time": 1747277480,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198663,
       "num": 207955,
       "word": "陈丽君西湖长桥执扇唱越剧",
@@ -5657,14 +5785,6 @@
       "onboard_time": 1747273161,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198361,
-      "num": 198361,
-      "word": "何小鹏官宣全新小鹏P7",
-      "onboard_time": 1747273521,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 198251,
@@ -5721,14 +5841,6 @@
       "onboard_time": 1747018582,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195558,
-      "num": 195558,
-      "word": "女子请10天育儿假照顾生病孩子遭解雇",
-      "onboard_time": 1747275381,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195480,
@@ -6131,6 +6243,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 188219,
+      "num": 188219,
+      "word": "全员加速中",
+      "onboard_time": 1747276161,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188070,
       "num": 188070,
       "word": "代高政一句话惹怒吴镇宇",
@@ -6243,6 +6363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186774,
+      "num": 186774,
+      "word": "男子故意将孩子遗弃在地铁站",
+      "onboard_time": 1747278381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186603,
       "num": 186603,
       "word": "有了这十年才有觉醒年代",
@@ -6289,6 +6417,14 @@
       "onboard_time": 1747108222,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185944,
+      "num": 185944,
+      "word": "玉茗茶骨",
+      "onboard_time": 1747278022,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 185703,
@@ -6513,14 +6649,6 @@
       "onboard_time": 1746935481,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180775,
-      "num": 242149,
-      "word": "伊朗将与美国签署有条件的核协议",
-      "onboard_time": 1747273221,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180480,
@@ -7115,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169003,
+      "num": 169003,
+      "word": "罗云熙新剧有10条cp线",
+      "onboard_time": 1747278622,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168859,
       "num": 233005,
       "word": "特朗普说欧盟更糟糕",
@@ -7280,6 +7416,14 @@
       "word": "汶川地震小英雄林浩要做爸爸了",
       "onboard_time": 1747021463,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166150,
+      "num": 166150,
+      "word": "男子不让女友出去喝酒被剪刀捅伤",
+      "onboard_time": 1747276341,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -8659,6 +8803,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144501,
+      "num": 144501,
+      "word": "没有库里的勇士",
+      "onboard_time": 1747278201,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144451,
+      "num": 144451,
+      "word": "不良人",
+      "onboard_time": 1747277480,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144376,
       "num": 144376,
       "word": "95花撕拉片",
@@ -9233,6 +9393,14 @@
       "onboard_time": 1747063524,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138149,
+      "num": 138149,
+      "word": "小鹏P7",
+      "onboard_time": 1747277780,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 138135,
@@ -9819,12 +9987,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130524,
+      "num": 130524,
+      "word": "勇士vs森林狼",
+      "onboard_time": 1747275501,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130374,
       "num": 130374,
       "word": "毕业后可能会被通知抽中论文抽检",
       "onboard_time": 1747045702,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130253,
+      "num": 144456,
+      "word": "任何形式的黑公关都不应该被接受",
+      "onboard_time": 1747278321,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129951,
@@ -9865,14 +10049,6 @@
       "onboard_time": 1747099700,
       "rank": 33,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 129432,
-      "num": 129432,
-      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
-      "onboard_time": 1747275021,
-      "rank": 36,
-      "category": "正能量"
     },
     {
       "raw_hot": 129318,
@@ -10075,6 +10251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127326,
+      "num": 127326,
+      "word": "人工客服越来越难找了",
+      "onboard_time": 1747277120,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127197,
       "num": 123289,
       "word": "宋妍霏马吟吟cha了likeJennie",
@@ -10249,6 +10433,14 @@
       "onboard_time": 1747230443,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124938,
+      "num": 199399,
+      "word": "买金镯子半个月亏了2000块",
+      "onboard_time": 1747278321,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124735,
@@ -11491,14 +11683,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105840,
-      "num": 105840,
-      "word": "勇士vs森林狼",
-      "onboard_time": 1747275501,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105789,
       "num": 105789,
       "word": "只有大学生才懂她有多强",
@@ -12499,6 +12683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82565,
+      "num": 144470,
+      "word": "9元拉面 高级料汁",
+      "onboard_time": 1747278381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82395,
       "num": 348599,
       "word": "她首先是她自己才是妈妈",
@@ -12667,6 +12859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76426,
+      "num": 202252,
+      "word": "网友称郑钦文为红土女王",
+      "onboard_time": 1747278442,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76303,
       "num": 76303,
       "word": "佘诗曼录vcr给邝玲玲",
@@ -12808,6 +13008,14 @@
       "word": "郑钦文离罗马战萨巴伦卡还差一胜",
       "onboard_time": 1747014742,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72216,
+      "num": 250217,
+      "word": "曾凡博继续逐梦NBA",
+      "onboard_time": 1747278081,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -13852,7 +14060,7 @@
     },
     {
       "raw_hot": 47878,
-      "num": 413522,
+      "num": 645600,
       "word": "终于有电影讲讲新疆棉花故事了",
       "onboard_time": 1747228343,
       "rank": 2,
@@ -16217,6 +16425,14 @@
       "onboard_time": 1747220542,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9561,
+      "num": 304767,
+      "word": "地上的云朵怎样借棉花传递情感",
+      "onboard_time": 1747278081,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 9260,
