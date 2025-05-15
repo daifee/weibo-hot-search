@@ -1,10 +1,10 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747279801335,
+  "endTime": 1747281349942,
   "band_list": [
     {
-      "raw_hot": 3163942,
-      "num": 3163942,
+      "raw_hot": 4209075,
+      "num": 4209075,
       "word": "刘晓庆被举报偷税",
       "onboard_time": 1747278321,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443858,
+      "num": 443858,
+      "word": "俄乌谈判",
+      "onboard_time": 1747277541,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443007,
       "num": 443007,
       "word": "广东多名中学生出操被地面烫伤",
@@ -195,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 418578,
-      "num": 418578,
-      "word": "俄乌谈判",
-      "onboard_time": 1747277541,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 395826,
+      "num": 226524,
+      "word": "曝病重老人被要求亲自取钱在银行去世",
+      "onboard_time": 1747280843,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384577,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357551,
+      "num": 357551,
+      "word": "男子故意将孩子遗弃在地铁站",
+      "onboard_time": 1747278381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356428,
       "num": 215834,
       "word": "全班都用ai做作业 教授爆发了",
@@ -313,6 +329,22 @@
       "onboard_time": 1747267701,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319723,
+      "num": 221295,
+      "word": "28元一个的蛋挞真的很贵",
+      "onboard_time": 1747280361,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 307630,
+      "num": 220652,
+      "word": "墨西哥一网红直播中遭枪杀",
+      "onboard_time": 1747279642,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 305367,
@@ -475,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "娃哈哈称已终止和今麦郎代工合作",
+      "onboard_time": 1747280662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220351,
       "num": 220351,
       "word": "普京确定俄乌谈判俄方代表团名单",
@@ -523,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200717,
+      "num": 221679,
+      "word": "孙颖莎不断超越自我",
+      "onboard_time": 1747279881,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200342,
       "num": 200342,
       "word": "野狗骨头阵容官宣",
       "onboard_time": 1747273521,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200320,
+      "num": 221018,
+      "word": "周深到底要降落在哪个学校啊",
+      "onboard_time": 1747280482,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199435,
+      "num": 220910,
+      "word": "IOI正在商讨重组",
+      "onboard_time": 1747280062,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198802,
@@ -539,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "枯藤老树昏猫",
+      "onboard_time": 1747280001,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198557,
       "num": 198557,
       "word": "aespa将6月回归",
@@ -547,19 +619,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194931,
+      "num": 194931,
+      "word": "画江湖之不良人",
+      "onboard_time": 1747280602,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 194233,
       "num": 194233,
       "word": "义乌商家清早接到30万双袜子大单",
       "onboard_time": 1747230502,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190970,
-      "num": 319434,
-      "word": "男子故意将孩子遗弃在地铁站",
-      "onboard_time": 1747278381,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -611,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179251,
+      "num": 179251,
+      "word": "敖子逸给罗云熙发30个感叹号",
+      "onboard_time": 1747281143,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179095,
       "num": 179095,
       "word": "日本女性的长期饮食压抑",
@@ -625,6 +705,14 @@
       "onboard_time": 1747272802,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175550,
+      "num": 195912,
+      "word": "没有库里的勇士",
+      "onboard_time": 1747278201,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 174727,
@@ -667,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168234,
+      "num": 168234,
+      "word": "孙颖莎坚持热爱追逐信仰",
+      "onboard_time": 1747280242,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167837,
       "num": 167837,
       "word": "警方通报保时捷失控致1死2伤",
@@ -689,14 +785,6 @@
       "onboard_time": 1747276341,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165622,
-      "num": 165622,
-      "word": "没有库里的勇士",
-      "onboard_time": 1747278201,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 164428,
@@ -739,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "为什么大学生们越来越晚熟了",
+      "onboard_time": 1747279221,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147279,
       "num": 147279,
       "word": "金饰克价跌到972元",
@@ -755,20 +851,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 145136,
+      "num": 222948,
+      "word": "律所招游戏段位是王者的本科生",
+      "onboard_time": 1747279761,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 144451,
       "num": 144451,
       "word": "不良人",
       "onboard_time": 1747277480,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143787,
-      "num": 143787,
-      "word": "为什么大学生们越来越晚熟了",
-      "onboard_time": 1747279221,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 142764,
@@ -835,14 +931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 134446,
-      "num": 134446,
-      "word": "墨西哥一网红直播中遭枪杀",
-      "onboard_time": 1747279642,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 133742,
       "num": 175755,
       "word": "金饰克价一夜再跌17元",
@@ -876,7 +964,7 @@
     },
     {
       "raw_hot": 130253,
-      "num": 190031,
+      "num": 195690,
       "word": "任何形式的黑公关都不应该被接受",
       "onboard_time": 1747278321,
       "rank": 39,
@@ -916,7 +1004,7 @@
     },
     {
       "raw_hot": 127326,
-      "num": 127326,
+      "num": 220598,
       "word": "人工客服越来越难找了",
       "onboard_time": 1747277120,
       "rank": 48,
@@ -985,6 +1073,14 @@
       "onboard_time": 1747273280,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107275,
+      "num": 195535,
+      "word": "日本一空佐因吃超量食物被停职",
+      "onboard_time": 1747279342,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 104511,
@@ -1123,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80805,
+      "num": 223105,
+      "word": "美团会员很牛吗",
+      "onboard_time": 1747280782,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80135,
       "num": 104054,
       "word": "女子回应私厨一天6家月入2万争议",
@@ -1145,6 +1249,14 @@
       "onboard_time": 1747230264,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78516,
+      "num": 307132,
+      "word": "专家称中美会谈让印度看到希望",
+      "onboard_time": 1747279282,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77912,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72363,
+      "num": 195076,
+      "word": "库里场边直摇头",
+      "onboard_time": 1747280062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72216,
@@ -1331,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49048,
-      "num": 186339,
-      "word": "律所招游戏段位是王者的本科生",
-      "onboard_time": 1747279761,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 48402,
       "num": 48402,
       "word": "古人的杯子能精致到什么程度",
@@ -1355,12 +1467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46819,
-      "num": 307132,
-      "word": "专家称中美会谈让印度看到希望",
-      "onboard_time": 1747279282,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 41581,
+      "num": 220781,
+      "word": "野兽先生建100栋房子送人",
+      "onboard_time": 1747279761,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 41182,
@@ -1385,6 +1497,14 @@
       "onboard_time": 1747242018,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28424,
+      "num": 222405,
+      "word": "世界第一萨巴伦卡此战暴露哪些短板",
+      "onboard_time": 1747280782,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 26878,
@@ -1481,14 +1601,6 @@
       "onboard_time": 1747278081,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6041,
-      "num": 189339,
-      "word": "野兽先生建100栋房子送人",
-      "onboard_time": 1747279761,
-      "rank": 34,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 5273,

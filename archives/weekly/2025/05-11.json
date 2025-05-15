@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747279801335,
+  "endTime": 1747281349942,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -25,6 +25,14 @@
       "onboard_time": 1747034002,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 4209075,
+      "num": 4209075,
+      "word": "刘晓庆被举报偷税",
+      "onboard_time": 1747278321,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 4167577,
@@ -57,14 +65,6 @@
       "onboard_time": 1747008201,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3163942,
-      "num": 3163942,
-      "word": "刘晓庆被举报偷税",
-      "onboard_time": 1747278321,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 2535609,
@@ -2403,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443858,
+      "num": 443858,
+      "word": "俄乌谈判",
+      "onboard_time": 1747277541,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443007,
       "num": 443007,
       "word": "广东多名中学生出操被地面烫伤",
@@ -2619,14 +2627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418578,
-      "num": 418578,
-      "word": "俄乌谈判",
-      "onboard_time": 1747277541,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 418006,
       "num": 418006,
       "word": "选丁真来演戏的人真是个天才",
@@ -2745,6 +2745,14 @@
       "onboard_time": 1746940761,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 395826,
+      "num": 226524,
+      "word": "曝病重老人被要求亲自取钱在银行去世",
+      "onboard_time": 1747280843,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394150,
@@ -3107,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357551,
+      "num": 357551,
+      "word": "男子故意将孩子遗弃在地铁站",
+      "onboard_time": 1747278381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356477,
       "num": 356477,
       "word": "韩国93岁女校长回应保持童颜",
@@ -3419,6 +3435,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 319723,
+      "num": 221295,
+      "word": "28元一个的蛋挞真的很贵",
+      "onboard_time": 1747280361,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318099,
       "num": 318099,
       "word": "大帅 AG",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1747130001,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307630,
+      "num": 220652,
+      "word": "墨西哥一网红直播中遭枪杀",
+      "onboard_time": 1747279642,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 307320,
@@ -4899,6 +4931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "娃哈哈称已终止和今麦郎代工合作",
+      "onboard_time": 1747280662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220351,
       "num": 220351,
       "word": "普京确定俄乌谈判俄方代表团名单",
@@ -5635,6 +5675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 200717,
+      "num": 221679,
+      "word": "孙颖莎不断超越自我",
+      "onboard_time": 1747279881,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200532,
       "num": 200531,
       "word": "iG战胜JDG",
@@ -5649,6 +5697,14 @@
       "onboard_time": 1747273521,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200320,
+      "num": 221018,
+      "word": "周深到底要降落在哪个学校啊",
+      "onboard_time": 1747280482,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200128,
@@ -5713,6 +5769,14 @@
       "onboard_time": 1746973164,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199435,
+      "num": 220910,
+      "word": "IOI正在商讨重组",
+      "onboard_time": 1747280062,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 199370,
@@ -5785,6 +5849,14 @@
       "onboard_time": 1747277480,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "枯藤老树昏猫",
+      "onboard_time": 1747280001,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 198663,
@@ -5881,6 +5953,14 @@
       "onboard_time": 1747046602,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194931,
+      "num": 194931,
+      "word": "画江湖之不良人",
+      "onboard_time": 1747280602,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 194687,
@@ -6137,14 +6217,6 @@
       "onboard_time": 1746969982,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190970,
-      "num": 319434,
-      "word": "男子故意将孩子遗弃在地铁站",
-      "onboard_time": 1747278381,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190969,
@@ -6731,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179251,
+      "num": 179251,
+      "word": "敖子逸给罗云熙发30个感叹号",
+      "onboard_time": 1747281143,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179199,
       "num": 213102,
       "word": "女子海底捞母婴室哺乳遭员工开门",
@@ -6937,6 +7017,14 @@
       "onboard_time": 1747051702,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175550,
+      "num": 195912,
+      "word": "没有库里的勇士",
+      "onboard_time": 1747278201,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 175141,
@@ -7315,6 +7403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168234,
+      "num": 168234,
+      "word": "孙颖莎坚持热爱追逐信仰",
+      "onboard_time": 1747280242,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168176,
       "num": 168176,
       "word": "折腰挡万箭夺美妻",
@@ -7481,14 +7577,6 @@
       "onboard_time": 1747037243,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 165622,
-      "num": 165622,
-      "word": "没有库里的勇士",
-      "onboard_time": 1747278201,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 165510,
@@ -8635,6 +8723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147946,
+      "num": 147946,
+      "word": "为什么大学生们越来越晚熟了",
+      "onboard_time": 1747279221,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147539,
       "num": 147539,
       "word": "章若楠浴巾撕拉片",
@@ -8835,6 +8931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145136,
+      "num": 222948,
+      "word": "律所招游戏段位是王者的本科生",
+      "onboard_time": 1747279761,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 144535,
       "num": 178666,
       "word": "欧豪张佳宁新剧电话哄睡含糖量",
@@ -8897,14 +9001,6 @@
       "onboard_time": 1747233503,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143787,
-      "num": 143787,
-      "word": "为什么大学生们越来越晚熟了",
-      "onboard_time": 1747279221,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 143756,
@@ -9747,14 +9843,6 @@
       "category": "辟谣/通报,网红"
     },
     {
-      "raw_hot": 134446,
-      "num": 134446,
-      "word": "墨西哥一网红直播中遭枪杀",
-      "onboard_time": 1747279642,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 134170,
       "num": 134170,
       "word": "余男古装扮相",
@@ -10068,7 +10156,7 @@
     },
     {
       "raw_hot": 130253,
-      "num": 190031,
+      "num": 195690,
       "word": "任何形式的黑公关都不应该被接受",
       "onboard_time": 1747278321,
       "rank": 39,
@@ -10324,7 +10412,7 @@
     },
     {
       "raw_hot": 127326,
-      "num": 127326,
+      "num": 220598,
       "word": "人工客服越来越难找了",
       "onboard_time": 1747277120,
       "rank": 48,
@@ -11707,6 +11795,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 107275,
+      "num": 195535,
+      "word": "日本一空佐因吃超量食物被停职",
+      "onboard_time": 1747279342,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107202,
       "num": 229695,
       "word": "印度民众开始庆祝活动",
@@ -12819,6 +12915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 80805,
+      "num": 223105,
+      "word": "美团会员很牛吗",
+      "onboard_time": 1747280782,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80782,
       "num": 309455,
       "word": "胡锡进称今天把美国打回了三八线",
@@ -12905,6 +13009,14 @@
       "onboard_time": 1747153401,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78516,
+      "num": 307132,
+      "word": "专家称中美会谈让印度看到希望",
+      "onboard_time": 1747279282,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77538,
@@ -13081,6 +13193,14 @@
       "onboard_time": 1746970162,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72363,
+      "num": 195076,
+      "word": "库里场边直摇头",
+      "onboard_time": 1747280062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72320,
@@ -14043,14 +14163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49048,
-      "num": 186339,
-      "word": "律所招游戏段位是王者的本科生",
-      "onboard_time": 1747279761,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 49038,
       "num": 218038,
       "word": "75万中标的路由器天价采购疑点重重",
@@ -14225,14 +14337,6 @@
       "onboard_time": 1746884482,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 46819,
-      "num": 307132,
-      "word": "专家称中美会谈让印度看到希望",
-      "onboard_time": 1747279282,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46380,
@@ -14497,6 +14601,14 @@
       "onboard_time": 1746952041,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41581,
+      "num": 220781,
+      "word": "野兽先生建100栋房子送人",
+      "onboard_time": 1747279761,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 41182,
@@ -15121,6 +15233,14 @@
       "onboard_time": 1746954080,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 28424,
+      "num": 222405,
+      "word": "世界第一萨巴伦卡此战暴露哪些短板",
+      "onboard_time": 1747280782,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 28333,
@@ -16657,14 +16777,6 @@
       "onboard_time": 1747222281,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6041,
-      "num": 189339,
-      "word": "野兽先生建100栋房子送人",
-      "onboard_time": 1747279761,
-      "rank": 34,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 5983,

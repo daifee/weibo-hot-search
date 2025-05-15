@@ -1,0 +1,410 @@
+{
+  "runTime": 1747281349942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4209075,
+        "num": 4209075,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821633,
+        "num": 821633,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24108,
+        "num": 595196,
+        "word": "终于有电影讲讲新疆棉花故事了",
+        "onboard_time": 1747228343,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443858,
+        "num": 443858,
+        "word": "俄乌谈判",
+        "onboard_time": 1747277541,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364877,
+        "num": 364877,
+        "word": "小楚乔原定演员葛莉莎曾回应过换角",
+        "onboard_time": 1747271252,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357551,
+        "num": 357551,
+        "word": "男子故意将孩子遗弃在地铁站",
+        "onboard_time": 1747278381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330956,
+        "num": 330956,
+        "word": "咸鱼飞升官宣",
+        "onboard_time": 1747275621,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292990,
+        "num": 292990,
+        "word": "阿汤哥和赵樱子戛纳红毯握手",
+        "onboard_time": 1747276102,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282139,
+        "num": 282139,
+        "word": "广东多名中学生出操被地面烫伤",
+        "onboard_time": 1747266319,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236675,
+        "num": 236675,
+        "word": "伊朗将与美国签署有条件的核协议",
+        "onboard_time": 1747273221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 877553,
+        "num": 235177,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663926,
+        "num": 231708,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459292,
+        "num": 231541,
+        "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+        "onboard_time": 1747277661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395826,
+        "num": 226524,
+        "word": "曝病重老人被要求亲自取钱在银行去世",
+        "onboard_time": 1747280843,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391797,
+        "num": 224172,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223940,
+        "num": 223940,
+        "word": "肖战10秒演出四种情绪",
+        "onboard_time": 1747265240,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343625,
+        "num": 223794,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80805,
+        "num": 223105,
+        "word": "美团会员很牛吗",
+        "onboard_time": 1747280782,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145136,
+        "num": 222948,
+        "word": "律所招游戏段位是王者的本科生",
+        "onboard_time": 1747279761,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28424,
+        "num": 222405,
+        "word": "世界第一萨巴伦卡此战暴露哪些短板",
+        "onboard_time": 1747280782,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200717,
+        "num": 221679,
+        "word": "孙颖莎不断超越自我",
+        "onboard_time": 1747279881,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221506,
+        "num": 221506,
+        "word": "娃哈哈称已终止和今麦郎代工合作",
+        "onboard_time": 1747280662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689562,
+        "num": 221420,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333475,
+        "num": 221327,
+        "word": "女子请10天育儿假照顾生病孩子遭解雇",
+        "onboard_time": 1747275381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319723,
+        "num": 221295,
+        "word": "28元一个的蛋挞真的很贵",
+        "onboard_time": 1747280361,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211313,
+        "num": 221129,
+        "word": "亮剑编剧封笔之作",
+        "onboard_time": 1747278980,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207954,
+        "num": 221097,
+        "word": "全员加速中",
+        "onboard_time": 1747276161,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200320,
+        "num": 221018,
+        "word": "周深到底要降落在哪个学校啊",
+        "onboard_time": 1747280482,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199435,
+        "num": 220910,
+        "word": "IOI正在商讨重组",
+        "onboard_time": 1747280062,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41581,
+        "num": 220781,
+        "word": "野兽先生建100栋房子送人",
+        "onboard_time": 1747279761,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 307630,
+        "num": 220652,
+        "word": "墨西哥一网红直播中遭枪杀",
+        "onboard_time": 1747279642,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 220598,
+        "word": "人工客服越来越难找了",
+        "onboard_time": 1747277120,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220542,
+        "num": 220542,
+        "word": "印度通报朱砂行动成功",
+        "onboard_time": 1747276521,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200437,
+        "num": 200437,
+        "word": "18岁中国留学生绑架案被控自导自演",
+        "onboard_time": 1747276341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198802,
+        "num": 198802,
+        "word": "枯藤老树昏猫",
+        "onboard_time": 1747280001,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175550,
+        "num": 195912,
+        "word": "没有库里的勇士",
+        "onboard_time": 1747278201,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78821,
+        "num": 195690,
+        "word": "任何形式的黑公关都不应该被接受",
+        "onboard_time": 1747278321,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107275,
+        "num": 195535,
+        "word": "日本一空佐因吃超量食物被停职",
+        "onboard_time": 1747279342,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195477,
+        "num": 195477,
+        "word": "中国至美国运单飙升近300%",
+        "onboard_time": 1747277421,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72363,
+        "num": 195076,
+        "word": "库里场边直摇头",
+        "onboard_time": 1747280062,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194931,
+        "num": 194931,
+        "word": "画江湖之不良人",
+        "onboard_time": 1747280602,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183085,
+        "num": 183085,
+        "word": "端午假期购票日历请收好",
+        "onboard_time": 1747273521,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179251,
+        "num": 179251,
+        "word": "敖子逸给罗云熙发30个感叹号",
+        "onboard_time": 1747281143,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168234,
+        "num": 168234,
+        "word": "孙颖莎坚持热爱追逐信仰",
+        "onboard_time": 1747280242,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159763,
+        "num": 159763,
+        "word": "水龙吟",
+        "onboard_time": 1747272742,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "女子因过度防晒睡觉翻身时骨折",
+        "onboard_time": 1747244295,
+        "rank": 45,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 78516,
+        "num": 156583,
+        "word": "专家称中美会谈让印度看到希望",
+        "onboard_time": 1747279282,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 156340,
+        "word": "何小鹏官宣全新小鹏P7",
+        "onboard_time": 1747273521,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151041,
+        "num": 151041,
+        "word": "宋威龙张婧仪平番官宣",
+        "onboard_time": 1747277480,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 147946,
+        "word": "为什么大学生们越来越晚熟了",
+        "onboard_time": 1747279221,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席为中拉命运共同体谱写新篇章#"
+    }
+  }
+}
