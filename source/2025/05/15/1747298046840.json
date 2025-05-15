@@ -1,0 +1,410 @@
+{
+  "runTime": 1747298046840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2881141,
+        "num": 2881141,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525065,
+        "num": 525065,
+        "word": "国防部首位80后新闻发言人",
+        "onboard_time": 1747294763,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27368,
+        "num": 490254,
+        "word": "共商人工智能发展治理",
+        "onboard_time": 1747296864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1066921,
+        "num": 486463,
+        "word": "向往的生活 回归",
+        "onboard_time": 1747292602,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481509,
+        "num": 481509,
+        "word": "盒马鸡蛋",
+        "onboard_time": 1747292182,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 584376,
+        "num": 475040,
+        "word": "小米YU7 发布会",
+        "onboard_time": 1747293023,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 811672,
+        "num": 470426,
+        "word": "芒果一口气宣了88部大剧",
+        "onboard_time": 1747290082,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582851,
+        "num": 469693,
+        "word": "陈奕迅确诊新冠",
+        "onboard_time": 1747288823,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464210,
+        "num": 464210,
+        "word": "中国对巴西等5国试行免签",
+        "onboard_time": 1747294943,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324028,
+        "num": 324028,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 866618,
+        "num": 311053,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 10,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 641103,
+        "num": 305842,
+        "word": "字字不提穷但一听就穷的话",
+        "onboard_time": 1747293983,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422147,
+        "num": 294429,
+        "word": "印度爆发抗议要求政府公开真相",
+        "onboard_time": 1747294402,
+        "rank": 12,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 385120,
+        "num": 276443,
+        "word": "X玖少年团不会在婚礼合体吧",
+        "onboard_time": 1747292182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269905,
+        "num": 269905,
+        "word": "张檬晒儿子正面照",
+        "onboard_time": 1747297462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226410,
+        "num": 258953,
+        "word": "14万家用车卷上天了",
+        "onboard_time": 1747296324,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 253718,
+        "num": 253718,
+        "word": "莲花楼作者的家底有多厚",
+        "onboard_time": 1747285762,
+        "rank": 16,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 247869,
+        "num": 247869,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245129,
+        "num": 245129,
+        "word": "中餐厅",
+        "onboard_time": 1747294402,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19404,
+        "num": 243971,
+        "word": "芒果TV转型剧集平台面临哪些挑战",
+        "onboard_time": 1747296982,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 243435,
+        "num": 243435,
+        "word": "银监部门回应重病女子取款时去世",
+        "onboard_time": 1747296684,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236994,
+        "num": 236994,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212085,
+        "num": 212085,
+        "word": "赵樱子带弟弟走红毯",
+        "onboard_time": 1747291643,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210715,
+        "num": 210715,
+        "word": "金靖这可是张凌赫周柯宇的吻啊",
+        "onboard_time": 1747296204,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155811,
+        "num": 207451,
+        "word": "决定调整组建3所军队院校",
+        "onboard_time": 1747295122,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207152,
+        "num": 207152,
+        "word": "中国发往美国集装箱爆仓",
+        "onboard_time": 1747292001,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198111,
+        "num": 198111,
+        "word": "樊振东现身上海参加公益活动",
+        "onboard_time": 1747296982,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188342,
+        "num": 188342,
+        "word": "伊朗愿承诺永不制造核武器",
+        "onboard_time": 1747289302,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26182,
+        "num": 188019,
+        "word": "苹果屏下FaceID将如何优化安全性",
+        "onboard_time": 1747297882,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23139,
+        "num": 186099,
+        "word": "铁翼飞旋回应被99%的中国男人羡慕",
+        "onboard_time": 1747296083,
+        "rank": 29,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 184558,
+        "word": "王鹤棣古装扮相真细糠",
+        "onboard_time": 1747296143,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29960,
+        "num": 183351,
+        "word": "商务部回应美232关税措施",
+        "onboard_time": 1747297882,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159824,
+        "num": 181328,
+        "word": "深情眼",
+        "onboard_time": 1747295844,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181038,
+        "num": 181038,
+        "word": "吴宣仪从乘风姐姐们身上学到了什么",
+        "onboard_time": 1747297942,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175064,
+        "num": 175064,
+        "word": "内娱终于有不要钱的演唱会了",
+        "onboard_time": 1747297942,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179904,
+        "num": 171089,
+        "word": "被99%中国男人羡慕的女生",
+        "onboard_time": 1747286362,
+        "rank": 35,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 166708,
+        "num": 166708,
+        "word": "发明扁头的人真是个天才",
+        "onboard_time": 1747297583,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165371,
+        "num": 165371,
+        "word": "网易云音乐起诉乐华",
+        "onboard_time": 1747292362,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36939,
+        "num": 153801,
+        "word": "知世大小姐萌的没边",
+        "onboard_time": 1747296143,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 29978,
+        "num": 153349,
+        "word": "吞下口香糖会在胃里停留多久",
+        "onboard_time": 1747296562,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 153021,
+        "num": 153021,
+        "word": "宋妍霏票数",
+        "onboard_time": 1747292661,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152283,
+        "num": 152283,
+        "word": "祝绪丹和相亲对象打电话急眼了",
+        "onboard_time": 1747293743,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 147482,
+        "word": "迪丽热巴和水池吵了一架",
+        "onboard_time": 1747297822,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143164,
+        "num": 143164,
+        "word": "Labubu簪花",
+        "onboard_time": 1747287261,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 40145,
+        "num": 139132,
+        "word": "伊朗愿承诺销毁高浓缩铀库存",
+        "onboard_time": 1747295483,
+        "rank": 44,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 137757,
+        "num": 137757,
+        "word": "谁家男主因为生气要跟女主同居啊",
+        "onboard_time": 1747297703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136714,
+        "num": 136714,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132804,
+        "num": 132804,
+        "word": "金饰克价一个月内跌超百元",
+        "onboard_time": 1747297822,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132697,
+        "num": 132697,
+        "word": "赵丽颖带想想逛公园",
+        "onboard_time": 1747284922,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131567,
+        "num": 131567,
+        "word": "芒果招商会",
+        "onboard_time": 1747295724,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建中拉命运共同体习主席这样强调#"
+    }
+  }
+}

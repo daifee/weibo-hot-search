@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747294758702,
+  "endTime": 1747298046840,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2881141,
+      "num": 2881141,
+      "word": "比伯破产",
+      "onboard_time": 1747293501,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2600216,
       "num": 2561286,
       "word": "税务部门调查刘晓庆偷税",
       "onboard_time": 1747281562,
       "rank": 4,
       "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 2313698,
-      "num": 2313698,
-      "word": "比伯破产",
-      "onboard_time": 1747293501,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 2006231,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641103,
+      "num": 305842,
+      "word": "字字不提穷但一听就穷的话",
+      "onboard_time": 1747293983,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607185,
       "num": 237931,
       "word": "赵丽颖赵德胤曾被偶遇一起逛街",
@@ -227,20 +235,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 584376,
+      "num": 579786,
+      "word": "小米YU7 发布会",
+      "onboard_time": 1747293023,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 580626,
       "num": 580626,
       "word": "35岁工程师患胃癌晚期家中3人有胃癌",
       "onboard_time": 1747281983,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 579786,
-      "num": 579786,
-      "word": "小米YU7 发布会",
-      "onboard_time": 1747293023,
-      "rank": 8,
-      "category": "汽车"
     },
     {
       "raw_hot": 552109,
@@ -265,6 +273,14 @@
       "onboard_time": 1747289302,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 525065,
+      "num": 525065,
+      "word": "国防部首位80后新闻发言人",
+      "onboard_time": 1747294763,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 524850,
@@ -347,12 +363,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 481509,
+      "num": 481509,
+      "word": "盒马鸡蛋",
+      "onboard_time": 1747292182,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 465959,
       "num": 373964,
       "word": "阿汤哥和赵樱子戛纳红毯握手",
       "onboard_time": 1747276102,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464210,
+      "num": 464210,
+      "word": "中国对巴西等5国试行免签",
+      "onboard_time": 1747294943,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 443858,
@@ -393,6 +425,14 @@
       "onboard_time": 1747210283,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422147,
+      "num": 294429,
+      "word": "印度爆发抗议要求政府公开真相",
+      "onboard_time": 1747294402,
+      "rank": 42,
+      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 421481,
@@ -699,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269905,
+      "num": 269905,
+      "word": "张檬晒儿子正面照",
+      "onboard_time": 1747297462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269602,
       "num": 325302,
       "word": "女子旅游半月店门忘关运营正常",
@@ -795,6 +843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245129,
+      "num": 245129,
+      "word": "中餐厅",
+      "onboard_time": 1747294402,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243435,
+      "num": 243435,
+      "word": "银监部门回应重病女子取款时去世",
+      "onboard_time": 1747296684,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242200,
       "num": 242200,
       "word": "偷一句去恶心死朋友",
@@ -849,6 +913,14 @@
       "onboard_time": 1747283244,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226410,
+      "num": 258953,
+      "word": "14万家用车卷上天了",
+      "onboard_time": 1747296324,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 226230,
@@ -907,11 +979,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211471,
-      "num": 211471,
-      "word": "中餐厅",
-      "onboard_time": 1747294402,
-      "rank": 41,
+      "raw_hot": 210715,
+      "num": 210715,
+      "word": "金靖这可是张凌赫周柯宇的吻啊",
+      "onboard_time": 1747296204,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -921,14 +993,6 @@
       "onboard_time": 1747278442,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209136,
-      "num": 209136,
-      "word": "印度爆发抗议要求政府公开真相",
-      "onboard_time": 1747294402,
-      "rank": 42,
-      "category": "海外新闻,军事"
     },
     {
       "raw_hot": 208108,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1747273161,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198111,
+      "num": 198111,
+      "word": "樊振东现身上海参加公益活动",
+      "onboard_time": 1747296982,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 195456,
@@ -1187,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181038,
+      "num": 181038,
+      "word": "吴宣仪从乘风姐姐们身上学到了什么",
+      "onboard_time": 1747297942,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179334,
       "num": 179334,
       "word": "勇士vs森林狼",
@@ -1275,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175064,
+      "num": 175064,
+      "word": "内娱终于有不要钱的演唱会了",
+      "onboard_time": 1747297942,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174727,
       "num": 175190,
       "word": "提醒在英中国公民加强安全防范",
@@ -1337,6 +1425,22 @@
       "onboard_time": 1747273761,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166708,
+      "num": 166708,
+      "word": "发明扁头的人真是个天才",
+      "onboard_time": 1747297583,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166497,
+      "num": 184558,
+      "word": "王鹤棣古装扮相真细糠",
+      "onboard_time": 1747296143,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 166445,
@@ -1419,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159824,
+      "num": 181328,
+      "word": "深情眼",
+      "onboard_time": 1747295844,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158467,
       "num": 158467,
       "word": "高伟光新剧豆瓣评分逆跌至8.3",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1747285164,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155811,
+      "num": 207451,
+      "word": "决定调整组建3所军队院校",
+      "onboard_time": 1747295122,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 155493,
@@ -1489,6 +1609,14 @@
       "onboard_time": 1747279221,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147482,
+      "num": 147482,
+      "word": "迪丽热巴和水池吵了一架",
+      "onboard_time": 1747297822,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 147279,
@@ -1603,6 +1731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 137757,
+      "num": 137757,
+      "word": "谁家男主因为生气要跟女主同居啊",
+      "onboard_time": 1747297703,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137543,
       "num": 322382,
       "word": "警方回应重病老人在银行取钱去世",
@@ -1627,12 +1763,28 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 132804,
+      "num": 132804,
+      "word": "金饰克价一个月内跌超百元",
+      "onboard_time": 1747297822,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132589,
       "num": 132589,
       "word": "李雪琴演技",
       "onboard_time": 1747270770,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131567,
+      "num": 131567,
+      "word": "芒果招商会",
+      "onboard_time": 1747295724,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130253,
@@ -2387,6 +2539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40145,
+      "num": 139132,
+      "word": "伊朗愿承诺销毁高浓缩铀库存",
+      "onboard_time": 1747295483,
+      "rank": 44,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 39117,
       "num": 282641,
       "word": "郑钦文田忌赛马智取萨巴伦卡",
@@ -2401,6 +2561,14 @@
       "onboard_time": 1747243696,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36939,
+      "num": 153801,
+      "word": "知世大小姐萌的没边",
+      "onboard_time": 1747296143,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 35527,
@@ -2435,6 +2603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29978,
+      "num": 153349,
+      "word": "吞下口香糖会在胃里停留多久",
+      "onboard_time": 1747296562,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 29960,
+      "num": 183351,
+      "word": "商务部回应美232关税措施",
+      "onboard_time": 1747297882,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28424,
       "num": 222405,
       "word": "世界第一萨巴伦卡此战暴露哪些短板",
@@ -2459,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27368,
+      "num": 490254,
+      "word": "共商人工智能发展治理",
+      "onboard_time": 1747296864,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26878,
       "num": 26878,
       "word": "孙恩盛直播",
@@ -2473,6 +2665,14 @@
       "onboard_time": 1747255215,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26182,
+      "num": 188019,
+      "word": "苹果屏下FaceID将如何优化安全性",
+      "onboard_time": 1747297882,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 25494,
@@ -2497,6 +2697,14 @@
       "onboard_time": 1747253174,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23139,
+      "num": 186099,
+      "word": "铁翼飞旋回应被99%的中国男人羡慕",
+      "onboard_time": 1747296083,
+      "rank": 29,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 21176,
@@ -2529,6 +2737,14 @@
       "onboard_time": 1747289783,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19404,
+      "num": 243971,
+      "word": "芒果TV转型剧集平台面临哪些挑战",
+      "onboard_time": 1747296982,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 18411,
@@ -2668,6 +2884,9 @@
     },
     {
       "word": "#习近平复信中国丹麦商会负责人#"
+    },
+    {
+      "word": "#共建中拉命运共同体习主席这样强调#"
     }
   ]
 }
