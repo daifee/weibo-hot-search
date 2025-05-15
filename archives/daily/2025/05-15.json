@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747283448515,
+  "endTime": 1747284317829,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932107,
+      "num": 1149137,
+      "word": "娃哈哈称已终止和今麦郎代工合作",
+      "onboard_time": 1747280662,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 911447,
       "num": 1145831,
       "word": "小楚乔原定演员葛莉莎曾回应过换角",
@@ -59,7 +67,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 850802,
+      "raw_hot": 906081,
       "num": 1132494,
       "word": "被救同学苏醒先问姜昭鹏赶上考试没",
       "onboard_time": 1747275021,
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 647688,
-      "num": 647688,
-      "word": "娃哈哈称已终止和今麦郎代工合作",
-      "onboard_time": 1747280662,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 607185,
       "num": 237931,
       "word": "赵丽颖赵德胤曾被偶遇一起逛街",
       "onboard_time": 1747227502,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580626,
+      "num": 580626,
+      "word": "35岁工程师患胃癌晚期家中3人有胃癌",
+      "onboard_time": 1747281983,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 552109,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503739,
+      "num": 503739,
+      "word": "税务部门调查刘晓庆偷税",
+      "onboard_time": 1747281562,
+      "rank": 4,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 496215,
       "num": 496215,
       "word": "男子故意将孩子遗弃在地铁站",
@@ -193,14 +209,6 @@
       "onboard_time": 1747276102,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 445384,
-      "num": 445384,
-      "word": "税务部门调查刘晓庆偷税",
-      "onboard_time": 1747281562,
-      "rank": 4,
-      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 443858,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389280,
+      "num": 389280,
+      "word": "农行回应重病客户取款时不幸去世",
+      "onboard_time": 1747282343,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384577,
       "num": 384577,
       "word": "华为官宣鸿蒙电脑非凡大师版",
@@ -281,6 +297,14 @@
       "onboard_time": 1747273221,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 371302,
+      "num": 249440,
+      "word": "王大陆逃兵服役看许光汉表演",
+      "onboard_time": 1747283785,
+      "rank": 25,
+      "category": "演出,艺人"
     },
     {
       "raw_hot": 370312,
@@ -329,14 +353,6 @@
       "onboard_time": 1747221623,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 348634,
-      "num": 348634,
-      "word": "35岁工程师患胃癌晚期家中3人有胃癌",
-      "onboard_time": 1747281983,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 336980,
@@ -483,6 +499,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285080,
+      "num": 342338,
+      "word": "锦绣芳华开预约",
+      "onboard_time": 1747282882,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283639,
+      "num": 246776,
+      "word": "黄金价格",
+      "onboard_time": 1747283423,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 278872,
       "num": 278872,
       "word": "郑钦文 山海皆可平",
@@ -505,6 +537,14 @@
       "onboard_time": 1747277421,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263919,
+      "num": 246465,
+      "word": "你以为很丑但越来越好看的标志",
+      "onboard_time": 1747283963,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 262967,
@@ -531,12 +571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253678,
-      "num": 348678,
-      "word": "农行回应重病客户取款时不幸去世",
-      "onboard_time": 1747282343,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 253150,
+      "num": 243996,
+      "word": "生理性不喜欢",
+      "onboard_time": 1747284263,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 250056,
+      "num": 250056,
+      "word": "刘诗诗把意难平赛道走穿了",
+      "onboard_time": 1747284024,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 247844,
@@ -547,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246286,
+      "num": 348673,
+      "word": "转人工客服怎么这么难",
+      "onboard_time": 1747282284,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242200,
+      "num": 242200,
+      "word": "偷一句去恶心死朋友",
+      "onboard_time": 1747283003,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239971,
       "num": 239971,
       "word": "郑钦文vs萨巴伦卡",
@@ -555,12 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 226695,
-      "num": 226695,
-      "word": "偷一句去恶心死朋友",
-      "onboard_time": 1747283003,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 237700,
+      "num": 336358,
+      "word": "徐梦洁加盟五哈5",
+      "onboard_time": 1747283182,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231885,
+      "num": 246933,
+      "word": "让娜扎演女茶王简直是天才",
+      "onboard_time": 1747283244,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 226230,
@@ -627,14 +699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203942,
-      "num": 342338,
-      "word": "锦绣芳华开预约",
-      "onboard_time": 1747282882,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200717,
       "num": 221679,
       "word": "孙颖莎不断超越自我",
@@ -665,22 +729,6 @@
       "onboard_time": 1747280062,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199366,
-      "num": 199366,
-      "word": "让娜扎演女茶王简直是天才",
-      "onboard_time": 1747283244,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199006,
-      "num": 336358,
-      "word": "徐梦洁加盟五哈5",
-      "onboard_time": 1747283182,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 198802,
@@ -737,6 +785,14 @@
       "onboard_time": 1747279282,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189212,
+      "num": 339782,
+      "word": "美团会员很牛吗",
+      "onboard_time": 1747280782,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 187273,
@@ -827,20 +883,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178964,
-      "num": 339782,
-      "word": "美团会员很牛吗",
-      "onboard_time": 1747280782,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 178435,
-      "num": 178435,
-      "word": "黄金价格",
-      "onboard_time": 1747283423,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 178823,
+      "num": 245805,
+      "word": "张韶涵宋雨琦同台是两代青春碰面",
+      "onboard_time": 1747283602,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 178093,
@@ -899,14 +947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171768,
-      "num": 348673,
-      "word": "转人工客服怎么这么难",
-      "onboard_time": 1747282284,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 169899,
       "num": 169899,
       "word": "女子买金饰秒下单称货买当下值",
@@ -931,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166445,
+      "num": 584681,
+      "word": "中国外贸企业被美国客户疯狂催单",
+      "onboard_time": 1747281682,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166268,
       "num": 166268,
       "word": "姐姐姐夫先亲上了",
@@ -945,6 +993,14 @@
       "onboard_time": 1747276341,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165006,
+      "num": 248684,
+      "word": "森林狼晋级西决",
+      "onboard_time": 1747283602,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 164428,
@@ -971,12 +1027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150094,
-      "num": 510869,
-      "word": "中国外贸企业被美国客户疯狂催单",
-      "onboard_time": 1747281682,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 152022,
+      "num": 333638,
+      "word": "买下300方大平层邻居全用来办公",
+      "onboard_time": 1747283303,
+      "rank": 33,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 149999,
@@ -993,6 +1049,14 @@
       "onboard_time": 1747268481,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148724,
+      "num": 244905,
+      "word": "沈月第一部古装剧收官文",
+      "onboard_time": 1747284024,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 147946,
@@ -1017,6 +1081,14 @@
       "onboard_time": 1747267402,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145578,
+      "num": 345189,
+      "word": "奶奶用泡椒凤爪配方给孙女治汗疱疹",
+      "onboard_time": 1747282703,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145136,
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 127326,
-      "num": 220598,
+      "num": 250014,
       "word": "人工客服越来越难找了",
       "onboard_time": 1747277120,
       "rank": 48,
@@ -1259,6 +1331,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 103422,
+      "num": 337614,
+      "word": "全球第一网红是如何赚钱的",
+      "onboard_time": 1747281743,
+      "rank": 28,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 103146,
       "num": 103146,
       "word": "cp31",
@@ -1315,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95740,
+      "num": 249197,
+      "word": "赫拉利王小川对谈AI争议",
+      "onboard_time": 1747284144,
+      "rank": 26,
+      "category": "健康医疗,互联网"
+    },
+    {
       "raw_hot": 92853,
       "num": 92853,
       "word": "脊柱最讨厌的4个坐姿",
@@ -1337,14 +1425,6 @@
       "onboard_time": 1747233623,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87028,
-      "num": 337614,
-      "word": "全球第一网红是如何赚钱的",
-      "onboard_time": 1747281743,
-      "rank": 28,
-      "category": "财经,互联网"
     },
     {
       "raw_hot": 86787,
@@ -1403,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80103,
-      "num": 345189,
-      "word": "奶奶用泡椒凤爪配方给孙女治汗疱疹",
-      "onboard_time": 1747282703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79455,
       "num": 127035,
       "word": "中华民族不可能再让台湾分裂出去",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1747279282,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78063,
+      "num": 348645,
+      "word": "全长沙都在偶遇刘诗诗",
+      "onboard_time": 1747282343,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 77912,
@@ -1459,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75878,
+      "num": 248373,
+      "word": "美国女兵有多惨",
+      "onboard_time": 1747284144,
+      "rank": 30,
+      "category": "海外新闻,军事"
+    },
+    {
       "raw_hot": 75470,
       "num": 75470,
       "word": "刘国梁联合国参加活动",
       "onboard_time": 1747229842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75302,
+      "num": 337283,
+      "word": "俄9月起禁止民众养老虎熊当宠物",
+      "onboard_time": 1747283303,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74917,
@@ -1547,22 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66130,
-      "num": 348645,
-      "word": "全长沙都在偶遇刘诗诗",
-      "onboard_time": 1747282343,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 64157,
-      "num": 333638,
-      "word": "买下300方大平层邻居全用来办公",
-      "onboard_time": 1747283303,
-      "rank": 33,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 63158,
       "num": 63158,
       "word": "折腰热度",
@@ -1635,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51509,
+      "num": 348641,
+      "word": "汪苏泷玩转人设二选一",
+      "onboard_time": 1747282343,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50260,
       "num": 50260,
       "word": "考试院回应小伙因救人缺考",
@@ -1657,6 +1745,22 @@
       "onboard_time": 1747228343,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45680,
+      "num": 338204,
+      "word": "包装上的零添加到底不添加什么",
+      "onboard_time": 1747283124,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45332,
+      "num": 249658,
+      "word": "凯尔特人还活着",
+      "onboard_time": 1747283785,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 41581,
@@ -1689,30 +1793,6 @@
       "onboard_time": 1747242018,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 34374,
-      "num": 337283,
-      "word": "俄9月起禁止民众养老虎熊当宠物",
-      "onboard_time": 1747283303,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 31378,
-      "num": 348641,
-      "word": "汪苏泷玩转人设二选一",
-      "onboard_time": 1747282343,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 29449,
-      "num": 338204,
-      "word": "包装上的零添加到底不添加什么",
-      "onboard_time": 1747283124,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 28424,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1747250294,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12203,
+      "num": 250509,
+      "word": "曾凡博逐梦 NBA的最大阻碍是什么",
+      "onboard_time": 1747283484,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 11749,

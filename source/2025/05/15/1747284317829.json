@@ -1,0 +1,410 @@
+{
+  "runTime": 1747284317829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932107,
+        "num": 1149137,
+        "word": "娃哈哈称已终止和今麦郎代工合作",
+        "onboard_time": 1747280662,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 906081,
+        "num": 906081,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 166445,
+        "num": 584681,
+        "word": "中国外贸企业被美国客户疯狂催单",
+        "onboard_time": 1747281682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580626,
+        "num": 580626,
+        "word": "35岁工程师患胃癌晚期家中3人有胃癌",
+        "onboard_time": 1747281983,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503739,
+        "num": 503739,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 4,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 389280,
+        "num": 389280,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387460,
+        "num": 387460,
+        "word": "男子故意将孩子遗弃在地铁站",
+        "onboard_time": 1747278381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285080,
+        "num": 285080,
+        "word": "锦绣芳华开预约",
+        "onboard_time": 1747282882,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276989,
+        "num": 276989,
+        "word": "俄乌谈判",
+        "onboard_time": 1747277541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265069,
+        "num": 265069,
+        "word": "水龙吟",
+        "onboard_time": 1747272742,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78063,
+        "num": 263302,
+        "word": "全长沙都在偶遇刘诗诗",
+        "onboard_time": 1747282343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51509,
+        "num": 261429,
+        "word": "汪苏泷玩转人设二选一",
+        "onboard_time": 1747282343,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 3356958,
+        "num": 259408,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961438,
+        "num": 255783,
+        "word": "曝病重老人被要求亲自取钱在银行去世",
+        "onboard_time": 1747280843,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757152,
+        "num": 253468,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251914,
+        "num": 251914,
+        "word": "亮剑编剧封笔之作",
+        "onboard_time": 1747278980,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70540,
+        "num": 251573,
+        "word": "张凌赫做家务无须高人指点",
+        "onboard_time": 1747282343,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152022,
+        "num": 251200,
+        "word": "买下300方大平层邻居全用来办公",
+        "onboard_time": 1747283303,
+        "rank": 17,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 145578,
+        "num": 250866,
+        "word": "奶奶用泡椒凤爪配方给孙女治汗疱疹",
+        "onboard_time": 1747282703,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12203,
+        "num": 250509,
+        "word": "曾凡博逐梦 NBA的最大阻碍是什么",
+        "onboard_time": 1747283484,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708597,
+        "num": 250063,
+        "word": "28元一个的蛋挞真的很贵",
+        "onboard_time": 1747280361,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250056,
+        "num": 250056,
+        "word": "刘诗诗把意难平赛道走穿了",
+        "onboard_time": 1747284024,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93211,
+        "num": 250014,
+        "word": "人工客服越来越难找了",
+        "onboard_time": 1747277120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189212,
+        "num": 249794,
+        "word": "美团会员很牛吗",
+        "onboard_time": 1747280782,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45332,
+        "num": 249658,
+        "word": "凯尔特人还活着",
+        "onboard_time": 1747283785,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371302,
+        "num": 249440,
+        "word": "王大陆逃兵服役看许光汉表演",
+        "onboard_time": 1747283785,
+        "rank": 25,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 95740,
+        "num": 249197,
+        "word": "赫拉利王小川对谈AI争议",
+        "onboard_time": 1747284144,
+        "rank": 26,
+        "category": "健康医疗,互联网"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 249101,
+        "word": "俄9月起禁止民众养老虎熊当宠物",
+        "onboard_time": 1747283303,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45680,
+        "num": 248846,
+        "word": "包装上的零添加到底不添加什么",
+        "onboard_time": 1747283124,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165006,
+        "num": 248684,
+        "word": "森林狼晋级西决",
+        "onboard_time": 1747283602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75878,
+        "num": 248373,
+        "word": "美国女兵有多惨",
+        "onboard_time": 1747284144,
+        "rank": 30,
+        "category": "海外新闻,军事"
+      },
+      {
+        "raw_hot": 570971,
+        "num": 248248,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263986,
+        "num": 248038,
+        "word": "光与夜之恋",
+        "onboard_time": 1747282163,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237700,
+        "num": 247864,
+        "word": "徐梦洁加盟五哈5",
+        "onboard_time": 1747283182,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456767,
+        "num": 247666,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429709,
+        "num": 247547,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326523,
+        "num": 247345,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283705,
+        "num": 247079,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231885,
+        "num": 246933,
+        "word": "让娜扎演女茶王简直是天才",
+        "onboard_time": 1747283244,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283639,
+        "num": 246776,
+        "word": "黄金价格",
+        "onboard_time": 1747283423,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267932,
+        "num": 246499,
+        "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+        "onboard_time": 1747277661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263919,
+        "num": 246465,
+        "word": "你以为很丑但越来越好看的标志",
+        "onboard_time": 1747283963,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246286,
+        "num": 246286,
+        "word": "转人工客服怎么这么难",
+        "onboard_time": 1747282284,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 178823,
+        "num": 245805,
+        "word": "张韶涵宋雨琦同台是两代青春碰面",
+        "onboard_time": 1747283602,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103422,
+        "num": 245259,
+        "word": "全球第一网红是如何赚钱的",
+        "onboard_time": 1747281743,
+        "rank": 44,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 148724,
+        "num": 244905,
+        "word": "沈月第一部古装剧收官文",
+        "onboard_time": 1747284024,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253150,
+        "num": 243996,
+        "word": "生理性不喜欢",
+        "onboard_time": 1747284263,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243896,
+        "num": 243896,
+        "word": "78元一位自助餐的质量",
+        "onboard_time": 1747281804,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242200,
+        "num": 242200,
+        "word": "偷一句去恶心死朋友",
+        "onboard_time": 1747283003,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236004,
+        "num": 236004,
+        "word": "墨西哥一网红直播中遭枪杀",
+        "onboard_time": 1747279642,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信中国丹麦商会负责人#"
+    }
+  }
+}
