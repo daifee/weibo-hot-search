@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747287794656,
+  "endTime": 1747290980537,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -187,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2582078,
+      "num": 2561286,
+      "word": "税务部门调查刘晓庆偷税",
+      "onboard_time": 1747281562,
+      "rank": 4,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 2562935,
       "num": 2562935,
       "word": "淘宝免单 我们都一样",
       "onboard_time": 1746692362,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2561286,
-      "num": 2561286,
-      "word": "税务部门调查刘晓庆偷税",
-      "onboard_time": 1747281562,
-      "rank": 4,
-      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 2539389,
@@ -585,6 +585,14 @@
       "onboard_time": 1746458482,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1838598,
+      "num": 1838598,
+      "word": "陈奕迅确诊新冠",
+      "onboard_time": 1747288823,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1833597,
@@ -3641,6 +3649,14 @@
       "onboard_time": 1746952942,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 804983,
+      "num": 344772,
+      "word": "被99%中国男人羡慕的女生",
+      "onboard_time": 1747286362,
+      "rank": 38,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 804355,
@@ -7779,6 +7795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467518,
+      "num": 467518,
+      "word": "管乐票数",
+      "onboard_time": 1747286542,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467424,
       "num": 467424,
       "word": "淮水竹亭陪看变陪哭",
@@ -8985,6 +9009,14 @@
       "onboard_time": 1746333082,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419796,
+      "num": 419796,
+      "word": "Labubu簪花",
+      "onboard_time": 1747287261,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 419389,
@@ -11851,20 +11883,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314253,
+      "num": 314253,
+      "word": "芒果一口气宣了88部大剧",
+      "onboard_time": 1747290082,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313971,
       "num": 313971,
       "word": "藏海传张本",
       "onboard_time": 1747217122,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313482,
-      "num": 313482,
-      "word": "被99%中国男人羡慕的女生",
-      "onboard_time": 1747286362,
-      "rank": 38,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 313446,
@@ -13251,14 +13283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284421,
-      "num": 423689,
-      "word": "管乐票数",
-      "onboard_time": 1747286542,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284363,
       "num": 284363,
       "word": "李晟大家不要熬夜给我投票了",
@@ -14579,12 +14603,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255490,
+      "num": 255490,
+      "word": "家属质疑银行规定致病人取款时离世",
+      "onboard_time": 1747289482,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255345,
       "num": 255345,
       "word": "2025多哈世乒赛",
       "onboard_time": 1746027921,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255136,
+      "num": 364375,
+      "word": "伊朗愿承诺永不制造核武器",
+      "onboard_time": 1747289302,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254904,
@@ -15577,6 +15617,14 @@
       "onboard_time": 1746694941,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 240308,
+      "num": 240308,
+      "word": "何洛洛夏之光一起去赵磊婚礼",
+      "onboard_time": 1747288762,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 240253,
@@ -17843,14 +17891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209071,
-      "num": 209071,
-      "word": "Labubu簪花",
-      "onboard_time": 1747287261,
-      "rank": 41,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 209055,
       "num": 387007,
       "word": "双轨",
@@ -19379,6 +19419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200844,
+      "num": 200844,
+      "word": "Labubu",
+      "onboard_time": 1747290803,
+      "rank": 37,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 200770,
       "num": 200770,
       "word": "Jennie和崔胜澈合照",
@@ -19577,6 +19625,14 @@
       "onboard_time": 1746714864,
       "rank": 9,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 199825,
+      "num": 199825,
+      "word": "巴特勒拒投",
+      "onboard_time": 1747289962,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 199818,
@@ -24211,6 +24267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175832,
+      "num": 175832,
+      "word": "我爱的男人们都秃了",
+      "onboard_time": 1747289663,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175798,
       "num": 260871,
       "word": "长沙县卫生健康局情况通报",
@@ -27273,6 +27337,14 @@
       "onboard_time": 1746444323,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160176,
+      "num": 160176,
+      "word": "林俊杰的歌还是太会刀了",
+      "onboard_time": 1747289720,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 160155,
@@ -37659,6 +37731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118039,
+      "num": 322382,
+      "word": "警方回应重病老人在银行取钱去世",
+      "onboard_time": 1747289902,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 118030,
       "num": 118030,
       "word": "EDGM对战DRG",
@@ -39873,6 +39953,14 @@
       "onboard_time": 1746289940,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107652,
+      "num": 275336,
+      "word": "甲状腺是垃圾情绪的靶器官",
+      "onboard_time": 1747290022,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107645,
@@ -44219,6 +44307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76368,
+      "num": 275202,
+      "word": "邱贻可说马龙当几年教练也这样",
+      "onboard_time": 1747290682,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76351,
       "num": 230004,
       "word": "威少替约基奇出头",
@@ -45577,6 +45673,14 @@
       "onboard_time": 1747140681,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64281,
+      "num": 276466,
+      "word": "郑钦文罗马赛史上胜场最多中国女球员",
+      "onboard_time": 1747290623,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 64194,
@@ -49139,6 +49243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38884,
+      "num": 175457,
+      "word": "爸爸当家宝宝撞脸金珉奎",
+      "onboard_time": 1747290262,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38673,
       "num": 246926,
       "word": "90后钢铁医生为球罐探伤磨坏钢鞋",
@@ -49593,6 +49705,14 @@
       "onboard_time": 1746608662,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35527,
+      "num": 275743,
+      "word": "勇士没能等到库里回来",
+      "onboard_time": 1747290202,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 35512,
@@ -50057,6 +50177,14 @@
       "onboard_time": 1746522080,
       "rank": 39,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 33096,
+      "num": 275075,
+      "word": "NBA流量大队淘汰后哪只球队值得看",
+      "onboard_time": 1747290740,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 33087,
@@ -53507,6 +53635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16078,
+      "num": 277039,
+      "word": "新骗术遥控取钱是怎样蛊惑上当的",
+      "onboard_time": 1747289783,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16065,
       "num": 171783,
       "word": "印度杀人犯因监禁有损身心被保释",
@@ -54075,6 +54211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13680,
+      "num": 275684,
+      "word": "上官正义净干替老百姓出头的事",
+      "onboard_time": 1747289843,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13671,
       "num": 145490,
       "word": "太空计算卫星星座主要用在哪些领域",
@@ -54217,6 +54361,22 @@
       "onboard_time": 1746992353,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12871,
+      "num": 276330,
+      "word": "叶童3年前决定保留原发色",
+      "onboard_time": 1747290682,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12866,
+      "num": 182086,
+      "word": "黄文秀牺牲的时候才30岁",
+      "onboard_time": 1747289783,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12816,
@@ -54673,6 +54833,14 @@
       "onboard_time": 1747121600,
       "rank": 27,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 11033,
+      "num": 277223,
+      "word": "男子躲查酒驾钻警车底3小时不出",
+      "onboard_time": 1747290682,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11002,
