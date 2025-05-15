@@ -1,7 +1,15 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747278877399,
+  "endTime": 1747279801335,
   "band_list": [
+    {
+      "raw_hot": 3163942,
+      "num": 3163942,
+      "word": "刘晓庆被举报偷税",
+      "onboard_time": 1747278321,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1585641,
       "num": 304710,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 970540,
-      "num": 1155286,
-      "word": "刘晓庆被举报偷税",
-      "onboard_time": 1747278321,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 933376,
       "num": 933376,
       "word": "杨天真瘦成不穿大码女装的样子了",
@@ -49,6 +49,14 @@
       "onboard_time": 1747271252,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 850802,
+      "num": 850802,
+      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+      "onboard_time": 1747275021,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 850444,
@@ -81,14 +89,6 @@
       "onboard_time": 1747277661,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 661085,
-      "num": 661085,
-      "word": "被救同学苏醒先问姜昭鹏赶上考试没",
-      "onboard_time": 1747275021,
-      "rank": 36,
-      "category": "正能量"
     },
     {
       "raw_hot": 607185,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418578,
+      "num": 418578,
+      "word": "俄乌谈判",
+      "onboard_time": 1747277541,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 384577,
       "num": 384577,
       "word": "华为官宣鸿蒙电脑非凡大师版",
@@ -283,20 +291,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327721,
+      "num": 296701,
+      "word": "动画电影聊斋兰若寺定档",
+      "onboard_time": 1747278922,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326707,
       "num": 326707,
       "word": "肖战10秒演出四种情绪",
       "onboard_time": 1747265240,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325101,
-      "num": 325101,
-      "word": "俄乌谈判",
-      "onboard_time": 1747277541,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324984,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272407,
+      "num": 366522,
+      "word": "中国至美国运单飙升近300%",
+      "onboard_time": 1747277421,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262967,
       "num": 213931,
       "word": "李现 下次参加刘冲活动多解一颗扣子",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 247844,
-      "num": 247844,
+      "num": 264022,
       "word": "林允包上恩陈瑶领衔女主演",
       "onboard_time": 1747276282,
       "rank": 25,
@@ -441,6 +457,14 @@
       "onboard_time": 1747242557,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233984,
+      "num": 269659,
+      "word": "亮剑编剧封笔之作",
+      "onboard_time": 1747278980,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 226230,
@@ -467,8 +491,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211868,
+      "num": 259203,
+      "word": "全员加速中",
+      "onboard_time": 1747276161,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210494,
-      "num": 210494,
+      "num": 274487,
       "word": "中国网协祝贺郑钦文终结萨巴伦卡",
       "onboard_time": 1747278442,
       "rank": 27,
@@ -489,14 +521,6 @@
       "onboard_time": 1747265059,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204120,
-      "num": 366522,
-      "word": "中国至美国运单飙升近300%",
-      "onboard_time": 1747277421,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 200342,
@@ -531,20 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188219,
-      "num": 188219,
-      "word": "全员加速中",
-      "onboard_time": 1747276161,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186774,
-      "num": 186774,
+      "raw_hot": 190970,
+      "num": 319434,
       "word": "男子故意将孩子遗弃在地铁站",
       "onboard_time": 1747278381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "膳魔师 檀健次",
+      "onboard_time": 1747279282,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185944,
@@ -552,6 +576,14 @@
       "word": "玉茗茶骨",
       "onboard_time": 1747278022,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185440,
+      "num": 185440,
+      "word": "罗云熙新剧有10条cp线",
+      "onboard_time": 1747278622,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -635,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169003,
-      "num": 169003,
-      "word": "罗云熙新剧有10条cp线",
-      "onboard_time": 1747278622,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167837,
       "num": 167837,
       "word": "警方通报保时捷失控致1死2伤",
@@ -665,6 +689,14 @@
       "onboard_time": 1747276341,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165622,
+      "num": 165622,
+      "word": "没有库里的勇士",
+      "onboard_time": 1747278201,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 164428,
@@ -707,20 +739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147279,
+      "num": 147279,
+      "word": "金饰克价跌到972元",
+      "onboard_time": 1747279462,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146890,
       "num": 146890,
       "word": "金饰消费暴跌金币金条消费暴涨",
       "onboard_time": 1747267402,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144501,
-      "num": 144501,
-      "word": "没有库里的勇士",
-      "onboard_time": 1747278201,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 144451,
@@ -731,12 +763,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 143787,
+      "num": 143787,
+      "word": "为什么大学生们越来越晚熟了",
+      "onboard_time": 1747279221,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142764,
       "num": 142764,
       "word": "李帝努上大学了",
       "onboard_time": 1747270830,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "淮水竹亭不说再见",
+      "onboard_time": 1747279521,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 142353,
@@ -753,6 +801,14 @@
       "onboard_time": 1747273401,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141405,
+      "num": 208322,
+      "word": "买金镯子半个月亏了2000块",
+      "onboard_time": 1747278321,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139802,
@@ -777,6 +833,14 @@
       "onboard_time": 1747277780,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134446,
+      "num": 134446,
+      "word": "墨西哥一网红直播中遭枪杀",
+      "onboard_time": 1747279642,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133742,
@@ -812,11 +876,19 @@
     },
     {
       "raw_hot": 130253,
-      "num": 144456,
+      "num": 190031,
       "word": "任何形式的黑公关都不应该被接受",
       "onboard_time": 1747278321,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129936,
+      "num": 129936,
+      "word": "郑钦文又一次突破了自己",
+      "onboard_time": 1747279401,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128522,
@@ -859,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125536,
+      "num": 125536,
+      "word": "国际金价一日跌超70美元",
+      "onboard_time": 1747279642,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125498,
       "num": 125498,
       "word": "泫雅结婚后不失眠了",
@@ -872,14 +952,6 @@
       "word": "今日国际家庭日",
       "onboard_time": 1747273880,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124938,
-      "num": 199399,
-      "word": "买金镯子半个月亏了2000块",
-      "onboard_time": 1747278321,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1019,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85209,
+      "num": 195560,
+      "word": "黄金市场上演冰与火",
+      "onboard_time": 1747279342,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83575,
       "num": 161663,
       "word": "一觉醒来郑钦文再创多项新纪录",
@@ -1028,7 +1108,7 @@
     },
     {
       "raw_hot": 82565,
-      "num": 144470,
+      "num": 178141,
       "word": "9元拉面 高级料汁",
       "onboard_time": 1747278381,
       "rank": 38,
@@ -1163,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67088,
+      "num": 187078,
+      "word": "郑钦文说一直有打败萨巴伦卡实力",
+      "onboard_time": 1747279761,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63158,
       "num": 63158,
       "word": "折腰热度",
@@ -1243,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49048,
+      "num": 186339,
+      "word": "律所招游戏段位是王者的本科生",
+      "onboard_time": 1747279761,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 48402,
       "num": 48402,
       "word": "古人的杯子能精致到什么程度",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1747228343,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46819,
+      "num": 307132,
+      "word": "专家称中美会谈让印度看到希望",
+      "onboard_time": 1747279282,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41182,
@@ -1377,6 +1481,14 @@
       "onboard_time": 1747278081,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6041,
+      "num": 189339,
+      "word": "野兽先生建100栋房子送人",
+      "onboard_time": 1747279761,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 5273,
