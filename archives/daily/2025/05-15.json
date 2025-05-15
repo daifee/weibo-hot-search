@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747291814192,
+  "endTime": 1747293943666,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -35,6 +35,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1568151,
+      "num": 1568151,
+      "word": "芒果一口气宣了88部大剧",
+      "onboard_time": 1747290082,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1296268,
       "num": 471314,
       "word": "曝病重老人被要求亲自取钱在银行去世",
@@ -57,6 +65,14 @@
       "onboard_time": 1747266561,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1126990,
+      "num": 489563,
+      "word": "向往的生活 回归",
+      "onboard_time": 1747292602,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1085327,
@@ -163,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 693203,
-      "num": 693203,
-      "word": "芒果一口气宣了88部大剧",
-      "onboard_time": 1747290082,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 691488,
       "num": 349534,
       "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
@@ -195,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592031,
+      "num": 368164,
+      "word": "X玖少年团不会在婚礼合体吧",
+      "onboard_time": 1747292182,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589444,
       "num": 447696,
       "word": "黄金价格",
       "onboard_time": 1747283423,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 589385,
+      "num": 466421,
+      "word": "比伯破产",
+      "onboard_time": 1747293501,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 580626,
@@ -224,6 +248,14 @@
       "word": "伊朗",
       "onboard_time": 1747282943,
       "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 537893,
+      "num": 537893,
+      "word": "伊朗愿承诺永不制造核武器",
+      "onboard_time": 1747289302,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429965,
+      "num": 429965,
+      "word": "小米YU7 发布会",
+      "onboard_time": 1747293023,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 427070,
       "num": 224444,
       "word": "关晓彤无名指戒指",
@@ -361,14 +401,6 @@
       "onboard_time": 1747276341,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391807,
-      "num": 520226,
-      "word": "伊朗愿承诺永不制造核武器",
-      "onboard_time": 1747289302,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 384577,
@@ -393,6 +425,14 @@
       "onboard_time": 1747273521,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 373881,
+      "num": 373881,
+      "word": "中国发往美国集装箱爆仓",
+      "onboard_time": 1747292001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371397,
@@ -433,6 +473,14 @@
       "onboard_time": 1747282284,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 360577,
+      "num": 360577,
+      "word": "赵樱子带弟弟走红毯",
+      "onboard_time": 1747291643,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 360441,
@@ -651,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269602,
+      "num": 325302,
+      "word": "女子旅游半月店门忘关运营正常",
+      "onboard_time": 1747292242,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262967,
       "num": 213931,
       "word": "李现 下次参加刘冲活动多解一颗扣子",
@@ -707,6 +763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 251636,
+      "num": 323216,
+      "word": "宋妍霏票数",
+      "onboard_time": 1747292661,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250056,
       "num": 250056,
       "word": "刘诗诗把意难平赛道走穿了",
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235095,
+      "num": 235095,
+      "word": "网易云音乐起诉乐华",
+      "onboard_time": 1747292362,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234065,
       "num": 234065,
       "word": "主人掉了一只拖鞋小狗掉了三只",
@@ -787,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216695,
+      "num": 320565,
+      "word": "彭昱畅求王影璐做个人",
+      "onboard_time": 1747292902,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213983,
       "num": 207613,
       "word": "女子称穿瑜伽服上门做饭不是为流量",
@@ -800,6 +880,14 @@
       "word": "太好了是喜综我们有救啦",
       "onboard_time": 1747286063,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213651,
+      "num": 213651,
+      "word": "祝绪丹和相亲对象打电话急眼了",
+      "onboard_time": 1747293743,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -860,7 +948,7 @@
     },
     {
       "raw_hot": 206825,
-      "num": 206825,
+      "num": 332782,
       "word": "蒋敦豪直播",
       "onboard_time": 1747291341,
       "rank": 36,
@@ -1051,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183431,
+      "num": 510868,
+      "word": "知情人回应娃哈哈为何找今麦郎代工",
+      "onboard_time": 1747287443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182876,
       "num": 182876,
       "word": "水龙吟首支片花",
@@ -1091,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178619,
+      "num": 275336,
+      "word": "甲状腺是垃圾情绪的靶器官",
+      "onboard_time": 1747290022,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 178093,
       "num": 178092,
       "word": "野狗骨头",
@@ -1099,20 +1203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176745,
-      "num": 251229,
-      "word": "赵樱子带弟弟走红毯",
-      "onboard_time": 1747291643,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175832,
       "num": 175832,
       "word": "我爱的男人们都秃了",
       "onboard_time": 1747289663,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175814,
+      "num": 328885,
+      "word": "京东官宣Plus会员免费去看工体演唱会",
+      "onboard_time": 1747292182,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 175550,
@@ -1145,14 +1249,6 @@
       "onboard_time": 1747265059,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172912,
-      "num": 275336,
-      "word": "甲状腺是垃圾情绪的靶器官",
-      "onboard_time": 1747290022,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172798,
@@ -1251,12 +1347,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 163656,
-      "num": 510868,
-      "word": "知情人回应娃哈哈为何找今麦郎代工",
-      "onboard_time": 1747287443,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 162951,
+      "num": 162951,
+      "word": "小学老师生存现状上课成了副业",
+      "onboard_time": 1747292542,
+      "rank": 48,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 162837,
@@ -1281,6 +1377,14 @@
       "onboard_time": 1747289720,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158467,
+      "num": 158467,
+      "word": "高伟光新剧豆瓣评分逆跌至8.3",
+      "onboard_time": 1747292062,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 156446,
@@ -1747,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90719,
+      "num": 303567,
+      "word": "美线海运一夜爆单",
+      "onboard_time": 1747293381,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87485,
       "num": 275202,
       "word": "邱贻可说马龙当几年教练也这样",
@@ -1817,6 +1929,14 @@
       "onboard_time": 1747242676,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79392,
+      "num": 316532,
+      "word": "印度游行纪念军队的大胜利",
+      "onboard_time": 1747292302,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79066,
@@ -1987,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65255,
+      "num": 165310,
+      "word": "印度重关大坝跨境水源博弈怎样收场",
+      "onboard_time": 1747292483,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64281,
       "num": 340102,
       "word": "郑钦文罗马赛史上胜场最多中国女球员",
@@ -2001,6 +2129,22 @@
       "onboard_time": 1747265840,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61408,
+      "num": 235477,
+      "word": "郑钦文曾两战高芙均输球",
+      "onboard_time": 1747292602,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60920,
+      "num": 167206,
+      "word": "假专家1年发12000条视频",
+      "onboard_time": 1747293445,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60065,
@@ -2105,6 +2249,14 @@
       "onboard_time": 1747282343,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50724,
+      "num": 322612,
+      "word": "祁煜一起坠入花海",
+      "onboard_time": 1747293082,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 50260,
@@ -2235,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27424,
+      "num": 239802,
+      "word": "本周后期广东雷雨渐趋活跃",
+      "onboard_time": 1747293863,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26878,
       "num": 26878,
       "word": "孙恩盛直播",
@@ -2249,6 +2409,14 @@
       "onboard_time": 1747255215,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26156,
+      "num": 317771,
+      "word": "国际乒联回顾孙颖莎德班世乒赛夺冠",
+      "onboard_time": 1747293802,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 25494,
@@ -2337,6 +2505,14 @@
       "onboard_time": 1747289783,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12850,
+      "num": 330324,
+      "word": "塔图姆受伤后怀特能否扛起进攻大旗",
+      "onboard_time": 1747293445,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12741,
