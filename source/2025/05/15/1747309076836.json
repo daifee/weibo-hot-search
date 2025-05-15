@@ -1,0 +1,410 @@
+{
+  "runTime": 1747309076836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2935736,
+        "num": 2935736,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1130735,
+        "num": 1130735,
+        "word": "上海10岁女孩确诊长发公主综合征",
+        "onboard_time": 1747306703,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33571,
+        "num": 1007397,
+        "word": "共商人工智能发展治理",
+        "onboard_time": 1747296864,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 972373,
+        "num": 972373,
+        "word": "比伯破产",
+        "onboard_time": 1747293501,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752664,
+        "num": 752664,
+        "word": "在银行取款死亡的62岁老人",
+        "onboard_time": 1747305922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1144852,
+        "num": 731318,
+        "word": "金靖P图不带迪丽热巴",
+        "onboard_time": 1747302383,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 686071,
+        "num": 686071,
+        "word": "台湾地区",
+        "onboard_time": 1747305623,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 563025,
+        "num": 563025,
+        "word": "中方不同意台湾参加今年的世卫大会",
+        "onboard_time": 1747298723,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478575,
+        "num": 478575,
+        "word": "原来微信过期图片是可以找回的",
+        "onboard_time": 1747303882,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 474320,
+        "num": 474320,
+        "word": "贵州香酥鸭",
+        "onboard_time": 1747303163,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454747,
+        "num": 454747,
+        "word": "温州一母亲疑殴打女儿致死",
+        "onboard_time": 1747304603,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90044,
+        "num": 454364,
+        "word": "梁伟铿王昶的新队友",
+        "onboard_time": 1747305322,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86118,
+        "num": 451336,
+        "word": "理发师偷拍顾客照片上传社交平台",
+        "onboard_time": 1747307723,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49970,
+        "num": 450900,
+        "word": "北京明天部分地区有冰雹",
+        "onboard_time": 1747308622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356802,
+        "num": 448598,
+        "word": "芒果一口气宣了88部大剧",
+        "onboard_time": 1747290082,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333810,
+        "num": 446817,
+        "word": "向往的生活 回归",
+        "onboard_time": 1747292602,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246577,
+        "num": 445199,
+        "word": "杨紫李现锦绣芳华首发片花",
+        "onboard_time": 1747304423,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92012,
+        "num": 444101,
+        "word": "美国客户催发货时货早就卖掉了",
+        "onboard_time": 1747308263,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25280,
+        "num": 442521,
+        "word": "员工篡改检测数据致企业损失3000万",
+        "onboard_time": 1747308622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25428,
+        "num": 439194,
+        "word": "哪些人群需重点筛查幽门螺杆菌",
+        "onboard_time": 1747308683,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 508405,
+        "num": 438463,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 20,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 140986,
+        "num": 436782,
+        "word": "变形计王晨正宣布求婚成功",
+        "onboard_time": 1747307543,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435588,
+        "num": 435588,
+        "word": "两人以怀孕为由敲诈勒索孙兴慜",
+        "onboard_time": 1747301003,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296603,
+        "num": 296603,
+        "word": "警方通报男子广州南站持刀伤人",
+        "onboard_time": 1747307844,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134068,
+        "num": 251595,
+        "word": "幽门螺杆菌不会自行消除",
+        "onboard_time": 1747304304,
+        "rank": 24,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 249507,
+        "num": 249507,
+        "word": "南京大屠杀幸存者谢桂英去世",
+        "onboard_time": 1747301184,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 248504,
+        "word": "折腰第8集哄好了",
+        "onboard_time": 1747303103,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176100,
+        "num": 246097,
+        "word": "果然再见爱人的本质就是换乘恋爱",
+        "onboard_time": 1747306403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51185,
+        "num": 244376,
+        "word": "印巴到底谁在撒谎",
+        "onboard_time": 1747307064,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44905,
+        "num": 241922,
+        "word": "七旬老人赶公交途中摔倒公交该赔吗",
+        "onboard_time": 1747307483,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23399,
+        "num": 239899,
+        "word": "长期过度防晒对骨骼健康有什么影响",
+        "onboard_time": 1747307782,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238506,
+        "num": 238506,
+        "word": "出趟国还以为自己回国了",
+        "onboard_time": 1747307243,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229369,
+        "num": 229369,
+        "word": "盒马鸡蛋",
+        "onboard_time": 1747292182,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213904,
+        "num": 213904,
+        "word": "宋妍霏一套衣服两种季节",
+        "onboard_time": 1747308082,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 211737,
+        "word": "刘宇宁古装",
+        "onboard_time": 1747308683,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211517,
+        "num": 211517,
+        "word": "幽门螺杆菌是胃癌的明确致病因素",
+        "onboard_time": 1747301483,
+        "rank": 35,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 199113,
+        "num": 199113,
+        "word": "中方回应美方加严限制中国芯片",
+        "onboard_time": 1747301783,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160192,
+        "num": 160192,
+        "word": "字字不提穷但一听就穷的话",
+        "onboard_time": 1747293983,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30878,
+        "num": 157645,
+        "word": "农行公布客户办理业务期间离世时间线",
+        "onboard_time": 1747309044,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157232,
+        "num": 157232,
+        "word": "50万珠宝丢件一年后失主网上刷到",
+        "onboard_time": 1747304482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154783,
+        "num": 154783,
+        "word": "军情六处候选人曾在湖北大学任教",
+        "onboard_time": 1747305682,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150985,
+        "num": 150985,
+        "word": "家属质疑银行规定致病人取款时离世",
+        "onboard_time": 1747289482,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140655,
+        "num": 140655,
+        "word": "小米SU7大灯外框被爆翘边",
+        "onboard_time": 1747305922,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132338,
+        "num": 132338,
+        "word": "邓为高马尾战损妆",
+        "onboard_time": 1747308381,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124876,
+        "num": 124876,
+        "word": "韩安冉妈妈回应又当外婆",
+        "onboard_time": 1747302983,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115155,
+        "num": 115155,
+        "word": "连续30天10点睡觉的精神变化",
+        "onboard_time": 1747308024,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 114277,
+        "word": "等藏海传的嘴真严",
+        "onboard_time": 1747309044,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112514,
+        "num": 112514,
+        "word": "中餐厅去非洲了",
+        "onboard_time": 1747299563,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111787,
+        "num": 111787,
+        "word": "唐嫣被海风偏爱的美",
+        "onboard_time": 1747307483,
+        "rank": 48,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 111150,
+        "num": 111150,
+        "word": "张雅钦大青衣味儿太对了",
+        "onboard_time": 1747307304,
+        "rank": 49,
+        "category": "剧集,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建中拉命运共同体习主席这样强调#"
+    }
+  }
+}
