@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747319188491,
+  "endTime": 1747320243530,
   "band_list": [
     {
       "raw_hot": 9150504,
@@ -43,20 +43,20 @@
       "category": "舆论监督,艺人"
     },
     {
+      "raw_hot": 2116580,
+      "num": 496246,
+      "word": "丁真 被资本做局了",
+      "onboard_time": 1747315765,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2111687,
       "num": 2111687,
       "word": "中方不同意台湾参加今年的世卫大会",
       "onboard_time": 1747298723,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2074117,
-      "num": 496246,
-      "word": "丁真 被资本做局了",
-      "onboard_time": 1747315765,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 2006231,
@@ -427,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 586710,
+      "num": 586710,
+      "word": "折腰破30000福利",
+      "onboard_time": 1747320025,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584376,
       "num": 579786,
       "word": "小米YU7 发布会",
@@ -449,6 +457,14 @@
       "onboard_time": 1747313364,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 564264,
+      "num": 1236045,
+      "word": "肖某事件涉及单位人员正被调查",
+      "onboard_time": 1747312043,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 552109,
@@ -523,12 +539,12 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 509444,
-      "num": 1236045,
-      "word": "肖某事件涉及单位人员正被调查",
-      "onboard_time": 1747312043,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 509736,
+      "num": 509736,
+      "word": "队长",
+      "onboard_time": 1747316905,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 505999,
@@ -675,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415953,
-      "num": 415953,
-      "word": "队长",
-      "onboard_time": 1747316905,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 412979,
       "num": 412979,
       "word": "中餐厅去非洲了",
@@ -811,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358815,
+      "num": 358815,
+      "word": "除肖战谷嘉诚外X玖少年团齐聚",
+      "onboard_time": 1747317867,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356428,
       "num": 215834,
       "word": "全班都用ai做作业 教授爆发了",
@@ -835,20 +851,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 341405,
-      "num": 341405,
-      "word": "除肖战谷嘉诚外X玖少年团齐聚",
-      "onboard_time": 1747317867,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336980,
       "num": 296968,
       "word": "越南女首富狱中发函求免死",
       "onboard_time": 1747266620,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 333203,
+      "num": 333203,
+      "word": "喜茶回应奶茶被放入微波炉加热着火",
+      "onboard_time": 1747315105,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327721,
@@ -1131,12 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260209,
-      "num": 321781,
-      "word": "喜茶回应奶茶被放入微波炉加热着火",
-      "onboard_time": 1747315105,
+      "raw_hot": 259123,
+      "num": 313828,
+      "word": "杨洋田曦薇翟子路同框",
+      "onboard_time": 1747318584,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257905,
+      "num": 257905,
+      "word": "光渊",
+      "onboard_time": 1747319546,
       "rank": 28,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 255490,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1747304423,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246453,
-      "num": 313828,
-      "word": "杨洋田曦薇翟子路同框",
-      "onboard_time": 1747318584,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 243569,
@@ -1627,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198704,
+      "num": 198704,
+      "word": "麻醉医生称肖某为谎言付出代价",
+      "onboard_time": 1747317204,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 198557,
       "num": 198557,
       "word": "aespa将6月回归",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1747318645,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193216,
+      "num": 193216,
+      "word": "娇兰晚宴上的杨洋",
+      "onboard_time": 1747319424,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 193082,
@@ -1899,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181511,
+      "num": 181511,
+      "word": "近期新冠又出现抬头趋势",
+      "onboard_time": 1747319184,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181198,
       "num": 181198,
       "word": "谁来给金靖安个热巴防沉迷",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1747298242,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180258,
+      "num": 180258,
+      "word": "董袭莹博士论文与他人重复率超20%",
+      "onboard_time": 1747319904,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179436,
@@ -2035,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175142,
+      "num": 175142,
+      "word": "yushi泡泡",
+      "onboard_time": 1747320083,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174924,
       "num": 174924,
       "word": "魏大勋新剧卤蛋变猕猴桃",
@@ -2137,14 +2193,6 @@
       "onboard_time": 1747303583,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166807,
-      "num": 185045,
-      "word": "麻醉医生称肖某为谎言付出代价",
-      "onboard_time": 1747317204,
-      "rank": 39,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 166497,
@@ -2323,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153287,
+      "num": 153287,
+      "word": "鬼夜曲",
+      "onboard_time": 1747317505,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152370,
       "num": 152370,
       "word": "KT终结HLE11连胜",
@@ -2409,14 +2465,6 @@
       "onboard_time": 1747304304,
       "rank": 39,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 148337,
-      "num": 148337,
-      "word": "鬼夜曲",
-      "onboard_time": 1747317505,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 148029,
@@ -2699,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132528,
+      "num": 475750,
+      "word": "小米自主研发设计手机芯片将发布",
+      "onboard_time": 1747318284,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132338,
       "num": 132338,
       "word": "邓为高马尾战损妆",
@@ -2867,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121474,
+      "num": 337142,
+      "word": "杭州西湖一桥洞前凌晨挤满人",
+      "onboard_time": 1747318645,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118943,
       "num": 137234,
       "word": "京城大师赛",
@@ -2881,6 +2945,14 @@
       "onboard_time": 1747291341,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117514,
+      "num": 338838,
+      "word": "陈好宋茜旅行最后一天",
+      "onboard_time": 1747319724,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 115155,
@@ -3187,14 +3259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81072,
-      "num": 418557,
-      "word": "小米自主研发设计手机芯片将发布",
-      "onboard_time": 1747318284,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 80135,
       "num": 104054,
       "word": "女子回应私厨一天6家月入2万争议",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1747279282,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77936,
+      "num": 258138,
+      "word": "奶茶放入微波炉加热30秒后着火",
+      "onboard_time": 1747319904,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77912,
@@ -3587,14 +3659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53821,
-      "num": 337142,
-      "word": "杭州西湖一桥洞前凌晨挤满人",
-      "onboard_time": 1747318645,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53398,
       "num": 69552,
       "word": "贵州茅台股东大会爆满改地点",
@@ -3728,6 +3792,14 @@
       "word": "曝大学生统计建模大赛多组作品雷同",
       "onboard_time": 1747318104,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47038,
+      "num": 337880,
+      "word": "顾客在按摩店更衣竟被监控拍摄全程",
+      "onboard_time": 1747319364,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
