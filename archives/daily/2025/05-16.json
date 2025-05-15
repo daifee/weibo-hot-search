@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747345133044,
+  "endTime": 1747347872670,
   "band_list": [
     {
       "raw_hot": 1112167,
@@ -24,6 +24,14 @@
       "word": "7人帮刮奖刮出100万每人分1万",
       "onboard_time": 1747324102,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 827563,
+      "num": 827563,
+      "word": "母女就餐1小时未动筷老板报警",
+      "onboard_time": 1747331235,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 472507,
-      "num": 66089,
-      "word": "母女就餐1小时未动筷老板报警",
-      "onboard_time": 1747331235,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425960,
       "num": 425960,
       "word": "北京协和医学院正在深入整改",
@@ -163,6 +163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212836,
+      "num": 212836,
+      "word": "麻醉医生称肖某为谎言付出代价",
+      "onboard_time": 1747317204,
+      "rank": 38,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 205977,
       "num": 205977,
       "word": "税务部门调查刘晓庆偷税",
@@ -177,6 +185,14 @@
       "onboard_time": 1747311082,
       "rank": 24,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 190672,
+      "num": 190672,
+      "word": "郑钦文凌晨2点半迎战高芙",
+      "onboard_time": 1747343954,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 186666,
@@ -201,6 +217,14 @@
       "onboard_time": 1747328716,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167196,
+      "num": 167196,
+      "word": "幼儿园4名老师多次殴打女童被行拘",
+      "onboard_time": 1747324102,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157969,
@@ -313,22 +337,6 @@
       "onboard_time": 1747305623,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 102689,
-      "num": 102689,
-      "word": "幼儿园4名老师多次殴打女童被行拘",
-      "onboard_time": 1747324102,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101927,
-      "num": 101927,
-      "word": "麻醉医生称肖某为谎言付出代价",
-      "onboard_time": 1747317204,
-      "rank": 38,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 97805,
@@ -451,12 +459,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29750,
-      "num": 29750,
-      "word": "郑钦文凌晨2点半迎战高芙",
-      "onboard_time": 1747343954,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 33580,
+      "num": 33580,
+      "word": "女子深夜拍到绿植转圈圈拼命生长",
+      "onboard_time": 1747343474,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29124,
+      "num": 29124,
+      "word": "姜同学得知补考后说更不后悔了",
+      "onboard_time": 1747342094,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 27427,
@@ -497,14 +513,6 @@
       "onboard_time": 1747324522,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18918,
-      "num": 18918,
-      "word": "姜同学得知补考后说更不后悔了",
-      "onboard_time": 1747342094,
-      "rank": 42,
-      "category": "正能量"
     },
     {
       "raw_hot": 18123,
