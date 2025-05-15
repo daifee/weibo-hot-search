@@ -1,0 +1,410 @@
+{
+  "runTime": 1747283448515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828089,
+        "num": 1132494,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 647688,
+        "num": 647688,
+        "word": "娃哈哈称已终止和今麦郎代工合作",
+        "onboard_time": 1747280662,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150094,
+        "num": 510869,
+        "word": "中国外贸企业被美国客户疯狂催单",
+        "onboard_time": 1747281682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496215,
+        "num": 496215,
+        "word": "男子故意将孩子遗弃在地铁站",
+        "onboard_time": 1747278381,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445384,
+        "num": 445384,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 4,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 348697,
+        "num": 348697,
+        "word": "俄乌谈判",
+        "onboard_time": 1747277541,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297137,
+        "num": 348697,
+        "word": "亮剑编剧封笔之作",
+        "onboard_time": 1747278980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231303,
+        "num": 348687,
+        "word": "小楚乔原定演员葛莉莎曾回应过换角",
+        "onboard_time": 1747271252,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253678,
+        "num": 348678,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171768,
+        "num": 348673,
+        "word": "转人工客服怎么这么难",
+        "onboard_time": 1747282284,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 3821789,
+        "num": 348665,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1296268,
+        "num": 348655,
+        "word": "曝病重老人被要求亲自取钱在银行去世",
+        "onboard_time": 1747280843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66130,
+        "num": 348645,
+        "word": "全长沙都在偶遇刘诗诗",
+        "onboard_time": 1747282343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31378,
+        "num": 348641,
+        "word": "汪苏泷玩转人设二选一",
+        "onboard_time": 1747282343,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348634,
+        "num": 348634,
+        "word": "35岁工程师患胃癌晚期家中3人有胃癌",
+        "onboard_time": 1747281983,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804710,
+        "num": 348483,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791955,
+        "num": 347096,
+        "word": "28元一个的蛋挞真的很贵",
+        "onboard_time": 1747280361,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86787,
+        "num": 346725,
+        "word": "张凌赫做家务无须高人指点",
+        "onboard_time": 1747282343,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11278,
+        "num": 345821,
+        "word": "人工客服难找对消费者带来哪些困扰",
+        "onboard_time": 1747282583,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 80103,
+        "num": 345189,
+        "word": "奶奶用泡椒凤爪配方给孙女治汗疱疹",
+        "onboard_time": 1747282703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678474,
+        "num": 344480,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213142,
+        "num": 343560,
+        "word": "阿汤哥和赵樱子戛纳红毯握手",
+        "onboard_time": 1747276102,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203942,
+        "num": 342338,
+        "word": "锦绣芳华开预约",
+        "onboard_time": 1747282882,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285175,
+        "num": 342060,
+        "word": "光与夜之恋",
+        "onboard_time": 1747282163,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187273,
+        "num": 340703,
+        "word": "马龙一家颜值好高",
+        "onboard_time": 1747282461,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178964,
+        "num": 339782,
+        "word": "美团会员很牛吗",
+        "onboard_time": 1747280782,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172798,
+        "num": 338965,
+        "word": "淮水竹亭不说再见",
+        "onboard_time": 1747279521,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29449,
+        "num": 338204,
+        "word": "包装上的零添加到底不添加什么",
+        "onboard_time": 1747283124,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 87028,
+        "num": 337614,
+        "word": "全球第一网红是如何赚钱的",
+        "onboard_time": 1747281743,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 34374,
+        "num": 337283,
+        "word": "俄9月起禁止民众养老虎熊当宠物",
+        "onboard_time": 1747283303,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199006,
+        "num": 336358,
+        "word": "徐梦洁加盟五哈5",
+        "onboard_time": 1747283182,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523535,
+        "num": 335029,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522189,
+        "num": 334864,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64157,
+        "num": 333638,
+        "word": "买下300方大平层邻居全用来办公",
+        "onboard_time": 1747283303,
+        "rank": 33,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 430882,
+        "num": 333251,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332491,
+        "num": 332491,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331131,
+        "num": 331131,
+        "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+        "onboard_time": 1747277661,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289340,
+        "num": 289340,
+        "word": "墨西哥一网红直播中遭枪杀",
+        "onboard_time": 1747279642,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272525,
+        "num": 272525,
+        "word": "78元一位自助餐的质量",
+        "onboard_time": 1747281804,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196930,
+        "num": 247948,
+        "word": "咸鱼飞升官宣",
+        "onboard_time": 1747275621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226695,
+        "num": 226695,
+        "word": "偷一句去恶心死朋友",
+        "onboard_time": 1747283003,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205431,
+        "num": 205431,
+        "word": "枯藤老树昏猫",
+        "onboard_time": 1747280001,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199366,
+        "num": 199366,
+        "word": "让娜扎演女茶王简直是天才",
+        "onboard_time": 1747283244,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195456,
+        "num": 195456,
+        "word": "藏海和师父吃饭是刘星分饼",
+        "onboard_time": 1747282523,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192528,
+        "num": 192528,
+        "word": "肖战藏海传提灯海报",
+        "onboard_time": 1747282163,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141079,
+        "num": 185089,
+        "word": "沈月 如果小院是真实存在的",
+        "onboard_time": 1747283362,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183166,
+        "num": 183166,
+        "word": "伊朗",
+        "onboard_time": 1747282943,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182711,
+        "num": 182711,
+        "word": "洞洞鞋",
+        "onboard_time": 1747283423,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 179334,
+        "num": 179334,
+        "word": "勇士vs森林狼",
+        "onboard_time": 1747275501,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178435,
+        "num": 178435,
+        "word": "黄金价格",
+        "onboard_time": 1747283423,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信中国丹麦商会负责人#"
+    }
+  }
+}
