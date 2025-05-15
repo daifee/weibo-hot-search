@@ -1,0 +1,410 @@
+{
+  "runTime": 1747291814192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2006231,
+        "num": 2006231,
+        "word": "陈奕迅确诊新冠",
+        "onboard_time": 1747288823,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748844,
+        "num": 748844,
+        "word": "莲花楼作者的家底有多厚",
+        "onboard_time": 1747285762,
+        "rank": 1,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 110951,
+        "num": 720445,
+        "word": "中国外贸企业被美国客户疯狂催单",
+        "onboard_time": 1747281682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693203,
+        "num": 693203,
+        "word": "芒果一口气宣了88部大剧",
+        "onboard_time": 1747290082,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628852,
+        "num": 628852,
+        "word": "娃哈哈称已终止和今麦郎代工合作",
+        "onboard_time": 1747280662,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559305,
+        "num": 559305,
+        "word": "你以为很丑但越来越好看的标志",
+        "onboard_time": 1747283963,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524850,
+        "num": 524850,
+        "word": "管乐票数",
+        "onboard_time": 1747286542,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391807,
+        "num": 520226,
+        "word": "伊朗愿承诺永不制造核武器",
+        "onboard_time": 1747289302,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 519160,
+        "num": 519160,
+        "word": "Labubu簪花",
+        "onboard_time": 1747287261,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 163656,
+        "num": 510868,
+        "word": "知情人回应娃哈哈为何找今麦郎代工",
+        "onboard_time": 1747287443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2600216,
+        "num": 507428,
+        "word": "税务部门调查刘晓庆偷税",
+        "onboard_time": 1747281562,
+        "rank": 10,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 794817,
+        "num": 492434,
+        "word": "被99%中国男人羡慕的女生",
+        "onboard_time": 1747286362,
+        "rank": 11,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 562600,
+        "num": 481236,
+        "word": "王大陆逃兵服役看许光汉表演",
+        "onboard_time": 1747283785,
+        "rank": 12,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 109779,
+        "num": 479568,
+        "word": "新工体夏日歌会门票免费",
+        "onboard_time": 1747291341,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25494,
+        "num": 466593,
+        "word": "叶童3年前决定保留原发色",
+        "onboard_time": 1747290682,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53304,
+        "num": 455527,
+        "word": "男子躲查酒驾钻警车底3小时不出",
+        "onboard_time": 1747290682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53302,
+        "num": 449311,
+        "word": "爸爸当家宝宝撞脸金珉奎",
+        "onboard_time": 1747290262,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562126,
+        "num": 440013,
+        "word": "曝病重老人被要求亲自取钱在银行去世",
+        "onboard_time": 1747280843,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26021,
+        "num": 427004,
+        "word": "NBA流量大队淘汰后哪只球队值得看",
+        "onboard_time": 1747290740,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559922,
+        "num": 414130,
+        "word": "刘晓庆被举报偷税",
+        "onboard_time": 1747278321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544655,
+        "num": 404386,
+        "word": "原来处女膜一直都在被误解",
+        "onboard_time": 1747265359,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404014,
+        "num": 404014,
+        "word": "赵丽颖带想想逛公园",
+        "onboard_time": 1747284922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390896,
+        "num": 390896,
+        "word": "农行回应重病客户取款时不幸去世",
+        "onboard_time": 1747282343,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379114,
+        "num": 379114,
+        "word": "黄金价格",
+        "onboard_time": 1747283423,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62162,
+        "num": 340102,
+        "word": "郑钦文罗马赛史上胜场最多中国女球员",
+        "onboard_time": 1747290623,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223726,
+        "num": 331682,
+        "word": "心疼李艺彤",
+        "onboard_time": 1747285403,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329602,
+        "num": 329602,
+        "word": "关晓彤回应无名指戒指",
+        "onboard_time": 1747266561,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9731,
+        "num": 271979,
+        "word": "遥控取钱如何利用线下渠道转移资金",
+        "onboard_time": 1747291582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87485,
+        "num": 260932,
+        "word": "邱贻可说马龙当几年教练也这样",
+        "onboard_time": 1747290682,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18411,
+        "num": 253052,
+        "word": "上官正义净干替老百姓出头的事",
+        "onboard_time": 1747289843,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251679,
+        "num": 251679,
+        "word": "病重老人在银行取钱去世家属发声",
+        "onboard_time": 1747281444,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176745,
+        "num": 251229,
+        "word": "赵樱子带弟弟走红毯",
+        "onboard_time": 1747291643,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250973,
+        "num": 250973,
+        "word": "黄杨钿甜 葛莉莎",
+        "onboard_time": 1747273880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233760,
+        "num": 233760,
+        "word": "伊朗",
+        "onboard_time": 1747282943,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221150,
+        "num": 221150,
+        "word": "何洛洛夏之光一起去赵磊婚礼",
+        "onboard_time": 1747288762,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207025,
+        "num": 207025,
+        "word": "转人工客服怎么这么难",
+        "onboard_time": 1747282284,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 206825,
+        "num": 206825,
+        "word": "蒋敦豪直播",
+        "onboard_time": 1747291341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202510,
+        "num": 202510,
+        "word": "家属质疑银行规定致病人取款时离世",
+        "onboard_time": 1747289482,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200245,
+        "num": 200245,
+        "word": "Labubu",
+        "onboard_time": 1747290803,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 20597,
+        "num": 194036,
+        "word": "黄文秀牺牲的时候才30岁",
+        "onboard_time": 1747289783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193569,
+        "num": 193569,
+        "word": "35岁工程师患胃癌晚期家中3人有胃癌",
+        "onboard_time": 1747281983,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 191068,
+        "word": "警方回应重病老人在银行取钱去世",
+        "onboard_time": 1747289902,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 190813,
+        "num": 190813,
+        "word": "被救同学苏醒先问姜昭鹏赶上考试没",
+        "onboard_time": 1747275021,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183783,
+        "num": 183783,
+        "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
+        "onboard_time": 1747277661,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177152,
+        "num": 177152,
+        "word": "巴特勒拒投",
+        "onboard_time": 1747289962,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172912,
+        "num": 172912,
+        "word": "甲状腺是垃圾情绪的靶器官",
+        "onboard_time": 1747290022,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60065,
+        "num": 170396,
+        "word": "孙颖莎王曼昱等集结多哈",
+        "onboard_time": 1747291701,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168182,
+        "num": 168182,
+        "word": "工作室删除范丞丞撕拉片",
+        "onboard_time": 1747274242,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152951,
+        "num": 152951,
+        "word": "李亚鹏经济状况不好再次搬家",
+        "onboard_time": 1747272742,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148539,
+        "num": 148539,
+        "word": "虞书欣95后高能量女教师",
+        "onboard_time": 1747291223,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信中国丹麦商会负责人#"
+    }
+  }
+}
