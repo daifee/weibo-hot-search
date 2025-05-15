@@ -1,6 +1,6 @@
 {
   "startTime": 1747240325941,
-  "endTime": 1747305980913,
+  "endTime": 1747308137374,
   "band_list": [
     {
       "raw_hot": 4209075,
@@ -9,6 +9,14 @@
       "onboard_time": 1747278321,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3006518,
+      "num": 3006518,
+      "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+      "onboard_time": 1747305682,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2881141,
@@ -227,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696383,
+      "num": 696383,
+      "word": "上海10岁女孩确诊长发公主综合征",
+      "onboard_time": 1747306703,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 691488,
       "num": 349534,
       "word": "林志玲抱儿子睡在抱枕上导致脸过敏了",
       "onboard_time": 1747277661,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 684923,
+      "num": 684923,
+      "word": "台湾地区",
+      "onboard_time": 1747305623,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 671508,
@@ -249,6 +273,14 @@
       "onboard_time": 1747292182,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 607920,
+      "num": 607920,
+      "word": "温州一母亲疑殴打女儿致死",
+      "onboard_time": 1747304603,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 607185,
@@ -313,14 +345,6 @@
       "onboard_time": 1747282943,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 542025,
-      "num": 398770,
-      "word": "温州一母亲疑殴打女儿致死",
-      "onboard_time": 1747304603,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 537893,
@@ -425,6 +449,14 @@
       "onboard_time": 1747230443,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 477796,
+      "num": 477796,
+      "word": "原来微信过期图片是可以找回的",
+      "onboard_time": 1747303882,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 470699,
@@ -675,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323196,
-      "num": 323196,
-      "word": "原来微信过期图片是可以找回的",
-      "onboard_time": 1747303882,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 320729,
       "num": 382508,
       "word": "幽门螺杆菌是胃癌的明确致病因素",
@@ -905,6 +929,14 @@
       "onboard_time": 1747238242,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257033,
+      "num": 610369,
+      "word": "在银行取款死亡的62岁老人",
+      "onboard_time": 1747305922,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255490,
@@ -1211,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206801,
+      "num": 206801,
+      "word": "警方通报男子广州南站持刀伤人",
+      "onboard_time": 1747307844,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 206654,
       "num": 206654,
       "word": "爷爷忘了很多唯独没忘我爱你",
@@ -1224,6 +1264,14 @@
       "word": "枯藤老树昏猫",
       "onboard_time": 1747280001,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202118,
+      "num": 202118,
+      "word": "出趟国还以为自己回国了",
+      "onboard_time": 1747307243,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -1339,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194192,
-      "num": 194192,
-      "word": "台湾地区",
-      "onboard_time": 1747305623,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 193082,
       "num": 192122,
       "word": "俄向印兜售S500防空系统",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1747279282,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190606,
+      "num": 190606,
+      "word": "唐嫣被海风偏爱的美",
+      "onboard_time": 1747307483,
+      "rank": 34,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 189306,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1747282461,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186871,
+      "num": 186871,
+      "word": "军情六处候选人曾在湖北大学任教",
+      "onboard_time": 1747305682,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185944,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1747287443,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183232,
-      "num": 183232,
-      "word": "军情六处候选人曾在湖北大学任教",
-      "onboard_time": 1747305682,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 182876,
@@ -1771,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164504,
+      "num": 164504,
+      "word": "小米SU7大灯外框被爆翘边",
+      "onboard_time": 1747305922,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164428,
       "num": 164428,
       "word": "王一博周深的歌入选2024优秀歌曲",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1747271431,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161024,
+      "num": 229858,
+      "word": "果然再见爱人的本质就是换乘恋爱",
+      "onboard_time": 1747306403,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 160862,
@@ -1851,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152370,
+      "num": 152370,
+      "word": "KT终结HLE11连胜",
+      "onboard_time": 1747307001,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152022,
       "num": 333638,
       "word": "买下300方大平层邻居全用来办公",
@@ -1907,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148404,
+      "num": 148404,
+      "word": "幽门螺杆菌不会自行消除",
+      "onboard_time": 1747304304,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 148029,
       "num": 148029,
       "word": "国乒女单4人守4个区",
@@ -1937,6 +2017,14 @@
       "onboard_time": 1747267402,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146314,
+      "num": 427851,
+      "word": "义乌老板说因关税滞留的货早卖掉了",
+      "onboard_time": 1747304903,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145578,
@@ -2001,6 +2089,14 @@
       "onboard_time": 1747300044,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141818,
+      "num": 141818,
+      "word": "有这3个特性的人更易发生猝死",
+      "onboard_time": 1747307844,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141593,
@@ -2148,11 +2244,19 @@
     },
     {
       "raw_hot": 131565,
-      "num": 410052,
+      "num": 418848,
       "word": "梁伟铿王昶的新队友",
       "onboard_time": 1747305322,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131014,
+      "num": 131014,
+      "word": "变形计王晨正宣布求婚成功",
+      "onboard_time": 1747307543,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 130253,
@@ -2171,12 +2275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128939,
-      "num": 128939,
-      "word": "小米SU7大灯外框被爆翘边",
-      "onboard_time": 1747305922,
-      "rank": 48,
-      "category": "汽车"
+      "raw_hot": 128750,
+      "num": 128750,
+      "word": "张雅钦大青衣味儿太对了",
+      "onboard_time": 1747307304,
+      "rank": 45,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 128522,
@@ -2291,14 +2395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121082,
-      "num": 121082,
-      "word": "在银行取款死亡的62岁老人",
-      "onboard_time": 1747305922,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118943,
       "num": 137234,
       "word": "京城大师赛",
@@ -2331,20 +2427,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112541,
-      "num": 427851,
-      "word": "义乌老板说因关税滞留的货早卖掉了",
-      "onboard_time": 1747304903,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111961,
       "num": 111961,
       "word": "京东外卖",
       "onboard_time": 1747273280,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111758,
+      "num": 233618,
+      "word": "樊振东回应成为上海城市文明大使",
+      "onboard_time": 1747304540,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111328,
+      "num": 111328,
+      "word": "宋妍霏一套衣服两种季节",
+      "onboard_time": 1747308082,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 107275,
@@ -2731,14 +2835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71600,
-      "num": 233618,
-      "word": "樊振东回应成为上海城市文明大使",
-      "onboard_time": 1747304540,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71535,
       "num": 248167,
       "word": "南昌大学惊现舌尖上的教学",
@@ -3027,14 +3123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44564,
-      "num": 332956,
-      "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
-      "onboard_time": 1747305682,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 44214,
       "num": 351889,
       "word": "医生推荐一名患者获200元好处费",
@@ -3091,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40954,
+      "num": 417108,
+      "word": "理发师偷拍顾客照片上传社交平台",
+      "onboard_time": 1747307723,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40145,
       "num": 139132,
       "word": "伊朗愿承诺销毁高浓缩铀库存",
@@ -3139,6 +3235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 36701,
+      "num": 216333,
+      "word": "印巴到底谁在撒谎",
+      "onboard_time": 1747307064,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35527,
       "num": 275743,
       "word": "勇士没能等到库里回来",
@@ -3171,12 +3275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32464,
+      "num": 218242,
+      "word": "七旬老人赶公交途中摔倒公交该赔吗",
+      "onboard_time": 1747307483,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31921,
       "num": 406451,
       "word": "学生该不该用AI做作业",
       "onboard_time": 1747305142,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 31803,
+      "num": 211621,
+      "word": "PEL老板局",
+      "onboard_time": 1747307603,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 30167,
@@ -3299,6 +3419,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 21945,
+      "num": 265908,
+      "word": "长期过度防晒对骨骼健康有什么影响",
+      "onboard_time": 1747307782,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21298,
       "num": 254265,
       "word": "消费者如何辨别鸡蛋是否兽药超标",
@@ -3401,6 +3529,14 @@
       "onboard_time": 1747289783,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13481,
+      "num": 231594,
+      "word": "印若购入 S500如何融入现有防空网",
+      "onboard_time": 1747306882,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12850,
