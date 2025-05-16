@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747400769216,
+  "endTime": 1747402541473,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4493486,
+      "num": 521756,
+      "word": "难听",
+      "onboard_time": 1739278102,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 4490343,
       "num": 253769,
       "word": "海底捞已报案",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1738552467,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4410470,
+      "num": 4410470,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 4382418,
@@ -1467,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3998028,
-      "num": 3593721,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3957531,
       "num": 4915063,
       "word": "马龙乒协副主席",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1735689496,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3892301,
+      "num": 227856,
+      "word": "单依纯太牛了",
+      "onboard_time": 1747402046,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3885539,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1744190723,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3126539,
-      "num": 3253079,
-      "word": "汤加群岛7.3级地震",
-      "onboard_time": 1743339381,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 3123367,
-      "num": 628056,
-      "word": "范思哲取关",
-      "onboard_time": 1738839504,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

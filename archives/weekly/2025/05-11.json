@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747400769216,
+  "endTime": 1747402541473,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -43,6 +43,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4493486,
+      "num": 225978,
+      "word": "难听",
+      "onboard_time": 1747401083,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4410470,
+      "num": 4410470,
+      "word": "歌手直播",
+      "onboard_time": 1747394482,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4209075,
       "num": 4209075,
       "word": "刘晓庆被举报偷税",
@@ -59,10 +75,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3998028,
-      "num": 3593721,
-      "word": "歌手直播",
-      "onboard_time": 1747394482,
+      "raw_hot": 3892301,
+      "num": 227856,
+      "word": "单依纯太牛了",
+      "onboard_time": 1747402046,
       "rank": 6,
       "category": "综艺"
     },
@@ -1347,6 +1363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 896577,
+      "num": 227591,
+      "word": "谁给林志炫做的造型",
+      "onboard_time": 1747401926,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 896558,
       "num": 476274,
       "word": "赵丽颖带想想逛公园",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1747148123,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618788,
+      "num": 465605,
+      "word": "刘宇宁 顺眼",
+      "onboard_time": 1747399040,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 617977,
@@ -3275,6 +3307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 458652,
+      "num": 402764,
+      "word": "任权薛小婉结婚",
+      "onboard_time": 1747399824,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 457972,
       "num": 457972,
       "word": "歌手2025首发阵容和经纪人",
@@ -3763,14 +3803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402764,
-      "num": 402764,
-      "word": "任权薛小婉结婚",
-      "onboard_time": 1747399824,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 401971,
       "num": 401971,
       "word": "罪犯潜入群聊约出女学生实施强奸",
@@ -4145,14 +4177,6 @@
       "onboard_time": 1746973042,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369788,
-      "num": 465605,
-      "word": "刘宇宁 顺眼",
-      "onboard_time": 1747399040,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 369595,
@@ -6587,6 +6611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225507,
+      "num": 463269,
+      "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+      "onboard_time": 1747398621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225325,
       "num": 225325,
       "word": "金龟子女儿回应蹭妈妈流量",
@@ -6979,6 +7011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216598,
+      "num": 216598,
+      "word": "宋雨琦冲刺看哭了",
+      "onboard_time": 1747401804,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216521,
       "num": 216521,
       "word": "花粉选的二番生",
@@ -7137,6 +7177,14 @@
       "onboard_time": 1747304482,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212585,
+      "num": 206979,
+      "word": "王珞丹 我没空陪你闹了",
+      "onboard_time": 1747401143,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 212087,
@@ -7689,14 +7737,6 @@
       "onboard_time": 1747312043,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 202137,
-      "num": 463269,
-      "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
-      "onboard_time": 1747398621,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202028,
@@ -8529,6 +8569,14 @@
       "onboard_time": 1747395322,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191250,
+      "num": 226935,
+      "word": "乌方称伊斯坦布尔谈判毫无成果",
+      "onboard_time": 1747401023,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191206,
@@ -9763,6 +9811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175147,
+      "num": 175147,
+      "word": "女子结婚用180克黄金手捧花做陪嫁",
+      "onboard_time": 1747401383,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175142,
       "num": 175142,
       "word": "yushi泡泡",
@@ -10147,6 +10203,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 169812,
+      "num": 169812,
+      "word": "林孝埈等待下个冬天",
+      "onboard_time": 1747402405,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169792,
       "num": 169792,
       "word": "GAI的拉布布是布瑞吉给的",
@@ -10417,6 +10481,14 @@
       "onboard_time": 1746977421,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166905,
+      "num": 166905,
+      "word": "填补了人不能进洗衣机的空白",
+      "onboard_time": 1747401743,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 166821,
@@ -11699,6 +11771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152842,
+      "num": 152842,
+      "word": "iG对战NIP",
+      "onboard_time": 1747398322,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152774,
       "num": 152774,
       "word": "鹿晗四巡新乐器",
@@ -12739,6 +12819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141209,
+      "num": 141209,
+      "word": "XG获ACLDOTA2总冠军",
+      "onboard_time": 1747402164,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141146,
       "num": 286234,
       "word": "汶川盲跳十五勇士今成社区守护者",
@@ -12792,6 +12880,14 @@
       "word": "smtown直播",
       "onboard_time": 1747017801,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140537,
+      "num": 140537,
+      "word": "玛利亚凯莉演唱会开场嘉宾张钰琪",
+      "onboard_time": 1747402405,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -12945,6 +13041,14 @@
       "onboard_time": 1747239140,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139230,
+      "num": 139230,
+      "word": "为什么有人很难进入亲密关系",
+      "onboard_time": 1747399162,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 139222,
@@ -13457,6 +13561,14 @@
       "onboard_time": 1747123762,
       "rank": 19,
       "category": "辟谣/通报,网红"
+    },
+    {
+      "raw_hot": 134368,
+      "num": 134368,
+      "word": "蒜鸟蒜鸟",
+      "onboard_time": 1747398084,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 134354,
@@ -14307,6 +14419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126042,
+      "num": 139539,
+      "word": "范丞丞跑姿漂亮",
+      "onboard_time": 1747402524,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125879,
       "num": 125879,
       "word": "小米多重风波背后的雷军",
@@ -14569,6 +14689,14 @@
       "onboard_time": 1746972983,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123051,
+      "num": 442234,
+      "word": "日本62岁男子因照顾太疲惫掐死母亲",
+      "onboard_time": 1747399763,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123036,
@@ -14867,6 +14995,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119878,
+      "num": 119878,
+      "word": "王楚钦赛前打台球放松",
+      "onboard_time": 1747402464,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119762,
       "num": 119762,
       "word": "吉克隽逸成都演唱会上座率",
@@ -15139,6 +15275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116940,
+      "num": 116940,
+      "word": "小米汽车副总裁辟谣",
+      "onboard_time": 1747401383,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116768,
       "num": 238030,
       "word": "字母哥生涯首次考虑是否离队",
@@ -15273,6 +15417,14 @@
       "onboard_time": 1747125681,
       "rank": 16,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 115284,
+      "num": 115284,
+      "word": "老外在戛纳点赞哪吒2和封神",
+      "onboard_time": 1747402524,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 115168,
@@ -15993,14 +16145,6 @@
       "onboard_time": 1746944481,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105247,
-      "num": 442234,
-      "word": "日本62岁男子因照顾太疲惫掐死母亲",
-      "onboard_time": 1747399763,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105185,
@@ -18747,6 +18891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54161,
+      "num": 207077,
+      "word": "连阳光都偏爱钟楚曦",
+      "onboard_time": 1747400727,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54120,
       "num": 189453,
       "word": "中年女性别再过度减肥",
@@ -20571,6 +20723,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 30275,
+      "num": 220454,
+      "word": "跑步方式不同会影响减脂速度和恢复吗",
+      "onboard_time": 1747402285,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 30167,
       "num": 235729,
       "word": "以军炸弹落入加沙一医院致28死",
@@ -20953,6 +21113,14 @@
       "onboard_time": 1746984916,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26074,
+      "num": 186573,
+      "word": "阿联酋迎接特朗普的特别方式",
+      "onboard_time": 1747402285,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25976,
@@ -21379,6 +21547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22209,
+      "num": 219359,
+      "word": "央视曝光字画竞拍传销陷阱",
+      "onboard_time": 1747401326,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22188,
       "num": 231303,
       "word": "巴方称曾拦截多枚巡航导弹",
@@ -21747,6 +21923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18463,
+      "num": 217334,
+      "word": "桂花酒酿和绿豆糕如何巧妙融合",
+      "onboard_time": 1747401383,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 18411,
       "num": 275684,
       "word": "上官正义净干替老百姓出头的事",
@@ -22105,14 +22289,6 @@
       "onboard_time": 1747200025,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15418,
-      "num": 184173,
-      "word": "连阳光都偏爱钟楚曦",
-      "onboard_time": 1747400727,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 15357,
