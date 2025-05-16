@@ -1,0 +1,410 @@
+{
+  "runTime": 1747388490448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612451,
+        "num": 1612451,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1395720,
+        "num": 1395720,
+        "word": "鹿晗歌词 默契得连分开都闭口不提",
+        "onboard_time": 1747385540,
+        "rank": 1,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 35835,
+        "num": 1376133,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1366794,
+        "num": 1366794,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744700,
+        "num": 744700,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632214,
+        "num": 632214,
+        "word": "北京冰雹",
+        "onboard_time": 1747385123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179078,
+        "num": 627507,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747388302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617321,
+        "num": 617321,
+        "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
+        "onboard_time": 1747387281,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515191,
+        "num": 515191,
+        "word": "女儿上网课被外教大吼母亲发声",
+        "onboard_time": 1747381342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77001,
+        "num": 515035,
+        "word": "王一新受贿超1.29亿被判无期",
+        "onboard_time": 1747387642,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35807,
+        "num": 514029,
+        "word": "时代少年团全员美团黑钻会员",
+        "onboard_time": 1747387104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1383815,
+        "num": 512508,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1147372,
+        "num": 511104,
+        "word": "知情人回应黄杨钿甜父亲职务问题",
+        "onboard_time": 1747368981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90775,
+        "num": 509954,
+        "word": "张艺兴请客京东外卖",
+        "onboard_time": 1747383202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189808,
+        "num": 508819,
+        "word": "香港地产巨头内地囤地牟取暴利",
+        "onboard_time": 1747386982,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 825617,
+        "num": 508357,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785525,
+        "num": 506327,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37927,
+        "num": 506018,
+        "word": "汽车安全技术进化论",
+        "onboard_time": 1747385902,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14178,
+        "num": 505081,
+        "word": "淄博酒店惊现摄像头隐私该如何保障",
+        "onboard_time": 1747387881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504041,
+        "num": 504041,
+        "word": "王楚钦冲击首个男单世界冠军",
+        "onboard_time": 1747379361,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 821855,
+        "num": 495871,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644841,
+        "num": 490148,
+        "word": "车里有条蛇不见了",
+        "onboard_time": 1747384521,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 628811,
+        "num": 476736,
+        "word": "赵磊请站姐参加婚礼",
+        "onboard_time": 1747383982,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275230,
+        "num": 463962,
+        "word": "张婧仪吃排骨把牙崩掉了",
+        "onboard_time": 1747378821,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34048,
+        "num": 450620,
+        "word": "花海在花的海洋里",
+        "onboard_time": 1747387881,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 270005,
+        "num": 438227,
+        "word": "鹿晗新歌歌词",
+        "onboard_time": 1747384162,
+        "rank": 25,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 256410,
+        "num": 427323,
+        "word": "短剧演员给内娱上强度了",
+        "onboard_time": 1747386502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423339,
+        "num": 423339,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29123,
+        "num": 387303,
+        "word": "领国补还是得听雷佳音的",
+        "onboard_time": 1747387104,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53738,
+        "num": 363020,
+        "word": "女生雨天被车溅水报警获赔50元",
+        "onboard_time": 1747387762,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361980,
+        "num": 361980,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314071,
+        "num": 314071,
+        "word": "200万买一对耳环的概念",
+        "onboard_time": 1747384642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299079,
+        "num": 299079,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297364,
+        "num": 297364,
+        "word": "今麦郎董事长称为娃哈哈生产12亿瓶水",
+        "onboard_time": 1747383742,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277431,
+        "num": 277431,
+        "word": "日本25岁男子沉迷手游致脖子长角",
+        "onboard_time": 1747387162,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238013,
+        "num": 238013,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216950,
+        "num": 216950,
+        "word": "罪犯潜入群聊约出女学生实施强奸",
+        "onboard_time": 1747382662,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216387,
+        "num": 216387,
+        "word": "巴基斯坦拟采购40架J35A",
+        "onboard_time": 1747385180,
+        "rank": 37,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 210592,
+        "num": 210592,
+        "word": "VOGUE活动",
+        "onboard_time": 1747387402,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 49485,
+        "num": 194742,
+        "word": "熟牛肉切片后为什么呈彩虹色",
+        "onboard_time": 1747387701,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 32208,
+        "num": 185362,
+        "word": "原来以前的屁屁都白擦了",
+        "onboard_time": 1747387822,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180798,
+        "num": 180798,
+        "word": "金价大跌金店赢麻了",
+        "onboard_time": 1747374380,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172355,
+        "num": 172355,
+        "word": "歌手2025",
+        "onboard_time": 1747388122,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155611,
+        "num": 155611,
+        "word": "女排朱婷妹妹被保送浙大受质疑",
+        "onboard_time": 1747375880,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93714,
+        "num": 154840,
+        "word": "多家正新鸡排曾因用过期食品被罚",
+        "onboard_time": 1747386262,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154311,
+        "num": 154311,
+        "word": "张真源 我要上麦",
+        "onboard_time": 1747388122,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41905,
+        "num": 144057,
+        "word": "哪些人应该做宫颈癌筛查",
+        "onboard_time": 1747386982,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143646,
+        "num": 143646,
+        "word": "王者荣耀",
+        "onboard_time": 1747385661,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136878,
+        "num": 136878,
+        "word": "迪士尼 吵架圣地",
+        "onboard_time": 1747387582,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132831,
+        "num": 132831,
+        "word": "奔跑吧13团建连麦局",
+        "onboard_time": 1747385722,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障残疾人平等权益#"
+    }
+  }
+}
