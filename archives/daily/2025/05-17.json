@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747417234506,
+  "endTime": 1747420471769,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -403,6 +403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67002,
+      "num": 124883,
+      "word": "智利总统称在中国受到极大尊重",
+      "onboard_time": 1747416977,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64734,
       "num": 181089,
       "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
@@ -467,19 +475,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41653,
+      "num": 57135,
+      "word": "一人一句欢迎国宝回家",
+      "onboard_time": 1747417935,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31869,
+      "num": 46755,
+      "word": "孟子义跑完马拉松累到认错人",
+      "onboard_time": 1747405228,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29081,
       "num": 1041204,
       "word": "数读我国南北港口亮眼成就",
       "onboard_time": 1747402765,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21713,
-      "num": 124883,
-      "word": "智利总统称在中国受到极大尊重",
-      "onboard_time": 1747416977,
-      "rank": 25,
       "category": "国内时政"
     }
   ],
