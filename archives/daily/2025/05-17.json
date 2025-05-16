@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747437838762,
+  "endTime": 1747438698413,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321139,
+      "num": 190129,
+      "word": "周思成称考研界刘晓燕英语水平最差",
+      "onboard_time": 1747437737,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 312348,
       "num": 185810,
       "word": "黄杨爸爸说耳环不是正品",
@@ -155,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246183,
+      "raw_hot": 253357,
       "num": 835245,
       "word": "男子失踪7年找到时正躺桥洞玩手机",
       "onboard_time": 1747409543,
@@ -171,11 +179,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229232,
+      "num": 197604,
+      "word": "单依纯发文",
+      "onboard_time": 1747437978,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228021,
       "num": 183227,
       "word": "袁娅维又在歌手后台出现了",
       "onboard_time": 1747411882,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226839,
+      "num": 195395,
+      "word": "超绝腰臀比",
+      "onboard_time": 1747403246,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -203,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186295,
+      "num": 186295,
+      "word": "奥运男女单冠军首缺席次年世乒赛",
+      "onboard_time": 1747424295,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186161,
       "num": 186440,
       "word": "越来越多间谍设备披上日常用品外衣",
       "onboard_time": 1747407205,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185824,
-      "num": 176951,
-      "word": "周思成称考研界刘晓燕英语水平最差",
-      "onboard_time": 1747437737,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 185638,
@@ -235,22 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178355,
-      "num": 178355,
-      "word": "奥运男女单冠军首缺席次年世乒赛",
-      "onboard_time": 1747424295,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176115,
-      "num": 176115,
-      "word": "超绝腰臀比",
-      "onboard_time": 1747403246,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161432,
       "num": 181738,
       "word": "陈楚生 李白",
@@ -259,20 +267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161339,
+      "num": 181225,
+      "word": "成毅放一个月假上了25节健身课",
+      "onboard_time": 1747414039,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156903,
       "num": 181834,
       "word": "刘宇宁 顺眼",
       "onboard_time": 1747399040,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152332,
-      "num": 181225,
-      "word": "成毅放一个月假上了25节健身课",
-      "onboard_time": 1747414039,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 149457,
@@ -323,12 +331,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "cp31",
+      "onboard_time": 1747437797,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 121127,
       "num": 152755,
       "word": "任权薛小婉结婚",
       "onboard_time": 1747399824,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 120235,
+      "num": 120235,
+      "word": "1岁10个月的宝宝自己泡夜奶",
+      "onboard_time": 1747437797,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 119508,
@@ -371,12 +395,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109662,
-      "num": 68585,
-      "word": "1岁10个月的宝宝自己泡夜奶",
-      "onboard_time": 1747437797,
-      "rank": 30,
-      "category": "母婴育儿"
+      "raw_hot": 100921,
+      "num": 182924,
+      "word": "男子质疑妻子两个孩子1天100不够吗",
+      "onboard_time": 1747394841,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97854,
+      "num": 97854,
+      "word": "马嘉祺回应揭榜",
+      "onboard_time": 1747437858,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 96406,
@@ -385,22 +417,6 @@
       "onboard_time": 1747358422,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94135,
-      "num": 182924,
-      "word": "男子质疑妻子两个孩子1天100不够吗",
-      "onboard_time": 1747394841,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93964,
-      "num": 93964,
-      "word": "cp31",
-      "onboard_time": 1747437797,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 92972,
@@ -451,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74344,
+      "num": 74344,
+      "word": "武艺首次披露父母离婚",
+      "onboard_time": 1747392800,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72640,
       "num": 180927,
       "word": "成为干净纯粹的自己",
@@ -475,20 +499,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 68401,
+      "num": 68401,
+      "word": "俄方要求控制乌克兰5个地区",
+      "onboard_time": 1747437737,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67002,
       "num": 124883,
       "word": "智利总统称在中国受到极大尊重",
       "onboard_time": 1747416977,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66415,
-      "num": 66415,
-      "word": "武艺首次披露父母离婚",
-      "onboard_time": 1747392800,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 62351,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 58819,
-      "num": 58819,
+      "num": 65573,
       "word": "孟子义跑完马拉松累到认错人",
       "onboard_time": 1747405228,
       "rank": 44,
@@ -521,14 +545,6 @@
       "onboard_time": 1747409603,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52301,
-      "num": 52301,
-      "word": "俄方要求控制乌克兰5个地区",
-      "onboard_time": 1747437737,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51215,
@@ -556,11 +572,19 @@
     },
     {
       "raw_hot": 47166,
-      "num": 47166,
+      "num": 65477,
       "word": "绝对不能放进微波炉的东西",
       "onboard_time": 1747437797,
       "rank": 47,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 43335,
+      "num": 193650,
+      "word": "俄乌将进行千人对千人换俘",
+      "onboard_time": 1747437737,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41653,
@@ -569,14 +593,6 @@
       "onboard_time": 1747417935,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32645,
-      "num": 52658,
-      "word": "俄乌将进行千人对千人换俘",
-      "onboard_time": 1747437737,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29304,
