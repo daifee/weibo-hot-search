@@ -1,0 +1,410 @@
+{
+  "runTime": 1747360742316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1400651,
+        "num": 1400651,
+        "word": "侯佩岑陈乔恩被台当局威胁查处",
+        "onboard_time": 1747351879,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685508,
+        "num": 685508,
+        "word": "京津冀局地11级雷暴大风或大冰雹",
+        "onboard_time": 1747357342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52641,
+        "num": 648568,
+        "word": "降准释放了明确稳增长的积极信号",
+        "onboard_time": 1747316424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 646169,
+        "num": 646169,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636290,
+        "num": 636290,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468143,
+        "num": 468143,
+        "word": "2025年端午节放假不调休",
+        "onboard_time": 1747355421,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558030,
+        "num": 453633,
+        "word": "折腰走势",
+        "onboard_time": 1747355421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419374,
+        "num": 419374,
+        "word": "金价一跌再跌网友直呼亏麻了",
+        "onboard_time": 1747320263,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328074,
+        "num": 328074,
+        "word": "黄金",
+        "onboard_time": 1747355061,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251617,
+        "num": 327509,
+        "word": "俄乌伊斯坦布尔谈判今日开始",
+        "onboard_time": 1747360221,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1067803,
+        "num": 327097,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027459,
+        "num": 326180,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583457,
+        "num": 325368,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528598,
+        "num": 323981,
+        "word": "杜淳妻子体检被误诊",
+        "onboard_time": 1747351280,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323593,
+        "num": 323593,
+        "word": "欧阳娜娜等20多人被台当局威胁",
+        "onboard_time": 1747321464,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447423,
+        "num": 320682,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 382748,
+        "num": 317353,
+        "word": "7人帮刮奖刮出100万每人分1万",
+        "onboard_time": 1747324102,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330930,
+        "num": 315639,
+        "word": "刘晓庆回应被指偷税",
+        "onboard_time": 1747321584,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288366,
+        "num": 309601,
+        "word": "姜广涛获国赔",
+        "onboard_time": 1747322183,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68154,
+        "num": 307130,
+        "word": "小屁事也是人生大事",
+        "onboard_time": 1747359502,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676205,
+        "num": 302544,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 20,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 300311,
+        "num": 300311,
+        "word": "董某莹四项证书被撤销",
+        "onboard_time": 1747311022,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 299554,
+        "num": 299554,
+        "word": "原来梨形身材是基因彩票",
+        "onboard_time": 1747357342,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 282363,
+        "num": 282363,
+        "word": "参加赵磊婚礼的明星",
+        "onboard_time": 1747354641,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265913,
+        "num": 265913,
+        "word": "俄方将等待乌代表团",
+        "onboard_time": 1747359200,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215250,
+        "num": 215250,
+        "word": "雷军说十年饮冰难凉热血",
+        "onboard_time": 1747359920,
+        "rank": 25,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 180543,
+        "num": 180543,
+        "word": "在银行去世老人家属放弃送医",
+        "onboard_time": 1747323982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170524,
+        "num": 170524,
+        "word": "税务局回应刘晓庆被举报偷漏税",
+        "onboard_time": 1747356801,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 158166,
+        "num": 158166,
+        "word": "法医秦明我的吓饭剧又回来了",
+        "onboard_time": 1747353141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126025,
+        "num": 152248,
+        "word": "法医秦明",
+        "onboard_time": 1747358660,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201492,
+        "num": 151490,
+        "word": "多哈世乒赛周六开赛",
+        "onboard_time": 1747360640,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146972,
+        "num": 146972,
+        "word": "董袭莹博士论文与他人重复率超20%",
+        "onboard_time": 1747319904,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 134640,
+        "word": "猫 我在这里睡就不会被打扰了",
+        "onboard_time": 1747357941,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139997,
+        "num": 133776,
+        "word": "肖某事件涉及单位人员正被调查",
+        "onboard_time": 1747312043,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 126801,
+        "num": 126801,
+        "word": "周五的期待效应",
+        "onboard_time": 1747352060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133737,
+        "num": 126733,
+        "word": "肖某被吊销医师执业证书",
+        "onboard_time": 1747311082,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 125279,
+        "num": 125279,
+        "word": "外国博主溜进中国汽车工厂破防了",
+        "onboard_time": 1747358301,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123955,
+        "num": 123955,
+        "word": "谈判桌之外俄乌战事依旧",
+        "onboard_time": 1747358541,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 122651,
+        "word": "祝绪丹给粉丝买了生日蛋糕",
+        "onboard_time": 1747357461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122106,
+        "num": 122106,
+        "word": "巴萨场内庆祝遭喷水",
+        "onboard_time": 1747360101,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119737,
+        "num": 119737,
+        "word": "喜茶回应奶茶被放入微波炉加热着火",
+        "onboard_time": 1747315105,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115169,
+        "num": 115169,
+        "word": "郑钦文无缘罗马赛决赛",
+        "onboard_time": 1747350920,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111975,
+        "num": 111975,
+        "word": "全球经济前景恶化",
+        "onboard_time": 1747359502,
+        "rank": 42,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 111494,
+        "num": 111494,
+        "word": "于正大赞苦尽柑来",
+        "onboard_time": 1747357042,
+        "rank": 43,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 140363,
+        "num": 111123,
+        "word": "折腰",
+        "onboard_time": 1747352360,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110526,
+        "num": 110526,
+        "word": "新冠感染又抬头",
+        "onboard_time": 1747321584,
+        "rank": 45,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 108886,
+        "num": 108886,
+        "word": "红尘四合开机",
+        "onboard_time": 1747360581,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103585,
+        "num": 103585,
+        "word": "杨瀚森联合试训后续流程",
+        "onboard_time": 1747359681,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99503,
+        "num": 99503,
+        "word": "朱雀玄武敕令这次改名成功了",
+        "onboard_time": 1747351759,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96480,
+        "num": 96480,
+        "word": "世乒赛孙颖莎海报",
+        "onboard_time": 1747358961,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良党风引领社风民风#"
+    }
+  }
+}
