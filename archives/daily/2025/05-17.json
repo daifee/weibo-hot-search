@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747430634542,
+  "endTime": 1747431503812,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -387,8 +387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74712,
-      "num": 41535,
+      "raw_hot": 77671,
+      "num": 44835,
       "word": "奥运男女单冠军首缺席次年世乒赛",
       "onboard_time": 1747424295,
       "rank": 18,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30567,
+      "num": 30567,
+      "word": "女子称家中三人吃千层蛋糕后入院",
+      "onboard_time": 1747428554,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27549,
-      "num": 27549,
-      "word": "女子称家中三人吃千层蛋糕后入院",
-      "onboard_time": 1747428554,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26944,
       "num": 38615,
       "word": "河流",
@@ -539,20 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12597,
+      "num": 41888,
+      "word": "5000年前古人把世界观刻在玉龟上",
+      "onboard_time": 1747430113,
+      "rank": 11,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 11469,
       "num": 36801,
       "word": "祝贺蔡磊获评全国自强模范",
       "onboard_time": 1747427715,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9626,
-      "num": 41888,
-      "word": "5000年前古人把世界观刻在玉龟上",
-      "onboard_time": 1747430113,
-      "rank": 11,
-      "category": "民生新闻,科学科普"
     }
   ],
   "hotgov_list": [
