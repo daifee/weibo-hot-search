@@ -1,0 +1,410 @@
+{
+  "runTime": 1747384420038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929190,
+        "num": 1148670,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 909671,
+        "num": 909671,
+        "word": "王楚钦冲击首个男单世界冠军",
+        "onboard_time": 1747379361,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6830,
+        "num": 682416,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617992,
+        "num": 617992,
+        "word": "张婧仪吃排骨把牙崩掉了",
+        "onboard_time": 1747378821,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609969,
+        "num": 609969,
+        "word": "李溪芮重回古装赛道",
+        "onboard_time": 1747383082,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417286,
+        "num": 417286,
+        "word": "女排朱婷妹妹被保送浙大受质疑",
+        "onboard_time": 1747375880,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1138229,
+        "num": 383653,
+        "word": "代孕",
+        "onboard_time": 1747379902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567342,
+        "num": 360927,
+        "word": "警方在霉霉豪宅附近发现人类遗骸",
+        "onboard_time": 1747375941,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327196,
+        "num": 327196,
+        "word": "罪犯潜入群聊约出女学生实施强奸",
+        "onboard_time": 1747382662,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314660,
+        "num": 314660,
+        "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+        "onboard_time": 1747375401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1107530,
+        "num": 314459,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 994597,
+        "num": 314284,
+        "word": "官方回应黄杨钿甜父亲职务问题",
+        "onboard_time": 1747368981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7053,
+        "num": 313950,
+        "word": "共享数字经济发展机遇",
+        "onboard_time": 1747316364,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982287,
+        "num": 313482,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749834,
+        "num": 313264,
+        "word": "娃哈哈变得面目全非令人唏嘘",
+        "onboard_time": 1747374980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524976,
+        "num": 313104,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 925294,
+        "num": 312662,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236666,
+        "num": 312283,
+        "word": "鹿晗新歌歌词",
+        "onboard_time": 1747384162,
+        "rank": 17,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 57733,
+        "num": 311959,
+        "word": "张艺兴请客京东外卖",
+        "onboard_time": 1747383202,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24913,
+        "num": 311602,
+        "word": "宇宙终结时间会因为哪些因素而改变",
+        "onboard_time": 1747383382,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 228855,
+        "num": 311260,
+        "word": "张婧仪方辟谣",
+        "onboard_time": 1747378581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186550,
+        "num": 311120,
+        "word": "奔跑吧",
+        "onboard_time": 1747383982,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154962,
+        "num": 310733,
+        "word": "侯佩岑拒绝李晟",
+        "onboard_time": 1747374562,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84081,
+        "num": 310448,
+        "word": "厨房有必要装空调吗",
+        "onboard_time": 1747381641,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82290,
+        "num": 310070,
+        "word": "张本智和表态世乒赛夺金",
+        "onboard_time": 1747379182,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131465,
+        "num": 309752,
+        "word": "张凌赫Mai合照",
+        "onboard_time": 1747382962,
+        "rank": 25,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 11779,
+        "num": 309424,
+        "word": "厨房装空调需要考虑哪些位置原因",
+        "onboard_time": 1747384281,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 8833,
+        "num": 309199,
+        "word": "周思成是怎么保持高能量的",
+        "onboard_time": 1747379001,
+        "rank": 27,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 31885,
+        "num": 309000,
+        "word": "7%受访者被索要好评时反给差评",
+        "onboard_time": 1747383261,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228509,
+        "num": 308689,
+        "word": "贵州通报正新鸡排鸡腿里面全是蛆",
+        "onboard_time": 1747382903,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 149289,
+        "num": 308377,
+        "word": "一张绝美的脸后面还是一张美脸",
+        "onboard_time": 1747380021,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83464,
+        "num": 307971,
+        "word": "北京再发冰雹黄色预警",
+        "onboard_time": 1747382662,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50059,
+        "num": 307703,
+        "word": "村医培训途中车祸遇难工亡索赔被拒",
+        "onboard_time": 1747382782,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365842,
+        "num": 307451,
+        "word": "赵磊请站姐参加婚礼",
+        "onboard_time": 1747383982,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307229,
+        "num": 307229,
+        "word": "北京国贸偶遇鹿晗",
+        "onboard_time": 1747378522,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257026,
+        "num": 257026,
+        "word": "世乒赛男单将迎新王",
+        "onboard_time": 1747382601,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253141,
+        "num": 253141,
+        "word": "陈梦工作室来了",
+        "onboard_time": 1747379001,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251083,
+        "num": 251083,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230243,
+        "num": 230243,
+        "word": "女儿上网课被外教大吼母亲发声",
+        "onboard_time": 1747381342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215931,
+        "num": 215931,
+        "word": "金价大跌金店赢麻了",
+        "onboard_time": 1747374380,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124875,
+        "num": 205422,
+        "word": "谢娜一秒猜出张杰的歌",
+        "onboard_time": 1747383082,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39086,
+        "num": 204442,
+        "word": "子宫颈为什么会发生癌变",
+        "onboard_time": 1747382480,
+        "rank": 41,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 203518,
+        "num": 203518,
+        "word": "宋茜真拍了撕拉片",
+        "onboard_time": 1747384403,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197593,
+        "num": 197593,
+        "word": "今麦郎董事长称为娃哈哈生产12亿瓶水",
+        "onboard_time": 1747383742,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196916,
+        "num": 196916,
+        "word": "一家四口驾车遇山体落石丈夫身亡",
+        "onboard_time": 1747380382,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162169,
+        "num": 162169,
+        "word": "男子不明原因腹泻一年暴瘦至67斤",
+        "onboard_time": 1747369522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159801,
+        "num": 159801,
+        "word": "真实的剖腹产",
+        "onboard_time": 1747377621,
+        "rank": 46,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 145101,
+        "num": 145101,
+        "word": "北京将再现雷暴大风和冰雹",
+        "onboard_time": 1747384102,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135535,
+        "num": 135535,
+        "word": "下去个蒋一侨上来个侯佩岑2.0",
+        "onboard_time": 1747384403,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 132972,
+        "word": "赵樱子被外国帅哥搭讪",
+        "onboard_time": 1747378161,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是外商理想安全有为的投资目的地#"
+    }
+  }
+}
