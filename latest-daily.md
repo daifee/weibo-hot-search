@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/17 00:31:50 ~ 2025/05/17 02:47:57
+本榜单时间：2025/05/17 00:31:50 ~ 2025/05/17 03:20:55
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ ACL总决赛（热度：51215）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E8%B7%91%E5%AE%8C%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%B4%AF%E5%88%B0%E8%AE%A4%E9%94%99%E4%BA%BA%23" target="weibo">
 孟子义跑完马拉松累到认错人（热度：31869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23ELLEMEN%E5%A3%B0%E6%98%8E%23" target="weibo">
+ELLEMEN声明（热度：29304）
 </a>
 </li>
 

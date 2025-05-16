@@ -1,0 +1,410 @@
+{
+  "runTime": 1747423255276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326018,
+        "num": 326018,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292183,
+        "num": 292183,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14837,
+        "num": 202636,
+        "word": "数读我国南北港口亮眼成就",
+        "onboard_time": 1747402765,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160053,
+        "num": 160053,
+        "word": "14亿中国人挺你",
+        "onboard_time": 1747413800,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108380,
+        "num": 108380,
+        "word": "代孕机构称客户大多要求大学生",
+        "onboard_time": 1747407505,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 55568,
+        "num": 55568,
+        "word": "流失美国79年的2卷帛书要回家了",
+        "onboard_time": 1747409603,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116582,
+        "num": 55310,
+        "word": "单依纯太牛了",
+        "onboard_time": 1747402046,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116425,
+        "num": 54064,
+        "word": "今年的歌手也太会玩了",
+        "onboard_time": 1747408345,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107638,
+        "num": 53528,
+        "word": "林志炫 被做局了",
+        "onboard_time": 1747407086,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51198,
+        "num": 51198,
+        "word": "男子失踪7年找到时正躺桥洞玩手机",
+        "onboard_time": 1747409543,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 50135,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 48845,
+        "word": "难听",
+        "onboard_time": 1747401083,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79931,
+        "num": 47431,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79883,
+        "num": 46848,
+        "word": "最稳的居然是GAI",
+        "onboard_time": 1747407265,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45834,
+        "num": 45834,
+        "word": "河南一医院被曝疑用手铐控制一女子",
+        "onboard_time": 1747406786,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66847,
+        "num": 45562,
+        "word": "歌手直播",
+        "onboard_time": 1747394482,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61817,
+        "num": 45425,
+        "word": "黄杨爸爸说耳环不是正品",
+        "onboard_time": 1747394723,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45059,
+        "num": 45059,
+        "word": "深圳一女子应聘文员被回复太丑了",
+        "onboard_time": 1747405289,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40588,
+        "num": 40588,
+        "word": "越来越多间谍设备披上日常用品外衣",
+        "onboard_time": 1747407205,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39111,
+        "num": 39111,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61801,
+        "num": 39107,
+        "word": "马嘉祺揭榜",
+        "onboard_time": 1747407146,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55557,
+        "num": 38952,
+        "word": "单依纯第一",
+        "onboard_time": 1747406905,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54629,
+        "num": 38832,
+        "word": "陈楚生能第二",
+        "onboard_time": 1747407325,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48980,
+        "num": 38689,
+        "word": "BENI淘汰",
+        "onboard_time": 1747407146,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41106,
+        "num": 38553,
+        "word": "珠玉 跳楼机",
+        "onboard_time": 1747406487,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40315,
+        "num": 38460,
+        "word": "任权薛小婉结婚",
+        "onboard_time": 1747399824,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38442,
+        "num": 38442,
+        "word": "刘宇宁 顺眼",
+        "onboard_time": 1747399040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34148,
+        "num": 34148,
+        "word": "智利总统称在中国受到极大尊重",
+        "onboard_time": 1747416977,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33387,
+        "num": 33387,
+        "word": "一人一句欢迎国宝回家",
+        "onboard_time": 1747417935,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30083,
+        "num": 32840,
+        "word": "男子质疑妻子两个孩子1天100不够吗",
+        "onboard_time": 1747394841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35696,
+        "num": 32835,
+        "word": "R1SE成员祝福赵磊VCR",
+        "onboard_time": 1747408224,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35435,
+        "num": 32820,
+        "word": "歌手排名",
+        "onboard_time": 1747406066,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32800,
+        "num": 32800,
+        "word": "耳帝喜欢的三个表演",
+        "onboard_time": 1747413382,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30747,
+        "num": 32793,
+        "word": "成毅放一个月假上了25节健身课",
+        "onboard_time": 1747414039,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28363,
+        "num": 32781,
+        "word": "印尼高价采购阵风战机受质疑",
+        "onboard_time": 1747411163,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30104,
+        "num": 32772,
+        "word": "陈楚生 李白",
+        "onboard_time": 1747400124,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29908,
+        "num": 32762,
+        "word": "白举纲 大白嗓",
+        "onboard_time": 1747407086,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29304,
+        "num": 32756,
+        "word": "ELLEMEN声明",
+        "onboard_time": 1747422194,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25200,
+        "num": 32744,
+        "word": "医院回应急救人员所用手铐为约束带",
+        "onboard_time": 1747414519,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24109,
+        "num": 32729,
+        "word": "成为干净纯粹的自己",
+        "onboard_time": 1747411643,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28214,
+        "num": 32723,
+        "word": "表妹万福 陈鑫海",
+        "onboard_time": 1747412123,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26785,
+        "num": 32716,
+        "word": "袁娅维又在歌手后台出现了",
+        "onboard_time": 1747411882,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24834,
+        "num": 32704,
+        "word": "汪苏泷为歌手2025加油",
+        "onboard_time": 1747409663,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23906,
+        "num": 32695,
+        "word": "20多个台湾艺人被民进党当局威胁",
+        "onboard_time": 1747407925,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22685,
+        "num": 32686,
+        "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
+        "onboard_time": 1747387281,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23069,
+        "num": 32678,
+        "word": "孟子义跑完马拉松累到认错人",
+        "onboard_time": 1747405228,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22010,
+        "num": 32668,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20214,
+        "num": 32656,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19580,
+        "num": 32649,
+        "word": "吴艳妮打破首高女子100栏纪录",
+        "onboard_time": 1747408224,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15935,
+        "num": 32629,
+        "word": "王楚钦说每一场都要全力以赴",
+        "onboard_time": 1747412541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从自强模范身上汲取精神力量#"
+    }
+  }
+}

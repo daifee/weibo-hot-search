@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747421277019,
+  "endTime": 1747423255276,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -489,6 +489,14 @@
       "onboard_time": 1747405228,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29304,
+      "num": 32756,
+      "word": "ELLEMEN声明",
+      "onboard_time": 1747422194,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 29081,
