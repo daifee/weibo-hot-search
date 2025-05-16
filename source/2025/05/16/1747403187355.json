@@ -1,0 +1,410 @@
+{
+  "runTime": 1747403187355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9000260,
+        "num": 9000260,
+        "word": "单依纯太牛了",
+        "onboard_time": 1747402046,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5568200,
+        "num": 5568200,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13336,
+        "num": 456710,
+        "word": "数读我国南北港口亮眼成就",
+        "onboard_time": 1747402765,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379810,
+        "num": 379810,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362393,
+        "num": 362393,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219711,
+        "num": 219711,
+        "word": "乌方称伊斯坦布尔谈判毫无成果",
+        "onboard_time": 1747401023,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4599076,
+        "num": 218818,
+        "word": "歌手直播",
+        "onboard_time": 1747394482,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930001,
+        "num": 218778,
+        "word": "谁给林志炫做的造型",
+        "onboard_time": 1747401926,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216299,
+        "num": 216299,
+        "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+        "onboard_time": 1747398621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183177,
+        "num": 216080,
+        "word": "宋雨琦冲刺看哭了",
+        "onboard_time": 1747401804,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4413931,
+        "num": 215969,
+        "word": "难听",
+        "onboard_time": 1747401083,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604567,
+        "num": 215775,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600952,
+        "num": 215387,
+        "word": "黄杨爸爸说耳环不是正品",
+        "onboard_time": 1747394723,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103676,
+        "num": 215140,
+        "word": "618发券力度都向天猫看齐",
+        "onboard_time": 1747398142,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 214764,
+        "word": "培训机构回应外教上课时情绪失控",
+        "onboard_time": 1747402585,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450845,
+        "num": 214709,
+        "word": "刘宇宁 顺眼",
+        "onboard_time": 1747399040,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429875,
+        "num": 214399,
+        "word": "任权薛小婉结婚",
+        "onboard_time": 1747399824,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35500,
+        "num": 214139,
+        "word": "vivo影像技术升级掌控歌手名场面",
+        "onboard_time": 1747399102,
+        "rank": 17,
+        "category": "数码,综艺"
+      },
+      {
+        "raw_hot": 166828,
+        "num": 213730,
+        "word": "天猫美妆买一送一真香",
+        "onboard_time": 1747398142,
+        "rank": 18,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 31772,
+        "num": 213692,
+        "word": "跑步方式不同会影响减脂速度和恢复吗",
+        "onboard_time": 1747402285,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44056,
+        "num": 213285,
+        "word": "连阳光都偏爱钟楚曦",
+        "onboard_time": 1747400727,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213172,
+        "num": 213172,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212042,
+        "num": 212042,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206945,
+        "num": 206945,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202776,
+        "num": 202776,
+        "word": "林孝埈等待下个冬天",
+        "onboard_time": 1747402405,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28609,
+        "num": 202608,
+        "word": "央视曝光字画竞拍传销陷阱",
+        "onboard_time": 1747401326,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174245,
+        "num": 202519,
+        "word": "范丞丞跑姿漂亮",
+        "onboard_time": 1747402524,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105190,
+        "num": 202511,
+        "word": "天猫国补买空调首次能叠千元券",
+        "onboard_time": 1747398142,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202508,
+        "num": 202508,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37337,
+        "num": 201394,
+        "word": "阿联酋迎接特朗普的特别方式",
+        "onboard_time": 1747402285,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "王珞丹 我没空陪你闹了",
+        "onboard_time": 1747401143,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198905,
+        "num": 198905,
+        "word": "玛利亚凯莉演唱会开场嘉宾张钰琪",
+        "onboard_time": 1747402405,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187149,
+        "num": 187149,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177035,
+        "num": 177035,
+        "word": "女子结婚用180克黄金手捧花做陪嫁",
+        "onboard_time": 1747401383,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143152,
+        "num": 170286,
+        "word": "老外在戛纳点赞哪吒2和封神",
+        "onboard_time": 1747402524,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170045,
+        "num": 170045,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161923,
+        "num": 161923,
+        "word": "李昀锐3000米拿下",
+        "onboard_time": 1747403126,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159243,
+        "num": 159243,
+        "word": "谁懂高圆圆这个持枪镜头",
+        "onboard_time": 1747402645,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52530,
+        "num": 156530,
+        "word": "男子高速逆行12分全扣了",
+        "onboard_time": 1747400603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154393,
+        "num": 154393,
+        "word": "刘宇宁腹肌",
+        "onboard_time": 1747396042,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151056,
+        "num": 151056,
+        "word": "iG对战NIP",
+        "onboard_time": 1747398322,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 150791,
+        "word": "苗苗女儿成功追星宋雨琦",
+        "onboard_time": 1747400422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139759,
+        "num": 139759,
+        "word": "蒜鸟蒜鸟",
+        "onboard_time": 1747398084,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80092,
+        "num": 137048,
+        "word": "蔚来ET9技术下放新ES6新EC6",
+        "onboard_time": 1747398142,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22101,
+        "num": 135425,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 135094,
+        "word": "填补了人不能进洗衣机的空白",
+        "onboard_time": 1747401743,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133839,
+        "num": 133839,
+        "word": "成毅今天真的是丢人丢大发了",
+        "onboard_time": 1747397842,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131960,
+        "num": 131960,
+        "word": "日本62岁男子因照顾太疲惫掐死母亲",
+        "onboard_time": 1747399763,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 124290,
+        "word": "iG战胜NIP",
+        "onboard_time": 1747403126,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124128,
+        "num": 124128,
+        "word": "陈楚生娓娓道来 来喝王老吉",
+        "onboard_time": 1747403006,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#从自强模范身上汲取精神力量#"
+    }
+  }
+}
