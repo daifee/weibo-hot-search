@@ -1,10 +1,10 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747374185876,
+  "endTime": 1747377379249,
   "band_list": [
     {
       "raw_hot": 3177100,
-      "num": 460273,
+      "num": 467287,
       "word": "黄杨钿甜爸爸 雅安公务员",
       "onboard_time": 1747359259,
       "rank": 11,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1613207,
-      "num": 364918,
+      "num": 466451,
       "word": "Prada魔咒",
       "onboard_time": 1747370663,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1490903,
+      "num": 645480,
+      "word": "娃哈哈变得面目全非令人唏嘘",
+      "onboard_time": 1747374980,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1400651,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 715032,
+      "num": 715032,
+      "word": "盒马",
+      "onboard_time": 1747371984,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 710344,
       "num": 323981,
       "word": "杜淳妻子体检被误诊",
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654505,
+      "num": 654505,
+      "word": "李嘉琦淘汰",
+      "onboard_time": 1747374142,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646169,
       "num": 646169,
       "word": "云南地震",
@@ -203,6 +227,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 587674,
+      "num": 587674,
+      "word": "刘晓庆偷税举报人发声",
+      "onboard_time": 1747374980,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571197,
       "num": 571197,
       "word": "董某莹四项证书被撤销",
@@ -225,6 +257,14 @@
       "onboard_time": 1747325062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549306,
+      "num": 549306,
+      "word": "侯佩岑拒绝李晟",
+      "onboard_time": 1747374562,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 536632,
@@ -259,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497088,
+      "num": 497088,
+      "word": "多次强奸8名未成年人罪犯被执行死刑",
+      "onboard_time": 1747376122,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 481278,
       "num": 481278,
       "word": "4加4通报证明没人能包庇董小姐",
       "onboard_time": 1747321764,
       "rank": 3,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 471436,
+      "num": 471436,
+      "word": "女排朱婷妹妹被保送浙大受质疑",
+      "onboard_time": 1747375880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 425960,
@@ -289,6 +345,14 @@
       "onboard_time": 1747320263,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 413702,
+      "num": 413702,
+      "word": "警方在霉霉豪宅附近发现人类遗骸",
+      "onboard_time": 1747375941,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 409039,
@@ -321,6 +385,14 @@
       "onboard_time": 1747369942,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390758,
+      "num": 390758,
+      "word": "金价大跌金店赢麻了",
+      "onboard_time": 1747374380,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 388250,
@@ -427,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280559,
+      "num": 280559,
+      "word": "宁宁ELLE",
+      "onboard_time": 1747376361,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 279805,
       "num": 343893,
       "word": "京东干啥都太全面了",
@@ -492,7 +572,7 @@
     },
     {
       "raw_hot": 244439,
-      "num": 244439,
+      "num": 275761,
       "word": "魏劭被下药名场面",
       "onboard_time": 1747373243,
       "rank": 16,
@@ -505,14 +585,6 @@
       "onboard_time": 1747358660,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231511,
-      "num": 231511,
-      "word": "盒马",
-      "onboard_time": 1747371984,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226552,
@@ -803,12 +875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166455,
+      "num": 166455,
+      "word": "孙颖莎红旗天工家族代言人",
+      "onboard_time": 1747376242,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159396,
       "num": 159396,
       "word": "我要与乔女寸土必争",
       "onboard_time": 1747366582,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159361,
+      "num": 159361,
+      "word": "陈赫把黄磊厨房占了",
+      "onboard_time": 1747375642,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 158166,
@@ -835,6 +923,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157307,
+      "num": 157307,
+      "word": "中国艺人堂堂正正支持统一怎么了",
+      "onboard_time": 1747375642,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 157283,
+      "num": 418683,
+      "word": "不用答题直接免单",
+      "onboard_time": 1747375462,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 156093,
+      "num": 156093,
+      "word": "盒马猕猴桃",
+      "onboard_time": 1747371623,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155101,
+      "num": 155101,
+      "word": "白宇迪丽热巴集齐古早韩剧三要素",
+      "onboard_time": 1747376001,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154204,
       "num": 154204,
       "word": "新冠感染又抬头",
@@ -857,6 +977,22 @@
       "onboard_time": 1747314985,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149310,
+      "num": 415349,
+      "word": "三得利盒马也找今麦郎代工",
+      "onboard_time": 1747375821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149165,
+      "num": 149165,
+      "word": "雷军说对小米的期待和要求远超想象",
+      "onboard_time": 1747375282,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 148612,
@@ -891,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146801,
+      "num": 146801,
+      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+      "onboard_time": 1747375401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "雷军称小米不再是行业新人",
@@ -899,12 +1043,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 143501,
-      "num": 143501,
-      "word": "盒马猕猴桃",
-      "onboard_time": 1747371623,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 144757,
+      "num": 421512,
+      "word": "泽连斯基不满俄代表团规格",
+      "onboard_time": 1747375762,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143085,
@@ -987,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131207,
+      "num": 131207,
+      "word": "李嘉琦淘汰宋妍霏爆哭",
+      "onboard_time": 1747375880,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130834,
+      "num": 130834,
+      "word": "孙颖莎世乒赛力争卫冕",
+      "onboard_time": 1747374921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130327,
       "num": 130327,
       "word": "娇兰晚宴上的杨洋",
@@ -1025,6 +1185,14 @@
       "onboard_time": 1747371262,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128697,
+      "num": 423777,
+      "word": "荣耀肖战首个全球手机代言",
+      "onboard_time": 1747372161,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 126801,
@@ -1259,14 +1427,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 102493,
-      "num": 102493,
-      "word": "李嘉琦淘汰",
-      "onboard_time": 1747374142,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102141,
       "num": 102141,
       "word": "77年过去巴勒斯坦遭受的不公反加剧",
@@ -1355,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81362,
+      "num": 418925,
+      "word": "华莱士上新小马控集合",
+      "onboard_time": 1747375762,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80028,
       "num": 80028,
       "word": "郭晶晶说爱家才是立身之本",
@@ -1385,14 +1553,6 @@
       "onboard_time": 1747319184,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76998,
-      "num": 336562,
-      "word": "荣耀肖战首个全球手机代言",
-      "onboard_time": 1747372161,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 75286,
@@ -1523,6 +1683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50523,
+      "num": 228167,
+      "word": "波尔的偶像是王励勤",
+      "onboard_time": 1747376122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49392,
       "num": 351598,
       "word": "安卓对标苹果能吸引iPhone用户吗",
@@ -1539,12 +1707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44085,
+      "num": 156302,
+      "word": "文科生这辈子最想听见的称赞",
+      "onboard_time": 1747376242,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 43221,
       "num": 217683,
       "word": "以军轰炸加沙多地造成至少82人死亡",
       "onboard_time": 1747364602,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39310,
+      "num": 234665,
+      "word": "在农村卖货一天能赚多少钱",
+      "onboard_time": 1747376183,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39290,
@@ -1627,6 +1811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24330,
+      "num": 156111,
+      "word": "三分钟了解女性脏器位置",
+      "onboard_time": 1747377202,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 23983,
+      "num": 246839,
+      "word": "多哈世乒赛倒计时1天",
+      "onboard_time": 1747376541,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23872,
       "num": 23872,
       "word": "王鹤棣咸鱼飞升预热",
@@ -1691,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15357,
+      "num": 415622,
+      "word": "我们的毕业歌阵容如何唤起青春回忆",
+      "onboard_time": 1747376183,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 15147,
       "num": 249764,
       "word": "亚马尔是否有机会金球奖",
@@ -1704,6 +1912,22 @@
       "word": "泽连斯基称已派出谈判代表",
       "onboard_time": 1747351039,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14186,
+      "num": 381401,
+      "word": "免费纸巾骗局中常用的手段有哪些",
+      "onboard_time": 1747377142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13360,
+      "num": 265860,
+      "word": "为什么很难买到真正的五常大米",
+      "onboard_time": 1747377142,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
