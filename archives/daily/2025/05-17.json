@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747435318428,
+  "endTime": 1747437838762,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432127,
+      "num": 237382,
+      "word": "新冠再来袭",
+      "onboard_time": 1747382182,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355617,
       "num": 205665,
       "word": "表妹万福",
       "onboard_time": 1747409724,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 349787,
-      "num": 237382,
-      "word": "新冠再来袭",
-      "onboard_time": 1747382182,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348801,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246183,
+      "num": 835245,
+      "word": "男子失踪7年找到时正躺桥洞玩手机",
+      "onboard_time": 1747409543,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232355,
       "num": 629462,
       "word": "流失美国79年的2卷帛书要回家了",
@@ -195,19 +203,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186161,
+      "num": 186440,
+      "word": "越来越多间谍设备披上日常用品外衣",
+      "onboard_time": 1747407205,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185824,
+      "num": 176951,
+      "word": "周思成称考研界刘晓燕英语水平最差",
+      "onboard_time": 1747437737,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 185638,
       "num": 220578,
       "word": "深圳一女子应聘文员被回复太丑了",
       "onboard_time": 1747405289,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182408,
-      "num": 835245,
-      "word": "男子失踪7年找到时正躺桥洞玩手机",
-      "onboard_time": 1747409543,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -217,6 +233,22 @@
       "onboard_time": 1747408224,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178355,
+      "num": 178355,
+      "word": "奥运男女单冠军首缺席次年世乒赛",
+      "onboard_time": 1747424295,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176115,
+      "num": 176115,
+      "word": "超绝腰臀比",
+      "onboard_time": 1747403246,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 161432,
@@ -233,6 +265,14 @@
       "onboard_time": 1747399040,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152332,
+      "num": 181225,
+      "word": "成毅放一个月假上了25节健身课",
+      "onboard_time": 1747414039,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149457,
@@ -259,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141809,
-      "num": 111633,
-      "word": "奥运男女单冠军首缺席次年世乒赛",
-      "onboard_time": 1747424295,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 139627,
+      "num": 182725,
+      "word": "印尼高价采购阵风战机受质疑",
+      "onboard_time": 1747411163,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126803,
@@ -283,6 +323,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121127,
+      "num": 152755,
+      "word": "任权薛小婉结婚",
+      "onboard_time": 1747399824,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 119508,
+      "num": 119508,
+      "word": "女子称家中三人吃千层蛋糕后入院",
+      "onboard_time": 1747428554,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118027,
       "num": 181298,
       "word": "纤维粒",
@@ -291,28 +347,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 117224,
-      "num": 186440,
-      "word": "越来越多间谍设备披上日常用品外衣",
-      "onboard_time": 1747407205,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116254,
       "num": 220319,
       "word": "女子结婚用180克黄金手捧花做陪嫁",
       "onboard_time": 1747401383,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115905,
-      "num": 152755,
-      "word": "任权薛小婉结婚",
-      "onboard_time": 1747399824,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 115709,
@@ -331,20 +371,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106169,
-      "num": 181225,
-      "word": "成毅放一个月假上了25节健身课",
-      "onboard_time": 1747414039,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 98589,
-      "num": 182725,
-      "word": "印尼高价采购阵风战机受质疑",
-      "onboard_time": 1747411163,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 109662,
+      "num": 68585,
+      "word": "1岁10个月的宝宝自己泡夜奶",
+      "onboard_time": 1747437797,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 96406,
@@ -363,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93729,
-      "num": 93729,
-      "word": "女子称家中三人吃千层蛋糕后入院",
-      "onboard_time": 1747428554,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 93964,
+      "num": 93964,
+      "word": "cp31",
+      "onboard_time": 1747437797,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 92972,
@@ -385,6 +417,14 @@
       "onboard_time": 1747387104,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84816,
+      "num": 84816,
+      "word": "北京大风",
+      "onboard_time": 1747437737,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84541,
@@ -419,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71362,
+      "num": 181089,
+      "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
+      "onboard_time": 1747387281,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69809,
       "num": 181685,
       "word": "超模戛纳造型现逆天长腿",
@@ -435,12 +483,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64734,
-      "num": 181089,
-      "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
-      "onboard_time": 1747387281,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 66415,
+      "num": 66415,
+      "word": "武艺首次披露父母离婚",
+      "onboard_time": 1747392800,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 62351,
@@ -449,6 +497,14 @@
       "onboard_time": 1747412541,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58819,
+      "num": 58819,
+      "word": "孟子义跑完马拉松累到认错人",
+      "onboard_time": 1747405228,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 57173,
@@ -465,6 +521,14 @@
       "onboard_time": 1747409603,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52301,
+      "num": 52301,
+      "word": "俄方要求控制乌克兰5个地区",
+      "onboard_time": 1747437737,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51215,
@@ -491,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47166,
+      "num": 47166,
+      "word": "绝对不能放进微波炉的东西",
+      "onboard_time": 1747437797,
+      "rank": 47,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 41653,
       "num": 57135,
       "word": "一人一句欢迎国宝回家",
@@ -499,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32041,
-      "num": 46755,
-      "word": "孟子义跑完马拉松累到认错人",
-      "onboard_time": 1747405228,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 32645,
+      "num": 52658,
+      "word": "俄乌将进行千人对千人换俘",
+      "onboard_time": 1747437737,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29304,
