@@ -1,0 +1,410 @@
+{
+  "runTime": 1747399861924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7112313,
+        "num": 7112313,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485155,
+        "num": 485155,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25624,
+        "num": 382035,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3998028,
+        "num": 378247,
+        "word": "歌手直播",
+        "onboard_time": 1747394482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369819,
+        "num": 369819,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259533,
+        "num": 259533,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1202701,
+        "num": 259527,
+        "word": "黄杨爸爸说耳环不是正品",
+        "onboard_time": 1747394723,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1023075,
+        "num": 253820,
+        "word": "单依纯ladygaga时候",
+        "onboard_time": 1747398322,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226214,
+        "num": 226214,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104864,
+        "num": 219794,
+        "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+        "onboard_time": 1747398621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76660,
+        "num": 217710,
+        "word": "618发券力度都向天猫看齐",
+        "onboard_time": 1747398142,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 217448,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888146,
+        "num": 217172,
+        "word": "歌手开场 高级",
+        "onboard_time": 1747397902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650620,
+        "num": 217032,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606158,
+        "num": 216484,
+        "word": "陈楚生歌手全民预测第一",
+        "onboard_time": 1747399403,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40115,
+        "num": 216266,
+        "word": "vivo影像技术升级掌控歌手名场面",
+        "onboard_time": 1747399102,
+        "rank": 15,
+        "category": "数码,综艺"
+      },
+      {
+        "raw_hot": 98127,
+        "num": 215872,
+        "word": "蔚来ET9技术下放新ES6新EC6",
+        "onboard_time": 1747398142,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35113,
+        "num": 215214,
+        "word": "洗衣做饭20年女子离婚被判8万补偿",
+        "onboard_time": 1747398621,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35268,
+        "num": 215062,
+        "word": "谁最有可能在歌手首期被淘汰",
+        "onboard_time": 1747395682,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12407,
+        "num": 214354,
+        "word": "马王堆的丝织品传达了什么历史信息",
+        "onboard_time": 1747395081,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 546802,
+        "num": 213968,
+        "word": "BENI不会淘汰吧",
+        "onboard_time": 1747399040,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224917,
+        "num": 213769,
+        "word": "天猫美妆买一送一真香",
+        "onboard_time": 1747398142,
+        "rank": 21,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 370477,
+        "num": 213285,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313679,
+        "num": 213051,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294129,
+        "num": 212625,
+        "word": "武艺首次披露父母离婚",
+        "onboard_time": 1747392800,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265379,
+        "num": 211981,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14426,
+        "num": 211644,
+        "word": "植物是如何适应塔克拉玛干气候的",
+        "onboard_time": 1747399582,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191594,
+        "num": 211362,
+        "word": "天猫国补买空调首次能叠千元券",
+        "onboard_time": 1747398142,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147578,
+        "num": 210819,
+        "word": "王曼昱总结世乒赛适应情况",
+        "onboard_time": 1747399704,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 210706,
+        "word": "小车临近出口突然变道判全责",
+        "onboard_time": 1747398682,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23283,
+        "num": 210109,
+        "word": "碎纸机里都可能暗藏窃密设备",
+        "onboard_time": 1747399642,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263736,
+        "num": 209664,
+        "word": "周思成怎么也上歌手了",
+        "onboard_time": 1747399040,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231378,
+        "num": 209496,
+        "word": "刘宇宁腹肌",
+        "onboard_time": 1747396042,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95626,
+        "num": 209157,
+        "word": "京东补贴",
+        "onboard_time": 1747395682,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226600,
+        "num": 208832,
+        "word": "刘宇宁 顺眼",
+        "onboard_time": 1747399040,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229215,
+        "num": 208390,
+        "word": "歌手歌单",
+        "onboard_time": 1747310782,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85822,
+        "num": 208035,
+        "word": "日本62岁男子因照顾太疲惫掐死母亲",
+        "onboard_time": 1747399763,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207676,
+        "num": 207676,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13951,
+        "num": 202002,
+        "word": "心动礼遇一键开启",
+        "onboard_time": 1747394182,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201470,
+        "num": 201470,
+        "word": "男子质疑妻子两个孩子1天100不够吗",
+        "onboard_time": 1747394841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195609,
+        "num": 195609,
+        "word": "火树 歌手听审",
+        "onboard_time": 1747399582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191311,
+        "num": 191311,
+        "word": "曹操梦女",
+        "onboard_time": 1747395322,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43904,
+        "num": 186138,
+        "word": "凌晨五点的毕业论文致谢",
+        "onboard_time": 1747399222,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83127,
+        "num": 183610,
+        "word": "青绿腰震撼戛纳",
+        "onboard_time": 1747395741,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182726,
+        "num": 182726,
+        "word": "那英说单依纯比她强多了",
+        "onboard_time": 1747399342,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174372,
+        "num": 174372,
+        "word": "歌手2025",
+        "onboard_time": 1747388122,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169855,
+        "num": 169855,
+        "word": "蘑菇屋被五哈团攻占了",
+        "onboard_time": 1747397662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167866,
+        "num": 167866,
+        "word": "第一次见内娱爱豆婚礼直播",
+        "onboard_time": 1747389083,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "成毅今天真的是丢人丢大发了",
+        "onboard_time": 1747397842,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "任权薛小婉结婚",
+        "onboard_time": 1747399824,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障残疾人平等权益#"
+    }
+  }
+}

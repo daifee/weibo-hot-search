@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747395427906,
+  "endTime": 1747399861924,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -947,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7112313,
+      "num": 7112313,
+      "word": "黄杨钿甜爸爸发文",
+      "onboard_time": 1747395141,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7050394,
       "num": 7050394,
       "word": "李威涉嫌伤害致死",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1738067987,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5274486,
-      "num": 5274486,
-      "word": "黄杨钿甜爸爸发文",
-      "onboard_time": 1747395141,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5151427,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1736237304,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3998028,
+      "num": 703966,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 3957531,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738839504,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3121027,
-      "num": 1792063,
-      "word": "猫一杯2.0",
-      "onboard_time": 1745245824,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
