@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747384420038,
+  "endTime": 1747385256370,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -25,6 +25,14 @@
       "onboard_time": 1747331235,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1860674,
+      "num": 314459,
+      "word": "赵德胤给前女友拍了五部电影",
+      "onboard_time": 1747383321,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1781035,
@@ -59,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1552496,
+      "num": 383653,
+      "word": "代孕",
+      "onboard_time": 1747379902,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1548802,
       "num": 1548802,
       "word": "多次强奸8名未成年人罪犯被执行死刑",
@@ -91,11 +107,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1138229,
-      "num": 383653,
-      "word": "代孕",
-      "onboard_time": 1747379902,
-      "rank": 40,
+      "raw_hot": 1198427,
+      "num": 313482,
+      "word": "新冠再来袭",
+      "onboard_time": 1747382182,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -104,14 +120,6 @@
       "word": "欧阳娜娜等20多人被台当局威胁",
       "onboard_time": 1747321464,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1107530,
-      "num": 314459,
-      "word": "赵德胤给前女友拍了五部电影",
-      "onboard_time": 1747383321,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -137,14 +145,6 @@
       "onboard_time": 1747315765,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 982287,
-      "num": 313482,
-      "word": "新冠再来袭",
-      "onboard_time": 1747382182,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 955241,
@@ -185,6 +185,14 @@
       "onboard_time": 1747305682,
       "rank": 20,
       "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 742646,
+      "num": 742646,
+      "word": "鹿晗新歌歌词",
+      "onboard_time": 1747384162,
+      "rank": 17,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 731287,
@@ -347,6 +355,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 533221,
+      "num": 307451,
+      "word": "赵磊请站姐参加婚礼",
+      "onboard_time": 1747383982,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533113,
       "num": 530718,
       "word": "终于有剧敢拍反盗墓题材了",
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401971,
+      "num": 401971,
+      "word": "罪犯潜入群聊约出女学生实施强奸",
+      "onboard_time": 1747382662,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398482,
       "num": 351076,
       "word": "继父去世后男子一家10口改随生父姓",
@@ -467,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 365842,
-      "num": 307451,
-      "word": "赵磊请站姐参加婚礼",
-      "onboard_time": 1747383982,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 367688,
+      "num": 266291,
+      "word": "车里有条蛇不见了",
+      "onboard_time": 1747384521,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 341006,
@@ -513,14 +537,6 @@
       "onboard_time": 1747355061,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 327196,
-      "num": 327196,
-      "word": "罪犯潜入群聊约出女学生实施强奸",
-      "onboard_time": 1747382662,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322863,
@@ -619,12 +635,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 266781,
+      "num": 266781,
+      "word": "女儿上网课被外教大吼母亲发声",
+      "onboard_time": 1747381342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265913,
       "num": 265913,
       "word": "俄方将等待乌代表团",
       "onboard_time": 1747359200,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265547,
+      "num": 265547,
+      "word": "200万买一对耳环的概念",
+      "onboard_time": 1747384642,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 265282,
@@ -691,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244268,
+      "num": 244268,
+      "word": "今麦郎董事长称为娃哈哈生产12亿瓶水",
+      "onboard_time": 1747383742,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243367,
       "num": 243367,
       "word": "真实的剖腹产",
@@ -705,22 +745,6 @@
       "onboard_time": 1747358660,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236666,
-      "num": 312283,
-      "word": "鹿晗新歌歌词",
-      "onboard_time": 1747384162,
-      "rank": 17,
-      "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 230243,
-      "num": 230243,
-      "word": "女儿上网课被外教大吼母亲发声",
-      "onboard_time": 1747381342,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228855,
@@ -779,6 +803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 216011,
+      "num": 266034,
+      "word": "宋茜真拍了撕拉片",
+      "onboard_time": 1747384403,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215994,
       "num": 215994,
       "word": "郑钦文凌晨2点半迎战高芙",
@@ -793,6 +825,14 @@
       "onboard_time": 1747305623,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209722,
+      "num": 209722,
+      "word": "一家四口驾车遇山体落石丈夫身亡",
+      "onboard_time": 1747380382,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208313,
@@ -843,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203518,
-      "num": 203518,
-      "word": "宋茜真拍了撕拉片",
-      "onboard_time": 1747384403,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201492,
       "num": 151490,
       "word": "多哈世乒赛周六开赛",
@@ -883,22 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197593,
-      "num": 197593,
-      "word": "今麦郎董事长称为娃哈哈生产12亿瓶水",
-      "onboard_time": 1747383742,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196916,
-      "num": 196916,
-      "word": "一家四口驾车遇山体落石丈夫身亡",
-      "onboard_time": 1747380382,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195721,
       "num": 195721,
       "word": "乘风2025五公分组",
@@ -913,6 +929,14 @@
       "onboard_time": 1747370364,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194421,
+      "num": 194421,
+      "word": "赵磊站姐",
+      "onboard_time": 1747384582,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 191566,
@@ -977,6 +1001,14 @@
       "onboard_time": 1747379662,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185379,
+      "num": 185379,
+      "word": "北京冰雹",
+      "onboard_time": 1747385123,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184067,
@@ -1123,6 +1155,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160443,
+      "num": 160443,
+      "word": "才读懂肖战告别藏海的文案",
+      "onboard_time": 1747384821,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160416,
+      "num": 160416,
+      "word": "北京将再现雷暴大风和冰雹",
+      "onboard_time": 1747384102,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159427,
+      "num": 159427,
+      "word": "下去个蒋一侨上来个侯佩岑2.0",
+      "onboard_time": 1747384403,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159396,
       "num": 159396,
       "word": "我要与乔女寸土必争",
@@ -1227,6 +1283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151035,
+      "num": 151035,
+      "word": "赵丽颖赵德胤",
+      "onboard_time": 1747385180,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149911,
       "num": 183648,
       "word": "小乔雨中抱大乔雨中吻",
@@ -1275,20 +1339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146375,
+      "num": 146375,
+      "word": "雅安有关部门介入调查高价耳环事件",
+      "onboard_time": 1747385242,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "雷军称小米不再是行业新人",
       "onboard_time": 1747361362,
       "rank": 34,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 145101,
-      "num": 145101,
-      "word": "北京将再现雷暴大风和冰雹",
-      "onboard_time": 1747384102,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143085,
@@ -1353,14 +1417,6 @@
       "onboard_time": 1747323502,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135535,
-      "num": 135535,
-      "word": "下去个蒋一侨上来个侯佩岑2.0",
-      "onboard_time": 1747384403,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 135043,
@@ -1739,6 +1795,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 102656,
+      "num": 265955,
+      "word": "轩染cos孙策猫狗日记",
+      "onboard_time": 1747383801,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102141,
       "num": 102141,
       "word": "77年过去巴勒斯坦遭受的不公反加剧",
@@ -2003,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60636,
+      "num": 311959,
+      "word": "张艺兴请客京东外卖",
+      "onboard_time": 1747383202,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60449,
       "num": 162265,
       "word": "女生专科学这14个专业",
@@ -2027,19 +2099,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57733,
-      "num": 311959,
-      "word": "张艺兴请客京东外卖",
-      "onboard_time": 1747383202,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56988,
       "num": 234665,
       "word": "在农村卖货一天能赚多少钱",
       "onboard_time": 1747376183,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56866,
+      "num": 266489,
+      "word": "淄博一客人称在酒店房间发现摄像头",
+      "onboard_time": 1747384821,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2097,6 +2169,22 @@
       "onboard_time": 1747364602,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41518,
+      "num": 190401,
+      "word": "巴基斯坦拟采购40架J35A",
+      "onboard_time": 1747385180,
+      "rank": 38,
+      "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 39675,
+      "num": 265617,
+      "word": "燕云十六声延迟开服",
+      "onboard_time": 1747384942,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 39439,
@@ -2219,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25360,
+      "num": 136209,
+      "word": "朝鲜和伊朗核武器谈判对比",
+      "onboard_time": 1747384881,
+      "rank": 49,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 25321,
       "num": 211096,
       "word": "高芙连进两站1000赛决赛",
@@ -2275,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23773,
+      "num": 265745,
+      "word": "华北再遇强对流冰雹天气",
+      "onboard_time": 1747384821,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23485,
       "num": 362606,
       "word": "伪造重疾证明优化债务仅需4000元",
@@ -2297,6 +2401,14 @@
       "onboard_time": 1747334055,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23276,
+      "num": 787923,
+      "word": "欢迎来看热情活力的中国",
+      "onboard_time": 1747384340,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21717,
@@ -2387,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12880,
+      "num": 309424,
+      "word": "厨房装空调需要考虑哪些位置原因",
+      "onboard_time": 1747384281,
+      "rank": 26,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 12729,
       "num": 15923,
       "word": "任嘉伦逛澳门",
@@ -2403,20 +2523,20 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 11779,
-      "num": 309424,
-      "word": "厨房装空调需要考虑哪些位置原因",
-      "onboard_time": 1747384281,
-      "rank": 26,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 11625,
       "num": 351747,
       "word": "反盗墓剧护宝寻踪如何突出守护价值",
       "onboard_time": 1747367182,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10772,
+      "num": 265669,
+      "word": "普通人如何挑选好公司",
+      "onboard_time": 1747384881,
+      "rank": 28,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 8833,
@@ -2449,14 +2569,6 @@
       "onboard_time": 1747316364,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6830,
-      "num": 682416,
-      "word": "欢迎来看热情活力的中国",
-      "onboard_time": 1747384340,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2468,6 +2580,9 @@
     },
     {
       "word": "#中国是外商理想安全有为的投资目的地#"
+    },
+    {
+      "word": "#切实保障残疾人平等权益#"
     }
   ]
 }
