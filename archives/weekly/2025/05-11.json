@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747403187355,
+  "endTime": 1747405509644,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9776759,
+      "num": 9776759,
+      "word": "单依纯太牛了",
+      "onboard_time": 1747402046,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9712414,
       "num": 9712414,
       "word": "中美相互24%关税90天内暂停实施",
@@ -33,14 +41,6 @@
       "onboard_time": 1747311022,
       "rank": 0,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 9000260,
-      "num": 9000260,
-      "word": "单依纯太牛了",
-      "onboard_time": 1747402046,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 7112313,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4493486,
-      "num": 225978,
+      "num": 295414,
       "word": "难听",
       "onboard_time": 1747401083,
       "rank": 12,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 930001,
-      "num": 227591,
+      "num": 299171,
       "word": "谁给林志炫做的造型",
       "onboard_time": 1747401926,
       "rank": 7,
@@ -3251,6 +3251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 467757,
+      "num": 289800,
+      "word": "珠玉 常石磊",
+      "onboard_time": 1747403365,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 467744,
       "num": 467744,
       "word": "空降兵十五勇士惊天一跳再看依然震撼",
@@ -4987,6 +4995,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 303039,
+      "num": 463269,
+      "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+      "onboard_time": 1747398621,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302661,
       "num": 278814,
       "word": "妈妈听到陈梦无麻药穿刺火疖子反应",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1747196364,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 288132,
+      "num": 288132,
+      "word": "终于蹲到了朱珠二手集市返场",
+      "onboard_time": 1747404507,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 287843,
@@ -5731,6 +5755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257754,
+      "num": 257754,
+      "word": "river编曲",
+      "onboard_time": 1747404149,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257220,
       "num": 257220,
       "word": "张艺兴和马东锡合照",
@@ -5897,6 +5929,14 @@
       "onboard_time": 1747284443,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 252721,
+      "num": 301918,
+      "word": "把4加4申请人学分履历晒一晒",
+      "onboard_time": 1747403728,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 252068,
@@ -6097,6 +6137,14 @@
       "onboard_time": 1747045223,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245845,
+      "num": 298092,
+      "word": "女子结婚用180克黄金手捧花做陪嫁",
+      "onboard_time": 1747401383,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245335,
@@ -6443,6 +6491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233435,
+      "num": 233435,
+      "word": "王鹤棣也在看歌手",
+      "onboard_time": 1747404746,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232991,
       "num": 205064,
       "word": "脊柱侧弯千万不能做的动作",
@@ -6481,6 +6537,14 @@
       "onboard_time": 1747210524,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231584,
+      "num": 231584,
+      "word": "陈楚生娓娓道来 来喝王老吉",
+      "onboard_time": 1747403006,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 231378,
@@ -6607,14 +6671,6 @@
       "num": 226230,
       "word": "义乌商户说接下来15天肯定要大干",
       "onboard_time": 1747252814,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225507,
-      "num": 463269,
-      "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
-      "onboard_time": 1747398621,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -6868,7 +6924,7 @@
     },
     {
       "raw_hot": 219711,
-      "num": 226935,
+      "num": 296679,
       "word": "乌方称伊斯坦布尔谈判毫无成果",
       "onboard_time": 1747401023,
       "rank": 9,
@@ -7155,6 +7211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213338,
+      "num": 213338,
+      "word": "王珞丹 我没空陪你闹了",
+      "onboard_time": 1747401143,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213330,
       "num": 213330,
       "word": "森林狼vs勇士",
@@ -7185,14 +7249,6 @@
       "onboard_time": 1747304482,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212585,
-      "num": 206979,
-      "word": "王珞丹 我没空陪你闹了",
-      "onboard_time": 1747401143,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 212087,
@@ -8659,6 +8715,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 190177,
+      "num": 190177,
+      "word": "SEVENTEEN试听",
+      "onboard_time": 1747404326,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189977,
       "num": 290618,
       "word": "官方通报一出租房疑存非法代孕活动",
@@ -8793,6 +8857,14 @@
       "onboard_time": 1747314624,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188081,
+      "num": 188081,
+      "word": "李昀锐3000米拿下",
+      "onboard_time": 1747403126,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 188070,
@@ -9523,6 +9595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178708,
+      "num": 196013,
+      "word": "孔雪儿媚眼如丝",
+      "onboard_time": 1747404029,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178696,
       "num": 230169,
       "word": "迪丽热巴和水池吵了一架",
@@ -9665,14 +9745,6 @@
       "onboard_time": 1747196244,
       "rank": 44,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 177035,
-      "num": 177035,
-      "word": "女子结婚用180克黄金手捧花做陪嫁",
-      "onboard_time": 1747401383,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176900,
@@ -9897,6 +9969,14 @@
       "onboard_time": 1747143082,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174859,
+      "num": 174859,
+      "word": "GAI秀下颌线",
+      "onboard_time": 1747404746,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 174831,
@@ -10201,6 +10281,14 @@
       "onboard_time": 1747110144,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169948,
+      "num": 291950,
+      "word": "为什么上班的时候更想喝奶茶",
+      "onboard_time": 1747403968,
+      "rank": 13,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 169899,
@@ -10856,14 +10944,6 @@
       "word": "演员请就位 卸妆抢角",
       "onboard_time": 1747031069,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161923,
-      "num": 161923,
-      "word": "李昀锐3000米拿下",
-      "onboard_time": 1747403126,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -11537,6 +11617,14 @@
       "onboard_time": 1747313964,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155185,
+      "num": 155185,
+      "word": "唐嫣紫色薄纱裙",
+      "onboard_time": 1747404930,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 155183,
@@ -12763,6 +12851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141902,
+      "num": 141902,
+      "word": "孙燕姿演唱会",
+      "onboard_time": 1747404507,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141899,
       "num": 141899,
       "word": "苏新皓生日会首唱一天一天",
@@ -13321,6 +13417,14 @@
       "onboard_time": 1747301902,
       "rank": 47,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 137507,
+      "num": 137507,
+      "word": "孟子义跑完马拉松累到认错人",
+      "onboard_time": 1747405228,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 137435,
@@ -14043,6 +14147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129900,
+      "num": 184329,
+      "word": "外交部回应俄乌土耳其会谈",
+      "onboard_time": 1747403308,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129872,
       "num": 385029,
       "word": "CoCo一亿杯买一送一",
@@ -14603,6 +14715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124665,
+      "num": 124665,
+      "word": "iG战胜NIP",
+      "onboard_time": 1747403126,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124600,
       "num": 123863,
       "word": "钟汉良肖战藏海传里演父子",
@@ -14627,28 +14747,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124290,
-      "num": 124290,
-      "word": "iG战胜NIP",
-      "onboard_time": 1747403126,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 124137,
       "num": 124137,
       "word": "孔雪儿是谁叫我邪恶水蜜桃",
       "onboard_time": 1747240639,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124128,
-      "num": 124128,
-      "word": "陈楚生娓娓道来 来喝王老吉",
-      "onboard_time": 1747403006,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 124102,
@@ -14979,6 +15083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120487,
+      "num": 120487,
+      "word": "韩安冉婆婆做医美",
+      "onboard_time": 1747403787,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120462,
       "num": 120462,
       "word": "魏哲鸣就这样摇头摇到我心里了",
@@ -15219,6 +15331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118370,
+      "num": 118370,
+      "word": "朴世荣生女",
+      "onboard_time": 1747403427,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118343,
       "num": 118343,
       "word": "时团最后一次全员学生时代演唱会",
@@ -15457,6 +15577,14 @@
       "onboard_time": 1747125681,
       "rank": 16,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 115264,
+      "num": 115264,
+      "word": "深圳一女子应聘文员被回复太丑了",
+      "onboard_time": 1747405289,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115168,
@@ -16120,6 +16248,14 @@
       "word": "花2万多考6本技能证书不被认可",
       "onboard_time": 1747314923,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105969,
+      "num": 214764,
+      "word": "培训机构回应外教上课时情绪失控",
+      "onboard_time": 1747402585,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -18779,6 +18915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56289,
+      "num": 185682,
+      "word": "智能眼镜会取代传统眼镜吗",
+      "onboard_time": 1747404087,
+      "rank": 35,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 56201,
       "num": 317006,
       "word": "哪吒敖丙配音戛纳亮相",
@@ -18924,7 +19068,7 @@
     },
     {
       "raw_hot": 54161,
-      "num": 213285,
+      "num": 219551,
       "word": "连阳光都偏爱钟楚曦",
       "onboard_time": 1747400727,
       "rank": 44,
@@ -19619,6 +19763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45038,
+      "num": 456710,
+      "word": "数读我国南北港口亮眼成就",
+      "onboard_time": 1747402765,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44955,
       "num": 309435,
       "word": "马刺 榜眼签",
@@ -20185,6 +20337,14 @@
       "onboard_time": 1747016540,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38015,
+      "num": 264552,
+      "word": "李昀锐青春男大出场",
+      "onboard_time": 1747404087,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 37956,
@@ -21073,14 +21233,6 @@
       "onboard_time": 1747142001,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26912,
-      "num": 214764,
-      "word": "培训机构回应外教上课时情绪失控",
-      "onboard_time": 1747402585,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26878,
@@ -22569,14 +22721,6 @@
       "onboard_time": 1747169053,
       "rank": 49,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 13336,
-      "num": 456710,
-      "word": "数读我国南北港口亮眼成就",
-      "onboard_time": 1747402765,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13207,

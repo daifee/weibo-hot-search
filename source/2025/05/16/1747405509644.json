@@ -1,0 +1,410 @@
+{
+  "runTime": 1747405509644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9776759,
+        "num": 9776759,
+        "word": "单依纯太牛了",
+        "onboard_time": 1747402046,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428492,
+        "num": 428492,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45038,
+        "num": 321351,
+        "word": "数读我国南北港口亮眼成就",
+        "onboard_time": 1747402765,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4275743,
+        "num": 320695,
+        "word": "歌手直播",
+        "onboard_time": 1747394482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303039,
+        "num": 303039,
+        "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+        "onboard_time": 1747398621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252721,
+        "num": 301918,
+        "word": "把4加4申请人学分履历晒一晒",
+        "onboard_time": 1747403728,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2995061,
+        "num": 301571,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919652,
+        "num": 299171,
+        "word": "谁给林志炫做的造型",
+        "onboard_time": 1747401926,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245845,
+        "num": 298092,
+        "word": "女子结婚用180克黄金手捧花做陪嫁",
+        "onboard_time": 1747401383,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176437,
+        "num": 296679,
+        "word": "乌方称伊斯坦布尔谈判毫无成果",
+        "onboard_time": 1747401023,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3428634,
+        "num": 295414,
+        "word": "难听",
+        "onboard_time": 1747401083,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616549,
+        "num": 293631,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507331,
+        "num": 293503,
+        "word": "黄杨爸爸说耳环不是正品",
+        "onboard_time": 1747394723,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169948,
+        "num": 291950,
+        "word": "为什么上班的时候更想喝奶茶",
+        "onboard_time": 1747403968,
+        "rank": 13,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 467757,
+        "num": 289800,
+        "word": "珠玉 常石磊",
+        "onboard_time": 1747403365,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334241,
+        "num": 288711,
+        "word": "刘宇宁 顺眼",
+        "onboard_time": 1747399040,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288132,
+        "num": 288132,
+        "word": "终于蹲到了朱珠二手集市返场",
+        "onboard_time": 1747404507,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73745,
+        "num": 286966,
+        "word": "特朗普访问中东三国主要目的是什么",
+        "onboard_time": 1747400063,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162843,
+        "num": 279735,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140750,
+        "num": 274157,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38015,
+        "num": 264552,
+        "word": "李昀锐青春男大出场",
+        "onboard_time": 1747404087,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377175,
+        "num": 261711,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257754,
+        "num": 257754,
+        "word": "river编曲",
+        "onboard_time": 1747404149,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257184,
+        "num": 257184,
+        "word": "任权薛小婉结婚",
+        "onboard_time": 1747399824,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233435,
+        "num": 233435,
+        "word": "王鹤棣也在看歌手",
+        "onboard_time": 1747404746,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231584,
+        "num": 231584,
+        "word": "陈楚生娓娓道来 来喝王老吉",
+        "onboard_time": 1747403006,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228523,
+        "num": 228523,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35596,
+        "num": 219551,
+        "word": "连阳光都偏爱钟楚曦",
+        "onboard_time": 1747400727,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213338,
+        "num": 213338,
+        "word": "王珞丹 我没空陪你闹了",
+        "onboard_time": 1747401143,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208913,
+        "num": 208913,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178708,
+        "num": 196013,
+        "word": "孔雪儿媚眼如丝",
+        "onboard_time": 1747404029,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190177,
+        "num": 190177,
+        "word": "SEVENTEEN试听",
+        "onboard_time": 1747404326,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188081,
+        "num": 188081,
+        "word": "李昀锐3000米拿下",
+        "onboard_time": 1747403126,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166624,
+        "num": 187974,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53442,
+        "num": 186607,
+        "word": "男子高速逆行12分全扣了",
+        "onboard_time": 1747400603,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56289,
+        "num": 185682,
+        "word": "智能眼镜会取代传统眼镜吗",
+        "onboard_time": 1747404087,
+        "rank": 35,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 129900,
+        "num": 184329,
+        "word": "外交部回应俄乌土耳其会谈",
+        "onboard_time": 1747403308,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184089,
+        "num": 184089,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 174859,
+        "word": "GAI秀下颌线",
+        "onboard_time": 1747404746,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155185,
+        "num": 155185,
+        "word": "唐嫣紫色薄纱裙",
+        "onboard_time": 1747404930,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142383,
+        "num": 142383,
+        "word": "刘宇宁腹肌",
+        "onboard_time": 1747396042,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141902,
+        "num": 141902,
+        "word": "孙燕姿演唱会",
+        "onboard_time": 1747404507,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137507,
+        "num": 137507,
+        "word": "孟子义跑完马拉松累到认错人",
+        "onboard_time": 1747405228,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124665,
+        "num": 124665,
+        "word": "iG战胜NIP",
+        "onboard_time": 1747403126,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122754,
+        "num": 122754,
+        "word": "宋雨琦冲刺看哭了",
+        "onboard_time": 1747401804,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120487,
+        "num": 120487,
+        "word": "韩安冉婆婆做医美",
+        "onboard_time": 1747403787,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118370,
+        "num": 118370,
+        "word": "朴世荣生女",
+        "onboard_time": 1747403427,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113430,
+        "num": 115767,
+        "word": "王楚钦赛前打台球放松",
+        "onboard_time": 1747402464,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115264,
+        "num": 115264,
+        "word": "深圳一女子应聘文员被回复太丑了",
+        "onboard_time": 1747405289,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105969,
+        "num": 115209,
+        "word": "培训机构回应外教上课时情绪失控",
+        "onboard_time": 1747402585,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从自强模范身上汲取精神力量#"
+    }
+  }
+}

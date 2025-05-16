@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747403187355,
+  "endTime": 1747405509644,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9776759,
+      "num": 9776759,
+      "word": "单依纯太牛了",
+      "onboard_time": 1747402046,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9712414,
       "num": 9712414,
       "word": "中美相互24%关税90天内暂停实施",
@@ -753,14 +761,6 @@
       "onboard_time": 1736513302,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 9000260,
-      "num": 9000260,
-      "word": "单依纯太牛了",
-      "onboard_time": 1747402046,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 8960529,
