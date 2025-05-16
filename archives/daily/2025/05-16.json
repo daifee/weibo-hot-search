@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747367876493,
+  "endTime": 1747369870952,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -16,6 +16,14 @@
       "word": "母女就餐1小时未动筷老板报警",
       "onboard_time": 1747331235,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1690929,
+      "num": 1690929,
+      "word": "网友爆料正新鸡排鸡腿大量生蛆",
+      "onboard_time": 1747364902,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -35,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1130935,
+      "num": 1130935,
+      "word": "取款身亡老人家属称与银行达成和解",
+      "onboard_time": 1747366701,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1112167,
       "num": 1112167,
       "word": "欧阳娜娜等20多人被台当局威胁",
       "onboard_time": 1747321464,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1031335,
-      "num": 1031335,
-      "word": "网友爆料正新鸡排鸡腿大量生蛆",
-      "onboard_time": 1747364902,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1005215,
@@ -81,6 +89,14 @@
       "onboard_time": 1747305682,
       "rank": 20,
       "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 738527,
+      "num": 309843,
+      "word": "官方回应黄杨钿甜父亲职务问题",
+      "onboard_time": 1747368981,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 731287,
@@ -211,12 +227,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 476141,
-      "num": 476141,
-      "word": "取款身亡老人家属称与银行达成和解",
-      "onboard_time": 1747366701,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 476510,
+      "num": 476510,
+      "word": "时代少年团撕拉片",
+      "onboard_time": 1747366761,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 425960,
@@ -267,20 +283,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 372856,
+      "num": 372856,
+      "word": "被母亲殴打致死女童父亲从国外返回",
+      "onboard_time": 1747368683,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370917,
       "num": 394445,
       "word": "周深王俊凯为动画电影配音",
       "onboard_time": 1747366642,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350721,
-      "num": 350721,
-      "word": "时代少年团撕拉片",
-      "onboard_time": 1747366761,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 341006,
@@ -313,6 +329,14 @@
       "onboard_time": 1747355061,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309625,
+      "num": 258762,
+      "word": "乐言打破奥斯卡30岁恋爱计划",
+      "onboard_time": 1747367782,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 300934,
@@ -371,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270711,
+      "num": 229030,
+      "word": "法国女生到底为什么瘦",
+      "onboard_time": 1747368321,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 269160,
+      "num": 269160,
+      "word": "赵磊qko婚礼现场图",
+      "onboard_time": 1747368622,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265913,
       "num": 265913,
       "word": "俄方将等待乌代表团",
@@ -419,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225542,
+      "num": 225542,
+      "word": "一包包免费纸巾骗走老人们2亿元",
+      "onboard_time": 1747368382,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225136,
       "num": 225136,
       "word": "高圆圆机场出发像去戛纳度假",
@@ -433,6 +481,14 @@
       "onboard_time": 1747318164,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 217057,
+      "num": 217057,
+      "word": "正新鸡排回应网传鸡腿大量生蛆",
+      "onboard_time": 1747367182,
+      "rank": 34,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 215994,
@@ -467,6 +523,14 @@
       "category": "舆论监督,艺人"
     },
     {
+      "raw_hot": 205766,
+      "num": 249922,
+      "word": "跟藏海传这群造梗天赋型选手拼了",
+      "onboard_time": 1747369162,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201492,
       "num": 151490,
       "word": "多哈世乒赛周六开赛",
@@ -475,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200813,
-      "num": 200813,
-      "word": "正新鸡排回应网传鸡腿大量生蛆",
-      "onboard_time": 1747367182,
-      "rank": 34,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 199013,
       "num": 186294,
       "word": "肖某被吊销医师执业证书",
       "onboard_time": 1747311082,
       "rank": 24,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 195895,
+      "num": 195895,
+      "word": "撕拉片",
+      "onboard_time": 1747368742,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 195721,
@@ -528,6 +592,14 @@
       "word": "离婚卖房转移390万欠款最终获刑3年",
       "onboard_time": 1747366102,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186291,
+      "num": 237606,
+      "word": "男子不明原因腹泻一年暴瘦至67斤",
+      "onboard_time": 1747369522,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -571,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170784,
+      "num": 243729,
+      "word": "大胖小子和小胖丫头",
+      "onboard_time": 1747368622,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170524,
       "num": 179809,
       "word": "税务局回应刘晓庆被举报偷漏税",
@@ -595,12 +675,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169212,
+      "num": 169212,
+      "word": "黎深九黎司命",
+      "onboard_time": 1747369704,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168362,
       "num": 168362,
       "word": "郑钦文vs高芙",
       "onboard_time": 1747320384,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160600,
+      "num": 160600,
+      "word": "大冰喊话山东救人考生",
+      "onboard_time": 1747367963,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 159396,
+      "num": 159396,
+      "word": "我要与乔女寸土必争",
+      "onboard_time": 1747366582,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158166,
@@ -691,14 +795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138838,
-      "num": 138838,
-      "word": "我要与乔女寸土必争",
-      "onboard_time": 1747366582,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138811,
       "num": 138811,
       "word": "彭楚粤晒X玖少年团qko合照",
@@ -731,15 +827,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133052,
-      "num": 133052,
-      "word": "乐言打破奥斯卡30岁恋爱计划",
-      "onboard_time": 1747367782,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 132261,
+      "raw_hot": 134354,
       "num": 230202,
       "word": "日媒关注王楚钦训练",
       "onboard_time": 1747366761,
@@ -755,12 +843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130130,
+      "num": 267073,
+      "word": "雷霆掘金谁会赢下抢七",
+      "onboard_time": 1747368981,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130090,
       "num": 183402,
       "word": "小花镜头下的孙俪好美",
       "onboard_time": 1747349597,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129872,
+      "num": 333088,
+      "word": "CoCo一亿杯买一送一",
+      "onboard_time": 1747368382,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 126801,
@@ -995,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92555,
+      "num": 1081468,
+      "word": "中国吸引来越来越多外国游客",
+      "onboard_time": 1747368200,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91881,
       "num": 114595,
       "word": "俄蒙混血网红让韩国化妆师化kpop妆",
@@ -1049,6 +1161,14 @@
       "onboard_time": 1747367422,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 77332,
+      "num": 251246,
+      "word": "美的脱口秀大会阵容",
+      "onboard_time": 1747368382,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 77108,
@@ -1121,6 +1241,14 @@
       "onboard_time": 1747364061,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 62821,
+      "num": 281589,
+      "word": "王蓉姐自乘风",
+      "onboard_time": 1747368382,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 60449,
@@ -1329,6 +1457,9 @@
     },
     {
       "word": "#深入贯彻中央八项规定精神#"
+    },
+    {
+      "word": "#中国是外商理想安全有为的投资目的地#"
     }
   ]
 }
