@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747378198275,
+  "endTime": 1747380319461,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -403,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1548802,
+      "num": 1548802,
+      "word": "多次强奸8名未成年人罪犯被执行死刑",
+      "onboard_time": 1747376122,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1547300,
       "num": 763030,
       "word": "特朗普突然提统一吓坏台当局",
@@ -608,14 +616,6 @@
       "word": "上海10岁女孩确诊长发公主综合征",
       "onboard_time": 1747306703,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1308516,
-      "num": 1308516,
-      "word": "多次强奸8名未成年人罪犯被执行死刑",
-      "onboard_time": 1747376122,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1153,6 +1153,14 @@
       "onboard_time": 1747106242,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 941304,
+      "num": 941304,
+      "word": "女排朱婷妹妹被保送浙大受质疑",
+      "onboard_time": 1747375880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 933594,
@@ -2185,14 +2193,6 @@
       "onboard_time": 1746955580,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 590201,
-      "num": 590201,
-      "word": "女排朱婷妹妹被保送浙大受质疑",
-      "onboard_time": 1747375880,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 589444,
@@ -4019,6 +4019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 356341,
+      "num": 356341,
+      "word": "张婧仪吃排骨把牙崩掉了",
+      "onboard_time": 1747378821,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355207,
       "num": 355207,
       "word": "野狗骨头",
@@ -4691,6 +4699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300593,
+      "num": 356572,
+      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+      "onboard_time": 1747375401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300574,
       "num": 324248,
       "word": "美国关税战把美国农业打得好疼",
@@ -4873,6 +4889,14 @@
       "onboard_time": 1747230264,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287638,
+      "num": 287638,
+      "word": "陈梦工作室来了",
+      "onboard_time": 1747379001,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 287592,
@@ -5081,6 +5105,14 @@
       "onboard_time": 1746984257,
       "rank": 21,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 270846,
+      "num": 270846,
+      "word": "北京国贸偶遇鹿晗",
+      "onboard_time": 1747378522,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 270842,
@@ -5419,6 +5451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254241,
+      "num": 254241,
+      "word": "赵樱子被外国帅哥搭讪",
+      "onboard_time": 1747378161,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254108,
       "num": 254108,
       "word": "月薪6000如何过出两万的气势",
@@ -5545,6 +5585,14 @@
       "onboard_time": 1747284024,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249728,
+      "num": 249728,
+      "word": "王楚钦冲击首个男单世界冠军",
+      "onboard_time": 1747379361,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 249559,
@@ -5737,6 +5785,14 @@
       "onboard_time": 1747301363,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243367,
+      "num": 243367,
+      "word": "真实的剖腹产",
+      "onboard_time": 1747377621,
+      "rank": 42,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 242636,
@@ -8267,6 +8323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186993,
+      "num": 249319,
+      "word": "陈赫把黄磊厨房占了",
+      "onboard_time": 1747375642,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186932,
       "num": 186932,
       "word": "航拍今日汶川看泪目了",
@@ -8329,6 +8393,14 @@
       "onboard_time": 1747366102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186469,
+      "num": 248299,
+      "word": "倪虹洁从吴宣仪全世界路过",
+      "onboard_time": 1747379662,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 186260,
@@ -8569,6 +8641,14 @@
       "onboard_time": 1746962663,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182963,
+      "num": 182963,
+      "word": "一张绝美的脸后面还是一张美脸",
+      "onboard_time": 1747380021,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 182912,
@@ -8897,14 +8977,6 @@
       "onboard_time": 1747369522,
       "rank": 16,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 177659,
-      "num": 177659,
-      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
-      "onboard_time": 1747375401,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177589,
@@ -9569,14 +9641,6 @@
       "onboard_time": 1747080615,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168690,
-      "num": 222750,
-      "word": "陈赫把黄磊厨房占了",
-      "onboard_time": 1747375642,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 168645,
@@ -10555,6 +10619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156426,
+      "num": 139963,
+      "word": "黄子弘凡",
+      "onboard_time": 1747379722,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156382,
       "num": 156382,
       "word": "越幸福的人越喜欢说废话",
@@ -10569,6 +10641,14 @@
       "onboard_time": 1747041623,
       "rank": 41,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 156292,
+      "num": 156292,
+      "word": "张召忠给战机排名",
+      "onboard_time": 1747379182,
+      "rank": 37,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 156192,
@@ -11747,14 +11827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142740,
-      "num": 142740,
-      "word": "赵樱子被外国帅哥搭讪",
-      "onboard_time": 1747378161,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142729,
       "num": 986527,
       "word": "外国航司狂接中国游流量",
@@ -12435,14 +12507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136457,
-      "num": 136457,
-      "word": "真实的剖腹产",
-      "onboard_time": 1747377621,
-      "rank": 42,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 136412,
       "num": 233632,
       "word": "彭小苒直播",
@@ -12545,6 +12609,14 @@
       "onboard_time": 1746944841,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135043,
+      "num": 267955,
+      "word": "四个河南男人掏空中产钱包",
+      "onboard_time": 1747379303,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134971,
@@ -12720,6 +12792,14 @@
       "word": "音乐人韩贤光病逝",
       "onboard_time": 1747017202,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "张婧仪方辟谣",
+      "onboard_time": 1747378581,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -14027,6 +14107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119431,
+      "num": 119431,
+      "word": "张本智和表态世乒赛夺金",
+      "onboard_time": 1747379182,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119427,
       "num": 119427,
       "word": "大疆Mavic4Pro",
@@ -14081,6 +14169,14 @@
       "onboard_time": 1746918558,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119043,
+      "num": 271414,
+      "word": "买手机的钱都花在哪了",
+      "onboard_time": 1747379182,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 118943,
@@ -17027,6 +17123,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 65901,
+      "num": 154798,
+      "word": "科学家算出宇宙确切终结时间",
+      "onboard_time": 1747379303,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 65799,
       "num": 65799,
       "word": "夫妻带双方母亲环游33国妻子发声",
@@ -19219,6 +19323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30096,
+      "num": 265412,
+      "word": "克罗恩病与普通肠炎如何区分",
+      "onboard_time": 1747379782,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30085,
       "num": 35807,
       "word": "折腰腾讯站内热度值破23000",
@@ -19249,6 +19361,14 @@
       "onboard_time": 1747364782,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29852,
+      "num": 244662,
+      "word": "湖北的可乐",
+      "onboard_time": 1747378881,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 29616,
@@ -19657,6 +19777,14 @@
       "onboard_time": 1746988514,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24937,
+      "num": 244189,
+      "word": "巴基斯坦到底是个怎样的国家",
+      "onboard_time": 1747378881,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 24910,
@@ -20259,6 +20387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19152,
+      "num": 156675,
+      "word": "今麦郎代工业务模式是什么样的",
+      "onboard_time": 1747378941,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 19058,
       "num": 179598,
       "word": "如何辨别山寨射频治疗仪器",
@@ -20321,6 +20457,14 @@
       "onboard_time": 1747124181,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18297,
+      "num": 246551,
+      "word": "Manus可以一气呵成完成任务",
+      "onboard_time": 1747379242,
+      "rank": 27,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 18123,

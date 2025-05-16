@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747378198275,
+  "endTime": 1747380319461,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1548802,
+      "num": 1548802,
+      "word": "多次强奸8名未成年人罪犯被执行死刑",
+      "onboard_time": 1747376122,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1400651,
       "num": 1400651,
       "word": "侯佩岑陈乔恩被台当局威胁查处",
@@ -80,14 +88,6 @@
       "word": "取款身亡老人家属称与银行达成和解",
       "onboard_time": 1747366701,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1308516,
-      "num": 1308516,
-      "word": "多次强奸8名未成年人罪犯被执行死刑",
-      "onboard_time": 1747376122,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1747324102,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 941304,
+      "num": 941304,
+      "word": "女排朱婷妹妹被保送浙大受质疑",
+      "onboard_time": 1747375880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 772617,
@@ -233,14 +241,6 @@
       "onboard_time": 1747317204,
       "rank": 38,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 590201,
-      "num": 590201,
-      "word": "女排朱婷妹妹被保送浙大受质疑",
-      "onboard_time": 1747375880,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 587674,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356341,
+      "num": 356341,
+      "word": "张婧仪吃排骨把牙崩掉了",
+      "onboard_time": 1747378821,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341006,
       "num": 399150,
       "word": "哈马斯称若永久停火可交出加沙控制权",
@@ -467,6 +475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 300593,
+      "num": 356572,
+      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+      "onboard_time": 1747375401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300447,
       "num": 300447,
       "word": "恋与深空",
@@ -491,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 287638,
+      "num": 287638,
+      "word": "陈梦工作室来了",
+      "onboard_time": 1747379001,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282363,
       "num": 282363,
       "word": "参加赵磊婚礼的明星",
@@ -513,6 +537,14 @@
       "onboard_time": 1747365202,
       "rank": 22,
       "category": "互联网,作品衍生"
+    },
+    {
+      "raw_hot": 270846,
+      "num": 270846,
+      "word": "北京国贸偶遇鹿晗",
+      "onboard_time": 1747378522,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 270842,
@@ -563,6 +595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254241,
+      "num": 254241,
+      "word": "赵樱子被外国帅哥搭讪",
+      "onboard_time": 1747378161,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249728,
+      "num": 249728,
+      "word": "王楚钦冲击首个男单世界冠军",
+      "onboard_time": 1747379361,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249209,
       "num": 453120,
       "word": "强奸猥亵9名未成年人罪犯被执行死刑",
@@ -585,6 +633,14 @@
       "onboard_time": 1747373243,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243367,
+      "num": 243367,
+      "word": "真实的剖腹产",
+      "onboard_time": 1747377621,
+      "rank": 42,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 240135,
@@ -763,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186993,
+      "num": 249319,
+      "word": "陈赫把黄磊厨房占了",
+      "onboard_time": 1747375642,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186666,
       "num": 186666,
       "word": "比伯破产",
@@ -779,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186469,
+      "num": 248299,
+      "word": "倪虹洁从吴宣仪全世界路过",
+      "onboard_time": 1747379662,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184067,
       "num": 225212,
       "word": "特朗普再提接管加沙",
@@ -793,6 +865,14 @@
       "onboard_time": 1747351280,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182963,
+      "num": 182963,
+      "word": "一张绝美的脸后面还是一张美脸",
+      "onboard_time": 1747380021,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 179779,
@@ -825,14 +905,6 @@
       "onboard_time": 1747369522,
       "rank": 16,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 177659,
-      "num": 177659,
-      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
-      "onboard_time": 1747375401,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177405,
@@ -907,14 +979,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 168690,
-      "num": 222750,
-      "word": "陈赫把黄磊厨房占了",
-      "onboard_time": 1747375642,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168362,
       "num": 168362,
       "word": "郑钦文vs高芙",
@@ -987,6 +1051,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156426,
+      "num": 139963,
+      "word": "黄子弘凡",
+      "onboard_time": 1747379722,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 156292,
+      "num": 156292,
+      "word": "张召忠给战机排名",
+      "onboard_time": 1747379182,
+      "rank": 37,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 156093,
       "num": 156093,
       "word": "盒马猕猴桃",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1747376001,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154208,
+      "num": 154208,
+      "word": "代孕",
+      "onboard_time": 1747379902,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154204,
@@ -1083,14 +1171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142740,
-      "num": 142740,
-      "word": "赵樱子被外国帅哥搭讪",
-      "onboard_time": 1747378161,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141282,
       "num": 213960,
       "word": "全球经济前景恶化",
@@ -1147,12 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136457,
-      "num": 136457,
-      "word": "真实的剖腹产",
-      "onboard_time": 1747377621,
-      "rank": 42,
-      "category": "科学科普,民生新闻"
+      "raw_hot": 135043,
+      "num": 267955,
+      "word": "四个河南男人掏空中产钱包",
+      "onboard_time": 1747379303,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134640,
@@ -1169,6 +1249,14 @@
       "onboard_time": 1747366761,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "张婧仪方辟谣",
+      "onboard_time": 1747378581,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 131207,
@@ -1323,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119431,
+      "num": 119431,
+      "word": "张本智和表态世乒赛夺金",
+      "onboard_time": 1747379182,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119402,
       "num": 197470,
       "word": "歌手",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1747372821,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119043,
+      "num": 271414,
+      "word": "买手机的钱都花在哪了",
+      "onboard_time": 1747379182,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 117096,
@@ -1683,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65901,
+      "num": 154798,
+      "word": "科学家算出宇宙确切终结时间",
+      "onboard_time": 1747379303,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 64084,
       "num": 144333,
       "word": "表彰200名全国自强模范",
@@ -1819,12 +1931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30096,
+      "num": 265412,
+      "word": "克罗恩病与普通肠炎如何区分",
+      "onboard_time": 1747379782,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29856,
       "num": 206821,
       "word": "库里油箱里还有很多油",
       "onboard_time": 1747364782,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29852,
+      "num": 244662,
+      "word": "湖北的可乐",
+      "onboard_time": 1747378881,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 28989,
@@ -1857,6 +1985,14 @@
       "onboard_time": 1747367722,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24937,
+      "num": 244189,
+      "word": "巴基斯坦到底是个怎样的国家",
+      "onboard_time": 1747378881,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 24791,
@@ -1937,6 +2073,22 @@
       "onboard_time": 1747377142,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19152,
+      "num": 156675,
+      "word": "今麦郎代工业务模式是什么样的",
+      "onboard_time": 1747378941,
+      "rank": 36,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 18297,
+      "num": 246551,
+      "word": "Manus可以一气呵成完成任务",
+      "onboard_time": 1747379242,
+      "rank": 27,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 18123,
