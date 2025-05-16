@@ -1,0 +1,410 @@
+{
+  "runTime": 1747400769216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5956419,
+        "num": 5956419,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3593721,
+        "num": 3593721,
+        "word": "歌手直播",
+        "onboard_time": 1747394482,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25145,
+        "num": 1517114,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 466146,
+        "num": 466146,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310491,
+        "num": 466027,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234315,
+        "num": 465967,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1597565,
+        "num": 465800,
+        "word": "单依纯ladygaga时候",
+        "onboard_time": 1747398322,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995930,
+        "num": 465720,
+        "word": "陈楚生 李白",
+        "onboard_time": 1747400124,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369788,
+        "num": 465605,
+        "word": "刘宇宁 顺眼",
+        "onboard_time": 1747399040,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221780,
+        "num": 465512,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877011,
+        "num": 465289,
+        "word": "黄杨爸爸说耳环不是正品",
+        "onboard_time": 1747394723,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601883,
+        "num": 465157,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34626,
+        "num": 465102,
+        "word": "vivo影像技术升级掌控歌手名场面",
+        "onboard_time": 1747399102,
+        "rank": 12,
+        "category": "数码,综艺"
+      },
+      {
+        "raw_hot": 67697,
+        "num": 464947,
+        "word": "618发券力度都向天猫看齐",
+        "onboard_time": 1747398142,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23137,
+        "num": 464842,
+        "word": "墨西哥96岁老妇被抬到银行人脸识别",
+        "onboard_time": 1747400063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99372,
+        "num": 464696,
+        "word": "蔚来ET9技术下放新ES6新EC6",
+        "onboard_time": 1747398142,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129918,
+        "num": 464636,
+        "word": "张真源一放学就来连麦跑男",
+        "onboard_time": 1747400303,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13497,
+        "num": 464525,
+        "word": "虫害是如何进入正新鸡排产品的",
+        "onboard_time": 1747400482,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15326,
+        "num": 464372,
+        "word": "植物是如何适应塔克拉玛干气候的",
+        "onboard_time": 1747399582,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 40316,
+        "num": 464236,
+        "word": "碎纸机里都可能暗藏窃密设备",
+        "onboard_time": 1747399642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627838,
+        "num": 464065,
+        "word": "陈楚生歌手全民预测第一",
+        "onboard_time": 1747399403,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197406,
+        "num": 463965,
+        "word": "天猫美妆买一送一真香",
+        "onboard_time": 1747398142,
+        "rank": 21,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 191997,
+        "num": 463866,
+        "word": "那英说单依纯比她强多了",
+        "onboard_time": 1747399342,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569743,
+        "num": 463749,
+        "word": "歌手开场 高级",
+        "onboard_time": 1747397902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124147,
+        "num": 463633,
+        "word": "王曼昱总结世乒赛适应情况",
+        "onboard_time": 1747399704,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463538,
+        "num": 463538,
+        "word": "BENI不会淘汰吧",
+        "onboard_time": 1747399040,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202137,
+        "num": 463269,
+        "word": "女子遭家暴后杀害丈夫潜逃获刑15年",
+        "onboard_time": 1747398621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195136,
+        "num": 449292,
+        "word": "天猫国补买空调首次能叠千元券",
+        "onboard_time": 1747398142,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105247,
+        "num": 442234,
+        "word": "日本62岁男子因照顾太疲惫掐死母亲",
+        "onboard_time": 1747399763,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8974,
+        "num": 424119,
+        "word": "莫斯科90岁的地铁",
+        "onboard_time": 1747400482,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38759,
+        "num": 419542,
+        "word": "特朗普访问中东三国主要目的是什么",
+        "onboard_time": 1747400063,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55626,
+        "num": 411732,
+        "word": "男子高速逆行12分全扣了",
+        "onboard_time": 1747400603,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402764,
+        "num": 402764,
+        "word": "任权薛小婉结婚",
+        "onboard_time": 1747399824,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281082,
+        "num": 281082,
+        "word": "火树 歌手听审",
+        "onboard_time": 1747399582,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250394,
+        "num": 250394,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237730,
+        "num": 237730,
+        "word": "周思成怎么也上歌手了",
+        "onboard_time": 1747399040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234475,
+        "num": 234475,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223479,
+        "num": 223479,
+        "word": "歌手顺序",
+        "onboard_time": 1747399763,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211874,
+        "num": 211874,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195143,
+        "num": 195143,
+        "word": "武艺首次披露父母离婚",
+        "onboard_time": 1747392800,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191086,
+        "num": 191086,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "严浩翔你回头看一下宋亚轩吧",
+        "onboard_time": 1747399642,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185443,
+        "num": 185443,
+        "word": "苗苗女儿成功追星宋雨琦",
+        "onboard_time": 1747400422,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 184742,
+        "word": "青绿腰震撼戛纳",
+        "onboard_time": 1747395741,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15418,
+        "num": 184173,
+        "word": "连阳光都偏爱钟楚曦",
+        "onboard_time": 1747400727,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73623,
+        "num": 182720,
+        "word": "京东补贴",
+        "onboard_time": 1747395682,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28684,
+        "num": 182118,
+        "word": "谁最有可能在歌手首期被淘汰",
+        "onboard_time": 1747395682,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181441,
+        "num": 181441,
+        "word": "免签后为什么重庆挤满泰国人",
+        "onboard_time": 1747400362,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285327,
+        "num": 180372,
+        "word": "歌手2025追综指南",
+        "onboard_time": 1747393641,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177517,
+        "num": 177517,
+        "word": "刘宇宁腹肌",
+        "onboard_time": 1747396042,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障残疾人平等权益#"
+    }
+  }
+}
