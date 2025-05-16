@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/16 22:25:09
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/16 22:44:07
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E7%9B%B8%E4%BA%9224%25%E5%85%B3%E7%A8%8E90%E5%A4%A9%E5%86%85%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD%23" target="weibo">
 中美相互24%关税90天内暂停实施（热度：9712414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：9584581）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Everglow宣布解散（热度：518013）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%A4%87%E6%88%98%E6%98%8E%E5%B9%B4%E6%96%AF%E8%AF%BA%E5%85%8B%23" target="weibo">
 邓超备战明年斯诺克（热度：498475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E6%AF%85%E7%A7%B04%E5%8A%A04%E9%80%82%E5%90%88%E5%8D%8F%E5%92%8C%E4%B8%94%E5%8F%AF%E6%8E%A8%E5%B9%BF%23" target="weibo">
-饶毅称4加4适合协和且可推广（热度：498325）
 </a>
 </li>
 

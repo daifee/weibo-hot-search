@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747405509644,
+  "endTime": 1747406647433,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -705,6 +705,14 @@
       "onboard_time": 1747034002,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9584581,
+      "num": 9584581,
+      "word": "歌手排名",
+      "onboard_time": 1747406066,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 9461281,
@@ -2392,14 +2400,6 @@
       "word": "官方通报江秋莲被举报诈捐",
       "onboard_time": 1739449643,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3127009,
-      "num": 3127009,
-      "word": "新修订婚姻登记条例自5月10日起施行",
-      "onboard_time": 1744190723,
-      "rank": 37,
       "category": "民生新闻"
     }
   ],
