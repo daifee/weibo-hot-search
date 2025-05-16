@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747366266951,
+  "endTime": 1747367876493,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1031335,
+      "num": 1031335,
+      "word": "网友爆料正新鸡排鸡腿大量生蛆",
+      "onboard_time": 1747364902,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1005215,
       "num": 410804,
       "word": "丁真 被资本做局了",
@@ -83,8 +91,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 719797,
-      "num": 719797,
+      "raw_hot": 723653,
+      "num": 723653,
       "word": "2025年端午节放假不调休",
       "onboard_time": 1747355421,
       "rank": 5,
@@ -203,6 +211,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 476141,
+      "num": 476141,
+      "word": "取款身亡老人家属称与银行达成和解",
+      "onboard_time": 1747366701,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425960,
       "num": 425960,
       "word": "北京协和医学院正在深入整改",
@@ -235,12 +251,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398482,
+      "num": 351076,
+      "word": "继父去世后男子一家10口改随生父姓",
+      "onboard_time": 1747367182,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388250,
       "num": 388250,
       "word": "关注肖董事件后续调查情况",
       "onboard_time": 1747362981,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 370917,
+      "num": 394445,
+      "word": "周深王俊凯为动画电影配音",
+      "onboard_time": 1747366642,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 350721,
+      "num": 350721,
+      "word": "时代少年团撕拉片",
+      "onboard_time": 1747366761,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341006,
+      "num": 399150,
+      "word": "哈马斯称若永久停火可交出加沙控制权",
+      "onboard_time": 1747364539,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 339341,
@@ -275,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 300447,
+      "num": 300447,
+      "word": "恋与深空",
+      "onboard_time": 1747366642,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299554,
       "num": 299554,
       "word": "原来梨形身材是基因彩票",
@@ -300,7 +356,7 @@
     },
     {
       "raw_hot": 279805,
-      "num": 279805,
+      "num": 343893,
       "word": "京东干啥都太全面了",
       "onboard_time": 1747365202,
       "rank": 22,
@@ -355,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234368,
-      "num": 234368,
-      "word": "网友爆料正新鸡排鸡腿大量生蛆",
-      "onboard_time": 1747364902,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226552,
       "num": 226552,
       "word": "歌手歌单",
@@ -371,12 +419,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225551,
-      "num": 399150,
-      "word": "哈马斯称若永久停火可交出加沙控制权",
-      "onboard_time": 1747364539,
+      "raw_hot": 225136,
+      "num": 225136,
+      "word": "高圆圆机场出发像去戛纳度假",
+      "onboard_time": 1747366041,
       "rank": 32,
-      "category": "国际时政"
+      "category": "艺人"
     },
     {
       "raw_hot": 217468,
@@ -427,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201024,
-      "num": 201024,
-      "word": "高圆圆机场出发像去戛纳度假",
-      "onboard_time": 1747366041,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "正新鸡排回应网传鸡腿大量生蛆",
+      "onboard_time": 1747367182,
+      "rank": 34,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 199013,
@@ -441,6 +489,22 @@
       "onboard_time": 1747311082,
       "rank": 24,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 195721,
+      "num": 195721,
+      "word": "乘风2025五公分组",
+      "onboard_time": 1747367182,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191566,
+      "num": 222745,
+      "word": "掘金3比3雷霆",
+      "onboard_time": 1747366102,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 189102,
@@ -457,6 +521,14 @@
       "onboard_time": 1747293501,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186483,
+      "num": 369099,
+      "word": "离婚卖房转移390万欠款最终获刑3年",
+      "onboard_time": 1747366102,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184067,
@@ -611,6 +683,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139659,
+      "num": 139659,
+      "word": "iG呼吁大家文明观赛",
+      "onboard_time": 1747367242,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 138838,
+      "num": 138838,
+      "word": "我要与乔女寸土必争",
+      "onboard_time": 1747366582,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138811,
       "num": 138811,
       "word": "彭楚粤晒X玖少年团qko合照",
@@ -620,7 +708,7 @@
     },
     {
       "raw_hot": 138582,
-      "num": 225205,
+      "num": 244307,
       "word": "卢伟冰称小米Civi系列将对标苹果",
       "onboard_time": 1747363461,
       "rank": 23,
@@ -641,6 +729,22 @@
       "onboard_time": 1747357941,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133052,
+      "num": 133052,
+      "word": "乐言打破奥斯卡30岁恋爱计划",
+      "onboard_time": 1747367782,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132261,
+      "num": 230202,
+      "word": "日媒关注王楚钦训练",
+      "onboard_time": 1747366761,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 130327,
@@ -776,14 +880,6 @@
       "word": "高芙保利尼争冠",
       "onboard_time": 1747351220,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114600,
-      "num": 222745,
-      "word": "掘金3比3雷霆",
-      "onboard_time": 1747366102,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -947,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79563,
+      "num": 151455,
+      "word": "魔卡少女樱这是真天使",
+      "onboard_time": 1747367422,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 77108,
       "num": 77108,
       "word": "近期新冠又出现抬头趋势",
@@ -971,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74639,
+      "num": 352598,
+      "word": "找噪声源申请政府信息公开得交8万多",
+      "onboard_time": 1747366161,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73705,
       "num": 86758,
       "word": "最好的友情就在这4句话里",
@@ -993,6 +1105,22 @@
       "onboard_time": 1747323023,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68167,
+      "num": 225183,
+      "word": "儿童手表不能再不务正业",
+      "onboard_time": 1747366222,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68052,
+      "num": 162157,
+      "word": "金饰克价一周跌64元",
+      "onboard_time": 1747364061,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 60449,
@@ -1027,30 +1155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50458,
-      "num": 212356,
-      "word": "离婚卖房转移390万欠款最终获刑3年",
-      "onboard_time": 1747366102,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48765,
-      "num": 162157,
-      "word": "金饰克价一周跌64元",
-      "onboard_time": 1747364061,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 47425,
-      "num": 162075,
-      "word": "儿童手表不能再不务正业",
-      "onboard_time": 1747366222,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43221,
       "num": 217683,
       "word": "以军轰炸加沙多地造成至少82人死亡",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1747364720,
       "rank": 29,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 30866,
-      "num": 162198,
-      "word": "找噪声源申请政府信息公开得交8万多",
-      "onboard_time": 1747366161,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30607,
@@ -1123,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25321,
+      "num": 211096,
+      "word": "高芙连进两站1000赛决赛",
+      "onboard_time": 1747367722,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23872,
       "num": 23872,
       "word": "王鹤棣咸鱼飞升预热",
       "onboard_time": 1747333275,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23374,
+      "num": 353253,
+      "word": "举报刘晓庆当事人称不认识刘晓庆",
+      "onboard_time": 1747367662,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 23355,
@@ -1187,17 +1299,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11625,
+      "num": 351747,
+      "word": "反盗墓剧护宝寻踪如何突出守护价值",
+      "onboard_time": 1747367182,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 7456,
       "num": 20094,
       "word": "排球少年最萌的手办",
       "onboard_time": 1747337654,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 6627,
+      "num": 848588,
+      "word": "共享数字经济发展机遇",
+      "onboard_time": 1747316364,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#以优良党风引领社风民风#"
+    },
+    {
+      "word": "#深入贯彻中央八项规定精神#"
     }
   ]
 }
