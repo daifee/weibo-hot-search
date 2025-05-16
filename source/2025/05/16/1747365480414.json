@@ -1,0 +1,410 @@
+{
+  "runTime": 1747365480414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151615,
+        "num": 1184258,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634370,
+        "num": 634370,
+        "word": "2025年端午节放假不调休",
+        "onboard_time": 1747355421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45053,
+        "num": 616717,
+        "word": "降准释放了明确稳增长的积极信号",
+        "onboard_time": 1747316424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607076,
+        "num": 607076,
+        "word": "荣耀 肖战",
+        "onboard_time": 1747362621,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591477,
+        "num": 591477,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536632,
+        "num": 536632,
+        "word": "雷军说十年饮冰难凉热血",
+        "onboard_time": 1747359920,
+        "rank": 5,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 488016,
+        "num": 488016,
+        "word": "官方回应烧烤店泔水桶捞出肉串再烤",
+        "onboard_time": 1747363160,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 477137,
+        "num": 477137,
+        "word": "侯佩岑陈乔恩被台当局威胁查处",
+        "onboard_time": 1747351879,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391612,
+        "num": 391612,
+        "word": "终于有剧敢拍反盗墓题材了",
+        "onboard_time": 1747363940,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321442,
+        "num": 321442,
+        "word": "京津冀局地11级雷暴大风或大冰雹",
+        "onboard_time": 1747357342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3177100,
+        "num": 320155,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443967,
+        "num": 316331,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377187,
+        "num": 310023,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 372733,
+        "num": 305122,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322037,
+        "num": 301909,
+        "word": "关注肖董事件后续调查情况",
+        "onboard_time": 1747362981,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 300613,
+        "num": 300613,
+        "word": "杜淳妻子体检被误诊",
+        "onboard_time": 1747351280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270842,
+        "num": 270842,
+        "word": "金泰亨为IU庆生",
+        "onboard_time": 1747361241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247412,
+        "num": 247412,
+        "word": "刘晓庆回应被指偷税",
+        "onboard_time": 1747321584,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240135,
+        "num": 240135,
+        "word": "法医秦明",
+        "onboard_time": 1747358660,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94800,
+        "num": 225212,
+        "word": "特朗普再提接管加沙",
+        "onboard_time": 1747363881,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140258,
+        "num": 217116,
+        "word": "全国200个集体260名个人受表彰",
+        "onboard_time": 1747365202,
+        "rank": 20,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 170290,
+        "num": 216663,
+        "word": "姜广涛获国赔",
+        "onboard_time": 1747322183,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216503,
+        "num": 216503,
+        "word": "京东干啥都太全面了",
+        "onboard_time": 1747365202,
+        "rank": 22,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 138582,
+        "num": 214836,
+        "word": "卢伟冰称小米Civi系列将对标苹果",
+        "onboard_time": 1747363461,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141282,
+        "num": 213960,
+        "word": "全球经济前景恶化",
+        "onboard_time": 1747359502,
+        "rank": 24,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 59442,
+        "num": 211216,
+        "word": "雷佳音吃成京东代言人",
+        "onboard_time": 1747365202,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 11830,
+        "num": 208501,
+        "word": "饭店捞泔水桶肉串售卖卫生底线在哪",
+        "onboard_time": 1747365381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29856,
+        "num": 206821,
+        "word": "库里油箱里还有很多油",
+        "onboard_time": 1747364782,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35527,
+        "num": 203443,
+        "word": "以军轰炸加沙多地造成至少82人死亡",
+        "onboard_time": 1747364602,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31867,
+        "num": 201648,
+        "word": "半小时打通英语语法的任督二脉",
+        "onboard_time": 1747364720,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 116703,
+        "num": 199098,
+        "word": "欧阳娜娜等20多人被台当局威胁",
+        "onboard_time": 1747321464,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 197470,
+        "word": "歌手",
+        "onboard_time": 1747353440,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163001,
+        "num": 195789,
+        "word": "哈马斯称若永久停火可交出加沙控制权",
+        "onboard_time": 1747364539,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294568,
+        "num": 192728,
+        "word": "炒牛肉千万不要直接就下锅",
+        "onboard_time": 1747361362,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192442,
+        "num": 192442,
+        "word": "金价一跌再跌网友直呼亏麻了",
+        "onboard_time": 1747320263,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173365,
+        "num": 173365,
+        "word": "俄乌伊斯坦布尔谈判今日开始",
+        "onboard_time": 1747360221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171182,
+        "num": 171182,
+        "word": "董某莹四项证书被撤销",
+        "onboard_time": 1747311022,
+        "rank": 36,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 166204,
+        "num": 166204,
+        "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
+        "onboard_time": 1747305682,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154000,
+        "num": 154000,
+        "word": "7人帮刮奖刮出100万每人分1万",
+        "onboard_time": 1747324102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60449,
+        "num": 151161,
+        "word": "女生专科学这14个专业",
+        "onboard_time": 1747364481,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 149503,
+        "num": 149503,
+        "word": "原来梨形身材是基因彩票",
+        "onboard_time": 1747357342,
+        "rank": 40,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 144701,
+        "num": 144701,
+        "word": "雷霆vs掘金",
+        "onboard_time": 1747362741,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "网友爆料正新鸡排鸡腿大量生蛆",
+        "onboard_time": 1747364902,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139933,
+        "num": 139933,
+        "word": "新冠感染又抬头",
+        "onboard_time": 1747321584,
+        "rank": 43,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 130105,
+        "num": 130105,
+        "word": "9年救5万只猫却遭恶意诋毁",
+        "onboard_time": 1747362441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115451,
+        "num": 115451,
+        "word": "在银行去世老人家属放弃送医",
+        "onboard_time": 1747323982,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115106,
+        "num": 115106,
+        "word": "黄金首饰成年轻人520送礼首选",
+        "onboard_time": 1747363160,
+        "rank": 46,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 113375,
+        "num": 113375,
+        "word": "肖某被吊销医师执业证书",
+        "onboard_time": 1747311082,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 90443,
+        "num": 110621,
+        "word": "碟中谍8最终清算定档",
+        "onboard_time": 1747363640,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109922,
+        "num": 109922,
+        "word": "燕云十六声",
+        "onboard_time": 1747360881,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以优良党风引领社风民风#"
+    }
+  }
+}

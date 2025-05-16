@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747362120587,
+  "endTime": 1747365480414,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2291,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3177100,
+      "num": 326180,
+      "word": "黄杨钿甜爸爸 雅安公务员",
+      "onboard_time": 1747359259,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3176078,
       "num": 615175,
       "word": "吴京 小哪吒冲冲冲",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739634621,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3114796,
-      "num": 3114796,
-      "word": "李晟第一",
-      "onboard_time": 1742905702,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
