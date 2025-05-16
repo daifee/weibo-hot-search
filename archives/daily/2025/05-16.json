@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747392302962,
+  "endTime": 1747394514820,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756494,
+      "num": 756494,
+      "word": "山姆绿豆糕",
+      "onboard_time": 1747390161,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 754270,
       "num": 302544,
       "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703966,
+      "num": 703966,
+      "word": "歌手直播",
+      "onboard_time": 1747394482,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685508,
       "num": 685508,
       "word": "京津冀局地11级雷暴大风或大冰雹",
@@ -377,6 +393,14 @@
       "onboard_time": 1747383082,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609741,
+      "num": 609741,
+      "word": "网友自曝在上海公园放生美国牛蛙",
+      "onboard_time": 1747391421,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 607076,
@@ -523,6 +547,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 424286,
+      "num": 424286,
+      "word": "武艺首次披露父母离婚",
+      "onboard_time": 1747392800,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421681,
       "num": 421681,
       "word": "纤维粒",
@@ -595,20 +627,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 376058,
-      "num": 376058,
-      "word": "山姆绿豆糕",
-      "onboard_time": 1747390161,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 373157,
       "num": 373157,
       "word": "200万买一对耳环的概念",
       "onboard_time": 1747384642,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372801,
+      "num": 372801,
+      "word": "赵磊婚礼六个伴郎",
+      "onboard_time": 1747392021,
+      "rank": 35,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 370917,
@@ -689,14 +721,6 @@
       "onboard_time": 1747367782,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307957,
-      "num": 307957,
-      "word": "赵磊婚礼六个伴郎",
-      "onboard_time": 1747392021,
-      "rank": 35,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 300934,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223936,
+      "num": 223936,
+      "word": "俄乌在土耳其谈判已开始",
+      "onboard_time": 1747391724,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220758,
       "num": 220758,
       "word": "大冰喊话山东救人考生",
@@ -1051,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203616,
+      "num": 379535,
+      "word": "折腰男主 曹操的终极幻想",
+      "onboard_time": 1747390821,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201492,
       "num": 151490,
       "word": "多哈世乒赛周六开赛",
@@ -1115,12 +1155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193694,
-      "num": 379535,
-      "word": "折腰男主 曹操的终极幻想",
-      "onboard_time": 1747390821,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 192380,
+      "num": 277802,
+      "word": "王楚钦说不会给自己定多高的目标",
+      "onboard_time": 1747392202,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 191566,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1747386982,
       "rank": 14,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 189193,
-      "num": 189193,
-      "word": "俄乌在土耳其谈判已开始",
-      "onboard_time": 1747391724,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189102,
@@ -1219,12 +1251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183000,
+      "num": 385577,
+      "word": "俄乌直接谈判开始",
+      "onboard_time": 1747391361,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181488,
       "num": 181488,
       "word": "领导暗示你走人的10个表现",
       "onboard_time": 1747389383,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180804,
+      "num": 272881,
+      "word": "奔跑吧连麦没有张真源",
+      "onboard_time": 1747393402,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 179779,
@@ -1267,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177239,
+      "num": 177239,
+      "word": "全世界最1的猫",
+      "onboard_time": 1747393102,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175872,
       "num": 232243,
       "word": "徐若晗红尘四合开机路透",
@@ -1299,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172561,
+      "num": 172561,
+      "word": "PEL",
+      "onboard_time": 1747394362,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172355,
       "num": 172355,
       "word": "歌手2025",
@@ -1313,6 +1377,14 @@
       "onboard_time": 1747368622,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170687,
+      "num": 383764,
+      "word": "歌手第一期将淘汰1人",
+      "onboard_time": 1747389861,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 170524,
@@ -1385,14 +1457,6 @@
       "onboard_time": 1747391962,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164975,
-      "num": 383764,
-      "word": "歌手第一期将淘汰1人",
-      "onboard_time": 1747389861,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 160899,
@@ -1635,6 +1699,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 143207,
+      "num": 270485,
+      "word": "刘宇宁嘴伸出去二里地还没够着",
+      "onboard_time": 1747394063,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143085,
       "num": 143085,
       "word": "晚上赶论文 白天睡大觉",
@@ -1657,14 +1729,6 @@
       "onboard_time": 1747370841,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140847,
-      "num": 277802,
-      "word": "王楚钦说不会给自己定多高的目标",
-      "onboard_time": 1747392202,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 140363,
@@ -1707,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137287,
-      "num": 385577,
-      "word": "俄乌直接谈判开始",
-      "onboard_time": 1747391361,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135043,
       "num": 267955,
       "word": "四个河南男人掏空中产钱包",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1747366761,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134284,
+      "num": 134284,
+      "word": "歌手2025追综指南",
+      "onboard_time": 1747393641,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 132248,
@@ -1859,6 +1923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126659,
+      "num": 377330,
+      "word": "吴艳妮再次打破纪录",
+      "onboard_time": 1747391361,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126512,
       "num": 126512,
       "word": "董某莹入学资格存在造假行为",
@@ -1875,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125243,
+      "num": 125243,
+      "word": "这么好的老板给你要不要",
+      "onboard_time": 1747394482,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125223,
       "num": 290962,
       "word": "谈判桌之外俄乌战事依旧",
@@ -1883,12 +1963,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125138,
+      "num": 125138,
+      "word": "何同学称边充电边玩手机不会伤电池",
+      "onboard_time": 1747394242,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124875,
       "num": 205422,
       "word": "谢娜一秒猜出张杰的歌",
       "onboard_time": 1747383082,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123417,
+      "num": 134285,
+      "word": "时代少年团抱枕",
+      "onboard_time": 1747392922,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122676,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1747360881,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115601,
+      "num": 368696,
+      "word": "当代酷刑之洗澡洗一半没热水",
+      "onboard_time": 1747393522,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 115106,
@@ -2179,20 +2283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94870,
+      "num": 267684,
+      "word": "女子七年后才知银行卡被盗刷18万",
+      "onboard_time": 1747392621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93714,
       "num": 493436,
       "word": "多家正新鸡排曾因用过期食品被罚",
       "onboard_time": 1747386262,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 91955,
-      "num": 377330,
-      "word": "吴艳妮再次打破纪录",
-      "onboard_time": 1747391361,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 91881,
@@ -2387,14 +2491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68498,
-      "num": 382361,
-      "word": "网友自曝在上海公园放生美国牛蛙",
-      "onboard_time": 1747391421,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68167,
       "num": 225183,
       "word": "儿童手表不能再不务正业",
@@ -2579,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44659,
+      "num": 184980,
+      "word": "首都人民已经做好准备了",
+      "onboard_time": 1747393945,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44218,
       "num": 379340,
       "word": "理解英语中的固定搭配了",
@@ -2747,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31849,
+      "num": 265136,
+      "word": "俄罗斯禁养猛兽已养的熊该如何安置",
+      "onboard_time": 1747393282,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30607,
       "num": 97273,
       "word": "5岁女童被碾亡案司机已卖房搬家",
@@ -2779,6 +2891,22 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 29412,
+      "num": 428566,
+      "word": "美国客户从中国井喷式补货",
+      "onboard_time": 1747393703,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29236,
+      "num": 336238,
+      "word": "上海女孩半年收留29个陌生女孩住宿",
+      "onboard_time": 1747393880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28989,
       "num": 226848,
       "word": "牛奶到底是促炎还是抗炎",
@@ -2793,6 +2921,14 @@
       "onboard_time": 1747365381,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28060,
+      "num": 325039,
+      "word": "心动礼遇一键开启",
+      "onboard_time": 1747394182,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 27427,
@@ -2977,6 +3113,14 @@
       "onboard_time": 1747376183,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15290,
+      "num": 268143,
+      "word": "塔克拉玛干沙漠到底有多干旱",
+      "onboard_time": 1747393282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15147,
