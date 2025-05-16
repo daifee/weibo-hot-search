@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747370739216,
+  "endTime": 1747373183383,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1870297,
+      "num": 1870297,
+      "word": "黄杨钿甜公司声明",
+      "onboard_time": 1747372941,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1857803,
       "num": 1857803,
       "word": "金靖P图不带迪丽热巴",
@@ -353,6 +361,14 @@
       "onboard_time": 1746935300,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1571491,
+      "num": 336308,
+      "word": "Prada魔咒",
+      "onboard_time": 1747370663,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1568151,
@@ -1617,6 +1633,14 @@
       "onboard_time": 1747015341,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 699848,
+      "num": 699848,
+      "word": "男子不明原因腹泻一年暴瘦至67斤",
+      "onboard_time": 1747369522,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 691488,
@@ -3595,14 +3619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 381599,
-      "num": 381599,
-      "word": "男子不明原因腹泻一年暴瘦至67斤",
-      "onboard_time": 1747369522,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380969,
       "num": 380969,
       "word": "英退伍军人集体揭英军非法杀戮",
@@ -4027,14 +4043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341729,
-      "num": 319086,
-      "word": "Prada魔咒",
-      "onboard_time": 1747370663,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 341599,
       "num": 341599,
       "word": "王楚钦生日妈妈的双向祝福",
@@ -4104,6 +4112,14 @@
       "word": "成都5岁女童被碾亡案被告车主发声",
       "onboard_time": 1747322363,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337042,
+      "num": 337042,
+      "word": "一包包免费纸巾骗走老人们2亿元",
+      "onboard_time": 1747368382,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -5251,14 +5267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256350,
-      "num": 256350,
-      "word": "一包包免费纸巾骗走老人们2亿元",
-      "onboard_time": 1747368382,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256251,
       "num": 223331,
       "word": "美国枪口直指华为芯片",
@@ -6227,6 +6235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220758,
+      "num": 220758,
+      "word": "大冰喊话山东救人考生",
+      "onboard_time": 1747367963,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 220351,
       "num": 220351,
       "word": "普京确定俄乌谈判俄方代表团名单",
@@ -6569,6 +6585,14 @@
       "onboard_time": 1747132521,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210950,
+      "num": 336811,
+      "word": "女医生称副业收废品挣得比医院多",
+      "onboard_time": 1747369942,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210932,
@@ -6929,14 +6953,6 @@
       "onboard_time": 1746937822,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204893,
-      "num": 204893,
-      "word": "大冰喊话山东救人考生",
-      "onboard_time": 1747367963,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 204882,
@@ -7339,14 +7355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199039,
-      "num": 199039,
-      "word": "女医生称副业收废品挣得比医院多",
-      "onboard_time": 1747369942,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198962,
       "num": 222301,
       "word": "医生建议40岁以上人群定期筛查这种癌",
@@ -7417,6 +7425,14 @@
       "onboard_time": 1747296982,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198099,
+      "num": 198099,
+      "word": "被经超补求婚仪式感浪漫到了",
+      "onboard_time": 1747370663,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 197925,
@@ -8755,6 +8771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177793,
+      "num": 359813,
+      "word": "官方通报母亲殴打9岁女儿致死",
+      "onboard_time": 1747369522,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 177589,
       "num": 392967,
       "word": "残障女孩被撞死火车站说最多赔9万",
@@ -9075,14 +9099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174156,
-      "num": 174156,
-      "word": "被经超补求婚仪式感浪漫到了",
-      "onboard_time": 1747370663,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174155,
       "num": 174155,
       "word": "折腰热度破27000",
@@ -9201,6 +9217,14 @@
       "onboard_time": 1747134920,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172097,
+      "num": 172097,
+      "word": "盒马",
+      "onboard_time": 1747371984,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171980,
@@ -9528,6 +9552,14 @@
       "word": "汶川地震紧急转移大熊猫画面",
       "onboard_time": 1747011322,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167339,
+      "num": 167339,
+      "word": "农行",
+      "onboard_time": 1747371022,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -11091,6 +11123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147438,
+      "num": 147438,
+      "word": "参半 华晨宇",
+      "onboard_time": 1747372761,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147365,
       "num": 147365,
       "word": "此刻好像懂了群像的魅力",
@@ -11419,6 +11459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143501,
+      "num": 143501,
+      "word": "盒马猕猴桃",
+      "onboard_time": 1747371623,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143455,
       "num": 268509,
       "word": "五问火车穿村致19人身亡",
@@ -11457,6 +11505,14 @@
       "onboard_time": 1747302082,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143085,
+      "num": 143085,
+      "word": "晚上赶论文 白天睡大觉",
+      "onboard_time": 1747371922,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 143012,
@@ -12787,6 +12843,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 129658,
+      "num": 129658,
+      "word": "四川内江发生持刀伤人案",
+      "onboard_time": 1747370841,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129647,
       "num": 129647,
       "word": "周思成雅思4场8.5",
@@ -12849,6 +12913,14 @@
       "onboard_time": 1746939621,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129032,
+      "num": 129032,
+      "word": "你以为正常但其实焦虑",
+      "onboard_time": 1747371262,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 128860,
@@ -13073,6 +13145,14 @@
       "onboard_time": 1747352060,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126707,
+      "num": 126707,
+      "word": "蔡依林新专辑概念大片",
+      "onboard_time": 1747370841,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 126691,
@@ -13305,14 +13385,6 @@
       "onboard_time": 1747213341,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124023,
-      "num": 359813,
-      "word": "官方通报母亲殴打9岁女儿致死",
-      "onboard_time": 1747369522,
-      "rank": 16,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 123977,
@@ -13737,6 +13809,14 @@
       "onboard_time": 1747129101,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119333,
+      "num": 119333,
+      "word": "LPL第二赛段淘汰赛落地北京",
+      "onboard_time": 1747372821,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 119280,
@@ -14251,6 +14331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113900,
+      "num": 113900,
+      "word": "雷军谈汽车安全",
+      "onboard_time": 1747372161,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 113846,
       "num": 113846,
       "word": "AG发长文",
@@ -14337,6 +14425,14 @@
       "onboard_time": 1747027522,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 112280,
+      "num": 112280,
+      "word": "王星越身上痒就去洗澡",
+      "onboard_time": 1747372282,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112161,
@@ -16299,6 +16395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73529,
+      "num": 172645,
+      "word": "GAI这趟长沙不能白来",
+      "onboard_time": 1747369641,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73294,
       "num": 214660,
       "word": "AI是让大学生降智还是变聪明",
@@ -17569,6 +17673,14 @@
       "onboard_time": 1747058124,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 48988,
+      "num": 336562,
+      "word": "荣耀肖战首个全球手机代言",
+      "onboard_time": 1747372161,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 48785,
@@ -19059,6 +19171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26950,
+      "num": 303913,
+      "word": "退休老人为赚4块钱7天被骗2万多",
+      "onboard_time": 1747372703,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26878,
       "num": 26878,
       "word": "孙恩盛直播",
@@ -19153,6 +19273,14 @@
       "onboard_time": 1746945681,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25539,
+      "num": 168366,
+      "word": "男子为报复前妻多次遗弃幼子",
+      "onboard_time": 1747373063,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25494,
@@ -19923,6 +20051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17706,
+      "num": 174508,
+      "word": "李晟京东公演",
+      "onboard_time": 1747372042,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17662,
       "num": 48372,
       "word": "欢迎巴西总统访华",
@@ -20595,6 +20731,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 10651,
+      "num": 249764,
+      "word": "亚马尔是否有机会金球奖",
+      "onboard_time": 1747361061,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10514,
       "num": 16049,
       "word": "快递小哥多看一眼救下被困女子",
@@ -20753,6 +20897,14 @@
       "onboard_time": 1747301483,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8796,
+      "num": 194681,
+      "word": "巴萨赛季三冠底气在哪",
+      "onboard_time": 1747373002,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 8545,

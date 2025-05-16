@@ -1,0 +1,410 @@
+{
+  "runTime": 1747373183383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1870297,
+        "num": 1870297,
+        "word": "黄杨钿甜公司声明",
+        "onboard_time": 1747372941,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893235,
+        "num": 893235,
+        "word": "取款身亡老人家属称与银行达成和解",
+        "onboard_time": 1747366701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78176,
+        "num": 721725,
+        "word": "中国吸引来越来越多外国游客",
+        "onboard_time": 1747368200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699848,
+        "num": 699848,
+        "word": "男子不明原因腹泻一年暴瘦至67斤",
+        "onboard_time": 1747369522,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699694,
+        "num": 699694,
+        "word": "网友爆料正新鸡排鸡腿大量生蛆",
+        "onboard_time": 1747364902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585093,
+        "num": 585093,
+        "word": "被母亲殴打致死女童父亲从国外返回",
+        "onboard_time": 1747368683,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575684,
+        "num": 575684,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448499,
+        "num": 448499,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337042,
+        "num": 337042,
+        "word": "一包包免费纸巾骗走老人们2亿元",
+        "onboard_time": 1747368382,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210950,
+        "num": 336811,
+        "word": "女医生称副业收废品挣得比医院多",
+        "onboard_time": 1747369942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2158147,
+        "num": 336692,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48988,
+        "num": 336562,
+        "word": "荣耀肖战首个全球手机代言",
+        "onboard_time": 1747372161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1571491,
+        "num": 336308,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336092,
+        "num": 336092,
+        "word": "时代少年团撕拉片",
+        "onboard_time": 1747366761,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26950,
+        "num": 303913,
+        "word": "退休老人为赚4块钱7天被骗2万多",
+        "onboard_time": 1747372703,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298146,
+        "num": 298146,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277776,
+        "num": 277776,
+        "word": "荣耀 肖战",
+        "onboard_time": 1747362621,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88342,
+        "num": 258045,
+        "word": "CoCo一亿杯买一送一",
+        "onboard_time": 1747368382,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251270,
+        "num": 251270,
+        "word": "周深王俊凯为动画电影配音",
+        "onboard_time": 1747366642,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10651,
+        "num": 249764,
+        "word": "亚马尔是否有机会金球奖",
+        "onboard_time": 1747361061,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249763,
+        "num": 249763,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225770,
+        "num": 225770,
+        "word": "继父去世后男子一家10口改随生父姓",
+        "onboard_time": 1747367182,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220758,
+        "num": 220758,
+        "word": "大冰喊话山东救人考生",
+        "onboard_time": 1747367963,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199776,
+        "num": 199776,
+        "word": "法国女生到底为什么瘦",
+        "onboard_time": 1747368321,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198099,
+        "num": 198099,
+        "word": "被经超补求婚仪式感浪漫到了",
+        "onboard_time": 1747370663,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8796,
+        "num": 194681,
+        "word": "巴萨赛季三冠底气在哪",
+        "onboard_time": 1747373002,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194630,
+        "num": 194630,
+        "word": "正新鸡排回应网传鸡腿大量生蛆",
+        "onboard_time": 1747367182,
+        "rank": 26,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 193644,
+        "num": 193644,
+        "word": "乐言打破奥斯卡30岁恋爱计划",
+        "onboard_time": 1747367782,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177793,
+        "num": 177793,
+        "word": "官方通报母亲殴打9岁女儿致死",
+        "onboard_time": 1747369522,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17706,
+        "num": 174508,
+        "word": "李晟京东公演",
+        "onboard_time": 1747372042,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161877,
+        "num": 172938,
+        "word": "赵樱子官摄镜头",
+        "onboard_time": 1747370543,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73529,
+        "num": 172645,
+        "word": "GAI这趟长沙不能白来",
+        "onboard_time": 1747369641,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "2025年端午节放假不调休",
+        "onboard_time": 1747355421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172097,
+        "num": 172097,
+        "word": "盒马",
+        "onboard_time": 1747371984,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25539,
+        "num": 168366,
+        "word": "男子为报复前妻多次遗弃幼子",
+        "onboard_time": 1747373063,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167339,
+        "num": 167339,
+        "word": "农行",
+        "onboard_time": 1747371022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "撕拉片",
+        "onboard_time": 1747368742,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152207,
+        "num": 152207,
+        "word": "赵磊qko婚礼现场图",
+        "onboard_time": 1747368622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150705,
+        "num": 150705,
+        "word": "侯佩岑陈乔恩被台当局威胁查处",
+        "onboard_time": 1747351879,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147438,
+        "num": 147438,
+        "word": "参半 华晨宇",
+        "onboard_time": 1747372761,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143501,
+        "num": 143501,
+        "word": "盒马猕猴桃",
+        "onboard_time": 1747371623,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26012,
+        "num": 143195,
+        "word": "美的脱口秀大会阵容",
+        "onboard_time": 1747368382,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143085,
+        "num": 143085,
+        "word": "晚上赶论文 白天睡大觉",
+        "onboard_time": 1747371922,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131656,
+        "num": 131656,
+        "word": "宣璐苏娥皇来了",
+        "onboard_time": 1747370364,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129658,
+        "num": 129658,
+        "word": "四川内江发生持刀伤人案",
+        "onboard_time": 1747370841,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129032,
+        "num": 129032,
+        "word": "你以为正常但其实焦虑",
+        "onboard_time": 1747371262,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "蔡依林新专辑概念大片",
+        "onboard_time": 1747370841,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 119333,
+        "word": "LPL第二赛段淘汰赛落地北京",
+        "onboard_time": 1747372821,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 113900,
+        "word": "雷军谈汽车安全",
+        "onboard_time": 1747372161,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112280,
+        "num": 112280,
+        "word": "王星越身上痒就去洗澡",
+        "onboard_time": 1747372282,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是外商理想安全有为的投资目的地#"
+    }
+  }
+}
