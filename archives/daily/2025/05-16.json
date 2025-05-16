@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747377379249,
+  "endTime": 1747378198275,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1673359,
+      "num": 645480,
+      "word": "娃哈哈变得面目全非令人唏嘘",
+      "onboard_time": 1747374980,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1613207,
       "num": 466451,
       "word": "Prada魔咒",
       "onboard_time": 1747370663,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1490903,
-      "num": 645480,
-      "word": "娃哈哈变得面目全非令人唏嘘",
-      "onboard_time": 1747374980,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1400651,
@@ -80,6 +80,14 @@
       "word": "取款身亡老人家属称与银行达成和解",
       "onboard_time": 1747366701,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1308516,
+      "num": 1308516,
+      "word": "多次强奸8名未成年人罪犯被执行死刑",
+      "onboard_time": 1747376122,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -227,11 +235,27 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 590201,
+      "num": 590201,
+      "word": "女排朱婷妹妹被保送浙大受质疑",
+      "onboard_time": 1747375880,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587674,
       "num": 587674,
       "word": "刘晓庆偷税举报人发声",
       "onboard_time": 1747374980,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 577847,
+      "num": 577847,
+      "word": "警方在霉霉豪宅附近发现人类遗骸",
+      "onboard_time": 1747375941,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -299,28 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497088,
-      "num": 497088,
-      "word": "多次强奸8名未成年人罪犯被执行死刑",
-      "onboard_time": 1747376122,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 481278,
       "num": 481278,
       "word": "4加4通报证明没人能包庇董小姐",
       "onboard_time": 1747321764,
       "rank": 3,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 471436,
-      "num": 471436,
-      "word": "女排朱婷妹妹被保送浙大受质疑",
-      "onboard_time": 1747375880,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 425960,
@@ -345,14 +353,6 @@
       "onboard_time": 1747320263,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 413702,
-      "num": 413702,
-      "word": "警方在霉霉豪宅附近发现人类遗骸",
-      "onboard_time": 1747375941,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 409039,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249209,
+      "num": 453120,
+      "word": "强奸猥亵9名未成年人罪犯被执行死刑",
+      "onboard_time": 1747377682,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248087,
       "num": 248087,
       "word": "郑钦文无缘罗马赛决赛",
@@ -641,6 +649,22 @@
       "onboard_time": 1747305623,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208313,
+      "num": 415349,
+      "word": "三得利盒马也找今麦郎代工",
+      "onboard_time": 1747375821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206956,
+      "num": 206956,
+      "word": "李晟四公个人第一",
+      "onboard_time": 1747377682,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 206355,
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190657,
+      "num": 421512,
+      "word": "泽连斯基不满俄代表团规格",
+      "onboard_time": 1747375762,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189102,
       "num": 189102,
       "word": "雷霆vs掘金",
@@ -795,6 +827,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 177659,
+      "num": 177659,
+      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+      "onboard_time": 1747375401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177405,
       "num": 177405,
       "word": "王星越徐若晗新剧一箭倾心",
@@ -859,6 +899,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169070,
+      "num": 169070,
+      "word": "不要放弃下午5点",
+      "onboard_time": 1747377802,
+      "rank": 35,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 168690,
+      "num": 222750,
+      "word": "陈赫把黄磊厨房占了",
+      "onboard_time": 1747375642,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168362,
       "num": 168362,
       "word": "郑钦文vs高芙",
@@ -889,14 +945,6 @@
       "onboard_time": 1747366582,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159361,
-      "num": 159361,
-      "word": "陈赫把黄磊厨房占了",
-      "onboard_time": 1747375642,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 158166,
@@ -979,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149310,
-      "num": 415349,
-      "word": "三得利盒马也找今麦郎代工",
-      "onboard_time": 1747375821,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149165,
       "num": 149165,
       "word": "雷军说对小米的期待和要求远超想象",
@@ -1027,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146801,
-      "num": 146801,
-      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
-      "onboard_time": 1747375401,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145597,
       "num": 145597,
       "word": "雷军称小米不再是行业新人",
@@ -1043,20 +1075,20 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 144757,
-      "num": 421512,
-      "word": "泽连斯基不满俄代表团规格",
-      "onboard_time": 1747375762,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143085,
       "num": 143085,
       "word": "晚上赶论文 白天睡大觉",
       "onboard_time": 1747371922,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142740,
+      "num": 142740,
+      "word": "赵樱子被外国帅哥搭讪",
+      "onboard_time": 1747378161,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141282,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1747323502,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136457,
+      "num": 136457,
+      "word": "真实的剖腹产",
+      "onboard_time": 1747377621,
+      "rank": 42,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 134640,
@@ -1475,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95172,
+      "num": 285547,
+      "word": "王珞丹分享瓢哥近况",
+      "onboard_time": 1747377742,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91881,
       "num": 114595,
       "word": "俄蒙混血网红让韩国化妆师化kpop妆",
@@ -1675,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56988,
+      "num": 234665,
+      "word": "在农村卖货一天能赚多少钱",
+      "onboard_time": 1747376183,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56204,
       "num": 680877,
       "word": "降准释放了明确稳增长的积极信号",
@@ -1723,12 +1779,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39310,
-      "num": 234665,
-      "word": "在农村卖货一天能赚多少钱",
-      "onboard_time": 1747376183,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 39439,
+      "num": 187682,
+      "word": "为什么爱死机第四季评分全系列最低",
+      "onboard_time": 1747377980,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 39290,
@@ -1803,20 +1859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24791,
+      "num": 156111,
+      "word": "三分钟了解女性脏器位置",
+      "onboard_time": 1747377202,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 24377,
       "num": 185380,
       "word": "李晟京东公演",
       "onboard_time": 1747372042,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24330,
-      "num": 156111,
-      "word": "三分钟了解女性脏器位置",
-      "onboard_time": 1747377202,
-      "rank": 39,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 23983,
@@ -1875,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19204,
+      "num": 381401,
+      "word": "免费纸巾骗局中常用的手段有哪些",
+      "onboard_time": 1747377142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18123,
       "num": 21072,
       "word": "玉茗茶骨首发片花",
@@ -1915,15 +1979,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14186,
-      "num": 381401,
-      "word": "免费纸巾骗局中常用的手段有哪些",
-      "onboard_time": 1747377142,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13360,
+      "raw_hot": 14534,
       "num": 265860,
       "word": "为什么很难买到真正的五常大米",
       "onboard_time": 1747377142,

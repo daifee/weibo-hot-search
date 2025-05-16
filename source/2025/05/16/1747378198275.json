@@ -1,0 +1,410 @@
+{
+  "runTime": 1747378198275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1308516,
+        "num": 1308516,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591575,
+        "num": 591575,
+        "word": "李嘉琦淘汰",
+        "onboard_time": 1747374142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74095,
+        "num": 590683,
+        "word": "中国吸引来越来越多外国游客",
+        "onboard_time": 1747368200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973592,
+        "num": 590526,
+        "word": "黄杨钿甜公司声明",
+        "onboard_time": 1747372941,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590201,
+        "num": 590201,
+        "word": "女排朱婷妹妹被保送浙大受质疑",
+        "onboard_time": 1747375880,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1673359,
+        "num": 584105,
+        "word": "娃哈哈变得面目全非令人唏嘘",
+        "onboard_time": 1747374980,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577847,
+        "num": 577847,
+        "word": "警方在霉霉豪宅附近发现人类遗骸",
+        "onboard_time": 1747375941,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524762,
+        "num": 524762,
+        "word": "男子不明原因腹泻一年暴瘦至67斤",
+        "onboard_time": 1747369522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471313,
+        "num": 471313,
+        "word": "刘晓庆偷税举报人发声",
+        "onboard_time": 1747374980,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249209,
+        "num": 453120,
+        "word": "强奸猥亵9名未成年人罪犯被执行死刑",
+        "onboard_time": 1747377682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1480443,
+        "num": 446726,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991135,
+        "num": 442977,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435902,
+        "num": 435902,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419463,
+        "num": 419463,
+        "word": "侯佩岑拒绝李晟",
+        "onboard_time": 1747374562,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323284,
+        "num": 323284,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322726,
+        "num": 322726,
+        "word": "取款身亡老人家属称与银行达成和解",
+        "onboard_time": 1747366701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157223,
+        "num": 321654,
+        "word": "不用答题直接免单",
+        "onboard_time": 1747375462,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54468,
+        "num": 300518,
+        "word": "华莱士上新小马控集合",
+        "onboard_time": 1747375762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95172,
+        "num": 285547,
+        "word": "王珞丹分享瓢哥近况",
+        "onboard_time": 1747377742,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19204,
+        "num": 271395,
+        "word": "免费纸巾骗局中常用的手段有哪些",
+        "onboard_time": 1747377142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342326,
+        "num": 265607,
+        "word": "金价大跌金店赢麻了",
+        "onboard_time": 1747374380,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252163,
+        "num": 252163,
+        "word": "宁宁ELLE",
+        "onboard_time": 1747376361,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 631635,
+        "num": 248663,
+        "word": "盒马",
+        "onboard_time": 1747371984,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237463,
+        "num": 237463,
+        "word": "女医生称副业收废品挣得比医院多",
+        "onboard_time": 1747369942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168690,
+        "num": 222750,
+        "word": "陈赫把黄磊厨房占了",
+        "onboard_time": 1747375642,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208313,
+        "num": 208313,
+        "word": "三得利盒马也找今麦郎代工",
+        "onboard_time": 1747375821,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206956,
+        "num": 206956,
+        "word": "李晟四公个人第一",
+        "onboard_time": 1747377682,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190657,
+        "num": 190657,
+        "word": "泽连斯基不满俄代表团规格",
+        "onboard_time": 1747375762,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14534,
+        "num": 188371,
+        "word": "为什么很难买到真正的五常大米",
+        "onboard_time": 1747377142,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56988,
+        "num": 187740,
+        "word": "在农村卖货一天能赚多少钱",
+        "onboard_time": 1747376183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39439,
+        "num": 187682,
+        "word": "为什么爱死机第四季评分全系列最低",
+        "onboard_time": 1747377980,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187673,
+        "num": 187673,
+        "word": "网友爆料正新鸡排鸡腿大量生蛆",
+        "onboard_time": 1747364902,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178356,
+        "num": 178356,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177659,
+        "num": 177659,
+        "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+        "onboard_time": 1747375401,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176166,
+        "num": 176166,
+        "word": "一包包免费纸巾骗走老人们2亿元",
+        "onboard_time": 1747368382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169070,
+        "num": 169070,
+        "word": "不要放弃下午5点",
+        "onboard_time": 1747377802,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 161823,
+        "num": 161823,
+        "word": "周深王俊凯为动画电影配音",
+        "onboard_time": 1747366642,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153322,
+        "num": 153322,
+        "word": "魏劭被下药名场面",
+        "onboard_time": 1747373243,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24634,
+        "num": 146114,
+        "word": "文科生这辈子最想听见的称赞",
+        "onboard_time": 1747376242,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 24791,
+        "num": 144339,
+        "word": "三分钟了解女性脏器位置",
+        "onboard_time": 1747377202,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 142740,
+        "num": 142740,
+        "word": "赵樱子被外国帅哥搭讪",
+        "onboard_time": 1747378161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 141650,
+        "word": "时代少年团撕拉片",
+        "onboard_time": 1747366761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136457,
+        "num": 136457,
+        "word": "真实的剖腹产",
+        "onboard_time": 1747377621,
+        "rank": 42,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 135716,
+        "num": 135716,
+        "word": "雷军说对小米的期待和要求远超想象",
+        "onboard_time": 1747375282,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130856,
+        "num": 130856,
+        "word": "李嘉琦淘汰宋妍霏爆哭",
+        "onboard_time": 1747375880,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125156,
+        "num": 125156,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120176,
+        "num": 120176,
+        "word": "孙颖莎世乒赛力争卫冕",
+        "onboard_time": 1747374921,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119618,
+        "num": 119618,
+        "word": "中国艺人堂堂正正支持统一怎么了",
+        "onboard_time": 1747375642,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "白宇迪丽热巴集齐古早韩剧三要素",
+        "onboard_time": 1747376001,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114872,
+        "num": 114872,
+        "word": "孙颖莎红旗天工家族代言人",
+        "onboard_time": 1747376242,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入贯彻中央八项规定精神#"
+    }
+  }
+}
