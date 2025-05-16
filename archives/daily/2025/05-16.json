@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747380319461,
+  "endTime": 1747381144572,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -131,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 941304,
-      "num": 941304,
+      "raw_hot": 946981,
+      "num": 946981,
       "word": "女排朱婷妹妹被保送浙大受质疑",
       "onboard_time": 1747375880,
       "rank": 9,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651819,
+      "num": 651819,
+      "word": "张婧仪吃排骨把牙崩掉了",
+      "onboard_time": 1747378821,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 646169,
       "num": 646169,
       "word": "云南地震",
@@ -251,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 577847,
-      "num": 577847,
+      "raw_hot": 582379,
+      "num": 582379,
       "word": "警方在霉霉豪宅附近发现人类遗骸",
       "onboard_time": 1747375941,
       "rank": 20,
@@ -321,6 +329,22 @@
       "onboard_time": 1747366761,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499884,
+      "num": 499884,
+      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+      "onboard_time": 1747375401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488381,
+      "num": 488381,
+      "word": "王楚钦冲击首个男单世界冠军",
+      "onboard_time": 1747379361,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 481278,
@@ -411,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 356341,
-      "num": 356341,
-      "word": "张婧仪吃排骨把牙崩掉了",
-      "onboard_time": 1747378821,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341006,
       "num": 399150,
       "word": "哈马斯称若永久停火可交出加沙控制权",
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334192,
+      "num": 334192,
+      "word": "陈梦工作室来了",
+      "onboard_time": 1747379001,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328074,
       "num": 328074,
       "word": "黄金",
@@ -455,6 +479,14 @@
       "num": 322863,
       "word": "赵磊qko婚礼现场图",
       "onboard_time": 1747368622,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321866,
+      "num": 321866,
+      "word": "北京国贸偶遇鹿晗",
+      "onboard_time": 1747378522,
       "rank": 17,
       "category": "艺人"
     },
@@ -473,14 +505,6 @@
       "onboard_time": 1747361362,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 300593,
-      "num": 356572,
-      "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
-      "onboard_time": 1747375401,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300447,
@@ -507,20 +531,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 287638,
-      "num": 287638,
-      "word": "陈梦工作室来了",
-      "onboard_time": 1747379001,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282363,
       "num": 282363,
       "word": "参加赵磊婚礼的明星",
       "onboard_time": 1747354641,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281227,
+      "num": 254318,
+      "word": "代孕",
+      "onboard_time": 1747379902,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280559,
@@ -537,14 +561,6 @@
       "onboard_time": 1747365202,
       "rank": 22,
       "category": "互联网,作品衍生"
-    },
-    {
-      "raw_hot": 270846,
-      "num": 270846,
-      "word": "北京国贸偶遇鹿晗",
-      "onboard_time": 1747378522,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 270842,
@@ -601,14 +617,6 @@
       "onboard_time": 1747378161,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249728,
-      "num": 249728,
-      "word": "王楚钦冲击首个男单世界冠军",
-      "onboard_time": 1747379361,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 249209,
@@ -713,6 +721,14 @@
       "onboard_time": 1747375821,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207075,
+      "num": 241983,
+      "word": "一张绝美的脸后面还是一张美脸",
+      "onboard_time": 1747380021,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 206956,
@@ -865,14 +881,6 @@
       "onboard_time": 1747351280,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182963,
-      "num": 182963,
-      "word": "一张绝美的脸后面还是一张美脸",
-      "onboard_time": 1747380021,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 179779,
@@ -1083,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154208,
-      "num": 154208,
-      "word": "代孕",
-      "onboard_time": 1747379902,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154204,
       "num": 154204,
       "word": "新冠感染又抬头",
@@ -1104,6 +1104,22 @@
       "word": "退休老人为赚4块钱7天被骗2万多",
       "onboard_time": 1747372703,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "A股震荡调整",
+      "onboard_time": 1747381042,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150463,
+      "num": 150463,
+      "word": "一家四口驾车遇山体落石丈夫身亡",
+      "onboard_time": 1747380382,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1203,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138921,
+      "num": 138921,
+      "word": "张婧仪方辟谣",
+      "onboard_time": 1747378581,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138811,
       "num": 138811,
       "word": "彭楚粤晒X玖少年团qko合照",
@@ -1251,12 +1275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133678,
-      "num": 133678,
-      "word": "张婧仪方辟谣",
-      "onboard_time": 1747378581,
+      "raw_hot": 132248,
+      "num": 132248,
+      "word": "BLACKPINK世巡主题",
+      "onboard_time": 1747381103,
       "rank": 44,
-      "category": "艺人"
+      "category": "演出"
     },
     {
       "raw_hot": 131207,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1747371262,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128720,
+      "num": 150473,
+      "word": "提高新陈代谢的10个方法",
+      "onboard_time": 1747380923,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128697,
@@ -1515,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112105,
+      "num": 112105,
+      "word": "密室大逃脱衍生短剧",
+      "onboard_time": 1747381103,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111886,
       "num": 111886,
       "word": "张凌赫卡成PPT了也要直播",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1747318584,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97462,
+      "num": 376696,
+      "word": "泽连斯基离开土耳其",
+      "onboard_time": 1747380502,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95172,
@@ -1907,12 +1955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38718,
+      "num": 226464,
+      "word": "北京的绿化带强得可怕",
+      "onboard_time": 1747380680,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 37005,
       "num": 37005,
       "word": "姜同学得知补考后说更不后悔了",
       "onboard_time": 1747342094,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 32116,
+      "num": 246649,
+      "word": "脑瘫男孩逆袭哈佛母亲是怎么培养的",
+      "onboard_time": 1747380740,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 31975,
@@ -2145,6 +2209,14 @@
       "onboard_time": 1747341674,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12055,
+      "num": 230112,
+      "word": "福布斯发布中国AI企业TOP50",
+      "onboard_time": 1747380680,
+      "rank": 28,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 11625,

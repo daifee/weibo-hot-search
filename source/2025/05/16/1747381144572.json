@@ -1,0 +1,410 @@
+{
+  "runTime": 1747381144572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485906,
+        "num": 1485906,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 946981,
+        "num": 946981,
+        "word": "女排朱婷妹妹被保送浙大受质疑",
+        "onboard_time": 1747375880,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60773,
+        "num": 760372,
+        "word": "中国吸引来越来越多外国游客",
+        "onboard_time": 1747368200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651819,
+        "num": 651819,
+        "word": "张婧仪吃排骨把牙崩掉了",
+        "onboard_time": 1747378821,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582379,
+        "num": 582379,
+        "word": "警方在霉霉豪宅附近发现人类遗骸",
+        "onboard_time": 1747375941,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499884,
+        "num": 499884,
+        "word": "重度脑瘫男孩逆袭考上北大后又进哈佛",
+        "onboard_time": 1747375401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760733,
+        "num": 495044,
+        "word": "黄杨钿甜公司声明",
+        "onboard_time": 1747372941,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488381,
+        "num": 488381,
+        "word": "王楚钦冲击首个男单世界冠军",
+        "onboard_time": 1747379361,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384025,
+        "num": 384025,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97462,
+        "num": 376696,
+        "word": "泽连斯基离开土耳其",
+        "onboard_time": 1747380502,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1076798,
+        "num": 367900,
+        "word": "娃哈哈变得面目全非令人唏嘘",
+        "onboard_time": 1747374980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1431463,
+        "num": 349963,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825312,
+        "num": 345758,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334192,
+        "num": 334192,
+        "word": "陈梦工作室来了",
+        "onboard_time": 1747379001,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321866,
+        "num": 321866,
+        "word": "北京国贸偶遇鹿晗",
+        "onboard_time": 1747378522,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319462,
+        "num": 319462,
+        "word": "男子不明原因腹泻一年暴瘦至67斤",
+        "onboard_time": 1747369522,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304751,
+        "num": 304751,
+        "word": "李嘉琦淘汰",
+        "onboard_time": 1747374142,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299148,
+        "num": 299148,
+        "word": "侯佩岑拒绝李晟",
+        "onboard_time": 1747374562,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273222,
+        "num": 273222,
+        "word": "刘晓庆偷税举报人发声",
+        "onboard_time": 1747374980,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95293,
+        "num": 260366,
+        "word": "买手机的钱都花在哪了",
+        "onboard_time": 1747379182,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285155,
+        "num": 259717,
+        "word": "金价大跌金店赢麻了",
+        "onboard_time": 1747374380,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258873,
+        "num": 258873,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281227,
+        "num": 254318,
+        "word": "代孕",
+        "onboard_time": 1747379902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32116,
+        "num": 246649,
+        "word": "脑瘫男孩逆袭哈佛母亲是怎么培养的",
+        "onboard_time": 1747380740,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134695,
+        "num": 245304,
+        "word": "四个河南男人掏空中产钱包",
+        "onboard_time": 1747379303,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244672,
+        "num": 244672,
+        "word": "赵樱子被外国帅哥搭讪",
+        "onboard_time": 1747378161,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207075,
+        "num": 241983,
+        "word": "一张绝美的脸后面还是一张美脸",
+        "onboard_time": 1747380021,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147292,
+        "num": 238535,
+        "word": "陈赫把黄磊厨房占了",
+        "onboard_time": 1747375642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12055,
+        "num": 230112,
+        "word": "福布斯发布中国AI企业TOP50",
+        "onboard_time": 1747380680,
+        "rank": 28,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 38718,
+        "num": 226464,
+        "word": "北京的绿化带强得可怕",
+        "onboard_time": 1747380680,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 219785,
+        "word": "倪虹洁从吴宣仪全世界路过",
+        "onboard_time": 1747379662,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218937,
+        "num": 218937,
+        "word": "真实的剖腹产",
+        "onboard_time": 1747377621,
+        "rank": 31,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "一包包免费纸巾骗走老人们2亿元",
+        "onboard_time": 1747368382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166518,
+        "num": 166518,
+        "word": "网友爆料正新鸡排鸡腿大量生蛆",
+        "onboard_time": 1747364902,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156860,
+        "num": 156860,
+        "word": "不要放弃下午5点",
+        "onboard_time": 1747377802,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 29996,
+        "num": 153968,
+        "word": "克罗恩病与普通肠炎如何区分",
+        "onboard_time": 1747379782,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "A股震荡调整",
+        "onboard_time": 1747381042,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30438,
+        "num": 150704,
+        "word": "华莱士上新小马控集合",
+        "onboard_time": 1747375762,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134704,
+        "num": 150582,
+        "word": "张召忠给战机排名",
+        "onboard_time": 1747379182,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 128720,
+        "num": 150473,
+        "word": "提高新陈代谢的10个方法",
+        "onboard_time": 1747380923,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150463,
+        "num": 150463,
+        "word": "一家四口驾车遇山体落石丈夫身亡",
+        "onboard_time": 1747380382,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147283,
+        "num": 147283,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138921,
+        "num": 138921,
+        "word": "张婧仪方辟谣",
+        "onboard_time": 1747378581,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134577,
+        "num": 134577,
+        "word": "宁宁ELLE",
+        "onboard_time": 1747376361,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 132248,
+        "num": 132248,
+        "word": "BLACKPINK世巡主题",
+        "onboard_time": 1747381103,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123594,
+        "num": 123594,
+        "word": "李嘉琦淘汰宋妍霏爆哭",
+        "onboard_time": 1747375880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118577,
+        "num": 118577,
+        "word": "荣耀 肖战",
+        "onboard_time": 1747362621,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175346,
+        "num": 117007,
+        "word": "取款身亡老人家属称与银行达成和解",
+        "onboard_time": 1747366701,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "张本智和表态世乒赛夺金",
+        "onboard_time": 1747379182,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112105,
+        "num": 112105,
+        "word": "密室大逃脱衍生短剧",
+        "onboard_time": 1747381103,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入贯彻中央八项规定精神#"
+    }
+  }
+}
