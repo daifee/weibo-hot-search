@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747388490448,
+  "endTime": 1747391286721,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -25,6 +25,14 @@
       "onboard_time": 1747331235,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2225205,
+      "num": 2225205,
+      "word": "赵磊婚礼",
+      "onboard_time": 1747388302,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1860674,
@@ -83,6 +91,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1596013,
+      "num": 1596013,
+      "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
+      "onboard_time": 1747387281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1552496,
       "num": 383653,
       "word": "代孕",
@@ -139,19 +155,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1179078,
-      "num": 627507,
-      "word": "赵磊婚礼",
-      "onboard_time": 1747388302,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1147372,
       "num": 511104,
       "word": "知情人回应黄杨钿甜父亲职务问题",
       "onboard_time": 1747368981,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1138715,
+      "num": 764275,
+      "word": "第一次见内娱爱豆婚礼直播",
+      "onboard_time": 1747389083,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1747379361,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 808054,
+      "num": 808054,
+      "word": "2024年平均工资出炉",
+      "onboard_time": 1747387582,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 785525,
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 617321,
-      "num": 617321,
-      "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
-      "onboard_time": 1747387281,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 609969,
       "num": 609969,
       "word": "李溪芮重回古装赛道",
@@ -473,6 +489,14 @@
       "onboard_time": 1747375401,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487356,
+      "num": 413068,
+      "word": "夏之光 谷嘉诚我给你快递点肥皂",
+      "onboard_time": 1747388722,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 481278,
@@ -683,14 +707,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 299079,
-      "num": 299079,
-      "word": "2024年平均工资出炉",
-      "onboard_time": 1747387582,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296320,
       "num": 431000,
       "word": "短剧演员给内娱上强度了",
@@ -785,6 +801,14 @@
       "onboard_time": 1747368742,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261679,
+      "num": 261679,
+      "word": "特朗普不希望印度生产iPhone",
+      "onboard_time": 1747389141,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261442,
@@ -1051,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195426,
+      "num": 254789,
+      "word": "钟楚曦戛纳24秒官摄镜头",
+      "onboard_time": 1747388722,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194761,
       "num": 194761,
       "word": "宣璐苏娥皇来了",
       "onboard_time": 1747370364,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 194694,
+      "word": "山姆绿豆糕",
+      "onboard_time": 1747390161,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 194421,
@@ -1155,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181488,
+      "num": 181488,
+      "word": "领导暗示你走人的10个表现",
+      "onboard_time": 1747389383,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179779,
       "num": 188706,
       "word": "腾讯NBA总决赛嘉宾官宣",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1747370543,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179674,
+      "num": 250486,
+      "word": "折腰男主 曹操的终极幻想",
+      "onboard_time": 1747390821,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 177852,
@@ -1347,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158878,
+      "num": 236916,
+      "word": "天猫618立减叠券一降再降",
+      "onboard_time": 1747390102,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 158166,
       "num": 178442,
       "word": "法医秦明我的吓饭剧又回来了",
@@ -1419,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155086,
+      "num": 155086,
+      "word": "ITZY申有娜身材",
+      "onboard_time": 1747389861,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154311,
       "num": 154311,
       "word": "张真源 我要上麦",
@@ -1449,6 +1521,22 @@
       "onboard_time": 1747381042,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152064,
+      "num": 149164,
+      "word": "歌手第一期将淘汰1人",
+      "onboard_time": 1747389861,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150829,
+      "num": 150829,
+      "word": "蒋一侨长发",
+      "onboard_time": 1747389984,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149911,
@@ -1619,6 +1707,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 131267,
+      "num": 414867,
+      "word": "啥都不如有个好身体",
+      "onboard_time": 1747390041,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131207,
       "num": 131207,
       "word": "李嘉琦淘汰宋妍霏爆哭",
@@ -1688,6 +1784,14 @@
       "word": "荣耀肖战首个全球手机代言",
       "onboard_time": 1747372161,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "宋亚轩开门变装",
+      "onboard_time": 1747390821,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2067,6 +2171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87066,
+      "num": 420667,
+      "word": "今天星期五",
+      "onboard_time": 1747390703,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84249,
       "num": 87136,
       "word": "温峥嵘戛纳红毯造型",
@@ -2291,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56909,
+      "num": 514029,
+      "word": "时代少年团全员美团黑钻会员",
+      "onboard_time": 1747387104,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56866,
       "num": 266489,
       "word": "淄博一客人称在酒店房间发现摄像头",
@@ -2307,12 +2427,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55608,
+      "num": 195093,
+      "word": "一周高效减肥食谱公式",
+      "onboard_time": 1747390461,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 53738,
       "num": 363020,
       "word": "女生雨天被车溅水报警获赔50元",
       "onboard_time": 1747387762,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50572,
+      "num": 410598,
+      "word": "郭晶晶再上央视做裁判",
+      "onboard_time": 1747390222,
+      "rank": 17,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 50523,
@@ -2345,6 +2481,14 @@
       "onboard_time": 1747369884,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45316,
+      "num": 199632,
+      "word": "大学教授评刚买的飞机逾越边界",
+      "onboard_time": 1747390161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44903,
@@ -2427,6 +2571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37888,
+      "num": 220508,
+      "word": "大数据解析美国关税政策的底层逻辑",
+      "onboard_time": 1747391061,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37005,
       "num": 37005,
       "word": "姜同学得知补考后说更不后悔了",
@@ -2435,12 +2587,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 35807,
-      "num": 514029,
-      "word": "时代少年团全员美团黑钻会员",
-      "onboard_time": 1747387104,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 34782,
+      "num": 403587,
+      "word": "马王堆汉墓发现了最早丝织坐垫",
+      "onboard_time": 1747390161,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34048,
@@ -2465,6 +2617,14 @@
       "onboard_time": 1747380740,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31980,
+      "num": 428143,
+      "word": "领国补还是得听雷佳音的",
+      "onboard_time": 1747387104,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 31975,
@@ -2499,14 +2659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 29996,
-      "num": 428143,
-      "word": "领国补还是得听雷佳音的",
-      "onboard_time": 1747387104,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29856,
       "num": 206821,
       "word": "库里油箱里还有很多油",
@@ -2537,6 +2689,14 @@
       "onboard_time": 1747365381,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27509,
+      "num": 197072,
+      "word": "理解英语中的固定搭配了",
+      "onboard_time": 1747391241,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 27427,
@@ -2705,6 +2865,14 @@
       "onboard_time": 1747350978,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15620,
+      "num": 406754,
+      "word": "土耳其能否平衡美乌与俄罗斯的诉求",
+      "onboard_time": 1747390582,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15357,
