@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747420471769,
+  "endTime": 1747421277019,
   "band_list": [
     {
       "raw_hot": 1828535,
@@ -497,6 +497,22 @@
       "onboard_time": 1747402765,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28059,
+      "num": 38621,
+      "word": "好听",
+      "onboard_time": 1747420816,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26944,
+      "num": 38615,
+      "word": "河流",
+      "onboard_time": 1747421055,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747420471769,
+  "endTime": 1747421277019,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -56611,6 +56611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28059,
+      "num": 38621,
+      "word": "好听",
+      "onboard_time": 1747420816,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28048,
       "num": 66878,
       "word": "周海婴夫人马新云逝世",
@@ -56873,6 +56881,14 @@
       "onboard_time": 1746771082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26944,
+      "num": 38615,
+      "word": "河流",
+      "onboard_time": 1747421055,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 26886,
