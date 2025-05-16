@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747369870952,
+  "endTime": 1747370739216,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -17,6 +17,14 @@
       "onboard_time": 1747331235,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1781035,
+      "num": 357663,
+      "word": "官方回应黄杨钿甜父亲职务问题",
+      "onboard_time": 1747368981,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1690929,
@@ -43,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1130935,
-      "num": 1130935,
+      "raw_hot": 1369898,
+      "num": 1369898,
       "word": "取款身亡老人家属称与银行达成和解",
       "onboard_time": 1747366701,
       "rank": 5,
@@ -57,6 +65,14 @@
       "onboard_time": 1747321464,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1090533,
+      "num": 1090533,
+      "word": "被母亲殴打致死女童父亲从国外返回",
+      "onboard_time": 1747368683,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1005215,
@@ -89,14 +105,6 @@
       "onboard_time": 1747305682,
       "rank": 20,
       "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 738527,
-      "num": 309843,
-      "word": "官方回应黄杨钿甜父亲职务问题",
-      "onboard_time": 1747368981,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 731287,
@@ -219,20 +227,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 531799,
+      "num": 531799,
+      "word": "时代少年团撕拉片",
+      "onboard_time": 1747366761,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481278,
       "num": 481278,
       "word": "4加4通报证明没人能包庇董小姐",
       "onboard_time": 1747321764,
       "rank": 3,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 476510,
-      "num": 476510,
-      "word": "时代少年团撕拉片",
-      "onboard_time": 1747366761,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 425960,
@@ -283,11 +291,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 372856,
-      "num": 372856,
-      "word": "被母亲殴打致死女童父亲从国外返回",
-      "onboard_time": 1747368683,
-      "rank": 8,
+      "raw_hot": 381599,
+      "num": 381599,
+      "word": "男子不明原因腹泻一年暴瘦至67斤",
+      "onboard_time": 1747369522,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -297,6 +305,14 @@
       "onboard_time": 1747366642,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 341729,
+      "num": 319086,
+      "word": "Prada魔咒",
+      "onboard_time": 1747370663,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341006,
@@ -331,8 +347,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 322863,
+      "num": 322863,
+      "word": "赵磊qko婚礼现场图",
+      "onboard_time": 1747368622,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309625,
-      "num": 258762,
+      "num": 300460,
       "word": "乐言打破奥斯卡30岁恋爱计划",
       "onboard_time": 1747367782,
       "rank": 46,
@@ -396,19 +420,11 @@
     },
     {
       "raw_hot": 270711,
-      "num": 229030,
+      "num": 270103,
       "word": "法国女生到底为什么瘦",
       "onboard_time": 1747368321,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 269160,
-      "num": 269160,
-      "word": "赵磊qko婚礼现场图",
-      "onboard_time": 1747368622,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 265913,
@@ -427,11 +443,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264937,
+      "num": 264937,
+      "word": "撕拉片",
+      "onboard_time": 1747368742,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258784,
       "num": 258784,
       "word": "奶奶没接凉水4岁孙子洗澡误入皮烫掉",
       "onboard_time": 1747309763,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256350,
+      "num": 256350,
+      "word": "一包包免费纸巾骗走老人们2亿元",
+      "onboard_time": 1747368382,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225542,
-      "num": 225542,
-      "word": "一包包免费纸巾骗走老人们2亿元",
-      "onboard_time": 1747368382,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225136,
       "num": 225136,
       "word": "高圆圆机场出发像去戛纳度假",
@@ -475,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218798,
+      "num": 388368,
+      "word": "正新鸡排回应网传鸡腿大量生蛆",
+      "onboard_time": 1747367182,
+      "rank": 34,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 217468,
       "num": 217468,
       "word": "人民网评小米芯片即将问世",
       "onboard_time": 1747318164,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 217057,
-      "num": 217057,
-      "word": "正新鸡排回应网传鸡腿大量生蛆",
-      "onboard_time": 1747367182,
-      "rank": 34,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 215994,
@@ -524,11 +548,19 @@
     },
     {
       "raw_hot": 205766,
-      "num": 249922,
+      "num": 300574,
       "word": "跟藏海传这群造梗天赋型选手拼了",
       "onboard_time": 1747369162,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204893,
+      "num": 204893,
+      "word": "大冰喊话山东救人考生",
+      "onboard_time": 1747367963,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 201492,
@@ -539,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199039,
+      "num": 199039,
+      "word": "女医生称副业收废品挣得比医院多",
+      "onboard_time": 1747369942,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199013,
       "num": 186294,
       "word": "肖某被吊销医师执业证书",
@@ -547,12 +587,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 195895,
-      "num": 195895,
-      "word": "撕拉片",
-      "onboard_time": 1747368742,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 198207,
+      "num": 198207,
+      "word": "2025KPL春季赛最佳阵容候选人",
+      "onboard_time": 1747370062,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 195721,
@@ -561,6 +601,14 @@
       "onboard_time": 1747367182,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194761,
+      "num": 194761,
+      "word": "宣璐苏娥皇来了",
+      "onboard_time": 1747370364,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191566,
@@ -595,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186291,
-      "num": 237606,
-      "word": "男子不明原因腹泻一年暴瘦至67斤",
-      "onboard_time": 1747369522,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184067,
       "num": 225212,
       "word": "特朗普再提接管加沙",
@@ -619,12 +659,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179779,
+      "num": 179779,
+      "word": "腾讯NBA总决赛嘉宾官宣",
+      "onboard_time": 1747370364,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179677,
+      "num": 179677,
+      "word": "赵樱子官摄镜头",
+      "onboard_time": 1747370543,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177852,
       "num": 177852,
       "word": "雷军最新内部演讲",
       "onboard_time": 1747361541,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177405,
+      "num": 177405,
+      "word": "王星越徐若晗新剧一箭倾心",
+      "onboard_time": 1747369884,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 175872,
@@ -640,6 +704,14 @@
       "word": "赵樱子请了顶级妆造团队",
       "onboard_time": 1747312103,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "被经超补求婚仪式感浪漫到了",
+      "onboard_time": 1747370663,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -689,14 +761,6 @@
       "onboard_time": 1747320384,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160600,
-      "num": 160600,
-      "word": "大冰喊话山东救人考生",
-      "onboard_time": 1747367963,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 159396,
@@ -860,7 +924,7 @@
     },
     {
       "raw_hot": 129872,
-      "num": 333088,
+      "num": 385029,
       "word": "CoCo一亿杯买一送一",
       "onboard_time": 1747368382,
       "rank": 11,
@@ -897,6 +961,14 @@
       "onboard_time": 1747358541,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124023,
+      "num": 359813,
+      "word": "官方通报母亲殴打9岁女儿致死",
+      "onboard_time": 1747369522,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122676,
@@ -1043,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105165,
+      "num": 1135661,
+      "word": "中国吸引来越来越多外国游客",
+      "onboard_time": 1747368200,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103585,
       "num": 226570,
       "word": "杨瀚森联合试训后续流程",
@@ -1097,14 +1177,6 @@
       "onboard_time": 1747318584,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92555,
-      "num": 1081468,
-      "word": "中国吸引来越来越多外国游客",
-      "onboard_time": 1747368200,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91881,
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 77332,
-      "num": 251246,
+      "num": 308889,
       "word": "美的脱口秀大会阵容",
       "onboard_time": 1747368382,
       "rank": 25,
@@ -1244,7 +1316,7 @@
     },
     {
       "raw_hot": 62821,
-      "num": 281589,
+      "num": 354039,
       "word": "王蓉姐自乘风",
       "onboard_time": 1747368382,
       "rank": 16,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1747316424,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49392,
+      "num": 351598,
+      "word": "安卓对标苹果能吸引iPhone用户吗",
+      "onboard_time": 1747369884,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 43221,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1747333275,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23485,
+      "num": 362606,
+      "word": "伪造重疾证明优化债务仅需4000元",
+      "onboard_time": 1747369884,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23374,

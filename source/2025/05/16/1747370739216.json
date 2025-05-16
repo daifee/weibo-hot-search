@@ -1,0 +1,410 @@
+{
+  "runTime": 1747370739216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547763,
+        "num": 1547763,
+        "word": "网友爆料正新鸡排鸡腿大量生蛆",
+        "onboard_time": 1747364902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1369898,
+        "num": 1369898,
+        "word": "取款身亡老人家属称与银行达成和解",
+        "onboard_time": 1747366701,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105165,
+        "num": 1135661,
+        "word": "中国吸引来越来越多外国游客",
+        "onboard_time": 1747368200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090533,
+        "num": 1090533,
+        "word": "被母亲殴打致死女童父亲从国外返回",
+        "onboard_time": 1747368683,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 934022,
+        "num": 934022,
+        "word": "欧阳娜娜或被罚10万到50万新台币",
+        "onboard_time": 1747359502,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557437,
+        "num": 557437,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531799,
+        "num": 531799,
+        "word": "时代少年团撕拉片",
+        "onboard_time": 1747366761,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504953,
+        "num": 504953,
+        "word": "荣耀 肖战",
+        "onboard_time": 1747362621,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389478,
+        "num": 389478,
+        "word": "2025年端午节放假不调休",
+        "onboard_time": 1747355421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218798,
+        "num": 388368,
+        "word": "正新鸡排回应网传鸡腿大量生蛆",
+        "onboard_time": 1747367182,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 3135153,
+        "num": 386168,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121701,
+        "num": 385029,
+        "word": "CoCo一亿杯买一送一",
+        "onboard_time": 1747368382,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 439927,
+        "num": 382819,
+        "word": "母女就餐1小时未动筷老板报警",
+        "onboard_time": 1747331235,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381599,
+        "num": 381599,
+        "word": "男子不明原因腹泻一年暴瘦至67斤",
+        "onboard_time": 1747369522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23485,
+        "num": 362606,
+        "word": "伪造重疾证明优化债务仅需4000元",
+        "onboard_time": 1747369884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360561,
+        "num": 360561,
+        "word": "周深王俊凯为动画电影配音",
+        "onboard_time": 1747366642,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124023,
+        "num": 359813,
+        "word": "官方通报母亲殴打9岁女儿致死",
+        "onboard_time": 1747369522,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1781035,
+        "num": 357663,
+        "word": "官方回应黄杨钿甜父亲职务问题",
+        "onboard_time": 1747368981,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62350,
+        "num": 354039,
+        "word": "王蓉姐自乘风",
+        "onboard_time": 1747368382,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49392,
+        "num": 351598,
+        "word": "安卓对标苹果能吸引iPhone用户吗",
+        "onboard_time": 1747369884,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 350805,
+        "num": 350805,
+        "word": "继父去世后男子一家10口改随生父姓",
+        "onboard_time": 1747367182,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322863,
+        "num": 322863,
+        "word": "赵磊qko婚礼现场图",
+        "onboard_time": 1747368622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341729,
+        "num": 319086,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313253,
+        "num": 313253,
+        "word": "纤维粒 夏思齐",
+        "onboard_time": 1747320864,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258393,
+        "num": 312265,
+        "word": "侯佩岑陈乔恩被台当局威胁查处",
+        "onboard_time": 1747351879,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59170,
+        "num": 308889,
+        "word": "美的脱口秀大会阵容",
+        "onboard_time": 1747368382,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242116,
+        "num": 308118,
+        "word": "终于有剧敢拍反盗墓题材了",
+        "onboard_time": 1747363940,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49485,
+        "num": 304836,
+        "word": "雷佳音吃成京东代言人",
+        "onboard_time": 1747365202,
+        "rank": 27,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 201844,
+        "num": 300574,
+        "word": "跟藏海传这群造梗天赋型选手拼了",
+        "onboard_time": 1747369162,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300460,
+        "num": 300460,
+        "word": "乐言打破奥斯卡30岁恋爱计划",
+        "onboard_time": 1747367782,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271391,
+        "num": 271391,
+        "word": "官方回应烧烤店泔水桶捞出肉串再烤",
+        "onboard_time": 1747363160,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270103,
+        "num": 270103,
+        "word": "法国女生到底为什么瘦",
+        "onboard_time": 1747368321,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 264937,
+        "num": 264937,
+        "word": "撕拉片",
+        "onboard_time": 1747368742,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256350,
+        "num": 256350,
+        "word": "一包包免费纸巾骗走老人们2亿元",
+        "onboard_time": 1747368382,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217714,
+        "num": 217714,
+        "word": "丁真 被资本做局了",
+        "onboard_time": 1747315765,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204893,
+        "num": 204893,
+        "word": "大冰喊话山东救人考生",
+        "onboard_time": 1747367963,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199039,
+        "num": 199039,
+        "word": "女医生称副业收废品挣得比医院多",
+        "onboard_time": 1747369942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198207,
+        "num": 198207,
+        "word": "2025KPL春季赛最佳阵容候选人",
+        "onboard_time": 1747370062,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194761,
+        "num": 194761,
+        "word": "宣璐苏娥皇来了",
+        "onboard_time": 1747370364,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187620,
+        "num": 187620,
+        "word": "雷军说十年饮冰难凉热血",
+        "onboard_time": 1747359920,
+        "rank": 39,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 179779,
+        "num": 179779,
+        "word": "腾讯NBA总决赛嘉宾官宣",
+        "onboard_time": 1747370364,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131873,
+        "num": 179691,
+        "word": "京东干啥都太全面了",
+        "onboard_time": 1747365202,
+        "rank": 41,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 179677,
+        "num": 179677,
+        "word": "赵樱子官摄镜头",
+        "onboard_time": 1747370543,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177405,
+        "num": 177405,
+        "word": "王星越徐若晗新剧一箭倾心",
+        "onboard_time": 1747369884,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174424,
+        "num": 174424,
+        "word": "京津冀局地11级雷暴大风或大冰雹",
+        "onboard_time": 1747357342,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174156,
+        "num": 174156,
+        "word": "被经超补求婚仪式感浪漫到了",
+        "onboard_time": 1747370663,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170226,
+        "num": 170226,
+        "word": "哈马斯称若永久停火可交出加沙控制权",
+        "onboard_time": 1747364539,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167581,
+        "num": 167581,
+        "word": "炒牛肉千万不要直接就下锅",
+        "onboard_time": 1747361362,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163960,
+        "num": 163960,
+        "word": "关注肖董事件后续调查情况",
+        "onboard_time": 1747362981,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163177,
+        "num": 163177,
+        "word": "恋与深空",
+        "onboard_time": 1747366642,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国是外商理想安全有为的投资目的地#"
+    }
+  }
+}
