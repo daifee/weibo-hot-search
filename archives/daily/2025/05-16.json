@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747373183383,
+  "endTime": 1747374185876,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2854105,
+      "num": 2854105,
+      "word": "黄杨钿甜公司声明",
+      "onboard_time": 1747372941,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2519428,
       "num": 2519428,
       "word": "母女就餐1小时未动筷老板报警",
       "onboard_time": 1747331235,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1870297,
-      "num": 1870297,
-      "word": "黄杨钿甜公司声明",
-      "onboard_time": 1747372941,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1781035,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1571491,
-      "num": 336308,
+      "raw_hot": 1613207,
+      "num": 364918,
       "word": "Prada魔咒",
       "onboard_time": 1747370663,
       "rank": 22,
@@ -88,6 +88,14 @@
       "word": "被母亲殴打致死女童父亲从国外返回",
       "onboard_time": 1747368683,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1030751,
+      "num": 1030751,
+      "word": "男子不明原因腹泻一年暴瘦至67斤",
+      "onboard_time": 1747369522,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1747322183,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 699848,
-      "num": 699848,
-      "word": "男子不明原因腹泻一年暴瘦至67斤",
-      "onboard_time": 1747369522,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 685508,
@@ -299,11 +299,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408625,
+      "num": 408625,
+      "word": "一包包免费纸巾骗走老人们2亿元",
+      "onboard_time": 1747368382,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398482,
       "num": 351076,
       "word": "继父去世后男子一家10口改随生父姓",
       "onboard_time": 1747367182,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392305,
+      "num": 392305,
+      "word": "女医生称副业收废品挣得比医院多",
+      "onboard_time": 1747369942,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -344,14 +360,6 @@
       "word": "成都5岁女童被碾亡案被告车主发声",
       "onboard_time": 1747322363,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337042,
-      "num": 337042,
-      "word": "一包包免费纸巾骗走老人们2亿元",
-      "onboard_time": 1747368382,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -483,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244439,
+      "num": 244439,
+      "word": "魏劭被下药名场面",
+      "onboard_time": 1747373243,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240135,
       "num": 240135,
       "word": "法医秦明",
       "onboard_time": 1747358660,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231511,
+      "num": 231511,
+      "word": "盒马",
+      "onboard_time": 1747371984,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226552,
@@ -545,14 +569,6 @@
       "onboard_time": 1747305623,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210950,
-      "num": 336811,
-      "word": "女医生称副业收废品挣得比医院多",
-      "onboard_time": 1747369942,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206355,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 179779,
-      "num": 179779,
+      "num": 188706,
       "word": "腾讯NBA总决赛嘉宾官宣",
       "onboard_time": 1747370364,
       "rank": 40,
@@ -729,14 +745,6 @@
       "onboard_time": 1747312103,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172097,
-      "num": 172097,
-      "word": "盒马",
-      "onboard_time": 1747371984,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170784,
@@ -835,6 +843,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 153363,
+      "num": 303913,
+      "word": "退休老人为赚4块钱7天被骗2万多",
+      "onboard_time": 1747372703,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149911,
       "num": 183648,
       "word": "小乔雨中抱大乔雨中吻",
@@ -849,6 +865,14 @@
       "onboard_time": 1747365202,
       "rank": 20,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 147766,
+      "num": 147766,
+      "word": "练瑜伽3个月和3年的区别",
+      "onboard_time": 1747373601,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147438,
@@ -897,6 +921,14 @@
       "onboard_time": 1747359502,
       "rank": 42,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 141261,
+      "num": 141261,
+      "word": "四川内江发生持刀伤人案",
+      "onboard_time": 1747370841,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140363,
@@ -985,14 +1017,6 @@
       "onboard_time": 1747368382,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129658,
-      "num": 129658,
-      "word": "四川内江发生持刀伤人案",
-      "onboard_time": 1747370841,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129032,
@@ -1235,12 +1259,28 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 102493,
+      "num": 102493,
+      "word": "李嘉琦淘汰",
+      "onboard_time": 1747374142,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102141,
       "num": 102141,
       "word": "77年过去巴勒斯坦遭受的不公反加剧",
       "onboard_time": 1747361841,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102016,
+      "num": 102016,
+      "word": "老祖宗的多巴胺审美",
+      "onboard_time": 1747373963,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 100205,
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76998,
+      "num": 336562,
+      "word": "荣耀肖战首个全球手机代言",
+      "onboard_time": 1747372161,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75286,
       "num": 159183,
       "word": "专家称美对华芯片限制注定失败",
@@ -1368,6 +1416,14 @@
       "word": "找噪声源申请政府信息公开得交8万多",
       "onboard_time": 1747366161,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73782,
+      "num": 121343,
+      "word": "北京发布雷电冰雹大风3预警",
+      "onboard_time": 1747373722,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1419,6 +1475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64084,
+      "num": 144333,
+      "word": "表彰200名全国自强模范",
+      "onboard_time": 1747374021,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62821,
       "num": 354039,
       "word": "王蓉姐自乘风",
@@ -1467,12 +1531,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48988,
-      "num": 336562,
-      "word": "荣耀肖战首个全球手机代言",
-      "onboard_time": 1747372161,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 44903,
+      "num": 223051,
+      "word": "男子为报复前妻多次遗弃幼子",
+      "onboard_time": 1747373063,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43221,
@@ -1523,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28989,
+      "num": 226848,
+      "word": "牛奶到底是促炎还是抗炎",
+      "onboard_time": 1747373483,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28752,
       "num": 282579,
       "word": "饭店捞泔水桶肉串售卖卫生底线在哪",
@@ -1539,28 +1611,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26950,
-      "num": 303913,
-      "word": "退休老人为赚4块钱7天被骗2万多",
-      "onboard_time": 1747372703,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25539,
-      "num": 168366,
-      "word": "男子为报复前妻多次遗弃幼子",
-      "onboard_time": 1747373063,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25321,
       "num": 211096,
       "word": "高芙连进两站1000赛决赛",
       "onboard_time": 1747367722,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24377,
+      "num": 185380,
+      "word": "李晟京东公演",
+      "onboard_time": 1747372042,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 23872,
@@ -1619,19 +1683,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17706,
-      "num": 174508,
-      "word": "李晟京东公演",
-      "onboard_time": 1747372042,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17372,
       "num": 115545,
       "word": "保利尼首进罗马赛决赛",
       "onboard_time": 1747350978,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15147,
+      "num": 249764,
+      "word": "亚马尔是否有机会金球奖",
+      "onboard_time": 1747361061,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1657,14 +1721,6 @@
       "onboard_time": 1747367182,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10651,
-      "num": 249764,
-      "word": "亚马尔是否有机会金球奖",
-      "onboard_time": 1747361061,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 8796,
