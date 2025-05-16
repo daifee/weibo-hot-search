@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747406647433,
+  "endTime": 1747409114356,
   "band_list": [
     {
       "raw_hot": 9776759,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1344894,
+      "num": 270118,
+      "word": "马嘉祺揭榜",
+      "onboard_time": 1747407146,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1202701,
       "num": 465289,
       "word": "黄杨爸爸说耳环不是正品",
@@ -209,6 +217,14 @@
       "onboard_time": 1747382182,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1160881,
+      "num": 264570,
+      "word": "陈楚生能第二",
+      "onboard_time": 1747407325,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1147372,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 920046,
+      "num": 258576,
+      "word": "林志炫 被做局了",
+      "onboard_time": 1747407086,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909671,
       "num": 909671,
       "word": "王楚钦冲击首个男单世界冠军",
@@ -347,6 +371,14 @@
       "category": "舆论监督,艺人"
     },
     {
+      "raw_hot": 745388,
+      "num": 745388,
+      "word": "南宁一学校发生伤害案嫌疑人死亡",
+      "onboard_time": 1747407146,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 742646,
       "num": 742646,
       "word": "鹿晗新歌歌词",
@@ -371,6 +403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 730767,
+      "num": 257039,
+      "word": "最稳的居然是GAI",
+      "onboard_time": 1747407265,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 723653,
       "num": 723653,
       "word": "2025年端午节放假不调休",
@@ -385,6 +425,14 @@
       "onboard_time": 1747371984,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712228,
+      "num": 253488,
+      "word": "单依纯第一",
+      "onboard_time": 1747406905,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 710344,
@@ -432,6 +480,14 @@
       "word": "李嘉琦淘汰",
       "onboard_time": 1747374142,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 652786,
+      "num": 205172,
+      "word": "BENI淘汰",
+      "onboard_time": 1747407146,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -747,6 +803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 373530,
+      "num": 196819,
+      "word": "歌手排名 我被资本做局了",
+      "onboard_time": 1747406066,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373157,
       "num": 373157,
       "word": "200万买一对耳环的概念",
@@ -763,12 +827,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 372197,
+      "num": 474888,
+      "word": "深圳一女子应聘文员被回复太丑了",
+      "onboard_time": 1747405289,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370917,
       "num": 394445,
       "word": "周深王俊凯为动画电影配音",
       "onboard_time": 1747366642,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 363240,
+      "num": 195374,
+      "word": "今年的歌手也太会玩了",
+      "onboard_time": 1747408345,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 362339,
@@ -843,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312169,
+      "num": 193983,
+      "word": "R1SE成员祝福赵磊VCR",
+      "onboard_time": 1747408224,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309625,
       "num": 300460,
       "word": "乐言打破奥斯卡30岁恋爱计划",
@@ -912,6 +1000,14 @@
       "word": "歌手2025追综指南",
       "onboard_time": 1747393641,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284083,
+      "num": 176234,
+      "word": "白举纲 大白嗓",
+      "onboard_time": 1747407086,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1099,6 +1195,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 242960,
+      "num": 242960,
+      "word": "米奇唱哭了",
+      "onboard_time": 1747407865,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240135,
       "num": 240135,
       "word": "法医秦明",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1747401143,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233899,
+      "num": 233899,
+      "word": "河南一医院被曝疑用手铐控制一女子",
+      "onboard_time": 1747406786,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231584,
@@ -1179,6 +1291,14 @@
       "category": "互联网,美妆"
     },
     {
+      "raw_hot": 224897,
+      "num": 247525,
+      "word": "代孕机构称客户大多要求大学生",
+      "onboard_time": 1747407505,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 224564,
       "num": 224564,
       "word": "唐嫣紫色薄纱裙",
@@ -1209,14 +1329,6 @@
       "onboard_time": 1747367963,
       "rank": 41,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 220468,
-      "num": 474888,
-      "word": "深圳一女子应聘文员被回复太丑了",
-      "onboard_time": 1747405289,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219711,
@@ -1331,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206543,
+      "num": 170188,
+      "word": "建议汪苏泷高马尾半永久",
+      "onboard_time": 1747408583,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206355,
       "num": 195691,
       "word": "小米玄戒公司已公布数百项专利",
@@ -1361,6 +1481,14 @@
       "onboard_time": 1747394841,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204072,
+      "num": 167542,
+      "word": "文轩",
+      "onboard_time": 1747407745,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 202776,
@@ -1409,6 +1537,14 @@
       "onboard_time": 1747370663,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196073,
+      "num": 196073,
+      "word": "南宁警方通报一学校伤害案1死2伤",
+      "onboard_time": 1747407205,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 195721,
@@ -1489,6 +1625,14 @@
       "onboard_time": 1747375762,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190444,
+      "num": 164115,
+      "word": "汪苏泷漫画风机车造型",
+      "onboard_time": 1747408345,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 190177,
@@ -1715,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174683,
+      "num": 162246,
+      "word": "Grace 00后小孩姐勇闯歌手",
+      "onboard_time": 1747409064,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174495,
       "num": 174495,
       "word": "老人取款身亡银行支付10万元慰问金",
@@ -1825,6 +1977,14 @@
       "onboard_time": 1747320384,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167638,
+      "num": 167638,
+      "word": "TTG对战RW侠",
+      "onboard_time": 1747408704,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 167470,
@@ -2139,6 +2299,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 143975,
+      "num": 262707,
+      "word": "20多个台湾艺人被民进党当局威胁",
+      "onboard_time": 1747407925,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143207,
       "num": 270485,
       "word": "刘宇宁嘴伸出去二里地还没够着",
@@ -2241,6 +2409,14 @@
       "onboard_time": 1747323502,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136635,
+      "num": 162996,
+      "word": "张真源眼色拔旗绝对速度感",
+      "onboard_time": 1747408824,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135043,
@@ -2532,7 +2708,7 @@
     },
     {
       "raw_hot": 119878,
-      "num": 119878,
+      "num": 158437,
       "word": "王楚钦赛前打台球放松",
       "onboard_time": 1747402464,
       "rank": 47,
@@ -2731,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105836,
+      "num": 159560,
+      "word": "越来越多间谍设备披上日常用品外衣",
+      "onboard_time": 1747407205,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105165,
       "num": 1135661,
       "word": "中国吸引来越来越多外国游客",
@@ -2923,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87928,
+      "num": 216650,
+      "word": "奔跑吧永远不落下任何一人",
+      "onboard_time": 1747406665,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87066,
       "num": 420667,
       "word": "今天星期五",
@@ -2993,6 +3185,14 @@
       "onboard_time": 1747367422,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 78549,
+      "num": 159294,
+      "word": "吴艳妮打破首高女子100栏纪录",
+      "onboard_time": 1747408224,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 77332,
@@ -3073,6 +3273,14 @@
       "onboard_time": 1747369641,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72124,
+      "num": 233547,
+      "word": "司马光掌管PEL中场秀的神",
+      "onboard_time": 1747408104,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 70731,
@@ -3340,7 +3548,7 @@
     },
     {
       "raw_hot": 45658,
-      "num": 498344,
+      "num": 1216071,
       "word": "数读我国南北港口亮眼成就",
       "onboard_time": 1747402765,
       "rank": 2,
@@ -3553,6 +3761,14 @@
       "onboard_time": 1747387881,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32642,
+      "num": 226643,
+      "word": "景区摆渡车是便利还是牟利",
+      "onboard_time": 1747408224,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 32576,
