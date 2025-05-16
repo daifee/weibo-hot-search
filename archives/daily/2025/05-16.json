@@ -1,6 +1,6 @@
 {
   "startTime": 1747326780222,
-  "endTime": 1747391286721,
+  "endTime": 1747392302962,
   "band_list": [
     {
       "raw_hot": 3177100,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118147,
+      "num": 1118147,
+      "word": "2024年平均工资出炉",
+      "onboard_time": 1747387582,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1112167,
       "num": 1112167,
       "word": "欧阳娜娜等20多人被台当局威胁",
@@ -225,14 +233,6 @@
       "onboard_time": 1747379361,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 808054,
-      "num": 808054,
-      "word": "2024年平均工资出炉",
-      "onboard_time": 1747387582,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 785525,
@@ -491,7 +491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 487356,
+      "raw_hot": 493307,
       "num": 413068,
       "word": "夏之光 谷嘉诚我给你快递点肥皂",
       "onboard_time": 1747388722,
@@ -595,6 +595,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 376058,
+      "num": 376058,
+      "word": "山姆绿豆糕",
+      "onboard_time": 1747390161,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 373157,
       "num": 373157,
       "word": "200万买一对耳环的概念",
@@ -681,6 +689,14 @@
       "onboard_time": 1747367782,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307957,
+      "num": 307957,
+      "word": "赵磊婚礼六个伴郎",
+      "onboard_time": 1747392021,
+      "rank": 35,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 300934,
@@ -1091,20 +1107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194694,
-      "num": 194694,
-      "word": "山姆绿豆糕",
-      "onboard_time": 1747390161,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 194421,
       "num": 194421,
       "word": "赵磊站姐",
       "onboard_time": 1747384582,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193694,
+      "num": 379535,
+      "word": "折腰男主 曹操的终极幻想",
+      "onboard_time": 1747390821,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 191566,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1747386982,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 189193,
+      "num": 189193,
+      "word": "俄乌在土耳其谈判已开始",
+      "onboard_time": 1747391724,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 189102,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1747370543,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179674,
-      "num": 250486,
-      "word": "折腰男主 曹操的终极幻想",
-      "onboard_time": 1747390821,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 177852,
@@ -1363,6 +1379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165762,
+      "num": 165762,
+      "word": "何洛洛好帅",
+      "onboard_time": 1747391962,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164975,
+      "num": 383764,
+      "word": "歌手第一期将淘汰1人",
+      "onboard_time": 1747389861,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160899,
       "num": 160899,
       "word": "马嘉祺倒霉熊不是停播了吗",
@@ -1404,7 +1436,7 @@
     },
     {
       "raw_hot": 158878,
-      "num": 236916,
+      "num": 378692,
       "word": "天猫618立减叠券一降再降",
       "onboard_time": 1747390102,
       "rank": 28,
@@ -1523,14 +1555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 152064,
-      "num": 149164,
-      "word": "歌手第一期将淘汰1人",
-      "onboard_time": 1747389861,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150829,
       "num": 150829,
       "word": "蒋一侨长发",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1747314985,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149817,
+      "num": 380023,
+      "word": "夏之光郭子凡互动",
+      "onboard_time": 1747391903,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 149165,
@@ -1627,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140847,
+      "num": 277802,
+      "word": "王楚钦说不会给自己定多高的目标",
+      "onboard_time": 1747392202,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140363,
       "num": 111123,
       "word": "折腰",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1747323502,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137287,
+      "num": 385577,
+      "word": "俄乌直接谈判开始",
+      "onboard_time": 1747391361,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135043,
@@ -2139,6 +2187,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 91955,
+      "num": 377330,
+      "word": "吴艳妮再次打破纪录",
+      "onboard_time": 1747391361,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91881,
       "num": 114595,
       "word": "俄蒙混血网红让韩国化妆师化kpop妆",
@@ -2323,6 +2379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69483,
+      "num": 377758,
+      "word": "国乒上届世乒赛包揽五项冠军",
+      "onboard_time": 1747392142,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68498,
+      "num": 382361,
+      "word": "网友自曝在上海公园放生美国牛蛙",
+      "onboard_time": 1747391421,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68167,
       "num": 225183,
       "word": "儿童手表不能再不务正业",
@@ -2443,12 +2515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50572,
+      "raw_hot": 53547,
       "num": 410598,
       "word": "郭晶晶再上央视做裁判",
       "onboard_time": 1747390222,
       "rank": 17,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 52817,
+      "num": 267855,
+      "word": "大学教授评刚买的飞机逾越边界",
+      "onboard_time": 1747390161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50523,
@@ -2467,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49752,
+      "num": 381562,
+      "word": "大数据解析美国关税政策的底层逻辑",
+      "onboard_time": 1747391061,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49485,
       "num": 194742,
       "word": "熟牛肉切片后为什么呈彩虹色",
@@ -2483,20 +2571,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 45316,
-      "num": 199632,
-      "word": "大学教授评刚买的飞机逾越边界",
-      "onboard_time": 1747390161,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44903,
       "num": 223051,
       "word": "男子为报复前妻多次遗弃幼子",
       "onboard_time": 1747373063,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44218,
+      "num": 379340,
+      "word": "理解英语中的固定搭配了",
+      "onboard_time": 1747391241,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 44085,
@@ -2571,20 +2659,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37888,
-      "num": 220508,
-      "word": "大数据解析美国关税政策的底层逻辑",
-      "onboard_time": 1747391061,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37005,
       "num": 37005,
       "word": "姜同学得知补考后说更不后悔了",
       "onboard_time": 1747342094,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 35510,
+      "num": 381814,
+      "word": "湿厕纸相比干擦能提升多少清洁效率",
+      "onboard_time": 1747391481,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 34845,
+      "num": 377616,
+      "word": "乘客口袋里带蛇乘车吓坏司机",
+      "onboard_time": 1747391421,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34782,
@@ -2601,6 +2697,14 @@
       "onboard_time": 1747387881,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32576,
+      "num": 383570,
+      "word": "科普扑克错印火药发明者为法国人",
+      "onboard_time": 1747391361,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32208,
@@ -2689,14 +2793,6 @@
       "onboard_time": 1747365381,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27509,
-      "num": 197072,
-      "word": "理解英语中的固定搭配了",
-      "onboard_time": 1747391241,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 27427,
@@ -2912,6 +3008,14 @@
       "word": "淄博酒店惊现摄像头隐私该如何保障",
       "onboard_time": 1747387881,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13788,
+      "num": 382514,
+      "word": "生产方回应盒马鸡蛋检出兽药超标",
+      "onboard_time": 1747391782,
+      "rank": 16,
       "category": "民生新闻"
     },
     {

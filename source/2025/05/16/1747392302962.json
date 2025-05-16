@@ -1,0 +1,410 @@
+{
+  "runTime": 1747392302962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1241974,
+        "num": 1241974,
+        "word": "儿子中奖1000万父亲生疑砍伤前妻姐妹",
+        "onboard_time": 1747387281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1118147,
+        "num": 1118147,
+        "word": "2024年平均工资出炉",
+        "onboard_time": 1747387582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34007,
+        "num": 1028346,
+        "word": "欢迎来看热情活力的中国",
+        "onboard_time": 1747384340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1012405,
+        "num": 1012405,
+        "word": "雅安有关部门介入调查高价耳环事件",
+        "onboard_time": 1747385242,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1541017,
+        "num": 865014,
+        "word": "赵磊婚礼",
+        "onboard_time": 1747388302,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702238,
+        "num": 702238,
+        "word": "蓝天立被查",
+        "onboard_time": 1747387104,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720014,
+        "num": 664005,
+        "word": "鹿晗歌词 默契得连分开都闭口不提",
+        "onboard_time": 1747385540,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386236,
+        "num": 386236,
+        "word": "多次强奸8名未成年人罪犯被执行死刑",
+        "onboard_time": 1747376122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 939066,
+        "num": 386079,
+        "word": "第一次见内娱爱豆婚礼直播",
+        "onboard_time": 1747389083,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137287,
+        "num": 385577,
+        "word": "俄乌直接谈判开始",
+        "onboard_time": 1747391361,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 793331,
+        "num": 384973,
+        "word": "赵德胤给前女友拍了五部电影",
+        "onboard_time": 1747383321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53547,
+        "num": 384567,
+        "word": "郭晶晶再上央视做裁判",
+        "onboard_time": 1747390222,
+        "rank": 11,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 56842,
+        "num": 384294,
+        "word": "时代少年团全员美团黑钻会员",
+        "onboard_time": 1747387104,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164975,
+        "num": 383764,
+        "word": "歌手第一期将淘汰1人",
+        "onboard_time": 1747389861,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32576,
+        "num": 383570,
+        "word": "科普扑克错印火药发明者为法国人",
+        "onboard_time": 1747391361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112656,
+        "num": 383218,
+        "word": "啥都不如有个好身体",
+        "onboard_time": 1747390041,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13788,
+        "num": 382514,
+        "word": "生产方回应盒马鸡蛋检出兽药超标",
+        "onboard_time": 1747391782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68498,
+        "num": 382361,
+        "word": "网友自曝在上海公园放生美国牛蛙",
+        "onboard_time": 1747391421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35510,
+        "num": 381814,
+        "word": "湿厕纸相比干擦能提升多少清洁效率",
+        "onboard_time": 1747391481,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49752,
+        "num": 381562,
+        "word": "大数据解析美国关税政策的底层逻辑",
+        "onboard_time": 1747391061,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 703145,
+        "num": 380775,
+        "word": "黄杨钿甜爸爸 雅安公务员",
+        "onboard_time": 1747359259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493307,
+        "num": 380487,
+        "word": "夏之光 谷嘉诚我给你快递点肥皂",
+        "onboard_time": 1747388722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149817,
+        "num": 380023,
+        "word": "夏之光郭子凡互动",
+        "onboard_time": 1747391903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193694,
+        "num": 379535,
+        "word": "折腰男主 曹操的终极幻想",
+        "onboard_time": 1747390821,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44218,
+        "num": 379340,
+        "word": "理解英语中的固定搭配了",
+        "onboard_time": 1747391241,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125992,
+        "num": 378692,
+        "word": "天猫618立减叠券一降再降",
+        "onboard_time": 1747390102,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 378472,
+        "word": "短剧演员给内娱上强度了",
+        "onboard_time": 1747386502,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69483,
+        "num": 377758,
+        "word": "国乒上届世乒赛包揽五项冠军",
+        "onboard_time": 1747392142,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34845,
+        "num": 377616,
+        "word": "乘客口袋里带蛇乘车吓坏司机",
+        "onboard_time": 1747391421,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91955,
+        "num": 377330,
+        "word": "吴艳妮再次打破纪录",
+        "onboard_time": 1747391361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493230,
+        "num": 376898,
+        "word": "赵丽颖赵德胤",
+        "onboard_time": 1747385180,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465030,
+        "num": 376157,
+        "word": "知情人回应黄杨钿甜父亲职务问题",
+        "onboard_time": 1747368981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376058,
+        "num": 376058,
+        "word": "山姆绿豆糕",
+        "onboard_time": 1747390161,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344906,
+        "num": 344906,
+        "word": "车里有条蛇不见了",
+        "onboard_time": 1747384521,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339303,
+        "num": 339303,
+        "word": "北京冰雹",
+        "onboard_time": 1747385123,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307957,
+        "num": 307957,
+        "word": "赵磊婚礼六个伴郎",
+        "onboard_time": 1747392021,
+        "rank": 35,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 295883,
+        "num": 295883,
+        "word": "新冠再来袭",
+        "onboard_time": 1747382182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140847,
+        "num": 277802,
+        "word": "王楚钦说不会给自己定多高的目标",
+        "onboard_time": 1747392202,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52817,
+        "num": 267855,
+        "word": "大学教授评刚买的飞机逾越边界",
+        "onboard_time": 1747390161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262749,
+        "num": 262749,
+        "word": "纤维粒",
+        "onboard_time": 1747385422,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209954,
+        "num": 209954,
+        "word": "王楚钦冲击首个男单世界冠军",
+        "onboard_time": 1747379361,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195645,
+        "num": 195645,
+        "word": "云南地震",
+        "onboard_time": 1747358422,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189193,
+        "num": 189193,
+        "word": "俄乌在土耳其谈判已开始",
+        "onboard_time": 1747391724,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185197,
+        "num": 185197,
+        "word": "日本25岁男子沉迷手游致脖子长角",
+        "onboard_time": 1747387162,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169340,
+        "num": 169340,
+        "word": "特朗普不希望印度生产iPhone",
+        "onboard_time": 1747389141,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167860,
+        "num": 167860,
+        "word": "200万买一对耳环的概念",
+        "onboard_time": 1747384642,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165762,
+        "num": 165762,
+        "word": "何洛洛好帅",
+        "onboard_time": 1747391962,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164996,
+        "num": 164996,
+        "word": "巴基斯坦拟采购40架J35A",
+        "onboard_time": 1747385180,
+        "rank": 47,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 163756,
+        "num": 163756,
+        "word": "钟楚曦戛纳24秒官摄镜头",
+        "onboard_time": 1747388722,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160652,
+        "num": 160652,
+        "word": "Prada魔咒",
+        "onboard_time": 1747370663,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#切实保障残疾人平等权益#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/16 18:28:06
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/16 18:45:02
 </p>
 </blockquote>
 <p>
@@ -1749,6 +1749,12 @@ DeepSeek认为最难学的语言（热度：1242984）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89%23" target="weibo">
+2024年平均工资出炉（热度：1118147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA3K%E5%B8%A6%E6%9C%88%E8%96%AA5w%E4%BD%93%E9%AA%8C%E4%BD%8E%E6%B6%88%E8%B4%B9%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 月薪3K带月薪5w体验低消费的一天（热度：1116307）
 </a>
@@ -3005,12 +3011,6 @@ deepseek（热度：1099496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E4%B8%8E%E5%90%91%E5%AF%BC%E5%A4%B1%E6%95%A3%E5%9B%B0%E6%B5%B7%E4%B8%AD1%E5%B0%8F%E6%97%B6%23" target="weibo">
 三亚多名游客与向导失散困海中1小时（热度：808849）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89%23" target="weibo">
-2024年平均工资出炉（热度：808054）
 </a>
 </li>
 
