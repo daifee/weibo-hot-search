@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/11 00:28:59 ~ 2025/05/16 23:41:01
+本榜单时间：2025/05/11 00:28:59 ~ 2025/05/17 00:31:50
 </p>
 </blockquote>
 <p>
@@ -581,6 +581,12 @@ CP31开票（热度：1334205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E6%9C%B1%E5%A4%A7%E7%88%B7%E5%B7%B2%E4%BA%8E2011%E5%B9%B4%E5%8E%BB%E4%B8%96%23" target="weibo">
 汶川地震朱大爷已于2011年去世（热度：1281730）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%20%E6%88%91%E8%A2%AB%E8%B5%84%E6%9C%AC%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
+歌手排名 我被资本做局了（热度：1277969）
 </a>
 </li>
 
@@ -2313,6 +2319,12 @@ Everglow宣布解散（热度：518013）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%AD%95%E6%9C%BA%E6%9E%84%E7%A7%B0%E5%AE%A2%E6%88%B7%E5%A4%A7%E5%A4%9A%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
+代孕机构称客户大多要求大学生（热度：500878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%A6%E8%84%91%E7%98%AB%E7%94%B7%E5%AD%A9%E9%80%86%E8%A2%AD%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E5%90%8E%E5%8F%88%E8%BF%9B%E5%93%88%E4%BD%9B%23" target="weibo">
 重度脑瘫男孩逆袭考上北大后又进哈佛（热度：499884）
 </a>
@@ -2871,12 +2883,6 @@ GAI挂labubu上歌手（热度：463756）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%AD%95%E6%9C%BA%E6%9E%84%E7%A7%B0%E5%AE%A2%E6%88%B7%E5%A4%A7%E5%A4%9A%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AD%A6%E7%94%9F%23" target="weibo">
-代孕机构称客户大多要求大学生（热度：414553）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BA%E4%BA%A7%E5%BC%80%E5%8D%81%E6%8C%87%E7%9A%84%E7%97%9B%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23" target="weibo">
 顺产开十指的痛具象化了（热度：414333）
 </a>
@@ -2981,12 +2987,6 @@ GAI挂labubu上歌手（热度：463756）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%B2%99%E7%89%B9%E7%AD%BE%E7%BD%B2%E4%B8%8A%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE%E5%8D%8F%E8%AE%AE%23" target="weibo">
 美国和沙特签署上千亿美元军售协议（热度：396724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%20%E6%88%91%E8%A2%AB%E8%B5%84%E6%9C%AC%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
-歌手排名 我被资本做局了（热度：396422）
 </a>
 </li>
 
@@ -3551,6 +3551,12 @@ G社拍的张凌赫章昊李宛妲（热度：365348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%87%AA%E6%9B%9D%E6%B2%A1%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%23" target="weibo">
 安静公主自曝没谈过恋爱（热度：329812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%23" target="weibo">
+表妹万福（热度：329550）
 </a>
 </li>
 
@@ -4725,6 +4731,12 @@ river编曲（热度：257754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E4%B8%AA%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81%23" target="weibo">
+20多个台湾艺人被民进党当局威胁（热度：245425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%A1%E4%BA%BA%20%E4%B9%90%E5%8D%8E%23" target="weibo">
 王怡人 乐华（热度：245335）
 </a>
@@ -4877,12 +4889,6 @@ A股港股彻底爆发（热度：239839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%97%B6%E9%9A%9412%E5%B9%B4%E6%B0%94%E8%B4%A8%E5%8F%98%E5%8C%96%23" target="weibo">
 沈梦辰时隔12年气质变化（热度：239333）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E4%B8%AA%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%B0%91%E8%BF%9B%E5%85%9A%E5%BD%93%E5%B1%80%E5%A8%81%E8%83%81%23" target="weibo">
-20多个台湾艺人被民进党当局威胁（热度：238981）
 </a>
 </li>
 
@@ -7425,6 +7431,12 @@ JDG伞兵最佳架枪位（热度：181843）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E7%8E%89%20%E8%B7%B3%E6%A5%BC%E6%9C%BA%23" target="weibo">
+珠玉 跳楼机（热度：177825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AF%8D%E4%BA%B2%E6%AE%B4%E6%89%939%E5%B2%81%E5%A5%B3%E5%84%BF%E8%87%B4%E6%AD%BB%23" target="weibo">
 官方通报母亲殴打9岁女儿致死（热度：177793）
 </a>
@@ -7709,12 +7721,6 @@ GAI秀下颌线（热度：174859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E7%83%AD%E5%BA%A6%E7%A0%B427000%23" target="weibo">
 折腰热度破27000（热度：174155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%23" target="weibo">
-表妹万福（热度：174038）
 </a>
 </li>
 
@@ -9099,6 +9105,12 @@ k总发视频回应退网（热度：154397）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E5%8F%88%E5%9C%A8%E6%AD%8C%E6%89%8B%E5%90%8E%E5%8F%B0%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+袁娅维又在歌手后台出现了（热度：152887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98NIP%23" target="weibo">
 iG对战NIP（热度：152842）
 </a>
@@ -9947,6 +9959,12 @@ smtown直播（热度：140624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A3%8A%E9%B9%85%23" target="weibo">
 磊鹅（热度：140444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%20%E9%99%88%E9%91%AB%E6%B5%B7%23" target="weibo">
+表妹万福 陈鑫海（热度：140435）
 </a>
 </li>
 
@@ -12033,6 +12051,12 @@ AG发长文（热度：113846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%A7%B0%E6%88%91%E8%A6%81%E5%AF%B9%E5%BE%97%E8%B5%B7%E8%BF%99%E4%B8%AA%E8%A7%92%E8%89%B2%23" target="weibo">
+周深称我要对得起这个角色（热度：113711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E7%BD%97%E9%A9%AC%E7%AB%998%E5%BC%BA%23" target="weibo">
 郑钦文发文回应罗马站8强（热度：113562）
 </a>
@@ -13209,6 +13233,12 @@ AG拿下冠军后又拿下了飞猪（热度：95465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%B8%AA7%E5%B9%B4%E6%89%BE%E5%88%B0%E6%97%B6%E6%AD%A3%E8%BA%BA%E6%A1%A5%E6%B4%9E%E7%8E%A9%E6%89%8B%E6%9C%BA%23" target="weibo">
+男子失踪7年找到时正躺桥洞玩手机（热度：86483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23RIIZE%E5%85%AC%E5%BC%80%E4%B8%BB%E6%89%93MV%23" target="weibo">
 RIIZE公开主打MV（热度：86467）
 </a>
@@ -13737,6 +13767,12 @@ AI是让大学生降智还是变聪明（热度：73294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%B8%BA%E5%B9%B2%E5%87%80%E7%BA%AF%E7%B2%B9%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+成为干净纯粹的自己（热度：72640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E7%95%99%E7%BB%99%E5%A6%88%E5%A6%88%23" target="weibo">
 王心凌今天一定要留给妈妈（热度：72547）
 </a>
@@ -13995,6 +14031,12 @@ DRG的故事才刚刚开始（热度：69169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E9%AB%98%E4%BB%B7%E9%87%87%E8%B4%AD%E9%98%B5%E9%A3%8E%E6%88%98%E6%9C%BA%E5%8F%97%E8%B4%A8%E7%96%91%23" target="weibo">
+印尼高价采购阵风战机受质疑（热度：66929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%B5%B7%E5%86%9B%E5%B1%95%E7%A4%BA%E5%8D%B0%E5%BA%A6%E8%88%AA%E6%AF%8D%E8%A1%8C%E8%B8%AA%E5%9B%BE%23" target="weibo">
 巴海军展示印度航母行踪图（热度：66833）
 </a>
@@ -14165,6 +14207,12 @@ DRG的故事才刚刚开始（热度：69169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%A0%BC%E8%A7%84%E8%8C%83%E8%AF%81%E5%88%B8%E6%89%A7%E8%A1%8C%E5%B7%A5%E4%BD%9C%23" target="weibo">
 严格规范证券执行工作（热度：61108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E6%A8%A1%E6%88%9B%E7%BA%B3%E9%80%A0%E5%9E%8B%E7%8E%B0%E9%80%86%E5%A4%A9%E9%95%BF%E8%85%BF%23" target="weibo">
+超模戛纳造型现逆天长腿（热度：60983）
 </a>
 </li>
 
@@ -14385,6 +14433,12 @@ DRG的故事才刚刚开始（热度：69169）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%AF%8F%E4%B8%80%E5%9C%BA%E9%83%BD%E8%A6%81%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%23" target="weibo">
+王楚钦说每一场都要全力以赴（热度：56775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%B8%AA19%E5%B9%B4%E8%A2%AB%E5%AE%A3%E5%91%8A%E6%AD%BB%E4%BA%A1%E5%90%8E%E5%8F%88%E5%A4%8D%E6%B4%BB%23" target="weibo">
 男子失踪19年被宣告死亡后又复活（热度：56707）
 </a>
@@ -14549,6 +14603,12 @@ DRG的故事才刚刚开始（热度：69169）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%9B%A8%E5%A4%A9%E8%A2%AB%E8%BD%A6%E6%BA%85%E6%B0%B4%E6%8A%A5%E8%AD%A6%E8%8E%B7%E8%B5%9450%E5%85%83%23" target="weibo">
 女生雨天被车溅水报警获赔50元（热度：53738）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%B1%80%E5%9C%B0%E9%81%AD%E9%81%87%E7%89%B9%E6%97%B1%E5%A4%A9%E6%B0%94%23" target="weibo">
+陕西局地遭遇特旱天气（热度：53720）
 </a>
 </li>
 
@@ -16283,12 +16343,6 @@ PEL老板局（热度：31803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E9%87%8C%E7%9A%84%E8%BF%9B%E5%8F%A3%E5%A5%B6%E7%B2%89%E9%99%B7%E9%98%B1%23" target="weibo">
 直播间里的进口奶粉陷阱（热度：25062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%B1%80%E5%9C%B0%E9%81%AD%E9%81%87%E7%89%B9%E6%97%B1%E5%A4%A9%E6%B0%94%23" target="weibo">
-陕西局地遭遇特旱天气（热度：25051）
 </a>
 </li>
 
