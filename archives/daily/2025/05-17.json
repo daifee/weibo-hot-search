@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747452472306,
+  "endTime": 1747453910749,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -27,7 +27,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1484576,
+      "raw_hot": 1722292,
+      "num": 318333,
+      "word": "俞灏明前任",
+      "onboard_time": 1747450112,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1689497,
       "num": 1340193,
       "word": "高校回应生理期请病假要脱裤证明",
       "onboard_time": 1747448971,
@@ -43,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1422621,
-      "num": 287039,
-      "word": "俞灏明前任",
-      "onboard_time": 1747450112,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 905342,
       "num": 490491,
       "word": "单依纯太牛了",
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 766581,
-      "num": 279176,
+      "num": 316056,
       "word": "撕拉片笑话",
       "onboard_time": 1747444832,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694108,
+      "num": 1111057,
+      "word": "风月不相关开机",
+      "onboard_time": 1747450951,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661659,
       "num": 399491,
       "word": "难听",
@@ -83,8 +91,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 644662,
+      "num": 644662,
+      "word": "官方通报潮汕豪宅英之园将强拆",
+      "onboard_time": 1747441340,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 596592,
-      "num": 274137,
+      "num": 311904,
       "word": "黄杨钿甜旧照曝光",
       "onboard_time": 1747444592,
       "rank": 11,
@@ -123,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449270,
-      "num": 317375,
-      "word": "风月不相关开机",
-      "onboard_time": 1747450951,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 463728,
+      "num": 463728,
+      "word": "汪顺孙杨潘展乐将同场对决",
+      "onboard_time": 1747450590,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 432127,
@@ -147,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392222,
-      "num": 392222,
-      "word": "官方通报潮汕豪宅英之园将强拆",
-      "onboard_time": 1747441340,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 387217,
       "num": 387217,
       "word": "创业失败负债百万女子靠扛楼还债",
@@ -164,11 +172,19 @@
     },
     {
       "raw_hot": 379109,
-      "num": 266354,
+      "num": 303440,
       "word": "给导师误发了二十多分钟的表情包",
       "onboard_time": 1747443992,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367857,
+      "num": 367857,
+      "word": "恋与深空主线新篇章",
+      "onboard_time": 1747451791,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 355617,
@@ -259,12 +275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292109,
-      "num": 292109,
-      "word": "汪顺孙杨潘展乐将同场对决",
-      "onboard_time": 1747450590,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 293290,
+      "num": 293290,
+      "word": "赵磊婚礼r1seX玖团舞",
+      "onboard_time": 1747452752,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 289844,
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245307,
-      "num": 245307,
-      "word": "恋与深空主线新篇章",
-      "onboard_time": 1747451791,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244699,
       "num": 244699,
       "word": "藏海传OST阵容",
       "onboard_time": 1747440201,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244249,
+      "num": 262727,
+      "word": "纤维粒晒夏思齐聊天记录",
+      "onboard_time": 1747441160,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 232355,
@@ -379,12 +395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226521,
+      "num": 244098,
+      "word": "风月不相关女主",
+      "onboard_time": 1747453111,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222783,
+      "num": 222783,
+      "word": "印度主持人说全世界媒体都在造谣",
+      "onboard_time": 1747451910,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "成毅35岁生日照",
       "onboard_time": 1747445132,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 217437,
+      "num": 217437,
+      "word": "孙杨预赛pk力压潘展乐",
+      "onboard_time": 1747452631,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 210294,
@@ -395,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209247,
+      "num": 209247,
+      "word": "美计划将100万巴勒斯坦人迁往利比亚",
+      "onboard_time": 1747453111,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208632,
       "num": 208632,
       "word": "爷爷全职带三胞胎一天喂36顿饭",
@@ -403,20 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208601,
+      "num": 208601,
+      "word": "喻言嘴瓢叫老公",
+      "onboard_time": 1747452990,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207594,
+      "num": 243104,
+      "word": "商朝就有恋爱脑的帝王了",
+      "onboard_time": 1747453231,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206622,
       "num": 221346,
       "word": "河南一医院被曝疑用手铐控制一女子",
       "onboard_time": 1747406786,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205212,
-      "num": 262727,
-      "word": "纤维粒晒夏思齐聊天记录",
-      "onboard_time": 1747441160,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 201101,
@@ -491,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183294,
+      "num": 183294,
+      "word": "马吟吟选人",
+      "onboard_time": 1747448431,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181980,
       "num": 181980,
       "word": "R1SE成员祝福赵磊VCR",
@@ -505,6 +569,14 @@
       "onboard_time": 1747452210,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177675,
+      "num": 177675,
+      "word": "沈梦辰妆造必有高人指点",
+      "onboard_time": 1747453771,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 176300,
@@ -524,7 +596,7 @@
     },
     {
       "raw_hot": 171921,
-      "num": 183559,
+      "num": 243628,
       "word": "印尼花81亿买阵风战机被质疑",
       "onboard_time": 1747444471,
       "rank": 34,
@@ -547,6 +619,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 162646,
+      "num": 162646,
+      "word": "邓为风月不相关开机现场照",
+      "onboard_time": 1747453771,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161432,
       "num": 181738,
       "word": "陈楚生 李白",
@@ -561,14 +641,6 @@
       "onboard_time": 1747414039,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161121,
-      "num": 161121,
-      "word": "马吟吟选人",
-      "onboard_time": 1747448431,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 156903,
@@ -611,12 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153779,
+      "num": 153779,
+      "word": "杭州西湖都是五月天了",
+      "onboard_time": 1747453231,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 152730,
-      "num": 152730,
+      "num": 244157,
       "word": "俞灏明王晓晨因合作惩戒者结缘",
       "onboard_time": 1747447831,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "唐嫣高圆圆戛纳G社生图",
+      "onboard_time": 1747452150,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 149775,
@@ -643,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146931,
+      "num": 243527,
+      "word": "每天一杯咖啡会影响健康吗",
+      "onboard_time": 1747451611,
+      "rank": 36,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 143321,
       "num": 181468,
       "word": "汪苏泷为歌手2025加油",
@@ -659,16 +755,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141232,
-      "num": 141232,
-      "word": "唐嫣高圆圆戛纳G社生图",
-      "onboard_time": 1747452150,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 140259,
-      "num": 140259,
+      "num": 243891,
       "word": "3月中国减持189亿美元美债",
       "onboard_time": 1747447172,
       "rank": 39,
@@ -689,14 +777,6 @@
       "onboard_time": 1747448071,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139300,
-      "num": 139300,
-      "word": "印度主持人说全世界媒体都在造谣",
-      "onboard_time": 1747451910,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139168,
@@ -729,14 +809,6 @@
       "onboard_time": 1747447890,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130890,
-      "num": 130890,
-      "word": "每天一杯咖啡会影响健康吗",
-      "onboard_time": 1747451611,
-      "rank": 36,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 129795,
@@ -947,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98574,
+      "num": 194326,
+      "word": "去了趟意大利以为回湖南农村了",
+      "onboard_time": 1747453469,
+      "rank": 39,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 97854,
       "num": 97854,
       "word": "马嘉祺回应揭榜",
@@ -969,6 +1049,14 @@
       "onboard_time": 1747415598,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89206,
+      "num": 320341,
+      "word": "男子为卖货布局巨大商业贿赂网",
+      "onboard_time": 1747451910,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85274,
@@ -1019,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73938,
+      "num": 310601,
+      "word": "章昊Gucci秀场造型",
+      "onboard_time": 1747452870,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 72640,
       "num": 180927,
       "word": "成为干净纯粹的自己",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1747437737,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67565,
+      "num": 307058,
+      "word": "女子和已婚男恋爱赠与2万要不回",
+      "onboard_time": 1747452691,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67002,
@@ -1089,6 +1193,14 @@
       "onboard_time": 1747410204,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54594,
+      "num": 520913,
+      "word": "残疾人事业是春天的事业",
+      "onboard_time": 1747451311,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53720,
@@ -1155,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30340,
-      "num": 520913,
-      "word": "残疾人事业是春天的事业",
-      "onboard_time": 1747451311,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
@@ -1195,6 +1299,22 @@
       "category": "议题讨论,民生新闻"
     },
     {
+      "raw_hot": 23603,
+      "num": 533893,
+      "word": "国家网络身份认证APP来了",
+      "onboard_time": 1747453651,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23316,
+      "num": 229796,
+      "word": "武汉一中学要家长开指定帐户缴餐费",
+      "onboard_time": 1747453831,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19741,
       "num": 31276,
       "word": "纳指结束六连涨",
@@ -1217,11 +1337,30 @@
       "onboard_time": 1747427715,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10033,
+      "num": 293300,
+      "word": "凯尔特人下赛季会重组吗",
+      "onboard_time": 1747453469,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7279,
+      "num": 293337,
+      "word": "天宫尼尔菌在哪些领域有应用潜力",
+      "onboard_time": 1747453591,
+      "rank": 18,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#从自强模范身上汲取精神力量#"
+    },
+    {
+      "word": "#残疾人是推进中国式现代化的重要力量#"
     }
   ]
 }
