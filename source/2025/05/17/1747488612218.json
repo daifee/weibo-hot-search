@@ -1,0 +1,410 @@
+{
+  "runTime": 1747488612218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1484534,
+        "num": 1484534,
+        "word": "折腰男二",
+        "onboard_time": 1747482200,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 908071,
+        "num": 908071,
+        "word": "潘展乐战胜孙杨夺冠",
+        "onboard_time": 1747484904,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20424,
+        "num": 874694,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1747472240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 873129,
+        "num": 873129,
+        "word": "潘展乐400米自冠军",
+        "onboard_time": 1747482502,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788633,
+        "num": 788633,
+        "word": "孙杨赛后久久不忍离去",
+        "onboard_time": 1747487423,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1155807,
+        "num": 787664,
+        "word": "黄杨钿甜耳环事件当以事实定真伪",
+        "onboard_time": 1747482141,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 979038,
+        "num": 787548,
+        "word": "王源抢到自己的票了",
+        "onboard_time": 1747486163,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 775227,
+        "num": 775227,
+        "word": "新华社发赵丽颖",
+        "onboard_time": 1747485803,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691277,
+        "num": 691277,
+        "word": "字节多地开始禁止打包餐食回家",
+        "onboard_time": 1747483343,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 653873,
+        "num": 653873,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 68248,
+        "num": 605629,
+        "word": "出走的决心原型亮相戛纳",
+        "onboard_time": 1747485563,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 740488,
+        "num": 604193,
+        "word": "李溪芮 内娱腿精",
+        "onboard_time": 1747482502,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69929,
+        "num": 601729,
+        "word": "唐嫣国际范儿",
+        "onboard_time": 1747487363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601446,
+        "num": 601446,
+        "word": "哪吒之魔童闹海票房破154亿",
+        "onboard_time": 1747484904,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490228,
+        "num": 490228,
+        "word": "lululemon 李宇春",
+        "onboard_time": 1747486524,
+        "rank": 14,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 463426,
+        "num": 463426,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313236,
+        "num": 313236,
+        "word": "美国公布第六代战机更多细节",
+        "onboard_time": 1747477403,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20729,
+        "num": 312232,
+        "word": "凿墙越狱的难度有多大",
+        "onboard_time": 1747487544,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117859,
+        "num": 310155,
+        "word": "广西一咖啡店12岁以下儿童禁入",
+        "onboard_time": 1747487003,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191214,
+        "num": 309747,
+        "word": "孙杨祝贺潘展乐夺冠",
+        "onboard_time": 1747487724,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385214,
+        "num": 307989,
+        "word": "金子涵退圈后近照状态",
+        "onboard_time": 1747481662,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366113,
+        "num": 306081,
+        "word": "折腰倍杀",
+        "onboard_time": 1747482924,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249768,
+        "num": 304037,
+        "word": "赵磊婚礼出图",
+        "onboard_time": 1747487423,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33459,
+        "num": 303466,
+        "word": "美的终结家电服务乱象",
+        "onboard_time": 1747487363,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151298,
+        "num": 302157,
+        "word": "张豆豆说永远是孙杨最忠实的泳迷",
+        "onboard_time": 1747487544,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32014,
+        "num": 299729,
+        "word": "当事老师回应殴打威胁10岁男孩",
+        "onboard_time": 1747488383,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363201,
+        "num": 298245,
+        "word": "藏海传",
+        "onboard_time": 1747485623,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45670,
+        "num": 296137,
+        "word": "志胜再现打工人语言艺术",
+        "onboard_time": 1747485502,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296093,
+        "num": 296093,
+        "word": "BLG对战JDG",
+        "onboard_time": 1747485502,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38007,
+        "num": 291710,
+        "word": "法国男孩8元买到军用手榴弹被炸伤",
+        "onboard_time": 1747488203,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288781,
+        "num": 288781,
+        "word": "王皓说樊振东8年世锦赛单打才登顶",
+        "onboard_time": 1747488563,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30801,
+        "num": 277832,
+        "word": "大家缺什么美的就造什么",
+        "onboard_time": 1747486403,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20555,
+        "num": 269684,
+        "word": "网友喊话美的总裁送毛豆厨房空调",
+        "onboard_time": 1747486403,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130779,
+        "num": 268219,
+        "word": "美的脱口秀",
+        "onboard_time": 1747482743,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267604,
+        "num": 267604,
+        "word": "大学教授犯罪拒不承认被实锤后痛哭",
+        "onboard_time": 1747486232,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247477,
+        "num": 247477,
+        "word": "折腰热度",
+        "onboard_time": 1747487124,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227451,
+        "num": 227451,
+        "word": "特厨隋卞账号敦促隋先生停止侵权",
+        "onboard_time": 1747486643,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211179,
+        "num": 211179,
+        "word": "霉霉S女王绝交",
+        "onboard_time": 1747487003,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45754,
+        "num": 208614,
+        "word": "中国九天无人机即将振翅",
+        "onboard_time": 1747488563,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207186,
+        "num": 207186,
+        "word": "郝蕾问刘奕畅和李沐宸什么关系",
+        "onboard_time": 1747488083,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198381,
+        "num": 198381,
+        "word": "周也戛纳出图",
+        "onboard_time": 1747487843,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186412,
+        "num": 186412,
+        "word": "黄子弘凡姚晓棠一起跳起来",
+        "onboard_time": 1747488263,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186217,
+        "num": 186217,
+        "word": "女子住酒店奢侈品进水索赔2.7万被拒",
+        "onboard_time": 1747486464,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184639,
+        "num": 184639,
+        "word": "玉米蛋挞",
+        "onboard_time": 1747479920,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183750,
+        "num": 183750,
+        "word": "成都春熙路巨型3D蛇太逼真引争议",
+        "onboard_time": 1747488383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175400,
+        "num": 175400,
+        "word": "吴世勋去看了金钟仁演唱会",
+        "onboard_time": 1747487544,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 170898,
+        "word": "谁家职业选手在直播间搞特调啊",
+        "onboard_time": 1747487183,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170222,
+        "num": 170222,
+        "word": "苏新皓 饼宝",
+        "onboard_time": 1747488444,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159169,
+        "num": 159169,
+        "word": "车银优跑完11公里马拉松后的面部状况",
+        "onboard_time": 1747485623,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154077,
+        "num": 154077,
+        "word": "CBA",
+        "onboard_time": 1747485924,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
