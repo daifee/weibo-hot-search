@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747474707615,
+  "endTime": 1747477600574,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2053687,
-      "num": 417388,
+      "num": 503279,
       "word": "今年的女装 丑",
       "onboard_time": 1747470322,
       "rank": 32,
@@ -107,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 913455,
-      "num": 1146152,
+      "raw_hot": 956878,
+      "num": 1153100,
       "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
       "onboard_time": 1747472601,
       "rank": 14,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 662921,
+      "num": 662921,
+      "word": "断眉这次真的真的来中国了",
+      "onboard_time": 1747471881,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 661659,
       "num": 399491,
       "word": "难听",
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549150,
+      "num": 319288,
+      "word": "特朗普想访问中国",
+      "onboard_time": 1747471941,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 526262,
       "num": 421561,
       "word": "风月不相关女主",
@@ -323,12 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448854,
-      "num": 319288,
-      "word": "特朗普想访问中国",
-      "onboard_time": 1747471941,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 460781,
+      "num": 258227,
+      "word": "野狗骨头 伪骨科",
+      "onboard_time": 1747475480,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 440380,
+      "num": 440380,
+      "word": "孙颖莎11比5梅提妮娜",
+      "onboard_time": 1747476381,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 432127,
@@ -393,14 +417,6 @@
       "onboard_time": 1747466421,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386770,
-      "num": 386770,
-      "word": "断眉这次真的真的来中国了",
-      "onboard_time": 1747471881,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 379109,
@@ -481,6 +497,14 @@
       "onboard_time": 1747407265,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345498,
+      "num": 345498,
+      "word": "魏劭热度破亿",
+      "onboard_time": 1747476261,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 339292,
@@ -691,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238849,
+      "num": 238849,
+      "word": "陈昊宇 奈雪",
+      "onboard_time": 1747476321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232355,
       "num": 629462,
       "word": "流失美国79年的2卷帛书要回家了",
@@ -851,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206098,
+      "num": 245449,
+      "word": "孙颖莎光速晋级世乒赛女单次轮",
+      "onboard_time": 1747476681,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203744,
       "num": 203744,
       "word": "发现减肥真的是良性循环",
@@ -865,6 +905,14 @@
       "onboard_time": 1747455870,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "一天两份工作月入1万",
+      "onboard_time": 1747472962,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 202417,
@@ -907,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "田曦薇紫色挂脖长裙",
+      "onboard_time": 1747476441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 196533,
       "num": 182401,
       "word": "珠玉 跳楼机",
@@ -937,14 +993,6 @@
       "onboard_time": 1747412123,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194804,
-      "num": 194804,
-      "word": "一天两份工作月入1万",
-      "onboard_time": 1747472962,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 193526,
@@ -984,6 +1032,14 @@
       "word": "北京地铁不必左行右立可并排站立",
       "onboard_time": 1747442971,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191422,
+      "num": 191422,
+      "word": "男子跨省杀妻及妻弟媳二审改判死缓",
+      "onboard_time": 1747476441,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1081,6 +1137,14 @@
       "onboard_time": 1747473981,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178223,
+      "num": 178223,
+      "word": "被落石砸中身亡男子为医务工作者",
+      "onboard_time": 1747474941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177425,
@@ -1547,6 +1611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139802,
+      "num": 174929,
+      "word": "周杰伦回顾10年前婚礼现场",
+      "onboard_time": 1747476981,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139627,
       "num": 182725,
       "word": "印尼高价采购阵风战机受质疑",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1747440201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "张继科谈王曼昱签位",
+      "onboard_time": 1747476441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137645,
@@ -1723,6 +1803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125213,
+      "num": 147074,
+      "word": "美国公布第六代战机更多细节",
+      "onboard_time": 1747477403,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124926,
       "num": 219449,
       "word": "山姆绿豆糕",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1747461031,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122763,
+      "num": 147208,
+      "word": "孙颖莎回应世乒赛签表",
+      "onboard_time": 1747477520,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 122655,
@@ -1793,6 +1889,14 @@
       "onboard_time": 1747437797,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 119552,
+      "num": 119552,
+      "word": "梁靖崑vs鲜于成",
+      "onboard_time": 1747477520,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 119508,
@@ -1947,6 +2051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110211,
+      "num": 127309,
+      "word": "周深演唱会",
+      "onboard_time": 1747475542,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110060,
       "num": 110060,
       "word": "一个人进步最快的方法",
@@ -1971,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "mlxg抗韩",
+      "onboard_time": 1747474941,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107592,
       "num": 107592,
       "word": "探访违建豪宅英之园",
@@ -1993,6 +2113,14 @@
       "onboard_time": 1747454790,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "曝小学老师殴打孩子还威胁3楼扔下",
+      "onboard_time": 1747477161,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105732,
@@ -2033,6 +2161,14 @@
       "onboard_time": 1747394841,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99197,
+      "num": 99197,
+      "word": "初级会计",
+      "onboard_time": 1747475241,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98574,
@@ -2105,6 +2241,14 @@
       "onboard_time": 1747469421,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90627,
+      "num": 167104,
+      "word": "地下代孕市场为何屡禁不止",
+      "onboard_time": 1747476562,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 89206,
@@ -2289,6 +2433,14 @@
       "onboard_time": 1747412541,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61106,
+      "num": 210533,
+      "word": "初级会计考试难点有哪些",
+      "onboard_time": 1747476981,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 60379,
@@ -2491,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35958,
+      "num": 153364,
+      "word": "澳部长称澳拒绝对华施压",
+      "onboard_time": 1747477461,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35348,
       "num": 126591,
       "word": "无效健身的五大误区",
@@ -2596,7 +2756,7 @@
     },
     {
       "raw_hot": 27234,
-      "num": 428314,
+      "num": 534960,
       "word": "点亮网络文明之光",
       "onboard_time": 1747472240,
       "rank": 2,
@@ -2689,6 +2849,14 @@
       "onboard_time": 1747465341,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 19554,
+      "num": 124859,
+      "word": "骑行常用手势",
+      "onboard_time": 1747476500,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 18882,

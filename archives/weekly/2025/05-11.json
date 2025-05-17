@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747474707615,
+  "endTime": 1747477600574,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 2053687,
-      "num": 417388,
+      "num": 503279,
       "word": "今年的女装 丑",
       "onboard_time": 1747470322,
       "rank": 32,
@@ -1371,6 +1371,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 956878,
+      "num": 1153100,
+      "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
+      "onboard_time": 1747472601,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 955455,
       "num": 542773,
       "word": "张伦硕否认与钟丽缇一见钟情",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1746975562,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 913455,
-      "num": 1146152,
-      "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
-      "onboard_time": 1747472601,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 911544,
@@ -2219,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 662921,
+      "num": 662921,
+      "word": "断眉这次真的真的来中国了",
+      "onboard_time": 1747471881,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 658289,
       "num": 658289,
       "word": "男子14.8万卖金条后银行卡被冻结",
@@ -2971,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549150,
+      "num": 319288,
+      "word": "特朗普想访问中国",
+      "onboard_time": 1747471941,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 546802,
       "num": 463538,
       "word": "BENI不会淘汰吧",
@@ -3659,6 +3675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 460781,
+      "num": 258227,
+      "word": "野狗骨头 伪骨科",
+      "onboard_time": 1747475480,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458652,
       "num": 402764,
       "word": "任权薛小婉结婚",
@@ -3779,14 +3803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448854,
-      "num": 319288,
-      "word": "特朗普想访问中国",
-      "onboard_time": 1747471941,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 447036,
       "num": 305078,
       "word": "小S二女儿晒照说你永远在我身边",
@@ -3849,6 +3865,14 @@
       "onboard_time": 1746920538,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 440380,
+      "num": 440380,
+      "word": "孙颖莎11比5梅提妮娜",
+      "onboard_time": 1747476381,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 440031,
@@ -4419,14 +4443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386770,
-      "num": 386770,
-      "word": "断眉这次真的真的来中国了",
-      "onboard_time": 1747471881,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 384577,
       "num": 384577,
       "word": "华为官宣鸿蒙电脑非凡大师版",
@@ -4905,6 +4921,14 @@
       "onboard_time": 1747044381,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345498,
+      "num": 345498,
+      "word": "魏劭热度破亿",
+      "onboard_time": 1747476261,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 344889,
@@ -7051,6 +7075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238849,
+      "num": 238849,
+      "word": "陈昊宇 奈雪",
+      "onboard_time": 1747476321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238621,
       "num": 238621,
       "word": "马吟吟浪姐调剂票还没高考分高",
@@ -8451,6 +8483,14 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 206098,
+      "num": 245449,
+      "word": "孙颖莎光速晋级世乒赛女单次轮",
+      "onboard_time": 1747476681,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206074,
       "num": 183389,
       "word": "原来折腰里的刘琰是伯邑考",
@@ -8657,6 +8697,14 @@
       "onboard_time": 1747059084,
       "rank": 32,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "一天两份工作月入1万",
+      "onboard_time": 1747472962,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 202810,
@@ -8905,6 +8953,14 @@
       "onboard_time": 1747197504,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "田曦薇紫色挂脖长裙",
+      "onboard_time": 1747476441,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199825,
@@ -9291,14 +9347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 194804,
-      "num": 194804,
-      "word": "一天两份工作月入1万",
-      "onboard_time": 1747472962,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194783,
       "num": 194783,
       "word": "森林狼4比1淘汰勇士",
@@ -9665,6 +9713,14 @@
       "onboard_time": 1747111044,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191422,
+      "num": 191422,
+      "word": "男子跨省杀妻及妻弟媳二审改判死缓",
+      "onboard_time": 1747476441,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191311,
@@ -10761,6 +10817,14 @@
       "onboard_time": 1747200444,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178223,
+      "num": 178223,
+      "word": "被落石砸中身亡男子为医务工作者",
+      "onboard_time": 1747474941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178067,
@@ -14643,6 +14707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139802,
+      "num": 174929,
+      "word": "周杰伦回顾10年前婚礼现场",
+      "onboard_time": 1747476981,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139759,
       "num": 139759,
       "word": "蒜鸟蒜鸟",
@@ -14793,6 +14865,14 @@
       "onboard_time": 1746952641,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139076,
+      "num": 139076,
+      "word": "张继科谈王曼昱签位",
+      "onboard_time": 1747476441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 139060,
@@ -16331,6 +16411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125213,
+      "num": 147074,
+      "word": "美国公布第六代战机更多细节",
+      "onboard_time": 1747477403,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125103,
       "num": 125103,
       "word": "杨超越真是小嘴抹了鹤顶红",
@@ -16577,6 +16665,14 @@
       "onboard_time": 1747068438,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 122763,
+      "num": 147208,
+      "word": "孙颖莎回应世乒赛签表",
+      "onboard_time": 1747477520,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 122759,
@@ -16929,6 +17025,14 @@
       "onboard_time": 1747134201,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119552,
+      "num": 119552,
+      "word": "梁靖崑vs鲜于成",
+      "onboard_time": 1747477520,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 119508,
@@ -17939,6 +18043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110211,
+      "num": 127309,
+      "word": "周深演唱会",
+      "onboard_time": 1747475542,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110201,
       "num": 144119,
       "word": "无效健身十大表现",
@@ -18067,6 +18179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107667,
+      "num": 107667,
+      "word": "mlxg抗韩",
+      "onboard_time": 1747474941,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107592,
       "num": 107592,
       "word": "探访违建豪宅英之园",
@@ -18185,6 +18305,14 @@
       "onboard_time": 1747150041,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105836,
+      "num": 105836,
+      "word": "曝小学老师殴打孩子还威胁3楼扔下",
+      "onboard_time": 1747477161,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105789,
@@ -18665,6 +18793,14 @@
       "onboard_time": 1747054282,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99197,
+      "num": 99197,
+      "word": "初级会计",
+      "onboard_time": 1747475241,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98720,
@@ -19185,6 +19321,14 @@
       "onboard_time": 1746977902,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90627,
+      "num": 167104,
+      "word": "地下代孕市场为何屡禁不止",
+      "onboard_time": 1747476562,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 90612,
@@ -20801,6 +20945,14 @@
       "onboard_time": 1747318524,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61106,
+      "num": 210533,
+      "word": "初级会计考试难点有哪些",
+      "onboard_time": 1747476981,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 60920,
@@ -22923,6 +23075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35958,
+      "num": 153364,
+      "word": "澳部长称澳拒绝对华施压",
+      "onboard_time": 1747477461,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35688,
       "num": 35688,
       "word": "沉浸式感受国乒多哈训练",
@@ -23708,7 +23868,7 @@
     },
     {
       "raw_hot": 27234,
-      "num": 428314,
+      "num": 534960,
       "word": "点亮网络文明之光",
       "onboard_time": 1747472240,
       "rank": 2,
@@ -24617,6 +24777,14 @@
       "onboard_time": 1746988217,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19554,
+      "num": 124859,
+      "word": "骑行常用手势",
+      "onboard_time": 1747476500,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 19404,
