@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747503539587,
+  "endTime": 1747506738276,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -19411,6 +19411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224539,
+      "num": 224539,
+      "word": "美国女子四度抗癌成功却意外被射杀",
+      "onboard_time": 1747501578,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224453,
       "num": 224453,
       "word": "王一博将出现在CCTV多个平台",
@@ -19521,14 +19529,6 @@
       "onboard_time": 1747118004,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223385,
-      "num": 223385,
-      "word": "美国女子四度抗癌成功却意外被射杀",
-      "onboard_time": 1747501578,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 223370,
@@ -59563,6 +59563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 30966,
+      "num": 55843,
+      "word": "我被大麦做局了",
+      "onboard_time": 1747505597,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30962,
       "num": 135219,
       "word": "孙颖莎回应如何在压力下稳定发挥",
@@ -60345,6 +60353,14 @@
       "onboard_time": 1747193542,
       "rank": 41,
       "category": "其它"
+    },
+    {
+      "raw_hot": 27512,
+      "num": 55611,
+      "word": "于适贵阳音乐节舞台",
+      "onboard_time": 1747505835,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 27498,
@@ -61139,6 +61155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24161,
+      "num": 55419,
+      "word": "严浩翔个人直拍发布",
+      "onboard_time": 1747506617,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24147,
       "num": 205483,
       "word": "美大学校园被黑衣人占领",
@@ -61225,6 +61249,14 @@
       "onboard_time": 1747449690,
       "rank": 39,
       "category": "议题讨论,民生新闻"
+    },
+    {
+      "raw_hot": 23919,
+      "num": 55396,
+      "word": "卓沅明天见喽",
+      "onboard_time": 1747506676,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 23915,
