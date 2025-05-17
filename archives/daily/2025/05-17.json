@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747467374687,
+  "endTime": 1747470594746,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2207002,
-      "num": 348741,
+      "num": 350138,
       "word": "黄杨钿甜房间",
       "onboard_time": 1747459651,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1927299,
+      "num": 1927299,
+      "word": "刘晓艳发文",
+      "onboard_time": 1747467740,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1828535,
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 776154,
+      "num": 340662,
+      "word": "赵磊婚礼花了一两百万",
+      "onboard_time": 1747466661,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766581,
       "num": 413262,
       "word": "撕拉片笑话",
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728994,
+      "num": 652023,
+      "word": "周思成 刘晓燕",
+      "onboard_time": 1747463480,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 694108,
       "num": 1111057,
       "word": "风月不相关开机",
@@ -153,14 +177,6 @@
       "onboard_time": 1747401083,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 652023,
-      "num": 652023,
-      "word": "周思成 刘晓燕",
-      "onboard_time": 1747463480,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 647310,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 598068,
-      "num": 305705,
+      "num": 320645,
       "word": "小米高速上被撞报废车主质疑智驾",
       "onboard_time": 1747467022,
       "rank": 12,
@@ -209,6 +225,14 @@
       "onboard_time": 1747407505,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 566877,
+      "num": 566877,
+      "word": "男子向朋友借30万为赖账撕碎借条",
+      "onboard_time": 1747464742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561308,
@@ -283,20 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449286,
-      "num": 324761,
-      "word": "男子向朋友借30万为赖账撕碎借条",
-      "onboard_time": 1747464742,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
       "onboard_time": 1747382182,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422782,
+      "num": 422782,
+      "word": "我欲乘风 虞书欣",
+      "onboard_time": 1747466182,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 415741,
@@ -321,6 +345,14 @@
       "onboard_time": 1747453952,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 402821,
+      "num": 402821,
+      "word": "种地吧爱侬研讨会",
+      "onboard_time": 1747468102,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 401151,
@@ -377,6 +409,14 @@
       "onboard_time": 1747462639,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 352788,
+      "num": 352788,
+      "word": "特朗普访阿联酋获赠一滴石油",
+      "onboard_time": 1747465940,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 351223,
@@ -443,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309465,
+      "num": 309465,
+      "word": "田曦薇海口",
+      "onboard_time": 1747466421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "裸辞和在职找工作的区别",
@@ -483,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286127,
-      "num": 286127,
-      "word": "赵磊婚礼花了一两百万",
-      "onboard_time": 1747466661,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 285930,
+      "num": 285930,
+      "word": "2人传播涉刘国梁不实信息被罚",
+      "onboard_time": 1747467081,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 282593,
@@ -577,14 +625,6 @@
       "onboard_time": 1747406905,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256401,
-      "num": 256401,
-      "word": "我欲乘风 虞书欣",
-      "onboard_time": 1747466182,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 254789,
@@ -771,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203799,
-      "num": 228392,
-      "word": "2人传播涉刘国梁不实信息被罚",
+      "raw_hot": 203744,
+      "num": 203744,
+      "word": "发现减肥真的是良性循环",
       "onboard_time": 1747467081,
-      "rank": 25,
-      "category": "体育"
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 203360,
@@ -827,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200183,
-      "num": 200183,
-      "word": "田曦薇海口",
-      "onboard_time": 1747466421,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196533,
       "num": 182401,
       "word": "珠玉 跳楼机",
@@ -864,6 +896,14 @@
       "word": "表妹万福 陈鑫海",
       "onboard_time": 1747412123,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193526,
+      "num": 193526,
+      "word": "男君侯和女妲己对上眼了",
+      "onboard_time": 1747469962,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -947,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183483,
+      "num": 183483,
+      "word": "格拉夫珠宝",
+      "onboard_time": 1747468580,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183294,
       "num": 183294,
       "word": "马吟吟选人",
@@ -979,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178117,
-      "num": 349314,
-      "word": "特朗普访阿联酋获赠一滴石油",
-      "onboard_time": 1747465940,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 177425,
       "num": 177425,
       "word": "十个勤天",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1747448670,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175992,
+      "num": 164764,
+      "word": "祝绪丹也拍了撕拉片",
+      "onboard_time": 1747469361,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 174072,
@@ -1099,6 +1147,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 164258,
+      "num": 164258,
+      "word": "今年的女装 丑",
+      "onboard_time": 1747470322,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 163655,
       "num": 163655,
       "word": "中国护照免签国家",
@@ -1145,6 +1201,30 @@
       "onboard_time": 1747460011,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159943,
+      "num": 159943,
+      "word": "孟子义听到升咖梗嘴角没压住",
+      "onboard_time": 1747468821,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159279,
+      "num": 159279,
+      "word": "火彩",
+      "onboard_time": 1747469782,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157837,
+      "num": 157837,
+      "word": "成毅空降",
+      "onboard_time": 1747468401,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156903,
@@ -1227,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150490,
+      "num": 150490,
+      "word": "民企400万投资4胜诉仍被拒批",
+      "onboard_time": 1747467982,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 150452,
       "num": 176769,
       "word": "唐嫣高圆圆戛纳G社生图",
       "onboard_time": 1747452150,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150150,
-      "num": 150150,
-      "word": "发现减肥真的是良性循环",
-      "onboard_time": 1747467081,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 149775,
@@ -1483,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128722,
+      "num": 128722,
+      "word": "房琪五公小考居然是团队舞担",
+      "onboard_time": 1747469002,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128549,
       "num": 128549,
       "word": "多哈国乒无奥运会单打冠军参战",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1747437797,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121497,
+      "num": 339545,
+      "word": "上海地铁回应老人拖拽小伙要求让座",
+      "onboard_time": 1747466540,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121127,
@@ -1691,6 +1787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111640,
+      "num": 111640,
+      "word": "孟子义以为汪峰和仁科同龄",
+      "onboard_time": 1747467922,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111447,
       "num": 111447,
       "word": "宣璐折腰演反派恶女",
@@ -1707,12 +1811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109189,
+      "num": 109189,
+      "word": "多哈世乒赛",
+      "onboard_time": 1747468221,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108798,
       "num": 108798,
       "word": "胖东来发布回复说明",
       "onboard_time": 1747452450,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107912,
+      "num": 107912,
+      "word": "张凌赫说演感情戏要爱上对方",
+      "onboard_time": 1747470381,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 107592,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1747458151,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103155,
+      "num": 103155,
+      "word": "景甜正是穿旗袍的好年纪",
+      "onboard_time": 1747470562,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 100921,
@@ -1819,14 +1947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85142,
-      "num": 339545,
-      "word": "上海地铁回应老人拖拽小伙要求让座",
-      "onboard_time": 1747466540,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84816,
       "num": 84816,
       "word": "北京大风",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1747408224,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84388,
+      "num": 189391,
+      "word": "残疾人事业需要大家一起托举",
+      "onboard_time": 1747469541,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82800,
@@ -1947,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64372,
+      "num": 152021,
+      "word": "流失美国79年的2卷帛书启程回国",
+      "onboard_time": 1747470442,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63378,
       "num": 283572,
       "word": "男子未等审批返乡看病重父亲被开除",
@@ -1985,6 +2121,14 @@
       "onboard_time": 1747458089,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58361,
+      "num": 166603,
+      "word": "官方回应男子驾车被山石砸中身亡",
+      "onboard_time": 1747470381,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 57173,
@@ -2097,6 +2241,14 @@
       "onboard_time": 1747458991,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 37790,
+      "num": 286431,
+      "word": "哪些人群容易被高血压盯上",
+      "onboard_time": 1747469782,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37371,
@@ -2235,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24767,
+      "num": 325861,
+      "word": "俄谈判团长引用拿破仑名言",
+      "onboard_time": 1747469421,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23945,
       "num": 126394,
       "word": "如何应对长期工作带来的麻木",
@@ -2257,6 +2417,14 @@
       "onboard_time": 1747463480,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22416,
+      "num": 164806,
+      "word": "女子遭前男友泼汽油事件背后的疑问",
+      "onboard_time": 1747469663,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20906,
@@ -2380,6 +2548,9 @@
     },
     {
       "word": "#残疾人事业需要大家一起托举#"
+    },
+    {
+      "word": "#在新征程上促进残疾人事业全面发展#"
     }
   ]
 }
