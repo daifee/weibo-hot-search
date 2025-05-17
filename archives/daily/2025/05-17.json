@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747446921455,
+  "endTime": 1747448290587,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -51,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707457,
+      "num": 275878,
+      "word": "撕拉片笑话",
+      "onboard_time": 1747444832,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661659,
       "num": 399491,
       "word": "难听",
       "onboard_time": 1747401083,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596592,
+      "num": 274137,
+      "word": "黄杨钿甜旧照曝光",
+      "onboard_time": 1747444592,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 582407,
@@ -83,16 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514152,
-      "num": 274137,
-      "word": "黄杨钿甜旧照曝光",
-      "onboard_time": 1747444592,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486900,
-      "num": 281893,
+      "num": 288421,
       "word": "超绝腰臀比",
       "onboard_time": 1747403246,
       "rank": 12,
@@ -107,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411485,
-      "num": 275878,
-      "word": "撕拉片笑话",
-      "onboard_time": 1747444832,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 387217,
+      "num": 387217,
+      "word": "创业失败负债百万女子靠扛楼还债",
+      "onboard_time": 1747444293,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 355617,
@@ -129,6 +137,14 @@
       "onboard_time": 1747439479,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351223,
+      "num": 266076,
+      "word": "高圆圆戛纳红毯",
+      "onboard_time": 1747445373,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 348801,
@@ -171,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 317628,
+      "num": 317628,
+      "word": "官方通报潮汕豪宅英之园将强拆",
+      "onboard_time": 1747441340,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 312348,
       "num": 185810,
       "word": "黄杨爸爸说耳环不是正品",
@@ -193,14 +217,6 @@
       "onboard_time": 1747441340,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287624,
-      "num": 266076,
-      "word": "高圆圆戛纳红毯",
-      "onboard_time": 1747445373,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 286939,
@@ -227,14 +243,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 276459,
-      "num": 276459,
-      "word": "官方通报潮汕豪宅英之园将强拆",
-      "onboard_time": 1747441340,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -257,14 +265,6 @@
       "onboard_time": 1747407146,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264330,
-      "num": 264330,
-      "word": "创业失败负债百万女子靠扛楼还债",
-      "onboard_time": 1747444293,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 262371,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 210294,
-      "num": 278699,
+      "num": 281515,
       "word": "中国空间站发现微生物新物种",
       "onboard_time": 1747438939,
       "rank": 8,
@@ -347,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205290,
+      "num": 205290,
+      "word": "石原里美二胎出生",
+      "onboard_time": 1747447831,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205212,
+      "num": 262727,
+      "word": "纤维粒晒夏思齐聊天记录",
+      "onboard_time": 1747441160,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 196533,
       "num": 182401,
       "word": "珠玉 跳楼机",
@@ -361,6 +377,22 @@
       "onboard_time": 1747412123,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191766,
+      "num": 277414,
+      "word": "北京地铁不必左行右立可并排站立",
+      "onboard_time": 1747442971,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188006,
+      "num": 188006,
+      "word": "留几手撕拉片",
+      "onboard_time": 1747443151,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 186295,
@@ -395,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178156,
-      "num": 178156,
-      "word": "留几手撕拉片",
-      "onboard_time": 1747443151,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174072,
       "num": 259025,
       "word": "巴西人在瑞幸遇到顶流老乡",
@@ -411,20 +435,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170303,
-      "num": 170303,
-      "word": "北京地铁不必左行右立可并排站立",
-      "onboard_time": 1747442971,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166357,
+      "raw_hot": 167056,
       "num": 166357,
       "word": "白鹿侯明昊 青云台",
       "onboard_time": 1747440979,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166032,
+      "num": 166032,
+      "word": "印尼花81亿买阵风战机被质疑",
+      "onboard_time": 1747444471,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161432,
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158362,
-      "num": 262727,
-      "word": "纤维粒晒夏思齐聊天记录",
-      "onboard_time": 1747441160,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 156903,
       "num": 181834,
       "word": "刘宇宁 顺眼",
@@ -459,12 +475,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156684,
+      "num": 156684,
+      "word": "折腰",
+      "onboard_time": 1747447709,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154997,
+      "num": 154997,
+      "word": "陈梦说绝不可能成为全职妈妈",
+      "onboard_time": 1747442551,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154966,
       "num": 154966,
       "word": "黄子韬徐艺洋跳troublemaker",
       "onboard_time": 1747440500,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152939,
+      "num": 152939,
+      "word": "初级会计考试",
+      "onboard_time": 1747446930,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 152730,
+      "num": 152730,
+      "word": "俞灏明王晓晨因合作惩戒者结缘",
+      "onboard_time": 1747447831,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150675,
+      "num": 150675,
+      "word": "单依纯说很想念叶倩文",
+      "onboard_time": 1747448131,
+      "rank": 37,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 149775,
@@ -483,11 +539,11 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 146940,
-      "num": 146940,
-      "word": "陈梦说绝不可能成为全职妈妈",
-      "onboard_time": 1747442551,
-      "rank": 37,
+      "raw_hot": 147096,
+      "num": 147096,
+      "word": "BENI回应淘汰",
+      "onboard_time": 1747446630,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -507,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140259,
+      "num": 140259,
+      "word": "3月中国减持189亿美元美债",
+      "onboard_time": 1747447172,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139627,
       "num": 182725,
       "word": "印尼高价采购阵风战机受质疑",
       "onboard_time": 1747411163,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139602,
+      "num": 139602,
+      "word": "戈贝尔把怀孕女友赶出家门",
+      "onboard_time": 1747448071,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 139168,
@@ -523,20 +595,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137587,
-      "num": 147112,
-      "word": "印尼花81亿买阵风战机被质疑",
-      "onboard_time": 1747444471,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 137351,
+      "num": 137351,
+      "word": "风林火山首映",
+      "onboard_time": 1747447111,
+      "rank": 41,
+      "category": "电影"
     },
     {
-      "raw_hot": 129069,
-      "num": 129069,
-      "word": "BENI回应淘汰",
-      "onboard_time": 1747446630,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 135807,
+      "num": 135807,
+      "word": "Rookie回应和Doinb交手",
+      "onboard_time": 1747447890,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128549,
+      "num": 128549,
+      "word": "多哈国乒无奥运会单打冠军参战",
+      "onboard_time": 1747447111,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127964,
+      "num": 127964,
+      "word": "湖南双牌发生交通事故2教师身亡",
+      "onboard_time": 1747442852,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126803,
@@ -561,14 +649,6 @@
       "onboard_time": 1747390161,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 123789,
-      "num": 123789,
-      "word": "湖南双牌发生交通事故2教师身亡",
-      "onboard_time": 1747442852,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122202,
@@ -633,6 +713,14 @@
       "onboard_time": 1747407745,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115653,
+      "num": 115653,
+      "word": "有空气炸锅的都给我去做",
+      "onboard_time": 1747448250,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 113711,
@@ -859,20 +947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31463,
+      "num": 1041204,
+      "word": "数读我国南北港口亮眼成就",
+      "onboard_time": 1747402765,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
       "onboard_time": 1747422194,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29081,
-      "num": 1041204,
-      "word": "数读我国南北港口亮眼成就",
-      "onboard_time": 1747402765,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28059,
