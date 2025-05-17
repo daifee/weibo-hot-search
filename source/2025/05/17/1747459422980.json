@@ -1,0 +1,410 @@
+{
+  "runTime": 1747459422980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1415488,
+        "num": 1415488,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 906226,
+        "num": 906226,
+        "word": "长沙别墅非法代孕涉事医生到案",
+        "onboard_time": 1747453952,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43527,
+        "num": 538866,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460452,
+        "num": 460452,
+        "word": "沈梦辰妆造必有高人指点",
+        "onboard_time": 1747453771,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373663,
+        "num": 373663,
+        "word": "风月不相关女主",
+        "onboard_time": 1747453111,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311644,
+        "num": 311644,
+        "word": "美计划将100万巴勒斯坦人迁往利比亚",
+        "onboard_time": 1747453111,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336183,
+        "num": 310647,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270444,
+        "num": 270444,
+        "word": "机构把代孕者美化成志愿者",
+        "onboard_time": 1747455511,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247349,
+        "num": 247349,
+        "word": "官方通报潮汕豪宅英之园将强拆",
+        "onboard_time": 1747441340,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231915,
+        "num": 231915,
+        "word": "陈赫集齐了所有蘑菇屋",
+        "onboard_time": 1747458270,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1026002,
+        "num": 231176,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965114,
+        "num": 228437,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614369,
+        "num": 225014,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352523,
+        "num": 222961,
+        "word": "当女生到了洗头的那天",
+        "onboard_time": 1747453952,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108571,
+        "num": 221495,
+        "word": "特朗普搞阅兵只给士兵1天1顿热餐",
+        "onboard_time": 1747458571,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220323,
+        "num": 220323,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160351,
+        "num": 219538,
+        "word": "创业失败负债百万女子靠扛楼还债",
+        "onboard_time": 1747444293,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 346903,
+        "num": 217995,
+        "word": "赵磊婚礼r1seX玖团舞",
+        "onboard_time": 1747452752,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112802,
+        "num": 216044,
+        "word": "范丞丞包场张婧仪独一无二",
+        "onboard_time": 1747458811,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40962,
+        "num": 213986,
+        "word": "如何做到不去羡慕别人优秀的人生",
+        "onboard_time": 1747458991,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293360,
+        "num": 212185,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269630,
+        "num": 208347,
+        "word": "撕拉片笑话",
+        "onboard_time": 1747444832,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251526,
+        "num": 207044,
+        "word": "孟子义律师声明",
+        "onboard_time": 1747455692,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206214,
+        "num": 206214,
+        "word": "肖战藏海脏脏包",
+        "onboard_time": 1747458811,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182668,
+        "num": 182668,
+        "word": "风月不相关开机",
+        "onboard_time": 1747450951,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153733,
+        "num": 182297,
+        "word": "折腰缘来是喜预告",
+        "onboard_time": 1747457790,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86549,
+        "num": 179225,
+        "word": "朱雀二号改进型遥二运载火箭成功发射",
+        "onboard_time": 1747459111,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206601,
+        "num": 177756,
+        "word": "美国加州50多只鸟空中爆炸",
+        "onboard_time": 1747455991,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58564,
+        "num": 174678,
+        "word": "纽约期金创半年来最差单周表现",
+        "onboard_time": 1747458089,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14610,
+        "num": 172760,
+        "word": "阵风战机像受伤的小鸟",
+        "onboard_time": 1747458391,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215382,
+        "num": 170428,
+        "word": "纤维粒晒夏思齐聊天记录",
+        "onboard_time": 1747441160,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149811,
+        "num": 167490,
+        "word": "二皇子是你吗",
+        "onboard_time": 1747454611,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166131,
+        "num": 166131,
+        "word": "恋与深空撕拉片",
+        "onboard_time": 1747456110,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104614,
+        "num": 163941,
+        "word": "苏醒回应是不是单依纯粉丝",
+        "onboard_time": 1747458151,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28501,
+        "num": 163340,
+        "word": "老将孙杨如何应对潘展乐的冲击",
+        "onboard_time": 1747458089,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162967,
+        "num": 162967,
+        "word": "逆水寒手游",
+        "onboard_time": 1747457911,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152247,
+        "num": 152247,
+        "word": "成毅35岁生日照",
+        "onboard_time": 1747445132,
+        "rank": 36,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 152104,
+        "num": 152104,
+        "word": "种地吧",
+        "onboard_time": 1747459231,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151492,
+        "num": 151492,
+        "word": "孙杨预赛pk力压潘展乐",
+        "onboard_time": 1747452631,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20906,
+        "num": 147448,
+        "word": "上官正义报平安",
+        "onboard_time": 1747458211,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147356,
+        "num": 147356,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145553,
+        "num": 145553,
+        "word": "28岁男子食物中毒离世",
+        "onboard_time": 1747441340,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144450,
+        "num": 144450,
+        "word": "俞灏明早在音乐节秀恩爱",
+        "onboard_time": 1747458811,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144276,
+        "num": 144276,
+        "word": "陈楚生一脸不可思议",
+        "onboard_time": 1747458744,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143652,
+        "num": 143652,
+        "word": "五十公里桃花坞先导片开播",
+        "onboard_time": 1747457790,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143367,
+        "num": 143367,
+        "word": "安卓旗舰集体降价超千元",
+        "onboard_time": 1747458509,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138532,
+        "num": 138532,
+        "word": "李昀锐4000米跑后感",
+        "onboard_time": 1747457425,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134575,
+        "num": 134575,
+        "word": "唐嫣高圆圆戛纳G社生图",
+        "onboard_time": 1747452150,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125556,
+        "num": 131738,
+        "word": "张婧仪说爱是最温柔的语言",
+        "onboard_time": 1747454550,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131418,
+        "num": 131418,
+        "word": "日本英国增持美国国债",
+        "onboard_time": 1747459351,
+        "rank": 49,
+        "category": "财经,国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#残疾人是推进中国式现代化的重要力量#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747457011835,
+  "endTime": 1747459422980,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -51,12 +51,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1410368,
-      "num": 1410368,
+      "raw_hot": 1415488,
+      "num": 1415488,
       "word": "KFC相机",
       "onboard_time": 1747454490,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1026002,
+      "num": 231176,
+      "word": "疑似新娘给新郎让妆",
+      "onboard_time": 1747457730,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 906226,
+      "num": 906226,
+      "word": "长沙别墅非法代孕涉事医生到案",
+      "onboard_time": 1747453952,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905342,
@@ -113,6 +129,14 @@
       "onboard_time": 1747441340,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 614369,
+      "num": 412442,
+      "word": "夏思齐 纤维粒",
+      "onboard_time": 1747456590,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 596592,
@@ -187,27 +211,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 460546,
-      "num": 412442,
-      "word": "夏思齐 纤维粒",
-      "onboard_time": 1747456590,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
       "onboard_time": 1747382182,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422957,
-      "num": 422957,
-      "word": "长沙别墅非法代孕涉事医生到案",
-      "onboard_time": 1747453952,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 270444,
+      "num": 413862,
+      "word": "机构把代孕者美化成志愿者",
+      "onboard_time": 1747455511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267649,
       "num": 183296,
       "word": "BENI淘汰",
@@ -465,6 +481,14 @@
       "onboard_time": 1747409603,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231915,
+      "num": 231915,
+      "word": "陈赫集齐了所有蘑菇屋",
+      "onboard_time": 1747458270,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 228021,
@@ -568,6 +592,14 @@
       "word": "中年人爱情玩得这么野吗",
       "onboard_time": 1747455991,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206214,
+      "num": 206214,
+      "word": "肖战藏海脏脏包",
+      "onboard_time": 1747458811,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -771,6 +803,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 162967,
+      "num": 162967,
+      "word": "逆水寒手游",
+      "onboard_time": 1747457911,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162646,
       "num": 162646,
       "word": "邓为风月不相关开机现场照",
@@ -851,6 +891,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 153733,
+      "num": 182297,
+      "word": "折腰缘来是喜预告",
+      "onboard_time": 1747457790,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152104,
+      "num": 152104,
+      "word": "种地吧",
+      "onboard_time": 1747459231,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150452,
       "num": 176769,
       "word": "唐嫣高圆圆戛纳G社生图",
@@ -875,6 +931,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "孙杨比潘展乐快了1秒多",
+      "onboard_time": 1747459292,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147096,
       "num": 147096,
       "word": "BENI回应淘汰",
@@ -897,6 +961,38 @@
       "onboard_time": 1747456771,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "俞灏明早在音乐节秀恩爱",
+      "onboard_time": 1747458811,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144276,
+      "num": 144276,
+      "word": "陈楚生一脸不可思议",
+      "onboard_time": 1747458744,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143652,
+      "num": 143652,
+      "word": "五十公里桃花坞先导片开播",
+      "onboard_time": 1747457790,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143367,
+      "num": 143367,
+      "word": "安卓旗舰集体降价超千元",
+      "onboard_time": 1747458509,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 143321,
@@ -955,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138532,
+      "num": 138532,
+      "word": "李昀锐4000米跑后感",
+      "onboard_time": 1747457425,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137645,
       "num": 137645,
       "word": "尼克斯淘汰凯尔特人",
@@ -977,6 +1081,14 @@
       "onboard_time": 1747447890,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "日本英国增持美国国债",
+      "onboard_time": 1747459351,
+      "rank": 49,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 129795,
@@ -1139,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112802,
+      "num": 216044,
+      "word": "范丞丞包场张婧仪独一无二",
+      "onboard_time": 1747458811,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110060,
       "num": 110060,
       "word": "一个人进步最快的方法",
@@ -1153,6 +1273,14 @@
       "onboard_time": 1747452450,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108571,
+      "num": 221495,
+      "word": "特朗普搞阅兵只给士兵1天1顿热餐",
+      "onboard_time": 1747458571,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107592,
@@ -1185,6 +1313,14 @@
       "onboard_time": 1747444293,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 163941,
+      "word": "苏醒回应是不是单依纯粉丝",
+      "onboard_time": 1747458151,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 100921,
@@ -1235,12 +1371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88921,
-      "num": 413862,
-      "word": "机构把代孕者美化成志愿者",
-      "onboard_time": 1747455511,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 86549,
+      "num": 179225,
+      "word": "朱雀二号改进型遥二运载火箭成功发射",
+      "onboard_time": 1747459111,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85274,
@@ -1395,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58564,
+      "num": 174678,
+      "word": "纽约期金创半年来最差单周表现",
+      "onboard_time": 1747458089,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57173,
       "num": 71544,
       "word": "汪苏泷南昌演唱会嘉宾李雪琴",
@@ -1483,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40962,
+      "num": 213986,
+      "word": "如何做到不去羡慕别人优秀的人生",
+      "onboard_time": 1747458991,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37371,
       "num": 285493,
       "word": "哪些常见食物不适合放入冰箱保存",
@@ -1531,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28501,
+      "num": 163340,
+      "word": "老将孙杨如何应对潘展乐的冲击",
+      "onboard_time": 1747458089,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28059,
       "num": 38621,
       "word": "好听",
@@ -1563,12 +1723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20906,
+      "num": 147448,
+      "word": "上官正义报平安",
+      "onboard_time": 1747458211,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19741,
       "num": 31276,
       "word": "纳指结束六连涨",
       "onboard_time": 1747435036,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 14610,
+      "num": 172760,
+      "word": "阵风战机像受伤的小鸟",
+      "onboard_time": 1747458391,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12597,
