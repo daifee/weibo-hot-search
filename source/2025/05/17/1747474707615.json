@@ -1,0 +1,410 @@
+{
+  "runTime": 1747474707615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 913455,
+        "num": 1146152,
+        "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
+        "onboard_time": 1747472601,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578166,
+        "num": 578166,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20530,
+        "num": 425741,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1747472240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1946204,
+        "num": 411905,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 386770,
+        "num": 386770,
+        "word": "断眉这次真的真的来中国了",
+        "onboard_time": 1747471881,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1068022,
+        "num": 385745,
+        "word": "刘晓艳发文",
+        "onboard_time": 1747467740,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1028028,
+        "num": 371775,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 345649,
+        "num": 345649,
+        "word": "男子向朋友借30万为赖账撕碎借条",
+        "onboard_time": 1747464742,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327884,
+        "num": 327884,
+        "word": "我欲乘风 虞书欣",
+        "onboard_time": 1747466182,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244880,
+        "num": 325564,
+        "word": "田曦薇海口",
+        "onboard_time": 1747466421,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508097,
+        "num": 323448,
+        "word": "赵磊婚礼花了一两百万",
+        "onboard_time": 1747466661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 907878,
+        "num": 320152,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448854,
+        "num": 319288,
+        "word": "特朗普想访问中国",
+        "onboard_time": 1747471941,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365527,
+        "num": 316828,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314463,
+        "num": 314463,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251351,
+        "num": 251351,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245234,
+        "num": 245234,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194804,
+        "num": 194804,
+        "word": "一天两份工作月入1万",
+        "onboard_time": 1747472962,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171652,
+        "num": 192564,
+        "word": "种地吧爱侬研讨会",
+        "onboard_time": 1747468102,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34031,
+        "num": 192384,
+        "word": "美的脱口秀现场好热啊",
+        "onboard_time": 1747471761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192371,
+        "num": 192371,
+        "word": "格拉夫珠宝",
+        "onboard_time": 1747468580,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191223,
+        "num": 191223,
+        "word": "特朗普访阿联酋获赠一滴石油",
+        "onboard_time": 1747465940,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15406,
+        "num": 190413,
+        "word": "食物中毒典型症状包括哪些",
+        "onboard_time": 1747474280,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180567,
+        "num": 189074,
+        "word": "胡彦斌谈与陶喆林俊杰萧亚轩合作",
+        "onboard_time": 1747473981,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70519,
+        "num": 187542,
+        "word": "周思成再发文谈争论起因",
+        "onboard_time": 1747473621,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 187178,
+        "word": "金靖问张凌赫吻戏那么多什么感觉",
+        "onboard_time": 1747462581,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129567,
+        "num": 184684,
+        "word": "肖战藏海传央八VCR",
+        "onboard_time": 1747473202,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 183969,
+        "word": "成毅空降",
+        "onboard_time": 1747468401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26968,
+        "num": 182198,
+        "word": "多接触大自然能降低炎症水平",
+        "onboard_time": 1747473921,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137642,
+        "num": 181445,
+        "word": "985毕业生在上海工作5年到手6千",
+        "onboard_time": 1747472001,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 180713,
+        "word": "王楚钦希望不输外战",
+        "onboard_time": 1747473741,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169896,
+        "num": 169896,
+        "word": "奶奶去世前五小时解绑了亲密付",
+        "onboard_time": 1747472782,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151847,
+        "num": 151847,
+        "word": "自驾被落石砸中身亡男子母亲发声",
+        "onboard_time": 1747473981,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143517,
+        "num": 143517,
+        "word": "火彩",
+        "onboard_time": 1747469782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44258,
+        "num": 137164,
+        "word": "老祖宗绣出的织锦高级感拉满",
+        "onboard_time": 1747474641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421042,
+        "num": 135792,
+        "word": "周思成 刘晓燕",
+        "onboard_time": 1747463480,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34984,
+        "num": 134173,
+        "word": "如何缓解工作带来的焦虑感",
+        "onboard_time": 1747473380,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133809,
+        "num": 133809,
+        "word": "景甜正是穿旗袍的好年纪",
+        "onboard_time": 1747470562,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119896,
+        "num": 119896,
+        "word": "歼10CE首次实战大放异彩",
+        "onboard_time": 1747472840,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86204,
+        "num": 119872,
+        "word": "湖南卫视背后官宣",
+        "onboard_time": 1747471161,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119849,
+        "num": 119849,
+        "word": "发现减肥真的是良性循环",
+        "onboard_time": 1747467081,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 117460,
+        "num": 117460,
+        "word": "张凌赫说演感情戏要爱上对方",
+        "onboard_time": 1747470381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107596,
+        "num": 107596,
+        "word": "宁艺卓杂志销量",
+        "onboard_time": 1747473561,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 106995,
+        "word": "孟子义听到升咖梗嘴角没压住",
+        "onboard_time": 1747468821,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106032,
+        "num": 106032,
+        "word": "2人传播涉刘国梁不实信息被罚",
+        "onboard_time": 1747467081,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101283,
+        "num": 101283,
+        "word": "种地吧",
+        "onboard_time": 1747459231,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96421,
+        "num": 96421,
+        "word": "折腰为什么能出圈",
+        "onboard_time": 1747474641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96200,
+        "num": 96200,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93831,
+        "num": 93831,
+        "word": "五金店老板和机器猫有什么区别",
+        "onboard_time": 1747474341,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84195,
+        "num": 84195,
+        "word": "祝绪丹也拍了撕拉片",
+        "onboard_time": 1747469361,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
