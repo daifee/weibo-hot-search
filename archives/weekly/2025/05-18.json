@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747499363615,
+  "endTime": 1747500362072,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -11,20 +11,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1049170,
+      "num": 1049170,
+      "word": "王楚钦vs纳雷什",
+      "onboard_time": 1747496902,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 941536,
       "num": 315946,
       "word": "博君一肖 藏海传云包场",
       "onboard_time": 1747495526,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 933604,
-      "num": 933604,
-      "word": "王楚钦vs纳雷什",
-      "onboard_time": 1747496902,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 786116,
@@ -155,12 +155,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186658,
-      "num": 169790,
+      "raw_hot": 188681,
+      "num": 188681,
       "word": "虎鲸母子被困在法国废弃海洋公园",
       "onboard_time": 1747496363,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178031,
+      "num": 178031,
+      "word": "美媒说出关税最残酷真相",
+      "onboard_time": 1747496183,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174576,
+      "num": 174576,
+      "word": "白宇刘宇宁都有气胸",
+      "onboard_time": 1747497502,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 174189,
@@ -185,14 +201,6 @@
       "onboard_time": 1747492167,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160364,
-      "num": 160364,
-      "word": "白宇刘宇宁都有气胸",
-      "onboard_time": 1747497502,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 149037,
@@ -243,6 +251,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 127599,
+      "num": 127599,
+      "word": "王心凌ALin这朋友是真能处",
+      "onboard_time": 1747499061,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125857,
       "num": 125857,
       "word": "周也高定国内首穿",
@@ -259,12 +275,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110880,
+      "num": 110880,
+      "word": "贺峻霖全国1460名的游走原来长这样",
+      "onboard_time": 1747500020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108437,
+      "num": 108437,
+      "word": "汪苏泷太顶了",
+      "onboard_time": 1747499540,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
       "onboard_time": 1747494207,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102751,
+      "num": 102751,
+      "word": "陶喆演唱会没有陌生人",
+      "onboard_time": 1747497202,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 101254,
@@ -281,14 +321,6 @@
       "onboard_time": 1747491867,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100541,
-      "num": 100541,
-      "word": "陶喆演唱会没有陌生人",
-      "onboard_time": 1747497202,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 98209,
@@ -323,22 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88546,
-      "num": 174080,
-      "word": "美媒说出关税最残酷真相",
-      "onboard_time": 1747496183,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 88419,
-      "num": 88419,
-      "word": "王心凌ALin这朋友是真能处",
-      "onboard_time": 1747499061,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88013,
       "num": 88013,
       "word": "陈萍萍年轻时",
@@ -371,8 +387,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77207,
-      "num": 77207,
+      "raw_hot": 79253,
+      "num": 79253,
       "word": "角田严重事故",
       "onboard_time": 1747495825,
       "rank": 47,
@@ -395,7 +411,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23836,
+      "raw_hot": 72389,
+      "num": 72389,
+      "word": "房东的猫哭到唱不下去",
+      "onboard_time": 1747490666,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 61322,
+      "num": 80555,
+      "word": "这个减肥筷我是真的想要",
+      "onboard_time": 1747499362,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26924,
       "num": 855778,
       "word": "6组数据看中国市场强大吸引力",
       "onboard_time": 1747490247,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#在新征程上促进残疾人事业全面发展#"
+    },
+    {
+      "word": "#要让文物说话让历史说话让文化说话#"
     }
   ]
 }

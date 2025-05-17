@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747499363615,
+  "endTime": 1747500362072,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2859,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049170,
+      "num": 1049170,
+      "word": "王楚钦vs纳雷什",
+      "onboard_time": 1747496902,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1047990,
       "num": 372101,
       "word": "百万网红自导自演自杀一度涨粉2万",
@@ -3481,14 +3489,6 @@
       "onboard_time": 1746576684,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 933604,
-      "num": 933604,
-      "word": "王楚钦vs纳雷什",
-      "onboard_time": 1747496902,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 933594,
@@ -25819,6 +25819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188681,
+      "num": 188681,
+      "word": "虎鲸母子被困在法国废弃海洋公园",
+      "onboard_time": 1747496363,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188639,
       "num": 188639,
       "word": "杨鸣太有梗了",
@@ -26369,14 +26377,6 @@
       "onboard_time": 1746677003,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 186658,
-      "num": 169790,
-      "word": "虎鲸母子被困在法国废弃海洋公园",
-      "onboard_time": 1747496363,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186603,
@@ -28107,6 +28107,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 178031,
+      "num": 178031,
+      "word": "美媒说出关税最残酷真相",
+      "onboard_time": 1747496183,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178011,
       "num": 178011,
       "word": "雷军微博设置关注100天才能评论",
@@ -28856,6 +28864,14 @@
       "word": "钟丽丽这段不像演的",
       "onboard_time": 1746285626,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174576,
+      "num": 174576,
+      "word": "白宇刘宇宁都有气胸",
+      "onboard_time": 1747497502,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -32193,14 +32209,6 @@
       "onboard_time": 1746422962,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160364,
-      "num": 160364,
-      "word": "白宇刘宇宁都有气胸",
-      "onboard_time": 1747497502,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 160347,
@@ -41603,6 +41611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127599,
+      "num": 127599,
+      "word": "王心凌ALin这朋友是真能处",
+      "onboard_time": 1747499061,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127571,
       "num": 127571,
       "word": "程潇直拍",
@@ -46099,6 +46115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110880,
+      "num": 110880,
+      "word": "贺峻霖全国1460名的游走原来长这样",
+      "onboard_time": 1747500020,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110786,
       "num": 259761,
       "word": "一诺说让KPL刻上AG的名字",
@@ -46697,6 +46721,14 @@
       "onboard_time": 1746455065,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108437,
+      "num": 108437,
+      "word": "汪苏泷太顶了",
+      "onboard_time": 1747499540,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 108417,
@@ -47875,6 +47907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102751,
+      "num": 102751,
+      "word": "陶喆演唱会没有陌生人",
+      "onboard_time": 1747497202,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102742,
       "num": 219080,
       "word": "李宏毅杨雨潼同框好养眼",
@@ -47913,14 +47953,6 @@
       "onboard_time": 1746664891,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102525,
-      "num": 174080,
-      "word": "美媒说出关税最残酷真相",
-      "onboard_time": 1747496183,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102407,
@@ -48233,14 +48265,6 @@
       "onboard_time": 1746168682,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100541,
-      "num": 100541,
-      "word": "陶喆演唱会没有陌生人",
-      "onboard_time": 1747497202,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 100528,
@@ -50033,14 +50057,6 @@
       "onboard_time": 1747107142,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88419,
-      "num": 88419,
-      "word": "王心凌ALin这朋友是真能处",
-      "onboard_time": 1747499061,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 88374,
@@ -53857,6 +53873,14 @@
       "onboard_time": 1747318524,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61322,
+      "num": 80555,
+      "word": "这个减肥筷我是真的想要",
+      "onboard_time": 1747499362,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 61301,
