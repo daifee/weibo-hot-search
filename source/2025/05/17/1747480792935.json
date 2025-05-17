@@ -1,0 +1,410 @@
+{
+  "runTime": 1747480792935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964554,
+        "num": 1154328,
+        "word": "国乒薛飞首轮遭淘汰",
+        "onboard_time": 1747479082,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762707,
+        "num": 762707,
+        "word": "美国公布第六代战机更多细节",
+        "onboard_time": 1747477403,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26904,
+        "num": 712846,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1747472240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081491,
+        "num": 711048,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 684671,
+        "num": 684671,
+        "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
+        "onboard_time": 1747472601,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 884436,
+        "num": 603542,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 425188,
+        "num": 425188,
+        "word": "断眉这次真的真的来中国了",
+        "onboard_time": 1747471881,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331164,
+        "num": 331164,
+        "word": "魏劭热度破亿",
+        "onboard_time": 1747476261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251020,
+        "num": 251020,
+        "word": "超70名小米SU7Ultra车主主张退一赔三",
+        "onboard_time": 1747479141,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249391,
+        "num": 249391,
+        "word": "薛飞2比4篠塚大登",
+        "onboard_time": 1747478661,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 823511,
+        "num": 249385,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537926,
+        "num": 248597,
+        "word": "野狗骨头 伪骨科",
+        "onboard_time": 1747475480,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183966,
+        "num": 248105,
+        "word": "田曦薇春夏高定",
+        "onboard_time": 1747479562,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177004,
+        "num": 247939,
+        "word": "周深说第一次要进八万人体育场了",
+        "onboard_time": 1747479500,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278485,
+        "num": 247231,
+        "word": "特朗普想访问中国",
+        "onboard_time": 1747471941,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56650,
+        "num": 246969,
+        "word": "美的超薄冰箱刷新行业纪录",
+        "onboard_time": 1747478062,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118257,
+        "num": 246442,
+        "word": "篠塚大登回应战胜薛飞晋级",
+        "onboard_time": 1747480220,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210183,
+        "num": 245997,
+        "word": "王皓称世乒赛要放手去搏",
+        "onboard_time": 1747480220,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19146,
+        "num": 245507,
+        "word": "如何改变女装行业现状",
+        "onboard_time": 1747479681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82392,
+        "num": 245009,
+        "word": "梁靖崑vs鲜于成",
+        "onboard_time": 1747477520,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166036,
+        "num": 244134,
+        "word": "刘晓庆偷漏税举报人再发新证据",
+        "onboard_time": 1747479321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376165,
+        "num": 243711,
+        "word": "田曦薇紫色挂脖长裙",
+        "onboard_time": 1747476441,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243649,
+        "num": 243649,
+        "word": "赵磊婚礼花了一两百万",
+        "onboard_time": 1747466661,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217005,
+        "num": 217005,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119588,
+        "num": 213674,
+        "word": "张继科谈王曼昱签位",
+        "onboard_time": 1747476441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212069,
+        "num": 212069,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205848,
+        "num": 205848,
+        "word": "邓超问撕拉片是什么",
+        "onboard_time": 1747479861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156994,
+        "num": 205691,
+        "word": "我欲乘风 虞书欣",
+        "onboard_time": 1747466182,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36757,
+        "num": 204361,
+        "word": "传奇杯现场抽陀螺",
+        "onboard_time": 1747480641,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11098,
+        "num": 203076,
+        "word": "浙江一元村医吴光潮",
+        "onboard_time": 1747480399,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15424,
+        "num": 202648,
+        "word": "歼10CE如何实现超视距空战压制",
+        "onboard_time": 1747480641,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 201785,
+        "num": 201785,
+        "word": "孙颖莎觉得现在是最好的年龄",
+        "onboard_time": 1747480462,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172693,
+        "num": 172693,
+        "word": "WBG对战TES",
+        "onboard_time": 1747480462,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168712,
+        "num": 168712,
+        "word": "孙颖莎回应世乒赛签表",
+        "onboard_time": 1747477520,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158529,
+        "num": 158529,
+        "word": "孙颖莎11比5梅提妮娜",
+        "onboard_time": 1747476381,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156856,
+        "num": 156856,
+        "word": "一天两份工作月入1万",
+        "onboard_time": 1747472962,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155484,
+        "num": 155484,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155016,
+        "num": 155016,
+        "word": "被落石砸中身亡男子为医务工作者",
+        "onboard_time": 1747474941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126779,
+        "num": 142162,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1747480399,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13871,
+        "num": 139253,
+        "word": "2025上教资面试最新题目解析课",
+        "onboard_time": 1747480462,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 137770,
+        "num": 137770,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132789,
+        "num": 132789,
+        "word": "曝小学老师殴打孩子还威胁3楼扔下",
+        "onboard_time": 1747477161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130361,
+        "num": 130361,
+        "word": "男子跨省杀妻及妻弟媳二审改判死缓",
+        "onboard_time": 1747476441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123271,
+        "num": 123271,
+        "word": "玉米蛋挞",
+        "onboard_time": 1747479920,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102290,
+        "num": 122767,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96439,
+        "num": 122765,
+        "word": "亲爱的仇敌",
+        "onboard_time": 1747480162,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122764,
+        "num": 122764,
+        "word": "胡意旋撕拉片",
+        "onboard_time": 1747478122,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119480,
+        "num": 119480,
+        "word": "人类对汪东城cos的开发不足1%",
+        "onboard_time": 1747480761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112573,
+        "num": 112573,
+        "word": "孙颖莎暴力正手打懵对手",
+        "onboard_time": 1747478901,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111617,
+        "num": 111617,
+        "word": "奶奶去世前五小时解绑了亲密付",
+        "onboard_time": 1747472782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
