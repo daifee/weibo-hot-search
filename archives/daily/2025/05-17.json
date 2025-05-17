@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747448290587,
+  "endTime": 1747451566525,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1359082,
+      "num": 275247,
+      "word": "俞灏明前任",
+      "onboard_time": 1747450112,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1340193,
+      "num": 1340193,
+      "word": "高校回应生理期请病假要脱裤证明",
+      "onboard_time": 1747448971,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 905342,
       "num": 490491,
       "word": "单依纯太牛了",
@@ -43,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 766581,
+      "num": 275878,
+      "word": "撕拉片笑话",
+      "onboard_time": 1747444832,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739638,
       "num": 465182,
       "word": "林志炫 被做局了",
       "onboard_time": 1747407086,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707457,
-      "num": 275878,
-      "word": "撕拉片笑话",
-      "onboard_time": 1747444832,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 661659,
@@ -115,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401151,
+      "num": 313778,
+      "word": "石原里美二胎出生",
+      "onboard_time": 1747447831,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387217,
       "num": 387217,
       "word": "创业失败负债百万女子靠扛楼还债",
       "onboard_time": 1747444293,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 379109,
+      "num": 266354,
+      "word": "给导师误发了二十多分钟的表情包",
+      "onboard_time": 1747443992,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 355617,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 351223,
-      "num": 266076,
+      "num": 279890,
       "word": "高圆圆戛纳红毯",
       "onboard_time": 1747445373,
       "rank": 15,
@@ -161,6 +193,14 @@
       "onboard_time": 1747407265,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339292,
+      "num": 339292,
+      "word": "孙杨400自小组第二",
+      "onboard_time": 1747449450,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 329367,
@@ -283,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250038,
-      "num": 250038,
-      "word": "给导师误发了二十多分钟的表情包",
-      "onboard_time": 1747443992,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244699,
       "num": 244699,
       "word": "藏海传OST阵容",
@@ -315,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223924,
+      "num": 223924,
+      "word": "风月不相关开机",
+      "onboard_time": 1747450951,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "成毅35岁生日照",
@@ -323,12 +363,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 211130,
+      "num": 211130,
+      "word": "初级会计考试",
+      "onboard_time": 1747446930,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210294,
       "num": 281515,
       "word": "中国空间站发现微生物新物种",
       "onboard_time": 1747438939,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209419,
+      "num": 209419,
+      "word": "汪顺孙杨潘展乐将同场对决",
+      "onboard_time": 1747450590,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 208632,
@@ -347,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205290,
-      "num": 205290,
-      "word": "石原里美二胎出生",
-      "onboard_time": 1747447831,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205212,
       "num": 262727,
       "word": "纤维粒晒夏思齐聊天记录",
       "onboard_time": 1747441160,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200426,
+      "num": 200426,
+      "word": "赴山海",
+      "onboard_time": 1747450831,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 196533,
@@ -427,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176300,
+      "num": 176300,
+      "word": "苏敏阿姨走到了戛纳红毯",
+      "onboard_time": 1747448670,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174072,
       "num": 259025,
       "word": "巴西人在瑞幸遇到顶流老乡",
       "onboard_time": 1747446331,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171921,
+      "num": 183559,
+      "word": "印尼花81亿买阵风战机被质疑",
+      "onboard_time": 1747444471,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167056,
@@ -443,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166032,
-      "num": 166032,
-      "word": "印尼花81亿买阵风战机被质疑",
-      "onboard_time": 1747444471,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 164764,
+      "num": 164764,
+      "word": "单依纯说很想念叶倩文",
+      "onboard_time": 1747448131,
+      "rank": 37,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 161432,
@@ -499,28 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152939,
-      "num": 152939,
-      "word": "初级会计考试",
-      "onboard_time": 1747446930,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152730,
       "num": 152730,
       "word": "俞灏明王晓晨因合作惩戒者结缘",
       "onboard_time": 1747447831,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150675,
-      "num": 150675,
-      "word": "单依纯说很想念叶倩文",
-      "onboard_time": 1747448131,
-      "rank": 37,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 149775,
@@ -544,6 +600,14 @@
       "word": "BENI回应淘汰",
       "onboard_time": 1747446630,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145066,
+      "num": 145066,
+      "word": "马吟吟选人",
+      "onboard_time": 1747448431,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -595,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137645,
+      "num": 137645,
+      "word": "尼克斯淘汰凯尔特人",
+      "onboard_time": 1747450831,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137351,
       "num": 137351,
       "word": "风林火山首映",
@@ -619,8 +691,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128105,
+      "num": 128105,
+      "word": "唐嫣亮相戛纳电影节",
+      "onboard_time": 1747448610,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127964,
-      "num": 127964,
+      "num": 277896,
       "word": "湖南双牌发生交通事故2教师身亡",
       "onboard_time": 1747442852,
       "rank": 43,
@@ -723,6 +803,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 114641,
+      "num": 114641,
+      "word": "凯尔特人",
+      "onboard_time": 1747448851,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113711,
       "num": 152735,
       "word": "周深称我要对得起这个角色",
@@ -736,6 +824,22 @@
       "word": "男孩2岁时确诊早衰症被告知无法医治",
       "onboard_time": 1747438939,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110060,
+      "num": 110060,
+      "word": "一个人进步最快的方法",
+      "onboard_time": 1747449991,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107592,
+      "num": 107592,
+      "word": "探访违建豪宅英之园",
+      "onboard_time": 1747449510,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -987,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 17696,
+      "num": 125759,
+      "word": "如何应对长期工作带来的麻木",
+      "onboard_time": 1747449690,
+      "rank": 39,
+      "category": "议题讨论,民生新闻"
+    },
+    {
       "raw_hot": 12597,
       "num": 41888,
       "word": "5000年前古人把世界观刻在玉龟上",
@@ -1000,6 +1112,14 @@
       "word": "祝贺蔡磊获评全国自强模范",
       "onboard_time": 1747427715,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9325,
+      "num": 520913,
+      "word": "残疾人事业是春天的事业",
+      "onboard_time": 1747451311,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

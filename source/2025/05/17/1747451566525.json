@@ -1,0 +1,410 @@
+{
+  "runTime": 1747451566525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340193,
+        "num": 1340193,
+        "word": "高校回应生理期请病假要脱裤证明",
+        "onboard_time": 1747448971,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662674,
+        "num": 662674,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9325,
+        "num": 520913,
+        "word": "残疾人事业是春天的事业",
+        "onboard_time": 1747451311,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438747,
+        "num": 438747,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339292,
+        "num": 339292,
+        "word": "孙杨400自小组第二",
+        "onboard_time": 1747449450,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314892,
+        "num": 314892,
+        "word": "官方通报潮汕豪宅英之园将强拆",
+        "onboard_time": 1747441340,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 401151,
+        "num": 313778,
+        "word": "石原里美二胎出生",
+        "onboard_time": 1747447831,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310858,
+        "num": 310858,
+        "word": "创业失败负债百万女子靠扛楼还债",
+        "onboard_time": 1747444293,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279890,
+        "num": 279890,
+        "word": "高圆圆戛纳红毯",
+        "onboard_time": 1747445373,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84919,
+        "num": 277896,
+        "word": "湖南双牌发生交通事故2教师身亡",
+        "onboard_time": 1747442852,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1359082,
+        "num": 275247,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766581,
+        "num": 270558,
+        "word": "撕拉片笑话",
+        "onboard_time": 1747444832,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 266354,
+        "word": "给导师误发了二十多分钟的表情包",
+        "onboard_time": 1747443992,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355779,
+        "num": 262930,
+        "word": "黄杨钿甜旧照曝光",
+        "onboard_time": 1747444592,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261965,
+        "num": 261965,
+        "word": "超绝腰臀比",
+        "onboard_time": 1747403246,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231909,
+        "num": 231909,
+        "word": "今年的歌手也太会玩了",
+        "onboard_time": 1747408345,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223924,
+        "num": 223924,
+        "word": "风月不相关开机",
+        "onboard_time": 1747450951,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221619,
+        "num": 221619,
+        "word": "单依纯发文",
+        "onboard_time": 1747437978,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211130,
+        "num": 211130,
+        "word": "初级会计考试",
+        "onboard_time": 1747446930,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209419,
+        "num": 209419,
+        "word": "汪顺孙杨潘展乐将同场对决",
+        "onboard_time": 1747450590,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205829,
+        "num": 205829,
+        "word": "28岁男子食物中毒离世",
+        "onboard_time": 1747441340,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200426,
+        "num": 200426,
+        "word": "赴山海",
+        "onboard_time": 1747450831,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192362,
+        "num": 192362,
+        "word": "奔跑吧收视率超过歌手",
+        "onboard_time": 1747439479,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171921,
+        "num": 183559,
+        "word": "印尼花81亿买阵风战机被质疑",
+        "onboard_time": 1747444471,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179824,
+        "num": 179824,
+        "word": "生理性喜欢的4个肢体语言",
+        "onboard_time": 1747440081,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176300,
+        "num": 176300,
+        "word": "苏敏阿姨走到了戛纳红毯",
+        "onboard_time": 1747448670,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 169714,
+        "word": "纤维粒晒夏思齐聊天记录",
+        "onboard_time": 1747441160,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168054,
+        "num": 168054,
+        "word": "成毅35岁生日照",
+        "onboard_time": 1747445132,
+        "rank": 27,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 164764,
+        "num": 164764,
+        "word": "单依纯说很想念叶倩文",
+        "onboard_time": 1747448131,
+        "rank": 28,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 145066,
+        "num": 145066,
+        "word": "马吟吟选人",
+        "onboard_time": 1747448431,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141807,
+        "num": 141807,
+        "word": "林志炫 被做局了",
+        "onboard_time": 1747407086,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17389,
+        "num": 141588,
+        "word": "数读我国南北港口亮眼成就",
+        "onboard_time": 1747402765,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141524,
+        "num": 141524,
+        "word": "折腰",
+        "onboard_time": 1747447709,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "周思成称考研界刘晓燕英语水平最差",
+        "onboard_time": 1747437737,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138637,
+        "num": 138637,
+        "word": "裸辞和在职找工作的区别",
+        "onboard_time": 1747441950,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137645,
+        "num": 137645,
+        "word": "尼克斯淘汰凯尔特人",
+        "onboard_time": 1747450831,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132929,
+        "num": 132929,
+        "word": "BENI回应淘汰",
+        "onboard_time": 1747446630,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129733,
+        "num": 129733,
+        "word": "白鹿侯明昊 青云台",
+        "onboard_time": 1747440979,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128105,
+        "num": 128105,
+        "word": "唐嫣亮相戛纳电影节",
+        "onboard_time": 1747448610,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17696,
+        "num": 125759,
+        "word": "如何应对长期工作带来的麻木",
+        "onboard_time": 1747449690,
+        "rank": 39,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 125727,
+        "num": 125727,
+        "word": "爷爷全职带三胞胎一天喂36顿饭",
+        "onboard_time": 1747442551,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "戈贝尔把怀孕女友赶出家门",
+        "onboard_time": 1747448071,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125297,
+        "num": 125297,
+        "word": "中国空间站发现微生物新物种",
+        "onboard_time": 1747438939,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120515,
+        "num": 120515,
+        "word": "藏海传OST阵容",
+        "onboard_time": 1747440201,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "北京地铁不必左行右立可并排站立",
+        "onboard_time": 1747442971,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116625,
+        "num": 116625,
+        "word": "教资面试",
+        "onboard_time": 1747439238,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114641,
+        "num": 114641,
+        "word": "凯尔特人",
+        "onboard_time": 1747448851,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110060,
+        "num": 110060,
+        "word": "一个人进步最快的方法",
+        "onboard_time": 1747449991,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108875,
+        "num": 108875,
+        "word": "有空气炸锅的都给我去做",
+        "onboard_time": 1747448250,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 107592,
+        "num": 107592,
+        "word": "探访违建豪宅英之园",
+        "onboard_time": 1747449510,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从自强模范身上汲取精神力量#"
+    }
+  }
+}
