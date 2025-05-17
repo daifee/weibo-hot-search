@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747485881828,
+  "endTime": 1747486843752,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -99,8 +99,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1407723,
+      "num": 1407723,
+      "word": "折腰男二",
+      "onboard_time": 1747482200,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1298522,
-      "num": 619750,
+      "num": 676254,
       "word": "黄杨钿甜耳环事件当以事实定真伪",
       "onboard_time": 1747482141,
       "rank": 5,
@@ -113,14 +121,6 @@
       "onboard_time": 1747482502,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1238906,
-      "num": 1238906,
-      "word": "折腰男二",
-      "onboard_time": 1747482200,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1121329,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 809209,
+      "num": 809209,
+      "word": "字节多地开始禁止打包餐食回家",
+      "onboard_time": 1747483343,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 805213,
       "num": 336843,
       "word": "金子涵退圈后近照状态",
@@ -193,14 +201,6 @@
       "onboard_time": 1747466661,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 766983,
-      "num": 766983,
-      "word": "字节多地开始禁止打包餐食回家",
-      "onboard_time": 1747483343,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 766581,
@@ -291,6 +291,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 616808,
+      "num": 616808,
+      "word": "潘展乐战胜孙杨夺冠",
+      "onboard_time": 1747484904,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614369,
       "num": 412442,
       "word": "夏思齐 纤维粒",
@@ -345,6 +353,14 @@
       "onboard_time": 1747471941,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 539659,
+      "num": 539659,
+      "word": "新华社发赵丽颖",
+      "onboard_time": 1747485803,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 537926,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391260,
+      "num": 307442,
+      "word": "哪吒之魔童闹海票房破154亿",
+      "onboard_time": 1747484904,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388286,
       "num": 388286,
       "word": "田曦薇海口",
@@ -577,14 +601,6 @@
       "onboard_time": 1747445373,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 350135,
-      "num": 350135,
-      "word": "潘展乐战胜孙杨夺冠",
-      "onboard_time": 1747484904,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 348801,
@@ -747,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273970,
-      "num": 307442,
-      "word": "哪吒之魔童闹海票房破154亿",
-      "onboard_time": 1747484904,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256972,
+      "num": 256972,
+      "word": "王源抢到自己的票了",
+      "onboard_time": 1747486163,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "初级会计考试",
@@ -841,14 +857,6 @@
       "onboard_time": 1747409543,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251286,
-      "num": 251286,
-      "word": "新华社发赵丽颖",
-      "onboard_time": 1747485803,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 249391,
@@ -889,6 +897,14 @@
       "onboard_time": 1747409603,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231936,
+      "num": 231936,
+      "word": "lululemon 李宇春",
+      "onboard_time": 1747486524,
+      "rank": 25,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 228021,
@@ -945,6 +961,14 @@
       "onboard_time": 1747452631,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217104,
+      "num": 217104,
+      "word": "藏海传",
+      "onboard_time": 1747485623,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 216227,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1747476681,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205778,
-      "num": 205778,
-      "word": "藏海传",
-      "onboard_time": 1747485623,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 203744,
@@ -1251,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192448,
+      "num": 192448,
+      "word": "檀健次背部肌肉",
+      "onboard_time": 1747486232,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192362,
       "num": 192362,
       "word": "娃衣",
@@ -1275,12 +1299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190796,
+      "num": 190796,
+      "word": "周深新巡回是从星星出来的",
+      "onboard_time": 1747486283,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188926,
       "num": 188926,
       "word": "肖战送暖心高考祝福",
       "onboard_time": 1747485144,
       "rank": 37,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 188366,
+      "num": 188366,
+      "word": "华晨宇一套衣服全是考点",
+      "onboard_time": 1747485683,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 188006,
@@ -1347,6 +1387,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183621,
+      "num": 348814,
+      "word": "大学教授开发非法刷单平台涉案2亿多",
+      "onboard_time": 1747485023,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183315,
+      "num": 183315,
+      "word": "梁靖崑14比12鲜于成",
+      "onboard_time": 1747484904,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183294,
       "num": 183294,
       "word": "马吟吟选人",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1747473981,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179240,
+      "num": 179240,
+      "word": "你好星期六",
+      "onboard_time": 1747484243,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 178223,
@@ -1443,12 +1507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175989,
-      "num": 175989,
-      "word": "梁靖崑14比12鲜于成",
-      "onboard_time": 1747484904,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 175137,
+      "num": 165699,
+      "word": "成毅好六记录",
+      "onboard_time": 1747486044,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 174816,
@@ -1571,12 +1635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166351,
-      "num": 166351,
-      "word": "华晨宇一套衣服全是考点",
-      "onboard_time": 1747485683,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 166225,
+      "num": 166225,
+      "word": "女子住酒店奢侈品进水索赔2.7万被拒",
+      "onboard_time": 1747486464,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165388,
@@ -1619,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161819,
-      "num": 161819,
-      "word": "你好星期六",
-      "onboard_time": 1747484243,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161432,
       "num": 181738,
       "word": "陈楚生 李白",
@@ -1659,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160230,
+      "num": 160230,
+      "word": "赵樱子甜妹造型拿捏了",
+      "onboard_time": 1747486584,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159943,
       "num": 159943,
       "word": "孟子义听到升咖梗嘴角没压住",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1747469782,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "孙杨比潘展乐大13岁",
+      "onboard_time": 1747486044,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 158216,
@@ -1729,6 +1801,14 @@
       "onboard_time": 1747452150,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155854,
+      "num": 155854,
+      "word": "大学教授犯罪拒不承认被实锤后痛哭",
+      "onboard_time": 1747486232,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154997,
@@ -1785,6 +1865,14 @@
       "onboard_time": 1747470562,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153552,
+      "num": 153552,
+      "word": "CBA",
+      "onboard_time": 1747485924,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 151921,
@@ -2643,6 +2731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89387,
+      "num": 334446,
+      "word": "美国十名囚犯凿墙越狱",
+      "onboard_time": 1747485144,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89206,
       "num": 320341,
       "word": "男子为卖货布局巨大商业贿赂网",
@@ -2716,7 +2812,7 @@
     },
     {
       "raw_hot": 81007,
-      "num": 194789,
+      "num": 273465,
       "word": "志胜再现打工人语言艺术",
       "onboard_time": 1747485502,
       "rank": 35,
@@ -2811,11 +2907,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66522,
-      "num": 348814,
-      "word": "大学教授开发非法刷单平台涉案2亿多",
-      "onboard_time": 1747485023,
-      "rank": 9,
+      "raw_hot": 66694,
+      "num": 231492,
+      "word": "特厨隋卞账号敦促隋先生停止侵权",
+      "onboard_time": 1747486643,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66346,
+      "num": 221835,
+      "word": "低保户每年70元电费补贴都被惦记",
+      "onboard_time": 1747485502,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2865,6 +2969,14 @@
       "onboard_time": 1747452150,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59212,
+      "num": 304966,
+      "word": "出走的决心原型亮相戛纳",
+      "onboard_time": 1747485563,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 59205,
@@ -3020,7 +3132,7 @@
     },
     {
       "raw_hot": 42287,
-      "num": 255020,
+      "num": 257134,
       "word": "美的首创无外机厨房空调",
       "onboard_time": 1747483763,
       "rank": 23,
@@ -3131,14 +3243,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 34313,
-      "num": 251369,
-      "word": "出走的决心原型亮相戛纳",
-      "onboard_time": 1747485563,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34277,
       "num": 211189,
       "word": "小鹿说忽冷忽热不利于婚姻稳定",
@@ -3164,19 +3268,11 @@
     },
     {
       "raw_hot": 32627,
-      "num": 257573,
+      "num": 263479,
       "word": "没有美的服务到不了的孤岛",
       "onboard_time": 1747481962,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31564,
-      "num": 334446,
-      "word": "美国十名囚犯凿墙越狱",
-      "onboard_time": 1747485144,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 31463,
@@ -3299,14 +3395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22766,
-      "num": 214110,
-      "word": "低保户每年70元电费补贴都被惦记",
-      "onboard_time": 1747485502,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22743,
       "num": 164806,
       "word": "女子遭前男友泼汽油事件背后的疑问",
@@ -3427,6 +3515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14821,
+      "num": 227038,
+      "word": "大家缺什么美的就造什么",
+      "onboard_time": 1747486403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14305,
       "num": 342533,
       "word": "商代青铜手形器有什么用途",
@@ -3457,6 +3553,14 @@
       "onboard_time": 1747430113,
       "rank": 11,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 12159,
+      "num": 220341,
+      "word": "网友喊话美的总裁送毛豆厨房空调",
+      "onboard_time": 1747486403,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11657,
@@ -3505,6 +3609,14 @@
       "onboard_time": 1747453591,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6432,
+      "num": 224979,
+      "word": "清肠减肥法是否健康可行",
+      "onboard_time": 1747486704,
+      "rank": 28,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
