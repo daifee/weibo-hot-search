@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747438698413,
+  "endTime": 1747446921455,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -967,6 +967,14 @@
       "num": 7112313,
       "word": "黄杨钿甜爸爸发文",
       "onboard_time": 1747395141,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7073696,
+      "num": 7073696,
+      "word": "俞灏明王晓晨结婚",
+      "onboard_time": 1747438878,
       "rank": 0,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738060044,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3128233,
-      "num": 3128233,
-      "word": "官方通报江秋莲被举报诈捐",
-      "onboard_time": 1739449643,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

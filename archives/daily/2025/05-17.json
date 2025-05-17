@@ -1,7 +1,15 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747438698413,
+  "endTime": 1747446921455,
   "band_list": [
+    {
+      "raw_hot": 7073696,
+      "num": 7073696,
+      "word": "俞灏明王晓晨结婚",
+      "onboard_time": 1747438878,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1828535,
       "num": 1828535,
@@ -75,6 +83,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514152,
+      "num": 274137,
+      "word": "黄杨钿甜旧照曝光",
+      "onboard_time": 1747444592,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 486900,
+      "num": 281893,
+      "word": "超绝腰臀比",
+      "onboard_time": 1747403246,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
@@ -83,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411485,
+      "num": 275878,
+      "word": "撕拉片笑话",
+      "onboard_time": 1747444832,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355617,
       "num": 205665,
       "word": "表妹万福",
       "onboard_time": 1747409724,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354281,
+      "num": 271755,
+      "word": "奔跑吧收视率超过歌手",
+      "onboard_time": 1747439479,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 348801,
@@ -124,7 +164,7 @@
     },
     {
       "raw_hot": 321139,
-      "num": 190129,
+      "num": 298133,
       "word": "周思成称考研界刘晓燕英语水平最差",
       "onboard_time": 1747437737,
       "rank": 11,
@@ -139,6 +179,62 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300130,
+      "num": 300130,
+      "word": "裸辞和在职找工作的区别",
+      "onboard_time": 1747441950,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 289844,
+      "num": 258011,
+      "word": "28岁男子食物中毒离世",
+      "onboard_time": 1747441340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287624,
+      "num": 266076,
+      "word": "高圆圆戛纳红毯",
+      "onboard_time": 1747445373,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286939,
+      "num": 264418,
+      "word": "单依纯发文",
+      "onboard_time": 1747437978,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282593,
+      "num": 282593,
+      "word": "教资面试",
+      "onboard_time": 1747439238,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 279311,
+      "num": 268701,
+      "word": "特朗普公然宣称是美国打赢了二战",
+      "onboard_time": 1747438939,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 276459,
+      "num": 276459,
+      "word": "官方通报潮汕豪宅英之园将强拆",
+      "onboard_time": 1747441340,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -147,12 +243,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273724,
+      "num": 255537,
+      "word": "生理性喜欢的4个肢体语言",
+      "onboard_time": 1747440081,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 267649,
       "num": 183296,
       "word": "BENI淘汰",
       "onboard_time": 1747407146,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264330,
+      "num": 264330,
+      "word": "创业失败负债百万女子靠扛楼还债",
+      "onboard_time": 1747444293,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 262371,
@@ -171,20 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250038,
+      "num": 250038,
+      "word": "给导师误发了二十多分钟的表情包",
+      "onboard_time": 1747443992,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 244699,
+      "num": 244699,
+      "word": "藏海传OST阵容",
+      "onboard_time": 1747440201,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232355,
       "num": 629462,
       "word": "流失美国79年的2卷帛书要回家了",
       "onboard_time": 1747409603,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229232,
-      "num": 197604,
-      "word": "单依纯发文",
-      "onboard_time": 1747437978,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 228021,
@@ -195,12 +315,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226839,
-      "num": 195395,
-      "word": "超绝腰臀比",
-      "onboard_time": 1747403246,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 218379,
+      "num": 218379,
+      "word": "成毅35岁生日照",
+      "onboard_time": 1747445132,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 210294,
+      "num": 278699,
+      "word": "中国空间站发现微生物新物种",
+      "onboard_time": 1747438939,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208632,
+      "num": 208632,
+      "word": "爷爷全职带三胞胎一天喂36顿饭",
+      "onboard_time": 1747442551,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206622,
@@ -259,6 +395,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178156,
+      "num": 178156,
+      "word": "留几手撕拉片",
+      "onboard_time": 1747443151,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174072,
+      "num": 259025,
+      "word": "巴西人在瑞幸遇到顶流老乡",
+      "onboard_time": 1747446331,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 170303,
+      "num": 170303,
+      "word": "北京地铁不必左行右立可并排站立",
+      "onboard_time": 1747442971,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166357,
+      "num": 166357,
+      "word": "白鹿侯明昊 青云台",
+      "onboard_time": 1747440979,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161432,
       "num": 181738,
       "word": "陈楚生 李白",
@@ -275,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158362,
+      "num": 262727,
+      "word": "纤维粒晒夏思齐聊天记录",
+      "onboard_time": 1747441160,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 156903,
       "num": 181834,
       "word": "刘宇宁 顺眼",
@@ -283,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154966,
+      "num": 154966,
+      "word": "黄子韬徐艺洋跳troublemaker",
+      "onboard_time": 1747440500,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149775,
+      "num": 146980,
+      "word": "王鹤棣让GAI别睡了",
+      "onboard_time": 1747441460,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149457,
       "num": 152715,
       "word": "南宁警方通报一学校伤害案1死2伤",
       "onboard_time": 1747407205,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 146940,
+      "num": 146940,
+      "word": "陈梦说绝不可能成为全职妈妈",
+      "onboard_time": 1747442551,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143321,
@@ -315,6 +515,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139168,
+      "num": 139168,
+      "word": "95后创始人回应全女健身房走红",
+      "onboard_time": 1747440201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137587,
+      "num": 147112,
+      "word": "印尼花81亿买阵风战机被质疑",
+      "onboard_time": 1747444471,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 129069,
+      "num": 129069,
+      "word": "BENI回应淘汰",
+      "onboard_time": 1747446630,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126803,
       "num": 181374,
       "word": "白举纲 大白嗓",
@@ -323,12 +547,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125502,
+      "num": 125502,
+      "word": "珠玉",
+      "onboard_time": 1747446271,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124926,
       "num": 219449,
       "word": "山姆绿豆糕",
       "onboard_time": 1747390161,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123789,
+      "num": 123789,
+      "word": "湖南双牌发生交通事故2教师身亡",
+      "onboard_time": 1747442852,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122202,
+      "num": 122202,
+      "word": "尹锡悦宣布退出国民力量党",
+      "onboard_time": 1747444173,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121622,
@@ -393,6 +641,22 @@
       "onboard_time": 1747412783,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113650,
+      "num": 113650,
+      "word": "男孩2岁时确诊早衰症被告知无法医治",
+      "onboard_time": 1747438939,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104835,
+      "num": 104835,
+      "word": "教资面试真题",
+      "onboard_time": 1747444293,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 100921,
