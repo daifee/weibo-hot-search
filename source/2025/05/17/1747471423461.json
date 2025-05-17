@@ -1,0 +1,410 @@
+{
+  "runTime": 1747471423461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011242,
+        "num": 2011242,
+        "word": "刘晓艳发文",
+        "onboard_time": 1747467740,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 577427,
+        "num": 577427,
+        "word": "男子向朋友借30万为赖账撕碎借条",
+        "onboard_time": 1747464742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29563,
+        "num": 441556,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433661,
+        "num": 433661,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425973,
+        "num": 425973,
+        "word": "我欲乘风 虞书欣",
+        "onboard_time": 1747466182,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1604750,
+        "num": 419664,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 656037,
+        "num": 415934,
+        "word": "周思成 刘晓燕",
+        "onboard_time": 1747463480,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388286,
+        "num": 388286,
+        "word": "田曦薇海口",
+        "onboard_time": 1747466421,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385869,
+        "num": 385869,
+        "word": "周思成称刘晓艳编假学历",
+        "onboard_time": 1747463240,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49877,
+        "num": 381490,
+        "word": "流失美国79年的2卷帛书启程回国",
+        "onboard_time": 1747470442,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981893,
+        "num": 381398,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 784156,
+        "num": 380897,
+        "word": "赵磊婚礼花了一两百万",
+        "onboard_time": 1747466661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379654,
+        "num": 379654,
+        "word": "种地吧爱侬研讨会",
+        "onboard_time": 1747468102,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704117,
+        "num": 376873,
+        "word": "小米高速上被撞报废车主质疑智驾",
+        "onboard_time": 1747467022,
+        "rank": 13,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 507841,
+        "num": 370049,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416721,
+        "num": 367240,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218215,
+        "num": 359712,
+        "word": "金靖问张凌赫吻戏那么多什么感觉",
+        "onboard_time": 1747462581,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211559,
+        "num": 351373,
+        "word": "种地吧",
+        "onboard_time": 1747459231,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79245,
+        "num": 349867,
+        "word": "官方回应男子驾车被山石砸中身亡",
+        "onboard_time": 1747470381,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14305,
+        "num": 342533,
+        "word": "商代青铜手形器有什么用途",
+        "onboard_time": 1747470741,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 339003,
+        "num": 339003,
+        "word": "特朗普访阿联酋获赠一滴石油",
+        "onboard_time": 1747465940,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330230,
+        "num": 330230,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321207,
+        "num": 321207,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 300190,
+        "num": 300190,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284937,
+        "num": 284937,
+        "word": "2人传播涉刘国梁不实信息被罚",
+        "onboard_time": 1747467081,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "格拉夫珠宝",
+        "onboard_time": 1747468580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191157,
+        "num": 191157,
+        "word": "发现减肥真的是良性循环",
+        "onboard_time": 1747467081,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158216,
+        "num": 158216,
+        "word": "成毅空降",
+        "onboard_time": 1747468401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157556,
+        "num": 157556,
+        "word": "男君侯和女妲己对上眼了",
+        "onboard_time": 1747469962,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22743,
+        "num": 154392,
+        "word": "女子遭前男友泼汽油事件背后的疑问",
+        "onboard_time": 1747469663,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159123,
+        "num": 154250,
+        "word": "火彩",
+        "onboard_time": 1747469782,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "景甜正是穿旗袍的好年纪",
+        "onboard_time": 1747470562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143548,
+        "num": 143548,
+        "word": "孟子义听到升咖梗嘴角没压住",
+        "onboard_time": 1747468821,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 130516,
+        "word": "吴镇宇第一次在演综哭了",
+        "onboard_time": 1747466060,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91940,
+        "num": 129399,
+        "word": "俄谈判团长引用拿破仑名言",
+        "onboard_time": 1747469421,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128534,
+        "num": 128534,
+        "word": "十个勤天直播",
+        "onboard_time": 1747470862,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127979,
+        "num": 127979,
+        "word": "张小婉拿到了浪姐最多superA",
+        "onboard_time": 1747463181,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124906,
+        "num": 124906,
+        "word": "民企400万投资4胜诉仍被拒批",
+        "onboard_time": 1747467982,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121387,
+        "num": 121387,
+        "word": "中国护照免签国家",
+        "onboard_time": 1747464982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119811,
+        "num": 119811,
+        "word": "祝绪丹也拍了撕拉片",
+        "onboard_time": 1747469361,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "湖南卫视背后官宣",
+        "onboard_time": 1747471161,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116735,
+        "num": 116735,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113174,
+        "num": 113174,
+        "word": "房琪五公小考居然是团队舞担",
+        "onboard_time": 1747469002,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110050,
+        "num": 110050,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "孟子义以为汪峰和仁科同龄",
+        "onboard_time": 1747467922,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100359,
+        "num": 100359,
+        "word": "张凌赫说演感情戏要爱上对方",
+        "onboard_time": 1747470381,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98109,
+        "num": 98109,
+        "word": "上海地铁回应老人拖拽小伙要求让座",
+        "onboard_time": 1747466540,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96992,
+        "num": 96992,
+        "word": "知情人回应28岁准新郎食物中毒身亡",
+        "onboard_time": 1747464801,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96425,
+        "num": 96425,
+        "word": "朱雀二号改进型遥二运载火箭成功发射",
+        "onboard_time": 1747459111,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95939,
+        "num": 95939,
+        "word": "国乒多哈世乒赛拿下开门红",
+        "onboard_time": 1747471401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
