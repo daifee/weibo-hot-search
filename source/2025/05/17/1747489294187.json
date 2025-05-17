@@ -1,0 +1,410 @@
+{
+  "runTime": 1747489294187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418142,
+        "num": 1418142,
+        "word": "折腰男二",
+        "onboard_time": 1747482200,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1363369,
+        "num": 1363369,
+        "word": "孙杨赛后久久不忍离去",
+        "onboard_time": 1747487423,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21069,
+        "num": 995014,
+        "word": "点亮网络文明之光",
+        "onboard_time": 1747472240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 858921,
+        "num": 858921,
+        "word": "王源抢到自己的票了",
+        "onboard_time": 1747486163,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 755017,
+        "num": 755017,
+        "word": "潘展乐战胜孙杨夺冠",
+        "onboard_time": 1747484904,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 727490,
+        "num": 727490,
+        "word": "潘展乐400米自冠军",
+        "onboard_time": 1747482502,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709008,
+        "num": 709008,
+        "word": "新华社发赵丽颖",
+        "onboard_time": 1747485803,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611662,
+        "num": 611662,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1037231,
+        "num": 611078,
+        "word": "黄杨钿甜耳环事件当以事实定真伪",
+        "onboard_time": 1747482141,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65348,
+        "num": 605063,
+        "word": "中国九天无人机即将振翅",
+        "onboard_time": 1747488563,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62050,
+        "num": 603703,
+        "word": "出走的决心原型亮相戛纳",
+        "onboard_time": 1747485563,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81834,
+        "num": 600945,
+        "word": "唐嫣国际范儿",
+        "onboard_time": 1747487363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641512,
+        "num": 597720,
+        "word": "李溪芮 内娱腿精",
+        "onboard_time": 1747482502,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594574,
+        "num": 594574,
+        "word": "字节多地开始禁止打包餐食回家",
+        "onboard_time": 1747483343,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52202,
+        "num": 588631,
+        "word": "当事老师回应殴打威胁10岁男孩",
+        "onboard_time": 1747488383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586335,
+        "num": 586335,
+        "word": "哪吒之魔童闹海票房破154亿",
+        "onboard_time": 1747484904,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57326,
+        "num": 559386,
+        "word": "志胜再现打工人语言艺术",
+        "onboard_time": 1747485502,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533415,
+        "num": 533415,
+        "word": "王皓说樊振东8年世锦赛单打才登顶",
+        "onboard_time": 1747488563,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474525,
+        "num": 474525,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60127,
+        "num": 427307,
+        "word": "睡前如何玩手机才会不伤眼",
+        "onboard_time": 1747488684,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404205,
+        "num": 404205,
+        "word": "金子涵退圈后近照状态",
+        "onboard_time": 1747481662,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390497,
+        "num": 390497,
+        "word": "lululemon 李宇春",
+        "onboard_time": 1747486524,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 360628,
+        "num": 360628,
+        "word": "赵磊婚礼出图",
+        "onboard_time": 1747487423,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359333,
+        "num": 359333,
+        "word": "藏海传",
+        "onboard_time": 1747485623,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347531,
+        "num": 347531,
+        "word": "孙杨祝贺潘展乐夺冠",
+        "onboard_time": 1747487724,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40394,
+        "num": 303564,
+        "word": "美的终结家电服务乱象",
+        "onboard_time": 1747487363,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295548,
+        "num": 295548,
+        "word": "BLG对战JDG",
+        "onboard_time": 1747485502,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282554,
+        "num": 282554,
+        "word": "折腰倍杀",
+        "onboard_time": 1747482924,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279936,
+        "num": 279936,
+        "word": "折腰热度",
+        "onboard_time": 1747487124,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34645,
+        "num": 276150,
+        "word": "法国男孩8元买到军用手榴弹被炸伤",
+        "onboard_time": 1747488203,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26162,
+        "num": 274871,
+        "word": "一首歌为高考生加油",
+        "onboard_time": 1747488983,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300448,
+        "num": 267495,
+        "word": "赵磊 此刻我拥有了一切",
+        "onboard_time": 1747489105,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20383,
+        "num": 264693,
+        "word": "网友喊话美的总裁送毛豆厨房空调",
+        "onboard_time": 1747486403,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30825,
+        "num": 261708,
+        "word": "大家缺什么美的就造什么",
+        "onboard_time": 1747486403,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257376,
+        "num": 257376,
+        "word": "周也戛纳出图",
+        "onboard_time": 1747487843,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249100,
+        "num": 249100,
+        "word": "成都春熙路巨型3D蛇太逼真引争议",
+        "onboard_time": 1747488383,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245817,
+        "num": 245817,
+        "word": "美国公布第六代战机更多细节",
+        "onboard_time": 1747477403,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233484,
+        "num": 233484,
+        "word": "郝蕾问刘奕畅和李沐宸什么关系",
+        "onboard_time": 1747488083,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209688,
+        "num": 209688,
+        "word": "大学教授犯罪拒不承认被实锤后痛哭",
+        "onboard_time": 1747486232,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194934,
+        "num": 194934,
+        "word": "苏新皓 饼宝",
+        "onboard_time": 1747488444,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193882,
+        "num": 193882,
+        "word": "霉霉S女王绝交",
+        "onboard_time": 1747487003,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179210,
+        "num": 179210,
+        "word": "张豆豆说永远是孙杨最忠实的泳迷",
+        "onboard_time": 1747487544,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175827,
+        "num": 175827,
+        "word": "特厨隋卞账号敦促隋先生停止侵权",
+        "onboard_time": 1747486643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172526,
+        "num": 172526,
+        "word": "女子称洗澡时从香皂中洗出金币",
+        "onboard_time": 1747489105,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169842,
+        "num": 169842,
+        "word": "广西一咖啡店12岁以下儿童禁入",
+        "onboard_time": 1747487003,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 167427,
+        "word": "女子住酒店奢侈品进水索赔2.7万被拒",
+        "onboard_time": 1747486464,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165080,
+        "num": 165080,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1747489105,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163749,
+        "num": 163749,
+        "word": "蛮蛮一劭斗嘴比亲嘴还甜",
+        "onboard_time": 1747489166,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151339,
+        "num": 151339,
+        "word": "CBA",
+        "onboard_time": 1747485924,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146986,
+        "num": 146986,
+        "word": "你好星期六",
+        "onboard_time": 1747484243,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
