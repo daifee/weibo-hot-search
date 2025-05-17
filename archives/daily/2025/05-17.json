@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747481791103,
+  "endTime": 1747485881828,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2053687,
-      "num": 711048,
+      "num": 757443,
       "word": "今年的女装 丑",
       "onboard_time": 1747470322,
       "rank": 32,
@@ -99,12 +99,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1298522,
+      "num": 619750,
+      "word": "黄杨钿甜耳环事件当以事实定真伪",
+      "onboard_time": 1747482141,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1250739,
+      "num": 1250739,
+      "word": "潘展乐400米自冠军",
+      "onboard_time": 1747482502,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1238906,
+      "num": 1238906,
+      "word": "折腰男二",
+      "onboard_time": 1747482200,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1121329,
       "num": 795699,
       "word": "成毅生日直播",
       "onboard_time": 1747461031,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1081248,
+      "num": 343588,
+      "word": "李溪芮 内娱腿精",
+      "onboard_time": 1747482502,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 964554,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 805213,
-      "num": 183187,
+      "num": 336843,
       "word": "金子涵退圈后近照状态",
       "onboard_time": 1747481662,
       "rank": 11,
@@ -161,6 +193,14 @@
       "onboard_time": 1747466661,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 766983,
+      "num": 766983,
+      "word": "字节多地开始禁止打包餐食回家",
+      "onboard_time": 1747483343,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 766581,
@@ -371,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458639,
+      "num": 458639,
+      "word": "折腰倍杀",
+      "onboard_time": 1747482924,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 440380,
       "num": 440380,
       "word": "孙颖莎11比5梅提妮娜",
@@ -531,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350135,
+      "num": 350135,
+      "word": "潘展乐战胜孙杨夺冠",
+      "onboard_time": 1747484904,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348801,
       "num": 221383,
       "word": "陈楚生能第二",
@@ -561,6 +617,14 @@
       "onboard_time": 1747449450,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 331499,
+      "num": 331499,
+      "word": "王源演唱会抢票",
+      "onboard_time": 1747482802,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 329367,
@@ -595,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307339,
+      "num": 307339,
+      "word": "玉米蛋挞",
+      "onboard_time": 1747479920,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "裸辞和在职找工作的区别",
       "onboard_time": 1747441950,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298505,
+      "num": 309787,
+      "word": "刘晓庆偷漏税举报人再发新证据",
+      "onboard_time": 1747479321,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 297221,
@@ -667,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273970,
+      "num": 307442,
+      "word": "哪吒之魔童闹海票房破154亿",
+      "onboard_time": 1747484904,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -731,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258613,
+      "num": 258613,
+      "word": "周杰伦再弹婚礼进行曲迎来他的女主",
+      "onboard_time": 1747481480,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254789,
       "num": 254789,
       "word": "初级会计考试",
@@ -747,20 +843,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251286,
+      "num": 251286,
+      "word": "新华社发赵丽颖",
+      "onboard_time": 1747485803,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249391,
       "num": 249391,
       "word": "薛飞2比4篠塚大登",
       "onboard_time": 1747478661,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244992,
-      "num": 244992,
-      "word": "刘晓庆偷漏税举报人再发新证据",
-      "onboard_time": 1747479321,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 244699,
@@ -809,6 +905,14 @@
       "onboard_time": 1747466060,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225322,
+      "num": 225322,
+      "word": "车银优跑完11公里马拉松后的面部状况",
+      "onboard_time": 1747485623,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 222783,
@@ -872,6 +976,14 @@
       "word": "王皓称世乒赛要放手去搏",
       "onboard_time": 1747480220,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 209190,
+      "num": 209190,
+      "word": "潘展乐游出3分45秒34",
+      "onboard_time": 1747482861,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -963,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205778,
+      "num": 205778,
+      "word": "藏海传",
+      "onboard_time": 1747485623,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203744,
       "num": 203744,
       "word": "发现减肥真的是良性循环",
@@ -1035,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199802,
+      "num": 199802,
+      "word": "梁靖崑晋级世乒赛64强",
+      "onboard_time": 1747484184,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197678,
       "num": 197678,
       "word": "孙颖莎回应世乒赛签表",
       "onboard_time": 1747477520,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197087,
+      "num": 197087,
+      "word": "陈哲远放纵餐",
+      "onboard_time": 1747485203,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 196533,
@@ -1072,6 +1208,14 @@
       "word": "表妹万福 陈鑫海",
       "onboard_time": 1747412123,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193609,
+      "num": 193609,
+      "word": "一念江南 虞书欣",
+      "onboard_time": 1747480399,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1131,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188926,
+      "num": 188926,
+      "word": "肖战送暖心高考祝福",
+      "onboard_time": 1747485144,
+      "rank": 37,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 188006,
       "num": 188006,
       "word": "留几手撕拉片",
@@ -1179,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "人生若如初见",
+      "onboard_time": 1747484843,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183966,
       "num": 248105,
       "word": "田曦薇春夏高定",
@@ -1209,14 +1369,6 @@
       "onboard_time": 1747458744,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181416,
-      "num": 174980,
-      "word": "一念江南 虞书欣",
-      "onboard_time": 1747480399,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 181397,
@@ -1291,6 +1443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175989,
+      "num": 175989,
+      "word": "梁靖崑14比12鲜于成",
+      "onboard_time": 1747484904,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174816,
+      "num": 174816,
+      "word": "白举纲被问到自己热度低沉默了",
+      "onboard_time": 1747485144,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174072,
       "num": 259025,
       "word": "巴西人在瑞幸遇到顶流老乡",
@@ -1329,14 +1497,6 @@
       "onboard_time": 1747444471,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170886,
-      "num": 170886,
-      "word": "玉米蛋挞",
-      "onboard_time": 1747479920,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 170256,
@@ -1403,6 +1563,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166765,
+      "num": 166765,
+      "word": "费立纬400米自由泳亚军",
+      "onboard_time": 1747485082,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166351,
+      "num": 166351,
+      "word": "华晨宇一套衣服全是考点",
+      "onboard_time": 1747485683,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165388,
       "num": 183007,
       "word": "折腰盾哥开口就是弹幕",
@@ -1443,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161819,
+      "num": 161819,
+      "word": "你好星期六",
+      "onboard_time": 1747484243,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161432,
       "num": 181738,
       "word": "陈楚生 李白",
@@ -1459,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161164,
+      "num": 161164,
+      "word": "孙颖莎好鲜活的小女孩",
+      "onboard_time": 1747481962,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160903,
       "num": 160903,
       "word": "文俊辉gemini",
@@ -1473,6 +1665,14 @@
       "onboard_time": 1747468821,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159592,
+      "num": 159592,
+      "word": "BLG对战JDG",
+      "onboard_time": 1747485502,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 159279,
@@ -1545,6 +1745,14 @@
       "onboard_time": 1747440500,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154479,
+      "num": 154479,
+      "word": "王楚钦表态要弥补世界杯的遗憾",
+      "onboard_time": 1747482324,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 153907,
@@ -1633,6 +1841,14 @@
       "onboard_time": 1747407205,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 149055,
+      "num": 157399,
+      "word": "全国游泳冠军赛",
+      "onboard_time": 1747485082,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 148966,
@@ -1921,14 +2137,6 @@
       "onboard_time": 1747448610,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127373,
-      "num": 172294,
-      "word": "周杰伦再弹婚礼进行曲迎来他的女主",
-      "onboard_time": 1747481480,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 126803,
@@ -2395,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94921,
+      "num": 344737,
+      "word": "美的脱口秀",
+      "onboard_time": 1747482743,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93831,
       "num": 93831,
       "word": "五金店老板和机器猫有什么区别",
@@ -2499,6 +2715,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 81007,
+      "num": 194789,
+      "word": "志胜再现打工人语言艺术",
+      "onboard_time": 1747485502,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79245,
       "num": 349867,
       "word": "官方回应男子驾车被山石砸中身亡",
@@ -2585,6 +2809,14 @@
       "onboard_time": 1747416977,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66522,
+      "num": 348814,
+      "word": "大学教授开发非法刷单平台涉案2亿多",
+      "onboard_time": 1747485023,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65334,
@@ -2787,6 +3019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42287,
+      "num": 255020,
+      "word": "美的首创无外机厨房空调",
+      "onboard_time": 1747483763,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41818,
       "num": 220252,
       "word": "张凌赫人间Gucci",
@@ -2809,6 +3049,14 @@
       "onboard_time": 1747477882,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41263,
+      "num": 254656,
+      "word": "小鹿说家臭不可外扬",
+      "onboard_time": 1747481962,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 40962,
@@ -2883,6 +3131,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 34313,
+      "num": 251369,
+      "word": "出走的决心原型亮相戛纳",
+      "onboard_time": 1747485563,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 34277,
+      "num": 211189,
+      "word": "小鹿说忽冷忽热不利于婚姻稳定",
+      "onboard_time": 1747481962,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33842,
       "num": 223992,
       "word": "印巴水资源争端或再升级",
@@ -2897,6 +3161,22 @@
       "onboard_time": 1747456290,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 32627,
+      "num": 257573,
+      "word": "没有美的服务到不了的孤岛",
+      "onboard_time": 1747481962,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31564,
+      "num": 334446,
+      "word": "美国十名囚犯凿墙越狱",
+      "onboard_time": 1747485144,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31463,
@@ -2940,7 +3220,7 @@
     },
     {
       "raw_hot": 28927,
-      "num": 712846,
+      "num": 854119,
       "word": "点亮网络文明之光",
       "onboard_time": 1747472240,
       "rank": 2,
@@ -3017,6 +3297,14 @@
       "onboard_time": 1747463480,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22766,
+      "num": 214110,
+      "word": "低保户每年70元电费补贴都被惦记",
+      "onboard_time": 1747485502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22743,
@@ -3097,6 +3385,14 @@
       "onboard_time": 1747458391,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16974,
+      "num": 307369,
+      "word": "刷牙时如何科学清洁舌苔",
+      "onboard_time": 1747485082,
+      "rank": 19,
+      "category": ""
     },
     {
       "raw_hot": 16508,
