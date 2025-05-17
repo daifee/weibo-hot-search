@@ -1,0 +1,410 @@
+{
+  "runTime": 1747499363615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068647,
+        "num": 1068647,
+        "word": "你好星期六收视率",
+        "onboard_time": 1747495825,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 933604,
+        "num": 933604,
+        "word": "王楚钦vs纳雷什",
+        "onboard_time": 1747496902,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23836,
+        "num": 855778,
+        "word": "6组数据看中国市场强大吸引力",
+        "onboard_time": 1747490247,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786116,
+        "num": 786116,
+        "word": "新疆多地上空出现不明飞行物",
+        "onboard_time": 1747493787,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500948,
+        "num": 500948,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 464346,
+        "num": 464346,
+        "word": "气象部门回应新疆不明飞行物",
+        "onboard_time": 1747495347,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 432860,
+        "num": 432860,
+        "word": "孙杨赛后久久不忍离去",
+        "onboard_time": 1747487423,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359962,
+        "num": 359962,
+        "word": "孙杨帮潘展乐把第1贴好",
+        "onboard_time": 1747492646,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341953,
+        "num": 341953,
+        "word": "男子聚餐醉亡同桌11人被索赔77万",
+        "onboard_time": 1747494927,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326178,
+        "num": 326178,
+        "word": "王源抢到自己的票了",
+        "onboard_time": 1747486163,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 941536,
+        "num": 315946,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606986,
+        "num": 310077,
+        "word": "黄杨钿甜耳环事件当以事实定真伪",
+        "onboard_time": 1747482141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385479,
+        "num": 294434,
+        "word": "李溪芮 内娱腿精",
+        "onboard_time": 1747482502,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266804,
+        "num": 266804,
+        "word": "周也戛纳出图",
+        "onboard_time": 1747487843,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213616,
+        "num": 213616,
+        "word": "哪吒之魔童闹海票房破154亿",
+        "onboard_time": 1747484904,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202733,
+        "num": 202733,
+        "word": "王皓说樊振东8年世锦赛单打才登顶",
+        "onboard_time": 1747488563,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199318,
+        "num": 199318,
+        "word": "新华社发赵丽颖",
+        "onboard_time": 1747485803,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174189,
+        "num": 174189,
+        "word": "华晨宇 小草看到我了吗",
+        "onboard_time": 1747497202,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88546,
+        "num": 174080,
+        "word": "美媒说出关税最残酷真相",
+        "onboard_time": 1747496183,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334180,
+        "num": 172850,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233045,
+        "num": 171245,
+        "word": "女子称洗澡时从香皂中洗出金币",
+        "onboard_time": 1747489105,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202288,
+        "num": 171096,
+        "word": "成都春熙路巨型3D蛇太逼真引争议",
+        "onboard_time": 1747488383,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186658,
+        "num": 169790,
+        "word": "虎鲸母子被困在法国废弃海洋公园",
+        "onboard_time": 1747496363,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169160,
+        "num": 169160,
+        "word": "两种性格的人容易抑郁",
+        "onboard_time": 1747497082,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166804,
+        "num": 166804,
+        "word": "醉驾肇事者无力承担受害家庭医疗费",
+        "onboard_time": 1747492167,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160364,
+        "num": 160364,
+        "word": "白宇刘宇宁都有气胸",
+        "onboard_time": 1747497502,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149037,
+        "num": 149037,
+        "word": "多方回应咖啡店禁止幼童入内",
+        "onboard_time": 1747493487,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "戴荃回应林志炫唱悟空",
+        "onboard_time": 1747495347,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143160,
+        "num": 143160,
+        "word": "Bin哥骗我们",
+        "onboard_time": 1747489767,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137344,
+        "num": 137344,
+        "word": "赵磊婚礼出图",
+        "onboard_time": 1747487423,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135485,
+        "num": 135485,
+        "word": "李昀锐王星越王安宇同框",
+        "onboard_time": 1747490247,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131976,
+        "num": 131976,
+        "word": "lululemon 李宇春",
+        "onboard_time": 1747486524,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 125857,
+        "num": 125857,
+        "word": "周也高定国内首穿",
+        "onboard_time": 1747492946,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 119128,
+        "num": 119128,
+        "word": "于适音乐节人气",
+        "onboard_time": 1747497982,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104256,
+        "num": 104256,
+        "word": "美国女子在家中突遭流弹击中身亡",
+        "onboard_time": 1747494207,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101254,
+        "num": 101254,
+        "word": "孙铭徽踢球",
+        "onboard_time": 1747493549,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101016,
+        "num": 101016,
+        "word": "九旬老人每天穿西装去歌舞厅跳舞",
+        "onboard_time": 1747491867,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100541,
+        "num": 100541,
+        "word": "陶喆演唱会没有陌生人",
+        "onboard_time": 1747497202,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98209,
+        "num": 98209,
+        "word": "藏海传",
+        "onboard_time": 1747485623,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94364,
+        "num": 94364,
+        "word": "aespa舞台新闻图",
+        "onboard_time": 1747495946,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90884,
+        "num": 90884,
+        "word": "邓紫棋在逃公主只要在逃",
+        "onboard_time": 1747496782,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90428,
+        "num": 90428,
+        "word": "刘雨欣凭个人最高分获正式合约",
+        "onboard_time": 1747493007,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88419,
+        "num": 88419,
+        "word": "王心凌ALin这朋友是真能处",
+        "onboard_time": 1747499061,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88013,
+        "num": 88013,
+        "word": "陈萍萍年轻时",
+        "onboard_time": 1747490726,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86962,
+        "num": 86962,
+        "word": "张远巡演官宣上天赐",
+        "onboard_time": 1747498102,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81095,
+        "num": 81095,
+        "word": "华晨宇演唱会吃播第一人",
+        "onboard_time": 1747494567,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80256,
+        "num": 80256,
+        "word": "金靖说看熟人演戏太精彩了",
+        "onboard_time": 1747496843,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77207,
+        "num": 77207,
+        "word": "角田严重事故",
+        "onboard_time": 1747495825,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77043,
+        "num": 77043,
+        "word": "陈志朋把初代男团的敬业带到超越班",
+        "onboard_time": 1747499181,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75791,
+        "num": 75791,
+        "word": "赵磊 此刻我拥有了一切",
+        "onboard_time": 1747489105,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
