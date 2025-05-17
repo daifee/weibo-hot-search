@@ -1,0 +1,410 @@
+{
+  "runTime": 1747520550030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 213001,
+        "num": 384149,
+        "word": "新疆多地上空出现不明飞行物",
+        "onboard_time": 1747493787,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157268,
+        "num": 157268,
+        "word": "你好星期六收视率",
+        "onboard_time": 1747495825,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14447,
+        "num": 147634,
+        "word": "6组数据看中国市场强大吸引力",
+        "onboard_time": 1747490247,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142897,
+        "num": 142897,
+        "word": "美国女子四度抗癌成功却意外被射杀",
+        "onboard_time": 1747501578,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84949,
+        "num": 84949,
+        "word": "气象部门回应新疆不明飞行物",
+        "onboard_time": 1747495347,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79715,
+        "num": 79715,
+        "word": "虎鲸母子被困在法国废弃海洋公园",
+        "onboard_time": 1747496363,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70938,
+        "num": 70938,
+        "word": "美媒说出关税最残酷真相",
+        "onboard_time": 1747496183,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70530,
+        "num": 70530,
+        "word": "孙杨赛后久久不忍离去",
+        "onboard_time": 1747487423,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66969,
+        "num": 66969,
+        "word": "王楚钦vs纳雷什",
+        "onboard_time": 1747496902,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55170,
+        "num": 66264,
+        "word": "贺峻霖全国1460名的游走原来长这样",
+        "onboard_time": 1747500020,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382629,
+        "num": 64422,
+        "word": "离婚已3年男子喊话前妻求放过",
+        "onboard_time": 1747501519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142023,
+        "num": 62619,
+        "word": "黄杨钿甜耳环事件当以事实定真伪",
+        "onboard_time": 1747482141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105947,
+        "num": 60787,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59768,
+        "num": 59768,
+        "word": "男子聚餐醉亡同桌11人被索赔77万",
+        "onboard_time": 1747494927,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42403,
+        "num": 42403,
+        "word": "多方回应咖啡店禁止幼童入内",
+        "onboard_time": 1747493487,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38822,
+        "num": 38822,
+        "word": "房东的猫哭到唱不下去",
+        "onboard_time": 1747490666,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49014,
+        "num": 36527,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33832,
+        "num": 33832,
+        "word": "白宇刘宇宁都有气胸",
+        "onboard_time": 1747497502,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32228,
+        "num": 32228,
+        "word": "钟楚曦戛纳红毯",
+        "onboard_time": 1747515733,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30444,
+        "num": 32211,
+        "word": "汪苏泷太顶了",
+        "onboard_time": 1747499540,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64115,
+        "num": 31724,
+        "word": "女子称洗澡时从香皂中洗出金币",
+        "onboard_time": 1747489105,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49790,
+        "num": 31588,
+        "word": "成都春熙路巨型3D蛇太逼真引争议",
+        "onboard_time": 1747488383,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37651,
+        "num": 31246,
+        "word": "王皓说樊振东8年世锦赛单打才登顶",
+        "onboard_time": 1747488563,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35841,
+        "num": 31091,
+        "word": "两种性格的人容易抑郁",
+        "onboard_time": 1747497082,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30871,
+        "num": 30871,
+        "word": "王楚钦4比0纳雷什",
+        "onboard_time": 1747503201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30284,
+        "num": 30284,
+        "word": "今年的女装 丑",
+        "onboard_time": 1747470322,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 27809,
+        "num": 27809,
+        "word": "魏劭小乔醉酒抱",
+        "onboard_time": 1747517594,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27597,
+        "num": 27597,
+        "word": "美国女子在家中突遭流弹击中身亡",
+        "onboard_time": 1747494207,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27220,
+        "num": 27220,
+        "word": "华晨宇 小草看到我了吗",
+        "onboard_time": 1747497202,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26905,
+        "num": 26905,
+        "word": "李溪芮 内娱腿精",
+        "onboard_time": 1747482502,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25332,
+        "num": 25332,
+        "word": "lululemon 李宇春",
+        "onboard_time": 1747486524,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 24450,
+        "num": 25332,
+        "word": "藏海传",
+        "onboard_time": 1747485623,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24366,
+        "num": 25331,
+        "word": "于适音乐节人气",
+        "onboard_time": 1747497982,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24032,
+        "num": 25331,
+        "word": "戴荃回应林志炫唱悟空",
+        "onboard_time": 1747495347,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23806,
+        "num": 25331,
+        "word": "陈萍萍年轻时",
+        "onboard_time": 1747490726,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22707,
+        "num": 25331,
+        "word": "新华社发赵丽颖",
+        "onboard_time": 1747485803,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 25330,
+        "word": "孙杨帮潘展乐把第1贴好",
+        "onboard_time": 1747492646,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20115,
+        "num": 25330,
+        "word": "1岁11个月自律宝宝的一天",
+        "onboard_time": 1747519455,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 19284,
+        "num": 25330,
+        "word": "孙铭徽踢球",
+        "onboard_time": 1747493549,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19069,
+        "num": 25330,
+        "word": "门店回应员工脱袜子抠脚",
+        "onboard_time": 1747509615,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18873,
+        "num": 25330,
+        "word": "Bin哥骗我们",
+        "onboard_time": 1747489767,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17652,
+        "num": 25330,
+        "word": "特朗普抱怨援乌资金不知去向",
+        "onboard_time": 1747513453,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17614,
+        "num": 25329,
+        "word": "哪吒之魔童闹海票房破154亿",
+        "onboard_time": 1747484904,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17327,
+        "num": 25329,
+        "word": "周也戛纳出图",
+        "onboard_time": 1747487843,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15109,
+        "num": 25329,
+        "word": "你的恋爱",
+        "onboard_time": 1747504097,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14177,
+        "num": 25329,
+        "word": "我被大麦做局了",
+        "onboard_time": 1747505597,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13153,
+        "num": 25328,
+        "word": "赵磊婚礼出图",
+        "onboard_time": 1747487423,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12955,
+        "num": 25328,
+        "word": "王源抢到自己的票了",
+        "onboard_time": 1747486163,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12501,
+        "num": 25328,
+        "word": "周也戛纳电影节人气",
+        "onboard_time": 1747507876,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12413,
+        "num": 25328,
+        "word": "于适贵阳音乐节舞台",
+        "onboard_time": 1747505835,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新征程上促进残疾人事业全面发展#"
+    }
+  }
+}
