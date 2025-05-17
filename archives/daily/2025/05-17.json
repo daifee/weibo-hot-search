@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747495437351,
+  "endTime": 1747496301187,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -419,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 543577,
+      "num": 282349,
+      "word": "博君一肖 藏海传云包场",
+      "onboard_time": 1747495526,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543376,
       "num": 543376,
       "word": "Bin哥骗我们",
@@ -547,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 415058,
+      "num": 415058,
+      "word": "九旬老人每天穿西装去歌舞厅跳舞",
+      "onboard_time": 1747491867,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 413786,
       "num": 413786,
       "word": "创业失败负债百万女子靠扛楼还债",
@@ -593,6 +609,14 @@
       "onboard_time": 1747447831,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400915,
+      "num": 400915,
+      "word": "醉驾肇事者无力承担受害家庭医疗费",
+      "onboard_time": 1747492167,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388286,
@@ -649,14 +673,6 @@
       "onboard_time": 1747485623,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362023,
-      "num": 362023,
-      "word": "九旬老人每天穿西装去歌舞厅跳舞",
-      "onboard_time": 1747491867,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357928,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1747440201,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244273,
-      "num": 244273,
-      "word": "醉驾肇事者无力承担受害家庭医疗费",
-      "onboard_time": 1747492167,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243775,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1747488444,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194049,
+      "num": 194049,
+      "word": "你好星期六收视率",
+      "onboard_time": 1747495825,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 193933,
@@ -2003,12 +2019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168358,
+      "num": 284127,
+      "word": "气象部门回应新疆不明飞行物",
+      "onboard_time": 1747495347,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 167396,
       "num": 167396,
       "word": "马吟吟是宋妍霏心里的ABB",
       "onboard_time": 1747456051,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167393,
+      "num": 167393,
+      "word": "汪苏泷在演唱会上gogogo了",
+      "onboard_time": 1747495825,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 167196,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1747414039,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161209,
+      "num": 292933,
+      "word": "男子聚餐醉亡同桌11人被索赔77万",
+      "onboard_time": 1747494927,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161164,
@@ -2467,12 +2507,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140957,
+      "num": 140957,
+      "word": "aespa舞台新闻图",
+      "onboard_time": 1747495946,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140259,
       "num": 243891,
       "word": "3月中国减持189亿美元美债",
       "onboard_time": 1747447172,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140238,
+      "num": 140238,
+      "word": "李晟让张泉灵改变对野心的看法",
+      "onboard_time": 1747495646,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 139899,
@@ -2835,6 +2891,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 119572,
+      "num": 119572,
+      "word": "角田严重事故",
+      "onboard_time": 1747495825,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119508,
       "num": 119508,
       "word": "女子称家中三人吃千层蛋糕后入院",
@@ -3123,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102525,
+      "num": 102525,
+      "word": "美媒说出关税最残酷真相",
+      "onboard_time": 1747496183,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101237,
       "num": 101237,
       "word": "陈楚生回应首场竞演感受",
@@ -3145,6 +3217,14 @@
       "onboard_time": 1747478062,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100018,
+      "num": 100018,
+      "word": "多方回应咖啡店禁止幼童入内",
+      "onboard_time": 1747493487,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99059,
@@ -3243,14 +3323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89610,
-      "num": 135029,
-      "word": "气象部门回应新疆不明飞行物",
-      "onboard_time": 1747495347,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 89387,
       "num": 334446,
       "word": "美国十名囚犯凿墙越狱",
@@ -3328,14 +3400,6 @@
       "word": "2024年平均工资出炉",
       "onboard_time": 1747387582,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81107,
-      "num": 292933,
-      "word": "男子聚餐醉亡同桌11人被索赔77万",
-      "onboard_time": 1747494927,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3857,6 +3921,14 @@
       "onboard_time": 1747466841,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33756,
+      "num": 140538,
+      "word": "老人信主播不信闺女直播间狂下单",
+      "onboard_time": 1747495586,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32670,
