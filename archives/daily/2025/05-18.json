@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747510557197,
+  "endTime": 1747513564255,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -579,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15793,
+      "num": 52526,
+      "word": "门店回应员工脱袜子抠脚",
+      "onboard_time": 1747509615,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15269,
       "num": 23796,
       "word": "中超联赛",
@@ -587,12 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13946,
-      "num": 52526,
-      "word": "门店回应员工脱袜子抠脚",
-      "onboard_time": 1747509615,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 13729,
+      "num": 21674,
+      "word": "你的恋爱",
+      "onboard_time": 1747504097,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10709,
+      "num": 21684,
+      "word": "特朗普抱怨援乌资金不知去向",
+      "onboard_time": 1747513453,
+      "rank": 35,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
