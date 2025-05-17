@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747466559249,
+  "endTime": 1747467374687,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 750266,
+      "num": 1120042,
+      "word": "周思成称刘晓艳编假学历",
+      "onboard_time": 1747463240,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 739638,
       "num": 465182,
       "word": "林志炫 被做局了",
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652023,
+      "num": 652023,
+      "word": "周思成 刘晓燕",
+      "onboard_time": 1747463480,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 647310,
       "num": 647310,
       "word": "沈梦辰妆造必有高人指点",
@@ -163,20 +179,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 641743,
-      "num": 641743,
-      "word": "周思成称刘晓艳编假学历",
-      "onboard_time": 1747463240,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 614369,
       "num": 412442,
       "word": "夏思齐 纤维粒",
       "onboard_time": 1747456590,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 598068,
+      "num": 305705,
+      "word": "小米高速上被撞报废车主质疑智驾",
+      "onboard_time": 1747467022,
+      "rank": 12,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 596592,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449286,
+      "num": 324761,
+      "word": "男子向朋友借30万为赖账撕碎借条",
+      "onboard_time": 1747464742,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
@@ -323,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 357928,
+      "num": 357928,
+      "word": "张小婉拿到了浪姐最多superA",
+      "onboard_time": 1747463181,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355617,
       "num": 205665,
       "word": "表妹万福",
@@ -345,14 +377,6 @@
       "onboard_time": 1747462639,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351737,
-      "num": 351737,
-      "word": "张小婉拿到了浪姐最多superA",
-      "onboard_time": 1747463181,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 351223,
@@ -401,14 +425,6 @@
       "onboard_time": 1747394482,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321793,
-      "num": 321793,
-      "word": "周思成 刘晓燕",
-      "onboard_time": 1747463480,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 321139,
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286127,
+      "num": 286127,
+      "word": "赵磊婚礼花了一两百万",
+      "onboard_time": 1747466661,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282593,
       "num": 282593,
       "word": "教资面试",
@@ -483,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278970,
+      "num": 222481,
+      "word": "种地吧猪事皆宜",
+      "onboard_time": 1747467081,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -497,6 +529,14 @@
       "onboard_time": 1747440081,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 268803,
+      "num": 268803,
+      "word": "种地吧",
+      "onboard_time": 1747459231,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 267649,
@@ -537,6 +577,14 @@
       "onboard_time": 1747406905,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256401,
+      "num": 256401,
+      "word": "我欲乘风 虞书欣",
+      "onboard_time": 1747466182,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 254789,
@@ -587,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226270,
+      "num": 226270,
+      "word": "吴镇宇第一次在演综哭了",
+      "onboard_time": 1747466060,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222783,
       "num": 222783,
       "word": "印度主持人说全世界媒体都在造谣",
       "onboard_time": 1747451910,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222425,
+      "num": 222425,
+      "word": "迪丽热巴一把把白宇薅了回去",
+      "onboard_time": 1747465220,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 218379,
@@ -617,14 +681,6 @@
       "onboard_time": 1747462761,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214167,
-      "num": 324761,
-      "word": "男子向朋友借30万为赖账撕碎借条",
-      "onboard_time": 1747464742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210626,
@@ -715,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205800,
-      "num": 205800,
-      "word": "迪丽热巴一把把白宇薅了回去",
-      "onboard_time": 1747465220,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 203799,
+      "num": 228392,
+      "word": "2人传播涉刘国梁不实信息被罚",
+      "onboard_time": 1747467081,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 203360,
@@ -771,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200183,
+      "num": 200183,
+      "word": "田曦薇海口",
+      "onboard_time": 1747466421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196533,
       "num": 182401,
       "word": "珠玉 跳楼机",
@@ -817,6 +881,14 @@
       "onboard_time": 1747455090,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192362,
+      "num": 192362,
+      "word": "娃衣",
+      "onboard_time": 1747466661,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 191766,
@@ -867,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185819,
-      "num": 185819,
-      "word": "吴镇宇第一次在演综哭了",
-      "onboard_time": 1747466060,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185638,
       "num": 220578,
       "word": "深圳一女子应聘文员被回复太丑了",
@@ -915,6 +979,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178117,
+      "num": 349314,
+      "word": "特朗普访阿联酋获赠一滴石油",
+      "onboard_time": 1747465940,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 177425,
+      "num": 177425,
+      "word": "十个勤天",
+      "onboard_time": 1747462341,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177415,
       "num": 177415,
       "word": "陈楚生回应选歌",
@@ -940,7 +1020,7 @@
     },
     {
       "raw_hot": 173940,
-      "num": 208163,
+      "num": 284906,
       "word": "歌手2025收视第一",
       "onboard_time": 1747465761,
       "rank": 18,
@@ -961,6 +1041,14 @@
       "onboard_time": 1747456350,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168795,
+      "num": 168795,
+      "word": "成毅回应放一个月假上了25节健身课",
+      "onboard_time": 1747467320,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 168598,
@@ -1011,6 +1099,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 163655,
+      "num": 163655,
+      "word": "中国护照免签国家",
+      "onboard_time": 1747464982,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162967,
       "num": 162967,
       "word": "逆水寒手游",
@@ -1049,14 +1145,6 @@
       "onboard_time": 1747460011,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157456,
-      "num": 157456,
-      "word": "中国护照免签国家",
-      "onboard_time": 1747464982,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156903,
@@ -1099,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154337,
-      "num": 154337,
-      "word": "我欲乘风 虞书欣",
-      "onboard_time": 1747466182,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153907,
       "num": 205210,
       "word": "张婧仪说爱是最温柔的语言",
@@ -1131,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153655,
-      "num": 153655,
-      "word": "种地吧",
-      "onboard_time": 1747459231,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151921,
       "num": 151921,
       "word": "李昀锐4000米跑后感",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1747452150,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150150,
+      "num": 150150,
+      "word": "发现减肥真的是良性循环",
+      "onboard_time": 1747467081,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 149775,
@@ -1259,14 +1339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143213,
-      "num": 155487,
-      "word": "特朗普访阿联酋获赠一滴石油",
-      "onboard_time": 1747465940,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142898,
       "num": 181427,
       "word": "耳帝喜欢的三个表演",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1747448071,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139504,
+      "num": 139504,
+      "word": "十个勤天接放学彩排版",
+      "onboard_time": 1747467199,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 139168,
@@ -1385,14 +1465,6 @@
       "onboard_time": 1747459351,
       "rank": 49,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 131144,
-      "num": 131144,
-      "word": "十个勤天",
-      "onboard_time": 1747462341,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 129795,
@@ -1497,14 +1569,6 @@
       "onboard_time": 1747437797,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 121591,
-      "num": 121591,
-      "word": "田曦薇海口",
-      "onboard_time": 1747466421,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 121127,
@@ -1755,6 +1819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85142,
+      "num": 339545,
+      "word": "上海地铁回应老人拖拽小伙要求让座",
+      "onboard_time": 1747466540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84816,
       "num": 84816,
       "word": "北京大风",
@@ -1875,11 +1947,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64807,
-      "num": 144831,
-      "word": "上海地铁回应老人拖拽小伙要求让座",
+      "raw_hot": 63378,
+      "num": 283572,
+      "word": "男子未等审批返乡看病重父亲被开除",
       "onboard_time": 1747466540,
-      "rank": 35,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1987,14 +2059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44446,
-      "num": 145284,
-      "word": "男子未等审批返乡看病重父亲被开除",
-      "onboard_time": 1747466540,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44062,
       "num": 175192,
       "word": "较真饭店反向抹零为2毛钱值不值",
@@ -2051,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36583,
+      "num": 281037,
+      "word": "台飞机发动机空中掀盖",
+      "onboard_time": 1747466602,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35348,
       "num": 126591,
       "word": "无效健身的五大误区",
@@ -2059,12 +2131,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 35206,
+      "num": 286278,
+      "word": "平台回应女子应聘文员被回复太丑了",
+      "onboard_time": 1747466661,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34931,
       "num": 338222,
       "word": "护学岗自愿参与不能变强制摊派",
       "onboard_time": 1747455090,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 33842,
+      "num": 223992,
+      "word": "印巴水资源争端或再升级",
+      "onboard_time": 1747466841,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32670,
@@ -2089,6 +2177,14 @@
       "onboard_time": 1747456290,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30309,
+      "num": 261999,
+      "word": "采蘑菇为什么要先拍一拍",
+      "onboard_time": 1747467081,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 29572,
@@ -2212,15 +2308,15 @@
     },
     {
       "raw_hot": 16508,
-      "num": 206770,
+      "num": 281649,
       "word": "凯尔特人本赛季为何失利",
       "onboard_time": 1747466241,
       "rank": 19,
       "category": "体育"
     },
     {
-      "raw_hot": 13677,
-      "num": 154525,
+      "raw_hot": 15981,
+      "num": 225158,
       "word": "国产抗病毒药物有哪些推荐",
       "onboard_time": 1747465881,
       "rank": 28,
@@ -2233,6 +2329,14 @@
       "onboard_time": 1747430113,
       "rank": 11,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 11657,
+      "num": 178393,
+      "word": "圆球以接近光速飞过会看到什么",
+      "onboard_time": 1747467262,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 11469,
@@ -2252,7 +2356,7 @@
     },
     {
       "raw_hot": 8762,
-      "num": 154409,
+      "num": 164308,
       "word": "非法经营普通药品的认定",
       "onboard_time": 1747464861,
       "rank": 29,
