@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747460458894,
+  "endTime": 1747463582808,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -8,6 +8,22 @@
       "word": "俞灏明王晓晨结婚",
       "onboard_time": 1747438878,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2762229,
+      "num": 2762229,
+      "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+      "onboard_time": 1747460970,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2207002,
+      "num": 229252,
+      "word": "黄杨钿甜房间",
+      "onboard_time": 1747459651,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -67,11 +83,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1149172,
-      "num": 220872,
-      "word": "黄杨钿甜房间",
-      "onboard_time": 1747459651,
-      "rank": 11,
+      "raw_hot": 1121329,
+      "num": 714226,
+      "word": "成毅生日直播",
+      "onboard_time": 1747461031,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -81,6 +97,14 @@
       "onboard_time": 1747453952,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 907141,
+      "num": 907141,
+      "word": "孙杨比潘展乐快了1秒多",
+      "onboard_time": 1747459292,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 905342,
@@ -171,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 534260,
-      "num": 220678,
-      "word": "孙杨比潘展乐快了1秒多",
-      "onboard_time": 1747459292,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 526262,
       "num": 421561,
       "word": "风月不相关女主",
@@ -201,6 +217,14 @@
       "onboard_time": 1747455692,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500238,
+      "num": 500238,
+      "word": "虞书欣蔡敏敏",
+      "onboard_time": 1747460970,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 486900,
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332907,
+      "num": 332907,
+      "word": "金靖问张凌赫吻戏那么多什么感觉",
+      "onboard_time": 1747462581,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329367,
       "num": 408022,
       "word": "14亿中国人挺你",
@@ -369,6 +401,14 @@
       "onboard_time": 1747441950,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290954,
+      "num": 218940,
+      "word": "丁太升说林志炫选了烂歌",
+      "onboard_time": 1747461982,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 289844,
@@ -523,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221491,
+      "num": 221491,
+      "word": "中德混血一家四口掌握多种语言",
+      "onboard_time": 1747462639,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "成毅35岁生日照",
@@ -537,6 +585,14 @@
       "onboard_time": 1747452631,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216227,
+      "num": 216227,
+      "word": "杜海涛变的是身材不变的是身份",
+      "onboard_time": 1747462761,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 210626,
@@ -569,6 +625,14 @@
       "onboard_time": 1747452990,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207645,
+      "num": 232220,
+      "word": "朱雀二号改进型遥二运载火箭成功发射",
+      "onboard_time": 1747459111,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207594,
@@ -771,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181457,
+      "num": 181457,
+      "word": "陈楚生一脸不可思议",
+      "onboard_time": 1747458744,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181397,
       "num": 181397,
       "word": "第五人格",
@@ -827,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167008,
+      "num": 167008,
+      "word": "五哈",
+      "onboard_time": 1747462223,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165388,
       "num": 183007,
       "word": "折腰盾哥开口就是弹幕",
@@ -849,6 +929,14 @@
       "onboard_time": 1747457911,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162725,
+      "num": 162725,
+      "word": "张小婉拿到了浪姐最多superA",
+      "onboard_time": 1747463181,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 162646,
@@ -881,6 +969,14 @@
       "onboard_time": 1747460011,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157087,
+      "num": 157087,
+      "word": "周思成称刘晓艳编假学历",
+      "onboard_time": 1747463240,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 156903,
@@ -963,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150878,
+      "num": 165763,
+      "word": "丁太升大赞单依纯",
+      "onboard_time": 1747461982,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150452,
       "num": 176769,
       "word": "唐嫣高圆圆戛纳G社生图",
@@ -1019,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144276,
-      "num": 144276,
-      "word": "陈楚生一脸不可思议",
-      "onboard_time": 1747458744,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143652,
       "num": 143652,
       "word": "五十公里桃花坞先导片开播",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1747456891,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141137,
+      "num": 211662,
+      "word": "女子被医院强制带走治疗医生被停职",
+      "onboard_time": 1747461322,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140259,
@@ -1259,6 +1363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 120570,
+      "num": 120570,
+      "word": "盒马三明治",
+      "onboard_time": 1747461380,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120235,
       "num": 120235,
       "word": "1岁10个月的宝宝自己泡夜奶",
@@ -1273,6 +1385,14 @@
       "onboard_time": 1747428554,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119210,
+      "num": 119210,
+      "word": "美国拔三颗智齿报价9600美元",
+      "onboard_time": 1747461031,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118027,
@@ -1297,6 +1417,14 @@
       "onboard_time": 1747401383,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116247,
+      "num": 116247,
+      "word": "原来三千年前就有假肢了",
+      "onboard_time": 1747461261,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 115709,
@@ -1339,12 +1467,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113618,
+      "num": 113618,
+      "word": "十个勤天",
+      "onboard_time": 1747462341,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113272,
+      "num": 113272,
+      "word": "孙颖莎王楚钦等出战世乒赛",
+      "onboard_time": 1747459951,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112802,
       "num": 216044,
       "word": "范丞丞包场张婧仪独一无二",
       "onboard_time": 1747458811,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112351,
+      "num": 112351,
+      "word": "周思成 刘晓燕",
+      "onboard_time": 1747463480,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 110060,
@@ -1403,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101777,
+      "num": 120759,
+      "word": "官方通报女子被医院强制带走治疗",
+      "onboard_time": 1747463302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100921,
       "num": 182924,
       "word": "男子质疑妻子两个孩子1天100不够吗",
@@ -1449,14 +1609,6 @@
       "onboard_time": 1747451910,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86549,
-      "num": 179225,
-      "word": "朱雀二号改进型遥二运载火箭成功发射",
-      "onboard_time": 1747459111,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85274,
@@ -1659,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49372,
+      "num": 221183,
+      "word": "家有儿女播出20年了",
+      "onboard_time": 1747462101,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49186,
       "num": 180949,
       "word": "俄乌在土耳其谈判已开始",
@@ -1676,7 +1836,7 @@
     },
     {
       "raw_hot": 45212,
-      "num": 569448,
+      "num": 765391,
       "word": "国家网络身份认证App保护信息安全",
       "onboard_time": 1747455751,
       "rank": 2,
@@ -1699,20 +1859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41818,
+      "num": 220252,
+      "word": "张凌赫人间Gucci",
+      "onboard_time": 1747459529,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41653,
       "num": 57135,
       "word": "一人一句欢迎国宝回家",
       "onboard_time": 1747417935,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41437,
-      "num": 220252,
-      "word": "张凌赫人间Gucci",
-      "onboard_time": 1747459529,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 40962,
@@ -1763,12 +1923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29572,
+      "num": 217219,
+      "word": "KFC的相机去哪里能买到",
+      "onboard_time": 1747462581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
       "onboard_time": 1747422194,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28571,
+      "num": 216826,
+      "word": "湖南怀化舞水河现大量死鱼",
+      "onboard_time": 1747462941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28501,
@@ -1785,6 +1961,14 @@
       "onboard_time": 1747420816,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27555,
+      "num": 165066,
+      "word": "景德镇瓷器线上销售侵权乱象频现",
+      "onboard_time": 1747462820,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26944,
@@ -1811,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23163,
+      "num": 121613,
+      "word": "波尔津吉斯下赛季会离开凯尔特人吗",
+      "onboard_time": 1747463480,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20906,
       "num": 147448,
       "word": "上官正义报平安",
@@ -1825,6 +2017,14 @@
       "onboard_time": 1747459891,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 20209,
+      "num": 165192,
+      "word": "教资结构化时政6大模板",
+      "onboard_time": 1747463421,
+      "rank": 28,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 19741,

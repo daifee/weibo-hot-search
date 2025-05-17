@@ -1,0 +1,410 @@
+{
+  "runTime": 1747463582808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2762229,
+        "num": 2762229,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 907141,
+        "num": 907141,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25446,
+        "num": 765391,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1121329,
+        "num": 714226,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634578,
+        "num": 634578,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 500238,
+        "num": 500238,
+        "word": "虞书欣蔡敏敏",
+        "onboard_time": 1747460970,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332907,
+        "num": 332907,
+        "word": "金靖问张凌赫吻戏那么多什么感觉",
+        "onboard_time": 1747462581,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317857,
+        "num": 317857,
+        "word": "长沙别墅非法代孕涉事医生到案",
+        "onboard_time": 1747453952,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233939,
+        "num": 233939,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207645,
+        "num": 232220,
+        "word": "朱雀二号改进型遥二运载火箭成功发射",
+        "onboard_time": 1747459111,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2207002,
+        "num": 229252,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782078,
+        "num": 226771,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573924,
+        "num": 223262,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221491,
+        "num": 221491,
+        "word": "中德混血一家四口掌握多种语言",
+        "onboard_time": 1747462639,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49372,
+        "num": 221183,
+        "word": "家有儿女播出20年了",
+        "onboard_time": 1747462101,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363394,
+        "num": 219993,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290954,
+        "num": 218940,
+        "word": "丁太升说林志炫选了烂歌",
+        "onboard_time": 1747461982,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41818,
+        "num": 218357,
+        "word": "张凌赫人间Gucci",
+        "onboard_time": 1747459529,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29572,
+        "num": 217219,
+        "word": "KFC的相机去哪里能买到",
+        "onboard_time": 1747462581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28571,
+        "num": 216826,
+        "word": "湖南怀化舞水河现大量死鱼",
+        "onboard_time": 1747462941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216227,
+        "num": 216227,
+        "word": "杜海涛变的是身材不变的是身份",
+        "onboard_time": 1747462761,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141137,
+        "num": 211662,
+        "word": "女子被医院强制带走治疗医生被停职",
+        "onboard_time": 1747461322,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207504,
+        "num": 207504,
+        "word": "沈梦辰妆造必有高人指点",
+        "onboard_time": 1747453771,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187019,
+        "num": 187019,
+        "word": "赵磊婚礼r1seX玖团舞",
+        "onboard_time": 1747452752,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181457,
+        "num": 181457,
+        "word": "陈楚生一脸不可思议",
+        "onboard_time": 1747458744,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168036,
+        "num": 168036,
+        "word": "情侣间的引导性送礼方式",
+        "onboard_time": 1747460069,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 167008,
+        "word": "五哈",
+        "onboard_time": 1747462223,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150878,
+        "num": 165763,
+        "word": "丁太升大赞单依纯",
+        "onboard_time": 1747461982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20209,
+        "num": 165192,
+        "word": "教资结构化时政6大模板",
+        "onboard_time": 1747463421,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 27555,
+        "num": 165066,
+        "word": "景德镇瓷器线上销售侵权乱象频现",
+        "onboard_time": 1747462820,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165066,
+        "num": 165065,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162725,
+        "num": 162725,
+        "word": "张小婉拿到了浪姐最多superA",
+        "onboard_time": 1747463181,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 157087,
+        "word": "周思成称刘晓艳编假学历",
+        "onboard_time": 1747463240,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138585,
+        "num": 138585,
+        "word": "风月不相关女主",
+        "onboard_time": 1747453111,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138031,
+        "num": 138031,
+        "word": "当女生到了洗头的那天",
+        "onboard_time": 1747453952,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136384,
+        "num": 136384,
+        "word": "美国加州50多只鸟空中爆炸",
+        "onboard_time": 1747455991,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131440,
+        "num": 131440,
+        "word": "纤维粒晒夏思齐聊天记录",
+        "onboard_time": 1747441160,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127480,
+        "num": 127480,
+        "word": "机构把代孕者美化成志愿者",
+        "onboard_time": 1747455511,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23163,
+        "num": 121613,
+        "word": "波尔津吉斯下赛季会离开凯尔特人吗",
+        "onboard_time": 1747463480,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101777,
+        "num": 120759,
+        "word": "官方通报女子被医院强制带走治疗",
+        "onboard_time": 1747463302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120570,
+        "num": 120570,
+        "word": "盒马三明治",
+        "onboard_time": 1747461380,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119835,
+        "num": 119835,
+        "word": "文俊辉gemini",
+        "onboard_time": 1747460011,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119210,
+        "num": 119210,
+        "word": "美国拔三颗智齿报价9600美元",
+        "onboard_time": 1747461031,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116247,
+        "num": 116247,
+        "word": "原来三千年前就有假肢了",
+        "onboard_time": 1747461261,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113618,
+        "num": 113618,
+        "word": "十个勤天",
+        "onboard_time": 1747462341,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113272,
+        "num": 113272,
+        "word": "孙颖莎王楚钦等出战世乒赛",
+        "onboard_time": 1747459951,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112351,
+        "num": 112351,
+        "word": "周思成 刘晓燕",
+        "onboard_time": 1747463480,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112219,
+        "num": 112219,
+        "word": "官方通报潮汕豪宅英之园将强拆",
+        "onboard_time": 1747441340,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108322,
+        "num": 108322,
+        "word": "美计划将100万巴勒斯坦人迁往利比亚",
+        "onboard_time": 1747453111,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105720,
+        "num": 105720,
+        "word": "五十公里桃花坞先导片开播",
+        "onboard_time": 1747457790,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#残疾人事业需要大家一起托举#"
+    }
+  }
+}
