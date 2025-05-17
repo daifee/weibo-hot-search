@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747502449284,
+  "endTime": 1747503539587,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -35,20 +35,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643945,
+      "num": 178359,
+      "word": "离婚已3年男子喊话前妻求放过",
+      "onboard_time": 1747501519,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606986,
       "num": 310077,
       "word": "黄杨钿甜耳环事件当以事实定真伪",
       "onboard_time": 1747482141,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 590842,
-      "num": 178359,
-      "word": "离婚已3年男子喊话前妻求放过",
-      "onboard_time": 1747501519,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 500948,
@@ -75,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407549,
-      "num": 407549,
+      "raw_hot": 415940,
+      "num": 415940,
       "word": "贺峻霖全国1460名的游走原来长这样",
       "onboard_time": 1747500020,
       "rank": 30,
@@ -139,12 +139,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223385,
+      "num": 223385,
+      "word": "美国女子四度抗癌成功却意外被射杀",
+      "onboard_time": 1747501578,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "哪吒之魔童闹海票房破154亿",
       "onboard_time": 1747484904,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206175,
+      "num": 157425,
+      "word": "王楚钦11比2纳雷什",
+      "onboard_time": 1747502658,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203148,
+      "num": 203148,
+      "word": "汪苏泷太顶了",
+      "onboard_time": 1747499540,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 202733,
@@ -219,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150458,
-      "num": 150458,
-      "word": "汪苏泷太顶了",
-      "onboard_time": 1747499540,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149037,
       "num": 149037,
       "word": "多方回应咖啡店禁止幼童入内",
@@ -291,6 +307,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 119579,
+      "num": 119579,
+      "word": "王楚钦4比0纳雷什",
+      "onboard_time": 1747503201,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119128,
       "num": 119128,
       "word": "于适音乐节人气",
@@ -299,19 +323,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117421,
+      "num": 73135,
+      "word": "王楚钦11比6纳雷什",
+      "onboard_time": 1747502658,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
       "onboard_time": 1747494207,
       "rank": 34,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104055,
-      "num": 160176,
-      "word": "美国女子四度抗癌成功却意外被射杀",
-      "onboard_time": 1747501578,
-      "rank": 16,
       "category": "海外新闻"
     },
     {
@@ -337,6 +361,14 @@
       "onboard_time": 1747491867,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99489,
+      "num": 73057,
+      "word": "王楚钦11比4纳雷什",
+      "onboard_time": 1747502658,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 98209,
@@ -451,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55747,
-      "num": 55747,
+      "raw_hot": 59174,
+      "num": 59174,
       "word": "许嵩演唱会被惊喜庆生的反应",
       "onboard_time": 1747500620,
       "rank": 43,
