@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747451566525,
+  "endTime": 1747452472306,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1484576,
+      "num": 1340193,
+      "word": "高校回应生理期请病假要脱裤证明",
+      "onboard_time": 1747448971,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1454059,
       "num": 1270250,
       "word": "歌手排名 我被资本做局了",
@@ -35,20 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1359082,
-      "num": 275247,
+      "raw_hot": 1422621,
+      "num": 287039,
       "word": "俞灏明前任",
       "onboard_time": 1747450112,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1340193,
-      "num": 1340193,
-      "word": "高校回应生理期请病假要脱裤证明",
-      "onboard_time": 1747448971,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 905342,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 766581,
-      "num": 275878,
+      "num": 279176,
       "word": "撕拉片笑话",
       "onboard_time": 1747444832,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449270,
+      "num": 317375,
+      "word": "风月不相关开机",
+      "onboard_time": 1747450951,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 401151,
-      "num": 313778,
+      "num": 315152,
       "word": "石原里美二胎出生",
       "onboard_time": 1747447831,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392222,
+      "num": 392222,
+      "word": "官方通报潮汕豪宅英之园将强拆",
+      "onboard_time": 1747441340,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 387217,
@@ -227,14 +243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 317628,
-      "num": 317628,
-      "word": "官方通报潮汕豪宅英之园将强拆",
-      "onboard_time": 1747441340,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 312348,
       "num": 185810,
       "word": "黄杨爸爸说耳环不是正品",
@@ -249,6 +257,14 @@
       "onboard_time": 1747441950,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292109,
+      "num": 292109,
+      "word": "汪顺孙杨潘展乐将同场对决",
+      "onboard_time": 1747450590,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 289844,
@@ -315,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254789,
+      "num": 254789,
+      "word": "初级会计考试",
+      "onboard_time": 1747446930,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253357,
       "num": 835245,
       "word": "男子失踪7年找到时正躺桥洞玩手机",
       "onboard_time": 1747409543,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245307,
+      "num": 245307,
+      "word": "恋与深空主线新篇章",
+      "onboard_time": 1747451791,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 244699,
@@ -347,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223924,
-      "num": 223924,
-      "word": "风月不相关开机",
-      "onboard_time": 1747450951,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218379,
       "num": 218379,
       "word": "成毅35岁生日照",
@@ -363,28 +387,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 211130,
-      "num": 211130,
-      "word": "初级会计考试",
-      "onboard_time": 1747446930,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 210294,
       "num": 281515,
       "word": "中国空间站发现微生物新物种",
       "onboard_time": 1747438939,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209419,
-      "num": 209419,
-      "word": "汪顺孙杨潘展乐将同场对决",
-      "onboard_time": 1747450590,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 208632,
@@ -409,6 +417,14 @@
       "onboard_time": 1747441160,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 201101,
+      "num": 201101,
+      "word": "高洁丝 宁艺卓",
+      "onboard_time": 1747451910,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 200426,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181397,
+      "num": 181397,
+      "word": "第五人格",
+      "onboard_time": 1747452210,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176300,
       "num": 176300,
       "word": "苏敏阿姨走到了戛纳红毯",
@@ -539,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161121,
+      "num": 161121,
+      "word": "马吟吟选人",
+      "onboard_time": 1747448431,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156903,
       "num": 181834,
       "word": "刘宇宁 顺眼",
@@ -552,6 +584,14 @@
       "word": "折腰",
       "onboard_time": 1747447709,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156117,
+      "num": 156117,
+      "word": "优酷给藏海传的排面",
+      "onboard_time": 1747452150,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145066,
-      "num": 145066,
-      "word": "马吟吟选人",
-      "onboard_time": 1747448431,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143321,
       "num": 181468,
       "word": "汪苏泷为歌手2025加油",
@@ -625,6 +657,14 @@
       "onboard_time": 1747413382,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141232,
+      "num": 141232,
+      "word": "唐嫣高圆圆戛纳G社生图",
+      "onboard_time": 1747452150,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 140259,
@@ -649,6 +689,14 @@
       "onboard_time": 1747448071,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139300,
+      "num": 139300,
+      "word": "印度主持人说全世界媒体都在造谣",
+      "onboard_time": 1747451910,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139168,
@@ -683,6 +731,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130890,
+      "num": 130890,
+      "word": "每天一杯咖啡会影响健康吗",
+      "onboard_time": 1747451611,
+      "rank": 36,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 129795,
+      "num": 277896,
+      "word": "湖南双牌发生交通事故2教师身亡",
+      "onboard_time": 1747442852,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128549,
       "num": 128549,
       "word": "多哈国乒无奥运会单打冠军参战",
@@ -697,14 +761,6 @@
       "onboard_time": 1747448610,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127964,
-      "num": 277896,
-      "word": "湖南双牌发生交通事故2教师身亡",
-      "onboard_time": 1747442852,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126803,
@@ -729,6 +785,14 @@
       "onboard_time": 1747390161,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122655,
+      "num": 122655,
+      "word": "白月光回国后我成了她上司",
+      "onboard_time": 1747452150,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122202,
@@ -777,6 +841,14 @@
       "onboard_time": 1747385422,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116305,
+      "num": 116305,
+      "word": "倪虹洁邓萃雯是在cos结界兽吗",
+      "onboard_time": 1747452390,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116254,
@@ -835,12 +907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108798,
+      "num": 108798,
+      "word": "胖东来发布回复说明",
+      "onboard_time": 1747452450,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107592,
       "num": 107592,
       "word": "探访违建豪宅英之园",
       "onboard_time": 1747449510,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105732,
+      "num": 105732,
+      "word": "宁艺卓杂志",
+      "onboard_time": 1747452450,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 104835,
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60379,
+      "num": 246860,
+      "word": "科技发展离不开每一个为什么",
+      "onboard_time": 1747452150,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58819,
       "num": 65573,
       "word": "孟子义跑完马拉松累到认错人",
@@ -1059,6 +1155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30340,
+      "num": 520913,
+      "word": "残疾人事业是春天的事业",
+      "onboard_time": 1747451311,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
@@ -1083,20 +1187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23945,
+      "num": 126394,
+      "word": "如何应对长期工作带来的麻木",
+      "onboard_time": 1747449690,
+      "rank": 39,
+      "category": "议题讨论,民生新闻"
+    },
+    {
       "raw_hot": 19741,
       "num": 31276,
       "word": "纳指结束六连涨",
       "onboard_time": 1747435036,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 17696,
-      "num": 125759,
-      "word": "如何应对长期工作带来的麻木",
-      "onboard_time": 1747449690,
-      "rank": 39,
-      "category": "议题讨论,民生新闻"
     },
     {
       "raw_hot": 12597,
@@ -1112,14 +1216,6 @@
       "word": "祝贺蔡磊获评全国自强模范",
       "onboard_time": 1747427715,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9325,
-      "num": 520913,
-      "word": "残疾人事业是春天的事业",
-      "onboard_time": 1747451311,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
