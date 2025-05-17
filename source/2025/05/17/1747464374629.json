@@ -1,0 +1,410 @@
+{
+  "runTime": 1747464374629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2475571,
+        "num": 2475571,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 895864,
+        "num": 895864,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25971,
+        "num": 830950,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795699,
+        "num": 795699,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561308,
+        "num": 561308,
+        "word": "金靖问张凌赫吻戏那么多什么感觉",
+        "onboard_time": 1747462581,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546910,
+        "num": 546910,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445343,
+        "num": 445343,
+        "word": "虞书欣蔡敏敏",
+        "onboard_time": 1747460970,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353564,
+        "num": 353564,
+        "word": "中德混血一家四口掌握多种语言",
+        "onboard_time": 1747462639,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199594,
+        "num": 352373,
+        "word": "朱雀二号改进型遥二运载火箭成功发射",
+        "onboard_time": 1747459111,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96566,
+        "num": 350426,
+        "word": "官方通报女子被医院强制带走治疗",
+        "onboard_time": 1747463302,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1899182,
+        "num": 348741,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641352,
+        "num": 345294,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511473,
+        "num": 343073,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362960,
+        "num": 341313,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339676,
+        "num": 339676,
+        "word": "周思成称刘晓艳编假学历",
+        "onboard_time": 1747463240,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297221,
+        "num": 297221,
+        "word": "丁太升说林志炫选了烂歌",
+        "onboard_time": 1747461982,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290414,
+        "num": 290414,
+        "word": "长沙别墅非法代孕涉事医生到案",
+        "onboard_time": 1747453952,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213350,
+        "num": 213350,
+        "word": "张小婉拿到了浪姐最多superA",
+        "onboard_time": 1747463181,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14853,
+        "num": 193126,
+        "word": "波尔津吉斯下赛季会离开凯尔特人吗",
+        "onboard_time": 1747463480,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37079,
+        "num": 193031,
+        "word": "湖南怀化舞水河现大量死鱼",
+        "onboard_time": 1747462941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192967,
+        "num": 192967,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179932,
+        "num": 179932,
+        "word": "赵磊婚礼r1seX玖团舞",
+        "onboard_time": 1747452752,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177415,
+        "num": 177415,
+        "word": "陈楚生回应选歌",
+        "onboard_time": 1747463840,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168598,
+        "num": 168598,
+        "word": "孟子义抢了董思成的桃花币",
+        "onboard_time": 1747463960,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149667,
+        "num": 149667,
+        "word": "女子被医院强制带走治疗医生被停职",
+        "onboard_time": 1747461322,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147419,
+        "num": 147419,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104639,
+        "num": 147334,
+        "word": "孙颖莎王楚钦等出战世乒赛",
+        "onboard_time": 1747459951,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169263,
+        "num": 147024,
+        "word": "陈楚生一脸不可思议",
+        "onboard_time": 1747458744,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22923,
+        "num": 146960,
+        "word": "景德镇瓷器线上销售侵权乱象频现",
+        "onboard_time": 1747462820,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18306,
+        "num": 146717,
+        "word": "教资结构化时政6大模板",
+        "onboard_time": 1747463421,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "杜海涛变的是身材不变的是身份",
+        "onboard_time": 1747462761,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140576,
+        "num": 140576,
+        "word": "沈梦辰妆造必有高人指点",
+        "onboard_time": 1747453771,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140241,
+        "num": 140241,
+        "word": "情侣间的引导性送礼方式",
+        "onboard_time": 1747460069,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105374,
+        "num": 132269,
+        "word": "丁太升大赞单依纯",
+        "onboard_time": 1747461982,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131194,
+        "num": 131194,
+        "word": "文俊辉gemini",
+        "onboard_time": 1747460011,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "十个勤天",
+        "onboard_time": 1747462341,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131073,
+        "num": 131073,
+        "word": "风月不相关女主",
+        "onboard_time": 1747453111,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127680,
+        "num": 127680,
+        "word": "当女生到了洗头的那天",
+        "onboard_time": 1747453952,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126994,
+        "num": 126994,
+        "word": "周思成 刘晓燕",
+        "onboard_time": 1747463480,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35348,
+        "num": 126591,
+        "word": "无效健身的五大误区",
+        "onboard_time": 1747464141,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126420,
+        "num": 126420,
+        "word": "纤维粒晒夏思齐聊天记录",
+        "onboard_time": 1747441160,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125478,
+        "num": 125478,
+        "word": "有人一开口就是付费的感觉",
+        "onboard_time": 1747463122,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124182,
+        "num": 124182,
+        "word": "美国拔三颗智齿报价9600美元",
+        "onboard_time": 1747461031,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120271,
+        "num": 120271,
+        "word": "五哈",
+        "onboard_time": 1747462223,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119066,
+        "num": 119066,
+        "word": "盒马三明治",
+        "onboard_time": 1747461380,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119935,
+        "num": 116904,
+        "word": "美国加州50多只鸟空中爆炸",
+        "onboard_time": 1747455991,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107535,
+        "num": 107535,
+        "word": "张雨霏直言抢票难",
+        "onboard_time": 1747464080,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101147,
+        "num": 101147,
+        "word": "官方通报潮汕豪宅英之园将强拆",
+        "onboard_time": 1747441340,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97857,
+        "num": 97857,
+        "word": "美计划将100万巴勒斯坦人迁往利比亚",
+        "onboard_time": 1747453111,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94423,
+        "num": 94423,
+        "word": "五十公里桃花坞先导片开播",
+        "onboard_time": 1747457790,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#残疾人是推进中国式现代化的重要力量#"
+    }
+  }
+}
