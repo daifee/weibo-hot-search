@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747500362072,
+  "endTime": 1747502449284,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590842,
+      "num": 178359,
+      "word": "离婚已3年男子喊话前妻求放过",
+      "onboard_time": 1747501519,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500948,
       "num": 500948,
       "word": "今年的女装 丑",
@@ -65,6 +73,14 @@
       "onboard_time": 1747487423,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407549,
+      "num": 407549,
+      "word": "贺峻霖全国1460名的游走原来长这样",
+      "onboard_time": 1747500020,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 385479,
@@ -163,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178031,
-      "num": 178031,
+      "raw_hot": 183393,
+      "num": 183393,
       "word": "美媒说出关税最残酷真相",
       "onboard_time": 1747496183,
       "rank": 18,
@@ -201,6 +217,14 @@
       "onboard_time": 1747492167,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150458,
+      "num": 150458,
+      "word": "汪苏泷太顶了",
+      "onboard_time": 1747499540,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 149037,
@@ -275,27 +299,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110880,
-      "num": 110880,
-      "word": "贺峻霖全国1460名的游走原来长这样",
-      "onboard_time": 1747500020,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 108437,
-      "num": 108437,
-      "word": "汪苏泷太顶了",
-      "onboard_time": 1747499540,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
       "onboard_time": 1747494207,
       "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104055,
+      "num": 160176,
+      "word": "美国女子四度抗癌成功却意外被射杀",
+      "onboard_time": 1747501578,
+      "rank": 16,
       "category": "海外新闻"
     },
     {
@@ -419,12 +435,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67112,
+      "num": 67112,
+      "word": "汪苏泷银河星尘造型好绝",
+      "onboard_time": 1747501578,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61322,
       "num": 80555,
       "word": "这个减肥筷我是真的想要",
       "onboard_time": 1747499362,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55747,
+      "num": 55747,
+      "word": "许嵩演唱会被惊喜庆生的反应",
+      "onboard_time": 1747500620,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 26924,
