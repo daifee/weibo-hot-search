@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747506738276,
+  "endTime": 1747507538092,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -131,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238756,
+      "num": 238756,
+      "word": "美国女子四度抗癌成功却意外被射杀",
+      "onboard_time": 1747501578,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 233045,
       "num": 171245,
       "word": "女子称洗澡时从香皂中洗出金币",
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224539,
-      "num": 224539,
-      "word": "美国女子四度抗癌成功却意外被射杀",
-      "onboard_time": 1747501578,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 213616,
@@ -491,7 +491,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30966,
+      "raw_hot": 35073,
       "num": 55843,
       "word": "我被大麦做局了",
       "onboard_time": 1747505597,
@@ -523,7 +523,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24161,
+      "raw_hot": 26277,
       "num": 55419,
       "word": "严浩翔个人直拍发布",
       "onboard_time": 1747506617,
@@ -531,12 +531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23919,
+      "raw_hot": 25143,
       "num": 55396,
       "word": "卓沅明天见喽",
       "onboard_time": 1747506676,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23764,
+      "num": 32949,
+      "word": "汪苏泷说南昌是热辣的英雄城市",
+      "onboard_time": 1747507396,
+      "rank": 46,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
