@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747521611235,
+  "endTime": 1747524207440,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -27,19 +27,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 786116,
-      "num": 786116,
-      "word": "新疆多地上空出现不明飞行物",
-      "onboard_time": 1747493787,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 643945,
+      "raw_hot": 835664,
       "num": 178359,
       "word": "离婚已3年男子喊话前妻求放过",
       "onboard_time": 1747501519,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 786116,
+      "num": 795634,
+      "word": "新疆多地上空出现不明飞行物",
+      "onboard_time": 1747493787,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -131,12 +131,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 238756,
-      "num": 238756,
+      "raw_hot": 252740,
+      "num": 252740,
       "word": "美国女子四度抗癌成功却意外被射杀",
       "onboard_time": 1747501578,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 244781,
+      "num": 244781,
+      "word": "王楚钦鹰眼挑战成功",
+      "onboard_time": 1747522996,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 233045,
@@ -241,6 +249,14 @@
       "onboard_time": 1747492167,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156343,
+      "num": 156343,
+      "word": "艾米拍照时把项链摘了",
+      "onboard_time": 1747523957,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 149037,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87750,
+      "num": 87750,
+      "word": "魏劭小乔醉酒抱",
+      "onboard_time": 1747517594,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86962,
       "num": 86962,
       "word": "张远巡演官宣上天赐",
@@ -433,6 +457,14 @@
       "onboard_time": 1747496843,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79331,
+      "num": 79331,
+      "word": "1岁11个月自律宝宝的一天",
+      "onboard_time": 1747519455,
+      "rank": 37,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 79253,
@@ -499,12 +531,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40057,
-      "num": 40057,
-      "word": "魏劭小乔醉酒抱",
-      "onboard_time": 1747517594,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 45609,
+      "num": 45609,
+      "word": "驴友溺亡家属向21名队友索赔86万",
+      "onboard_time": 1747523537,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43911,
+      "num": 52526,
+      "word": "门店回应员工脱袜子抠脚",
+      "onboard_time": 1747509615,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40619,
+      "num": 159629,
+      "word": "王楚钦回应首秀开门红",
+      "onboard_time": 1747523116,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 35073,
@@ -515,12 +563,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34599,
-      "num": 34599,
-      "word": "1岁11个月自律宝宝的一天",
-      "onboard_time": 1747519455,
-      "rank": 37,
-      "category": "母婴育儿"
+      "raw_hot": 35002,
+      "num": 34357,
+      "word": "周也戛纳首秀造型",
+      "onboard_time": 1747523957,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32552,
+      "num": 32552,
+      "word": "多方回应驴友溺亡家属向队友索赔86万",
+      "onboard_time": 1747523537,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29441,
+      "num": 35266,
+      "word": "文化中国行看文物里的绝美配色",
+      "onboard_time": 1747524197,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27512,
@@ -561,14 +625,6 @@
       "onboard_time": 1747506676,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23842,
-      "num": 52526,
-      "word": "门店回应员工脱袜子抠脚",
-      "onboard_time": 1747509615,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23764,
@@ -625,6 +681,14 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16257,
+      "num": 84612,
+      "word": "王楚钦示意闪光灯干扰",
+      "onboard_time": 1747523957,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 15269,
