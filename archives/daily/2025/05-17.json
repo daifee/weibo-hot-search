@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747456159486,
+  "endTime": 1747457011835,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1722292,
-      "num": 347308,
+      "num": 413848,
       "word": "俞灏明前任",
       "onboard_time": 1747450112,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1410368,
+      "num": 1410368,
+      "word": "KFC相机",
+      "onboard_time": 1747454490,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 905342,
       "num": 490491,
       "word": "单依纯太牛了",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 766581,
-      "num": 346224,
+      "num": 413262,
       "word": "撕拉片笑话",
       "onboard_time": 1747444832,
       "rank": 10,
@@ -91,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647310,
+      "num": 647310,
+      "word": "沈梦辰妆造必有高人指点",
+      "onboard_time": 1747453771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 644662,
       "num": 644662,
       "word": "官方通报潮汕豪宅英之园将强拆",
       "onboard_time": 1747441340,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 628636,
-      "num": 1100581,
-      "word": "KFC相机",
-      "onboard_time": 1747454490,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 596592,
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 538450,
-      "num": 538450,
-      "word": "沈梦辰妆造必有高人指点",
-      "onboard_time": 1747453771,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 526262,
+      "num": 421561,
+      "word": "风月不相关女主",
+      "onboard_time": 1747453111,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 520156,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510135,
+      "num": 413832,
+      "word": "孟子义律师声明",
+      "onboard_time": 1747455692,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486900,
       "num": 288421,
       "word": "超绝腰臀比",
@@ -155,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 484543,
-      "num": 352496,
-      "word": "风月不相关女主",
-      "onboard_time": 1747453111,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 475385,
+      "num": 412763,
+      "word": "赵磊婚礼r1seX玖团舞",
+      "onboard_time": 1747452752,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 463728,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460546,
+      "num": 412442,
+      "word": "夏思齐 纤维粒",
+      "onboard_time": 1747456590,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 432127,
       "num": 237382,
       "word": "新冠再来袭",
@@ -179,12 +203,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427863,
-      "num": 329901,
-      "word": "赵磊婚礼r1seX玖团舞",
-      "onboard_time": 1747452752,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 422957,
+      "num": 422957,
+      "word": "长沙别墅非法代孕涉事医生到案",
+      "onboard_time": 1747453952,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415741,
+      "num": 415741,
+      "word": "美计划将100万巴勒斯坦人迁往利比亚",
+      "onboard_time": 1747453111,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 413786,
+      "num": 413786,
+      "word": "创业失败负债百万女子靠扛楼还债",
+      "onboard_time": 1747444293,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 410952,
+      "num": 410952,
+      "word": "当女生到了洗头的那天",
+      "onboard_time": 1747453952,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 401151,
@@ -193,14 +241,6 @@
       "onboard_time": 1747447831,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387217,
-      "num": 387217,
-      "word": "创业失败负债百万女子靠扛楼还债",
-      "onboard_time": 1747444293,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 379109,
@@ -217,14 +257,6 @@
       "onboard_time": 1747451791,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 363047,
-      "num": 311869,
-      "word": "当女生到了洗头的那天",
-      "onboard_time": 1747453952,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 355617,
@@ -249,14 +281,6 @@
       "onboard_time": 1747445373,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 349945,
-      "num": 349945,
-      "word": "美计划将100万巴勒斯坦人迁往利比亚",
-      "onboard_time": 1747453111,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 348801,
@@ -355,14 +379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274816,
-      "num": 274816,
-      "word": "长沙别墅非法代孕涉事医生到案",
-      "onboard_time": 1747453952,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 273732,
       "num": 273732,
       "word": "20多个台湾艺人被民进党当局威胁",
@@ -387,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265256,
+      "num": 243184,
+      "word": "美国加州50多只鸟空中爆炸",
+      "onboard_time": 1747455991,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 263290,
-      "num": 263290,
+      "num": 285825,
       "word": "二皇子是你吗",
       "onboard_time": 1747454611,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262501,
+      "num": 262727,
+      "word": "纤维粒晒夏思齐聊天记录",
+      "onboard_time": 1747441160,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 262371,
@@ -401,14 +433,6 @@
       "onboard_time": 1747406905,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261392,
-      "num": 261392,
-      "word": "孟子义律师声明",
-      "onboard_time": 1747455692,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 254789,
@@ -433,14 +457,6 @@
       "onboard_time": 1747440201,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244249,
-      "num": 262727,
-      "word": "纤维粒晒夏思齐聊天记录",
-      "onboard_time": 1747441160,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 232355,
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210626,
+      "num": 210626,
+      "word": "恋与深空撕拉片",
+      "onboard_time": 1747456110,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210294,
       "num": 281515,
       "word": "中国空间站发现微生物新物种",
@@ -515,12 +539,44 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 207272,
+      "num": 244157,
+      "word": "俞灏明王晓晨因合作惩戒者结缘",
+      "onboard_time": 1747447831,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206848,
+      "num": 283405,
+      "word": "雀巢咖啡向丁禹兮和粉丝道歉",
+      "onboard_time": 1747456110,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206622,
       "num": 221346,
       "word": "河南一医院被曝疑用手铐控制一女子",
       "onboard_time": 1747406786,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206286,
+      "num": 280076,
+      "word": "中年人爱情玩得这么野吗",
+      "onboard_time": 1747455991,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203360,
+      "num": 243700,
+      "word": "肖战发来3500年前的邀约",
+      "onboard_time": 1747455870,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 201101,
@@ -547,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199553,
-      "num": 199553,
-      "word": "雀巢咖啡向丁禹兮和粉丝道歉",
-      "onboard_time": 1747456110,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196533,
       "num": 182401,
       "word": "珠玉 跳楼机",
@@ -563,28 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195175,
-      "num": 193204,
-      "word": "美国加州50多只鸟空中爆炸",
-      "onboard_time": 1747455991,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 195013,
       "num": 182190,
       "word": "表妹万福 陈鑫海",
       "onboard_time": 1747412123,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193278,
-      "num": 193278,
-      "word": "肖战发来3500年前的邀约",
-      "onboard_time": 1747455870,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 193016,
@@ -627,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186232,
+      "num": 186232,
+      "word": "肖战只要导演不喊卡就能一直演下去",
+      "onboard_time": 1747456950,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186161,
       "num": 186440,
       "word": "越来越多间谍设备披上日常用品外衣",
@@ -667,14 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 180198,
-      "num": 244157,
-      "word": "俞灏明王晓晨因合作惩戒者结缘",
-      "onboard_time": 1747447831,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176300,
       "num": 176300,
       "word": "苏敏阿姨走到了戛纳红毯",
@@ -697,6 +729,22 @@
       "onboard_time": 1747444471,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170256,
+      "num": 252295,
+      "word": "苏醒说陈楚生本来就稳不用夸",
+      "onboard_time": 1747456350,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167396,
+      "num": 167396,
+      "word": "马吟吟是宋妍霏心里的ABB",
+      "onboard_time": 1747456051,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 167056,
@@ -788,7 +836,7 @@
     },
     {
       "raw_hot": 153907,
-      "num": 188621,
+      "num": 205210,
       "word": "张婧仪说爱是最温柔的语言",
       "onboard_time": 1747454550,
       "rank": 32,
@@ -801,14 +849,6 @@
       "onboard_time": 1747453231,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 152120,
-      "num": 152120,
-      "word": "马吟吟是宋妍霏心里的ABB",
-      "onboard_time": 1747456051,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 150452,
@@ -835,14 +875,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 147266,
-      "num": 147266,
-      "word": "中年人爱情玩得这么野吗",
-      "onboard_time": 1747455991,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147096,
       "num": 147096,
       "word": "BENI回应淘汰",
@@ -859,6 +891,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 145278,
+      "num": 145278,
+      "word": "风月不相关开机没有女主",
+      "onboard_time": 1747456771,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143321,
       "num": 181468,
       "word": "汪苏泷为歌手2025加油",
@@ -867,19 +907,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143230,
-      "num": 143230,
-      "word": "恋与深空撕拉片",
-      "onboard_time": 1747456110,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 142898,
       "num": 181427,
       "word": "耳帝喜欢的三个表演",
       "onboard_time": 1747413382,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141903,
+      "num": 141903,
+      "word": "阿云嘎 153个小时后耳朵借我",
+      "onboard_time": 1747456891,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1123,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107143,
+      "num": 277071,
+      "word": "WB和WBG互换队服挑战",
+      "onboard_time": 1747454790,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105732,
       "num": 105732,
       "word": "宁艺卓杂志",
@@ -1187,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88921,
+      "num": 413862,
+      "word": "机构把代孕者美化成志愿者",
+      "onboard_time": 1747455511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85274,
       "num": 182458,
       "word": "蓝天立被查",
@@ -1228,7 +1284,7 @@
     },
     {
       "raw_hot": 81074,
-      "num": 188422,
+      "num": 262611,
       "word": "深圳小学生的松弛感拉满了",
       "onboard_time": 1747455930,
       "rank": 33,
@@ -1243,20 +1299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78639,
+      "num": 411743,
+      "word": "章昊Gucci秀场造型",
+      "onboard_time": 1747452870,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 74344,
       "num": 74344,
       "word": "武艺首次披露父母离婚",
       "onboard_time": 1747392800,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73938,
-      "num": 343066,
-      "word": "章昊Gucci秀场造型",
-      "onboard_time": 1747452870,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 72640,
@@ -1395,6 +1451,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 45212,
+      "num": 569448,
+      "word": "国家网络身份认证App保护信息安全",
+      "onboard_time": 1747455751,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44062,
       "num": 175192,
       "word": "较真饭店反向抹零为2毛钱值不值",
@@ -1427,12 +1491,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 34931,
+      "num": 338222,
+      "word": "护学岗自愿参与不能变强制摊派",
+      "onboard_time": 1747455090,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 32670,
+      "num": 321912,
+      "word": "哪种一次性手套不适合就餐使用",
+      "onboard_time": 1747456290,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31463,
       "num": 1041204,
       "word": "数读我国南北港口亮眼成就",
       "onboard_time": 1747402765,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30908,
+      "num": 264918,
+      "word": "网购法拍房实地看房后发现面积缩水",
+      "onboard_time": 1747456290,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29304,
@@ -1475,36 +1563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22459,
-      "num": 338222,
-      "word": "护学岗自愿参与不能变强制摊派",
-      "onboard_time": 1747455090,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 19741,
       "num": 31276,
       "word": "纳指结束六连涨",
       "onboard_time": 1747435036,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 18944,
-      "num": 551448,
-      "word": "国家网络身份认证App保护信息安全",
-      "onboard_time": 1747455751,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18003,
-      "num": 349479,
-      "word": "机构把代孕者美化成志愿者",
-      "onboard_time": 1747455511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12597,

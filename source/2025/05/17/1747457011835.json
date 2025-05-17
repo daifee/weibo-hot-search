@@ -1,0 +1,410 @@
+{
+  "runTime": 1747457011835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410368,
+        "num": 1410368,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 647310,
+        "num": 647310,
+        "word": "沈梦辰妆造必有高人指点",
+        "onboard_time": 1747453771,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45212,
+        "num": 569448,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543026,
+        "num": 543026,
+        "word": "风月不相关开机",
+        "onboard_time": 1747450951,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447026,
+        "num": 447026,
+        "word": "官方通报潮汕豪宅英之园将强拆",
+        "onboard_time": 1747441340,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 422957,
+        "num": 422957,
+        "word": "长沙别墅非法代孕涉事医生到案",
+        "onboard_time": 1747453952,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526262,
+        "num": 421561,
+        "word": "风月不相关女主",
+        "onboard_time": 1747453111,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441863,
+        "num": 419622,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415741,
+        "num": 415741,
+        "word": "美计划将100万巴勒斯坦人迁往利比亚",
+        "onboard_time": 1747453111,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88921,
+        "num": 413862,
+        "word": "机构把代孕者美化成志愿者",
+        "onboard_time": 1747455511,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1328503,
+        "num": 413848,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510135,
+        "num": 413832,
+        "word": "孟子义律师声明",
+        "onboard_time": 1747455692,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413786,
+        "num": 413786,
+        "word": "创业失败负债百万女子靠扛楼还债",
+        "onboard_time": 1747444293,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 484354,
+        "num": 413262,
+        "word": "撕拉片笑话",
+        "onboard_time": 1747444832,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475385,
+        "num": 412763,
+        "word": "赵磊婚礼r1seX玖团舞",
+        "onboard_time": 1747452752,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460546,
+        "num": 412442,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 78639,
+        "num": 411743,
+        "word": "章昊Gucci秀场造型",
+        "onboard_time": 1747452870,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 450933,
+        "num": 411387,
+        "word": "黄杨钿甜爸爸发文",
+        "onboard_time": 1747395141,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410952,
+        "num": 410952,
+        "word": "当女生到了洗头的那天",
+        "onboard_time": 1747453952,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32670,
+        "num": 321912,
+        "word": "哪种一次性手套不适合就餐使用",
+        "onboard_time": 1747456290,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 286795,
+        "num": 286795,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228349,
+        "num": 285825,
+        "word": "二皇子是你吗",
+        "onboard_time": 1747454611,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206848,
+        "num": 283405,
+        "word": "雀巢咖啡向丁禹兮和粉丝道歉",
+        "onboard_time": 1747456110,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 280076,
+        "word": "中年人爱情玩得这么野吗",
+        "onboard_time": 1747455991,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107143,
+        "num": 277071,
+        "word": "WB和WBG互换队服挑战",
+        "onboard_time": 1747454790,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34931,
+        "num": 272986,
+        "word": "护学岗自愿参与不能变强制摊派",
+        "onboard_time": 1747455090,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 270844,
+        "num": 270844,
+        "word": "汪顺孙杨潘展乐将同场对决",
+        "onboard_time": 1747450590,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30908,
+        "num": 264918,
+        "word": "网购法拍房实地看房后发现面积缩水",
+        "onboard_time": 1747456290,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70260,
+        "num": 262611,
+        "word": "深圳小学生的松弛感拉满了",
+        "onboard_time": 1747455930,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 262501,
+        "num": 262501,
+        "word": "纤维粒晒夏思齐聊天记录",
+        "onboard_time": 1747441160,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170256,
+        "num": 252295,
+        "word": "苏醒说陈楚生本来就稳不用夸",
+        "onboard_time": 1747456350,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203360,
+        "num": 243700,
+        "word": "肖战发来3500年前的邀约",
+        "onboard_time": 1747455870,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265256,
+        "num": 243184,
+        "word": "美国加州50多只鸟空中爆炸",
+        "onboard_time": 1747455991,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242128,
+        "num": 242128,
+        "word": "黄杨钿甜旧照曝光",
+        "onboard_time": 1747444592,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207272,
+        "num": 221513,
+        "word": "俞灏明王晓晨因合作惩戒者结缘",
+        "onboard_time": 1747447831,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210626,
+        "num": 210626,
+        "word": "恋与深空撕拉片",
+        "onboard_time": 1747456110,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148759,
+        "num": 205210,
+        "word": "张婧仪说爱是最温柔的语言",
+        "onboard_time": 1747454550,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "给导师误发了二十多分钟的表情包",
+        "onboard_time": 1747443992,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193707,
+        "num": 193707,
+        "word": "我真的穿越回520前三天了",
+        "onboard_time": 1747455991,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186232,
+        "num": 186232,
+        "word": "肖战只要导演不喊卡就能一直演下去",
+        "onboard_time": 1747456950,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185359,
+        "num": 185359,
+        "word": "孙杨预赛pk力压潘展乐",
+        "onboard_time": 1747452631,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180845,
+        "num": 180845,
+        "word": "石原里美二胎出生",
+        "onboard_time": 1747447831,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 170884,
+        "word": "28岁男子食物中毒离世",
+        "onboard_time": 1747441340,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167396,
+        "num": 167396,
+        "word": "马吟吟是宋妍霏心里的ABB",
+        "onboard_time": 1747456051,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165845,
+        "num": 165845,
+        "word": "李昀锐说给孟子义一个获胜的机会",
+        "onboard_time": 1747455090,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157853,
+        "num": 157853,
+        "word": "印度主持人说全世界媒体都在造谣",
+        "onboard_time": 1747451910,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 150624,
+        "word": "初级会计考试",
+        "onboard_time": 1747446930,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145278,
+        "num": 145278,
+        "word": "风月不相关开机没有女主",
+        "onboard_time": 1747456771,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "阿云嘎 153个小时后耳朵借我",
+        "onboard_time": 1747456891,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135698,
+        "num": 135698,
+        "word": "今年的歌手也太会玩了",
+        "onboard_time": 1747408345,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#残疾人是推进中国式现代化的重要力量#"
+    }
+  }
+}

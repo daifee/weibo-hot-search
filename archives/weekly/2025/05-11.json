@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747456159486,
+  "endTime": 1747457011835,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1722292,
-      "num": 347308,
+      "num": 413848,
       "word": "俞灏明前任",
       "onboard_time": 1747450112,
       "rank": 10,
@@ -625,6 +625,14 @@
       "onboard_time": 1746960741,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1410368,
+      "num": 1410368,
+      "word": "KFC相机",
+      "onboard_time": 1747454490,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 1404498,
@@ -1740,7 +1748,7 @@
     },
     {
       "raw_hot": 766581,
-      "num": 346224,
+      "num": 413262,
       "word": "撕拉片笑话",
       "onboard_time": 1747444832,
       "rank": 10,
@@ -2171,6 +2179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 647310,
+      "num": 647310,
+      "word": "沈梦辰妆造必有高人指点",
+      "onboard_time": 1747453771,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646566,
       "num": 644008,
       "word": "周柯宇发长文",
@@ -2265,14 +2281,6 @@
       "onboard_time": 1747383982,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628636,
-      "num": 1100581,
-      "word": "KFC相机",
-      "onboard_time": 1747454490,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 628026,
@@ -2867,14 +2875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 538450,
-      "num": 538450,
-      "word": "沈梦辰妆造必有高人指点",
-      "onboard_time": 1747453771,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 537893,
       "num": 537893,
       "word": "伊朗愿承诺永不制造核武器",
@@ -2987,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526262,
+      "num": 421561,
+      "word": "风月不相关女主",
+      "onboard_time": 1747453111,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525867,
       "num": 525867,
       "word": "藏海传最后不会杀的只剩剧名了吧",
@@ -3089,6 +3097,14 @@
       "onboard_time": 1747205183,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510135,
+      "num": 413832,
+      "word": "孟子义律师声明",
+      "onboard_time": 1747455692,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 510058,
@@ -3307,14 +3323,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 484543,
-      "num": 352496,
-      "word": "风月不相关女主",
-      "onboard_time": 1747453111,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 481732,
       "num": 481732,
       "word": "04年男子拒服兵役被罚3.8万",
@@ -3353,6 +3361,14 @@
       "onboard_time": 1747195942,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 475385,
+      "num": 412763,
+      "word": "赵磊婚礼r1seX玖团舞",
+      "onboard_time": 1747452752,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 475242,
@@ -3505,6 +3521,14 @@
       "onboard_time": 1747403728,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 460546,
+      "num": 412442,
+      "word": "夏思齐 纤维粒",
+      "onboard_time": 1747456590,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 458652,
@@ -3803,14 +3827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 427863,
-      "num": 329901,
-      "word": "赵磊婚礼r1seX玖团舞",
-      "onboard_time": 1747452752,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427329,
       "num": 427329,
       "word": "青岛行人相撞案相关法院道歉",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1747392800,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422957,
+      "num": 422957,
+      "word": "长沙别墅非法代孕涉事医生到案",
+      "onboard_time": 1747453952,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422657,
@@ -3931,12 +3955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415741,
+      "num": 415741,
+      "word": "美计划将100万巴勒斯坦人迁往利比亚",
+      "onboard_time": 1747453111,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414333,
       "num": 414333,
       "word": "顺产开十指的痛具象化了",
       "onboard_time": 1746938961,
       "rank": 14,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 413786,
+      "num": 413786,
+      "word": "创业失败负债百万女子靠扛楼还债",
+      "onboard_time": 1747444293,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 412979,
@@ -3953,6 +3993,14 @@
       "onboard_time": 1747112605,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410952,
+      "num": 410952,
+      "word": "当女生到了洗头的那天",
+      "onboard_time": 1747453952,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 409056,
@@ -4217,14 +4265,6 @@
       "onboard_time": 1747115602,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387217,
-      "num": 387217,
-      "word": "创业失败负债百万女子靠扛楼还债",
-      "onboard_time": 1747444293,
-      "rank": 17,
-      "category": "正能量"
     },
     {
       "raw_hot": 384577,
@@ -4499,14 +4539,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 363047,
-      "num": 311869,
-      "word": "当女生到了洗头的那天",
-      "onboard_time": 1747453952,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 363043,
       "num": 363043,
       "word": "双男主古装悬疑剧",
@@ -4665,14 +4697,6 @@
       "onboard_time": 1747317265,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349945,
-      "num": 349945,
-      "word": "美计划将100万巴勒斯坦人迁往利比亚",
-      "onboard_time": 1747453111,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347172,
@@ -5787,14 +5811,6 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 274816,
-      "num": 274816,
-      "word": "长沙别墅非法代孕涉事医生到案",
-      "onboard_time": 1747453952,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "会癌变的痣一般有5个特征",
@@ -5995,6 +6011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265256,
+      "num": 243184,
+      "word": "美国加州50多只鸟空中爆炸",
+      "onboard_time": 1747455991,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 264937,
       "num": 264937,
       "word": "撕拉片",
@@ -6036,7 +6060,7 @@
     },
     {
       "raw_hot": 263290,
-      "num": 263290,
+      "num": 285825,
       "word": "二皇子是你吗",
       "onboard_time": 1747454611,
       "rank": 23,
@@ -6065,6 +6089,14 @@
       "onboard_time": 1746936381,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262501,
+      "num": 262727,
+      "word": "纤维粒晒夏思齐聊天记录",
+      "onboard_time": 1747441160,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 262472,
@@ -6105,14 +6137,6 @@
       "onboard_time": 1747104561,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 261392,
-      "num": 261392,
-      "word": "孟子义律师声明",
-      "onboard_time": 1747455692,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 261159,
@@ -6601,14 +6625,6 @@
       "onboard_time": 1747373243,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244249,
-      "num": 262727,
-      "word": "纤维粒晒夏思齐聊天记录",
-      "onboard_time": 1747441160,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 244145,
@@ -7795,6 +7811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210626,
+      "num": 210626,
+      "word": "恋与深空撕拉片",
+      "onboard_time": 1747456110,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210592,
       "num": 210592,
       "word": "VOGUE活动",
@@ -8003,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207272,
+      "num": 244157,
+      "word": "俞灏明王晓晨因合作惩戒者结缘",
+      "onboard_time": 1747447831,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207227,
       "num": 281211,
       "word": "浪姐1V1投票结果",
@@ -8033,6 +8065,14 @@
       "onboard_time": 1747377682,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206848,
+      "num": 283405,
+      "word": "雀巢咖啡向丁禹兮和粉丝道歉",
+      "onboard_time": 1747456110,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 206825,
@@ -8113,6 +8153,14 @@
       "onboard_time": 1747365981,
       "rank": 34,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 206286,
+      "num": 280076,
+      "word": "中年人爱情玩得这么野吗",
+      "onboard_time": 1747455991,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 206158,
@@ -8289,6 +8337,14 @@
       "onboard_time": 1747196723,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203360,
+      "num": 243700,
+      "word": "肖战发来3500年前的邀约",
+      "onboard_time": 1747455870,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 203351,
@@ -8595,14 +8651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199553,
-      "num": 199553,
-      "word": "雀巢咖啡向丁禹兮和粉丝道歉",
-      "onboard_time": 1747456110,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199446,
       "num": 199446,
       "word": "玄戒",
@@ -8899,14 +8947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195175,
-      "num": 193204,
-      "word": "美国加州50多只鸟空中爆炸",
-      "onboard_time": 1747455991,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 195136,
       "num": 449292,
       "word": "天猫国补买空调首次能叠千元券",
@@ -9097,14 +9137,6 @@
       "onboard_time": 1746941182,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193278,
-      "num": 193278,
-      "word": "肖战发来3500年前的邀约",
-      "onboard_time": 1747455870,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 193193,
@@ -9755,6 +9787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186232,
+      "num": 186232,
+      "word": "肖战只要导演不喊卡就能一直演下去",
+      "onboard_time": 1747456950,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186204,
       "num": 186204,
       "word": "大麦",
@@ -10193,14 +10233,6 @@
       "onboard_time": 1747298242,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180198,
-      "num": 244157,
-      "word": "俞灏明王晓晨因合作惩戒者结缘",
-      "onboard_time": 1747447831,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 180187,
@@ -10987,6 +11019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170256,
+      "num": 252295,
+      "word": "苏醒说陈楚生本来就稳不用夸",
+      "onboard_time": 1747456350,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170198,
       "num": 170198,
       "word": "姆巴佩梅开二度",
@@ -11273,6 +11313,14 @@
       "onboard_time": 1746949821,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167396,
+      "num": 167396,
+      "word": "马吟吟是宋妍霏心里的ABB",
+      "onboard_time": 1747456051,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 167386,
@@ -12596,7 +12644,7 @@
     },
     {
       "raw_hot": 153907,
-      "num": 188621,
+      "num": 205210,
       "word": "张婧仪说爱是最温柔的语言",
       "onboard_time": 1747454550,
       "rank": 32,
@@ -12761,14 +12809,6 @@
       "onboard_time": 1747307001,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152120,
-      "num": 152120,
-      "word": "马吟吟是宋妍霏心里的ABB",
-      "onboard_time": 1747456051,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 152022,
@@ -13203,14 +13243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147266,
-      "num": 147266,
-      "word": "中年人爱情玩得这么野吗",
-      "onboard_time": 1747455991,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147245,
       "num": 147245,
       "word": "杨紫看李现李现人生若如初见",
@@ -13419,6 +13451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145278,
+      "num": 145278,
+      "word": "风月不相关开机没有女主",
+      "onboard_time": 1747456771,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145264,
       "num": 156510,
       "word": "安切洛蒂本月执教巴西队",
@@ -13553,14 +13593,6 @@
       "onboard_time": 1747199007,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143230,
-      "num": 143230,
-      "word": "恋与深空撕拉片",
-      "onboard_time": 1747456110,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 143207,
@@ -13737,6 +13769,14 @@
       "onboard_time": 1747273401,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141903,
+      "num": 141903,
+      "word": "阿云嘎 153个小时后耳朵借我",
+      "onboard_time": 1747456891,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 141899,
@@ -17267,6 +17307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107143,
+      "num": 277071,
+      "word": "WB和WBG互换队服挑战",
+      "onboard_time": 1747454790,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106767,
       "num": 106767,
       "word": "郑钦文获24万欧奖金390积分",
@@ -18355,6 +18403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88921,
+      "num": 413862,
+      "word": "机构把代孕者美化成志愿者",
+      "onboard_time": 1747455511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88912,
       "num": 178882,
       "word": "17年前被埋73小时后消逝的生命",
@@ -18780,7 +18836,7 @@
     },
     {
       "raw_hot": 81074,
-      "num": 188422,
+      "num": 262611,
       "word": "深圳小学生的松弛感拉满了",
       "onboard_time": 1747455930,
       "rank": 33,
@@ -18929,6 +18985,14 @@
       "onboard_time": 1747153401,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78639,
+      "num": 411743,
+      "word": "章昊Gucci秀场造型",
+      "onboard_time": 1747452870,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 78516,
@@ -19137,14 +19201,6 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73938,
-      "num": 343066,
-      "word": "章昊Gucci秀场造型",
-      "onboard_time": 1747452870,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73782,
@@ -21075,6 +21131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45212,
+      "num": 569448,
+      "word": "国家网络身份认证App保护信息安全",
+      "onboard_time": 1747455751,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44955,
       "num": 309435,
       "word": "马刺 榜眼签",
@@ -21923,6 +21987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34931,
+      "num": 338222,
+      "word": "护学岗自愿参与不能变强制摊派",
+      "onboard_time": 1747455090,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 34845,
       "num": 377616,
       "word": "乘客口袋里带蛇乘车吓坏司机",
@@ -22099,6 +22171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32670,
+      "num": 321912,
+      "word": "哪种一次性手套不适合就餐使用",
+      "onboard_time": 1747456290,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 32576,
       "num": 383570,
       "word": "科普扑克错印火药发明者为法国人",
@@ -22241,6 +22321,14 @@
       "onboard_time": 1746951682,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 30908,
+      "num": 264918,
+      "word": "网购法拍房实地看房后发现面积缩水",
+      "onboard_time": 1747456290,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30607,
@@ -23123,14 +23211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22459,
-      "num": 338222,
-      "word": "护学岗自愿参与不能变强制摊派",
-      "onboard_time": 1747455090,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 22380,
       "num": 215818,
       "word": "跟着他你就能活",
@@ -23475,14 +23555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 18944,
-      "num": 551448,
-      "word": "国家网络身份认证App保护信息安全",
-      "onboard_time": 1747455751,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18832,
       "num": 211990,
       "word": "掘金在天王山之战中主要失误有哪些",
@@ -23585,14 +23657,6 @@
       "onboard_time": 1747225882,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18003,
-      "num": 349479,
-      "word": "机构把代孕者美化成志愿者",
-      "onboard_time": 1747455511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17986,
