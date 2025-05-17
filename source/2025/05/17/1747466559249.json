@@ -1,0 +1,410 @@
+{
+  "runTime": 1747466559249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2098853,
+        "num": 2098853,
+        "word": "雅安纪委监委回应黄杨钿甜耳环事件",
+        "onboard_time": 1747460970,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 731101,
+        "num": 731101,
+        "word": "孙杨比潘展乐快了1秒多",
+        "onboard_time": 1747459292,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29480,
+        "num": 656177,
+        "word": "国家网络身份认证App保护信息安全",
+        "onboard_time": 1747455751,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641743,
+        "num": 641743,
+        "word": "周思成称刘晓艳编假学历",
+        "onboard_time": 1747463240,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 505244,
+        "num": 505244,
+        "word": "KFC相机",
+        "onboard_time": 1747454490,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 476968,
+        "num": 476968,
+        "word": "金靖问张凌赫吻戏那么多什么感觉",
+        "onboard_time": 1747462581,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354704,
+        "num": 354704,
+        "word": "成毅生日直播",
+        "onboard_time": 1747461031,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351737,
+        "num": 351737,
+        "word": "张小婉拿到了浪姐最多superA",
+        "onboard_time": 1747463181,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350177,
+        "num": 350177,
+        "word": "虞书欣蔡敏敏",
+        "onboard_time": 1747460970,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147025,
+        "num": 348519,
+        "word": "朱雀二号改进型遥二运载火箭成功发射",
+        "onboard_time": 1747459111,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1501589,
+        "num": 345286,
+        "word": "黄杨钿甜房间",
+        "onboard_time": 1747459651,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690346,
+        "num": 340482,
+        "word": "疑似新娘给新郎让妆",
+        "onboard_time": 1747457730,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486051,
+        "num": 331659,
+        "word": "俞灏明前任",
+        "onboard_time": 1747450112,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409346,
+        "num": 329192,
+        "word": "夏思齐 纤维粒",
+        "onboard_time": 1747456590,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214167,
+        "num": 324761,
+        "word": "男子向朋友借30万为赖账撕碎借条",
+        "onboard_time": 1747464742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321793,
+        "num": 321793,
+        "word": "周思成 刘晓燕",
+        "onboard_time": 1747463480,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215097,
+        "num": 229826,
+        "word": "丁太升说林志炫选了烂歌",
+        "onboard_time": 1747461982,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215990,
+        "num": 215990,
+        "word": "中德混血一家四口掌握多种语言",
+        "onboard_time": 1747462639,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173940,
+        "num": 208163,
+        "word": "歌手2025收视第一",
+        "onboard_time": 1747465761,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16508,
+        "num": 206770,
+        "word": "凯尔特人本赛季为何失利",
+        "onboard_time": 1747466241,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205800,
+        "num": 205800,
+        "word": "迪丽热巴一把把白宇薅了回去",
+        "onboard_time": 1747465220,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196491,
+        "num": 196491,
+        "word": "知情人回应28岁准新郎食物中毒身亡",
+        "onboard_time": 1747464801,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193444,
+        "num": 193444,
+        "word": "成毅直播也是萌的没边了",
+        "onboard_time": 1747464861,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185819,
+        "num": 185819,
+        "word": "吴镇宇第一次在演综哭了",
+        "onboard_time": 1747466060,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182095,
+        "num": 182095,
+        "word": "长沙别墅非法代孕涉事医生到案",
+        "onboard_time": 1747453952,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19675,
+        "num": 158769,
+        "word": "哪些食物需要避免直接放入微波炉加热",
+        "onboard_time": 1747465341,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157456,
+        "num": 157456,
+        "word": "中国护照免签国家",
+        "onboard_time": 1747464982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143213,
+        "num": 155487,
+        "word": "特朗普访阿联酋获赠一滴石油",
+        "onboard_time": 1747465940,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13677,
+        "num": 154525,
+        "word": "国产抗病毒药物有哪些推荐",
+        "onboard_time": 1747465881,
+        "rank": 28,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 8762,
+        "num": 154409,
+        "word": "非法经营普通药品的认定",
+        "onboard_time": 1747464861,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 154337,
+        "num": 154337,
+        "word": "我欲乘风 虞书欣",
+        "onboard_time": 1747466182,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148966,
+        "num": 148966,
+        "word": "官方通报女子被医院强制带走治疗",
+        "onboard_time": 1747463302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146979,
+        "num": 146979,
+        "word": "赵磊婚礼r1seX玖团舞",
+        "onboard_time": 1747452752,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145898,
+        "num": 145898,
+        "word": "乘风者来女揭榜歌手",
+        "onboard_time": 1747465940,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44446,
+        "num": 145284,
+        "word": "男子未等审批返乡看病重父亲被开除",
+        "onboard_time": 1747466540,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64807,
+        "num": 144831,
+        "word": "上海地铁回应老人拖拽小伙要求让座",
+        "onboard_time": 1747466540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144700,
+        "num": 144700,
+        "word": "美国加州50多只鸟空中爆炸",
+        "onboard_time": 1747455991,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141451,
+        "num": 141451,
+        "word": "盒马三明治",
+        "onboard_time": 1747461380,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139528,
+        "num": 139528,
+        "word": "恋与深空主线新篇章",
+        "onboard_time": 1747451791,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127450,
+        "num": 127450,
+        "word": "十个勤天",
+        "onboard_time": 1747462341,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "陈楚生回应选歌",
+        "onboard_time": 1747463840,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121591,
+        "num": 121591,
+        "word": "田曦薇海口",
+        "onboard_time": 1747466421,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118751,
+        "num": 118751,
+        "word": "孟子义抢了董思成的桃花币",
+        "onboard_time": 1747463960,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117199,
+        "num": 117199,
+        "word": "杜海涛变的是身材不变的是身份",
+        "onboard_time": 1747462761,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116681,
+        "num": 116681,
+        "word": "是谁教小猫这样吃东西的",
+        "onboard_time": 1747466241,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111447,
+        "num": 111447,
+        "word": "宣璐折腰演反派恶女",
+        "onboard_time": 1747465102,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111144,
+        "num": 111144,
+        "word": "当女生到了洗头的那天",
+        "onboard_time": 1747453952,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 111075,
+        "word": "种地吧",
+        "onboard_time": 1747459231,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110444,
+        "num": 110444,
+        "word": "歌手排名 我被资本做局了",
+        "onboard_time": 1747406066,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109347,
+        "num": 109347,
+        "word": "女子被医院强制带走治疗医生被停职",
+        "onboard_time": 1747461322,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#残疾人事业需要大家一起托举#"
+    }
+  }
+}
