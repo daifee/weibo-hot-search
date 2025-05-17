@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747471423461,
+  "endTime": 1747473884654,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -553,6 +553,14 @@
       "onboard_time": 1746515482,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2053687,
+      "num": 417388,
+      "word": "今年的女装 丑",
+      "onboard_time": 1747470322,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 2042413,
@@ -10659,6 +10667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402732,
+      "num": 313196,
+      "word": "特朗普想访问中国",
+      "onboard_time": 1747471941,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 402024,
       "num": 402024,
       "word": "双休制度提案委员王贤才逝世",
@@ -13291,14 +13307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321207,
-      "num": 321207,
-      "word": "今年的女装 丑",
-      "onboard_time": 1747470322,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 321139,
       "num": 298133,
       "word": "周思成称考研界刘晓燕英语水平最差",
@@ -13561,6 +13569,14 @@
       "onboard_time": 1747123701,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313140,
+      "num": 313140,
+      "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
+      "onboard_time": 1747472601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312680,
@@ -14657,6 +14673,14 @@
       "onboard_time": 1746798203,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291774,
+      "num": 291774,
+      "word": "断眉这次真的真的来中国了",
+      "onboard_time": 1747471881,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 291250,
@@ -20459,6 +20483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209000,
+      "num": 209000,
+      "word": "格拉夫珠宝",
+      "onboard_time": 1747468580,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208899,
       "num": 208899,
       "word": "第五人格 芙莉莲",
@@ -24459,14 +24491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191287,
-      "num": 191287,
-      "word": "格拉夫珠宝",
-      "onboard_time": 1747468580,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191265,
       "num": 539987,
       "word": "外交部回应美渲染中方难承受高关税压力",
@@ -26987,6 +27011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179625,
+      "num": 150968,
+      "word": "一天两份工作月入1万",
+      "onboard_time": 1747472962,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179617,
       "num": 257717,
       "word": "现场直击2025年俄罗斯胜利日阅兵",
@@ -28377,6 +28409,14 @@
       "onboard_time": 1747039405,
       "rank": 29,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 172806,
+      "num": 172806,
+      "word": "肖战藏海传央八VCR",
+      "onboard_time": 1747473202,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172798,
@@ -31748,7 +31788,7 @@
     },
     {
       "raw_hot": 158216,
-      "num": 158216,
+      "num": 169050,
       "word": "成毅空降",
       "onboard_time": 1747468401,
       "rank": 35,
@@ -33305,6 +33345,14 @@
       "onboard_time": 1746515182,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152777,
+      "num": 150927,
+      "word": "奶奶去世前五小时解绑了亲密付",
+      "onboard_time": 1747472782,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152774,
@@ -36105,6 +36153,14 @@
       "onboard_time": 1747307844,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141802,
+      "num": 161638,
+      "word": "985毕业生在上海工作5年到手6千",
+      "onboard_time": 1747472001,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141687,
@@ -38993,6 +39049,14 @@
       "onboard_time": 1746334521,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 132150,
+      "num": 132150,
+      "word": "歼10CE首次实战大放异彩",
+      "onboard_time": 1747472840,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132096,
@@ -42219,6 +42283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121378,
+      "num": 121378,
+      "word": "2025年全国游泳冠军赛",
+      "onboard_time": 1747473081,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121329,
       "num": 121329,
       "word": "几千元和上万元的冰箱有哪些差别",
@@ -43268,7 +43340,7 @@
     },
     {
       "raw_hot": 117151,
-      "num": 117151,
+      "num": 223545,
       "word": "湖南卫视背后官宣",
       "onboard_time": 1747471161,
       "rank": 40,
@@ -43481,6 +43553,14 @@
       "onboard_time": 1747461261,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116234,
+      "num": 116234,
+      "word": "王楚钦希望不输外战",
+      "onboard_time": 1747473741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 116193,
@@ -44931,12 +45011,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "宁艺卓杂志销量",
+      "onboard_time": 1747473561,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 110419,
       "num": 171516,
       "word": "林志炫发文悼念恩师韩贤光",
       "onboard_time": 1747024944,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110389,
+      "num": 110389,
+      "word": "抑郁症躯体化症状有哪些表现",
+      "onboard_time": 1747473081,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110382,
@@ -46787,6 +46883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101237,
+      "num": 101237,
+      "word": "陈楚生回应首场竞演感受",
+      "onboard_time": 1747472120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101204,
       "num": 417193,
       "word": "水饺皇后为什么是她",
@@ -48001,6 +48105,14 @@
       "onboard_time": 1747386262,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 93712,
+      "num": 154927,
+      "word": "林诗栋蒯曼回应混双开门红",
+      "onboard_time": 1747472660,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 93708,
@@ -50281,6 +50393,14 @@
       "onboard_time": 1746680963,
       "rank": 17,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 77188,
+      "num": 164047,
+      "word": "周思成再发文谈争论起因",
+      "onboard_time": 1747473621,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 77161,
@@ -52747,6 +52867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59205,
+      "num": 222818,
+      "word": "未来一周南方多地雨纷纷",
+      "onboard_time": 1747472541,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59166,
       "num": 66778,
       "word": "0元get撕拉片",
@@ -53899,6 +54027,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 51279,
+      "num": 224389,
+      "word": "如何缓解工作带来的焦虑感",
+      "onboard_time": 1747473380,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51215,
       "num": 181051,
       "word": "ACL总决赛",
@@ -54785,6 +54921,14 @@
       "onboard_time": 1746536483,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46241,
+      "num": 225371,
+      "word": "美的脱口秀现场好热啊",
+      "onboard_time": 1747471761,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46114,
@@ -58665,6 +58809,14 @@
       "onboard_time": 1746955281,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27234,
+      "num": 428314,
+      "word": "点亮网络文明之光",
+      "onboard_time": 1747472240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27202,
@@ -62745,6 +62897,14 @@
       "onboard_time": 1747367182,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11602,
+      "num": 142254,
+      "word": "世界雷达博览会有哪些重点展品",
+      "onboard_time": 1747472541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11469,

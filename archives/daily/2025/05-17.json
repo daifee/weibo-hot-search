@@ -1,6 +1,6 @@
 {
   "startTime": 1747413110508,
-  "endTime": 1747471423461,
+  "endTime": 1747473884654,
   "band_list": [
     {
       "raw_hot": 7073696,
@@ -25,6 +25,14 @@
       "onboard_time": 1747459651,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2053687,
+      "num": 417388,
+      "word": "今年的女装 丑",
+      "onboard_time": 1747470322,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 2011242,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402732,
+      "num": 313196,
+      "word": "特朗普想访问中国",
+      "onboard_time": 1747471941,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 401151,
       "num": 315152,
       "word": "石原里美二胎出生",
@@ -475,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321207,
-      "num": 321207,
-      "word": "今年的女装 丑",
-      "onboard_time": 1747470322,
-      "rank": 32,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 321139,
       "num": 298133,
       "word": "周思成称考研界刘晓燕英语水平最差",
       "onboard_time": 1747437737,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 313140,
+      "num": 313140,
+      "word": "情侣住丽思卡尔顿遭无人机怼窗拍摄",
+      "onboard_time": 1747472601,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312348,
@@ -513,6 +529,14 @@
       "onboard_time": 1747461982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291774,
+      "num": 291774,
+      "word": "断眉这次真的真的来中国了",
+      "onboard_time": 1747471881,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 289844,
@@ -747,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209000,
+      "num": 209000,
+      "word": "格拉夫珠宝",
+      "onboard_time": 1747468580,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208632,
       "num": 208632,
       "word": "爷爷全职带三胞胎一天喂36顿饭",
@@ -947,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191287,
-      "num": 191287,
-      "word": "格拉夫珠宝",
-      "onboard_time": 1747468580,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188006,
       "num": 188006,
       "word": "留几手撕拉片",
@@ -1035,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179625,
+      "num": 150968,
+      "word": "一天两份工作月入1万",
+      "onboard_time": 1747472962,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177425,
       "num": 177425,
       "word": "十个勤天",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1747465761,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172806,
+      "num": 172806,
+      "word": "肖战藏海传央八VCR",
+      "onboard_time": 1747473202,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 171921,
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 158216,
-      "num": 158216,
+      "num": 169050,
       "word": "成毅空降",
       "onboard_time": 1747468401,
       "rank": 35,
@@ -1297,6 +1337,14 @@
       "onboard_time": 1747470562,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152777,
+      "num": 150927,
+      "word": "奶奶去世前五小时解绑了亲密付",
+      "onboard_time": 1747472782,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151921,
@@ -1451,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141802,
+      "num": 161638,
+      "word": "985毕业生在上海工作5年到手6千",
+      "onboard_time": 1747472001,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141451,
       "num": 141451,
       "word": "盒马三明治",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1747460125,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132150,
+      "num": 132150,
+      "word": "歼10CE首次实战大放异彩",
+      "onboard_time": 1747472840,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131418,
@@ -1683,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121378,
+      "num": 121378,
+      "word": "2025年全国游泳冠军赛",
+      "onboard_time": 1747473081,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121127,
       "num": 152755,
       "word": "任权薛小婉结婚",
@@ -1716,7 +1788,7 @@
     },
     {
       "raw_hot": 117151,
-      "num": 117151,
+      "num": 223545,
       "word": "湖南卫视背后官宣",
       "onboard_time": 1747471161,
       "rank": 40,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1747461261,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116234,
+      "num": 116234,
+      "word": "王楚钦希望不输外战",
+      "onboard_time": 1747473741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 115709,
@@ -1825,6 +1905,22 @@
       "onboard_time": 1747465102,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110423,
+      "num": 110423,
+      "word": "宁艺卓杂志销量",
+      "onboard_time": 1747473561,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 110389,
+      "num": 110389,
+      "word": "抑郁症躯体化症状有哪些表现",
+      "onboard_time": 1747473081,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110060,
@@ -1907,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101237,
+      "num": 101237,
+      "word": "陈楚生回应首场竞演感受",
+      "onboard_time": 1747472120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100921,
       "num": 182924,
       "word": "男子质疑妻子两个孩子1天100不够吗",
@@ -1944,6 +2048,14 @@
       "word": "国乒多哈世乒赛拿下开门红",
       "onboard_time": 1747471401,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93712,
+      "num": 154927,
+      "word": "林诗栋蒯曼回应混双开门红",
+      "onboard_time": 1747472660,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -2051,6 +2163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 77188,
+      "num": 164047,
+      "word": "周思成再发文谈争论起因",
+      "onboard_time": 1747473621,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 74344,
       "num": 74344,
       "word": "武艺首次披露父母离婚",
@@ -2147,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59205,
+      "num": 222818,
+      "word": "未来一周南方多地雨纷纷",
+      "onboard_time": 1747472541,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58819,
       "num": 65573,
       "word": "孟子义跑完马拉松累到认错人",
@@ -2187,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51279,
+      "num": 224389,
+      "word": "如何缓解工作带来的焦虑感",
+      "onboard_time": 1747473380,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51215,
       "num": 181051,
       "word": "ACL总决赛",
@@ -2225,6 +2361,14 @@
       "onboard_time": 1747437797,
       "rank": 47,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 46241,
+      "num": 225371,
+      "word": "美的脱口秀现场好热啊",
+      "onboard_time": 1747471761,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45212,
@@ -2411,6 +2555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 27234,
+      "num": 428314,
+      "word": "点亮网络文明之光",
+      "onboard_time": 1747472240,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26944,
       "num": 38615,
       "word": "河流",
@@ -2537,6 +2689,14 @@
       "onboard_time": 1747467262,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 11602,
+      "num": 142254,
+      "word": "世界雷达博览会有哪些重点展品",
+      "onboard_time": 1747472541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11469,

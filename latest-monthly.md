@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/17 16:43:43
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/17 17:24:44
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@ gidle改名idle（热度：2306655）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%89%E5%85%A5%E7%81%AB%E9%94%85%E5%B0%8F%E7%8C%AB%E5%B7%B2%E7%A6%BB%E4%B8%96%23" target="weibo">
 掉入火锅小猫已离世（热度：2054429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%A5%B3%E8%A3%85%20%E4%B8%91%23" target="weibo">
+今年的女装 丑（热度：2053687）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Labubu簪花（热度：519160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E7%9A%84%E7%A7%98%E5%AF%86%23" target="weibo">
 月子中心的秘密（热度：518357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Everglow%E5%AE%A3%E5%B8%83%E8%A7%A3%E6%95%A3%23" target="weibo">
-Everglow宣布解散（热度：518013）
 </a>
 </li>
 
