@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747524207440,
+  "endTime": 1747525059451,
   "band_list": [
     {
       "raw_hot": 1068647,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 786116,
-      "num": 795634,
+      "num": 908022,
       "word": "新疆多地上空出现不明飞行物",
       "onboard_time": 1747493787,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401283,
+      "num": 156343,
+      "word": "艾米拍照时把项链摘了",
+      "onboard_time": 1747523957,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385479,
       "num": 294434,
       "word": "李溪芮 内娱腿精",
@@ -123,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282372,
+      "num": 282372,
+      "word": "王楚钦鹰眼挑战成功",
+      "onboard_time": 1747522996,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266804,
       "num": 266804,
       "word": "周也戛纳出图",
@@ -131,20 +147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 252740,
-      "num": 252740,
+      "raw_hot": 264355,
+      "num": 264355,
       "word": "美国女子四度抗癌成功却意外被射杀",
       "onboard_time": 1747501578,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 244781,
-      "num": 244781,
-      "word": "王楚钦鹰眼挑战成功",
-      "onboard_time": 1747522996,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 233045,
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156343,
-      "num": 156343,
-      "word": "艾米拍照时把项链摘了",
-      "onboard_time": 1747523957,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149037,
       "num": 149037,
       "word": "多方回应咖啡店禁止幼童入内",
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108748,
+      "num": 136161,
+      "word": "林更新签约杨幂新公司",
+      "onboard_time": 1747524978,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
@@ -411,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90567,
+      "num": 134995,
+      "word": "魏劭小乔醉酒抱",
+      "onboard_time": 1747517594,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90428,
       "num": 90428,
       "word": "刘雨欣凭个人最高分获正式合约",
@@ -427,20 +443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87750,
-      "num": 87750,
-      "word": "魏劭小乔醉酒抱",
-      "onboard_time": 1747517594,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86962,
       "num": 86962,
       "word": "张远巡演官宣上天赐",
       "onboard_time": 1747498102,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84874,
+      "num": 84874,
+      "word": "藏海传剧评",
+      "onboard_time": 1747525039,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 81095,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75644,
+      "num": 75644,
+      "word": "驴友溺亡家属向21名队友索赔86万",
+      "onboard_time": 1747523537,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72389,
       "num": 72389,
       "word": "房东的猫哭到唱不下去",
@@ -523,6 +547,46 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54580,
+      "num": 159629,
+      "word": "王楚钦回应首秀开门红",
+      "onboard_time": 1747523116,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53974,
+      "num": 75707,
+      "word": "周也戛纳首秀造型",
+      "onboard_time": 1747523957,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 52636,
+      "num": 52636,
+      "word": "莎头 混双",
+      "onboard_time": 1747524798,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50104,
+      "num": 52526,
+      "word": "门店回应员工脱袜子抠脚",
+      "onboard_time": 1747509615,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49136,
+      "num": 165402,
+      "word": "文化中国行看文物里的绝美配色",
+      "onboard_time": 1747524197,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48642,
       "num": 48642,
       "word": "钟楚曦戛纳红毯",
@@ -531,28 +595,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45609,
-      "num": 45609,
-      "word": "驴友溺亡家属向21名队友索赔86万",
-      "onboard_time": 1747523537,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43911,
-      "num": 52526,
-      "word": "门店回应员工脱袜子抠脚",
-      "onboard_time": 1747509615,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40619,
-      "num": 159629,
-      "word": "王楚钦回应首秀开门红",
-      "onboard_time": 1747523116,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 40701,
+      "num": 40701,
+      "word": "水晶宫1比0曼城",
+      "onboard_time": 1747524978,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 35073,
@@ -563,12 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35002,
-      "num": 34357,
-      "word": "周也戛纳首秀造型",
-      "onboard_time": 1747523957,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 33423,
+      "num": 131534,
+      "word": "特朗普将分别与普京和泽连斯基通话",
+      "onboard_time": 1747523897,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32552,
@@ -579,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29441,
-      "num": 35266,
-      "word": "文化中国行看文物里的绝美配色",
-      "onboard_time": 1747524197,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 32481,
+      "num": 133394,
+      "word": "王楚钦示意闪光灯干扰",
+      "onboard_time": 1747523957,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27512,
@@ -635,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21533,
+      "num": 159693,
+      "word": "普京特朗普正在准备电话会谈",
+      "onboard_time": 1747524559,
+      "rank": 9,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 20402,
       "num": 25328,
       "word": "周也戛纳电影节人气",
@@ -681,14 +737,6 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16257,
-      "num": 84612,
-      "word": "王楚钦示意闪光灯干扰",
-      "onboard_time": 1747523957,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 15269,
