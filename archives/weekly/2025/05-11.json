@@ -1,6 +1,6 @@
 {
   "startTime": 1746894539323,
-  "endTime": 1747459422980,
+  "endTime": 1747460458894,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -571,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1473373,
+      "num": 231176,
+      "word": "疑似新娘给新郎让妆",
+      "onboard_time": 1747457730,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458104,
       "num": 1458104,
       "word": "北京协和医学院正在深入整改",
@@ -1051,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1149172,
+      "num": 220872,
+      "word": "黄杨钿甜房间",
+      "onboard_time": 1747459651,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1147372,
       "num": 511104,
       "word": "知情人回应黄杨钿甜父亲职务问题",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1747369522,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1026002,
-      "num": 231176,
-      "word": "疑似新娘给新郎让妆",
-      "onboard_time": 1747457730,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1023749,
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911544,
+      "num": 911544,
+      "word": "长沙别墅非法代孕涉事医生到案",
+      "onboard_time": 1747453952,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 911447,
       "num": 1145831,
       "word": "小楚乔原定演员葛莉莎曾回应过换角",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1747379361,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 906226,
-      "num": 906226,
-      "word": "长沙别墅非法代孕涉事医生到案",
-      "onboard_time": 1747453952,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 906081,
@@ -2945,6 +2953,14 @@
       "onboard_time": 1746955940,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534260,
+      "num": 220678,
+      "word": "孙杨比潘展乐快了1秒多",
+      "onboard_time": 1747459292,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 533113,
@@ -5611,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287696,
+      "num": 413862,
+      "word": "机构把代孕者美化成志愿者",
+      "onboard_time": 1747455511,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287592,
       "num": 287592,
       "word": "世界突然开始以和为贵",
@@ -5913,14 +5937,6 @@
       "onboard_time": 1747368321,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 270444,
-      "num": 413862,
-      "word": "机构把代孕者美化成志愿者",
-      "onboard_time": 1747455511,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269779,
@@ -6675,6 +6691,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243775,
+      "num": 243775,
+      "word": "陈赫集齐了所有蘑菇屋",
+      "onboard_time": 1747458270,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243569,
       "num": 243569,
       "word": "何炅黄磊合作新节目",
@@ -6993,14 +7017,6 @@
       "onboard_time": 1747093461,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 231915,
-      "num": 231915,
-      "word": "陈赫集齐了所有蘑菇屋",
-      "onboard_time": 1747458270,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 231885,
@@ -8443,6 +8459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 202417,
+      "num": 202417,
+      "word": "谁家男主蓄谋十五年娶白月光啊",
+      "onboard_time": 1747459590,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202028,
       "num": 202028,
       "word": "官方通报5干部培训期饮酒1人死亡",
@@ -8553,6 +8577,14 @@
       "onboard_time": 1747290803,
       "rank": 37,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 200746,
+      "num": 200746,
+      "word": "情侣间的引导性送礼方式",
+      "onboard_time": 1747460069,
+      "rank": 27,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 200719,
@@ -8985,6 +9017,14 @@
       "onboard_time": 1747398142,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 195085,
+      "num": 221495,
+      "word": "特朗普搞阅兵只给士兵1天1顿热餐",
+      "onboard_time": 1747458571,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195013,
@@ -11851,6 +11891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160903,
+      "num": 160903,
+      "word": "文俊辉gemini",
+      "onboard_time": 1747460011,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160899,
       "num": 160899,
       "word": "马嘉祺倒霉熊不是停播了吗",
@@ -12875,6 +12923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 151921,
+      "num": 151921,
+      "word": "李昀锐4000米跑后感",
+      "onboard_time": 1747457425,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151847,
       "num": 323332,
       "word": "NBA计划扩至32队",
@@ -13273,14 +13329,6 @@
       "onboard_time": 1747312103,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147356,
-      "num": 147356,
-      "word": "孙杨比潘展乐快了1秒多",
-      "onboard_time": 1747459292,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 147308,
@@ -13793,6 +13841,14 @@
       "onboard_time": 1747005620,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142534,
+      "num": 142534,
+      "word": "陶喆cos喆耳根",
+      "onboard_time": 1747460311,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 142458,
@@ -14363,14 +14419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 138532,
-      "num": 138532,
-      "word": "李昀锐4000米跑后感",
-      "onboard_time": 1747457425,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138259,
       "num": 163646,
       "word": "巴西总统夫人出席我仍在此首映礼",
@@ -14667,6 +14715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135035,
+      "num": 135035,
+      "word": "金价本周跌逾4%",
+      "onboard_time": 1747460311,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134971,
       "num": 134971,
       "word": "金价还在跌",
@@ -14787,6 +14843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134253,
+      "num": 134253,
+      "word": "莎头组合冲击第3个世乒赛混双奖杯",
+      "onboard_time": 1747460011,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134170,
       "num": 134170,
       "word": "余男古装扮相",
@@ -14817,6 +14881,14 @@
       "onboard_time": 1747047802,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133906,
+      "num": 133906,
+      "word": "米村拌饭免单",
+      "onboard_time": 1747460125,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 133883,
@@ -15339,6 +15411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129008,
+      "num": 200779,
+      "word": "送你一朵小苔花",
+      "onboard_time": 1747460125,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "不得任意修改纪念活动标识",
@@ -15673,6 +15753,14 @@
       "onboard_time": 1747027221,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126062,
+      "num": 126062,
+      "word": "乘风五公小考",
+      "onboard_time": 1747460430,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125879,
@@ -17345,14 +17433,6 @@
       "onboard_time": 1746956180,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108571,
-      "num": 221495,
-      "word": "特朗普搞阅兵只给士兵1天1顿热餐",
-      "onboard_time": 1747458571,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108387,
@@ -20212,7 +20292,7 @@
     },
     {
       "raw_hot": 58564,
-      "num": 174678,
+      "num": 192997,
       "word": "纽约期金创半年来最差单周表现",
       "onboard_time": 1747458089,
       "rank": 28,
@@ -21617,6 +21697,14 @@
       "onboard_time": 1747279761,
       "rank": 34,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 41437,
+      "num": 220252,
+      "word": "张凌赫人间Gucci",
+      "onboard_time": 1747459529,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41182,
@@ -23579,6 +23667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20528,
+      "num": 220043,
+      "word": "珠玉和跳楼机的审美差异引发了哪些争议",
+      "onboard_time": 1747459891,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20359,
       "num": 314502,
       "word": "妈妈是自带光芒的多面体",
@@ -23713,6 +23809,14 @@
       "onboard_time": 1746952882,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18882,
+      "num": 188940,
+      "word": "阵风战机像受伤的小鸟",
+      "onboard_time": 1747458391,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18832,
@@ -24225,14 +24329,6 @@
       "onboard_time": 1747021822,
       "rank": 17,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14610,
-      "num": 172760,
-      "word": "阵风战机像受伤的小鸟",
-      "onboard_time": 1747458391,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14566,
