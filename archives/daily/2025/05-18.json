@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747539237797,
+  "endTime": 1747540153212,
   "band_list": [
     {
       "raw_hot": 1290387,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 967550,
+      "num": 1154808,
+      "word": "载有200多人帆船撞上纽约大桥",
+      "onboard_time": 1747535549,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 941536,
       "num": 315946,
       "word": "博君一肖 藏海传云包场",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 938085,
-      "num": 146254,
+      "num": 182168,
       "word": "京东外卖",
       "onboard_time": 1747529969,
       "rank": 30,
@@ -65,14 +73,6 @@
       "onboard_time": 1747493787,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 763679,
-      "num": 763679,
-      "word": "载有200多人帆船撞上纽约大桥",
-      "onboard_time": 1747535549,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 687602,
@@ -105,6 +105,14 @@
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 466696,
+      "num": 197005,
+      "word": "原来卧室是可以有两层有楼梯的",
+      "onboard_time": 1747539209,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 464629,
@@ -169,6 +177,14 @@
       "onboard_time": 1747535009,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353664,
+      "num": 353664,
+      "word": "马克龙被埃尔多安拽住手指",
+      "onboard_time": 1747537648,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 344524,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283779,
+      "num": 283779,
+      "word": "周杰伦林俊杰王俊凯同框",
+      "onboard_time": 1747535309,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282615,
       "num": 192418,
       "word": "45%成年居民存在蛋白质摄入不足风险",
@@ -281,14 +305,6 @@
       "onboard_time": 1747487843,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263831,
-      "num": 263831,
-      "word": "周杰伦林俊杰王俊凯同框",
-      "onboard_time": 1747535309,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 244746,
@@ -339,20 +355,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211475,
+      "num": 198230,
+      "word": "王楚钦对王皓说一上来就判我",
+      "onboard_time": 1747534648,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208480,
+      "num": 208480,
+      "word": "孟子义说李昀锐身体真好",
+      "onboard_time": 1747538970,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206175,
       "num": 157425,
       "word": "王楚钦11比2纳雷什",
       "onboard_time": 1747502658,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205996,
-      "num": 192148,
-      "word": "原来卧室是可以有两层有楼梯的",
-      "onboard_time": 1747539209,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 203148,
@@ -379,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200265,
-      "num": 198230,
-      "word": "王楚钦对王皓说一上来就判我",
-      "onboard_time": 1747534648,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
       "onboard_time": 1747485803,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197061,
+      "num": 197061,
+      "word": "是女儿是妈妈2飞行嘉宾阵容",
+      "onboard_time": 1747539570,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 192100,
@@ -427,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178389,
+      "num": 178389,
+      "word": "高位截瘫男孩自驾看雪山",
+      "onboard_time": 1747539510,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "白宇刘宇宁都有气胸",
@@ -441,6 +473,22 @@
       "onboard_time": 1747497202,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173616,
+      "num": 196017,
+      "word": "有被美的装到",
+      "onboard_time": 1747539450,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 170484,
+      "num": 188749,
+      "word": "范思哲 丁禹兮",
+      "onboard_time": 1747539750,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169160,
@@ -467,12 +515,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 150165,
-      "num": 192481,
-      "word": "马克龙被埃尔多安拽住手指",
-      "onboard_time": 1747537648,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 153690,
+      "num": 187142,
+      "word": "折腰",
+      "onboard_time": 1747539329,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149937,
+      "num": 149937,
+      "word": "江苏大学生22岁入行电竞主打夕阳红",
+      "onboard_time": 1747539510,
+      "rank": 36,
+      "category": "民生新闻,电竞"
     },
     {
       "raw_hot": 149037,
@@ -483,19 +539,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145479,
+      "num": 145479,
+      "word": "河南事业编考试",
+      "onboard_time": 1747539690,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 144835,
+      "num": 144835,
+      "word": "孙杨回应不敌潘展乐",
+      "onboard_time": 1747538909,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144738,
       "num": 144738,
       "word": "戴荃回应林志炫唱悟空",
       "onboard_time": 1747495347,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143294,
-      "num": 143294,
-      "word": "孟子义说李昀锐身体真好",
-      "onboard_time": 1747538970,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -531,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137035,
+      "num": 137035,
+      "word": "去过安徽黄山的人嘴可真严啊",
+      "onboard_time": 1747539209,
+      "rank": 49,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 136871,
-      "num": 163779,
+      "num": 192194,
       "word": "当老外吃到中国科技细糠",
       "onboard_time": 1747537648,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135857,
+      "num": 261988,
+      "word": "FBI称加州发生恐怖袭击事件",
+      "onboard_time": 1747538069,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135485,
@@ -571,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128873,
-      "num": 128873,
-      "word": "孙杨回应不敌潘展乐",
-      "onboard_time": 1747538909,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128557,
       "num": 128557,
       "word": "Xun说BLG打法变化不大",
@@ -609,6 +681,14 @@
       "onboard_time": 1747534108,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 126226,
+      "num": 126226,
+      "word": "躺床上就把演唱会看了",
+      "onboard_time": 1747539750,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 125857,
@@ -659,6 +739,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115968,
+      "num": 115968,
+      "word": "在短剧里吃到了恨海情天细糠",
+      "onboard_time": 1747540051,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114993,
+      "num": 185336,
+      "word": "不要小看印度的理由",
+      "onboard_time": 1747539269,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 113848,
       "num": 223884,
       "word": "德味全画幅相机1元起拍",
@@ -707,28 +803,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104256,
-      "num": 104256,
-      "word": "美国女子在家中突遭流弹击中身亡",
-      "onboard_time": 1747494207,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104256,
-      "num": 104256,
+      "raw_hot": 105396,
+      "num": 105396,
       "word": "残疾客服妈妈月入过万还5点兼职摆摊",
       "onboard_time": 1747537290,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103553,
-      "num": 103553,
-      "word": "去过安徽黄山的人嘴可真严啊",
-      "onboard_time": 1747539209,
-      "rank": 49,
-      "category": "民生新闻,旅游"
+      "raw_hot": 104256,
+      "num": 104256,
+      "word": "美国女子在家中突遭流弹击中身亡",
+      "onboard_time": 1747494207,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102751,
@@ -948,7 +1036,7 @@
     },
     {
       "raw_hot": 73868,
-      "num": 73868,
+      "num": 189323,
       "word": "多地油价或重回6元时代",
       "onboard_time": 1747531709,
       "rank": 49,
@@ -969,14 +1057,6 @@
       "onboard_time": 1747501578,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 64201,
-      "num": 261988,
-      "word": "FBI称加州发生恐怖袭击事件",
-      "onboard_time": 1747538069,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 61322,
@@ -1099,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30075,
+      "num": 140350,
+      "word": "真正的快乐指向个体构成",
+      "onboard_time": 1747539390,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27512,
       "num": 55611,
       "word": "于适贵阳音乐节舞台",
@@ -1123,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26272,
+      "num": 193668,
+      "word": "新疆不明飞行物来自哪里",
+      "onboard_time": 1747539149,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25143,
       "num": 55396,
       "word": "卓沅明天见喽",
@@ -1137,6 +1233,14 @@
       "onboard_time": 1747507396,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22292,
+      "num": 162475,
+      "word": "官方通报老师殴打威胁小学生处理结果",
+      "onboard_time": 1747539990,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21533,
@@ -1169,14 +1273,6 @@
       "onboard_time": 1747508116,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17105,
-      "num": 125166,
-      "word": "新疆不明飞行物来自哪里",
-      "onboard_time": 1747539149,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17100,
@@ -1241,6 +1337,14 @@
       "onboard_time": 1747482743,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11755,
+      "num": 186304,
+      "word": "店名撞音当地粗话符合起名规范吗",
+      "onboard_time": 1747539990,
+      "rank": 28,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [

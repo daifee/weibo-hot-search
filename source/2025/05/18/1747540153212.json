@@ -1,0 +1,410 @@
+{
+  "runTime": 1747540153212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967550,
+        "num": 1154808,
+        "word": "载有200多人帆船撞上纽约大桥",
+        "onboard_time": 1747535549,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 469364,
+        "num": 469364,
+        "word": "林更新签约杨幂新公司",
+        "onboard_time": 1747524978,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22499,
+        "num": 357419,
+        "word": "文化中国行看文物里的绝美配色",
+        "onboard_time": 1747524197,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 353664,
+        "num": 353664,
+        "word": "马克龙被埃尔多安拽住手指",
+        "onboard_time": 1747537648,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340897,
+        "num": 340897,
+        "word": "你好星期六收视率",
+        "onboard_time": 1747495825,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297183,
+        "num": 297183,
+        "word": "王者荣耀",
+        "onboard_time": 1747536029,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283779,
+        "num": 283779,
+        "word": "周杰伦林俊杰王俊凯同框",
+        "onboard_time": 1747535309,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283734,
+        "num": 283734,
+        "word": "新疆多地上空出现不明飞行物",
+        "onboard_time": 1747493787,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213724,
+        "num": 213724,
+        "word": "驴友溺亡家属向21名队友索赔86万",
+        "onboard_time": 1747523537,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208480,
+        "num": 208480,
+        "word": "孟子义说李昀锐身体真好",
+        "onboard_time": 1747538970,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1216518,
+        "num": 206584,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1013232,
+        "num": 204709,
+        "word": "螺蛳粉店名撞音当地粗话遭举报",
+        "onboard_time": 1747533630,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567100,
+        "num": 201680,
+        "word": "艾米拍照时把项链摘了",
+        "onboard_time": 1747523957,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292971,
+        "num": 198154,
+        "word": "刘亦菲ig更新",
+        "onboard_time": 1747535009,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197061,
+        "num": 197061,
+        "word": "是女儿是妈妈2飞行嘉宾阵容",
+        "onboard_time": 1747539570,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466696,
+        "num": 197005,
+        "word": "原来卧室是可以有两层有楼梯的",
+        "onboard_time": 1747539209,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173616,
+        "num": 196017,
+        "word": "有被美的装到",
+        "onboard_time": 1747539450,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 286611,
+        "num": 195015,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278993,
+        "num": 193983,
+        "word": "离婚已3年男子喊话前妻求放过",
+        "onboard_time": 1747501519,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26272,
+        "num": 193668,
+        "word": "新疆不明飞行物来自哪里",
+        "onboard_time": 1747539149,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235229,
+        "num": 192348,
+        "word": "45%成年居民存在蛋白质摄入不足风险",
+        "onboard_time": 1747535609,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78376,
+        "num": 192194,
+        "word": "当老外吃到中国科技细糠",
+        "onboard_time": 1747537648,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211475,
+        "num": 190986,
+        "word": "王楚钦对王皓说一上来就判我",
+        "onboard_time": 1747534648,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178163,
+        "num": 190275,
+        "word": "肖战藏海传挑眉镜头",
+        "onboard_time": 1747537471,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41953,
+        "num": 189323,
+        "word": "多地油价或重回6元时代",
+        "onboard_time": 1747531709,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 170484,
+        "num": 188749,
+        "word": "范思哲 丁禹兮",
+        "onboard_time": 1747539750,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157985,
+        "num": 187580,
+        "word": "黄圣依回忆8岁父母出国独自生活",
+        "onboard_time": 1747537709,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153690,
+        "num": 187142,
+        "word": "折腰",
+        "onboard_time": 1747539329,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11755,
+        "num": 186304,
+        "word": "店名撞音当地粗话符合起名规范吗",
+        "onboard_time": 1747539990,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 114993,
+        "num": 185336,
+        "word": "不要小看印度的理由",
+        "onboard_time": 1747539269,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 185019,
+        "num": 185019,
+        "word": "建议大家把睡觉当成一天的开始",
+        "onboard_time": 1747530628,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284290,
+        "num": 182168,
+        "word": "京东外卖",
+        "onboard_time": 1747529969,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 178389,
+        "word": "高位截瘫男孩自驾看雪山",
+        "onboard_time": 1747539510,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22292,
+        "num": 162475,
+        "word": "官方通报老师殴打威胁小学生处理结果",
+        "onboard_time": 1747539990,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150277,
+        "num": 150277,
+        "word": "春夏演技",
+        "onboard_time": 1747530029,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 150128,
+        "word": "医生建议男孩三岁后应该分床睡",
+        "onboard_time": 1747530628,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 149937,
+        "num": 149937,
+        "word": "江苏大学生22岁入行电竞主打夕阳红",
+        "onboard_time": 1747539510,
+        "rank": 36,
+        "category": "民生新闻,电竞"
+      },
+      {
+        "raw_hot": 145479,
+        "num": 145479,
+        "word": "河南事业编考试",
+        "onboard_time": 1747539690,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144835,
+        "num": 144835,
+        "word": "孙杨回应不敌潘展乐",
+        "onboard_time": 1747538909,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30075,
+        "num": 140350,
+        "word": "真正的快乐指向个体构成",
+        "onboard_time": 1747539390,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "去过安徽黄山的人嘴可真严啊",
+        "onboard_time": 1747539209,
+        "rank": 40,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 135857,
+        "num": 135857,
+        "word": "FBI称加州发生恐怖袭击事件",
+        "onboard_time": 1747538069,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128509,
+        "num": 128509,
+        "word": "藏海传剧评",
+        "onboard_time": 1747525039,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128504,
+        "num": 128504,
+        "word": "虞书欣 maia",
+        "onboard_time": 1747534829,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126226,
+        "num": 126226,
+        "word": "躺床上就把演唱会看了",
+        "onboard_time": 1747539750,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117014,
+        "num": 117014,
+        "word": "莎头 混双",
+        "onboard_time": 1747524798,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115968,
+        "num": 115968,
+        "word": "在短剧里吃到了恨海情天细糠",
+        "onboard_time": 1747540051,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105396,
+        "num": 105396,
+        "word": "残疾客服妈妈月入过万还5点兼职摆摊",
+        "onboard_time": 1747537290,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104240,
+        "num": 104240,
+        "word": "鹰眼让发球遮挡无处可遁",
+        "onboard_time": 1747535609,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104103,
+        "num": 104103,
+        "word": "Xun说BLG打法变化不大",
+        "onboard_time": 1747533869,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述文物里的文明交融#"
+    }
+  }
+}
