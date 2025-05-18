@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747579195242,
+  "endTime": 1747581827596,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -17,6 +17,14 @@
       "onboard_time": 1747559061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2117006,
+      "num": 2117006,
+      "word": "折腰热度破三万",
+      "onboard_time": 1747579344,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1739961,
@@ -73,6 +81,14 @@
       "onboard_time": 1747541131,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1394637,
+      "num": 697116,
+      "word": "藏海割了双眼皮",
+      "onboard_time": 1747579104,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1325728,
@@ -147,8 +163,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1027797,
+      "num": 300997,
+      "word": "小伙摔倒以为没事7天后死亡",
+      "onboard_time": 1747579403,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969684,
-      "num": 407940,
+      "num": 417145,
       "word": "肖战演技",
       "onboard_time": 1747573582,
       "rank": 8,
@@ -379,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639489,
+      "num": 639489,
+      "word": "孙汪",
+      "onboard_time": 1747578624,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636064,
       "num": 1101770,
       "word": "林更新签约杨幂新公司",
@@ -393,6 +425,14 @@
       "onboard_time": 1747572262,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 618739,
+      "num": 300557,
+      "word": "王俊凯工作室",
+      "onboard_time": 1747578204,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 606986,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 560943,
-      "num": 255855,
+      "num": 295605,
       "word": "陈星旭终于正视自己的颜值了",
       "onboard_time": 1747575503,
       "rank": 47,
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 505494,
-      "num": 252438,
+      "num": 266097,
       "word": "孙千好辣",
       "onboard_time": 1747574302,
       "rank": 25,
@@ -587,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380165,
+      "num": 295757,
+      "word": "金巧巧本人都认不出的程度",
+      "onboard_time": 1747580303,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 380066,
+      "num": 263439,
+      "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
+      "onboard_time": 1747580424,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 376087,
       "num": 200391,
       "word": "藏海传热度",
@@ -665,6 +721,14 @@
       "onboard_time": 1747547782,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339113,
+      "num": 339113,
+      "word": "保姆变后妈占房不走腾房索要30万",
+      "onboard_time": 1747578565,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337118,
@@ -763,20 +827,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308407,
+      "num": 297940,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1747579523,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303848,
       "num": 167885,
       "word": "藏海传 盗墓笔记",
       "onboard_time": 1747569621,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300770,
-      "num": 245294,
-      "word": "王俊凯工作室",
-      "onboard_time": 1747578204,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 300380,
@@ -808,6 +872,14 @@
       "word": "惠英红自曝被换角",
       "onboard_time": 1747545749,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294325,
+      "num": 294325,
+      "word": "高叔微博",
+      "onboard_time": 1747580424,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -889,6 +961,14 @@
       "onboard_time": 1747556181,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268159,
+      "num": 268159,
+      "word": "王俊凯直播",
+      "onboard_time": 1747572923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 268136,
@@ -1115,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214482,
+      "num": 214482,
+      "word": "谁家综艺凑到这么多梗王",
+      "onboard_time": 1747579104,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "哪吒之魔童闹海票房破154亿",
@@ -1139,12 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209927,
-      "num": 204282,
-      "word": "藏海割了双眼皮",
-      "onboard_time": 1747579104,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 209977,
+      "num": 209977,
+      "word": "成都到新疆售价5万起专列卖爆",
+      "onboard_time": 1747580004,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209242,
@@ -1212,7 +1300,7 @@
     },
     {
       "raw_hot": 205724,
-      "num": 205724,
+      "num": 243753,
       "word": "86岁父亲骑车半月陪失偶儿子",
       "onboard_time": 1747577965,
       "rank": 46,
@@ -1233,14 +1321,6 @@
       "onboard_time": 1747553482,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204034,
-      "num": 191771,
-      "word": "王俊凯直播",
-      "onboard_time": 1747572923,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 203468,
@@ -1331,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198788,
+      "num": 311746,
+      "word": "央视曝光废旧工厂成非法垃圾山",
+      "onboard_time": 1747578565,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 197237,
       "num": 197237,
       "word": "新冠阳性率上升三类人要注意",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1747539570,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196908,
+      "num": 196908,
+      "word": "维斯塔潘夺冠",
+      "onboard_time": 1747580845,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196725,
@@ -1403,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191273,
+      "num": 191273,
+      "word": "谁有平津侯微博",
+      "onboard_time": 1747581506,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190807,
       "num": 190807,
       "word": "周深不知道帽子已经掉了",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1747555700,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188559,
+      "num": 188559,
+      "word": "汪苏泷 我们",
+      "onboard_time": 1747581144,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 188424,
@@ -1459,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185876,
+      "num": 185876,
+      "word": "洗衣液香味会影响心情吗",
+      "onboard_time": 1747581144,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 185268,
       "num": 185268,
       "word": "PEL",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1747542509,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184375,
+      "num": 184375,
+      "word": "黄子韬卫生巾15分钟卖19.5万件",
+      "onboard_time": 1747579704,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 184043,
@@ -1659,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168450,
+      "num": 168450,
+      "word": "邓紫棋襄阳演唱会",
+      "onboard_time": 1747580783,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168418,
       "num": 168418,
       "word": "藏海传云包场",
@@ -1715,6 +1851,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164994,
+      "num": 164994,
+      "word": "TT春季赛总冠军",
+      "onboard_time": 1747581744,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 164852,
+      "num": 297667,
+      "word": "马嘉祺歌手唱TheGreatestShow",
+      "onboard_time": 1747580963,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164590,
       "num": 287818,
       "word": "美国多地强风暴致27死",
@@ -1745,14 +1897,6 @@
       "onboard_time": 1747545989,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159235,
-      "num": 159235,
-      "word": "孙汪",
-      "onboard_time": 1747578624,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 158823,
@@ -1843,14 +1987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154019,
-      "num": 154019,
-      "word": "谁家综艺凑到这么多梗王",
-      "onboard_time": 1747579104,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "湿气越吃越少的10种食物",
@@ -1889,6 +2025,14 @@
       "onboard_time": 1747575564,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150912,
+      "num": 199919,
+      "word": "减重医生教你大体重减肥操",
+      "onboard_time": 1747581203,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 150776,
@@ -2043,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139676,
-      "num": 305347,
-      "word": "保姆变后妈占房不走腾房索要30万",
-      "onboard_time": 1747578565,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139435,
       "num": 139435,
       "word": "孙杨200自小组第一",
@@ -2073,6 +2209,14 @@
       "onboard_time": 1747546640,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138195,
+      "num": 294423,
+      "word": "雨果太懂浪漫了",
+      "onboard_time": 1747579285,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 137664,
@@ -2939,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90687,
+      "num": 296409,
+      "word": "TT一夜双冠",
+      "onboard_time": 1747580603,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90567,
       "num": 134995,
       "word": "魏劭小乔醉酒抱",
@@ -3107,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75897,
+      "num": 297399,
+      "word": "拧紧党政机关带头过紧日子的制度螺栓",
+      "onboard_time": 1747581564,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75791,
       "num": 75791,
       "word": "赵磊 此刻我拥有了一切",
@@ -3147,14 +3307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73984,
-      "num": 311746,
-      "word": "央视曝光废旧工厂成非法垃圾山",
-      "onboard_time": 1747578565,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 73868,
       "num": 189323,
       "word": "多地油价或重回6元时代",
@@ -3185,6 +3337,14 @@
       "onboard_time": 1747542271,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68628,
+      "num": 298959,
+      "word": "咖啡店回应12岁以下儿童禁入",
+      "onboard_time": 1747580603,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68074,
@@ -3617,6 +3777,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29460,
+      "num": 296598,
+      "word": "团伙将车租给未成年人后做局敲诈",
+      "onboard_time": 1747580664,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29145,

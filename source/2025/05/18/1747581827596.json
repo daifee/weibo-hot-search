@@ -1,0 +1,410 @@
+{
+  "runTime": 1747581827596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2117006,
+        "num": 2117006,
+        "word": "折腰热度破三万",
+        "onboard_time": 1747579344,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1022739,
+        "num": 1022739,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42273,
+        "num": 744692,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1394637,
+        "num": 697116,
+        "word": "藏海割了双眼皮",
+        "onboard_time": 1747579104,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639489,
+        "num": 639489,
+        "word": "孙汪",
+        "onboard_time": 1747578624,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436569,
+        "num": 436569,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1197280,
+        "num": 421497,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 883941,
+        "num": 417145,
+        "word": "肖战演技",
+        "onboard_time": 1747573582,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339113,
+        "num": 339113,
+        "word": "保姆变后妈占房不走腾房索要30万",
+        "onboard_time": 1747578565,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301026,
+        "num": 301026,
+        "word": "英语进步最快的方式",
+        "onboard_time": 1747574483,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1027797,
+        "num": 300997,
+        "word": "小伙摔倒以为没事7天后死亡",
+        "onboard_time": 1747579403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 618739,
+        "num": 300557,
+        "word": "王俊凯工作室",
+        "onboard_time": 1747578204,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473360,
+        "num": 300114,
+        "word": "金子涵 好朋友",
+        "onboard_time": 1747573404,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448863,
+        "num": 299483,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68628,
+        "num": 298959,
+        "word": "咖啡店回应12岁以下儿童禁入",
+        "onboard_time": 1747580603,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397959,
+        "num": 298496,
+        "word": "藏海传阴兵吓我一跳",
+        "onboard_time": 1747573341,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308407,
+        "num": 297940,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1747579523,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164852,
+        "num": 297667,
+        "word": "马嘉祺歌手唱TheGreatestShow",
+        "onboard_time": 1747580963,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75897,
+        "num": 297399,
+        "word": "拧紧党政机关带头过紧日子的制度螺栓",
+        "onboard_time": 1747581564,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29460,
+        "num": 296598,
+        "word": "团伙将车租给未成年人后做局敲诈",
+        "onboard_time": 1747580664,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90687,
+        "num": 296409,
+        "word": "TT一夜双冠",
+        "onboard_time": 1747580603,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 380165,
+        "num": 295757,
+        "word": "金巧巧本人都认不出的程度",
+        "onboard_time": 1747580303,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372638,
+        "num": 295605,
+        "word": "陈星旭终于正视自己的颜值了",
+        "onboard_time": 1747575503,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359873,
+        "num": 295090,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138195,
+        "num": 294423,
+        "word": "雨果太懂浪漫了",
+        "onboard_time": 1747579285,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294325,
+        "num": 294325,
+        "word": "高叔微博",
+        "onboard_time": 1747580424,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288888,
+        "num": 288888,
+        "word": "肖战回复陈妍希",
+        "onboard_time": 1747569201,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288019,
+        "num": 288019,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268159,
+        "num": 268159,
+        "word": "王俊凯直播",
+        "onboard_time": 1747572923,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266097,
+        "num": 266097,
+        "word": "孙千好辣",
+        "onboard_time": 1747574302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380066,
+        "num": 263439,
+        "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
+        "onboard_time": 1747580424,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254765,
+        "num": 254765,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244894,
+        "num": 244894,
+        "word": "藏海传观后感",
+        "onboard_time": 1747573222,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204360,
+        "num": 243753,
+        "word": "86岁父亲骑车半月陪失偶儿子",
+        "onboard_time": 1747577965,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242892,
+        "num": 242892,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214482,
+        "num": 214482,
+        "word": "谁家综艺凑到这么多梗王",
+        "onboard_time": 1747579104,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209977,
+        "num": 209977,
+        "word": "成都到新疆售价5万起专列卖爆",
+        "onboard_time": 1747580004,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203973,
+        "num": 203973,
+        "word": "郑氏姐妹",
+        "onboard_time": 1747577723,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150912,
+        "num": 199919,
+        "word": "减重医生教你大体重减肥操",
+        "onboard_time": 1747581203,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198788,
+        "num": 198788,
+        "word": "央视曝光废旧工厂成非法垃圾山",
+        "onboard_time": 1747578565,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 196908,
+        "num": 196908,
+        "word": "维斯塔潘夺冠",
+        "onboard_time": 1747580845,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194909,
+        "num": 194909,
+        "word": "张艺兴音乐节",
+        "onboard_time": 1747576224,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191572,
+        "num": 191572,
+        "word": "李佳薇报名歌手揭榜",
+        "onboard_time": 1747577723,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191273,
+        "num": 191273,
+        "word": "谁有平津侯微博",
+        "onboard_time": 1747581506,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188559,
+        "num": 188559,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1747581144,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156703,
+        "num": 186564,
+        "word": "潘展乐汪顺孙杨携手晋级",
+        "onboard_time": 1747573341,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185876,
+        "num": 185876,
+        "word": "洗衣液香味会影响心情吗",
+        "onboard_time": 1747581144,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184375,
+        "num": 184375,
+        "word": "黄子韬卫生巾15分钟卖19.5万件",
+        "onboard_time": 1747579704,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168450,
+        "num": 168450,
+        "word": "邓紫棋襄阳演唱会",
+        "onboard_time": 1747580783,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 164994,
+        "word": "TT春季赛总冠军",
+        "onboard_time": 1747581744,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}
