@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747596991827,
+  "endTime": 1747599982646,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -4329,6 +4329,14 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16548,
+      "num": 17964,
+      "word": "刘晓庆回应和唐国强演将门毒后",
+      "onboard_time": 1747595595,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 16268,
