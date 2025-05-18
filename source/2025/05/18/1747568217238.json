@@ -1,0 +1,410 @@
+{
+  "runTime": 1747568217238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1159845,
+        "num": 1185575,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 915939,
+        "num": 915939,
+        "word": "匿名校友向复旦大学捐赠1亿元",
+        "onboard_time": 1747563861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58720,
+        "num": 797451,
+        "word": "博物馆的满分文案",
+        "onboard_time": 1747558462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115625,
+        "num": 788826,
+        "word": "黄子韬说老婆是最有底气的试验品",
+        "onboard_time": 1747563323,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780154,
+        "num": 780154,
+        "word": "王楚钦说八年和八天的不一样",
+        "onboard_time": 1747563025,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569462,
+        "num": 569462,
+        "word": "多方回应成都巨型3D蛇太逼真引争议",
+        "onboard_time": 1747563622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586609,
+        "num": 546968,
+        "word": "叶舒华古装",
+        "onboard_time": 1747566622,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487944,
+        "num": 487944,
+        "word": "印度卫星发射失败主持人快哭了",
+        "onboard_time": 1747562721,
+        "rank": 7,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 422297,
+        "num": 422297,
+        "word": "宋威龙寸头",
+        "onboard_time": 1747562843,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272867,
+        "num": 272867,
+        "word": "C罗将离开利雅得胜利",
+        "onboard_time": 1747565601,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507868,
+        "num": 264100,
+        "word": "杨紫 时尚芭莎",
+        "onboard_time": 1747560861,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 346935,
+        "num": 256582,
+        "word": "肖战工作室 陪聊",
+        "onboard_time": 1747556780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343776,
+        "num": 244576,
+        "word": "稻城亚丁景区一女游客因高反去世",
+        "onboard_time": 1747560561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304683,
+        "num": 233020,
+        "word": "钟汉良陈妍希藏海传双双哭碎",
+        "onboard_time": 1747561941,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221683,
+        "num": 221683,
+        "word": "睡前4分钟懒人躺着瘦全身",
+        "onboard_time": 1747563205,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210497,
+        "num": 210497,
+        "word": "黄子韬回应卫生巾被指贴牌",
+        "onboard_time": 1747567581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210132,
+        "num": 210132,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40715,
+        "num": 209265,
+        "word": "在蛋蛋直播间看见俄罗斯好物",
+        "onboard_time": 1747564580,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38810,
+        "num": 208138,
+        "word": "乌军F16坠毁细节曝光",
+        "onboard_time": 1747567880,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37617,
+        "num": 207468,
+        "word": "哈马斯愿一次性释放所有人质以换取和平",
+        "onboard_time": 1747567880,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13616,
+        "num": 205606,
+        "word": "福娃凤仪回国如何适应新环境",
+        "onboard_time": 1747567941,
+        "rank": 20,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 19962,
+        "num": 203694,
+        "word": "蹲着走路的医生多次求职碰壁",
+        "onboard_time": 1747567822,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299948,
+        "num": 203592,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49961,
+        "num": 202136,
+        "word": "花海新的一天从比耶开始",
+        "onboard_time": 1747567701,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201106,
+        "num": 201106,
+        "word": "陈都灵探班孟子义合照",
+        "onboard_time": 1747560861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27266,
+        "num": 189412,
+        "word": "藿香正气液驱赶飞虫的原理是什么",
+        "onboard_time": 1747566982,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186750,
+        "num": 186750,
+        "word": "王一博出镜Discovery特别节目",
+        "onboard_time": 1747567221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88058,
+        "num": 181888,
+        "word": "2025PEL春决冠军之夜",
+        "onboard_time": 1747566862,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180902,
+        "num": 180902,
+        "word": "藏海传开播",
+        "onboard_time": 1747550121,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104761,
+        "num": 174850,
+        "word": "莎头组合说很久没配依然默契",
+        "onboard_time": 1747566501,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172223,
+        "num": 172223,
+        "word": "小女孩往陌生人饮料里加洗手液",
+        "onboard_time": 1747556060,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161269,
+        "num": 161269,
+        "word": "女子先兆流产请假被开除获赔7.2万多",
+        "onboard_time": 1747556961,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 152978,
+        "num": 152978,
+        "word": "千万诈骗犯大部分钱转给女友",
+        "onboard_time": 1747566261,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148076,
+        "num": 148076,
+        "word": "男生病重全班赶来合拍毕业照",
+        "onboard_time": 1747551801,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 423233,
+        "num": 147737,
+        "word": "艾威妻子Lisa去世",
+        "onboard_time": 1747556541,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140419,
+        "num": 140419,
+        "word": "财不外露",
+        "onboard_time": 1747549639,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "虞书欣把妈妈们当作同龄人看待",
+        "onboard_time": 1747566622,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134479,
+        "num": 134479,
+        "word": "张本智和vs林钟勋",
+        "onboard_time": 1747564701,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130592,
+        "num": 130592,
+        "word": "撕拉片 考验颜值",
+        "onboard_time": 1747565181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124929,
+        "num": 124929,
+        "word": "马思纯春夏孙千同框状态",
+        "onboard_time": 1747567941,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "开榴莲",
+        "onboard_time": 1747558760,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113931,
+        "num": 113931,
+        "word": "孙颖莎笑称多活一天是一天",
+        "onboard_time": 1747564580,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109202,
+        "num": 109202,
+        "word": "凤冠冰箱贴",
+        "onboard_time": 1747563741,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 105814,
+        "num": 105814,
+        "word": "仙逆89集",
+        "onboard_time": 1747565661,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104737,
+        "num": 104737,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103379,
+        "num": 103379,
+        "word": "魏劭护妻",
+        "onboard_time": 1747568002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103360,
+        "num": 103360,
+        "word": "串串店回应买单222根自己数仅119根",
+        "onboard_time": 1747567640,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97464,
+        "num": 97464,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92950,
+        "num": 92950,
+        "word": "落花时节又逢君大结局",
+        "onboard_time": 1747568121,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82618,
+        "num": 92132,
+        "word": "江苏疾控声明下设部门无病毒研究所",
+        "onboard_time": 1747563981,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#让收藏在博物馆里的文物活起来#"
+    }
+  }
+}
