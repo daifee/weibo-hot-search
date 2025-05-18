@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747604197813,
+  "endTime": 1747607003760,
   "band_list": [
     {
       "raw_hot": 830491,
@@ -323,7 +323,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128706,
+      "raw_hot": 137278,
+      "num": 81018,
+      "word": "安在旭在美开颅手术花费5亿韩元",
+      "onboard_time": 1747591697,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128980,
       "num": 284996,
       "word": "中医院回应患者购买中药检出西药成分",
       "onboard_time": 1747585105,
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78643,
+      "num": 78643,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1747582344,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78090,
       "num": 78090,
       "word": "张艺兴音乐节",
@@ -476,10 +492,18 @@
     },
     {
       "raw_hot": 61637,
-      "num": 49059,
+      "num": 52593,
       "word": "折腰要剧本有剧本要演员有演员",
       "onboard_time": 1747590437,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57271,
+      "num": 57271,
+      "word": "藏海传破2",
+      "onboard_time": 1747605735,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -491,20 +515,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 53311,
-      "num": 48047,
-      "word": "安在旭在美开颅手术花费5亿韩元",
-      "onboard_time": 1747591697,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51754,
       "num": 51754,
       "word": "张凌赫章昊同框飙戏",
       "onboard_time": 1747589599,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49128,
+      "num": 49128,
+      "word": "钟汉良蒯铎",
+      "onboard_time": 1747593436,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 41068,
@@ -515,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33279,
-      "num": 33279,
-      "word": "钟汉良蒯铎",
-      "onboard_time": 1747593436,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 36121,
+      "num": 36121,
+      "word": "退圈摆摊男演员透露有很多戏找他",
+      "onboard_time": 1747600693,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32408,
+      "num": 32408,
+      "word": "沈月闺蜜晒沈月与新生儿合照",
+      "onboard_time": 1747600394,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 31334,
@@ -531,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31238,
-      "num": 31238,
-      "word": "退圈摆摊男演员透露有很多戏找他",
-      "onboard_time": 1747600693,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31210,
       "num": 739077,
       "word": "天问二号一次发射实施任务可不少",
@@ -547,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30120,
-      "num": 30120,
-      "word": "掘金vs雷霆",
-      "onboard_time": 1747582344,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 28170,
+      "num": 28170,
+      "word": "刘晓庆回应和唐国强演将门毒后",
+      "onboard_time": 1747595595,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 28103,
@@ -571,7 +595,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26394,
+      "raw_hot": 26487,
       "num": 42185,
       "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
       "onboard_time": 1747586901,
@@ -587,15 +611,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19934,
-      "num": 25761,
-      "word": "世上再无稚奴只有藏海",
-      "onboard_time": 1747595955,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 19179,
+      "raw_hot": 20503,
       "num": 39528,
       "word": "乌空军已承认损失3架F16",
       "onboard_time": 1747592955,
@@ -603,19 +619,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18804,
-      "num": 18804,
-      "word": "沈月闺蜜晒沈月与新生儿合照",
-      "onboard_time": 1747600394,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 16548,
-      "num": 17964,
-      "word": "刘晓庆回应和唐国强演将门毒后",
-      "onboard_time": 1747595595,
-      "rank": 38,
+      "raw_hot": 19934,
+      "num": 25761,
+      "word": "世上再无稚奴只有藏海",
+      "onboard_time": 1747595955,
+      "rank": 49,
       "category": "剧集"
     },
     {

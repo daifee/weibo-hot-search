@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747604197813,
+  "endTime": 1747607003760,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -2379,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137278,
+      "num": 81018,
+      "word": "安在旭在美开颅手术花费5亿韩元",
+      "onboard_time": 1747591697,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137035,
       "num": 137035,
       "word": "去过安徽黄山的人嘴可真严啊",
@@ -2547,7 +2555,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128706,
+      "raw_hot": 128980,
       "num": 284996,
       "word": "中医院回应患者购买中药检出西药成分",
       "onboard_time": 1747585105,
@@ -3620,7 +3628,7 @@
     },
     {
       "raw_hot": 61637,
-      "num": 49059,
+      "num": 52593,
       "word": "折腰要剧本有剧本要演员有演员",
       "onboard_time": 1747590437,
       "rank": 20,
@@ -3665,6 +3673,14 @@
       "onboard_time": 1747554684,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 57271,
+      "num": 57271,
+      "word": "藏海传破2",
+      "onboard_time": 1747605735,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 55979,
@@ -3723,14 +3739,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 53311,
-      "num": 48047,
-      "word": "安在旭在美开颅手术花费5亿韩元",
-      "onboard_time": 1747591697,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52721,
       "num": 311145,
       "word": "全国每20万人拥有一家博物馆",
@@ -3785,6 +3793,14 @@
       "onboard_time": 1747524197,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49128,
+      "num": 49128,
+      "word": "钟汉良蒯铎",
+      "onboard_time": 1747593436,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 48703,
@@ -3963,6 +3979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 36121,
+      "num": 36121,
+      "word": "退圈摆摊男演员透露有很多戏找他",
+      "onboard_time": 1747600693,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35073,
       "num": 55843,
       "word": "我被大麦做局了",
@@ -3995,14 +4019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33279,
-      "num": 33279,
-      "word": "钟汉良蒯铎",
-      "onboard_time": 1747593436,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32603,
       "num": 206761,
       "word": "印度扩建运河对巴基斯坦有何影响",
@@ -4027,20 +4043,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32408,
+      "num": 32408,
+      "word": "沈月闺蜜晒沈月与新生儿合照",
+      "onboard_time": 1747600394,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31334,
       "num": 39469,
       "word": "陈都灵我们都是独一无二的骄傲",
       "onboard_time": 1747592417,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31238,
-      "num": 31238,
-      "word": "退圈摆摊男演员透露有很多戏找他",
-      "onboard_time": 1747600693,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 30987,
@@ -4081,6 +4097,14 @@
       "onboard_time": 1747556241,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 28170,
+      "num": 28170,
+      "word": "刘晓庆回应和唐国强演将门毒后",
+      "onboard_time": 1747595595,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 28103,
@@ -4139,7 +4163,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26394,
+      "raw_hot": 26487,
       "num": 42185,
       "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
       "onboard_time": 1747586901,
@@ -4235,6 +4259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 20503,
+      "num": 39528,
+      "word": "乌空军已承认损失3架F16",
+      "onboard_time": 1747592955,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20402,
       "num": 25328,
       "word": "周也戛纳电影节人气",
@@ -4273,22 +4305,6 @@
       "onboard_time": 1747513453,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19179,
-      "num": 39528,
-      "word": "乌空军已承认损失3架F16",
-      "onboard_time": 1747592955,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18804,
-      "num": 18804,
-      "word": "沈月闺蜜晒沈月与新生儿合照",
-      "onboard_time": 1747600394,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 18529,
@@ -4345,14 +4361,6 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16548,
-      "num": 17964,
-      "word": "刘晓庆回应和唐国强演将门毒后",
-      "onboard_time": 1747595595,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 16268,
