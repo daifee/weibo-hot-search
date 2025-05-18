@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747535259898,
+  "endTime": 1747539237797,
   "band_list": [
     {
       "raw_hot": 1290387,
@@ -9,6 +9,14 @@
       "onboard_time": 1747526359,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1076310,
+      "num": 1172209,
+      "word": "螺蛳粉店名撞音当地粗话遭举报",
+      "onboard_time": 1747533630,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1068647,
@@ -57,6 +65,14 @@
       "onboard_time": 1747493787,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 763679,
+      "num": 763679,
+      "word": "载有200多人帆船撞上纽约大桥",
+      "onboard_time": 1747535549,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 687602,
@@ -147,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357295,
+      "num": 246446,
+      "word": "刘亦菲ig更新",
+      "onboard_time": 1747535009,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 344524,
+      "num": 231172,
+      "word": "黄杨钿甜",
+      "onboard_time": 1747538849,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341953,
       "num": 341953,
       "word": "男子聚餐醉亡同桌11人被索赔77万",
@@ -169,6 +201,14 @@
       "onboard_time": 1747459651,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333927,
+      "num": 333927,
+      "word": "王者荣耀",
+      "onboard_time": 1747536029,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 328614,
@@ -219,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282615,
+      "num": 192418,
+      "word": "45%成年居民存在蛋白质摄入不足风险",
+      "onboard_time": 1747535609,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268095,
       "num": 258207,
       "word": "藏海传剧评",
@@ -235,12 +283,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255663,
-      "num": 255663,
-      "word": "螺蛳粉店名撞音当地粗话遭举报",
-      "onboard_time": 1747533630,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 263831,
+      "num": 263831,
+      "word": "周杰伦林俊杰王俊凯同框",
+      "onboard_time": 1747535309,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 244746,
@@ -275,6 +323,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 217054,
+      "num": 217054,
+      "word": "肖战藏海传挑眉镜头",
+      "onboard_time": 1747537471,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "哪吒之魔童闹海票房破154亿",
@@ -289,6 +345,14 @@
       "onboard_time": 1747502658,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205996,
+      "num": 192148,
+      "word": "原来卧室是可以有两层有楼梯的",
+      "onboard_time": 1747539209,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 203148,
@@ -315,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200265,
+      "num": 198230,
+      "word": "王楚钦对王皓说一上来就判我",
+      "onboard_time": 1747534648,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
@@ -323,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198230,
-      "num": 198230,
-      "word": "王楚钦对王皓说一上来就判我",
-      "onboard_time": 1747534648,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 192100,
+      "num": 192100,
+      "word": "黄圣依回忆8岁父母出国独自生活",
+      "onboard_time": 1747537709,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 188681,
@@ -395,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 150165,
+      "num": 192481,
+      "word": "马克龙被埃尔多安拽住手指",
+      "onboard_time": 1747537648,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149037,
       "num": 149037,
       "word": "多方回应咖啡店禁止幼童入内",
@@ -411,12 +491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143294,
+      "num": 143294,
+      "word": "孟子义说李昀锐身体真好",
+      "onboard_time": 1747538970,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143160,
       "num": 143160,
       "word": "Bin哥骗我们",
       "onboard_time": 1747489767,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138389,
+      "num": 138389,
+      "word": "虞书欣 maia",
+      "onboard_time": 1747534829,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137664,
@@ -433,6 +529,14 @@
       "onboard_time": 1747487423,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136871,
+      "num": 163779,
+      "word": "当老外吃到中国科技细糠",
+      "onboard_time": 1747537648,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135485,
@@ -457,6 +561,22 @@
       "onboard_time": 1747486524,
       "rank": 31,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 130187,
+      "num": 130187,
+      "word": "周深13分钟串烧",
+      "onboard_time": 1747538009,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128873,
+      "num": 128873,
+      "word": "孙杨回应不敌潘展乐",
+      "onboard_time": 1747538909,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 128557,
@@ -499,20 +619,20 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 123840,
+      "num": 147985,
+      "word": "戛纳红毯出圈造型",
+      "onboard_time": 1747532249,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119579,
       "num": 119579,
       "word": "王楚钦4比0纳雷什",
       "onboard_time": 1747503201,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119229,
-      "num": 147985,
-      "word": "戛纳红毯出圈造型",
-      "onboard_time": 1747532249,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 119128,
@@ -563,6 +683,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 109679,
+      "num": 109679,
+      "word": "鹰眼让发球遮挡无处可遁",
+      "onboard_time": 1747535609,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108550,
       "num": 108550,
       "word": "流失美国79年帛书抵达北京",
@@ -571,12 +699,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107140,
+      "num": 107140,
+      "word": "朱志鑫 新歌",
+      "onboard_time": 1747538009,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
       "onboard_time": 1747494207,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104256,
+      "num": 104256,
+      "word": "残疾客服妈妈月入过万还5点兼职摆摊",
+      "onboard_time": 1747537290,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103553,
+      "num": 103553,
+      "word": "去过安徽黄山的人嘴可真严啊",
+      "onboard_time": 1747539209,
+      "rank": 49,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 102751,
@@ -635,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94404,
-      "num": 94404,
-      "word": "刘亦菲ig更新",
-      "onboard_time": 1747535009,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94364,
       "num": 94364,
       "word": "aespa舞台新闻图",
@@ -657,14 +801,6 @@
       "onboard_time": 1747530209,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92002,
-      "num": 92002,
-      "word": "虞书欣 maia",
-      "onboard_time": 1747534829,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 90884,
@@ -835,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64201,
+      "num": 261988,
+      "word": "FBI称加州发生恐怖袭击事件",
+      "onboard_time": 1747538069,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61322,
       "num": 80555,
       "word": "这个减肥筷我是真的想要",
@@ -875,8 +1019,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49800,
+      "num": 124882,
+      "word": "荒谬而合理的食物中毒",
+      "onboard_time": 1747538550,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49136,
-      "num": 165402,
+      "num": 458197,
       "word": "文化中国行看文物里的绝美配色",
       "onboard_time": 1747524197,
       "rank": 41,
@@ -897,6 +1049,14 @@
       "onboard_time": 1747524978,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39091,
+      "num": 152985,
+      "word": "走进这些博物馆感触民族脊梁",
+      "onboard_time": 1747538609,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 35073,
@@ -1011,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17105,
+      "num": 125166,
+      "word": "新疆不明飞行物来自哪里",
+      "onboard_time": 1747539149,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17100,
       "num": 23831,
       "word": "许嵩呼吸之野演唱会",
@@ -1033,6 +1201,14 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16268,
+      "num": 192678,
+      "word": "油价或重回6元时代哪些行业会受益",
+      "onboard_time": 1747538249,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15269,
@@ -1073,6 +1249,9 @@
     },
     {
       "word": "#要让文物说话让历史说话让文化说话#"
+    },
+    {
+      "word": "#习近平讲述文物里的文明交融#"
     }
   ]
 }
