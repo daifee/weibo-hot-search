@@ -1,7 +1,15 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747525059451,
+  "endTime": 1747533888670,
   "band_list": [
+    {
+      "raw_hot": 1255604,
+      "num": 287352,
+      "word": "黄杨钿甜爸爸",
+      "onboard_time": 1747526359,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1068647,
       "num": 1068647,
@@ -28,19 +36,35 @@
     },
     {
       "raw_hot": 835664,
-      "num": 178359,
+      "num": 285143,
       "word": "离婚已3年男子喊话前妻求放过",
       "onboard_time": 1747501519,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 788474,
+      "num": 145616,
+      "word": "京东外卖",
+      "onboard_time": 1747529969,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 786116,
-      "num": 908022,
+      "num": 1106775,
       "word": "新疆多地上空出现不明飞行物",
       "onboard_time": 1747493787,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680537,
+      "num": 286571,
+      "word": "艾米拍照时把项链摘了",
+      "onboard_time": 1747523957,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 606986,
@@ -48,6 +72,14 @@
       "word": "黄杨钿甜耳环事件当以事实定真伪",
       "onboard_time": 1747482141,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 594413,
+      "num": 594413,
+      "word": "林更新签约杨幂新公司",
+      "onboard_time": 1747524978,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -83,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401283,
-      "num": 156343,
-      "word": "艾米拍照时把项链摘了",
-      "onboard_time": 1747523957,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 387998,
+      "num": 387998,
+      "word": "驴友溺亡家属向21名队友索赔86万",
+      "onboard_time": 1747523537,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 385479,
@@ -107,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357877,
+      "num": 357877,
+      "word": "王楚钦鹰眼挑战成功",
+      "onboard_time": 1747522996,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341953,
       "num": 341953,
       "word": "男子聚餐醉亡同桌11人被索赔77万",
       "onboard_time": 1747494927,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337118,
+      "num": 337118,
+      "word": "美国女子四度抗癌成功却意外被射杀",
+      "onboard_time": 1747501578,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 334180,
@@ -123,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328614,
+      "num": 328614,
+      "word": "张泉灵说李晟是家里最不卷的",
+      "onboard_time": 1747525221,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326178,
       "num": 326178,
       "word": "王源抢到自己的票了",
@@ -131,12 +187,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 282372,
-      "num": 282372,
-      "word": "王楚钦鹰眼挑战成功",
-      "onboard_time": 1747522996,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 292684,
+      "num": 179767,
+      "word": "医生建议男孩三岁后应该分床睡",
+      "onboard_time": 1747530628,
+      "rank": 20,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 288211,
+      "num": 288211,
+      "word": "杨幂新公司签约的艺人",
+      "onboard_time": 1747527740,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 266804,
@@ -147,12 +211,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264355,
-      "num": 264355,
-      "word": "美国女子四度抗癌成功却意外被射杀",
-      "onboard_time": 1747501578,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 260692,
+      "num": 178894,
+      "word": "建议大家把睡觉当成一天的开始",
+      "onboard_time": 1747530628,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 258207,
+      "num": 258207,
+      "word": "藏海传剧评",
+      "onboard_time": 1747525039,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236846,
+      "num": 284202,
+      "word": "小米玄戒O1",
+      "onboard_time": 1747533270,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 233045,
@@ -161,6 +241,14 @@
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217623,
+      "num": 217623,
+      "word": "巴基斯坦F16化身气氛组",
+      "onboard_time": 1747527079,
+      "rank": 17,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 213616,
@@ -219,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184043,
+      "num": 178137,
+      "word": "以为病了其实是衰老的正常表现",
+      "onboard_time": 1747525221,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183393,
       "num": 183393,
       "word": "美媒说出关税最残酷真相",
       "onboard_time": 1747496183,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180965,
+      "num": 180965,
+      "word": "莎头 混双",
+      "onboard_time": 1747524798,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 174576,
@@ -283,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137664,
+      "num": 137664,
+      "word": "民政财务侵吞低保户电费补贴170万",
+      "onboard_time": 1747526478,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137344,
       "num": 137344,
       "word": "赵磊婚礼出图",
@@ -297,6 +409,14 @@
       "onboard_time": 1747490247,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135299,
+      "num": 149476,
+      "word": "周也一圈又一圈的珍珠项链",
+      "onboard_time": 1747528348,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 131976,
@@ -323,6 +443,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 124010,
+      "num": 148755,
+      "word": "春夏演技",
+      "onboard_time": 1747530029,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119579,
       "num": 119579,
       "word": "王楚钦4比0纳雷什",
@@ -347,12 +475,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108748,
-      "num": 136161,
-      "word": "林更新签约杨幂新公司",
-      "onboard_time": 1747524978,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 113629,
+      "num": 113629,
+      "word": "美国强风暴窗户墙都被吹没了",
+      "onboard_time": 1747533270,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112251,
+      "num": 112251,
+      "word": "孙杨第一次打肌贴参赛",
+      "onboard_time": 1747531350,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109984,
+      "num": 109984,
+      "word": "加沙人说以军把我们当动物一样对待",
+      "onboard_time": 1747529726,
+      "rank": 36,
+      "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 108550,
+      "num": 108550,
+      "word": "流失美国79年帛书抵达北京",
+      "onboard_time": 1747525700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104256,
@@ -361,6 +513,14 @@
       "onboard_time": 1747494207,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104021,
+      "num": 104021,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1747533449,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102751,
@@ -403,12 +563,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97509,
+      "num": 145650,
+      "word": "戛纳红毯出圈造型",
+      "onboard_time": 1747532249,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 94489,
+      "num": 94489,
+      "word": "99年听障小伙用恋综搭建无声鹊桥",
+      "onboard_time": 1747533270,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94364,
       "num": 94364,
       "word": "aespa舞台新闻图",
       "onboard_time": 1747495946,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92450,
+      "num": 92450,
+      "word": "偶遇张极抓狗",
+      "onboard_time": 1747530209,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 90884,
@@ -451,12 +635,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84874,
-      "num": 84874,
-      "word": "藏海传剧评",
-      "onboard_time": 1747525039,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 84383,
+      "num": 84383,
+      "word": "林高远林诗栋晋级世乒赛32强",
+      "onboard_time": 1747530689,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82536,
+      "num": 82536,
+      "word": "王楚钦回应鹰眼挑战胜利",
+      "onboard_time": 1747529429,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82417,
+      "num": 82417,
+      "word": "螺蛳粉店名撞音当地粗话遭举报",
+      "onboard_time": 1747533630,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81095,
@@ -465,6 +665,14 @@
       "onboard_time": 1747494567,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80816,
+      "num": 287818,
+      "word": "美国多地强风暴致27死",
+      "onboard_time": 1747533089,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80256,
@@ -491,6 +699,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79082,
+      "num": 79082,
+      "word": "周游记下一期林俊杰王俊凯",
+      "onboard_time": 1747525638,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78438,
+      "num": 78438,
+      "word": "Xun说BLG打法变化不大",
+      "onboard_time": 1747533869,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77043,
       "num": 77043,
       "word": "陈志朋把初代男团的敬业带到超越班",
@@ -507,12 +731,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75644,
-      "num": 75644,
-      "word": "驴友溺亡家属向21名队友索赔86万",
-      "onboard_time": 1747523537,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 75533,
+      "num": 75533,
+      "word": "文韬见面会",
+      "onboard_time": 1747532729,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73868,
+      "num": 73868,
+      "word": "多地油价或重回6元时代",
+      "onboard_time": 1747531709,
+      "rank": 49,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 72389,
@@ -561,14 +793,6 @@
       "onboard_time": 1747523957,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 52636,
-      "num": 52636,
-      "word": "莎头 混双",
-      "onboard_time": 1747524798,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 50104,
