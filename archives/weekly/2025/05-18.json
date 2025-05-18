@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747595982712,
+  "endTime": 1747596991827,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -3547,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70654,
+      "num": 73426,
+      "word": "乌克兰遭最大规模无人机袭击",
+      "onboard_time": 1747593074,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69247,
       "num": 134890,
       "word": "许嵩 集美们在哪里",
@@ -3593,14 +3601,6 @@
       "onboard_time": 1747571482,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64580,
-      "num": 73426,
-      "word": "乌克兰遭最大规模无人机袭击",
-      "onboard_time": 1747593074,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64360,
