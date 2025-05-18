@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747589927147,
+  "endTime": 1747593148709,
   "band_list": [
     {
       "raw_hot": 830491,
@@ -163,8 +163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244581,
-      "num": 244581,
+      "raw_hot": 251678,
+      "num": 251678,
       "word": "网红小黄豆没参加高考",
       "onboard_time": 1747588699,
       "rank": 21,
@@ -459,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73727,
+      "num": 110700,
+      "word": "党政机关应当严格精简会议",
+      "onboard_time": 1747589419,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 61637,
+      "num": 47964,
+      "word": "折腰要剧本有剧本要演员有演员",
+      "onboard_time": 1747590437,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55886,
       "num": 55886,
       "word": "TTG一穿六夺冠",
       "onboard_time": 1747587441,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 52193,
+      "num": 42178,
+      "word": "安在旭在美开颅手术花费5亿韩元",
+      "onboard_time": 1747591697,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 51754,
@@ -475,12 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37878,
-      "num": 110700,
-      "word": "党政机关应当严格精简会议",
-      "onboard_time": 1747589419,
-      "rank": 15,
-      "category": "国内时政"
+      "raw_hot": 41068,
+      "num": 41068,
+      "word": "藏海传肖战访谈",
+      "onboard_time": 1747592835,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31334,
+      "num": 39469,
+      "word": "陈都灵我们都是独一无二的骄傲",
+      "onboard_time": 1747592417,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 31210,
@@ -489,6 +521,38 @@
       "onboard_time": 1747573162,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27466,
+      "num": 39428,
+      "word": "陈幸同4比0桑戴",
+      "onboard_time": 1747592236,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26358,
+      "num": 42185,
+      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+      "onboard_time": 1747586901,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21638,
+      "num": 40149,
+      "word": "乌克兰遭最大规模无人机袭击",
+      "onboard_time": 1747593074,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16706,
+      "num": 39528,
+      "word": "乌空军已承认损失3架F16",
+      "onboard_time": 1747592955,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

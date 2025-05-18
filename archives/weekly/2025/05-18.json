@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747589927147,
+  "endTime": 1747593148709,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251678,
+      "num": 251678,
+      "word": "网红小黄豆没参加高考",
+      "onboard_time": 1747588699,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251138,
       "num": 213422,
       "word": "昀牵孟绕",
@@ -1137,14 +1145,6 @@
       "onboard_time": 1747524798,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244581,
-      "num": 244581,
-      "word": "网红小黄豆没参加高考",
-      "onboard_time": 1747588699,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 236327,
@@ -3523,6 +3523,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 73727,
+      "num": 110700,
+      "word": "党政机关应当严格精简会议",
+      "onboard_time": 1747589419,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72389,
       "num": 72389,
       "word": "房东的猫哭到唱不下去",
@@ -3601,6 +3609,14 @@
       "onboard_time": 1747563143,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61637,
+      "num": 47964,
+      "word": "折腰要剧本有剧本要演员有演员",
+      "onboard_time": 1747590437,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 61322,
@@ -3705,6 +3721,14 @@
       "onboard_time": 1747544549,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52193,
+      "num": 42178,
+      "word": "安在旭在美开颅手术花费5亿韩元",
+      "onboard_time": 1747591697,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 51754,
@@ -3819,6 +3843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 41068,
+      "num": 41068,
+      "word": "藏海传肖战访谈",
+      "onboard_time": 1747592835,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40701,
       "num": 40701,
       "word": "水晶宫1比0曼城",
@@ -3889,14 +3921,6 @@
       "onboard_time": 1747572322,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37878,
-      "num": 110700,
-      "word": "党政机关应当严格精简会议",
-      "onboard_time": 1747589419,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37832,
@@ -3987,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31334,
+      "num": 39469,
+      "word": "陈都灵我们都是独一无二的骄傲",
+      "onboard_time": 1747592417,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30987,
       "num": 855778,
       "word": "6组数据看中国市场强大吸引力",
@@ -4051,6 +4083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 27466,
+      "num": 39428,
+      "word": "陈幸同4比0桑戴",
+      "onboard_time": 1747592236,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26823,
       "num": 163256,
       "word": "帆船撞纽约大桥现场视频",
@@ -4065,6 +4105,14 @@
       "onboard_time": 1747572443,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26358,
+      "num": 42185,
+      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+      "onboard_time": 1747586901,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26277,
@@ -4129,6 +4177,14 @@
       "onboard_time": 1747550781,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 21638,
+      "num": 40149,
+      "word": "乌克兰遭最大规模无人机袭击",
+      "onboard_time": 1747593074,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21533,
@@ -4225,6 +4281,14 @@
       "onboard_time": 1747553482,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 16706,
+      "num": 39528,
+      "word": "乌空军已承认损失3架F16",
+      "onboard_time": 1747592955,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16596,
