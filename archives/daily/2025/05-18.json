@@ -1,9 +1,9 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747533888670,
+  "endTime": 1747535259898,
   "band_list": [
     {
-      "raw_hot": 1255604,
+      "raw_hot": 1290387,
       "num": 287352,
       "word": "黄杨钿甜爸爸",
       "onboard_time": 1747526359,
@@ -35,20 +35,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 938085,
+      "num": 146254,
+      "word": "京东外卖",
+      "onboard_time": 1747529969,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 835664,
       "num": 285143,
       "word": "离婚已3年男子喊话前妻求放过",
       "onboard_time": 1747501519,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 788474,
-      "num": 145616,
-      "word": "京东外卖",
-      "onboard_time": 1747529969,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 786116,
@@ -59,11 +59,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 680537,
+      "raw_hot": 687602,
       "num": 286571,
       "word": "艾米拍照时把项链摘了",
       "onboard_time": 1747523957,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 636064,
+      "num": 1101770,
+      "word": "林更新签约杨幂新公司",
+      "onboard_time": 1747524978,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 594413,
-      "num": 594413,
-      "word": "林更新签约杨幂新公司",
-      "onboard_time": 1747524978,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500948,
       "num": 500948,
       "word": "今年的女装 丑",
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 464629,
+      "num": 464629,
+      "word": "驴友溺亡家属向21名队友索赔86万",
+      "onboard_time": 1747523537,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464346,
@@ -113,14 +121,6 @@
       "onboard_time": 1747500020,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387998,
-      "num": 387998,
-      "word": "驴友溺亡家属向21名队友索赔86万",
-      "onboard_time": 1747523537,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 385479,
@@ -188,11 +188,27 @@
     },
     {
       "raw_hot": 292684,
-      "num": 179767,
+      "num": 222651,
       "word": "医生建议男孩三岁后应该分床睡",
       "onboard_time": 1747530628,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 291010,
+      "num": 291010,
+      "word": "小米玄戒O1",
+      "onboard_time": 1747533270,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 289884,
+      "num": 223873,
+      "word": "建议大家把睡觉当成一天的开始",
+      "onboard_time": 1747530628,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288211,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268095,
+      "num": 258207,
+      "word": "藏海传剧评",
+      "onboard_time": 1747525039,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266804,
       "num": 266804,
       "word": "周也戛纳出图",
@@ -211,28 +235,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260692,
-      "num": 178894,
-      "word": "建议大家把睡觉当成一天的开始",
-      "onboard_time": 1747530628,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 255663,
+      "num": 255663,
+      "word": "螺蛳粉店名撞音当地粗话遭举报",
+      "onboard_time": 1747533630,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 258207,
-      "num": 258207,
-      "word": "藏海传剧评",
-      "onboard_time": 1747525039,
-      "rank": 26,
+      "raw_hot": 244746,
+      "num": 244746,
+      "word": "莎头 混双",
+      "onboard_time": 1747524798,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234533,
+      "num": 234533,
+      "word": "春夏演技",
+      "onboard_time": 1747530029,
+      "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236846,
-      "num": 284202,
-      "word": "小米玄戒O1",
-      "onboard_time": 1747533270,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 233045,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198230,
+      "num": 198230,
+      "word": "王楚钦对王皓说一上来就判我",
+      "onboard_time": 1747534648,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "虎鲸母子被困在法国废弃海洋公园",
@@ -321,14 +353,6 @@
       "onboard_time": 1747496183,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180965,
-      "num": 180965,
-      "word": "莎头 混双",
-      "onboard_time": 1747524798,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 174576,
@@ -361,6 +385,14 @@
       "onboard_time": 1747492167,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164590,
+      "num": 287818,
+      "word": "美国多地强风暴致27死",
+      "onboard_time": 1747533089,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149037,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 135299,
-      "num": 149476,
+      "num": 151501,
       "word": "周也一圈又一圈的珍珠项链",
       "onboard_time": 1747528348,
       "rank": 27,
@@ -427,12 +459,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 128557,
+      "num": 128557,
+      "word": "Xun说BLG打法变化不大",
+      "onboard_time": 1747533869,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 128490,
+      "num": 282506,
+      "word": "美国强风暴窗户墙都被吹没了",
+      "onboard_time": 1747533270,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127599,
       "num": 127599,
       "word": "王心凌ALin这朋友是真能处",
       "onboard_time": 1747499061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126759,
+      "num": 126759,
+      "word": "官方通报老师威胁学生人身安全",
+      "onboard_time": 1747534108,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125857,
@@ -443,20 +499,20 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 124010,
-      "num": 148755,
-      "word": "春夏演技",
-      "onboard_time": 1747530029,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119579,
       "num": 119579,
       "word": "王楚钦4比0纳雷什",
       "onboard_time": 1747503201,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119229,
+      "num": 147985,
+      "word": "戛纳红毯出圈造型",
+      "onboard_time": 1747532249,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 119128,
@@ -467,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118347,
+      "num": 118347,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1747533449,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117421,
       "num": 73135,
       "word": "王楚钦11比6纳雷什",
@@ -475,12 +539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113629,
-      "num": 113629,
-      "word": "美国强风暴窗户墙都被吹没了",
-      "onboard_time": 1747533270,
-      "rank": 34,
-      "category": "海外新闻"
+      "raw_hot": 113848,
+      "num": 223884,
+      "word": "德味全画幅相机1元起拍",
+      "onboard_time": 1747534648,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 112251,
@@ -515,14 +579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104021,
-      "num": 104021,
-      "word": "中国人民抗战胜利80周年",
-      "onboard_time": 1747533449,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102751,
       "num": 102751,
       "word": "陶喆演唱会没有陌生人",
@@ -555,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98711,
+      "num": 98711,
+      "word": "沃尔玛涨价",
+      "onboard_time": 1747534471,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98209,
       "num": 98209,
       "word": "藏海传",
@@ -563,20 +627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97509,
-      "num": 145650,
-      "word": "戛纳红毯出圈造型",
-      "onboard_time": 1747532249,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94489,
       "num": 94489,
       "word": "99年听障小伙用恋综搭建无声鹊桥",
       "onboard_time": 1747533270,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94404,
+      "num": 94404,
+      "word": "刘亦菲ig更新",
+      "onboard_time": 1747535009,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 94364,
@@ -593,6 +657,14 @@
       "onboard_time": 1747530209,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92002,
+      "num": 92002,
+      "word": "虞书欣 maia",
+      "onboard_time": 1747534829,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90884,
@@ -617,6 +689,14 @@
       "onboard_time": 1747493007,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89155,
+      "num": 82093,
+      "word": "虞书欣模仿马伯骞唱跳舞台",
+      "onboard_time": 1747533683,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 88013,
@@ -651,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82417,
-      "num": 82417,
-      "word": "螺蛳粉店名撞音当地粗话遭举报",
-      "onboard_time": 1747533630,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81095,
       "num": 81095,
       "word": "华晨宇演唱会吃播第一人",
@@ -667,12 +739,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80816,
-      "num": 287818,
-      "word": "美国多地强风暴致27死",
-      "onboard_time": 1747533089,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 80814,
+      "num": 80814,
+      "word": "LPL英文流解说锐评Bin",
+      "onboard_time": 1747534529,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 80256,
@@ -707,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78438,
-      "num": 78438,
-      "word": "Xun说BLG打法变化不大",
-      "onboard_time": 1747533869,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77043,
       "num": 77043,
       "word": "陈志朋把初代男团的敬业带到超越班",
@@ -737,6 +801,14 @@
       "onboard_time": 1747532729,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74769,
+      "num": 74769,
+      "word": "克拉克揭幕战三双",
+      "onboard_time": 1747534710,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73868,
@@ -859,20 +931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30987,
+      "num": 855778,
+      "word": "6组数据看中国市场强大吸引力",
+      "onboard_time": 1747490247,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27512,
       "num": 55611,
       "word": "于适贵阳音乐节舞台",
       "onboard_time": 1747505835,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 26924,
-      "num": 855778,
-      "word": "6组数据看中国市场强大吸引力",
-      "onboard_time": 1747490247,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26495,

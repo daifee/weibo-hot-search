@@ -1,0 +1,410 @@
+{
+  "runTime": 1747535259898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636064,
+        "num": 1101770,
+        "word": "林更新签约杨幂新公司",
+        "onboard_time": 1747524978,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529522,
+        "num": 529522,
+        "word": "新疆多地上空出现不明飞行物",
+        "onboard_time": 1747493787,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30987,
+        "num": 498660,
+        "word": "6组数据看中国市场强大吸引力",
+        "onboard_time": 1747490247,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 487696,
+        "num": 487696,
+        "word": "你好星期六收视率",
+        "onboard_time": 1747495825,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464629,
+        "num": 464629,
+        "word": "驴友溺亡家属向21名队友索赔86万",
+        "onboard_time": 1747523537,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313699,
+        "num": 313699,
+        "word": "王楚钦鹰眼挑战成功",
+        "onboard_time": 1747522996,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294495,
+        "num": 294495,
+        "word": "美国女子四度抗癌成功却意外被射杀",
+        "onboard_time": 1747501578,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 291010,
+        "num": 291010,
+        "word": "小米玄戒O1",
+        "onboard_time": 1747533270,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282854,
+        "num": 282854,
+        "word": "张泉灵说李晟是家里最不卷的",
+        "onboard_time": 1747525221,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128490,
+        "num": 282506,
+        "word": "美国强风暴窗户墙都被吹没了",
+        "onboard_time": 1747533270,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1290387,
+        "num": 273971,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687602,
+        "num": 269088,
+        "word": "艾米拍照时把项链摘了",
+        "onboard_time": 1747523957,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605259,
+        "num": 262585,
+        "word": "离婚已3年男子喊话前妻求放过",
+        "onboard_time": 1747501519,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370948,
+        "num": 260597,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255663,
+        "num": 255663,
+        "word": "螺蛳粉店名撞音当地粗话遭举报",
+        "onboard_time": 1747533630,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268095,
+        "num": 250760,
+        "word": "藏海传剧评",
+        "onboard_time": 1747525039,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244746,
+        "num": 244746,
+        "word": "莎头 混双",
+        "onboard_time": 1747524798,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240608,
+        "num": 240608,
+        "word": "黄杨钿甜耳环事件当以事实定真伪",
+        "onboard_time": 1747482141,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234533,
+        "num": 234533,
+        "word": "春夏演技",
+        "onboard_time": 1747530029,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113848,
+        "num": 223884,
+        "word": "德味全画幅相机1元起拍",
+        "onboard_time": 1747534648,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289884,
+        "num": 223873,
+        "word": "建议大家把睡觉当成一天的开始",
+        "onboard_time": 1747530628,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257918,
+        "num": 222651,
+        "word": "医生建议男孩三岁后应该分床睡",
+        "onboard_time": 1747530628,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 219520,
+        "num": 219520,
+        "word": "杨幂新公司签约的艺人",
+        "onboard_time": 1747527740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198230,
+        "num": 198230,
+        "word": "王楚钦对王皓说一上来就判我",
+        "onboard_time": 1747534648,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164590,
+        "num": 164590,
+        "word": "美国多地强风暴致27死",
+        "onboard_time": 1747533089,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156771,
+        "num": 156771,
+        "word": "巴基斯坦F16化身气氛组",
+        "onboard_time": 1747527079,
+        "rank": 25,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 152404,
+        "num": 152404,
+        "word": "以为病了其实是衰老的正常表现",
+        "onboard_time": 1747525221,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130596,
+        "num": 151501,
+        "word": "周也一圈又一圈的珍珠项链",
+        "onboard_time": 1747528348,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125823,
+        "num": 150235,
+        "word": "贺峻霖全国1460名的游走原来长这样",
+        "onboard_time": 1747500020,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119229,
+        "num": 147985,
+        "word": "戛纳红毯出圈造型",
+        "onboard_time": 1747532249,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 938085,
+        "num": 146254,
+        "word": "京东外卖",
+        "onboard_time": 1747529969,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145201,
+        "num": 145201,
+        "word": "虎鲸母子被困在法国废弃海洋公园",
+        "onboard_time": 1747496363,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136631,
+        "num": 136631,
+        "word": "女子称洗澡时从香皂中洗出金币",
+        "onboard_time": 1747489105,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134844,
+        "num": 134844,
+        "word": "多方回应咖啡店禁止幼童入内",
+        "onboard_time": 1747493487,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134412,
+        "num": 134412,
+        "word": "成都春熙路巨型3D蛇太逼真引争议",
+        "onboard_time": 1747488383,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128557,
+        "num": 128557,
+        "word": "Xun说BLG打法变化不大",
+        "onboard_time": 1747533869,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126759,
+        "num": 126759,
+        "word": "官方通报老师威胁学生人身安全",
+        "onboard_time": 1747534108,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 118347,
+        "num": 118347,
+        "word": "中国人民抗战胜利80周年",
+        "onboard_time": 1747533449,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109742,
+        "num": 109742,
+        "word": "气象部门回应新疆不明飞行物",
+        "onboard_time": 1747495347,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98711,
+        "num": 98711,
+        "word": "沃尔玛涨价",
+        "onboard_time": 1747534471,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94404,
+        "num": 94404,
+        "word": "刘亦菲ig更新",
+        "onboard_time": 1747535009,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93751,
+        "num": 93751,
+        "word": "孙杨第一次打肌贴参赛",
+        "onboard_time": 1747531350,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92002,
+        "num": 92002,
+        "word": "虞书欣 maia",
+        "onboard_time": 1747534829,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88592,
+        "num": 88592,
+        "word": "流失美国79年帛书抵达北京",
+        "onboard_time": 1747525700,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86599,
+        "num": 86599,
+        "word": "孙杨赛后久久不忍离去",
+        "onboard_time": 1747487423,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86274,
+        "num": 86274,
+        "word": "民政财务侵吞低保户电费补贴170万",
+        "onboard_time": 1747526478,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82714,
+        "num": 82714,
+        "word": "偶遇张极抓狗",
+        "onboard_time": 1747530209,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89155,
+        "num": 82093,
+        "word": "虞书欣模仿马伯骞唱跳舞台",
+        "onboard_time": 1747533683,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80814,
+        "num": 80814,
+        "word": "LPL英文流解说锐评Bin",
+        "onboard_time": 1747534529,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74769,
+        "num": 74769,
+        "word": "克拉克揭幕战三双",
+        "onboard_time": 1747534710,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要让文物说话让历史说话让文化说话#"
+    }
+  }
+}
