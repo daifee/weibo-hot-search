@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747603336078,
+  "endTime": 1747604197813,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -3723,7 +3723,7 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 52765,
+      "raw_hot": 53311,
       "num": 48047,
       "word": "安在旭在美开颅手术花费5亿韩元",
       "onboard_time": 1747591697,
@@ -4409,6 +4409,14 @@
       "onboard_time": 1747562484,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14590,
+      "num": 17140,
+      "word": "机智的住院医生生活",
+      "onboard_time": 1747604053,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 14369,
