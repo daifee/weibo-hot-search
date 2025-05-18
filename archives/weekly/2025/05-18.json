@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747608057037,
+  "endTime": 1747610608124,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1167251,
+      "num": 1167251,
+      "word": "央视曝光永久基本农田竟沦为垃圾场",
+      "onboard_time": 1747585464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1115625,
       "num": 1171720,
       "word": "黄子韬说老婆是最有底气的试验品",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 874910,
+      "num": 874910,
+      "word": "黄杨钿甜同款耳环仿款售价不到百元",
+      "onboard_time": 1747586721,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 840727,
       "num": 704153,
       "word": "李晟生完孩子曾整晚哭",
@@ -315,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 778130,
-      "num": 778130,
-      "word": "央视曝光永久基本农田竟沦为垃圾场",
-      "onboard_time": 1747585464,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 774557,
       "num": 392776,
       "word": "刘晓艳 周思成",
       "onboard_time": 1747558642,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 766866,
-      "num": 766866,
-      "word": "黄杨钿甜同款耳环仿款售价不到百元",
-      "onboard_time": 1747586721,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 760457,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 445177,
-      "num": 157388,
+      "num": 201781,
       "word": "安静公主自曝术后肚子大到像怀孕",
       "onboard_time": 1747588338,
       "rank": 15,
@@ -889,6 +889,14 @@
       "onboard_time": 1747579523,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307814,
+      "num": 307814,
+      "word": "黄子韬卫生巾15分钟卖19.5万件",
+      "onboard_time": 1747579704,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 306777,
@@ -1179,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232538,
+      "num": 284996,
+      "word": "中医院回应患者购买中药检出西药成分",
+      "onboard_time": 1747585105,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 232419,
       "num": 215716,
       "word": "姚晨成功降脂",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1747560021,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204965,
-      "num": 204965,
-      "word": "黄子韬卫生巾15分钟卖19.5万件",
-      "onboard_time": 1747579704,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 204707,
@@ -1763,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183569,
-      "num": 284996,
-      "word": "中医院回应患者购买中药检出西药成分",
-      "onboard_time": 1747585105,
-      "rank": 11,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 183553,
       "num": 205452,
       "word": "藏海传OST",
@@ -1868,7 +1868,7 @@
     },
     {
       "raw_hot": 173450,
-      "num": 117390,
+      "num": 173323,
       "word": "安在旭在美开颅手术花费5亿韩元",
       "onboard_time": 1747591697,
       "rank": 31,
@@ -2153,6 +2153,14 @@
       "onboard_time": 1747575923,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152041,
+      "num": 152041,
+      "word": "乌克兰遭最大规模无人机袭击",
+      "onboard_time": 1747593074,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151184,
@@ -3307,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90184,
+      "num": 90184,
+      "word": "张亮不愧是当过爸爸的人",
+      "onboard_time": 1747608738,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89155,
       "num": 82093,
       "word": "虞书欣模仿马伯骞唱跳舞台",
@@ -3336,6 +3352,14 @@
       "word": "心气是一种非常宝贵的资源",
       "onboard_time": 1747584265,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87227,
+      "num": 87227,
+      "word": "一生不缺钱的6大星座",
+      "onboard_time": 1747608917,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -3369,14 +3393,6 @@
       "onboard_time": 1747548022,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 84718,
-      "num": 84718,
-      "word": "乌克兰遭最大规模无人机袭击",
-      "onboard_time": 1747593074,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 84383,
@@ -3427,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80613,
+      "num": 80613,
+      "word": "叶晓粤说陈奕迅去世是假新闻",
+      "onboard_time": 1747610541,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80506,
       "num": 194157,
       "word": "中国最早的体育奖杯",
@@ -3440,6 +3464,14 @@
       "word": "金靖说看熟人演戏太精彩了",
       "onboard_time": 1747496843,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80232,
+      "num": 80232,
+      "word": "折腰要剧本有剧本要演员有演员",
+      "onboard_time": 1747590437,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -3465,6 +3497,22 @@
       "onboard_time": 1747525638,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77613,
+      "num": 77613,
+      "word": "藏海传破2",
+      "onboard_time": 1747605735,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77392,
+      "num": 110700,
+      "word": "党政机关应当严格精简会议",
+      "onboard_time": 1747589419,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77043,
@@ -3539,14 +3587,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 73727,
-      "num": 110700,
-      "word": "党政机关应当严格精简会议",
-      "onboard_time": 1747589419,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72389,
       "num": 72389,
       "word": "房东的猫哭到唱不下去",
@@ -3561,14 +3601,6 @@
       "onboard_time": 1747572382,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69559,
-      "num": 69559,
-      "word": "折腰要剧本有剧本要演员有演员",
-      "onboard_time": 1747590437,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 69247,
@@ -3611,12 +3643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65270,
-      "num": 65270,
-      "word": "藏海传破2",
-      "onboard_time": 1747605735,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 65063,
+      "num": 65063,
+      "word": "沈月闺蜜晒沈月与新生儿合照",
+      "onboard_time": 1747600394,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 64654,
@@ -3691,6 +3723,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 56437,
+      "num": 56437,
+      "word": "雷霆4比3掘金",
+      "onboard_time": 1747610541,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55979,
       "num": 391490,
       "word": "博主科普新疆上空不明飞行物",
@@ -3731,12 +3771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54478,
+      "num": 54478,
+      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+      "onboard_time": 1747586901,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53974,
       "num": 75707,
       "word": "周也戛纳首秀造型",
       "onboard_time": 1747523957,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53679,
+      "num": 53679,
+      "word": "退圈摆摊男演员透露有很多戏找他",
+      "onboard_time": 1747600693,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 53364,
@@ -3785,6 +3841,14 @@
       "onboard_time": 1747567701,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 49901,
+      "num": 53665,
+      "word": "刘晓庆回应和唐国强演将门毒后",
+      "onboard_time": 1747595595,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 49800,
@@ -3947,14 +4011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38278,
-      "num": 38278,
-      "word": "沈月闺蜜晒沈月与新生儿合照",
-      "onboard_time": 1747600394,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37832,
       "num": 112859,
       "word": "王曼昱vs威尔戈斯",
@@ -3987,36 +4043,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 36121,
-      "num": 36121,
-      "word": "退圈摆摊男演员透露有很多戏找他",
-      "onboard_time": 1747600693,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 36107,
-      "num": 36107,
-      "word": "刘晓庆回应和唐国强演将门毒后",
-      "onboard_time": 1747595595,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35073,
       "num": 55843,
       "word": "我被大麦做局了",
       "onboard_time": 1747505597,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 34595,
-      "num": 42185,
-      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
-      "onboard_time": 1747586901,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34275,
@@ -4089,6 +4121,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30072,
+      "num": 232662,
+      "word": "以色列允许向加沙提供基本粮食",
+      "onboard_time": 1747609880,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29670,
@@ -4243,6 +4283,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 22264,
+      "num": 219744,
+      "word": "墨西哥军舰在纽约撞桥致2死17伤",
+      "onboard_time": 1747610001,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22053,
       "num": 122665,
       "word": "为什么建议把睡觉当成一天的开始",
@@ -4313,6 +4361,14 @@
       "onboard_time": 1747576883,
       "rank": 25,
       "category": "其它"
+    },
+    {
+      "raw_hot": 17614,
+      "num": 232609,
+      "word": "美国恶劣天气已造成至少28人死亡",
+      "onboard_time": 1747610119,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17330,
