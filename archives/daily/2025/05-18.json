@@ -1,7 +1,15 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747543728328,
+  "endTime": 1747545895699,
   "band_list": [
+    {
+      "raw_hot": 1710092,
+      "num": 1710092,
+      "word": "拒绝接待中国人的日本餐厅已歇业",
+      "onboard_time": 1747541670,
+      "rank": 4,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1627921,
       "num": 241390,
@@ -11,8 +19,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1431037,
-      "num": 1431037,
+      "raw_hot": 1487041,
+      "num": 300150,
+      "word": "姜尘谈黄杨钿甜",
+      "onboard_time": 1747545150,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1455510,
+      "num": 1455510,
       "word": "11.3万工资给3千老板被法官怒斥",
       "onboard_time": 1747541131,
       "rank": 0,
@@ -49,14 +65,6 @@
       "onboard_time": 1747496902,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1002841,
-      "num": 1002841,
-      "word": "拒绝接待中国人的日本餐厅已歇业",
-      "onboard_time": 1747541670,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 967550,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 780577,
-      "num": 239614,
+      "num": 289726,
       "word": "钿到底怎么念",
       "onboard_time": 1747540410,
       "rank": 11,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 720789,
-      "num": 204038,
+      "num": 568713,
       "word": "韩司机好奇为何中国人说韩国小",
       "onboard_time": 1747541610,
       "rank": 31,
@@ -139,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 571036,
-      "num": 571036,
+      "raw_hot": 594936,
+      "num": 594936,
       "word": "潘展乐汪顺孙杨晋级200自半决赛",
       "onboard_time": 1747542091,
       "rank": 7,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326329,
+      "num": 326329,
+      "word": "藏海传开播连更8天",
+      "onboard_time": 1747543591,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326178,
       "num": 326178,
       "word": "王源抢到自己的票了",
@@ -371,6 +387,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254498,
+      "num": 254498,
+      "word": "纽约一大型帆船撞桥",
+      "onboard_time": 1747535609,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 249137,
+      "num": 249137,
+      "word": "桃花坞自我介绍社牛天堂社恐地狱",
+      "onboard_time": 1747544849,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244746,
       "num": 244746,
       "word": "莎头 混双",
@@ -393,6 +425,30 @@
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220031,
+      "num": 220031,
+      "word": "西西里岛的刘亦菲",
+      "onboard_time": 1747544490,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218531,
+      "num": 218531,
+      "word": "王勉真撕拉片",
+      "onboard_time": 1747544370,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218120,
+      "num": 218120,
+      "word": "折腰",
+      "onboard_time": 1747539329,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217623,
@@ -425,14 +481,6 @@
       "onboard_time": 1747534648,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208246,
-      "num": 208246,
-      "word": "折腰",
-      "onboard_time": 1747539329,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 206208,
@@ -507,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190807,
+      "num": 190807,
+      "word": "周深不知道帽子已经掉了",
+      "onboard_time": 1747545031,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "虎鲸母子被困在法国废弃海洋公园",
@@ -521,6 +577,14 @@
       "onboard_time": 1747539750,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184964,
+      "num": 193968,
+      "word": "负债百万女子回应靠扛楼还债",
+      "onboard_time": 1747542509,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184043,
@@ -547,12 +611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181120,
+      "num": 181120,
+      "word": "时代少年团cos小动物路透",
+      "onboard_time": 1747544431,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178158,
       "num": 178158,
       "word": "无限暖暖",
       "onboard_time": 1747543110,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174900,
+      "num": 174900,
+      "word": "乐乐一家合体",
+      "onboard_time": 1747545090,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 174576,
@@ -595,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168876,
+      "num": 168876,
+      "word": "恋与制作人",
+      "onboard_time": 1747544610,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168370,
       "num": 229010,
       "word": "张极参加自行车比赛",
@@ -627,12 +715,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 156571,
-      "num": 156571,
-      "word": "藏海传开播连更8天",
-      "onboard_time": 1747543591,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 163196,
+      "num": 218896,
+      "word": "币圈富豪连遭绑架有超10万人爆仓",
+      "onboard_time": 1747544610,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 159845,
+      "num": 159845,
+      "word": "惠英红自曝被换角",
+      "onboard_time": 1747545749,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 155277,
@@ -641,6 +737,22 @@
       "onboard_time": 1747543110,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154340,
+      "num": 154340,
+      "word": "陈赫向孙俪请教",
+      "onboard_time": 1747545749,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153919,
+      "num": 153919,
+      "word": "湿气越吃越少的10种食物",
+      "onboard_time": 1747540289,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150776,
@@ -659,20 +771,20 @@
       "category": "民生新闻,电竞"
     },
     {
+      "raw_hot": 149183,
+      "num": 149183,
+      "word": "董思成说自己是桃花坞的忠实粉丝",
+      "onboard_time": 1747545031,
+      "rank": 38,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 149037,
       "num": 149037,
       "word": "多方回应咖啡店禁止幼童入内",
       "onboard_time": 1747493487,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146712,
-      "num": 146712,
-      "word": "湿气越吃越少的10种食物",
-      "onboard_time": 1747540289,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 145479,
@@ -699,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143898,
+      "num": 143898,
+      "word": "明白一眼认出宗门天才是什么感觉了",
+      "onboard_time": 1747544070,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143160,
       "num": 143160,
       "word": "Bin哥骗我们",
       "onboard_time": 1747489767,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140291,
+      "num": 140291,
+      "word": "靳梦佳好薄一片",
+      "onboard_time": 1747545269,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 139435,
@@ -803,6 +931,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130036,
+      "num": 130036,
+      "word": "杨蓉有一种岁月静好的美感",
+      "onboard_time": 1747545689,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129002,
+      "num": 129002,
+      "word": "现炒浇头把干挑面的饭张力拉满",
+      "onboard_time": 1747545150,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128557,
       "num": 128557,
       "word": "Xun说BLG打法变化不大",
@@ -857,6 +1001,14 @@
       "onboard_time": 1747532249,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121068,
+      "num": 310802,
+      "word": "欢迎福娃和凤仪回国",
+      "onboard_time": 1747544791,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119579,
@@ -987,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104297,
-      "num": 196800,
-      "word": "纽约一大型帆船撞桥",
-      "onboard_time": 1747535609,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
@@ -1009,6 +1153,14 @@
       "onboard_time": 1747497202,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102580,
+      "num": 271128,
+      "word": "郑钦文锁定8号种子",
+      "onboard_time": 1747544670,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 101254,
@@ -1291,12 +1443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54561,
+      "num": 305260,
+      "word": "孙杨回应肩伤加重",
+      "onboard_time": 1747544791,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53974,
       "num": 75707,
       "word": "周也戛纳首秀造型",
       "onboard_time": 1747523957,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 52088,
+      "num": 175310,
+      "word": "自制多胞胎婴儿车",
+      "onboard_time": 1747544730,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 50104,
@@ -1339,11 +1507,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44575,
-      "num": 193968,
-      "word": "负债百万女子回应靠扛楼还债",
-      "onboard_time": 1747542509,
-      "rank": 24,
+      "raw_hot": 45435,
+      "num": 145019,
+      "word": "全国每20万人拥有一家博物馆",
+      "onboard_time": 1747544549,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1355,12 +1523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40399,
+      "num": 174985,
+      "word": "美国将启动欧洲撤军谈判",
+      "onboard_time": 1747544549,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 39091,
       "num": 152985,
       "word": "走进这些博物馆感触民族脊梁",
       "onboard_time": 1747538609,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38974,
+      "num": 171392,
+      "word": "70岁老人手写14页感谢信",
+      "onboard_time": 1747544730,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35073,
@@ -1537,6 +1721,14 @@
       "onboard_time": 1747540889,
       "rank": 40,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 15584,
+      "num": 141432,
+      "word": "俄乌谈判取得进展停火可能会增大吗",
+      "onboard_time": 1747544490,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15269,
