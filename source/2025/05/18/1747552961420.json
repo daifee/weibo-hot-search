@@ -1,0 +1,410 @@
+{
+  "runTime": 1747552961420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016287,
+        "num": 1162606,
+        "word": "藏海传 点天灯",
+        "onboard_time": 1747546050,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758325,
+        "num": 758325,
+        "word": "陈梦生理期痛到要吃止痛药",
+        "onboard_time": 1747546461,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29050,
+        "num": 655395,
+        "word": "走进这些博物馆感触民族脊梁",
+        "onboard_time": 1747538609,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 759841,
+        "num": 647910,
+        "word": "李晟生完孩子曾整晚哭",
+        "onboard_time": 1747548981,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618942,
+        "num": 618942,
+        "word": "司美格鲁肽",
+        "onboard_time": 1747548981,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 543501,
+        "num": 543501,
+        "word": "11.3万工资给3千老板被法官怒斥",
+        "onboard_time": 1747541131,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503508,
+        "num": 503508,
+        "word": "王楚钦孙颖莎vs梁吉善王艾米",
+        "onboard_time": 1747552041,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435203,
+        "num": 435203,
+        "word": "拒绝接待中国人的日本餐厅已歇业",
+        "onboard_time": 1747541670,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183673,
+        "num": 397864,
+        "word": "这次是带着更多人的期待进入了考场",
+        "onboard_time": 1747551140,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 374831,
+        "num": 374831,
+        "word": "藏海传开播",
+        "onboard_time": 1747550121,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 909077,
+        "num": 373302,
+        "word": "财不外露",
+        "onboard_time": 1747549639,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 670893,
+        "num": 367746,
+        "word": "姜尘谈黄杨钿甜",
+        "onboard_time": 1747545150,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59645,
+        "num": 362793,
+        "word": "父亲回应全班和患癌孩子拍毕业照",
+        "onboard_time": 1747551921,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 63223,
+        "num": 358956,
+        "word": "男生病重全班赶来合拍毕业照",
+        "onboard_time": 1747551801,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 74204,
+        "num": 353491,
+        "word": "天猫十个勤天直播间实到10人",
+        "onboard_time": 1747551683,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352820,
+        "num": 352820,
+        "word": "陈赫向孙俪请教",
+        "onboard_time": 1747545749,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413182,
+        "num": 350381,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324325,
+        "num": 324325,
+        "word": "马嘉祺歌手全民预测第二期冠军",
+        "onboard_time": 1747548681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304038,
+        "num": 304038,
+        "word": "宋雨琦透露组合结算方式",
+        "onboard_time": 1747547782,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28095,
+        "num": 300793,
+        "word": "荔枝茉莉冰茶成为爆款的因素有哪些",
+        "onboard_time": 1747552640,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 299823,
+        "num": 299823,
+        "word": "韩司机好奇为何中国人说韩国小",
+        "onboard_time": 1747541610,
+        "rank": 20,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 248519,
+        "num": 248519,
+        "word": "折腰是刘宇宁骨折时候拍的",
+        "onboard_time": 1747549942,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221141,
+        "num": 221141,
+        "word": "金靖张凌赫人后送汤人前避嫌",
+        "onboard_time": 1747551260,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218948,
+        "num": 218948,
+        "word": "徐磊连夜出院",
+        "onboard_time": 1747551441,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189127,
+        "num": 189127,
+        "word": "姜尘谈赵丽颖",
+        "onboard_time": 1747550181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168418,
+        "num": 168418,
+        "word": "藏海传云包场",
+        "onboard_time": 1747550841,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "蛮蛮一劭官宣像炫耀",
+        "onboard_time": 1747550900,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 151224,
+        "word": "南宁一女孩被天降大块玻璃砸倒",
+        "onboard_time": 1747547061,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150545,
+        "num": 150545,
+        "word": "折腰官博编辑记录",
+        "onboard_time": 1747552280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132781,
+        "num": 132781,
+        "word": "陈妍希夸肖战谦逊有礼",
+        "onboard_time": 1747551200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127226,
+        "num": 127226,
+        "word": "Sunnee杨芸晴把母女认成情侣",
+        "onboard_time": 1747547360,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15615,
+        "num": 124748,
+        "word": "九天无人机如何实现多技术切换",
+        "onboard_time": 1747551683,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123152,
+        "num": 123152,
+        "word": "纽约一大型帆船撞桥",
+        "onboard_time": 1747535609,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121632,
+        "num": 121632,
+        "word": "莎头",
+        "onboard_time": 1747552701,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115487,
+        "num": 115487,
+        "word": "邓超陈赫深夜聊天放鹿晗的歌",
+        "onboard_time": 1747548860,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111842,
+        "num": 111842,
+        "word": "奔跑吧",
+        "onboard_time": 1747552821,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110737,
+        "num": 110737,
+        "word": "惠英红自曝被换角",
+        "onboard_time": 1747545749,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109975,
+        "num": 109975,
+        "word": "种地吧直播",
+        "onboard_time": 1747549340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104145,
+        "num": 104145,
+        "word": "币圈富豪连遭绑架有超10万人爆仓",
+        "onboard_time": 1747544610,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 68074,
+        "num": 102726,
+        "word": "她是民国第一女杀手",
+        "onboard_time": 1747551683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102484,
+        "num": 102484,
+        "word": "迪丽热巴一个人就是一出戏",
+        "onboard_time": 1747547421,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100792,
+        "num": 100792,
+        "word": "这猫多少钱一碗",
+        "onboard_time": 1747551801,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99077,
+        "num": 99077,
+        "word": "徐梦洁以前是邓超伴舞",
+        "onboard_time": 1747552881,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97384,
+        "num": 97384,
+        "word": "载有200多人帆船撞上纽约大桥",
+        "onboard_time": 1747535549,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96241,
+        "num": 96241,
+        "word": "中医一句话让高瀚宇汗流浃背了",
+        "onboard_time": 1747552821,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94165,
+        "num": 94165,
+        "word": "纯情蟑螂火辣辣",
+        "onboard_time": 1747550361,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93001,
+        "num": 93001,
+        "word": "古代有什么吊打现代的东西",
+        "onboard_time": 1747552940,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92329,
+        "num": 92329,
+        "word": "导演希望人们可以增强国安反谍意识",
+        "onboard_time": 1747552761,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92286,
+        "num": 92286,
+        "word": "汽车4S店销冠疑用个人码收车款跑路",
+        "onboard_time": 1747552940,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92032,
+        "num": 92032,
+        "word": "钿到底怎么念",
+        "onboard_time": 1747540410,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述文物里的文明交融#"
+    }
+  }
+}
