@@ -1,0 +1,410 @@
+{
+  "runTime": 1747579195242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1739961,
+        "num": 1739961,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1093557,
+        "num": 1093557,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47449,
+        "num": 944227,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908587,
+        "num": 908587,
+        "word": "肖战回复陈妍希",
+        "onboard_time": 1747569201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593994,
+        "num": 593994,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458322,
+        "num": 458322,
+        "word": "英语进步最快的方式",
+        "onboard_time": 1747574483,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 641101,
+        "num": 437857,
+        "word": "藏海传阴兵吓我一跳",
+        "onboard_time": 1747573341,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314216,
+        "num": 314216,
+        "word": "潘展乐汪顺孙杨携手晋级",
+        "onboard_time": 1747573341,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 857252,
+        "num": 313826,
+        "word": "肖战演技",
+        "onboard_time": 1747573582,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73984,
+        "num": 311746,
+        "word": "央视曝光废旧工厂成非法垃圾山",
+        "onboard_time": 1747578565,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 624890,
+        "num": 309648,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778394,
+        "num": 309138,
+        "word": "金子涵 好朋友",
+        "onboard_time": 1747573404,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595536,
+        "num": 306919,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139676,
+        "num": 305347,
+        "word": "保姆变后妈占房不走腾房索要30万",
+        "onboard_time": 1747578565,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39122,
+        "num": 303846,
+        "word": "目击者以为帆船撞纽约大桥是表演",
+        "onboard_time": 1747578624,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 583399,
+        "num": 302122,
+        "word": "藏海传观后感",
+        "onboard_time": 1747573222,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542288,
+        "num": 301678,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300380,
+        "num": 300380,
+        "word": "昆明地震",
+        "onboard_time": 1747578684,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259497,
+        "num": 259497,
+        "word": "陈楚生将进酒网友推荐TOP1",
+        "onboard_time": 1747577005,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257046,
+        "num": 257046,
+        "word": "CBA官方处罚广厦男篮",
+        "onboard_time": 1747577664,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560943,
+        "num": 255855,
+        "word": "陈星旭终于正视自己的颜值了",
+        "onboard_time": 1747575503,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463902,
+        "num": 252438,
+        "word": "孙千好辣",
+        "onboard_time": 1747574302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368169,
+        "num": 250756,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314033,
+        "num": 249240,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300770,
+        "num": 245294,
+        "word": "王俊凯工作室",
+        "onboard_time": 1747578204,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274921,
+        "num": 242459,
+        "word": "颖儿点赞了张新成付辛博剧照",
+        "onboard_time": 1747575623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269095,
+        "num": 240238,
+        "word": "面具人 徐磊",
+        "onboard_time": 1747577184,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239788,
+        "num": 239788,
+        "word": "黄子韬说老婆是最有底气的试验品",
+        "onboard_time": 1747563323,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221424,
+        "num": 221424,
+        "word": "郑氏姐妹",
+        "onboard_time": 1747577723,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205724,
+        "num": 205724,
+        "word": "86岁父亲骑车半月陪失偶儿子",
+        "onboard_time": 1747577965,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209927,
+        "num": 204282,
+        "word": "藏海割了双眼皮",
+        "onboard_time": 1747579104,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202384,
+        "num": 202384,
+        "word": "昀牵孟绕",
+        "onboard_time": 1747568842,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195321,
+        "num": 195321,
+        "word": "张艺兴音乐节",
+        "onboard_time": 1747576224,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189652,
+        "num": 189652,
+        "word": "藏海传热度",
+        "onboard_time": 1747573341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "TTG夺冠",
+        "onboard_time": 1747572262,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188424,
+        "num": 188424,
+        "word": "晚饭后别吃这6种高糖水果",
+        "onboard_time": 1747569562,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185960,
+        "num": 185960,
+        "word": "李沐宸想回到长剧赛道",
+        "onboard_time": 1747575803,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166142,
+        "num": 166142,
+        "word": "李佳薇报名歌手揭榜",
+        "onboard_time": 1747577723,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162724,
+        "num": 162724,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 159235,
+        "word": "孙汪",
+        "onboard_time": 1747578624,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158184,
+        "num": 158184,
+        "word": "王楚钦说八年和八天的不一样",
+        "onboard_time": 1747563025,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157889,
+        "num": 157889,
+        "word": "季肖冰叫宣璐夫人",
+        "onboard_time": 1747578445,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154768,
+        "num": 154768,
+        "word": "汪顺晋级后向观众鞠躬致谢",
+        "onboard_time": 1747577603,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88247,
+        "num": 154171,
+        "word": "江西一工业园内7家企业超标排废气",
+        "onboard_time": 1747577065,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154019,
+        "num": 154019,
+        "word": "谁家综艺凑到这么多梗王",
+        "onboard_time": 1747579104,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151184,
+        "num": 151184,
+        "word": "谁懂有效化妆的含金量",
+        "onboard_time": 1747575564,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147416,
+        "num": 147416,
+        "word": "刘晓庆不喜欢被叫庆奶",
+        "onboard_time": 1747575024,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54709,
+        "num": 147379,
+        "word": "法官为判案深夜蹲点听狗叫",
+        "onboard_time": 1747577065,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 147368,
+        "word": "爱吃肉能睡觉是减肥外挂",
+        "onboard_time": 1747578204,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142484,
+        "num": 142484,
+        "word": "印度卫星发射失败主持人快哭了",
+        "onboard_time": 1747562721,
+        "rank": 49,
+        "category": "国际时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}

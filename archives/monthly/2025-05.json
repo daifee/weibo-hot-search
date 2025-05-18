@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747578122856,
+  "endTime": 1747579195242,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1739961,
+      "num": 1739961,
+      "word": "藏海传收视率",
+      "onboard_time": 1747572262,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1734259,
       "num": 1734259,
       "word": "高退款人群屏蔽",
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 1621297,
-      "num": 732200,
+      "num": 908587,
       "word": "肖战回复陈妍希",
       "onboard_time": 1747569201,
       "rank": 3,
@@ -1713,14 +1721,6 @@
       "onboard_time": 1747023022,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1347174,
-      "num": 1347174,
-      "word": "藏海传收视率",
-      "onboard_time": 1747572262,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1344894,
@@ -2707,6 +2707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1093557,
+      "num": 1093557,
+      "word": "大家都不去ktv和spa了",
+      "onboard_time": 1747568121,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1090533,
       "num": 1090533,
       "word": "被母亲殴打致死女童父亲从国外返回",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1746725176,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1070775,
-      "num": 1070775,
-      "word": "大家都不去ktv和spa了",
-      "onboard_time": 1747568121,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 1070406,
@@ -4835,6 +4835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 778394,
+      "num": 309138,
+      "word": "金子涵 好朋友",
+      "onboard_time": 1747573404,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778174,
       "num": 561091,
       "word": "茅台 张艺兴",
@@ -4985,14 +4993,6 @@
       "onboard_time": 1746969922,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 767968,
-      "num": 245023,
-      "word": "金子涵 好朋友",
-      "onboard_time": 1747573404,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 767281,
@@ -5244,7 +5244,7 @@
     },
     {
       "raw_hot": 740155,
-      "num": 274476,
+      "num": 301678,
       "word": "24岁女生突发脑出血后不会说英语",
       "onboard_time": 1747569562,
       "rank": 11,
@@ -6188,7 +6188,7 @@
     },
     {
       "raw_hot": 662929,
-      "num": 243506,
+      "num": 302122,
       "word": "藏海传观后感",
       "onboard_time": 1747573222,
       "rank": 47,
@@ -6505,6 +6505,14 @@
       "onboard_time": 1747020323,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 641101,
+      "num": 437857,
+      "word": "藏海传阴兵吓我一跳",
+      "onboard_time": 1747573341,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 640997,
@@ -7025,14 +7033,6 @@
       "onboard_time": 1747568363,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 605527,
-      "num": 243354,
-      "word": "藏海传阴兵吓我一跳",
-      "onboard_time": 1747573341,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 605502,
@@ -7857,6 +7857,14 @@
       "onboard_time": 1746252021,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 560943,
+      "num": 255855,
+      "word": "陈星旭终于正视自己的颜值了",
+      "onboard_time": 1747575503,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 560883,
@@ -8820,7 +8828,7 @@
     },
     {
       "raw_hot": 505494,
-      "num": 207524,
+      "num": 252438,
       "word": "孙千好辣",
       "onboard_time": 1747574302,
       "rank": 25,
@@ -9617,14 +9625,6 @@
       "onboard_time": 1747128262,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469007,
-      "num": 207108,
-      "word": "陈星旭终于正视自己的颜值了",
-      "onboard_time": 1747575503,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 468518,
@@ -14483,6 +14483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314033,
+      "num": 249240,
+      "word": "吃串串买单222根自己数仅119根",
+      "onboard_time": 1747567581,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313971,
       "num": 313971,
       "word": "藏海传张本",
@@ -14716,7 +14724,7 @@
     },
     {
       "raw_hot": 309507,
-      "num": 205569,
+      "num": 242459,
       "word": "颖儿点赞了张新成付辛博剧照",
       "onboard_time": 1747575623,
       "rank": 33,
@@ -15179,6 +15187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300770,
+      "num": 245294,
+      "word": "王俊凯工作室",
+      "onboard_time": 1747578204,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300701,
       "num": 264288,
       "word": "丁禹兮工作室 线下",
@@ -15235,6 +15251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300380,
+      "num": 300380,
+      "word": "昆明地震",
+      "onboard_time": 1747578684,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300377,
       "num": 300377,
       "word": "撕拉片",
@@ -15265,14 +15289,6 @@
       "onboard_time": 1746256099,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299948,
-      "num": 206549,
-      "word": "吃串串买单222根自己数仅119根",
-      "onboard_time": 1747567581,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299755,
@@ -16835,6 +16851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269095,
+      "num": 240238,
+      "word": "面具人 徐磊",
+      "onboard_time": 1747577184,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268876,
       "num": 207756,
       "word": "草莓牛奶特别甜",
@@ -17347,14 +17371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262590,
-      "num": 202299,
-      "word": "面具人 徐磊",
-      "onboard_time": 1747577184,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262575,
       "num": 407553,
       "word": "男主播与榜一大姐分手被判还4.5万",
@@ -17587,6 +17603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259497,
+      "num": 259497,
+      "word": "陈楚生将进酒网友推荐TOP1",
+      "onboard_time": 1747577005,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259388,
       "num": 523940,
       "word": "藏海传预告片上线",
@@ -17753,6 +17777,14 @@
       "onboard_time": 1746370825,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257046,
+      "num": 257046,
+      "word": "CBA官方处罚广厦男篮",
+      "onboard_time": 1747577664,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 257026,
@@ -18985,14 +19017,6 @@
       "onboard_time": 1747090939,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241846,
-      "num": 241846,
-      "word": "陈楚生将进酒网友推荐TOP1",
-      "onboard_time": 1747577005,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 241746,
@@ -20627,6 +20651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221424,
+      "num": 221424,
+      "word": "郑氏姐妹",
+      "onboard_time": 1747577723,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221362,
       "num": 221362,
       "word": "金靖张凌赫人后送汤人前避嫌",
@@ -21787,6 +21819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209927,
+      "num": 204282,
+      "word": "藏海割了双眼皮",
+      "onboard_time": 1747579104,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209874,
       "num": 209874,
       "word": "李现谢谢红豆",
@@ -21961,14 +22001,6 @@
       "onboard_time": 1746952162,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208850,
-      "num": 208850,
-      "word": "CBA官方处罚广厦男篮",
-      "onboard_time": 1747577664,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 208721,
@@ -22753,6 +22785,14 @@
       "onboard_time": 1747369162,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205724,
+      "num": 205724,
+      "word": "86岁父亲骑车半月陪失偶儿子",
+      "onboard_time": 1747577965,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205686,
@@ -25099,6 +25139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195321,
+      "num": 195321,
+      "word": "张艺兴音乐节",
+      "onboard_time": 1747576224,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195216,
       "num": 195216,
       "word": "染发",
@@ -27065,6 +27113,14 @@
       "onboard_time": 1746241699,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188424,
+      "num": 188424,
+      "word": "晚饭后别吃这6种高糖水果",
+      "onboard_time": 1747569562,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188380,
@@ -29651,14 +29707,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 176808,
-      "num": 176808,
-      "word": "晚饭后别吃这6种高糖水果",
-      "onboard_time": 1747569562,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 176795,
       "num": 386539,
       "word": "职校学生运动会后集体退超60件裙子",
@@ -30417,14 +30465,6 @@
       "onboard_time": 1746286821,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173783,
-      "num": 173783,
-      "word": "张艺兴音乐节",
-      "onboard_time": 1747576224,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 173738,
@@ -33923,6 +33963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159235,
+      "num": 159235,
+      "word": "孙汪",
+      "onboard_time": 1747578624,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "平番排序方式",
@@ -34265,6 +34313,14 @@
       "onboard_time": 1747473981,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157889,
+      "num": 157889,
+      "word": "季肖冰叫宣璐夫人",
+      "onboard_time": 1747578445,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 157887,
@@ -35227,6 +35283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154768,
+      "num": 154768,
+      "word": "汪顺晋级后向观众鞠躬致谢",
+      "onboard_time": 1747577603,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154767,
       "num": 371827,
       "word": "张馨予回应自己不导电",
@@ -35448,6 +35512,14 @@
       "word": "刘宇宁再次参与迪丽热巴尴尬时刻",
       "onboard_time": 1746773061,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154019,
+      "num": 154019,
+      "word": "谁家综艺凑到这么多梗王",
+      "onboard_time": 1747579104,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -35705,14 +35777,6 @@
       "onboard_time": 1746149489,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153365,
-      "num": 153365,
-      "word": "郑氏姐妹",
-      "onboard_time": 1747577723,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 153363,
@@ -36257,6 +36321,14 @@
       "onboard_time": 1746614122,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 151184,
+      "num": 151184,
+      "word": "谁懂有效化妆的含金量",
+      "onboard_time": 1747575564,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 151115,
@@ -37227,6 +37299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147368,
+      "num": 147368,
+      "word": "爱吃肉能睡觉是减肥外挂",
+      "onboard_time": 1747578204,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147365,
       "num": 147365,
       "word": "此刻好像懂了群像的魅力",
@@ -37889,14 +37969,6 @@
       "onboard_time": 1746369446,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145042,
-      "num": 145042,
-      "word": "谁懂有效化妆的含金量",
-      "onboard_time": 1747575564,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 145035,
@@ -38649,14 +38721,6 @@
       "onboard_time": 1747460311,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142500,
-      "num": 142500,
-      "word": "汪顺晋级后向观众鞠躬致谢",
-      "onboard_time": 1747577603,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 142478,
@@ -39571,6 +39635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139676,
+      "num": 305347,
+      "word": "保姆变后妈占房不走腾房索要30万",
+      "onboard_time": 1747578565,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139673,
       "num": 139673,
       "word": "吞海广播剧破亿",
@@ -39713,14 +39785,6 @@
       "onboard_time": 1746372742,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139389,
-      "num": 139389,
-      "word": "86岁父亲骑车半月陪失偶儿子",
-      "onboard_time": 1747577965,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139358,
@@ -52531,6 +52595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88247,
+      "num": 242981,
+      "word": "江西一工业园内7家企业超标排废气",
+      "onboard_time": 1747577065,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 88201,
       "num": 136866,
       "word": "GTA6第二支预告",
@@ -54713,6 +54785,14 @@
       "onboard_time": 1747240340,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73984,
+      "num": 311746,
+      "word": "央视曝光废旧工厂成非法垃圾山",
+      "onboard_time": 1747578565,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 73868,
@@ -57587,6 +57667,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 54709,
+      "num": 208651,
+      "word": "法官为判案深夜蹲点听狗叫",
+      "onboard_time": 1747577065,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54675,
       "num": 83208,
       "word": "中国队晋级男女混合4×100米接力决赛",
@@ -58252,7 +58340,7 @@
     },
     {
       "raw_hot": 50744,
-      "num": 736127,
+      "num": 944227,
       "word": "天问二号一次发射实施任务可不少",
       "onboard_time": 1747573162,
       "rank": 2,
@@ -58393,14 +58481,6 @@
       "onboard_time": 1747246275,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50190,
-      "num": 242981,
-      "word": "江西一工业园内7家企业超标排废气",
-      "onboard_time": 1747577065,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 50105,
@@ -59176,14 +59256,6 @@
       "word": "AI用60秒掠过她的半辈子",
       "onboard_time": 1746974423,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46072,
-      "num": 208651,
-      "word": "法官为判案深夜蹲点听狗叫",
-      "onboard_time": 1747577065,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -60673,6 +60745,14 @@
       "onboard_time": 1746189390,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39122,
+      "num": 303846,
+      "word": "目击者以为帆船撞纽约大桥是表演",
+      "onboard_time": 1747578624,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39117,
