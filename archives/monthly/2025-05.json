@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747581827596,
+  "endTime": 1747582700676,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -9179,6 +9179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488941,
+      "num": 295757,
+      "word": "金巧巧本人都认不出的程度",
+      "onboard_time": 1747580303,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 488326,
       "num": 367454,
       "word": "小S二女儿回应是否进演艺圈",
@@ -12083,14 +12091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380165,
-      "num": 295757,
-      "word": "金巧巧本人都认不出的程度",
-      "onboard_time": 1747580303,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 380066,
       "num": 263439,
       "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
@@ -12841,6 +12841,14 @@
       "onboard_time": 1746054859,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 360698,
+      "num": 360698,
+      "word": "保姆变后妈占房不走腾房索要30万",
+      "onboard_time": 1747578565,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360577,
@@ -13627,14 +13635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339113,
-      "num": 339113,
-      "word": "保姆变后妈占房不走腾房索要30万",
-      "onboard_time": 1747578565,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 338898,
       "num": 338898,
       "word": "王楚钦被球砸脸还笑场",
@@ -13793,6 +13793,14 @@
       "onboard_time": 1747379001,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334005,
+      "num": 294325,
+      "word": "高叔微博",
+      "onboard_time": 1747580424,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 333938,
@@ -15715,14 +15723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294325,
-      "num": 294325,
-      "word": "高叔微博",
-      "onboard_time": 1747580424,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294092,
       "num": 294092,
       "word": "周洁琼好权威的美貌",
@@ -16065,6 +16065,14 @@
       "onboard_time": 1746828315,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287286,
+      "num": 297667,
+      "word": "马嘉祺歌手唱TheGreatestShow",
+      "onboard_time": 1747580963,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 287193,
@@ -19507,6 +19515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234492,
+      "num": 221766,
+      "word": "易烊千玺深圳出发",
+      "onboard_time": 1747582462,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234275,
       "num": 234275,
       "word": "孙珍妮 耀眼",
@@ -19793,6 +19809,14 @@
       "onboard_time": 1746159449,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231069,
+      "num": 284082,
+      "word": "成都到新疆售价5万起专列卖爆",
+      "onboard_time": 1747580004,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231044,
@@ -21899,14 +21923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209977,
-      "num": 209977,
-      "word": "成都到新疆售价5万起专列卖爆",
-      "onboard_time": 1747580004,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209949,
       "num": 209949,
       "word": "枭起青壤",
@@ -23097,6 +23113,14 @@
       "onboard_time": 1746848131,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 204965,
+      "num": 204965,
+      "word": "黄子韬卫生巾15分钟卖19.5万件",
+      "onboard_time": 1747579704,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 204901,
@@ -28283,14 +28307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184375,
-      "num": 184375,
-      "word": "黄子韬卫生巾15分钟卖19.5万件",
-      "onboard_time": 1747579704,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184373,
       "num": 184373,
       "word": "黄子弘凡肖俊人鱼的眼泪",
@@ -32668,7 +32684,7 @@
     },
     {
       "raw_hot": 164994,
-      "num": 164994,
+      "num": 238500,
       "word": "TT春季赛总冠军",
       "onboard_time": 1747581744,
       "rank": 49,
@@ -32689,14 +32705,6 @@
       "onboard_time": 1746166710,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164852,
-      "num": 297667,
-      "word": "马嘉祺歌手唱TheGreatestShow",
-      "onboard_time": 1747580963,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 164848,
@@ -33233,6 +33241,14 @@
       "onboard_time": 1746068421,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162855,
+      "num": 162855,
+      "word": "原来这就是臀肌失忆症",
+      "onboard_time": 1747579285,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162837,
@@ -43995,6 +44011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126773,
+      "num": 296409,
+      "word": "TT一夜双冠",
+      "onboard_time": 1747580603,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126759,
       "num": 126759,
       "word": "官方通报老师威胁学生人身安全",
@@ -51603,6 +51627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95856,
+      "num": 298959,
+      "word": "咖啡店回应12岁以下儿童禁入",
+      "onboard_time": 1747580603,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95847,
       "num": 95847,
       "word": "邓丽君去世30周年",
@@ -51913,6 +51945,14 @@
       "onboard_time": 1746315678,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93904,
+      "num": 241393,
+      "word": "中医院中药液里被指含管制类西药",
+      "onboard_time": 1747582165,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93849,
@@ -52401,14 +52441,6 @@
       "onboard_time": 1746238220,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90687,
-      "num": 296409,
-      "word": "TT一夜双冠",
-      "onboard_time": 1747580603,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 90641,
@@ -55696,14 +55728,6 @@
       "word": "我在乌江翻船现场的十二分钟",
       "onboard_time": 1746457225,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68628,
-      "num": 298959,
-      "word": "咖啡店回应12岁以下儿童禁入",
-      "onboard_time": 1747580603,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -62961,6 +62985,14 @@
       "onboard_time": 1746380657,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29670,
+      "num": 239850,
+      "word": "歌手2025首播战报",
+      "onboard_time": 1747582165,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 29646,
