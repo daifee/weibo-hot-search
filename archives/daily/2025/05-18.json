@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747575713231,
+  "endTime": 1747578122856,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1347174,
+      "num": 1347174,
+      "word": "藏海传收视率",
+      "onboard_time": 1747572262,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1325728,
       "num": 377314,
       "word": "肖战工作室 陪聊",
@@ -89,14 +97,6 @@
       "onboard_time": 1747556541,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1156800,
-      "num": 522419,
-      "word": "藏海传收视率",
-      "onboard_time": 1747572262,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1115625,
@@ -275,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 767968,
+      "num": 245023,
+      "word": "金子涵 好朋友",
+      "onboard_time": 1747573404,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 760457,
       "num": 403021,
       "word": "珠宝高仿人员辟谣",
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662929,
+      "num": 243506,
+      "word": "藏海传观后感",
+      "onboard_time": 1747573222,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658965,
       "num": 658965,
       "word": "司美格鲁肽",
@@ -363,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625918,
-      "num": 245023,
-      "word": "金子涵 好朋友",
-      "onboard_time": 1747573404,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622583,
       "num": 622583,
       "word": "TTG夺冠",
@@ -387,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606060,
+      "num": 606060,
+      "word": "母子错过航班大闹机场称耽误次日考公",
+      "onboard_time": 1747568363,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605527,
+      "num": 243354,
+      "word": "藏海传阴兵吓我一跳",
+      "onboard_time": 1747573341,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598676,
       "num": 598676,
       "word": "莎头",
@@ -401,6 +425,14 @@
       "onboard_time": 1747556961,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 596395,
+      "num": 596395,
+      "word": "英语进步最快的方式",
+      "onboard_time": 1747574483,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 594936,
@@ -427,28 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552526,
-      "num": 233401,
-      "word": "藏海传观后感",
-      "onboard_time": 1747573222,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 541972,
-      "num": 541972,
-      "word": "母子错过航班大闹机场称耽误次日考公",
-      "onboard_time": 1747568363,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 533104,
       "num": 278887,
       "word": "歌手第二期歌单",
       "onboard_time": 1747570463,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505494,
+      "num": 207524,
+      "word": "孙千好辣",
+      "onboard_time": 1747574302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 500948,
@@ -467,12 +491,12 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 472742,
-      "num": 236631,
-      "word": "藏海传阴兵吓我一跳",
-      "onboard_time": 1747573341,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 469007,
+      "num": 207108,
+      "word": "陈星旭终于正视自己的颜值了",
+      "onboard_time": 1747575503,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 464629,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 376087,
-      "num": 199057,
+      "num": 200391,
       "word": "藏海传热度",
       "onboard_time": 1747573341,
       "rank": 20,
@@ -593,14 +617,6 @@
       "onboard_time": 1747492646,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359927,
-      "num": 200253,
-      "word": "孙千好辣",
-      "onboard_time": 1747574302,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 357877,
@@ -729,6 +745,14 @@
       "onboard_time": 1747544849,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309507,
+      "num": 205569,
+      "word": "颖儿点赞了张新成付辛博剧照",
+      "onboard_time": 1747575623,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 303848,
@@ -867,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262590,
+      "num": 202299,
+      "word": "面具人 徐磊",
+      "onboard_time": 1747577184,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262152,
       "num": 262152,
       "word": "赵美延曾被宋雨琦Minnie欺生",
@@ -921,6 +953,14 @@
       "onboard_time": 1747524798,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241846,
+      "num": 241846,
+      "word": "陈楚生将进酒网友推荐TOP1",
+      "onboard_time": 1747577005,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 236327,
@@ -1075,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208850,
+      "num": 208850,
+      "word": "CBA官方处罚广厦男篮",
+      "onboard_time": 1747577664,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208310,
       "num": 208310,
       "word": "520男德天花板",
@@ -1219,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200077,
+      "num": 200077,
+      "word": "李沐宸想回到长剧赛道",
+      "onboard_time": 1747575803,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
@@ -1275,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193696,
+      "num": 193696,
+      "word": "李佳薇报名歌手揭榜",
+      "onboard_time": 1747577723,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192389,
       "num": 319439,
       "word": "王曼昱4比1威尔戈斯",
@@ -1289,14 +1353,6 @@
       "onboard_time": 1747537709,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191172,
-      "num": 191172,
-      "word": "英语进步最快的方式",
-      "onboard_time": 1747574483,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 190807,
@@ -1339,20 +1395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186834,
-      "num": 186834,
-      "word": "颖儿点赞了张新成付辛博剧照",
-      "onboard_time": 1747575623,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186750,
       "num": 186750,
       "word": "王一博出镜Discovery特别节目",
       "onboard_time": 1747567221,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185268,
+      "num": 185268,
+      "word": "PEL",
+      "onboard_time": 1747577664,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 185204,
@@ -1467,12 +1523,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176808,
+      "num": 176808,
+      "word": "晚饭后别吃这6种高糖水果",
+      "onboard_time": 1747569562,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "白宇刘宇宁都有气胸",
       "onboard_time": 1747497502,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174554,
+      "num": 205784,
+      "word": "刘晓庆不喜欢被叫庆奶",
+      "onboard_time": 1747575024,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 174189,
@@ -1483,20 +1555,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "张艺兴音乐节",
+      "onboard_time": 1747576224,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173616,
       "num": 231091,
       "word": "有被美的装到",
       "onboard_time": 1747539450,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 171916,
-      "num": 171916,
-      "word": "晚饭后别吃这6种高糖水果",
-      "onboard_time": 1747569562,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170002,
@@ -1715,6 +1787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 153365,
+      "num": 153365,
+      "word": "郑氏姐妹",
+      "onboard_time": 1747577723,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152978,
       "num": 198796,
       "word": "千万诈骗犯大部分钱转给女友",
@@ -1728,6 +1808,14 @@
       "word": "蛮蛮一劭官宣像炫耀",
       "onboard_time": 1747550900,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152088,
+      "num": 152088,
+      "word": "藏海传好看吗",
+      "onboard_time": 1747575923,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1851,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142500,
+      "num": 142500,
+      "word": "汪顺晋级后向观众鞠躬致谢",
+      "onboard_time": 1747577603,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142478,
       "num": 142478,
       "word": "奇洛李维斯回信清明谷雨",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1747542330,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139389,
+      "num": 139389,
+      "word": "86岁父亲骑车半月陪失偶儿子",
+      "onboard_time": 1747577965,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138389,
@@ -2001,14 +2105,6 @@
       "onboard_time": 1747528348,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135196,
-      "num": 135196,
-      "word": "陈星旭终于正视自己的颜值了",
-      "onboard_time": 1747575503,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 134262,
@@ -2193,14 +2289,6 @@
       "onboard_time": 1747557802,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124197,
-      "num": 205784,
-      "word": "刘晓庆不喜欢被叫庆奶",
-      "onboard_time": 1747575024,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 123970,
@@ -3163,12 +3251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50340,
+      "raw_hot": 50744,
       "num": 736127,
       "word": "天问二号一次发射实施任务可不少",
       "onboard_time": 1747573162,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50190,
+      "num": 242981,
+      "word": "江西一工业园内7家企业超标排废气",
+      "onboard_time": 1747577065,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 50104,
@@ -3235,6 +3331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46469,
+      "num": 201367,
+      "word": "被大块玻璃坠落砸中者已转院",
+      "onboard_time": 1747577065,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46072,
+      "num": 208651,
+      "word": "法官为判案深夜蹲点听狗叫",
+      "onboard_time": 1747577065,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44374,
       "num": 210245,
       "word": "一代人有一代人的茅台",
@@ -3289,6 +3401,14 @@
       "onboard_time": 1747538609,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 39037,
+      "num": 242608,
+      "word": "林诗栋vs皮切福特",
+      "onboard_time": 1747568480,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 38974,
@@ -3577,6 +3697,14 @@
       "onboard_time": 1747513453,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18529,
+      "num": 204373,
+      "word": "怎么拍撕拉片能更好地提升颜值",
+      "onboard_time": 1747576883,
+      "rank": 25,
+      "category": "其它"
     },
     {
       "raw_hot": 17330,
