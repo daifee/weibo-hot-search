@@ -1,0 +1,410 @@
+{
+  "runTime": 1747550054926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072144,
+        "num": 1171543,
+        "word": "藏海传 点天灯",
+        "onboard_time": 1747546050,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 963564,
+        "num": 963564,
+        "word": "拒绝接待中国人的日本餐厅已歇业",
+        "onboard_time": 1747541670,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18923,
+        "num": 796247,
+        "word": "走进这些博物馆感触民族脊梁",
+        "onboard_time": 1747538609,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 739448,
+        "num": 739448,
+        "word": "11.3万工资给3千老板被法官怒斥",
+        "onboard_time": 1747541131,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723517,
+        "num": 723517,
+        "word": "陈赫向孙俪请教",
+        "onboard_time": 1747545749,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423435,
+        "num": 423435,
+        "word": "司美格鲁肽",
+        "onboard_time": 1747548981,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 520877,
+        "num": 412617,
+        "word": "李晟生完孩子曾整晚哭",
+        "onboard_time": 1747548981,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453996,
+        "num": 411932,
+        "word": "马嘉祺歌手全民预测第二期冠军",
+        "onboard_time": 1747548681,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399692,
+        "num": 399692,
+        "word": "韩司机好奇为何中国人说韩国小",
+        "onboard_time": 1747541610,
+        "rank": 8,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 271326,
+        "num": 271326,
+        "word": "币圈富豪连遭绑架有超10万人爆仓",
+        "onboard_time": 1747544610,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1024377,
+        "num": 268502,
+        "word": "姜尘谈黄杨钿甜",
+        "onboard_time": 1747545150,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339155,
+        "num": 267825,
+        "word": "宋雨琦透露组合结算方式",
+        "onboard_time": 1747547782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261705,
+        "num": 261705,
+        "word": "乐乐一家合体",
+        "onboard_time": 1747545090,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246040,
+        "num": 246040,
+        "word": "惠英红自曝被换角",
+        "onboard_time": 1747545749,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223418,
+        "num": 223418,
+        "word": "迪丽热巴一个人就是一出戏",
+        "onboard_time": 1747547421,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199684,
+        "num": 199684,
+        "word": "种地吧直播",
+        "onboard_time": 1747549340,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182233,
+        "num": 182233,
+        "word": "纽约一大型帆船撞桥",
+        "onboard_time": 1747535609,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173290,
+        "num": 173290,
+        "word": "潘展乐汪顺孙杨晋级200自半决赛",
+        "onboard_time": 1747542091,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151058,
+        "num": 172928,
+        "word": "南宁一女孩被天降大块玻璃砸倒",
+        "onboard_time": 1747547061,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19196,
+        "num": 171658,
+        "word": "文化中国行看文物里的绝美配色",
+        "onboard_time": 1747524197,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 432921,
+        "num": 170486,
+        "word": "陈梦生理期痛到要吃止痛药",
+        "onboard_time": 1747546461,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188574,
+        "num": 168722,
+        "word": "西西里岛的刘亦菲",
+        "onboard_time": 1747544490,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167797,
+        "num": 167797,
+        "word": "钿到底怎么念",
+        "onboard_time": 1747540410,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145490,
+        "num": 167240,
+        "word": "载有200多人帆船撞上纽约大桥",
+        "onboard_time": 1747535549,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167109,
+        "num": 167109,
+        "word": "折腰是刘宇宁骨折时候拍的",
+        "onboard_time": 1747549942,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165425,
+        "num": 165425,
+        "word": "Sunnee杨芸晴把母女认成情侣",
+        "onboard_time": 1747547360,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148921,
+        "num": 148921,
+        "word": "林更新签约杨幂新公司",
+        "onboard_time": 1747524978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "邓超陈赫深夜聊天放鹿晗的歌",
+        "onboard_time": 1747548860,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114151,
+        "num": 144938,
+        "word": "用手指转手机有多难",
+        "onboard_time": 1747548741,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33522,
+        "num": 144580,
+        "word": "关于黄杨钿甜爸爸令人费解的点",
+        "onboard_time": 1747549042,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 144340,
+        "num": 144340,
+        "word": "YOU停薪停职",
+        "onboard_time": 1747546350,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133637,
+        "num": 133637,
+        "word": "周鸿祎说AI提建议比张雪峰强",
+        "onboard_time": 1747548921,
+        "rank": 31,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 129466,
+        "num": 129466,
+        "word": "星巴克蔬菜卷",
+        "onboard_time": 1747546050,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128382,
+        "num": 128382,
+        "word": "成毅回信息需要亿点时间",
+        "onboard_time": 1747549282,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126004,
+        "num": 126004,
+        "word": "折腰",
+        "onboard_time": 1747539329,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121612,
+        "num": 121612,
+        "word": "雍和宫许愿副作用",
+        "onboard_time": 1747543110,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121512,
+        "num": 121512,
+        "word": "中国年度最受欢迎10大博物馆",
+        "onboard_time": 1747549881,
+        "rank": 36,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 120578,
+        "num": 120578,
+        "word": "孟子义说李昀锐身体真好",
+        "onboard_time": 1747538970,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111135,
+        "num": 111135,
+        "word": "藏海传开播连更8天",
+        "onboard_time": 1747543591,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42725,
+        "num": 109995,
+        "word": "74岁卖鱿鱼的大叔",
+        "onboard_time": 1747549042,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109674,
+        "num": 109674,
+        "word": "于小彤获合约",
+        "onboard_time": 1747548081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96482,
+        "num": 96482,
+        "word": "螺蛳粉店名撞音当地粗话遭举报",
+        "onboard_time": 1747533630,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94583,
+        "num": 94583,
+        "word": "藏海传剧评",
+        "onboard_time": 1747525039,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88404,
+        "num": 88404,
+        "word": "高位截瘫男孩自驾看雪山",
+        "onboard_time": 1747539510,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86669,
+        "num": 86669,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86240,
+        "num": 86240,
+        "word": "蒙面暴徒持枪当街绑架富豪女儿",
+        "onboard_time": 1747549282,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85903,
+        "num": 85903,
+        "word": "建议大家把睡觉当成一天的开始",
+        "onboard_time": 1747530628,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85018,
+        "num": 85809,
+        "word": "毛利兰生日大屏",
+        "onboard_time": 1747548022,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85790,
+        "num": 85790,
+        "word": "医生建议男孩三岁后应该分床睡",
+        "onboard_time": 1747530628,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 19870,
+        "num": 85394,
+        "word": "70岁老人手写14页感谢信",
+        "onboard_time": 1747544730,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述文物里的文明交融#"
+    }
+  }
+}
