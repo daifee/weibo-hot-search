@@ -1,0 +1,410 @@
+{
+  "runTime": 1747573279893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3077461,
+        "num": 3077461,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1070775,
+        "num": 1070775,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6945,
+        "num": 636903,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1420533,
+        "num": 636587,
+        "word": "肖战回复陈妍希",
+        "onboard_time": 1747569201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 622583,
+        "num": 622583,
+        "word": "TTG夺冠",
+        "onboard_time": 1747572262,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 528385,
+        "num": 528385,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066845,
+        "num": 440574,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760457,
+        "num": 403021,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294151,
+        "num": 294151,
+        "word": "匿名校友向复旦大学捐赠1亿元",
+        "onboard_time": 1747563861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280758,
+        "num": 280758,
+        "word": "王楚钦说八年和八天的不一样",
+        "onboard_time": 1747563025,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496445,
+        "num": 278887,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436936,
+        "num": 274476,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353891,
+        "num": 268833,
+        "word": "折腰15集",
+        "onboard_time": 1747568300,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296901,
+        "num": 263294,
+        "word": "叶舒华古装",
+        "onboard_time": 1747566622,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262152,
+        "num": 262152,
+        "word": "赵美延曾被宋雨琦Minnie欺生",
+        "onboard_time": 1747572024,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215716,
+        "num": 215716,
+        "word": "姚晨成功降脂",
+        "onboard_time": 1747570281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211793,
+        "num": 211793,
+        "word": "印度卫星发射失败主持人快哭了",
+        "onboard_time": 1747562721,
+        "rank": 16,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 24011,
+        "num": 204951,
+        "word": "荣耀GTPro硬控ACL电竞赛场",
+        "onboard_time": 1747572322,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198842,
+        "num": 198842,
+        "word": "清清FMVP",
+        "onboard_time": 1747572443,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26819,
+        "num": 195752,
+        "word": "魏劭为什么会对小乔动心",
+        "onboard_time": 1747572443,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68076,
+        "num": 194157,
+        "word": "中国最早的体育奖杯",
+        "onboard_time": 1747568363,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602460,
+        "num": 194076,
+        "word": "黄子韬说老婆是最有底气的试验品",
+        "onboard_time": 1747563323,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193537,
+        "num": 193537,
+        "word": "QQ音乐榜单截止后更改名次不退款",
+        "onboard_time": 1747568540,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 291907,
+        "num": 193249,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241080,
+        "num": 192951,
+        "word": "昀牵孟绕",
+        "onboard_time": 1747568842,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34275,
+        "num": 192457,
+        "word": "存款特种兵逐渐淡出江湖",
+        "onboard_time": 1747571363,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204034,
+        "num": 191771,
+        "word": "王俊凯直播",
+        "onboard_time": 1747572923,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 191700,
+        "word": "多方回应成都巨型3D蛇太逼真引争议",
+        "onboard_time": 1747563622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134771,
+        "num": 191026,
+        "word": "张雨霏100蝶银牌",
+        "onboard_time": 1747571363,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71298,
+        "num": 190540,
+        "word": "余依婷冠军张雨霏亚军",
+        "onboard_time": 1747572382,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44374,
+        "num": 190352,
+        "word": "一代人有一代人的茅台",
+        "onboard_time": 1747571363,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64654,
+        "num": 189871,
+        "word": "毛孩子也是好起来了穿上三叶草了",
+        "onboard_time": 1747571482,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194123,
+        "num": 189390,
+        "word": "酷云",
+        "onboard_time": 1747572501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189032,
+        "num": 189032,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169544,
+        "num": 169544,
+        "word": "黄子韬回应卫生巾被指贴牌",
+        "onboard_time": 1747567581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163077,
+        "num": 163077,
+        "word": "晚饭后别吃这6种高糖水果",
+        "onboard_time": 1747569562,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162494,
+        "num": 162494,
+        "word": "张本智和11比1林仲勋",
+        "onboard_time": 1747571962,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160854,
+        "num": 160854,
+        "word": "乐高 阿信",
+        "onboard_time": 1747571363,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15980,
+        "num": 145663,
+        "word": "周也戛纳红毯前不忘补妆",
+        "onboard_time": 1747568480,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145443,
+        "num": 145443,
+        "word": "TTG对战DRG",
+        "onboard_time": 1747563261,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138055,
+        "num": 138055,
+        "word": "罗予彤 反正请我又不用花钱",
+        "onboard_time": 1747571542,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127928,
+        "num": 127928,
+        "word": "稻城亚丁景区一女游客因高反去世",
+        "onboard_time": 1747560561,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124319,
+        "num": 124319,
+        "word": "C罗将离开利雅得胜利",
+        "onboard_time": 1747565601,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120078,
+        "num": 120078,
+        "word": "肖战工作室 陪聊",
+        "onboard_time": 1747556780,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118268,
+        "num": 118268,
+        "word": "马思纯春夏孙千同框状态",
+        "onboard_time": 1747567941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116047,
+        "num": 116047,
+        "word": "吴宣仪没有辜负她的青春",
+        "onboard_time": 1747573041,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115542,
+        "num": 115542,
+        "word": "孙颖莎王楚钦商量战术",
+        "onboard_time": 1747570101,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201159,
+        "num": 115013,
+        "word": "藏海传观后感",
+        "onboard_time": 1747573222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113934,
+        "num": 113934,
+        "word": "蒋敦豪看到贡菜眼睛都亮了",
+        "onboard_time": 1747571842,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109181,
+        "num": 109181,
+        "word": "小乔吃醋",
+        "onboard_time": 1747570223,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}

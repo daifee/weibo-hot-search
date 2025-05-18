@@ -1,10 +1,10 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747572342691,
+  "endTime": 1747573279893,
   "band_list": [
     {
-      "raw_hot": 2702618,
-      "num": 2702618,
+      "raw_hot": 3077461,
+      "num": 3077461,
       "word": "藏海传",
       "onboard_time": 1747485623,
       "rank": 38,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070775,
+      "num": 1070775,
+      "word": "大家都不去ktv和spa了",
+      "onboard_time": 1747568121,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1068647,
       "num": 1068647,
       "word": "你好星期六收视率",
@@ -123,12 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1056843,
-      "num": 1056843,
-      "word": "大家都不去ktv和spa了",
-      "onboard_time": 1747568121,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 1066845,
+      "num": 440574,
+      "word": "藏海传收视率",
+      "onboard_time": 1747572262,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1049170,
@@ -259,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 760457,
+      "num": 403021,
+      "word": "珠宝高仿人员辟谣",
+      "onboard_time": 1747569562,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 723517,
       "num": 723517,
       "word": "陈赫向孙俪请教",
@@ -273,14 +289,6 @@
       "onboard_time": 1747541610,
       "rank": 31,
       "category": "海外新闻,民生新闻"
-    },
-    {
-      "raw_hot": 702851,
-      "num": 328528,
-      "word": "珠宝高仿人员辟谣",
-      "onboard_time": 1747569562,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 702642,
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 670410,
-      "num": 309620,
-      "word": "藏海传收视率",
-      "onboard_time": 1747572262,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 658965,
       "num": 658965,
       "word": "司美格鲁肽",
@@ -337,6 +337,14 @@
       "onboard_time": 1747524978,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622583,
+      "num": 622583,
+      "word": "TTG夺冠",
+      "onboard_time": 1747572262,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 606986,
@@ -403,6 +411,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 496445,
+      "num": 278887,
+      "word": "歌手第二期歌单",
+      "onboard_time": 1747570463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487944,
       "num": 487944,
       "word": "印度卫星发射失败主持人快哭了",
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436936,
+      "num": 274476,
+      "word": "24岁女生突发脑出血后不会说英语",
+      "onboard_time": 1747569562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432860,
       "num": 432860,
       "word": "孙杨赛后久久不忍离去",
@@ -449,22 +473,6 @@
       "onboard_time": 1747562843,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421676,
-      "num": 221091,
-      "word": "24岁女生突发脑出血后不会说英语",
-      "onboard_time": 1747569562,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419586,
-      "num": 218955,
-      "word": "歌手第二期歌单",
-      "onboard_time": 1747570463,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 415940,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 381679,
-      "num": 215394,
+      "num": 268833,
       "word": "折腰15集",
       "onboard_time": 1747568300,
       "rank": 15,
@@ -803,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262152,
+      "num": 262152,
+      "word": "赵美延曾被宋雨琦Minnie欺生",
+      "onboard_time": 1747572024,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261705,
       "num": 261705,
       "word": "乐乐一家合体",
@@ -851,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237186,
-      "num": 203936,
-      "word": "赵美延曾被宋雨琦Minnie欺生",
-      "onboard_time": 1747572024,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236327,
       "num": 236327,
       "word": "孙颖莎王楚钦赛中沟通",
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 232419,
-      "num": 205061,
+      "num": 215716,
       "word": "姚晨成功降脂",
       "onboard_time": 1747570281,
       "rank": 22,
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204034,
+      "num": 191771,
+      "word": "王俊凯直播",
+      "onboard_time": 1747572923,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203468,
       "num": 203468,
       "word": "混双",
@@ -1115,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201159,
+      "num": 115013,
+      "word": "藏海传观后感",
+      "onboard_time": 1747573222,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200546,
       "num": 197867,
       "word": "许嵩蝴蝶立麦竟然会动",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1747485803,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198842,
+      "num": 198842,
+      "word": "清清FMVP",
+      "onboard_time": 1747572443,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 197237,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1747556481,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194123,
+      "num": 189390,
+      "word": "酷云",
+      "onboard_time": 1747572501,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194104,
@@ -1372,7 +1412,7 @@
     },
     {
       "raw_hot": 169730,
-      "num": 169730,
+      "num": 191026,
       "word": "张雨霏100蝶银牌",
       "onboard_time": 1747571363,
       "rank": 30,
@@ -1483,6 +1523,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163077,
+      "num": 163077,
+      "word": "晚饭后别吃这6种高糖水果",
+      "onboard_time": 1747569562,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "张本智和11比1林仲勋",
+      "onboard_time": 1747571962,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161144,
       "num": 161144,
       "word": "韩红好宠周震南",
@@ -1587,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152153,
-      "num": 152153,
-      "word": "TTG夺冠",
-      "onboard_time": 1747572262,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150776,
       "num": 150776,
       "word": "藏海到底有几个仇人",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1747548860,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145480,
-      "num": 145480,
-      "word": "晚饭后别吃这6种高糖水果",
-      "onboard_time": 1747569562,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145479,
@@ -2195,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116047,
+      "num": 116047,
+      "word": "吴宣仪没有辜负她的青春",
+      "onboard_time": 1747573041,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115968,
       "num": 115968,
       "word": "在短剧里吃到了恨海情天细糠",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1747566862,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115542,
+      "num": 115542,
+      "word": "孙颖莎王楚钦商量战术",
+      "onboard_time": 1747570101,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115202,
@@ -2288,14 +2344,6 @@
       "word": "孙杨第一次打肌贴参赛",
       "onboard_time": 1747531350,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111571,
-      "num": 111571,
-      "word": "张本智和11比1林仲勋",
-      "onboard_time": 1747571962,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -2700,7 +2748,7 @@
     },
     {
       "raw_hot": 80506,
-      "num": 138001,
+      "num": 194157,
       "word": "中国最早的体育奖杯",
       "onboard_time": 1747568363,
       "rank": 39,
@@ -2803,6 +2851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71298,
+      "num": 190540,
+      "word": "余依婷冠军张雨霏亚军",
+      "onboard_time": 1747572382,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69247,
       "num": 134890,
       "word": "许嵩 集美们在哪里",
@@ -2833,6 +2889,14 @@
       "onboard_time": 1747558282,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64654,
+      "num": 189871,
+      "word": "毛孩子也是好起来了穿上三叶草了",
+      "onboard_time": 1747571482,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 64360,
@@ -2931,14 +2995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50538,
-      "num": 162958,
-      "word": "毛孩子也是好起来了穿上三叶草了",
-      "onboard_time": 1747571482,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 50104,
       "num": 52526,
       "word": "门店回应员工脱袜子抠脚",
@@ -2992,6 +3048,14 @@
       "word": "工作人员轻轻打开国宝箱",
       "onboard_time": 1747566922,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44374,
+      "num": 210245,
+      "word": "一代人有一代人的茅台",
+      "onboard_time": 1747571363,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3067,14 +3131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36921,
-      "num": 210245,
-      "word": "一代人有一代人的茅台",
-      "onboard_time": 1747571363,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36679,
       "num": 158898,
       "word": "灵笼第二季有哪些看点",
@@ -3097,6 +3153,14 @@
       "onboard_time": 1747505597,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34275,
+      "num": 217368,
+      "word": "存款特种兵逐渐淡出江湖",
+      "onboard_time": 1747571363,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33522,
@@ -3137,14 +3201,6 @@
       "onboard_time": 1747523957,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31564,
-      "num": 217368,
-      "word": "存款特种兵逐渐淡出江湖",
-      "onboard_time": 1747571363,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30987,
@@ -3203,6 +3259,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 26819,
+      "num": 195752,
+      "word": "魏劭为什么会对小乔动心",
+      "onboard_time": 1747572443,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26277,
       "num": 55419,
       "word": "严浩翔个人直拍发布",
@@ -3241,6 +3305,14 @@
       "onboard_time": 1747506676,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24011,
+      "num": 204951,
+      "word": "荣耀GTPro硬控ACL电竞赛场",
+      "onboard_time": 1747572322,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 23764,
@@ -3475,14 +3547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12089,
-      "num": 138014,
-      "word": "荣耀GTPro硬控ACL电竞赛场",
-      "onboard_time": 1747572322,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 12050,
       "num": 23219,
       "word": "美的脱口秀",
@@ -3513,6 +3577,14 @@
       "onboard_time": 1747560680,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6945,
+      "num": 636903,
+      "word": "天问二号一次发射实施任务可不少",
+      "onboard_time": 1747573162,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5235,

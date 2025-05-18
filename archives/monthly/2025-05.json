@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747572342691,
+  "endTime": 1747573279893,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3077461,
+      "num": 3077461,
+      "word": "藏海传",
+      "onboard_time": 1746591445,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3006518,
       "num": 3006518,
       "word": "刘晓庆已退出被举报涉嫌偷税公司股东",
@@ -273,14 +281,6 @@
       "onboard_time": 1746581302,
       "rank": 1,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 2702618,
-      "num": 2702618,
-      "word": "藏海传",
-      "onboard_time": 1746591445,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 2689057,
@@ -2811,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1070775,
+      "num": 1070775,
+      "word": "大家都不去ktv和spa了",
+      "onboard_time": 1747568121,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1070406,
       "num": 298578,
       "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1746352821,
       "rank": 22,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1066845,
+      "num": 440574,
+      "word": "藏海传收视率",
+      "onboard_time": 1747572262,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1065502,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1747037003,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056843,
-      "num": 1056843,
-      "word": "大家都不去ktv和spa了",
-      "onboard_time": 1747568121,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 1055400,
@@ -5027,6 +5035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 760457,
+      "num": 403021,
+      "word": "珠宝高仿人员辟谣",
+      "onboard_time": 1747569562,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 759976,
       "num": 759976,
       "word": "陈赫在海南被路人认成周杰伦",
@@ -5731,14 +5747,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 702851,
-      "num": 328528,
-      "word": "珠宝高仿人员辟谣",
-      "onboard_time": 1747569562,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 702642,
       "num": 702642,
       "word": "男生病重全班赶来合拍毕业照",
@@ -6057,14 +6065,6 @@
       "onboard_time": 1747292182,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 670410,
-      "num": 309620,
-      "word": "藏海传收视率",
-      "onboard_time": 1747572262,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 670247,
@@ -6721,6 +6721,14 @@
       "onboard_time": 1746939501,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622583,
+      "num": 622583,
+      "word": "TTG夺冠",
+      "onboard_time": 1747572262,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 621587,
@@ -8907,6 +8915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496445,
+      "num": 278887,
+      "word": "歌手第二期歌单",
+      "onboard_time": 1747570463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496420,
       "num": 496420,
       "word": "藏海传赴山海百指",
@@ -10427,6 +10443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436936,
+      "num": 274476,
+      "word": "24岁女生突发脑出血后不会说英语",
+      "onboard_time": 1747569562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436863,
       "num": 377223,
       "word": "女子皮肤可拉伸几厘米如橡皮人",
@@ -10811,14 +10835,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 421676,
-      "num": 221091,
-      "word": "24岁女生突发脑出血后不会说英语",
-      "onboard_time": 1747569562,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421481,
       "num": 330329,
       "word": "18岁中国留学生绑架案被控自导自演",
@@ -10921,14 +10937,6 @@
       "onboard_time": 1746333082,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419586,
-      "num": 218955,
-      "word": "歌手第二期歌单",
-      "onboard_time": 1747570463,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 419389,
@@ -11932,7 +11940,7 @@
     },
     {
       "raw_hot": 381679,
-      "num": 215394,
+      "num": 268833,
       "word": "折腰15集",
       "onboard_time": 1747568300,
       "rank": 15,
@@ -17307,6 +17315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262152,
+      "num": 262152,
+      "word": "赵美延曾被宋雨琦Minnie欺生",
+      "onboard_time": 1747572024,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262085,
       "num": 371217,
       "word": "理想L系列智能焕新版上市",
@@ -19147,14 +19163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 237186,
-      "num": 203936,
-      "word": "赵美延曾被宋雨琦Minnie欺生",
-      "onboard_time": 1747572024,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237128,
       "num": 237128,
       "word": "LPL 宫斗",
@@ -19452,7 +19460,7 @@
     },
     {
       "raw_hot": 232419,
-      "num": 205061,
+      "num": 215716,
       "word": "姚晨成功降脂",
       "onboard_time": 1747570281,
       "rank": 22,
@@ -23003,6 +23011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204034,
+      "num": 191771,
+      "word": "王俊凯直播",
+      "onboard_time": 1747572923,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204021,
       "num": 204021,
       "word": "张杰连开十二场体力永动机",
@@ -23601,6 +23617,14 @@
       "onboard_time": 1746695182,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201159,
+      "num": 115013,
+      "word": "藏海传观后感",
+      "onboard_time": 1747573222,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 201158,
@@ -24209,6 +24233,14 @@
       "onboard_time": 1746196533,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198842,
+      "num": 198842,
+      "word": "清清FMVP",
+      "onboard_time": 1747572443,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 198832,
@@ -25297,6 +25329,14 @@
       "onboard_time": 1746691523,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194123,
+      "num": 189390,
+      "word": "酷云",
+      "onboard_time": 1747572501,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194105,
@@ -31020,7 +31060,7 @@
     },
     {
       "raw_hot": 169730,
-      "num": 169730,
+      "num": 191026,
       "word": "张雨霏100蝶银牌",
       "onboard_time": 1747571363,
       "rank": 30,
@@ -32771,6 +32811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163077,
+      "num": 163077,
+      "word": "晚饭后别吃这6种高糖水果",
+      "onboard_time": 1747569562,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 163013,
       "num": 163013,
       "word": "警方将核实网红是小念噢自杀传言",
@@ -32929,6 +32977,14 @@
       "onboard_time": 1747063282,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "张本智和11比1林仲勋",
+      "onboard_time": 1747571962,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 162482,
@@ -35795,14 +35851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152153,
-      "num": 152153,
-      "word": "TTG夺冠",
-      "onboard_time": 1747572262,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152096,
       "num": 152096,
       "word": "重庆大学调查本科生发14篇SCI论文",
@@ -37553,14 +37601,6 @@
       "onboard_time": 1747005678,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 145480,
-      "num": 145480,
-      "word": "晚饭后别吃这6种高糖水果",
-      "onboard_time": 1747569562,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145479,
@@ -46595,6 +46635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116047,
+      "num": 116047,
+      "word": "吴宣仪没有辜负她的青春",
+      "onboard_time": 1747573041,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116027,
       "num": 302118,
       "word": "美菲演习靶舰提前沉没",
@@ -46737,6 +46785,14 @@
       "onboard_time": 1746054859,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115542,
+      "num": 115542,
+      "word": "孙颖莎王楚钦商量战术",
+      "onboard_time": 1747570101,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115474,
@@ -47832,14 +47888,6 @@
       "word": "皇马3比2塞尔塔",
       "onboard_time": 1746369265,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 111571,
-      "num": 111571,
-      "word": "张本智和11比1林仲勋",
-      "onboard_time": 1747571962,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -53516,7 +53564,7 @@
     },
     {
       "raw_hot": 80506,
-      "num": 138001,
+      "num": 194157,
       "word": "中国最早的体育奖杯",
       "onboard_time": 1747568363,
       "rank": 39,
@@ -54907,6 +54955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71298,
+      "num": 190540,
+      "word": "余依婷冠军张雨霏亚军",
+      "onboard_time": 1747572382,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71102,
       "num": 196113,
       "word": "芯竹喊话说唱节目",
@@ -55729,6 +55785,14 @@
       "onboard_time": 1746658518,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64654,
+      "num": 189871,
+      "word": "毛孩子也是好起来了穿上三叶草了",
+      "onboard_time": 1747571482,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 64422,
@@ -58019,14 +58083,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 50538,
-      "num": 162958,
-      "word": "毛孩子也是好起来了穿上三叶草了",
-      "onboard_time": 1747571482,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 50532,
       "num": 1073663,
       "word": "送给妈妈的暖心漫画",
@@ -59177,6 +59233,14 @@
       "onboard_time": 1746264080,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 44374,
+      "num": 210245,
+      "word": "一代人有一代人的茅台",
+      "onboard_time": 1747571363,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44327,
@@ -60795,14 +60859,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 36921,
-      "num": 210245,
-      "word": "一代人有一代人的茅台",
-      "onboard_time": 1747571363,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36915,
       "num": 235250,
       "word": "如何用肉眼判断蓝莓的好坏",
@@ -61337,6 +61393,14 @@
       "onboard_time": 1747481962,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34275,
+      "num": 217368,
+      "word": "存款特种兵逐渐淡出江湖",
+      "onboard_time": 1747571363,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34239,
@@ -61977,14 +62041,6 @@
       "onboard_time": 1746429681,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31564,
-      "num": 217368,
-      "word": "存款特种兵逐渐淡出江湖",
-      "onboard_time": 1747571363,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31497,
@@ -63091,6 +63147,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 26819,
+      "num": 195752,
+      "word": "魏劭为什么会对小乔动心",
+      "onboard_time": 1747572443,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26750,
       "num": 35779,
       "word": "中美声明点燃全球乐观情绪",
@@ -63833,6 +63897,14 @@
       "onboard_time": 1746815176,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24011,
+      "num": 204951,
+      "word": "荣耀GTPro硬控ACL电竞赛场",
+      "onboard_time": 1747572322,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 24003,
@@ -67315,14 +67387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12089,
-      "num": 138014,
-      "word": "荣耀GTPro硬控ACL电竞赛场",
-      "onboard_time": 1747572322,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 12088,
       "num": 17654,
       "word": "多方回应饮品店取名警茶引争议",
@@ -68257,6 +68321,14 @@
       "onboard_time": 1747316364,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6945,
+      "num": 636903,
+      "word": "天问二号一次发射实施任务可不少",
+      "onboard_time": 1747573162,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6935,
