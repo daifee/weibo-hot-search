@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747564946225,
+  "endTime": 1747567199548,
   "band_list": [
     {
       "raw_hot": 2212377,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1171273,
-      "num": 448687,
+      "num": 469860,
       "word": "艾威妻子Lisa去世",
       "onboard_time": 1747556541,
       "rank": 12,
@@ -89,6 +89,14 @@
       "onboard_time": 1747533630,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1073252,
+      "num": 1171720,
+      "word": "黄子韬说老婆是最有底气的试验品",
+      "onboard_time": 1747563323,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1068647,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 908239,
+      "num": 908239,
+      "word": "匿名校友向复旦大学捐赠1亿元",
+      "onboard_time": 1747563861,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 840727,
       "num": 704153,
       "word": "李晟生完孩子曾整晚哭",
@@ -163,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 832606,
-      "num": 184285,
-      "word": "黄子韬说老婆是最有底气的试验品",
-      "onboard_time": 1747563323,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 803146,
-      "num": 185088,
+      "num": 199184,
       "word": "稻城亚丁景区一女游客因高反去世",
       "onboard_time": 1747560561,
       "rank": 17,
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 802609,
-      "num": 356463,
+      "num": 421480,
       "word": "杨紫 时尚芭莎",
       "onboard_time": 1747560861,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 788933,
+      "num": 788933,
+      "word": "王楚钦说八年和八天的不一样",
+      "onboard_time": 1747563025,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 786116,
@@ -299,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598407,
+      "num": 598407,
+      "word": "藏海传",
+      "onboard_time": 1747485623,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597828,
       "num": 210643,
       "word": "女子先兆流产请假被开除获赔7.2万多",
@@ -315,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 527530,
-      "num": 527530,
-      "word": "王楚钦说八年和八天的不一样",
-      "onboard_time": 1747563025,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 500948,
       "num": 500948,
       "word": "今年的女装 丑",
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 500399,
+      "num": 500399,
+      "word": "多方回应成都巨型3D蛇太逼真引争议",
+      "onboard_time": 1747563622,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464629,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410929,
+      "num": 199097,
+      "word": "宋威龙寸头",
+      "onboard_time": 1747562843,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401621,
       "num": 401621,
       "word": "藏海传开播",
@@ -385,6 +417,14 @@
       "onboard_time": 1747538970,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390802,
+      "num": 219081,
+      "word": "钟汉良陈妍希藏海传双双哭碎",
+      "onboard_time": 1747561941,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 385479,
@@ -465,14 +505,6 @@
       "onboard_time": 1747547782,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337130,
-      "num": 219081,
-      "word": "钟汉良陈妍希藏海传双双哭碎",
-      "onboard_time": 1747561941,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 337118,
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299247,
+      "num": 299247,
+      "word": "C罗将离开利雅得胜利",
+      "onboard_time": 1747565601,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296580,
       "num": 296580,
       "word": "惠英红自曝被换角",
@@ -585,6 +625,14 @@
       "onboard_time": 1747560861,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292390,
+      "num": 198750,
+      "word": "印度卫星发射失败主持人快哭了",
+      "onboard_time": 1747562721,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 291010,
@@ -657,6 +705,14 @@
       "onboard_time": 1747525039,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267769,
+      "num": 198511,
+      "word": "叶舒华古装",
+      "onboard_time": 1747566622,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266804,
@@ -795,20 +851,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213675,
+      "num": 198079,
+      "word": "睡前4分钟懒人躺着瘦全身",
+      "onboard_time": 1747563205,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "哪吒之魔童闹海票房破154亿",
       "onboard_time": 1747484904,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212585,
-      "num": 183445,
-      "word": "宋威龙寸头",
-      "onboard_time": 1747562843,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 211475,
@@ -963,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193124,
-      "num": 193124,
-      "word": "匿名校友向复旦大学捐赠1亿元",
-      "onboard_time": 1747563861,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192389,
       "num": 319439,
       "word": "王曼昱4比1威尔戈斯",
@@ -1099,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181895,
+      "num": 181895,
+      "word": "张本智和vs林钟勋",
+      "onboard_time": 1747564701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181120,
       "num": 181120,
       "word": "时代少年团cos小动物路透",
@@ -1163,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169172,
+      "num": 169172,
+      "word": "虞书欣把妈妈们当作同龄人看待",
+      "onboard_time": 1747566622,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169160,
       "num": 169160,
       "word": "两种性格的人容易抑郁",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1747492167,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166399,
+      "num": 166399,
+      "word": "肖战拍藏海传请了台词老师",
+      "onboard_time": 1747565900,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 166318,
@@ -1249,14 +1321,6 @@
       "onboard_time": 1747545989,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159609,
-      "num": 159609,
-      "word": "多方回应成都巨型3D蛇太逼真引争议",
-      "onboard_time": 1747563622,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158823,
@@ -1459,12 +1523,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 140809,
-      "num": 144384,
-      "word": "印度卫星发射失败主持人快哭了",
-      "onboard_time": 1747562721,
+      "raw_hot": 142208,
+      "num": 142208,
+      "word": "莎头组合说很久没配依然默契",
+      "onboard_time": 1747566501,
       "rank": 29,
-      "category": "国际时政,民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 140748,
@@ -1505,6 +1569,14 @@
       "onboard_time": 1747526478,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137523,
+      "num": 137523,
+      "word": "撕拉片 考验颜值",
+      "onboard_time": 1747565181,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 137344,
@@ -1555,12 +1627,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 135633,
-      "num": 135633,
-      "word": "张本智和vs林钟勋",
-      "onboard_time": 1747564701,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 135787,
+      "num": 135787,
+      "word": "凤冠冰箱贴",
+      "onboard_time": 1747563741,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 135485,
@@ -1609,6 +1681,22 @@
       "onboard_time": 1747486524,
       "rank": 31,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 130328,
+      "num": 130328,
+      "word": "仙逆89集",
+      "onboard_time": 1747565661,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 130298,
+      "num": 130298,
+      "word": "确诊为汪苏泷跑步粉",
+      "onboard_time": 1747566022,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 130192,
@@ -1675,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127639,
-      "num": 127639,
-      "word": "睡前4分钟懒人躺着瘦全身",
-      "onboard_time": 1747563205,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 127599,
       "num": 127599,
       "word": "王心凌ALin这朋友是真能处",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1747557802,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123970,
+      "num": 123970,
+      "word": "GEN对战T1",
+      "onboard_time": 1747566862,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 123840,
@@ -1883,6 +1971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115663,
+      "num": 169254,
+      "word": "2025PEL春决冠军之夜",
+      "onboard_time": 1747566862,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 115202,
+      "num": 115202,
+      "word": "孙颖莎笑称多活一天是一天",
+      "onboard_time": 1747564580,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114993,
       "num": 185336,
       "word": "不要小看印度的理由",
@@ -1907,6 +2011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113043,
+      "num": 113043,
+      "word": "藏海从小就是underground",
+      "onboard_time": 1747564999,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112856,
       "num": 112856,
       "word": "景区回应90后女游客因高反离世",
@@ -1929,6 +2041,14 @@
       "onboard_time": 1747531350,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110009,
+      "num": 110009,
+      "word": "卓沅教十个勤天说泥嚎",
+      "onboard_time": 1747566741,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109984,
@@ -2012,7 +2132,7 @@
     },
     {
       "raw_hot": 104965,
-      "num": 104965,
+      "num": 130391,
       "word": "江苏疾控声明下设部门无病毒研究所",
       "onboard_time": 1747563981,
       "rank": 37,
@@ -2025,14 +2145,6 @@
       "onboard_time": 1747494207,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 103408,
-      "num": 103408,
-      "word": "孙颖莎笑称多活一天是一天",
-      "onboard_time": 1747564580,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 102751,
@@ -2057,6 +2169,14 @@
       "onboard_time": 1747544670,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101881,
+      "num": 101881,
+      "word": "国产大飞机C919落地深圳",
+      "onboard_time": 1747565661,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101673,
@@ -2115,12 +2235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98209,
-      "num": 98209,
-      "word": "藏海传",
-      "onboard_time": 1747485623,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 98699,
+      "num": 98699,
+      "word": "王安宇金发黑衬衫",
+      "onboard_time": 1747566802,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 96970,
@@ -2137,14 +2257,6 @@
       "onboard_time": 1747563261,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95015,
-      "num": 95015,
-      "word": "凤冠冰箱贴",
-      "onboard_time": 1747563741,
-      "rank": 49,
-      "category": "休闲"
     },
     {
       "raw_hot": 94489,
@@ -2227,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87438,
+      "num": 198796,
+      "word": "千万诈骗犯大部分钱转给女友",
+      "onboard_time": 1747566261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86962,
       "num": 86962,
       "word": "张远巡演官宣上天赐",
@@ -2268,7 +2388,7 @@
     },
     {
       "raw_hot": 84344,
-      "num": 158992,
+      "num": 198485,
       "word": "在蛋蛋直播间看见俄罗斯好物",
       "onboard_time": 1747564580,
       "rank": 18,
@@ -2380,7 +2500,7 @@
     },
     {
       "raw_hot": 74138,
-      "num": 409557,
+      "num": 833927,
       "word": "博物馆的满分文案",
       "onboard_time": 1747558462,
       "rank": 2,
@@ -2571,6 +2691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46937,
+      "num": 138034,
+      "word": "工作人员轻轻打开国宝箱",
+      "onboard_time": 1747566922,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42105,
       "num": 207728,
       "word": "陈幸同钱天一3比0丰塞卡克雷斯波",
@@ -2633,6 +2761,14 @@
       "onboard_time": 1747561402,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36350,
+      "num": 131052,
+      "word": "藿香正气液驱赶飞虫的原理是什么",
+      "onboard_time": 1747566982,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 35073,
@@ -2896,6 +3032,14 @@
       "word": "油价或重回6元时代哪些行业会受益",
       "onboard_time": 1747538249,
       "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16153,
+      "num": 198350,
+      "word": "如何在博物馆拍出穿越感大片",
+      "onboard_time": 1747566142,
+      "rank": 19,
       "category": "议题讨论"
     },
     {

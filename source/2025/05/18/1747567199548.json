@@ -1,0 +1,410 @@
+{
+  "runTime": 1747567199548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073252,
+        "num": 1171720,
+        "word": "黄子韬说老婆是最有底气的试验品",
+        "onboard_time": 1747563323,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908239,
+        "num": 908239,
+        "word": "匿名校友向复旦大学捐赠1亿元",
+        "onboard_time": 1747563861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57381,
+        "num": 833927,
+        "word": "博物馆的满分文案",
+        "onboard_time": 1747558462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788933,
+        "num": 788933,
+        "word": "王楚钦说八年和八天的不一样",
+        "onboard_time": 1747563025,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598407,
+        "num": 598407,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500399,
+        "num": 500399,
+        "word": "多方回应成都巨型3D蛇太逼真引争议",
+        "onboard_time": 1747563622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469860,
+        "num": 469860,
+        "word": "艾威妻子Lisa去世",
+        "onboard_time": 1747556541,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566410,
+        "num": 421480,
+        "word": "杨紫 时尚芭莎",
+        "onboard_time": 1747560861,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299247,
+        "num": 299247,
+        "word": "C罗将离开利雅得胜利",
+        "onboard_time": 1747565601,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199196,
+        "num": 199196,
+        "word": "男生病重全班赶来合拍毕业照",
+        "onboard_time": 1747551801,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 481960,
+        "num": 199184,
+        "word": "稻城亚丁景区一女游客因高反去世",
+        "onboard_time": 1747560561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410929,
+        "num": 199097,
+        "word": "宋威龙寸头",
+        "onboard_time": 1747562843,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390802,
+        "num": 198979,
+        "word": "钟汉良陈妍希藏海传双双哭碎",
+        "onboard_time": 1747561941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384228,
+        "num": 198907,
+        "word": "肖战工作室 陪聊",
+        "onboard_time": 1747556780,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87438,
+        "num": 198796,
+        "word": "千万诈骗犯大部分钱转给女友",
+        "onboard_time": 1747566261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292390,
+        "num": 198750,
+        "word": "印度卫星发射失败主持人快哭了",
+        "onboard_time": 1747562721,
+        "rank": 15,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 269235,
+        "num": 198659,
+        "word": "陈都灵探班孟子义合照",
+        "onboard_time": 1747560861,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267769,
+        "num": 198511,
+        "word": "叶舒华古装",
+        "onboard_time": 1747566622,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40582,
+        "num": 198485,
+        "word": "在蛋蛋直播间看见俄罗斯好物",
+        "onboard_time": 1747564580,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16153,
+        "num": 198350,
+        "word": "如何在博物馆拍出穿越感大片",
+        "onboard_time": 1747566142,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 237430,
+        "num": 198270,
+        "word": "女子先兆流产请假被开除获赔7.2万多",
+        "onboard_time": 1747556961,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237279,
+        "num": 198226,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213675,
+        "num": 198079,
+        "word": "睡前4分钟懒人躺着瘦全身",
+        "onboard_time": 1747563205,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198071,
+        "num": 198071,
+        "word": "小女孩往陌生人饮料里加洗手液",
+        "onboard_time": 1747556060,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181895,
+        "num": 181895,
+        "word": "张本智和vs林钟勋",
+        "onboard_time": 1747564701,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169416,
+        "num": 169416,
+        "word": "开榴莲",
+        "onboard_time": 1747558760,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115663,
+        "num": 169254,
+        "word": "2025PEL春决冠军之夜",
+        "onboard_time": 1747566862,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169172,
+        "num": 169172,
+        "word": "虞书欣把妈妈们当作同龄人看待",
+        "onboard_time": 1747566622,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166399,
+        "num": 166399,
+        "word": "肖战拍藏海传请了台词老师",
+        "onboard_time": 1747565900,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142208,
+        "num": 142208,
+        "word": "莎头组合说很久没配依然默契",
+        "onboard_time": 1747566501,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158984,
+        "num": 140213,
+        "word": "财不外露",
+        "onboard_time": 1747549639,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46937,
+        "num": 138034,
+        "word": "工作人员轻轻打开国宝箱",
+        "onboard_time": 1747566922,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137523,
+        "num": 137523,
+        "word": "撕拉片 考验颜值",
+        "onboard_time": 1747565181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135787,
+        "num": 135787,
+        "word": "凤冠冰箱贴",
+        "onboard_time": 1747563741,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 36350,
+        "num": 131052,
+        "word": "藿香正气液驱赶飞虫的原理是什么",
+        "onboard_time": 1747566982,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1621826,
+        "num": 130900,
+        "word": "黄子韬卫生巾售价",
+        "onboard_time": 1747559061,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70127,
+        "num": 130391,
+        "word": "江苏疾控声明下设部门无病毒研究所",
+        "onboard_time": 1747563981,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 130328,
+        "num": 130328,
+        "word": "仙逆89集",
+        "onboard_time": 1747565661,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130298,
+        "num": 130298,
+        "word": "确诊为汪苏泷跑步粉",
+        "onboard_time": 1747566022,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 123970,
+        "word": "GEN对战T1",
+        "onboard_time": 1747566862,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115202,
+        "num": 115202,
+        "word": "孙颖莎笑称多活一天是一天",
+        "onboard_time": 1747564580,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113043,
+        "num": 113043,
+        "word": "藏海从小就是underground",
+        "onboard_time": 1747564999,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113022,
+        "num": 113022,
+        "word": "艾威Lisa 再见爱人",
+        "onboard_time": 1747560502,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110009,
+        "num": 110009,
+        "word": "卓沅教十个勤天说泥嚎",
+        "onboard_time": 1747566741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109942,
+        "num": 109942,
+        "word": "姜尘谈黄杨钿甜",
+        "onboard_time": 1747545150,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108877,
+        "num": 108877,
+        "word": "徐梦洁以前是邓超伴舞",
+        "onboard_time": 1747552881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 106831,
+        "word": "王鹤棣深圳",
+        "onboard_time": 1747561461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101881,
+        "num": 101881,
+        "word": "国产大飞机C919落地深圳",
+        "onboard_time": 1747565661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98699,
+        "num": 98699,
+        "word": "王安宇金发黑衬衫",
+        "onboard_time": 1747566802,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92609,
+        "num": 92609,
+        "word": "陈昊宇给陈丽君越剧送花篮",
+        "onboard_time": 1747561161,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#让收藏在博物馆里的文物活起来#"
+    }
+  }
+}
