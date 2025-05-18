@@ -1,0 +1,410 @@
+{
+  "runTime": 1747575713231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697171,
+        "num": 1697171,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 995709,
+        "num": 995709,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50340,
+        "num": 717895,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1333012,
+        "num": 710736,
+        "word": "肖战回复陈妍希",
+        "onboard_time": 1747569201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640977,
+        "num": 640977,
+        "word": "潘展乐汪顺孙杨携手晋级",
+        "onboard_time": 1747573341,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541972,
+        "num": 541972,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022114,
+        "num": 519069,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461231,
+        "num": 461231,
+        "word": "TTG夺冠",
+        "onboard_time": 1747572262,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 944426,
+        "num": 380884,
+        "word": "肖战演技",
+        "onboard_time": 1747573582,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256949,
+        "num": 256949,
+        "word": "王楚钦说八年和八天的不一样",
+        "onboard_time": 1747563025,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740155,
+        "num": 249966,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718185,
+        "num": 239995,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 625918,
+        "num": 239379,
+        "word": "金子涵 好朋友",
+        "onboard_time": 1747573404,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552526,
+        "num": 231003,
+        "word": "藏海传观后感",
+        "onboard_time": 1747573222,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47464,
+        "num": 222466,
+        "word": "沃尔玛准备以关税为由涨价",
+        "onboard_time": 1747574961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483744,
+        "num": 209689,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206087,
+        "num": 206087,
+        "word": "AG超玩会",
+        "onboard_time": 1747574664,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124197,
+        "num": 205784,
+        "word": "刘晓庆不喜欢被叫庆奶",
+        "onboard_time": 1747575024,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38720,
+        "num": 204485,
+        "word": "荣耀GTPro硬控ACL电竞赛场",
+        "onboard_time": 1747572322,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14195,
+        "num": 203434,
+        "word": "C919落地深圳如何助力区域发展",
+        "onboard_time": 1747575083,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509963,
+        "num": 202757,
+        "word": "黄子韬说老婆是最有底气的试验品",
+        "onboard_time": 1747563323,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202398,
+        "num": 202398,
+        "word": "匿名校友向复旦大学捐赠1亿元",
+        "onboard_time": 1747563861,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470966,
+        "num": 201524,
+        "word": "藏海传阴兵吓我一跳",
+        "onboard_time": 1747573341,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359927,
+        "num": 200253,
+        "word": "孙千好辣",
+        "onboard_time": 1747574302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14369,
+        "num": 200146,
+        "word": "美国超40万用户因风暴停电",
+        "onboard_time": 1747575444,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342615,
+        "num": 198234,
+        "word": "折腰15集",
+        "onboard_time": 1747568300,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332808,
+        "num": 197370,
+        "word": "藏海传热度",
+        "onboard_time": 1747573341,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292547,
+        "num": 196083,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218029,
+        "num": 194595,
+        "word": "面具人是谁",
+        "onboard_time": 1747574961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207299,
+        "num": 194377,
+        "word": "萨顶顶柳岩陈昊宇看陈丽君新剧",
+        "onboard_time": 1747574543,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42300,
+        "num": 193324,
+        "word": "毛孩子也是好起来了穿上三叶草了",
+        "onboard_time": 1747571482,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192297,
+        "num": 192297,
+        "word": "昀牵孟绕",
+        "onboard_time": 1747568842,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191172,
+        "num": 191172,
+        "word": "英语进步最快的方式",
+        "onboard_time": 1747574483,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186834,
+        "num": 186834,
+        "word": "颖儿点赞了张新成付辛博剧照",
+        "onboard_time": 1747575623,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181532,
+        "num": 181532,
+        "word": "赵美延曾被宋雨琦Minnie欺生",
+        "onboard_time": 1747572024,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166485,
+        "num": 166485,
+        "word": "姚晨成功降脂",
+        "onboard_time": 1747570281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163409,
+        "num": 163409,
+        "word": "晚饭后别吃这6种高糖水果",
+        "onboard_time": 1747569562,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160411,
+        "num": 160411,
+        "word": "印度卫星发射失败主持人快哭了",
+        "onboard_time": 1747562721,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 156053,
+        "num": 156053,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58447,
+        "num": 154120,
+        "word": "教资面试神级错误答案",
+        "onboard_time": 1747573705,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153618,
+        "num": 153618,
+        "word": "藏海传 盗墓笔记",
+        "onboard_time": 1747569621,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148840,
+        "num": 148840,
+        "word": "王俊凯直播",
+        "onboard_time": 1747572923,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "叶舒华古装",
+        "onboard_time": 1747566622,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47342,
+        "num": 145440,
+        "word": "空调房久坐吃什么助于减少体内湿气",
+        "onboard_time": 1747574243,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145042,
+        "num": 145042,
+        "word": "谁懂有效化妆的含金量",
+        "onboard_time": 1747575564,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141924,
+        "num": 141924,
+        "word": "黄子韬卫生巾",
+        "onboard_time": 1747574961,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135366,
+        "num": 135366,
+        "word": "漫展上的横幅已经进化成这样了吗",
+        "onboard_time": 1747575564,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135196,
+        "num": 135196,
+        "word": "陈星旭终于正视自己的颜值了",
+        "onboard_time": 1747575503,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131662,
+        "num": 131662,
+        "word": "月奴好可怜",
+        "onboard_time": 1747575383,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 128671,
+        "word": "QQ音乐榜单截止后更改名次不退款",
+        "onboard_time": 1747568540,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}

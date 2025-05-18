@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747575051439,
+  "endTime": 1747575713231,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -283,6 +283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 740155,
+      "num": 274476,
+      "word": "24岁女生突发脑出血后不会说英语",
+      "onboard_time": 1747569562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 723517,
       "num": 723517,
       "word": "陈赫向孙俪请教",
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625918,
+      "num": 245023,
+      "word": "金子涵 好朋友",
+      "onboard_time": 1747573404,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622583,
       "num": 622583,
       "word": "TTG夺冠",
@@ -403,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 579949,
-      "num": 245023,
-      "word": "金子涵 好朋友",
-      "onboard_time": 1747573404,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569462,
       "num": 569462,
       "word": "多方回应成都巨型3D蛇太逼真引争议",
@@ -419,11 +427,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 566483,
-      "num": 274476,
-      "word": "24岁女生突发脑出血后不会说英语",
-      "onboard_time": 1747569562,
-      "rank": 11,
+      "raw_hot": 552526,
+      "num": 233401,
+      "word": "藏海传观后感",
+      "onboard_time": 1747573222,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 541972,
+      "num": 541972,
+      "word": "母子错过航班大闹机场称耽误次日考公",
+      "onboard_time": 1747568363,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -433,14 +449,6 @@
       "onboard_time": 1747570463,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 531183,
-      "num": 531183,
-      "word": "母子错过航班大闹机场称耽误次日考公",
-      "onboard_time": 1747568363,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 500948,
@@ -539,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390620,
-      "num": 233401,
-      "word": "藏海传观后感",
-      "onboard_time": 1747573222,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385479,
       "num": 294434,
       "word": "李溪芮 内娱腿精",
@@ -593,6 +593,14 @@
       "onboard_time": 1747492646,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359927,
+      "num": 200253,
+      "word": "孙千好辣",
+      "onboard_time": 1747574302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 357877,
@@ -819,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276462,
-      "num": 196041,
-      "word": "孙千好辣",
-      "onboard_time": 1747574302,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271326,
       "num": 271326,
       "word": "币圈富豪连遭绑架有超10万人爆仓",
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218029,
+      "num": 194595,
+      "word": "面具人是谁",
+      "onboard_time": 1747574961,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217623,
       "num": 217623,
       "word": "巴基斯坦F16化身气氛组",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1747502658,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206087,
+      "num": 206087,
+      "word": "AG超玩会",
+      "onboard_time": 1747574664,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 206012,
@@ -1203,14 +1219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200346,
-      "num": 200346,
-      "word": "AG超玩会",
-      "onboard_time": 1747574664,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
@@ -1267,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192570,
-      "num": 192570,
-      "word": "面具人是谁",
-      "onboard_time": 1747574961,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192389,
       "num": 319439,
       "word": "王曼昱4比1威尔戈斯",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1747537709,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191172,
+      "num": 191172,
+      "word": "英语进步最快的方式",
+      "onboard_time": 1747574483,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 190807,
@@ -1331,20 +1339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186834,
+      "num": 186834,
+      "word": "颖儿点赞了张新成付辛博剧照",
+      "onboard_time": 1747575623,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186750,
       "num": 186750,
       "word": "王一博出镜Discovery特别节目",
       "onboard_time": 1747567221,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186571,
-      "num": 186571,
-      "word": "英语进步最快的方式",
-      "onboard_time": 1747574483,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 185204,
@@ -1803,6 +1811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145042,
+      "num": 145042,
+      "word": "谁懂有效化妆的含金量",
+      "onboard_time": 1747575564,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144835,
       "num": 144835,
       "word": "孙杨回应不敌潘展乐",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1747566501,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141924,
+      "num": 141924,
+      "word": "黄子韬卫生巾",
+      "onboard_time": 1747574961,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 140748,
@@ -1963,12 +1987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135366,
+      "num": 135366,
+      "word": "漫展上的横幅已经进化成这样了吗",
+      "onboard_time": 1747575564,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135299,
       "num": 151501,
       "word": "周也一圈又一圈的珍珠项链",
       "onboard_time": 1747528348,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135196,
+      "num": 135196,
+      "word": "陈星旭终于正视自己的颜值了",
+      "onboard_time": 1747575503,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 134262,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1747486524,
       "rank": 31,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "月奴好可怜",
+      "onboard_time": 1747575383,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130328,
@@ -2083,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128080,
-      "num": 128080,
-      "word": "黄子韬卫生巾",
-      "onboard_time": 1747574961,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127599,
       "num": 127599,
       "word": "王心凌ALin这朋友是真能处",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1747557802,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124197,
+      "num": 205784,
+      "word": "刘晓庆不喜欢被叫庆奶",
+      "onboard_time": 1747575024,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 123970,
@@ -2851,14 +2899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80603,
-      "num": 163021,
-      "word": "刘晓庆不喜欢被叫庆奶",
-      "onboard_time": 1747575024,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80506,
       "num": 194157,
       "word": "中国最早的体育奖杯",
@@ -3012,7 +3052,7 @@
     },
     {
       "raw_hot": 64654,
-      "num": 192665,
+      "num": 193324,
       "word": "毛孩子也是好起来了穿上三叶草了",
       "onboard_time": 1747571482,
       "rank": 31,
@@ -3057,6 +3097,14 @@
       "onboard_time": 1747500620,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58447,
+      "num": 161003,
+      "word": "教资面试神级错误答案",
+      "onboard_time": 1747573705,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 57489,
@@ -3115,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50340,
+      "num": 736127,
+      "word": "天问二号一次发射实施任务可不少",
+      "onboard_time": 1747573162,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50104,
       "num": 52526,
       "word": "门店回应员工脱袜子抠脚",
@@ -3139,14 +3195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49438,
-      "num": 736127,
-      "word": "天问二号一次发射实施任务可不少",
-      "onboard_time": 1747573162,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49136,
       "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
@@ -3169,6 +3217,14 @@
       "onboard_time": 1747515733,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47464,
+      "num": 222466,
+      "word": "沃尔玛准备以关税为由涨价",
+      "onboard_time": 1747574961,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46937,
@@ -3227,14 +3283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 39287,
-      "num": 193775,
-      "word": "沃尔玛准备以关税为由涨价",
-      "onboard_time": 1747574961,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39091,
       "num": 856795,
       "word": "走进这些博物馆感触民族脊梁",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1747567880,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38720,
+      "num": 204951,
+      "word": "荣耀GTPro硬控ACL电竞赛场",
+      "onboard_time": 1747572322,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 37832,
@@ -3345,22 +3401,6 @@
       "onboard_time": 1747523957,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31756,
-      "num": 161003,
-      "word": "教资面试神级错误答案",
-      "onboard_time": 1747573705,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 31611,
-      "num": 204951,
-      "word": "荣耀GTPro硬控ACL电竞赛场",
-      "onboard_time": 1747572322,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 30987,
@@ -3643,12 +3683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14369,
+      "num": 200146,
+      "word": "美国超40万用户因风暴停电",
+      "onboard_time": 1747575444,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14250,
       "num": 209890,
       "word": "开榴莲有哪些实用技巧",
       "onboard_time": 1747571482,
       "rank": 19,
       "category": "其它"
+    },
+    {
+      "raw_hot": 14195,
+      "num": 203434,
+      "word": "C919落地深圳如何助力区域发展",
+      "onboard_time": 1747575083,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13978,
