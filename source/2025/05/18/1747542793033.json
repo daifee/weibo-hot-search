@@ -1,0 +1,410 @@
+{
+  "runTime": 1747542793033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941932,
+        "num": 1150709,
+        "word": "11.3万工资给3千老板被法官怒斥",
+        "onboard_time": 1747541131,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785150,
+        "num": 785150,
+        "word": "载有200多人帆船撞上纽约大桥",
+        "onboard_time": 1747535549,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37924,
+        "num": 565248,
+        "word": "一眼千年入镜来",
+        "onboard_time": 1747541610,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 375036,
+        "num": 375036,
+        "word": "林更新签约杨幂新公司",
+        "onboard_time": 1747524978,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373433,
+        "num": 373433,
+        "word": "拒绝接待中国人的日本餐厅已歇业",
+        "onboard_time": 1747541670,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354822,
+        "num": 354822,
+        "word": "孟子义说李昀锐身体真好",
+        "onboard_time": 1747538970,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337920,
+        "num": 337920,
+        "word": "官方通报老师殴打威胁小学生处理结果",
+        "onboard_time": 1747539990,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 256717,
+        "num": 256717,
+        "word": "潘展乐汪顺孙杨晋级200自半决赛",
+        "onboard_time": 1747542091,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245659,
+        "num": 245659,
+        "word": "高位截瘫男孩自驾看雪山",
+        "onboard_time": 1747539510,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241602,
+        "num": 241602,
+        "word": "马克龙被埃尔多安拽住手指",
+        "onboard_time": 1747537648,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1607959,
+        "num": 241390,
+        "word": "原来卧室是可以有两层有楼梯的",
+        "onboard_time": 1747539209,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780577,
+        "num": 239614,
+        "word": "钿到底怎么念",
+        "onboard_time": 1747540410,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491700,
+        "num": 237211,
+        "word": "螺蛳粉店名撞音当地粗话遭举报",
+        "onboard_time": 1747533630,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335402,
+        "num": 236387,
+        "word": "艾米拍照时把项链摘了",
+        "onboard_time": 1747523957,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80702,
+        "num": 234416,
+        "word": "博物馆里为啥好多仿制品",
+        "onboard_time": 1747541071,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 959894,
+        "num": 232650,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54904,
+        "num": 231091,
+        "word": "有被美的装到",
+        "onboard_time": 1747539450,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168370,
+        "num": 229010,
+        "word": "张极参加自行车比赛",
+        "onboard_time": 1747540592,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 11437,
+        "num": 227446,
+        "word": "子弹库帛书回归承载着哪些古老秘密",
+        "onboard_time": 1747541790,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 227051,
+        "num": 227051,
+        "word": "你好星期六收视率",
+        "onboard_time": 1747495825,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224840,
+        "num": 224840,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209219,
+        "num": 209219,
+        "word": "新疆多地上空出现不明飞行物",
+        "onboard_time": 1747493787,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40371,
+        "num": 198850,
+        "word": "当老外吃到中国科技细糠",
+        "onboard_time": 1747537648,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197506,
+        "num": 197506,
+        "word": "折腰",
+        "onboard_time": 1747539329,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12207,
+        "num": 187432,
+        "word": "负债百万女子回应靠扛楼还债",
+        "onboard_time": 1747542509,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206208,
+        "num": 186729,
+        "word": "魏大勋李诚儒对手戏",
+        "onboard_time": 1747541971,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185286,
+        "num": 185286,
+        "word": "离婚已3年男子喊话前妻求放过",
+        "onboard_time": 1747501519,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171147,
+        "num": 171147,
+        "word": "范思哲 丁禹兮",
+        "onboard_time": 1747539750,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150776,
+        "num": 150776,
+        "word": "藏海到底有几个仇人",
+        "onboard_time": 1747542091,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146730,
+        "num": 146730,
+        "word": "周杰伦林俊杰王俊凯同框",
+        "onboard_time": 1747535309,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134262,
+        "num": 146726,
+        "word": "央视重磅披露歼10C击落战绩",
+        "onboard_time": 1747541670,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415318,
+        "num": 146724,
+        "word": "韩司机好奇为何中国人说韩国小",
+        "onboard_time": 1747541610,
+        "rank": 31,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 169690,
+        "num": 146718,
+        "word": "汪顺200自小组第4",
+        "onboard_time": 1747542391,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155633,
+        "num": 146713,
+        "word": "王楚钦对王皓说一上来就判我",
+        "onboard_time": 1747534648,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "湿气越吃越少的10种食物",
+        "onboard_time": 1747540289,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 141276,
+        "num": 141276,
+        "word": "河南事业编考试",
+        "onboard_time": 1747539690,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96970,
+        "num": 141062,
+        "word": "下周重要星象",
+        "onboard_time": 1747541729,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101082,
+        "num": 140805,
+        "word": "戛纳红毯出圈造型",
+        "onboard_time": 1747532249,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10104,
+        "num": 140459,
+        "word": "美国多地强风暴天气是怎么形成的",
+        "onboard_time": 1747542690,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 140039,
+        "word": "100个初级会计考试知识点",
+        "onboard_time": 1747542690,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 15588,
+        "num": 139736,
+        "word": "胡锡进谈俄乌伊斯坦布尔谈判",
+        "onboard_time": 1747540889,
+        "rank": 40,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 139435,
+        "num": 139435,
+        "word": "孙杨200自小组第一",
+        "onboard_time": 1747542330,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 138849,
+        "word": "45%成年居民存在蛋白质摄入不足风险",
+        "onboard_time": 1747535609,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133277,
+        "num": 133277,
+        "word": "建议大家把睡觉当成一天的开始",
+        "onboard_time": 1747530628,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132741,
+        "num": 132741,
+        "word": "刘亦菲ig更新",
+        "onboard_time": 1747535009,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119269,
+        "num": 119269,
+        "word": "西红柿在日本叫啥",
+        "onboard_time": 1747540889,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109963,
+        "num": 117732,
+        "word": "悍妇女妲己完胜惧内男君侯",
+        "onboard_time": 1747540652,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "虞书欣 maia",
+        "onboard_time": 1747534829,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116168,
+        "num": 116168,
+        "word": "藏海传两集连播",
+        "onboard_time": 1747540952,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112556,
+        "num": 112556,
+        "word": "是女儿是妈妈2飞行嘉宾阵容",
+        "onboard_time": 1747539570,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述文物里的文明交融#"
+    }
+  }
+}
