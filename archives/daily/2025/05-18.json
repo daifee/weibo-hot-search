@@ -1,7 +1,15 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747568217238,
+  "endTime": 1747572342691,
   "band_list": [
+    {
+      "raw_hot": 2702618,
+      "num": 2702618,
+      "word": "藏海传",
+      "onboard_time": 1747485623,
+      "rank": 38,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2212377,
       "num": 1729976,
@@ -33,6 +41,14 @@
       "onboard_time": 1747539209,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1621297,
+      "num": 639211,
+      "word": "肖战回复陈妍希",
+      "onboard_time": 1747569201,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1487041,
@@ -75,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1159845,
-      "num": 1185575,
-      "word": "藏海传",
-      "onboard_time": 1747485623,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1115625,
       "num": 1171720,
       "word": "黄子韬说老婆是最有底气的试验品",
@@ -113,6 +121,14 @@
       "onboard_time": 1747495825,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1056843,
+      "num": 1056843,
+      "word": "大家都不去ktv和spa了",
+      "onboard_time": 1747568121,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 1049170,
@@ -259,6 +275,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 702851,
+      "num": 328528,
+      "word": "珠宝高仿人员辟谣",
+      "onboard_time": 1747569562,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 702642,
       "num": 702642,
       "word": "男生病重全班赶来合拍毕业照",
@@ -281,6 +305,14 @@
       "onboard_time": 1747523957,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 670410,
+      "num": 309620,
+      "word": "藏海传收视率",
+      "onboard_time": 1747572262,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 658965,
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531183,
+      "num": 531183,
+      "word": "母子错过航班大闹机场称耽误次日考公",
+      "onboard_time": 1747568363,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500948,
       "num": 500948,
       "word": "今年的女装 丑",
@@ -411,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421676,
+      "num": 221091,
+      "word": "24岁女生突发脑出血后不会说英语",
+      "onboard_time": 1747569562,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419586,
+      "num": 218955,
+      "word": "歌手第二期歌单",
+      "onboard_time": 1747570463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415940,
       "num": 415940,
       "word": "贺峻霖全国1460名的游走原来长这样",
@@ -448,6 +504,14 @@
       "word": "李溪芮 内娱腿精",
       "onboard_time": 1747482502,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 381679,
+      "num": 215394,
+      "word": "折腰15集",
+      "onboard_time": 1747568300,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -603,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303848,
+      "num": 138012,
+      "word": "藏海传 盗墓笔记",
+      "onboard_time": 1747569621,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300320,
       "num": 300320,
       "word": "高位截瘫男孩自驾看雪山",
@@ -612,7 +684,7 @@
     },
     {
       "raw_hot": 299948,
-      "num": 203592,
+      "num": 206549,
       "word": "吃串串买单222根自己数仅119根",
       "onboard_time": 1747567581,
       "rank": 22,
@@ -747,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251138,
+      "num": 213422,
+      "word": "昀牵孟绕",
+      "onboard_time": 1747568842,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248883,
       "num": 248883,
       "word": "开榴莲",
@@ -771,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237186,
+      "num": 203936,
+      "word": "赵美延曾被宋雨琦Minnie欺生",
+      "onboard_time": 1747572024,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236327,
       "num": 236327,
       "word": "孙颖莎王楚钦赛中沟通",
@@ -793,6 +881,22 @@
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232419,
+      "num": 205061,
+      "word": "姚晨成功降脂",
+      "onboard_time": 1747570281,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232094,
+      "num": 212423,
+      "word": "QQ音乐榜单截止后更改名次不退款",
+      "onboard_time": 1747568540,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 224966,
@@ -971,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202876,
+      "num": 202876,
+      "word": "乐高 阿信",
+      "onboard_time": 1747571363,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202733,
       "num": 202733,
       "word": "王皓说樊振东8年世锦赛单打才登顶",
@@ -985,6 +1097,14 @@
       "onboard_time": 1747488383,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201864,
+      "num": 201864,
+      "word": "ACL",
+      "onboard_time": 1747506196,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 201400,
@@ -1009,6 +1129,14 @@
       "onboard_time": 1747485803,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197237,
+      "num": 197237,
+      "word": "新冠阳性率上升三类人要注意",
+      "onboard_time": 1747567640,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197061,
@@ -1131,6 +1259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184027,
+      "num": 184027,
+      "word": "TTG对战DRG",
+      "onboard_time": 1747563261,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183673,
       "num": 397864,
       "word": "这次是带着更多人的期待进入了考场",
@@ -1233,6 +1369,14 @@
       "onboard_time": 1747555700,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 169730,
+      "num": 169730,
+      "word": "张雨霏100蝶银牌",
+      "onboard_time": 1747571363,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 169690,
@@ -1371,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157572,
+      "num": 157572,
+      "word": "罗予彤 反正请我又不用花钱",
+      "onboard_time": 1747571542,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156419,
       "num": 187158,
       "word": "文韬是穿婚纱来嫁我了吧",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1747550900,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152153,
+      "num": 152153,
+      "word": "TTG夺冠",
+      "onboard_time": 1747572262,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 150776,
@@ -1505,6 +1665,14 @@
       "onboard_time": 1747548860,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145480,
+      "num": 145480,
+      "word": "晚饭后别吃这6种高糖水果",
+      "onboard_time": 1747569562,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145479,
@@ -1875,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122574,
+      "num": 122574,
+      "word": "奇洛李维斯回信",
+      "onboard_time": 1747571244,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 122071,
       "num": 122071,
       "word": "谁懂欧阳娣娣社牛的救赎感",
@@ -1889,6 +2065,14 @@
       "onboard_time": 1747549881,
       "rank": 36,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 121464,
+      "num": 147090,
+      "word": "王曼昱动作太有爱了",
+      "onboard_time": 1747571003,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 121081,
@@ -1921,6 +2105,14 @@
       "onboard_time": 1747546289,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120436,
+      "num": 120436,
+      "word": "蒋敦豪看到贡菜眼睛都亮了",
+      "onboard_time": 1747571842,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 120328,
@@ -2051,6 +2243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113185,
+      "num": 113185,
+      "word": "小乔吃醋",
+      "onboard_time": 1747570223,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113043,
       "num": 113043,
       "word": "藏海从小就是underground",
@@ -2067,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112798,
+      "num": 112798,
+      "word": "孟子义控诉李昀锐不理她",
+      "onboard_time": 1747569802,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112525,
       "num": 112525,
       "word": "520礼物",
@@ -2080,6 +2288,22 @@
       "word": "孙杨第一次打肌贴参赛",
       "onboard_time": 1747531350,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111571,
+      "num": 111571,
+      "word": "张本智和11比1林仲勋",
+      "onboard_time": 1747571962,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110546,
+      "num": 110546,
+      "word": "覃海洋100蛙冠军",
+      "onboard_time": 1747570643,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2179,14 +2403,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 104737,
-      "num": 104737,
-      "word": "大家都不去ktv和spa了",
-      "onboard_time": 1747568121,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
@@ -2236,7 +2452,7 @@
     },
     {
       "raw_hot": 101881,
-      "num": 101881,
+      "num": 146107,
       "word": "国产大飞机C919落地深圳",
       "onboard_time": 1747565661,
       "rank": 47,
@@ -2307,28 +2523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97464,
-      "num": 97464,
-      "word": "新冠阳性率上升三类人要注意",
-      "onboard_time": 1747567640,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 96970,
       "num": 141062,
       "word": "下周重要星象",
       "onboard_time": 1747541729,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96302,
-      "num": 96302,
-      "word": "TTG对战DRG",
-      "onboard_time": 1747563261,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 94489,
@@ -2497,6 +2697,14 @@
       "onboard_time": 1747541071,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80506,
+      "num": 138001,
+      "word": "中国最早的体育奖杯",
+      "onboard_time": 1747568363,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 80256,
@@ -2723,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50538,
+      "num": 162958,
+      "word": "毛孩子也是好起来了穿上三叶草了",
+      "onboard_time": 1747571482,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 50104,
       "num": 52526,
       "word": "门店回应员工脱袜子抠脚",
@@ -2851,6 +3067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36921,
+      "num": 210245,
+      "word": "一代人有一代人的茅台",
+      "onboard_time": 1747571363,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36679,
       "num": 158898,
       "word": "灵笼第二季有哪些看点",
@@ -2915,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31564,
+      "num": 217368,
+      "word": "存款特种兵逐渐淡出江湖",
+      "onboard_time": 1747571363,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30987,
       "num": 855778,
       "word": "6组数据看中国市场强大吸引力",
@@ -2969,14 +3201,6 @@
       "onboard_time": 1747557980,
       "rank": 35,
       "category": "海外新闻,民生新闻"
-    },
-    {
-      "raw_hot": 26495,
-      "num": 55554,
-      "word": "ACL",
-      "onboard_time": 1747506196,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 26277,
@@ -3073,6 +3297,14 @@
       "onboard_time": 1747567822,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19578,
+      "num": 208199,
+      "word": "周也戛纳红毯前不忘补妆",
+      "onboard_time": 1747568480,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 19326,
@@ -3187,6 +3419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14250,
+      "num": 209890,
+      "word": "开榴莲有哪些实用技巧",
+      "onboard_time": 1747571482,
+      "rank": 19,
+      "category": "其它"
+    },
+    {
       "raw_hot": 13978,
       "num": 192641,
       "word": "美国多地强风暴天气是怎么形成的",
@@ -3233,6 +3473,14 @@
       "onboard_time": 1747563444,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12089,
+      "num": 138014,
+      "word": "荣耀GTPro硬控ACL电竞赛场",
+      "onboard_time": 1747572322,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 12050,
@@ -3290,6 +3538,9 @@
     },
     {
       "word": "#让收藏在博物馆里的文物活起来#"
+    },
+    {
+      "word": "#习近平总书记和博物馆的故事#"
     }
   ]
 }
