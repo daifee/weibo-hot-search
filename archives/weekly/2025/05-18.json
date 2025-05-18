@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747585735831,
+  "endTime": 1747586644494,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 789667,
+      "num": 283886,
+      "word": "甘薇让大家别替赵丽颖操心",
+      "onboard_time": 1747584445,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 788933,
       "num": 788933,
       "word": "王楚钦说八年和八天的不一样",
@@ -355,6 +363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 699782,
+      "num": 699782,
+      "word": "病重男孩与全班拍毕业照次日离世",
+      "onboard_time": 1747583604,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690507,
       "num": 1110481,
       "word": "李雪琴 出戏",
@@ -433,14 +449,6 @@
       "onboard_time": 1747578204,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616852,
-      "num": 616852,
-      "word": "病重男孩与全班拍毕业照次日离世",
-      "onboard_time": 1747583604,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 606986,
@@ -537,14 +545,6 @@
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 492840,
-      "num": 283886,
-      "word": "甘薇让大家别替赵丽颖操心",
-      "onboard_time": 1747584445,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 488941,
@@ -1075,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256702,
+      "num": 250707,
+      "word": "twice",
+      "onboard_time": 1747585524,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251138,
       "num": 213422,
       "word": "昀牵孟绕",
@@ -1243,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216724,
+      "num": 216724,
+      "word": "央视曝光永久基本农田竟沦为垃圾场",
+      "onboard_time": 1747585464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214482,
       "num": 214482,
       "word": "谁家综艺凑到这么多梗王",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1747560021,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205540,
-      "num": 205540,
-      "word": "twice",
-      "onboard_time": 1747585524,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 204965,
@@ -2259,14 +2267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141600,
-      "num": 141600,
-      "word": "央视曝光永久基本农田竟沦为垃圾场",
-      "onboard_time": 1747585464,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140896,
       "num": 140896,
       "word": "王心凌Ella从我mp3走出来了",
@@ -2507,6 +2507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128706,
+      "num": 284996,
+      "word": "中医院回应患者购买中药检出西药成分",
+      "onboard_time": 1747585105,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 128557,
       "num": 128557,
       "word": "Xun说BLG打法变化不大",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1747499061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126977,
+      "num": 238964,
+      "word": "王曼昱蒯曼vs韦格申威尔戈斯",
+      "onboard_time": 1747583244,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 126773,
@@ -2627,12 +2643,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 122545,
+      "num": 122545,
+      "word": "我能教藏海点啥",
+      "onboard_time": 1747586123,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122071,
       "num": 122071,
       "word": "谁懂欧阳娣娣社牛的救赎感",
       "onboard_time": 1747546581,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121851,
+      "num": 121851,
+      "word": "妈妈称巨痣男孩术后变得自信阳光",
+      "onboard_time": 1747585402,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121512,
@@ -2720,14 +2752,6 @@
       "word": "王楚钦4比0纳雷什",
       "onboard_time": 1747503201,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119452,
-      "num": 238964,
-      "word": "王曼昱蒯曼vs韦格申威尔戈斯",
-      "onboard_time": 1747583244,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -2923,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110004,
+      "num": 110004,
+      "word": "高克新",
+      "onboard_time": 1747584265,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109984,
       "num": 109984,
       "word": "加沙人说以军把我们当动物一样对待",
@@ -2985,14 +3017,6 @@
       "onboard_time": 1747538009,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106026,
-      "num": 106026,
-      "word": "高克新",
-      "onboard_time": 1747584265,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 105396,
@@ -3139,14 +3163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98275,
-      "num": 98275,
-      "word": "妈妈称巨痣男孩术后变得自信阳光",
-      "onboard_time": 1747585402,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96970,
       "num": 141062,
       "word": "下周重要星象",
@@ -3161,14 +3177,6 @@
       "onboard_time": 1747580603,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95514,
-      "num": 284996,
-      "word": "中医院回应患者购买中药检出西药成分",
-      "onboard_time": 1747585105,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 94489,
@@ -3345,6 +3353,14 @@
       "onboard_time": 1747529429,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81667,
+      "num": 81667,
+      "word": "AG联合声明",
+      "onboard_time": 1747586481,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 81095,
