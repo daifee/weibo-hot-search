@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747582700676,
+  "endTime": 1747585735831,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1394637,
-      "num": 697116,
+      "num": 913156,
       "word": "藏海割了双眼皮",
       "onboard_time": 1747579104,
       "rank": 30,
@@ -428,11 +428,19 @@
     },
     {
       "raw_hot": 618739,
-      "num": 300557,
+      "num": 319756,
       "word": "王俊凯工作室",
       "onboard_time": 1747578204,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616852,
+      "num": 616852,
+      "word": "病重男孩与全班拍毕业照次日离世",
+      "onboard_time": 1747583604,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 606986,
@@ -531,6 +539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 492840,
+      "num": 283886,
+      "word": "甘薇让大家别替赵丽颖操心",
+      "onboard_time": 1747584445,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488941,
       "num": 295757,
       "word": "金巧巧本人都认不出的程度",
@@ -577,6 +593,14 @@
       "onboard_time": 1747487423,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428985,
+      "num": 428985,
+      "word": "成都到新疆售价5万起专列卖爆",
+      "onboard_time": 1747580004,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422297,
@@ -931,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286642,
+      "num": 286642,
+      "word": "中医院中药液里被指含管制类西药",
+      "onboard_time": 1747582165,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283779,
       "num": 283779,
       "word": "周杰伦林俊杰王俊凯同框",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1747568540,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 231069,
-      "num": 284082,
-      "word": "成都到新疆售价5万起专列卖爆",
-      "onboard_time": 1747580004,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224966,
@@ -1331,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205540,
+      "num": 205540,
+      "word": "twice",
+      "onboard_time": 1747585524,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204965,
       "num": 204965,
       "word": "黄子韬卫生巾15分钟卖19.5万件",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1747488383,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201877,
+      "num": 201877,
+      "word": "全世界的偶像剧在这一刻弱爆了",
+      "onboard_time": 1747582945,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 201864,
@@ -1603,6 +1643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 185670,
+      "num": 185670,
+      "word": "郑晓龙从甄嬛传数砖到藏海传",
+      "onboard_time": 1747583784,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185268,
       "num": 185268,
       "word": "PEL",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1747562964,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183053,
+      "num": 183053,
+      "word": "张凌赫戛纳allblack路透",
+      "onboard_time": 1747584804,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 181895,
@@ -2203,6 +2259,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141600,
+      "num": 141600,
+      "word": "央视曝光永久基本农田竟沦为垃圾场",
+      "onboard_time": 1747585464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140896,
+      "num": 140896,
+      "word": "王心凌Ella从我mp3走出来了",
+      "onboard_time": 1747584203,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140748,
       "num": 140748,
       "word": "中医一句话让高瀚宇汗流浃背了",
@@ -2651,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119452,
+      "num": 238964,
+      "word": "王曼昱蒯曼vs韦格申威尔戈斯",
+      "onboard_time": 1747583244,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119269,
       "num": 119269,
       "word": "西红柿在日本叫啥",
@@ -2907,6 +2987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106026,
+      "num": 106026,
+      "word": "高克新",
+      "onboard_time": 1747584265,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105396,
       "num": 105396,
       "word": "残疾客服妈妈月入过万还5点兼职摆摊",
@@ -3051,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98275,
+      "num": 98275,
+      "word": "妈妈称巨痣男孩术后变得自信阳光",
+      "onboard_time": 1747585402,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96970,
       "num": 141062,
       "word": "下周重要星象",
@@ -3067,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95514,
+      "num": 284996,
+      "word": "中医院回应患者购买中药检出西药成分",
+      "onboard_time": 1747585105,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 94489,
       "num": 94489,
       "word": "99年听障小伙用恋综搭建无声鹊桥",
@@ -3081,14 +3185,6 @@
       "onboard_time": 1747495946,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93904,
-      "num": 241393,
-      "word": "中医院中药液里被指含管制类西药",
-      "onboard_time": 1747582165,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92950,
@@ -3113,6 +3209,14 @@
       "onboard_time": 1747552761,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92129,
+      "num": 297399,
+      "word": "拧紧党政机关带头过紧日子的制度螺栓",
+      "onboard_time": 1747581564,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91008,
@@ -3171,12 +3275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87322,
+      "num": 141034,
+      "word": "心气是一种非常宝贵的资源",
+      "onboard_time": 1747584265,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86962,
       "num": 86962,
       "word": "张远巡演官宣上天赐",
       "onboard_time": 1747498102,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86659,
+      "num": 90178,
+      "word": "林高远vs阿卜杜拉齐兹",
+      "onboard_time": 1747584143,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86569,
@@ -3297,14 +3417,6 @@
       "onboard_time": 1747499181,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75897,
-      "num": 297399,
-      "word": "拧紧党政机关带头过紧日子的制度螺栓",
-      "onboard_time": 1747581564,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75791,

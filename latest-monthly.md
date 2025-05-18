@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/18 23:38:20
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/19 00:28:55
 </p>
 </blockquote>
 <p>
@@ -5187,6 +5187,12 @@ TTG夺冠（热度：622583）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%85%E9%87%8D%E7%94%B7%E5%AD%A9%E4%B8%8E%E5%85%A8%E7%8F%AD%E6%8B%8D%E6%AF%95%E4%B8%9A%E7%85%A7%E6%AC%A1%E6%97%A5%E7%A6%BB%E4%B8%96%23" target="weibo">
+病重男孩与全班拍毕业照次日离世（热度：616852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E4%B9%A1%E6%9D%91%E5%88%AB%E5%A2%85%E7%8E%B0%E5%9C%B0%E4%B8%8B%E4%BB%A3%E5%AD%95%E4%BA%A4%E6%98%93%23" target="weibo">
 长沙一乡村别墅现地下代孕交易（热度：616167）
 </a>
@@ -6005,12 +6011,6 @@ X玖少年团不会在婚礼合体吧（热度：592031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84IU%E9%99%AA%E8%B7%91%E8%A7%86%E5%90%8E%23" target="weibo">
 韩网评IU陪跑视后（热度：553690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E8%B7%B3%E6%B0%B4%23" target="weibo">
-金价连续跳水（热度：553266）
 </a>
 </li>
 
