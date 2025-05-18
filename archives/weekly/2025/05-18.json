@@ -1,7 +1,15 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747557795359,
+  "endTime": 1747560253853,
   "band_list": [
+    {
+      "raw_hot": 2212377,
+      "num": 208282,
+      "word": "黄子韬卫生巾售价",
+      "onboard_time": 1747559061,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1710092,
       "num": 1710092,
@@ -41,6 +49,14 @@
       "onboard_time": 1747541131,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1325728,
+      "num": 377314,
+      "word": "肖战工作室 陪聊",
+      "onboard_time": 1747556780,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1290387,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 781867,
-      "num": 635118,
+      "num": 1107234,
       "word": "徐梦洁以前是邓超伴舞",
       "onboard_time": 1747552881,
       "rank": 42,
@@ -185,14 +201,6 @@
       "onboard_time": 1747541610,
       "rank": 31,
       "category": "海外新闻,民生新闻"
-    },
-    {
-      "raw_hot": 707318,
-      "num": 377314,
-      "word": "肖战工作室 陪聊",
-      "onboard_time": 1747556780,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 702642,
@@ -249,6 +257,14 @@
       "onboard_time": 1747552701,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597828,
+      "num": 210643,
+      "word": "女子先兆流产请假被开除获赔7.2万多",
+      "onboard_time": 1747556961,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 594936,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357301,
+      "num": 357301,
+      "word": "刘晓艳 周思成",
+      "onboard_time": 1747558642,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 357295,
       "num": 246446,
       "word": "刘亦菲ig更新",
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328185,
+      "num": 328185,
+      "word": "莎头采访",
+      "onboard_time": 1747556000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326178,
       "num": 326178,
       "word": "王源抢到自己的票了",
@@ -457,6 +489,14 @@
       "onboard_time": 1747553243,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312868,
+      "num": 243683,
+      "word": "小女孩往陌生人饮料里加洗手液",
+      "onboard_time": 1747556060,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312525,
@@ -539,6 +579,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 268876,
+      "num": 207756,
+      "word": "草莓牛奶特别甜",
+      "onboard_time": 1747556181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268136,
       "num": 264397,
       "word": "西西里岛的刘亦菲",
@@ -553,14 +601,6 @@
       "onboard_time": 1747525039,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267672,
-      "num": 267672,
-      "word": "莎头采访",
-      "onboard_time": 1747556000,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 266804,
@@ -585,14 +625,6 @@
       "onboard_time": 1747549942,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255290,
-      "num": 243683,
-      "word": "小女孩往陌生人饮料里加洗手液",
-      "onboard_time": 1747556060,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246009,
@@ -633,6 +665,14 @@
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226394,
+      "num": 226394,
+      "word": "李雪琴 出戏",
+      "onboard_time": 1747559901,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 224966,
@@ -715,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210643,
-      "num": 210643,
-      "word": "女子先兆流产请假被开除获赔7.2万多",
-      "onboard_time": 1747556961,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 209242,
       "num": 209242,
       "word": "宇露君沾",
@@ -731,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207756,
-      "num": 207756,
-      "word": "草莓牛奶特别甜",
-      "onboard_time": 1747556181,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 208310,
+      "num": 208310,
+      "word": "520男德天花板",
+      "onboard_time": 1747559061,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 206208,
@@ -761,6 +793,14 @@
       "onboard_time": 1747550181,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205686,
+      "num": 205686,
+      "word": "陈雨菲泰国公开赛冠军",
+      "onboard_time": 1747560021,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 204707,
@@ -843,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194104,
+      "num": 194104,
+      "word": "艾威回应妻子病逝",
+      "onboard_time": 1747557980,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192389,
       "num": 319439,
       "word": "王曼昱4比1威尔戈斯",
@@ -905,6 +953,14 @@
       "onboard_time": 1747547061,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185199,
+      "num": 185199,
+      "word": "不化妆的人应该看的美妆视频",
+      "onboard_time": 1747560081,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 184964,
@@ -1115,8 +1171,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157818,
+      "num": 191235,
+      "word": "黄圣依听到妈妈的道歉泪崩",
+      "onboard_time": 1747558100,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156419,
-      "num": 156419,
+      "num": 187158,
       "word": "文韬是穿婚纱来嫁我了吧",
       "onboard_time": 1747556961,
       "rank": 41,
@@ -1195,6 +1259,14 @@
       "category": "民生新闻,电竞"
     },
     {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "女子咳一周查出肺里好多洞",
+      "onboard_time": 1747557201,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149183,
       "num": 149183,
       "word": "董思成说自己是桃花坞的忠实粉丝",
@@ -1241,6 +1313,14 @@
       "onboard_time": 1747495347,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144364,
+      "num": 144364,
+      "word": "开榴莲",
+      "onboard_time": 1747558760,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 143898,
@@ -1507,6 +1587,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 124441,
+      "num": 124441,
+      "word": "啵啵你怎么在这里",
+      "onboard_time": 1747557802,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123840,
       "num": 164020,
       "word": "戛纳红毯出圈造型",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1747546289,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120168,
+      "num": 120168,
+      "word": "孙铭徽踢飞篮球",
+      "onboard_time": 1747560141,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119709,
@@ -1851,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91008,
+      "num": 152866,
+      "word": "入夏后多吃这些应季蔬菜",
+      "onboard_time": 1747559061,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90884,
       "num": 90884,
       "word": "邓紫棋在逃公主只要在逃",
@@ -2035,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74138,
+      "num": 409557,
+      "word": "博物馆的满分文案",
+      "onboard_time": 1747558462,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73868,
       "num": 189323,
       "word": "多地油价或重回6元时代",
@@ -2075,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66504,
+      "num": 186837,
+      "word": "陈幸同钱天一vs丰塞卡克雷斯波",
+      "onboard_time": 1747558282,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64360,
       "num": 251432,
       "word": "邪恶栀子花被单依纯的歌声净化了",
@@ -2089,6 +2209,14 @@
       "onboard_time": 1747499362,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60363,
+      "num": 206942,
+      "word": "2人操纵股价非法牟利被众股民起诉",
+      "onboard_time": 1747559001,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 60072,
@@ -2203,6 +2331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42105,
+      "num": 207728,
+      "word": "陈幸同钱天一3比0丰塞卡克雷斯波",
+      "onboard_time": 1747559481,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41080,
       "num": 350639,
       "word": "美否认拟将百万巴勒斯坦人迁往利比亚",
@@ -2275,6 +2411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32603,
+      "num": 206761,
+      "word": "印度扩建运河对巴基斯坦有何影响",
+      "onboard_time": 1747559840,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32552,
       "num": 32552,
       "word": "多方回应驴友溺亡家属向队友索赔86万",
@@ -2339,6 +2483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26823,
+      "num": 163256,
+      "word": "帆船撞纽约大桥现场视频",
+      "onboard_time": 1747557980,
+      "rank": 35,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 26495,
       "num": 55554,
       "word": "ACL",
@@ -2361,6 +2513,14 @@
       "onboard_time": 1747539149,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26134,
+      "num": 158013,
+      "word": "国际博物馆日的由来是什么",
+      "onboard_time": 1747558881,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 25711,
@@ -2409,6 +2569,14 @@
       "onboard_time": 1747524559,
       "rank": 9,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 21164,
+      "num": 207609,
+      "word": "离开网红攻略如何逛好一个博物馆",
+      "onboard_time": 1747559240,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 20402,
