@@ -1,0 +1,410 @@
+{
+  "runTime": 1747593935183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 310808,
+        "num": 310808,
+        "word": "黄杨钿甜同款耳环仿款售价不到百元",
+        "onboard_time": 1747586721,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207920,
+        "num": 207920,
+        "word": "央视曝光永久基本农田竟沦为垃圾场",
+        "onboard_time": 1747585464,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14388,
+        "num": 160075,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213952,
+        "num": 158990,
+        "word": "网红小黄豆没参加高考",
+        "onboard_time": 1747588699,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136026,
+        "num": 136026,
+        "word": "病重男孩与全班拍毕业照次日离世",
+        "onboard_time": 1747583604,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129840,
+        "num": 129840,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86281,
+        "num": 86281,
+        "word": "藏海割了双眼皮",
+        "onboard_time": 1747579104,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73817,
+        "num": 73817,
+        "word": "妈妈称巨痣男孩术后变得自信阳光",
+        "onboard_time": 1747585402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25654,
+        "num": 73426,
+        "word": "乌克兰遭最大规模无人机袭击",
+        "onboard_time": 1747593074,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211982,
+        "num": 73034,
+        "word": "安静公主自曝术后肚子大到像怀孕",
+        "onboard_time": 1747588338,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119217,
+        "num": 72193,
+        "word": "甘薇让大家别替赵丽颖操心",
+        "onboard_time": 1747584445,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86135,
+        "num": 71053,
+        "word": "AG联合声明",
+        "onboard_time": 1747586481,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85242,
+        "num": 70107,
+        "word": "金子涵 好朋友",
+        "onboard_time": 1747573404,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84342,
+        "num": 69584,
+        "word": "小伙摔倒以为没事7天后死亡",
+        "onboard_time": 1747579403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80382,
+        "num": 68572,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78831,
+        "num": 68339,
+        "word": "王俊凯工作室",
+        "onboard_time": 1747578204,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67599,
+        "num": 67599,
+        "word": "twice",
+        "onboard_time": 1747585524,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62420,
+        "num": 62420,
+        "word": "党政机关应当严格精简会议",
+        "onboard_time": 1747589419,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55083,
+        "num": 55083,
+        "word": "肖战演技",
+        "onboard_time": 1747573582,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50185,
+        "num": 50185,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49059,
+        "num": 49059,
+        "word": "折腰要剧本有剧本要演员有演员",
+        "onboard_time": 1747590437,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46613,
+        "num": 46613,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46349,
+        "num": 46349,
+        "word": "张凌赫戛纳allblack路透",
+        "onboard_time": 1747584804,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45118,
+        "num": 45118,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44251,
+        "num": 44251,
+        "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
+        "onboard_time": 1747580424,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42901,
+        "num": 42901,
+        "word": "易烊千玺深圳出发",
+        "onboard_time": 1747582462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40469,
+        "num": 40469,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40033,
+        "num": 40033,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37693,
+        "num": 37693,
+        "word": "全世界的偶像剧在这一刻弱爆了",
+        "onboard_time": 1747582945,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49196,
+        "num": 37165,
+        "word": "安在旭在美开颅手术花费5亿韩元",
+        "onboard_time": 1747591697,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36467,
+        "num": 36467,
+        "word": "林高远vs阿卜杜拉齐兹",
+        "onboard_time": 1747584143,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35073,
+        "num": 35073,
+        "word": "黄子韬卫生巾15分钟卖19.5万件",
+        "onboard_time": 1747579704,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34944,
+        "num": 34944,
+        "word": "中医院回应患者购买中药检出西药成分",
+        "onboard_time": 1747585105,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34026,
+        "num": 34026,
+        "word": "成都到新疆售价5万起专列卖爆",
+        "onboard_time": 1747580004,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33920,
+        "num": 33920,
+        "word": "汪苏泷 我们",
+        "onboard_time": 1747581144,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33279,
+        "num": 33279,
+        "word": "钟汉良蒯铎",
+        "onboard_time": 1747593436,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32873,
+        "num": 32873,
+        "word": "我能教藏海点啥",
+        "onboard_time": 1747586123,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32293,
+        "num": 32293,
+        "word": "高克新",
+        "onboard_time": 1747584265,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31537,
+        "num": 31537,
+        "word": "印度军方称印巴停火无终止日期",
+        "onboard_time": 1747587020,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30943,
+        "num": 30943,
+        "word": "藏海传肖战访谈",
+        "onboard_time": 1747592835,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30914,
+        "num": 30914,
+        "word": "郑晓龙从甄嬛传数砖到藏海传",
+        "onboard_time": 1747583784,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28761,
+        "num": 30891,
+        "word": "春秋大梦",
+        "onboard_time": 1747588458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 30886,
+        "word": "张艺兴音乐节",
+        "onboard_time": 1747576224,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28103,
+        "num": 30857,
+        "word": "618囤货清单",
+        "onboard_time": 1747593255,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27445,
+        "num": 30818,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1747579523,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26394,
+        "num": 30802,
+        "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+        "onboard_time": 1747586901,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24058,
+        "num": 30763,
+        "word": "张真源演唱会值得被珍藏的时刻",
+        "onboard_time": 1747593856,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23576,
+        "num": 30761,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19187,
+        "num": 30715,
+        "word": "潘展乐汪顺孙杨携手晋级",
+        "onboard_time": 1747573341,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}
