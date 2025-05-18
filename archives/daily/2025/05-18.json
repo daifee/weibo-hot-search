@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747553857335,
+  "endTime": 1747556975198,
   "band_list": [
     {
       "raw_hot": 1710092,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1487041,
-      "num": 403664,
+      "num": 418731,
       "word": "姜尘谈黄杨钿甜",
       "onboard_time": 1747545150,
       "rank": 10,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 959226,
-      "num": 404977,
+      "num": 455637,
       "word": "财不外露",
       "onboard_time": 1747549639,
       "rank": 26,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 781867,
+      "num": 635118,
+      "word": "徐梦洁以前是邓超伴舞",
+      "onboard_time": 1747552881,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780577,
       "num": 299482,
       "word": "钿到底怎么念",
@@ -195,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632329,
+      "num": 632329,
+      "word": "男生病重全班赶来合拍毕业照",
+      "onboard_time": 1747551801,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 619547,
+      "num": 455025,
+      "word": "黄子韬卫生巾发布会直播",
+      "onboard_time": 1747555161,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606986,
       "num": 310077,
       "word": "黄杨钿甜耳环事件当以事实定真伪",
@@ -227,14 +251,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 472727,
-      "num": 472727,
-      "word": "男生病重全班赶来合拍毕业照",
-      "onboard_time": 1747551801,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 464629,
       "num": 464629,
       "word": "驴友溺亡家属向21名队友索赔86万",
@@ -257,6 +273,14 @@
       "onboard_time": 1747548681,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448687,
+      "num": 448687,
+      "word": "艾威妻子Lisa去世",
+      "onboard_time": 1747556541,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 432860,
@@ -419,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 314069,
+      "num": 406261,
+      "word": "王楚钦孙颖莎3比0梁吉善王艾米",
+      "onboard_time": 1747553243,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312525,
       "num": 312525,
       "word": "桃花坞自我介绍社牛天堂社恐地狱",
@@ -491,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278867,
-      "num": 406261,
-      "word": "王楚钦孙颖莎3比0梁吉善王艾米",
-      "onboard_time": 1747553243,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271326,
       "num": 271326,
       "word": "币圈富豪连遭绑架有超10万人爆仓",
@@ -521,6 +545,14 @@
       "onboard_time": 1747525039,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267066,
+      "num": 267066,
+      "word": "莎头采访",
+      "onboard_time": 1747556000,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 266804,
@@ -547,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258471,
-      "num": 258471,
-      "word": "徐梦洁以前是邓超伴舞",
-      "onboard_time": 1747552881,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 246009,
+      "num": 330006,
+      "word": "汽车4S店销冠疑用个人码收车款跑路",
+      "onboard_time": 1747552940,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244746,
@@ -651,6 +683,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209242,
+      "num": 209242,
+      "word": "宇露君沾",
+      "onboard_time": 1747554863,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206798,
+      "num": 206798,
+      "word": "孟子义李昀锐百指",
+      "onboard_time": 1747556780,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206208,
       "num": 186729,
       "word": "魏大勋李诚儒对手戏",
@@ -673,6 +721,14 @@
       "onboard_time": 1747550181,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205435,
+      "num": 205435,
+      "word": "小女孩往陌生人饮料里加洗手液",
+      "onboard_time": 1747556060,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204707,
@@ -731,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200067,
+      "num": 200067,
+      "word": "草莓牛奶特别甜",
+      "onboard_time": 1747556181,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
@@ -745,6 +809,22 @@
       "onboard_time": 1747539570,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196725,
+      "num": 196725,
+      "word": "莎头组合回应15分钟拿下比赛",
+      "onboard_time": 1747556481,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192389,
+      "num": 319439,
+      "word": "王曼昱4比1威尔戈斯",
+      "onboard_time": 1747555941,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 192100,
@@ -769,6 +849,14 @@
       "onboard_time": 1747496363,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188613,
+      "num": 188613,
+      "word": "谷爱凌詹姆斯自拍",
+      "onboard_time": 1747555700,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 188380,
@@ -819,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183553,
+      "num": 205452,
+      "word": "藏海传OST",
+      "onboard_time": 1747553786,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183393,
       "num": 183393,
       "word": "美媒说出关税最残酷真相",
@@ -833,6 +929,14 @@
       "onboard_time": 1747544431,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179191,
+      "num": 179191,
+      "word": "肖战工作室 陪聊",
+      "onboard_time": 1747556780,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 178631,
@@ -873,14 +977,6 @@
       "onboard_time": 1747539450,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 172582,
-      "num": 172582,
-      "word": "藏海传OST",
-      "onboard_time": 1747553786,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 169690,
@@ -979,12 +1075,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156288,
+      "num": 156288,
+      "word": "卜冠今演疯子",
+      "onboard_time": 1747556422,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155277,
       "num": 155277,
       "word": "雍和宫许愿副作用",
       "onboard_time": 1747543110,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154128,
+      "num": 154128,
+      "word": "王源郭俊辰双向奔赴的友情",
+      "onboard_time": 1747556000,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 153919,
@@ -1043,6 +1155,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 149160,
+      "num": 149160,
+      "word": "仙逆",
+      "onboard_time": 1747556121,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 149037,
       "num": 149037,
       "word": "多方回应咖啡店禁止幼童入内",
@@ -1057,6 +1177,14 @@
       "onboard_time": 1747548860,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146295,
+      "num": 460740,
+      "word": "天问二号5月底择机发射",
+      "onboard_time": 1747555700,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145479,
@@ -1179,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136577,
+      "num": 136577,
+      "word": "古代有什么吊打现代的东西",
+      "onboard_time": 1747552940,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135857,
       "num": 261988,
       "word": "FBI称加州发生恐怖袭击事件",
@@ -1291,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126830,
+      "num": 126830,
+      "word": "徐艺真 五哈",
+      "onboard_time": 1747556481,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126759,
       "num": 126759,
       "word": "官方通报老师威胁学生人身安全",
@@ -1304,6 +1448,14 @@
       "word": "躺床上就把演唱会看了",
       "onboard_time": 1747539750,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126152,
+      "num": 126152,
+      "word": "纯情蟑螂火辣辣",
+      "onboard_time": 1747550361,
+      "rank": 45,
       "category": "幽默"
     },
     {
@@ -1339,6 +1491,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 121081,
+      "num": 121081,
+      "word": "蔡文静宁静一个敢问一个敢认",
+      "onboard_time": 1747553605,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121068,
       "num": 310802,
       "word": "欢迎福娃和凤仪回国",
@@ -1347,28 +1507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121035,
+      "num": 121035,
+      "word": "前市长回到了他忠诚的杭州",
+      "onboard_time": 1747554925,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120796,
       "num": 120796,
       "word": "黄龄把蝴蝶穿身上",
       "onboard_time": 1747546289,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120342,
-      "num": 120342,
-      "word": "蔡文静宁静一个敢问一个敢认",
-      "onboard_time": 1747553605,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 120236,
-      "num": 120236,
-      "word": "汽车4S店销冠疑用个人码收车款跑路",
-      "onboard_time": 1747552940,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119709,
@@ -1419,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116188,
-      "num": 116188,
-      "word": "古代有什么吊打现代的东西",
-      "onboard_time": 1747552940,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116168,
       "num": 116168,
       "word": "藏海传两集连播",
@@ -1449,14 +1593,6 @@
       "onboard_time": 1747539269,
       "rank": 29,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 114394,
-      "num": 114394,
-      "word": "纯情蟑螂火辣辣",
-      "onboard_time": 1747550361,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 114151,
@@ -1979,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49221,
+      "num": 128716,
+      "word": "邪恶栀子花被单依纯的歌声净化了",
+      "onboard_time": 1747556841,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49136,
       "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
@@ -2067,6 +2211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32830,
+      "num": 350639,
+      "word": "美否认拟将百万巴勒斯坦人迁往利比亚",
+      "onboard_time": 1747555941,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32552,
       "num": 32552,
       "word": "多方回应驴友溺亡家属向队友索赔86万",
@@ -2097,6 +2249,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29145,
+      "num": 323177,
+      "word": "毛利兰生日大屏呈现哪些经典画面",
+      "onboard_time": 1747556241,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 28095,
