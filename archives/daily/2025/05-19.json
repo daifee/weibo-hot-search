@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747607003760,
+  "endTime": 1747608057037,
   "band_list": [
     {
       "raw_hot": 830491,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 778130,
+      "num": 778130,
+      "word": "央视曝光永久基本农田竟沦为垃圾场",
+      "onboard_time": 1747585464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 766866,
       "num": 766866,
       "word": "黄杨钿甜同款耳环仿款售价不到百元",
@@ -57,14 +65,6 @@
       "onboard_time": 1747572262,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 714705,
-      "num": 714705,
-      "word": "央视曝光永久基本农田竟沦为垃圾场",
-      "onboard_time": 1747585464,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 568279,
@@ -251,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183569,
+      "num": 284996,
+      "word": "中医院回应患者购买中药检出西药成分",
+      "onboard_time": 1747585105,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 183053,
       "num": 183053,
       "word": "张凌赫戛纳allblack路透",
       "onboard_time": 1747584804,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173450,
+      "num": 117390,
+      "word": "安在旭在美开颅手术花费5亿韩元",
+      "onboard_time": 1747591697,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 166248,
@@ -323,22 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137278,
-      "num": 81018,
-      "word": "安在旭在美开颅手术花费5亿韩元",
-      "onboard_time": 1747591697,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 128980,
-      "num": 284996,
-      "word": "中医院回应患者购买中药检出西药成分",
-      "onboard_time": 1747585105,
-      "rank": 11,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 126977,
       "num": 238964,
       "word": "王曼昱蒯曼vs韦格申威尔戈斯",
@@ -384,6 +384,14 @@
       "word": "林高远vs阿卜杜拉齐兹",
       "onboard_time": 1747584143,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "掘金vs雷霆",
+      "onboard_time": 1747582344,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -443,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78643,
-      "num": 78643,
-      "word": "掘金vs雷霆",
-      "onboard_time": 1747582344,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 84718,
+      "num": 84718,
+      "word": "乌克兰遭最大规模无人机袭击",
+      "onboard_time": 1747593074,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78090,
@@ -483,27 +491,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70654,
-      "num": 73426,
-      "word": "乌克兰遭最大规模无人机袭击",
-      "onboard_time": 1747593074,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 61637,
-      "num": 52593,
+      "raw_hot": 69559,
+      "num": 69559,
       "word": "折腰要剧本有剧本要演员有演员",
       "onboard_time": 1747590437,
       "rank": 20,
       "category": "剧集"
     },
     {
-      "raw_hot": 57271,
-      "num": 57271,
+      "raw_hot": 65270,
+      "num": 65270,
       "word": "藏海传破2",
       "onboard_time": 1747605735,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60925,
+      "num": 60925,
+      "word": "钟汉良蒯铎",
+      "onboard_time": 1747593436,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -523,20 +531,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49128,
-      "num": 49128,
-      "word": "钟汉良蒯铎",
-      "onboard_time": 1747593436,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41068,
       "num": 41068,
       "word": "藏海传肖战访谈",
       "onboard_time": 1747592835,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38278,
+      "num": 38278,
+      "word": "沈月闺蜜晒沈月与新生儿合照",
+      "onboard_time": 1747600394,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 36121,
@@ -547,12 +555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32408,
-      "num": 32408,
-      "word": "沈月闺蜜晒沈月与新生儿合照",
-      "onboard_time": 1747600394,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 36107,
+      "num": 36107,
+      "word": "刘晓庆回应和唐国强演将门毒后",
+      "onboard_time": 1747595595,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34595,
+      "num": 42185,
+      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+      "onboard_time": 1747586901,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31334,
@@ -571,14 +587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28170,
-      "num": 28170,
-      "word": "刘晓庆回应和唐国强演将门毒后",
-      "onboard_time": 1747595595,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28103,
       "num": 30857,
       "word": "618囤货清单",
@@ -595,11 +603,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26487,
-      "num": 42185,
-      "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
-      "onboard_time": 1747586901,
-      "rank": 30,
+      "raw_hot": 25710,
+      "num": 39528,
+      "word": "乌空军已承认损失3架F16",
+      "onboard_time": 1747592955,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -609,14 +617,6 @@
       "onboard_time": 1747593856,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20503,
-      "num": 39528,
-      "word": "乌空军已承认损失3架F16",
-      "onboard_time": 1747592955,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19934,

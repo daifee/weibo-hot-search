@@ -1,0 +1,410 @@
+{
+  "runTime": 1747608057037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 778130,
+        "num": 778130,
+        "word": "央视曝光永久基本农田竟沦为垃圾场",
+        "onboard_time": 1747585464,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545155,
+        "num": 545155,
+        "word": "黄杨钿甜同款耳环仿款售价不到百元",
+        "onboard_time": 1747586721,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22443,
+        "num": 464226,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400848,
+        "num": 400848,
+        "word": "病重男孩与全班拍毕业照次日离世",
+        "onboard_time": 1747583604,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228939,
+        "num": 228939,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183569,
+        "num": 183569,
+        "word": "中医院回应患者购买中药检出西药成分",
+        "onboard_time": 1747585105,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 165164,
+        "num": 165164,
+        "word": "黄子韬卫生巾15分钟卖19.5万件",
+        "onboard_time": 1747579704,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160940,
+        "num": 160940,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147261,
+        "num": 147261,
+        "word": "网红小黄豆没参加高考",
+        "onboard_time": 1747588699,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118310,
+        "num": 118310,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357472,
+        "num": 118141,
+        "word": "甘薇让大家别替赵丽颖操心",
+        "onboard_time": 1747584445,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237047,
+        "num": 117771,
+        "word": "小伙摔倒以为没事7天后死亡",
+        "onboard_time": 1747579403,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199975,
+        "num": 117466,
+        "word": "安静公主自曝术后肚子大到像怀孕",
+        "onboard_time": 1747588338,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173450,
+        "num": 117390,
+        "word": "安在旭在美开颅手术花费5亿韩元",
+        "onboard_time": 1747591697,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117097,
+        "num": 117097,
+        "word": "藏海割了双眼皮",
+        "onboard_time": 1747579104,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 105845,
+        "word": "掘金vs雷霆",
+        "onboard_time": 1747582344,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94270,
+        "num": 94270,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89047,
+        "num": 89047,
+        "word": "肖战演技",
+        "onboard_time": 1747573582,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84718,
+        "num": 84718,
+        "word": "乌克兰遭最大规模无人机袭击",
+        "onboard_time": 1747593074,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84159,
+        "num": 84159,
+        "word": "成都到新疆售价5万起专列卖爆",
+        "onboard_time": 1747580004,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91072,
+        "num": 83494,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76167,
+        "num": 76167,
+        "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
+        "onboard_time": 1747580424,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69559,
+        "num": 69559,
+        "word": "折腰要剧本有剧本要演员有演员",
+        "onboard_time": 1747590437,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67215,
+        "num": 67215,
+        "word": "中医院中药液里被指含管制类西药",
+        "onboard_time": 1747582165,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65270,
+        "num": 65270,
+        "word": "藏海传破2",
+        "onboard_time": 1747605735,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63594,
+        "num": 63594,
+        "word": "印度军方称印巴停火无终止日期",
+        "onboard_time": 1747587020,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60925,
+        "num": 60925,
+        "word": "钟汉良蒯铎",
+        "onboard_time": 1747593436,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60180,
+        "num": 60180,
+        "word": "妈妈称巨痣男孩术后变得自信阳光",
+        "onboard_time": 1747585402,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58830,
+        "num": 58830,
+        "word": "金巧巧本人都认不出的程度",
+        "onboard_time": 1747580303,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54258,
+        "num": 54258,
+        "word": "新冠阳性率上升三类人要注意",
+        "onboard_time": 1747567640,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51331,
+        "num": 51331,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46395,
+        "num": 46395,
+        "word": "郑晓龙从甄嬛传数砖到藏海传",
+        "onboard_time": 1747583784,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45332,
+        "num": 45332,
+        "word": "王俊凯工作室",
+        "onboard_time": 1747578204,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44394,
+        "num": 44394,
+        "word": "党政机关应当严格精简会议",
+        "onboard_time": 1747589419,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40196,
+        "num": 40196,
+        "word": "张凌赫戛纳allblack路透",
+        "onboard_time": 1747584804,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38814,
+        "num": 38814,
+        "word": "林高远vs阿卜杜拉齐兹",
+        "onboard_time": 1747584143,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38278,
+        "num": 38278,
+        "word": "沈月闺蜜晒沈月与新生儿合照",
+        "onboard_time": 1747600394,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36107,
+        "num": 36107,
+        "word": "刘晓庆回应和唐国强演将门毒后",
+        "onboard_time": 1747595595,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36099,
+        "num": 36099,
+        "word": "珠宝高仿人员辟谣",
+        "onboard_time": 1747569562,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36051,
+        "num": 36051,
+        "word": "退圈摆摊男演员透露有很多戏找他",
+        "onboard_time": 1747600693,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34595,
+        "num": 34595,
+        "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
+        "onboard_time": 1747586901,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33733,
+        "num": 33733,
+        "word": "我能教藏海点啥",
+        "onboard_time": 1747586123,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33309,
+        "num": 33309,
+        "word": "歌手第二期歌单",
+        "onboard_time": 1747570463,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33048,
+        "num": 33048,
+        "word": "金子涵 好朋友",
+        "onboard_time": 1747573404,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31970,
+        "num": 33045,
+        "word": "AG联合声明",
+        "onboard_time": 1747586481,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30942,
+        "num": 33036,
+        "word": "易烊千玺深圳出发",
+        "onboard_time": 1747582462,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30791,
+        "num": 33027,
+        "word": "王心凌Ella从我mp3走出来了",
+        "onboard_time": 1747584203,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29651,
+        "num": 33027,
+        "word": "twice",
+        "onboard_time": 1747585524,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27868,
+        "num": 33020,
+        "word": "全世界的偶像剧在这一刻弱爆了",
+        "onboard_time": 1747582945,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25710,
+        "num": 33009,
+        "word": "乌空军已承认损失3架F16",
+        "onboard_time": 1747592955,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}
