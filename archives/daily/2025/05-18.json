@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747552961420,
+  "endTime": 1747553857335,
   "band_list": [
     {
       "raw_hot": 1710092,
@@ -9,6 +9,14 @@
       "onboard_time": 1747541670,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1684962,
+      "num": 1684962,
+      "word": "王楚钦孙颖莎vs梁吉善王艾米",
+      "onboard_time": 1747552041,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1627921,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1487041,
-      "num": 367746,
+      "num": 403664,
       "word": "姜尘谈黄杨钿甜",
       "onboard_time": 1747545150,
       "rank": 10,
@@ -83,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 959226,
+      "num": 404977,
+      "word": "财不外露",
+      "onboard_time": 1747549639,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 941536,
       "num": 315946,
       "word": "博君一肖 藏海传云包场",
@@ -99,20 +115,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 909077,
-      "num": 373302,
-      "word": "财不外露",
-      "onboard_time": 1747549639,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 840727,
       "num": 704153,
       "word": "李晟生完孩子曾整晚哭",
       "onboard_time": 1747548981,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 837135,
+      "num": 837135,
+      "word": "陈梦生理期痛到要吃止痛药",
+      "onboard_time": 1747546461,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 835664,
@@ -137,14 +153,6 @@
       "onboard_time": 1747540410,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 758325,
-      "num": 758325,
-      "word": "陈梦生理期痛到要吃止痛药",
-      "onboard_time": 1747546461,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 723517,
@@ -195,19 +203,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598676,
+      "num": 598676,
+      "word": "莎头",
+      "onboard_time": 1747552701,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 594936,
       "num": 594936,
       "word": "潘展乐汪顺孙杨晋级200自半决赛",
       "onboard_time": 1747542091,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 503508,
-      "num": 503508,
-      "word": "王楚钦孙颖莎vs梁吉善王艾米",
-      "onboard_time": 1747552041,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -217,6 +225,14 @@
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 472727,
+      "num": 472727,
+      "word": "男生病重全班赶来合拍毕业照",
+      "onboard_time": 1747551801,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 464629,
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401621,
+      "num": 401621,
+      "word": "藏海传开播",
+      "onboard_time": 1747550121,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396453,
       "num": 396453,
       "word": "孟子义说李昀锐身体真好",
@@ -271,14 +295,6 @@
       "num": 294434,
       "word": "李溪芮 内娱腿精",
       "onboard_time": 1747482502,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 374831,
-      "num": 374831,
-      "word": "藏海传开播",
-      "onboard_time": 1747550121,
       "rank": 12,
       "category": "剧集"
     },
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278867,
+      "num": 406261,
+      "word": "王楚钦孙颖莎3比0梁吉善王艾米",
+      "onboard_time": 1747553243,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271326,
       "num": 271326,
       "word": "币圈富豪连遭绑架有超10万人爆仓",
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258471,
+      "num": 258471,
+      "word": "徐梦洁以前是邓超伴舞",
+      "onboard_time": 1747552881,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244746,
       "num": 244746,
       "word": "莎头 混双",
@@ -555,8 +587,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221141,
-      "num": 221141,
+      "raw_hot": 221362,
+      "num": 221362,
       "word": "金靖张凌赫人后送汤人前避嫌",
       "onboard_time": 1747551260,
       "rank": 22,
@@ -641,6 +673,22 @@
       "onboard_time": 1747550181,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204707,
+      "num": 204707,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1747553482,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203468,
+      "num": 203468,
+      "word": "混双",
+      "onboard_time": 1747553362,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203148,
@@ -827,6 +875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172582,
+      "num": 172582,
+      "word": "藏海传OST",
+      "onboard_time": 1747553786,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169690,
       "num": 146718,
       "word": "汪顺200自小组第4",
@@ -897,6 +953,14 @@
       "onboard_time": 1747533089,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164459,
+      "num": 164459,
+      "word": "奔跑吧",
+      "onboard_time": 1747552821,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 161144,
@@ -1043,6 +1107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 140748,
+      "num": 140748,
+      "word": "中医一句话让高瀚宇汗流浃背了",
+      "onboard_time": 1747552821,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139435,
       "num": 139435,
       "word": "孙杨200自小组第一",
@@ -1099,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136794,
+      "num": 136794,
+      "word": "陈妍希夸肖战谦逊有礼",
+      "onboard_time": 1747551200,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135857,
       "num": 261988,
       "word": "FBI称加州发生恐怖袭击事件",
@@ -1137,14 +1217,6 @@
       "onboard_time": 1747548921,
       "rank": 31,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 132781,
-      "num": 132781,
-      "word": "陈妍希夸肖战谦逊有礼",
-      "onboard_time": 1747551200,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 131976,
@@ -1259,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121632,
-      "num": 121632,
-      "word": "莎头",
-      "onboard_time": 1747552701,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121512,
       "num": 121512,
       "word": "中国年度最受欢迎10大博物馆",
@@ -1289,6 +1353,22 @@
       "onboard_time": 1747546289,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120342,
+      "num": 120342,
+      "word": "蔡文静宁静一个敢问一个敢认",
+      "onboard_time": 1747553605,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120236,
+      "num": 120236,
+      "word": "汽车4S店销冠疑用个人码收车款跑路",
+      "onboard_time": 1747552940,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119709,
@@ -1339,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116188,
+      "num": 116188,
+      "word": "古代有什么吊打现代的东西",
+      "onboard_time": 1747552940,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116168,
       "num": 116168,
       "word": "藏海传两集连播",
@@ -1363,6 +1451,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 114394,
+      "num": 114394,
+      "word": "纯情蟑螂火辣辣",
+      "onboard_time": 1747550361,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114151,
       "num": 144938,
       "word": "用手指转手机有多难",
@@ -1385,14 +1481,6 @@
       "onboard_time": 1747531350,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111842,
-      "num": 111842,
-      "word": "奔跑吧",
-      "onboard_time": 1747552821,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 109984,
@@ -1443,6 +1531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107171,
+      "num": 362793,
+      "word": "父亲回应全班和患癌孩子拍毕业照",
+      "onboard_time": 1747551921,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 107140,
       "num": 107140,
       "word": "朱志鑫 新歌",
@@ -1483,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101673,
+      "num": 101673,
+      "word": "李艺彤卡琳娜我家大小姐和大少爷",
+      "onboard_time": 1747553844,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101254,
       "num": 101254,
       "word": "孙铭徽踢球",
@@ -1515,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99077,
-      "num": 99077,
-      "word": "徐梦洁以前是邓超伴舞",
-      "onboard_time": 1747552881,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98711,
       "num": 98711,
       "word": "沃尔玛涨价",
@@ -1547,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96241,
-      "num": 96241,
-      "word": "中医一句话让高瀚宇汗流浃背了",
-      "onboard_time": 1747552821,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94489,
       "num": 94489,
       "word": "99年听障小伙用恋综搭建无声鹊桥",
@@ -1571,22 +1659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94165,
-      "num": 94165,
-      "word": "纯情蟑螂火辣辣",
-      "onboard_time": 1747550361,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 93001,
-      "num": 93001,
-      "word": "古代有什么吊打现代的东西",
-      "onboard_time": 1747552940,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92450,
       "num": 92450,
       "word": "偶遇张极抓狗",
@@ -1600,14 +1672,6 @@
       "word": "导演希望人们可以增强国安反谍意识",
       "onboard_time": 1747552761,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92286,
-      "num": 92286,
-      "word": "汽车4S店销冠疑用个人码收车款跑路",
-      "onboard_time": 1747552940,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1820,7 +1884,7 @@
     },
     {
       "raw_hot": 68074,
-      "num": 102726,
+      "num": 124156,
       "word": "她是民国第一女杀手",
       "onboard_time": 1747551683,
       "rank": 39,
@@ -1833,14 +1897,6 @@
       "onboard_time": 1747501578,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63223,
-      "num": 358956,
-      "word": "男生病重全班赶来合拍毕业照",
-      "onboard_time": 1747551801,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 61322,
@@ -1857,14 +1913,6 @@
       "onboard_time": 1747549042,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59645,
-      "num": 362793,
-      "word": "父亲回应全班和患癌孩子拍毕业照",
-      "onboard_time": 1747551921,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 59174,
@@ -1972,7 +2020,7 @@
     },
     {
       "raw_hot": 39091,
-      "num": 796247,
+      "num": 856795,
       "word": "走进这些博物馆感触民族脊梁",
       "onboard_time": 1747538609,
       "rank": 26,
@@ -1985,6 +2033,14 @@
       "onboard_time": 1747544730,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37832,
+      "num": 112859,
+      "word": "王曼昱vs威尔戈斯",
+      "onboard_time": 1747537111,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 35073,
@@ -2091,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25711,
+      "num": 173266,
+      "word": "男子驾车撞人后藏匿伤者致死被判10年",
+      "onboard_time": 1747553666,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25143,
       "num": 55396,
       "word": "卓沅明天见喽",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1747508654,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16733,
+      "num": 263971,
+      "word": "25年法考民诉大纲有哪些重点调整",
+      "onboard_time": 1747553482,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 16596,
