@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747560253853,
+  "endTime": 1747561106056,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -5787,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690507,
+      "num": 1110481,
+      "word": "李雪琴 出戏",
+      "onboard_time": 1747559901,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 689605,
       "num": 430663,
       "word": "为胖都来站台的明星诚信已打了折扣",
@@ -11451,6 +11459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 392776,
+      "num": 392776,
+      "word": "刘晓艳 周思成",
+      "onboard_time": 1747558642,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 392506,
       "num": 392506,
       "word": "朱志鑫簪花",
@@ -12649,14 +12665,6 @@
       "onboard_time": 1746884482,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 357301,
-      "num": 357301,
-      "word": "刘晓艳 周思成",
-      "onboard_time": 1747558642,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 357295,
@@ -17003,6 +17011,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 263335,
+      "num": 180742,
+      "word": "稻城亚丁景区一女游客因高反去世",
+      "onboard_time": 1747560561,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263290,
       "num": 285825,
       "word": "二皇子是你吗",
@@ -19761,14 +19777,6 @@
       "onboard_time": 1747296324,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 226394,
-      "num": 226394,
-      "word": "李雪琴 出戏",
-      "onboard_time": 1747559901,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 226381,
@@ -25939,6 +25947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190850,
+      "num": 190850,
+      "word": "陈都灵探班孟子义合照",
+      "onboard_time": 1747560861,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190834,
       "num": 321787,
       "word": "印度为何急刹车停火",
@@ -26017,6 +26033,14 @@
       "onboard_time": 1746529941,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190718,
+      "num": 177382,
+      "word": "艾威Lisa 再见爱人",
+      "onboard_time": 1747560502,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 190711,
@@ -29193,6 +29217,14 @@
       "onboard_time": 1747114520,
       "rank": 20,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 176702,
+      "num": 176702,
+      "word": "杨紫 时尚芭莎",
+      "onboard_time": 1747560861,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176652,
@@ -37259,6 +37291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145334,
+      "num": 145334,
+      "word": "开榴莲",
+      "onboard_time": 1747558760,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145279,
       "num": 188489,
       "word": "佟丽娅回应看张杰演唱会",
@@ -37505,14 +37545,6 @@
       "onboard_time": 1746977962,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144364,
-      "num": 144364,
-      "word": "开榴莲",
-      "onboard_time": 1747558760,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 144324,
@@ -47147,6 +47179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112525,
+      "num": 112525,
+      "word": "520礼物",
+      "onboard_time": 1747557802,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112501,
       "num": 112501,
       "word": "饶毅力挺协和4加4有何深意",
@@ -48811,6 +48851,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 105273,
+      "num": 105273,
+      "word": "一代人有一代人的吃货搭子",
+      "onboard_time": 1747560981,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105264,
       "num": 342555,
       "word": "上门做饭月薪近2万女子发微博",
@@ -49411,12 +49459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "人在什么时候最舒服",
+      "onboard_time": 1747559061,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102580,
       "num": 271128,
       "word": "郑钦文锁定8号种子",
       "onboard_time": 1747544670,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102568,
+      "num": 102568,
+      "word": "国内小区为什么容易变成老破小",
+      "onboard_time": 1747561042,
+      "rank": 49,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 102539,
@@ -51921,6 +51985,14 @@
       "onboard_time": 1747481723,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86569,
+      "num": 206942,
+      "word": "2人操纵股价非法牟利被众股民起诉",
+      "onboard_time": 1747559001,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 86467,
@@ -55825,14 +55897,6 @@
       "onboard_time": 1747452150,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60363,
-      "num": 206942,
-      "word": "2人操纵股价非法牟利被众股民起诉",
-      "onboard_time": 1747559001,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 60353,
@@ -67081,6 +67145,14 @@
       "onboard_time": 1746558434,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9931,
+      "num": 179888,
+      "word": "藏海传点天灯有什么特殊隐喻",
+      "onboard_time": 1747560680,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 9919,
