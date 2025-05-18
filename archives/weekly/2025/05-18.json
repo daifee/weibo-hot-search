@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747586644494,
+  "endTime": 1747588831570,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -259,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 797905,
+      "num": 797905,
+      "word": "病重男孩与全班拍毕业照次日离世",
+      "onboard_time": 1747583604,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 789667,
       "num": 283886,
       "word": "甘薇让大家别替赵丽颖操心",
@@ -315,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 766866,
+      "num": 766866,
+      "word": "黄杨钿甜同款耳环仿款售价不到百元",
+      "onboard_time": 1747586721,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 760457,
       "num": 403021,
       "word": "珠宝高仿人员辟谣",
@@ -355,20 +371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714705,
+      "num": 714705,
+      "word": "央视曝光永久基本农田竟沦为垃圾场",
+      "onboard_time": 1747585464,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 702642,
       "num": 702642,
       "word": "男生病重全班赶来合拍毕业照",
       "onboard_time": 1747551801,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 699782,
-      "num": 699782,
-      "word": "病重男孩与全班拍毕业照次日离世",
-      "onboard_time": 1747583604,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 690507,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 618739,
-      "num": 319756,
+      "num": 352553,
       "word": "王俊凯工作室",
       "onboard_time": 1747578204,
       "rank": 24,
@@ -867,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 306777,
+      "num": 250707,
+      "word": "twice",
+      "onboard_time": 1747585524,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 303848,
       "num": 167885,
       "word": "藏海传 盗墓笔记",
@@ -1075,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256702,
-      "num": 250707,
-      "word": "twice",
-      "onboard_time": 1747585524,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 251138,
       "num": 213422,
       "word": "昀牵孟绕",
@@ -1251,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216724,
-      "num": 216724,
-      "word": "央视曝光永久基本农田竟沦为垃圾场",
-      "onboard_time": 1747585464,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214482,
       "num": 214482,
       "word": "谁家综艺凑到这么多梗王",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1747554863,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208537,
+      "num": 208537,
+      "word": "妈妈称巨痣男孩术后变得自信阳光",
+      "onboard_time": 1747585402,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208310,
@@ -1523,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195975,
+      "num": 158667,
+      "word": "AG联合声明",
+      "onboard_time": 1747586481,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195321,
       "num": 195321,
       "word": "张艺兴音乐节",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1747545031,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190314,
+      "num": 157388,
+      "word": "安静公主自曝术后肚子大到像怀孕",
+      "onboard_time": 1747588338,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 188681,
@@ -2443,6 +2475,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 131738,
+      "num": 131738,
+      "word": "网红小黄豆没参加高考",
+      "onboard_time": 1747588699,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 131662,
       "num": 131662,
       "word": "月奴好可怜",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1747546581,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121851,
-      "num": 121851,
-      "word": "妈妈称巨痣男孩术后变得自信阳光",
-      "onboard_time": 1747585402,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121512,
@@ -3251,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90477,
+      "num": 90477,
+      "word": "林高远vs阿卜杜拉齐兹",
+      "onboard_time": 1747584143,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90428,
       "num": 90428,
       "word": "刘雨欣凭个人最高分获正式合约",
@@ -3299,14 +3339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86659,
-      "num": 90178,
-      "word": "林高远vs阿卜杜拉齐兹",
-      "onboard_time": 1747584143,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86569,
       "num": 206942,
       "word": "2人操纵股价非法牟利被众股民起诉",
@@ -3353,14 +3385,6 @@
       "onboard_time": 1747529429,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81667,
-      "num": 81667,
-      "word": "AG联合声明",
-      "onboard_time": 1747586481,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 81095,
@@ -3433,6 +3457,14 @@
       "onboard_time": 1747499181,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76060,
+      "num": 76060,
+      "word": "春秋大梦",
+      "onboard_time": 1747588458,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 75791,
@@ -3603,12 +3635,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 56960,
+      "num": 156308,
+      "word": "印度军方称印巴停火无终止日期",
+      "onboard_time": 1747587020,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55979,
       "num": 391490,
       "word": "博主科普新疆上空不明飞行物",
       "onboard_time": 1747555581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55886,
+      "num": 55886,
+      "word": "TTG一穿六夺冠",
+      "onboard_time": 1747587441,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 54709,
