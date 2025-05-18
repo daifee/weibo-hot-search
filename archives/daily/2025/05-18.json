@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747545895699,
+  "endTime": 1747546906514,
   "band_list": [
     {
       "raw_hot": 1710092,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1487041,
-      "num": 300150,
+      "num": 304784,
       "word": "姜尘谈黄杨钿甜",
       "onboard_time": 1747545150,
       "rank": 10,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 780577,
-      "num": 289726,
+      "num": 299482,
       "word": "钿到底怎么念",
       "onboard_time": 1747540410,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 720789,
-      "num": 568713,
+      "num": 607474,
       "word": "韩司机好奇为何中国人说韩国小",
       "onboard_time": 1747541610,
       "rank": 31,
@@ -179,6 +179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 455088,
+      "num": 302718,
+      "word": "陈赫向孙俪请教",
+      "onboard_time": 1747545749,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432860,
       "num": 432860,
       "word": "孙杨赛后久久不忍离去",
@@ -208,6 +216,14 @@
       "word": "李溪芮 内娱腿精",
       "onboard_time": 1747482502,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374116,
+      "num": 374116,
+      "word": "藏海传开播连更8天",
+      "onboard_time": 1747543591,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -291,20 +307,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331246,
+      "num": 331246,
+      "word": "纽约一大型帆船撞桥",
+      "onboard_time": 1747535609,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 328614,
       "num": 328614,
       "word": "张泉灵说李晟是家里最不卷的",
       "onboard_time": 1747525221,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326329,
-      "num": 326329,
-      "word": "藏海传开播连更8天",
-      "onboard_time": 1747543591,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 326178,
@@ -315,12 +331,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324236,
+      "num": 324236,
+      "word": "藏海传 点天灯",
+      "onboard_time": 1747546050,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312525,
+      "num": 312525,
+      "word": "桃花坞自我介绍社牛天堂社恐地狱",
+      "onboard_time": 1747544849,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300320,
       "num": 300320,
       "word": "高位截瘫男孩自驾看雪山",
       "onboard_time": 1747539510,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296580,
+      "num": 296580,
+      "word": "惠英红自曝被换角",
+      "onboard_time": 1747545749,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 292684,
@@ -371,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268136,
+      "num": 264397,
+      "word": "西西里岛的刘亦菲",
+      "onboard_time": 1747544490,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268095,
       "num": 258207,
       "word": "藏海传剧评",
@@ -385,22 +433,6 @@
       "onboard_time": 1747487843,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254498,
-      "num": 254498,
-      "word": "纽约一大型帆船撞桥",
-      "onboard_time": 1747535609,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 249137,
-      "num": 249137,
-      "word": "桃花坞自我介绍社牛天堂社恐地狱",
-      "onboard_time": 1747544849,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 244746,
@@ -425,14 +457,6 @@
       "onboard_time": 1747489105,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220031,
-      "num": 220031,
-      "word": "西西里岛的刘亦菲",
-      "onboard_time": 1747544490,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 218531,
@@ -539,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199118,
+      "num": 218896,
+      "word": "币圈富豪连遭绑架有超10万人爆仓",
+      "onboard_time": 1747544610,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 197061,
       "num": 197061,
       "word": "是女儿是妈妈2飞行嘉宾阵容",
@@ -569,6 +601,14 @@
       "onboard_time": 1747496363,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 188386,
+      "word": "乐乐一家合体",
+      "onboard_time": 1747545090,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188380,
@@ -619,20 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178631,
+      "num": 178631,
+      "word": "杨蓉有一种岁月静好的美感",
+      "onboard_time": 1747545689,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178158,
       "num": 178158,
       "word": "无限暖暖",
       "onboard_time": 1747543110,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174900,
-      "num": 174900,
-      "word": "乐乐一家合体",
-      "onboard_time": 1747545090,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 174576,
@@ -715,20 +755,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 163196,
-      "num": 218896,
-      "word": "币圈富豪连遭绑架有超10万人爆仓",
-      "onboard_time": 1747544610,
-      "rank": 19,
-      "category": "民生新闻,财经"
+      "raw_hot": 161144,
+      "num": 161144,
+      "word": "韩红好宠周震南",
+      "onboard_time": 1747545989,
+      "rank": 25,
+      "category": "演出"
     },
     {
-      "raw_hot": 159845,
-      "num": 159845,
-      "word": "惠英红自曝被换角",
-      "onboard_time": 1747545749,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 158523,
+      "num": 140733,
+      "word": "YOU停薪停职",
+      "onboard_time": 1747546350,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 155277,
@@ -739,14 +779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154340,
-      "num": 154340,
-      "word": "陈赫向孙俪请教",
-      "onboard_time": 1747545749,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "湿气越吃越少的10种食物",
@@ -755,12 +787,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 152681,
+      "num": 152681,
+      "word": "陈梦生理期痛到要吃止痛药",
+      "onboard_time": 1747546461,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150776,
       "num": 150776,
       "word": "藏海到底有几个仇人",
       "onboard_time": 1747542091,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150041,
+      "num": 150041,
+      "word": "靳梦佳好薄一片",
+      "onboard_time": 1747545269,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 149937,
@@ -827,12 +875,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140291,
-      "num": 140291,
-      "word": "靳梦佳好薄一片",
-      "onboard_time": 1747545269,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 142478,
+      "num": 142478,
+      "word": "奇洛李维斯回信清明谷雨",
+      "onboard_time": 1747543231,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 139435,
@@ -849,6 +897,14 @@
       "onboard_time": 1747534829,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138267,
+      "num": 138267,
+      "word": "GAI说自己是炁里的一点",
+      "onboard_time": 1747546640,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 137664,
@@ -931,12 +987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130036,
-      "num": 130036,
-      "word": "杨蓉有一种岁月静好的美感",
-      "onboard_time": 1747545689,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 130125,
+      "num": 130125,
+      "word": "上辈子掌嘴这辈子长嘴",
+      "onboard_time": 1747545930,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 129002,
@@ -1003,12 +1059,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122071,
+      "num": 122071,
+      "word": "谁懂欧阳娣娣社牛的救赎感",
+      "onboard_time": 1747546581,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121068,
       "num": 310802,
       "word": "欢迎福娃和凤仪回国",
       "onboard_time": 1747544791,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120796,
+      "num": 120796,
+      "word": "黄龄把蝴蝶穿身上",
+      "onboard_time": 1747546289,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 119579,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1747502658,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116232,
+      "num": 116232,
+      "word": "星巴克蔬菜卷",
+      "onboard_time": 1747546050,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 116168,
@@ -1459,12 +1539,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52088,
+      "raw_hot": 53364,
       "num": 175310,
       "word": "自制多胞胎婴儿车",
       "onboard_time": 1747544730,
       "rank": 28,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 52721,
+      "num": 311145,
+      "word": "全国每20万人拥有一家博物馆",
+      "onboard_time": 1747544549,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50104,
@@ -1505,14 +1593,6 @@
       "onboard_time": 1747515733,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45435,
-      "num": 145019,
-      "word": "全国每20万人拥有一家博物馆",
-      "onboard_time": 1747544549,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40701,
@@ -1593,6 +1673,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27956,
+      "num": 124662,
+      "word": "德国小哥初次来华被完全震惊",
+      "onboard_time": 1747546289,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27512,

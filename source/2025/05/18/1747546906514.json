@@ -1,0 +1,410 @@
+{
+  "runTime": 1747546906514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555541,
+        "num": 1555541,
+        "word": "拒绝接待中国人的日本餐厅已歇业",
+        "onboard_time": 1747541670,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1086821,
+        "num": 1086821,
+        "word": "11.3万工资给3千老板被法官怒斥",
+        "onboard_time": 1747541131,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24429,
+        "num": 697084,
+        "word": "文化中国行看文物里的绝美配色",
+        "onboard_time": 1747524197,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 607474,
+        "num": 607474,
+        "word": "韩司机好奇为何中国人说韩国小",
+        "onboard_time": 1747541610,
+        "rank": 3,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 389462,
+        "num": 389462,
+        "word": "潘展乐汪顺孙杨晋级200自半决赛",
+        "onboard_time": 1747542091,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374116,
+        "num": 374116,
+        "word": "藏海传开播连更8天",
+        "onboard_time": 1747543591,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331246,
+        "num": 331246,
+        "word": "纽约一大型帆船撞桥",
+        "onboard_time": 1747535609,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 324236,
+        "num": 324236,
+        "word": "藏海传 点天灯",
+        "onboard_time": 1747546050,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312525,
+        "num": 312525,
+        "word": "桃花坞自我介绍社牛天堂社恐地狱",
+        "onboard_time": 1747544849,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52721,
+        "num": 311145,
+        "word": "全国每20万人拥有一家博物馆",
+        "onboard_time": 1747544549,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1449218,
+        "num": 304784,
+        "word": "姜尘谈黄杨钿甜",
+        "onboard_time": 1747545150,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455088,
+        "num": 302718,
+        "word": "陈赫向孙俪请教",
+        "onboard_time": 1747545749,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373808,
+        "num": 299482,
+        "word": "钿到底怎么念",
+        "onboard_time": 1747540410,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296580,
+        "num": 296580,
+        "word": "惠英红自曝被换角",
+        "onboard_time": 1747545749,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267370,
+        "num": 267370,
+        "word": "载有200多人帆船撞上纽约大桥",
+        "onboard_time": 1747535549,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 660812,
+        "num": 266885,
+        "word": "黄杨钿甜爸爸",
+        "onboard_time": 1747526359,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268136,
+        "num": 264397,
+        "word": "西西里岛的刘亦菲",
+        "onboard_time": 1747544490,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261460,
+        "num": 261460,
+        "word": "孟子义说李昀锐身体真好",
+        "onboard_time": 1747538970,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252365,
+        "num": 252365,
+        "word": "林更新签约杨幂新公司",
+        "onboard_time": 1747524978,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199118,
+        "num": 199118,
+        "word": "币圈富豪连遭绑架有超10万人爆仓",
+        "onboard_time": 1747544610,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 193391,
+        "num": 193391,
+        "word": "官方通报老师殴打威胁小学生处理结果",
+        "onboard_time": 1747539990,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188386,
+        "num": 188386,
+        "word": "乐乐一家合体",
+        "onboard_time": 1747545090,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182750,
+        "num": 182750,
+        "word": "艾米拍照时把项链摘了",
+        "onboard_time": 1747523957,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180263,
+        "num": 180263,
+        "word": "折腰",
+        "onboard_time": 1747539329,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178631,
+        "num": 178631,
+        "word": "杨蓉有一种岁月静好的美感",
+        "onboard_time": 1747545689,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161144,
+        "num": 161144,
+        "word": "韩红好宠周震南",
+        "onboard_time": 1747545989,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152681,
+        "num": 152681,
+        "word": "陈梦生理期痛到要吃止痛药",
+        "onboard_time": 1747546461,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150041,
+        "num": 150041,
+        "word": "靳梦佳好薄一片",
+        "onboard_time": 1747545269,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144494,
+        "num": 144494,
+        "word": "螺蛳粉店名撞音当地粗话遭举报",
+        "onboard_time": 1747533630,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142478,
+        "num": 142478,
+        "word": "奇洛李维斯回信清明谷雨",
+        "onboard_time": 1747543231,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 36814,
+        "num": 141066,
+        "word": "70岁老人手写14页感谢信",
+        "onboard_time": 1747544730,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158523,
+        "num": 140733,
+        "word": "YOU停薪停职",
+        "onboard_time": 1747546350,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140096,
+        "num": 140096,
+        "word": "雍和宫许愿副作用",
+        "onboard_time": 1747543110,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138267,
+        "num": 138267,
+        "word": "GAI说自己是炁里的一点",
+        "onboard_time": 1747546640,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53364,
+        "num": 133832,
+        "word": "自制多胞胎婴儿车",
+        "onboard_time": 1747544730,
+        "rank": 34,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 133574,
+        "num": 133574,
+        "word": "关晓彤新剧开机",
+        "onboard_time": 1747542810,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130125,
+        "num": 130125,
+        "word": "上辈子掌嘴这辈子长嘴",
+        "onboard_time": 1747545930,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128142,
+        "num": 128142,
+        "word": "博君一肖 藏海传云包场",
+        "onboard_time": 1747495526,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125777,
+        "num": 125777,
+        "word": "王勉真撕拉片",
+        "onboard_time": 1747544370,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27956,
+        "num": 124662,
+        "word": "德国小哥初次来华被完全震惊",
+        "onboard_time": 1747546289,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 123923,
+        "word": "周深不知道帽子已经掉了",
+        "onboard_time": 1747545031,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122071,
+        "num": 122071,
+        "word": "谁懂欧阳娣娣社牛的救赎感",
+        "onboard_time": 1747546581,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120796,
+        "num": 120796,
+        "word": "黄龄把蝴蝶穿身上",
+        "onboard_time": 1747546289,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120467,
+        "num": 120467,
+        "word": "负债百万女子回应靠扛楼还债",
+        "onboard_time": 1747542509,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120435,
+        "num": 120435,
+        "word": "高位截瘫男孩自驾看雪山",
+        "onboard_time": 1747539510,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116719,
+        "num": 116719,
+        "word": "建议大家把睡觉当成一天的开始",
+        "onboard_time": 1747530628,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116232,
+        "num": 116232,
+        "word": "星巴克蔬菜卷",
+        "onboard_time": 1747546050,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110575,
+        "num": 110575,
+        "word": "时代少年团cos小动物路透",
+        "onboard_time": 1747544431,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108190,
+        "num": 108190,
+        "word": "欢迎福娃和凤仪回国",
+        "onboard_time": 1747544791,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105063,
+        "num": 107521,
+        "word": "恋与制作人",
+        "onboard_time": 1747544610,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述文物里的文明交融#"
+    }
+  }
+}
