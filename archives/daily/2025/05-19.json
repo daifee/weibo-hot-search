@@ -1,14 +1,22 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747610608124,
+  "endTime": 1747611511065,
   "band_list": [
     {
-      "raw_hot": 1167251,
-      "num": 1167251,
+      "raw_hot": 1183966,
+      "num": 1183966,
       "word": "央视曝光永久基本农田竟沦为垃圾场",
       "onboard_time": 1747585464,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1094537,
+      "num": 1094537,
+      "word": "叶晓粤说陈奕迅去世是假新闻",
+      "onboard_time": 1747610541,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 874910,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 789667,
-      "num": 283886,
+      "num": 301430,
       "word": "甘薇让大家别替赵丽颖操心",
       "onboard_time": 1747584445,
       "rank": 12,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 745946,
-      "num": 345944,
+      "num": 367419,
       "word": "藏海传收视率",
       "onboard_time": 1747572262,
       "rank": 6,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 568279,
-      "num": 286232,
+      "num": 312333,
       "word": "小伙摔倒以为没事7天后死亡",
       "onboard_time": 1747579403,
       "rank": 10,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 445177,
-      "num": 201781,
+      "num": 216320,
       "word": "安静公主自曝术后肚子大到像怀孕",
       "onboard_time": 1747588338,
       "rank": 15,
@@ -107,28 +115,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 377144,
-      "num": 281522,
-      "word": "金巧巧本人都认不出的程度",
-      "onboard_time": 1747580303,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 424519,
+      "num": 384553,
+      "word": "黄子韬卫生巾15分钟卖19.5万件",
+      "onboard_time": 1747579704,
+      "rank": 26,
+      "category": "艺人"
     },
     {
-      "raw_hot": 320218,
-      "num": 320218,
+      "raw_hot": 392216,
+      "num": 392216,
       "word": "母子错过航班大闹机场称耽误次日考公",
       "onboard_time": 1747568363,
       "rank": 8,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307814,
-      "num": 307814,
-      "word": "黄子韬卫生巾15分钟卖19.5万件",
-      "onboard_time": 1747579704,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 377144,
+      "num": 281522,
+      "word": "金巧巧本人都认不出的程度",
+      "onboard_time": 1747580303,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 306777,
@@ -145,6 +153,14 @@
       "onboard_time": 1747569562,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290757,
+      "num": 290757,
+      "word": "网红小黄豆没参加高考",
+      "onboard_time": 1747588699,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 287882,
@@ -169,14 +185,6 @@
       "onboard_time": 1747569562,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251678,
-      "num": 251678,
-      "word": "网红小黄豆没参加高考",
-      "onboard_time": 1747588699,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 243325,
@@ -211,6 +219,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 217403,
+      "num": 108904,
+      "word": "王楚钦下轮对阵饭冢",
+      "onboard_time": 1747610720,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216534,
+      "num": 216534,
+      "word": "雷霆4比3掘金",
+      "onboard_time": 1747610541,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208537,
       "num": 208537,
       "word": "妈妈称巨痣男孩术后变得自信阳光",
@@ -225,6 +249,14 @@
       "onboard_time": 1747582945,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201133,
+      "num": 196738,
+      "word": "吃串串买单222根自己数仅119根",
+      "onboard_time": 1747567581,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199890,
@@ -267,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181596,
-      "num": 166248,
-      "word": "吃串串买单222根自己数仅119根",
-      "onboard_time": 1747567581,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173450,
       "num": 173323,
       "word": "安在旭在美开颅手术花费5亿韩元",
@@ -289,6 +313,14 @@
       "onboard_time": 1747580963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152510,
+      "num": 152510,
+      "word": "林高远4比2阿卜杜拉齐兹",
+      "onboard_time": 1747610840,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 152041,
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119912,
+      "num": 119912,
+      "word": "NBA",
+      "onboard_time": 1747610959,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115358,
       "num": 115358,
       "word": "汪苏泷 我们",
@@ -395,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108254,
+      "num": 108254,
+      "word": "一生不缺钱的6大星座",
+      "onboard_time": 1747608917,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106445,
       "num": 106445,
       "word": "林高远vs阿卜杜拉齐兹",
       "onboard_time": 1747584143,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100862,
+      "num": 100862,
+      "word": "新冠阳性率上升三类人要注意",
+      "onboard_time": 1747567640,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100077,
@@ -419,12 +475,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97891,
-      "num": 97891,
-      "word": "新冠阳性率上升三类人要注意",
-      "onboard_time": 1747567640,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 94397,
+      "num": 110700,
+      "word": "党政机关应当严格精简会议",
+      "onboard_time": 1747589419,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 93256,
+      "num": 93256,
+      "word": "张亮不愧是当过爸爸的人",
+      "onboard_time": 1747608738,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92783,
+      "num": 357784,
+      "word": "广厦男篮向北京男篮致歉",
+      "onboard_time": 1747610720,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92309,
+      "num": 232662,
+      "word": "以色列允许向加沙提供基本粮食",
+      "onboard_time": 1747609880,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92129,
@@ -451,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90184,
-      "num": 90184,
-      "word": "张亮不愧是当过爸爸的人",
-      "onboard_time": 1747608738,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87322,
       "num": 141034,
       "word": "心气是一种非常宝贵的资源",
@@ -467,28 +539,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87227,
-      "num": 87227,
-      "word": "一生不缺钱的6大星座",
-      "onboard_time": 1747608917,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 84099,
+      "num": 141930,
+      "word": "阿尔卡拉斯首夺罗马赛冠军",
+      "onboard_time": 1747610780,
+      "rank": 24,
+      "category": "体育"
     },
     {
-      "raw_hot": 80613,
-      "num": 80613,
-      "word": "叶晓粤说陈奕迅去世是假新闻",
-      "onboard_time": 1747610541,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 80232,
-      "num": 80232,
+      "raw_hot": 82512,
+      "num": 82512,
       "word": "折腰要剧本有剧本要演员有演员",
       "onboard_time": 1747590437,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79845,
+      "num": 79845,
+      "word": "藏海传破2",
+      "onboard_time": 1747605735,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79437,
+      "num": 79437,
+      "word": "沈月闺蜜晒沈月与新生儿合照",
+      "onboard_time": 1747600394,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78090,
@@ -499,20 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77613,
-      "num": 77613,
-      "word": "藏海传破2",
-      "onboard_time": 1747605735,
-      "rank": 19,
+      "raw_hot": 77935,
+      "num": 77935,
+      "word": "肖战的招商能力",
+      "onboard_time": 1747611322,
+      "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77392,
-      "num": 110700,
-      "word": "党政机关应当严格精简会议",
-      "onboard_time": 1747589419,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76141,
@@ -531,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65063,
-      "num": 65063,
-      "word": "沈月闺蜜晒沈月与新生儿合照",
-      "onboard_time": 1747600394,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 76046,
+      "num": 76046,
+      "word": "莎头组合说不知道现在排世界第几",
+      "onboard_time": 1747610720,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 60925,
@@ -545,14 +617,6 @@
       "onboard_time": 1747593436,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56437,
-      "num": 56437,
-      "word": "雷霆4比3掘金",
-      "onboard_time": 1747610541,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 55886,
@@ -568,6 +632,14 @@
       "word": "哈马斯指挥官穆罕默德辛瓦尔身亡",
       "onboard_time": 1747586901,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 54319,
+      "num": 232609,
+      "word": "美国恶劣天气已造成至少28人死亡",
+      "onboard_time": 1747610119,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -603,7 +675,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35112,
+      "raw_hot": 39831,
       "num": 739077,
       "word": "天问二号一次发射实施任务可不少",
       "onboard_time": 1747573162,
@@ -619,12 +691,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30072,
-      "num": 232662,
-      "word": "以色列允许向加沙提供基本粮食",
-      "onboard_time": 1747609880,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 30265,
+      "num": 80158,
+      "word": "林高远说每一场单打都不容易",
+      "onboard_time": 1747611440,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 28103,
@@ -667,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22245,
+      "num": 348175,
+      "word": "俄乌会谈成果寥寥原因何在",
+      "onboard_time": 1747610600,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19934,
       "num": 25761,
       "word": "世上再无稚奴只有藏海",
@@ -675,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17614,
-      "num": 232609,
-      "word": "美国恶劣天气已造成至少28人死亡",
-      "onboard_time": 1747610119,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 17101,
+      "num": 94382,
+      "word": "王曼昱蒯曼3比0韦格申威尔戈斯",
+      "onboard_time": 1747611382,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 14590,
