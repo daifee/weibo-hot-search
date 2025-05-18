@@ -1,14 +1,22 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747542793033,
+  "endTime": 1747543728328,
   "band_list": [
     {
-      "raw_hot": 1607959,
+      "raw_hot": 1627921,
       "num": 241390,
       "word": "原来卧室是可以有两层有楼梯的",
       "onboard_time": 1747539209,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1431037,
+      "num": 1431037,
+      "word": "11.3万工资给3千老板被法官怒斥",
+      "onboard_time": 1747541131,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1290387,
@@ -43,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1002841,
+      "num": 1002841,
+      "word": "拒绝接待中国人的日本餐厅已歇业",
+      "onboard_time": 1747541670,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 967550,
       "num": 1154808,
       "word": "载有200多人帆船撞上纽约大桥",
       "onboard_time": 1747535549,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 941932,
-      "num": 1150709,
-      "word": "11.3万工资给3千老板被法官怒斥",
-      "onboard_time": 1747541131,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 941536,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720789,
+      "num": 204038,
+      "word": "韩司机好奇为何中国人说韩国小",
+      "onboard_time": 1747541610,
+      "rank": 31,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 687602,
       "num": 286571,
       "word": "艾米拍照时把项链摘了",
@@ -121,6 +137,14 @@
       "onboard_time": 1747482141,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571036,
+      "num": 571036,
+      "word": "潘展乐汪顺孙杨晋级200自半决赛",
+      "onboard_time": 1747542091,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 500948,
@@ -163,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 415318,
-      "num": 146724,
-      "word": "韩司机好奇为何中国人说韩国小",
-      "onboard_time": 1747541610,
-      "rank": 31,
-      "category": "海外新闻,民生新闻"
+      "raw_hot": 396453,
+      "num": 396453,
+      "word": "孟子义说李昀锐身体真好",
+      "onboard_time": 1747538970,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 385479,
@@ -179,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373433,
-      "num": 373433,
-      "word": "拒绝接待中国人的日本餐厅已歇业",
-      "onboard_time": 1747541670,
-      "rank": 4,
-      "category": "海外新闻"
+      "raw_hot": 368652,
+      "num": 368652,
+      "word": "官方通报老师殴打威胁小学生处理结果",
+      "onboard_time": 1747539990,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 359962,
@@ -211,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354822,
-      "num": 354822,
-      "word": "孟子义说李昀锐身体真好",
-      "onboard_time": 1747538970,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 353664,
       "num": 353664,
       "word": "马克龙被埃尔多安拽住手指",
@@ -241,14 +257,6 @@
       "onboard_time": 1747494927,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337920,
-      "num": 337920,
-      "word": "官方通报老师殴打威胁小学生处理结果",
-      "onboard_time": 1747539990,
-      "rank": 33,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 337118,
@@ -289,6 +297,14 @@
       "onboard_time": 1747486163,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 300320,
+      "num": 300320,
+      "word": "高位截瘫男孩自驾看雪山",
+      "onboard_time": 1747539510,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292684,
@@ -355,22 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 256717,
-      "num": 256717,
-      "word": "潘展乐汪顺孙杨晋级200自半决赛",
-      "onboard_time": 1747542091,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 245659,
-      "num": 245659,
-      "word": "高位截瘫男孩自驾看雪山",
-      "onboard_time": 1747539510,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244746,
       "num": 244746,
       "word": "莎头 混双",
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208246,
+      "num": 208246,
+      "word": "折腰",
+      "onboard_time": 1747539329,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206208,
       "num": 186729,
       "word": "魏大勋李诚儒对手戏",
@@ -467,20 +475,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200546,
+      "num": 197867,
+      "word": "许嵩蝴蝶立麦竟然会动",
+      "onboard_time": 1747542810,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
       "onboard_time": 1747485803,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197506,
-      "num": 197506,
-      "word": "折腰",
-      "onboard_time": 1747539329,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 197061,
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188380,
+      "num": 188749,
+      "word": "范思哲 丁禹兮",
+      "onboard_time": 1747539750,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184043,
       "num": 178137,
       "word": "以为病了其实是衰老的正常表现",
@@ -515,12 +531,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183640,
+      "num": 183640,
+      "word": "关晓彤新剧开机",
+      "onboard_time": 1747542810,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183393,
       "num": 183393,
       "word": "美媒说出关税最残酷真相",
       "onboard_time": 1747496183,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178158,
+      "num": 178158,
+      "word": "无限暖暖",
+      "onboard_time": 1747543110,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 174576,
@@ -545,14 +577,6 @@
       "onboard_time": 1747539450,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 171147,
-      "num": 188749,
-      "word": "范思哲 丁禹兮",
-      "onboard_time": 1747539750,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169690,
@@ -587,12 +611,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166318,
+      "num": 181708,
+      "word": "刘涛说刘奕畅演不好",
+      "onboard_time": 1747542930,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164590,
       "num": 287818,
       "word": "美国多地强风暴致27死",
       "onboard_time": 1747533089,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156571,
+      "num": 156571,
+      "word": "藏海传开播连更8天",
+      "onboard_time": 1747543591,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155277,
+      "num": 155277,
+      "word": "雍和宫许愿副作用",
+      "onboard_time": 1747543110,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 150776,
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 134262,
-      "num": 146726,
+      "num": 179644,
       "word": "央视重磅披露歼10C击落战绩",
       "onboard_time": 1747541670,
       "rank": 30,
@@ -804,7 +852,7 @@
     },
     {
       "raw_hot": 123840,
-      "num": 147985,
+      "num": 164020,
       "word": "戛纳红毯出圈造型",
       "onboard_time": 1747532249,
       "rank": 29,
@@ -937,6 +985,14 @@
       "onboard_time": 1747537290,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104297,
+      "num": 196800,
+      "word": "纽约一大型帆船撞桥",
+      "onboard_time": 1747535609,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 104256,
@@ -1195,6 +1251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69247,
+      "num": 134890,
+      "word": "许嵩 集美们在哪里",
+      "onboard_time": 1747542271,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 67112,
       "num": 67112,
       "word": "汪苏泷银河星尘造型好绝",
@@ -1252,11 +1316,19 @@
     },
     {
       "raw_hot": 49136,
-      "num": 458197,
+      "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
       "onboard_time": 1747524197,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48703,
+      "num": 565248,
+      "word": "一眼千年入镜来",
+      "onboard_time": 1747541610,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 48642,
@@ -1265,6 +1337,14 @@
       "onboard_time": 1747515733,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44575,
+      "num": 193968,
+      "word": "负债百万女子回应靠扛楼还债",
+      "onboard_time": 1747542509,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40701,
@@ -1280,14 +1360,6 @@
       "word": "走进这些博物馆感触民族脊梁",
       "onboard_time": 1747538609,
       "rank": 26,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 37924,
-      "num": 565248,
-      "word": "一眼千年入镜来",
-      "onboard_time": 1747541610,
-      "rank": 2,
       "category": "正能量"
     },
     {
@@ -1387,20 +1459,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23593,
+      "num": 140039,
+      "word": "100个初级会计考试知识点",
+      "onboard_time": 1747542690,
+      "rank": 39,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 21533,
       "num": 159693,
       "word": "普京特朗普正在准备电话会谈",
       "onboard_time": 1747524559,
       "rank": 9,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 21269,
-      "num": 140039,
-      "word": "100个初级会计考试知识点",
-      "onboard_time": 1747542690,
-      "rank": 39,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 20402,
@@ -1475,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13978,
+      "num": 192641,
+      "word": "美国多地强风暴天气是怎么形成的",
+      "onboard_time": 1747542690,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13934,
       "num": 23219,
       "word": "成毅待播剧生日贺图",
@@ -1483,20 +1563,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13821,
+      "num": 184198,
+      "word": "如何科学提升优质蛋白的摄入",
+      "onboard_time": 1747543591,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13308,
       "num": 22084,
       "word": "房东的猫演唱会嘉宾是郁可唯",
       "onboard_time": 1747510154,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12207,
-      "num": 187432,
-      "word": "负债百万女子回应靠扛楼还债",
-      "onboard_time": 1747542509,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12050,
@@ -1521,14 +1601,6 @@
       "onboard_time": 1747541790,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 10104,
-      "num": 140459,
-      "word": "美国多地强风暴天气是怎么形成的",
-      "onboard_time": 1747542690,
-      "rank": 38,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
@@ -1540,6 +1612,9 @@
     },
     {
       "word": "#习近平讲述文物里的文明交融#"
+    },
+    {
+      "word": "#历史何其悠久文明何其博大#"
     }
   ]
 }
