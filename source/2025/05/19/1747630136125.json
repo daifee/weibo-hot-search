@@ -1,0 +1,410 @@
+{
+  "runTime": 1747630136125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2210234,
+        "num": 2210234,
+        "word": "雷军发长文",
+        "onboard_time": 1747627102,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1570890,
+        "num": 1570890,
+        "word": "以前的奶茶 30块",
+        "onboard_time": 1747626983,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13882,
+        "num": 1315080,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1268761,
+        "num": 1268761,
+        "word": "小米YU7",
+        "onboard_time": 1747622842,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1115028,
+        "num": 1115028,
+        "word": "叶晓粤说陈奕迅去世是假新闻",
+        "onboard_time": 1747610541,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036100,
+        "num": 1036100,
+        "word": "央视曝光怕被卫星拍到的垃圾山",
+        "onboard_time": 1747622902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1429811,
+        "num": 1021231,
+        "word": "张九龄结婚",
+        "onboard_time": 1747622661,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975195,
+        "num": 975195,
+        "word": "拜登癌细胞扩散至骨骼",
+        "onboard_time": 1747612942,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 765037,
+        "num": 765037,
+        "word": "原来难带的孩子是天生的",
+        "onboard_time": 1747627102,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107569,
+        "num": 572458,
+        "word": "老年人想租个房到底有多难",
+        "onboard_time": 1747629504,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562098,
+        "num": 562098,
+        "word": "陈奕迅原定三场演出延期至5月底",
+        "onboard_time": 1747628664,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114843,
+        "num": 554993,
+        "word": "孟子义导演卫生巾广告",
+        "onboard_time": 1747627763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76536,
+        "num": 540495,
+        "word": "王一博把自己养得很好",
+        "onboard_time": 1747629625,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 534894,
+        "word": "航司回应母子错过航班坐地哭喊",
+        "onboard_time": 1747629203,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62098,
+        "num": 522077,
+        "word": "当地通报废旧工厂成非法垃圾山",
+        "onboard_time": 1747628605,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512675,
+        "num": 512675,
+        "word": "金子涵说不觉得是私联违反的行为",
+        "onboard_time": 1747624643,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466987,
+        "num": 466987,
+        "word": "绿联 易烊千玺",
+        "onboard_time": 1747627827,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415856,
+        "num": 415856,
+        "word": "藏海微do了",
+        "onboard_time": 1747612102,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341361,
+        "num": 407971,
+        "word": "拜登前列腺癌",
+        "onboard_time": 1747613304,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23687,
+        "num": 401306,
+        "word": "情侣如何避免恋爱期体重失控",
+        "onboard_time": 1747629084,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 148865,
+        "num": 396174,
+        "word": "大马力电车更要敬畏安全",
+        "onboard_time": 1747628245,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 633880,
+        "num": 386467,
+        "word": "金价",
+        "onboard_time": 1747620563,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 381293,
+        "num": 381293,
+        "word": "叶晓粤称看粉丝着急才发文澄清",
+        "onboard_time": 1747629144,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371835,
+        "num": 371835,
+        "word": "Lisa应该已经见到萨西米了吧",
+        "onboard_time": 1747625963,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20654,
+        "num": 349359,
+        "word": "今年前4月全国固定资产投资增长4%",
+        "onboard_time": 1747629443,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 161763,
+        "num": 344714,
+        "word": "小米玄戒O1性能紧追苹果A18Pro",
+        "onboard_time": 1747627704,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344582,
+        "num": 344582,
+        "word": "九重紫 窦昭篇",
+        "onboard_time": 1747627164,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330680,
+        "num": 330680,
+        "word": "藏海时影魏婴丧葬一条龙",
+        "onboard_time": 1747624282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40928,
+        "num": 308359,
+        "word": "以色列称将立即允许人道物资进加沙",
+        "onboard_time": 1747629985,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162166,
+        "num": 303980,
+        "word": "折腰好丝滑的一镜到底",
+        "onboard_time": 1747629625,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300043,
+        "num": 300043,
+        "word": "警方通报网传2飞车党追幼儿园女孩",
+        "onboard_time": 1747628605,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269018,
+        "num": 269018,
+        "word": "黄杨钿甜同款耳环仿款售价不到百元",
+        "onboard_time": 1747586721,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257849,
+        "num": 257849,
+        "word": "闪耀暖暖",
+        "onboard_time": 1747629684,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237099,
+        "num": 237099,
+        "word": "生理期请假要脱裤自证是典型一刀切",
+        "onboard_time": 1747626564,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236405,
+        "num": 236405,
+        "word": "巴基斯坦拟采购40架J35A",
+        "onboard_time": 1747628124,
+        "rank": 34,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 211352,
+        "num": 211352,
+        "word": "DRG维权声明",
+        "onboard_time": 1747629865,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209255,
+        "num": 209255,
+        "word": "何泓姗连播两部剧都破3w",
+        "onboard_time": 1747629865,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203968,
+        "num": 203968,
+        "word": "小米玄戒O1芯片",
+        "onboard_time": 1747629384,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202155,
+        "num": 202155,
+        "word": "孙颖莎二次调整太强了",
+        "onboard_time": 1747628964,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201371,
+        "num": 201371,
+        "word": "雷军官宣小米新品发布会时间",
+        "onboard_time": 1747621642,
+        "rank": 39,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 21651,
+        "num": 200682,
+        "word": "前列腺癌转移能治愈吗",
+        "onboard_time": 1747630044,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200528,
+        "num": 200528,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 41,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 197011,
+        "num": 197011,
+        "word": "韶华若锦开播",
+        "onboard_time": 1747625003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195488,
+        "num": 195488,
+        "word": "小米15SPro",
+        "onboard_time": 1747629384,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25955,
+        "num": 186600,
+        "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+        "onboard_time": 1747630104,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181802,
+        "num": 181802,
+        "word": "再见爱人再见Lisa",
+        "onboard_time": 1747618102,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177465,
+        "num": 177465,
+        "word": "周冬雨张凌赫G社生图",
+        "onboard_time": 1747615293,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164972,
+        "num": 164972,
+        "word": "学习的本质是极致的重复",
+        "onboard_time": 1747628905,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158949,
+        "num": 158949,
+        "word": "韩素希戛纳白裙造型",
+        "onboard_time": 1747628365,
+        "rank": 48,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 157881,
+        "num": 157881,
+        "word": "伯恩山洗完澡后变成了海参",
+        "onboard_time": 1747629144,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}

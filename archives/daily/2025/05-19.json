@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747629239036,
+  "endTime": 1747630136125,
   "band_list": [
     {
       "raw_hot": 2473467,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1570890,
+      "num": 1570890,
+      "word": "以前的奶茶 30块",
+      "onboard_time": 1747626983,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1530520,
       "num": 1530520,
       "word": "叶晓粤说陈奕迅去世是假新闻",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1004315,
-      "num": 308003,
+      "num": 386467,
       "word": "金价",
       "onboard_time": 1747620563,
       "rank": 14,
@@ -105,14 +113,6 @@
       "onboard_time": 1747627102,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 815563,
-      "num": 815563,
-      "word": "以前的奶茶 30块",
-      "onboard_time": 1747626983,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 797905,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562098,
+      "num": 562098,
+      "word": "陈奕迅原定三场演出延期至5月底",
+      "onboard_time": 1747628664,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 520589,
       "num": 352553,
       "word": "王俊凯工作室",
@@ -203,11 +211,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509133,
-      "num": 509133,
+      "raw_hot": 512675,
+      "num": 512675,
       "word": "金子涵说不觉得是私联违反的行为",
       "onboard_time": 1747624643,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 466987,
+      "num": 466987,
+      "word": "绿联 易烊千玺",
+      "onboard_time": 1747627827,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -275,14 +291,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 409547,
-      "num": 409547,
-      "word": "绿联 易烊千玺",
-      "onboard_time": 1747627827,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403797,
       "num": 403797,
       "word": "藏海时影魏婴丧葬一条龙",
@@ -297,6 +305,14 @@
       "onboard_time": 1747568363,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381293,
+      "num": 381293,
+      "word": "叶晓粤称看粉丝着急才发文澄清",
+      "onboard_time": 1747629144,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 377539,
@@ -329,6 +345,14 @@
       "onboard_time": 1747585524,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 300043,
+      "num": 300043,
+      "word": "警方通报网传2飞车党追幼儿园女孩",
+      "onboard_time": 1747628605,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294738,
@@ -387,8 +411,16 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 257849,
+      "num": 257849,
+      "word": "闪耀暖暖",
+      "onboard_time": 1747629684,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250725,
-      "num": 208955,
+      "num": 236405,
       "word": "巴基斯坦拟采购40架J35A",
       "onboard_time": 1747628124,
       "rank": 31,
@@ -432,6 +464,14 @@
       "word": "49岁从三甲医院辞职北漂进大厂",
       "onboard_time": 1747622361,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237099,
+      "num": 237099,
+      "word": "生理期请假要脱裤自证是典型一刀切",
+      "onboard_time": 1747626564,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -483,14 +523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219004,
-      "num": 237707,
-      "word": "警方通报网传2飞车党追幼儿园女孩",
-      "onboard_time": 1747628605,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217403,
       "num": 108904,
       "word": "王楚钦下轮对阵饭冢",
@@ -523,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211352,
+      "num": 211352,
+      "word": "DRG维权声明",
+      "onboard_time": 1747629865,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210432,
       "num": 210432,
       "word": "石凯新歌",
       "onboard_time": 1747612161,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209255,
+      "num": 209255,
+      "word": "何泓姗连播两部剧都破3w",
+      "onboard_time": 1747629865,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 208537,
@@ -555,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203968,
+      "num": 203968,
+      "word": "小米玄戒O1芯片",
+      "onboard_time": 1747629384,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203437,
       "num": 203437,
       "word": "对美国欧盟等共聚聚甲醛征反倾销税",
@@ -571,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202155,
+      "num": 202155,
+      "word": "孙颖莎二次调整太强了",
+      "onboard_time": 1747628964,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201877,
       "num": 201877,
       "word": "全世界的偶像剧在这一刻弱爆了",
@@ -585,6 +649,14 @@
       "onboard_time": 1747567581,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200528,
+      "num": 200528,
+      "word": "3nm",
+      "onboard_time": 1747629985,
+      "rank": 41,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 199910,
@@ -619,14 +691,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 197221,
-      "num": 197221,
-      "word": "孙颖莎二次调整太强了",
-      "onboard_time": 1747628964,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196093,
       "num": 196093,
       "word": "房东的空调比我岁数都大",
@@ -643,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195488,
+      "num": 195488,
+      "word": "小米15SPro",
+      "onboard_time": 1747629384,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "杨紫芭莎六月大片",
@@ -657,14 +729,6 @@
       "onboard_time": 1747579523,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193073,
-      "num": 193073,
-      "word": "生理期请假要脱裤自证是典型一刀切",
-      "onboard_time": 1747626564,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192807,
@@ -684,7 +748,7 @@
     },
     {
       "raw_hot": 186507,
-      "num": 234835,
+      "num": 396174,
       "word": "大马力电车更要敬畏安全",
       "onboard_time": 1747628245,
       "rank": 23,
@@ -708,7 +772,7 @@
     },
     {
       "raw_hot": 177192,
-      "num": 227165,
+      "num": 344714,
       "word": "小米玄戒O1性能紧追苹果A18Pro",
       "onboard_time": 1747627704,
       "rank": 26,
@@ -747,14 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 164146,
-      "num": 164146,
-      "word": "陈奕迅原定三场演出延期至5月底",
-      "onboard_time": 1747628664,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163359,
       "num": 162560,
       "word": "耶耶带大的小猫",
@@ -779,12 +835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162166,
+      "num": 303980,
+      "word": "折腰好丝滑的一镜到底",
+      "onboard_time": 1747629625,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160444,
       "num": 160444,
       "word": "金子涵回应交朋友",
       "onboard_time": 1747624524,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158949,
+      "num": 209977,
+      "word": "韩素希戛纳白裙造型",
+      "onboard_time": 1747628365,
+      "rank": 29,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 157837,
@@ -817,14 +889,6 @@
       "onboard_time": 1747593074,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151962,
-      "num": 209977,
-      "word": "韩素希戛纳白裙造型",
-      "onboard_time": 1747628365,
-      "rank": 29,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 151955,
@@ -932,7 +996,7 @@
     },
     {
       "raw_hot": 130848,
-      "num": 318721,
+      "num": 554993,
       "word": "孟子义导演卫生巾广告",
       "onboard_time": 1747627763,
       "rank": 16,
@@ -1081,6 +1145,14 @@
       "onboard_time": 1747608917,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107569,
+      "num": 572458,
+      "word": "老年人想租个房到底有多难",
+      "onboard_time": 1747629504,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106445,
@@ -1291,6 +1363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85610,
+      "num": 534894,
+      "word": "航司回应母子错过航班坐地哭喊",
+      "onboard_time": 1747629203,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84099,
       "num": 141930,
       "word": "阿尔卡拉斯首夺罗马赛冠军",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1747611322,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76536,
+      "num": 540495,
+      "word": "王一博把自己养得很好",
+      "onboard_time": 1747629625,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 76141,
@@ -1395,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62098,
+      "num": 562156,
+      "word": "当地通报废旧工厂成非法垃圾山",
+      "onboard_time": 1747628605,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61609,
       "num": 282900,
       "word": "戈登和库里的伤势有什么区别",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1747593436,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57149,
-      "num": 562156,
-      "word": "当地通报废旧工厂成非法垃圾山",
-      "onboard_time": 1747628605,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55886,
@@ -1483,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46855,
-      "num": 177278,
-      "word": "航司回应母子错过航班坐地哭喊",
-      "onboard_time": 1747629203,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44965,
       "num": 332268,
       "word": "新工体京东618歌会首开情侣座",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1747592835,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40928,
+      "num": 308359,
+      "word": "以色列称将立即允许人道物资进加沙",
+      "onboard_time": 1747629985,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39831,
@@ -1572,11 +1660,19 @@
     },
     {
       "raw_hot": 26165,
-      "num": 199502,
+      "num": 401306,
       "word": "情侣如何避免恋爱期体重失控",
       "onboard_time": 1747629084,
       "rank": 33,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 25955,
+      "num": 186600,
+      "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+      "onboard_time": 1747630104,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 25710,
@@ -1633,6 +1729,22 @@
       "onboard_time": 1747610600,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21651,
+      "num": 200682,
+      "word": "前列腺癌转移能治愈吗",
+      "onboard_time": 1747630044,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20654,
+      "num": 349359,
+      "word": "今年前4月全国固定资产投资增长4%",
+      "onboard_time": 1747629443,
+      "rank": 24,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 19934,
