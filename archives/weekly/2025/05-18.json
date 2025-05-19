@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747697051571,
+  "endTime": 1747697927485,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766849,
+      "num": 619394,
+      "word": "不是黄杨钿甜都不知道啥是火彩",
+      "onboard_time": 1747666287,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761001,
       "num": 761001,
       "word": "孙杨800自退赛",
@@ -801,6 +809,14 @@
       "onboard_time": 1747551801,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 701780,
+      "num": 701780,
+      "word": "小伙一年卖出255辆宝马年收入71万",
+      "onboard_time": 1747676296,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 692733,
@@ -915,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 619394,
-      "num": 619394,
-      "word": "不是黄杨钿甜都不知道啥是火彩",
-      "onboard_time": 1747666287,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 618739,
       "num": 352553,
       "word": "王俊凯工作室",
@@ -960,14 +968,6 @@
       "word": "母子错过航班大闹机场称耽误次日考公",
       "onboard_time": 1747568363,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 600288,
-      "num": 600288,
-      "word": "小伙一年卖出255辆宝马年收入71万",
-      "onboard_time": 1747676296,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506684,
+      "num": 441791,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505494,
       "num": 266097,
       "word": "孙千好辣",
@@ -1153,6 +1161,14 @@
       "onboard_time": 1747470322,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 500163,
+      "num": 500163,
+      "word": "国际乒联回应王楚钦球拍受损",
+      "onboard_time": 1747697060,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 497953,
@@ -1275,12 +1291,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 441791,
-      "num": 441791,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 444004,
+      "num": 321826,
+      "word": "68岁摩的司机两次性侵14岁女学生",
+      "onboard_time": 1747696398,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440147,
@@ -1321,6 +1337,14 @@
       "onboard_time": 1747579704,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424458,
+      "num": 424458,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423040,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1747629144,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380359,
-      "num": 380359,
-      "word": "网店称去年退回衣服中有30多副耳机",
-      "onboard_time": 1747664490,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380066,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1747538849,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342996,
+      "num": 734826,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341953,
@@ -1865,14 +1889,6 @@
       "onboard_time": 1747565601,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298738,
-      "num": 221916,
-      "word": "68岁摩的司机两次性侵14岁女学生",
-      "onboard_time": 1747696398,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296580,
@@ -2331,14 +2347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 243314,
-      "num": 734826,
-      "word": "母子大闹机场不该由社会买单",
-      "onboard_time": 1747665446,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243047,
       "num": 243047,
       "word": "天眼查",
@@ -2547,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222502,
+      "num": 250582,
+      "word": "球拍检测各球队可派一人全程跟随",
+      "onboard_time": 1747696939,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222485,
       "num": 222485,
       "word": "22岁小伙上班途中遇意外判脑死亡",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1747657042,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213462,
+      "num": 213462,
+      "word": "莎头组合因对手退赛直接晋级8强",
+      "onboard_time": 1747696879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 213392,
@@ -3723,6 +3747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183194,
+      "num": 183194,
+      "word": "美俄总统通话超2小时",
+      "onboard_time": 1747696279,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183139,
       "num": 183139,
       "word": "藏海等了三千三百二十五个日夜",
@@ -3828,7 +3860,7 @@
     },
     {
       "raw_hot": 177015,
-      "num": 177015,
+      "num": 239785,
       "word": "肖战张婧仪周奇黄觉拍立得合照",
       "onboard_time": 1747670843,
       "rank": 25,
@@ -4369,6 +4401,14 @@
       "onboard_time": 1747642404,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158280,
+      "num": 158280,
+      "word": "存款利率新一轮下调",
+      "onboard_time": 1747697179,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 158212,
@@ -5251,6 +5291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130733,
+      "num": 130733,
+      "word": "国际乒联",
+      "onboard_time": 1747697119,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "塔克拉玛干沙漠10万株玫瑰惊艳绽放",
+      "onboard_time": 1747694836,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130328,
       "num": 130328,
       "word": "仙逆89集",
@@ -5787,6 +5843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116108,
+      "num": 116108,
+      "word": "黄子韬谈徐艺洋的生理期",
+      "onboard_time": 1747697721,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116093,
+      "num": 110800,
+      "word": "如果你经常侧睡导致圆肩扣肩",
+      "onboard_time": 1747697479,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116047,
       "num": 116047,
       "word": "吴宣仪没有辜负她的青春",
@@ -6041,14 +6113,6 @@
       "onboard_time": 1747608917,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107768,
-      "num": 107768,
-      "word": "塔克拉玛干沙漠10万株玫瑰惊艳绽放",
-      "onboard_time": 1747694836,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107541,
@@ -6315,12 +6379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98406,
-      "num": 98406,
-      "word": "美俄总统通话超2小时",
-      "onboard_time": 1747696279,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 97328,
+      "num": 97328,
+      "word": "胖东来多位高管和员工发声",
+      "onboard_time": 1747697479,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97221,
@@ -6419,6 +6483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93623,
+      "num": 237880,
+      "word": "普京称愿与乌就和平条约起草备忘录",
+      "onboard_time": 1747697119,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93266,
       "num": 93266,
       "word": "WBG首发辅助Hang",
@@ -6433,6 +6505,14 @@
       "onboard_time": 1747608738,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93016,
+      "num": 93016,
+      "word": "71岁的成龙比20岁的我还灵活",
+      "onboard_time": 1747693818,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 92950,
@@ -6593,14 +6673,6 @@
       "onboard_time": 1747490726,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87801,
-      "num": 87801,
-      "word": "71岁的成龙比20岁的我还灵活",
-      "onboard_time": 1747693818,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 87322,
@@ -6875,6 +6947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77090,
+      "num": 77090,
+      "word": "你见过凌晨三点的武汉吗",
+      "onboard_time": 1747697179,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77043,
       "num": 77043,
       "word": "陈志朋把初代男团的敬业带到超越班",
@@ -6945,6 +7025,14 @@
       "onboard_time": 1747534710,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74568,
+      "num": 74568,
+      "word": "冷门但可以找到双休公司的野路子",
+      "onboard_time": 1747697479,
+      "rank": 44,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 74204,
@@ -7091,6 +7179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67734,
+      "num": 67734,
+      "word": "情头",
+      "onboard_time": 1747697660,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67112,
       "num": 67112,
       "word": "汪苏泷银河星尘造型好绝",
@@ -7137,6 +7233,14 @@
       "onboard_time": 1747642583,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 65749,
+      "num": 65749,
+      "word": "莎头组合混双对手因伤退赛",
+      "onboard_time": 1747697840,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 64654,
@@ -7235,14 +7339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59736,
-      "num": 59736,
-      "word": "球拍检测各球队可派一人全程跟随",
-      "onboard_time": 1747696939,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59174,
       "num": 59174,
       "word": "许嵩演唱会被惊喜庆生的反应",
@@ -7321,14 +7417,6 @@
       "onboard_time": 1747673240,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56404,
-      "num": 56404,
-      "word": "莎头组合因对手退赛直接晋级8强",
-      "onboard_time": 1747696879,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 55979,

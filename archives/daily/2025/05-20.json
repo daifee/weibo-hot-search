@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747697051571,
+  "endTime": 1747697927485,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -51,7 +51,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 619394,
+      "raw_hot": 766849,
       "num": 619394,
       "word": "不是黄杨钿甜都不知道啥是火彩",
       "onboard_time": 1747666287,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 600288,
-      "num": 600288,
+      "raw_hot": 701780,
+      "num": 701780,
       "word": "小伙一年卖出255辆宝马年收入71万",
       "onboard_time": 1747676296,
       "rank": 17,
@@ -75,6 +75,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506684,
+      "num": 413731,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 500163,
+      "num": 500163,
+      "word": "国际乒联回应王楚钦球拍受损",
+      "onboard_time": 1747697060,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456105,
       "num": 456105,
       "word": "雨果球拍也疑似沾染异物",
@@ -83,12 +99,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418647,
-      "num": 413731,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 444004,
+      "num": 321826,
+      "word": "68岁摩的司机两次性侵14岁女学生",
+      "onboard_time": 1747696398,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424458,
+      "num": 424458,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403834,
+      "num": 403834,
+      "word": "王楚钦说对组织办赛很失望",
+      "onboard_time": 1747667665,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 400058,
@@ -115,20 +147,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 358308,
-      "num": 358308,
-      "word": "王楚钦说对组织办赛很失望",
-      "onboard_time": 1747667665,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 355868,
       "num": 355868,
       "word": "王楚钦球拍胶皮被人揭开了",
       "onboard_time": 1747663410,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342996,
+      "num": 342996,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340031,
@@ -147,24 +179,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 311637,
-      "num": 311637,
-      "word": "网店称去年退回衣服中有30多副耳机",
-      "onboard_time": 1747664490,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298738,
-      "num": 221916,
-      "word": "68岁摩的司机两次性侵14岁女学生",
-      "onboard_time": 1747696398,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267072,
-      "num": 267072,
+      "raw_hot": 284417,
+      "num": 284417,
       "word": "泰国DJ与毒枭老大女友有染遭枪杀",
       "onboard_time": 1747642764,
       "rank": 17,
@@ -179,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259337,
+      "num": 259337,
+      "word": "主裁称王楚钦球拍没问题",
+      "onboard_time": 1747662567,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244436,
       "num": 217632,
       "word": "旭旭宝宝 赵露",
       "onboard_time": 1747671739,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243314,
-      "num": 243314,
-      "word": "母子大闹机场不该由社会买单",
-      "onboard_time": 1747665446,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242416,
@@ -203,20 +219,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228658,
-      "num": 228658,
-      "word": "主裁称王楚钦球拍没问题",
-      "onboard_time": 1747662567,
-      "rank": 48,
+      "raw_hot": 222502,
+      "num": 250582,
+      "word": "球拍检测各球队可派一人全程跟随",
+      "onboard_time": 1747696939,
+      "rank": 39,
       "category": "体育"
     },
     {
       "raw_hot": 220832,
-      "num": 220832,
+      "num": 228596,
       "word": "桃花坞打码",
       "onboard_time": 1747658904,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213462,
+      "num": 213462,
+      "word": "莎头组合因对手退赛直接晋级8强",
+      "onboard_time": 1747696879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 199328,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183194,
+      "num": 183194,
+      "word": "美俄总统通话超2小时",
+      "onboard_time": 1747696279,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182914,
       "num": 182914,
       "word": "虞书欣爸爸维权声明",
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 177015,
-      "num": 177015,
+      "num": 239785,
       "word": "肖战张婧仪周奇黄觉拍立得合照",
       "onboard_time": 1747670843,
       "rank": 25,
@@ -257,6 +289,14 @@
       "onboard_time": 1747669644,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158280,
+      "num": 158280,
+      "word": "存款利率新一轮下调",
+      "onboard_time": 1747697179,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 152074,
@@ -299,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130733,
+      "num": 130733,
+      "word": "国际乒联",
+      "onboard_time": 1747697119,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "塔克拉玛干沙漠10万株玫瑰惊艳绽放",
+      "onboard_time": 1747694836,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129444,
       "num": 129444,
       "word": "货车司机深夜下车睡觉被狼咬伤",
@@ -323,6 +379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116108,
+      "num": 116108,
+      "word": "黄子韬谈徐艺洋的生理期",
+      "onboard_time": 1747697721,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116093,
+      "num": 110800,
+      "word": "如果你经常侧睡导致圆肩扣肩",
+      "onboard_time": 1747697479,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112176,
       "num": 112176,
       "word": "王楚钦赛后副拍通过检测",
@@ -339,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107768,
-      "num": 107768,
-      "word": "塔克拉玛干沙漠10万株玫瑰惊艳绽放",
-      "onboard_time": 1747694836,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104287,
       "num": 104287,
       "word": "张子枫戛纳电影节造型",
       "onboard_time": 1747668802,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104279,
+      "num": 104279,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 101127,
@@ -371,16 +443,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98406,
-      "num": 98406,
-      "word": "美俄总统通话超2小时",
-      "onboard_time": 1747696279,
-      "rank": 26,
+      "raw_hot": 97328,
+      "num": 97328,
+      "word": "胖东来多位高管和员工发声",
+      "onboard_time": 1747697479,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93623,
+      "num": 237880,
+      "word": "普京称愿与乌就和平条约起草备忘录",
+      "onboard_time": 1747697119,
+      "rank": 17,
       "category": "国际时政"
     },
     {
-      "raw_hot": 87801,
-      "num": 87801,
+      "raw_hot": 93016,
+      "num": 93016,
       "word": "71岁的成龙比20岁的我还灵活",
       "onboard_time": 1747693818,
       "rank": 38,
@@ -393,14 +473,6 @@
       "onboard_time": 1747657826,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87170,
-      "num": 87170,
-      "word": "韦雪男友妈妈住韦雪家",
-      "onboard_time": 1747661365,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 85628,
@@ -443,12 +515,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77090,
+      "num": 77090,
+      "word": "你见过凌晨三点的武汉吗",
+      "onboard_time": 1747697179,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74568,
+      "num": 74568,
+      "word": "冷门但可以找到双休公司的野路子",
+      "onboard_time": 1747697479,
+      "rank": 44,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 71159,
       "num": 71159,
       "word": "张檬儿子满月",
       "onboard_time": 1747693094,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67734,
+      "num": 67734,
+      "word": "情头",
+      "onboard_time": 1747697660,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 66805,
@@ -459,20 +555,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65749,
+      "num": 65749,
+      "word": "莎头组合混双对手因伤退赛",
+      "onboard_time": 1747697840,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63647,
       "num": 63647,
       "word": "敦煌13岁女孩坠马身亡调解陷僵局",
       "onboard_time": 1747685833,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59736,
-      "num": 59736,
-      "word": "球拍检测各球队可派一人全程跟随",
-      "onboard_time": 1747696939,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 58697,
@@ -513,14 +609,6 @@
       "onboard_time": 1747673240,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56404,
-      "num": 56404,
-      "word": "莎头组合因对手退赛直接晋级8强",
-      "onboard_time": 1747696879,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 55122,
