@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747653753535,
+  "endTime": 1747654693171,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075817,
+      "num": 782902,
+      "word": "虞书欣爸爸维权声明",
+      "onboard_time": 1747653503,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1004315,
       "num": 386467,
       "word": "金价",
@@ -217,6 +225,14 @@
       "onboard_time": 1747627102,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 805630,
+      "num": 805630,
+      "word": "貂蝉皮肤",
+      "onboard_time": 1747651225,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 797905,
@@ -308,19 +324,11 @@
     },
     {
       "raw_hot": 677941,
-      "num": 475052,
+      "num": 623881,
       "word": "魏大勋刘美含 初恋CP",
       "onboard_time": 1747649964,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 657252,
-      "num": 657252,
-      "word": "貂蝉皮肤",
-      "onboard_time": 1747651225,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 648933,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 618547,
-      "num": 618547,
+      "num": 744987,
       "word": "孙颖莎vs边松景",
       "onboard_time": 1747649183,
       "rank": 5,
@@ -385,6 +393,14 @@
       "onboard_time": 1747579403,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542364,
+      "num": 542364,
+      "word": "情侣博主 摆拍",
+      "onboard_time": 1747651884,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 531990,
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292377,
-      "num": 292377,
-      "word": "情侣博主 摆拍",
-      "onboard_time": 1747651884,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 290757,
       "num": 290757,
       "word": "网红小黄豆没参加高考",
@@ -929,6 +937,14 @@
       "onboard_time": 1747622361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238245,
+      "num": 238245,
+      "word": "平野美宇无缘女单32强",
+      "onboard_time": 1747653743,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 237241,
@@ -1168,14 +1184,6 @@
       "word": "张婧仪生图",
       "onboard_time": 1747638143,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204536,
-      "num": 204536,
-      "word": "虞书欣爸爸维权声明",
-      "onboard_time": 1747653503,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1627,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173287,
+      "num": 173287,
+      "word": "明治雪糕",
+      "onboard_time": 1747651704,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171003,
       "num": 205411,
       "word": "尹子维50岁生日表白徐冬冬",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1747646784,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 167829,
-      "num": 167829,
-      "word": "明治雪糕",
-      "onboard_time": 1747651704,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 166904,
@@ -1915,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152061,
+      "num": 152061,
+      "word": "小米汽车回应退订60天冷静期",
+      "onboard_time": 1747654463,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 152041,
       "num": 152041,
       "word": "乌克兰遭最大规模无人机袭击",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1747569201,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141873,
+      "num": 141873,
+      "word": "黄圣依妈妈希望女儿做个普通人",
+      "onboard_time": 1747654342,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 141297,
@@ -2203,6 +2227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133737,
+      "num": 386414,
+      "word": "偷加洗手液女孩家长与博主和解",
+      "onboard_time": 1747654103,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133707,
       "num": 133707,
       "word": "刘浩存王安宇时尚芭莎五月电子刊",
@@ -2243,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128615,
+      "num": 128615,
+      "word": "中餐厅",
+      "onboard_time": 1747654582,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128378,
       "num": 128378,
       "word": "掘金vs雷霆",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1747583244,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126282,
+      "num": 126282,
+      "word": "多方回应13岁女孩坠马身亡",
+      "onboard_time": 1747654043,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122740,
@@ -2363,6 +2411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 117406,
+      "num": 407520,
+      "word": "有车主维修隐藏式门把手花费过千",
+      "onboard_time": 1747652963,
+      "rank": 14,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 115358,
       "num": 115358,
       "word": "汪苏泷 我们",
@@ -2449,6 +2505,14 @@
       "onboard_time": 1747608917,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107602,
+      "num": 442580,
+      "word": "新冠病毒检出率升高",
+      "onboard_time": 1747654282,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106445,
@@ -2659,6 +2723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91062,
+      "num": 329364,
+      "word": "孙颖莎怎么打怎么有",
+      "onboard_time": 1747653203,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90419,
       "num": 90419,
       "word": "潘展乐汪顺孙杨携手晋级",
@@ -2681,6 +2753,14 @@
       "onboard_time": 1747574302,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88506,
+      "num": 148975,
+      "word": "灰原哀街道美的太超过了",
+      "onboard_time": 1747654282,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 87322,
@@ -2939,6 +3019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57182,
+      "num": 349106,
+      "word": "为何北方此轮高温如此极端",
+      "onboard_time": 1747652905,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57072,
       "num": 425805,
       "word": "刘亦菲收到表白信",
@@ -3051,14 +3139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48752,
-      "num": 329364,
-      "word": "孙颖莎怎么打怎么有",
-      "onboard_time": 1747653203,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47877,
       "num": 276679,
       "word": "华为970克鸿蒙电脑性能有多强",
@@ -3073,6 +3153,14 @@
       "onboard_time": 1747638804,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47000,
+      "num": 148482,
+      "word": "坚持锻炼身体会经历什么变化",
+      "onboard_time": 1747653804,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 46402,
@@ -3355,14 +3443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22441,
-      "num": 373381,
-      "word": "有车主维修隐藏式门把手花费过千",
-      "onboard_time": 1747652963,
-      "rank": 14,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 22264,
       "num": 219744,
       "word": "墨西哥军舰在纽约撞桥致2死17伤",
@@ -3467,14 +3547,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 17225,
-      "num": 349106,
-      "word": "为何北方此轮高温如此极端",
-      "onboard_time": 1747652905,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17101,
       "num": 94382,
       "word": "王曼昱蒯曼3比0韦格申威尔戈斯",
@@ -3523,6 +3595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12413,
+      "num": 358227,
+      "word": "日照海域火箭发射将影响哪些领域",
+      "onboard_time": 1747653443,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11929,
       "num": 186387,
       "word": "中国古代高科技农具",
@@ -3555,12 +3635,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 8767,
-      "num": 358227,
-      "word": "日照海域火箭发射将影响哪些领域",
-      "onboard_time": 1747653443,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 8709,
+      "num": 300355,
+      "word": "情绪管理对职场成长有什么价值",
+      "onboard_time": 1747654342,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 8029,
