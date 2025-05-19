@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747683430412,
+  "endTime": 1747686510544,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -523,12 +523,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16799,
+      "raw_hot": 19173,
+      "num": 19173,
+      "word": "外交部回应世卫大会拒绝涉台提案",
+      "onboard_time": 1747684153,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18057,
       "num": 21853,
       "word": "于适亮相戛纳中国青年电影活动",
       "onboard_time": 1747673958,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12058,
+      "num": 23607,
+      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
+      "onboard_time": 1747685833,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10560,

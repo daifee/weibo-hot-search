@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747683430412,
+  "endTime": 1747686510544,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -70147,6 +70147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19173,
+      "num": 19173,
+      "word": "外交部回应世卫大会拒绝涉台提案",
+      "onboard_time": 1747684153,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19154,
       "num": 205179,
       "word": "8岁男童失踪超60小时119持续搜救",
@@ -70457,6 +70465,14 @@
       "onboard_time": 1746170241,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 18057,
+      "num": 21853,
+      "word": "于适亮相戛纳中国青年电影活动",
+      "onboard_time": 1747673958,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 18044,
@@ -70865,14 +70881,6 @@
       "onboard_time": 1746643575,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16799,
-      "num": 21853,
-      "word": "于适亮相戛纳中国青年电影活动",
-      "onboard_time": 1747673958,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 16795,
@@ -72393,6 +72401,14 @@
       "onboard_time": 1746647474,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12058,
+      "num": 23607,
+      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
+      "onboard_time": 1747685833,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12055,
