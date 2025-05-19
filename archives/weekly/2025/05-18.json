@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747679747452,
+  "endTime": 1747680558202,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -8075,12 +8075,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25358,
+      "raw_hot": 25501,
       "num": 35667,
       "word": "一辈子的爱什么样",
       "onboard_time": 1747678276,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25445,
+      "num": 30535,
+      "word": "章泽天陈都灵 缘分妙不可言",
+      "onboard_time": 1747678816,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 25143,
@@ -8089,14 +8097,6 @@
       "onboard_time": 1747506676,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24355,
-      "num": 30535,
-      "word": "章泽天陈都灵 缘分妙不可言",
-      "onboard_time": 1747678816,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 24058,
@@ -8265,6 +8265,14 @@
       "onboard_time": 1747660405,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20492,
+      "num": 25345,
+      "word": "中餐厅9摩洛哥路透",
+      "onboard_time": 1747680194,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20402,

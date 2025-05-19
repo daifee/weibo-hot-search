@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747679747452,
+  "endTime": 1747680558202,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -68115,12 +68115,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25501,
+      "num": 35667,
+      "word": "一辈子的爱什么样",
+      "onboard_time": 1747678276,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25494,
       "num": 466593,
       "word": "叶童3年前决定保留原发色",
       "onboard_time": 1747290682,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25445,
+      "num": 30535,
+      "word": "章泽天陈都灵 缘分妙不可言",
+      "onboard_time": 1747678816,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 25428,
@@ -68153,14 +68169,6 @@
       "onboard_time": 1747384881,
       "rank": 49,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 25358,
-      "num": 35667,
-      "word": "一辈子的爱什么样",
-      "onboard_time": 1747678276,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25321,
@@ -68481,14 +68489,6 @@
       "onboard_time": 1746270082,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24355,
-      "num": 30535,
-      "word": "章泽天陈都灵 缘分妙不可言",
-      "onboard_time": 1747678816,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 24351,
@@ -69721,6 +69721,14 @@
       "onboard_time": 1746530302,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20492,
+      "num": 25345,
+      "word": "中餐厅9摩洛哥路透",
+      "onboard_time": 1747680194,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 20437,
