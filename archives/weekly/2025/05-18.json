@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747643745914,
+  "endTime": 1747644567149,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -17,6 +17,14 @@
       "onboard_time": 1747485623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2700394,
+      "num": 2700394,
+      "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+      "onboard_time": 1747642764,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2630744,
@@ -81,14 +89,6 @@
       "onboard_time": 1747579344,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2115416,
-      "num": 2115416,
-      "word": "泰国DJ与毒枭老大女友有染遭枪杀",
-      "onboard_time": 1747642764,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1739961,
@@ -515,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 756182,
+      "num": 756182,
+      "word": "消失3个月瘦了40斤妈妈的反应",
+      "onboard_time": 1747642165,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 747913,
       "num": 492988,
       "word": "藏海微do了",
@@ -601,14 +609,6 @@
       "onboard_time": 1747523957,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684104,
-      "num": 337994,
-      "word": "消失3个月瘦了40斤妈妈的反应",
-      "onboard_time": 1747642165,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 662929,
@@ -1027,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386022,
+      "num": 386022,
+      "word": "肖战擦汗这20秒我将反复看",
+      "onboard_time": 1747639945,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385479,
       "num": 294434,
       "word": "李溪芮 内娱腿精",
@@ -1395,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287267,
+      "num": 287267,
+      "word": "金靖夸的是迪丽热巴点的是张凌赫",
+      "onboard_time": 1747643604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286642,
       "num": 286642,
       "word": "中医院中药液里被指含管制类西药",
@@ -1603,6 +1619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247325,
+      "num": 336622,
+      "word": "年轻人最不缺的结婚条件被取消后",
+      "onboard_time": 1747642524,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246009,
       "num": 330006,
       "word": "汽车4S店销冠疑用个人码收车款跑路",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1747631006,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245134,
+      "num": 245134,
+      "word": "鸿蒙电脑",
+      "onboard_time": 1747643546,
+      "rank": 35,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 244746,
@@ -1651,12 +1683,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 240311,
+      "num": 240311,
+      "word": "雷军回应小米黑公关案件",
+      "onboard_time": 1747642643,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 240004,
       "num": 223762,
       "word": "49岁从三甲医院辞职北漂进大厂",
       "onboard_time": 1747622361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237241,
+      "num": 237241,
+      "word": "孙颖莎王楚钦vs巴西组合",
+      "onboard_time": 1747643664,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 236573,
@@ -1931,14 +1979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211829,
-      "num": 211829,
-      "word": "金靖夸的是迪丽热巴点的是张凌赫",
-      "onboard_time": 1747643604,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211475,
       "num": 198230,
       "word": "王楚钦对王皓说一上来就判我",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1747629865,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211107,
-      "num": 243967,
-      "word": "肖战擦汗这20秒我将反复看",
-      "onboard_time": 1747639945,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 210497,
@@ -2163,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202316,
+      "num": 313022,
+      "word": "人民网评种地吧为何受关注",
+      "onboard_time": 1747642043,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202288,
       "num": 171096,
       "word": "成都春熙路巨型3D蛇太逼真引争议",
@@ -2193,14 +2233,6 @@
       "onboard_time": 1747506196,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201471,
-      "num": 201471,
-      "word": "年轻人最不缺的结婚条件被取消后",
-      "onboard_time": 1747642524,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201400,
@@ -2243,6 +2275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "原来奚梦瑶每天在家判案",
+      "onboard_time": 1747644205,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199318,
       "num": 199318,
       "word": "新华社发赵丽颖",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1747626503,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199101,
+      "num": 199101,
+      "word": "云合",
+      "onboard_time": 1747643004,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 198842,
@@ -2379,14 +2427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194605,
-      "num": 194605,
-      "word": "云合",
-      "onboard_time": 1747643004,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194123,
       "num": 189390,
       "word": "酷云",
@@ -2427,20 +2467,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193345,
+      "num": 176698,
+      "word": "华为手表首发水上运动轨迹",
+      "onboard_time": 1747643723,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 192815,
+      "num": 192815,
+      "word": "黄觉说我是皮筋猴",
+      "onboard_time": 1747644265,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "NBA彻底变天了",
       "onboard_time": 1747626324,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192434,
-      "num": 192434,
-      "word": "雷军回应小米黑公关案件",
-      "onboard_time": 1747642643,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 192389,
@@ -2481,14 +2529,6 @@
       "onboard_time": 1747545031,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190404,
-      "num": 313022,
-      "word": "人民网评种地吧为何受关注",
-      "onboard_time": 1747642043,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 188681,
@@ -2651,14 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184106,
-      "num": 184106,
-      "word": "鸿蒙电脑",
-      "onboard_time": 1747643546,
-      "rank": 35,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 184043,
       "num": 178137,
       "word": "以为病了其实是衰老的正常表现",
@@ -2729,6 +2761,14 @@
       "onboard_time": 1747584804,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181913,
+      "num": 181913,
+      "word": "藏海魏无羡时候",
+      "onboard_time": 1747644145,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181895,
@@ -2923,6 +2963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168511,
+      "num": 168511,
+      "word": "外交部回应了一个好消息",
+      "onboard_time": 1747644265,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168450,
       "num": 168450,
       "word": "邓紫棋襄阳演唱会",
@@ -3043,6 +3091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164039,
+      "num": 164039,
+      "word": "金价如坐过山车",
+      "onboard_time": 1747643906,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163730,
       "num": 163730,
       "word": "肖战快点退至我身前",
@@ -3123,6 +3179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160614,
+      "num": 239680,
+      "word": "nova14含金量",
+      "onboard_time": 1747643906,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160444,
       "num": 160444,
       "word": "金子涵回应交朋友",
@@ -3155,6 +3219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158432,
+      "num": 158432,
+      "word": "Ella回应与王心凌私交",
+      "onboard_time": 1747642404,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157889,
       "num": 157889,
       "word": "季肖冰叫宣璐夫人",
@@ -3185,14 +3257,6 @@
       "onboard_time": 1747571542,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156967,
-      "num": 156967,
-      "word": "Ella回应与王心凌私交",
-      "onboard_time": 1747642404,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 156419,
@@ -3443,20 +3507,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145584,
+      "num": 145584,
+      "word": "曹颖在浪姐搞50岁养成系",
+      "onboard_time": 1747644385,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145479,
       "num": 145479,
       "word": "河南事业编考试",
       "onboard_time": 1747539690,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 145380,
-      "num": 145380,
-      "word": "孙颖莎王楚钦vs巴西组合",
-      "onboard_time": 1747643664,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 144835,
@@ -3569,6 +3633,14 @@
       "onboard_time": 1747552821,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140477,
+      "num": 140477,
+      "word": "3岁高能量幼崽一天有多忙",
+      "onboard_time": 1747644505,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 139921,
@@ -4203,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117677,
+      "num": 346272,
+      "word": "nova14首次搭载旗舰级红枫人像",
+      "onboard_time": 1747642404,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 117421,
       "num": 73135,
       "word": "王楚钦11比6纳雷什",
@@ -4433,14 +4513,6 @@
       "onboard_time": 1747615293,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109289,
-      "num": 346272,
-      "word": "nova14首次搭载旗舰级红枫人像",
-      "onboard_time": 1747642404,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 108550,
@@ -4691,6 +4763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97163,
+      "num": 238700,
+      "word": "完全国产3nm芯片面临哪些挑战",
+      "onboard_time": 1747643485,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 96970,
       "num": 141062,
       "word": "下周重要星象",
@@ -4915,14 +4995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87279,
-      "num": 202864,
-      "word": "完全国产3nm芯片面临哪些挑战",
-      "onboard_time": 1747643485,
-      "rank": 23,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 87214,
       "num": 87214,
       "word": "白酒股集体调整",
@@ -4937,6 +5009,14 @@
       "onboard_time": 1747498102,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86590,
+      "num": 280775,
+      "word": "520重庆成了肖战痛城",
+      "onboard_time": 1747642705,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 86569,
@@ -5163,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75767,
+      "num": 1321032,
+      "word": "藏在锦绣山河里的中国传统色",
+      "onboard_time": 1747631368,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75695,
       "num": 272597,
       "word": "广场舞大妈拒给车辆让路还说我怕谁",
@@ -5265,14 +5353,6 @@
       "onboard_time": 1747572382,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71109,
-      "num": 280775,
-      "word": "520重庆成了肖战痛城",
-      "onboard_time": 1747642705,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 69247,
@@ -5395,14 +5475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60740,
-      "num": 1321032,
-      "word": "藏在锦绣山河里的中国传统色",
-      "onboard_time": 1747631368,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 60072,
       "num": 118036,
       "word": "74岁卖鱿鱼的大叔",
@@ -5417,14 +5489,6 @@
       "onboard_time": 1747500620,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 59006,
-      "num": 162098,
-      "word": "华为手表首发水上运动轨迹",
-      "onboard_time": 1747643723,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 58878,
@@ -5713,6 +5777,14 @@
       "onboard_time": 1747571363,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43997,
+      "num": 164296,
+      "word": "不要别人问什么你就答什么",
+      "onboard_time": 1747644087,
+      "rank": 39,
+      "category": "议题讨论,民生新闻"
     },
     {
       "raw_hot": 43517,
@@ -6379,6 +6451,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 17480,
+      "num": 184331,
+      "word": "如何通过小猫的行为判断它们的性格",
+      "onboard_time": 1747644385,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 17330,
       "num": 158347,
       "word": "卡卡西帅的360度无死角",
@@ -6577,6 +6657,14 @@
       "onboard_time": 1747510154,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12751,
+      "num": 1221268,
+      "word": "文旅新玩法持续激发消费新活力",
+      "onboard_time": 1747644325,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12410,
