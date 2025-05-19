@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747664790927,
+  "endTime": 1747665913641,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -491,6 +491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 886892,
+      "num": 886892,
+      "word": "白宇拍到了王楚钦受损的球拍",
+      "onboard_time": 1747665568,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 882705,
       "num": 882705,
       "word": "工资5000 情绪管理",
@@ -747,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 710085,
+      "num": 710085,
+      "word": "MAMA 香港",
+      "onboard_time": 1747661064,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 702642,
       "num": 702642,
       "word": "男生病重全班赶来合拍毕业照",
@@ -915,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 598599,
-      "num": 598599,
-      "word": "MAMA 香港",
-      "onboard_time": 1747661064,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 597828,
       "num": 210643,
       "word": "女子先兆流产请假被开除获赔7.2万多",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1747643546,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 514566,
+      "num": 514566,
+      "word": "收视率",
+      "onboard_time": 1747664727,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 512675,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1747615293,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438393,
+      "num": 438393,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 432860,
@@ -1491,6 +1515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345922,
+      "num": 338070,
+      "word": "张凌赫都歪成这样了你还无动于衷",
+      "onboard_time": 1747659026,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344761,
       "num": 344761,
       "word": "华为发布会",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1747657405,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339240,
+      "num": 339240,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339155,
@@ -1572,7 +1612,7 @@
     },
     {
       "raw_hot": 332246,
-      "num": 332246,
+      "num": 338970,
       "word": "韦雪男友妈妈住韦雪家",
       "onboard_time": 1747661365,
       "rank": 42,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1747535609,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 330353,
+      "num": 330353,
+      "word": "雨果球拍也疑似沾染异物",
+      "onboard_time": 1747665087,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 328614,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1747556000,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327477,
-      "num": 327477,
-      "word": "张凌赫都歪成这样了你还无动于衷",
-      "onboard_time": 1747659026,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 326178,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1747539329,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317832,
-      "num": 317832,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 314069,
@@ -2235,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235436,
+      "num": 235436,
+      "word": "鹅妈妈 纤维粒",
+      "onboard_time": 1747665628,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234533,
       "num": 234533,
       "word": "春夏演技",
@@ -2723,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205321,
+      "num": 205321,
+      "word": "潘展乐回应汪顺调侃",
+      "onboard_time": 1747664847,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205130,
       "num": 205130,
       "word": "藏海传首日百指28万",
@@ -3035,14 +3083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197025,
-      "num": 197025,
-      "word": "网店称去年退回衣服中有30多副耳机",
-      "onboard_time": 1747664490,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196908,
       "num": 196908,
       "word": "维斯塔潘夺冠",
@@ -3235,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "藏海传预告",
+      "onboard_time": 1747665386,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191542,
       "num": 191542,
       "word": "藏海传热度已破9000",
@@ -3275,6 +3323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188900,
+      "num": 188900,
+      "word": "2025KPL夏季赛抽签结果",
+      "onboard_time": 1747664727,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "虎鲸母子被困在法国废弃海洋公园",
@@ -3313,6 +3369,14 @@
       "onboard_time": 1747539750,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188158,
+      "num": 188158,
+      "word": "人类对王心凌的开发不足1%",
+      "onboard_time": 1747664847,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 187916,
@@ -3947,6 +4011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164063,
+      "num": 164063,
+      "word": "IU32岁状态",
+      "onboard_time": 1747665687,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164039,
       "num": 258849,
       "word": "金价如坐过山车",
@@ -4003,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162459,
+      "num": 162459,
+      "word": "贵州文旅也癫起来了",
+      "onboard_time": 1747665446,
+      "rank": 42,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 162237,
       "num": 162237,
       "word": "伯恩山洗完澡后变成了海参",
@@ -4024,14 +4104,6 @@
       "word": "折腰好丝滑的一镜到底",
       "onboard_time": 1747629625,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161347,
-      "num": 158171,
-      "word": "收视率",
-      "onboard_time": 1747664727,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -4073,6 +4145,14 @@
       "onboard_time": 1747647444,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159523,
+      "num": 159523,
+      "word": "伊能静与女儿为秦昊策划生日会",
+      "onboard_time": 1747665747,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 158949,
@@ -4267,14 +4347,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 153906,
-      "num": 153906,
-      "word": "2025KPL夏季赛抽签结果",
-      "onboard_time": 1747664727,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 153125,
       "num": 153125,
       "word": "蒋四金 柏浪涛",
@@ -4385,6 +4457,14 @@
       "onboard_time": 1747581203,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 150909,
+      "num": 651467,
+      "word": "西安碑林博物馆文物遭多人刻字",
+      "onboard_time": 1747663651,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150776,
@@ -4577,6 +4657,14 @@
       "onboard_time": 1747544070,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143869,
+      "num": 734826,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143354,
@@ -5955,14 +6043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99252,
-      "num": 651467,
-      "word": "西安碑林博物馆文物遭多人刻字",
-      "onboard_time": 1747663651,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99229,
       "num": 99229,
       "word": "欧盟iPhone用户或可抛弃Siri",
@@ -6225,6 +6305,14 @@
       "onboard_time": 1747611561,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 90089,
+      "num": 222482,
+      "word": "台湾一汽车失控猛冲进早餐店致13伤",
+      "onboard_time": 1747664967,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89155,
@@ -7153,6 +7241,14 @@
       "onboard_time": 1747634245,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45512,
+      "num": 338653,
+      "word": "原来藏海跟苏轼还有关系",
+      "onboard_time": 1747664907,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 44965,
@@ -8211,6 +8307,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 11037,
+      "num": 338827,
+      "word": "在沙漠里吃完饭怎么洗碗",
+      "onboard_time": 1747665147,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 10752,
       "num": 215663,
       "word": "3D打印组织技术为医疗带来哪些变革",
@@ -8334,6 +8438,9 @@
     },
     {
       "word": "#习近平对十五五规划编制工作作出重要指示#"
+    },
+    {
+      "word": "#我国2026年实施十五五规划#"
     }
   ]
 }
