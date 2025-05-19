@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747661847601,
+  "endTime": 1747662546358,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -11,19 +11,27 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 4622223,
-      "num": 4622223,
+      "raw_hot": 4784095,
+      "num": 4784095,
+      "word": "陈奕迅",
+      "onboard_time": 1747654883,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4719833,
+      "num": 4719833,
       "word": "王楚钦换球拍",
       "onboard_time": 1747660525,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 4209574,
-      "num": 4209574,
-      "word": "陈奕迅",
-      "onboard_time": 1747654883,
-      "rank": 0,
+      "raw_hot": 3348821,
+      "num": 557352,
+      "word": "徐濠萦 陈奕迅",
+      "onboard_time": 1747661785,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -95,14 +103,6 @@
       "num": 1729976,
       "word": "黄子韬卫生巾售价",
       "onboard_time": 1747559061,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2182827,
-      "num": 557352,
-      "word": "徐濠萦 陈奕迅",
-      "onboard_time": 1747661785,
       "rank": 10,
       "category": "艺人"
     },
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1299694,
+      "num": 1299694,
+      "word": "王楚钦孙颖莎目标是复刻杯",
+      "onboard_time": 1747661726,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1290387,
       "num": 372508,
       "word": "黄杨钿甜爸爸",
@@ -369,6 +377,14 @@
       "onboard_time": 1747579403,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1010850,
+      "num": 1010850,
+      "word": "闵塔鲨 迪丽热巴",
+      "onboard_time": 1747662206,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1004315,
@@ -513,14 +529,6 @@
       "onboard_time": 1747627102,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 809668,
-      "num": 809668,
-      "word": "王楚钦孙颖莎目标是复刻杯",
-      "onboard_time": 1747661726,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 805630,
@@ -809,6 +817,14 @@
       "onboard_time": 1747635802,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626334,
+      "num": 245773,
+      "word": "抖音崩了",
+      "onboard_time": 1747660883,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 622583,
@@ -1171,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432838,
+      "num": 432838,
+      "word": "MAMA 香港",
+      "onboard_time": 1747661064,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432270,
       "num": 442580,
       "word": "新冠病毒检出率升高",
@@ -1281,14 +1305,6 @@
       "onboard_time": 1747482502,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 385404,
-      "num": 245773,
-      "word": "抖音崩了",
-      "onboard_time": 1747660883,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 381679,
@@ -1539,14 +1555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 325282,
-      "num": 325282,
-      "word": "MAMA 香港",
-      "onboard_time": 1747661064,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 323149,
       "num": 503689,
       "word": "王楚钦4比0饭冢",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1747579523,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 307077,
+      "num": 427282,
+      "word": "王楚钦孙颖莎混双晋级16强",
+      "onboard_time": 1747661726,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 306777,
@@ -1739,6 +1755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289835,
+      "num": 235491,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 288211,
       "num": 288211,
       "word": "杨幂新公司签约的艺人",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1747649724,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274864,
+      "num": 274864,
+      "word": "藏海传节奏",
+      "onboard_time": 1747660283,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 271904,
@@ -1889,6 +1921,14 @@
       "onboard_time": 1747487843,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265882,
+      "num": 265882,
+      "word": "年轻人送礼已经进化到这种程度了",
+      "onboard_time": 1747660405,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 262152,
@@ -2115,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238196,
+      "num": 238196,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236573,
       "num": 236573,
       "word": "华为发布首款鸿蒙5直板机",
@@ -2129,14 +2177,6 @@
       "onboard_time": 1747557201,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236208,
-      "num": 236208,
-      "word": "年轻人送礼已经进化到这种程度了",
-      "onboard_time": 1747660405,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 234533,
@@ -2171,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232762,
+      "num": 232762,
+      "word": "金价为何又大涨",
+      "onboard_time": 1747662087,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 232538,
       "num": 284996,
       "word": "中医院回应患者购买中药检出西药成分",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1747570281,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232096,
-      "num": 232096,
-      "word": "藏海传节奏",
-      "onboard_time": 1747660283,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 232094,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1747556780,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224280,
+      "num": 224280,
+      "word": "世乒赛",
+      "onboard_time": 1747662147,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 223541,
@@ -2475,14 +2523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 211111,
-      "num": 211111,
-      "word": "韦雪男友妈妈住韦雪家",
-      "onboard_time": 1747661365,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 211095,
       "num": 287277,
       "word": "代露娃上一秒女王下一秒萌妹",
@@ -2513,14 +2553,6 @@
       "onboard_time": 1747554863,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208690,
-      "num": 208690,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 208537,
@@ -2875,6 +2907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198820,
+      "num": 198820,
+      "word": "孙颖莎反手反拉太帅了",
+      "onboard_time": 1747662147,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198788,
       "num": 311746,
       "word": "央视曝光废旧工厂成非法垃圾山",
@@ -3115,11 +3155,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191871,
+      "num": 191871,
+      "word": "王楚钦孙颖莎11比7雨果高桥布鲁娜",
+      "onboard_time": 1747662446,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191542,
       "num": 191542,
       "word": "藏海传热度已破9000",
       "onboard_time": 1747631128,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191410,
+      "num": 191410,
+      "word": "2025腾讯破3w剧集",
+      "onboard_time": 1747662268,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3273,6 +3329,14 @@
       "onboard_time": 1747583784,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185601,
+      "num": 185601,
+      "word": "徐敏在发遗书",
+      "onboard_time": 1747661305,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 185268,
@@ -3729,6 +3793,14 @@
       "onboard_time": 1747542930,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166109,
+      "num": 166109,
+      "word": "藏海 就是我命不该绝",
+      "onboard_time": 1747662508,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 165478,
@@ -4923,6 +4995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127096,
+      "num": 248193,
+      "word": "朝鲜时隔五年重启中文水平考试",
+      "onboard_time": 1747661486,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126977,
       "num": 238964,
       "word": "王曼昱蒯曼vs韦格申威尔戈斯",
@@ -5420,7 +5500,7 @@
     },
     {
       "raw_hot": 112172,
-      "num": 2508834,
+      "num": 2620118,
       "word": "4月国民经济顶住压力稳定增长",
       "onboard_time": 1747645524,
       "rank": 2,
@@ -5449,14 +5529,6 @@
       "onboard_time": 1747639945,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110683,
-      "num": 248193,
-      "word": "朝鲜时隔五年重启中文水平考试",
-      "onboard_time": 1747661486,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 110546,
@@ -5915,6 +5987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92859,
+      "num": 468330,
+      "word": "1564吨泰国榴莲抵达广州",
+      "onboard_time": 1747661425,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92783,
       "num": 357784,
       "word": "广厦男篮向北京男篮致歉",
@@ -6068,7 +6148,7 @@
     },
     {
       "raw_hot": 87026,
-      "num": 346928,
+      "num": 426115,
       "word": "王者荣耀520有哪些新皮肤",
       "onboard_time": 1747661486,
       "rank": 21,
@@ -6185,6 +6265,14 @@
       "onboard_time": 1747590437,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81488,
+      "num": 521799,
+      "word": "拜登夫人儿子都曾患癌",
+      "onboard_time": 1747661967,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81095,
@@ -6523,14 +6611,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 65868,
-      "num": 238174,
-      "word": "王楚钦孙颖莎混双晋级16强",
-      "onboard_time": 1747661726,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64654,
       "num": 193324,
       "word": "毛孩子也是好起来了穿上三叶草了",
@@ -6665,14 +6745,6 @@
       "onboard_time": 1747638744,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56483,
-      "num": 468330,
-      "word": "1564吨泰国榴莲抵达广州",
-      "onboard_time": 1747661425,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55979,
@@ -7075,6 +7147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39321,
+      "num": 424471,
+      "word": "记者再探试管婴儿黑作坊",
+      "onboard_time": 1747661666,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39180,
       "num": 92402,
       "word": "林高远晋级世乒赛64强",
@@ -7193,14 +7273,6 @@
       "onboard_time": 1747636164,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35224,
-      "num": 243440,
-      "word": "记者再探试管婴儿黑作坊",
-      "onboard_time": 1747661666,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 35073,
@@ -7603,20 +7675,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 20604,
+      "num": 248241,
+      "word": "隋坡的脾气是真的好",
+      "onboard_time": 1747660405,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20402,
       "num": 25328,
       "word": "周也戛纳电影节人气",
       "onboard_time": 1747507876,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20389,
-      "num": 248241,
-      "word": "隋坡的脾气是真的好",
-      "onboard_time": 1747660405,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20189,
@@ -8048,6 +8120,14 @@
       "word": "情绪管理对职场成长有什么价值",
       "onboard_time": 1747654342,
       "rank": 19,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 8139,
+      "num": 237680,
+      "word": "消费者如何利用油价调价节省成本",
+      "onboard_time": 1747662386,
+      "rank": 27,
       "category": "议题讨论"
     },
     {
