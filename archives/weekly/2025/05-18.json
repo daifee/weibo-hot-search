@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747626696527,
+  "endTime": 1747629239036,
   "band_list": [
     {
       "raw_hot": 3077461,
@@ -11,8 +11,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2473467,
+      "num": 2473467,
+      "word": "雷军发长文",
+      "onboard_time": 1747627102,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2396391,
-      "num": 1013364,
+      "num": 1060623,
       "word": "拜登癌细胞扩散至骨骼",
       "onboard_time": 1747612942,
       "rank": 5,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1332485,
+      "num": 1332485,
+      "word": "小米YU7",
+      "onboard_time": 1747622842,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1325728,
       "num": 377314,
       "word": "肖战工作室 陪聊",
@@ -209,14 +225,6 @@
       "onboard_time": 1747579403,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1024976,
-      "num": 1024976,
-      "word": "小米YU7",
-      "onboard_time": 1747622842,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 1004315,
@@ -313,6 +321,22 @@
       "onboard_time": 1747501519,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 824795,
+      "num": 824795,
+      "word": "原来难带的孩子是天生的",
+      "onboard_time": 1747627102,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 815563,
+      "num": 815563,
+      "word": "以前的奶茶 30块",
+      "onboard_time": 1747626983,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 803146,
@@ -643,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 509133,
+      "num": 509133,
+      "word": "金子涵说不觉得是私联违反的行为",
+      "onboard_time": 1747624643,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505494,
       "num": 266097,
       "word": "孙千好辣",
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409547,
+      "num": 409547,
+      "word": "绿联 易烊千玺",
+      "onboard_time": 1747627827,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403797,
       "num": 403797,
       "word": "藏海时影魏婴丧葬一条龙",
@@ -867,6 +907,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 364492,
+      "num": 364492,
+      "word": "九重紫 窦昭篇",
+      "onboard_time": 1747627164,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360698,
       "num": 360698,
       "word": "保姆变后妈占房不走腾房索要30万",
@@ -937,14 +985,6 @@
       "onboard_time": 1747501578,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 334943,
-      "num": 334943,
-      "word": "金子涵说不觉得是私联违反的行为",
-      "onboard_time": 1747624643,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 334180,
@@ -1299,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250725,
+      "num": 208955,
+      "word": "巴基斯坦拟采购40架J35A",
+      "onboard_time": 1747628124,
+      "rank": 31,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 248883,
       "num": 248883,
       "word": "开榴莲",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1747551260,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219004,
+      "num": 237707,
+      "word": "警方通报网传2飞车党追幼儿园女孩",
+      "onboard_time": 1747628605,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218948,
@@ -1819,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199287,
+      "num": 199287,
+      "word": "被哇唧唧哇淘汰制做局了",
+      "onboard_time": 1747626503,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198842,
       "num": 198842,
       "word": "清清FMVP",
@@ -1851,6 +1915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197221,
+      "num": 197221,
+      "word": "孙颖莎二次调整太强了",
+      "onboard_time": 1747628964,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197061,
       "num": 197061,
       "word": "是女儿是妈妈2飞行嘉宾阵容",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1747556481,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196093,
+      "num": 196093,
+      "word": "房东的空调比我岁数都大",
+      "onboard_time": 1747627704,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 195975,
@@ -1923,6 +2003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193073,
+      "num": 193073,
+      "word": "生理期请假要脱裤自证是典型一刀切",
+      "onboard_time": 1747626564,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192807,
       "num": 192807,
       "word": "NBA彻底变天了",
@@ -1945,14 +2033,6 @@
       "onboard_time": 1747537709,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191954,
-      "num": 191954,
-      "word": "被哇唧唧哇淘汰制做局了",
-      "onboard_time": 1747626503,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 191273,
@@ -2033,6 +2113,14 @@
       "onboard_time": 1747567221,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186507,
+      "num": 234835,
+      "word": "大马力电车更要敬畏安全",
+      "onboard_time": 1747628245,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 185876,
@@ -2179,6 +2267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177192,
+      "num": 227165,
+      "word": "小米玄戒O1性能紧追苹果A18Pro",
+      "onboard_time": 1747627704,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 174576,
       "num": 174576,
       "word": "白宇刘宇宁都有气胸",
@@ -2209,6 +2305,14 @@
       "onboard_time": 1747539450,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 173556,
+      "num": 173556,
+      "word": "学习的本质是极致的重复",
+      "onboard_time": 1747628905,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 173450,
@@ -2331,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165958,
-      "num": 165958,
-      "word": "生理期请假要脱裤自证是典型一刀切",
-      "onboard_time": 1747626564,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "仙逆",
@@ -2379,11 +2475,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164146,
+      "num": 164146,
+      "word": "陈奕迅原定三场演出延期至5月底",
+      "onboard_time": 1747628664,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 163359,
+      "num": 162560,
+      "word": "耶耶带大的小猫",
+      "onboard_time": 1747628066,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162855,
       "num": 162855,
       "word": "原来这就是臀肌失忆症",
       "onboard_time": 1747579285,
       "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162854,
+      "num": 283632,
+      "word": "前列腺癌治疗后或有5到10年生存率",
+      "onboard_time": 1747626263,
+      "rank": 19,
       "category": "健康医疗"
     },
     {
@@ -2393,6 +2513,14 @@
       "onboard_time": 1747571962,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162237,
+      "num": 162237,
+      "word": "伯恩山洗完澡后变成了海参",
+      "onboard_time": 1747629144,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 161144,
@@ -2553,6 +2681,14 @@
       "onboard_time": 1747593074,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151962,
+      "num": 209977,
+      "word": "韩素希戛纳白裙造型",
+      "onboard_time": 1747628365,
+      "rank": 29,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 151508,
@@ -2779,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139921,
+      "num": 178155,
+      "word": "蚌埠龙虾节被曝点歌几分钟要价1800",
+      "onboard_time": 1747627164,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139435,
       "num": 139435,
       "word": "孙杨200自小组第一",
@@ -2955,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130848,
+      "num": 318721,
+      "word": "孟子义导演卫生巾广告",
+      "onboard_time": 1747627763,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130328,
       "num": 130328,
       "word": "仙逆89集",
@@ -3073,14 +3225,6 @@
       "onboard_time": 1747583244,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126795,
-      "num": 283632,
-      "word": "前列腺癌治疗后或有5到10年生存率",
-      "onboard_time": 1747626263,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126773,
@@ -4323,6 +4467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68996,
+      "num": 209124,
+      "word": "陕西高温或将超过历史极值",
+      "onboard_time": 1747627344,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68074,
       "num": 124156,
       "word": "她是民国第一女杀手",
@@ -4433,6 +4585,14 @@
       "onboard_time": 1747554684,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 57149,
+      "num": 562156,
+      "word": "当地通报废旧工厂成非法垃圾山",
+      "onboard_time": 1747628605,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55979,
@@ -4627,6 +4787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46855,
+      "num": 177278,
+      "word": "航司回应母子错过航班坐地哭喊",
+      "onboard_time": 1747629203,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46469,
       "num": 201367,
       "word": "被大块玻璃坠落砸中者已转院",
@@ -4636,7 +4804,7 @@
     },
     {
       "raw_hot": 44965,
-      "num": 284185,
+      "num": 332268,
       "word": "新工体京东618歌会首开情侣座",
       "onboard_time": 1747625603,
       "rank": 24,
@@ -4657,6 +4825,14 @@
       "onboard_time": 1747624163,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42229,
+      "num": 234233,
+      "word": "迈阿密国际0比3奥兰多城",
+      "onboard_time": 1747623383,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 42105,
@@ -4979,6 +5155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26165,
+      "num": 199502,
+      "word": "情侣如何避免恋爱期体重失控",
+      "onboard_time": 1747629084,
+      "rank": 33,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 26134,
       "num": 158013,
       "word": "国际博物馆日的由来是什么",
@@ -5025,6 +5209,14 @@
       "onboard_time": 1747507396,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23753,
+      "num": 287189,
+      "word": "熊猫专列成都号都有哪些特色服务",
+      "onboard_time": 1747628182,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 23593,
