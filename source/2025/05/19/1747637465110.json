@@ -1,0 +1,410 @@
+{
+  "runTime": 1747637465110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1499385,
+        "num": 1499385,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1261532,
+        "num": 1261532,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 41957,
+        "num": 987880,
+        "word": "藏在锦绣山河里的中国传统色",
+        "onboard_time": 1747631368,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 956848,
+        "num": 956848,
+        "word": "雷军发长文",
+        "onboard_time": 1747627102,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 795150,
+        "num": 795150,
+        "word": "多地早已叫停扶梯左行右立",
+        "onboard_time": 1747630645,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1059915,
+        "num": 779012,
+        "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+        "onboard_time": 1747630104,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748890,
+        "num": 748890,
+        "word": "黄子韬手拿卫生巾大谈月经谁破防了",
+        "onboard_time": 1747632205,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648933,
+        "num": 648933,
+        "word": "藏海传见面会",
+        "onboard_time": 1747632924,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599254,
+        "num": 599254,
+        "word": "以前的奶茶 30块",
+        "onboard_time": 1747626983,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 496391,
+        "num": 496391,
+        "word": "孙杨800自退赛",
+        "onboard_time": 1747631547,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627282,
+        "num": 493458,
+        "word": "演员隋永清去世",
+        "onboard_time": 1747635802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481367,
+        "num": 481367,
+        "word": "魏劭看什么于途他有乔晶晶了",
+        "onboard_time": 1747635863,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479397,
+        "num": 479397,
+        "word": "生理期请假要脱裤自证是典型一刀切",
+        "onboard_time": 1747626564,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102459,
+        "num": 466474,
+        "word": "刘亦菲说P人要用美团闪购",
+        "onboard_time": 1747633285,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453753,
+        "num": 453753,
+        "word": "拜登癌细胞扩散至骨骼",
+        "onboard_time": 1747612942,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450327,
+        "num": 450327,
+        "word": "杨天真要去留学一年",
+        "onboard_time": 1747635624,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322473,
+        "num": 322473,
+        "word": "华为发布会",
+        "onboard_time": 1747635683,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292039,
+        "num": 292039,
+        "word": "央视曝光怕被卫星拍到的垃圾山",
+        "onboard_time": 1747622902,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54250,
+        "num": 288820,
+        "word": "救护车司机醉驾出车祸被吊销执照",
+        "onboard_time": 1747636524,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17654,
+        "num": 281778,
+        "word": "并排站立对地铁扶梯寿命有何影响",
+        "onboard_time": 1747636284,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 423950,
+        "num": 280379,
+        "word": "于正官宣曹骏胡静进组",
+        "onboard_time": 1747631067,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 270881,
+        "word": "以前的奶茶价格为什么普遍较高",
+        "onboard_time": 1747637185,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 270402,
+        "num": 270402,
+        "word": "小米YU7",
+        "onboard_time": 1747622842,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 251821,
+        "num": 251821,
+        "word": "绿联 易烊千玺",
+        "onboard_time": 1747627827,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243047,
+        "num": 243047,
+        "word": "天眼查",
+        "onboard_time": 1747635503,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228190,
+        "num": 228190,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222152,
+        "num": 222152,
+        "word": "2025KPL春季赛最佳阵容",
+        "onboard_time": 1747636944,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221755,
+        "num": 221755,
+        "word": "肖战怕热的暴汗体质",
+        "onboard_time": 1747637424,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34902,
+        "num": 210041,
+        "word": "特厨隋坡事件背后真相",
+        "onboard_time": 1747636164,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202694,
+        "num": 202694,
+        "word": "小米公布一起黑公关案件",
+        "onboard_time": 1747636644,
+        "rank": 29,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 146687,
+        "num": 198423,
+        "word": "Mina戛纳造型",
+        "onboard_time": 1747636583,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196626,
+        "num": 196626,
+        "word": "原来难带的孩子是天生的",
+        "onboard_time": 1747627102,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187738,
+        "num": 187738,
+        "word": "年轻人涌入捏门",
+        "onboard_time": 1747636464,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186337,
+        "num": 186337,
+        "word": "拜登前列腺癌",
+        "onboard_time": 1747613304,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173636,
+        "num": 173636,
+        "word": "全员加速中定档了",
+        "onboard_time": 1747633584,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127923,
+        "num": 169530,
+        "word": "海关在卫生巾里查获2003粒钻石",
+        "onboard_time": 1747637063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169244,
+        "num": 169244,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151676,
+        "num": 151676,
+        "word": "黄杨钿甜高价耳环事件时间线",
+        "onboard_time": 1747630767,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149208,
+        "num": 149208,
+        "word": "肖战藏海传见面会生图",
+        "onboard_time": 1747634844,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149022,
+        "num": 149022,
+        "word": "一诺偷偷藏不住",
+        "onboard_time": 1747637364,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140845,
+        "num": 140845,
+        "word": "跌就买涨就卖炒金还能赚钱吗",
+        "onboard_time": 1747635324,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135960,
+        "num": 135960,
+        "word": "终于有剧拍出了不是嘶吼式哭戏",
+        "onboard_time": 1747633161,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135444,
+        "num": 135444,
+        "word": "雷军官宣小米新品发布会时间",
+        "onboard_time": 1747621642,
+        "rank": 42,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 131834,
+        "num": 131834,
+        "word": "奥恰洛夫回应退赛",
+        "onboard_time": 1747637244,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128981,
+        "num": 128981,
+        "word": "警方通报网传2飞车党追幼儿园女孩",
+        "onboard_time": 1747628605,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128104,
+        "num": 128104,
+        "word": "叶晓粤称看粉丝着急才发文澄清",
+        "onboard_time": 1747629144,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35327,
+        "num": 126948,
+        "word": "12星座关于友谊的表现",
+        "onboard_time": 1747636164,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126275,
+        "num": 126275,
+        "word": "藏海微do了",
+        "onboard_time": 1747612102,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121198,
+        "num": 121198,
+        "word": "乔丹4000万年薪担任解说",
+        "onboard_time": 1747631964,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120451,
+        "num": 120451,
+        "word": "宁愿爬七楼也想住的房子",
+        "onboard_time": 1747634004,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026年开始实施十五五规划#"
+    }
+  }
+}
