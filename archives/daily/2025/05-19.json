@@ -1,7 +1,23 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747630136125,
+  "endTime": 1747632349622,
   "band_list": [
+    {
+      "raw_hot": 11279195,
+      "num": 11279195,
+      "word": "武汉警方通报一地发生伤人事件",
+      "onboard_time": 1747630344,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2630744,
+      "num": 275059,
+      "word": "武汉崇仁路故意伤害案致1死2伤",
+      "onboard_time": 1747630827,
+      "rank": 25,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2473467,
       "num": 2473467,
@@ -163,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732709,
+      "num": 244319,
+      "word": "武汉故意伤害案嫌疑人已被抓获",
+      "onboard_time": 1747631006,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692733,
       "num": 692733,
       "word": "商场金价降至756元",
       "onboard_time": 1747621161,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 616819,
+      "num": 616819,
+      "word": "陈奕迅原定三场演出延期至5月底",
+      "onboard_time": 1747628664,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 591748,
@@ -195,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 562098,
-      "num": 562098,
-      "word": "陈奕迅原定三场演出延期至5月底",
-      "onboard_time": 1747628664,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 551390,
+      "num": 551390,
+      "word": "孙杨800自退赛",
+      "onboard_time": 1747631547,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 520589,
@@ -219,11 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509789,
+      "num": 509789,
+      "word": "于正官宣曹骏胡静进组",
+      "onboard_time": 1747631067,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466987,
       "num": 466987,
       "word": "绿联 易烊千玺",
       "onboard_time": 1747627827,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454969,
+      "num": 454969,
+      "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+      "onboard_time": 1747630104,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -339,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313881,
+      "num": 419750,
+      "word": "生理期请假要脱裤自证是典型一刀切",
+      "onboard_time": 1747626564,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306777,
       "num": 250707,
       "word": "twice",
@@ -411,6 +467,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 267805,
+      "num": 267805,
+      "word": "何泓姗连播两部剧都破3w",
+      "onboard_time": 1747629865,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257849,
       "num": 257849,
       "word": "闪耀暖暖",
@@ -419,12 +483,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254106,
+      "num": 254106,
+      "word": "3nm",
+      "onboard_time": 1747629985,
+      "rank": 41,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 253810,
+      "num": 253810,
+      "word": "黄杨钿甜高价耳环事件时间线",
+      "onboard_time": 1747630767,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250725,
       "num": 236405,
       "word": "巴基斯坦拟采购40架J35A",
       "onboard_time": 1747628124,
       "rank": 31,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 247985,
+      "num": 247985,
+      "word": "王者荣耀520",
+      "onboard_time": 1747631186,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 245414,
+      "num": 262929,
+      "word": "向佐在孙燕姿现场听向左向右向前看",
+      "onboard_time": 1747631006,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 243325,
@@ -467,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237099,
-      "num": 237099,
-      "word": "生理期请假要脱裤自证是典型一刀切",
-      "onboard_time": 1747626564,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
@@ -499,6 +587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 226584,
+      "num": 337985,
+      "word": "多地早已叫停扶梯左行右立",
+      "onboard_time": 1747630645,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223541,
       "num": 223541,
       "word": "仙逆剧场版定档",
@@ -521,6 +617,14 @@
       "onboard_time": 1747624403,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221632,
+      "num": 221632,
+      "word": "黄子韬手拿卫生巾大谈月经谁破防了",
+      "onboard_time": 1747632205,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 217403,
@@ -571,20 +675,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 209255,
-      "num": 209255,
-      "word": "何泓姗连播两部剧都破3w",
-      "onboard_time": 1747629865,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208537,
       "num": 208537,
       "word": "妈妈称巨痣男孩术后变得自信阳光",
       "onboard_time": 1747585402,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206187,
+      "num": 206187,
+      "word": "李晟邓萃雯回应打包去花少",
+      "onboard_time": 1747631724,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 205130,
@@ -651,12 +755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200528,
-      "num": 200528,
-      "word": "3nm",
-      "onboard_time": 1747629985,
-      "rank": 41,
-      "category": "数码,互联网"
+      "raw_hot": 200022,
+      "num": 572458,
+      "word": "老年人想租个房到底有多难",
+      "onboard_time": 1747629504,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199910,
@@ -691,6 +795,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 196159,
+      "num": 196159,
+      "word": "乔丹4000万年薪担任解说",
+      "onboard_time": 1747631964,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196093,
       "num": 196093,
       "word": "房东的空调比我岁数都大",
@@ -705,6 +817,14 @@
       "onboard_time": 1747586481,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195822,
+      "num": 195822,
+      "word": "其实我每周都在过520",
+      "onboard_time": 1747631547,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 195488,
@@ -739,12 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191542,
+      "num": 191542,
+      "word": "藏海传热度已破9000",
+      "onboard_time": 1747631128,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187459,
       "num": 192940,
       "word": "寻找课本里的山河万卷",
       "onboard_time": 1747626384,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186595,
+      "num": 186595,
+      "word": "藏海传 非遗药发木偶",
+      "onboard_time": 1747632205,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 186507,
@@ -803,12 +939,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169408,
+      "num": 338025,
+      "word": "藏海传各榜单登顶",
+      "onboard_time": 1747631186,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166904,
       "num": 166904,
       "word": "金价一周跌去近4.7%",
       "onboard_time": 1747622181,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164241,
+      "num": 265083,
+      "word": "如何得到京东外卖饭卡",
+      "onboard_time": 1747631246,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 163359,
@@ -1051,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121860,
+      "num": 561763,
+      "word": "王一博把自己养得很好",
+      "onboard_time": 1747629625,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119912,
       "num": 119912,
       "word": "NBA",
@@ -1145,14 +1305,6 @@
       "onboard_time": 1747608917,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107569,
-      "num": 572458,
-      "word": "老年人想租个房到底有多难",
-      "onboard_time": 1747629504,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106445,
@@ -1419,14 +1571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76536,
-      "num": 540495,
-      "word": "王一博把自己养得很好",
-      "onboard_time": 1747629625,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76141,
       "num": 156308,
       "word": "印度军方称印巴停火无终止日期",
@@ -1491,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62044,
+      "num": 575367,
+      "word": "远洋渔船船长被害前对话曝光",
+      "onboard_time": 1747631547,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61609,
       "num": 282900,
       "word": "戈登和库里的伤势有什么区别",
@@ -1505,6 +1657,14 @@
       "onboard_time": 1747593436,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60740,
+      "num": 1210431,
+      "word": "藏在锦绣山河里的中国传统色",
+      "onboard_time": 1747631368,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55886,
@@ -1545,6 +1705,14 @@
       "onboard_time": 1747600693,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53341,
+      "num": 278164,
+      "word": "约基奇根本歇不住",
+      "onboard_time": 1747631605,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 51754,
@@ -1627,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38859,
+      "num": 261574,
+      "word": "杜特尔特或将狱中宣誓就职",
+      "onboard_time": 1747631425,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31334,
       "num": 39469,
       "word": "陈都灵我们都是独一无二的骄傲",
@@ -1665,14 +1841,6 @@
       "onboard_time": 1747629084,
       "rank": 33,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 25955,
-      "num": 186600,
-      "word": "造谣陈奕迅去世博主曾造谣成龙去世",
-      "onboard_time": 1747630104,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 25710,
@@ -1755,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17985,
+      "num": 202372,
+      "word": "盗版微短剧黑色产业链是如何形成的",
+      "onboard_time": 1747630947,
+      "rank": 42,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17101,
       "num": 94382,
       "word": "王曼昱蒯曼3比0韦格申威尔戈斯",
@@ -1785,11 +1961,22 @@
       "onboard_time": 1747626442,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 9182,
+      "num": 338007,
+      "word": "AI虚假广告频发应该如何区分",
+      "onboard_time": 1747631785,
+      "rank": 18,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平总书记和博物馆的故事#"
+    },
+    {
+      "word": "#2026年开始实施十五五规划#"
     }
   ]
 }

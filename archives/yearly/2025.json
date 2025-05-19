@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747630136125,
+  "endTime": 1747632349622,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -513,6 +513,14 @@
       "onboard_time": 1742040024,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11279195,
+      "num": 11279195,
+      "word": "武汉警方通报一地发生伤人事件",
+      "onboard_time": 1747630344,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11277414,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744280122,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3128307,
-      "num": 3128307,
-      "word": "敖瑞鹏发了三个红包",
-      "onboard_time": 1738060044,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
