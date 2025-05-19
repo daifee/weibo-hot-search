@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747640382257,
+  "endTime": 1747643745914,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -57,6 +57,14 @@
       "onboard_time": 1747622661,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2115416,
+      "num": 2115416,
+      "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+      "onboard_time": 1747642764,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1645715,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 882705,
+      "num": 882705,
+      "word": "工资5000 情绪管理",
+      "onboard_time": 1747637303,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 874910,
       "num": 874910,
       "word": "黄杨钿甜同款耳环仿款售价不到百元",
@@ -161,14 +177,6 @@
       "onboard_time": 1747627102,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 808604,
-      "num": 808604,
-      "word": "工资5000 情绪管理",
-      "onboard_time": 1747637303,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 797905,
@@ -257,6 +265,14 @@
       "onboard_time": 1747621161,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 684104,
+      "num": 337994,
+      "word": "消失3个月瘦了40斤妈妈的反应",
+      "onboard_time": 1747642165,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 648933,
@@ -811,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211829,
+      "num": 211829,
+      "word": "金靖夸的是迪丽热巴点的是张凌赫",
+      "onboard_time": 1747643604,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211352,
       "num": 211352,
       "word": "DRG维权声明",
@@ -913,6 +937,14 @@
       "onboard_time": 1747582945,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201471,
+      "num": 201471,
+      "word": "年轻人最不缺的结婚条件被取消后",
+      "onboard_time": 1747642524,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201133,
@@ -1019,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194605,
+      "num": 194605,
+      "word": "云合",
+      "onboard_time": 1747643004,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193601,
       "num": 373695,
       "word": "王晨正回应消费爷爷和作秀质疑",
@@ -1051,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192434,
+      "num": 192434,
+      "word": "雷军回应小米黑公关案件",
+      "onboard_time": 1747642643,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191542,
       "num": 191542,
       "word": "藏海传热度已破9000",
       "onboard_time": 1747631128,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190404,
+      "num": 313022,
+      "word": "人民网评种地吧为何受关注",
+      "onboard_time": 1747642043,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 187916,
@@ -1123,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184106,
+      "num": 184106,
+      "word": "鸿蒙电脑",
+      "onboard_time": 1747643546,
+      "rank": 35,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 183665,
       "num": 183665,
       "word": "肖战回应藏海的服从性测试",
@@ -1136,6 +1200,14 @@
       "word": "张凌赫戛纳allblack路透",
       "onboard_time": 1747584804,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 181187,
+      "num": 181187,
+      "word": "林峯不愧是港娱严选",
+      "onboard_time": 1747643305,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -1153,6 +1225,14 @@
       "onboard_time": 1747627704,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 174249,
+      "num": 174249,
+      "word": "林更新的腿像开了长腿特效",
+      "onboard_time": 1747639765,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 173636,
@@ -1176,14 +1256,6 @@
       "word": "安在旭在美开颅手术花费5亿韩元",
       "onboard_time": 1747591697,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170992,
-      "num": 170992,
-      "word": "林更新的腿像开了长腿特效",
-      "onboard_time": 1747639765,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1217,6 +1289,14 @@
       "onboard_time": 1747622181,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 165324,
+      "num": 314324,
+      "word": "父亲将未成年子女83.8万作为首付买房",
+      "onboard_time": 1747641023,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164362,
@@ -1283,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161216,
+      "num": 192487,
+      "word": "林诗栋蒯曼vs高茨帕瓦德",
+      "onboard_time": 1747642344,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160444,
       "num": 160444,
       "word": "金子涵回应交朋友",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1747638563,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 156967,
+      "num": 156967,
+      "word": "Ella回应与王心凌私交",
+      "onboard_time": 1747642404,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 154665,
@@ -1401,6 +1497,14 @@
       "onboard_time": 1747570463,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145380,
+      "num": 145380,
+      "word": "孙颖莎王楚钦vs巴西组合",
+      "onboard_time": 1747643664,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144044,
@@ -1691,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109289,
+      "num": 346272,
+      "word": "nova14首次搭载旗舰级红枫人像",
+      "onboard_time": 1747642404,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108254,
       "num": 108254,
       "word": "一生不缺钱的6大星座",
@@ -1915,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87279,
+      "num": 202864,
+      "word": "完全国产3nm芯片面临哪些挑战",
+      "onboard_time": 1747643485,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 87214,
       "num": 87214,
       "word": "白酒股集体调整",
@@ -2027,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75695,
+      "num": 272597,
+      "word": "广场舞大妈拒给车辆让路还说我怕谁",
+      "onboard_time": 1747642165,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73748,
       "num": 165507,
       "word": "敬戈登是条汉子",
@@ -2067,11 +2195,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71109,
+      "num": 280775,
+      "word": "520重庆成了肖战痛城",
+      "onboard_time": 1747642705,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68996,
       "num": 209124,
       "word": "陕西高温或将超过历史极值",
       "onboard_time": 1747627344,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66293,
+      "num": 275690,
+      "word": "捏捏乐为什么能缓解压力",
+      "onboard_time": 1747642583,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 64486,
+      "num": 360031,
+      "word": "当地通报媒体曝光生猪未检疫注水",
+      "onboard_time": 1747642043,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2105,6 +2257,30 @@
       "onboard_time": 1747631368,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59006,
+      "num": 162098,
+      "word": "华为手表首发水上运动轨迹",
+      "onboard_time": 1747643723,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58878,
+      "num": 159912,
+      "word": "小米玄戒累计研发投入已超135亿",
+      "onboard_time": 1747637604,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 57072,
+      "num": 425805,
+      "word": "刘亦菲收到表白信",
+      "onboard_time": 1747638744,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 55886,
@@ -2171,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51835,
-      "num": 425805,
-      "word": "刘亦菲收到表白信",
-      "onboard_time": 1747638744,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51754,
       "num": 51754,
       "word": "张凌赫章昊同框飙戏",
@@ -2225,6 +2393,22 @@
       "onboard_time": 1747625603,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43517,
+      "num": 185233,
+      "word": "米荒危机下日本农相称从不买米",
+      "onboard_time": 1747641924,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42872,
+      "num": 175901,
+      "word": "nova14搭载行业最强双卫星通信",
+      "onboard_time": 1747642404,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 42279,
@@ -2289,6 +2473,22 @@
       "onboard_time": 1747631425,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36010,
+      "num": 174444,
+      "word": "用deepseek记单词的方法",
+      "onboard_time": 1747641984,
+      "rank": 39,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 35626,
+      "num": 192560,
+      "word": "古代穷人到底能不能吃到肉",
+      "onboard_time": 1747641685,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35446,
@@ -2385,6 +2585,14 @@
       "onboard_time": 1747628182,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23234,
+      "num": 193518,
+      "word": "nova14首发趣味魔法移图",
+      "onboard_time": 1747642404,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 22829,
