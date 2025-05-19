@@ -1,0 +1,410 @@
+{
+  "runTime": 1747633389676,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2412951,
+        "num": 2412951,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1424154,
+        "num": 1424154,
+        "word": "以前的奶茶 30块",
+        "onboard_time": 1747626983,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53776,
+        "num": 1321032,
+        "word": "藏在锦绣山河里的中国传统色",
+        "onboard_time": 1747631368,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1308133,
+        "num": 1308133,
+        "word": "雷军发长文",
+        "onboard_time": 1747627102,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 761001,
+        "num": 761001,
+        "word": "孙杨800自退赛",
+        "onboard_time": 1747631547,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1116853,
+        "num": 756368,
+        "word": "叶晓粤说陈奕迅去世是假新闻",
+        "onboard_time": 1747610541,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746983,
+        "num": 746983,
+        "word": "于正官宣曹骏胡静进组",
+        "onboard_time": 1747631067,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641078,
+        "num": 641078,
+        "word": "央视曝光怕被卫星拍到的垃圾山",
+        "onboard_time": 1747622902,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623378,
+        "num": 623378,
+        "word": "拜登癌细胞扩散至骨骼",
+        "onboard_time": 1747612942,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505555,
+        "num": 505555,
+        "word": "小米YU7",
+        "onboard_time": 1747622842,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108622,
+        "num": 465965,
+        "word": "王一博把自己养得很好",
+        "onboard_time": 1747629625,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673138,
+        "num": 465841,
+        "word": "黄子韬手拿卫生巾大谈月经谁破防了",
+        "onboard_time": 1747632205,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463902,
+        "num": 463902,
+        "word": "原来难带的孩子是天生的",
+        "onboard_time": 1747627102,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223441,
+        "num": 410984,
+        "word": "远洋渔船船长被害前对话曝光",
+        "onboard_time": 1747631547,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399409,
+        "num": 399409,
+        "word": "生理期请假要脱裤自证是典型一刀切",
+        "onboard_time": 1747626564,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383191,
+        "num": 383191,
+        "word": "绿联 易烊千玺",
+        "onboard_time": 1747627827,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374011,
+        "num": 374011,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 324877,
+        "num": 324877,
+        "word": "藏海传见面会",
+        "onboard_time": 1747632924,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260799,
+        "num": 311505,
+        "word": "多地早已叫停扶梯左行右立",
+        "onboard_time": 1747630645,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101439,
+        "num": 308199,
+        "word": "国产3nm芯片能否满足市场需求",
+        "onboard_time": 1747632744,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 307338,
+        "num": 307338,
+        "word": "藏海微do了",
+        "onboard_time": 1747612102,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292374,
+        "num": 292374,
+        "word": "金子涵说不觉得是私联违反的行为",
+        "onboard_time": 1747624643,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288106,
+        "num": 288106,
+        "word": "金价",
+        "onboard_time": 1747620563,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268624,
+        "num": 268624,
+        "word": "叶晓粤称看粉丝着急才发文澄清",
+        "onboard_time": 1747629144,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245498,
+        "num": 245498,
+        "word": "黄杨钿甜高价耳环事件时间线",
+        "onboard_time": 1747630767,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195481,
+        "num": 231773,
+        "word": "拜登前列腺癌",
+        "onboard_time": 1747613304,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114000,
+        "num": 230492,
+        "word": "如何得到京东外卖饭卡",
+        "onboard_time": 1747631246,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69943,
+        "num": 230286,
+        "word": "大马力电车更要敬畏安全",
+        "onboard_time": 1747628245,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230174,
+        "num": 230174,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184550,
+        "num": 212118,
+        "word": "李晟邓萃雯回应打包去花少",
+        "onboard_time": 1747631724,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196891,
+        "num": 196891,
+        "word": "九重紫 窦昭篇",
+        "onboard_time": 1747627164,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197593,
+        "num": 196264,
+        "word": "一旦下班回到家里并换上了睡衣",
+        "onboard_time": 1747632504,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99770,
+        "num": 193264,
+        "word": "刘亦菲说P人要用美团闪购",
+        "onboard_time": 1747633285,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192987,
+        "num": 192987,
+        "word": "乔丹4000万年薪担任解说",
+        "onboard_time": 1747631964,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192469,
+        "num": 192469,
+        "word": "何泓姗连播两部剧都破3w",
+        "onboard_time": 1747629865,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187916,
+        "num": 187916,
+        "word": "戚薇晒和陈丽君合照",
+        "onboard_time": 1747633043,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184597,
+        "num": 184597,
+        "word": "终于有剧拍出了不是嘶吼式哭戏",
+        "onboard_time": 1747633161,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180455,
+        "num": 180455,
+        "word": "藏海传 非遗药发木偶",
+        "onboard_time": 1747632205,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6361,
+        "num": 171119,
+        "word": "特厨隋坡事件梳理",
+        "onboard_time": 1747633223,
+        "rank": 38,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 165792,
+        "num": 165792,
+        "word": "巴基斯坦拟采购40架J35A",
+        "onboard_time": 1747628124,
+        "rank": 39,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 164446,
+        "num": 164446,
+        "word": "警方通报网传2飞车党追幼儿园女孩",
+        "onboard_time": 1747628605,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72223,
+        "num": 164381,
+        "word": "乡政府回应永久基本农田沦为垃圾场",
+        "onboard_time": 1747633344,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164362,
+        "num": 164362,
+        "word": "春夏新剧一个眼神从厌恶到关心",
+        "onboard_time": 1747632683,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36048,
+        "num": 154904,
+        "word": "杜特尔特或将狱中宣誓就职",
+        "onboard_time": 1747631425,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140060,
+        "num": 154469,
+        "word": "小米15SPro",
+        "onboard_time": 1747629384,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154439,
+        "num": 154439,
+        "word": "孙颖莎展望混双对阵雨果组合",
+        "onboard_time": 1747632804,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154079,
+        "num": 154079,
+        "word": "樊振东禁毒形象大使",
+        "onboard_time": 1747625724,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153982,
+        "num": 153982,
+        "word": "藏海传热度已破9000",
+        "onboard_time": 1747631128,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153282,
+        "num": 153282,
+        "word": "黄杨钿甜同款耳环仿款售价不到百元",
+        "onboard_time": 1747586721,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145346,
+        "num": 145346,
+        "word": "DRG维权声明",
+        "onboard_time": 1747629865,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026年开始实施十五五规划#"
+    }
+  }
+}
