@@ -1,0 +1,410 @@
+{
+  "runTime": 1747620230561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1530520,
+        "num": 1530520,
+        "word": "叶晓粤说陈奕迅去世是假新闻",
+        "onboard_time": 1747610541,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566970,
+        "num": 566970,
+        "word": "病重男孩与全班拍毕业照次日离世",
+        "onboard_time": 1747583604,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29547,
+        "num": 402523,
+        "word": "天问二号一次发射实施任务可不少",
+        "onboard_time": 1747573162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 971790,
+        "num": 386951,
+        "word": "再见爱人再见Lisa",
+        "onboard_time": 1747618102,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362993,
+        "num": 362993,
+        "word": "央视曝光永久基本农田竟沦为垃圾场",
+        "onboard_time": 1747585464,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2396391,
+        "num": 360569,
+        "word": "拜登癌细胞扩散至骨骼",
+        "onboard_time": 1747612942,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795400,
+        "num": 358743,
+        "word": "拜登前列腺癌",
+        "onboard_time": 1747613304,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 747913,
+        "num": 355822,
+        "word": "藏海微do了",
+        "onboard_time": 1747612102,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440147,
+        "num": 354744,
+        "word": "周冬雨张凌赫G社生图",
+        "onboard_time": 1747615293,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352682,
+        "num": 352682,
+        "word": "358家5A景区全名单",
+        "onboard_time": 1747614023,
+        "rank": 9,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 399219,
+        "num": 343109,
+        "word": "小伙摔倒以为没事7天后死亡",
+        "onboard_time": 1747579403,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325393,
+        "num": 325393,
+        "word": "成都到新疆售价5万起专列卖爆",
+        "onboard_time": 1747580004,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297212,
+        "num": 297212,
+        "word": "折腰赘婿被同一个导游坑了",
+        "onboard_time": 1747618942,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250468,
+        "num": 250468,
+        "word": "母子错过航班大闹机场称耽误次日考公",
+        "onboard_time": 1747568363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237064,
+        "num": 237064,
+        "word": "藏海传收视率",
+        "onboard_time": 1747572262,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220385,
+        "num": 220385,
+        "word": "甘薇让大家别替赵丽颖操心",
+        "onboard_time": 1747584445,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210432,
+        "num": 210432,
+        "word": "石凯新歌",
+        "onboard_time": 1747612161,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203437,
+        "num": 203437,
+        "word": "对美国欧盟等共聚聚甲醛征反倾销税",
+        "onboard_time": 1747616853,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192156,
+        "num": 192156,
+        "word": "建议所有人积极地夺回线下生活",
+        "onboard_time": 1747619423,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185429,
+        "num": 185429,
+        "word": "郑州今天最高气温超40度",
+        "onboard_time": 1747618402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641248,
+        "num": 180642,
+        "word": "黄杨钿甜同款耳环仿款售价不到百元",
+        "onboard_time": 1747586721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202939,
+        "num": 179198,
+        "word": "安静公主自曝术后肚子大到像怀孕",
+        "onboard_time": 1747588338,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202171,
+        "num": 177311,
+        "word": "网红小黄豆没参加高考",
+        "onboard_time": 1747588699,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 170176,
+        "word": "原来我一直错怪粉底液了",
+        "onboard_time": 1747611801,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 73748,
+        "num": 165507,
+        "word": "敬戈登是条汉子",
+        "onboard_time": 1747619001,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164686,
+        "num": 164686,
+        "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
+        "onboard_time": 1747580424,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151195,
+        "num": 151195,
+        "word": "孙俪邓超打假AI虚假广告",
+        "onboard_time": 1747616372,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143354,
+        "num": 143354,
+        "word": "俄方问乌克兰能撑多久",
+        "onboard_time": 1747613723,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131327,
+        "num": 131327,
+        "word": "大家都不去ktv和spa了",
+        "onboard_time": 1747568121,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118484,
+        "num": 118484,
+        "word": "自媒体假扮官方蹭国安热度",
+        "onboard_time": 1747614083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135085,
+        "num": 118476,
+        "word": "茅台股东大会前夜晚宴改为自助餐",
+        "onboard_time": 1747619662,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128858,
+        "num": 118467,
+        "word": "上市公司重大资产重组新规落地",
+        "onboard_time": 1747619423,
+        "rank": 31,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 118437,
+        "num": 118437,
+        "word": "情侣关系越稳定越容易一起变胖",
+        "onboard_time": 1747612042,
+        "rank": 32,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 117994,
+        "num": 117994,
+        "word": "折腰表妹下线",
+        "onboard_time": 1747612644,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117708,
+        "num": 117708,
+        "word": "艾威发文悼念妻子",
+        "onboard_time": 1747617092,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115417,
+        "num": 115417,
+        "word": "吃串串买单222根自己数仅119根",
+        "onboard_time": 1747567581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114434,
+        "num": 114434,
+        "word": "吴彤提前一年请刘涛上节目",
+        "onboard_time": 1747612161,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109435,
+        "num": 109435,
+        "word": "肖战说张婧仪自带一种神秘感",
+        "onboard_time": 1747615293,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109243,
+        "num": 109243,
+        "word": "24岁女生突发脑出血后不会说英语",
+        "onboard_time": 1747569562,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103339,
+        "num": 103339,
+        "word": "一生不缺钱的6大星座",
+        "onboard_time": 1747608917,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99229,
+        "num": 99229,
+        "word": "欧盟iPhone用户或可抛弃Siri",
+        "onboard_time": 1747619963,
+        "rank": 40,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 97221,
+        "num": 97221,
+        "word": "林高远说早发现问题早解决",
+        "onboard_time": 1747619423,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96468,
+        "num": 96468,
+        "word": "藏海传",
+        "onboard_time": 1747566501,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95348,
+        "num": 95348,
+        "word": "AirPods明年或有重大更新",
+        "onboard_time": 1747619303,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94783,
+        "num": 94783,
+        "word": "鬼灭之刃栗花落香奈乎",
+        "onboard_time": 1747620082,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93266,
+        "num": 93266,
+        "word": "WBG首发辅助Hang",
+        "onboard_time": 1747616853,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39180,
+        "num": 92402,
+        "word": "林高远晋级世乒赛64强",
+        "onboard_time": 1747616554,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92310,
+        "num": 92310,
+        "word": "Deft即将入伍",
+        "onboard_time": 1747618163,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91646,
+        "num": 91646,
+        "word": "李嘉格妈妈和婆婆关系不好",
+        "onboard_time": 1747612462,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90383,
+        "num": 90383,
+        "word": "不舒服就摔门走人",
+        "onboard_time": 1747611561,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记和博物馆的故事#"
+    }
+  }
+}

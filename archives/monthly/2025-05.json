@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747611511065,
+  "endTime": 1747620230561,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -353,6 +353,14 @@
       "onboard_time": 1746792201,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2396391,
+      "num": 360569,
+      "word": "拜登癌细胞扩散至骨骼",
+      "onboard_time": 1747612942,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2366410,
@@ -1336,6 +1344,14 @@
       "word": "杜华考虑签约武大校花引发热议",
       "onboard_time": 1746185910,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1530520,
+      "num": 1530520,
+      "word": "叶晓粤说陈奕迅去世是假新闻",
+      "onboard_time": 1747610541,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2731,14 +2747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1094537,
-      "num": 1094537,
-      "word": "叶晓粤说陈奕迅去世是假新闻",
-      "onboard_time": 1747610541,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1093557,
       "num": 1093557,
       "word": "大家都不去ktv和spa了",
@@ -3156,7 +3164,7 @@
     },
     {
       "raw_hot": 1027797,
-      "num": 312333,
+      "num": 343109,
       "word": "小伙摔倒以为没事7天后死亡",
       "onboard_time": 1747579403,
       "rank": 10,
@@ -3433,6 +3441,14 @@
       "onboard_time": 1747011381,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 971790,
+      "num": 386951,
+      "word": "再见爱人再见Lisa",
+      "onboard_time": 1747618102,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 970555,
@@ -4723,6 +4739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 795400,
+      "num": 358743,
+      "word": "拜登前列腺癌",
+      "onboard_time": 1747613304,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 794290,
       "num": 794290,
       "word": "一救护车疑在墨脱旅游拉警报开道",
@@ -5225,6 +5249,14 @@
       "onboard_time": 1747463240,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 747913,
+      "num": 355822,
+      "word": "藏海微do了",
+      "onboard_time": 1747612102,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 747692,
@@ -10507,6 +10539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440147,
+      "num": 354744,
+      "word": "周冬雨张凌赫G社生图",
+      "onboard_time": 1747615293,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 440031,
       "num": 440031,
       "word": "三问工行金条掺假事件",
@@ -13123,6 +13163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 352682,
+      "num": 352682,
+      "word": "358家5A景区全名单",
+      "onboard_time": 1747614023,
+      "rank": 9,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 352550,
       "num": 352550,
       "word": "全红婵收获全场首个10分",
@@ -15641,6 +15689,14 @@
       "onboard_time": 1747461982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297212,
+      "num": 297212,
+      "word": "折腰赘婿被同一个导游坑了",
+      "onboard_time": 1747618942,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 297137,
@@ -21995,6 +22051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210432,
+      "num": 210432,
+      "word": "石凯新歌",
+      "onboard_time": 1747612161,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210294,
       "num": 281515,
       "word": "中国空间站发现微生物新物种",
@@ -23481,6 +23545,14 @@
       "onboard_time": 1746276202,
       "rank": 46,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 203437,
+      "num": 203437,
+      "word": "对美国欧盟等共聚聚甲醛征反倾销税",
+      "onboard_time": 1747616853,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203428,
@@ -26339,6 +26411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192156,
+      "num": 192156,
+      "word": "建议所有人积极地夺回线下生活",
+      "onboard_time": 1747619423,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192150,
       "num": 176954,
       "word": "刘宇宁折腰片尾曲烽月音频上线",
@@ -28201,6 +28281,14 @@
       "onboard_time": 1747278622,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185429,
+      "num": 185429,
+      "word": "郑州今天最高气温超40度",
+      "onboard_time": 1747618402,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185334,
@@ -31361,6 +31449,14 @@
       "onboard_time": 1746977182,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "原来我一直错怪粉底液了",
+      "onboard_time": 1747611801,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 170138,
@@ -36627,6 +36723,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 151195,
+      "num": 151195,
+      "word": "孙俪邓超打假AI虚假广告",
+      "onboard_time": 1747616372,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151184,
       "num": 151184,
       "word": "谁懂有效化妆的含金量",
@@ -38737,6 +38841,14 @@
       "onboard_time": 1747458509,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 143354,
+      "num": 143354,
+      "word": "俄方问乌克兰能撑多久",
+      "onboard_time": 1747613723,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143347,
@@ -41403,6 +41515,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 135085,
+      "num": 118476,
+      "word": "茅台股东大会前夜晚宴改为自助餐",
+      "onboard_time": 1747619662,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135078,
       "num": 135078,
       "word": "iPhone17Air参数曝光",
@@ -43377,6 +43497,14 @@
       "onboard_time": 1747096762,
       "rank": 45,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 128858,
+      "num": 118467,
+      "word": "上市公司重大资产重组新规落地",
+      "onboard_time": 1747619423,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 128857,
@@ -46635,6 +46763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118484,
+      "num": 118484,
+      "word": "自媒体假扮官方蹭国安热度",
+      "onboard_time": 1747614083,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118464,
       "num": 118464,
       "word": "张云龙说弘业后悔了",
@@ -46649,6 +46785,14 @@
       "onboard_time": 1747042524,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118437,
+      "num": 118437,
+      "word": "情侣关系越稳定越容易一起变胖",
+      "onboard_time": 1747612042,
+      "rank": 32,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 118416,
@@ -46787,6 +46931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117994,
+      "num": 117994,
+      "word": "折腰表妹下线",
+      "onboard_time": 1747612644,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117976,
       "num": 117976,
       "word": "秀智好美",
@@ -46849,6 +47001,14 @@
       "onboard_time": 1746080242,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117708,
+      "num": 117708,
+      "word": "艾威发文悼念妻子",
+      "onboard_time": 1747617092,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 117683,
@@ -47785,6 +47945,14 @@
       "onboard_time": 1746526461,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114434,
+      "num": 114434,
+      "word": "吴彤提前一年请刘涛上节目",
+      "onboard_time": 1747612161,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 114426,
@@ -49145,6 +49313,14 @@
       "onboard_time": 1746603742,
       "rank": 18,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 109435,
+      "num": 109435,
+      "word": "肖战说张婧仪自带一种神秘感",
+      "onboard_time": 1747615293,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 109428,
@@ -51315,6 +51491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99229,
+      "num": 99229,
+      "word": "欧盟iPhone用户或可抛弃Siri",
+      "onboard_time": 1747619963,
+      "rank": 40,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 99174,
       "num": 99174,
       "word": "邓超世面都见过这种人没见过",
@@ -51609,6 +51793,14 @@
       "onboard_time": 1746455002,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97221,
+      "num": 97221,
+      "word": "林高远说早发现问题早解决",
+      "onboard_time": 1747619423,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 97196,
@@ -51931,6 +52123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95348,
+      "num": 95348,
+      "word": "AirPods明年或有重大更新",
+      "onboard_time": 1747619303,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95278,
       "num": 376264,
       "word": "易小星人生开门红太敢拍了",
@@ -52017,6 +52217,14 @@
       "onboard_time": 1746316279,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94783,
+      "num": 94783,
+      "word": "鬼灭之刃栗花落香奈乎",
+      "onboard_time": 1747620082,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 94727,
@@ -52259,6 +52467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93266,
+      "num": 93266,
+      "word": "WBG首发辅助Hang",
+      "onboard_time": 1747616853,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93256,
       "num": 93256,
       "word": "张亮不愧是当过爸爸的人",
@@ -52427,6 +52643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92310,
+      "num": 92310,
+      "word": "Deft即将入伍",
+      "onboard_time": 1747618163,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92309,
       "num": 232662,
       "word": "以色列允许向加沙提供基本粮食",
@@ -52537,6 +52761,14 @@
       "onboard_time": 1746974723,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91646,
+      "num": 91646,
+      "word": "李嘉格妈妈和婆婆关系不好",
+      "onboard_time": 1747612462,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91644,
@@ -52721,6 +52953,14 @@
       "onboard_time": 1747363640,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90383,
+      "num": 90383,
+      "word": "不舒服就摔门走人",
+      "onboard_time": 1747611561,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 90377,
@@ -55289,6 +55529,14 @@
       "onboard_time": 1747373722,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73748,
+      "num": 165507,
+      "word": "敬戈登是条汉子",
+      "onboard_time": 1747619001,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 73721,
@@ -61273,6 +61521,14 @@
       "onboard_time": 1746333380,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39180,
+      "num": 92402,
+      "word": "林高远晋级世乒赛64强",
+      "onboard_time": 1747616554,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 39174,
