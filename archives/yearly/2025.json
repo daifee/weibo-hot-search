@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747654693171,
+  "endTime": 1747659183784,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1499,6 +1499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 4068789,
+      "num": 4068789,
+      "word": "陈奕迅",
+      "onboard_time": 1747654883,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4038610,
       "num": 4038610,
       "word": "外交部回应美国对华征收104%关税",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737886339,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3141677,
-      "num": 3141677,
-      "word": "结婚离婚登记不再需要户口簿了",
-      "onboard_time": 1744280122,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
