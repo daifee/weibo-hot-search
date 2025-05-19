@@ -1,0 +1,410 @@
+{
+  "runTime": 1747683430412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180852,
+        "num": 180852,
+        "word": "凤阳鼓楼坍塌",
+        "onboard_time": 1747668502,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124258,
+        "num": 124258,
+        "word": "小伙一年卖出255辆宝马年收入71万",
+        "onboard_time": 1747676296,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20103,
+        "num": 116130,
+        "word": "中国从海上发射一箭4星",
+        "onboard_time": 1747669343,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108678,
+        "num": 108678,
+        "word": "陈奕迅ins报平安",
+        "onboard_time": 1747663710,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86056,
+        "num": 86056,
+        "word": "不是黄杨钿甜都不知道啥是火彩",
+        "onboard_time": 1747666287,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72610,
+        "num": 72610,
+        "word": "王楚钦说对组织办赛很失望",
+        "onboard_time": 1747667665,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70795,
+        "num": 70795,
+        "word": "旭旭宝宝 赵露",
+        "onboard_time": 1747671739,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56599,
+        "num": 56599,
+        "word": "交通局职工被曝与两名女生办婚礼",
+        "onboard_time": 1747671561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54794,
+        "num": 54794,
+        "word": "迪丽热巴虞书欣直播状态",
+        "onboard_time": 1747671981,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48014,
+        "num": 48014,
+        "word": "主裁称王楚钦球拍没问题",
+        "onboard_time": 1747662567,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78292,
+        "num": 47983,
+        "word": "珠宝鉴定师说耳环不太像正品",
+        "onboard_time": 1747661365,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57137,
+        "num": 47873,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47639,
+        "num": 47639,
+        "word": "网店称去年退回衣服中有30多副耳机",
+        "onboard_time": 1747664490,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44124,
+        "num": 44124,
+        "word": "闵塔鲨 迪丽热巴",
+        "onboard_time": 1747662206,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39156,
+        "num": 39156,
+        "word": "收视率",
+        "onboard_time": 1747664727,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38708,
+        "num": 38708,
+        "word": "桃花坞打码",
+        "onboard_time": 1747658904,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37514,
+        "num": 37514,
+        "word": "MAMA 香港",
+        "onboard_time": 1747661064,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32490,
+        "num": 32490,
+        "word": "文旅局回应明中都鼓楼瓦片脱落",
+        "onboard_time": 1747669103,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31401,
+        "num": 31401,
+        "word": "王者荣耀",
+        "onboard_time": 1747666884,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27461,
+        "num": 27461,
+        "word": "520表白日",
+        "onboard_time": 1747675757,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35674,
+        "num": 27420,
+        "word": "陈奕迅",
+        "onboard_time": 1747654883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20472,
+        "num": 27379,
+        "word": "中美对话合作可以取得互利共赢结果",
+        "onboard_time": 1747682054,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30477,
+        "num": 27335,
+        "word": "鹅妈妈 纤维粒",
+        "onboard_time": 1747665628,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29730,
+        "num": 27318,
+        "word": "肖战张婧仪周奇黄觉拍立得合照",
+        "onboard_time": 1747670843,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27289,
+        "num": 27289,
+        "word": "李晟参加浪姐申请了五次",
+        "onboard_time": 1747666645,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27004,
+        "num": 27004,
+        "word": "肖指导赛后去找裁判了",
+        "onboard_time": 1747669644,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24500,
+        "num": 24500,
+        "word": "折腰预告",
+        "onboard_time": 1747668024,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24292,
+        "num": 24292,
+        "word": "藏海传",
+        "onboard_time": 1747654403,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24116,
+        "num": 24116,
+        "word": "虞书欣爸爸维权声明",
+        "onboard_time": 1747653503,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21700,
+        "num": 21700,
+        "word": "货车司机深夜下车睡觉被狼咬伤",
+        "onboard_time": 1747668683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26752,
+        "num": 21668,
+        "word": "抖音崩了",
+        "onboard_time": 1747660883,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21599,
+        "num": 21599,
+        "word": "黄杨钿甜爸爸刚从一生物公司退出",
+        "onboard_time": 1747657826,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21185,
+        "num": 21185,
+        "word": "韦雪男友妈妈住韦雪家",
+        "onboard_time": 1747661365,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 20896,
+        "word": "孙颖莎雨果中远台对拉太帅了",
+        "onboard_time": 1747675457,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20235,
+        "num": 20235,
+        "word": "章泽天陈都灵 缘分妙不可言",
+        "onboard_time": 1747678816,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19331,
+        "num": 19331,
+        "word": "美方给别人下绊子不会让自己跑更快",
+        "onboard_time": 1747669222,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19091,
+        "num": 19331,
+        "word": "肖战藏海传演技",
+        "onboard_time": 1747678875,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10560,
+        "num": 19330,
+        "word": "巴基斯坦副总理兼外长访华",
+        "onboard_time": 1747683313,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18664,
+        "num": 19330,
+        "word": "张凌赫都歪成这样了你还无动于衷",
+        "onboard_time": 1747659026,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18095,
+        "num": 19330,
+        "word": "一辈子的爱什么样",
+        "onboard_time": 1747678276,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17850,
+        "num": 19329,
+        "word": "母子大闹机场不该由社会买单",
+        "onboard_time": 1747665446,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17492,
+        "num": 19328,
+        "word": "貂蝉皮肤",
+        "onboard_time": 1747651225,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16885,
+        "num": 19328,
+        "word": "中餐厅9摩洛哥路透",
+        "onboard_time": 1747680194,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16852,
+        "num": 19327,
+        "word": "宋亚轩高会",
+        "onboard_time": 1747667485,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16698,
+        "num": 19327,
+        "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
+        "onboard_time": 1747667665,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16235,
+        "num": 19327,
+        "word": "宋雨琦就自费购买门票失言道歉",
+        "onboard_time": 1747655664,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15537,
+        "num": 19326,
+        "word": "鹭卓录音室无声直播",
+        "onboard_time": 1747670062,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15408,
+        "num": 19325,
+        "word": "多哈世乒赛组织混乱缩影",
+        "onboard_time": 1747668923,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15405,
+        "num": 19325,
+        "word": "于适亮相戛纳中国青年电影活动",
+        "onboard_time": 1747673958,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15065,
+        "num": 19325,
+        "word": "孙杨第八",
+        "onboard_time": 1747655242,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国2026年实施十五五规划#"
+    }
+  }
+}
