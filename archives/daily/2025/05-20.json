@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747693504624,
+  "endTime": 1747694567992,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570060,
+      "num": 570060,
+      "word": "交通局职工被曝与两名女生办婚礼",
+      "onboard_time": 1747671561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564298,
       "num": 564298,
       "word": "闵塔鲨 迪丽热巴",
@@ -83,20 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398413,
-      "num": 398413,
-      "word": "交通局职工被曝与两名女生办婚礼",
-      "onboard_time": 1747671561,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 390015,
       "num": 390015,
       "word": "陈奕迅",
       "onboard_time": 1747654883,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382021,
+      "num": 382021,
+      "word": "小伙一年卖出255辆宝马年收入71万",
+      "onboard_time": 1747676296,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365055,
@@ -137,14 +145,6 @@
       "onboard_time": 1747667665,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270427,
-      "num": 270427,
-      "word": "小伙一年卖出255辆宝马年收入71万",
-      "onboard_time": 1747676296,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267072,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152066,
+      "num": 152066,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147271,
       "num": 147271,
       "word": "鹅妈妈 纤维粒",
@@ -283,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122532,
+      "num": 122532,
+      "word": "主裁称王楚钦球拍没问题",
+      "onboard_time": 1747662567,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117985,
       "num": 117985,
       "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107718,
-      "num": 107718,
-      "word": "母子大闹机场不该由社会买单",
-      "onboard_time": 1747665446,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104287,
       "num": 104287,
       "word": "张子枫戛纳电影节造型",
@@ -337,14 +345,6 @@
       "onboard_time": 1747654403,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93512,
-      "num": 93512,
-      "word": "主裁称王楚钦球拍没问题",
-      "onboard_time": 1747662567,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 89016,
@@ -451,6 +451,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47435,
+      "num": 47435,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 46630,
+      "num": 46630,
+      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
+      "onboard_time": 1747685833,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44952,
       "num": 44952,
       "word": "莎头这一球太精彩了",
@@ -459,20 +475,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37861,
-      "num": 37861,
-      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
-      "onboard_time": 1747685833,
-      "rank": 22,
+      "raw_hot": 44144,
+      "num": 46750,
+      "word": "一辈子的爱什么样",
+      "onboard_time": 1747678276,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34505,
-      "num": 34505,
-      "word": "韦雪男友妈妈住韦雪家",
-      "onboard_time": 1747661365,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 37396,
+      "num": 37396,
+      "word": "中餐厅9摩洛哥路透",
+      "onboard_time": 1747680194,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37378,
+      "num": 37378,
+      "word": "张檬儿子满月",
+      "onboard_time": 1747693094,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33073,
+      "num": 37374,
+      "word": "71岁的成龙比20岁的我还灵活",
+      "onboard_time": 1747693818,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 32890,
@@ -483,52 +515,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 32731,
-      "num": 35667,
-      "word": "一辈子的爱什么样",
-      "onboard_time": 1747678276,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28382,
-      "num": 28382,
-      "word": "中餐厅9摩洛哥路透",
-      "onboard_time": 1747680194,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26354,
-      "num": 30524,
+      "raw_hot": 30946,
+      "num": 37371,
       "word": "肖战藏海传演技",
       "onboard_time": 1747678875,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 25445,
-      "num": 30535,
+      "raw_hot": 29229,
+      "num": 37366,
       "word": "章泽天陈都灵 缘分妙不可言",
       "onboard_time": 1747678816,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 22923,
-      "num": 22923,
+      "raw_hot": 24771,
+      "num": 37355,
       "word": "于适亮相戛纳中国青年电影活动",
       "onboard_time": 1747673958,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22152,
-      "num": 22152,
-      "word": "张檬儿子满月",
-      "onboard_time": 1747693094,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 20766,
