@@ -1,0 +1,410 @@
+{
+  "runTime": 1747661847601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4622223,
+        "num": 4622223,
+        "word": "王楚钦换球拍",
+        "onboard_time": 1747660525,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4209574,
+        "num": 4209574,
+        "word": "陈奕迅",
+        "onboard_time": 1747654883,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66948,
+        "num": 2508834,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1356235,
+        "num": 1356235,
+        "word": "桃花坞打码",
+        "onboard_time": 1747658904,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1353782,
+        "num": 1353782,
+        "word": "孙颖莎王楚钦vs巴西组合",
+        "onboard_time": 1747660164,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809668,
+        "num": 809668,
+        "word": "王楚钦孙颖莎目标是复刻杯",
+        "onboard_time": 1747661726,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887321,
+        "num": 806569,
+        "word": "曝迪丽热巴将离开嘉行",
+        "onboard_time": 1747655063,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713629,
+        "num": 713629,
+        "word": "孙杨第八",
+        "onboard_time": 1747655242,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568223,
+        "num": 568223,
+        "word": "王楚钦孙颖莎VS雨果高桥布鲁娜",
+        "onboard_time": 1747660164,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105970,
+        "num": 557952,
+        "word": "充电桩进小区咋就这么难",
+        "onboard_time": 1747660104,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2182827,
+        "num": 557352,
+        "word": "徐濠萦 陈奕迅",
+        "onboard_time": 1747661785,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553912,
+        "num": 553912,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1747657163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502247,
+        "num": 502247,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56483,
+        "num": 468330,
+        "word": "1564吨泰国榴莲抵达广州",
+        "onboard_time": 1747661425,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100149,
+        "num": 458162,
+        "word": "环卫工将垃圾倒在路上顺积水漂走",
+        "onboard_time": 1747660104,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458145,
+        "num": 458145,
+        "word": "宋雨琦就自费购买门票失言道歉",
+        "onboard_time": 1747655664,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452804,
+        "num": 452804,
+        "word": "国台办谈欧阳娜娜被台当局列入查核对象",
+        "onboard_time": 1747658303,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451696,
+        "num": 451696,
+        "word": "黄杨钿甜爸爸刚从一生物公司退出",
+        "onboard_time": 1747657826,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128226,
+        "num": 438132,
+        "word": "华为nova14搭载全新芯片",
+        "onboard_time": 1747659925,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196719,
+        "num": 433835,
+        "word": "业主称孩子生病要送医物业不给开电梯",
+        "onboard_time": 1747660225,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431354,
+        "num": 431354,
+        "word": "虞书欣爸爸维权声明",
+        "onboard_time": 1747653503,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87026,
+        "num": 346928,
+        "word": "王者荣耀520有哪些新皮肤",
+        "onboard_time": 1747661486,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 9852,
+        "num": 332102,
+        "word": "中国古代高科技农具是如何使用的",
+        "onboard_time": 1747660585,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 325282,
+        "num": 325282,
+        "word": "MAMA 香港",
+        "onboard_time": 1747661064,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322703,
+        "num": 322703,
+        "word": "百花杀",
+        "onboard_time": 1747655305,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320153,
+        "num": 320153,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254173,
+        "num": 254173,
+        "word": "藏海传",
+        "onboard_time": 1747654403,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69531,
+        "num": 248441,
+        "word": "被天降玻璃砸伤女孩父亲发声",
+        "onboard_time": 1747660104,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20389,
+        "num": 248241,
+        "word": "隋坡的脾气是真的好",
+        "onboard_time": 1747660405,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110683,
+        "num": 248193,
+        "word": "朝鲜时隔五年重启中文水平考试",
+        "onboard_time": 1747661486,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248178,
+        "num": 248178,
+        "word": "偷加洗手液女孩家长与博主和解",
+        "onboard_time": 1747654103,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385404,
+        "num": 245773,
+        "word": "抖音崩了",
+        "onboard_time": 1747660883,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35224,
+        "num": 243440,
+        "word": "记者再探试管婴儿黑作坊",
+        "onboard_time": 1747661666,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 250702,
+        "num": 241173,
+        "word": "张凌赫都歪成这样了你还无动于衷",
+        "onboard_time": 1747659026,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65868,
+        "num": 238174,
+        "word": "王楚钦孙颖莎混双晋级16强",
+        "onboard_time": 1747661726,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238088,
+        "num": 238088,
+        "word": "日本警方回应中国大学生富士山遇险",
+        "onboard_time": 1747655003,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85054,
+        "num": 236928,
+        "word": "全国重点文保单位施琅墓被曝成放牛场",
+        "onboard_time": 1747659864,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236208,
+        "num": 236208,
+        "word": "年轻人送礼已经进化到这种程度了",
+        "onboard_time": 1747660405,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232229,
+        "num": 232229,
+        "word": "新冠病毒检出率升高",
+        "onboard_time": 1747654282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232096,
+        "num": 232096,
+        "word": "藏海传节奏",
+        "onboard_time": 1747660283,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220451,
+        "num": 220451,
+        "word": "伊能静发文否认婚变",
+        "onboard_time": 1747657405,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216098,
+        "num": 216098,
+        "word": "潘展乐说孙杨汪顺是永远的偶像",
+        "onboard_time": 1747658664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211111,
+        "num": 211111,
+        "word": "韦雪男友妈妈住韦雪家",
+        "onboard_time": 1747661365,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208690,
+        "num": 208690,
+        "word": "珠宝鉴定师说耳环不太像正品",
+        "onboard_time": 1747661365,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201389,
+        "num": 201389,
+        "word": "孙杨盯着成绩笑了",
+        "onboard_time": 1747660283,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206421,
+        "num": 201206,
+        "word": "女子易胖体质生完孩子胖了200多斤",
+        "onboard_time": 1747655843,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200191,
+        "num": 200191,
+        "word": "貂蝉皮肤",
+        "onboard_time": 1747651225,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197304,
+        "num": 197304,
+        "word": "神级沈星回cos出现了",
+        "onboard_time": 1747661726,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181604,
+        "num": 181604,
+        "word": "没有吃饭的欲望全是对儿媳的渴望",
+        "onboard_time": 1747658484,
+        "rank": 48,
+        "category": "幽默,幽默"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 178762,
+        "word": "潘展乐孙杨温暖抱抱",
+        "onboard_time": 1747660883,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
+    }
+  }
+}
