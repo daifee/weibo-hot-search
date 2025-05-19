@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747637465110,
+  "endTime": 1747639577033,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2210167,
+      "num": 2210167,
+      "word": "3nm",
+      "onboard_time": 1747629985,
+      "rank": 41,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 1645715,
       "num": 1645715,
       "word": "央视曝光怕被卫星拍到的垃圾山",
@@ -81,14 +89,6 @@
       "onboard_time": 1747622842,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1261532,
-      "num": 1261532,
-      "word": "3nm",
-      "onboard_time": 1747629985,
-      "rank": 41,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 1183966,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 627282,
-      "num": 517571,
+      "num": 574136,
       "word": "演员隋永清去世",
       "onboard_time": 1747635802,
       "rank": 9,
@@ -273,6 +273,14 @@
       "onboard_time": 1747628664,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 602799,
+      "num": 602799,
+      "word": "工资5000 情绪管理",
+      "onboard_time": 1747637303,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 591748,
@@ -339,12 +347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462394,
+      "num": 584461,
+      "word": "海关在卫生巾里查获2003粒钻石",
+      "onboard_time": 1747637063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450327,
       "num": 450327,
       "word": "杨天真要去留学一年",
       "onboard_time": 1747635624,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449792,
+      "num": 449792,
+      "word": "肖战怕热的暴汗体质",
+      "onboard_time": 1747637424,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 447460,
@@ -459,8 +483,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322473,
-      "num": 322473,
+      "raw_hot": 344761,
+      "num": 344761,
       "word": "华为发布会",
       "onboard_time": 1747635683,
       "rank": 26,
@@ -587,6 +611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243654,
+      "num": 243654,
+      "word": "小米公布一起黑公关案件",
+      "onboard_time": 1747636644,
+      "rank": 29,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 243325,
       "num": 237924,
       "word": "藏海传",
@@ -633,6 +665,14 @@
       "onboard_time": 1747622361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236573,
+      "num": 236573,
+      "word": "华为发布首款鸿蒙5直板机",
+      "onboard_time": 1747638684,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 235863,
@@ -699,14 +739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 221755,
-      "num": 221755,
-      "word": "肖战怕热的暴汗体质",
-      "onboard_time": 1747637424,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217403,
       "num": 108904,
       "word": "王楚钦下轮对阵饭冢",
@@ -755,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208654,
+      "num": 208654,
+      "word": "准车主退订遭小米汽车60天冷静期",
+      "onboard_time": 1747638626,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208537,
       "num": 208537,
       "word": "妈妈称巨痣男孩术后变得自信阳光",
@@ -779,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "张婧仪生图",
+      "onboard_time": 1747638143,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204105,
       "num": 204105,
       "word": "没想到宣璐演反派这么惊艳",
@@ -801,14 +849,6 @@
       "onboard_time": 1747616853,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202694,
-      "num": 202694,
-      "word": "小米公布一起黑公关案件",
-      "onboard_time": 1747636644,
-      "rank": 29,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 202367,
@@ -931,6 +971,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 194805,
+      "num": 194805,
+      "word": "KPL",
+      "onboard_time": 1747638444,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194021,
+      "num": 374102,
+      "word": "名侦探柯南独眼的残像官宣引进",
+      "onboard_time": 1747638444,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193480,
       "num": 193480,
       "word": "杨紫芭莎六月大片",
@@ -977,6 +1033,14 @@
       "onboard_time": 1747636464,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187475,
+      "num": 187475,
+      "word": "吴宣仪",
+      "onboard_time": 1747638804,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187459,
@@ -1083,12 +1147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169244,
-      "num": 169244,
-      "word": "工资5000 情绪管理",
-      "onboard_time": 1747637303,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "香菜泡面走红韩国的原因是什么",
+      "onboard_time": 1747638084,
+      "rank": 42,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 166904,
@@ -1113,6 +1177,14 @@
       "onboard_time": 1747631246,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163730,
+      "num": 163730,
+      "word": "肖战快点退至我身前",
+      "onboard_time": 1747638264,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 163359,
@@ -1171,12 +1243,36 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 158122,
+      "num": 479109,
+      "word": "岩羊在攀岩方面强得可怕",
+      "onboard_time": 1747638444,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157837,
       "num": 157837,
       "word": "马嘉祺歌手唱TheGreatestShow",
       "onboard_time": 1747580963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157634,
+      "num": 157634,
+      "word": "一个小胖跑步减肥自律的三年",
+      "onboard_time": 1747638563,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 154665,
+      "num": 154665,
+      "word": "小米通报网络黑公关案件",
+      "onboard_time": 1747638626,
+      "rank": 45,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 154439,
@@ -1331,12 +1427,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138638,
+      "num": 138638,
+      "word": "折腰新浪扫楼",
+      "onboard_time": 1747637963,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138017,
       "num": 138017,
       "word": "保姆变后妈占房不走腾房索要30万",
       "onboard_time": 1747578565,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137885,
+      "num": 137885,
+      "word": "柏浪涛 是时候该考虑隐退了",
+      "onboard_time": 1747639524,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136539,
+      "num": 136539,
+      "word": "金价下跌致借贷炒金损失严重",
+      "onboard_time": 1747638324,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 131834,
@@ -1385,14 +1505,6 @@
       "onboard_time": 1747624584,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127923,
-      "num": 169530,
-      "word": "海关在卫生巾里查获2003粒钻石",
-      "onboard_time": 1747637063,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126977,
@@ -1811,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78704,
+      "num": 239498,
+      "word": "携程送你去看群星盛典",
+      "onboard_time": 1747639225,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 78090,
       "num": 78090,
       "word": "张艺兴音乐节",
@@ -1883,12 +2003,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69126,
+      "num": 242889,
+      "word": "雨果称这次是冲击世界冠军绝佳机会",
+      "onboard_time": 1747633823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68996,
       "num": 209124,
       "word": "陕西高温或将超过历史极值",
       "onboard_time": 1747627344,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68057,
+      "num": 373695,
+      "word": "王晨正回应消费爷爷和作秀质疑",
+      "onboard_time": 1747638205,
+      "rank": 19,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 63596,
+      "num": 180050,
+      "word": "经常跑步的人身体6大变化",
+      "onboard_time": 1747639344,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 62098,
@@ -1979,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51767,
+      "num": 374318,
+      "word": "祝你像姐一样",
+      "onboard_time": 1747638744,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51754,
       "num": 51754,
       "word": "张凌赫章昊同框飙戏",
@@ -2035,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41183,
+      "num": 182837,
+      "word": "教资考试日历",
+      "onboard_time": 1747639045,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 41068,
       "num": 41068,
       "word": "藏海传肖战访谈",
@@ -2057,6 +2217,14 @@
       "onboard_time": 1747573162,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39194,
+      "num": 237068,
+      "word": "老人网上领免费鸡蛋却成了被执行人",
+      "onboard_time": 1747638804,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39180,
@@ -2137,6 +2305,14 @@
       "onboard_time": 1747592236,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27174,
+      "num": 425805,
+      "word": "刘亦菲收到表白信",
+      "onboard_time": 1747638744,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 26165,
@@ -2275,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12140,
+      "num": 373838,
+      "word": "藏海传是怎样和非遗技术结合的",
+      "onboard_time": 1747638984,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 10439,
       "num": 303885,
       "word": "天问二号是如何兼顾多项任务的",
@@ -2297,6 +2481,14 @@
       "onboard_time": 1747631785,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 8195,
+      "num": 237790,
+      "word": "克什米尔对巴基斯坦到底多重要",
+      "onboard_time": 1747639344,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 6361,

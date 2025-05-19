@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747637465110,
+  "endTime": 1747639577033,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -481,6 +481,14 @@
       "onboard_time": 1747559061,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2210167,
+      "num": 2210167,
+      "word": "3nm",
+      "onboard_time": 1747629985,
+      "rank": 41,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 2207002,
@@ -2217,14 +2225,6 @@
       "onboard_time": 1746084801,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1261532,
-      "num": 1261532,
-      "word": "3nm",
-      "onboard_time": 1747629985,
-      "rank": 41,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 1260340,
@@ -6956,7 +6956,7 @@
     },
     {
       "raw_hot": 627282,
-      "num": 517571,
+      "num": 574136,
       "word": "演员隋永清去世",
       "onboard_time": 1747635802,
       "rank": 9,
@@ -7345,6 +7345,14 @@
       "onboard_time": 1746402499,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 602799,
+      "num": 602799,
+      "word": "工资5000 情绪管理",
+      "onboard_time": 1747637303,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 602760,
@@ -10163,6 +10171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 462394,
+      "num": 584461,
+      "word": "海关在卫生巾里查获2003粒钻石",
+      "onboard_time": 1747637063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461296,
       "num": 461296,
       "word": "吴宣仪陈德容穿婚纱唱爱存在",
@@ -10481,6 +10497,14 @@
       "onboard_time": 1746590723,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 449792,
+      "num": 449792,
+      "word": "肖战怕热的暴汗体质",
+      "onboard_time": 1747637424,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 449771,
@@ -13747,6 +13771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344761,
+      "num": 344761,
+      "word": "华为发布会",
+      "onboard_time": 1747635683,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 344524,
       "num": 231172,
       "word": "黄杨钿甜",
@@ -14593,14 +14625,6 @@
       "onboard_time": 1746183389,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322473,
-      "num": 322473,
-      "word": "华为发布会",
-      "onboard_time": 1747635683,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 322436,
@@ -19467,6 +19491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243654,
+      "num": 243654,
+      "word": "小米公布一起黑公关案件",
+      "onboard_time": 1747636644,
+      "rank": 29,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 243569,
       "num": 243569,
       "word": "何炅黄磊合作新节目",
@@ -19937,6 +19969,14 @@
       "onboard_time": 1746609802,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236573,
+      "num": 236573,
+      "word": "华为发布首款鸿蒙5直板机",
+      "onboard_time": 1747638684,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 236530,
@@ -21281,14 +21321,6 @@
       "onboard_time": 1746764962,
       "rank": 47,
       "category": "海外新闻,军事"
-    },
-    {
-      "raw_hot": 221755,
-      "num": 221755,
-      "word": "肖战怕热的暴汗体质",
-      "onboard_time": 1747637424,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221697,
@@ -22731,6 +22763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208654,
+      "num": 208654,
+      "word": "准车主退订遭小米汽车60天冷静期",
+      "onboard_time": 1747638626,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208632,
       "num": 208632,
       "word": "爷爷全职带三胞胎一天喂36顿饭",
@@ -23747,6 +23787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204924,
+      "num": 204924,
+      "word": "张婧仪生图",
+      "onboard_time": 1747638143,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204901,
       "num": 122209,
       "word": "工藤新一第31个17岁",
@@ -24225,14 +24273,6 @@
       "onboard_time": 1746783801,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202694,
-      "num": 202694,
-      "word": "小米公布一起黑公关案件",
-      "onboard_time": 1747636644,
-      "rank": 29,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 202681,
@@ -26131,6 +26171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194805,
+      "num": 194805,
+      "word": "KPL",
+      "onboard_time": 1746334941,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194783,
       "num": 194783,
       "word": "森林狼4比1淘汰勇士",
@@ -26401,6 +26449,14 @@
       "onboard_time": 1747557980,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194021,
+      "num": 374102,
+      "word": "名侦探柯南独眼的残像官宣引进",
+      "onboard_time": 1747638444,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 194018,
@@ -28307,12 +28363,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 187464,
-      "num": 187464,
-      "word": "KPL",
-      "onboard_time": 1746334941,
-      "rank": 43,
-      "category": "电竞"
+      "raw_hot": 187475,
+      "num": 187475,
+      "word": "吴宣仪",
+      "onboard_time": 1747638804,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187459,
@@ -32443,14 +32499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169244,
-      "num": 169244,
-      "word": "工资5000 情绪管理",
-      "onboard_time": 1747637303,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169228,
       "num": 232385,
       "word": "刘耀文代高政演双A叔侄",
@@ -32513,6 +32561,14 @@
       "onboard_time": 1746610643,
       "rank": 37,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 168968,
+      "num": 168968,
+      "word": "香菜泡面走红韩国的原因是什么",
+      "onboard_time": 1747638084,
+      "rank": 42,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 168859,
@@ -33953,6 +34009,14 @@
       "onboard_time": 1747106541,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163730,
+      "num": 163730,
+      "word": "肖战快点退至我身前",
+      "onboard_time": 1747638264,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 163666,
@@ -35403,6 +35467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158122,
+      "num": 479109,
+      "word": "岩羊在攀岩方面强得可怕",
+      "onboard_time": 1747638444,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158085,
       "num": 158085,
       "word": "97岁妈妈与75岁姑娘",
@@ -35529,6 +35601,14 @@
       "onboard_time": 1746102861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157634,
+      "num": 157634,
+      "word": "一个小胖跑步减肥自律的三年",
+      "onboard_time": 1747638563,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 157600,
@@ -36481,6 +36561,14 @@
       "onboard_time": 1747191020,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154665,
+      "num": 154665,
+      "word": "小米通报网络黑公关案件",
+      "onboard_time": 1747638626,
+      "rank": 45,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 154598,
@@ -41291,6 +41379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138638,
+      "num": 138638,
+      "word": "折腰新浪扫楼",
+      "onboard_time": 1747637963,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138629,
       "num": 224867,
       "word": "北京雷声比雨声大",
@@ -41537,6 +41633,14 @@
       "onboard_time": 1746078981,
       "rank": 43,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 137885,
+      "num": 137885,
+      "word": "柏浪涛 是时候该考虑隐退了",
+      "onboard_time": 1747639524,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 137875,
@@ -41913,6 +42017,14 @@
       "onboard_time": 1747552940,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136539,
+      "num": 136539,
+      "word": "金价下跌致借贷炒金损失严重",
+      "onboard_time": 1747638324,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 136535,
@@ -44720,14 +44832,6 @@
       "word": "快递点擅自加收1.5元取件费被查处",
       "onboard_time": 1746529043,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127923,
-      "num": 169530,
-      "word": "海关在卫生巾里查获2003粒钻石",
-      "onboard_time": 1747637063,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -55811,6 +55915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78704,
+      "num": 239498,
+      "word": "携程送你去看群星盛典",
+      "onboard_time": 1747639225,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 78698,
       "num": 78698,
       "word": "邱贻可说陈玘养猪没活几个",
@@ -57251,6 +57363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69126,
+      "num": 242889,
+      "word": "雨果称这次是冲击世界冠军绝佳机会",
+      "onboard_time": 1747633823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69112,
       "num": 246365,
       "word": "禁赛令对赵心童夺冠有影响吗",
@@ -57361,6 +57481,14 @@
       "onboard_time": 1747551683,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68057,
+      "num": 373695,
+      "word": "王晨正回应消费爷爷和作秀质疑",
+      "onboard_time": 1747638205,
+      "rank": 19,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 68052,
@@ -58025,6 +58153,14 @@
       "onboard_time": 1746094401,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63596,
+      "num": 180050,
+      "word": "经常跑步的人身体6大变化",
+      "onboard_time": 1747639344,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 63528,
@@ -60009,6 +60145,14 @@
       "onboard_time": 1746099261,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51767,
+      "num": 374318,
+      "word": "祝你像姐一样",
+      "onboard_time": 1747638744,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 51754,
@@ -62187,6 +62331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 41183,
+      "num": 182837,
+      "word": "教资考试日历",
+      "onboard_time": 1747639045,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 41182,
       "num": 33617,
       "word": "高芙四连胜安德列娃",
@@ -62625,6 +62777,14 @@
       "onboard_time": 1746333380,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39194,
+      "num": 237068,
+      "word": "老人网上领免费鸡蛋却成了被执行人",
+      "onboard_time": 1747638804,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39180,
@@ -65465,6 +65625,14 @@
       "onboard_time": 1746097280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27174,
+      "num": 425805,
+      "word": "刘亦菲收到表白信",
+      "onboard_time": 1747638744,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 27102,
@@ -69915,6 +70083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12140,
+      "num": 373838,
+      "word": "藏海传是怎样和非遗技术结合的",
+      "onboard_time": 1747638984,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12088,
       "num": 17654,
       "word": "多方回应饮品店取名警茶引争议",
@@ -70745,6 +70921,14 @@
       "onboard_time": 1746692482,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8195,
+      "num": 237790,
+      "word": "克什米尔对巴基斯坦到底多重要",
+      "onboard_time": 1747639344,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8137,
