@@ -1,10 +1,10 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747620230561,
+  "endTime": 1747621608054,
   "band_list": [
     {
       "raw_hot": 2396391,
-      "num": 360569,
+      "num": 492421,
       "word": "拜登癌细胞扩散至骨骼",
       "onboard_time": 1747612942,
       "rank": 5,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 971790,
-      "num": 386951,
+      "num": 505315,
       "word": "再见爱人再见Lisa",
       "onboard_time": 1747618102,
       "rank": 3,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 795400,
-      "num": 358743,
+      "num": 475371,
       "word": "拜登前列腺癌",
       "onboard_time": 1747613304,
       "rank": 6,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 747913,
-      "num": 355822,
+      "num": 483524,
       "word": "藏海微do了",
       "onboard_time": 1747612102,
       "rank": 7,
@@ -107,8 +107,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692733,
+      "num": 692733,
+      "word": "商场金价降至756元",
+      "onboard_time": 1747621161,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 576277,
+      "num": 467747,
+      "word": "折腰赘婿被同一个导游坑了",
+      "onboard_time": 1747618942,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568279,
-      "num": 343109,
+      "num": 355484,
       "word": "小伙摔倒以为没事7天后死亡",
       "onboard_time": 1747579403,
       "rank": 10,
@@ -121,6 +137,14 @@
       "onboard_time": 1747578204,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447460,
+      "num": 447460,
+      "word": "建议所有人积极地夺回线下生活",
+      "onboard_time": 1747619423,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 445177,
@@ -163,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419298,
+      "num": 419298,
+      "word": "358家5A景区全名单",
+      "onboard_time": 1747614023,
+      "rank": 9,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 392216,
       "num": 392216,
       "word": "母子错过航班大闹机场称耽误次日考公",
@@ -179,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 352682,
-      "num": 352682,
-      "word": "358家5A景区全名单",
-      "onboard_time": 1747614023,
-      "rank": 9,
-      "category": "旅游,民生新闻"
+      "raw_hot": 308003,
+      "num": 308003,
+      "word": "金价",
+      "onboard_time": 1747620563,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 306777,
@@ -193,14 +225,6 @@
       "onboard_time": 1747585524,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 297212,
-      "num": 297212,
-      "word": "折腰赘婿被同一个导游坑了",
-      "onboard_time": 1747618942,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 294738,
@@ -257,6 +281,14 @@
       "onboard_time": 1747578624,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241545,
+      "num": 451114,
+      "word": "郑州今天最高气温超40度",
+      "onboard_time": 1747618402,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235863,
@@ -355,28 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192156,
-      "num": 192156,
-      "word": "建议所有人积极地夺回线下生活",
-      "onboard_time": 1747619423,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185670,
       "num": 185670,
       "word": "郑晓龙从甄嬛传数砖到藏海传",
       "onboard_time": 1747583784,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185429,
-      "num": 185429,
-      "word": "郑州今天最高气温超40度",
-      "onboard_time": 1747618402,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183053,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152434,
+      "num": 152434,
+      "word": "男子喝酒怕家人发现多次30楼扔酒瓶",
+      "onboard_time": 1747621161,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152041,
       "num": 152041,
       "word": "乌克兰遭最大规模无人机袭击",
@@ -451,12 +475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144044,
+      "num": 241329,
+      "word": "618期间淘宝再次登顶多国App下载榜",
+      "onboard_time": 1747620443,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143354,
       "num": 143354,
       "word": "俄方问乌克兰能撑多久",
       "onboard_time": 1747613723,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142691,
+      "num": 142691,
+      "word": "茅台股东大会前夜晚宴改为自助餐",
+      "onboard_time": 1747619662,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142187,
@@ -483,19 +523,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139228,
+      "num": 139228,
+      "word": "原来小猫从小也能看出性格",
+      "onboard_time": 1747620384,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138017,
       "num": 138017,
       "word": "保姆变后妈占房不走腾房索要30万",
       "onboard_time": 1747578565,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135085,
-      "num": 118476,
-      "word": "茅台股东大会前夜晚宴改为自助餐",
-      "onboard_time": 1747619662,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -505,6 +545,14 @@
       "onboard_time": 1747619423,
       "rank": 31,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 128815,
+      "num": 128815,
+      "word": "约基奇借酒消愁",
+      "onboard_time": 1747621161,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 128378,
@@ -595,6 +643,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112170,
+      "num": 112170,
+      "word": "A股",
+      "onboard_time": 1747621402,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 111946,
+      "num": 111946,
+      "word": "22岁小伙上班途中遇意外判脑死亡",
+      "onboard_time": 1747621161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110004,
       "num": 110004,
       "word": "高克新",
@@ -627,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101765,
+      "num": 101765,
+      "word": "正在组织起草十五五规划建议",
+      "onboard_time": 1747621102,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100862,
       "num": 100862,
       "word": "新冠阳性率上升三类人要注意",
@@ -641,6 +713,14 @@
       "onboard_time": 1747574483,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99984,
+      "num": 99984,
+      "word": "阅文集团跌超4%",
+      "onboard_time": 1747621222,
+      "rank": 38,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 99229,
@@ -665,6 +745,14 @@
       "onboard_time": 1747619423,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95644,
+      "num": 95644,
+      "word": "艾威晒和妻子Lisa牵手照",
+      "onboard_time": 1747619783,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 95348,
@@ -777,6 +865,14 @@
       "onboard_time": 1747584265,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87214,
+      "num": 87214,
+      "word": "白酒股集体调整",
+      "onboard_time": 1747621522,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 84099,
@@ -1017,6 +1113,14 @@
       "onboard_time": 1747611382,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15170,
+      "num": 88231,
+      "word": "4分钟tabata瘦全身跟练版来了",
+      "onboard_time": 1747620384,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 14590,
