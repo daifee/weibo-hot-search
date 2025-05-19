@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/19 23:28:35
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/19 23:42:44
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ deepseek（热度：1099496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+收视率（热度：881075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%BB%84%E5%9B%A2%E7%8B%82%E9%80%8060%E5%A4%9A%E4%BB%B6%E8%A3%99%E5%AD%90%23" target="weibo">
 校方回应学生组团狂退60多件裙子（热度：877769）
 </a>
@@ -4715,12 +4721,6 @@ MAMA 香港（热度：710085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%B0%88%E5%88%A4%E5%89%8D%E4%B8%8D%E9%99%8D%E5%85%B3%E7%A8%8E%23" target="weibo">
 中方回应美称与中国谈判前不降关税（热度：696279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-收视率（热度：694659）
 </a>
 </li>
 
