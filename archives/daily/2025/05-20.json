@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747686510544,
+  "endTime": 1747687311267,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -539,8 +539,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12058,
-      "num": 23607,
+      "raw_hot": 17448,
+      "num": 31450,
       "word": "敦煌13岁女孩坠马身亡调解陷僵局",
       "onboard_time": 1747685833,
       "rank": 22,
@@ -553,6 +553,14 @@
       "onboard_time": 1747683313,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10539,
+      "num": 17581,
+      "word": "韩勇一审死缓",
+      "onboard_time": 1747685954,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
