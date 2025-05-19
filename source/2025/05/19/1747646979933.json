@@ -1,0 +1,410 @@
+{
+  "runTime": 1747646979933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523572,
+        "num": 1523572,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 0,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 1268236,
+        "num": 1268236,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90660,
+        "num": 1196343,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1150968,
+        "num": 1150968,
+        "word": "王楚钦vs饭冢",
+        "onboard_time": 1747645464,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895962,
+        "num": 895962,
+        "word": "消失3个月瘦了40斤妈妈的反应",
+        "onboard_time": 1747642165,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 860309,
+        "num": 860309,
+        "word": "原来奚梦瑶每天在家判案",
+        "onboard_time": 1747644205,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769313,
+        "num": 769313,
+        "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+        "onboard_time": 1747630104,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640200,
+        "num": 640200,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 519955,
+        "num": 519955,
+        "word": "鸿蒙电脑",
+        "onboard_time": 1747643546,
+        "rank": 8,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 243751,
+        "num": 519757,
+        "word": "日照海域再刷火箭",
+        "onboard_time": 1747645585,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53101,
+        "num": 515907,
+        "word": "nova14首次搭载旗舰级红枫人像",
+        "onboard_time": 1747642404,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1649627,
+        "num": 513571,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 341301,
+        "num": 512975,
+        "word": "马吟吟 拉票",
+        "onboard_time": 1747645224,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300230,
+        "num": 510736,
+        "word": "金靖夸的是迪丽热巴点的是张凌赫",
+        "onboard_time": 1747643604,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248613,
+        "num": 508809,
+        "word": "辽宁鞍山22年前父子遇害案侦破",
+        "onboard_time": 1747645644,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65212,
+        "num": 506537,
+        "word": "520重庆成了肖战痛城",
+        "onboard_time": 1747642705,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216383,
+        "num": 503689,
+        "word": "王楚钦4比0饭冢",
+        "onboard_time": 1747646604,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168272,
+        "num": 501475,
+        "word": "nova14含金量",
+        "onboard_time": 1747643906,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18344,
+        "num": 499070,
+        "word": "岩羊是如何进化出强大的攀岩能力的",
+        "onboard_time": 1747646185,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 497953,
+        "num": 497953,
+        "word": "年轻人最不缺的结婚条件被取消后",
+        "onboard_time": 1747642524,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390430,
+        "num": 390430,
+        "word": "肖战擦汗这20秒我将反复看",
+        "onboard_time": 1747639945,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370687,
+        "num": 370687,
+        "word": "雷军回应小米黑公关案件",
+        "onboard_time": 1747642643,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246740,
+        "num": 246740,
+        "word": "陈奕迅何以被编排成全网悼念的荒诞剧",
+        "onboard_time": 1747645524,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165607,
+        "num": 241867,
+        "word": "黄觉说我是皮筋猴",
+        "onboard_time": 1747644265,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241644,
+        "num": 241644,
+        "word": "藏海魏无羡时候",
+        "onboard_time": 1747644145,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233117,
+        "num": 233117,
+        "word": "17岁女孩失踪39天警方立为拐卖儿童案",
+        "onboard_time": 1747645464,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158645,
+        "num": 228936,
+        "word": "华为新耳机稳固开挂",
+        "onboard_time": 1747646364,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50376,
+        "num": 226423,
+        "word": "nova14再次拉高前置影像天花板",
+        "onboard_time": 1747646364,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 225686,
+        "num": 225686,
+        "word": "idle新专辑发布会",
+        "onboard_time": 1747645764,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178373,
+        "num": 207898,
+        "word": "山东一村委发文禁止居民养猫狗",
+        "onboard_time": 1747645585,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206376,
+        "num": 206376,
+        "word": "五十公里桃花坞5官宣许昕",
+        "onboard_time": 1747646004,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205915,
+        "num": 205915,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194082,
+        "num": 194082,
+        "word": "柏浪涛 是时候该考虑隐退了",
+        "onboard_time": 1747639524,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189469,
+        "num": 189469,
+        "word": "边伯贤solo回归",
+        "onboard_time": 1747646004,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165511,
+        "num": 177906,
+        "word": "拜登癌细胞扩散至骨骼",
+        "onboard_time": 1747612942,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150477,
+        "num": 175893,
+        "word": "河南人又遭大旱",
+        "onboard_time": 1747644984,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151398,
+        "num": 175224,
+        "word": "人民网评种地吧为何受关注",
+        "onboard_time": 1747642043,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174685,
+        "num": 174685,
+        "word": "中国退居至美国第三大海外债主",
+        "onboard_time": 1747646726,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121694,
+        "num": 168330,
+        "word": "华为手表首发水上运动轨迹",
+        "onboard_time": 1747643723,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15322,
+        "num": 166079,
+        "word": "高志凯论坛激辩美前大使",
+        "onboard_time": 1747646125,
+        "rank": 39,
+        "category": "国际时政,议题讨论"
+      },
+      {
+        "raw_hot": 165216,
+        "num": 165216,
+        "word": "女子家被12台空调外机包围",
+        "onboard_time": 1747644745,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156831,
+        "num": 156831,
+        "word": "以前的奶茶 30块",
+        "onboard_time": 1747626983,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154001,
+        "num": 154001,
+        "word": "金价如坐过山车",
+        "onboard_time": 1747643906,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152117,
+        "num": 152117,
+        "word": "华为发布会",
+        "onboard_time": 1747635683,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150057,
+        "num": 150057,
+        "word": "坚决抵制享乐主义和奢靡之风",
+        "onboard_time": 1747646784,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148017,
+        "num": 148017,
+        "word": "两名中国大学生登富士山遇险",
+        "onboard_time": 1747645344,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137369,
+        "num": 137369,
+        "word": "桃花坞",
+        "onboard_time": 1747645524,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137330,
+        "num": 137330,
+        "word": "海关在卫生巾里查获2003粒钻石",
+        "onboard_time": 1747637063,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "反复减肥比肥胖本身危害更大",
+        "onboard_time": 1747646306,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133707,
+        "num": 133707,
+        "word": "刘浩存王安宇时尚芭莎五月电子刊",
+        "onboard_time": 1747646306,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决抵制享乐主义和奢靡之风#"
+    }
+  }
+}
