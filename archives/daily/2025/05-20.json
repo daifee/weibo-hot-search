@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747680558202,
+  "endTime": 1747682476908,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -513,6 +513,22 @@
       "onboard_time": 1747680194,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16799,
+      "num": 21853,
+      "word": "于适亮相戛纳中国青年电影活动",
+      "onboard_time": 1747673958,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12801,
+      "num": 38079,
+      "word": "中美对话合作可以取得互利共赢结果",
+      "onboard_time": 1747682054,
+      "rank": 18,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
