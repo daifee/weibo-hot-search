@@ -1,14 +1,30 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747621608054,
+  "endTime": 1747625742163,
   "band_list": [
     {
       "raw_hot": 2396391,
-      "num": 492421,
+      "num": 1013364,
       "word": "拜登癌细胞扩散至骨骼",
       "onboard_time": 1747612942,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2298242,
+      "num": 2298242,
+      "word": "张九龄结婚",
+      "onboard_time": 1747622661,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1645715,
+      "num": 1645715,
+      "word": "央视曝光怕被卫星拍到的垃圾山",
+      "onboard_time": 1747622902,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1530520,
@@ -27,8 +43,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1024976,
+      "num": 1024976,
+      "word": "小米YU7",
+      "onboard_time": 1747622842,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1004315,
+      "num": 308003,
+      "word": "金价",
+      "onboard_time": 1747620563,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 971790,
-      "num": 505315,
+      "num": 525979,
       "word": "再见爱人再见Lisa",
       "onboard_time": 1747618102,
       "rank": 3,
@@ -92,7 +124,7 @@
     },
     {
       "raw_hot": 747913,
-      "num": 483524,
+      "num": 492988,
       "word": "藏海微do了",
       "onboard_time": 1747612102,
       "rank": 7,
@@ -113,6 +145,14 @@
       "onboard_time": 1747621161,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 591748,
+      "num": 591748,
+      "word": "雷军官宣小米新品发布会时间",
+      "onboard_time": 1747621642,
+      "rank": 6,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 576277,
@@ -211,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308003,
-      "num": 308003,
-      "word": "金价",
-      "onboard_time": 1747620563,
-      "rank": 14,
-      "category": "财经"
+      "raw_hot": 363624,
+      "num": 363624,
+      "word": "藏海时影魏婴丧葬一条龙",
+      "onboard_time": 1747624282,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 306777,
@@ -267,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268409,
+      "num": 268409,
+      "word": "金子涵说不觉得是私联违反的行为",
+      "onboard_time": 1747624643,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243325,
       "num": 237924,
       "word": "藏海传",
@@ -291,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240004,
+      "num": 223762,
+      "word": "49岁从三甲医院辞职北漂进大厂",
+      "onboard_time": 1747622361,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235863,
       "num": 235863,
       "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
@@ -305,6 +361,30 @@
       "onboard_time": 1747585105,
       "rank": 11,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 231003,
+      "num": 231003,
+      "word": "韶华若锦开播",
+      "onboard_time": 1747625003,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222485,
+      "num": 222485,
+      "word": "22岁小伙上班途中遇意外判脑死亡",
+      "onboard_time": 1747621161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222321,
+      "num": 228865,
+      "word": "歌手揭榜推荐",
+      "onboard_time": 1747624403,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 217403,
@@ -323,6 +403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213392,
+      "num": 213392,
+      "word": "韩国3周魔鬼减肥掉秤法",
+      "onboard_time": 1747625484,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 212498,
+      "num": 223064,
+      "word": "重器官宣开机",
+      "onboard_time": 1747625123,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210432,
       "num": 210432,
       "word": "石凯新歌",
@@ -339,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204105,
+      "num": 204105,
+      "word": "没想到宣璐演反派这么惊艳",
+      "onboard_time": 1747625241,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203437,
       "num": 203437,
       "word": "对美国欧盟等共聚聚甲醛征反倾销税",
       "onboard_time": 1747616853,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202367,
+      "num": 202367,
+      "word": "狗剩替藏海被杀",
+      "onboard_time": 1747624762,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 201877,
@@ -369,6 +481,22 @@
       "onboard_time": 1747582462,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199501,
+      "num": 199501,
+      "word": "国产品牌实现3nm芯片研发设计突破",
+      "onboard_time": 1747625603,
+      "rank": 41,
+      "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 197720,
+      "num": 402936,
+      "word": "国家医保局释疑为何便宜医学检查变少",
+      "onboard_time": 1747624163,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 195975,
@@ -403,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174411,
+      "num": 174411,
+      "word": "仙逆剧场版定档",
+      "onboard_time": 1747625362,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173450,
       "num": 173323,
       "word": "安在旭在美开颅手术花费5亿韩元",
@@ -417,6 +553,30 @@
       "onboard_time": 1747611801,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166904,
+      "num": 166904,
+      "word": "金价一周跌去近4.7%",
+      "onboard_time": 1747622181,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 163601,
+      "num": 163601,
+      "word": "樊振东禁毒形象大使",
+      "onboard_time": 1747625724,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160444,
+      "num": 160444,
+      "word": "金子涵回应交朋友",
+      "onboard_time": 1747624524,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 157837,
@@ -465,6 +625,14 @@
       "onboard_time": 1747616372,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147690,
+      "num": 147690,
+      "word": "程潇落泪 电影画面",
+      "onboard_time": 1747625724,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 145642,
@@ -539,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132240,
+      "num": 251679,
+      "word": "官方通报中药里被指检出西药成分",
+      "onboard_time": 1747624524,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 128858,
       "num": 118467,
       "word": "上市公司重大资产重组新规落地",
@@ -560,6 +736,14 @@
       "word": "掘金vs雷霆",
       "onboard_time": 1747582344,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128140,
+      "num": 224081,
+      "word": "王皓说多哈或是男队近20年最难",
+      "onboard_time": 1747624584,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -651,14 +835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111946,
-      "num": 111946,
-      "word": "22岁小伙上班途中遇意外判脑死亡",
-      "onboard_time": 1747621161,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110004,
       "num": 110004,
       "word": "高克新",
@@ -731,6 +907,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 99175,
+      "num": 246189,
+      "word": "吉利银河大六座旗舰SUV命名M9",
+      "onboard_time": 1747622962,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98513,
       "num": 98513,
       "word": "陈星旭终于正视自己的颜值了",
@@ -748,7 +932,7 @@
     },
     {
       "raw_hot": 95644,
-      "num": 95644,
+      "num": 226624,
       "word": "艾威晒和妻子Lisa牵手照",
       "onboard_time": 1747619783,
       "rank": 41,
@@ -769,6 +953,14 @@
       "onboard_time": 1747620082,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94509,
+      "num": 226235,
+      "word": "孙颖莎说不管遇到谁都要保持好心态",
+      "onboard_time": 1747625484,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 94397,
@@ -955,6 +1147,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71893,
+      "num": 225825,
+      "word": "妈妈讲述巨痣男孩奇怪头型治疗原理",
+      "onboard_time": 1747624462,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71441,
+      "num": 225138,
+      "word": "520跟张艺兴选国补更香",
+      "onboard_time": 1747622602,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61609,
+      "num": 228121,
+      "word": "戈登和库里的伤势有什么区别",
+      "onboard_time": 1747625484,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60925,
       "num": 60925,
       "word": "钟汉良蒯铎",
@@ -1003,12 +1219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50126,
+      "num": 207342,
+      "word": "人间清醒魏建军",
+      "onboard_time": 1747624643,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49901,
       "num": 53665,
       "word": "刘晓庆回应和唐国强演将门毒后",
       "onboard_time": 1747595595,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42279,
+      "num": 230170,
+      "word": "媒体曝光俄乌谈判细节",
+      "onboard_time": 1747624163,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41068,
@@ -1020,7 +1252,7 @@
     },
     {
       "raw_hot": 39831,
-      "num": 739077,
+      "num": 1340175,
       "word": "天问二号一次发射实施任务可不少",
       "onboard_time": 1747573162,
       "rank": 2,
@@ -1033,6 +1265,14 @@
       "onboard_time": 1747616554,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35065,
+      "num": 227807,
+      "word": "新工体京东618歌会首开情侣座",
+      "onboard_time": 1747625603,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 31334,
@@ -1081,6 +1321,14 @@
       "onboard_time": 1747593856,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22479,
+      "num": 230825,
+      "word": "广厦被处罚会影响总决赛走势吗",
+      "onboard_time": 1747624643,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 22264,
