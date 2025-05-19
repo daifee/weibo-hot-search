@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747647786532,
+  "endTime": 1747650541626,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 720390,
+      "num": 720390,
+      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+      "onboard_time": 1747648524,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692733,
       "num": 692733,
       "word": "商场金价降至756元",
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618547,
+      "num": 618547,
+      "word": "孙颖莎vs边松景",
+      "onboard_time": 1747649183,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616819,
       "num": 616819,
       "word": "陈奕迅原定三场演出延期至5月底",
@@ -321,6 +337,14 @@
       "onboard_time": 1747621642,
       "rank": 6,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 589076,
+      "num": 589076,
+      "word": "17岁女孩失踪39天警方立为拐卖儿童案",
+      "onboard_time": 1747645464,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 576277,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378300,
+      "num": 275555,
+      "word": "华为超大折到底有多少黑科技",
+      "onboard_time": 1747648165,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 377539,
       "num": 377539,
       "word": "韶华若锦开播",
@@ -585,6 +617,14 @@
       "onboard_time": 1747647504,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 319757,
+      "num": 319757,
+      "word": "折腰",
+      "onboard_time": 1747648884,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 306777,
@@ -659,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276798,
+      "num": 276798,
+      "word": "孙颖莎世乒赛晋级32强",
+      "onboard_time": 1747649724,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271904,
       "num": 479109,
       "word": "岩羊在攀岩方面强得可怕",
       "onboard_time": 1747638444,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269805,
+      "num": 273046,
+      "word": "肖战回应藏海来了敬妃都得让路",
+      "onboard_time": 1747647383,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 269047,
@@ -681,6 +737,22 @@
       "onboard_time": 1747629865,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267158,
+      "num": 275813,
+      "word": "陈奕迅何以被编排成全网悼念的荒诞剧",
+      "onboard_time": 1747645524,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263436,
+      "num": 263436,
+      "word": "歌手",
+      "onboard_time": 1747647444,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 257849,
@@ -737,14 +809,6 @@
       "onboard_time": 1747631186,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246740,
-      "num": 246740,
-      "word": "陈奕迅何以被编排成全网悼念的荒诞剧",
-      "onboard_time": 1747645524,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 245414,
@@ -843,28 +907,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 234050,
-      "num": 273046,
-      "word": "肖战回应藏海来了敬妃都得让路",
-      "onboard_time": 1747647383,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233697,
       "num": 233697,
       "word": "人生无常我只能接受",
       "onboard_time": 1747626205,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233117,
-      "num": 233117,
-      "word": "17岁女孩失踪39天警方立为拐卖儿童案",
-      "onboard_time": 1747645464,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232538,
@@ -905,6 +953,14 @@
       "onboard_time": 1747631547,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222870,
+      "num": 256863,
+      "word": "魏大勋刘美含 初恋CP",
+      "onboard_time": 1747649964,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 222485,
@@ -1043,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204483,
+      "num": 204483,
+      "word": "程潇从小不跟爸爸聊天",
+      "onboard_time": 1747647624,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204105,
       "num": 204105,
       "word": "没想到宣璐演反派这么惊艳",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1747616853,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 203271,
+      "num": 203271,
+      "word": "idle主打曲",
+      "onboard_time": 1747650024,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 202367,
@@ -1097,6 +1169,22 @@
       "onboard_time": 1747582945,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201549,
+      "num": 201549,
+      "word": "赵小棠被70斤的狗子踩到脚",
+      "onboard_time": 1747648584,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201261,
+      "num": 201261,
+      "word": "孙颖莎4比0边松景",
+      "onboard_time": 1747650144,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 201133,
@@ -1315,14 +1403,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 187151,
-      "num": 187151,
-      "word": "歌手",
-      "onboard_time": 1747647444,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186595,
       "num": 186595,
       "word": "藏海传 非遗药发木偶",
@@ -1379,6 +1459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180435,
+      "num": 180435,
+      "word": "张博恒获个人全能金牌",
+      "onboard_time": 1747649663,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178783,
       "num": 178783,
       "word": "女厕总有一格打不开的原因找到了",
@@ -1392,6 +1480,14 @@
       "word": "山东一村委发文禁止居民养猫狗",
       "onboard_time": 1747645585,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177767,
+      "num": 177767,
+      "word": "女子家被12台空调外机包围",
+      "onboard_time": 1747644745,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1499,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165216,
-      "num": 165216,
-      "word": "女子家被12台空调外机包围",
-      "onboard_time": 1747644745,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164362,
       "num": 164362,
       "word": "春夏新剧一个眼神从厌恶到关心",
@@ -1524,7 +1612,7 @@
     },
     {
       "raw_hot": 164039,
-      "num": 164039,
+      "num": 258849,
       "word": "金价如坐过山车",
       "onboard_time": 1747643906,
       "rank": 40,
@@ -1603,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159504,
-      "num": 159504,
-      "word": "程潇从小不跟爸爸聊天",
-      "onboard_time": 1747647624,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158949,
       "num": 209977,
       "word": "韩素希戛纳白裙造型",
@@ -1620,7 +1700,7 @@
     },
     {
       "raw_hot": 158645,
-      "num": 228936,
+      "num": 251218,
       "word": "华为新耳机稳固开挂",
       "onboard_time": 1747646364,
       "rank": 26,
@@ -1649,6 +1729,14 @@
       "onboard_time": 1747638563,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 157623,
+      "num": 157623,
+      "word": "藏海传三个领导围攻一个下属",
+      "onboard_time": 1747650445,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 154665,
@@ -1707,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151736,
+      "num": 151736,
+      "word": "雷军称造芯至少投资500亿十年起步",
+      "onboard_time": 1747649663,
+      "rank": 46,
+      "category": "数码,数码"
+    },
+    {
       "raw_hot": 151508,
       "num": 151508,
       "word": "TVB的刑侦剧我高低得看两眼",
@@ -1731,8 +1827,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149671,
+      "num": 149671,
+      "word": "油价",
+      "onboard_time": 1747650506,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 149586,
+      "num": 149586,
+      "word": "王楚钦给巴西小哥打沮丧了",
+      "onboard_time": 1747649183,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148017,
-      "num": 148017,
+      "num": 237244,
       "word": "两名中国大学生登富士山遇险",
       "onboard_time": 1747645344,
       "rank": 45,
@@ -1777,6 +1889,14 @@
       "onboard_time": 1747613723,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143129,
+      "num": 148881,
+      "word": "RIIZE melon",
+      "onboard_time": 1747649064,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 142691,
@@ -1995,12 +2115,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122470,
+      "num": 189225,
+      "word": "世卫大会连续9年拒绝涉台提案",
+      "onboard_time": 1747649124,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121860,
       "num": 561763,
       "word": "王一博把自己养得很好",
       "onboard_time": 1747629625,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121138,
+      "num": 182910,
+      "word": "王楚钦晋级世乒赛男单32强",
+      "onboard_time": 1747647803,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 120841,
@@ -2083,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112172,
+      "num": 1196343,
+      "word": "4月国民经济顶住压力稳定增长",
+      "onboard_time": 1747645524,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112170,
       "num": 112170,
       "word": "A股",
@@ -2163,6 +2307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100933,
+      "num": 276163,
+      "word": "华为超大折敞开用",
+      "onboard_time": 1747647803,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100862,
       "num": 100862,
       "word": "新冠阳性率上升三类人要注意",
@@ -2209,14 +2361,6 @@
       "onboard_time": 1747575503,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97379,
-      "num": 1196343,
-      "word": "4月国民经济顶住压力稳定增长",
-      "onboard_time": 1747645524,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97221,
@@ -2499,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74658,
+      "num": 276507,
+      "word": "中国稀土出口审批速度太慢急坏西方",
+      "onboard_time": 1747650024,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73748,
       "num": 165507,
       "word": "敬戈登是条汉子",
@@ -2692,7 +2844,7 @@
     },
     {
       "raw_hot": 50376,
-      "num": 226423,
+      "num": 243903,
       "word": "nova14再次拉高前置影像天花板",
       "onboard_time": 1747646364,
       "rank": 27,
@@ -2721,6 +2873,14 @@
       "onboard_time": 1747634245,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45700,
+      "num": 276679,
+      "word": "华为970克鸿蒙电脑性能有多强",
+      "onboard_time": 1747649124,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 44965,
@@ -3059,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16581,
+      "num": 201305,
+      "word": "交通局回应乘客攻击公交车司机",
+      "onboard_time": 1747650506,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15870,
       "num": 166079,
       "word": "高志凯论坛激辩美前大使",
@@ -3073,6 +3241,14 @@
       "onboard_time": 1747620384,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 14945,
+      "num": 184834,
+      "word": "如何看待巴基斯坦击落印度战机",
+      "onboard_time": 1747649426,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14590,
@@ -3115,12 +3291,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 10197,
+      "num": 186387,
+      "word": "中国古代高科技农具",
+      "onboard_time": 1747649426,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9182,
       "num": 338007,
       "word": "AI虚假广告频发应该如何区分",
       "onboard_time": 1747631785,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 8029,
+      "num": 276046,
+      "word": "AG600完成生产试飞何时投入使用",
+      "onboard_time": 1747649844,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6361,

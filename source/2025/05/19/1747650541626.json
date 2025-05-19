@@ -1,0 +1,410 @@
+{
+  "runTime": 1747650541626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219432,
+        "num": 1219432,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737017,
+        "num": 737017,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 112172,
+        "num": 723729,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 720390,
+        "num": 720390,
+        "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+        "onboard_time": 1747648524,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639362,
+        "num": 639362,
+        "word": "消失3个月瘦了40斤妈妈的反应",
+        "onboard_time": 1747642165,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618547,
+        "num": 618547,
+        "word": "孙颖莎vs边松景",
+        "onboard_time": 1747649183,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597488,
+        "num": 597488,
+        "word": "原来奚梦瑶每天在家判案",
+        "onboard_time": 1747644205,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589076,
+        "num": 589076,
+        "word": "17岁女孩失踪39天警方立为拐卖儿童案",
+        "onboard_time": 1747645464,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506032,
+        "num": 506032,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457320,
+        "num": 457320,
+        "word": "年轻人最不缺的结婚条件被取消后",
+        "onboard_time": 1747642524,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 874692,
+        "num": 388628,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319757,
+        "num": 319757,
+        "word": "折腰",
+        "onboard_time": 1747648884,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283349,
+        "num": 283349,
+        "word": "王楚钦vs饭冢",
+        "onboard_time": 1747645464,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280869,
+        "num": 280869,
+        "word": "鸿蒙电脑",
+        "onboard_time": 1747643546,
+        "rank": 13,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 276798,
+        "num": 276798,
+        "word": "孙颖莎世乒赛晋级32强",
+        "onboard_time": 1747649724,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45700,
+        "num": 276679,
+        "word": "华为970克鸿蒙电脑性能有多强",
+        "onboard_time": 1747649124,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74658,
+        "num": 276507,
+        "word": "中国稀土出口审批速度太慢急坏西方",
+        "onboard_time": 1747650024,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100933,
+        "num": 276163,
+        "word": "华为超大折敞开用",
+        "onboard_time": 1747647803,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 8029,
+        "num": 276046,
+        "word": "AG600完成生产试飞何时投入使用",
+        "onboard_time": 1747649844,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267158,
+        "num": 275813,
+        "word": "陈奕迅何以被编排成全网悼念的荒诞剧",
+        "onboard_time": 1747645524,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378300,
+        "num": 275555,
+        "word": "华为超大折到底有多少黑科技",
+        "onboard_time": 1747648165,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 275329,
+        "num": 275329,
+        "word": "riize空降",
+        "onboard_time": 1747647504,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269805,
+        "num": 269805,
+        "word": "肖战回应藏海来了敬妃都得让路",
+        "onboard_time": 1747647383,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263436,
+        "num": 263436,
+        "word": "歌手",
+        "onboard_time": 1747647444,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61486,
+        "num": 258849,
+        "word": "金价如坐过山车",
+        "onboard_time": 1747643906,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222870,
+        "num": 256863,
+        "word": "魏大勋刘美含 初恋CP",
+        "onboard_time": 1747649964,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153314,
+        "num": 251218,
+        "word": "华为新耳机稳固开挂",
+        "onboard_time": 1747646364,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26881,
+        "num": 243903,
+        "word": "nova14再次拉高前置影像天花板",
+        "onboard_time": 1747646364,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207565,
+        "num": 238613,
+        "word": "马吟吟 拉票",
+        "onboard_time": 1747645224,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128131,
+        "num": 237244,
+        "word": "两名中国大学生登富士山遇险",
+        "onboard_time": 1747645344,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233619,
+        "num": 233619,
+        "word": "中国退居至美国第三大海外债主",
+        "onboard_time": 1747646726,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204483,
+        "num": 204483,
+        "word": "程潇从小不跟爸爸聊天",
+        "onboard_time": 1747647624,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203271,
+        "num": 203271,
+        "word": "idle主打曲",
+        "onboard_time": 1747650024,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201549,
+        "num": 201549,
+        "word": "赵小棠被70斤的狗子踩到脚",
+        "onboard_time": 1747648584,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16581,
+        "num": 201305,
+        "word": "交通局回应乘客攻击公交车司机",
+        "onboard_time": 1747650506,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201261,
+        "num": 201261,
+        "word": "孙颖莎4比0边松景",
+        "onboard_time": 1747650144,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191266,
+        "num": 191266,
+        "word": "金靖夸的是迪丽热巴点的是张凌赫",
+        "onboard_time": 1747643604,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122470,
+        "num": 189225,
+        "word": "世卫大会连续9年拒绝涉台提案",
+        "onboard_time": 1747649124,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10197,
+        "num": 186387,
+        "word": "中国古代高科技农具",
+        "onboard_time": 1747649426,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14945,
+        "num": 184834,
+        "word": "如何看待巴基斯坦击落印度战机",
+        "onboard_time": 1747649426,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121138,
+        "num": 182910,
+        "word": "王楚钦晋级世乒赛男单32强",
+        "onboard_time": 1747647803,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180435,
+        "num": 180435,
+        "word": "张博恒获个人全能金牌",
+        "onboard_time": 1747649663,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177767,
+        "num": 177767,
+        "word": "女子家被12台空调外机包围",
+        "onboard_time": 1747644745,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174298,
+        "num": 174298,
+        "word": "雷军回应小米黑公关案件",
+        "onboard_time": 1747642643,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161418,
+        "num": 161418,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "藏海传三个领导围攻一个下属",
+        "onboard_time": 1747650445,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151736,
+        "num": 151736,
+        "word": "雷军称造芯至少投资500亿十年起步",
+        "onboard_time": 1747649663,
+        "rank": 46,
+        "category": "数码,数码"
+      },
+      {
+        "raw_hot": 149671,
+        "num": 149671,
+        "word": "油价",
+        "onboard_time": 1747650506,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149586,
+        "num": 149586,
+        "word": "王楚钦给巴西小哥打沮丧了",
+        "onboard_time": 1747649183,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143129,
+        "num": 148881,
+        "word": "RIIZE melon",
+        "onboard_time": 1747649064,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
+    }
+  }
+}
