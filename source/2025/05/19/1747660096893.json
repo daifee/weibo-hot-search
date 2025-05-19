@@ -1,0 +1,410 @@
+{
+  "runTime": 1747660096893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4002627,
+        "num": 4002627,
+        "word": "陈奕迅",
+        "onboard_time": 1747654883,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1348847,
+        "num": 1348847,
+        "word": "孙杨第八",
+        "onboard_time": 1747655242,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67312,
+        "num": 1285927,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283440,
+        "num": 1283440,
+        "word": "曝迪丽热巴将离开嘉行",
+        "onboard_time": 1747655063,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570627,
+        "num": 570627,
+        "word": "国台办谈欧阳娜娜被台当局列入查核对象",
+        "onboard_time": 1747658303,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453519,
+        "num": 453519,
+        "word": "日本警方回应中国大学生富士山遇险",
+        "onboard_time": 1747655003,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1104675,
+        "num": 452768,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893726,
+        "num": 452665,
+        "word": "桃花坞打码",
+        "onboard_time": 1747658904,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450609,
+        "num": 450609,
+        "word": "偷加洗手液女孩家长与博主和解",
+        "onboard_time": 1747654103,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376807,
+        "num": 376807,
+        "word": "新冠病毒检出率升高",
+        "onboard_time": 1747654282,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774287,
+        "num": 376245,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1747657163,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 666555,
+        "num": 375452,
+        "word": "宋雨琦就自费购买门票失言道歉",
+        "onboard_time": 1747655664,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576929,
+        "num": 374412,
+        "word": "虞书欣爸爸维权声明",
+        "onboard_time": 1747653503,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503147,
+        "num": 373845,
+        "word": "黄杨钿甜爸爸刚从一生物公司退出",
+        "onboard_time": 1747657826,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486734,
+        "num": 373203,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 372725,
+        "num": 372725,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362047,
+        "num": 362047,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 345873,
+        "num": 345873,
+        "word": "情侣博主 摆拍",
+        "onboard_time": 1747651884,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38188,
+        "num": 309093,
+        "word": "全国重点文保单位施琅墓被曝成放牛场",
+        "onboard_time": 1747659864,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9135,
+        "num": 298997,
+        "word": "淄博琉璃的制作工艺是什么样的",
+        "onboard_time": 1747659684,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 470174,
+        "num": 298548,
+        "word": "百花杀",
+        "onboard_time": 1747655305,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297179,
+        "num": 297179,
+        "word": "陈幸同钱天一无缘女双16强",
+        "onboard_time": 1747656922,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292578,
+        "num": 292578,
+        "word": "潘展乐说孙杨汪顺是永远的偶像",
+        "onboard_time": 1747658664,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289756,
+        "num": 289756,
+        "word": "伊能静发文否认婚变",
+        "onboard_time": 1747657405,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282487,
+        "num": 282487,
+        "word": "藏海传",
+        "onboard_time": 1747654403,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258349,
+        "num": 258349,
+        "word": "貂蝉皮肤",
+        "onboard_time": 1747651225,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253329,
+        "num": 253329,
+        "word": "书卷一梦",
+        "onboard_time": 1747659083,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97069,
+        "num": 242573,
+        "word": "华为nova14搭载全新芯片",
+        "onboard_time": 1747659925,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 241586,
+        "num": 241586,
+        "word": "张凌赫都歪成这样了你还无动于衷",
+        "onboard_time": 1747659026,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 228771,
+        "word": "印巴停火协议为何不设终止日期",
+        "onboard_time": 1747658784,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218830,
+        "num": 218830,
+        "word": "一诺银发",
+        "onboard_time": 1747657583,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79577,
+        "num": 214677,
+        "word": "以色列总理称将接管整个加沙",
+        "onboard_time": 1747656742,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211863,
+        "num": 211863,
+        "word": "女子易胖体质生完孩子胖了200多斤",
+        "onboard_time": 1747655843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71867,
+        "num": 208321,
+        "word": "博主否认饮料加洗手液视频系摆拍",
+        "onboard_time": 1747657463,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208205,
+        "num": 208205,
+        "word": "肖战站内资源排面拉满",
+        "onboard_time": 1747659925,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188974,
+        "num": 188974,
+        "word": "周思成去公证了",
+        "onboard_time": 1747657042,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181688,
+        "num": 181688,
+        "word": "孙杨汪顺潘展乐神仙打架",
+        "onboard_time": 1747655603,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179184,
+        "num": 179184,
+        "word": "藏海传提前更新了",
+        "onboard_time": 1747651823,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176699,
+        "num": 176699,
+        "word": "黄杨钿甜爸爸回应疑点重重",
+        "onboard_time": 1747659444,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63546,
+        "num": 172796,
+        "word": "520捡宝藏攻略",
+        "onboard_time": 1747658784,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172214,
+        "num": 172214,
+        "word": "没有吃饭的欲望全是对儿媳的渴望",
+        "onboard_time": 1747658484,
+        "rank": 40,
+        "category": "幽默,幽默"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 161522,
+        "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+        "onboard_time": 1747648524,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156743,
+        "num": 156743,
+        "word": "原来奚梦瑶每天在家判案",
+        "onboard_time": 1747644205,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154636,
+        "num": 154636,
+        "word": "戴燕妮的腿把我钓成翘嘴",
+        "onboard_time": 1747658303,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144550,
+        "num": 144550,
+        "word": "年轻人的团建已经是nextlevel了",
+        "onboard_time": 1747659984,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143445,
+        "num": 143445,
+        "word": "魏大勋刘美含 初恋CP",
+        "onboard_time": 1747649964,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141339,
+        "num": 141339,
+        "word": "折腰",
+        "onboard_time": 1747648884,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141188,
+        "num": 141188,
+        "word": "九十斤的女主九百斤的反骨",
+        "onboard_time": 1747657764,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "魏劭 直男",
+        "onboard_time": 1747655784,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134604,
+        "num": 134604,
+        "word": "孙颖莎说混双全力以赴展现最好水平",
+        "onboard_time": 1747660045,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
+    }
+  }
+}
