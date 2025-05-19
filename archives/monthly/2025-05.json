@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747650541626,
+  "endTime": 1747651596197,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1746437541,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1120268,
+      "num": 720390,
+      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+      "onboard_time": 1747648524,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1119175,
@@ -5785,14 +5793,6 @@
       "onboard_time": 1747541610,
       "rank": 31,
       "category": "海外新闻,民生新闻"
-    },
-    {
-      "raw_hot": 720390,
-      "num": 720390,
-      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
-      "onboard_time": 1747648524,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 719184,
@@ -16371,6 +16371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291317,
+      "num": 291317,
+      "word": "魏大勋刘美含 初恋CP",
+      "onboard_time": 1747649964,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "丁禹兮孟子义 接二搭",
@@ -19971,6 +19979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "编剧祝明再发长文",
+      "onboard_time": 1747650685,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239483,
       "num": 325408,
       "word": "杜特尔特在狱中赢得市长选举",
@@ -20635,6 +20651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229555,
+      "num": 229555,
+      "word": "赵小棠被70斤的狗子踩到脚",
+      "onboard_time": 1747648584,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229481,
       "num": 327042,
       "word": "被西装暴徒硬控8分钟",
@@ -20681,6 +20705,14 @@
       "onboard_time": 1746195872,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229189,
+      "num": 229189,
+      "word": "张博恒获个人全能金牌",
+      "onboard_time": 1747649663,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 229114,
@@ -21377,14 +21409,6 @@
       "onboard_time": 1746543864,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 222870,
-      "num": 256863,
-      "word": "魏大勋刘美含 初恋CP",
-      "onboard_time": 1747649964,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 222839,
@@ -24819,14 +24843,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201549,
-      "num": 201549,
-      "word": "赵小棠被70斤的狗子踩到脚",
-      "onboard_time": 1747648584,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201492,
       "num": 151490,
       "word": "多哈世乒赛周六开赛",
@@ -25729,6 +25745,14 @@
       "onboard_time": 1746700342,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197988,
+      "num": 197988,
+      "word": "貂蝉皮肤",
+      "onboard_time": 1747651225,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 197960,
@@ -28859,6 +28883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186984,
+      "num": 186984,
+      "word": "藏海传三个领导围攻一个下属",
+      "onboard_time": 1747650445,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186951,
       "num": 186951,
       "word": "李艺彤哭了",
@@ -30345,14 +30377,6 @@
       "onboard_time": 1746350901,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180435,
-      "num": 180435,
-      "word": "张博恒获个人全能金牌",
-      "onboard_time": 1747649663,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 180338,
@@ -32099,6 +32123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172721,
+      "num": 322309,
+      "word": "中国稀土出口审批速度太慢急坏西方",
+      "onboard_time": 1747650024,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172693,
       "num": 172693,
       "word": "WBG对战TES",
@@ -32961,6 +32993,14 @@
       "onboard_time": 1747467320,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168782,
+      "num": 168782,
+      "word": "肖战被cue懵了",
+      "onboard_time": 1747651225,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168758,
@@ -36051,14 +36091,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 157623,
-      "num": 157623,
-      "word": "藏海传三个领导围攻一个下属",
-      "onboard_time": 1747650445,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157600,
       "num": 157600,
       "word": "邻居一个举动帮老人保住120万",
@@ -36257,6 +36289,14 @@
       "onboard_time": 1746850532,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156942,
+      "num": 156942,
+      "word": "17岁女孩失踪39天哥哥称过程离奇",
+      "onboard_time": 1747650445,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156940,
@@ -49411,6 +49451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114784,
+      "num": 150135,
+      "word": "孙颖莎一口气晋级",
+      "onboard_time": 1747650984,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114759,
       "num": 114759,
       "word": "银川地震",
@@ -57155,14 +57203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74658,
-      "num": 276507,
-      "word": "中国稀土出口审批速度太慢急坏西方",
-      "onboard_time": 1747650024,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74639,
       "num": 352598,
       "word": "找噪声源申请政府信息公开得交8万多",
@@ -59329,6 +59369,14 @@
       "onboard_time": 1746735854,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60563,
+      "num": 229846,
+      "word": "向鱼带着自拍出现了",
+      "onboard_time": 1747651105,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 60530,
@@ -61579,6 +61627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47877,
+      "num": 276679,
+      "word": "华为970克鸿蒙电脑性能有多强",
+      "onboard_time": 1747649124,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47808,
       "num": 47808,
       "word": "厦门机场偶遇李荣浩杨丞琳",
@@ -62001,14 +62057,6 @@
       "onboard_time": 1746523401,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45700,
-      "num": 276679,
-      "word": "华为970克鸿蒙电脑性能有多强",
-      "onboard_time": 1747649124,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 45696,
@@ -65177,6 +65225,14 @@
       "onboard_time": 1747196182,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31942,
+      "num": 272204,
+      "word": "交通局回应乘客攻击公交车司机",
+      "onboard_time": 1747650506,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31921,
@@ -68395,6 +68451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20189,
+      "num": 184834,
+      "word": "如何看待巴基斯坦击落印度战机",
+      "onboard_time": 1747649426,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20112,
       "num": 24620,
       "word": "和登陆少年解锁无畏新地图",
@@ -68721,6 +68785,14 @@
       "onboard_time": 1746613763,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19047,
+      "num": 242490,
+      "word": "KTV和SPA的客户流失到了哪里",
+      "onboard_time": 1747650685,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 19040,
@@ -69467,14 +69539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16581,
-      "num": 201305,
-      "word": "交通局回应乘客攻击公交车司机",
-      "onboard_time": 1747650506,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16525,
       "num": 151079,
       "word": "美国上蹿下跳一切回到原点",
@@ -70025,14 +70089,6 @@
       "onboard_time": 1747056681,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14945,
-      "num": 184834,
-      "word": "如何看待巴基斯坦击落印度战机",
-      "onboard_time": 1747649426,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14934,
@@ -70923,6 +70979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11929,
+      "num": 186387,
+      "word": "中国古代高科技农具",
+      "onboard_time": 1747649426,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11904,
       "num": 16807,
       "word": "周深中俄双语献唱归队主题曲",
@@ -71313,14 +71377,6 @@
       "onboard_time": 1747205243,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10197,
-      "num": 186387,
-      "word": "中国古代高科技农具",
-      "onboard_time": 1747649426,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10165,
@@ -71913,6 +71969,14 @@
       "onboard_time": 1746682942,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 6595,
+      "num": 152082,
+      "word": "五星级酒店为什么被批量贱卖",
+      "onboard_time": 1747651403,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 6569,

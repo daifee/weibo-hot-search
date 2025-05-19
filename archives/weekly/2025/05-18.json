@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747650541626,
+  "endTime": 1747651596197,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -225,6 +225,14 @@
       "onboard_time": 1747645464,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1120268,
+      "num": 720390,
+      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+      "onboard_time": 1747648524,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1115625,
@@ -585,14 +593,6 @@
       "onboard_time": 1747541610,
       "rank": 31,
       "category": "海外新闻,民生新闻"
-    },
-    {
-      "raw_hot": 720390,
-      "num": 720390,
-      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
-      "onboard_time": 1747648524,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 717266,
@@ -1459,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292815,
+      "num": 292815,
+      "word": "歌手",
+      "onboard_time": 1747647444,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292684,
       "num": 222651,
       "word": "医生建议男孩三岁后应该分床睡",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1747560861,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291317,
+      "num": 291317,
+      "word": "魏大勋刘美含 初恋CP",
+      "onboard_time": 1747649964,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 291010,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1747487843,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 263436,
-      "num": 263436,
-      "word": "歌手",
-      "onboard_time": 1747647444,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 262152,
@@ -1843,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "编剧祝明再发长文",
+      "onboard_time": 1747650685,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237241,
       "num": 237241,
       "word": "孙颖莎王楚钦vs巴西组合",
@@ -1931,6 +1947,22 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 229555,
+      "num": 229555,
+      "word": "赵小棠被70斤的狗子踩到脚",
+      "onboard_time": 1747648584,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229189,
+      "num": 229189,
+      "word": "张博恒获个人全能金牌",
+      "onboard_time": 1747649663,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225686,
       "num": 225686,
       "word": "idle新专辑发布会",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1747547421,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222870,
-      "num": 256863,
-      "word": "魏大勋刘美含 初恋CP",
-      "onboard_time": 1747649964,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 222485,
@@ -2419,14 +2443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201549,
-      "num": 201549,
-      "word": "赵小棠被70斤的狗子踩到脚",
-      "onboard_time": 1747648584,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201400,
       "num": 201400,
       "word": "种地吧直播",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1747578565,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 197988,
+      "num": 197988,
+      "word": "貂蝉皮肤",
+      "onboard_time": 1747651225,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 197720,
@@ -2819,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186984,
+      "num": 186984,
+      "word": "藏海传三个领导围攻一个下属",
+      "onboard_time": 1747650445,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186750,
       "num": 186750,
       "word": "王一博出镜Discovery特别节目",
@@ -2995,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180435,
-      "num": 180435,
-      "word": "张博恒获个人全能金牌",
-      "onboard_time": 1747649663,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178783,
       "num": 178783,
       "word": "女厕总有一格打不开的原因找到了",
@@ -3115,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172721,
+      "num": 322309,
+      "word": "中国稀土出口审批速度太慢急坏西方",
+      "onboard_time": 1747650024,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170176,
       "num": 170176,
       "word": "原来我一直错怪粉底液了",
@@ -3185,6 +3217,14 @@
       "onboard_time": 1747544610,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168782,
+      "num": 168782,
+      "word": "肖战被cue懵了",
+      "onboard_time": 1747651225,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168511,
@@ -3499,20 +3539,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 157623,
-      "num": 157623,
-      "word": "藏海传三个领导围攻一个下属",
-      "onboard_time": 1747650445,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157572,
       "num": 157572,
       "word": "罗予彤 反正请我又不用花钱",
       "onboard_time": 1747571542,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156942,
+      "num": 156942,
+      "word": "17岁女孩失踪39天哥哥称过程离奇",
+      "onboard_time": 1747650445,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156419,
@@ -4731,6 +4771,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 114784,
+      "num": 150135,
+      "word": "孙颖莎一口气晋级",
+      "onboard_time": 1747650984,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114434,
       "num": 114434,
       "word": "吴彤提前一年请刘涛上节目",
@@ -5667,14 +5715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74658,
-      "num": 276507,
-      "word": "中国稀土出口审批速度太慢急坏西方",
-      "onboard_time": 1747650024,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74204,
       "num": 353491,
       "word": "天猫十个勤天直播间实到10人",
@@ -5881,6 +5921,14 @@
       "onboard_time": 1747593436,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60563,
+      "num": 229846,
+      "word": "向鱼带着自拍出现了",
+      "onboard_time": 1747651105,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 60072,
@@ -6139,6 +6187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47877,
+      "num": 276679,
+      "word": "华为970克鸿蒙电脑性能有多强",
+      "onboard_time": 1747649124,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47464,
       "num": 222466,
       "word": "沃尔玛准备以关税为由涨价",
@@ -6177,14 +6233,6 @@
       "onboard_time": 1747634245,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45700,
-      "num": 276679,
-      "word": "华为970克鸿蒙电脑性能有多强",
-      "onboard_time": 1747649124,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 44965,
@@ -6507,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31942,
+      "num": 272204,
+      "word": "交通局回应乘客攻击公交车司机",
+      "onboard_time": 1747650506,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31334,
       "num": 39469,
       "word": "陈都灵我们都是独一无二的骄傲",
@@ -6811,6 +6867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20189,
+      "num": 184834,
+      "word": "如何看待巴基斯坦击落印度战机",
+      "onboard_time": 1747649426,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19962,
       "num": 203694,
       "word": "蹲着走路的医生多次求职碰壁",
@@ -6841,6 +6905,14 @@
       "onboard_time": 1747513453,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19047,
+      "num": 242490,
+      "word": "KTV和SPA的客户流失到了哪里",
+      "onboard_time": 1747650685,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 18806,
@@ -6947,14 +7019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16581,
-      "num": 201305,
-      "word": "交通局回应乘客攻击公交车司机",
-      "onboard_time": 1747650506,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16268,
       "num": 192678,
       "word": "油价或重回6元时代哪些行业会受益",
@@ -7017,14 +7081,6 @@
       "onboard_time": 1747620384,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 14945,
-      "num": 184834,
-      "word": "如何看待巴基斯坦击落印度战机",
-      "onboard_time": 1747649426,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14906,
@@ -7139,6 +7195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11929,
+      "num": 186387,
+      "word": "中国古代高科技农具",
+      "onboard_time": 1747649426,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11755,
       "num": 186304,
       "word": "店名撞音当地粗话符合起名规范吗",
@@ -7171,14 +7235,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 10197,
-      "num": 186387,
-      "word": "中国古代高科技农具",
-      "onboard_time": 1747649426,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9931,
       "num": 179888,
       "word": "藏海传点天灯有什么特殊隐喻",
@@ -7201,6 +7257,14 @@
       "onboard_time": 1747649844,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6595,
+      "num": 152082,
+      "word": "五星级酒店为什么被批量贱卖",
+      "onboard_time": 1747651403,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 6361,
