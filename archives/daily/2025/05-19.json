@@ -1,6 +1,6 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747646979933,
+  "endTime": 1747647786532,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -571,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323149,
+      "num": 503689,
+      "word": "王楚钦4比0饭冢",
+      "onboard_time": 1747646604,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 322355,
+      "num": 322355,
+      "word": "riize空降",
+      "onboard_time": 1747647504,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306777,
       "num": 250707,
       "word": "twice",
@@ -681,6 +697,14 @@
       "onboard_time": 1747630767,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252380,
+      "num": 252380,
+      "word": "中国退居至美国第三大海外债主",
+      "onboard_time": 1747646726,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250725,
@@ -819,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234050,
+      "num": 273046,
+      "word": "肖战回应藏海来了敬妃都得让路",
+      "onboard_time": 1747647383,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233697,
       "num": 233697,
       "word": "人生无常我只能接受",
@@ -907,19 +939,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217307,
+      "num": 188470,
+      "word": "去掉韩剧滤镜真实的韩国",
+      "onboard_time": 1747647685,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 216534,
       "num": 216534,
       "word": "雷霆4比3掘金",
       "onboard_time": 1747610541,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216383,
-      "num": 503689,
-      "word": "王楚钦4比0饭冢",
-      "onboard_time": 1747646604,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1131,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197275,
+      "num": 197275,
+      "word": "雷军回应美的方洪波言论",
+      "onboard_time": 1747647144,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "乔丹4000万年薪担任解说",
@@ -1196,7 +1236,7 @@
     },
     {
       "raw_hot": 193345,
-      "num": 176698,
+      "num": 184761,
       "word": "华为手表首发水上运动轨迹",
       "onboard_time": 1747643723,
       "rank": 42,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1747626384,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 187151,
+      "num": 187151,
+      "word": "歌手",
+      "onboard_time": 1747647444,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 186595,
@@ -1355,14 +1403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 174685,
-      "num": 174685,
-      "word": "中国退居至美国第三大海外债主",
-      "onboard_time": 1747646726,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174249,
       "num": 174249,
       "word": "林更新的腿像开了长腿特效",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1747643906,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168160,
+      "num": 192029,
+      "word": "坚决抵制享乐主义和奢靡之风",
+      "onboard_time": 1747646784,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166904,
@@ -1544,6 +1592,22 @@
       "word": "金子涵回应交朋友",
       "onboard_time": 1747624524,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160084,
+      "num": 190159,
+      "word": "王楚钦23分钟赢下比赛",
+      "onboard_time": 1747647444,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159504,
+      "num": 159504,
+      "word": "程潇从小不跟爸爸聊天",
+      "onboard_time": 1747647624,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1667,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150057,
-      "num": 150057,
-      "word": "坚决抵制享乐主义和奢靡之风",
-      "onboard_time": 1747646784,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148017,
       "num": 148017,
       "word": "两名中国大学生登富士山遇险",
@@ -1787,12 +1843,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138888,
+      "num": 138888,
+      "word": "这是一把勾践剑",
+      "onboard_time": 1747647744,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138638,
       "num": 138638,
       "word": "折腰新浪扫楼",
       "onboard_time": 1747637963,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138295,
+      "num": 138295,
+      "word": "坚持跑步一个月后面部的变化",
+      "onboard_time": 1747647324,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 138017,
@@ -1819,12 +1891,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135674,
-      "num": 135674,
+      "raw_hot": 135996,
+      "num": 135996,
       "word": "反复减肥比肥胖本身危害更大",
       "onboard_time": 1747646306,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135963,
+      "num": 135963,
+      "word": "8w穷装200平的毛坯别墅",
+      "onboard_time": 1747647744,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135641,
+      "num": 135641,
+      "word": "我在等面包价格回落的那一天",
+      "onboard_time": 1747647264,
+      "rank": 49,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 133707,
@@ -2123,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97379,
+      "num": 1196343,
+      "word": "4月国民经济顶住压力稳定增长",
+      "onboard_time": 1747645524,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97221,
       "num": 97221,
       "word": "林高远说早发现问题早解决",
@@ -2233,14 +2329,6 @@
       "onboard_time": 1747612462,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90660,
-      "num": 1196343,
-      "word": "4月国民经济顶住压力稳定增长",
-      "onboard_time": 1747645524,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 90419,
@@ -2473,6 +2561,14 @@
       "onboard_time": 1747642043,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63672,
+      "num": 269297,
+      "word": "内衣裤和鞋袜混洗会引发卫生问题吗",
+      "onboard_time": 1747647084,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 62098,
@@ -2963,7 +3059,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15322,
+      "raw_hot": 15870,
       "num": 166079,
       "word": "高志凯论坛激辩美前大使",
       "onboard_time": 1747646125,
@@ -3044,6 +3140,9 @@
     },
     {
       "word": "#坚决抵制享乐主义和奢靡之风#"
+    },
+    {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
     }
   ]
 }

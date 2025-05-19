@@ -1,0 +1,410 @@
+{
+  "runTime": 1747647786532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1174568,
+        "num": 1187930,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139592,
+        "num": 1139592,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 97379,
+        "num": 939258,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 819707,
+        "num": 819707,
+        "word": "消失3个月瘦了40斤妈妈的反应",
+        "onboard_time": 1747642165,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 698752,
+        "num": 698752,
+        "word": "王楚钦vs饭冢",
+        "onboard_time": 1747645464,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744342,
+        "num": 698173,
+        "word": "造谣陈奕迅去世博主曾造谣成龙去世",
+        "onboard_time": 1747630104,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688208,
+        "num": 688208,
+        "word": "原来奚梦瑶每天在家判案",
+        "onboard_time": 1747644205,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595517,
+        "num": 595517,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 504081,
+        "num": 504081,
+        "word": "鸿蒙电脑",
+        "onboard_time": 1747643546,
+        "rank": 8,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 213096,
+        "num": 470628,
+        "word": "日照海域再刷火箭",
+        "onboard_time": 1747645585,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1226458,
+        "num": 468296,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455679,
+        "num": 455679,
+        "word": "年轻人最不缺的结婚条件被取消后",
+        "onboard_time": 1747642524,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330130,
+        "num": 330130,
+        "word": "马吟吟 拉票",
+        "onboard_time": 1747645224,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328008,
+        "num": 328008,
+        "word": "肖战擦汗这20秒我将反复看",
+        "onboard_time": 1747639945,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323149,
+        "num": 325453,
+        "word": "王楚钦4比0饭冢",
+        "onboard_time": 1747646604,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140549,
+        "num": 325440,
+        "word": "nova14含金量",
+        "onboard_time": 1747643906,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 325427,
+        "num": 325427,
+        "word": "雷军回应小米黑公关案件",
+        "onboard_time": 1747642643,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322355,
+        "num": 322355,
+        "word": "riize空降",
+        "onboard_time": 1747647504,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234050,
+        "num": 273046,
+        "word": "肖战回应藏海来了敬妃都得让路",
+        "onboard_time": 1747647383,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63672,
+        "num": 269297,
+        "word": "内衣裤和鞋袜混洗会引发卫生问题吗",
+        "onboard_time": 1747647084,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 268626,
+        "num": 268626,
+        "word": "金靖夸的是迪丽热巴点的是张凌赫",
+        "onboard_time": 1747643604,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252380,
+        "num": 252380,
+        "word": "中国退居至美国第三大海外债主",
+        "onboard_time": 1747646726,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233072,
+        "num": 233072,
+        "word": "辽宁鞍山22年前父子遇害案侦破",
+        "onboard_time": 1747645644,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223459,
+        "num": 223459,
+        "word": "陈奕迅何以被编排成全网悼念的荒诞剧",
+        "onboard_time": 1747645524,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206429,
+        "num": 206429,
+        "word": "藏海魏无羡时候",
+        "onboard_time": 1747644145,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197275,
+        "num": 197275,
+        "word": "雷军回应美的方洪波言论",
+        "onboard_time": 1747647144,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32788,
+        "num": 196626,
+        "word": "nova14再次拉高前置影像天花板",
+        "onboard_time": 1747646364,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123959,
+        "num": 194511,
+        "word": "华为新耳机稳固开挂",
+        "onboard_time": 1747646364,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92601,
+        "num": 193858,
+        "word": "nova14首次搭载旗舰级红枫人像",
+        "onboard_time": 1747642404,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 192029,
+        "word": "坚决抵制享乐主义和奢靡之风",
+        "onboard_time": 1747646784,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160084,
+        "num": 190159,
+        "word": "王楚钦23分钟赢下比赛",
+        "onboard_time": 1747647444,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217307,
+        "num": 188470,
+        "word": "去掉韩剧滤镜真实的韩国",
+        "onboard_time": 1747647685,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 187151,
+        "num": 187151,
+        "word": "歌手",
+        "onboard_time": 1747647444,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186406,
+        "num": 186406,
+        "word": "17岁女孩失踪39天警方立为拐卖儿童案",
+        "onboard_time": 1747645464,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153471,
+        "num": 184761,
+        "word": "华为手表首发水上运动轨迹",
+        "onboard_time": 1747643723,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183746,
+        "num": 183746,
+        "word": "idle新专辑发布会",
+        "onboard_time": 1747645764,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177006,
+        "num": 177006,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164850,
+        "num": 164850,
+        "word": "柏浪涛 是时候该考虑隐退了",
+        "onboard_time": 1747639524,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163436,
+        "num": 163436,
+        "word": "女子家被12台空调外机包围",
+        "onboard_time": 1747644745,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15870,
+        "num": 160671,
+        "word": "高志凯论坛激辩美前大使",
+        "onboard_time": 1747646125,
+        "rank": 39,
+        "category": "国际时政,议题讨论"
+      },
+      {
+        "raw_hot": 159504,
+        "num": 159504,
+        "word": "程潇从小不跟爸爸聊天",
+        "onboard_time": 1747647624,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147401,
+        "num": 147401,
+        "word": "山东一村委发文禁止居民养猫狗",
+        "onboard_time": 1747645585,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141258,
+        "num": 141258,
+        "word": "河南人又遭大旱",
+        "onboard_time": 1747644984,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140860,
+        "num": 140860,
+        "word": "以前的奶茶 30块",
+        "onboard_time": 1747626983,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138888,
+        "num": 138888,
+        "word": "这是一把勾践剑",
+        "onboard_time": 1747647744,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138295,
+        "num": 138295,
+        "word": "坚持跑步一个月后面部的变化",
+        "onboard_time": 1747647324,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "反复减肥比肥胖本身危害更大",
+        "onboard_time": 1747646306,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49320,
+        "num": 135970,
+        "word": "520重庆成了肖战痛城",
+        "onboard_time": 1747642705,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135963,
+        "num": 135963,
+        "word": "8w穷装200平的毛坯别墅",
+        "onboard_time": 1747647744,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135641,
+        "num": 135641,
+        "word": "我在等面包价格回落的那一天",
+        "onboard_time": 1747647264,
+        "rank": 49,
+        "category": "情感,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
+    }
+  }
+}
