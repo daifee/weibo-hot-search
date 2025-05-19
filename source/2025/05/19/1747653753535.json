@@ -1,0 +1,410 @@
+{
+  "runTime": 1747653753535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495933,
+        "num": 1495933,
+        "word": "陈奕迅微博在线",
+        "onboard_time": 1747632864,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719268,
+        "num": 719268,
+        "word": "3nm",
+        "onboard_time": 1747629985,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 71517,
+        "num": 687436,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657252,
+        "num": 657252,
+        "word": "貂蝉皮肤",
+        "onboard_time": 1747651225,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611839,
+        "num": 611839,
+        "word": "工资5000 情绪管理",
+        "onboard_time": 1747637303,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340882,
+        "num": 493259,
+        "word": "孙颖莎vs边松景",
+        "onboard_time": 1747649183,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1438387,
+        "num": 481692,
+        "word": "陈奕迅工作室",
+        "onboard_time": 1747652485,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677941,
+        "num": 475052,
+        "word": "魏大勋刘美含 初恋CP",
+        "onboard_time": 1747649964,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386482,
+        "num": 386482,
+        "word": "原来奚梦瑶每天在家判案",
+        "onboard_time": 1747644205,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100904,
+        "num": 385546,
+        "word": "日照又又又要发射火箭了",
+        "onboard_time": 1747651823,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1186935,
+        "num": 384381,
+        "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+        "onboard_time": 1747648524,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644421,
+        "num": 382620,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 531990,
+        "num": 381542,
+        "word": "编剧祝明再发长文",
+        "onboard_time": 1747650685,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379983,
+        "num": 379983,
+        "word": "藏海传提前更新了",
+        "onboard_time": 1747651823,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22441,
+        "num": 373381,
+        "word": "有车主维修隐藏式门把手花费过千",
+        "onboard_time": 1747652963,
+        "rank": 14,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 50092,
+        "num": 368459,
+        "word": "肖战谈藏海传角色矛盾感",
+        "onboard_time": 1747652604,
+        "rank": 15,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 8767,
+        "num": 358227,
+        "word": "日照海域火箭发射将影响哪些领域",
+        "onboard_time": 1747653443,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17225,
+        "num": 349106,
+        "word": "为何北方此轮高温如此极端",
+        "onboard_time": 1747652905,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328111,
+        "num": 343317,
+        "word": "消失3个月瘦了40斤妈妈的反应",
+        "onboard_time": 1747642165,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48752,
+        "num": 329364,
+        "word": "孙颖莎怎么打怎么有",
+        "onboard_time": 1747653203,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328829,
+        "num": 328829,
+        "word": "17岁女孩失踪39天警方立为拐卖儿童案",
+        "onboard_time": 1747645464,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26508,
+        "num": 311645,
+        "word": "周深演唱会的VCR为何引起强烈共鸣",
+        "onboard_time": 1747652485,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295168,
+        "num": 295168,
+        "word": "华为超大折到底有多少黑科技",
+        "onboard_time": 1747648165,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292377,
+        "num": 292377,
+        "word": "情侣博主 摆拍",
+        "onboard_time": 1747651884,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227111,
+        "num": 287706,
+        "word": "孙颖莎将军拔剑太帅了",
+        "onboard_time": 1747652306,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141297,
+        "num": 287394,
+        "word": "赵露歌手的舞台我向往了十年",
+        "onboard_time": 1747652244,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 287277,
+        "word": "代露娃上一秒女王下一秒萌妹",
+        "onboard_time": 1747652604,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287210,
+        "num": 287210,
+        "word": "年轻人最不缺的结婚条件被取消后",
+        "onboard_time": 1747642524,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194351,
+        "num": 246850,
+        "word": "跑男团cha了时代少年团新歌",
+        "onboard_time": 1747652785,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39496,
+        "num": 233625,
+        "word": "英国部分学校教材称黑人建造巨石阵",
+        "onboard_time": 1747652004,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232706,
+        "num": 232706,
+        "word": "中国退居至美国第三大海外债主",
+        "onboard_time": 1747646726,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191818,
+        "num": 213992,
+        "word": "肖战回应藏海来了敬妃都得让路",
+        "onboard_time": 1747647383,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171003,
+        "num": 205411,
+        "word": "尹子维50岁生日表白徐冬冬",
+        "onboard_time": 1747652604,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204536,
+        "num": 204536,
+        "word": "虞书欣爸爸维权声明",
+        "onboard_time": 1747653503,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201274,
+        "num": 201274,
+        "word": "女子家被12台空调外机包围",
+        "onboard_time": 1747644745,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193967,
+        "num": 193967,
+        "word": "张博恒获个人全能金牌",
+        "onboard_time": 1747649663,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26186,
+        "num": 193805,
+        "word": "五星级酒店为什么被批量贱卖",
+        "onboard_time": 1747651403,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 138683,
+        "num": 193732,
+        "word": "油价",
+        "onboard_time": 1747650506,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160594,
+        "num": 193717,
+        "word": "自律一个月就能把湿气排出去",
+        "onboard_time": 1747653143,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193714,
+        "num": 193714,
+        "word": "王曼昱蒯曼3比0车秀英朴秀景",
+        "onboard_time": 1747653203,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193059,
+        "num": 193059,
+        "word": "中国稀土出口审批速度太慢急坏西方",
+        "onboard_time": 1747650024,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175286,
+        "num": 175286,
+        "word": "折腰",
+        "onboard_time": 1747648884,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "明治雪糕",
+        "onboard_time": 1747651704,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165579,
+        "num": 165579,
+        "word": "赵小棠被70斤的狗子踩到脚",
+        "onboard_time": 1747648584,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161547,
+        "num": 161547,
+        "word": "王者荣耀520",
+        "onboard_time": 1747631186,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "余承东呼吁用每行代码改写未来",
+        "onboard_time": 1747652725,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 144510,
+        "word": "为何柯南M28是近十年口碑top",
+        "onboard_time": 1747652425,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140711,
+        "num": 140711,
+        "word": "歌手",
+        "onboard_time": 1747647444,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138660,
+        "num": 138660,
+        "word": "idle空降",
+        "onboard_time": 1747653683,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134037,
+        "num": 134037,
+        "word": "中国科技一天两个好消息",
+        "onboard_time": 1747652664,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚决抵制享乐主义和奢靡之风#"
+    }
+  }
+}

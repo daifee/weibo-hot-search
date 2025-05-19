@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747651596197,
+  "endTime": 1747653753535,
   "band_list": [
     {
       "raw_hot": 11279195,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1438387,
+      "num": 481692,
+      "word": "陈奕迅工作室",
+      "onboard_time": 1747652485,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1394637,
       "num": 913156,
       "word": "藏海割了双眼皮",
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1186935,
+      "num": 720390,
+      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
+      "onboard_time": 1747648524,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1183966,
       "num": 1183966,
       "word": "央视曝光永久基本农田竟沦为垃圾场",
@@ -225,14 +241,6 @@
       "onboard_time": 1747645464,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1120268,
-      "num": 720390,
-      "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
-      "onboard_time": 1747648524,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1115625,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677941,
+      "num": 475052,
+      "word": "魏大勋刘美含 初恋CP",
+      "onboard_time": 1747649964,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662929,
       "num": 302122,
       "word": "藏海传观后感",
@@ -649,6 +665,14 @@
       "onboard_time": 1747548981,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 657252,
+      "num": 657252,
+      "word": "貂蝉皮肤",
+      "onboard_time": 1747651225,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 648933,
@@ -833,6 +857,14 @@
       "onboard_time": 1747570463,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531990,
+      "num": 381542,
+      "word": "编剧祝明再发长文",
+      "onboard_time": 1747650685,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 519955,
@@ -1123,8 +1155,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 379983,
+      "num": 379983,
+      "word": "藏海传提前更新了",
+      "onboard_time": 1747651823,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378300,
-      "num": 275555,
+      "num": 295168,
       "word": "华为超大折到底有多少黑科技",
       "onboard_time": 1747648165,
       "rank": 20,
@@ -1483,12 +1523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291317,
-      "num": 291317,
-      "word": "魏大勋刘美含 初恋CP",
-      "onboard_time": 1747649964,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 292377,
+      "num": 292377,
+      "word": "情侣博主 摆拍",
+      "onboard_time": 1747651884,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 291010,
@@ -1851,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239523,
-      "num": 239523,
-      "word": "编剧祝明再发长文",
-      "onboard_time": 1747650685,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237241,
       "num": 237241,
       "word": "孙颖莎王楚钦vs巴西组合",
@@ -1960,6 +1992,14 @@
       "word": "张博恒获个人全能金牌",
       "onboard_time": 1747649663,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227111,
+      "num": 287706,
+      "word": "孙颖莎将军拔剑太帅了",
+      "onboard_time": 1747652306,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2179,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211095,
+      "num": 287277,
+      "word": "代露娃上一秒女王下一秒萌妹",
+      "onboard_time": 1747652604,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210497,
       "num": 210497,
       "word": "黄子韬回应卫生巾被指贴牌",
@@ -2323,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204536,
+      "num": 204536,
+      "word": "虞书欣爸爸维权声明",
+      "onboard_time": 1747653503,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204483,
       "num": 204483,
       "word": "程潇从小不跟爸爸聊天",
@@ -2451,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201274,
+      "num": 201274,
+      "word": "女子家被12台空调外机包围",
+      "onboard_time": 1747644745,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201261,
       "num": 201261,
       "word": "孙颖莎4比0边松景",
@@ -2529,14 +2593,6 @@
       "onboard_time": 1747578565,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 197988,
-      "num": 197988,
-      "word": "貂蝉皮肤",
-      "onboard_time": 1747651225,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 197720,
@@ -2651,6 +2707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194351,
+      "num": 246850,
+      "word": "跑男团cha了时代少年团新歌",
+      "onboard_time": 1747652785,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194123,
       "num": 189390,
       "word": "酷云",
@@ -2665,6 +2729,14 @@
       "onboard_time": 1747557980,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193714,
+      "num": 193714,
+      "word": "王曼昱蒯曼3比0车秀英朴秀景",
+      "onboard_time": 1747653203,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 193696,
@@ -2697,6 +2769,14 @@
       "onboard_time": 1747643723,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193059,
+      "num": 322309,
+      "word": "中国稀土出口审批速度太慢急坏西方",
+      "onboard_time": 1747650024,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192815,
@@ -3059,14 +3139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177767,
-      "num": 177767,
-      "word": "女子家被12台空调外机包围",
-      "onboard_time": 1747644745,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177192,
       "num": 344714,
       "word": "小米玄戒O1性能紧追苹果A18Pro",
@@ -3139,12 +3211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172721,
-      "num": 322309,
-      "word": "中国稀土出口审批速度太慢急坏西方",
-      "onboard_time": 1747650024,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 171003,
+      "num": 205411,
+      "word": "尹子维50岁生日表白徐冬冬",
+      "onboard_time": 1747652604,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170176,
@@ -3273,6 +3345,14 @@
       "onboard_time": 1747646784,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167829,
+      "num": 167829,
+      "word": "明治雪糕",
+      "onboard_time": 1747651704,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 166904,
@@ -3459,6 +3539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160594,
+      "num": 193717,
+      "word": "自律一个月就能把湿气排出去",
+      "onboard_time": 1747653143,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160444,
       "num": 160444,
       "word": "金子涵回应交朋友",
@@ -3481,6 +3569,14 @@
       "onboard_time": 1747628365,
       "rank": 29,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 158879,
+      "num": 158879,
+      "word": "余承东呼吁用每行代码改写未来",
+      "onboard_time": 1747652725,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 158823,
@@ -3772,7 +3868,7 @@
     },
     {
       "raw_hot": 149671,
-      "num": 149671,
+      "num": 193732,
       "word": "油价",
       "onboard_time": 1747650506,
       "rank": 47,
@@ -3875,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144510,
+      "num": 144510,
+      "word": "为何柯南M28是近十年口碑top",
+      "onboard_time": 1747652425,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144274,
       "num": 144274,
       "word": "掘金vs雷霆",
@@ -3955,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141297,
+      "num": 287394,
+      "word": "赵露歌手的舞台我向往了十年",
+      "onboard_time": 1747652244,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140896,
       "num": 140896,
       "word": "王心凌Ella从我mp3走出来了",
@@ -4017,6 +4129,14 @@
       "onboard_time": 1747647744,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138660,
+      "num": 138660,
+      "word": "idle空降",
+      "onboard_time": 1747653683,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 138638,
@@ -4209,6 +4329,14 @@
       "onboard_time": 1747562001,
       "rank": 20,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 134037,
+      "num": 134037,
+      "word": "中国科技一天两个好消息",
+      "onboard_time": 1747652664,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 133707,
@@ -5137,6 +5265,14 @@
       "onboard_time": 1747647803,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 100904,
+      "num": 385546,
+      "word": "日照又又又要发射火箭了",
+      "onboard_time": 1747651823,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100792,
@@ -6139,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50092,
+      "num": 368459,
+      "word": "肖战谈藏海传角色矛盾感",
+      "onboard_time": 1747652604,
+      "rank": 15,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 49961,
       "num": 202136,
       "word": "花海新的一天从比耶开始",
@@ -6169,6 +6313,14 @@
       "onboard_time": 1747524197,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48752,
+      "num": 329364,
+      "word": "孙颖莎怎么打怎么有",
+      "onboard_time": 1747653203,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 48703,
@@ -6345,6 +6497,14 @@
       "onboard_time": 1747544549,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 39496,
+      "num": 233625,
+      "word": "英国部分学校教材称黑人建造巨石阵",
+      "onboard_time": 1747652004,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39386,
@@ -6675,6 +6835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26508,
+      "num": 311645,
+      "word": "周深演唱会的VCR为何引起强烈共鸣",
+      "onboard_time": 1747652485,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26277,
       "num": 55419,
       "word": "严浩翔个人直拍发布",
@@ -6689,6 +6857,14 @@
       "onboard_time": 1747539149,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26186,
+      "num": 193805,
+      "word": "五星级酒店为什么被批量贱卖",
+      "onboard_time": 1747651403,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 26165,
@@ -6793,6 +6969,14 @@
       "onboard_time": 1747624643,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22441,
+      "num": 373381,
+      "word": "有车主维修隐藏式门把手花费过千",
+      "onboard_time": 1747652963,
+      "rank": 14,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 22264,
@@ -6969,6 +7153,14 @@
       "onboard_time": 1747557261,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17225,
+      "num": 349106,
+      "word": "为何北方此轮高温如此极端",
+      "onboard_time": 1747652905,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17203,
@@ -7251,20 +7443,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 8767,
+      "num": 358227,
+      "word": "日照海域火箭发射将影响哪些领域",
+      "onboard_time": 1747653443,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8029,
       "num": 276046,
       "word": "AG600完成生产试飞何时投入使用",
       "onboard_time": 1747649844,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 6595,
-      "num": 152082,
-      "word": "五星级酒店为什么被批量贱卖",
-      "onboard_time": 1747651403,
-      "rank": 39,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 6361,
