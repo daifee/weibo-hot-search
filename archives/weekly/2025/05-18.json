@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747694567992,
+  "endTime": 1747697051571,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -491,6 +491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 923570,
+      "num": 923570,
+      "word": "交通局职工被曝与两名女生办婚礼",
+      "onboard_time": 1747671561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 915939,
       "num": 915939,
       "word": "匿名校友向复旦大学捐赠1亿元",
@@ -955,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 600288,
+      "num": 600288,
+      "word": "小伙一年卖出255辆宝马年收入71万",
+      "onboard_time": 1747676296,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598676,
       "num": 598676,
       "word": "莎头",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1747658303,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 570060,
-      "num": 570060,
-      "word": "交通局职工被曝与两名女生办婚礼",
-      "onboard_time": 1747671561,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 569462,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1747482502,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382021,
-      "num": 382021,
-      "word": "小伙一年卖出255辆宝马年收入71万",
-      "onboard_time": 1747676296,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 381679,
@@ -1865,6 +1865,14 @@
       "onboard_time": 1747565601,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298738,
+      "num": 221916,
+      "word": "68岁摩的司机两次性侵14岁女学生",
+      "onboard_time": 1747696398,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296580,
@@ -2321,6 +2329,14 @@
       "onboard_time": 1747645585,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 243314,
+      "num": 734826,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243047,
@@ -4091,14 +4107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166206,
-      "num": 734826,
-      "word": "母子大闹机场不该由社会买单",
-      "onboard_time": 1747665446,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166109,
       "num": 166109,
       "word": "藏海 就是我命不该绝",
@@ -5291,6 +5299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129444,
+      "num": 318056,
+      "word": "货车司机深夜下车睡觉被狼咬伤",
+      "onboard_time": 1747668683,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129002,
       "num": 129002,
       "word": "现炒浇头把干挑面的饭张力拉满",
@@ -6027,6 +6043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107768,
+      "num": 107768,
+      "word": "塔克拉玛干沙漠10万株玫瑰惊艳绽放",
+      "onboard_time": 1747694836,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107541,
       "num": 107541,
       "word": "守护甜心凪璃同居",
@@ -6291,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98406,
+      "num": 98406,
+      "word": "美俄总统通话超2小时",
+      "onboard_time": 1747696279,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97221,
       "num": 97221,
       "word": "林高远说早发现问题早解决",
@@ -6539,14 +6571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89016,
-      "num": 318056,
-      "word": "货车司机深夜下车睡觉被狼咬伤",
-      "onboard_time": 1747668683,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88506,
       "num": 148975,
       "word": "灰原哀街道美的太超过了",
@@ -6569,6 +6593,14 @@
       "onboard_time": 1747490726,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87801,
+      "num": 87801,
+      "word": "71岁的成龙比20岁的我还灵活",
+      "onboard_time": 1747693818,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 87322,
@@ -6777,6 +6809,14 @@
       "onboard_time": 1747639344,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 79681,
+      "num": 79681,
+      "word": "孙颖莎雨果中远台对拉太帅了",
+      "onboard_time": 1747675457,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 79577,
@@ -6995,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71159,
+      "num": 71159,
+      "word": "张檬儿子满月",
+      "onboard_time": 1747693094,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70672,
       "num": 167205,
       "word": "坚持4个动作全方位瘦肚子",
@@ -7049,6 +7097,14 @@
       "onboard_time": 1747501578,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66805,
+      "num": 101256,
+      "word": "林高远林诗栋vs张禹珍赵大成",
+      "onboard_time": 1747696398,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 66659,
@@ -7115,12 +7171,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 62340,
-      "num": 55848,
-      "word": "孙颖莎雨果中远台对拉太帅了",
-      "onboard_time": 1747675457,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 63647,
+      "num": 63647,
+      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
+      "onboard_time": 1747685833,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62098,
@@ -7179,6 +7235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59736,
+      "num": 59736,
+      "word": "球拍检测各球队可派一人全程跟随",
+      "onboard_time": 1747696939,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59174,
       "num": 59174,
       "word": "许嵩演唱会被惊喜庆生的反应",
@@ -7193,6 +7257,14 @@
       "onboard_time": 1747637604,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 58697,
+      "num": 58697,
+      "word": "一辈子的爱什么样",
+      "onboard_time": 1747678276,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58447,
@@ -7249,6 +7321,14 @@
       "onboard_time": 1747673240,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56404,
+      "num": 56404,
+      "word": "莎头组合因对手退赛直接晋级8强",
+      "onboard_time": 1747696879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 55979,
@@ -7443,6 +7523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49521,
+      "num": 49521,
+      "word": "网传与两名女子办婚礼男子被开除",
+      "onboard_time": 1747696340,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49136,
       "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
@@ -7507,12 +7595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46630,
-      "num": 46630,
-      "word": "敦煌13岁女孩坠马身亡调解陷僵局",
-      "onboard_time": 1747685833,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 46812,
+      "num": 46812,
+      "word": "章泽天陈都灵 缘分妙不可言",
+      "onboard_time": 1747678816,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 46469,
@@ -7560,14 +7648,6 @@
       "word": "一代人有一代人的茅台",
       "onboard_time": 1747571363,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44144,
-      "num": 46750,
-      "word": "一辈子的爱什么样",
-      "onboard_time": 1747678276,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -7779,14 +7859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37378,
-      "num": 37378,
-      "word": "张檬儿子满月",
-      "onboard_time": 1747693094,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36679,
       "num": 158898,
       "word": "灵笼第二季有哪些看点",
@@ -7873,14 +7945,6 @@
       "onboard_time": 1747634424,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 33073,
-      "num": 37374,
-      "word": "71岁的成龙比20岁的我还灵活",
-      "onboard_time": 1747693818,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 32890,
@@ -7985,14 +8049,6 @@
       "onboard_time": 1747580664,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29229,
-      "num": 37366,
-      "word": "章泽天陈都灵 缘分妙不可言",
-      "onboard_time": 1747678816,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 29145,
