@@ -1,0 +1,410 @@
+{
+  "runTime": 1747664790927,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11395470,
+        "num": 11395470,
+        "word": "王楚钦换球拍",
+        "onboard_time": 1747660525,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9707431,
+        "num": 9707431,
+        "word": "陈奕迅",
+        "onboard_time": 1747654883,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71076,
+        "num": 3065602,
+        "word": "4月国民经济顶住压力稳定增长",
+        "onboard_time": 1747645524,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2141122,
+        "num": 2141122,
+        "word": "王楚钦球拍胶皮被人揭开了",
+        "onboard_time": 1747663410,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1549832,
+        "num": 1549832,
+        "word": "主裁称王楚钦球拍没问题",
+        "onboard_time": 1747662567,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1099290,
+        "num": 1099290,
+        "word": "王楚钦说孙颖莎很棒",
+        "onboard_time": 1747664668,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9363731,
+        "num": 9363731,
+        "word": "陈奕迅ins报平安",
+        "onboard_time": 1747663710,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1275134,
+        "num": 897527,
+        "word": "闵塔鲨 迪丽热巴",
+        "onboard_time": 1747662206,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709826,
+        "num": 709826,
+        "word": "桃花坞打码",
+        "onboard_time": 1747658904,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99252,
+        "num": 651467,
+        "word": "西安碑林博物馆文物遭多人刻字",
+        "onboard_time": 1747663651,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598599,
+        "num": 598599,
+        "word": "MAMA 香港",
+        "onboard_time": 1747661064,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431175,
+        "num": 431175,
+        "word": "孙颖莎王楚钦vs巴西组合",
+        "onboard_time": 1747660164,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519040,
+        "num": 427919,
+        "word": "曝迪丽热巴将离开嘉行",
+        "onboard_time": 1747655063,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423040,
+        "num": 423040,
+        "word": "这球真的很莎头",
+        "onboard_time": 1747664189,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110953,
+        "num": 419547,
+        "word": "售价10元螺母被指为枪支配件",
+        "onboard_time": 1747663410,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419337,
+        "num": 419337,
+        "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+        "onboard_time": 1747642764,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392373,
+        "num": 392373,
+        "word": "虞书欣爸爸维权声明",
+        "onboard_time": 1747653503,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332246,
+        "num": 332246,
+        "word": "韦雪男友妈妈住韦雪家",
+        "onboard_time": 1747661365,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66537,
+        "num": 328524,
+        "word": "晨光供港壹号到底供不供港",
+        "onboard_time": 1747663471,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21798,
+        "num": 328480,
+        "word": "长期不洗的梳子能积攒多少污垢",
+        "onboard_time": 1747664189,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 373457,
+        "num": 328475,
+        "word": "藏海传节奏",
+        "onboard_time": 1747660283,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328468,
+        "num": 328468,
+        "word": "王楚钦孙颖莎目标是复刻杯",
+        "onboard_time": 1747661726,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327477,
+        "num": 327477,
+        "word": "张凌赫都歪成这样了你还无动于衷",
+        "onboard_time": 1747659026,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317832,
+        "num": 317832,
+        "word": "珠宝鉴定师说耳环不太像正品",
+        "onboard_time": 1747661365,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307460,
+        "num": 307460,
+        "word": "王楚钦说不知道为什么每次都是我遇到",
+        "onboard_time": 1747663410,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291037,
+        "num": 291037,
+        "word": "孙杨第八",
+        "onboard_time": 1747655242,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288787,
+        "num": 288787,
+        "word": "黄杨钿甜爸爸刚从一生物公司退出",
+        "onboard_time": 1747657826,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272864,
+        "num": 272864,
+        "word": "宋雨琦就自费购买门票失言道歉",
+        "onboard_time": 1747655664,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271851,
+        "num": 271851,
+        "word": "雨果鹰眼挑战失败",
+        "onboard_time": 1747664189,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211653,
+        "num": 211653,
+        "word": "王九龙 张九龄",
+        "onboard_time": 1747662805,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639522,
+        "num": 210633,
+        "word": "抖音崩了",
+        "onboard_time": 1747660883,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209399,
+        "num": 209399,
+        "word": "国台办谈欧阳娜娜被台当局列入查核对象",
+        "onboard_time": 1747658303,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207392,
+        "num": 207392,
+        "word": "年轻人送礼已经进化到这种程度了",
+        "onboard_time": 1747660405,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197025,
+        "num": 197025,
+        "word": "网店称去年退回衣服中有30多副耳机",
+        "onboard_time": 1747664490,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184141,
+        "num": 184141,
+        "word": "王楚钦孙颖莎VS雨果高桥布鲁娜",
+        "onboard_time": 1747660164,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182305,
+        "num": 182305,
+        "word": "百花杀",
+        "onboard_time": 1747655305,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178451,
+        "num": 178451,
+        "word": "2025腾讯破3w剧集",
+        "onboard_time": 1747662268,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177190,
+        "num": 177190,
+        "word": "潘展乐说孙杨汪顺是永远的偶像",
+        "onboard_time": 1747658664,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172043,
+        "num": 172043,
+        "word": "藏海传",
+        "onboard_time": 1747654403,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170409,
+        "num": 170409,
+        "word": "女子易胖体质生完孩子胖了200多斤",
+        "onboard_time": 1747655843,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185077,
+        "num": 170114,
+        "word": "王楚钦孙颖莎渴望冲击混双三连冠",
+        "onboard_time": 1747664668,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166776,
+        "num": 166776,
+        "word": "徐敏在发遗书",
+        "onboard_time": 1747661305,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163352,
+        "num": 163352,
+        "word": "孙杨盯着成绩笑了",
+        "onboard_time": 1747660283,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11703,
+        "num": 158241,
+        "word": "人类基因如何影响小鼠大脑体积",
+        "onboard_time": 1747663290,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158212,
+        "num": 158212,
+        "word": "王楚钦孙颖莎3比0巴西组合",
+        "onboard_time": 1747663410,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161347,
+        "num": 158171,
+        "word": "收视率",
+        "onboard_time": 1747664727,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157962,
+        "num": 157962,
+        "word": "折腰",
+        "onboard_time": 1747648884,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155778,
+        "num": 155778,
+        "word": "貂蝉皮肤",
+        "onboard_time": 1747651225,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153906,
+        "num": 153906,
+        "word": "2025KPL夏季赛抽签结果",
+        "onboard_time": 1747664727,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151918,
+        "num": 151918,
+        "word": "徐嘉余100米仰金牌",
+        "onboard_time": 1747664608,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对十五五规划编制工作作出重要指示#"
+    }
+  }
+}

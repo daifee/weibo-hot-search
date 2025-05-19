@@ -1,7 +1,15 @@
 {
   "startTime": 1747585735831,
-  "endTime": 1747662546358,
+  "endTime": 1747664790927,
   "band_list": [
+    {
+      "raw_hot": 11395470,
+      "num": 11395470,
+      "word": "王楚钦换球拍",
+      "onboard_time": 1747660525,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 11279195,
       "num": 11279195,
@@ -11,20 +19,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 4784095,
-      "num": 4784095,
+      "raw_hot": 9707431,
+      "num": 9707431,
       "word": "陈奕迅",
       "onboard_time": 1747654883,
       "rank": 0,
       "category": "艺人"
     },
     {
-      "raw_hot": 4719833,
-      "num": 4719833,
-      "word": "王楚钦换球拍",
-      "onboard_time": 1747660525,
-      "rank": 0,
-      "category": "体育"
+      "raw_hot": 9363731,
+      "num": 9363731,
+      "word": "陈奕迅ins报平安",
+      "onboard_time": 1747663710,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 3348821,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2141122,
+      "num": 2141122,
+      "word": "王楚钦球拍胶皮被人揭开了",
+      "onboard_time": 1747663410,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1655230,
       "num": 1655230,
       "word": "孙杨第八",
@@ -113,6 +129,14 @@
       "onboard_time": 1747626983,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1549832,
+      "num": 1549832,
+      "word": "主裁称王楚钦球拍没问题",
+      "onboard_time": 1747662567,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1530520,
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1275134,
+      "num": 1010850,
+      "word": "闵塔鲨 迪丽热巴",
+      "onboard_time": 1747662206,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1186935,
       "num": 720390,
       "word": "虞书欣被质疑家庭背景粉丝呼吁反黑",
@@ -195,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1099290,
+      "num": 1099290,
+      "word": "王楚钦说孙颖莎很棒",
+      "onboard_time": 1747664668,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1094188,
       "num": 779012,
       "word": "造谣陈奕迅去世博主曾造谣成龙去世",
@@ -208,14 +248,6 @@
       "word": "虞书欣爸爸维权声明",
       "onboard_time": 1747653503,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1010850,
-      "num": 1010850,
-      "word": "闵塔鲨 迪丽热巴",
-      "onboard_time": 1747662206,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -427,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639522,
+      "num": 245773,
+      "word": "抖音崩了",
+      "onboard_time": 1747660883,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 627282,
       "num": 574136,
       "word": "演员隋永清去世",
       "onboard_time": 1747635802,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 626334,
-      "num": 245773,
-      "word": "抖音崩了",
-      "onboard_time": 1747660883,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 618547,
@@ -457,6 +489,14 @@
       "onboard_time": 1747628664,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 598599,
+      "num": 598599,
+      "word": "MAMA 香港",
+      "onboard_time": 1747661064,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 591748,
@@ -667,14 +707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 432838,
-      "num": 432838,
-      "word": "MAMA 香港",
-      "onboard_time": 1747661064,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 432270,
       "num": 442580,
       "word": "新冠病毒检出率升高",
@@ -697,6 +729,14 @@
       "onboard_time": 1747579704,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423040,
+      "num": 423040,
+      "word": "这球真的很莎头",
+      "onboard_time": 1747664189,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 422320,
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373457,
+      "num": 328475,
+      "word": "藏海传节奏",
+      "onboard_time": 1747660283,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370687,
       "num": 370687,
       "word": "雷军回应小米黑公关案件",
@@ -835,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332246,
+      "num": 332246,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 327477,
+      "num": 327477,
+      "word": "张凌赫都歪成这样了你还无动于衷",
+      "onboard_time": 1747659026,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323149,
       "num": 503689,
       "word": "王楚钦4比0饭冢",
@@ -859,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317832,
+      "num": 317832,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308702,
       "num": 308702,
       "word": "藏海传",
       "onboard_time": 1747566501,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307460,
+      "num": 307460,
+      "word": "王楚钦说不知道为什么每次都是我遇到",
+      "onboard_time": 1747663410,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 307077,
@@ -931,14 +1011,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 289835,
-      "num": 235491,
-      "word": "韦雪男友妈妈住韦雪家",
-      "onboard_time": 1747661365,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 287882,
       "num": 279463,
       "word": "金子涵 好朋友",
@@ -979,20 +1051,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274864,
-      "num": 274864,
-      "word": "藏海传节奏",
-      "onboard_time": 1747660283,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271904,
       "num": 479109,
       "word": "岩羊在攀岩方面强得可怕",
       "onboard_time": 1747638444,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271851,
+      "num": 271851,
+      "word": "雨果鹰眼挑战失败",
+      "onboard_time": 1747664189,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 269805,
@@ -1091,14 +1163,6 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 250702,
-      "num": 241586,
-      "word": "张凌赫都歪成这样了你还无动于衷",
-      "onboard_time": 1747659026,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249203,
       "num": 249203,
       "word": "小米公布一起黑公关案件",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1747653743,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238196,
-      "num": 238196,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 236573,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1747638444,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211653,
+      "num": 211653,
+      "word": "王九龙 张九龄",
+      "onboard_time": 1747662805,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 211352,
@@ -1675,6 +1739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196719,
       "num": 433835,
       "word": "业主称孩子生病要送医物业不给开电梯",
@@ -1905,6 +1977,14 @@
       "onboard_time": 1747661305,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185077,
+      "num": 170114,
+      "word": "王楚钦孙颖莎渴望冲击混双三连冠",
+      "onboard_time": 1747664668,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 184597,
@@ -2211,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161347,
+      "num": 158171,
+      "word": "收视率",
+      "onboard_time": 1747664727,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161216,
       "num": 192487,
       "word": "林诗栋蒯曼vs高茨帕瓦德",
@@ -2283,6 +2371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158212,
+      "num": 158212,
+      "word": "王楚钦孙颖莎3比0巴西组合",
+      "onboard_time": 1747663410,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157837,
       "num": 157837,
       "word": "马嘉祺歌手唱TheGreatestShow",
@@ -2339,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153906,
+      "num": 153906,
+      "word": "2025KPL夏季赛抽签结果",
+      "onboard_time": 1747664727,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153125,
       "num": 153125,
       "word": "蒋四金 柏浪涛",
@@ -2385,6 +2489,14 @@
       "onboard_time": 1747573341,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151918,
+      "num": 151918,
+      "word": "徐嘉余100米仰金牌",
+      "onboard_time": 1747664608,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151736,
@@ -2916,7 +3028,7 @@
     },
     {
       "raw_hot": 112172,
-      "num": 2620118,
+      "num": 3065602,
       "word": "4月国民经济顶住压力稳定增长",
       "onboard_time": 1747645524,
       "rank": 2,
@@ -2944,6 +3056,14 @@
       "word": "这一刻海上生明月就在眼前",
       "onboard_time": 1747639945,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110953,
+      "num": 419547,
+      "word": "售价10元螺母被指为枪支配件",
+      "onboard_time": 1747663410,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3057,6 +3177,14 @@
       "onboard_time": 1747621222,
       "rank": 38,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 99252,
+      "num": 651467,
+      "word": "西安碑林博物馆文物遭多人刻字",
+      "onboard_time": 1747663651,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99229,
@@ -3497,6 +3625,14 @@
       "onboard_time": 1747627344,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66537,
+      "num": 328524,
+      "word": "晨光供港壹号到底供不供港",
+      "onboard_time": 1747663471,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66293,
@@ -4011,6 +4147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21798,
+      "num": 328480,
+      "word": "长期不洗的梳子能积攒多少污垢",
+      "onboard_time": 1747664189,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21651,
       "num": 200682,
       "word": "前列腺癌转移能治愈吗",
@@ -4177,6 +4321,14 @@
       "onboard_time": 1747649426,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11703,
+      "num": 158241,
+      "word": "人类基因如何影响小鼠大脑体积",
+      "onboard_time": 1747663290,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10752,

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747662546358,
+  "endTime": 1747664790927,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -25,6 +25,14 @@
       "onboard_time": 1746580521,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11395470,
+      "num": 11395470,
+      "word": "王楚钦换球拍",
+      "onboard_time": 1747660525,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 11279195,
@@ -59,12 +67,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9707431,
+      "num": 9707431,
+      "word": "陈奕迅",
+      "onboard_time": 1747654883,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9584581,
       "num": 9584581,
       "word": "歌手排名",
       "onboard_time": 1747406066,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9363731,
+      "num": 9363731,
+      "word": "陈奕迅ins报平安",
+      "onboard_time": 1747663710,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 9150504,
@@ -89,22 +113,6 @@
       "onboard_time": 1747438878,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4784095,
-      "num": 4784095,
-      "word": "陈奕迅",
-      "onboard_time": 1747654883,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4719833,
-      "num": 4719833,
-      "word": "王楚钦换球拍",
-      "onboard_time": 1747660525,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4599076,
@@ -569,6 +577,14 @@
       "onboard_time": 1746369864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2141122,
+      "num": 2141122,
+      "word": "王楚钦球拍胶皮被人揭开了",
+      "onboard_time": 1747663410,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2117006,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1549832,
+      "num": 1549832,
+      "word": "主裁称王楚钦球拍没问题",
+      "onboard_time": 1747662567,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1548965,
       "num": 1548965,
       "word": "李玉把处女作称为开山作",
@@ -2195,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1275134,
+      "num": 1010850,
+      "word": "闵塔鲨 迪丽热巴",
+      "onboard_time": 1747662206,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1275089,
       "num": 1275089,
       "word": "月经是女性健康的试金石",
@@ -2891,6 +2923,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1099290,
+      "num": 1099290,
+      "word": "王楚钦说孙颖莎很棒",
+      "onboard_time": 1747664668,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1097674,
       "num": 1097674,
       "word": "32岁儿子辞职照顾2岁的妈妈",
@@ -3425,14 +3465,6 @@
       "onboard_time": 1746642794,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1010850,
-      "num": 1010850,
-      "word": "闵塔鲨 迪丽热巴",
-      "onboard_time": 1747662206,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1009667,
@@ -6939,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639522,
+      "num": 245773,
+      "word": "抖音崩了",
+      "onboard_time": 1747660883,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 639489,
       "num": 639489,
       "word": "孙汪",
@@ -7129,14 +7169,6 @@
       "onboard_time": 1747635802,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 626334,
-      "num": 245773,
-      "word": "抖音崩了",
-      "onboard_time": 1747660883,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 626299,
@@ -7657,6 +7689,14 @@
       "onboard_time": 1747044862,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598599,
+      "num": 598599,
+      "word": "MAMA 香港",
+      "onboard_time": 1747661064,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 598501,
@@ -11251,14 +11291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 432838,
-      "num": 432838,
-      "word": "MAMA 香港",
-      "onboard_time": 1747661064,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 432639,
       "num": 432639,
       "word": "特朗普将宣布波斯湾改称阿拉伯湾",
@@ -11497,6 +11529,14 @@
       "onboard_time": 1746870562,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 423040,
+      "num": 423040,
+      "word": "这球真的很莎头",
+      "onboard_time": 1747664189,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 423030,
@@ -13040,6 +13080,14 @@
       "word": "人生若如初见",
       "onboard_time": 1747047203,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 373457,
+      "num": 328475,
+      "word": "藏海传节奏",
+      "onboard_time": 1747660283,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -14627,6 +14675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 332246,
+      "num": 332246,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 331996,
       "num": 331996,
       "word": "白宫又吵起来了",
@@ -14873,6 +14929,14 @@
       "onboard_time": 1746665552,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327477,
+      "num": 327477,
+      "word": "张凌赫都歪成这样了你还无动于衷",
+      "onboard_time": 1747659026,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 327138,
@@ -15169,6 +15233,14 @@
       "onboard_time": 1747131382,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 317832,
+      "num": 317832,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 317424,
@@ -15664,6 +15736,14 @@
       "word": "陈梦官宣去踢足球",
       "onboard_time": 1746851251,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 307460,
+      "num": 307460,
+      "word": "王楚钦说不知道为什么每次都是我遇到",
+      "onboard_time": 1747663410,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -16739,14 +16819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289835,
-      "num": 235491,
-      "word": "韦雪男友妈妈住韦雪家",
-      "onboard_time": 1747661365,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 289826,
       "num": 328202,
       "word": "高圆圆演高段位恶女",
@@ -17475,14 +17547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274864,
-      "num": 274864,
-      "word": "藏海传节奏",
-      "onboard_time": 1747660283,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274282,
       "num": 400585,
       "word": "西藏那曲3头熊深夜撞门进入奶茶店",
@@ -17641,6 +17705,14 @@
       "onboard_time": 1747638444,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271851,
+      "num": 271851,
+      "word": "雨果鹰眼挑战失败",
+      "onboard_time": 1747664189,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 271326,
@@ -19339,14 +19411,6 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 250702,
-      "num": 241586,
-      "word": "张凌赫都歪成这样了你还无动于衷",
-      "onboard_time": 1747659026,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250657,
       "num": 250657,
       "word": "李昀锐新头像",
@@ -20369,14 +20433,6 @@
       "onboard_time": 1747653743,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238196,
-      "num": 238196,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 237980,
@@ -22953,6 +23009,14 @@
       "onboard_time": 1746450623,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211653,
+      "num": 211653,
+      "word": "王九龙 张九龄",
+      "onboard_time": 1747662805,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 211475,
@@ -26411,6 +26475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197023,
       "num": 202356,
       "word": "NCT合照",
@@ -29849,6 +29921,14 @@
       "onboard_time": 1746235941,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 185077,
+      "num": 170114,
+      "word": "王楚钦孙颖莎渴望冲击混双三连冠",
+      "onboard_time": 1747664668,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 185046,
@@ -35547,6 +35627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161347,
+      "num": 158171,
+      "word": "收视率",
+      "onboard_time": 1747664727,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161339,
       "num": 181225,
       "word": "成毅放一个月假上了25节健身课",
@@ -36465,6 +36553,14 @@
       "onboard_time": 1747468401,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158212,
+      "num": 158212,
+      "word": "王楚钦孙颖莎3比0巴西组合",
+      "onboard_time": 1747663410,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 158168,
@@ -37835,6 +37931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153906,
+      "num": 153906,
+      "word": "2025KPL夏季赛抽签结果",
+      "onboard_time": 1747664727,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153849,
       "num": 153849,
       "word": "苏新皓 第一视角",
@@ -38433,6 +38537,14 @@
       "onboard_time": 1747457425,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151918,
+      "num": 151918,
+      "word": "徐嘉余100米仰金牌",
+      "onboard_time": 1747664608,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151884,
@@ -50844,7 +50956,7 @@
     },
     {
       "raw_hot": 112172,
-      "num": 2620118,
+      "num": 3065602,
       "word": "4月国民经济顶住压力稳定增长",
       "onboard_time": 1747645524,
       "rank": 2,
@@ -51169,6 +51281,14 @@
       "onboard_time": 1746765383,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110953,
+      "num": 419547,
+      "word": "售价10元螺母被指为枪支配件",
+      "onboard_time": 1747663410,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110896,
@@ -53841,6 +53961,14 @@
       "onboard_time": 1747054282,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99252,
+      "num": 651467,
+      "word": "西安碑林博物馆文物遭多人刻字",
+      "onboard_time": 1747663651,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99229,
@@ -59113,6 +59241,14 @@
       "onboard_time": 1746531261,
       "rank": 20,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 66537,
+      "num": 328524,
+      "word": "晨光供港壹号到底供不供港",
+      "onboard_time": 1747663471,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66504,
@@ -68739,6 +68875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21798,
+      "num": 328480,
+      "word": "长期不洗的梳子能积攒多少污垢",
+      "onboard_time": 1747664189,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21744,
       "num": 202209,
       "word": "美的电热水器6小时热水不间断",
@@ -71913,6 +72057,14 @@
       "onboard_time": 1747254194,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 11703,
+      "num": 158241,
+      "word": "人类基因如何影响小鼠大脑体积",
+      "onboard_time": 1747663290,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 11657,
