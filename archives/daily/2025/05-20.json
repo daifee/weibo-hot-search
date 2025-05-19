@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747676482025,
+  "endTime": 1747679747452,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223364,
+      "num": 223364,
+      "word": "小伙一年卖出255辆宝马年收入71万",
+      "onboard_time": 1747676296,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220832,
       "num": 220832,
       "word": "桃花坞打码",
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90449,
-      "num": 118102,
-      "word": "小伙一年卖出255辆宝马年收入71万",
-      "onboard_time": 1747676296,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89016,
       "num": 89016,
       "word": "货车司机深夜下车睡觉被狼咬伤",
@@ -459,12 +459,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33281,
+      "num": 33281,
+      "word": "韦雪男友妈妈住韦雪家",
+      "onboard_time": 1747661365,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 32890,
       "num": 35937,
       "word": "陪新兰从青梅竹马到青衫白发",
       "onboard_time": 1747676416,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25358,
+      "num": 35667,
+      "word": "一辈子的爱什么样",
+      "onboard_time": 1747678276,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24355,
+      "num": 30535,
+      "word": "章泽天陈都灵 缘分妙不可言",
+      "onboard_time": 1747678816,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22436,
+      "num": 30524,
+      "word": "肖战藏海传演技",
+      "onboard_time": 1747678875,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20689,
+      "num": 30514,
+      "word": "王安宇四宫格金发",
+      "onboard_time": 1747679055,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
