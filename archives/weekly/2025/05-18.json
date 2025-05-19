@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747672350482,
+  "endTime": 1747673304805,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1645487,
+      "num": 1645487,
+      "word": "凤阳鼓楼坍塌",
+      "onboard_time": 1747668502,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1627921,
       "num": 241390,
       "word": "原来卧室是可以有两层有楼梯的",
@@ -249,14 +257,6 @@
       "onboard_time": 1747652485,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1396822,
-      "num": 1396822,
-      "word": "凤阳鼓楼坍塌",
-      "onboard_time": 1747668502,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1394637,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387708,
+      "num": 279719,
+      "word": "迪丽热巴虞书欣直播状态",
+      "onboard_time": 1747671981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385479,
       "num": 294434,
       "word": "李溪芮 内娱腿精",
@@ -2179,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253278,
-      "num": 253278,
-      "word": "迪丽热巴虞书欣直播状态",
-      "onboard_time": 1747671981,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252380,
       "num": 252380,
       "word": "中国退居至美国第三大海外债主",
@@ -2585,6 +2585,14 @@
       "onboard_time": 1747574961,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217632,
+      "num": 217632,
+      "word": "旭旭宝宝 赵露",
+      "onboard_time": 1747671739,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 217623,
@@ -3739,6 +3747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179267,
+      "num": 225678,
+      "word": "交通局职工被曝与两名女生办婚礼",
+      "onboard_time": 1747671561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178783,
       "num": 178783,
       "word": "女厕总有一格打不开的原因找到了",
@@ -3787,20 +3803,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177015,
+      "num": 177015,
+      "word": "肖战张婧仪周奇黄觉拍立得合照",
+      "onboard_time": 1747670843,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176699,
       "num": 176699,
       "word": "黄杨钿甜爸爸回应疑点重重",
       "onboard_time": 1747659444,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176630,
-      "num": 176630,
-      "word": "肖战张婧仪周奇黄觉拍立得合照",
-      "onboard_time": 1747670843,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 176167,
@@ -4641,14 +4657,6 @@
       "onboard_time": 1747545269,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149938,
-      "num": 149938,
-      "word": "旭旭宝宝 赵露",
-      "onboard_time": 1747671739,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 149937,
@@ -5833,14 +5841,6 @@
       "onboard_time": 1747548741,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114044,
-      "num": 114044,
-      "word": "交通局职工被曝与两名女生办婚礼",
-      "onboard_time": 1747671561,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113848,
@@ -7195,6 +7195,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 57342,
+      "num": 431898,
+      "word": "被两位同学的双向奔赴感动了",
+      "onboard_time": 1747671501,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57182,
       "num": 349106,
       "word": "为何北方此轮高温如此极端",
@@ -7209,6 +7217,14 @@
       "onboard_time": 1747638744,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56835,
+      "num": 78210,
+      "word": "宋威龙请好友看完片再剧宣",
+      "onboard_time": 1747673240,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 55979,
@@ -7793,14 +7809,6 @@
       "onboard_time": 1747634424,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32726,
-      "num": 431898,
-      "word": "被两位同学的双向奔赴感动了",
-      "onboard_time": 1747671501,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32603,

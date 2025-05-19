@@ -1,10 +1,10 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747672350482,
+  "endTime": 1747673304805,
   "band_list": [
     {
-      "raw_hot": 1396822,
-      "num": 1396822,
+      "raw_hot": 1645487,
+      "num": 1645487,
       "word": "凤阳鼓楼坍塌",
       "onboard_time": 1747668502,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387708,
+      "num": 279719,
+      "word": "迪丽热巴虞书欣直播状态",
+      "onboard_time": 1747671981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365055,
       "num": 365055,
       "word": "MAMA 香港",
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253278,
-      "num": 253278,
-      "word": "迪丽热巴虞书欣直播状态",
-      "onboard_time": 1747671981,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242416,
       "num": 242416,
       "word": "折腰预告",
@@ -161,6 +161,14 @@
       "onboard_time": 1747658904,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217632,
+      "num": 217632,
+      "word": "旭旭宝宝 赵露",
+      "onboard_time": 1747671739,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 213798,
@@ -195,8 +203,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176630,
-      "num": 176630,
+      "raw_hot": 179267,
+      "num": 225678,
+      "word": "交通局职工被曝与两名女生办婚礼",
+      "onboard_time": 1747671561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177015,
+      "num": 177015,
       "word": "肖战张婧仪周奇黄觉拍立得合照",
       "onboard_time": 1747670843,
       "rank": 25,
@@ -217,14 +233,6 @@
       "onboard_time": 1747669103,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149938,
-      "num": 149938,
-      "word": "旭旭宝宝 赵露",
-      "onboard_time": 1747671739,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 147271,
@@ -272,14 +280,6 @@
       "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
       "onboard_time": 1747667665,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114044,
-      "num": 114044,
-      "word": "交通局职工被曝与两名女生办婚礼",
-      "onboard_time": 1747671561,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -363,7 +363,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75032,
+      "raw_hot": 78716,
       "num": 82869,
       "word": "百花杀",
       "onboard_time": 1747655305,
@@ -395,12 +395,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32726,
+      "raw_hot": 57342,
       "num": 431898,
       "word": "被两位同学的双向奔赴感动了",
       "onboard_time": 1747671501,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56835,
+      "num": 78210,
+      "word": "宋威龙请好友看完片再剧宣",
+      "onboard_time": 1747673240,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
