@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747665913641,
+  "endTime": 1747668515244,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -825,6 +825,14 @@
       "onboard_time": 1746100761,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1890711,
+      "num": 1890711,
+      "word": "白宇拍到了王楚钦受损的球拍",
+      "onboard_time": 1747665568,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1885981,
@@ -4307,14 +4315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 886892,
-      "num": 886892,
-      "word": "白宇拍到了王楚钦受损的球拍",
-      "onboard_time": 1747665568,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 886067,
       "num": 966840,
       "word": "男性注射避孕药一次至少管2年",
@@ -4553,6 +4553,14 @@
       "onboard_time": 1746700762,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 847250,
+      "num": 847250,
+      "word": "雨果球拍也疑似沾染异物",
+      "onboard_time": 1747665087,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 847086,
@@ -6265,6 +6273,14 @@
       "onboard_time": 1746673402,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 694659,
+      "num": 694659,
+      "word": "收视率",
+      "onboard_time": 1747664727,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 694108,
@@ -9275,14 +9291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 514566,
-      "num": 514566,
-      "word": "收视率",
-      "onboard_time": 1747664727,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 514373,
       "num": 459554,
       "word": "李惠利百想红毯新闻图",
@@ -11059,6 +11067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441791,
+      "num": 441791,
+      "word": "珠宝鉴定师说耳环不太像正品",
+      "onboard_time": 1747661365,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441265,
       "num": 441265,
       "word": "任嘉伦虐剧纯元回来了",
@@ -11169,14 +11185,6 @@
       "onboard_time": 1746277764,
       "rank": 8,
       "category": "演出,音乐"
-    },
-    {
-      "raw_hot": 438393,
-      "num": 438393,
-      "word": "珠宝鉴定师说耳环不太像正品",
-      "onboard_time": 1747661365,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 438341,
@@ -11897,6 +11905,14 @@
       "onboard_time": 1746188610,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 414366,
+      "num": 377821,
+      "word": "王楚钦说对组织办赛很失望",
+      "onboard_time": 1747667665,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 414333,
@@ -12833,6 +12849,14 @@
       "onboard_time": 1747228282,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380359,
+      "num": 380359,
+      "word": "网店称去年退回衣服中有30多副耳机",
+      "onboard_time": 1747664490,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380066,
@@ -14459,14 +14483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339240,
-      "num": 339240,
-      "word": "网店称去年退回衣服中有30多副耳机",
-      "onboard_time": 1747664490,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339155,
       "num": 304038,
       "word": "宋雨琦透露组合结算方式",
@@ -14809,14 +14825,6 @@
       "onboard_time": 1746081081,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 330353,
-      "num": 330353,
-      "word": "雨果球拍也疑似沾染异物",
-      "onboard_time": 1747665087,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 330341,
@@ -17075,6 +17083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 286292,
+      "num": 286292,
+      "word": "鹅妈妈 纤维粒",
+      "onboard_time": 1747665628,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 286230,
       "num": 144456,
       "word": "雀巢 孙颖莎",
@@ -17441,6 +17457,14 @@
       "onboard_time": 1746523700,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278702,
+      "num": 343223,
+      "word": "宋威龙古装",
+      "onboard_time": 1747666705,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 278336,
@@ -17817,6 +17841,14 @@
       "onboard_time": 1746251242,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 269946,
+      "num": 269946,
+      "word": "不是黄杨钿甜都不知道啥是火彩",
+      "onboard_time": 1747666287,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 269805,
@@ -18273,6 +18305,14 @@
       "onboard_time": 1746443362,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 264822,
+      "num": 264822,
+      "word": "王楚钦赛后副拍通过检测",
+      "onboard_time": 1747667543,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 264751,
@@ -19355,6 +19395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251404,
+      "num": 350250,
+      "word": "伊能静与女儿为秦昊策划生日会",
+      "onboard_time": 1747665747,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251370,
       "num": 251370,
       "word": "小猫悟空",
@@ -19945,6 +19993,14 @@
       "onboard_time": 1746674060,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 244922,
+      "num": 244922,
+      "word": "李晟参加浪姐申请了五次",
+      "onboard_time": 1747666645,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 244825,
@@ -20633,14 +20689,6 @@
       "onboard_time": 1747211784,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235436,
-      "num": 235436,
-      "word": "鹅妈妈 纤维粒",
-      "onboard_time": 1747665628,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 235095,
@@ -26707,6 +26755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196092,
+      "num": 196092,
+      "word": "鹭卓谢谢亲爱的你们",
+      "onboard_time": 1747667366,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196073,
       "num": 234523,
       "word": "南宁警方通报一学校伤害案1死2伤",
@@ -28417,6 +28473,14 @@
       "onboard_time": 1747307483,
       "rank": 34,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 190515,
+      "num": 190515,
+      "word": "宋亚轩高会",
+      "onboard_time": 1747667485,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 190470,
@@ -30577,6 +30641,14 @@
       "onboard_time": 1746069141,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 182458,
+      "num": 182458,
+      "word": "湖南卫视重映花千骨",
+      "onboard_time": 1747667126,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 182449,
@@ -34387,6 +34459,14 @@
       "category": "演出,综艺"
     },
     {
+      "raw_hot": 166206,
+      "num": 734826,
+      "word": "母子大闹机场不该由社会买单",
+      "onboard_time": 1747665446,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166159,
       "num": 166159,
       "word": "侯明昊程潇二搭",
@@ -36249,14 +36329,6 @@
       "onboard_time": 1747191141,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159523,
-      "num": 159523,
-      "word": "伊能静与女儿为秦昊策划生日会",
-      "onboard_time": 1747665747,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 159452,
@@ -40899,14 +40971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143869,
-      "num": 734826,
-      "word": "母子大闹机场不该由社会买单",
-      "onboard_time": 1747665446,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143849,
       "num": 173264,
       "word": "印度战机被击落前录音曝光",
@@ -44915,6 +44979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131762,
+      "num": 266574,
+      "word": "郭晶晶霍启刚有爱才有家",
+      "onboard_time": 1747667845,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131687,
       "num": 131687,
       "word": "王霏霏有的是力气和手段",
@@ -45129,6 +45201,14 @@
       "onboard_time": 1746441680,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131121,
+      "num": 131121,
+      "word": "00后的工作经验有多丰富",
+      "onboard_time": 1747666945,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 131113,
@@ -49745,6 +49825,14 @@
       "onboard_time": 1747466241,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116628,
+      "num": 246655,
+      "word": "商务部回应美国调整芯片出口管制表述",
+      "onboard_time": 1747663471,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116592,
@@ -56299,6 +56387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85984,
+      "num": 608210,
+      "word": "消费者称高退款屏蔽应双向开启",
+      "onboard_time": 1747667903,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85914,
       "num": 78040,
       "word": "东大圆脸模仿刚买的飞机被打了",
@@ -58851,6 +58947,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 70672,
+      "num": 167205,
+      "word": "坚持4个动作全方位瘦肚子",
+      "onboard_time": 1747666765,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 70455,
       "num": 190841,
       "word": "金饰价格一夜反弹23元",
@@ -59321,6 +59425,14 @@
       "onboard_time": 1746500902,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66659,
+      "num": 388278,
+      "word": "梁靖崑4比1格拉尔多",
+      "onboard_time": 1747667845,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 66622,
@@ -72881,6 +72993,14 @@
       "onboard_time": 1746771682,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8283,
+      "num": 245151,
+      "word": "隋坡前mcn真的是太搞笑了叭",
+      "onboard_time": 1747668144,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8273,
