@@ -1,0 +1,410 @@
+{
+  "runTime": 1747736925715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 73136,
+        "num": 1011701,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 942011,
+        "num": 942011,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33908,
+        "num": 734230,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600414,
+        "num": 600414,
+        "word": "罗言求婚成功",
+        "onboard_time": 1747734443,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522003,
+        "num": 522003,
+        "word": "众星520秀恩爱",
+        "onboard_time": 1747729462,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363875,
+        "num": 363875,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468379,
+        "num": 363244,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 423421,
+        "num": 355833,
+        "word": "藏海传第二",
+        "onboard_time": 1747731321,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418514,
+        "num": 348654,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80152,
+        "num": 344012,
+        "word": "凤阳鼓楼坍塌部分建筑为违建",
+        "onboard_time": 1747735942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2075001,
+        "num": 341906,
+        "word": "化粪池遇难男生遗体3小时后捞出",
+        "onboard_time": 1747734322,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996144,
+        "num": 332805,
+        "word": "韩国大妈吐槽中国男人对女生太好",
+        "onboard_time": 1747730843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 953159,
+        "num": 327634,
+        "word": "曾黎机场看到粉丝落泪",
+        "onboard_time": 1747734562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762824,
+        "num": 324900,
+        "word": "男生掉化粪池遇难父亲发声",
+        "onboard_time": 1747733062,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18062,
+        "num": 318227,
+        "word": "520在微博集卡被宠成胚胎了",
+        "onboard_time": 1747735282,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412882,
+        "num": 314112,
+        "word": "肖战回复张婧仪",
+        "onboard_time": 1747729221,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80178,
+        "num": 304731,
+        "word": "今天被王源包圆了",
+        "onboard_time": 1747735641,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304343,
+        "num": 304343,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 17,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 27010,
+        "num": 299107,
+        "word": "刘宇宁说夏日歌会见",
+        "onboard_time": 1747735942,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82089,
+        "num": 297527,
+        "word": "妻子3个月16次网购毒物预备杀夫",
+        "onboard_time": 1747730601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296153,
+        "num": 296153,
+        "word": "一只猫向监狱走私毒品被抓",
+        "onboard_time": 1747727902,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112772,
+        "num": 291806,
+        "word": "刘亦菲登世界时尚权威媒体日报封面",
+        "onboard_time": 1747735342,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287940,
+        "num": 287940,
+        "word": "黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278231,
+        "num": 278231,
+        "word": "重庆一父亲带儿女钓鱼3人落水身亡",
+        "onboard_time": 1747730182,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229904,
+        "num": 229904,
+        "word": "无畏简直就是男大",
+        "onboard_time": 1747736242,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93994,
+        "num": 229477,
+        "word": "海尔智家和海尔集团什么关系",
+        "onboard_time": 1747735583,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124713,
+        "num": 226461,
+        "word": "520NBA名人堂球星盲盒",
+        "onboard_time": 1747735583,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27117,
+        "num": 223799,
+        "word": "韩国装甲车骑上隔离带开出50米",
+        "onboard_time": 1747735522,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47190,
+        "num": 219378,
+        "word": "一个关于520的冷知识",
+        "onboard_time": 1747735942,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 9878,
+        "num": 214955,
+        "word": "新型Z9M直升机都做了哪些技术升级",
+        "onboard_time": 1747736242,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214799,
+        "num": 214799,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1747736062,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 31,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 192350,
+        "num": 192350,
+        "word": "猴群骚扰糟蹋庄稼致村民弃种搬家",
+        "onboard_time": 1747734982,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191414,
+        "num": 191414,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177662,
+        "num": 177662,
+        "word": "小牛小庄官宣",
+        "onboard_time": 1747736782,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173290,
+        "num": 173290,
+        "word": "摩的司机性侵14岁女生受害家属发声",
+        "onboard_time": 1747723101,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163002,
+        "num": 163002,
+        "word": "韩团绿卡颜值已经卷成这样了",
+        "onboard_time": 1747734923,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156116,
+        "num": 156116,
+        "word": "金价太贵年轻人开始流行租三金结婚",
+        "onboard_time": 1747734142,
+        "rank": 37,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 6611,
+        "num": 155971,
+        "word": "炎症性肠病会癌变吗",
+        "onboard_time": 1747736842,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47769,
+        "num": 155960,
+        "word": "当代年轻人的变相送礼文学",
+        "onboard_time": 1747735282,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 155955,
+        "num": 155955,
+        "word": "许昕19岁就跟姚彦表白",
+        "onboard_time": 1747735043,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38624,
+        "num": 150455,
+        "word": "边江益禾堂成功入职新浪",
+        "onboard_time": 1747732341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149931,
+        "num": 149931,
+        "word": "灵魂摆渡5原班人马开机",
+        "onboard_time": 1747733782,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142944,
+        "num": 142944,
+        "word": "折腰追剧团",
+        "onboard_time": 1747736782,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141552,
+        "num": 141552,
+        "word": "网友称成功登陆台湾岛并插上国旗",
+        "onboard_time": 1747735223,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248087,
+        "num": 141433,
+        "word": "王励勤讨论王楚钦球拍受损",
+        "onboard_time": 1747728620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136752,
+        "num": 136752,
+        "word": "灵魂摆渡",
+        "onboard_time": 1747736003,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "张宥浩撕坏了周也的撕拉片",
+        "onboard_time": 1747736901,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130308,
+        "num": 130308,
+        "word": "林高远vs西福恩特斯",
+        "onboard_time": 1747736842,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127031,
+        "num": 127031,
+        "word": "使用安全套最容易犯的9错",
+        "onboard_time": 1747730662,
+        "rank": 49,
+        "category": "科学科普,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持发展实业这条路走对了#"
+    }
+  }
+}
