@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747755821282,
+  "endTime": 1747758772875,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -225,6 +225,14 @@
       "onboard_time": 1747668502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1628376,
+      "num": 1628376,
+      "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+      "onboard_time": 1747754665,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1627921,
@@ -1235,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641440,
+      "num": 251079,
+      "word": "陈奕迅女儿将成为华纳今年重点力捧的女新人",
+      "onboard_time": 1747756102,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641101,
       "num": 437857,
       "word": "藏海传阴兵吓我一跳",
@@ -1723,6 +1739,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 483683,
+      "num": 483683,
+      "word": "林高远无缘世乒赛16强",
+      "onboard_time": 1747754844,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 481367,
       "num": 481367,
       "word": "魏劭看什么于途他有乔晶晶了",
@@ -1755,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469699,
+      "num": 469699,
+      "word": "我国新冠检测阳性率快速上升",
+      "onboard_time": 1747755621,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466987,
       "num": 466987,
       "word": "绿联 易烊千玺",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1747708111,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 464933,
-      "num": 407915,
-      "word": "黄杨钿甜艺考成绩被网友质疑有水分",
-      "onboard_time": 1747754665,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 464629,
@@ -2329,6 +2353,14 @@
       "onboard_time": 1747535009,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357083,
+      "num": 357083,
+      "word": "王楚钦vs高茨",
+      "onboard_time": 1747756522,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 357045,
@@ -3273,14 +3305,6 @@
       "onboard_time": 1747631186,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246793,
-      "num": 363295,
-      "word": "林高远无缘世乒赛16强",
-      "onboard_time": 1747754844,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 246009,
@@ -5299,6 +5323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188037,
+      "num": 188037,
+      "word": "林高远",
+      "onboard_time": 1747758142,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187916,
       "num": 187916,
       "word": "戚薇晒和陈丽君合照",
@@ -5409,6 +5441,14 @@
       "onboard_time": 1747713983,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185474,
+      "num": 185474,
+      "word": "王楚钦加油",
+      "onboard_time": 1747757544,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 185268,
@@ -7051,14 +7091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149296,
-      "num": 149296,
-      "word": "我国新冠检测阳性率快速上升",
-      "onboard_time": 1747755621,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149183,
       "num": 149183,
       "word": "董思成说自己是桃花坞的忠实粉丝",
@@ -7363,6 +7395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140911,
+      "num": 140911,
+      "word": "钱可以再赚但我再也不会20岁看演出",
+      "onboard_time": 1747755922,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140896,
       "num": 140896,
       "word": "王心凌Ella从我mp3走出来了",
@@ -7632,6 +7672,14 @@
       "word": "灵魂摆渡",
       "onboard_time": 1747736003,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136646,
+      "num": 136646,
+      "word": "折腰市占率",
+      "onboard_time": 1747756343,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -9035,6 +9083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102879,
+      "num": 102879,
+      "word": "王楚钦下轮对阵西蒙高茨",
+      "onboard_time": 1747757544,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102751,
       "num": 102751,
       "word": "陶喆演唱会没有陌生人",
@@ -9209,6 +9265,14 @@
       "onboard_time": 1747697479,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97297,
+      "num": 97297,
+      "word": "小鬼撒娇拒绝撒娇五连拍",
+      "onboard_time": 1747757842,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97221,
@@ -9443,12 +9507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92213,
+      "num": 92213,
+      "word": "肖战觉得自己进步了",
+      "onboard_time": 1747757842,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92129,
       "num": 297399,
       "word": "拧紧党政机关带头过紧日子的制度螺栓",
       "onboard_time": 1747581564,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91886,
+      "num": 91886,
+      "word": "网易第五人格",
+      "onboard_time": 1747757544,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 91646,
@@ -9883,6 +9963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79823,
+      "num": 88415,
+      "word": "Bin 我们只要正常放开去打就能赢",
+      "onboard_time": 1747757182,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79687,
       "num": 186823,
       "word": "经常跑步的人身体6大变化",
@@ -10169,6 +10257,14 @@
       "onboard_time": 1747633344,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72212,
+      "num": 88063,
+      "word": "素衣白衫是藏海的无声之痛",
+      "onboard_time": 1747758621,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 71893,

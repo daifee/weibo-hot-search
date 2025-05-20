@@ -1,0 +1,410 @@
+{
+  "runTime": 1747758772875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628376,
+        "num": 1628376,
+        "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+        "onboard_time": 1747754665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483683,
+        "num": 483683,
+        "word": "林高远无缘世乒赛16强",
+        "onboard_time": 1747754844,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31485,
+        "num": 471605,
+        "word": "中国经济延续向新向好发展态势",
+        "onboard_time": 1747749083,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 536444,
+        "num": 470966,
+        "word": "曾黎机场强忍眼泪",
+        "onboard_time": 1747750404,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469699,
+        "num": 469699,
+        "word": "我国新冠检测阳性率快速上升",
+        "onboard_time": 1747755621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456456,
+        "num": 456456,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357083,
+        "num": 357083,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747756522,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322385,
+        "num": 322385,
+        "word": "藏海传收视率",
+        "onboard_time": 1747746862,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293323,
+        "num": 293323,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251327,
+        "num": 251327,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641440,
+        "num": 251079,
+        "word": "陈奕迅女儿将成为华纳今年重点力捧的女新人",
+        "onboard_time": 1747756102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528047,
+        "num": 250719,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 11,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 250244,
+        "num": 250244,
+        "word": "肖战回应藏海拿下首杀",
+        "onboard_time": 1747753524,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213813,
+        "num": 213813,
+        "word": "王楚钦vs黄镇廷",
+        "onboard_time": 1747751545,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489344,
+        "num": 213342,
+        "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+        "onboard_time": 1747750884,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232338,
+        "num": 208000,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1747752984,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191859,
+        "num": 191859,
+        "word": "央视梳理王楚钦球拍受损事件",
+        "onboard_time": 1747749024,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188037,
+        "num": 188037,
+        "word": "林高远",
+        "onboard_time": 1747758142,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185474,
+        "num": 185474,
+        "word": "王楚钦加油",
+        "onboard_time": 1747757544,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147773,
+        "num": 147773,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196033,
+        "num": 147236,
+        "word": "上厕所途中不要冲水的原因",
+        "onboard_time": 1747753165,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174240,
+        "num": 145429,
+        "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143409,
+        "num": 143409,
+        "word": "5月21日2时55分迎来小满",
+        "onboard_time": 1747754904,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140911,
+        "num": 140911,
+        "word": "钱可以再赚但我再也不会20岁看演出",
+        "onboard_time": 1747755922,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136796,
+        "num": 136796,
+        "word": "格力确认董明珠孟羽童将合体直播",
+        "onboard_time": 1747752865,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136646,
+        "num": 136646,
+        "word": "折腰市占率",
+        "onboard_time": 1747756343,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129561,
+        "num": 129561,
+        "word": "鹿晗明信片送达",
+        "onboard_time": 1747754844,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121032,
+        "num": 121032,
+        "word": "医生眼里无意识的控糖行为",
+        "onboard_time": 1747746442,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109924,
+        "num": 109924,
+        "word": "吴尊和太太在巴黎法网过520",
+        "onboard_time": 1747751724,
+        "rank": 28,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 106541,
+        "num": 106541,
+        "word": "潘展乐最后一棒连追两队夺冠",
+        "onboard_time": 1747753404,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102879,
+        "num": 102879,
+        "word": "王楚钦下轮对阵西蒙高茨",
+        "onboard_time": 1747757544,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 101177,
+        "word": "景甜穿旗袍拍撕拉片",
+        "onboard_time": 1747752805,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98826,
+        "num": 98826,
+        "word": "试飞部队共牺牲32名试飞员",
+        "onboard_time": 1747755504,
+        "rank": 32,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 97524,
+        "num": 97524,
+        "word": "赵小童撕拉片",
+        "onboard_time": 1747749507,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97297,
+        "num": 97297,
+        "word": "小鬼撒娇拒绝撒娇五连拍",
+        "onboard_time": 1747757842,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92213,
+        "num": 92213,
+        "word": "肖战觉得自己进步了",
+        "onboard_time": 1747757842,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91886,
+        "num": 91886,
+        "word": "网易第五人格",
+        "onboard_time": 1747757544,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91724,
+        "num": 91724,
+        "word": "常华森撕拉一下",
+        "onboard_time": 1747754844,
+        "rank": 37,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 88497,
+        "num": 88497,
+        "word": "王楚钦世乒赛晋级16强",
+        "onboard_time": 1747754243,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80937,
+        "num": 88446,
+        "word": "丁禹兮你把翟潇闻当哪国人整啊",
+        "onboard_time": 1747750224,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79823,
+        "num": 88415,
+        "word": "Bin 我们只要正常放开去打就能赢",
+        "onboard_time": 1747757182,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78947,
+        "num": 88382,
+        "word": "酱园弄",
+        "onboard_time": 1747747643,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78686,
+        "num": 88306,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78178,
+        "num": 88258,
+        "word": "迪丽热巴用玫瑰干杯",
+        "onboard_time": 1747746982,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76275,
+        "num": 88168,
+        "word": "木木卿卿官宣",
+        "onboard_time": 1747741280,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72836,
+        "num": 88151,
+        "word": "期刊回应论文现飙脏话辱骂第二作者",
+        "onboard_time": 1747751364,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72212,
+        "num": 88063,
+        "word": "素衣白衫是藏海的无声之痛",
+        "onboard_time": 1747758621,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71571,
+        "num": 88046,
+        "word": "iG进入骑士之路",
+        "onboard_time": 1747752624,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70979,
+        "num": 87962,
+        "word": "李泰容520发博",
+        "onboard_time": 1747754065,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65730,
+        "num": 87930,
+        "word": "王楚钦预判了对手的预判",
+        "onboard_time": 1747753824,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代制造业离不开科技赋能#"
+    }
+  }
+}
