@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747752323033,
+  "endTime": 1747754933440,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -416,6 +416,22 @@
       "word": "闵塔鲨 迪丽热巴",
       "onboard_time": 1747662206,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1234388,
+      "num": 1234388,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1747751545,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1207951,
+      "num": 1207951,
+      "word": "曾黎机场强忍眼泪",
+      "onboard_time": 1747750404,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1083,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 708266,
+      "num": 396268,
+      "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+      "onboard_time": 1747750884,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704129,
       "num": 445122,
       "word": "摩的司机性侵14岁女生受害家属发声",
@@ -1587,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 527688,
-      "num": 527688,
-      "word": "曾黎机场强忍眼泪",
-      "onboard_time": 1747750404,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 519955,
       "num": 519955,
       "word": "鸿蒙电脑",
@@ -2019,6 +2035,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 411304,
+      "num": 411304,
+      "word": "披荆斩棘的哥哥",
+      "onboard_time": 1747752984,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404667,
       "num": 404667,
       "word": "王励勤讨论王楚钦球拍受损",
@@ -2315,6 +2339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 352582,
+      "num": 352582,
+      "word": "期刊回应论文现飙脏话辱骂第二作者",
+      "onboard_time": 1747751364,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345922,
       "num": 338070,
       "word": "张凌赫都歪成这样了你还无动于衷",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1747635683,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 344636,
-      "num": 344636,
-      "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
-      "onboard_time": 1747750884,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341953,
@@ -2361,6 +2385,14 @@
       "onboard_time": 1747657405,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340808,
+      "num": 237139,
+      "word": "王楚钦12比10黄镇廷",
+      "onboard_time": 1747754904,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 340031,
@@ -2819,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284568,
+      "num": 363181,
+      "word": "肖战回应藏海拿下首杀",
+      "onboard_time": 1747753524,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284275,
       "num": 284275,
       "word": "樊振东禁毒形象大使",
@@ -2889,6 +2929,14 @@
       "onboard_time": 1747704930,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274395,
+      "num": 274395,
+      "word": "上厕所途中不要冲水的原因",
+      "onboard_time": 1747753165,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 271904,
@@ -3081,14 +3129,6 @@
       "onboard_time": 1747577005,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259186,
-      "num": 436082,
-      "word": "王楚钦vs黄镇廷",
-      "onboard_time": 1747751545,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 257849,
@@ -3619,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223280,
+      "num": 391157,
+      "word": "王楚钦预判了对手的预判",
+      "onboard_time": 1747753824,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222502,
       "num": 250582,
       "word": "球拍检测各球队可派一人全程跟随",
@@ -3689,6 +3737,14 @@
       "onboard_time": 1747730002,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220033,
+      "num": 220033,
+      "word": "潘展乐最后一棒连追两队夺冠",
+      "onboard_time": 1747753404,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 219548,
@@ -4011,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209572,
+      "num": 269444,
+      "word": "景甜穿旗袍拍撕拉片",
+      "onboard_time": 1747752805,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209269,
       "num": 209269,
       "word": "被重生归来小8岁的老公再次拿下",
@@ -4043,8 +4107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208996,
-      "num": 208996,
+      "raw_hot": 209026,
+      "num": 260390,
       "word": "丁禹兮你把翟潇闻当哪国人整啊",
       "onboard_time": 1747750224,
       "rank": 36,
@@ -4579,6 +4643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198069,
+      "num": 198069,
+      "word": "鹿晗明信片送达",
+      "onboard_time": 1747754844,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198057,
       "num": 198057,
       "word": "我国成功发射中星3B卫星",
@@ -4881,6 +4953,14 @@
       "onboard_time": 1747650024,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "格力确认董明珠孟羽童将合体直播",
+      "onboard_time": 1747752865,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192815,
@@ -5345,6 +5425,14 @@
       "onboard_time": 1747718482,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184752,
+      "num": 184752,
+      "word": "李泰容520发博",
+      "onboard_time": 1747754065,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 184615,
@@ -6347,6 +6435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159809,
+      "num": 159809,
+      "word": "iG进入骑士之路",
+      "onboard_time": 1747752624,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159468,
       "num": 159468,
       "word": "BLG战胜TES",
@@ -6499,6 +6595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157358,
+      "num": 157358,
+      "word": "陈少熙碎片照",
+      "onboard_time": 1747753884,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157183,
       "num": 217386,
       "word": "光遇",
@@ -6593,6 +6697,14 @@
       "onboard_time": 1747563502,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154839,
+      "num": 154839,
+      "word": "5月21日2时55分迎来小满",
+      "onboard_time": 1747754904,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154768,
@@ -6987,6 +7099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145648,
+      "num": 145648,
+      "word": "杨幂祝大家天天快乐",
+      "onboard_time": 1747754243,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145599,
       "num": 145599,
       "word": "张杰厦门抢票",
@@ -7009,6 +7129,14 @@
       "onboard_time": 1747539690,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145448,
+      "num": 272187,
+      "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+      "onboard_time": 1747754665,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 145060,
@@ -7075,6 +7203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143886,
+      "num": 388501,
+      "word": "王楚钦4比0黄镇廷",
+      "onboard_time": 1747754243,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143470,
       "num": 143470,
       "word": "为什么营养不良的人越来越多",
@@ -7089,6 +7225,14 @@
       "onboard_time": 1747613723,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143312,
+      "num": 143312,
+      "word": "骑士之路",
+      "onboard_time": 1747754724,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 143160,
@@ -7361,6 +7505,14 @@
       "onboard_time": 1747565181,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137500,
+      "num": 137500,
+      "word": "9人被关地下1人掘地逃生",
+      "onboard_time": 1747753464,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 137369,
@@ -8027,6 +8179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123392,
+      "num": 384944,
+      "word": "郭艾伦祝福北汽恭喜广厦",
+      "onboard_time": 1747754424,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123012,
       "num": 123012,
       "word": "官方通报凤阳鼓楼顶部瓦片脱落",
@@ -8089,6 +8249,14 @@
       "onboard_time": 1747546581,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122016,
+      "num": 405366,
+      "word": "王楚钦世乒赛晋级16强",
+      "onboard_time": 1747754243,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 121860,
@@ -9595,14 +9763,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 81183,
-      "num": 274213,
-      "word": "期刊回应论文现飙脏话辱骂第二作者",
-      "onboard_time": 1747751364,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81095,
       "num": 81095,
       "word": "华晨宇演唱会吃播第一人",
@@ -9915,6 +10075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73639,
+      "num": 193634,
+      "word": "周云杰说海尔兄弟续集安排上了",
+      "onboard_time": 1747753284,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72576,
       "num": 182382,
       "word": "程靖淇说第一个该调查的是主裁判",
@@ -10153,6 +10321,14 @@
       "onboard_time": 1747696398,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66778,
+      "num": 247298,
+      "word": "上海安福路上演熹妃回宫",
+      "onboard_time": 1747751845,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66659,
@@ -10491,6 +10667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55741,
+      "num": 257006,
+      "word": "窃贼破门只偷冰淇淋牵出跨省大案",
+      "onboard_time": 1747753765,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54709,
       "num": 208651,
       "word": "法官为判案深夜蹲点听狗叫",
@@ -10764,7 +10948,7 @@
     },
     {
       "raw_hot": 47829,
-      "num": 785884,
+      "num": 1055565,
       "word": "中国经济延续向新向好发展态势",
       "onboard_time": 1747749083,
       "rank": 2,
@@ -11531,14 +11715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30118,
-      "num": 211978,
-      "word": "上海安福路上演熹妃回宫",
-      "onboard_time": 1747751845,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30075,
       "num": 140350,
       "word": "真正的快乐指向个体构成",
@@ -11985,6 +12161,22 @@
       "onboard_time": 1747664189,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21763,
+      "num": 409344,
+      "word": "王艺迪vs高达",
+      "onboard_time": 1747754544,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21730,
+      "num": 356766,
+      "word": "伊朗最高领袖称与美核谈判不会成功",
+      "onboard_time": 1747754603,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21651,
@@ -12939,6 +13131,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 8280,
+      "num": 254299,
+      "word": "产品宣发用国补进行促销合理吗",
+      "onboard_time": 1747754185,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 8205,
       "num": 282358,
       "word": "以方将全面接管加沙是否符合国际法",
@@ -12969,6 +13169,22 @@
       "onboard_time": 1747751485,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6937,
+      "num": 208107,
+      "word": "林高远2比4高茨",
+      "onboard_time": 1747754904,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6733,
+      "num": 206985,
+      "word": "林高远无缘世乒赛16强",
+      "onboard_time": 1747754844,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 6361,
