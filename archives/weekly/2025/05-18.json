@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747761805660,
+  "endTime": 1747762908251,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -9059,6 +9059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103955,
+      "num": 103955,
+      "word": "周琦发长文",
+      "onboard_time": 1747759940,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103840,
       "num": 261573,
       "word": "美方给别人下绊子不会让自己跑更快",
@@ -9395,6 +9403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94443,
+      "num": 94443,
+      "word": "京城大师赛",
+      "onboard_time": 1747760419,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94397,
       "num": 110700,
       "word": "党政机关应当严格精简会议",
@@ -9617,14 +9633,6 @@
       "onboard_time": 1747719621,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89758,
-      "num": 89758,
-      "word": "周琦发长文",
-      "onboard_time": 1747759940,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 89155,
@@ -10073,14 +10081,6 @@
       "onboard_time": 1747739362,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78010,
-      "num": 78010,
-      "word": "京城大师赛",
-      "onboard_time": 1747760419,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 77935,
@@ -10707,6 +10707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61337,
+      "num": 61337,
+      "word": "天赐的声音",
+      "onboard_time": 1747762097,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61322,
       "num": 80555,
       "word": "这个减肥筷我是真的想要",
@@ -10761,6 +10769,14 @@
       "onboard_time": 1747500620,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58921,
+      "num": 60525,
+      "word": "于适登上戛纳红毯",
+      "onboard_time": 1747761737,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 58878,
@@ -11611,14 +11627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37517,
-      "num": 60525,
-      "word": "于适登上戛纳红毯",
-      "onboard_time": 1747761737,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37396,
       "num": 37396,
       "word": "中餐厅9摩洛哥路透",
@@ -11641,6 +11649,14 @@
       "onboard_time": 1747566982,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 36297,
+      "num": 40864,
+      "word": "雅安城管回应黄杨家开公司是否报备",
+      "onboard_time": 1747762636,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36127,
