@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747722999832,
+  "endTime": 1747723837051,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -51,8 +51,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1167936,
-      "num": 413688,
+      "raw_hot": 1173468,
+      "num": 474213,
       "word": "黄杨钿甜",
       "onboard_time": 1747721781,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661648,
+      "num": 661648,
+      "word": "520红包",
+      "onboard_time": 1747718422,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 603715,
       "num": 450660,
       "word": "宋亚轩 鹅妈妈",
@@ -211,12 +219,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 598678,
-      "num": 598678,
-      "word": "520红包",
-      "onboard_time": 1747718422,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 576423,
+      "num": 194435,
+      "word": "包文婧包贝尔二胎出生",
+      "onboard_time": 1747723400,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 574671,
@@ -225,6 +233,14 @@
       "onboard_time": 1747715364,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574393,
+      "num": 574393,
+      "word": "陈奕迅的520惊喜是海口站二开",
+      "onboard_time": 1747723282,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 564298,
@@ -315,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477495,
+      "num": 477495,
+      "word": "曝驾车拖猫女子是宠物友好餐厅厨师",
+      "onboard_time": 1747718962,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466921,
       "num": 466921,
       "word": "孙杨退赛100自",
       "onboard_time": 1747708111,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456401,
+      "num": 456401,
+      "word": "LWX 薇恩冠军皮肤的拥有者",
+      "onboard_time": 1747721841,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 456105,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 452468,
-      "num": 452468,
+      "num": 457547,
       "word": "赵磊520发与qko的合唱",
       "onboard_time": 1747722442,
       "rank": 9,
@@ -353,6 +385,14 @@
       "onboard_time": 1747696398,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435952,
+      "num": 468201,
+      "word": "剧还没播男女主翻面吻戏看爽了",
+      "onboard_time": 1747721420,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 433930,
@@ -403,14 +443,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 403937,
-      "num": 318279,
-      "word": "曝驾车拖猫女子是宠物友好餐厅厨师",
-      "onboard_time": 1747718962,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403834,
       "num": 403834,
       "word": "王楚钦说对组织办赛很失望",
@@ -449,14 +481,6 @@
       "onboard_time": 1747665446,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365556,
-      "num": 316252,
-      "word": "LWX 薇恩冠军皮肤的拥有者",
-      "onboard_time": 1747721841,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 365055,
@@ -515,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 312347,
-      "num": 317760,
-      "word": "剧还没播男女主翻面吻戏看爽了",
-      "onboard_time": 1747721420,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310115,
       "num": 310115,
       "word": "王者荣耀联动慕夏艺术",
@@ -537,6 +553,14 @@
       "onboard_time": 1747713743,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 307342,
+      "num": 316958,
+      "word": "俄媒称普京与特朗普都不想先挂电话",
+      "onboard_time": 1747720221,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301697,
@@ -603,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263234,
-      "num": 316958,
-      "word": "俄媒称普京与特朗普都不想先挂电话",
-      "onboard_time": 1747720221,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 262853,
       "num": 262853,
       "word": "藏海殉葬",
@@ -632,6 +648,14 @@
       "word": "主裁称王楚钦球拍没问题",
       "onboard_time": 1747662567,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248193,
+      "num": 248193,
+      "word": "国际乒联表示确保类似事件不再发生",
+      "onboard_time": 1747719802,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -721,14 +745,6 @@
       "onboard_time": 1747717103,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225429,
-      "num": 225429,
-      "word": "国际乒联表示确保类似事件不再发生",
-      "onboard_time": 1747719802,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 224523,
@@ -835,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211468,
+      "num": 211468,
+      "word": "上海电视节官方海报发布",
+      "onboard_time": 1747723521,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210571,
       "num": 210571,
       "word": "买房被要求在近百页合同上逐页按指印",
@@ -843,12 +867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209587,
+      "num": 209587,
+      "word": "主播因为说十个勤天是爱豆鞠躬道歉",
+      "onboard_time": 1747723822,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209186,
       "num": 228682,
       "word": "小乔生气才是真正的难哄",
       "onboard_time": 1747717884,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208705,
+      "num": 297959,
+      "word": "门童六人中文手写信",
+      "onboard_time": 1747722861,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 204539,
@@ -947,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195508,
+      "num": 318053,
+      "word": "凤阳鼓楼维修中标企业回应质疑",
+      "onboard_time": 1747721420,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194805,
+      "num": 194805,
+      "word": "陷入我们的热恋 定档",
+      "onboard_time": 1747723400,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "文旅局回应明中都鼓楼瓦片脱落",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1747721901,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189395,
+      "num": 189395,
+      "word": "常华森发红包",
+      "onboard_time": 1747723041,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 188937,
@@ -1075,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173277,
+      "num": 173277,
+      "word": "钟辰乐 天赐的声音",
+      "onboard_time": 1747723341,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172186,
       "num": 172186,
       "word": "肖指导赛后去找裁判了",
@@ -1107,12 +1179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161933,
-      "num": 161933,
-      "word": "门童六人中文手写信",
-      "onboard_time": 1747722861,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 161882,
+      "num": 209684,
+      "word": "球拍受损为何一再发生在王楚钦身上",
+      "onboard_time": 1747722981,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 161356,
@@ -1227,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149778,
+      "num": 149778,
+      "word": "摩的司机性侵14岁女生受害家属发声",
+      "onboard_time": 1747723101,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147271,
       "num": 147271,
       "word": "鹅妈妈 纤维粒",
@@ -1305,14 +1385,6 @@
       "onboard_time": 1747716742,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139194,
-      "num": 197897,
-      "word": "球拍受损为何一再发生在王楚钦身上",
-      "onboard_time": 1747722981,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 139133,
@@ -1459,6 +1531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 123713,
+      "num": 317103,
+      "word": "小鹏MONA高阶智能辅助驾驶来了",
+      "onboard_time": 1747721301,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123012,
       "num": 123012,
       "word": "官方通报凤阳鼓楼顶部瓦片脱落",
@@ -1497,14 +1577,6 @@
       "onboard_time": 1747706369,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118652,
-      "num": 317103,
-      "word": "小鹏MONA高阶智能辅助驾驶来了",
-      "onboard_time": 1747721301,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 117985,
@@ -1547,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110136,
+      "num": 462613,
+      "word": "520好多明星发红包",
+      "onboard_time": 1747720883,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109957,
       "num": 376947,
       "word": "婚姻登记全国通办后的首个520",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1747721301,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 107348,
-      "num": 318631,
-      "word": "520好多明星发红包",
-      "onboard_time": 1747720883,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 104287,
@@ -1689,14 +1761,6 @@
       "onboard_time": 1747648884,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81371,
-      "num": 318053,
-      "word": "凤阳鼓楼维修中标企业回应质疑",
-      "onboard_time": 1747721420,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81249,
@@ -1995,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39893,
+      "num": 316621,
+      "word": "新冠又抬头可常备这些药物",
+      "onboard_time": 1747722322,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 39696,
       "num": 201071,
       "word": "国家发改委召开5月份新闻发布会",
@@ -2107,6 +2179,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 29136,
+      "num": 196208,
+      "word": "汉语的同化能力体现在哪些方面",
+      "onboard_time": 1747723582,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 27662,
       "num": 323224,
       "word": "为什么年轻人用搞笑元素示爱520",
@@ -2203,19 +2283,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18812,
-      "num": 316621,
-      "word": "新冠又抬头可常备这些药物",
-      "onboard_time": 1747722322,
-      "rank": 28,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 16546,
       "num": 137330,
       "word": "明中都鼓楼瓦片脱落该如何修缮",
       "onboard_time": 1747711941,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15893,
+      "num": 316497,
+      "word": "唇部打针后该如何护理避免中毒危害",
+      "onboard_time": 1747722682,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2241,14 +2321,6 @@
       "onboard_time": 1747687034,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13417,
-      "num": 316497,
-      "word": "唇部打针后该如何护理避免中毒危害",
-      "onboard_time": 1747722682,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10560,
