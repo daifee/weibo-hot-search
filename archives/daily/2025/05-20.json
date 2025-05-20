@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747716328901,
+  "endTime": 1747718752450,
   "band_list": [
     {
       "raw_hot": 2421500,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 817277,
+      "num": 817277,
+      "word": "刘宇宁扫楼又跳九万字了",
+      "onboard_time": 1747716023,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 814672,
       "num": 814672,
       "word": "国际乒联回应王楚钦球拍受损",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709577,
+      "num": 709577,
+      "word": "四川慈善总会回应黄杨钿甜耳环事件",
+      "onboard_time": 1747716982,
+      "rank": 7,
+      "category": "辟谣/通报,艺人"
+    },
+    {
       "raw_hot": 701780,
       "num": 701780,
       "word": "小伙一年卖出255辆宝马年收入71万",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 603715,
-      "num": 421485,
+      "num": 450660,
       "word": "宋亚轩 鹅妈妈",
       "onboard_time": 1747713322,
       "rank": 36,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518630,
+      "num": 518630,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515067,
       "num": 515067,
       "word": "如果你经常侧睡导致圆肩扣肩",
@@ -243,11 +267,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 469499,
-      "num": 469499,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
+      "raw_hot": 466956,
+      "num": 466956,
+      "word": "院长当内鬼量身定做招标方案",
+      "onboard_time": 1747715364,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -281,6 +305,14 @@
       "onboard_time": 1747710271,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426186,
+      "num": 426186,
+      "word": "李艾录爸爸当家穿的全是男装",
+      "onboard_time": 1747715184,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 424458,
@@ -339,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 399217,
-      "num": 399217,
-      "word": "李艾录爸爸当家穿的全是男装",
-      "onboard_time": 1747715184,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 390015,
       "num": 390015,
       "word": "陈奕迅",
@@ -361,6 +385,14 @@
       "onboard_time": 1747665446,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373336,
+      "num": 476654,
+      "word": "高校通报学生掉化粪池遇难",
+      "onboard_time": 1747717403,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 365055,
@@ -435,6 +467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 301136,
+      "num": 301136,
+      "word": "刘亦菲的全英文采访",
+      "onboard_time": 1747716203,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300715,
       "num": 337904,
       "word": "顶着这张正派脸咋办出的肮脏事",
@@ -457,6 +497,14 @@
       "onboard_time": 1747642764,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 281950,
+      "num": 281950,
+      "word": "今天好多明星发红包",
+      "onboard_time": 1747716263,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 275494,
@@ -571,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227301,
+      "num": 227301,
+      "word": "blueglass 拉肚子",
+      "onboard_time": 1747717103,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224523,
       "num": 232926,
       "word": "藏海传第一个高潮",
@@ -595,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219548,
+      "num": 241590,
+      "word": "肖战回复周奇",
+      "onboard_time": 1747718241,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218002,
       "num": 218002,
       "word": "5年期和1年期LPR均下调10个基点",
       "onboard_time": 1747704509,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 215862,
+      "num": 215862,
+      "word": "多哈世乒赛组织再出漏洞",
+      "onboard_time": 1747716203,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 215490,
@@ -651,11 +723,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205283,
-      "num": 356052,
-      "word": "刘宇宁扫楼又跳九万字了",
-      "onboard_time": 1747716023,
-      "rank": 27,
+      "raw_hot": 208674,
+      "num": 228682,
+      "word": "小乔生气才是真正的难哄",
+      "onboard_time": 1747717884,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -673,6 +745,14 @@
       "onboard_time": 1747714583,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202658,
+      "num": 286480,
+      "word": "吴磊居家白月光氛围感",
+      "onboard_time": 1747717642,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 202272,
@@ -737,14 +817,6 @@
       "onboard_time": 1747710210,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195863,
-      "num": 195863,
-      "word": "今天好多明星发红包",
-      "onboard_time": 1747716263,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 195758,
@@ -827,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184116,
+      "num": 184116,
+      "word": "谁说仙侠只能仙气飘飘不能科技感",
+      "onboard_time": 1747718482,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183194,
       "num": 183194,
       "word": "美俄总统通话超2小时",
@@ -849,6 +929,14 @@
       "onboard_time": 1747713023,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177389,
+      "num": 177389,
+      "word": "丁禹兮翟潇闻互动",
+      "onboard_time": 1747717462,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 177015,
@@ -897,14 +985,6 @@
       "onboard_time": 1747700542,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161024,
-      "num": 161024,
-      "word": "刘亦菲的全英文采访",
-      "onboard_time": 1747716203,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 158280,
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 146739,
-      "num": 430700,
+      "num": 434845,
       "word": "穿虞书欣同款腰精裤旺自己",
       "onboard_time": 1747714284,
       "rank": 12,
@@ -993,6 +1073,22 @@
       "onboard_time": 1747651225,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143470,
+      "num": 143470,
+      "word": "为什么营养不良的人越来越多",
+      "onboard_time": 1747716922,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141048,
+      "num": 141048,
+      "word": "推进中国式现代化要继续把制造业搞好",
+      "onboard_time": 1747716324,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140886,
@@ -1009,6 +1105,14 @@
       "onboard_time": 1747704509,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139622,
+      "num": 139622,
+      "word": "未定事件簿",
+      "onboard_time": 1747716742,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 139133,
@@ -1051,8 +1155,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "特朗普怀疑拜登可能之前隐瞒患癌",
+      "onboard_time": 1747718721,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135798,
-      "num": 135798,
+      "num": 166953,
       "word": "不要和岸边的人比上岸",
       "onboard_time": 1747711222,
       "rank": 47,
@@ -1355,14 +1467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 80534,
-      "num": 383297,
-      "word": "院长当内鬼量身定做招标方案",
-      "onboard_time": 1747715364,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79681,
       "num": 79681,
       "word": "孙颖莎雨果中远台对拉太帅了",
@@ -1395,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75273,
+      "num": 224004,
+      "word": "网约车疑似报复多次撞击水泥罐车",
+      "onboard_time": 1747717162,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74568,
       "num": 74568,
       "word": "冷门但可以找到双休公司的野路子",
@@ -1409,6 +1521,14 @@
       "onboard_time": 1747712420,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71587,
+      "num": 293929,
+      "word": "女子唇部打针数日后入院抢救",
+      "onboard_time": 1747717764,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71159,
@@ -1595,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38421,
+      "num": 426431,
+      "word": "520肖战行走的粉色画报",
+      "onboard_time": 1747717642,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38355,
       "num": 336596,
       "word": "gogogo出发当美粉咯",
@@ -1609,6 +1737,14 @@
       "onboard_time": 1747680194,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36478,
+      "num": 426308,
+      "word": "大部分卫生巾品牌是代工",
+      "onboard_time": 1747717764,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36127,
@@ -1675,12 +1811,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 25547,
+      "num": 297495,
+      "word": "前庭训练对缓解眩晕症的效果如何",
+      "onboard_time": 1747717285,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24771,
       "num": 37355,
       "word": "于适亮相戛纳中国青年电影活动",
       "onboard_time": 1747673958,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24359,
+      "num": 289664,
+      "word": "为什么年轻人用搞笑元素示爱520",
+      "onboard_time": 1747718241,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 24117,
