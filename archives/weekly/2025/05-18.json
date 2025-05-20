@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747707745653,
+  "endTime": 1747711082318,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 901444,
+      "num": 901444,
+      "word": "最近为啥这么热",
+      "onboard_time": 1747702529,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 895962,
       "num": 895962,
       "word": "消失3个月瘦了40斤妈妈的反应",
@@ -731,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 761494,
-      "num": 761494,
-      "word": "最近为啥这么热",
-      "onboard_time": 1747702529,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 761001,
       "num": 761001,
       "word": "孙杨800自退赛",
@@ -777,6 +777,14 @@
       "onboard_time": 1747569562,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738849,
+      "num": 738849,
+      "word": "新余钢铁回应虞书欣家人传闻",
+      "onboard_time": 1747708050,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 732709,
@@ -1275,12 +1283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475944,
+      "num": 475944,
+      "word": "折腰预告",
+      "onboard_time": 1747668024,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466987,
       "num": 466987,
       "word": "绿联 易烊千玺",
       "onboard_time": 1747627827,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466921,
+      "num": 466921,
+      "word": "孙杨退赛100自",
+      "onboard_time": 1747708111,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 464629,
@@ -1635,12 +1659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360607,
+      "num": 1057697,
+      "word": "广州警方对境外黑客案立案调查",
+      "onboard_time": 1747705891,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 359962,
       "num": 359962,
       "word": "孙杨帮潘展乐把第1贴好",
       "onboard_time": 1747492646,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358244,
+      "num": 358244,
+      "word": "王源hug官周上线",
+      "onboard_time": 1747710271,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 358231,
@@ -1843,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317625,
+      "num": 317625,
+      "word": "腾讯视频520剧爱你",
+      "onboard_time": 1747708470,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314069,
       "num": 406261,
       "word": "王楚钦孙颖莎3比0梁吉善王艾米",
@@ -1883,6 +1931,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 309997,
+      "num": 309997,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309507,
       "num": 242459,
       "word": "颖儿点赞了张新成付辛博剧照",
@@ -1921,14 +1977,6 @@
       "onboard_time": 1747585524,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 306614,
-      "num": 306614,
-      "word": "折腰预告",
-      "onboard_time": 1747668024,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 303848,
@@ -2115,12 +2163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277188,
+      "num": 277188,
+      "word": "钟南山对新冠病毒最新判断",
+      "onboard_time": 1747710450,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276798,
       "num": 276798,
       "word": "孙颖莎世乒赛晋级32强",
       "onboard_time": 1747649724,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275494,
+      "num": 379964,
+      "word": "对我国公司网络攻击有网络战痕迹",
+      "onboard_time": 1747704930,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271904,
@@ -2291,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260959,
+      "num": 260959,
+      "word": "15个锻炼大脑的方法",
+      "onboard_time": 1747709909,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259497,
       "num": 259497,
       "word": "陈楚生将进酒网友推荐TOP1",
@@ -2305,14 +2377,6 @@
       "onboard_time": 1747629684,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 257099,
-      "num": 379964,
-      "word": "对我国公司网络攻击有网络战痕迹",
-      "onboard_time": 1747704930,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257046,
@@ -2587,12 +2651,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 231667,
+      "num": 231667,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 230967,
       "num": 230967,
       "word": "赵丽颖纯白高智风",
       "onboard_time": 1747639705,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 230804,
+      "num": 230804,
+      "word": "顶着这张正派脸咋办出的肮脏事",
+      "onboard_time": 1747709909,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 229555,
@@ -2745,6 +2825,14 @@
       "onboard_time": 1747658303,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221000,
+      "num": 221000,
+      "word": "主裁说王楚钦球拍没问题是掩饰吗",
+      "onboard_time": 1747708170,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 218948,
@@ -3379,6 +3467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197339,
+      "num": 226676,
+      "word": "刘学义孟子义520饭撒",
+      "onboard_time": 1747710210,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "神级沈星回cos出现了",
@@ -3435,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196712,
+      "num": 196712,
+      "word": "RNG恭喜Uzi",
+      "onboard_time": 1747710450,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "乔丹4000万年薪担任解说",
@@ -3473,6 +3577,14 @@
       "onboard_time": 1747631547,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "野狗骨头青春定格照",
+      "onboard_time": 1747709909,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195488,
@@ -4019,14 +4131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179914,
-      "num": 1028786,
-      "word": "广州警方对境外黑客案立案调查",
-      "onboard_time": 1747705891,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 178783,
       "num": 178783,
       "word": "女厕总有一格打不开的原因找到了",
@@ -4065,6 +4169,14 @@
       "onboard_time": 1747543110,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178066,
+      "num": 178066,
+      "word": "王楚钦说你换我这样的角度思考一下",
+      "onboard_time": 1747706490,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 177192,
@@ -4195,12 +4307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170922,
-      "num": 170922,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 170283,
+      "num": 357540,
+      "word": "救人小伙用义父梗打趣被救同学",
+      "onboard_time": 1747710390,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 170176,
@@ -4697,14 +4809,6 @@
       "onboard_time": 1747571542,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157135,
-      "num": 157135,
-      "word": "王楚钦说你换我这样的角度思考一下",
-      "onboard_time": 1747706490,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 156942,
@@ -5211,6 +5315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141560,
+      "num": 141560,
+      "word": "汉语的同化能力有多强",
+      "onboard_time": 1747710811,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141297,
       "num": 287394,
       "word": "赵露歌手的舞台我向往了十年",
@@ -5419,6 +5531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136244,
+      "num": 175835,
+      "word": "少吃但不会挨饿的减肥食谱",
+      "onboard_time": 1747710750,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 135996,
       "num": 135996,
       "word": "反复减肥比肥胖本身危害更大",
@@ -5529,6 +5649,14 @@
       "onboard_time": 1747548921,
       "rank": 31,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 133052,
+      "num": 133052,
+      "word": "骄阳似我环抱吻花絮",
+      "onboard_time": 1747708831,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131976,
@@ -5915,6 +6043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122117,
+      "num": 122117,
+      "word": "为什么你总因为小事生气",
+      "onboard_time": 1747709790,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122071,
       "num": 122071,
       "word": "谁懂欧阳娣娣社牛的救赎感",
@@ -6044,7 +6180,7 @@
     },
     {
       "raw_hot": 119334,
-      "num": 119334,
+      "num": 173573,
       "word": "央视称多哈世乒赛组织标准待提高",
       "onboard_time": 1747706369,
       "rank": 48,
@@ -7155,6 +7291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81249,
+      "num": 171655,
+      "word": "手机拍照要AI还是要真实",
+      "onboard_time": 1747710093,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81095,
       "num": 81095,
       "word": "华晨宇演唱会吃播第一人",
@@ -8259,6 +8403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38355,
+      "num": 276083,
+      "word": "gogogo出发当美粉咯",
+      "onboard_time": 1747707750,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37832,
       "num": 112859,
       "word": "王曼昱vs威尔戈斯",
@@ -8297,6 +8449,14 @@
       "onboard_time": 1747566982,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 36127,
+      "num": 162067,
+      "word": "厨房六大健康误区",
+      "onboard_time": 1747709549,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36010,
@@ -8403,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32407,
+      "num": 174705,
+      "word": "胡锡进谈普京特朗普通话",
+      "onboard_time": 1747709851,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32356,
       "num": 194227,
       "word": "帮同事投票损失2.1万",
@@ -8416,6 +8584,14 @@
       "word": "交通局回应乘客攻击公交车司机",
       "onboard_time": 1747650506,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31568,
+      "num": 674484,
+      "word": "互联中国公益行动",
+      "onboard_time": 1747703850,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -8488,6 +8664,14 @@
       "word": "学会自己看体检报告",
       "onboard_time": 1747668864,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28176,
+      "num": 275584,
+      "word": "侧睡导致圆肩扣肩该如何缓解",
+      "onboard_time": 1747709490,
+      "rank": 19,
       "category": "健康医疗"
     },
     {
@@ -8609,14 +8793,6 @@
       "onboard_time": 1747592955,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25147,
-      "num": 674484,
-      "word": "互联中国公益行动",
-      "onboard_time": 1747703850,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25143,
@@ -8835,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19810,
+      "num": 222818,
+      "word": "猎豹是草原中最大的受气包",
+      "onboard_time": 1747710330,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 19578,
       "num": 208199,
       "word": "周也戛纳红毯前不忘补妆",
@@ -9011,6 +9195,14 @@
       "category": "国际时政,议题讨论"
     },
     {
+      "raw_hot": 15730,
+      "num": 225656,
+      "word": "如何加强公司网络防护防止黑客攻击",
+      "onboard_time": 1747710149,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 15615,
       "num": 124748,
       "word": "九天无人机如何实现多技术切换",
@@ -9129,6 +9321,14 @@
       "onboard_time": 1747517174,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13853,
+      "num": 176960,
+      "word": "大范围高温覆盖哪些省份地区",
+      "onboard_time": 1747710980,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13821,
@@ -9315,6 +9515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 8894,
+      "num": 789218,
+      "word": "读懂中国经济的成长壮大之道",
+      "onboard_time": 1747710811,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8709,
       "num": 300355,
       "word": "情绪管理对职场成长有什么价值",
@@ -9385,6 +9593,9 @@
     },
     {
       "word": "#我国2026年实施十五五规划#"
+    },
+    {
+      "word": "#习近平在河南洛阳考察调研#"
     }
   ]
 }

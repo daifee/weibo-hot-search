@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747707745653,
+  "endTime": 1747711082318,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 901444,
+      "num": 901444,
+      "word": "最近为啥这么热",
+      "onboard_time": 1747702529,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878400,
       "num": 878400,
       "word": "收视率",
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 761494,
-      "num": 761494,
-      "word": "最近为啥这么热",
-      "onboard_time": 1747702529,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 738849,
+      "num": 738849,
+      "word": "新余钢铁回应虞书欣家人传闻",
+      "onboard_time": 1747708050,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 701780,
@@ -155,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475944,
+      "num": 475944,
+      "word": "折腰预告",
+      "onboard_time": 1747668024,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 466921,
+      "num": 466921,
+      "word": "孙杨退赛100自",
+      "onboard_time": 1747708111,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456105,
       "num": 456105,
       "word": "雨果球拍也疑似沾染异物",
@@ -227,6 +251,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 360607,
+      "num": 1057697,
+      "word": "广州警方对境外黑客案立案调查",
+      "onboard_time": 1747705891,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 358244,
+      "num": 358244,
+      "word": "王源hug官周上线",
+      "onboard_time": 1747710271,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355868,
       "num": 355868,
       "word": "王楚钦球拍胶皮被人揭开了",
@@ -259,12 +299,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317625,
+      "num": 317625,
+      "word": "腾讯视频520剧爱你",
+      "onboard_time": 1747708470,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310115,
       "num": 310115,
       "word": "王者荣耀联动慕夏艺术",
       "onboard_time": 1747700542,
       "rank": 14,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 309997,
+      "num": 309997,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285104,
@@ -283,6 +339,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 277188,
+      "num": 277188,
+      "word": "钟南山对新冠病毒最新判断",
+      "onboard_time": 1747710450,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275494,
+      "num": 379964,
+      "word": "对我国公司网络攻击有网络战痕迹",
+      "onboard_time": 1747704930,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263369,
       "num": 263369,
       "word": "鹭卓录音室无声直播",
@@ -299,20 +371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260959,
+      "num": 260959,
+      "word": "15个锻炼大脑的方法",
+      "onboard_time": 1747709909,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259337,
       "num": 259337,
       "word": "主裁称王楚钦球拍没问题",
       "onboard_time": 1747662567,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257099,
-      "num": 379964,
-      "word": "对我国公司网络攻击有网络战痕迹",
-      "onboard_time": 1747704930,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244436,
@@ -323,11 +395,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242416,
-      "num": 242416,
-      "word": "折腰预告",
-      "onboard_time": 1747668024,
-      "rank": 20,
+      "raw_hot": 231667,
+      "num": 231667,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 230804,
+      "num": 230804,
+      "word": "顶着这张正派脸咋办出的肮脏事",
+      "onboard_time": 1747709909,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -352,6 +432,14 @@
       "word": "球拍检测各球队可派一人全程跟随",
       "onboard_time": 1747696939,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221000,
+      "num": 221000,
+      "word": "主裁说王楚钦球拍没问题是掩饰吗",
+      "onboard_time": 1747708170,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -427,6 +515,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197339,
+      "num": 226676,
+      "word": "刘学义孟子义520饭撒",
+      "onboard_time": 1747710210,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196712,
+      "num": 196712,
+      "word": "RNG恭喜Uzi",
+      "onboard_time": 1747710450,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195758,
+      "num": 195758,
+      "word": "野狗骨头青春定格照",
+      "onboard_time": 1747709909,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "文旅局回应明中都鼓楼瓦片脱落",
@@ -483,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179914,
-      "num": 1028786,
-      "word": "广州警方对境外黑客案立案调查",
-      "onboard_time": 1747705891,
-      "rank": 0,
-      "category": "国内时政"
+      "raw_hot": 178066,
+      "num": 178066,
+      "word": "王楚钦说你换我这样的角度思考一下",
+      "onboard_time": 1747706490,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 177015,
@@ -507,12 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170922,
-      "num": 170922,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 170283,
+      "num": 357540,
+      "word": "救人小伙用义父梗打趣被救同学",
+      "onboard_time": 1747710390,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 170121,
@@ -545,14 +657,6 @@
       "onboard_time": 1747697179,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 157135,
-      "num": 157135,
-      "word": "王楚钦说你换我这样的角度思考一下",
-      "onboard_time": 1747706490,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 155379,
@@ -595,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141560,
+      "num": 141560,
+      "word": "汉语的同化能力有多强",
+      "onboard_time": 1747710811,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140886,
       "num": 140886,
       "word": "黄石公园附近车祸车上有12名中国公民",
@@ -617,6 +729,22 @@
       "onboard_time": 1747667485,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136244,
+      "num": 175835,
+      "word": "少吃但不会挨饿的减肥食谱",
+      "onboard_time": 1747710750,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 133052,
+      "num": 133052,
+      "word": "骄阳似我环抱吻花絮",
+      "onboard_time": 1747708831,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132428,
@@ -699,8 +827,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122117,
+      "num": 122117,
+      "word": "为什么你总因为小事生气",
+      "onboard_time": 1747709790,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119334,
-      "num": 119334,
+      "num": 173573,
       "word": "央视称多哈世乒赛组织标准待提高",
       "onboard_time": 1747706369,
       "rank": 48,
@@ -825,6 +961,14 @@
       "onboard_time": 1747648884,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81249,
+      "num": 171655,
+      "word": "手机拍照要AI还是要真实",
+      "onboard_time": 1747710093,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 80696,
@@ -987,12 +1131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38355,
+      "num": 276083,
+      "word": "gogogo出发当美粉咯",
+      "onboard_time": 1747707750,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37396,
       "num": 37396,
       "word": "中餐厅9摩洛哥路透",
       "onboard_time": 1747680194,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36127,
+      "num": 162067,
+      "word": "厨房六大健康误区",
+      "onboard_time": 1747709549,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32890,
@@ -1003,6 +1163,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 32407,
+      "num": 174705,
+      "word": "胡锡进谈普京特朗普通话",
+      "onboard_time": 1747709851,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 31568,
+      "num": 674484,
+      "word": "互联中国公益行动",
+      "onboard_time": 1747703850,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30946,
       "num": 37371,
       "word": "肖战藏海传演技",
@@ -1011,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25147,
-      "num": 674484,
-      "word": "互联中国公益行动",
-      "onboard_time": 1747703850,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 28176,
+      "num": 275584,
+      "word": "侧睡导致圆肩扣肩该如何缓解",
+      "onboard_time": 1747709490,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24771,
@@ -1043,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19810,
+      "num": 222818,
+      "word": "猎豹是草原中最大的受气包",
+      "onboard_time": 1747710330,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 19173,
       "num": 20155,
       "word": "外交部回应世卫大会拒绝涉台提案",
@@ -1057,6 +1241,14 @@
       "onboard_time": 1747685954,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15730,
+      "num": 225656,
+      "word": "如何加强公司网络防护防止黑客攻击",
+      "onboard_time": 1747710149,
+      "rank": 28,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 14579,
@@ -1075,17 +1267,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13853,
+      "num": 176960,
+      "word": "大范围高温覆盖哪些省份地区",
+      "onboard_time": 1747710980,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10560,
       "num": 19330,
       "word": "巴基斯坦副总理兼外长访华",
       "onboard_time": 1747683313,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8894,
+      "num": 789218,
+      "word": "读懂中国经济的成长壮大之道",
+      "onboard_time": 1747710811,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#我国2026年实施十五五规划#"
+    },
+    {
+      "word": "#习近平在河南洛阳考察调研#"
     }
   ]
 }
