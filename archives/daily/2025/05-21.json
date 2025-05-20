@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747779861867,
+  "endTime": 1747780945155,
   "band_list": [
     {
       "raw_hot": 1628376,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244531,
+      "num": 181729,
+      "word": "藏海传破2",
+      "onboard_time": 1747762156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232338,
       "num": 208000,
       "word": "披荆斩棘的哥哥",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 188161,
-      "num": 69546,
+      "num": 89665,
       "word": "雅安城管回应黄杨家开公司是否报备",
       "onboard_time": 1747762636,
       "rank": 46,
@@ -169,14 +177,6 @@
       "onboard_time": 1747757544,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181729,
-      "num": 181729,
-      "word": "藏海传破2",
-      "onboard_time": 1747762156,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 174240,
@@ -243,8 +243,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110845,
-      "num": 69254,
+      "raw_hot": 125274,
+      "num": 98826,
+      "word": "试飞部队共牺牲32名试飞员",
+      "onboard_time": 1747755504,
+      "rank": 32,
+      "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 111319,
+      "num": 89617,
       "word": "教育局回应男生掉化粪池遇难",
       "onboard_time": 1747772054,
       "rank": 48,
@@ -257,6 +265,14 @@
       "onboard_time": 1747751724,
       "rank": 28,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 107636,
+      "num": 102958,
+      "word": "体检查出6种病不必过度治疗",
+      "onboard_time": 1747759639,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106541,
@@ -273,14 +289,6 @@
       "onboard_time": 1747759940,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102958,
-      "num": 102958,
-      "word": "体检查出6种病不必过度治疗",
-      "onboard_time": 1747759639,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102879,
@@ -305,14 +313,6 @@
       "onboard_time": 1747749507,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98826,
-      "num": 98826,
-      "word": "试飞部队共牺牲32名试飞员",
-      "onboard_time": 1747755504,
-      "rank": 32,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 97297,
@@ -353,6 +353,14 @@
       "onboard_time": 1747754844,
       "rank": 37,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 89584,
+      "num": 89584,
+      "word": "嫌银行利息低大爷花百万买6斤黄金",
+      "onboard_time": 1747769653,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 88497,
@@ -459,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67299,
-      "num": 67299,
-      "word": "嫌银行利息低大爷花百万买6斤黄金",
-      "onboard_time": 1747769653,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 65730,
       "num": 87930,
       "word": "王楚钦预判了对手的预判",
@@ -507,20 +507,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45260,
-      "num": 43054,
+      "raw_hot": 58091,
+      "num": 58091,
+      "word": "女子被打还击先被认定互殴后改判无罪",
+      "onboard_time": 1747774634,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46389,
+      "num": 46389,
       "word": "曾黎收下粉丝礼物放包里",
       "onboard_time": 1747767314,
       "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 43199,
-      "num": 43199,
-      "word": "女子被打还击先被认定互殴后改判无罪",
-      "onboard_time": 1747774634,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 42483,
+      "num": 40497,
+      "word": "变成丧尸之前请脱掉你的旱冰鞋",
+      "onboard_time": 1747766775,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 42114,
@@ -539,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36324,
+      "num": 40394,
+      "word": "医院回应护士发错药致患者误服数日",
+      "onboard_time": 1747777155,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33568,
+      "num": 40364,
+      "word": "迪丽热巴浪漫信号藏在玫瑰",
+      "onboard_time": 1747762936,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31485,
       "num": 745497,
       "word": "中国经济延续向新向好发展态势",
@@ -547,12 +571,12 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 30023,
-      "num": 30023,
-      "word": "医院回应护士发错药致患者误服数日",
-      "onboard_time": 1747777155,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 30509,
+      "num": 40347,
+      "word": "藏海好像从甘露寺回宫的甄嬛",
+      "onboard_time": 1747778295,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 29626,
@@ -563,28 +587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 29336,
-      "num": 29336,
-      "word": "变成丧尸之前请脱掉你的旱冰鞋",
-      "onboard_time": 1747766775,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 28852,
       "num": 130856,
       "word": "以毒攻毒其实是有风险的",
       "onboard_time": 1747759160,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28127,
-      "num": 28127,
-      "word": "迪丽热巴浪漫信号藏在玫瑰",
-      "onboard_time": 1747762936,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 25058,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22120,
+      "num": 40272,
+      "word": "荷兰阿尔兹海默症小镇 楚门的世界",
+      "onboard_time": 1747779857,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22116,
       "num": 22116,
       "word": "左航520撕拉片",
@@ -643,12 +659,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 20378,
-      "num": 26774,
-      "word": "藏海好像从甘露寺回宫的甄嬛",
-      "onboard_time": 1747778295,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 20507,
+      "num": 40256,
+      "word": "周也说孟子义像行走的零食库",
+      "onboard_time": 1747780518,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 20130,
@@ -691,8 +707,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10777,
-      "num": 211560,
+      "raw_hot": 10815,
+      "num": 299717,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
       "rank": 2,
