@@ -1,0 +1,410 @@
+{
+  "runTime": 1747730948505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86786,
+        "num": 1013885,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100514,
+        "num": 982075,
+        "word": "胖都来改名",
+        "onboard_time": 1747726762,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27786,
+        "num": 872720,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787632,
+        "num": 787632,
+        "word": "包文婧包贝尔二胎出生",
+        "onboard_time": 1747723400,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761643,
+        "num": 761643,
+        "word": "一只猫向监狱走私毒品被抓",
+        "onboard_time": 1747727902,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 562782,
+        "num": 562782,
+        "word": "黄子韬徐艺洋搂腰抱",
+        "onboard_time": 1747724781,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539322,
+        "num": 539322,
+        "word": "肖战回复张婧仪",
+        "onboard_time": 1747729221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513592,
+        "num": 513592,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 7,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 372828,
+        "num": 513517,
+        "word": "酱园弄分成上下两部上映",
+        "onboard_time": 1747727600,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158040,
+        "num": 513322,
+        "word": "奋力谱写中原大地推进中国式现代化新篇章",
+        "onboard_time": 1747729281,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228492,
+        "num": 513150,
+        "word": "陷入我们的热恋 定档",
+        "onboard_time": 1747723400,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68397,
+        "num": 513075,
+        "word": "魏建军在520当天表白用户",
+        "onboard_time": 1747728863,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40084,
+        "num": 512827,
+        "word": "周云杰和高管团首次合体亮相",
+        "onboard_time": 1747729462,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131858,
+        "num": 512689,
+        "word": "大学生化粪池遇难谁来担责",
+        "onboard_time": 1747729580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26523,
+        "num": 512566,
+        "word": "520集卡中奖概率比脱单高",
+        "onboard_time": 1747728082,
+        "rank": 14,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 86289,
+        "num": 512334,
+        "word": "张子枫上影节亚新单元评委",
+        "onboard_time": 1747730482,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33680,
+        "num": 512209,
+        "word": "5G辐射真的对人体有害吗",
+        "onboard_time": 1747728981,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34789,
+        "num": 511938,
+        "word": "玉米蛋挞价格为什么远超普通蛋挞",
+        "onboard_time": 1747728981,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 85515,
+        "num": 511818,
+        "word": "男子与两女办婚礼违背公序良俗",
+        "onboard_time": 1747729702,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41169,
+        "num": 511685,
+        "word": "520和521的寓意有何不同之处",
+        "onboard_time": 1747729882,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 511578,
+        "num": 511578,
+        "word": "玉米蛋挞价格",
+        "onboard_time": 1747725083,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92967,
+        "num": 509315,
+        "word": "成毅宋韵",
+        "onboard_time": 1747728562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2233231,
+        "num": 503755,
+        "word": "大学生掉化粪池遇难同学发声",
+        "onboard_time": 1747726643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 498097,
+        "word": "张艺兴520",
+        "onboard_time": 1747729642,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135004,
+        "num": 488093,
+        "word": "钎城深V锁骨链",
+        "onboard_time": 1747730002,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81747,
+        "num": 483450,
+        "word": "全运会乒乓球10金产生日期敲定",
+        "onboard_time": 1747730662,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119217,
+        "num": 476916,
+        "word": "上厕所时如何有效压水花避免飞溅",
+        "onboard_time": 1747729942,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107214,
+        "num": 468689,
+        "word": "为什么一买黄金就暴跌",
+        "onboard_time": 1747729702,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 59194,
+        "num": 467372,
+        "word": "新冠又抬头可常备这些药物",
+        "onboard_time": 1747722322,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 68796,
+        "num": 457543,
+        "word": "林诗栋蒯曼3比0加多斯波尔卡诺娃",
+        "onboard_time": 1747730482,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220286,
+        "num": 450579,
+        "word": "边伯贤说我的电梯只通向爱丽们那层",
+        "onboard_time": 1747730002,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 574446,
+        "num": 445122,
+        "word": "摩的司机性侵14岁女生受害家属发声",
+        "onboard_time": 1747723101,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31213,
+        "num": 438907,
+        "word": "工作人员回应胖都来改名盈都来",
+        "onboard_time": 1747730843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436251,
+        "num": 436251,
+        "word": "1万5网购10只羊货不对板还死了3只",
+        "onboard_time": 1747728562,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434426,
+        "num": 434426,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 34,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 344192,
+        "word": "美俄总统通话为何不愿挂电话",
+        "onboard_time": 1747730843,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335312,
+        "num": 335312,
+        "word": "王励勤讨论王楚钦球拍受损",
+        "onboard_time": 1747728620,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327102,
+        "num": 327102,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55005,
+        "num": 297339,
+        "word": "韩国大妈吐槽中国男人对女生太好",
+        "onboard_time": 1747730843,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24035,
+        "num": 270760,
+        "word": "瘦腰跟练版",
+        "onboard_time": 1747730123,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 269626,
+        "num": 269626,
+        "word": "重庆一父亲带儿女钓鱼3人落水身亡",
+        "onboard_time": 1747730182,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256667,
+        "num": 256667,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254468,
+        "num": 254468,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221475,
+        "num": 221475,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747721781,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216211,
+        "num": 216211,
+        "word": "程靖淇说王楚钦已经在克制",
+        "onboard_time": 1747728863,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211237,
+        "num": 211237,
+        "word": "LWX 薇恩冠军皮肤的拥有者",
+        "onboard_time": 1747721841,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196966,
+        "num": 196966,
+        "word": "藏海干呕是肖战设计的",
+        "onboard_time": 1747726643,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189298,
+        "num": 189298,
+        "word": "使用安全套最容易犯的9错",
+        "onboard_time": 1747730662,
+        "rank": 47,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 189256,
+        "word": "孙颖莎说第一场她的球拍也有问题",
+        "onboard_time": 1747713803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185244,
+        "num": 185244,
+        "word": "胖都来商场更名盈都来",
+        "onboard_time": 1747728562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}
