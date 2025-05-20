@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747751174276,
+  "endTime": 1747752323033,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1381040,
-      "num": 1203047,
+      "num": 1205999,
       "word": "20250520",
       "onboard_time": 1747733961,
       "rank": 33,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559932,
+      "num": 559932,
+      "word": "央视梳理王楚钦球拍受损事件",
+      "onboard_time": 1747749024,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550231,
       "num": 419887,
       "word": "欧豪自己都生不出这么像的儿子",
@@ -1563,14 +1571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532758,
-      "num": 532758,
-      "word": "央视梳理王楚钦球拍受损事件",
-      "onboard_time": 1747749024,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 531990,
       "num": 381542,
       "word": "编剧祝明再发长文",
@@ -1585,6 +1585,14 @@
       "onboard_time": 1747741280,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 527688,
+      "num": 527688,
+      "word": "曾黎机场强忍眼泪",
+      "onboard_time": 1747750404,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 519955,
@@ -1803,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451402,
+      "num": 451402,
+      "word": "王楚钦戴墨镜上训",
+      "onboard_time": 1747750465,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450327,
       "num": 450327,
       "word": "杨天真要去留学一年",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1747710271,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433498,
-      "num": 433498,
-      "word": "王楚钦戴墨镜上训",
-      "onboard_time": 1747750465,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 432860,
@@ -2211,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 371518,
+      "num": 481413,
+      "word": "广厦男篮队史首冠",
+      "onboard_time": 1747750345,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370687,
       "num": 370687,
       "word": "雷军回应小米黑公关案件",
@@ -2313,6 +2329,14 @@
       "onboard_time": 1747635683,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 344636,
+      "num": 344636,
+      "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+      "onboard_time": 1747750884,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341953,
@@ -3059,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259186,
+      "num": 436082,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1747751545,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257849,
       "num": 257849,
       "word": "闪耀暖暖",
@@ -3153,14 +3185,6 @@
       "onboard_time": 1747645644,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248323,
-      "num": 259908,
-      "word": "曾黎机场强忍眼泪",
-      "onboard_time": 1747750404,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 248193,
@@ -4051,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207669,
+      "num": 207669,
+      "word": "周琦倾其所有了",
+      "onboard_time": 1747751424,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207447,
       "num": 277831,
       "word": "日本横滨歧视事件",
@@ -4339,14 +4371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201981,
-      "num": 201981,
-      "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
-      "onboard_time": 1747750884,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201877,
       "num": 201877,
       "word": "全世界的偶像剧在这一刻弱爆了",
@@ -4419,6 +4443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200485,
+      "num": 339973,
+      "word": "自建房内藏1800多万网赌黑钱",
+      "onboard_time": 1747750284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200456,
       "num": 232276,
       "word": "肖战藏海的vlog",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1747575803,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200039,
+      "num": 440992,
+      "word": "胡金秋夺冠后哭了",
+      "onboard_time": 1747750584,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 200022,
@@ -4489,6 +4529,14 @@
       "onboard_time": 1747703190,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199131,
+      "num": 199131,
+      "word": "肖战藏海传reaction",
+      "onboard_time": 1747751845,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 199101,
@@ -4859,6 +4907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192691,
+      "num": 192691,
+      "word": "LPL",
+      "onboard_time": 1747751785,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192676,
+      "num": 187771,
+      "word": "原来真的有人可以一心三用",
+      "onboard_time": 1747748964,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192389,
       "num": 319439,
       "word": "王曼昱4比1威尔戈斯",
@@ -4985,6 +5049,14 @@
       "onboard_time": 1747721901,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190147,
+      "num": 190147,
+      "word": "梁伟铿王昶逆转晋级",
+      "onboard_time": 1747751424,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 190048,
@@ -5193,14 +5265,6 @@
       "onboard_time": 1747628245,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 185923,
-      "num": 185923,
-      "word": "原来真的有人可以一心三用",
-      "onboard_time": 1747748964,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 185876,
@@ -5635,14 +5699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174287,
-      "num": 481413,
-      "word": "广厦男篮队史首冠",
-      "onboard_time": 1747750345,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174249,
       "num": 174249,
       "word": "林更新的腿像开了长腿特效",
@@ -5921,6 +5977,14 @@
       "onboard_time": 1747646784,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167921,
+      "num": 167921,
+      "word": "浙江广厦男篮CBA总冠军",
+      "onboard_time": 1747751424,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 167685,
@@ -6483,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "乒乓球裁判回应王楚钦球拍受损原因",
+      "onboard_time": 1747750224,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155379,
       "num": 195890,
       "word": "2025首场大范围高温来袭",
@@ -6889,6 +6961,14 @@
       "onboard_time": 1747578204,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147317,
+      "num": 461179,
+      "word": "iQOO新品价格",
+      "onboard_time": 1747746923,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 146739,
@@ -8963,14 +9043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95784,
-      "num": 461179,
-      "word": "iQOO新品价格",
-      "onboard_time": 1747746923,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 95644,
       "num": 283474,
       "word": "艾威晒和妻子Lisa牵手照",
@@ -9523,12 +9595,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81183,
+      "num": 274213,
+      "word": "期刊回应论文现飙脏话辱骂第二作者",
+      "onboard_time": 1747751364,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81095,
       "num": 81095,
       "word": "华晨宇演唱会吃播第一人",
       "onboard_time": 1747494567,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80869,
+      "num": 280572,
+      "word": "护士发错药致患者误服数日",
+      "onboard_time": 1747750645,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80814,
@@ -9761,14 +9849,6 @@
       "onboard_time": 1747712301,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75425,
-      "num": 440992,
-      "word": "胡金秋夺冠后哭了",
-      "onboard_time": 1747750584,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 75273,
@@ -10179,14 +10259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63734,
-      "num": 280572,
-      "word": "护士发错药致患者误服数日",
-      "onboard_time": 1747750645,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63672,
       "num": 269297,
       "word": "内衣裤和鞋袜混洗会引发卫生问题吗",
@@ -10209,6 +10281,14 @@
       "onboard_time": 1747722500,
       "rank": 38,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 62100,
+      "num": 446073,
+      "word": "台独分裂与台海和平水火不容",
+      "onboard_time": 1747751545,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62098,
@@ -10241,14 +10321,6 @@
       "onboard_time": 1747717764,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 61616,
-      "num": 339973,
-      "word": "自建房内藏1800多万网赌黑钱",
-      "onboard_time": 1747750284,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61609,
@@ -10691,6 +10763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47829,
+      "num": 785884,
+      "word": "中国经济延续向新向好发展态势",
+      "onboard_time": 1747749083,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 47769,
       "num": 155960,
       "word": "当代年轻人的变相送礼文学",
@@ -11075,14 +11155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38950,
-      "num": 785884,
-      "word": "中国经济延续向新向好发展态势",
-      "onboard_time": 1747749083,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 38859,
       "num": 261574,
       "word": "杜特尔特或将狱中宣誓就职",
@@ -11456,6 +11528,14 @@
       "word": "凤阳鼓楼维修方涉多起施工合同纠纷",
       "onboard_time": 1747721361,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30118,
+      "num": 211978,
+      "word": "上海安福路上演熹妃回宫",
+      "onboard_time": 1747751845,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -12291,6 +12371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16460,
+      "num": 269028,
+      "word": "美国信用评级史上第三次遭下调",
+      "onboard_time": 1747750765,
+      "rank": 29,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 16340,
       "num": 376011,
       "word": "PL15对比阵风有何优势",
@@ -12843,6 +12931,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 8284,
+      "num": 209336,
+      "word": "比原子弹还难制造的芯片难在哪",
+      "onboard_time": 1747751485,
+      "rank": 29,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 8205,
       "num": 282358,
       "word": "以方将全面接管加沙是否符合国际法",
@@ -12867,12 +12963,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7700,
-      "num": 269028,
-      "word": "美国信用评级史上第三次遭下调",
-      "onboard_time": 1747750765,
-      "rank": 29,
-      "category": "国际时政,财经"
+      "raw_hot": 7044,
+      "num": 211277,
+      "word": "经常复述自身优点能否改变行为模式",
+      "onboard_time": 1747751485,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 6361,

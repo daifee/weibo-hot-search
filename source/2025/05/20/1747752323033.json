@@ -1,0 +1,410 @@
+{
+  "runTime": 1747752323033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205999,
+        "num": 1205999,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785015,
+        "num": 785015,
+        "word": "藏海传收视率",
+        "onboard_time": 1747746862,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47829,
+        "num": 700065,
+        "word": "中国经济延续向新向好发展态势",
+        "onboard_time": 1747749083,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 927832,
+        "num": 698596,
+        "word": "王楚钦的球拍可能是这么被弄坏的",
+        "onboard_time": 1747747164,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621924,
+        "num": 621924,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559932,
+        "num": 559932,
+        "word": "央视梳理王楚钦球拍受损事件",
+        "onboard_time": 1747749024,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527688,
+        "num": 527688,
+        "word": "曾黎机场强忍眼泪",
+        "onboard_time": 1747750404,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451402,
+        "num": 451402,
+        "word": "王楚钦戴墨镜上训",
+        "onboard_time": 1747750465,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62100,
+        "num": 446073,
+        "word": "台独分裂与台海和平水火不容",
+        "onboard_time": 1747751545,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259186,
+        "num": 436082,
+        "word": "王楚钦vs黄镇廷",
+        "onboard_time": 1747751545,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905140,
+        "num": 434935,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 10,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 698398,
+        "num": 423993,
+        "word": "警方通报男孩被父亲管教打骂致死",
+        "onboard_time": 1747747942,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 420651,
+        "num": 420651,
+        "word": "酱园弄",
+        "onboard_time": 1747747643,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404886,
+        "num": 404886,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400476,
+        "num": 400476,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371518,
+        "num": 371518,
+        "word": "广厦男篮队史首冠",
+        "onboard_time": 1747750345,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344636,
+        "num": 344636,
+        "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+        "onboard_time": 1747750884,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277844,
+        "num": 277844,
+        "word": "迪丽热巴用玫瑰干杯",
+        "onboard_time": 1747746982,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119899,
+        "num": 275479,
+        "word": "周也说张宥浩拍的照片好看",
+        "onboard_time": 1747750525,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81183,
+        "num": 274213,
+        "word": "期刊回应论文现飙脏话辱骂第二作者",
+        "onboard_time": 1747751364,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 718336,
+        "num": 271350,
+        "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294341,
+        "num": 268766,
+        "word": "医生眼里无意识的控糖行为",
+        "onboard_time": 1747746442,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168203,
+        "num": 264765,
+        "word": "孙杨的520礼物",
+        "onboard_time": 1747748123,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264397,
+        "num": 264397,
+        "word": "张宥浩晒和周也撕拉片合影",
+        "onboard_time": 1747745783,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212234,
+        "num": 212234,
+        "word": "肖战第七集演技大赏",
+        "onboard_time": 1747749984,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30118,
+        "num": 211978,
+        "word": "上海安福路上演熹妃回宫",
+        "onboard_time": 1747751845,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7044,
+        "num": 211277,
+        "word": "经常复述自身优点能否改变行为模式",
+        "onboard_time": 1747751485,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16460,
+        "num": 210538,
+        "word": "美国信用评级史上第三次遭下调",
+        "onboard_time": 1747750765,
+        "rank": 27,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 80869,
+        "num": 209929,
+        "word": "护士发错药致患者误服数日",
+        "onboard_time": 1747750645,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8284,
+        "num": 209336,
+        "word": "比原子弹还难制造的芯片难在哪",
+        "onboard_time": 1747751485,
+        "rank": 29,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 208552,
+        "word": "iQOO新品价格",
+        "onboard_time": 1747746923,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252010,
+        "num": 208080,
+        "word": "CBA",
+        "onboard_time": 1747742182,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207669,
+        "num": 207669,
+        "word": "周琦倾其所有了",
+        "onboard_time": 1747751424,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203778,
+        "num": 203778,
+        "word": "丁禹兮你把翟潇闻当哪国人整啊",
+        "onboard_time": 1747750224,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200485,
+        "num": 200485,
+        "word": "自建房内藏1800多万网赌黑钱",
+        "onboard_time": 1747750284,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200039,
+        "num": 200039,
+        "word": "胡金秋夺冠后哭了",
+        "onboard_time": 1747750584,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199131,
+        "num": 199131,
+        "word": "肖战藏海传reaction",
+        "onboard_time": 1747751845,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192691,
+        "num": 192691,
+        "word": "LPL",
+        "onboard_time": 1747751785,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190147,
+        "num": 190147,
+        "word": "梁伟铿王昶逆转晋级",
+        "onboard_time": 1747751424,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192676,
+        "num": 187771,
+        "word": "原来真的有人可以一心三用",
+        "onboard_time": 1747748964,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177612,
+        "num": 177612,
+        "word": "科学家发现精子温控开关",
+        "onboard_time": 1747746145,
+        "rank": 40,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 176591,
+        "num": 176591,
+        "word": "赵小童撕拉片",
+        "onboard_time": 1747749507,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167921,
+        "num": 167921,
+        "word": "浙江广厦男篮CBA总冠军",
+        "onboard_time": 1747751424,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164526,
+        "num": 164526,
+        "word": "必须熬夜上半夜熬还是下半夜熬",
+        "onboard_time": 1747746200,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163286,
+        "num": 163286,
+        "word": "木木卿卿官宣",
+        "onboard_time": 1747741280,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161177,
+        "num": 161177,
+        "word": "脑瘫女孩追星6年终被偶像看到",
+        "onboard_time": 1747740622,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158707,
+        "num": 158707,
+        "word": "浙江广厦队史首个CBA联赛总冠军",
+        "onboard_time": 1747751124,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157177,
+        "num": 157177,
+        "word": "婆婆借115万为儿买房被判自己还",
+        "onboard_time": 1747738220,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155416,
+        "num": 155416,
+        "word": "乒乓球裁判回应王楚钦球拍受损原因",
+        "onboard_time": 1747750224,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152844,
+        "num": 152844,
+        "word": "薛凯琪巨型花束装",
+        "onboard_time": 1747750045,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#看曾经冷门的文物保护热起来#"
+    }
+  }
+}
