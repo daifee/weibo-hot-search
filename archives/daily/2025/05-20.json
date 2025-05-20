@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747741099706,
+  "endTime": 1747745578870,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 981774,
-      "num": 639708,
+      "num": 722298,
       "word": "陈奕迅女儿将出道",
       "onboard_time": 1747738822,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 972009,
+      "num": 972009,
+      "word": "20250520",
+      "onboard_time": 1747733961,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 968480,
@@ -193,6 +201,14 @@
       "onboard_time": 1747734562,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 965518,
+      "num": 447444,
+      "word": "掉化粪池遇难学生还有2个月满20岁",
+      "onboard_time": 1747741521,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 945014,
@@ -251,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817123,
-      "num": 817123,
-      "word": "20250520",
-      "onboard_time": 1747733961,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 814672,
       "num": 814672,
       "word": "国际乒联回应王楚钦球拍受损",
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705458,
+      "num": 431215,
+      "word": "日本女高被迫卖淫10天接待100人",
+      "onboard_time": 1747740442,
+      "rank": 36,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 704129,
       "num": 445122,
       "word": "摩的司机性侵14岁女生受害家属发声",
@@ -321,6 +337,14 @@
       "onboard_time": 1747734142,
       "rank": 37,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 672089,
+      "num": 672089,
+      "word": "女子同时交往孙兴慜在内的多名男子",
+      "onboard_time": 1747739901,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 661648,
@@ -475,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527956,
+      "num": 527956,
+      "word": "木木卿卿官宣",
+      "onboard_time": 1747741280,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515067,
       "num": 515067,
       "word": "如果你经常侧睡导致圆肩扣肩",
@@ -504,6 +536,14 @@
       "word": "折腰预告",
       "onboard_time": 1747668024,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 488848,
+      "num": 488848,
+      "word": "藏海极限一换一拿下首杀",
+      "onboard_time": 1747735162,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -547,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454938,
-      "num": 454938,
-      "word": "藏海极限一换一拿下首杀",
-      "onboard_time": 1747735162,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 453705,
       "num": 318778,
       "word": "今天好多明星发红包",
@@ -569,6 +601,14 @@
       "onboard_time": 1747722442,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450121,
+      "num": 450121,
+      "word": "肯德基申请注册冷静星期四",
+      "onboard_time": 1747742721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444004,
@@ -625,6 +665,14 @@
       "onboard_time": 1747698140,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 415578,
+      "num": 415578,
+      "word": "刘丁硕称王楚钦球拍损坏只有一种可能",
+      "onboard_time": 1747740561,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 414701,
@@ -731,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 359177,
+      "num": 359177,
+      "word": "父亲去世留下300万巨债儿子拒还",
+      "onboard_time": 1747744702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357045,
       "num": 397679,
       "word": "登陆少年团撕拉片",
@@ -795,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316286,
+      "num": 316286,
+      "word": "胡金秋呕吐",
+      "onboard_time": 1747742302,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310115,
       "num": 310115,
       "word": "王者荣耀联动慕夏艺术",
@@ -843,12 +907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291382,
-      "num": 198049,
-      "word": "女子同时交往孙兴慜在内的多名男子",
-      "onboard_time": 1747739901,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 286039,
+      "num": 449520,
+      "word": "结石姐看到梁翘柏就放心了",
+      "onboard_time": 1747742961,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 285104,
@@ -867,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280925,
+      "num": 415582,
+      "word": "迪丽热巴学姐妆",
+      "onboard_time": 1747742302,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275494,
       "num": 379964,
       "word": "对我国公司网络攻击有网络战痕迹",
@@ -881,14 +953,6 @@
       "onboard_time": 1747713501,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263530,
-      "num": 193313,
-      "word": "刘丁硕称王楚钦球拍损坏只有一种可能",
-      "onboard_time": 1747740561,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 263369,
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249646,
+      "num": 249646,
+      "word": "阴阳师",
+      "onboard_time": 1747745123,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248193,
       "num": 248193,
       "word": "国际乒联表示确保类似事件不再发生",
@@ -937,6 +1009,14 @@
       "onboard_time": 1747718902,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244647,
+      "num": 426396,
+      "word": "藏海传花半年打造实景平津侯府",
+      "onboard_time": 1747743381,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 244436,
@@ -1051,12 +1131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227012,
+      "num": 227012,
+      "word": "张本美和谈将对阵莎头",
+      "onboard_time": 1747743984,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226651,
       "num": 382880,
       "word": "程潇觉得自己没那么完美",
       "onboard_time": 1747730962,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225654,
+      "num": 370272,
+      "word": "脑瘫女孩追星6年终被偶像看到",
+      "onboard_time": 1747740622,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 224523,
@@ -1299,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201325,
+      "num": 201325,
+      "word": "祝绪丹520撕拉片",
+      "onboard_time": 1747741461,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200456,
       "num": 232276,
       "word": "肖战藏海的vlog",
@@ -1451,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191293,
+      "num": 439480,
+      "word": "宋威龙顶级骨相是这样的",
+      "onboard_time": 1747745062,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191017,
       "num": 191017,
       "word": "iG战胜FPX",
@@ -1555,14 +1667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183518,
-      "num": 183518,
-      "word": "日本女高被迫卖淫10天接待100人",
-      "onboard_time": 1747740442,
-      "rank": 36,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 183194,
       "num": 183194,
       "word": "美俄总统通话超2小时",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1747717462,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177326,
+      "num": 177326,
+      "word": "网易游戏发布会",
+      "onboard_time": 1747741580,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 177015,
@@ -1851,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155565,
+      "num": 444776,
+      "word": "同学曾用长标枪施救掉化粪池大学生",
+      "onboard_time": 1747744463,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155515,
       "num": 369948,
       "word": "多名运动员分析球拍受损可能性",
@@ -1875,12 +1995,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 155250,
+      "num": 155250,
+      "word": "怎么会有男女主看手就有cp感的",
+      "onboard_time": 1747745362,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155146,
       "num": 155146,
       "word": "貂蝉登陆时尚芭莎双刊",
       "onboard_time": 1747721721,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 153962,
+      "num": 429101,
+      "word": "网传歌手2025第二期歌单",
+      "onboard_time": 1747741163,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 153585,
@@ -1977,6 +2113,14 @@
       "onboard_time": 1747651225,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146472,
+      "num": 146472,
+      "word": "CBA",
+      "onboard_time": 1747742182,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 145599,
@@ -2091,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137896,
+      "num": 137896,
+      "word": "程靖淇怒批世乒赛裁判不公",
+      "onboard_time": 1747744402,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136885,
       "num": 136885,
       "word": "电影永不失联的爱今日上映",
@@ -2105,14 +2257,6 @@
       "onboard_time": 1747736003,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136524,
-      "num": 136524,
-      "word": "脑瘫女孩追星6年终被偶像看到",
-      "onboard_time": 1747740622,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 136244,
@@ -2675,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82576,
+      "num": 427115,
+      "word": "周雨谈王楚钦球拍受损",
+      "onboard_time": 1747745182,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81747,
       "num": 483450,
       "word": "全运会乒乓球10金产生日期敲定",
@@ -2867,6 +3019,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 69324,
+      "num": 446820,
+      "word": "618闭眼冲iQOO新品",
+      "onboard_time": 1747743203,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68796,
       "num": 457543,
       "word": "林诗栋蒯曼3比0加多斯波尔卡诺娃",
@@ -2907,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66388,
+      "num": 150503,
+      "word": "婆婆给儿买房还不起债小夫妻无责",
+      "onboard_time": 1747745483,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66165,
       "num": 182327,
       "word": "烟台救人小伙姜昭鹏回应未来打算",
@@ -2921,6 +3089,14 @@
       "onboard_time": 1747715244,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 66041,
+      "num": 441885,
+      "word": "金领冠全球发布会闪耀香港",
+      "onboard_time": 1747742363,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65749,
@@ -3083,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49483,
+      "num": 422487,
+      "word": "五险一金的档位是什么意思",
+      "onboard_time": 1747745243,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 48452,
       "num": 186432,
       "word": "22岁就进了大厂是什么体验",
@@ -3155,6 +3339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45127,
+      "num": 842293,
+      "word": "高质量发展看天津",
+      "onboard_time": 1747735641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44952,
       "num": 44952,
       "word": "莎头这一球太精彩了",
@@ -3163,11 +3355,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44510,
+      "num": 424219,
+      "word": "礼遇季每小时一个5200元大奖",
+      "onboard_time": 1747742843,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 43985,
       "num": 373796,
       "word": "现榨橙汁摊贩拿桶对嘴喝后继续卖",
       "onboard_time": 1747732221,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43647,
+      "num": 420102,
+      "word": "杭州真是个浪漫的城市",
+      "onboard_time": 1747743322,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 42922,
+      "num": 249749,
+      "word": "川大撤回聘用日本考古学家通知",
+      "onboard_time": 1747737683,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3184,14 +3400,6 @@
       "word": "周云杰和高管团首次合体亮相",
       "onboard_time": 1747729462,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39903,
-      "num": 842293,
-      "word": "高质量发展看天津",
-      "onboard_time": 1747735641,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3225,6 +3433,22 @@
       "onboard_time": 1747709549,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35780,
+      "num": 437800,
+      "word": "潘展乐进入100自决赛",
+      "onboard_time": 1747744642,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35635,
+      "num": 443218,
+      "word": "今天在微博日薪5200元",
+      "onboard_time": 1747742483,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 35228,
@@ -3395,6 +3619,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 29073,
+      "num": 435188,
+      "word": "覃海洋50米蛙冠军",
+      "onboard_time": 1747745182,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28765,
       "num": 403627,
       "word": "科普博主看眼舌苔就说有胃溃疡",
@@ -3481,6 +3713,14 @@
       "onboard_time": 1747717285,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25147,
+      "num": 418610,
+      "word": "广东茂名龙卷风疑刮断电线产生火花",
+      "onboard_time": 1747744222,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24771,
@@ -3731,6 +3971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13894,
+      "num": 436349,
+      "word": "黄金租赁的价格是如何计算的",
+      "onboard_time": 1747743442,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 13602,
       "num": 207507,
       "word": "520收到礼物感动到哭了",
@@ -3755,6 +4003,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 12283,
+      "num": 249656,
+      "word": "零下25℃的坚守与炙热的粮心",
+      "onboard_time": 1747742483,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11783,
+      "num": 420986,
+      "word": "北京男篮进攻怎么了",
+      "onboard_time": 1747744823,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11695,
       "num": 263242,
       "word": "女孩不慎落水路人及时救援",
@@ -3777,6 +4041,14 @@
       "onboard_time": 1747733542,
       "rank": 28,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 11240,
+      "num": 364113,
+      "word": "母子大闹机场管理界限该如何划分",
+      "onboard_time": 1747744341,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10560,
