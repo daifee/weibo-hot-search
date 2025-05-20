@@ -1,0 +1,410 @@
+{
+  "runTime": 1747777179501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 139653,
+        "num": 192500,
+        "word": "我国新冠检测阳性率快速上升",
+        "onboard_time": 1747755621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137952,
+        "num": 137952,
+        "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+        "onboard_time": 1747754665,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6945,
+        "num": 106007,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 92890,
+        "num": 92890,
+        "word": "藏海传破2",
+        "onboard_time": 1747762156,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60320,
+        "num": 60320,
+        "word": "林高远",
+        "onboard_time": 1747758142,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57976,
+        "num": 57976,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79928,
+        "num": 55279,
+        "word": "陈奕迅女儿将成为华纳今年重点力捧的女新人",
+        "onboard_time": 1747756102,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46772,
+        "num": 46772,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38702,
+        "num": 38702,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747756522,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34778,
+        "num": 34778,
+        "word": "5月21日2时55分迎来小满",
+        "onboard_time": 1747754904,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88395,
+        "num": 34492,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 10,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 68733,
+        "num": 34422,
+        "word": "教育局回应男生掉化粪池遇难",
+        "onboard_time": 1747772054,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68302,
+        "num": 34108,
+        "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+        "onboard_time": 1747750884,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58842,
+        "num": 33591,
+        "word": "雅安城管回应黄杨家开公司是否报备",
+        "onboard_time": 1747762636,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 45868,
+        "num": 33227,
+        "word": "嫌银行利息低大爷花百万买6斤黄金",
+        "onboard_time": 1747769653,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 43693,
+        "num": 32874,
+        "word": "试飞部队共牺牲32名试飞员",
+        "onboard_time": 1747755504,
+        "rank": 15,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 35806,
+        "num": 32503,
+        "word": "体检查出6种病不必过度治疗",
+        "onboard_time": 1747759639,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32495,
+        "num": 32495,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31056,
+        "num": 31056,
+        "word": "曾黎收下粉丝礼物放包里",
+        "onboard_time": 1747767314,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28476,
+        "num": 30865,
+        "word": "曾黎机场强忍眼泪",
+        "onboard_time": 1747750404,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37854,
+        "num": 30826,
+        "word": "王楚钦说鹰眼给了运动员自证的机会",
+        "onboard_time": 1747759100,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30710,
+        "num": 30710,
+        "word": "上厕所途中不要冲水的原因",
+        "onboard_time": 1747753165,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30687,
+        "num": 30687,
+        "word": "医生眼里无意识的控糖行为",
+        "onboard_time": 1747746442,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26164,
+        "num": 26164,
+        "word": "藏海传收视率",
+        "onboard_time": 1747746862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24264,
+        "num": 24264,
+        "word": "格力确认董明珠孟羽童将合体直播",
+        "onboard_time": 1747752865,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23935,
+        "num": 23935,
+        "word": "20250521",
+        "onboard_time": 1747759219,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 23051,
+        "word": "林高远无缘世乒赛16强",
+        "onboard_time": 1747754844,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 22614,
+        "word": "折腰市占率",
+        "onboard_time": 1747756343,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22445,
+        "num": 22445,
+        "word": "女子被打还击先被认定互殴后改判无罪",
+        "onboard_time": 1747774634,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21164,
+        "num": 22189,
+        "word": "于适登上戛纳红毯",
+        "onboard_time": 1747761737,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29353,
+        "num": 22173,
+        "word": "一个战犯国被美化简直荒谬",
+        "onboard_time": 1747759040,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22138,
+        "num": 22138,
+        "word": "央视梳理王楚钦球拍受损事件",
+        "onboard_time": 1747749024,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 21438,
+        "word": "王楚钦谈球拍事件对自己影响",
+        "onboard_time": 1747760718,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20140,
+        "num": 20140,
+        "word": "迪丽热巴浪漫信号藏在玫瑰",
+        "onboard_time": 1747762936,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19730,
+        "num": 19730,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19623,
+        "num": 19623,
+        "word": "周琦发长文",
+        "onboard_time": 1747759940,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18735,
+        "num": 18735,
+        "word": "景甜穿旗袍拍撕拉片",
+        "onboard_time": 1747752805,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18420,
+        "num": 18420,
+        "word": "肖战回应藏海拿下首杀",
+        "onboard_time": 1747753524,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9916,
+        "num": 18373,
+        "word": "医院回应护士发错药致患者误服数日",
+        "onboard_time": 1747777155,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18329,
+        "num": 18329,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18195,
+        "num": 18195,
+        "word": "变成丧尸之前请脱掉你的旱冰鞋",
+        "onboard_time": 1747766775,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17822,
+        "num": 17822,
+        "word": "钱可以再赚但我再也不会20岁看演出",
+        "onboard_time": 1747755922,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16919,
+        "num": 17821,
+        "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16296,
+        "num": 17814,
+        "word": "酱园弄",
+        "onboard_time": 1747747643,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15619,
+        "num": 17813,
+        "word": "情书",
+        "onboard_time": 1747760599,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15435,
+        "num": 17806,
+        "word": "王楚钦加油",
+        "onboard_time": 1747757544,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14752,
+        "num": 17805,
+        "word": "披荆斩棘的哥哥",
+        "onboard_time": 1747752984,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14029,
+        "num": 17799,
+        "word": "星穹铁道风堇",
+        "onboard_time": 1747764076,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13834,
+        "num": 17795,
+        "word": "于适亮相戛纳电影节红毯",
+        "onboard_time": 1747763957,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12917,
+        "num": 17794,
+        "word": "鹿晗明信片送达",
+        "onboard_time": 1747754844,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代制造业离不开科技赋能#"
+    }
+  }
+}
