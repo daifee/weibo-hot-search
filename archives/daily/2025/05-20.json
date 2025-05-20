@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747736925715,
+  "endTime": 1747737955719,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2075001,
+      "raw_hot": 2255873,
       "num": 341906,
       "word": "化粪池遇难男生遗体3小时后捞出",
       "onboard_time": 1747734322,
@@ -65,6 +65,14 @@
       "onboard_time": 1747730721,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1376145,
+      "num": 954799,
+      "word": "黄杨钿甜不必陷入自证怪圈",
+      "onboard_time": 1747736721,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1304197,
@@ -163,7 +171,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 953159,
+      "raw_hot": 968480,
       "num": 327634,
       "word": "曾黎机场看到粉丝落泪",
       "onboard_time": 1747734562,
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330823,
+      "num": 330823,
+      "word": "妻子3个月16次网购毒物预备杀夫",
+      "onboard_time": 1747730601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329944,
       "num": 329944,
       "word": "520文案",
@@ -779,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287940,
-      "num": 287940,
-      "word": "黄杨钿甜不必陷入自证怪圈",
-      "onboard_time": 1747736721,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285104,
       "num": 231658,
       "word": "女子发现放了两年的酱油析出玻璃渣",
@@ -801,6 +809,14 @@
       "onboard_time": 1747642764,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 283124,
+      "num": 283124,
+      "word": "小牛小庄官宣",
+      "onboard_time": 1747736782,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 275494,
@@ -1163,6 +1179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "张宥浩撕坏了周也的撕拉片",
+      "onboard_time": 1747736901,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204539,
       "num": 204539,
       "word": "蔡徐坤新歌deadman",
@@ -1251,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197527,
+      "num": 276911,
+      "word": "世乒赛混双八强对阵",
+      "onboard_time": 1747736963,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197498,
       "num": 439386,
       "word": "胖都来商场更名盈都来",
@@ -1281,6 +1313,22 @@
       "onboard_time": 1747721420,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195360,
+      "num": 215847,
+      "word": "朴灿烈 爱老虎油",
+      "onboard_time": 1747737442,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194987,
+      "num": 304162,
+      "word": "金价太贵年轻人开始流行租三金结婚",
+      "onboard_time": 1747734142,
+      "rank": 37,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 194324,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1747734982,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192150,
+      "num": 223364,
+      "word": "折腰追剧团",
+      "onboard_time": 1747736782,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 191000,
@@ -1475,20 +1531,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180302,
+      "num": 223793,
+      "word": "魏大勋新剧一人斗一屋老登",
+      "onboard_time": 1747737201,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179417,
       "num": 179417,
       "word": "小猪佩奇妈妈生三胎了",
       "onboard_time": 1747731561,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 177662,
-      "num": 177662,
-      "word": "小牛小庄官宣",
-      "onboard_time": 1747736782,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 177389,
@@ -1651,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159135,
+      "num": 159135,
+      "word": "许昕19岁就跟姚彦表白",
+      "onboard_time": 1747735043,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "存款利率新一轮下调",
@@ -1665,22 +1729,6 @@
       "onboard_time": 1747715124,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156116,
-      "num": 156116,
-      "word": "金价太贵年轻人开始流行租三金结婚",
-      "onboard_time": 1747734142,
-      "rank": 37,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 155955,
-      "num": 155955,
-      "word": "许昕19岁就跟姚彦表白",
-      "onboard_time": 1747735043,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 155515,
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152294,
+      "num": 152294,
+      "word": "有剧拍了为两千五造成文物损失",
+      "onboard_time": 1747737862,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152027,
       "num": 152027,
       "word": "摆摊卖蜜雪冰城柠檬水",
@@ -1761,6 +1817,22 @@
       "onboard_time": 1747722383,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150448,
+      "num": 344012,
+      "word": "凤阳鼓楼坍塌部分建筑为违建",
+      "onboard_time": 1747735942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148308,
+      "num": 148308,
+      "word": "虞书欣全白抹胸裙造型",
+      "onboard_time": 1747737862,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 147271,
@@ -1809,14 +1881,6 @@
       "onboard_time": 1747716922,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 142944,
-      "num": 142944,
-      "word": "折腰追剧团",
-      "onboard_time": 1747736782,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 142308,
@@ -1945,14 +2009,6 @@
       "onboard_time": 1747730002,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 133764,
-      "num": 133764,
-      "word": "张宥浩撕坏了周也的撕拉片",
-      "onboard_time": 1747736901,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 133052,
@@ -2084,7 +2140,7 @@
     },
     {
       "raw_hot": 124713,
-      "num": 226461,
+      "num": 279023,
       "word": "520NBA名人堂球星盲盒",
       "onboard_time": 1747735583,
       "rank": 26,
@@ -2308,7 +2364,7 @@
     },
     {
       "raw_hot": 93994,
-      "num": 229477,
+      "num": 282697,
       "word": "海尔智家和海尔集团什么关系",
       "onboard_time": 1747735583,
       "rank": 25,
@@ -2321,6 +2377,14 @@
       "onboard_time": 1747697119,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93042,
+      "num": 273097,
+      "word": "林诗栋蒯曼说这个比分没想到",
+      "onboard_time": 1747737801,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 93016,
@@ -2379,6 +2443,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 86790,
+      "num": 304731,
+      "word": "今天被王源包圆了",
+      "onboard_time": 1747735641,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86625,
       "num": 377132,
       "word": "白宇520生日送国乒祝福",
@@ -2411,20 +2483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83042,
+      "num": 275533,
+      "word": "林高远4比0西福恩特斯",
+      "onboard_time": 1747737801,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82901,
       "num": 82901,
       "word": "折腰",
       "onboard_time": 1747648884,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82089,
-      "num": 297527,
-      "word": "妻子3个月16次网购毒物预备杀夫",
-      "onboard_time": 1747730601,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81747,
@@ -2457,22 +2529,6 @@
       "onboard_time": 1747714162,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80178,
-      "num": 304731,
-      "word": "今天被王源包圆了",
-      "onboard_time": 1747735641,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 80152,
-      "num": 344012,
-      "word": "凤阳鼓楼坍塌部分建筑为违建",
-      "onboard_time": 1747735942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79681,
@@ -2579,6 +2635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71393,
+      "num": 208086,
+      "word": "苏醒老婆520送腰带",
+      "onboard_time": 1747737922,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71159,
       "num": 71159,
       "word": "张檬儿子满月",
@@ -2683,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65352,
+      "num": 224191,
+      "word": "TTG也拍上撕拉片了",
+      "onboard_time": 1747734261,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64450,
       "num": 428137,
       "word": "微博每小时抽1个5200元锦鲤",
@@ -2753,6 +2825,14 @@
       "onboard_time": 1747673240,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55467,
+      "num": 292492,
+      "word": "海口车辆拖猫事件详细视频",
+      "onboard_time": 1747737683,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55122,
@@ -2828,7 +2908,7 @@
     },
     {
       "raw_hot": 47190,
-      "num": 219378,
+      "num": 268980,
       "word": "一个关于520的冷知识",
       "onboard_time": 1747735942,
       "rank": 28,
@@ -2857,6 +2937,14 @@
       "onboard_time": 1747721242,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45512,
+      "num": 299107,
+      "word": "刘宇宁说夏日歌会见",
+      "onboard_time": 1747735942,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 44952,
@@ -2904,6 +2992,14 @@
       "word": "gogogo出发当美粉咯",
       "onboard_time": 1747707750,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37924,
+      "num": 837147,
+      "word": "高质量发展看天津",
+      "onboard_time": 1747735641,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2955,12 +3051,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 33908,
-      "num": 734230,
-      "word": "高质量发展看天津",
-      "onboard_time": 1747735641,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 33717,
+      "num": 220198,
+      "word": "四种不同基数减肥的小方法",
+      "onboard_time": 1747737082,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 33680,
@@ -3139,14 +3235,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 27010,
-      "num": 299107,
-      "word": "刘宇宁说夏日歌会见",
-      "onboard_time": 1747735942,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25991,
       "num": 383244,
       "word": "如果动植物会说话",
@@ -3243,6 +3331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19868,
+      "num": 284813,
+      "word": "炎症性肠病会癌变吗",
+      "onboard_time": 1747736842,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19642,
+      "num": 318227,
+      "word": "520在微博集卡被宠成胚胎了",
+      "onboard_time": 1747735282,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19380,
       "num": 397408,
       "word": "朋友圈秀恩爱现在已经过时了吗",
@@ -3275,12 +3379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18062,
-      "num": 318227,
-      "word": "520在微博集卡被宠成胚胎了",
-      "onboard_time": 1747735282,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 16914,
+      "num": 219526,
+      "word": "大家等520我等61",
+      "onboard_time": 1747737801,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 16546,
@@ -3296,6 +3400,14 @@
       "word": "PL15对比阵风有何优势",
       "onboard_time": 1747732581,
       "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 16184,
+      "num": 266215,
+      "word": "沙漠边缘种植玫瑰锁边有哪些生态效益",
+      "onboard_time": 1747737082,
+      "rank": 28,
       "category": "科学科普"
     },
     {
@@ -3379,6 +3491,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 11695,
+      "num": 263242,
+      "word": "女孩不慎落水路人及时救援",
+      "onboard_time": 1747737382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11685,
+      "num": 270997,
+      "word": "以军扮难民暗杀巴武装高官",
+      "onboard_time": 1747737082,
+      "rank": 26,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 11652,
       "num": 183384,
       "word": "西班牙称不会恢复与以贸易",
@@ -3409,14 +3537,6 @@
       "onboard_time": 1747710811,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6611,
-      "num": 155971,
-      "word": "炎症性肠病会癌变吗",
-      "onboard_time": 1747736842,
-      "rank": 38,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
