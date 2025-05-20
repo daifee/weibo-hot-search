@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747706380853,
+  "endTime": 1747707745653,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1049494,
+      "num": 392703,
+      "word": "黄杨钿甜弟弟",
+      "onboard_time": 1747698200,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945014,
       "num": 945014,
       "word": "白宇拍到了王楚钦受损的球拍",
@@ -41,14 +49,6 @@
       "onboard_time": 1747671561,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 892935,
-      "num": 392703,
-      "word": "黄杨钿甜弟弟",
-      "onboard_time": 1747698200,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 878400,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761494,
+      "num": 761494,
+      "word": "最近为啥这么热",
+      "onboard_time": 1747702529,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 701780,
       "num": 701780,
       "word": "小伙一年卖出255辆宝马年收入71万",
       "onboard_time": 1747676296,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599338,
+      "num": 599338,
+      "word": "Uzi入选英雄联盟名人堂",
+      "onboard_time": 1747704269,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 564298,
@@ -91,16 +107,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 541659,
-      "num": 541659,
-      "word": "Uzi入选英雄联盟名人堂",
-      "onboard_time": 1747704269,
-      "rank": 3,
-      "category": "电竞"
+      "raw_hot": 545603,
+      "num": 368261,
+      "word": "韩安冉宋浩然凌晨街头亲吻",
+      "onboard_time": 1747706009,
+      "rank": 16,
+      "category": "网红"
     },
     {
-      "raw_hot": 521271,
-      "num": 521271,
+      "raw_hot": 535319,
+      "num": 535319,
       "word": "徐艺洋回应网友关于卫生巾质疑",
       "onboard_time": 1747704691,
       "rank": 4,
@@ -123,7 +139,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 481922,
+      "raw_hot": 500730,
       "num": 396769,
       "word": "王楚钦说幸亏世界杯打了副板",
       "onboard_time": 1747700062,
@@ -131,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 462700,
-      "num": 462700,
-      "word": "最近为啥这么热",
-      "onboard_time": 1747702529,
+      "raw_hot": 480448,
+      "num": 480448,
+      "word": "藏海传破万",
+      "onboard_time": 1747706549,
       "rank": 6,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 456105,
@@ -227,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329944,
+      "num": 329944,
+      "word": "520文案",
+      "onboard_time": 1747703130,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326142,
       "num": 326142,
       "word": "王者荣耀",
@@ -243,15 +267,7 @@
       "category": "游戏,电竞"
     },
     {
-      "raw_hot": 284417,
-      "num": 284417,
-      "word": "泰国DJ与毒枭老大女友有染遭枪杀",
-      "onboard_time": 1747642764,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 279376,
+      "raw_hot": 285104,
       "num": 231658,
       "word": "女子发现放了两年的酱油析出玻璃渣",
       "onboard_time": 1747703071,
@@ -259,20 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277341,
-      "num": 277341,
-      "word": "韩安冉宋浩然凌晨街头亲吻",
-      "onboard_time": 1747706009,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 267829,
-      "num": 267829,
-      "word": "520文案",
-      "onboard_time": 1747703130,
+      "raw_hot": 284417,
+      "num": 284417,
+      "word": "泰国DJ与毒枭老大女友有染遭枪杀",
+      "onboard_time": 1747642764,
       "rank": 17,
-      "category": "情感"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 263369,
@@ -297,6 +305,14 @@
       "onboard_time": 1747662567,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257099,
+      "num": 379964,
+      "word": "对我国公司网络攻击有网络战痕迹",
+      "onboard_time": 1747704930,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244436,
@@ -363,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212207,
+      "num": 212207,
+      "word": "邓超鹿晗的歌真好听",
+      "onboard_time": 1747703731,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212097,
       "num": 199459,
       "word": "狗 这店没我早垮了",
@@ -377,6 +401,14 @@
       "onboard_time": 1747705769,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199558,
+      "num": 199558,
+      "word": "警方通报一科技公司遭境外黑客攻击",
+      "onboard_time": 1747704809,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199328,
@@ -411,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191719,
-      "num": 199484,
-      "word": "邓超鹿晗的歌真好听",
-      "onboard_time": 1747703731,
-      "rank": 24,
-      "category": "音乐"
+      "raw_hot": 192810,
+      "num": 192810,
+      "word": "王楚钦王曼昱等今日出战",
+      "onboard_time": 1747704930,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191000,
@@ -427,12 +459,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190345,
-      "num": 190345,
-      "word": "对我国公司网络攻击有网络战痕迹",
-      "onboard_time": 1747704930,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 188937,
+      "num": 188937,
+      "word": "Uzi回应入选英雄联盟名人堂",
+      "onboard_time": 1747707449,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 183194,
@@ -451,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178707,
-      "num": 178707,
-      "word": "王楚钦王曼昱等今日出战",
-      "onboard_time": 1747704930,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 179914,
+      "num": 1028786,
+      "word": "广州警方对境外黑客案立案调查",
+      "onboard_time": 1747705891,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177015,
@@ -475,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170922,
+      "num": 170922,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170121,
       "num": 170121,
       "word": "Uzi名人堂纪录片",
@@ -483,28 +523,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166235,
-      "num": 166235,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161304,
       "num": 161304,
       "word": "LPR",
       "onboard_time": 1747701030,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161069,
-      "num": 161069,
-      "word": "警方通报一科技公司遭境外黑客攻击",
-      "onboard_time": 1747704809,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161028,
@@ -521,6 +545,22 @@
       "onboard_time": 1747697179,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157135,
+      "num": 157135,
+      "word": "王楚钦说你换我这样的角度思考一下",
+      "onboard_time": 1747706490,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155379,
+      "num": 195890,
+      "word": "2025首场大范围高温来袭",
+      "onboard_time": 1747704210,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152858,
@@ -547,12 +587,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 144518,
-      "num": 144518,
+      "raw_hot": 146477,
+      "num": 146477,
       "word": "貂蝉皮肤",
       "onboard_time": 1747651225,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140886,
+      "num": 140886,
+      "word": "黄石公园附近车祸车上有12名中国公民",
+      "onboard_time": 1747702291,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140072,
@@ -571,20 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134039,
-      "num": 134039,
-      "word": "黄石公园附近车祸车上有12名中国公民",
-      "onboard_time": 1747702291,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 132428,
       "num": 132428,
       "word": "王楚钦说孙颖莎很棒",
       "onboard_time": 1747664668,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131121,
+      "num": 169977,
+      "word": "IU 花书签3",
+      "onboard_time": 1747707390,
+      "rank": 29,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 130733,
@@ -619,11 +667,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129428,
-      "num": 195890,
-      "word": "2025首场大范围高温来袭",
-      "onboard_time": 1747704210,
-      "rank": 27,
+      "raw_hot": 129436,
+      "num": 129436,
+      "word": "100万元房贷30年少还2万",
+      "onboard_time": 1747704629,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124009,
+      "num": 124009,
+      "word": "钙含量比牛奶还高的长寿菜",
+      "onboard_time": 1747707629,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123012,
       "num": 123012,
       "word": "官方通报凤阳鼓楼顶部瓦片脱落",
@@ -643,20 +699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119334,
+      "num": 119334,
+      "word": "央视称多哈世乒赛组织标准待提高",
+      "onboard_time": 1747706369,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117985,
       "num": 117985,
       "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
       "onboard_time": 1747667665,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116234,
-      "num": 1018597,
-      "word": "广州警方对境外黑客案立案调查",
-      "onboard_time": 1747705891,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116108,
@@ -675,20 +731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110972,
+      "num": 110972,
+      "word": "宁德时代港股暗盘开盘涨逾7%",
+      "onboard_time": 1747707449,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110141,
       "num": 110141,
       "word": "张凌赫都歪成这样了你还无动于衷",
       "onboard_time": 1747659026,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109534,
-      "num": 109534,
-      "word": "央视称多哈世乒赛组织标准待提高",
-      "onboard_time": 1747706369,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 104287,
@@ -956,7 +1012,7 @@
     },
     {
       "raw_hot": 25147,
-      "num": 614244,
+      "num": 674484,
       "word": "互联中国公益行动",
       "onboard_time": 1747703850,
       "rank": 2,
