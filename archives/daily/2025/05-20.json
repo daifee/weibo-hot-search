@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747745578870,
+  "endTime": 1747746515146,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1123879,
+      "num": 447444,
+      "word": "掉化粪池遇难学生还有2个月满20岁",
+      "onboard_time": 1747741521,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1107825,
       "num": 1107825,
       "word": "陈奕迅ins报平安",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1042686,
+      "num": 995900,
+      "word": "20250520",
+      "onboard_time": 1747733961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1018894,
       "num": 403144,
       "word": "韩国大妈吐槽中国男人对女生太好",
@@ -187,28 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 972009,
-      "num": 972009,
-      "word": "20250520",
-      "onboard_time": 1747733961,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 968480,
       "num": 408675,
       "word": "曾黎机场看到粉丝落泪",
       "onboard_time": 1747734562,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 965518,
-      "num": 447444,
-      "word": "掉化粪池遇难学生还有2个月满20岁",
-      "onboard_time": 1747741521,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 945014,
@@ -241,6 +241,14 @@
       "onboard_time": 1747664727,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 873535,
+      "num": 873535,
+      "word": "父亲去世留下300万巨债儿子拒还",
+      "onboard_time": 1747744702,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 860490,
@@ -299,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721650,
+      "num": 441996,
+      "word": "日本女高被迫卖淫10天接待100人",
+      "onboard_time": 1747740442,
+      "rank": 36,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 714635,
       "num": 714635,
       "word": "业内人士称王楚钦球拍受损或是意外",
       "onboard_time": 1747719802,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 705458,
-      "num": 431215,
-      "word": "日本女高被迫卖淫10天接待100人",
-      "onboard_time": 1747740442,
-      "rank": 36,
-      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 704129,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503569,
+      "num": 503569,
+      "word": "藏海极限一换一拿下首杀",
+      "onboard_time": 1747735162,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500730,
       "num": 396769,
       "word": "王楚钦说幸亏世界杯打了副板",
@@ -536,14 +552,6 @@
       "word": "折腰预告",
       "onboard_time": 1747668024,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 488848,
-      "num": 488848,
-      "word": "藏海极限一换一拿下首杀",
-      "onboard_time": 1747735162,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -779,14 +787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 359177,
-      "num": 359177,
-      "word": "父亲去世留下300万巨债儿子拒还",
-      "onboard_time": 1747744702,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357045,
       "num": 397679,
       "word": "登陆少年团撕拉片",
@@ -857,6 +857,14 @@
       "onboard_time": 1747742302,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314340,
+      "num": 314340,
+      "word": "阴阳师",
+      "onboard_time": 1747745123,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 310115,
@@ -931,6 +939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 282081,
+      "num": 426396,
+      "word": "藏海传花半年打造实景平津侯府",
+      "onboard_time": 1747743381,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280925,
       "num": 415582,
       "word": "迪丽热巴学姐妆",
@@ -987,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249646,
-      "num": 249646,
-      "word": "阴阳师",
-      "onboard_time": 1747745123,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 248193,
       "num": 248193,
       "word": "国际乒联表示确保类似事件不再发生",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1747718902,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244647,
-      "num": 426396,
-      "word": "藏海传花半年打造实景平津侯府",
-      "onboard_time": 1747743381,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 244436,
@@ -1211,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216741,
+      "num": 216741,
+      "word": "张宥浩晒和周也撕拉片合影",
+      "onboard_time": 1747745783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216211,
       "num": 335087,
       "word": "程靖淇说王楚钦已经在克制",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1747723822,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209245,
+      "num": 444776,
+      "word": "同学曾用长标枪施救掉化粪池大学生",
+      "onboard_time": 1747744463,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209186,
@@ -1627,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186808,
+      "num": 186808,
+      "word": "怎么会有男女主看手就有cp感的",
+      "onboard_time": 1747745362,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185581,
       "num": 217769,
       "word": "丁禹兮中餐厅出发路透",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1747713023,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184475,
+      "num": 184475,
+      "word": "我看藏海传第7集一大哭",
+      "onboard_time": 1747746322,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 184188,
@@ -1787,12 +1819,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173272,
+      "num": 173272,
+      "word": "蔡文静把徐志胜王子奇聊到闭麦",
+      "onboard_time": 1747746022,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172186,
       "num": 172186,
       "word": "肖指导赛后去找裁判了",
       "onboard_time": 1747669644,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171597,
+      "num": 429101,
+      "word": "网传歌手2025第二期歌单",
+      "onboard_time": 1747741163,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 170198,
@@ -1939,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159049,
+      "num": 186703,
+      "word": "夏季轻断食7天高效燃脂食谱",
+      "onboard_time": 1747746081,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "存款利率新一轮下调",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1747715124,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155565,
-      "num": 444776,
-      "word": "同学曾用长标枪施救掉化粪池大学生",
-      "onboard_time": 1747744463,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155515,
@@ -1995,14 +2043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 155250,
-      "num": 155250,
-      "word": "怎么会有男女主看手就有cp感的",
-      "onboard_time": 1747745362,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155146,
       "num": 155146,
       "word": "貂蝉登陆时尚芭莎双刊",
@@ -2011,12 +2051,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 153962,
-      "num": 429101,
-      "word": "网传歌手2025第二期歌单",
-      "onboard_time": 1747741163,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 154609,
+      "num": 154609,
+      "word": "多名球员为王楚钦发声",
+      "onboard_time": 1747746200,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 153585,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1747715063,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152994,
+      "num": 152994,
+      "word": "医生眼里无意识的控糖行为",
+      "onboard_time": 1747746442,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152858,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1747739841,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148592,
+      "num": 148592,
+      "word": "牛泽乾为王楚钦发声",
+      "onboard_time": 1747745962,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 148308,
@@ -2603,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105752,
+      "num": 448762,
+      "word": "婆婆给儿买房还不起债小夫妻无责",
+      "onboard_time": 1747745483,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104287,
       "num": 104287,
       "word": "张子枫戛纳电影节造型",
@@ -2811,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83195,
+      "num": 200681,
+      "word": "福建一退休教师酒店泡澡意外去世",
+      "onboard_time": 1747746322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83042,
       "num": 275533,
       "word": "林高远4比0西福恩特斯",
@@ -2897,6 +2969,14 @@
       "onboard_time": 1747697179,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75860,
+      "num": 279182,
+      "word": "必须熬夜上半夜熬还是下半夜熬",
+      "onboard_time": 1747746200,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75840,
@@ -3067,14 +3147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66388,
-      "num": 150503,
-      "word": "婆婆给儿买房还不起债小夫妻无责",
-      "onboard_time": 1747745483,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66165,
       "num": 182327,
       "word": "烟台救人小伙姜昭鹏回应未来打算",
@@ -3163,12 +3235,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58817,
+      "num": 202818,
+      "word": "俄选手破纪录因国旗违规成绩无效",
+      "onboard_time": 1747745783,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 58697,
       "num": 58697,
       "word": "一辈子的爱什么样",
       "onboard_time": 1747678276,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58069,
+      "num": 435188,
+      "word": "覃海洋50米蛙冠军",
+      "onboard_time": 1747745182,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 57613,
@@ -3211,12 +3299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56477,
+      "num": 191812,
+      "word": "向鱼520对个暗号",
+      "onboard_time": 1747746322,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55122,
       "num": 55122,
       "word": "王九龙 张九龄",
       "onboard_time": 1747662805,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53711,
+      "num": 186725,
+      "word": "科学家发现精子温控开关",
+      "onboard_time": 1747746145,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 52898,
@@ -3340,7 +3444,7 @@
     },
     {
       "raw_hot": 45127,
-      "num": 842293,
+      "num": 926364,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
       "rank": 2,
@@ -3379,7 +3483,7 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 42922,
+      "raw_hot": 42987,
       "num": 249749,
       "word": "川大撤回聘用日本考古学家通知",
       "onboard_time": 1747737683,
@@ -3617,14 +3721,6 @@
       "onboard_time": 1747723582,
       "rank": 29,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 29073,
-      "num": 435188,
-      "word": "覃海洋50米蛙冠军",
-      "onboard_time": 1747745182,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 28765,
@@ -4081,6 +4177,22 @@
       "onboard_time": 1747710811,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7645,
+      "num": 291088,
+      "word": "营养不良会致命吗",
+      "onboard_time": 1747746081,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2027,
+      "num": 203170,
+      "word": "梁靖崑vs费雷塔斯",
+      "onboard_time": 1747669761,
+      "rank": 27,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
