@@ -1,0 +1,410 @@
+{
+  "runTime": 1747784310074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1063027,
+        "num": 1063027,
+        "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+        "onboard_time": 1747754665,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653045,
+        "num": 653045,
+        "word": "我国新冠检测阳性率快速上升",
+        "onboard_time": 1747755621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18938,
+        "num": 545697,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 515893,
+        "num": 515893,
+        "word": "521",
+        "onboard_time": 1747783100,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373703,
+        "num": 373703,
+        "word": "小满",
+        "onboard_time": 1747783580,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357522,
+        "num": 357522,
+        "word": "雅安城管回应黄杨家开公司是否报备",
+        "onboard_time": 1747762636,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 356135,
+        "num": 356135,
+        "word": "藏海传破2",
+        "onboard_time": 1747762156,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339710,
+        "num": 339710,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338475,
+        "num": 338475,
+        "word": "陈奕迅女儿将成为华纳今年重点力捧的女新人",
+        "onboard_time": 1747756102,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263340,
+        "num": 307950,
+        "word": "5月21日2时55分迎来小满",
+        "onboard_time": 1747754904,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303712,
+        "num": 303712,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 10,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 273638,
+        "num": 273638,
+        "word": "格力确认董明珠孟羽童将合体直播",
+        "onboard_time": 1747752865,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221726,
+        "num": 221726,
+        "word": "嫌银行利息低大爷花百万买6斤黄金",
+        "onboard_time": 1747769653,
+        "rank": 12,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 208340,
+        "num": 208340,
+        "word": "梁靖崑黄友政2比3林昀儒高承睿",
+        "onboard_time": 1747783100,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206805,
+        "num": 206805,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747756522,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172455,
+        "num": 172455,
+        "word": "曾黎机场强忍眼泪",
+        "onboard_time": 1747750404,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158805,
+        "num": 158805,
+        "word": "女子被打还击先被认定互殴后改判无罪",
+        "onboard_time": 1747774634,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "林高远",
+        "onboard_time": 1747758142,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126424,
+        "num": 129668,
+        "word": "种地吧",
+        "onboard_time": 1747783460,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 128983,
+        "word": "外贸企业发货订单排到7月",
+        "onboard_time": 1747783580,
+        "rank": 19,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 128883,
+        "word": "医生眼里无意识的控糖行为",
+        "onboard_time": 1747746442,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128626,
+        "num": 128626,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124161,
+        "num": 124161,
+        "word": "试飞部队共牺牲32名试飞员",
+        "onboard_time": 1747755504,
+        "rank": 22,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 121885,
+        "num": 121885,
+        "word": "鹰眼",
+        "onboard_time": 1747783580,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101028,
+        "num": 101028,
+        "word": "王楚钦说鹰眼给了运动员自证的机会",
+        "onboard_time": 1747759100,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100900,
+        "num": 100900,
+        "word": "金价",
+        "onboard_time": 1747783819,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84483,
+        "num": 97676,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96121,
+        "num": 96121,
+        "word": "十个勤天发文祝蒋敦豪生日快乐",
+        "onboard_time": 1747783159,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90502,
+        "num": 90502,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76959,
+        "num": 87683,
+        "word": "曾黎收下粉丝礼物放包里",
+        "onboard_time": 1747767314,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85918,
+        "num": 85918,
+        "word": "521遇上小满",
+        "onboard_time": 1747782799,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129499,
+        "num": 84882,
+        "word": "28岁作家卜文哲去世",
+        "onboard_time": 1747782378,
+        "rank": 31,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 432296,
+        "num": 84091,
+        "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+        "onboard_time": 1747750884,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88804,
+        "num": 83549,
+        "word": "体检查出6种病不必过度治疗",
+        "onboard_time": 1747759639,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80604,
+        "num": 82245,
+        "word": "折腰市占率",
+        "onboard_time": 1747756343,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 81199,
+        "word": "教育局回应男生掉化粪池遇难",
+        "onboard_time": 1747772054,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80367,
+        "num": 80367,
+        "word": "林高远无缘世乒赛16强",
+        "onboard_time": 1747754844,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73992,
+        "num": 73992,
+        "word": "林诗栋谈王楚钦球拍受损",
+        "onboard_time": 1747783460,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73719,
+        "num": 73719,
+        "word": "央视梳理王楚钦球拍受损事件",
+        "onboard_time": 1747749024,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72220,
+        "num": 72220,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68231,
+        "num": 68231,
+        "word": "高热量垃圾食品的解药",
+        "onboard_time": 1747783580,
+        "rank": 40,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 67667,
+        "num": 67667,
+        "word": "肖战回应藏海拿下首杀",
+        "onboard_time": 1747753524,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65884,
+        "num": 65884,
+        "word": "上厕所途中不要冲水的原因",
+        "onboard_time": 1747753165,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63019,
+        "num": 63019,
+        "word": "曼城3比1伯恩茅斯",
+        "onboard_time": 1747784121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59617,
+        "num": 59617,
+        "word": "张子枫戛纳红毯首秀造型",
+        "onboard_time": 1747784061,
+        "rank": 44,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 59240,
+        "num": 59240,
+        "word": "钱可以再赚但我再也不会20岁看演出",
+        "onboard_time": 1747755922,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56348,
+        "num": 56348,
+        "word": "荷兰阿尔兹海默症小镇 楚门的世界",
+        "onboard_time": 1747779857,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54937,
+        "num": 54937,
+        "word": "医院回应护士发错药致患者误服数日",
+        "onboard_time": 1747777155,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54587,
+        "num": 54587,
+        "word": "周琦发长文",
+        "onboard_time": 1747759940,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53995,
+        "num": 53995,
+        "word": "一个战犯国被美化简直荒谬",
+        "onboard_time": 1747759040,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代制造业离不开科技赋能#"
+    }
+  }
+}
