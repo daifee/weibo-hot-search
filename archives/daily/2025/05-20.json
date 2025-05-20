@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747746515146,
+  "endTime": 1747748270338,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1247752,
+      "num": 995900,
+      "word": "20250520",
+      "onboard_time": 1747733961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1173468,
       "num": 474213,
       "word": "黄杨钿甜",
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1042686,
-      "num": 995900,
-      "word": "20250520",
-      "onboard_time": 1747733961,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1018894,
       "num": 403144,
       "word": "韩国大妈吐槽中国男人对女生太好",
@@ -219,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 942150,
+      "num": 942150,
+      "word": "父亲去世留下300万巨债儿子拒还",
+      "onboard_time": 1747744702,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 923570,
       "num": 923570,
       "word": "交通局职工被曝与两名女生办婚礼",
@@ -241,14 +249,6 @@
       "onboard_time": 1747664727,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 873535,
-      "num": 873535,
-      "word": "父亲去世留下300万巨债儿子拒还",
-      "onboard_time": 1747744702,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 860490,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391200,
+      "num": 391200,
+      "word": "藏海传收视率",
+      "onboard_time": 1747746862,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390015,
       "num": 390015,
       "word": "陈奕迅",
@@ -915,6 +923,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295590,
+      "num": 295590,
+      "word": "王楚钦的球拍可能是这么被弄坏的",
+      "onboard_time": 1747747164,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295476,
+      "num": 330010,
+      "word": "酱园弄",
+      "onboard_time": 1747747643,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 294208,
+      "num": 426396,
+      "word": "藏海传花半年打造实景平津侯府",
+      "onboard_time": 1747743381,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286039,
       "num": 449520,
       "word": "结石姐看到梁翘柏就放心了",
@@ -939,20 +971,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 282081,
-      "num": 426396,
-      "word": "藏海传花半年打造实景平津侯府",
-      "onboard_time": 1747743381,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280925,
       "num": 415582,
       "word": "迪丽热巴学姐妆",
       "onboard_time": 1747742302,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278423,
+      "num": 278423,
+      "word": "医生眼里无意识的控糖行为",
+      "onboard_time": 1747746442,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 277494,
+      "num": 279182,
+      "word": "必须熬夜上半夜熬还是下半夜熬",
+      "onboard_time": 1747746200,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275494,
@@ -1067,12 +1107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239046,
+      "num": 326610,
+      "word": "联想拯救者全系新品开售",
+      "onboard_time": 1747746982,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237057,
       "num": 237057,
       "word": "主裁说王楚钦球拍没问题是掩饰吗",
       "onboard_time": 1747708170,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236656,
+      "num": 352129,
+      "word": "警方通报男孩被父亲管教打骂致死",
+      "onboard_time": 1747747942,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 236345,
@@ -1467,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198057,
+      "num": 198057,
+      "word": "我国成功发射中星3B卫星",
+      "onboard_time": 1747746685,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197527,
       "num": 276911,
       "word": "世乒赛混双八强对阵",
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192051,
+      "num": 192051,
+      "word": "迪丽热巴用玫瑰干杯",
+      "onboard_time": 1747746982,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191293,
       "num": 439480,
       "word": "宋威龙顶级骨相是这样的",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1747704871,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190487,
+      "num": 190487,
+      "word": "CBA",
+      "onboard_time": 1747742182,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 190368,
@@ -1867,6 +1947,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 168759,
+      "num": 168759,
+      "word": "藏海传",
+      "onboard_time": 1747654403,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168382,
       "num": 168382,
       "word": "真是一场酣畅淋漓的已读乱回",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1747721001,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "Uzi进入名人堂后做的第一件事",
+      "onboard_time": 1747748244,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 161882,
@@ -2011,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158211,
+      "num": 337249,
+      "word": "掉化粪池遇难男生父母在家务农",
+      "onboard_time": 1747746620,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157183,
       "num": 217386,
       "word": "光遇",
@@ -2065,14 +2169,6 @@
       "onboard_time": 1747715063,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152994,
-      "num": 152994,
-      "word": "医生眼里无意识的控糖行为",
-      "onboard_time": 1747746442,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152858,
@@ -2169,14 +2265,6 @@
       "onboard_time": 1747651225,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146472,
-      "num": 146472,
-      "word": "CBA",
-      "onboard_time": 1747742182,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 145599,
@@ -2297,6 +2385,14 @@
       "onboard_time": 1747744402,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137494,
+      "num": 190909,
+      "word": "科学家发现精子温控开关",
+      "onboard_time": 1747746145,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 136885,
@@ -2579,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114764,
+      "num": 200681,
+      "word": "福建一退休教师酒店泡澡意外去世",
+      "onboard_time": 1747746322,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112772,
       "num": 291806,
       "word": "刘亦菲登世界时尚权威媒体日报封面",
@@ -2699,14 +2803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100167,
-      "num": 100167,
-      "word": "藏海传",
-      "onboard_time": 1747654403,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97328,
       "num": 97328,
       "word": "胖东来多位高管和员工发声",
@@ -2776,6 +2872,14 @@
       "word": "成毅宋韵",
       "onboard_time": 1747728562,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92005,
+      "num": 293619,
+      "word": "苏醒老婆希望他裤子不要再掉了",
+      "onboard_time": 1747744282,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2875,14 +2979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83195,
-      "num": 200681,
-      "word": "福建一退休教师酒店泡澡意外去世",
-      "onboard_time": 1747746322,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83042,
       "num": 275533,
       "word": "林高远4比0西福恩特斯",
@@ -2891,12 +2987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82597,
+      "num": 358162,
+      "word": "iQOO新品价格",
+      "onboard_time": 1747746923,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82576,
       "num": 427115,
       "word": "周雨谈王楚钦球拍受损",
       "onboard_time": 1747745182,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82505,
+      "num": 202818,
+      "word": "俄选手破纪录因国旗违规成绩无效",
+      "onboard_time": 1747745783,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 81747,
@@ -2969,14 +3081,6 @@
       "onboard_time": 1747697179,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75860,
-      "num": 279182,
-      "word": "必须熬夜上半夜熬还是下半夜熬",
-      "onboard_time": 1747746200,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75840,
@@ -3235,14 +3339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 58817,
-      "num": 202818,
-      "word": "俄选手破纪录因国旗违规成绩无效",
-      "onboard_time": 1747745783,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 58697,
       "num": 58697,
       "word": "一辈子的爱什么样",
@@ -3315,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53711,
-      "num": 186725,
-      "word": "科学家发现精子温控开关",
-      "onboard_time": 1747746145,
-      "rank": 38,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 52898,
       "num": 52898,
       "word": "孙杨第八",
@@ -3387,6 +3475,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 47444,
+      "num": 288874,
+      "word": "站姿对身体和面部的影响有多大",
+      "onboard_time": 1747747882,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 47293,
       "num": 223403,
       "word": "各地520大屏文案又上大分",
@@ -3443,8 +3539,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45491,
+      "num": 190583,
+      "word": "清清520送大家一个苹果",
+      "onboard_time": 1747744763,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45127,
-      "num": 926364,
+      "num": 958537,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
       "rank": 2,
@@ -3643,6 +3747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32174,
+      "num": 323654,
+      "word": "职场性侵被害人艰难的工伤认定",
+      "onboard_time": 1747747343,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31568,
       "num": 674484,
       "word": "互联中国公益行动",
@@ -3755,12 +3867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28029,
+      "num": 281874,
+      "word": "多方回应文保单位碑前有多个垃圾桶",
+      "onboard_time": 1747747643,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 27786,
       "num": 872720,
       "word": "北京范儿",
       "onboard_time": 1747730363,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27749,
+      "num": 280682,
+      "word": "分分钟写出来的民谣没人再买账",
+      "onboard_time": 1747746923,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 27662,
@@ -3979,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16377,
+      "num": 200647,
+      "word": "孙杨的520礼物",
+      "onboard_time": 1747748123,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16340,
       "num": 376011,
       "word": "PL15对比阵风有何优势",
@@ -4059,6 +4195,14 @@
       "category": "音乐,音乐"
     },
     {
+      "raw_hot": 14006,
+      "num": 323134,
+      "word": "营养不良会致命吗",
+      "onboard_time": 1747746081,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13951,
       "num": 211577,
       "word": "张核子限高次日即被解除",
@@ -4073,6 +4217,14 @@
       "onboard_time": 1747743442,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 13814,
+      "num": 277710,
+      "word": "凤阳鼓楼坍塌内部有文物受损了吗",
+      "onboard_time": 1747747043,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13602,
@@ -4163,6 +4315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9909,
+      "num": 286729,
+      "word": "湖南一女子因坐错车堵高铁门",
+      "onboard_time": 1747747882,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9878,
       "num": 214955,
       "word": "新型Z9M直升机都做了哪些技术升级",
@@ -4177,14 +4337,6 @@
       "onboard_time": 1747710811,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7645,
-      "num": 291088,
-      "word": "营养不良会致命吗",
-      "onboard_time": 1747746081,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2027,
