@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747718752450,
+  "endTime": 1747719791849,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304197,
+      "num": 935146,
+      "word": "四川慈善总会回应黄杨钿甜耳环事件",
+      "onboard_time": 1747716982,
+      "rank": 7,
+      "category": "辟谣/通报,艺人"
+    },
+    {
       "raw_hot": 1299694,
       "num": 1299694,
       "word": "王楚钦孙颖莎目标是复刻杯",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1049494,
-      "num": 434519,
+      "num": 557832,
       "word": "黄杨钿甜弟弟",
       "onboard_time": 1747698200,
       "rank": 10,
@@ -635,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 839414,
+      "num": 839414,
+      "word": "刘宇宁扫楼又跳九万字了",
+      "onboard_time": 1747716023,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837135,
       "num": 837135,
       "word": "陈梦生理期痛到要吃止痛药",
@@ -665,14 +681,6 @@
       "onboard_time": 1747713501,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 817277,
-      "num": 817277,
-      "word": "刘宇宁扫楼又跳九万字了",
-      "onboard_time": 1747716023,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 814672,
@@ -889,14 +897,6 @@
       "onboard_time": 1747661064,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 709577,
-      "num": 709577,
-      "word": "四川慈善总会回应黄杨钿甜耳环事件",
-      "onboard_time": 1747716982,
-      "rank": 7,
-      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 702642,
@@ -1147,12 +1147,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 585042,
+      "num": 585042,
+      "word": "新加坡男星多次性侵未成年判40个月",
+      "onboard_time": 1747719023,
+      "rank": 8,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 576277,
       "num": 467747,
       "word": "折腰赘婿被同一个导游坑了",
       "onboard_time": 1747618942,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574671,
+      "num": 574671,
+      "word": "院长当内鬼量身定做招标方案",
+      "onboard_time": 1747715364,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 570627,
@@ -1227,12 +1243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540735,
+      "num": 540735,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540089,
       "num": 540089,
       "word": "偷加洗手液女孩家长与博主和解",
       "onboard_time": 1747654103,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539368,
+      "num": 539368,
+      "word": "高校通报学生掉化粪池遇难",
+      "onboard_time": 1747717403,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 535319,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1747643546,
       "rank": 35,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 518630,
-      "num": 518630,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 515067,
@@ -1395,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 466956,
-      "num": 466956,
-      "word": "院长当内鬼量身定做招标方案",
-      "onboard_time": 1747715364,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 466921,
       "num": 466921,
       "word": "孙杨退赛100自",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1747548681,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453705,
+      "num": 304415,
+      "word": "今天好多明星发红包",
+      "onboard_time": 1747716263,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 450327,
@@ -1769,14 +1793,6 @@
       "onboard_time": 1747660283,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373336,
-      "num": 476654,
-      "word": "高校通报学生掉化粪池遇难",
-      "onboard_time": 1747717403,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 370687,
@@ -2131,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301697,
+      "num": 301697,
+      "word": "女子唇部打针数日后入院抢救",
+      "onboard_time": 1747717764,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301136,
       "num": 301136,
       "word": "刘亦菲的全英文采访",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1747545749,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294621,
+      "num": 294621,
+      "word": "520红包",
+      "onboard_time": 1747718422,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 292815,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1747535609,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281950,
-      "num": 281950,
-      "word": "今天好多明星发红包",
-      "onboard_time": 1747716263,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 278702,
@@ -2664,6 +2688,14 @@
       "word": "李晟参加浪姐申请了五次",
       "onboard_time": 1747666645,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244900,
+      "num": 244900,
+      "word": "宁静夸孟子义漂亮",
+      "onboard_time": 1747718902,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3291,7 +3323,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208674,
+      "raw_hot": 209186,
       "num": 228682,
       "word": "小乔生气才是真正的难哄",
       "onboard_time": 1747717884,
@@ -3532,7 +3564,7 @@
     },
     {
       "raw_hot": 202658,
-      "num": 286480,
+      "num": 312709,
       "word": "吴磊居家白月光氛围感",
       "onboard_time": 1747717642,
       "rank": 20,
@@ -4315,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184783,
+      "num": 184783,
+      "word": "谁说仙侠只能仙气飘飘不能科技感",
+      "onboard_time": 1747718482,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184597,
       "num": 184597,
       "word": "终于有剧拍出了不是嘶吼式哭戏",
@@ -4329,14 +4369,6 @@
       "onboard_time": 1747713023,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184116,
-      "num": 184116,
-      "word": "谁说仙侠只能仙气飘飘不能科技感",
-      "onboard_time": 1747718482,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 184043,
@@ -4753,6 +4785,14 @@
       "onboard_time": 1747550841,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168382,
+      "num": 168382,
+      "word": "真是一场酣畅淋漓的已读乱回",
+      "onboard_time": 1747719562,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 168370,
@@ -5555,6 +5595,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145795,
+      "num": 145795,
+      "word": "曝驾车拖猫女子是宠物友好餐厅厨师",
+      "onboard_time": 1747718962,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145599,
+      "num": 145599,
+      "word": "张杰厦门抢票",
+      "onboard_time": 1747718782,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145584,
       "num": 145584,
       "word": "曹颖在浪姐搞50岁养成系",
@@ -5673,6 +5729,14 @@
       "onboard_time": 1747543231,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 142308,
+      "num": 142308,
+      "word": "李在明在防弹玻璃中间发表竞选演讲",
+      "onboard_time": 1747718122,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142208,
@@ -6593,6 +6657,14 @@
       "onboard_time": 1747561461,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120304,
+      "num": 173965,
+      "word": "不要把自己经验无偿分享给别人",
+      "onboard_time": 1747719382,
+      "rank": 38,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 120168,
@@ -7955,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75840,
+      "num": 264961,
+      "word": "孙杨受肩伤影响很大",
+      "onboard_time": 1747719442,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75791,
       "num": 75791,
       "word": "赵磊 此刻我拥有了一切",
@@ -8097,14 +8177,6 @@
       "onboard_time": 1747712420,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71587,
-      "num": 293929,
-      "word": "女子唇部打针数日后入院抢救",
-      "onboard_time": 1747717764,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71441,
@@ -8339,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61663,
+      "num": 426308,
+      "word": "大部分卫生巾品牌是代工",
+      "onboard_time": 1747717764,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 61609,
       "num": 282900,
       "word": "戈登和库里的伤势有什么区别",
@@ -8568,6 +8648,14 @@
       "word": "祝你像姐一样",
       "onboard_time": 1747638744,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52844,
+      "num": 426431,
+      "word": "520肖战行走的粉色画报",
+      "onboard_time": 1747717642,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -8987,14 +9075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38421,
-      "num": 426431,
-      "word": "520肖战行走的粉色画报",
-      "onboard_time": 1747717642,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38355,
       "num": 336596,
       "word": "gogogo出发当美粉咯",
@@ -9033,14 +9113,6 @@
       "onboard_time": 1747561402,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36478,
-      "num": 426308,
-      "word": "大部分卫生巾品牌是代工",
-      "onboard_time": 1747717764,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 36350,
@@ -9129,6 +9201,14 @@
       "onboard_time": 1747523897,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33313,
+      "num": 318718,
+      "word": "本轮新冠预计什么时候结束",
+      "onboard_time": 1747719083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33244,
@@ -9315,6 +9395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27662,
+      "num": 323224,
+      "word": "为什么年轻人用搞笑元素示爱520",
+      "onboard_time": 1747718241,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 27512,
       "num": 55611,
       "word": "于适贵阳音乐节舞台",
@@ -9435,14 +9523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24359,
-      "num": 289664,
-      "word": "为什么年轻人用搞笑元素示爱520",
-      "onboard_time": 1747718241,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 24117,
       "num": 155225,
       "word": "印巴之战照亮亚洲水资源危机",
@@ -9481,6 +9561,14 @@
       "onboard_time": 1747542690,
       "rank": 39,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 23298,
+      "num": 331944,
+      "word": "起猛了王心凌言承旭合体了",
+      "onboard_time": 1747719260,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 23234,
@@ -9577,6 +9665,14 @@
       "onboard_time": 1747524559,
       "rank": 9,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 21432,
+      "num": 350628,
+      "word": "居民称凤阳鼓楼去年因漏水更换瓦片",
+      "onboard_time": 1747719322,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21164,

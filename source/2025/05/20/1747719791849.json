@@ -1,0 +1,410 @@
+{
+  "runTime": 1747719791849,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 142298,
+        "num": 1022767,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1304197,
+        "num": 935146,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 1,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 48385,
+        "num": 860569,
+        "word": "网警提醒浪漫互动个人信息要保密",
+        "onboard_time": 1747713262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030195,
+        "num": 853492,
+        "word": "孙颖莎说第一场她的球拍也有问题",
+        "onboard_time": 1747713803,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839414,
+        "num": 839414,
+        "word": "刘宇宁扫楼又跳九万字了",
+        "onboard_time": 1747716023,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749336,
+        "num": 749336,
+        "word": "钟南山对新冠病毒最新判断",
+        "onboard_time": 1747710450,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704238,
+        "num": 704238,
+        "word": "中餐厅出发路透",
+        "onboard_time": 1747713501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607580,
+        "num": 607580,
+        "word": "女子回应错过航班哭喊耽误孩子考公",
+        "onboard_time": 1747712602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585042,
+        "num": 585042,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 8,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 574671,
+        "num": 574671,
+        "word": "院长当内鬼量身定做招标方案",
+        "onboard_time": 1747715364,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557832,
+        "num": 557832,
+        "word": "黄杨钿甜弟弟",
+        "onboard_time": 1747698200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540735,
+        "num": 540735,
+        "word": "2025520",
+        "onboard_time": 1747700482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539368,
+        "num": 539368,
+        "word": "高校通报学生掉化粪池遇难",
+        "onboard_time": 1747717403,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 350783,
+        "num": 350783,
+        "word": "李艾录爸爸当家穿的全是男装",
+        "onboard_time": 1747715184,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21432,
+        "num": 350628,
+        "word": "居民称凤阳鼓楼去年因漏水更换瓦片",
+        "onboard_time": 1747719322,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52844,
+        "num": 338577,
+        "word": "520肖战行走的粉色画报",
+        "onboard_time": 1747717642,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387808,
+        "num": 332431,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 331944,
+        "word": "起猛了王心凌言承旭合体了",
+        "onboard_time": 1747719260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27662,
+        "num": 323224,
+        "word": "为什么年轻人用搞笑元素示爱520",
+        "onboard_time": 1747718241,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 33313,
+        "num": 318718,
+        "word": "本轮新冠预计什么时候结束",
+        "onboard_time": 1747719083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194140,
+        "num": 312709,
+        "word": "吴磊居家白月光氛围感",
+        "onboard_time": 1747717642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453705,
+        "num": 304415,
+        "word": "今天好多明星发红包",
+        "onboard_time": 1747716263,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301697,
+        "num": 301697,
+        "word": "女子唇部打针数日后入院抢救",
+        "onboard_time": 1747717764,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294621,
+        "num": 294621,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75840,
+        "num": 264961,
+        "word": "孙杨受肩伤影响很大",
+        "onboard_time": 1747719442,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244900,
+        "num": 244900,
+        "word": "宁静夸孟子义漂亮",
+        "onboard_time": 1747718902,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230918,
+        "num": 230918,
+        "word": "刘亦菲的全英文采访",
+        "onboard_time": 1747716203,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225567,
+        "num": 225567,
+        "word": "blueglass 拉肚子",
+        "onboard_time": 1747717103,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198693,
+        "num": 222635,
+        "word": "肖战回复周奇",
+        "onboard_time": 1747718241,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166908,
+        "num": 222107,
+        "word": "印度集中展示巴军残骸",
+        "onboard_time": 1747713443,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16343,
+        "num": 222037,
+        "word": "前庭训练对缓解眩晕症的效果如何",
+        "onboard_time": 1747717285,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222017,
+        "num": 222017,
+        "word": "RNG恭喜Uzi",
+        "onboard_time": 1747710450,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209186,
+        "num": 209186,
+        "word": "小乔生气才是真正的难哄",
+        "onboard_time": 1747717884,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205432,
+        "num": 205432,
+        "word": "多哈世乒赛组织再出漏洞",
+        "onboard_time": 1747716203,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200829,
+        "num": 200829,
+        "word": "上海近4成户籍人口60岁以上",
+        "onboard_time": 1747715244,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184783,
+        "num": 184783,
+        "word": "谁说仙侠只能仙气飘飘不能科技感",
+        "onboard_time": 1747718482,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61663,
+        "num": 181551,
+        "word": "大部分卫生巾品牌是代工",
+        "onboard_time": 1747717764,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 179304,
+        "num": 179304,
+        "word": "很多闷声赚钱的行业都是自由职业",
+        "onboard_time": 1747713803,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120304,
+        "num": 173965,
+        "word": "不要把自己经验无偿分享给别人",
+        "onboard_time": 1747719382,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 172708,
+        "num": 172708,
+        "word": "国际乒联回应王楚钦球拍受损",
+        "onboard_time": 1747697060,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168382,
+        "num": 168382,
+        "word": "真是一场酣畅淋漓的已读乱回",
+        "onboard_time": 1747719562,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 167735,
+        "num": 167735,
+        "word": "最近为啥这么热",
+        "onboard_time": 1747702529,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151547,
+        "num": 151547,
+        "word": "1年期定存跌破1%",
+        "onboard_time": 1747712241,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 149708,
+        "word": "穿虞书欣同款腰精裤旺自己",
+        "onboard_time": 1747714284,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149663,
+        "num": 149663,
+        "word": "520文案",
+        "onboard_time": 1747703130,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145795,
+        "num": 145795,
+        "word": "曝驾车拖猫女子是宠物友好餐厅厨师",
+        "onboard_time": 1747718962,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145599,
+        "num": 145599,
+        "word": "张杰厦门抢票",
+        "onboard_time": 1747718782,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142308,
+        "num": 142308,
+        "word": "李在明在防弹玻璃中间发表竞选演讲",
+        "onboard_time": 1747718122,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137656,
+        "num": 137656,
+        "word": "小米芯片",
+        "onboard_time": 1747713501,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135810,
+        "num": 135810,
+        "word": "新余钢铁回应虞书欣家人传闻",
+        "onboard_time": 1747708050,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}
