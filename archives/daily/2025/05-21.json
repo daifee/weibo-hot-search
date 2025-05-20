@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747772941250,
+  "endTime": 1747773756658,
   "band_list": [
     {
       "raw_hot": 1628376,
@@ -539,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27485,
+      "num": 27485,
+      "word": "嫌银行利息低大爷花百万买6斤黄金",
+      "onboard_time": 1747769653,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 27154,
       "num": 24190,
       "word": "变成丧尸之前请脱掉你的旱冰鞋",
@@ -603,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21560,
-      "num": 21560,
-      "word": "嫌银行利息低大爷花百万买6斤黄金",
-      "onboard_time": 1747769653,
-      "rank": 19,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 21436,
       "num": 22840,
       "word": "虞书欣allblack黑长直造型",
@@ -627,20 +627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16580,
-      "num": 16956,
-      "word": "iQOO新品价格",
-      "onboard_time": 1747746923,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 14481,
-      "num": 14838,
+      "raw_hot": 19110,
+      "num": 19110,
       "word": "教育局回应男生掉化粪池遇难",
       "onboard_time": 1747772054,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16580,
+      "num": 17788,
+      "word": "iQOO新品价格",
+      "onboard_time": 1747746923,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 13980,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 13635,
-      "num": 14836,
+      "num": 17787,
       "word": "于适亮相戛纳电影节红毯",
       "onboard_time": 1747763957,
       "rank": 49,
