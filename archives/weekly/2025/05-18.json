@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747768850066,
+  "endTime": 1747769800383,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -11603,6 +11603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38440,
+      "num": 32975,
+      "word": "曾黎收下粉丝礼物放包里",
+      "onboard_time": 1747767314,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38355,
       "num": 336596,
       "word": "gogogo出发当美粉咯",
@@ -11913,14 +11921,6 @@
       "onboard_time": 1747709490,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 31132,
-      "num": 31132,
-      "word": "曾黎收下粉丝礼物放包里",
-      "onboard_time": 1747767314,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 30987,
@@ -13115,6 +13115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13980,
+      "num": 31126,
+      "word": "看曾经冷门的文物保护热起来",
+      "onboard_time": 1747768454,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13978,
       "num": 192641,
       "word": "美国多地强风暴天气是怎么形成的",
@@ -13217,14 +13225,6 @@
       "onboard_time": 1747658784,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13049,
-      "num": 31126,
-      "word": "看曾经冷门的文物保护热起来",
-      "onboard_time": 1747768454,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13042,
