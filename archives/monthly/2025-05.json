@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747759694336,
+  "endTime": 1747761805660,
   "band_list": [
     {
       "raw_hot": 13085597,
@@ -11691,6 +11691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443349,
+      "num": 443349,
+      "word": "林高远",
+      "onboard_time": 1747758142,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443007,
       "num": 443007,
       "word": "广东多名中学生出操被地面烫伤",
@@ -20561,14 +20569,6 @@
       "onboard_time": 1746357142,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250331,
-      "num": 250331,
-      "word": "林高远",
-      "onboard_time": 1747758142,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 250206,
@@ -58923,6 +58923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89758,
+      "num": 89758,
+      "word": "周琦发长文",
+      "onboard_time": 1747759940,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89686,
       "num": 140770,
       "word": "郑钦文罗马站开门红",
@@ -60379,6 +60387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81832,
+      "num": 81832,
+      "word": "情书",
+      "onboard_time": 1747760599,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81813,
       "num": 81813,
       "word": "成都太古里偶遇丁禹兮",
@@ -61041,6 +61057,14 @@
       "onboard_time": 1746788962,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77817,
+      "num": 77817,
+      "word": "王楚钦谈球拍事件对自己影响",
+      "onboard_time": 1747760718,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 77743,
@@ -63089,6 +63113,14 @@
       "onboard_time": 1747697840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65669,
+      "num": 65669,
+      "word": "一个战犯国被美化简直荒谬",
+      "onboard_time": 1747759040,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65661,
@@ -68907,6 +68939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37715,
+      "num": 60528,
+      "word": "广厦4比2战胜北京",
+      "onboard_time": 1747761377,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37637,
       "num": 339888,
       "word": "中美经贸本质是互利共赢",
@@ -68953,6 +68993,14 @@
       "onboard_time": 1747055842,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 37517,
+      "num": 60525,
+      "word": "于适登上戛纳红毯",
+      "onboard_time": 1747761737,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 37498,

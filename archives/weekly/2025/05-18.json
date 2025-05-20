@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747759694336,
+  "endTime": 1747761805660,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -1923,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443349,
+      "num": 443349,
+      "word": "林高远",
+      "onboard_time": 1747758142,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440147,
       "num": 354744,
       "word": "周冬雨张凌赫G社生图",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1747628124,
       "rank": 31,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 250331,
-      "num": 250331,
-      "word": "林高远",
-      "onboard_time": 1747758142,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 249589,
@@ -9619,6 +9619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89758,
+      "num": 89758,
+      "word": "周琦发长文",
+      "onboard_time": 1747759940,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89155,
       "num": 82093,
       "word": "虞书欣模仿马伯骞唱跳舞台",
@@ -9883,6 +9891,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 81832,
+      "num": 81832,
+      "word": "情书",
+      "onboard_time": 1747760599,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81747,
       "num": 483450,
       "word": "全运会乒乓球10金产生日期敲定",
@@ -10059,12 +10075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78010,
+      "num": 78010,
+      "word": "京城大师赛",
+      "onboard_time": 1747760419,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77935,
       "num": 77935,
       "word": "肖战的招商能力",
       "onboard_time": 1747611322,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77817,
+      "num": 77817,
+      "word": "王楚钦谈球拍事件对自己影响",
+      "onboard_time": 1747760718,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 77472,
@@ -10553,6 +10585,14 @@
       "onboard_time": 1747697840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65669,
+      "num": 65669,
+      "word": "一个战犯国被美化简直荒谬",
+      "onboard_time": 1747759040,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65352,
@@ -11555,12 +11595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37715,
+      "num": 60528,
+      "word": "广厦4比2战胜北京",
+      "onboard_time": 1747761377,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37617,
       "num": 207468,
       "word": "哈马斯愿一次性释放所有人质以换取和平",
       "onboard_time": 1747567880,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37517,
+      "num": 60525,
+      "word": "于适登上戛纳红毯",
+      "onboard_time": 1747761737,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 37396,
