@@ -1,0 +1,410 @@
+{
+  "runTime": 1747716328901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 123961,
+        "num": 1019833,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1320373,
+        "num": 987629,
+        "word": "钟南山对新冠病毒最新判断",
+        "onboard_time": 1747710450,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66332,
+        "num": 946219,
+        "word": "网警提醒浪漫互动个人信息要保密",
+        "onboard_time": 1747713262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1297761,
+        "num": 945056,
+        "word": "孙颖莎说第一场她的球拍也有问题",
+        "onboard_time": 1747713803,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 943109,
+        "num": 943109,
+        "word": "折腰扫楼直播",
+        "onboard_time": 1747712123,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 915259,
+        "num": 915259,
+        "word": "女子回应错过航班哭喊耽误孩子考公",
+        "onboard_time": 1747712602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812651,
+        "num": 812651,
+        "word": "中餐厅出发路透",
+        "onboard_time": 1747713501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491534,
+        "num": 491534,
+        "word": "国际乒联回应王楚钦球拍受损",
+        "onboard_time": 1747697060,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469499,
+        "num": 469499,
+        "word": "2025520",
+        "onboard_time": 1747700482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453258,
+        "num": 453258,
+        "word": "RNG恭喜Uzi",
+        "onboard_time": 1747710450,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 414360,
+        "word": "穿虞书欣同款腰精裤旺自己",
+        "onboard_time": 1747714284,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2300321,
+        "num": 410038,
+        "word": "重庆一大学生掉进化粪池遇难",
+        "onboard_time": 1747712301,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399217,
+        "num": 399217,
+        "word": "李艾录爸爸当家穿的全是男装",
+        "onboard_time": 1747715184,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19034,
+        "num": 397408,
+        "word": "朋友圈秀恩爱现在已经过时了吗",
+        "onboard_time": 1747715303,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61704,
+        "num": 396389,
+        "word": "微博每小时抽1个5200元锦鲤",
+        "onboard_time": 1747713683,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322416,
+        "num": 393144,
+        "word": "新余钢铁回应虞书欣家人传闻",
+        "onboard_time": 1747708050,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264029,
+        "num": 391680,
+        "word": "御赐小仵作2处处吻花絮",
+        "onboard_time": 1747713501,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202272,
+        "num": 387716,
+        "word": "弹壳 我在家能有什么地位",
+        "onboard_time": 1747715903,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82920,
+        "num": 385712,
+        "word": "周冠宇呼吁男女都要预防HPV",
+        "onboard_time": 1747714222,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80534,
+        "num": 383297,
+        "word": "院长当内鬼量身定做招标方案",
+        "onboard_time": 1747715364,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804822,
+        "num": 380161,
+        "word": "黄杨钿甜弟弟",
+        "onboard_time": 1747698200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603715,
+        "num": 377924,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242122,
+        "num": 374729,
+        "word": "上海近4成户籍人口60岁以上",
+        "onboard_time": 1747715244,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441905,
+        "num": 372861,
+        "word": "欧豪自己都生不出这么像的儿子",
+        "onboard_time": 1747713624,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129281,
+        "num": 369948,
+        "word": "多名运动员分析球拍受损可能性",
+        "onboard_time": 1747712541,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369386,
+        "num": 369386,
+        "word": "1年期定存跌破1%",
+        "onboard_time": 1747712241,
+        "rank": 25,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 217268,
+        "num": 369232,
+        "word": "藏海传破万",
+        "onboard_time": 1747706549,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205283,
+        "num": 356052,
+        "word": "刘宇宁扫楼又跳九万字了",
+        "onboard_time": 1747716023,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51240,
+        "num": 352862,
+        "word": "20多分钟如何吹出一座粮仓",
+        "onboard_time": 1747714222,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 346915,
+        "word": "各地博物馆显眼包申请出战",
+        "onboard_time": 1747715244,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 340776,
+        "num": 340776,
+        "word": "黄金",
+        "onboard_time": 1747709730,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299999,
+        "num": 299999,
+        "word": "最近为啥这么热",
+        "onboard_time": 1747702529,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194251,
+        "num": 282620,
+        "word": "李现演技把所有人都骗了",
+        "onboard_time": 1747714643,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281822,
+        "num": 281822,
+        "word": "印度集中展示巴军残骸",
+        "onboard_time": 1747713443,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200456,
+        "num": 232276,
+        "word": "肖战藏海的vlog",
+        "onboard_time": 1747715663,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "国际乒联该认真反思了",
+        "onboard_time": 1747714704,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208667,
+        "num": 208667,
+        "word": "古茗口令",
+        "onboard_time": 1747713743,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203864,
+        "num": 203864,
+        "word": "很多闷声赚钱的行业都是自由职业",
+        "onboard_time": 1747713803,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203057,
+        "num": 203057,
+        "word": "陈奕迅ins报平安",
+        "onboard_time": 1747663710,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128505,
+        "num": 198629,
+        "word": "光遇",
+        "onboard_time": 1747715124,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198547,
+        "num": 198547,
+        "word": "刘亦菲风华绝代又松弛自然",
+        "onboard_time": 1747715364,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 195863,
+        "word": "今天好多明星发红包",
+        "onboard_time": 1747716263,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187898,
+        "num": 187898,
+        "word": "小米芯片",
+        "onboard_time": 1747713501,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185684,
+        "num": 185684,
+        "word": "520文案",
+        "onboard_time": 1747703130,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184491,
+        "num": 184491,
+        "word": "本周顺风顺水星座",
+        "onboard_time": 1747713023,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164568,
+        "num": 164568,
+        "word": "王源hug官周上线",
+        "onboard_time": 1747710271,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161472,
+        "num": 161472,
+        "word": "如果你经常侧睡导致圆肩扣肩",
+        "onboard_time": 1747697479,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161024,
+        "num": 161024,
+        "word": "刘亦菲的全英文采访",
+        "onboard_time": 1747716203,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153585,
+        "num": 153585,
+        "word": "受到召唤敦煌2025巡演",
+        "onboard_time": 1747715063,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152542,
+        "num": 152542,
+        "word": "腾讯六月片单",
+        "onboard_time": 1747716084,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}
