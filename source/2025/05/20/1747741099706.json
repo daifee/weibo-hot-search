@@ -1,0 +1,410 @@
+{
+  "runTime": 1747741099706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 55248,
+        "num": 1008839,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1623043,
+        "num": 970917,
+        "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39903,
+        "num": 842293,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817123,
+        "num": 817123,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680951,
+        "num": 680951,
+        "word": "金价太贵年轻人开始流行租三金结婚",
+        "onboard_time": 1747734142,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 658233,
+        "num": 658233,
+        "word": "婆婆借115万为儿买房被判自己还",
+        "onboard_time": 1747738220,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431046,
+        "num": 431046,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370506,
+        "num": 370506,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364198,
+        "num": 364198,
+        "word": "小牛小庄官宣",
+        "onboard_time": 1747736782,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158228,
+        "num": 362059,
+        "word": "年轻人租黄金结婚100克一天1500元",
+        "onboard_time": 1747739122,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1655082,
+        "num": 359335,
+        "word": "化粪池遇难男生遗体3小时后捞出",
+        "onboard_time": 1747734322,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981774,
+        "num": 356060,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88271,
+        "num": 352564,
+        "word": "520被喜欢的明星发红包了",
+        "onboard_time": 1747739362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459242,
+        "num": 347679,
+        "word": "曾黎机场看到粉丝落泪",
+        "onboard_time": 1747734562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21184,
+        "num": 344023,
+        "word": "美州长候选人说中国学生水平超美4年",
+        "onboard_time": 1747740561,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342871,
+        "num": 342871,
+        "word": "罗言求婚成功",
+        "onboard_time": 1747734443,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296935,
+        "num": 296935,
+        "word": "妻子3个月16次网购毒物预备杀夫",
+        "onboard_time": 1747730601,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269205,
+        "num": 269205,
+        "word": "陈奕迅的520惊喜是海口站二开",
+        "onboard_time": 1747723282,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110721,
+        "num": 268676,
+        "word": "iQOONeo游戏稳帧顶流",
+        "onboard_time": 1747739541,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33676,
+        "num": 268584,
+        "word": "长期跑步对身体和心理产生哪些影响",
+        "onboard_time": 1747739241,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268549,
+        "num": 268549,
+        "word": "藏海传第二",
+        "onboard_time": 1747731321,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250120,
+        "num": 250120,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 21,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 241741,
+        "num": 241741,
+        "word": "有剧拍了为两千五造成文物损失",
+        "onboard_time": 1747737862,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239265,
+        "num": 239265,
+        "word": "折腰",
+        "onboard_time": 1747738942,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222607,
+        "num": 222607,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61200,
+        "num": 222009,
+        "word": "广美巴以冲突儿童图像毕业作品",
+        "onboard_time": 1747740921,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10526,
+        "num": 216406,
+        "word": "福建舰将第八次海试正式服役需多久",
+        "onboard_time": 1747740742,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106757,
+        "num": 215214,
+        "word": "王曼昱4比0战胜巴西选手",
+        "onboard_time": 1747740021,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17789,
+        "num": 211456,
+        "word": "复旦大学副教授的安全建议",
+        "onboard_time": 1747740742,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13602,
+        "num": 207507,
+        "word": "520收到礼物感动到哭了",
+        "onboard_time": 1747740863,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 177393,
+        "num": 206694,
+        "word": "雪姨英国黑池舞蹈第三名",
+        "onboard_time": 1747738163,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46196,
+        "num": 200732,
+        "word": "领证不用户口本首个520新人扎堆",
+        "onboard_time": 1747739183,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291382,
+        "num": 198049,
+        "word": "女子同时交往孙兴慜在内的多名男子",
+        "onboard_time": 1747739901,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13270,
+        "num": 194276,
+        "word": "洗衣店水洗替代干洗会残留有害物吗",
+        "onboard_time": 1747739841,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 263530,
+        "num": 193313,
+        "word": "刘丁硕称王楚钦球拍损坏只有一种可能",
+        "onboard_time": 1747740561,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191017,
+        "num": 191017,
+        "word": "iG战胜FPX",
+        "onboard_time": 1747740681,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183518,
+        "num": 183518,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 36,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 17621,
+        "num": 178119,
+        "word": "为什么医生建议HPV疫苗男女通打",
+        "onboard_time": 1747739362,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177926,
+        "num": 177926,
+        "word": "汪苏泷 南昌确实好吃",
+        "onboard_time": 1747738041,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86766,
+        "num": 171198,
+        "word": "520的表白方式",
+        "onboard_time": 1747740261,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 47213,
+        "num": 169996,
+        "word": "小满怎么睡好两觉",
+        "onboard_time": 1747739601,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169704,
+        "num": 169704,
+        "word": "蜜雪冰城薄荷奶绿",
+        "onboard_time": 1747738462,
+        "rank": 41,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 150372,
+        "word": "男子醉酒3女孩趴近确认熟睡才离开",
+        "onboard_time": 1747739841,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142524,
+        "num": 142524,
+        "word": "张宥浩撕坏了周也的撕拉片",
+        "onboard_time": 1747736901,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136524,
+        "num": 136524,
+        "word": "脑瘫女孩追星6年终被偶像看到",
+        "onboard_time": 1747740622,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130782,
+        "num": 130782,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 45,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 127028,
+        "num": 127028,
+        "word": "世乒赛混双八强对阵",
+        "onboard_time": 1747736963,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121434,
+        "num": 121434,
+        "word": "海口车辆拖猫事件详细视频",
+        "onboard_time": 1747737683,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133993,
+        "num": 121427,
+        "word": "周也骨相野生眉",
+        "onboard_time": 1747740863,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121416,
+        "num": 121416,
+        "word": "曾舜晞陈都灵为护宝寻踪云包场",
+        "onboard_time": 1747740982,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持发展实业这条路走对了#"
+    }
+  }
+}
