@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747769800383,
+  "endTime": 1747772941250,
   "band_list": [
     {
       "raw_hot": 1628376,
@@ -491,19 +491,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45260,
+      "num": 42670,
+      "word": "曾黎收下粉丝礼物放包里",
+      "onboard_time": 1747767314,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42114,
       "num": 60532,
       "word": "张宥浩撕坏了周也的撕拉片",
       "onboard_time": 1747736901,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38440,
-      "num": 32975,
-      "word": "曾黎收下粉丝礼物放包里",
-      "onboard_time": 1747767314,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21560,
+      "num": 21560,
+      "word": "嫌银行利息低大爷花百万买6斤黄金",
+      "onboard_time": 1747769653,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 21436,
       "num": 22840,
       "word": "虞书欣allblack黑长直造型",
@@ -619,12 +627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14806,
+      "raw_hot": 16580,
       "num": 16956,
       "word": "iQOO新品价格",
       "onboard_time": 1747746923,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 14481,
+      "num": 14838,
+      "word": "教育局回应男生掉化粪池遇难",
+      "onboard_time": 1747772054,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13980,
@@ -633,6 +649,22 @@
       "onboard_time": 1747768454,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13635,
+      "num": 14836,
+      "word": "于适亮相戛纳电影节红毯",
+      "onboard_time": 1747763957,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11714,
+      "num": 17529,
+      "word": "把中华文化瑰宝保护好传承好传播好",
+      "onboard_time": 1747771575,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10777,
