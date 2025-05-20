@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747758772875,
+  "endTime": 1747759694336,
   "band_list": [
     {
       "raw_hot": 1628376,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641440,
-      "num": 251079,
+      "raw_hot": 756253,
+      "num": 756253,
+      "word": "我国新冠检测阳性率快速上升",
+      "onboard_time": 1747755621,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 742334,
+      "num": 742334,
       "word": "陈奕迅女儿将成为华纳今年重点力捧的女新人",
       "onboard_time": 1747756102,
       "rank": 10,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 528047,
-      "num": 250719,
+      "num": 263330,
       "word": "日本女高被迫卖淫10天接待100人",
       "onboard_time": 1747740442,
       "rank": 11,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 489344,
-      "num": 213342,
+      "num": 259674,
       "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
       "onboard_time": 1747750884,
       "rank": 14,
@@ -49,14 +57,6 @@
       "onboard_time": 1747754844,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 469699,
-      "num": 469699,
-      "word": "我国新冠检测阳性率快速上升",
-      "onboard_time": 1747755621,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456456,
@@ -91,12 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251327,
-      "num": 251327,
+      "raw_hot": 269135,
+      "num": 257103,
       "word": "藏海极限一换一拿下首杀",
       "onboard_time": 1747735162,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250331,
+      "num": 250331,
+      "word": "林高远",
+      "onboard_time": 1747758142,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 250244,
@@ -113,6 +121,14 @@
       "onboard_time": 1747752984,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222311,
+      "num": 135654,
+      "word": "王楚钦说鹰眼给了运动员自证的机会",
+      "onboard_time": 1747759100,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 213813,
@@ -139,14 +155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188037,
-      "num": 188037,
-      "word": "林高远",
-      "onboard_time": 1747758142,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185474,
       "num": 185474,
       "word": "王楚钦加油",
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149946,
+      "num": 149946,
+      "word": "5月21日2时55分迎来小满",
+      "onboard_time": 1747754904,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147773,
       "num": 147773,
       "word": "陈奕迅女儿将出道",
@@ -171,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143409,
-      "num": 143409,
-      "word": "5月21日2时55分迎来小满",
-      "onboard_time": 1747754904,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 144245,
+      "num": 132316,
+      "word": "医生眼里无意识的控糖行为",
+      "onboard_time": 1747746442,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140911,
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121032,
-      "num": 121032,
-      "word": "医生眼里无意识的控糖行为",
-      "onboard_time": 1747746442,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109924,
       "num": 109924,
       "word": "吴尊和太太在巴黎法网过520",
@@ -233,6 +241,14 @@
       "onboard_time": 1747753404,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102958,
+      "num": 102958,
+      "word": "体检查出6种病不必过度治疗",
+      "onboard_time": 1747759639,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102879,
@@ -251,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100395,
+      "num": 100395,
+      "word": "赵小童撕拉片",
+      "onboard_time": 1747749507,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98826,
       "num": 98826,
       "word": "试飞部队共牺牲32名试飞员",
       "onboard_time": 1747755504,
       "rank": 32,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 97524,
-      "num": 97524,
-      "word": "赵小童撕拉片",
-      "onboard_time": 1747749507,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 97297,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82797,
+      "num": 88306,
+      "word": "孟羽童称时隔两年收到董明珠微信",
+      "onboard_time": 1747730721,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80937,
       "num": 88446,
       "word": "丁禹兮你把翟潇闻当哪国人整啊",
@@ -329,14 +353,6 @@
       "onboard_time": 1747747643,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78686,
-      "num": 88306,
-      "word": "孟羽童称时隔两年收到董明珠微信",
-      "onboard_time": 1747730721,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78178,
@@ -395,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60603,
+      "num": 75622,
+      "word": "20250521",
+      "onboard_time": 1747759219,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31485,
-      "num": 471605,
+      "num": 745497,
       "word": "中国经济延续向新向好发展态势",
       "onboard_time": 1747749083,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 28852,
+      "num": 130856,
+      "word": "以毒攻毒其实是有风险的",
+      "onboard_time": 1747759160,
+      "rank": 24,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
