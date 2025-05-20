@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747748270338,
+  "endTime": 1747748972759,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1381040,
+      "num": 995900,
+      "word": "20250520",
+      "onboard_time": 1747733961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1376145,
       "num": 954799,
       "word": "黄杨钿甜不必陷入自证怪圈",
@@ -99,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1247752,
-      "num": 995900,
-      "word": "20250520",
-      "onboard_time": 1747733961,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1173468,
       "num": 474213,
       "word": "黄杨钿甜",
@@ -120,6 +120,14 @@
       "word": "女子回应错过航班哭喊耽误孩子考公",
       "onboard_time": 1747712602,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1126044,
+      "num": 942150,
+      "word": "父亲去世留下300万巨债儿子拒还",
+      "onboard_time": 1747744702,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -217,14 +225,6 @@
       "onboard_time": 1747665568,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 942150,
-      "num": 942150,
-      "word": "父亲去世留下300万巨债儿子拒还",
-      "onboard_time": 1747744702,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 923570,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551859,
+      "num": 295590,
+      "word": "王楚钦的球拍可能是这么被弄坏的",
+      "onboard_time": 1747747164,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550231,
       "num": 419887,
       "word": "欧豪自己都生不出这么像的儿子",
@@ -483,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 544069,
+      "num": 544069,
+      "word": "酱园弄",
+      "onboard_time": 1747747643,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 540735,
       "num": 540735,
       "word": "2025520",
@@ -505,6 +521,14 @@
       "onboard_time": 1747704691,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530960,
+      "num": 530960,
+      "word": "藏海传收视率",
+      "onboard_time": 1747746862,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 527956,
@@ -755,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391200,
-      "num": 391200,
-      "word": "藏海传收视率",
-      "onboard_time": 1747746862,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 390015,
       "num": 390015,
       "word": "陈奕迅",
@@ -817,6 +833,14 @@
       "onboard_time": 1747668923,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333517,
+      "num": 366889,
+      "word": "警方通报男孩被父亲管教打骂致死",
+      "onboard_time": 1747747942,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 330823,
@@ -915,35 +939,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300112,
+      "num": 426396,
+      "word": "藏海传花半年打造实景平津侯府",
+      "onboard_time": 1747743381,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298411,
       "num": 298411,
       "word": "折腰",
       "onboard_time": 1747648884,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 295590,
-      "num": 295590,
-      "word": "王楚钦的球拍可能是这么被弄坏的",
-      "onboard_time": 1747747164,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 295476,
-      "num": 330010,
-      "word": "酱园弄",
-      "onboard_time": 1747747643,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 294208,
-      "num": 426396,
-      "word": "藏海传花半年打造实景平津侯府",
-      "onboard_time": 1747743381,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -971,6 +979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283796,
+      "num": 283796,
+      "word": "必须熬夜上半夜熬还是下半夜熬",
+      "onboard_time": 1747746200,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280925,
       "num": 415582,
       "word": "迪丽热巴学姐妆",
@@ -987,12 +1003,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 277494,
-      "num": 279182,
-      "word": "必须熬夜上半夜熬还是下半夜熬",
-      "onboard_time": 1747746200,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 277447,
+      "num": 326610,
+      "word": "联想拯救者全系新品开售",
+      "onboard_time": 1747746982,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 275494,
@@ -1027,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262751,
+      "num": 262751,
+      "word": "CBA",
+      "onboard_time": 1747742182,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260959,
       "num": 260959,
       "word": "15个锻炼大脑的方法",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1747719802,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246919,
+      "num": 296865,
+      "word": "张宥浩晒和周也撕拉片合影",
+      "onboard_time": 1747745783,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244900,
@@ -1107,28 +1139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239046,
-      "num": 326610,
-      "word": "联想拯救者全系新品开售",
-      "onboard_time": 1747746982,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 237057,
       "num": 237057,
       "word": "主裁说王楚钦球拍没问题是掩饰吗",
       "onboard_time": 1747708170,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236656,
-      "num": 352129,
-      "word": "警方通报男孩被父亲管教打骂致死",
-      "onboard_time": 1747747942,
-      "rank": 12,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 236345,
@@ -1267,14 +1283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 216741,
-      "num": 216741,
-      "word": "张宥浩晒和周也撕拉片合影",
-      "onboard_time": 1747745783,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216211,
       "num": 335087,
       "word": "程靖淇说王楚钦已经在克制",
@@ -1323,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213797,
+      "num": 295150,
+      "word": "迪丽热巴用玫瑰干杯",
+      "onboard_time": 1747746982,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213462,
       "num": 213462,
       "word": "莎头组合因对手退赛直接晋级8强",
@@ -1360,6 +1376,14 @@
       "word": "上海电视节官方海报发布",
       "onboard_time": 1747723521,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211136,
+      "num": 211136,
+      "word": "肖战稚奴的最后一课",
+      "onboard_time": 1747748666,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1417,6 +1441,14 @@
       "onboard_time": 1747736901,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205238,
+      "num": 205238,
+      "word": "科学家发现精子温控开关",
+      "onboard_time": 1747746145,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 205147,
@@ -1579,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195263,
+      "num": 195263,
+      "word": "肖战藏海以血封泪",
+      "onboard_time": 1747748423,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "文旅局回应明中都鼓楼瓦片脱落",
@@ -1635,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192051,
-      "num": 192051,
-      "word": "迪丽热巴用玫瑰干杯",
-      "onboard_time": 1747746982,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191293,
       "num": 439480,
       "word": "宋威龙顶级骨相是这样的",
@@ -1667,12 +1699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190487,
-      "num": 190487,
-      "word": "CBA",
-      "onboard_time": 1747742182,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 190944,
+      "num": 190944,
+      "word": "TES对战BLG",
+      "onboard_time": 1747748303,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 190368,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1747721901,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190048,
+      "num": 190048,
+      "word": "Uzi进入名人堂后做的第一件事",
+      "onboard_time": 1747748244,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 189999,
@@ -1721,6 +1761,14 @@
       "onboard_time": 1747725801,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187855,
+      "num": 187855,
+      "word": "藏海传",
+      "onboard_time": 1747654403,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 186808,
@@ -1843,6 +1891,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178451,
+      "num": 178451,
+      "word": "多名球员为王楚钦发声",
+      "onboard_time": 1747746200,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177926,
       "num": 177926,
       "word": "汪苏泷 南昌确实好吃",
@@ -1947,14 +2003,6 @@
       "category": "美食,旅游"
     },
     {
-      "raw_hot": 168759,
-      "num": 168759,
-      "word": "藏海传",
-      "onboard_time": 1747654403,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168382,
       "num": 168382,
       "word": "真是一场酣畅淋漓的已读乱回",
@@ -2009,14 +2057,6 @@
       "onboard_time": 1747721001,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161930,
-      "num": 161930,
-      "word": "Uzi进入名人堂后做的第一件事",
-      "onboard_time": 1747748244,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 161882,
@@ -2091,6 +2131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 158797,
+      "num": 293778,
+      "word": "一诺祝大家520快乐",
+      "onboard_time": 1747748544,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "存款利率新一轮下调",
@@ -2153,14 +2201,6 @@
       "onboard_time": 1747721721,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154609,
-      "num": 154609,
-      "word": "多名球员为王楚钦发声",
-      "onboard_time": 1747746200,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 153585,
@@ -2387,14 +2427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137494,
-      "num": 190909,
-      "word": "科学家发现精子温控开关",
-      "onboard_time": 1747746145,
-      "rank": 38,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 136885,
       "num": 136885,
       "word": "电影永不失联的爱今日上映",
@@ -2520,6 +2552,14 @@
       "word": "林高远vs西福恩特斯",
       "onboard_time": 1747736842,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130196,
+      "num": 296217,
+      "word": "孙杨的520礼物",
+      "onboard_time": 1747748123,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -2763,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106310,
+      "num": 293619,
+      "word": "苏醒老婆希望他裤子不要再掉了",
+      "onboard_time": 1747744282,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105752,
       "num": 448762,
       "word": "婆婆给儿买房还不起债小夫妻无责",
@@ -2875,14 +2923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92005,
-      "num": 293619,
-      "word": "苏醒老婆希望他裤子不要再掉了",
-      "onboard_time": 1747744282,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89920,
       "num": 359905,
       "word": "无畏520手举玫瑰",
@@ -2988,7 +3028,7 @@
     },
     {
       "raw_hot": 82597,
-      "num": 358162,
+      "num": 362708,
       "word": "iQOO新品价格",
       "onboard_time": 1747746923,
       "rank": 11,
@@ -3435,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50425,
+      "num": 249749,
+      "word": "川大撤回聘用日本考古学家通知",
+      "onboard_time": 1747737683,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49588,
       "num": 315263,
       "word": "折腰剧组全员不焦虑",
@@ -3587,12 +3635,12 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 42987,
-      "num": 249749,
-      "word": "川大撤回聘用日本考古学家通知",
-      "onboard_time": 1747737683,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 42853,
+      "num": 323654,
+      "word": "职场性侵被害人艰难的工伤认定",
+      "onboard_time": 1747747343,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41169,
@@ -3747,14 +3795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32174,
-      "num": 323654,
-      "word": "职场性侵被害人艰难的工伤认定",
-      "onboard_time": 1747747343,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 31568,
       "num": 674484,
       "word": "互联中国公益行动",
@@ -3785,6 +3825,14 @@
       "onboard_time": 1747678875,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30604,
+      "num": 290808,
+      "word": "多方回应文保单位碑前有多个垃圾桶",
+      "onboard_time": 1747747643,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 30418,
@@ -3867,14 +3915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28029,
-      "num": 281874,
-      "word": "多方回应文保单位碑前有多个垃圾桶",
-      "onboard_time": 1747747643,
-      "rank": 28,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 27786,
       "num": 872720,
       "word": "北京范儿",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1747728562,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 26834,
+      "num": 362373,
+      "word": "梁靖崑4比0费雷塔斯",
+      "onboard_time": 1747748666,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 25991,
@@ -3987,6 +4035,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 21502,
+      "num": 298527,
+      "word": "梁靖崑世乒赛晋级16强",
+      "onboard_time": 1747748723,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21432,
       "num": 350628,
       "word": "居民称凤阳鼓楼去年因漏水更换瓦片",
@@ -4033,6 +4089,14 @@
       "onboard_time": 1747737801,
       "rank": 39,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 20054,
+      "num": 291481,
+      "word": "印媒找理由否认阵风被击落",
+      "onboard_time": 1747748303,
+      "rank": 26,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 19868,
@@ -4083,6 +4147,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18504,
+      "num": 290103,
+      "word": "湖南一女子因坐错车堵高铁门",
+      "onboard_time": 1747747882,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18447,
+      "num": 292970,
+      "word": "石洵瑶VS朴佳贤",
+      "onboard_time": 1747748723,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17789,
       "num": 211456,
       "word": "复旦大学副教授的安全建议",
@@ -4099,20 +4179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16726,
+      "num": 362223,
+      "word": "叶诗文回应200混退赛",
+      "onboard_time": 1747748483,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16546,
       "num": 137330,
       "word": "明中都鼓楼瓦片脱落该如何修缮",
       "onboard_time": 1747711941,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16377,
-      "num": 200647,
-      "word": "孙杨的520礼物",
-      "onboard_time": 1747748123,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 16340,
@@ -4291,12 +4371,28 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 11478,
+      "num": 287172,
+      "word": "PL1导弹的数字化如何改变空战模式",
+      "onboard_time": 1747748783,
+      "rank": 31,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 11240,
       "num": 364113,
       "word": "母子大闹机场管理界限该如何划分",
       "onboard_time": 1747744341,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10804,
+      "num": 292058,
+      "word": "北京广厦是近几年最激烈的总决赛吗",
+      "onboard_time": 1747748603,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 10560,
@@ -4313,14 +4409,6 @@
       "onboard_time": 1747740742,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9909,
-      "num": 286729,
-      "word": "湖南一女子因坐错车堵高铁门",
-      "onboard_time": 1747747882,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9878,
@@ -4359,6 +4447,9 @@
     },
     {
       "word": "#要继续把制造业搞好#"
+    },
+    {
+      "word": "#看曾经冷门的文物保护热起来#"
     }
   ]
 }

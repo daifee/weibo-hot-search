@@ -1,0 +1,410 @@
+{
+  "runTime": 1747748972759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 45152,
+        "num": 1007224,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1381040,
+        "num": 985275,
+        "word": "20250520",
+        "onboard_time": 1747733961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36860,
+        "num": 798394,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1126044,
+        "num": 785596,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626245,
+        "num": 626245,
+        "word": "陈奕迅女儿将出道",
+        "onboard_time": 1747738822,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544069,
+        "num": 544069,
+        "word": "酱园弄",
+        "onboard_time": 1747747643,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530960,
+        "num": 530960,
+        "word": "藏海传收视率",
+        "onboard_time": 1747746862,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434415,
+        "num": 434415,
+        "word": "肯德基申请注册冷静星期四",
+        "onboard_time": 1747742721,
+        "rank": 7,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 379941,
+        "num": 379941,
+        "word": "婆婆借115万为儿买房被判自己还",
+        "onboard_time": 1747738220,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333517,
+        "num": 366889,
+        "word": "警方通报男孩被父亲管教打骂致死",
+        "onboard_time": 1747747942,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 288326,
+        "num": 365949,
+        "word": "藏海传第二",
+        "onboard_time": 1747731321,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365870,
+        "num": 365870,
+        "word": "藏海极限一换一拿下首杀",
+        "onboard_time": 1747735162,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74476,
+        "num": 362708,
+        "word": "iQOO新品价格",
+        "onboard_time": 1747746923,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26834,
+        "num": 362373,
+        "word": "梁靖崑4比0费雷塔斯",
+        "onboard_time": 1747748666,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16726,
+        "num": 362223,
+        "word": "叶诗文回应200混退赛",
+        "onboard_time": 1747748483,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362193,
+        "num": 362193,
+        "word": "木木卿卿官宣",
+        "onboard_time": 1747741280,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300112,
+        "num": 300112,
+        "word": "藏海传花半年打造实景平津侯府",
+        "onboard_time": 1747743381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277447,
+        "num": 299707,
+        "word": "联想拯救者全系新品开售",
+        "onboard_time": 1747746982,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21502,
+        "num": 298527,
+        "word": "梁靖崑世乒赛晋级16强",
+        "onboard_time": 1747748723,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42853,
+        "num": 298163,
+        "word": "职场性侵被害人艰难的工伤认定",
+        "onboard_time": 1747747343,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 246919,
+        "num": 296865,
+        "word": "张宥浩晒和周也撕拉片合影",
+        "onboard_time": 1747745783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130196,
+        "num": 296217,
+        "word": "孙杨的520礼物",
+        "onboard_time": 1747748123,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213797,
+        "num": 295150,
+        "word": "迪丽热巴用玫瑰干杯",
+        "onboard_time": 1747746982,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158797,
+        "num": 293778,
+        "word": "一诺祝大家520快乐",
+        "onboard_time": 1747748544,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18447,
+        "num": 292970,
+        "word": "石洵瑶VS朴佳贤",
+        "onboard_time": 1747748723,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10804,
+        "num": 292058,
+        "word": "北京广厦是近几年最激烈的总决赛吗",
+        "onboard_time": 1747748603,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20054,
+        "num": 291481,
+        "word": "印媒找理由否认阵风被击落",
+        "onboard_time": 1747748303,
+        "rank": 26,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 30604,
+        "num": 290808,
+        "word": "多方回应文保单位碑前有多个垃圾桶",
+        "onboard_time": 1747747643,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18504,
+        "num": 290103,
+        "word": "湖南一女子因坐错车堵高铁门",
+        "onboard_time": 1747747882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40327,
+        "num": 288413,
+        "word": "站姿对身体和面部的影响有多大",
+        "onboard_time": 1747747882,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 779536,
+        "num": 288030,
+        "word": "掉化粪池遇难学生还有2个月满20岁",
+        "onboard_time": 1747741521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11478,
+        "num": 287172,
+        "word": "PL1导弹的数字化如何改变空战模式",
+        "onboard_time": 1747748783,
+        "rank": 31,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 685289,
+        "num": 285842,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 32,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 551859,
+        "num": 284919,
+        "word": "王楚钦的球拍可能是这么被弄坏的",
+        "onboard_time": 1747747164,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1063299,
+        "num": 284508,
+        "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+        "onboard_time": 1747736721,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283796,
+        "num": 283796,
+        "word": "必须熬夜上半夜熬还是下半夜熬",
+        "onboard_time": 1747746200,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262751,
+        "num": 262751,
+        "word": "CBA",
+        "onboard_time": 1747742182,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256279,
+        "num": 256279,
+        "word": "女子同时交往孙兴慜在内的多名男子",
+        "onboard_time": 1747739901,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50425,
+        "num": 247290,
+        "word": "川大撤回聘用日本考古学家通知",
+        "onboard_time": 1747737683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106310,
+        "num": 245109,
+        "word": "苏醒老婆希望他裤子不要再掉了",
+        "onboard_time": 1747744282,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243436,
+        "num": 243436,
+        "word": "医生眼里无意识的控糖行为",
+        "onboard_time": 1747746442,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211136,
+        "num": 211136,
+        "word": "肖战稚奴的最后一课",
+        "onboard_time": 1747748666,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205238,
+        "num": 205238,
+        "word": "科学家发现精子温控开关",
+        "onboard_time": 1747746145,
+        "rank": 42,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 202273,
+        "num": 202273,
+        "word": "迪丽热巴学姐妆",
+        "onboard_time": 1747742302,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200728,
+        "num": 200728,
+        "word": "陈奕迅的520惊喜是海口站二开",
+        "onboard_time": 1747723282,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195263,
+        "num": 195263,
+        "word": "肖战藏海以血封泪",
+        "onboard_time": 1747748423,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190944,
+        "num": 190944,
+        "word": "TES对战BLG",
+        "onboard_time": 1747748303,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190048,
+        "num": 190048,
+        "word": "Uzi进入名人堂后做的第一件事",
+        "onboard_time": 1747748244,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187855,
+        "num": 187855,
+        "word": "藏海传",
+        "onboard_time": 1747748183,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178451,
+        "num": 178451,
+        "word": "多名球员为王楚钦发声",
+        "onboard_time": 1747746200,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#看曾经冷门的文物保护热起来#"
+    }
+  }
+}
