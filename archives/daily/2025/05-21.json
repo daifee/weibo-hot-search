@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747780945155,
+  "endTime": 1747783430958,
   "band_list": [
     {
       "raw_hot": 1628376,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331494,
+      "num": 331494,
+      "word": "藏海传破2",
+      "onboard_time": 1747762156,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322385,
       "num": 322385,
       "word": "藏海传收视率",
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289766,
+      "num": 289766,
+      "word": "雅安城管回应黄杨家开公司是否报备",
+      "onboard_time": 1747762636,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 269135,
       "num": 257103,
       "word": "藏海极限一换一拿下首杀",
@@ -107,19 +123,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267383,
+      "num": 267383,
+      "word": "5月21日2时55分迎来小满",
+      "onboard_time": 1747754904,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250244,
       "num": 250244,
       "word": "肖战回应藏海拿下首杀",
       "onboard_time": 1747753524,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244531,
-      "num": 181729,
-      "word": "藏海传破2",
-      "onboard_time": 1747762156,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -155,20 +171,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193302,
+      "num": 193302,
+      "word": "格力确认董明珠孟羽童将合体直播",
+      "onboard_time": 1747752865,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191859,
       "num": 191859,
       "word": "央视梳理王楚钦球拍受损事件",
       "onboard_time": 1747749024,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188161,
-      "num": 89665,
-      "word": "雅安城管回应黄杨家开公司是否报备",
-      "onboard_time": 1747762636,
-      "rank": 46,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 185474,
@@ -179,6 +195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184535,
+      "num": 184535,
+      "word": "521遇上小满",
+      "onboard_time": 1747782799,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179343,
+      "num": 179343,
+      "word": "521",
+      "onboard_time": 1747783100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174240,
       "num": 145429,
       "word": "媒体评黄杨钿甜不必陷入自证怪圈",
@@ -187,16 +219,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149946,
-      "num": 149946,
-      "word": "5月21日2时55分迎来小满",
-      "onboard_time": 1747754904,
-      "rank": 22,
+      "raw_hot": 173259,
+      "num": 173259,
+      "word": "梁靖崑黄友政2比3林昀儒高承睿",
+      "onboard_time": 1747783100,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172511,
+      "num": 172511,
+      "word": "嫌银行利息低大爷花百万买6斤黄金",
+      "onboard_time": 1747769653,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 151156,
+      "num": 151156,
+      "word": "教育局回应男生掉化粪池遇难",
+      "onboard_time": 1747772054,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
       "raw_hot": 147773,
-      "num": 147773,
+      "num": 157017,
       "word": "陈奕迅女儿将出道",
       "onboard_time": 1747738822,
       "rank": 19,
@@ -219,16 +267,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136796,
-      "num": 136796,
-      "word": "格力确认董明珠孟羽童将合体直播",
-      "onboard_time": 1747752865,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136646,
-      "num": 136646,
+      "num": 158603,
       "word": "折腰市占率",
       "onboard_time": 1747756343,
       "rank": 25,
@@ -244,19 +284,35 @@
     },
     {
       "raw_hot": 125274,
-      "num": 98826,
+      "num": 119336,
       "word": "试飞部队共牺牲32名试飞员",
       "onboard_time": 1747755504,
       "rank": 32,
       "category": "军事,民生新闻"
     },
     {
-      "raw_hot": 111319,
-      "num": 89617,
-      "word": "教育局回应男生掉化粪池遇难",
-      "onboard_time": 1747772054,
-      "rank": 48,
+      "raw_hot": 118762,
+      "num": 74716,
+      "word": "28岁作家卜文哲去世",
+      "onboard_time": 1747782378,
+      "rank": 30,
+      "category": "读书作家,民生新闻"
+    },
+    {
+      "raw_hot": 112334,
+      "num": 194320,
+      "word": "女子被打还击先被认定互殴后改判无罪",
+      "onboard_time": 1747774634,
+      "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110985,
+      "num": 110985,
+      "word": "体检查出6种病不必过度治疗",
+      "onboard_time": 1747759639,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109924,
@@ -265,14 +321,6 @@
       "onboard_time": 1747751724,
       "rank": 28,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 107636,
-      "num": 102958,
-      "word": "体检查出6种病不必过度治疗",
-      "onboard_time": 1747759639,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106541,
@@ -353,14 +401,6 @@
       "onboard_time": 1747754844,
       "rank": 37,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 89584,
-      "num": 89584,
-      "word": "嫌银行利息低大爷花百万买6斤黄金",
-      "onboard_time": 1747769653,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 88497,
@@ -467,6 +507,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70722,
+      "num": 70722,
+      "word": "荷兰阿尔兹海默症小镇 楚门的世界",
+      "onboard_time": 1747779857,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 69512,
+      "num": 85137,
+      "word": "曾黎收下粉丝礼物放包里",
+      "onboard_time": 1747767314,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68203,
+      "num": 68203,
+      "word": "十个勤天发文祝蒋敦豪生日快乐",
+      "onboard_time": 1747783159,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65730,
       "num": 87930,
       "word": "王楚钦预判了对手的预判",
@@ -507,28 +571,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58091,
-      "num": 58091,
-      "word": "女子被打还击先被认定互殴后改判无罪",
-      "onboard_time": 1747774634,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46389,
-      "num": 46389,
-      "word": "曾黎收下粉丝礼物放包里",
-      "onboard_time": 1747767314,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 42483,
-      "num": 40497,
+      "raw_hot": 57948,
+      "num": 57948,
       "word": "变成丧尸之前请脱掉你的旱冰鞋",
       "onboard_time": 1747766775,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55155,
+      "num": 55155,
+      "word": "医院回应护士发错药致患者误服数日",
+      "onboard_time": 1747777155,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51627,
+      "num": 55147,
+      "word": "藏海好像从甘露寺回宫的甄嬛",
+      "onboard_time": 1747778295,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43916,
+      "num": 55112,
+      "word": "周也说孟子义像行走的零食库",
+      "onboard_time": 1747780518,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 42114,
@@ -547,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36324,
-      "num": 40394,
-      "word": "医院回应护士发错药致患者误服数日",
-      "onboard_time": 1747777155,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33568,
       "num": 40364,
       "word": "迪丽热巴浪漫信号藏在玫瑰",
@@ -569,14 +633,6 @@
       "onboard_time": 1747749083,
       "rank": 2,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 30509,
-      "num": 40347,
-      "word": "藏海好像从甘露寺回宫的甄嬛",
-      "onboard_time": 1747778295,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 29626,
@@ -627,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22120,
-      "num": 40272,
-      "word": "荷兰阿尔兹海默症小镇 楚门的世界",
-      "onboard_time": 1747779857,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 22116,
       "num": 22116,
       "word": "左航520撕拉片",
@@ -659,20 +707,28 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 20507,
-      "num": 40256,
-      "word": "周也说孟子义像行走的零食库",
-      "onboard_time": 1747780518,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20130,
       "num": 22805,
       "word": "萧逸爱的默契",
       "onboard_time": 1747766895,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18058,
+      "num": 112856,
+      "word": "浙江队获混合接力金牌",
+      "onboard_time": 1747782318,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17143,
+      "num": 363769,
+      "word": "高质量发展看天津",
+      "onboard_time": 1747735641,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 16917,
@@ -705,14 +761,6 @@
       "onboard_time": 1747771575,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10815,
-      "num": 299717,
-      "word": "高质量发展看天津",
-      "onboard_time": 1747735641,
-      "rank": 2,
-      "category": "正能量"
     }
   ],
   "hotgov_list": [
