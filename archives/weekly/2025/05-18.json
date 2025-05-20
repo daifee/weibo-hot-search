@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747711863316,
+  "endTime": 1747713451443,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -129,6 +129,14 @@
       "onboard_time": 1747579344,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1911251,
+      "num": 1911251,
+      "word": "钟南山对新冠病毒最新判断",
+      "onboard_time": 1747710450,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1890711,
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1120100,
-      "num": 434834,
-      "word": "钟南山对新冠病毒最新判断",
-      "onboard_time": 1747710450,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1115625,
       "num": 1171720,
       "word": "黄子韬说老婆是最有底气的试验品",
@@ -417,6 +417,14 @@
       "onboard_time": 1747653503,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1074217,
+      "num": 1074217,
+      "word": "折腰扫楼直播",
+      "onboard_time": 1747712123,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1068647,
@@ -625,6 +633,14 @@
       "onboard_time": 1747627102,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 822689,
+      "num": 822689,
+      "word": "重庆一大学生掉进化粪池遇难",
+      "onboard_time": 1747712301,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 814672,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1747575503,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547161,
+      "num": 547161,
+      "word": "RNG恭喜Uzi",
+      "onboard_time": 1747710450,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 545603,
@@ -1827,14 +1851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 333270,
-      "num": 333270,
-      "word": "RNG恭喜Uzi",
-      "onboard_time": 1747710450,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 332246,
       "num": 338970,
       "word": "韦雪男友妈妈住韦雪家",
@@ -2123,6 +2139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289139,
+      "num": 289138,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288211,
       "num": 288211,
       "word": "杨幂新公司签约的艺人",
@@ -2403,14 +2427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254239,
-      "num": 254239,
-      "word": "黄金",
-      "onboard_time": 1747709730,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 253810,
       "num": 253810,
       "word": "黄杨钿甜高价耳环事件时间线",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1747582462,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234233,
+      "num": 435148,
+      "word": "钟南山称不必恐慌新冠",
+      "onboard_time": 1747711102,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 233697,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1747625484,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 213122,
+      "num": 213122,
+      "word": "1年期定存跌破1%",
+      "onboard_time": 1747712241,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 212498,
@@ -3987,6 +4019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185623,
+      "num": 316330,
+      "word": "女子回应错过航班哭喊耽误孩子考公",
+      "onboard_time": 1747712602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185601,
       "num": 185601,
       "word": "徐敏在发遗书",
@@ -4129,6 +4169,14 @@
       "onboard_time": 1747667126,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182353,
+      "num": 182353,
+      "word": "第五人格",
+      "onboard_time": 1747713023,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 181895,
@@ -4667,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161356,
+      "num": 231666,
+      "word": "王皓曾说不理解检测决赛球板标准",
+      "onboard_time": 1747712241,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161304,
       "num": 161304,
       "word": "LPR",
@@ -4697,6 +4753,14 @@
       "onboard_time": 1747700542,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160984,
+      "num": 160984,
+      "word": "宋亚轩 鹅妈妈",
+      "onboard_time": 1747713322,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 160594,
@@ -4857,6 +4921,14 @@
       "onboard_time": 1747668802,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155515,
+      "num": 155515,
+      "word": "多名运动员分析球拍受损可能性",
+      "onboard_time": 1747712541,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 155379,
@@ -5187,6 +5259,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 146947,
+      "num": 146947,
+      "word": "本周顺风顺水星座",
+      "onboard_time": 1747713023,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146687,
       "num": 198423,
       "word": "Mina戛纳造型",
@@ -5451,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138292,
+      "num": 138292,
+      "word": "特别重要的安全建议 不能去第二现场",
+      "onboard_time": 1747712602,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138267,
       "num": 138267,
       "word": "GAI说自己是炁里的一点",
@@ -5513,6 +5601,14 @@
       "onboard_time": 1747539209,
       "rank": 49,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 136885,
+      "num": 136885,
+      "word": "电影永不失联的爱今日上映",
+      "onboard_time": 1747713201,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 136871,
@@ -5899,20 +5995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127809,
-      "num": 435148,
-      "word": "钟南山称不必恐慌新冠",
-      "onboard_time": 1747711102,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 127599,
       "num": 127599,
       "word": "王心凌ALin这朋友是真能处",
       "onboard_time": 1747499061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127577,
+      "num": 127577,
+      "word": "邪恶金渐层",
+      "onboard_time": 1747711823,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127096,
@@ -5995,14 +6091,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 125082,
-      "num": 125082,
-      "word": "邪恶金渐层",
-      "onboard_time": 1747711823,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 124929,
       "num": 124929,
       "word": "马思纯春夏孙千同框状态",
@@ -6081,6 +6169,14 @@
       "onboard_time": 1747649124,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122457,
+      "num": 122457,
+      "word": "港剧把恶有恶报拍出了新高度",
+      "onboard_time": 1747712482,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 122117,
@@ -6587,6 +6683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109957,
+      "num": 376947,
+      "word": "婚姻登记全国通办后的首个520",
+      "onboard_time": 1747711761,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109679,
       "num": 109679,
       "word": "鹰眼让发球遮挡无处可遁",
@@ -6929,6 +7033,14 @@
       "onboard_time": 1747541729,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96325,
+      "num": 291901,
+      "word": "凤阳鼓楼去年曾维修",
+      "onboard_time": 1747711582,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95856,
@@ -7539,6 +7651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75452,
+      "num": 289139,
+      "word": "白发爷爷11年写132本追星日记",
+      "onboard_time": 1747712301,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74769,
       "num": 74769,
       "word": "克拉克揭幕战三双",
@@ -7627,6 +7747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71799,
+      "num": 219243,
+      "word": "台当局酝酿将全台的中正路改名",
+      "onboard_time": 1747712420,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71441,
       "num": 225138,
       "word": "520跟张艺兴选国补更香",
@@ -7649,6 +7777,14 @@
       "onboard_time": 1747693094,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70884,
+      "num": 744242,
+      "word": "中国经济延续向新向好",
+      "onboard_time": 1747711341,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70672,
@@ -8059,14 +8195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52400,
-      "num": 291901,
-      "word": "凤阳鼓楼去年曾维修",
-      "onboard_time": 1747711582,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51754,
       "num": 51754,
       "word": "张凌赫章昊同框飙戏",
@@ -8139,14 +8267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49747,
-      "num": 205988,
-      "word": "婚姻登记全国通办后的首个520",
-      "onboard_time": 1747711761,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49521,
       "num": 49521,
       "word": "网传与两名女子办婚礼男子被开除",
@@ -8201,6 +8321,14 @@
       "onboard_time": 1747638804,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47293,
+      "num": 223403,
+      "word": "各地520大屏文案又上大分",
+      "onboard_time": 1747712541,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 47000,
@@ -8369,14 +8497,6 @@
       "onboard_time": 1747544549,
       "rank": 29,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 40207,
-      "num": 744242,
-      "word": "中国经济延续向新向好",
-      "onboard_time": 1747711341,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39496,
@@ -8883,6 +9003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24117,
+      "num": 155225,
+      "word": "印巴之战照亮亚洲水资源危机",
+      "onboard_time": 1747712781,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24058,
       "num": 30763,
       "word": "张真源演唱会值得被珍藏的时刻",
@@ -9235,6 +9363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16546,
+      "num": 137330,
+      "word": "明中都鼓楼瓦片脱落该如何修缮",
+      "onboard_time": 1747711941,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16319,
       "num": 261003,
       "word": "隋坡前mcn真的是太搞笑了叭",
@@ -9561,6 +9697,14 @@
       "onboard_time": 1747660585,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9832,
+      "num": 843893,
+      "word": "网警提醒浪漫互动个人信息要保密",
+      "onboard_time": 1747713262,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9182,
