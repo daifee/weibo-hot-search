@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747748972759,
+  "endTime": 1747751174276,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1381040,
-      "num": 995900,
+      "num": 1203047,
       "word": "20250520",
       "onboard_time": 1747733961,
       "rank": 33,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1043720,
+      "num": 785262,
+      "word": "王楚钦的球拍可能是这么被弄坏的",
+      "onboard_time": 1747747164,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1027797,
       "num": 355484,
       "word": "小伙摔倒以为没事7天后死亡",
@@ -625,6 +633,14 @@
       "onboard_time": 1747738822,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 976346,
+      "num": 470698,
+      "word": "日本女高被迫卖淫10天接待100人",
+      "onboard_time": 1747740442,
+      "rank": 36,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 971790,
@@ -859,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 802289,
+      "num": 468760,
+      "word": "警方通报男孩被父亲管教打骂致死",
+      "onboard_time": 1747747942,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 797905,
       "num": 797905,
       "word": "病重男孩与全班拍毕业照次日离世",
@@ -1017,14 +1041,6 @@
       "onboard_time": 1747545749,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 721650,
-      "num": 441996,
-      "word": "日本女高被迫卖淫10天接待100人",
-      "onboard_time": 1747740442,
-      "rank": 36,
-      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 720789,
@@ -1459,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551859,
-      "num": 295590,
-      "word": "王楚钦的球拍可能是这么被弄坏的",
-      "onboard_time": 1747747164,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 550231,
       "num": 419887,
       "word": "欧豪自己都生不出这么像的儿子",
@@ -1483,20 +1491,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 546472,
+      "num": 546472,
+      "word": "酱园弄",
+      "onboard_time": 1747747643,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 545603,
       "num": 368261,
       "word": "韩安冉宋浩然凌晨街头亲吻",
       "onboard_time": 1747706009,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 544069,
-      "num": 544069,
-      "word": "酱园弄",
-      "onboard_time": 1747747643,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 543792,
@@ -1553,6 +1561,14 @@
       "onboard_time": 1747570463,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532758,
+      "num": 532758,
+      "word": "央视梳理王楚钦球拍受损事件",
+      "onboard_time": 1747749024,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 531990,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1747657826,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503131,
+      "num": 503131,
+      "word": "CBA",
+      "onboard_time": 1747742182,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 500948,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1747710271,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433498,
+      "num": 433498,
+      "word": "王楚钦戴墨镜上训",
+      "onboard_time": 1747750465,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 432860,
@@ -2195,6 +2227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 366820,
+      "num": 366820,
+      "word": "张宥浩晒和周也撕拉片合影",
+      "onboard_time": 1747745783,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364492,
       "num": 364492,
       "word": "九重紫 窦昭篇",
@@ -2347,14 +2387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 333517,
-      "num": 366889,
-      "word": "警方通报男孩被父亲管教打骂致死",
-      "onboard_time": 1747747942,
-      "rank": 12,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 332246,
       "num": 338970,
       "word": "韦雪男友妈妈住韦雪家",
@@ -2499,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311242,
+      "num": 311242,
+      "word": "迪丽热巴用玫瑰干杯",
+      "onboard_time": 1747746982,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310115,
       "num": 310115,
       "word": "王者荣耀联动慕夏艺术",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1747709909,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300462,
+      "num": 300462,
+      "word": "医生眼里无意识的控糖行为",
+      "onboard_time": 1747746442,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300380,
@@ -2795,16 +2843,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278423,
-      "num": 278423,
-      "word": "医生眼里无意识的控糖行为",
-      "onboard_time": 1747746442,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277447,
-      "num": 326610,
+      "num": 358183,
       "word": "联想拯救者全系新品开售",
       "onboard_time": 1747746982,
       "rank": 17,
@@ -2971,14 +3011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262751,
-      "num": 262751,
-      "word": "CBA",
-      "onboard_time": 1747742182,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262152,
       "num": 262152,
       "word": "赵美延曾被宋雨琦Minnie欺生",
@@ -3123,6 +3155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248323,
+      "num": 259908,
+      "word": "曾黎机场强忍眼泪",
+      "onboard_time": 1747750404,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248193,
       "num": 248193,
       "word": "国际乒联表示确保类似事件不再发生",
@@ -3137,14 +3177,6 @@
       "onboard_time": 1747631186,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 246919,
-      "num": 296865,
-      "word": "张宥浩晒和周也撕拉片合影",
-      "onboard_time": 1747745783,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 246009,
@@ -3291,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237263,
+      "num": 237263,
+      "word": "阴阳师魔卡少女樱联动",
+      "onboard_time": 1747749263,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237057,
       "num": 237057,
       "word": "主裁说王楚钦球拍没问题是掩饰吗",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1747736242,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229648,
+      "num": 298666,
+      "word": "肖战第七集演技大赏",
+      "onboard_time": 1747749984,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 229555,
@@ -3771,14 +3819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213797,
-      "num": 295150,
-      "word": "迪丽热巴用玫瑰干杯",
-      "onboard_time": 1747746982,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "哪吒之魔童闹海票房破154亿",
@@ -3947,6 +3987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209269,
+      "num": 209269,
+      "word": "被重生归来小8岁的老公再次拿下",
+      "onboard_time": 1747749984,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209245,
       "num": 444776,
       "word": "同学曾用长标枪施救掉化粪池大学生",
@@ -3969,6 +4017,14 @@
       "onboard_time": 1747717884,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208996,
+      "num": 208996,
+      "word": "丁禹兮你把翟潇闻当哪国人整啊",
+      "onboard_time": 1747750224,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 208537,
@@ -4281,6 +4337,14 @@
       "onboard_time": 1747628964,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201981,
+      "num": 201981,
+      "word": "男生掉化粪池遇难妈妈殡仪馆晕倒",
+      "onboard_time": 1747750884,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201877,
@@ -4667,6 +4731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194627,
+      "num": 194627,
+      "word": "薛凯琪巨型花束装",
+      "onboard_time": 1747750045,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194351,
       "num": 246850,
       "word": "跑男团cha了时代少年团新歌",
@@ -4931,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189906,
+      "num": 189906,
+      "word": "赵小童撕拉片",
+      "onboard_time": 1747749507,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189469,
       "num": 189469,
       "word": "边伯贤solo回归",
@@ -4945,6 +5025,14 @@
       "onboard_time": 1747723041,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189319,
+      "num": 326532,
+      "word": "孙杨的520礼物",
+      "onboard_time": 1747748123,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189298,
@@ -5105,6 +5193,14 @@
       "onboard_time": 1747628245,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 185923,
+      "num": 185923,
+      "word": "原来真的有人可以一心三用",
+      "onboard_time": 1747748964,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 185876,
@@ -5483,12 +5579,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "郭艾伦谈孙铭徽踢球",
+      "onboard_time": 1747750105,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177015,
       "num": 239785,
       "word": "肖战张婧仪周奇黄觉拍立得合照",
       "onboard_time": 1747670843,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176844,
+      "num": 176844,
+      "word": "柯淳私下会跟颜安约饭",
+      "onboard_time": 1747749442,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 176699,
@@ -5521,6 +5633,14 @@
       "onboard_time": 1747575024,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174287,
+      "num": 481413,
+      "word": "广厦男篮队史首冠",
+      "onboard_time": 1747750345,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 174249,
@@ -5665,6 +5785,14 @@
       "onboard_time": 1747555700,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 169816,
+      "num": 292079,
+      "word": "周也说张宥浩拍的照片好看",
+      "onboard_time": 1747750525,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 169730,
@@ -5891,6 +6019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164674,
+      "num": 164674,
+      "word": "浙江广厦队史首个CBA联赛总冠军",
+      "onboard_time": 1747751124,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164670,
       "num": 164670,
       "word": "录像回放显示裁判两次压球拍",
@@ -6001,6 +6137,14 @@
       "onboard_time": 1747626263,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162528,
+      "num": 162528,
+      "word": "训练师称不用担心杨瀚森的顺位",
+      "onboard_time": 1747751124,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 162494,
@@ -6137,6 +6281,14 @@
       "onboard_time": 1747647444,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159468,
+      "num": 159468,
+      "word": "BLG战胜TES",
+      "onboard_time": 1747749324,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 159135,
@@ -7491,14 +7643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130196,
-      "num": 296217,
-      "word": "孙杨的520礼物",
-      "onboard_time": 1747748123,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130192,
       "num": 130192,
       "word": "徐艺真 五哈",
@@ -8819,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95784,
+      "num": 461179,
+      "word": "iQOO新品价格",
+      "onboard_time": 1747746923,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95644,
       "num": 283474,
       "word": "艾威晒和妻子Lisa牵手照",
@@ -9315,14 +9467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82597,
-      "num": 362708,
-      "word": "iQOO新品价格",
-      "onboard_time": 1747746923,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 82576,
       "num": 427115,
       "word": "周雨谈王楚钦球拍受损",
@@ -9617,6 +9761,14 @@
       "onboard_time": 1747712301,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75425,
+      "num": 440992,
+      "word": "胡金秋夺冠后哭了",
+      "onboard_time": 1747750584,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 75273,
@@ -10027,6 +10179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63734,
+      "num": 280572,
+      "word": "护士发错药致患者误服数日",
+      "onboard_time": 1747750645,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63672,
       "num": 269297,
       "word": "内衣裤和鞋袜混洗会引发卫生问题吗",
@@ -10081,6 +10241,14 @@
       "onboard_time": 1747717764,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 61616,
+      "num": 339973,
+      "word": "自建房内藏1800多万网赌黑钱",
+      "onboard_time": 1747750284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61609,
@@ -10480,6 +10648,14 @@
       "word": "文化中国行看文物里的绝美配色",
       "onboard_time": 1747524197,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48782,
+      "num": 346457,
+      "word": "520中国航天送出硬核浪漫",
+      "onboard_time": 1747750825,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -10897,6 +11073,14 @@
       "onboard_time": 1747544730,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38950,
+      "num": 785884,
+      "word": "中国经济延续向新向好发展态势",
+      "onboard_time": 1747749083,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 38859,
@@ -12067,6 +12251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16837,
+      "num": 272241,
+      "word": "日宇航员太空演示角动量控姿",
+      "onboard_time": 1747749684,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16733,
       "num": 263971,
       "word": "25年法考民诉大纲有哪些重点调整",
@@ -12651,6 +12843,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 8205,
+      "num": 282358,
+      "word": "以方将全面接管加沙是否符合国际法",
+      "onboard_time": 1747750584,
+      "rank": 26,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 8139,
       "num": 237680,
       "word": "消费者如何利用油价调价节省成本",
@@ -12665,6 +12865,14 @@
       "onboard_time": 1747649844,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7700,
+      "num": 269028,
+      "word": "美国信用评级史上第三次遭下调",
+      "onboard_time": 1747750765,
+      "rank": 29,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 6361,
