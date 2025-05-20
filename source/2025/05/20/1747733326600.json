@@ -1,0 +1,410 @@
+{
+  "runTime": 1747733326600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70559,
+        "num": 1011289,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1483297,
+        "num": 995005,
+        "word": "孟羽童称时隔两年收到董明珠微信",
+        "onboard_time": 1747730721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35995,
+        "num": 595065,
+        "word": "中国经济的稳健和韧性正成稀缺品",
+        "onboard_time": 1747731921,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561816,
+        "num": 561816,
+        "word": "众星520秀恩爱",
+        "onboard_time": 1747729462,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524033,
+        "num": 524033,
+        "word": "藏海传第二",
+        "onboard_time": 1747731321,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446419,
+        "num": 446419,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508045,
+        "num": 443656,
+        "word": "肖战回复张婧仪",
+        "onboard_time": 1747729221,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404667,
+        "num": 404667,
+        "word": "王励勤讨论王楚钦球拍受损",
+        "onboard_time": 1747728620,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404646,
+        "num": 404646,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 8,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 133427,
+        "num": 403997,
+        "word": "中国科技创新产业发展从不针对谁",
+        "onboard_time": 1747732643,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1350257,
+        "num": 401837,
+        "word": "大学生掉化粪池遇难同学发声",
+        "onboard_time": 1747726643,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860490,
+        "num": 399824,
+        "word": "一只猫向监狱走私毒品被抓",
+        "onboard_time": 1747727902,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 751758,
+        "num": 399269,
+        "word": "胖都来改名",
+        "onboard_time": 1747726762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234669,
+        "num": 396623,
+        "word": "酱园弄分成上下两部上映",
+        "onboard_time": 1747727600,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 394668,
+        "word": "雀巢公司巴黎水丑闻调查报告公布",
+        "onboard_time": 1747732102,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 487943,
+        "num": 393445,
+        "word": "韩国大妈吐槽中国男人对女生太好",
+        "onboard_time": 1747730843,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35048,
+        "num": 391507,
+        "word": "周云杰和高管团首次合体亮相",
+        "onboard_time": 1747729462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72305,
+        "num": 390199,
+        "word": "边江益禾堂成功入职新浪",
+        "onboard_time": 1747732341,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74052,
+        "num": 388035,
+        "word": "血脉觉醒的年轻人开始囤无纺布袋了",
+        "onboard_time": 1747732102,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29823,
+        "num": 385737,
+        "word": "520送花的冷知识",
+        "onboard_time": 1747731081,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136650,
+        "num": 385498,
+        "word": "张艺兴520",
+        "onboard_time": 1747729642,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226651,
+        "num": 382880,
+        "word": "程潇觉得自己没那么完美",
+        "onboard_time": 1747730962,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168119,
+        "num": 380938,
+        "word": "陷入我们的热恋 定档",
+        "onboard_time": 1747723400,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77747,
+        "num": 379869,
+        "word": "成毅宋韵",
+        "onboard_time": 1747728562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86625,
+        "num": 377132,
+        "word": "白宇520生日送国乒祝福",
+        "onboard_time": 1747733122,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16340,
+        "num": 376011,
+        "word": "PL15对比阵风有何优势",
+        "onboard_time": 1747732581,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39833,
+        "num": 373796,
+        "word": "现榨橙汁摊贩拿桶对嘴喝后继续卖",
+        "onboard_time": 1747732221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50593,
+        "num": 373110,
+        "word": "00后开始在520给姐妹送鲜花",
+        "onboard_time": 1747732221,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 33504,
+        "num": 371063,
+        "word": "行车记录仪有多重要",
+        "onboard_time": 1747731682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51365,
+        "num": 369434,
+        "word": "新冠又抬头可常备这些药物",
+        "onboard_time": 1747722322,
+        "rank": 29,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 424478,
+        "num": 366785,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 30,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 366489,
+        "num": 366489,
+        "word": "重庆一父亲带儿女钓鱼3人落水身亡",
+        "onboard_time": 1747730182,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358751,
+        "num": 358751,
+        "word": "摩的司机性侵14岁女生受害家属发声",
+        "onboard_time": 1747723101,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88214,
+        "num": 311414,
+        "word": "刘宇宁回应魏劭母单命格",
+        "onboard_time": 1747733181,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283364,
+        "num": 283364,
+        "word": "1万5网购10只羊货不对板还死了3只",
+        "onboard_time": 1747728562,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267138,
+        "num": 267138,
+        "word": "玉米蛋挞价格",
+        "onboard_time": 1747725083,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236044,
+        "num": 236044,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215305,
+        "num": 215305,
+        "word": "吉村真晴大藤沙月3比0李正植金琴英",
+        "onboard_time": 1747732762,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207447,
+        "num": 207447,
+        "word": "日本横滨歧视事件",
+        "onboard_time": 1747730002,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17506,
+        "num": 206398,
+        "word": "你穿的衣服原来是破烂制成的",
+        "onboard_time": 1747732942,
+        "rank": 39,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 60239,
+        "num": 205899,
+        "word": "为什么有人愿意花万元买音箱",
+        "onboard_time": 1747732462,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 87378,
+        "num": 205514,
+        "word": "陈幸同vs考夫蔓",
+        "onboard_time": 1747732102,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 205477,
+        "word": "男生掉化粪池遇难父亲发声",
+        "onboard_time": 1747733062,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182472,
+        "num": 182472,
+        "word": "使用安全套最容易犯的9错",
+        "onboard_time": 1747730662,
+        "rank": 43,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 179417,
+        "num": 179417,
+        "word": "小猪佩奇妈妈生三胎了",
+        "onboard_time": 1747731561,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173901,
+        "num": 173901,
+        "word": "已经感受到上岸第一剑的剑气了",
+        "onboard_time": 1747732521,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167112,
+        "num": 167112,
+        "word": "精致的年轻人是如何上厕所的",
+        "onboard_time": 1747731983,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165603,
+        "num": 165603,
+        "word": "男子与两女办婚礼违背公序良俗",
+        "onboard_time": 1747729702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154928,
+        "num": 154928,
+        "word": "录像回放显示裁判两次压球拍",
+        "onboard_time": 1747733303,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147652,
+        "num": 147652,
+        "word": "苏醒好像答应了两个本不想答应的活儿",
+        "onboard_time": 1747733303,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持发展实业这条路走对了#"
+    }
+  }
+}
