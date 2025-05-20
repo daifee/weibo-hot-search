@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747737955719,
+  "endTime": 1747740132983,
   "band_list": [
     {
       "raw_hot": 2955371,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2255873,
-      "num": 341906,
+      "num": 409924,
       "word": "化粪池遇难男生遗体3小时后捞出",
       "onboard_time": 1747734322,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1747730721,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1393904,
+      "num": 901149,
+      "word": "媒体评黄杨钿甜不必陷入自证怪圈",
+      "onboard_time": 1747736721,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1376145,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1018894,
-      "num": 393445,
+      "num": 403144,
       "word": "韩国大妈吐槽中国男人对女生太好",
       "onboard_time": 1747730843,
       "rank": 38,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 968480,
-      "num": 327634,
+      "num": 408675,
       "word": "曾黎机场看到粉丝落泪",
       "onboard_time": 1747734562,
       "rank": 12,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 762824,
-      "num": 324900,
+      "num": 394306,
       "word": "男生掉化粪池遇难父亲发声",
       "onboard_time": 1747733062,
       "rank": 42,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639708,
+      "num": 639708,
+      "word": "陈奕迅女儿将出道",
+      "onboard_time": 1747738822,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624882,
       "num": 624882,
       "word": "一家三口溺水两人遇难一人失联",
@@ -345,6 +361,14 @@
       "onboard_time": 1747704269,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 580477,
+      "num": 580477,
+      "word": "金价太贵年轻人开始流行租三金结婚",
+      "onboard_time": 1747734142,
+      "rank": 37,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 574725,
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476139,
+      "num": 476139,
+      "word": "20250520",
+      "onboard_time": 1747733961,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 466921,
       "num": 466921,
       "word": "孙杨退赛100自",
@@ -505,6 +537,14 @@
       "onboard_time": 1747665087,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454938,
+      "num": 454938,
+      "word": "藏海极限一换一拿下首杀",
+      "onboard_time": 1747735162,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 453705,
@@ -571,14 +611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 418514,
-      "num": 348654,
-      "word": "藏海极限一换一拿下首杀",
-      "onboard_time": 1747735162,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 416747,
       "num": 416747,
       "word": "降息",
@@ -593,6 +625,14 @@
       "onboard_time": 1747712241,
       "rank": 31,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 410931,
+      "num": 410931,
+      "word": "婆婆借115万为儿买房被判自己还",
+      "onboard_time": 1747738220,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404667,
@@ -617,6 +657,14 @@
       "onboard_time": 1747720221,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 402737,
+      "num": 402737,
+      "word": "小牛小庄官宣",
+      "onboard_time": 1747736782,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 400699,
@@ -681,14 +729,6 @@
       "onboard_time": 1747661064,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 363875,
-      "num": 363875,
-      "word": "20250520",
-      "onboard_time": 1747733961,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357045,
@@ -795,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298411,
+      "num": 298411,
+      "word": "折腰",
+      "onboard_time": 1747648884,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285104,
       "num": 231658,
       "word": "女子发现放了两年的酱油析出玻璃渣",
@@ -809,14 +857,6 @@
       "onboard_time": 1747642764,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 283124,
-      "num": 283124,
-      "word": "小牛小庄官宣",
-      "onboard_time": 1747736782,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 275494,
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205147,
+      "num": 205147,
+      "word": "王曼昱vs渡边劳拉",
+      "onboard_time": 1747738462,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204539,
       "num": 204539,
       "word": "蔡徐坤新歌deadman",
@@ -1323,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194987,
-      "num": 304162,
-      "word": "金价太贵年轻人开始流行租三金结婚",
-      "onboard_time": 1747734142,
-      "rank": 37,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "文旅局回应明中都鼓楼瓦片脱落",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1747725801,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187473,
+      "num": 187473,
+      "word": "有剧拍了为两千五造成文物损失",
+      "onboard_time": 1747737862,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 185581,
@@ -1667,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161476,
+      "num": 405486,
+      "word": "何浩楠直播",
+      "onboard_time": 1747737622,
+      "rank": 16,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 161356,
       "num": 231666,
       "word": "王皓曾说不理解检测决赛球板标准",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1747715124,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157009,
+      "num": 157009,
+      "word": "蜜雪冰城薄荷奶绿",
+      "onboard_time": 1747738462,
+      "rank": 42,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 155515,
@@ -1795,14 +1859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152294,
-      "num": 152294,
-      "word": "有剧拍了为两千五造成文物损失",
-      "onboard_time": 1747737862,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152027,
       "num": 152027,
       "word": "摆摊卖蜜雪冰城柠檬水",
@@ -1843,11 +1899,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 146865,
+      "num": 146865,
+      "word": "汪苏泷 南昌确实好吃",
+      "onboard_time": 1747738041,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146739,
       "num": 434845,
       "word": "穿虞书欣同款腰精裤旺自己",
       "onboard_time": 1747714284,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146605,
+      "num": 157540,
+      "word": "雪姨英国黑池舞蹈第三名",
+      "onboard_time": 1747738163,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -1883,6 +1955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143282,
+      "num": 143282,
+      "word": "女子同时交往孙兴慜在内的多名男子",
+      "onboard_time": 1747739901,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142308,
       "num": 142308,
       "word": "李在明在防弹玻璃中间发表竞选演讲",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1747702291,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140227,
+      "num": 292492,
+      "word": "海口车辆拖猫事件详细视频",
+      "onboard_time": 1747737683,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140072,
@@ -1985,6 +2073,14 @@
       "onboard_time": 1747710750,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 136189,
+      "num": 407929,
+      "word": "iQOONeo游戏稳帧顶流",
+      "onboard_time": 1747739541,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 136059,
@@ -2099,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128550,
+      "num": 128550,
+      "word": "男子醉酒3女孩趴近确认熟睡才离开",
+      "onboard_time": 1747739841,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128297,
       "num": 128297,
       "word": "空心病",
@@ -2208,6 +2312,14 @@
       "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
       "onboard_time": 1747667665,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117402,
+      "num": 162538,
+      "word": "年轻人租黄金结婚100克一天1500元",
+      "onboard_time": 1747739122,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2491,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82901,
-      "num": 82901,
-      "word": "折腰",
-      "onboard_time": 1747648884,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81747,
       "num": 483450,
       "word": "全运会乒乓球10金产生日期敲定",
@@ -2545,6 +2649,14 @@
       "onboard_time": 1747655305,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78466,
+      "num": 268279,
+      "word": "为什么倒霉的总是王楚钦",
+      "onboard_time": 1747739362,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 77472,
@@ -2601,6 +2713,14 @@
       "onboard_time": 1747732102,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73048,
+      "num": 195025,
+      "word": "王曼昱4比0战胜巴西选手",
+      "onboard_time": 1747740021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 72576,
@@ -2779,6 +2899,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 61908,
+      "num": 406347,
+      "word": "刘宇宁说夏日歌会见",
+      "onboard_time": 1747735942,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61663,
       "num": 426308,
       "word": "大部分卫生巾品牌是代工",
@@ -2793,6 +2921,14 @@
       "onboard_time": 1747678276,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57613,
+      "num": 273761,
+      "word": "520收到这花谁不会被感动到流泪",
+      "onboard_time": 1747738401,
+      "rank": 27,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 57456,
@@ -2827,19 +2963,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55467,
-      "num": 292492,
-      "word": "海口车辆拖猫事件详细视频",
-      "onboard_time": 1747737683,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55122,
       "num": 55122,
       "word": "王九龙 张九龄",
       "onboard_time": 1747662805,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53155,
+      "num": 410406,
+      "word": "520被喜欢的明星发红包了",
+      "onboard_time": 1747739362,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2937,14 +3073,6 @@
       "onboard_time": 1747721242,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 45512,
-      "num": 299107,
-      "word": "刘宇宁说夏日歌会见",
-      "onboard_time": 1747735942,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 44952,
@@ -3195,6 +3323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28434,
+      "num": 271644,
+      "word": "护卫犬顶级保护小主人",
+      "onboard_time": 1747738942,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28329,
       "num": 184381,
       "word": "哈飞推出新型Z9M直升机",
@@ -3217,6 +3353,14 @@
       "onboard_time": 1747718241,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 27158,
+      "num": 407166,
+      "word": "领证不用户口本首个520新人扎堆",
+      "onboard_time": 1747739183,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27117,
@@ -3275,6 +3419,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24465,
+      "num": 404333,
+      "word": "小满怎么睡好两觉",
+      "onboard_time": 1747739601,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24271,
+      "num": 404596,
+      "word": "长期跑步对身体和心理产生哪些影响",
+      "onboard_time": 1747739241,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24117,
       "num": 155225,
       "word": "印巴之战照亮亚洲水资源危机",
@@ -3331,6 +3491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20511,
+      "num": 219526,
+      "word": "大家等520我等61",
+      "onboard_time": 1747737801,
+      "rank": 39,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 19868,
       "num": 284813,
       "word": "炎症性肠病会癌变吗",
@@ -3377,14 +3545,6 @@
       "onboard_time": 1747730843,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16914,
-      "num": 219526,
-      "word": "大家等520我等61",
-      "onboard_time": 1747737801,
-      "rank": 39,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 16546,
@@ -3441,6 +3601,14 @@
       "onboard_time": 1747725440,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14980,
+      "num": 161171,
+      "word": "为什么医生建议HPV疫苗男女通打",
+      "onboard_time": 1747739362,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14579,
@@ -3537,6 +3705,14 @@
       "onboard_time": 1747710811,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8889,
+      "num": 264586,
+      "word": "洗衣店水洗替代干洗会残留有害物吗",
+      "onboard_time": 1747739841,
+      "rank": 30,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
