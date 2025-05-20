@@ -1,7 +1,15 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747713451443,
+  "endTime": 1747715443024,
   "band_list": [
+    {
+      "raw_hot": 2421500,
+      "num": 822689,
+      "word": "重庆一大学生掉进化粪池遇难",
+      "onboard_time": 1747712301,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1911251,
       "num": 1911251,
@@ -16,6 +24,14 @@
       "word": "凤阳鼓楼坍塌",
       "onboard_time": 1747668502,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1133154,
+      "num": 1012916,
+      "word": "女子回应错过航班哭喊耽误孩子考公",
+      "onboard_time": 1747712602,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -51,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948081,
+      "num": 948081,
+      "word": "孙颖莎说第一场她的球拍也有问题",
+      "onboard_time": 1747713803,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 945014,
       "num": 945014,
       "word": "白宇拍到了王楚钦受损的球拍",
@@ -83,12 +107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 822689,
-      "num": 822689,
-      "word": "重庆一大学生掉进化粪池遇难",
-      "onboard_time": 1747712301,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 820889,
+      "num": 820889,
+      "word": "中餐厅出发路透",
+      "onboard_time": 1747713501,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 814672,
@@ -139,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 550231,
+      "num": 419887,
+      "word": "欧豪自己都生不出这么像的儿子",
+      "onboard_time": 1747713624,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547161,
       "num": 547161,
       "word": "RNG恭喜Uzi",
@@ -160,6 +192,14 @@
       "word": "徐艺洋回应网友关于卫生巾质疑",
       "onboard_time": 1747704691,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524783,
+      "num": 421485,
+      "word": "宋亚轩 鹅妈妈",
+      "onboard_time": 1747713322,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -251,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419797,
+      "num": 419797,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 416747,
       "num": 416747,
       "word": "降息",
       "onboard_time": 1747698140,
       "rank": 7,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 414701,
+      "num": 414701,
+      "word": "1年期定存跌破1%",
+      "onboard_time": 1747712241,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 403834,
@@ -339,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318554,
+      "num": 318554,
+      "word": "印度集中展示巴军残骸",
+      "onboard_time": 1747713443,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317625,
       "num": 339892,
       "word": "腾讯视频520剧爱你",
@@ -355,20 +419,20 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 310039,
+      "num": 310039,
+      "word": "古茗口令",
+      "onboard_time": 1747713743,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 300715,
       "num": 337904,
       "word": "顶着这张正派脸咋办出的肮脏事",
       "onboard_time": 1747709909,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289139,
-      "num": 289138,
-      "word": "黄金",
-      "onboard_time": 1747709730,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 285104,
@@ -435,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242599,
+      "num": 242599,
+      "word": "减脂期掉秤快的炒菜",
+      "onboard_time": 1747713563,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 237057,
       "num": 237057,
       "word": "主裁说王楚钦球拍没问题是掩饰吗",
@@ -451,12 +523,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 233985,
+      "num": 425662,
+      "word": "御赐小仵作2处处吻花絮",
+      "onboard_time": 1747713501,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233552,
       "num": 357540,
       "word": "救人小伙用义父梗打趣被救同学",
       "onboard_time": 1747710390,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 231231,
+      "num": 231231,
+      "word": "很多闷声赚钱的行业都是自由职业",
+      "onboard_time": 1747713803,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 229384,
@@ -499,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215490,
+      "num": 215490,
+      "word": "小米芯片",
+      "onboard_time": 1747713501,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215296,
       "num": 215296,
       "word": "汉语的同化能力有多强",
@@ -513,14 +609,6 @@
       "onboard_time": 1747696879,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213122,
-      "num": 213122,
-      "word": "1年期定存跌破1%",
-      "onboard_time": 1747712241,
-      "rank": 31,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 212207,
@@ -539,12 +627,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212043,
+      "num": 316860,
+      "word": "李艾录爸爸当家穿的全是男装",
+      "onboard_time": 1747715184,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204539,
       "num": 204539,
       "word": "蔡徐坤新歌deadman",
       "onboard_time": 1747705769,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204435,
+      "num": 204435,
+      "word": "警方回应大学生掉进化粪池遇难",
+      "onboard_time": 1747714583,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199558,
@@ -585,6 +689,14 @@
       "onboard_time": 1747710210,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196425,
+      "num": 196425,
+      "word": "国际乒联该认真反思了",
+      "onboard_time": 1747714704,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 195758,
@@ -643,12 +755,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185623,
-      "num": 316330,
-      "word": "女子回应错过航班哭喊耽误孩子考公",
-      "onboard_time": 1747712602,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 185581,
+      "num": 217769,
+      "word": "丁禹兮中餐厅出发路透",
+      "onboard_time": 1747713983,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183194,
@@ -681,6 +793,22 @@
       "onboard_time": 1747670843,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176509,
+      "num": 315290,
+      "word": "李现演技把所有人都骗了",
+      "onboard_time": 1747714643,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175104,
+      "num": 175104,
+      "word": "刘亦菲风华绝代又松弛自然",
+      "onboard_time": 1747715364,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 172186,
@@ -723,20 +851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160984,
-      "num": 160984,
-      "word": "宋亚轩 鹅妈妈",
-      "onboard_time": 1747713322,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158280,
       "num": 158280,
       "word": "存款利率新一轮下调",
       "onboard_time": 1747697179,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157183,
+      "num": 217386,
+      "word": "光遇",
+      "onboard_time": 1747715124,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 155515,
@@ -979,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118868,
+      "num": 430700,
+      "word": "穿虞书欣同款腰精裤旺自己",
+      "onboard_time": 1747714284,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117985,
       "num": 117985,
       "word": "安徽滁州凤阳明中都鼓楼瓦片脱落",
@@ -1027,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109570,
+      "num": 423276,
+      "word": "周冠宇呼吁男女都要预防HPV",
+      "onboard_time": 1747714222,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104287,
       "num": 104287,
       "word": "张子枫戛纳电影节造型",
@@ -1041,6 +1185,14 @@
       "onboard_time": 1747661365,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 103456,
+      "num": 311925,
+      "word": "男子被降职降薪称抑郁4次闹事",
+      "onboard_time": 1747714284,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101127,
@@ -1131,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80582,
+      "num": 314162,
+      "word": "没拿S赛冠军奖杯是Uzi的遗憾",
+      "onboard_time": 1747714162,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79681,
       "num": 79681,
       "word": "孙颖莎雨果中远台对拉太帅了",
@@ -1187,10 +1347,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71047,
+      "num": 423077,
+      "word": "有人花十几万克隆宠物",
+      "onboard_time": 1747713923,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70884,
       "num": 744242,
       "word": "中国经济延续向新向好",
       "onboard_time": 1747711341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70005,
+      "num": 1012967,
+      "word": "网警提醒浪漫互动个人信息要保密",
+      "onboard_time": 1747713262,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -1211,12 +1387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66078,
+      "num": 225360,
+      "word": "如何守护自己的心理健康",
+      "onboard_time": 1747715244,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65749,
       "num": 65749,
       "word": "莎头组合混双对手因伤退赛",
       "onboard_time": 1747697840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64450,
+      "num": 428137,
+      "word": "微博每小时抽1个5200元锦鲤",
+      "onboard_time": 1747713683,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 63647,
@@ -1267,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55901,
+      "num": 228041,
+      "word": "院长当内鬼量身定做招标方案",
+      "onboard_time": 1747715364,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55122,
       "num": 55122,
       "word": "王九龙 张九龄",
@@ -1313,6 +1513,22 @@
       "onboard_time": 1747675219,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42426,
+      "num": 223665,
+      "word": "20多分钟如何吹出一座粮仓",
+      "onboard_time": 1747714222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39696,
+      "num": 201071,
+      "word": "国家发改委召开5月份新闻发布会",
+      "onboard_time": 1747715303,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38355,
@@ -1387,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29972,
+      "num": 226849,
+      "word": "父母教育孩子先学会摆烂",
+      "onboard_time": 1747715424,
+      "rank": 37,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 24771,
       "num": 37355,
       "word": "于适亮相戛纳中国青年电影活动",
@@ -1427,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19380,
+      "num": 229923,
+      "word": "朋友圈秀恩爱现在已经过时了吗",
+      "onboard_time": 1747715303,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19173,
       "num": 20155,
       "word": "外交部回应世卫大会拒绝涉台提案",
@@ -1459,6 +1691,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 14742,
+      "num": 235062,
+      "word": "各地博物馆显眼包申请出战",
+      "onboard_time": 1747715244,
+      "rank": 33,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 14579,
       "num": 20114,
       "word": "孙杨说要像哪吒一样",
@@ -1481,14 +1721,6 @@
       "onboard_time": 1747683313,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 9832,
-      "num": 843893,
-      "word": "网警提醒浪漫互动个人信息要保密",
-      "onboard_time": 1747713262,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8894,

@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747713451443,
+  "endTime": 1747715443024,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -73,6 +73,14 @@
       "onboard_time": 1747627102,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2421500,
+      "num": 822689,
+      "word": "重庆一大学生掉进化粪池遇难",
+      "onboard_time": 1747712301,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2412951,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1133154,
+      "num": 1012916,
+      "word": "女子回应错过航班哭喊耽误孩子考公",
+      "onboard_time": 1747712602,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1115625,
       "num": 1171720,
       "word": "黄子韬说老婆是最有底气的试验品",
@@ -497,6 +513,14 @@
       "onboard_time": 1747549639,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 948081,
+      "num": 948081,
+      "word": "孙颖莎说第一场她的球拍也有问题",
+      "onboard_time": 1747713803,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 941536,
@@ -635,12 +659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 822689,
-      "num": 822689,
-      "word": "重庆一大学生掉进化粪池遇难",
-      "onboard_time": 1747712301,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 820889,
+      "num": 820889,
+      "word": "中餐厅出发路透",
+      "onboard_time": 1747713501,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 814672,
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550231,
+      "num": 419887,
+      "word": "欧豪自己都生不出这么像的儿子",
+      "onboard_time": 1747713624,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547161,
       "num": 547161,
       "word": "RNG恭喜Uzi",
@@ -1200,6 +1232,14 @@
       "word": "编剧祝明再发长文",
       "onboard_time": 1747650685,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524783,
+      "num": 421485,
+      "word": "宋亚轩 鹅妈妈",
+      "onboard_time": 1747713322,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1507,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419797,
+      "num": 419797,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 419298,
       "num": 419298,
       "word": "358家5A景区全名单",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1747500020,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414701,
+      "num": 414701,
+      "word": "1年期定存跌破1%",
+      "onboard_time": 1747712241,
+      "rank": 31,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 403797,
@@ -1923,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318554,
+      "num": 318554,
+      "word": "印度集中展示巴军残骸",
+      "onboard_time": 1747713443,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 317625,
       "num": 339892,
       "word": "腾讯视频520剧爱你",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1747700542,
       "rank": 14,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 310039,
+      "num": 310039,
+      "word": "古茗口令",
+      "onboard_time": 1747713743,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 309507,
@@ -2137,14 +2209,6 @@
       "onboard_time": 1747530628,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 289139,
-      "num": 289138,
-      "word": "黄金",
-      "onboard_time": 1747709730,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 288211,
@@ -2571,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242599,
+      "num": 242599,
+      "word": "减脂期掉秤快的炒菜",
+      "onboard_time": 1747713563,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 241644,
       "num": 241644,
       "word": "藏海魏无羡时候",
@@ -2659,6 +2731,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 233985,
+      "num": 425662,
+      "word": "御赐小仵作2处处吻花絮",
+      "onboard_time": 1747713501,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233697,
       "num": 233697,
       "word": "人生无常我只能接受",
@@ -2713,6 +2793,14 @@
       "onboard_time": 1747568540,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 231231,
+      "num": 231231,
+      "word": "很多闷声赚钱的行业都是自由职业",
+      "onboard_time": 1747713803,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 230967,
@@ -2955,6 +3043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 215490,
+      "num": 215490,
+      "word": "小米芯片",
+      "onboard_time": 1747713501,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215296,
       "num": 215296,
       "word": "汉语的同化能力有多强",
@@ -3011,14 +3107,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 213122,
-      "num": 213122,
-      "word": "1年期定存跌破1%",
-      "onboard_time": 1747712241,
-      "rank": 31,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 212498,
       "num": 223064,
       "word": "重器官宣开机",
@@ -3049,6 +3137,14 @@
       "onboard_time": 1747638444,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212043,
+      "num": 316860,
+      "word": "李艾录爸爸当家穿的全是男装",
+      "onboard_time": 1747715184,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 211653,
@@ -3257,6 +3353,14 @@
       "onboard_time": 1747647624,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204435,
+      "num": 204435,
+      "word": "警方回应大学生掉进化粪池遇难",
+      "onboard_time": 1747714583,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204380,
@@ -3593,6 +3697,14 @@
       "onboard_time": 1747660225,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196425,
+      "num": 196425,
+      "word": "国际乒联该认真反思了",
+      "onboard_time": 1747714704,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 196159,
@@ -4019,20 +4131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185623,
-      "num": 316330,
-      "word": "女子回应错过航班哭喊耽误孩子考公",
-      "onboard_time": 1747712602,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185601,
       "num": 185601,
       "word": "徐敏在发遗书",
       "onboard_time": 1747661305,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185581,
+      "num": 217769,
+      "word": "丁禹兮中餐厅出发路透",
+      "onboard_time": 1747713983,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185268,
@@ -4275,12 +4387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176509,
+      "num": 315290,
+      "word": "李现演技把所有人都骗了",
+      "onboard_time": 1747714643,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176167,
       "num": 176167,
       "word": "九十斤的女主九百斤的反骨",
       "onboard_time": 1747657764,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175104,
+      "num": 175104,
+      "word": "刘亦菲风华绝代又松弛自然",
+      "onboard_time": 1747715364,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 174576,
@@ -4755,14 +4883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160984,
-      "num": 160984,
-      "word": "宋亚轩 鹅妈妈",
-      "onboard_time": 1747713322,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160594,
       "num": 193717,
       "word": "自律一个月就能把湿气排出去",
@@ -4889,6 +5009,14 @@
       "onboard_time": 1747571542,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157183,
+      "num": 217386,
+      "word": "光遇",
+      "onboard_time": 1747715124,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 156942,
@@ -6339,6 +6467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118868,
+      "num": 430700,
+      "word": "穿虞书欣同款腰精裤旺自己",
+      "onboard_time": 1747714284,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118587,
       "num": 118587,
       "word": "陈昊宇给陈丽君越剧送花篮",
@@ -6707,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109570,
+      "num": 423276,
+      "word": "周冠宇呼吁男女都要预防HPV",
+      "onboard_time": 1747714222,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109435,
       "num": 109435,
       "word": "肖战说张婧仪自带一种神秘感",
@@ -6809,6 +6953,14 @@
       "onboard_time": 1747669222,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103456,
+      "num": 311925,
+      "word": "男子被降职降薪称抑郁4次闹事",
+      "onboard_time": 1747714284,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103379,
@@ -7483,6 +7635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80582,
+      "num": 314162,
+      "word": "没拿S赛冠军奖杯是Uzi的遗憾",
+      "onboard_time": 1747714162,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80506,
       "num": 194157,
       "word": "中国最早的体育奖杯",
@@ -7779,6 +7939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71047,
+      "num": 423077,
+      "word": "有人花十几万克隆宠物",
+      "onboard_time": 1747713923,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70884,
       "num": 744242,
       "word": "中国经济延续向新向好",
@@ -7793,6 +7961,14 @@
       "onboard_time": 1747666765,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 70005,
+      "num": 1012967,
+      "word": "网警提醒浪漫互动个人信息要保密",
+      "onboard_time": 1747713262,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69531,
@@ -7891,6 +8067,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 66078,
+      "num": 225360,
+      "word": "如何守护自己的心理健康",
+      "onboard_time": 1747715244,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 65749,
       "num": 65749,
       "word": "莎头组合混双对手因伤退赛",
@@ -7913,6 +8097,14 @@
       "onboard_time": 1747642043,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64450,
+      "num": 428137,
+      "word": "微博每小时抽1个5200元锦鲤",
+      "onboard_time": 1747713683,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 64360,
@@ -8080,6 +8272,14 @@
       "word": "博主科普新疆上空不明飞行物",
       "onboard_time": 1747555581,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55901,
+      "num": 228041,
+      "word": "院长当内鬼量身定做招标方案",
+      "onboard_time": 1747715364,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -8427,6 +8627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42426,
+      "num": 223665,
+      "word": "20多分钟如何吹出一座粮仓",
+      "onboard_time": 1747714222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42279,
       "num": 230170,
       "word": "媒体曝光俄乌谈判细节",
@@ -8497,6 +8705,14 @@
       "onboard_time": 1747544549,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 39696,
+      "num": 201071,
+      "word": "国家发改委召开5月份新闻发布会",
+      "onboard_time": 1747715303,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39496,
@@ -8833,6 +9049,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 29972,
+      "num": 226849,
+      "word": "父母教育孩子先学会摆烂",
+      "onboard_time": 1747715424,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 29670,
@@ -9227,6 +9451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19380,
+      "num": 229923,
+      "word": "朋友圈秀恩爱现在已经过时了吗",
+      "onboard_time": 1747715303,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19326,
       "num": 35493,
       "word": "特朗普抱怨援乌资金不知去向",
@@ -9457,6 +9689,14 @@
       "onboard_time": 1747562484,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14742,
+      "num": 235062,
+      "word": "各地博物馆显眼包申请出战",
+      "onboard_time": 1747715244,
+      "rank": 33,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 14590,
@@ -9697,14 +9937,6 @@
       "onboard_time": 1747660585,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 9832,
-      "num": 843893,
-      "word": "网警提醒浪漫互动个人信息要保密",
-      "onboard_time": 1747713262,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9182,

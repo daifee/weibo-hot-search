@@ -1,0 +1,410 @@
+{
+  "runTime": 1747715443024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 106984,
+        "num": 1017117,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1658238,
+        "num": 1014915,
+        "word": "钟南山对新冠病毒最新判断",
+        "onboard_time": 1747710450,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70005,
+        "num": 1012967,
+        "word": "网警提醒浪漫互动个人信息要保密",
+        "onboard_time": 1747713262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1133154,
+        "num": 1012916,
+        "word": "女子回应错过航班哭喊耽误孩子考公",
+        "onboard_time": 1747712602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012581,
+        "num": 1012581,
+        "word": "折腰扫楼直播",
+        "onboard_time": 1747712123,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 948081,
+        "num": 948081,
+        "word": "孙颖莎说第一场她的球拍也有问题",
+        "onboard_time": 1747713803,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820889,
+        "num": 820889,
+        "word": "中餐厅出发路透",
+        "onboard_time": 1747713501,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577009,
+        "num": 577009,
+        "word": "国际乒联回应王楚钦球拍受损",
+        "onboard_time": 1747697060,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515901,
+        "num": 515901,
+        "word": "RNG恭喜Uzi",
+        "onboard_time": 1747710450,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 433284,
+        "num": 433284,
+        "word": "2025520",
+        "onboard_time": 1747700482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2421500,
+        "num": 432980,
+        "word": "重庆一大学生掉进化粪池遇难",
+        "onboard_time": 1747712301,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875977,
+        "num": 432038,
+        "word": "黄杨钿甜弟弟",
+        "onboard_time": 1747698200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118868,
+        "num": 430700,
+        "word": "穿虞书欣同款腰精裤旺自己",
+        "onboard_time": 1747714284,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402750,
+        "num": 428922,
+        "word": "新余钢铁回应虞书欣家人传闻",
+        "onboard_time": 1747708050,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64450,
+        "num": 428137,
+        "word": "微博每小时抽1个5200元锦鲤",
+        "onboard_time": 1747713683,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261624,
+        "num": 427313,
+        "word": "藏海传破万",
+        "onboard_time": 1747706549,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233985,
+        "num": 425662,
+        "word": "御赐小仵作2处处吻花絮",
+        "onboard_time": 1747713501,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223949,
+        "num": 424818,
+        "word": "王源hug官周上线",
+        "onboard_time": 1747710271,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109570,
+        "num": 423276,
+        "word": "周冠宇呼吁男女都要预防HPV",
+        "onboard_time": 1747714222,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71047,
+        "num": 423077,
+        "word": "有人花十几万克隆宠物",
+        "onboard_time": 1747713923,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524783,
+        "num": 421485,
+        "word": "宋亚轩 鹅妈妈",
+        "onboard_time": 1747713322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550231,
+        "num": 419887,
+        "word": "欧豪自己都生不出这么像的儿子",
+        "onboard_time": 1747713624,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419797,
+        "num": 419797,
+        "word": "黄金",
+        "onboard_time": 1747709730,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414701,
+        "num": 414701,
+        "word": "1年期定存跌破1%",
+        "onboard_time": 1747712241,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 405873,
+        "num": 405873,
+        "word": "最近为啥这么热",
+        "onboard_time": 1747702529,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318554,
+        "num": 318554,
+        "word": "印度集中展示巴军残骸",
+        "onboard_time": 1747713443,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212043,
+        "num": 316860,
+        "word": "李艾录爸爸当家穿的全是男装",
+        "onboard_time": 1747715184,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176509,
+        "num": 315290,
+        "word": "李现演技把所有人都骗了",
+        "onboard_time": 1747714643,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80582,
+        "num": 314162,
+        "word": "没拿S赛冠军奖杯是Uzi的遗憾",
+        "onboard_time": 1747714162,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103456,
+        "num": 311925,
+        "word": "男子被降职降薪称抑郁4次闹事",
+        "onboard_time": 1747714284,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137092,
+        "num": 310764,
+        "word": "救人小伙用义父梗打趣被救同学",
+        "onboard_time": 1747710390,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 310039,
+        "num": 310039,
+        "word": "古茗口令",
+        "onboard_time": 1747713743,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242599,
+        "num": 242599,
+        "word": "减脂期掉秤快的炒菜",
+        "onboard_time": 1747713563,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 14742,
+        "num": 235062,
+        "word": "各地博物馆显眼包申请出战",
+        "onboard_time": 1747715244,
+        "rank": 33,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 231231,
+        "num": 231231,
+        "word": "很多闷声赚钱的行业都是自由职业",
+        "onboard_time": 1747713803,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19380,
+        "num": 229923,
+        "word": "朋友圈秀恩爱现在已经过时了吗",
+        "onboard_time": 1747715303,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55901,
+        "num": 228041,
+        "word": "院长当内鬼量身定做招标方案",
+        "onboard_time": 1747715364,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29972,
+        "num": 226849,
+        "word": "父母教育孩子先学会摆烂",
+        "onboard_time": 1747715424,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 66078,
+        "num": 225360,
+        "word": "如何守护自己的心理健康",
+        "onboard_time": 1747715244,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42426,
+        "num": 223665,
+        "word": "20多分钟如何吹出一座粮仓",
+        "onboard_time": 1747714222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222592,
+        "num": 222592,
+        "word": "陈奕迅ins报平安",
+        "onboard_time": 1747663710,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185581,
+        "num": 217769,
+        "word": "丁禹兮中餐厅出发路透",
+        "onboard_time": 1747713983,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157183,
+        "num": 217386,
+        "word": "光遇",
+        "onboard_time": 1747715124,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217141,
+        "num": 217141,
+        "word": "如果你经常侧睡导致圆肩扣肩",
+        "onboard_time": 1747697479,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215490,
+        "num": 215490,
+        "word": "小米芯片",
+        "onboard_time": 1747713501,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204435,
+        "num": 204435,
+        "word": "警方回应大学生掉进化粪池遇难",
+        "onboard_time": 1747714583,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39696,
+        "num": 201071,
+        "word": "国家发改委召开5月份新闻发布会",
+        "onboard_time": 1747715303,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199002,
+        "num": 199002,
+        "word": "520文案",
+        "onboard_time": 1747703130,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196425,
+        "num": 196425,
+        "word": "国际乒联该认真反思了",
+        "onboard_time": 1747714704,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175104,
+        "num": 175104,
+        "word": "刘亦菲风华绝代又松弛自然",
+        "onboard_time": 1747715364,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}
