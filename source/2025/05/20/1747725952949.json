@@ -1,0 +1,410 @@
+{
+  "runTime": 1747725952949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 94798,
+        "num": 1015167,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1489174,
+        "num": 942947,
+        "word": "包文婧包贝尔二胎出生",
+        "onboard_time": 1747723400,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44627,
+        "num": 839297,
+        "word": "网警提醒浪漫互动个人信息要保密",
+        "onboard_time": 1747713262,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1062200,
+        "num": 800522,
+        "word": "新加坡男星多次性侵未成年判40个月",
+        "onboard_time": 1747719023,
+        "rank": 3,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 748736,
+        "num": 748736,
+        "word": "黄子韬徐艺洋搂腰抱",
+        "onboard_time": 1747724781,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743715,
+        "num": 743715,
+        "word": "四川慈善总会回应黄杨钿甜耳环事件",
+        "onboard_time": 1747716982,
+        "rank": 5,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 574725,
+        "num": 574725,
+        "word": "剧还没播男女主翻面吻戏看爽了",
+        "onboard_time": 1747721420,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569935,
+        "num": 569935,
+        "word": "520红包",
+        "onboard_time": 1747718422,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 503503,
+        "num": 503503,
+        "word": "高校通报学生掉化粪池遇难",
+        "onboard_time": 1747717403,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 565636,
+        "num": 491544,
+        "word": "陈奕迅的520惊喜是海口站二开",
+        "onboard_time": 1747723282,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 474528,
+        "num": 474528,
+        "word": "业内人士称王楚钦球拍受损或是意外",
+        "onboard_time": 1747719802,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474042,
+        "num": 474042,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747721781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421400,
+        "num": 421400,
+        "word": "钟南山对新冠病毒最新判断",
+        "onboard_time": 1747710450,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 411937,
+        "num": 411937,
+        "word": "LWX 薇恩冠军皮肤的拥有者",
+        "onboard_time": 1747721841,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18657,
+        "num": 403627,
+        "word": "科普博主看眼舌苔就说有胃溃疡",
+        "onboard_time": 1747725201,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 403285,
+        "num": 403285,
+        "word": "俄媒称普京与特朗普都不想先挂电话",
+        "onboard_time": 1747720221,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398905,
+        "num": 398905,
+        "word": "陷入我们的热恋 定档",
+        "onboard_time": 1747723400,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357045,
+        "num": 397679,
+        "word": "登陆少年团撕拉片",
+        "onboard_time": 1747723941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15030,
+        "num": 392211,
+        "word": "美俄准备起草和平备忘录能落实吗",
+        "onboard_time": 1747725440,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233924,
+        "num": 387747,
+        "word": "一家三口溺水两人遇难一人失联",
+        "onboard_time": 1747722383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25991,
+        "num": 383244,
+        "word": "如果动植物会说话",
+        "onboard_time": 1747725682,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94772,
+        "num": 380416,
+        "word": "山东夜校开公文写作课秒抢光",
+        "onboard_time": 1747724662,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 379083,
+        "num": 379083,
+        "word": "曝驾车拖猫女子是宠物友好餐厅厨师",
+        "onboard_time": 1747718962,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230721,
+        "num": 375918,
+        "word": "蔡文静在桃花坞没有一个人选",
+        "onboard_time": 1747724841,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38742,
+        "num": 359905,
+        "word": "无畏520手举玫瑰",
+        "onboard_time": 1747719621,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210400,
+        "num": 338347,
+        "word": "门童六人中文手写信",
+        "onboard_time": 1747722861,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49588,
+        "num": 315263,
+        "word": "折腰剧组全员不焦虑",
+        "onboard_time": 1747724722,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311265,
+        "num": 311265,
+        "word": "孙颖莎说第一场她的球拍也有问题",
+        "onboard_time": 1747713803,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52885,
+        "num": 281552,
+        "word": "新冠又抬头可常备这些药物",
+        "onboard_time": 1747722322,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 14104,
+        "num": 268216,
+        "word": "张震岳情歌里男孩始终没追到女孩",
+        "onboard_time": 1747725083,
+        "rank": 29,
+        "category": "音乐,音乐"
+      },
+      {
+        "raw_hot": 78366,
+        "num": 265334,
+        "word": "小鹏MONA高阶智能辅助驾驶来了",
+        "onboard_time": 1747721301,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265326,
+        "num": 265326,
+        "word": "摩的司机性侵14岁女生受害家属发声",
+        "onboard_time": 1747723101,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259724,
+        "num": 259724,
+        "word": "玉米蛋挞价格",
+        "onboard_time": 1747725083,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204936,
+        "num": 204936,
+        "word": "刘宇宁扫楼又跳九万字了",
+        "onboard_time": 1747716023,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189285,
+        "num": 189285,
+        "word": "主播因为说十个勤天是爱豆鞠躬道歉",
+        "onboard_time": 1747723822,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184615,
+        "num": 184615,
+        "word": "酱园弄上影节开幕片",
+        "onboard_time": 1747724601,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183287,
+        "num": 183287,
+        "word": "国际乒联表示确保类似事件不再发生",
+        "onboard_time": 1747719802,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25573,
+        "num": 182712,
+        "word": "线上骚扰他人被找上门后认怂",
+        "onboard_time": 1747725083,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66165,
+        "num": 182327,
+        "word": "烟台救人小伙姜昭鹏回应未来打算",
+        "onboard_time": 1747725861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182287,
+        "num": 182287,
+        "word": "一年学费5万8表演生现状",
+        "onboard_time": 1747724841,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 167685,
+        "num": 167685,
+        "word": "还原王楚钦与裁判沟通过程",
+        "onboard_time": 1747724302,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160883,
+        "num": 160883,
+        "word": "宁静夸孟子义漂亮",
+        "onboard_time": 1747718902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159588,
+        "num": 159588,
+        "word": "中餐厅出发路透",
+        "onboard_time": 1747713501,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155269,
+        "num": 155269,
+        "word": "乌军击毙俄十项国家奖狙击手",
+        "onboard_time": 1747724061,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137098,
+        "num": 137098,
+        "word": "登陆少年 披荆斩棘的哥哥",
+        "onboard_time": 1747725801,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134936,
+        "num": 134936,
+        "word": "肖战回复周奇",
+        "onboard_time": 1747718241,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 127721,
+        "word": "空心病",
+        "onboard_time": 1747725021,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127652,
+        "num": 127652,
+        "word": "撕拉片",
+        "onboard_time": 1747724362,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125260,
+        "num": 125260,
+        "word": "2025520",
+        "onboard_time": 1747700482,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 119316,
+        "word": "球拍受损为何一再发生在王楚钦身上",
+        "onboard_time": 1747722981,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}
