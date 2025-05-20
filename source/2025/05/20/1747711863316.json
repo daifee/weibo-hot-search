@@ -1,0 +1,410 @@
+{
+  "runTime": 1747711863316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 400699,
+        "num": 1064111,
+        "word": "广州警方对境外黑客案立案调查",
+        "onboard_time": 1747705891,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830506,
+        "num": 830506,
+        "word": "最近为啥这么热",
+        "onboard_time": 1747702529,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40207,
+        "num": 744242,
+        "word": "中国经济延续向新向好",
+        "onboard_time": 1747711341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742429,
+        "num": 742429,
+        "word": "新余钢铁回应虞书欣家人传闻",
+        "onboard_time": 1747708050,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676977,
+        "num": 676977,
+        "word": "国际乒联回应王楚钦球拍受损",
+        "onboard_time": 1747697060,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495413,
+        "num": 495413,
+        "word": "折腰预告",
+        "onboard_time": 1747668024,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454327,
+        "num": 454327,
+        "word": "孙杨退赛100自",
+        "onboard_time": 1747708111,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442621,
+        "num": 442621,
+        "word": "如果你经常侧睡导致圆肩扣肩",
+        "onboard_time": 1747697479,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437882,
+        "num": 437882,
+        "word": "2025520",
+        "onboard_time": 1747700482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127809,
+        "num": 435148,
+        "word": "钟南山称不必恐慌新冠",
+        "onboard_time": 1747711102,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1120100,
+        "num": 434834,
+        "word": "钟南山对新冠病毒最新判断",
+        "onboard_time": 1747710450,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893530,
+        "num": 434519,
+        "word": "黄杨钿甜弟弟",
+        "onboard_time": 1747698200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433930,
+        "num": 433930,
+        "word": "王源hug官周上线",
+        "onboard_time": 1747710271,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414884,
+        "num": 414884,
+        "word": "藏海传破万",
+        "onboard_time": 1747706549,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340053,
+        "num": 340053,
+        "word": "68岁摩的司机两次性侵14岁女学生",
+        "onboard_time": 1747696398,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315561,
+        "num": 339892,
+        "word": "腾讯视频520剧爱你",
+        "onboard_time": 1747708470,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300715,
+        "num": 337904,
+        "word": "顶着这张正派脸咋办出的肮脏事",
+        "onboard_time": 1747709909,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30205,
+        "num": 336596,
+        "word": "gogogo出发当美粉咯",
+        "onboard_time": 1747707750,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31139,
+        "num": 335790,
+        "word": "侧睡导致圆肩扣肩该如何缓解",
+        "onboard_time": 1747709490,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21153,
+        "num": 333878,
+        "word": "大范围高温覆盖哪些省份地区",
+        "onboard_time": 1747710980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333270,
+        "num": 333270,
+        "word": "RNG恭喜Uzi",
+        "onboard_time": 1747710450,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 324049,
+        "num": 324049,
+        "word": "Uzi入选英雄联盟名人堂",
+        "onboard_time": 1747704269,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52400,
+        "num": 291901,
+        "word": "凤阳鼓楼去年曾维修",
+        "onboard_time": 1747711582,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279127,
+        "num": 279127,
+        "word": "陈奕迅ins报平安",
+        "onboard_time": 1747663710,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71443,
+        "num": 264704,
+        "word": "央视称多哈世乒赛组织标准待提高",
+        "onboard_time": 1747706369,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254239,
+        "num": 254239,
+        "word": "黄金",
+        "onboard_time": 1747709730,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237715,
+        "num": 237715,
+        "word": "15个锻炼大脑的方法",
+        "onboard_time": 1747709909,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194056,
+        "num": 237165,
+        "word": "樱桃琥珀520海报",
+        "onboard_time": 1747711283,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185811,
+        "num": 237107,
+        "word": "刘学义孟子义520饭撒",
+        "onboard_time": 1747710210,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34946,
+        "num": 237070,
+        "word": "猎豹是草原中最大的受气包",
+        "onboard_time": 1747710330,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 237057,
+        "num": 237057,
+        "word": "主裁说王楚钦球拍没问题是掩饰吗",
+        "onboard_time": 1747708170,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233552,
+        "num": 233552,
+        "word": "救人小伙用义父梗打趣被救同学",
+        "onboard_time": 1747710390,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 227833,
+        "num": 227833,
+        "word": "520文案",
+        "onboard_time": 1747703130,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352282,
+        "num": 226396,
+        "word": "徐艺洋回应网友关于卫生巾质疑",
+        "onboard_time": 1747704691,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224293,
+        "num": 224293,
+        "word": "对我国公司网络攻击有网络战痕迹",
+        "onboard_time": 1747704930,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215296,
+        "num": 215296,
+        "word": "汉语的同化能力有多强",
+        "onboard_time": 1747710811,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49747,
+        "num": 205988,
+        "word": "婚姻登记全国通办后的首个520",
+        "onboard_time": 1747711761,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199367,
+        "num": 199367,
+        "word": "王楚钦说你换我这样的角度思考一下",
+        "onboard_time": 1747706490,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30001,
+        "num": 191188,
+        "word": "胡锡进谈普京特朗普通话",
+        "onboard_time": 1747709851,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66454,
+        "num": 190380,
+        "word": "手机拍照要AI还是要真实",
+        "onboard_time": 1747710093,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190315,
+        "num": 190315,
+        "word": "警方通报一科技公司遭境外黑客攻击",
+        "onboard_time": 1747704809,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164088,
+        "num": 164088,
+        "word": "女子发现放了两年的酱油析出玻璃渣",
+        "onboard_time": 1747703071,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156675,
+        "num": 156675,
+        "word": "520快乐",
+        "onboard_time": 1747699042,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131799,
+        "num": 156319,
+        "word": "少吃但不会挨饿的减肥食谱",
+        "onboard_time": 1747710750,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 156156,
+        "word": "王者荣耀联动慕夏艺术",
+        "onboard_time": 1747700542,
+        "rank": 44,
+        "category": "游戏,电竞"
+      },
+      {
+        "raw_hot": 144448,
+        "num": 144448,
+        "word": "野狗骨头青春定格照",
+        "onboard_time": 1747709909,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138294,
+        "num": 138294,
+        "word": "因为你活的正确而不是快乐",
+        "onboard_time": 1747711521,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135798,
+        "num": 135798,
+        "word": "不要和岸边的人比上岸",
+        "onboard_time": 1747711222,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134354,
+        "num": 134354,
+        "word": "降息",
+        "onboard_time": 1747698140,
+        "rank": 48,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 125082,
+        "num": 125082,
+        "word": "邪恶金渐层",
+        "onboard_time": 1747711823,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在河南洛阳考察调研#"
+    }
+  }
+}

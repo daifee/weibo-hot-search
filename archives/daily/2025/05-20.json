@@ -1,6 +1,6 @@
 {
   "startTime": 1747672350482,
-  "endTime": 1747711082318,
+  "endTime": 1747711863316,
   "band_list": [
     {
       "raw_hot": 1645487,
@@ -8,6 +8,14 @@
       "word": "凤阳鼓楼坍塌",
       "onboard_time": 1747668502,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1120100,
+      "num": 434834,
+      "word": "钟南山对新冠病毒最新判断",
+      "onboard_time": 1747710450,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1049494,
-      "num": 392703,
+      "num": 434519,
       "word": "黄杨钿甜弟弟",
       "onboard_time": 1747698200,
       "rank": 10,
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 738849,
-      "num": 738849,
+      "raw_hot": 742429,
+      "num": 742429,
       "word": "新余钢铁回应虞书欣家人传闻",
       "onboard_time": 1747708050,
       "rank": 3,
@@ -155,19 +163,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495413,
+      "num": 495413,
+      "word": "折腰预告",
+      "onboard_time": 1747668024,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480448,
       "num": 480448,
       "word": "藏海传破万",
       "onboard_time": 1747706549,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 475944,
-      "num": 475944,
-      "word": "折腰预告",
-      "onboard_time": 1747668024,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -188,11 +196,27 @@
     },
     {
       "raw_hot": 444004,
-      "num": 335605,
+      "num": 340053,
       "word": "68岁摩的司机两次性侵14岁女学生",
       "onboard_time": 1747696398,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437882,
+      "num": 437882,
+      "word": "2025520",
+      "onboard_time": 1747700482,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433930,
+      "num": 433930,
+      "word": "王源hug官周上线",
+      "onboard_time": 1747710271,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 424458,
@@ -217,6 +241,14 @@
       "onboard_time": 1747667665,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400699,
+      "num": 1064111,
+      "word": "广州警方对境外黑客案立案调查",
+      "onboard_time": 1747705891,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 400058,
@@ -251,22 +283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 360607,
-      "num": 1057697,
-      "word": "广州警方对境外黑客案立案调查",
-      "onboard_time": 1747705891,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 358244,
-      "num": 358244,
-      "word": "王源hug官周上线",
-      "onboard_time": 1747710271,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 355868,
       "num": 355868,
       "word": "王楚钦球拍胶皮被人揭开了",
@@ -281,6 +297,14 @@
       "onboard_time": 1747668923,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333270,
+      "num": 333270,
+      "word": "RNG恭喜Uzi",
+      "onboard_time": 1747710450,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 329944,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 317625,
-      "num": 317625,
+      "num": 339892,
       "word": "腾讯视频520剧爱你",
       "onboard_time": 1747708470,
       "rank": 14,
@@ -315,12 +339,12 @@
       "category": "游戏,电竞"
     },
     {
-      "raw_hot": 309997,
-      "num": 309997,
-      "word": "2025520",
-      "onboard_time": 1747700482,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 300715,
+      "num": 337904,
+      "word": "顶着这张正派脸咋办出的肮脏事",
+      "onboard_time": 1747709909,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 285104,
@@ -337,14 +361,6 @@
       "onboard_time": 1747642764,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 277188,
-      "num": 277188,
-      "word": "钟南山对新冠病毒最新判断",
-      "onboard_time": 1747710450,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275494,
@@ -387,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254239,
+      "num": 254239,
+      "word": "黄金",
+      "onboard_time": 1747709730,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244436,
       "num": 217632,
       "word": "旭旭宝宝 赵露",
@@ -395,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231667,
-      "num": 231667,
-      "word": "黄金",
-      "onboard_time": 1747709730,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 237057,
+      "num": 237057,
+      "word": "主裁说王楚钦球拍没问题是掩饰吗",
+      "onboard_time": 1747708170,
+      "rank": 30,
+      "category": "体育"
     },
     {
-      "raw_hot": 230804,
-      "num": 230804,
-      "word": "顶着这张正派脸咋办出的肮脏事",
-      "onboard_time": 1747709909,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 233552,
+      "num": 357540,
+      "word": "救人小伙用义父梗打趣被救同学",
+      "onboard_time": 1747710390,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 229384,
@@ -435,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221000,
-      "num": 221000,
-      "word": "主裁说王楚钦球拍没问题是掩饰吗",
-      "onboard_time": 1747708170,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220832,
       "num": 228596,
       "word": "桃花坞打码",
@@ -457,6 +473,14 @@
       "onboard_time": 1747704509,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 215296,
+      "num": 215296,
+      "word": "汉语的同化能力有多强",
+      "onboard_time": 1747710811,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 213462,
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199367,
+      "num": 199367,
+      "word": "王楚钦说你换我这样的角度思考一下",
+      "onboard_time": 1747706490,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199328,
       "num": 147169,
       "word": "抖音崩了",
@@ -516,19 +548,11 @@
     },
     {
       "raw_hot": 197339,
-      "num": 226676,
+      "num": 237107,
       "word": "刘学义孟子义520饭撒",
       "onboard_time": 1747710210,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196712,
-      "num": 196712,
-      "word": "RNG恭喜Uzi",
-      "onboard_time": 1747710450,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 195758,
@@ -545,6 +569,14 @@
       "onboard_time": 1747669103,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194056,
+      "num": 237165,
+      "word": "樱桃琥珀520海报",
+      "onboard_time": 1747711283,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193806,
@@ -595,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178066,
-      "num": 178066,
-      "word": "王楚钦说你换我这样的角度思考一下",
-      "onboard_time": 1747706490,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177015,
       "num": 239785,
       "word": "肖战张婧仪周奇黄觉拍立得合照",
@@ -617,14 +641,6 @@
       "onboard_time": 1747669644,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170283,
-      "num": 357540,
-      "word": "救人小伙用义父梗打趣被救同学",
-      "onboard_time": 1747710390,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 170121,
@@ -699,14 +715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141560,
-      "num": 141560,
-      "word": "汉语的同化能力有多强",
-      "onboard_time": 1747710811,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140886,
       "num": 140886,
       "word": "黄石公园附近车祸车上有12名中国公民",
@@ -731,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138294,
+      "num": 138294,
+      "word": "因为你活的正确而不是快乐",
+      "onboard_time": 1747711521,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136244,
       "num": 175835,
       "word": "少吃但不会挨饿的减肥食谱",
       "onboard_time": 1747710750,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 135798,
+      "num": 135798,
+      "word": "不要和岸边的人比上岸",
+      "onboard_time": 1747711222,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 133052,
@@ -803,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127809,
+      "num": 435148,
+      "word": "钟南山称不必恐慌新冠",
+      "onboard_time": 1747711102,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 126408,
       "num": 126408,
       "word": "杨帆肖战这段给我看紧张了",
       "onboard_time": 1747669463,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125082,
+      "num": 125082,
+      "word": "邪恶金渐层",
+      "onboard_time": 1747711823,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124009,
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 119334,
-      "num": 173573,
+      "num": 264704,
       "word": "央视称多哈世乒赛组织标准待提高",
       "onboard_time": 1747706369,
       "rank": 48,
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 81249,
-      "num": 171655,
+      "num": 190380,
       "word": "手机拍照要AI还是要真实",
       "onboard_time": 1747710093,
       "rank": 39,
@@ -1107,6 +1147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52400,
+      "num": 291901,
+      "word": "凤阳鼓楼去年曾维修",
+      "onboard_time": 1747711582,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49747,
+      "num": 205988,
+      "word": "婚姻登记全国通办后的首个520",
+      "onboard_time": 1747711761,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49521,
       "num": 49521,
       "word": "网传与两名女子办婚礼男子被开除",
@@ -1131,8 +1187,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40207,
+      "num": 744242,
+      "word": "中国经济延续向新向好",
+      "onboard_time": 1747711341,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38355,
-      "num": 276083,
+      "num": 336596,
       "word": "gogogo出发当美粉咯",
       "onboard_time": 1747707750,
       "rank": 18,
@@ -1155,6 +1219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34946,
+      "num": 237070,
+      "word": "猎豹是草原中最大的受气包",
+      "onboard_time": 1747710330,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 32890,
       "num": 35937,
       "word": "陪新兰从青梅竹马到青衫白发",
@@ -1164,7 +1236,7 @@
     },
     {
       "raw_hot": 32407,
-      "num": 174705,
+      "num": 191188,
       "word": "胡锡进谈普京特朗普通话",
       "onboard_time": 1747709851,
       "rank": 37,
@@ -1179,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31139,
+      "num": 335790,
+      "word": "侧睡导致圆肩扣肩该如何缓解",
+      "onboard_time": 1747709490,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30946,
       "num": 37371,
       "word": "肖战藏海传演技",
@@ -1187,20 +1267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28176,
-      "num": 275584,
-      "word": "侧睡导致圆肩扣肩该如何缓解",
-      "onboard_time": 1747709490,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 24771,
       "num": 37355,
       "word": "于适亮相戛纳中国青年电影活动",
       "onboard_time": 1747673958,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21153,
+      "num": 333878,
+      "word": "大范围高温覆盖哪些省份地区",
+      "onboard_time": 1747710980,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20766,
@@ -1217,14 +1297,6 @@
       "onboard_time": 1747679055,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19810,
-      "num": 222818,
-      "word": "猎豹是草原中最大的受气包",
-      "onboard_time": 1747710330,
-      "rank": 29,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 19173,
@@ -1265,14 +1337,6 @@
       "onboard_time": 1747687034,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13853,
-      "num": 176960,
-      "word": "大范围高温覆盖哪些省份地区",
-      "onboard_time": 1747710980,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10560,
