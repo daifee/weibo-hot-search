@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747849278490,
+  "endTime": 1747852544227,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -15411,6 +15411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38951,
+      "num": 41584,
+      "word": "于正回应请单依纯唱歌事件",
+      "onboard_time": 1747848557,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38859,
       "num": 261574,
       "word": "杜特尔特或将狱中宣誓就职",
@@ -15739,14 +15747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33383,
-      "num": 41584,
-      "word": "于正回应请单依纯唱歌事件",
-      "onboard_time": 1747848557,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33313,
       "num": 318718,
       "word": "本轮新冠预计什么时候结束",
@@ -15841,6 +15841,14 @@
       "onboard_time": 1747650506,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31829,
+      "num": 31829,
+      "word": "林高远林诗栋3比0张禹珍赵大成",
+      "onboard_time": 1747850656,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 31568,
@@ -16387,6 +16395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24620,
+      "num": 27000,
+      "word": "五月天杭州演唱会",
+      "onboard_time": 1747851736,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24468,
       "num": 176899,
       "word": "关于李泽言的N件小事",
@@ -16483,6 +16499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 23073,
+      "num": 26992,
+      "word": "Faye戛纳电影节",
+      "onboard_time": 1747852275,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22969,
       "num": 172339,
       "word": "中美物价差这么多",
@@ -16497,6 +16521,14 @@
       "onboard_time": 1747625785,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22734,
+      "num": 26989,
+      "word": "你永远可以相信周深的肺活量",
+      "onboard_time": 1747851496,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 22614,
@@ -16529,6 +16561,14 @@
       "onboard_time": 1747715244,
       "rank": 33,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 22329,
+      "num": 26986,
+      "word": "狂野时代静候每一场银幕之约",
+      "onboard_time": 1747851617,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 22303,
