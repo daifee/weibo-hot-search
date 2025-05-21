@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747784310074,
+  "endTime": 1747792741116,
   "band_list": [
     {
       "raw_hot": 11395470,
@@ -88,6 +88,14 @@
       "word": "重庆一大学生掉进化粪池遇难",
       "onboard_time": 1747712301,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2419607,
+      "num": 2419607,
+      "word": "521",
+      "onboard_time": 1747783100,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600211,
+      "num": 600211,
+      "word": "杨肸子柯淳吻戏路透",
+      "onboard_time": 1747785382,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599338,
       "num": 599338,
       "word": "Uzi入选英雄联盟名人堂",
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560107,
+      "num": 351535,
+      "word": "119平3室2厅硬装14万的房子",
+      "onboard_time": 1747785082,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 559932,
       "num": 559932,
       "word": "央视梳理王楚钦球拍受损事件",
@@ -1643,14 +1667,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 515893,
-      "num": 515893,
-      "word": "521",
-      "onboard_time": 1747783100,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 515067,
       "num": 515067,
       "word": "如果你经常侧睡导致圆肩扣肩",
@@ -1707,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502488,
+      "num": 502488,
+      "word": "小满",
+      "onboard_time": 1747783580,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500948,
       "num": 500948,
       "word": "今年的女装 丑",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1747754844,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483565,
+      "num": 346604,
+      "word": "在招聘软件找不到工作是正常的",
+      "onboard_time": 1747784780,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 481367,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1747637063,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457297,
+      "num": 457297,
+      "word": "藏海传好大的一个伏笔",
+      "onboard_time": 1747784600,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 456401,
@@ -2091,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410402,
+      "num": 384392,
+      "word": "李梦墨雨云间获奖哽咽感谢于正",
+      "onboard_time": 1747786882,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404667,
       "num": 404667,
       "word": "王励勤讨论王楚钦球拍受损",
@@ -2203,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385806,
+      "num": 385806,
+      "word": "以色列",
+      "onboard_time": 1747789711,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 385479,
       "num": 294434,
       "word": "李溪芮 内娱腿精",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1747629144,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380360,
+      "num": 380360,
+      "word": "上海地铁",
+      "onboard_time": 1747790311,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380066,
@@ -2273,14 +2337,6 @@
       "onboard_time": 1747543591,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373703,
-      "num": 373703,
-      "word": "小满",
-      "onboard_time": 1747783580,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373457,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1747501578,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 336375,
+      "num": 336375,
+      "word": "格力确认董明珠孟羽童将合体直播",
+      "onboard_time": 1747752865,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334180,
@@ -2835,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294142,
+      "num": 294142,
+      "word": "小满才是最好的人生状态",
+      "onboard_time": 1747738522,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 292815,
       "num": 292815,
       "word": "歌手",
@@ -3035,14 +3107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273638,
-      "num": 273638,
-      "word": "格力确认董明珠孟羽童将合体直播",
-      "onboard_time": 1747752865,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271904,
       "num": 479109,
       "word": "岩羊在攀岩方面强得可怕",
@@ -3132,7 +3196,7 @@
     },
     {
       "raw_hot": 267383,
-      "num": 307950,
+      "num": 370155,
       "word": "5月21日2时55分迎来小满",
       "onboard_time": 1747754904,
       "rank": 45,
@@ -3489,6 +3553,14 @@
       "onboard_time": 1747724841,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240034,
+      "num": 240034,
+      "word": "疯狂动物城2预告",
+      "onboard_time": 1747785321,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 240004,
@@ -3859,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220561,
+      "num": 209548,
+      "word": "男子坚持刷了120多遍肖战版射雕",
+      "onboard_time": 1747789652,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220286,
       "num": 450579,
       "word": "边伯贤说我的电梯只通向爱丽们那层",
@@ -3897,6 +3977,14 @@
       "onboard_time": 1747551441,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218570,
+      "num": 218570,
+      "word": "厦门诞生一位千万富翁",
+      "onboard_time": 1747790910,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218531,
@@ -4859,6 +4947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197122,
+      "num": 197122,
+      "word": "尊界S800官宣上市发布时间",
+      "onboard_time": 1747792222,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 197061,
       "num": 197061,
       "word": "是女儿是妈妈2飞行嘉宾阵容",
@@ -5179,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191725,
+      "num": 191725,
+      "word": "00后哲学硕士闲鱼卖骂醒恋爱脑服务",
+      "onboard_time": 1747789171,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191542,
       "num": 191542,
       "word": "藏海传热度已破9000",
@@ -5337,6 +5441,14 @@
       "onboard_time": 1747664727,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188876,
+      "num": 359468,
+      "word": "521与最具幸福感的节气撞满怀",
+      "onboard_time": 1747791329,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 188681,
@@ -5787,6 +5899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180277,
+      "num": 180277,
+      "word": "小得盈满胜万全",
+      "onboard_time": 1747789652,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179417,
       "num": 179417,
       "word": "小猪佩奇妈妈生三胎了",
@@ -5833,6 +5953,14 @@
       "onboard_time": 1747645585,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178280,
+      "num": 178280,
+      "word": "小米高通庆祝15年合作",
+      "onboard_time": 1747791869,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 178158,
@@ -6611,6 +6739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159432,
+      "num": 159432,
+      "word": "王楚钦说要和孙颖莎好好备战混双",
+      "onboard_time": 1747789111,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159135,
       "num": 159135,
       "word": "许昕19岁就跟姚彦表白",
@@ -6763,6 +6899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157463,
+      "num": 157463,
+      "word": "咬手礼是狗界的最高礼仪",
+      "onboard_time": 1747791931,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157358,
       "num": 157358,
       "word": "陈少熙碎片照",
@@ -6891,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154358,
+      "num": 154358,
+      "word": "人间好时节",
+      "onboard_time": 1747791451,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154278,
       "num": 154278,
       "word": "一诺偷偷藏不住",
@@ -6929,6 +7081,14 @@
       "onboard_time": 1747715063,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153176,
+      "num": 153176,
+      "word": "马斯克再次强势表态",
+      "onboard_time": 1747791451,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153125,
@@ -7385,6 +7545,14 @@
       "onboard_time": 1747754724,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143301,
+      "num": 143301,
+      "word": "特朗普宣布打造导弹防御系统",
+      "onboard_time": 1747791751,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143160,
@@ -8083,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129701,
+      "num": 129701,
+      "word": "首尔偶遇田柾国",
+      "onboard_time": 1747786942,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129511,
       "num": 129511,
       "word": "易烊千玺小网站更新",
@@ -8723,6 +8899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116415,
+      "num": 116415,
+      "word": "西园寺的小猫",
+      "onboard_time": 1747790910,
+      "rank": 39,
+      "category": "幽默,动漫"
+    },
+    {
       "raw_hot": 116168,
       "num": 116168,
       "word": "藏海传两集连播",
@@ -8793,6 +8977,14 @@
       "onboard_time": 1747539269,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 114848,
+      "num": 114848,
+      "word": "加沙平均1小时就有2名女性遇害",
+      "onboard_time": 1747791391,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114784,
@@ -9059,6 +9251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108147,
+      "num": 108147,
+      "word": "耿爽用1234驳斥美方抹黑",
+      "onboard_time": 1747790131,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107541,
       "num": 107541,
       "word": "守护甜心凪璃同居",
@@ -9131,12 +9331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105473,
+      "num": 105473,
+      "word": "刘浩存生日12宫格",
+      "onboard_time": 1747792580,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105396,
       "num": 105396,
       "word": "残疾客服妈妈月入过万还5点兼职摆摊",
       "onboard_time": 1747537290,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105389,
+      "num": 165018,
+      "word": "国际黄金期货大涨",
+      "onboard_time": 1747791931,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 105273,
@@ -9203,12 +9419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103168,
+      "num": 103168,
+      "word": "全员加速中无锡录制",
+      "onboard_time": 1747792700,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102879,
       "num": 102879,
       "word": "王楚钦下轮对阵西蒙高茨",
       "onboard_time": 1747757544,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102800,
+      "num": 102800,
+      "word": "耿爽让央视记者好好挖掘美好寓意",
+      "onboard_time": 1747791270,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102751,
@@ -9377,6 +9609,14 @@
       "onboard_time": 1747566802,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98422,
+      "num": 98422,
+      "word": "solo选边TheShy对战ON",
+      "onboard_time": 1747790430,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 97328,
@@ -9707,6 +9947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90441,
+      "num": 103869,
+      "word": "赵樱子否认戛纳被赶",
+      "onboard_time": 1747784420,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90428,
       "num": 90428,
       "word": "刘雨欣凭个人最高分获正式合约",
@@ -9737,6 +9985,22 @@
       "onboard_time": 1747719621,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89896,
+      "num": 195584,
+      "word": "现货黄金突破3270",
+      "onboard_time": 1747789951,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 89832,
+      "num": 97141,
+      "word": "曾黎收下粉丝礼物放包里",
+      "onboard_time": 1747767314,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 89155,
@@ -10217,14 +10481,6 @@
       "onboard_time": 1747499181,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76959,
-      "num": 87683,
-      "word": "曾黎收下粉丝礼物放包里",
-      "onboard_time": 1747767314,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 76141,
@@ -10744,6 +11000,14 @@
       "word": "当地通报媒体曝光生猪未检疫注水",
       "onboard_time": 1747642043,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64455,
+      "num": 246745,
+      "word": "海尔周云杰说要当网友最强嘴替",
+      "onboard_time": 1747789531,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
