@@ -1,0 +1,410 @@
+{
+  "runTime": 1747813181199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129431,
+        "num": 1180709,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1123232,
+        "num": 1123232,
+        "word": "众星发文痛别朱媛媛",
+        "onboard_time": 1747807343,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3614,
+        "num": 886144,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743926,
+        "num": 743926,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 736579,
+        "num": 736579,
+        "word": "情侣转账分手后被判按LPR返本息",
+        "onboard_time": 1747807884,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419216,
+        "num": 419216,
+        "word": "全红婵因伤退出全国跳水冠军赛",
+        "onboard_time": 1747804704,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406443,
+        "num": 406443,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362563,
+        "num": 362563,
+        "word": "巴基斯坦一客车遭袭已致4死30伤",
+        "onboard_time": 1747808603,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333466,
+        "num": 333466,
+        "word": "网传赴山海明天空降",
+        "onboard_time": 1747809744,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326364,
+        "num": 326364,
+        "word": "藏海传人皮俑",
+        "onboard_time": 1747810282,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61789,
+        "num": 324062,
+        "word": "今年521红线是易烊千玺牵的",
+        "onboard_time": 1747811182,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2069331,
+        "num": 320137,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1285428,
+        "num": 316194,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199197,
+        "num": 311640,
+        "word": "距外军机10米我飞行员丝毫不退",
+        "onboard_time": 1747812203,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 76972,
+        "num": 309435,
+        "word": "摆摊卖蜜雪冰城柠檬水是否侵权",
+        "onboard_time": 1747811423,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307861,
+        "num": 307861,
+        "word": "李凯馨发视频回应争议",
+        "onboard_time": 1747806264,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136757,
+        "num": 304913,
+        "word": "小米YU7首发量产天际屏",
+        "onboard_time": 1747811182,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126774,
+        "num": 302415,
+        "word": "这波高考祝福太有梗了",
+        "onboard_time": 1747811723,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26730,
+        "num": 297314,
+        "word": "美国新核弹的主要改进有哪些",
+        "onboard_time": 1747811782,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32989,
+        "num": 296560,
+        "word": "如何通过腰围估算自己的体脂率",
+        "onboard_time": 1747812681,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 824350,
+        "num": 293084,
+        "word": "朱媛媛讲获奖感言尹露哭了",
+        "onboard_time": 1747812681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501731,
+        "num": 288244,
+        "word": "易烊千玺小网站更新文字",
+        "onboard_time": 1747812263,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405039,
+        "num": 283610,
+        "word": "被模仿吃饭的韩国霸总回应中国网友",
+        "onboard_time": 1747806804,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282077,
+        "num": 282077,
+        "word": "淘宝奶茶免单卡",
+        "onboard_time": 1747808843,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223311,
+        "num": 258302,
+        "word": "宋威龙早该闯这个赛道了",
+        "onboard_time": 1747812442,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257717,
+        "num": 257717,
+        "word": "刘端端聊剧组角色被换",
+        "onboard_time": 1747808661,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64410,
+        "num": 257058,
+        "word": "又看到王心凌出演偶像剧了",
+        "onboard_time": 1747811423,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61772,
+        "num": 255626,
+        "word": "情侣520占用地铁卫生间1小时",
+        "onboard_time": 1747812743,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125238,
+        "num": 253928,
+        "word": "向鱼小白熊挂牌",
+        "onboard_time": 1747812083,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14902,
+        "num": 251971,
+        "word": "好老师真的可以改变学生一生",
+        "onboard_time": 1747812083,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 250624,
+        "num": 250624,
+        "word": "甄嬛传哪天下架了你负责重拍",
+        "onboard_time": 1747803027,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241483,
+        "num": 241483,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179580,
+        "num": 179580,
+        "word": "TTG夏季挂牌公告",
+        "onboard_time": 1747811182,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176722,
+        "num": 176722,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156588,
+        "num": 171569,
+        "word": "中国与东盟全面完成自贸区3.0版谈判",
+        "onboard_time": 1747812021,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170456,
+        "num": 170456,
+        "word": "脾气好和情绪稳定是两个概念",
+        "onboard_time": 1747812622,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50197,
+        "num": 170423,
+        "word": "化粪池用草地毯掩盖出事谁负责",
+        "onboard_time": 1747811003,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30215,
+        "num": 170320,
+        "word": "这阵容哪家空军能顶得住",
+        "onboard_time": 1747811003,
+        "rank": 37,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 26652,
+        "num": 170178,
+        "word": "杭州靠谱得没边了",
+        "onboard_time": 1747811662,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17703,
+        "num": 170004,
+        "word": "移民乌克兰中介的话术",
+        "onboard_time": 1747812263,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "张馨予说家里水果的甜才是真的甜",
+        "onboard_time": 1747812982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95073,
+        "num": 157721,
+        "word": "张艺兴摩天轮排面",
+        "onboard_time": 1747807584,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156706,
+        "num": 156706,
+        "word": "狗狗不理解游戏但知道手机不能丢",
+        "onboard_time": 1747812803,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156119,
+        "num": 156119,
+        "word": "被包上恩豆蔻汉服写真硬控了",
+        "onboard_time": 1747812803,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154775,
+        "num": 154775,
+        "word": "金饰价再次涨破1000元",
+        "onboard_time": 1747810403,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81294,
+        "num": 153322,
+        "word": "马鞍山校外万元中考冲刺班仍在办",
+        "onboard_time": 1747811122,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153040,
+        "num": 153040,
+        "word": "藏海 幻视好凉",
+        "onboard_time": 1747811063,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148157,
+        "num": 148157,
+        "word": "全员加速中录制",
+        "onboard_time": 1747810763,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142694,
+        "num": 142694,
+        "word": "睡前摇胯5分钟等于养脾胃1小时",
+        "onboard_time": 1747811063,
+        "rank": 48,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 139873,
+        "num": 139873,
+        "word": "杜海涛接沈梦辰下班",
+        "onboard_time": 1747806085,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化要继续把制造业搞好#"
+    }
+  }
+}
