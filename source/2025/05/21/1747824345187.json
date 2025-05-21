@@ -1,0 +1,410 @@
+{
+  "runTime": 1747824345187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1889545,
+        "num": 1889545,
+        "word": "黄晓明称朱媛媛在剧组都没有说过患癌",
+        "onboard_time": 1747821564,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489349,
+        "num": 489349,
+        "word": "国乒双打三项都失去双保险",
+        "onboard_time": 1747821922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8736,
+        "num": 473229,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664613,
+        "num": 473215,
+        "word": "韦一航想妈妈了",
+        "onboard_time": 1747815561,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466794,
+        "num": 466794,
+        "word": "林诗栋蒯曼无缘混双四强",
+        "onboard_time": 1747817962,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419454,
+        "num": 419454,
+        "word": "麦当劳玩具",
+        "onboard_time": 1747818261,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617796,
+        "num": 384994,
+        "word": "辛柏青发博的时间",
+        "onboard_time": 1747817184,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446843,
+        "num": 368913,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343049,
+        "num": 343049,
+        "word": "北京飞哈尔滨客机触地复飞空中盘旋",
+        "onboard_time": 1747821802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157104,
+        "num": 341705,
+        "word": "妇科肿瘤医生最心疼的场景",
+        "onboard_time": 1747821681,
+        "rank": 9,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 1301326,
+        "num": 340762,
+        "word": "坠化粪池遇难男生父亲命运多舛",
+        "onboard_time": 1747821504,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1039306,
+        "num": 337632,
+        "word": "梁静给朱媛媛发的最后一条信息",
+        "onboard_time": 1747823003,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517605,
+        "num": 336234,
+        "word": "00后安全套消费是80后的5倍",
+        "onboard_time": 1747823364,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77412,
+        "num": 333903,
+        "word": "经纪人还原脱口秀女演员表演时被猥亵",
+        "onboard_time": 1747823305,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119043,
+        "num": 332185,
+        "word": "用惯了拼多多对618囤货已无感",
+        "onboard_time": 1747821681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458473,
+        "num": 331008,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1205920,
+        "num": 328654,
+        "word": "莎头",
+        "onboard_time": 1747820783,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407946,
+        "num": 327152,
+        "word": "平津侯 下线",
+        "onboard_time": 1747816522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370109,
+        "num": 325747,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115657,
+        "num": 324278,
+        "word": "谁懂绿联NAS带来的安全感",
+        "onboard_time": 1747823904,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322598,
+        "num": 322598,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278866,
+        "num": 278866,
+        "word": "张子枫 姑妈永远想念您",
+        "onboard_time": 1747818803,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265190,
+        "num": 265190,
+        "word": "我是歌手洪辰我来揭榜",
+        "onboard_time": 1747822763,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264370,
+        "num": 264370,
+        "word": "在上海工资8000一年攒下72000",
+        "onboard_time": 1747820963,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244292,
+        "num": 244292,
+        "word": "易烊千玺台湾到达",
+        "onboard_time": 1747814603,
+        "rank": 24,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 208511,
+        "num": 208511,
+        "word": "藏海传台词太万能了",
+        "onboard_time": 1747814122,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43717,
+        "num": 207581,
+        "word": "2女子轮流扮孕妇碰瓷多车骗1.5万",
+        "onboard_time": 1747823421,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39765,
+        "num": 206524,
+        "word": "孩子不是给父母争面子的工具",
+        "onboard_time": 1747822943,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80473,
+        "num": 204964,
+        "word": "千万不要盯着马桶冲水",
+        "onboard_time": 1747822943,
+        "rank": 28,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 36017,
+        "num": 204455,
+        "word": "剥枇杷的正确方法到底是什么",
+        "onboard_time": 1747823482,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203519,
+        "num": 203519,
+        "word": "王菲谢霆锋520飞东京旅行",
+        "onboard_time": 1747820545,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198686,
+        "num": 198686,
+        "word": "癌细胞最怕的食物清单",
+        "onboard_time": 1747822103,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192431,
+        "num": 192431,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184174,
+        "num": 184174,
+        "word": "哪吒2延长上映至6月30日",
+        "onboard_time": 1747814003,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181004,
+        "num": 181004,
+        "word": "愿天堂没有鸡娃",
+        "onboard_time": 1747818925,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174382,
+        "num": 174382,
+        "word": "混双",
+        "onboard_time": 1747817544,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171994,
+        "num": 171994,
+        "word": "叶寒冰被查",
+        "onboard_time": 1747819523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168973,
+        "num": 168973,
+        "word": "乒乓球",
+        "onboard_time": 1747820603,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168804,
+        "num": 168804,
+        "word": "孟子义我减肥就这么安慰自己",
+        "onboard_time": 1747821384,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17936,
+        "num": 167073,
+        "word": "白宫发言人晒随特朗普访中东照",
+        "onboard_time": 1747822883,
+        "rank": 39,
+        "category": "海外新闻,议题讨论"
+      },
+      {
+        "raw_hot": 25075,
+        "num": 166155,
+        "word": "吴磊从鸟鸣到星月的生活美学",
+        "onboard_time": 1747819944,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165764,
+        "num": 165764,
+        "word": "建议大家不要买开口榴莲",
+        "onboard_time": 1747818744,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125951,
+        "num": 163703,
+        "word": "代露娃这次终于拿了幸福剧本",
+        "onboard_time": 1747822763,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162230,
+        "num": 162230,
+        "word": "易烊千玺奇迹笨小孩长尾效果具象化",
+        "onboard_time": 1747823723,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153115,
+        "num": 153115,
+        "word": "藏海看到这一幕得多痛啊",
+        "onboard_time": 1747823183,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150612,
+        "num": 150612,
+        "word": "琳琳 土豆",
+        "onboard_time": 1747820903,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "三年留学史 一生英伦情",
+        "onboard_time": 1747823963,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133005,
+        "num": 133005,
+        "word": "黄子佼方回应离婚传闻",
+        "onboard_time": 1747823782,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131954,
+        "num": 131954,
+        "word": "工作久了快不认识来字了",
+        "onboard_time": 1747824263,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56902,
+        "num": 131746,
+        "word": "大学生化粪池身亡谁来负责",
+        "onboard_time": 1747818261,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中华文化瑰宝保护好传承好传播好#"
+    }
+  }
+}
