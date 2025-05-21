@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747819728541,
+  "endTime": 1747820544530,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1393682,
+      "num": 1393682,
+      "word": "林诗栋蒯曼无缘混双四强",
+      "onboard_time": 1747817962,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1344511,
       "num": 1344511,
       "word": "众星发文痛别朱媛媛",
@@ -139,14 +147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1301872,
-      "num": 1301872,
-      "word": "林诗栋蒯曼无缘混双四强",
-      "onboard_time": 1747817962,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1289651,
       "num": 1289651,
       "word": "混双",
@@ -169,6 +169,14 @@
       "onboard_time": 1747809022,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 967812,
+      "num": 967812,
+      "word": "辛柏青发博的时间",
+      "onboard_time": 1747817184,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 957226,
@@ -211,8 +219,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 876699,
+      "num": 759740,
+      "word": "平津侯 下线",
+      "onboard_time": 1747816522,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 856616,
-      "num": 270811,
+      "num": 322833,
       "word": "易烊千玺台湾到达",
       "onboard_time": 1747814603,
       "rank": 6,
@@ -251,22 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 779772,
-      "num": 261770,
-      "word": "辛柏青发博的时间",
-      "onboard_time": 1747817184,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 759740,
-      "num": 759740,
-      "word": "平津侯 下线",
-      "onboard_time": 1747816522,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 756253,
       "num": 756253,
       "word": "我国新冠检测阳性率快速上升",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 697575,
-      "num": 262477,
+      "num": 263412,
       "word": "藏海传台词太万能了",
       "onboard_time": 1747814122,
       "rank": 11,
@@ -321,6 +321,14 @@
       "onboard_time": 1747791451,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 595781,
+      "num": 333572,
+      "word": "张子枫 姑妈永远想念您",
+      "onboard_time": 1747818803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 563962,
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 447105,
-      "num": 249402,
-      "word": "张子枫 姑妈永远想念您",
-      "onboard_time": 1747818803,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 443349,
       "num": 443349,
       "word": "林高远",
@@ -497,6 +497,14 @@
       "onboard_time": 1747799368,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 416512,
+      "num": 416512,
+      "word": "麦当劳玩具",
+      "onboard_time": 1747818261,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 414140,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339802,
+      "num": 339802,
+      "word": "叶寒冰被查",
+      "onboard_time": 1747819523,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339710,
       "num": 339710,
       "word": "父亲去世留下300万巨债儿子拒还",
@@ -649,6 +665,14 @@
       "onboard_time": 1747746862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310975,
+      "num": 310975,
+      "word": "世乒赛",
+      "onboard_time": 1747818984,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 297934,
@@ -723,12 +747,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 279224,
-      "num": 279224,
-      "word": "麦当劳玩具",
-      "onboard_time": 1747818261,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 278123,
+      "num": 252822,
+      "word": "围棋协会回应9岁围棋少年疑跳楼身亡",
+      "onboard_time": 1747817544,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275748,
@@ -793,14 +817,6 @@
       "onboard_time": 1747814723,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252822,
-      "num": 252822,
-      "word": "围棋协会回应9岁围棋少年疑跳楼身亡",
-      "onboard_time": 1747817544,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250244,
@@ -883,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230423,
+      "num": 230423,
+      "word": "动漫组合",
+      "onboard_time": 1747819103,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229352,
       "num": 284818,
       "word": "错过航班跪地哭喊女子发声",
@@ -899,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226479,
-      "num": 226479,
-      "word": "世乒赛",
-      "onboard_time": 1747818984,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 227977,
+      "num": 254739,
+      "word": "张大民送别云芳",
+      "onboard_time": 1747816823,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 223311,
@@ -971,19 +995,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212223,
+      "num": 212223,
+      "word": "把摸大腿当梗但你不能真耍流氓",
+      "onboard_time": 1747814481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212033,
       "num": 212033,
       "word": "海尔原来造过这么多离谱的洗衣机",
       "onboard_time": 1747809682,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208772,
-      "num": 208772,
-      "word": "叶寒冰被查",
-      "onboard_time": 1747819523,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1011,36 +1035,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203780,
-      "num": 254739,
-      "word": "张大民送别云芳",
-      "onboard_time": 1747816823,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202134,
-      "num": 202134,
-      "word": "把摸大腿当梗但你不能真耍流氓",
-      "onboard_time": 1747814481,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201507,
       "num": 214837,
       "word": "藏海 幻视好凉",
       "onboard_time": 1747811063,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200653,
-      "num": 200653,
-      "word": "动漫组合",
-      "onboard_time": 1747819103,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 199750,
@@ -1104,6 +1104,14 @@
       "word": "刘宇宁 嗑什么是观众的自由",
       "onboard_time": 1747806743,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191956,
+      "num": 191956,
+      "word": "折腰史上下线最快的反派",
+      "onboard_time": 1747818984,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178414,
+      "num": 178414,
+      "word": "丁禹兮顺拐",
+      "onboard_time": 1747820123,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "小米高通庆祝15年合作",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1747797627,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 176731,
-      "num": 176731,
-      "word": "折腰史上下线最快的反派",
-      "onboard_time": 1747818984,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 176697,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1747736721,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174111,
+      "num": 174111,
+      "word": "为什么爸妈做饭喜欢让小孩剥蒜",
+      "onboard_time": 1747820482,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 172337,
@@ -1427,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166908,
+      "num": 166908,
+      "word": "建议大家不要买开口榴莲",
+      "onboard_time": 1747818744,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165062,
       "num": 165062,
       "word": "张艺兴悬念海报毫无悬念",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1747799607,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162577,
+      "num": 162577,
+      "word": "做事主要靠临时起意和死到临头",
+      "onboard_time": 1747820363,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 159743,
@@ -1531,6 +1563,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155852,
+      "num": 259012,
+      "word": "微博网友年度喜爱影片",
+      "onboard_time": 1747820303,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154972,
+      "num": 252605,
+      "word": "愿天堂没有鸡娃",
+      "onboard_time": 1747818925,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154775,
       "num": 154775,
       "word": "金饰价再次涨破1000元",
@@ -1572,7 +1620,7 @@
     },
     {
       "raw_hot": 152390,
-      "num": 240519,
+      "num": 318339,
       "word": "美国企图全球禁用中国先进计算芯片",
       "onboard_time": 1747799489,
       "rank": 40,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1747809923,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144619,
+      "num": 261471,
+      "word": "GEN对战HLE",
+      "onboard_time": 1747818144,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 143673,
@@ -1881,6 +1937,14 @@
       "onboard_time": 1747817243,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129249,
+      "num": 245435,
+      "word": "体育健儿与热爱的双向奔赴",
+      "onboard_time": 1747820184,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 126945,
@@ -2379,6 +2443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77012,
+      "num": 251536,
+      "word": "59岁保洁大爷擦玻璃时猝死",
+      "onboard_time": 1747818863,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76972,
       "num": 351464,
       "word": "摆摊卖蜜雪冰城柠檬水是否侵权",
@@ -2393,14 +2465,6 @@
       "onboard_time": 1747741280,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75168,
-      "num": 247074,
-      "word": "59岁保洁大爷擦玻璃时猝死",
-      "onboard_time": 1747818863,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74568,
@@ -2548,7 +2612,7 @@
     },
     {
       "raw_hot": 59575,
-      "num": 248230,
+      "num": 255335,
       "word": "五月已经折磨了我21天",
       "onboard_time": 1747819223,
       "rank": 24,
@@ -2595,6 +2659,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 55699,
+      "num": 249336,
+      "word": "摸腿拘10天是玩笑还是警告",
+      "onboard_time": 1747818503,
+      "rank": 28,
+      "category": "民生新闻,演出"
+    },
+    {
       "raw_hot": 55155,
       "num": 55155,
       "word": "医院回应护士发错药致患者误服数日",
@@ -2627,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54585,
+      "num": 250895,
+      "word": "小孩玩手机被骗子控屏盗刷61笔钱",
+      "onboard_time": 1747818564,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 53746,
       "num": 193062,
       "word": "黄金概念股再走强",
@@ -2643,14 +2723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52514,
-      "num": 250895,
-      "word": "小孩玩手机被骗子控屏盗刷61笔钱",
-      "onboard_time": 1747818564,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 51627,
       "num": 55147,
       "word": "藏海好像从甘露寺回宫的甄嬛",
@@ -2659,12 +2731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50215,
-      "num": 246481,
-      "word": "摸腿拘10天是玩笑还是警告",
-      "onboard_time": 1747818503,
-      "rank": 28,
-      "category": "民生新闻,演出"
+      "raw_hot": 50825,
+      "num": 246691,
+      "word": "大学生化粪池身亡谁来负责",
+      "onboard_time": 1747818261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50197,
@@ -2715,14 +2787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43509,
-      "num": 245790,
-      "word": "大学生化粪池身亡谁来负责",
-      "onboard_time": 1747818261,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43252,
       "num": 128983,
       "word": "外贸企业发货订单排到7月",
@@ -2745,14 +2809,6 @@
       "onboard_time": 1747797446,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 42239,
-      "num": 247630,
-      "word": "愿天堂没有鸡娃",
-      "onboard_time": 1747818925,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42114,
@@ -2803,6 +2859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36684,
+      "num": 151687,
+      "word": "吴磊从鸟鸣到星月的生活美学",
+      "onboard_time": 1747819944,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36527,
       "num": 185621,
       "word": "女子被打还击开庭4次改判不罚",
@@ -2833,6 +2897,14 @@
       "onboard_time": 1747762936,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33438,
+      "num": 263803,
+      "word": "亲子流量账号营销乱象频出",
+      "onboard_time": 1747819523,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32989,
@@ -2939,14 +3011,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 25491,
-      "num": 252257,
-      "word": "亲子流量账号营销乱象频出",
-      "onboard_time": 1747819523,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25058,
       "num": 25058,
       "word": "姬伯伯教稚奴好好活着",
@@ -3051,6 +3115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20025,
+      "num": 267812,
+      "word": "补气血的黄芪蒸蛋适合哪类人群吃",
+      "onboard_time": 1747819043,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19724,
       "num": 173944,
       "word": "下班以后时间流速太快了",
@@ -3113,14 +3185,6 @@
       "onboard_time": 1747812263,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17252,
-      "num": 251604,
-      "word": "补气血的黄芪蒸蛋适合哪类人群吃",
-      "onboard_time": 1747819043,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16917,
@@ -3211,6 +3275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 7816,
+      "num": 188291,
+      "word": "水利工程长期闲置造成哪些资源浪费",
+      "onboard_time": 1747819882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5632,
       "num": 1028913,
       "word": "互联中国公益行动",
@@ -3234,6 +3306,9 @@
     },
     {
       "word": "#坚持自立自强掌握关键核心技术#"
+    },
+    {
+      "word": "#把中华文化瑰宝保护好传承好传播好#"
     }
   ]
 }
