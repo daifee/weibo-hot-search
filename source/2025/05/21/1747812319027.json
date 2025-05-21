@@ -1,0 +1,410 @@
+{
+  "runTime": 1747812319027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1250435,
+        "num": 1250435,
+        "word": "众星发文痛别朱媛媛",
+        "onboard_time": 1747807343,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1109080,
+        "num": 1109080,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3132,
+        "num": 1028913,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004902,
+        "num": 1004902,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839655,
+        "num": 839655,
+        "word": "情侣转账分手后被判按LPR返本息",
+        "onboard_time": 1747807884,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409492,
+        "num": 409492,
+        "word": "巴基斯坦一客车遭袭已致4死30伤",
+        "onboard_time": 1747808603,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 824321,
+        "num": 395030,
+        "word": "朱媛媛最后一部参演剧造城者",
+        "onboard_time": 1747811244,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372468,
+        "num": 372468,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368269,
+        "num": 368269,
+        "word": "李凯馨发视频回应争议",
+        "onboard_time": 1747806264,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355752,
+        "num": 355752,
+        "word": "TTG夏季挂牌公告",
+        "onboard_time": 1747811182,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1513436,
+        "num": 355266,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47982,
+        "num": 354113,
+        "word": "今年521红线是易烊千玺牵的",
+        "onboard_time": 1747811182,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1276952,
+        "num": 353715,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268485,
+        "num": 352401,
+        "word": "网传赴山海明天空降",
+        "onboard_time": 1747809744,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44003,
+        "num": 351464,
+        "word": "摆摊卖蜜雪冰城柠檬水是否侵权",
+        "onboard_time": 1747811423,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351244,
+        "num": 351244,
+        "word": "全红婵因伤退出全国跳水冠军赛",
+        "onboard_time": 1747804704,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152670,
+        "num": 350864,
+        "word": "这波高考祝福太有梗了",
+        "onboard_time": 1747811723,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124157,
+        "num": 350198,
+        "word": "小米YU7首发量产天际屏",
+        "onboard_time": 1747811182,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34089,
+        "num": 349835,
+        "word": "马鞍山校外万元中考冲刺班仍在办",
+        "onboard_time": 1747811122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25604,
+        "num": 348956,
+        "word": "美国新核弹的主要改进有哪些",
+        "onboard_time": 1747811782,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100021,
+        "num": 348302,
+        "word": "张艺兴摩天轮排面",
+        "onboard_time": 1747807584,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267460,
+        "num": 348059,
+        "word": "刘端端聊剧组角色被换",
+        "onboard_time": 1747808661,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127054,
+        "num": 347574,
+        "word": "中国与东盟全面完成自贸区3.0版谈判",
+        "onboard_time": 1747812021,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251870,
+        "num": 346559,
+        "word": "藏海传人皮俑",
+        "onboard_time": 1747810282,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74568,
+        "num": 345976,
+        "word": "夏季如何防范蚊虫叮咬",
+        "onboard_time": 1747811423,
+        "rank": 24,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 36814,
+        "num": 345172,
+        "word": "又看到王心凌出演偶像剧了",
+        "onboard_time": 1747811423,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12498,
+        "num": 344692,
+        "word": "好老师真的可以改变学生一生",
+        "onboard_time": 1747812083,
+        "rank": 26,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 124783,
+        "num": 344349,
+        "word": "孙杨将出战4X200自接力",
+        "onboard_time": 1747811303,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136830,
+        "num": 343843,
+        "word": "向鱼小白熊挂牌",
+        "onboard_time": 1747812083,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 469773,
+        "num": 342880,
+        "word": "被模仿吃饭的韩国霸总回应中国网友",
+        "onboard_time": 1747806804,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342738,
+        "num": 342738,
+        "word": "易烊千玺小网站更新文字",
+        "onboard_time": 1747812263,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283508,
+        "num": 283508,
+        "word": "甄嬛传哪天下架了你负责重拍",
+        "onboard_time": 1747803027,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281060,
+        "num": 281060,
+        "word": "淘宝奶茶免单卡",
+        "onboard_time": 1747808843,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261581,
+        "num": 261581,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201507,
+        "num": 214837,
+        "word": "藏海 幻视好凉",
+        "onboard_time": 1747811063,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211768,
+        "num": 211768,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5949,
+        "num": 206453,
+        "word": "移民乌克兰中介的话术",
+        "onboard_time": 1747812263,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16279,
+        "num": 203643,
+        "word": "杭州靠谱得没边了",
+        "onboard_time": 1747811662,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24581,
+        "num": 196157,
+        "word": "这阵容哪家空军能顶得住",
+        "onboard_time": 1747811003,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 34612,
+        "num": 189782,
+        "word": "化粪池用草地毯掩盖出事谁负责",
+        "onboard_time": 1747811003,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188962,
+        "num": 188962,
+        "word": "反复减肥比肥胖本身危害更大",
+        "onboard_time": 1747811603,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173485,
+        "num": 173485,
+        "word": "南大碎尸案改编侵权案已调解",
+        "onboard_time": 1747800749,
+        "rank": 41,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 174927,
+        "num": 170417,
+        "word": "睡前摇胯5分钟等于养脾胃1小时",
+        "onboard_time": 1747811063,
+        "rank": 42,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 165865,
+        "num": 165865,
+        "word": "胡歌生命树首发人物海报",
+        "onboard_time": 1747808661,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161084,
+        "num": 161084,
+        "word": "杜海涛接沈梦辰下班",
+        "onboard_time": 1747806085,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150770,
+        "num": 150770,
+        "word": "海尔原来造过这么多离谱的洗衣机",
+        "onboard_time": 1747809682,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143637,
+        "num": 143637,
+        "word": "几点睡才算熬夜",
+        "onboard_time": 1747812142,
+        "rank": 46,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 143031,
+        "num": 143031,
+        "word": "距外军机10米我飞行员丝毫不退",
+        "onboard_time": 1747812203,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "全员加速中录制",
+        "onboard_time": 1747810763,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142973,
+        "num": 141400,
+        "word": "陈都灵天竺兔子精",
+        "onboard_time": 1747810462,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展的确定性应对各种不确定性#"
+    }
+  }
+}
