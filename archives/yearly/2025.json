@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747797449045,
+  "endTime": 1747798225367,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -304,6 +304,14 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14289451,
+      "num": 14289451,
+      "word": "朱媛媛去世",
+      "onboard_time": 1747797022,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6523839,
+      "num": 6523839,
+      "word": "朱媛媛 抗癌五年",
+      "onboard_time": 1747797325,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6171526,
       "num": 6171526,
       "word": "李明德因酒后砸车被刑拘",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1738076680,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5374865,
-      "num": 5374865,
-      "word": "朱媛媛去世",
-      "onboard_time": 1747797022,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 5336614,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747359259,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3176078,
-      "num": 615175,
-      "word": "吴京 小哪吒冲冲冲",
-      "onboard_time": 1738814128,
-      "rank": 3,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

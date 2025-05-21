@@ -1,18 +1,18 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747797449045,
+  "endTime": 1747798225367,
   "band_list": [
     {
-      "raw_hot": 5374865,
-      "num": 5374865,
+      "raw_hot": 14289451,
+      "num": 14289451,
       "word": "朱媛媛去世",
       "onboard_time": 1747797022,
       "rank": 0,
       "category": "艺人"
     },
     {
-      "raw_hot": 2901637,
-      "num": 649299,
+      "raw_hot": 6523839,
+      "num": 6523839,
       "word": "朱媛媛 抗癌五年",
       "onboard_time": 1747797325,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1747783100,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1730386,
+      "num": 355222,
+      "word": "朱媛媛刚杀青",
+      "onboard_time": 1747797446,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1628376,
@@ -83,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679620,
+      "raw_hot": 730413,
       "num": 310865,
       "word": "女子坠楼向丈夫喊我还没死快打120",
       "onboard_time": 1747796361,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332028,
+      "num": 332028,
+      "word": "一男子脱口秀剧场猥亵女演员被拘",
+      "onboard_time": 1747796782,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322385,
       "num": 322385,
       "word": "藏海传收视率",
@@ -299,12 +315,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 289819,
+      "num": 250003,
+      "word": "戛纳迎来张子枫易烊千玺两位00后",
+      "onboard_time": 1747795941,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287297,
       "num": 287297,
       "word": "刘宇宁你祖父要穿我",
       "onboard_time": 1747794142,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286910,
+      "num": 249198,
+      "word": "李凯馨方报案",
+      "onboard_time": 1747796540,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 275427,
@@ -339,12 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250003,
-      "num": 250003,
-      "word": "戛纳迎来张子枫易烊千玺两位00后",
-      "onboard_time": 1747795941,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 247049,
+      "num": 247049,
+      "word": "顶着18岁的脸干着28岁的事",
+      "onboard_time": 1747797264,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244380,
+      "num": 244380,
+      "word": "赴山海",
+      "onboard_time": 1747797325,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 240034,
@@ -403,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214709,
-      "num": 214709,
-      "word": "李凯馨方报案",
-      "onboard_time": 1747796540,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213813,
       "num": 213813,
       "word": "王楚钦vs黄镇廷",
       "onboard_time": 1747751545,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208669,
+      "num": 208669,
+      "word": "朱媛媛作品",
+      "onboard_time": 1747797866,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 208340,
@@ -441,14 +481,6 @@
       "onboard_time": 1747753165,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192224,
-      "num": 284413,
-      "word": "一男子脱口秀剧场猥亵女演员被拘",
-      "onboard_time": 1747796782,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191859,
@@ -531,6 +563,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177098,
+      "num": 177098,
+      "word": "雷军回应质疑",
+      "onboard_time": 1747797627,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 176143,
+      "num": 176143,
+      "word": "李梦回应演戏很较真",
+      "onboard_time": 1747797866,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174240,
       "num": 145429,
       "word": "媒体评黄杨钿甜不必陷入自证怪圈",
@@ -539,11 +587,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168805,
-      "num": 168805,
-      "word": "顶着18岁的脸干着28岁的事",
-      "onboard_time": 1747797264,
-      "rank": 44,
+      "raw_hot": 169605,
+      "num": 169605,
+      "word": "四川外卖员将无需健康证",
+      "onboard_time": 1747797929,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162263,
+      "num": 162263,
+      "word": "造城者",
+      "onboard_time": 1747798110,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -553,14 +609,6 @@
       "onboard_time": 1747746442,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159615,
-      "num": 159615,
-      "word": "赴山海",
-      "onboard_time": 1747797325,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 159597,
@@ -603,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147177,
+      "num": 250662,
+      "word": "亚历山大真有哨",
+      "onboard_time": 1747797022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143301,
       "num": 143301,
       "word": "特朗普宣布打造导弹防御系统",
@@ -641,14 +697,6 @@
       "onboard_time": 1747756343,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136113,
-      "num": 136113,
-      "word": "亚历山大真有哨",
-      "onboard_time": 1747797022,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 135102,
@@ -771,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109453,
+      "num": 285685,
+      "word": "日本警方向中方大熊猫致谢",
+      "onboard_time": 1747796301,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108147,
       "num": 108147,
       "word": "耿爽用1234驳斥美方抹黑",
@@ -796,7 +852,7 @@
     },
     {
       "raw_hot": 105885,
-      "num": 187780,
+      "num": 193326,
       "word": "京东发烧惊喜日拍品曝光",
       "onboard_time": 1747796661,
       "rank": 38,
@@ -873,6 +929,14 @@
       "onboard_time": 1747757842,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96549,
+      "num": 296973,
+      "word": "女子从12楼意外坠落奇迹生还",
+      "onboard_time": 1747796962,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96121,
@@ -987,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80362,
-      "num": 285685,
-      "word": "日本警方向中方大熊猫致谢",
-      "onboard_time": 1747796301,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 79823,
       "num": 88415,
       "word": "Bin 我们只要正常放开去打就能赢",
@@ -1091,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68341,
+      "num": 293548,
+      "word": "美媒爆卡塔尔赠机实则为美方索要",
+      "onboard_time": 1747796782,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68231,
       "num": 68231,
       "word": "高热量垃圾食品的解药",
@@ -1115,12 +1179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64969,
+      "num": 307206,
+      "word": "三问凤阳鼓楼瓦片脱落事件",
+      "onboard_time": 1747796121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63019,
       "num": 63019,
       "word": "曼城3比1伯恩茅斯",
       "onboard_time": 1747784121,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61590,
+      "num": 189432,
+      "word": "别再给新生儿晒太阳了",
+      "onboard_time": 1747797083,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 61337,
@@ -1171,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51759,
-      "num": 307206,
-      "word": "三问凤阳鼓楼瓦片脱落事件",
-      "onboard_time": 1747796121,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51627,
       "num": 55147,
       "word": "藏海好像从甘露寺回宫的甄嬛",
@@ -1187,11 +1259,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50186,
-      "num": 296973,
-      "word": "女子从12楼意外坠落奇迹生还",
-      "onboard_time": 1747796962,
-      "rank": 18,
+      "raw_hot": 48319,
+      "num": 191131,
+      "word": "25吨生姜因关税暴涨遭海外退单",
+      "onboard_time": 1747798171,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1219,20 +1291,20 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 42723,
+      "num": 253150,
+      "word": "生活中的无意识控糖形式都有哪些",
+      "onboard_time": 1747797446,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 42114,
       "num": 60532,
       "word": "张宥浩撕坏了周也的撕拉片",
       "onboard_time": 1747736901,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41777,
-      "num": 293548,
-      "word": "美媒爆卡塔尔赠机实则为美方索要",
-      "onboard_time": 1747796782,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37715,
@@ -1355,6 +1427,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 19134,
+      "num": 285093,
+      "word": "外国妹子看三国迷上曹操",
+      "onboard_time": 1747796962,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18457,
+      "num": 186650,
+      "word": "球拍风波未影响王楚钦战绩",
+      "onboard_time": 1747798171,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18058,
       "num": 112856,
       "word": "浙江队获混合接力金牌",
@@ -1379,14 +1467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14218,
-      "num": 185189,
-      "word": "别再给新生儿晒太阳了",
-      "onboard_time": 1747797083,
-      "rank": 39,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 13980,
       "num": 31126,
       "word": "看曾经冷门的文物保护热起来",
@@ -1403,16 +1483,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7652,
-      "num": 285093,
-      "word": "外国妹子看三国迷上曹操",
-      "onboard_time": 1747796962,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4409,
-      "num": 498982,
+      "raw_hot": 9493,
+      "num": 578295,
       "word": "北京范儿",
       "onboard_time": 1747730363,
       "rank": 2,
