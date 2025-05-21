@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747794122606,
+  "endTime": 1747797449045,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1738076680,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5374865,
+      "num": 5374865,
+      "word": "朱媛媛去世",
+      "onboard_time": 1747797022,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 5336614,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738814128,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3173057,
-      "num": 1080319,
-      "word": "王大陆被带上警车现场",
-      "onboard_time": 1739855674,
-      "rank": 13,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

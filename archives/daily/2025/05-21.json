@@ -1,7 +1,23 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747794122606,
+  "endTime": 1747797449045,
   "band_list": [
+    {
+      "raw_hot": 5374865,
+      "num": 5374865,
+      "word": "朱媛媛去世",
+      "onboard_time": 1747797022,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2901637,
+      "num": 649299,
+      "word": "朱媛媛 抗癌五年",
+      "onboard_time": 1747797325,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2419607,
       "num": 2419607,
@@ -17,6 +33,38 @@
       "onboard_time": 1747754665,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1615335,
+      "num": 469154,
+      "word": "李凯馨前助理道歉",
+      "onboard_time": 1747795522,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1431857,
+      "num": 413451,
+      "word": "李凯馨前助理承认恶意剪辑录音",
+      "onboard_time": 1747795641,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 951389,
+      "num": 315403,
+      "word": "赵磊站姐被拦在婚礼门外",
+      "onboard_time": 1747794981,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817181,
+      "num": 314397,
+      "word": "生命树海报",
+      "onboard_time": 1747794859,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 756253,
@@ -35,7 +83,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 641462,
+      "raw_hot": 679620,
+      "num": 310865,
+      "word": "女子坠楼向丈夫喊我还没死快打120",
+      "onboard_time": 1747796361,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674598,
       "num": 346604,
       "word": "在招聘软件找不到工作是正常的",
       "onboard_time": 1747784780,
@@ -51,12 +107,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597931,
+      "num": 597931,
+      "word": "马斯克再次强势表态",
+      "onboard_time": 1747791451,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 561576,
+      "num": 304288,
+      "word": "杨紫高原女警造型",
+      "onboard_time": 1747795882,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560107,
       "num": 351535,
       "word": "119平3室2厅硬装14万的房子",
       "onboard_time": 1747785082,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 537757,
+      "num": 537757,
+      "word": "雷军说YU7有不可替代的魅力",
+      "onboard_time": 1747795641,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 536444,
@@ -179,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346848,
+      "num": 286379,
+      "word": "费曼把吴镇宇做成玩偶",
+      "onboard_time": 1747795460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339710,
       "num": 339710,
       "word": "父亲去世留下300万巨债儿子拒还",
@@ -211,6 +299,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 287297,
+      "num": 287297,
+      "word": "刘宇宁你祖父要穿我",
+      "onboard_time": 1747794142,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275427,
+      "num": 317747,
+      "word": "小得盈满胜万全",
+      "onboard_time": 1747789652,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269135,
       "num": 257103,
       "word": "藏海极限一换一拿下首杀",
@@ -235,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240414,
-      "num": 317747,
-      "word": "小得盈满胜万全",
-      "onboard_time": 1747789652,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 250003,
+      "num": 250003,
+      "word": "戛纳迎来张子枫易烊千玺两位00后",
+      "onboard_time": 1747795941,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 240034,
@@ -256,6 +360,14 @@
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1747752984,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228500,
+      "num": 228500,
+      "word": "中餐厅录制",
+      "onboard_time": 1747795941,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -291,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214709,
+      "num": 214709,
+      "word": "李凯馨方报案",
+      "onboard_time": 1747796540,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213813,
       "num": 213813,
       "word": "王楚钦vs黄镇廷",
@@ -321,6 +441,14 @@
       "onboard_time": 1747753165,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192224,
+      "num": 284413,
+      "word": "一男子脱口秀剧场猥亵女演员被拘",
+      "onboard_time": 1747796782,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191859,
@@ -364,10 +492,18 @@
     },
     {
       "raw_hot": 184535,
-      "num": 184535,
+      "num": 284722,
       "word": "521遇上小满",
       "onboard_time": 1747782799,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183323,
+      "num": 183323,
+      "word": "为啥小满之后没有大满",
+      "onboard_time": 1747794801,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -377,6 +513,14 @@
       "onboard_time": 1747772054,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181419,
+      "num": 181419,
+      "word": "中国球迷在西班牙遭种族歧视后续",
+      "onboard_time": 1747796602,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 178280,
@@ -395,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165345,
-      "num": 198962,
-      "word": "马斯克再次强势表态",
-      "onboard_time": 1747791451,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 168805,
+      "num": 168805,
+      "word": "顶着18岁的脸干着28岁的事",
+      "onboard_time": 1747797264,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 159656,
@@ -409,6 +553,14 @@
       "onboard_time": 1747746442,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159615,
+      "num": 159615,
+      "word": "赴山海",
+      "onboard_time": 1747797325,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 159597,
@@ -491,6 +643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136113,
+      "num": 136113,
+      "word": "亚历山大真有哨",
+      "onboard_time": 1747797022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135102,
+      "num": 135102,
+      "word": "杭州大学生做PPT教父母避免智商税",
+      "onboard_time": 1747796301,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129701,
       "num": 129701,
       "word": "首尔偶遇田柾国",
@@ -545,6 +713,14 @@
       "onboard_time": 1747792822,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116701,
+      "num": 300861,
+      "word": "满分的爱是怎样的",
+      "onboard_time": 1747796720,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 116415,
@@ -617,6 +793,14 @@
       "onboard_time": 1747753404,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105885,
+      "num": 187780,
+      "word": "京东发烧惊喜日拍品曝光",
+      "onboard_time": 1747796661,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 105389,
@@ -731,6 +915,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 91457,
+      "num": 286155,
+      "word": "林诗栋今日三线出战",
+      "onboard_time": 1747797141,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90502,
       "num": 90502,
       "word": "孟羽童称时隔两年收到董明珠微信",
@@ -793,6 +985,14 @@
       "onboard_time": 1747750224,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80362,
+      "num": 285685,
+      "word": "日本警方向中方大熊猫致谢",
+      "onboard_time": 1747796301,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79823,
@@ -883,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69116,
+      "num": 286851,
+      "word": "第五瓜格",
+      "onboard_time": 1747795341,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68231,
       "num": 68231,
       "word": "高热量垃圾食品的解药",
@@ -963,12 +1171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51759,
+      "num": 307206,
+      "word": "三问凤阳鼓楼瓦片脱落事件",
+      "onboard_time": 1747796121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51627,
       "num": 55147,
       "word": "藏海好像从甘露寺回宫的甄嬛",
       "onboard_time": 1747778295,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50186,
+      "num": 296973,
+      "word": "女子从12楼意外坠落奇迹生还",
+      "onboard_time": 1747796962,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45853,
@@ -1001,6 +1225,14 @@
       "onboard_time": 1747736901,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41777,
+      "num": 293548,
+      "word": "美媒爆卡塔尔赠机实则为美方索要",
+      "onboard_time": 1747796782,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37715,
@@ -1099,6 +1331,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 21207,
+      "num": 295849,
+      "word": "南北小满的满字含义有什么差异",
+      "onboard_time": 1747796540,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 20130,
       "num": 22805,
       "word": "萧逸爱的默契",
@@ -1108,7 +1348,7 @@
     },
     {
       "raw_hot": 19195,
-      "num": 545697,
+      "num": 674272,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
       "rank": 2,
@@ -1139,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14218,
+      "num": 185189,
+      "word": "别再给新生儿晒太阳了",
+      "onboard_time": 1747797083,
+      "rank": 39,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 13980,
       "num": 31126,
       "word": "看曾经冷门的文物保护热起来",
@@ -1153,6 +1401,14 @@
       "onboard_time": 1747771575,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7652,
+      "num": 285093,
+      "word": "外国妹子看三国迷上曹操",
+      "onboard_time": 1747796962,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4409,

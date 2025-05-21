@@ -1,0 +1,410 @@
+{
+  "runTime": 1747797449045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5374865,
+        "num": 5374865,
+        "word": "朱媛媛去世",
+        "onboard_time": 1747797022,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1334288,
+        "num": 1334288,
+        "word": "521",
+        "onboard_time": 1747783100,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9764,
+        "num": 674272,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2901637,
+        "num": 649299,
+        "word": "朱媛媛 抗癌五年",
+        "onboard_time": 1747797325,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597931,
+        "num": 597931,
+        "word": "马斯克再次强势表态",
+        "onboard_time": 1747791451,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 537757,
+        "num": 537757,
+        "word": "雷军说YU7有不可替代的魅力",
+        "onboard_time": 1747795641,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1615335,
+        "num": 469154,
+        "word": "李凯馨前助理道歉",
+        "onboard_time": 1747795522,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1431857,
+        "num": 413451,
+        "word": "李凯馨前助理承认恶意剪辑录音",
+        "onboard_time": 1747795641,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340658,
+        "num": 340658,
+        "word": "以色列",
+        "onboard_time": 1747789711,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317245,
+        "num": 317245,
+        "word": "上海地铁",
+        "onboard_time": 1747790311,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951389,
+        "num": 315403,
+        "word": "赵磊站姐被拦在婚礼门外",
+        "onboard_time": 1747794981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817181,
+        "num": 314397,
+        "word": "生命树海报",
+        "onboard_time": 1747794859,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679620,
+        "num": 310865,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674598,
+        "num": 309153,
+        "word": "在招聘软件找不到工作是正常的",
+        "onboard_time": 1747784780,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51759,
+        "num": 307206,
+        "word": "三问凤阳鼓楼瓦片脱落事件",
+        "onboard_time": 1747796121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561576,
+        "num": 304288,
+        "word": "杨紫高原女警造型",
+        "onboard_time": 1747795882,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427875,
+        "num": 301783,
+        "word": "藏海传好大的一个伏笔",
+        "onboard_time": 1747784600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116701,
+        "num": 300861,
+        "word": "满分的爱是怎样的",
+        "onboard_time": 1747796720,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50186,
+        "num": 296973,
+        "word": "女子从12楼意外坠落奇迹生还",
+        "onboard_time": 1747796962,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21207,
+        "num": 295849,
+        "word": "南北小满的满字含义有什么差异",
+        "onboard_time": 1747796540,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41777,
+        "num": 293548,
+        "word": "美媒爆卡塔尔赠机实则为美方索要",
+        "onboard_time": 1747796782,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 631837,
+        "num": 290130,
+        "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+        "onboard_time": 1747754665,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392121,
+        "num": 288383,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 22,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 287297,
+        "num": 287297,
+        "word": "刘宇宁你祖父要穿我",
+        "onboard_time": 1747794142,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69116,
+        "num": 286851,
+        "word": "第五瓜格",
+        "onboard_time": 1747795341,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 346848,
+        "num": 286379,
+        "word": "费曼把吴镇宇做成玩偶",
+        "onboard_time": 1747795460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91457,
+        "num": 286155,
+        "word": "林诗栋今日三线出战",
+        "onboard_time": 1747797141,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80362,
+        "num": 285685,
+        "word": "日本警方向中方大熊猫致谢",
+        "onboard_time": 1747796301,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7652,
+        "num": 285093,
+        "word": "外国妹子看三国迷上曹操",
+        "onboard_time": 1747796962,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124536,
+        "num": 284722,
+        "word": "521遇上小满",
+        "onboard_time": 1747782799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192224,
+        "num": 284413,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342217,
+        "num": 283858,
+        "word": "杨肸子柯淳吻戏路透",
+        "onboard_time": 1747785382,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283594,
+        "num": 283594,
+        "word": "小满",
+        "onboard_time": 1747783580,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250003,
+        "num": 250003,
+        "word": "戛纳迎来张子枫易烊千玺两位00后",
+        "onboard_time": 1747795941,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275427,
+        "num": 244302,
+        "word": "小得盈满胜万全",
+        "onboard_time": 1747789652,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228500,
+        "num": 228500,
+        "word": "中餐厅录制",
+        "onboard_time": 1747795941,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214709,
+        "num": 214709,
+        "word": "李凯馨方报案",
+        "onboard_time": 1747796540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199525,
+        "num": 199525,
+        "word": "李梦墨雨云间获奖哽咽感谢于正",
+        "onboard_time": 1747786882,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105885,
+        "num": 187780,
+        "word": "京东发烧惊喜日拍品曝光",
+        "onboard_time": 1747796661,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14218,
+        "num": 185189,
+        "word": "别再给新生儿晒太阳了",
+        "onboard_time": 1747797083,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 183323,
+        "num": 183323,
+        "word": "为啥小满之后没有大满",
+        "onboard_time": 1747794801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181419,
+        "num": 181419,
+        "word": "中国球迷在西班牙遭种族歧视后续",
+        "onboard_time": 1747796602,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179345,
+        "num": 179345,
+        "word": "5月21日2时55分迎来小满",
+        "onboard_time": 1747754904,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176259,
+        "num": 176259,
+        "word": "咬手礼是狗界的最高礼仪",
+        "onboard_time": 1747791931,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168805,
+        "num": 168805,
+        "word": "顶着18岁的脸干着28岁的事",
+        "onboard_time": 1747797264,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159615,
+        "num": 159615,
+        "word": "赴山海",
+        "onboard_time": 1747797325,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158339,
+        "num": 158339,
+        "word": "厦门诞生一位千万富翁",
+        "onboard_time": 1747790910,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142241,
+        "num": 142241,
+        "word": "父亲去世留下300万巨债儿子拒还",
+        "onboard_time": 1747744702,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136113,
+        "num": 136113,
+        "word": "亚历山大真有哨",
+        "onboard_time": 1747797022,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135102,
+        "num": 135102,
+        "word": "杭州大学生做PPT教父母避免智商税",
+        "onboard_time": 1747796301,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#看曾经冷门的文物保护热起来#"
+    }
+  }
+}
