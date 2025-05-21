@@ -1,0 +1,410 @@
+{
+  "runTime": 1747806203488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7584814,
+        "num": 7584814,
+        "word": "朱媛媛去世",
+        "onboard_time": 1747797022,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1217085,
+        "num": 1217085,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35396,
+        "num": 551934,
+        "word": "夏日的美好扑面而来",
+        "onboard_time": 1747802908,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548949,
+        "num": 548949,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535429,
+        "num": 535429,
+        "word": "南大碎尸案改编侵权案已调解",
+        "onboard_time": 1747800749,
+        "rank": 4,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 498649,
+        "num": 498649,
+        "word": "小别离",
+        "onboard_time": 1747799069,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411460,
+        "num": 411460,
+        "word": "公司派人事假扮猎头诱导老员工辞职",
+        "onboard_time": 1747801710,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384869,
+        "num": 384869,
+        "word": "李凯馨前助理道歉",
+        "onboard_time": 1747795522,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349966,
+        "num": 349966,
+        "word": "赴山海",
+        "onboard_time": 1747797325,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316174,
+        "num": 316174,
+        "word": "黄金突然直拉",
+        "onboard_time": 1747799727,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1999188,
+        "num": 315583,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895034,
+        "num": 314678,
+        "word": "甄嬛传哪天下架了你负责重拍",
+        "onboard_time": 1747803027,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398210,
+        "num": 314192,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324134,
+        "num": 313026,
+        "word": "辛柏青说尊重媛媛的意愿丧事从简",
+        "onboard_time": 1747801288,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 312748,
+        "num": 312748,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 294453,
+        "num": 294453,
+        "word": "全红婵因伤退出全国跳水冠军赛",
+        "onboard_time": 1747804704,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264130,
+        "num": 264130,
+        "word": "杨紫高原女警造型",
+        "onboard_time": 1747795882,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231449,
+        "num": 245043,
+        "word": "章子怡代言蒂芙尼",
+        "onboard_time": 1747803568,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45682,
+        "num": 241800,
+        "word": "奶粉行业的研发天花板",
+        "onboard_time": 1747804107,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77770,
+        "num": 240239,
+        "word": "易烊千玺是懂内存焦虑的",
+        "onboard_time": 1747805724,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240167,
+        "num": 240167,
+        "word": "人世间",
+        "onboard_time": 1747803027,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239921,
+        "num": 239921,
+        "word": "送你一朵小红花两位演员因癌症去世",
+        "onboard_time": 1747802069,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226199,
+        "num": 226199,
+        "word": "美国公布新型核弹",
+        "onboard_time": 1747800210,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48340,
+        "num": 219406,
+        "word": "固态电池概念走高多股涨停",
+        "onboard_time": 1747805964,
+        "rank": 23,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 217687,
+        "num": 217687,
+        "word": "戛纳迎来张子枫易烊千玺两位00后",
+        "onboard_time": 1747795941,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199196,
+        "num": 199196,
+        "word": "我的姐姐",
+        "onboard_time": 1747801889,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185985,
+        "num": 185985,
+        "word": "淘宝能量",
+        "onboard_time": 1747805124,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172438,
+        "num": 172438,
+        "word": "贫嘴张大民",
+        "onboard_time": 1747801469,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128837,
+        "num": 170602,
+        "word": "错过航班跪地哭喊女子发声",
+        "onboard_time": 1747800269,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119267,
+        "num": 170493,
+        "word": "韩小学生目睹老师教室性行为",
+        "onboard_time": 1747804765,
+        "rank": 29,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 14356,
+        "num": 170476,
+        "word": "加沙该如何应对以色列的持续封锁",
+        "onboard_time": 1747803688,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170468,
+        "num": 170468,
+        "word": "聊斋定妆照",
+        "onboard_time": 1747800149,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "皮质醇过高的六大表现",
+        "onboard_time": 1747801350,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157815,
+        "num": 157815,
+        "word": "普通人能从Labubu爆火中学到什么",
+        "onboard_time": 1747803867,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143965,
+        "num": 143965,
+        "word": "30元一斤麻辣烫的质量",
+        "onboard_time": 1747801768,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143649,
+        "num": 143649,
+        "word": "开画少女漫定档",
+        "onboard_time": 1747804525,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134728,
+        "num": 143495,
+        "word": "刁爱青家属起诉他是谁剧方侵权进展",
+        "onboard_time": 1747804286,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36105,
+        "num": 142784,
+        "word": "周杰伦未面世母带拍卖",
+        "onboard_time": 1747805005,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41291,
+        "num": 142476,
+        "word": "LV为什么被高仿告上法庭",
+        "onboard_time": 1747805124,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 48086,
+        "num": 141906,
+        "word": "男子海外遇歧视掐脖让对方道歉",
+        "onboard_time": 1747805425,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37641,
+        "num": 141358,
+        "word": "白宫网红和白宫闹翻了",
+        "onboard_time": 1747804227,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 141090,
+        "word": "终于有人把英语体系讲清楚了",
+        "onboard_time": 1747803268,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140818,
+        "num": 140818,
+        "word": "南大碎尸案亲属律师最新发声",
+        "onboard_time": 1747803568,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132881,
+        "num": 132881,
+        "word": "杜海涛接沈梦辰下班",
+        "onboard_time": 1747806085,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128807,
+        "num": 128807,
+        "word": "杨肸子柯淳吻戏路透",
+        "onboard_time": 1747785382,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126945,
+        "num": 126945,
+        "word": "把书啃烂的三花",
+        "onboard_time": 1747805484,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125440,
+        "num": 125440,
+        "word": "王一博获泰利奖金奖",
+        "onboard_time": 1747803987,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200263,
+        "num": 125009,
+        "word": "李凯馨前助理承认恶意剪辑录音",
+        "onboard_time": 1747795641,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123105,
+        "num": 123105,
+        "word": "陷入我们的热恋定档",
+        "onboard_time": 1747803388,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122797,
+        "num": 122797,
+        "word": "郑钦文世排第7",
+        "onboard_time": 1747804347,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展的确定性应对各种不确定性#"
+    }
+  }
+}

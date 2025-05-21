@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747805156338,
+  "endTime": 1747806203488,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -35,7 +35,7 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 1897751,
+      "raw_hot": 1999188,
       "num": 400488,
       "word": "于正自曝被单依纯放鸽子",
       "onboard_time": 1747802069,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1217085,
+      "num": 1217085,
+      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+      "onboard_time": 1747804286,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 951389,
       "num": 315403,
       "word": "赵磊站姐被拦在婚礼门外",
@@ -113,6 +121,14 @@
       "onboard_time": 1747796782,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 895034,
+      "num": 373964,
+      "word": "甄嬛传哪天下架了你负责重拍",
+      "onboard_time": 1747803027,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 817181,
@@ -153,22 +169,6 @@
       "onboard_time": 1747800749,
       "rank": 4,
       "category": "民生新闻,剧集"
-    },
-    {
-      "raw_hot": 619937,
-      "num": 619937,
-      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
-      "onboard_time": 1747804286,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 609855,
-      "num": 373964,
-      "word": "甄嬛传哪天下架了你负责重拍",
-      "onboard_time": 1747803027,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 600211,
@@ -323,20 +323,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411460,
+      "num": 411460,
+      "word": "公司派人事假扮猎头诱导老员工辞职",
+      "onboard_time": 1747801710,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410402,
       "num": 384392,
       "word": "李梦墨雨云间获奖哽咽感谢于正",
       "onboard_time": 1747786882,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409921,
-      "num": 409921,
-      "word": "公司派人事假扮猎头诱导老员工辞职",
-      "onboard_time": 1747801710,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357522,
@@ -441,6 +441,14 @@
       "onboard_time": 1747800269,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294453,
+      "num": 294453,
+      "word": "全红婵因伤退出全国跳水冠军赛",
+      "onboard_time": 1747804704,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 294142,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231449,
+      "num": 245043,
+      "word": "章子怡代言蒂芙尼",
+      "onboard_time": 1747803568,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229352,
       "num": 284818,
       "word": "错过航班跪地哭喊女子发声",
@@ -651,20 +667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205642,
-      "num": 205642,
-      "word": "章子怡代言蒂芙尼",
-      "onboard_time": 1747803568,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199750,
       "num": 199750,
       "word": "王一博获泰利奖金奖",
       "onboard_time": 1747803987,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199196,
+      "num": 199196,
+      "word": "我的姐姐",
+      "onboard_time": 1747801889,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 197122,
@@ -755,6 +771,14 @@
       "category": "情感,母婴育儿"
     },
     {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "淘宝能量",
+      "onboard_time": 1747805124,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185869,
       "num": 185869,
       "word": "京东红包",
@@ -785,14 +809,6 @@
       "onboard_time": 1747794801,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183259,
-      "num": 183259,
-      "word": "我的姐姐",
-      "onboard_time": 1747801889,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 182941,
@@ -947,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157815,
+      "num": 318467,
+      "word": "普通人能从Labubu爆火中学到什么",
+      "onboard_time": 1747803867,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154358,
       "num": 154358,
       "word": "人间好时节",
@@ -1027,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "终于有人把英语体系讲清楚了",
+      "onboard_time": 1747803268,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140911,
       "num": 140911,
       "word": "钱可以再赚但我再也不会20岁看演出",
@@ -1067,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132881,
+      "num": 132881,
+      "word": "杜海涛接沈梦辰下班",
+      "onboard_time": 1747806085,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129701,
       "num": 129701,
       "word": "首尔偶遇田柾国",
@@ -1091,6 +1131,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 126945,
+      "num": 126945,
+      "word": "把书啃烂的三花",
+      "onboard_time": 1747805484,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126676,
       "num": 126676,
       "word": "此狗被通报批评",
@@ -1107,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125512,
-      "num": 125512,
-      "word": "淘宝能量",
-      "onboard_time": 1747805124,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 125274,
       "num": 124161,
       "word": "试飞部队共牺牲32名试飞员",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1747783580,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119267,
+      "num": 216399,
+      "word": "韩小学生目睹老师教室性行为",
+      "onboard_time": 1747804765,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 116820,
@@ -1491,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77770,
+      "num": 240239,
+      "word": "易烊千玺是懂内存焦虑的",
+      "onboard_time": 1747805724,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77184,
       "num": 178461,
       "word": "梁王组合小满节气海报",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1747741280,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74562,
-      "num": 318467,
-      "word": "普通人能从Labubu爆火中学到什么",
-      "onboard_time": 1747803867,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72836,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1747754065,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70828,
-      "num": 255087,
-      "word": "全红婵因伤退出全国跳水冠军赛",
-      "onboard_time": 1747804704,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 70722,
@@ -1691,11 +1731,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48340,
+      "num": 219406,
+      "word": "固态电池概念走高多股涨停",
+      "onboard_time": 1747805964,
+      "rank": 23,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 48319,
       "num": 191131,
       "word": "25吨生姜因关税暴涨遭海外退单",
       "onboard_time": 1747798171,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48086,
+      "num": 141906,
+      "word": "男子海外遇歧视掐脖让对方道歉",
+      "onboard_time": 1747805425,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1747,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41291,
+      "num": 177567,
+      "word": "LV为什么被高仿告上法庭",
+      "onboard_time": 1747805124,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 40611,
       "num": 624814,
       "word": "夏日的美好扑面而来",
@@ -1771,7 +1835,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 35643,
+      "raw_hot": 36105,
       "num": 177935,
       "word": "周杰伦未面世母带拍卖",
       "onboard_time": 1747805005,
@@ -1947,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17900,
-      "num": 216399,
-      "word": "韩小学生目睹老师教室性行为",
-      "onboard_time": 1747804765,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 16917,
       "num": 26772,
       "word": "iQOO新品价格",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1747730363,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6713,
-      "num": 177567,
-      "word": "LV为什么被高仿告上法庭",
-      "onboard_time": 1747805124,
-      "rank": 39,
-      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [

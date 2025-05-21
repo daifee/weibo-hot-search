@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747805156338,
+  "endTime": 1747806203488,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -195,20 +195,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1999188,
+      "num": 400488,
+      "word": "于正自曝被单依纯放鸽子",
+      "onboard_time": 1747802069,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911251,
       "num": 1911251,
       "word": "钟南山对新冠病毒最新判断",
       "onboard_time": 1747710450,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1897751,
-      "num": 400488,
-      "word": "于正自曝被单依纯放鸽子",
-      "onboard_time": 1747802069,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1890711,
@@ -513,6 +513,14 @@
       "onboard_time": 1747751545,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1217085,
+      "num": 1217085,
+      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+      "onboard_time": 1747804286,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1207951,
@@ -857,6 +865,14 @@
       "onboard_time": 1747642165,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 895034,
+      "num": 373964,
+      "word": "甄嬛传哪天下架了你负责重拍",
+      "onboard_time": 1747803027,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 882705,
@@ -1443,14 +1459,6 @@
       "category": "民生新闻,剧集"
     },
     {
-      "raw_hot": 619937,
-      "num": 619937,
-      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
-      "onboard_time": 1747804286,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 618739,
       "num": 352553,
       "word": "王俊凯工作室",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1747725083,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 609855,
-      "num": 373964,
-      "word": "甄嬛传哪天下架了你负责重拍",
-      "onboard_time": 1747803027,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 606986,
@@ -2315,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411460,
+      "num": 411460,
+      "word": "公司派人事假扮猎头诱导老员工辞职",
+      "onboard_time": 1747801710,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411304,
       "num": 411304,
       "word": "披荆斩棘的哥哥",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1747786882,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409921,
-      "num": 409921,
-      "word": "公司派人事假扮猎头诱导老员工辞职",
-      "onboard_time": 1747801710,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404667,
@@ -3129,6 +3129,14 @@
       "onboard_time": 1747800269,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294453,
+      "num": 294453,
+      "word": "全红婵因伤退出全国跳水冠军赛",
+      "onboard_time": 1747804704,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 294142,
@@ -4003,6 +4011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 231449,
+      "num": 245043,
+      "word": "章子怡代言蒂芙尼",
+      "onboard_time": 1747803568,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231231,
       "num": 231231,
       "word": "很多闷声赚钱的行业都是自由职业",
@@ -4811,14 +4827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205642,
-      "num": 205642,
-      "word": "章子怡代言蒂芙尼",
-      "onboard_time": 1747803568,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205321,
       "num": 205321,
       "word": "潘展乐回应汪顺调侃",
@@ -5169,6 +5177,14 @@
       "onboard_time": 1747626503,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199196,
+      "num": 199196,
+      "word": "我的姐姐",
+      "onboard_time": 1747801889,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 199175,
@@ -5995,6 +6011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 185985,
+      "num": 185985,
+      "word": "淘宝能量",
+      "onboard_time": 1747805124,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185876,
       "num": 185876,
       "word": "洗衣液香味会影响心情吗",
@@ -6209,14 +6233,6 @@
       "onboard_time": 1747794801,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183259,
-      "num": 183259,
-      "word": "我的姐姐",
-      "onboard_time": 1747801889,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 183194,
@@ -7411,6 +7427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157815,
+      "num": 318467,
+      "word": "普通人能从Labubu爆火中学到什么",
+      "onboard_time": 1747803867,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157634,
       "num": 157634,
       "word": "一个小胖跑步减肥自律的三年",
@@ -8203,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141090,
+      "num": 141090,
+      "word": "终于有人把英语体系讲清楚了",
+      "onboard_time": 1747803268,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141048,
       "num": 210181,
       "word": "推进中国式现代化要继续把制造业搞好",
@@ -8707,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132881,
+      "num": 132881,
+      "word": "杜海涛接沈梦辰下班",
+      "onboard_time": 1747806085,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132623,
       "num": 476916,
       "word": "上厕所时如何有效压水花避免飞溅",
@@ -9019,6 +9059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126945,
+      "num": 126945,
+      "word": "把书啃烂的三花",
+      "onboard_time": 1747805484,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126773,
       "num": 296409,
       "word": "TT一夜双冠",
@@ -9097,14 +9145,6 @@
       "onboard_time": 1747492946,
       "rank": 32,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 125512,
-      "num": 125512,
-      "word": "淘宝能量",
-      "onboard_time": 1747805124,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 124929,
@@ -9393,6 +9433,14 @@
       "onboard_time": 1747540889,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119267,
+      "num": 216399,
+      "word": "韩小学生目睹老师教室性行为",
+      "onboard_time": 1747804765,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 119128,
@@ -11163,6 +11211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77770,
+      "num": 240239,
+      "word": "易烊千玺是懂内存焦虑的",
+      "onboard_time": 1747805724,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77472,
       "num": 373110,
       "word": "00后开始在520给姐妹送鲜花",
@@ -11289,14 +11345,6 @@
       "onboard_time": 1747697479,
       "rank": 44,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 74562,
-      "num": 318467,
-      "word": "普通人能从Labubu爆火中学到什么",
-      "onboard_time": 1747803867,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74204,
@@ -11473,14 +11521,6 @@
       "onboard_time": 1747711341,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70828,
-      "num": 255087,
-      "word": "全红婵因伤退出全国跳水冠军赛",
-      "onboard_time": 1747804704,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 70722,
@@ -12363,11 +12403,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48340,
+      "num": 219406,
+      "word": "固态电池概念走高多股涨停",
+      "onboard_time": 1747805964,
+      "rank": 23,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 48319,
       "num": 191131,
       "word": "25吨生姜因关税暴涨遭海外退单",
       "onboard_time": 1747798171,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48086,
+      "num": 141906,
+      "word": "男子海外遇歧视掐脖让对方道歉",
+      "onboard_time": 1747805425,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -12667,6 +12723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41291,
+      "num": 177567,
+      "word": "LV为什么被高仿告上法庭",
+      "onboard_time": 1747805124,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 41183,
       "num": 189505,
       "word": "教资考试日历",
@@ -12907,6 +12971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36105,
+      "num": 177935,
+      "word": "周杰伦未面世母带拍卖",
+      "onboard_time": 1747805005,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 36010,
       "num": 174444,
       "word": "用deepseek记单词的方法",
@@ -12921,14 +12993,6 @@
       "onboard_time": 1747744642,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35643,
-      "num": 177935,
-      "word": "周杰伦未面世母带拍卖",
-      "onboard_time": 1747805005,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 35635,
@@ -14099,14 +14163,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 17900,
-      "num": 216399,
-      "word": "韩小学生目睹老师教室性行为",
-      "onboard_time": 1747804765,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 17789,
       "num": 211456,
       "word": "复旦大学副教授的安全建议",
@@ -14881,14 +14937,6 @@
       "onboard_time": 1747751485,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 6713,
-      "num": 177567,
-      "word": "LV为什么被高仿告上法庭",
-      "onboard_time": 1747805124,
-      "rank": 39,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 6361,
