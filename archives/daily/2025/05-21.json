@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747801876719,
+  "endTime": 1747802759858,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -25,6 +25,14 @@
       "onboard_time": 1747783100,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2282112,
+      "num": 321143,
+      "word": "辛柏青说尊重媛媛的意愿丧事从简",
+      "onboard_time": 1747801288,
+      "rank": 30,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1730386,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 1336656,
-      "num": 292194,
+      "num": 368550,
       "word": "小别离",
       "onboard_time": 1747799069,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1311951,
+      "num": 404031,
+      "word": "送你一朵小红花两位演员因癌症去世",
+      "onboard_time": 1747802069,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 951389,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 911417,
-      "num": 310865,
+      "num": 313079,
       "word": "女子坠楼向丈夫喊我还没死快打120",
       "onboard_time": 1747796361,
       "rank": 12,
@@ -139,6 +155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 594065,
+      "num": 311076,
+      "word": "于正自曝被单依纯放鸽子",
+      "onboard_time": 1747802069,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570626,
+      "num": 570626,
+      "word": "南大碎尸案改编侵权案已调解",
+      "onboard_time": 1747800749,
+      "rank": 4,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 563962,
       "num": 304288,
       "word": "杨紫高原女警造型",
@@ -187,6 +219,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 520492,
+      "num": 307132,
+      "word": "赴山海",
+      "onboard_time": 1747797325,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502488,
       "num": 502488,
       "word": "小满",
@@ -217,14 +257,6 @@
       "onboard_time": 1747754844,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 480438,
-      "num": 263932,
-      "word": "赴山海",
-      "onboard_time": 1747797325,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 477574,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 356489,
-      "num": 265031,
+      "num": 303268,
       "word": "戛纳迎来张子枫易烊千玺两位00后",
       "onboard_time": 1747795941,
       "rank": 33,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327862,
+      "num": 305253,
+      "word": "美国公布新型核弹",
+      "onboard_time": 1747800210,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324872,
       "num": 263341,
       "word": "顶着18岁的脸干着28岁的事",
@@ -355,20 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307489,
-      "num": 227600,
-      "word": "美国公布新型核弹",
-      "onboard_time": 1747800210,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 303803,
-      "num": 303803,
-      "word": "南大碎尸案改编侵权案已调解",
-      "onboard_time": 1747800749,
-      "rank": 4,
-      "category": "民生新闻,剧集"
+      "raw_hot": 322119,
+      "num": 322119,
+      "word": "公司派人事假扮猎头诱导老员工辞职",
+      "onboard_time": 1747801710,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297934,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 290073,
-      "num": 262745,
+      "num": 278393,
       "word": "郭富城没否认三胎",
       "onboard_time": 1747799309,
       "rank": 29,
@@ -419,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275748,
+      "num": 275748,
+      "word": "聊斋定妆照",
+      "onboard_time": 1747800149,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275427,
       "num": 317747,
       "word": "小得盈满胜万全",
       "onboard_time": 1747789652,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272991,
+      "num": 272991,
+      "word": "皮质醇过高的六大表现",
+      "onboard_time": 1747801350,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269135,
@@ -443,22 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256099,
-      "num": 210224,
-      "word": "辛柏青说尊重媛媛的意愿丧事从简",
-      "onboard_time": 1747801288,
-      "rank": 30,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 250566,
-      "num": 222379,
-      "word": "聊斋定妆照",
-      "onboard_time": 1747800149,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250244,
       "num": 250244,
       "word": "肖战回应藏海拿下首杀",
@@ -468,11 +500,19 @@
     },
     {
       "raw_hot": 243424,
-      "num": 243424,
+      "num": 295445,
       "word": "马嘉祺出发参加歌手",
       "onboard_time": 1747798890,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241473,
+      "num": 318550,
+      "word": "小米YU7",
+      "onboard_time": 1747800808,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 240034,
@@ -500,7 +540,7 @@
     },
     {
       "raw_hot": 229352,
-      "num": 229352,
+      "num": 284818,
       "word": "错过航班跪地哭喊女子发声",
       "onboard_time": 1747800269,
       "rank": 14,
@@ -513,14 +553,6 @@
       "onboard_time": 1747795941,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226018,
-      "num": 226018,
-      "word": "公司派人事假扮猎头诱导老员工辞职",
-      "onboard_time": 1747801710,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222311,
@@ -571,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212751,
+      "num": 301832,
+      "word": "美企图全球禁用中国先进计算芯片",
+      "onboard_time": 1747800508,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208669,
       "num": 208669,
       "word": "朱媛媛作品",
@@ -595,28 +635,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 196765,
-      "num": 196765,
-      "word": "小米YU7",
-      "onboard_time": 1747800808,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 196033,
       "num": 147236,
       "word": "上厕所途中不要冲水的原因",
       "onboard_time": 1747753165,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196025,
-      "num": 196025,
-      "word": "皮质醇过高的六大表现",
-      "onboard_time": 1747801350,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191940,
@@ -683,6 +707,14 @@
       "category": "情感,母婴育儿"
     },
     {
+      "raw_hot": 185869,
+      "num": 185869,
+      "word": "京东红包",
+      "onboard_time": 1747802249,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185474,
       "num": 185474,
       "word": "王楚钦加油",
@@ -705,6 +737,14 @@
       "onboard_time": 1747794801,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183259,
+      "num": 183259,
+      "word": "我的姐姐",
+      "onboard_time": 1747801889,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 182941,
@@ -737,14 +777,6 @@
       "onboard_time": 1747791869,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 177607,
-      "num": 264202,
-      "word": "美企图全球禁用中国先进计算芯片",
-      "onboard_time": 1747800508,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177098,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 169517,
-      "num": 263246,
+      "num": 276895,
       "word": "早知道有NAS就不换手机了",
       "onboard_time": 1747798768,
       "rank": 26,
@@ -841,6 +873,14 @@
       "onboard_time": 1747774634,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158692,
+      "num": 158692,
+      "word": "白举纲用歌词回应争议",
+      "onboard_time": 1747802548,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 154358,
@@ -896,6 +936,14 @@
       "word": "肖战一声声入耳一句句动心",
       "onboard_time": 1747792881,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141975,
+      "num": 141975,
+      "word": "家有九凤",
+      "onboard_time": 1747802727,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1153,6 +1201,14 @@
       "onboard_time": 1747790430,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97652,
+      "num": 292150,
+      "word": "若521结婚100天纪念日就是七夕",
+      "onboard_time": 1747801228,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97297,
@@ -1499,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54039,
-      "num": 228225,
-      "word": "若521结婚100天纪念日就是七夕",
-      "onboard_time": 1747801228,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51627,
       "num": 55147,
       "word": "藏海好像从甘露寺回宫的甄嬛",
@@ -1595,6 +1643,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 29740,
+      "num": 298374,
+      "word": "王心凌的兵卷出新高度",
+      "onboard_time": 1747801228,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29626,
       "num": 29626,
       "word": "星穹铁道风堇",
@@ -1603,20 +1659,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29485,
+      "num": 208462,
+      "word": "德布劳内曼城主场告别战",
+      "onboard_time": 1747797749,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28852,
       "num": 130856,
       "word": "以毒攻毒其实是有风险的",
       "onboard_time": 1747759160,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28496,
-      "num": 228776,
-      "word": "王心凌的兵卷出新高度",
-      "onboard_time": 1747801228,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 26017,
@@ -1675,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21921,
-      "num": 208462,
-      "word": "德布劳内曼城主场告别战",
-      "onboard_time": 1747797749,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21436,
       "num": 22840,
       "word": "虞书欣allblack黑长直造型",
@@ -1720,6 +1768,14 @@
       "word": "外国妹子看三国迷上曹操",
       "onboard_time": 1747796962,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18496,
+      "num": 269666,
+      "word": "继承人什么情况需偿还被继承人债务",
+      "onboard_time": 1747801949,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1780,7 +1836,7 @@
     },
     {
       "raw_hot": 11148,
-      "num": 613788,
+      "num": 680238,
       "word": "北京范儿",
       "onboard_time": 1747730363,
       "rank": 2,
@@ -1793,6 +1849,9 @@
     },
     {
       "word": "#看曾经冷门的文物保护热起来#"
+    },
+    {
+      "word": "#以高质量发展的确定性应对各种不确定性#"
     }
   ]
 }

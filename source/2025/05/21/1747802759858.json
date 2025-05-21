@@ -1,0 +1,410 @@
+{
+  "runTime": 1747802759858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12868130,
+        "num": 12868130,
+        "word": "朱媛媛去世",
+        "onboard_time": 1747797022,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 889017,
+        "num": 889017,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11122,
+        "num": 680238,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570626,
+        "num": 570626,
+        "word": "南大碎尸案改编侵权案已调解",
+        "onboard_time": 1747800749,
+        "rank": 3,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 456997,
+        "num": 456997,
+        "word": "黄金突然直拉",
+        "onboard_time": 1747799727,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1311951,
+        "num": 404031,
+        "word": "送你一朵小红花两位演员因癌症去世",
+        "onboard_time": 1747802069,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1209620,
+        "num": 368550,
+        "word": "小别离",
+        "onboard_time": 1747799069,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322119,
+        "num": 322119,
+        "word": "公司派人事假扮猎头诱导老员工辞职",
+        "onboard_time": 1747801710,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2282112,
+        "num": 321143,
+        "word": "辛柏青说尊重媛媛的意愿丧事从简",
+        "onboard_time": 1747801288,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 241473,
+        "num": 318550,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 777345,
+        "num": 315099,
+        "word": "李凯馨前助理道歉",
+        "onboard_time": 1747795522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699033,
+        "num": 313079,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594065,
+        "num": 311076,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520492,
+        "num": 307132,
+        "word": "赴山海",
+        "onboard_time": 1747797325,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327862,
+        "num": 305253,
+        "word": "美国公布新型核弹",
+        "onboard_time": 1747800210,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324868,
+        "num": 303268,
+        "word": "戛纳迎来张子枫易烊千玺两位00后",
+        "onboard_time": 1747795941,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212751,
+        "num": 301832,
+        "word": "美企图全球禁用中国先进计算芯片",
+        "onboard_time": 1747800508,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29740,
+        "num": 298374,
+        "word": "王心凌的兵卷出新高度",
+        "onboard_time": 1747801228,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200813,
+        "num": 295445,
+        "word": "马嘉祺出发参加歌手",
+        "onboard_time": 1747798890,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97652,
+        "num": 292150,
+        "word": "若521结婚100天纪念日就是七夕",
+        "onboard_time": 1747801228,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302884,
+        "num": 290149,
+        "word": "521",
+        "onboard_time": 1747783100,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604864,
+        "num": 288463,
+        "word": "李凯馨前助理承认恶意剪辑录音",
+        "onboard_time": 1747795641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209590,
+        "num": 284818,
+        "word": "错过航班跪地哭喊女子发声",
+        "onboard_time": 1747800269,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487749,
+        "num": 283451,
+        "word": "杨紫高原女警造型",
+        "onboard_time": 1747795882,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281664,
+        "num": 281664,
+        "word": "杨肸子柯淳吻戏路透",
+        "onboard_time": 1747785382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233033,
+        "num": 278393,
+        "word": "郭富城没否认三胎",
+        "onboard_time": 1747799309,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107243,
+        "num": 276895,
+        "word": "早知道有NAS就不换手机了",
+        "onboard_time": 1747798768,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275748,
+        "num": 275748,
+        "word": "聊斋定妆照",
+        "onboard_time": 1747800149,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272991,
+        "num": 272991,
+        "word": "皮质醇过高的六大表现",
+        "onboard_time": 1747801350,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18496,
+        "num": 269666,
+        "word": "继承人什么情况需偿还被继承人债务",
+        "onboard_time": 1747801949,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268913,
+        "num": 268913,
+        "word": "韩一男子强奸杀害生母判35年",
+        "onboard_time": 1747799368,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236670,
+        "num": 236670,
+        "word": "赵磊站姐被拦在婚礼门外",
+        "onboard_time": 1747794981,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208514,
+        "num": 208514,
+        "word": "造城者",
+        "onboard_time": 1747798110,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190632,
+        "num": 190632,
+        "word": "30元一斤麻辣烫的质量",
+        "onboard_time": 1747801768,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185869,
+        "num": 185869,
+        "word": "京东红包",
+        "onboard_time": 1747802249,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185823,
+        "num": 185823,
+        "word": "该去趟云南了",
+        "onboard_time": 1747801768,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185474,
+        "num": 185474,
+        "word": "刘亦菲第二场晚宴造型",
+        "onboard_time": 1747798648,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184014,
+        "num": 184014,
+        "word": "以色列",
+        "onboard_time": 1747789711,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183259,
+        "num": 183259,
+        "word": "我的姐姐",
+        "onboard_time": 1747801889,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179993,
+        "num": 179993,
+        "word": "贫嘴张大民",
+        "onboard_time": 1747801469,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "小得盈满胜万全",
+        "onboard_time": 1747789652,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173072,
+        "num": 173072,
+        "word": "李一桐夏日十八宫格",
+        "onboard_time": 1747801768,
+        "rank": 41,
+        "category": "情感,母婴育儿"
+      },
+      {
+        "raw_hot": 168696,
+        "num": 168696,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 42,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 168535,
+        "num": 168535,
+        "word": "生命树海报",
+        "onboard_time": 1747794859,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158692,
+        "num": 158692,
+        "word": "白举纲用歌词回应争议",
+        "onboard_time": 1747802548,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29485,
+        "num": 153253,
+        "word": "德布劳内曼城主场告别战",
+        "onboard_time": 1747797749,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152919,
+        "num": 152919,
+        "word": "马斯克再次强势表态",
+        "onboard_time": 1747791451,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146420,
+        "num": 146420,
+        "word": "顶着18岁的脸干着28岁的事",
+        "onboard_time": 1747797264,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144388,
+        "num": 144388,
+        "word": "雷军说YU7有不可替代的魅力",
+        "onboard_time": 1747795641,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141975,
+        "num": 141975,
+        "word": "家有九凤",
+        "onboard_time": 1747802727,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展的确定性应对各种不确定性#"
+    }
+  }
+}
