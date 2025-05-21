@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747862650512,
+  "endTime": 1747863535746,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -155,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211882,
-      "num": 211882,
+      "raw_hot": 220637,
+      "num": 220637,
       "word": "男子生殖器被切割机切断后成功接回",
       "onboard_time": 1747857913,
       "rank": 0,
@@ -555,7 +555,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20692,
+      "raw_hot": 20985,
       "num": 23947,
       "word": "遭摩的司机性侵女孩家属称孩子已转学",
       "onboard_time": 1747836264,
@@ -569,6 +569,14 @@
       "onboard_time": 1747851855,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18749,
+      "num": 20198,
+      "word": "孙颖莎说混双挑战非常大",
+      "onboard_time": 1747860734,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 18559,
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17844,
+      "num": 20175,
+      "word": "韦雪用男友手机给前夫打电话",
+      "onboard_time": 1747862534,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 17481,
       "num": 20183,
       "word": "老板就老板 说什么主理人",
@@ -603,23 +619,15 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 14940,
-      "num": 20198,
-      "word": "孙颖莎说混双挑战非常大",
-      "onboard_time": 1747860734,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 14271,
+      "num": 17735,
+      "word": "歼10CE亮相国际航展引围观拍照",
+      "onboard_time": 1747863015,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 13672,
-      "num": 20175,
-      "word": "韦雪用男友手机给前夫打电话",
-      "onboard_time": 1747862534,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 13066,
+      "raw_hot": 13406,
       "num": 21118,
       "word": "清华教授谈学生用AI写作业",
       "onboard_time": 1747857973,
