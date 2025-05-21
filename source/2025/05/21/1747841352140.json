@@ -1,0 +1,410 @@
+{
+  "runTime": 1747841352140,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1986633,
+        "num": 1986633,
+        "word": "朱媛媛患病后一直希望奇迹出现",
+        "onboard_time": 1747838906,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1168046,
+        "num": 1168046,
+        "word": "国字脸猴子大壮去世",
+        "onboard_time": 1747839205,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11880,
+        "num": 835576,
+        "word": "民营经济促进法施行释放三大信号",
+        "onboard_time": 1747833503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818178,
+        "num": 818178,
+        "word": "肖战升没升咖不知道 我升了",
+        "onboard_time": 1747832725,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733614,
+        "num": 733614,
+        "word": "父亲卖5套房送两儿子留洋学球",
+        "onboard_time": 1747836205,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654710,
+        "num": 654710,
+        "word": "林诗栋发球被判遮挡",
+        "onboard_time": 1747838245,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 773417,
+        "num": 612248,
+        "word": "倪萍千字长文悼念朱媛媛",
+        "onboard_time": 1747836205,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692331,
+        "num": 606457,
+        "word": "辛柏青2秒停顿藏着催泪暴击",
+        "onboard_time": 1747835304,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554231,
+        "num": 554231,
+        "word": "孙颖莎vs卢茨",
+        "onboard_time": 1747839146,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400826,
+        "num": 539293,
+        "word": "以军道歉",
+        "onboard_time": 1747837706,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573654,
+        "num": 536104,
+        "word": "谢谢郑晓龙导演",
+        "onboard_time": 1747836746,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527119,
+        "num": 527119,
+        "word": "鬼鬼晒女儿",
+        "onboard_time": 1747831644,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484942,
+        "num": 484942,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476909,
+        "num": 476909,
+        "word": "以军向外交使团开火",
+        "onboard_time": 1747835604,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260212,
+        "num": 453807,
+        "word": "上海孤老去世留下房产邻居要求分一半",
+        "onboard_time": 1747837405,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450140,
+        "num": 450140,
+        "word": "坠化粪池遇难男生在母亲节偷偷送包",
+        "onboard_time": 1747833744,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400929,
+        "num": 400929,
+        "word": "韩安冉女儿要做手术",
+        "onboard_time": 1747832003,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 352750,
+        "num": 352750,
+        "word": "网友调侃12楼坠落女子生还老公很失望",
+        "onboard_time": 1747834823,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351659,
+        "num": 351659,
+        "word": "刘宇宁感谢开推小伙伴",
+        "onboard_time": 1747839446,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29682,
+        "num": 318881,
+        "word": "电子产品正成为身体的一部分",
+        "onboard_time": 1747839864,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317741,
+        "num": 317741,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 282794,
+        "num": 282794,
+        "word": "李乃文换蜡烛头像",
+        "onboard_time": 1747832844,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282684,
+        "num": 282684,
+        "word": "现在和朋友聊天已经不敢诉苦了",
+        "onboard_time": 1747830083,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274654,
+        "num": 274654,
+        "word": "马嘉祺歌手 一了百了",
+        "onboard_time": 1747831463,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269581,
+        "num": 269581,
+        "word": "陶虹发长文缅怀朱媛媛",
+        "onboard_time": 1747835904,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263005,
+        "num": 263005,
+        "word": "刘宇宁直播",
+        "onboard_time": 1747831524,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225111,
+        "num": 225111,
+        "word": "歌手彩排",
+        "onboard_time": 1747834104,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199212,
+        "num": 199212,
+        "word": "赴山海剧方律所曾代理姜广涛案件",
+        "onboard_time": 1747831766,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194293,
+        "num": 194293,
+        "word": "孙颖莎世乒赛晋级16强",
+        "onboard_time": 1747840945,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15742,
+        "num": 187671,
+        "word": "来杭州一定不要错过龙井村",
+        "onboard_time": 1747839685,
+        "rank": 29,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 185069,
+        "num": 185069,
+        "word": "巴基斯坦警告印度我们不是巴勒斯坦",
+        "onboard_time": 1747838305,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177639,
+        "num": 177639,
+        "word": "白鹿给于正科普配平",
+        "onboard_time": 1747838786,
+        "rank": 31,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 174619,
+        "num": 174619,
+        "word": "小狗眼里全是对复仇的渴望",
+        "onboard_time": 1747841245,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "遭摩的司机性侵女孩家属称孩子已转学",
+        "onboard_time": 1747836264,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172869,
+        "num": 172869,
+        "word": "进去vip 出来svip",
+        "onboard_time": 1747832725,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167698,
+        "num": 167698,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162599,
+        "num": 162599,
+        "word": "孙颖莎说别动我的餐盘",
+        "onboard_time": 1747829362,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148440,
+        "num": 148440,
+        "word": "王俊凯被捧场的反应",
+        "onboard_time": 1747840824,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 148262,
+        "word": "孙颖莎4比0卢茨",
+        "onboard_time": 1747841245,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28012,
+        "num": 137608,
+        "word": "成年人感的恋爱",
+        "onboard_time": 1747840644,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 135368,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127827,
+        "num": 127827,
+        "word": "猴子大壮",
+        "onboard_time": 1747839864,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127713,
+        "num": 127713,
+        "word": "警方回应围棋少年离世",
+        "onboard_time": 1747837525,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124472,
+        "num": 124472,
+        "word": "骨转移的疼痛是难以忍受的",
+        "onboard_time": 1747836985,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 4296,
+        "num": 122983,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121753,
+        "num": 121753,
+        "word": "孙颖莎防守坚如磐石",
+        "onboard_time": 1747841304,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118452,
+        "num": 118452,
+        "word": "网传歌手补位名单",
+        "onboard_time": 1747840105,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117356,
+        "num": 117356,
+        "word": "肖战肌肉太绝了",
+        "onboard_time": 1747839205,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116390,
+        "num": 116390,
+        "word": "新兰世纪婚礼",
+        "onboard_time": 1747841124,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115867,
+        "num": 115867,
+        "word": "秦海璐获梅花奖的含金量",
+        "onboard_time": 1747838126,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#到河南考察习近平为何再提洋火#"
+    }
+  }
+}

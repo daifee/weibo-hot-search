@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747838711512,
+  "endTime": 1747841352140,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -64,6 +64,14 @@
       "word": "于正自曝被单依纯放鸽子",
       "onboard_time": 1747802069,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1986633,
+      "num": 1986633,
+      "word": "朱媛媛患病后一直希望奇迹出现",
+      "onboard_time": 1747838906,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1193322,
-      "num": 454746,
+      "num": 612248,
       "word": "倪萍千字长文悼念朱媛媛",
       "onboard_time": 1747836205,
       "rank": 16,
@@ -225,6 +233,14 @@
       "onboard_time": 1747815561,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1168046,
+      "num": 1168046,
+      "word": "国字脸猴子大壮去世",
+      "onboard_time": 1747839205,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1147823,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733614,
+      "num": 733614,
+      "word": "父亲卖5套房送两儿子留洋学球",
+      "onboard_time": 1747836205,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 707257,
       "num": 483312,
       "word": "韩安冉女儿要做手术",
@@ -441,6 +465,14 @@
       "onboard_time": 1747784780,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 654710,
+      "num": 654710,
+      "word": "林诗栋发球被判遮挡",
+      "onboard_time": 1747838245,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 648046,
@@ -499,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573654,
+      "num": 536104,
+      "word": "谢谢郑晓龙导演",
+      "onboard_time": 1747836746,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573255,
       "num": 573255,
       "word": "麦当劳玩具",
       "onboard_time": 1747818261,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 572320,
-      "num": 572320,
-      "word": "父亲卖5套房送两儿子留洋学球",
-      "onboard_time": 1747836205,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 563962,
@@ -529,6 +561,14 @@
       "onboard_time": 1747785082,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 554231,
+      "num": 554231,
+      "word": "孙颖莎vs卢茨",
+      "onboard_time": 1747839146,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 543053,
@@ -675,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 476909,
+      "num": 476909,
+      "word": "以军向外交使团开火",
+      "onboard_time": 1747835604,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 475925,
       "num": 475925,
       "word": "妇科肿瘤医生最心疼的场景",
@@ -771,12 +819,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 404444,
-      "num": 307508,
-      "word": "谢谢郑晓龙导演",
-      "onboard_time": 1747836746,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 400826,
+      "num": 539293,
+      "word": "以军道歉",
+      "onboard_time": 1747837706,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 378674,
@@ -843,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 351659,
+      "num": 351659,
+      "word": "刘宇宁感谢开推小伙伴",
+      "onboard_time": 1747839446,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351591,
       "num": 456832,
       "word": "赴山海剧方律所曾代理姜广涛案件",
@@ -905,14 +961,6 @@
       "onboard_time": 1747809744,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328988,
-      "num": 328988,
-      "word": "以军向外交使团开火",
-      "onboard_time": 1747835604,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 327862,
@@ -1139,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275729,
-      "num": 275729,
-      "word": "林诗栋发球被判遮挡",
-      "onboard_time": 1747838245,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275427,
       "num": 317747,
       "word": "小得盈满胜万全",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1747820545,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260212,
+      "num": 453807,
+      "word": "上海孤老去世留下房产邻居要求分一半",
+      "onboard_time": 1747837405,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258444,
@@ -1531,14 +1579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201999,
-      "num": 201999,
-      "word": "上海孤老去世留下房产邻居要求分一半",
-      "onboard_time": 1747837405,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 201507,
       "num": 214837,
       "word": "藏海 幻视好凉",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1747821384,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194293,
+      "num": 194293,
+      "word": "孙颖莎世乒赛晋级16强",
+      "onboard_time": 1747840945,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 194073,
@@ -1835,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185069,
+      "num": 185069,
+      "word": "巴基斯坦警告印度我们不是巴勒斯坦",
+      "onboard_time": 1747838305,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184535,
       "num": 284722,
       "word": "521遇上小满",
@@ -1931,6 +1987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177639,
+      "num": 177639,
+      "word": "白鹿给于正科普配平",
+      "onboard_time": 1747838786,
+      "rank": 31,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 177098,
       "num": 177098,
       "word": "雷军回应质疑",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1747832545,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174619,
+      "num": 174619,
+      "word": "小狗眼里全是对复仇的渴望",
+      "onboard_time": 1747841245,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 174240,
@@ -2227,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158017,
-      "num": 158017,
-      "word": "巴基斯坦警告印度我们不是巴勒斯坦",
-      "onboard_time": 1747838305,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157989,
       "num": 157989,
       "word": "12岁于子迪200米蝶泳夺冠",
@@ -2443,14 +2507,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 150405,
-      "num": 150405,
-      "word": "以军道歉",
-      "onboard_time": 1747837706,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150278,
       "num": 199249,
       "word": "网曝河北一水利工程多年未用成摆设",
@@ -2465,6 +2521,22 @@
       "onboard_time": 1747823963,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148440,
+      "num": 148440,
+      "word": "王俊凯被捧场的反应",
+      "onboard_time": 1747840824,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 148262,
+      "num": 148262,
+      "word": "孙颖莎4比0卢茨",
+      "onboard_time": 1747841245,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 148157,
@@ -2907,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "猴子大壮",
+      "onboard_time": 1747839864,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "把书啃烂的三花",
@@ -2987,6 +3067,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121753,
+      "num": 121753,
+      "word": "孙颖莎防守坚如磐石",
+      "onboard_time": 1747841304,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118452,
+      "num": 118452,
+      "word": "网传歌手补位名单",
+      "onboard_time": 1747840105,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117356,
+      "num": 117356,
+      "word": "肖战肌肉太绝了",
+      "onboard_time": 1747839205,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116896,
       "num": 211956,
       "word": "eStar夏季挂牌公告",
@@ -3025,6 +3129,14 @@
       "onboard_time": 1747790910,
       "rank": 39,
       "category": "幽默,动漫"
+    },
+    {
+      "raw_hot": 116390,
+      "num": 116390,
+      "word": "新兰世纪婚礼",
+      "onboard_time": 1747841124,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 116220,
@@ -4195,6 +4307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29682,
+      "num": 318881,
+      "word": "电子产品正成为身体的一部分",
+      "onboard_time": 1747839864,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29626,
       "num": 29626,
       "word": "星穹铁道风堇",
@@ -4225,6 +4345,14 @@
       "onboard_time": 1747759160,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28012,
+      "num": 137608,
+      "word": "成年人感的恋爱",
+      "onboard_time": 1747840644,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 27537,
@@ -4571,6 +4699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15742,
+      "num": 187671,
+      "word": "来杭州一定不要错过龙井村",
+      "onboard_time": 1747839685,
+      "rank": 29,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 15035,
       "num": 17795,
       "word": "于适亮相戛纳电影节红毯",
@@ -4625,6 +4761,14 @@
       "onboard_time": 1747823482,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 11880,
+      "num": 835576,
+      "word": "民营经济促进法施行释放三大信号",
+      "onboard_time": 1747833503,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11714,
