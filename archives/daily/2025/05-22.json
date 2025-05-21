@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747859301177,
+  "endTime": 1747860116981,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174539,
+      "num": 174539,
+      "word": "男子生殖器被切割机切断后成功接回",
+      "onboard_time": 1747857913,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174233,
       "num": 174233,
       "word": "王曼昱VS韩莹",
@@ -209,14 +217,6 @@
       "onboard_time": 1747832725,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156596,
-      "num": 156596,
-      "word": "男子生殖器被切割机切断后成功接回",
-      "onboard_time": 1747857913,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150927,
@@ -587,12 +587,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16989,
-      "num": 16989,
+      "raw_hot": 17481,
+      "num": 17481,
       "word": "老板就老板 说什么主理人",
       "onboard_time": 1747856415,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16807,
+      "num": 27108,
+      "word": "全场为一名9岁盲童鼓掌",
+      "onboard_time": 1747857253,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 12642,
@@ -601,14 +609,6 @@
       "onboard_time": 1747855093,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11741,
-      "num": 27108,
-      "word": "全场为一名9岁盲童鼓掌",
-      "onboard_time": 1747857253,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 11252,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 10565,
-      "num": 16343,
+      "num": 21118,
       "word": "清华教授谈学生用AI写作业",
       "onboard_time": 1747857973,
       "rank": 40,
