@@ -1,0 +1,410 @@
+{
+  "runTime": 1747831954287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 780581,
+        "num": 1124893,
+        "word": "涉嫌在中药里加安眠药医院暂停营业",
+        "onboard_time": 1747827922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622248,
+        "num": 622248,
+        "word": "朱媛媛曾祝大家平平安安健健康康",
+        "onboard_time": 1747830624,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9374,
+        "num": 418021,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416527,
+        "num": 416527,
+        "word": "国乒双打三项都失去双保险",
+        "onboard_time": 1747821922,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315447,
+        "num": 315447,
+        "word": "张本美和4比3金琴英",
+        "onboard_time": 1747828223,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283437,
+        "num": 283437,
+        "word": "妇科肿瘤医生最心疼的场景",
+        "onboard_time": 1747821681,
+        "rank": 5,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 1070324,
+        "num": 274398,
+        "word": "梁静给朱媛媛发的最后一条信息",
+        "onboard_time": 1747823003,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701727,
+        "num": 269759,
+        "word": "肖战洗澡戏",
+        "onboard_time": 1747828104,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543053,
+        "num": 268274,
+        "word": "小英因生病瘦到35公斤",
+        "onboard_time": 1747828702,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 264911,
+        "num": 264911,
+        "word": "6旬快递员靠养老金环游中国",
+        "onboard_time": 1747829303,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1092642,
+        "num": 264846,
+        "word": "00后安全套消费是80后的5倍",
+        "onboard_time": 1747823364,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693722,
+        "num": 262534,
+        "word": "孙颖莎说别动我的餐盘",
+        "onboard_time": 1747829362,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385907,
+        "num": 261491,
+        "word": "马嘉祺歌手 一了百了",
+        "onboard_time": 1747831463,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378674,
+        "num": 260961,
+        "word": "折腰20集",
+        "onboard_time": 1747826903,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372895,
+        "num": 259218,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353522,
+        "num": 257763,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130806,
+        "num": 256535,
+        "word": "中方回应美国欲建金穹系统",
+        "onboard_time": 1747829543,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179525,
+        "num": 254915,
+        "word": "好玩好开的潮流座驾",
+        "onboard_time": 1747831463,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37466,
+        "num": 254839,
+        "word": "大学生坠亡化粪池系用草地毯掩盖",
+        "onboard_time": 1747830863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24330,
+        "num": 252813,
+        "word": "气血不足的人适合通过揉肚子改善吗",
+        "onboard_time": 1747830744,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 490747,
+        "num": 252065,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 315298,
+        "num": 250095,
+        "word": "刘诗诗今年2月转让股份给吴奇隆",
+        "onboard_time": 1747830683,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285863,
+        "num": 249292,
+        "word": "张艺兴521撕拉片",
+        "onboard_time": 1747825822,
+        "rank": 22,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 248645,
+        "num": 248645,
+        "word": "平津侯 下线",
+        "onboard_time": 1747816522,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192431,
+        "num": 223779,
+        "word": "一诺胶片照",
+        "onboard_time": 1747829362,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215831,
+        "num": 215831,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208698,
+        "num": 208698,
+        "word": "现在和朋友聊天已经不敢诉苦了",
+        "onboard_time": 1747830083,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190500,
+        "num": 190500,
+        "word": "刘宇宁直播",
+        "onboard_time": 1747831524,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15663,
+        "num": 189131,
+        "word": "共享充电薅走的钱够买多少充电宝",
+        "onboard_time": 1747831583,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44028,
+        "num": 188538,
+        "word": "终于知道马戏团表演为啥工资高了",
+        "onboard_time": 1747830624,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212117,
+        "num": 188475,
+        "word": "鬼鬼晒女儿",
+        "onboard_time": 1747831644,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188399,
+        "num": 188399,
+        "word": "韶华若锦",
+        "onboard_time": 1747830624,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172660,
+        "num": 172660,
+        "word": "王楚钦与莫雷加德同场训练",
+        "onboard_time": 1747826482,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54788,
+        "num": 166014,
+        "word": "原来韩庚于文文是分手清单鼻祖",
+        "onboard_time": 1747827922,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165704,
+        "num": 165704,
+        "word": "我是歌手洪辰我来揭榜",
+        "onboard_time": 1747822763,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165223,
+        "num": 165223,
+        "word": "汪顺200混冠军",
+        "onboard_time": 1747831766,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159333,
+        "num": 159333,
+        "word": "曝IU李钟硕没分手",
+        "onboard_time": 1747829842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157989,
+        "num": 157989,
+        "word": "12岁于子迪200米蝶泳夺冠",
+        "onboard_time": 1747830325,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129087,
+        "num": 157419,
+        "word": "英国博主称在广州找不到美食",
+        "onboard_time": 1747829002,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 157386,
+        "num": 157386,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155551,
+        "num": 155551,
+        "word": "中国第一胖手术切掉70%的胃",
+        "onboard_time": 1747828943,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "金价为何又再度飙涨",
+        "onboard_time": 1747831283,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144843,
+        "num": 144843,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143203,
+        "num": 143203,
+        "word": "养猫人的两副面孔",
+        "onboard_time": 1747831225,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140899,
+        "num": 140899,
+        "word": "兔子发声明道歉",
+        "onboard_time": 1747828403,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139678,
+        "num": 139678,
+        "word": "IG对战BLG",
+        "onboard_time": 1747830924,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135824,
+        "num": 135824,
+        "word": "赴山海剧方律所曾代理姜广涛案件",
+        "onboard_time": 1747831766,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 132295,
+        "word": "癌细胞最怕的食物清单",
+        "onboard_time": 1747822103,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "妇联回应男孩遭父亲家暴后坠楼",
+        "onboard_time": 1747828821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126714,
+        "num": 126714,
+        "word": "歌手第二期彩排路透",
+        "onboard_time": 1747828821,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中华文化瑰宝保护好传承好传播好#"
+    }
+  }
+}

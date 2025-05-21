@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747827491739,
+  "endTime": 1747831954287,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 780581,
+      "num": 1124893,
+      "word": "涉嫌在中药里加安眠药医院暂停营业",
+      "onboard_time": 1747827922,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756253,
       "num": 756253,
       "word": "我国新冠检测阳性率快速上升",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701727,
+      "num": 269759,
+      "word": "肖战洗澡戏",
+      "onboard_time": 1747828104,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697575,
       "num": 288609,
       "word": "藏海传台词太万能了",
@@ -339,12 +355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 693722,
+      "num": 262534,
+      "word": "孙颖莎说别动我的餐盘",
+      "onboard_time": 1747829362,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 674598,
       "num": 346604,
       "word": "在招聘软件找不到工作是正常的",
       "onboard_time": 1747784780,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 622248,
+      "num": 622248,
+      "word": "朱媛媛曾祝大家平平安安健健康康",
+      "onboard_time": 1747830624,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 622201,
@@ -409,6 +441,14 @@
       "onboard_time": 1747785082,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 543053,
+      "num": 268274,
+      "word": "小英因生病瘦到35公斤",
+      "onboard_time": 1747828702,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 537757,
@@ -489,6 +529,14 @@
       "onboard_time": 1747813822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 490747,
+      "num": 252065,
+      "word": "卵巢癌7成患者发现已是晚期",
+      "onboard_time": 1747826422,
+      "rank": 42,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 489344,
@@ -609,6 +657,22 @@
       "onboard_time": 1747800808,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 385907,
+      "num": 261491,
+      "word": "马嘉祺歌手 一了百了",
+      "onboard_time": 1747831463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378674,
+      "num": 260961,
+      "word": "折腰20集",
+      "onboard_time": 1747826903,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 358557,
@@ -755,6 +819,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315447,
+      "num": 315447,
+      "word": "张本美和4比3金琴英",
+      "onboard_time": 1747828223,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315298,
+      "num": 250095,
+      "word": "刘诗诗今年2月转让股份给吴奇隆",
+      "onboard_time": 1747830683,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310975,
       "num": 310975,
       "word": "世乒赛",
@@ -851,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282127,
-      "num": 240323,
-      "word": "卵巢癌7成患者发现已是晚期",
-      "onboard_time": 1747826422,
-      "rank": 42,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 282077,
       "num": 282077,
       "word": "淘宝奶茶免单卡",
@@ -937,6 +1009,14 @@
       "onboard_time": 1747820545,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264911,
+      "num": 264911,
+      "word": "6旬快递员靠养老金环游中国",
+      "onboard_time": 1747829303,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258444,
@@ -1179,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212117,
+      "num": 188475,
+      "word": "鬼鬼晒女儿",
+      "onboard_time": 1747831644,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212033,
       "num": 212033,
       "word": "海尔原来造过这么多离谱的洗衣机",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1747822763,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208698,
+      "num": 208698,
+      "word": "现在和朋友聊天已经不敢诉苦了",
+      "onboard_time": 1747830083,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 208669,
@@ -1267,14 +1363,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 197004,
-      "num": 197004,
-      "word": "折腰20集",
-      "onboard_time": 1747826903,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196033,
       "num": 147236,
       "word": "上厕所途中不要冲水的原因",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1747806743,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192431,
+      "num": 223779,
+      "word": "一诺胶片照",
+      "onboard_time": 1747829362,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 191956,
@@ -1371,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190500,
+      "num": 190500,
+      "word": "刘宇宁直播",
+      "onboard_time": 1747831524,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189553,
       "num": 189553,
       "word": "想当第一个买到华为折叠电脑的人",
@@ -1416,6 +1520,14 @@
       "word": "胡歌生命树首发人物海报",
       "onboard_time": 1747808661,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188399,
+      "num": 188399,
+      "word": "韶华若锦",
+      "onboard_time": 1747830624,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1553,6 +1665,14 @@
       "onboard_time": 1747798528,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179525,
+      "num": 254915,
+      "word": "好玩好开的潮流座驾",
+      "onboard_time": 1747831463,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 178414,
@@ -1731,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165223,
+      "num": 165223,
+      "word": "汪顺200混冠军",
+      "onboard_time": 1747831766,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165062,
       "num": 165062,
       "word": "张艺兴悬念海报毫无悬念",
@@ -1803,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159333,
+      "num": 159333,
+      "word": "曝IU李钟硕没分手",
+      "onboard_time": 1747829842,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158805,
       "num": 194320,
       "word": "女子被打还击先被认定互殴后改判无罪",
@@ -1819,11 +1955,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157989,
+      "num": 157989,
+      "word": "12岁于子迪200米蝶泳夺冠",
+      "onboard_time": 1747830325,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157815,
       "num": 318467,
       "word": "普通人能从Labubu爆火中学到什么",
       "onboard_time": 1747803867,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157386,
+      "num": 157386,
+      "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+      "onboard_time": 1747831164,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1859,6 +2011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155551,
+      "num": 155551,
+      "word": "中国第一胖手术切掉70%的胃",
+      "onboard_time": 1747828943,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154775,
       "num": 154775,
       "word": "金饰价再次涨破1000元",
@@ -1881,6 +2041,14 @@
       "onboard_time": 1747798470,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153658,
+      "num": 153658,
+      "word": "金价为何又再度飙涨",
+      "onboard_time": 1747831283,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 153115,
@@ -2051,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143203,
+      "num": 143203,
+      "word": "养猫人的两副面孔",
+      "onboard_time": 1747831225,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143084,
       "num": 143084,
       "word": "刘浩存生日12宫格",
@@ -2105,6 +2281,22 @@
       "onboard_time": 1747755922,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140899,
+      "num": 140899,
+      "word": "兔子发声明道歉",
+      "onboard_time": 1747828403,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 139678,
+      "num": 139678,
+      "word": "IG对战BLG",
+      "onboard_time": 1747830924,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 139470,
@@ -2195,6 +2387,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 135824,
+      "num": 135824,
+      "word": "赴山海剧方律所曾代理姜广涛案件",
+      "onboard_time": 1747831766,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135321,
       "num": 186600,
       "word": "藏海传太适合这个特效了",
@@ -2241,6 +2441,14 @@
       "onboard_time": 1747824263,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130806,
+      "num": 256535,
+      "word": "中方回应美国欲建金穹系统",
+      "onboard_time": 1747829543,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130285,
@@ -2291,12 +2499,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129087,
+      "num": 157419,
+      "word": "英国博主称在广州找不到美食",
+      "onboard_time": 1747829002,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 128960,
+      "num": 128960,
+      "word": "妇联回应男孩遭父亲家暴后坠楼",
+      "onboard_time": 1747828821,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "把书啃烂的三花",
       "onboard_time": 1747805484,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126714,
+      "num": 126714,
+      "word": "歌手第二期彩排路透",
+      "onboard_time": 1747828821,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 126702,
@@ -3115,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54788,
+      "num": 166014,
+      "word": "原来韩庚于文文是分手清单鼻祖",
+      "onboard_time": 1747827922,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 54606,
       "num": 253100,
       "word": "把摸腿当笑料脱口秀低俗之风该刹",
@@ -3193,6 +3433,14 @@
       "onboard_time": 1747790550,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44028,
+      "num": 188538,
+      "word": "终于知道马戏团表演为啥工资高了",
+      "onboard_time": 1747830624,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43916,
@@ -3297,6 +3545,14 @@
       "onboard_time": 1747761377,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37466,
+      "num": 254839,
+      "word": "大学生坠亡化粪池系用草地毯掩盖",
+      "onboard_time": 1747830863,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36770,
@@ -3489,6 +3745,14 @@
       "onboard_time": 1747765036,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24330,
+      "num": 252813,
+      "word": "气血不足的人适合通过揉肚子改善吗",
+      "onboard_time": 1747830744,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24289,
@@ -3729,6 +3993,14 @@
       "onboard_time": 1747803688,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15663,
+      "num": 189131,
+      "word": "共享充电薅走的钱够买多少充电宝",
+      "onboard_time": 1747831583,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15035,
