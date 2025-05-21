@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747856200439,
+  "endTime": 1747859301177,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -209,6 +209,14 @@
       "onboard_time": 1747832725,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156596,
+      "num": 156596,
+      "word": "男子生殖器被切割机切断后成功接回",
+      "onboard_time": 1747857913,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150927,
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25097,
+      "num": 25097,
+      "word": "刘宇宁担心说东北话影响追剧观感",
+      "onboard_time": 1747859054,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24620,
       "num": 27000,
       "word": "五月天杭州演唱会",
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20692,
+      "num": 23947,
+      "word": "遭摩的司机性侵女孩家属称孩子已转学",
+      "onboard_time": 1747836264,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19182,
       "num": 24796,
       "word": "敦促美方尽早放弃全球反导系统",
@@ -547,12 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19168,
-      "num": 23947,
-      "word": "遭摩的司机性侵女孩家属称孩子已转学",
-      "onboard_time": 1747836264,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 18559,
+      "num": 18559,
+      "word": "大鱼海棠具象化了",
+      "onboard_time": 1747857913,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 17986,
@@ -563,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16989,
+      "num": 16989,
+      "word": "老板就老板 说什么主理人",
+      "onboard_time": 1747856415,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12642,
       "num": 23951,
       "word": "歼10总师说不往前走永远无法超越",
@@ -571,12 +603,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 11741,
+      "num": 27108,
+      "word": "全场为一名9岁盲童鼓掌",
+      "onboard_time": 1747857253,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11252,
       "num": 43358,
       "word": "9岁盲童户外弹琴有数百听众",
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10565,
+      "num": 16343,
+      "word": "清华教授谈学生用AI写作业",
+      "onboard_time": 1747857973,
+      "rank": 40,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
