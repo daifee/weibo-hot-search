@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747824345187,
+  "endTime": 1747826527741,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -80,6 +80,14 @@
       "word": "情侣520占用地铁卫生间1小时",
       "onboard_time": 1747812743,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1680387,
+      "num": 336234,
+      "word": "00后安全套消费是80后的5倍",
+      "onboard_time": 1747823364,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870285,
+      "num": 870285,
+      "word": "国乒双打三项都失去双保险",
+      "onboard_time": 1747821922,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 856616,
       "num": 329730,
       "word": "易烊千玺台湾到达",
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 517605,
-      "num": 336234,
-      "word": "00后安全套消费是80后的5倍",
-      "onboard_time": 1747823364,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502488,
       "num": 502488,
       "word": "小满",
@@ -472,14 +480,6 @@
       "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
       "onboard_time": 1747813822,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 489349,
-      "num": 489349,
-      "word": "国乒双打三项都失去双保险",
-      "onboard_time": 1747821922,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -545,6 +545,14 @@
       "onboard_time": 1747758142,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420108,
+      "num": 420108,
+      "word": "妇科肿瘤医生最心疼的场景",
+      "onboard_time": 1747821681,
+      "rank": 9,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 418844,
@@ -643,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349530,
+      "num": 300913,
+      "word": "我是歌手洪辰我来揭榜",
+      "onboard_time": 1747822763,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346848,
       "num": 286379,
       "word": "费曼把吴镇宇做成玩偶",
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327950,
+      "num": 327950,
+      "word": "张本美和vs金琴英",
+      "onboard_time": 1747825582,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327862,
       "num": 305253,
       "word": "美国公布新型核弹",
@@ -729,6 +753,14 @@
       "onboard_time": 1747818984,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299715,
+      "num": 299715,
+      "word": "折腰",
+      "onboard_time": 1747824383,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 297934,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282111,
+      "num": 323548,
+      "word": "NASA与中国月壤无缘",
+      "onboard_time": 1747822404,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282077,
       "num": 282077,
       "word": "淘宝奶茶免单卡",
@@ -873,14 +913,6 @@
       "onboard_time": 1747820545,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265190,
-      "num": 284777,
-      "word": "我是歌手洪辰我来揭榜",
-      "onboard_time": 1747822763,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 258444,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1747783100,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205474,
+      "num": 205474,
+      "word": "张艺兴521撕拉片",
+      "onboard_time": 1747825822,
+      "rank": 27,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 205384,
@@ -1403,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183397,
+      "num": 183397,
+      "word": "折腰只更了一集",
+      "onboard_time": 1747826062,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183323,
       "num": 183323,
       "word": "为啥小满之后没有大满",
@@ -1579,12 +1627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169184,
+      "num": 169184,
+      "word": "GEN十五连胜",
+      "onboard_time": 1747825822,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168321,
       "num": 211882,
       "word": "南大碎尸案亲属律师最新发声",
       "onboard_time": 1747803568,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168166,
+      "num": 168166,
+      "word": "学霸从幼儿园就能看出来",
+      "onboard_time": 1747825101,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 167286,
@@ -1601,6 +1665,14 @@
       "onboard_time": 1747803388,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166850,
+      "num": 166850,
+      "word": "惠英红 人家这么漂亮你说是沙溢",
+      "onboard_time": 1747825043,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 165062,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1747823723,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160806,
+      "num": 160806,
+      "word": "卵巢癌7成患者发现已是晚期",
+      "onboard_time": 1747826422,
+      "rank": 42,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 159743,
@@ -1699,14 +1779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157104,
-      "num": 341705,
-      "word": "妇科肿瘤医生最心疼的场景",
-      "onboard_time": 1747821681,
-      "rank": 9,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 156706,
       "num": 156706,
       "word": "狗狗不理解游戏但知道手机不能丢",
@@ -1747,6 +1819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154488,
+      "num": 154488,
+      "word": "王楚钦与莫雷加德同场训练",
+      "onboard_time": 1747826482,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154358,
       "num": 154358,
       "word": "人间好时节",
@@ -1771,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152918,
+      "num": 333903,
+      "word": "经纪人还原脱口秀女演员表演时被猥亵",
+      "onboard_time": 1747823305,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152895,
       "num": 152895,
       "word": "刘耀文多部电影亮相全国电影推介会",
@@ -1793,6 +1881,14 @@
       "onboard_time": 1747799489,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152348,
+      "num": 302709,
+      "word": "绵阳一村民在外务工家中老宅被拆",
+      "onboard_time": 1747824683,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152333,
@@ -2643,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77412,
-      "num": 333903,
-      "word": "经纪人还原脱口秀女演员表演时被猥亵",
-      "onboard_time": 1747823305,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77184,
       "num": 178461,
       "word": "梁王组合小满节气海报",
@@ -2859,6 +2947,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 59566,
+      "num": 155311,
+      "word": "脱口秀摸腿玩笑如何界定表演边界",
+      "onboard_time": 1747824443,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59298,
       "num": 245555,
       "word": "外卖平台回应四川外卖员无需健康证",
@@ -2875,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58967,
+      "num": 304613,
+      "word": "鞍山命案嫌犯潜逃22年靠打游戏为生",
+      "onboard_time": 1747825223,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58921,
       "num": 60525,
       "word": "于适登上戛纳红毯",
@@ -2883,12 +2987,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 58575,
+      "num": 313627,
+      "word": "巧克力一边涨价一边打折",
+      "onboard_time": 1747825162,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57948,
       "num": 57948,
       "word": "变成丧尸之前请脱掉你的旱冰鞋",
       "onboard_time": 1747766775,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56824,
+      "num": 168246,
+      "word": "被闺蜜送的鲜花整破防了",
+      "onboard_time": 1747825162,
+      "rank": 39,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 56800,
@@ -3139,12 +3259,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 35858,
+      "num": 308446,
+      "word": "微博网友年度瞩目影人",
+      "onboard_time": 1747822103,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34745,
       "num": 202247,
       "word": "大学的化粪池怎么会让人掉下去",
       "onboard_time": 1747818144,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34580,
+      "num": 201208,
+      "word": "宣称自己没买过米的日本高官辞职",
+      "onboard_time": 1747825942,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33568,
@@ -3355,6 +3491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 21477,
+      "num": 157801,
+      "word": "充电太慢竟然是数据线的锅",
+      "onboard_time": 1747824624,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21436,
       "num": 22840,
       "word": "虞书欣allblack黑长直造型",
@@ -3427,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18939,
+      "num": 306748,
+      "word": "贵阳8小时闪电10000多次是什么概念",
+      "onboard_time": 1747826182,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18496,
       "num": 269666,
       "word": "继承人什么情况需偿还被继承人债务",
@@ -3467,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17033,
+      "num": 185644,
+      "word": "复旦多语种校歌背后有哪些细节",
+      "onboard_time": 1747825282,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16917,
       "num": 26772,
       "word": "iQOO新品价格",
@@ -3505,6 +3665,14 @@
       "onboard_time": 1747812083,
       "rank": 26,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 14855,
+      "num": 197787,
+      "word": "印智能手机超石油居出口榜首",
+      "onboard_time": 1747825702,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14544,
