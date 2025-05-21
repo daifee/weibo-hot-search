@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747863535746,
+  "endTime": 1747866311785,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -10929,6 +10929,14 @@
       "onboard_time": 1747813822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494295,
+      "num": 494295,
+      "word": "男子生殖器被切割机切断后成功接回",
+      "onboard_time": 1747857913,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493307,
@@ -24705,14 +24713,6 @@
       "onboard_time": 1746599663,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220637,
-      "num": 220637,
-      "word": "男子生殖器被切割机切断后成功接回",
-      "onboard_time": 1747857913,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220561,
@@ -61651,6 +61651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92094,
+      "num": 39271,
+      "word": "林诗栋说混双输了很可惜",
+      "onboard_time": 1747864756,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92088,
       "num": 297439,
       "word": "美商家称美国顾客选择中国造",
@@ -62257,6 +62265,14 @@
       "onboard_time": 1747107142,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88539,
+      "num": 88539,
+      "word": "热刺1比0曼联",
+      "onboard_time": 1747864995,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 88506,
@@ -71235,6 +71251,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 43638,
+      "num": 43638,
+      "word": "我减肥毅力就蔡文静这样",
+      "onboard_time": 1747863734,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43579,
       "num": 529225,
       "word": "来天津感受河海津韵",
@@ -73683,6 +73707,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 34162,
+      "num": 34162,
+      "word": "林高远林诗栋3比0张禹珍赵大成",
+      "onboard_time": 1747850656,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34147,
       "num": 31054,
       "word": "妈宝女",
@@ -74291,6 +74323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 32064,
+      "num": 32064,
+      "word": "韦雪用男友手机给前夫打电话",
+      "onboard_time": 1747862534,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 32056,
       "num": 308178,
       "word": "中国最年轻珠峰女孩回顾登顶",
@@ -74379,14 +74419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 31829,
-      "num": 31829,
-      "word": "林高远林诗栋3比0张禹珍赵大成",
-      "onboard_time": 1747850656,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31826,
       "num": 188300,
       "word": "3D全景还原印巴冲突19天",
@@ -74464,6 +74496,14 @@
       "word": "青年人陈梦我命由我不由天",
       "onboard_time": 1746349283,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31478,
+      "num": 31478,
+      "word": "孙颖莎说混双挑战非常大",
+      "onboard_time": 1747860734,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -74945,6 +74985,14 @@
       "onboard_time": 1747582165,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29659,
+      "num": 30950,
+      "word": "歼10CE亮相国际航展引围观拍照",
+      "onboard_time": 1747863015,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29646,
@@ -75601,6 +75649,14 @@
       "onboard_time": 1747718241,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 27653,
+      "num": 30948,
+      "word": "大鱼海棠具象化了",
+      "onboard_time": 1747857913,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 27652,
@@ -76881,6 +76937,14 @@
       "onboard_time": 1747333275,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23836,
+      "num": 30932,
+      "word": "敦促美方尽早放弃全球反导系统",
+      "onboard_time": 1747851855,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23829,
@@ -78603,14 +78667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19182,
-      "num": 24796,
-      "word": "敦促美方尽早放弃全球反导系统",
-      "onboard_time": 1747851855,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19176,
       "num": 199692,
       "word": "AI换脸能否挽回赴山海的播出命运",
@@ -78763,14 +78819,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 18749,
-      "num": 20198,
-      "word": "孙颖莎说混双挑战非常大",
-      "onboard_time": 1747860734,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18704,
       "num": 251002,
       "word": "诈骗快递为何有精准的个人信息和地址",
@@ -78825,14 +78873,6 @@
       "onboard_time": 1747143082,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 18559,
-      "num": 20209,
-      "word": "大鱼海棠具象化了",
-      "onboard_time": 1747857913,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 18548,
@@ -79129,14 +79169,6 @@
       "onboard_time": 1746832939,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17844,
-      "num": 20175,
-      "word": "韦雪用男友手机给前夫打电话",
-      "onboard_time": 1747862534,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 17843,
@@ -80497,14 +80529,6 @@
       "onboard_time": 1746418943,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14271,
-      "num": 17735,
-      "word": "歼10CE亮相国际航展引围观拍照",
-      "onboard_time": 1747863015,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14267,

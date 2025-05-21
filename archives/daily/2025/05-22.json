@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747863535746,
+  "endTime": 1747866311785,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -33,6 +33,14 @@
       "onboard_time": 1747835304,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494295,
+      "num": 494295,
+      "word": "男子生殖器被切割机切断后成功接回",
+      "onboard_time": 1747857913,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 478452,
@@ -153,14 +161,6 @@
       "onboard_time": 1747838245,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220637,
-      "num": 220637,
-      "word": "男子生殖器被切割机切断后成功接回",
-      "onboard_time": 1747857913,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206042,
@@ -355,6 +355,22 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 92094,
+      "num": 39271,
+      "word": "林诗栋说混双输了很可惜",
+      "onboard_time": 1747864756,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88539,
+      "num": 88539,
+      "word": "热刺1比0曼联",
+      "onboard_time": 1747864995,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85965,
       "num": 87545,
       "word": "肖战肌肉太绝了",
@@ -443,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43638,
+      "num": 43638,
+      "word": "我减肥毅力就蔡文静这样",
+      "onboard_time": 1747863734,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39766,
+      "num": 39766,
+      "word": "遭摩的司机性侵女孩家属称孩子已转学",
+      "onboard_time": 1747836264,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38951,
       "num": 41584,
       "word": "于正回应请单依纯唱歌事件",
       "onboard_time": 1747848557,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38255,
+      "num": 38255,
+      "word": "警方回应围棋少年离世",
+      "onboard_time": 1747837525,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36022,
@@ -459,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34162,
+      "num": 34162,
+      "word": "林高远林诗栋3比0张禹珍赵大成",
+      "onboard_time": 1747850656,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33863,
       "num": 47702,
       "word": "潘展乐100米自夺冠",
@@ -467,20 +515,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32170,
-      "num": 32170,
-      "word": "警方回应围棋少年离世",
-      "onboard_time": 1747837525,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 32064,
+      "num": 32064,
+      "word": "韦雪用男友手机给前夫打电话",
+      "onboard_time": 1747862534,
+      "rank": 46,
+      "category": "网红"
     },
     {
-      "raw_hot": 31829,
-      "num": 31829,
-      "word": "林高远林诗栋3比0张禹珍赵大成",
-      "onboard_time": 1747850656,
-      "rank": 31,
+      "raw_hot": 31478,
+      "num": 31478,
+      "word": "孙颖莎说混双挑战非常大",
+      "onboard_time": 1747860734,
+      "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29659,
+      "num": 30950,
+      "word": "歼10CE亮相国际航展引围观拍照",
+      "onboard_time": 1747863015,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28027,
@@ -489,6 +545,14 @@
       "onboard_time": 1747833503,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27653,
+      "num": 30948,
+      "word": "大鱼海棠具象化了",
+      "onboard_time": 1747857913,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 25097,
@@ -513,6 +577,14 @@
       "onboard_time": 1747852935,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23836,
+      "num": 30932,
+      "word": "敦促美方尽早放弃全球反导系统",
+      "onboard_time": 1747851855,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23073,
@@ -555,52 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20985,
-      "num": 23947,
-      "word": "遭摩的司机性侵女孩家属称孩子已转学",
-      "onboard_time": 1747836264,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19182,
-      "num": 24796,
-      "word": "敦促美方尽早放弃全球反导系统",
-      "onboard_time": 1747851855,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18749,
-      "num": 20198,
-      "word": "孙颖莎说混双挑战非常大",
-      "onboard_time": 1747860734,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18559,
-      "num": 20209,
-      "word": "大鱼海棠具象化了",
-      "onboard_time": 1747857913,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17986,
       "num": 23947,
       "word": "易烊千玺亮相两岸电影展",
       "onboard_time": 1747851016,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17844,
-      "num": 20175,
-      "word": "韦雪用男友手机给前夫打电话",
-      "onboard_time": 1747862534,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 17481,
@@ -617,14 +649,6 @@
       "onboard_time": 1747857253,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14271,
-      "num": 17735,
-      "word": "歼10CE亮相国际航展引围观拍照",
-      "onboard_time": 1747863015,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 13406,
