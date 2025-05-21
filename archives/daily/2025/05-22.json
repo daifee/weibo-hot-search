@@ -1,10 +1,10 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747845179285,
+  "endTime": 1747846151056,
   "band_list": [
     {
-      "raw_hot": 2981327,
-      "num": 2981327,
+      "raw_hot": 3092047,
+      "num": 3092047,
       "word": "黄杨钿甜耳环事件最新进展",
       "onboard_time": 1747842623,
       "rank": 0,
@@ -33,6 +33,14 @@
       "onboard_time": 1747835304,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445926,
+      "num": 445926,
+      "word": "林高远林诗栋vs张禹珍赵大成",
+      "onboard_time": 1747842563,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 425968,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 295614,
-      "num": 295614,
-      "word": "林高远林诗栋vs张禹珍赵大成",
-      "onboard_time": 1747842563,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 286994,
       "num": 286994,
       "word": "韩安冉女儿要做手术",
@@ -107,19 +107,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241464,
+      "num": 232388,
+      "word": "刘宇宁回应折腰结局有人死吗",
+      "onboard_time": 1747844121,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238800,
       "num": 238800,
       "word": "谢谢郑晓龙导演",
       "onboard_time": 1747836746,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232388,
-      "num": 232388,
-      "word": "刘宇宁回应折腰结局有人死吗",
-      "onboard_time": 1747844121,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172461,
+      "num": 172461,
+      "word": "脱口秀冒犯的艺术不是咸猪手的借口",
+      "onboard_time": 1747843223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171247,
       "num": 171247,
       "word": "卵巢癌7成患者发现已是晚期",
@@ -187,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162828,
+      "num": 162828,
+      "word": "王曼昱VS韩莹",
+      "onboard_time": 1747842623,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158333,
+      "num": 158333,
+      "word": "袁爷爷吴爷爷离开4年了",
+      "onboard_time": 1747845680,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150927,
       "num": 150927,
       "word": "巴基斯坦警告印度我们不是巴勒斯坦",
@@ -195,16 +219,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136826,
-      "num": 136826,
+      "raw_hot": 142535,
+      "num": 142535,
       "word": "孙颖莎谈混双对阵日本组合",
       "onboard_time": 1747843282,
       "rank": 26,
       "category": "体育"
     },
     {
-      "raw_hot": 135166,
-      "num": 135166,
+      "raw_hot": 137438,
+      "num": 137438,
       "word": "新兰世纪婚礼",
       "onboard_time": 1747841124,
       "rank": 27,
@@ -275,20 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112067,
-      "num": 112067,
-      "word": "王曼昱VS韩莹",
-      "onboard_time": 1747842623,
-      "rank": 37,
+      "raw_hot": 112596,
+      "num": 112596,
+      "word": "林高远林诗栋VS张禹珍赵大成",
+      "onboard_time": 1747842682,
+      "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111971,
-      "num": 124976,
-      "word": "脱口秀冒犯的艺术不是咸猪手的借口",
-      "onboard_time": 1747843223,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106174,
@@ -331,16 +347,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 87518,
-      "num": 87518,
-      "word": "林高远林诗栋VS张禹珍赵大成",
-      "onboard_time": 1747842682,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85965,
-      "num": 85965,
+      "num": 87545,
       "word": "肖战肌肉太绝了",
       "onboard_time": 1747839205,
       "rank": 44,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 85220,
-      "num": 85220,
+      "num": 87559,
       "word": "欧豪一开口梦回快男",
       "onboard_time": 1747844600,
       "rank": 45,
@@ -363,8 +371,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79802,
-      "num": 85182,
+      "raw_hot": 80034,
+      "num": 87581,
       "word": "孙颖莎下一轮迎战韩国选手申裕斌",
       "onboard_time": 1747841663,
       "rank": 47,
@@ -380,10 +388,18 @@
     },
     {
       "raw_hot": 73562,
-      "num": 85142,
+      "num": 87525,
       "word": "解说称孙颖莎把对手线路全封死了",
       "onboard_time": 1747841604,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66035,
+      "num": 87529,
+      "word": "孙颖莎球好凶好帅",
+      "onboard_time": 1747845979,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -395,8 +411,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36022,
+      "num": 260544,
+      "word": "以高质量发展的确定性应对各种不确定性",
+      "onboard_time": 1747845319,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28027,
-      "num": 413337,
+      "num": 501396,
       "word": "民营经济促进法施行释放三大信号",
       "onboard_time": 1747833503,
       "rank": 2,

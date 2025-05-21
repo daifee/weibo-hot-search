@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747845179285,
+  "endTime": 1747846151056,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3092047,
+      "num": 3092047,
+      "word": "黄杨钿甜耳环事件最新进展",
+      "onboard_time": 1747842623,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3077461,
       "num": 3077461,
       "word": "藏海传",
       "onboard_time": 1747485623,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2981327,
-      "num": 2981327,
-      "word": "黄杨钿甜耳环事件最新进展",
-      "onboard_time": 1747842623,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2955371,
@@ -2603,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445926,
+      "num": 445926,
+      "word": "林高远林诗栋vs张禹珍赵大成",
+      "onboard_time": 1747696398,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445177,
       "num": 216320,
       "word": "安静公主自曝术后肚子大到像怀孕",
@@ -3779,14 +3787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295614,
-      "num": 295614,
-      "word": "林高远林诗栋vs张禹珍赵大成",
-      "onboard_time": 1747696398,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294142,
       "num": 294142,
       "word": "小满才是最好的人生状态",
@@ -4611,6 +4611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241464,
+      "num": 232388,
+      "word": "刘宇宁回应折腰结局有人死吗",
+      "onboard_time": 1747844121,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241280,
       "num": 251679,
       "word": "官方通报中药里被指检出西药成分",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1747570281,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232388,
-      "num": 232388,
-      "word": "刘宇宁回应折腰结局有人死吗",
-      "onboard_time": 1747844121,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 232094,
@@ -7875,6 +7875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172461,
+      "num": 172461,
+      "word": "脱口秀冒犯的艺术不是咸猪手的借口",
+      "onboard_time": 1747843223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172337,
       "num": 172337,
       "word": "射雕英雄传密钥第四次延期",
@@ -8427,6 +8435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162828,
+      "num": 162828,
+      "word": "王曼昱VS韩莹",
+      "onboard_time": 1747842623,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162577,
       "num": 162577,
       "word": "做事主要靠临时起意和死到临头",
@@ -8737,6 +8753,14 @@
       "onboard_time": 1747642404,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158333,
+      "num": 158333,
+      "word": "袁爷爷吴爷爷离开4年了",
+      "onboard_time": 1747845680,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158280,
@@ -9795,6 +9819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142535,
+      "num": 142535,
+      "word": "孙颖莎谈混双对阵日本组合",
+      "onboard_time": 1747843282,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142478,
       "num": 142478,
       "word": "奇洛李维斯回信清明谷雨",
@@ -10187,6 +10219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137438,
+      "num": 137438,
+      "word": "新兰世纪婚礼",
+      "onboard_time": 1747841124,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "桃花坞",
@@ -10265,14 +10305,6 @@
       "onboard_time": 1747812083,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136826,
-      "num": 136826,
-      "word": "孙颖莎谈混双对阵日本组合",
-      "onboard_time": 1747843282,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 136794,
@@ -10433,14 +10465,6 @@
       "onboard_time": 1747528348,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135166,
-      "num": 135166,
-      "word": "新兰世纪婚礼",
-      "onboard_time": 1747841124,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 135102,
@@ -11747,6 +11771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112596,
+      "num": 112596,
+      "word": "林高远林诗栋VS张禹珍赵大成",
+      "onboard_time": 1747842682,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112525,
       "num": 112525,
       "word": "520礼物",
@@ -11787,28 +11819,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112067,
-      "num": 112067,
-      "word": "王曼昱VS韩莹",
-      "onboard_time": 1747842623,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112044,
       "num": 112044,
       "word": "林志玲 岁月偏爱的美",
       "onboard_time": 1747636224,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111971,
-      "num": 124976,
-      "word": "脱口秀冒犯的艺术不是咸猪手的借口",
-      "onboard_time": 1747843223,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111329,
@@ -12899,14 +12915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87518,
-      "num": 87518,
-      "word": "林高远林诗栋VS张禹珍赵大成",
-      "onboard_time": 1747842682,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87378,
       "num": 205514,
       "word": "陈幸同vs考夫蔓",
@@ -13052,7 +13060,7 @@
     },
     {
       "raw_hot": 85220,
-      "num": 85220,
+      "num": 87559,
       "word": "欧豪一开口梦回快男",
       "onboard_time": 1747844600,
       "rank": 45,
@@ -13275,20 +13283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80034,
+      "num": 217628,
+      "word": "孙颖莎下一轮迎战韩国选手申裕斌",
+      "onboard_time": 1747841663,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79823,
       "num": 88415,
       "word": "Bin 我们只要正常放开去打就能赢",
       "onboard_time": 1747757182,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79802,
-      "num": 217628,
-      "word": "孙颖莎下一轮迎战韩国选手申裕斌",
-      "onboard_time": 1747841663,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 79687,
@@ -13977,6 +13985,14 @@
       "onboard_time": 1747742363,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66035,
+      "num": 87529,
+      "word": "孙颖莎球好凶好帅",
+      "onboard_time": 1747845979,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 65749,
@@ -15489,6 +15505,14 @@
       "onboard_time": 1747805005,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36022,
+      "num": 260544,
+      "word": "以高质量发展的确定性应对各种不确定性",
+      "onboard_time": 1747845319,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36017,
