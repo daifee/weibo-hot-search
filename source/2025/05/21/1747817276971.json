@@ -1,0 +1,410 @@
+{
+  "runTime": 1747817276971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1411517,
+        "num": 1411517,
+        "word": "有种爱情叫辛柏青朱媛媛",
+        "onboard_time": 1747813644,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742164,
+        "num": 742164,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16717,
+        "num": 326315,
+        "word": "8组数据速览我国城市更新成效",
+        "onboard_time": 1747816763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966463,
+        "num": 320043,
+        "word": "韦一航想妈妈了",
+        "onboard_time": 1747815561,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306112,
+        "num": 306112,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266664,
+        "num": 266664,
+        "word": "情侣转账分手后被判按LPR返本息",
+        "onboard_time": 1747807884,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941299,
+        "num": 265076,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656655,
+        "num": 262477,
+        "word": "藏海传台词太万能了",
+        "onboard_time": 1747814122,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258444,
+        "num": 258444,
+        "word": "坚决反对欧方无理制裁中国企业",
+        "onboard_time": 1747814423,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254828,
+        "num": 254828,
+        "word": "好女人才是真正的不流通",
+        "onboard_time": 1747814723,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 909358,
+        "num": 254530,
+        "word": "哪吒2延长上映至6月30日",
+        "onboard_time": 1747814003,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 847660,
+        "num": 254436,
+        "word": "易烊千玺台湾到达",
+        "onboard_time": 1747814603,
+        "rank": 11,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 2140468,
+        "num": 254051,
+        "word": "9岁天才围棋少年跳楼",
+        "onboard_time": 1747813523,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798280,
+        "num": 253619,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54606,
+        "num": 253100,
+        "word": "把摸腿当笑料脱口秀低俗之风该刹",
+        "onboard_time": 1747816522,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 683827,
+        "num": 253086,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551161,
+        "num": 252629,
+        "word": "众星发文痛别朱媛媛",
+        "onboard_time": 1747807343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358557,
+        "num": 252172,
+        "word": "兰香如故 郑合惠子",
+        "onboard_time": 1747814423,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 251793,
+        "word": "用惯了拼多多对618囤货已无感",
+        "onboard_time": 1747815504,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77154,
+        "num": 251447,
+        "word": "能垂直起降的歼20技术处于什么水平",
+        "onboard_time": 1747816282,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329176,
+        "num": 251088,
+        "word": "平津侯 下线",
+        "onboard_time": 1747816522,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287889,
+        "num": 250692,
+        "word": "易烊千玺小网站更新文字",
+        "onboard_time": 1747812263,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250654,
+        "num": 250654,
+        "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
+        "onboard_time": 1747813822,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30330,
+        "num": 233719,
+        "word": "校医是世界上最神奇的职业",
+        "onboard_time": 1747806383,
+        "rank": 23,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 41980,
+        "num": 232852,
+        "word": "同行者回忆男生坠化粪池瞬间",
+        "onboard_time": 1747817002,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232775,
+        "num": 232775,
+        "word": "黄觉 把你们都交出去算了",
+        "onboard_time": 1747816344,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199254,
+        "num": 199254,
+        "word": "把摸大腿当梗但你不能真耍流氓",
+        "onboard_time": 1747814481,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 194073,
+        "word": "全员加速中首发阵容",
+        "onboard_time": 1747816403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41232,
+        "num": 192341,
+        "word": "F35战机险些击落能否成为停火原因",
+        "onboard_time": 1747817184,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64992,
+        "num": 191232,
+        "word": "上海RNGM挂牌公告",
+        "onboard_time": 1747816163,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191162,
+        "num": 191162,
+        "word": "云合",
+        "onboard_time": 1747816042,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185040,
+        "num": 185040,
+        "word": "甄嬛传哪天下架了你负责重拍",
+        "onboard_time": 1747803027,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9289,
+        "num": 174923,
+        "word": "北斗系统是如何推动国际科技合作的",
+        "onboard_time": 1747815383,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168771,
+        "num": 168771,
+        "word": "想当第一个买到华为折叠电脑的人",
+        "onboard_time": 1747816042,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168146,
+        "num": 168146,
+        "word": "张馨予说家里水果的甜才是真的甜",
+        "onboard_time": 1747812982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167755,
+        "num": 167755,
+        "word": "被模仿吃饭的韩国霸总回应中国网友",
+        "onboard_time": 1747806804,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154980,
+        "num": 154980,
+        "word": "网传赴山海明天空降",
+        "onboard_time": 1747809744,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27537,
+        "num": 153328,
+        "word": "沈星回初夏游园与你",
+        "onboard_time": 1747817123,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27213,
+        "num": 152688,
+        "word": "摸腿梗将性骚扰娱乐化",
+        "onboard_time": 1747816583,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19215,
+        "num": 152404,
+        "word": "和平时期离死亡最近的人",
+        "onboard_time": 1747816583,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "美国企图全球禁用中国先进计算芯片",
+        "onboard_time": 1747799489,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 150140,
+        "word": "宁静朱丹蔡文静李嘉琦四代浪姐同框",
+        "onboard_time": 1747815803,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149758,
+        "num": 149758,
+        "word": "距外军机10米我飞行员丝毫不退",
+        "onboard_time": 1747812203,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 144675,
+        "num": 144675,
+        "word": "辛柏青发博的时间",
+        "onboard_time": 1747817184,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139127,
+        "num": 139127,
+        "word": "B站这次腰杆硬了",
+        "onboard_time": 1747813644,
+        "rank": 44,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 137048,
+        "num": 137048,
+        "word": "淘宝奶茶免单卡",
+        "onboard_time": 1747808843,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134867,
+        "num": 134867,
+        "word": "吴艳妮收到了巴奥国际健将证",
+        "onboard_time": 1747815202,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141931,
+        "num": 133138,
+        "word": "今年521红线是易烊千玺牵的",
+        "onboard_time": 1747811182,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131070,
+        "num": 131070,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129450,
+        "num": 129450,
+        "word": "别人说他帅他说自己歪瓜裂枣",
+        "onboard_time": 1747817243,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持自立自强掌握关键核心技术#"
+    }
+  }
+}

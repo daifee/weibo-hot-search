@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747816444509,
+  "endTime": 1747817276971,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -35,6 +35,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 2140468,
+      "num": 254051,
+      "word": "9岁天才围棋少年跳楼",
+      "onboard_time": 1747813523,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2069331,
       "num": 355266,
       "word": "谁有林则徐微信 我不想闻二手烟了",
@@ -64,14 +72,6 @@
       "word": "情侣520占用地铁卫生间1小时",
       "onboard_time": 1747812743,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1701218,
-      "num": 204201,
-      "word": "9岁天才围棋少年跳楼",
-      "onboard_time": 1747813523,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1747809022,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 966463,
+      "num": 320043,
+      "word": "韦一航想妈妈了",
+      "onboard_time": 1747815561,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 957226,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 697575,
-      "num": 203677,
+      "num": 262477,
       "word": "藏海传台词太万能了",
       "onboard_time": 1747814122,
       "rank": 11,
@@ -387,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 487457,
-      "num": 201979,
-      "word": "韦一航想妈妈了",
-      "onboard_time": 1747815561,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 483683,
       "num": 483683,
       "word": "林高远无缘世乒赛16强",
@@ -491,6 +491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 358557,
+      "num": 252172,
+      "word": "兰香如故 郑合惠子",
+      "onboard_time": 1747814423,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357522,
       "num": 357522,
       "word": "雅安城管回应黄杨家开公司是否报备",
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329176,
+      "num": 251088,
+      "word": "平津侯 下线",
+      "onboard_time": 1747816522,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327862,
       "num": 305253,
       "word": "美国公布新型核弹",
@@ -592,14 +608,6 @@
       "word": "藏海传收视率",
       "onboard_time": 1747746862,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 298419,
-      "num": 198515,
-      "word": "兰香如故 郑合惠子",
-      "onboard_time": 1747814423,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -715,6 +723,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258444,
+      "num": 258444,
+      "word": "坚决反对欧方无理制裁中国企业",
+      "onboard_time": 1747814423,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 254828,
+      "num": 254828,
+      "word": "好女人才是真正的不流通",
+      "onboard_time": 1747814723,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 250654,
+      "num": 250654,
+      "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
+      "onboard_time": 1747813822,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250244,
       "num": 250244,
       "word": "肖战回应藏海拿下首杀",
@@ -755,20 +787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232775,
+      "num": 232775,
+      "word": "黄觉 把你们都交出去算了",
+      "onboard_time": 1747816344,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232338,
       "num": 208000,
       "word": "披荆斩棘的哥哥",
       "onboard_time": 1747752984,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231456,
-      "num": 231456,
-      "word": "坚决反对欧方无理制裁中国企业",
-      "onboard_time": 1747814423,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 231449,
@@ -891,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204511,
-      "num": 204511,
-      "word": "好女人才是真正的不流通",
-      "onboard_time": 1747814723,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201507,
       "num": 214837,
       "word": "藏海 幻视好凉",
@@ -913,6 +937,14 @@
       "onboard_time": 1747803987,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199254,
+      "num": 199254,
+      "word": "把摸大腿当梗但你不能真耍流氓",
+      "onboard_time": 1747814481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199197,
@@ -947,6 +979,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194073,
+      "num": 251793,
+      "word": "用惯了拼多多对618囤货已无感",
+      "onboard_time": 1747815504,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194073,
+      "num": 194073,
+      "word": "全员加速中首发阵容",
+      "onboard_time": 1747816403,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193328,
       "num": 193328,
       "word": "刘宇宁 嗑什么是观众的自由",
@@ -977,6 +1025,14 @@
       "onboard_time": 1747789171,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191162,
+      "num": 191162,
+      "word": "云合",
+      "onboard_time": 1747816042,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 190940,
@@ -1187,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171999,
-      "num": 171999,
-      "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
-      "onboard_time": 1747813822,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170456,
       "num": 170456,
       "word": "脾气好和情绪稳定是两个概念",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1747807343,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169993,
-      "num": 173630,
-      "word": "云合",
-      "onboard_time": 1747816042,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 169955,
@@ -1395,8 +1435,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152390,
+      "num": 152390,
+      "word": "美国企图全球禁用中国先进计算芯片",
+      "onboard_time": 1747799489,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152333,
-      "num": 152333,
+      "num": 233719,
       "word": "校医是世界上最神奇的职业",
       "onboard_time": 1747806383,
       "rank": 41,
@@ -1435,14 +1483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147937,
-      "num": 147937,
-      "word": "黄觉 把你们都交出去算了",
-      "onboard_time": 1747816344,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147773,
       "num": 157017,
       "word": "陈奕迅女儿将出道",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1747797022,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146954,
-      "num": 201622,
-      "word": "用惯了拼多多对618囤货已无感",
-      "onboard_time": 1747815504,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146819,
@@ -1488,6 +1520,14 @@
       "word": "迪丽热巴夏日美人鱼",
       "onboard_time": 1747809923,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144675,
+      "num": 144675,
+      "word": "辛柏青发博的时间",
+      "onboard_time": 1747817184,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1547,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141931,
+      "num": 354113,
+      "word": "今年521红线是易烊千玺牵的",
+      "onboard_time": 1747811182,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141090,
       "num": 141090,
       "word": "终于有人把英语体系讲清楚了",
@@ -1571,12 +1619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139127,
+      "num": 139127,
+      "word": "B站这次腰杆硬了",
+      "onboard_time": 1747813644,
+      "rank": 49,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 138001,
       "num": 243755,
       "word": "郑钦文世排第7",
       "onboard_time": 1747804347,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136873,
+      "num": 201036,
+      "word": "宁静朱丹蔡文静李嘉琦四代浪姐同框",
+      "onboard_time": 1747815803,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 136871,
@@ -1635,20 +1699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134867,
+      "num": 189876,
+      "word": "吴艳妮收到了巴奥国际健将证",
+      "onboard_time": 1747815202,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133050,
       "num": 133050,
       "word": "肖战战损剧照",
       "onboard_time": 1747809623,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131899,
-      "num": 131899,
-      "word": "全员加速中首发阵容",
-      "onboard_time": 1747816403,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 130285,
@@ -1683,6 +1747,14 @@
       "category": "读书作家,民生新闻"
     },
     {
+      "raw_hot": 129450,
+      "num": 129450,
+      "word": "别人说他帅他说自己歪瓜裂枣",
+      "onboard_time": 1747817243,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "把书啃烂的三花",
@@ -1715,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126290,
-      "num": 126290,
-      "word": "B站这次腰杆硬了",
-      "onboard_time": 1747813644,
-      "rank": 49,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 125274,
       "num": 124161,
       "word": "试飞部队共牺牲32名试飞员",
@@ -1739,36 +1803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123798,
-      "num": 172343,
-      "word": "把摸大腿当梗但你不能真耍流氓",
-      "onboard_time": 1747814481,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121885,
       "num": 121885,
       "word": "鹰眼",
       "onboard_time": 1747783580,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118918,
-      "num": 201036,
-      "word": "宁静朱丹蔡文静李嘉琦四代浪姐同框",
-      "onboard_time": 1747815803,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117680,
-      "num": 354113,
-      "word": "今年521红线是易烊千玺牵的",
-      "onboard_time": 1747811182,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116820,
@@ -2195,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77154,
+      "num": 251447,
+      "word": "能垂直起降的歼20技术处于什么水平",
+      "onboard_time": 1747816282,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76972,
       "num": 351464,
       "word": "摆摊卖蜜雪冰城柠檬水是否侵权",
@@ -2259,14 +2307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 69897,
-      "num": 177558,
-      "word": "能垂直起降的歼20技术处于什么水平",
-      "onboard_time": 1747816282,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69116,
       "num": 286851,
       "word": "第五瓜格",
@@ -2321,14 +2361,6 @@
       "onboard_time": 1747811423,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64337,
-      "num": 189876,
-      "word": "吴艳妮收到了巴奥国际健将证",
-      "onboard_time": 1747815202,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 63019,
@@ -2425,6 +2457,14 @@
       "onboard_time": 1747808063,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54606,
+      "num": 253100,
+      "word": "把摸腿当笑料脱口秀低俗之风该刹",
+      "onboard_time": 1747816522,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53746,
@@ -2531,12 +2571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41980,
+      "num": 232852,
+      "word": "同行者回忆男生坠化粪池瞬间",
+      "onboard_time": 1747817002,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41291,
       "num": 177567,
       "word": "LV为什么被高仿告上法庭",
       "onboard_time": 1747805124,
       "rank": 39,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 41232,
+      "num": 192341,
+      "word": "F35战机险些击落能否成为停火原因",
+      "onboard_time": 1747817184,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40611,
@@ -2641,6 +2697,22 @@
       "onboard_time": 1747759160,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27537,
+      "num": 153328,
+      "word": "沈星回初夏游园与你",
+      "onboard_time": 1747817123,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 27213,
+      "num": 152688,
+      "word": "摸腿梗将性骚扰娱乐化",
+      "onboard_time": 1747816583,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26730,
@@ -2779,6 +2851,14 @@
       "category": "议题讨论,民生新闻"
     },
     {
+      "raw_hot": 19215,
+      "num": 152404,
+      "word": "和平时期离死亡最近的人",
+      "onboard_time": 1747816583,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 19195,
       "num": 674272,
       "word": "高质量发展看天津",
@@ -2833,6 +2913,14 @@
       "onboard_time": 1747746923,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16717,
+      "num": 326315,
+      "word": "8组数据速览我国城市更新成效",
+      "onboard_time": 1747816763,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16672,
@@ -2927,6 +3015,9 @@
     },
     {
       "word": "#中国式现代化要继续把制造业搞好#"
+    },
+    {
+      "word": "#坚持自立自强掌握关键核心技术#"
     }
   ]
 }
