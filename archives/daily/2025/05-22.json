@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747855268504,
+  "endTime": 1747856200439,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -539,7 +539,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18852,
+      "raw_hot": 19182,
+      "num": 24796,
+      "word": "敦促美方尽早放弃全球反导系统",
+      "onboard_time": 1747851855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19168,
       "num": 23947,
       "word": "遭摩的司机性侵女孩家属称孩子已转学",
       "onboard_time": 1747836264,
@@ -555,20 +563,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16574,
-      "num": 24796,
-      "word": "敦促美方尽早放弃全球反导系统",
-      "onboard_time": 1747851855,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12642,
       "num": 23951,
       "word": "歼10总师说不往前走永远无法超越",
       "onboard_time": 1747855093,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 11252,
+      "num": 43358,
+      "word": "9岁盲童户外弹琴有数百听众",
+      "onboard_time": 1747855574,
+      "rank": 9,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [

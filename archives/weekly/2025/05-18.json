@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747855268504,
+  "endTime": 1747856200439,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -16939,6 +16939,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 19182,
+      "num": 24796,
+      "word": "敦促美方尽早放弃全球反导系统",
+      "onboard_time": 1747851855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19173,
       "num": 20155,
       "word": "外交部回应世卫大会拒绝涉台提案",
@@ -17233,14 +17241,6 @@
       "onboard_time": 1747504097,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16574,
-      "num": 24796,
-      "word": "敦促美方尽早放弃全球反导系统",
-      "onboard_time": 1747851855,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16546,
@@ -17761,6 +17761,14 @@
       "onboard_time": 1747832484,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11252,
+      "num": 43358,
+      "word": "9岁盲童户外弹琴有数百听众",
+      "onboard_time": 1747855574,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 11240,
