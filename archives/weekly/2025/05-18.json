@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747813181199,
+  "endTime": 1747816444509,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -243,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1717185,
+      "num": 255626,
+      "word": "情侣520占用地铁卫生间1小时",
+      "onboard_time": 1747812743,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1710092,
       "num": 1710092,
       "word": "拒绝接待中国人的日本餐厅已歇业",
       "onboard_time": 1747541670,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1701218,
+      "num": 204201,
+      "word": "9岁天才围棋少年跳楼",
+      "onboard_time": 1747813523,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1684962,
@@ -304,6 +320,14 @@
       "word": "媒体评黄杨钿甜不必陷入自证怪圈",
       "onboard_time": 1747736721,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1621971,
+      "num": 1621971,
+      "word": "有种爱情叫辛柏青朱媛媛",
+      "onboard_time": 1747813644,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -819,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 957226,
+      "num": 400176,
+      "word": "哪吒2延长上映至6月30日",
+      "onboard_time": 1747814003,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 951389,
       "num": 315403,
       "word": "赵磊站姐被拦在婚礼门外",
@@ -945,6 +977,14 @@
       "onboard_time": 1747644205,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 856616,
+      "num": 270811,
+      "word": "易烊千玺台湾到达",
+      "onboard_time": 1747814603,
+      "rank": 6,
+      "category": "艺人,演出"
     },
     {
       "raw_hot": 847250,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1747676296,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697575,
+      "num": 203677,
+      "word": "藏海传台词太万能了",
+      "onboard_time": 1747814122,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 692733,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1747562721,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 487457,
+      "num": 201979,
+      "word": "韦一航想妈妈了",
+      "onboard_time": 1747815561,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 483683,
@@ -3219,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298419,
+      "num": 198515,
+      "word": "兰香如故 郑合惠子",
+      "onboard_time": 1747814423,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297934,
       "num": 263067,
       "word": "刘亦菲第二场晚宴造型",
@@ -4139,6 +4203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 231456,
+      "num": 231456,
+      "word": "坚决反对欧方无理制裁中国企业",
+      "onboard_time": 1747814423,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 231449,
       "num": 245043,
       "word": "章子怡代言蒂芙尼",
@@ -5033,6 +5105,14 @@
       "onboard_time": 1747705769,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204511,
+      "num": 204511,
+      "word": "好女人才是真正的不流通",
+      "onboard_time": 1747814723,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 204483,
@@ -5971,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189553,
+      "num": 189553,
+      "word": "想当第一个买到华为折叠电脑的人",
+      "onboard_time": 1747816042,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189469,
       "num": 189469,
       "word": "边伯贤solo回归",
@@ -6273,6 +6361,14 @@
       "onboard_time": 1747577664,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185212,
+      "num": 185212,
+      "word": "吴宣仪新歌一开口又恋上了",
+      "onboard_time": 1747815263,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 185204,
@@ -6843,11 +6939,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172337,
+      "num": 172337,
+      "word": "射雕英雄传密钥第四次延期",
+      "onboard_time": 1747815622,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172186,
       "num": 172186,
       "word": "肖指导赛后去找裁判了",
       "onboard_time": 1747669644,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171999,
+      "num": 171999,
+      "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
+      "onboard_time": 1747813822,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -7272,6 +7384,14 @@
       "word": "肖战快点退至我身前",
       "onboard_time": 1747638264,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163607,
+      "num": 172139,
+      "word": "兰香如故",
+      "onboard_time": 1747814963,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -8131,6 +8251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150278,
+      "num": 199249,
+      "word": "网曝河北一水利工程多年未用成摆设",
+      "onboard_time": 1747811842,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150041,
       "num": 150041,
       "word": "靳梦佳好薄一片",
@@ -8219,12 +8347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148030,
+      "num": 191902,
+      "word": "欧盟和英国对俄实施新一轮制裁",
+      "onboard_time": 1747815622,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148017,
       "num": 237244,
       "word": "两名中国大学生登富士山遇险",
       "onboard_time": 1747645344,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147937,
+      "num": 147937,
+      "word": "黄觉 把你们都交出去算了",
+      "onboard_time": 1747816344,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 147594,
@@ -8257,6 +8401,14 @@
       "onboard_time": 1747797022,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146954,
+      "num": 201622,
+      "word": "用惯了拼多多对618囤货已无感",
+      "onboard_time": 1747815504,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146819,
@@ -8401,6 +8553,14 @@
       "onboard_time": 1747754243,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143673,
+      "num": 194164,
+      "word": "Uzi请神请到了自己",
+      "onboard_time": 1747815383,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 143637,
@@ -9123,6 +9283,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 131899,
+      "num": 131899,
+      "word": "全员加速中首发阵容",
+      "onboard_time": 1747816403,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131858,
       "num": 512689,
       "word": "大学生化粪池遇难谁来担责",
@@ -9483,6 +9651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126290,
+      "num": 126290,
+      "word": "B站这次腰杆硬了",
+      "onboard_time": 1747813644,
+      "rank": 49,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 126282,
       "num": 126282,
       "word": "多方回应13岁女孩坠马身亡",
@@ -9577,6 +9753,14 @@
       "onboard_time": 1747532249,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123798,
+      "num": 172343,
+      "word": "把摸大腿当梗但你不能真耍流氓",
+      "onboard_time": 1747814481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123713,
@@ -9827,6 +10011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118918,
+      "num": 201036,
+      "word": "宁静朱丹蔡文静李嘉琦四代浪姐同框",
+      "onboard_time": 1747815803,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118587,
       "num": 118587,
       "word": "陈昊宇给陈丽君越剧送花篮",
@@ -9889,6 +10081,14 @@
       "onboard_time": 1747617092,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117680,
+      "num": 354113,
+      "word": "今年521红线是易烊千玺牵的",
+      "onboard_time": 1747811182,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117677,
@@ -11435,6 +11635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81763,
+      "num": 194541,
+      "word": "上海RNGM挂牌公告",
+      "onboard_time": 1747816163,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 81747,
       "num": 483450,
       "word": "全运会乒乓球10金产生日期敲定",
@@ -11979,6 +12187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69897,
+      "num": 177558,
+      "word": "能垂直起降的歼20技术处于什么水平",
+      "onboard_time": 1747816282,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69537,
       "num": 419630,
       "word": "提前还贷和投资黄金哪个更划算",
@@ -12243,6 +12459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64337,
+      "num": 189876,
+      "word": "吴艳妮收到了巴奥国际健将证",
+      "onboard_time": 1747815202,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63672,
       "num": 269297,
       "word": "内衣裤和鞋袜混洗会引发卫生问题吗",
@@ -12305,22 +12529,6 @@
       "onboard_time": 1747563143,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61789,
-      "num": 354113,
-      "word": "今年521红线是易烊千玺牵的",
-      "onboard_time": 1747811182,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61772,
-      "num": 255626,
-      "word": "情侣520占用地铁卫生间1小时",
-      "onboard_time": 1747812743,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61663,
@@ -12417,6 +12625,14 @@
       "onboard_time": 1747500620,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59031,
+      "num": 200457,
+      "word": "九旬老太呛饭离世护工被指喂饭不当",
+      "onboard_time": 1747814963,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58921,
@@ -12657,6 +12873,14 @@
       "onboard_time": 1747523957,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53746,
+      "num": 193062,
+      "word": "黄金概念股再走强",
+      "onboard_time": 1747815443,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 53679,
@@ -14267,6 +14491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 22969,
+      "num": 172339,
+      "word": "中美物价差这么多",
+      "onboard_time": 1747815323,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22829,
       "num": 193305,
       "word": "张雪峰想让身边人都变得更好",
@@ -15425,6 +15657,14 @@
       "onboard_time": 1747660585,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9345,
+      "num": 200684,
+      "word": "北斗系统是如何推动国际科技合作的",
+      "onboard_time": 1747815383,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9281,
