@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747853355363,
+  "endTime": 1747855268504,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -491,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24459,
+      "num": 51818,
+      "word": "坠楼生还女子称老公一直在筹集医药费",
+      "onboard_time": 1747852935,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23073,
       "num": 26992,
       "word": "Faye戛纳电影节",
@@ -531,12 +539,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13001,
-      "num": 51818,
-      "word": "坠楼生还女子称老公一直在筹集医药费",
-      "onboard_time": 1747852935,
-      "rank": 14,
+      "raw_hot": 18852,
+      "num": 23947,
+      "word": "遭摩的司机性侵女孩家属称孩子已转学",
+      "onboard_time": 1747836264,
+      "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17986,
+      "num": 23947,
+      "word": "易烊千玺亮相两岸电影展",
+      "onboard_time": 1747851016,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 16574,
+      "num": 24796,
+      "word": "敦促美方尽早放弃全球反导系统",
+      "onboard_time": 1747851855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12642,
+      "num": 23951,
+      "word": "歼10总师说不往前走永远无法超越",
+      "onboard_time": 1747855093,
+      "rank": 31,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
