@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747832876242,
+  "endTime": 1747834609937,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1190575,
+      "num": 1190575,
+      "word": "马嘉祺歌手 一了百了",
+      "onboard_time": 1747831463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1179444,
       "num": 1179444,
       "word": "韦一航想妈妈了",
@@ -195,19 +203,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1170190,
-      "num": 1187230,
-      "word": "马嘉祺歌手 一了百了",
-      "onboard_time": 1747831463,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1147823,
       "num": 1183651,
       "word": "梁静给朱媛媛发的最后一条信息",
       "onboard_time": 1747823003,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1083482,
+      "num": 468396,
+      "word": "鬼鬼晒女儿",
+      "onboard_time": 1747831644,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -299,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 836934,
+      "num": 393882,
+      "word": "肖战升没升咖不知道 我升了",
+      "onboard_time": 1747832725,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 826222,
+      "num": 287892,
+      "word": "李乃文换蜡烛头像",
+      "onboard_time": 1747832844,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824350,
       "num": 293084,
       "word": "朱媛媛讲获奖感言尹露哭了",
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707257,
+      "num": 281660,
+      "word": "韩安冉女儿要做手术",
+      "onboard_time": 1747832003,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 701727,
       "num": 294828,
       "word": "肖战洗澡戏",
@@ -377,14 +409,6 @@
       "onboard_time": 1747784780,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 625087,
-      "num": 266812,
-      "word": "鬼鬼晒女儿",
-      "onboard_time": 1747831644,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 622248,
@@ -467,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 538495,
+      "num": 466289,
+      "word": "现在和朋友聊天已经不敢诉苦了",
+      "onboard_time": 1747830083,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 537757,
       "num": 537757,
       "word": "雷军说YU7有不可替代的魅力",
@@ -505,6 +537,14 @@
       "onboard_time": 1747797325,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516595,
+      "num": 516595,
+      "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+      "onboard_time": 1747831164,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502488,
@@ -683,6 +723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373536,
+      "num": 265321,
+      "word": "刘宇宁直播",
+      "onboard_time": 1747831524,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 360003,
+      "num": 198805,
+      "word": "歌手彩排",
+      "onboard_time": 1747834104,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358557,
       "num": 252172,
       "word": "兰香如故 郑合惠子",
@@ -819,12 +875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322519,
-      "num": 265321,
-      "word": "刘宇宁直播",
-      "onboard_time": 1747831524,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 324185,
+      "num": 324185,
+      "word": "赴山海剧方律所曾代理姜广涛案件",
+      "onboard_time": 1747831766,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322385,
@@ -923,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287327,
+      "num": 200105,
+      "word": "白举纲 我不可能给每个人解释",
+      "onboard_time": 1747833026,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287297,
       "num": 287297,
       "word": "刘宇宁你祖父要穿我",
@@ -945,14 +1009,6 @@
       "onboard_time": 1747820963,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283620,
-      "num": 262070,
-      "word": "韩安冉女儿要做手术",
-      "onboard_time": 1747832003,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 282442,
@@ -985,6 +1041,14 @@
       "onboard_time": 1747817544,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276586,
+      "num": 193914,
+      "word": "进去vip 出来svip",
+      "onboard_time": 1747832725,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 275748,
@@ -1051,36 +1115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256289,
-      "num": 262993,
-      "word": "现在和朋友聊天已经不敢诉苦了",
-      "onboard_time": 1747830083,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254828,
       "num": 254828,
       "word": "好女人才是真正的不流通",
       "onboard_time": 1747814723,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 251467,
-      "num": 251467,
-      "word": "肖战升没升咖不知道 我升了",
-      "onboard_time": 1747832725,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250620,
-      "num": 250620,
-      "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
-      "onboard_time": 1747831164,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250244,
@@ -1315,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210229,
+      "num": 192805,
+      "word": "阿云嘎 来帮我选选唱哪首",
+      "onboard_time": 1747833864,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210021,
       "num": 210021,
       "word": "代露娃这次终于拿了幸福剧本",
@@ -1347,14 +1395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205455,
-      "num": 205455,
-      "word": "赴山海剧方律所曾代理姜广涛案件",
-      "onboard_time": 1747831766,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205384,
       "num": 208509,
       "word": "2025微博电影之夜官宣",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1747811063,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201418,
+      "num": 201418,
+      "word": "马嘉祺歌手彩排两首歌",
+      "onboard_time": 1747832963,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 199750,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1747806743,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192741,
+      "num": 192741,
+      "word": "林志玲舒淇岁月不败美人",
+      "onboard_time": 1747833985,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 192431,
@@ -1579,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187846,
+      "num": 187846,
+      "word": "平津侯 难杀",
+      "onboard_time": 1747832124,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187615,
       "num": 187615,
       "word": "惠英红 人家这么漂亮你说是沙溢",
@@ -1651,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184182,
+      "num": 184182,
+      "word": "坠化粪池遇难男生在母亲节偷偷送包",
+      "onboard_time": 1747833744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184136,
       "num": 224564,
       "word": "曲靖装载机致人伤亡事件造成6死4伤",
@@ -1697,14 +1769,6 @@
       "onboard_time": 1747796602,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181192,
-      "num": 181192,
-      "word": "平津侯 难杀",
-      "onboard_time": 1747832124,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 180020,
@@ -1795,6 +1859,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 174877,
+      "num": 265002,
+      "word": "美卫生部长鼓动各国退出世卫",
+      "onboard_time": 1747832545,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174240,
       "num": 145429,
       "word": "媒体评黄杨钿甜不必陷入自证怪圈",
@@ -1809,6 +1881,14 @@
       "onboard_time": 1747831945,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173673,
+      "num": 197333,
+      "word": "伞兵521撕拉片",
+      "onboard_time": 1747833265,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 172874,
@@ -1913,6 +1993,14 @@
       "onboard_time": 1747803388,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166196,
+      "num": 198277,
+      "word": "汪顺200混晋级",
+      "onboard_time": 1747834465,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 165062,
@@ -2075,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155460,
+      "num": 155460,
+      "word": "金价为何又再度飙涨",
+      "onboard_time": 1747831283,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154775,
       "num": 154775,
       "word": "金饰价再次涨破1000元",
@@ -2091,28 +2187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153851,
-      "num": 153851,
-      "word": "进去vip 出来svip",
-      "onboard_time": 1747832725,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153779,
       "num": 264421,
       "word": "有labubu娃衣卖家可年入百万",
       "onboard_time": 1747798470,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153658,
-      "num": 153658,
-      "word": "金价为何又再度飙涨",
-      "onboard_time": 1747831283,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 153115,
@@ -2267,14 +2347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143691,
-      "num": 143691,
-      "word": "李乃文换蜡烛头像",
-      "onboard_time": 1747832844,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143673,
       "num": 194164,
       "word": "Uzi请神请到了自己",
@@ -2331,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142015,
+      "num": 142015,
+      "word": "兔子发声明道歉",
+      "onboard_time": 1747828403,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141975,
       "num": 141975,
       "word": "家有九凤",
@@ -2345,6 +2425,14 @@
       "onboard_time": 1747811182,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141145,
+      "num": 141145,
+      "word": "张康乐直播",
+      "onboard_time": 1747834045,
+      "rank": 48,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 141090,
@@ -2363,12 +2451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140899,
-      "num": 140899,
-      "word": "兔子发声明道歉",
-      "onboard_time": 1747828403,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 140145,
+      "num": 195856,
+      "word": "林昀儒晋级世乒赛16强",
+      "onboard_time": 1747833623,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 139470,
@@ -3019,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85255,
+      "num": 195514,
+      "word": "医生眼里无意识的变胖行为",
+      "onboard_time": 1747833203,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 83143,
       "num": 246745,
       "word": "海尔周云杰说要当网友最强嘴替",
@@ -3579,6 +3675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42218,
+      "num": 197923,
+      "word": "人在陷入低谷期的时候应该怎么做",
+      "onboard_time": 1747833384,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42114,
       "num": 60532,
       "word": "张宥浩撕坏了周也的撕拉片",
@@ -3611,6 +3715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40463,
+      "num": 263596,
+      "word": "隧道成王家卫风网红拍照点",
+      "onboard_time": 1747832604,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39765,
       "num": 285820,
       "word": "孩子不是给父母争面子的工具",
@@ -3625,6 +3737,14 @@
       "onboard_time": 1747825942,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38295,
+      "num": 182181,
+      "word": "韩国人贴小广告这么有良心吗",
+      "onboard_time": 1747827622,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 37715,
@@ -3705,14 +3825,6 @@
       "onboard_time": 1747812681,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 32723,
-      "num": 265002,
-      "word": "美卫生部长鼓动各国退出世卫",
-      "onboard_time": 1747832545,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32221,
@@ -3955,6 +4067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 20765,
+      "num": 200899,
+      "word": "有没有解决穿搭问题的公式",
+      "onboard_time": 1747834284,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 20130,
       "num": 22805,
       "word": "萧逸爱的默契",
@@ -4107,14 +4227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15966,
-      "num": 263596,
-      "word": "隧道成王家卫风网红拍照点",
-      "onboard_time": 1747832604,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15035,
       "num": 17795,
       "word": "于适亮相戛纳电影节红毯",
@@ -4237,6 +4349,9 @@
     },
     {
       "word": "#把中华文化瑰宝保护好传承好传播好#"
+    },
+    {
+      "word": "#跟着总书记看四大石窟#"
     }
   ]
 }

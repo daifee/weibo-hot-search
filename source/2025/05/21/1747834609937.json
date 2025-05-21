@@ -1,0 +1,410 @@
+{
+  "runTime": 1747834609937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1190575,
+        "num": 1190575,
+        "word": "马嘉祺歌手 一了百了",
+        "onboard_time": 1747831463,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516595,
+        "num": 516595,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2461,
+        "num": 471412,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1083482,
+        "num": 468396,
+        "word": "鬼鬼晒女儿",
+        "onboard_time": 1747831644,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538495,
+        "num": 466289,
+        "word": "现在和朋友聊天已经不敢诉苦了",
+        "onboard_time": 1747830083,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462939,
+        "num": 462939,
+        "word": "涉嫌在中药里加安眠药医院暂停营业",
+        "onboard_time": 1747827922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924629,
+        "num": 429501,
+        "word": "梁静给朱媛媛发的最后一条信息",
+        "onboard_time": 1747823003,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836934,
+        "num": 393882,
+        "word": "肖战升没升咖不知道 我升了",
+        "onboard_time": 1747832725,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324185,
+        "num": 324185,
+        "word": "赴山海剧方律所曾代理姜广涛案件",
+        "onboard_time": 1747831766,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301401,
+        "num": 301401,
+        "word": "国乒双打三项都失去双保险",
+        "onboard_time": 1747821922,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826222,
+        "num": 287892,
+        "word": "李乃文换蜡烛头像",
+        "onboard_time": 1747832844,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 707257,
+        "num": 281660,
+        "word": "韩安冉女儿要做手术",
+        "onboard_time": 1747832003,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 572205,
+        "num": 257861,
+        "word": "孙颖莎说别动我的餐盘",
+        "onboard_time": 1747829362,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491564,
+        "num": 229030,
+        "word": "肖战洗澡戏",
+        "onboard_time": 1747828104,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393670,
+        "num": 215366,
+        "word": "朱媛媛曾祝大家平平安安健健康康",
+        "onboard_time": 1747830624,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206251,
+        "num": 206251,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102899,
+        "num": 202840,
+        "word": "好玩好开的潮流座驾",
+        "onboard_time": 1747831463,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201823,
+        "num": 201823,
+        "word": "张本美和4比3金琴英",
+        "onboard_time": 1747828223,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201418,
+        "num": 201418,
+        "word": "马嘉祺歌手彩排两首歌",
+        "onboard_time": 1747832963,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20765,
+        "num": 200899,
+        "word": "有没有解决穿搭问题的公式",
+        "onboard_time": 1747834284,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 438230,
+        "num": 200571,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 287327,
+        "num": 200105,
+        "word": "白举纲 我不可能给每个人解释",
+        "onboard_time": 1747833026,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373536,
+        "num": 199131,
+        "word": "刘宇宁直播",
+        "onboard_time": 1747831524,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360003,
+        "num": 198805,
+        "word": "歌手彩排",
+        "onboard_time": 1747834104,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166196,
+        "num": 198277,
+        "word": "汪顺200混晋级",
+        "onboard_time": 1747834465,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42218,
+        "num": 197923,
+        "word": "人在陷入低谷期的时候应该怎么做",
+        "onboard_time": 1747833384,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173673,
+        "num": 197333,
+        "word": "伞兵521撕拉片",
+        "onboard_time": 1747833265,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331445,
+        "num": 196411,
+        "word": "小英因生病瘦到35公斤",
+        "onboard_time": 1747828702,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140145,
+        "num": 195856,
+        "word": "林昀儒晋级世乒赛16强",
+        "onboard_time": 1747833623,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85255,
+        "num": 195514,
+        "word": "医生眼里无意识的变胖行为",
+        "onboard_time": 1747833203,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 298928,
+        "num": 194914,
+        "word": "刘诗诗今年2月转让股份给吴奇隆",
+        "onboard_time": 1747830683,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276586,
+        "num": 193914,
+        "word": "进去vip 出来svip",
+        "onboard_time": 1747832725,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256566,
+        "num": 193630,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210229,
+        "num": 192805,
+        "word": "阿云嘎 来帮我选选唱哪首",
+        "onboard_time": 1747833864,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "林志玲舒淇岁月不败美人",
+        "onboard_time": 1747833985,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187846,
+        "num": 187846,
+        "word": "平津侯 难杀",
+        "onboard_time": 1747832124,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40463,
+        "num": 184498,
+        "word": "隧道成王家卫风网红拍照点",
+        "onboard_time": 1747832604,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184182,
+        "num": 184182,
+        "word": "坠化粪池遇难男生在母亲节偷偷送包",
+        "onboard_time": 1747833744,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38295,
+        "num": 182181,
+        "word": "韩国人贴小广告这么有良心吗",
+        "onboard_time": 1747827622,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 181992,
+        "num": 181992,
+        "word": "妇科肿瘤医生最心疼的场景",
+        "onboard_time": 1747821681,
+        "rank": 39,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 180017,
+        "num": 180017,
+        "word": "6旬快递员靠养老金环游中国",
+        "onboard_time": 1747829303,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 174877,
+        "word": "美卫生部长鼓动各国退出世卫",
+        "onboard_time": 1747832545,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165877,
+        "num": 165877,
+        "word": "平津侯 下线",
+        "onboard_time": 1747816522,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159939,
+        "num": 159939,
+        "word": "林诗栋vs卡尔森",
+        "onboard_time": 1747832185,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155460,
+        "num": 155460,
+        "word": "金价为何又再度飙涨",
+        "onboard_time": 1747831283,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147231,
+        "num": 147231,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247280,
+        "num": 145594,
+        "word": "折腰20集",
+        "onboard_time": 1747826903,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142015,
+        "num": 142015,
+        "word": "兔子发声明道歉",
+        "onboard_time": 1747828403,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141145,
+        "num": 141145,
+        "word": "张康乐直播",
+        "onboard_time": 1747834045,
+        "rank": 48,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 137783,
+        "num": 137783,
+        "word": "汪顺200混冠军",
+        "onboard_time": 1747831766,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看四大石窟#"
+    }
+  }
+}
