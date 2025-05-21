@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/22 06:25:11
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/22 06:42:43
 </p>
 </blockquote>
 <p>
@@ -5499,6 +5499,12 @@ W女士发声明称蔡徐坤方造谣（热度：680075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E6%AE%96%E5%99%A8%E8%A2%AB%E5%88%87%E5%89%B2%E6%9C%BA%E5%88%87%E6%96%AD%E5%90%8E%E6%88%90%E5%8A%9F%E6%8E%A5%E5%9B%9E%23" target="weibo">
+男子生殖器被切割机切断后成功接回（热度：675937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E7%9C%89%E8%BF%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23" target="weibo">
 断眉这次真的真的来中国了（热度：675450）
 </a>
@@ -6005,12 +6011,6 @@ BENI淘汰（热度：673045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%B9%85%E9%A2%88%23" target="weibo">
 天鹅颈（热度：631882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E8%B5%96%E6%AC%A0390%E4%B8%87%E8%BD%AC%E8%AE%A9%E6%88%BF%E4%BA%A7%E7%BB%99%E5%A5%B3%E5%84%BF%E9%80%83%E9%81%BF%E6%89%A7%E8%A1%8C%23" target="weibo">
-老赖欠390万转让房产给女儿逃避执行（热度：631882）
 </a>
 </li>
 
