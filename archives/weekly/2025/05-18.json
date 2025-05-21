@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747842205519,
+  "endTime": 1747845179285,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -65,6 +65,14 @@
       "onboard_time": 1747485623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2981327,
+      "num": 2981327,
+      "word": "黄杨钿甜耳环事件最新进展",
+      "onboard_time": 1747842623,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2955371,
@@ -1643,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 664684,
+      "num": 294225,
+      "word": "朱媛媛丧事办得很简单",
+      "onboard_time": 1747843881,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662929,
       "num": 302122,
       "word": "藏海传观后感",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1747715184,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425968,
+      "num": 291718,
+      "word": "刘宇宁希望张碧晨对自己有角色滤镜",
+      "onboard_time": 1747842083,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 424519,
@@ -3755,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295614,
+      "num": 295614,
+      "word": "林高远林诗栋vs张禹珍赵大成",
+      "onboard_time": 1747696398,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294142,
       "num": 294142,
       "word": "小满才是最好的人生状态",
@@ -4451,14 +4483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 246794,
-      "num": 204956,
-      "word": "刘宇宁希望张碧晨对自己有角色滤镜",
-      "onboard_time": 1747842083,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246009,
       "num": 330006,
       "word": "汽车4S店销冠疑用个人码收车款跑路",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1747570281,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232388,
+      "num": 232388,
+      "word": "刘宇宁回应折腰结局有人死吗",
+      "onboard_time": 1747844121,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 232094,
@@ -5691,6 +5723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206042,
+      "num": 183422,
+      "word": "单依纯唱言不由衷",
+      "onboard_time": 1747842383,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206012,
       "num": 206012,
       "word": "姜尘谈赵丽颖",
@@ -6569,6 +6609,14 @@
       "onboard_time": 1747748964,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192477,
+      "num": 179570,
+      "word": "张凌赫首次戛纳红毯造型",
+      "onboard_time": 1747844181,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 192431,
@@ -10219,6 +10267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136826,
+      "num": 136826,
+      "word": "孙颖莎谈混双对阵日本组合",
+      "onboard_time": 1747843282,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136794,
       "num": 136794,
       "word": "陈妍希夸肖战谦逊有礼",
@@ -10377,6 +10433,14 @@
       "onboard_time": 1747528348,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135166,
+      "num": 135166,
+      "word": "新兰世纪婚礼",
+      "onboard_time": 1747841124,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 135102,
@@ -11043,6 +11107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123770,
+      "num": 123770,
+      "word": "为什么说抗癌5年是个坎儿",
+      "onboard_time": 1747844480,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123713,
       "num": 317103,
       "word": "小鹏MONA高阶智能辅助驾驶来了",
@@ -11467,20 +11539,20 @@
       "category": "幽默,动漫"
     },
     {
-      "raw_hot": 116390,
-      "num": 116390,
-      "word": "新兰世纪婚礼",
-      "onboard_time": 1747841124,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 116220,
       "num": 116220,
       "word": "看似轻松其实一点都不累的工作",
       "onboard_time": 1747806563,
       "rank": 48,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 116202,
+      "num": 116202,
+      "word": "原来这就是古人说的井水不犯河水",
+      "onboard_time": 1747844480,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116168,
@@ -11715,12 +11787,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112067,
+      "num": 112067,
+      "word": "王曼昱VS韩莹",
+      "onboard_time": 1747842623,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112044,
       "num": 112044,
       "word": "林志玲 岁月偏爱的美",
       "onboard_time": 1747636224,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111971,
+      "num": 124976,
+      "word": "脱口秀冒犯的艺术不是咸猪手的借口",
+      "onboard_time": 1747843223,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111329,
@@ -12371,6 +12459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96865,
+      "num": 422725,
+      "word": "游客坐悬崖石拍照未给孩子系安全绳",
+      "onboard_time": 1747841424,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96549,
       "num": 296973,
       "word": "女子从12楼意外坠落奇迹生还",
@@ -12427,6 +12523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95119,
+      "num": 95119,
+      "word": "藏海实在太会下钩子",
+      "onboard_time": 1747844062,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94783,
       "num": 94783,
       "word": "鬼灭之刃栗花落香奈乎",
@@ -12441,6 +12545,14 @@
       "onboard_time": 1747724662,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94748,
+      "num": 94748,
+      "word": "曾舜晞闫桉同一个地方不同的痘痘",
+      "onboard_time": 1747843102,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 94509,
@@ -12787,6 +12899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87518,
+      "num": 87518,
+      "word": "林高远林诗栋VS张禹珍赵大成",
+      "onboard_time": 1747842682,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87378,
       "num": 205514,
       "word": "陈幸同vs考夫蔓",
@@ -12929,6 +13049,14 @@
       "onboard_time": 1747833203,
       "rank": 29,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 85220,
+      "num": 85220,
+      "word": "欧豪一开口梦回快男",
+      "onboard_time": 1747844600,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 85054,
@@ -13153,6 +13281,14 @@
       "onboard_time": 1747757182,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79802,
+      "num": 217628,
+      "word": "孙颖莎下一轮迎战韩国选手申裕斌",
+      "onboard_time": 1747841663,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 79687,
@@ -13451,14 +13587,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 73864,
-      "num": 422725,
-      "word": "游客坐悬崖石拍照未给孩子系安全绳",
-      "onboard_time": 1747841424,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73748,
       "num": 165507,
       "word": "敬戈登是条汉子",
@@ -13473,6 +13601,14 @@
       "onboard_time": 1747753284,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73631,
+      "num": 85163,
+      "word": "清明谷雨亲签",
+      "onboard_time": 1747843823,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 72576,
@@ -13769,22 +13905,6 @@
       "onboard_time": 1747501578,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 66805,
-      "num": 101256,
-      "word": "林高远林诗栋vs张禹珍赵大成",
-      "onboard_time": 1747696398,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66803,
-      "num": 217628,
-      "word": "孙颖莎下一轮迎战韩国选手申裕斌",
-      "onboard_time": 1747841663,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 66778,
@@ -14801,6 +14921,14 @@
       "onboard_time": 1747678816,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46736,
+      "num": 290454,
+      "word": "丑萌出圈国字脸猴大壮生病了",
+      "onboard_time": 1747844121,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46469,
@@ -15915,6 +16043,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 28027,
+      "num": 835576,
+      "word": "民营经济促进法施行释放三大信号",
+      "onboard_time": 1747833503,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28012,
       "num": 137608,
       "word": "成年人感的恋爱",
@@ -16848,14 +16984,6 @@
       "word": "上官正义回应被下追杀令",
       "onboard_time": 1747832604,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17603,
-      "num": 835576,
-      "word": "民营经济促进法施行释放三大信号",
-      "onboard_time": 1747833503,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
