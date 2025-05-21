@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747799808776,
+  "endTime": 1747801876719,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336656,
+      "num": 292194,
+      "word": "小别离",
+      "onboard_time": 1747799069,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 951389,
       "num": 315403,
       "word": "赵磊站姐被拦在婚礼门外",
@@ -72,6 +80,14 @@
       "word": "女子坠楼向丈夫喊我还没死快打120",
       "onboard_time": 1747796361,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 904786,
+      "num": 904786,
+      "word": "一男子脱口秀剧场猥亵女演员被拘",
+      "onboard_time": 1747796782,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -107,14 +123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 652313,
-      "num": 652313,
-      "word": "一男子脱口秀剧场猥亵女演员被拘",
-      "onboard_time": 1747796782,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 600211,
       "num": 600211,
       "word": "杨肸子柯淳吻戏路透",
@@ -129,14 +137,6 @@
       "onboard_time": 1747791451,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 594289,
-      "num": 265604,
-      "word": "小别离",
-      "onboard_time": 1747799069,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 563962,
@@ -219,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480438,
+      "num": 263932,
+      "word": "赴山海",
+      "onboard_time": 1747797325,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 477574,
+      "num": 477574,
+      "word": "黄金突然直拉",
+      "onboard_time": 1747799727,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 459906,
       "num": 459906,
       "word": "藏海传好大的一个伏笔",
@@ -265,14 +281,6 @@
       "onboard_time": 1747786882,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367582,
-      "num": 262640,
-      "word": "黄金突然直拉",
-      "onboard_time": 1747799727,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 357522,
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336246,
-      "num": 263932,
-      "word": "赴山海",
-      "onboard_time": 1747797325,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 324872,
       "num": 263341,
       "word": "顶着18岁的脸干着28岁的事",
@@ -355,12 +355,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307489,
+      "num": 227600,
+      "word": "美国公布新型核弹",
+      "onboard_time": 1747800210,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 303803,
+      "num": 303803,
+      "word": "南大碎尸案改编侵权案已调解",
+      "onboard_time": 1747800749,
+      "rank": 4,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 297934,
       "num": 263067,
       "word": "刘亦菲第二场晚宴造型",
       "onboard_time": 1747798648,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296320,
+      "num": 190406,
+      "word": "歌手歌单",
+      "onboard_time": 1747800269,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 294142,
@@ -419,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256099,
+      "num": 210224,
+      "word": "辛柏青说尊重媛媛的意愿丧事从简",
+      "onboard_time": 1747801288,
+      "rank": 30,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 250566,
+      "num": 222379,
+      "word": "聊斋定妆照",
+      "onboard_time": 1747800149,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250244,
       "num": 250244,
       "word": "肖战回应藏海拿下首杀",
@@ -459,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229352,
+      "num": 229352,
+      "word": "错过航班跪地哭喊女子发声",
+      "onboard_time": 1747800269,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228500,
       "num": 228500,
       "word": "中餐厅录制",
       "onboard_time": 1747795941,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226018,
+      "num": 226018,
+      "word": "公司派人事假扮猎头诱导老员工辞职",
+      "onboard_time": 1747801710,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222311,
@@ -539,12 +595,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 196765,
+      "num": 196765,
+      "word": "小米YU7",
+      "onboard_time": 1747800808,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196033,
       "num": 147236,
       "word": "上厕所途中不要冲水的原因",
       "onboard_time": 1747753165,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196025,
+      "num": 196025,
+      "word": "皮质醇过高的六大表现",
+      "onboard_time": 1747801350,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191940,
+      "num": 191940,
+      "word": "30元一斤麻辣烫的质量",
+      "onboard_time": 1747801768,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191859,
@@ -563,6 +643,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190940,
+      "num": 190940,
+      "word": "贫嘴张大民",
+      "onboard_time": 1747801469,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190885,
+      "num": 190885,
+      "word": "该去趟云南了",
+      "onboard_time": 1747801768,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "咬手礼是狗界的最高礼仪",
@@ -577,6 +673,14 @@
       "onboard_time": 1747791329,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 187156,
+      "num": 187156,
+      "word": "李一桐夏日十八宫格",
+      "onboard_time": 1747801768,
+      "rank": 48,
+      "category": "情感,母婴育儿"
     },
     {
       "raw_hot": 185474,
@@ -633,6 +737,14 @@
       "onboard_time": 1747791869,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 177607,
+      "num": 264202,
+      "word": "美企图全球禁用中国先进计算芯片",
+      "onboard_time": 1747800508,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177098,
@@ -905,6 +1017,14 @@
       "onboard_time": 1747793720,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112158,
+      "num": 215796,
+      "word": "加沙医院几乎完全崩溃",
+      "onboard_time": 1747800330,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110985,
@@ -1363,11 +1483,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56800,
+      "num": 245675,
+      "word": "吉林童话听完了得烧香",
+      "onboard_time": 1747799489,
+      "rank": 37,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 55155,
       "num": 55155,
       "word": "医院回应护士发错药致患者误服数日",
       "onboard_time": 1747777155,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54039,
+      "num": 228225,
+      "word": "若521结婚100天纪念日就是七夕",
+      "onboard_time": 1747801228,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1377,14 +1513,6 @@
       "onboard_time": 1747778295,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49397,
-      "num": 245675,
-      "word": "吉林童话听完了得烧香",
-      "onboard_time": 1747799489,
-      "rank": 37,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 48319,
@@ -1483,6 +1611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28496,
+      "num": 228776,
+      "word": "王心凌的兵卷出新高度",
+      "onboard_time": 1747801228,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26017,
       "num": 264552,
       "word": "小满节气有哪些传统习俗和养生习惯",
@@ -1537,6 +1673,14 @@
       "onboard_time": 1747768574,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21921,
+      "num": 208462,
+      "word": "德布劳内曼城主场告别战",
+      "onboard_time": 1747797749,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 21436,
@@ -1619,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12872,
+      "num": 213389,
+      "word": "旅日熊猫如何助力提升交通安全意识",
+      "onboard_time": 1747800990,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11714,
       "num": 17529,
       "word": "把中华文化瑰宝保护好传承好传播好",
@@ -1627,8 +1779,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9923,
-      "num": 578295,
+      "raw_hot": 11148,
+      "num": 613788,
       "word": "北京范儿",
       "onboard_time": 1747730363,
       "rank": 2,
