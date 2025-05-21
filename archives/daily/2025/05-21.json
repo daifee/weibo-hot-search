@@ -1,6 +1,6 @@
 {
   "startTime": 1747758772875,
-  "endTime": 1747792741116,
+  "endTime": 1747794122606,
   "band_list": [
     {
       "raw_hot": 2419607,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641462,
+      "num": 346604,
+      "word": "在招聘软件找不到工作是正常的",
+      "onboard_time": 1747784780,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600211,
       "num": 600211,
       "word": "杨肸子柯淳吻戏路透",
@@ -57,6 +65,14 @@
       "onboard_time": 1747750404,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534468,
+      "num": 534468,
+      "word": "上海地铁",
+      "onboard_time": 1747790311,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528047,
@@ -99,16 +115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483565,
-      "num": 346604,
-      "word": "在招聘软件找不到工作是正常的",
-      "onboard_time": 1747784780,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 457297,
-      "num": 457297,
+      "raw_hot": 459906,
+      "num": 459906,
       "word": "藏海传好大的一个伏笔",
       "onboard_time": 1747784600,
       "rank": 4,
@@ -131,28 +139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410402,
-      "num": 384392,
-      "word": "李梦墨雨云间获奖哽咽感谢于正",
-      "onboard_time": 1747786882,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 385806,
-      "num": 385806,
+      "raw_hot": 414140,
+      "num": 414140,
       "word": "以色列",
       "onboard_time": 1747789711,
       "rank": 5,
       "category": "国际时政"
     },
     {
-      "raw_hot": 380360,
-      "num": 380360,
-      "word": "上海地铁",
-      "onboard_time": 1747790311,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 410402,
+      "num": 384392,
+      "word": "李梦墨雨云间获奖哽咽感谢于正",
+      "onboard_time": 1747786882,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 357522,
@@ -233,6 +233,14 @@
       "onboard_time": 1747753524,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240414,
+      "num": 317747,
+      "word": "小得盈满胜万全",
+      "onboard_time": 1747789652,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240034,
@@ -331,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189077,
+      "num": 189077,
+      "word": "咬手礼是狗界的最高礼仪",
+      "onboard_time": 1747791931,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188876,
       "num": 359468,
       "word": "521与最具幸福感的节气撞满怀",
@@ -363,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180277,
-      "num": 180277,
-      "word": "小得盈满胜万全",
-      "onboard_time": 1747789652,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178280,
       "num": 178280,
       "word": "小米高通庆祝15年合作",
@@ -387,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165345,
+      "num": 198962,
+      "word": "马斯克再次强势表态",
+      "onboard_time": 1747791451,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159656,
       "num": 159656,
       "word": "医生眼里无意识的控糖行为",
       "onboard_time": 1747746442,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159597,
+      "num": 202214,
+      "word": "全员加速中无锡录制",
+      "onboard_time": 1747792700,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 159432,
@@ -411,28 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157463,
-      "num": 157463,
-      "word": "咬手礼是狗界的最高礼仪",
-      "onboard_time": 1747791931,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154358,
       "num": 154358,
       "word": "人间好时节",
       "onboard_time": 1747791451,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153176,
-      "num": 153176,
-      "word": "马斯克再次强势表态",
-      "onboard_time": 1747791451,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 147773,
@@ -449,6 +457,22 @@
       "onboard_time": 1747791751,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143084,
+      "num": 143084,
+      "word": "刘浩存生日12宫格",
+      "onboard_time": 1747792580,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142127,
+      "num": 182008,
+      "word": "肖战一声声入耳一句句动心",
+      "onboard_time": 1747792881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 140911,
@@ -515,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116820,
+      "num": 116820,
+      "word": "NBA",
+      "onboard_time": 1747792822,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116415,
       "num": 116415,
       "word": "西园寺的小猫",
@@ -529,6 +561,14 @@
       "onboard_time": 1747791391,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113306,
+      "num": 113306,
+      "word": "孙颖莎冲击女单16强",
+      "onboard_time": 1747793720,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 110985,
@@ -547,6 +587,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 109556,
+      "num": 109556,
+      "word": "男子回应建10米鱼缸养巨骨舌鱼",
+      "onboard_time": 1747793481,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108147,
       "num": 108147,
       "word": "耿爽用1234驳斥美方抹黑",
@@ -555,20 +603,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107203,
+      "num": 107203,
+      "word": "林诗栋谈王楚钦球拍受损",
+      "onboard_time": 1747783460,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106541,
       "num": 106541,
       "word": "潘展乐最后一棒连追两队夺冠",
       "onboard_time": 1747753404,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105473,
-      "num": 105473,
-      "word": "刘浩存生日12宫格",
-      "onboard_time": 1747792580,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 105389,
@@ -587,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103168,
-      "num": 103168,
-      "word": "全员加速中无锡录制",
-      "onboard_time": 1747792700,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102879,
       "num": 102879,
       "word": "王楚钦下轮对阵西蒙高茨",
@@ -609,6 +649,14 @@
       "onboard_time": 1747791270,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101844,
+      "num": 101844,
+      "word": "人生路上不必苛求完美",
+      "onboard_time": 1747793840,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 101177,
@@ -723,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83143,
+      "num": 246745,
+      "word": "海尔周云杰说要当网友最强嘴替",
+      "onboard_time": 1747789531,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "情书",
@@ -771,20 +827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77184,
+      "num": 178461,
+      "word": "梁王组合小满节气海报",
+      "onboard_time": 1747793301,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76275,
       "num": 88168,
       "word": "木木卿卿官宣",
       "onboard_time": 1747741280,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73992,
-      "num": 73992,
-      "word": "林诗栋谈王楚钦球拍受损",
-      "onboard_time": 1747783460,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 72836,
@@ -851,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64455,
-      "num": 246745,
-      "word": "海尔周云杰说要当网友最强嘴替",
-      "onboard_time": 1747789531,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63019,
       "num": 63019,
       "word": "曼城3比1伯恩茅斯",
@@ -921,6 +969,14 @@
       "onboard_time": 1747778295,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45853,
+      "num": 194707,
+      "word": "王楚钦回应鹰眼挑战成功",
+      "onboard_time": 1747790550,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 43916,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1747771575,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 4409,
+      "num": 498982,
+      "word": "北京范儿",
+      "onboard_time": 1747730363,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
