@@ -1,0 +1,410 @@
+{
+  "runTime": 1747810233188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511376,
+        "num": 1511376,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1344511,
+        "num": 1344511,
+        "word": "众星发文痛别朱媛媛",
+        "onboard_time": 1747807343,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1775,
+        "num": 1000297,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680316,
+        "num": 680316,
+        "word": "情侣转账分手后被判按LPR返本息",
+        "onboard_time": 1747807884,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552933,
+        "num": 552933,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489134,
+        "num": 489134,
+        "word": "全红婵因伤退出全国跳水冠军赛",
+        "onboard_time": 1747804704,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495536,
+        "num": 440826,
+        "word": "李凯馨发视频回应争议",
+        "onboard_time": 1747806264,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354788,
+        "num": 354788,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352625,
+        "num": 352625,
+        "word": "巴基斯坦一客车遭袭已致4死30伤",
+        "onboard_time": 1747808603,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328415,
+        "num": 328415,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4473740,
+        "num": 327346,
+        "word": "朱媛媛去世",
+        "onboard_time": 1747797022,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1498616,
+        "num": 320224,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558377,
+        "num": 318994,
+        "word": "甄嬛传哪天下架了你负责重拍",
+        "onboard_time": 1747803027,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452929,
+        "num": 313333,
+        "word": "被模仿吃饭的韩国霸总回应中国网友",
+        "onboard_time": 1747806804,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311672,
+        "num": 311672,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282442,
+        "num": 282442,
+        "word": "刘端端聊剧组角色被换",
+        "onboard_time": 1747808661,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270773,
+        "num": 270773,
+        "word": "南大碎尸案改编侵权案已调解",
+        "onboard_time": 1747800749,
+        "rank": 16,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 229589,
+        "num": 229589,
+        "word": "杜海涛接沈梦辰下班",
+        "onboard_time": 1747806085,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212033,
+        "num": 212033,
+        "word": "海尔原来造过这么多离谱的洗衣机",
+        "onboard_time": 1747809682,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175032,
+        "num": 208509,
+        "word": "2025微博电影之夜官宣",
+        "onboard_time": 1747808302,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55387,
+        "num": 207815,
+        "word": "张艺兴摩天轮排面",
+        "onboard_time": 1747807584,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207625,
+        "num": 207625,
+        "word": "小别离",
+        "onboard_time": 1747799069,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202796,
+        "num": 202796,
+        "word": "淘宝奶茶免单卡",
+        "onboard_time": 1747808843,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198004,
+        "num": 198004,
+        "word": "赴山海",
+        "onboard_time": 1747797325,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194958,
+        "num": 194958,
+        "word": "戛纳迎来张子枫易烊千玺两位00后",
+        "onboard_time": 1747795941,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193328,
+        "num": 193328,
+        "word": "刘宇宁 嗑什么是观众的自由",
+        "onboard_time": 1747806743,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179057,
+        "num": 179057,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178004,
+        "num": 178004,
+        "word": "网传赴山海明天空降",
+        "onboard_time": 1747809744,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146601,
+        "num": 174156,
+        "word": "力箭一号遥七运载火箭发射成功",
+        "onboard_time": 1747807284,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19724,
+        "num": 173944,
+        "word": "下班以后时间流速太快了",
+        "onboard_time": 1747809623,
+        "rank": 29,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 173838,
+        "word": "胡歌生命树首发人物海报",
+        "onboard_time": 1747808661,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168745,
+        "num": 168745,
+        "word": "李凯馨前助理道歉",
+        "onboard_time": 1747795522,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155155,
+        "num": 155155,
+        "word": "公司派人事假扮猎头诱导老员工辞职",
+        "onboard_time": 1747801710,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21398,
+        "num": 151823,
+        "word": "倒卖柠檬水赚差价是否合理合法",
+        "onboard_time": 1747810041,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149345,
+        "num": 149345,
+        "word": "杨紫高原女警造型",
+        "onboard_time": 1747795882,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146819,
+        "num": 146819,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1747809863,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146104,
+        "num": 146104,
+        "word": "迪丽热巴夏日美人鱼",
+        "onboard_time": 1747809923,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143323,
+        "num": 143323,
+        "word": "黄金突然直拉",
+        "onboard_time": 1747799727,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136116,
+        "num": 136116,
+        "word": "校医是世界上最神奇的职业",
+        "onboard_time": 1747806383,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23645,
+        "num": 135678,
+        "word": "英烈和英模一墙之隔",
+        "onboard_time": 1747809802,
+        "rank": 39,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 135321,
+        "num": 135321,
+        "word": "藏海传太适合这个特效了",
+        "onboard_time": 1747808002,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50339,
+        "num": 133637,
+        "word": "拉塞尔不理解亚历山大被犯规",
+        "onboard_time": 1747808781,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133050,
+        "num": 133050,
+        "word": "肖战战损剧照",
+        "onboard_time": 1747809623,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "南大碎尸案亲属律师最新发声",
+        "onboard_time": 1747803568,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128966,
+        "num": 128966,
+        "word": "马斯克将退出未来的政治捐款",
+        "onboard_time": 1747807103,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126702,
+        "num": 126702,
+        "word": "杨超越正在输入舞台首秀",
+        "onboard_time": 1747809562,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126588,
+        "num": 126588,
+        "word": "Hero夏季挂牌公告",
+        "onboard_time": 1747808843,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122645,
+        "num": 122645,
+        "word": "开画少女漫定档",
+        "onboard_time": 1747804525,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116220,
+        "num": 116220,
+        "word": "看似轻松其实一点都不累的工作",
+        "onboard_time": 1747806563,
+        "rank": 48,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 111329,
+        "num": 111329,
+        "word": "孟子义夸人夸到心坎上",
+        "onboard_time": 1747810161,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化要继续把制造业搞好#"
+    }
+  }
+}
