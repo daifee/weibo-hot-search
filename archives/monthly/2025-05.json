@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747806203488,
+  "endTime": 1747809398967,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -1859,6 +1859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1420087,
+      "num": 1420087,
+      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+      "onboard_time": 1747804286,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1415488,
       "num": 1415488,
       "word": "KFC相机",
@@ -2680,14 +2688,6 @@
       "word": "北京冰雹",
       "onboard_time": 1747139241,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1217085,
-      "num": 1217085,
-      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
-      "onboard_time": 1747804286,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -4393,6 +4393,14 @@
       "onboard_time": 1746852692,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 919129,
+      "num": 345801,
+      "word": "众星发文痛别朱媛媛",
+      "onboard_time": 1747807343,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 918709,
@@ -12331,6 +12339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429197,
+      "num": 344461,
+      "word": "李凯馨发视频回应争议",
+      "onboard_time": 1747806264,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428999,
       "num": 428999,
       "word": "罗云熙回应看张杰演唱会",
@@ -13785,6 +13801,14 @@
       "onboard_time": 1746785721,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 385142,
+      "num": 385142,
+      "word": "全红婵因伤退出全国跳水冠军赛",
+      "onboard_time": 1747804704,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 384682,
@@ -17915,14 +17939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 294453,
-      "num": 294453,
-      "word": "全红婵因伤退出全国跳水冠军赛",
-      "onboard_time": 1747804704,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294365,
       "num": 1019520,
       "word": "医生高铁上救人后反被要求登记信息",
@@ -19955,6 +19971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262652,
+      "num": 262652,
+      "word": "被模仿吃饭的韩国霸总回应中国网友",
+      "onboard_time": 1747806804,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262575,
       "num": 407553,
       "word": "男主播与榜一大姐分手被判还4.5万",
@@ -21147,6 +21171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 248811,
+      "num": 248811,
+      "word": "杜海涛接沈梦辰下班",
+      "onboard_time": 1747806085,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248771,
       "num": 248771,
       "word": "易梦玲水手服",
@@ -21385,6 +21417,14 @@
       "onboard_time": 1747552940,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245861,
+      "num": 245861,
+      "word": "赴山海剧方维权",
+      "onboard_time": 1747809022,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 245817,
@@ -22337,6 +22377,14 @@
       "onboard_time": 1747285942,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234048,
+      "num": 234048,
+      "word": "情侣转账分手后被判按LPR返本息",
+      "onboard_time": 1747807884,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234012,
@@ -24939,6 +24987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211809,
+      "num": 211809,
+      "word": "刘端端聊剧组角色被换",
+      "onboard_time": 1747808661,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211801,
       "num": 211801,
       "word": "smtown乡村红毯",
@@ -26449,6 +26505,14 @@
       "onboard_time": 1747124481,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205384,
+      "num": 205384,
+      "word": "2025微博电影之夜官宣",
+      "onboard_time": 1747808302,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 205321,
@@ -28689,6 +28753,14 @@
       "onboard_time": 1746764542,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197223,
+      "num": 269340,
+      "word": "巴基斯坦一客车遭袭已致4死30伤",
+      "onboard_time": 1747808603,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197181,
@@ -31475,6 +31547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188547,
+      "num": 188547,
+      "word": "胡歌生命树首发人物海报",
+      "onboard_time": 1747808661,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188521,
       "num": 188521,
       "word": "疑似武艺对何老师发起攻击",
@@ -31601,6 +31681,14 @@
       "onboard_time": 1746076701,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188110,
+      "num": 188110,
+      "word": "Hero夏季挂牌公告",
+      "onboard_time": 1747808843,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 188084,
@@ -36091,6 +36179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170085,
+      "num": 170085,
+      "word": "赴山海剧方委托律师声明",
+      "onboard_time": 1747807343,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170083,
       "num": 170083,
       "word": "于适 贵州",
@@ -38739,6 +38835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161243,
+      "num": 161243,
+      "word": "淘宝奶茶免单卡",
+      "onboard_time": 1747808843,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161233,
       "num": 189211,
       "word": "JDG对战iG",
@@ -39265,6 +39369,14 @@
       "onboard_time": 1747116803,
       "rank": 41,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 159681,
+      "num": 159681,
+      "word": "刘宇宁 嗑什么是观众的自由",
+      "onboard_time": 1747806743,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159637,
@@ -41761,6 +41873,14 @@
       "onboard_time": 1746537083,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152333,
+      "num": 152333,
+      "word": "校医是世界上最神奇的职业",
+      "onboard_time": 1747806383,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 152324,
@@ -46827,6 +46947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136871,
+      "num": 184444,
+      "word": "马斯克将退出未来的政治捐款",
+      "onboard_time": 1747807103,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136866,
       "num": 136866,
       "word": "手工辣条的受欢迎程度有多高",
@@ -46929,6 +47057,14 @@
       "onboard_time": 1747408824,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136618,
+      "num": 136618,
+      "word": "力箭一号遥七运载火箭发射成功",
+      "onboard_time": 1747807284,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136577,
@@ -47113,6 +47249,14 @@
       "onboard_time": 1746417323,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136155,
+      "num": 216399,
+      "word": "韩小学生目睹老师教室性行为",
+      "onboard_time": 1747804765,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 136128,
@@ -48171,14 +48315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132881,
-      "num": 132881,
-      "word": "杜海涛接沈梦辰下班",
-      "onboard_time": 1747806085,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132855,
       "num": 132855,
       "word": "是谁玩坏了协和4加4",
@@ -48489,6 +48625,14 @@
       "onboard_time": 1746330260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131870,
+      "num": 186600,
+      "word": "藏海传太适合这个特效了",
+      "onboard_time": 1747808002,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 131860,
@@ -49081,6 +49225,14 @@
       "onboard_time": 1747566022,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130285,
+      "num": 130285,
+      "word": "陈楚生歌手第一期vlog",
+      "onboard_time": 1747809203,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 130253,
@@ -52867,14 +53019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119267,
-      "num": 216399,
-      "word": "韩小学生目睹老师教室性行为",
-      "onboard_time": 1747804765,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 119256,
       "num": 119256,
       "word": "无忧渡",
@@ -53857,6 +54001,14 @@
       "onboard_time": 1747023743,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 115827,
+      "num": 115827,
+      "word": "十个勤天笔记本",
+      "onboard_time": 1747806445,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115807,
@@ -66211,12 +66363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55142,
+      "num": 255927,
+      "word": "官方回应为何花数百万修缮非文物",
+      "onboard_time": 1747807643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55140,
       "num": 67988,
       "word": "小男孩说话算话带着包子冒雨赴约",
       "onboard_time": 1746904934,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55123,
+      "num": 153797,
+      "word": "多哈世乒赛前4天国乒战绩汇总",
+      "onboard_time": 1747808063,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 55089,
@@ -66673,6 +66841,22 @@
       "onboard_time": 1746176901,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53121,
+      "num": 183117,
+      "word": "拉塞尔不理解亚历山大被犯规",
+      "onboard_time": 1747808781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53104,
+      "num": 215779,
+      "word": "张艺兴摩天轮排面",
+      "onboard_time": 1747807584,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 53077,
@@ -69548,7 +69732,7 @@
     },
     {
       "raw_hot": 40611,
-      "num": 624814,
+      "num": 683843,
       "word": "夏日的美好扑面而来",
       "onboard_time": 1747802908,
       "rank": 2,
@@ -70561,6 +70745,14 @@
       "onboard_time": 1747062744,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 36527,
+      "num": 185621,
+      "word": "女子被打还击开庭4次改判不罚",
+      "onboard_time": 1747807764,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36391,
@@ -74827,6 +75019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21716,
+      "num": 153392,
+      "word": "高考多选题用统计学猜答案",
+      "onboard_time": 1747807284,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21708,
       "num": 252824,
       "word": "郑晓龙再导古装剧能否重现甄嬛传辉煌",
@@ -77737,6 +77937,14 @@
       "onboard_time": 1747159217,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13689,
+      "num": 153307,
+      "word": "法官化身知心姐姐解心结",
+      "onboard_time": 1747807343,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13676,

@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747806203488,
+  "endTime": 1747809398967,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1420087,
+      "num": 1420087,
+      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+      "onboard_time": 1747804286,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1394637,
       "num": 913156,
       "word": "藏海割了双眼皮",
@@ -513,14 +521,6 @@
       "onboard_time": 1747751545,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1217085,
-      "num": 1217085,
-      "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
-      "onboard_time": 1747804286,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1207951,
@@ -825,6 +825,14 @@
       "onboard_time": 1747671561,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 919129,
+      "num": 345801,
+      "word": "众星发文痛别朱媛媛",
+      "onboard_time": 1747807343,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 915939,
@@ -2195,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429197,
+      "num": 344461,
+      "word": "李凯馨发视频回应争议",
+      "onboard_time": 1747806264,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428985,
       "num": 428985,
       "word": "成都到新疆售价5万起专列卖爆",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1747482502,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385142,
+      "num": 385142,
+      "word": "全红婵因伤退出全国跳水冠军赛",
+      "onboard_time": 1747804704,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 381679,
@@ -3131,14 +3155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294453,
-      "num": 294453,
-      "word": "全红婵因伤退出全国跳水冠军赛",
-      "onboard_time": 1747804704,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294142,
       "num": 294142,
       "word": "小满才是最好的人生状态",
@@ -3555,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262652,
+      "num": 262652,
+      "word": "被模仿吃饭的韩国霸总回应中国网友",
+      "onboard_time": 1747806804,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262152,
       "num": 262152,
       "word": "赵美延曾被宋雨琦Minnie欺生",
@@ -3699,6 +3723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 248811,
+      "num": 248811,
+      "word": "杜海涛接沈梦辰下班",
+      "onboard_time": 1747806085,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248613,
       "num": 508809,
       "word": "辽宁鞍山22年前父子遇害案侦破",
@@ -3729,6 +3761,14 @@
       "onboard_time": 1747552940,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245861,
+      "num": 245861,
+      "word": "赴山海剧方维权",
+      "onboard_time": 1747809022,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 245414,
@@ -3953,6 +3993,14 @@
       "onboard_time": 1747711102,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 234048,
+      "num": 234048,
+      "word": "情侣转账分手后被判按LPR返本息",
+      "onboard_time": 1747807884,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233697,
@@ -4547,6 +4595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211809,
+      "num": 211809,
+      "word": "刘端端聊剧组角色被换",
+      "onboard_time": 1747808661,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211653,
       "num": 211653,
       "word": "王九龙 张九龄",
@@ -4825,6 +4881,14 @@
       "onboard_time": 1747560021,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205384,
+      "num": 205384,
+      "word": "2025微博电影之夜官宣",
+      "onboard_time": 1747808302,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 205321,
@@ -5321,6 +5385,14 @@
       "onboard_time": 1747567640,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197223,
+      "num": 269340,
+      "word": "巴基斯坦一客车遭袭已致4死30伤",
+      "onboard_time": 1747808603,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197122,
@@ -5899,6 +5971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188547,
+      "num": 188547,
+      "word": "胡歌生命树首发人物海报",
+      "onboard_time": 1747808661,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188424,
       "num": 188424,
       "word": "晚饭后别吃这6种高糖水果",
@@ -5921,6 +6001,14 @@
       "onboard_time": 1747664847,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188110,
+      "num": 188110,
+      "word": "Hero夏季挂牌公告",
+      "onboard_time": 1747808843,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 187916,
@@ -6691,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170085,
+      "num": 170085,
+      "word": "赴山海剧方委托律师声明",
+      "onboard_time": 1747807343,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170002,
       "num": 460740,
       "word": "天问二号5月底择机发射",
@@ -7179,6 +7275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161243,
+      "num": 161243,
+      "word": "淘宝奶茶免单卡",
+      "onboard_time": 1747808843,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161216,
       "num": 192487,
       "word": "林诗栋蒯曼vs高茨帕瓦德",
@@ -7257,6 +7361,14 @@
       "onboard_time": 1747752624,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159681,
+      "num": 159681,
+      "word": "刘宇宁 嗑什么是观众的自由",
+      "onboard_time": 1747806743,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159597,
@@ -7689,6 +7801,14 @@
       "onboard_time": 1747621161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152333,
+      "num": 152333,
+      "word": "校医是世界上最神奇的职业",
+      "onboard_time": 1747806383,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 152324,
@@ -8523,6 +8643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136871,
+      "num": 184444,
+      "word": "马斯克将退出未来的政治捐款",
+      "onboard_time": 1747807103,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136794,
       "num": 136794,
       "word": "陈妍希夸肖战谦逊有礼",
@@ -8545,6 +8673,14 @@
       "onboard_time": 1747756343,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136618,
+      "num": 136618,
+      "word": "力箭一号遥七运载火箭发射成功",
+      "onboard_time": 1747807284,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136577,
@@ -8577,6 +8713,14 @@
       "onboard_time": 1747739541,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136155,
+      "num": 216399,
+      "word": "韩小学生目睹老师教室性行为",
+      "onboard_time": 1747804765,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 136059,
@@ -8739,14 +8883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132881,
-      "num": 132881,
-      "word": "杜海涛接沈梦辰下班",
-      "onboard_time": 1747806085,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132623,
       "num": 476916,
       "word": "上厕所时如何有效压水花避免飞溅",
@@ -8761,6 +8897,14 @@
       "onboard_time": 1747486524,
       "rank": 31,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 131870,
+      "num": 186600,
+      "word": "藏海传太适合这个特效了",
+      "onboard_time": 1747808002,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 131858,
@@ -8857,6 +9001,14 @@
       "onboard_time": 1747566022,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130285,
+      "num": 130285,
+      "word": "陈楚生歌手第一期vlog",
+      "onboard_time": 1747809203,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 130192,
@@ -9435,14 +9587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119267,
-      "num": 216399,
-      "word": "韩小学生目睹老师教室性行为",
-      "onboard_time": 1747804765,
-      "rank": 29,
-      "category": "海外新闻,民生新闻"
-    },
-    {
       "raw_hot": 119128,
       "num": 119128,
       "word": "于适音乐节人气",
@@ -9601,6 +9745,14 @@
       "onboard_time": 1747540051,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115827,
+      "num": 115827,
+      "word": "十个勤天笔记本",
+      "onboard_time": 1747806445,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115663,
@@ -12115,6 +12267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55142,
+      "num": 255927,
+      "word": "官方回应为何花数百万修缮非文物",
+      "onboard_time": 1747807643,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55123,
+      "num": 153797,
+      "word": "多哈世乒赛前4天国乒战绩汇总",
+      "onboard_time": 1747808063,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54709,
       "num": 208651,
       "word": "法官为判案深夜蹲点听狗叫",
@@ -12216,6 +12384,22 @@
       "word": "祝你像姐一样",
       "onboard_time": 1747638744,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53121,
+      "num": 183117,
+      "word": "拉塞尔不理解亚历山大被犯规",
+      "onboard_time": 1747808781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53104,
+      "num": 215779,
+      "word": "张艺兴摩天轮排面",
+      "onboard_time": 1747807584,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -12788,7 +12972,7 @@
     },
     {
       "raw_hot": 40611,
-      "num": 624814,
+      "num": 683843,
       "word": "夏日的美好扑面而来",
       "onboard_time": 1747802908,
       "rank": 2,
@@ -12953,6 +13137,14 @@
       "onboard_time": 1747561402,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36527,
+      "num": 185621,
+      "word": "女子被打还击开庭4次改判不罚",
+      "onboard_time": 1747807764,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36350,
@@ -13827,6 +14019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21716,
+      "num": 153392,
+      "word": "高考多选题用统计学猜答案",
+      "onboard_time": 1747807284,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21651,
       "num": 200682,
       "word": "前列腺癌转移能治愈吗",
@@ -14552,6 +14752,14 @@
       "word": "凤阳鼓楼坍塌内部有文物受损了吗",
       "onboard_time": 1747747043,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13689,
+      "num": 153307,
+      "word": "法官化身知心姐姐解心结",
+      "onboard_time": 1747807343,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
