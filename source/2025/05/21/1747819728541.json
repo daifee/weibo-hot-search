@@ -1,0 +1,410 @@
+{
+  "runTime": 1747819728541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1301872,
+        "num": 1301872,
+        "word": "林诗栋蒯曼无缘混双四强",
+        "onboard_time": 1747817962,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1289651,
+        "num": 1289651,
+        "word": "混双",
+        "onboard_time": 1747817544,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7958,
+        "num": 1183056,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179444,
+        "num": 1179444,
+        "word": "韦一航想妈妈了",
+        "onboard_time": 1747815561,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 759740,
+        "num": 759740,
+        "word": "平津侯 下线",
+        "onboard_time": 1747816522,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498909,
+        "num": 498909,
+        "word": "蜜雪冰城回应网友倒卖柠檬水赚差价",
+        "onboard_time": 1747804286,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719864,
+        "num": 484584,
+        "word": "哪吒2延长上映至6月30日",
+        "onboard_time": 1747814003,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 630292,
+        "num": 482566,
+        "word": "有种爱情叫辛柏青朱媛媛",
+        "onboard_time": 1747813644,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279224,
+        "num": 279224,
+        "word": "麦当劳玩具",
+        "onboard_time": 1747818261,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270037,
+        "num": 270037,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643968,
+        "num": 268177,
+        "word": "于正自曝被单依纯放鸽子",
+        "onboard_time": 1747802069,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608614,
+        "num": 263263,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779772,
+        "num": 261770,
+        "word": "辛柏青发博的时间",
+        "onboard_time": 1747817184,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494309,
+        "num": 259118,
+        "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
+        "onboard_time": 1747813822,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203780,
+        "num": 254739,
+        "word": "张大民送别云芳",
+        "onboard_time": 1747816823,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252822,
+        "num": 252822,
+        "word": "围棋协会回应9岁围棋少年疑跳楼身亡",
+        "onboard_time": 1747817544,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110677,
+        "num": 252504,
+        "word": "用惯了拼多多对618囤货已无感",
+        "onboard_time": 1747815504,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25491,
+        "num": 252257,
+        "word": "亲子流量账号营销乱象频出",
+        "onboard_time": 1747819523,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17252,
+        "num": 251604,
+        "word": "补气血的黄芪蒸蛋适合哪类人群吃",
+        "onboard_time": 1747819043,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52514,
+        "num": 250895,
+        "word": "小孩玩手机被骗子控屏盗刷61笔钱",
+        "onboard_time": 1747818564,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 543627,
+        "num": 250374,
+        "word": "易烊千玺台湾到达",
+        "onboard_time": 1747814603,
+        "rank": 20,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 487648,
+        "num": 250215,
+        "word": "谁有林则徐微信 我不想闻二手烟了",
+        "onboard_time": 1747809744,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447105,
+        "num": 249402,
+        "word": "张子枫 姑妈永远想念您",
+        "onboard_time": 1747818803,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404408,
+        "num": 248941,
+        "word": "藏海传台词太万能了",
+        "onboard_time": 1747814122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59575,
+        "num": 248230,
+        "word": "五月已经折磨了我21天",
+        "onboard_time": 1747819223,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 98660,
+        "num": 247787,
+        "word": "吉村真晴泪洒赛场",
+        "onboard_time": 1747818925,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42239,
+        "num": 247630,
+        "word": "愿天堂没有鸡娃",
+        "onboard_time": 1747818925,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75168,
+        "num": 247074,
+        "word": "59岁保洁大爷擦玻璃时猝死",
+        "onboard_time": 1747818863,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50215,
+        "num": 246481,
+        "word": "摸腿拘10天是玩笑还是警告",
+        "onboard_time": 1747818503,
+        "rank": 28,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 43509,
+        "num": 245790,
+        "word": "大学生化粪池身亡谁来负责",
+        "onboard_time": 1747818261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59298,
+        "num": 245555,
+        "word": "外卖平台回应四川外卖员无需健康证",
+        "onboard_time": 1747817784,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245121,
+        "num": 245121,
+        "word": "黄镇廷杜凯琹晋级混双四强",
+        "onboard_time": 1747817483,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123965,
+        "num": 240519,
+        "word": "美国企图全球禁用中国先进计算芯片",
+        "onboard_time": 1747799489,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238257,
+        "num": 238257,
+        "word": "兰香如故 郑合惠子",
+        "onboard_time": 1747814423,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231848,
+        "num": 231848,
+        "word": "同行者回忆男生坠化粪池瞬间",
+        "onboard_time": 1747817002,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226479,
+        "num": 226479,
+        "word": "世乒赛",
+        "onboard_time": 1747818984,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208772,
+        "num": 208772,
+        "word": "叶寒冰被查",
+        "onboard_time": 1747819523,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206609,
+        "num": 206609,
+        "word": "情侣转账分手后被判按LPR返本息",
+        "onboard_time": 1747807884,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26840,
+        "num": 203289,
+        "word": "风堇在西风的尽头再见",
+        "onboard_time": 1747818564,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34745,
+        "num": 202247,
+        "word": "大学的化粪池怎么会让人掉下去",
+        "onboard_time": 1747818144,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202134,
+        "num": 202134,
+        "word": "把摸大腿当梗但你不能真耍流氓",
+        "onboard_time": 1747814481,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200653,
+        "num": 200653,
+        "word": "动漫组合",
+        "onboard_time": 1747819103,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184677,
+        "num": 184677,
+        "word": "易烊千玺小网站更新文字",
+        "onboard_time": 1747812263,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182744,
+        "num": 182744,
+        "word": "杨超越五官都用上了一点没崩",
+        "onboard_time": 1747818925,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176731,
+        "num": 176731,
+        "word": "折腰史上下线最快的反派",
+        "onboard_time": 1747818984,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170818,
+        "num": 170818,
+        "word": "坚决反对欧方无理制裁中国企业",
+        "onboard_time": 1747814423,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167286,
+        "num": 167286,
+        "word": "郭俊辰圈内人缘",
+        "onboard_time": 1747819402,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161778,
+        "num": 161778,
+        "word": "小米YU7",
+        "onboard_time": 1747800808,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160896,
+        "num": 160896,
+        "word": "黄觉 把你们都交出去算了",
+        "onboard_time": 1747816344,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159743,
+        "num": 159743,
+        "word": "林诗栋蒯曼1比3吉村真晴大藤沙月",
+        "onboard_time": 1747818144,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持自立自强掌握关键核心技术#"
+    }
+  }
+}

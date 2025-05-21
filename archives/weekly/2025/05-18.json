@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747817276971,
+  "endTime": 1747819728541,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -523,6 +523,14 @@
       "category": "辟谣/通报,艺人"
     },
     {
+      "raw_hot": 1301872,
+      "num": 1301872,
+      "word": "林诗栋蒯曼无缘混双四强",
+      "onboard_time": 1747817962,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1299694,
       "num": 1299694,
       "word": "王楚钦孙颖莎目标是复刻杯",
@@ -545,6 +553,14 @@
       "onboard_time": 1747526359,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1289651,
+      "num": 1289651,
+      "word": "混双",
+      "onboard_time": 1747553362,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 1275134,
@@ -585,6 +601,14 @@
       "onboard_time": 1747585464,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1179444,
+      "num": 1179444,
+      "word": "韦一航想妈妈了",
+      "onboard_time": 1747815561,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 1173468,
@@ -835,14 +859,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 966463,
-      "num": 320043,
-      "word": "韦一航想妈妈了",
-      "onboard_time": 1747815561,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 959226,
       "num": 455637,
       "word": "财不外露",
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 957226,
-      "num": 400176,
+      "num": 484584,
       "word": "哪吒2延长上映至6月30日",
       "onboard_time": 1747814003,
       "rank": 3,
@@ -1187,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779772,
+      "num": 261770,
+      "word": "辛柏青发博的时间",
+      "onboard_time": 1747817184,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778394,
       "num": 309138,
       "word": "金子涵 好朋友",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1747569562,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 759740,
+      "num": 759740,
+      "word": "平津侯 下线",
+      "onboard_time": 1747816522,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 756253,
@@ -2059,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494309,
+      "num": 259118,
+      "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
+      "onboard_time": 1747813822,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489134,
       "num": 489134,
       "word": "全红婵因伤退出全国跳水冠军赛",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1747619423,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 447105,
+      "num": 249402,
+      "word": "张子枫 姑妈永远想念您",
+      "onboard_time": 1747818803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 446051,
@@ -2995,14 +3043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 329176,
-      "num": 251088,
-      "word": "平津侯 下线",
-      "onboard_time": 1747816522,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328614,
       "num": 328614,
       "word": "张泉灵说李晟是家里最不卷的",
@@ -3531,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279224,
+      "num": 279224,
+      "word": "麦当劳玩具",
+      "onboard_time": 1747818261,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 278702,
       "num": 343223,
       "word": "宋威龙古装",
@@ -3617,6 +3665,14 @@
       "onboard_time": 1747544610,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 270037,
+      "num": 270037,
+      "word": "人生小满胜万全",
+      "onboard_time": 1747817302,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269805,
@@ -3843,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252822,
+      "num": 252822,
+      "word": "围棋协会回应9岁围棋少年疑跳楼身亡",
+      "onboard_time": 1747817544,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252380,
       "num": 252380,
       "word": "中国退居至美国第三大海外债主",
@@ -3881,14 +3945,6 @@
       "onboard_time": 1747628124,
       "rank": 31,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 250654,
-      "num": 250654,
-      "word": "林诗栋蒯曼vs吉村真晴大藤沙月",
-      "onboard_time": 1747813822,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 249589,
@@ -3961,6 +4017,14 @@
       "onboard_time": 1747631006,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245121,
+      "num": 245121,
+      "word": "黄镇廷杜凯琹晋级混双四强",
+      "onboard_time": 1747817483,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 244922,
@@ -4243,6 +4307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 231848,
+      "num": 232852,
+      "word": "同行者回忆男生坠化粪池瞬间",
+      "onboard_time": 1747817002,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231449,
       "num": 245043,
       "word": "章子怡代言蒂芙尼",
@@ -4355,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226479,
+      "num": 226479,
+      "word": "世乒赛",
+      "onboard_time": 1747662147,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225686,
       "num": 225686,
       "word": "idle新专辑发布会",
@@ -4385,14 +4465,6 @@
       "onboard_time": 1747698981,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224280,
-      "num": 224280,
-      "word": "世乒赛",
-      "onboard_time": 1747662147,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 223541,
@@ -4931,6 +5003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208772,
+      "num": 208772,
+      "word": "叶寒冰被查",
+      "onboard_time": 1747819523,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208669,
       "num": 208669,
       "word": "朱媛媛作品",
@@ -5179,12 +5259,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 203468,
-      "num": 203468,
-      "word": "混双",
-      "onboard_time": 1747553362,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 203780,
+      "num": 254739,
+      "word": "张大民送别云芳",
+      "onboard_time": 1747816823,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 203437,
@@ -5275,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202134,
+      "num": 202134,
+      "word": "把摸大腿当梗但你不能真耍流氓",
+      "onboard_time": 1747814481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201877,
       "num": 201877,
       "word": "全世界的偶像剧在这一刻弱爆了",
@@ -5344,6 +5432,14 @@
       "word": "孙颖莎4比0边松景",
       "onboard_time": 1747650144,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200653,
+      "num": 200653,
+      "word": "动漫组合",
+      "onboard_time": 1747819103,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -5441,14 +5537,6 @@
       "onboard_time": 1747626503,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199254,
-      "num": 199254,
-      "word": "把摸大腿当梗但你不能真耍流氓",
-      "onboard_time": 1747814481,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199197,
@@ -5788,7 +5876,7 @@
     },
     {
       "raw_hot": 194073,
-      "num": 251793,
+      "num": 252504,
       "word": "用惯了拼多多对618囤货已无感",
       "onboard_time": 1747815504,
       "rank": 16,
@@ -6619,6 +6707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 182744,
+      "num": 182744,
+      "word": "杨超越五官都用上了一点没崩",
+      "onboard_time": 1747818925,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182458,
       "num": 182458,
       "word": "湖南卫视重映花千骨",
@@ -6841,6 +6937,14 @@
       "onboard_time": 1747749442,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176731,
+      "num": 176731,
+      "word": "折腰史上下线最快的反派",
+      "onboard_time": 1747818984,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 176699,
@@ -7251,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167286,
+      "num": 167286,
+      "word": "郭俊辰圈内人缘",
+      "onboard_time": 1747819402,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167112,
       "num": 167112,
       "word": "精致的年轻人是如何上厕所的",
@@ -7649,6 +7761,14 @@
       "onboard_time": 1747752624,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159743,
+      "num": 159743,
+      "word": "林诗栋蒯曼1比3吉村真晴大藤沙月",
+      "onboard_time": 1747818144,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 159597,
@@ -8124,7 +8244,7 @@
     },
     {
       "raw_hot": 152390,
-      "num": 152390,
+      "num": 240519,
       "word": "美国企图全球禁用中国先进计算芯片",
       "onboard_time": 1747799489,
       "rank": 40,
@@ -8537,14 +8657,6 @@
       "onboard_time": 1747495347,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144675,
-      "num": 144675,
-      "word": "辛柏青发博的时间",
-      "onboard_time": 1747817184,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 144550,
@@ -10963,6 +11075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98660,
+      "num": 247787,
+      "word": "吉村真晴泪洒赛场",
+      "onboard_time": 1747818925,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98422,
       "num": 98422,
       "word": "solo选边TheShy对战ON",
@@ -12011,6 +12131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75168,
+      "num": 247074,
+      "word": "59岁保洁大爷擦玻璃时猝死",
+      "onboard_time": 1747818863,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74769,
       "num": 74769,
       "word": "克拉克揭幕战三双",
@@ -12651,6 +12779,22 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 59575,
+      "num": 248230,
+      "word": "五月已经折磨了我21天",
+      "onboard_time": 1747819223,
+      "rank": 24,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 59298,
+      "num": 245555,
+      "word": "外卖平台回应四川外卖员无需健康证",
+      "onboard_time": 1747817784,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59174,
       "num": 59174,
       "word": "许嵩演唱会被惊喜庆生的反应",
@@ -12979,6 +13123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52514,
+      "num": 250895,
+      "word": "小孩玩手机被骗子控屏盗刷61笔钱",
+      "onboard_time": 1747818564,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 52460,
       "num": 1055565,
       "word": "中国经济延续向新向好发展态势",
@@ -13041,6 +13193,14 @@
       "onboard_time": 1747646364,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50215,
+      "num": 246481,
+      "word": "摸腿拘10天是玩笑还是警告",
+      "onboard_time": 1747818503,
+      "rank": 28,
+      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 50197,
@@ -13411,6 +13571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43509,
+      "num": 245790,
+      "word": "大学生化粪池身亡谁来负责",
+      "onboard_time": 1747818261,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43252,
       "num": 128983,
       "word": "外贸企业发货订单排到7月",
@@ -13459,6 +13627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42239,
+      "num": 247630,
+      "word": "愿天堂没有鸡娃",
+      "onboard_time": 1747818925,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42229,
       "num": 234233,
       "word": "迈阿密国际0比3奥兰多城",
@@ -13473,14 +13649,6 @@
       "onboard_time": 1747559481,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41980,
-      "num": 232852,
-      "word": "同行者回忆男生坠化粪池瞬间",
-      "onboard_time": 1747817002,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41291,
@@ -13841,6 +14009,14 @@
       "onboard_time": 1747728981,
       "rank": 16,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 34745,
+      "num": 202247,
+      "word": "大学的化粪池怎么会让人掉下去",
+      "onboard_time": 1747818144,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34275,
@@ -14236,7 +14412,7 @@
     },
     {
       "raw_hot": 27786,
-      "num": 872720,
+      "num": 1183056,
       "word": "北京范儿",
       "onboard_time": 1747730363,
       "rank": 2,
@@ -14305,6 +14481,14 @@
       "onboard_time": 1747728562,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 26840,
+      "num": 203289,
+      "word": "风堇在西风的尽头再见",
+      "onboard_time": 1747818564,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 26834,
@@ -14441,6 +14625,14 @@
       "onboard_time": 1747717285,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25491,
+      "num": 252257,
+      "word": "亲子流量账号营销乱象频出",
+      "onboard_time": 1747819523,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25147,
@@ -15073,6 +15265,14 @@
       "onboard_time": 1747557261,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17252,
+      "num": 251604,
+      "word": "补气血的黄芪蒸蛋适合哪类人群吃",
+      "onboard_time": 1747819043,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17203,
