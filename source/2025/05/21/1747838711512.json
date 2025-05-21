@@ -1,0 +1,410 @@
+{
+  "runTime": 1747838711512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256181,
+        "num": 1256181,
+        "word": "肖战升没升咖不知道 我升了",
+        "onboard_time": 1747832725,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 793767,
+        "num": 793767,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4848,
+        "num": 631957,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1048647,
+        "num": 613529,
+        "word": "辛柏青2秒停顿藏着催泪暴击",
+        "onboard_time": 1747835304,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572320,
+        "num": 572320,
+        "word": "父亲卖5套房送两儿子留洋学球",
+        "onboard_time": 1747836205,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533346,
+        "num": 533346,
+        "word": "网友调侃12楼坠落女子生还老公很失望",
+        "onboard_time": 1747834823,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735417,
+        "num": 518592,
+        "word": "鬼鬼晒女儿",
+        "onboard_time": 1747831644,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421135,
+        "num": 421135,
+        "word": "现在和朋友聊天已经不敢诉苦了",
+        "onboard_time": 1747830083,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554627,
+        "num": 382425,
+        "word": "辛柏青用一袋洗衣粉追求朱媛媛",
+        "onboard_time": 1747837106,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328988,
+        "num": 328988,
+        "word": "以军向外交使团开火",
+        "onboard_time": 1747835604,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 843834,
+        "num": 328070,
+        "word": "坠化粪池遇难男生在母亲节偷偷送包",
+        "onboard_time": 1747833744,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557447,
+        "num": 324540,
+        "word": "马嘉祺歌手 一了百了",
+        "onboard_time": 1747831463,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484016,
+        "num": 320262,
+        "word": "韩安冉女儿要做手术",
+        "onboard_time": 1747832003,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462916,
+        "num": 314712,
+        "word": "李乃文换蜡烛头像",
+        "onboard_time": 1747832844,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79026,
+        "num": 311882,
+        "word": "全球品牌中国线上500强发布",
+        "onboard_time": 1747836085,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404444,
+        "num": 307508,
+        "word": "谢谢郑晓龙导演",
+        "onboard_time": 1747836746,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359344,
+        "num": 304570,
+        "word": "歌手彩排",
+        "onboard_time": 1747834104,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302372,
+        "num": 302372,
+        "word": "赴山海剧方律所曾代理姜广涛案件",
+        "onboard_time": 1747831766,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54833,
+        "num": 300978,
+        "word": "冒充老中医在线问诊诈骗超100万",
+        "onboard_time": 1747837885,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26134,
+        "num": 300327,
+        "word": "在职场中要无偿分享自己的经验吗",
+        "onboard_time": 1747837885,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 412987,
+        "num": 300320,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 300245,
+        "num": 300245,
+        "word": "陶虹发长文缅怀朱媛媛",
+        "onboard_time": 1747835904,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 292277,
+        "word": "林诗栋vs卡尔森",
+        "onboard_time": 1747832185,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1193322,
+        "num": 292090,
+        "word": "倪萍千字长文悼念朱媛媛",
+        "onboard_time": 1747836205,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275729,
+        "num": 275729,
+        "word": "林诗栋发球被判遮挡",
+        "onboard_time": 1747838245,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255607,
+        "num": 255607,
+        "word": "刘宇宁直播",
+        "onboard_time": 1747831524,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60284,
+        "num": 236224,
+        "word": "库拉和漾离职",
+        "onboard_time": 1747835244,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 231279,
+        "word": "520这两天的拿外卖的难度belike",
+        "onboard_time": 1747837885,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 68975,
+        "num": 228820,
+        "word": "当孩子拿起手机我们在担心什么",
+        "onboard_time": 1747837765,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227963,
+        "num": 227963,
+        "word": "孙颖莎说别动我的餐盘",
+        "onboard_time": 1747829362,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213992,
+        "num": 213992,
+        "word": "遭摩的司机性侵女孩家属称孩子已转学",
+        "onboard_time": 1747836264,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209814,
+        "num": 209814,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201999,
+        "num": 201999,
+        "word": "上海孤老去世留下房产邻居要求分一半",
+        "onboard_time": 1747837405,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193749,
+        "num": 193749,
+        "word": "骨转移的疼痛是难以忍受的",
+        "onboard_time": 1747836985,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185202,
+        "num": 185202,
+        "word": "国乒双打三项都失去双保险",
+        "onboard_time": 1747821922,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177225,
+        "num": 177225,
+        "word": "蛮蛮一劭表白了",
+        "onboard_time": 1747836623,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175014,
+        "num": 175014,
+        "word": "进去vip 出来svip",
+        "onboard_time": 1747832725,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173068,
+        "num": 173068,
+        "word": "肖战洗澡戏",
+        "onboard_time": 1747828104,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172652,
+        "num": 172652,
+        "word": "秦海璐获梅花奖的含金量",
+        "onboard_time": 1747838126,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167580,
+        "num": 167580,
+        "word": "林诗栋11比1卡尔森",
+        "onboard_time": 1747836985,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167286,
+        "num": 167286,
+        "word": "赴山海剧方维权",
+        "onboard_time": 1747809022,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158017,
+        "num": 158017,
+        "word": "巴基斯坦警告印度我们不是巴勒斯坦",
+        "onboard_time": 1747838305,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 155624,
+        "word": "林诗栋4比1晋级男单16强",
+        "onboard_time": 1747838065,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151225,
+        "num": 151225,
+        "word": "BLG战胜iG",
+        "onboard_time": 1747838665,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150405,
+        "num": 150405,
+        "word": "以军道歉",
+        "onboard_time": 1747837706,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "马嘉祺 我经过风暴",
+        "onboard_time": 1747838546,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140933,
+        "num": 140933,
+        "word": "警方回应围棋少年离世",
+        "onboard_time": 1747837525,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140054,
+        "num": 140054,
+        "word": "加沙大量儿童来不及长大",
+        "onboard_time": 1747836205,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138676,
+        "num": 138676,
+        "word": "李现被魏大勋逗成翘嘴了",
+        "onboard_time": 1747836386,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133486,
+        "num": 133486,
+        "word": "刘诗诗今年2月转让股份给吴奇隆",
+        "onboard_time": 1747830683,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看四大石窟#"
+    }
+  }
+}
