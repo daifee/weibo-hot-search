@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747852544227,
+  "endTime": 1747853355363,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -513,6 +513,30 @@
       "onboard_time": 1747851617,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21730,
+      "num": 26675,
+      "word": "时间之子上海首映礼",
+      "onboard_time": 1747852575,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 21019,
+      "num": 26674,
+      "word": "马嘉祺落地彩排",
+      "onboard_time": 1747852575,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13001,
+      "num": 51818,
+      "word": "坠楼生还女子称老公一直在筹集医药费",
+      "onboard_time": 1747852935,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
