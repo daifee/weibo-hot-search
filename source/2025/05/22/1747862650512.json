@@ -1,0 +1,410 @@
+{
+  "runTime": 1747862650512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 211882,
+        "num": 211882,
+        "word": "男子生殖器被切割机切断后成功接回",
+        "onboard_time": 1747857913,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87917,
+        "num": 87917,
+        "word": "朱媛媛患病后一直希望奇迹出现",
+        "onboard_time": 1747838906,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9856,
+        "num": 78061,
+        "word": "民营经济促进法施行释放三大信号",
+        "onboard_time": 1747833503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73146,
+        "num": 73146,
+        "word": "袁爷爷吴爷爷离开4年了",
+        "onboard_time": 1747845680,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57852,
+        "num": 57852,
+        "word": "父亲卖5套房送两儿子留洋学球",
+        "onboard_time": 1747836205,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48035,
+        "num": 48035,
+        "word": "以军道歉",
+        "onboard_time": 1747837706,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79693,
+        "num": 47981,
+        "word": "朱媛媛丧事办得很简单",
+        "onboard_time": 1747843881,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77087,
+        "num": 47923,
+        "word": "辛柏青2秒停顿藏着催泪暴击",
+        "onboard_time": 1747835304,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47758,
+        "num": 47758,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47518,
+        "num": 47518,
+        "word": "进去vip 出来svip",
+        "onboard_time": 1747832725,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46670,
+        "num": 46670,
+        "word": "为什么说抗癌5年是个坎儿",
+        "onboard_time": 1747844480,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42850,
+        "num": 42850,
+        "word": "张凌赫首次戛纳红毯造型",
+        "onboard_time": 1747844181,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42079,
+        "num": 42079,
+        "word": "网友调侃12楼坠落女子生还老公很失望",
+        "onboard_time": 1747834823,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39439,
+        "num": 39439,
+        "word": "上海孤老去世留下房产邻居要求分一半",
+        "onboard_time": 1747837405,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39006,
+        "num": 39006,
+        "word": "王曼昱VS韩莹",
+        "onboard_time": 1747842623,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38610,
+        "num": 38610,
+        "word": "刘宇宁回应折腰结局有人死吗",
+        "onboard_time": 1747844121,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37619,
+        "num": 37619,
+        "word": "坠化粪池遇难男生在母亲节偷偷送包",
+        "onboard_time": 1747833744,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36811,
+        "num": 36811,
+        "word": "肖战升没升咖不知道 我升了",
+        "onboard_time": 1747832725,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35397,
+        "num": 35397,
+        "word": "国字脸猴子大壮去世",
+        "onboard_time": 1747839205,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31556,
+        "num": 31556,
+        "word": "脱口秀冒犯的艺术不是咸猪手的借口",
+        "onboard_time": 1747843223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28748,
+        "num": 28748,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 26246,
+        "num": 26246,
+        "word": "以军向外交使团开火",
+        "onboard_time": 1747835604,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26032,
+        "num": 26032,
+        "word": "韩安冉女儿要做手术",
+        "onboard_time": 1747832003,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25293,
+        "num": 25293,
+        "word": "巴基斯坦警告印度我们不是巴勒斯坦",
+        "onboard_time": 1747838305,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24900,
+        "num": 24900,
+        "word": "董明珠孟羽童官宣直播",
+        "onboard_time": 1747848378,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 23061,
+        "num": 23061,
+        "word": "谢谢郑晓龙导演",
+        "onboard_time": 1747836746,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22771,
+        "num": 22771,
+        "word": "李乃文换蜡烛头像",
+        "onboard_time": 1747832844,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22703,
+        "num": 22703,
+        "word": "林高远林诗栋vs张禹珍赵大成",
+        "onboard_time": 1747842563,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20713,
+        "num": 20713,
+        "word": "警方回应围棋少年离世",
+        "onboard_time": 1747837525,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20518,
+        "num": 20518,
+        "word": "现在和朋友聊天已经不敢诉苦了",
+        "onboard_time": 1747830083,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20386,
+        "num": 20386,
+        "word": "遭摩的司机性侵女孩家属称孩子已转学",
+        "onboard_time": 1747836264,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20323,
+        "num": 20323,
+        "word": "鬼鬼晒女儿",
+        "onboard_time": 1747831644,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20237,
+        "num": 20237,
+        "word": "孙颖莎谈混双对阵日本组合",
+        "onboard_time": 1747843282,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19309,
+        "num": 20233,
+        "word": "林高远林诗栋3比0张禹珍赵大成",
+        "onboard_time": 1747850656,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18337,
+        "num": 20231,
+        "word": "让孟子义这个新疆当地人讲两句",
+        "onboard_time": 1747847237,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18297,
+        "num": 20224,
+        "word": "藏海实在太会下钩子",
+        "onboard_time": 1747844062,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17986,
+        "num": 20222,
+        "word": "陶虹发长文缅怀朱媛媛",
+        "onboard_time": 1747835904,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17958,
+        "num": 20218,
+        "word": "肖战肌肉太绝了",
+        "onboard_time": 1747839205,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16100,
+        "num": 20209,
+        "word": "大鱼海棠具象化了",
+        "onboard_time": 1747857913,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15805,
+        "num": 20208,
+        "word": "朱媛媛小红花妈妈5年抗癌路",
+        "onboard_time": 1747842922,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15014,
+        "num": 20203,
+        "word": "全场为一名9岁盲童鼓掌",
+        "onboard_time": 1747857253,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14940,
+        "num": 20198,
+        "word": "孙颖莎说混双挑战非常大",
+        "onboard_time": 1747860734,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14751,
+        "num": 20194,
+        "word": "敦促美方尽早放弃全球反导系统",
+        "onboard_time": 1747851855,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14179,
+        "num": 20191,
+        "word": "林高远林诗栋VS张禹珍赵大成",
+        "onboard_time": 1747842682,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14104,
+        "num": 20183,
+        "word": "老板就老板 说什么主理人",
+        "onboard_time": 1747856415,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13751,
+        "num": 20181,
+        "word": "坠楼生还女子称老公一直在筹集医药费",
+        "onboard_time": 1747852935,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13672,
+        "num": 20175,
+        "word": "韦雪用男友手机给前夫打电话",
+        "onboard_time": 1747862534,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13394,
+        "num": 20170,
+        "word": "人生小满胜万全",
+        "onboard_time": 1747817302,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13116,
+        "num": 20167,
+        "word": "新兰世纪婚礼",
+        "onboard_time": 1747841124,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13066,
+        "num": 20161,
+        "word": "清华教授谈学生用AI写作业",
+        "onboard_time": 1747857973,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看四大石窟#"
+    }
+  }
+}

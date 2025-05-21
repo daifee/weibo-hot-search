@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747860116981,
+  "endTime": 1747862650512,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211882,
+      "num": 211882,
+      "word": "男子生殖器被切割机切断后成功接回",
+      "onboard_time": 1747857913,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206042,
       "num": 183422,
       "word": "单依纯唱言不由衷",
@@ -177,14 +185,6 @@
       "onboard_time": 1747835604,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 174539,
-      "num": 174539,
-      "word": "男子生殖器被切割机切断后成功接回",
-      "onboard_time": 1747857913,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174233,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 18559,
-      "num": 18559,
+      "num": 20209,
       "word": "大鱼海棠具象化了",
       "onboard_time": 1747857913,
       "rank": 33,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 17481,
-      "num": 17481,
+      "num": 20183,
       "word": "老板就老板 说什么主理人",
       "onboard_time": 1747856415,
       "rank": 37,
@@ -601,6 +601,30 @@
       "onboard_time": 1747857253,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14940,
+      "num": 20198,
+      "word": "孙颖莎说混双挑战非常大",
+      "onboard_time": 1747860734,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13672,
+      "num": 20175,
+      "word": "韦雪用男友手机给前夫打电话",
+      "onboard_time": 1747862534,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 13066,
+      "num": 21118,
+      "word": "清华教授谈学生用AI写作业",
+      "onboard_time": 1747857973,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12642,
@@ -617,14 +641,6 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10565,
-      "num": 21118,
-      "word": "清华教授谈学生用AI写作业",
-      "onboard_time": 1747857973,
-      "rank": 40,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
