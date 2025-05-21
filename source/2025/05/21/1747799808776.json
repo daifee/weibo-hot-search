@@ -1,0 +1,410 @@
+{
+  "runTime": 1747799808776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 20713802,
+        "num": 20713802,
+        "word": "朱媛媛去世",
+        "onboard_time": 1747797022,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652313,
+        "num": 652313,
+        "word": "一男子脱口秀剧场猥亵女演员被拘",
+        "onboard_time": 1747796782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9923,
+        "num": 521696,
+        "word": "北京范儿",
+        "onboard_time": 1747730363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418844,
+        "num": 418844,
+        "word": "韩一男子强奸杀害生母判35年",
+        "onboard_time": 1747799368,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281256,
+        "num": 281256,
+        "word": "马斯克再次强势表态",
+        "onboard_time": 1747791451,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9371943,
+        "num": 9371943,
+        "word": "朱媛媛 抗癌五年",
+        "onboard_time": 1747797325,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874136,
+        "num": 276977,
+        "word": "521",
+        "onboard_time": 1747783100,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861580,
+        "num": 276726,
+        "word": "李凯馨前助理承认恶意剪辑录音",
+        "onboard_time": 1747795641,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270044,
+        "num": 270044,
+        "word": "雷军说YU7有不可替代的魅力",
+        "onboard_time": 1747795641,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265869,
+        "num": 265869,
+        "word": "小得盈满胜万全",
+        "onboard_time": 1747789652,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911417,
+        "num": 265828,
+        "word": "女子坠楼向丈夫喊我还没死快打120",
+        "onboard_time": 1747796361,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594289,
+        "num": 265604,
+        "word": "小别离",
+        "onboard_time": 1747799069,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627841,
+        "num": 265405,
+        "word": "李凯馨前助理道歉",
+        "onboard_time": 1747795522,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563962,
+        "num": 265276,
+        "word": "杨紫高原女警造型",
+        "onboard_time": 1747795882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504606,
+        "num": 265129,
+        "word": "赵磊站姐被拦在婚礼门外",
+        "onboard_time": 1747794981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356489,
+        "num": 265031,
+        "word": "戛纳迎来张子枫易烊千玺两位00后",
+        "onboard_time": 1747795941,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56182,
+        "num": 264768,
+        "word": "满分的爱是怎样的",
+        "onboard_time": 1747796720,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36770,
+        "num": 264586,
+        "word": "从中医角度看怎样吃西瓜更解暑",
+        "onboard_time": 1747799189,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26017,
+        "num": 264552,
+        "word": "小满节气有哪些传统习俗和养生习惯",
+        "onboard_time": 1747798351,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153779,
+        "num": 264421,
+        "word": "有labubu娃衣卖家可年入百万",
+        "onboard_time": 1747798470,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79308,
+        "num": 264193,
+        "word": "耿爽让央视记者好好挖掘美好寓意",
+        "onboard_time": 1747791270,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339484,
+        "num": 264059,
+        "word": "黄杨钿甜艺考成绩被网友质疑有水分",
+        "onboard_time": 1747754665,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336246,
+        "num": 263932,
+        "word": "赴山海",
+        "onboard_time": 1747797325,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335038,
+        "num": 263758,
+        "word": "生命树海报",
+        "onboard_time": 1747794859,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31356,
+        "num": 263600,
+        "word": "生活中的无意识控糖形式都有哪些",
+        "onboard_time": 1747797446,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324872,
+        "num": 263341,
+        "word": "顶着18岁的脸干着28岁的事",
+        "onboard_time": 1747797264,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169517,
+        "num": 263246,
+        "word": "早知道有NAS就不换手机了",
+        "onboard_time": 1747798768,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297934,
+        "num": 263067,
+        "word": "刘亦菲第二场晚宴造型",
+        "onboard_time": 1747798648,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88992,
+        "num": 262922,
+        "word": "孙颖莎正反手丝滑切换进攻",
+        "onboard_time": 1747799128,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290073,
+        "num": 262745,
+        "word": "郭富城没否认三胎",
+        "onboard_time": 1747799309,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367582,
+        "num": 262640,
+        "word": "黄金突然直拉",
+        "onboard_time": 1747799727,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279939,
+        "num": 262406,
+        "word": "日本女高被迫卖淫10天接待100人",
+        "onboard_time": 1747740442,
+        "rank": 31,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 139375,
+        "num": 262278,
+        "word": "高茨称王楚钦是夺冠热门",
+        "onboard_time": 1747798829,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262179,
+        "num": 262179,
+        "word": "杨肸子柯淳吻戏路透",
+        "onboard_time": 1747785382,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252786,
+        "num": 252786,
+        "word": "以色列",
+        "onboard_time": 1747789711,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121706,
+        "num": 252689,
+        "word": "中国球迷在西班牙遭种族歧视后续",
+        "onboard_time": 1747796602,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252634,
+        "num": 252634,
+        "word": "在招聘软件找不到工作是正常的",
+        "onboard_time": 1747784780,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49397,
+        "num": 245675,
+        "word": "吉林童话听完了得烧香",
+        "onboard_time": 1747799489,
+        "rank": 37,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 72609,
+        "num": 244368,
+        "word": "京东发烧惊喜日拍品曝光",
+        "onboard_time": 1747796661,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146932,
+        "num": 243536,
+        "word": "李梦回应演戏很较真",
+        "onboard_time": 1747797866,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243424,
+        "num": 243424,
+        "word": "马嘉祺出发参加歌手",
+        "onboard_time": 1747798890,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238566,
+        "num": 238566,
+        "word": "四川外卖员将无需健康证",
+        "onboard_time": 1747797929,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220167,
+        "num": 220167,
+        "word": "造城者",
+        "onboard_time": 1747798110,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180020,
+        "num": 180020,
+        "word": "杨紫敬礼镜头",
+        "onboard_time": 1747798528,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179076,
+        "num": 179076,
+        "word": "中餐厅录制",
+        "onboard_time": 1747795941,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176697,
+        "num": 176697,
+        "word": "巴萨就中国球迷遭种族歧视道歉",
+        "onboard_time": 1747798048,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 170111,
+        "word": "孙颖莎林诗栋等今日出战",
+        "onboard_time": 1747798709,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165062,
+        "num": 165062,
+        "word": "张艺兴悬念海报毫无悬念",
+        "onboard_time": 1747799788,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163282,
+        "num": 163282,
+        "word": "HYBE招入闵熙珍接班人",
+        "onboard_time": 1747799607,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161322,
+        "num": 161322,
+        "word": "小满",
+        "onboard_time": 1747783580,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#现代制造业离不开科技赋能#"
+    }
+  }
+}
