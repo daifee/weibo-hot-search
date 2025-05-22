@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747949928732,
+  "endTime": 1747952731496,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1715710,
-      "num": 492696,
+      "num": 1123073,
       "word": "赵丽颖回应",
       "onboard_time": 1747927586,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 196521,
+      "num": 196521,
+      "word": "孙颖莎4比2申裕斌",
+      "onboard_time": 1747938316,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195757,
       "num": 195757,
       "word": "雷军说小米YU7不可能19.9万",
@@ -225,14 +233,6 @@
       "onboard_time": 1747926271,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160100,
-      "num": 160100,
-      "word": "孙颖莎4比2申裕斌",
-      "onboard_time": 1747938316,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 157975,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113777,
+      "num": 85856,
+      "word": "易烊千玺戛纳排面",
+      "onboard_time": 1747945815,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112865,
       "num": 112865,
       "word": "藏海好疯批的笑声",
@@ -475,6 +483,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74371,
+      "num": 62549,
+      "word": "藏海传云合",
+      "onboard_time": 1747934358,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70426,
+      "num": 70426,
+      "word": "枪杀以使馆工作人员的嫌疑人被捕",
+      "onboard_time": 1747943354,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68561,
       "num": 92140,
       "word": "莫德里奇宣布离开皇马",
@@ -483,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62549,
-      "num": 62549,
-      "word": "藏海传云合",
-      "onboard_time": 1747934358,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 66552,
+      "num": 66552,
+      "word": "国乒男双50年来首次无缘4强",
+      "onboard_time": 1747920625,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64873,
+      "num": 56031,
+      "word": "孙颖莎真是大心脏",
+      "onboard_time": 1747942815,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 61099,
@@ -499,20 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57683,
-      "num": 57683,
-      "word": "国乒男双50年来首次无缘4强",
-      "onboard_time": 1747920625,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 57218,
-      "num": 57218,
-      "word": "枪杀以使馆工作人员的嫌疑人被捕",
-      "onboard_time": 1747943354,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 50636,
+      "num": 50636,
+      "word": "折腰 少年夫妻",
+      "onboard_time": 1747949835,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 50319,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49034,
+      "num": 49034,
+      "word": "谁家男主跑得跟大扑棱蛾子一样啊",
+      "onboard_time": 1747950855,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46190,
       "num": 46190,
       "word": "业内称小米芯片团队竞争力很强",
@@ -539,28 +571,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 44917,
-      "num": 44917,
-      "word": "易烊千玺戛纳排面",
-      "onboard_time": 1747945815,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 44302,
       "num": 49676,
       "word": "种地吧",
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40878,
-      "num": 32570,
-      "word": "孙颖莎真是大心脏",
-      "onboard_time": 1747942815,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 39987,
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34225,
+      "num": 34225,
+      "word": "美股美债又崩了",
+      "onboard_time": 1747944134,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31855,
       "num": 40577,
       "word": "林诗栋12比10卡尔伯格",
@@ -592,6 +616,14 @@
       "word": "林诗栋晋级世乒赛八强",
       "onboard_time": 1747938017,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31007,
+      "num": 31007,
+      "word": "王楚钦八强战对阵林昀儒",
+      "onboard_time": 1747942815,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 25844,
-      "num": 25844,
+      "num": 29307,
       "word": "黄杨钿甜父亲",
       "onboard_time": 1747942394,
       "rank": 31,
@@ -627,20 +659,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23941,
-      "num": 23941,
-      "word": "王楚钦八强战对阵林昀儒",
-      "onboard_time": 1747942815,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 25051,
+      "num": 29315,
+      "word": "王珞丹一下就推开了尹正",
+      "onboard_time": 1747952235,
+      "rank": 44,
+      "category": "综艺"
     },
     {
-      "raw_hot": 23532,
-      "num": 23532,
-      "word": "美股美债又崩了",
-      "onboard_time": 1747944134,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 23379,
+      "num": 57391,
+      "word": "明星小象申申去世",
+      "onboard_time": 1747939334,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21353,
@@ -651,16 +683,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21264,
-      "num": 57391,
-      "word": "明星小象申申去世",
-      "onboard_time": 1747939334,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20876,
-      "num": 20876,
+      "raw_hot": 21299,
+      "num": 29269,
       "word": "狂野时代戛纳首映",
       "onboard_time": 1747943534,
       "rank": 32,
@@ -681,14 +705,6 @@
       "onboard_time": 1747940655,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16476,
-      "num": 16476,
-      "word": "折腰 少年夫妻",
-      "onboard_time": 1747949835,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 15038,

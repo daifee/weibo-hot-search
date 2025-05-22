@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747949928732,
+  "endTime": 1747952731496,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 2730855,
-      "num": 932289,
+      "num": 1123073,
       "word": "赵丽颖回应",
       "onboard_time": 1747927586,
       "rank": 6,
@@ -31635,6 +31635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196521,
+      "num": 196521,
+      "word": "孙颖莎4比2申裕斌",
+      "onboard_time": 1747938316,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196491,
       "num": 196491,
       "word": "知情人回应28岁准新郎食物中毒身亡",
@@ -42769,14 +42777,6 @@
       "onboard_time": 1747223362,
       "rank": 32,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 160100,
-      "num": 160100,
-      "word": "孙颖莎4比2申裕斌",
-      "onboard_time": 1747938316,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 160085,
@@ -59395,6 +59395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113777,
+      "num": 85856,
+      "word": "易烊千玺戛纳排面",
+      "onboard_time": 1747945815,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113776,
       "num": 228513,
       "word": "孙颖莎多哈第一天上训",
@@ -68283,6 +68291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74371,
+      "num": 62549,
+      "word": "藏海传云合",
+      "onboard_time": 1747934358,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74262,
       "num": 74262,
       "word": "全红婵手速第一名",
@@ -69129,6 +69145,14 @@
       "onboard_time": 1746504863,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70426,
+      "num": 70426,
+      "word": "枪杀以使馆工作人员的嫌疑人被捕",
+      "onboard_time": 1747943354,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70393,
@@ -70099,6 +70123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 64873,
+      "num": 56031,
+      "word": "孙颖莎真是大心脏",
+      "onboard_time": 1747942815,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64831,
       "num": 203951,
       "word": "男子实名举报村支书两度殴打其父",
@@ -70593,14 +70625,6 @@
       "onboard_time": 1746747380,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62549,
-      "num": 62549,
-      "word": "藏海传云合",
-      "onboard_time": 1747934358,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 62412,
@@ -71761,14 +71785,6 @@
       "onboard_time": 1746128175,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57218,
-      "num": 57218,
-      "word": "枪杀以使馆工作人员的嫌疑人被捕",
-      "onboard_time": 1747943354,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57195,
@@ -73099,6 +73115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50636,
+      "num": 50636,
+      "word": "折腰 少年夫妻",
+      "onboard_time": 1747949835,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50592,
       "num": 151700,
       "word": "名侦探柯南联动碟中谍",
@@ -73521,6 +73545,14 @@
       "onboard_time": 1747058124,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 49034,
+      "num": 49034,
+      "word": "谁家男主跑得跟大扑棱蛾子一样啊",
+      "onboard_time": 1747950855,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 48954,
@@ -74553,14 +74585,6 @@
       "onboard_time": 1747229302,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44917,
-      "num": 44917,
-      "word": "易烊千玺戛纳排面",
-      "onboard_time": 1747945815,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 44905,
@@ -75721,14 +75745,6 @@
       "onboard_time": 1747629985,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40878,
-      "num": 32570,
-      "word": "孙颖莎真是大心脏",
-      "onboard_time": 1747942815,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 40809,
@@ -77539,6 +77555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 34225,
+      "num": 34225,
+      "word": "美股美债又崩了",
+      "onboard_time": 1747944134,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34204,
       "num": 205245,
       "word": "刺五加注射液",
@@ -78561,6 +78585,14 @@
       "onboard_time": 1746667590,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31007,
+      "num": 31007,
+      "word": "王楚钦八强战对阵林昀儒",
+      "onboard_time": 1747942815,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 30962,
@@ -80220,7 +80252,7 @@
     },
     {
       "raw_hot": 25844,
-      "num": 25844,
+      "num": 29307,
       "word": "黄杨钿甜父亲",
       "onboard_time": 1747942394,
       "rank": 31,
@@ -80537,6 +80569,14 @@
       "onboard_time": 1747765036,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25051,
+      "num": 29315,
+      "word": "王珞丹一下就推开了尹正",
+      "onboard_time": 1747952235,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 25030,
@@ -81003,14 +81043,6 @@
       "category": "议题讨论,民生新闻"
     },
     {
-      "raw_hot": 23941,
-      "num": 23941,
-      "word": "王楚钦八强战对阵林昀儒",
-      "onboard_time": 1747942815,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23915,
       "num": 890352,
       "word": "网警藏蓝青春键指河山",
@@ -81147,14 +81179,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 23532,
-      "num": 23532,
-      "word": "美股美债又崩了",
-      "onboard_time": 1747944134,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23486,
       "num": 189701,
       "word": "印媒舆论战未忽悠到西方媒体",
@@ -81217,6 +81241,14 @@
       "onboard_time": 1747307782,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23379,
+      "num": 57391,
+      "word": "明星小象申申去世",
+      "onboard_time": 1747939334,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23374,
@@ -82035,6 +82067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 21299,
+      "num": 29269,
+      "word": "狂野时代戛纳首映",
+      "onboard_time": 1747943534,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21298,
       "num": 254265,
       "word": "消费者如何辨别鸡蛋是否兽药超标",
@@ -82065,14 +82105,6 @@
       "onboard_time": 1747893442,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21264,
-      "num": 57391,
-      "word": "明星小象申申去世",
-      "onboard_time": 1747939334,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21211,
@@ -82177,14 +82209,6 @@
       "onboard_time": 1747458211,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20876,
-      "num": 20876,
-      "word": "狂野时代戛纳首映",
-      "onboard_time": 1747943534,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 20843,
@@ -84009,14 +84033,6 @@
       "onboard_time": 1747466241,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16476,
-      "num": 16476,
-      "word": "折腰 少年夫妻",
-      "onboard_time": 1747949835,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 16460,
