@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747892582896,
+  "endTime": 1747895785044,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -255,6 +255,14 @@
       "num": 1986633,
       "word": "朱媛媛患病后一直希望奇迹出现",
       "onboard_time": 1747838906,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1939047,
+      "num": 1939047,
+      "word": "林峯老婆被爆520晒网图P掉商家logo",
+      "onboard_time": 1747894102,
       "rank": 0,
       "category": "艺人"
     },
@@ -1731,6 +1739,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 679907,
+      "num": 392252,
+      "word": "刘敏涛含泪送别朱媛媛",
+      "onboard_time": 1747894462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677941,
       "num": 623881,
       "word": "魏大勋刘美含 初恋CP",
@@ -1939,6 +1955,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 620400,
+      "num": 620400,
+      "word": "教育部拟同意设置32所新大学",
+      "onboard_time": 1747893742,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 618739,
       "num": 352553,
       "word": "王俊凯工作室",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1747882041,
       "rank": 3,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 578792,
+      "num": 578792,
+      "word": "活期存款已近0利率",
+      "onboard_time": 1747889605,
+      "rank": 39,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 576277,
@@ -2433,6 +2465,14 @@
       "onboard_time": 1747624643,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512587,
+      "num": 512587,
+      "word": "于正想找肖战拍戏",
+      "onboard_time": 1747893322,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 506684,
@@ -2835,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440746,
+      "num": 440746,
+      "word": "NCTDREAM 不续约",
+      "onboard_time": 1747894941,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440147,
       "num": 354744,
       "word": "周冬雨张凌赫G社生图",
@@ -3017,6 +3065,14 @@
       "onboard_time": 1747712241,
       "rank": 31,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 414436,
+      "num": 414436,
+      "word": "朝鲜为何罕见公布驱逐舰严重事故",
+      "onboard_time": 1747891642,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 414140,
@@ -3272,6 +3328,14 @@
       "word": "藏海传热度",
       "onboard_time": 1747573341,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 375481,
+      "num": 375481,
+      "word": "肖战身上痒就去洗澡",
+      "onboard_time": 1747894462,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -3545,6 +3609,14 @@
       "onboard_time": 1747753524,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346902,
+      "num": 346902,
+      "word": "雷军称YU7不会公布正式价钱",
+      "onboard_time": 1747890264,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 346848,
@@ -4283,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286891,
+      "num": 286891,
+      "word": "火彩",
+      "onboard_time": 1747891344,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286642,
       "num": 286642,
       "word": "中医院中药液里被指含管制类西药",
@@ -4425,14 +4505,6 @@
       "onboard_time": 1747832725,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276017,
-      "num": 261510,
-      "word": "火彩",
-      "onboard_time": 1747891344,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 275748,
@@ -4755,6 +4827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255781,
+      "num": 255781,
+      "word": "高校通报学生女厕偷拍被当场抓获",
+      "onboard_time": 1747892541,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 254828,
       "num": 254828,
       "word": "好女人才是真正的不流通",
@@ -4769,6 +4849,14 @@
       "onboard_time": 1747630767,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253551,
+      "num": 593342,
+      "word": "花17万买车后车企倒闭车辆裸奔上路",
+      "onboard_time": 1747884023,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 253329,
@@ -4969,14 +5057,6 @@
       "onboard_time": 1747671739,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244049,
-      "num": 244049,
-      "word": "雷军称YU7不会公布正式价钱",
-      "onboard_time": 1747890264,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 243751,
@@ -5443,14 +5523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225822,
-      "num": 593342,
-      "word": "花17万买车后车企倒闭车辆裸奔上路",
-      "onboard_time": 1747884023,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 225686,
       "num": 225686,
       "word": "idle新专辑发布会",
@@ -5497,6 +5569,14 @@
       "onboard_time": 1747818744,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 223594,
+      "num": 264316,
+      "word": "吴彦祖回应收手吧阿祖网络爆火",
+      "onboard_time": 1747891822,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 223541,
@@ -6057,6 +6137,14 @@
       "onboard_time": 1747822763,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209906,
+      "num": 209906,
+      "word": "出现4种异常提示该查妇科了",
+      "onboard_time": 1747893322,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209587,
@@ -7035,14 +7123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194482,
-      "num": 194482,
-      "word": "活期存款已近0利率",
-      "onboard_time": 1747889605,
-      "rank": 39,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 194351,
       "num": 246850,
       "word": "跑男团cha了时代少年团新歌",
@@ -7409,6 +7489,14 @@
       "onboard_time": 1747667485,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190408,
+      "num": 190408,
+      "word": "临榆炸鸡腿真香",
+      "onboard_time": 1747895301,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 190368,
@@ -9075,6 +9163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163234,
+      "num": 163234,
+      "word": "皮筋猴 你们这群神经病",
+      "onboard_time": 1747893021,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163160,
       "num": 149208,
       "word": "肖战藏海传见面会生图",
@@ -10099,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151093,
+      "num": 151093,
+      "word": "方灿训粉",
+      "onboard_time": 1747893983,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150912,
       "num": 199919,
       "word": "减重医生教你大体重减肥操",
@@ -10305,14 +10409,6 @@
       "onboard_time": 1747645344,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147826,
-      "num": 147826,
-      "word": "高校通报学生女厕偷拍被当场抓获",
-      "onboard_time": 1747892541,
-      "rank": 46,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 147594,
@@ -10763,6 +10859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141164,
+      "num": 141164,
+      "word": "江西一高校学生偷拍被开除学籍",
+      "onboard_time": 1747893742,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 141145,
       "num": 141145,
       "word": "张康乐直播",
@@ -10889,6 +10993,14 @@
       "onboard_time": 1747732643,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139637,
+      "num": 183944,
+      "word": "潘展乐汪顺孙杨携手冲冠",
+      "onboard_time": 1747895541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139622,
@@ -12003,6 +12115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124533,
+      "num": 124533,
+      "word": "日本的武器自动化非常高",
+      "onboard_time": 1747892242,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124441,
       "num": 124441,
       "word": "啵啵你怎么在这里",
@@ -12145,6 +12265,14 @@
       "onboard_time": 1747629625,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121784,
+      "num": 121784,
+      "word": "乡镇初中生因小官巨贪校长吃不饱",
+      "onboard_time": 1747895002,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121512,
@@ -12859,6 +12987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109799,
+      "num": 220523,
+      "word": "拔完智齿坐飞机伤口爆了",
+      "onboard_time": 1747893861,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109679,
       "num": 109679,
       "word": "鹰眼让发球遮挡无处可遁",
@@ -13121,6 +13257,14 @@
       "onboard_time": 1747494207,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104079,
+      "num": 272042,
+      "word": "特朗普回应以驻美使馆2人遇害",
+      "onboard_time": 1747895182,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103955,
@@ -13465,6 +13609,14 @@
       "onboard_time": 1747826662,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97381,
+      "num": 223463,
+      "word": "南通Hero久竞正式更名",
+      "onboard_time": 1747892721,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 97328,
@@ -14225,6 +14377,14 @@
       "onboard_time": 1747885044,
       "rank": 14,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 84418,
+      "num": 146064,
+      "word": "当汉字回归自然",
+      "onboard_time": 1747895722,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84383,
@@ -16459,6 +16619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43464,
+      "num": 191654,
+      "word": "男子因幼时鞭炮炸伤手指被撤offer",
+      "onboard_time": 1747895662,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43252,
       "num": 128983,
       "word": "外贸企业发货订单排到7月",
@@ -16665,6 +16833,14 @@
       "onboard_time": 1747884084,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40143,
+      "num": 181935,
+      "word": "女童坐车突遭男子飞扑拽落",
+      "onboard_time": 1747894280,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39906,
@@ -16979,6 +17155,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 35213,
+      "num": 248278,
+      "word": "摩根大通整体看好中国股票市场",
+      "onboard_time": 1747892721,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35186,
       "num": 318769,
       "word": "六旬老人举报违建后遭蒙面袭击续",
@@ -17211,6 +17395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 31977,
+      "num": 905076,
+      "word": "中国扩大开放的步伐从未停止",
+      "onboard_time": 1747891942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31942,
       "num": 272204,
       "word": "交通局回应乘客攻击公交车司机",
@@ -17297,14 +17489,6 @@
       "onboard_time": 1747611440,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30242,
-      "num": 264316,
-      "word": "吴彦祖回应收手吧阿祖网络爆火",
-      "onboard_time": 1747891822,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 30215,
@@ -17897,6 +18081,14 @@
       "onboard_time": 1747730123,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 23891,
+      "num": 221064,
+      "word": "特朗普为什么播放争议视频",
+      "onboard_time": 1747895541,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23764,
@@ -18499,14 +18691,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 18250,
-      "num": 766751,
-      "word": "中国扩大开放的步伐从未停止",
-      "onboard_time": 1747891942,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18138,
       "num": 264722,
       "word": "为什么有了歼20还要造歼16",
@@ -18707,6 +18891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16650,
+      "num": 127167,
+      "word": "谷歌IO发布一网打尽",
+      "onboard_time": 1747894762,
+      "rank": 47,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 16596,
       "num": 25576,
       "word": "你的恋爱",
@@ -18777,6 +18969,14 @@
       "onboard_time": 1747726341,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16082,
+      "num": 218751,
+      "word": "吴孟超院士生平有哪些成就",
+      "onboard_time": 1747895423,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15893,
@@ -19235,6 +19435,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 11273,
+      "num": 190468,
+      "word": "冈比亚农民是如何开始种植水稻的",
+      "onboard_time": 1747894641,
+      "rank": 35,
+      "category": ""
+    },
+    {
       "raw_hot": 11262,
       "num": 264430,
       "word": "拉伸操能有效缓解身体疲劳吗",
@@ -19464,6 +19672,14 @@
       "word": "水利工程长期闲置造成哪些资源浪费",
       "onboard_time": 1747819882,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7457,
+      "num": 190654,
+      "word": "潮汕人注重家庭和传统价值观",
+      "onboard_time": 1747895662,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
