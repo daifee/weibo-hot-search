@@ -1,0 +1,410 @@
+{
+  "runTime": 1747891565427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2390988,
+        "num": 2390988,
+        "word": "特朗普突然下令关灯放电视",
+        "onboard_time": 1747889664,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1072891,
+        "num": 1072891,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5700,
+        "num": 784577,
+        "word": "这几组数据透视中国经济含新量",
+        "onboard_time": 1747891462,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725619,
+        "num": 725619,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1747887324,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 676109,
+        "num": 676109,
+        "word": "朱媛媛住院治疗照",
+        "onboard_time": 1747875743,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657552,
+        "num": 657552,
+        "word": "深圳警方通报男子地铁口附近打人",
+        "onboard_time": 1747885101,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 394124,
+        "num": 625884,
+        "word": "惊蛰无声易烊千玺朱一龙双男主",
+        "onboard_time": 1747881861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303213,
+        "num": 625302,
+        "word": "曝信阳一高中强制家长陪餐监考",
+        "onboard_time": 1747884684,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194684,
+        "num": 593342,
+        "word": "花17万买车后车企倒闭车辆裸奔上路",
+        "onboard_time": 1747884023,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71768,
+        "num": 532003,
+        "word": "朝鲜新建驱逐舰重大事故过程披露",
+        "onboard_time": 1747890923,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2560300,
+        "num": 518099,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708731,
+        "num": 479920,
+        "word": "李蠕蠕模仿韩国霸总吃饭",
+        "onboard_time": 1747888164,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465981,
+        "num": 465981,
+        "word": "被亲叔叔侵害7年的男生发声",
+        "onboard_time": 1747885101,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413206,
+        "num": 413206,
+        "word": "包上恩学生时期美得我一激灵",
+        "onboard_time": 1747887024,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353806,
+        "num": 353806,
+        "word": "特朗普与南非总统争吵现场",
+        "onboard_time": 1747883241,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351261,
+        "num": 351261,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 15,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 323385,
+        "num": 323385,
+        "word": "战至巅峰",
+        "onboard_time": 1747888824,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206741,
+        "num": 321438,
+        "word": "樊振东排面拉满",
+        "onboard_time": 1747883783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87597,
+        "num": 308754,
+        "word": "卵巢癌晚期的治疗有哪些难点",
+        "onboard_time": 1747890383,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63473,
+        "num": 299982,
+        "word": "美商务部准备对中国电池材料下手",
+        "onboard_time": 1747890203,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99163,
+        "num": 298929,
+        "word": "张艺兴加盟京东618夏日歌会",
+        "onboard_time": 1747886662,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10678,
+        "num": 289076,
+        "word": "民营经济促进法施行释放三大信号",
+        "onboard_time": 1747833503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335441,
+        "num": 281826,
+        "word": "李昀锐染了金发",
+        "onboard_time": 1747884202,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199024,
+        "num": 273477,
+        "word": "藏海跑姿",
+        "onboard_time": 1747887563,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268148,
+        "num": 268148,
+        "word": "迪丽热巴中世纪宫廷风",
+        "onboard_time": 1747886783,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26331,
+        "num": 262388,
+        "word": "阿莫林加纳乔吵架错在谁",
+        "onboard_time": 1747891282,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47870,
+        "num": 261643,
+        "word": "京东给米粉果粉花粉加餐",
+        "onboard_time": 1747890622,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261456,
+        "num": 261456,
+        "word": "朝鲜新驱逐舰下水时发生严重事故",
+        "onboard_time": 1747875323,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 260553,
+        "word": "美前总统克林顿被曝秘密访韩",
+        "onboard_time": 1747890622,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21776,
+        "num": 260203,
+        "word": "NBA东决比西决精彩吗",
+        "onboard_time": 1747890383,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151751,
+        "num": 259479,
+        "word": "林高远说睡前原谅一切醒来便是重生",
+        "onboard_time": 1747890983,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42624,
+        "num": 257690,
+        "word": "比亚迪4月领跑智驾辅助车型销量榜",
+        "onboard_time": 1747887142,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 257559,
+        "num": 257559,
+        "word": "以驻美使馆两工作人员在华盛顿遇害",
+        "onboard_time": 1747887863,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217984,
+        "num": 217984,
+        "word": "雷军称YU7不会公布正式价钱",
+        "onboard_time": 1747890264,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32227,
+        "num": 207050,
+        "word": "申裕斌回应对战孙颖莎",
+        "onboard_time": 1747891462,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205096,
+        "num": 205096,
+        "word": "王楚钦孙颖莎冲击混双4强",
+        "onboard_time": 1747885822,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197798,
+        "num": 197798,
+        "word": "小米新品发布会雷军讲全场",
+        "onboard_time": 1747890264,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191616,
+        "num": 191616,
+        "word": "田曦薇vlog",
+        "onboard_time": 1747890862,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184046,
+        "num": 184046,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168701,
+        "num": 168701,
+        "word": "活期存款已近0利率",
+        "onboard_time": 1747889605,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 179333,
+        "num": 168605,
+        "word": "火彩",
+        "onboard_time": 1747891344,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168165,
+        "num": 168165,
+        "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
+        "onboard_time": 1747883183,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69408,
+        "num": 160017,
+        "word": "傅盛谈AI时代的用人标准",
+        "onboard_time": 1747891522,
+        "rank": 42,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 156281,
+        "num": 156281,
+        "word": "非洲农民说真想让袁老师看水稻丰收",
+        "onboard_time": 1747887863,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 155923,
+        "num": 155923,
+        "word": "姬如雪出场",
+        "onboard_time": 1747888644,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153823,
+        "num": 153823,
+        "word": "哈利伯顿超级高水平",
+        "onboard_time": 1747890683,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152535,
+        "num": 152535,
+        "word": "壹心05花首登T封面出道",
+        "onboard_time": 1747890264,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147041,
+        "num": 147041,
+        "word": "相亲不可能三角",
+        "onboard_time": 1747890143,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144211,
+        "num": 144211,
+        "word": "藏海传 烧脑",
+        "onboard_time": 1747891522,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142073,
+        "num": 142073,
+        "word": "绘旅人路辰",
+        "onboard_time": 1747890804,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#到河南考察习近平为何再提洋火#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747889186020,
+  "endTime": 1747891565427,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -17,6 +17,14 @@
       "onboard_time": 1747842623,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2390988,
+      "num": 2390988,
+      "word": "特朗普突然下令关灯放电视",
+      "onboard_time": 1747889664,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1731165,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 859909,
-      "num": 493227,
+      "num": 725619,
       "word": "原来iPhone长按这么好用",
       "onboard_time": 1747887324,
       "rank": 30,
@@ -97,6 +105,14 @@
       "onboard_time": 1747871903,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 708731,
+      "num": 479920,
+      "word": "李蠕蠕模仿韩国霸总吃饭",
+      "onboard_time": 1747888164,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 693818,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 637373,
-      "num": 581857,
+      "num": 625884,
       "word": "惊蛰无声易烊千玺朱一龙双男主",
       "onboard_time": 1747881861,
       "rank": 6,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 561770,
-      "num": 561770,
+      "num": 625302,
       "word": "曝信阳一高中强制家长陪餐监考",
       "onboard_time": 1747884684,
       "rank": 18,
@@ -235,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 444607,
-      "num": 444607,
-      "word": "李蠕蠕模仿韩国霸总吃饭",
-      "onboard_time": 1747888164,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 431478,
       "num": 431478,
       "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
@@ -283,20 +291,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 413206,
+      "num": 413206,
+      "word": "包上恩学生时期美得我一激灵",
+      "onboard_time": 1747887024,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400346,
       "num": 400346,
       "word": "张本智和结束多哈世乒赛之旅",
       "onboard_time": 1747877302,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394178,
-      "num": 311055,
-      "word": "包上恩学生时期美得我一激灵",
-      "onboard_time": 1747887024,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 385580,
@@ -376,6 +384,14 @@
       "word": "迪丽热巴中世纪宫廷风",
       "onboard_time": 1747886783,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 323385,
+      "num": 323385,
+      "word": "战至巅峰",
+      "onboard_time": 1747888824,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -505,6 +521,14 @@
       "onboard_time": 1747844181,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 257559,
+      "num": 514369,
+      "word": "以驻美使馆两工作人员在华盛顿遇害",
+      "onboard_time": 1747887863,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251111,
@@ -643,20 +667,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217984,
+      "num": 217984,
+      "word": "雷军称YU7不会公布正式价钱",
+      "onboard_time": 1747890264,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 214893,
       "num": 214893,
       "word": "巴基斯坦警告印度我们不是巴勒斯坦",
       "onboard_time": 1747838305,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213311,
-      "num": 213311,
-      "word": "战至巅峰",
-      "onboard_time": 1747888824,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 209567,
@@ -699,20 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199555,
-      "num": 514369,
-      "word": "以驻美使馆两工作人员在华盛顿遇害",
-      "onboard_time": 1747887863,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 198626,
       "num": 180891,
       "word": "李乃文换蜡烛头像",
       "onboard_time": 1747832844,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197798,
+      "num": 197798,
+      "word": "小米新品发布会雷军讲全场",
+      "onboard_time": 1747890264,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 196898,
@@ -739,12 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193814,
-      "num": 193814,
+      "raw_hot": 194684,
+      "num": 593342,
       "word": "花17万买车后车企倒闭车辆裸奔上路",
       "onboard_time": 1747884023,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 191616,
+      "num": 191616,
+      "word": "田曦薇vlog",
+      "onboard_time": 1747890862,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191450,
@@ -803,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179333,
+      "num": 168605,
+      "word": "火彩",
+      "onboard_time": 1747891344,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176330,
       "num": 176330,
       "word": "为什么说抗癌5年是个坎儿",
@@ -859,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168701,
+      "num": 168701,
+      "word": "活期存款已近0利率",
+      "onboard_time": 1747889605,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 162422,
       "num": 162422,
       "word": "华晨宇粉丝呼吁工作室辟谣",
@@ -899,12 +947,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156281,
+      "num": 458177,
+      "word": "非洲农民说真想让袁老师看水稻丰收",
+      "onboard_time": 1747887863,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 153823,
+      "num": 153823,
+      "word": "哈利伯顿超级高水平",
+      "onboard_time": 1747890683,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153064,
       "num": 153064,
       "word": "吉克隽逸早年未修生图",
       "onboard_time": 1747883962,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152535,
+      "num": 152535,
+      "word": "壹心05花首登T封面出道",
+      "onboard_time": 1747890264,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 151751,
+      "num": 259479,
+      "word": "林高远说睡前原谅一切醒来便是重生",
+      "onboard_time": 1747890983,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 150043,
@@ -921,6 +1001,14 @@
       "onboard_time": 1747877302,
       "rank": 23,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 147041,
+      "num": 147041,
+      "word": "相亲不可能三角",
+      "onboard_time": 1747890143,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 146014,
@@ -947,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144211,
+      "num": 144211,
+      "word": "藏海传 烧脑",
+      "onboard_time": 1747891522,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143908,
       "num": 351850,
       "word": "刘宇宁真的演出了陷进去的感觉",
@@ -961,6 +1057,14 @@
       "onboard_time": 1747843282,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142073,
+      "num": 142073,
+      "word": "绘旅人路辰",
+      "onboard_time": 1747890804,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 141834,
@@ -1235,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99806,
+      "num": 260553,
+      "word": "美前总统克林顿被曝秘密访韩",
+      "onboard_time": 1747890622,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98724,
       "num": 98724,
       "word": "京东崩了",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1747882342,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87597,
+      "num": 308754,
+      "word": "卵巢癌晚期的治疗有哪些难点",
+      "onboard_time": 1747890383,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87544,
@@ -1491,6 +1611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71768,
+      "num": 532003,
+      "word": "朝鲜新建驱逐舰重大事故过程披露",
+      "onboard_time": 1747890923,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71053,
       "num": 302464,
       "word": "一盒助眠药从20元飙涨到100多元",
@@ -1515,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69408,
+      "num": 160017,
+      "word": "傅盛谈AI时代的用人标准",
+      "onboard_time": 1747891522,
+      "rank": 42,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 66035,
       "num": 87529,
       "word": "孙颖莎球好凶好帅",
@@ -1531,20 +1667,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64747,
-      "num": 458177,
-      "word": "非洲农民说真想让袁老师看水稻丰收",
-      "onboard_time": 1747887863,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "我减肥毅力就蔡文静这样",
       "onboard_time": 1747863734,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63473,
+      "num": 299982,
+      "word": "美商务部准备对中国电池材料下手",
+      "onboard_time": 1747890203,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62374,
@@ -1593,6 +1729,14 @@
       "onboard_time": 1747874783,
       "rank": 30,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 47870,
+      "num": 261643,
+      "word": "京东给米粉果粉花粉加餐",
+      "onboard_time": 1747890622,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 46779,
@@ -1683,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32227,
+      "num": 207050,
+      "word": "申裕斌回应对战孙颖莎",
+      "onboard_time": 1747891462,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29667,
       "num": 35537,
       "word": "敦促美方尽早放弃全球反导系统",
@@ -1721,6 +1873,14 @@
       "onboard_time": 1747885582,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26331,
+      "num": 262388,
+      "word": "阿莫林加纳乔吵架错在谁",
+      "onboard_time": 1747891282,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 25500,
@@ -1787,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21776,
+      "num": 260203,
+      "word": "NBA东决比西决精彩吗",
+      "onboard_time": 1747890383,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21730,
       "num": 26675,
       "word": "时间之子上海首映礼",
@@ -1849,6 +2017,14 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 5700,
+      "num": 784577,
+      "word": "这几组数据透视中国经济含新量",
+      "onboard_time": 1747891462,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
