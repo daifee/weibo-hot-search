@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747888322898,
+  "endTime": 1747889186020,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -1195,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 859909,
+      "num": 493227,
+      "word": "原来iPhone长按这么好用",
+      "onboard_time": 1747887324,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 856616,
       "num": 329730,
       "word": "易烊千玺台湾到达",
@@ -1827,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 640752,
+      "num": 640752,
+      "word": "小米YU7钛金属色",
+      "onboard_time": 1747886602,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 639522,
       "num": 262058,
       "word": "抖音崩了",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1747578624,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 637373,
+      "num": 581857,
+      "word": "惊蛰无声易烊千玺朱一龙双男主",
+      "onboard_time": 1747881861,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 636064,
@@ -1864,6 +1888,14 @@
       "word": "一家三口溺水两人遇难一人失联",
       "onboard_time": 1747722383,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623460,
+      "num": 488860,
+      "word": "被亲叔叔侵害7年的男生发声",
+      "onboard_time": 1747885101,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1913,14 +1945,6 @@
       "onboard_time": 1747628664,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 616458,
-      "num": 581857,
-      "word": "惊蛰无声易烊千玺朱一龙双男主",
-      "onboard_time": 1747881861,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 612879,
@@ -2075,14 +2099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 582595,
-      "num": 582595,
-      "word": "小米YU7钛金属色",
-      "onboard_time": 1747886602,
-      "rank": 5,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 580054,
       "num": 404394,
       "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1747731321,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570567,
-      "num": 478478,
-      "word": "被亲叔叔侵害7年的男生发声",
-      "onboard_time": 1747885101,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 569462,
@@ -2795,6 +2803,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 444607,
+      "num": 444607,
+      "word": "李蠕蠕模仿韩国霸总吃饭",
+      "onboard_time": 1747888164,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 444004,
       "num": 340053,
       "word": "68岁摩的司机两次性侵14岁女学生",
@@ -2817,14 +2833,6 @@
       "onboard_time": 1747615293,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437749,
-      "num": 363321,
-      "word": "原来iPhone长按这么好用",
-      "onboard_time": 1747887324,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 436251,
@@ -3129,6 +3137,14 @@
       "onboard_time": 1747538970,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394178,
+      "num": 311055,
+      "word": "包上恩学生时期美得我一激灵",
+      "onboard_time": 1747887024,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 393142,
@@ -3496,6 +3512,14 @@
       "word": "我是歌手洪辰我来揭榜",
       "onboard_time": 1747822763,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 348822,
+      "num": 377222,
+      "word": "迪丽热巴中世纪宫廷风",
+      "onboard_time": 1747886783,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -3891,14 +3915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 307554,
-      "num": 377222,
-      "word": "迪丽热巴中世纪宫廷风",
-      "onboard_time": 1747886783,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307460,
       "num": 307460,
       "word": "王楚钦说不知道为什么每次都是我遇到",
@@ -4259,14 +4275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286334,
-      "num": 286334,
-      "word": "包上恩学生时期美得我一激灵",
-      "onboard_time": 1747887024,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286039,
       "num": 449520,
       "word": "结石姐看到梁翘柏就放心了",
@@ -4488,6 +4496,14 @@
       "word": "肖战回应藏海来了敬妃都得让路",
       "onboard_time": 1747647383,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269278,
+      "num": 330396,
+      "word": "藏海跑姿",
+      "onboard_time": 1747887563,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -4761,6 +4777,14 @@
       "onboard_time": 1747568842,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251111,
+      "num": 495040,
+      "word": "男子偷回收箱1.4吨衣物获刑",
+      "onboard_time": 1747886903,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251029,
@@ -5051,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239733,
+      "num": 322633,
+      "word": "姬如雪出场",
+      "onboard_time": 1747888644,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238566,
       "num": 238566,
       "word": "四川外卖员将无需健康证",
@@ -5123,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234316,
+      "num": 234316,
+      "word": "光与夜之恋",
+      "onboard_time": 1747888943,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234301,
       "num": 234301,
       "word": "王楚钦孙颖莎冲击混双4强",
@@ -5137,6 +5177,14 @@
       "onboard_time": 1747711102,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 234094,
+      "num": 234094,
+      "word": "胡歌文淇合作",
+      "onboard_time": 1747888523,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 233697,
@@ -5249,14 +5297,6 @@
       "onboard_time": 1747736242,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 229878,
-      "num": 229878,
-      "word": "李蠕蠕模仿韩国霸总吃饭",
-      "onboard_time": 1747888164,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 229648,
@@ -5473,14 +5513,6 @@
       "onboard_time": 1747621161,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222477,
-      "num": 297087,
-      "word": "藏海跑姿",
-      "onboard_time": 1747887563,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 222321,
@@ -5817,6 +5849,14 @@
       "onboard_time": 1747625484,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 213311,
+      "num": 213311,
+      "word": "战至巅峰",
+      "onboard_time": 1747888824,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 212751,
@@ -6555,12 +6595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199636,
+      "num": 199636,
+      "word": "张本智和谈止步32强",
+      "onboard_time": 1747886783,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199558,
       "num": 199558,
       "word": "警方通报一科技公司遭境外黑客攻击",
       "onboard_time": 1747704809,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199555,
+      "num": 514369,
+      "word": "以驻美使馆两工作人员在华盛顿遇害",
+      "onboard_time": 1747887863,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199367,
@@ -6840,6 +6896,14 @@
       "word": "鹭卓谢谢亲爱的你们",
       "onboard_time": 1747667366,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196063,
+      "num": 196063,
+      "word": "檀健次曾为角色增肥20斤又减30斤",
+      "onboard_time": 1747888824,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -9307,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158564,
+      "num": 307347,
+      "word": "LadyGaga演唱会偶遇吴莫愁",
+      "onboard_time": 1747889005,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158523,
       "num": 145729,
       "word": "YOU停薪停职",
@@ -11483,6 +11555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128912,
+      "num": 341035,
+      "word": "詹姆斯成最老MVP得票球员",
+      "onboard_time": 1747888704,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128858,
       "num": 118467,
       "word": "上市公司重大资产重组新规落地",
@@ -13051,6 +13131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101043,
+      "num": 490575,
+      "word": "贵州大方县接连发生两起山体滑坡",
+      "onboard_time": 1747887863,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 101016,
       "num": 101016,
       "word": "九旬老人每天穿西装去歌舞厅跳舞",
@@ -13635,14 +13723,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 90186,
-      "num": 490575,
-      "word": "贵州大方县接连发生两起山体滑坡",
-      "onboard_time": 1747887863,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 90089,
       "num": 222482,
       "word": "台湾一汽车失控猛冲进早餐店致13伤",
@@ -13713,14 +13793,6 @@
       "onboard_time": 1747654282,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 88463,
-      "num": 507585,
-      "word": "以驻美使馆两工作人员在华盛顿遇害",
-      "onboard_time": 1747887863,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88271,
@@ -13889,14 +13961,6 @@
       "onboard_time": 1747549282,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 85796,
-      "num": 495040,
-      "word": "男子偷回收箱1.4吨衣物获刑",
-      "onboard_time": 1747886903,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85688,
@@ -14097,6 +14161,14 @@
       "onboard_time": 1747661967,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81340,
+      "num": 352634,
+      "word": "比亚迪4月领跑智驾辅助车型销量榜",
+      "onboard_time": 1747887142,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 81294,
@@ -14403,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76032,
+      "num": 325661,
+      "word": "胡锡进称耳环事件加剧对公平担忧",
+      "onboard_time": 1747887683,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75856,
       "num": 114768,
       "word": "美国再遭股汇债三杀",
@@ -14449,14 +14529,6 @@
       "onboard_time": 1747532729,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75532,
-      "num": 352634,
-      "word": "比亚迪4月领跑智驾辅助车型销量榜",
-      "onboard_time": 1747887142,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 75452,
@@ -15011,6 +15083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64747,
+      "num": 458177,
+      "word": "非洲农民说真想让袁老师看水稻丰收",
+      "onboard_time": 1747887863,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 64654,
       "num": 193324,
       "word": "毛孩子也是好起来了穿上三叶草了",
@@ -15105,6 +15185,14 @@
       "onboard_time": 1747832484,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62374,
+      "num": 367342,
+      "word": "工作三年有哪些变化",
+      "onboard_time": 1747887683,
+      "rank": 29,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 62100,
@@ -16235,11 +16323,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41804,
-      "num": 325661,
-      "word": "胡锡进称耳环事件加剧对公平担忧",
-      "onboard_time": 1747887683,
-      "rank": 37,
+      "raw_hot": 41626,
+      "num": 445314,
+      "word": "深圳摩的打人什么原因引起的",
+      "onboard_time": 1747888043,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -17355,14 +17443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26425,
-      "num": 458177,
-      "word": "非洲农民说真想让袁老师看水稻丰收",
-      "onboard_time": 1747887863,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 26277,
       "num": 55419,
       "word": "严浩翔个人直拍发布",
@@ -17465,14 +17545,6 @@
       "onboard_time": 1747883662,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25440,
-      "num": 367342,
-      "word": "工作三年有哪些变化",
-      "onboard_time": 1747887683,
-      "rank": 29,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 25147,
@@ -17721,6 +17793,14 @@
       "onboard_time": 1747610600,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22225,
+      "num": 450104,
+      "word": "小满节气后如何有效改善睡眠质量",
+      "onboard_time": 1747888285,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 22217,
@@ -18089,14 +18169,6 @@
       "onboard_time": 1747650685,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 18989,
-      "num": 312073,
-      "word": "小满节气后如何有效改善睡眠质量",
-      "onboard_time": 1747888285,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18927,
@@ -18881,14 +18953,6 @@
       "onboard_time": 1747733542,
       "rank": 28,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 11650,
-      "num": 445314,
-      "word": "深圳摩的打人什么原因引起的",
-      "onboard_time": 1747888043,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11478,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747889186020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1381716,
+        "num": 1381716,
+        "word": "深圳警方通报男子地铁口附近打人",
+        "onboard_time": 1747885101,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1334279,
+        "num": 1334279,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19868,
+        "num": 889361,
+        "word": "民营经济促进法施行释放三大信号",
+        "onboard_time": 1747833503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843526,
+        "num": 843526,
+        "word": "朱媛媛住院治疗照",
+        "onboard_time": 1747875743,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640752,
+        "num": 640752,
+        "word": "小米YU7钛金属色",
+        "onboard_time": 1747886602,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 617195,
+        "num": 617195,
+        "word": "特朗普与南非总统争吵现场",
+        "onboard_time": 1747883241,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637373,
+        "num": 573423,
+        "word": "惊蛰无声易烊千玺朱一龙双男主",
+        "onboard_time": 1747881861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 526487,
+        "num": 526487,
+        "word": "曝信阳一高中强制家长陪餐监考",
+        "onboard_time": 1747884684,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516224,
+        "num": 516224,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 8,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 199555,
+        "num": 514369,
+        "word": "以驻美使馆两工作人员在华盛顿遇害",
+        "onboard_time": 1747887863,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3763570,
+        "num": 503488,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859909,
+        "num": 493227,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1747887324,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 623460,
+        "num": 488860,
+        "word": "被亲叔叔侵害7年的男生发声",
+        "onboard_time": 1747885101,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71053,
+        "num": 473335,
+        "word": "张艺兴加盟京东618夏日歌会",
+        "onboard_time": 1747886662,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101043,
+        "num": 465343,
+        "word": "贵州大方县接连发生两起山体滑坡",
+        "onboard_time": 1747887863,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 582895,
+        "num": 463983,
+        "word": "李昀锐染了金发",
+        "onboard_time": 1747884202,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456090,
+        "num": 456090,
+        "word": "朝鲜新驱逐舰下水时发生严重事故",
+        "onboard_time": 1747875323,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22225,
+        "num": 450104,
+        "word": "小满节气后如何有效改善睡眠质量",
+        "onboard_time": 1747888285,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64747,
+        "num": 445148,
+        "word": "非洲农民说真想让袁老师看水稻丰收",
+        "onboard_time": 1747887863,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41626,
+        "num": 444636,
+        "word": "深圳摩的打人什么原因引起的",
+        "onboard_time": 1747888043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444607,
+        "num": 444607,
+        "word": "李蠕蠕模仿韩国霸总吃饭",
+        "onboard_time": 1747888164,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 436899,
+        "num": 436899,
+        "word": "樊振东排面拉满",
+        "onboard_time": 1747883783,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416414,
+        "num": 416414,
+        "word": "应届生把数据库删了",
+        "onboard_time": 1747871903,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348822,
+        "num": 348822,
+        "word": "迪丽热巴中世纪宫廷风",
+        "onboard_time": 1747886783,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128912,
+        "num": 341035,
+        "word": "詹姆斯成最老MVP得票球员",
+        "onboard_time": 1747888704,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269278,
+        "num": 330396,
+        "word": "藏海跑姿",
+        "onboard_time": 1747887563,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239733,
+        "num": 322633,
+        "word": "姬如雪出场",
+        "onboard_time": 1747888644,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394178,
+        "num": 311055,
+        "word": "包上恩学生时期美得我一激灵",
+        "onboard_time": 1747887024,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158564,
+        "num": 307347,
+        "word": "LadyGaga演唱会偶遇吴莫愁",
+        "onboard_time": 1747889005,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62374,
+        "num": 296174,
+        "word": "工作三年有哪些变化",
+        "onboard_time": 1747887683,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 290824,
+        "num": 290824,
+        "word": "男子地铁口附近打人被刑拘",
+        "onboard_time": 1747886363,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239614,
+        "num": 279349,
+        "word": "马嘉祺阿云嘎挑战谁由投票决定",
+        "onboard_time": 1747886483,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163398,
+        "num": 276855,
+        "word": "白宫又又又吵起来了",
+        "onboard_time": 1747873462,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81340,
+        "num": 276548,
+        "word": "比亚迪4月领跑智驾辅助车型销量榜",
+        "onboard_time": 1747887142,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276476,
+        "num": 276476,
+        "word": "地铁口附近打人男子曾确诊精神分裂",
+        "onboard_time": 1747885762,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263685,
+        "num": 263685,
+        "word": "花50万带娃环球500天父亲发声",
+        "onboard_time": 1747883421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258457,
+        "num": 258457,
+        "word": "光遇",
+        "onboard_time": 1747886961,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251111,
+        "num": 251111,
+        "word": "男子偷回收箱1.4吨衣物获刑",
+        "onboard_time": 1747886903,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76032,
+        "num": 240473,
+        "word": "胡锡进称耳环事件加剧对公平担忧",
+        "onboard_time": 1747887683,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100679,
+        "num": 239638,
+        "word": "一不小心在厦门干出家大公司",
+        "onboard_time": 1747886483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239528,
+        "num": 239528,
+        "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
+        "onboard_time": 1747883183,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234316,
+        "num": 234316,
+        "word": "光与夜之恋",
+        "onboard_time": 1747888943,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234094,
+        "num": 234094,
+        "word": "胡歌文淇合作",
+        "onboard_time": 1747888523,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216822,
+        "num": 216822,
+        "word": "家政阿姨因2月只有28天被扣工资",
+        "onboard_time": 1747884922,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213311,
+        "num": 213311,
+        "word": "战至巅峰",
+        "onboard_time": 1747888824,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212993,
+        "num": 212993,
+        "word": "王楚钦孙颖莎冲击混双4强",
+        "onboard_time": 1747885822,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199636,
+        "num": 199636,
+        "word": "张本智和谈止步32强",
+        "onboard_time": 1747886783,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196063,
+        "num": 196063,
+        "word": "檀健次曾为角色增肥20斤又减30斤",
+        "onboard_time": 1747888824,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193678,
+        "num": 193678,
+        "word": "光遇复刻",
+        "onboard_time": 1747887563,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185307,
+        "num": 185307,
+        "word": "程序员买T恤穿几次成睡衣了",
+        "onboard_time": 1747884922,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#到河南考察习近平为何再提洋火#"
+    }
+  }
+}

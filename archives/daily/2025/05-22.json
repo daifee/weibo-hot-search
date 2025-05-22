@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747888322898,
+  "endTime": 1747889186020,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -67,6 +67,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 859909,
+      "num": 493227,
+      "word": "原来iPhone长按这么好用",
+      "onboard_time": 1747887324,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 851139,
       "num": 675937,
       "word": "男子生殖器被切割机切断后成功接回",
@@ -115,20 +123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640752,
+      "num": 640752,
+      "word": "小米YU7钛金属色",
+      "onboard_time": 1747886602,
+      "rank": 5,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 637373,
+      "num": 581857,
+      "word": "惊蛰无声易烊千玺朱一龙双男主",
+      "onboard_time": 1747881861,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 623460,
+      "num": 488860,
+      "word": "被亲叔叔侵害7年的男生发声",
+      "onboard_time": 1747885101,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617214,
       "num": 923823,
       "word": "辛柏青2秒停顿藏着催泪暴击",
       "onboard_time": 1747835304,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616458,
-      "num": 581857,
-      "word": "惊蛰无声易烊千玺朱一龙双男主",
-      "onboard_time": 1747881861,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 606888,
@@ -147,28 +171,12 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 582595,
-      "num": 582595,
-      "word": "小米YU7钛金属色",
-      "onboard_time": 1747886602,
-      "rank": 5,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 580054,
       "num": 404394,
       "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
       "onboard_time": 1747882041,
       "rank": 3,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 570567,
-      "num": 478478,
-      "word": "被亲叔叔侵害7年的男生发声",
-      "onboard_time": 1747885101,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 561770,
@@ -227,12 +235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 437749,
-      "num": 363321,
-      "word": "原来iPhone长按这么好用",
-      "onboard_time": 1747887324,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 444607,
+      "num": 444607,
+      "word": "李蠕蠕模仿韩国霸总吃饭",
+      "onboard_time": 1747888164,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 431478,
@@ -281,6 +289,14 @@
       "onboard_time": 1747877302,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394178,
+      "num": 311055,
+      "word": "包上恩学生时期美得我一激灵",
+      "onboard_time": 1747887024,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 385580,
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348822,
+      "num": 377222,
+      "word": "迪丽热巴中世纪宫廷风",
+      "onboard_time": 1747886783,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313595,
       "num": 313595,
       "word": "程序员买T恤穿几次成睡衣了",
@@ -369,14 +393,6 @@
       "onboard_time": 1747833744,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307554,
-      "num": 377222,
-      "word": "迪丽热巴中世纪宫廷风",
-      "onboard_time": 1747886783,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 301469,
@@ -419,14 +435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 286334,
-      "num": 286334,
-      "word": "包上恩学生时期美得我一激灵",
-      "onboard_time": 1747887024,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283740,
       "num": 310842,
       "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
@@ -449,6 +457,14 @@
       "onboard_time": 1747886483,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269278,
+      "num": 330396,
+      "word": "藏海跑姿",
+      "onboard_time": 1747887563,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 268295,
@@ -491,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251111,
+      "num": 495040,
+      "word": "男子偷回收箱1.4吨衣物获刑",
+      "onboard_time": 1747886903,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250916,
       "num": 215295,
       "word": "林诗栋说混双输了很可惜",
@@ -531,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239733,
+      "num": 322633,
+      "word": "姬如雪出场",
+      "onboard_time": 1747888644,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238800,
       "num": 238800,
       "word": "谢谢郑晓龙导演",
       "onboard_time": 1747836746,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234316,
+      "num": 234316,
+      "word": "光与夜之恋",
+      "onboard_time": 1747888943,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 234301,
@@ -547,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229878,
-      "num": 229878,
-      "word": "李蠕蠕模仿韩国霸总吃饭",
-      "onboard_time": 1747888164,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 234094,
+      "num": 234094,
+      "word": "胡歌文淇合作",
+      "onboard_time": 1747888523,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 229871,
@@ -595,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222477,
-      "num": 297087,
-      "word": "藏海跑姿",
-      "onboard_time": 1747887563,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219872,
       "num": 180327,
       "word": "肖战蜂腰猿背",
@@ -617,6 +649,14 @@
       "onboard_time": 1747838305,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213311,
+      "num": 213311,
+      "word": "战至巅峰",
+      "onboard_time": 1747888824,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 209567,
@@ -651,6 +691,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199636,
+      "num": 199636,
+      "word": "张本智和谈止步32强",
+      "onboard_time": 1747886783,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199555,
+      "num": 514369,
+      "word": "以驻美使馆两工作人员在华盛顿遇害",
+      "onboard_time": 1747887863,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 198626,
       "num": 180891,
       "word": "李乃文换蜡烛头像",
@@ -673,6 +729,14 @@
       "onboard_time": 1747884863,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196063,
+      "num": 196063,
+      "word": "檀健次曾为角色增肥20斤又减30斤",
+      "onboard_time": 1747888824,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 193814,
@@ -819,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158564,
+      "num": 307347,
+      "word": "LadyGaga演唱会偶遇吴莫愁",
+      "onboard_time": 1747889005,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157991,
       "num": 305899,
       "word": "40万的音响50万的相机",
@@ -937,6 +1009,14 @@
       "onboard_time": 1747884982,
       "rank": 28,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 128912,
+      "num": 341035,
+      "word": "詹姆斯成最老MVP得票球员",
+      "onboard_time": 1747888704,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 128579,
@@ -1139,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101043,
+      "num": 490575,
+      "word": "贵州大方县接连发生两起山体滑坡",
+      "onboard_time": 1747887863,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 100357,
       "num": 100357,
       "word": "直播间花26万赌石后起诉索赔被驳回",
@@ -1235,28 +1323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90186,
-      "num": 490575,
-      "word": "贵州大方县接连发生两起山体滑坡",
-      "onboard_time": 1747887863,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 89986,
       "num": 114709,
       "word": "王曼昱世乒赛晋级16强",
       "onboard_time": 1747869560,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88463,
-      "num": 507585,
-      "word": "以驻美使馆两工作人员在华盛顿遇害",
-      "onboard_time": 1747887863,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87950,
@@ -1299,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85796,
-      "num": 495040,
-      "word": "男子偷回收箱1.4吨衣物获刑",
-      "onboard_time": 1747886903,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85688,
       "num": 110520,
       "word": "董明珠孟羽童官宣直播",
@@ -1347,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81340,
+      "num": 352634,
+      "word": "比亚迪4月领跑智驾辅助车型销量榜",
+      "onboard_time": 1747887142,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81055,
       "num": 81055,
       "word": "C罗生涯935球",
@@ -1371,20 +1443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76032,
+      "num": 325661,
+      "word": "胡锡进称耳环事件加剧对公平担忧",
+      "onboard_time": 1747887683,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75856,
       "num": 114768,
       "word": "美国再遭股汇债三杀",
       "onboard_time": 1747876583,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 75532,
-      "num": 352634,
-      "word": "比亚迪4月领跑智驾辅助车型销量榜",
-      "onboard_time": 1747887142,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 73908,
@@ -1459,12 +1531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64747,
+      "num": 458177,
+      "word": "非洲农民说真想让袁老师看水稻丰收",
+      "onboard_time": 1747887863,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "我减肥毅力就蔡文静这样",
       "onboard_time": 1747863734,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62374,
+      "num": 367342,
+      "word": "工作三年有哪些变化",
+      "onboard_time": 1747887683,
+      "rank": 29,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 60566,
@@ -1531,11 +1619,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41804,
-      "num": 325661,
-      "word": "胡锡进称耳环事件加剧对公平担忧",
-      "onboard_time": 1747887683,
-      "rank": 37,
+      "raw_hot": 41626,
+      "num": 445314,
+      "word": "深圳摩的打人什么原因引起的",
+      "onboard_time": 1747888043,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1635,28 +1723,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 26425,
-      "num": 458177,
-      "word": "非洲农民说真想让袁老师看水稻丰收",
-      "onboard_time": 1747887863,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 25500,
       "num": 395489,
       "word": "长实楼盘涉建筑贪污造假案",
       "onboard_time": 1747883662,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25440,
-      "num": 367342,
-      "word": "工作三年有哪些变化",
-      "onboard_time": 1747887683,
-      "rank": 29,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 25097,
@@ -1707,6 +1779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22225,
+      "num": 450104,
+      "word": "小满节气后如何有效改善睡眠质量",
+      "onboard_time": 1747888285,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21730,
       "num": 26675,
       "word": "时间之子上海首映礼",
@@ -1721,14 +1801,6 @@
       "onboard_time": 1747852575,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18989,
-      "num": 312073,
-      "word": "小满节气后如何有效改善睡眠质量",
-      "onboard_time": 1747888285,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 17986,
@@ -1769,14 +1841,6 @@
       "onboard_time": 1747855093,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 11650,
-      "num": 445314,
-      "word": "深圳摩的打人什么原因引起的",
-      "onboard_time": 1747888043,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11252,
