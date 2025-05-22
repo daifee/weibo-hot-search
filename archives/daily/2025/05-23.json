@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747946524413,
+  "endTime": 1747949041241,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -507,8 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50854,
-      "num": 50854,
+      "raw_hot": 57218,
+      "num": 57218,
       "word": "枪杀以使馆工作人员的嫌疑人被捕",
       "onboard_time": 1747943354,
       "rank": 15,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 40878,
-      "num": 26387,
+      "num": 31209,
       "word": "孙颖莎真是大心脏",
       "onboard_time": 1747942815,
       "rank": 21,
@@ -571,8 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31993,
-      "num": 24787,
+      "raw_hot": 36660,
+      "num": 31287,
       "word": "易烊千玺戛纳排面",
       "onboard_time": 1747945815,
       "rank": 24,
@@ -627,8 +627,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21369,
-      "num": 21369,
+      "raw_hot": 23941,
+      "num": 23941,
       "word": "王楚钦八强战对阵林昀儒",
       "onboard_time": 1747942815,
       "rank": 30,
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21179,
+      "num": 21179,
+      "word": "美股美债又崩了",
+      "onboard_time": 1747944134,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20876,
       "num": 20876,
       "word": "狂野时代戛纳首映",
@@ -651,12 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19057,
-      "num": 19057,
-      "word": "美股美债又崩了",
-      "onboard_time": 1747944134,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 18764,
+      "num": 57391,
+      "word": "明星小象申申去世",
+      "onboard_time": 1747939334,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18269,
@@ -665,14 +673,6 @@
       "onboard_time": 1747930344,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18086,
-      "num": 22244,
-      "word": "明星小象申申去世",
-      "onboard_time": 1747939334,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17384,
