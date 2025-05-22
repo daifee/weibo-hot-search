@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747918346700,
+  "endTime": 1747919264625,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3172307,
+      "num": 3172307,
+      "word": "国乒男双无缘世乒赛四强",
+      "onboard_time": 1747916664,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3104219,
       "num": 3104219,
       "word": "金泰梨二封百想视后",
@@ -297,14 +305,6 @@
       "onboard_time": 1746591445,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3014738,
-      "num": 3014738,
-      "word": "国乒男双无缘世乒赛四强",
-      "onboard_time": 1747916664,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 3006518,
@@ -537,6 +537,14 @@
       "onboard_time": 1746706462,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2347743,
+      "num": 2347743,
+      "word": "小米YU7",
+      "onboard_time": 1747622842,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 2343919,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1747058242,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1880044,
-      "num": 1880044,
-      "word": "小米YU7",
-      "onboard_time": 1747622842,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 1871157,
@@ -2284,7 +2284,7 @@
     },
     {
       "raw_hot": 1349336,
-      "num": 440543,
+      "num": 512460,
       "word": "赵丽颖恋情曝光后首亮相",
       "onboard_time": 1747907905,
       "rank": 8,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1746705382,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1268843,
+      "num": 1268843,
+      "word": "黄杨爸爸将面临什么处罚",
+      "onboard_time": 1747917564,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1268836,
@@ -4780,7 +4788,7 @@
     },
     {
       "raw_hot": 918515,
-      "num": 282375,
+      "num": 312286,
       "word": "冰湖重生 黄杨钿甜",
       "onboard_time": 1747914024,
       "rank": 15,
@@ -7513,14 +7521,6 @@
       "onboard_time": 1746197373,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 682537,
-      "num": 292422,
-      "word": "黄杨爸爸将面临什么处罚",
-      "onboard_time": 1747917564,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 680951,
@@ -10828,7 +10828,7 @@
     },
     {
       "raw_hot": 519098,
-      "num": 274256,
+      "num": 375285,
       "word": "嘉行",
       "onboard_time": 1747913783,
       "rank": 33,
@@ -13891,6 +13891,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 414642,
+      "num": 414642,
+      "word": "藏海传全员恶人",
+      "onboard_time": 1747914683,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414531,
       "num": 414531,
       "word": "gta6",
@@ -13985,6 +13993,14 @@
       "onboard_time": 1747112605,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411675,
+      "num": 312153,
+      "word": "马嘉祺 我们哥俩被人算计了",
+      "onboard_time": 1747918224,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 411460,
@@ -14145,6 +14161,14 @@
       "onboard_time": 1747008801,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407170,
+      "num": 311934,
+      "word": "陈奕迅露面",
+      "onboard_time": 1747918102,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 406567,
@@ -14417,14 +14441,6 @@
       "onboard_time": 1746412401,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397562,
-      "num": 270070,
-      "word": "藏海传全员恶人",
-      "onboard_time": 1747914683,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 397506,
@@ -15524,7 +15540,7 @@
     },
     {
       "raw_hot": 369351,
-      "num": 261426,
+      "num": 287982,
       "word": "天价耳环",
       "onboard_time": 1747912404,
       "rank": 24,
@@ -17347,6 +17363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328451,
+      "num": 311243,
+      "word": "藏海传这仨笑死我了",
+      "onboard_time": 1747917264,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328294,
       "num": 736375,
       "word": "国米4比3巴萨",
@@ -18139,6 +18163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311094,
+      "num": 311094,
+      "word": "单依纯 天空",
+      "onboard_time": 1747917983,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310975,
       "num": 310975,
       "word": "世乒赛",
@@ -18249,6 +18281,14 @@
       "onboard_time": 1747367782,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309569,
+      "num": 309569,
+      "word": "魏劭喊蛮蛮了",
+      "onboard_time": 1747916963,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 309532,
@@ -19977,14 +20017,6 @@
       "onboard_time": 1747393641,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285275,
-      "num": 250504,
-      "word": "魏劭喊蛮蛮了",
-      "onboard_time": 1747916963,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 285104,
@@ -21739,6 +21771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261318,
+      "num": 261318,
+      "word": "小米手表",
+      "onboard_time": 1747915644,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 261159,
       "num": 629462,
       "word": "流失美国79年的2卷帛书要回家了",
@@ -22097,14 +22137,6 @@
       "onboard_time": 1747217543,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255981,
-      "num": 255981,
-      "word": "小米手表",
-      "onboard_time": 1747915644,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 255882,
@@ -23059,14 +23091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 246703,
-      "num": 246703,
-      "word": "藏海传这仨笑死我了",
-      "onboard_time": 1747917264,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246604,
       "num": 246604,
       "word": "祖国山河大地陆续切换夏天模式",
@@ -23691,6 +23715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240150,
+      "num": 240150,
+      "word": "全宿舍女生毕业都上岸月薪达9500",
+      "onboard_time": 1747915283,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240135,
       "num": 240135,
       "word": "法医秦明",
@@ -23897,6 +23929,14 @@
       "onboard_time": 1746786562,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237427,
+      "num": 237427,
+      "word": "陈奕迅到达高雄",
+      "onboard_time": 1747918464,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 237401,
@@ -24843,14 +24883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227775,
-      "num": 227775,
-      "word": "陈奕迅露面",
-      "onboard_time": 1747918102,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227678,
       "num": 227678,
       "word": "鹿晗亚巡北京站获批",
@@ -25315,14 +25347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223638,
-      "num": 223638,
-      "word": "马嘉祺 我们哥俩被人算计了",
-      "onboard_time": 1747918224,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223594,
       "num": 264316,
       "word": "吴彦祖回应收手吧阿祖网络爆火",
@@ -25561,6 +25585,14 @@
       "onboard_time": 1747465220,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222412,
+      "num": 222412,
+      "word": "折腰第21集抢媳妇了",
+      "onboard_time": 1747918162,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 222390,
@@ -26036,7 +26068,7 @@
     },
     {
       "raw_hot": 218833,
-      "num": 218833,
+      "num": 301261,
       "word": "朝鲜中央电台通报新建驱逐舰事故细节",
       "onboard_time": 1747911565,
       "rank": 18,
@@ -26321,14 +26353,6 @@
       "onboard_time": 1747292902,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216689,
-      "num": 216689,
-      "word": "全宿舍女生毕业都上岸月薪达9500",
-      "onboard_time": 1747915283,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216667,
@@ -27353,6 +27377,14 @@
       "onboard_time": 1747822763,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209998,
+      "num": 209998,
+      "word": "GAI选曲",
+      "onboard_time": 1747918883,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 209949,
@@ -29643,14 +29675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201353,
-      "num": 201353,
-      "word": "单依纯 天空",
-      "onboard_time": 1747917983,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201328,
       "num": 258141,
       "word": "闫桉素颜直播帅成这样",
@@ -30225,6 +30249,14 @@
       "onboard_time": 1746513741,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199597,
+      "num": 204857,
+      "word": "法网郑钦文与萨巴伦卡同区",
+      "onboard_time": 1747918343,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 199576,
@@ -30857,6 +30889,14 @@
       "onboard_time": 1747728562,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197447,
+      "num": 203478,
+      "word": "她来了以后王府才添了颜色",
+      "onboard_time": 1747918703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 197423,
@@ -53819,6 +53859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128144,
+      "num": 311723,
+      "word": "张本美和4比0曾尖",
+      "onboard_time": 1747918343,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128140,
       "num": 282984,
       "word": "王皓说多哈或是男队近20年最难",
@@ -57073,6 +57121,14 @@
       "onboard_time": 1746433762,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 462039,
+      "word": "紧急安排2000万元支持贵州灾后恢复",
+      "onboard_time": 1747917746,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 118498,
@@ -63659,14 +63715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93804,
-      "num": 300276,
-      "word": "紧急安排2000万元支持贵州灾后恢复",
-      "onboard_time": 1747917746,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 93757,
       "num": 93757,
       "word": "孟子义赛点关注度",
@@ -65089,6 +65137,14 @@
       "onboard_time": 1747481723,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86731,
+      "num": 409263,
+      "word": "全专业100人企业抢着要老师笑开花",
+      "onboard_time": 1747918703,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 86625,
@@ -66856,6 +66912,14 @@
       "word": "孙颖莎状态被阳光聆听",
       "onboard_time": 1746775462,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77572,
+      "num": 311829,
+      "word": "王艺迪晋级世乒赛八强",
+      "onboard_time": 1747918343,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -71187,6 +71251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55892,
+      "num": 207514,
+      "word": "拒绝倒贴上班的一天",
+      "onboard_time": 1747917324,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 55886,
       "num": 55886,
       "word": "TTG一穿六夺冠",
@@ -71593,14 +71665,6 @@
       "onboard_time": 1746673942,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54182,
-      "num": 190448,
-      "word": "拒绝倒贴上班的一天",
-      "onboard_time": 1747917324,
-      "rank": 38,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 54161,
@@ -73803,6 +73867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44502,
+      "num": 1438701,
+      "word": "2000亿元的核电市场来了",
+      "onboard_time": 1747918584,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44483,
       "num": 175533,
       "word": "90后夫妻带双方母亲环游33国",
@@ -75337,6 +75409,14 @@
       "onboard_time": 1747382480,
       "rank": 41,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 39084,
+      "num": 311419,
+      "word": "男子起诉插足儿子婚姻者案尚未开庭",
+      "onboard_time": 1747919063,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39037,
@@ -77833,6 +77913,14 @@
       "onboard_time": 1747539390,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30065,
+      "num": 294457,
+      "word": "法不能向不法让步",
+      "onboard_time": 1747917682,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30039,
@@ -80475,6 +80563,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 22614,
+      "num": 201954,
+      "word": "漫展上的万事屋三人组",
+      "onboard_time": 1747919244,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 22584,
       "num": 28972,
       "word": "强烈呼吁印巴双方以和平稳定大局为重",
@@ -81257,6 +81353,14 @@
       "onboard_time": 1747629443,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 20654,
+      "num": 199562,
+      "word": "520抬头看见了新兰大婚",
+      "onboard_time": 1747917746,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 20652,
@@ -83603,6 +83707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14783,
+      "num": 297173,
+      "word": "性侵害未成年人犯罪应从严惩处",
+      "onboard_time": 1747918404,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14774,
       "num": 251647,
       "word": "起底学生被打致耳聋涉事学校",
@@ -83961,14 +84073,6 @@
       "onboard_time": 1747517174,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13922,
-      "num": 231558,
-      "word": "法不能向不法让步",
-      "onboard_time": 1747917682,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13894,
@@ -85137,6 +85241,14 @@
       "onboard_time": 1747669222,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10620,
+      "num": 288826,
+      "word": "把小狗改造成全自动洗地基",
+      "onboard_time": 1747918883,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 10585,
@@ -86418,6 +86530,9 @@
     },
     {
       "word": "#学有质量查有力度改有成效#"
+    },
+    {
+      "word": "#习近平同马克龙通电话#"
     }
   ]
 }

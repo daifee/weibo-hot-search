@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747918346700,
+  "endTime": 1747919264625,
   "band_list": [
     {
       "raw_hot": 13594592,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3172307,
+      "num": 3172307,
+      "word": "国乒男双无缘世乒赛四强",
+      "onboard_time": 1747916664,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3092047,
       "num": 3092047,
       "word": "黄杨钿甜耳环事件最新进展",
       "onboard_time": 1747842623,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3014738,
-      "num": 3014738,
-      "word": "国乒男双无缘世乒赛四强",
-      "onboard_time": 1747916664,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2886367,
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2347743,
+      "num": 2347743,
+      "word": "小米YU7",
+      "onboard_time": 1747915584,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2151409,
       "num": 2151409,
       "word": "王楚钦孙颖莎世乒赛晋级四强",
@@ -65,14 +73,6 @@
       "onboard_time": 1747894102,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1880044,
-      "num": 1880044,
-      "word": "小米YU7",
-      "onboard_time": 1747915584,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 1830513,
@@ -124,10 +124,18 @@
     },
     {
       "raw_hot": 1349336,
-      "num": 440543,
+      "num": 512460,
       "word": "赵丽颖恋情曝光后首亮相",
       "onboard_time": 1747907905,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1268843,
+      "num": 1268843,
+      "word": "黄杨爸爸将面临什么处罚",
+      "onboard_time": 1747917564,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 918515,
-      "num": 282375,
+      "num": 312286,
       "word": "冰湖重生 黄杨钿甜",
       "onboard_time": 1747914024,
       "rank": 15,
@@ -305,14 +313,6 @@
       "onboard_time": 1747884202,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 682537,
-      "num": 292422,
-      "word": "黄杨爸爸将面临什么处罚",
-      "onboard_time": 1747917564,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 680485,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 519098,
-      "num": 274256,
+      "num": 375285,
       "word": "嘉行",
       "onboard_time": 1747913783,
       "rank": 33,
@@ -619,6 +619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 414642,
+      "num": 414642,
+      "word": "藏海传全员恶人",
+      "onboard_time": 1747914683,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413206,
       "num": 413206,
       "word": "包上恩学生时期美得我一激灵",
@@ -627,11 +635,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411675,
+      "num": 312153,
+      "word": "马嘉祺 我们哥俩被人算计了",
+      "onboard_time": 1747918224,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409112,
       "num": 357175,
       "word": "赵丽颖白鹿活动状态",
       "onboard_time": 1747905382,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407170,
+      "num": 311934,
+      "word": "陈奕迅露面",
+      "onboard_time": 1747918102,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -649,14 +673,6 @@
       "onboard_time": 1747877302,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 397562,
-      "num": 270070,
-      "word": "藏海传全员恶人",
-      "onboard_time": 1747914683,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 396607,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 369351,
-      "num": 261426,
+      "num": 287982,
       "word": "天价耳环",
       "onboard_time": 1747912404,
       "rank": 24,
@@ -803,6 +819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 328451,
+      "num": 311243,
+      "word": "藏海传这仨笑死我了",
+      "onboard_time": 1747917264,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316719,
       "num": 316719,
       "word": "赵丽颖科兰黎线下活动",
@@ -835,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311094,
+      "num": 311094,
+      "word": "单依纯 天空",
+      "onboard_time": 1747917983,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309945,
       "num": 309945,
       "word": "文俊辉成龙打戏",
       "onboard_time": 1747896621,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309569,
+      "num": 309569,
+      "word": "魏劭喊蛮蛮了",
+      "onboard_time": 1747916963,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 307376,
@@ -921,14 +961,6 @@
       "onboard_time": 1747891344,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285275,
-      "num": 250504,
-      "word": "魏劭喊蛮蛮了",
-      "onboard_time": 1747916963,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 284727,
@@ -1035,20 +1067,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261318,
+      "num": 261318,
+      "word": "小米手表",
+      "onboard_time": 1747915644,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 257559,
       "num": 514369,
       "word": "以驻美使馆两工作人员在华盛顿遇害",
       "onboard_time": 1747887863,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 255981,
-      "num": 255981,
-      "word": "小米手表",
-      "onboard_time": 1747915644,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 255781,
@@ -1115,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246703,
-      "num": 246703,
-      "word": "藏海传这仨笑死我了",
-      "onboard_time": 1747917264,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244468,
       "num": 244468,
       "word": "小米未来五年研发再投入2000亿",
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240150,
+      "num": 240150,
+      "word": "全宿舍女生毕业都上岸月薪达9500",
+      "onboard_time": 1747915283,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239733,
       "num": 322633,
       "word": "姬如雪出场",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1747906704,
       "rank": 35,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 237427,
+      "num": 237427,
+      "word": "陈奕迅到达高雄",
+      "onboard_time": 1747918464,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 236701,
@@ -1235,14 +1275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 227775,
-      "num": 227775,
-      "word": "陈奕迅露面",
-      "onboard_time": 1747918102,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226189,
       "num": 226189,
       "word": "林诗栋发球被判遮挡",
@@ -1259,14 +1291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 223638,
-      "num": 223638,
-      "word": "马嘉祺 我们哥俩被人算计了",
-      "onboard_time": 1747918224,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223594,
       "num": 264316,
       "word": "吴彦祖回应收手吧阿祖网络爆火",
@@ -1280,6 +1304,14 @@
       "word": "宋威龙阴湿男鬼风",
       "onboard_time": 1747887142,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222412,
+      "num": 222412,
+      "word": "折腰第21集抢媳妇了",
+      "onboard_time": 1747918162,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1316,19 +1348,11 @@
     },
     {
       "raw_hot": 218833,
-      "num": 218833,
+      "num": 301261,
       "word": "朝鲜中央电台通报新建驱逐舰事故细节",
       "onboard_time": 1747911565,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216689,
-      "num": 216689,
-      "word": "全宿舍女生毕业都上岸月薪达9500",
-      "onboard_time": 1747915283,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214893,
@@ -1419,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209998,
+      "num": 209998,
+      "word": "GAI选曲",
+      "onboard_time": 1747918883,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209827,
       "num": 209827,
       "word": "曹骏方否认买通稿艳压抹黑他人",
@@ -1491,12 +1523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201353,
-      "num": 201353,
-      "word": "单依纯 天空",
-      "onboard_time": 1747917983,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 200725,
+      "num": 200725,
+      "word": "人鱼",
+      "onboard_time": 1747918524,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 199636,
@@ -1504,6 +1536,14 @@
       "word": "张本智和谈止步32强",
       "onboard_time": 1747886783,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199597,
+      "num": 204857,
+      "word": "法网郑钦文与萨巴伦卡同区",
+      "onboard_time": 1747918343,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1529,6 +1569,14 @@
       "onboard_time": 1747890264,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197447,
+      "num": 203478,
+      "word": "她来了以后王府才添了颜色",
+      "onboard_time": 1747918703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 196898,
@@ -2387,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128144,
+      "num": 311723,
+      "word": "张本美和4比0曾尖",
+      "onboard_time": 1747918343,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127628,
       "num": 127628,
       "word": "陶虹发长文缅怀朱媛媛",
@@ -2481,6 +2537,14 @@
       "onboard_time": 1747906521,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118571,
+      "num": 462039,
+      "word": "紧急安排2000万元支持贵州灾后恢复",
+      "onboard_time": 1747917746,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 117485,
@@ -2851,14 +2915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93804,
-      "num": 300276,
-      "word": "紧急安排2000万元支持贵州灾后恢复",
-      "onboard_time": 1747917746,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 93184,
       "num": 93184,
       "word": "热刺1比0曼联",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1747913124,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86731,
+      "num": 409263,
+      "word": "全专业100人企业抢着要老师笑开花",
+      "onboard_time": 1747918703,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 85965,
@@ -3049,6 +3113,14 @@
       "onboard_time": 1747896082,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77572,
+      "num": 311829,
+      "word": "王艺迪晋级世乒赛八强",
+      "onboard_time": 1747918343,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 76476,
@@ -3315,6 +3387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55892,
+      "num": 207514,
+      "word": "拒绝倒贴上班的一天",
+      "onboard_time": 1747917324,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 54906,
       "num": 54906,
       "word": "孙颖莎说混双挑战非常大",
@@ -3329,14 +3409,6 @@
       "onboard_time": 1747906043,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54182,
-      "num": 190448,
-      "word": "拒绝倒贴上班的一天",
-      "onboard_time": 1747917324,
-      "rank": 38,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 53066,
@@ -3401,6 +3473,14 @@
       "onboard_time": 1747904483,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44502,
+      "num": 1438701,
+      "word": "2000亿元的核电市场来了",
+      "onboard_time": 1747918584,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43544,
@@ -3473,6 +3553,14 @@
       "onboard_time": 1747884084,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 39084,
+      "num": 311419,
+      "word": "男子起诉插足儿子婚姻者案尚未开庭",
+      "onboard_time": 1747919063,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38951,
@@ -3625,6 +3713,14 @@
       "onboard_time": 1747910544,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 30065,
+      "num": 294457,
+      "word": "法不能向不法让步",
+      "onboard_time": 1747917682,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29667,
@@ -3859,6 +3955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22614,
+      "num": 201954,
+      "word": "漫展上的万事屋三人组",
+      "onboard_time": 1747919244,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 22329,
       "num": 26986,
       "word": "狂野时代静候每一场银幕之约",
@@ -3921,6 +4025,14 @@
       "onboard_time": 1747852575,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20654,
+      "num": 199562,
+      "word": "520抬头看见了新兰大婚",
+      "onboard_time": 1747917746,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 19313,
@@ -4043,20 +4155,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14783,
+      "num": 297173,
+      "word": "性侵害未成年人犯罪应从严惩处",
+      "onboard_time": 1747918404,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14434,
       "num": 149485,
       "word": "双高胎这条能给我们安排到几点呀",
       "onboard_time": 1747911805,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13922,
-      "num": 231558,
-      "word": "法不能向不法让步",
-      "onboard_time": 1747917682,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13643,
@@ -4113,6 +4225,14 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10620,
+      "num": 288826,
+      "word": "把小狗改造成全自动洗地基",
+      "onboard_time": 1747918883,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 10104,
@@ -4218,6 +4338,9 @@
     },
     {
       "word": "#学有质量查有力度改有成效#"
+    },
+    {
+      "word": "#习近平同马克龙通电话#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747919264625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3172307,
+        "num": 3172307,
+        "word": "国乒男双无缘世乒赛四强",
+        "onboard_time": 1747916664,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2347743,
+        "num": 2347743,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44502,
+        "num": 1438701,
+        "word": "2000亿元的核电市场来了",
+        "onboard_time": 1747918584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1268843,
+        "num": 1268843,
+        "word": "黄杨爸爸将面临什么处罚",
+        "onboard_time": 1747917564,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899741,
+        "num": 899741,
+        "word": "歌手歌单",
+        "onboard_time": 1747915223,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556275,
+        "num": 556275,
+        "word": "小米发布会",
+        "onboard_time": 1747912103,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 512460,
+        "num": 512460,
+        "word": "赵丽颖恋情曝光后首亮相",
+        "onboard_time": 1747907905,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118571,
+        "num": 462039,
+        "word": "紧急安排2000万元支持贵州灾后恢复",
+        "onboard_time": 1747917746,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 414642,
+        "num": 414642,
+        "word": "藏海传全员恶人",
+        "onboard_time": 1747914683,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86731,
+        "num": 409263,
+        "word": "全专业100人企业抢着要老师笑开花",
+        "onboard_time": 1747918703,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 5604027,
+        "num": 5604027,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2518077,
+        "num": 386940,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450069,
+        "num": 375285,
+        "word": "嘉行",
+        "onboard_time": 1747913783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370007,
+        "num": 370007,
+        "word": "林高远林诗栋vs林昀儒高承睿",
+        "onboard_time": 1747915584,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312420,
+        "num": 312420,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 798515,
+        "num": 312286,
+        "word": "冰湖重生 黄杨钿甜",
+        "onboard_time": 1747914024,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411675,
+        "num": 312153,
+        "word": "马嘉祺 我们哥俩被人算计了",
+        "onboard_time": 1747918224,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407170,
+        "num": 311934,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77572,
+        "num": 311829,
+        "word": "王艺迪晋级世乒赛八强",
+        "onboard_time": 1747918343,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128144,
+        "num": 311723,
+        "word": "张本美和4比0曾尖",
+        "onboard_time": 1747918343,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387758,
+        "num": 311458,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1747910126,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39084,
+        "num": 311419,
+        "word": "男子起诉插足儿子婚姻者案尚未开庭",
+        "onboard_time": 1747919063,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328451,
+        "num": 311243,
+        "word": "藏海传这仨笑死我了",
+        "onboard_time": 1747917264,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311094,
+        "num": 311094,
+        "word": "单依纯 天空",
+        "onboard_time": 1747917983,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309569,
+        "num": 309569,
+        "word": "魏劭喊蛮蛮了",
+        "onboard_time": 1747916963,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301512,
+        "num": 301512,
+        "word": "林俊杰北京抢票",
+        "onboard_time": 1747915524,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109367,
+        "num": 301261,
+        "word": "朝鲜中央电台通报新建驱逐舰事故细节",
+        "onboard_time": 1747911565,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14783,
+        "num": 297173,
+        "word": "性侵害未成年人犯罪应从严惩处",
+        "onboard_time": 1747918404,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30065,
+        "num": 294457,
+        "word": "法不能向不法让步",
+        "onboard_time": 1747917682,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10620,
+        "num": 288826,
+        "word": "把小狗改造成全自动洗地基",
+        "onboard_time": 1747918883,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 287982,
+        "num": 287982,
+        "word": "天价耳环",
+        "onboard_time": 1747912404,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261318,
+        "num": 261318,
+        "word": "小米手表",
+        "onboard_time": 1747915644,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240150,
+        "num": 240150,
+        "word": "全宿舍女生毕业都上岸月薪达9500",
+        "onboard_time": 1747915283,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237427,
+        "num": 237427,
+        "word": "陈奕迅到达高雄",
+        "onboard_time": 1747918464,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222412,
+        "num": 222412,
+        "word": "折腰第21集抢媳妇了",
+        "onboard_time": 1747918162,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220922,
+        "num": 220922,
+        "word": "小米未来五年研发再投入2000亿",
+        "onboard_time": 1747914263,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 209998,
+        "num": 209998,
+        "word": "GAI选曲",
+        "onboard_time": 1747918883,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207652,
+        "num": 207652,
+        "word": "日本女童伴父母腐尸独处数日",
+        "onboard_time": 1747901182,
+        "rank": 37,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 55892,
+        "num": 207514,
+        "word": "拒绝倒贴上班的一天",
+        "onboard_time": 1747917324,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 204857,
+        "word": "法网郑钦文与萨巴伦卡同区",
+        "onboard_time": 1747918343,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197447,
+        "num": 203478,
+        "word": "她来了以后王府才添了颜色",
+        "onboard_time": 1747918703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22614,
+        "num": 201954,
+        "word": "漫展上的万事屋三人组",
+        "onboard_time": 1747919244,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201609,
+        "num": 201609,
+        "word": "男双",
+        "onboard_time": 1747915763,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 200725,
+        "word": "人鱼",
+        "onboard_time": 1747918524,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20654,
+        "num": 199562,
+        "word": "520抬头看见了新兰大婚",
+        "onboard_time": 1747917746,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198984,
+        "num": 198984,
+        "word": "小米15Spro",
+        "onboard_time": 1747915104,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179928,
+        "num": 179928,
+        "word": "林峯老婆被爆520晒网图P掉商家logo",
+        "onboard_time": 1747894102,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170848,
+        "num": 170848,
+        "word": "减肥的尽头是忘本",
+        "onboard_time": 1747917084,
+        "rank": 47,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "法网抽签",
+        "onboard_time": 1747917983,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160892,
+        "num": 160892,
+        "word": "左航直播",
+        "onboard_time": 1747914323,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}
