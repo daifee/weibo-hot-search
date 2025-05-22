@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747909695505,
+  "endTime": 1747910732340,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11635032,
-      "num": 11635032,
+      "raw_hot": 13594592,
+      "num": 13594592,
       "word": "黄杨钿甜父亲被立案调查",
       "onboard_time": 1747907543,
       "rank": 0,
@@ -609,6 +609,14 @@
       "onboard_time": 1747643664,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1349336,
+      "num": 324252,
+      "word": "赵丽颖恋情曝光后首亮相",
+      "onboard_time": 1747907905,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1344511,
@@ -1891,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663092,
-      "num": 321869,
-      "word": "赵丽颖恋情曝光后首亮相",
-      "onboard_time": 1747907905,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662929,
       "num": 302122,
       "word": "藏海传观后感",
@@ -2217,6 +2217,14 @@
       "onboard_time": 1747556961,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 596415,
+      "num": 397577,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1747910126,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 596395,
@@ -3355,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402396,
+      "num": 402396,
+      "word": "武大校门被淹一米深",
+      "onboard_time": 1747908926,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401621,
       "num": 401621,
       "word": "藏海传开播",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1747727600,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371608,
+      "num": 371608,
+      "word": "混双四强",
+      "onboard_time": 1747908625,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 371518,
@@ -4299,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302030,
+      "num": 209008,
+      "word": "小米YU7内饰",
+      "onboard_time": 1747909765,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 301697,
       "num": 301697,
       "word": "女子唇部打针数日后入院抢救",
@@ -4617,14 +4649,6 @@
       "onboard_time": 1747891344,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286685,
-      "num": 286685,
-      "word": "武大校门被淹一米深",
-      "onboard_time": 1747908926,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286642,
@@ -5300,7 +5324,7 @@
     },
     {
       "raw_hot": 247025,
-      "num": 302168,
+      "num": 327597,
       "word": "云游青藏高原打开雪豹的朋友圈",
       "onboard_time": 1747907844,
       "rank": 17,
@@ -6507,6 +6531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210251,
+      "num": 275283,
+      "word": "周雨彤进组谍报上不封顶",
+      "onboard_time": 1747909345,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210229,
       "num": 192805,
       "word": "阿云嘎 来帮我选选唱哪首",
@@ -6601,6 +6633,14 @@
       "onboard_time": 1747750224,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208963,
+      "num": 208963,
+      "word": "魏劭求和的方式是撒娇",
+      "onboard_time": 1747909704,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208742,
@@ -7435,14 +7475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196124,
-      "num": 275283,
-      "word": "周雨彤进组谍报上不封顶",
-      "onboard_time": 1747909345,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196093,
       "num": 196093,
       "word": "房东的空调比我岁数都大",
@@ -7779,14 +7811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191991,
-      "num": 191991,
-      "word": "混双四强",
-      "onboard_time": 1747908625,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191956,
       "num": 224471,
       "word": "折腰史上下线最快的反派",
@@ -7929,6 +7953,14 @@
       "onboard_time": 1747545031,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190765,
+      "num": 190765,
+      "word": "高合",
+      "onboard_time": 1747907123,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 190515,
@@ -8963,6 +8995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175481,
+      "num": 175481,
+      "word": "台媒说都是跟着王楚钦来的",
+      "onboard_time": 1747907123,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175085,
       "num": 175085,
       "word": "刘耀文饭撒怎么还聊上了",
@@ -9668,7 +9708,7 @@
     },
     {
       "raw_hot": 164060,
-      "num": 164060,
+      "num": 209910,
       "word": "雷佳音新剧被资本做局了",
       "onboard_time": 1747909225,
       "rank": 37,
@@ -10043,6 +10083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159149,
+      "num": 255898,
+      "word": "怀疑妻子出轨轻生事件王超姐姐发声",
+      "onboard_time": 1747908204,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159135,
       "num": 159135,
       "word": "许昕19岁就跟姚彦表白",
@@ -10105,6 +10153,14 @@
       "onboard_time": 1747802548,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158653,
+      "num": 158653,
+      "word": "让你瘦到极致的有效方法",
+      "onboard_time": 1747907004,
+      "rank": 41,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 158645,
@@ -10923,6 +10979,14 @@
       "category": "民生新闻,电竞"
     },
     {
+      "raw_hot": 149856,
+      "num": 149856,
+      "word": "梁靖崑VS贾维斯",
+      "onboard_time": 1747907242,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149745,
       "num": 149745,
       "word": "女子咳一周查出肺里好多洞",
@@ -11083,14 +11147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147166,
-      "num": 147166,
-      "word": "高合",
-      "onboard_time": 1747907123,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 147041,
       "num": 147041,
       "word": "相亲不可能三角",
@@ -11201,14 +11257,6 @@
       "onboard_time": 1747729642,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144899,
-      "num": 144899,
-      "word": "台媒说都是跟着王楚钦来的",
-      "onboard_time": 1747907123,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 144835,
@@ -12185,6 +12233,14 @@
       "onboard_time": 1747740863,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 133914,
+      "num": 133914,
+      "word": "郭富城张艺兴两个舞王凑一起了",
+      "onboard_time": 1747910664,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 133707,
@@ -13449,14 +13505,6 @@
       "onboard_time": 1747793720,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113254,
-      "num": 255898,
-      "word": "怀疑妻子出轨轻生事件王超姐姐发声",
-      "onboard_time": 1747908204,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113185,
@@ -15113,6 +15161,14 @@
       "onboard_time": 1747530689,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84375,
+      "num": 209295,
+      "word": "便秘的中学生和被忽视的如厕自由",
+      "onboard_time": 1747909945,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 84344,
@@ -17571,6 +17627,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41904,
+      "num": 209521,
+      "word": "全球仅一份的iPhone挂画升值空间大吗",
+      "onboard_time": 1747910184,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 41780,
+      "num": 165825,
+      "word": "芦璐说咱们莎莎真的太牛了",
+      "onboard_time": 1747910664,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41626,
       "num": 445314,
       "word": "深圳摩的打人什么原因引起的",
@@ -18153,6 +18225,14 @@
       "onboard_time": 1747848077,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33768,
+      "num": 304697,
+      "word": "贵州滑坡事发地疑似当地灾害治理点",
+      "onboard_time": 1747909945,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 33717,
@@ -18819,6 +18899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26324,
+      "num": 227614,
+      "word": "男子4X200自接浙江队头名进决赛",
+      "onboard_time": 1747905922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26277,
       "num": 55419,
       "word": "严浩翔个人直拍发布",
@@ -18977,14 +19065,6 @@
       "onboard_time": 1747897891,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25060,
-      "num": 227614,
-      "word": "男子4X200自接浙江队头名进决赛",
-      "onboard_time": 1747905922,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 25058,
@@ -19289,6 +19369,14 @@
       "onboard_time": 1747550781,
       "rank": 34,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 21925,
+      "num": 193833,
+      "word": "歼10CE成为马来西亚航展大明星",
+      "onboard_time": 1747910544,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 21798,
@@ -19609,6 +19697,14 @@
       "onboard_time": 1747513453,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19313,
+      "num": 284993,
+      "word": "路虎女与摩的司机打人事件区别在哪",
+      "onboard_time": 1747910184,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19215,
@@ -20091,6 +20187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15468,
+      "num": 245903,
+      "word": "长和再回应港口交易",
+      "onboard_time": 1747910484,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15269,
       "num": 23796,
       "word": "中超联赛",
@@ -20129,6 +20233,14 @@
       "onboard_time": 1747725440,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14929,
+      "num": 209336,
+      "word": "孟加拉称要台风和歼10C搭配",
+      "onboard_time": 1747909584,
+      "rank": 41,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 14906,
@@ -20515,14 +20627,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 11547,
-      "num": 161061,
-      "word": "孟加拉称要台风和歼10C搭配",
-      "onboard_time": 1747909584,
-      "rank": 41,
-      "category": "军事,民生新闻"
-    },
-    {
       "raw_hot": 11478,
       "num": 287172,
       "word": "PL1导弹的数字化如何改变空战模式",
@@ -20641,6 +20745,14 @@
       "onboard_time": 1747668683,
       "rank": 27,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 10098,
+      "num": 301419,
+      "word": "袁老提出过哪些粮食安全的重要观点",
+      "onboard_time": 1747909285,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9931,
@@ -20785,14 +20897,6 @@
       "onboard_time": 1747649844,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7889,
-      "num": 301419,
-      "word": "袁老提出过哪些粮食安全的重要观点",
-      "onboard_time": 1747909285,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7816,
