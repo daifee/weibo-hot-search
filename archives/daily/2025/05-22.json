@@ -1,7 +1,15 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747884648141,
+  "endTime": 1747886228920,
   "band_list": [
+    {
+      "raw_hot": 3969863,
+      "num": 896947,
+      "word": "男子性侵侄子7年家庭集体包庇",
+      "onboard_time": 1747883421,
+      "rank": 9,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3092047,
       "num": 3092047,
@@ -11,20 +19,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1985464,
-      "num": 896947,
-      "word": "男子性侵侄子7年家庭集体包庇",
-      "onboard_time": 1747883421,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1455716,
       "num": 1198456,
       "word": "朝鲜新驱逐舰下水时发生严重事故",
       "onboard_time": 1747875323,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1376637,
+      "num": 1376637,
+      "word": "深圳警方通报男子地铁口附近打人",
+      "onboard_time": 1747885101,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1362517,
+      "num": 1362517,
+      "word": "郑晓龙这么多年还是爱眼泪往上擦",
+      "onboard_time": 1747884263,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1243168,
@@ -75,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 693818,
+      "num": 337552,
+      "word": "李昀锐染了金发",
+      "onboard_time": 1747884202,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664684,
       "num": 315114,
       "word": "朱媛媛丧事办得很简单",
@@ -99,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 605818,
+      "num": 434521,
+      "word": "歌手首场揭榜赛制",
+      "onboard_time": 1747884323,
+      "rank": 32,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 580054,
       "num": 404394,
       "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
@@ -108,19 +140,19 @@
     },
     {
       "raw_hot": 573028,
-      "num": 405258,
+      "num": 423154,
       "word": "惊蛰无声易烊千玺朱一龙双男主",
       "onboard_time": 1747881861,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 522321,
-      "num": 522321,
-      "word": "郑晓龙这么多年还是爱眼泪往上擦",
-      "onboard_time": 1747884263,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 569145,
+      "num": 569145,
+      "word": "特朗普与南非总统争吵现场",
+      "onboard_time": 1747883241,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 496379,
@@ -145,6 +177,22 @@
       "onboard_time": 1747877062,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 458575,
+      "num": 458575,
+      "word": "樊振东排面拉满",
+      "onboard_time": 1747883783,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 457922,
+      "num": 384838,
+      "word": "黄杨钿甜",
+      "onboard_time": 1747878861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 445926,
@@ -211,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384838,
-      "num": 384838,
-      "word": "黄杨钿甜",
-      "onboard_time": 1747878861,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384754,
       "num": 384754,
       "word": "武汉暴雨",
@@ -251,12 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337552,
-      "num": 337552,
-      "word": "李昀锐染了金发",
-      "onboard_time": 1747884202,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 316837,
+      "num": 339988,
+      "word": "花50万带娃环球500天父亲发声",
+      "onboard_time": 1747883421,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313595,
+      "num": 313595,
+      "word": "程序员买T恤穿几次成睡衣了",
+      "onboard_time": 1747884922,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 312059,
@@ -267,12 +315,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304333,
-      "num": 401181,
-      "word": "特朗普与南非总统争吵现场",
-      "onboard_time": 1747883241,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 301469,
+      "num": 315114,
+      "word": "步行者上演惊天逆转",
+      "onboard_time": 1747885222,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294631,
+      "num": 294631,
+      "word": "深圳一摩的司机疑因被拒乘殴打女子",
+      "onboard_time": 1747885101,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291839,
+      "num": 314323,
+      "word": "曝信阳一高中强制家长陪餐监考",
+      "onboard_time": 1747884684,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290537,
@@ -281,6 +345,14 @@
       "onboard_time": 1747866436,
       "rank": 28,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 289712,
+      "num": 289712,
+      "word": "被亲叔叔侵害7年的男生发声",
+      "onboard_time": 1747885101,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289620,
@@ -300,7 +372,7 @@
     },
     {
       "raw_hot": 283740,
-      "num": 228973,
+      "num": 310842,
       "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
       "onboard_time": 1747883183,
       "rank": 23,
@@ -355,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247673,
+      "num": 247673,
+      "word": "截瘫网红称与医生结婚生子遭抛弃",
+      "onboard_time": 1747884562,
+      "rank": 29,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 241464,
       "num": 232388,
       "word": "刘宇宁回应折腰结局有人死吗",
       "onboard_time": 1747844121,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240038,
+      "num": 240038,
+      "word": "家政阿姨因2月只有28天被扣工资",
+      "onboard_time": 1747884922,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238800,
@@ -379,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229499,
+      "num": 229499,
+      "word": "A股",
+      "onboard_time": 1747885642,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226189,
       "num": 226189,
       "word": "林诗栋发球被判遮挡",
@@ -387,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220843,
-      "num": 220843,
-      "word": "截瘫网红称与医生结婚生子遭抛弃",
-      "onboard_time": 1747884562,
-      "rank": 29,
-      "category": "网红,民生新闻"
+      "raw_hot": 225878,
+      "num": 225878,
+      "word": "任天堂Switch2被黄牛炒到上万元",
+      "onboard_time": 1747884863,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 219872,
@@ -403,11 +499,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219675,
-      "num": 219675,
-      "word": "樊振东排面拉满",
-      "onboard_time": 1747883783,
-      "rank": 25,
+      "raw_hot": 217890,
+      "num": 217890,
+      "word": "王楚钦孙颖莎冲击混双4强",
+      "onboard_time": 1747885822,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -417,14 +513,6 @@
       "onboard_time": 1747838305,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 213424,
-      "num": 213424,
-      "word": "歌手首场揭榜赛制",
-      "onboard_time": 1747884323,
-      "rank": 32,
-      "category": "综艺,音乐"
     },
     {
       "raw_hot": 209567,
@@ -459,6 +547,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196898,
+      "num": 196898,
+      "word": "内史密斯米勒附体",
+      "onboard_time": 1747885884,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196274,
+      "num": 196274,
+      "word": "步行者1比0尼克斯",
+      "onboard_time": 1747884863,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193814,
+      "num": 193814,
+      "word": "花17万买车后车企倒闭车辆裸奔上路",
+      "onboard_time": 1747884023,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 191450,
       "num": 191450,
       "word": "耀眼",
@@ -475,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188937,
+      "num": 188937,
+      "word": "恋与制作人",
+      "onboard_time": 1747886063,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188855,
       "num": 188855,
       "word": "张本智和1比4户上隼辅",
@@ -489,6 +609,14 @@
       "onboard_time": 1747879581,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182977,
+      "num": 307750,
+      "word": "宁艺卓简简单单鲨疯了",
+      "onboard_time": 1747884502,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 182241,
@@ -539,6 +667,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 170877,
+      "num": 214316,
+      "word": "阿云嘎马嘉祺揭榜",
+      "onboard_time": 1747884621,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169933,
       "num": 169933,
       "word": "进去vip 出来svip",
@@ -555,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162212,
-      "num": 162212,
-      "word": "花17万买车后车企倒闭车辆裸奔上路",
-      "onboard_time": 1747884023,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 160081,
       "num": 186700,
       "word": "种地吧早七突袭直播",
@@ -576,6 +704,14 @@
       "word": "风吹过稻田依然想念您",
       "onboard_time": 1747877662,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157991,
+      "num": 305899,
+      "word": "40万的音响50万的相机",
+      "onboard_time": 1747883122,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -675,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133023,
+      "num": 305559,
+      "word": "网红自述截瘫12年怀孕生子后遭抛弃",
+      "onboard_time": 1747884982,
+      "rank": 28,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 127628,
       "num": 127628,
       "word": "陶虹发长文缅怀朱媛媛",
@@ -699,28 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123055,
-      "num": 123055,
-      "word": "阿云嘎马嘉祺揭榜",
-      "onboard_time": 1747884621,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120296,
       "num": 120296,
       "word": "遭摩的司机性侵女孩家属称孩子已转学",
       "onboard_time": 1747836264,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118632,
-      "num": 118632,
-      "word": "宁艺卓简简单单鲨疯了",
-      "onboard_time": 1747884502,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 116254,
@@ -827,6 +955,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 105396,
+      "num": 315892,
+      "word": "地铁口附近打人男子曾确诊精神分裂",
+      "onboard_time": 1747885762,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103842,
       "num": 86746,
       "word": "刘国梁王励勤看孙颖莎比赛",
@@ -931,20 +1067,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 94556,
-      "num": 339988,
-      "word": "花50万带娃环球500天父亲发声",
-      "onboard_time": 1747883421,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94137,
       "num": 94078,
       "word": "B太称好心照顾大爷生意反被骗",
       "onboard_time": 1747870400,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93904,
+      "num": 290175,
+      "word": "汪顺将参与4X200米自由泳接力",
+      "onboard_time": 1747884982,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 93184,
@@ -1027,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84557,
+      "num": 315651,
+      "word": "美国遭股债汇三杀",
+      "onboard_time": 1747885044,
+      "rank": 14,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 83532,
       "num": 91738,
       "word": "导演马勇逝世",
@@ -1067,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77825,
-      "num": 225845,
-      "word": "40万的音响50万的相机",
-      "onboard_time": 1747883122,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75856,
       "num": 114768,
       "word": "美国再遭股汇债三杀",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1747880060,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 71053,
+      "num": 302464,
+      "word": "一盒助眠药从20元飙涨到100多元",
+      "onboard_time": 1747885942,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 70849,
@@ -1211,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40196,
+      "num": 343846,
+      "word": "运动时如何保持最佳状态",
+      "onboard_time": 1747884084,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38951,
       "num": 41584,
       "word": "于正回应请单依纯唱歌事件",
@@ -1244,7 +1396,7 @@
     },
     {
       "raw_hot": 33993,
-      "num": 1034886,
+      "num": 1065881,
       "word": "民营经济促进法施行释放三大信号",
       "onboard_time": 1747833503,
       "rank": 2,
@@ -1257,14 +1409,6 @@
       "onboard_time": 1747848077,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30751,
-      "num": 343846,
-      "word": "运动时如何保持最佳状态",
-      "onboard_time": 1747884084,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 29667,
@@ -1283,12 +1427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28957,
+      "num": 226647,
+      "word": "网传垃圾食品有解药是否有科学依据",
+      "onboard_time": 1747886182,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28603,
       "num": 225157,
       "word": "不同年龄段有哪些防癌建议",
       "onboard_time": 1747882102,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27976,
+      "num": 304047,
+      "word": "为什么劣质数据线会引发安全隐患",
+      "onboard_time": 1747885582,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25500,
