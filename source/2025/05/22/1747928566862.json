@@ -1,0 +1,410 @@
+{
+  "runTime": 1747928566862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11265883,
+        "num": 11265883,
+        "word": "赵丽颖这算官宣恋情吗",
+        "onboard_time": 1747923624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1382624,
+        "num": 1382624,
+        "word": "王楚钦晋级世乒赛八强",
+        "onboard_time": 1747926509,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6418,
+        "num": 926275,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2730855,
+        "num": 923581,
+        "word": "赵丽颖回应",
+        "onboard_time": 1747927586,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822144,
+        "num": 822144,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747921825,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573910,
+        "num": 573910,
+        "word": "王楚钦更换球衣",
+        "onboard_time": 1747925610,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2630161,
+        "num": 573080,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532303,
+        "num": 532303,
+        "word": "在人间",
+        "onboard_time": 1747919364,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 903160,
+        "num": 519695,
+        "word": "赵丽颖",
+        "onboard_time": 1747923926,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272399,
+        "num": 506964,
+        "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+        "onboard_time": 1747919905,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747973,
+        "num": 489307,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709199,
+        "num": 476432,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460020,
+        "num": 460020,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 346624,
+        "num": 434460,
+        "word": "雷军说小米YU7不可能19.9万",
+        "onboard_time": 1747920745,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 415739,
+        "num": 415739,
+        "word": "国乒男双无缘世乒赛四强",
+        "onboard_time": 1747916664,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400209,
+        "num": 400209,
+        "word": "王楚钦的含金量还在上升",
+        "onboard_time": 1747922184,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280196,
+        "num": 280196,
+        "word": "冰湖重生 黄杨钿甜",
+        "onboard_time": 1747914024,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267330,
+        "num": 267330,
+        "word": "周琦老婆承认逼丈夫回国失去理智",
+        "onboard_time": 1747921285,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46996,
+        "num": 263419,
+        "word": "深蓝CEO承诺深蓝S09一年不降价",
+        "onboard_time": 1747924528,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 216830,
+        "num": 262702,
+        "word": "张极给左航的生日祝福",
+        "onboard_time": 1747928186,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502335,
+        "num": 262693,
+        "word": "女子产检发现宝宝心肝脾全长反了",
+        "onboard_time": 1747925427,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262605,
+        "num": 262605,
+        "word": "快70了才穿上18岁想穿的衣服",
+        "onboard_time": 1747926211,
+        "rank": 21,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 234910,
+        "num": 234910,
+        "word": "王楚钦希望和莎莎有好的表现",
+        "onboard_time": 1747928545,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90452,
+        "num": 224461,
+        "word": "结婚生子遭抛弃截瘫网红发声",
+        "onboard_time": 1747928245,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222699,
+        "num": 222699,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216732,
+        "num": 216732,
+        "word": "鹿晗新歌",
+        "onboard_time": 1747922305,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223628,
+        "num": 216524,
+        "word": "徐嘉余 余生请多游泳",
+        "onboard_time": 1747926090,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14767,
+        "num": 214538,
+        "word": "科三考试中遇到了牛拦三",
+        "onboard_time": 1747927886,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 19991,
+        "num": 213005,
+        "word": "一朝打印天下知",
+        "onboard_time": 1747927287,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21302,
+        "num": 210396,
+        "word": "保险理赔要危重病人自愿转入指定医院",
+        "onboard_time": 1747927706,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 210156,
+        "num": 210156,
+        "word": "歌手歌单",
+        "onboard_time": 1747915223,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 209734,
+        "word": "这是载入中国游泳史的一幕",
+        "onboard_time": 1747926867,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247717,
+        "num": 209539,
+        "word": "梁靖崑投诉球拍上都是水",
+        "onboard_time": 1747926389,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227459,
+        "num": 209144,
+        "word": "光渊",
+        "onboard_time": 1747926271,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 208443,
+        "word": "翔霖",
+        "onboard_time": 1747923144,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208185,
+        "num": 208185,
+        "word": "邓佳鑫祝左航生日快乐",
+        "onboard_time": 1747927945,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207506,
+        "num": 207506,
+        "word": "王楚钦采访",
+        "onboard_time": 1747928545,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206814,
+        "num": 206814,
+        "word": "王楚钦",
+        "onboard_time": 1747928425,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203260,
+        "num": 203260,
+        "word": "鹭卓肠胃镜vlog",
+        "onboard_time": 1747927406,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203180,
+        "num": 203180,
+        "word": "官方通报大学生坠入化粪池遇难",
+        "onboard_time": 1747923746,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197544,
+        "num": 197544,
+        "word": "嘉行",
+        "onboard_time": 1747913783,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195537,
+        "num": 195537,
+        "word": "金秋天染金发了",
+        "onboard_time": 1747924889,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189709,
+        "num": 190522,
+        "word": "陈楚生 我用什么把你留住",
+        "onboard_time": 1747927047,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "王楚钦握拳怒吼",
+        "onboard_time": 1747928245,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189945,
+        "num": 189945,
+        "word": "河北骑行男孩身亡案最新进展",
+        "onboard_time": 1747926987,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173971,
+        "num": 173971,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171104,
+        "num": 171104,
+        "word": "京城大师赛",
+        "onboard_time": 1747926090,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 163272,
+        "word": "易烊千玺说媛媛姐十分照顾他",
+        "onboard_time": 1747927228,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "易烊千玺戛纳到达",
+        "onboard_time": 1747919544,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156028,
+        "num": 156028,
+        "word": "藏海传这仨笑死我了",
+        "onboard_time": 1747917264,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747927702587,
+  "endTime": 1747928566862,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -401,6 +401,14 @@
       "onboard_time": 1746581302,
       "rank": 1,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 2730855,
+      "num": 932289,
+      "word": "赵丽颖回应",
+      "onboard_time": 1747927586,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2700394,
@@ -1641,14 +1649,6 @@
       "onboard_time": 1746072920,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1584533,
-      "num": 932289,
-      "word": "赵丽颖回应",
-      "onboard_time": 1747927586,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1583680,
@@ -3292,7 +3292,7 @@
     },
     {
       "raw_hot": 1156681,
-      "num": 440710,
+      "num": 519695,
       "word": "赵丽颖",
       "onboard_time": 1747923926,
       "rank": 35,
@@ -10611,6 +10611,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 532303,
+      "num": 532303,
+      "word": "在人间",
+      "onboard_time": 1747919364,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532273,
       "num": 532273,
       "word": "SK",
@@ -13177,14 +13185,6 @@
       "onboard_time": 1746970342,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 439831,
-      "num": 439831,
-      "word": "在人间",
-      "onboard_time": 1747919364,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 439825,
@@ -24387,6 +24387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 234910,
+      "num": 234910,
+      "word": "王楚钦希望和莎莎有好的表现",
+      "onboard_time": 1747928545,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234645,
       "num": 234645,
       "word": "终于学会扎丸子头了",
@@ -25651,6 +25659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223628,
+      "num": 220692,
+      "word": "徐嘉余 余生请多游泳",
+      "onboard_time": 1747926090,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223594,
       "num": 264316,
       "word": "吴彦祖回应收手吧阿祖网络爆火",
@@ -26105,14 +26121,6 @@
       "onboard_time": 1747367963,
       "rank": 41,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 220692,
-      "num": 220692,
-      "word": "徐嘉余 余生请多游泳",
-      "onboard_time": 1747926090,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 220675,
@@ -26657,6 +26665,14 @@
       "onboard_time": 1747134321,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216830,
+      "num": 262702,
+      "word": "张极给左航的生日祝福",
+      "onboard_time": 1747928186,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 216706,
@@ -28147,6 +28163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208185,
+      "num": 208185,
+      "word": "邓佳鑫祝左航生日快乐",
+      "onboard_time": 1747927945,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208158,
       "num": 208158,
       "word": "张真源solo舞台露腰",
@@ -28336,6 +28360,14 @@
       "word": "郑钦文谈第一次击败萨巴伦卡",
       "onboard_time": 1747265059,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207506,
+      "num": 207506,
+      "word": "王楚钦采访",
+      "onboard_time": 1747928545,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -28553,6 +28585,14 @@
       "onboard_time": 1746763822,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206814,
+      "num": 206814,
+      "word": "王楚钦",
+      "onboard_time": 1747928425,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 206810,
@@ -29537,6 +29577,14 @@
       "onboard_time": 1747650024,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203260,
+      "num": 203260,
+      "word": "鹭卓肠胃镜vlog",
+      "onboard_time": 1747927406,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 203152,
@@ -33811,6 +33859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190035,
+      "num": 190035,
+      "word": "王楚钦握拳怒吼",
+      "onboard_time": 1747928245,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190017,
       "num": 190017,
       "word": "奶茶社交",
@@ -33849,6 +33905,14 @@
       "onboard_time": 1746083422,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189945,
+      "num": 466759,
+      "word": "河北骑行男孩身亡案最新进展",
+      "onboard_time": 1747926987,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189918,
@@ -35177,14 +35241,6 @@
       "onboard_time": 1746604523,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186357,
-      "num": 186357,
-      "word": "鹭卓肠胃镜vlog",
-      "onboard_time": 1747927406,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 186351,
@@ -39097,6 +39153,14 @@
       "onboard_time": 1746454104,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 171104,
+      "num": 171104,
+      "word": "京城大师赛",
+      "onboard_time": 1746719781,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 171003,
@@ -53603,14 +53667,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 129799,
-      "num": 137234,
-      "word": "京城大师赛",
-      "onboard_time": 1746719781,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 129795,
       "num": 277896,
       "word": "湖南双牌发生交通事故2教师身亡",
@@ -61851,14 +61907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104286,
-      "num": 466759,
-      "word": "河北骑行男孩身亡案最新进展",
-      "onboard_time": 1747926987,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104217,
       "num": 191897,
       "word": "美国电商平台商品价格全线上涨",
@@ -64881,6 +64929,14 @@
       "onboard_time": 1746978022,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90452,
+      "num": 224461,
+      "word": "结婚生子遭抛弃截瘫网红发声",
+      "onboard_time": 1747928245,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90443,
@@ -81707,6 +81763,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 21302,
+      "num": 210396,
+      "word": "保险理赔要危重病人自愿转入指定医院",
+      "onboard_time": 1747927706,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21298,
       "num": 254265,
       "word": "消费者如何辨别鸡蛋是否兽药超标",
@@ -82281,6 +82345,14 @@
       "onboard_time": 1746987434,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19991,
+      "num": 308793,
+      "word": "一朝打印天下知",
+      "onboard_time": 1747927287,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19990,
@@ -84353,6 +84425,14 @@
       "onboard_time": 1746868763,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14767,
+      "num": 214538,
+      "word": "科三考试中遇到了牛拦三",
+      "onboard_time": 1747927886,
+      "rank": 27,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 14728,
@@ -86489,14 +86569,6 @@
       "onboard_time": 1746692482,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8235,
-      "num": 308793,
-      "word": "一朝打印天下知",
-      "onboard_time": 1747927287,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8205,
