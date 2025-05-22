@@ -1,0 +1,410 @@
+{
+  "runTime": 1747892582896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2511220,
+        "num": 2511220,
+        "word": "特朗普突然下令关灯放电视",
+        "onboard_time": 1747889664,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 864317,
+        "num": 864317,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18250,
+        "num": 766751,
+        "word": "中国扩大开放的步伐从未停止",
+        "onboard_time": 1747891942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764514,
+        "num": 764514,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1747887324,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 598765,
+        "num": 598765,
+        "word": "朱媛媛住院治疗照",
+        "onboard_time": 1747875743,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573792,
+        "num": 573792,
+        "word": "深圳警方通报男子地铁口附近打人",
+        "onboard_time": 1747885101,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 374843,
+        "num": 374843,
+        "word": "战至巅峰",
+        "onboard_time": 1747888824,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347744,
+        "num": 347744,
+        "word": "惊蛰无声易烊千玺朱一龙双男主",
+        "onboard_time": 1747881861,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270045,
+        "num": 270045,
+        "word": "特朗普与南非总统争吵现场",
+        "onboard_time": 1747883241,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76476,
+        "num": 269932,
+        "word": "贵州一地山体滑坡初判10余人被困",
+        "onboard_time": 1747891702,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2246949,
+        "num": 268134,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762396,
+        "num": 267292,
+        "word": "李蠕蠕模仿韩国霸总吃饭",
+        "onboard_time": 1747888164,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 433064,
+        "num": 266026,
+        "word": "被亲叔叔侵害7年的男生发声",
+        "onboard_time": 1747885101,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396895,
+        "num": 264784,
+        "word": "包上恩学生时期美得我一激灵",
+        "onboard_time": 1747887024,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30242,
+        "num": 264316,
+        "word": "吴彦祖回应收手吧阿祖网络爆火",
+        "onboard_time": 1747891822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307059,
+        "num": 263156,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 15,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 276017,
+        "num": 261510,
+        "word": "火彩",
+        "onboard_time": 1747891344,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225822,
+        "num": 260881,
+        "word": "花17万买车后车企倒闭车辆裸奔上路",
+        "onboard_time": 1747884023,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 214447,
+        "num": 260032,
+        "word": "曝信阳一高中强制家长陪餐监考",
+        "onboard_time": 1747884684,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 258577,
+        "word": "卵巢癌晚期的治疗有哪些难点",
+        "onboard_time": 1747890383,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271091,
+        "num": 257885,
+        "word": "李昀锐染了金发",
+        "onboard_time": 1747884202,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193652,
+        "num": 256131,
+        "word": "被苏娥皇做局了",
+        "onboard_time": 1747891642,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191899,
+        "num": 255711,
+        "word": "藏海传 烧脑",
+        "onboard_time": 1747891522,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254998,
+        "num": 254998,
+        "word": "朝鲜新驱逐舰下水时发生严重事故",
+        "onboard_time": 1747875323,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55493,
+        "num": 254327,
+        "word": "傅盛谈AI时代的用人标准",
+        "onboard_time": 1747891522,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 97539,
+        "num": 253146,
+        "word": "京东给米粉果粉花粉加餐",
+        "onboard_time": 1747890622,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52353,
+        "num": 252740,
+        "word": "孙颖莎又打服了一个",
+        "onboard_time": 1747877662,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42911,
+        "num": 251268,
+        "word": "沉浸式观看孙颖莎赛前准备",
+        "onboard_time": 1747891702,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251246,
+        "num": 251246,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23369,
+        "num": 245269,
+        "word": "家庭集体包庇罪犯需承担哪些责任",
+        "onboard_time": 1747892183,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 80992,
+        "num": 244531,
+        "word": "申裕斌回应对战孙颖莎",
+        "onboard_time": 1747891462,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244049,
+        "num": 244049,
+        "word": "雷军称YU7不会公布正式价钱",
+        "onboard_time": 1747890264,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234547,
+        "num": 234547,
+        "word": "迪丽热巴中世纪宫廷风",
+        "onboard_time": 1747886783,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204209,
+        "num": 204209,
+        "word": "以驻美使馆两工作人员在华盛顿遇害",
+        "onboard_time": 1747887863,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194482,
+        "num": 194482,
+        "word": "活期存款已近0利率",
+        "onboard_time": 1747889605,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 176415,
+        "num": 176415,
+        "word": "樊振东排面拉满",
+        "onboard_time": 1747883783,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137353,
+        "num": 168256,
+        "word": "林高远说睡前原谅一切醒来便是重生",
+        "onboard_time": 1747890983,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16151,
+        "num": 164162,
+        "word": "阿莫林加纳乔吵架错在谁",
+        "onboard_time": 1747891282,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160909,
+        "num": 160909,
+        "word": "开始推理吧",
+        "onboard_time": 1747892242,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159385,
+        "num": 159385,
+        "word": "折腰嗑上头了",
+        "onboard_time": 1747891883,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152679,
+        "num": 152679,
+        "word": "藏海传一股子古早权谋复仇味",
+        "onboard_time": 1747892304,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151704,
+        "num": 151704,
+        "word": "小米新品发布会雷军讲全场",
+        "onboard_time": 1747890264,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149667,
+        "num": 149667,
+        "word": "灵笼第二季终极PV",
+        "onboard_time": 1747892003,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 8879,
+        "num": 148896,
+        "word": "普通人参加拍卖会是什么体验",
+        "onboard_time": 1747892361,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80336,
+        "num": 148517,
+        "word": "美前总统克林顿被曝秘密访韩",
+        "onboard_time": 1747890622,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148310,
+        "num": 148310,
+        "word": "藏海跑姿",
+        "onboard_time": 1747887563,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147826,
+        "num": 147826,
+        "word": "高校通报学生女厕偷拍被当场抓获",
+        "onboard_time": 1747892541,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147715,
+        "num": 147715,
+        "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
+        "onboard_time": 1747883183,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146103,
+        "num": 146103,
+        "word": "为什么要拿这种事情当秀恩爱的工具",
+        "onboard_time": 1747889183,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145107,
+        "num": 145107,
+        "word": "王楚钦孙颖莎冲击混双4强",
+        "onboard_time": 1747885822,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴河南考察纪实#"
+    }
+  }
+}
