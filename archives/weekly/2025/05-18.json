@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747932488419,
+  "endTime": 1747934607494,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -3803,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379973,
+      "num": 379973,
+      "word": "大学生坠入化粪池遇难副校长被免职",
+      "onboard_time": 1747930283,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378674,
       "num": 265953,
       "word": "折腰20集",
@@ -6115,14 +6123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234561,
-      "num": 234561,
-      "word": "大学生坠入化粪池遇难副校长被免职",
-      "onboard_time": 1747930283,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234533,
       "num": 234533,
       "word": "春夏演技",
@@ -7208,6 +7208,14 @@
       "word": "曹骏方否认买通稿艳压抹黑他人",
       "onboard_time": 1747903823,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209642,
+      "num": 163322,
+      "word": "黄子韬49.8元卫生巾被炒到190元",
+      "onboard_time": 1747930222,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -8561,14 +8569,6 @@
       "onboard_time": 1747734982,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192286,
-      "num": 163322,
-      "word": "黄子韬49.8元卫生巾被炒到190元",
-      "onboard_time": 1747930222,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 192150,
@@ -12403,6 +12403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142783,
+      "num": 83261,
+      "word": "三斤榴莲开出八斤肉",
+      "onboard_time": 1747933399,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142691,
       "num": 142691,
       "word": "茅台股东大会前夜晚宴改为自助餐",
@@ -13817,6 +13825,14 @@
       "onboard_time": 1747492946,
       "rank": 32,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 125654,
+      "num": 125654,
+      "word": "莫雷加德4比3张禹珍",
+      "onboard_time": 1747933399,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 124929,
@@ -16451,6 +16467,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 82069,
+      "num": 167201,
+      "word": "qko否认给赵磊让妆",
+      "onboard_time": 1747931601,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81832,
       "num": 81832,
       "word": "情书",
@@ -17171,14 +17195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70924,
-      "num": 167201,
-      "word": "qko否认给赵磊让妆",
-      "onboard_time": 1747931601,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70884,
       "num": 744242,
       "word": "中国经济延续向新向好",
@@ -17737,6 +17753,14 @@
       "onboard_time": 1747904783,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61099,
+      "num": 61099,
+      "word": "肖战扭胸",
+      "onboard_time": 1747932740,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 60925,
@@ -18323,6 +18347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50546,
+      "num": 50546,
+      "word": "藏海传云合",
+      "onboard_time": 1747934358,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50425,
       "num": 249749,
       "word": "川大撤回聘用日本考古学家通知",
@@ -18337,6 +18369,14 @@
       "onboard_time": 1747646364,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 50319,
+      "num": 50319,
+      "word": "王楚钦第5局状态爆棚",
+      "onboard_time": 1747934177,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 50240,
@@ -18393,6 +18433,14 @@
       "onboard_time": 1747538550,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49680,
+      "num": 49680,
+      "word": "原来孟子义才是做饭届的社牛天花板",
+      "onboard_time": 1747933877,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 49588,
