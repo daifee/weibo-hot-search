@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747938930255,
+  "endTime": 1747939754595,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160100,
+      "num": 160100,
+      "word": "孙颖莎4比2申裕斌",
+      "onboard_time": 1747938316,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157975,
       "num": 157975,
       "word": "潘展乐汪顺孙杨费立纬合力夺冠",
@@ -355,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114449,
-      "num": 114449,
-      "word": "孙颖莎4比2申裕斌",
-      "onboard_time": 1747938316,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112865,
       "num": 112865,
       "word": "藏海好疯批的笑声",
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90632,
+      "num": 52094,
+      "word": "孙颖莎11比8申裕斌",
+      "onboard_time": 1747939635,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89335,
       "num": 104602,
       "word": "藏海传这仨笑死我了",
@@ -441,6 +449,14 @@
       "onboard_time": 1747913783,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84593,
+      "num": 44154,
+      "word": "孙颖莎11比5申裕斌",
+      "onboard_time": 1747939635,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 82069,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39356,
+      "num": 39356,
+      "word": "冰湖重生 黄杨钿甜",
+      "onboard_time": 1747914024,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31855,
       "num": 40577,
       "word": "林诗栋12比10卡尔伯格",
@@ -569,6 +593,14 @@
       "onboard_time": 1747918102,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15038,
+      "num": 96987,
+      "word": "嫌犯枪杀以驻美使馆员工落网细节披露",
+      "onboard_time": 1747938975,
+      "rank": 9,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
