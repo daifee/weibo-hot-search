@@ -1,0 +1,410 @@
+{
+  "runTime": 1747899542504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2030585,
+        "num": 2030585,
+        "word": "林峯老婆被爆520晒网图P掉商家logo",
+        "onboard_time": 1747894102,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914768,
+        "num": 914768,
+        "word": "教育部拟同意设置32所新大学",
+        "onboard_time": 1747893742,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30777,
+        "num": 702346,
+        "word": "中国扩大开放的步伐从未停止",
+        "onboard_time": 1747891942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1205232,
+        "num": 696398,
+        "word": "医生发布朱媛媛病房照引争议",
+        "onboard_time": 1747898362,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625750,
+        "num": 625750,
+        "word": "潘展乐汪顺孙杨携手冲冠",
+        "onboard_time": 1747895541,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387750,
+        "num": 387750,
+        "word": "朝鲜为何罕见公布驱逐舰严重事故",
+        "onboard_time": 1747891642,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577096,
+        "num": 383309,
+        "word": "肖战身上痒就去洗澡",
+        "onboard_time": 1747894462,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503135,
+        "num": 382173,
+        "word": "NCTDREAM 不续约",
+        "onboard_time": 1747894941,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362355,
+        "num": 362355,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1747887324,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 331523,
+        "num": 331523,
+        "word": "活期存款已近0利率",
+        "onboard_time": 1747889605,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1300143,
+        "num": 328007,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1391143,
+        "num": 323131,
+        "word": "刘敏涛含泪送别朱媛媛",
+        "onboard_time": 1747894462,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768065,
+        "num": 318796,
+        "word": "特朗普突然下令关灯放电视",
+        "onboard_time": 1747889664,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 615324,
+        "num": 317949,
+        "word": "临榆炸鸡腿真香",
+        "onboard_time": 1747895301,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 383732,
+        "num": 312858,
+        "word": "蔡徐坤TikTok直播",
+        "onboard_time": 1747895784,
+        "rank": 14,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 309945,
+        "num": 309945,
+        "word": "文俊辉成龙打戏",
+        "onboard_time": 1747896621,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263293,
+        "num": 306749,
+        "word": "全球仅一份的iPhone挂画被谁拍走了",
+        "onboard_time": 1747897412,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356214,
+        "num": 301044,
+        "word": "于正想找肖战拍戏",
+        "onboard_time": 1747893322,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28070,
+        "num": 296640,
+        "word": "南方进入本轮降水最强时段",
+        "onboard_time": 1747899262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18971,
+        "num": 287852,
+        "word": "朝鲜造舰如何突破国际制裁限制",
+        "onboard_time": 1747897590,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215630,
+        "num": 284434,
+        "word": "深圳警方通报男子地铁口附近打人",
+        "onboard_time": 1747885101,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 279161,
+        "num": 279161,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268439,
+        "num": 268439,
+        "word": "雷军称YU7不会公布正式价钱",
+        "onboard_time": 1747890264,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236701,
+        "num": 236701,
+        "word": "迪丽热巴玫瑰油画妆",
+        "onboard_time": 1747897291,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190899,
+        "num": 225223,
+        "word": "乡镇初中生因小官巨贪校长吃不饱",
+        "onboard_time": 1747895002,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223821,
+        "num": 223821,
+        "word": "赵丽颖科兰黎线下活动",
+        "onboard_time": 1747898062,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27041,
+        "num": 223255,
+        "word": "武汉强对流天气是怎么形成的",
+        "onboard_time": 1747899083,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23957,
+        "num": 216794,
+        "word": "巴基斯坦陆军参谋长支持率飙升",
+        "onboard_time": 1747898603,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43544,
+        "num": 215110,
+        "word": "花200块雇了个农民工当向导",
+        "onboard_time": 1747898541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25218,
+        "num": 210320,
+        "word": "印兵回访克什米尔阵地",
+        "onboard_time": 1747898062,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208477,
+        "num": 208477,
+        "word": "鞠婧祎代言avia",
+        "onboard_time": 1747898541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196390,
+        "num": 196390,
+        "word": "曝快手要求员工每日刷1小时短视频",
+        "onboard_time": 1747898122,
+        "rank": 31,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 187213,
+        "word": "惊蛰无声易烊千玺朱一龙双男主",
+        "onboard_time": 1747881861,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89655,
+        "num": 182425,
+        "word": "倒卖蜜雪冰城当事人提醒年轻创业者",
+        "onboard_time": 1747898721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180199,
+        "num": 180199,
+        "word": "包上恩学生时期美得我一激灵",
+        "onboard_time": 1747887024,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179785,
+        "num": 179785,
+        "word": "高校通报学生女厕偷拍被当场抓获",
+        "onboard_time": 1747892541,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 177306,
+        "num": 177306,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 36,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 45452,
+        "num": 174752,
+        "word": "腿型改善其实很好拿捏",
+        "onboard_time": 1747898362,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 59841,
+        "num": 173050,
+        "word": "母亲花3万让女儿带资进组被骗",
+        "onboard_time": 1747899502,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24382,
+        "num": 169990,
+        "word": "以后的新房素质一定会越来越高",
+        "onboard_time": 1747897891,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70965,
+        "num": 166428,
+        "word": "以色列驻美使馆2人在华盛顿遇害",
+        "onboard_time": 1747898002,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164521,
+        "num": 164521,
+        "word": "被亲叔叔侵害7年的男生发声",
+        "onboard_time": 1747885101,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163005,
+        "num": 163005,
+        "word": "出现4种异常提示该查妇科了",
+        "onboard_time": 1747893322,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162563,
+        "num": 162563,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157983,
+        "num": 157983,
+        "word": "北证50大跌超6%",
+        "onboard_time": 1747898962,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14853,
+        "num": 156062,
+        "word": "误删数据库后该如何恢复",
+        "onboard_time": 1747898182,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60815,
+        "num": 155895,
+        "word": "直播间花26万赌石后起诉索赔被驳回",
+        "onboard_time": 1747880002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155805,
+        "num": 155805,
+        "word": "拒绝言情小说词汇",
+        "onboard_time": 1747897051,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143792,
+        "num": 143792,
+        "word": "两个唱青苹果乐园的时代顶流要同框了",
+        "onboard_time": 1747898481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140699,
+        "num": 140699,
+        "word": "7位首发歌手或淘汰2人",
+        "onboard_time": 1747899202,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴河南考察纪实#"
+    }
+  }
+}

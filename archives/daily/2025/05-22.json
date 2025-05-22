@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747898725653,
+  "endTime": 1747899542504,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -73,6 +73,14 @@
       "onboard_time": 1747874544,
       "rank": 0,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1205232,
+      "num": 696398,
+      "word": "医生发布朱媛媛病房照引争议",
+      "onboard_time": 1747898362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1056626,
@@ -179,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 625750,
+      "num": 625750,
+      "word": "潘展乐汪顺孙杨携手冲冠",
+      "onboard_time": 1747895541,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 623460,
       "num": 488860,
       "word": "被亲叔叔侵害7年的男生发声",
@@ -193,6 +209,14 @@
       "onboard_time": 1747835304,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615324,
+      "num": 317949,
+      "word": "临榆炸鸡腿真香",
+      "onboard_time": 1747895301,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 606888,
@@ -235,14 +259,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 567285,
-      "num": 567285,
-      "word": "潘展乐汪顺孙杨携手冲冠",
-      "onboard_time": 1747895541,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 561770,
       "num": 625302,
       "word": "曝信阳一高中强制家长陪餐监考",
@@ -280,14 +296,6 @@
       "word": "朱媛媛遗体已火化",
       "onboard_time": 1747878624,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 494534,
-      "num": 351782,
-      "word": "医生发布朱媛媛病房照引争议",
-      "onboard_time": 1747898362,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -387,16 +395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390329,
-      "num": 283109,
-      "word": "临榆炸鸡腿真香",
-      "onboard_time": 1747895301,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 387258,
-      "num": 282400,
+      "num": 312858,
       "word": "蔡徐坤TikTok直播",
       "onboard_time": 1747895784,
       "rank": 20,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309945,
+      "num": 309945,
+      "word": "文俊辉成龙打戏",
+      "onboard_time": 1747896621,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 301469,
       "num": 315114,
       "word": "步行者上演惊天逆转",
@@ -545,14 +553,6 @@
       "onboard_time": 1747881442,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287163,
-      "num": 287163,
-      "word": "文俊辉成龙打戏",
-      "onboard_time": 1747896621,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 286994,
@@ -632,6 +632,14 @@
       "word": "家政阿姨因2月只有28天被扣工资",
       "onboard_time": 1747884922,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263293,
+      "num": 306749,
+      "word": "全球仅一份的iPhone挂画被谁拍走了",
+      "onboard_time": 1747897412,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236701,
+      "num": 236701,
+      "word": "迪丽热巴玫瑰油画妆",
+      "onboard_time": 1747897291,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234316,
       "num": 234316,
       "word": "光与夜之恋",
@@ -793,14 +809,6 @@
       "onboard_time": 1747884863,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 223901,
-      "num": 223901,
-      "word": "迪丽热巴玫瑰油画妆",
-      "onboard_time": 1747897291,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 223594,
@@ -929,6 +937,14 @@
       "onboard_time": 1747885884,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196390,
+      "num": 196390,
+      "word": "曝快手要求员工每日刷1小时短视频",
+      "onboard_time": 1747898122,
+      "rank": 31,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 196274,
@@ -1099,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168714,
-      "num": 287054,
-      "word": "全球仅一份的iPhone挂画被谁拍走了",
-      "onboard_time": 1747897412,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163234,
       "num": 163234,
       "word": "皮筋猴 你们这群神经病",
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157983,
+      "num": 157983,
+      "word": "北证50大跌超6%",
+      "onboard_time": 1747898962,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156281,
       "num": 458177,
       "word": "非洲农民说真想让袁老师看水稻丰收",
@@ -1179,8 +1195,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 155140,
-      "num": 155140,
+      "raw_hot": 155805,
+      "num": 155805,
       "word": "拒绝言情小说词汇",
       "onboard_time": 1747897051,
       "rank": 45,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1747893742,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 140699,
+      "num": 140699,
+      "word": "7位首发歌手或淘汰2人",
+      "onboard_time": 1747899202,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138555,
@@ -1771,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89655,
+      "num": 182425,
+      "word": "倒卖蜜雪冰城当事人提醒年轻创业者",
+      "onboard_time": 1747898721,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87950,
       "num": 128607,
       "word": "王俊凯简直萌物",
@@ -1979,6 +2011,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 70965,
+      "num": 353750,
+      "word": "以色列驻美使馆2人在华盛顿遇害",
+      "onboard_time": 1747898002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70849,
       "num": 70849,
       "word": "陈若琳说不想让队员再走弯路",
@@ -2019,14 +2059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 65376,
-      "num": 353750,
-      "word": "以色列驻美使馆2人在华盛顿遇害",
-      "onboard_time": 1747898002,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "我减肥毅力就蔡文静这样",
@@ -2064,6 +2096,14 @@
       "word": "男子因幼时鞭炮炸伤手指被撤offer",
       "onboard_time": 1747895662,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59841,
+      "num": 173050,
+      "word": "母亲花3万让女儿带资进组被骗",
+      "onboard_time": 1747899502,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2120,6 +2160,22 @@
       "word": "网信办加强信息推荐算法治理",
       "onboard_time": 1747882822,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45452,
+      "num": 178238,
+      "word": "腿型改善其实很好拿捏",
+      "onboard_time": 1747898362,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 43544,
+      "num": 215110,
+      "word": "花200块雇了个农民工当向导",
+      "onboard_time": 1747898541,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2185,14 +2241,6 @@
       "onboard_time": 1747884323,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36240,
-      "num": 178238,
-      "word": "腿型改善其实很好拿捏",
-      "onboard_time": 1747898362,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 36022,
@@ -2267,11 +2315,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28070,
+      "num": 296640,
+      "word": "南方进入本轮降水最强时段",
+      "onboard_time": 1747899262,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27976,
       "num": 304047,
       "word": "为什么劣质数据线会引发安全隐患",
       "onboard_time": 1747885582,
       "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 27041,
+      "num": 223255,
+      "word": "武汉强对流天气是怎么形成的",
+      "onboard_time": 1747899083,
+      "rank": 26,
       "category": "科学科普"
     },
     {
@@ -2299,6 +2363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25218,
+      "num": 210320,
+      "word": "印兵回访克什米尔阵地",
+      "onboard_time": 1747898062,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25097,
       "num": 25097,
       "word": "刘宇宁担心说东北话影响追剧观感",
@@ -2312,14 +2384,6 @@
       "word": "以后的新房素质一定会越来越高",
       "onboard_time": 1747897891,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24826,
-      "num": 208778,
-      "word": "花200块雇了个农民工当向导",
-      "onboard_time": 1747898541,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2337,6 +2401,14 @@
       "onboard_time": 1747852935,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23957,
+      "num": 216794,
+      "word": "巴基斯坦陆军参谋长支持率飙升",
+      "onboard_time": 1747898603,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23369,
@@ -2395,14 +2467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21704,
-      "num": 209394,
-      "word": "印兵回访克什米尔阵地",
-      "onboard_time": 1747898062,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21266,
       "num": 177324,
       "word": "申裕斌很高兴晋级孙颖莎所在阶段",
@@ -2419,8 +2483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18566,
-      "num": 277815,
+      "raw_hot": 18971,
+      "num": 287852,
       "word": "朝鲜造舰如何突破国际制裁限制",
       "onboard_time": 1747897590,
       "rank": 19,
@@ -2475,6 +2539,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 14853,
+      "num": 209029,
+      "word": "误删数据库后该如何恢复",
+      "onboard_time": 1747898182,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13643,
       "num": 252940,
       "word": "热刺破17年无冠魔咒靠哪些因素",
@@ -2489,14 +2561,6 @@
       "onboard_time": 1747857973,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12865,
-      "num": 209029,
-      "word": "误删数据库后该如何恢复",
-      "onboard_time": 1747898182,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 12642,
@@ -2521,14 +2585,6 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 9688,
-      "num": 177998,
-      "word": "巴基斯坦陆军参谋长支持率飙升",
-      "onboard_time": 1747898603,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8879,
