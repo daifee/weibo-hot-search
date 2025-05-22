@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747906103739,
+  "endTime": 1747906935970,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -227,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 680485,
+      "num": 666806,
+      "word": "马嘉祺将发起1对1挑战",
+      "onboard_time": 1747904663,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675330,
       "num": 675330,
       "word": "特朗普与南非总统争吵现场",
       "onboard_time": 1747883241,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 666806,
-      "num": 666806,
-      "word": "马嘉祺将发起1对1挑战",
-      "onboard_time": 1747904663,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 664684,
@@ -297,6 +297,14 @@
       "onboard_time": 1747895301,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 608041,
+      "num": 608041,
+      "word": "中方回应以色列军方向多国外交使团鸣枪",
+      "onboard_time": 1747902204,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 606888,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 540542,
-      "num": 540542,
-      "word": "中方回应以色列军方向多国外交使团鸣枪",
-      "onboard_time": 1747902204,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 530158,
       "num": 530158,
       "word": "于正想找肖战拍戏",
@@ -385,6 +385,14 @@
       "onboard_time": 1747883783,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504288,
+      "num": 358430,
+      "word": "娜扎16岁未修生图",
+      "onboard_time": 1747905682,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 496379,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420702,
+      "num": 445138,
+      "word": "王楚钦孙颖莎绝对的相互信任",
+      "onboard_time": 1747905623,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417168,
       "num": 395000,
       "word": "海口警方再通报汽车拖猫事件",
@@ -488,6 +504,14 @@
       "word": "包上恩学生时期美得我一激灵",
       "onboard_time": 1747887024,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 409112,
+      "num": 357175,
+      "word": "赵丽颖白鹿活动状态",
+      "onboard_time": 1747905382,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -563,7 +587,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354232,
+      "raw_hot": 360552,
+      "num": 474561,
+      "word": "南京一大学食堂招博士",
+      "onboard_time": 1747904723,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356287,
       "num": 456254,
       "word": "单依纯柯淳抽象到一起了",
       "onboard_time": 1747905023,
@@ -609,14 +641,6 @@
       "onboard_time": 1747886783,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 348005,
-      "num": 348005,
-      "word": "赵丽颖白鹿活动状态",
-      "onboard_time": 1747905382,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 346902,
@@ -667,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302450,
-      "num": 474561,
-      "word": "南京一大学食堂招博士",
-      "onboard_time": 1747904723,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301469,
       "num": 315114,
       "word": "步行者上演惊天逆转",
@@ -721,6 +737,14 @@
       "onboard_time": 1747891344,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284727,
+      "num": 391395,
+      "word": "神20乘组圆满完成第一次出舱",
+      "onboard_time": 1747905742,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 283740,
@@ -827,14 +851,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 254483,
-      "num": 352625,
-      "word": "娜扎16岁未修生图",
-      "onboard_time": 1747905682,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253551,
       "num": 593342,
       "word": "花17万买车后车企倒闭车辆裸奔上路",
@@ -915,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237541,
+      "num": 237541,
+      "word": "突然明白了什么是情感漠视",
+      "onboard_time": 1747906704,
+      "rank": 35,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 236701,
       "num": 236701,
       "word": "迪丽热巴玫瑰油画妆",
@@ -945,14 +969,6 @@
       "onboard_time": 1747888523,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233501,
-      "num": 391395,
-      "word": "神20乘组圆满完成第一次出舱",
-      "onboard_time": 1747905742,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 229871,
@@ -1027,11 +1043,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218451,
-      "num": 445138,
-      "word": "王楚钦孙颖莎绝对的相互信任",
-      "onboard_time": 1747905623,
-      "rank": 17,
+      "raw_hot": 216447,
+      "num": 216447,
+      "word": "孙颖莎连续扛住男对手三板倒地爆冲",
+      "onboard_time": 1747906643,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1049,6 +1065,14 @@
       "onboard_time": 1747905862,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214465,
+      "num": 238299,
+      "word": "杜海涛快把沈梦辰带走吧",
+      "onboard_time": 1747905862,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 214221,
@@ -1081,6 +1105,14 @@
       "onboard_time": 1747893322,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 210147,
+      "num": 210147,
+      "word": "谍报上不封顶",
+      "onboard_time": 1747906643,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 209827,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1747887383,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202049,
+      "num": 202049,
+      "word": "多哈世乒赛",
+      "onboard_time": 1747906222,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 199636,
@@ -1203,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193220,
+      "num": 370886,
+      "word": "王曼昱王励勤赛前交流",
+      "onboard_time": 1747905623,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191899,
       "num": 255711,
       "word": "藏海传 烧脑",
@@ -1267,6 +1315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184102,
+      "num": 184102,
+      "word": "王心凌比18岁还18岁",
+      "onboard_time": 1747906883,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182977,
       "num": 307750,
       "word": "宁艺卓简简单单鲨疯了",
@@ -1283,12 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181707,
-      "num": 181707,
-      "word": "杜海涛快把沈梦辰带走吧",
-      "onboard_time": 1747905862,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 180266,
+      "num": 180266,
+      "word": "孙颖莎二次启动太牛了",
+      "onboard_time": 1747906883,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 178669,
@@ -1787,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118762,
+      "num": 240741,
+      "word": "花花主动提出转会",
+      "onboard_time": 1747906521,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116254,
       "num": 88441,
       "word": "一千多年以后有人在非洲复兴汉室",
@@ -1936,14 +2000,6 @@
       "word": "王楚钦孙颖莎混双赛前热身",
       "onboard_time": 1747901542,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105015,
-      "num": 370886,
-      "word": "王曼昱王励勤赛前交流",
-      "onboard_time": 1747905623,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -2419,6 +2475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 68071,
+      "num": 382658,
+      "word": "韩乔生评多哈世乒赛国乒双打危机",
+      "onboard_time": 1747905742,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66035,
       "num": 87529,
       "word": "孙颖莎球好凶好帅",
@@ -2489,6 +2553,14 @@
       "onboard_time": 1747899502,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59679,
+      "num": 361526,
+      "word": "特朗普向南非总统要飞机",
+      "onboard_time": 1747904663,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59122,
@@ -2579,12 +2651,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 44579,
+      "num": 425967,
+      "word": "夏季如何预防蜱虫隐翅虫叮咬",
+      "onboard_time": 1747904483,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43544,
       "num": 215110,
       "word": "花200块雇了个农民工当向导",
       "onboard_time": 1747898541,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43473,
+      "num": 377249,
+      "word": "临榆炸鸡腿为何这么受欢迎",
+      "onboard_time": 1747905682,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 42911,
@@ -2611,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40687,
-      "num": 361526,
-      "word": "特朗普向南非总统要飞机",
-      "onboard_time": 1747904663,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40606,
       "num": 384894,
       "word": "言承旭告白包反转的",
@@ -2633,14 +2713,6 @@
       "onboard_time": 1747884084,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40117,
-      "num": 382658,
-      "word": "韩乔生评多哈世乒赛国乒双打危机",
-      "onboard_time": 1747905742,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 38951,
@@ -2675,28 +2747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37621,
-      "num": 377249,
-      "word": "临榆炸鸡腿为何这么受欢迎",
-      "onboard_time": 1747905682,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 36022,
       "num": 260544,
       "word": "以高质量发展的确定性应对各种不确定性",
       "onboard_time": 1747845319,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35557,
-      "num": 425967,
-      "word": "夏季如何预防蜱虫隐翅虫叮咬",
-      "onboard_time": 1747904483,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35213,
@@ -2755,6 +2811,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 32045,
+      "num": 242686,
+      "word": "职高男生遭校工故意伤害粉碎性骨折",
+      "onboard_time": 1747906163,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31921,
       "num": 311216,
       "word": "因滑坡多人被困村庄曾遭连夜暴雨",
@@ -2777,6 +2841,14 @@
       "onboard_time": 1747882882,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29031,
+      "num": 224770,
+      "word": "抗癌厨房濒临关门神秘人捐20万离去",
+      "onboard_time": 1747905082,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28957,
@@ -2825,6 +2897,14 @@
       "onboard_time": 1747891282,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25940,
+      "num": 254880,
+      "word": "为这些好心人点赞",
+      "onboard_time": 1747906043,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25500,
@@ -2995,22 +3075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20836,
-      "num": 224770,
-      "word": "抗癌厨房濒临关门神秘人捐20万离去",
-      "onboard_time": 1747905082,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20211,
-      "num": 254880,
-      "word": "为这些好心人点赞",
-      "onboard_time": 1747906043,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18971,
       "num": 287852,
       "word": "朝鲜造舰如何突破国际制裁限制",
@@ -3075,6 +3139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15080,
+      "num": 354048,
+      "word": "不同种类的茶叶如何区分",
+      "onboard_time": 1747905682,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 14853,
       "num": 209029,
       "word": "误删数据库后该如何恢复",
@@ -3099,20 +3171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13204,
+      "num": 310109,
+      "word": "改善腿型的走路姿势有哪些",
+      "onboard_time": 1747906581,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12642,
       "num": 23951,
       "word": "歼10总师说不往前走永远无法超越",
       "onboard_time": 1747855093,
       "rank": 31,
       "category": "军事"
-    },
-    {
-      "raw_hot": 12130,
-      "num": 354048,
-      "word": "不同种类的茶叶如何区分",
-      "onboard_time": 1747905682,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 11728,
@@ -3137,6 +3209,14 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 8928,
+      "num": 242000,
+      "word": "乡镇初中校长如何套取学生餐费",
+      "onboard_time": 1747906581,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8879,
@@ -3171,7 +3251,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2629,
+      "raw_hot": 3877,
       "num": 777590,
       "word": "互联中国公益行动",
       "onboard_time": 1747703850,
