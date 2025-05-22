@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747895785044,
+  "endTime": 1747896597697,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -67,6 +67,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 1198976,
+      "num": 771246,
+      "word": "刘敏涛含泪送别朱媛媛",
+      "onboard_time": 1747894462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1056626,
       "num": 1169060,
       "word": "朱媛媛住院治疗照",
@@ -115,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 712037,
+      "num": 712037,
+      "word": "教育部拟同意设置32所新大学",
+      "onboard_time": 1747893742,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 710143,
       "num": 442811,
       "word": "应届生把数据库删了",
@@ -129,14 +145,6 @@
       "onboard_time": 1747884202,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 679907,
-      "num": 392252,
-      "word": "刘敏涛含泪送别朱媛媛",
-      "onboard_time": 1747894462,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 675330,
@@ -177,14 +185,6 @@
       "onboard_time": 1747885101,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 620400,
-      "num": 620400,
-      "word": "教育部拟同意设置32所新大学",
-      "onboard_time": 1747893742,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 617214,
@@ -235,6 +235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 556988,
+      "num": 556988,
+      "word": "NCTDREAM 不续约",
+      "onboard_time": 1747894941,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 530158,
+      "num": 530158,
+      "word": "于正想找肖战拍戏",
+      "onboard_time": 1747893322,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517585,
       "num": 517585,
       "word": "樊振东排面拉满",
@@ -243,11 +259,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512587,
-      "num": 512587,
-      "word": "于正想找肖战拍戏",
-      "onboard_time": 1747893322,
-      "rank": 6,
+      "raw_hot": 499253,
+      "num": 375928,
+      "word": "肖战身上痒就去洗澡",
+      "onboard_time": 1747894462,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -257,6 +273,14 @@
       "onboard_time": 1747878624,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491105,
+      "num": 491105,
+      "word": "朝鲜为何罕见公布驱逐舰严重事故",
+      "onboard_time": 1747891642,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 478452,
@@ -289,14 +313,6 @@
       "onboard_time": 1747842563,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 440746,
-      "num": 440746,
-      "word": "NCTDREAM 不续约",
-      "onboard_time": 1747894941,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 431478,
@@ -339,14 +355,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 414436,
-      "num": 414436,
-      "word": "朝鲜为何罕见公布驱逐舰严重事故",
-      "onboard_time": 1747891642,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 413206,
       "num": 413206,
       "word": "包上恩学生时期美得我一激灵",
@@ -385,14 +393,6 @@
       "onboard_time": 1747886961,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375481,
-      "num": 375481,
-      "word": "肖战身上痒就去洗澡",
-      "onboard_time": 1747894462,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 374843,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282400,
+      "num": 282400,
+      "word": "蔡徐坤TikTok直播",
+      "onboard_time": 1747895784,
+      "rank": 20,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 281994,
       "num": 218550,
       "word": "黄金",
@@ -625,6 +633,14 @@
       "onboard_time": 1747884023,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 253077,
+      "num": 253077,
+      "word": "潘展乐汪顺孙杨携手冲冠",
+      "onboard_time": 1747895541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 251111,
@@ -771,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219243,
+      "num": 219243,
+      "word": "临榆炸鸡腿真香",
+      "onboard_time": 1747895301,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214893,
       "num": 214893,
       "word": "巴基斯坦警告印度我们不是巴勒斯坦",
@@ -779,8 +803,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209906,
-      "num": 209906,
+      "raw_hot": 213454,
+      "num": 213454,
       "word": "出现4种异常提示该查妇科了",
       "onboard_time": 1747893322,
       "rank": 31,
@@ -907,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190408,
-      "num": 190408,
-      "word": "临榆炸鸡腿真香",
-      "onboard_time": 1747895301,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 188937,
       "num": 188937,
       "word": "恋与制作人",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1747832725,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168777,
+      "num": 220523,
+      "word": "拔完智齿坐飞机伤口爆了",
+      "onboard_time": 1747893861,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163234,
@@ -1235,14 +1259,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 139637,
-      "num": 183944,
-      "word": "潘展乐汪顺孙杨携手冲冠",
-      "onboard_time": 1747895541,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138555,
       "num": 138555,
       "word": "F1狂飙飞车确认引进",
@@ -1323,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124788,
+      "num": 124788,
+      "word": "小米高管回应玄戒O1芯片质疑",
+      "onboard_time": 1747895842,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124533,
       "num": 124533,
       "word": "日本的武器自动化非常高",
@@ -1332,7 +1356,7 @@
     },
     {
       "raw_hot": 121784,
-      "num": 121784,
+      "num": 346948,
       "word": "乡镇初中生因小官巨贪校长吃不饱",
       "onboard_time": 1747895002,
       "rank": 49,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111452,
+      "num": 283012,
+      "word": "特朗普回应以驻美使馆2人遇害",
+      "onboard_time": 1747895182,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110855,
       "num": 308754,
       "word": "卵巢癌晚期的治疗有哪些难点",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1747869139,
       "rank": 21,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 109799,
-      "num": 220523,
-      "word": "拔完智齿坐飞机伤口爆了",
-      "onboard_time": 1747893861,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109446,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1747878624,
       "rank": 39,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 104079,
-      "num": 272042,
-      "word": "特朗普回应以驻美使馆2人遇害",
-      "onboard_time": 1747895182,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103842,
@@ -1659,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90910,
+      "num": 183444,
+      "word": "女童坐车突遭男子飞扑拽落",
+      "onboard_time": 1747894280,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89986,
       "num": 114709,
       "word": "王曼昱世乒赛晋级16强",
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 84418,
-      "num": 146064,
+      "num": 215700,
       "word": "当汉字回归自然",
       "onboard_time": 1747895722,
       "rank": 44,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1747841663,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78691,
+      "num": 252864,
+      "word": "恋爱是从一束花和正式的告白开始的",
+      "onboard_time": 1747896082,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 76476,
@@ -1939,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60405,
+      "num": 252773,
+      "word": "男子因幼时鞭炮炸伤手指被撤offer",
+      "onboard_time": 1747895662,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56825,
       "num": 56825,
       "word": "大鱼海棠具象化了",
@@ -1995,14 +2035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43464,
-      "num": 191654,
-      "word": "男子因幼时鞭炮炸伤手指被撤offer",
-      "onboard_time": 1747895662,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42911,
       "num": 251268,
       "word": "沉浸式观看孙颖莎赛前准备",
@@ -2019,20 +2051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41332,
+      "num": 253005,
+      "word": "全运会特别节目全运风云",
+      "onboard_time": 1747894762,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40196,
       "num": 343846,
       "word": "运动时如何保持最佳状态",
       "onboard_time": 1747884084,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40143,
-      "num": 181935,
-      "word": "女童坐车突遭男子飞扑拽落",
-      "onboard_time": 1747894280,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38951,
@@ -2075,6 +2107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34925,
+      "num": 905076,
+      "word": "中国扩大开放的步伐从未停止",
+      "onboard_time": 1747891942,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33993,
       "num": 1065881,
       "word": "民营经济促进法施行释放三大信号",
@@ -2089,14 +2129,6 @@
       "onboard_time": 1747848077,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31977,
-      "num": 905076,
-      "word": "中国扩大开放的步伐从未停止",
-      "onboard_time": 1747891942,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29667,
@@ -2155,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25311,
+      "num": 282426,
+      "word": "特朗普为什么播放争议视频",
+      "onboard_time": 1747895541,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25097,
       "num": 25097,
       "word": "刘宇宁担心说东北话影响追剧观感",
@@ -2177,14 +2217,6 @@
       "onboard_time": 1747852935,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23891,
-      "num": 221064,
-      "word": "特朗普为什么播放争议视频",
-      "onboard_time": 1747895541,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23369,
@@ -2251,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18120,
+      "num": 252632,
+      "word": "潮汕人注重家庭和传统价值观",
+      "onboard_time": 1747895662,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17986,
       "num": 23947,
       "word": "易烊千玺亮相两岸电影展",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1747856415,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16994,
+      "num": 252727,
+      "word": "吴孟超院士生平有哪些成就",
+      "onboard_time": 1747895423,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16807,
@@ -2283,12 +2331,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 16082,
-      "num": 218751,
-      "word": "吴孟超院士生平有哪些成就",
-      "onboard_time": 1747895423,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 13643,
+      "num": 252940,
+      "word": "热刺破17年无冠魔咒靠哪些因素",
+      "onboard_time": 1747896381,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 13406,
@@ -2331,14 +2379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 7457,
-      "num": 190654,
-      "word": "潮汕人注重家庭和传统价值观",
-      "onboard_time": 1747895662,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 5700,
       "num": 784577,
       "word": "这几组数据透视中国经济含新量",
@@ -2356,6 +2396,9 @@
     },
     {
       "word": "#习近平总书记赴河南考察纪实#"
+    },
+    {
+      "word": "#中国开放的大门只会越开越大#"
     }
   ]
 }
