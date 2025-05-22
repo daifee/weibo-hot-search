@@ -1,0 +1,410 @@
+{
+  "runTime": 1747902826056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1304843,
+        "num": 1304843,
+        "word": "王楚钦孙颖莎vs松岛辉空张本美和",
+        "onboard_time": 1747901542,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1167145,
+        "num": 1167145,
+        "word": "医生发布朱媛媛病房照引争议",
+        "onboard_time": 1747898362,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27363,
+        "num": 1033100,
+        "word": "中国扩大开放的步伐从未停止",
+        "onboard_time": 1747891942,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1024413,
+        "num": 1024413,
+        "word": "林峯老婆被爆520晒网图P掉商家logo",
+        "onboard_time": 1747894102,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549189,
+        "num": 549189,
+        "word": "原来iPhone长按这么好用",
+        "onboard_time": 1747887324,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398278,
+        "num": 398278,
+        "word": "教育部拟同意设置32所新大学",
+        "onboard_time": 1747893742,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 814651,
+        "num": 396909,
+        "word": "黑犬酱结婚",
+        "onboard_time": 1747901844,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 494132,
+        "num": 388368,
+        "word": "肖战身上痒就去洗澡",
+        "onboard_time": 1747894462,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338527,
+        "num": 338527,
+        "word": "潘展乐汪顺孙杨携手冲冠",
+        "onboard_time": 1747895541,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44210,
+        "num": 332429,
+        "word": "以方痛斥华盛顿枪案是恐怖主义行为",
+        "onboard_time": 1747902024,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 618615,
+        "num": 329356,
+        "word": "不要放弃下午四点",
+        "onboard_time": 1747898243,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384485,
+        "num": 320238,
+        "word": "日本女童伴父母腐尸独处数日",
+        "onboard_time": 1747901182,
+        "rank": 11,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 355534,
+        "num": 316071,
+        "word": "临榆炸鸡腿真香",
+        "onboard_time": 1747895301,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72990,
+        "num": 311313,
+        "word": "贵州大方县山体滑坡现场画面",
+        "onboard_time": 1747901482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9626,
+        "num": 302401,
+        "word": "能演出生活质感的演员越来越少了",
+        "onboard_time": 1747902441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902558,
+        "num": 295329,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293703,
+        "num": 293703,
+        "word": "赵丽颖科兰黎线下活动",
+        "onboard_time": 1747898062,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273456,
+        "num": 273456,
+        "word": "NCTDREAM 不续约",
+        "onboard_time": 1747894941,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178512,
+        "num": 267067,
+        "word": "我看宋威龙就这死出",
+        "onboard_time": 1747902204,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3638,
+        "num": 264147,
+        "word": "作为恋人最糟糕的MBTI是什么",
+        "onboard_time": 1747902082,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261999,
+        "num": 261999,
+        "word": "活期存款已近0利率",
+        "onboard_time": 1747889605,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 259278,
+        "num": 259278,
+        "word": "朝鲜为何罕见公布驱逐舰严重事故",
+        "onboard_time": 1747891642,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248540,
+        "num": 248540,
+        "word": "于正想找肖战拍戏",
+        "onboard_time": 1747893322,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241419,
+        "num": 241419,
+        "word": "程潇 谍报上不封顶",
+        "onboard_time": 1747902383,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223737,
+        "num": 223737,
+        "word": "蔡徐坤TikTok直播",
+        "onboard_time": 1747895784,
+        "rank": 24,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 220856,
+        "num": 220856,
+        "word": "都说了叫zh的人不好惹",
+        "onboard_time": 1747902082,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15908,
+        "num": 219880,
+        "word": "陈昊宇专辑名为什么叫我爱我",
+        "onboard_time": 1747901783,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21173,
+        "num": 219024,
+        "word": "AI智能体再出王炸",
+        "onboard_time": 1747900883,
+        "rank": 27,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 33092,
+        "num": 217646,
+        "word": "妹妹试图治愈抑郁症的姐姐",
+        "onboard_time": 1747900883,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 24030,
+        "num": 216421,
+        "word": "人猴矛盾如何寻找最优解",
+        "onboard_time": 1747901482,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 8759,
+        "num": 215236,
+        "word": "25年新品防晒资讯有哪些",
+        "onboard_time": 1747902682,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 214221,
+        "num": 214221,
+        "word": "7位首发歌手或淘汰2人",
+        "onboard_time": 1747899202,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59122,
+        "num": 212172,
+        "word": "网络树洞倾听者年赚3万多",
+        "onboard_time": 1747900941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806331,
+        "num": 209237,
+        "word": "拉肚子时肛门火辣辣的原因是什么",
+        "onboard_time": 1747902142,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275231,
+        "num": 208271,
+        "word": "陈坤儿子陈尊佑大学毕业",
+        "onboard_time": 1747902502,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105754,
+        "num": 205843,
+        "word": "王楚钦孙颖莎混双赛前热身",
+        "onboard_time": 1747901542,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34415,
+        "num": 203542,
+        "word": "那年袁老送给大家的礼物",
+        "onboard_time": 1747899202,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201451,
+        "num": 201451,
+        "word": "中方回应以色列军方向多国外交使团鸣枪",
+        "onboard_time": 1747902204,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18981,
+        "num": 177715,
+        "word": "因滑坡多人被困村庄曾遭连夜暴雨",
+        "onboard_time": 1747902802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35037,
+        "num": 175747,
+        "word": "杜国楹隔空致敬东方树叶",
+        "onboard_time": 1747900883,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11728,
+        "num": 175652,
+        "word": "空对空导弹尾部细节",
+        "onboard_time": 1747902743,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 175609,
+        "num": 175609,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 41,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 173470,
+        "num": 173470,
+        "word": "雷军回应突然发布大芯片",
+        "onboard_time": 1747902502,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166687,
+        "num": 166687,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164301,
+        "num": 164301,
+        "word": "深圳警方通报男子地铁口附近打人",
+        "onboard_time": 1747885101,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116172,
+        "num": 164055,
+        "word": "单依纯唱功",
+        "onboard_time": 1747902261,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163854,
+        "num": 163854,
+        "word": "迪丽热巴玫瑰油画妆",
+        "onboard_time": 1747897291,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67366,
+        "num": 152667,
+        "word": "日本的武器自动化非常高",
+        "onboard_time": 1747892242,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 143999,
+        "num": 143999,
+        "word": "警方介入9岁围棋少年跳楼身亡事件",
+        "onboard_time": 1747900101,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143730,
+        "num": 143730,
+        "word": "曝快手要求员工每日刷1小时短视频",
+        "onboard_time": 1747898122,
+        "rank": 49,
+        "category": "互联网,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记赴河南考察纪实#"
+    }
+  }
+}
