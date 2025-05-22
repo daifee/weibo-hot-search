@@ -1,12 +1,20 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747923953282,
+  "endTime": 1747925124056,
   "band_list": [
     {
       "raw_hot": 13594592,
       "num": 13594592,
       "word": "黄杨钿甜父亲被立案调查",
       "onboard_time": 1747907543,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11135739,
+      "num": 11135739,
+      "word": "赵丽颖这算官宣恋情吗",
+      "onboard_time": 1747923624,
       "rank": 0,
       "category": "艺人"
     },
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2886367,
-      "num": 748918,
+      "num": 770831,
       "word": "黄杨爸爸涉及7亿项目未招商成功",
       "onboard_time": 1747912581,
       "rank": 17,
@@ -81,14 +89,6 @@
       "onboard_time": 1747901542,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1821428,
-      "num": 1821428,
-      "word": "赵丽颖这算官宣恋情吗",
-      "onboard_time": 1747923624,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1731165,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1146749,
+      "num": 1146749,
+      "word": "王楚钦vs高茨",
+      "onboard_time": 1747921825,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1101881,
       "num": 1101881,
       "word": "歌手歌单",
@@ -243,20 +251,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 942851,
+      "num": 942851,
+      "word": "雷军说小米YU7不可能19.9万",
+      "onboard_time": 1747920745,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 940774,
       "num": 940774,
       "word": "周琦老婆承认逼丈夫回国失去理智",
       "onboard_time": 1747921285,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 921723,
-      "num": 921723,
-      "word": "雷军说小米YU7不可能19.9万",
-      "onboard_time": 1747920745,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 918515,
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 686340,
-      "num": 686340,
-      "word": "王楚钦vs高茨",
-      "onboard_time": 1747921825,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 680485,
       "num": 666806,
       "word": "马嘉祺将发起1对1挑战",
@@ -425,6 +425,14 @@
       "onboard_time": 1747881861,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628032,
+      "num": 628032,
+      "word": "王楚钦的含金量还在上升",
+      "onboard_time": 1747922184,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 625750,
@@ -651,14 +659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 458493,
-      "num": 458493,
-      "word": "王楚钦的含金量还在上升",
-      "onboard_time": 1747922184,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 445926,
       "num": 445926,
       "word": "林高远林诗栋vs张禹珍赵大成",
@@ -675,8 +675,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 440145,
-      "num": 440145,
+      "raw_hot": 440710,
+      "num": 440710,
       "word": "赵丽颖",
       "onboard_time": 1747923926,
       "rank": 35,
@@ -867,8 +867,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362397,
+      "num": 771645,
+      "word": "官方通报大学生坠入化粪池遇难",
+      "onboard_time": 1747923746,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362334,
-      "num": 466549,
+      "num": 480215,
       "word": "日本夫妻持刀打架身亡女童伴尸5日",
       "onboard_time": 1747921466,
       "rank": 9,
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306027,
+      "num": 306027,
+      "word": "金秋天染金发了",
+      "onboard_time": 1747924889,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302030,
       "num": 209008,
       "word": "小米YU7内饰",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1747881562,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 278278,
+      "num": 495222,
+      "word": "莫德里奇宣布离开皇马",
+      "onboard_time": 1747924647,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 275745,
@@ -1275,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249855,
+      "num": 249855,
+      "word": "左航19岁生日照",
+      "onboard_time": 1747921765,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249651,
       "num": 249651,
       "word": "王曼昱VS斯佐科斯",
@@ -1403,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235401,
+      "num": 214347,
+      "word": "左航直播",
+      "onboard_time": 1747914323,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234316,
       "num": 234316,
       "word": "光与夜之恋",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1747885642,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227264,
+      "num": 227264,
+      "word": "雷军发布会后发文致谢",
+      "onboard_time": 1747924044,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 226954,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1747913004,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219997,
+      "num": 219997,
+      "word": "世乒赛5个单项国乒都有选手被淘汰",
+      "onboard_time": 1747921704,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 219872,
@@ -1635,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211325,
-      "num": 748172,
-      "word": "官方通报大学生坠入化粪池遇难",
-      "onboard_time": 1747923746,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210251,
       "num": 275283,
       "word": "周雨彤进组谍报上不封顶",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1747877361,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207083,
+      "num": 207083,
+      "word": "乐乐一家",
+      "onboard_time": 1747921704,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 206042,
@@ -1792,6 +1848,22 @@
       "word": "李乃文换蜡烛头像",
       "onboard_time": 1747832844,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198342,
+      "num": 198342,
+      "word": "国乒男双创50年来最差战绩",
+      "onboard_time": 1747924407,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198145,
+      "num": 198145,
+      "word": "翔霖后援会",
+      "onboard_time": 1747924768,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1947,12 +2019,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 187066,
-      "num": 185684,
-      "word": "左航直播",
-      "onboard_time": 1747914323,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 187110,
+      "num": 187110,
+      "word": "工作室回应孙杨获自由泳接力赛金牌",
+      "onboard_time": 1747922547,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 185921,
@@ -2019,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179999,
-      "num": 179999,
-      "word": "世乒赛5个单项国乒都有选手被淘汰",
-      "onboard_time": 1747921704,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178669,
       "num": 178669,
       "word": "两个唱青苹果乐园的时代顶流要同框了",
@@ -2041,14 +2105,6 @@
       "onboard_time": 1747902204,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177157,
-      "num": 177157,
-      "word": "乐乐一家",
-      "onboard_time": 1747921704,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 176580,
@@ -2179,11 +2235,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167634,
+      "num": 748429,
+      "word": "极客湾评小米玄戒O1表现远超预期",
+      "onboard_time": 1747922965,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 167205,
       "num": 167205,
       "word": "高合汽车新公司成立",
       "onboard_time": 1747903402,
       "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 166538,
+      "num": 611853,
+      "word": "深蓝CEO承诺深蓝S09一年不降价",
+      "onboard_time": 1747924528,
+      "rank": 15,
       "category": "汽车"
     },
     {
@@ -2955,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109984,
+      "num": 748314,
+      "word": "倒卖蜜雪冰城若出问题谁来售后",
+      "onboard_time": 1747923567,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 109446,
       "num": 109446,
       "word": "电影惊蛰无声亮相推介会",
@@ -2969,6 +3049,14 @@
       "onboard_time": 1747886662,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107454,
+      "num": 747848,
+      "word": "总工程师步行2千米送歼10首飞",
+      "onboard_time": 1747922726,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 106637,
@@ -3203,14 +3291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93362,
-      "num": 747848,
-      "word": "总工程师步行2千米送歼10首飞",
-      "onboard_time": 1747922726,
-      "rank": 24,
-      "category": "军事"
-    },
-    {
       "raw_hot": 93184,
       "num": 93184,
       "word": "热刺1比0曼联",
@@ -3345,14 +3425,6 @@
       "onboard_time": 1747844600,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84818,
-      "num": 748429,
-      "word": "极客湾评小米玄戒O1表现远超预期",
-      "onboard_time": 1747922965,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 84557,
@@ -3651,14 +3723,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 61781,
-      "num": 748314,
-      "word": "倒卖蜜雪冰城若出问题谁来售后",
-      "onboard_time": 1747923567,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 61127,
       "num": 224210,
       "word": "骑行对女性的好处和坏处",
@@ -3769,6 +3833,14 @@
       "onboard_time": 1747904303,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47465,
+      "num": 748231,
+      "word": "湖北一地学生减负每周3天不背书包",
+      "onboard_time": 1747923325,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 47090,
@@ -4011,7 +4083,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34122,
+      "raw_hot": 34151,
       "num": 264850,
       "word": "又可以看到张艺兴的炸裂舞台了",
       "onboard_time": 1747923805,
@@ -4041,6 +4113,22 @@
       "onboard_time": 1747909945,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 33394,
+      "num": 747783,
+      "word": "退休夫妻靠退休金环游全国",
+      "onboard_time": 1747923325,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33365,
+      "num": 482361,
+      "word": "女司机冒充银行高管诈骗1600万",
+      "onboard_time": 1747924286,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33092,
@@ -4227,14 +4315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25212,
-      "num": 748231,
-      "word": "湖北一地学生减负每周3天不背书包",
-      "onboard_time": 1747923325,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 25097,
       "num": 25097,
       "word": "刘宇宁担心说东北话影响追剧观感",
@@ -4353,14 +4433,6 @@
       "onboard_time": 1747888285,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21810,
-      "num": 747783,
-      "word": "退休夫妻靠退休金环游全国",
-      "onboard_time": 1747923325,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21776,
@@ -4489,6 +4561,14 @@
       "onboard_time": 1747856415,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17298,
+      "num": 492560,
+      "word": "带97岁的姥姥看望75岁的女儿",
+      "onboard_time": 1747924286,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16994,
@@ -4739,7 +4819,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3543,
+      "raw_hot": 3625,
       "num": 1598607,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
