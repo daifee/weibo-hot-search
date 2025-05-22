@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747880508020,
+  "endTime": 1747883841039,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -3651,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056626,
+      "num": 1169060,
+      "word": "朱媛媛住院治疗照",
+      "onboard_time": 1747875743,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055400,
       "num": 281633,
       "word": "马嘉祺破音",
@@ -4073,14 +4081,6 @@
       "onboard_time": 1746278904,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 994455,
-      "num": 994455,
-      "word": "朱媛媛住院治疗照",
-      "onboard_time": 1747875743,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 993883,
@@ -9131,6 +9131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 580054,
+      "num": 391628,
+      "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
+      "onboard_time": 1747882041,
+      "rank": 3,
+      "category": "艺人,剧集"
+    },
+    {
       "raw_hot": 579898,
       "num": 524926,
       "word": "马吟吟 庐州月",
@@ -9321,6 +9329,14 @@
       "onboard_time": 1747818261,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 573028,
+      "num": 321345,
+      "word": "惊蛰无声易烊千玺朱一龙双男主",
+      "onboard_time": 1747881861,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 572524,
@@ -11667,6 +11683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 468417,
+      "num": 468417,
+      "word": "朝鲜驱逐舰",
+      "onboard_time": 1747877062,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 468119,
       "num": 309674,
       "word": "奚梦瑶何猷君出席好友婚礼",
@@ -13353,6 +13377,14 @@
       "onboard_time": 1746314056,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 417168,
+      "num": 294616,
+      "word": "海口警方再通报汽车拖猫事件",
+      "onboard_time": 1747878921,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 416845,
@@ -15731,6 +15763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350152,
+      "num": 213206,
+      "word": "男子长期家暴13岁女儿老人小孩一起打",
+      "onboard_time": 1747880602,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349885,
       "num": 349885,
       "word": "赵丽颖立夏新发色",
@@ -15889,14 +15929,6 @@
       "onboard_time": 1746170241,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346786,
-      "num": 294616,
-      "word": "海口警方再通报汽车拖猫事件",
-      "onboard_time": 1747878921,
-      "rank": 22,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 346776,
@@ -16369,14 +16401,6 @@
       "onboard_time": 1747322363,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337249,
-      "num": 337249,
-      "word": "朝鲜驱逐舰",
-      "onboard_time": 1747877062,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 337118,
@@ -18011,6 +18035,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 303427,
+      "num": 249540,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1747882041,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303391,
       "num": 303391,
       "word": "洞洞鞋",
@@ -18971,6 +19003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289620,
+      "num": 289620,
+      "word": "严禁低俗恶俗等不良信息进入推荐池",
+      "onboard_time": 1747881442,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289516,
       "num": 107383,
       "word": "协和医学院的医学博士发声",
@@ -19417,6 +19457,14 @@
       "onboard_time": 1747535309,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283740,
+      "num": 208050,
+      "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
+      "onboard_time": 1747883183,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 283691,
@@ -21241,6 +21289,14 @@
       "onboard_time": 1747148544,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257217,
+      "num": 257217,
+      "word": "男子性侵侄子7年家庭集体包庇",
+      "onboard_time": 1747883421,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257117,
@@ -26459,6 +26515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209178,
+      "num": 204576,
+      "word": "樊振东排面拉满",
+      "onboard_time": 1747883783,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209096,
       "num": 209096,
       "word": "GOING SEVENTEEN",
@@ -26505,6 +26569,14 @@
       "onboard_time": 1747468580,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208985,
+      "num": 208985,
+      "word": "不良人",
+      "onboard_time": 1746069141,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 208899,
@@ -32796,7 +32868,7 @@
     },
     {
       "raw_hot": 188276,
-      "num": 188276,
+      "num": 241854,
       "word": "京东上线停产的iPodtouch",
       "onboard_time": 1747879581,
       "rank": 19,
@@ -34513,14 +34585,6 @@
       "onboard_time": 1746536302,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182469,
-      "num": 182469,
-      "word": "不良人",
-      "onboard_time": 1746069141,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 182458,
@@ -37043,6 +37107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172446,
+      "num": 296764,
+      "word": "广西宣布倒查十年",
+      "onboard_time": 1747871061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172442,
       "num": 172442,
       "word": "种地吧五一插秧日plive",
@@ -37169,6 +37241,14 @@
       "onboard_time": 1746057319,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171752,
+      "num": 234258,
+      "word": "特朗普与南非总统争吵现场",
+      "onboard_time": 1747883241,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171715,
@@ -40177,14 +40257,6 @@
       "onboard_time": 1747060044,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161601,
-      "num": 296764,
-      "word": "广西宣布倒查十年",
-      "onboard_time": 1747871061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161598,
@@ -44924,7 +44996,7 @@
     },
     {
       "raw_hot": 147449,
-      "num": 147449,
+      "num": 164362,
       "word": "用山海经打开珍稀保护动物",
       "onboard_time": 1747877302,
       "rank": 23,
@@ -45593,6 +45665,14 @@
       "onboard_time": 1746607824,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145474,
+      "num": 145474,
+      "word": "一个很笨但能让资料分析全对的方法",
+      "onboard_time": 1747882762,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 145462,
@@ -46809,6 +46889,14 @@
       "onboard_time": 1747300044,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141834,
+      "num": 187457,
+      "word": "关晓彤耀眼路透",
+      "onboard_time": 1747881922,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 141825,
@@ -52627,6 +52715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126722,
+      "num": 126722,
+      "word": "AI迟早毁了你们所有人",
+      "onboard_time": 1747882462,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126719,
       "num": 156936,
       "word": "我的出游fitcheck",
@@ -57635,6 +57731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110691,
+      "num": 110691,
+      "word": "答辩ppt",
+      "onboard_time": 1747883301,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110661,
       "num": 144749,
       "word": "加压水塔突然爆炸家中3人被冲懵",
@@ -58089,6 +58193,14 @@
       "onboard_time": 1746603742,
       "rank": 18,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 109446,
+      "num": 109446,
+      "word": "电影惊蛰无声亮相推介会",
+      "onboard_time": 1747882462,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 109435,
@@ -60003,6 +60115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 101405,
+      "num": 104465,
+      "word": "人生若如初见青春版觉醒年代",
+      "onboard_time": 1747882462,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101390,
       "num": 270810,
       "word": "特朗普竟称港口没船是好事情",
@@ -61249,6 +61369,14 @@
       "onboard_time": 1747284144,
       "rank": 26,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 95719,
+      "num": 111245,
+      "word": "金饰克价涨至1011元",
+      "onboard_time": 1747881382,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 95695,
@@ -62729,6 +62857,14 @@
       "onboard_time": 1747064062,
       "rank": 14,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 87888,
+      "num": 110858,
+      "word": "武磊回归国足大名单",
+      "onboard_time": 1747882342,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 87655,
@@ -67363,6 +67499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63407,
+      "num": 230043,
+      "word": "花50万带娃环球500天父亲发声",
+      "onboard_time": 1747883421,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63392,
       "num": 153209,
       "word": "普京爆粗口后道歉",
@@ -68200,6 +68344,14 @@
       "word": "胡锡进谈结婚离婚不用户口本",
       "onboard_time": 1746798203,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59221,
+      "num": 200828,
+      "word": "40万的音响50万的相机",
+      "onboard_time": 1747883122,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -70355,6 +70507,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 48983,
+      "num": 197740,
+      "word": "发现新疆的孩子三观都很正",
+      "onboard_time": 1747882582,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 48911,
       "num": 48911,
       "word": "日本机场偶遇戚薇李承铉一家",
@@ -71039,6 +71199,14 @@
       "num": 672532,
       "word": "中国经济的稳健和韧性正成稀缺品",
       "onboard_time": 1747731921,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46122,
+      "num": 391657,
+      "word": "网信办加强信息推荐算法治理",
+      "onboard_time": 1747882822,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -72977,6 +73145,14 @@
       "onboard_time": 1747567880,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38792,
+      "num": 183826,
+      "word": "家长过度提醒会损害孩子的自驱力吗",
+      "onboard_time": 1747883783,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 38720,
@@ -75531,6 +75707,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 29319,
+      "num": 197179,
+      "word": "亚历山大值得常规赛MVP吗",
+      "onboard_time": 1747882882,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29304,
       "num": 32756,
       "word": "ELLEMEN声明",
@@ -76811,6 +76995,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 25208,
+      "num": 225157,
+      "word": "不同年龄段有哪些防癌建议",
+      "onboard_time": 1747882102,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25147,
       "num": 418610,
       "word": "广东茂名龙卷风疑刮断电线产生火花",
@@ -77009,6 +77201,14 @@
       "onboard_time": 1746588922,
       "rank": 27,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 24700,
+      "num": 178771,
+      "word": "长实楼盘涉建筑贪污造假案",
+      "onboard_time": 1747883662,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24696,
