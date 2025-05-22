@@ -1,0 +1,410 @@
+{
+  "runTime": 1747884648141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952895,
+        "num": 1152463,
+        "word": "朱媛媛住院治疗照",
+        "onboard_time": 1747875743,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1985464,
+        "num": 896947,
+        "word": "男子性侵侄子7年家庭集体包庇",
+        "onboard_time": 1747883421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40023,
+        "num": 552468,
+        "word": "网信办加强信息推荐算法治理",
+        "onboard_time": 1747882822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522321,
+        "num": 522321,
+        "word": "郑晓龙这么多年还是爱眼泪往上擦",
+        "onboard_time": 1747884263,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406855,
+        "num": 406855,
+        "word": "朝鲜驱逐舰",
+        "onboard_time": 1747877062,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280111,
+        "num": 405878,
+        "word": "袁爷爷吴爷爷离开4年了",
+        "onboard_time": 1747845680,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499107,
+        "num": 405258,
+        "word": "惊蛰无声易烊千玺朱一龙双男主",
+        "onboard_time": 1747881861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471759,
+        "num": 404394,
+        "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
+        "onboard_time": 1747882041,
+        "rank": 7,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 420759,
+        "num": 402700,
+        "word": "陈丽云被逮捕",
+        "onboard_time": 1747874544,
+        "rank": 8,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 304333,
+        "num": 401181,
+        "word": "特朗普与南非总统争吵现场",
+        "onboard_time": 1747883241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340552,
+        "num": 400188,
+        "word": "白宫又又又吵起来了",
+        "onboard_time": 1747873462,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 493505,
+        "num": 399626,
+        "word": "朝鲜新驱逐舰下水时发生严重事故",
+        "onboard_time": 1747875323,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478862,
+        "num": 397892,
+        "word": "应届生把数据库删了",
+        "onboard_time": 1747871903,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431429,
+        "num": 396709,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1747882041,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25500,
+        "num": 395489,
+        "word": "长实楼盘涉建筑贪污造假案",
+        "onboard_time": 1747883662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395000,
+        "num": 395000,
+        "word": "海口警方再通报汽车拖猫事件",
+        "onboard_time": 1747878921,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 240573,
+        "num": 387861,
+        "word": "严禁低俗恶俗等不良信息进入推荐池",
+        "onboard_time": 1747881442,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384838,
+        "num": 384838,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30751,
+        "num": 343846,
+        "word": "运动时如何保持最佳状态",
+        "onboard_time": 1747884084,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94556,
+        "num": 339988,
+        "word": "花50万带娃环球500天父亲发声",
+        "onboard_time": 1747883421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337552,
+        "num": 337552,
+        "word": "李昀锐染了金发",
+        "onboard_time": 1747884202,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262481,
+        "num": 262481,
+        "word": "男子长期家暴13岁女儿老人小孩一起打",
+        "onboard_time": 1747880602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233672,
+        "num": 233672,
+        "word": "黄杨钿甜同款耳环已量产",
+        "onboard_time": 1747871000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38369,
+        "num": 232466,
+        "word": "孙颖莎防守太强根本打不透",
+        "onboard_time": 1747884323,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103236,
+        "num": 231296,
+        "word": "金饰克价涨至1011元",
+        "onboard_time": 1747881382,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253998,
+        "num": 228973,
+        "word": "朱媛媛通话时咳嗽田沁鑫称听着扎心",
+        "onboard_time": 1747883183,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77825,
+        "num": 225845,
+        "word": "40万的音响50万的相机",
+        "onboard_time": 1747883122,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127043,
+        "num": 223733,
+        "word": "发现新疆的孩子三观都很正",
+        "onboard_time": 1747882582,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 37621,
+        "num": 222857,
+        "word": "家长过度提醒会损害孩子的自驱力吗",
+        "onboard_time": 1747883783,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 220843,
+        "num": 220843,
+        "word": "截瘫网红称与医生结婚生子遭抛弃",
+        "onboard_time": 1747884562,
+        "rank": 29,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 219675,
+        "num": 219675,
+        "word": "樊振东排面拉满",
+        "onboard_time": 1747883783,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218550,
+        "num": 218550,
+        "word": "黄金",
+        "onboard_time": 1747881562,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213424,
+        "num": 213424,
+        "word": "歌手首场揭榜赛制",
+        "onboard_time": 1747884323,
+        "rank": 32,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 209567,
+        "num": 209567,
+        "word": "不良人",
+        "onboard_time": 1747882102,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180327,
+        "num": 180327,
+        "word": "肖战蜂腰猿背",
+        "onboard_time": 1747879041,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177518,
+        "num": 177518,
+        "word": "张本智和结束多哈世乒赛之旅",
+        "onboard_time": 1747877302,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "华晨宇粉丝呼吁工作室辟谣",
+        "onboard_time": 1747884323,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162212,
+        "num": 162212,
+        "word": "花17万买车后车企倒闭车辆裸奔上路",
+        "onboard_time": 1747884023,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153064,
+        "num": 153064,
+        "word": "吉克隽逸早年未修生图",
+        "onboard_time": 1747883962,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149396,
+        "num": 149396,
+        "word": "武汉暴雨",
+        "onboard_time": 1747871361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146014,
+        "num": 146014,
+        "word": "AI迟早毁了你们所有人",
+        "onboard_time": 1747882462,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140357,
+        "num": 140357,
+        "word": "关晓彤耀眼路透",
+        "onboard_time": 1747881922,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137181,
+        "num": 137181,
+        "word": "耀眼",
+        "onboard_time": 1747879163,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135475,
+        "num": 135475,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133561,
+        "num": 133561,
+        "word": "广西宣布倒查十年",
+        "onboard_time": 1747871061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28603,
+        "num": 123388,
+        "word": "不同年龄段有哪些防癌建议",
+        "onboard_time": 1747882102,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "阿云嘎马嘉祺揭榜",
+        "onboard_time": 1747884621,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118632,
+        "num": 118632,
+        "word": "宁艺卓简简单单鲨疯了",
+        "onboard_time": 1747884502,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114298,
+        "num": 114298,
+        "word": "WTT为肖战指导庆生",
+        "onboard_time": 1747884562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113188,
+        "num": 113188,
+        "word": "一个很笨但能让资料分析全对的方法",
+        "onboard_time": 1747882762,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#到河南考察习近平为何再提洋火#"
+    }
+  }
+}
