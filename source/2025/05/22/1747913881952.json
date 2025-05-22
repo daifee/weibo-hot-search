@@ -1,0 +1,410 @@
+{
+  "runTime": 1747913881952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8217356,
+        "num": 8217356,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1496181,
+        "num": 1496181,
+        "word": "小米发布会",
+        "onboard_time": 1747912103,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3481,
+        "num": 567096,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1849809,
+        "num": 539838,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460550,
+        "num": 460550,
+        "word": "武大校门被淹一米深",
+        "onboard_time": 1747908926,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402923,
+        "num": 402923,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278831,
+        "num": 278831,
+        "word": "孙颖莎连续扛住男对手三板倒地爆冲",
+        "onboard_time": 1747906643,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266215,
+        "num": 266215,
+        "word": "朱媛媛易烊千玺戏里母子戏外校友",
+        "onboard_time": 1747907905,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244612,
+        "num": 244612,
+        "word": "混双四强",
+        "onboard_time": 1747908625,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87253,
+        "num": 243499,
+        "word": "中方回应菲方称科考船被水炮袭击",
+        "onboard_time": 1747913124,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 947346,
+        "num": 241329,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1747910126,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294825,
+        "num": 239723,
+        "word": "娜扎16岁未修生图",
+        "onboard_time": 1747905682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264024,
+        "num": 237427,
+        "word": "林峯老婆被爆520晒网图P掉商家logo",
+        "onboard_time": 1747894102,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236003,
+        "num": 236003,
+        "word": "陈坤儿子陈尊佑大学毕业",
+        "onboard_time": 1747902502,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220316,
+        "num": 220316,
+        "word": "Doinb长文回顾10周年",
+        "onboard_time": 1747913004,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 880655,
+        "num": 220315,
+        "word": "赵丽颖恋情曝光后首亮相",
+        "onboard_time": 1747907905,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234840,
+        "num": 219821,
+        "word": "天价耳环",
+        "onboard_time": 1747912404,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164267,
+        "num": 219518,
+        "word": "周雨彤进组谍报上不封顶",
+        "onboard_time": 1747909345,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162964,
+        "num": 219095,
+        "word": "文韬曹恩齐造谣式解说",
+        "onboard_time": 1747913243,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218833,
+        "num": 218833,
+        "word": "朝鲜中央电台通报新建驱逐舰事故细节",
+        "onboard_time": 1747911565,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203329,
+        "num": 203329,
+        "word": "王心凌比18岁还18岁",
+        "onboard_time": 1747906883,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189328,
+        "num": 189328,
+        "word": "小虎队EXO两代人的青春同框了",
+        "onboard_time": 1747912644,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186221,
+        "num": 186221,
+        "word": "日本女童伴父母腐尸独处数日",
+        "onboard_time": 1747901182,
+        "rank": 22,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 173352,
+        "num": 173352,
+        "word": "王楚钦孙颖莎绝对的相互信任",
+        "onboard_time": 1747905623,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7259,
+        "num": 170434,
+        "word": "如何参与2025微博期待影片推荐",
+        "onboard_time": 1747913484,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26995,
+        "num": 167053,
+        "word": "湖北鄂州上空的超级单体雷暴",
+        "onboard_time": 1747912883,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10104,
+        "num": 163843,
+        "word": "贵州大方县山体滑有哪些施救难点",
+        "onboard_time": 1747912883,
+        "rank": 26,
+        "category": ""
+      },
+      {
+        "raw_hot": 24245,
+        "num": 157666,
+        "word": "朝鲜新驱逐舰事故卫星图",
+        "onboard_time": 1747913304,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21696,
+        "num": 153435,
+        "word": "在重庆串个门有多难",
+        "onboard_time": 1747913484,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 18903,
+        "num": 152370,
+        "word": "特朗普回应南非总统访美",
+        "onboard_time": 1747913544,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148825,
+        "num": 148825,
+        "word": "程潇 谍报上不封顶",
+        "onboard_time": 1747902383,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146631,
+        "num": 146631,
+        "word": "疑因妻子出轨自杀男子父亲去世",
+        "onboard_time": 1747907062,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132996,
+        "num": 132996,
+        "word": "潘展乐孙杨汪顺费立纬接力",
+        "onboard_time": 1747912343,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128066,
+        "num": 128066,
+        "word": "嘉行",
+        "onboard_time": 1747913783,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124202,
+        "num": 124202,
+        "word": "云游青藏高原打开雪豹的朋友圈",
+        "onboard_time": 1747907844,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12242,
+        "num": 124189,
+        "word": "2025法网抽签仪式",
+        "onboard_time": 1747913783,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376561,
+        "num": 124175,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273940,
+        "num": 124120,
+        "word": "黑犬酱结婚",
+        "onboard_time": 1747901844,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15347,
+        "num": 124111,
+        "word": "日本女童父母何死亡多日没被发现",
+        "onboard_time": 1747913783,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104751,
+        "num": 124075,
+        "word": "土星换座",
+        "onboard_time": 1747913724,
+        "rank": 39,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 124065,
+        "num": 124065,
+        "word": "12星座一定会发生的好事",
+        "onboard_time": 1747913663,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120679,
+        "num": 120679,
+        "word": "王千源 媛媛你安息我永念",
+        "onboard_time": 1747911444,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119505,
+        "num": 119505,
+        "word": "老师的心是怎么一点点凉透的",
+        "onboard_time": 1747912704,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120734,
+        "num": 119168,
+        "word": "孙颖莎补位进攻反应神速",
+        "onboard_time": 1747913243,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117917,
+        "num": 117917,
+        "word": "王楚钦孙颖莎赛后击掌庆祝",
+        "onboard_time": 1747912581,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117485,
+        "num": 117485,
+        "word": "MCD",
+        "onboard_time": 1747913844,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115391,
+        "num": 115391,
+        "word": "存款利率下调有了闲钱还存不存",
+        "onboard_time": 1747910845,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114456,
+        "num": 114456,
+        "word": "十个勤天爆梗天赋型选手",
+        "onboard_time": 1747913844,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64591,
+        "num": 113981,
+        "word": "痴呆症老人深山走失6日奇迹生还",
+        "onboard_time": 1747911744,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113803,
+        "num": 113803,
+        "word": "肖战一句Letsgo逗笑全剧组",
+        "onboard_time": 1747912343,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#学有质量查有力度改有成效#"
+    }
+  }
+}

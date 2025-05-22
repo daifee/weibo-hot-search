@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747912956221,
+  "endTime": 1747913881952,
   "band_list": [
     {
       "raw_hot": 13594592,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1849809,
+      "num": 539838,
+      "word": "黄杨爸爸涉及7亿项目未招商成功",
+      "onboard_time": 1747912581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1830513,
       "num": 1830513,
       "word": "王楚钦孙颖莎vs松岛辉空张本美和",
@@ -65,6 +73,14 @@
       "onboard_time": 1747885101,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1496181,
+      "num": 1496181,
+      "word": "小米发布会",
+      "onboard_time": 1747912103,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 1455716,
@@ -121,14 +137,6 @@
       "onboard_time": 1747901844,
       "rank": 6,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1154263,
-      "num": 1154263,
-      "word": "小米发布会",
-      "onboard_time": 1747912103,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 1056626,
@@ -1019,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239764,
-      "num": 218777,
-      "word": "黄杨爸爸涉及7亿项目未招商成功",
-      "onboard_time": 1747912581,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239733,
       "num": 322633,
       "word": "姬如雪出场",
@@ -1057,6 +1057,14 @@
       "onboard_time": 1747897291,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234840,
+      "num": 219821,
+      "word": "天价耳环",
+      "onboard_time": 1747912404,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 234316,
@@ -1147,6 +1155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220316,
+      "num": 220316,
+      "word": "Doinb长文回顾10周年",
+      "onboard_time": 1747913004,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219872,
       "num": 180327,
       "word": "肖战蜂腰猿背",
@@ -1155,8 +1171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218582,
-      "num": 218582,
+      "raw_hot": 218833,
+      "num": 218833,
       "word": "朝鲜中央电台通报新建驱逐舰事故细节",
       "onboard_time": 1747911565,
       "rank": 18,
@@ -1304,14 +1320,6 @@
       "word": "和朋友喊权志龙被回应了",
       "onboard_time": 1747887383,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202721,
-      "num": 202721,
-      "word": "天价耳环",
-      "onboard_time": 1747912404,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1673,6 +1681,14 @@
       "onboard_time": 1747893021,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162964,
+      "num": 219095,
+      "word": "文韬曹恩齐造谣式解说",
+      "onboard_time": 1747913243,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 162935,
@@ -2123,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128066,
+      "num": 128066,
+      "word": "嘉行",
+      "onboard_time": 1747913783,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127628,
       "num": 127628,
       "word": "陶虹发长文缅怀朱媛媛",
@@ -2179,12 +2203,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 124065,
+      "num": 124065,
+      "word": "12星座一定会发生的好事",
+      "onboard_time": 1747913663,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122803,
       "num": 225831,
       "word": "校方回应食堂招博士系管理岗年薪18万",
       "onboard_time": 1747911923,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120734,
+      "num": 119168,
+      "word": "孙颖莎补位进攻反应神速",
+      "onboard_time": 1747913243,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 120296,
@@ -2201,6 +2241,14 @@
       "onboard_time": 1747906521,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117485,
+      "num": 117485,
+      "word": "MCD",
+      "onboard_time": 1747913844,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 116254,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1747912463,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114456,
+      "num": 114456,
+      "word": "十个勤天爆梗天赋型选手",
+      "onboard_time": 1747913844,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 114298,
@@ -2369,6 +2425,14 @@
       "onboard_time": 1747901542,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104751,
+      "num": 124075,
+      "word": "土星换座",
+      "onboard_time": 1747913724,
+      "rank": 39,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 103842,
@@ -2609,6 +2673,14 @@
       "onboard_time": 1747874964,
       "rank": 48,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 87253,
+      "num": 243499,
+      "word": "中方回应菲方称科考船被水炮袭击",
+      "onboard_time": 1747913124,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85965,
@@ -2891,6 +2963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64591,
+      "num": 221162,
+      "word": "痴呆症老人深山走失6日奇迹生还",
+      "onboard_time": 1747911744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "我减肥毅力就蔡文静这样",
@@ -2993,14 +3073,6 @@
       "onboard_time": 1747862534,
       "rank": 46,
       "category": "网红"
-    },
-    {
-      "raw_hot": 51511,
-      "num": 221162,
-      "word": "痴呆症老人深山走失6日奇迹生还",
-      "onboard_time": 1747911744,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50240,
@@ -3347,6 +3419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 26995,
+      "num": 167053,
+      "word": "湖北鄂州上空的超级单体雷暴",
+      "onboard_time": 1747912883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26331,
       "num": 262388,
       "word": "阿莫林加纳乔吵架错在谁",
@@ -3435,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24245,
+      "num": 157666,
+      "word": "朝鲜新驱逐舰事故卫星图",
+      "onboard_time": 1747913304,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 24030,
       "num": 216421,
       "word": "人猴矛盾如何寻找最优解",
@@ -3449,14 +3537,6 @@
       "onboard_time": 1747898603,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23739,
-      "num": 135189,
-      "word": "湖北鄂州上空的超级单体雷暴",
-      "onboard_time": 1747912883,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23673,
@@ -3523,6 +3603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21696,
+      "num": 153435,
+      "word": "在重庆串个门有多难",
+      "onboard_time": 1747913484,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 21266,
       "num": 177324,
       "word": "申裕斌很高兴晋级孙颖莎所在阶段",
@@ -3560,6 +3648,14 @@
       "word": "朝鲜造舰如何突破国际制裁限制",
       "onboard_time": 1747897590,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18903,
+      "num": 152370,
+      "word": "特朗普回应南非总统访美",
+      "onboard_time": 1747913544,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -3627,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15347,
+      "num": 124111,
+      "word": "日本女童父母何死亡多日没被发现",
+      "onboard_time": 1747913783,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15080,
       "num": 354048,
       "word": "不同种类的茶叶如何区分",
@@ -3691,6 +3795,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12242,
+      "num": 124189,
+      "word": "2025法网抽签仪式",
+      "onboard_time": 1747913783,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11728,
       "num": 175652,
       "word": "空对空导弹尾部细节",
@@ -3713,6 +3825,14 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10104,
+      "num": 163843,
+      "word": "贵州大方县山体滑有哪些施救难点",
+      "onboard_time": 1747912883,
+      "rank": 43,
+      "category": ""
     },
     {
       "raw_hot": 10098,
@@ -3755,12 +3875,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 6599,
-      "num": 133473,
-      "word": "贵州大方县山体滑有哪些施救难点",
-      "onboard_time": 1747912883,
-      "rank": 43,
-      "category": ""
+      "raw_hot": 7259,
+      "num": 170434,
+      "word": "如何参与2025微博期待影片推荐",
+      "onboard_time": 1747913484,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 5700,
@@ -3799,6 +3919,9 @@
     },
     {
       "word": "#中国开放的大门只会越开越大#"
+    },
+    {
+      "word": "#学有质量查有力度改有成效#"
     }
   ]
 }
