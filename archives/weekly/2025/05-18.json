@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747919264625,
+  "endTime": 1747921020122,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -123,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2699985,
+      "num": 2699985,
+      "word": "小米YU7",
+      "onboard_time": 1747622842,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 2630744,
       "num": 275059,
       "word": "武汉崇仁路故意伤害案致1死2伤",
@@ -177,14 +185,6 @@
       "onboard_time": 1747612942,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2347743,
-      "num": 2347743,
-      "word": "小米YU7",
-      "onboard_time": 1747622842,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 2343919,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1420393,
+      "num": 1420393,
+      "word": "黄杨爸爸将面临什么处罚",
+      "onboard_time": 1747917564,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1412890,
       "num": 1412890,
       "word": "肖战升没升咖不知道 我升了",
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 1349336,
-      "num": 512460,
+      "num": 571140,
       "word": "赵丽颖恋情曝光后首亮相",
       "onboard_time": 1747907905,
       "rank": 8,
@@ -744,14 +752,6 @@
       "word": "闵塔鲨 迪丽热巴",
       "onboard_time": 1747662206,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1268843,
-      "num": 1268843,
-      "word": "黄杨爸爸将面临什么处罚",
-      "onboard_time": 1747917564,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1275,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 890668,
+      "num": 890668,
+      "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+      "onboard_time": 1747919905,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 888355,
       "num": 757937,
       "word": "日本女童伴父母腐尸独处数日",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1747697060,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 809362,
+      "num": 809362,
+      "word": "陈奕迅露面",
+      "onboard_time": 1747918102,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 806331,
@@ -3131,6 +3147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 444963,
+      "num": 444963,
+      "word": "藏海传这仨笑死我了",
+      "onboard_time": 1747917264,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444004,
       "num": 340053,
       "word": "68岁摩的司机两次性侵14岁女学生",
@@ -3411,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407170,
-      "num": 311934,
-      "word": "陈奕迅露面",
-      "onboard_time": 1747918102,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404813,
       "num": 404813,
       "word": "都说了叫zh的人不好惹",
@@ -3539,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390756,
+      "num": 311094,
+      "word": "单依纯 天空",
+      "onboard_time": 1747917983,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 390430,
       "num": 390430,
       "word": "肖战擦汗这20秒我将反复看",
@@ -3641,6 +3665,14 @@
       "onboard_time": 1747625003,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376357,
+      "num": 287364,
+      "word": "易烊千玺戛纳到达",
+      "onboard_time": 1747919544,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 376087,
@@ -4139,14 +4171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328451,
-      "num": 311243,
-      "word": "藏海传这仨笑死我了",
-      "onboard_time": 1747917264,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328185,
       "num": 328185,
       "word": "莎头采访",
@@ -4329,14 +4353,6 @@
       "onboard_time": 1747746982,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311094,
-      "num": 311094,
-      "word": "单依纯 天空",
-      "onboard_time": 1747917983,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 310975,
@@ -4601,6 +4617,14 @@
       "onboard_time": 1747738522,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 293397,
+      "num": 293397,
+      "word": "周琦老婆曾用离婚威胁丈夫回CBA",
+      "onboard_time": 1747918945,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 292927,
@@ -4963,6 +4987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274229,
+      "num": 274229,
+      "word": "GAI选曲",
+      "onboard_time": 1747918883,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273879,
       "num": 374270,
       "word": "马嘉祺阿云嘎挑战谁由投票决定",
@@ -5001,6 +5033,14 @@
       "onboard_time": 1747544610,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 270826,
+      "num": 270826,
+      "word": "小米手表",
+      "onboard_time": 1747915644,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 270037,
@@ -5225,14 +5265,6 @@
       "onboard_time": 1747549942,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261318,
-      "num": 261318,
-      "word": "小米手表",
-      "onboard_time": 1747915644,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 260959,
@@ -5947,6 +5979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 229903,
+      "num": 222932,
+      "word": "雷军说小米YU7不可能19.9万",
+      "onboard_time": 1747920745,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229648,
       "num": 298666,
       "word": "肖战第七集演技大赏",
@@ -6091,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224505,
+      "num": 311419,
+      "word": "男子起诉插足儿子婚姻者案尚未开庭",
+      "onboard_time": 1747919063,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224442,
       "num": 224442,
       "word": "建议大家不要买开口榴莲",
@@ -6169,6 +6217,14 @@
       "onboard_time": 1747621161,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222450,
+      "num": 222450,
+      "word": "小米YU7价格预测",
+      "onboard_time": 1747920384,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 222412,
@@ -6291,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220129,
+      "num": 220129,
+      "word": "小米YU7颜色",
+      "onboard_time": 1747920504,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 220033,
       "num": 264748,
       "word": "潘展乐最后一棒连追两队夺冠",
@@ -6337,6 +6401,14 @@
       "onboard_time": 1747911565,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 218730,
+      "num": 218730,
+      "word": "国乒男双50年来首次无缘4强",
+      "onboard_time": 1747920625,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 218570,
@@ -6553,6 +6625,14 @@
       "onboard_time": 1747655843,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213578,
+      "num": 213578,
+      "word": "稚奴庄二",
+      "onboard_time": 1747920025,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 213571,
@@ -6785,14 +6865,6 @@
       "onboard_time": 1747822763,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209998,
-      "num": 209998,
-      "word": "GAI选曲",
-      "onboard_time": 1747918883,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 209827,
@@ -7107,6 +7179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205025,
+      "num": 205025,
+      "word": "她来了以后王府才添了颜色",
+      "onboard_time": 1747918703,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205014,
       "num": 205014,
       "word": "和朋友喊权志龙被回应了",
@@ -7161,6 +7241,14 @@
       "onboard_time": 1747658125,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "多名国乒主力缺席卢布尔雅那站挑战赛",
+      "onboard_time": 1747920384,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 204105,
@@ -7499,6 +7587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199125,
+      "num": 199125,
+      "word": "游泳接力",
+      "onboard_time": 1747920865,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199101,
       "num": 199101,
       "word": "云合",
@@ -7619,14 +7715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197447,
-      "num": 203478,
-      "word": "她来了以后王府才添了颜色",
-      "onboard_time": 1747918703,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197339,
       "num": 237107,
       "word": "刘学义孟子义520饭撒",
@@ -7665,6 +7753,14 @@
       "onboard_time": 1747567640,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197152,
+      "num": 284152,
+      "word": "小米Civi5Pro冰美式",
+      "onboard_time": 1747919304,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 197122,
@@ -7825,6 +7921,14 @@
       "onboard_time": 1747748423,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195236,
+      "num": 195236,
+      "word": "徐嘉余苦笑",
+      "onboard_time": 1747920865,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 194805,
@@ -8473,6 +8577,14 @@
       "onboard_time": 1747539750,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188368,
+      "num": 188368,
+      "word": "周深空降上海财经大学",
+      "onboard_time": 1747920865,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 188276,
@@ -9267,6 +9379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176580,
+      "num": 176580,
+      "word": "伊朗杯",
+      "onboard_time": 1747920625,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176330,
       "num": 176330,
       "word": "为什么说抗癌5年是个坎儿",
@@ -9521,6 +9641,14 @@
       "onboard_time": 1747871061,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172441,
+      "num": 172441,
+      "word": "王皓",
+      "onboard_time": 1747920985,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 172337,
@@ -13043,6 +13171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128051,
+      "num": 224686,
+      "word": "张家界暴雨洪水从家中穿流而过",
+      "onboard_time": 1747919425,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127948,
       "num": 382900,
       "word": "阿勒泰兔狲被救3个月后放归自然",
@@ -13057,6 +13193,14 @@
       "onboard_time": 1747839864,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127732,
+      "num": 282095,
+      "word": "日本百年银行巨亏1.8万亿",
+      "onboard_time": 1747919785,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 127652,
@@ -15931,6 +16075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79898,
+      "num": 452646,
+      "word": "中法元首通电话",
+      "onboard_time": 1747920143,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79823,
       "num": 88415,
       "word": "Bin 我们只要正常放开去打就能赢",
@@ -16329,6 +16481,14 @@
       "onboard_time": 1747880060,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73304,
+      "num": 1640204,
+      "word": "中国市场的含金量还在涨",
+      "onboard_time": 1747919606,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72990,
@@ -17515,6 +17675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 53732,
+      "num": 225702,
+      "word": "士兵开着保时捷卡宴完成战斗任务",
+      "onboard_time": 1747920084,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 53679,
       "num": 53679,
       "word": "退圈摆摊男演员透露有很多戏找他",
@@ -17857,6 +18025,14 @@
       "onboard_time": 1747735942,
       "rank": 28,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 47090,
+      "num": 223083,
+      "word": "TT战胜NIP",
+      "onboard_time": 1747919845,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 47000,
@@ -18427,14 +18603,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 39084,
-      "num": 311419,
-      "word": "男子起诉插足儿子婚姻者案尚未开庭",
-      "onboard_time": 1747919063,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39037,
       "num": 242608,
       "word": "林诗栋vs皮切福特",
@@ -19001,6 +19169,14 @@
       "onboard_time": 1747910544,
       "rank": 34,
       "category": "军事"
+    },
+    {
+      "raw_hot": 31569,
+      "num": 227735,
+      "word": "她有这自驱力真的很难不成功",
+      "onboard_time": 1747920684,
+      "rank": 27,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 31568,
@@ -19843,6 +20019,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 23411,
+      "num": 208768,
+      "word": "漫展上的万事屋三人组",
+      "onboard_time": 1747919244,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23369,
       "num": 245269,
       "word": "家庭集体包庇罪犯需承担哪些责任",
@@ -19897,14 +20081,6 @@
       "onboard_time": 1747637185,
       "rank": 21,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 22614,
-      "num": 201954,
-      "word": "漫展上的万事屋三人组",
-      "onboard_time": 1747919244,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 22516,
@@ -21369,6 +21545,14 @@
       "onboard_time": 1747657884,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 10645,
+      "num": 221107,
+      "word": "国产芯片AI产业变革",
+      "onboard_time": 1747920925,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10642,
