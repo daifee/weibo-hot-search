@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747942605883,
+  "endTime": 1747945704671,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -19099,6 +19099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40878,
+      "num": 26387,
+      "word": "孙颖莎真是大心脏",
+      "onboard_time": 1747942815,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40809,
       "num": 220985,
       "word": "男孩玩手游充值上万元看病钱",
@@ -19337,6 +19345,14 @@
       "onboard_time": 1747827622,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 37873,
+      "num": 37873,
+      "word": "枪杀以使馆工作人员的嫌疑人被捕",
+      "onboard_time": 1747943354,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37832,
@@ -21011,6 +21027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21369,
+      "num": 21369,
+      "word": "王楚钦八强战对阵林昀儒",
+      "onboard_time": 1747942815,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21353,
       "num": 1484493,
       "word": "物种丰富的大自然有多美",
@@ -21273,6 +21297,14 @@
       "onboard_time": 1747513453,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19319,
+      "num": 19319,
+      "word": "狂野时代戛纳首映",
+      "onboard_time": 1747943534,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 19313,
@@ -21609,6 +21641,14 @@
       "onboard_time": 1747895423,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 16950,
+      "num": 16950,
+      "word": "美股美债又崩了",
+      "onboard_time": 1747944134,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16916,
