@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747925124056,
+  "endTime": 1747927702587,
   "band_list": [
     {
       "raw_hot": 13594592,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11135739,
-      "num": 11135739,
+      "raw_hot": 13566423,
+      "num": 13566423,
       "word": "赵丽颖这算官宣恋情吗",
       "onboard_time": 1747923624,
       "rank": 0,
@@ -41,6 +41,14 @@
       "onboard_time": 1747842623,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2982325,
+      "num": 1577641,
+      "word": "曹颖患胃癌",
+      "onboard_time": 1747925367,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2886367,
@@ -99,12 +107,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1648338,
+      "num": 1648338,
+      "word": "王楚钦晋级世乒赛八强",
+      "onboard_time": 1747926509,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1625511,
       "num": 1625511,
       "word": "黄杨爸爸将面临什么处罚",
       "onboard_time": 1747917564,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1584533,
+      "num": 932289,
+      "word": "赵丽颖回应",
+      "onboard_time": 1747927586,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1561619,
+      "num": 1561619,
+      "word": "王楚钦vs高茨",
+      "onboard_time": 1747921825,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1496181,
@@ -187,12 +219,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1146749,
-      "num": 1146749,
-      "word": "王楚钦vs高茨",
-      "onboard_time": 1747921825,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 1156681,
+      "num": 440710,
+      "word": "赵丽颖",
+      "onboard_time": 1747923926,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1101881,
@@ -233,6 +265,14 @@
       "onboard_time": 1747902502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986085,
+      "num": 986085,
+      "word": "王楚钦更换球衣",
+      "onboard_time": 1747925610,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 958804,
@@ -419,20 +459,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 640381,
+      "num": 628032,
+      "word": "王楚钦的含金量还在上升",
+      "onboard_time": 1747922184,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637373,
       "num": 625884,
       "word": "惊蛰无声易烊千玺朱一龙双男主",
       "onboard_time": 1747881861,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 628032,
-      "num": 628032,
-      "word": "王楚钦的含金量还在上升",
-      "onboard_time": 1747922184,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 625750,
@@ -465,6 +505,14 @@
       "onboard_time": 1747895301,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 611473,
+      "num": 359489,
+      "word": "女子产检发现宝宝心肝脾全长反了",
+      "onboard_time": 1747925427,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 608041,
@@ -675,12 +723,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 440710,
-      "num": 440710,
-      "word": "赵丽颖",
-      "onboard_time": 1747923926,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 439831,
+      "num": 439831,
+      "word": "在人间",
+      "onboard_time": 1747919364,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 433682,
@@ -1027,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304925,
+      "num": 304925,
+      "word": "梁靖崑投诉球拍上都是水",
+      "onboard_time": 1747926389,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302030,
       "num": 209008,
       "word": "小米YU7内饰",
@@ -1123,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282831,
+      "num": 282831,
+      "word": "这是载入中国游泳史的一幕",
+      "onboard_time": 1747926867,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281994,
       "num": 218550,
       "word": "黄金",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1747924647,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "快70了才穿上18岁想穿的衣服",
+      "onboard_time": 1747926211,
+      "rank": 33,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 275745,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1747897412,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262792,
+      "num": 262792,
+      "word": "王楚钦4比2高茨",
+      "onboard_time": 1747927107,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 262078,
@@ -1347,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 246027,
+      "num": 306815,
+      "word": "左航直播",
+      "onboard_time": 1747914323,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244468,
       "num": 244468,
       "word": "小米未来五年研发再投入2000亿",
@@ -1361,6 +1449,14 @@
       "onboard_time": 1747886783,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243068,
+      "num": 243068,
+      "word": "光渊",
+      "onboard_time": 1747926271,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 241464,
@@ -1433,14 +1529,6 @@
       "onboard_time": 1747897291,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235401,
-      "num": 214347,
-      "word": "左航直播",
-      "onboard_time": 1747914323,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 234316,
@@ -1571,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220692,
+      "num": 220692,
+      "word": "徐嘉余 余生请多游泳",
+      "onboard_time": 1747926090,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220391,
       "num": 220391,
       "word": "雷军回应突然发布大芯片",
@@ -1609,6 +1705,14 @@
       "onboard_time": 1747911565,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215549,
+      "num": 215549,
+      "word": "周琦老婆",
+      "onboard_time": 1747927167,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 214893,
@@ -1787,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202849,
+      "num": 202849,
+      "word": "易烊千玺说媛媛姐十分照顾他",
+      "onboard_time": 1747927228,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202277,
       "num": 202277,
       "word": "周深空降上海财经大学",
@@ -1803,12 +1915,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201700,
+      "num": 748429,
+      "word": "极客湾评小米玄戒O1表现远超预期",
+      "onboard_time": 1747922965,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "陈楚生 我用什么把你留住",
+      "onboard_time": 1747927047,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200725,
       "num": 200725,
       "word": "人鱼",
       "onboard_time": 1747918524,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200704,
+      "num": 310871,
+      "word": "王楚钦连扳4局晋级",
+      "onboard_time": 1747927347,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 199636,
@@ -2027,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186357,
+      "num": 186357,
+      "word": "鹭卓肠胃镜vlog",
+      "onboard_time": 1747927406,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185921,
       "num": 228321,
       "word": "王楚钦交替使用2副球拍训练",
@@ -2235,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167634,
-      "num": 748429,
-      "word": "极客湾评小米玄戒O1表现远超预期",
-      "onboard_time": 1747922965,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 167205,
       "num": 167205,
       "word": "高合汽车新公司成立",
@@ -2385,6 +2521,14 @@
       "onboard_time": 1747908204,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159103,
+      "num": 320860,
+      "word": "王楚钦高质量多拍相持",
+      "onboard_time": 1747926749,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 158653,
@@ -2859,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121019,
+      "num": 359544,
+      "word": "女子称玩梗向客户要钱被公司辞退",
+      "onboard_time": 1747926448,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120734,
       "num": 119168,
       "word": "孙颖莎补位进攻反应神速",
@@ -3099,6 +3251,14 @@
       "category": "情感,科学科普"
     },
     {
+      "raw_hot": 104286,
+      "num": 466759,
+      "word": "河北骑行男孩身亡案最新进展",
+      "onboard_time": 1747926987,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103842,
       "num": 86746,
       "word": "刘国梁王励勤看孙颖莎比赛",
@@ -3273,6 +3433,14 @@
       "onboard_time": 1747843102,
       "rank": 42,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 94216,
+      "num": 195617,
+      "word": "陈幸同晋级世乒赛八强",
+      "onboard_time": 1747926509,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 94137,
@@ -3665,6 +3833,14 @@
       "onboard_time": 1747903581,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 68125,
+      "num": 456708,
+      "word": "人躺在ICU居然写下欠条法院判还钱",
+      "onboard_time": 1747926448,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68071,
@@ -4779,6 +4955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 8235,
+      "num": 308793,
+      "word": "一朝打印天下知",
+      "onboard_time": 1747927287,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 7259,
       "num": 170434,
       "word": "如何参与2025微博期待影片推荐",
@@ -4791,6 +4975,14 @@
       "num": 1484493,
       "word": "物种丰富的大自然有多美",
       "onboard_time": 1747918102,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5906,
+      "num": 1598607,
+      "word": "高质量发展看天津",
+      "onboard_time": 1747735641,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -4815,14 +5007,6 @@
       "num": 777590,
       "word": "互联中国公益行动",
       "onboard_time": 1747703850,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3625,
-      "num": 1598607,
-      "word": "高质量发展看天津",
-      "onboard_time": 1747735641,
       "rank": 2,
       "category": "民生新闻"
     }

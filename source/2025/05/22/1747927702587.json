@@ -1,0 +1,410 @@
+{
+  "runTime": 1747927702587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13566423,
+        "num": 13566423,
+        "word": "赵丽颖这算官宣恋情吗",
+        "onboard_time": 1747923624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1648338,
+        "num": 1648338,
+        "word": "王楚钦晋级世乒赛八强",
+        "onboard_time": 1747926509,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5906,
+        "num": 1591803,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2982325,
+        "num": 1577641,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1561619,
+        "num": 1561619,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747921825,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 986085,
+        "num": 986085,
+        "word": "王楚钦更换球衣",
+        "onboard_time": 1747925610,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1584533,
+        "num": 932289,
+        "word": "赵丽颖回应",
+        "onboard_time": 1747927586,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773300,
+        "num": 773300,
+        "word": "黄杨爸爸将面临什么处罚",
+        "onboard_time": 1747917564,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576920,
+        "num": 576920,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 309214,
+        "num": 555206,
+        "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+        "onboard_time": 1747919905,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 841858,
+        "num": 531846,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827107,
+        "num": 527140,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640381,
+        "num": 505770,
+        "word": "王楚钦的含金量还在上升",
+        "onboard_time": 1747922184,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104286,
+        "num": 466759,
+        "word": "河北骑行男孩身亡案最新进展",
+        "onboard_time": 1747926987,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68125,
+        "num": 456708,
+        "word": "人躺在ICU居然写下欠条法院判还钱",
+        "onboard_time": 1747926448,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439831,
+        "num": 439831,
+        "word": "在人间",
+        "onboard_time": 1747919364,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424667,
+        "num": 424667,
+        "word": "雷军说小米YU7不可能19.9万",
+        "onboard_time": 1747920745,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 55704,
+        "num": 384111,
+        "word": "深蓝CEO承诺深蓝S09一年不降价",
+        "onboard_time": 1747924528,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362342,
+        "num": 362342,
+        "word": "国乒男双无缘世乒赛四强",
+        "onboard_time": 1747916664,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121019,
+        "num": 359544,
+        "word": "女子称玩梗向客户要钱被公司辞退",
+        "onboard_time": 1747926448,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156681,
+        "num": 359510,
+        "word": "赵丽颖",
+        "onboard_time": 1747923926,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611473,
+        "num": 359489,
+        "word": "女子产检发现宝宝心肝脾全长反了",
+        "onboard_time": 1747925427,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359432,
+        "num": 359432,
+        "word": "冰湖重生 黄杨钿甜",
+        "onboard_time": 1747914024,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323261,
+        "num": 323261,
+        "word": "周琦老婆承认逼丈夫回国失去理智",
+        "onboard_time": 1747921285,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159103,
+        "num": 320860,
+        "word": "王楚钦高质量多拍相持",
+        "onboard_time": 1747926749,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282076,
+        "num": 318968,
+        "word": "翔霖",
+        "onboard_time": 1747923144,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259616,
+        "num": 317097,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251765,
+        "num": 314721,
+        "word": "鹿晗新歌",
+        "onboard_time": 1747922305,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200704,
+        "num": 310871,
+        "word": "王楚钦连扳4局晋级",
+        "onboard_time": 1747927347,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8235,
+        "num": 308793,
+        "word": "一朝打印天下知",
+        "onboard_time": 1747927287,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246027,
+        "num": 306815,
+        "word": "左航直播",
+        "onboard_time": 1747914323,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304925,
+        "num": 304925,
+        "word": "梁靖崑投诉球拍上都是水",
+        "onboard_time": 1747926389,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282831,
+        "num": 282831,
+        "word": "这是载入中国游泳史的一幕",
+        "onboard_time": 1747926867,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276862,
+        "num": 276862,
+        "word": "快70了才穿上18岁想穿的衣服",
+        "onboard_time": 1747926211,
+        "rank": 33,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 262792,
+        "num": 262792,
+        "word": "王楚钦4比2高茨",
+        "onboard_time": 1747927107,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243068,
+        "num": 243068,
+        "word": "光渊",
+        "onboard_time": 1747926271,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239355,
+        "num": 239355,
+        "word": "官方通报大学生坠入化粪池遇难",
+        "onboard_time": 1747923746,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230657,
+        "num": 230657,
+        "word": "歌手歌单",
+        "onboard_time": 1747915223,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229662,
+        "num": 229662,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222094,
+        "num": 222094,
+        "word": "金秋天染金发了",
+        "onboard_time": 1747924889,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201700,
+        "num": 221324,
+        "word": "极客湾评小米玄戒O1表现远超预期",
+        "onboard_time": 1747922965,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220692,
+        "num": 220692,
+        "word": "徐嘉余 余生请多游泳",
+        "onboard_time": 1747926090,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215549,
+        "num": 215549,
+        "word": "周琦老婆",
+        "onboard_time": 1747927167,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202849,
+        "num": 202849,
+        "word": "易烊千玺说媛媛姐十分照顾他",
+        "onboard_time": 1747927228,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201331,
+        "num": 201331,
+        "word": "陈楚生 我用什么把你留住",
+        "onboard_time": 1747927047,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94216,
+        "num": 195617,
+        "word": "陈幸同晋级世乒赛八强",
+        "onboard_time": 1747926509,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195136,
+        "num": 195136,
+        "word": "藏海传这仨笑死我了",
+        "onboard_time": 1747917264,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186357,
+        "num": 186357,
+        "word": "鹭卓肠胃镜vlog",
+        "onboard_time": 1747927406,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186272,
+        "num": 186272,
+        "word": "国乒男双50年来首次无缘4强",
+        "onboard_time": 1747920625,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184915,
+        "num": 184915,
+        "word": "易烊千玺戛纳到达",
+        "onboard_time": 1747919544,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}

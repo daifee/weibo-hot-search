@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747925124056,
+  "endTime": 1747927702587,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13566423,
+      "num": 13566423,
+      "word": "赵丽颖这算官宣恋情吗",
+      "onboard_time": 1747923624,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11395470,
       "num": 11395470,
       "word": "王楚钦换球拍",
@@ -33,14 +41,6 @@
       "onboard_time": 1747630344,
       "rank": 36,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 11135739,
-      "num": 11135739,
-      "word": "赵丽颖这算官宣恋情吗",
-      "onboard_time": 1747923624,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 9707431,
@@ -105,6 +105,14 @@
       "onboard_time": 1747485623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2982325,
+      "num": 1577641,
+      "word": "曹颖患胃癌",
+      "onboard_time": 1747925367,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2955371,
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1648338,
+      "num": 1648338,
+      "word": "王楚钦晋级世乒赛八强",
+      "onboard_time": 1747926509,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1645715,
       "num": 1645715,
       "word": "央视曝光怕被卫星拍到的垃圾山",
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1584533,
+      "num": 932289,
+      "word": "赵丽颖回应",
+      "onboard_time": 1747927586,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1581363,
       "num": 598676,
       "word": "莎头",
@@ -489,6 +513,14 @@
       "onboard_time": 1747626983,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1561619,
+      "num": 1561619,
+      "word": "王楚钦vs高茨",
+      "onboard_time": 1747756522,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1549832,
@@ -883,6 +915,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1156681,
+      "num": 440710,
+      "word": "赵丽颖",
+      "onboard_time": 1747923926,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1150968,
       "num": 1150968,
       "word": "王楚钦vs饭冢",
@@ -897,14 +937,6 @@
       "onboard_time": 1747823003,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1146749,
-      "num": 1146749,
-      "word": "王楚钦vs高茨",
-      "onboard_time": 1747756522,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 1133154,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1747902502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 986085,
+      "num": 986085,
+      "word": "王楚钦更换球衣",
+      "onboard_time": 1747925610,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 981774,
@@ -2115,6 +2155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 640381,
+      "num": 628032,
+      "word": "王楚钦的含金量还在上升",
+      "onboard_time": 1747922184,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639522,
       "num": 262058,
       "word": "抖音崩了",
@@ -2145,14 +2193,6 @@
       "onboard_time": 1747524978,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628032,
-      "num": 628032,
-      "word": "王楚钦的含金量还在上升",
-      "onboard_time": 1747922184,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 627282,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1747725083,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 611473,
+      "num": 359489,
+      "word": "女子产检发现宝宝心肝脾全长反了",
+      "onboard_time": 1747925427,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 608041,
@@ -3251,20 +3299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 440710,
-      "num": 440710,
-      "word": "赵丽颖",
-      "onboard_time": 1747923926,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 440147,
       "num": 354744,
       "word": "周冬雨张凌赫G社生图",
       "onboard_time": 1747615293,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 439831,
+      "num": 439831,
+      "word": "在人间",
+      "onboard_time": 1747919364,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 436251,
@@ -4571,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304925,
+      "num": 304925,
+      "word": "梁靖崑投诉球拍上都是水",
+      "onboard_time": 1747926389,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303848,
       "num": 167885,
       "word": "藏海传 盗墓笔记",
@@ -4979,6 +5035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282831,
+      "num": 282831,
+      "word": "这是载入中国游泳史的一幕",
+      "onboard_time": 1747926867,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282615,
       "num": 192418,
       "word": "45%成年居民存在蛋白质摄入不足风险",
@@ -5049,6 +5113,14 @@
       "onboard_time": 1747746982,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "快70了才穿上18岁想穿的衣服",
+      "onboard_time": 1747926211,
+      "rank": 33,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 276798,
@@ -5345,6 +5417,14 @@
       "onboard_time": 1747699881,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262792,
+      "num": 262792,
+      "word": "王楚钦4比2高茨",
+      "onboard_time": 1747927107,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 262152,
@@ -5659,6 +5739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 246027,
+      "num": 306815,
+      "word": "左航直播",
+      "onboard_time": 1747914323,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246009,
       "num": 330006,
       "word": "汽车4S店销冠疑用个人码收车款跑路",
@@ -5745,6 +5833,14 @@
       "onboard_time": 1747886783,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243068,
+      "num": 243068,
+      "word": "光渊",
+      "onboard_time": 1747926271,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 243047,
@@ -5969,14 +6065,6 @@
       "onboard_time": 1747557201,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235401,
-      "num": 214347,
-      "word": "左航直播",
-      "onboard_time": 1747914323,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 234533,
@@ -6483,6 +6571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220692,
+      "num": 220692,
+      "word": "徐嘉余 余生请多游泳",
+      "onboard_time": 1747926090,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220561,
       "num": 209548,
       "word": "男子坚持刷了120多遍肖战版射雕",
@@ -6681,6 +6777,14 @@
       "onboard_time": 1747836985,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215549,
+      "num": 215549,
+      "word": "周琦老婆",
+      "onboard_time": 1747927167,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 215490,
@@ -7467,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202849,
+      "num": 202849,
+      "word": "易烊千玺说媛媛姐十分照顾他",
+      "onboard_time": 1747927228,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202733,
       "num": 202733,
       "word": "王皓说樊振东8年世锦赛单打才登顶",
@@ -7555,6 +7667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201700,
+      "num": 748429,
+      "word": "极客湾评小米玄戒O1表现远超预期",
+      "onboard_time": 1747922965,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 201507,
       "num": 214837,
       "word": "藏海 幻视好凉",
@@ -7587,6 +7707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "陈楚生 我用什么把你留住",
+      "onboard_time": 1747927047,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201325,
       "num": 201325,
       "word": "祝绪丹520撕拉片",
@@ -7617,6 +7745,14 @@
       "onboard_time": 1747918524,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200704,
+      "num": 310871,
+      "word": "王楚钦连扳4局晋级",
+      "onboard_time": 1747927347,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 200546,
@@ -8899,6 +9035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186357,
+      "num": 186357,
+      "word": "鹭卓肠胃镜vlog",
+      "onboard_time": 1747927406,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185985,
       "num": 185985,
       "word": "淘宝能量",
@@ -10131,14 +10275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167634,
-      "num": 748429,
-      "word": "极客湾评小米玄戒O1表现远超预期",
-      "onboard_time": 1747922965,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 167286,
       "num": 167286,
       "word": "郭俊辰圈内人缘",
@@ -10768,6 +10904,14 @@
       "word": "许昕19岁就跟姚彦表白",
       "onboard_time": 1747735043,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159103,
+      "num": 320860,
+      "word": "王楚钦高质量多拍相持",
+      "onboard_time": 1747926749,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -13819,6 +13963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121019,
+      "num": 359544,
+      "word": "女子称玩梗向客户要钱被公司辞退",
+      "onboard_time": 1747926448,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120841,
       "num": 120841,
       "word": "宁愿爬七楼也想住的房子",
@@ -14835,6 +14987,14 @@
       "category": "情感,科学科普"
     },
     {
+      "raw_hot": 104286,
+      "num": 466759,
+      "word": "河北骑行男孩身亡案最新进展",
+      "onboard_time": 1747926987,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104256,
       "num": 104256,
       "word": "美国女子在家中突遭流弹击中身亡",
@@ -15441,6 +15601,14 @@
       "onboard_time": 1747495946,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94216,
+      "num": 195617,
+      "word": "陈幸同晋级世乒赛八强",
+      "onboard_time": 1747926509,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 94137,
@@ -17025,6 +17193,14 @@
       "onboard_time": 1747783580,
       "rank": 40,
       "category": "情感,运动健身"
+    },
+    {
+      "raw_hot": 68125,
+      "num": 456708,
+      "word": "人躺在ICU居然写下欠条法院判还钱",
+      "onboard_time": 1747926448,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68087,
@@ -22049,6 +22225,14 @@
       "onboard_time": 1747754185,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 8235,
+      "num": 308793,
+      "word": "一朝打印天下知",
+      "onboard_time": 1747927287,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8205,
