@@ -1,0 +1,410 @@
+{
+  "runTime": 1747880508020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1075077,
+        "num": 1172012,
+        "word": "陈丽云被逮捕",
+        "onboard_time": 1747874544,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 497658,
+        "num": 497658,
+        "word": "白宫又又又吵起来了",
+        "onboard_time": 1747873462,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31728,
+        "num": 404581,
+        "word": "民营经济促进法施行释放三大信号",
+        "onboard_time": 1747833503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 935917,
+        "num": 403609,
+        "word": "朱媛媛住院治疗照",
+        "onboard_time": 1747875743,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400346,
+        "num": 400346,
+        "word": "张本智和结束多哈世乒赛之旅",
+        "onboard_time": 1747877302,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344999,
+        "num": 344999,
+        "word": "倒卖蜜雪冰城柠檬水赚差价当事人发声",
+        "onboard_time": 1747831164,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337249,
+        "num": 337249,
+        "word": "朝鲜驱逐舰",
+        "onboard_time": 1747877062,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312715,
+        "num": 312715,
+        "word": "黄杨钿甜同款耳环已量产",
+        "onboard_time": 1747871000,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396427,
+        "num": 311061,
+        "word": "朱媛媛遗体已火化",
+        "onboard_time": 1747878624,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308231,
+        "num": 308231,
+        "word": "袁爷爷吴爷爷离开4年了",
+        "onboard_time": 1747845680,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073915,
+        "num": 304644,
+        "word": "朝鲜新驱逐舰下水时发生严重事故",
+        "onboard_time": 1747875323,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 629709,
+        "num": 303889,
+        "word": "应届生把数据库删了",
+        "onboard_time": 1747871903,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161601,
+        "num": 296764,
+        "word": "广西宣布倒查十年",
+        "onboard_time": 1747871061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346786,
+        "num": 294616,
+        "word": "海口警方再通报汽车拖猫事件",
+        "onboard_time": 1747878921,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 290868,
+        "num": 290868,
+        "word": "武汉暴雨",
+        "onboard_time": 1747871361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250718,
+        "num": 250718,
+        "word": "父亲卖5套房送两儿子留洋学球",
+        "onboard_time": 1747836205,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207183,
+        "num": 207183,
+        "word": "张婧仪说肖战私下阳光有少年感",
+        "onboard_time": 1747877361,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198324,
+        "num": 198324,
+        "word": "国字脸猴子大壮去世",
+        "onboard_time": 1747839205,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191450,
+        "num": 191450,
+        "word": "耀眼",
+        "onboard_time": 1747879163,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188276,
+        "num": 188276,
+        "word": "京东上线停产的iPodtouch",
+        "onboard_time": 1747879581,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178459,
+        "num": 178459,
+        "word": "上海孤老去世留下房产邻居要求分一半",
+        "onboard_time": 1747837405,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219872,
+        "num": 176809,
+        "word": "肖战蜂腰猿背",
+        "onboard_time": 1747879041,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 171297,
+        "word": "孙颖莎又打服了一个",
+        "onboard_time": 1747877662,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150043,
+        "num": 150043,
+        "word": "再听一听袁爷爷的禾下乘凉梦",
+        "onboard_time": 1747877302,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143901,
+        "num": 143901,
+        "word": "风吹过稻田依然想念您",
+        "onboard_time": 1747877662,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140315,
+        "num": 140315,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104155,
+        "num": 139166,
+        "word": "最吃金靖这一套的还是热巴",
+        "onboard_time": 1747870821,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43868,
+        "num": 133870,
+        "word": "美债拍卖遇冷",
+        "onboard_time": 1747874783,
+        "rank": 27,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 88268,
+        "num": 133227,
+        "word": "张凌赫首次戛纳红毯造型",
+        "onboard_time": 1747844181,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87950,
+        "num": 128607,
+        "word": "王俊凯简直萌物",
+        "onboard_time": 1747879762,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126932,
+        "num": 126932,
+        "word": "用山海经打开珍稀保护动物",
+        "onboard_time": 1747877302,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121214,
+        "num": 121214,
+        "word": "卵巢癌7成患者发现已是晚期",
+        "onboard_time": 1747826422,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 110514,
+        "num": 110514,
+        "word": "遭摩的司机性侵女孩家属称孩子已转学",
+        "onboard_time": 1747836264,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103090,
+        "num": 103090,
+        "word": "巴基斯坦警告印度我们不是巴勒斯坦",
+        "onboard_time": 1747838305,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100357,
+        "num": 100357,
+        "word": "直播间花26万赌石后起诉索赔被驳回",
+        "onboard_time": 1747880002,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92964,
+        "num": 92964,
+        "word": "韩莹太顽强了",
+        "onboard_time": 1747878203,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89018,
+        "num": 89018,
+        "word": "境外机构披着兼职外衣联系高校学生",
+        "onboard_time": 1747876102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87044,
+        "num": 87044,
+        "word": "网友调侃12楼坠落女子生还老公很失望",
+        "onboard_time": 1747834823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84658,
+        "num": 84658,
+        "word": "种地吧早七突袭直播",
+        "onboard_time": 1747874364,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81055,
+        "num": 81055,
+        "word": "C罗生涯935球",
+        "onboard_time": 1747880002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80769,
+        "num": 80769,
+        "word": "让孟子义这个新疆当地人讲两句",
+        "onboard_time": 1747847237,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50142,
+        "num": 80487,
+        "word": "美国再遭股汇债三杀",
+        "onboard_time": 1747876583,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80357,
+        "num": 80357,
+        "word": "王曼昱说对阵韩莹有很多漂亮回合",
+        "onboard_time": 1747880301,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77470,
+        "num": 77470,
+        "word": "藏海殉葬",
+        "onboard_time": 1747880123,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76368,
+        "num": 76368,
+        "word": "为什么说抗癌5年是个坎儿",
+        "onboard_time": 1747844480,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75478,
+        "num": 75478,
+        "word": "刘宇宁回应折腰结局有人死吗",
+        "onboard_time": 1747844121,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73869,
+        "num": 73869,
+        "word": "袁隆平留给年轻人的寄语",
+        "onboard_time": 1747874964,
+        "rank": 46,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 73542,
+        "num": 73542,
+        "word": "美股指数齐跌",
+        "onboard_time": 1747880060,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70849,
+        "num": 70849,
+        "word": "陈若琳说不想让队员再走弯路",
+        "onboard_time": 1747880482,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70691,
+        "num": 70691,
+        "word": "京东崩了",
+        "onboard_time": 1747871602,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#到河南考察习近平为何再提洋火#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747879122992,
+  "endTime": 1747880508020,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -13859,6 +13859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400346,
+      "num": 400346,
+      "word": "张本智和结束多哈世乒赛之旅",
+      "onboard_time": 1747877302,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400165,
       "num": 400165,
       "word": "网友称在银行买到掺假金条",
@@ -14009,14 +14017,6 @@
       "onboard_time": 1746109642,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394808,
-      "num": 355329,
-      "word": "张本智和结束多哈世乒赛之旅",
-      "onboard_time": 1747877302,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 394674,
@@ -15891,6 +15891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346786,
+      "num": 294616,
+      "word": "海口警方再通报汽车拖猫事件",
+      "onboard_time": 1747878921,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 346776,
       "num": 398528,
       "word": "立夏是减肥的黄金起点",
@@ -16361,6 +16369,14 @@
       "onboard_time": 1747322363,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337249,
+      "num": 337249,
+      "word": "朝鲜驱逐舰",
+      "onboard_time": 1747877062,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 337118,
@@ -23227,14 +23243,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 234225,
-      "num": 234225,
-      "word": "朝鲜驱逐舰",
-      "onboard_time": 1747877062,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 234074,
       "num": 234074,
       "word": "藏海传最新画面",
@@ -24913,6 +24921,14 @@
       "onboard_time": 1746577162,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219872,
+      "num": 176809,
+      "word": "肖战蜂腰猿背",
+      "onboard_time": 1747879041,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 219711,
@@ -26945,6 +26961,14 @@
       "onboard_time": 1746674002,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207183,
+      "num": 207183,
+      "word": "张婧仪说肖战私下阳光有少年感",
+      "onboard_time": 1747877361,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 207169,
@@ -31627,6 +31651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "耀眼",
+      "onboard_time": 1746526882,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191438,
       "num": 191438,
       "word": "掘金2比1雷霆",
@@ -32761,6 +32793,14 @@
       "onboard_time": 1746371604,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188276,
+      "num": 188276,
+      "word": "京东上线停产的iPodtouch",
+      "onboard_time": 1747879581,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 188254,
@@ -40139,6 +40179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161601,
+      "num": 296764,
+      "word": "广西宣布倒查十年",
+      "onboard_time": 1747871061,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "章昊BadBoy舞台",
@@ -40401,14 +40449,6 @@
       "onboard_time": 1747301483,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160754,
-      "num": 160754,
-      "word": "广西宣布倒查十年",
-      "onboard_time": 1747871061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160732,
@@ -40785,14 +40825,6 @@
       "onboard_time": 1746163530,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159637,
-      "num": 146887,
-      "word": "肖战蜂腰猿背",
-      "onboard_time": 1747879041,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 159606,
@@ -43267,14 +43299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152756,
-      "num": 152756,
-      "word": "海口警方再通报汽车拖猫事件",
-      "onboard_time": 1747878921,
-      "rank": 22,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 152670,
       "num": 350864,
       "word": "这波高考祝福太有梗了",
@@ -44145,6 +44169,14 @@
       "onboard_time": 1746070100,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150043,
+      "num": 150043,
+      "word": "再听一听袁爷爷的禾下乘凉梦",
+      "onboard_time": 1747877302,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150041,
@@ -45323,14 +45355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146125,
-      "num": 146125,
-      "word": "再听一听袁爷爷的禾下乘凉梦",
-      "onboard_time": 1747877302,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146104,
       "num": 146104,
       "word": "迪丽热巴夏日美人鱼",
@@ -45713,14 +45737,6 @@
       "onboard_time": 1746504502,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144929,
-      "num": 183880,
-      "word": "张婧仪说肖战私下阳光有少年感",
-      "onboard_time": 1747877361,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 144898,
@@ -49380,7 +49396,7 @@
     },
     {
       "raw_hot": 135213,
-      "num": 135213,
+      "num": 139166,
       "word": "最吃金靖这一套的还是热巴",
       "onboard_time": 1747870821,
       "rank": 28,
@@ -53865,14 +53881,6 @@
       "onboard_time": 1747033042,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122883,
-      "num": 123061,
-      "word": "耀眼",
-      "onboard_time": 1746526882,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 122867,
@@ -60259,6 +60267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "直播间花26万赌石后起诉索赔被驳回",
+      "onboard_time": 1747880002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100340,
       "num": 100340,
       "word": "欧阳娜娜读懂外公思乡泪",
@@ -62691,6 +62707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87950,
+      "num": 128607,
+      "word": "王俊凯简直萌物",
+      "onboard_time": 1747879762,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87928,
       "num": 216650,
       "word": "奔跑吧永远不落下任何一人",
@@ -64091,6 +64115,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 81055,
+      "num": 81055,
+      "word": "C罗生涯935球",
+      "onboard_time": 1747880002,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81022,
       "num": 224989,
       "word": "WAW剑网3玩家吃真好",
@@ -64209,6 +64241,14 @@
       "onboard_time": 1746464177,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80357,
+      "num": 80357,
+      "word": "王曼昱说对阵韩莹有很多漂亮回合",
+      "onboard_time": 1747880301,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 80307,
@@ -65451,6 +65491,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 73542,
+      "num": 73542,
+      "word": "美股指数齐跌",
+      "onboard_time": 1747880060,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73540,
       "num": 419233,
       "word": "小作文构成犯罪依法追究刑事责任",
@@ -66001,6 +66049,14 @@
       "onboard_time": 1746340040,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70849,
+      "num": 70849,
+      "word": "陈若琳说不想让队员再走弯路",
+      "onboard_time": 1747880482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 70819,

@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747879122992,
+  "endTime": 1747880508020,
   "band_list": [
     {
       "raw_hot": 3092047,
@@ -139,8 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394808,
-      "num": 355329,
+      "raw_hot": 400346,
+      "num": 400346,
       "word": "张本智和结束多哈世乒赛之旅",
       "onboard_time": 1747877302,
       "rank": 12,
@@ -177,6 +177,22 @@
       "onboard_time": 1747871000,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346786,
+      "num": 294616,
+      "word": "海口警方再通报汽车拖猫事件",
+      "onboard_time": 1747878921,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 337249,
+      "num": 337249,
+      "word": "朝鲜驱逐舰",
+      "onboard_time": 1747877062,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 312059,
@@ -259,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234225,
-      "num": 234225,
-      "word": "朝鲜驱逐舰",
-      "onboard_time": 1747877062,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 229871,
       "num": 229871,
       "word": "鬼鬼晒女儿",
@@ -283,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219872,
+      "num": 176809,
+      "word": "肖战蜂腰猿背",
+      "onboard_time": 1747879041,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214893,
       "num": 214893,
       "word": "巴基斯坦警告印度我们不是巴勒斯坦",
       "onboard_time": 1747838305,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207183,
+      "num": 207183,
+      "word": "张婧仪说肖战私下阳光有少年感",
+      "onboard_time": 1747877361,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 206042,
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191450,
+      "num": 191450,
+      "word": "耀眼",
+      "onboard_time": 1747879163,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190900,
       "num": 190900,
       "word": "以军向外交使团开火",
@@ -321,6 +353,14 @@
       "onboard_time": 1747869498,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188276,
+      "num": 188276,
+      "word": "京东上线停产的iPodtouch",
+      "onboard_time": 1747879581,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 182241,
@@ -371,8 +411,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160754,
-      "num": 160754,
+      "raw_hot": 161601,
+      "num": 296764,
       "word": "广西宣布倒查十年",
       "onboard_time": 1747871061,
       "rank": 21,
@@ -387,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159637,
-      "num": 146887,
-      "word": "肖战蜂腰猿背",
-      "onboard_time": 1747879041,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159511,
       "num": 375727,
       "word": "风吹过稻田依然想念您",
@@ -403,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152756,
-      "num": 152756,
-      "word": "海口警方再通报汽车拖猫事件",
-      "onboard_time": 1747878921,
-      "rank": 22,
-      "category": "辟谣/通报"
+      "raw_hot": 150043,
+      "num": 150043,
+      "word": "再听一听袁爷爷的禾下乘凉梦",
+      "onboard_time": 1747877302,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147449,
@@ -419,14 +451,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 146125,
-      "num": 146125,
-      "word": "再听一听袁爷爷的禾下乘凉梦",
-      "onboard_time": 1747877302,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145269,
       "num": 145269,
       "word": "第五人格",
@@ -435,20 +459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144929,
-      "num": 183880,
-      "word": "张婧仪说肖战私下阳光有少年感",
-      "onboard_time": 1747877361,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142535,
       "num": 142535,
       "word": "孙颖莎谈混双对阵日本组合",
       "onboard_time": 1747843282,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140315,
+      "num": 140315,
+      "word": "黄杨钿甜",
+      "onboard_time": 1747878861,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 138555,
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 135213,
-      "num": 135213,
+      "num": 139166,
       "word": "最吃金靖这一套的还是热巴",
       "onboard_time": 1747870821,
       "rank": 28,
@@ -505,14 +529,6 @@
       "onboard_time": 1747836264,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117257,
-      "num": 117257,
-      "word": "黄杨钿甜",
-      "onboard_time": 1747878861,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 116254,
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "直播间花26万赌石后起诉索赔被驳回",
+      "onboard_time": 1747880002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98724,
       "num": 98724,
       "word": "京东崩了",
@@ -699,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87950,
+      "num": 128607,
+      "word": "王俊凯简直萌物",
+      "onboard_time": 1747879762,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87544,
       "num": 87544,
       "word": "热刺夺得欧联杯冠军",
@@ -755,12 +787,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81055,
+      "num": 81055,
+      "word": "C罗生涯935球",
+      "onboard_time": 1747880002,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80357,
+      "num": 80357,
+      "word": "王曼昱说对阵韩莹有很多漂亮回合",
+      "onboard_time": 1747880301,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80034,
       "num": 87581,
       "word": "孙颖莎下一轮迎战韩国选手申裕斌",
       "onboard_time": 1747841663,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77470,
+      "num": 77470,
+      "word": "藏海殉葬",
+      "onboard_time": 1747880123,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 75856,
@@ -792,6 +848,22 @@
       "word": "解说称孙颖莎把对手线路全封死了",
       "onboard_time": 1747841604,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73542,
+      "num": 73542,
+      "word": "美股指数齐跌",
+      "onboard_time": 1747880060,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 70849,
+      "num": 70849,
+      "word": "陈若琳说不想让队员再走弯路",
+      "onboard_time": 1747880482,
+      "rank": 48,
       "category": "体育"
     },
     {
