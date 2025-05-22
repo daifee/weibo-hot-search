@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747896597697,
+  "endTime": 1747898725653,
   "band_list": [
     {
       "raw_hot": 4144739,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1939047,
-      "num": 1939047,
+      "raw_hot": 2127085,
+      "num": 2127085,
       "word": "林峯老婆被爆520晒网图P掉商家logo",
       "onboard_time": 1747894102,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1452841,
+      "num": 771246,
+      "word": "刘敏涛含泪送别朱媛媛",
+      "onboard_time": 1747894462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1362517,
       "num": 1362517,
       "word": "郑晓龙这么多年还是爱眼泪往上擦",
@@ -67,20 +75,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 1198976,
-      "num": 771246,
-      "word": "刘敏涛含泪送别朱媛媛",
-      "onboard_time": 1747894462,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1056626,
       "num": 1169060,
       "word": "朱媛媛住院治疗照",
       "onboard_time": 1747875743,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1043598,
+      "num": 1043598,
+      "word": "教育部拟同意设置32所新大学",
+      "onboard_time": 1747893742,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 957507,
@@ -121,14 +129,6 @@
       "onboard_time": 1747888164,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 712037,
-      "num": 712037,
-      "word": "教育部拟同意设置32所新大学",
-      "onboard_time": 1747893742,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 710143,
@@ -211,6 +211,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 588070,
+      "num": 384787,
+      "word": "肖战身上痒就去洗澡",
+      "onboard_time": 1747894462,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580054,
       "num": 404394,
       "word": "刘宇宁提醒大家不要被扫码进群看全集骗了",
@@ -225,6 +233,14 @@
       "onboard_time": 1747889605,
       "rank": 39,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 567285,
+      "num": 567285,
+      "word": "潘展乐汪顺孙杨携手冲冠",
+      "onboard_time": 1747895541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 561770,
@@ -259,19 +275,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499253,
-      "num": 375928,
-      "word": "肖战身上痒就去洗澡",
-      "onboard_time": 1747894462,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 496379,
       "num": 381810,
       "word": "朱媛媛遗体已火化",
       "onboard_time": 1747878624,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 494534,
+      "num": 351782,
+      "word": "医生发布朱媛媛病房照引争议",
+      "onboard_time": 1747898362,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -369,6 +385,22 @@
       "onboard_time": 1747877302,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390329,
+      "num": 283109,
+      "word": "临榆炸鸡腿真香",
+      "onboard_time": 1747895301,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 387258,
+      "num": 282400,
+      "word": "蔡徐坤TikTok直播",
+      "onboard_time": 1747895784,
+      "rank": 20,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 385580,
@@ -515,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287163,
+      "num": 287163,
+      "word": "文俊辉成龙打戏",
+      "onboard_time": 1747896621,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286994,
       "num": 286994,
       "word": "韩安冉女儿要做手术",
@@ -537,14 +577,6 @@
       "onboard_time": 1747883183,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282400,
-      "num": 282400,
-      "word": "蔡徐坤TikTok直播",
-      "onboard_time": 1747895784,
-      "rank": 20,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 281994,
@@ -635,14 +667,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 253077,
-      "num": 253077,
-      "word": "潘展乐汪顺孙杨携手冲冠",
-      "onboard_time": 1747895541,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251111,
       "num": 495040,
       "word": "男子偷回收箱1.4吨衣物获刑",
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234160,
+      "num": 234160,
+      "word": "赵丽颖科兰黎线下活动",
+      "onboard_time": 1747898062,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234094,
       "num": 234094,
       "word": "胡歌文淇合作",
@@ -763,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "迪丽热巴玫瑰油画妆",
+      "onboard_time": 1747897291,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223594,
       "num": 264316,
       "word": "吴彦祖回应收手吧阿祖网络爆火",
@@ -779,20 +819,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220808,
+      "num": 346948,
+      "word": "乡镇初中生因小官巨贪校长吃不饱",
+      "onboard_time": 1747895002,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219872,
       "num": 180327,
       "word": "肖战蜂腰猿背",
       "onboard_time": 1747879041,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219243,
-      "num": 219243,
-      "word": "临榆炸鸡腿真香",
-      "onboard_time": 1747895301,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 214893,
@@ -819,6 +859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 208742,
+      "num": 208742,
+      "word": "鞠婧祎代言avia",
+      "onboard_time": 1747898541,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207183,
       "num": 207183,
       "word": "张婧仪说肖战私下阳光有少年感",
@@ -833,6 +881,14 @@
       "onboard_time": 1747842383,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205817,
+      "num": 205817,
+      "word": "说他俩不是天生一对谁信啊",
+      "onboard_time": 1747897830,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 205014,
@@ -971,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178669,
+      "num": 178669,
+      "word": "两个唱青苹果乐园的时代顶流要同框了",
+      "onboard_time": 1747898481,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176330,
       "num": 176330,
       "word": "为什么说抗癌5年是个坎儿",
@@ -1032,6 +1096,14 @@
       "word": "拔完智齿坐飞机伤口爆了",
       "onboard_time": 1747893861,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168714,
+      "num": 287054,
+      "word": "全球仅一份的iPhone挂画被谁拍走了",
+      "onboard_time": 1747897412,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1105,6 +1177,14 @@
       "onboard_time": 1747887863,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "拒绝言情小说词汇",
+      "onboard_time": 1747897051,
+      "rank": 45,
+      "category": "读书作家"
     },
     {
       "raw_hot": 153823,
@@ -1227,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143119,
+      "num": 283012,
+      "word": "特朗普回应以驻美使馆2人遇害",
+      "onboard_time": 1747895182,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142535,
       "num": 142535,
       "word": "孙颖莎谈混双对阵日本组合",
@@ -1248,6 +1336,14 @@
       "word": "关晓彤耀眼路透",
       "onboard_time": 1747881922,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141500,
+      "num": 141500,
+      "word": "张碧晨嗑上刘浩存王安宇新剧cp",
+      "onboard_time": 1747896990,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1355,14 +1451,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 121784,
-      "num": 346948,
-      "word": "乡镇初中生因小官巨贪校长吃不饱",
-      "onboard_time": 1747895002,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120296,
       "num": 120296,
       "word": "遭摩的司机性侵女孩家属称孩子已转学",
@@ -1433,14 +1521,6 @@
       "onboard_time": 1747842682,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111452,
-      "num": 283012,
-      "word": "特朗普回应以驻美使馆2人遇害",
-      "onboard_time": 1747895182,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110855,
@@ -1556,7 +1636,7 @@
     },
     {
       "raw_hot": 100357,
-      "num": 100357,
+      "num": 309699,
       "word": "直播间花26万赌石后起诉索赔被驳回",
       "onboard_time": 1747880002,
       "rank": 34,
@@ -1939,6 +2019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65376,
+      "num": 353750,
+      "word": "以色列驻美使馆2人在华盛顿遇害",
+      "onboard_time": 1747898002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "我减肥毅力就蔡文静这样",
@@ -2083,12 +2171,28 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 38387,
+      "num": 279845,
+      "word": "安徽凤阳鼓楼瓦片脱落背后",
+      "onboard_time": 1747897350,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38369,
       "num": 232466,
       "word": "孙颖莎防守太强根本打不透",
       "onboard_time": 1747884323,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36240,
+      "num": 178238,
+      "word": "腿型改善其实很好拿捏",
+      "onboard_time": 1747898362,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 36022,
@@ -2203,6 +2307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25068,
+      "num": 177638,
+      "word": "以后的新房素质一定会越来越高",
+      "onboard_time": 1747897891,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24826,
+      "num": 208778,
+      "word": "花200块雇了个农民工当向导",
+      "onboard_time": 1747898541,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24620,
       "num": 27000,
       "word": "五月天杭州演唱会",
@@ -2275,12 +2395,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21704,
+      "num": 209394,
+      "word": "印兵回访克什米尔阵地",
+      "onboard_time": 1747898062,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21266,
+      "num": 177324,
+      "word": "申裕斌很高兴晋级孙颖莎所在阶段",
+      "onboard_time": 1747893442,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21019,
       "num": 26674,
       "word": "马嘉祺落地彩排",
       "onboard_time": 1747852575,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18566,
+      "num": 277815,
+      "word": "朝鲜造舰如何突破国际制裁限制",
+      "onboard_time": 1747897590,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18120,
@@ -2347,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12865,
+      "num": 209029,
+      "word": "误删数据库后该如何恢复",
+      "onboard_time": 1747898182,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12642,
       "num": 23951,
       "word": "歼10总师说不往前走永远无法超越",
@@ -2369,6 +2521,14 @@
       "onboard_time": 1747855574,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9688,
+      "num": 177998,
+      "word": "巴基斯坦陆军参谋长支持率飙升",
+      "onboard_time": 1747898603,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8879,

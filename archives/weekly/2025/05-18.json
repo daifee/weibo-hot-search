@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747896597697,
+  "endTime": 1747898725653,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2127085,
+      "num": 2127085,
+      "word": "林峯老婆被爆520晒网图P掉商家logo",
+      "onboard_time": 1747894102,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2117006,
       "num": 2117006,
       "word": "折腰热度破三万",
@@ -255,14 +263,6 @@
       "num": 1986633,
       "word": "朱媛媛患病后一直希望奇迹出现",
       "onboard_time": 1747838906,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1939047,
-      "num": 1939047,
-      "word": "林峯老婆被爆520晒网图P掉商家logo",
-      "onboard_time": 1747894102,
       "rank": 0,
       "category": "艺人"
     },
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1452841,
+      "num": 771246,
+      "word": "刘敏涛含泪送别朱媛媛",
+      "onboard_time": 1747894462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1438387,
       "num": 481692,
       "word": "陈奕迅工作室",
@@ -704,14 +712,6 @@
       "word": "曾黎机场强忍眼泪",
       "onboard_time": 1747750404,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1198976,
-      "num": 771246,
-      "word": "刘敏涛含泪送别朱媛媛",
-      "onboard_time": 1747894462,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -953,6 +953,14 @@
       "onboard_time": 1747747164,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1043598,
+      "num": 1043598,
+      "word": "教育部拟同意设置32所新大学",
+      "onboard_time": 1747893742,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1027797,
@@ -1635,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 712037,
-      "num": 712037,
-      "word": "教育部拟同意设置32所新大学",
-      "onboard_time": 1747893742,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 710143,
       "num": 442811,
       "word": "应届生把数据库删了",
@@ -2123,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588070,
+      "num": 384787,
+      "word": "肖战身上痒就去洗澡",
+      "onboard_time": 1747894462,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586824,
       "num": 510071,
       "word": "百花杀",
@@ -2232,6 +2240,14 @@
       "word": "王楚钦孙颖莎VS雨果高桥布鲁娜",
       "onboard_time": 1747660164,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 567285,
+      "num": 567285,
+      "word": "潘展乐汪顺孙杨携手冲冠",
+      "onboard_time": 1747895541,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -2563,14 +2579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499253,
-      "num": 375928,
-      "word": "肖战身上痒就去洗澡",
-      "onboard_time": 1747894462,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497953,
       "num": 497953,
       "word": "年轻人最不缺的结婚条件被取消后",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1747668024,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494534,
+      "num": 351782,
+      "word": "医生发布朱媛媛病房照引争议",
+      "onboard_time": 1747898362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 494309,
@@ -3243,12 +3259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390329,
+      "num": 283109,
+      "word": "临榆炸鸡腿真香",
+      "onboard_time": 1747895301,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 388188,
       "num": 734826,
       "word": "母子大闹机场不该由社会买单",
       "onboard_time": 1747665446,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387258,
+      "num": 282400,
+      "word": "蔡徐坤TikTok直播",
+      "onboard_time": 1747895784,
+      "rank": 20,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 385479,
@@ -4347,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287163,
+      "num": 287163,
+      "word": "文俊辉成龙打戏",
+      "onboard_time": 1747896621,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286910,
       "num": 249198,
       "word": "李凯馨方报案",
@@ -4441,14 +4481,6 @@
       "onboard_time": 1747808661,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282400,
-      "num": 282400,
-      "word": "蔡徐坤TikTok直播",
-      "onboard_time": 1747895784,
-      "rank": 20,
-      "category": "艺人,音乐"
     },
     {
       "raw_hot": 282077,
@@ -4873,14 +4905,6 @@
       "onboard_time": 1747659083,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253077,
-      "num": 253077,
-      "word": "潘展乐汪顺孙杨携手冲冠",
-      "onboard_time": 1747895541,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 252380,
@@ -5315,6 +5339,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 234160,
+      "num": 234160,
+      "word": "赵丽颖科兰黎线下活动",
+      "onboard_time": 1747898062,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234094,
       "num": 234094,
       "word": "胡歌文淇合作",
@@ -5587,6 +5619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "迪丽热巴玫瑰油画妆",
+      "onboard_time": 1747897291,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223594,
       "num": 264316,
       "word": "吴彦祖回应收手吧阿祖网络爆火",
@@ -5723,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220808,
+      "num": 346948,
+      "word": "乡镇初中生因小官巨贪校长吃不饱",
+      "onboard_time": 1747895002,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220561,
       "num": 209548,
       "word": "男子坚持刷了120多遍肖战版射雕",
@@ -5769,14 +5817,6 @@
       "onboard_time": 1747718241,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219243,
-      "num": 219243,
-      "word": "临榆炸鸡腿真香",
-      "onboard_time": 1747895301,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 219049,
@@ -6235,6 +6275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208742,
+      "num": 208742,
+      "word": "鞠婧祎代言avia",
+      "onboard_time": 1747898541,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208669,
       "num": 208669,
       "word": "朱媛媛作品",
@@ -6393,6 +6441,14 @@
       "onboard_time": 1747550181,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205817,
+      "num": 205817,
+      "word": "说他俩不是天生一对谁信啊",
+      "onboard_time": 1747897830,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 205724,
@@ -8299,6 +8355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178669,
+      "num": 178669,
+      "word": "两个唱青苹果乐园的时代顶流要同框了",
+      "onboard_time": 1747898481,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178631,
       "num": 178631,
       "word": "杨蓉有一种岁月静好的美感",
@@ -8872,6 +8936,14 @@
       "word": "拔完智齿坐飞机伤口爆了",
       "onboard_time": 1747893861,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168714,
+      "num": 287054,
+      "word": "全球仅一份的iPhone挂画被谁拍走了",
+      "onboard_time": 1747897412,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -9859,6 +9931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "拒绝言情小说词汇",
+      "onboard_time": 1747897051,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 155060,
       "num": 155060,
       "word": "孟子义疑似徐志胜最大事业粉",
@@ -10747,6 +10827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143119,
+      "num": 283012,
+      "word": "特朗普回应以驻美使馆2人遇害",
+      "onboard_time": 1747895182,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143084,
       "num": 143084,
       "word": "刘浩存生日12宫格",
@@ -10873,6 +10961,14 @@
       "onboard_time": 1747735223,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141500,
+      "num": 141500,
+      "word": "张碧晨嗑上刘浩存王安宇新剧cp",
+      "onboard_time": 1747896990,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 141297,
@@ -12291,14 +12387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121784,
-      "num": 346948,
-      "word": "乡镇初中生因小官巨贪校长吃不饱",
-      "onboard_time": 1747895002,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121512,
       "num": 121512,
       "word": "中国年度最受欢迎10大博物馆",
@@ -12889,14 +12977,6 @@
       "onboard_time": 1747636224,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111452,
-      "num": 283012,
-      "word": "特朗普回应以驻美使馆2人遇害",
-      "onboard_time": 1747895182,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111329,
@@ -13500,7 +13580,7 @@
     },
     {
       "raw_hot": 100357,
-      "num": 100357,
+      "num": 309699,
       "word": "直播间花26万赌石后起诉索赔被驳回",
       "onboard_time": 1747880002,
       "rank": 34,
@@ -15475,6 +15555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65376,
+      "num": 353750,
+      "word": "以色列驻美使馆2人在华盛顿遇害",
+      "onboard_time": 1747898002,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65352,
       "num": 224191,
       "word": "TTG也拍上撕拉片了",
@@ -17011,6 +17099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38387,
+      "num": 279845,
+      "word": "安徽凤阳鼓楼瓦片脱落背后",
+      "onboard_time": 1747897350,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38369,
       "num": 232466,
       "word": "孙颖莎防守太强根本打不透",
@@ -17097,6 +17193,14 @@
       "onboard_time": 1747566982,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 36240,
+      "num": 178238,
+      "word": "腿型改善其实很好拿捏",
+      "onboard_time": 1747898362,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 36127,
@@ -18035,12 +18139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25068,
+      "num": 177638,
+      "word": "以后的新房素质一定会越来越高",
+      "onboard_time": 1747897891,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25058,
       "num": 25058,
       "word": "姬伯伯教稚奴好好活着",
       "onboard_time": 1747765036,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24826,
+      "num": 208778,
+      "word": "花200块雇了个农民工当向导",
+      "onboard_time": 1747898541,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24771,
@@ -18347,6 +18467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 21704,
+      "num": 209394,
+      "word": "印兵回访克什米尔阵地",
+      "onboard_time": 1747898062,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21651,
       "num": 200682,
       "word": "前列腺癌转移能治愈吗",
@@ -18409,6 +18537,14 @@
       "onboard_time": 1747810041,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21266,
+      "num": 177324,
+      "word": "申裕斌很高兴晋级孙颖莎所在阶段",
+      "onboard_time": 1747893442,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 21207,
@@ -18665,6 +18801,14 @@
       "onboard_time": 1747636284,
       "rank": 17,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 18566,
+      "num": 277815,
+      "word": "朝鲜造舰如何突破国际制裁限制",
+      "onboard_time": 1747897590,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18548,
@@ -19347,6 +19491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 12865,
+      "num": 209029,
+      "word": "误删数据库后该如何恢复",
+      "onboard_time": 1747898182,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12751,
       "num": 1221268,
       "word": "文旅新玩法持续激发消费新活力",
@@ -19609,6 +19761,14 @@
       "onboard_time": 1747660585,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9688,
+      "num": 177998,
+      "word": "巴基斯坦陆军参谋长支持率飙升",
+      "onboard_time": 1747898603,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9345,
