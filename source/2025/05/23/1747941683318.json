@@ -1,0 +1,410 @@
+{
+  "runTime": 1747941683318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519293,
+        "num": 519293,
+        "word": "赵丽颖这算官宣恋情吗",
+        "onboard_time": 1747923624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293927,
+        "num": 293927,
+        "word": "王楚钦",
+        "onboard_time": 1747928425,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8491,
+        "num": 167833,
+        "word": "物种丰富的大自然有多美",
+        "onboard_time": 1747918102,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430978,
+        "num": 164840,
+        "word": "赵丽颖回应",
+        "onboard_time": 1747927586,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133319,
+        "num": 133319,
+        "word": "孙颖莎4比2申裕斌",
+        "onboard_time": 1747938316,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79210,
+        "num": 79210,
+        "word": "大学生坠入化粪池遇难副校长被免职",
+        "onboard_time": 1747930283,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155979,
+        "num": 78140,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137130,
+        "num": 75733,
+        "word": "米津玄师 Lemon",
+        "onboard_time": 1747928606,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72937,
+        "num": 72937,
+        "word": "结婚生子遭抛弃截瘫网红发声",
+        "onboard_time": 1747928245,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44028,
+        "num": 44028,
+        "word": "周琦老婆承认逼丈夫回国失去理智",
+        "onboard_time": 1747921285,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102197,
+        "num": 43962,
+        "word": "黄子韬49.8元卫生巾被炒到190元",
+        "onboard_time": 1747930222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100503,
+        "num": 43786,
+        "word": "赵丽颖",
+        "onboard_time": 1747923926,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56976,
+        "num": 43778,
+        "word": "黄杨钿甜父亲情况核查最新进展",
+        "onboard_time": 1747908745,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51472,
+        "num": 43618,
+        "word": "在人间",
+        "onboard_time": 1747919364,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43528,
+        "num": 43528,
+        "word": "孙颖莎晋级女单8强",
+        "onboard_time": 1747938316,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40109,
+        "num": 40109,
+        "word": "这是载入中国游泳史的一幕",
+        "onboard_time": 1747926867,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35548,
+        "num": 35548,
+        "word": "雷军说小米YU7不可能19.9万",
+        "onboard_time": 1747920745,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33672,
+        "num": 33672,
+        "word": "国乒男双50年来首次无缘4强",
+        "onboard_time": 1747920625,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33606,
+        "num": 33606,
+        "word": "孙颖莎11比5申裕斌",
+        "onboard_time": 1747939635,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 32149,
+        "word": "林诗栋vs卡尔伯格",
+        "onboard_time": 1747934598,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48855,
+        "num": 32111,
+        "word": "女子产检发现宝宝心肝脾全长反了",
+        "onboard_time": 1747925427,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40282,
+        "num": 31514,
+        "word": "易烊千玺戛纳到达",
+        "onboard_time": 1747919544,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36935,
+        "num": 30591,
+        "word": "鹿晗新歌",
+        "onboard_time": 1747922305,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35918,
+        "num": 29934,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35545,
+        "num": 29488,
+        "word": "三斤榴莲开出八斤肉",
+        "onboard_time": 1747933399,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27798,
+        "num": 29088,
+        "word": "快70了才穿上18岁想穿的衣服",
+        "onboard_time": 1747926211,
+        "rank": 25,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 35298,
+        "num": 28459,
+        "word": "孙颖莎11比8申裕斌",
+        "onboard_time": 1747939635,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28189,
+        "num": 28189,
+        "word": "光渊",
+        "onboard_time": 1747926271,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28036,
+        "num": 28036,
+        "word": "王楚钦晋级世乒赛八强",
+        "onboard_time": 1747926509,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27819,
+        "num": 27819,
+        "word": "金秋天染金发了",
+        "onboard_time": 1747924889,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27451,
+        "num": 27451,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27414,
+        "num": 27414,
+        "word": "冰湖重生 黄杨钿甜",
+        "onboard_time": 1747914024,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27101,
+        "num": 27101,
+        "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
+        "onboard_time": 1747931301,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26255,
+        "num": 27101,
+        "word": "藏海传云合",
+        "onboard_time": 1747934358,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25521,
+        "num": 27101,
+        "word": "林诗栋晋级世乒赛八强",
+        "onboard_time": 1747938017,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25004,
+        "num": 27101,
+        "word": "王楚钦采访",
+        "onboard_time": 1747928545,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23320,
+        "num": 27100,
+        "word": "王楚钦逆转晋级8强",
+        "onboard_time": 1747931780,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23083,
+        "num": 27100,
+        "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+        "onboard_time": 1747919905,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22517,
+        "num": 27100,
+        "word": "国乒男双无缘世乒赛四强",
+        "onboard_time": 1747916664,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 27100,
+        "word": "小米发布会",
+        "onboard_time": 1747912103,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19891,
+        "num": 27099,
+        "word": "莫德里奇宣布离开皇马",
+        "onboard_time": 1747924647,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19375,
+        "num": 27099,
+        "word": "邓佳鑫祝左航生日快乐",
+        "onboard_time": 1747927945,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19241,
+        "num": 27099,
+        "word": "马嘉祺 我们哥俩被人算计了",
+        "onboard_time": 1747918224,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19237,
+        "num": 27099,
+        "word": "林诗栋12比10卡尔伯格",
+        "onboard_time": 1747936096,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19169,
+        "num": 27098,
+        "word": "孙恩盛直播",
+        "onboard_time": 1747941554,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19164,
+        "num": 27098,
+        "word": "王楚钦希望和莎莎有好的表现",
+        "onboard_time": 1747928545,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18269,
+        "num": 27098,
+        "word": "XG",
+        "onboard_time": 1747930344,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17575,
+        "num": 27098,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747921825,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 27097,
+        "word": "小学三年级妹妹模仿猫meme",
+        "onboard_time": 1747940655,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17046,
+        "num": 27097,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1747939754595,
+  "endTime": 1747941683318,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -83179,6 +83179,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 18269,
+      "num": 27098,
+      "word": "XG",
+      "onboard_time": 1747930344,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 18174,
       "num": 290504,
       "word": "中国超级工程再上新",
@@ -83561,6 +83569,14 @@
       "onboard_time": 1747131982,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17384,
+      "num": 27097,
+      "word": "小学三年级妹妹模仿猫meme",
+      "onboard_time": 1747940655,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17376,
