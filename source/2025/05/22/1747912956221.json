@@ -1,0 +1,410 @@
+{
+  "runTime": 1747912956221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10221598,
+        "num": 10221598,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1154263,
+        "num": 1154263,
+        "word": "小米发布会",
+        "onboard_time": 1747912103,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3802,
+        "num": 643336,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541058,
+        "num": 541058,
+        "word": "武大校门被淹一米深",
+        "onboard_time": 1747908926,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521880,
+        "num": 521880,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346399,
+        "num": 346399,
+        "word": "孙颖莎连续扛住男对手三板倒地爆冲",
+        "onboard_time": 1747906643,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318998,
+        "num": 318998,
+        "word": "混双四强",
+        "onboard_time": 1747908625,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282540,
+        "num": 282540,
+        "word": "朱媛媛易烊千玺戏里母子戏外校友",
+        "onboard_time": 1747907905,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226198,
+        "num": 226198,
+        "word": "王楚钦孙颖莎绝对的相互信任",
+        "onboard_time": 1747905623,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122803,
+        "num": 225831,
+        "word": "校方回应食堂招博士系管理岗年薪18万",
+        "onboard_time": 1747911923,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1337773,
+        "num": 225015,
+        "word": "赵丽颖恋情曝光后首亮相",
+        "onboard_time": 1747907905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494557,
+        "num": 224484,
+        "word": "黄杨钿甜",
+        "onboard_time": 1747878861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374204,
+        "num": 222828,
+        "word": "黑犬酱结婚",
+        "onboard_time": 1747901844,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344166,
+        "num": 222027,
+        "word": "娜扎16岁未修生图",
+        "onboard_time": 1747905682,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51511,
+        "num": 221162,
+        "word": "痴呆症老人深山走失6日奇迹生还",
+        "onboard_time": 1747911744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012564,
+        "num": 220840,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1747910126,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307424,
+        "num": 219447,
+        "word": "林峯老婆被爆520晒网图P掉商家logo",
+        "onboard_time": 1747894102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239764,
+        "num": 218777,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218582,
+        "num": 218582,
+        "word": "朝鲜中央电台通报新建驱逐舰事故细节",
+        "onboard_time": 1747911565,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35170,
+        "num": 217534,
+        "word": "为什么手机天气预报不准",
+        "onboard_time": 1747911683,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285231,
+        "num": 215376,
+        "word": "陈坤儿子陈尊佑大学毕业",
+        "onboard_time": 1747902502,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267526,
+        "num": 214099,
+        "word": "王心凌比18岁还18岁",
+        "onboard_time": 1747906883,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239444,
+        "num": 213074,
+        "word": "日本女童伴父母腐尸独处数日",
+        "onboard_time": 1747901182,
+        "rank": 22,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 212000,
+        "num": 212000,
+        "word": "小虎队EXO两代人的青春同框了",
+        "onboard_time": 1747912644,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202721,
+        "num": 202721,
+        "word": "天价耳环",
+        "onboard_time": 1747912404,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198802,
+        "num": 198802,
+        "word": "中餐厅9摩洛哥路透",
+        "onboard_time": 1747911805,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192574,
+        "num": 192574,
+        "word": "周雨彤进组谍报上不封顶",
+        "onboard_time": 1747909345,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75153,
+        "num": 191302,
+        "word": "北漂6年攒下130多万",
+        "onboard_time": 1747911683,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 31913,
+        "num": 190076,
+        "word": "歼10CE成为马来西亚航展大明星",
+        "onboard_time": 1747910544,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 9142,
+        "num": 188380,
+        "word": "以方会如何应对华盛顿枪案",
+        "onboard_time": 1747911984,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205117,
+        "num": 185521,
+        "word": "程潇 谍报上不封顶",
+        "onboard_time": 1747902383,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184517,
+        "num": 184517,
+        "word": "你们青春剧都这么处处吻的吗",
+        "onboard_time": 1747911624,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191514,
+        "num": 183675,
+        "word": "疑因妻子出轨自杀男子父亲去世",
+        "onboard_time": 1747907062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165820,
+        "num": 165820,
+        "word": "王千源 媛媛你安息我永念",
+        "onboard_time": 1747911444,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162878,
+        "num": 162878,
+        "word": "肖战一句Letsgo逗笑全剧组",
+        "onboard_time": 1747912343,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158177,
+        "num": 158177,
+        "word": "潘展乐孙杨汪顺费立纬接力",
+        "onboard_time": 1747912343,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14434,
+        "num": 149485,
+        "word": "双高胎这条能给我们安排到几点呀",
+        "onboard_time": 1747911805,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149115,
+        "num": 149115,
+        "word": "高合",
+        "onboard_time": 1747907123,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145263,
+        "num": 145263,
+        "word": "因200块差点错失文物发掘",
+        "onboard_time": 1747912763,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136262,
+        "num": 136262,
+        "word": "云游青藏高原打开雪豹的朋友圈",
+        "onboard_time": 1747907844,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 135189,
+        "word": "湖北鄂州上空的超级单体雷暴",
+        "onboard_time": 1747912883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134164,
+        "num": 134164,
+        "word": "马嘉祺揭榜目标白举纲GAI单依纯",
+        "onboard_time": 1747911024,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134045,
+        "num": 134045,
+        "word": "王楚钦孙颖莎赛后击掌庆祝",
+        "onboard_time": 1747912581,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6599,
+        "num": 133473,
+        "word": "贵州大方县山体滑有哪些施救难点",
+        "onboard_time": 1747912883,
+        "rank": 43,
+        "category": ""
+      },
+      {
+        "raw_hot": 133019,
+        "num": 133019,
+        "word": "老师的心是怎么一点点凉透的",
+        "onboard_time": 1747912704,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 130793,
+        "word": "怀疑妻子出轨轻生事件王超姐姐发声",
+        "onboard_time": 1747908204,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127131,
+        "num": 127131,
+        "word": "梁靖崑4比2贾维斯",
+        "onboard_time": 1747911324,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124719,
+        "num": 124719,
+        "word": "存款利率下调有了闲钱还存不存",
+        "onboard_time": 1747910845,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114502,
+        "num": 120574,
+        "word": "WE对战WBG",
+        "onboard_time": 1747912463,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 119192,
+        "word": "郭富城张艺兴两个舞王凑一起了",
+        "onboard_time": 1747910664,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国开放的大门只会越开越大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747910732340,
+  "endTime": 1747912956221,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -827,6 +827,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1154263,
+      "num": 1154263,
+      "word": "小米发布会",
+      "onboard_time": 1747912103,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1150968,
       "num": 1150968,
       "word": "王楚钦vs饭冢",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1747831164,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1012564,
+      "num": 397577,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1747910126,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1004902,
@@ -2219,14 +2235,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 596415,
-      "num": 397577,
-      "word": "三毛 赵丽颖裙子",
-      "onboard_time": 1747910126,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 596395,
       "num": 596395,
       "word": "英语进步最快的方式",
@@ -2505,6 +2513,14 @@
       "onboard_time": 1747651884,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541058,
+      "num": 541058,
+      "word": "武大校门被淹一米深",
+      "onboard_time": 1747908926,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540735,
@@ -3361,14 +3377,6 @@
       "onboard_time": 1747736782,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 402396,
-      "num": 402396,
-      "word": "武大校门被淹一米深",
-      "onboard_time": 1747908926,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401621,
@@ -4955,6 +4963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267526,
+      "num": 214099,
+      "word": "王心凌比18岁还18岁",
+      "onboard_time": 1747906883,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267383,
       "num": 370155,
       "word": "5月21日2时55分迎来小满",
@@ -5521,6 +5537,14 @@
       "onboard_time": 1747622361,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239764,
+      "num": 218777,
+      "word": "黄杨爸爸涉及7亿项目未招商成功",
+      "onboard_time": 1747912581,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 239733,
@@ -6131,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218582,
+      "num": 218582,
+      "word": "朝鲜中央电台通报新建驱逐舰事故细节",
+      "onboard_time": 1747911565,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218570,
       "num": 218570,
       "word": "厦门诞生一位千万富翁",
@@ -6441,6 +6473,14 @@
       "onboard_time": 1747809682,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212000,
+      "num": 212000,
+      "word": "小虎队EXO两代人的青春同框了",
+      "onboard_time": 1747912644,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 211653,
@@ -6987,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202721,
+      "num": 202721,
+      "word": "天价耳环",
+      "onboard_time": 1747912404,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202658,
       "num": 316881,
       "word": "吴磊居家白月光氛围感",
@@ -7273,6 +7321,14 @@
       "onboard_time": 1747662147,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "中餐厅9摩洛哥路透",
+      "onboard_time": 1747680194,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 198788,
@@ -8475,6 +8531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184517,
+      "num": 184517,
+      "word": "你们青春剧都这么处处吻的吗",
+      "onboard_time": 1747911624,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184491,
       "num": 184491,
       "word": "本周顺风顺水星座",
@@ -8513,14 +8577,6 @@
       "onboard_time": 1747821265,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184102,
-      "num": 184102,
-      "word": "王心凌比18岁还18岁",
-      "onboard_time": 1747906883,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 184043,
@@ -9603,6 +9659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165820,
+      "num": 165820,
+      "word": "王千源 媛媛你安息我永念",
+      "onboard_time": 1747911444,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165603,
       "num": 511818,
       "word": "男子与两女办婚礼违背公序良俗",
@@ -9793,6 +9857,14 @@
       "onboard_time": 1747721001,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162878,
+      "num": 162878,
+      "word": "肖战一句Letsgo逗笑全剧组",
+      "onboard_time": 1747912343,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162855,
@@ -10233,6 +10305,14 @@
       "onboard_time": 1747746620,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158177,
+      "num": 158177,
+      "word": "潘展乐孙杨汪顺费立纬接力",
+      "onboard_time": 1747912343,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 157991,
@@ -11251,6 +11331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145263,
+      "num": 145263,
+      "word": "因200块差点错失文物发掘",
+      "onboard_time": 1747912763,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145060,
       "num": 498097,
       "word": "张艺兴520",
@@ -12211,6 +12299,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 134164,
+      "num": 134164,
+      "word": "马嘉祺揭榜目标白举纲GAI单依纯",
+      "onboard_time": 1747911024,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134045,
+      "num": 134045,
+      "word": "王楚钦孙颖莎赛后击掌庆祝",
+      "onboard_time": 1747912581,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134037,
       "num": 134037,
       "word": "中国科技一天两个好消息",
@@ -12281,6 +12385,14 @@
       "onboard_time": 1747884982,
       "rank": 28,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 133019,
+      "num": 133019,
+      "word": "老师的心是怎么一点点凉透的",
+      "onboard_time": 1747912704,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 133005,
@@ -12667,6 +12779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127131,
+      "num": 127131,
+      "word": "梁靖崑4比2贾维斯",
+      "onboard_time": 1747911324,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127096,
       "num": 248193,
       "word": "朝鲜时隔五年重启中文水平考试",
@@ -12827,6 +12947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124719,
+      "num": 124719,
+      "word": "存款利率下调有了闲钱还存不存",
+      "onboard_time": 1747910845,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124713,
       "num": 279023,
       "word": "520NBA名人堂球星盲盒",
@@ -12896,6 +13024,14 @@
       "word": "官方通报凤阳鼓楼顶部瓦片脱落",
       "onboard_time": 1747699402,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122803,
+      "num": 225831,
+      "word": "校方回应食堂招博士系管理岗年薪18万",
+      "onboard_time": 1747911923,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13457,6 +13593,14 @@
       "onboard_time": 1747746322,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114502,
+      "num": 120574,
+      "word": "WE对战WBG",
+      "onboard_time": 1747912463,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114434,
@@ -15699,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75153,
+      "num": 191302,
+      "word": "北漂6年攒下130多万",
+      "onboard_time": 1747911683,
+      "rank": 27,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 74769,
       "num": 74769,
       "word": "克拉克揭幕战三双",
@@ -17051,6 +17203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51511,
+      "num": 221162,
+      "word": "痴呆症老人深山走失6日奇迹生还",
+      "onboard_time": 1747911744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51240,
       "num": 352862,
       "word": "20多分钟如何吹出一座粮仓",
@@ -17971,14 +18131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37396,
-      "num": 37396,
-      "word": "中餐厅9摩洛哥路透",
-      "onboard_time": 1747680194,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36978,
       "num": 156888,
       "word": "中航工业J15T官宣照",
@@ -18121,6 +18273,14 @@
       "onboard_time": 1747721420,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35170,
+      "num": 217534,
+      "word": "为什么手机天气预报不准",
+      "onboard_time": 1747911683,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 35073,
@@ -18417,6 +18577,14 @@
       "onboard_time": 1747902802,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31913,
+      "num": 193833,
+      "word": "歼10CE成为马来西亚航展大明星",
+      "onboard_time": 1747910544,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 31568,
@@ -19195,6 +19363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23739,
+      "num": 135189,
+      "word": "湖北鄂州上空的超级单体雷暴",
+      "onboard_time": 1747912883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23673,
       "num": 358948,
       "word": "能演出生活质感的演员越来越少了",
@@ -19369,14 +19545,6 @@
       "onboard_time": 1747550781,
       "rank": 34,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 21925,
-      "num": 193833,
-      "word": "歼10CE成为马来西亚航展大明星",
-      "onboard_time": 1747910544,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 21798,
@@ -20291,6 +20459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14434,
+      "num": 149485,
+      "word": "双高胎这条能给我们安排到几点呀",
+      "onboard_time": 1747911805,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14369,
       "num": 200146,
       "word": "美国超40万用户因风暴停电",
@@ -20811,6 +20987,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 9142,
+      "num": 188380,
+      "word": "以方会如何应对华盛顿枪案",
+      "onboard_time": 1747911984,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 9135,
       "num": 298997,
       "word": "淄博琉璃的制作工艺是什么样的",
@@ -20921,6 +21105,14 @@
       "onboard_time": 1747751485,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6599,
+      "num": 133473,
+      "word": "贵州大方县山体滑有哪些施救难点",
+      "onboard_time": 1747912883,
+      "rank": 43,
+      "category": ""
     },
     {
       "raw_hot": 6361,

@@ -1,6 +1,6 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747910732340,
+  "endTime": 1747912956221,
   "band_list": [
     {
       "raw_hot": 13594592,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1154263,
+      "num": 1154263,
+      "word": "小米发布会",
+      "onboard_time": 1747912103,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1056626,
       "num": 1169060,
       "word": "朱媛媛住院治疗照",
@@ -137,6 +145,14 @@
       "onboard_time": 1747893742,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1012564,
+      "num": 397577,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1747910126,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 992654,
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596415,
-      "num": 397577,
-      "word": "三毛 赵丽颖裙子",
-      "onboard_time": 1747910126,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 591601,
       "num": 501977,
       "word": "程潇 谍报上不封顶",
@@ -409,6 +417,14 @@
       "onboard_time": 1747894941,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541058,
+      "num": 541058,
+      "word": "武大校门被淹一米深",
+      "onboard_time": 1747908926,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531074,
@@ -553,14 +569,6 @@
       "onboard_time": 1747902082,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402396,
-      "num": 402396,
-      "word": "武大校门被淹一米深",
-      "onboard_time": 1747908926,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 400346,
@@ -867,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 267526,
+      "num": 214099,
+      "word": "王心凌比18岁还18岁",
+      "onboard_time": 1747906883,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267164,
       "num": 267164,
       "word": "上海孤老去世留下房产邻居要求分一半",
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239764,
+      "num": 218777,
+      "word": "黄杨爸爸涉及7亿项目未招商成功",
+      "onboard_time": 1747912581,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239733,
       "num": 322633,
       "word": "姬如雪出场",
@@ -1131,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218582,
+      "num": 218582,
+      "word": "朝鲜中央电台通报新建驱逐舰事故细节",
+      "onboard_time": 1747911565,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214893,
       "num": 214893,
       "word": "巴基斯坦警告印度我们不是巴勒斯坦",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1747893322,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212000,
+      "num": 212000,
+      "word": "小虎队EXO两代人的青春同框了",
+      "onboard_time": 1747912644,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 210251,
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202721,
+      "num": 202721,
+      "word": "天价耳环",
+      "onboard_time": 1747912404,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202049,
       "num": 202049,
       "word": "多哈世乒赛",
@@ -1281,6 +1329,14 @@
       "onboard_time": 1747886783,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198802,
+      "num": 198802,
+      "word": "中餐厅9摩洛哥路透",
+      "onboard_time": 1747911805,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 198626,
@@ -1427,12 +1483,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 184102,
-      "num": 184102,
-      "word": "王心凌比18岁还18岁",
-      "onboard_time": 1747906883,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 184517,
+      "num": 184517,
+      "word": "你们青春剧都这么处处吻的吗",
+      "onboard_time": 1747911624,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 182977,
@@ -1595,6 +1651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165820,
+      "num": 165820,
+      "word": "王千源 媛媛你安息我永念",
+      "onboard_time": 1747911444,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164060,
       "num": 209910,
       "word": "雷佳音新剧被资本做局了",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1747907123,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162878,
+      "num": 162878,
+      "word": "肖战一句Letsgo逗笑全剧组",
+      "onboard_time": 1747912343,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162422,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1747889005,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158177,
+      "num": 158177,
+      "word": "潘展乐孙杨汪顺费立纬接力",
+      "onboard_time": 1747912343,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 157991,
@@ -1891,6 +1971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145263,
+      "num": 145263,
+      "word": "因200块差点错失文物发掘",
+      "onboard_time": 1747912763,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143908,
       "num": 351850,
       "word": "刘宇宁真的演出了陷进去的感觉",
@@ -1979,6 +2067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134164,
+      "num": 134164,
+      "word": "马嘉祺揭榜目标白举纲GAI单依纯",
+      "onboard_time": 1747911024,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134045,
+      "num": 134045,
+      "word": "王楚钦孙颖莎赛后击掌庆祝",
+      "onboard_time": 1747912581,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133914,
       "num": 133914,
       "word": "郭富城张艺兴两个舞王凑一起了",
@@ -1993,6 +2097,14 @@
       "onboard_time": 1747884982,
       "rank": 28,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 133019,
+      "num": 133019,
+      "word": "老师的心是怎么一点点凉透的",
+      "onboard_time": 1747912704,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 128912,
@@ -2019,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127131,
+      "num": 127131,
+      "word": "梁靖崑4比2贾维斯",
+      "onboard_time": 1747911324,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127043,
       "num": 223733,
       "word": "发现新疆的孩子三观都很正",
@@ -2043,12 +2163,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124719,
+      "num": 124719,
+      "word": "存款利率下调有了闲钱还存不存",
+      "onboard_time": 1747910845,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124533,
       "num": 152667,
       "word": "日本的武器自动化非常高",
       "onboard_time": 1747892242,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 122803,
+      "num": 225831,
+      "word": "校方回应食堂招博士系管理岗年薪18万",
+      "onboard_time": 1747911923,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120296,
@@ -2105,6 +2241,14 @@
       "onboard_time": 1747903522,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114502,
+      "num": 120574,
+      "word": "WE对战WBG",
+      "onboard_time": 1747912463,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114298,
@@ -2611,6 +2755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75153,
+      "num": 191302,
+      "word": "北漂6年攒下130多万",
+      "onboard_time": 1747911683,
+      "rank": 27,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 73908,
       "num": 73908,
       "word": "孙兴慜说他是热刺的传奇",
@@ -2843,6 +2995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 51511,
+      "num": 221162,
+      "word": "痴呆症老人深山走失6日奇迹生还",
+      "onboard_time": 1747911744,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50240,
       "num": 133896,
       "word": "美债拍卖遇冷",
@@ -3027,6 +3187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 35170,
+      "num": 217534,
+      "word": "为什么手机天气预报不准",
+      "onboard_time": 1747911683,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35037,
       "num": 175747,
       "word": "杜国楹隔空致敬东方树叶",
@@ -3105,6 +3273,14 @@
       "onboard_time": 1747902802,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31913,
+      "num": 193833,
+      "word": "歼10CE成为马来西亚航展大明星",
+      "onboard_time": 1747910544,
+      "rank": 34,
+      "category": "军事"
     },
     {
       "raw_hot": 29667,
@@ -3275,6 +3451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23739,
+      "num": 135189,
+      "word": "湖北鄂州上空的超级单体雷暴",
+      "onboard_time": 1747912883,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23673,
       "num": 358948,
       "word": "能演出生活质感的演员越来越少了",
@@ -3321,14 +3505,6 @@
       "onboard_time": 1747888285,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21925,
-      "num": 193833,
-      "word": "歼10CE成为马来西亚航展大明星",
-      "onboard_time": 1747910544,
-      "rank": 34,
-      "category": "军事"
     },
     {
       "raw_hot": 21776,
@@ -3475,6 +3651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14434,
+      "num": 149485,
+      "word": "双高胎这条能给我们安排到几点呀",
+      "onboard_time": 1747911805,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13643,
       "num": 252940,
       "word": "热刺破17年无冠魔咒靠哪些因素",
@@ -3539,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9142,
+      "num": 188380,
+      "word": "以方会如何应对华盛顿枪案",
+      "onboard_time": 1747911984,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 8928,
       "num": 242000,
       "word": "乡镇初中校长如何套取学生餐费",
@@ -3561,6 +3753,14 @@
       "onboard_time": 1747902682,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 6599,
+      "num": 133473,
+      "word": "贵州大方县山体滑有哪些施救难点",
+      "onboard_time": 1747912883,
+      "rank": 43,
+      "category": ""
     },
     {
       "raw_hot": 5700,
