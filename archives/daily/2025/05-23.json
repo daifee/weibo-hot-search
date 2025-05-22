@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747941683318,
+  "endTime": 1747942605883,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39987,
+      "num": 29424,
+      "word": "孙恩盛直播",
+      "onboard_time": 1747941554,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 39356,
       "num": 39356,
       "word": "冰湖重生 黄杨钿甜",
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25844,
+      "num": 25844,
+      "word": "黄杨钿甜父亲",
+      "onboard_time": 1747942394,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25463,
       "num": 40557,
       "word": "Doinb登场十周年",
@@ -595,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19169,
-      "num": 27098,
-      "word": "孙恩盛直播",
-      "onboard_time": 1747941554,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 18269,
       "num": 27098,
       "word": "XG",
       "onboard_time": 1747930344,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18086,
+      "num": 22244,
+      "word": "明星小象申申去世",
+      "onboard_time": 1747939334,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17384,
@@ -625,6 +641,14 @@
       "onboard_time": 1747938975,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12320,
+      "num": 63212,
+      "word": "加沙居民说每天醒来都会看到大屠杀",
+      "onboard_time": 1747942034,
+      "rank": 9,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
