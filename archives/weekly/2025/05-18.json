@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747949041241,
+  "endTime": 1747949928732,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -18819,6 +18819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44917,
+      "num": 44917,
+      "word": "易烊千玺戛纳排面",
+      "onboard_time": 1747945815,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44579,
       "num": 425967,
       "word": "夏季如何预防蜱虫隐翅虫叮咬",
@@ -19108,7 +19116,7 @@
     },
     {
       "raw_hot": 40878,
-      "num": 31209,
+      "num": 32570,
       "word": "孙颖莎真是大心脏",
       "onboard_time": 1747942815,
       "rank": 21,
@@ -19401,14 +19409,6 @@
       "onboard_time": 1747561402,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36660,
-      "num": 31287,
-      "word": "易烊千玺戛纳排面",
-      "onboard_time": 1747945815,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 36527,
@@ -20771,6 +20771,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 23532,
+      "num": 23532,
+      "word": "美股美债又崩了",
+      "onboard_time": 1747944134,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23411,
       "num": 208768,
       "word": "漫展上的万事屋三人组",
@@ -21067,6 +21075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21264,
+      "num": 57391,
+      "word": "明星小象申申去世",
+      "onboard_time": 1747939334,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21207,
       "num": 295849,
       "word": "南北小满的满字含义有什么差异",
@@ -21081,14 +21097,6 @@
       "onboard_time": 1747740561,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21179,
-      "num": 21179,
-      "word": "美股美债又崩了",
-      "onboard_time": 1747944134,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21173,
@@ -21401,14 +21409,6 @@
       "onboard_time": 1747636284,
       "rank": 17,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 18764,
-      "num": 57391,
-      "word": "明星小象申申去世",
-      "onboard_time": 1747939334,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18688,
@@ -21737,6 +21737,14 @@
       "onboard_time": 1747711941,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16476,
+      "num": 16476,
+      "word": "折腰 少年夫妻",
+      "onboard_time": 1747949835,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16460,
@@ -22257,6 +22265,14 @@
       "onboard_time": 1747563444,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12394,
+      "num": 62413,
+      "word": "武汉地铁积水已干可正常出行",
+      "onboard_time": 1747949054,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12320,
