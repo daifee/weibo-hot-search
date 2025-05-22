@@ -1,0 +1,410 @@
+{
+  "runTime": 1747923953282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821428,
+        "num": 1821428,
+        "word": "赵丽颖这算官宣恋情吗",
+        "onboard_time": 1747923624,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1660009,
+        "num": 1660009,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3543,
+        "num": 1598607,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1551843,
+        "num": 1551843,
+        "word": "黄杨爸爸将面临什么处罚",
+        "onboard_time": 1747917564,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1198999,
+        "num": 1198999,
+        "word": "王皓",
+        "onboard_time": 1747920985,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982081,
+        "num": 982081,
+        "word": "国乒男双无缘世乒赛四强",
+        "onboard_time": 1747916664,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1324660,
+        "num": 966146,
+        "word": "赵丽颖恋情曝光后首亮相",
+        "onboard_time": 1747907905,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940774,
+        "num": 940774,
+        "word": "周琦老婆承认逼丈夫回国失去理智",
+        "onboard_time": 1747921285,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 921723,
+        "num": 921723,
+        "word": "雷军说小米YU7不可能19.9万",
+        "onboard_time": 1747920745,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 748936,
+        "num": 748936,
+        "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+        "onboard_time": 1747919905,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2204808,
+        "num": 748918,
+        "word": "黄杨爸爸涉及7亿项目未招商成功",
+        "onboard_time": 1747912581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1512313,
+        "num": 748825,
+        "word": "黄杨钿甜父亲被立案调查",
+        "onboard_time": 1747907543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621984,
+        "num": 748736,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90562,
+        "num": 748644,
+        "word": "高校男生偷拍事件知情人发声",
+        "onboard_time": 1747922606,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102960,
+        "num": 748566,
+        "word": "当地回应巨大深坑不断往外喷土",
+        "onboard_time": 1747922844,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442950,
+        "num": 748545,
+        "word": "藏海传这仨笑死我了",
+        "onboard_time": 1747917264,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84818,
+        "num": 748429,
+        "word": "极客湾评小米玄戒O1表现远超预期",
+        "onboard_time": 1747922965,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100614,
+        "num": 748365,
+        "word": "大六座被忽视的第三排安全",
+        "onboard_time": 1747921765,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61781,
+        "num": 748314,
+        "word": "倒卖蜜雪冰城若出问题谁来售后",
+        "onboard_time": 1747923567,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25212,
+        "num": 748231,
+        "word": "湖北一地学生减负每周3天不背书包",
+        "onboard_time": 1747923325,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 211325,
+        "num": 748172,
+        "word": "官方通报大学生坠入化粪池遇难",
+        "onboard_time": 1747923746,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427315,
+        "num": 748078,
+        "word": "鹿晗新歌",
+        "onboard_time": 1747922305,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414132,
+        "num": 748000,
+        "word": "易烊千玺戛纳到达",
+        "onboard_time": 1747919544,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402507,
+        "num": 747967,
+        "word": "歌手歌单",
+        "onboard_time": 1747915223,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93362,
+        "num": 747848,
+        "word": "总工程师步行2千米送歼10首飞",
+        "onboard_time": 1747922726,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21810,
+        "num": 747783,
+        "word": "退休夫妻靠退休金环游全国",
+        "onboard_time": 1747923325,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20344,
+        "num": 747685,
+        "word": "一小段治愈心灵的路",
+        "onboard_time": 1747922486,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31934,
+        "num": 747645,
+        "word": "AI评北京8平米双拼别墅",
+        "onboard_time": 1747922486,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 18688,
+        "num": 747560,
+        "word": "印度街头赢学",
+        "onboard_time": 1747922666,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20749,
+        "num": 747506,
+        "word": "巴基斯坦陆军司令晋升元帅",
+        "onboard_time": 1747922486,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168753,
+        "num": 747422,
+        "word": "小米Civi5Pro冰美式",
+        "onboard_time": 1747919304,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 747376,
+        "num": 747376,
+        "word": "国乒男双50年来首次无缘4强",
+        "onboard_time": 1747920625,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686340,
+        "num": 686340,
+        "word": "王楚钦vs高茨",
+        "onboard_time": 1747921825,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 621661,
+        "num": 621661,
+        "word": "冰湖重生 黄杨钿甜",
+        "onboard_time": 1747914024,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458493,
+        "num": 458493,
+        "word": "王楚钦的含金量还在上升",
+        "onboard_time": 1747922184,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440145,
+        "num": 440145,
+        "word": "赵丽颖",
+        "onboard_time": 1747923926,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433682,
+        "num": 433682,
+        "word": "翔霖",
+        "onboard_time": 1747923144,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362334,
+        "num": 362334,
+        "word": "日本夫妻持刀打架身亡女童伴尸5日",
+        "onboard_time": 1747921466,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296867,
+        "num": 296867,
+        "word": "王楚钦孙颖莎世乒赛晋级四强",
+        "onboard_time": 1747904064,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286229,
+        "num": 286229,
+        "word": "马嘉祺 我们哥俩被人算计了",
+        "onboard_time": 1747918224,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34122,
+        "num": 264850,
+        "word": "又可以看到张艺兴的炸裂舞台了",
+        "onboard_time": 1747923805,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258946,
+        "num": 258946,
+        "word": "王曼昱世乒赛再战张本美和",
+        "onboard_time": 1747923686,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252071,
+        "num": 252071,
+        "word": "周琦老婆曾用离婚威胁丈夫回CBA",
+        "onboard_time": 1747918945,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249462,
+        "num": 249462,
+        "word": "单依纯 天空",
+        "onboard_time": 1747917983,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241096,
+        "num": 241096,
+        "word": "小米发布会",
+        "onboard_time": 1747912103,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231905,
+        "num": 231905,
+        "word": "嘉行",
+        "onboard_time": 1747913783,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226540,
+        "num": 226540,
+        "word": "徐嘉余苦笑",
+        "onboard_time": 1747920865,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218540,
+        "num": 218540,
+        "word": "GAI选曲",
+        "onboard_time": 1747918883,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218058,
+        "num": 218058,
+        "word": "孙汪",
+        "onboard_time": 1747920745,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208734,
+        "num": 208734,
+        "word": "孙杨汪顺击掌",
+        "onboard_time": 1747922906,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}
