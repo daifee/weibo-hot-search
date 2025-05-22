@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747921020122,
+  "endTime": 1747921730700,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1625511,
+      "num": 1625511,
+      "word": "黄杨爸爸将面临什么处罚",
+      "onboard_time": 1747917564,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1623043,
       "num": 970917,
       "word": "媒体评黄杨钿甜不必陷入自证怪圈",
@@ -579,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1420393,
-      "num": 1420393,
-      "word": "黄杨爸爸将面临什么处罚",
-      "onboard_time": 1747917564,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1412890,
       "num": 1412890,
       "word": "肖战升没升咖不知道 我升了",
@@ -608,6 +608,14 @@
       "word": "林诗栋蒯曼无缘混双四强",
       "onboard_time": 1747817962,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1382753,
+      "num": 1382753,
+      "word": "潘展乐汪顺孙杨费立纬合力夺冠",
+      "onboard_time": 1747919905,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -652,7 +660,7 @@
     },
     {
       "raw_hot": 1349336,
-      "num": 571140,
+      "num": 688039,
       "word": "赵丽颖恋情曝光后首亮相",
       "onboard_time": 1747907905,
       "rank": 8,
@@ -1171,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 958804,
+      "num": 958804,
+      "word": "陈奕迅露面",
+      "onboard_time": 1747918102,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 957507,
       "num": 485896,
       "word": "天价耳环事件真是公众集体仇富吗",
@@ -1220,7 +1236,7 @@
     },
     {
       "raw_hot": 918515,
-      "num": 312286,
+      "num": 454927,
       "word": "冰湖重生 黄杨钿甜",
       "onboard_time": 1747914024,
       "rank": 15,
@@ -1273,14 +1289,6 @@
       "onboard_time": 1747803027,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 890668,
-      "num": 890668,
-      "word": "潘展乐汪顺孙杨费立纬合力夺冠",
-      "onboard_time": 1747919905,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 888355,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1747697060,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 809362,
-      "num": 809362,
-      "word": "陈奕迅露面",
-      "onboard_time": 1747918102,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 806331,
@@ -2499,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 560086,
+      "num": 461238,
+      "word": "藏海传这仨笑死我了",
+      "onboard_time": 1747917264,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 559932,
       "num": 559932,
       "word": "央视梳理王楚钦球拍受损事件",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1747713624,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549205,
+      "num": 456501,
+      "word": "周琦老婆曾用离婚威胁丈夫回CBA",
+      "onboard_time": 1747918945,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 547161,
@@ -2721,6 +2737,14 @@
       "onboard_time": 1747883783,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516838,
+      "num": 452006,
+      "word": "易烊千玺戛纳到达",
+      "onboard_time": 1747919544,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 515067,
@@ -3115,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449454,
+      "num": 449454,
+      "word": "国乒男双50年来首次无缘4强",
+      "onboard_time": 1747920625,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447460,
       "num": 447460,
       "word": "建议所有人积极地夺回线下生活",
@@ -3145,14 +3177,6 @@
       "onboard_time": 1747588338,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 444963,
-      "num": 444963,
-      "word": "藏海传这仨笑死我了",
-      "onboard_time": 1747917264,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 444004,
@@ -3227,6 +3251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 431397,
+      "num": 431397,
+      "word": "周琦老婆承认逼丈夫回国失去理智",
+      "onboard_time": 1747921285,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428985,
       "num": 428985,
       "word": "成都到新疆售价5万起专列卖爆",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1747562843,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 421173,
+      "num": 421173,
+      "word": "雷军说小米YU7不可能19.9万",
+      "onboard_time": 1747920745,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 419797,
@@ -3388,7 +3428,7 @@
     },
     {
       "raw_hot": 411675,
-      "num": 312153,
+      "num": 347949,
       "word": "马嘉祺 我们哥俩被人算计了",
       "onboard_time": 1747918224,
       "rank": 33,
@@ -3433,6 +3473,14 @@
       "onboard_time": 1747905382,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406633,
+      "num": 406633,
+      "word": "单依纯 天空",
+      "onboard_time": 1747917983,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 404813,
@@ -3555,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390756,
-      "num": 311094,
-      "word": "单依纯 天空",
-      "onboard_time": 1747917983,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 390430,
       "num": 390430,
       "word": "肖战擦汗这20秒我将反复看",
@@ -3627,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380695,
+      "num": 459073,
+      "word": "王皓",
+      "onboard_time": 1747920985,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380066,
       "num": 263439,
       "word": "俄罗斯13岁少女遭标枪刺穿眼睛身亡",
@@ -3665,14 +3713,6 @@
       "onboard_time": 1747625003,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376357,
-      "num": 287364,
-      "word": "易烊千玺戛纳到达",
-      "onboard_time": 1747919544,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 376087,
@@ -4081,6 +4121,14 @@
       "onboard_time": 1747547782,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337621,
+      "num": 337621,
+      "word": "GAI选曲",
+      "onboard_time": 1747918883,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 337118,
@@ -4619,14 +4667,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 293397,
-      "num": 293397,
-      "word": "周琦老婆曾用离婚威胁丈夫回CBA",
-      "onboard_time": 1747918945,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 292927,
       "num": 292927,
       "word": "人世间",
@@ -4963,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275745,
+      "num": 275745,
+      "word": "小米YU7价格预测",
+      "onboard_time": 1747920384,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 275494,
       "num": 379964,
       "word": "对我国公司网络攻击有网络战痕迹",
@@ -4979,20 +5027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275153,
+      "num": 275153,
+      "word": "小米手表",
+      "onboard_time": 1747915644,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 274395,
       "num": 274395,
       "word": "上厕所途中不要冲水的原因",
       "onboard_time": 1747753165,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274229,
-      "num": 274229,
-      "word": "GAI选曲",
-      "onboard_time": 1747918883,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 273879,
@@ -5009,6 +5057,14 @@
       "onboard_time": 1747801350,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272647,
+      "num": 272647,
+      "word": "徐嘉余苦笑",
+      "onboard_time": 1747920865,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 271904,
@@ -5035,12 +5091,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 270826,
-      "num": 270826,
-      "word": "小米手表",
-      "onboard_time": 1747915644,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 270114,
+      "num": 270114,
+      "word": "女双",
+      "onboard_time": 1747921105,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 270037,
@@ -5507,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246352,
+      "num": 450054,
+      "word": "小米Civi5Pro冰美式",
+      "onboard_time": 1747919304,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246009,
       "num": 330006,
       "word": "汽车4S店销冠疑用个人码收车款跑路",
@@ -5723,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239254,
+      "num": 311419,
+      "word": "男子起诉插足儿子婚姻者案尚未开庭",
+      "onboard_time": 1747919063,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238566,
       "num": 238566,
       "word": "四川外卖员将无需健康证",
@@ -5769,6 +5841,14 @@
       "onboard_time": 1747708170,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236945,
+      "num": 236945,
+      "word": "小米YU7颜色",
+      "onboard_time": 1747920504,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 236701,
@@ -5979,14 +6059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229903,
-      "num": 222932,
-      "word": "雷军说小米YU7不可能19.9万",
-      "onboard_time": 1747920745,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 229648,
       "num": 298666,
       "word": "肖战第七集演技大赏",
@@ -6075,6 +6147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226954,
+      "num": 226954,
+      "word": "多名国乒主力缺席卢布尔雅那站挑战赛",
+      "onboard_time": 1747920384,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226651,
       "num": 382880,
       "word": "程潇觉得自己没那么完美",
@@ -6115,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225408,
+      "num": 225408,
+      "word": "稚奴庄二",
+      "onboard_time": 1747920025,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224966,
       "num": 243201,
       "word": "孟子义李昀锐百指",
@@ -6129,14 +6217,6 @@
       "onboard_time": 1747698981,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224505,
-      "num": 311419,
-      "word": "男子起诉插足儿子婚姻者案尚未开庭",
-      "onboard_time": 1747919063,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224442,
@@ -6217,14 +6297,6 @@
       "onboard_time": 1747621161,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222450,
-      "num": 222450,
-      "word": "小米YU7价格预测",
-      "onboard_time": 1747920384,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 222412,
@@ -6347,14 +6419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220129,
-      "num": 220129,
-      "word": "小米YU7颜色",
-      "onboard_time": 1747920504,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 220033,
       "num": 264748,
       "word": "潘展乐最后一棒连追两队夺冠",
@@ -6401,14 +6465,6 @@
       "onboard_time": 1747911565,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218730,
-      "num": 218730,
-      "word": "国乒男双50年来首次无缘4强",
-      "onboard_time": 1747920625,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 218570,
@@ -6627,14 +6683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213578,
-      "num": 213578,
-      "word": "稚奴庄二",
-      "onboard_time": 1747920025,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213571,
       "num": 213571,
       "word": "周思成去公证了",
@@ -6689,6 +6737,14 @@
       "onboard_time": 1747800508,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212617,
+      "num": 212617,
+      "word": "她来了以后王府才添了颜色",
+      "onboard_time": 1747918703,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 212498,
@@ -7179,14 +7235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205025,
-      "num": 205025,
-      "word": "她来了以后王府才添了颜色",
-      "onboard_time": 1747918703,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205014,
       "num": 205014,
       "word": "和朋友喊权志龙被回应了",
@@ -7241,14 +7289,6 @@
       "onboard_time": 1747658125,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204171,
-      "num": 204171,
-      "word": "多名国乒主力缺席卢布尔雅那站挑战赛",
-      "onboard_time": 1747920384,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 204105,
@@ -7337,6 +7377,14 @@
       "onboard_time": 1747488383,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202277,
+      "num": 202277,
+      "word": "周深空降上海财经大学",
+      "onboard_time": 1747920865,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 202272,
@@ -7755,14 +7803,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 197152,
-      "num": 284152,
-      "word": "小米Civi5Pro冰美式",
-      "onboard_time": 1747919304,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 197122,
       "num": 197122,
       "word": "尊界S800官宣上市发布时间",
@@ -7921,14 +7961,6 @@
       "onboard_time": 1747748423,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195236,
-      "num": 195236,
-      "word": "徐嘉余苦笑",
-      "onboard_time": 1747920865,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 194805,
@@ -8579,14 +8611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188368,
-      "num": 188368,
-      "word": "周深空降上海财经大学",
-      "onboard_time": 1747920865,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188276,
       "num": 241854,
       "word": "京东上线停产的iPodtouch",
@@ -9187,6 +9211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "世乒赛5个单项国乒都有选手被淘汰",
+      "onboard_time": 1747921704,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179525,
       "num": 265676,
       "word": "好玩好开的潮流座驾",
@@ -9336,6 +9368,14 @@
       "word": "郭艾伦谈孙铭徽踢球",
       "onboard_time": 1747750105,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "乐乐一家",
+      "onboard_time": 1747921704,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -9641,14 +9681,6 @@
       "onboard_time": 1747871061,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172441,
-      "num": 172441,
-      "word": "王皓",
-      "onboard_time": 1747920985,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 172337,
@@ -11201,6 +11233,14 @@
       "onboard_time": 1747716084,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152538,
+      "num": 452646,
+      "word": "中法元首通电话",
+      "onboard_time": 1747920143,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 152535,
@@ -15587,6 +15627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87918,
+      "num": 1723439,
+      "word": "中国市场的含金量还在涨",
+      "onboard_time": 1747919606,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87888,
       "num": 110858,
       "word": "武磊回归国足大名单",
@@ -15729,6 +15777,14 @@
       "onboard_time": 1747549282,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85736,
+      "num": 323780,
+      "word": "士兵开着保时捷卡宴完成战斗任务",
+      "onboard_time": 1747920084,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 85688,
@@ -16073,14 +16129,6 @@
       "onboard_time": 1747841663,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79898,
-      "num": 452646,
-      "word": "中法元首通电话",
-      "onboard_time": 1747920143,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 79823,
@@ -16483,12 +16531,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 73304,
-      "num": 1640204,
-      "word": "中国市场的含金量还在涨",
-      "onboard_time": 1747919606,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 73445,
+      "num": 466549,
+      "word": "日本夫妻持刀打架身亡女童伴尸5日",
+      "onboard_time": 1747921466,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72990,
@@ -17675,14 +17723,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 53732,
-      "num": 225702,
-      "word": "士兵开着保时捷卡宴完成战斗任务",
-      "onboard_time": 1747920084,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 53679,
       "num": 53679,
       "word": "退圈摆摊男演员透露有很多戏找他",
@@ -18515,6 +18555,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 40360,
+      "num": 327725,
+      "word": "她有这自驱力真的很难不成功",
+      "onboard_time": 1747920684,
+      "rank": 27,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 40196,
       "num": 343846,
       "word": "运动时如何保持最佳状态",
@@ -18883,6 +18931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35031,
+      "num": 320961,
+      "word": "日方称不会对美进行单方面让步",
+      "onboard_time": 1747921466,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34946,
       "num": 237070,
       "word": "猎豹是草原中最大的受气包",
@@ -19169,14 +19225,6 @@
       "onboard_time": 1747910544,
       "rank": 34,
       "category": "军事"
-    },
-    {
-      "raw_hot": 31569,
-      "num": 227735,
-      "word": "她有这自驱力真的很难不成功",
-      "onboard_time": 1747920684,
-      "rank": 27,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 31568,
@@ -21371,6 +21419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 12529,
+      "num": 332651,
+      "word": "国产芯片AI产业变革",
+      "onboard_time": 1747920925,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12413,
       "num": 358227,
       "word": "日照海域火箭发射将影响哪些领域",
@@ -21545,14 +21601,6 @@
       "onboard_time": 1747657884,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 10645,
-      "num": 221107,
-      "word": "国产芯片AI产业变革",
-      "onboard_time": 1747920925,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10642,
@@ -21934,6 +21982,9 @@
     },
     {
       "word": "#习近平同马克龙通电话#"
+    },
+    {
+      "word": "#加强生物多样性保护总书记这样说#"
     }
   ]
 }
