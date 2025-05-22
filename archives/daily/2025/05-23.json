@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747931548415,
+  "endTime": 1747932488419,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 868033,
-      "num": 245996,
+      "num": 329063,
       "word": "米津玄师 Lemon",
       "onboard_time": 1747928606,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1747923926,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 572000,
+      "num": 572000,
+      "word": "王楚钦",
+      "onboard_time": 1747928425,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 518962,
@@ -57,14 +65,6 @@
       "onboard_time": 1747919364,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424236,
-      "num": 424236,
-      "word": "王楚钦",
-      "onboard_time": 1747928425,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 382415,
@@ -107,20 +107,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298679,
+      "num": 298679,
+      "word": "结婚生子遭抛弃截瘫网红发声",
+      "onboard_time": 1747928245,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "小米YU7",
       "onboard_time": 1747915584,
       "rank": 7,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 276648,
-      "num": 276648,
-      "word": "结婚生子遭抛弃截瘫网红发声",
-      "onboard_time": 1747928245,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246391,
@@ -137,6 +137,14 @@
       "onboard_time": 1747926090,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234561,
+      "num": 234561,
+      "word": "大学生坠入化粪池遇难副校长被免职",
+      "onboard_time": 1747930283,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220731,
@@ -179,7 +187,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 170234,
+      "raw_hot": 192286,
       "num": 163322,
       "word": "黄子韬49.8元卫生巾被炒到190元",
       "onboard_time": 1747930222,
@@ -187,11 +195,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166375,
-      "num": 166375,
+      "raw_hot": 185474,
+      "num": 156268,
+      "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
+      "onboard_time": 1747931301,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182516,
+      "num": 182516,
       "word": "这是载入中国游泳史的一幕",
       "onboard_time": 1747926867,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166382,
+      "num": 166382,
+      "word": "王楚钦逆转晋级8强",
+      "onboard_time": 1747931780,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -211,16 +235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148688,
-      "num": 148688,
-      "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
-      "onboard_time": 1747931301,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 145316,
-      "num": 145316,
+      "raw_hot": 146104,
+      "num": 146104,
       "word": "陈楚生 我用什么把你留住",
       "onboard_time": 1747927047,
       "rank": 28,
@@ -251,16 +267,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128217,
-      "num": 128217,
-      "word": "大学生坠入化粪池遇难副校长被免职",
-      "onboard_time": 1747930283,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126351,
-      "num": 126351,
+      "raw_hot": 130976,
+      "num": 130976,
       "word": "金秋天染金发了",
       "onboard_time": 1747924889,
       "rank": 33,
@@ -281,6 +289,14 @@
       "onboard_time": 1747931422,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121707,
+      "num": 121707,
+      "word": "易烊千玺戛纳到达",
+      "onboard_time": 1747919544,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 118574,
@@ -307,16 +323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109244,
-      "num": 109244,
-      "word": "易烊千玺戛纳到达",
-      "onboard_time": 1747919544,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 108409,
-      "num": 104687,
+      "raw_hot": 111529,
+      "num": 106571,
       "word": "肖战身材",
       "onboard_time": 1747929863,
       "rank": 43,
@@ -347,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97735,
+      "num": 104635,
+      "word": "马嘉祺 我们哥俩被人算计了",
+      "onboard_time": 1747918224,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95305,
       "num": 104664,
       "word": "王楚钦孙颖莎世乒赛晋级四强",
       "onboard_time": 1747904064,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94366,
-      "num": 104635,
-      "word": "马嘉祺 我们哥俩被人算计了",
-      "onboard_time": 1747918224,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 91353,
@@ -395,7 +403,23 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 19114,
+      "raw_hot": 70924,
+      "num": 167201,
+      "word": "qko否认给赵磊让妆",
+      "onboard_time": 1747931601,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68561,
+      "num": 92140,
+      "word": "莫德里奇宣布离开皇马",
+      "onboard_time": 1747924647,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21353,
       "num": 436050,
       "word": "物种丰富的大自然有多美",
       "onboard_time": 1747918102,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#加强生物多样性保护总书记这样说#"
+    },
+    {
+      "word": "#习近平同马克龙通电话#"
     }
   ]
 }

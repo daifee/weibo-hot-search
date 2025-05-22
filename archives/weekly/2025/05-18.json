@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747931548415,
+  "endTime": 1747932488419,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -1420,7 +1420,7 @@
     },
     {
       "raw_hot": 868033,
-      "num": 245996,
+      "num": 329063,
       "word": "米津玄师 Lemon",
       "onboard_time": 1747928606,
       "rank": 10,
@@ -2547,6 +2547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 572000,
+      "num": 572000,
+      "word": "王楚钦",
+      "onboard_time": 1747928425,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 570627,
       "num": 570627,
       "word": "国台办谈欧阳娜娜被台当局列入查核对象",
@@ -3417,14 +3425,6 @@
       "onboard_time": 1747664490,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424236,
-      "num": 424236,
-      "word": "王楚钦",
-      "onboard_time": 1747928425,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 423040,
@@ -4771,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298679,
+      "num": 298679,
+      "word": "结婚生子遭抛弃截瘫网红发声",
+      "onboard_time": 1747928245,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297934,
       "num": 263067,
       "word": "刘亦菲第二场晚宴造型",
@@ -5153,14 +5161,6 @@
       "onboard_time": 1747649724,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276648,
-      "num": 276648,
-      "word": "结婚生子遭抛弃截瘫网红发声",
-      "onboard_time": 1747928245,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276586,
@@ -6113,6 +6113,14 @@
       "onboard_time": 1747557201,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234561,
+      "num": 234561,
+      "word": "大学生坠入化粪池遇难副校长被免职",
+      "onboard_time": 1747930283,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234533,
@@ -8555,6 +8563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192286,
+      "num": 163322,
+      "word": "黄子韬49.8元卫生巾被炒到190元",
+      "onboard_time": 1747930222,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192150,
       "num": 223364,
       "word": "折腰追剧团",
@@ -9193,6 +9209,14 @@
       "onboard_time": 1747757544,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185474,
+      "num": 156268,
+      "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
+      "onboard_time": 1747931301,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185268,
@@ -10107,14 +10131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170234,
-      "num": 163322,
-      "word": "黄子韬49.8元卫生巾被炒到190元",
-      "onboard_time": 1747930222,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170198,
       "num": 170198,
       "word": "丁禹兮翟潇闻人生不就是白干加白干",
@@ -10441,6 +10457,14 @@
       "onboard_time": 1747565900,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166382,
+      "num": 166382,
+      "word": "王楚钦逆转晋级8强",
+      "onboard_time": 1747931780,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 166318,
@@ -11969,14 +11993,6 @@
       "onboard_time": 1747550121,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148688,
-      "num": 148688,
-      "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
-      "onboard_time": 1747931301,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 148592,
@@ -13587,14 +13603,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128217,
-      "num": 128217,
-      "word": "大学生坠入化粪池遇难副校长被免职",
-      "onboard_time": 1747930283,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128144,
       "num": 311723,
       "word": "张本美和4比0曾尖",
@@ -14699,6 +14707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111529,
+      "num": 106571,
+      "word": "肖战身材",
+      "onboard_time": 1747929863,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111329,
       "num": 111329,
       "word": "孟子义夸人夸到心坎上",
@@ -14921,14 +14937,6 @@
       "onboard_time": 1747525700,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108409,
-      "num": 104687,
-      "word": "肖战身材",
-      "onboard_time": 1747929863,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 108335,
@@ -17161,6 +17169,14 @@
       "onboard_time": 1747898002,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70924,
+      "num": 167201,
+      "word": "qko否认给赵磊让妆",
+      "onboard_time": 1747931601,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 70884,
@@ -20851,6 +20867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21353,
+      "num": 1484493,
+      "word": "物种丰富的大自然有多美",
+      "onboard_time": 1747918102,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21302,
       "num": 210396,
       "word": "保险理赔要危重病人自愿转入指定医院",
@@ -21144,14 +21168,6 @@
       "word": "韩勇一审死缓",
       "onboard_time": 1747685954,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19114,
-      "num": 1484493,
-      "word": "物种丰富的大自然有多美",
-      "onboard_time": 1747918102,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
