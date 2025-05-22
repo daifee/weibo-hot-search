@@ -1,0 +1,410 @@
+{
+  "runTime": 1747957129048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2636249,
+        "num": 2636249,
+        "word": "赵丽颖回应",
+        "onboard_time": 1747927586,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633657,
+        "num": 633657,
+        "word": "王楚钦",
+        "onboard_time": 1747928425,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59056,
+        "num": 550963,
+        "word": "2000亿元的核电市场来了",
+        "onboard_time": 1747918584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2062061,
+        "num": 550291,
+        "word": "赵丽颖这算官宣恋情吗",
+        "onboard_time": 1747923624,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514632,
+        "num": 514632,
+        "word": "特朗普怕了",
+        "onboard_time": 1747956201,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457846,
+        "num": 457846,
+        "word": "结婚生子遭抛弃截瘫网红发声",
+        "onboard_time": 1747928245,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1151271,
+        "num": 441207,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399640,
+        "num": 399640,
+        "word": "赵丽颖",
+        "onboard_time": 1747923926,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381086,
+        "num": 381086,
+        "word": "大学生坠入化粪池遇难副校长被免职",
+        "onboard_time": 1747930283,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28354,
+        "num": 371730,
+        "word": "武汉地铁回应暴雨致站内进水",
+        "onboard_time": 1747914744,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365478,
+        "num": 365478,
+        "word": "孙颖莎4比2申裕斌",
+        "onboard_time": 1747938316,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336784,
+        "num": 336784,
+        "word": "周琦老婆承认逼丈夫回国失去理智",
+        "onboard_time": 1747921285,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302250,
+        "num": 302250,
+        "word": "黄杨钿甜父亲情况核查最新进展",
+        "onboard_time": 1747908745,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288411,
+        "num": 288411,
+        "word": "易烊千玺戛纳排面",
+        "onboard_time": 1747945815,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32977,
+        "num": 258186,
+        "word": "俄决定在俄乌边境设立安全缓冲区",
+        "onboard_time": 1747955719,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257707,
+        "num": 257707,
+        "word": "在人间",
+        "onboard_time": 1747919364,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255833,
+        "num": 255833,
+        "word": "哈佛大学现有外国学生需转学",
+        "onboard_time": 1747955659,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207622,
+        "num": 207622,
+        "word": "这是载入中国游泳史的一幕",
+        "onboard_time": 1747926867,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219440,
+        "num": 206012,
+        "word": "易烊千玺舒淇戛纳红毯同框",
+        "onboard_time": 1747956261,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10080,
+        "num": 192003,
+        "word": "武汉大学附近积水已消退",
+        "onboard_time": 1747956741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371973,
+        "num": 187434,
+        "word": "女子产检发现宝宝心肝脾全长反了",
+        "onboard_time": 1747925427,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179491,
+        "num": 179491,
+        "word": "米津玄师 Lemon",
+        "onboard_time": 1747928606,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177150,
+        "num": 177150,
+        "word": "狂野时代",
+        "onboard_time": 1747956860,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173971,
+        "num": 173971,
+        "word": "雷军说小米YU7不可能19.9万",
+        "onboard_time": 1747920745,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65192,
+        "num": 171650,
+        "word": "林诗栋回应下轮对阵梁靖崑",
+        "onboard_time": 1747956801,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170461,
+        "num": 170461,
+        "word": "美政府暂停哈佛大学招收国际学生资格",
+        "onboard_time": 1747956201,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164952,
+        "num": 164952,
+        "word": "枪杀以使馆工作人员的嫌疑人被捕",
+        "onboard_time": 1747943354,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "藏海传云合",
+        "onboard_time": 1747934358,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149883,
+        "num": 149883,
+        "word": "黄子韬49.8元卫生巾被炒到190元",
+        "onboard_time": 1747930222,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117578,
+        "num": 117578,
+        "word": "王楚钦说莎莎连续3个正手至关重要",
+        "onboard_time": 1747956201,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117164,
+        "num": 117164,
+        "word": "国乒男双50年来首次无缘4强",
+        "onboard_time": 1747920625,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109413,
+        "num": 109413,
+        "word": "谁家男主跑得跟大扑棱蛾子一样啊",
+        "onboard_time": 1747950855,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106016,
+        "num": 106016,
+        "word": "小米YU7",
+        "onboard_time": 1747915584,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104317,
+        "num": 104317,
+        "word": "折腰 少年夫妻",
+        "onboard_time": 1747949835,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95160,
+        "num": 95160,
+        "word": "存款利率下调普通人应该如何理财",
+        "onboard_time": 1747956261,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88482,
+        "num": 88482,
+        "word": "陈奕迅露面",
+        "onboard_time": 1747918102,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86659,
+        "num": 86659,
+        "word": "快70了才穿上18岁想穿的衣服",
+        "onboard_time": 1747926211,
+        "rank": 36,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 84681,
+        "word": "王楚钦感谢了王皓",
+        "onboard_time": 1747956801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84188,
+        "num": 84188,
+        "word": "孙颖莎真是大心脏",
+        "onboard_time": 1747942815,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83415,
+        "num": 83415,
+        "word": "孙颖莎说赢第六局有些侥幸",
+        "onboard_time": 1747956201,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68753,
+        "num": 68753,
+        "word": "林诗栋vs卡尔伯格",
+        "onboard_time": 1747934598,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65473,
+        "num": 65473,
+        "word": "中国天眼又有罕见新发现",
+        "onboard_time": 1747956201,
+        "rank": 41,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 83626,
+        "num": 65436,
+        "word": "王皓对王楚钦说比赛现在重新开始",
+        "onboard_time": 1747956201,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65217,
+        "num": 65217,
+        "word": "光渊",
+        "onboard_time": 1747926271,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63900,
+        "num": 63900,
+        "word": "邓为李宛妲同框",
+        "onboard_time": 1747955659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63355,
+        "num": 63355,
+        "word": "鹿晗新歌",
+        "onboard_time": 1747922305,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62669,
+        "num": 62669,
+        "word": "美股美债又崩了",
+        "onboard_time": 1747944134,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60156,
+        "num": 60156,
+        "word": "吴宣仪VaVa才是我想看到的友情线",
+        "onboard_time": 1747955358,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59355,
+        "num": 59355,
+        "word": "周琦妻子再回应",
+        "onboard_time": 1747956561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58186,
+        "num": 58186,
+        "word": "三斤榴莲开出八斤肉",
+        "onboard_time": 1747933399,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}
