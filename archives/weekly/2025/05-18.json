@@ -1,12 +1,20 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747906935970,
+  "endTime": 1747909695505,
   "band_list": [
     {
       "raw_hot": 20713802,
       "num": 20713802,
       "word": "朱媛媛去世",
       "onboard_time": 1747797022,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11635032,
+      "num": 11635032,
+      "word": "黄杨钿甜父亲被立案调查",
+      "onboard_time": 1747907543,
       "rank": 0,
       "category": "艺人"
     },
@@ -1883,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663092,
+      "num": 321869,
+      "word": "赵丽颖恋情曝光后首亮相",
+      "onboard_time": 1747907905,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662929,
       "num": 302122,
       "word": "藏海传观后感",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1747825582,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597938,
+      "num": 358430,
+      "word": "娜扎16岁未修生图",
+      "onboard_time": 1747905682,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 597931,
@@ -2555,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531074,
+      "num": 531074,
+      "word": "孙颖莎连续扛住男对手三板倒地爆冲",
+      "onboard_time": 1747906643,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530158,
       "num": 530158,
       "word": "于正想找肖战拍戏",
@@ -2627,14 +2659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 504288,
-      "num": 358430,
-      "word": "娜扎16岁未修生图",
-      "onboard_time": 1747905682,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 503569,
       "num": 503569,
       "word": "藏海极限一换一拿下首杀",
@@ -2696,6 +2720,14 @@
       "word": "王楚钦说幸亏世界杯打了副板",
       "onboard_time": 1747700062,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 498177,
+      "num": 498177,
+      "word": "王楚钦孙颖莎绝对的相互信任",
+      "onboard_time": 1747905623,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -3147,14 +3179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420702,
-      "num": 445138,
-      "word": "王楚钦孙颖莎绝对的相互信任",
-      "onboard_time": 1747905623,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 419797,
       "num": 419797,
       "word": "黄金",
@@ -3369,6 +3393,14 @@
       "onboard_time": 1747723400,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396607,
+      "num": 396607,
+      "word": "朱媛媛易烊千玺戏里母子戏外校友",
+      "onboard_time": 1747907905,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 396453,
@@ -4147,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311956,
+      "num": 302299,
+      "word": "黄杨钿甜父亲情况核查最新进展",
+      "onboard_time": 1747908745,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311242,
       "num": 311242,
       "word": "迪丽热巴用玫瑰干杯",
@@ -4297,6 +4337,14 @@
       "onboard_time": 1747746442,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300456,
+      "num": 300456,
+      "word": "疑因妻子出轨自杀男子父亲去世",
+      "onboard_time": 1747907062,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300380,
@@ -4569,6 +4617,14 @@
       "onboard_time": 1747891344,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286685,
+      "num": 286685,
+      "word": "武大校门被淹一米深",
+      "onboard_time": 1747908926,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286642,
@@ -5241,6 +5297,14 @@
       "onboard_time": 1747887563,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247025,
+      "num": 302168,
+      "word": "云游青藏高原打开雪豹的朋友圈",
+      "onboard_time": 1747907844,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246009,
@@ -6112,14 +6176,6 @@
       "word": "雷霆4比3掘金",
       "onboard_time": 1747610541,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216447,
-      "num": 216447,
-      "word": "孙颖莎连续扛住男对手三板倒地爆冲",
-      "onboard_time": 1747906643,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -7379,6 +7435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196124,
+      "num": 275283,
+      "word": "周雨彤进组谍报上不封顶",
+      "onboard_time": 1747909345,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196093,
       "num": 196093,
       "word": "房东的空调比我岁数都大",
@@ -7715,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191991,
+      "num": 191991,
+      "word": "混双四强",
+      "onboard_time": 1747908625,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191956,
       "num": 224471,
       "word": "折腰史上下线最快的反派",
@@ -7865,6 +7937,14 @@
       "onboard_time": 1747667485,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "33对减肥人群太友好了",
+      "onboard_time": 1747908325,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 190368,
@@ -8595,6 +8675,14 @@
       "category": "幽默,幽默"
     },
     {
+      "raw_hot": 181585,
+      "num": 264635,
+      "word": "张远别唱了我到能听懂的年纪了",
+      "onboard_time": 1747908684,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181419,
       "num": 252689,
       "word": "中国球迷在西班牙遭种族歧视后续",
@@ -9035,6 +9123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172896,
+      "num": 172896,
+      "word": "WTT",
+      "onboard_time": 1747909105,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172874,
       "num": 172874,
       "word": "琳琳 土豆",
@@ -9113,6 +9209,14 @@
       "onboard_time": 1747884621,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170708,
+      "num": 170708,
+      "word": "白鹿抹胸流苏裙造型",
+      "onboard_time": 1747909285,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170456,
@@ -9563,6 +9667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164060,
+      "num": 164060,
+      "word": "雷佳音新剧被资本做局了",
+      "onboard_time": 1747909225,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164039,
       "num": 258849,
       "word": "金价如坐过山车",
@@ -9625,6 +9737,14 @@
       "onboard_time": 1747734923,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162935,
+      "num": 162935,
+      "word": "三款iPhone被列为过时产品",
+      "onboard_time": 1747907123,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 162907,
@@ -9833,6 +9953,14 @@
       "onboard_time": 1747624524,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160189,
+      "num": 160189,
+      "word": "孙颖莎说跟王楚钦做好我们自己",
+      "onboard_time": 1747907363,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 160084,
@@ -10345,6 +10473,14 @@
       "onboard_time": 1747638626,
       "rank": 45,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 154587,
+      "num": 154587,
+      "word": "上海38元两颗的温州敲馄饨",
+      "onboard_time": 1747907603,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 154439,
@@ -10899,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147984,
+      "num": 147984,
+      "word": "林钟勋申裕斌晋级混双四强",
+      "onboard_time": 1747907422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147594,
       "num": 147594,
       "word": "邓超陈赫深夜聊天放鹿晗的歌",
@@ -10937,6 +11081,14 @@
       "onboard_time": 1747797022,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147166,
+      "num": 147166,
+      "word": "高合",
+      "onboard_time": 1747907123,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 147041,
@@ -11049,6 +11201,14 @@
       "onboard_time": 1747729642,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144899,
+      "num": 144899,
+      "word": "台媒说都是跟着王楚钦来的",
+      "onboard_time": 1747907123,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144835,
@@ -13291,6 +13451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113254,
+      "num": 255898,
+      "word": "怀疑妻子出轨轻生事件王超姐姐发声",
+      "onboard_time": 1747908204,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113185,
       "num": 113185,
       "word": "小乔吃醋",
@@ -13481,6 +13649,14 @@
       "onboard_time": 1747584265,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110003,
+      "num": 245875,
+      "word": "重庆一男子蹊跷失踪两个月",
+      "onboard_time": 1747908565,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109984,
@@ -15675,6 +15851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71383,
+      "num": 250725,
+      "word": "我叫歼10",
+      "onboard_time": 1747908085,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 71298,
       "num": 190540,
       "word": "余依婷冠军张雨霏亚军",
@@ -17723,6 +17907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36978,
+      "num": 156888,
+      "word": "中航工业J15T官宣照",
+      "onboard_time": 1747907123,
+      "rank": 43,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 36770,
       "num": 264586,
       "word": "从中医角度看怎样吃西瓜更解暑",
@@ -17896,6 +18088,14 @@
       "word": "特厨隋坡事件背后真相",
       "onboard_time": 1747636164,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34823,
+      "num": 301292,
+      "word": "女导演说别把家务性别化",
+      "onboard_time": 1747907964,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18779,6 +18979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25060,
+      "num": 227614,
+      "word": "男子4X200自接浙江队头名进决赛",
+      "onboard_time": 1747905922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25058,
       "num": 25058,
       "word": "姬伯伯教稚奴好好活着",
@@ -18803,20 +19011,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24547,
-      "num": 227614,
-      "word": "男子4X200自接浙江队头名进决赛",
-      "onboard_time": 1747905922,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24468,
       "num": 176899,
       "word": "关于李泽言的N件小事",
       "onboard_time": 1747734082,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24466,
+      "num": 162991,
+      "word": "截瘫女性贷款生子被抛弃该如何维权",
+      "onboard_time": 1747908385,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24459,
@@ -20307,6 +20515,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 11547,
+      "num": 161061,
+      "word": "孟加拉称要台风和歼10C搭配",
+      "onboard_time": 1747909584,
+      "rank": 41,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 11478,
       "num": 287172,
       "word": "PL1导弹的数字化如何改变空战模式",
@@ -20569,6 +20785,14 @@
       "onboard_time": 1747649844,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7889,
+      "num": 301419,
+      "word": "袁老提出过哪些粮食安全的重要观点",
+      "onboard_time": 1747909285,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7816,

@@ -1,7 +1,15 @@
 {
   "startTime": 1747845179285,
-  "endTime": 1747906935970,
+  "endTime": 1747909695505,
   "band_list": [
+    {
+      "raw_hot": 11635032,
+      "num": 11635032,
+      "word": "黄杨钿甜父亲被立案调查",
+      "onboard_time": 1747907543,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4144739,
       "num": 896947,
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 709297,
+      "num": 384838,
+      "word": "黄杨钿甜",
+      "onboard_time": 1747878861,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 705531,
       "num": 487925,
       "word": "不要放弃下午四点",
@@ -248,6 +264,14 @@
       "word": "朱媛媛丧事办得很简单",
       "onboard_time": 1747843881,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 663092,
+      "num": 321869,
+      "word": "赵丽颖恋情曝光后首亮相",
+      "onboard_time": 1747907905,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -323,6 +347,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 597938,
+      "num": 358430,
+      "word": "娜扎16岁未修生图",
+      "onboard_time": 1747905682,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591601,
       "num": 501977,
       "word": "程潇 谍报上不封顶",
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531074,
+      "num": 531074,
+      "word": "孙颖莎连续扛住男对手三板倒地爆冲",
+      "onboard_time": 1747906643,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530158,
       "num": 530158,
       "word": "于正想找肖战拍戏",
@@ -387,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 504288,
-      "num": 358430,
-      "word": "娜扎16岁未修生图",
-      "onboard_time": 1747905682,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 498177,
+      "num": 498177,
+      "word": "王楚钦孙颖莎绝对的相互信任",
+      "onboard_time": 1747905623,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 496379,
@@ -435,14 +475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 457922,
-      "num": 384838,
-      "word": "黄杨钿甜",
-      "onboard_time": 1747878861,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445926,
       "num": 445926,
       "word": "林高远林诗栋vs张禹珍赵大成",
@@ -483,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420702,
-      "num": 445138,
-      "word": "王楚钦孙颖莎绝对的相互信任",
-      "onboard_time": 1747905623,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 417168,
       "num": 395000,
       "word": "海口警方再通报汽车拖猫事件",
@@ -529,6 +553,14 @@
       "onboard_time": 1747877302,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396607,
+      "num": 396607,
+      "word": "朱媛媛易烊千玺戏里母子戏外校友",
+      "onboard_time": 1747907905,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 387258,
@@ -675,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311956,
+      "num": 302299,
+      "word": "黄杨钿甜父亲情况核查最新进展",
+      "onboard_time": 1747908745,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309945,
       "num": 309945,
       "word": "文俊辉成龙打戏",
@@ -697,6 +737,14 @@
       "onboard_time": 1747885222,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300456,
+      "num": 300456,
+      "word": "疑因妻子出轨自杀男子父亲去世",
+      "onboard_time": 1747907062,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294631,
@@ -737,6 +785,14 @@
       "onboard_time": 1747891344,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286685,
+      "num": 286685,
+      "word": "武大校门被淹一米深",
+      "onboard_time": 1747908926,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284727,
@@ -899,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247025,
+      "num": 302168,
+      "word": "云游青藏高原打开雪豹的朋友圈",
+      "onboard_time": 1747907844,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243383,
       "num": 243383,
       "word": "恋与制作人诺比小兔",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1747879041,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216447,
-      "num": 216447,
-      "word": "孙颖莎连续扛住男对手三板倒地爆冲",
-      "onboard_time": 1747906643,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 214893,
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196124,
+      "num": 275283,
+      "word": "周雨彤进组谍报上不封顶",
+      "onboard_time": 1747909345,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196063,
       "num": 196063,
       "word": "檀健次曾为角色增肥20斤又减30斤",
@@ -1248,6 +1312,14 @@
       "word": "王曼昱王励勤赛前交流",
       "onboard_time": 1747905623,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191991,
+      "num": 191991,
+      "word": "混双四强",
+      "onboard_time": 1747908625,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1281,6 +1353,14 @@
       "onboard_time": 1747835604,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "33对减肥人群太友好了",
+      "onboard_time": 1747908325,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 188937,
@@ -1339,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181585,
+      "num": 264635,
+      "word": "张远别唱了我到能听懂的年纪了",
+      "onboard_time": 1747908684,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180266,
       "num": 180266,
       "word": "孙颖莎二次启动太牛了",
@@ -1387,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172896,
+      "num": 172896,
+      "word": "WTT",
+      "onboard_time": 1747909105,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172461,
       "num": 172461,
       "word": "脱口秀冒犯的艺术不是咸猪手的借口",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1747884621,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170708,
+      "num": 170708,
+      "word": "白鹿抹胸流苏裙造型",
+      "onboard_time": 1747909285,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169933,
@@ -1451,12 +1555,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164060,
+      "num": 164060,
+      "word": "雷佳音新剧被资本做局了",
+      "onboard_time": 1747909225,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163234,
       "num": 163234,
       "word": "皮筋猴 你们这群神经病",
       "onboard_time": 1747893021,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162935,
+      "num": 162935,
+      "word": "三款iPhone被列为过时产品",
+      "onboard_time": 1747907123,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 162422,
@@ -1481,6 +1601,14 @@
       "onboard_time": 1747892242,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160189,
+      "num": 160189,
+      "word": "孙颖莎说跟王楚钦做好我们自己",
+      "onboard_time": 1747907363,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 160081,
@@ -1563,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154587,
+      "num": 154587,
+      "word": "上海38元两颗的温州敲馄饨",
+      "onboard_time": 1747907603,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153823,
       "num": 153823,
       "word": "哈利伯顿超级高水平",
@@ -1635,12 +1771,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147984,
+      "num": 147984,
+      "word": "林钟勋申裕斌晋级混双四强",
+      "onboard_time": 1747907422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147449,
       "num": 164362,
       "word": "用山海经打开珍稀保护动物",
       "onboard_time": 1747877302,
       "rank": 23,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 147166,
+      "num": 147166,
+      "word": "高合",
+      "onboard_time": 1747907123,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 147041,
@@ -1681,6 +1833,14 @@
       "onboard_time": 1747877721,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144899,
+      "num": 144899,
+      "word": "台媒说都是跟着王楚钦来的",
+      "onboard_time": 1747907123,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 143908,
@@ -1915,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113254,
+      "num": 255898,
+      "word": "怀疑妻子出轨轻生事件王超姐姐发声",
+      "onboard_time": 1747908204,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112909,
       "num": 112909,
       "word": "现在和朋友聊天已经不敢诉苦了",
@@ -1953,6 +2121,14 @@
       "onboard_time": 1747869139,
       "rank": 21,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 110003,
+      "num": 245875,
+      "word": "重庆一男子蹊跷失踪两个月",
+      "onboard_time": 1747908565,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109446,
@@ -2427,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71383,
+      "num": 250725,
+      "word": "我叫歼10",
+      "onboard_time": 1747908085,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 71053,
       "num": 302464,
       "word": "一盒助眠药从20元飙涨到100多元",
@@ -2747,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36978,
+      "num": 156888,
+      "word": "中航工业J15T官宣照",
+      "onboard_time": 1747907123,
+      "rank": 43,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 36022,
       "num": 260544,
       "word": "以高质量发展的确定性应对各种不确定性",
@@ -2777,6 +2969,14 @@
       "onboard_time": 1747891942,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34823,
+      "num": 301292,
+      "word": "女导演说别把家务性别化",
+      "onboard_time": 1747907964,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34415,
@@ -2947,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25060,
+      "num": 227614,
+      "word": "男子4X200自接浙江队头名进决赛",
+      "onboard_time": 1747905922,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24620,
       "num": 27000,
       "word": "五月天杭州演唱会",
@@ -2955,12 +3163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24547,
-      "num": 227614,
-      "word": "男子4X200自接浙江队头名进决赛",
-      "onboard_time": 1747905922,
+      "raw_hot": 24466,
+      "num": 162991,
+      "word": "截瘫女性贷款生子被抛弃该如何维权",
+      "onboard_time": 1747908385,
       "rank": 38,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24459,
@@ -3195,6 +3403,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 11547,
+      "num": 161061,
+      "word": "孟加拉称要台风和歼10C搭配",
+      "onboard_time": 1747909584,
+      "rank": 41,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 11273,
       "num": 190468,
       "word": "冈比亚农民是如何开始种植水稻的",
@@ -3233,6 +3449,14 @@
       "onboard_time": 1747902682,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 7889,
+      "num": 301419,
+      "word": "袁老提出过哪些粮食安全的重要观点",
+      "onboard_time": 1747909285,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5700,

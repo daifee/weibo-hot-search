@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747906935970,
+  "endTime": 1747909695505,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -496,6 +496,14 @@
       "word": "王星弟弟已与其通视频电话",
       "onboard_time": 1736230884,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11635032,
+      "num": 11635032,
+      "word": "黄杨钿甜父亲被立案调查",
+      "onboard_time": 1747907543,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737993976,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3184228,
-      "num": 3184228,
-      "word": "王曼昱退赛",
-      "onboard_time": 1742101644,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
