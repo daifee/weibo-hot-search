@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747935678589,
+  "endTime": 1747938930255,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572000,
-      "num": 572000,
+      "raw_hot": 599163,
+      "num": 599163,
       "word": "王楚钦",
       "onboard_time": 1747928425,
       "rank": 4,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133318,
+      "num": 133318,
+      "word": "孙颖莎晋级女单8强",
+      "onboard_time": 1747938316,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130976,
       "num": 130976,
       "word": "金秋天染金发了",
@@ -345,6 +353,14 @@
       "onboard_time": 1747928964,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114449,
+      "num": 114449,
+      "word": "孙颖莎4比2申裕斌",
+      "onboard_time": 1747938316,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 112865,
@@ -505,6 +521,46 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31855,
+      "num": 40577,
+      "word": "林诗栋12比10卡尔伯格",
+      "onboard_time": 1747936096,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31217,
+      "num": 40576,
+      "word": "林诗栋晋级世乒赛八强",
+      "onboard_time": 1747938017,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28086,
+      "num": 40569,
+      "word": "本周歌手有王菲的天空",
+      "onboard_time": 1747938555,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26463,
+      "num": 40564,
+      "word": "王楚钦vs高茨",
+      "onboard_time": 1747921825,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25463,
+      "num": 40557,
+      "word": "Doinb登场十周年",
+      "onboard_time": 1747937835,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 21353,
