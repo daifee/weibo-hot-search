@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/23 22:24:57
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/23 22:43:44
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
+歌手排名（热度：12839541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%82%E7%99%BD%20%E6%9B%BF%E8%BA%AB%23" target="weibo">
 漂白 替身（热度：12791228）
 </a>
@@ -581,12 +587,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%23" target="weibo">
 陈奕迅（热度：9707431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
-歌手排名（热度：9584581）
 </a>
 </li>
 
@@ -1103,6 +1103,12 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%9C%A8%E6%B3%B0%E7%BC%85%E8%BE%B9%E5%A2%83%E5%A4%B1%E8%81%94%23" target="weibo">
 演员星星在泰缅边境失联（热度：4267121）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E6%B7%98%E6%B1%B0%23" target="weibo">
+林志炫淘汰（热度：4255396）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B7%E4%BF%8A%E6%99%94%E5%B0%86%E6%89%8B%E6%8A%B1%E9%AA%A8%E7%81%B0%E5%B8%A6%E5%A4%A7S%E5%9B%9E%E5%8F%B0%E6%B9%BE%23" target="weibo">
 具俊晔将手抱骨灰带大S回台湾（热度：3226443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E5%A4%96%E7%BD%91%23" target="weibo">
-霸王茶姬 外网（热度：3219780）
 </a>
 </li>
 

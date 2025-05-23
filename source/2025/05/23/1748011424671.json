@@ -1,0 +1,410 @@
+{
+  "runTime": 1748011424671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12839541,
+        "num": 12839541,
+        "word": "歌手排名",
+        "onboard_time": 1748009553,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11060453,
+        "num": 11060453,
+        "word": "马嘉祺做得好",
+        "onboard_time": 1748007871,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56169,
+        "num": 1722449,
+        "word": "回顾神二十乘组首次出舱全过程",
+        "onboard_time": 1748009852,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1074915,
+        "num": 1074915,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1748008413,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709628,
+        "num": 709628,
+        "word": "浙江一学校食堂绞肉机现大量活蛆",
+        "onboard_time": 1748004505,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695759,
+        "num": 695759,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4648044,
+        "num": 660007,
+        "word": "陈楚生 高音没声",
+        "onboard_time": 1748003605,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4531517,
+        "num": 607267,
+        "word": "单依纯 如听仙乐耳暂明",
+        "onboard_time": 1748008234,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528438,
+        "num": 528438,
+        "word": "王曼昱晋级世乒赛四强",
+        "onboard_time": 1748009973,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155502,
+        "num": 512840,
+        "word": "宋雨琦拔河力挽狂澜",
+        "onboard_time": 1748010692,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4388747,
+        "num": 474693,
+        "word": "歌手直播",
+        "onboard_time": 1747999823,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4255396,
+        "num": 445784,
+        "word": "林志炫淘汰",
+        "onboard_time": 1748010513,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172198,
+        "num": 429223,
+        "word": "单依纯蒙牛酸酸乳品牌代言人",
+        "onboard_time": 1748009369,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683783,
+        "num": 386302,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1748005228,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 357993,
+        "word": "被落石砸中遇难者二次检测无酒驾",
+        "onboard_time": 1748010572,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 337409,
+        "num": 337409,
+        "word": "特朗普建议对欧盟征收50%关税",
+        "onboard_time": 1748002343,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156920,
+        "num": 329437,
+        "word": "比雅迪更懂雅迪的是王鹤棣",
+        "onboard_time": 1748010572,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14640,
+        "num": 327398,
+        "word": "甲醛超标的捏捏乐会引发哪些疾病",
+        "onboard_time": 1748010692,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16472,
+        "num": 317325,
+        "word": "法官禁令能否保住哈佛国际生身份",
+        "onboard_time": 1748009792,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21885,
+        "num": 303401,
+        "word": "孟羽童还能回到格力么",
+        "onboard_time": 1748010394,
+        "rank": 19,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 1718589,
+        "num": 294306,
+        "word": "林志炫回来了",
+        "onboard_time": 1748005887,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664962,
+        "num": 283012,
+        "word": "Grace好敢说",
+        "onboard_time": 1748007989,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1486936,
+        "num": 278553,
+        "word": "难听",
+        "onboard_time": 1748004988,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273262,
+        "num": 273262,
+        "word": "董明珠拥抱孟羽童",
+        "onboard_time": 1748002103,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254530,
+        "num": 254530,
+        "word": "董明珠直播回应开除孟羽童",
+        "onboard_time": 1748009072,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1049644,
+        "num": 254391,
+        "word": "阿云嘎秒了",
+        "onboard_time": 1748004505,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694484,
+        "num": 251673,
+        "word": "白举纲好听",
+        "onboard_time": 1748007211,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173838,
+        "num": 249579,
+        "word": "女单四强国乒占三席",
+        "onboard_time": 1748011108,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62228,
+        "num": 246007,
+        "word": "王曼昱回应击败张本美和",
+        "onboard_time": 1748011049,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7523,
+        "num": 243223,
+        "word": "2.5天休假模式何时能推广到全国",
+        "onboard_time": 1748011108,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623492,
+        "num": 242545,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594750,
+        "num": 240127,
+        "word": "马嘉祺揭榜白举纲",
+        "onboard_time": 1748007507,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203135,
+        "num": 236642,
+        "word": "孙颖莎王楚钦进决赛",
+        "onboard_time": 1747990344,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423265,
+        "num": 235105,
+        "word": "肖战回应张婧仪",
+        "onboard_time": 1748008111,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158634,
+        "num": 232575,
+        "word": "辛柏青朱媛媛再过3天结婚满19年",
+        "onboard_time": 1748011349,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32106,
+        "num": 229879,
+        "word": "50%关税对欧盟将会产生什么影响",
+        "onboard_time": 1748009250,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140273,
+        "num": 227467,
+        "word": "李晨周深眼里只有对气球的拯救",
+        "onboard_time": 1748011108,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369488,
+        "num": 224385,
+        "word": "曾经我也想过一了百了",
+        "onboard_time": 1748009733,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224030,
+        "num": 224030,
+        "word": "四川一地试行4.5天弹性工作制",
+        "onboard_time": 1748010036,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208547,
+        "num": 208547,
+        "word": "王曼昱4比0张本美和",
+        "onboard_time": 1748010394,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341370,
+        "num": 207810,
+        "word": "GAI选歌",
+        "onboard_time": 1748007089,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322968,
+        "num": 207437,
+        "word": "阿云嘎怎么会输",
+        "onboard_time": 1748006247,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204867,
+        "num": 204867,
+        "word": "现在的粽子已经卷成这样了吗",
+        "onboard_time": 1748011407,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199943,
+        "num": 199943,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185688,
+        "num": 199930,
+        "word": "孙颖莎4小时赢了2场硬仗",
+        "onboard_time": 1748008714,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180822,
+        "num": 199454,
+        "word": "林诗栋无缘男单四强",
+        "onboard_time": 1747999823,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162132,
+        "num": 199220,
+        "word": "月薪3万意味着每天能有1000块",
+        "onboard_time": 1747995982,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 143144,
+        "num": 198935,
+        "word": "董明珠回应孟羽童是否再回格力",
+        "onboard_time": 1748008354,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142047,
+        "num": 198711,
+        "word": "孙颖莎半决赛对战伊藤美诚",
+        "onboard_time": 1748004148,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139608,
+        "num": 198570,
+        "word": "欧盟回应特朗普威胁征收50%关税",
+        "onboard_time": 1748010572,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向罗马尼亚当选总统达恩致贺电#"
+    }
+  }
+}
