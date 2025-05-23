@@ -1,0 +1,410 @@
+{
+  "runTime": 1748020983134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896718,
+        "num": 896718,
+        "word": "林志炫回应淘汰",
+        "onboard_time": 1748016863,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 872402,
+        "num": 872402,
+        "word": "歌手排名",
+        "onboard_time": 1748009553,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4818,
+        "num": 523884,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504504,
+        "num": 504504,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365750,
+        "num": 365750,
+        "word": "即将入学哈佛的中国留学生发声",
+        "onboard_time": 1748015962,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230144,
+        "num": 230144,
+        "word": "捏捏博主自曝患癌退圈引热议",
+        "onboard_time": 1748014044,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455081,
+        "num": 228064,
+        "word": "马嘉祺做得好",
+        "onboard_time": 1748007871,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419532,
+        "num": 225969,
+        "word": "单依纯当年唯一输掉的比赛",
+        "onboard_time": 1748014585,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403859,
+        "num": 223283,
+        "word": "陈楚生回应高音没声",
+        "onboard_time": 1748011887,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169879,
+        "num": 221024,
+        "word": "女单四强国乒占三席",
+        "onboard_time": 1748011108,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 816514,
+        "num": 215989,
+        "word": "韩国反华情绪正螺旋上涨",
+        "onboard_time": 1748013744,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463223,
+        "num": 213980,
+        "word": "难听",
+        "onboard_time": 1748004988,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372847,
+        "num": 211013,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274047,
+        "num": 207428,
+        "word": "中岛美嘉 一了百了",
+        "onboard_time": 1748013206,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206287,
+        "num": 206287,
+        "word": "男单四强国乒占两席",
+        "onboard_time": 1748014884,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252394,
+        "num": 202022,
+        "word": "张凌赫济南",
+        "onboard_time": 1748016563,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185419,
+        "num": 185419,
+        "word": "董明珠直播回应开除孟羽童",
+        "onboard_time": 1748009072,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167590,
+        "num": 167590,
+        "word": "多位捏捏玩家出现喉咙痛烂手指",
+        "onboard_time": 1748012726,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99067,
+        "num": 167009,
+        "word": "孙颖莎稳坐世界第一即将满三年",
+        "onboard_time": 1748013147,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81502,
+        "num": 164618,
+        "word": "孙颖莎回应一天8局球",
+        "onboard_time": 1748019379,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235598,
+        "num": 162705,
+        "word": "耳帝评歌手第二期",
+        "onboard_time": 1748013326,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136603,
+        "num": 160798,
+        "word": "马嘉祺高音稳的",
+        "onboard_time": 1748019859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224665,
+        "num": 157639,
+        "word": "单依纯 如听仙乐耳暂明",
+        "onboard_time": 1748008234,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196324,
+        "num": 155365,
+        "word": "肖战是藏海传第一人选",
+        "onboard_time": 1748013386,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171819,
+        "num": 152794,
+        "word": "阿云嘎秒了",
+        "onboard_time": 1748004505,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152123,
+        "num": 152123,
+        "word": "邓紫棋不脱婚纱的理由",
+        "onboard_time": 1748015664,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150992,
+        "num": 150992,
+        "word": "歌手直播",
+        "onboard_time": 1747999823,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136310,
+        "num": 136310,
+        "word": "陈楚生 高音没声",
+        "onboard_time": 1748003605,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133592,
+        "num": 133592,
+        "word": "谁来救救沈梦辰",
+        "onboard_time": 1748012846,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54923,
+        "num": 129439,
+        "word": "潘展乐第8金",
+        "onboard_time": 1748020457,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "肖战你哪来这么多可爱的表情包",
+        "onboard_time": 1748015723,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119843,
+        "num": 119843,
+        "word": "歌手收视率",
+        "onboard_time": 1748015303,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78991,
+        "num": 78991,
+        "word": "王楚钦世乒赛晋级四强",
+        "onboard_time": 1748013386,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69487,
+        "num": 78987,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1748008413,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63713,
+        "num": 78983,
+        "word": "月薪3万意味着每天能有1000块",
+        "onboard_time": 1747995982,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 111041,
+        "num": 78972,
+        "word": "藏海传收视率再创新高",
+        "onboard_time": 1748014764,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107453,
+        "num": 78963,
+        "word": "林志炫淘汰",
+        "onboard_time": 1748010513,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93737,
+        "num": 78962,
+        "word": "李天泽",
+        "onboard_time": 1748013686,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62575,
+        "num": 78948,
+        "word": "暴雨暴雨小心暴雨暴雨",
+        "onboard_time": 1748020518,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57677,
+        "num": 78944,
+        "word": "中国反兴奋剂中心反对增强运动会",
+        "onboard_time": 1748019680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87638,
+        "num": 78939,
+        "word": "折腰",
+        "onboard_time": 1748017522,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86332,
+        "num": 78930,
+        "word": "鹿晗四巡官宣",
+        "onboard_time": 1747995683,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73412,
+        "num": 78922,
+        "word": "恩利庾澄庆 子承父逆",
+        "onboard_time": 1748004867,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71144,
+        "num": 78913,
+        "word": "赵丽颖换摄影师了",
+        "onboard_time": 1748006847,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57195,
+        "num": 78905,
+        "word": "美股暴跌前美政界多人精准抛售",
+        "onboard_time": 1748020457,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55978,
+        "num": 78897,
+        "word": "王楚钦说感谢的话留到最后",
+        "onboard_time": 1748015065,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53910,
+        "num": 78897,
+        "word": "6名老人自驾翻车涉事地暂时封山",
+        "onboard_time": 1748015902,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51404,
+        "num": 78888,
+        "word": "特朗普建议对欧盟征收50%关税",
+        "onboard_time": 1748002343,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47537,
+        "num": 78878,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47503,
+        "num": 78869,
+        "word": "王楚钦回应击败林昀儒",
+        "onboard_time": 1748015183,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向罗马尼亚当选总统达恩致贺电#"
+    }
+  }
+}
