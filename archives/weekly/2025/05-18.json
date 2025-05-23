@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748007982117,
+  "endTime": 1748010297584,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -9,6 +9,14 @@
       "onboard_time": 1747797022,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15088959,
+      "num": 15088959,
+      "word": "马嘉祺做得好",
+      "onboard_time": 1748007871,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 13594592,
@@ -75,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6818575,
-      "num": 6818575,
+      "raw_hot": 7904904,
+      "num": 7904904,
       "word": "歌手直播",
       "onboard_time": 1747999823,
       "rank": 1,
@@ -88,6 +96,22 @@
       "word": "阿云嘎秒了",
       "onboard_time": 1748004505,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6624460,
+      "num": 6624460,
+      "word": "单依纯 如听仙乐耳暂明",
+      "onboard_time": 1748008234,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6360298,
+      "num": 6360298,
+      "word": "歌手排名",
+      "onboard_time": 1748009553,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -104,14 +128,6 @@
       "word": "中餐厅9得罪了半个中国的人",
       "onboard_time": 1747969582,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3536495,
-      "num": 425517,
-      "word": "马嘉祺做得好",
-      "onboard_time": 1748007871,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -275,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 2377408,
+      "num": 436876,
+      "word": "林志炫回来了",
+      "onboard_time": 1748005887,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2343919,
       "num": 2343919,
       "word": "3nm",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 2142792,
-      "num": 369744,
+      "num": 373220,
       "word": "马嘉祺揭榜白举纲",
       "onboard_time": 1748007507,
       "rank": 12,
@@ -561,14 +585,6 @@
       "onboard_time": 1747926509,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1647664,
-      "num": 358964,
-      "word": "林志炫回来了",
-      "onboard_time": 1748005887,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1645715,
@@ -929,6 +945,14 @@
       "onboard_time": 1747556780,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1313272,
+      "num": 1313272,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 1311951,
@@ -1516,7 +1540,7 @@
     },
     {
       "raw_hot": 959771,
-      "num": 351386,
+      "num": 360421,
       "word": "朱媛媛最后的朋友圈",
       "onboard_time": 1748005887,
       "rank": 20,
@@ -2027,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788013,
+      "num": 788013,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1748008413,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 786116,
       "num": 1106775,
       "word": "新疆多地上空出现不明飞行物",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1747972763,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 750974,
+      "num": 367127,
+      "word": "Grace好敢说",
+      "onboard_time": 1748007989,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 750152,
@@ -2483,14 +2523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 687493,
-      "num": 687493,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1748005228,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 682216,
       "num": 258358,
       "word": "上海月薪6000一天花多少钱",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1747881861,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 636275,
+      "num": 636275,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 636064,
@@ -3579,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504356,
+      "num": 504356,
+      "word": "2.5天休假模式真的来了",
+      "onboard_time": 1748008354,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 503569,
       "num": 503569,
       "word": "藏海极限一换一拿下首杀",
@@ -3753,6 +3801,14 @@
       "onboard_time": 1747999761,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 486171,
+      "num": 211767,
+      "word": "肖战回应张婧仪",
+      "onboard_time": 1748008111,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 483683,
@@ -4041,6 +4097,14 @@
       "onboard_time": 1747588338,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 445103,
+      "num": 210945,
+      "word": "七折",
+      "onboard_time": 1748008296,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 444004,
@@ -4579,6 +4643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383530,
+      "num": 212064,
+      "word": "唱出超声波",
+      "onboard_time": 1748008413,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382751,
       "num": 382751,
       "word": "光遇",
@@ -4771,20 +4843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364516,
+      "num": 210066,
+      "word": "曾经我也想过一了百了",
+      "onboard_time": 1748009733,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364492,
       "num": 364492,
       "word": "九重紫 窦昭篇",
       "onboard_time": 1747627164,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364453,
-      "num": 364453,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 362792,
@@ -4835,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358706,
+      "num": 271747,
+      "word": "肖战追着藏海传制片人聊演技",
+      "onboard_time": 1748007629,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358557,
       "num": 252172,
       "word": "兰香如故 郑合惠子",
@@ -4849,6 +4929,14 @@
       "onboard_time": 1747656922,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358195,
+      "num": 176118,
+      "word": "天空",
+      "onboard_time": 1748008296,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 357877,
@@ -5139,14 +5227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337763,
-      "num": 271747,
-      "word": "肖战追着藏海传制片人聊演技",
-      "onboard_time": 1748007629,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 337621,
       "num": 337621,
       "word": "GAI选曲",
@@ -5177,6 +5257,14 @@
       "onboard_time": 1747960162,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 334761,
+      "num": 175081,
+      "word": "沈梦辰",
+      "onboard_time": 1748009012,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 334180,
@@ -5457,6 +5545,14 @@
       "onboard_time": 1747556060,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312592,
+      "num": 312592,
+      "word": "王曼昱晋级世乒赛四强",
+      "onboard_time": 1748009973,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 312525,
@@ -8651,6 +8747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209666,
+      "num": 209666,
+      "word": "董明珠直播回应开除孟羽童",
+      "onboard_time": 1748009072,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209587,
       "num": 209587,
       "word": "主播因为说十个勤天是爱豆鞠躬道歉",
@@ -9377,6 +9481,14 @@
       "onboard_time": 1747650144,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200841,
+      "num": 399434,
+      "word": "单依纯蒙牛酸酸乳品牌代言人",
+      "onboard_time": 1748009369,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 200725,
@@ -11507,6 +11619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179515,
+      "num": 495931,
+      "word": "白鹿宁静被围攻演技爆发",
+      "onboard_time": 1748009432,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179417,
       "num": 179417,
       "word": "小猪佩奇妈妈生三胎了",
@@ -12531,6 +12651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167302,
+      "num": 518484,
+      "word": "董明珠孟羽童直播互动超有爱",
+      "onboard_time": 1748004748,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167286,
       "num": 167286,
       "word": "郭俊辰圈内人缘",
@@ -12849,6 +12977,14 @@
       "onboard_time": 1747634844,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163097,
+      "num": 174364,
+      "word": "董明珠回应孟羽童是否再回格力",
+      "onboard_time": 1748008354,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163002,
@@ -14171,6 +14307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150476,
+      "num": 174128,
+      "word": "孙颖莎4小时赢了2场硬仗",
+      "onboard_time": 1748008714,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150463,
       "num": 267494,
       "word": "官方通报调查中药里加安眠药医院",
@@ -14297,14 +14441,6 @@
       "onboard_time": 1747982062,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148822,
-      "num": 518484,
-      "word": "董明珠孟羽童直播互动超有爱",
-      "onboard_time": 1748004748,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148704,
@@ -17985,6 +18121,14 @@
       "onboard_time": 1747633285,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102374,
+      "num": 280813,
+      "word": "四川一地试行4.5天弹性工作制",
+      "onboard_time": 1748010036,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102321,
@@ -22267,6 +22411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41309,
+      "num": 263602,
+      "word": "广场舞这把上强度了",
+      "onboard_time": 1748008594,
+      "rank": 27,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 41291,
       "num": 177567,
       "word": "LV为什么被高仿告上法庭",
@@ -23619,6 +23771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28346,
+      "num": 249099,
+      "word": "61岁完全截瘫男子站起来了",
+      "onboard_time": 1748008594,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28329,
       "num": 184381,
       "word": "哈飞推出新型Z9M直升机",
@@ -23841,6 +24001,14 @@
       "onboard_time": 1747970122,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26780,
+      "num": 389433,
+      "word": "50%关税对欧盟将会产生什么影响",
+      "onboard_time": 1748009250,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26730,
@@ -24243,6 +24411,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 23616,
+      "num": 1641252,
+      "word": "回顾神二十乘组首次出舱全过程",
+      "onboard_time": 1748009852,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23593,
       "num": 140039,
       "word": "100个初级会计考试知识点",
@@ -24473,6 +24649,14 @@
       "onboard_time": 1747630044,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21644,
+      "num": 174178,
+      "word": "中国创新成全球经济新机遇",
+      "onboard_time": 1748009492,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21637,
@@ -24809,6 +24993,14 @@
       "onboard_time": 1747927287,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19981,
+      "num": 223751,
+      "word": "等电梯时遇到领导要说什么",
+      "onboard_time": 1748008954,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 19962,
@@ -26307,6 +26499,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 8757,
+      "num": 385880,
+      "word": "法官禁令能否保住哈佛国际生身份",
+      "onboard_time": 1748009792,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 8709,
       "num": 300355,
       "word": "情绪管理对职场成长有什么价值",
@@ -26541,6 +26741,9 @@
     },
     {
       "word": "#习近平对精神文明建设工作作出重要指示#"
+    },
+    {
+      "word": "#习近平同德国总理默茨通电话#"
     }
   ]
 }

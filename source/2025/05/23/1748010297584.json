@@ -1,0 +1,410 @@
+{
+  "runTime": 1748010297584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15088959,
+        "num": 15088959,
+        "word": "马嘉祺做得好",
+        "onboard_time": 1748007871,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7904904,
+        "num": 7904904,
+        "word": "歌手直播",
+        "onboard_time": 1747999823,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23616,
+        "num": 1641252,
+        "word": "回顾神二十乘组首次出舱全过程",
+        "onboard_time": 1748009852,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1313272,
+        "num": 1313272,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1748005228,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 788013,
+        "num": 788013,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1748008413,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636275,
+        "num": 636275,
+        "word": "浙江一学校食堂绞肉机现大量活蛆",
+        "onboard_time": 1748004505,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6989788,
+        "num": 6989788,
+        "word": "陈楚生 高音没声",
+        "onboard_time": 1748003605,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6624460,
+        "num": 6624460,
+        "word": "单依纯 如听仙乐耳暂明",
+        "onboard_time": 1748008234,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504356,
+        "num": 504356,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179515,
+        "num": 495931,
+        "word": "白鹿宁静被围攻演技爆发",
+        "onboard_time": 1748009432,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167302,
+        "num": 484248,
+        "word": "董明珠孟羽童直播互动超有爱",
+        "onboard_time": 1748004748,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6360298,
+        "num": 6360298,
+        "word": "歌手排名",
+        "onboard_time": 1748009553,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2447946,
+        "num": 446845,
+        "word": "难听",
+        "onboard_time": 1748004988,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2377408,
+        "num": 436876,
+        "word": "林志炫回来了",
+        "onboard_time": 1748005887,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420272,
+        "num": 420272,
+        "word": "董明珠拥抱孟羽童",
+        "onboard_time": 1748002103,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1464173,
+        "num": 415959,
+        "word": "阿云嘎秒了",
+        "onboard_time": 1748004505,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249496,
+        "num": 405637,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200841,
+        "num": 399434,
+        "word": "单依纯蒙牛酸酸乳品牌代言人",
+        "onboard_time": 1748009369,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26780,
+        "num": 389433,
+        "word": "50%关税对欧盟将会产生什么影响",
+        "onboard_time": 1748009250,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8757,
+        "num": 385880,
+        "word": "法官禁令能否保住哈佛国际生身份",
+        "onboard_time": 1748009792,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1358093,
+        "num": 373220,
+        "word": "马嘉祺揭榜白举纲",
+        "onboard_time": 1748007507,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750974,
+        "num": 367127,
+        "word": "Grace好敢说",
+        "onboard_time": 1748007989,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767726,
+        "num": 360421,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353880,
+        "num": 353880,
+        "word": "特朗普建议对欧盟征收50%关税",
+        "onboard_time": 1748002343,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312592,
+        "num": 312592,
+        "word": "王曼昱晋级世乒赛四强",
+        "onboard_time": 1748009973,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 982855,
+        "num": 309878,
+        "word": "白举纲好听",
+        "onboard_time": 1748007211,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102374,
+        "num": 280813,
+        "word": "四川一地试行4.5天弹性工作制",
+        "onboard_time": 1748010036,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41309,
+        "num": 263602,
+        "word": "广场舞这把上强度了",
+        "onboard_time": 1748008594,
+        "rank": 27,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 28346,
+        "num": 249099,
+        "word": "61岁完全截瘫男子站起来了",
+        "onboard_time": 1748008594,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19981,
+        "num": 223751,
+        "word": "等电梯时遇到领导要说什么",
+        "onboard_time": 1748008954,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212943,
+        "num": 212943,
+        "word": "林诗栋无缘男单四强",
+        "onboard_time": 1747999823,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554412,
+        "num": 212651,
+        "word": "阿云嘎怎么会输",
+        "onboard_time": 1748006247,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383530,
+        "num": 212064,
+        "word": "唱出超声波",
+        "onboard_time": 1748008413,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486171,
+        "num": 211767,
+        "word": "肖战回应张婧仪",
+        "onboard_time": 1748008111,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445103,
+        "num": 210945,
+        "word": "七折",
+        "onboard_time": 1748008296,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390757,
+        "num": 210640,
+        "word": "GAI选歌",
+        "onboard_time": 1748007089,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364516,
+        "num": 210066,
+        "word": "曾经我也想过一了百了",
+        "onboard_time": 1748009733,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209666,
+        "num": 209666,
+        "word": "董明珠直播回应开除孟羽童",
+        "onboard_time": 1748009072,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150407,
+        "num": 184577,
+        "word": "凤阳分管副县长被停职检查",
+        "onboard_time": 1748004568,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "孙颖莎半决赛对战伊藤美诚",
+        "onboard_time": 1748004148,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358706,
+        "num": 176294,
+        "word": "肖战追着藏海传制片人聊演技",
+        "onboard_time": 1748007629,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358195,
+        "num": 176118,
+        "word": "天空",
+        "onboard_time": 1748008296,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351322,
+        "num": 175590,
+        "word": "恩利庾澄庆 子承父逆",
+        "onboard_time": 1748004867,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334761,
+        "num": 175081,
+        "word": "沈梦辰",
+        "onboard_time": 1748009012,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320792,
+        "num": 174664,
+        "word": "赵丽颖换摄影师了",
+        "onboard_time": 1748006847,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174431,
+        "num": 174431,
+        "word": "孙颖莎王楚钦进决赛",
+        "onboard_time": 1747990344,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163097,
+        "num": 174364,
+        "word": "董明珠回应孟羽童是否再回格力",
+        "onboard_time": 1748008354,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21644,
+        "num": 174178,
+        "word": "中国创新成全球经济新机遇",
+        "onboard_time": 1748009492,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150476,
+        "num": 174128,
+        "word": "孙颖莎4小时赢了2场硬仗",
+        "onboard_time": 1748008714,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135875,
+        "num": 173909,
+        "word": "月薪3万意味着每天能有1000块",
+        "onboard_time": 1747995982,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同德国总理默茨通电话#"
+    }
+  }
+}
