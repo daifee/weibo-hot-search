@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1747989237252,
+  "endTime": 1747990053432,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -464,6 +464,14 @@
       "word": "王楚钦孙颖莎vs梁吉善王艾米",
       "onboard_time": 1747552041,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1673464,
+      "num": 1673464,
+      "word": "王楚钦孙颖莎VS林仲勋申裕斌",
+      "onboard_time": 1747987464,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -1155,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1068339,
-      "num": 1068339,
-      "word": "王楚钦孙颖莎VS林仲勋申裕斌",
-      "onboard_time": 1747987464,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1056626,
       "num": 1169060,
       "word": "朱媛媛住院治疗照",
@@ -1603,6 +1603,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 854469,
+      "num": 854469,
+      "word": "剧组悬赏20000元寻找素材硬盘",
+      "onboard_time": 1747987402,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 854456,
       "num": 470555,
       "word": "橘子 严浩翔",
@@ -1800,14 +1808,6 @@
       "word": "病重男孩与全班拍毕业照次日离世",
       "onboard_time": 1747583604,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 796878,
-      "num": 796878,
-      "word": "剧组悬赏20000元寻找素材硬盘",
-      "onboard_time": 1747987402,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -2609,6 +2609,14 @@
       "onboard_time": 1747884323,
       "rank": 32,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 605650,
+      "num": 605650,
+      "word": "吴京车坏在高速路上",
+      "onboard_time": 1747989024,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 603715,
@@ -6027,6 +6035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260246,
+      "num": 260246,
+      "word": "赵丽颖新剧和男主像黑夜和白天",
+      "onboard_time": 1747989024,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259497,
       "num": 259497,
       "word": "陈楚生将进酒网友推荐TOP1",
@@ -7067,14 +7083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225079,
-      "num": 333219,
-      "word": "吴京车坏在高速路上",
-      "onboard_time": 1747989024,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225019,
       "num": 225019,
       "word": "穿普拉达的女王2定档",
@@ -7843,6 +7851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211208,
+      "num": 211208,
+      "word": "Lovecd离队",
+      "onboard_time": 1747989144,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211136,
       "num": 211136,
       "word": "肖战稚奴的最后一课",
@@ -7937,6 +7953,14 @@
       "onboard_time": 1747903823,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209588,
+      "num": 209588,
+      "word": "上海月薪6000一天花多少钱",
+      "onboard_time": 1747989563,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 209587,
@@ -9203,6 +9227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194083,
+      "num": 194083,
+      "word": "易烊千玺全球首映礼前",
+      "onboard_time": 1747989383,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194073,
       "num": 379505,
       "word": "用惯了拼多多对618囤货已无感",
@@ -9931,6 +9963,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 187182,
+      "num": 234295,
+      "word": "张小婉团溢出屏幕的生命力",
+      "onboard_time": 1747988903,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187178,
       "num": 187178,
       "word": "ITTF",
@@ -9985,6 +10025,14 @@
       "onboard_time": 1747632205,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186564,
+      "num": 186564,
+      "word": "Lovecd道歉",
+      "onboard_time": 1747989383,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 186507,
@@ -10129,14 +10177,6 @@
       "onboard_time": 1747664668,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185067,
-      "num": 185067,
-      "word": "赵丽颖新剧和男主像黑夜和白天",
-      "onboard_time": 1747989024,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 184964,
@@ -10995,14 +11035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173310,
-      "num": 173310,
-      "word": "张小婉团溢出屏幕的生命力",
-      "onboard_time": 1747988903,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173287,
       "num": 173287,
       "word": "明治雪糕",
@@ -11025,6 +11057,14 @@
       "onboard_time": 1747746022,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173066,
+      "num": 253033,
+      "word": "王楚钦孙颖莎半决赛登场",
+      "onboard_time": 1747989202,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 172896,
@@ -11305,6 +11345,14 @@
       "onboard_time": 1747497082,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169149,
+      "num": 332605,
+      "word": "耐克撑不住涨价",
+      "onboard_time": 1747989024,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168968,
@@ -12147,6 +12195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159046,
+      "num": 335665,
+      "word": "传重庆一贪官祖坟挖出3公斤金砖",
+      "onboard_time": 1747987162,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158949,
       "num": 209977,
       "word": "韩素希戛纳白裙造型",
@@ -12257,6 +12313,14 @@
       "onboard_time": 1747697179,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 158239,
+      "num": 334770,
+      "word": "肖战回应新剧演致命男人",
+      "onboard_time": 1747988664,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 158228,
@@ -12939,14 +13003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151516,
-      "num": 151516,
-      "word": "Lovecd离队",
-      "onboard_time": 1747989144,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 151508,
       "num": 151508,
       "word": "TVB的刑侦剧我高低得看两眼",
@@ -13195,6 +13251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148539,
+      "num": 148539,
+      "word": "中方将坚定维护海外中国学生学者合法权益",
+      "onboard_time": 1747989985,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148525,
       "num": 148525,
       "word": "成都一小区像现实版玩具屋",
@@ -13265,6 +13329,14 @@
       "onboard_time": 1747982542,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147724,
+      "num": 147724,
+      "word": "蔡徐坤事件W女士被禁言",
+      "onboard_time": 1747986562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 147594,
@@ -13441,14 +13513,6 @@
       "onboard_time": 1747729642,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144863,
-      "num": 335665,
-      "word": "传重庆一贪官祖坟挖出3公斤金砖",
-      "onboard_time": 1747987162,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144835,
@@ -13633,6 +13697,14 @@
       "onboard_time": 1747810462,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142835,
+      "num": 186737,
+      "word": "孙颖莎像鲨鱼一样的凝视",
+      "onboard_time": 1747988482,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142691,
@@ -15035,6 +15107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127776,
+      "num": 334979,
+      "word": "承办方回应张学友演唱会撞期高考",
+      "onboard_time": 1747989024,
+      "rank": 16,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 127732,
       "num": 282095,
       "word": "日本百年银行巨亏1.8万亿",
@@ -16059,14 +16139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113450,
-      "num": 334770,
-      "word": "肖战回应新剧演致命男人",
-      "onboard_time": 1747988664,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113306,
       "num": 113306,
       "word": "孙颖莎冲击女单16强",
@@ -16145,14 +16217,6 @@
       "onboard_time": 1747557802,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112470,
-      "num": 184636,
-      "word": "孙颖莎像鲨鱼一样的凝视",
-      "onboard_time": 1747988482,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 112251,
@@ -16425,14 +16489,6 @@
       "onboard_time": 1747721301,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 108613,
-      "num": 332605,
-      "word": "耐克撑不住涨价",
-      "onboard_time": 1747989024,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108607,
@@ -16737,14 +16793,6 @@
       "onboard_time": 1747757544,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102842,
-      "num": 334979,
-      "word": "承办方回应张学友演唱会撞期高考",
-      "onboard_time": 1747989024,
-      "rank": 16,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 102800,
@@ -17603,6 +17651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90399,
+      "num": 335801,
+      "word": "是谁在搞娇牛马人设",
+      "onboard_time": 1747988664,
+      "rank": 12,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 90383,
       "num": 90383,
       "word": "不舒服就摔门走人",
@@ -18161,6 +18217,14 @@
       "onboard_time": 1747745783,
       "rank": 29,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 82240,
+      "num": 333924,
+      "word": "浙江文旅厅长回应给小学生回信写错字",
+      "onboard_time": 1747988963,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82102,
@@ -20611,14 +20675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45706,
-      "num": 335801,
-      "word": "是谁在搞娇牛马人设",
-      "onboard_time": 1747988664,
-      "rank": 12,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 45512,
       "num": 338653,
       "word": "原来藏海跟苏轼还有关系",
@@ -20753,14 +20809,6 @@
       "onboard_time": 1747743322,
       "rank": 28,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 43586,
-      "num": 333924,
-      "word": "浙江文旅厅长回应给小学生回信写错字",
-      "onboard_time": 1747988963,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43544,
@@ -21153,14 +21201,6 @@
       "onboard_time": 1747573882,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 39333,
-      "num": 225314,
-      "word": "王楚钦孙颖莎半决赛登场",
-      "onboard_time": 1747989202,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 39321,

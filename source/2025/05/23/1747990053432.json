@@ -1,0 +1,410 @@
+{
+  "runTime": 1747990053432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1673464,
+        "num": 1673464,
+        "word": "王楚钦孙颖莎VS林仲勋申裕斌",
+        "onboard_time": 1747987464,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1027111,
+        "num": 1027111,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 5190,
+        "num": 901371,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 854469,
+        "num": 854469,
+        "word": "剧组悬赏20000元寻找素材硬盘",
+        "onboard_time": 1747987402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786457,
+        "num": 786457,
+        "word": "黄杨钿甜删耳环照片",
+        "onboard_time": 1747982783,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693211,
+        "num": 693211,
+        "word": "易烊千玺李庚希吻戏",
+        "onboard_time": 1747982783,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 605650,
+        "num": 605650,
+        "word": "吴京车坏在高速路上",
+        "onboard_time": 1747989024,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501645,
+        "num": 501645,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390176,
+        "num": 390176,
+        "word": "19岁偷渡缅甸女子标价20多万",
+        "onboard_time": 1747977804,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127776,
+        "num": 313024,
+        "word": "承办方回应张学友演唱会撞期高考",
+        "onboard_time": 1747989024,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1021810,
+        "num": 312505,
+        "word": "事以密成 言以泄败",
+        "onboard_time": 1747982962,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587072,
+        "num": 310425,
+        "word": "以色列",
+        "onboard_time": 1747985361,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307079,
+        "num": 307079,
+        "word": "同事三年存了10万块",
+        "onboard_time": 1747975645,
+        "rank": 12,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 90399,
+        "num": 287474,
+        "word": "是谁在搞娇牛马人设",
+        "onboard_time": 1747988664,
+        "rank": 13,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 14826,
+        "num": 284852,
+        "word": "618首波美妆开箱",
+        "onboard_time": 1747987402,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 283210,
+        "num": 283210,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260246,
+        "num": 260246,
+        "word": "赵丽颖新剧和男主像黑夜和白天",
+        "onboard_time": 1747989024,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16383,
+        "num": 257574,
+        "word": "做心理咨询状态会好吗",
+        "onboard_time": 1747988182,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82240,
+        "num": 253866,
+        "word": "浙江文旅厅长回应给小学生回信写错字",
+        "onboard_time": 1747988963,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173066,
+        "num": 253033,
+        "word": "王楚钦孙颖莎半决赛登场",
+        "onboard_time": 1747989202,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578600,
+        "num": 248154,
+        "word": "金价",
+        "onboard_time": 1747986082,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115060,
+        "num": 244928,
+        "word": "华为nova14鸿蒙红包",
+        "onboard_time": 1747988482,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158239,
+        "num": 242221,
+        "word": "肖战回应新剧演致命男人",
+        "onboard_time": 1747988664,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264673,
+        "num": 236127,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235389,
+        "num": 235389,
+        "word": "跳水",
+        "onboard_time": 1747981941,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210602,
+        "num": 235059,
+        "word": "外交部回应美政府拿哈佛开刀",
+        "onboard_time": 1747987763,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188336,
+        "num": 234804,
+        "word": "姚晨发长文悼念朱媛媛",
+        "onboard_time": 1747981582,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187182,
+        "num": 234295,
+        "word": "张小婉团溢出屏幕的生命力",
+        "onboard_time": 1747988903,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169149,
+        "num": 233779,
+        "word": "耐克撑不住涨价",
+        "onboard_time": 1747989024,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11751,
+        "num": 233502,
+        "word": "哪些因素影响新能源车保值率",
+        "onboard_time": 1747989082,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 233184,
+        "num": 233184,
+        "word": "苏新皓被蟒蛇缠住腿",
+        "onboard_time": 1747977203,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211208,
+        "num": 211208,
+        "word": "Lovecd离队",
+        "onboard_time": 1747989144,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209588,
+        "num": 209588,
+        "word": "上海月薪6000一天花多少钱",
+        "onboard_time": 1747989563,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200707,
+        "num": 200707,
+        "word": "根本不介意被视奸",
+        "onboard_time": 1747979483,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194083,
+        "num": 194083,
+        "word": "易烊千玺全球首映礼前",
+        "onboard_time": 1747989383,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68954,
+        "num": 187066,
+        "word": "金价再下探",
+        "onboard_time": 1747984643,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142835,
+        "num": 186737,
+        "word": "孙颖莎像鲨鱼一样的凝视",
+        "onboard_time": 1747988482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186564,
+        "num": 186564,
+        "word": "Lovecd道歉",
+        "onboard_time": 1747989383,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177758,
+        "num": 177758,
+        "word": "终于明白什么是五代十国了",
+        "onboard_time": 1747985361,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172088,
+        "num": 172088,
+        "word": "张凌赫迪丽热巴兄妹俩的顶配基因",
+        "onboard_time": 1747987223,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170671,
+        "num": 170671,
+        "word": "外交部就日方抓扣台湾渔船严正交涉",
+        "onboard_time": 1747988722,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166971,
+        "num": 166971,
+        "word": "朱洁静春晚前放化疗25次",
+        "onboard_time": 1747970363,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160004,
+        "num": 160004,
+        "word": "哈佛大学国际学生占比27%以上",
+        "onboard_time": 1747986984,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159046,
+        "num": 159046,
+        "word": "传重庆一贪官祖坟挖出3公斤金砖",
+        "onboard_time": 1747987162,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154266,
+        "num": 154266,
+        "word": "202城被授予全国文明城市称号",
+        "onboard_time": 1747979301,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151156,
+        "num": 151156,
+        "word": "人均2百自助餐顾客吃出筷子粗的虫",
+        "onboard_time": 1747987822,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148539,
+        "num": 148539,
+        "word": "中方将坚定维护海外中国学生学者合法权益",
+        "onboard_time": 1747989985,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "股市",
+        "onboard_time": 1747985183,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72267,
+        "num": 147753,
+        "word": "这杯霸王茶姬有点轻",
+        "onboard_time": 1747984102,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147724,
+        "num": 147724,
+        "word": "蔡徐坤事件W女士被禁言",
+        "onboard_time": 1747986562,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
