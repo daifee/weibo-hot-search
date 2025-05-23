@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747992492758,
+  "endTime": 1747993343480,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -99,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1396113,
+      "num": 1396113,
+      "word": "正午阳光选角",
+      "onboard_time": 1747990703,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1364148,
       "num": 487659,
       "word": "曹颖患胃癌",
@@ -145,14 +153,6 @@
       "onboard_time": 1747974264,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 933014,
-      "num": 933014,
-      "word": "正午阳光选角",
-      "onboard_time": 1747990703,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 882502,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 506232,
-      "num": 283588,
+      "num": 332327,
       "word": "吉村真晴大藤沙月晋级混双决赛",
       "onboard_time": 1747990703,
       "rank": 32,
@@ -635,12 +635,28 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 317785,
+      "num": 233069,
+      "word": "上海月薪6000一天花多少钱",
+      "onboard_time": 1747989563,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314847,
       "num": 240560,
       "word": "陈奕迅露面",
       "onboard_time": 1747918102,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313206,
+      "num": 313206,
+      "word": "为何年轻人都不去KTV和SPA了",
+      "onboard_time": 1747986922,
+      "rank": 14,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 313096,
@@ -665,6 +681,14 @@
       "onboard_time": 1747965142,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 292746,
+      "num": 292746,
+      "word": "单依纯 只用天赋走不出成名路",
+      "onboard_time": 1747992682,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 288411,
@@ -697,6 +721,14 @@
       "onboard_time": 1747958121,
       "rank": 17,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 277404,
+      "num": 290314,
+      "word": "掉入化粪池遇难大学生今日下葬",
+      "onboard_time": 1747991963,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277170,
@@ -761,6 +793,14 @@
       "onboard_time": 1747969701,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247404,
+      "num": 247404,
+      "word": "戛纳7分钟是易烊千玺的7年",
+      "onboard_time": 1747992562,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 246391,
@@ -833,14 +873,6 @@
       "onboard_time": 1747984583,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "上海月薪6000一天花多少钱",
-      "onboard_time": 1747989563,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 229705,
@@ -1003,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213589,
+      "num": 284222,
+      "word": "全员加速中直播",
+      "onboard_time": 1747987822,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211208,
       "num": 287739,
       "word": "Lovecd离队",
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203541,
+      "num": 203541,
+      "word": "孙颖莎希望明天有个好的结果",
+      "onboard_time": 1747992442,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198524,
       "num": 187791,
       "word": "易烊千玺在掌声雷动里热泪盈眶",
@@ -1171,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192988,
+      "num": 201645,
+      "word": "陈永胜李昀锐 帅的有一套",
+      "onboard_time": 1747992983,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192862,
       "num": 192862,
       "word": "这个世界没祝绪丹在乎的人了吗",
@@ -1179,12 +1235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191917,
+      "num": 289155,
+      "word": "孙颖莎2小时后还有硬仗要打",
+      "onboard_time": 1747992144,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191757,
       "num": 191757,
       "word": "股市",
       "onboard_time": 1747985183,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191194,
+      "num": 191194,
+      "word": "姚晨反复听朱媛媛的语音",
+      "onboard_time": 1747993102,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 191100,
@@ -1315,6 +1387,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181717,
+      "num": 181717,
+      "word": "马嘉祺歌手直播上班",
+      "onboard_time": 1747992802,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180803,
+      "num": 191619,
+      "word": "王楚钦孙颖莎回应进决赛",
+      "onboard_time": 1747992922,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180483,
       "num": 180483,
       "word": "王楚钦孙颖莎3比0林仲勋申裕斌",
@@ -1347,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177862,
-      "num": 177862,
-      "word": "孙颖莎希望明天有个好的结果",
-      "onboard_time": 1747992442,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177150,
       "num": 177150,
       "word": "狂野时代",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1747968500,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176421,
+      "num": 191888,
+      "word": "解说称王楚钦有一击致命的能力",
+      "onboard_time": 1747992863,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 175932,
@@ -1411,11 +1499,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173309,
+      "num": 173309,
+      "word": "桃源深处有人家",
+      "onboard_time": 1747992742,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173066,
       "num": 253033,
       "word": "王楚钦孙颖莎半决赛登场",
       "onboard_time": 1747989202,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171463,
+      "num": 286820,
+      "word": "王曼昱蒯曼3比0肖瑶茜迪亚科努",
+      "onboard_time": 1747992203,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1603,6 +1707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153582,
+      "num": 153582,
+      "word": "杨天真带8个箱子开始留学生活",
+      "onboard_time": 1747993222,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153334,
       "num": 153334,
       "word": "全市场超3300个股上涨",
@@ -1625,14 +1737,6 @@
       "onboard_time": 1747967301,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149288,
-      "num": 284222,
-      "word": "全员加速中直播",
-      "onboard_time": 1747987822,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 149081,
@@ -1963,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121485,
+      "num": 524965,
+      "word": "共享单车上的小广告到底是谁贴的",
+      "onboard_time": 1747991183,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119681,
       "num": 119681,
       "word": "强烈谴责澳针对中国公民暴力行为",
@@ -2049,14 +2161,6 @@
       "onboard_time": 1747930222,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111550,
-      "num": 289155,
-      "word": "孙颖莎2小时后还有硬仗要打",
-      "onboard_time": 1747992144,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 111529,
@@ -2193,6 +2297,14 @@
       "onboard_time": 1747976666,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98276,
+      "num": 287259,
+      "word": "男子刺死女幼师被鉴定有精神疾病",
+      "onboard_time": 1747992322,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97735,
@@ -2355,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83519,
+      "num": 220206,
+      "word": "99年末出生的人也挺委屈的",
+      "onboard_time": 1747990464,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83415,
       "num": 83415,
       "word": "孙颖莎说赢第六局有些侥幸",
@@ -2411,28 +2531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79420,
-      "num": 300552,
-      "word": "为何年轻人都不去KTV和SPA了",
-      "onboard_time": 1747986922,
-      "rank": 14,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 78989,
       "num": 310649,
       "word": "森林狼退无可退",
       "onboard_time": 1747978582,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78060,
-      "num": 524965,
-      "word": "共享单车上的小广告到底是谁贴的",
-      "onboard_time": 1747991183,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 78021,
@@ -2457,14 +2561,6 @@
       "onboard_time": 1747912103,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 71910,
-      "num": 220206,
-      "word": "99年末出生的人也挺委屈的",
-      "onboard_time": 1747990464,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71298,
@@ -2513,14 +2609,6 @@
       "onboard_time": 1747971503,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 65817,
-      "num": 290314,
-      "word": "掉入化粪池遇难大学生今日下葬",
-      "onboard_time": 1747991963,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65192,
@@ -2659,14 +2747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45922,
-      "num": 286820,
-      "word": "王曼昱蒯曼3比0肖瑶茜迪亚科努",
-      "onboard_time": 1747992203,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45781,
       "num": 152208,
       "word": "胡锡进称社会应加强人文教育",
@@ -2803,6 +2883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 35064,
+      "num": 284684,
+      "word": "截瘫网红称前夫曾涉猥亵案被拘",
+      "onboard_time": 1747992083,
+      "rank": 29,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 34427,
       "num": 214751,
       "word": "高考前连倒计时都是题",
@@ -2865,6 +2953,14 @@
       "onboard_time": 1747938017,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30668,
+      "num": 286202,
+      "word": "心理健康的10大标准",
+      "onboard_time": 1747991842,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 29383,
@@ -2931,14 +3027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26991,
-      "num": 284684,
-      "word": "截瘫网红称前夫曾涉猥亵案被拘",
-      "onboard_time": 1747992083,
-      "rank": 29,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 26801,
       "num": 378471,
       "word": "带埃文凯尔吃个把子肉",
@@ -2985,14 +3073,6 @@
       "onboard_time": 1747971983,
       "rank": 26,
       "category": "其它"
-    },
-    {
-      "raw_hot": 22449,
-      "num": 286202,
-      "word": "心理健康的10大标准",
-      "onboard_time": 1747991842,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 21487,
@@ -3099,14 +3179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17049,
-      "num": 287259,
-      "word": "男子刺死女幼师被鉴定有精神疾病",
-      "onboard_time": 1747992322,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16040,
       "num": 286002,
       "word": "放射检查费降价都包括哪些项目",
@@ -3179,6 +3251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 11522,
+      "num": 286641,
+      "word": "车企倒闭后车主该如何维权",
+      "onboard_time": 1747991782,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 10639,
       "num": 166065,
       "word": "山区支教老师的一天",
@@ -3195,14 +3275,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 10115,
-      "num": 286641,
-      "word": "车企倒闭后车主该如何维权",
-      "onboard_time": 1747991782,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 10080,
       "num": 192003,
       "word": "武汉大学附近积水已消退",
@@ -3217,6 +3289,14 @@
       "onboard_time": 1747735641,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7202,
+      "num": 201732,
+      "word": "选家电该如何平衡能耗与性能",
+      "onboard_time": 1747992682,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 4777,
@@ -3247,6 +3327,9 @@
     },
     {
       "word": "#习近平同法国总统马克龙通电话#"
+    },
+    {
+      "word": "#推动精神文明建设高质量发展#"
     }
   ]
 }
