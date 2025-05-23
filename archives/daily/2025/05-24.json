@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748035326194,
+  "endTime": 1748036291878,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 182609,
-      "num": 182609,
+      "num": 189127,
       "word": "暴雨暴雨小心暴雨暴雨",
       "onboard_time": 1748020518,
       "rank": 38,
@@ -419,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80752,
+      "num": 80752,
+      "word": "恩利庾澄庆 子承父逆",
+      "onboard_time": 1748004867,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80437,
       "num": 181101,
       "word": "王楚钦4比0林昀儒",
       "onboard_time": 1748014104,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73412,
-      "num": 78922,
-      "word": "恩利庾澄庆 子承父逆",
-      "onboard_time": 1748004867,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 72412,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49269,
+      "num": 49269,
+      "word": "莫雷加德vs户上隼辅",
+      "onboard_time": 1748028254,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47537,
       "num": 78878,
       "word": "美取消哈佛留学生合法身份行为被叫停",
@@ -553,14 +561,6 @@
       "onboard_time": 1748033415,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35182,
-      "num": 35182,
-      "word": "莫雷加德vs户上隼辅",
-      "onboard_time": 1748028254,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 32763,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26051,
+      "num": 26051,
+      "word": "好听",
+      "onboard_time": 1748035695,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25352,
       "num": 28999,
       "word": "周深穿针引线天赋好强",
@@ -651,12 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19286,
+      "raw_hot": 21370,
       "num": 21670,
       "word": "捏捏 甲醛超标",
       "onboard_time": 1748030954,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17247,
+      "num": 18165,
+      "word": "中餐厅把黑龙江标注到江浙沪区域",
+      "onboard_time": 1748035934,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 15821,
@@ -675,8 +691,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 8507,
-      "num": 110195,
+      "raw_hot": 8693,
+      "num": 135899,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 2,
