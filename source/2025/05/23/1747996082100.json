@@ -1,0 +1,410 @@
+{
+  "runTime": 1747996082100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2263104,
+        "num": 2263104,
+        "word": "朱媛媛因病改名",
+        "onboard_time": 1747993703,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500141,
+        "num": 500141,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 39567,
+        "num": 427328,
+        "word": "数说我国外贸亮眼成绩单",
+        "onboard_time": 1747993941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1223464,
+        "num": 423303,
+        "word": "正午阳光选角",
+        "onboard_time": 1747990703,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364918,
+        "num": 364918,
+        "word": "女总裁视频2天暴涨8万粉",
+        "onboard_time": 1747994003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333949,
+        "num": 333949,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530107,
+        "num": 333944,
+        "word": "鹿晗四巡官宣",
+        "onboard_time": 1747995683,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 526192,
+        "num": 333905,
+        "word": "黄杨钿甜删耳环照片",
+        "onboard_time": 1747982783,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333668,
+        "num": 333668,
+        "word": "孙颖莎王楚钦进决赛",
+        "onboard_time": 1747990344,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318239,
+        "num": 318239,
+        "word": "离铁轨0.8米的房子住了44年",
+        "onboard_time": 1747989863,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 507365,
+        "num": 316077,
+        "word": "事以密成 言以泄败",
+        "onboard_time": 1747982962,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 489964,
+        "num": 309620,
+        "word": "单依纯 只用天赋走不出成名路",
+        "onboard_time": 1747992682,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477387,
+        "num": 306275,
+        "word": "王楚钦孙颖莎VS林仲勋申裕斌",
+        "onboard_time": 1747987464,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477161,
+        "num": 302541,
+        "word": "掉入化粪池遇难大学生今日下葬",
+        "onboard_time": 1747991963,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431836,
+        "num": 293945,
+        "word": "男子刺死女幼师被鉴定有精神疾病",
+        "onboard_time": 1747992322,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394161,
+        "num": 289438,
+        "word": "陈奕迅评论区 老公刚出生三天好嫩",
+        "onboard_time": 1747995202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363150,
+        "num": 284006,
+        "word": "易烊千玺李庚希吻戏",
+        "onboard_time": 1747982783,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30086,
+        "num": 281281,
+        "word": "空腹喝牛奶对健康有害吗",
+        "onboard_time": 1747994482,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22642,
+        "num": 275388,
+        "word": "59岁保洁员猝死家属称难认定工伤",
+        "onboard_time": 1747995083,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14987,
+        "num": 266604,
+        "word": "咖啡因的好与坏都有哪些",
+        "onboard_time": 1747995442,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172078,
+        "num": 263203,
+        "word": "马嘉祺歌手直播上班",
+        "onboard_time": 1747992802,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682216,
+        "num": 258358,
+        "word": "上海月薪6000一天花多少钱",
+        "onboard_time": 1747989563,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320382,
+        "num": 250670,
+        "word": "戛纳7分钟是易烊千玺的7年",
+        "onboard_time": 1747992562,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250662,
+        "num": 250662,
+        "word": "周雨彤 谍报上不封顶",
+        "onboard_time": 1747995021,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234050,
+        "num": 239657,
+        "word": "孙颖莎王楚钦刚赢完就去训练了",
+        "onboard_time": 1747995744,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238815,
+        "num": 238815,
+        "word": "剧组悬赏20000元寻找素材硬盘",
+        "onboard_time": 1747987402,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238520,
+        "num": 238520,
+        "word": "姚晨反复听朱媛媛的语音",
+        "onboard_time": 1747993102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33580,
+        "num": 238158,
+        "word": "胃要经过适当磨练才能更强壮",
+        "onboard_time": 1747995381,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38164,
+        "num": 236841,
+        "word": "网上买狗到手品种变了性别也变了",
+        "onboard_time": 1747995202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79648,
+        "num": 236217,
+        "word": "知情人谈悉尼多名青少年殴打华人夫妇",
+        "onboard_time": 1747995683,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34924,
+        "num": 235081,
+        "word": "美伊谈判破裂对以伊冲突有什么影响",
+        "onboard_time": 1747993583,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235048,
+        "num": 235048,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232434,
+        "num": 232434,
+        "word": "财经博主分析虞书欣爸爸公司",
+        "onboard_time": 1747996041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219592,
+        "num": 219592,
+        "word": "吴京车坏在高速路上",
+        "onboard_time": 1747989024,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216159,
+        "num": 216159,
+        "word": "退房退了10天",
+        "onboard_time": 1747992083,
+        "rank": 34,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 203949,
+        "num": 203949,
+        "word": "梁王",
+        "onboard_time": 1747995202,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146948,
+        "num": 203778,
+        "word": "歌手首轮揭榜赛",
+        "onboard_time": 1747992322,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56775,
+        "num": 203696,
+        "word": "老祖宗的审美有多厉害",
+        "onboard_time": 1747994482,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203648,
+        "num": 203648,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41930,
+        "num": 198283,
+        "word": "脏增肌30天身体发生了什么变化",
+        "onboard_time": 1747995744,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196238,
+        "num": 196238,
+        "word": "关晓彤冷艳姐感",
+        "onboard_time": 1747995202,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184312,
+        "num": 184312,
+        "word": "杨天真带8个箱子开始留学生活",
+        "onboard_time": 1747993222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171572,
+        "num": 171572,
+        "word": "黄觉 走了一个费可来了一个藏海",
+        "onboard_time": 1747994603,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164418,
+        "num": 164418,
+        "word": "吴宣仪唱商好高",
+        "onboard_time": 1747995923,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160480,
+        "num": 160480,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1747994183,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151368,
+        "num": 151368,
+        "word": "157万元现金无人认领逾期将上缴国库",
+        "onboard_time": 1747993763,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148351,
+        "num": 148351,
+        "word": "月薪3万意味着每天能有1000块",
+        "onboard_time": 1747995982,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141162,
+        "num": 141162,
+        "word": "吉村真晴大藤沙月晋级混双决赛",
+        "onboard_time": 1747990703,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86658,
+        "num": 139648,
+        "word": "Lovecd道歉",
+        "onboard_time": 1747989383,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对精神文明建设工作作出重要指示#"
+    }
+  }
+}
