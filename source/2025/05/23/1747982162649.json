@@ -1,0 +1,410 @@
+{
+  "runTime": 1747982162649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020484,
+        "num": 1163277,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 967643,
+        "num": 967643,
+        "word": "苏新皓被蟒蛇缠住腿",
+        "onboard_time": 1747977203,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1591,
+        "num": 815724,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794857,
+        "num": 794857,
+        "word": "19岁偷渡缅甸女子标价20多万",
+        "onboard_time": 1747977804,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700388,
+        "num": 700388,
+        "word": "同事三年存了10万块",
+        "onboard_time": 1747975645,
+        "rank": 4,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 498270,
+        "num": 498270,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469042,
+        "num": 469042,
+        "word": "朱洁静春晚前放化疗25次",
+        "onboard_time": 1747970363,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2194,
+        "num": 376649,
+        "word": "中国制造的百年回响",
+        "onboard_time": 1747914623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358428,
+        "num": 358428,
+        "word": "记者卧底揭缅甸女子买卖黑幕",
+        "onboard_time": 1747975163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114097,
+        "num": 356773,
+        "word": "202城被授予全国文明城市称号",
+        "onboard_time": 1747979301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1258262,
+        "num": 353022,
+        "word": "黄杨钿甜父亲入职离职动机可疑",
+        "onboard_time": 1747974984,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423780,
+        "num": 350006,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385227,
+        "num": 344834,
+        "word": "无忧渡",
+        "onboard_time": 1747980623,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344562,
+        "num": 344562,
+        "word": "肖战谈与黄觉第一场对手戏",
+        "onboard_time": 1747971022,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29383,
+        "num": 341014,
+        "word": "百万平方公里干旱下的农户",
+        "onboard_time": 1747980563,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338384,
+        "num": 338384,
+        "word": "国家话剧院再发长文70余人追忆朱媛媛",
+        "onboard_time": 1747978703,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331455,
+        "num": 331455,
+        "word": "橘子 严浩翔",
+        "onboard_time": 1747975105,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267111,
+        "num": 330132,
+        "word": "根本不介意被视奸",
+        "onboard_time": 1747979483,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71298,
+        "num": 329105,
+        "word": "白举纲一开口倔强感拉满",
+        "onboard_time": 1747981343,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144835,
+        "num": 328975,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 328929,
+        "num": 328929,
+        "word": "人民网评藏海传打破爽剧框架",
+        "onboard_time": 1747973723,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5172,
+        "num": 287016,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284833,
+        "num": 284833,
+        "word": "姚晨发长文悼念朱媛媛",
+        "onboard_time": 1747981582,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270743,
+        "num": 270743,
+        "word": "赵丽颖 赵德胤",
+        "onboard_time": 1747968500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17214,
+        "num": 260691,
+        "word": "缅甸女子贩卖网络如何筛选目标",
+        "onboard_time": 1747981883,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255880,
+        "num": 255880,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244448,
+        "num": 244448,
+        "word": "雷军转发极客湾全网首拆视频",
+        "onboard_time": 1747980141,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242905,
+        "num": 242905,
+        "word": "哈佛留学生何去何从",
+        "onboard_time": 1747977623,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20373,
+        "num": 222213,
+        "word": "中国留学生及妻子在澳遭多人殴打",
+        "onboard_time": 1747980563,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31353,
+        "num": 214946,
+        "word": "折腰6.4豆瓣分合理吗",
+        "onboard_time": 1747981343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210017,
+        "num": 210017,
+        "word": "哈佛硬刚美政府",
+        "onboard_time": 1747972763,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204991,
+        "num": 204991,
+        "word": "内娱首部水仙剧终于来了",
+        "onboard_time": 1747969882,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167653,
+        "num": 204886,
+        "word": "易烊千玺眼中含泪",
+        "onboard_time": 1747981463,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204848,
+        "num": 204848,
+        "word": "肖战回应歪嘴笑",
+        "onboard_time": 1747981403,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192591,
+        "num": 192591,
+        "word": "原来胃是一层层破洞的",
+        "onboard_time": 1747979483,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190764,
+        "num": 190764,
+        "word": "蔡徐坤换了微博头像",
+        "onboard_time": 1747977983,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190001,
+        "num": 190001,
+        "word": "浪姐五公",
+        "onboard_time": 1747980982,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198524,
+        "num": 187791,
+        "word": "易烊千玺在掌声雷动里热泪盈眶",
+        "onboard_time": 1747981522,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44994,
+        "num": 185572,
+        "word": "胡锡进评黄杨钿甜坑爹第二幕",
+        "onboard_time": 1747973003,
+        "rank": 38,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 183909,
+        "num": 183909,
+        "word": "马嘉祺分享当队长最大的烦恼",
+        "onboard_time": 1747981522,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182843,
+        "num": 182843,
+        "word": "蛮蛮一劭初吻来了",
+        "onboard_time": 1747972343,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98971,
+        "num": 180670,
+        "word": "魏劭又怎么了我的大小姐",
+        "onboard_time": 1747980743,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179874,
+        "num": 179874,
+        "word": "求一份刺痛的减肥秘籍",
+        "onboard_time": 1747981103,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179367,
+        "num": 179367,
+        "word": "跳水",
+        "onboard_time": 1747981941,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178920,
+        "num": 178920,
+        "word": "医生提醒4个时段不宜洗澡",
+        "onboard_time": 1747972283,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168527,
+        "num": 168527,
+        "word": "特朗普这是要废了哈佛啊",
+        "onboard_time": 1747968380,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152612,
+        "num": 152612,
+        "word": "中年失业后领取失业金会怎么样",
+        "onboard_time": 1747980202,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151717,
+        "num": 151717,
+        "word": "内娱史上最难音综出现了",
+        "onboard_time": 1747979602,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140913,
+        "num": 140913,
+        "word": "全国医院放射检查费大降价",
+        "onboard_time": 1747977864,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 133701,
+        "num": 133701,
+        "word": "黄金比特币创新高",
+        "onboard_time": 1747981701,
+        "rank": 49,
+        "category": "财经,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#作风建设永远在路上#"
+    }
+  }
+}
