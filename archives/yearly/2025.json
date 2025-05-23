@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748007318485,
+  "endTime": 1748007982117,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1083,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6818575,
+      "num": 6818575,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4974304,
-      "num": 4974304,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 4918196,
@@ -1963,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3536495,
+      "num": 425517,
+      "word": "马嘉祺做得好",
+      "onboard_time": 1748007871,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3533705,
       "num": 3533705,
       "word": "国足vs澳大利亚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740323242,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3200361,
-      "num": 678347,
-      "word": "吒儿冲破100亿倒计时",
-      "onboard_time": 1739434161,
-      "rank": 25,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

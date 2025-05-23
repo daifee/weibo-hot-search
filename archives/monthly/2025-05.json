@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748007318485,
+  "endTime": 1748007982117,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -155,19 +155,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6818575,
+      "num": 6818575,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
       "onboard_time": 1748004505,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4974304,
-      "num": 4974304,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -232,6 +232,14 @@
       "word": "中餐厅9得罪了半个中国的人",
       "onboard_time": 1747969582,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3536495,
+      "num": 425517,
+      "word": "马嘉祺做得好",
+      "onboard_time": 1748007871,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2142792,
+      "num": 369744,
+      "word": "马嘉祺揭榜白举纲",
+      "onboard_time": 1748007507,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2141122,
       "num": 2141122,
       "word": "王楚钦球拍胶皮被人揭开了",
@@ -1179,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1833508,
+      "num": 345146,
+      "word": "白举纲好听",
+      "onboard_time": 1748007211,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1830513,
       "num": 1830513,
       "word": "王楚钦孙颖莎vs松岛辉空张本美和",
@@ -1299,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1738748,
+      "num": 417802,
+      "word": "单依纯收手吧",
+      "onboard_time": 1748005769,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1734259,
       "num": 1734259,
       "word": "高退款人群屏蔽",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1747812743,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1713978,
-      "num": 417802,
-      "word": "单依纯收手吧",
-      "onboard_time": 1748005769,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1713600,
@@ -4787,6 +4811,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 959771,
+      "num": 351386,
+      "word": "朱媛媛最后的朋友圈",
+      "onboard_time": 1748005887,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959226,
       "num": 455637,
       "word": "财不外露",
@@ -6049,14 +6081,6 @@
       "onboard_time": 1747713501,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 820477,
-      "num": 351386,
-      "word": "朱媛媛最后的朋友圈",
-      "onboard_time": 1748005887,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 818243,
@@ -7827,14 +7851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 699159,
-      "num": 342035,
-      "word": "白举纲好听",
-      "onboard_time": 1748007211,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 698721,
       "num": 698721,
       "word": "王艺迪vs伊藤美诚",
@@ -8033,6 +8049,14 @@
       "onboard_time": 1747523957,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687493,
+      "num": 687493,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 686071,
@@ -8449,14 +8473,6 @@
       "onboard_time": 1747738220,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 656239,
-      "num": 656239,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1748005228,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 656010,
@@ -9067,6 +9083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624857,
+      "num": 279385,
+      "word": "歌手 剧本",
+      "onboard_time": 1748007571,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624250,
       "num": 624250,
       "word": "不要在路边摊随便买东西吃了",
@@ -9385,6 +9409,14 @@
       "onboard_time": 1746319160,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 609449,
+      "num": 340250,
+      "word": "GAI选歌",
+      "onboard_time": 1748007089,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 609301,
@@ -10347,6 +10379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 572611,
+      "num": 284058,
+      "word": "单依纯说要谨言慎行",
+      "onboard_time": 1748007751,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572524,
       "num": 1797609,
       "word": "国防部奉劝有关国家不要引狼入室",
@@ -11267,6 +11307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 530302,
+      "num": 340641,
+      "word": "赵丽颖换摄影师了",
+      "onboard_time": 1748006847,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530158,
       "num": 530158,
       "word": "于正想找肖战拍戏",
@@ -11800,14 +11848,6 @@
       "word": "石凯前女友称订婚是AA",
       "onboard_time": 1746152729,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 506327,
-      "num": 340641,
-      "word": "赵丽颖换摄影师了",
-      "onboard_time": 1748006847,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -13057,6 +13097,14 @@
       "onboard_time": 1746835159,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 465565,
+      "num": 280097,
+      "word": "福禄寿原唱",
+      "onboard_time": 1748006968,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 465277,
@@ -16675,6 +16723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364453,
+      "num": 364453,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 364245,
       "num": 504676,
       "word": "郑州有单位强制在编人员捐款",
@@ -17835,14 +17891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 340250,
-      "num": 340250,
-      "word": "GAI选歌",
-      "onboard_time": 1748007089,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340159,
       "num": 340159,
       "word": "高圆圆自拍哇声一片",
@@ -17969,6 +18017,14 @@
       "onboard_time": 1746713545,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 337763,
+      "num": 271747,
+      "word": "肖战追着藏海传制片人聊演技",
+      "onboard_time": 1748007629,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 337693,
@@ -18897,14 +18953,6 @@
       "onboard_time": 1747898062,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316555,
-      "num": 316555,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316551,
@@ -23043,14 +23091,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261285,
-      "num": 261285,
-      "word": "福禄寿原唱",
-      "onboard_time": 1748006968,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261159,
       "num": 629462,
       "word": "流失美国79年的2卷帛书要回家了",
@@ -24219,6 +24259,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 248743,
+      "num": 248743,
+      "word": "黄觉称以粉丝身份奔赴藏海传",
+      "onboard_time": 1748006727,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248689,
       "num": 248689,
       "word": "原来广东烧鹅左腿最好吃",
@@ -24537,14 +24585,6 @@
       "onboard_time": 1746616462,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 245674,
-      "num": 226773,
-      "word": "黄觉称以粉丝身份奔赴藏海传",
-      "onboard_time": 1748006727,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 245665,
@@ -27747,6 +27787,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 218785,
+      "num": 349704,
+      "word": "张馨予说送粉丝的礼物被出售",
+      "onboard_time": 1748006309,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218778,
       "num": 321119,
       "word": "西安临潼当街踢打妻子男子被行拘",
@@ -29425,6 +29473,14 @@
       "onboard_time": 1746952162,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208827,
+      "num": 367367,
+      "word": "王鹤棣完全沉浸在撕名牌的艺术里",
+      "onboard_time": 1748007571,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 208742,
@@ -32508,7 +32564,7 @@
     },
     {
       "raw_hot": 198727,
-      "num": 198727,
+      "num": 274353,
       "word": "凤阳分管副县长被停职检查",
       "onboard_time": 1748004568,
       "rank": 47,
@@ -34675,6 +34731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192382,
+      "num": 213529,
+      "word": "孙颖莎回应逆转大藤沙月",
+      "onboard_time": 1748007871,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192380,
       "num": 277802,
       "word": "王楚钦说不会给自己定多高的目标",
@@ -34841,14 +34905,6 @@
       "onboard_time": 1747801768,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191926,
-      "num": 349704,
-      "word": "张馨予说送粉丝的礼物被出售",
-      "onboard_time": 1748006309,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 191917,
@@ -35265,6 +35321,14 @@
       "onboard_time": 1747545031,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190801,
+      "num": 210888,
+      "word": "第一次对一个游戏这么讨厌",
+      "onboard_time": 1748007871,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 190799,
@@ -37193,6 +37257,14 @@
       "onboard_time": 1747713983,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185569,
+      "num": 208936,
+      "word": "王楚钦孙颖莎混双大满贯的球",
+      "onboard_time": 1748007331,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 185530,
@@ -72331,6 +72403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68259,
+      "num": 340712,
+      "word": "陈楚生回应能第二",
+      "onboard_time": 1748007690,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68248,
       "num": 605629,
       "word": "出走的决心原型亮相戛纳",
@@ -74995,6 +75075,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 55751,
+      "num": 352283,
+      "word": "花样百出的中式养生水已经卖不动了",
+      "onboard_time": 1748006968,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55720,
       "num": 353676,
       "word": "五一假期最后一天立夏",
@@ -77307,6 +77395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45886,
+      "num": 273596,
+      "word": "中国科学家实现闭着眼看东西",
+      "onboard_time": 1748007751,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45853,
       "num": 194707,
       "word": "王楚钦回应鹰眼挑战成功",
@@ -78065,14 +78161,6 @@
       "onboard_time": 1747478002,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 352283,
-      "word": "花样百出的中式养生水已经卖不动了",
-      "onboard_time": 1748006968,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43335,
@@ -88771,6 +88859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13331,
+      "num": 344997,
+      "word": "山区支教老师的一天",
+      "onboard_time": 1747978823,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 13308,
       "num": 22084,
       "word": "房东的猫演唱会嘉宾是郁可唯",
@@ -89801,14 +89897,6 @@
       "onboard_time": 1747669222,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10639,
-      "num": 344997,
-      "word": "山区支教老师的一天",
-      "onboard_time": 1747978823,
-      "rank": 38,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 10620,

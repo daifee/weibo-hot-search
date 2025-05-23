@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748007318485,
+  "endTime": 1748007982117,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -75,19 +75,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6818575,
+      "num": 6818575,
+      "word": "歌手直播",
+      "onboard_time": 1747999823,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
       "onboard_time": 1748004505,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 4974304,
-      "num": 4974304,
-      "word": "歌手直播",
-      "onboard_time": 1747999823,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -104,6 +104,22 @@
       "word": "中餐厅9得罪了半个中国的人",
       "onboard_time": 1747969582,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3536495,
+      "num": 425517,
+      "word": "马嘉祺做得好",
+      "onboard_time": 1748007871,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3357538,
+      "num": 519322,
+      "word": "难听",
+      "onboard_time": 1748004988,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1747925367,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2960185,
-      "num": 519322,
-      "word": "难听",
-      "onboard_time": 1748004988,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2955371,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2142792,
+      "num": 369744,
+      "word": "马嘉祺揭榜白举纲",
+      "onboard_time": 1748007507,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2141122,
       "num": 2141122,
       "word": "王楚钦球拍胶皮被人揭开了",
@@ -435,6 +451,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 1833508,
+      "num": 345146,
+      "word": "白举纲好听",
+      "onboard_time": 1748007211,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1830513,
       "num": 1830513,
       "word": "王楚钦孙颖莎vs松岛辉空张本美和",
@@ -467,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1738748,
+      "num": 417802,
+      "word": "单依纯收手吧",
+      "onboard_time": 1748005769,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1731165,
       "num": 1731165,
       "word": "深圳警方通报男子地铁口附近打人",
@@ -489,14 +521,6 @@
       "onboard_time": 1747812743,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1713978,
-      "num": 417802,
-      "word": "单依纯收手吧",
-      "onboard_time": 1748005769,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1710092,
@@ -1491,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959771,
+      "num": 351386,
+      "word": "朱媛媛最后的朋友圈",
+      "onboard_time": 1748005887,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959226,
       "num": 455637,
       "word": "财不外露",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1747713501,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 820477,
-      "num": 351386,
-      "word": "朱媛媛最后的朋友圈",
-      "onboard_time": 1748005887,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 817323,
@@ -2395,14 +2419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 699159,
-      "num": 342035,
-      "word": "白举纲好听",
-      "onboard_time": 1748007211,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 698721,
       "num": 698721,
       "word": "王艺迪vs伊藤美诚",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1747523957,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 687493,
+      "num": 687493,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 682216,
@@ -2577,14 +2601,6 @@
       "onboard_time": 1747738220,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 656239,
-      "num": 656239,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1748005228,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 654710,
@@ -2747,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624857,
+      "num": 279385,
+      "word": "歌手 剧本",
+      "onboard_time": 1748007571,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623460,
       "num": 488860,
       "word": "被亲叔叔侵害7年的男生发声",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1747925427,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609449,
+      "num": 340250,
+      "word": "GAI选歌",
+      "onboard_time": 1748007089,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 608041,
@@ -3113,6 +3145,14 @@
       "onboard_time": 1747818261,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 572611,
+      "num": 284058,
+      "word": "单依纯说要谨言慎行",
+      "onboard_time": 1748007751,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 570627,
@@ -3419,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530302,
+      "num": 340641,
+      "word": "赵丽颖换摄影师了",
+      "onboard_time": 1748006847,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530158,
       "num": 530158,
       "word": "于正想找肖战拍戏",
@@ -3504,14 +3552,6 @@
       "word": "珠宝鉴定师说耳环不太像正品",
       "onboard_time": 1747661365,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 506327,
-      "num": 340641,
-      "word": "赵丽颖换摄影师了",
-      "onboard_time": 1748006847,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -3857,6 +3897,14 @@
       "onboard_time": 1747928245,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465565,
+      "num": 280097,
+      "word": "福禄寿原唱",
+      "onboard_time": 1748006968,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 464629,
@@ -4731,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364453,
+      "num": 364453,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362792,
       "num": 362792,
       "word": "地铁口附近打人男子曾确诊精神分裂",
@@ -5051,14 +5107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340250,
-      "num": 340250,
-      "word": "GAI选歌",
-      "onboard_time": 1748007089,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 340031,
       "num": 340031,
       "word": "多哈世乒赛组织混乱缩影",
@@ -5089,6 +5137,14 @@
       "onboard_time": 1747978703,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337763,
+      "num": 271747,
+      "word": "肖战追着藏海传制片人聊演技",
+      "onboard_time": 1748007629,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 337621,
@@ -5321,14 +5377,6 @@
       "onboard_time": 1747898062,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316555,
-      "num": 316555,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316286,
@@ -6523,14 +6571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261285,
-      "num": 261285,
-      "word": "福禄寿原唱",
-      "onboard_time": 1748006968,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260959,
       "num": 260959,
       "word": "15个锻炼大脑的方法",
@@ -6787,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248743,
+      "num": 248743,
+      "word": "黄觉称以粉丝身份奔赴藏海传",
+      "onboard_time": 1748006727,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248613,
       "num": 508809,
       "word": "辽宁鞍山22年前父子遇害案侦破",
@@ -6873,14 +6921,6 @@
       "onboard_time": 1747552940,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245674,
-      "num": 226773,
-      "word": "黄觉称以粉丝身份奔赴藏海传",
-      "onboard_time": 1748006727,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 245414,
@@ -8035,6 +8075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 218785,
+      "num": 349704,
+      "word": "张馨予说送粉丝的礼物被出售",
+      "onboard_time": 1748006309,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218570,
       "num": 218570,
       "word": "厦门诞生一位千万富翁",
@@ -8689,6 +8737,14 @@
       "onboard_time": 1747909704,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208827,
+      "num": 367367,
+      "word": "王鹤棣完全沉浸在撕名牌的艺术里",
+      "onboard_time": 1748007571,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 208742,
@@ -9532,7 +9588,7 @@
     },
     {
       "raw_hot": 198727,
-      "num": 198727,
+      "num": 274353,
       "word": "凤阳分管副县长被停职检查",
       "onboard_time": 1748004568,
       "rank": 47,
@@ -10155,6 +10211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192382,
+      "num": 213529,
+      "word": "孙颖莎回应逆转大藤沙月",
+      "onboard_time": 1748007871,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192350,
       "num": 192350,
       "word": "猴群骚扰糟蹋庄稼致村民弃种搬家",
@@ -10201,14 +10265,6 @@
       "onboard_time": 1747801768,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191926,
-      "num": 349704,
-      "word": "张馨予说送粉丝的礼物被出售",
-      "onboard_time": 1748006309,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 191917,
@@ -10369,6 +10425,14 @@
       "onboard_time": 1747545031,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190801,
+      "num": 210888,
+      "word": "第一次对一个游戏这么讨厌",
+      "onboard_time": 1748007871,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 190765,
@@ -10921,6 +10985,14 @@
       "onboard_time": 1747713983,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185569,
+      "num": 208936,
+      "word": "王楚钦孙颖莎混双大满贯的球",
+      "onboard_time": 1748007331,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 185474,
@@ -20291,6 +20363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68259,
+      "num": 340712,
+      "word": "陈楚生回应能第二",
+      "onboard_time": 1748007690,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68231,
       "num": 68231,
       "word": "高热量垃圾食品的解药",
@@ -21147,6 +21227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55751,
+      "num": 352283,
+      "word": "花样百出的中式养生水已经卖不动了",
+      "onboard_time": 1748006968,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55699,
       "num": 249336,
       "word": "摸腿拘10天是玩笑还是警告",
@@ -21827,6 +21915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45886,
+      "num": 273596,
+      "word": "中国科学家实现闭着眼看东西",
+      "onboard_time": 1748007751,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45853,
       "num": 194707,
       "word": "王楚钦回应鹰眼挑战成功",
@@ -22025,14 +22121,6 @@
       "onboard_time": 1747905682,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 352283,
-      "word": "花样百出的中式养生水已经卖不动了",
-      "onboard_time": 1748006968,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43252,
@@ -25707,6 +25795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13331,
+      "num": 344997,
+      "word": "山区支教老师的一天",
+      "onboard_time": 1747978823,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 13308,
       "num": 22084,
       "word": "房东的猫演唱会嘉宾是郁可唯",
@@ -26017,14 +26113,6 @@
       "onboard_time": 1747669222,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10639,
-      "num": 344997,
-      "word": "山区支教老师的一天",
-      "onboard_time": 1747978823,
-      "rank": 38,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 10620,

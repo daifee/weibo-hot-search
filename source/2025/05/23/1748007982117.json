@@ -1,0 +1,410 @@
+{
+  "runTime": 1748007982117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7670829,
+        "num": 7670829,
+        "word": "陈楚生 高音没声",
+        "onboard_time": 1748003605,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6818575,
+        "num": 6818575,
+        "word": "歌手直播",
+        "onboard_time": 1747999823,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40774,
+        "num": 2381636,
+        "word": "数说我国外贸亮眼成绩单",
+        "onboard_time": 1747993941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687493,
+        "num": 687493,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1748005228,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537460,
+        "num": 537460,
+        "word": "董明珠拥抱孟羽童",
+        "onboard_time": 1748002103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460438,
+        "num": 460438,
+        "word": "孙颖莎晋级世乒赛四强",
+        "onboard_time": 1748003726,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3536495,
+        "num": 425517,
+        "word": "马嘉祺做得好",
+        "onboard_time": 1748007871,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3390949,
+        "num": 405472,
+        "word": "阿云嘎秒了",
+        "onboard_time": 1748004505,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243385,
+        "num": 388139,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376359,
+        "num": 376359,
+        "word": "特朗普建议对欧盟征收50%关税",
+        "onboard_time": 1748002343,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3357538,
+        "num": 375154,
+        "word": "难听",
+        "onboard_time": 1748004988,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145667,
+        "num": 371856,
+        "word": "董明珠孟羽童直播互动超有爱",
+        "onboard_time": 1748004748,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2142792,
+        "num": 369744,
+        "word": "马嘉祺揭榜白举纲",
+        "onboard_time": 1748007507,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208827,
+        "num": 367367,
+        "word": "王鹤棣完全沉浸在撕名牌的艺术里",
+        "onboard_time": 1748007571,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364453,
+        "num": 364453,
+        "word": "浙江一学校食堂绞肉机现大量活蛆",
+        "onboard_time": 1748004505,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1738748,
+        "num": 363219,
+        "word": "单依纯收手吧",
+        "onboard_time": 1748005769,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482940,
+        "num": 355950,
+        "word": "黄杨钿甜事件固定模式",
+        "onboard_time": 1747999343,
+        "rank": 16,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 1833508,
+        "num": 345146,
+        "word": "白举纲好听",
+        "onboard_time": 1748007211,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68259,
+        "num": 340712,
+        "word": "陈楚生回应能第二",
+        "onboard_time": 1748007690,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55751,
+        "num": 329604,
+        "word": "花样百出的中式养生水已经卖不动了",
+        "onboard_time": 1748006968,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1202006,
+        "num": 322534,
+        "word": "林志炫回来了",
+        "onboard_time": 1748005887,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1007724,
+        "num": 317637,
+        "word": "阿云嘎怎么会输",
+        "onboard_time": 1748006247,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 959771,
+        "num": 308214,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633756,
+        "num": 305739,
+        "word": "恩利庾澄庆 子承父逆",
+        "onboard_time": 1748004867,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300797,
+        "num": 300797,
+        "word": "林诗栋无缘男单四强",
+        "onboard_time": 1747999823,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44915,
+        "num": 299599,
+        "word": "带你体验孟加拉国贫富差距有多大",
+        "onboard_time": 1748005948,
+        "rank": 25,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 7640,
+        "num": 297209,
+        "word": "不要混淆规律和科学上的定律",
+        "onboard_time": 1748006188,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21187,
+        "num": 296623,
+        "word": "一生爱吃笋的浙江人基因又动了",
+        "onboard_time": 1747983682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13331,
+        "num": 293542,
+        "word": "山区支教老师的一天",
+        "onboard_time": 1747978823,
+        "rank": 28,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 22029,
+        "num": 293152,
+        "word": "一段好的友情的四大表现",
+        "onboard_time": 1748007151,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176369,
+        "num": 289762,
+        "word": "孙颖莎半决赛对战伊藤美诚",
+        "onboard_time": 1748004148,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149356,
+        "num": 288455,
+        "word": "王楚钦采访结束转身就走",
+        "onboard_time": 1748003667,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609449,
+        "num": 286775,
+        "word": "GAI选歌",
+        "onboard_time": 1748007089,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572611,
+        "num": 284058,
+        "word": "单依纯说要谨言慎行",
+        "onboard_time": 1748007751,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530302,
+        "num": 283095,
+        "word": "赵丽颖换摄影师了",
+        "onboard_time": 1748006847,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465565,
+        "num": 280097,
+        "word": "福禄寿原唱",
+        "onboard_time": 1748006968,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624857,
+        "num": 279385,
+        "word": "歌手 剧本",
+        "onboard_time": 1748007571,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436866,
+        "num": 277026,
+        "word": "歌手出场顺序",
+        "onboard_time": 1748002222,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166783,
+        "num": 274353,
+        "word": "凤阳分管副县长被停职检查",
+        "onboard_time": 1748004568,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45886,
+        "num": 273596,
+        "word": "中国科学家实现闭着眼看东西",
+        "onboard_time": 1748007751,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 337763,
+        "num": 271747,
+        "word": "肖战追着藏海传制片人聊演技",
+        "onboard_time": 1748007629,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327844,
+        "num": 269832,
+        "word": "歌手投票",
+        "onboard_time": 1748004867,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268670,
+        "num": 268670,
+        "word": "鹿晗四巡官宣",
+        "onboard_time": 1747995683,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263231,
+        "num": 263231,
+        "word": "歌手还我何炅单人机位",
+        "onboard_time": 1748004808,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248743,
+        "num": 248743,
+        "word": "黄觉称以粉丝身份奔赴藏海传",
+        "onboard_time": 1748006727,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219043,
+        "num": 219043,
+        "word": "巴赫来看孙颖莎",
+        "onboard_time": 1748000844,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218785,
+        "num": 218785,
+        "word": "张馨予说送粉丝的礼物被出售",
+        "onboard_time": 1748006309,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192382,
+        "num": 213529,
+        "word": "孙颖莎回应逆转大藤沙月",
+        "onboard_time": 1748007871,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190801,
+        "num": 210888,
+        "word": "第一次对一个游戏这么讨厌",
+        "onboard_time": 1748007871,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185569,
+        "num": 208936,
+        "word": "王楚钦孙颖莎混双大满贯的球",
+        "onboard_time": 1748007331,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动精神文明建设高质量发展#"
+    }
+  }
+}

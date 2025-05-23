@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1748007318485,
+  "endTime": 1748007982117,
   "band_list": [
     {
       "raw_hot": 8298321,
@@ -8,6 +8,14 @@
       "word": "陈楚生 高音没声",
       "onboard_time": 1748003605,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6818575,
+      "num": 6818575,
+      "word": "歌手直播",
+      "onboard_time": 1747999823,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -27,19 +35,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4974304,
-      "num": 4974304,
-      "word": "歌手直播",
-      "onboard_time": 1747999823,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3622405,
       "num": 3622405,
       "word": "中餐厅9得罪了半个中国的人",
       "onboard_time": 1747969582,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3536495,
+      "num": 425517,
+      "word": "马嘉祺做得好",
+      "onboard_time": 1748007871,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3357538,
+      "num": 519322,
+      "word": "难听",
+      "onboard_time": 1748004988,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -49,14 +65,6 @@
       "onboard_time": 1747984823,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2960185,
-      "num": 519322,
-      "word": "难听",
-      "onboard_time": 1748004988,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2929519,
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2142792,
+      "num": 369744,
+      "word": "马嘉祺揭榜白举纲",
+      "onboard_time": 1748007507,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1838559,
       "num": 1838559,
       "word": "哈佛",
       "onboard_time": 1747958302,
       "rank": 1,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 1833508,
+      "num": 345146,
+      "word": "白举纲好听",
+      "onboard_time": 1748007211,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1763804,
@@ -115,7 +139,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1713978,
+      "raw_hot": 1738748,
       "num": 417802,
       "word": "单依纯收手吧",
       "onboard_time": 1748005769,
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 959771,
+      "num": 351386,
+      "word": "朱媛媛最后的朋友圈",
+      "onboard_time": 1748005887,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882502,
       "num": 780101,
       "word": "内娱首部水仙剧终于来了",
@@ -321,14 +353,6 @@
       "onboard_time": 1747975105,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 820477,
-      "num": 351386,
-      "word": "朱媛媛最后的朋友圈",
-      "onboard_time": 1748005887,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 817323,
@@ -459,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 699159,
-      "num": 342035,
-      "word": "白举纲好听",
-      "onboard_time": 1748007211,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 698721,
       "num": 698721,
       "word": "王艺迪vs伊藤美诚",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687493,
+      "num": 687493,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 682216,
       "num": 258358,
       "word": "上海月薪6000一天花多少钱",
@@ -505,14 +529,6 @@
       "onboard_time": 1747971022,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656239,
-      "num": 656239,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1748005228,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 654236,
@@ -563,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624857,
+      "num": 279385,
+      "word": "歌手 剧本",
+      "onboard_time": 1748007571,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617331,
       "num": 334749,
       "word": "以色列",
       "onboard_time": 1747985361,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 609449,
+      "num": 340250,
+      "word": "GAI选歌",
+      "onboard_time": 1748007089,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 605650,
@@ -619,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572611,
+      "num": 284058,
+      "word": "单依纯说要谨言慎行",
+      "onboard_time": 1748007751,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560147,
       "num": 560147,
       "word": "记者卧底揭缅甸女子买卖黑幕",
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530302,
+      "num": 340641,
+      "word": "赵丽颖换摄影师了",
+      "onboard_time": 1748006847,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528593,
       "num": 397040,
       "word": "娇牛马文学",
@@ -689,14 +737,6 @@
       "onboard_time": 1747990043,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 506327,
-      "num": 340641,
-      "word": "赵丽颖换摄影师了",
-      "onboard_time": 1748006847,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 506232,
@@ -769,6 +809,14 @@
       "onboard_time": 1747928245,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465565,
+      "num": 280097,
+      "word": "福禄寿原唱",
+      "onboard_time": 1748006968,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 453935,
@@ -915,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364453,
+      "num": 364453,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355413,
       "num": 355413,
       "word": "王楚钦希望和莎莎有好的表现",
@@ -947,20 +1003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340250,
-      "num": 340250,
-      "word": "GAI选歌",
-      "onboard_time": 1748007089,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 338384,
       "num": 338384,
       "word": "国家话剧院再发长文70余人追忆朱媛媛",
       "onboard_time": 1747978703,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337763,
+      "num": 271747,
+      "word": "肖战追着藏海传制片人聊演技",
+      "onboard_time": 1748007629,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 336784,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1747989863,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 316555,
-      "num": 316555,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314847,
@@ -1179,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261285,
-      "num": 261285,
-      "word": "福禄寿原唱",
-      "onboard_time": 1748006968,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257461,
       "num": 416624,
       "word": "奔驰车司机别停前车用高尔夫球杆狂砸",
@@ -1235,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248743,
+      "num": 248743,
+      "word": "黄觉称以粉丝身份奔赴藏海传",
+      "onboard_time": 1748006727,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246944,
       "num": 368139,
       "word": "林诗栋梁靖崑对决太精彩了",
@@ -1249,14 +1297,6 @@
       "onboard_time": 1747930283,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245674,
-      "num": 226773,
-      "word": "黄觉称以粉丝身份奔赴藏海传",
-      "onboard_time": 1748006727,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 244448,
@@ -1499,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218785,
+      "num": 349704,
+      "word": "张馨予说送粉丝的礼物被出售",
+      "onboard_time": 1748006309,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218361,
       "num": 218361,
       "word": "用摸2岁猫的手法摸20岁猫时",
@@ -1619,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208827,
+      "num": 367367,
+      "word": "王鹤棣完全沉浸在撕名牌的艺术里",
+      "onboard_time": 1748007571,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208188,
       "num": 194348,
       "word": "肖战复刻断龙石眯眼",
@@ -1732,7 +1788,7 @@
     },
     {
       "raw_hot": 198727,
-      "num": 198727,
+      "num": 274353,
       "word": "凤阳分管副县长被停职检查",
       "onboard_time": 1748004568,
       "rank": 47,
@@ -1851,20 +1907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192382,
+      "num": 213529,
+      "word": "孙颖莎回应逆转大藤沙月",
+      "onboard_time": 1748007871,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192343,
       "num": 192343,
       "word": "潘展乐7天7金",
       "onboard_time": 1748003424,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191926,
-      "num": 349704,
-      "word": "张馨予说送粉丝的礼物被出售",
-      "onboard_time": 1748006309,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 191917,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1747971381,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190801,
+      "num": 210888,
+      "word": "第一次对一个游戏这么讨厌",
+      "onboard_time": 1748007871,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 190365,
@@ -1976,6 +2040,14 @@
       "word": "王楚钦一度以为自己要败了",
       "onboard_time": 1747971863,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185569,
+      "num": 208936,
+      "word": "王楚钦孙颖莎混双大满贯的球",
+      "onboard_time": 1748007331,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3475,6 +3547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68259,
+      "num": 340712,
+      "word": "陈楚生回应能第二",
+      "onboard_time": 1748007690,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67276,
       "num": 393971,
       "word": "王楚钦再现招牌爆冲得分",
@@ -3603,6 +3683,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 55751,
+      "num": 352283,
+      "word": "花样百出的中式养生水已经卖不动了",
+      "onboard_time": 1748006968,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50319,
       "num": 50319,
       "word": "王楚钦第5局状态爆棚",
@@ -3683,6 +3771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45886,
+      "num": 273596,
+      "word": "中国科学家实现闭着眼看东西",
+      "onboard_time": 1748007751,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 45781,
       "num": 152208,
       "word": "胡锡进称社会应加强人文教育",
@@ -3729,14 +3825,6 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 352283,
-      "word": "花样百出的中式养生水已经卖不动了",
-      "onboard_time": 1748006968,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42916,
@@ -4315,6 +4403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13331,
+      "num": 344997,
+      "word": "山区支教老师的一天",
+      "onboard_time": 1747978823,
+      "rank": 38,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 13183,
       "num": 199088,
       "word": "夏季衣物如何有效防止透薄尴尬",
@@ -4361,14 +4457,6 @@
       "onboard_time": 1747999042,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 10639,
-      "num": 344997,
-      "word": "山区支教老师的一天",
-      "onboard_time": 1747978823,
-      "rank": 38,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 10577,
