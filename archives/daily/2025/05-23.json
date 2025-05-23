@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747971040305,
+  "endTime": 1747972594344,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3413305,
-      "num": 3413305,
+      "raw_hot": 3622405,
+      "num": 3622405,
       "word": "中餐厅9得罪了半个中国的人",
       "onboard_time": 1747969582,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215382,
+      "num": 1215382,
+      "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
+      "onboard_time": 1747968562,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076057,
       "num": 1076057,
       "word": "在人间",
@@ -75,12 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 851948,
-      "num": 491336,
-      "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
-      "onboard_time": 1747968562,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 850824,
+      "num": 850824,
+      "word": "特朗普这是要废了哈佛啊",
+      "onboard_time": 1747968380,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 810218,
@@ -89,6 +97,22 @@
       "onboard_time": 1747965321,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 792197,
+      "num": 485677,
+      "word": "内娱首部水仙剧终于来了",
+      "onboard_time": 1747969882,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 742721,
+      "num": 379630,
+      "word": "朱洁静春晚前放化疗25次",
+      "onboard_time": 1747970363,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 726311,
@@ -113,6 +137,14 @@
       "onboard_time": 1747958240,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678839,
+      "num": 238955,
+      "word": "肖战谈与黄觉第一场对手戏",
+      "onboard_time": 1747971022,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 648897,
@@ -155,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543506,
+      "num": 543506,
+      "word": "力争让樊振东重回赛场或是解决方案",
+      "onboard_time": 1747968380,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 528593,
       "num": 397040,
       "word": "娇牛马文学",
@@ -171,20 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 491029,
-      "num": 491029,
-      "word": "特朗普这是要废了哈佛啊",
-      "onboard_time": 1747968380,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 485677,
-      "num": 485677,
-      "word": "内娱首部水仙剧终于来了",
-      "onboard_time": 1747969882,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 500866,
+      "num": 411687,
+      "word": "赵丽颖 赵德胤",
+      "onboard_time": 1747968500,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 479143,
@@ -211,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438957,
-      "num": 491499,
-      "word": "力争让樊振东重回赛场或是解决方案",
-      "onboard_time": 1747968380,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 438236,
       "num": 411267,
       "word": "陈奕迅晒怼脸自拍再报平安",
@@ -243,19 +267,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411687,
-      "num": 411687,
-      "word": "赵丽颖 赵德胤",
-      "onboard_time": 1747968500,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 408862,
-      "num": 379630,
-      "word": "朱洁静春晚前放化疗25次",
-      "onboard_time": 1747970363,
-      "rank": 20,
+      "raw_hot": 395111,
+      "num": 368766,
+      "word": "刘宇宁抵制盗版言论遭断章取义",
+      "onboard_time": 1747969701,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -313,14 +329,6 @@
       "onboard_time": 1747925427,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368766,
-      "num": 368766,
-      "word": "刘宇宁抵制盗版言论遭断章取义",
-      "onboard_time": 1747969701,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 367190,
@@ -443,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244778,
+      "num": 222342,
+      "word": "蛮蛮一劭初吻来了",
+      "onboard_time": 1747972343,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240388,
       "num": 240388,
       "word": "徐嘉余 余生请多游泳",
       "onboard_time": 1747926090,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230378,
+      "num": 222066,
+      "word": "在人间共8集",
+      "onboard_time": 1747971622,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 229705,
@@ -507,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217575,
+      "num": 217575,
+      "word": "男孩骑行被碾压案司机发声",
+      "onboard_time": 1747968081,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216162,
       "num": 164515,
       "word": "张极给左航的生日祝福",
@@ -523,12 +555,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208997,
+      "num": 208997,
+      "word": "歌手第二期音源",
+      "onboard_time": 1747971622,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207622,
       "num": 207622,
       "word": "这是载入中国游泳史的一幕",
       "onboard_time": 1747926867,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207191,
+      "num": 207191,
+      "word": "医生提醒4个时段不宜洗澡",
+      "onboard_time": 1747972283,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204185,
@@ -539,20 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201695,
-      "num": 201695,
-      "word": "男孩骑行被碾压案司机发声",
-      "onboard_time": 1747968081,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197764,
       "num": 197764,
       "word": "乘风2025五公歌单",
       "onboard_time": 1747969402,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197112,
+      "num": 197112,
+      "word": "孟婆汤掺水越来越严重了",
+      "onboard_time": 1747972104,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 196658,
@@ -571,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "奔跑吧13",
+      "onboard_time": 1747971381,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189542,
       "num": 189542,
       "word": "赵丽颖工作室",
       "onboard_time": 1747933518,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187817,
+      "num": 187817,
+      "word": "中餐厅9",
+      "onboard_time": 1747972162,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 185474,
@@ -587,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182175,
-      "num": 182175,
-      "word": "肖战谈与黄觉第一场对手戏",
-      "onboard_time": 1747971022,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 181849,
+      "num": 181849,
+      "word": "我爱你 爱你二十多年了",
+      "onboard_time": 1747972042,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 180239,
@@ -665,6 +729,14 @@
       "onboard_time": 1747966223,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167693,
+      "num": 378932,
+      "word": "追问天价耳环不是仇富是仇腐",
+      "onboard_time": 1747970783,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 166713,
@@ -769,6 +841,22 @@
       "onboard_time": 1747966223,
       "rank": 35,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 141414,
+      "num": 212662,
+      "word": "印度人炫耀洗火车视频遭嘲笑",
+      "onboard_time": 1747971682,
+      "rank": 37,
+      "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 140374,
+      "num": 222666,
+      "word": "众生药业涨停",
+      "onboard_time": 1747972224,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 140084,
@@ -1075,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92220,
+      "num": 223219,
+      "word": "裁判受伤了",
+      "onboard_time": 1747967601,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91353,
       "num": 104624,
       "word": "官方通报大学生坠入化粪池遇难",
@@ -1091,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90353,
+      "num": 212176,
+      "word": "王楚钦一度以为自己要败了",
+      "onboard_time": 1747971863,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89335,
       "num": 104602,
       "word": "藏海传这仨笑死我了",
       "onboard_time": 1747917264,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88068,
+      "num": 222805,
+      "word": "广东一笔157万元涉案现金无人认领",
+      "onboard_time": 1747971204,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85759,
@@ -1108,7 +1220,7 @@
     },
     {
       "raw_hot": 85235,
-      "num": 1205253,
+      "num": 1224041,
       "word": "网警重拳打击侵公犯罪",
       "onboard_time": 1747963582,
       "rank": 2,
@@ -1195,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68263,
+      "num": 233652,
+      "word": "除了哈佛美多所高校遭打压",
+      "onboard_time": 1747971503,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65192,
       "num": 171650,
       "word": "林诗栋回应下轮对阵梁靖崑",
@@ -1209,6 +1329,14 @@
       "onboard_time": 1747955659,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61167,
+      "num": 223679,
+      "word": "美政府威胁剥夺哈佛大学的免税地位",
+      "onboard_time": 1747971622,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61099,
@@ -1339,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37038,
+      "num": 223781,
+      "word": "哈佛国际学生转学面临哪些实际困难",
+      "onboard_time": 1747971083,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34427,
       "num": 214751,
       "word": "高考前连倒计时都是题",
@@ -1395,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27805,
+      "num": 222720,
+      "word": "网友偶遇运20",
+      "onboard_time": 1747972042,
+      "rank": 28,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 27771,
       "num": 57391,
       "word": "明星小象申申去世",
@@ -1409,6 +1553,14 @@
       "onboard_time": 1747952656,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26801,
+      "num": 378471,
+      "word": "带埃文凯尔吃个把子肉",
+      "onboard_time": 1747970122,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26463,
@@ -1435,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23789,
+      "num": 222975,
+      "word": "娇牛马文学折射出怎样的职场生态",
+      "onboard_time": 1747971983,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
       "raw_hot": 21353,
       "num": 436050,
       "word": "物种丰富的大自然有多美",
@@ -1449,14 +1609,6 @@
       "onboard_time": 1747943534,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21153,
-      "num": 378471,
-      "word": "带埃文凯尔吃个把子肉",
-      "onboard_time": 1747970122,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18269,
@@ -1513,14 +1665,6 @@
       "onboard_time": 1747942034,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 10949,
-      "num": 378932,
-      "word": "追问天价耳环不是仇富是仇腐",
-      "onboard_time": 1747970783,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 10080,
