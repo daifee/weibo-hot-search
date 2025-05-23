@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747985972987,
+  "endTime": 1747989237252,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1429534,
-      "num": 309398,
+      "num": 336214,
       "word": "事以密成 言以泄败",
       "onboard_time": 1747982962,
       "rank": 11,
@@ -113,6 +113,14 @@
       "onboard_time": 1747982783,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1068339,
+      "num": 1068339,
+      "word": "王楚钦孙颖莎VS林仲勋申裕斌",
+      "onboard_time": 1747987464,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 967643,
@@ -177,6 +185,14 @@
       "onboard_time": 1747970363,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 796878,
+      "num": 796878,
+      "word": "剧组悬赏20000元寻找素材硬盘",
+      "onboard_time": 1747987402,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 794857,
@@ -283,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617331,
+      "num": 334749,
+      "word": "以色列",
+      "onboard_time": 1747985361,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 594346,
       "num": 594346,
       "word": "哈佛大学现有外国学生需转学",
@@ -321,6 +345,14 @@
       "onboard_time": 1747966281,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545962,
+      "num": 334309,
+      "word": "金价",
+      "onboard_time": 1747986082,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 543506,
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 370959,
-      "num": 284833,
+      "num": 333747,
       "word": "姚晨发长文悼念朱媛媛",
       "onboard_time": 1747981582,
       "rank": 22,
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 267079,
-      "num": 293662,
+      "num": 335192,
       "word": "这杯霸王茶姬有点轻",
       "onboard_time": 1747984102,
       "rank": 16,
@@ -689,6 +721,14 @@
       "onboard_time": 1747926090,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239929,
+      "num": 333538,
+      "word": "张凌赫迪丽热巴兄妹俩的顶配基因",
+      "onboard_time": 1747987223,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 238500,
@@ -755,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225079,
+      "num": 333219,
+      "word": "吴京车坏在高速路上",
+      "onboard_time": 1747989024,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225019,
       "num": 225019,
       "word": "穿普拉达的女王2定档",
@@ -769,6 +817,14 @@
       "onboard_time": 1747976785,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222413,
+      "num": 222413,
+      "word": "哈佛大学国际学生占比27%以上",
+      "onboard_time": 1747986984,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222015,
@@ -849,6 +905,22 @@
       "onboard_time": 1747920745,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214173,
+      "num": 336260,
+      "word": "外交部回应美政府拿哈佛开刀",
+      "onboard_time": 1747987763,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 214121,
+      "num": 214121,
+      "word": "终于明白什么是五代十国了",
+      "onboard_time": 1747985361,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 211113,
@@ -1011,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190205,
-      "num": 190205,
-      "word": "以色列",
-      "onboard_time": 1747985361,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190001,
       "num": 190001,
       "word": "浪姐五公",
@@ -1059,6 +1123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185067,
+      "num": 185067,
+      "word": "赵丽颖新剧和男主像黑夜和白天",
+      "onboard_time": 1747989024,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184834,
+      "num": 184834,
+      "word": "外交部就日方抓扣台湾渔船严正交涉",
+      "onboard_time": 1747988722,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183909,
       "num": 183909,
       "word": "马嘉祺分享当队长最大的烦恼",
@@ -1076,7 +1156,7 @@
     },
     {
       "raw_hot": 181993,
-      "num": 181993,
+      "num": 332450,
       "word": "金价再下探",
       "onboard_time": 1747984643,
       "rank": 33,
@@ -1123,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176968,
+      "num": 176968,
+      "word": "人均2百自助餐顾客吃出筷子粗的虫",
+      "onboard_time": 1747987822,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176711,
       "num": 176711,
       "word": "雷军头像换成发布会照片",
@@ -1160,6 +1248,14 @@
       "word": "藏海传选角简直是我的青春编年史",
       "onboard_time": 1747970003,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173310,
+      "num": 173310,
+      "word": "张小婉团溢出屏幕的生命力",
+      "onboard_time": 1747988903,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1251,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161011,
-      "num": 161011,
-      "word": "终于明白什么是五代十国了",
-      "onboard_time": 1747985361,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160413,
       "num": 160413,
       "word": "光渊",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1747933399,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158186,
+      "num": 158186,
+      "word": "宋旻浩被移送检方",
+      "onboard_time": 1747986023,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 157975,
@@ -1331,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "Lovecd离队",
+      "onboard_time": 1747989144,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151017,
       "num": 151017,
       "word": "发疯的妈纵火的姐破碎的他",
       "onboard_time": 1747967301,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149288,
+      "num": 236323,
+      "word": "全员加速中直播",
+      "onboard_time": 1747987822,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 149081,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1747978523,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144863,
+      "num": 335665,
+      "word": "传重庆一贪官祖坟挖出3公斤金砖",
+      "onboard_time": 1747987162,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142973,
@@ -1489,6 +1609,14 @@
       "onboard_time": 1747983682,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136652,
+      "num": 334095,
+      "word": "华为nova14鸿蒙红包",
+      "onboard_time": 1747988482,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 135116,
@@ -1707,12 +1835,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 113450,
+      "num": 334770,
+      "word": "肖战回应新剧演致命男人",
+      "onboard_time": 1747988664,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112865,
       "num": 112865,
       "word": "藏海好疯批的笑声",
       "onboard_time": 1747930222,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112470,
+      "num": 184636,
+      "word": "孙颖莎像鲨鱼一样的凝视",
+      "onboard_time": 1747988482,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 111529,
@@ -1745,6 +1889,14 @@
       "onboard_time": 1747974143,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108613,
+      "num": 332605,
+      "word": "耐克撑不住涨价",
+      "onboard_time": 1747989024,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107151,
@@ -1785,6 +1937,14 @@
       "onboard_time": 1747956201,
       "rank": 43,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 102842,
+      "num": 334979,
+      "word": "承办方回应张学友演唱会撞期高考",
+      "onboard_time": 1747989024,
+      "rank": 16,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 102623,
@@ -2059,6 +2219,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77773,
+      "num": 332841,
+      "word": "北京公安犬只领养介绍狗设鲜明",
+      "onboard_time": 1747987883,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77015,
       "num": 104564,
       "word": "小米发布会",
@@ -2259,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45706,
+      "num": 335801,
+      "word": "是谁在搞娇牛马人设",
+      "onboard_time": 1747988664,
+      "rank": 12,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 45266,
       "num": 402774,
       "word": "镜面人内脏反位的成因是什么",
@@ -2281,6 +2457,14 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43586,
+      "num": 333924,
+      "word": "浙江文旅厅长回应给小学生回信写错字",
+      "onboard_time": 1747988963,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42916,
@@ -2361,6 +2545,14 @@
       "onboard_time": 1747914024,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39333,
+      "num": 225314,
+      "word": "王楚钦孙颖莎半决赛登场",
+      "onboard_time": 1747989202,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 37038,
@@ -2603,6 +2795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19127,
+      "num": 335471,
+      "word": "618首波美妆开箱",
+      "onboard_time": 1747987402,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 18269,
       "num": 27098,
       "word": "XG",
@@ -2611,12 +2811,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17654,
+      "num": 334469,
+      "word": "做心理咨询状态会好吗",
+      "onboard_time": 1747988182,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17384,
       "num": 27097,
       "word": "小学三年级妹妹模仿猫meme",
       "onboard_time": 1747940655,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17364,
+      "num": 223464,
+      "word": "失业金如何领取",
+      "onboard_time": 1747987283,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17091,
@@ -2683,6 +2899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 12180,
+      "num": 332323,
+      "word": "哪些因素影响新能源车保值率",
+      "onboard_time": 1747989082,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 10639,
       "num": 166065,
       "word": "山区支教老师的一天",
@@ -2715,8 +2939,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3701,
-      "num": 815724,
+      "raw_hot": 4777,
+      "num": 964826,
       "word": "互联中国公益行动",
       "onboard_time": 1747703850,
       "rank": 2,
