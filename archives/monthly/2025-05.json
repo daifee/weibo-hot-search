@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748028980250,
+  "endTime": 1748032094289,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -88456,6 +88456,14 @@
       "word": "新骗术遥控取钱是怎样蛊惑上当的",
       "onboard_time": 1747289783,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16070,
+      "num": 21670,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
       "category": "民生新闻"
     },
     {

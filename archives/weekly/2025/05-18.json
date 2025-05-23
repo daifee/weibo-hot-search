@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748028980250,
+  "endTime": 1748032094289,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -26153,6 +26153,14 @@
       "onboard_time": 1747726341,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16070,
+      "num": 21670,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16040,
