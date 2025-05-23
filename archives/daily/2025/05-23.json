@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747982162649,
+  "endTime": 1747982971126,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643004,
+      "num": 643004,
+      "word": "张学友演唱会撞期高考遭多人投诉",
+      "onboard_time": 1747981582,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 633657,
       "num": 633657,
       "word": "王楚钦",
@@ -249,6 +257,14 @@
       "onboard_time": 1747975163,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558642,
+      "num": 558642,
+      "word": "无忧渡",
+      "onboard_time": 1747980623,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 551610,
@@ -379,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 385227,
-      "num": 344834,
-      "word": "无忧渡",
-      "onboard_time": 1747980623,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382415,
       "num": 161004,
       "word": "黄杨钿甜父亲被立案调查",
@@ -425,6 +433,14 @@
       "onboard_time": 1747925427,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369284,
+      "num": 284833,
+      "word": "姚晨发长文悼念朱媛媛",
+      "onboard_time": 1747981582,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 367190,
@@ -491,6 +507,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 330613,
+      "num": 202562,
+      "word": "黄杨钿甜删耳环照片",
+      "onboard_time": 1747982783,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314847,
       "num": 240560,
       "word": "陈奕迅露面",
@@ -515,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297734,
+      "num": 183869,
+      "word": "易烊千玺李庚希吻戏",
+      "onboard_time": 1747982783,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293417,
       "num": 379210,
       "word": "胃病转化成胃癌前有5个征兆",
@@ -523,20 +555,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292826,
+      "num": 330132,
+      "word": "根本不介意被视奸",
+      "onboard_time": 1747979483,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288411,
       "num": 288411,
       "word": "易烊千玺戛纳排面",
       "onboard_time": 1747945815,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 284833,
-      "num": 284833,
-      "word": "姚晨发长文悼念朱媛媛",
-      "onboard_time": 1747981582,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 284038,
@@ -569,14 +601,6 @@
       "onboard_time": 1747971622,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267111,
-      "num": 330132,
-      "word": "根本不介意被视奸",
-      "onboard_time": 1747979483,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 252780,
@@ -811,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204835,
+      "num": 192591,
+      "word": "原来胃是一层层破洞的",
+      "onboard_time": 1747979483,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204834,
       "num": 204834,
       "word": "宣璐悬疑大女主高智感",
@@ -833,6 +865,14 @@
       "onboard_time": 1747973665,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 204015,
+      "num": 356773,
+      "word": "202城被授予全国文明城市称号",
+      "onboard_time": 1747979301,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198524,
@@ -883,12 +923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192591,
-      "num": 192591,
-      "word": "原来胃是一层层破洞的",
-      "onboard_time": 1747979483,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 192869,
+      "num": 192869,
+      "word": "跳水",
+      "onboard_time": 1747981941,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 191100,
@@ -987,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179367,
-      "num": 179367,
-      "word": "跳水",
-      "onboard_time": 1747981941,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "孙杨领奖时和11个弟弟合影",
@@ -1051,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170056,
+      "num": 204886,
+      "word": "易烊千玺眼中含泪",
+      "onboard_time": 1747981463,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167921,
       "num": 167921,
       "word": "中国人民抗战胜利80周年",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1747973782,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167653,
-      "num": 204886,
-      "word": "易烊千玺眼中含泪",
-      "onboard_time": 1747981463,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 166713,
@@ -1163,8 +1195,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152612,
-      "num": 152612,
+      "raw_hot": 152919,
+      "num": 152919,
       "word": "中年失业后领取失业金会怎么样",
       "onboard_time": 1747980202,
       "rank": 46,
@@ -1187,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148978,
+      "num": 148978,
+      "word": "安宰贤晋级世乒赛八强",
+      "onboard_time": 1747982062,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148525,
       "num": 148525,
       "word": "成都一小区像现实版玩具屋",
       "onboard_time": 1747961123,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147909,
+      "num": 147909,
+      "word": "王源房东的猫时隔4年从同屏到同台",
+      "onboard_time": 1747982542,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 146984,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1747978523,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144835,
-      "num": 328975,
-      "word": "张学友演唱会撞期高考遭多人投诉",
-      "onboard_time": 1747981582,
-      "rank": 19,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 142973,
@@ -1291,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134701,
+      "num": 134701,
+      "word": "陈德容2023年颁奖给吴宣仪",
+      "onboard_time": 1747982604,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133701,
       "num": 133701,
       "word": "黄金比特币创新高",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1747978102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132636,
+      "num": 132636,
+      "word": "孟子义李昀锐上综艺方式好特别",
+      "onboard_time": 1747982604,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131705,
@@ -1347,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129473,
+      "num": 192269,
+      "word": "吴宣仪陈德容黑白婚纱",
+      "onboard_time": 1747982300,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128100,
       "num": 185051,
       "word": "胡兵 陈楚生站哥",
@@ -1377,6 +1441,22 @@
       "onboard_time": 1747933399,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122328,
+      "num": 122328,
+      "word": "网络热传生物鉴定回来了",
+      "onboard_time": 1747982721,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121797,
+      "num": 121797,
+      "word": "2025高考天气预报来了",
+      "onboard_time": 1747982902,
+      "rank": 49,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 121707,
@@ -1459,12 +1539,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114097,
-      "num": 356773,
-      "word": "202城被授予全国文明城市称号",
-      "onboard_time": 1747979301,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 115097,
+      "num": 183984,
+      "word": "为强国建设民族复兴提供强大精神力量",
+      "onboard_time": 1747980863,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112865,
@@ -1779,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81130,
+      "num": 180083,
+      "word": "徐嘉余回应被叫甲鱼爷爷",
+      "onboard_time": 1747982842,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79527,
       "num": 79527,
       "word": "强大的肠胃是一种资产",
@@ -1985,6 +2073,14 @@
       "onboard_time": 1747934837,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45781,
+      "num": 152208,
+      "word": "胡锡进称社会应加强人文教育",
+      "onboard_time": 1747982662,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45266,
@@ -2275,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21114,
+      "num": 260691,
+      "word": "缅甸女子贩卖网络如何筛选目标",
+      "onboard_time": 1747981883,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20766,
       "num": 218887,
       "word": "万吨巨轮都是如何下水的",
@@ -2305,14 +2409,6 @@
       "onboard_time": 1747940655,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17214,
-      "num": 260691,
-      "word": "缅甸女子贩卖网络如何筛选目标",
-      "onboard_time": 1747981883,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17091,
@@ -2395,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7764,
+      "num": 183312,
+      "word": "放射检查费降价都包括哪些项目",
+      "onboard_time": 1747982783,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 5172,
       "num": 287016,
       "word": "高质量发展看天津",
@@ -2403,19 +2507,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2318,
+      "num": 815724,
+      "word": "互联中国公益行动",
+      "onboard_time": 1747703850,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2194,
       "num": 376649,
       "word": "中国制造的百年回响",
       "onboard_time": 1747914623,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1591,
-      "num": 815724,
-      "word": "互联中国公益行动",
-      "onboard_time": 1747703850,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
@@ -2428,6 +2532,9 @@
     },
     {
       "word": "#作风建设永远在路上#"
+    },
+    {
+      "word": "#习近平同法国总统马克龙通电话#"
     }
   ]
 }

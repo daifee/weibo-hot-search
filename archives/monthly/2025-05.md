@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/23 14:36:02
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/23 14:49:31
 </p>
 </blockquote>
 <p>
@@ -6641,6 +6641,12 @@ BENI淘汰（热度：673045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BD%9C%E9%A3%8E%E5%BB%BA%E8%AE%BE%E6%B0%B8%E8%BF%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A%23%23" target="weibo">
 #作风建设永远在路上#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
+#习近平同法国总统马克龙通电话#
 </a>
 </li>
 
