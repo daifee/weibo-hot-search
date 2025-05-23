@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748000256508,
+  "endTime": 1748004645637,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8298321,
+      "num": 8298321,
+      "word": "陈楚生 高音没声",
+      "onboard_time": 1748003605,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8226159,
       "num": 8226159,
       "word": "具俊晔回应大S去世",
@@ -1187,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4944141,
+      "num": 4410470,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4918196,
       "num": 4918196,
       "word": "姚笛 被删",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1746010640,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4599076,
-      "num": 4410470,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 4591252,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736935939,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3196191,
-      "num": 314542,
-      "word": "李小冉退群",
-      "onboard_time": 1738331539,
-      "rank": 14,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

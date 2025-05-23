@@ -1,7 +1,15 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1748000256508,
+  "endTime": 1748004645637,
   "band_list": [
+    {
+      "raw_hot": 8298321,
+      "num": 8298321,
+      "word": "陈楚生 高音没声",
+      "onboard_time": 1748003605,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 6570760,
       "num": 6570760,
@@ -9,6 +17,14 @@
       "onboard_time": 1747923624,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4944141,
+      "num": 1296425,
+      "word": "歌手直播",
+      "onboard_time": 1747999823,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3622405,
@@ -33,6 +49,14 @@
       "onboard_time": 1747927586,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2585775,
+      "num": 769519,
+      "word": "阿云嘎秒了",
+      "onboard_time": 1748004505,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2579046,
@@ -99,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1478240,
+      "num": 712068,
+      "word": "阿云嘎揭榜陈楚生",
+      "onboard_time": 1748002582,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1463939,
       "num": 981529,
       "word": "鹿晗四巡官宣",
@@ -139,12 +171,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1296425,
-      "num": 1296425,
-      "word": "歌手直播",
-      "onboard_time": 1747999823,
+      "raw_hot": 1278880,
+      "num": 1278880,
+      "word": "孙颖莎晋级世乒赛四强",
+      "onboard_time": 1748003726,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1185059,
+      "num": 1185059,
+      "word": "孙颖莎vs大藤沙月",
+      "onboard_time": 1747999883,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1092620,
+      "num": 701137,
+      "word": "歌手出场顺序",
+      "onboard_time": 1748002222,
+      "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1091397,
+      "num": 647085,
+      "word": "赵丽颖直播",
+      "onboard_time": 1748001742,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1076057,
@@ -267,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 777880,
+      "num": 777880,
+      "word": "黄杨钿甜事件固定模式",
+      "onboard_time": 1747999343,
+      "rank": 25,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 767024,
       "num": 658224,
       "word": "李凯馨和前助理和解不代表真相已出",
@@ -281,6 +345,14 @@
       "onboard_time": 1747972763,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 750152,
+      "num": 750152,
+      "word": "林诗栋无缘男单四强",
+      "onboard_time": 1747999823,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 726311,
@@ -339,11 +411,27 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 699326,
+      "num": 699326,
+      "word": "董明珠拥抱孟羽童",
+      "onboard_time": 1748002103,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 698721,
       "num": 698721,
       "word": "王艺迪vs伊藤美诚",
       "onboard_time": 1747996582,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 691837,
+      "num": 691837,
+      "word": "巴赫来看孙颖莎",
+      "onboard_time": 1748000844,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -435,12 +523,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 578852,
+      "num": 578852,
+      "word": "特朗普建议对欧盟征收50%关税",
+      "onboard_time": 1748002343,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 578600,
       "num": 334309,
       "word": "金价",
       "onboard_time": 1747986082,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 577694,
+      "num": 742597,
+      "word": "藏海传全镇被杀",
+      "onboard_time": 1748000182,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 560147,
@@ -529,6 +633,14 @@
       "onboard_time": 1747992682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487703,
+      "num": 487703,
+      "word": "伊藤美诚泪洒赛场",
+      "onboard_time": 1747999761,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 479143,
@@ -723,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345672,
+      "num": 345672,
+      "word": "陶喆巡演再宣五城",
+      "onboard_time": 1748000663,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344948,
       "num": 344948,
       "word": "李晟撕拉片6宫格",
@@ -761,14 +881,6 @@
       "onboard_time": 1747973723,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332352,
-      "num": 332352,
-      "word": "孙颖莎vs大藤沙月",
-      "onboard_time": 1747999883,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 332192,
@@ -875,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281652,
-      "num": 378706,
-      "word": "林诗栋无缘男单四强",
-      "onboard_time": 1747999823,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277170,
       "num": 277170,
       "word": "莎头冲击第3个世乒赛混双冠军",
@@ -907,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269045,
+      "num": 269045,
+      "word": "王楚钦采访结束转身就走",
+      "onboard_time": 1748003667,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268031,
       "num": 268031,
       "word": "在人间共8集",
@@ -921,6 +1033,22 @@
       "onboard_time": 1747984102,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266801,
+      "num": 266801,
+      "word": "陈幸同4比0早田希娜",
+      "onboard_time": 1748002944,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 261526,
+      "num": 736987,
+      "word": "凤阳鼓楼瓦片脱落调查处置情况通报",
+      "onboard_time": 1748003545,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257461,
@@ -1033,14 +1161,6 @@
       "onboard_time": 1747984702,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236889,
-      "num": 236889,
-      "word": "藏海传全镇被杀",
-      "onboard_time": 1748000182,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 236321,
@@ -1187,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219434,
+      "num": 219434,
+      "word": "有很多胃癌都是吃出来的",
+      "onboard_time": 1747998382,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219281,
       "num": 219281,
       "word": "孟婆汤掺水越来越严重了",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1747920745,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214244,
+      "num": 214244,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214173,
@@ -1331,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207972,
+      "num": 207972,
+      "word": "特朗普威胁苹果",
+      "onboard_time": 1748004505,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207697,
       "num": 207697,
       "word": "莫离 平分",
@@ -1344,6 +1488,14 @@
       "word": "这是载入中国游泳史的一幕",
       "onboard_time": 1747926867,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205319,
+      "num": 205319,
+      "word": "孙颖莎半决赛对战伊藤美诚",
+      "onboard_time": 1748004148,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1403,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200529,
+      "num": 430313,
+      "word": "罗予彤直播",
+      "onboard_time": 1748004206,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198524,
       "num": 187791,
       "word": "易烊千玺在掌声雷动里热泪盈眶",
@@ -1451,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "苏娥皇哭了5秒决定作妖",
+      "onboard_time": 1748002222,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194456,
       "num": 194456,
       "word": "折腰开分6.4",
@@ -1483,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193761,
+      "num": 193761,
+      "word": "藏海传观众沉迷于推理不知天地为何物",
+      "onboard_time": 1748003184,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192988,
       "num": 201645,
       "word": "陈永胜李昀锐 帅的有一套",
@@ -1497,6 +1673,22 @@
       "onboard_time": 1747985183,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "你不是棋子你是我的妻子",
+      "onboard_time": 1748004385,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192343,
+      "num": 192343,
+      "word": "潘展乐7天7金",
+      "onboard_time": 1748003424,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 191917,
@@ -1635,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184308,
+      "num": 194200,
+      "word": "警方回应女幼师遭男子连刺13刀身亡",
+      "onboard_time": 1748004505,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183909,
       "num": 183909,
       "word": "马嘉祺分享当队长最大的烦恼",
@@ -1715,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179758,
+      "num": 179758,
+      "word": "十个勤天二巡官宣",
+      "onboard_time": 1748004568,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "孙杨领奖时和11个弟弟合影",
@@ -1787,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174281,
-      "num": 200828,
-      "word": "有很多胃癌都是吃出来的",
-      "onboard_time": 1747998382,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173846,
       "num": 173846,
       "word": "藏海传选角简直是我的青春编年史",
@@ -1859,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171255,
+      "num": 269608,
+      "word": "上海173元四菜一汤的快餐",
+      "onboard_time": 1748002884,
+      "rank": 26,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 170461,
       "num": 170461,
       "word": "美政府暂停哈佛大学招收国际学生资格",
@@ -1905,6 +2113,14 @@
       "onboard_time": 1747989024,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169096,
+      "num": 169096,
+      "word": "港科大向哈佛学子敞开教研大门",
+      "onboard_time": 1748000543,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 167921,
@@ -2531,14 +2747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117459,
-      "num": 351209,
-      "word": "伊藤美诚泪洒赛场",
-      "onboard_time": 1747999761,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116650,
       "num": 116650,
       "word": "折腰 少年夫妻",
@@ -2755,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92062,
+      "num": 168211,
+      "word": "纸嫁衣8千子树",
+      "onboard_time": 1748003305,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92055,
       "num": 396234,
       "word": "律师称学生坠亡化粪池校方或构成犯罪",
@@ -2891,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83410,
+      "num": 192668,
+      "word": "孙颖莎说放低位置全力去拼",
+      "onboard_time": 1748004626,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83193,
       "num": 236217,
       "word": "知情人谈悉尼多名青少年殴打华人夫妇",
@@ -2995,6 +3219,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 69574,
+      "num": 269448,
+      "word": "毕业证是去往更大世界的通行证",
+      "onboard_time": 1748003004,
+      "rank": 27,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 69343,
       "num": 69343,
       "word": "美股美债又崩了",
@@ -3067,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62635,
+      "num": 269069,
+      "word": "上课爱睡觉的我当上老师了",
+      "onboard_time": 1748003244,
+      "rank": 29,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 62606,
       "num": 427785,
       "word": "公权要经得起显微镜式追问",
@@ -3115,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57489,
+      "num": 725984,
+      "word": "和赵丽颖一起舒适过夏天",
+      "onboard_time": 1748001742,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56775,
       "num": 203696,
       "word": "老祖宗的审美有多厉害",
@@ -3145,6 +3393,14 @@
       "onboard_time": 1747933877,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48949,
+      "num": 269353,
+      "word": "日本博主对中国旅行的感受",
+      "onboard_time": 1748003004,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 48845,
@@ -3212,7 +3468,7 @@
     },
     {
       "raw_hot": 44911,
-      "num": 989225,
+      "num": 1188877,
       "word": "数说我国外贸亮眼成绩单",
       "onboard_time": 1747993941,
       "rank": 2,
@@ -3233,14 +3489,6 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43727,
-      "num": 374871,
-      "word": "黄杨钿甜事件固定模式",
-      "onboard_time": 1747999343,
-      "rank": 25,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 42916,
@@ -3368,6 +3616,14 @@
       "word": "高考前连倒计时都是题",
       "onboard_time": 1747969582,
       "rank": 37,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 34305,
+      "num": 168236,
+      "word": "60岁无声理发师一天能赚多少钱",
+      "onboard_time": 1748002884,
+      "rank": 48,
       "category": "幽默,民生新闻"
     },
     {
@@ -3555,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25813,
+      "num": 173267,
+      "word": "第一次坐上会导盲的公交车",
+      "onboard_time": 1748003004,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25463,
       "num": 40557,
       "word": "Doinb登场十周年",
@@ -3641,6 +3905,14 @@
       "onboard_time": 1747976483,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20610,
+      "num": 269737,
+      "word": "王嘉尔新专辑第一章在说什么",
+      "onboard_time": 1748003545,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 20578,
