@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748032094289,
+  "endTime": 1748032873735,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -563,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29501,
+      "num": 29501,
+      "word": "林志炫秋意浓",
+      "onboard_time": 1748032513,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29082,
       "num": 29082,
       "word": "余温",
@@ -627,7 +635,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16070,
+      "raw_hot": 19072,
       "num": 21670,
       "word": "捏捏 甲醛超标",
       "onboard_time": 1748030954,
@@ -651,8 +659,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 8000,
-      "num": 107167,
+      "raw_hot": 8141,
+      "num": 108463,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 2,

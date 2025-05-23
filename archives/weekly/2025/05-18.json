@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748032094289,
+  "endTime": 1748032873735,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -24155,6 +24155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29501,
+      "num": 29501,
+      "word": "林志炫秋意浓",
+      "onboard_time": 1748032513,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29485,
       "num": 208462,
       "word": "德布劳内曼城主场告别战",
@@ -25691,6 +25699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19072,
+      "num": 21670,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19047,
       "num": 242490,
       "word": "KTV和SPA的客户流失到了哪里",
@@ -26153,14 +26169,6 @@
       "onboard_time": 1747726341,
       "rank": 27,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 16070,
-      "num": 21670,
-      "word": "捏捏 甲醛超标",
-      "onboard_time": 1748030954,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16040,
