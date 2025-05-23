@@ -1,0 +1,410 @@
+{
+  "runTime": 1747974653542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3213238,
+        "num": 3213238,
+        "word": "中餐厅9得罪了半个中国的人",
+        "onboard_time": 1747969582,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1371148,
+        "num": 1371148,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50811,
+        "num": 1066652,
+        "word": "网警重拳打击侵公犯罪",
+        "onboard_time": 1747963582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1988275,
+        "num": 1010861,
+        "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
+        "onboard_time": 1747968562,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864254,
+        "num": 864254,
+        "word": "特朗普这是要废了哈佛啊",
+        "onboard_time": 1747968380,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 594291,
+        "num": 594291,
+        "word": "哈佛硬刚美政府",
+        "onboard_time": 1747972763,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 882502,
+        "num": 548501,
+        "word": "内娱首部水仙剧终于来了",
+        "onboard_time": 1747969882,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466003,
+        "num": 466003,
+        "word": "力争让樊振东重回赛场或是解决方案",
+        "onboard_time": 1747968380,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174974,
+        "num": 464831,
+        "word": "梳理黄杨爸爸涉7亿项目招商细节",
+        "onboard_time": 1747973964,
+        "rank": 8,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 816051,
+        "num": 457997,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 803287,
+        "num": 453230,
+        "word": "朱洁静春晚前放化疗25次",
+        "onboard_time": 1747970363,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617467,
+        "num": 446237,
+        "word": "蛮蛮一劭初吻来了",
+        "onboard_time": 1747972343,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551610,
+        "num": 437672,
+        "word": "赵丽颖 赵德胤",
+        "onboard_time": 1747968500,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78021,
+        "num": 435345,
+        "word": "黄杨父亲被立案调查两大问题浮出水面",
+        "onboard_time": 1747973423,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 46960,
+        "num": 427785,
+        "word": "公权要经得起显微镜式追问",
+        "onboard_time": 1747973423,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 512737,
+        "num": 420379,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226787,
+        "num": 415915,
+        "word": "比亚迪冠军形象大使赵心童",
+        "onboard_time": 1747973003,
+        "rank": 16,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 146071,
+        "num": 412477,
+        "word": "歌手第二期音源",
+        "onboard_time": 1747971622,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45266,
+        "num": 402774,
+        "word": "镜面人内脏反位的成因是什么",
+        "onboard_time": 1747973844,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50551,
+        "num": 396234,
+        "word": "律师称学生坠亡化粪池校方或构成犯罪",
+        "onboard_time": 1747973423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507807,
+        "num": 394898,
+        "word": "肖战谈与黄觉第一场对手戏",
+        "onboard_time": 1747971022,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389799,
+        "num": 389799,
+        "word": "哈佛大学现有外国学生需转学",
+        "onboard_time": 1747955659,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295187,
+        "num": 295187,
+        "word": "因为一条路买了一套房",
+        "onboard_time": 1747965321,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27641,
+        "num": 292426,
+        "word": "花9800元做心理咨询状态更糟了",
+        "onboard_time": 1747974444,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32445,
+        "num": 291387,
+        "word": "亚历山大领取MVP奖杯",
+        "onboard_time": 1747974324,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290920,
+        "num": 290920,
+        "word": "刘宇宁抵制盗版言论遭断章取义",
+        "onboard_time": 1747969701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216030,
+        "num": 289488,
+        "word": "人民网评藏海传打破爽剧框架",
+        "onboard_time": 1747973723,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48294,
+        "num": 286862,
+        "word": "婚礼前10分钟婚庆公司撤场疑反转",
+        "onboard_time": 1747974085,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73469,
+        "num": 281435,
+        "word": "美媒称国家越弱小在白宫越被敌意对待",
+        "onboard_time": 1747973603,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89673,
+        "num": 276530,
+        "word": "孙杨帮潘展乐捡起冠军号牌",
+        "onboard_time": 1747974025,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274853,
+        "num": 274853,
+        "word": "朱媛媛去世中央戏剧学院致唁电",
+        "onboard_time": 1747966522,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268031,
+        "num": 268031,
+        "word": "在人间共8集",
+        "onboard_time": 1747971622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254061,
+        "num": 254061,
+        "word": "1999年出生努努力能活三个世纪",
+        "onboard_time": 1747972224,
+        "rank": 32,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 252684,
+        "num": 252684,
+        "word": "印度人炫耀洗火车视频遭嘲笑",
+        "onboard_time": 1747971682,
+        "rank": 33,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 251493,
+        "num": 251493,
+        "word": "加班时突然收到资助妹妹的成绩汇报",
+        "onboard_time": 1747969701,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249998,
+        "num": 249998,
+        "word": "肖战谈台词训练",
+        "onboard_time": 1747968861,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63563,
+        "num": 247875,
+        "word": "魏建军心疼中国汽车人",
+        "onboard_time": 1747970602,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75319,
+        "num": 246734,
+        "word": "降价10万的车你敢买吗",
+        "onboard_time": 1747974143,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246648,
+        "num": 246648,
+        "word": "李晟撕拉片6宫格",
+        "onboard_time": 1747974444,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51453,
+        "num": 240387,
+        "word": "老外怎么好意思说我们吃得猎奇啊",
+        "onboard_time": 1747973243,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144684,
+        "num": 240245,
+        "word": "这样宠溺的迪丽热巴朕从未见过",
+        "onboard_time": 1747974564,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240153,
+        "num": 240153,
+        "word": "汪藏海",
+        "onboard_time": 1747968442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204834,
+        "num": 204834,
+        "word": "宣璐悬疑大女主高智感",
+        "onboard_time": 1747973603,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204075,
+        "num": 204075,
+        "word": "灵笼",
+        "onboard_time": 1747973665,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 202505,
+        "num": 202505,
+        "word": "孟婆汤掺水越来越严重了",
+        "onboard_time": 1747972104,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196179,
+        "num": 196179,
+        "word": "黄磊悼念朱媛媛",
+        "onboard_time": 1747966281,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186478,
+        "num": 186478,
+        "word": "医生提醒4个时段不宜洗澡",
+        "onboard_time": 1747972283,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184408,
+        "num": 184408,
+        "word": "王楚钦孙颖莎冲击决赛",
+        "onboard_time": 1747963582,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173495,
+        "num": 173495,
+        "word": "孙杨领奖时和11个弟弟合影",
+        "onboard_time": 1747970904,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167688,
+        "num": 167688,
+        "word": "人在幸福的时候 真的会销声匿迹",
+        "onboard_time": 1747973782,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强生物多样性保护总书记这样说#"
+    }
+  }
+}
