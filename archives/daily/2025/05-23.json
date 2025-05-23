@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747974653542,
+  "endTime": 1747975521807,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -35,7 +35,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1988275,
+      "raw_hot": 2155975,
       "num": 1215382,
       "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
       "onboard_time": 1747968562,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 882502,
-      "num": 548501,
+      "num": 780101,
       "word": "内娱首部水仙剧终于来了",
       "onboard_time": 1747969882,
       "rank": 29,
@@ -108,10 +108,26 @@
     },
     {
       "raw_hot": 803287,
-      "num": 453230,
+      "num": 802475,
       "word": "朱洁静春晚前放化疗25次",
       "onboard_time": 1747970363,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 755806,
+      "num": 806123,
+      "word": "哈佛硬刚美政府",
+      "onboard_time": 1747972763,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 732372,
+      "num": 392215,
+      "word": "黄杨钿甜父亲入职离职动机可疑",
+      "onboard_time": 1747974984,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645478,
+      "num": 446237,
+      "word": "蛮蛮一劭初吻来了",
+      "onboard_time": 1747972343,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 633657,
       "num": 633657,
       "word": "王楚钦",
@@ -171,28 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617467,
-      "num": 446237,
-      "word": "蛮蛮一劭初吻来了",
-      "onboard_time": 1747972343,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 594346,
       "num": 594346,
       "word": "哈佛大学现有外国学生需转学",
       "onboard_time": 1747955659,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 594291,
-      "num": 594291,
-      "word": "哈佛硬刚美政府",
-      "onboard_time": 1747972763,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 551610,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394043,
+      "num": 464831,
+      "word": "梳理黄杨爸爸涉7亿项目招商细节",
+      "onboard_time": 1747973964,
+      "rank": 8,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 390406,
       "num": 390406,
       "word": "孙颖莎4比2申裕斌",
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375004,
+      "num": 375004,
+      "word": "1999年出生努努力能活三个世纪",
+      "onboard_time": 1747972224,
+      "rank": 32,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 371973,
       "num": 265186,
       "word": "女子产检发现宝宝心肝脾全长反了",
@@ -361,6 +385,22 @@
       "onboard_time": 1747928545,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355107,
+      "num": 355107,
+      "word": "橘子 严浩翔",
+      "onboard_time": 1747975105,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344948,
+      "num": 344948,
+      "word": "李晟撕拉片6宫格",
+      "onboard_time": 1747974444,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 336784,
@@ -427,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286030,
+      "num": 286030,
+      "word": "这居然是王菊",
+      "onboard_time": 1747974264,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "小米YU7",
@@ -443,6 +491,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 281708,
+      "num": 289488,
+      "word": "人民网评藏海传打破爽剧框架",
+      "onboard_time": 1747973723,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275729,
       "num": 275729,
       "word": "三毛回应赵丽颖裙子",
@@ -457,14 +513,6 @@
       "onboard_time": 1747971622,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254061,
-      "num": 254061,
-      "word": "1999年出生努努力能活三个世纪",
-      "onboard_time": 1747972224,
-      "rank": 32,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 252780,
@@ -491,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246648,
-      "num": 246648,
-      "word": "李晟撕拉片6宫格",
-      "onboard_time": 1747974444,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246391,
       "num": 246391,
       "word": "黄杨钿甜父亲涉嫌违法生育二孩问题",
@@ -513,6 +553,22 @@
       "onboard_time": 1747926090,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238500,
+      "num": 287944,
+      "word": "高考加油",
+      "onboard_time": 1747974984,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 236321,
+      "num": 285910,
+      "word": "这样宠溺的迪丽热巴朕从未见过",
+      "onboard_time": 1747974564,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 229705,
@@ -571,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219281,
+      "num": 219281,
+      "word": "孟婆汤掺水越来越严重了",
+      "onboard_time": 1747972104,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217575,
       "num": 217575,
       "word": "男孩骑行被碾压案司机发声",
@@ -585,14 +649,6 @@
       "onboard_time": 1747928186,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216030,
-      "num": 289488,
-      "word": "人民网评藏海传打破爽剧框架",
-      "onboard_time": 1747973723,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 214851,
@@ -651,14 +707,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 202505,
-      "num": 202505,
-      "word": "孟婆汤掺水越来越严重了",
-      "onboard_time": 1747972104,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197764,
       "num": 197764,
       "word": "乘风2025五公歌单",
@@ -705,6 +753,14 @@
       "onboard_time": 1747972162,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185797,
+      "num": 212176,
+      "word": "王楚钦一度以为自己要败了",
+      "onboard_time": 1747971863,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 185474,
@@ -761,14 +817,6 @@
       "onboard_time": 1747958240,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174974,
-      "num": 464831,
-      "word": "梳理黄杨爸爸涉7亿项目招商细节",
-      "onboard_time": 1747973964,
-      "rank": 8,
-      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 173846,
@@ -907,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144684,
-      "num": 240245,
-      "word": "这样宠溺的迪丽热巴朕从未见过",
-      "onboard_time": 1747974564,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142973,
       "num": 142973,
       "word": "鹿晗新歌",
@@ -953,6 +993,14 @@
       "onboard_time": 1747964063,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138130,
+      "num": 378637,
+      "word": "新车买回来一年市值下降50%",
+      "onboard_time": 1747974685,
+      "rank": 18,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 138113,
@@ -1131,6 +1179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 109015,
+      "num": 246734,
+      "word": "降价10万的车你敢买吗",
+      "onboard_time": 1747974143,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 107151,
       "num": 107151,
       "word": "王楚钦更换球衣",
@@ -1251,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92055,
+      "num": 396234,
+      "word": "律师称学生坠亡化粪池校方或构成犯罪",
+      "onboard_time": 1747973423,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91353,
       "num": 104624,
       "word": "官方通报大学生坠入化粪池遇难",
@@ -1264,14 +1328,6 @@
       "word": "孙颖莎11比8申裕斌",
       "onboard_time": 1747939635,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90353,
-      "num": 212176,
-      "word": "王楚钦一度以为自己要败了",
-      "onboard_time": 1747971863,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -1355,6 +1411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83020,
+      "num": 240387,
+      "word": "老外怎么好意思说我们吃得猎奇啊",
+      "onboard_time": 1747973243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82102,
+      "num": 281435,
+      "word": "美媒称国家越弱小在白宫越被敌意对待",
+      "onboard_time": 1747973603,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82069,
       "num": 167201,
       "word": "qko否认给赵磊让妆",
@@ -1387,20 +1459,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 75319,
-      "num": 246734,
-      "word": "降价10万的车你敢买吗",
-      "onboard_time": 1747974143,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 73469,
-      "num": 281435,
-      "word": "美媒称国家越弱小在白宫越被敌意对待",
-      "onboard_time": 1747973603,
+      "raw_hot": 71172,
+      "num": 285810,
+      "word": "鹤岗买房热反映了什么心理",
+      "onboard_time": 1747974743,
       "rank": 28,
-      "category": "国际时政"
+      "category": "其它"
     },
     {
       "raw_hot": 69343,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1747944134,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69100,
+      "num": 384764,
+      "word": "花9800元做心理咨询状态更糟了",
+      "onboard_time": 1747974444,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68561,
@@ -1441,6 +1513,22 @@
       "onboard_time": 1747955659,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62606,
+      "num": 427785,
+      "word": "公权要经得起显微镜式追问",
+      "onboard_time": 1747973423,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 62594,
+      "num": 378837,
+      "word": "记者卧底揭缅甸女子买卖黑幕",
+      "onboard_time": 1747975163,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61167,
@@ -1483,22 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51453,
-      "num": 240387,
-      "word": "老外怎么好意思说我们吃得猎奇啊",
-      "onboard_time": 1747973243,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50551,
-      "num": 396234,
-      "word": "律师称学生坠亡化粪池校方或构成犯罪",
-      "onboard_time": 1747973423,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50319,
       "num": 50319,
       "word": "王楚钦第5局状态爆棚",
@@ -1531,12 +1603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46960,
-      "num": 427785,
-      "word": "公权要经得起显微镜式追问",
-      "onboard_time": 1747973423,
-      "rank": 14,
-      "category": "议题讨论"
+      "raw_hot": 46551,
+      "num": 285690,
+      "word": "鬼探头根本来不及反应",
+      "onboard_time": 1747975285,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46190,
@@ -1635,6 +1707,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 32985,
+      "num": 234268,
+      "word": "特朗普伏击南非总统翻车",
+      "onboard_time": 1747975465,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32977,
       "num": 258186,
       "word": "俄决定在俄乌边境设立安全缓冲区",
@@ -1704,14 +1784,6 @@
       "word": "明星小象申申去世",
       "onboard_time": 1747939334,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27641,
-      "num": 292426,
-      "word": "花9800元做心理咨询状态更糟了",
-      "onboard_time": 1747974444,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
