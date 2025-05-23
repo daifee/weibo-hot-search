@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748036291878,
+  "endTime": 1748039077252,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250817,
+      "num": 250817,
+      "word": "暴雨暴雨小心暴雨暴雨",
+      "onboard_time": 1748020518,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244600,
       "num": 182565,
       "word": "陈楚生 高音没声",
@@ -283,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182609,
-      "num": 189127,
-      "word": "暴雨暴雨小心暴雨暴雨",
-      "onboard_time": 1748020518,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 175602,
+      "num": 175602,
+      "word": "恩利庾澄庆 子承父逆",
+      "onboard_time": 1748004867,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171934,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126553,
+      "num": 111271,
+      "word": "朱媛媛在福建火化",
+      "onboard_time": 1748036954,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125949,
       "num": 182259,
       "word": "王楚钦说感谢的话留到最后",
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106824,
+      "num": 106824,
+      "word": "莫雷加德vs户上隼辅",
+      "onboard_time": 1748028254,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99118,
       "num": 181827,
       "word": "病危女婴头上有淤青家长质疑月嫂",
@@ -403,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84629,
+      "num": 84629,
+      "word": "美股暴跌前美政界多人精准抛售",
+      "onboard_time": 1748020457,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83104,
       "num": 181160,
       "word": "老板为省钱饮水机每天只开半小时",
@@ -417,14 +449,6 @@
       "onboard_time": 1748021838,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80752,
-      "num": 80752,
-      "word": "恩利庾澄庆 子承父逆",
-      "onboard_time": 1748004867,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 80437,
@@ -475,14 +499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 60350,
-      "num": 78905,
-      "word": "美股暴跌前美政界多人精准抛售",
-      "onboard_time": 1748020457,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 59586,
       "num": 45300,
       "word": "耳帝没想到林志炫被淘汰",
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53423,
+      "num": 44418,
+      "word": "中餐厅把黑龙江标注到江浙沪区域",
+      "onboard_time": 1748035934,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51484,
       "num": 59064,
       "word": "解压捏捏博主有只猫叫小朋友自称患癌",
@@ -531,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49269,
-      "num": 49269,
-      "word": "莫雷加德vs户上隼辅",
-      "onboard_time": 1748028254,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47537,
       "num": 78878,
       "word": "美取消哈佛留学生合法身份行为被叫停",
@@ -547,20 +563,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44979,
+      "num": 44979,
+      "word": "明星开演唱会需要避开高考时间吗",
+      "onboard_time": 1748033415,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41226,
       "num": 68213,
       "word": "五月天杭州演唱会",
       "onboard_time": 1748016384,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35958,
-      "num": 35958,
-      "word": "明星开演唱会需要避开高考时间吗",
-      "onboard_time": 1748033415,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32763,
@@ -577,6 +593,14 @@
       "onboard_time": 1748012726,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 30583,
+      "num": 41415,
+      "word": "王曼昱说没把美和当作16岁选手",
+      "onboard_time": 1748024116,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 29501,
@@ -635,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24275,
+      "num": 26510,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23536,
       "num": 28987,
       "word": "云合",
@@ -651,30 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23236,
-      "num": 41415,
-      "word": "王曼昱说没把美和当作16岁选手",
-      "onboard_time": 1748024116,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 21370,
-      "num": 21670,
-      "word": "捏捏 甲醛超标",
-      "onboard_time": 1748030954,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17247,
-      "num": 18165,
-      "word": "中餐厅把黑龙江标注到江浙沪区域",
-      "onboard_time": 1748035934,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15821,
       "num": 36960,
       "word": "歌手2025收视创新高",
@@ -683,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14371,
+      "num": 244824,
+      "word": "中国创新成全球经济新机遇",
+      "onboard_time": 1748009492,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14230,
       "num": 37101,
       "word": "阿云嘎回应揭榜失败",
       "onboard_time": 1748021299,
       "rank": 39,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 8693,
-      "num": 135899,
-      "word": "中国创新成全球经济新机遇",
-      "onboard_time": 1748009492,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5952,
