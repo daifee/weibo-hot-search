@@ -1,0 +1,410 @@
+{
+  "runTime": 1747999303840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265601,
+        "num": 1265601,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1747996282,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 981529,
+        "num": 981529,
+        "word": "鹿晗四巡官宣",
+        "onboard_time": 1747995683,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44911,
+        "num": 821858,
+        "word": "数说我国外贸亮眼成绩单",
+        "onboard_time": 1747993941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784437,
+        "num": 784437,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 715546,
+        "num": 715546,
+        "word": "女总裁视频2天暴涨8万粉",
+        "onboard_time": 1747994003,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1688571,
+        "num": 711109,
+        "word": "朱媛媛因病改名",
+        "onboard_time": 1747993703,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698721,
+        "num": 698721,
+        "word": "王艺迪vs伊藤美诚",
+        "onboard_time": 1747996582,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618242,
+        "num": 618242,
+        "word": "李凯馨和前助理和解不代表真相已出",
+        "onboard_time": 1747997242,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609391,
+        "num": 609391,
+        "word": "正午阳光选角",
+        "onboard_time": 1747990703,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331896,
+        "num": 331896,
+        "word": "孙颖莎王楚钦进决赛",
+        "onboard_time": 1747990344,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1049291,
+        "num": 325053,
+        "word": "陈奕迅评论区 老公刚出生三天好嫩",
+        "onboard_time": 1747995202,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577000,
+        "num": 314342,
+        "word": "男子刺死女幼师被鉴定有精神疾病",
+        "onboard_time": 1747992322,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498779,
+        "num": 306741,
+        "word": "梁王",
+        "onboard_time": 1747995202,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354914,
+        "num": 296941,
+        "word": "折腰第22集甜疯了",
+        "onboard_time": 1747998023,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343927,
+        "num": 290640,
+        "word": "易烊千玺李庚希吻戏",
+        "onboard_time": 1747982783,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281698,
+        "num": 281698,
+        "word": "郑雅贤腰线",
+        "onboard_time": 1747997181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272111,
+        "num": 272111,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 263975,
+        "num": 263975,
+        "word": "离铁轨0.8米的房子住了44年",
+        "onboard_time": 1747989863,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21390,
+        "num": 231389,
+        "word": "心理健康的10大标准",
+        "onboard_time": 1747991842,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106997,
+        "num": 230678,
+        "word": "奔驰车司机别停前车用高尔夫球杆狂砸",
+        "onboard_time": 1747998623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341815,
+        "num": 230532,
+        "word": "上海月薪6000一天花多少钱",
+        "onboard_time": 1747989563,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230181,
+        "num": 230181,
+        "word": "月薪3万意味着每天能有1000块",
+        "onboard_time": 1747995982,
+        "rank": 21,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 211880,
+        "num": 211880,
+        "word": "锅巴肉",
+        "onboard_time": 1747998323,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205084,
+        "num": 205084,
+        "word": "单依纯 只用天赋走不出成名路",
+        "onboard_time": 1747992682,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173736,
+        "num": 203581,
+        "word": "李晟王权富贵异地登录",
+        "onboard_time": 1747997904,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8286,
+        "num": 203222,
+        "word": "俄方设安全缓冲区体现什么战略布局",
+        "onboard_time": 1747999042,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139223,
+        "num": 200828,
+        "word": "有很多胃癌都是吃出来的",
+        "onboard_time": 1747998382,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22322,
+        "num": 200128,
+        "word": "美使馆遇害者社交帐号疑曝光",
+        "onboard_time": 1747998082,
+        "rank": 27,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 20168,
+        "num": 198021,
+        "word": "没有人可以笑着走出白宫",
+        "onboard_time": 1747998143,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34173,
+        "num": 196225,
+        "word": "美国留学慎重考虑",
+        "onboard_time": 1747998143,
+        "rank": 29,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "王艺迪无缘世乒赛四强",
+        "onboard_time": 1747999101,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219867,
+        "num": 193576,
+        "word": "以色列至今还欠中国一笔血债",
+        "onboard_time": 1747996282,
+        "rank": 31,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 182017,
+        "num": 182017,
+        "word": "王艺迪换球衣",
+        "onboard_time": 1747998864,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173091,
+        "num": 173091,
+        "word": "事以密成 言以泄败",
+        "onboard_time": 1747982962,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131251,
+        "num": 170285,
+        "word": "林诗栋梁靖崑对决太精彩了",
+        "onboard_time": 1747999223,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168486,
+        "num": 168486,
+        "word": "财经博主分析虞书欣爸爸公司",
+        "onboard_time": 1747996041,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116369,
+        "num": 167628,
+        "word": "王艺迪1比4伊藤美诚",
+        "onboard_time": 1747999283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167525,
+        "num": 167525,
+        "word": "美国法官发布禁令",
+        "onboard_time": 1747996402,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21379,
+        "num": 167104,
+        "word": "当了很久大人可以学当小孩",
+        "onboard_time": 1747999164,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 66286,
+        "num": 165898,
+        "word": "王楚钦再现招牌爆冲得分",
+        "onboard_time": 1747999283,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169695,
+        "num": 165275,
+        "word": "宋妍霏破碎感",
+        "onboard_time": 1747998682,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23255,
+        "num": 164342,
+        "word": "Lovecd离队",
+        "onboard_time": 1747989144,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163859,
+        "num": 163859,
+        "word": "鹿晗 开够四个季节",
+        "onboard_time": 1747998382,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158975,
+        "num": 158975,
+        "word": "周雨彤 谍报上不封顶",
+        "onboard_time": 1747995021,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152306,
+        "num": 152306,
+        "word": "孙颖莎王楚钦刚赢完就去训练了",
+        "onboard_time": 1747995744,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156735,
+        "num": 147743,
+        "word": "孙颖莎给王楚钦的情绪价值",
+        "onboard_time": 1747996582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142430,
+        "num": 142430,
+        "word": "关晓彤冷艳姐感",
+        "onboard_time": 1747995202,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135946,
+        "num": 135946,
+        "word": "林诗栋黄牌",
+        "onboard_time": 1747999283,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134232,
+        "num": 134232,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60751,
+        "num": 133851,
+        "word": "Lovecd道歉",
+        "onboard_time": 1747989383,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动精神文明建设高质量发展#"
+    }
+  }
+}
