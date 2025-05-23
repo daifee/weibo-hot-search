@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747999303840,
+  "endTime": 1748000256508,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1643906,
+      "num": 1643906,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1747996282,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1463939,
       "num": 981529,
       "word": "鹿晗四巡官宣",
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1265601,
-      "num": 1265601,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1747996282,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 1296425,
+      "num": 1296425,
+      "word": "歌手直播",
+      "onboard_time": 1747999823,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1076057,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1049291,
-      "num": 325053,
+      "num": 558157,
       "word": "陈奕迅评论区 老公刚出生三天好嫩",
       "onboard_time": 1747995202,
       "rank": 15,
@@ -211,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 863608,
+      "num": 863608,
+      "word": "女总裁视频2天暴涨8万粉",
+      "onboard_time": 1747994003,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 854456,
       "num": 470555,
       "word": "橘子 严浩翔",
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 767024,
+      "num": 658224,
+      "word": "李凯馨和前助理和解不代表真相已出",
+      "onboard_time": 1747997242,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755806,
       "num": 806123,
       "word": "哈佛硬刚美政府",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 725472,
-      "num": 314342,
+      "num": 482236,
       "word": "男子刺死女幼师被鉴定有精神疾病",
       "onboard_time": 1747992322,
       "rank": 23,
@@ -297,14 +321,6 @@
       "onboard_time": 1747990344,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 715546,
-      "num": 715546,
-      "word": "女总裁视频2天暴涨8万粉",
-      "onboard_time": 1747994003,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 704036,
@@ -387,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 618242,
-      "num": 618242,
-      "word": "李凯馨和前助理和解不代表真相已出",
-      "onboard_time": 1747997242,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 617331,
       "num": 334749,
       "word": "以色列",
@@ -409,6 +417,14 @@
       "onboard_time": 1747989024,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600868,
+      "num": 600868,
+      "word": "王艺迪无缘世乒赛四强",
+      "onboard_time": 1747999101,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 594346,
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 498779,
-      "num": 306741,
+      "num": 486759,
       "word": "梁王",
       "onboard_time": 1747995202,
       "rank": 35,
@@ -545,6 +561,22 @@
       "onboard_time": 1747928245,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453935,
+      "num": 453935,
+      "word": "折腰第22集甜疯了",
+      "onboard_time": 1747998023,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 443807,
+      "num": 443807,
+      "word": "林诗栋黄牌",
+      "onboard_time": 1747999283,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 439631,
@@ -683,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354914,
-      "num": 296941,
-      "word": "折腰第22集甜疯了",
-      "onboard_time": 1747998023,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 353043,
       "num": 353043,
       "word": "谁敢想这年宋威龙才20",
@@ -737,6 +761,14 @@
       "onboard_time": 1747973723,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332352,
+      "num": 332352,
+      "word": "孙颖莎vs大藤沙月",
+      "onboard_time": 1747999883,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 332192,
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281652,
+      "num": 378706,
+      "word": "林诗栋无缘男单四强",
+      "onboard_time": 1747999823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277170,
       "num": 277170,
       "word": "莎头冲击第3个世乒赛混双冠军",
@@ -883,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257461,
+      "num": 416624,
+      "word": "奔驰车司机别停前车用高尔夫球杆狂砸",
+      "onboard_time": 1747998623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252780,
       "num": 196594,
       "word": "男子晨起洗澡后脑勺似被重击昏倒",
@@ -913,6 +961,14 @@
       "onboard_time": 1747995021,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246944,
+      "num": 368139,
+      "word": "林诗栋梁靖崑对决太精彩了",
+      "onboard_time": 1747999223,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 246391,
@@ -979,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236889,
+      "num": 236889,
+      "word": "藏海传全镇被杀",
+      "onboard_time": 1748000182,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236321,
       "num": 285910,
       "word": "这样宠溺的迪丽热巴朕从未见过",
@@ -1004,7 +1068,7 @@
     },
     {
       "raw_hot": 232434,
-      "num": 232434,
+      "num": 340813,
       "word": "财经博主分析虞书欣爸爸公司",
       "onboard_time": 1747996041,
       "rank": 32,
@@ -1203,8 +1267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211880,
-      "num": 211880,
+      "raw_hot": 212669,
+      "num": 401187,
       "word": "锅巴肉",
       "onboard_time": 1747998323,
       "rank": 22,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1747972283,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "王艺迪换球衣",
+      "onboard_time": 1747998864,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 209423,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1747996643,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207975,
+      "num": 383319,
+      "word": "梁靖崑世乒赛晋级四强",
+      "onboard_time": 1747999823,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 207697,
@@ -1363,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196061,
-      "num": 196061,
-      "word": "王艺迪无缘世乒赛四强",
-      "onboard_time": 1747999101,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195970,
       "num": 195970,
       "word": "世乒赛",
@@ -1459,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "王艺迪1比4伊藤美诚",
+      "onboard_time": 1747999283,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190001,
       "num": 190001,
       "word": "浪姐五公",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1747972162,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187286,
+      "num": 187286,
+      "word": "制作人晒与鹿晗合照",
+      "onboard_time": 1748000182,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187182,
@@ -1563,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182017,
-      "num": 182017,
-      "word": "王艺迪换球衣",
-      "onboard_time": 1747998864,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181993,
       "num": 332450,
       "word": "金价再下探",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1747992802,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180929,
+      "num": 180929,
+      "word": "伊藤美诚晋级四强",
+      "onboard_time": 1747999404,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 180803,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1747970904,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177787,
+      "num": 203581,
+      "word": "李晟王权富贵异地登录",
+      "onboard_time": 1747997904,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 177150,
@@ -1691,20 +1787,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174281,
+      "num": 200828,
+      "word": "有很多胃癌都是吃出来的",
+      "onboard_time": 1747998382,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173846,
       "num": 173846,
       "word": "藏海传选角简直是我的青春编年史",
       "onboard_time": 1747970003,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173736,
-      "num": 203581,
-      "word": "李晟王权富贵异地登录",
-      "onboard_time": 1747997904,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 173309,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1747996582,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172054,
+      "num": 172054,
+      "word": "最难分析的星座",
+      "onboard_time": 1747998023,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 171572,
@@ -2179,14 +2283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139223,
-      "num": 200828,
-      "word": "有很多胃癌都是吃出来的",
-      "onboard_time": 1747998382,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138721,
       "num": 138721,
       "word": "赵又廷戛纳出图",
@@ -2225,14 +2321,6 @@
       "onboard_time": 1747988482,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 135946,
-      "num": 135946,
-      "word": "林诗栋黄牌",
-      "onboard_time": 1747999283,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 135116,
@@ -2299,16 +2387,8 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 131251,
-      "num": 170285,
-      "word": "林诗栋梁靖崑对决太精彩了",
-      "onboard_time": 1747999223,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131055,
-      "num": 131055,
+      "num": 336756,
       "word": "今年多场明星演唱会因中高考延期",
       "onboard_time": 1747996103,
       "rank": 48,
@@ -2451,20 +2531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117459,
+      "num": 351209,
+      "word": "伊藤美诚泪洒赛场",
+      "onboard_time": 1747999761,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116650,
       "num": 116650,
       "word": "折腰 少年夫妻",
       "onboard_time": 1747949835,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116369,
-      "num": 167628,
-      "word": "王艺迪1比4伊藤美诚",
-      "onboard_time": 1747999283,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 115549,
@@ -2545,14 +2625,6 @@
       "onboard_time": 1747925610,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106997,
-      "num": 230678,
-      "word": "奔驰车司机别停前车用高尔夫球杆狂砸",
-      "onboard_time": 1747998623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105017,
@@ -2729,6 +2801,14 @@
       "onboard_time": 1747917264,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88406,
+      "num": 285536,
+      "word": "哈佛各国留学生开始互助",
+      "onboard_time": 1748000123,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88068,
@@ -2947,8 +3027,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 66286,
-      "num": 165898,
+      "raw_hot": 67276,
+      "num": 393971,
       "word": "王楚钦再现招牌爆冲得分",
       "onboard_time": 1747999283,
       "rank": 39,
@@ -3132,7 +3212,7 @@
     },
     {
       "raw_hot": 44911,
-      "num": 821858,
+      "num": 989225,
       "word": "数说我国外贸亮眼成绩单",
       "onboard_time": 1747993941,
       "rank": 2,
@@ -3153,6 +3233,14 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43727,
+      "num": 374871,
+      "word": "黄杨钿甜事件固定模式",
+      "onboard_time": 1747999343,
+      "rank": 25,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 42916,
@@ -3364,7 +3452,7 @@
     },
     {
       "raw_hot": 30668,
-      "num": 286202,
+      "num": 410037,
       "word": "心理健康的10大标准",
       "onboard_time": 1747991842,
       "rank": 26,
@@ -3508,7 +3596,7 @@
     },
     {
       "raw_hot": 21379,
-      "num": 167104,
+      "num": 178448,
       "word": "当了很久大人可以学当小孩",
       "onboard_time": 1747999164,
       "rank": 38,
@@ -3553,6 +3641,14 @@
       "onboard_time": 1747976483,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 20578,
+      "num": 388361,
+      "word": "如何看待负照护职责人员性侵罪",
+      "onboard_time": 1747999883,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20373,
@@ -3617,6 +3713,14 @@
       "onboard_time": 1747968261,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16412,
+      "num": 347871,
+      "word": "离职前一定要做的10件事",
+      "onboard_time": 1747999943,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 16040,
@@ -3715,6 +3819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 11237,
+      "num": 356972,
+      "word": "俄方设安全缓冲区体现什么战略布局",
+      "onboard_time": 1747999042,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10639,
       "num": 166065,
       "word": "山区支教老师的一天",
@@ -3745,14 +3857,6 @@
       "onboard_time": 1747735641,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8286,
-      "num": 203222,
-      "word": "俄方设安全缓冲区体现什么战略布局",
-      "onboard_time": 1747999042,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 7202,
