@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747957129048,
+  "endTime": 1747965504590,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2636249,
+      "raw_hot": 2929519,
       "num": 2636249,
       "word": "赵丽颖回应",
       "onboard_time": 1747927586,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2579046,
+      "num": 2579046,
+      "word": "哈佛大学回应",
+      "onboard_time": 1747962561,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1838559,
+      "num": 1838559,
+      "word": "哈佛",
+      "onboard_time": 1747958302,
+      "rank": 1,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 1364148,
@@ -27,12 +43,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076057,
+      "num": 1076057,
+      "word": "在人间",
+      "onboard_time": 1747919364,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868033,
       "num": 329063,
       "word": "米津玄师 Lemon",
       "onboard_time": 1747928606,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 726311,
+      "num": 726311,
+      "word": "特朗普怕了",
+      "onboard_time": 1747956201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 704036,
+      "num": 295278,
+      "word": "男生化粪池溺亡家属与校方达成一致",
+      "onboard_time": 1747958240,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 648660,
@@ -51,20 +91,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535274,
+      "num": 535274,
+      "word": "哈佛大学现有外国学生需转学",
+      "onboard_time": 1747955659,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 518962,
       "num": 518962,
       "word": "王楚钦晋级世乒赛八强",
       "onboard_time": 1747926509,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 514632,
-      "num": 514632,
-      "word": "特朗普怕了",
-      "onboard_time": 1747956201,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 466069,
@@ -75,15 +115,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452655,
-      "num": 257707,
-      "word": "在人间",
-      "onboard_time": 1747919364,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 407485,
+      "raw_hot": 428711,
       "num": 407485,
       "word": "大学生坠入化粪池遇难副校长被免职",
       "onboard_time": 1747930283,
@@ -107,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375095,
+      "num": 163322,
+      "word": "黄子韬49.8元卫生巾被炒到190元",
+      "onboard_time": 1747930222,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371973,
-      "num": 187434,
+      "num": 213532,
       "word": "女子产检发现宝宝心肝脾全长反了",
       "onboard_time": 1747925427,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370476,
+      "num": 370476,
+      "word": "李庚希戛纳红毯",
+      "onboard_time": 1747962503,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 367190,
@@ -139,6 +187,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336037,
+      "num": 311090,
+      "word": "易烊千玺戛纳G社生图",
+      "onboard_time": 1747960162,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 332192,
+      "num": 279487,
+      "word": "刘亦菲黑长直看秀",
+      "onboard_time": 1747958240,
+      "rank": 13,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 314847,
       "num": 240560,
       "word": "陈奕迅露面",
@@ -147,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306437,
-      "num": 163322,
-      "word": "黄子韬49.8元卫生巾被炒到190元",
-      "onboard_time": 1747930222,
-      "rank": 22,
+      "raw_hot": 313096,
+      "num": 313096,
+      "word": "公众要的不是结案而是真相",
+      "onboard_time": 1747959023,
+      "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308441,
+      "num": 308441,
+      "word": "小偷被特警追到体力不支乖乖等抓",
+      "onboard_time": 1747963101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302250,
@@ -179,12 +251,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 255833,
-      "num": 255833,
-      "word": "哈佛大学现有外国学生需转学",
-      "onboard_time": 1747955659,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 270526,
+      "num": 270526,
+      "word": "三毛回应赵丽颖裙子",
+      "onboard_time": 1747963702,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264940,
+      "num": 264940,
+      "word": "娇牛马文学",
+      "onboard_time": 1747963942,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252780,
+      "num": 196594,
+      "word": "男子晨起洗澡后脑勺似被重击昏倒",
+      "onboard_time": 1747958483,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246391,
@@ -200,6 +288,14 @@
       "word": "徐嘉余 余生请多游泳",
       "onboard_time": 1747926090,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231476,
+      "num": 231476,
+      "word": "王楚钦孙颖莎冲击决赛",
+      "onboard_time": 1747963582,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -227,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214861,
+      "num": 214861,
+      "word": "天价耳环牵出旧案反腐没有过去时",
+      "onboard_time": 1747958121,
+      "rank": 17,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 214851,
+      "num": 214851,
+      "word": "雷军说小米YU7不可能19.9万",
+      "onboard_time": 1747920745,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 207622,
       "num": 207622,
       "word": "这是载入中国游泳史的一幕",
@@ -251,14 +363,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 195757,
-      "num": 195757,
-      "word": "雷军说小米YU7不可能19.9万",
-      "onboard_time": 1747920745,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 185474,
       "num": 156268,
       "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
@@ -275,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175346,
+      "num": 175346,
+      "word": "林诗栋说没想到4比0的比分",
+      "onboard_time": 1747958240,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170461,
       "num": 170461,
       "word": "美政府暂停哈佛大学招收国际学生资格",
@@ -289,6 +401,14 @@
       "onboard_time": 1747943354,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167408,
+      "num": 167408,
+      "word": "胃病转化成胃癌前有5个征兆",
+      "onboard_time": 1747965142,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166382,
@@ -323,12 +443,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156129,
+      "num": 156129,
+      "word": "莫迪称巴基斯坦得不到印度一滴水",
+      "onboard_time": 1747964963,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "藏海传云合",
       "onboard_time": 1747934358,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154253,
+      "num": 131979,
+      "word": "雷军说向王腾学习",
+      "onboard_time": 1747965142,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 148525,
+      "num": 148525,
+      "word": "成都一小区像现实版玩具屋",
+      "onboard_time": 1747961123,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146984,
+      "num": 132324,
+      "word": "多哈世乒赛赛程",
+      "onboard_time": 1747958182,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 146104,
@@ -355,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138721,
+      "num": 138721,
+      "word": "赵又廷戛纳出图",
+      "onboard_time": 1747964063,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133318,
       "num": 133318,
       "word": "孙颖莎晋级女单8强",
@@ -369,6 +529,14 @@
       "onboard_time": 1747920625,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131552,
+      "num": 131552,
+      "word": "南昌山姆会员店包子吃出玻璃",
+      "onboard_time": 1747965321,
+      "rank": 33,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 130976,
@@ -435,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118454,
+      "num": 130983,
+      "word": "歌手",
+      "onboard_time": 1747961362,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117578,
       "num": 117578,
       "word": "王楚钦说莎莎连续3个正手至关重要",
@@ -448,6 +624,14 @@
       "word": "谁家男主跑得跟大扑棱蛾子一样啊",
       "onboard_time": 1747950855,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116650,
+      "num": 116650,
+      "word": "折腰 少年夫妻",
+      "onboard_time": 1747949835,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -465,6 +649,22 @@
       "onboard_time": 1747929863,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111332,
+      "num": 132330,
+      "word": "王楚钦说不用总用今天的感觉代入明天",
+      "onboard_time": 1747962382,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110734,
+      "num": 110734,
+      "word": "因为一条路买了一套房",
+      "onboard_time": 1747965321,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 107151,
@@ -491,12 +691,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104317,
-      "num": 104317,
-      "word": "折腰 少年夫妻",
-      "onboard_time": 1747949835,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 104159,
+      "num": 104159,
+      "word": "王楚钦的庆祝动作好燃",
+      "onboard_time": 1747963342,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102623,
+      "num": 102623,
+      "word": "莫雷加德回应自己是大赛型选手",
+      "onboard_time": 1747961603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 97735,
@@ -547,12 +755,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89962,
+      "num": 89962,
+      "word": "还有15天就高考了",
+      "onboard_time": 1747959323,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89335,
       "num": 104602,
       "word": "藏海传这仨笑死我了",
       "onboard_time": 1747917264,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85759,
+      "num": 85759,
+      "word": "憋了一千次才发一次火被说脾气大",
+      "onboard_time": 1747961304,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 85235,
+      "num": 1205253,
+      "word": "网警重拳打击侵公犯罪",
+      "onboard_time": 1747963582,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84729,
@@ -601,6 +833,14 @@
       "onboard_time": 1747931601,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79527,
+      "num": 79527,
+      "word": "强大的肠胃是一种资产",
+      "onboard_time": 1747963641,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 77015,
