@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748026122464,
+  "endTime": 1748028039517,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -571,8 +571,40 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29021,
+      "num": 29021,
+      "word": "天赐的声音",
+      "onboard_time": 1748026875,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27573,
+      "num": 29013,
+      "word": "马嘉祺粉丝 紧张",
+      "onboard_time": 1748027175,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25352,
+      "num": 28999,
+      "word": "周深穿针引线天赋好强",
+      "onboard_time": 1748027774,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23536,
+      "num": 28987,
+      "word": "云合",
+      "onboard_time": 1748027774,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23236,
-      "num": 29066,
+      "num": 41415,
       "word": "王曼昱说没把美和当作16岁选手",
       "onboard_time": 1748024116,
       "rank": 46,
