@@ -1,0 +1,410 @@
+{
+  "runTime": 1747985118356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280516,
+        "num": 1280516,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1069976,
+        "num": 1069976,
+        "word": "黄杨钿甜删耳环照片",
+        "onboard_time": 1747982783,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3701,
+        "num": 814235,
+        "word": "互联中国公益行动",
+        "onboard_time": 1747703850,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719377,
+        "num": 719377,
+        "word": "易烊千玺李庚希吻戏",
+        "onboard_time": 1747982783,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 535265,
+        "num": 535265,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453679,
+        "num": 453679,
+        "word": "19岁偷渡缅甸女子标价20多万",
+        "onboard_time": 1747977804,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584819,
+        "num": 449088,
+        "word": "苏新皓被蟒蛇缠住腿",
+        "onboard_time": 1747977203,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500417,
+        "num": 448044,
+        "word": "无忧渡",
+        "onboard_time": 1747980623,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439631,
+        "num": 439631,
+        "word": "跳水",
+        "onboard_time": 1747981941,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312382,
+        "num": 312382,
+        "word": "同事三年存了10万块",
+        "onboard_time": 1747975645,
+        "rank": 9,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 1362310,
+        "num": 311765,
+        "word": "24岁女幼师当街被刺身亡",
+        "onboard_time": 1747984823,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1129091,
+        "num": 309398,
+        "word": "事以密成 言以泄败",
+        "onboard_time": 1747982962,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238209,
+        "num": 305961,
+        "word": "曹颖称事业做的再好不如多陪孩子长大",
+        "onboard_time": 1747984702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654236,
+        "num": 303099,
+        "word": "根本不介意被视奸",
+        "onboard_time": 1747979483,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74918,
+        "num": 299790,
+        "word": "男子撞人后装热心市民留在肇事现场",
+        "onboard_time": 1747984162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483494,
+        "num": 297660,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200928,
+        "num": 293662,
+        "word": "这杯霸王茶姬有点轻",
+        "onboard_time": 1747984102,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88854,
+        "num": 292621,
+        "word": "男子私用卖房款炒股被判分妻子120万",
+        "onboard_time": 1747984222,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41131,
+        "num": 289989,
+        "word": "哈佛的中国留学生能顺利毕业回国吗",
+        "onboard_time": 1747983744,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16040,
+        "num": 286002,
+        "word": "放射检查费降价都包括哪些项目",
+        "onboard_time": 1747982783,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364514,
+        "num": 282670,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314893,
+        "num": 280676,
+        "word": "姚晨发长文悼念朱媛媛",
+        "onboard_time": 1747981582,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279709,
+        "num": 279709,
+        "word": "朱洁静春晚前放化疗25次",
+        "onboard_time": 1747970363,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247583,
+        "num": 247583,
+        "word": "肖战谈与黄觉第一场对手戏",
+        "onboard_time": 1747971022,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219603,
+        "num": 219603,
+        "word": "202城被授予全国文明城市称号",
+        "onboard_time": 1747979301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199736,
+        "num": 199736,
+        "word": "原来胃是一层层破洞的",
+        "onboard_time": 1747979483,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183234,
+        "num": 183234,
+        "word": "赵丽颖 赵德胤",
+        "onboard_time": 1747968500,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142053,
+        "num": 183228,
+        "word": "医生提醒4个时段不宜洗澡",
+        "onboard_time": 1747972283,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63036,
+        "num": 183010,
+        "word": "高管与女员工接吻被辞索赔百万年薪",
+        "onboard_time": 1747984102,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35847,
+        "num": 182666,
+        "word": "玄戒芯片会搭载在哪些产品上",
+        "onboard_time": 1747984583,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175357,
+        "num": 182480,
+        "word": "周深说和白鹿是周深如故",
+        "onboard_time": 1747984823,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 182350,
+        "word": "王源房东的猫时隔4年从同屏到同台",
+        "onboard_time": 1747982542,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190422,
+        "num": 182055,
+        "word": "肖战说藏海传海报上的眼神是抓拍的",
+        "onboard_time": 1747984583,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181993,
+        "num": 181993,
+        "word": "金价再下探",
+        "onboard_time": 1747984643,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180115,
+        "num": 180115,
+        "word": "国家话剧院再发长文70余人追忆朱媛媛",
+        "onboard_time": 1747978703,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175932,
+        "num": 175932,
+        "word": "中年失业后领取失业金会怎么样",
+        "onboard_time": 1747980202,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170212,
+        "num": 170212,
+        "word": "孟子义李昀锐上综艺方式好特别",
+        "onboard_time": 1747982604,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161488,
+        "num": 161488,
+        "word": "人民网评藏海传打破爽剧框架",
+        "onboard_time": 1747973723,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136846,
+        "num": 161429,
+        "word": "一生爱吃笋的浙江人基因又动了",
+        "onboard_time": 1747983682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161385,
+        "num": 161385,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153334,
+        "num": 153334,
+        "word": "全市场超3300个股上涨",
+        "onboard_time": 1747984041,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149002,
+        "num": 149002,
+        "word": "易烊千玺眼中含泪",
+        "onboard_time": 1747981463,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145026,
+        "num": 145026,
+        "word": "橘子 严浩翔",
+        "onboard_time": 1747975105,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140695,
+        "num": 140695,
+        "word": "吴宣仪陈德容黑白婚纱",
+        "onboard_time": 1747982300,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139708,
+        "num": 139708,
+        "word": "林一包场沈月新剧",
+        "onboard_time": 1747983863,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139518,
+        "num": 139518,
+        "word": "LPL淘汰赛赛程",
+        "onboard_time": 1747983983,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132821,
+        "num": 132821,
+        "word": "张新成姚晓棠第57次取消发送",
+        "onboard_time": 1747983744,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125159,
+        "num": 132198,
+        "word": "2025高考天气预报来了",
+        "onboard_time": 1747982902,
+        "rank": 47,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 131780,
+        "num": 131780,
+        "word": "记者卧底揭缅甸女子买卖黑幕",
+        "onboard_time": 1747975163,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130136,
+        "num": 130136,
+        "word": "内娱首部水仙剧终于来了",
+        "onboard_time": 1747969882,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同法国总统马克龙通电话#"
+    }
+  }
+}
