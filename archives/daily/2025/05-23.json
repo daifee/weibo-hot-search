@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747965504590,
+  "endTime": 1747966863993,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 908590,
+      "num": 585447,
+      "word": "在人间定档",
+      "onboard_time": 1747966581,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868033,
       "num": 329063,
       "word": "米津玄师 Lemon",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 704036,
-      "num": 295278,
+      "num": 391646,
       "word": "男生化粪池溺亡家属与校方达成一致",
       "onboard_time": 1747958240,
       "rank": 11,
@@ -91,12 +99,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535274,
-      "num": 535274,
+      "raw_hot": 594346,
+      "num": 594346,
       "word": "哈佛大学现有外国学生需转学",
       "onboard_time": 1747955659,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546175,
+      "num": 402878,
+      "word": "黄磊悼念朱媛媛",
+      "onboard_time": 1747966281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 528593,
+      "num": 397040,
+      "word": "娇牛马文学",
+      "onboard_time": 1747963942,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 518962,
@@ -105,6 +129,14 @@
       "onboard_time": 1747926509,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479143,
+      "num": 479143,
+      "word": "小偷被特警追到体力不支乖乖等抓",
+      "onboard_time": 1747963101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466069,
@@ -123,12 +155,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415728,
+      "num": 415728,
+      "word": "王楚钦孙颖莎冲击决赛",
+      "onboard_time": 1747963582,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 411267,
+      "num": 411267,
+      "word": "陈奕迅晒怼脸自拍再报平安",
+      "onboard_time": 1747965801,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390406,
       "num": 390406,
       "word": "孙颖莎4比2申裕斌",
       "onboard_time": 1747938316,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389427,
+      "num": 389427,
+      "word": "李庚希戛纳红毯",
+      "onboard_time": 1747962503,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 382415,
@@ -148,19 +204,11 @@
     },
     {
       "raw_hot": 371973,
-      "num": 213532,
+      "num": 265186,
       "word": "女子产检发现宝宝心肝脾全长反了",
       "onboard_time": 1747925427,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370476,
-      "num": 370476,
-      "word": "李庚希戛纳红毯",
-      "onboard_time": 1747962503,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 367190,
@@ -177,6 +225,14 @@
       "onboard_time": 1747928545,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339915,
+      "num": 339915,
+      "word": "莫迪称巴基斯坦得不到印度一滴水",
+      "onboard_time": 1747964963,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 336784,
@@ -203,6 +259,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 329103,
+      "num": 329103,
+      "word": "因为一条路买了一套房",
+      "onboard_time": 1747965321,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314847,
       "num": 240560,
       "word": "陈奕迅露面",
@@ -217,14 +281,6 @@
       "onboard_time": 1747959023,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308441,
-      "num": 308441,
-      "word": "小偷被特警追到体力不支乖乖等抓",
-      "onboard_time": 1747963101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302250,
@@ -243,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284039,
+      "num": 284039,
+      "word": "留几手称自己不如吴尊",
+      "onboard_time": 1747965741,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "小米YU7",
@@ -251,20 +315,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 270526,
-      "num": 270526,
+      "raw_hot": 275729,
+      "num": 275729,
       "word": "三毛回应赵丽颖裙子",
       "onboard_time": 1747963702,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 264940,
-      "num": 264940,
-      "word": "娇牛马文学",
-      "onboard_time": 1747963942,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 256433,
+      "num": 256433,
+      "word": "胃病转化成胃癌前有5个征兆",
+      "onboard_time": 1747965142,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252780,
@@ -288,14 +352,6 @@
       "word": "徐嘉余 余生请多游泳",
       "onboard_time": 1747926090,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 231476,
-      "num": 231476,
-      "word": "王楚钦孙颖莎冲击决赛",
-      "onboard_time": 1747963582,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -324,7 +380,7 @@
     },
     {
       "raw_hot": 214861,
-      "num": 214861,
+      "num": 276986,
       "word": "天价耳环牵出旧案反腐没有过去时",
       "onboard_time": 1747958121,
       "rank": 17,
@@ -355,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201457,
+      "num": 201457,
+      "word": "朱媛媛去世中央戏剧学院致唁电",
+      "onboard_time": 1747966522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196658,
       "num": 196658,
       "word": "快70了才穿上18岁想穿的衣服",
       "onboard_time": 1747926211,
       "rank": 17,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 189542,
+      "num": 189542,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1747933518,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185474,
@@ -403,12 +475,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 167408,
-      "num": 167408,
-      "word": "胃病转化成胃癌前有5个征兆",
-      "onboard_time": 1747965142,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 167921,
+      "num": 167921,
+      "word": "中国人民抗战胜利80周年",
+      "onboard_time": 1747966223,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166382,
@@ -441,14 +513,6 @@
       "onboard_time": 1747919905,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156129,
-      "num": 156129,
-      "word": "莫迪称巴基斯坦得不到印度一滴水",
-      "onboard_time": 1747964963,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154323,
@@ -499,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141963,
+      "num": 141963,
+      "word": "距2025高考还有15天",
+      "onboard_time": 1747966223,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 140084,
       "num": 140084,
       "word": "邓佳鑫祝左航生日快乐",
@@ -513,6 +585,14 @@
       "onboard_time": 1747964063,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136826,
+      "num": 136826,
+      "word": "全自动上坟植物",
+      "onboard_time": 1747966161,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 133318,
@@ -587,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119681,
+      "num": 119681,
+      "word": "强烈谴责澳针对中国公民暴力行为",
+      "onboard_time": 1747966161,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118574,
       "num": 118574,
       "word": "歌手歌单",
@@ -659,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110734,
-      "num": 110734,
-      "word": "因为一条路买了一套房",
-      "onboard_time": 1747965321,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107151,
       "num": 107151,
       "word": "王楚钦更换球衣",
@@ -699,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103740,
+      "num": 103740,
+      "word": "中国天眼又有罕见新发现",
+      "onboard_time": 1747956201,
+      "rank": 43,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 102623,
       "num": 102623,
       "word": "莫雷加德回应自己是大赛型选手",
@@ -707,12 +795,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102535,
+      "num": 102535,
+      "word": "还有15天就高考了",
+      "onboard_time": 1747959323,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102321,
+      "num": 102321,
+      "word": "抗战烽火中的芳华",
+      "onboard_time": 1747965681,
+      "rank": 44,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 97735,
       "num": 104635,
       "word": "马嘉祺 我们哥俩被人算计了",
       "onboard_time": 1747918224,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96746,
+      "num": 96746,
+      "word": "NBA",
+      "onboard_time": 1747966341,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95305,
@@ -753,14 +865,6 @@
       "onboard_time": 1747939635,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89962,
-      "num": 89962,
-      "word": "还有15天就高考了",
-      "onboard_time": 1747959323,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89335,
@@ -867,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65473,
-      "num": 65473,
-      "word": "中国天眼又有罕见新发现",
-      "onboard_time": 1747956201,
-      "rank": 43,
-      "category": "民生新闻,科学科普"
-    },
-    {
       "raw_hot": 65192,
       "num": 171650,
       "word": "林诗栋回应下轮对阵梁靖崑",
@@ -961,6 +1057,22 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41956,
+      "num": 195173,
+      "word": "国乒7名主力跻身单打8强",
+      "onboard_time": 1747961003,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41215,
+      "num": 194738,
+      "word": "美国将办运动会鼓励运动员用兴奋剂",
+      "onboard_time": 1747965922,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40322,
