@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748004645637,
+  "endTime": 1748005550623,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1080,6 +1080,14 @@
       "word": "王菲嗓子无敌了",
       "onboard_time": 1738072539,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6766123,
+      "num": 6766123,
+      "word": "阿云嘎秒了",
+      "onboard_time": 1748004505,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739434161,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3200356,
-      "num": 3200356,
-      "word": "放羊的星星男演员卷入杀人案",
-      "onboard_time": 1736935939,
-      "rank": 9,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

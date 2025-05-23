@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1748004645637,
+  "endTime": 1748005550623,
   "band_list": [
     {
       "raw_hot": 8298321,
@@ -8,6 +8,14 @@
       "word": "陈楚生 高音没声",
       "onboard_time": 1748003605,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6766123,
+      "num": 6766123,
+      "word": "阿云嘎秒了",
+      "onboard_time": 1748004505,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -43,20 +51,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2960185,
+      "num": 519322,
+      "word": "难听",
+      "onboard_time": 1748004988,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2929519,
       "num": 2636249,
       "word": "赵丽颖回应",
       "onboard_time": 1747927586,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2585775,
-      "num": 769519,
-      "word": "阿云嘎秒了",
-      "onboard_time": 1748004505,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2579046,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532350,
+      "num": 508864,
+      "word": "歌手还我何炅单人机位",
+      "onboard_time": 1748004808,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528593,
       "num": 397040,
       "word": "娇牛马文学",
@@ -617,6 +633,14 @@
       "onboard_time": 1747990703,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504920,
+      "num": 504920,
+      "word": "歌手投票",
+      "onboard_time": 1748004867,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 498779,
@@ -713,6 +737,14 @@
       "onboard_time": 1747930283,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418542,
+      "num": 418542,
+      "word": "恩利庾澄庆 子承父逆",
+      "onboard_time": 1748004867,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 415728,
@@ -891,6 +923,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 332105,
+      "num": 332105,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320382,
       "num": 250670,
       "word": "戛纳7分钟是易烊千玺的7年",
@@ -931,12 +971,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303461,
+      "num": 303461,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302250,
       "num": 302250,
       "word": "黄杨钿甜父亲情况核查最新进展",
       "onboard_time": 1747908745,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298169,
+      "num": 304430,
+      "word": "王楚钦采访结束转身就走",
+      "onboard_time": 1748003667,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 294582,
+      "num": 736987,
+      "word": "凤阳鼓楼瓦片脱落调查处置情况通报",
+      "onboard_time": 1748003545,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 293417,
@@ -987,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277565,
+      "num": 277565,
+      "word": "十个勤天二巡官宣",
+      "onboard_time": 1748004568,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277170,
       "num": 277170,
       "word": "莎头冲击第3个世乒赛混双冠军",
@@ -1003,20 +1075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275248,
+      "num": 306603,
+      "word": "孙颖莎半决赛对战伊藤美诚",
+      "onboard_time": 1748004148,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274236,
       "num": 333924,
       "word": "浙江文旅厅长回应给小学生回信写错字",
       "onboard_time": 1747988963,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269045,
-      "num": 269045,
-      "word": "王楚钦采访结束转身就走",
-      "onboard_time": 1748003667,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 268031,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1748002944,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261526,
-      "num": 736987,
-      "word": "凤阳鼓楼瓦片脱落调查处置情况通报",
-      "onboard_time": 1748003545,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257461,
@@ -1115,12 +1179,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "歌手 编曲",
+      "onboard_time": 1748004748,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242905,
       "num": 458235,
       "word": "哈佛留学生何去何从",
       "onboard_time": 1747977623,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 241625,
+      "num": 241625,
+      "word": "廊坊警方通报男子刺死女幼师案",
+      "onboard_time": 1748004685,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240388,
@@ -1339,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217513,
+      "num": 217513,
+      "word": "你不是棋子你是我的妻子",
+      "onboard_time": 1748004385,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216181,
       "num": 216181,
       "word": "蔡徐坤换了微博头像",
@@ -1369,14 +1457,6 @@
       "onboard_time": 1747920745,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 214244,
-      "num": 214244,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214173,
@@ -1491,14 +1571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205319,
-      "num": 205319,
-      "word": "孙颖莎半决赛对战伊藤美诚",
-      "onboard_time": 1748004148,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204848,
       "num": 204848,
       "word": "肖战回应歪嘴笑",
@@ -1555,12 +1627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200529,
-      "num": 430313,
+      "raw_hot": 201584,
+      "num": 509949,
       "word": "罗予彤直播",
       "onboard_time": 1748004206,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198727,
+      "num": 198727,
+      "word": "凤阳分管副县长被停职检查",
+      "onboard_time": 1748004568,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198524,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1747991422,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197927,
+      "num": 197927,
+      "word": "马嘉祺回应首上歌手",
+      "onboard_time": 1748005468,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 197764,
@@ -1673,14 +1761,6 @@
       "onboard_time": 1747985183,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192601,
-      "num": 192601,
-      "word": "你不是棋子你是我的妻子",
-      "onboard_time": 1748004385,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 192343,
@@ -1913,14 +1993,6 @@
       "onboard_time": 1747981103,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179758,
-      "num": 179758,
-      "word": "十个勤天二巡官宣",
-      "onboard_time": 1748004568,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 179076,
@@ -2531,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136689,
+      "num": 506847,
+      "word": "孙颖莎说放低位置全力去拼",
+      "onboard_time": 1748004626,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136652,
       "num": 334095,
       "word": "华为nova14鸿蒙红包",
@@ -2779,6 +2859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115080,
+      "num": 518484,
+      "word": "董明珠孟羽童直播互动超有爱",
+      "onboard_time": 1748004748,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112865,
       "num": 112865,
       "word": "藏海好疯批的笑声",
@@ -2809,6 +2897,14 @@
       "onboard_time": 1747991303,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109348,
+      "num": 382577,
+      "word": "美股七巨头集体重挫",
+      "onboard_time": 1748005289,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 109074,
@@ -2929,6 +3025,14 @@
       "onboard_time": 1747966341,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95589,
+      "num": 209565,
+      "word": "绝区零2.0",
+      "onboard_time": 1748005528,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 95305,
@@ -3107,14 +3211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83410,
-      "num": 192668,
-      "word": "孙颖莎说放低位置全力去拼",
-      "onboard_time": 1748004626,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83193,
       "num": 236217,
       "word": "知情人谈悉尼多名青少年殴打华人夫妇",
@@ -3265,6 +3361,14 @@
       "onboard_time": 1747999283,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65354,
+      "num": 208653,
+      "word": "减肥跳绳选无绳还是有绳的",
+      "onboard_time": 1748005289,
+      "rank": 44,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 65192,
@@ -3468,7 +3572,7 @@
     },
     {
       "raw_hot": 44911,
-      "num": 1188877,
+      "num": 3439118,
       "word": "数说我国外贸亮眼成绩单",
       "onboard_time": 1747993941,
       "rank": 2,
@@ -3489,6 +3593,14 @@
       "onboard_time": 1747933339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43747,
+      "num": 380183,
+      "word": "哈佛再次起诉美国政府",
+      "onboard_time": 1748005408,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42916,
@@ -3563,6 +3675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 39731,
+      "num": 381534,
+      "word": "年轻人能经常旅游的原因",
+      "onboard_time": 1748005289,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39460,
       "num": 40577,
       "word": "林诗栋12比10卡尔伯格",
@@ -3593,6 +3713,14 @@
       "onboard_time": 1747984583,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 35741,
+      "num": 277960,
+      "word": "留学生回应现有的哈佛国际生须转学",
+      "onboard_time": 1748005528,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35064,
@@ -3931,6 +4059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20233,
+      "num": 381061,
+      "word": "长大后盛情款待小时候的自己",
+      "onboard_time": 1748005289,
+      "rank": 29,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 20168,
       "num": 198021,
       "word": "没有人可以笑着走出白宫",
@@ -4137,6 +4273,14 @@
       "onboard_time": 1747992682,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 6821,
+      "num": 383767,
+      "word": "土耳其简直是爱猫人士的天堂",
+      "onboard_time": 1748005289,
+      "rank": 26,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 4777,

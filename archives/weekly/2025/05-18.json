@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748004645637,
+  "endTime": 1748005550623,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -72,6 +72,14 @@
       "word": "陈楚生 高音没声",
       "onboard_time": 1748003605,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6766123,
+      "num": 6766123,
+      "word": "阿云嘎秒了",
+      "onboard_time": 1748004505,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2960185,
+      "num": 519322,
+      "word": "难听",
+      "onboard_time": 1748004988,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2955371,
       "num": 1075457,
       "word": "新加坡男星多次性侵未成年判40个月",
@@ -193,14 +209,6 @@
       "onboard_time": 1747630827,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2585775,
-      "num": 769519,
-      "word": "阿云嘎秒了",
-      "onboard_time": 1748004505,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2579046,
@@ -3323,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 532350,
+      "num": 508864,
+      "word": "歌手还我何炅单人机位",
+      "onboard_time": 1748004808,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531990,
       "num": 381542,
       "word": "编剧祝明再发长文",
@@ -3441,6 +3457,14 @@
       "onboard_time": 1747574302,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504920,
+      "num": 504920,
+      "word": "歌手投票",
+      "onboard_time": 1748004867,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 503569,
@@ -4113,6 +4137,14 @@
       "onboard_time": 1747799368,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 418542,
+      "num": 418542,
+      "word": "恩利庾澄庆 子承父逆",
+      "onboard_time": 1748004867,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 417168,
@@ -5075,6 +5107,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 332105,
+      "num": 332105,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1748005228,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331246,
       "num": 331246,
       "word": "纽约一大型帆船撞桥",
@@ -5451,6 +5491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303461,
+      "num": 303461,
+      "word": "浙江一学校食堂绞肉机现大量活蛆",
+      "onboard_time": 1748004505,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302030,
       "num": 209008,
       "word": "小米YU7内饰",
@@ -5563,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298169,
+      "num": 304430,
+      "word": "王楚钦采访结束转身就走",
+      "onboard_time": 1748003667,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297934,
       "num": 263067,
       "word": "刘亦菲第二场晚宴造型",
@@ -5593,6 +5649,14 @@
       "onboard_time": 1747885101,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294582,
+      "num": 736987,
+      "word": "凤阳鼓楼瓦片脱落调查处置情况通报",
+      "onboard_time": 1748003545,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 294142,
@@ -5963,6 +6027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277565,
+      "num": 277565,
+      "word": "十个勤天二巡官宣",
+      "onboard_time": 1748004568,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277447,
       "num": 358183,
       "word": "联想拯救者全系新品开售",
@@ -6041,6 +6113,14 @@
       "onboard_time": 1747789652,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275248,
+      "num": 306603,
+      "word": "孙颖莎半决赛对战伊藤美诚",
+      "onboard_time": 1748004148,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 275153,
@@ -6161,14 +6241,6 @@
       "onboard_time": 1747625603,
       "rank": 41,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 269045,
-      "num": 269045,
-      "word": "王楚钦采访结束转身就走",
-      "onboard_time": 1748003667,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 268876,
@@ -6385,14 +6457,6 @@
       "onboard_time": 1747549942,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261526,
-      "num": 736987,
-      "word": "凤阳鼓楼瓦片脱落调查处置情况通报",
-      "onboard_time": 1748003545,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 260959,
@@ -6811,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "歌手 编曲",
+      "onboard_time": 1748004748,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243383,
       "num": 243383,
       "word": "恋与制作人诺比小兔",
@@ -6881,6 +6953,14 @@
       "onboard_time": 1747644145,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241625,
+      "num": 241625,
+      "word": "廊坊警方通报男子刺死女幼师案",
+      "onboard_time": 1748004685,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241545,
@@ -7915,6 +7995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217513,
+      "num": 217513,
+      "word": "你不是棋子你是我的妻子",
+      "onboard_time": 1748004385,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217403,
       "num": 108904,
       "word": "王楚钦下轮对阵饭冢",
@@ -8073,14 +8161,6 @@
       "onboard_time": 1747905862,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214244,
-      "num": 214244,
-      "word": "浙江一学校食堂绞肉机现大量活蛆",
-      "onboard_time": 1748004505,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214221,
@@ -8787,14 +8867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205319,
-      "num": 205319,
-      "word": "孙颖莎半决赛对战伊藤美诚",
-      "onboard_time": 1748004148,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205238,
       "num": 205238,
       "word": "科学家发现精子温控开关",
@@ -9083,6 +9155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201584,
+      "num": 509949,
+      "word": "罗予彤直播",
+      "onboard_time": 1748004206,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201507,
       "num": 214837,
       "word": "藏海 幻视好凉",
@@ -9169,14 +9249,6 @@
       "onboard_time": 1747542810,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200529,
-      "num": 430313,
-      "word": "罗予彤直播",
-      "onboard_time": 1748004206,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 200485,
@@ -9363,6 +9435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 198727,
+      "num": 198727,
+      "word": "凤阳分管副县长被停职检查",
+      "onboard_time": 1748004568,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198547,
       "num": 198547,
       "word": "刘亦菲风华绝代又松弛自然",
@@ -9417,6 +9497,14 @@
       "onboard_time": 1747746685,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197927,
+      "num": 197927,
+      "word": "马嘉祺回应首上歌手",
+      "onboard_time": 1748005468,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 197798,
@@ -9961,14 +10049,6 @@
       "onboard_time": 1747748964,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192601,
-      "num": 192601,
-      "word": "你不是棋子你是我的妻子",
-      "onboard_time": 1748004385,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 192431,
@@ -11249,14 +11329,6 @@
       "onboard_time": 1747981103,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179758,
-      "num": 179758,
-      "word": "十个勤天二巡官宣",
-      "onboard_time": 1748004568,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 179525,
@@ -15171,6 +15243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136689,
+      "num": 506847,
+      "word": "孙颖莎说放低位置全力去拼",
+      "onboard_time": 1748004626,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136652,
       "num": 334095,
       "word": "华为nova14鸿蒙红包",
@@ -16883,6 +16963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115080,
+      "num": 518484,
+      "word": "董明珠孟羽童直播互动超有爱",
+      "onboard_time": 1748004748,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114993,
       "num": 185336,
       "word": "不要小看印度的理由",
@@ -17305,6 +17393,14 @@
       "onboard_time": 1747615293,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109348,
+      "num": 382577,
+      "word": "美股七巨头集体重挫",
+      "onboard_time": 1748005289,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 109095,
@@ -18129,6 +18225,14 @@
       "onboard_time": 1747619783,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95589,
+      "num": 209565,
+      "word": "绝区零2.0",
+      "onboard_time": 1748005528,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 95348,
@@ -19024,14 +19128,6 @@
       "word": "孙颖莎说赢第六局有些侥幸",
       "onboard_time": 1747956201,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83410,
-      "num": 192668,
-      "word": "孙颖莎说放低位置全力去拼",
-      "onboard_time": 1748004626,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -20265,6 +20361,14 @@
       "onboard_time": 1747759040,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65354,
+      "num": 208653,
+      "word": "减肥跳绳选无绳还是有绳的",
+      "onboard_time": 1748005289,
+      "rank": 44,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 65352,
@@ -21676,7 +21780,7 @@
     },
     {
       "raw_hot": 44911,
-      "num": 1188877,
+      "num": 3439118,
       "word": "数说我国外贸亮眼成绩单",
       "onboard_time": 1747993941,
       "rank": 2,
@@ -21745,6 +21849,14 @@
       "onboard_time": 1747780518,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43747,
+      "num": 380183,
+      "word": "哈佛再次起诉美国政府",
+      "onboard_time": 1748005408,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43717,
@@ -22123,6 +22235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39731,
+      "num": 381534,
+      "word": "年轻人能经常旅游的原因",
+      "onboard_time": 1748005289,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39696,
       "num": 201071,
       "word": "国家发改委召开5月份新闻发布会",
@@ -22417,6 +22537,14 @@
       "onboard_time": 1747744642,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35741,
+      "num": 277960,
+      "word": "留学生回应现有的哈佛国际生须转学",
+      "onboard_time": 1748005528,
+      "rank": 37,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35635,
@@ -24411,6 +24539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20233,
+      "num": 381061,
+      "word": "长大后盛情款待小时候的自己",
+      "onboard_time": 1748005289,
+      "rank": 29,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 20189,
       "num": 184834,
       "word": "如何看待巴基斯坦击落印度战机",
@@ -26033,6 +26169,14 @@
       "onboard_time": 1747751485,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 6821,
+      "num": 383767,
+      "word": "土耳其简直是爱猫人士的天堂",
+      "onboard_time": 1748005289,
+      "rank": 26,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 6361,
