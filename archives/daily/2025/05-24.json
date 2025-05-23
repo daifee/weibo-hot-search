@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748032873735,
+  "endTime": 1748035326194,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -547,6 +547,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35958,
+      "num": 35958,
+      "word": "明星开演唱会需要避开高考时间吗",
+      "onboard_time": 1748033415,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35182,
+      "num": 35182,
+      "word": "莫雷加德vs户上隼辅",
+      "onboard_time": 1748028254,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32763,
       "num": 31339,
       "word": "Grace第二",
@@ -595,19 +611,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25551,
-      "num": 25551,
-      "word": "莫雷加德vs户上隼辅",
-      "onboard_time": 1748028254,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25352,
       "num": 28999,
       "word": "周深穿针引线天赋好强",
       "onboard_time": 1748027774,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24704,
+      "num": 21335,
+      "word": "单依纯第一实至名归",
+      "onboard_time": 1748034615,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -635,7 +651,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19072,
+      "raw_hot": 19286,
       "num": 21670,
       "word": "捏捏 甲醛超标",
       "onboard_time": 1748030954,
@@ -659,8 +675,8 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 8141,
-      "num": 108463,
+      "raw_hot": 8507,
+      "num": 110195,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748032873735,
+  "endTime": 1748035326194,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -80835,6 +80835,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 35958,
+      "num": 35958,
+      "word": "明星开演唱会需要避开高考时间吗",
+      "onboard_time": 1748033415,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35927,
       "num": 152388,
       "word": "印度民众拍到战机的发动机残骸",
@@ -81049,6 +81057,14 @@
       "onboard_time": 1747721420,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35182,
+      "num": 35182,
+      "word": "莫雷加德vs户上隼辅",
+      "onboard_time": 1748028254,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 35170,
@@ -84435,14 +84451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25551,
-      "num": 25551,
-      "word": "莫雷加德vs户上隼辅",
-      "onboard_time": 1748028254,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25547,
       "num": 297495,
       "word": "前庭训练对缓解眩晕症的效果如何",
@@ -84817,6 +84825,14 @@
       "onboard_time": 1746588922,
       "rank": 27,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 24704,
+      "num": 21335,
+      "word": "单依纯第一实至名归",
+      "onboard_time": 1748034615,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 24696,
@@ -87131,6 +87147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 19286,
+      "num": 21670,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19215,
       "num": 152404,
       "word": "和平时期离死亡最近的人",
@@ -87216,14 +87240,6 @@
       "word": "韩勇一审死缓",
       "onboard_time": 1747685954,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19072,
-      "num": 21670,
-      "word": "捏捏 甲醛超标",
-      "onboard_time": 1748030954,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
