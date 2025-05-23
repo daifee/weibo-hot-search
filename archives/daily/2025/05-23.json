@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1748011424671,
+  "endTime": 1748014038813,
   "band_list": [
     {
       "raw_hot": 15088959,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 4255396,
-      "num": 445784,
+      "num": 795368,
       "word": "林志炫淘汰",
       "onboard_time": 1748010513,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 3357538,
-      "num": 519322,
+      "num": 680377,
       "word": "难听",
       "onboard_time": 1748004988,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1748007507,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1898843,
+      "num": 1898843,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1748008413,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1838559,
@@ -299,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1074915,
-      "num": 1074915,
-      "word": "王楚钦vs林昀儒",
-      "onboard_time": 1748008413,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1069976,
       "num": 1069976,
       "word": "黄杨钿甜删耳环照片",
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 959771,
-      "num": 360421,
+      "num": 428088,
       "word": "朱媛媛最后的朋友圈",
       "onboard_time": 1748005887,
       "rank": 20,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 836464,
+      "num": 836464,
+      "word": "女单四强国乒占三席",
+      "onboard_time": 1748011108,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 817323,
       "num": 817323,
       "word": "美取消哈佛留学生合法身份行为被叫停",
@@ -417,6 +425,14 @@
       "onboard_time": 1747970363,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798187,
+      "num": 798187,
+      "word": "王楚钦世乒赛晋级四强",
+      "onboard_time": 1748013386,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 794857,
@@ -827,12 +843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498472,
+      "num": 498472,
+      "word": "黄杨钿甜母亲也不该隐身",
+      "onboard_time": 1748011648,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489964,
       "num": 309620,
       "word": "单依纯 只用天赋走不出成名路",
       "onboard_time": 1747992682,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488021,
+      "num": 436884,
+      "word": "耳帝评歌手第二期",
+      "onboard_time": 1748013326,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 487703,
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 486171,
-      "num": 235105,
+      "num": 268412,
       "word": "肖战回应张婧仪",
       "onboard_time": 1748008111,
       "rank": 33,
@@ -939,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422008,
+      "num": 314241,
+      "word": "陈楚生回应高音没声",
+      "onboard_time": 1748011887,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415728,
       "num": 490752,
       "word": "王楚钦孙颖莎冲击决赛",
       "onboard_time": 1747963582,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396679,
+      "num": 306947,
+      "word": "谁来救救沈梦辰",
+      "onboard_time": 1748012846,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 395111,
@@ -1011,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376211,
+      "num": 304192,
+      "word": "中岛美嘉 一了百了",
+      "onboard_time": 1748013206,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375095,
       "num": 163322,
       "word": "黄子韬49.8元卫生巾被炒到190元",
@@ -1059,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361090,
+      "num": 457316,
+      "word": "肖战是藏海传第一人选",
+      "onboard_time": 1748013386,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358706,
       "num": 271747,
       "word": "肖战追着藏海传制片人聊演技",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1747974444,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340357,
+      "num": 340357,
+      "word": "孙颖莎稳坐世界第一即将满三年",
+      "onboard_time": 1748013147,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 338384,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1747908745,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301854,
+      "num": 301854,
+      "word": "韩国反华情绪正螺旋上涨",
+      "onboard_time": 1748013744,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 298169,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1747998623,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256915,
+      "num": 340124,
+      "word": "林诗栋说继续向梁靖崑学习",
+      "onboard_time": 1748013025,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 254530,
@@ -1907,12 +1995,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203656,
+      "num": 203656,
+      "word": "王楚钦超强变线点燃全场",
+      "onboard_time": 1748013865,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203541,
       "num": 203541,
       "word": "孙颖莎希望明天有个好的结果",
       "onboard_time": 1747992442,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203211,
+      "num": 203211,
+      "word": "李天泽",
+      "onboard_time": 1748013686,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201626,
+      "num": 201626,
+      "word": "珠玉",
+      "onboard_time": 1748013744,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 201584,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1748009369,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200088,
+      "num": 246007,
+      "word": "王曼昱回应击败张本美和",
+      "onboard_time": 1748011049,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 198727,
@@ -1993,6 +2113,14 @@
       "onboard_time": 1748002222,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194926,
+      "num": 232575,
+      "word": "辛柏青朱媛媛再过3天结婚满19年",
+      "onboard_time": 1748011349,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194456,
@@ -2403,14 +2531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173838,
-      "num": 249579,
-      "word": "女单四强国乒占三席",
-      "onboard_time": 1748011108,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173309,
       "num": 173309,
       "word": "桃源深处有人家",
@@ -2675,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158634,
-      "num": 232575,
-      "word": "辛柏青朱媛媛再过3天结婚满19年",
-      "onboard_time": 1748011349,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158239,
       "num": 334770,
       "word": "肖战回应新剧演致命男人",
@@ -2724,7 +2836,7 @@
     },
     {
       "raw_hot": 156920,
-      "num": 329437,
+      "num": 456315,
       "word": "比雅迪更懂雅迪的是王鹤棣",
       "onboard_time": 1748010572,
       "rank": 16,
@@ -3299,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109841,
+      "num": 440444,
+      "word": "董明珠当年为何开除孟羽童",
+      "onboard_time": 1748012486,
+      "rank": 19,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 109578,
       "num": 233072,
       "word": "王楚钦再现招牌爆冲",
@@ -3513,6 +3633,14 @@
       "onboard_time": 1747988664,
       "rank": 12,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 89820,
+      "num": 202296,
+      "word": "韩安冉老公去种地了",
+      "onboard_time": 1748013925,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 89673,
@@ -3843,14 +3971,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 62228,
-      "num": 246007,
-      "word": "王曼昱回应击败张本美和",
-      "onboard_time": 1748011049,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61167,
       "num": 223679,
       "word": "美政府威胁剥夺哈佛大学的免税地位",
@@ -3865,6 +3985,14 @@
       "onboard_time": 1747932740,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60223,
+      "num": 457786,
+      "word": "网课被外教吓坏女童疑出现心理问题",
+      "onboard_time": 1748012966,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60156,
@@ -3916,7 +4044,7 @@
     },
     {
       "raw_hot": 56169,
-      "num": 1722449,
+      "num": 2924521,
       "word": "回顾神二十乘组首次出舱全过程",
       "onboard_time": 1748009852,
       "rank": 2,
@@ -4395,6 +4523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27035,
+      "num": 469333,
+      "word": "美议员公然煽动对加沙投核弹",
+      "onboard_time": 1748013266,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26801,
       "num": 378471,
       "word": "带埃文凯尔吃个把子肉",
@@ -4457,6 +4593,14 @@
       "onboard_time": 1747971983,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 23705,
+      "num": 446684,
+      "word": "病危女婴头上有淤青家长质疑月嫂",
+      "onboard_time": 1748013626,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22322,
@@ -4585,6 +4729,14 @@
       "onboard_time": 1747987402,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19106,
+      "num": 322602,
+      "word": "俄乌开始大规模换俘",
+      "onboard_time": 1748013446,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18269,
@@ -4747,6 +4899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 11909,
+      "num": 324160,
+      "word": "莫德里奇离队皇马中场核心由谁接班",
+      "onboard_time": 1748012486,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11522,
       "num": 286641,
       "word": "车企倒闭后车主该如何维权",
@@ -4801,6 +4961,14 @@
       "onboard_time": 1748011108,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7311,
+      "num": 316768,
+      "word": "愚公移山中移的是什么山",
+      "onboard_time": 1748013386,
+      "rank": 29,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 7202,
