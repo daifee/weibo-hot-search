@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748025209888,
+  "endTime": 1748026122464,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -283,20 +283,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182609,
+      "num": 182609,
+      "word": "暴雨暴雨小心暴雨暴雨",
+      "onboard_time": 1748020518,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171934,
       "num": 124452,
       "word": "单依纯回应两场第一",
       "onboard_time": 1748022077,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165693,
-      "num": 165693,
-      "word": "暴雨暴雨小心暴雨暴雨",
-      "onboard_time": 1748020518,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156905,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49978,
+      "num": 59064,
+      "word": "解压捏捏博主有只猫叫小朋友自称患癌",
+      "onboard_time": 1748020219,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49820,
       "num": 80108,
       "word": "高敏感是一种被低估的天赋",
@@ -539,12 +547,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37710,
-      "num": 59064,
-      "word": "解压捏捏博主有只猫叫小朋友自称患癌",
-      "onboard_time": 1748020219,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 32763,
+      "num": 31339,
+      "word": "Grace第二",
+      "onboard_time": 1748025495,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 31171,
@@ -553,6 +561,22 @@
       "onboard_time": 1748012726,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29082,
+      "num": 29082,
+      "word": "余温",
+      "onboard_time": 1748025856,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23236,
+      "num": 29066,
+      "word": "王曼昱说没把美和当作16岁选手",
+      "onboard_time": 1748024116,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 15821,
