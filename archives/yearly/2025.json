@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1747970205301,
+  "endTime": 1747971040305,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3413305,
+      "num": 3413305,
+      "word": "中餐厅9得罪了半个中国的人",
+      "onboard_time": 1747969582,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3413245,
       "num": 3413245,
       "word": "协和",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738331539,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3194275,
-      "num": 313285,
-      "word": "周雨离婚",
-      "onboard_time": 1740895339,
-      "rank": 10,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
