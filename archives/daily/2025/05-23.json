@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747966863993,
+  "endTime": 1747970205301,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -35,6 +35,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 1753635,
+      "num": 1753635,
+      "word": "在人间定档",
+      "onboard_time": 1747966581,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1364148,
       "num": 441207,
       "word": "曹颖患胃癌",
@@ -51,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 908590,
-      "num": 585447,
-      "word": "在人间定档",
-      "onboard_time": 1747966581,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 929265,
+      "num": 929265,
+      "word": "中餐厅9得罪了半个中国的人",
+      "onboard_time": 1747969582,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 868033,
@@ -67,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810218,
+      "num": 329103,
+      "word": "因为一条路买了一套房",
+      "onboard_time": 1747965321,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 726311,
       "num": 726311,
       "word": "特朗普怕了",
       "onboard_time": 1747956201,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 704101,
+      "num": 440409,
+      "word": "朱媛媛去世中央戏剧学院致唁电",
+      "onboard_time": 1747966522,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 704036,
@@ -139,12 +163,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468636,
+      "num": 304539,
+      "word": "汪藏海",
+      "onboard_time": 1747968442,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466069,
       "num": 466069,
       "word": "结婚生子遭抛弃截瘫网红发声",
       "onboard_time": 1747928245,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462371,
+      "num": 290230,
+      "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
+      "onboard_time": 1747968562,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 462017,
+      "num": 288695,
+      "word": "肖战谈台词训练",
+      "onboard_time": 1747968861,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 438236,
+      "num": 411267,
+      "word": "陈奕迅晒怼脸自拍再报平安",
+      "onboard_time": 1747965801,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 428711,
@@ -156,19 +212,11 @@
     },
     {
       "raw_hot": 415728,
-      "num": 415728,
+      "num": 440824,
       "word": "王楚钦孙颖莎冲击决赛",
       "onboard_time": 1747963582,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 411267,
-      "num": 411267,
-      "word": "陈奕迅晒怼脸自拍再报平安",
-      "onboard_time": 1747965801,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 390406,
@@ -187,11 +235,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387294,
+      "num": 387294,
+      "word": "莫迪称巴基斯坦得不到印度一滴水",
+      "onboard_time": 1747964963,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 382415,
       "num": 161004,
       "word": "黄杨钿甜父亲被立案调查",
       "onboard_time": 1747907543,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377144,
+      "num": 284039,
+      "word": "留几手称自己不如吴尊",
+      "onboard_time": 1747965741,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -227,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339915,
-      "num": 339915,
-      "word": "莫迪称巴基斯坦得不到印度一滴水",
-      "onboard_time": 1747964963,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 350635,
+      "num": 275991,
+      "word": "力争让樊振东重回赛场或是解决方案",
+      "onboard_time": 1747968380,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 336784,
@@ -259,12 +323,12 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 329103,
-      "num": 329103,
-      "word": "因为一条路买了一套房",
-      "onboard_time": 1747965321,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 328998,
+      "num": 271936,
+      "word": "赵丽颖 赵德胤",
+      "onboard_time": 1747968500,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 314847,
@@ -283,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312695,
+      "num": 312695,
+      "word": "特朗普这是要废了哈佛啊",
+      "onboard_time": 1747968380,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302250,
       "num": 302250,
       "word": "黄杨钿甜父亲情况核查最新进展",
@@ -299,20 +371,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284039,
-      "num": 284039,
-      "word": "留几手称自己不如吴尊",
-      "onboard_time": 1747965741,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "小米YU7",
       "onboard_time": 1747915584,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 282393,
+      "num": 282393,
+      "word": "天价耳环牵出旧案反腐没有过去时",
+      "onboard_time": 1747958121,
+      "rank": 17,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 275729,
@@ -323,8 +395,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256433,
-      "num": 256433,
+      "raw_hot": 270046,
+      "num": 270046,
+      "word": "刘宇宁抵制盗版言论遭断章取义",
+      "onboard_time": 1747969701,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260475,
+      "num": 260475,
       "word": "胃病转化成胃癌前有5个征兆",
       "onboard_time": 1747965142,
       "rank": 25,
@@ -355,6 +435,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225019,
+      "num": 225019,
+      "word": "穿普拉达的女王2定档",
+      "onboard_time": 1747968621,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 224464,
+      "num": 224464,
+      "word": "内娱首部水仙剧终于来了",
+      "onboard_time": 1747969882,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222015,
+      "num": 217040,
+      "word": "全自动上坟植物",
+      "onboard_time": 1747966161,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220731,
       "num": 220731,
       "word": "王楚钦采访",
@@ -377,14 +481,6 @@
       "onboard_time": 1747928186,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214861,
-      "num": 276986,
-      "word": "天价耳环牵出旧案反腐没有过去时",
-      "onboard_time": 1747958121,
-      "rank": 17,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 214851,
@@ -411,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201457,
-      "num": 201457,
-      "word": "朱媛媛去世中央戏剧学院致唁电",
-      "onboard_time": 1747966522,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 202017,
+      "num": 202017,
+      "word": "刘亦菲李龙馥生图",
+      "onboard_time": 1747967542,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197764,
+      "num": 197764,
+      "word": "乘风2025五公歌单",
+      "onboard_time": 1747969402,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 196658,
@@ -435,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189008,
+      "num": 279881,
+      "word": "选家电什么才是最重要的",
+      "onboard_time": 1747969402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185474,
       "num": 156268,
       "word": "陈奕迅现身高雄向粉丝鞠躬挥手",
       "onboard_time": 1747931301,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184149,
+      "num": 184149,
+      "word": "加班时突然收到资助妹妹的成绩汇报",
+      "onboard_time": 1747969701,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177150,
@@ -451,12 +571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176711,
+      "num": 176711,
+      "word": "雷军头像换成发布会照片",
+      "onboard_time": 1747968500,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 175346,
       "num": 175346,
       "word": "林诗栋说没想到4比0的比分",
       "onboard_time": 1747958240,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170488,
+      "num": 170488,
+      "word": "男孩骑行被碾压案司机发声",
+      "onboard_time": 1747968081,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170461,
@@ -475,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168866,
+      "num": 168866,
+      "word": "藏海传选角简直是我的青春编年史",
+      "onboard_time": 1747970003,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167921,
       "num": 167921,
       "word": "中国人民抗战胜利80周年",
@@ -489,6 +633,14 @@
       "onboard_time": 1747931780,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164411,
+      "num": 311413,
+      "word": "广西龙胜山洪泥石流灾害8人疑似失联",
+      "onboard_time": 1747967241,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 160413,
@@ -529,6 +681,14 @@
       "onboard_time": 1747965142,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 151017,
+      "num": 151017,
+      "word": "发疯的妈纵火的姐破碎的他",
+      "onboard_time": 1747967301,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148525,
@@ -587,12 +747,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136826,
-      "num": 136826,
-      "word": "全自动上坟植物",
-      "onboard_time": 1747966161,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 138113,
+      "num": 208350,
+      "word": "小鹏MONA全球首发无感知人机共驾",
+      "onboard_time": 1747968861,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 133318,
@@ -721,6 +881,14 @@
       "onboard_time": 1747949835,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115549,
+      "num": 270617,
+      "word": "孙杨在领奖台上拍下冠亚季军全家福",
+      "onboard_time": 1747966223,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 112865,
@@ -881,6 +1049,14 @@
       "onboard_time": 1747961304,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85724,
+      "num": 171310,
+      "word": "孙杨赛后发博",
+      "onboard_time": 1747970182,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 85235,
@@ -1059,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42916,
+      "num": 198218,
+      "word": "天下岳阳何以天下",
+      "onboard_time": 1747969282,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41956,
       "num": 195173,
       "word": "国乒7名主力跻身单打8强",
@@ -1179,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23328,
+      "num": 222313,
+      "word": "王楚钦谈大赛中逆转赢球的影响",
+      "onboard_time": 1747970122,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21353,
       "num": 436050,
       "word": "物种丰富的大自然有多美",
@@ -1195,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19634,
+      "num": 200435,
+      "word": "高考前连倒计时都是题",
+      "onboard_time": 1747969582,
+      "rank": 37,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 18269,
       "num": 27098,
       "word": "XG",
@@ -1209,6 +1409,14 @@
       "onboard_time": 1747940655,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17091,
+      "num": 199147,
+      "word": "台湾同胞寻根河南老家",
+      "onboard_time": 1747968261,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15038,
@@ -1240,6 +1448,14 @@
       "word": "武汉大学附近积水已消退",
       "onboard_time": 1747956741,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6564,
+      "num": 201262,
+      "word": "带埃文凯尔吃个把子肉",
+      "onboard_time": 1747970122,
+      "rank": 36,
       "category": "民生新闻"
     }
   ],

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747970205301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753635,
+        "num": 1753635,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1470134,
+        "num": 1470134,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56963,
+        "num": 1156018,
+        "word": "网警重拳打击侵公犯罪",
+        "onboard_time": 1747963582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 929265,
+        "num": 929265,
+        "word": "中餐厅9得罪了半个中国的人",
+        "onboard_time": 1747969582,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527401,
+        "num": 527401,
+        "word": "哈佛大学现有外国学生需转学",
+        "onboard_time": 1747955659,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353427,
+        "num": 440824,
+        "word": "王楚钦孙颖莎冲击决赛",
+        "onboard_time": 1747963582,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704101,
+        "num": 440409,
+        "word": "朱媛媛去世中央戏剧学院致唁电",
+        "onboard_time": 1747966522,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387294,
+        "num": 387294,
+        "word": "莫迪称巴基斯坦得不到印度一滴水",
+        "onboard_time": 1747964963,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312695,
+        "num": 312695,
+        "word": "特朗普这是要废了哈佛啊",
+        "onboard_time": 1747968380,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164411,
+        "num": 311413,
+        "word": "广西龙胜山洪泥石流灾害8人疑似失联",
+        "onboard_time": 1747967241,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 810218,
+        "num": 307295,
+        "word": "因为一条路买了一套房",
+        "onboard_time": 1747965321,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468636,
+        "num": 304539,
+        "word": "汪藏海",
+        "onboard_time": 1747968442,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740635,
+        "num": 299178,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519681,
+        "num": 296363,
+        "word": "黄磊悼念朱媛媛",
+        "onboard_time": 1747966281,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462371,
+        "num": 290230,
+        "word": "官方通报黄杨钿甜父亲在雅情况核查进展",
+        "onboard_time": 1747968562,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462017,
+        "num": 288695,
+        "word": "肖战谈台词训练",
+        "onboard_time": 1747968861,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457098,
+        "num": 283842,
+        "word": "娇牛马文学",
+        "onboard_time": 1747963942,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282393,
+        "num": 282393,
+        "word": "天价耳环牵出旧案反腐没有过去时",
+        "onboard_time": 1747958121,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 438236,
+        "num": 281328,
+        "word": "陈奕迅晒怼脸自拍再报平安",
+        "onboard_time": 1747965801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189008,
+        "num": 279881,
+        "word": "选家电什么才是最重要的",
+        "onboard_time": 1747969402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377144,
+        "num": 278476,
+        "word": "留几手称自己不如吴尊",
+        "onboard_time": 1747965741,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350635,
+        "num": 275991,
+        "word": "力争让樊振东重回赛场或是解决方案",
+        "onboard_time": 1747968380,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325048,
+        "num": 273985,
+        "word": "男生化粪池溺亡家属与校方达成一致",
+        "onboard_time": 1747958240,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328998,
+        "num": 271936,
+        "word": "赵丽颖 赵德胤",
+        "onboard_time": 1747968500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115549,
+        "num": 270617,
+        "word": "孙杨在领奖台上拍下冠亚季军全家福",
+        "onboard_time": 1747966223,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270046,
+        "num": 270046,
+        "word": "刘宇宁抵制盗版言论遭断章取义",
+        "onboard_time": 1747969701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260475,
+        "num": 260475,
+        "word": "胃病转化成胃癌前有5个征兆",
+        "onboard_time": 1747965142,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230419,
+        "num": 230419,
+        "word": "特朗普怕了",
+        "onboard_time": 1747956201,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225019,
+        "num": 225019,
+        "word": "穿普拉达的女王2定档",
+        "onboard_time": 1747968621,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224464,
+        "num": 224464,
+        "word": "内娱首部水仙剧终于来了",
+        "onboard_time": 1747969882,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223590,
+        "num": 223590,
+        "word": "小偷被特警追到体力不支乖乖等抓",
+        "onboard_time": 1747963101,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23328,
+        "num": 222313,
+        "word": "王楚钦谈大赛中逆转赢球的影响",
+        "onboard_time": 1747970122,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221527,
+        "num": 221527,
+        "word": "在人间",
+        "onboard_time": 1747919364,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222015,
+        "num": 217040,
+        "word": "全自动上坟植物",
+        "onboard_time": 1747966161,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138113,
+        "num": 208350,
+        "word": "小鹏MONA全球首发无感知人机共驾",
+        "onboard_time": 1747968861,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202017,
+        "num": 202017,
+        "word": "刘亦菲李龙馥生图",
+        "onboard_time": 1747967542,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6564,
+        "num": 201262,
+        "word": "带埃文凯尔吃个把子肉",
+        "onboard_time": 1747970122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19634,
+        "num": 200435,
+        "word": "高考前连倒计时都是题",
+        "onboard_time": 1747969582,
+        "rank": 37,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 17091,
+        "num": 199147,
+        "word": "台湾同胞寻根河南老家",
+        "onboard_time": 1747968261,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42916,
+        "num": 198218,
+        "word": "天下岳阳何以天下",
+        "onboard_time": 1747969282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197764,
+        "num": 197764,
+        "word": "乘风2025五公歌单",
+        "onboard_time": 1747969402,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184149,
+        "num": 184149,
+        "word": "加班时突然收到资助妹妹的成绩汇报",
+        "onboard_time": 1747969701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176711,
+        "num": 176711,
+        "word": "雷军头像换成发布会照片",
+        "onboard_time": 1747968500,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85724,
+        "num": 171310,
+        "word": "孙杨赛后发博",
+        "onboard_time": 1747970182,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170488,
+        "num": 170488,
+        "word": "男孩骑行被碾压案司机发声",
+        "onboard_time": 1747968081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168874,
+        "num": 168874,
+        "word": "李庚希戛纳红毯",
+        "onboard_time": 1747962503,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168866,
+        "num": 168866,
+        "word": "藏海传选角简直是我的青春编年史",
+        "onboard_time": 1747970003,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159077,
+        "num": 159077,
+        "word": "哈佛",
+        "onboard_time": 1747958302,
+        "rank": 47,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 151742,
+        "num": 151742,
+        "word": "女子产检发现宝宝心肝脾全长反了",
+        "onboard_time": 1747925427,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151017,
+        "num": 151017,
+        "word": "发疯的妈纵火的姐破碎的他",
+        "onboard_time": 1747967301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强生物多样性保护总书记这样说#"
+    }
+  }
+}
