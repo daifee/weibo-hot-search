@@ -1,0 +1,410 @@
+{
+  "runTime": 1747992492758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214321,
+        "num": 1214321,
+        "word": "王楚钦孙颖莎VS林仲勋申裕斌",
+        "onboard_time": 1747987464,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 971078,
+        "num": 971078,
+        "word": "剧组悬赏20000元寻找素材硬盘",
+        "onboard_time": 1747987402,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8649,
+        "num": 943871,
+        "word": "高质量发展看天津",
+        "onboard_time": 1747735641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 933014,
+        "num": 933014,
+        "word": "正午阳光选角",
+        "onboard_time": 1747990703,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 719215,
+        "num": 719215,
+        "word": "孙颖莎王楚钦进决赛",
+        "onboard_time": 1747990344,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606619,
+        "num": 606619,
+        "word": "黄杨钿甜删耳环照片",
+        "onboard_time": 1747982783,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545756,
+        "num": 545756,
+        "word": "张学友演唱会撞期高考遭多人投诉",
+        "onboard_time": 1747981582,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 545581,
+        "num": 545581,
+        "word": "吴京车坏在高速路上",
+        "onboard_time": 1747989024,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540316,
+        "num": 540316,
+        "word": "易烊千玺李庚希吻戏",
+        "onboard_time": 1747982783,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78060,
+        "num": 524965,
+        "word": "共享单车上的小广告到底是谁贴的",
+        "onboard_time": 1747991183,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 839400,
+        "num": 522947,
+        "word": "事以密成 言以泄败",
+        "onboard_time": 1747982962,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518234,
+        "num": 518234,
+        "word": "混双",
+        "onboard_time": 1747990043,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353043,
+        "num": 353043,
+        "word": "谁敢想这年宋威龙才20",
+        "onboard_time": 1747990344,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313524,
+        "num": 313524,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79420,
+        "num": 300552,
+        "word": "为何年轻人都不去KTV和SPA了",
+        "onboard_time": 1747986922,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 290794,
+        "num": 290794,
+        "word": "以色列",
+        "onboard_time": 1747985361,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155905,
+        "num": 290404,
+        "word": "张极直播",
+        "onboard_time": 1747990223,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65817,
+        "num": 290314,
+        "word": "掉入化粪池遇难大学生今日下葬",
+        "onboard_time": 1747991963,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44634,
+        "num": 289614,
+        "word": "男子没病却遭男科医院手术开刀治疗",
+        "onboard_time": 1747991063,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111550,
+        "num": 289155,
+        "word": "孙颖莎2小时后还有硬仗要打",
+        "onboard_time": 1747992144,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118749,
+        "num": 288916,
+        "word": "华为nova14鸿蒙红包",
+        "onboard_time": 1747988482,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189659,
+        "num": 288166,
+        "word": "肖战谈演一部剧带来的成长",
+        "onboard_time": 1747990643,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144173,
+        "num": 287739,
+        "word": "Lovecd离队",
+        "onboard_time": 1747989144,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17049,
+        "num": 287259,
+        "word": "男子刺死女幼师被鉴定有精神疾病",
+        "onboard_time": 1747992322,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45922,
+        "num": 286820,
+        "word": "王曼昱蒯曼3比0肖瑶茜迪亚科努",
+        "onboard_time": 1747992203,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10115,
+        "num": 286641,
+        "word": "车企倒闭后车主该如何维权",
+        "onboard_time": 1747991782,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22449,
+        "num": 286202,
+        "word": "心理健康的10大标准",
+        "onboard_time": 1747991842,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15034,
+        "num": 285628,
+        "word": "灵笼2开播老粉有哪些惊喜",
+        "onboard_time": 1747990883,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109388,
+        "num": 285327,
+        "word": "人均2百自助餐顾客吃出筷子粗的虫",
+        "onboard_time": 1747987822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 284684,
+        "word": "截瘫网红称前夫曾涉猥亵案被拘",
+        "onboard_time": 1747992083,
+        "rank": 29,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 147370,
+        "num": 284222,
+        "word": "全员加速中直播",
+        "onboard_time": 1747987822,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24914,
+        "num": 283710,
+        "word": "为何癌症治疗后五年视为关键恢复期",
+        "onboard_time": 1747990043,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 506232,
+        "num": 283588,
+        "word": "吉村真晴大藤沙月晋级混双决赛",
+        "onboard_time": 1747990703,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319715,
+        "num": 283113,
+        "word": "金价",
+        "onboard_time": 1747986082,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282733,
+        "num": 282733,
+        "word": "赵丽颖新剧和男主像黑夜和白天",
+        "onboard_time": 1747989024,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105119,
+        "num": 278287,
+        "word": "歌手首轮揭榜赛",
+        "onboard_time": 1747992322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288831,
+        "num": 277930,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277170,
+        "num": 277170,
+        "word": "莎头冲击第3个世乒赛混双冠军",
+        "onboard_time": 1747990945,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274236,
+        "num": 274236,
+        "word": "浙江文旅厅长回应给小学生回信写错字",
+        "onboard_time": 1747988963,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239636,
+        "num": 239636,
+        "word": "同事三年存了10万块",
+        "onboard_time": 1747975645,
+        "rank": 39,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 109578,
+        "num": 233072,
+        "word": "王楚钦再现招牌爆冲",
+        "onboard_time": 1747991303,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233069,
+        "num": 233069,
+        "word": "上海月薪6000一天花多少钱",
+        "onboard_time": 1747989563,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71910,
+        "num": 220206,
+        "word": "99年末出生的人也挺委屈的",
+        "onboard_time": 1747990464,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218361,
+        "num": 218361,
+        "word": "用摸2岁猫的手法摸20岁猫时",
+        "onboard_time": 1747992322,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209423,
+        "num": 209423,
+        "word": "王曼昱蒯曼vs肖瑶茜迪亚科努",
+        "onboard_time": 1747990945,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204015,
+        "num": 204015,
+        "word": "莎头决赛迎战日本组合",
+        "onboard_time": 1747991422,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198173,
+        "num": 198173,
+        "word": "乒乓球",
+        "onboard_time": 1747991422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183565,
+        "num": 183565,
+        "word": "离铁轨0.8米的房子住了44年",
+        "onboard_time": 1747989863,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "王楚钦孙颖莎3比0林仲勋申裕斌",
+        "onboard_time": 1747991183,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177862,
+        "num": 177862,
+        "word": "孙颖莎希望明天有个好的结果",
+        "onboard_time": 1747992442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#作风建设永远在路上#"
+    }
+  }
+}

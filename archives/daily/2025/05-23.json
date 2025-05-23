@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747990053432,
+  "endTime": 1747992492758,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1429534,
-      "num": 336214,
+      "num": 522947,
       "word": "事以密成 言以泄败",
       "onboard_time": 1747982962,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 971078,
+      "num": 971078,
+      "word": "剧组悬赏20000元寻找素材硬盘",
+      "onboard_time": 1747987402,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 967643,
       "num": 967643,
       "word": "苏新皓被蟒蛇缠住腿",
@@ -137,6 +145,14 @@
       "onboard_time": 1747974264,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933014,
+      "num": 933014,
+      "word": "正午阳光选角",
+      "onboard_time": 1747990703,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 882502,
@@ -161,14 +177,6 @@
       "onboard_time": 1747968380,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 854469,
-      "num": 854469,
-      "word": "剧组悬赏20000元寻找素材硬盘",
-      "onboard_time": 1747987402,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 854456,
@@ -233,6 +241,14 @@
       "onboard_time": 1747982783,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 719215,
+      "num": 719215,
+      "word": "孙颖莎王楚钦进决赛",
+      "onboard_time": 1747990344,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 704036,
@@ -384,6 +400,22 @@
       "word": "王楚钦晋级世乒赛八强",
       "onboard_time": 1747926509,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 518234,
+      "num": 518234,
+      "word": "混双",
+      "onboard_time": 1747990043,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 506232,
+      "num": 283588,
+      "word": "吉村真晴大藤沙月晋级混双决赛",
+      "onboard_time": 1747990703,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -547,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353043,
+      "num": 353043,
+      "word": "谁敢想这年宋威龙才20",
+      "onboard_time": 1747990344,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344948,
       "num": 344948,
       "word": "李晟撕拉片6宫格",
@@ -643,6 +683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 282733,
+      "num": 282733,
+      "word": "赵丽颖新剧和男主像黑夜和白天",
+      "onboard_time": 1747989024,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282393,
       "num": 390287,
       "word": "天价耳环牵出旧案反腐没有过去时",
@@ -651,12 +699,28 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 277170,
+      "num": 277170,
+      "word": "莎头冲击第3个世乒赛混双冠军",
+      "onboard_time": 1747990945,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275729,
       "num": 275729,
       "word": "三毛回应赵丽颖裙子",
       "onboard_time": 1747963702,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274236,
+      "num": 333924,
+      "word": "浙江文旅厅长回应给小学生回信写错字",
+      "onboard_time": 1747988963,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268031,
@@ -673,14 +737,6 @@
       "onboard_time": 1747984102,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260246,
-      "num": 260246,
-      "word": "赵丽颖新剧和男主像黑夜和白天",
-      "onboard_time": 1747989024,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 252780,
@@ -777,6 +833,14 @@
       "onboard_time": 1747984583,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "上海月薪6000一天花多少钱",
+      "onboard_time": 1747989563,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 229705,
@@ -883,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218361,
+      "num": 218361,
+      "word": "用摸2岁猫的手法摸20岁猫时",
+      "onboard_time": 1747992322,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217575,
       "num": 217575,
       "word": "男孩骑行被碾压案司机发声",
@@ -932,7 +1004,7 @@
     },
     {
       "raw_hot": 211208,
-      "num": 211208,
+      "num": 287739,
       "word": "Lovecd离队",
       "onboard_time": 1747989144,
       "rank": 48,
@@ -947,12 +1019,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209588,
-      "num": 209588,
-      "word": "上海月薪6000一天花多少钱",
-      "onboard_time": 1747989563,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 209423,
+      "num": 209423,
+      "word": "王曼昱蒯曼vs肖瑶茜迪亚科努",
+      "onboard_time": 1747990945,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 208997,
@@ -1019,12 +1091,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 204015,
+      "num": 204015,
+      "word": "莎头决赛迎战日本组合",
+      "onboard_time": 1747991422,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198524,
       "num": 187791,
       "word": "易烊千玺在掌声雷动里热泪盈眶",
       "onboard_time": 1747981522,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198173,
+      "num": 198173,
+      "word": "乒乓球",
+      "onboard_time": 1747991422,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 197764,
@@ -1123,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189659,
+      "num": 288166,
+      "word": "肖战谈演一部剧带来的成长",
+      "onboard_time": 1747990643,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189542,
       "num": 189542,
       "word": "赵丽颖工作室",
@@ -1195,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183565,
+      "num": 183565,
+      "word": "离铁轨0.8米的房子住了44年",
+      "onboard_time": 1747989863,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 181993,
       "num": 332450,
       "word": "金价再下探",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1747972042,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180483,
+      "num": 180483,
+      "word": "王楚钦孙颖莎3比0林仲勋申裕斌",
+      "onboard_time": 1747991183,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 180239,
@@ -1235,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177862,
+      "num": 177862,
+      "word": "孙颖莎希望明天有个好的结果",
+      "onboard_time": 1747992442,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177150,
       "num": 177150,
       "word": "狂野时代",
@@ -1244,7 +1364,7 @@
     },
     {
       "raw_hot": 176968,
-      "num": 176968,
+      "num": 285327,
       "word": "人均2百自助餐顾客吃出筷子粗的虫",
       "onboard_time": 1747987822,
       "rank": 44,
@@ -1459,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155905,
+      "num": 290404,
+      "word": "张极直播",
+      "onboard_time": 1747990223,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "藏海传云合",
@@ -1500,7 +1628,7 @@
     },
     {
       "raw_hot": 149288,
-      "num": 236323,
+      "num": 284222,
       "word": "全员加速中直播",
       "onboard_time": 1747987822,
       "rank": 34,
@@ -1923,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111550,
+      "num": 289155,
+      "word": "孙颖莎2小时后还有硬仗要打",
+      "onboard_time": 1747992144,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111529,
       "num": 106571,
       "word": "肖战身材",
@@ -1936,6 +2072,14 @@
       "word": "王楚钦说不用总用今天的感觉代入明天",
       "onboard_time": 1747962382,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109578,
+      "num": 233072,
+      "word": "王楚钦再现招牌爆冲",
+      "onboard_time": 1747991303,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1961,6 +2105,14 @@
       "onboard_time": 1747925610,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105119,
+      "num": 278287,
+      "word": "歌手首轮揭榜赛",
+      "onboard_time": 1747992322,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 105017,
@@ -2227,14 +2379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82240,
-      "num": 333924,
-      "word": "浙江文旅厅长回应给小学生回信写错字",
-      "onboard_time": 1747988963,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82102,
       "num": 281435,
       "word": "美媒称国家越弱小在白宫越被敌意对待",
@@ -2267,12 +2411,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79420,
+      "num": 300552,
+      "word": "为何年轻人都不去KTV和SPA了",
+      "onboard_time": 1747986922,
+      "rank": 14,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 78989,
       "num": 310649,
       "word": "森林狼退无可退",
       "onboard_time": 1747978582,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78060,
+      "num": 524965,
+      "word": "共享单车上的小广告到底是谁贴的",
+      "onboard_time": 1747991183,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 78021,
@@ -2297,6 +2457,14 @@
       "onboard_time": 1747912103,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71910,
+      "num": 220206,
+      "word": "99年末出生的人也挺委屈的",
+      "onboard_time": 1747990464,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71298,
@@ -2345,6 +2513,14 @@
       "onboard_time": 1747971503,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65817,
+      "num": 290314,
+      "word": "掉入化粪池遇难大学生今日下葬",
+      "onboard_time": 1747991963,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65192,
@@ -2483,6 +2659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45922,
+      "num": 286820,
+      "word": "王曼昱蒯曼3比0肖瑶茜迪亚科努",
+      "onboard_time": 1747992203,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45781,
       "num": 152208,
       "word": "胡锡进称社会应加强人文教育",
@@ -2505,6 +2689,14 @@
       "onboard_time": 1747973003,
       "rank": 38,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 44634,
+      "num": 289614,
+      "word": "男子没病却遭男科医院手术开刀治疗",
+      "onboard_time": 1747991063,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44302,
@@ -2739,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26991,
+      "num": 284684,
+      "word": "截瘫网红称前夫曾涉猥亵案被拘",
+      "onboard_time": 1747992083,
+      "rank": 29,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 26801,
       "num": 378471,
       "word": "带埃文凯尔吃个把子肉",
@@ -2771,12 +2971,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24914,
+      "num": 283710,
+      "word": "为何癌症治疗后五年视为关键恢复期",
+      "onboard_time": 1747990043,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23789,
       "num": 222975,
       "word": "娇牛马文学折射出怎样的职场生态",
       "onboard_time": 1747971983,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 22449,
+      "num": 286202,
+      "word": "心理健康的10大标准",
+      "onboard_time": 1747991842,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 21487,
@@ -2883,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17049,
+      "num": 287259,
+      "word": "男子刺死女幼师被鉴定有精神疾病",
+      "onboard_time": 1747992322,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16040,
       "num": 286002,
       "word": "放射检查费降价都包括哪些项目",
@@ -2913,6 +3137,14 @@
       "onboard_time": 1747938975,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15034,
+      "num": 285628,
+      "word": "灵笼2开播老粉有哪些惊喜",
+      "onboard_time": 1747990883,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 13339,
@@ -2963,6 +3195,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 10115,
+      "num": 286641,
+      "word": "车企倒闭后车主该如何维权",
+      "onboard_time": 1747991782,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 10080,
       "num": 192003,
       "word": "武汉大学附近积水已消退",
@@ -2971,8 +3211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5190,
-      "num": 901371,
+      "raw_hot": 8649,
+      "num": 943871,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
       "rank": 21,
