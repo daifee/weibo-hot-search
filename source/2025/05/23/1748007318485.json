@@ -1,0 +1,410 @@
+{
+  "runTime": 1748007318485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7260934,
+        "num": 7260934,
+        "word": "陈楚生 高音没声",
+        "onboard_time": 1748003605,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4974304,
+        "num": 4974304,
+        "word": "歌手直播",
+        "onboard_time": 1747999823,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40775,
+        "num": 2478117,
+        "word": "数说我国外贸亮眼成绩单",
+        "onboard_time": 1747993941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687718,
+        "num": 687718,
+        "word": "孙颖莎晋级世乒赛四强",
+        "onboard_time": 1748003726,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656239,
+        "num": 656239,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1748005228,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507904,
+        "num": 507904,
+        "word": "董明珠拥抱孟羽童",
+        "onboard_time": 1748002103,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3799215,
+        "num": 459602,
+        "word": "阿云嘎秒了",
+        "onboard_time": 1748004505,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1713978,
+        "num": 417802,
+        "word": "单依纯收手吧",
+        "onboard_time": 1748005769,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110693,
+        "num": 381767,
+        "word": "白鹿穿针跟着转起来了",
+        "onboard_time": 1748006427,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361537,
+        "num": 361537,
+        "word": "特朗普建议对欧盟征收50%关税",
+        "onboard_time": 1748002343,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148822,
+        "num": 360552,
+        "word": "董明珠孟羽童直播互动超有爱",
+        "onboard_time": 1748004748,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2395890,
+        "num": 359691,
+        "word": "难听",
+        "onboard_time": 1748004988,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1647664,
+        "num": 358964,
+        "word": "林志炫回来了",
+        "onboard_time": 1748005887,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217510,
+        "num": 357693,
+        "word": "美取消哈佛留学生合法身份行为被叫停",
+        "onboard_time": 1747995562,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 356506,
+        "word": "留学生回应现有的哈佛国际生须转学",
+        "onboard_time": 1748005528,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1296528,
+        "num": 355648,
+        "word": "阿云嘎怎么会输",
+        "onboard_time": 1748006247,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 691542,
+        "num": 354172,
+        "word": "马嘉祺回应首上歌手",
+        "onboard_time": 1748005468,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494829,
+        "num": 353485,
+        "word": "黄杨钿甜事件固定模式",
+        "onboard_time": 1747999343,
+        "rank": 17,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 352706,
+        "num": 352706,
+        "word": "林诗栋无缘男单四强",
+        "onboard_time": 1747999823,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43337,
+        "num": 352283,
+        "word": "花样百出的中式养生水已经卖不动了",
+        "onboard_time": 1748006968,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820477,
+        "num": 351386,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 350802,
+        "word": "哈佛再次起诉美国政府",
+        "onboard_time": 1748005408,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191926,
+        "num": 349704,
+        "word": "张馨予说送粉丝的礼物被出售",
+        "onboard_time": 1748006309,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48988,
+        "num": 349043,
+        "word": "带你体验孟加拉国贫富差距有多大",
+        "onboard_time": 1748005948,
+        "rank": 23,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 56438,
+        "num": 348058,
+        "word": "长大后盛情款待小时候的自己",
+        "onboard_time": 1748005289,
+        "rank": 24,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 7003,
+        "num": 347597,
+        "word": "土耳其简直是爱猫人士的天堂",
+        "onboard_time": 1748005289,
+        "rank": 25,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 9033,
+        "num": 347156,
+        "word": "不要混淆规律和科学上的定律",
+        "onboard_time": 1748006188,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12870,
+        "num": 345882,
+        "word": "一生爱吃笋的浙江人基因又动了",
+        "onboard_time": 1747983682,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9767,
+        "num": 344997,
+        "word": "山区支教老师的一天",
+        "onboard_time": 1747978823,
+        "rank": 28,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 26233,
+        "num": 344540,
+        "word": "一段好的友情的四大表现",
+        "onboard_time": 1748007151,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 651403,
+        "num": 344137,
+        "word": "恩利庾澄庆 子承父逆",
+        "onboard_time": 1748004867,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175105,
+        "num": 342774,
+        "word": "王楚钦采访结束转身就走",
+        "onboard_time": 1748003667,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699159,
+        "num": 342035,
+        "word": "白举纲好听",
+        "onboard_time": 1748007211,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570891,
+        "num": 341432,
+        "word": "歌手出场顺序",
+        "onboard_time": 1748002222,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506327,
+        "num": 340641,
+        "word": "赵丽颖换摄影师了",
+        "onboard_time": 1748006847,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340250,
+        "num": 340250,
+        "word": "GAI选歌",
+        "onboard_time": 1748007089,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318681,
+        "num": 318681,
+        "word": "歌手还我何炅单人机位",
+        "onboard_time": 1748004808,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316555,
+        "num": 316555,
+        "word": "浙江一学校食堂绞肉机现大量活蛆",
+        "onboard_time": 1748004505,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63653,
+        "num": 288188,
+        "word": "减肥跳绳选无绳还是有绳的",
+        "onboard_time": 1748005289,
+        "rank": 38,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 278414,
+        "num": 278414,
+        "word": "鹿晗四巡官宣",
+        "onboard_time": 1747995683,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268813,
+        "num": 268813,
+        "word": "巴赫来看孙颖莎",
+        "onboard_time": 1748000844,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268288,
+        "num": 268288,
+        "word": "藏海传全镇被杀",
+        "onboard_time": 1748000182,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265524,
+        "num": 265524,
+        "word": "歌手投票",
+        "onboard_time": 1748004867,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261285,
+        "num": 261285,
+        "word": "福禄寿原唱",
+        "onboard_time": 1748006968,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251670,
+        "num": 251670,
+        "word": "你不是棋子你是我的妻子",
+        "onboard_time": 1748004385,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244374,
+        "num": 244374,
+        "word": "马嘉祺在后台开嗓",
+        "onboard_time": 1748006908,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245674,
+        "num": 226773,
+        "word": "黄觉称以粉丝身份奔赴藏海传",
+        "onboard_time": 1748006727,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204974,
+        "num": 204974,
+        "word": "秋意浓",
+        "onboard_time": 1748006847,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169676,
+        "num": 203558,
+        "word": "孙颖莎半决赛对战伊藤美诚",
+        "onboard_time": 1748004148,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34919,
+        "num": 202717,
+        "word": "年轻人能经常旅游的原因",
+        "onboard_time": 1748005289,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动精神文明建设高质量发展#"
+    }
+  }
+}
