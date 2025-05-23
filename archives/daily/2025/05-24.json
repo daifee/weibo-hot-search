@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748022066976,
+  "endTime": 1748025209888,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -283,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171934,
+      "num": 124452,
+      "word": "单依纯回应两场第一",
+      "onboard_time": 1748022077,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 165693,
+      "word": "暴雨暴雨小心暴雨暴雨",
+      "onboard_time": 1748020518,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156905,
       "num": 181643,
       "word": "折腰",
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70175,
-      "num": 78948,
-      "word": "暴雨暴雨小心暴雨暴雨",
-      "onboard_time": 1748020518,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67293,
       "num": 182633,
       "word": "孙颖莎4小时赢了2场硬仗",
@@ -473,6 +481,14 @@
       "onboard_time": 1748020457,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 59586,
+      "num": 42233,
+      "word": "耳帝没想到林志炫被淘汰",
+      "onboard_time": 1748022138,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 58936,
@@ -523,12 +539,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37710,
+      "num": 59064,
+      "word": "解压捏捏博主有只猫叫小朋友自称患癌",
+      "onboard_time": 1748020219,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31171,
       "num": 182095,
       "word": "美债大涨",
       "onboard_time": 1748012726,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15821,
+      "num": 36960,
+      "word": "歌手2025收视创新高",
+      "onboard_time": 1748017462,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14230,
+      "num": 37101,
+      "word": "阿云嘎回应揭榜失败",
+      "onboard_time": 1748021299,
+      "rank": 39,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 5952,
@@ -542,6 +582,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向罗马尼亚当选总统达恩致贺电#"
+    },
+    {
+      "word": "#习近平同德国总理默茨通电话#"
     }
   ]
 }
