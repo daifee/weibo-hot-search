@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748040128795,
+  "endTime": 1748042672855,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -1596,7 +1596,7 @@
     },
     {
       "raw_hot": 959771,
-      "num": 442340,
+      "num": 607733,
       "word": "朱媛媛最后的朋友圈",
       "onboard_time": 1748005887,
       "rank": 20,
@@ -1680,6 +1680,14 @@
       "word": "交通局职工被曝与两名女生办婚礼",
       "onboard_time": 1747671561,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 923563,
+      "num": 923563,
+      "word": "2.5天休假模式真的来了",
+      "onboard_time": 1748008354,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2545,14 +2553,6 @@
       "onboard_time": 1747814122,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 695759,
-      "num": 695759,
-      "word": "2.5天休假模式真的来了",
-      "onboard_time": 1748008354,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 693818,
@@ -3441,6 +3441,14 @@
       "onboard_time": 1747966281,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546105,
+      "num": 546105,
+      "word": "子女炫富导致多名官员落马",
+      "onboard_time": 1748042359,
+      "rank": 3,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 545603,
@@ -4361,6 +4369,14 @@
       "onboard_time": 1747842083,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424690,
+      "num": 424690,
+      "word": "暴雨暴雨小心暴雨暴雨",
+      "onboard_time": 1748020518,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424519,
@@ -5761,14 +5777,6 @@
       "onboard_time": 1747579523,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 307494,
-      "num": 307494,
-      "word": "暴雨暴雨小心暴雨暴雨",
-      "onboard_time": 1748020518,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307460,
@@ -7307,6 +7315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243167,
+      "num": 243167,
+      "word": "朱媛媛在福建火化",
+      "onboard_time": 1748036954,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243068,
       "num": 243068,
       "word": "光渊",
@@ -7521,6 +7537,14 @@
       "onboard_time": 1747984702,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237902,
+      "num": 237902,
+      "word": "王楚钦半决赛对战莫雷加德",
+      "onboard_time": 1748039837,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 237541,
@@ -13227,6 +13251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163441,
+      "num": 254894,
+      "word": "美股暴跌前美政界多人精准抛售",
+      "onboard_time": 1748020457,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163359,
       "num": 162560,
       "word": "耶耶带大的小猫",
@@ -14177,14 +14209,6 @@
       "onboard_time": 1747934358,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154286,
-      "num": 128893,
-      "word": "朱媛媛在福建火化",
-      "onboard_time": 1748036954,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 154278,
@@ -15961,6 +15985,14 @@
       "onboard_time": 1747804765,
       "rank": 29,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 136126,
+      "num": 520190,
+      "word": "病危女婴头上有淤青家长质疑月嫂",
+      "onboard_time": 1748013626,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136059,
@@ -18659,14 +18691,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 100374,
-      "num": 100374,
-      "word": "美股暴跌前美政界多人精准抛售",
-      "onboard_time": 1748020457,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 100357,
       "num": 309699,
       "word": "直播间花26万赌石后起诉索赔被驳回",
@@ -18737,14 +18761,6 @@
       "onboard_time": 1747622962,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 99118,
-      "num": 520190,
-      "word": "病危女婴头上有淤青家长质疑月嫂",
-      "onboard_time": 1748013626,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98971,
@@ -18961,6 +18977,14 @@
       "onboard_time": 1747580603,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95792,
+      "num": 95792,
+      "word": "中餐厅把黑龙江标注到江浙沪区域",
+      "onboard_time": 1748035934,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95644,
@@ -21059,14 +21083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66620,
-      "num": 43326,
-      "word": "王楚钦半决赛对战莫雷加德",
-      "onboard_time": 1748039837,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66537,
       "num": 328524,
       "word": "晨光供港壹号到底供不供港",
@@ -21097,14 +21113,6 @@
       "onboard_time": 1747725861,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66116,
-      "num": 66116,
-      "word": "中餐厅把黑龙江标注到江浙沪区域",
-      "onboard_time": 1748035934,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 66078,
@@ -21572,7 +21580,7 @@
     },
     {
       "raw_hot": 59586,
-      "num": 45300,
+      "num": 48290,
       "word": "耳帝没想到林志炫被淘汰",
       "onboard_time": 1748022138,
       "rank": 28,
@@ -22051,6 +22059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53450,
+      "num": 53450,
+      "word": "明星开演唱会需要避开高考时间吗",
+      "onboard_time": 1748033415,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53364,
       "num": 175310,
       "word": "自制多胞胎婴儿车",
@@ -22291,12 +22307,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 49262,
+      "num": 49262,
+      "word": "杜凯琹相信王楚钦孙颖莎",
+      "onboard_time": 1748041818,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49136,
       "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
       "onboard_time": 1747524197,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49043,
+      "num": 49043,
+      "word": "王曼昱说没把美和当作16岁选手",
+      "onboard_time": 1748024116,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 48988,
@@ -22401,6 +22433,14 @@
       "onboard_time": 1747649124,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 47862,
+      "num": 48291,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47769,
@@ -22657,14 +22697,6 @@
       "onboard_time": 1747973003,
       "rank": 38,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 44979,
-      "num": 44979,
-      "word": "明星开演唱会需要避开高考时间吗",
-      "onboard_time": 1748033415,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44965,
@@ -22937,6 +22969,14 @@
       "onboard_time": 1747894762,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41331,
+      "num": 48289,
+      "word": "哈佛大学提起诉讼",
+      "onboard_time": 1748042359,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41309,
@@ -23337,14 +23377,6 @@
       "onboard_time": 1747567880,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 37210,
-      "num": 41415,
-      "word": "王曼昱说没把美和当作16岁选手",
-      "onboard_time": 1748024116,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 37038,
@@ -24104,14 +24136,6 @@
       "word": "凤阳鼓楼维修方涉多起施工合同纠纷",
       "onboard_time": 1747721361,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30184,
-      "num": 32645,
-      "word": "捏捏 甲醛超标",
-      "onboard_time": 1748030954,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -25292,7 +25316,7 @@
     },
     {
       "raw_hot": 21644,
-      "num": 303540,
+      "num": 573731,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 47,
@@ -26043,6 +26067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17093,
+      "num": 48291,
+      "word": "王楚钦对这次比赛抱有很强的欲望",
+      "onboard_time": 1748041878,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17091,
       "num": 199147,
       "word": "台湾同胞寻根河南老家",
@@ -26344,6 +26376,14 @@
       "word": "中超联赛",
       "onboard_time": 1747510514,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15242,
+      "num": 142474,
+      "word": "王曼昱没想到能4比0拿下比赛",
+      "onboard_time": 1748042238,
+      "rank": 17,
       "category": "体育"
     },
     {

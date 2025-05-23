@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/24 06:42:08
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/24 07:24:32
 </p>
 </blockquote>
 <p>
@@ -3897,6 +3897,12 @@ deepseek（热度：1099496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232.5%E5%A4%A9%E4%BC%91%E5%81%87%E6%A8%A1%E5%BC%8F%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23" target="weibo">
+2.5天休假模式真的来了（热度：923563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%20%E7%8E%89%E7%9F%B3%23" target="weibo">
 胖东来 玉石（热度：923554）
 </a>
@@ -6005,12 +6011,6 @@ MAMA 香港（热度：710085）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%91%E5%B9%B2%E6%B4%BB%E5%84%BF%23" target="weibo">
 专家建议节后上班第一天少干活儿（热度：696791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%87%AF%E9%A6%A8%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%23" target="weibo">
-李凯馨工作室回应（热度：696588）
 </a>
 </li>
 
