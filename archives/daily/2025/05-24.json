@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748039077252,
+  "endTime": 1748040128795,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307494,
+      "num": 307494,
+      "word": "暴雨暴雨小心暴雨暴雨",
+      "onboard_time": 1748020518,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288971,
       "num": 182837,
       "word": "阿云嘎秒了",
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250817,
-      "num": 250817,
-      "word": "暴雨暴雨小心暴雨暴雨",
-      "onboard_time": 1748020518,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244600,
       "num": 182565,
       "word": "陈楚生 高音没声",
@@ -240,6 +240,14 @@
       "word": "黄杨钿甜",
       "onboard_time": 1748012366,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212522,
+      "num": 212522,
+      "word": "恩利庾澄庆 子承父逆",
+      "onboard_time": 1748004867,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -291,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175602,
-      "num": 175602,
-      "word": "恩利庾澄庆 子承父逆",
-      "onboard_time": 1748004867,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171934,
       "num": 124452,
       "word": "单依纯回应两场第一",
@@ -313,6 +313,14 @@
       "onboard_time": 1748017522,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154286,
+      "num": 128893,
+      "word": "朱媛媛在福建火化",
+      "onboard_time": 1748036954,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 146638,
@@ -347,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126553,
-      "num": 111271,
-      "word": "朱媛媛在福建火化",
-      "onboard_time": 1748036954,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125949,
       "num": 182259,
       "word": "王楚钦说感谢的话留到最后",
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120430,
+      "num": 120430,
+      "word": "莫雷加德vs户上隼辅",
+      "onboard_time": 1748028254,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112039,
       "num": 166676,
       "word": "凤凰传奇鸟巢演唱会",
@@ -395,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106824,
-      "num": 106824,
-      "word": "莫雷加德vs户上隼辅",
-      "onboard_time": 1748028254,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 100374,
+      "num": 100374,
+      "word": "美股暴跌前美政界多人精准抛售",
+      "onboard_time": 1748020457,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 99118,
@@ -425,14 +433,6 @@
       "onboard_time": 1748002343,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84629,
-      "num": 84629,
-      "word": "美股暴跌前美政界多人精准抛售",
-      "onboard_time": 1748020457,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 83104,
@@ -473,6 +473,22 @@
       "onboard_time": 1748008714,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66620,
+      "num": 43326,
+      "word": "王楚钦半决赛对战莫雷加德",
+      "onboard_time": 1748039837,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66116,
+      "num": 66116,
+      "word": "中餐厅把黑龙江标注到江浙沪区域",
+      "onboard_time": 1748035934,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 64789,
@@ -531,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53423,
-      "num": 44418,
-      "word": "中餐厅把黑龙江标注到江浙沪区域",
-      "onboard_time": 1748035934,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 51484,
       "num": 59064,
       "word": "解压捏捏博主有只猫叫小朋友自称患癌",
@@ -579,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37210,
+      "num": 41415,
+      "word": "王曼昱说没把美和当作16岁选手",
+      "onboard_time": 1748024116,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32763,
       "num": 31339,
       "word": "Grace第二",
@@ -595,12 +611,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 30583,
-      "num": 41415,
-      "word": "王曼昱说没把美和当作16岁选手",
-      "onboard_time": 1748024116,
+      "raw_hot": 30184,
+      "num": 32645,
+      "word": "捏捏 甲醛超标",
+      "onboard_time": 1748030954,
       "rank": 46,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29501,
@@ -635,8 +651,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26051,
-      "num": 26051,
+      "raw_hot": 26157,
+      "num": 32641,
       "word": "好听",
       "onboard_time": 1748035695,
       "rank": 29,
@@ -659,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24275,
-      "num": 26510,
-      "word": "捏捏 甲醛超标",
-      "onboard_time": 1748030954,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23536,
       "num": 28987,
       "word": "云合",
@@ -683,20 +691,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18904,
+      "num": 303540,
+      "word": "中国创新成全球经济新机遇",
+      "onboard_time": 1748009492,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15821,
       "num": 36960,
       "word": "歌手2025收视创新高",
       "onboard_time": 1748017462,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14371,
-      "num": 244824,
-      "word": "中国创新成全球经济新机遇",
-      "onboard_time": 1748009492,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14230,
