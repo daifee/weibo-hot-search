@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748017884701,
+  "endTime": 1748018808311,
   "band_list": [
     {
       "raw_hot": 2433365,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 786133,
+      "num": 284814,
+      "word": "林志炫回应淘汰",
+      "onboard_time": 1748016863,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720754,
       "num": 337159,
       "word": "单依纯当年唯一输掉的比赛",
@@ -51,20 +59,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 611396,
+      "num": 611396,
+      "word": "2.5天休假模式真的来了",
+      "onboard_time": 1748008354,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564662,
       "num": 332539,
       "word": "林志炫淘汰",
       "onboard_time": 1748010513,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 564590,
-      "num": 564590,
-      "word": "2.5天休假模式真的来了",
-      "onboard_time": 1748008354,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 556584,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478322,
-      "num": 261393,
-      "word": "林志炫回应淘汰",
-      "onboard_time": 1748016863,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 473788,
       "num": 183330,
       "word": "单依纯 如听仙乐耳暂明",
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 458918,
-      "num": 183173,
+      "num": 269810,
       "word": "中岛美嘉 一了百了",
       "onboard_time": 1748013206,
       "rank": 22,
@@ -179,11 +179,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259755,
-      "num": 259755,
+      "raw_hot": 271065,
+      "num": 271065,
       "word": "多位捏捏玩家出现喉咙痛烂手指",
       "onboard_time": 1748012726,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269729,
+      "num": 269729,
+      "word": "捏捏博主自曝患癌退圈引热议",
+      "onboard_time": 1748014044,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202284,
+      "num": 181749,
+      "word": "李天泽",
+      "onboard_time": 1748013686,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199460,
       "num": 182313,
       "word": "藏海传收视率再创新高",
@@ -259,26 +275,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183357,
-      "num": 183357,
-      "word": "捏捏博主自曝患癌退圈引热议",
-      "onboard_time": 1748014044,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155785,
-      "num": 181749,
-      "word": "李天泽",
-      "onboard_time": 1748013686,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 149782,
+      "raw_hot": 156905,
       "num": 181643,
       "word": "折腰",
       "onboard_time": 1748017522,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141808,
+      "num": 166759,
+      "word": "刘宇宁眼神爱时蜜醋时刀",
+      "onboard_time": 1748017641,
       "rank": 42,
       "category": "剧集"
     },
@@ -328,6 +336,14 @@
       "word": "鹿晗四巡官宣",
       "onboard_time": 1747995683,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 112039,
+      "num": 166676,
+      "word": "凤凰传奇鸟巢演唱会",
+      "onboard_time": 1748018360,
+      "rank": 44,
       "category": "演出"
     },
     {
@@ -387,6 +403,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64789,
+      "num": 166529,
+      "word": "林诗栋无缘男单四强",
+      "onboard_time": 1747999823,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58936,
+      "num": 166460,
+      "word": "林诗栋说继续向梁靖崑学习",
+      "onboard_time": 1748013025,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56127,
+      "num": 166450,
+      "word": "月薪3万意味着每天能有1000块",
+      "onboard_time": 1747995982,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 31171,
       "num": 182095,
       "word": "美债大涨",
@@ -395,7 +435,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 5405,
+      "raw_hot": 5952,
       "num": 670764,
       "word": "高质量发展看天津",
       "onboard_time": 1747735641,
