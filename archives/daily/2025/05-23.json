@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747975521807,
+  "endTime": 1747977952765,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1594796,
+      "num": 667419,
+      "word": "黄杨钿甜父亲入职离职动机可疑",
+      "onboard_time": 1747974984,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364148,
       "num": 487659,
       "word": "曹颖患胃癌",
@@ -73,6 +81,14 @@
       "onboard_time": 1747919364,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 967500,
+      "num": 470823,
+      "word": "这居然是王菊",
+      "onboard_time": 1747974264,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 882502,
@@ -99,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 854456,
+      "num": 470555,
+      "word": "橘子 严浩翔",
+      "onboard_time": 1747975105,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810218,
       "num": 488842,
       "word": "因为一条路买了一套房",
@@ -121,14 +145,6 @@
       "onboard_time": 1747972763,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 732372,
-      "num": 392215,
-      "word": "黄杨钿甜父亲入职离职动机可疑",
-      "onboard_time": 1747974984,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 726311,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 678839,
-      "num": 394898,
+      "num": 470209,
       "word": "肖战谈与黄觉第一场对手戏",
       "onboard_time": 1747971022,
       "rank": 42,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 645478,
-      "num": 446237,
+      "num": 454941,
       "word": "蛮蛮一劭初吻来了",
       "onboard_time": 1747972343,
       "rank": 32,
@@ -235,12 +251,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 519756,
+      "num": 519756,
+      "word": "记者卧底揭缅甸女子买卖黑幕",
+      "onboard_time": 1747975163,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518962,
       "num": 518962,
       "word": "王楚钦晋级世乒赛八强",
       "onboard_time": 1747926509,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516123,
+      "num": 516123,
+      "word": "同事三年存了10万块",
+      "onboard_time": 1747975645,
+      "rank": 7,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 479143,
@@ -387,11 +419,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355107,
-      "num": 355107,
-      "word": "橘子 严浩翔",
-      "onboard_time": 1747975105,
-      "rank": 21,
+      "raw_hot": 352698,
+      "num": 352698,
+      "word": "苏新皓被蟒蛇缠住腿",
+      "onboard_time": 1747977203,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -467,14 +499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 286030,
-      "num": 286030,
-      "word": "这居然是王菊",
-      "onboard_time": 1747974264,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "小米YU7",
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 281708,
-      "num": 289488,
+      "num": 446270,
       "word": "人民网评藏海传打破爽剧框架",
       "onboard_time": 1747973723,
       "rank": 26,
@@ -587,12 +611,28 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 226458,
+      "num": 217113,
+      "word": "佟大为发文悼念朱媛媛",
+      "onboard_time": 1747976543,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225019,
       "num": 225019,
       "word": "穿普拉达的女王2定档",
       "onboard_time": 1747968621,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224680,
+      "num": 219955,
+      "word": "藏海传配音阵容",
+      "onboard_time": 1747976785,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 222015,
@@ -659,6 +699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 211113,
+      "num": 211113,
+      "word": "医生提醒4个时段不宜洗澡",
+      "onboard_time": 1747972283,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208997,
       "num": 412477,
       "word": "歌手第二期音源",
@@ -667,20 +715,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207697,
+      "num": 207697,
+      "word": "莫离 平分",
+      "onboard_time": 1747977504,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207622,
       "num": 207622,
       "word": "这是载入中国游泳史的一幕",
       "onboard_time": 1747926867,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207191,
-      "num": 207191,
-      "word": "医生提醒4个时段不宜洗澡",
-      "onboard_time": 1747972283,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 204834,
@@ -707,6 +755,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 203256,
+      "num": 203256,
+      "word": "肖战手机有几十个闹钟",
+      "onboard_time": 1747977864,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197764,
       "num": 197764,
       "word": "乘风2025五公歌单",
@@ -723,12 +779,28 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 195970,
+      "num": 195970,
+      "word": "世乒赛",
+      "onboard_time": 1747976723,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193936,
       "num": 379737,
       "word": "选家电什么才是最重要的",
       "onboard_time": 1747969402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191100,
+      "num": 191100,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1747976723,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 190946,
@@ -769,6 +841,14 @@
       "onboard_time": 1747931301,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183587,
+      "num": 428711,
+      "word": "舒淇戛纳红毯状态",
+      "onboard_time": 1747976483,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 181849,
@@ -891,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159069,
+      "num": 450546,
+      "word": "四折叠首发现货开售",
+      "onboard_time": 1747976844,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158729,
       "num": 158729,
       "word": "三斤榴莲开出八斤肉",
@@ -937,6 +1025,14 @@
       "onboard_time": 1747961123,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147267,
+      "num": 147267,
+      "word": "哈佛留学生何去何从",
+      "onboard_time": 1747977623,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146984,
@@ -1051,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128100,
+      "num": 185051,
+      "word": "胡兵 陈楚生站哥",
+      "onboard_time": 1747976184,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125964,
       "num": 125964,
       "word": "梁靖崑投诉球拍上都是水",
@@ -1145,6 +1249,14 @@
       "onboard_time": 1747966223,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115466,
+      "num": 355022,
+      "word": "这6个危险时段千万别洗澡",
+      "onboard_time": 1747977383,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112865,
@@ -1283,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95176,
+      "num": 207768,
+      "word": "全国医院放射检查费大降价",
+      "onboard_time": 1747977864,
+      "rank": 35,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 95160,
       "num": 95160,
       "word": "存款利率下调普通人应该如何理财",
@@ -1419,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82403,
+      "num": 452832,
+      "word": "酸酸乳这波纯冲我来的",
+      "onboard_time": 1747976666,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82102,
       "num": 281435,
       "word": "美媒称国家越弱小在白宫越被敌意对待",
@@ -1499,6 +1627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 67902,
+      "num": 471061,
+      "word": "实拍贵州大方山体滑坡救援现场",
+      "onboard_time": 1747977023,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65192,
       "num": 171650,
       "word": "林诗栋回应下轮对阵梁靖崑",
@@ -1523,11 +1659,11 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 62594,
-      "num": 378837,
-      "word": "记者卧底揭缅甸女子买卖黑幕",
-      "onboard_time": 1747975163,
-      "rank": 17,
+      "raw_hot": 61868,
+      "num": 353584,
+      "word": "19岁偷渡缅甸女子标价20多万",
+      "onboard_time": 1747977804,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1601,6 +1737,14 @@
       "onboard_time": 1747974085,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46581,
+      "num": 449934,
+      "word": "牛奶什么时候都可以喝吗",
+      "onboard_time": 1747975645,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46551,
@@ -1747,6 +1891,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30768,
+      "num": 448434,
+      "word": "玉林交旅回应企业宣传片交付后两年未付款",
+      "onboard_time": 1747977084,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28714,
+      "num": 146093,
+      "word": "胖都来更名盈都来完成工商变更",
+      "onboard_time": 1747975944,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28627,
+      "num": 454479,
+      "word": "论文署名实至名归为何这么难",
+      "onboard_time": 1747976903,
+      "rank": 14,
+      "category": "教育,舆论监督"
+    },
+    {
       "raw_hot": 28354,
       "num": 371730,
       "word": "武汉地铁回应暴雨致站内进水",
@@ -1849,6 +2017,22 @@
       "onboard_time": 1747943534,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20766,
+      "num": 218887,
+      "word": "万吨巨轮都是如何下水的",
+      "onboard_time": 1747976483,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 18795,
+      "num": 196686,
+      "word": "机器人不语只是一味的打游戏",
+      "onboard_time": 1747976483,
+      "rank": 38,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 18269,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1747977952765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198675,
+        "num": 1198675,
+        "word": "哈佛大学回应",
+        "onboard_time": 1747962561,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 792380,
+        "num": 792380,
+        "word": "在人间定档",
+        "onboard_time": 1747966581,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43313,
+        "num": 673435,
+        "word": "网警重拳打击侵公犯罪",
+        "onboard_time": 1747963582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1594796,
+        "num": 667419,
+        "word": "黄杨钿甜父亲入职离职动机可疑",
+        "onboard_time": 1747974984,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657561,
+        "num": 657561,
+        "word": "哈佛硬刚美政府",
+        "onboard_time": 1747972763,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 519756,
+        "num": 519756,
+        "word": "记者卧底揭缅甸女子买卖黑幕",
+        "onboard_time": 1747975163,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680423,
+        "num": 519581,
+        "word": "朱洁静春晚前放化疗25次",
+        "onboard_time": 1747970363,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516123,
+        "num": 516123,
+        "word": "同事三年存了10万块",
+        "onboard_time": 1747975645,
+        "rank": 7,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 481631,
+        "num": 481631,
+        "word": "特朗普这是要废了哈佛啊",
+        "onboard_time": 1747968380,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67902,
+        "num": 471061,
+        "word": "实拍贵州大方山体滑坡救援现场",
+        "onboard_time": 1747977023,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967500,
+        "num": 470823,
+        "word": "这居然是王菊",
+        "onboard_time": 1747974264,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 854456,
+        "num": 470555,
+        "word": "橘子 严浩翔",
+        "onboard_time": 1747975105,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470209,
+        "num": 470209,
+        "word": "肖战谈与黄觉第一场对手戏",
+        "onboard_time": 1747971022,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454941,
+        "num": 454941,
+        "word": "蛮蛮一劭初吻来了",
+        "onboard_time": 1747972343,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28627,
+        "num": 454479,
+        "word": "论文署名实至名归为何这么难",
+        "onboard_time": 1747976903,
+        "rank": 14,
+        "category": "教育,舆论监督"
+      },
+      {
+        "raw_hot": 82403,
+        "num": 452832,
+        "word": "酸酸乳这波纯冲我来的",
+        "onboard_time": 1747976666,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159069,
+        "num": 450546,
+        "word": "四折叠首发现货开售",
+        "onboard_time": 1747976844,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46581,
+        "num": 449934,
+        "word": "牛奶什么时候都可以喝吗",
+        "onboard_time": 1747975645,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30768,
+        "num": 448434,
+        "word": "玉林交旅回应企业宣传片交付后两年未付款",
+        "onboard_time": 1747977084,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199386,
+        "num": 446270,
+        "word": "人民网评藏海传打破爽剧框架",
+        "onboard_time": 1747973723,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446076,
+        "num": 446076,
+        "word": "内娱首部水仙剧终于来了",
+        "onboard_time": 1747969882,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183587,
+        "num": 428711,
+        "word": "舒淇戛纳红毯状态",
+        "onboard_time": 1747976483,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413419,
+        "num": 413419,
+        "word": "曹颖患胃癌",
+        "onboard_time": 1747925367,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360180,
+        "num": 360180,
+        "word": "赵丽颖 赵德胤",
+        "onboard_time": 1747968500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115466,
+        "num": 355022,
+        "word": "这6个危险时段千万别洗澡",
+        "onboard_time": 1747977383,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61868,
+        "num": 353584,
+        "word": "19岁偷渡缅甸女子标价20多万",
+        "onboard_time": 1747977804,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352698,
+        "num": 352698,
+        "word": "苏新皓被蟒蛇缠住腿",
+        "onboard_time": 1747977203,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221252,
+        "num": 221252,
+        "word": "力争让樊振东重回赛场或是解决方案",
+        "onboard_time": 1747968380,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224680,
+        "num": 219955,
+        "word": "藏海传配音阵容",
+        "onboard_time": 1747976785,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20766,
+        "num": 218887,
+        "word": "万吨巨轮都是如何下水的",
+        "onboard_time": 1747976483,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 226458,
+        "num": 217113,
+        "word": "佟大为发文悼念朱媛媛",
+        "onboard_time": 1747976543,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67475,
+        "num": 216600,
+        "word": "比亚迪冠军形象大使赵心童",
+        "onboard_time": 1747973003,
+        "rank": 31,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 215457,
+        "num": 215457,
+        "word": "李晟撕拉片6宫格",
+        "onboard_time": 1747974444,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56037,
+        "num": 211921,
+        "word": "降价10万的车你敢买吗",
+        "onboard_time": 1747974143,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211113,
+        "num": 211113,
+        "word": "医生提醒4个时段不宜洗澡",
+        "onboard_time": 1747972283,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95176,
+        "num": 207768,
+        "word": "全国医院放射检查费大降价",
+        "onboard_time": 1747977864,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 207697,
+        "num": 207697,
+        "word": "莫离 平分",
+        "onboard_time": 1747977504,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "肖战手机有几十个闹钟",
+        "onboard_time": 1747977864,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18795,
+        "num": 196686,
+        "word": "机器人不语只是一味的打游戏",
+        "onboard_time": 1747976483,
+        "rank": 38,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 195970,
+        "num": 195970,
+        "word": "世乒赛",
+        "onboard_time": 1747976723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192240,
+        "num": 192240,
+        "word": "孟婆汤掺水越来越严重了",
+        "onboard_time": 1747972104,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191100,
+        "num": 191100,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1747976723,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128100,
+        "num": 185051,
+        "word": "胡兵 陈楚生站哥",
+        "onboard_time": 1747976184,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183924,
+        "num": 183924,
+        "word": "印度人炫耀洗火车视频遭嘲笑",
+        "onboard_time": 1747971682,
+        "rank": 43,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 182666,
+        "num": 182666,
+        "word": "1999年出生努努力能活三个世纪",
+        "onboard_time": 1747972224,
+        "rank": 44,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 169244,
+        "num": 169244,
+        "word": "黄磊悼念朱媛媛",
+        "onboard_time": 1747966281,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167756,
+        "num": 167756,
+        "word": "哈佛大学现有外国学生需转学",
+        "onboard_time": 1747955659,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161261,
+        "num": 161261,
+        "word": "在人间共8集",
+        "onboard_time": 1747971622,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147267,
+        "num": 147267,
+        "word": "哈佛留学生何去何从",
+        "onboard_time": 1747977623,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28714,
+        "num": 146093,
+        "word": "胖都来更名盈都来完成工商变更",
+        "onboard_time": 1747975944,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙通电话#"
+    }
+  }
+}
