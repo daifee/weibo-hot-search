@@ -1,6 +1,6 @@
 {
   "startTime": 1747931548415,
-  "endTime": 1747985118356,
+  "endTime": 1747985972987,
   "band_list": [
     {
       "raw_hot": 6570760,
@@ -17,6 +17,14 @@
       "onboard_time": 1747969582,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3083019,
+      "num": 311765,
+      "word": "24岁女幼师当街被刺身亡",
+      "onboard_time": 1747984823,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2929519,
@@ -67,36 +75,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1364148,
-      "num": 487659,
-      "word": "曹颖患胃癌",
-      "onboard_time": 1747925367,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1362310,
-      "num": 311765,
-      "word": "24岁女幼师当街被刺身亡",
-      "onboard_time": 1747984823,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1280516,
-      "num": 1280516,
+      "raw_hot": 1433356,
+      "num": 1433356,
       "word": "张学友演唱会撞期高考遭多人投诉",
       "onboard_time": 1747981582,
       "rank": 19,
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 1129091,
+      "raw_hot": 1429534,
       "num": 309398,
       "word": "事以密成 言以泄败",
       "onboard_time": 1747982962,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1364148,
+      "num": 487659,
+      "word": "曹颖患胃癌",
+      "onboard_time": 1747925367,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1076057,
@@ -483,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369284,
+      "raw_hot": 370959,
       "num": 284833,
       "word": "姚晨发长文悼念朱媛媛",
       "onboard_time": 1747981582,
@@ -627,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267079,
+      "num": 293662,
+      "word": "这杯霸王茶姬有点轻",
+      "onboard_time": 1747984102,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252780,
       "num": 196594,
       "word": "男子晨起洗澡后脑勺似被重击昏倒",
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 238209,
-      "num": 305961,
+      "num": 315682,
       "word": "曹颖称事业做的再好不如多陪孩子长大",
       "onboard_time": 1747984702,
       "rank": 12,
@@ -705,6 +713,14 @@
       "onboard_time": 1747974564,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235536,
+      "num": 235536,
+      "word": "肖战说藏海传海报上的眼神是抓拍的",
+      "onboard_time": 1747984583,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 229705,
@@ -907,14 +923,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 200928,
-      "num": 293662,
-      "word": "这杯霸王茶姬有点轻",
-      "onboard_time": 1747984102,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198524,
       "num": 187791,
       "word": "易烊千玺在掌声雷动里热泪盈眶",
@@ -955,12 +963,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194283,
+      "num": 238923,
+      "word": "周深说和白鹿是周深如故",
+      "onboard_time": 1747984823,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193936,
       "num": 379737,
       "word": "选家电什么才是最重要的",
       "onboard_time": 1747969402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "这个世界没祝绪丹在乎的人了吗",
+      "onboard_time": 1747985183,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191757,
+      "num": 191757,
+      "word": "股市",
+      "onboard_time": 1747985183,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 191100,
@@ -979,12 +1011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190422,
-      "num": 182055,
-      "word": "肖战说藏海传海报上的眼神是抓拍的",
-      "onboard_time": 1747984583,
+      "raw_hot": 190205,
+      "num": 190205,
+      "word": "以色列",
+      "onboard_time": 1747985361,
       "rank": 32,
-      "category": "剧集"
+      "category": "国际时政"
     },
     {
       "raw_hot": 190001,
@@ -1107,20 +1139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175357,
-      "num": 182480,
-      "word": "周深说和白鹿是周深如故",
-      "onboard_time": 1747984823,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175346,
       "num": 175346,
       "word": "林诗栋说没想到4比0的比分",
       "onboard_time": 1747958240,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174436,
+      "num": 292621,
+      "word": "男子私用卖房款炒股被判分妻子120万",
+      "onboard_time": 1747984222,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173846,
@@ -1195,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167363,
+      "num": 167363,
+      "word": "忙到忘记吃饭 你薪水很高吗",
+      "onboard_time": 1747985361,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166713,
       "num": 166713,
       "word": "金珉奎直播回应撞脸爸爸当家萌娃",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1747931780,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161011,
+      "num": 161011,
+      "word": "终于明白什么是五代十国了",
+      "onboard_time": 1747985361,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 160413,
@@ -1291,8 +1339,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149081,
+      "num": 149081,
+      "word": "莫雷加德说拼到虚脱",
+      "onboard_time": 1747985422,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148978,
-      "num": 148978,
+      "num": 220324,
       "word": "安宰贤晋级世乒赛八强",
       "onboard_time": 1747982062,
       "rank": 40,
@@ -1432,6 +1488,14 @@
       "word": "一生爱吃笋的浙江人基因又动了",
       "onboard_time": 1747983682,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135116,
+      "num": 299790,
+      "word": "男子撞人后装热心市民留在肇事现场",
+      "onboard_time": 1747984162,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1859,14 +1923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88854,
-      "num": 292621,
-      "word": "男子私用卖房款炒股被判分妻子120万",
-      "onboard_time": 1747984222,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88068,
       "num": 222805,
       "word": "广东一笔157万元涉案现金无人认领",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1747961304,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85660,
+      "num": 289989,
+      "word": "哈佛的中国留学生能顺利毕业回国吗",
+      "onboard_time": 1747983744,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85235,
@@ -2001,14 +2065,6 @@
       "onboard_time": 1747912103,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 74918,
-      "num": 299790,
-      "word": "男子撞人后装热心市民留在肇事现场",
-      "onboard_time": 1747984162,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71298,
@@ -2259,12 +2315,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 41131,
-      "num": 289989,
-      "word": "哈佛的中国留学生能顺利毕业回国吗",
-      "onboard_time": 1747983744,
-      "rank": 18,
-      "category": "海外新闻"
+      "raw_hot": 40791,
+      "num": 261841,
+      "word": "晨起洗澡有哪些风险",
+      "onboard_time": 1747985543,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 40322,
@@ -2316,7 +2372,7 @@
     },
     {
       "raw_hot": 35847,
-      "num": 182666,
+      "num": 191920,
       "word": "玄戒芯片会搭载在哪些产品上",
       "onboard_time": 1747984583,
       "rank": 29,
@@ -2491,6 +2547,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 21487,
+      "num": 162277,
+      "word": "100小时探索金字塔",
+      "onboard_time": 1747985481,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 21353,
       "num": 436050,
       "word": "物种丰富的大自然有多美",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1747943534,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21257,
+      "num": 162287,
+      "word": "指导本科毕业论文被气哭了",
+      "onboard_time": 1747985543,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 21114,
