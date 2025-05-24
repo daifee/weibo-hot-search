@@ -1,0 +1,410 @@
+{
+  "runTime": 1748083349222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1245505,
+        "num": 1245505,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1748075963,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 939154,
+        "num": 939154,
+        "word": "可复美",
+        "onboard_time": 1748080822,
+        "rank": 1,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 22837,
+        "num": 896046,
+        "word": "道德模范可学可做可追可及",
+        "onboard_time": 1748061025,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 893815,
+        "num": 893815,
+        "word": "哈佛已离境留学生或无法返美",
+        "onboard_time": 1748075181,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 625964,
+        "num": 625964,
+        "word": "美国封杀哈佛3天前临时甩锅中国",
+        "onboard_time": 1748081782,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1299912,
+        "num": 624317,
+        "word": "特朗普24小时内连砍三刀",
+        "onboard_time": 1748073982,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 584362,
+        "num": 584362,
+        "word": "单依纯把马嘉祺调成啥了",
+        "onboard_time": 1748076982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426088,
+        "num": 426088,
+        "word": "厦门车祸奇迹宝宝亲属因赔偿款反目",
+        "onboard_time": 1748077401,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408446,
+        "num": 417117,
+        "word": "郝蕾 不红就是原罪红了什么都对",
+        "onboard_time": 1748077823,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410983,
+        "num": 410983,
+        "word": "王楚钦11比8莫雷加德",
+        "onboard_time": 1748079683,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638152,
+        "num": 404367,
+        "word": "杨采钰的现任",
+        "onboard_time": 1748080942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609333,
+        "num": 399759,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373459,
+        "num": 373459,
+        "word": "谍报上不封顶",
+        "onboard_time": 1748077521,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348452,
+        "num": 348452,
+        "word": "10多个省份鼓励实行2.5天休假模式",
+        "onboard_time": 1748075482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 331058,
+        "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
+        "onboard_time": 1748081842,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 327151,
+        "num": 327151,
+        "word": "李庚希G社镜头",
+        "onboard_time": 1748081122,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317134,
+        "num": 317134,
+        "word": "王楚钦孙颖莎今日均有两场硬仗",
+        "onboard_time": 1748081181,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302164,
+        "num": 302164,
+        "word": "孙颖莎11比7伊藤美诚",
+        "onboard_time": 1748082862,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301652,
+        "num": 301652,
+        "word": "黄子弘凡 黑马",
+        "onboard_time": 1748082082,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272633,
+        "num": 298350,
+        "word": "德克士直播",
+        "onboard_time": 1748081723,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296920,
+        "num": 296920,
+        "word": "王楚钦希望和梁靖崑会师决赛",
+        "onboard_time": 1748082621,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273542,
+        "num": 273542,
+        "word": "孙颖莎VS伊藤美诚",
+        "onboard_time": 1748082681,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269792,
+        "num": 269792,
+        "word": "范丞丞等34名演员参加税法培训",
+        "onboard_time": 1748082382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245045,
+        "num": 245045,
+        "word": "躺久了真的非常消耗气血",
+        "onboard_time": 1748079441,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232202,
+        "num": 232202,
+        "word": "胡彦斌给演唱会每一位观众送金子",
+        "onboard_time": 1748075542,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204909,
+        "num": 204909,
+        "word": "北上",
+        "onboard_time": 1748082742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42416,
+        "num": 201419,
+        "word": "美媒起底哈佛大学真实背景",
+        "onboard_time": 1748082142,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51073,
+        "num": 198763,
+        "word": "女子靠偷师老板闺蜜设局诈骗1600万元",
+        "onboard_time": 1748081842,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17759,
+        "num": 192640,
+        "word": "这才是当今社会所需要的正能量",
+        "onboard_time": 1748069001,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9346,
+        "num": 191343,
+        "word": "牙齿如何从感官组织进化为咀嚼器官",
+        "onboard_time": 1748081842,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187687,
+        "num": 187687,
+        "word": "陈楚生歌手直播收视增幅Top1",
+        "onboard_time": 1748081723,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183309,
+        "num": 183309,
+        "word": "九尾免费租借Hero",
+        "onboard_time": 1748081963,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176941,
+        "num": 176941,
+        "word": "尚公主",
+        "onboard_time": 1748074521,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175313,
+        "num": 175313,
+        "word": "女网红想变韩女全脸整容对标张元英",
+        "onboard_time": 1748073323,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 160792,
+        "num": 160792,
+        "word": "折腰直播",
+        "onboard_time": 1748077941,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155731,
+        "num": 155731,
+        "word": "内娱再就业男团来新人了",
+        "onboard_time": 1748081723,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149716,
+        "num": 149716,
+        "word": "易烊千玺怎么能争气成这样",
+        "onboard_time": 1748069421,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146888,
+        "num": 146888,
+        "word": "Rookie1000出场",
+        "onboard_time": 1748082921,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143913,
+        "num": 143913,
+        "word": "张本美和希望女双能复仇",
+        "onboard_time": 1748080221,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138127,
+        "num": 138127,
+        "word": "邓超回应与迪丽热巴粉丝合影",
+        "onboard_time": 1748071761,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136398,
+        "num": 136398,
+        "word": "他俩还没吻起来我已经烧起来了",
+        "onboard_time": 1748082142,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133855,
+        "num": 133855,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132823,
+        "num": 132823,
+        "word": "男子种出用挖耳勺吃的拇指西瓜",
+        "onboard_time": 1748078663,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7016,
+        "num": 132352,
+        "word": "减脂平台期为什么越焦虑越难突破",
+        "onboard_time": 1748083281,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131984,
+        "num": 131984,
+        "word": "北京8平米双拼别墅",
+        "onboard_time": 1748082862,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130994,
+        "num": 130994,
+        "word": "想坐侯佩岑副驾的人排到了法国",
+        "onboard_time": 1748082981,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130851,
+        "num": 130851,
+        "word": "高考前得知无法参加高考",
+        "onboard_time": 1748067562,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127187,
+        "num": 127187,
+        "word": "JDG绝意",
+        "onboard_time": 1748081122,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124951,
+        "num": 124951,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123900,
+        "num": 123900,
+        "word": "英媒感慨中国变酷了",
+        "onboard_time": 1748078901,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}
