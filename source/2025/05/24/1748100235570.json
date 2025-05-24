@@ -1,0 +1,410 @@
+{
+  "runTime": 1748100235570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5682540,
+        "num": 5682540,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1748094746,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135742,
+        "num": 1135742,
+        "word": "杨肸子说杨紫在剧组从不拿剧本",
+        "onboard_time": 1748097146,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61260,
+        "num": 1052717,
+        "word": "每个中国人传唱的精神密码",
+        "onboard_time": 1748095529,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045924,
+        "num": 1045924,
+        "word": "休斯顿的风吹过德班吹到了多哈",
+        "onboard_time": 1748097028,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977430,
+        "num": 977430,
+        "word": "女足亚冠",
+        "onboard_time": 1748098946,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893374,
+        "num": 893374,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544959,
+        "num": 544959,
+        "word": "短剧女演员吐槽影视行业现状",
+        "onboard_time": 1748093603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491253,
+        "num": 491253,
+        "word": "混双颁奖",
+        "onboard_time": 1748096004,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478254,
+        "num": 478254,
+        "word": "藏海这是真引君侯折腰了",
+        "onboard_time": 1748089822,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431093,
+        "num": 431093,
+        "word": "孙颖莎王楚钦采访",
+        "onboard_time": 1748096606,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509468,
+        "num": 407338,
+        "word": "马嘉祺 无锡",
+        "onboard_time": 1748098465,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465021,
+        "num": 394464,
+        "word": "王楚钦说混双夺冠后先不庆祝",
+        "onboard_time": 1748097446,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452826,
+        "num": 385047,
+        "word": "26岁男子视力矫正术后难忍副作用自杀",
+        "onboard_time": 1748097686,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360309,
+        "num": 360309,
+        "word": "戛纳召回",
+        "onboard_time": 1748099126,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331563,
+        "num": 331563,
+        "word": "古茗两块五柠檬水",
+        "onboard_time": 1748087480,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319978,
+        "num": 319978,
+        "word": "王楚钦孙颖莎捧杯",
+        "onboard_time": 1748096366,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317514,
+        "num": 317514,
+        "word": "易烊千玺名场面诞生",
+        "onboard_time": 1748093663,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300119,
+        "num": 300119,
+        "word": "孙颖莎王楚钦回应混双三连冠",
+        "onboard_time": 1748099126,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40610,
+        "num": 298451,
+        "word": "木星进入巨蟹座水象将迎来哪些机遇",
+        "onboard_time": 1748098645,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35362,
+        "num": 296459,
+        "word": "试行弹性工作制更要兼顾假期公平",
+        "onboard_time": 1748099004,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59027,
+        "num": 293480,
+        "word": "多方回应高中生与教授父亲共发SCI论文",
+        "onboard_time": 1748100024,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822436,
+        "num": 289061,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288267,
+        "num": 288267,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344296,
+        "num": 287916,
+        "word": "教师因未发福利讲课3分钟就放电影",
+        "onboard_time": 1748093725,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286716,
+        "num": 286716,
+        "word": "梁靖崑vs雨果",
+        "onboard_time": 1748100024,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273371,
+        "num": 273371,
+        "word": "孙颖莎王楚钦回应3连冠",
+        "onboard_time": 1748100145,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262489,
+        "num": 262489,
+        "word": "单依纯唱完歌手就来追林忆莲了",
+        "onboard_time": 1748097328,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 262435,
+        "word": "陈天润发文",
+        "onboard_time": 1748097206,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32653,
+        "num": 260444,
+        "word": "为什么周末长时间躺着反而让人更疲惫",
+        "onboard_time": 1748098946,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241708,
+        "num": 259249,
+        "word": "警员视力矫正术后因难忍副作用自尽",
+        "onboard_time": 1748099064,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286475,
+        "num": 257214,
+        "word": "肖战张婧仪即兴发挥",
+        "onboard_time": 1748097146,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142681,
+        "num": 256199,
+        "word": "曝特朗普向石破茂推销美战机",
+        "onboard_time": 1748097626,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95106,
+        "num": 255614,
+        "word": "沙宝亮演技",
+        "onboard_time": 1748100024,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254317,
+        "num": 254317,
+        "word": "比食堂绞肉机生蛆更让人担心的是什么",
+        "onboard_time": 1748098104,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250984,
+        "num": 250984,
+        "word": "董明珠说孟羽童被开除失去最好机会",
+        "onboard_time": 1748090423,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221113,
+        "num": 250644,
+        "word": "原来缠住苏新皓腿的蟒蛇有86斤",
+        "onboard_time": 1748099784,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250558,
+        "num": 250558,
+        "word": "林俊杰王俊凯帮周杰伦庆生",
+        "onboard_time": 1748089882,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108054,
+        "num": 239324,
+        "word": "潘展乐从第一天比到最后一天",
+        "onboard_time": 1748098946,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236703,
+        "num": 236703,
+        "word": "黄霄云 大屏",
+        "onboard_time": 1748098825,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222473,
+        "num": 222473,
+        "word": "高中生与教授父亲共发3篇SCI论文",
+        "onboard_time": 1748095167,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130824,
+        "num": 207208,
+        "word": "魏劭想做真夫妻",
+        "onboard_time": 1748091141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199966,
+        "num": 199966,
+        "word": "推特崩了",
+        "onboard_time": 1748092224,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93806,
+        "num": 195615,
+        "word": "坦然转会",
+        "onboard_time": 1748100145,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195205,
+        "num": 195205,
+        "word": "北上郝蕾",
+        "onboard_time": 1748093845,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195062,
+        "num": 195062,
+        "word": "无畏运动会",
+        "onboard_time": 1748099004,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188433,
+        "num": 188433,
+        "word": "藏海传优酷热度破10300",
+        "onboard_time": 1748093845,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185204,
+        "num": 185204,
+        "word": "全员加速中2025",
+        "onboard_time": 1748099546,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184545,
+        "num": 184545,
+        "word": "孙颖莎说冠军一次比一次更难",
+        "onboard_time": 1748099484,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174799,
+        "num": 174799,
+        "word": "我家腰儿仿佛刚开播的样子",
+        "onboard_time": 1748088562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171443,
+        "num": 171443,
+        "word": "TheShy的千手观音好抽象",
+        "onboard_time": 1748097686,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}

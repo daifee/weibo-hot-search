@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748097589555,
+  "endTime": 1748100235570,
   "band_list": [
     {
       "raw_hot": 8048944,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1135742,
+      "num": 1135742,
+      "word": "杨肸子说杨紫在剧组从不拿剧本",
+      "onboard_time": 1748097146,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127837,
       "num": 183258,
       "word": "黄杨钿甜母亲也不该隐身",
@@ -203,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1045924,
+      "num": 1045924,
+      "word": "休斯顿的风吹过德班吹到了多哈",
+      "onboard_time": 1748097028,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1007402,
       "num": 1161184,
       "word": "郑恺回应被跑男做局了",
       "onboard_time": 1748064742,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 977430,
+      "num": 977430,
+      "word": "女足亚冠",
+      "onboard_time": 1748098946,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 970633,
@@ -243,19 +267,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893374,
+      "num": 893374,
+      "word": "刘浩存体重轻到水量纹丝不动",
+      "onboard_time": 1748098706,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 877643,
       "num": 877643,
       "word": "孙颖莎王楚钦举起国旗",
       "onboard_time": 1748095587,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 876357,
-      "num": 876357,
-      "word": "休斯顿的风吹过德班吹到了多哈",
-      "onboard_time": 1748097028,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -281,6 +305,14 @@
       "onboard_time": 1748082382,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822436,
+      "num": 342527,
+      "word": "印度一男子性侵马匹被捕",
+      "onboard_time": 1748097086,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 805314,
@@ -345,14 +377,6 @@
       "onboard_time": 1748079683,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 689035,
-      "num": 342527,
-      "word": "印度一男子性侵马匹被捕",
-      "onboard_time": 1748097086,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 686854,
@@ -507,14 +531,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 571928,
-      "num": 661419,
-      "word": "杨肸子说杨紫在剧组从不拿剧本",
-      "onboard_time": 1748097146,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564662,
       "num": 332539,
       "word": "林志炫淘汰",
@@ -537,6 +553,14 @@
       "onboard_time": 1748096606,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 544959,
+      "num": 544959,
+      "word": "短剧女演员吐槽影视行业现状",
+      "onboard_time": 1748093603,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 541028,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509468,
+      "num": 407338,
+      "word": "马嘉祺 无锡",
+      "onboard_time": 1748098465,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501370,
       "num": 339464,
       "word": "教师因未发福利讲课3分钟就放电影",
@@ -659,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465021,
+      "num": 394464,
+      "word": "王楚钦说混双夺冠后先不庆祝",
+      "onboard_time": 1748097446,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458918,
       "num": 269810,
       "word": "中岛美嘉 一了百了",
@@ -673,6 +713,14 @@
       "onboard_time": 1748086823,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452826,
+      "num": 385047,
+      "word": "26岁男子视力矫正术后难忍副作用自杀",
+      "onboard_time": 1748097686,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450957,
@@ -721,6 +769,14 @@
       "onboard_time": 1748072602,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431093,
+      "num": 431093,
+      "word": "孙颖莎王楚钦采访",
+      "onboard_time": 1748096606,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 424690,
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360309,
+      "num": 360309,
+      "word": "戛纳召回",
+      "onboard_time": 1748099126,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360263,
       "num": 327439,
       "word": "鹿晗山下智久互关",
@@ -937,14 +1001,6 @@
       "onboard_time": 1748011108,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351811,
-      "num": 351811,
-      "word": "短剧女演员吐槽影视行业现状",
-      "onboard_time": 1748093603,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 344229,
@@ -1011,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319978,
+      "num": 319978,
+      "word": "王楚钦孙颖莎捧杯",
+      "onboard_time": 1748096366,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314628,
       "num": 314628,
       "word": "管泽元 IG涅槃了吧",
@@ -1049,14 +1113,6 @@
       "onboard_time": 1748091263,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311894,
-      "num": 292910,
-      "word": "王楚钦说混双夺冠后先不庆祝",
-      "onboard_time": 1748097446,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 310286,
@@ -1123,6 +1179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300119,
+      "num": 300119,
+      "word": "孙颖莎王楚钦回应混双三连冠",
+      "onboard_time": 1748099126,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298900,
       "num": 298900,
       "word": "WTT",
@@ -1147,6 +1211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286716,
+      "num": 286716,
+      "word": "梁靖崑vs雨果",
+      "onboard_time": 1748100024,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 286475,
+      "num": 257214,
+      "word": "肖战张婧仪即兴发挥",
+      "onboard_time": 1748097146,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282967,
       "num": 282967,
       "word": "王楚钦半决赛对战莫雷加德",
@@ -1161,6 +1241,22 @@
       "onboard_time": 1748072901,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280004,
+      "num": 262435,
+      "word": "陈天润发文",
+      "onboard_time": 1748097206,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273371,
+      "num": 273371,
+      "word": "孙颖莎王楚钦回应3连冠",
+      "onboard_time": 1748100145,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 273362,
@@ -1235,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262489,
+      "num": 262489,
+      "word": "单依纯唱完歌手就来追林忆莲了",
+      "onboard_time": 1748097328,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260361,
       "num": 260361,
       "word": "王楚钦4比1赢了",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1748016563,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254317,
+      "num": 254317,
+      "word": "比食堂绞肉机生蛆更让人担心的是什么",
+      "onboard_time": 1748098104,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250125,
@@ -1323,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241708,
+      "num": 259249,
+      "word": "警员视力矫正术后因难忍副作用自尽",
+      "onboard_time": 1748099064,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239465,
       "num": 349632,
       "word": "偶遇秦昊伊能静看房",
@@ -1339,28 +1459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236703,
+      "num": 236703,
+      "word": "黄霄云 大屏",
+      "onboard_time": 1748098825,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234953,
       "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
       "onboard_time": 1748043739,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234014,
-      "num": 234014,
-      "word": "陈天润发文",
-      "onboard_time": 1748097206,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 229614,
-      "num": 229614,
-      "word": "单依纯唱完歌手就来追林忆莲了",
-      "onboard_time": 1748097328,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 228737,
@@ -1427,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221113,
+      "num": 250644,
+      "word": "原来缠住苏新皓腿的蟒蛇有86斤",
+      "onboard_time": 1748099784,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219869,
       "num": 354532,
       "word": "陈楚生歌手直播收视增幅Top1",
@@ -1441,14 +1561,6 @@
       "onboard_time": 1748087721,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 216614,
-      "num": 216614,
-      "word": "肖战张婧仪即兴发挥",
-      "onboard_time": 1748097146,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 216305,
@@ -1580,7 +1692,7 @@
     },
     {
       "raw_hot": 203013,
-      "num": 203013,
+      "num": 207208,
       "word": "魏劭想做真夫妻",
       "onboard_time": 1748091141,
       "rank": 31,
@@ -1689,6 +1801,14 @@
       "onboard_time": 1748090241,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195062,
+      "num": 195062,
+      "word": "无畏运动会",
+      "onboard_time": 1748099004,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 194259,
@@ -1875,12 +1995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185204,
+      "num": 185204,
+      "word": "全员加速中2025",
+      "onboard_time": 1748099546,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185013,
       "num": 185013,
       "word": "JDG绝意",
       "onboard_time": 1748081122,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184545,
+      "num": 184545,
+      "word": "孙颖莎说冠军一次比一次更难",
+      "onboard_time": 1748099484,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 184281,
@@ -2025,6 +2161,14 @@
       "onboard_time": 1748077882,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171443,
+      "num": 171443,
+      "word": "TheShy的千手观音好抽象",
+      "onboard_time": 1748097686,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 170246,
@@ -2515,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142681,
+      "num": 256199,
+      "word": "曝特朗普向石破茂推销美战机",
+      "onboard_time": 1748097626,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142599,
       "num": 287458,
       "word": "雨果锁定第一枚世乒赛奖牌",
@@ -2995,6 +3147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108054,
+      "num": 239324,
+      "word": "潘展乐从第一天比到最后一天",
+      "onboard_time": 1748098946,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106276,
       "num": 106276,
       "word": "中餐厅把黑龙江标注到江浙沪区域",
@@ -3147,6 +3307,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 95106,
+      "num": 255614,
+      "word": "沙宝亮演技",
+      "onboard_time": 1748100024,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95024,
       "num": 370532,
       "word": "男子雇人80元1条刷差评被判赔3万",
@@ -3161,6 +3329,14 @@
       "onboard_time": 1748070201,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93806,
+      "num": 195615,
+      "word": "坦然转会",
+      "onboard_time": 1748100145,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 93592,
@@ -3555,6 +3731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59027,
+      "num": 293480,
+      "word": "多方回应高中生与教授父亲共发SCI论文",
+      "onboard_time": 1748100024,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58936,
       "num": 166460,
       "word": "林诗栋说继续向梁靖崑学习",
@@ -3795,6 +3979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40610,
+      "num": 298451,
+      "word": "木星进入巨蟹座水象将迎来哪些机遇",
+      "onboard_time": 1748098645,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39418,
       "num": 376494,
       "word": "美国物流商打响仓库争夺战",
@@ -3835,6 +4027,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 35362,
+      "num": 296459,
+      "word": "试行弹性工作制更要兼顾假期公平",
+      "onboard_time": 1748099004,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34321,
       "num": 180135,
       "word": "美国大爷谈巴以冲突",
@@ -3865,6 +4065,14 @@
       "onboard_time": 1748025495,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32653,
+      "num": 260444,
+      "word": "为什么周末长时间躺着反而让人更疲惫",
+      "onboard_time": 1748098946,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31654,
