@@ -1,13 +1,21 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748104160996,
+  "endTime": 1748105074533,
   "band_list": [
     {
-      "raw_hot": 2478587,
-      "num": 2478587,
+      "raw_hot": 4056325,
+      "num": 4056325,
       "word": "梁靖崑vs雨果",
       "onboard_time": 1748100024,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2560068,
+      "num": 2560068,
+      "word": "梁靖崑13比15雨果",
+      "onboard_time": 1748102664,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -27,14 +35,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1125445,
-      "num": 1125445,
-      "word": "梁靖崑13比15雨果",
-      "onboard_time": 1748102664,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 866689,
       "num": 866689,
       "word": "王楚钦孙颖莎混双冠军",
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782228,
+      "raw_hot": 827408,
       "num": 342494,
       "word": "小伙称连吃28天鸡腿饭瘦10多斤",
       "onboard_time": 1748102903,
@@ -59,12 +59,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 733349,
-      "num": 733349,
+      "raw_hot": 763949,
+      "num": 763949,
       "word": "戛纳召回",
       "onboard_time": 1748099126,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 637831,
+      "num": 330736,
+      "word": "平野美宇输球后晕倒",
+      "onboard_time": 1748104703,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 587464,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 513534,
-      "num": 197946,
+      "num": 207418,
       "word": "印度一男子性侵马匹被捕",
       "onboard_time": 1748097086,
       "rank": 20,
@@ -99,8 +107,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351418,
-      "num": 351418,
+      "raw_hot": 365571,
+      "num": 365571,
       "word": "孙颖莎说冠军一次比一次更难",
       "onboard_time": 1748099484,
       "rank": 9,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264929,
+      "num": 264929,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1748100382,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262307,
       "num": 262307,
       "word": "原来缠住苏新皓腿的蟒蛇有86斤",
@@ -140,11 +156,19 @@
     },
     {
       "raw_hot": 255274,
-      "num": 194338,
+      "num": 204627,
       "word": "教师因未发福利讲课3分钟就放电影",
       "onboard_time": 1748093725,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253405,
+      "num": 253405,
+      "word": "黄霄雲 大屏",
+      "onboard_time": 1748098825,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 237332,
@@ -153,22 +177,6 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208335,
-      "num": 192940,
-      "word": "黄霄雲 大屏",
-      "onboard_time": 1748098825,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 199022,
-      "num": 199022,
-      "word": "陈幸同vs王曼昱",
-      "onboard_time": 1748100382,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 182577,
@@ -203,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171996,
+      "num": 171996,
+      "word": "刘国梁给王楚钦孙颖莎颁奖",
+      "onboard_time": 1748100743,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170940,
       "num": 170940,
       "word": "多方回应高中生与教授父亲共发SCI论文",
@@ -219,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "董明珠说孟羽童被开除失去最好机会",
+      "onboard_time": 1748090423,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156791,
       "num": 156791,
       "word": "洪涛看邓紫棋演唱会",
@@ -233,22 +257,6 @@
       "onboard_time": 1748097028,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152424,
-      "num": 152424,
-      "word": "刘国梁给王楚钦孙颖莎颁奖",
-      "onboard_time": 1748100743,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148232,
-      "num": 148232,
-      "word": "董明珠说孟羽童被开除失去最好机会",
-      "onboard_time": 1748090423,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145453,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "中国首座女足亚冠金杯",
+      "onboard_time": 1748104821,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120181,
       "num": 180136,
       "word": "清融发文告别eStar",
@@ -347,6 +363,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109666,
+      "num": 109666,
+      "word": "孙颖莎王楚钦从休斯顿到德班再到多哈",
+      "onboard_time": 1748097746,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105081,
+      "num": 105081,
+      "word": "折腰剧宣",
+      "onboard_time": 1748104163,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102887,
+      "num": 102887,
+      "word": "超燃视频回顾莎头三连冠",
+      "onboard_time": 1748104462,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101314,
       "num": 110242,
       "word": "最怕毛不易突然的关心",
@@ -361,6 +401,14 @@
       "onboard_time": 1748093364,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98091,
+      "num": 102870,
+      "word": "狂野时代",
+      "onboard_time": 1748097626,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 96264,
@@ -387,8 +435,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43546,
+      "num": 157910,
+      "word": "武汉女足6比5墨尔本城女足",
+      "onboard_time": 1748104280,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33647,
-      "num": 1143877,
+      "num": 1754429,
       "word": "每个中国人传唱的精神密码",
       "onboard_time": 1748095529,
       "rank": 2,
