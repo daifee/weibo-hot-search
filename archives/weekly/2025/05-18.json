@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748075363336,
+  "endTime": 1748076191880,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -793,6 +793,14 @@
       "onboard_time": 1748002582,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1478068,
+      "num": 1478068,
+      "word": "特朗普24小时内连砍三刀",
+      "onboard_time": 1748073982,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1472793,
@@ -2011,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844466,
+      "num": 379757,
+      "word": "林依晨孕7月素颜照",
+      "onboard_time": 1748074580,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 843834,
       "num": 484430,
       "word": "坠化粪池遇难男生在母亲节偷偷送包",
@@ -3115,14 +3131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 615424,
-      "num": 615424,
-      "word": "特朗普24小时内连砍三刀",
-      "onboard_time": 1748073982,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 615324,
       "num": 317949,
       "word": "临榆炸鸡腿真香",
@@ -3779,14 +3787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 534959,
-      "num": 379757,
-      "word": "林依晨孕7月素颜照",
-      "onboard_time": 1748074580,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 534468,
       "num": 534468,
       "word": "上海地铁",
@@ -4339,6 +4339,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 462426,
+      "num": 462426,
+      "word": "女网红想变韩女全脸整容对标张元英",
+      "onboard_time": 1748073323,
+      "rank": 6,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 462394,
       "num": 584461,
       "word": "海关在卫生巾里查获2003粒钻石",
@@ -4553,14 +4561,6 @@
       "onboard_time": 1747728562,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434696,
-      "num": 434696,
-      "word": "女网红想变韩女全脸整容对标张元英",
-      "onboard_time": 1748073323,
-      "rank": 6,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 433930,
@@ -4817,6 +4817,14 @@
       "onboard_time": 1747887024,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413137,
+      "num": 413137,
+      "word": "人在icu被写欠条真正借款人找到了",
+      "onboard_time": 1748072602,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 411675,
@@ -5587,6 +5595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349496,
+      "num": 365431,
+      "word": "尚公主",
+      "onboard_time": 1748074521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348822,
       "num": 377222,
       "word": "迪丽热巴中世纪宫廷风",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1747635683,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 344229,
+      "num": 297676,
+      "word": "王楚钦若夺冠仍无法重返世一",
+      "onboard_time": 1748074283,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 343049,
@@ -6267,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303384,
+      "num": 349512,
+      "word": "哈佛已离境留学生或无法返美",
+      "onboard_time": 1748075181,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302030,
       "num": 209008,
       "word": "小米YU7内饰",
@@ -6313,6 +6345,14 @@
       "onboard_time": 1747709909,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300688,
+      "num": 359990,
+      "word": "美国私人飞机坠毁致15栋民宅连环烧",
+      "onboard_time": 1748073801,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 300462,
@@ -6417,14 +6457,6 @@
       "onboard_time": 1747545749,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296267,
-      "num": 296267,
-      "word": "人在icu被写欠条真正借款人找到了",
-      "onboard_time": 1748072602,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294631,
@@ -8355,14 +8387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229542,
-      "num": 229542,
-      "word": "王楚钦若夺冠仍无法重返世一",
-      "onboard_time": 1748074283,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229499,
       "num": 229499,
       "word": "A股",
@@ -8865,6 +8889,14 @@
       "onboard_time": 1747718241,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219477,
+      "num": 303683,
+      "word": "胡彦斌给演唱会每一位观众送金子",
+      "onboard_time": 1748075542,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 219440,
@@ -9616,14 +9648,6 @@
       "word": "魏劭求和的方式是撒娇",
       "onboard_time": 1747909704,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208839,
-      "num": 365431,
-      "word": "尚公主",
-      "onboard_time": 1748074521,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -10683,6 +10707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197432,
+      "num": 293465,
+      "word": "尚公主9月将开机",
+      "onboard_time": 1748075362,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197339,
       "num": 237107,
       "word": "刘学义孟子义520饭撒",
@@ -11547,6 +11579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189945,
+      "num": 208202,
+      "word": "房琪长文告别浪姐",
+      "onboard_time": 1748075061,
+      "rank": 48,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 189906,
       "num": 189906,
       "word": "赵小童撕拉片",
@@ -12297,6 +12337,14 @@
       "onboard_time": 1747553786,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183414,
+      "num": 195884,
+      "word": "曾舜晞从吴小狗变成吴老狗了",
+      "onboard_time": 1748075482,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 183397,
@@ -14315,6 +14363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161005,
+      "num": 161005,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1748075963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160909,
       "num": 160909,
       "word": "开始推理吧",
@@ -14345,6 +14401,14 @@
       "onboard_time": 1747624524,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160239,
+      "num": 160239,
+      "word": "KPL转会期",
+      "onboard_time": 1748075842,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 160189,
@@ -15115,6 +15179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153462,
+      "num": 351790,
+      "word": "蛋仔派对皮肤首次参与天猫618",
+      "onboard_time": 1748072301,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153369,
       "num": 153369,
       "word": "藏海身材好顶",
@@ -15619,6 +15691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149533,
+      "num": 316292,
+      "word": "10多个省份鼓励实行2.5天休假模式",
+      "onboard_time": 1748075482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149294,
       "num": 149294,
       "word": "无期迷途",
@@ -15731,6 +15811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148060,
+      "num": 148060,
+      "word": "木星要进巨蟹了",
+      "onboard_time": 1748074762,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148030,
       "num": 191902,
       "word": "欧盟和英国对俄实施新一轮制裁",
@@ -15809,14 +15897,6 @@
       "onboard_time": 1747746923,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 147205,
-      "num": 147205,
-      "word": "木星要进巨蟹了",
-      "onboard_time": 1748074762,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 147177,
@@ -16787,14 +16867,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 137203,
-      "num": 351790,
-      "word": "蛋仔派对皮肤首次参与天猫618",
-      "onboard_time": 1748072301,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 137080,
       "num": 137080,
       "word": "魏劭 直男",
@@ -17265,6 +17337,14 @@
       "onboard_time": 1747823782,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132877,
+      "num": 132877,
+      "word": "罗予彤从泥巴里开出的花具象化",
+      "onboard_time": 1748076022,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 132821,
@@ -17787,6 +17867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126878,
+      "num": 281170,
+      "word": "连续涨价后香奈儿业绩崩了",
+      "onboard_time": 1748075362,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126773,
       "num": 296409,
       "word": "TT一夜双冠",
@@ -18025,6 +18113,14 @@
       "onboard_time": 1747557802,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124128,
+      "num": 287458,
+      "word": "雨果锁定第一枚世乒赛奖牌",
+      "onboard_time": 1748075662,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 124065,
@@ -18361,14 +18457,6 @@
       "onboard_time": 1747838725,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119913,
-      "num": 119913,
-      "word": "房琪长文告别浪姐",
-      "onboard_time": 1748075061,
-      "rank": 48,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 119912,
@@ -18825,6 +18913,14 @@
       "onboard_time": 1747977383,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115398,
+      "num": 115398,
+      "word": "GAI 中国式细腻",
+      "onboard_time": 1748076142,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115235,
@@ -21195,14 +21291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84699,
-      "num": 349512,
-      "word": "哈佛已离境留学生或无法返美",
-      "onboard_time": 1748075181,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84681,
       "num": 84681,
       "word": "王楚钦感谢了王皓",
@@ -21697,14 +21785,6 @@
       "onboard_time": 1747525638,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78995,
-      "num": 359990,
-      "word": "美国私人飞机坠毁致15栋民宅连环烧",
-      "onboard_time": 1748073801,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78989,
@@ -25795,6 +25875,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 30415,
+      "num": 331741,
+      "word": "局座早就说了歼10C排名在阵风前",
+      "onboard_time": 1748074942,
+      "rank": 29,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 30265,
       "num": 80158,
       "word": "林高远说每一场单打都不容易",
@@ -26265,6 +26353,14 @@
       "onboard_time": 1747592236,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27438,
+      "num": 363126,
+      "word": "2.5天休假的推广难度在哪",
+      "onboard_time": 1748074041,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27338,
@@ -27155,14 +27251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21289,
-      "num": 363126,
-      "word": "2.5天休假的推广难度在哪",
-      "onboard_time": 1748074041,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21266,
       "num": 177324,
       "word": "申裕斌很高兴晋级孙颖莎所在阶段",
@@ -27355,14 +27443,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 20360,
-      "num": 331741,
-      "word": "局座早就说了歼10C排名在阵风前",
-      "onboard_time": 1748074942,
-      "rank": 29,
-      "category": "军事,民生新闻"
-    },
-    {
       "raw_hot": 20344,
       "num": 747685,
       "word": "一小段治愈心灵的路",
@@ -27449,6 +27529,14 @@
       "onboard_time": 1747736842,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 19859,
+      "num": 270629,
+      "word": "高效求职的7个准备",
+      "onboard_time": 1748075780,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 19768,
@@ -27603,12 +27691,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 18756,
+      "num": 203447,
+      "word": "奶辣风童装有什么风险",
+      "onboard_time": 1748076142,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18688,
       "num": 747560,
       "word": "印度街头赢学",
       "onboard_time": 1747922666,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18600,
+      "num": 335800,
+      "word": "新一代中国科技中坚力量迅速崛起",
+      "onboard_time": 1748074341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18548,
@@ -28393,14 +28497,6 @@
       "onboard_time": 1747725083,
       "rank": 29,
       "category": "音乐,音乐"
-    },
-    {
-      "raw_hot": 14039,
-      "num": 335800,
-      "word": "新一代中国科技中坚力量迅速崛起",
-      "onboard_time": 1748074341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14006,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748075363336,
+  "endTime": 1748076191880,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -33,6 +33,14 @@
       "onboard_time": 1748067981,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1478068,
+      "num": 1478068,
+      "word": "特朗普24小时内连砍三刀",
+      "onboard_time": 1748073982,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1463962,
@@ -155,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 844466,
+      "num": 379757,
+      "word": "林依晨孕7月素颜照",
+      "onboard_time": 1748074580,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772479,
       "num": 772479,
       "word": "雨果成首位获世乒赛奖牌的巴西选手",
@@ -233,14 +249,6 @@
       "onboard_time": 1748051240,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 615424,
-      "num": 615424,
-      "word": "特朗普24小时内连砍三刀",
-      "onboard_time": 1748073982,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 593511,
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 534959,
-      "num": 379757,
-      "word": "林依晨孕7月素颜照",
-      "onboard_time": 1748074580,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 512238,
       "num": 245507,
       "word": "妻子被发现死在情人车里丈夫发声",
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462426,
+      "num": 462426,
+      "word": "女网红想变韩女全脸整容对标张元英",
+      "onboard_time": 1748073323,
+      "rank": 6,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 458918,
       "num": 269810,
       "word": "中岛美嘉 一了百了",
@@ -393,14 +401,6 @@
       "onboard_time": 1748058143,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434696,
-      "num": 434696,
-      "word": "女网红想变韩女全脸整容对标张元英",
-      "onboard_time": 1748073323,
-      "rank": 6,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 424690,
@@ -449,6 +449,14 @@
       "onboard_time": 1748050881,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413137,
+      "num": 413137,
+      "word": "人在icu被写欠条真正借款人找到了",
+      "onboard_time": 1748072602,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409040,
@@ -539,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349496,
+      "num": 365431,
+      "word": "尚公主",
+      "onboard_time": 1748074521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344229,
+      "num": 297676,
+      "word": "王楚钦若夺冠仍无法重返世一",
+      "onboard_time": 1748074283,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337220,
       "num": 337220,
       "word": "全糖可乐",
@@ -611,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303384,
+      "num": 349512,
+      "word": "哈佛已离境留学生或无法返美",
+      "onboard_time": 1748075181,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 300744,
       "num": 260054,
       "word": "离婚四年前妻教孩子发视频骂爸爸",
@@ -619,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296267,
-      "num": 296267,
-      "word": "人在icu被写欠条真正借款人找到了",
-      "onboard_time": 1748072602,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 300688,
+      "num": 359990,
+      "word": "美国私人飞机坠毁致15栋民宅连环烧",
+      "onboard_time": 1748073801,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 288971,
@@ -747,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229542,
-      "num": 229542,
-      "word": "王楚钦若夺冠仍无法重返世一",
-      "onboard_time": 1748074283,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228482,
       "num": 182494,
       "word": "歌手直播",
@@ -777,6 +801,14 @@
       "onboard_time": 1748057781,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219477,
+      "num": 303683,
+      "word": "胡彦斌给演唱会每一位观众送金子",
+      "onboard_time": 1748075542,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 215192,
@@ -817,14 +849,6 @@
       "onboard_time": 1748056221,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208839,
-      "num": 365431,
-      "word": "尚公主",
-      "onboard_time": 1748074521,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 208676,
@@ -891,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197432,
+      "num": 293465,
+      "word": "尚公主9月将开机",
+      "onboard_time": 1748075362,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196975,
       "num": 196975,
       "word": "丁太升说华语乐坛再出王菲要几十年",
@@ -929,6 +961,14 @@
       "onboard_time": 1748015723,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189945,
+      "num": 208202,
+      "word": "房琪长文告别浪姐",
+      "onboard_time": 1748075061,
+      "rank": 48,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 189443,
@@ -977,6 +1017,14 @@
       "onboard_time": 1748009072,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183414,
+      "num": 195884,
+      "word": "曾舜晞从吴小狗变成吴老狗了",
+      "onboard_time": 1748075482,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180679,
@@ -1155,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161005,
+      "num": 161005,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1748075963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160239,
+      "num": 160239,
+      "word": "KPL转会期",
+      "onboard_time": 1748075842,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159774,
       "num": 353360,
       "word": "我的灭门仇人是我的救命恩人",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1748067801,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153462,
+      "num": 351790,
+      "word": "蛋仔派对皮肤首次参与天猫618",
+      "onboard_time": 1748072301,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 152300,
@@ -1251,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149533,
+      "num": 316292,
+      "word": "10多个省份鼓励实行2.5天休假模式",
+      "onboard_time": 1748075482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149294,
       "num": 149294,
       "word": "无期迷途",
@@ -1267,20 +1347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148060,
+      "num": 148060,
+      "word": "木星要进巨蟹了",
+      "onboard_time": 1748074762,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147933,
       "num": 215202,
       "word": "王一博粉丝团否认主演敬山水",
       "onboard_time": 1748063063,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147205,
-      "num": 147205,
-      "word": "木星要进巨蟹了",
-      "onboard_time": 1748074762,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 146638,
@@ -1355,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137203,
-      "num": 351790,
-      "word": "蛋仔派对皮肤首次参与天猫618",
-      "onboard_time": 1748072301,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135908,
       "num": 182699,
       "word": "王楚钦回应击败林昀儒",
@@ -1376,6 +1448,14 @@
       "word": "阿云嘎赛后发博",
       "onboard_time": 1748058382,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132877,
+      "num": 132877,
+      "word": "罗予彤从泥巴里开出的花具象化",
+      "onboard_time": 1748076022,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -1409,6 +1489,14 @@
       "onboard_time": 1748068101,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126878,
+      "num": 281170,
+      "word": "连续涨价后香奈儿业绩崩了",
+      "onboard_time": 1748075362,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 126711,
@@ -1475,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124128,
+      "num": 287458,
+      "word": "雨果锁定第一枚世乒赛奖牌",
+      "onboard_time": 1748075662,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121656,
       "num": 181425,
       "word": "鹿晗四巡官宣",
@@ -1521,14 +1617,6 @@
       "onboard_time": 1748050161,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119913,
-      "num": 119913,
-      "word": "房琪长文告别浪姐",
-      "onboard_time": 1748075061,
-      "rank": 48,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 119718,
@@ -1609,6 +1697,14 @@
       "onboard_time": 1748068881,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115398,
+      "num": 115398,
+      "word": "GAI 中国式细腻",
+      "onboard_time": 1748076142,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112847,
@@ -1891,14 +1987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84699,
-      "num": 349512,
-      "word": "哈佛已离境留学生或无法返美",
-      "onboard_time": 1748075181,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83104,
       "num": 181160,
       "word": "老板为省钱饮水机每天只开半小时",
@@ -1961,14 +2049,6 @@
       "onboard_time": 1748050821,
       "rank": 41,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 78995,
-      "num": 359990,
-      "word": "美国私人飞机坠毁致15栋民宅连环烧",
-      "onboard_time": 1748073801,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 76480,
@@ -2355,6 +2435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 30415,
+      "num": 331741,
+      "word": "局座早就说了歼10C排名在阵风前",
+      "onboard_time": 1748074942,
+      "rank": 29,
+      "category": "军事,民生新闻"
+    },
+    {
       "raw_hot": 29772,
       "num": 173423,
       "word": "肺结节无症状为什么还会恶变",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1748027175,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27438,
+      "num": 363126,
+      "word": "2.5天休假的推广难度在哪",
+      "onboard_time": 1748074041,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26735,
@@ -2491,14 +2587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21289,
-      "num": 363126,
-      "word": "2.5天休假的推广难度在哪",
-      "onboard_time": 1748074041,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20762,
       "num": 297143,
       "word": "灵笼2应该选龙骨村还是灯塔",
@@ -2507,12 +2595,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 20360,
-      "num": 331741,
-      "word": "局座早就说了歼10C排名在阵风前",
-      "onboard_time": 1748074942,
+      "raw_hot": 19859,
+      "num": 270629,
+      "word": "高效求职的7个准备",
+      "onboard_time": 1748075780,
       "rank": 29,
-      "category": "军事,民生新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 19768,
@@ -2537,6 +2625,22 @@
       "onboard_time": 1748062941,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18756,
+      "num": 203447,
+      "word": "奶辣风童装有什么风险",
+      "onboard_time": 1748076142,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18600,
+      "num": 335800,
+      "word": "新一代中国科技中坚力量迅速崛起",
+      "onboard_time": 1748074341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18532,
@@ -2609,14 +2713,6 @@
       "onboard_time": 1748021299,
       "rank": 39,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 14039,
-      "num": 335800,
-      "word": "新一代中国科技中坚力量迅速崛起",
-      "onboard_time": 1748074341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13306,
