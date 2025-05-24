@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748085599734,
+  "endTime": 1748086590325,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1091557,
+      "num": 1091557,
+      "word": "孙颖莎VS伊藤美诚",
+      "onboard_time": 1748082681,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "陈楚生回应高音没声",
@@ -153,14 +161,6 @@
       "onboard_time": 1748063542,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1038392,
-      "num": 1038392,
-      "word": "孙颖莎VS伊藤美诚",
-      "onboard_time": 1748082681,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 1007402,
@@ -211,6 +211,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 844609,
+      "num": 844609,
+      "word": "范丞丞等34名演员参加税法培训",
+      "onboard_time": 1748082382,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 805314,
+      "num": 805314,
+      "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
+      "onboard_time": 1748081842,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 772479,
       "num": 772479,
       "word": "雨果成首位获世乒赛奖牌的巴西选手",
@@ -225,14 +241,6 @@
       "onboard_time": 1748053341,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 727305,
-      "num": 727305,
-      "word": "范丞丞等34名演员参加税法培训",
-      "onboard_time": 1748082382,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 720754,
@@ -339,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 596058,
+      "num": 596058,
+      "word": "叠纸 丑",
+      "onboard_time": 1748084423,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 593511,
       "num": 304662,
       "word": "儿子回来了爸爸却走了",
@@ -369,14 +385,6 @@
       "onboard_time": 1748061743,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 576744,
-      "num": 576744,
-      "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
-      "onboard_time": 1748081842,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 575527,
@@ -433,6 +441,14 @@
       "onboard_time": 1748072002,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529753,
+      "num": 529753,
+      "word": "王曼昱蒯曼vs张本美和木原美悠",
+      "onboard_time": 1748084481,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 528503,
@@ -587,12 +603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 415019,
+      "num": 519127,
+      "word": "国乒提前锁定世乒赛女单金牌",
+      "onboard_time": 1748084423,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414188,
       "num": 414188,
       "word": "肖战一句话解读藏海传",
       "onboard_time": 1748050881,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410801,
+      "num": 516522,
+      "word": "歌手你要这么玩我支持阿云嘎",
+      "onboard_time": 1748084003,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 409040,
@@ -673,14 +705,6 @@
       "onboard_time": 1748060301,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376451,
-      "num": 376451,
-      "word": "叠纸 丑",
-      "onboard_time": 1748084423,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 367025,
@@ -767,14 +791,6 @@
       "num": 323440,
       "word": "王楚钦世乒赛晋级四强",
       "onboard_time": 1748013386,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 322740,
-      "num": 519127,
-      "word": "国乒提前锁定世乒赛女单金牌",
-      "onboard_time": 1748084423,
       "rank": 9,
       "category": "体育"
     },
@@ -979,28 +995,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243007,
+      "num": 243007,
+      "word": "王楚钦爆冲让镜头都歪了",
+      "onboard_time": 1748086102,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234953,
       "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
       "onboard_time": 1748043739,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233790,
-      "num": 233790,
-      "word": "王曼昱蒯曼vs张本美和木原美悠",
-      "onboard_time": 1748084481,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 233226,
-      "num": 233226,
-      "word": "歌手你要这么玩我支持阿云嘎",
-      "onboard_time": 1748084003,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 228737,
@@ -1027,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225651,
+      "num": 287884,
+      "word": "王曼昱蒯曼女双进决赛",
+      "onboard_time": 1748086042,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224943,
       "num": 442885,
       "word": "莫雷加德回应对战王楚钦",
       "onboard_time": 1748057781,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224219,
+      "num": 397841,
+      "word": "褚怀明没死因为暗香残留",
+      "onboard_time": 1748085261,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 223344,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 204909,
-      "num": 204909,
+      "num": 310491,
       "word": "北上",
       "onboard_time": 1748082742,
       "rank": 25,
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 194259,
-      "num": 194259,
+      "num": 314239,
       "word": "孙颖莎没想到会轻松赢下比赛",
       "onboard_time": 1748085564,
       "rank": 37,
@@ -1259,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190243,
+      "num": 320031,
+      "word": "折腰",
+      "onboard_time": 1748017522,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189945,
       "num": 208202,
       "word": "房琪长文告别浪姐",
       "onboard_time": 1748075061,
       "rank": 48,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 189465,
+      "num": 189465,
+      "word": "奇洛李维斯回信亲签",
+      "onboard_time": 1748085982,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189443,
@@ -1288,14 +1328,6 @@
       "word": "折腰蛮蛮一劭互通心意局",
       "onboard_time": 1748079202,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 186963,
-      "num": 199477,
-      "word": "褚怀明没死因为暗香残留",
-      "onboard_time": 1748085261,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1345,6 +1377,14 @@
       "onboard_time": 1748081963,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184227,
+      "num": 415626,
+      "word": "红山动物园辟谣考拉馆需牵手参观",
+      "onboard_time": 1748084541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183414,
@@ -1627,14 +1667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156905,
-      "num": 181643,
-      "word": "折腰",
-      "onboard_time": 1748017522,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156655,
       "num": 156655,
       "word": "孙颖莎11比9伊藤美诚",
@@ -1723,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151752,
+      "num": 151752,
+      "word": "丹麦将延迟退休至70岁",
+      "onboard_time": 1748084782,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151182,
       "num": 305988,
       "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
       "onboard_time": 1748064322,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "小乔姐弟终于碰面了",
+      "onboard_time": 1748086402,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 150848,
@@ -1891,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139930,
+      "num": 506541,
+      "word": "孙颖莎回应4比0击败伊藤美诚",
+      "onboard_time": 1748085564,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139267,
       "num": 139267,
       "word": "浙江文旅",
@@ -1987,12 +2043,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129698,
-      "num": 129698,
-      "word": "孙颖莎回应4比0击败伊藤美诚",
-      "onboard_time": 1748085564,
+      "raw_hot": 129267,
+      "num": 129267,
+      "word": "清明谷雨翻牌",
+      "onboard_time": 1748086523,
       "rank": 49,
-      "category": "体育"
+      "category": "互联网"
     },
     {
       "raw_hot": 128931,
@@ -2508,7 +2564,7 @@
     },
     {
       "raw_hot": 89880,
-      "num": 210462,
+      "num": 303327,
       "word": "谁懂这个酒香喷泉的含金量",
       "onboard_time": 1748084603,
       "rank": 28,
@@ -2537,6 +2593,14 @@
       "onboard_time": 1748059883,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86408,
+      "num": 469817,
+      "word": "女子掉下水道获救后守候提醒路人",
+      "onboard_time": 1748084901,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 85553,
@@ -2827,14 +2891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53099,
-      "num": 469817,
-      "word": "女子掉下水道获救后守候提醒路人",
-      "onboard_time": 1748084901,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 51708,
       "num": 51708,
       "word": "在苏州吃到一种很新的龙虾",
@@ -2955,14 +3011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 43800,
-      "num": 415626,
-      "word": "红山动物园辟谣考拉馆需牵手参观",
-      "onboard_time": 1748084541,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43689,
       "num": 159846,
       "word": "超有用的11个生活小技巧",
@@ -3001,6 +3049,14 @@
       "onboard_time": 1748074101,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38225,
+      "num": 392565,
+      "word": "高中三年会有哪些遗憾",
+      "onboard_time": 1748085680,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 36602,
@@ -3052,7 +3108,7 @@
     },
     {
       "raw_hot": 31374,
-      "num": 207120,
+      "num": 295210,
       "word": "高中生如何缓解压力",
       "onboard_time": 1748084842,
       "rank": 29,
@@ -3251,6 +3307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21666,
+      "num": 416400,
+      "word": "如何有效缓解毕业求职时的迷茫感",
+      "onboard_time": 1748084003,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20762,
       "num": 297143,
       "word": "灵笼2应该选龙骨村还是灯塔",
@@ -3283,20 +3347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19699,
-      "num": 416400,
-      "word": "如何有效缓解毕业求职时的迷茫感",
-      "onboard_time": 1748084003,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 19487,
       "num": 382387,
       "word": "2.5天休假模式如何避免隐形加班",
       "onboard_time": 1748062282,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19391,
+      "num": 297659,
+      "word": "用整个青春珍藏的五种友谊",
+      "onboard_time": 1748086282,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 19190,
