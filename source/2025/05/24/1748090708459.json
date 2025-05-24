@@ -1,0 +1,410 @@
+{
+  "runTime": 1748090708459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1801369,
+        "num": 1801369,
+        "word": "古茗两块五柠檬水",
+        "onboard_time": 1748087480,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1127266,
+        "num": 1127266,
+        "word": "可复美",
+        "onboard_time": 1748080822,
+        "rank": 1,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 86761,
+        "num": 907032,
+        "word": "神二十乘组第1次出舱视频来了",
+        "onboard_time": 1748088023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716991,
+        "num": 716991,
+        "word": "歌手你要这么玩我支持阿云嘎",
+        "onboard_time": 1748084003,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665605,
+        "num": 665605,
+        "word": "范丞丞等34名演员参加税法培训",
+        "onboard_time": 1748082382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621722,
+        "num": 621722,
+        "word": "孙颖莎回应4比0击败伊藤美诚",
+        "onboard_time": 1748085564,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479200,
+        "num": 479200,
+        "word": "褚怀明没死因为暗香残留",
+        "onboard_time": 1748085261,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456167,
+        "num": 456167,
+        "word": "刘宇宁直播掏出一张饼",
+        "onboard_time": 1748086823,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444637,
+        "num": 444637,
+        "word": "哈佛已离境留学生或无法返美",
+        "onboard_time": 1748075181,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309744,
+        "num": 366419,
+        "word": "王曼昱蒯曼vs张本美和木原美悠",
+        "onboard_time": 1748084481,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446322,
+        "num": 356652,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342592,
+        "num": 342592,
+        "word": "我家腰儿仿佛刚开播的样子",
+        "onboard_time": 1748088562,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321695,
+        "num": 321695,
+        "word": "美国封杀哈佛3天前临时甩锅中国",
+        "onboard_time": 1748081782,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314628,
+        "num": 314628,
+        "word": "管泽元 IG涅槃了吧",
+        "onboard_time": 1748088023,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277731,
+        "num": 277731,
+        "word": "杨采钰的现任",
+        "onboard_time": 1748080942,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236177,
+        "num": 261952,
+        "word": "董明珠说孟羽童被开除失去最好机会",
+        "onboard_time": 1748090423,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260196,
+        "num": 260196,
+        "word": "易烊千玺最狂野的一面",
+        "onboard_time": 1748088864,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264342,
+        "num": 259523,
+        "word": "宋雨琦无框眼镜",
+        "onboard_time": 1748088621,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255483,
+        "num": 255483,
+        "word": "林俊杰王俊凯帮周杰伦庆生",
+        "onboard_time": 1748089882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19440,
+        "num": 251601,
+        "word": "巨子生物的可复美真的有效果吗",
+        "onboard_time": 1748089882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249758,
+        "num": 249758,
+        "word": "藏海这是真引君侯折腰了",
+        "onboard_time": 1748089822,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227899,
+        "num": 227899,
+        "word": "程潇程晨姐妹傣族造型",
+        "onboard_time": 1748088503,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214852,
+        "num": 214852,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1748075963,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206103,
+        "num": 206103,
+        "word": "10多个省份鼓励实行2.5天休假模式",
+        "onboard_time": 1748075482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69861,
+        "num": 205747,
+        "word": "王曼昱蒯曼回应女双进决赛",
+        "onboard_time": 1748089882,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205598,
+        "num": 205598,
+        "word": "囚于永夜",
+        "onboard_time": 1748089702,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201499,
+        "num": 201499,
+        "word": "清融转会",
+        "onboard_time": 1748088982,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200867,
+        "num": 200867,
+        "word": "藏海钦天监监正",
+        "onboard_time": 1748090003,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198906,
+        "num": 198906,
+        "word": "孙颖莎VS伊藤美诚",
+        "onboard_time": 1748082681,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195628,
+        "num": 195628,
+        "word": "嫉妒从朋友圈的点赞减少开始",
+        "onboard_time": 1748090241,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193366,
+        "num": 193366,
+        "word": "学校回应全专业100人企业抢着要",
+        "onboard_time": 1748088142,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191459,
+        "num": 191459,
+        "word": "天宇",
+        "onboard_time": 1748090182,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 185801,
+        "num": 185801,
+        "word": "iG战胜EDG",
+        "onboard_time": 1748090241,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 183774,
+        "word": "王楚钦爆冲让镜头都歪了",
+        "onboard_time": 1748086102,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164955,
+        "num": 164955,
+        "word": "藏海质疑理解成为童文洁",
+        "onboard_time": 1748088683,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159382,
+        "num": 159382,
+        "word": "重庆动物园",
+        "onboard_time": 1748090301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158605,
+        "num": 158605,
+        "word": "可复美回应被曝测不出重组胶原蛋白",
+        "onboard_time": 1748090003,
+        "rank": 36,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 154840,
+        "num": 154840,
+        "word": "WTT",
+        "onboard_time": 1748088503,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79146,
+        "num": 154779,
+        "word": "莫雷加德说对阵王楚钦自己是下风者",
+        "onboard_time": 1748089882,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115215,
+        "num": 154772,
+        "word": "多年精神内耗被余华1分钟治好了",
+        "onboard_time": 1748090423,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84754,
+        "num": 154678,
+        "word": "孙颖莎超快反应速度",
+        "onboard_time": 1748089882,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34213,
+        "num": 154640,
+        "word": "止疼药是如何在体内精准找到疼痛部位的",
+        "onboard_time": 1748088142,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154593,
+        "num": 154593,
+        "word": "邓紫棋累点没关系别苦了粉丝",
+        "onboard_time": 1748090301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153692,
+        "num": 153692,
+        "word": "王楚钦希望和梁靖崑会师决赛",
+        "onboard_time": 1748082621,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151400,
+        "num": 151400,
+        "word": "躺久了真的非常消耗气血",
+        "onboard_time": 1748079441,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150903,
+        "num": 150903,
+        "word": "藏海传观众都敏感到疑神疑鬼了",
+        "onboard_time": 1748089762,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48993,
+        "num": 143070,
+        "word": "JDG绝意",
+        "onboard_time": 1748081122,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138569,
+        "num": 138569,
+        "word": "抹茶椰子水",
+        "onboard_time": 1748087721,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135809,
+        "num": 135809,
+        "word": "代谢在变差的6个表现",
+        "onboard_time": 1748087242,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133997,
+        "num": 133997,
+        "word": "喻言演唱会",
+        "onboard_time": 1748089223,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}
