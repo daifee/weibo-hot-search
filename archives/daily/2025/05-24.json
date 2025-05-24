@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748065286387,
+  "endTime": 1748068374249,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -83,11 +83,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117231,
+      "num": 270855,
+      "word": "3岁女童与母亲尸体同住4天",
+      "onboard_time": 1748064322,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "陈楚生回应高音没声",
       "onboard_time": 1748011887,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1048427,
+      "num": 371857,
+      "word": "蔡依林 彭于晏",
+      "onboard_time": 1748063542,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1007402,
+      "num": 1161184,
+      "word": "郑恺回应被跑男做局了",
+      "onboard_time": 1748064742,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -113,14 +137,6 @@
       "onboard_time": 1748049081,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 865444,
-      "num": 371857,
-      "word": "蔡依林 彭于晏",
-      "onboard_time": 1748063542,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 772479,
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 632246,
-      "num": 270855,
-      "word": "3岁女童与母亲尸体同住4天",
-      "onboard_time": 1748064322,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 616579,
       "num": 616579,
       "word": "美国得州拟禁止中国等国公民买房",
@@ -209,6 +217,14 @@
       "onboard_time": 1748046262,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591812,
+      "num": 591812,
+      "word": "被237万网友严选的新生军训服",
+      "onboard_time": 1748062762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582978,
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358215,
-      "num": 402321,
-      "word": "被237万网友严选的新生军训服",
-      "onboard_time": 1748062762,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352259,
       "num": 352259,
       "word": "女单四强国乒占三席",
@@ -499,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304560,
+      "num": 304560,
+      "word": "看似先婚后爱其实蓄谋已久",
+      "onboard_time": 1748065101,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300744,
       "num": 260054,
       "word": "离婚四年前妻教孩子发视频骂爸爸",
@@ -545,6 +561,14 @@
       "onboard_time": 1748051000,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258767,
+      "num": 258767,
+      "word": "李艺彤 她不像男人她本身就强大",
+      "onboard_time": 1748066422,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 255187,
@@ -611,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222382,
+      "num": 222382,
+      "word": "儿子回来了爸爸却走了",
+      "onboard_time": 1748064502,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215192,
       "num": 215192,
       "word": "王楚钦vs林昀儒",
@@ -633,6 +665,14 @@
       "onboard_time": 1748012366,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211057,
+      "num": 211057,
+      "word": "绵阳市商务局回应2.5天休假模式",
+      "onboard_time": 1748066422,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209050,
@@ -673,6 +713,14 @@
       "onboard_time": 1748059941,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199598,
+      "num": 159445,
+      "word": "高考前得知无法参加高考",
+      "onboard_time": 1748067562,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 199460,
@@ -771,12 +819,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180592,
+      "num": 180592,
+      "word": "一代人有一代人的梦核",
+      "onboard_time": 1748068101,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178927,
       "num": 178927,
       "word": "藏海传配角 出彩",
       "onboard_time": 1748063481,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178163,
+      "num": 178163,
+      "word": "串台了以为结石姐又去歌手了",
+      "onboard_time": 1748067322,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177827,
+      "num": 177827,
+      "word": "张继科来杭州教乒乓球了",
+      "onboard_time": 1748066722,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 177375,
@@ -817,14 +889,6 @@
       "onboard_time": 1748064322,
       "rank": 9,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 173887,
-      "num": 191762,
-      "word": "郑恺回应被跑男做局了",
-      "onboard_time": 1748064742,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 173372,
@@ -916,11 +980,19 @@
     },
     {
       "raw_hot": 163075,
-      "num": 163075,
+      "num": 202719,
       "word": "郭晋安否认与23岁港姐恋情",
       "onboard_time": 1748062822,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159433,
+      "num": 159433,
+      "word": "白衣教练 JDG清融HERO坦然",
+      "onboard_time": 1748067741,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 159143,
@@ -955,8 +1027,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153974,
+      "num": 153974,
+      "word": "敦煌壁画里的女子500岁才结婚",
+      "onboard_time": 1748067801,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152300,
+      "num": 159560,
+      "word": "藏海下一个准备拿下观众吗",
+      "onboard_time": 1748066362,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151182,
-      "num": 151182,
+      "num": 159608,
       "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
       "onboard_time": 1748064322,
       "rank": 41,
@@ -969,6 +1057,14 @@
       "onboard_time": 1748062102,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150645,
+      "num": 195522,
+      "word": "多位捏捏博主患病退圈",
+      "onboard_time": 1748066541,
+      "rank": 20,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 149679,
@@ -985,6 +1081,14 @@
       "onboard_time": 1748063063,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149067,
+      "num": 159158,
+      "word": "舍不得江一燕",
+      "onboard_time": 1748067022,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 147933,
@@ -1027,12 +1131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139270,
-      "num": 139270,
-      "word": "儿子回来了爸爸却走了",
-      "onboard_time": 1748064502,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 140178,
+      "num": 140178,
+      "word": "第五人格",
+      "onboard_time": 1748066840,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 137729,
@@ -1067,20 +1171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132672,
-      "num": 132672,
-      "word": "看似先婚后爱其实蓄谋已久",
-      "onboard_time": 1748065101,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132409,
       "num": 132409,
       "word": "折腰海外热度",
       "onboard_time": 1748065163,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130919,
+      "num": 137475,
+      "word": "别给小孩买性感奶辣衣服了",
+      "onboard_time": 1748067981,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 130420,
@@ -1091,12 +1195,36 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 129581,
+      "num": 206909,
+      "word": "李昀锐王安宇王星越撕拉又嘶哈",
+      "onboard_time": 1748067921,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128931,
       "num": 111214,
       "word": "胡海泉回应歌手争议",
       "onboard_time": 1748048421,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128410,
+      "num": 128410,
+      "word": "重庆狼队 转会",
+      "onboard_time": 1748068101,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126711,
+      "num": 126711,
+      "word": "关于我花了1万五去欧洲旅行",
+      "onboard_time": 1748065281,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 125949,
@@ -1163,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119718,
+      "num": 119718,
+      "word": "活在教师链最底端的临聘教师",
+      "onboard_time": 1748066963,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119486,
       "num": 119486,
       "word": "网传王一博主演敬山水",
@@ -1209,6 +1345,14 @@
       "onboard_time": 1748056941,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116767,
+      "num": 116767,
+      "word": "藏海传全员无蠢人主角也只能险胜",
+      "onboard_time": 1748068340,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112847,
@@ -1747,12 +1891,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 45191,
+      "num": 198876,
+      "word": "常吃烧烤麻辣烫是否增加患胃癌的风险",
+      "onboard_time": 1748067741,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43806,
       "num": 88565,
       "word": "金融监管总局拟出台重磅新规",
       "onboard_time": 1748052382,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 43689,
+      "num": 159846,
+      "word": "超有用的11个生活小技巧",
+      "onboard_time": 1748067741,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 43571,
@@ -1809,6 +1969,14 @@
       "onboard_time": 1748012726,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 30723,
+      "num": 159689,
+      "word": "国产手机厂商为何执着自研芯片",
+      "onboard_time": 1748067382,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 29772,
@@ -2025,6 +2193,14 @@
       "onboard_time": 1748061081,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11375,
+      "num": 144801,
+      "word": "搜狐极限探索者大会阵容",
+      "onboard_time": 1748066482,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9614,

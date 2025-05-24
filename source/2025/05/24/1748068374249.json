@@ -1,0 +1,410 @@
+{
+  "runTime": 1748068374249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1007402,
+        "num": 1161184,
+        "word": "郑恺回应被跑男做局了",
+        "onboard_time": 1748064742,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591812,
+        "num": 591812,
+        "word": "被237万网友严选的新生军训服",
+        "onboard_time": 1748062762,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 47678,
+        "num": 493825,
+        "word": "中国东盟联手放大招",
+        "onboard_time": 1748061502,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 464298,
+        "num": 464298,
+        "word": "陈芋汐10米跳台新搭档",
+        "onboard_time": 1748061743,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397012,
+        "num": 397012,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381496,
+        "num": 381496,
+        "word": "雨果成首位获世乒赛奖牌的巴西选手",
+        "onboard_time": 1748059883,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343431,
+        "num": 343431,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340188,
+        "num": 340188,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304560,
+        "num": 304560,
+        "word": "看似先婚后爱其实蓄谋已久",
+        "onboard_time": 1748065101,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266881,
+        "num": 266881,
+        "word": "何炅眼眶都红了",
+        "onboard_time": 1748054240,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1048427,
+        "num": 265024,
+        "word": "蔡依林 彭于晏",
+        "onboard_time": 1748063542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455549,
+        "num": 262237,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258843,
+        "num": 258843,
+        "word": "单依纯看马嘉祺介绍短片的反应",
+        "onboard_time": 1748060301,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258767,
+        "num": 258767,
+        "word": "李艺彤 她不像男人她本身就强大",
+        "onboard_time": 1748066422,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231387,
+        "num": 231387,
+        "word": "郑恺被跑男做局了",
+        "onboard_time": 1748055261,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222382,
+        "num": 222382,
+        "word": "儿子回来了爸爸却走了",
+        "onboard_time": 1748064502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211057,
+        "num": 211057,
+        "word": "绵阳市商务局回应2.5天休假模式",
+        "onboard_time": 1748066422,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129581,
+        "num": 206909,
+        "word": "李昀锐王安宇王星越撕拉又嘶哈",
+        "onboard_time": 1748067921,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 202719,
+        "word": "郭晋安否认与23岁港姐恋情",
+        "onboard_time": 1748062822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45191,
+        "num": 198876,
+        "word": "常吃烧烤麻辣烫是否增加患胃癌的风险",
+        "onboard_time": 1748067741,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150645,
+        "num": 195522,
+        "word": "多位捏捏博主患病退圈",
+        "onboard_time": 1748066541,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1117231,
+        "num": 190181,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238378,
+        "num": 186798,
+        "word": "单依纯 猪欲",
+        "onboard_time": 1748054482,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222100,
+        "num": 182426,
+        "word": "原来杨天真说得这段是折腰",
+        "onboard_time": 1748062822,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180592,
+        "num": 180592,
+        "word": "一代人有一代人的梦核",
+        "onboard_time": 1748068101,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178163,
+        "num": 178163,
+        "word": "串台了以为结石姐又去歌手了",
+        "onboard_time": 1748067322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177827,
+        "num": 177827,
+        "word": "张继科来杭州教乒乓球了",
+        "onboard_time": 1748066722,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159847,
+        "num": 159847,
+        "word": "倪虹洁戴了19年前祝无双的耳环",
+        "onboard_time": 1748058501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43689,
+        "num": 159846,
+        "word": "超有用的11个生活小技巧",
+        "onboard_time": 1748067741,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30723,
+        "num": 159689,
+        "word": "国产手机厂商为何执着自研芯片",
+        "onboard_time": 1748067382,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137776,
+        "num": 159608,
+        "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
+        "onboard_time": 1748064322,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152300,
+        "num": 159560,
+        "word": "藏海下一个准备拿下观众吗",
+        "onboard_time": 1748066362,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199598,
+        "num": 159445,
+        "word": "高考前得知无法参加高考",
+        "onboard_time": 1748067562,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 159433,
+        "word": "白衣教练 JDG清融HERO坦然",
+        "onboard_time": 1748067741,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149067,
+        "num": 159158,
+        "word": "舍不得江一燕",
+        "onboard_time": 1748067022,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159115,
+        "num": 159115,
+        "word": "五哈",
+        "onboard_time": 1748063963,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153974,
+        "num": 153974,
+        "word": "敦煌壁画里的女子500岁才结婚",
+        "onboard_time": 1748067801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "肖战一句话解读藏海传",
+        "onboard_time": 1748050881,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70516,
+        "num": 145712,
+        "word": "林志炫淘汰还不忘迪玛希生日",
+        "onboard_time": 1748064201,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11375,
+        "num": 144801,
+        "word": "搜狐极限探索者大会阵容",
+        "onboard_time": 1748066482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144775,
+        "num": 144775,
+        "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+        "onboard_time": 1748056521,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140178,
+        "num": 140178,
+        "word": "第五人格",
+        "onboard_time": 1748066840,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130919,
+        "num": 137475,
+        "word": "别给小孩买性感奶辣衣服了",
+        "onboard_time": 1748067981,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136988,
+        "num": 136988,
+        "word": "藏海传配角 出彩",
+        "onboard_time": 1748063481,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136366,
+        "num": 136366,
+        "word": "歌手补位",
+        "onboard_time": 1748044341,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128410,
+        "num": 128410,
+        "word": "重庆狼队 转会",
+        "onboard_time": 1748068101,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126711,
+        "num": 126711,
+        "word": "关于我花了1万五去欧洲旅行",
+        "onboard_time": 1748065281,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119718,
+        "num": 119718,
+        "word": "活在教师链最底端的临聘教师",
+        "onboard_time": 1748066963,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116767,
+        "num": 116767,
+        "word": "藏海传全员无蠢人主角也只能险胜",
+        "onboard_time": 1748068340,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 115005,
+        "word": "国际体育仲裁院维持吕小军4年禁赛",
+        "onboard_time": 1748059582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}
