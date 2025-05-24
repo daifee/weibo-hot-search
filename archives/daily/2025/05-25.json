@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748122616045,
+  "endTime": 1748125406295,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89983,
+      "num": 89983,
+      "word": "涉事店家回应多人吃甜品后上吐下泻",
+      "onboard_time": 1748115196,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 82949,
       "num": 82949,
       "word": "梁靖崑3比3追平",
@@ -547,28 +555,20 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 77926,
-      "num": 77926,
-      "word": "涉事店家回应多人吃甜品后上吐下泻",
-      "onboard_time": 1748115196,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 62685,
-      "num": 62685,
-      "word": "刘雨欣是我好莱坞唯一的人脉",
-      "onboard_time": 1748113217,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 55674,
-      "num": 49716,
+      "raw_hot": 76094,
+      "num": 76094,
       "word": "抢手捧花求婚跪错女友当事人回应",
       "onboard_time": 1748116455,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64748,
+      "num": 64748,
+      "word": "刘雨欣是我好莱坞唯一的人脉",
+      "onboard_time": 1748113217,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 43546,
@@ -595,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27810,
+      "num": 27810,
+      "word": "这就是歌手不选我做观众的原因吗",
+      "onboard_time": 1748118074,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27101,
       "num": 34222,
       "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
       "onboard_time": 1748108718,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23235,
+      "num": 25386,
+      "word": "我在卡塔尔航空得到一枚免费钻戒",
+      "onboard_time": 1748120834,
+      "rank": 48,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 21749,
@@ -611,28 +627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20072,
-      "num": 20072,
-      "word": "这就是歌手不选我做观众的原因吗",
-      "onboard_time": 1748118074,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17686,
-      "num": 21719,
+      "raw_hot": 18461,
+      "num": 25345,
       "word": "安徽多人吃同一家甜品后疑食物中毒",
       "onboard_time": 1748118314,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14984,
-      "num": 17752,
-      "word": "我在卡塔尔航空得到一枚免费钻戒",
-      "onboard_time": 1748120834,
-      "rank": 48,
-      "category": "情感,时尚"
     },
     {
       "raw_hot": 14931,
@@ -643,7 +643,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13046,
+      "raw_hot": 13985,
       "num": 354023,
       "word": "海洋经济总量首次突破10万亿元",
       "onboard_time": 1748095287,
