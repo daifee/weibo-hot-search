@@ -1,0 +1,410 @@
+{
+  "runTime": 1748071358028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1699544,
+        "num": 1699544,
+        "word": "别给小孩买性感奶辣衣服了",
+        "onboard_time": 1748067981,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 753388,
+        "num": 753388,
+        "word": "郑恺回应被跑男做局了",
+        "onboard_time": 1748064742,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59093,
+        "num": 600995,
+        "word": "中国东盟联手放大招",
+        "onboard_time": 1748061502,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 526610,
+        "num": 526610,
+        "word": "高考前得知无法参加高考",
+        "onboard_time": 1748067562,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476430,
+        "num": 476430,
+        "word": "易烊千玺怎么能争气成这样",
+        "onboard_time": 1748069421,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357148,
+        "num": 357148,
+        "word": "19岁男子入室行凶后淡定点外卖报警",
+        "onboard_time": 1748068881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356546,
+        "num": 356546,
+        "word": "被237万网友严选的新生军训服",
+        "onboard_time": 1748062762,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 333878,
+        "num": 333878,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263866,
+        "num": 263866,
+        "word": "陈芋汐10米跳台新搭档",
+        "onboard_time": 1748061743,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253463,
+        "num": 253463,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 678573,
+        "num": 253342,
+        "word": "蔡依林 彭于晏",
+        "onboard_time": 1748063542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593511,
+        "num": 253091,
+        "word": "儿子回来了爸爸却走了",
+        "onboard_time": 1748064502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310559,
+        "num": 252768,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251215,
+        "num": 251215,
+        "word": "雨果成首位获世乒赛奖牌的巴西选手",
+        "onboard_time": 1748059883,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68966,
+        "num": 217834,
+        "word": "一开窗就是一个虎视眈眈",
+        "onboard_time": 1748070201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213828,
+        "num": 213828,
+        "word": "看似先婚后爱其实蓄谋已久",
+        "onboard_time": 1748065101,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190176,
+        "num": 212934,
+        "word": "何炅眼眶都红了",
+        "onboard_time": 1748054240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180679,
+        "num": 212183,
+        "word": "李昀锐王安宇王星越撕拉又嘶哈",
+        "onboard_time": 1748067921,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17400,
+        "num": 210198,
+        "word": "职场中表面友好型同事常用的套路有哪些",
+        "onboard_time": 1748069781,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63134,
+        "num": 209538,
+        "word": "老人5倍镜看说明书仍2次误服药",
+        "onboard_time": 1748070201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508493,
+        "num": 207604,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249718,
+        "num": 206288,
+        "word": "赵丽颖微指破8亿断层第一",
+        "onboard_time": 1748070021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205840,
+        "num": 205840,
+        "word": "单依纯 猪欲",
+        "onboard_time": 1748054482,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195441,
+        "num": 195441,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162236,
+        "num": 192829,
+        "word": "李艺彤 她不像男人她本身就强大",
+        "onboard_time": 1748066422,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158363,
+        "num": 189058,
+        "word": "我的灭门仇人是我的救命恩人",
+        "onboard_time": 1748069541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153795,
+        "num": 186030,
+        "word": "知道刘浩存为什么一直叫王安宇老师了",
+        "onboard_time": 1748068941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29341,
+        "num": 183292,
+        "word": "这才是当今社会所需要的正能量",
+        "onboard_time": 1748069001,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101249,
+        "num": 178375,
+        "word": "女子超车失败被大货车左右夹击",
+        "onboard_time": 1748070081,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14921,
+        "num": 175953,
+        "word": "存定期要小心文字游戏有哪些",
+        "onboard_time": 1748070742,
+        "rank": 29,
+        "category": ""
+      },
+      {
+        "raw_hot": 174784,
+        "num": 174784,
+        "word": "赵丽颖在人间 水仙",
+        "onboard_time": 1748054841,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202841,
+        "num": 174057,
+        "word": "吕小军回应被禁赛处罚",
+        "onboard_time": 1748069721,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172733,
+        "num": 172733,
+        "word": "白衣教练 JDG清融HERO坦然",
+        "onboard_time": 1748067741,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65366,
+        "num": 147119,
+        "word": "活在教师链最底端的临聘教师",
+        "onboard_time": 1748066963,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146093,
+        "num": 146093,
+        "word": "36岁母亲为护女被劫匪打成90岁脑龄",
+        "onboard_time": 1748071341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134984,
+        "num": 134984,
+        "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
+        "onboard_time": 1748064322,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128100,
+        "num": 128100,
+        "word": "单依纯看马嘉祺介绍短片的反应",
+        "onboard_time": 1748060301,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126178,
+        "num": 126178,
+        "word": "兰香如故",
+        "onboard_time": 1748069662,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44012,
+        "num": 121236,
+        "word": "哈佛中国访问学者发声",
+        "onboard_time": 1748070682,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120502,
+        "num": 120502,
+        "word": "当爱吃辣椒的爷爷第一次吃火鸡面",
+        "onboard_time": 1748071101,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116012,
+        "num": 116012,
+        "word": "林志炫遗憾准备的很多歌来不及唱",
+        "onboard_time": 1748071222,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114414,
+        "num": 114414,
+        "word": "张继科来杭州教乒乓球了",
+        "onboard_time": 1748066722,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109686,
+        "num": 109686,
+        "word": "在人间风象星座必看",
+        "onboard_time": 1748070862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107867,
+        "num": 107867,
+        "word": "第一批甲亢哥粉丝已到达中国",
+        "onboard_time": 1748070621,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103489,
+        "num": 103489,
+        "word": "朱媛媛是好演员更是好媳妇",
+        "onboard_time": 1748065341,
+        "rank": 44,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 98200,
+        "num": 98200,
+        "word": "重庆狼队 转会",
+        "onboard_time": 1748068101,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93007,
+        "num": 93007,
+        "word": "陈芋汐新搭档掌敏洁也来自上海",
+        "onboard_time": 1748071101,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92710,
+        "num": 92710,
+        "word": "原来杨天真说得这段是折腰",
+        "onboard_time": 1748062822,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92643,
+        "num": 92643,
+        "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+        "onboard_time": 1748056521,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92469,
+        "num": 92469,
+        "word": "化疗和放疗有什么区别",
+        "onboard_time": 1748070441,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}
