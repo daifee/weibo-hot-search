@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748053005683,
+  "endTime": 1748056293103,
   "band_list": [
     {
       "raw_hot": 2498327,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1093098,
+      "num": 1174895,
+      "word": "何炅眼眶都红了",
+      "onboard_time": 1748054240,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "陈楚生回应高音没声",
       "onboard_time": 1748011887,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1045445,
+      "num": 494061,
+      "word": "黄杨钿甜官方通报反扯出更多疑问",
+      "onboard_time": 1748053639,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 896718,
@@ -83,7 +99,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 771573,
+      "raw_hot": 871711,
       "num": 329458,
       "word": "女子旅游病逝回国验尸发现没了心脏",
       "onboard_time": 1748049081,
@@ -105,6 +121,14 @@
       "onboard_time": 1748005887,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 621408,
+      "num": 245795,
+      "word": "单依纯 猪欲",
+      "onboard_time": 1748054482,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 592426,
@@ -137,6 +161,14 @@
       "onboard_time": 1748047161,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 510781,
+      "num": 510781,
+      "word": "美国得州拟禁止中国等国公民买房",
+      "onboard_time": 1748051240,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 483368,
@@ -203,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409040,
+      "num": 258831,
+      "word": "男子给小三转6万妻子连本带息追回",
+      "onboard_time": 1748050522,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408768,
       "num": 323262,
       "word": "魏哲鸣12年还没摇到号",
@@ -235,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360286,
-      "num": 360286,
-      "word": "美国得州拟禁止中国等国公民买房",
-      "onboard_time": 1748051240,
-      "rank": 18,
-      "category": "海外新闻"
+      "raw_hot": 360263,
+      "num": 231629,
+      "word": "鹿晗山下智久互关",
+      "onboard_time": 1748052862,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 352259,
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317211,
+      "num": 317211,
+      "word": "肖战一句话解读藏海传",
+      "onboard_time": 1748050881,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314304,
       "num": 314304,
       "word": "林志炫档期",
@@ -283,6 +331,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 308911,
+      "num": 221155,
+      "word": "郑恺被跑男做局了",
+      "onboard_time": 1748055261,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300744,
+      "num": 260054,
+      "word": "离婚四年前妻教孩子发视频骂爸爸",
+      "onboard_time": 1748051961,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288971,
       "num": 182837,
       "word": "阿云嘎秒了",
@@ -296,6 +360,22 @@
       "word": "王楚钦半决赛对战莫雷加德",
       "onboard_time": 1748039837,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 281580,
+      "num": 214818,
+      "word": "赵丽颖在人间 水仙",
+      "onboard_time": 1748054841,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279672,
+      "num": 279672,
+      "word": "多哈世乒赛首金今晚产生",
+      "onboard_time": 1748053100,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -323,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258831,
-      "num": 258831,
-      "word": "男子给小三转6万妻子连本带息追回",
-      "onboard_time": 1748050522,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255187,
       "num": 202022,
       "word": "张凌赫济南",
@@ -355,8 +427,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243460,
+      "num": 243460,
+      "word": "步行者2比0尼克斯",
+      "onboard_time": 1748055862,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242730,
+      "num": 212818,
+      "word": "九门",
+      "onboard_time": 1748053402,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234953,
-      "num": 174287,
+      "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
       "onboard_time": 1748043739,
       "rank": 20,
@@ -427,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190431,
+      "num": 190431,
+      "word": "央视曝光上门免费服务骗局",
+      "onboard_time": 1748053341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189443,
       "num": 189443,
       "word": "孙颖莎稳坐世界第一即将满三年",
@@ -441,6 +537,14 @@
       "onboard_time": 1748009072,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177375,
+      "num": 177375,
+      "word": "田柾国机场图",
+      "onboard_time": 1748054961,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 176481,
@@ -459,12 +563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167890,
+      "num": 167890,
+      "word": "王鹤棣回归跑男节目收视率",
+      "onboard_time": 1748054902,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163441,
       "num": 283210,
       "word": "美股暴跌前美政界多人精准抛售",
       "onboard_time": 1748020457,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163414,
+      "num": 163414,
+      "word": "全世界都在说果赖",
+      "onboard_time": 1748053882,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159143,
@@ -483,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154273,
+      "num": 154273,
+      "word": "藏海传",
+      "onboard_time": 1748054661,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146638,
       "num": 160798,
       "word": "马嘉祺高音稳的",
@@ -491,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145529,
-      "num": 145529,
-      "word": "肖战一句话解读藏海传",
-      "onboard_time": 1748050881,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 143937,
+      "num": 143937,
+      "word": "男孩离家出走2天后父亲意外去世",
+      "onboard_time": 1748055141,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142889,
@@ -587,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119486,
+      "num": 119486,
+      "word": "网传王一博主演敬山水",
+      "onboard_time": 1748054240,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119349,
       "num": 119349,
       "word": "李天泽为马嘉祺打call",
@@ -619,12 +755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106756,
-      "num": 106756,
-      "word": "鹿晗山下智久互关",
-      "onboard_time": 1748052862,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 109337,
+      "num": 109337,
+      "word": "陈楚生吴泽林这段有点过于好笑了",
+      "onboard_time": 1748056221,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106276,
@@ -667,12 +803,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102903,
+      "num": 102903,
+      "word": "特朗普政府再挥关税大棒",
+      "onboard_time": 1748052382,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101757,
       "num": 101757,
       "word": "金饰克价一夜涨14元",
       "onboard_time": 1748052320,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "他都拍你返图了肯定是喜欢相机里的你",
+      "onboard_time": 1748056102,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 98479,
@@ -691,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98416,
+      "num": 98416,
+      "word": "网信办持续深入整治网上金融信息乱象",
+      "onboard_time": 1748054240,
+      "rank": 45,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 97504,
       "num": 97504,
       "word": "女子被自家猫咬到整只手都麻了",
@@ -699,19 +859,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96123,
+      "num": 96123,
+      "word": "3人造谣四川放火案被处罚",
+      "onboard_time": 1748053940,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 93592,
       "num": 181256,
       "word": "特朗普建议对欧盟征收50%关税",
       "onboard_time": 1748002343,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 93164,
-      "num": 93164,
-      "word": "特朗普政府再挥关税大棒",
-      "onboard_time": 1748052382,
-      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -804,7 +964,7 @@
     },
     {
       "raw_hot": 79613,
-      "num": 94786,
+      "num": 212412,
       "word": "苹果市值一夜蒸发超6500亿元",
       "onboard_time": 1748050821,
       "rank": 41,
@@ -859,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65621,
+      "num": 110492,
+      "word": "AVIA选代言人眼光绝了",
+      "onboard_time": 1748055682,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64789,
       "num": 166529,
       "word": "林诗栋无缘男单四强",
@@ -873,14 +1041,6 @@
       "onboard_time": 1748021777,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59602,
-      "num": 260054,
-      "word": "离婚四年前妻教孩子发视频骂爸爸",
-      "onboard_time": 1748051961,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58936,
@@ -913,6 +1073,14 @@
       "onboard_time": 1748041217,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 51509,
+      "num": 279195,
+      "word": "乌称基辅遭俄军导弹和无人机袭击",
+      "onboard_time": 1748055741,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51484,
@@ -987,6 +1155,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37256,
+      "num": 213819,
+      "word": "林志炫说没事儿",
+      "onboard_time": 1748056042,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34343,
+      "num": 241210,
+      "word": "男孩离家出走后外卖员父亲车祸去世",
+      "onboard_time": 1748055801,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32763,
       "num": 31339,
       "word": "Grace第二",
@@ -1036,7 +1220,7 @@
     },
     {
       "raw_hot": 26735,
-      "num": 724440,
+      "num": 754273,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 2,
