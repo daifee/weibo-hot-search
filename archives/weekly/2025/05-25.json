@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748112332273,
+  "endTime": 1748114372544,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -545,6 +545,14 @@
       "onboard_time": 1748108897,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 52429,
+      "num": 43475,
+      "word": "刘雨欣是我好莱坞唯一的人脉",
+      "onboard_time": 1748113217,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 43546,

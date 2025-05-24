@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/25 00:29:20 ~ 2025/05/25 02:45:32
+本榜单时间：2025/05/25 00:29:20 ~ 2025/05/25 03:19:32
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%99%BA%E8%B4%A4%E5%8C%97%E4%BA%AC%E6%B4%BB%E5%8A%A8%23" target="weibo">
 全智贤北京活动（热度：80368）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%AC%A3%E6%98%AF%E6%88%91%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%94%AF%E4%B8%80%E7%9A%84%E4%BA%BA%E8%84%89%23" target="weibo">
+刘雨欣是我好莱坞唯一的人脉（热度：52429）
 </a>
 </li>
 
