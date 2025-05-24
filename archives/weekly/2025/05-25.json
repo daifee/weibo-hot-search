@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748114372544,
+  "endTime": 1748115410317,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -547,8 +547,8 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 52429,
-      "num": 43475,
+      "raw_hot": 60817,
+      "num": 60817,
       "word": "刘雨欣是我好莱坞唯一的人脉",
       "onboard_time": 1748113217,
       "rank": 21,
@@ -587,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22894,
+      "num": 28788,
+      "word": "涉事店家回应多人吃甜品后上吐下泻",
+      "onboard_time": 1748115196,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21749,
       "num": 129617,
       "word": "十二星座腹黑的一面",
@@ -595,12 +603,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10634,
+      "raw_hot": 13046,
       "num": 354023,
       "word": "海洋经济总量首次突破10万亿元",
       "onboard_time": 1748095287,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9595,
+      "num": 28779,
+      "word": "莱巴金娜打破13个月冠军荒",
+      "onboard_time": 1748115255,
+      "rank": 30,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
