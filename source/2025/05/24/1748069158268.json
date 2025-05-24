@@ -1,0 +1,410 @@
+{
+  "runTime": 1748069158268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 997190,
+        "num": 1159550,
+        "word": "郑恺回应被跑男做局了",
+        "onboard_time": 1748064742,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517875,
+        "num": 517875,
+        "word": "被237万网友严选的新生军训服",
+        "onboard_time": 1748062762,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 47055,
+        "num": 429195,
+        "word": "中国东盟联手放大招",
+        "onboard_time": 1748061502,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 395689,
+        "num": 395689,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352960,
+        "num": 352960,
+        "word": "陈芋汐10米跳台新搭档",
+        "onboard_time": 1748061743,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335932,
+        "num": 335932,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328176,
+        "num": 328176,
+        "word": "别给小孩买性感奶辣衣服了",
+        "onboard_time": 1748067981,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307819,
+        "num": 307819,
+        "word": "看似先婚后爱其实蓄谋已久",
+        "onboard_time": 1748065101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306201,
+        "num": 306201,
+        "word": "雨果成首位获世乒赛奖牌的巴西选手",
+        "onboard_time": 1748059883,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146478,
+        "num": 305988,
+        "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
+        "onboard_time": 1748064322,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 853377,
+        "num": 305330,
+        "word": "蔡依林 彭于晏",
+        "onboard_time": 1748063542,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383367,
+        "num": 304990,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 373747,
+        "num": 304662,
+        "word": "儿子回来了爸爸却走了",
+        "onboard_time": 1748064502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304317,
+        "num": 304317,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265785,
+        "num": 265785,
+        "word": "李艺彤 她不像男人她本身就强大",
+        "onboard_time": 1748066422,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243231,
+        "num": 243231,
+        "word": "白衣教练 JDG清融HERO坦然",
+        "onboard_time": 1748067741,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242657,
+        "num": 242657,
+        "word": "何炅眼眶都红了",
+        "onboard_time": 1748054240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233291,
+        "num": 233291,
+        "word": "高考前得知无法参加高考",
+        "onboard_time": 1748067562,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176601,
+        "num": 231990,
+        "word": "李昀锐王安宇王星越撕拉又嘶哈",
+        "onboard_time": 1748067921,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31271,
+        "num": 219405,
+        "word": "常吃烧烤麻辣烫是否增加患胃癌的风险",
+        "onboard_time": 1748067741,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 874848,
+        "num": 215268,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14844,
+        "num": 208988,
+        "word": "19岁男子入室行凶后淡定点外卖报警",
+        "onboard_time": 1748068881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204461,
+        "num": 204461,
+        "word": "单依纯 猪欲",
+        "onboard_time": 1748054482,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185558,
+        "num": 185558,
+        "word": "一代人有一代人的梦核",
+        "onboard_time": 1748068101,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162731,
+        "num": 162731,
+        "word": "原来杨天真说得这段是折腰",
+        "onboard_time": 1748062822,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148732,
+        "num": 148732,
+        "word": "张继科来杭州教乒乓球了",
+        "onboard_time": 1748066722,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146955,
+        "num": 146955,
+        "word": "郭晋安否认与23岁港姐恋情",
+        "onboard_time": 1748062822,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "赵丽颖在人间 水仙",
+        "onboard_time": 1748054841,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31940,
+        "num": 145147,
+        "word": "超有用的11个生活小技巧",
+        "onboard_time": 1748067741,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26547,
+        "num": 140806,
+        "word": "国产手机厂商为何执着自研芯片",
+        "onboard_time": 1748067382,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23785,
+        "num": 140037,
+        "word": "这才是当今社会所需要的正能量",
+        "onboard_time": 1748069001,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196625,
+        "num": 137451,
+        "word": "单依纯看马嘉祺介绍短片的反应",
+        "onboard_time": 1748060301,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135412,
+        "num": 135412,
+        "word": "知道刘浩存为什么一直叫王安宇老师了",
+        "onboard_time": 1748068941,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134323,
+        "num": 134323,
+        "word": "歌手补位",
+        "onboard_time": 1748044341,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129619,
+        "num": 129619,
+        "word": "郑恺被跑男做局了",
+        "onboard_time": 1748055261,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 128895,
+        "word": "五哈",
+        "onboard_time": 1748063963,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126417,
+        "num": 126417,
+        "word": "点点卸任KSG主教练",
+        "onboard_time": 1748068641,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125861,
+        "num": 125861,
+        "word": "藏海传配角 出彩",
+        "onboard_time": 1748063481,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123597,
+        "num": 123597,
+        "word": "重庆狼队 转会",
+        "onboard_time": 1748068101,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9327,
+        "num": 123081,
+        "word": "搜狐极限探索者大会阵容",
+        "onboard_time": 1748066482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122933,
+        "num": 122933,
+        "word": "绵阳市商务局回应2.5天休假模式",
+        "onboard_time": 1748066422,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116801,
+        "num": 116801,
+        "word": "仙逆动画首部剧场版",
+        "onboard_time": 1748065882,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116493,
+        "num": 116493,
+        "word": "多位捏捏博主患病退圈",
+        "onboard_time": 1748066541,
+        "rank": 42,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 116346,
+        "num": 116346,
+        "word": "有些漂亮饭就光顾着漂亮了",
+        "onboard_time": 1748068881,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115093,
+        "num": 115093,
+        "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+        "onboard_time": 1748056521,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114789,
+        "num": 114789,
+        "word": "敦煌壁画里的女子500岁才结婚",
+        "onboard_time": 1748067801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114261,
+        "num": 114261,
+        "word": "藏海传全员无蠢人主角也只能险胜",
+        "onboard_time": 1748068340,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110282,
+        "num": 110282,
+        "word": "肖战一句话解读藏海传",
+        "onboard_time": 1748050881,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108900,
+        "num": 108900,
+        "word": "倪虹洁戴了19年前祝无双的耳环",
+        "onboard_time": 1748058501,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103003,
+        "num": 103003,
+        "word": "王楚钦冲击男单半决赛",
+        "onboard_time": 1748065761,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}

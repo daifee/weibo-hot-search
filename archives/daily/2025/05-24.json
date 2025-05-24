@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748068374249,
+  "endTime": 1748069158268,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373747,
+      "num": 304662,
+      "word": "儿子回来了爸爸却走了",
+      "onboard_time": 1748064502,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367025,
       "num": 277674,
       "word": "男单四强国乒占两席",
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328176,
+      "num": 328176,
+      "word": "别给小孩买性感奶辣衣服了",
+      "onboard_time": 1748067981,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324028,
       "num": 389811,
       "word": "古茗TOP1申请出战",
@@ -507,8 +523,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 304560,
-      "num": 304560,
+      "raw_hot": 307819,
+      "num": 307819,
       "word": "看似先婚后爱其实蓄谋已久",
       "onboard_time": 1748065101,
       "rank": 46,
@@ -555,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265785,
+      "num": 265785,
+      "word": "李艺彤 她不像男人她本身就强大",
+      "onboard_time": 1748066422,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262516,
       "num": 334204,
       "word": "黄杨钿甜事件三大关键疑点待解",
       "onboard_time": 1748051000,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 258767,
-      "num": 258767,
-      "word": "李艺彤 她不像男人她本身就强大",
-      "onboard_time": 1748066422,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 255187,
@@ -611,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243231,
+      "num": 243231,
+      "word": "白衣教练 JDG清融HERO坦然",
+      "onboard_time": 1748067741,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234953,
       "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
       "onboard_time": 1748043739,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233291,
+      "num": 233291,
+      "word": "高考前得知无法参加高考",
+      "onboard_time": 1748067562,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 228482,
@@ -633,14 +665,6 @@
       "onboard_time": 1748057781,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222382,
-      "num": 222382,
-      "word": "儿子回来了爸爸却走了",
-      "onboard_time": 1748064502,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215192,
@@ -713,14 +737,6 @@
       "onboard_time": 1748059941,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199598,
-      "num": 159445,
-      "word": "高考前得知无法参加高考",
-      "onboard_time": 1748067562,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 199460,
@@ -803,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185558,
+      "num": 185558,
+      "word": "一代人有一代人的梦核",
+      "onboard_time": 1748068101,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185472,
       "num": 351039,
       "word": "于适回应音乐节被喊脱掉",
@@ -817,14 +841,6 @@
       "onboard_time": 1748009072,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180592,
-      "num": 180592,
-      "word": "一代人有一代人的梦核",
-      "onboard_time": 1748068101,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 178927,
@@ -873,6 +889,14 @@
       "onboard_time": 1748060962,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176601,
+      "num": 231990,
+      "word": "李昀锐王安宇王星越撕拉又嘶哈",
+      "onboard_time": 1748067921,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 176481,
@@ -987,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159433,
-      "num": 159433,
-      "word": "白衣教练 JDG清融HERO坦然",
-      "onboard_time": 1748067741,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 159143,
       "num": 159143,
       "word": "单亲母亲因坚持再嫁与成年儿子决裂",
@@ -1044,7 +1060,7 @@
     },
     {
       "raw_hot": 151182,
-      "num": 159608,
+      "num": 305988,
       "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
       "onboard_time": 1748064322,
       "rank": 41,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135412,
+      "num": 135412,
+      "word": "知道刘浩存为什么一直叫王安宇老师了",
+      "onboard_time": 1748068941,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134590,
       "num": 134590,
       "word": "阿云嘎赛后发博",
@@ -1179,28 +1203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130919,
-      "num": 137475,
-      "word": "别给小孩买性感奶辣衣服了",
-      "onboard_time": 1748067981,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130420,
       "num": 130420,
       "word": "教育局回应中学拖欠老师8个月加班费",
       "onboard_time": 1748043201,
       "rank": 21,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 129581,
-      "num": 206909,
-      "word": "李昀锐王安宇王星越撕拉又嘶哈",
-      "onboard_time": 1748067921,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 128931,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1748065281,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126417,
+      "num": 126417,
+      "word": "点点卸任KSG主教练",
+      "onboard_time": 1748068641,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 125949,
@@ -1347,12 +1363,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116801,
+      "num": 116801,
+      "word": "仙逆动画首部剧场版",
+      "onboard_time": 1748065882,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116767,
       "num": 116767,
       "word": "藏海传全员无蠢人主角也只能险胜",
       "onboard_time": 1748068340,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116346,
+      "num": 116346,
+      "word": "有些漂亮饭就光顾着漂亮了",
+      "onboard_time": 1748068881,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 112847,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1748046980,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103003,
+      "num": 103003,
+      "word": "王楚钦冲击男单半决赛",
+      "onboard_time": 1748065761,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102903,
@@ -1892,7 +1932,7 @@
     },
     {
       "raw_hot": 45191,
-      "num": 198876,
+      "num": 219405,
       "word": "常吃烧烤麻辣烫是否增加患胃癌的风险",
       "onboard_time": 1748067741,
       "rank": 19,
@@ -2059,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23785,
+      "num": 140037,
+      "word": "这才是当今社会所需要的正能量",
+      "onboard_time": 1748069001,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23536,
       "num": 28987,
       "word": "云合",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1748063781,
       "rank": 27,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 14844,
+      "num": 208988,
+      "word": "19岁男子入室行凶后淡定点外卖报警",
+      "onboard_time": 1748068881,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14230,
