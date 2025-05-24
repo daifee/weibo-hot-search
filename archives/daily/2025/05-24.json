@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748057260511,
+  "endTime": 1748058686267,
   "band_list": [
     {
       "raw_hot": 2498327,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1180622,
-      "num": 1188899,
+      "raw_hot": 1191309,
+      "num": 1191309,
       "word": "何炅眼眶都红了",
       "onboard_time": 1748054240,
       "rank": 0,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 871711,
-      "num": 379726,
+      "num": 433416,
       "word": "女子旅游病逝回国验尸发现没了心脏",
       "onboard_time": 1748049081,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 766691,
+      "num": 766691,
+      "word": "央视曝光上门免费服务骗局",
+      "onboard_time": 1748053341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 720754,
@@ -123,8 +131,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 632601,
-      "num": 379341,
+      "raw_hot": 646016,
+      "num": 646016,
+      "word": "郑恺被跑男做局了",
+      "onboard_time": 1748055261,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 639516,
+      "num": 422243,
       "word": "单依纯 猪欲",
       "onboard_time": 1748054482,
       "rank": 12,
@@ -144,14 +160,6 @@
       "word": "单依纯再夺第一后发文",
       "onboard_time": 1748046262,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 567589,
-      "num": 567589,
-      "word": "郑恺被跑男做局了",
-      "onboard_time": 1748055261,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512238,
+      "num": 236773,
+      "word": "妻子被发现死在情人车里丈夫发声",
+      "onboard_time": 1748056400,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483368,
       "num": 287832,
       "word": "耳帝评歌手第二期",
@@ -193,6 +209,14 @@
       "onboard_time": 1748008234,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460600,
+      "num": 460600,
+      "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+      "onboard_time": 1748056521,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 458918,
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414188,
+      "num": 414188,
+      "word": "肖战一句话解读藏海传",
+      "onboard_time": 1748050881,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409040,
       "num": 378502,
       "word": "男子给小三转6万妻子连本带息追回",
@@ -275,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 378952,
-      "num": 378952,
-      "word": "肖战一句话解读藏海传",
-      "onboard_time": 1748050881,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 367025,
       "num": 277674,
       "word": "男单四强国乒占两席",
@@ -313,6 +337,22 @@
       "onboard_time": 1748049501,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 334389,
+      "num": 334389,
+      "word": "九门",
+      "onboard_time": 1748053402,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333517,
+      "num": 333517,
+      "word": "赵丽颖在人间 水仙",
+      "onboard_time": 1748054841,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 323440,
@@ -355,22 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 296608,
-      "num": 296608,
-      "word": "赵丽颖在人间 水仙",
-      "onboard_time": 1748054841,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289215,
-      "num": 185941,
-      "word": "妻子被发现死在情人车里丈夫发声",
-      "onboard_time": 1748056400,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288971,
       "num": 182837,
       "word": "阿云嘎秒了",
@@ -387,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277145,
-      "num": 381221,
-      "word": "央视曝光上门免费服务骗局",
-      "onboard_time": 1748053341,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 278883,
+      "num": 228580,
+      "word": "丁太升说林志炫有上一季那英的影子",
+      "onboard_time": 1748058143,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 271065,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256513,
+      "num": 380668,
+      "word": "多哈世乒赛最抽象的事发生了",
+      "onboard_time": 1748056641,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255187,
       "num": 202022,
       "word": "张凌赫济南",
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249454,
+      "num": 249454,
+      "word": "林志炫给歌手留了4个月的档期",
+      "onboard_time": 1748056342,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244600,
       "num": 182565,
       "word": "陈楚生 高音没声",
@@ -449,14 +489,6 @@
       "onboard_time": 1748055862,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242730,
-      "num": 221527,
-      "word": "九门",
-      "onboard_time": 1748053402,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 234953,
@@ -505,14 +537,6 @@
       "onboard_time": 1748044400,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206761,
-      "num": 206761,
-      "word": "新冠刚康复的陈奕迅演唱会上爆咳",
-      "onboard_time": 1748056521,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 202284,
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173010,
+      "num": 173010,
+      "word": "法国选手因跪地庆祝膝盖受伤退赛",
+      "onboard_time": 1748057541,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171934,
       "num": 124452,
       "word": "单依纯回应两场第一",
@@ -635,6 +667,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150934,
+      "num": 150934,
+      "word": "倪虹洁戴了19年前祝无双的耳环",
+      "onboard_time": 1748058501,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147561,
+      "num": 442885,
+      "word": "莫雷加德回应对战王楚钦",
+      "onboard_time": 1748057781,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146638,
       "num": 160798,
       "word": "马嘉祺高音稳的",
@@ -681,6 +729,14 @@
       "onboard_time": 1748015183,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134590,
+      "num": 134590,
+      "word": "阿云嘎赛后发博",
+      "onboard_time": 1748058382,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130420,
@@ -763,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117439,
+      "num": 352542,
+      "word": "男孩离家出走后外卖员父亲车祸去世",
+      "onboard_time": 1748055801,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "宝宝后脑勺磕到桌角头骨深深凹陷",
@@ -777,6 +841,22 @@
       "onboard_time": 1748056941,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113565,
+      "num": 113565,
+      "word": "谈恋爱真的别装",
+      "onboard_time": 1748058621,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "恋与深空",
+      "onboard_time": 1748058321,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 112131,
@@ -803,12 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108786,
-      "num": 352542,
-      "word": "男孩离家出走后外卖员父亲车祸去世",
-      "onboard_time": 1748055801,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 110552,
+      "num": 110552,
+      "word": "白鹿看拔河演我",
+      "onboard_time": 1748057901,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 106276,
@@ -908,7 +988,7 @@
     },
     {
       "raw_hot": 96123,
-      "num": 96123,
+      "num": 450575,
       "word": "3人造谣四川放火案被处罚",
       "onboard_time": 1748053940,
       "rank": 48,
@@ -1019,14 +1099,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 76219,
-      "num": 380668,
-      "word": "多哈世乒赛最抽象的事发生了",
-      "onboard_time": 1748056641,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74766,
       "num": 166450,
       "word": "月薪3万意味着每天能有1000块",
@@ -1105,6 +1177,14 @@
       "onboard_time": 1748033415,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66346,
+      "num": 157152,
+      "word": "黄芪水",
+      "onboard_time": 1748057360,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64789,
@@ -1227,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34321,
+      "num": 180135,
+      "word": "美国大爷谈巴以冲突",
+      "onboard_time": 1748057122,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32763,
       "num": 31339,
       "word": "Grace第二",
@@ -1241,6 +1329,14 @@
       "onboard_time": 1748012726,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29772,
+      "num": 173423,
+      "word": "肺结节无症状为什么还会恶变",
+      "onboard_time": 1748058560,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29501,
@@ -1267,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27902,
-      "num": 147940,
-      "word": "美国大爷谈巴以冲突",
-      "onboard_time": 1748057122,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27573,
       "num": 29013,
       "word": "马嘉祺粉丝 紧张",
@@ -1284,7 +1372,7 @@
     },
     {
       "raw_hot": 26735,
-      "num": 754273,
+      "num": 854971,
       "word": "中国创新成全球经济新机遇",
       "onboard_time": 1748009492,
       "rank": 2,
@@ -1315,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23986,
+      "num": 236942,
+      "word": "西亚卡姆如何撕裂尼克斯防守体系",
+      "onboard_time": 1748057482,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23536,
       "num": 28987,
       "word": "云合",
@@ -1337,6 +1433,22 @@
       "onboard_time": 1748056400,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19768,
+      "num": 113111,
+      "word": "为什么说湿疹和湿气没有必然联系",
+      "onboard_time": 1748057421,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18532,
+      "num": 179032,
+      "word": "朱媛媛诠释了德艺双馨",
+      "onboard_time": 1748058082,
+      "rank": 29,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 17093,
