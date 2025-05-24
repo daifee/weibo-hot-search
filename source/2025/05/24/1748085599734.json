@@ -1,0 +1,410 @@
+{
+  "runTime": 1748085599734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809774,
+        "num": 1809774,
+        "word": "可复美",
+        "onboard_time": 1748080822,
+        "rank": 0,
+        "category": "美妆,民生新闻"
+      },
+      {
+        "raw_hot": 1038392,
+        "num": 1038392,
+        "word": "孙颖莎VS伊藤美诚",
+        "onboard_time": 1748082681,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21328,
+        "num": 993017,
+        "word": "道德模范可学可做可追可及",
+        "onboard_time": 1748061025,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 970633,
+        "num": 970633,
+        "word": "美国封杀哈佛3天前临时甩锅中国",
+        "onboard_time": 1748081782,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 727305,
+        "num": 727305,
+        "word": "范丞丞等34名演员参加税法培训",
+        "onboard_time": 1748082382,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680073,
+        "num": 680073,
+        "word": "王楚钦进决赛",
+        "onboard_time": 1748083342,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576744,
+        "num": 576744,
+        "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
+        "onboard_time": 1748081842,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 528503,
+        "num": 528503,
+        "word": "王楚钦希望和梁靖崑会师决赛",
+        "onboard_time": 1748082621,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402721,
+        "num": 520009,
+        "word": "单依纯把马嘉祺调成啥了",
+        "onboard_time": 1748076982,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322740,
+        "num": 519127,
+        "word": "国乒提前锁定世乒赛女单金牌",
+        "onboard_time": 1748084423,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639270,
+        "num": 519124,
+        "word": "杨采钰的现任",
+        "onboard_time": 1748080942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519094,
+        "num": 519094,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332374,
+        "num": 511904,
+        "word": "李庚希G社镜头",
+        "onboard_time": 1748081122,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284344,
+        "num": 489763,
+        "word": "黄子弘凡 黑马",
+        "onboard_time": 1748082082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53099,
+        "num": 469817,
+        "word": "女子掉下水道获救后守候提醒路人",
+        "onboard_time": 1748084901,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 253950,
+        "num": 460306,
+        "word": "谍报上不封顶",
+        "onboard_time": 1748077521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445197,
+        "num": 445197,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1748075963,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102169,
+        "num": 428140,
+        "word": "五哈把王勉逼成啥样了",
+        "onboard_time": 1748084003,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19699,
+        "num": 416400,
+        "word": "如何有效缓解毕业求职时的迷茫感",
+        "onboard_time": 1748084003,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43800,
+        "num": 415626,
+        "word": "红山动物园辟谣考拉馆需牵手参观",
+        "onboard_time": 1748084541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415614,
+        "num": 415614,
+        "word": "哈佛已离境留学生或无法返美",
+        "onboard_time": 1748075181,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376451,
+        "num": 376451,
+        "word": "叠纸 丑",
+        "onboard_time": 1748084423,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273386,
+        "num": 273386,
+        "word": "孙颖莎11比7伊藤美诚",
+        "onboard_time": 1748082862,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259201,
+        "num": 259201,
+        "word": "10多个省份鼓励实行2.5天休假模式",
+        "onboard_time": 1748075482,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168558,
+        "num": 237835,
+        "word": "王楚钦守住了半区",
+        "onboard_time": 1748084481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233790,
+        "num": 233790,
+        "word": "王曼昱蒯曼vs张本美和木原美悠",
+        "onboard_time": 1748084481,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233226,
+        "num": 233226,
+        "word": "歌手你要这么玩我支持阿云嘎",
+        "onboard_time": 1748084003,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219869,
+        "num": 219869,
+        "word": "郝蕾 不红就是原罪红了什么都对",
+        "onboard_time": 1748077823,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89880,
+        "num": 210462,
+        "word": "谁懂这个酒香喷泉的含金量",
+        "onboard_time": 1748084603,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31374,
+        "num": 207120,
+        "word": "高中生如何缓解压力",
+        "onboard_time": 1748084842,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206840,
+        "num": 206840,
+        "word": "王楚钦赢了之后比了个1",
+        "onboard_time": 1748085323,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174379,
+        "num": 203833,
+        "word": "北上",
+        "onboard_time": 1748082742,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203647,
+        "num": 203647,
+        "word": "孙颖莎进世乒赛女单决赛",
+        "onboard_time": 1748084061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202643,
+        "num": 202643,
+        "word": "厦门车祸奇迹宝宝亲属因赔偿款反目",
+        "onboard_time": 1748077401,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186963,
+        "num": 199477,
+        "word": "褚怀明没死因为暗香残留",
+        "onboard_time": 1748085261,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198805,
+        "num": 198805,
+        "word": "iG对战EDG",
+        "onboard_time": 1748084423,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196487,
+        "num": 196487,
+        "word": "躺久了真的非常消耗气血",
+        "onboard_time": 1748079441,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194259,
+        "num": 194259,
+        "word": "孙颖莎没想到会轻松赢下比赛",
+        "onboard_time": 1748085564,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 168918,
+        "word": "孙颖莎4比0战胜伊藤美诚",
+        "onboard_time": 1748084183,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163875,
+        "num": 163875,
+        "word": "陈天润没有生日周边",
+        "onboard_time": 1748085023,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160470,
+        "num": 160470,
+        "word": "赵丽颖尹昉张一山在人间演同一个人",
+        "onboard_time": 1748084183,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158952,
+        "num": 158952,
+        "word": "易烊千玺怎么能争气成这样",
+        "onboard_time": 1748069421,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156655,
+        "num": 156655,
+        "word": "孙颖莎11比9伊藤美诚",
+        "onboard_time": 1748084481,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1030256,
+        "num": 156514,
+        "word": "特朗普24小时内连砍三刀",
+        "onboard_time": 1748073982,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155226,
+        "num": 155226,
+        "word": "牛冠凯赛前认真模拟莫雷加德",
+        "onboard_time": 1748085202,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153227,
+        "num": 153227,
+        "word": "一株坟头花断了父子情",
+        "onboard_time": 1748084723,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151900,
+        "num": 151900,
+        "word": "胡彦斌给演唱会每一位观众送金子",
+        "onboard_time": 1748075542,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144897,
+        "num": 144897,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140155,
+        "num": 140155,
+        "word": "想坐侯佩岑副驾的人排到了法国",
+        "onboard_time": 1748082981,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129698,
+        "num": 129698,
+        "word": "孙颖莎回应4比0击败伊藤美诚",
+        "onboard_time": 1748085564,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}

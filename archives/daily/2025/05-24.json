@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748083349222,
+  "endTime": 1748085599734,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -33,6 +33,14 @@
       "onboard_time": 1748073982,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1809774,
+      "num": 1809774,
+      "word": "可复美",
+      "onboard_time": 1748080822,
+      "rank": 18,
+      "category": "美妆,民生新闻"
     },
     {
       "raw_hot": 1786154,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1038392,
+      "num": 1038392,
+      "word": "孙颖莎VS伊藤美诚",
+      "onboard_time": 1748082681,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1007402,
       "num": 1161184,
       "word": "郑恺回应被跑男做局了",
@@ -155,16 +171,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 939154,
-      "num": 939154,
-      "word": "可复美",
-      "onboard_time": 1748080822,
-      "rank": 18,
-      "category": "美妆,民生新闻"
+      "raw_hot": 970633,
+      "num": 970633,
+      "word": "美国封杀哈佛3天前临时甩锅中国",
+      "onboard_time": 1748081782,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 915747,
-      "num": 434376,
+      "num": 519094,
       "word": "林依晨孕7月素颜照",
       "onboard_time": 1748074580,
       "rank": 12,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 727305,
+      "num": 727305,
+      "word": "范丞丞等34名演员参加税法培训",
+      "onboard_time": 1748082382,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720754,
       "num": 337159,
       "word": "单依纯当年唯一输掉的比赛",
@@ -249,6 +273,14 @@
       "onboard_time": 1748054482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 680073,
+      "num": 680073,
+      "word": "王楚钦进决赛",
+      "onboard_time": 1748083342,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 677443,
@@ -291,20 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 638152,
-      "num": 409784,
+      "raw_hot": 639270,
+      "num": 519124,
       "word": "杨采钰的现任",
       "onboard_time": 1748080942,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 625964,
-      "num": 625964,
-      "word": "美国封杀哈佛3天前临时甩锅中国",
-      "onboard_time": 1748081782,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 616579,
@@ -345,6 +369,14 @@
       "onboard_time": 1748061743,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 576744,
+      "num": 576744,
+      "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
+      "onboard_time": 1748081842,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 575527,
@@ -401,6 +433,14 @@
       "onboard_time": 1748072002,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528503,
+      "num": 528503,
+      "word": "王楚钦希望和梁靖崑会师决赛",
+      "onboard_time": 1748082621,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 516033,
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 450957,
-      "num": 450957,
+      "num": 460306,
       "word": "谍报上不封顶",
       "onboard_time": 1748077521,
       "rank": 19,
@@ -635,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376451,
+      "num": 376451,
+      "word": "叠纸 丑",
+      "onboard_time": 1748084423,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367025,
       "num": 277674,
       "word": "男单四强国乒占两席",
@@ -699,8 +747,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327151,
-      "num": 357897,
+      "raw_hot": 332374,
+      "num": 511904,
       "word": "李庚希G社镜头",
       "onboard_time": 1748081122,
       "rank": 16,
@@ -719,6 +767,14 @@
       "num": 323440,
       "word": "王楚钦世乒赛晋级四强",
       "onboard_time": 1748013386,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 322740,
+      "num": 519127,
+      "word": "国乒提前锁定世乒赛女单金牌",
+      "onboard_time": 1748084423,
       "rank": 9,
       "category": "体育"
     },
@@ -764,7 +820,7 @@
     },
     {
       "raw_hot": 301652,
-      "num": 301652,
+      "num": 489763,
       "word": "黄子弘凡 黑马",
       "onboard_time": 1748082082,
       "rank": 34,
@@ -785,14 +841,6 @@
       "onboard_time": 1748073801,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 296920,
-      "num": 296920,
-      "word": "王楚钦希望和梁靖崑会师决赛",
-      "onboard_time": 1748082621,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 288971,
@@ -819,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273542,
-      "num": 273542,
-      "word": "孙颖莎VS伊藤美诚",
-      "onboard_time": 1748082681,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272633,
       "num": 298350,
       "word": "德克士直播",
@@ -841,14 +881,6 @@
       "onboard_time": 1748012726,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269792,
-      "num": 269792,
-      "word": "范丞丞等34名演员参加税法培训",
-      "onboard_time": 1748082382,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 269729,
@@ -953,6 +985,22 @@
       "onboard_time": 1748043739,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233790,
+      "num": 233790,
+      "word": "王曼昱蒯曼vs张本美和木原美悠",
+      "onboard_time": 1748084481,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233226,
+      "num": 233226,
+      "word": "歌手你要这么玩我支持阿云嘎",
+      "onboard_time": 1748084003,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 228737,
@@ -1067,12 +1115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206840,
+      "num": 206840,
+      "word": "王楚钦赢了之后比了个1",
+      "onboard_time": 1748085323,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204909,
       "num": 204909,
       "word": "北上",
       "onboard_time": 1748082742,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203647,
+      "num": 203647,
+      "word": "孙颖莎进世乒赛女单决赛",
+      "onboard_time": 1748084061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 202841,
@@ -1115,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198805,
+      "num": 198805,
+      "word": "iG对战EDG",
+      "onboard_time": 1748084423,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198220,
       "num": 198220,
       "word": "女主是女主男主还是女主",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1748015303,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194259,
+      "num": 194259,
+      "word": "孙颖莎没想到会轻松赢下比赛",
+      "onboard_time": 1748085564,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 193028,
@@ -1208,6 +1288,14 @@
       "word": "折腰蛮蛮一劭互通心意局",
       "onboard_time": 1748079202,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186963,
+      "num": 199477,
+      "word": "褚怀明没死因为暗香残留",
+      "onboard_time": 1748085261,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1395,6 +1483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168918,
+      "num": 168918,
+      "word": "孙颖莎4比0战胜伊藤美诚",
+      "onboard_time": 1748084183,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168558,
+      "num": 237835,
+      "word": "王楚钦守住了半区",
+      "onboard_time": 1748084481,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168465,
       "num": 168465,
       "word": "小米回应YU7门把手冬天是否会冻住",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1748058923,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163875,
+      "num": 163875,
+      "word": "陈天润没有生日周边",
+      "onboard_time": 1748085023,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 163441,
@@ -1459,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160470,
+      "num": 160470,
+      "word": "赵丽颖尹昉张一山在人间演同一个人",
+      "onboard_time": 1748084183,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160239,
       "num": 160239,
       "word": "KPL转会期",
@@ -1473,14 +1593,6 @@
       "onboard_time": 1748069541,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159374,
-      "num": 364596,
-      "word": "绞肉机有蛆虫学校又被曝饮用水偏黄",
-      "onboard_time": 1748081842,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 159143,
@@ -1523,12 +1635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156655,
+      "num": 156655,
+      "word": "孙颖莎11比9伊藤美诚",
+      "onboard_time": 1748084481,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155766,
       "num": 155766,
       "word": "内娱再就业男团来新人了",
       "onboard_time": 1748081723,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155226,
+      "num": 155226,
+      "word": "牛冠凯赛前认真模拟莫雷加德",
+      "onboard_time": 1748085202,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 154968,
@@ -1577,6 +1705,14 @@
       "onboard_time": 1748072301,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153227,
+      "num": 153227,
+      "word": "一株坟头花断了父子情",
+      "onboard_time": 1748084723,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152300,
@@ -1747,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "想坐侯佩岑副驾的人排到了法国",
+      "onboard_time": 1748082981,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139267,
       "num": 139267,
       "word": "浙江文旅",
@@ -1827,14 +1971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130994,
-      "num": 130994,
-      "word": "想坐侯佩岑副驾的人排到了法国",
-      "onboard_time": 1748082981,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130420,
       "num": 130420,
       "word": "教育局回应中学拖欠老师8个月加班费",
@@ -1849,6 +1985,14 @@
       "onboard_time": 1748078601,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129698,
+      "num": 129698,
+      "word": "孙颖莎回应4比0击败伊藤美诚",
+      "onboard_time": 1748085564,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128931,
@@ -2227,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102169,
+      "num": 428140,
+      "word": "五哈把王勉逼成啥样了",
+      "onboard_time": 1748084003,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102016,
       "num": 102016,
       "word": "听王珞丹说话简直要被哄成胚胎",
@@ -2353,6 +2505,14 @@
       "onboard_time": 1748078182,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89880,
+      "num": 210462,
+      "word": "谁懂这个酒香喷泉的含金量",
+      "onboard_time": 1748084603,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89748,
@@ -2667,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53099,
+      "num": 469817,
+      "word": "女子掉下水道获救后守候提醒路人",
+      "onboard_time": 1748084901,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 51708,
       "num": 51708,
       "word": "在苏州吃到一种很新的龙虾",
@@ -2787,6 +2955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 43800,
+      "num": 415626,
+      "word": "红山动物园辟谣考拉馆需牵手参观",
+      "onboard_time": 1748084541,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43689,
       "num": 159846,
       "word": "超有用的11个生活小技巧",
@@ -2873,6 +3049,14 @@
       "onboard_time": 1748076142,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31374,
+      "num": 207120,
+      "word": "高中生如何缓解压力",
+      "onboard_time": 1748084842,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 31171,
@@ -3097,6 +3281,14 @@
       "onboard_time": 1748077341,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19699,
+      "num": 416400,
+      "word": "如何有效缓解毕业求职时的迷茫感",
+      "onboard_time": 1748084003,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 19487,
