@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748096509104,
+  "endTime": 1748097589555,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -91,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8048944,
+      "num": 8048944,
+      "word": "王楚钦孙颖莎混双冠军",
+      "onboard_time": 1748094746,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7904904,
       "num": 7904904,
       "word": "歌手直播",
       "onboard_time": 1747999823,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7804065,
-      "num": 7804065,
-      "word": "王楚钦孙颖莎混双冠军",
-      "onboard_time": 1748094746,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 6912060,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1402210,
+      "num": 1402210,
+      "word": "混双颁奖",
+      "onboard_time": 1748096004,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1396113,
       "num": 1396113,
       "word": "正午阳光选角",
@@ -1328,6 +1336,14 @@
       "word": "王楚钦vs饭冢",
       "onboard_time": 1747645464,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1150248,
+      "num": 1150248,
+      "word": "莎头捧起复刻杯",
+      "onboard_time": 1748096366,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -1963,12 +1979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 877643,
+      "num": 877643,
+      "word": "孙颖莎王楚钦举起国旗",
+      "onboard_time": 1748095587,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 876699,
       "num": 759740,
       "word": "平津侯 下线",
       "onboard_time": 1747816522,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 876357,
+      "num": 876357,
+      "word": "休斯顿的风吹过德班吹到了多哈",
+      "onboard_time": 1748097028,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 874910,
@@ -2835,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689035,
+      "num": 342527,
+      "word": "印度一男子性侵马匹被捕",
+      "onboard_time": 1748097086,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 687602,
       "num": 286571,
       "word": "艾米拍照时把项链摘了",
@@ -2947,14 +2987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 665470,
-      "num": 665470,
-      "word": "孙颖莎王楚钦举起国旗",
-      "onboard_time": 1748095587,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664684,
       "num": 315114,
       "word": "朱媛媛丧事办得很简单",
@@ -3052,7 +3084,7 @@
     },
     {
       "raw_hot": 650302,
-      "num": 650302,
+      "num": 672904,
       "word": "藏海这是真引君侯折腰了",
       "onboard_time": 1748089822,
       "rank": 20,
@@ -3683,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571928,
+      "num": 661419,
+      "word": "杨肸子说杨紫在剧组从不拿剧本",
+      "onboard_time": 1748097146,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570627,
       "num": 570627,
       "word": "国台办谈欧阳娜娜被台当局列入查核对象",
@@ -3795,6 +3835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552139,
+      "num": 552139,
+      "word": "莎头采访",
+      "onboard_time": 1747556000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551610,
       "num": 437672,
       "word": "赵丽颖 赵德胤",
@@ -3809,14 +3857,6 @@
       "onboard_time": 1747713624,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 549854,
-      "num": 343092,
-      "word": "莎头捧起复刻杯",
-      "onboard_time": 1748096366,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 549205,
@@ -4235,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501370,
+      "num": 339464,
+      "word": "教师因未发福利讲课3分钟就放电影",
+      "onboard_time": 1748093725,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501138,
       "num": 539293,
       "word": "以军道歉",
@@ -4385,14 +4433,6 @@
       "onboard_time": 1748008111,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 485886,
-      "num": 338347,
-      "word": "教师因未发福利讲课3分钟就放电影",
-      "onboard_time": 1748093725,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483683,
@@ -4979,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420790,
+      "num": 420790,
+      "word": "推特崩了",
+      "onboard_time": 1748092224,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 419797,
       "num": 419797,
       "word": "黄金",
@@ -5025,6 +5073,14 @@
       "onboard_time": 1748044341,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417560,
+      "num": 417560,
+      "word": "易烊千玺名场面诞生",
+      "onboard_time": 1748093663,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 417168,
@@ -5307,14 +5363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397826,
-      "num": 397826,
-      "word": "推特崩了",
-      "onboard_time": 1748092224,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 396607,
       "num": 396607,
       "word": "朱媛媛易烊千玺戏里母子戏外校友",
@@ -5592,14 +5640,6 @@
       "word": "酱园弄分成上下两部上映",
       "onboard_time": 1747727600,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 372550,
-      "num": 372550,
-      "word": "易烊千玺名场面诞生",
-      "onboard_time": 1748093663,
-      "rank": 25,
       "category": "电影"
     },
     {
@@ -5915,6 +5955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351811,
+      "num": 351811,
+      "word": "短剧女演员吐槽影视行业现状",
+      "onboard_time": 1748093603,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351659,
       "num": 351659,
       "word": "刘宇宁感谢开推小伙伴",
@@ -6099,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "JDG清融连接成功",
+      "onboard_time": 1748097028,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 337621,
       "num": 337621,
       "word": "GAI选曲",
@@ -6257,14 +6313,6 @@
       "onboard_time": 1747525221,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 328185,
-      "num": 328185,
-      "word": "莎头采访",
-      "onboard_time": 1747556000,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 327862,
@@ -6427,14 +6475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314259,
-      "num": 314259,
-      "word": "混双颁奖",
-      "onboard_time": 1748096004,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314069,
       "num": 406261,
       "word": "王楚钦孙颖莎3比0梁吉善王艾米",
@@ -6523,20 +6563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311894,
+      "num": 292910,
+      "word": "王楚钦说混双夺冠后先不庆祝",
+      "onboard_time": 1748097446,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311242,
       "num": 311242,
       "word": "迪丽热巴用玫瑰干杯",
       "onboard_time": 1747746982,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311156,
-      "num": 326815,
-      "word": "短剧女演员吐槽影视行业现状",
-      "onboard_time": 1748093603,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 310975,
@@ -6680,6 +6720,14 @@
       "word": "藏海传 盗墓笔记",
       "onboard_time": 1747569621,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302693,
+      "num": 302693,
+      "word": "终于对女娇男欲有了实感",
+      "onboard_time": 1748096427,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -6832,6 +6880,14 @@
       "word": "C罗将离开利雅得胜利",
       "onboard_time": 1747565601,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298900,
+      "num": 298900,
+      "word": "WTT",
+      "onboard_time": 1747909105,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -7545,6 +7601,14 @@
       "onboard_time": 1747556181,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 268747,
+      "num": 349850,
+      "word": "罗一舟回中戏当评委了",
+      "onboard_time": 1748096728,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 268159,
@@ -8507,6 +8571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "李晟绿色吊带裙",
+      "onboard_time": 1748096366,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239254,
       "num": 311419,
       "word": "男子起诉插足儿子婚姻者案尚未开庭",
@@ -8707,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234014,
+      "num": 234014,
+      "word": "陈天润发文",
+      "onboard_time": 1748097206,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233697,
       "num": 233697,
       "word": "人生无常我只能接受",
@@ -8745,14 +8825,6 @@
       "onboard_time": 1747662087,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 232662,
-      "num": 232662,
-      "word": "WTT",
-      "onboard_time": 1747909105,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 232538,
@@ -8843,14 +8915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230378,
-      "num": 230378,
-      "word": "李晟绿色吊带裙",
-      "onboard_time": 1748096366,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230181,
       "num": 230181,
       "word": "月薪3万意味着每天能有1000块",
@@ -8881,6 +8945,14 @@
       "onboard_time": 1747749984,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229614,
+      "num": 229614,
+      "word": "单依纯唱完歌手就来追林忆莲了",
+      "onboard_time": 1748097328,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 229555,
@@ -9593,6 +9665,14 @@
       "onboard_time": 1747928186,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216614,
+      "num": 216614,
+      "word": "肖战张婧仪即兴发挥",
+      "onboard_time": 1748097146,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 216534,
@@ -10475,14 +10555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206085,
-      "num": 206085,
-      "word": "终于对女娇男欲有了实感",
-      "onboard_time": 1748096427,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206042,
       "num": 183422,
       "word": "单依纯唱言不由衷",
@@ -10593,6 +10665,14 @@
       "onboard_time": 1748006847,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204967,
+      "num": 345789,
+      "word": "苹果从榜一到榜三只需一个特朗普",
+      "onboard_time": 1748095348,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204924,
@@ -10969,6 +11049,14 @@
       "onboard_time": 1747650144,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200991,
+      "num": 200991,
+      "word": "Rookie1000场感想长文",
+      "onboard_time": 1748096905,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 200867,
@@ -11819,14 +11907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193256,
-      "num": 345789,
-      "word": "苹果从榜一到榜三只需一个特朗普",
-      "onboard_time": 1748095348,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193220,
       "num": 370886,
       "word": "王曼昱王励勤赛前交流",
@@ -12395,6 +12475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188989,
+      "num": 188989,
+      "word": "北京JDG",
+      "onboard_time": 1748096966,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188962,
       "num": 188962,
       "word": "反复减肥比肥胖本身危害更大",
@@ -12513,6 +12601,14 @@
       "onboard_time": 1747539750,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "张艺兴王俊凯为周杰伦演唱会打call",
+      "onboard_time": 1748097328,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 188355,
@@ -18115,6 +18211,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 135618,
+      "num": 654853,
+      "word": "一起守护渝爱早日康复",
+      "onboard_time": 1748096427,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135593,
       "num": 133743,
       "word": "韩莹太顽强了",
@@ -22195,14 +22299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87372,
-      "num": 315407,
-      "word": "一起守护渝爱早日康复",
-      "onboard_time": 1748096427,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87322,
       "num": 141034,
       "word": "心气是一种非常宝贵的资源",
@@ -23228,7 +23324,7 @@
     },
     {
       "raw_hot": 75480,
-      "num": 335717,
+      "num": 347670,
       "word": "哪些国产手机品牌有机会超越苹果",
       "onboard_time": 1748096248,
       "rank": 23,
@@ -24113,6 +24209,14 @@
       "onboard_time": 1747556841,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64350,
+      "num": 3405997,
+      "word": "每个中国人传唱的精神密码",
+      "onboard_time": 1748095529,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64271,
@@ -26475,14 +26579,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 36214,
-      "num": 3405997,
-      "word": "每个中国人传唱的精神密码",
-      "onboard_time": 1748095529,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36127,
       "num": 162067,
       "word": "厨房六大健康误区",
@@ -27809,6 +27905,14 @@
       "onboard_time": 1747811782,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26676,
+      "num": 292943,
+      "word": "美警察为引暗恋对象关注伪造袭警事故",
+      "onboard_time": 1748097028,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26652,
@@ -30113,6 +30217,14 @@
       "onboard_time": 1747644325,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12662,
+      "num": 292911,
+      "word": "天气炎热该如何安全用电",
+      "onboard_time": 1748097086,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12642,

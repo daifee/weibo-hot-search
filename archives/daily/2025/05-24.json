@@ -1,10 +1,10 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748096509104,
+  "endTime": 1748097589555,
   "band_list": [
     {
-      "raw_hot": 7804065,
-      "num": 7804065,
+      "raw_hot": 8048944,
+      "num": 8048944,
       "word": "王楚钦孙颖莎混双冠军",
       "onboard_time": 1748094746,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1402210,
+      "num": 1402210,
+      "word": "混双颁奖",
+      "onboard_time": 1748096004,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1390229,
       "num": 1390229,
       "word": "特朗普杀疯了",
@@ -145,6 +153,14 @@
       "onboard_time": 1748054240,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150248,
+      "num": 1150248,
+      "word": "莎头捧起复刻杯",
+      "onboard_time": 1748096366,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 1127837,
@@ -225,6 +241,22 @@
       "onboard_time": 1748090423,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 877643,
+      "num": 877643,
+      "word": "孙颖莎王楚钦举起国旗",
+      "onboard_time": 1748095587,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 876357,
+      "num": 876357,
+      "word": "休斯顿的风吹过德班吹到了多哈",
+      "onboard_time": 1748097028,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 875286,
@@ -315,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 689035,
+      "num": 342527,
+      "word": "印度一男子性侵马匹被捕",
+      "onboard_time": 1748097086,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 686854,
       "num": 459741,
       "word": "单依纯 猪欲",
@@ -347,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 665470,
-      "num": 665470,
-      "word": "孙颖莎王楚钦举起国旗",
-      "onboard_time": 1748095587,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 663969,
       "num": 663969,
       "word": "新冠刚康复的陈奕迅演唱会上爆咳",
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 650302,
-      "num": 650302,
+      "num": 672904,
       "word": "藏海这是真引君侯折腰了",
       "onboard_time": 1748089822,
       "rank": 20,
@@ -475,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571928,
+      "num": 661419,
+      "word": "杨肸子说杨紫在剧组从不拿剧本",
+      "onboard_time": 1748097146,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564662,
       "num": 332539,
       "word": "林志炫淘汰",
@@ -491,11 +531,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549854,
-      "num": 343092,
-      "word": "莎头捧起复刻杯",
-      "onboard_time": 1748096366,
-      "rank": 20,
+      "raw_hot": 552139,
+      "num": 552139,
+      "word": "莎头采访",
+      "onboard_time": 1748096606,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -571,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501370,
+      "num": 339464,
+      "word": "教师因未发福利讲课3分钟就放电影",
+      "onboard_time": 1748093725,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496233,
       "num": 496233,
       "word": "特朗普补刀哈佛很多学生不会算2加2",
       "onboard_time": 1748059701,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 485886,
-      "num": 338347,
-      "word": "教师因未发福利讲课3分钟就放电影",
-      "onboard_time": 1748093725,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483368,
@@ -699,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420790,
+      "num": 420790,
+      "word": "推特崩了",
+      "onboard_time": 1748092224,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 419711,
       "num": 419711,
       "word": "哈佛国际禁招令波及比利时公主",
@@ -721,6 +769,14 @@
       "onboard_time": 1748044341,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417560,
+      "num": 417560,
+      "word": "易烊千玺名场面诞生",
+      "onboard_time": 1748093663,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 415019,
@@ -811,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 397826,
-      "num": 397826,
-      "word": "推特崩了",
-      "onboard_time": 1748092224,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 392218,
       "num": 392218,
       "word": "我家腰儿仿佛刚开播的样子",
@@ -841,14 +889,6 @@
       "onboard_time": 1748060301,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372550,
-      "num": 372550,
-      "word": "易烊千玺名场面诞生",
-      "onboard_time": 1748093663,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 370060,
@@ -899,12 +939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351811,
+      "num": 351811,
+      "word": "短剧女演员吐槽影视行业现状",
+      "onboard_time": 1748093603,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344229,
       "num": 297676,
       "word": "王楚钦若夺冠仍无法重返世一",
       "onboard_time": 1748074283,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "JDG清融连接成功",
+      "onboard_time": 1748097028,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 337220,
@@ -971,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314259,
-      "num": 314259,
-      "word": "混双颁奖",
-      "onboard_time": 1748096004,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 313980,
       "num": 370221,
       "word": "高中生与教授父亲共发3篇SCI论文",
@@ -1003,12 +1051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311156,
-      "num": 326815,
-      "word": "短剧女演员吐槽影视行业现状",
-      "onboard_time": 1748093603,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 311894,
+      "num": 292910,
+      "word": "王楚钦说混双夺冠后先不庆祝",
+      "onboard_time": 1748097446,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 310286,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1748065101,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302693,
+      "num": 302693,
+      "word": "终于对女娇男欲有了实感",
+      "onboard_time": 1748096427,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 302164,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1748073801,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 298900,
+      "num": 298900,
+      "word": "WTT",
+      "onboard_time": 1748088503,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 293614,
@@ -1137,6 +1201,14 @@
       "onboard_time": 1748014044,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268747,
+      "num": 349850,
+      "word": "罗一舟回中戏当评委了",
+      "onboard_time": 1748096728,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 265785,
@@ -1259,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "李晟绿色吊带裙",
+      "onboard_time": 1748096366,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234953,
       "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
@@ -1267,20 +1347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232662,
-      "num": 232662,
-      "word": "WTT",
-      "onboard_time": 1748088503,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 234014,
+      "num": 234014,
+      "word": "陈天润发文",
+      "onboard_time": 1748097206,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 230378,
-      "num": 230378,
-      "word": "李晟绿色吊带裙",
-      "onboard_time": 1748096366,
+      "raw_hot": 229614,
+      "num": 229614,
+      "word": "单依纯唱完歌手就来追林忆莲了",
+      "onboard_time": 1748097328,
       "rank": 39,
-      "category": "综艺"
+      "category": "演出"
     },
     {
       "raw_hot": 228737,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1748087721,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216614,
+      "num": 216614,
+      "word": "肖战张婧仪即兴发挥",
+      "onboard_time": 1748097146,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 216305,
@@ -1451,14 +1539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206085,
-      "num": 206085,
-      "word": "终于对女娇男欲有了实感",
-      "onboard_time": 1748096427,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205238,
       "num": 205238,
       "word": "汪顺400米混合泳丝滑夺冠",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1748096307,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204967,
+      "num": 345789,
+      "word": "苹果从榜一到榜三只需一个特朗普",
+      "onboard_time": 1748095348,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204909,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1748013686,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200991,
+      "num": 200991,
+      "word": "Rookie1000场感想长文",
+      "onboard_time": 1748096905,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 200867,
@@ -1611,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193256,
-      "num": 345789,
-      "word": "苹果从榜一到榜三只需一个特朗普",
-      "onboard_time": 1748095348,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193028,
       "num": 188573,
       "word": "藏海传女性十八般武艺",
@@ -1705,6 +1793,22 @@
       "onboard_time": 1748013147,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188989,
+      "num": 188989,
+      "word": "北京JDG",
+      "onboard_time": 1748096966,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "张艺兴王俊凯为周杰伦演唱会打call",
+      "onboard_time": 1748097328,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 188355,
@@ -2499,6 +2603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135618,
+      "num": 654853,
+      "word": "一起守护渝爱早日康复",
+      "onboard_time": 1748096427,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134590,
       "num": 134590,
       "word": "阿云嘎赛后发博",
@@ -3131,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87372,
-      "num": 315407,
-      "word": "一起守护渝爱早日康复",
-      "onboard_time": 1748096427,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86761,
       "num": 1008540,
       "word": "神二十乘组第1次出舱视频来了",
@@ -3276,7 +3380,7 @@
     },
     {
       "raw_hot": 75480,
-      "num": 335717,
+      "num": 347670,
       "word": "哪些国产手机品牌有机会超越苹果",
       "onboard_time": 1748096248,
       "rank": 23,
@@ -3425,6 +3529,14 @@
       "onboard_time": 1748061502,
       "rank": 2,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 64350,
+      "num": 3405997,
+      "word": "每个中国人传唱的精神密码",
+      "onboard_time": 1748095529,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60529,
@@ -3723,14 +3835,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 36214,
-      "num": 3405997,
-      "word": "每个中国人传唱的精神密码",
-      "onboard_time": 1748095529,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34321,
       "num": 180135,
       "word": "美国大爷谈巴以冲突",
@@ -3881,6 +3985,14 @@
       "onboard_time": 1748009492,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26676,
+      "num": 292943,
+      "word": "美警察为引暗恋对象关注伪造袭警事故",
+      "onboard_time": 1748097028,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26157,
@@ -4145,6 +4257,14 @@
       "onboard_time": 1748072180,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12662,
+      "num": 292911,
+      "word": "天气炎热该如何安全用电",
+      "onboard_time": 1748097086,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12526,

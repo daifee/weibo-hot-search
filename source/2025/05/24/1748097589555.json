@@ -1,0 +1,410 @@
+{
+  "runTime": 1748097589555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8048944,
+        "num": 8048944,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1748094746,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3710190,
+        "num": 3710190,
+        "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
+        "onboard_time": 1748090783,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64350,
+        "num": 2233454,
+        "word": "每个中国人传唱的精神密码",
+        "onboard_time": 1748095529,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1402210,
+        "num": 1402210,
+        "word": "混双颁奖",
+        "onboard_time": 1748096004,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1150248,
+        "num": 1150248,
+        "word": "莎头捧起复刻杯",
+        "onboard_time": 1748096366,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877643,
+        "num": 877643,
+        "word": "孙颖莎王楚钦举起国旗",
+        "onboard_time": 1748095587,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876357,
+        "num": 876357,
+        "word": "休斯顿的风吹过德班吹到了多哈",
+        "onboard_time": 1748097028,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 631868,
+        "num": 672904,
+        "word": "藏海这是真引君侯折腰了",
+        "onboard_time": 1748089822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571928,
+        "num": 661419,
+        "word": "杨肸子说杨紫在剧组从不拿剧本",
+        "onboard_time": 1748097146,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135618,
+        "num": 654853,
+        "word": "一起守护渝爱早日康复",
+        "onboard_time": 1748096427,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650676,
+        "num": 650676,
+        "word": "古茗两块五柠檬水",
+        "onboard_time": 1748087480,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552139,
+        "num": 552139,
+        "word": "莎头采访",
+        "onboard_time": 1748096606,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460030,
+        "num": 460030,
+        "word": "林俊杰王俊凯帮周杰伦庆生",
+        "onboard_time": 1748089882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433765,
+        "num": 433765,
+        "word": "董明珠说孟羽童被开除失去最好机会",
+        "onboard_time": 1748090423,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420790,
+        "num": 420790,
+        "word": "推特崩了",
+        "onboard_time": 1748092224,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417560,
+        "num": 417560,
+        "word": "易烊千玺名场面诞生",
+        "onboard_time": 1748093663,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414861,
+        "num": 414861,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351811,
+        "num": 351811,
+        "word": "短剧女演员吐槽影视行业现状",
+        "onboard_time": 1748093603,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268747,
+        "num": 349850,
+        "word": "罗一舟回中戏当评委了",
+        "onboard_time": 1748096728,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56333,
+        "num": 347670,
+        "word": "哪些国产手机品牌有机会超越苹果",
+        "onboard_time": 1748096248,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 689035,
+        "num": 342527,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 501370,
+        "num": 339464,
+        "word": "教师因未发福利讲课3分钟就放电影",
+        "onboard_time": 1748093725,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338035,
+        "num": 338035,
+        "word": "JDG清融连接成功",
+        "onboard_time": 1748097028,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325598,
+        "num": 325598,
+        "word": "北上郝蕾",
+        "onboard_time": 1748093845,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311560,
+        "num": 311560,
+        "word": "高中生与教授父亲共发3篇SCI论文",
+        "onboard_time": 1748095167,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 302693,
+        "num": 302693,
+        "word": "终于对女娇男欲有了实感",
+        "onboard_time": 1748096427,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298900,
+        "num": 298900,
+        "word": "WTT",
+        "onboard_time": 1748088503,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293587,
+        "num": 293587,
+        "word": "藏海传优酷热度破10300",
+        "onboard_time": 1748093845,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26676,
+        "num": 292943,
+        "word": "美警察为引暗恋对象关注伪造袭警事故",
+        "onboard_time": 1748097028,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12662,
+        "num": 292911,
+        "word": "天气炎热该如何安全用电",
+        "onboard_time": 1748097086,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311894,
+        "num": 292910,
+        "word": "王楚钦说混双夺冠后先不庆祝",
+        "onboard_time": 1748097446,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292909,
+        "num": 292909,
+        "word": "重庆动物园",
+        "onboard_time": 1748090301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284993,
+        "num": 284993,
+        "word": "银行职员被前女友韩剧式诈骗197万",
+        "onboard_time": 1748092103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256672,
+        "num": 256672,
+        "word": "余姚通报一学校食堂绞肉机发现活蛆",
+        "onboard_time": 1748094626,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 255114,
+        "num": 255114,
+        "word": "歌手你要这么玩我支持阿云嘎",
+        "onboard_time": 1748084003,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249830,
+        "num": 249830,
+        "word": "清融转会",
+        "onboard_time": 1748088982,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239440,
+        "num": 239440,
+        "word": "李晟绿色吊带裙",
+        "onboard_time": 1748096366,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236661,
+        "num": 236661,
+        "word": "偶遇秦昊伊能静看房",
+        "onboard_time": 1748092824,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234014,
+        "num": 234014,
+        "word": "陈天润发文",
+        "onboard_time": 1748097206,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229614,
+        "num": 229614,
+        "word": "单依纯唱完歌手就来追林忆莲了",
+        "onboard_time": 1748097328,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228756,
+        "num": 228756,
+        "word": "王楚钦进决赛",
+        "onboard_time": 1748083342,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224645,
+        "num": 224645,
+        "word": "我家腰儿仿佛刚开播的样子",
+        "onboard_time": 1748088562,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216614,
+        "num": 216614,
+        "word": "肖战张婧仪即兴发挥",
+        "onboard_time": 1748097146,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204967,
+        "num": 204967,
+        "word": "苹果从榜一到榜三只需一个特朗普",
+        "onboard_time": 1748095348,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200991,
+        "num": 200991,
+        "word": "Rookie1000场感想长文",
+        "onboard_time": 1748096905,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188989,
+        "num": 188989,
+        "word": "北京JDG",
+        "onboard_time": 1748096966,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188380,
+        "num": 188380,
+        "word": "张艺兴王俊凯为周杰伦演唱会打call",
+        "onboard_time": 1748097328,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183112,
+        "num": 183112,
+        "word": "范丞丞等34名演员参加税法培训",
+        "onboard_time": 1748082382,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180458,
+        "num": 180458,
+        "word": "多哈世乒赛直播",
+        "onboard_time": 1748096307,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180375,
+        "num": 180375,
+        "word": "平津侯藏海CP",
+        "onboard_time": 1748091263,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}

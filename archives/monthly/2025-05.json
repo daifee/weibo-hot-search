@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748096509104,
+  "endTime": 1748097589555,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8048944,
+      "num": 8048944,
+      "word": "王楚钦孙颖莎混双冠军",
+      "onboard_time": 1748094746,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7904904,
       "num": 7904904,
       "word": "歌手直播",
       "onboard_time": 1746573860,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7804065,
-      "num": 7804065,
-      "word": "王楚钦孙颖莎混双冠军",
-      "onboard_time": 1748094746,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 7112313,
@@ -2419,6 +2419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1402210,
+      "num": 1402210,
+      "word": "混双颁奖",
+      "onboard_time": 1748096004,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1400651,
       "num": 1400651,
       "word": "侯佩岑陈乔恩被台当局威胁查处",
@@ -3705,6 +3713,14 @@
       "onboard_time": 1746419363,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150248,
+      "num": 1150248,
+      "word": "莎头捧起复刻杯",
+      "onboard_time": 1748096366,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 1147823,
@@ -5787,12 +5803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 877643,
+      "num": 877643,
+      "word": "孙颖莎王楚钦举起国旗",
+      "onboard_time": 1748095587,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 876699,
       "num": 759740,
       "word": "平津侯 下线",
       "onboard_time": 1747816522,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 876357,
+      "num": 876357,
+      "word": "休斯顿的风吹过德班吹到了多哈",
+      "onboard_time": 1748097028,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 876009,
@@ -8371,6 +8403,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 689035,
+      "num": 342527,
+      "word": "印度一男子性侵马匹被捕",
+      "onboard_time": 1748097086,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 688631,
       "num": 688631,
       "word": "4集演出了别人40集的进度",
@@ -8707,14 +8747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 665470,
-      "num": 665470,
-      "word": "孙颖莎王楚钦举起国旗",
-      "onboard_time": 1748095587,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664855,
       "num": 664855,
       "word": "泰山陪爬小伙2天挣了近2000元",
@@ -8980,7 +9012,7 @@
     },
     {
       "raw_hot": 650302,
-      "num": 650302,
+      "num": 672904,
       "word": "藏海这是真引君侯折腰了",
       "onboard_time": 1748089822,
       "rank": 20,
@@ -10915,6 +10947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 571928,
+      "num": 661419,
+      "word": "杨肸子说杨紫在剧组从不拿剧本",
+      "onboard_time": 1748097146,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571635,
       "num": 385497,
       "word": "韩安冉让女儿退网",
@@ -11259,6 +11299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552139,
+      "num": 552139,
+      "word": "莎头采访",
+      "onboard_time": 1747556000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552109,
       "num": 298600,
       "word": "他甚至用裤子擦了一下抓错人的手",
@@ -11313,14 +11361,6 @@
       "onboard_time": 1747713624,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 549854,
-      "num": 343092,
-      "word": "莎头捧起复刻杯",
-      "onboard_time": 1748096366,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 549471,
@@ -12587,6 +12627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501370,
+      "num": 339464,
+      "word": "教师因未发福利讲课3分钟就放电影",
+      "onboard_time": 1748093725,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501138,
       "num": 539293,
       "word": "以军道歉",
@@ -13057,14 +13105,6 @@
       "onboard_time": 1746439341,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 485886,
-      "num": 338347,
-      "word": "教师因未发福利讲课3分钟就放电影",
-      "onboard_time": 1748093725,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 485772,
@@ -15331,6 +15371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 420790,
+      "num": 420790,
+      "word": "推特崩了",
+      "onboard_time": 1748092224,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 420732,
       "num": 420732,
       "word": "李秀满加场smtown",
@@ -15481,6 +15529,14 @@
       "onboard_time": 1746850591,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417560,
+      "num": 417560,
+      "word": "易烊千玺名场面诞生",
+      "onboard_time": 1748093663,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 417273,
@@ -16201,14 +16257,6 @@
       "onboard_time": 1747115121,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 397826,
-      "num": 397826,
-      "word": "推特崩了",
-      "onboard_time": 1748092224,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 397588,
@@ -17283,14 +17331,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 372550,
-      "num": 372550,
-      "word": "易烊千玺名场面诞生",
-      "onboard_time": 1748093663,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 371846,
       "num": 371846,
       "word": "陈昊宇 奈雪",
@@ -18219,6 +18259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 351811,
+      "num": 351811,
+      "word": "短剧女演员吐槽影视行业现状",
+      "onboard_time": 1748093603,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351659,
       "num": 351659,
       "word": "刘宇宁感谢开推小伙伴",
@@ -18939,6 +18987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "JDG清融连接成功",
+      "onboard_time": 1748097028,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338014,
       "num": 338014,
       "word": "73岁普京每天健身1.5小时",
@@ -19448,14 +19504,6 @@
       "word": "国米4比3巴萨",
       "onboard_time": 1746570376,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 328185,
-      "num": 328185,
-      "word": "莎头采访",
-      "onboard_time": 1747556000,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -20091,14 +20139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314259,
-      "num": 314259,
-      "word": "混双颁奖",
-      "onboard_time": 1748096004,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 314069,
       "num": 406261,
       "word": "王楚钦孙颖莎3比0梁吉善王艾米",
@@ -20275,6 +20315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311894,
+      "num": 292910,
+      "word": "王楚钦说混双夺冠后先不庆祝",
+      "onboard_time": 1748097446,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311883,
       "num": 294093,
       "word": "原来这就是冷泡茶",
@@ -20321,14 +20369,6 @@
       "onboard_time": 1747746982,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311156,
-      "num": 326815,
-      "word": "短剧女演员吐槽影视行业现状",
-      "onboard_time": 1748093603,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 310975,
@@ -20915,6 +20955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302693,
+      "num": 302693,
+      "word": "终于对女娇男欲有了实感",
+      "onboard_time": 1748096427,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302661,
       "num": 278814,
       "word": "妈妈听到陈梦无麻药穿刺火疖子反应",
@@ -21289,6 +21337,14 @@
       "onboard_time": 1747276521,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298900,
+      "num": 298900,
+      "word": "WTT",
+      "onboard_time": 1747909105,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 298881,
@@ -23441,6 +23497,14 @@
       "onboard_time": 1746084260,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268747,
+      "num": 349850,
+      "word": "罗一舟回中戏当评委了",
+      "onboard_time": 1748096728,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 268633,
@@ -26563,6 +26627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "李晟绿色吊带裙",
+      "onboard_time": 1748096366,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239356,
       "num": 430476,
       "word": "金饰克价跌至987元",
@@ -27035,6 +27107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234014,
+      "num": 234014,
+      "word": "陈天润发文",
+      "onboard_time": 1748097206,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234012,
       "num": 234012,
       "word": "重庆大学回应本科生发14篇SCI论文",
@@ -27169,14 +27249,6 @@
       "onboard_time": 1746620061,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232662,
-      "num": 232662,
-      "word": "WTT",
-      "onboard_time": 1747909105,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 232602,
@@ -27419,14 +27491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230378,
-      "num": 230378,
-      "word": "李晟绿色吊带裙",
-      "onboard_time": 1748096366,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230308,
       "num": 230308,
       "word": "金靖女明星和张凌赫保镖",
@@ -27489,6 +27553,14 @@
       "onboard_time": 1747749984,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229614,
+      "num": 229614,
+      "word": "单依纯唱完歌手就来追林忆莲了",
+      "onboard_time": 1748097328,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 229555,
@@ -29505,6 +29577,14 @@
       "onboard_time": 1746532521,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216614,
+      "num": 216614,
+      "word": "肖战张婧仪即兴发挥",
+      "onboard_time": 1748097146,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 216598,
@@ -31883,14 +31963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206085,
-      "num": 206085,
-      "word": "终于对女娇男欲有了实感",
-      "onboard_time": 1748096427,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206074,
       "num": 183389,
       "word": "原来折腰里的刘琰是伯邑考",
@@ -32256,6 +32328,14 @@
       "word": "阵风",
       "onboard_time": 1746848131,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 204967,
+      "num": 345789,
+      "word": "苹果从榜一到榜三只需一个特朗普",
+      "onboard_time": 1748095348,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -33385,6 +33465,14 @@
       "onboard_time": 1746681503,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200991,
+      "num": 200991,
+      "word": "Rookie1000场感想长文",
+      "onboard_time": 1748096905,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 200977,
@@ -36123,14 +36211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 193256,
-      "num": 345789,
-      "word": "苹果从榜一到榜三只需一个特朗普",
-      "onboard_time": 1748095348,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193248,
       "num": 388075,
       "word": "巴菲特称情绪稳定比高智商更重要",
@@ -37811,6 +37891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188989,
+      "num": 188989,
+      "word": "北京JDG",
+      "onboard_time": 1748096966,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188976,
       "num": 188976,
       "word": "生在这家背辈分不亚于高考",
@@ -38033,6 +38121,14 @@
       "onboard_time": 1747539750,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "张艺兴王俊凯为周杰伦演唱会打call",
+      "onboard_time": 1748097328,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 188366,
@@ -56603,6 +56699,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 135618,
+      "num": 654853,
+      "word": "一起守护渝爱早日康复",
+      "onboard_time": 1748096427,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135593,
       "num": 133743,
       "word": "韩莹太顽强了",
@@ -71555,14 +71659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87372,
-      "num": 315407,
-      "word": "一起守护渝爱早日康复",
-      "onboard_time": 1748096427,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87359,
       "num": 123175,
       "word": "外贸企业说世界之大不只有美国",
@@ -74300,7 +74396,7 @@
     },
     {
       "raw_hot": 75480,
-      "num": 335717,
+      "num": 347670,
       "word": "哪些国产手机品牌有机会超越苹果",
       "onboard_time": 1748096248,
       "rank": 23,
@@ -76609,6 +76705,14 @@
       "onboard_time": 1747556841,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64350,
+      "num": 3405997,
+      "word": "每个中国人传唱的精神密码",
+      "onboard_time": 1748095529,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64309,
@@ -83867,14 +83971,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 36214,
-      "num": 3405997,
-      "word": "每个中国人传唱的精神密码",
-      "onboard_time": 1748095529,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36127,
       "num": 162067,
       "word": "厨房六大健康误区",
@@ -87257,6 +87353,14 @@
       "onboard_time": 1747165995,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26676,
+      "num": 292943,
+      "word": "美警察为引暗恋对象关注伪造袭警事故",
+      "onboard_time": 1748097028,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26652,
@@ -93297,6 +93401,14 @@
       "onboard_time": 1747134081,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12662,
+      "num": 292911,
+      "word": "天气炎热该如何安全用电",
+      "onboard_time": 1748097086,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12653,
