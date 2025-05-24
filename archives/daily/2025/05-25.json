@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748108349448,
+  "endTime": 1748111534881,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 314669,
+      "num": 314669,
+      "word": "莫德里奇",
+      "onboard_time": 1748107698,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301703,
       "num": 301703,
       "word": "短剧女演员吐槽影视行业现状",
@@ -209,14 +217,6 @@
       "onboard_time": 1748097626,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 205533,
-      "num": 205533,
-      "word": "莫德里奇",
-      "onboard_time": 1748107698,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 193907,
@@ -291,11 +291,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169824,
+      "num": 169824,
+      "word": "狂野时代戛纳电影节特别奖",
+      "onboard_time": 1748108477,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165283,
       "num": 165283,
       "word": "易烊千玺名场面诞生",
       "onboard_time": 1748093663,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157812,
+      "num": 157211,
+      "word": "2025戛纳电影节获奖名单",
+      "onboard_time": 1748109917,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113737,
+      "num": 274813,
+      "word": "外国记者被中国手机种草了",
+      "onboard_time": 1748107399,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 111877,
       "num": 111877,
       "word": "王楚钦孙颖莎世乒赛三连冠",
@@ -515,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63872,
-      "num": 274813,
-      "word": "外国记者被中国手机种草了",
-      "onboard_time": 1748107399,
-      "rank": 9,
-      "category": "民生新闻,国内时政"
+      "raw_hot": 71717,
+      "num": 71717,
+      "word": "全智贤北京活动",
+      "onboard_time": 1748108897,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 43546,
@@ -545,6 +569,14 @@
       "onboard_time": 1748103681,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9365,
+      "num": 354023,
+      "word": "海洋经济总量首次突破10万亿元",
+      "onboard_time": 1748095287,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
