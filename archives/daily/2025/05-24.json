@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748076191880,
+  "endTime": 1748078656454,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2218962,
+      "num": 2218962,
+      "word": "特朗普24小时内连砍三刀",
+      "onboard_time": 1748073982,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1770740,
       "num": 1770740,
       "word": "别给小孩买性感奶辣衣服了",
       "onboard_time": 1748067981,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1478068,
-      "num": 1478068,
-      "word": "特朗普24小时内连砍三刀",
-      "onboard_time": 1748073982,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1463962,
@@ -56,6 +56,14 @@
       "word": "特朗普杀疯了",
       "onboard_time": 1748072422,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1387061,
+      "num": 1387061,
+      "word": "哈佛已离境留学生或无法返美",
+      "onboard_time": 1748075181,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1748054240,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1176468,
+      "num": 1176468,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1748075963,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1127837,
@@ -147,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 886542,
+      "num": 434376,
+      "word": "林依晨孕7月素颜照",
+      "onboard_time": 1748074580,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875286,
       "num": 343705,
       "word": "马嘉祺做得好",
@@ -161,14 +185,6 @@
       "onboard_time": 1748049081,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 844466,
-      "num": 379757,
-      "word": "林依晨孕7月素颜照",
-      "onboard_time": 1748074580,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 772479,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482903,
+      "num": 482903,
+      "word": "女网红想变韩女全脸整容对标张元英",
+      "onboard_time": 1748073323,
+      "rank": 6,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 473788,
       "num": 183330,
       "word": "单依纯 如听仙乐耳暂明",
@@ -371,12 +395,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462426,
-      "num": 462426,
-      "word": "女网红想变韩女全脸整容对标张元英",
-      "onboard_time": 1748073323,
+      "raw_hot": 470794,
+      "num": 470794,
+      "word": "单依纯把马嘉祺调成啥了",
+      "onboard_time": 1748076982,
       "rank": 6,
-      "category": "艺人,美妆"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 467302,
+      "num": 467302,
+      "word": "10多个省份鼓励实行2.5天休假模式",
+      "onboard_time": 1748075482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458918,
@@ -401,6 +433,22 @@
       "onboard_time": 1748058143,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439675,
+      "num": 439675,
+      "word": "胡彦斌给演唱会每一位观众送金子",
+      "onboard_time": 1748075542,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 434135,
+      "num": 434135,
+      "word": "人在icu被写欠条真正借款人找到了",
+      "onboard_time": 1748072602,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424690,
@@ -449,14 +497,6 @@
       "onboard_time": 1748050881,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413137,
-      "num": 413137,
-      "word": "人在icu被写欠条真正借款人找到了",
-      "onboard_time": 1748072602,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409040,
@@ -635,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303384,
-      "num": 349512,
-      "word": "哈佛已离境留学生或无法返美",
-      "onboard_time": 1748075181,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 300744,
       "num": 260054,
       "word": "离婚四年前妻教孩子发视频骂爸爸",
@@ -657,6 +689,14 @@
       "onboard_time": 1748073801,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297547,
+      "num": 343543,
+      "word": "厦门车祸奇迹宝宝亲属因赔偿款反目",
+      "onboard_time": 1748077401,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288971,
@@ -699,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269272,
+      "num": 269272,
+      "word": "谍报上不封顶",
+      "onboard_time": 1748077521,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265785,
       "num": 265785,
       "word": "李艺彤 她不像男人她本身就强大",
@@ -721,6 +769,14 @@
       "onboard_time": 1748016563,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250845,
+      "num": 250845,
+      "word": "折腰直播",
+      "onboard_time": 1748077941,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 250125,
@@ -779,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228737,
+      "num": 228737,
+      "word": "陈德容逆袭",
+      "onboard_time": 1748076502,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228482,
       "num": 182494,
       "word": "歌手直播",
@@ -801,14 +865,6 @@
       "onboard_time": 1748057781,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219477,
-      "num": 303683,
-      "word": "胡彦斌给演唱会每一位观众送金子",
-      "onboard_time": 1748075542,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 215192,
@@ -840,6 +896,14 @@
       "word": "绵阳市商务局回应2.5天休假模式",
       "onboard_time": 1748066422,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210314,
+      "num": 210314,
+      "word": "1人带94个玩偶入境被查",
+      "onboard_time": 1748076322,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179764,
+      "num": 242778,
+      "word": "尹浩宇签约天娱了",
+      "onboard_time": 1748077642,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178927,
       "num": 178927,
       "word": "藏海传配角 出彩",
@@ -1131,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171850,
+      "num": 171850,
+      "word": "何浩楠打野猪翻了五座山",
+      "onboard_time": 1748077882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170246,
       "num": 170246,
       "word": "孙颖莎眼含泪光感谢球迷",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1748061441,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165548,
+      "num": 165548,
+      "word": "藏海传女性十八般武艺",
+      "onboard_time": 1748078302,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165111,
@@ -1203,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161005,
-      "num": 161005,
-      "word": "王楚钦vs莫雷加德",
-      "onboard_time": 1748075963,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160239,
       "num": 160239,
       "word": "KPL转会期",
@@ -1249,6 +1329,22 @@
       "onboard_time": 1748017522,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154968,
+      "num": 154968,
+      "word": "野狗骨头",
+      "onboard_time": 1748077223,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "鹿晗巡演",
+      "onboard_time": 1748077282,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 154273,
@@ -1299,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150825,
+      "num": 273532,
+      "word": "郝蕾 不红就是原罪红了什么都对",
+      "onboard_time": 1748077823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150645,
       "num": 195522,
       "word": "多位捏捏博主患病退圈",
@@ -1323,12 +1427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149533,
-      "num": 316292,
-      "word": "10多个省份鼓励实行2.5天休假模式",
-      "onboard_time": 1748075482,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 149648,
+      "num": 149648,
+      "word": "木星要进巨蟹了",
+      "onboard_time": 1748074762,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 149294,
@@ -1345,14 +1449,6 @@
       "onboard_time": 1748067022,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148060,
-      "num": 148060,
-      "word": "木星要进巨蟹了",
-      "onboard_time": 1748074762,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 147933,
@@ -1395,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142599,
+      "num": 287458,
+      "word": "雨果锁定第一枚世乒赛奖牌",
+      "onboard_time": 1748075662,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141808,
       "num": 166759,
       "word": "刘宇宁眼神爱时蜜醋时刀",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1748071882,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 138252,
+      "num": 138252,
+      "word": "原来古人是这么净化空气的",
+      "onboard_time": 1748078003,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 137729,
@@ -1475,6 +1587,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 130320,
+      "num": 130320,
+      "word": "耳帝认证白举纲不是大白嗓",
+      "onboard_time": 1748078601,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128931,
       "num": 111214,
       "word": "胡海泉回应歌手争议",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1748068101,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128164,
+      "num": 245107,
+      "word": "王楚钦半决赛训练热身",
+      "onboard_time": 1748077462,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 126878,
@@ -1561,14 +1689,6 @@
       "onboard_time": 1748062041,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124128,
-      "num": 287458,
-      "word": "雨果锁定第一枚世乒赛奖牌",
-      "onboard_time": 1748075662,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 121656,
@@ -1819,6 +1939,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 103234,
+      "num": 122603,
+      "word": "麦当劳电动童车",
+      "onboard_time": 1748078422,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103003,
       "num": 103003,
       "word": "王楚钦冲击男单半决赛",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1748064022,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90577,
+      "num": 243259,
+      "word": "当代人择偶最看重的是什么",
+      "onboard_time": 1748078182,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 89748,
@@ -2179,6 +2315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66065,
+      "num": 434730,
+      "word": "广西龙胜山洪已有4人遇难",
+      "onboard_time": 1748077521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64789,
       "num": 166529,
       "word": "林诗栋无缘男单四强",
@@ -2388,7 +2532,7 @@
     },
     {
       "raw_hot": 36602,
-      "num": 963463,
+      "num": 1178277,
       "word": "道德模范可学可做可追可及",
       "onboard_time": 1748061025,
       "rank": 34,
@@ -2419,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31654,
+      "num": 203447,
+      "word": "奶辣风童装有什么风险",
+      "onboard_time": 1748076142,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31171,
       "num": 182095,
       "word": "美债大涨",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1748067382,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 30445,
+      "num": 136956,
+      "word": "错判案当事人要求法院道歉赔偿",
+      "onboard_time": 1748077583,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30415,
@@ -2547,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23553,
+      "num": 210609,
+      "word": "情绪不对容易扭曲别人意思",
+      "onboard_time": 1748077341,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23536,
       "num": 28987,
       "word": "云合",
@@ -2627,14 +2795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18756,
-      "num": 203447,
-      "word": "奶辣风童装有什么风险",
-      "onboard_time": 1748076142,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18600,
       "num": 335800,
       "word": "新一代中国科技中坚力量迅速崛起",
@@ -2673,6 +2833,14 @@
       "onboard_time": 1748064441,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15933,
+      "num": 211917,
+      "word": "东印度公司是如何成长起来的",
+      "onboard_time": 1748077341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15821,

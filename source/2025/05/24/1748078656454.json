@@ -1,0 +1,410 @@
+{
+  "runTime": 1748078656454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2218962,
+        "num": 2218962,
+        "word": "特朗普24小时内连砍三刀",
+        "onboard_time": 1748073982,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1387061,
+        "num": 1387061,
+        "word": "哈佛已离境留学生或无法返美",
+        "onboard_time": 1748075181,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28067,
+        "num": 1178277,
+        "word": "道德模范可学可做可追可及",
+        "onboard_time": 1748061025,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1176468,
+        "num": 1176468,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1748075963,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 730791,
+        "num": 730791,
+        "word": "别给小孩买性感奶辣衣服了",
+        "onboard_time": 1748067981,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 482903,
+        "num": 482903,
+        "word": "女网红想变韩女全脸整容对标张元英",
+        "onboard_time": 1748073323,
+        "rank": 5,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 470794,
+        "num": 470794,
+        "word": "单依纯把马嘉祺调成啥了",
+        "onboard_time": 1748076982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467302,
+        "num": 467302,
+        "word": "10多个省份鼓励实行2.5天休假模式",
+        "onboard_time": 1748075482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439675,
+        "num": 439675,
+        "word": "胡彦斌给演唱会每一位观众送金子",
+        "onboard_time": 1748075542,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 434730,
+        "word": "广西龙胜山洪已有4人遇难",
+        "onboard_time": 1748077521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1104820,
+        "num": 434490,
+        "word": "特朗普杀疯了",
+        "onboard_time": 1748072422,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 886542,
+        "num": 434376,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434135,
+        "num": 434135,
+        "word": "人在icu被写欠条真正借款人找到了",
+        "onboard_time": 1748072602,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347467,
+        "num": 347467,
+        "word": "永辉超市八点半打折",
+        "onboard_time": 1748072002,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297547,
+        "num": 343543,
+        "word": "厦门车祸奇迹宝宝亲属因赔偿款反目",
+        "onboard_time": 1748077401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340371,
+        "num": 340371,
+        "word": "尚公主",
+        "onboard_time": 1748074521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314289,
+        "num": 314289,
+        "word": "邓超回应与迪丽热巴粉丝合影",
+        "onboard_time": 1748071761,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299617,
+        "num": 299617,
+        "word": "易烊千玺怎么能争气成这样",
+        "onboard_time": 1748069421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150825,
+        "num": 273532,
+        "word": "郝蕾 不红就是原罪红了什么都对",
+        "onboard_time": 1748077823,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269272,
+        "num": 269272,
+        "word": "谍报上不封顶",
+        "onboard_time": 1748077521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280536,
+        "num": 264967,
+        "word": "王楚钦若夺冠仍无法重返世一",
+        "onboard_time": 1748074283,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250845,
+        "num": 250845,
+        "word": "折腰直播",
+        "onboard_time": 1748077941,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 245107,
+        "word": "王楚钦半决赛训练热身",
+        "onboard_time": 1748077462,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90577,
+        "num": 243259,
+        "word": "当代人择偶最看重的是什么",
+        "onboard_time": 1748078182,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179764,
+        "num": 242778,
+        "word": "尹浩宇签约天娱了",
+        "onboard_time": 1748077642,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242587,
+        "num": 242587,
+        "word": "郑恺回应被跑男做局了",
+        "onboard_time": 1748064742,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228737,
+        "num": 228737,
+        "word": "陈德容逆袭",
+        "onboard_time": 1748076502,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23583,
+        "num": 213954,
+        "word": "这才是当今社会所需要的正能量",
+        "onboard_time": 1748069001,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15933,
+        "num": 211917,
+        "word": "东印度公司是如何成长起来的",
+        "onboard_time": 1748077341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23553,
+        "num": 210609,
+        "word": "情绪不对容易扭曲别人意思",
+        "onboard_time": 1748077341,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210314,
+        "num": 210314,
+        "word": "1人带94个玩偶入境被查",
+        "onboard_time": 1748076322,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31654,
+        "num": 183602,
+        "word": "奶辣风童装有什么风险",
+        "onboard_time": 1748076142,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176830,
+        "num": 176830,
+        "word": "蔡依林 彭于晏",
+        "onboard_time": 1748063542,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174407,
+        "num": 174407,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171850,
+        "num": 171850,
+        "word": "何浩楠打野猪翻了五座山",
+        "onboard_time": 1748077882,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165548,
+        "num": 165548,
+        "word": "藏海传女性十八般武艺",
+        "onboard_time": 1748078302,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 154968,
+        "word": "野狗骨头",
+        "onboard_time": 1748077223,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154886,
+        "num": 154886,
+        "word": "鹿晗巡演",
+        "onboard_time": 1748077282,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153872,
+        "num": 153872,
+        "word": "藏海传这桌好多人啊",
+        "onboard_time": 1748072901,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151298,
+        "num": 151298,
+        "word": "赵丽颖微指破8亿断层第一",
+        "onboard_time": 1748070021,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149648,
+        "num": 149648,
+        "word": "木星要进巨蟹了",
+        "onboard_time": 1748074762,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146621,
+        "num": 146621,
+        "word": "高考前得知无法参加高考",
+        "onboard_time": 1748067562,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142599,
+        "num": 142599,
+        "word": "雨果锁定第一枚世乒赛奖牌",
+        "onboard_time": 1748075662,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 140290,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138252,
+        "num": 138252,
+        "word": "原来古人是这么净化空气的",
+        "onboard_time": 1748078003,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30445,
+        "num": 136956,
+        "word": "错判案当事人要求法院道歉赔偿",
+        "onboard_time": 1748077583,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136949,
+        "num": 136949,
+        "word": "曾舜晞从吴小狗变成吴老狗了",
+        "onboard_time": 1748075482,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130320,
+        "num": 130320,
+        "word": "耳帝认证白举纲不是大白嗓",
+        "onboard_time": 1748078601,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103234,
+        "num": 122603,
+        "word": "麦当劳电动童车",
+        "onboard_time": 1748078422,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}

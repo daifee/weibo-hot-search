@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748076191880,
+  "endTime": 1748078656454,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -369,6 +369,14 @@
       "onboard_time": 1747734322,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2218962,
+      "num": 2218962,
+      "word": "特朗普24小时内连砍三刀",
+      "onboard_time": 1748073982,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2212377,
@@ -795,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1478068,
-      "num": 1478068,
-      "word": "特朗普24小时内连砍三刀",
-      "onboard_time": 1748073982,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1472793,
       "num": 1472793,
       "word": "曝迪丽热巴将离开嘉行",
@@ -920,6 +920,14 @@
       "word": "特朗普杀疯了",
       "onboard_time": 1748072422,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1387061,
+      "num": 1387061,
+      "word": "哈佛已离境留学生或无法返美",
+      "onboard_time": 1748075181,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -1233,6 +1241,14 @@
       "onboard_time": 1747815561,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1176468,
+      "num": 1176468,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1748075963,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1173468,
@@ -1859,6 +1875,14 @@
       "category": "海外新闻,民生新闻"
     },
     {
+      "raw_hot": 886542,
+      "num": 434376,
+      "word": "林依晨孕7月素颜照",
+      "onboard_time": 1748074580,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 882705,
       "num": 882705,
       "word": "工资5000 情绪管理",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1747630645,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 844466,
-      "num": 379757,
-      "word": "林依晨孕7月素颜照",
-      "onboard_time": 1748074580,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 843834,
@@ -4171,6 +4187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482903,
+      "num": 482903,
+      "word": "女网红想变韩女全脸整容对标张元英",
+      "onboard_time": 1748073323,
+      "rank": 6,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 481367,
       "num": 481367,
       "word": "魏劭看什么于途他有乔晶晶了",
@@ -4259,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470794,
+      "num": 470794,
+      "word": "单依纯把马嘉祺调成啥了",
+      "onboard_time": 1748076982,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469773,
       "num": 342880,
       "word": "被模仿吃饭的韩国霸总回应中国网友",
@@ -4289,6 +4321,14 @@
       "onboard_time": 1747877062,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 467302,
+      "num": 467302,
+      "word": "10多个省份鼓励实行2.5天休假模式",
+      "onboard_time": 1748075482,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466987,
@@ -4337,14 +4377,6 @@
       "onboard_time": 1747495347,
       "rank": 5,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 462426,
-      "num": 462426,
-      "word": "女网红想变韩女全脸整容对标张元英",
-      "onboard_time": 1748073323,
-      "rank": 6,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 462394,
@@ -4539,6 +4571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 439675,
+      "num": 439675,
+      "word": "胡彦斌给演唱会每一位观众送金子",
+      "onboard_time": 1748075542,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439631,
       "num": 439631,
       "word": "跳水",
@@ -4560,6 +4600,14 @@
       "word": "1万5网购10只羊货不对板还死了3只",
       "onboard_time": 1747728562,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434135,
+      "num": 434135,
+      "word": "人在icu被写欠条真正借款人找到了",
+      "onboard_time": 1748072602,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -4817,14 +4865,6 @@
       "onboard_time": 1747887024,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413137,
-      "num": 413137,
-      "word": "人在icu被写欠条真正借款人找到了",
-      "onboard_time": 1748072602,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411675,
@@ -6291,14 +6331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303384,
-      "num": 349512,
-      "word": "哈佛已离境留学生或无法返美",
-      "onboard_time": 1748075181,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 302030,
       "num": 209008,
       "word": "小米YU7内饰",
@@ -6441,6 +6473,14 @@
       "onboard_time": 1747798648,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297547,
+      "num": 343543,
+      "word": "厦门车祸奇迹宝宝亲属因赔偿款反目",
+      "onboard_time": 1748077401,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296883,
@@ -7083,6 +7123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269272,
+      "num": 269272,
+      "word": "谍报上不封顶",
+      "onboard_time": 1747906643,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269095,
       "num": 240238,
       "word": "面具人 徐磊",
@@ -7545,6 +7593,14 @@
       "onboard_time": 1747864756,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250845,
+      "num": 250845,
+      "word": "折腰直播",
+      "onboard_time": 1748077941,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 250725,
@@ -8427,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228737,
+      "num": 228737,
+      "word": "陈德容逆袭",
+      "onboard_time": 1748076502,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228500,
       "num": 228500,
       "word": "中餐厅录制",
@@ -8889,14 +8953,6 @@
       "onboard_time": 1747718241,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219477,
-      "num": 303683,
-      "word": "胡彦斌给演唱会每一位观众送金子",
-      "onboard_time": 1748075542,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 219440,
@@ -9515,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210314,
+      "num": 210314,
+      "word": "1人带94个玩偶入境被查",
+      "onboard_time": 1748076322,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210251,
       "num": 275283,
       "word": "周雨彤进组谍报上不封顶",
@@ -9529,14 +9593,6 @@
       "onboard_time": 1747833864,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210147,
-      "num": 210147,
-      "word": "谍报上不封顶",
-      "onboard_time": 1747906643,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 210021,
@@ -12619,6 +12675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179764,
+      "num": 242778,
+      "word": "尹浩宇签约天娱了",
+      "onboard_time": 1748077642,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179525,
       "num": 265676,
       "word": "好玩好开的潮流座驾",
@@ -13323,6 +13387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171850,
+      "num": 171850,
+      "word": "何浩楠打野猪翻了五座山",
+      "onboard_time": 1748077882,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171597,
       "num": 429101,
       "word": "网传歌手2025第二期歌单",
@@ -13931,6 +14003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165548,
+      "num": 165548,
+      "word": "藏海传女性十八般武艺",
+      "onboard_time": 1748078302,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "仙逆",
@@ -14361,14 +14441,6 @@
       "onboard_time": 1747700542,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161005,
-      "num": 161005,
-      "word": "王楚钦vs莫雷加德",
-      "onboard_time": 1748075963,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 160909,
@@ -15043,6 +15115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154968,
+      "num": 154968,
+      "word": "野狗骨头",
+      "onboard_time": 1748077223,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154886,
+      "num": 154886,
+      "word": "鹿晗巡演",
+      "onboard_time": 1748077282,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154822,
       "num": 156205,
       "word": "美滥用出口管制对中国遏制打压",
@@ -15547,6 +15635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150825,
+      "num": 273532,
+      "word": "郝蕾 不红就是原罪红了什么都对",
+      "onboard_time": 1748077823,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150776,
       "num": 150776,
       "word": "藏海到底有几个仇人",
@@ -15683,20 +15779,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149648,
+      "num": 149648,
+      "word": "木星要进巨蟹了",
+      "onboard_time": 1748074762,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149586,
       "num": 149586,
       "word": "王楚钦给巴西小哥打沮丧了",
       "onboard_time": 1747649183,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149533,
-      "num": 316292,
-      "word": "10多个省份鼓励实行2.5天休假模式",
-      "onboard_time": 1748075482,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149294,
@@ -15809,14 +15905,6 @@
       "onboard_time": 1747810763,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148060,
-      "num": 148060,
-      "word": "木星要进巨蟹了",
-      "onboard_time": 1748074762,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 148030,
@@ -16281,6 +16369,14 @@
       "onboard_time": 1747619662,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 287458,
+      "word": "雨果锁定第一枚世乒赛奖牌",
+      "onboard_time": 1748075662,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 142535,
@@ -16753,6 +16849,14 @@
       "onboard_time": 1747546640,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138252,
+      "num": 138252,
+      "word": "原来古人是这么净化空气的",
+      "onboard_time": 1748078003,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 138195,
@@ -17491,6 +17595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130320,
+      "num": 130320,
+      "word": "耳帝认证白举纲不是大白嗓",
+      "onboard_time": 1748078601,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130308,
       "num": 130308,
       "word": "林高远vs西福恩特斯",
@@ -17737,6 +17849,14 @@
       "onboard_time": 1747659925,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128164,
+      "num": 245107,
+      "word": "王楚钦半决赛训练热身",
+      "onboard_time": 1748077462,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 128144,
@@ -18113,14 +18233,6 @@
       "onboard_time": 1747557802,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124128,
-      "num": 287458,
-      "word": "雨果锁定第一枚世乒赛奖牌",
-      "onboard_time": 1748075662,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 124065,
@@ -19827,6 +19939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103234,
+      "num": 122603,
+      "word": "麦当劳电动童车",
+      "onboard_time": 1748078422,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103003,
       "num": 103003,
       "word": "王楚钦冲击男单半决赛",
@@ -20809,6 +20929,14 @@
       "onboard_time": 1747939635,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90577,
+      "num": 243259,
+      "word": "当代人择偶最看重的是什么",
+      "onboard_time": 1748078182,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 90567,
@@ -22761,6 +22889,14 @@
       "onboard_time": 1747715244,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 66065,
+      "num": 434730,
+      "word": "广西龙胜山洪已有4人遇难",
+      "onboard_time": 1748077521,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66061,
@@ -25140,7 +25276,7 @@
     },
     {
       "raw_hot": 36602,
-      "num": 963463,
+      "num": 1178277,
       "word": "道德模范可学可做可追可及",
       "onboard_time": 1748061025,
       "rank": 34,
@@ -25755,6 +25891,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 31654,
+      "num": 203447,
+      "word": "奶辣风童装有什么风险",
+      "onboard_time": 1748076142,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31592,
       "num": 378398,
       "word": "减肥就要一味地挨饿吗",
@@ -25865,6 +26009,14 @@
       "onboard_time": 1747836205,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 30445,
+      "num": 136956,
+      "word": "错判案当事人要求法院道歉赔偿",
+      "onboard_time": 1748077583,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30418,
@@ -26891,6 +27043,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 23553,
+      "num": 210609,
+      "word": "情绪不对容易扭曲别人意思",
+      "onboard_time": 1748077341,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23411,
       "num": 208768,
       "word": "漫展上的万事屋三人组",
@@ -27691,14 +27851,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 18756,
-      "num": 203447,
-      "word": "奶辣风童装有什么风险",
-      "onboard_time": 1748076142,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18688,
       "num": 747560,
       "word": "印度街头赢学",
@@ -28169,6 +28321,14 @@
       "onboard_time": 1747982783,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15933,
+      "num": 211917,
+      "word": "东印度公司是如何成长起来的",
+      "onboard_time": 1748077341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15908,
