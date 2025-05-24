@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748107286843,
+  "endTime": 1748108349448,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -27,20 +27,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1276857,
+      "num": 1276857,
+      "word": "王楚钦雨果争冠",
+      "onboard_time": 1748105899,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1140841,
       "num": 1140841,
       "word": "刘浩存体重轻到水量纹丝不动",
       "onboard_time": 1748098706,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1023080,
-      "num": 1023080,
-      "word": "王楚钦雨果争冠",
-      "onboard_time": 1748105899,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 866689,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375338,
+      "num": 375338,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1748100382,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365571,
       "num": 365571,
       "word": "孙颖莎说冠军一次比一次更难",
@@ -137,14 +145,6 @@
       "onboard_time": 1748093603,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274178,
-      "num": 274178,
-      "word": "陈幸同vs王曼昱",
-      "onboard_time": 1748100382,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 270167,
@@ -204,11 +204,27 @@
     },
     {
       "raw_hot": 215972,
-      "num": 201061,
+      "num": 204810,
       "word": "狂野时代",
       "onboard_time": 1748097626,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205533,
+      "num": 205533,
+      "word": "莫德里奇",
+      "onboard_time": 1748107698,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193907,
+      "num": 193907,
+      "word": "藏海传优酷热度破10400",
+      "onboard_time": 1748105960,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 191842,
@@ -225,14 +241,6 @@
       "onboard_time": 1748106078,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186562,
-      "num": 186562,
-      "word": "藏海传优酷热度破10400",
-      "onboard_time": 1748105960,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 182577,
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81982,
+      "num": 81982,
+      "word": "张凌赫济南线下人气",
+      "onboard_time": 1748106679,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81399,
       "num": 81399,
       "word": "李荣浩演唱会送搓澡巾",
@@ -499,12 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78292,
-      "num": 78292,
-      "word": "张凌赫济南线下人气",
-      "onboard_time": 1748106679,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 63872,
+      "num": 274813,
+      "word": "外国记者被中国手机种草了",
+      "onboard_time": 1748107399,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 43546,
