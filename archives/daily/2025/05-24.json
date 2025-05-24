@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748056293103,
+  "endTime": 1748057260511,
   "band_list": [
     {
       "raw_hot": 2498327,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1357120,
+      "num": 494061,
+      "word": "黄杨钿甜官方通报反扯出更多疑问",
+      "onboard_time": 1748053639,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1227762,
       "num": 1227762,
       "word": "子女炫富导致多名官员落马",
@@ -41,6 +49,14 @@
       "onboard_time": 1748047161,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1180622,
+      "num": 1188899,
+      "word": "何炅眼眶都红了",
+      "onboard_time": 1748054240,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1127837,
@@ -59,28 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1093098,
-      "num": 1174895,
-      "word": "何炅眼眶都红了",
-      "onboard_time": 1748054240,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1077966,
       "num": 1077966,
       "word": "陈楚生回应高音没声",
       "onboard_time": 1748011887,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1045445,
-      "num": 494061,
-      "word": "黄杨钿甜官方通报反扯出更多疑问",
-      "onboard_time": 1748053639,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 896718,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 871711,
-      "num": 329458,
+      "num": 379726,
       "word": "女子旅游病逝回国验尸发现没了心脏",
       "onboard_time": 1748049081,
       "rank": 11,
@@ -123,12 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 621408,
-      "num": 245795,
+      "raw_hot": 632601,
+      "num": 379341,
       "word": "单依纯 猪欲",
       "onboard_time": 1748054482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616579,
+      "num": 616579,
+      "word": "美国得州拟禁止中国等国公民买房",
+      "onboard_time": 1748051240,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 592426,
@@ -136,6 +144,14 @@
       "word": "单依纯再夺第一后发文",
       "onboard_time": 1748046262,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567589,
+      "num": 567589,
+      "word": "郑恺被跑男做局了",
+      "onboard_time": 1748055261,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1748047161,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 510781,
-      "num": 510781,
-      "word": "美国得州拟禁止中国等国公民买房",
-      "onboard_time": 1748051240,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 483368,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 409040,
-      "num": 258831,
+      "num": 378502,
       "word": "男子给小三转6万妻子连本带息追回",
       "onboard_time": 1748050522,
       "rank": 25,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378952,
+      "num": 378952,
+      "word": "肖战一句话解读藏海传",
+      "onboard_time": 1748050881,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367025,
       "num": 277674,
       "word": "男单四强国乒占两席",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 360263,
-      "num": 231629,
+      "num": 327439,
       "word": "鹿晗山下智久互关",
       "onboard_time": 1748052862,
       "rank": 29,
@@ -307,20 +323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317211,
-      "num": 317211,
-      "word": "肖战一句话解读藏海传",
-      "onboard_time": 1748050881,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314304,
       "num": 314304,
       "word": "林志炫档期",
       "onboard_time": 1748045901,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "多哈世乒赛首金今晚产生",
+      "onboard_time": 1748053100,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 310286,
@@ -331,19 +347,27 @@
       "category": "演出"
     },
     {
-      "raw_hot": 308911,
-      "num": 221155,
-      "word": "郑恺被跑男做局了",
-      "onboard_time": 1748055261,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300744,
       "num": 260054,
       "word": "离婚四年前妻教孩子发视频骂爸爸",
       "onboard_time": 1748051961,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296608,
+      "num": 296608,
+      "word": "赵丽颖在人间 水仙",
+      "onboard_time": 1748054841,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289215,
+      "num": 185941,
+      "word": "妻子被发现死在情人车里丈夫发声",
+      "onboard_time": 1748056400,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -363,20 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281580,
-      "num": 214818,
-      "word": "赵丽颖在人间 水仙",
-      "onboard_time": 1748054841,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 279672,
-      "num": 279672,
-      "word": "多哈世乒赛首金今晚产生",
-      "onboard_time": 1748053100,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 277145,
+      "num": 381221,
+      "word": "央视曝光上门免费服务骗局",
+      "onboard_time": 1748053341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271065,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 242730,
-      "num": 212818,
+      "num": 221527,
       "word": "九门",
       "onboard_time": 1748053402,
       "rank": 23,
@@ -475,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209050,
+      "num": 200721,
+      "word": "陈楚生吴泽林这段有点过于好笑了",
+      "onboard_time": 1748056221,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207129,
       "num": 207129,
       "word": "马嘉祺赛后发博",
       "onboard_time": 1748044400,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206761,
+      "num": 206761,
+      "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+      "onboard_time": 1748056521,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 202284,
@@ -513,14 +545,6 @@
       "onboard_time": 1748015723,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190431,
-      "num": 190431,
-      "word": "央视曝光上门免费服务骗局",
-      "onboard_time": 1748053341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189443,
@@ -699,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120664,
+      "num": 120664,
+      "word": "不信有人能吃三种以上的",
+      "onboard_time": 1748056761,
+      "rank": 44,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 120430,
       "num": 120430,
       "word": "莫雷加德vs户上隼辅",
@@ -739,6 +771,22 @@
       "category": "母婴育儿,民生新闻"
     },
     {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "16pm相机参数",
+      "onboard_time": 1748056941,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 112131,
+      "num": 112131,
+      "word": "步行者vs尼克斯",
+      "onboard_time": 1748056641,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112039,
       "num": 166676,
       "word": "凤凰传奇鸟巢演唱会",
@@ -755,12 +803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109337,
-      "num": 109337,
-      "word": "陈楚生吴泽林这段有点过于好笑了",
-      "onboard_time": 1748056221,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 108786,
+      "num": 352542,
+      "word": "男孩离家出走后外卖员父亲车祸去世",
+      "onboard_time": 1748055801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106276,
@@ -812,7 +860,7 @@
     },
     {
       "raw_hot": 101757,
-      "num": 101757,
+      "num": 186002,
       "word": "金饰克价一夜涨14元",
       "onboard_time": 1748052320,
       "rank": 32,
@@ -971,12 +1019,36 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 76219,
+      "num": 380668,
+      "word": "多哈世乒赛最抽象的事发生了",
+      "onboard_time": 1748056641,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74766,
       "num": 166450,
       "word": "月薪3万意味着每天能有1000块",
       "onboard_time": 1747995982,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 74670,
+      "num": 186468,
+      "word": "泡泡玛特涨6%续创历史新高",
+      "onboard_time": 1748056941,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 73401,
+      "num": 381833,
+      "word": "乌称基辅遭俄军导弹和无人机袭击",
+      "onboard_time": 1748055741,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72412,
@@ -995,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70060,
+      "num": 299138,
+      "word": "林志炫说没事儿",
+      "onboard_time": 1748056042,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68898,
       "num": 68898,
       "word": "耳帝没想到林志炫被淘汰",
       "onboard_time": 1748022138,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67903,
+      "num": 140836,
+      "word": "AVIA选代言人眼光绝了",
+      "onboard_time": 1748055682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67293,
@@ -1016,14 +1104,6 @@
       "word": "明星开演唱会需要避开高考时间吗",
       "onboard_time": 1748033415,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65621,
-      "num": 110492,
-      "word": "AVIA选代言人眼光绝了",
-      "onboard_time": 1748055682,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1073,14 +1153,6 @@
       "onboard_time": 1748041217,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51509,
-      "num": 279195,
-      "word": "乌称基辅遭俄军导弹和无人机袭击",
-      "onboard_time": 1748055741,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51484,
@@ -1155,22 +1227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37256,
-      "num": 213819,
-      "word": "林志炫说没事儿",
-      "onboard_time": 1748056042,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34343,
-      "num": 241210,
-      "word": "男孩离家出走后外卖员父亲车祸去世",
-      "onboard_time": 1748055801,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32763,
       "num": 31339,
       "word": "Grace第二",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1748026875,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27902,
+      "num": 147940,
+      "word": "美国大爷谈巴以冲突",
+      "onboard_time": 1748057122,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27573,
@@ -1265,6 +1329,14 @@
       "onboard_time": 1748028674,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20762,
+      "num": 297143,
+      "word": "灵笼2应该选龙骨村还是灯塔",
+      "onboard_time": 1748056400,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 17093,
