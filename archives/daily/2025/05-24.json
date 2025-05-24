@@ -1,7 +1,15 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748061861134,
+  "endTime": 1748064248863,
   "band_list": [
+    {
+      "raw_hot": 2582293,
+      "num": 401800,
+      "word": "25岁女孩婚前体检才发现无阴道无子宫",
+      "onboard_time": 1748062762,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2498327,
       "num": 316830,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582978,
+      "num": 401119,
+      "word": "陈芋汐10米跳台新搭档",
+      "onboard_time": 1748061743,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564662,
       "num": 332539,
       "word": "林志炫淘汰",
@@ -347,12 +363,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402419,
+      "num": 402419,
+      "word": "原来杨天真说得这段是折腰",
+      "onboard_time": 1748062822,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398255,
       "num": 398255,
       "word": "多哈世乒赛最抽象的事发生了",
       "onboard_time": 1748056641,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369255,
+      "num": 369255,
+      "word": "蔡依林 彭于晏",
+      "onboard_time": 1748063542,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 368016,
+      "num": 368016,
+      "word": "单依纯看马嘉祺介绍短片的反应",
+      "onboard_time": 1748060301,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 367025,
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 324028,
-      "num": 324028,
+      "num": 389811,
       "word": "古茗TOP1申请出战",
       "onboard_time": 1748059883,
       "rank": 16,
@@ -523,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243669,
-      "num": 243669,
-      "word": "单依纯看马嘉祺介绍短片的反应",
-      "onboard_time": 1748060301,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243460,
       "num": 243460,
       "word": "步行者2比0尼克斯",
@@ -569,6 +601,14 @@
       "onboard_time": 1748008413,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215152,
+      "num": 269988,
+      "word": "谁懂赵丽颖回眸这个镜头",
+      "onboard_time": 1748062822,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213428,
@@ -683,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178927,
+      "num": 178927,
+      "word": "藏海传配角 出彩",
+      "onboard_time": 1748063481,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177375,
       "num": 177375,
       "word": "田柾国机场图",
@@ -716,7 +764,7 @@
     },
     {
       "raw_hot": 173372,
-      "num": 173372,
+      "num": 261792,
       "word": "辛柏青坦言妻管严很光荣",
       "onboard_time": 1748061683,
       "rank": 35,
@@ -787,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163746,
+      "num": 402321,
+      "word": "被237万网友严选的新生军训服",
+      "onboard_time": 1748062762,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163441,
       "num": 283210,
       "word": "美股暴跌前美政界多人精准抛售",
@@ -801,6 +857,14 @@
       "onboard_time": 1748053882,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163075,
+      "num": 163075,
+      "word": "郭晋安否认与23岁港姐恋情",
+      "onboard_time": 1748062822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 159143,
@@ -827,6 +891,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150848,
+      "num": 150848,
+      "word": "藏海传面具人",
+      "onboard_time": 1748062102,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149294,
+      "num": 149294,
+      "word": "无期迷途",
+      "onboard_time": 1748063063,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 147933,
+      "num": 215202,
+      "word": "王一博粉丝团否认主演敬山水",
+      "onboard_time": 1748063063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146638,
       "num": 160798,
       "word": "马嘉祺高音稳的",
@@ -849,6 +937,14 @@
       "onboard_time": 1748013626,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142353,
+      "num": 142353,
+      "word": "五哈",
+      "onboard_time": 1748063963,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141808,
@@ -923,12 +1019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124701,
+      "num": 124701,
+      "word": "5月天气为啥这么癫",
+      "onboard_time": 1748062041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121656,
       "num": 181425,
       "word": "鹿晗四巡官宣",
       "onboard_time": 1747995683,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120880,
+      "num": 397071,
+      "word": "一个内向的人可能会遭遇什么",
+      "onboard_time": 1748063063,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 120664,
@@ -977,6 +1089,14 @@
       "onboard_time": 1748055801,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117278,
+      "num": 117278,
+      "word": "齐思钧带完哥哥姐姐带弟弟妹妹",
+      "onboard_time": 1748062822,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117237,
@@ -1107,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98895,
+      "num": 182547,
+      "word": "林志炫淘汰还不忘迪玛希生日",
+      "onboard_time": 1748064201,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98479,
       "num": 98479,
       "word": "交警辟谣高速时速不超143km不被罚",
@@ -1153,6 +1281,14 @@
       "onboard_time": 1748002343,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91363,
+      "num": 345245,
+      "word": "后海大鲨鱼为白举纲打call",
+      "onboard_time": 1748064022,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 89748,
@@ -1419,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56081,
+      "num": 831579,
+      "word": "中国东盟联手放大招",
+      "onboard_time": 1748061502,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 54923,
       "num": 129439,
       "word": "潘展乐第8金",
@@ -1505,6 +1649,14 @@
       "onboard_time": 1748052382,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42416,
+      "num": 258375,
+      "word": "特朗普政府为何频频打压哈佛",
+      "onboard_time": 1748063063,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41226,
@@ -1667,6 +1819,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19487,
+      "num": 382387,
+      "word": "2.5天休假模式如何避免隐形加班",
+      "onboard_time": 1748062282,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19190,
+      "num": 379742,
+      "word": "南非高官打假特朗普言论",
+      "onboard_time": 1748062941,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18532,
       "num": 179032,
       "word": "朱媛媛诠释了德艺双馨",
@@ -1699,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14664,
-      "num": 831579,
-      "word": "中国东盟联手放大招",
-      "onboard_time": 1748061502,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 14230,
       "num": 37101,
       "word": "阿云嘎回应揭榜失败",
@@ -1731,11 +1891,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11603,
+      "num": 267076,
+      "word": "船舶下水的方式有哪些",
+      "onboard_time": 1748063781,
+      "rank": 27,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 9614,
       "num": 244125,
       "word": "女子骑电动车摔倒无人搭救",
       "onboard_time": 1748060420,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9155,
+      "num": 374249,
+      "word": "针对老人的免费上门清洗骗局有哪些套路",
+      "onboard_time": 1748063722,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
