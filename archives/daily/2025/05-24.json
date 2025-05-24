@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748072218695,
+  "endTime": 1748075363336,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -40,6 +40,14 @@
       "word": "韩国反华情绪正螺旋上涨",
       "onboard_time": 1748013744,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1390229,
+      "num": 1390229,
+      "word": "特朗普杀疯了",
+      "onboard_time": 1748072422,
+      "rank": 1,
       "category": "国际时政"
     },
     {
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1048427,
-      "num": 371857,
+      "num": 373044,
       "word": "蔡依林 彭于晏",
       "onboard_time": 1748063542,
       "rank": 20,
@@ -203,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 662260,
+      "num": 386533,
+      "word": "36岁母亲为护女被劫匪打成90岁脑龄",
+      "onboard_time": 1748071341,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646016,
       "num": 646016,
       "word": "郑恺被跑男做局了",
@@ -217,6 +233,14 @@
       "onboard_time": 1748051240,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 615424,
+      "num": 615424,
+      "word": "特朗普24小时内连砍三刀",
+      "onboard_time": 1748073982,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 593511,
@@ -249,6 +273,14 @@
       "onboard_time": 1748061743,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 575527,
+      "num": 382458,
+      "word": "邓超回应与迪丽热巴粉丝合影",
+      "onboard_time": 1748071761,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 573191,
@@ -289,6 +321,22 @@
       "onboard_time": 1748047161,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537699,
+      "num": 537699,
+      "word": "永辉超市八点半打折",
+      "onboard_time": 1748072002,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534959,
+      "num": 379757,
+      "word": "林依晨孕7月素颜照",
+      "onboard_time": 1748074580,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 512238,
@@ -345,6 +393,14 @@
       "onboard_time": 1748058143,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434696,
+      "num": 434696,
+      "word": "女网红想变韩女全脸整容对标张元英",
+      "onboard_time": 1748073323,
+      "rank": 6,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 424690,
@@ -563,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296267,
+      "num": 296267,
+      "word": "人在icu被写欠条真正借款人找到了",
+      "onboard_time": 1748072602,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288971,
       "num": 182837,
       "word": "阿云嘎秒了",
@@ -579,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281314,
-      "num": 230454,
-      "word": "邓超回应与迪丽热巴粉丝合影",
-      "onboard_time": 1748071761,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 281420,
+      "num": 372186,
+      "word": "藏海传这桌好多人啊",
+      "onboard_time": 1748072901,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 271065,
@@ -636,7 +700,7 @@
     },
     {
       "raw_hot": 249718,
-      "num": 206288,
+      "num": 239825,
       "word": "赵丽颖微指破8亿断层第一",
       "onboard_time": 1748070021,
       "rank": 21,
@@ -683,12 +747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231804,
-      "num": 231804,
-      "word": "36岁母亲为护女被劫匪打成90岁脑龄",
-      "onboard_time": 1748071341,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 229542,
+      "num": 229542,
+      "word": "王楚钦若夺冠仍无法重返世一",
+      "onboard_time": 1748074283,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 228482,
@@ -696,6 +760,14 @@
       "word": "歌手直播",
       "onboard_time": 1747999823,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227739,
+      "num": 367780,
+      "word": "王亚飞给宋妍霏化的泥巴妆",
+      "onboard_time": 1748071642,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -747,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208839,
+      "num": 365431,
+      "word": "尚公主",
+      "onboard_time": 1748074521,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208676,
       "num": 304749,
       "word": "丁真举双手接受吻戏",
@@ -769,6 +849,14 @@
       "onboard_time": 1748069721,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202532,
+      "num": 388918,
+      "word": "女子遭歹徒疯狂袭击头肿得与肩同宽",
+      "onboard_time": 1748074101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202284,
@@ -1059,12 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162808,
-      "num": 162808,
-      "word": "永辉超市八点半打折",
-      "onboard_time": 1748072002,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 163016,
+      "num": 357625,
+      "word": "知道刘浩存为什么一直叫王安宇老师了",
+      "onboard_time": 1748068941,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159774,
+      "num": 353360,
+      "word": "我的灭门仇人是我的救命恩人",
+      "onboard_time": 1748069541,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 159143,
@@ -1073,14 +1169,6 @@
       "onboard_time": 1748048241,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158363,
-      "num": 189058,
-      "word": "我的灭门仇人是我的救命恩人",
-      "onboard_time": 1748069541,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 157285,
@@ -1113,14 +1201,6 @@
       "onboard_time": 1748067801,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153795,
-      "num": 186030,
-      "word": "知道刘浩存为什么一直叫王安宇老师了",
-      "onboard_time": 1748068941,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 152300,
@@ -1195,12 +1275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147205,
+      "num": 147205,
+      "word": "木星要进巨蟹了",
+      "onboard_time": 1748074762,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146638,
       "num": 160798,
       "word": "马嘉祺高音稳的",
       "onboard_time": 1748019859,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146046,
+      "num": 146046,
+      "word": "桃绒",
+      "onboard_time": 1748073922,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 143937,
@@ -1217,14 +1313,6 @@
       "onboard_time": 1748013626,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142530,
-      "num": 154054,
-      "word": "王亚飞给宋妍霏化的泥巴妆",
-      "onboard_time": 1748071642,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 141808,
@@ -1265,6 +1353,14 @@
       "onboard_time": 1748006847,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137203,
+      "num": 351790,
+      "word": "蛋仔派对皮肤首次参与天猫618",
+      "onboard_time": 1748072301,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 135908,
@@ -1388,7 +1484,7 @@
     },
     {
       "raw_hot": 121115,
-      "num": 121115,
+      "num": 130196,
       "word": "第一批甲亢哥粉丝已到达中国",
       "onboard_time": 1748070621,
       "rank": 43,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1748050161,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119913,
+      "num": 119913,
+      "word": "房琪长文告别浪姐",
+      "onboard_time": 1748075061,
+      "rank": 48,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 119718,
@@ -1787,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84699,
+      "num": 349512,
+      "word": "哈佛已离境留学生或无法返美",
+      "onboard_time": 1748075181,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83104,
       "num": 181160,
       "word": "老板为省钱饮水机每天只开半小时",
@@ -1849,6 +1961,14 @@
       "onboard_time": 1748050821,
       "rank": 41,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 78995,
+      "num": 359990,
+      "word": "美国私人飞机坠毁致15栋民宅连环烧",
+      "onboard_time": 1748073801,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76480,
@@ -1929,6 +2049,14 @@
       "onboard_time": 1748022138,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68040,
+      "num": 341493,
+      "word": "美军士兵发射空包弹游客吓得找掩护",
+      "onboard_time": 1748073801,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67903,
@@ -2171,6 +2299,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39418,
+      "num": 376494,
+      "word": "美国物流商打响仓库争夺战",
+      "onboard_time": 1748074101,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36602,
+      "num": 963463,
+      "word": "道德模范可学可做可追可及",
+      "onboard_time": 1748061025,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36336,
       "num": 197683,
       "word": "崇洋媚外只能显示出人格低下",
@@ -2228,7 +2372,7 @@
     },
     {
       "raw_hot": 29341,
-      "num": 183292,
+      "num": 346646,
       "word": "这才是当今社会所需要的正能量",
       "onboard_time": 1748069001,
       "rank": 30,
@@ -2249,6 +2393,14 @@
       "onboard_time": 1748026875,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27651,
+      "num": 337177,
+      "word": "弱酸性卫生巾对预防细菌性炎症是否有效",
+      "onboard_time": 1748074283,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27573,
@@ -2323,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22497,
+      "num": 342319,
+      "word": "离火车很近离火车站很远",
+      "onboard_time": 1748073741,
+      "rank": 25,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 21960,
       "num": 164176,
       "word": "指控哈佛大学的美议员是哈佛毕业生",
@@ -2331,12 +2491,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21824,
-      "num": 597769,
-      "word": "道德模范可学可做可追可及",
-      "onboard_time": 1748061025,
-      "rank": 34,
-      "category": "正能量"
+      "raw_hot": 21289,
+      "num": 363126,
+      "word": "2.5天休假的推广难度在哪",
+      "onboard_time": 1748074041,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20762,
@@ -2345,6 +2505,14 @@
       "onboard_time": 1748056400,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 20360,
+      "num": 331741,
+      "word": "局座早就说了歼10C排名在阵风前",
+      "onboard_time": 1748074942,
+      "rank": 29,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 19768,
@@ -2441,6 +2609,14 @@
       "onboard_time": 1748021299,
       "rank": 39,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 14039,
+      "num": 335800,
+      "word": "新一代中国科技中坚力量迅速崛起",
+      "onboard_time": 1748074341,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13306,
