@@ -1,0 +1,410 @@
+{
+  "runTime": 1748051665610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1214339,
+        "num": 1214339,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651381,
+        "num": 651381,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26735,
+        "num": 540583,
+        "word": "中国创新成全球经济新机遇",
+        "onboard_time": 1748009492,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539741,
+        "num": 539741,
+        "word": "女子查出肺结节没在意1年后确诊肺癌",
+        "onboard_time": 1748047161,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418805,
+        "num": 418805,
+        "word": "歌手补位",
+        "onboard_time": 1748044341,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1132707,
+        "num": 418720,
+        "word": "子女炫富导致多名官员落马",
+        "onboard_time": 1748042359,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 418163,
+        "num": 418163,
+        "word": "哈佛国际禁招令波及比利时公主",
+        "onboard_time": 1748047942,
+        "rank": 6,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 351150,
+        "num": 351150,
+        "word": "单依纯再夺第一后发文",
+        "onboard_time": 1748046262,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337220,
+        "num": 337220,
+        "word": "全糖可乐",
+        "onboard_time": 1748049501,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216302,
+        "num": 334204,
+        "word": "黄杨钿甜事件三大关键疑点待解",
+        "onboard_time": 1748051000,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797290,
+        "num": 331166,
+        "word": "韩国反华情绪正螺旋上涨",
+        "onboard_time": 1748013744,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 552259,
+        "num": 329458,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 408768,
+        "num": 323262,
+        "word": "魏哲鸣12年还没摇到号",
+        "onboard_time": 1748045181,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371932,
+        "num": 318353,
+        "word": "朱媛媛最后的朋友圈",
+        "onboard_time": 1748005887,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2317997,
+        "num": 316830,
+        "word": "黄杨钿甜奶奶",
+        "onboard_time": 1748049682,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314304,
+        "num": 314304,
+        "word": "林志炫档期",
+        "onboard_time": 1748045901,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306390,
+        "num": 306390,
+        "word": "陈楚生回应高音没声",
+        "onboard_time": 1748011887,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207129,
+        "num": 207129,
+        "word": "马嘉祺赛后发博",
+        "onboard_time": 1748044400,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186108,
+        "num": 186108,
+        "word": "美国得州拟禁止中国等国公民买房",
+        "onboard_time": 1748051240,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176481,
+        "num": 176481,
+        "word": "女孩戴能量石3个月总是流鼻血",
+        "onboard_time": 1748043739,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233948,
+        "num": 174287,
+        "word": "25岁女生卖小狗花束月入3万",
+        "onboard_time": 1748043739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166431,
+        "num": 166431,
+        "word": "林志炫回应淘汰",
+        "onboard_time": 1748016863,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159654,
+        "num": 159654,
+        "word": "歌手排名",
+        "onboard_time": 1748009553,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145529,
+        "num": 145529,
+        "word": "肖战一句话解读藏海传",
+        "onboard_time": 1748050881,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78034,
+        "num": 144886,
+        "word": "有湿疹的人一定要懒一点",
+        "onboard_time": 1748043020,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144660,
+        "num": 144660,
+        "word": "男子给小三转6万妻子连本带息追回",
+        "onboard_time": 1748050522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140785,
+        "num": 140785,
+        "word": "恩利庾澄庆 子承父逆",
+        "onboard_time": 1748004867,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132962,
+        "num": 132962,
+        "word": "多位捏捏玩家出现喉咙痛烂手指",
+        "onboard_time": 1748012726,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125792,
+        "num": 125792,
+        "word": "单亲母亲因坚持再嫁与成年儿子决裂",
+        "onboard_time": 1748048241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123982,
+        "num": 123982,
+        "word": "单依纯当年唯一输掉的比赛",
+        "onboard_time": 1748014585,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 122366,
+        "word": "王楚钦半决赛对战莫雷加德",
+        "onboard_time": 1748039837,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117237,
+        "num": 117237,
+        "word": "宝宝后脑勺磕到桌角头骨深深凹陷",
+        "onboard_time": 1748050821,
+        "rank": 31,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 105917,
+        "num": 105917,
+        "word": "来深圳总要去一次南头古城吧",
+        "onboard_time": 1748051541,
+        "rank": 32,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 105619,
+        "num": 105619,
+        "word": "狂野时代主演围着导演转圈圈",
+        "onboard_time": 1748050941,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104986,
+        "num": 104986,
+        "word": "三甲医院体检正常民营却称早泄",
+        "onboard_time": 1748044461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102730,
+        "num": 102730,
+        "word": "焦虑症患者最不想听到的安慰",
+        "onboard_time": 1748046980,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98479,
+        "num": 98479,
+        "word": "交警辟谣高速时速不超143km不被罚",
+        "onboard_time": 1748044520,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98468,
+        "num": 98468,
+        "word": "孙颖莎多哈赛程过于紧密引争议",
+        "onboard_time": 1748044461,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128931,
+        "num": 98365,
+        "word": "胡海泉回应歌手争议",
+        "onboard_time": 1748048421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97821,
+        "num": 97821,
+        "word": "教育局回应中学拖欠老师8个月加班费",
+        "onboard_time": 1748043201,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 97504,
+        "num": 97504,
+        "word": "女子被自家猫咬到整只手都麻了",
+        "onboard_time": 1748044461,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79613,
+        "num": 94786,
+        "word": "苹果市值一夜蒸发超6500亿元",
+        "onboard_time": 1748050821,
+        "rank": 41,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 94340,
+        "num": 94340,
+        "word": "朱媛媛在福建火化",
+        "onboard_time": 1748036954,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93744,
+        "num": 93744,
+        "word": "肖战是藏海传第一人选",
+        "onboard_time": 1748013386,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92999,
+        "num": 92999,
+        "word": "美股暴跌前美政界多人精准抛售",
+        "onboard_time": 1748020457,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116086,
+        "num": 92959,
+        "word": "李天泽为马嘉祺打call",
+        "onboard_time": 1748048602,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92907,
+        "num": 92907,
+        "word": "江西一中学拖欠老师8个月加班费",
+        "onboard_time": 1748050161,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84924,
+        "num": 84924,
+        "word": "男子自制捕蚊神器一夜爆网",
+        "onboard_time": 1748050821,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83380,
+        "num": 83380,
+        "word": "暴雨暴雨小心暴雨暴雨",
+        "onboard_time": 1748020518,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82397,
+        "num": 82397,
+        "word": "原配胜诉追回丈夫17次转小三6万",
+        "onboard_time": 1748048782,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同德国总理默茨通电话#"
+    }
+  }
+}
