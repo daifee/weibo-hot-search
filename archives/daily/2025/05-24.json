@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748064248863,
+  "endTime": 1748065286387,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -115,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 865444,
+      "num": 371857,
+      "word": "蔡依林 彭于晏",
+      "onboard_time": 1748063542,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772479,
       "num": 772479,
       "word": "雨果成首位获世乒赛奖牌的巴西选手",
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632246,
+      "num": 270855,
+      "word": "3岁女童与母亲尸体同住4天",
+      "onboard_time": 1748064322,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616579,
       "num": 616579,
       "word": "美国得州拟禁止中国等国公民买房",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 582978,
-      "num": 401119,
+      "num": 499698,
       "word": "陈芋汐10米跳台新搭档",
       "onboard_time": 1748061743,
       "rank": 12,
@@ -379,16 +395,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 369255,
-      "num": 369255,
-      "word": "蔡依林 彭于晏",
-      "onboard_time": 1748063542,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 368016,
-      "num": 368016,
+      "raw_hot": 382353,
+      "num": 382353,
       "word": "单依纯看马嘉祺介绍短片的反应",
       "onboard_time": 1748060301,
       "rank": 33,
@@ -409,6 +417,14 @@
       "onboard_time": 1748052862,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358215,
+      "num": 402321,
+      "word": "被237万网友严选的新生军训服",
+      "onboard_time": 1748062762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352259,
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191869,
+      "num": 191869,
+      "word": "五哈",
+      "onboard_time": 1748063963,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191868,
       "num": 374804,
       "word": "波音花钱解决了346死坠机刑责",
@@ -713,6 +737,30 @@
       "onboard_time": 1748013147,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188355,
+      "num": 188355,
+      "word": "李现提前闯进叔圈赛道",
+      "onboard_time": 1748064681,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185942,
+      "num": 185942,
+      "word": "谢娜算了我就拿泥巴回去种荷花吧",
+      "onboard_time": 1748064262,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185472,
+      "num": 351039,
+      "word": "于适回应音乐节被喊脱掉",
+      "onboard_time": 1748064742,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 185419,
@@ -761,6 +809,22 @@
       "onboard_time": 1748043739,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175713,
+      "num": 378701,
+      "word": "19岁投资者年化收益率80%",
+      "onboard_time": 1748064322,
+      "rank": 9,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 173887,
+      "num": 191762,
+      "word": "郑恺回应被跑男做局了",
+      "onboard_time": 1748064742,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 173372,
@@ -835,14 +899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 163746,
-      "num": 402321,
-      "word": "被237万网友严选的新生军训服",
-      "onboard_time": 1748062762,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163441,
       "num": 283210,
       "word": "美股暴跌前美政界多人精准抛售",
@@ -875,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157285,
+      "num": 397071,
+      "word": "一个内向的人可能会遭遇什么",
+      "onboard_time": 1748063063,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156905,
       "num": 181643,
       "word": "折腰",
@@ -891,11 +955,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151182,
+      "num": 151182,
+      "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
+      "onboard_time": 1748064322,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150848,
       "num": 150848,
       "word": "藏海传面具人",
       "onboard_time": 1748062102,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149679,
+      "num": 149679,
+      "word": "189的魏劭衣服包住165的美妻",
+      "onboard_time": 1748064923,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -939,20 +1019,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142353,
-      "num": 142353,
-      "word": "五哈",
-      "onboard_time": 1748063963,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141808,
       "num": 166759,
       "word": "刘宇宁眼神爱时蜜醋时刀",
       "onboard_time": 1748017641,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "儿子回来了爸爸却走了",
+      "onboard_time": 1748064502,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137729,
@@ -987,6 +1067,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132672,
+      "num": 132672,
+      "word": "看似先婚后爱其实蓄谋已久",
+      "onboard_time": 1748065101,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132409,
+      "num": 132409,
+      "word": "折腰海外热度",
+      "onboard_time": 1748065163,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130420,
       "num": 130420,
       "word": "教育局回应中学拖欠老师8个月加班费",
@@ -1019,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124832,
+      "num": 124832,
+      "word": "LWX与Crisp在LPL登场九周年",
+      "onboard_time": 1748065101,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124701,
       "num": 124701,
       "word": "5月天气为啥这么癫",
@@ -1033,14 +1137,6 @@
       "onboard_time": 1747995683,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120880,
-      "num": 397071,
-      "word": "一个内向的人可能会遭遇什么",
-      "onboard_time": 1748063063,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 120664,
@@ -1515,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64380,
+      "num": 831579,
+      "word": "中国东盟联手放大招",
+      "onboard_time": 1748061502,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 60529,
       "num": 241290,
       "word": "朱媛媛面对生死有多体面",
@@ -1555,12 +1659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56081,
-      "num": 831579,
-      "word": "中国东盟联手放大招",
-      "onboard_time": 1748061502,
-      "rank": 2,
-      "category": "国内时政,财经"
+      "raw_hot": 55369,
+      "num": 154849,
+      "word": "特朗普禁招令下哈佛校园现状",
+      "onboard_time": 1748065221,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54923,
@@ -1649,6 +1753,14 @@
       "onboard_time": 1748052382,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 43571,
+      "num": 272797,
+      "word": "警方通报纺织厂被纵火未有人员伤亡",
+      "onboard_time": 1748063242,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42416,
@@ -1851,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16807,
+      "num": 188677,
+      "word": "喝黄芪水促进代谢吗",
+      "onboard_time": 1748064441,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15821,
       "num": 36960,
       "word": "歌手2025收视创新高",
@@ -1865,6 +1985,14 @@
       "onboard_time": 1748042238,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15144,
+      "num": 267076,
+      "word": "船舶下水的方式有哪些",
+      "onboard_time": 1748063781,
+      "rank": 27,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 14230,
@@ -1883,6 +2011,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 12342,
+      "num": 374249,
+      "word": "针对老人的免费上门清洗骗局有哪些套路",
+      "onboard_time": 1748063722,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11869,
       "num": 196102,
       "word": "步行者为什么能连赢两场",
@@ -1891,27 +2027,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11603,
-      "num": 267076,
-      "word": "船舶下水的方式有哪些",
-      "onboard_time": 1748063781,
-      "rank": 27,
-      "category": "科学科普,民生新闻"
-    },
-    {
       "raw_hot": 9614,
       "num": 244125,
       "word": "女子骑电动车摔倒无人搭救",
       "onboard_time": 1748060420,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9155,
-      "num": 374249,
-      "word": "针对老人的免费上门清洗骗局有哪些套路",
-      "onboard_time": 1748063722,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

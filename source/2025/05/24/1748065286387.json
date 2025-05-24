@@ -1,0 +1,410 @@
+{
+  "runTime": 1748065286387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052594,
+        "num": 1168415,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657573,
+        "num": 657573,
+        "word": "雨果成首位获世乒赛奖牌的巴西选手",
+        "onboard_time": 1748059883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64380,
+        "num": 557414,
+        "word": "中国东盟联手放大招",
+        "onboard_time": 1748061502,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 514538,
+        "num": 514538,
+        "word": "郑恺被跑男做局了",
+        "onboard_time": 1748055261,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499698,
+        "num": 499698,
+        "word": "陈芋汐10米跳台新搭档",
+        "onboard_time": 1748061743,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469330,
+        "num": 469330,
+        "word": "何炅眼眶都红了",
+        "onboard_time": 1748054240,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464503,
+        "num": 464503,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382353,
+        "num": 382353,
+        "word": "单依纯看马嘉祺介绍短片的反应",
+        "onboard_time": 1748060301,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379051,
+        "num": 379051,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175713,
+        "num": 378701,
+        "word": "19岁投资者年化收益率80%",
+        "onboard_time": 1748064322,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 2447323,
+        "num": 378675,
+        "word": "25岁女孩婚前体检才发现无阴道无子宫",
+        "onboard_time": 1748062762,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378485,
+        "num": 378485,
+        "word": "倪虹洁戴了19年前祝无双的耳环",
+        "onboard_time": 1748058501,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351148,
+        "num": 373705,
+        "word": "肖战一句话解读藏海传",
+        "onboard_time": 1748050881,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 865444,
+        "num": 371857,
+        "word": "蔡依林 彭于晏",
+        "onboard_time": 1748063542,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552691,
+        "num": 365860,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440463,
+        "num": 362660,
+        "word": "单依纯 猪欲",
+        "onboard_time": 1748054482,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 358215,
+        "num": 358215,
+        "word": "被237万网友严选的新生军训服",
+        "onboard_time": 1748062762,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 352651,
+        "word": "古茗TOP1申请出战",
+        "onboard_time": 1748059883,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185472,
+        "num": 351039,
+        "word": "于适回应音乐节被喊脱掉",
+        "onboard_time": 1748064742,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12342,
+        "num": 350937,
+        "word": "针对老人的免费上门清洗骗局有哪些套路",
+        "onboard_time": 1748063722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350887,
+        "num": 350887,
+        "word": "原来杨天真说得这段是折腰",
+        "onboard_time": 1748062822,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43571,
+        "num": 272797,
+        "word": "警方通报纺织厂被纵火未有人员伤亡",
+        "onboard_time": 1748063242,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632246,
+        "num": 270855,
+        "word": "3岁女童与母亲尸体同住4天",
+        "onboard_time": 1748064322,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247073,
+        "num": 247073,
+        "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+        "onboard_time": 1748056521,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224933,
+        "num": 224933,
+        "word": "国际体育仲裁院维持吕小军4年禁赛",
+        "onboard_time": 1748059582,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191869,
+        "num": 191869,
+        "word": "五哈",
+        "onboard_time": 1748063963,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173887,
+        "num": 191762,
+        "word": "郑恺回应被跑男做局了",
+        "onboard_time": 1748064742,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125346,
+        "num": 190700,
+        "word": "辛柏青坦言妻管严很光荣",
+        "onboard_time": 1748061683,
+        "rank": 27,
+        "category": "议题讨论,艺人"
+      },
+      {
+        "raw_hot": 15144,
+        "num": 189719,
+        "word": "船舶下水的方式有哪些",
+        "onboard_time": 1748063781,
+        "rank": 28,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 16807,
+        "num": 188677,
+        "word": "喝黄芪水促进代谢吗",
+        "onboard_time": 1748064441,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188355,
+        "num": 188355,
+        "word": "李现提前闯进叔圈赛道",
+        "onboard_time": 1748064681,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186392,
+        "num": 186392,
+        "word": "多哈世乒赛最抽象的事发生了",
+        "onboard_time": 1748056641,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 185942,
+        "word": "谢娜算了我就拿泥巴回去种荷花吧",
+        "onboard_time": 1748064262,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180764,
+        "num": 180764,
+        "word": "赵丽颖在人间 水仙",
+        "onboard_time": 1748054841,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176559,
+        "num": 176559,
+        "word": "藏海传配角 出彩",
+        "onboard_time": 1748063481,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170699,
+        "num": 170699,
+        "word": "央视曝光上门免费服务骗局",
+        "onboard_time": 1748053341,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161440,
+        "num": 161440,
+        "word": "郭晋安否认与23岁港姐恋情",
+        "onboard_time": 1748062822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157285,
+        "num": 157285,
+        "word": "一个内向的人可能会遭遇什么",
+        "onboard_time": 1748063063,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55369,
+        "num": 154849,
+        "word": "特朗普禁招令下哈佛校园现状",
+        "onboard_time": 1748065221,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159602,
+        "num": 154638,
+        "word": "谁懂赵丽颖回眸这个镜头",
+        "onboard_time": 1748062822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "歌手补位",
+        "onboard_time": 1748044341,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151182,
+        "num": 151182,
+        "word": "莫迪称将给巴基斯坦超乎想象的惩罚",
+        "onboard_time": 1748064322,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149679,
+        "num": 149679,
+        "word": "189的魏劭衣服包住165的美妻",
+        "onboard_time": 1748064923,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139270,
+        "num": 139270,
+        "word": "儿子回来了爸爸却走了",
+        "onboard_time": 1748064502,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136959,
+        "num": 136959,
+        "word": "藏海传面具人",
+        "onboard_time": 1748062102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135656,
+        "num": 135656,
+        "word": "丁太升说林志炫有上一季那英的影子",
+        "onboard_time": 1748058143,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132672,
+        "num": 132672,
+        "word": "看似先婚后爱其实蓄谋已久",
+        "onboard_time": 1748065101,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132409,
+        "num": 132409,
+        "word": "折腰海外热度",
+        "onboard_time": 1748065163,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 124832,
+        "word": "LWX与Crisp在LPL登场九周年",
+        "onboard_time": 1748065101,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114353,
+        "num": 114353,
+        "word": "5月天气为啥这么癫",
+        "onboard_time": 1748062041,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}
