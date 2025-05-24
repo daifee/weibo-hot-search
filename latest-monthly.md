@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/24 20:45:08
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/24 21:02:23
 </p>
 </blockquote>
 <p>
@@ -867,6 +867,12 @@ gidle改名idle（热度：2306655）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E4%B8%A4%E5%9D%97%E4%BA%94%E6%9F%A0%E6%AA%AC%E6%B0%B4%23" target="weibo">
+古茗两块五柠檬水（热度：1910871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%23" target="weibo">
 女装退货率（热度：1901583）
 </a>
@@ -989,12 +995,6 @@ IU陪跑三次了（热度：1850258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 歌手首发阵容官宣（热度：1803643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E4%B8%A4%E5%9D%97%E4%BA%94%E6%9F%A0%E6%AA%AC%E6%B0%B4%23" target="weibo">
-古茗两块五柠檬水（热度：1801369）
 </a>
 </li>
 

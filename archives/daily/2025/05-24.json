@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748090708459,
+  "endTime": 1748091743037,
   "band_list": [
     {
       "raw_hot": 2582293,
@@ -35,20 +35,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1910871,
+      "num": 1910871,
+      "word": "古茗两块五柠檬水",
+      "onboard_time": 1748087480,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1809774,
       "num": 1809774,
       "word": "可复美",
       "onboard_time": 1748080822,
       "rank": 18,
       "category": "美妆,民生新闻"
-    },
-    {
-      "raw_hot": 1801369,
-      "num": 1801369,
-      "word": "古茗两块五柠檬水",
-      "onboard_time": 1748087480,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1786154,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626657,
+      "num": 626657,
+      "word": "董明珠说孟羽童被开除失去最好机会",
+      "onboard_time": 1748090423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 621722,
       "num": 621722,
       "word": "孙颖莎回应4比0击败伊藤美诚",
@@ -515,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 489749,
+      "num": 489749,
+      "word": "林俊杰王俊凯帮周杰伦庆生",
+      "onboard_time": 1748089882,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483368,
       "num": 287832,
       "word": "耳帝评歌手第二期",
@@ -651,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414768,
+      "num": 399351,
+      "word": "藏海这是真引君侯折腰了",
+      "onboard_time": 1748089822,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414188,
       "num": 414188,
       "word": "肖战一句话解读藏海传",
@@ -723,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392218,
+      "num": 392218,
+      "word": "我家腰儿仿佛刚开播的样子",
+      "onboard_time": 1748088562,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385044,
       "num": 385044,
       "word": "折腰直播",
@@ -777,14 +809,6 @@
       "onboard_time": 1748074283,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342592,
-      "num": 342592,
-      "word": "我家腰儿仿佛刚开播的样子",
-      "onboard_time": 1748088562,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 337220,
@@ -907,6 +931,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300330,
+      "num": 300330,
+      "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
+      "onboard_time": 1748090783,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293614,
+      "num": 293614,
+      "word": "易烊千玺最狂野的一面",
+      "onboard_time": 1748088864,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288971,
       "num": 182837,
       "word": "阿云嘎秒了",
@@ -987,22 +1027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260196,
-      "num": 260196,
-      "word": "易烊千玺最狂野的一面",
-      "onboard_time": 1748088864,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 255483,
-      "num": 255483,
-      "word": "林俊杰王俊凯帮周杰伦庆生",
-      "onboard_time": 1748089882,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255187,
       "num": 202022,
       "word": "张凌赫济南",
@@ -1019,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249758,
-      "num": 249758,
-      "word": "藏海这是真引君侯折腰了",
-      "onboard_time": 1748089822,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249718,
       "num": 239825,
       "word": "赵丽颖微指破8亿断层第一",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1748056342,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247659,
+      "num": 228395,
+      "word": "巴粉测速",
+      "onboard_time": 1748090842,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 245045,
@@ -1083,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236177,
-      "num": 261952,
-      "word": "董明珠说孟羽童被开除失去最好机会",
-      "onboard_time": 1748090423,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234953,
       "num": 200118,
       "word": "25岁女生卖小狗花束月入3万",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1747999823,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228169,
+      "num": 228169,
+      "word": "囚于永夜",
+      "onboard_time": 1748089702,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 227899,
@@ -1161,6 +1185,22 @@
       "onboard_time": 1748081723,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219535,
+      "num": 219535,
+      "word": "清融转会",
+      "onboard_time": 1748088982,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 217532,
+      "num": 217532,
+      "word": "平津侯藏海CP",
+      "onboard_time": 1748091263,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 215192,
@@ -1235,12 +1275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205598,
-      "num": 205598,
-      "word": "囚于永夜",
-      "onboard_time": 1748089702,
+      "raw_hot": 205238,
+      "num": 205238,
+      "word": "汪顺400米混合泳丝滑夺冠",
+      "onboard_time": 1748091141,
       "rank": 25,
-      "category": "动漫"
+      "category": "体育"
     },
     {
       "raw_hot": 204909,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1748082742,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203703,
+      "num": 203703,
+      "word": "重庆动物园",
+      "onboard_time": 1748090301,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203647,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1748013686,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201499,
-      "num": 201499,
-      "word": "清融转会",
-      "onboard_time": 1748088982,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 200867,
@@ -1419,6 +1459,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 190447,
+      "num": 190447,
+      "word": "董力听到生三胎眼睛都放大了",
+      "onboard_time": 1748091083,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190243,
       "num": 320031,
       "word": "折腰",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1748084541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "魏劭想做真夫妻",
+      "onboard_time": 1748091141,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 183414,
@@ -1667,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169871,
+      "num": 169871,
+      "word": "王俊凯问当周游记主持人要合同吗",
+      "onboard_time": 1748090603,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168918,
       "num": 168918,
       "word": "孙颖莎4比0战胜伊藤美诚",
@@ -1785,14 +1849,6 @@
       "onboard_time": 1748069541,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159382,
-      "num": 159382,
-      "word": "重庆动物园",
-      "onboard_time": 1748090301,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159143,
@@ -1939,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "赵丽颖董子健二搭",
+      "onboard_time": 1748090723,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151752,
       "num": 151752,
       "word": "丹麦将延迟退休至70岁",
@@ -2075,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145429,
+      "num": 145429,
+      "word": "张书维",
+      "onboard_time": 1748091141,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143937,
       "num": 143937,
       "word": "男孩离家出走2天后父亲意外去世",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1748080221,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143184,
+      "num": 143184,
+      "word": "抹茶椰子水",
+      "onboard_time": 1748087721,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 142889,
@@ -2137,14 +2217,6 @@
       "onboard_time": 1748071882,
       "rank": 37,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "抹茶椰子水",
-      "onboard_time": 1748087721,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 138252,
@@ -2907,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80198,
+      "num": 211207,
+      "word": "广电总局演员培训班增加税法课时",
+      "onboard_time": 1748089402,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79613,
       "num": 212412,
       "word": "苹果市值一夜蒸发超6500亿元",
@@ -3579,6 +3659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20374,
+      "num": 251601,
+      "word": "巨子生物的可复美真的有效果吗",
+      "onboard_time": 1748089882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19859,
       "num": 270629,
       "word": "高效求职的7个准备",
@@ -3608,14 +3696,6 @@
       "word": "2.5天休假模式如何避免隐形加班",
       "onboard_time": 1748062282,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19440,
-      "num": 251601,
-      "word": "巨子生物的可复美真的有效果吗",
-      "onboard_time": 1748089882,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

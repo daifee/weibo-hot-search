@@ -1,6 +1,6 @@
 {
   "startTime": 1747499363615,
-  "endTime": 1748090708459,
+  "endTime": 1748091743037,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1910871,
+      "num": 1910871,
+      "word": "古茗两块五柠檬水",
+      "onboard_time": 1748087480,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1898843,
       "num": 1898843,
       "word": "王楚钦vs林昀儒",
@@ -537,14 +545,6 @@
       "onboard_time": 1748080822,
       "rank": 18,
       "category": "美妆,民生新闻"
-    },
-    {
-      "raw_hot": 1801369,
-      "num": 1801369,
-      "word": "古茗两块五柠檬水",
-      "onboard_time": 1748087480,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 1786154,
@@ -3147,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626657,
+      "num": 626657,
+      "word": "董明珠说孟羽童被开除失去最好机会",
+      "onboard_time": 1748090423,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625750,
       "num": 625750,
       "word": "潘展乐汪顺孙杨携手冲冠",
@@ -4283,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489749,
+      "num": 489749,
+      "word": "林俊杰王俊凯帮周杰伦庆生",
+      "onboard_time": 1748089882,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489134,
       "num": 489134,
       "word": "全红婵因伤退出全国跳水冠军赛",
@@ -4995,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414768,
+      "num": 399351,
+      "word": "藏海这是真引君侯折腰了",
+      "onboard_time": 1748089822,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414701,
       "num": 414701,
       "word": "1年期定存跌破1%",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1747730182,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392218,
+      "num": 392218,
+      "word": "我家腰儿仿佛刚开播的样子",
+      "onboard_time": 1748088562,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 390802,
@@ -5897,14 +5929,6 @@
       "onboard_time": 1747821802,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342592,
-      "num": 342592,
-      "word": "我家腰儿仿佛刚开播的样子",
-      "onboard_time": 1748088562,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 341953,
@@ -6627,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300330,
+      "num": 300330,
+      "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
+      "onboard_time": 1748090783,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300320,
       "num": 300320,
       "word": "高位截瘫男孩自驾看雪山",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1747738522,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 293614,
+      "num": 293614,
+      "word": "易烊千玺最狂野的一面",
+      "onboard_time": 1748088864,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 293417,
@@ -7611,14 +7651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260196,
-      "num": 260196,
-      "word": "易烊千玺最狂野的一面",
-      "onboard_time": 1748088864,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 259497,
       "num": 259497,
       "word": "陈楚生将进酒网友推荐TOP1",
@@ -7689,14 +7721,6 @@
       "onboard_time": 1747892541,
       "rank": 46,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 255483,
-      "num": 255483,
-      "word": "林俊杰王俊凯帮周杰伦庆生",
-      "onboard_time": 1748089882,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 255187,
@@ -7867,14 +7891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249758,
-      "num": 249758,
-      "word": "藏海这是真引君侯折腰了",
-      "onboard_time": 1748089822,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249718,
       "num": 239825,
       "word": "赵丽颖微指破8亿断层第一",
@@ -7969,6 +7985,14 @@
       "onboard_time": 1747884562,
       "rank": 29,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 247659,
+      "num": 228395,
+      "word": "巴粉测速",
+      "onboard_time": 1748090842,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 247406,
@@ -8459,14 +8483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236177,
-      "num": 261952,
-      "word": "董明珠说孟羽童被开除失去最好机会",
-      "onboard_time": 1748090423,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235536,
       "num": 235536,
       "word": "肖战说藏海传海报上的眼神是抓拍的",
@@ -8761,6 +8777,14 @@
       "onboard_time": 1747795941,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228169,
+      "num": 228169,
+      "word": "囚于永夜",
+      "onboard_time": 1748089702,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 227977,
@@ -9251,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219535,
+      "num": 219535,
+      "word": "清融转会",
+      "onboard_time": 1748088982,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219440,
       "num": 206012,
       "word": "易烊千玺舒淇戛纳红毯同框",
@@ -9361,6 +9393,14 @@
       "onboard_time": 1747968081,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217532,
+      "num": 217532,
+      "word": "平津侯藏海CP",
+      "onboard_time": 1748091263,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 217403,
@@ -10299,14 +10339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205598,
-      "num": 205598,
-      "word": "囚于永夜",
-      "onboard_time": 1748089702,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 205384,
       "num": 208509,
       "word": "2025微博电影之夜官宣",
@@ -10329,6 +10361,14 @@
       "onboard_time": 1747746145,
       "rank": 38,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 205238,
+      "num": 205238,
+      "word": "汪顺400米混合泳丝滑夺冠",
+      "onboard_time": 1748091141,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 205147,
@@ -10481,6 +10521,14 @@
       "onboard_time": 1747629384,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203703,
+      "num": 203703,
+      "word": "重庆动物园",
+      "onboard_time": 1748090301,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203647,
@@ -10681,14 +10729,6 @@
       "onboard_time": 1747726643,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201499,
-      "num": 201499,
-      "word": "清融转会",
-      "onboard_time": 1748088982,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 201400,
@@ -11955,6 +11995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190447,
+      "num": 190447,
+      "word": "董力听到生三胎眼睛都放大了",
+      "onboard_time": 1748091083,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190388,
       "num": 190388,
       "word": "33对减肥人群太友好了",
@@ -12793,6 +12841,14 @@
       "onboard_time": 1747981522,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "魏劭想做真夫妻",
+      "onboard_time": 1748091141,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 183673,
@@ -14003,6 +14059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169871,
+      "num": 169871,
+      "word": "王俊凯问当周游记主持人要合同吗",
+      "onboard_time": 1748090603,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169816,
       "num": 292079,
       "word": "周也说张宥浩拍的照片好看",
@@ -15059,14 +15123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159382,
-      "num": 159382,
-      "word": "重庆动物园",
-      "onboard_time": 1748090301,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159333,
       "num": 159333,
       "word": "曝IU李钟硕没分手",
@@ -16043,6 +16099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "赵丽颖董子健二搭",
+      "onboard_time": 1748090723,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151954,
       "num": 151954,
       "word": "以驻美使馆遇害2人为将订婚恋人",
@@ -16731,6 +16795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145429,
+      "num": 145429,
+      "word": "张书维",
+      "onboard_time": 1748091141,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145263,
       "num": 145263,
       "word": "因200块差点错失文物发掘",
@@ -16905,6 +16977,14 @@
       "onboard_time": 1747831225,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143184,
+      "num": 143184,
+      "word": "抹茶椰子水",
+      "onboard_time": 1748087721,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 143160,
@@ -17401,14 +17481,6 @@
       "onboard_time": 1747637963,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "抹茶椰子水",
-      "onboard_time": 1748087721,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 138555,
@@ -22545,6 +22617,14 @@
       "onboard_time": 1747496843,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80198,
+      "num": 211207,
+      "word": "广电总局演员培训班增加税法课时",
+      "onboard_time": 1748089402,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80034,
@@ -28403,6 +28483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20374,
+      "num": 251601,
+      "word": "巨子生物的可复美真的有效果吗",
+      "onboard_time": 1748089882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20373,
       "num": 222213,
       "word": "中国留学生及妻子在澳遭多人殴打",
@@ -28552,14 +28640,6 @@
       "word": "2.5天休假模式如何避免隐形加班",
       "onboard_time": 1748062282,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19440,
-      "num": 251601,
-      "word": "巨子生物的可复美真的有效果吗",
-      "onboard_time": 1748089882,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
