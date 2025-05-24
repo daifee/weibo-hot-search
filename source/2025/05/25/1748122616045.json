@@ -1,0 +1,410 @@
+{
+  "runTime": 1748122616045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 214420,
+        "num": 214420,
+        "word": "警员视力矫正术后因难忍副作用自尽",
+        "onboard_time": 1748099064,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195647,
+        "num": 195647,
+        "word": "王楚钦雨果争冠",
+        "onboard_time": 1748105899,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9104,
+        "num": 102259,
+        "word": "海洋经济总量首次突破10万亿元",
+        "onboard_time": 1748095287,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89988,
+        "num": 89988,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84427,
+        "num": 84427,
+        "word": "雨果",
+        "onboard_time": 1748106259,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73299,
+        "num": 73299,
+        "word": "涉事店家回应多人吃甜品后上吐下泻",
+        "onboard_time": 1748115196,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 61536,
+        "num": 61536,
+        "word": "刘雨欣是我好莱坞唯一的人脉",
+        "onboard_time": 1748113217,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59063,
+        "num": 59063,
+        "word": "藏海传优酷热度破10400",
+        "onboard_time": 1748105960,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55861,
+        "num": 55861,
+        "word": "陈幸同vs王曼昱",
+        "onboard_time": 1748100382,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54029,
+        "num": 54029,
+        "word": "梁靖崑无缘决赛",
+        "onboard_time": 1748106559,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121746,
+        "num": 52424,
+        "word": "小伙称连吃28天鸡腿饭瘦10多斤",
+        "onboard_time": 1748102903,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105102,
+        "num": 51476,
+        "word": "16岁费曼近照",
+        "onboard_time": 1748102242,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55674,
+        "num": 49716,
+        "word": "抢手捧花求婚跪错女友当事人回应",
+        "onboard_time": 1748116455,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46712,
+        "num": 46712,
+        "word": "莫德里奇",
+        "onboard_time": 1748107698,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45744,
+        "num": 45744,
+        "word": "董明珠说孟羽童被开除失去最好机会",
+        "onboard_time": 1748090423,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45076,
+        "num": 45076,
+        "word": "狂野时代戛纳电影节特别奖",
+        "onboard_time": 1748108477,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40561,
+        "num": 40561,
+        "word": "杨肸子说杨紫在剧组从不拿剧本",
+        "onboard_time": 1748097146,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33954,
+        "num": 33954,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1748094746,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32282,
+        "num": 32282,
+        "word": "2025戛纳电影节获奖名单",
+        "onboard_time": 1748109917,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31794,
+        "num": 31794,
+        "word": "梁靖崑vs雨果",
+        "onboard_time": 1748100024,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63523,
+        "num": 31722,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48486,
+        "num": 31658,
+        "word": "教师因未发福利讲课3分钟就放电影",
+        "onboard_time": 1748093725,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31571,
+        "num": 31571,
+        "word": "平野美宇输球后晕倒",
+        "onboard_time": 1748104703,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30808,
+        "num": 30808,
+        "word": "刘国梁给王楚钦孙颖莎颁奖",
+        "onboard_time": 1748100743,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27297,
+        "num": 27297,
+        "word": "王楚钦称奥运会后两人心态好了很多",
+        "onboard_time": 1748105601,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27274,
+        "num": 27274,
+        "word": "全智贤北京活动",
+        "onboard_time": 1748108897,
+        "rank": 25,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 26728,
+        "num": 26728,
+        "word": "武汉女足夺冠创历史",
+        "onboard_time": 1748102603,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26165,
+        "num": 26165,
+        "word": "中国首座女足亚冠金杯",
+        "onboard_time": 1748104821,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25825,
+        "num": 25825,
+        "word": "戛纳召回",
+        "onboard_time": 1748099126,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25403,
+        "num": 25403,
+        "word": "短剧女演员吐槽影视行业现状",
+        "onboard_time": 1748093603,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25768,
+        "num": 25277,
+        "word": "梁靖崑13比15雨果",
+        "onboard_time": 1748102664,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23713,
+        "num": 23713,
+        "word": "梁靖崑3比3追平",
+        "onboard_time": 1748105480,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21560,
+        "num": 21560,
+        "word": "外国记者被中国手机种草了",
+        "onboard_time": 1748107399,
+        "rank": 32,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 20934,
+        "num": 20934,
+        "word": "林依晨孕7月素颜照",
+        "onboard_time": 1748074580,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20272,
+        "num": 20272,
+        "word": "马嘉祺 无锡",
+        "onboard_time": 1748098465,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20072,
+        "num": 20072,
+        "word": "这就是歌手不选我做观众的原因吗",
+        "onboard_time": 1748118074,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19723,
+        "num": 19723,
+        "word": "藏海这是真引君侯折腰了",
+        "onboard_time": 1748089822,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 19581,
+        "word": "毕赣狂野时代",
+        "onboard_time": 1748101044,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18651,
+        "num": 19573,
+        "word": "单依纯唱完歌手就来追林忆莲了",
+        "onboard_time": 1748097328,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17686,
+        "num": 19571,
+        "word": "安徽多人吃同一家甜品后疑食物中毒",
+        "onboard_time": 1748118314,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17430,
+        "num": 19562,
+        "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
+        "onboard_time": 1748108718,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17347,
+        "num": 19553,
+        "word": "平津侯藏海CP",
+        "onboard_time": 1748091263,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17221,
+        "num": 19547,
+        "word": "梁靖崑11比7雨果",
+        "onboard_time": 1748106078,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16517,
+        "num": 19543,
+        "word": "黄霄雲 大屏",
+        "onboard_time": 1748098825,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16408,
+        "num": 19536,
+        "word": "狂野时代",
+        "onboard_time": 1748097626,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16177,
+        "num": 19531,
+        "word": "苏醒一把摸出猎人酒店房卡",
+        "onboard_time": 1748102843,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16168,
+        "num": 19521,
+        "word": "我家腰儿仿佛刚开播的样子",
+        "onboard_time": 1748088562,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16091,
+        "num": 19513,
+        "word": "清融转会",
+        "onboard_time": 1748088982,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15840,
+        "num": 19503,
+        "word": "李荣浩演唱会送搓澡巾",
+        "onboard_time": 1748106798,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15692,
+        "num": 19495,
+        "word": "全员加速中2025",
+        "onboard_time": 1748099546,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}
