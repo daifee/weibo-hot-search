@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748129001343,
+  "endTime": 1748129892183,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364559,
+      "num": 155337,
+      "word": "叶童终止新白娘子传奇演唱会",
+      "onboard_time": 1748129298,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314669,
       "num": 314669,
       "word": "莫德里奇",
@@ -163,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269277,
+      "num": 269277,
+      "word": "涉事店家回应多人吃甜品后上吐下泻",
+      "onboard_time": 1748115196,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 268755,
       "num": 268755,
       "word": "藏海这是真引君侯折腰了",
@@ -177,14 +193,6 @@
       "onboard_time": 1748099784,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257590,
-      "num": 257590,
-      "word": "涉事店家回应多人吃甜品后上吐下泻",
-      "onboard_time": 1748115196,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 255274,
@@ -211,20 +219,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245714,
+      "num": 245714,
+      "word": "抢手捧花求婚跪错女友当事人回应",
+      "onboard_time": 1748116455,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237332,
       "num": 237332,
       "word": "肖战张婧仪即兴发挥",
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219458,
-      "num": 219458,
-      "word": "抢手捧花求婚跪错女友当事人回应",
-      "onboard_time": 1748116455,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215972,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180676,
+      "num": 180676,
+      "word": "董明珠说孟羽童被开除失去最好机会",
+      "onboard_time": 1748090423,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179326,
       "num": 202474,
       "word": "武汉女足夺冠创历史",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 175891,
-      "num": 175891,
+      "num": 177573,
       "word": "梁靖崑无缘决赛",
       "onboard_time": 1748106559,
       "rank": 18,
@@ -321,14 +337,6 @@
       "onboard_time": 1748093663,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161678,
-      "num": 161678,
-      "word": "董明珠说孟羽童被开除失去最好机会",
-      "onboard_time": 1748090423,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157812,
@@ -369,6 +377,22 @@
       "onboard_time": 1748087480,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139420,
+      "num": 103393,
+      "word": "女子恋爱后出现胃痛反酸口臭症状",
+      "onboard_time": 1748128517,
+      "rank": 30,
+      "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 138633,
+      "num": 138633,
+      "word": "刘雨欣是我好莱坞唯一的人脉",
+      "onboard_time": 1748113217,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 137116,
@@ -435,14 +459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118888,
-      "num": 118888,
-      "word": "刘雨欣是我好莱坞唯一的人脉",
-      "onboard_time": 1748113217,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117113,
       "num": 117113,
       "word": "我家腰儿仿佛刚开播的样子",
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102162,
+      "num": 102162,
+      "word": "闭关半年李子柒现身婺源",
+      "onboard_time": 1748128157,
+      "rank": 28,
+      "category": "其它"
+    },
+    {
       "raw_hot": 101314,
       "num": 110242,
       "word": "最怕毛不易突然的关心",
@@ -515,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98529,
-      "num": 65247,
-      "word": "女子恋爱后出现胃痛反酸口臭症状",
-      "onboard_time": 1748128517,
-      "rank": 30,
-      "category": "民生新闻,情感"
+      "raw_hot": 96612,
+      "num": 107546,
+      "word": "16岁的吴费曼",
+      "onboard_time": 1748127917,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 96264,
@@ -555,12 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84745,
-      "num": 93085,
-      "word": "16岁的吴费曼",
-      "onboard_time": 1748127917,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 84023,
+      "num": 84023,
+      "word": "全员加速中",
+      "onboard_time": 1748128577,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83026,
+      "num": 81684,
+      "word": "魏劭想做真夫妻",
+      "onboard_time": 1748091141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 82949,
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81851,
+      "num": 81851,
+      "word": "王曼昱4比0胜陈幸同",
+      "onboard_time": 1748128398,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81399,
       "num": 81399,
       "word": "李荣浩演唱会送搓澡巾",
@@ -595,80 +635,64 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 76035,
-      "num": 76035,
-      "word": "全员加速中",
-      "onboard_time": 1748128577,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 66704,
-      "num": 66704,
-      "word": "闭关半年李子柒现身婺源",
-      "onboard_time": 1748128157,
-      "rank": 28,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 63567,
-      "num": 63567,
-      "word": "魏劭想做真夫妻",
-      "onboard_time": 1748091141,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60846,
-      "num": 65522,
-      "word": "王曼昱4比0胜陈幸同",
-      "onboard_time": 1748128398,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60317,
-      "num": 60317,
-      "word": "王曼昱相信自己状态没有问题",
-      "onboard_time": 1748128157,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 54119,
-      "num": 54119,
+      "raw_hot": 77746,
+      "num": 77746,
       "word": "肖战回复沙宝亮",
       "onboard_time": 1748128637,
       "rank": 37,
       "category": "艺人"
     },
     {
-      "raw_hot": 53424,
-      "num": 53424,
+      "raw_hot": 72771,
+      "num": 72771,
       "word": "孙颖莎回应女单国乒会师决赛",
       "onboard_time": 1748128157,
       "rank": 39,
       "category": "体育"
     },
     {
-      "raw_hot": 52591,
-      "num": 52591,
+      "raw_hot": 63131,
+      "num": 63131,
+      "word": "敖瑞鹏联系最多的圈内好友是白鹿",
+      "onboard_time": 1748128998,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62390,
+      "num": 62390,
+      "word": "王曼昱相信自己状态没有问题",
+      "onboard_time": 1748128157,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60156,
+      "num": 60156,
       "word": "甲状腺癌并非成人专属",
       "onboard_time": 1748128759,
       "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45739,
-      "num": 51871,
+      "raw_hot": 58926,
+      "num": 58926,
+      "word": "王曼昱蒯曼vs波尔卡诺娃斯佐科斯",
+      "onboard_time": 1748129477,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48777,
+      "num": 56212,
       "word": "小米YU7电动内翻门把手",
       "onboard_time": 1748128277,
       "rank": 44,
       "category": "汽车"
     },
     {
-      "raw_hot": 45619,
-      "num": 51866,
+      "raw_hot": 46682,
+      "num": 56123,
       "word": "我在卡塔尔航空得到一枚免费钻戒",
       "onboard_time": 1748120834,
       "rank": 48,
@@ -681,6 +705,22 @@
       "onboard_time": 1748104280,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42129,
+      "num": 169697,
+      "word": "朝鲜驱逐舰下水事故3人被拘",
+      "onboard_time": 1748129358,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34691,
+      "num": 354023,
+      "word": "海洋经济总量首次突破10万亿元",
+      "onboard_time": 1748095287,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33647,
@@ -705,14 +745,6 @@
       "onboard_time": 1748118074,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31163,
-      "num": 354023,
-      "word": "海洋经济总量首次突破10万亿元",
-      "onboard_time": 1748095287,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28365,
