@@ -1,0 +1,410 @@
+{
+  "runTime": 1748061861134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1251616,
+        "num": 1251616,
+        "word": "2.5天休假模式真的来了",
+        "onboard_time": 1748008354,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 892661,
+        "num": 892661,
+        "word": "何炅眼眶都红了",
+        "onboard_time": 1748054240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14664,
+        "num": 831579,
+        "word": "中国东盟联手放大招",
+        "onboard_time": 1748061502,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 772479,
+        "num": 772479,
+        "word": "雨果成首位获世乒赛奖牌的巴西选手",
+        "onboard_time": 1748059883,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668389,
+        "num": 668389,
+        "word": "倪虹洁戴了19年前祝无双的耳环",
+        "onboard_time": 1748058501,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534818,
+        "num": 534818,
+        "word": "爷爷不泡茶17元奶茶未开封只有半杯",
+        "onboard_time": 1748047161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642919,
+        "num": 530973,
+        "word": "新冠刚康复的陈奕迅演唱会上爆咳",
+        "onboard_time": 1748056521,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 523088,
+        "num": 523088,
+        "word": "郑恺被跑男做局了",
+        "onboard_time": 1748055261,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501633,
+        "num": 501633,
+        "word": "央视曝光上门免费服务骗局",
+        "onboard_time": 1748053341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496233,
+        "num": 496233,
+        "word": "特朗普补刀哈佛很多学生不会算2加2",
+        "onboard_time": 1748059701,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 716841,
+        "num": 462549,
+        "word": "女子旅游病逝回国验尸发现没了心脏",
+        "onboard_time": 1748049081,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 686854,
+        "num": 459741,
+        "word": "单依纯 猪欲",
+        "onboard_time": 1748054482,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 424009,
+        "num": 424009,
+        "word": "国际体育仲裁院维持吕小军4年禁赛",
+        "onboard_time": 1748059582,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410307,
+        "num": 410307,
+        "word": "肖战一句话解读藏海传",
+        "onboard_time": 1748050881,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158686,
+        "num": 374804,
+        "word": "波音花钱解决了346死坠机刑责",
+        "onboard_time": 1748058682,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367551,
+        "num": 367551,
+        "word": "多哈世乒赛最抽象的事发生了",
+        "onboard_time": 1748056641,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335420,
+        "num": 335420,
+        "word": "丁太升说林志炫有上一季那英的影子",
+        "onboard_time": 1748058143,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323046,
+        "num": 323046,
+        "word": "古茗TOP1申请出战",
+        "onboard_time": 1748059883,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275210,
+        "num": 275210,
+        "word": "赵丽颖在人间 水仙",
+        "onboard_time": 1748054841,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13306,
+        "num": 261986,
+        "word": "大型轮船建造好后是如何下水的",
+        "onboard_time": 1748061081,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 253167,
+        "num": 253167,
+        "word": "美国得州拟禁止中国等国公民买房",
+        "onboard_time": 1748051240,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243669,
+        "num": 243669,
+        "word": "单依纯看马嘉祺介绍短片的反应",
+        "onboard_time": 1748060301,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208676,
+        "num": 208676,
+        "word": "丁真举双手接受吻戏",
+        "onboard_time": 1748059102,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207335,
+        "num": 207335,
+        "word": "九门",
+        "onboard_time": 1748053402,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198220,
+        "num": 198220,
+        "word": "女主是女主男主还是女主",
+        "onboard_time": 1748060841,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36336,
+        "num": 197683,
+        "word": "崇洋媚外只能显示出人格低下",
+        "onboard_time": 1748061743,
+        "rank": 25,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 11869,
+        "num": 196102,
+        "word": "步行者为什么能连赢两场",
+        "onboard_time": 1748061081,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66622,
+        "num": 194535,
+        "word": "歼16重要性不亚于歼20",
+        "onboard_time": 1748060241,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 60529,
+        "num": 192332,
+        "word": "朱媛媛面对生死有多体面",
+        "onboard_time": 1748060483,
+        "rank": 28,
+        "category": "议题讨论,艺人"
+      },
+      {
+        "raw_hot": 9614,
+        "num": 191539,
+        "word": "女子骑电动车摔倒无人搭救",
+        "onboard_time": 1748060420,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190555,
+        "num": 190555,
+        "word": "丁太升说华语乐坛再出王菲要几十年",
+        "onboard_time": 1748059701,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187549,
+        "num": 187549,
+        "word": "歌手补位",
+        "onboard_time": 1748044341,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182535,
+        "num": 182535,
+        "word": "莫雷加德回应对战王楚钦",
+        "onboard_time": 1748057781,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176954,
+        "num": 176954,
+        "word": "锅盖从没想过自己还能发光",
+        "onboard_time": 1748060962,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21824,
+        "num": 174324,
+        "word": "道德模范可学可做可追可及",
+        "onboard_time": 1748061025,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 173372,
+        "num": 173372,
+        "word": "辛柏青坦言妻管严很光荣",
+        "onboard_time": 1748061683,
+        "rank": 35,
+        "category": "议题讨论,艺人"
+      },
+      {
+        "raw_hot": 170246,
+        "num": 170246,
+        "word": "孙颖莎眼含泪光感谢球迷",
+        "onboard_time": 1748058801,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167378,
+        "num": 167378,
+        "word": "光遇",
+        "onboard_time": 1748061441,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "林志炫给歌手留了4个月的档期",
+        "onboard_time": 1748056342,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162699,
+        "num": 162699,
+        "word": "妻子被发现死在情人车里丈夫发声",
+        "onboard_time": 1748056400,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 159424,
+        "word": "接连有孩子因棍棒教育离世",
+        "onboard_time": 1748059883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 157558,
+        "word": "哈佛国际禁招令波及比利时公主",
+        "onboard_time": 1748047942,
+        "rank": 41,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 74046,
+        "num": 156826,
+        "word": "当地小哥开箱中国援助加沙物资",
+        "onboard_time": 1748059282,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57553,
+        "num": 154258,
+        "word": "3人造谣四川放火案被处罚",
+        "onboard_time": 1748053940,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109474,
+        "num": 153649,
+        "word": "波音用11亿美元免去坠机刑事指控",
+        "onboard_time": 1748059701,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76480,
+        "num": 152285,
+        "word": "自己的平房竟被前男友拆了霸占",
+        "onboard_time": 1748059883,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150801,
+        "num": 150801,
+        "word": "小米回应YU7门把手冬天是否会冻住",
+        "onboard_time": 1748060241,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 145472,
+        "num": 145472,
+        "word": "陈楚生回应高音没声",
+        "onboard_time": 1748011887,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 145388,
+        "word": "你好星期六",
+        "onboard_time": 1748060601,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145334,
+        "num": 145334,
+        "word": "鹿晗山下智久互关",
+        "onboard_time": 1748052862,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展制造业总书记这样强调#"
+    }
+  }
+}
