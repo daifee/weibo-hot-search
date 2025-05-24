@@ -1,6 +1,6 @@
 {
   "startTime": 1748017884701,
-  "endTime": 1748100235570,
+  "endTime": 1748101107470,
   "band_list": [
     {
       "raw_hot": 8048944,
@@ -155,6 +155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1161381,
+      "num": 1161381,
+      "word": "刘浩存体重轻到水量纹丝不动",
+      "onboard_time": 1748098706,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1156589,
+      "num": 1156589,
+      "word": "梁靖崑vs雨果",
+      "onboard_time": 1748100024,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1150248,
       "num": 1150248,
       "word": "莎头捧起复刻杯",
@@ -267,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 893374,
-      "num": 893374,
-      "word": "刘浩存体重轻到水量纹丝不动",
-      "onboard_time": 1748098706,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 892849,
+      "num": 892849,
+      "word": "警员视力矫正术后因难忍副作用自尽",
+      "onboard_time": 1748099064,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 877643,
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561053,
+      "num": 456599,
+      "word": "马嘉祺 无锡",
+      "onboard_time": 1748098465,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556584,
       "num": 312246,
       "word": "难听",
@@ -635,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 509468,
-      "num": 407338,
-      "word": "马嘉祺 无锡",
-      "onboard_time": 1748098465,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 501370,
       "num": 339464,
       "word": "教师因未发福利讲课3分钟就放电影",
@@ -721,6 +737,14 @@
       "onboard_time": 1748097686,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451268,
+      "num": 451268,
+      "word": "戛纳召回",
+      "onboard_time": 1748099126,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 450957,
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360309,
-      "num": 360309,
-      "word": "戛纳召回",
-      "onboard_time": 1748099126,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 360263,
       "num": 327439,
       "word": "鹿晗山下智久互关",
@@ -1027,6 +1043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 335448,
+      "num": 253503,
+      "word": "孙颖莎说冠军一次比一次更难",
+      "onboard_time": 1748099484,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334389,
       "num": 334389,
       "word": "九门",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1748013386,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320991,
+      "num": 320991,
+      "word": "肖战张婧仪即兴发挥",
+      "onboard_time": 1748097146,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 319978,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1748065101,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306844,
+      "num": 306844,
+      "word": "单依纯唱完歌手就来追林忆莲了",
+      "onboard_time": 1748097328,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 302693,
@@ -1211,20 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286716,
-      "num": 286716,
-      "word": "梁靖崑vs雨果",
-      "onboard_time": 1748100024,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 286475,
-      "num": 257214,
-      "word": "肖战张婧仪即兴发挥",
-      "onboard_time": 1748097146,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 286014,
+      "num": 286014,
+      "word": "原来缠住苏新皓腿的蟒蛇有86斤",
+      "onboard_time": 1748099784,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 282967,
@@ -1331,19 +1363,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262489,
-      "num": 262489,
-      "word": "单依纯唱完歌手就来追林忆莲了",
-      "onboard_time": 1748097328,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 260361,
       "num": 260361,
       "word": "王楚钦4比1赢了",
       "onboard_time": 1748082201,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256452,
+      "num": 256452,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1748100382,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1433,14 +1465,6 @@
       "onboard_time": 1748086102,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241708,
-      "num": 259249,
-      "word": "警员视力矫正术后因难忍副作用自尽",
-      "onboard_time": 1748099064,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 239465,
@@ -1539,20 +1563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221113,
-      "num": 250644,
-      "word": "原来缠住苏新皓腿的蟒蛇有86斤",
-      "onboard_time": 1748099784,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219869,
       "num": 354532,
       "word": "陈楚生歌手直播收视增幅Top1",
       "onboard_time": 1748081723,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217991,
+      "num": 217991,
+      "word": "刘国梁为莎头颁发复刻杯",
+      "onboard_time": 1748100743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 217195,
@@ -1745,6 +1769,14 @@
       "onboard_time": 1748059941,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199564,
+      "num": 199564,
+      "word": "最怕毛不易突然的关心",
+      "onboard_time": 1748100685,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 199460,
@@ -2011,14 +2043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184545,
-      "num": 184545,
-      "word": "孙颖莎说冠军一次比一次更难",
-      "onboard_time": 1748099484,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184281,
       "num": 184281,
       "word": "九尾免费租借Hero",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1748075482,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183066,
+      "num": 183066,
+      "word": "F1",
+      "onboard_time": 1748100444,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 180679,
@@ -2307,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162353,
+      "num": 162353,
+      "word": "洪涛看邓紫棋演唱会",
+      "onboard_time": 1748101044,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160470,
       "num": 160470,
       "word": "赵丽颖尹昉张一山在人间演同一个人",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1748069541,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159432,
+      "num": 159432,
+      "word": "毕赣狂野时代",
+      "onboard_time": 1748101044,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 159143,
@@ -2699,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139345,
+      "num": 457116,
+      "word": "多方回应高中生与教授父亲共发SCI论文",
+      "onboard_time": 1748100024,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139267,
       "num": 139267,
       "word": "浙江文旅",
@@ -2899,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125009,
+      "num": 255614,
+      "word": "沙宝亮演技",
+      "onboard_time": 1748100024,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125006,
       "num": 181454,
       "word": "张靓颖你这么唱就对了",
@@ -2928,6 +2992,22 @@
       "word": "潘展乐50自是报着玩的",
       "onboard_time": 1748078242,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122376,
+      "num": 267701,
+      "word": "坦然转会",
+      "onboard_time": 1748100145,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121828,
+      "num": 186696,
+      "word": "武汉女足夺得亚冠冠军",
+      "onboard_time": 1748100382,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -3307,14 +3387,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 95106,
-      "num": 255614,
-      "word": "沙宝亮演技",
-      "onboard_time": 1748100024,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95024,
       "num": 370532,
       "word": "男子雇人80元1条刷差评被判赔3万",
@@ -3329,14 +3401,6 @@
       "onboard_time": 1748070201,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93806,
-      "num": 195615,
-      "word": "坦然转会",
-      "onboard_time": 1748100145,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 93592,
@@ -3731,14 +3795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59027,
-      "num": 293480,
-      "word": "多方回应高中生与教授父亲共发SCI论文",
-      "onboard_time": 1748100024,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58936,
       "num": 166460,
       "word": "林诗栋说继续向梁靖崑学习",
@@ -3931,6 +3987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 44148,
+      "num": 298451,
+      "word": "木星进入巨蟹座水象将迎来哪些机遇",
+      "onboard_time": 1748098645,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44012,
       "num": 121236,
       "word": "哈佛中国访问学者发声",
@@ -3953,6 +4017,14 @@
       "onboard_time": 1748067741,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43672,
+      "num": 253516,
+      "word": "中国人为何如此钟爱碳水",
+      "onboard_time": 1748100382,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 43571,
@@ -3979,12 +4051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 40610,
-      "num": 298451,
-      "word": "木星进入巨蟹座水象将迎来哪些机遇",
-      "onboard_time": 1748098645,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 41053,
+      "num": 155617,
+      "word": "张展硕1500自和400混只隔了15分钟",
+      "onboard_time": 1748100266,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 39418,
@@ -4233,6 +4305,14 @@
       "onboard_time": 1748034615,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24057,
+      "num": 281555,
+      "word": "为何夏季室内空气污染比室外更严重",
+      "onboard_time": 1748100382,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23986,
