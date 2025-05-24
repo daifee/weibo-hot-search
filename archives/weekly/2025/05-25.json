@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748125406295,
+  "endTime": 1748126459350,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123106,
+      "num": 123106,
+      "word": "涉事店家回应多人吃甜品后上吐下泻",
+      "onboard_time": 1748115196,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 122569,
       "num": 122569,
       "word": "中国首座女足亚冠金杯",
@@ -457,6 +465,14 @@
       "onboard_time": 1748097746,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107146,
+      "num": 107146,
+      "word": "抢手捧花求婚跪错女友当事人回应",
+      "onboard_time": 1748116455,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105081,
@@ -515,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89983,
-      "num": 89983,
-      "word": "涉事店家回应多人吃甜品后上吐下泻",
-      "onboard_time": 1748115196,
-      "rank": 29,
-      "category": "舆论监督"
+      "raw_hot": 83324,
+      "num": 83324,
+      "word": "刘雨欣是我好莱坞唯一的人脉",
+      "onboard_time": 1748113217,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 82949,
@@ -555,22 +571,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 76094,
-      "num": 76094,
-      "word": "抢手捧花求婚跪错女友当事人回应",
-      "onboard_time": 1748116455,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64748,
-      "num": 64748,
-      "word": "刘雨欣是我好莱坞唯一的人脉",
-      "onboard_time": 1748113217,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43546,
       "num": 157910,
       "word": "武汉女足6比5墨尔本城女足",
@@ -595,28 +595,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27810,
-      "num": 27810,
+      "raw_hot": 31686,
+      "num": 35615,
       "word": "这就是歌手不选我做观众的原因吗",
       "onboard_time": 1748118074,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 27101,
-      "num": 34222,
-      "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
-      "onboard_time": 1748108718,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23235,
-      "num": 25386,
+      "raw_hot": 28720,
+      "num": 35608,
       "word": "我在卡塔尔航空得到一枚免费钻戒",
       "onboard_time": 1748120834,
       "rank": 48,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 28365,
+      "num": 35603,
+      "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
+      "onboard_time": 1748108718,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 21749,
@@ -627,11 +627,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18461,
-      "num": 25345,
+      "raw_hot": 20626,
+      "num": 35552,
       "word": "安徽多人吃同一家甜品后疑食物中毒",
       "onboard_time": 1748118314,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17559,
+      "num": 354023,
+      "word": "海洋经济总量首次突破10万亿元",
+      "onboard_time": 1748095287,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -643,11 +651,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13985,
-      "num": 354023,
-      "word": "海洋经济总量首次突破10万亿元",
-      "onboard_time": 1748095287,
-      "rank": 2,
+      "raw_hot": 12227,
+      "num": 83630,
+      "word": "2000年前的铜壶蒜香味十足",
+      "onboard_time": 1748125217,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
