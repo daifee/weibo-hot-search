@@ -1,0 +1,410 @@
+{
+  "runTime": 1748184031147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6929594,
+        "num": 6929594,
+        "word": "王楚钦冠军",
+        "onboard_time": 1748179650,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2509920,
+        "num": 2509920,
+        "word": "王曼昱蒯曼冠军",
+        "onboard_time": 1748182405,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162656,
+        "num": 1731810,
+        "word": "美国90%圣诞用品来自中国制造",
+        "onboard_time": 1748180370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1336414,
+        "num": 1336414,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1748175083,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1295139,
+        "num": 1295139,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1047833,
+        "num": 1047833,
+        "word": "王楚钦成首位00后男单世界冠军",
+        "onboard_time": 1748182825,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 800457,
+        "num": 800457,
+        "word": "藏海传收视率",
+        "onboard_time": 1748180309,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790541,
+        "num": 790541,
+        "word": "Angelababy眼睫碎钻",
+        "onboard_time": 1748182886,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 759690,
+        "num": 759690,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1748177123,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341558,
+        "num": 758805,
+        "word": "刘端端演技",
+        "onboard_time": 1748177782,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1414481,
+        "num": 756841,
+        "word": "女子遭雷击去世丈夫疑因人工降雨",
+        "onboard_time": 1748180728,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965015,
+        "num": 752384,
+        "word": "王楚钦说心头多年的结解开了",
+        "onboard_time": 1748183604,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 984786,
+        "num": 752003,
+        "word": "杨颖好权威的一张脸",
+        "onboard_time": 1748174546,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 749629,
+        "num": 749629,
+        "word": "孙颖莎夺冠后看向CoCo",
+        "onboard_time": 1748183186,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253669,
+        "num": 650802,
+        "word": "平津侯 渣男",
+        "onboard_time": 1748176403,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581513,
+        "num": 581513,
+        "word": "王曼昱蒯曼vs波尔卡诺娃斯佐科斯",
+        "onboard_time": 1748180667,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122447,
+        "num": 581369,
+        "word": "吴尊观战郑钦文",
+        "onboard_time": 1748182825,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 29918,
+        "num": 576221,
+        "word": "用生鸡蛋做提拉米苏会食物中毒吗",
+        "onboard_time": 1748183484,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 573799,
+        "word": "海归女子家中被捅10刀遇害案将开庭",
+        "onboard_time": 1748182226,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73460,
+        "num": 570278,
+        "word": "不愧是世乒赛女单决赛",
+        "onboard_time": 1748172200,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482324,
+        "num": 566746,
+        "word": "赵丽颖犹豫半天比了个苹果",
+        "onboard_time": 1748177963,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565082,
+        "num": 565082,
+        "word": "孙颖莎说输掉第6局后有一丝绝望",
+        "onboard_time": 1748179224,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547176,
+        "num": 547176,
+        "word": "吴敬平祝贺大头首获世锦赛男单冠军",
+        "onboard_time": 1748183186,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246584,
+        "num": 514499,
+        "word": "藏海翻了个白眼才开演",
+        "onboard_time": 1748178324,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500061,
+        "num": 500061,
+        "word": "王楚钦王皓拿着国旗拥抱",
+        "onboard_time": 1748181745,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43342,
+        "num": 384097,
+        "word": "特朗普掐准哈佛暑假搞事情",
+        "onboard_time": 1748183845,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337943,
+        "num": 337943,
+        "word": "女单冠亚季军自拍来了",
+        "onboard_time": 1748179405,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195997,
+        "num": 326002,
+        "word": "范丞丞镜头下的章若楠",
+        "onboard_time": 1748169022,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178107,
+        "num": 316784,
+        "word": "孙恩盛 维港红毯",
+        "onboard_time": 1748182285,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43159,
+        "num": 316454,
+        "word": "韩国多地结婚能领钱",
+        "onboard_time": 1748182585,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316286,
+        "num": 316286,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1748180788,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261800,
+        "num": 261800,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261716,
+        "num": 261716,
+        "word": "不然退役",
+        "onboard_time": 1748179770,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245228,
+        "num": 245228,
+        "word": "女子闯红灯拒检逃逸后自撞身亡",
+        "onboard_time": 1748172022,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128880,
+        "num": 242158,
+        "word": "和花海一起看烟花",
+        "onboard_time": 1748183546,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240646,
+        "num": 240646,
+        "word": "多哈世乒赛国乒4金1银2铜",
+        "onboard_time": 1748183484,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199956,
+        "num": 199956,
+        "word": "王曼昱总结世乒赛表现",
+        "onboard_time": 1748183604,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342977,
+        "num": 198183,
+        "word": "王楚钦首获圣勃莱德杯",
+        "onboard_time": 1748181327,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162031,
+        "num": 196126,
+        "word": "紫川",
+        "onboard_time": 1748181504,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195966,
+        "num": 195966,
+        "word": "白宇拍的孙颖莎王楚钦",
+        "onboard_time": 1748183186,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36089,
+        "num": 188249,
+        "word": "主播拒绝擦边直播被公司索赔10万元",
+        "onboard_time": 1748183903,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184832,
+        "num": 184832,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165553,
+        "num": 165553,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "田曦薇紫色抹胸纱裙",
+        "onboard_time": 1748177183,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148391,
+        "num": 148391,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147679,
+        "num": 147679,
+        "word": "肖战就该演美强惨",
+        "onboard_time": 1748177963,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147257,
+        "num": 147257,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145730,
+        "num": 145730,
+        "word": "idle匿名纸条",
+        "onboard_time": 1748173827,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145000,
+        "num": 145000,
+        "word": "奔跑吧直播",
+        "onboard_time": 1748170222,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141888,
+        "num": 141888,
+        "word": "林志炫你也在看亚洲新声吗",
+        "onboard_time": 1748181027,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要有新气象新作为#"
+    }
+  }
+}

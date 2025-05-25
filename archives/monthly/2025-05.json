@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748182953857,
+  "endTime": 1748184031147,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -633,6 +633,14 @@
       "onboard_time": 1747889664,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2509920,
+      "num": 2509920,
+      "word": "王曼昱蒯曼冠军",
+      "onboard_time": 1748182405,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2498327,
@@ -1715,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1647221,
-      "num": 1647221,
-      "word": "王曼昱蒯曼冠军",
-      "onboard_time": 1748182405,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1645715,
       "num": 1645715,
       "word": "央视曝光怕被卫星拍到的垃圾山",
@@ -2497,6 +2497,14 @@
       "onboard_time": 1747454490,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1414481,
+      "num": 976221,
+      "word": "女子遭雷击去世丈夫疑因人工降雨",
+      "onboard_time": 1748180728,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1413247,
@@ -4659,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1047833,
+      "num": 1047833,
+      "word": "王楚钦成首位00后男单世界冠军",
+      "onboard_time": 1748182825,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1046925,
       "num": 1046925,
       "word": "学生班级搞孤立老师坚定停课惩治",
@@ -5163,14 +5179,6 @@
       "category": "海外新闻,民生新闻"
     },
     {
-      "raw_hot": 976221,
-      "num": 976221,
-      "word": "女子遭雷击去世丈夫疑因人工降雨",
-      "onboard_time": 1748180728,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 972352,
       "num": 972352,
       "word": "台当局将96%汉人改为其余人口遭批",
@@ -5289,6 +5297,14 @@
       "onboard_time": 1746272480,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 965015,
+      "num": 752384,
+      "word": "王楚钦说心头多年的结解开了",
+      "onboard_time": 1748183604,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 964554,
@@ -7131,6 +7147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 790541,
+      "num": 790541,
+      "word": "Angelababy眼睫碎钻",
+      "onboard_time": 1748182886,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 789667,
       "num": 301430,
       "word": "甘薇让大家别替赵丽颖操心",
@@ -7743,6 +7767,14 @@
       "num": 749681,
       "word": "王楚钦王皓拿着国旗拥抱",
       "onboard_time": 1748181745,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 749629,
+      "num": 749629,
+      "word": "孙颖莎夺冠后看向CoCo",
+      "onboard_time": 1748183186,
       "rank": 13,
       "category": "体育"
     },
@@ -11947,6 +11979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547176,
+      "num": 547176,
+      "word": "吴敬平祝贺大头首获世锦赛男单冠军",
+      "onboard_time": 1748183186,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547161,
       "num": 547161,
       "word": "RNG恭喜Uzi",
@@ -12465,14 +12505,6 @@
       "onboard_time": 1746875663,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528938,
-      "num": 528938,
-      "word": "王楚钦成首位00后男单世界冠军",
-      "onboard_time": 1748182825,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 528702,
@@ -17585,14 +17617,6 @@
       "onboard_time": 1748060301,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382326,
-      "num": 382326,
-      "word": "Angelababy眼睫碎钻",
-      "onboard_time": 1748182886,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382175,
@@ -27691,6 +27715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 240646,
+      "num": 240646,
+      "word": "多哈世乒赛国乒4金1银2铜",
+      "onboard_time": 1748183484,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240527,
       "num": 203561,
       "word": "298的票我自己唱了290",
@@ -35219,6 +35251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199956,
+      "num": 199956,
+      "word": "王曼昱总结世乒赛表现",
+      "onboard_time": 1748183604,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199915,
       "num": 418445,
       "word": "盖茨基金会计划2045年底永久关闭",
@@ -36601,6 +36641,14 @@
       "onboard_time": 1747586481,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195966,
+      "num": 195966,
+      "word": "白宇拍的孙颖莎王楚钦",
+      "onboard_time": 1748183186,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 195955,
@@ -48361,6 +48409,14 @@
       "onboard_time": 1747658423,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162208,
+      "num": 616238,
+      "word": "海归女子家中被捅10刀遇害案将开庭",
+      "onboard_time": 1748182226,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162166,
@@ -61675,6 +61731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128880,
+      "num": 242158,
+      "word": "和花海一起看烟花",
+      "onboard_time": 1748183546,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "不得任意修改纪念活动标识",
@@ -64329,6 +64393,14 @@
       "onboard_time": 1747712482,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122447,
+      "num": 581369,
+      "word": "吴尊观战郑钦文",
+      "onboard_time": 1748182825,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 122429,
@@ -69499,14 +69571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107732,
-      "num": 616238,
-      "word": "海归女子家中被捅10刀遇害案将开庭",
-      "onboard_time": 1748182226,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107712,
       "num": 107712,
       "word": "张云龙回复沈月",
@@ -73297,14 +73361,6 @@
       "onboard_time": 1748077521,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93463,
-      "num": 356693,
-      "word": "吴尊观战郑钦文",
-      "onboard_time": 1748182825,
-      "rank": 36,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 93383,
@@ -85355,6 +85411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43342,
+      "num": 384097,
+      "word": "特朗普掐准哈佛暑假搞事情",
+      "onboard_time": 1748183845,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43335,
       "num": 193650,
       "word": "俄乌将进行千人对千人换俘",
@@ -87473,6 +87537,14 @@
       "onboard_time": 1747805005,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 36089,
+      "num": 188249,
+      "word": "主播拒绝擦边直播被公司索赔10万元",
+      "onboard_time": 1748183903,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36022,
@@ -89689,6 +89761,14 @@
       "onboard_time": 1747715424,
       "rank": 37,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 29918,
+      "num": 576221,
+      "word": "用生鸡蛋做提拉米苏会食物中毒吗",
+      "onboard_time": 1748183484,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29856,
