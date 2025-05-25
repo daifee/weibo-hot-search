@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/25 07:38:12
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/25 10:07:31
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ CP31开票（热度：1334205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E7%BB%88%E6%AD%A2%E6%96%B0%E7%99%BD%E5%A8%98%E5%AD%90%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+叶童终止新白娘子传奇演唱会（热度：1294456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%20%E8%B6%85%E6%97%B6%23" target="weibo">
 罗云熙 超时（热度：1293412）
 </a>
@@ -3317,6 +3323,12 @@ deepseek（热度：1099496）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%9F%E9%95%BF%23" target="weibo">
 队长（热度：1053483）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%A6%AE%E5%85%8B%E5%AD%9C%E5%9B%A0%E4%B8%BA%E6%88%B4%E7%9C%BC%E9%95%9C%E6%8E%A2%E7%8F%AD%E8%A2%AB%E6%8D%A2%E8%A7%92%23" target="weibo">
+哈妮克孜因为戴眼镜探班被换角（热度：1051188）
 </a>
 </li>
 
@@ -4995,6 +5007,12 @@ deepseek（热度：1099496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%A5%BF%E7%93%9C%E6%B1%81%23" target="weibo">
+马来西亚西瓜汁（热度：807109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A575%E4%B8%87%E9%87%87%E8%B4%AD%E5%B8%82%E4%BB%B7299%E5%85%83%E4%BA%A7%E5%93%81%23" target="weibo">
 高校通报75万采购市价299元产品（热度：806463）
 </a>
@@ -5993,24 +6011,6 @@ Grace好敢说（热度：750974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%B1%AA%E9%A1%BA%E5%AD%99%E6%9D%A8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7%23" target="weibo">
 潘展乐汪顺孙杨携手晋级（热度：717266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E4%BD%A0%E8%A6%81%E8%BF%99%E4%B9%88%E7%8E%A9%E6%88%91%E6%94%AF%E6%8C%81%E9%98%BF%E4%BA%91%E5%98%8E%23" target="weibo">
-歌手你要这么玩我支持阿云嘎（热度：716991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%B7%AA%E6%B1%82%E9%A5%B6%E5%BF%85%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%89%80%E4%B8%8D%E9%BD%BF%23" target="weibo">
-下跪求饶必为中国人民所不齿（热度：716918）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E8%AE%A9%E9%AB%98%E9%93%81%E5%95%86%E5%8A%A1%E5%BA%A7%E4%BA%8F%E9%92%B1%E7%9A%84%E4%BA%BA%23" target="weibo">
-唯一一个让高铁商务座亏钱的人（热度：716707）
 </a>
 </li>
 

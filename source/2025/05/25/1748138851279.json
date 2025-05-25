@@ -1,0 +1,410 @@
+{
+  "runTime": 1748138851279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294456,
+        "num": 1294456,
+        "word": "叶童终止新白娘子传奇演唱会",
+        "onboard_time": 1748129298,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 648697,
+        "num": 648697,
+        "word": "王楚钦雨果争冠",
+        "onboard_time": 1748105899,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5627,
+        "num": 391597,
+        "word": "网警重拳出击摧毁一网络水军团伙",
+        "onboard_time": 1748138780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051188,
+        "num": 381013,
+        "word": "哈妮克孜因为戴眼镜探班被换角",
+        "onboard_time": 1748133440,
+        "rank": 3,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 366976,
+        "num": 366976,
+        "word": "美国警员视力矫正术后因难忍副作用自尽",
+        "onboard_time": 1748099064,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320993,
+        "num": 320993,
+        "word": "王曼昱回应与孙颖莎决赛会师",
+        "onboard_time": 1748131879,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700023,
+        "num": 319399,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621946,
+        "num": 318811,
+        "word": "肖战谍报上不封顶今日开机",
+        "onboard_time": 1748138180,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317463,
+        "num": 317463,
+        "word": "朝鲜驱逐舰下水事故3人被拘",
+        "onboard_time": 1748129358,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232269,
+        "num": 232269,
+        "word": "涉事店家回应多人吃甜品后上吐下泻",
+        "onboard_time": 1748115196,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 807109,
+        "num": 231467,
+        "word": "马来西亚西瓜汁",
+        "onboard_time": 1748133320,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334227,
+        "num": 230193,
+        "word": "小伙称连吃28天鸡腿饭瘦10多斤",
+        "onboard_time": 1748102903,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293565,
+        "num": 229867,
+        "word": "杨肸子说杨紫在剧组从不拿剧本",
+        "onboard_time": 1748097146,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253911,
+        "num": 228095,
+        "word": "易烊千玺狂野时代获奖发文",
+        "onboard_time": 1748133741,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45036,
+        "num": 227353,
+        "word": "海洋经济总量首次突破10万亿元",
+        "onboard_time": 1748095287,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226311,
+        "num": 226311,
+        "word": "抢手捧花求婚跪错女友当事人回应",
+        "onboard_time": 1748116455,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216704,
+        "num": 216704,
+        "word": "张继科觉得冠军还是会留在中国",
+        "onboard_time": 1748130378,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210529,
+        "num": 210529,
+        "word": "肖战回复沙宝亮",
+        "onboard_time": 1748128637,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205908,
+        "num": 205908,
+        "word": "谍报上不封顶宣传片先行版",
+        "onboard_time": 1748138361,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176252,
+        "num": 176252,
+        "word": "飞天仙女每天撒30万片花瓣全靠手搓",
+        "onboard_time": 1748132179,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340116,
+        "num": 176031,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273454,
+        "num": 175637,
+        "word": "女子恋爱后出现胃痛反酸口臭症状",
+        "onboard_time": 1748128517,
+        "rank": 21,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 238077,
+        "num": 175189,
+        "word": "亳州上百人吃网红提拉米苏后进医院",
+        "onboard_time": 1748132900,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235105,
+        "num": 174967,
+        "word": "教师因未发福利讲课3分钟就放电影",
+        "onboard_time": 1748093725,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219549,
+        "num": 174231,
+        "word": "女子备孕5年4次试管全失败",
+        "onboard_time": 1748130019,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192694,
+        "num": 173827,
+        "word": "敖瑞鹏联系最多的圈内好友是白鹿",
+        "onboard_time": 1748128998,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173713,
+        "num": 173713,
+        "word": "刘雨欣是我好莱坞唯一的人脉",
+        "onboard_time": 1748113217,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170878,
+        "num": 170878,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1748094746,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 170176,
+        "word": "爱自己是一生必修的功课",
+        "onboard_time": 1748137701,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168091,
+        "num": 168091,
+        "word": "女子自称领低保并在银行上班引质疑",
+        "onboard_time": 1748135780,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159954,
+        "num": 159954,
+        "word": "特朗普表演耳朵被击中",
+        "onboard_time": 1748132721,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147072,
+        "num": 147072,
+        "word": "白宫被裁工作人员当场哭泣",
+        "onboard_time": 1748137401,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134480,
+        "num": 134480,
+        "word": "重庆一流浪狗凭乖吃饱饭",
+        "onboard_time": 1748136022,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132806,
+        "num": 132806,
+        "word": "金棕榈",
+        "onboard_time": 1748136860,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124670,
+        "num": 124670,
+        "word": "16岁费曼近照",
+        "onboard_time": 1748102242,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 121812,
+        "word": "榴莲又便宜了",
+        "onboard_time": 1748132179,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119530,
+        "num": 119530,
+        "word": "戛纳召回",
+        "onboard_time": 1748099126,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113232,
+        "num": 113232,
+        "word": "雨果回应4比3胜梁靖崑",
+        "onboard_time": 1748130077,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 111799,
+        "word": "孙颖莎决赛vs王曼昱",
+        "onboard_time": 1748138780,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111540,
+        "num": 111540,
+        "word": "闭关半年李子柒现身婺源",
+        "onboard_time": 1748128157,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 107175,
+        "num": 107175,
+        "word": "张继科说世乒赛输赢都正常",
+        "onboard_time": 1748133741,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104036,
+        "num": 104036,
+        "word": "全红婵现身跳水冠军赛现场",
+        "onboard_time": 1748135241,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101502,
+        "num": 101502,
+        "word": "哈佛被停招国际生后的校园现状",
+        "onboard_time": 1748131459,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93871,
+        "num": 93871,
+        "word": "心疼志强",
+        "onboard_time": 1748136919,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92931,
+        "num": 92931,
+        "word": "小猫爬墙急坏猫妈",
+        "onboard_time": 1748137281,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90187,
+        "num": 90187,
+        "word": "MV重温王楚钦孙颖莎夺冠之路",
+        "onboard_time": 1748138420,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88494,
+        "num": 88494,
+        "word": "KPL运动会",
+        "onboard_time": 1748138780,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87230,
+        "num": 87230,
+        "word": "全红婵的发夹好可爱",
+        "onboard_time": 1748136619,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86984,
+        "num": 86984,
+        "word": "云南的夏天有浪漫紫色花海",
+        "onboard_time": 1748135000,
+        "rank": 48,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 86980,
+        "num": 86980,
+        "word": "绝意转会",
+        "onboard_time": 1748138059,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}
