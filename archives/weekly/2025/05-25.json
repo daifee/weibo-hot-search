@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748215424849,
+  "endTime": 1748216300985,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1193417,
+      "num": 1016223,
+      "word": "公职人员出差周末自费旅游算违纪吗",
+      "onboard_time": 1748187864,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1146745,
       "num": 1183479,
       "word": "高圆圆说90%的社交对她都是消耗",
@@ -249,14 +257,6 @@
       "onboard_time": 1748133440,
       "rank": 3,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 1043516,
-      "num": 1016223,
-      "word": "公职人员出差周末自费旅游算违纪吗",
-      "onboard_time": 1748187864,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1016295,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 724716,
-      "num": 831388,
+      "num": 923760,
       "word": "李乃文喊话辛柏青有我们",
       "onboard_time": 1748193077,
       "rank": 12,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582734,
+      "num": 239321,
+      "word": "赵丽颖杨幂Angelababy活动生图",
+      "onboard_time": 1748193917,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 579752,
       "num": 579752,
       "word": "奔跑吧直播",
@@ -649,14 +657,6 @@
       "onboard_time": 1748183186,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 545296,
-      "num": 239321,
-      "word": "赵丽颖杨幂Angelababy活动生图",
-      "onboard_time": 1748193917,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 535006,
@@ -1035,6 +1035,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 321306,
+      "num": 150837,
+      "word": "生理性喜欢和心理性喜欢的区别",
+      "onboard_time": 1748214678,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 320993,
       "num": 320993,
       "word": "王曼昱回应与孙颖莎决赛会师",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1748115196,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 269128,
-      "num": 142072,
-      "word": "生理性喜欢和心理性喜欢的区别",
-      "onboard_time": 1748214678,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 268755,
@@ -1811,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193325,
+      "num": 149165,
+      "word": "朱媛媛去世为何全民哀悼",
+      "onboard_time": 1748214739,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192812,
       "num": 192812,
       "word": "折腰",
@@ -2251,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165838,
+      "num": 97660,
+      "word": "何卓佳晒与孙颖莎合照",
+      "onboard_time": 1748215939,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165618,
       "num": 165618,
       "word": "戛纳评委谈为何给狂野时代特别奖",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1748191699,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158950,
+      "num": 168175,
+      "word": "特朗普威胁停止向哈佛大学拨款",
+      "onboard_time": 1748215639,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158371,
@@ -2684,7 +2708,7 @@
     },
     {
       "raw_hot": 138388,
-      "num": 142073,
+      "num": 155610,
       "word": "癸玺才是藏海一家灭门的根源",
       "onboard_time": 1748192538,
       "rank": 19,
@@ -2883,14 +2907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130443,
-      "num": 130443,
-      "word": "朱媛媛去世为何全民哀悼",
-      "onboard_time": 1748214739,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129834,
       "num": 129834,
       "word": "跑男嗑学家在哪里",
@@ -2996,7 +3012,7 @@
     },
     {
       "raw_hot": 125342,
-      "num": 142216,
+      "num": 157152,
       "word": "李沐宸对公开恋情的态度",
       "onboard_time": 1748214739,
       "rank": 18,
@@ -3612,7 +3628,7 @@
     },
     {
       "raw_hot": 91640,
-      "num": 91640,
+      "num": 101679,
       "word": "骗杀父仇人进火场救自己",
       "onboard_time": 1748191939,
       "rank": 44,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1748096786,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89907,
+      "num": 89907,
+      "word": "白桃星座",
+      "onboard_time": 1748214678,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 88158,
@@ -3692,7 +3716,7 @@
     },
     {
       "raw_hot": 84973,
-      "num": 84973,
+      "num": 98508,
       "word": "撒贝宁王安宇肉眼可见紧张了",
       "onboard_time": 1748197095,
       "rank": 19,
@@ -3851,19 +3875,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 77087,
-      "num": 77087,
-      "word": "白桃星座",
-      "onboard_time": 1748214678,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76952,
       "num": 1019135,
       "word": "网警重拳出击摧毁一网络水军团伙",
       "onboard_time": 1748138780,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73791,
+      "num": 73791,
+      "word": "85后干部受处分两年后拟获提拔",
+      "onboard_time": 1748211076,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -3881,6 +3905,14 @@
       "onboard_time": 1748128157,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70879,
+      "num": 70879,
+      "word": "萌娃举3米高叶子去学校回头率爆表",
+      "onboard_time": 1748210295,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70414,
@@ -3947,20 +3979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68170,
-      "num": 68170,
-      "word": "萌娃举3米高叶子去学校回头率爆表",
-      "onboard_time": 1748210295,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67632,
-      "num": 67632,
-      "word": "85后干部受处分两年后拟获提拔",
-      "onboard_time": 1748211076,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 66912,
+      "num": 67486,
+      "word": "英伟达对华芯片供应最新消息",
+      "onboard_time": 1748214017,
+      "rank": 42,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 66075,
@@ -4035,6 +4059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58960,
+      "num": 72053,
+      "word": "特朗普再威胁哈佛",
+      "onboard_time": 1748216181,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58508,
       "num": 85431,
       "word": "章昊cha了IAN进行曲",
@@ -4083,20 +4115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50489,
-      "num": 67486,
-      "word": "英伟达对华芯片供应最新消息",
-      "onboard_time": 1748214017,
-      "rank": 42,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 49211,
       "num": 49211,
       "word": "孙颖莎王楚钦9个拥抱瞬间",
       "onboard_time": 1748207894,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48992,
+      "num": 65842,
+      "word": "边伯贤宋雨琦田小娟cha了",
+      "onboard_time": 1748215820,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 48777,
@@ -4227,6 +4259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41909,
+      "num": 65836,
+      "word": "美欧关税谈判期限延至7月9日",
+      "onboard_time": 1748216059,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41002,
       "num": 41002,
       "word": "王楚钦因成绩不好质疑自己",
@@ -4345,6 +4385,14 @@
       "onboard_time": 1748171541,
       "rank": 28,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 32246,
+      "num": 122008,
+      "word": "王楚钦回应被外界质疑",
+      "onboard_time": 1748215399,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 31896,
@@ -4473,14 +4521,6 @@
       "onboard_time": 1748185284,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 26566,
-      "num": 68074,
-      "word": "王楚钦回应被外界质疑",
-      "onboard_time": 1748215399,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 26557,
