@@ -1,0 +1,410 @@
+{
+  "runTime": 1748162694334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154269,
+        "num": 1184683,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604534,
+        "num": 604534,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67454,
+        "num": 543918,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 538957,
+        "num": 538957,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495058,
+        "num": 495058,
+        "word": "王者新英雄孙权爆料",
+        "onboard_time": 1748158280,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 473749,
+        "num": 473749,
+        "word": "女子疑拍刚出生小鹿遭母鹿攻击",
+        "onboard_time": 1748160500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475439,
+        "num": 469466,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440388,
+        "num": 440388,
+        "word": "鹤岗 小瑞士",
+        "onboard_time": 1748160621,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 312460,
+        "num": 312460,
+        "word": "白鹿王楚然章若楠跑男路透图",
+        "onboard_time": 1748157441,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311076,
+        "num": 311076,
+        "word": "官方通报网传女子领低保炒股",
+        "onboard_time": 1748156242,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1030857,
+        "num": 309633,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469157,
+        "num": 308465,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306876,
+        "num": 306876,
+        "word": "奔跑吧投票",
+        "onboard_time": 1748158582,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585262,
+        "num": 305299,
+        "word": "王楚然",
+        "onboard_time": 1748153002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96886,
+        "num": 303078,
+        "word": "儿童疑触碰小区路灯电桩后身亡",
+        "onboard_time": 1748159180,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184090,
+        "num": 301676,
+        "word": "朱媛媛是中戏客座教授和硕导",
+        "onboard_time": 1748159960,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254934,
+        "num": 298887,
+        "word": "马龙带娃参加斯巴达",
+        "onboard_time": 1748157923,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297063,
+        "num": 297063,
+        "word": "花20万在小县城买的顶楼露台房",
+        "onboard_time": 1748151141,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83347,
+        "num": 284098,
+        "word": "时代少年团专业许愿",
+        "onboard_time": 1748160320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30079,
+        "num": 279435,
+        "word": "以军被曝系统性强迫巴平民做人盾",
+        "onboard_time": 1748161461,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277969,
+        "num": 277969,
+        "word": "杨幂完全是妈妈级别的",
+        "onboard_time": 1748154081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252624,
+        "num": 252624,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193609,
+        "num": 228775,
+        "word": "教育局回应教师因未发福利消极教学",
+        "onboard_time": 1748149341,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 207666,
+        "num": 207666,
+        "word": "陈梦妈妈头顶一座塔开车",
+        "onboard_time": 1748158040,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196704,
+        "num": 196704,
+        "word": "学蝶泳这么不体面吗",
+        "onboard_time": 1748161101,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183922,
+        "num": 183922,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167335,
+        "num": 167335,
+        "word": "章子怡看陈丽君我的大观园也很难戒断",
+        "onboard_time": 1748162181,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164476,
+        "num": 164476,
+        "word": "李连杰晒小女儿大学毕业照",
+        "onboard_time": 1748158881,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155518,
+        "num": 155518,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 155266,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153016,
+        "num": 153016,
+        "word": "金靖记错热巴星座召唤邪恶小巴巴",
+        "onboard_time": 1748156841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151992,
+        "num": 151992,
+        "word": "周雨彤花少后接的三部影视剧",
+        "onboard_time": 1748155341,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132590,
+        "num": 132590,
+        "word": "黔灵山公园一小猴右臂只剩骨头悬肩上",
+        "onboard_time": 1748161941,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 130334,
+        "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+        "onboard_time": 1748150540,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129509,
+        "num": 129509,
+        "word": "婆母下药",
+        "onboard_time": 1748155282,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129014,
+        "num": 129014,
+        "word": "打工人要个双休怎么这么难",
+        "onboard_time": 1748160500,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118736,
+        "num": 118736,
+        "word": "白鹿说小鬼是她的rapper老师",
+        "onboard_time": 1748159001,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 118725,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 37,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 91287,
+        "num": 110153,
+        "word": "埃及为阻止巴勒斯坦难民修的墙",
+        "onboard_time": 1748162241,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106719,
+        "num": 106719,
+        "word": "TizzyT说到冷战劝架嘴角没压住",
+        "onboard_time": 1748160921,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102309,
+        "num": 102309,
+        "word": "女子闯红灯致事故辩称看不懂",
+        "onboard_time": 1748157923,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99646,
+        "num": 99646,
+        "word": "全国ATM机只剩80万台",
+        "onboard_time": 1748150482,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 99151,
+        "num": 99151,
+        "word": "奔跑吧海滩走花路",
+        "onboard_time": 1748156900,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95286,
+        "num": 95286,
+        "word": "梁博首唱会",
+        "onboard_time": 1748161582,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91689,
+        "num": 91689,
+        "word": "王者三阵营玩法爆料",
+        "onboard_time": 1748162360,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89091,
+        "num": 89091,
+        "word": "你喝到的甘蔗汁可能是糖精水",
+        "onboard_time": 1748158642,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85891,
+        "num": 85891,
+        "word": "费曼如果不喜欢现在的我可以离开",
+        "onboard_time": 1748154922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85058,
+        "num": 85058,
+        "word": "今年什么口味粽子最火",
+        "onboard_time": 1748161701,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84777,
+        "num": 84777,
+        "word": "尹浩宇中文已经是nextlevel了",
+        "onboard_time": 1748162660,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83761,
+        "num": 83761,
+        "word": "李诗沣马来西亚大师赛夺冠",
+        "onboard_time": 1748160381,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}
