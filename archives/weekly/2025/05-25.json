@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748145092167,
+  "endTime": 1748147540999,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -91,6 +91,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 969840,
+      "num": 249209,
+      "word": "躺床上睡觉结果不小心点到直播",
+      "onboard_time": 1748144722,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 866689,
       "num": 866689,
       "word": "王楚钦孙颖莎混双冠军",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539906,
+      "num": 243544,
+      "word": "郝蕾为哈妮克孜发声",
+      "onboard_time": 1748145561,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513534,
       "num": 279823,
       "word": "印度一男子性侵马匹被捕",
@@ -201,6 +217,30 @@
       "onboard_time": 1748098465,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422881,
+      "num": 236946,
+      "word": "关心厌恶症",
+      "onboard_time": 1748144901,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 414658,
+      "num": 229231,
+      "word": "洗猫 高危工作",
+      "onboard_time": 1748144360,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 393497,
+      "num": 242162,
+      "word": "脂肪下降的顺序",
+      "onboard_time": 1748144121,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 383872,
@@ -241,6 +281,14 @@
       "onboard_time": 1748139320,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339013,
+      "num": 205081,
+      "word": "半个歌手圈疑似被毕业歌会做局了",
+      "onboard_time": 1748145500,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 320993,
@@ -347,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264946,
+      "num": 264946,
+      "word": "王星越为家乡写的文旅宣传语",
+      "onboard_time": 1748145441,
+      "rank": 8,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 264011,
       "num": 264011,
       "word": "波音将为空难者再支付4.445亿美元",
@@ -403,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242162,
-      "num": 242162,
-      "word": "脂肪下降的顺序",
-      "onboard_time": 1748144121,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 238077,
       "num": 175189,
       "word": "亳州上百人吃网红提拉米苏后进医院",
@@ -425,14 +473,6 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222847,
-      "num": 170612,
-      "word": "洗猫 高危工作",
-      "onboard_time": 1748144360,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 219549,
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 211378,
-      "num": 211378,
+      "num": 220625,
       "word": "年轻人有自己的生日大汉堡",
       "onboard_time": 1748144479,
       "rank": 19,
@@ -499,12 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205305,
-      "num": 170263,
-      "word": "躺床上睡觉结果不小心点到直播",
-      "onboard_time": 1748144722,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "特朗普闪电裁员",
+      "onboard_time": 1748146221,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 198652,
+      "num": 198652,
+      "word": "许嵩 我开巡演跟上幼儿园差不多",
+      "onboard_time": 1748146520,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194586,
+      "num": 194586,
+      "word": "张极人机回复丁禹兮",
+      "onboard_time": 1748146699,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 193907,
@@ -537,6 +593,14 @@
       "onboard_time": 1748106078,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184091,
+      "num": 196234,
+      "word": "肖战的减法演戏",
+      "onboard_time": 1748140821,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 182577,
@@ -577,6 +641,14 @@
       "onboard_time": 1748144420,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176860,
+      "num": 176860,
+      "word": "孙颖莎以国家荣誉为第一位",
+      "onboard_time": 1748145980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 176252,
@@ -643,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169068,
+      "num": 191613,
+      "word": "藏海大招控三个不打低端局",
+      "onboard_time": 1748146581,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168782,
       "num": 168782,
       "word": "魏劭发现表哥喜欢小乔",
@@ -673,14 +753,6 @@
       "onboard_time": 1748093663,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164795,
-      "num": 177681,
-      "word": "肖战的减法演戏",
-      "onboard_time": 1748140821,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 162502,
@@ -747,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144281,
+      "num": 144281,
+      "word": "谍报上不封顶官宣阵容没有程潇",
+      "onboard_time": 1748146880,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141612,
       "num": 141612,
       "word": "古茗两块五柠檬水",
@@ -764,7 +844,7 @@
     },
     {
       "raw_hot": 136435,
-      "num": 114583,
+      "num": 115544,
       "word": "易烊千玺给毕赣猛猛出图",
       "onboard_time": 1748143581,
       "rank": 46,
@@ -785,14 +865,6 @@
       "onboard_time": 1748136022,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134062,
-      "num": 134062,
-      "word": "关心厌恶症",
-      "onboard_time": 1748144901,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 132806,
@@ -883,6 +955,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120604,
+      "num": 120604,
+      "word": "李庚希狂野时代获奖发文",
+      "onboard_time": 1748145861,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120444,
+      "num": 120444,
+      "word": "蔚来通报充电站多辆汽车起火",
+      "onboard_time": 1748147241,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120181,
       "num": 180136,
       "word": "清融发文告别eStar",
@@ -897,6 +985,14 @@
       "onboard_time": 1748088562,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117057,
+      "num": 117057,
+      "word": "奇迹",
+      "onboard_time": 1748145861,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113737,
@@ -1187,6 +1283,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77861,
+      "num": 191678,
+      "word": "国产手机壳进化到这个地步了吗",
+      "onboard_time": 1748146040,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 77127,
+      "num": 211605,
+      "word": "代谢变差身体会出现哪些症状",
+      "onboard_time": 1748146581,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76952,
       "num": 1019135,
       "word": "网警重拳出击摧毁一网络水军团伙",
@@ -1267,6 +1379,14 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 45088,
+      "num": 148893,
+      "word": "美国记者哭诉加沙儿童的遭遇",
+      "onboard_time": 1748143281,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45036,
       "num": 354023,
       "word": "海洋经济总量首次突破10万亿元",
@@ -1281,6 +1401,14 @@
       "onboard_time": 1748142080,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 43834,
+      "num": 191596,
+      "word": "世乒赛复刻杯目前仅限于单打",
+      "onboard_time": 1748147180,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 43546,
@@ -1331,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28957,
+      "num": 215860,
+      "word": "带状疱疹的黄金治疗期该如何治疗",
+      "onboard_time": 1748145741,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28365,
       "num": 35603,
       "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
@@ -1361,6 +1497,14 @@
       "onboard_time": 1748143040,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 15788,
+      "num": 146177,
+      "word": "快餐店四菜一汤价值百元定价合理吗",
+      "onboard_time": 1748147479,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14931,
