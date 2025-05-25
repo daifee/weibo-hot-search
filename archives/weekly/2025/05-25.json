@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748197937426,
+  "endTime": 1748198724150,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -4377,6 +4377,14 @@
       "onboard_time": 1748164581,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24369,
+      "num": 35924,
+      "word": "长春哦啦音乐节",
+      "onboard_time": 1748198055,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 23708,
