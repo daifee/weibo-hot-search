@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748168722152,
+  "endTime": 1748169784706,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -27,12 +27,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2273981,
+      "num": 2273981,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1748167343,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1579611,
       "num": 1579611,
       "word": "警员视力矫正术后因难忍副作用自尽",
       "onboard_time": 1748099064,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1532358,
+      "num": 1532358,
+      "word": "麻辣烫 轻奢",
+      "onboard_time": 1748164822,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 1528474,
@@ -59,7 +75,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1318829,
+      "raw_hot": 1340021,
       "num": 309193,
       "word": "玉米蛋挞 贵",
       "onboard_time": 1748165001,
@@ -81,6 +97,14 @@
       "onboard_time": 1748105899,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1239916,
+      "num": 282079,
+      "word": "内娱四大淡颜",
+      "onboard_time": 1748166021,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1194402,
@@ -107,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1129263,
-      "num": 1180682,
-      "word": "麻辣烫 轻奢",
-      "onboard_time": 1748164822,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1094405,
       "num": 1094405,
       "word": "喜羊羊27岁了",
@@ -131,12 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1068925,
-      "num": 1068925,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1748167343,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 1064757,
+      "num": 396543,
+      "word": "杨颖澳门活动生图",
+      "onboard_time": 1748164100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1051188,
@@ -147,28 +163,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1032774,
-      "num": 396543,
-      "word": "杨颖澳门活动生图",
-      "onboard_time": 1748164100,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1016295,
       "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 975035,
-      "num": 274273,
-      "word": "内娱四大淡颜",
-      "onboard_time": 1748166021,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 931423,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466508,
+      "num": 265780,
+      "word": "日本食品有多变态",
+      "onboard_time": 1748165061,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 463851,
       "num": 365742,
       "word": "杨幂完全是妈妈级别的",
@@ -425,6 +433,14 @@
       "onboard_time": 1748163860,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 432120,
+      "num": 432120,
+      "word": "奔跑吧直播延迟",
+      "onboard_time": 1748168421,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 431570,
@@ -459,12 +475,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 393623,
-      "num": 265780,
-      "word": "日本食品有多变态",
-      "onboard_time": 1748165061,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 395270,
+      "num": 268249,
+      "word": "户上隼辅篠塚大登男双夺冠",
+      "onboard_time": 1748168241,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 383872,
@@ -747,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268677,
+      "num": 271148,
+      "word": "白举纲 有这样的太太我很得意",
+      "onboard_time": 1748165900,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267777,
       "num": 267777,
       "word": "陈梦妈妈头顶一座塔开车",
@@ -777,14 +801,6 @@
       "onboard_time": 1748149942,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257230,
-      "num": 271148,
-      "word": "白举纲 有这样的太太我很得意",
-      "onboard_time": 1748165900,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 255274,
@@ -875,6 +891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225424,
+      "num": 225424,
+      "word": "杨幂喂奶牛",
+      "onboard_time": 1748168241,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224235,
+      "num": 224235,
+      "word": "战至巅峰4常驻战队营业",
+      "onboard_time": 1748169261,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220634,
       "num": 220634,
       "word": "TizzyT说到冷战劝架嘴角没压住",
@@ -936,6 +968,14 @@
       "word": "沙溢王楚然肤色差",
       "onboard_time": 1748165721,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213600,
+      "num": 213600,
+      "word": "范丞丞镜头下的章若楠",
+      "onboard_time": 1748169022,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -1075,6 +1115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192812,
+      "num": 192812,
+      "word": "折腰",
+      "onboard_time": 1748167642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192109,
+      "num": 192109,
+      "word": "时代峰峻回应宋亚轩告黑问题",
+      "onboard_time": 1748168782,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191842,
       "num": 149622,
       "word": "王楚钦称奥运会后两人心态好了很多",
@@ -1099,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189645,
+      "num": 189645,
+      "word": "法网",
+      "onboard_time": 1748168661,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189514,
       "num": 189514,
       "word": "爷爷不泡茶把栀子花开进奶茶里",
       "onboard_time": 1748142080,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188541,
+      "num": 190223,
+      "word": "老妈看奶茶菜单像看天书",
+      "onboard_time": 1748168782,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 185491,
@@ -1121,6 +1193,14 @@
       "onboard_time": 1748097446,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181189,
+      "num": 181189,
+      "word": "内娱小短剧勇闯韩流",
+      "onboard_time": 1748168361,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180676,
@@ -1171,20 +1251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177939,
-      "num": 177939,
-      "word": "折腰",
-      "onboard_time": 1748167642,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177365,
       "num": 177365,
       "word": "韶华若锦",
       "onboard_time": 1748144420,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177221,
+      "num": 177221,
+      "word": "奔跑吧海滩走花路",
+      "onboard_time": 1748156900,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 176860,
@@ -1355,14 +1435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 159027,
-      "num": 159027,
-      "word": "杨幂喂奶牛",
-      "onboard_time": 1748168241,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158371,
       "num": 158371,
       "word": "黄杨钿甜",
@@ -1387,12 +1459,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157754,
-      "num": 157754,
-      "word": "内娱小短剧勇闯韩流",
-      "onboard_time": 1748168361,
-      "rank": 35,
+      "raw_hot": 157671,
+      "num": 157671,
+      "word": "老婆一句话王爷又争又抢又暗爽",
+      "onboard_time": 1748169261,
+      "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157454,
+      "num": 277191,
+      "word": "中戏表演系发文怀念朱媛媛",
+      "onboard_time": 1748167642,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 157298,
@@ -1467,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154970,
+      "num": 154970,
+      "word": "户上隼辅篠塚大登3比2林昀儒高承睿",
+      "onboard_time": 1748168721,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153669,
       "num": 153669,
       "word": "慵懒兔结婚",
@@ -1499,22 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149176,
-      "num": 268249,
-      "word": "户上隼辅篠塚大登男双夺冠",
-      "onboard_time": 1748168241,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148774,
-      "num": 148774,
-      "word": "奔跑吧直播延迟",
-      "onboard_time": 1748168421,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148527,
       "num": 154367,
       "word": "给魏劭再下一次王母仙药",
@@ -1529,14 +1601,6 @@
       "onboard_time": 1748137401,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146368,
-      "num": 277191,
-      "word": "中戏表演系发文怀念朱媛媛",
-      "onboard_time": 1748167642,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 145453,
@@ -1611,12 +1675,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138895,
-      "num": 138895,
-      "word": "奔跑吧海滩走花路",
-      "onboard_time": 1748156900,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 139167,
+      "num": 139167,
+      "word": "马龙说孩子终将超越我们",
+      "onboard_time": 1748166681,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137116,
@@ -1817,14 +1881,6 @@
       "onboard_time": 1748155162,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125801,
-      "num": 125801,
-      "word": "法网",
-      "onboard_time": 1748168661,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 124673,
@@ -2115,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107369,
+      "num": 267109,
+      "word": "男子8年来疑以救助猫狗之名诈捐",
+      "onboard_time": 1748167702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107276,
       "num": 107276,
       "word": "美国正大批量制造高超音速导弹",
@@ -2355,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88158,
+      "num": 224461,
+      "word": "TTG运动会实录",
+      "onboard_time": 1748168001,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87230,
       "num": 87230,
       "word": "全红婵的发夹好可爱",
@@ -2385,6 +2457,14 @@
       "onboard_time": 1748162660,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84105,
+      "num": 285096,
+      "word": "这张特殊的毕业合影看哭了",
+      "onboard_time": 1748167222,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84023,
@@ -2539,6 +2619,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 68619,
+      "num": 987520,
+      "word": "各地端午氛围渐浓",
+      "onboard_time": 1748160981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68592,
       "num": 157270,
       "word": "进击的巨人睡袋",
@@ -2553,14 +2641,6 @@
       "onboard_time": 1748136561,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67454,
-      "num": 784110,
-      "word": "各地端午氛围渐浓",
-      "onboard_time": 1748160981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65457,
@@ -2651,6 +2731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47427,
+      "num": 258408,
+      "word": "尚雯婕云参加复旦大学校庆",
+      "onboard_time": 1748169323,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46682,
       "num": 56123,
       "word": "我在卡塔尔航空得到一枚免费钻戒",
@@ -2739,14 +2827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36522,
-      "num": 267109,
-      "word": "男子8年来疑以救助猫狗之名诈捐",
-      "onboard_time": 1748167702,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35274,
       "num": 150999,
       "word": "医生教你如何正确面对甲状腺结节",
@@ -2779,6 +2859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31896,
+      "num": 192149,
+      "word": "中国军人走出国门",
+      "onboard_time": 1748168480,
+      "rank": 29,
+      "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 31744,
+      "num": 155405,
+      "word": "高校众女生勇擒潜入寝室偷拍男",
+      "onboard_time": 1748169742,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31686,
       "num": 35615,
       "word": "这就是歌手不选我做观众的原因吗",
@@ -2809,6 +2905,14 @@
       "onboard_time": 1748161461,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29611,
+      "num": 252338,
+      "word": "中医把脉能否判断性格与适合职业",
+      "onboard_time": 1748169142,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28957,
@@ -2851,20 +2955,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23708,
+      "num": 161178,
+      "word": "胡锡进谈港科大接受哈佛转学生",
+      "onboard_time": 1748169323,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23207,
       "num": 132368,
       "word": "彩显屏手机壳的显示原理是什么",
       "onboard_time": 1748156541,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 22823,
-      "num": 178126,
-      "word": "中国军人走出国门",
-      "onboard_time": 1748168480,
-      "rank": 29,
-      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 21749,
