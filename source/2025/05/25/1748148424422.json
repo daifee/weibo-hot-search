@@ -1,0 +1,410 @@
+{
+  "runTime": 1748148424422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170958,
+        "num": 1187353,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 629674,
+        "num": 629674,
+        "word": "郝蕾为哈妮克孜发声",
+        "onboard_time": 1748145561,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55140,
+        "num": 564847,
+        "word": "网警重拳出击摧毁一网络水军团伙",
+        "onboard_time": 1748138780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556343,
+        "num": 556343,
+        "word": "谍报上不封顶官宣肖战周雨彤",
+        "onboard_time": 1748142201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479717,
+        "num": 479717,
+        "word": "喜羊羊27岁了",
+        "onboard_time": 1748139861,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 405535,
+        "num": 405535,
+        "word": "上海快餐店回应四菜一汤173元",
+        "onboard_time": 1748142320,
+        "rank": 5,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 509030,
+        "num": 390144,
+        "word": "叶童终止新白娘子传奇演唱会",
+        "onboard_time": 1748129298,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341724,
+        "num": 341724,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299901,
+        "num": 299901,
+        "word": "王星越为家乡写的文旅宣传语",
+        "onboard_time": 1748145441,
+        "rank": 8,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 279574,
+        "num": 279574,
+        "word": "谁懂王楚钦孙颖莎这个笑",
+        "onboard_time": 1748141421,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1016295,
+        "num": 279068,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 486384,
+        "num": 278684,
+        "word": "谍报上不封顶女主",
+        "onboard_time": 1748140700,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 970149,
+        "num": 278257,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652894,
+        "num": 277475,
+        "word": "关心厌恶症",
+        "onboard_time": 1748144901,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 500924,
+        "num": 277035,
+        "word": "洗猫 高危工作",
+        "onboard_time": 1748144360,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 491118,
+        "num": 276531,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137477,
+        "num": 276029,
+        "word": "年轻人有自己的生日大汉堡",
+        "onboard_time": 1748144479,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 441986,
+        "num": 275805,
+        "word": "疑似郝蕾回应和邓超分手原因",
+        "onboard_time": 1748148201,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415909,
+        "num": 275210,
+        "word": "脂肪下降的顺序",
+        "onboard_time": 1748144121,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20961,
+        "num": 274639,
+        "word": "快餐店四菜一汤价值百元定价合理吗",
+        "onboard_time": 1748147479,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357044,
+        "num": 274168,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273715,
+        "num": 273715,
+        "word": "特朗普闪电裁员",
+        "onboard_time": 1748146221,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258073,
+        "num": 258073,
+        "word": "哈妮克孜因为戴眼镜探班被换角",
+        "onboard_time": 1748133440,
+        "rank": 22,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 56456,
+        "num": 221994,
+        "word": "代谢变差身体会出现哪些症状",
+        "onboard_time": 1748146581,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196083,
+        "num": 196083,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193737,
+        "num": 193737,
+        "word": "程潇和妹妹首次综艺合体",
+        "onboard_time": 1748148022,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190185,
+        "num": 190185,
+        "word": "藏海传加广",
+        "onboard_time": 1748139320,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183818,
+        "num": 183818,
+        "word": "王楚钦雨果争冠",
+        "onboard_time": 1748105899,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159467,
+        "num": 179670,
+        "word": "孙颖莎以国家荣誉为第一位",
+        "onboard_time": 1748145980,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78773,
+        "num": 179290,
+        "word": "国产手机壳进化到这个地步了吗",
+        "onboard_time": 1748146040,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179223,
+        "num": 179223,
+        "word": "许嵩 我开巡演跟上幼儿园差不多",
+        "onboard_time": 1748146520,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173013,
+        "num": 173013,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159943,
+        "num": 159943,
+        "word": "张极人机回复丁禹兮",
+        "onboard_time": 1748146699,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112259,
+        "num": 158627,
+        "word": "易烊千玺给毕赣猛猛出图",
+        "onboard_time": 1748143581,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158282,
+        "num": 158282,
+        "word": "肖战的减法演戏",
+        "onboard_time": 1748140821,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132566,
+        "num": 154367,
+        "word": "给魏劭再下一次王母仙药",
+        "onboard_time": 1748148201,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45221,
+        "num": 152382,
+        "word": "视力矫正手术会涉及哪些副作用",
+        "onboard_time": 1748148381,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152041,
+        "num": 152041,
+        "word": "李乃文演出谢幕悼念朱媛媛",
+        "onboard_time": 1748140460,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30158,
+        "num": 145501,
+        "word": "为什么美国会衰落",
+        "onboard_time": 1748148080,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144061,
+        "num": 144061,
+        "word": "西山居30周年",
+        "onboard_time": 1748147720,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99533,
+        "num": 139632,
+        "word": "世乒赛复刻杯目前仅限于单打",
+        "onboard_time": 1748147180,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136094,
+        "num": 136094,
+        "word": "李昀锐鹰眼挑战超神",
+        "onboard_time": 1748143340,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126824,
+        "num": 126824,
+        "word": "奇迹",
+        "onboard_time": 1748145861,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119642,
+        "num": 119642,
+        "word": "敖瑞鹏联系最多的圈内好友是白鹿",
+        "onboard_time": 1748128998,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119583,
+        "num": 119583,
+        "word": "女子备孕5年4次试管全失败",
+        "onboard_time": 1748130019,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118734,
+        "num": 118734,
+        "word": "白宫开始第一轮大清洗",
+        "onboard_time": 1748139200,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 115963,
+        "word": "卖早餐日入四位数一天的工作量",
+        "onboard_time": 1748147900,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108495,
+        "num": 108495,
+        "word": "蔚来通报充电站多辆汽车起火",
+        "onboard_time": 1748147241,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107639,
+        "num": 107639,
+        "word": "生命树",
+        "onboard_time": 1748148381,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107276,
+        "num": 107276,
+        "word": "美国正大批量制造高超音速导弹",
+        "onboard_time": 1748148022,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}
