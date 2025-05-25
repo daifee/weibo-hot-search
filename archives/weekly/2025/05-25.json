@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748179854493,
+  "endTime": 1748180527991,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -8,6 +8,14 @@
       "word": "王楚钦vs雨果",
       "onboard_time": 1748177123,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14015030,
+      "num": 14015030,
+      "word": "王楚钦冠军",
+      "onboard_time": 1748179650,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -51,16 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2225286,
-      "num": 2225286,
-      "word": "王楚钦冠军",
-      "onboard_time": 1748179650,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1819254,
-      "num": 1819254,
+      "raw_hot": 1837346,
+      "num": 1837346,
       "word": "孙颖莎哭了",
       "onboard_time": 1748175083,
       "rank": 3,
@@ -73,6 +73,14 @@
       "onboard_time": 1748099064,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1560734,
+      "num": 1560734,
+      "word": "孙颖莎说输掉第6局后有一丝绝望",
+      "onboard_time": 1748179224,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1532358,
@@ -217,14 +225,6 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 993599,
-      "num": 993599,
-      "word": "孙颖莎说输掉第6局后有一丝绝望",
-      "onboard_time": 1748179224,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 931423,
@@ -459,7 +459,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 560811,
+      "raw_hot": 564756,
+      "num": 273588,
+      "word": "女单冠亚季军自拍来了",
+      "onboard_time": 1748179405,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 560915,
       "num": 948398,
       "word": "平津侯 渣男",
       "onboard_time": 1748176403,
@@ -489,6 +497,14 @@
       "onboard_time": 1748176642,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518818,
+      "num": 914459,
+      "word": "刘端端演技",
+      "onboard_time": 1748177782,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 513534,
@@ -521,14 +537,6 @@
       "onboard_time": 1748144360,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 500098,
-      "num": 914459,
-      "word": "刘端端演技",
-      "onboard_time": 1748177782,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 495114,
@@ -665,6 +673,14 @@
       "onboard_time": 1748099064,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 366774,
+      "num": 691438,
+      "word": "郑钦文2比0帕芙柳琴科娃",
+      "onboard_time": 1748179527,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 366485,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 289153,
-      "num": 335283,
+      "num": 338461,
       "word": "idle匿名纸条",
       "onboard_time": 1748173827,
       "rank": 12,
@@ -905,6 +921,14 @@
       "onboard_time": 1748157923,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278874,
+      "num": 440624,
+      "word": "藏海翻了个白眼才开演",
+      "onboard_time": 1748178324,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 278454,
@@ -995,14 +1019,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 262347,
-      "num": 262347,
-      "word": "藏海翻了个白眼才开演",
-      "onboard_time": 1748178324,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262307,
       "num": 262307,
       "word": "原来缠住苏新皓腿的蟒蛇有86斤",
@@ -1067,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249005,
+      "num": 249005,
+      "word": "不然退役",
+      "onboard_time": 1748179770,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 248211,
       "num": 296111,
       "word": "孙颖莎出手稳准狠",
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 243018,
-      "num": 223130,
+      "num": 328351,
       "word": "肖战就该演美强惨",
       "onboard_time": 1748177963,
       "rank": 43,
@@ -1139,6 +1163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229217,
+      "num": 229217,
+      "word": "幻象黑兔 明日方舟",
+      "onboard_time": 1748180070,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 226963,
+      "num": 226963,
+      "word": "世乒赛直播",
+      "onboard_time": 1748179709,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220634,
       "num": 220634,
       "word": "TizzyT说到冷战劝架嘴角没压住",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1748158222,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217246,
-      "num": 217246,
-      "word": "女单冠亚季军自拍来了",
-      "onboard_time": 1748179405,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 216704,
@@ -1267,12 +1299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206661,
-      "num": 691438,
-      "word": "郑钦文2比0帕芙柳琴科娃",
-      "onboard_time": 1748179527,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 206999,
+      "num": 312172,
+      "word": "周奇庄二上桌",
+      "onboard_time": 1748179951,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 205411,
@@ -1515,12 +1547,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 184223,
-      "num": 184223,
-      "word": "世乒赛直播",
-      "onboard_time": 1748179709,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 184631,
+      "num": 291236,
+      "word": "哈佛医学院太平间前主管承认盗卖遗骸",
+      "onboard_time": 1748177842,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183823,
+      "num": 183823,
+      "word": "田曦薇紫色抹胸纱裙",
+      "onboard_time": 1748177183,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182577,
@@ -1553,14 +1593,6 @@
       "onboard_time": 1748090423,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180276,
-      "num": 180276,
-      "word": "不然退役",
-      "onboard_time": 1748179770,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 179326,
@@ -1707,6 +1739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172049,
+      "num": 172049,
+      "word": "藏海传收视率",
+      "onboard_time": 1748180309,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171996,
       "num": 171996,
       "word": "刘国梁给王楚钦孙颖莎颁奖",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1748100024,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170421,
+      "num": 666908,
+      "word": "郑钦文连续四年法网开门红",
+      "onboard_time": 1748179042,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 170176,
@@ -1803,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165601,
+      "num": 165601,
+      "word": "邓亚萍说王楚钦节奏非常好",
+      "onboard_time": 1748180370,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165283,
       "num": 165283,
       "word": "易烊千玺名场面诞生",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1748150540,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158345,
-      "num": 234594,
-      "word": "哈佛医学院太平间前主管承认盗卖遗骸",
-      "onboard_time": 1748177842,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 158127,
@@ -1987,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153924,
+      "num": 153924,
+      "word": "崔胜澈 咬舌尖坏笑",
+      "onboard_time": 1748180488,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 153669,
       "num": 153669,
       "word": "慵懒兔结婚",
@@ -2019,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148924,
-      "num": 148924,
-      "word": "田曦薇紫色抹胸纱裙",
-      "onboard_time": 1748177183,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148527,
       "num": 154367,
       "word": "给魏劭再下一次王母仙药",
@@ -2051,14 +2099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145954,
-      "num": 666908,
-      "word": "郑钦文连续四年法网开门红",
-      "onboard_time": 1748179042,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145453,
       "num": 145453,
       "word": "平津侯藏海CP",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1748177602,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145055,
+      "num": 145055,
+      "word": "马嘉祺歌手音源破百万收藏",
+      "onboard_time": 1748179770,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 144606,
@@ -2137,14 +2185,6 @@
       "onboard_time": 1748176582,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141979,
-      "num": 141979,
-      "word": "马嘉祺歌手音源破百万收藏",
-      "onboard_time": 1748179770,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 141612,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1748158161,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133927,
+      "num": 710629,
+      "word": "男子站票30小时倒3趟车来京自首",
+      "onboard_time": 1748179465,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132806,
@@ -3115,6 +3163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80772,
+      "num": 2431317,
+      "word": "各地端午氛围渐浓",
+      "onboard_time": 1748160981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80368,
       "num": 80368,
       "word": "全智贤北京活动",
@@ -3187,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70065,
+      "num": 287019,
+      "word": "灵笼2开局有哪些剧情刀",
+      "onboard_time": 1748179891,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 69786,
       "num": 167453,
       "word": "为孙颖莎王楚钦王曼昱蒯曼加油",
@@ -3217,14 +3281,6 @@
       "onboard_time": 1748143881,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 68619,
-      "num": 2431317,
-      "word": "各地端午氛围渐浓",
-      "onboard_time": 1748160981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68592,
@@ -3339,20 +3395,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 49145,
-      "num": 710629,
-      "word": "男子站票30小时倒3趟车来京自首",
-      "onboard_time": 1748179465,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48777,
       "num": 56212,
       "word": "小米YU7电动内翻门把手",
       "onboard_time": 1748128277,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47008,
+      "num": 343998,
+      "word": "没有一只羊能走出KPL",
+      "onboard_time": 1748180010,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 46682,
@@ -3475,6 +3531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34458,
+      "num": 417287,
+      "word": "菜园坝是无数重庆人的人生第一站",
+      "onboard_time": 1748180129,
+      "rank": 17,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 33647,
       "num": 1754429,
       "word": "每个中国人传唱的精神密码",
@@ -3537,6 +3601,14 @@
       "onboard_time": 1748178624,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30752,
+      "num": 391674,
+      "word": "这座世界级大桥实现毫米级合龙",
+      "onboard_time": 1748175024,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30158,
@@ -3771,6 +3843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12106,
+      "num": 4918374,
+      "word": "美国90%圣诞用品来自中国制造",
+      "onboard_time": 1748180370,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9595,
       "num": 28779,
       "word": "莱巴金娜打破13个月冠军荒",
@@ -3804,6 +3884,9 @@
     },
     {
       "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    },
+    {
+      "word": "#总书记强调要有新气象新作为#"
     }
   ]
 }

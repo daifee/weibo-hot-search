@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/25 21:30:54
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/25 21:42:07
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E6%B1%AA%E5%B0%8F%E8%8F%B2%E6%8A%96%E9%9F%B3%E6%97%A0%E9%99%90%E6%9C%9F%E5%B0%81%E7%A6%81%23" target="weibo">
 张兰汪小菲抖音无限期封禁（热度：14397354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23" target="weibo">
+王楚钦冠军（热度：14015030）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E8%BD%AC%E5%8F%91%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%A4%B1%E8%81%94%E6%B6%88%E6%81%AF%23" target="weibo">
 多位明星转发演员星星失联消息（热度：3281821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E5%85%A8%E5%B9%B3%E5%8F%B0%E6%8D%A2%E5%B0%81%E9%9D%A2%23" target="weibo">
-薛凯琪全平台换封面（热度：3276712）
 </a>
 </li>
 

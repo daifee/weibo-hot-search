@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748179854493,
+  "endTime": 1748180527991,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -329,6 +329,14 @@
       "onboard_time": 1738985241,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14015030,
+      "num": 14015030,
+      "word": "王楚钦冠军",
+      "onboard_time": 1748179650,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 13952184,
@@ -2392,14 +2400,6 @@
       "word": "多位明星转发演员星星失联消息",
       "onboard_time": 1736134101,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3276712,
-      "num": 3276712,
-      "word": "薛凯琪全平台换封面",
-      "onboard_time": 1740826040,
-      "rank": 0,
       "category": "艺人"
     }
   ],
