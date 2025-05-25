@@ -1,0 +1,410 @@
+{
+  "runTime": 1748187506879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2400901,
+        "num": 2400901,
+        "word": "王楚钦冠军",
+        "onboard_time": 1748179650,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1217973,
+        "num": 1217973,
+        "word": "王楚钦成首位00后男单世界冠军",
+        "onboard_time": 1748182825,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115084,
+        "num": 1029189,
+        "word": "美国90%圣诞用品来自中国制造",
+        "onboard_time": 1748180370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 934260,
+        "num": 934260,
+        "word": "王楚钦孙颖莎成本届世乒赛双冠王",
+        "onboard_time": 1748185825,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832387,
+        "num": 832387,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 792754,
+        "num": 792754,
+        "word": "Angelababy眼睫碎钻",
+        "onboard_time": 1748182886,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 787318,
+        "num": 787318,
+        "word": "藏海传收视率",
+        "onboard_time": 1748180309,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 753743,
+        "num": 753743,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1748175083,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699100,
+        "num": 699100,
+        "word": "郑钦文恭喜王楚钦",
+        "onboard_time": 1748184565,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62872,
+        "num": 687239,
+        "word": "央视曝光游乐设备合格证被偷梁换柱",
+        "onboard_time": 1748186664,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 938488,
+        "num": 675837,
+        "word": "女子遭雷击去世丈夫疑因人工降雨",
+        "onboard_time": 1748180728,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820169,
+        "num": 647670,
+        "word": "杨颖好权威的一张脸",
+        "onboard_time": 1748174546,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 800836,
+        "num": 626734,
+        "word": "网传娱乐主播收入排行榜",
+        "onboard_time": 1748184444,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 724022,
+        "num": 604815,
+        "word": "嘉人 孙颖莎的名字与太阳同音",
+        "onboard_time": 1748186724,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587353,
+        "num": 587353,
+        "word": "王楚钦说心头多年的结解开了",
+        "onboard_time": 1748183604,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535006,
+        "num": 535006,
+        "word": "37岁女子福建爬山拍照时坠崖身亡",
+        "onboard_time": 1748184744,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429242,
+        "num": 429242,
+        "word": "王曼昱蒯曼冠军",
+        "onboard_time": 1748182405,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367500,
+        "num": 367500,
+        "word": "300岁TVB老人跳晚安大小姐",
+        "onboard_time": 1748185703,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231360,
+        "num": 312805,
+        "word": "藏海翻了个白眼才开演",
+        "onboard_time": 1748178324,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281107,
+        "num": 281107,
+        "word": "白宇拍的孙颖莎王楚钦",
+        "onboard_time": 1748183186,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168067,
+        "num": 275294,
+        "word": "黄子弘凡直播祝大家都能抢到票",
+        "onboard_time": 1748186603,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274528,
+        "num": 274528,
+        "word": "赵丽颖犹豫半天比了个苹果",
+        "onboard_time": 1748177963,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272994,
+        "num": 272994,
+        "word": "麒麟芯片",
+        "onboard_time": 1748185104,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265174,
+        "num": 265174,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214192,
+        "num": 214192,
+        "word": "藏海传你睡了吗我睡不着",
+        "onboard_time": 1748187023,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175359,
+        "num": 175359,
+        "word": "刘端端演技",
+        "onboard_time": 1748177782,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173711,
+        "num": 173711,
+        "word": "TT万妮达不扫兴的朋友",
+        "onboard_time": 1748186843,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188966,
+        "num": 166931,
+        "word": "多哈世乒赛国乒4金1银2铜",
+        "onboard_time": 1748183484,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158553,
+        "num": 158553,
+        "word": "平津侯 渣男",
+        "onboard_time": 1748176403,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7024,
+        "num": 158084,
+        "word": "因丧事平台拒绝退机票该如何申诉",
+        "onboard_time": 1748187083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 157125,
+        "word": "王曼昱总结世乒赛表现",
+        "onboard_time": 1748183604,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315680,
+        "num": 156507,
+        "word": "国乒多哈世乒赛大合影",
+        "onboard_time": 1748186962,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148632,
+        "num": 155017,
+        "word": "阎鹤祥带孩子捞鱼把孩子掉水里了",
+        "onboard_time": 1748185164,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176286,
+        "num": 154121,
+        "word": "吴敬平祝贺大头首获世锦赛男单冠军",
+        "onboard_time": 1748183186,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396677,
+        "num": 153717,
+        "word": "孙颖莎夺冠后看向CoCo",
+        "onboard_time": 1748183186,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110921,
+        "num": 152241,
+        "word": "180万投资超市开业7天被举报",
+        "onboard_time": 1748181205,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152135,
+        "num": 152135,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1748180788,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150397,
+        "num": 150397,
+        "word": "张泽禹 哥们不吃甜食",
+        "onboard_time": 1748186603,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148791,
+        "num": 148791,
+        "word": "不然退役",
+        "onboard_time": 1748179770,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 141482,
+        "word": "钎城运动会日记",
+        "onboard_time": 1748187442,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6504,
+        "num": 140964,
+        "word": "宜来高速柴埠溪特大桥有哪些技术创新",
+        "onboard_time": 1748186184,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140780,
+        "num": 140780,
+        "word": "时尚芭莎 音乐节",
+        "onboard_time": 1748185403,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 137473,
+        "word": "凤凰传奇演唱会",
+        "onboard_time": 1748186783,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137162,
+        "num": 137162,
+        "word": "范丞丞镜头下的章若楠",
+        "onboard_time": 1748169022,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133437,
+        "num": 133437,
+        "word": "张颜齐按颜值我就不来了",
+        "onboard_time": 1748186484,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132627,
+        "num": 132627,
+        "word": "王皓大喊坚定果断",
+        "onboard_time": 1748187023,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128598,
+        "num": 128598,
+        "word": "女子闯红灯拒检逃逸后自撞身亡",
+        "onboard_time": 1748172022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127604,
+        "num": 127604,
+        "word": "SEVENTEEN新歌thunder初舞台",
+        "onboard_time": 1748175024,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127206,
+        "num": 127206,
+        "word": "主播拒绝擦边直播被公司索赔10万元",
+        "onboard_time": 1748183903,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124839,
+        "num": 124839,
+        "word": "孙恩盛 维港红毯",
+        "onboard_time": 1748182285,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要有新气象新作为#"
+    }
+  }
+}
