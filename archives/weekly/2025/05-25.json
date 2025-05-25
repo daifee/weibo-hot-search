@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748150662629,
+  "endTime": 1748151671663,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609915,
+      "num": 609915,
+      "word": "半个歌手圈疑似被毕业歌会做局了",
+      "onboard_time": 1748145500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592060,
       "num": 592060,
       "word": "一诺被乒乓球做局了",
@@ -208,14 +216,6 @@
       "word": "杨肸子说杨紫在剧组从不拿剧本",
       "onboard_time": 1748097146,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 561872,
-      "num": 561872,
-      "word": "半个歌手圈疑似被毕业歌会做局了",
-      "onboard_time": 1748145500,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312297,
+      "num": 261994,
+      "word": "程潇和妹妹首次综艺合体",
+      "onboard_time": 1748148022,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308901,
       "num": 289464,
       "word": "李乃文演出谢幕悼念朱媛媛",
@@ -379,20 +387,28 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 297720,
-      "num": 257043,
-      "word": "程潇和妹妹首次综艺合体",
-      "onboard_time": 1748148022,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293131,
       "num": 293131,
       "word": "谁懂王楚钦孙颖莎这个笑",
       "onboard_time": 1748141421,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281293,
+      "num": 226500,
+      "word": "肖战周雨彤认识十年了",
+      "onboard_time": 1748151322,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277862,
+      "num": 225501,
+      "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+      "onboard_time": 1748150540,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 273715,
@@ -409,6 +425,22 @@
       "onboard_time": 1748128517,
       "rank": 30,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 272516,
+      "num": 272516,
+      "word": "教育局回应教师因未发福利消极教学",
+      "onboard_time": 1748149341,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 271821,
+      "num": 224428,
+      "word": "奔跑吧路透",
+      "onboard_time": 1748150422,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 270167,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254154,
+      "num": 260218,
+      "word": "费曼回应近照争议",
+      "onboard_time": 1748149942,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253911,
       "num": 228095,
       "word": "易烊千玺狂野时代获奖发文",
@@ -481,14 +521,6 @@
       "onboard_time": 1748101044,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247293,
-      "num": 224815,
-      "word": "教育局回应教师因未发福利消极教学",
-      "onboard_time": 1748149341,
-      "rank": 26,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 245714,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216959,
+      "num": 216959,
+      "word": "高圆圆说90%的社交对她都是消耗",
+      "onboard_time": 1748151262,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216704,
       "num": 216704,
       "word": "张继科觉得冠军还是会留在中国",
@@ -569,6 +609,14 @@
       "onboard_time": 1748144479,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211078,
+      "num": 211078,
+      "word": "已经为陈楚生哭三天了",
+      "onboard_time": 1748151019,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 210529,
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 185491,
-      "num": 191596,
+      "num": 208840,
       "word": "世乒赛复刻杯目前仅限于单打",
       "onboard_time": 1748147180,
       "rank": 29,
@@ -697,6 +745,14 @@
       "onboard_time": 1748144420,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177313,
+      "num": 177313,
+      "word": "全国ATM机只剩80万台",
+      "onboard_time": 1748150482,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 176860,
@@ -835,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162245,
+      "num": 162245,
+      "word": "花20万在小县城买的顶楼露台房",
+      "onboard_time": 1748151141,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159954,
       "num": 159954,
       "word": "特朗普表演耳朵被击中",
@@ -883,20 +947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155272,
+      "num": 155272,
+      "word": "谢可寅自嘲我算什么东西",
+      "onboard_time": 1748150961,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153071,
       "num": 217801,
       "word": "李荣浩你的40我的40好像不一样",
       "onboard_time": 1748150241,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152717,
-      "num": 152717,
-      "word": "奔跑吧路透",
-      "onboard_time": 1748150422,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 150177,
@@ -947,12 +1011,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143997,
-      "num": 143997,
-      "word": "全国ATM机只剩80万台",
-      "onboard_time": 1748150482,
-      "rank": 44,
-      "category": "民生新闻,财经"
+      "raw_hot": 143652,
+      "num": 143652,
+      "word": "当我让男朋友看藏海传",
+      "onboard_time": 1748151440,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143327,
+      "num": 276801,
+      "word": "日艇在敏感海域发射66发实弹",
+      "onboard_time": 1748150002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141612,
@@ -961,6 +1033,14 @@
       "onboard_time": 1748087480,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139259,
+      "num": 139259,
+      "word": "许嵩 我是冰心你们就是我的玉壶",
+      "onboard_time": 1748151201,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 137116,
@@ -995,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133850,
-      "num": 140237,
-      "word": "赵丽颖张一山扇巴掌戏扇一赠一",
-      "onboard_time": 1748150540,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132806,
       "num": 132806,
       "word": "金棕榈",
@@ -1019,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132466,
+      "num": 132466,
+      "word": "包上恩宋威龙直播",
+      "onboard_time": 1748151201,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132321,
       "num": 132321,
       "word": "陈天润发文",
@@ -1027,12 +1107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130357,
-      "num": 260218,
-      "word": "费曼回应近照争议",
-      "onboard_time": 1748149942,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 130893,
+      "num": 130003,
+      "word": "时代少年团 Lemon",
+      "onboard_time": 1748151262,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 129834,
@@ -1131,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119172,
+      "num": 119172,
+      "word": "社工考试",
+      "onboard_time": 1748148503,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117113,
       "num": 117113,
       "word": "我家腰儿仿佛刚开播的样子",
@@ -1193,6 +1281,14 @@
       "onboard_time": 1748128157,
       "rank": 28,
       "category": "其它"
+    },
+    {
+      "raw_hot": 110266,
+      "num": 144937,
+      "word": "这些水果是调节情绪大师",
+      "onboard_time": 1748151562,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 110261,
@@ -1291,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100795,
+      "num": 145079,
+      "word": "印度上班族现状",
+      "onboard_time": 1748151322,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100562,
       "num": 110212,
       "word": "歌手",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1748100145,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96139,
+      "num": 259354,
+      "word": "救下4名老人女子还原事发经过",
+      "onboard_time": 1748149580,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 95147,
@@ -1491,6 +1603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69454,
+      "num": 157664,
+      "word": "直击KPL乒乓球现场",
+      "onboard_time": 1748151620,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 69444,
+      "num": 268492,
+      "word": "绞肉机生蛆令人作呕校园餐须更透明",
+      "onboard_time": 1748149641,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68725,
       "num": 189646,
       "word": "吃鸡腿饭减肥的原理是什么",
@@ -1515,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60535,
-      "num": 268492,
-      "word": "绞肉机生蛆令人作呕校园餐须更透明",
-      "onboard_time": 1748149641,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 60156,
       "num": 60156,
       "word": "甲状腺癌并非成人专属",
@@ -1539,14 +1659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52097,
-      "num": 259354,
-      "word": "救下4名老人女子还原事发经过",
-      "onboard_time": 1748149580,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 48777,
       "num": 56212,
       "word": "小米YU7电动内翻门把手",
@@ -1561,14 +1673,6 @@
       "onboard_time": 1748120834,
       "rank": 48,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 45347,
-      "num": 276801,
-      "word": "日艇在敏感海域发射66发实弹",
-      "onboard_time": 1748150002,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45221,
@@ -1667,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22006,
+      "num": 511101,
+      "word": "中国快速发展的领域绝不局限于AI",
+      "onboard_time": 1748150780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21749,
       "num": 129617,
       "word": "十二星座腹黑的一面",
@@ -1753,6 +1865,14 @@
       "onboard_time": 1748115255,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7826,
+      "num": 224014,
+      "word": "见手青中毒后应该如何急救",
+      "onboard_time": 1748151081,
+      "rank": 19,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
