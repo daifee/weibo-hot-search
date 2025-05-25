@@ -1,0 +1,410 @@
+{
+  "runTime": 1748168722152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129263,
+        "num": 1180682,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1068925,
+        "num": 1068925,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1748167343,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57627,
+        "num": 784110,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 747534,
+        "num": 747534,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 552180,
+        "num": 552180,
+        "word": "林昀儒高承睿vs户上隼辅篠塚大登",
+        "onboard_time": 1748166263,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518587,
+        "num": 518587,
+        "word": "赵丽颖白色仙女长裙",
+        "onboard_time": 1748163741,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 466106,
+        "num": 466106,
+        "word": "国乒22次世乒赛男单夺冠",
+        "onboard_time": 1748165061,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438538,
+        "num": 438538,
+        "word": "藏海跪太快镜头差点没跟上",
+        "onboard_time": 1748163860,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277860,
+        "num": 277860,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146368,
+        "num": 277191,
+        "word": "中戏表演系发文怀念朱媛媛",
+        "onboard_time": 1748167642,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1318829,
+        "num": 276439,
+        "word": "玉米蛋挞 贵",
+        "onboard_time": 1748165001,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1032774,
+        "num": 275742,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 975035,
+        "num": 274273,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263657,
+        "num": 273790,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80320,
+        "num": 272587,
+        "word": "黔灵山公园一小猴右臂只剩骨头悬肩上",
+        "onboard_time": 1748161941,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257230,
+        "num": 271148,
+        "word": "白举纲 有这样的太太我很得意",
+        "onboard_time": 1748165900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38223,
+        "num": 270813,
+        "word": "老番茄上任iQOO店长",
+        "onboard_time": 1748164641,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27883,
+        "num": 269192,
+        "word": "外卖盒装热食有哪些危害",
+        "onboard_time": 1748168181,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149176,
+        "num": 268249,
+        "word": "户上隼辅篠塚大登男双夺冠",
+        "onboard_time": 1748168241,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36522,
+        "num": 267109,
+        "word": "男子8年来疑以救助猫狗之名诈捐",
+        "onboard_time": 1748167702,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492726,
+        "num": 266696,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376808,
+        "num": 265780,
+        "word": "日本食品有多变态",
+        "onboard_time": 1748165061,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264985,
+        "num": 264985,
+        "word": "鹤岗 小瑞士",
+        "onboard_time": 1748160621,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 251331,
+        "num": 251331,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239343,
+        "num": 239343,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215104,
+        "num": 215104,
+        "word": "沙溢王楚然肤色差",
+        "onboard_time": 1748165721,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205138,
+        "num": 205138,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179154,
+        "num": 179154,
+        "word": "居然发现了陈赫的身体优势",
+        "onboard_time": 1748167821,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135115,
+        "num": 178140,
+        "word": "今年什么口味粽子最火",
+        "onboard_time": 1748161701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22823,
+        "num": 178126,
+        "word": "中国军人走出国门",
+        "onboard_time": 1748168480,
+        "rank": 29,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 207328,
+        "num": 178126,
+        "word": "刚买的飞机被打啦",
+        "onboard_time": 1748164462,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178121,
+        "num": 178121,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177939,
+        "num": 177939,
+        "word": "折腰",
+        "onboard_time": 1748167642,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160021,
+        "num": 160021,
+        "word": "世乒赛",
+        "onboard_time": 1748162901,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "杨幂喂奶牛",
+        "onboard_time": 1748168241,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157754,
+        "num": 157754,
+        "word": "内娱小短剧勇闯韩流",
+        "onboard_time": 1748168361,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155928,
+        "num": 155928,
+        "word": "2万4买香奈儿连衣裙能否7折回收",
+        "onboard_time": 1748165601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153532,
+        "num": 153532,
+        "word": "户上隼辅球拍被队友打掉了",
+        "onboard_time": 1748166862,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156859,
+        "num": 153129,
+        "word": "杨幂完全是妈妈级别的",
+        "onboard_time": 1748154081,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151862,
+        "num": 151862,
+        "word": "田曦薇紫藤萝公主",
+        "onboard_time": 1748165840,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149504,
+        "num": 149504,
+        "word": "奔跑吧投票",
+        "onboard_time": 1748158582,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148774,
+        "num": 148774,
+        "word": "奔跑吧直播延迟",
+        "onboard_time": 1748168421,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142404,
+        "num": 142404,
+        "word": "王者老英雄玩法升级爆料",
+        "onboard_time": 1748168480,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139963,
+        "num": 139963,
+        "word": "原来真有人上学上班兼职三手抓",
+        "onboard_time": 1748165601,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12720,
+        "num": 139098,
+        "word": "自行清洗空调如何兼顾省心与安全",
+        "onboard_time": 1748167343,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138895,
+        "num": 138895,
+        "word": "奔跑吧海滩走花路",
+        "onboard_time": 1748156900,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134556,
+        "num": 134556,
+        "word": "颁奖典礼上的王楚钦孙颖莎",
+        "onboard_time": 1748163321,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125801,
+        "num": 125801,
+        "word": "法网",
+        "onboard_time": 1748168661,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124673,
+        "num": 124673,
+        "word": "每天手机跳转到购物APP一万次",
+        "onboard_time": 1748166800,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118601,
+        "num": 118601,
+        "word": "外国人敲西瓜是跟谁学的",
+        "onboard_time": 1748165061,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}

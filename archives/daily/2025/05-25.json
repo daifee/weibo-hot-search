@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748165896033,
+  "endTime": 1748168722152,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1318829,
+      "num": 309193,
+      "word": "玉米蛋挞 贵",
+      "onboard_time": 1748165001,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1294456,
       "num": 1294456,
       "word": "叶童终止新白娘子传奇演唱会",
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129263,
+      "num": 1180682,
+      "word": "麻辣烫 轻奢",
+      "onboard_time": 1748164822,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1094405,
       "num": 1094405,
       "word": "喜羊羊27岁了",
@@ -115,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068925,
+      "num": 1068925,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1748167343,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1051188,
       "num": 485841,
       "word": "哈妮克孜因为戴眼镜探班被换角",
       "onboard_time": 1748133440,
       "rank": 3,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1032774,
+      "num": 396543,
+      "word": "杨颖澳门活动生图",
+      "onboard_time": 1748164100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016295,
@@ -131,11 +163,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 948168,
-      "num": 396543,
-      "word": "杨颖澳门活动生图",
-      "onboard_time": 1748164100,
-      "rank": 21,
+      "raw_hot": 975035,
+      "num": 274273,
+      "word": "内娱四大淡颜",
+      "onboard_time": 1748166021,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -323,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552180,
+      "num": 552180,
+      "word": "林昀儒高承睿vs户上隼辅篠塚大登",
+      "onboard_time": 1748166263,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513534,
       "num": 279823,
       "word": "印度一男子性侵马匹被捕",
@@ -420,7 +460,7 @@
     },
     {
       "raw_hot": 393623,
-      "num": 253463,
+      "num": 265780,
       "word": "日本食品有多变态",
       "onboard_time": 1748165061,
       "rank": 30,
@@ -569,14 +609,6 @@
       "onboard_time": 1748148022,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309193,
-      "num": 309193,
-      "word": "玉米蛋挞 贵",
-      "onboard_time": 1748165001,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 308901,
@@ -747,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257230,
+      "num": 271148,
+      "word": "白举纲 有这样的太太我很得意",
+      "onboard_time": 1748165900,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255274,
       "num": 204627,
       "word": "教师因未发福利讲课3分钟就放电影",
@@ -769,14 +809,6 @@
       "onboard_time": 1748098825,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 252171,
-      "num": 252171,
-      "word": "麻辣烫 轻奢",
-      "onboard_time": 1748164822,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 251626,
@@ -897,6 +929,14 @@
       "onboard_time": 1748097626,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215104,
+      "num": 257686,
+      "word": "沙溢王楚然肤色差",
+      "onboard_time": 1748165721,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 213420,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179154,
+      "num": 179154,
+      "word": "居然发现了陈赫的身体优势",
+      "onboard_time": 1748167821,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178937,
       "num": 178937,
       "word": "九尾首发",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1748159180,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 177939,
+      "word": "折腰",
+      "onboard_time": 1748167642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 177365,
@@ -1283,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160377,
-      "num": 257686,
-      "word": "沙溢王楚然肤色差",
-      "onboard_time": 1748165721,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160298,
       "num": 160298,
       "word": "郑恺喊话宋妍霏",
@@ -1305,6 +1353,14 @@
       "onboard_time": 1748132721,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159027,
+      "num": 159027,
+      "word": "杨幂喂奶牛",
+      "onboard_time": 1748168241,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 158371,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1748109917,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "内娱小短剧勇闯韩流",
+      "onboard_time": 1748168361,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 157298,
@@ -1379,6 +1443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155928,
+      "num": 155928,
+      "word": "2万4买香奈儿连衣裙能否7折回收",
+      "onboard_time": 1748165601,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155668,
       "num": 155668,
       "word": "减肥期间不建议喝果蔬汁",
@@ -1403,6 +1475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153532,
+      "num": 153532,
+      "word": "户上隼辅球拍被队友打掉了",
+      "onboard_time": 1748166862,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153071,
       "num": 217801,
       "word": "李荣浩你的40我的40好像不一样",
@@ -1419,6 +1499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149176,
+      "num": 268249,
+      "word": "户上隼辅篠塚大登男双夺冠",
+      "onboard_time": 1748168241,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148774,
+      "num": 148774,
+      "word": "奔跑吧直播延迟",
+      "onboard_time": 1748168421,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148527,
       "num": 154367,
       "word": "给魏劭再下一次王母仙药",
@@ -1427,20 +1523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147414,
-      "num": 147414,
-      "word": "2万4买香奈儿连衣裙能否7折回收",
-      "onboard_time": 1748165601,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147072,
       "num": 147072,
       "word": "白宫被裁工作人员当场哭泣",
       "onboard_time": 1748137401,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146368,
+      "num": 277191,
+      "word": "中戏表演系发文怀念朱媛媛",
+      "onboard_time": 1748167642,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 145453,
@@ -1483,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142404,
+      "num": 142404,
+      "word": "王者老英雄玩法升级爆料",
+      "onboard_time": 1748168480,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141612,
       "num": 141612,
       "word": "古茗两块五柠檬水",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1748151201,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138895,
+      "num": 138895,
+      "word": "奔跑吧海滩走花路",
+      "onboard_time": 1748156900,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 137116,
@@ -1537,6 +1649,14 @@
       "onboard_time": 1748102422,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135115,
+      "num": 419198,
+      "word": "今年什么口味粽子最火",
+      "onboard_time": 1748161701,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134480,
@@ -1572,7 +1692,7 @@
     },
     {
       "raw_hot": 132590,
-      "num": 132590,
+      "num": 272587,
       "word": "黔灵山公园一小猴右臂只剩骨头悬肩上",
       "onboard_time": 1748161941,
       "rank": 32,
@@ -1699,6 +1819,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125801,
+      "num": 125801,
+      "word": "法网",
+      "onboard_time": 1748168661,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124673,
+      "num": 124673,
+      "word": "每天手机跳转到购物APP一万次",
+      "onboard_time": 1748166800,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 124170,
       "num": 124170,
       "word": "全员加速中投票",
@@ -1803,14 +1939,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118407,
-      "num": 419198,
-      "word": "今年什么口味粽子最火",
-      "onboard_time": 1748161701,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117113,
       "num": 117113,
       "word": "我家腰儿仿佛刚开播的样子",
@@ -1841,14 +1969,6 @@
       "onboard_time": 1748165539,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113752,
-      "num": 113752,
-      "word": "奔跑吧海滩走花路",
-      "onboard_time": 1748156900,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 113737,
@@ -2436,7 +2556,7 @@
     },
     {
       "raw_hot": 67454,
-      "num": 763399,
+      "num": 784110,
       "word": "各地端午氛围渐浓",
       "onboard_time": 1748160981,
       "rank": 2,
@@ -2619,6 +2739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36522,
+      "num": 267109,
+      "word": "男子8年来疑以救助猫狗之名诈捐",
+      "onboard_time": 1748167702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35274,
       "num": 150999,
       "word": "医生教你如何正确面对甲状腺结节",
@@ -2699,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27883,
+      "num": 269192,
+      "word": "外卖盒装热食有哪些危害",
+      "onboard_time": 1748168181,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27529,
       "num": 303540,
       "word": "为什么中医总把情绪问题与肝气挂钩",
@@ -2721,6 +2857,14 @@
       "onboard_time": 1748156541,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22823,
+      "num": 178126,
+      "word": "中国军人走出国门",
+      "onboard_time": 1748168480,
+      "rank": 29,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 21749,
@@ -2809,6 +2953,14 @@
       "onboard_time": 1748150183,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12720,
+      "num": 139098,
+      "word": "自行清洗空调如何兼顾省心与安全",
+      "onboard_time": 1748167343,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12227,
