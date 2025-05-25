@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/26 00:29:29 ~ 2025/05/26 04:26:14
+本榜单时间：2025/05/26 00:29:29 ~ 2025/05/26 04:39:29
 </p>
 </blockquote>
 <p>
@@ -461,6 +461,12 @@ KPL温暖的大家庭（热度：38430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%8A%B1%E6%B5%B7%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%83%9F%E8%8A%B1%23" target="weibo">
 和花海一起看烟花（热度：18064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8D%A7%E8%B5%B7%E5%9C%A3%E5%8B%83%E8%8E%B1%E5%BE%B7%E6%9D%AF%23" target="weibo">
+王楚钦捧起圣勃莱德杯（热度：16702）
 </a>
 </li>
 
