@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748158749936,
+  "endTime": 1748161829378,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1194402,
+      "num": 1194402,
+      "word": "哈佛留学生上演大逃亡",
+      "onboard_time": 1748158701,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1146745,
       "num": 1183479,
       "word": "高圆圆说90%的社交对她都是消耗",
@@ -108,15 +116,23 @@
     },
     {
       "raw_hot": 1016295,
-      "num": 446058,
+      "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
     },
     {
+      "raw_hot": 1015025,
+      "num": 611479,
+      "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+      "onboard_time": 1748158462,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931423,
-      "num": 303171,
+      "num": 366002,
       "word": "肖战周雨彤认识十年了",
       "onboard_time": 1748151322,
       "rank": 15,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 849832,
-      "num": 304083,
+      "num": 366015,
       "word": "王楚然",
       "onboard_time": 1748153002,
       "rank": 12,
@@ -235,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599841,
+      "num": 599841,
+      "word": "王者新英雄孙权爆料",
+      "onboard_time": 1748158280,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 592060,
       "num": 592060,
       "word": "一诺被乒乓球做局了",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 463851,
-      "num": 232455,
+      "num": 365742,
       "word": "杨幂完全是妈妈级别的",
       "onboard_time": 1748154081,
       "rank": 25,
@@ -323,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388318,
-      "num": 388318,
+      "raw_hot": 404563,
+      "num": 602946,
       "word": "官方通报网传女子领低保炒股",
       "onboard_time": 1748156242,
       "rank": 5,
@@ -363,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 366485,
+      "num": 366485,
+      "word": "奔跑吧投票",
+      "onboard_time": 1748158582,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365571,
       "num": 365571,
       "word": "孙颖莎说冠军一次比一次更难",
@@ -385,6 +417,14 @@
       "onboard_time": 1748155282,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349872,
+      "num": 298931,
+      "word": "白鹿王楚然章若楠跑男路透图",
+      "onboard_time": 1748157441,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 324296,
@@ -411,20 +451,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 315534,
+      "num": 315534,
+      "word": "花20万在小县城买的顶楼露台房",
+      "onboard_time": 1748151141,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314669,
       "num": 314669,
       "word": "莫德里奇",
       "onboard_time": 1748107698,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313707,
-      "num": 233401,
-      "word": "花20万在小县城买的顶楼露台房",
-      "onboard_time": 1748151141,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 313118,
@@ -491,6 +531,22 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 298609,
+      "num": 298609,
+      "word": "鹤岗 小瑞士",
+      "onboard_time": 1748160621,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 297619,
+      "num": 297619,
+      "word": "奔跑吧",
+      "onboard_time": 1748139560,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293131,
       "num": 293131,
       "word": "谁懂王楚钦孙颖莎这个笑",
@@ -499,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279379,
-      "num": 229751,
-      "word": "白鹿王楚然章若楠跑男路透图",
-      "onboard_time": 1748157441,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 280392,
+      "num": 280392,
+      "word": "马龙带娃参加斯巴达",
+      "onboard_time": 1748157923,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 277862,
@@ -553,6 +609,14 @@
       "onboard_time": 1748089822,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267777,
+      "num": 267777,
+      "word": "陈梦妈妈头顶一座塔开车",
+      "onboard_time": 1748158040,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 264011,
@@ -619,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241089,
+      "num": 241089,
+      "word": "金靖记错热巴星座召唤邪恶小巴巴",
+      "onboard_time": 1748156841,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240527,
       "num": 203561,
       "word": "298的票我自己唱了290",
@@ -643,20 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232495,
-      "num": 232495,
-      "word": "奔跑吧",
-      "onboard_time": 1748139560,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 229696,
-      "num": 229696,
-      "word": "金靖记错热巴星座召唤邪恶小巴巴",
-      "onboard_time": 1748156841,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "TizzyT说到冷战劝架嘴角没压住",
+      "onboard_time": 1748160921,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 219595,
@@ -715,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212519,
-      "num": 212519,
-      "word": "王者新英雄孙权爆料",
-      "onboard_time": 1748158280,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 211378,
       "num": 276029,
       "word": "年轻人有自己的生日大汉堡",
@@ -779,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199930,
+      "num": 366074,
+      "word": "女子疑拍刚出生小鹿遭母鹿攻击",
+      "onboard_time": 1748160500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199179,
       "num": 199179,
       "word": "白鹿对接发文回应",
@@ -819,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194236,
-      "num": 194236,
-      "word": "陈梦妈妈头顶一座塔开车",
-      "onboard_time": 1748158040,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "藏海传优酷热度破10400",
@@ -835,12 +891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192646,
+      "num": 192646,
+      "word": "朱媛媛是中戏客座教授和硕导",
+      "onboard_time": 1748159960,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191842,
       "num": 149622,
       "word": "王楚钦称奥运会后两人心态好了很多",
       "onboard_time": 1748105601,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191735,
+      "num": 191735,
+      "word": "李连杰晒小女儿大学毕业照",
+      "onboard_time": 1748158881,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 191710,
@@ -857,14 +929,6 @@
       "onboard_time": 1748142080,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 187072,
-      "num": 187072,
-      "word": "马龙带娃参加斯巴达",
-      "onboard_time": 1748157923,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 185491,
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158127,
+      "num": 230333,
+      "word": "女子闯红灯致事故辩称看不懂",
+      "onboard_time": 1748157923,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157812,
       "num": 157211,
       "word": "2025戛纳电影节获奖名单",
@@ -1171,12 +1243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148885,
-      "num": 148885,
-      "word": "李沐宸谈恋爱没一个接受她拍吻戏",
-      "onboard_time": 1748158462,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 149168,
+      "num": 149168,
+      "word": "学蝶泳这么不体面吗",
+      "onboard_time": 1748161101,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148527,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1748087480,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 140510,
-      "num": 140510,
-      "word": "奔跑吧投票",
-      "onboard_time": 1748158582,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 139386,
@@ -1403,12 +1467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127856,
+      "num": 127856,
+      "word": "周深搭档张靓颖",
+      "onboard_time": 1748160741,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127793,
       "num": 127793,
       "word": "林依晨孕7月素颜照",
       "onboard_time": 1748074580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127686,
+      "num": 127686,
+      "word": "白鹿说小鬼是她的rapper老师",
+      "onboard_time": 1748159001,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 126824,
@@ -1515,6 +1595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119702,
+      "num": 119702,
+      "word": "李诗沣马来西亚大师赛夺冠",
+      "onboard_time": 1748160381,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119172,
       "num": 119172,
       "word": "社工考试",
@@ -1571,20 +1659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112846,
-      "num": 112846,
-      "word": "哈佛留学生上演大逃亡",
-      "onboard_time": 1748158701,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112657,
       "num": 232346,
       "word": "AG运动会gogogo",
       "onboard_time": 1748149522,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112324,
+      "num": 195012,
+      "word": "你喝到的甘蔗汁可能是糖精水",
+      "onboard_time": 1748158642,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 112216,
@@ -1667,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108576,
+      "num": 312105,
+      "word": "打工人要个双休怎么这么难",
+      "onboard_time": 1748160500,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108210,
       "num": 177554,
       "word": "绝意腹肌",
@@ -1715,6 +1811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105810,
+      "num": 105810,
+      "word": "宋威龙i人战术喝水",
+      "onboard_time": 1748161280,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "儿童疑触碰小区路灯电桩后身亡",
+      "onboard_time": 1748159180,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105081,
       "num": 105081,
       "word": "折腰剧宣",
@@ -1731,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103428,
+      "num": 103428,
+      "word": "梁博首唱会",
+      "onboard_time": 1748161582,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103069,
       "num": 103069,
       "word": "张泉灵再次灵魂发问黄圣依",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1748104462,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102037,
+      "num": 230168,
+      "word": "费曼如果不喜欢现在的我可以离开",
+      "onboard_time": 1748154922,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 101502,
@@ -1771,12 +1899,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101162,
+      "num": 101162,
+      "word": "白举纲歌手后复盘到凌晨四点",
+      "onboard_time": 1748160200,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100562,
       "num": 110212,
       "word": "歌手",
       "onboard_time": 1748093364,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99984,
+      "num": 99984,
+      "word": "今年什么口味粽子最火",
+      "onboard_time": 1748161701,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98942,
@@ -1793,6 +1937,14 @@
       "onboard_time": 1748127917,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96326,
+      "num": 127730,
+      "word": "日英意六代机模型亮相",
+      "onboard_time": 1748159841,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96264,
@@ -1825,6 +1977,14 @@
       "onboard_time": 1748095167,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 94425,
+      "num": 94425,
+      "word": "会谈恋爱是一种天分",
+      "onboard_time": 1748159781,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 93805,
@@ -1937,14 +2097,6 @@
       "onboard_time": 1748106798,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81350,
-      "num": 230168,
-      "word": "费曼如果不喜欢现在的我可以离开",
-      "onboard_time": 1748154922,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 80368,
@@ -2091,6 +2243,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58640,
+      "num": 309571,
+      "word": "时代少年团专业许愿",
+      "onboard_time": 1748160320,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 54928,
+      "num": 315211,
+      "word": "400元押题卷号称最低能押中150分",
+      "onboard_time": 1748160141,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54914,
+      "num": 636412,
+      "word": "各地端午氛围渐浓",
+      "onboard_time": 1748160981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48777,
       "num": 56212,
       "word": "小米YU7电动内翻门把手",
@@ -2163,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41889,
-      "num": 230333,
-      "word": "女子闯红灯致事故辩称看不懂",
-      "onboard_time": 1748157923,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40858,
       "num": 154231,
       "word": "现在中国实力发展到什么程度了",
@@ -2193,14 +2361,6 @@
       "onboard_time": 1748157862,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34235,
-      "num": 195012,
-      "word": "你喝到的甘蔗汁可能是糖精水",
-      "onboard_time": 1748158642,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 33647,
@@ -2257,6 +2417,22 @@
       "onboard_time": 1748108718,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27529,
+      "num": 303540,
+      "word": "为什么中医总把情绪问题与肝气挂钩",
+      "onboard_time": 1748160141,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26321,
+      "num": 304807,
+      "word": "以军被曝系统性强迫巴平民做人盾",
+      "onboard_time": 1748161461,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23207,
@@ -2385,6 +2561,9 @@
     },
     {
       "word": "#不断丰富人民精神世界#"
+    },
+    {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
     }
   ]
 }
