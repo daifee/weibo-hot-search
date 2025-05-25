@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748191560123,
+  "endTime": 1748193635333,
   "band_list": [
     {
       "raw_hot": 1016223,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249109,
+      "num": 207372,
+      "word": "李乃文喊话辛柏青有我们",
+      "onboard_time": 1748193077,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239771,
       "num": 239771,
       "word": "邓亚萍发文祝贺王曼昱蒯曼",
@@ -185,6 +193,14 @@
       "onboard_time": 1748166021,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220929,
+      "num": 220929,
+      "word": "巴赫对孙颖莎说保持联系",
+      "onboard_time": 1748192119,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 206399,
@@ -219,6 +235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159799,
+      "num": 159799,
+      "word": "王楚钦谈双冠荣誉",
+      "onboard_time": 1748191699,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153019,
       "num": 153019,
       "word": "麒麟芯片",
@@ -227,12 +251,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145901,
+      "num": 145901,
+      "word": "朋友圈 想发就发",
+      "onboard_time": 1748191160,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143532,
       "num": 182160,
       "word": "华晨宇长春哦啦音乐节",
       "onboard_time": 1748190080,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138388,
+      "num": 138388,
+      "word": "癸玺才是藏海一家灭门的根源",
+      "onboard_time": 1748192538,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 138027,
@@ -283,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116946,
+      "num": 168538,
+      "word": "seventeen直播",
+      "onboard_time": 1748190080,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114695,
       "num": 114695,
       "word": "别让孩子坐上夺命飞椅海盗船",
@@ -323,12 +371,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104439,
-      "num": 168538,
-      "word": "seventeen直播",
-      "onboard_time": 1748190080,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 102045,
+      "num": 102045,
+      "word": "折腰第29集圆房",
+      "onboard_time": 1748192358,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 101836,
@@ -337,6 +385,14 @@
       "onboard_time": 1748189182,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101009,
+      "num": 101009,
+      "word": "王楚钦2天2冠",
+      "onboard_time": 1748192538,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 92053,
@@ -371,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83699,
+      "num": 184785,
+      "word": "英国脱欧5年为何又重修旧好",
+      "onboard_time": 1748191220,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81403,
       "num": 114530,
       "word": "TT万妮达不扫兴的朋友",
@@ -395,14 +459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 72716,
-      "num": 100231,
-      "word": "朋友圈 想发就发",
-      "onboard_time": 1748191160,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 68353,
       "num": 804898,
       "word": "美国90%圣诞用品来自中国制造",
@@ -411,12 +467,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40534,
-      "num": 184785,
-      "word": "英国脱欧5年为何又重修旧好",
-      "onboard_time": 1748191220,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 58508,
+      "num": 66789,
+      "word": "章昊cha了IAN进行曲",
+      "onboard_time": 1748191999,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 56184,
+      "num": 66689,
+      "word": "皮筋侯天团团灭",
+      "onboard_time": 1748192958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54894,
+      "num": 66598,
+      "word": "骗杀父仇人进火场救自己",
+      "onboard_time": 1748191939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53599,
+      "num": 66525,
+      "word": "曼联vs阿斯顿维拉",
+      "onboard_time": 1748192058,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 18064,
