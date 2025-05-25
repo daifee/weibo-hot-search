@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748162694334,
+  "endTime": 1748165061701,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -4155,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1089154,
+      "num": 611479,
+      "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+      "onboard_time": 1748158462,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1087585,
       "num": 1087585,
       "word": "17岁的森碟",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1746702743,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1030857,
-      "num": 611479,
-      "word": "李沐宸谈恋爱没一个接受她拍吻戏",
-      "onboard_time": 1748158462,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 1030751,
@@ -7011,6 +7011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 788183,
+      "num": 788183,
+      "word": "鹤岗 小瑞士",
+      "onboard_time": 1748160621,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 787561,
       "num": 787561,
       "word": "明天上班进公司大门的我",
@@ -7513,6 +7521,14 @@
       "onboard_time": 1747972763,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 754822,
+      "num": 754822,
+      "word": "赵丽颖白色仙女长裙",
+      "onboard_time": 1748163741,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 754406,
@@ -12715,6 +12731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512191,
+      "num": 473749,
+      "word": "女子疑拍刚出生小鹿遭母鹿攻击",
+      "onboard_time": 1748160500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512125,
       "num": 512125,
       "word": "美国人正绕过关税打飞的来华购物",
@@ -13833,14 +13857,6 @@
       "onboard_time": 1746458902,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 473749,
-      "num": 473749,
-      "word": "女子疑拍刚出生小鹿遭母鹿攻击",
-      "onboard_time": 1748160500,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472502,
@@ -15001,14 +15017,6 @@
       "onboard_time": 1746574159,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 440388,
-      "num": 440388,
-      "word": "鹤岗 小瑞士",
-      "onboard_time": 1748160621,
-      "rank": 20,
-      "category": "旅游"
     },
     {
       "raw_hot": 440380,
@@ -17875,6 +17883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369239,
+      "num": 369239,
+      "word": "藏海跪太快镜头差点没跟上",
+      "onboard_time": 1748163860,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369076,
       "num": 346277,
       "word": "奔跑吧路透",
@@ -17992,6 +18008,14 @@
       "word": "胡杏儿给你亿点来自港姐的震撼",
       "onboard_time": 1746630324,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366580,
+      "num": 294034,
+      "word": "杨颖澳门活动生图",
+      "onboard_time": 1748164100,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -18465,6 +18489,14 @@
       "onboard_time": 1747535009,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357182,
+      "num": 488845,
+      "word": "世乒赛",
+      "onboard_time": 1747662147,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 357045,
@@ -19001,6 +19033,14 @@
       "onboard_time": 1747659026,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345825,
+      "num": 329205,
+      "word": "颁奖典礼上的王楚钦孙颖莎",
+      "onboard_time": 1748163321,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 345775,
@@ -20875,14 +20915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310975,
-      "num": 310975,
-      "word": "世乒赛",
-      "onboard_time": 1747662147,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310804,
       "num": 578488,
       "word": "巴基斯坦华人为被困同胞送物资",
@@ -21697,6 +21729,14 @@
       "onboard_time": 1747216524,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300677,
+      "num": 301676,
+      "word": "朱媛媛是中戏客座教授和硕导",
+      "onboard_time": 1748159960,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 300580,
@@ -27491,6 +27531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237716,
+      "num": 237716,
+      "word": "玉米蛋挞 贵",
+      "onboard_time": 1748165001,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237700,
       "num": 336358,
       "word": "徐梦洁加盟五哈5",
@@ -28043,6 +28091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232061,
+      "num": 295684,
+      "word": "白鹿说小鬼是她的rapper老师",
+      "onboard_time": 1748159001,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231885,
       "num": 246933,
       "word": "让娜扎演女茶王简直是天才",
@@ -28369,6 +28425,14 @@
       "onboard_time": 1746370645,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229043,
+      "num": 170486,
+      "word": "刚买的飞机被打啦",
+      "onboard_time": 1748164462,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228893,
@@ -37307,14 +37371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192646,
-      "num": 301676,
-      "word": "朱媛媛是中戏客座教授和硕导",
-      "onboard_time": 1748159960,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192621,
       "num": 192621,
       "word": "陈德容四公练到下一个天亮",
@@ -42057,6 +42113,14 @@
       "onboard_time": 1747898481,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178655,
+      "num": 303078,
+      "word": "儿童疑触碰小区路灯电桩后身亡",
+      "onboard_time": 1748159180,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178631,
@@ -49555,6 +49619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156650,
+      "num": 299462,
+      "word": "绞肉机活蛆不能全靠家长陪餐发现",
+      "onboard_time": 1748163860,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 156617,
       "num": 194083,
       "word": "刘诗诗名字里不愧有两个S",
@@ -50793,6 +50865,14 @@
       "onboard_time": 1747118362,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153787,
+      "num": 153787,
+      "word": "九尾首发",
+      "onboard_time": 1748164401,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 153779,
@@ -60443,6 +60523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129429,
+      "num": 129429,
+      "word": "国乒多哈25日赛程",
+      "onboard_time": 1748164882,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129418,
       "num": 129418,
       "word": "迪士尼偶遇邓超孙俪一家四口",
@@ -60545,6 +60633,14 @@
       "onboard_time": 1747829002,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 129053,
+      "num": 129053,
+      "word": "麻辣烫 轻奢",
+      "onboard_time": 1748164822,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 129032,
@@ -61233,14 +61329,6 @@
       "onboard_time": 1747054522,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 127686,
-      "num": 127686,
-      "word": "白鹿说小鬼是她的rapper老师",
-      "onboard_time": 1748159001,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 127678,
@@ -66867,6 +66955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112507,
+      "num": 112507,
+      "word": "长沙一小区多户玻璃爆裂疑有弹孔",
+      "onboard_time": 1748163561,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112501,
       "num": 112501,
       "word": "饶毅力挺协和4加4有何深意",
@@ -69083,14 +69179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 105607,
-      "num": 303078,
-      "word": "儿童疑触碰小区路灯电桩后身亡",
-      "onboard_time": 1748159180,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105529,
       "num": 105529,
       "word": "王权弘业她爱我不然为什么只扎我",
@@ -69633,6 +69721,14 @@
       "onboard_time": 1747398142,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103614,
+      "num": 170494,
+      "word": "今年什么口味粽子最火",
+      "onboard_time": 1748161701,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103609,
@@ -70697,14 +70793,6 @@
       "onboard_time": 1747621222,
       "rank": 38,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 99984,
-      "num": 99984,
-      "word": "今年什么口味粽子最火",
-      "onboard_time": 1748161701,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99941,
@@ -76491,6 +76579,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 75103,
+      "num": 336255,
+      "word": "广西一烟花爆竹企业起火鞭炮齐鸣",
+      "onboard_time": 1748163860,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75067,
       "num": 266620,
       "word": "饿了么把五一补贴成了美食节",
@@ -77265,6 +77361,14 @@
       "onboard_time": 1747622602,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71434,
+      "num": 132849,
+      "word": "北六代动态飞行视频",
+      "onboard_time": 1748164761,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 71414,
@@ -78116,7 +78220,7 @@
     },
     {
       "raw_hot": 67454,
-      "num": 636412,
+      "num": 763399,
       "word": "各地端午氛围渐浓",
       "onboard_time": 1748160981,
       "rank": 2,
@@ -82339,6 +82443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49141,
+      "num": 171028,
+      "word": "老番茄上任iQOO店长",
+      "onboard_time": 1748164641,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49136,
       "num": 791658,
       "word": "文化中国行看文物里的绝美配色",
@@ -83953,6 +84065,14 @@
       "onboard_time": 1747399222,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 43845,
+      "num": 298019,
+      "word": "电表疯狂走字儿4个月用完2000度电",
+      "onboard_time": 1748164160,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43833,
@@ -85809,6 +85929,14 @@
       "onboard_time": 1747761377,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37664,
+      "num": 113251,
+      "word": "哈佛禁招令会影响比利时公主求学吗",
+      "onboard_time": 1748163680,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37637,
@@ -89985,6 +90113,14 @@
       "onboard_time": 1747906043,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25890,
+      "num": 296965,
+      "word": "果蔬汁减肥法存在着哪些误区",
+      "onboard_time": 1748164581,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25844,
@@ -97409,6 +97545,14 @@
       "onboard_time": 1747039523,
       "rank": 39,
       "category": "民生新闻,海外新闻"
+    },
+    {
+      "raw_hot": 7835,
+      "num": 129983,
+      "word": "武汉市政府发文祝贺武汉女足夺冠",
+      "onboard_time": 1748141721,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 7826,
