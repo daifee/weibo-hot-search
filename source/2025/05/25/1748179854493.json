@@ -1,0 +1,410 @@
+{
+  "runTime": 1748179854493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15408881,
+        "num": 15408881,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1748177123,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3693687,
+        "num": 3693687,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59788,
+        "num": 2431317,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2225286,
+        "num": 2225286,
+        "word": "王楚钦冠军",
+        "onboard_time": 1748179650,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1533595,
+        "num": 1533595,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1748175083,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 993599,
+        "num": 993599,
+        "word": "孙颖莎说输掉第6局后有一丝绝望",
+        "onboard_time": 1748179224,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560811,
+        "num": 948398,
+        "word": "平津侯 渣男",
+        "onboard_time": 1748176403,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500098,
+        "num": 914459,
+        "word": "刘端端演技",
+        "onboard_time": 1748177782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127599,
+        "num": 908487,
+        "word": "300万商铺征收补偿仅189万政府被起诉",
+        "onboard_time": 1748173342,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905304,
+        "num": 905304,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1748167343,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1393052,
+        "num": 819342,
+        "word": "杨颖好权威的一张脸",
+        "onboard_time": 1748174546,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373294,
+        "num": 739528,
+        "word": "藏海传第16集仇一次全报了",
+        "onboard_time": 1748175024,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288972,
+        "num": 730225,
+        "word": "范丞丞镜头下的章若楠",
+        "onboard_time": 1748169022,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725519,
+        "num": 725519,
+        "word": "赵丽颖犹豫半天比了个苹果",
+        "onboard_time": 1748177963,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49145,
+        "num": 710629,
+        "word": "男子站票30小时倒3趟车来京自首",
+        "onboard_time": 1748179465,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 691438,
+        "word": "郑钦文2比0帕芙柳琴科娃",
+        "onboard_time": 1748179527,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145954,
+        "num": 666908,
+        "word": "郑钦文连续四年法网开门红",
+        "onboard_time": 1748179042,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131546,
+        "num": 655311,
+        "word": "不愧是世乒赛女单决赛",
+        "onboard_time": 1748172200,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21167,
+        "num": 622980,
+        "word": "女子因丧事退机票被拒操作是否合规",
+        "onboard_time": 1748178983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612424,
+        "num": 612424,
+        "word": "女子闯红灯拒检逃逸后自撞身亡",
+        "onboard_time": 1748172022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266444,
+        "num": 563139,
+        "word": "藏海第三个仇人",
+        "onboard_time": 1748175504,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552101,
+        "num": 552101,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478541,
+        "num": 478541,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272422,
+        "num": 272422,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262347,
+        "num": 262347,
+        "word": "藏海翻了个白眼才开演",
+        "onboard_time": 1748178324,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244279,
+        "num": 244279,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241254,
+        "num": 241254,
+        "word": "idle匿名纸条",
+        "onboard_time": 1748173827,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192547,
+        "num": 235602,
+        "word": "赵丽颖白色仙女长裙",
+        "onboard_time": 1748163741,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158345,
+        "num": 234594,
+        "word": "哈佛医学院太平间前主管承认盗卖遗骸",
+        "onboard_time": 1748177842,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57066,
+        "num": 226409,
+        "word": "速降自行车有多危险",
+        "onboard_time": 1748178263,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243018,
+        "num": 223130,
+        "word": "肖战就该演美强惨",
+        "onboard_time": 1748177963,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217246,
+        "num": 217246,
+        "word": "女单冠亚季军自拍来了",
+        "onboard_time": 1748179405,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164177,
+        "num": 214891,
+        "word": "印尼总统发言感谢中国",
+        "onboard_time": 1748170160,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73017,
+        "num": 213006,
+        "word": "外军机抵近东海被我军雷达全程关照",
+        "onboard_time": 1748179224,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212864,
+        "num": 212864,
+        "word": "女子因丧事在平台申请退机票被拒",
+        "onboard_time": 1748170521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184223,
+        "num": 184223,
+        "word": "世乒赛直播",
+        "onboard_time": 1748179709,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180879,
+        "num": 180879,
+        "word": "蒋依依拿下陈凯歌剧组最高分",
+        "onboard_time": 1748175144,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180276,
+        "num": 180276,
+        "word": "不然退役",
+        "onboard_time": 1748179770,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179225,
+        "num": 179225,
+        "word": "王曼昱世乒赛女单亚军",
+        "onboard_time": 1748176043,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176904,
+        "num": 176904,
+        "word": "郑钦文vs帕芙柳琴科娃",
+        "onboard_time": 1748173284,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "每一口外卖都包含了身体要交的健康税",
+        "onboard_time": 1748179527,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169535,
+        "num": 169535,
+        "word": "蔡磊抗渐冻症6年妻儿为他过47岁生日",
+        "onboard_time": 1748174006,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167977,
+        "num": 167977,
+        "word": "丁禹兮谨言慎行地闯了很多祸",
+        "onboard_time": 1748175805,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163650,
+        "num": 163650,
+        "word": "奔跑吧直播",
+        "onboard_time": 1748170222,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159887,
+        "num": 159887,
+        "word": "玉米蛋挞 贵",
+        "onboard_time": 1748165001,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "田曦薇紫色抹胸纱裙",
+        "onboard_time": 1748177183,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148169,
+        "num": 148169,
+        "word": "藏海跪太快镜头差点没跟上",
+        "onboard_time": 1748163860,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30974,
+        "num": 146503,
+        "word": "为什么一生只有一次耐高",
+        "onboard_time": 1748178624,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145036,
+        "num": 145036,
+        "word": "耐高",
+        "onboard_time": 1748177241,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141979,
+        "num": 141979,
+        "word": "马嘉祺歌手音源破百万收藏",
+        "onboard_time": 1748179770,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748178100386,
+  "endTime": 1748179854493,
   "band_list": [
+    {
+      "raw_hot": 15408881,
+      "num": 15408881,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1748177123,
+      "rank": 36,
+      "category": "体育"
+    },
     {
       "raw_hot": 7424626,
       "num": 7424626,
@@ -16,14 +24,6 @@
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1748167343,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4757404,
-      "num": 4757404,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1748177123,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -48,6 +48,14 @@
       "word": "梁靖崑13比15雨果",
       "onboard_time": 1748102664,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2225286,
+      "num": 2225286,
+      "word": "王楚钦冠军",
+      "onboard_time": 1748179650,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1393052,
+      "num": 819342,
+      "word": "杨颖好权威的一张脸",
+      "onboard_time": 1748174546,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1340021,
       "num": 432754,
       "word": "玉米蛋挞 贵",
@@ -132,19 +148,11 @@
     },
     {
       "raw_hot": 1239916,
-      "num": 433190,
+      "num": 552101,
       "word": "内娱四大淡颜",
       "onboard_time": 1748166021,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1211899,
-      "num": 337072,
-      "word": "杨颖好权威的一张脸",
-      "onboard_time": 1748174546,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1194402,
@@ -209,6 +217,14 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 993599,
+      "num": 993599,
+      "word": "孙颖莎说输掉第6局后有一丝绝望",
+      "onboard_time": 1748179224,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 931423,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 725519,
+      "num": 725519,
+      "word": "赵丽颖犹豫半天比了个苹果",
+      "onboard_time": 1748177963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689850,
       "num": 689850,
       "word": "教育局回应教师因未发福利消极教学",
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 560811,
+      "num": 948398,
+      "word": "平津侯 渣男",
+      "onboard_time": 1748176403,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553111,
       "num": 231927,
       "word": "湖南郴州一发改局干部从办公楼坠楼",
@@ -491,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 500098,
+      "num": 914459,
+      "word": "刘端端演技",
+      "onboard_time": 1748177782,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495114,
       "num": 495114,
       "word": "藏海跪太快镜头差点没跟上",
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 433879,
-      "num": 433879,
+      "num": 730225,
       "word": "范丞丞镜头下的章若楠",
       "onboard_time": 1748169022,
       "rank": 26,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 390965,
-      "num": 390965,
+      "num": 739528,
       "word": "藏海传第16集仇一次全报了",
       "onboard_time": 1748175024,
       "rank": 6,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 342800,
-      "num": 342922,
+      "num": 655311,
       "word": "不愧是世乒赛女单决赛",
       "onboard_time": 1748172200,
       "rank": 18,
@@ -835,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293713,
-      "num": 293713,
-      "word": "平津侯 渣男",
-      "onboard_time": 1748176403,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293131,
       "num": 293131,
       "word": "谁懂王楚钦孙颖莎这个笑",
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 278454,
-      "num": 334043,
+      "num": 563139,
       "word": "藏海第三个仇人",
       "onboard_time": 1748175504,
       "rank": 14,
@@ -961,6 +993,14 @@
       "onboard_time": 1748138661,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 262347,
+      "num": 262347,
+      "word": "藏海翻了个白眼才开演",
+      "onboard_time": 1748178324,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 262307,
@@ -1051,12 +1091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242159,
-      "num": 242159,
-      "word": "赵丽颖犹豫半天比了个苹果",
+      "raw_hot": 243018,
+      "num": 223130,
+      "word": "肖战就该演美强惨",
       "onboard_time": 1748177963,
-      "rank": 18,
-      "category": "艺人"
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 241089,
@@ -1139,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217246,
+      "num": 217246,
+      "word": "女单冠亚季军自拍来了",
+      "onboard_time": 1748179405,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216704,
       "num": 216704,
       "word": "张继科觉得冠军还是会留在中国",
@@ -1219,20 +1267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206661,
+      "num": 691438,
+      "word": "郑钦文2比0帕芙柳琴科娃",
+      "onboard_time": 1748179527,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205411,
       "num": 205411,
       "word": "张极人机回复丁禹兮",
       "onboard_time": 1748146699,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205047,
-      "num": 205047,
-      "word": "刘端端演技",
-      "onboard_time": 1748177782,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 204243,
@@ -1467,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184223,
+      "num": 184223,
+      "word": "世乒赛直播",
+      "onboard_time": 1748179709,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182577,
       "num": 182577,
       "word": "王楚钦说混双夺冠后先不庆祝",
@@ -1483,12 +1539,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180879,
+      "num": 180879,
+      "word": "蒋依依拿下陈凯歌剧组最高分",
+      "onboard_time": 1748175144,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180676,
       "num": 180676,
       "word": "董明珠说孟羽童被开除失去最好机会",
       "onboard_time": 1748090423,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180276,
+      "num": 180276,
+      "word": "不然退役",
+      "onboard_time": 1748179770,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 179326,
@@ -1555,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176904,
+      "num": 176904,
+      "word": "郑钦文vs帕芙柳琴科娃",
+      "onboard_time": 1748173284,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176860,
       "num": 179670,
       "word": "孙颖莎以国家荣誉为第一位",
       "onboard_time": 1748145980,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176693,
-      "num": 176693,
-      "word": "蒋依依拿下陈凯歌剧组最高分",
-      "onboard_time": 1748175144,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 176252,
@@ -1625,6 +1697,14 @@
       "onboard_time": 1748113217,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172093,
+      "num": 172093,
+      "word": "每一口外卖都包含了身体要交的健康税",
+      "onboard_time": 1748179527,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171996,
@@ -1715,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166353,
-      "num": 166353,
-      "word": "郑钦文vs帕芙柳琴科娃",
-      "onboard_time": 1748173284,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165618,
       "num": 165618,
       "word": "戛纳评委谈为何给狂野时代特别奖",
@@ -1785,6 +1857,14 @@
       "onboard_time": 1748150540,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158345,
+      "num": 234594,
+      "word": "哈佛医学院太平间前主管承认盗卖遗骸",
+      "onboard_time": 1748177842,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158127,
@@ -1931,20 +2011,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150937,
-      "num": 150937,
-      "word": "肖战就该演美强惨",
-      "onboard_time": 1748177963,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150177,
       "num": 150177,
       "word": "很担心藏海传剧粉的精神状态",
       "onboard_time": 1748149162,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "田曦薇紫色抹胸纱裙",
+      "onboard_time": 1748177183,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148527,
@@ -1969,6 +2049,14 @@
       "onboard_time": 1748137401,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145954,
+      "num": 666908,
+      "word": "郑钦文连续四年法网开门红",
+      "onboard_time": 1748179042,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 145453,
@@ -2049,6 +2137,14 @@
       "onboard_time": 1748176582,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141979,
+      "num": 141979,
+      "word": "马嘉祺歌手音源破百万收藏",
+      "onboard_time": 1748179770,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 141612,
@@ -2297,6 +2393,14 @@
       "onboard_time": 1748074580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127599,
+      "num": 908487,
+      "word": "300万商铺征收补偿仅189万政府被起诉",
+      "onboard_time": 1748173342,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126824,
@@ -3067,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73017,
+      "num": 213006,
+      "word": "外军机抵近东海被我军雷达全程关照",
+      "onboard_time": 1748179224,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72771,
       "num": 72771,
       "word": "孙颖莎回应女单国乒会师决赛",
@@ -3108,7 +3220,7 @@
     },
     {
       "raw_hot": 68619,
-      "num": 2368417,
+      "num": 2431317,
       "word": "各地端午氛围渐浓",
       "onboard_time": 1748160981,
       "rank": 2,
@@ -3203,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57066,
+      "num": 226409,
+      "word": "速降自行车有多危险",
+      "onboard_time": 1748178263,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55748,
       "num": 377340,
       "word": "电表疯狂走字儿4个月用完2000度电",
@@ -3217,6 +3337,14 @@
       "onboard_time": 1748160141,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 49145,
+      "num": 710629,
+      "word": "男子站票30小时倒3趟车来京自首",
+      "onboard_time": 1748179465,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48777,
@@ -3403,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30974,
+      "num": 146503,
+      "word": "为什么一生只有一次耐高",
+      "onboard_time": 1748178624,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30158,
       "num": 145501,
       "word": "为什么美国会衰落",
@@ -3505,6 +3641,14 @@
       "onboard_time": 1748103681,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21167,
+      "num": 622980,
+      "word": "女子因丧事退机票被拒操作是否合规",
+      "onboard_time": 1748178983,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20961,
