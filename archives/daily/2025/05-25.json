@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748151671663,
+  "endTime": 1748154815231,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1145792,
+      "num": 1183326,
+      "word": "高圆圆说90%的社交对她都是消耗",
+      "onboard_time": 1748151262,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140841,
       "num": 1140841,
       "word": "刘浩存体重轻到水量纹丝不动",
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 1016295,
-      "num": 279068,
+      "num": 446058,
       "word": "躺床上睡觉结果不小心点到直播",
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 931423,
+      "num": 242265,
+      "word": "肖战周雨彤认识十年了",
+      "onboard_time": 1748151322,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 866689,
@@ -128,6 +144,14 @@
       "word": "16岁费曼近照",
       "onboard_time": 1748102242,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 849832,
+      "num": 236494,
+      "word": "王楚然",
+      "onboard_time": 1748153002,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -161,6 +185,14 @@
       "onboard_time": 1748142201,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 689850,
+      "num": 689850,
+      "word": "教育局回应教师因未发福利消极教学",
+      "onboard_time": 1748149341,
+      "rank": 26,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 652894,
@@ -307,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346277,
+      "num": 346277,
+      "word": "奔跑吧路透",
+      "onboard_time": 1748150422,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320993,
       "num": 320993,
       "word": "王曼昱回应与孙颖莎决赛会师",
@@ -363,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 302650,
+      "num": 302650,
+      "word": "全国ATM机只剩80万台",
+      "onboard_time": 1748150482,
+      "rank": 44,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 302145,
       "num": 245938,
       "word": "女子自称领低保并在银行上班引质疑",
@@ -395,16 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281293,
-      "num": 226500,
-      "word": "肖战周雨彤认识十年了",
-      "onboard_time": 1748151322,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 277862,
-      "num": 225501,
+      "num": 255096,
       "word": "赵丽颖张一山扇巴掌戏扇一赠一",
       "onboard_time": 1748150540,
       "rank": 46,
@@ -425,22 +465,6 @@
       "onboard_time": 1748128517,
       "rank": 30,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 272516,
-      "num": 272516,
-      "word": "教育局回应教师因未发福利消极教学",
-      "onboard_time": 1748149341,
-      "rank": 26,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 271821,
-      "num": 224428,
-      "word": "奔跑吧路透",
-      "onboard_time": 1748150422,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 270167,
@@ -483,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258465,
+      "num": 260218,
+      "word": "费曼回应近照争议",
+      "onboard_time": 1748149942,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255274,
       "num": 204627,
       "word": "教师因未发福利讲课3分钟就放电影",
       "onboard_time": 1748093725,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254154,
-      "num": 260218,
-      "word": "费曼回应近照争议",
-      "onboard_time": 1748149942,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 253911,
@@ -529,6 +553,14 @@
       "onboard_time": 1748116455,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240527,
+      "num": 203561,
+      "word": "298的票我自己唱了290",
+      "onboard_time": 1748153781,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 238077,
@@ -569,14 +601,6 @@
       "onboard_time": 1748138361,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216959,
-      "num": 216959,
-      "word": "高圆圆说90%的社交对她都是消耗",
-      "onboard_time": 1748151262,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 216704,
@@ -643,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205523,
+      "num": 205523,
+      "word": "金靖说在刘宇宁身上看到了自己",
+      "onboard_time": 1748153962,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205411,
       "num": 205411,
       "word": "张极人机回复丁禹兮",
       "onboard_time": 1748146699,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204243,
+      "num": 204243,
+      "word": "王安宇被刘浩存钓到翘嘴角",
+      "onboard_time": 1748153902,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 198652,
@@ -715,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181119,
+      "num": 181119,
+      "word": "王宝强我是你娘",
+      "onboard_time": 1748152762,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180676,
       "num": 180676,
       "word": "董明珠说孟羽童被开除失去最好机会",
@@ -745,14 +793,6 @@
       "onboard_time": 1748144420,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177313,
-      "num": 177313,
-      "word": "全国ATM机只剩80万台",
-      "onboard_time": 1748150482,
-      "rank": 44,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 176860,
@@ -791,6 +831,14 @@
       "num": 174130,
       "word": "卜冠今白纱裙造型",
       "onboard_time": 1748144241,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174081,
+      "num": 174081,
+      "word": "杨幂完全是妈妈级别的",
+      "onboard_time": 1748154081,
       "rank": 25,
       "category": "艺人"
     },
@@ -899,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160298,
+      "num": 160298,
+      "word": "郑恺喊话宋妍霏",
+      "onboard_time": 1748153122,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159954,
       "num": 159954,
       "word": "特朗普表演耳朵被击中",
@@ -955,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153669,
+      "num": 153669,
+      "word": "慵懒兔结婚",
+      "onboard_time": 1748152941,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153071,
       "num": 217801,
       "word": "李荣浩你的40我的40好像不一样",
       "onboard_time": 1748150241,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150559,
+      "num": 150559,
+      "word": "第一次见老板给艺人宣传这么到位的",
+      "onboard_time": 1748154262,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150177,
@@ -1131,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128906,
+      "num": 128906,
+      "word": "孙颖莎王楚钦赛后解说满分",
+      "onboard_time": 1748152762,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127793,
       "num": 127793,
       "word": "林依晨孕7月素颜照",
@@ -1153,6 +1233,14 @@
       "onboard_time": 1748139560,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123094,
+      "num": 160518,
+      "word": "加沙11个月大婴儿仅10斤重",
+      "onboard_time": 1748152460,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122569,
@@ -1235,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115411,
+      "num": 253325,
+      "word": "特朗普为何针对哈佛",
+      "onboard_time": 1748153061,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113737,
       "num": 274813,
       "word": "外国记者被中国手机种草了",
@@ -1259,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112216,
+      "num": 112216,
+      "word": "藏海传全员飙演技",
+      "onboard_time": 1748152342,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111877,
       "num": 111877,
       "word": "王楚钦孙颖莎世乒赛三连冠",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1748128157,
       "rank": 28,
       "category": "其它"
+    },
+    {
+      "raw_hot": 110817,
+      "num": 145079,
+      "word": "印度上班族现状",
+      "onboard_time": 1748151322,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110266,
@@ -1313,6 +1425,22 @@
       "onboard_time": 1748097746,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108210,
+      "num": 108210,
+      "word": "绝意腹肌",
+      "onboard_time": 1748153602,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107679,
+      "num": 107679,
+      "word": "小狗看见这一幕突然不想长大了",
+      "onboard_time": 1748152221,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 107550,
@@ -1363,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103069,
+      "num": 103069,
+      "word": "张泉灵再次灵魂发问黄圣依",
+      "onboard_time": 1748153481,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102887,
       "num": 102887,
       "word": "超燃视频回顾莎头三连冠",
@@ -1385,14 +1521,6 @@
       "onboard_time": 1748100685,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100795,
-      "num": 145079,
-      "word": "印度上班族现状",
-      "onboard_time": 1748151322,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 100562,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1748149580,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 95443,
+      "num": 129450,
+      "word": "喻言李莎旻子演唱会合唱大眠",
+      "onboard_time": 1748152102,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 95147,
@@ -1571,6 +1707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 78615,
+      "num": 157113,
+      "word": "印度的大外宣材料",
+      "onboard_time": 1748152640,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77127,
       "num": 221994,
       "word": "代谢变差身体会出现哪些症状",
@@ -1659,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55518,
+      "num": 130528,
+      "word": "美军人妻子试图探望丈夫被拘留",
+      "onboard_time": 1748153781,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48777,
       "num": 56212,
       "word": "小米YU7电动内翻门把手",
@@ -1673,6 +1825,22 @@
       "onboard_time": 1748120834,
       "rank": 48,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 45629,
+      "num": 511101,
+      "word": "中国快速发展的领域绝不局限于AI",
+      "onboard_time": 1748150780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45483,
+      "num": 174786,
+      "word": "WB运动会小灵通上线啦",
+      "onboard_time": 1748154381,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 45221,
@@ -1769,14 +1937,6 @@
       "onboard_time": 1748108718,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22006,
-      "num": 511101,
-      "word": "中国快速发展的领域绝不局限于AI",
-      "onboard_time": 1748150780,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21749,
