@@ -1,0 +1,410 @@
+{
+  "runTime": 1748200767334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 236271,
+        "num": 236271,
+        "word": "朋友圈 想发就发",
+        "onboard_time": 1748191160,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134833,
+        "num": 134833,
+        "word": "王楚钦冠军",
+        "onboard_time": 1748179650,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18168,
+        "num": 109825,
+        "word": "美国90%圣诞用品来自中国制造",
+        "onboard_time": 1748180370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103006,
+        "num": 103006,
+        "word": "公职人员出差周末自费旅游算违纪吗",
+        "onboard_time": 1748187864,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101846,
+        "num": 101846,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68983,
+        "num": 68983,
+        "word": "藏海传你睡了吗我睡不着",
+        "onboard_time": 1748187023,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51538,
+        "num": 51538,
+        "word": "世乒赛男双",
+        "onboard_time": 1748190320,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50562,
+        "num": 50562,
+        "word": "王楚钦成首位00后男单世界冠军",
+        "onboard_time": 1748182825,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46912,
+        "num": 46912,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1748167343,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43342,
+        "num": 43342,
+        "word": "藏海传收视率",
+        "onboard_time": 1748180309,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 43340,
+        "word": "赵丽颖杨幂Angelababy活动生图",
+        "onboard_time": 1748193917,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102425,
+        "num": 43317,
+        "word": "李乃文喊话辛柏青有我们",
+        "onboard_time": 1748193077,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79883,
+        "num": 43286,
+        "word": "网传娱乐主播收入排行榜",
+        "onboard_time": 1748184444,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48400,
+        "num": 43267,
+        "word": "折腰第29集圆房",
+        "onboard_time": 1748192358,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 43252,
+        "word": "巴赫送王曼昱礼物",
+        "onboard_time": 1748189781,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41978,
+        "num": 41978,
+        "word": "王楚钦2天2冠",
+        "onboard_time": 1748192538,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41186,
+        "num": 41186,
+        "word": "央视称这是王楚钦从顶尖到王者的蜕变",
+        "onboard_time": 1748189301,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39873,
+        "num": 39873,
+        "word": "巴赫对孙颖莎说保持联系",
+        "onboard_time": 1748192119,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31571,
+        "num": 38817,
+        "word": "骗杀父仇人进火场救自己",
+        "onboard_time": 1748191939,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31210,
+        "num": 38363,
+        "word": "撒贝宁王安宇肉眼可见紧张了",
+        "onboard_time": 1748197095,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41856,
+        "num": 38259,
+        "word": "孙颖莎躺下的汗水印出了China",
+        "onboard_time": 1748190921,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37977,
+        "num": 37977,
+        "word": "孙颖莎多哈世乒赛胜率百分百",
+        "onboard_time": 1748200395,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36922,
+        "num": 36922,
+        "word": "王楚钦说夺冠才理解马龙樊振东不容易",
+        "onboard_time": 1748189781,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33564,
+        "num": 33564,
+        "word": "印专家称对东大的恐惧刻入骨里",
+        "onboard_time": 1748189841,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32961,
+        "num": 32961,
+        "word": "37岁女子福建爬山拍照时坠崖身亡",
+        "onboard_time": 1748184744,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30733,
+        "num": 30733,
+        "word": "300岁TVB老人跳晚安大小姐",
+        "onboard_time": 1748185703,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27541,
+        "num": 27541,
+        "word": "英国脱欧5年为何又重修旧好",
+        "onboard_time": 1748191220,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26601,
+        "num": 26601,
+        "word": "不然退役",
+        "onboard_time": 1748179770,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25438,
+        "num": 26601,
+        "word": "女子遭雷击去世丈夫疑因人工降雨",
+        "onboard_time": 1748180728,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22406,
+        "num": 26600,
+        "word": "华晨宇长春哦啦音乐节",
+        "onboard_time": 1748190080,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23967,
+        "num": 26600,
+        "word": "邓亚萍发文祝贺王曼昱蒯曼",
+        "onboard_time": 1748189781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23786,
+        "num": 26599,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22744,
+        "num": 26599,
+        "word": "杨颖好权威的一张脸",
+        "onboard_time": 1748174546,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22116,
+        "num": 26599,
+        "word": "idle匿名纸条",
+        "onboard_time": 1748173827,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22011,
+        "num": 26599,
+        "word": "王曼昱蒯曼冠军",
+        "onboard_time": 1748182405,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20808,
+        "num": 26598,
+        "word": "一诺回眸",
+        "onboard_time": 1748189781,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20680,
+        "num": 26598,
+        "word": "国乒多哈世乒赛大合影",
+        "onboard_time": 1748186962,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 26598,
+        "word": "曼联vs阿斯顿维拉",
+        "onboard_time": 1748192058,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10610,
+        "num": 26598,
+        "word": "起底日本米荒危机",
+        "onboard_time": 1748200754,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20096,
+        "num": 26597,
+        "word": "别让孩子坐上夺命飞椅海盗船",
+        "onboard_time": 1748189841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20086,
+        "num": 26597,
+        "word": "癸玺才是藏海一家灭门的根源",
+        "onboard_time": 1748192538,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 26597,
+        "word": "赵丽颖犹豫半天比了个苹果",
+        "onboard_time": 1748177963,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18945,
+        "num": 26596,
+        "word": "章昊cha了IAN进行曲",
+        "onboard_time": 1748191999,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18818,
+        "num": 26596,
+        "word": "麒麟芯片",
+        "onboard_time": 1748185104,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17198,
+        "num": 26596,
+        "word": "陈芋汐女子10米台夺冠",
+        "onboard_time": 1748180788,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16373,
+        "num": 26595,
+        "word": "刘端端演技",
+        "onboard_time": 1748177782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15959,
+        "num": 26595,
+        "word": "王者新增四个主动装备",
+        "onboard_time": 1748194395,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15948,
+        "num": 26595,
+        "word": "用流量诱导孩子在街头玩命必须叫停",
+        "onboard_time": 1748188522,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 15479,
+        "num": 26595,
+        "word": "权志龙大阪演唱会",
+        "onboard_time": 1748189182,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15390,
+        "num": 26594,
+        "word": "KPL温暖的大家庭",
+        "onboard_time": 1748194517,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要有新气象新作为#"
+    }
+  }
+}
