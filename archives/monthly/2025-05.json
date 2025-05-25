@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748169784706,
+  "endTime": 1748171990925,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -313,6 +313,14 @@
       "onboard_time": 1746877581,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 3415692,
+      "num": 3415692,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1748167343,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3348821,
@@ -753,14 +761,6 @@
       "onboard_time": 1747801288,
       "rank": 30,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 2273981,
-      "num": 2273981,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1748167343,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2266801,
@@ -2764,7 +2764,7 @@
     },
     {
       "raw_hot": 1340021,
-      "num": 309193,
+      "num": 432754,
       "word": "玉米蛋挞 贵",
       "onboard_time": 1748165001,
       "rank": 23,
@@ -3364,7 +3364,7 @@
     },
     {
       "raw_hot": 1239916,
-      "num": 282079,
+      "num": 433190,
       "word": "内娱四大淡颜",
       "onboard_time": 1748166021,
       "rank": 12,
@@ -4396,7 +4396,7 @@
     },
     {
       "raw_hot": 1064757,
-      "num": 396543,
+      "num": 432744,
       "word": "杨颖澳门活动生图",
       "onboard_time": 1748164100,
       "rank": 21,
@@ -10691,6 +10691,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 594713,
+      "num": 432311,
+      "word": "擦网",
+      "onboard_time": 1748170701,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 594346,
       "num": 594346,
       "word": "哈佛大学现有外国学生需转学",
@@ -10809,6 +10817,14 @@
       "onboard_time": 1747902383,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 590823,
+      "num": 431756,
+      "word": "日本食品有多变态",
+      "onboard_time": 1748165061,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 590444,
@@ -11048,6 +11064,14 @@
       "word": "马吟吟 庐州月",
       "onboard_time": 1747111462,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 579752,
+      "num": 579752,
+      "word": "奔跑吧直播",
+      "onboard_time": 1746854901,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -12923,6 +12947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505334,
+      "num": 505334,
+      "word": "孙颖莎王曼昱 强强对决",
+      "onboard_time": 1748170942,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504920,
       "num": 504920,
       "word": "歌手投票",
@@ -14147,14 +14179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 466508,
-      "num": 265780,
-      "word": "日本食品有多变态",
-      "onboard_time": 1748165061,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 466425,
       "num": 466425,
       "word": "泰国的中文菜单受众群体到底是谁",
@@ -14457,6 +14481,14 @@
       "onboard_time": 1746193291,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456875,
+      "num": 456875,
+      "word": "印尼总统发言感谢中国",
+      "onboard_time": 1748170160,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 456629,
@@ -15336,6 +15368,14 @@
       "word": "何洁说20年前不懂珍惜",
       "onboard_time": 1746534622,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 433879,
+      "num": 433879,
+      "word": "范丞丞镜头下的章若楠",
+      "onboard_time": 1748169022,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -16828,7 +16868,7 @@
     },
     {
       "raw_hot": 395270,
-      "num": 268249,
+      "num": 271706,
       "word": "户上隼辅篠塚大登男双夺冠",
       "onboard_time": 1748168241,
       "rank": 18,
@@ -19315,14 +19355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342223,
-      "num": 342223,
-      "word": "奔跑吧直播",
-      "onboard_time": 1746854901,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 342058,
       "num": 342058,
       "word": "宋慧乔短发",
@@ -21169,6 +21201,14 @@
       "onboard_time": 1747014441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309007,
+      "num": 309007,
+      "word": "杨幂喂奶牛",
+      "onboard_time": 1748168241,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 308901,
@@ -24001,6 +24041,14 @@
       "onboard_time": 1747664189,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271699,
+      "num": 271699,
+      "word": "战至巅峰4常驻战队营业",
+      "onboard_time": 1748169261,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 271326,
@@ -29059,14 +29107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225424,
-      "num": 225424,
-      "word": "杨幂喂奶牛",
-      "onboard_time": 1748168241,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225408,
       "num": 225408,
       "word": "稚奴庄二",
@@ -29248,14 +29288,6 @@
       "word": "陈妍希摔倒周柯宇下意识保护",
       "onboard_time": 1747200684,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224235,
-      "num": 224235,
-      "word": "战至巅峰4常驻战队营业",
-      "onboard_time": 1748169261,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -31025,14 +31057,6 @@
       "onboard_time": 1747655843,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213600,
-      "num": 213600,
-      "word": "范丞丞镜头下的章若楠",
-      "onboard_time": 1748169022,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 213596,
@@ -33803,6 +33827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203237,
+      "num": 203237,
+      "word": "折腰215秒广告",
+      "onboard_time": 1748171720,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203152,
       "num": 203152,
       "word": "印度空军称所有飞行员已返回国内",
@@ -34209,6 +34241,14 @@
       "onboard_time": 1746427223,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201835,
+      "num": 201835,
+      "word": "女子因丧事在平台申请退机票被拒",
+      "onboard_time": 1748170521,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201790,
@@ -34753,6 +34793,14 @@
       "onboard_time": 1747197504,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200086,
+      "num": 189645,
+      "word": "法网",
+      "onboard_time": 1748168661,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 200077,
@@ -36353,6 +36401,14 @@
       "onboard_time": 1746674060,
       "rank": 31,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 195400,
+      "num": 195400,
+      "word": "章若楠说范丞丞是跑男新生代导演",
+      "onboard_time": 1748170521,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195360,
@@ -38705,14 +38761,6 @@
       "onboard_time": 1747990643,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189645,
-      "num": 189645,
-      "word": "法网",
-      "onboard_time": 1748168661,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 189638,
@@ -50987,6 +51035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154058,
+      "num": 154058,
+      "word": "深圳 谨防袈裟",
+      "onboard_time": 1748171060,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153985,
       "num": 153985,
       "word": "抛弃精致感去旅行真的好爽",
@@ -54449,6 +54505,14 @@
       "onboard_time": 1746072020,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144751,
+      "num": 296111,
+      "word": "孙颖莎出手稳准狠",
+      "onboard_time": 1748170942,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 144738,
@@ -62916,7 +62980,7 @@
     },
     {
       "raw_hot": 124673,
-      "num": 124673,
+      "num": 431961,
       "word": "每天手机跳转到购物APP一万次",
       "onboard_time": 1748166800,
       "rank": 48,
@@ -64755,6 +64819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119373,
+      "num": 119373,
+      "word": "皇马官宣阿隆索上任",
+      "onboard_time": 1748171182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119349,
       "num": 119349,
       "word": "李天泽为马嘉祺打call",
@@ -65273,6 +65345,14 @@
       "onboard_time": 1747028071,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117831,
+      "num": 258408,
+      "word": "尚雯婕云参加复旦大学校庆",
+      "onboard_time": 1748169323,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 117813,
@@ -68171,6 +68251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109751,
+      "num": 109751,
+      "word": "李子柒将有重磅作品推出",
+      "onboard_time": 1748171362,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109740,
       "num": 109740,
       "word": "工信部发文整顿隐藏式车门把手",
@@ -68851,6 +68939,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 107574,
+      "num": 107574,
+      "word": "时代少年团官宣加盟战至巅峰4",
+      "onboard_time": 1748171962,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107552,
       "num": 107552,
       "word": "BLG晋级多伦多大师赛",
@@ -69185,6 +69281,14 @@
       "onboard_time": 1747584143,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106409,
+      "num": 106409,
+      "word": "快餐173元消费者吃后喊贵并无不妥",
+      "onboard_time": 1748171782,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106344,
@@ -73128,6 +73232,14 @@
       "word": "入夏后多吃这些应季蔬菜",
       "onboard_time": 1747559061,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90943,
+      "num": 159477,
+      "word": "荨麻疹出现风团和瘙痒暗示哪些风险",
+      "onboard_time": 1748171782,
+      "rank": 32,
       "category": "健康医疗"
     },
     {
@@ -83211,14 +83323,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 47427,
-      "num": 258408,
-      "word": "尚雯婕云参加复旦大学校庆",
-      "onboard_time": 1748169323,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47400,
       "num": 238136,
       "word": "老人网上领免费鸡蛋却成了被执行人",
@@ -88937,6 +89041,14 @@
       "onboard_time": 1747851855,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29654,
+      "num": 184169,
+      "word": "龙舟季的广东人强得可怕",
+      "onboard_time": 1748171541,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 29646,
@@ -95593,6 +95705,14 @@
       "onboard_time": 1746142639,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14466,
+      "num": 180518,
+      "word": "什么情况下母鹿会觉得受到威胁",
+      "onboard_time": 1748170880,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14434,
