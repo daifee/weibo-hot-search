@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748148424422,
+  "endTime": 1748150662629,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -9,6 +9,14 @@
       "onboard_time": 1748100024,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2597174,
+      "num": 275805,
+      "word": "疑似郝蕾回应和邓超分手原因",
+      "onboard_time": 1748148201,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 2560068,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 754129,
-      "num": 556343,
+      "num": 629916,
       "word": "谍报上不封顶官宣肖战周雨彤",
       "onboard_time": 1748142201,
       "rank": 7,
@@ -187,11 +195,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 592060,
+      "num": 592060,
+      "word": "一诺被乒乓球做局了",
+      "onboard_time": 1748148802,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 587464,
       "num": 587464,
       "word": "杨肸子说杨紫在剧组从不拿剧本",
       "onboard_time": 1748097146,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 561872,
+      "num": 561872,
+      "word": "半个歌手圈疑似被毕业歌会做局了",
+      "onboard_time": 1748145500,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1748141300,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 441986,
-      "num": 275805,
-      "word": "疑似郝蕾回应和邓超分手原因",
-      "onboard_time": 1748148201,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 431570,
@@ -289,14 +305,6 @@
       "onboard_time": 1748139320,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357044,
-      "num": 274168,
-      "word": "半个歌手圈疑似被毕业歌会做局了",
-      "onboard_time": 1748145500,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 320993,
@@ -369,6 +377,14 @@
       "onboard_time": 1748145441,
       "rank": 8,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 297720,
+      "num": 257043,
+      "word": "程潇和妹妹首次综艺合体",
+      "onboard_time": 1748148022,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 293131,
@@ -467,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247293,
+      "num": 224815,
+      "word": "教育局回应教师因未发福利消极教学",
+      "onboard_time": 1748149341,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 245714,
       "num": 245714,
       "word": "抢手捧花求婚跪错女友当事人回应",
@@ -489,6 +513,14 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232495,
+      "num": 232495,
+      "word": "奔跑吧",
+      "onboard_time": 1748139560,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 219549,
@@ -555,6 +587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209649,
+      "num": 209649,
+      "word": "36岁妈妈为保护女儿被劫匪勒至昏死",
+      "onboard_time": 1748149341,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205411,
+      "num": 205411,
+      "word": "张极人机回复丁禹兮",
+      "onboard_time": 1748146699,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198652,
       "num": 198652,
       "word": "许嵩 我开巡演跟上幼儿园差不多",
@@ -563,20 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196083,
-      "num": 196083,
-      "word": "奔跑吧",
-      "onboard_time": 1748139560,
+      "raw_hot": 198207,
+      "num": 225404,
+      "word": "肖战的减法演戏",
+      "onboard_time": 1748140821,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 194586,
-      "num": 194586,
-      "word": "张极人机回复丁禹兮",
-      "onboard_time": 1748146699,
-      "rank": 26,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 193907,
@@ -585,14 +625,6 @@
       "onboard_time": 1748105960,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193737,
-      "num": 193737,
-      "word": "程潇和妹妹首次综艺合体",
-      "onboard_time": 1748148022,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 191842,
@@ -611,12 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184091,
-      "num": 196234,
-      "word": "肖战的减法演戏",
-      "onboard_time": 1748140821,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 189514,
+      "num": 189514,
+      "word": "爷爷不泡茶把栀子花开进奶茶里",
+      "onboard_time": 1748142080,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 185491,
+      "num": 191596,
+      "word": "世乒赛复刻杯目前仅限于单打",
+      "onboard_time": 1748147180,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 182577,
@@ -683,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174795,
+      "num": 174795,
+      "word": "基建狂魔让世界知道10亿吨的概念",
+      "onboard_time": 1748149461,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174130,
       "num": 174130,
       "word": "卜冠今白纱裙造型",
@@ -721,6 +769,14 @@
       "onboard_time": 1748137701,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170085,
+      "num": 170085,
+      "word": "生命树",
+      "onboard_time": 1748148381,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 169824,
@@ -787,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158371,
+      "num": 158371,
+      "word": "黄杨钿甜",
+      "onboard_time": 1748150540,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157812,
       "num": 157211,
       "word": "2025戛纳电影节获奖名单",
@@ -819,6 +883,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153071,
+      "num": 217801,
+      "word": "李荣浩你的40我的40好像不一样",
+      "onboard_time": 1748150241,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 152717,
+      "num": 152717,
+      "word": "奔跑吧路透",
+      "onboard_time": 1748150422,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150177,
+      "num": 150177,
+      "word": "很担心藏海传剧粉的精神状态",
+      "onboard_time": 1748149162,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148527,
+      "num": 154367,
+      "word": "给魏劭再下一次王母仙药",
+      "onboard_time": 1748148201,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147072,
       "num": 147072,
       "word": "白宫被裁工作人员当场哭泣",
@@ -849,6 +945,14 @@
       "onboard_time": 1748147720,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143997,
+      "num": 143997,
+      "word": "全国ATM机只剩80万台",
+      "onboard_time": 1748150482,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 141612,
@@ -891,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133850,
+      "num": 140237,
+      "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+      "onboard_time": 1748150540,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132806,
       "num": 132806,
       "word": "金棕榈",
@@ -907,19 +1019,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132566,
-      "num": 154367,
-      "word": "给魏劭再下一次王母仙药",
-      "onboard_time": 1748148201,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132321,
       "num": 132321,
       "word": "陈天润发文",
       "onboard_time": 1748097206,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130357,
+      "num": 260218,
+      "word": "费曼回应近照争议",
+      "onboard_time": 1748149942,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1051,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112657,
+      "num": 232346,
+      "word": "AG运动会gogogo",
+      "onboard_time": 1748149522,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111877,
       "num": 111877,
       "word": "王楚钦孙颖莎世乒赛三连冠",
@@ -1097,14 +1217,6 @@
       "onboard_time": 1748097746,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107639,
-      "num": 107639,
-      "word": "生命树",
-      "onboard_time": 1748148381,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 107550,
@@ -1185,14 +1297,6 @@
       "onboard_time": 1748093364,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99533,
-      "num": 191596,
-      "word": "世乒赛复刻杯目前仅限于单打",
-      "onboard_time": 1748147180,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 96612,
@@ -1411,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60535,
+      "num": 268492,
+      "word": "绞肉机生蛆令人作呕校园餐须更透明",
+      "onboard_time": 1748149641,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60156,
       "num": 60156,
       "word": "甲状腺癌并非成人专属",
@@ -1427,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52097,
+      "num": 259354,
+      "word": "救下4名老人女子还原事发经过",
+      "onboard_time": 1748149580,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 48777,
       "num": 56212,
       "word": "小米YU7电动内翻门把手",
@@ -1441,6 +1561,14 @@
       "onboard_time": 1748120834,
       "rank": 48,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 45347,
+      "num": 276801,
+      "word": "日艇在敏感海域发射66发实弹",
+      "onboard_time": 1748150002,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45221,
@@ -1465,14 +1593,6 @@
       "onboard_time": 1748095287,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44496,
-      "num": 152367,
-      "word": "爷爷不泡茶把栀子花开进奶茶里",
-      "onboard_time": 1748142080,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 43546,
@@ -1563,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20683,
+      "num": 210555,
+      "word": "爱德华兹和亚历山大谁是NBA的新门面",
+      "onboard_time": 1748149341,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20626,
       "num": 35552,
       "word": "安徽多人吃同一家甜品后疑食物中毒",
@@ -1579,12 +1707,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 19493,
+      "num": 592589,
+      "word": "境外采购商爱上中国技术",
+      "onboard_time": 1748150183,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14931,
       "num": 54421,
       "word": "伴郎抢手捧花送女朋友没想到跪错了人",
       "onboard_time": 1748117654,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14677,
+      "num": 153931,
+      "word": "运动是治愈情绪的特效药",
+      "onboard_time": 1748150241,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13126,
+      "num": 214395,
+      "word": "日均点2.5次外卖是怎样影响健康的",
+      "onboard_time": 1748150183,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12227,
@@ -1606,6 +1758,9 @@
   "hotgov_list": [
     {
       "word": "#昂扬精神面貌凝聚精神力量#"
+    },
+    {
+      "word": "#不断丰富人民精神世界#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1748150662629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 791440,
+        "num": 1126630,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 629916,
+        "num": 629916,
+        "word": "谍报上不封顶官宣肖战周雨彤",
+        "onboard_time": 1748142201,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19493,
+        "num": 592589,
+        "word": "境外采购商爱上中国技术",
+        "onboard_time": 1748150183,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592060,
+        "num": 592060,
+        "word": "一诺被乒乓球做局了",
+        "onboard_time": 1748148802,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 561872,
+        "num": 561872,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300626,
+        "num": 300626,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410501,
+        "num": 289326,
+        "word": "郝蕾为哈妮克孜发声",
+        "onboard_time": 1748145561,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360890,
+        "num": 284225,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276997,
+        "num": 276997,
+        "word": "喜羊羊27岁了",
+        "onboard_time": 1748139861,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45347,
+        "num": 276801,
+        "word": "日艇在敏感海域发射66发实弹",
+        "onboard_time": 1748150002,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 748907,
+        "num": 275129,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2597174,
+        "num": 273427,
+        "word": "疑似郝蕾回应和邓超分手原因",
+        "onboard_time": 1748148201,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640271,
+        "num": 270613,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432692,
+        "num": 269115,
+        "word": "关心厌恶症",
+        "onboard_time": 1748144901,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60535,
+        "num": 268492,
+        "word": "绞肉机生蛆令人作呕校园餐须更透明",
+        "onboard_time": 1748149641,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 381793,
+        "num": 266392,
+        "word": "洗猫 高危工作",
+        "onboard_time": 1748144360,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310624,
+        "num": 264224,
+        "word": "叶童终止新白娘子传奇演唱会",
+        "onboard_time": 1748129298,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 311610,
+        "num": 262872,
+        "word": "脂肪下降的顺序",
+        "onboard_time": 1748144121,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130357,
+        "num": 260218,
+        "word": "费曼回应近照争议",
+        "onboard_time": 1748149942,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52097,
+        "num": 259354,
+        "word": "救下4名老人女子还原事发经过",
+        "onboard_time": 1748149580,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 297720,
+        "num": 257043,
+        "word": "程潇和妹妹首次综艺合体",
+        "onboard_time": 1748148022,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256672,
+        "num": 256672,
+        "word": "上海快餐店回应四菜一汤173元",
+        "onboard_time": 1748142320,
+        "rank": 21,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 238269,
+        "num": 238269,
+        "word": "王星越为家乡写的文旅宣传语",
+        "onboard_time": 1748145441,
+        "rank": 22,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 232495,
+        "num": 232495,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 232346,
+        "word": "AG运动会gogogo",
+        "onboard_time": 1748149522,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198207,
+        "num": 225404,
+        "word": "肖战的减法演戏",
+        "onboard_time": 1748140821,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247293,
+        "num": 224815,
+        "word": "教育局回应教师因未发福利消极教学",
+        "onboard_time": 1748149341,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 153071,
+        "num": 217801,
+        "word": "李荣浩你的40我的40好像不一样",
+        "onboard_time": 1748150241,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13126,
+        "num": 214395,
+        "word": "日均点2.5次外卖是怎样影响健康的",
+        "onboard_time": 1748150183,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20683,
+        "num": 210555,
+        "word": "爱德华兹和亚历山大谁是NBA的新门面",
+        "onboard_time": 1748149341,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209649,
+        "num": 209649,
+        "word": "36岁妈妈为保护女儿被劫匪勒至昏死",
+        "onboard_time": 1748149341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205411,
+        "num": 205411,
+        "word": "张极人机回复丁禹兮",
+        "onboard_time": 1748146699,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202320,
+        "num": 202320,
+        "word": "谍报上不封顶女主",
+        "onboard_time": 1748140700,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189514,
+        "num": 189514,
+        "word": "爷爷不泡茶把栀子花开进奶茶里",
+        "onboard_time": 1748142080,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185491,
+        "num": 185491,
+        "word": "世乒赛复刻杯目前仅限于单打",
+        "onboard_time": 1748147180,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174795,
+        "num": 174795,
+        "word": "基建狂魔让世界知道10亿吨的概念",
+        "onboard_time": 1748149461,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170085,
+        "num": 170085,
+        "word": "生命树",
+        "onboard_time": 1748148381,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168450,
+        "num": 168450,
+        "word": "特朗普闪电裁员",
+        "onboard_time": 1748146221,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158371,
+        "num": 158371,
+        "word": "黄杨钿甜",
+        "onboard_time": 1748150540,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14677,
+        "num": 153931,
+        "word": "运动是治愈情绪的特效药",
+        "onboard_time": 1748150241,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152717,
+        "num": 152717,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150177,
+        "num": 150177,
+        "word": "很担心藏海传剧粉的精神状态",
+        "onboard_time": 1748149162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148527,
+        "num": 148527,
+        "word": "给魏劭再下一次王母仙药",
+        "onboard_time": 1748148201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146601,
+        "num": 146601,
+        "word": "谁懂王楚钦孙颖莎这个笑",
+        "onboard_time": 1748141421,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143997,
+        "num": 143997,
+        "word": "全国ATM机只剩80万台",
+        "onboard_time": 1748150482,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 141300,
+        "num": 141300,
+        "word": "藏海传加广",
+        "onboard_time": 1748139320,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133850,
+        "num": 140237,
+        "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+        "onboard_time": 1748150540,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44223,
+        "num": 139929,
+        "word": "网警重拳出击摧毁一网络水军团伙",
+        "onboard_time": 1748138780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139713,
+        "num": 139713,
+        "word": "王楚钦雨果争冠",
+        "onboard_time": 1748105899,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138699,
+        "num": 138699,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断丰富人民精神世界#"
+    }
+  }
+}
