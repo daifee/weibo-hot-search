@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748138851279,
+  "endTime": 1748140257309,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 807109,
-      "num": 231467,
+      "num": 246498,
       "word": "马来西亚西瓜汁",
       "onboard_time": 1748133320,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362325,
+      "num": 246205,
+      "word": "藏海传加广",
+      "onboard_time": 1748139320,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320993,
       "num": 320993,
       "word": "王曼昱回应与孙颖莎决赛会师",
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302145,
+      "num": 245938,
+      "word": "女子自称领低保并在银行上班引质疑",
+      "onboard_time": 1748135780,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 301703,
       "num": 301703,
       "word": "短剧女演员吐槽影视行业现状",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 273454,
-      "num": 175637,
+      "num": 180502,
       "word": "女子恋爱后出现胃痛反酸口臭症状",
       "onboard_time": 1748128517,
       "rank": 30,
@@ -308,11 +324,19 @@
     },
     {
       "raw_hot": 219549,
-      "num": 174231,
+      "num": 177155,
       "word": "女子备孕5年4次试管全失败",
       "onboard_time": 1748130019,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219336,
+      "num": 219336,
+      "word": "谍报上不封顶宣传片先行版",
+      "onboard_time": 1748138361,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 216704,
@@ -339,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205908,
-      "num": 205908,
-      "word": "谍报上不封顶宣传片先行版",
-      "onboard_time": 1748138361,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "藏海传优酷热度破10400",
@@ -356,10 +372,18 @@
     },
     {
       "raw_hot": 192694,
-      "num": 173827,
+      "num": 179090,
       "word": "敖瑞鹏联系最多的圈内好友是白鹿",
       "onboard_time": 1748128998,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192054,
+      "num": 178452,
+      "word": "奔跑吧",
+      "onboard_time": 1748139560,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -467,14 +491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168091,
-      "num": 168091,
-      "word": "女子自称领低保并在银行上班引质疑",
-      "onboard_time": 1748135780,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 165283,
       "num": 165283,
       "word": "易烊千玺名场面诞生",
@@ -539,6 +555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141000,
+      "num": 246794,
+      "word": "白宫开始第一轮大清洗",
+      "onboard_time": 1748139200,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137116,
       "num": 137116,
       "word": "苏醒一把摸出猎人酒店房卡",
@@ -561,6 +585,14 @@
       "onboard_time": 1748136022,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133219,
+      "num": 123623,
+      "word": "喜羊羊27岁了",
+      "onboard_time": 1748139861,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 132806,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123972,
+      "num": 123972,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1748139560,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122569,
       "num": 122569,
       "word": "中国首座女足亚冠金杯",
@@ -617,6 +657,14 @@
       "onboard_time": 1748132179,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121592,
+      "num": 121592,
+      "word": "KPL运动会",
+      "onboard_time": 1748138780,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 120181,
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107550,
+      "num": 107550,
+      "word": "心疼志强",
+      "onboard_time": 1748136919,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107175,
       "num": 107175,
       "word": "张继科说世乒赛输赢都正常",
@@ -707,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104567,
+      "num": 104567,
+      "word": "魏劭发现表哥喜欢小乔",
+      "onboard_time": 1748139800,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104036,
       "num": 104036,
       "word": "全红婵现身跳水冠军赛现场",
       "onboard_time": 1748135241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103122,
+      "num": 103122,
+      "word": "朴灿烈泡泡",
+      "onboard_time": 1748139861,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 102887,
@@ -771,14 +843,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 93871,
-      "num": 93871,
-      "word": "心疼志强",
-      "onboard_time": 1748136919,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92931,
       "num": 92931,
       "word": "小猫爬墙急坏猫妈",
@@ -809,14 +873,6 @@
       "onboard_time": 1748096786,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88494,
-      "num": 88494,
-      "word": "KPL运动会",
-      "onboard_time": 1748138780,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 87230,
@@ -899,12 +955,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 80051,
+      "num": 80051,
+      "word": "KSG今屿断开连接",
+      "onboard_time": 1748139861,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72771,
       "num": 72771,
       "word": "孙颖莎回应女单国乒会师决赛",
       "onboard_time": 1748128157,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68808,
+      "num": 399321,
+      "word": "网警重拳出击摧毁一网络水军团伙",
+      "onboard_time": 1748138780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68309,
+      "num": 103490,
+      "word": "老兵手搓的线芯误差仅0.01毫米",
+      "onboard_time": 1748136561,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62390,
@@ -1033,14 +1113,6 @@
       "onboard_time": 1748115255,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5627,
-      "num": 391597,
-      "word": "网警重拳出击摧毁一网络水军团伙",
-      "onboard_time": 1748138780,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
