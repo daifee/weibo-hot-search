@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/26 00:29:29 ~ 2025/05/26 03:19:27
+本榜单时间：2025/05/26 00:29:29 ~ 2025/05/26 03:36:37
 </p>
 </blockquote>
 <p>
@@ -423,6 +423,12 @@ idle匿名纸条（热度：42329）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E6%88%90%E7%BB%A9%E4%B8%8D%E5%A5%BD%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%23" target="weibo">
+王楚钦因成绩不好质疑自己（热度：41002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KPL%E6%B8%A9%E6%9A%96%E7%9A%84%E5%A4%A7%E5%AE%B6%E5%BA%AD%23" target="weibo">
 KPL温暖的大家庭（热度：38430）
 </a>
@@ -453,8 +459,14 @@ KPL温暖的大家庭（热度：38430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%9D%8E%E6%98%80%E9%94%90%E6%90%AD%E6%A1%A3%23" target="weibo">
+张真源李昀锐搭档（热度：15412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E6%97%A5%E6%9C%AC%E7%B1%B3%E8%8D%92%E5%8D%B1%E6%9C%BA%23" target="weibo">
-起底日本米荒危机（热度：10610）
+起底日本米荒危机（热度：12718）
 </a>
 </li>
 
