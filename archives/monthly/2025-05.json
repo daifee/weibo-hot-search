@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748212931359,
+  "endTime": 1748215424849,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -4715,6 +4715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1043516,
+      "num": 1016223,
+      "word": "公职人员出差周末自费旅游算违纪吗",
+      "onboard_time": 1748187864,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1040366,
       "num": 404368,
       "word": "生理性厌恶",
@@ -4897,14 +4905,6 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1016223,
-      "num": 1016223,
-      "word": "公职人员出差周末自费旅游算违纪吗",
-      "onboard_time": 1748187864,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1014414,
@@ -8169,6 +8169,14 @@
       "onboard_time": 1746256099,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 724716,
+      "num": 831388,
+      "word": "李乃文喊话辛柏青有我们",
+      "onboard_time": 1748193077,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 724022,
@@ -12091,6 +12099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 545296,
+      "num": 239321,
+      "word": "赵丽颖杨幂Angelababy活动生图",
+      "onboard_time": 1748193917,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 544959,
       "num": 544959,
       "word": "短剧女演员吐槽影视行业现状",
@@ -12353,14 +12369,6 @@
       "onboard_time": 1747359920,
       "rank": 25,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 536243,
-      "num": 536243,
-      "word": "李乃文喊话辛柏青有我们",
-      "onboard_time": 1748193077,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 536107,
@@ -13873,6 +13881,14 @@
       "onboard_time": 1746116661,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 484117,
+      "num": 484117,
+      "word": "印专家称对东大的恐惧刻入骨里",
+      "onboard_time": 1748189841,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 483954,
@@ -16937,14 +16953,6 @@
       "onboard_time": 1748062822,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402106,
-      "num": 191098,
-      "word": "赵丽颖杨幂Angelababy活动生图",
-      "onboard_time": 1748193917,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 402024,
@@ -21603,6 +21611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309392,
+      "num": 237139,
+      "word": "折腰第29集圆房",
+      "onboard_time": 1748192358,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309007,
       "num": 309007,
       "word": "杨幂喂奶牛",
@@ -24281,14 +24297,6 @@
       "onboard_time": 1746584122,
       "rank": 41,
       "category": "财经,国内时政"
-    },
-    {
-      "raw_hot": 273940,
-      "num": 133128,
-      "word": "印专家称对东大的恐惧刻入骨里",
-      "onboard_time": 1748189841,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 273879,
@@ -29825,14 +29833,6 @@
       "onboard_time": 1746954140,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 223805,
-      "num": 132264,
-      "word": "折腰第29集圆房",
-      "onboard_time": 1748192358,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 223797,
@@ -39913,6 +39913,14 @@
       "onboard_time": 1746084021,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188466,
+      "num": 188466,
+      "word": "别让孩子坐上夺命飞椅海盗船",
+      "onboard_time": 1748189841,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188465,
@@ -58116,7 +58124,7 @@
     },
     {
       "raw_hot": 138388,
-      "num": 138388,
+      "num": 142073,
       "word": "癸玺才是藏海一家灭门的根源",
       "onboard_time": 1748192538,
       "rank": 19,
@@ -61347,6 +61355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130443,
+      "num": 130443,
+      "word": "朱媛媛去世为何全民哀悼",
+      "onboard_time": 1748214739,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130438,
       "num": 275206,
       "word": "王昶挂网前雨刮器胸牌",
@@ -63649,6 +63665,14 @@
       "onboard_time": 1746348743,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125342,
+      "num": 142216,
+      "word": "李沐宸对公开恋情的态度",
+      "onboard_time": 1748214739,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 125304,
@@ -67563,14 +67587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114695,
-      "num": 114695,
-      "word": "别让孩子坐上夺命飞椅海盗船",
-      "onboard_time": 1748189841,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114661,
       "num": 114661,
       "word": "雷军空降超话",
@@ -69553,6 +69569,14 @@
       "onboard_time": 1747970602,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 109050,
+      "num": 109050,
+      "word": "纳达尔法网退役仪式",
+      "onboard_time": 1748214678,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 109015,
@@ -74171,6 +74195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91640,
+      "num": 91640,
+      "word": "骗杀父仇人进火场救自己",
+      "onboard_time": 1748191939,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91609,
       "num": 307342,
       "word": "日本救援队搜救3个月前落坑老人",
@@ -75713,6 +75745,14 @@
       "onboard_time": 1747548022,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 84973,
+      "num": 84973,
+      "word": "撒贝宁王安宇肉眼可见紧张了",
+      "onboard_time": 1748197095,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 84924,
@@ -78043,14 +78083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75203,
-      "num": 85648,
-      "word": "骗杀父仇人进火场救自己",
-      "onboard_time": 1748191939,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75184,
       "num": 75184,
       "word": "巴萨赛季三冠",
@@ -79091,6 +79123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70414,
+      "num": 70414,
+      "word": "周深张靓颖跑男深夜合照",
+      "onboard_time": 1748214739,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70393,
       "num": 172889,
       "word": "多方回应游客未让座遭两女一男殴打",
@@ -79579,6 +79619,14 @@
       "category": "情感,运动健身"
     },
     {
+      "raw_hot": 68170,
+      "num": 68170,
+      "word": "萌娃举3米高叶子去学校回头率爆表",
+      "onboard_time": 1748210295,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68167,
       "num": 225183,
       "word": "儿童手表不能再不务正业",
@@ -79689,6 +79737,14 @@
       "onboard_time": 1746480434,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67632,
+      "num": 67632,
+      "word": "85后干部受处分两年后拟获提拔",
+      "onboard_time": 1748211076,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67628,
@@ -82523,14 +82579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55310,
-      "num": 55310,
-      "word": "撒贝宁王安宇肉眼可见紧张了",
-      "onboard_time": 1748197095,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55200,
       "num": 55200,
       "word": "星露谷物语",
@@ -83673,6 +83721,14 @@
       "onboard_time": 1747032621,
       "rank": 39,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 50489,
+      "num": 67486,
+      "word": "英伟达对华芯片供应最新消息",
+      "onboard_time": 1748214017,
+      "rank": 42,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 50486,
@@ -87387,14 +87443,6 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 38443,
-      "num": 38443,
-      "word": "萌娃举3米高叶子去学校回头率爆表",
-      "onboard_time": 1748210295,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38440,
       "num": 213789,
       "word": "漫展一天不断电全靠Turbo4Pro",
@@ -88657,14 +88705,6 @@
       "onboard_time": 1746258740,
       "rank": 38,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 34358,
-      "num": 38440,
-      "word": "85后干部受处分两年后拟获提拔",
-      "onboard_time": 1748211076,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34338,
@@ -91657,6 +91697,14 @@
       "onboard_time": 1748185284,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26566,
+      "num": 68074,
+      "word": "王楚钦回应被外界质疑",
+      "onboard_time": 1748215399,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 26557,
