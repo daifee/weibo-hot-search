@@ -1,0 +1,410 @@
+{
+  "runTime": 1748158749936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825764,
+        "num": 1132122,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392757,
+        "num": 392757,
+        "word": "教育局回应教师因未发福利消极教学",
+        "onboard_time": 1748149341,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 42141,
+        "num": 388432,
+        "word": "中国快速发展的领域绝不局限于AI",
+        "onboard_time": 1748150780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635896,
+        "num": 388381,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466977,
+        "num": 388380,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388318,
+        "num": 388318,
+        "word": "官方通报网传女子领低保炒股",
+        "onboard_time": 1748156242,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 359208,
+        "num": 359208,
+        "word": "周雨彤花少后接的三部影视剧",
+        "onboard_time": 1748155341,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301061,
+        "num": 301061,
+        "word": "婆母下药",
+        "onboard_time": 1748155282,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230783,
+        "num": 230783,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 63223,
+        "num": 230752,
+        "word": "官方通报城管商贩冲突大量群众围观",
+        "onboard_time": 1748156242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742974,
+        "num": 230634,
+        "word": "王楚然",
+        "onboard_time": 1748153002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714406,
+        "num": 230585,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553111,
+        "num": 230486,
+        "word": "湖南郴州一发改局干部从办公楼坠楼",
+        "onboard_time": 1748156662,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463851,
+        "num": 230409,
+        "word": "杨幂完全是妈妈级别的",
+        "onboard_time": 1748154081,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41889,
+        "num": 230333,
+        "word": "女子闯红灯致事故辩称看不懂",
+        "onboard_time": 1748157923,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313707,
+        "num": 230242,
+        "word": "花20万在小县城买的顶楼露台房",
+        "onboard_time": 1748151141,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 230168,
+        "word": "费曼如果不喜欢现在的我可以离开",
+        "onboard_time": 1748154922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148352,
+        "num": 230096,
+        "word": "宋威龙包上恩还原大婚名场面",
+        "onboard_time": 1748157562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15139,
+        "num": 230009,
+        "word": "ATM机数量减少会造成哪些影响",
+        "onboard_time": 1748157381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15768,
+        "num": 229896,
+        "word": "印度大外宣材料可信度到底如何",
+        "onboard_time": 1748158340,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286545,
+        "num": 229812,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279379,
+        "num": 229751,
+        "word": "白鹿王楚然章若楠跑男路透图",
+        "onboard_time": 1748157441,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229696,
+        "num": 229696,
+        "word": "金靖记错热巴星座召唤邪恶小巴巴",
+        "onboard_time": 1748156841,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218851,
+        "num": 218851,
+        "word": "王者荣耀",
+        "onboard_time": 1748158222,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68387,
+        "num": 218708,
+        "word": "无畏暖阳乒乓球对决",
+        "onboard_time": 1748157202,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218698,
+        "num": 218698,
+        "word": "全国ATM机只剩80万台",
+        "onboard_time": 1748150482,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 212519,
+        "num": 212519,
+        "word": "王者新英雄孙权爆料",
+        "onboard_time": 1748158280,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211775,
+        "num": 211775,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206212,
+        "num": 206212,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199179,
+        "num": 199179,
+        "word": "白鹿对接发文回应",
+        "onboard_time": 1748157923,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196499,
+        "num": 196499,
+        "word": "金靖说在刘宇宁身上看到了自己",
+        "onboard_time": 1748153962,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34235,
+        "num": 195012,
+        "word": "你喝到的甘蔗汁可能是糖精水",
+        "onboard_time": 1748158642,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194236,
+        "num": 194236,
+        "word": "陈梦妈妈头顶一座塔开车",
+        "onboard_time": 1748158040,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187072,
+        "num": 187072,
+        "word": "马龙带娃参加斯巴达",
+        "onboard_time": 1748157923,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155668,
+        "num": 155668,
+        "word": "减肥期间不建议喝果蔬汁",
+        "onboard_time": 1748153481,
+        "rank": 34,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "298的票我自己唱了290",
+        "onboard_time": 1748153781,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148885,
+        "num": 148885,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140510,
+        "num": 140510,
+        "word": "奔跑吧投票",
+        "onboard_time": 1748158582,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35242,
+        "num": 138766,
+        "word": "法国人不愿给印度阵风任务系统",
+        "onboard_time": 1748157862,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1744909,
+        "num": 138656,
+        "word": "疑似郝蕾回应和邓超分手原因",
+        "onboard_time": 1748148201,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138242,
+        "num": 138242,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138026,
+        "num": 138026,
+        "word": "王宝强我是你娘",
+        "onboard_time": 1748152762,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136992,
+        "num": 136992,
+        "word": "现在难过都不换头像了",
+        "onboard_time": 1748156961,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133946,
+        "num": 133946,
+        "word": "偷看到蛮蛮一劭二人世界了",
+        "onboard_time": 1748158161,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132250,
+        "num": 132250,
+        "word": "慵懒低丸子头",
+        "onboard_time": 1748157562,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124337,
+        "num": 124337,
+        "word": "李嘉格母亲人生至暗时刻",
+        "onboard_time": 1748155162,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122846,
+        "num": 122846,
+        "word": "肖战想吃但没吃到的美食道具",
+        "onboard_time": 1748156841,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 117160,
+        "word": "慵懒兔结婚",
+        "onboard_time": 1748152941,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 113361,
+        "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+        "onboard_time": 1748150540,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112846,
+        "num": 112846,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断丰富人民精神世界#"
+    }
+  }
+}
