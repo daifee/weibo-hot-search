@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748184031147,
+  "endTime": 1748186655890,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1423160,
+      "num": 1423160,
+      "word": "王楚钦成首位00后男单世界冠军",
+      "onboard_time": 1748182825,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1414481,
       "num": 976221,
       "word": "女子遭雷击去世丈夫疑因人工降雨",
@@ -243,14 +251,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1047833,
-      "num": 1047833,
-      "word": "王楚钦成首位00后男单世界冠军",
-      "onboard_time": 1748182825,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1016295,
       "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 824625,
+      "num": 824625,
+      "word": "王楚钦孙颖莎成本届世乒赛双冠王",
+      "onboard_time": 1748185825,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807109,
       "num": 371835,
       "word": "马来西亚西瓜汁",
@@ -425,6 +433,14 @@
       "onboard_time": 1748149341,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 659910,
+      "num": 659910,
+      "word": "郑钦文恭喜王楚钦",
+      "onboard_time": 1748184565,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 652894,
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558617,
+      "num": 558617,
+      "word": "网传娱乐主播收入排行榜",
+      "onboard_time": 1748184444,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 553111,
       "num": 231927,
       "word": "湖南郴州一发改局干部从办公楼坠楼",
@@ -577,6 +601,14 @@
       "onboard_time": 1748183186,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 532892,
+      "num": 687965,
+      "word": "37岁女子福建爬山拍照时坠崖身亡",
+      "onboard_time": 1748184744,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528590,
@@ -755,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378121,
+      "num": 378121,
+      "word": "白宇拍的孙颖莎王楚钦",
+      "onboard_time": 1748183186,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375338,
       "num": 375338,
       "word": "陈幸同vs王曼昱",
@@ -809,6 +849,14 @@
       "onboard_time": 1748099484,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364138,
+      "num": 364138,
+      "word": "300岁TVB老人跳晚安大小姐",
+      "onboard_time": 1748185703,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 362325,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1748145441,
       "rank": 8,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 299472,
+      "num": 299472,
+      "word": "麒麟芯片",
+      "onboard_time": 1748185104,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 297619,
@@ -1219,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243526,
+      "num": 240646,
+      "word": "多哈世乒赛国乒4金1银2铜",
+      "onboard_time": 1748183484,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243266,
       "num": 243266,
       "word": "邱贻可看台上聊天",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1748156841,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240646,
-      "num": 240646,
-      "word": "多哈世乒赛国乒4金1银2铜",
-      "onboard_time": 1748183484,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 240527,
@@ -1579,19 +1635,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195966,
-      "num": 195966,
-      "word": "白宇拍的孙颖莎王楚钦",
-      "onboard_time": 1748183186,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195400,
       "num": 195400,
       "word": "章若楠说范丞丞是跑男新生代导演",
       "onboard_time": 1748170521,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195359,
+      "num": 195359,
+      "word": "阎鹤祥带孩子捞鱼把孩子掉水里了",
+      "onboard_time": 1748185164,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1828,7 +1884,7 @@
     },
     {
       "raw_hot": 177150,
-      "num": 177150,
+      "num": 313350,
       "word": "180万投资超市开业7天被举报",
       "onboard_time": 1748181205,
       "rank": 46,
@@ -1873,6 +1929,14 @@
       "onboard_time": 1748149461,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174388,
+      "num": 174388,
+      "word": "时尚芭莎 音乐节",
+      "onboard_time": 1748185403,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 174130,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1748143700,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166590,
+      "num": 188249,
+      "word": "主播拒绝擦边直播被公司索赔10万元",
+      "onboard_time": 1748183903,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165618,
@@ -2251,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148628,
+      "num": 174085,
+      "word": "邓紫棋硬核控雨",
+      "onboard_time": 1748185885,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148527,
       "num": 154367,
       "word": "给魏劭再下一次王母仙药",
@@ -2435,6 +2515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135623,
+      "num": 135623,
+      "word": "藏海对仇人利用完就毁了",
+      "onboard_time": 1748184565,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135198,
       "num": 135198,
       "word": "魏劭想要魏劭得到",
@@ -2473,6 +2561,14 @@
       "onboard_time": 1748179465,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133197,
+      "num": 133197,
+      "word": "张颜齐按颜值我就不来了",
+      "onboard_time": 1748186484,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132806,
@@ -2651,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124693,
+      "num": 124693,
+      "word": "黄子弘凡直播祝大家都能抢到票",
+      "onboard_time": 1748186603,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124673,
       "num": 431961,
       "word": "每天手机跳转到购物APP一万次",
@@ -2665,6 +2769,14 @@
       "onboard_time": 1748155162,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124099,
+      "num": 124099,
+      "word": "张泽禹 哥们不吃甜食",
+      "onboard_time": 1748186603,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 123972,
@@ -3691,6 +3803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42968,
+      "num": 166778,
+      "word": "当地回应女子遭母鹿攻击",
+      "onboard_time": 1748184685,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42123,
       "num": 173841,
       "word": "武汉女足夺冠的历史意义是什么",
@@ -3721,14 +3841,6 @@
       "onboard_time": 1748163680,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36089,
-      "num": 188249,
-      "word": "主播拒绝擦边直播被公司索赔10万元",
-      "onboard_time": 1748183903,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35274,
@@ -3889,6 +4001,14 @@
       "onboard_time": 1748160141,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26567,
+      "num": 128609,
+      "word": "有哪些内行才知道的挑水果技巧",
+      "onboard_time": 1748185284,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 26557,
@@ -4113,6 +4233,14 @@
       "onboard_time": 1748151081,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 6107,
+      "num": 173701,
+      "word": "宜来高速柴埠溪特大桥有哪些技术创新",
+      "onboard_time": 1748186184,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
