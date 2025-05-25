@@ -1,0 +1,410 @@
+{
+  "runTime": 1748155630150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146745,
+        "num": 1183479,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601173,
+        "num": 601173,
+        "word": "教育局回应教师因未发福利消极教学",
+        "onboard_time": 1748149341,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 45399,
+        "num": 402205,
+        "word": "中国快速发展的领域绝不局限于AI",
+        "onboard_time": 1748150780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876353,
+        "num": 401850,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401323,
+        "num": 401323,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324296,
+        "num": 324296,
+        "word": "全国ATM机只剩80万台",
+        "onboard_time": 1748150482,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 369076,
+        "num": 316806,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354681,
+        "num": 315474,
+        "word": "周雨彤花少后接的三部影视剧",
+        "onboard_time": 1748155341,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308075,
+        "num": 308075,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 84115,
+        "num": 307452,
+        "word": "特朗普拒绝削减万亿美元军费预算",
+        "onboard_time": 1748151801,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1758351,
+        "num": 305873,
+        "word": "疑似郝蕾回应和邓超分手原因",
+        "onboard_time": 1748148201,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792414,
+        "num": 304083,
+        "word": "王楚然",
+        "onboard_time": 1748153002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843696,
+        "num": 303171,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302567,
+        "num": 302567,
+        "word": "金靖说在刘宇宁身上看到了自己",
+        "onboard_time": 1748153962,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198198,
+        "num": 198198,
+        "word": "WBG爱丽断开连接",
+        "onboard_time": 1748154861,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222544,
+        "num": 194906,
+        "word": "费曼回应近照争议",
+        "onboard_time": 1748149942,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214655,
+        "num": 191001,
+        "word": "杨幂完全是妈妈级别的",
+        "onboard_time": 1748154081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203678,
+        "num": 188255,
+        "word": "赵丽颖张一山扇巴掌戏扇一赠一",
+        "onboard_time": 1748150540,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185197,
+        "num": 185197,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184206,
+        "num": 184206,
+        "word": "洗猫 高危工作",
+        "onboard_time": 1748144360,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194798,
+        "num": 184085,
+        "word": "王宝强我是你娘",
+        "onboard_time": 1748152762,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193303,
+        "num": 184025,
+        "word": "298的票我自己唱了290",
+        "onboard_time": 1748153781,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183951,
+        "num": 183951,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182090,
+        "num": 182090,
+        "word": "程潇和妹妹首次综艺合体",
+        "onboard_time": 1748148022,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72744,
+        "num": 177554,
+        "word": "绝意腹肌",
+        "onboard_time": 1748153602,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173187,
+        "num": 173187,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156349,
+        "num": 156349,
+        "word": "第一次见老板给艺人宣传这么到位的",
+        "onboard_time": 1748154262,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130520,
+        "num": 144773,
+        "word": "世乒赛复刻杯目前仅限于单打",
+        "onboard_time": 1748147180,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159181,
+        "num": 142979,
+        "word": "花20万在小县城买的顶楼露台房",
+        "onboard_time": 1748151141,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 137718,
+        "word": "美国民众对医疗体系震怒",
+        "onboard_time": 1748154861,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134459,
+        "num": 134459,
+        "word": "36岁妈妈为保护女儿被劫匪勒至昏死",
+        "onboard_time": 1748149341,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93978,
+        "num": 132812,
+        "word": "喻言李莎旻子演唱会合唱大眠",
+        "onboard_time": 1748152102,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131845,
+        "num": 131845,
+        "word": "慵懒兔结婚",
+        "onboard_time": 1748152941,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130006,
+        "num": 130006,
+        "word": "王安宇被刘浩存钓到翘嘴角",
+        "onboard_time": 1748153902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127795,
+        "num": 127795,
+        "word": "婆母下药",
+        "onboard_time": 1748155282,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125133,
+        "num": 125133,
+        "word": "孙颖莎王楚钦赛后解说满分",
+        "onboard_time": 1748152762,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124174,
+        "num": 124174,
+        "word": "郑恺喊话宋妍霏",
+        "onboard_time": 1748153122,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124170,
+        "num": 124170,
+        "word": "全员加速中投票",
+        "onboard_time": 1748155162,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61938,
+        "num": 121917,
+        "word": "美军人妻子试图探望丈夫被拘留",
+        "onboard_time": 1748153781,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120888,
+        "num": 120888,
+        "word": "一诺被乒乓球做局了",
+        "onboard_time": 1748148802,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121081,
+        "num": 120403,
+        "word": "加沙11个月大婴儿仅10斤重",
+        "onboard_time": 1748152460,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116758,
+        "num": 116758,
+        "word": "已经为陈楚生哭三天了",
+        "onboard_time": 1748151019,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110672,
+        "num": 110672,
+        "word": "当我让男朋友看藏海传",
+        "onboard_time": 1748151440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110132,
+        "num": 110132,
+        "word": "藏海传皮筋猴男团出道",
+        "onboard_time": 1748155401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110104,
+        "num": 110104,
+        "word": "李嘉格母亲人生至暗时刻",
+        "onboard_time": 1748155162,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109886,
+        "num": 109886,
+        "word": "减肥期间不建议喝果蔬汁",
+        "onboard_time": 1748153481,
+        "rank": 45,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 106870,
+        "num": 106870,
+        "word": "特朗普为何针对哈佛",
+        "onboard_time": 1748153061,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102014,
+        "num": 102014,
+        "word": "关心厌恶症",
+        "onboard_time": 1748144901,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101132,
+        "num": 101132,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98942,
+        "num": 98942,
+        "word": "吃饭是一件很私密的事情",
+        "onboard_time": 1748155522,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断丰富人民精神世界#"
+    }
+  }
+}
