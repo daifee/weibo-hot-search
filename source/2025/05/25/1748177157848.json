@@ -1,0 +1,410 @@
+{
+  "runTime": 1748177157848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7424626,
+        "num": 7424626,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3691196,
+        "num": 3691196,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1748167343,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67768,
+        "num": 2363776,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1819254,
+        "num": 1819254,
+        "word": "孙颖莎哭了",
+        "onboard_time": 1748175083,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647896,
+        "num": 647896,
+        "word": "折腰215秒广告",
+        "onboard_time": 1748171720,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621561,
+        "num": 621561,
+        "word": "女子闯红灯拒检逃逸后自撞身亡",
+        "onboard_time": 1748172022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390965,
+        "num": 390965,
+        "word": "藏海传第16集仇一次全报了",
+        "onboard_time": 1748175024,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338462,
+        "num": 338462,
+        "word": "王曼昱世乒赛女单亚军",
+        "onboard_time": 1748176043,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 856640,
+        "num": 338287,
+        "word": "王曼昱为救擦网球甩出球拍",
+        "onboard_time": 1748173284,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342800,
+        "num": 337372,
+        "word": "不愧是世乒赛女单决赛",
+        "onboard_time": 1748172200,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1184288,
+        "num": 337072,
+        "word": "杨颖好权威的一张脸",
+        "onboard_time": 1748174546,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 518328,
+        "num": 335927,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289153,
+        "num": 335283,
+        "word": "idle匿名纸条",
+        "onboard_time": 1748173827,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287095,
+        "num": 335017,
+        "word": "范丞丞镜头下的章若楠",
+        "onboard_time": 1748169022,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257970,
+        "num": 334043,
+        "word": "藏海第三个仇人",
+        "onboard_time": 1748175504,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404648,
+        "num": 333205,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113668,
+        "num": 333155,
+        "word": "凯迪拉克XT4被戚薇置顶了",
+        "onboard_time": 1748174066,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26012,
+        "num": 332532,
+        "word": "麻辣烫轻奢路线能否赢得大众青睐",
+        "onboard_time": 1748175443,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 323315,
+        "num": 331824,
+        "word": "女子因丧事在平台申请退机票被拒",
+        "onboard_time": 1748170521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331234,
+        "num": 331234,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262237,
+        "num": 262237,
+        "word": "蔡磊抗渐冻症6年妻儿为他过47岁生日",
+        "onboard_time": 1748174006,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243266,
+        "num": 243266,
+        "word": "邱贻可看台上聊天",
+        "onboard_time": 1748173342,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242403,
+        "num": 242403,
+        "word": "赵丽颖白色仙女长裙",
+        "onboard_time": 1748163741,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240368,
+        "num": 240368,
+        "word": "奔跑吧直播",
+        "onboard_time": 1748170222,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220047,
+        "num": 220047,
+        "word": "平津侯 渣男",
+        "onboard_time": 1748176403,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207991,
+        "num": 207991,
+        "word": "张萌李昀锐合照",
+        "onboard_time": 1748175083,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200046,
+        "num": 200046,
+        "word": "丁禹兮谨言慎行地闯了很多祸",
+        "onboard_time": 1748175805,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198692,
+        "num": 198692,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 197534,
+        "word": "印尼总统发言感谢中国",
+        "onboard_time": 1748170160,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66075,
+        "num": 196624,
+        "word": "玉米蛋挞的成本结构是什么样的",
+        "onboard_time": 1748176343,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196539,
+        "num": 196539,
+        "word": "日本男双时隔64年再夺世乒赛冠军",
+        "onboard_time": 1748173342,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190646,
+        "num": 190646,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188817,
+        "num": 188817,
+        "word": "向佐费曼到底什么时候见面",
+        "onboard_time": 1748175983,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190391,
+        "num": 188652,
+        "word": "藏海跪太快镜头差点没跟上",
+        "onboard_time": 1748163860,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186441,
+        "num": 186441,
+        "word": "玉米蛋挞 贵",
+        "onboard_time": 1748165001,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185285,
+        "num": 185285,
+        "word": "全圆佑去看SEVENTEEN演出了",
+        "onboard_time": 1748176642,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1011830,
+        "num": 184340,
+        "word": "王楚钦vs雨果",
+        "onboard_time": 1748177123,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179203,
+        "num": 179203,
+        "word": "快餐173元消费者吃后喊贵并无不妥",
+        "onboard_time": 1748171782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170573,
+        "num": 170573,
+        "word": "蒋依依拿下陈凯歌剧组最高分",
+        "onboard_time": 1748175144,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166353,
+        "num": 166353,
+        "word": "郑钦文vs帕芙柳琴科娃",
+        "onboard_time": 1748173284,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167066,
+        "num": 166175,
+        "word": "SEVENTEEN新歌thunder初舞台",
+        "onboard_time": 1748175024,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162844,
+        "num": 162844,
+        "word": "国乒22次世乒赛男单夺冠",
+        "onboard_time": 1748165061,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147204,
+        "num": 147204,
+        "word": "蛮蛮一劭大吵",
+        "onboard_time": 1748173222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144606,
+        "num": 144606,
+        "word": "马嘉祺在塔下都不敢打人",
+        "onboard_time": 1748173523,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143066,
+        "num": 143066,
+        "word": "山东一只鹤误入虎园被众虎捕食",
+        "onboard_time": 1748173403,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26557,
+        "num": 142188,
+        "word": "一女驴友鹿角梁徒步脱队一度失联",
+        "onboard_time": 1748175083,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141990,
+        "num": 141990,
+        "word": "舍不得睡觉",
+        "onboard_time": 1748176582,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135775,
+        "num": 135775,
+        "word": "官服藏海",
+        "onboard_time": 1748177061,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528590,
+        "num": 133392,
+        "word": "孙颖莎比了个1",
+        "onboard_time": 1748176642,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129477,
+        "num": 129477,
+        "word": "家里有14个摊位",
+        "onboard_time": 1748174964,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}
