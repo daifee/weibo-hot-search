@@ -1,0 +1,410 @@
+{
+  "runTime": 1748165896033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962834,
+        "num": 1154053,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 848421,
+        "num": 848421,
+        "word": "周扬青第一次体会到没钱的痛苦",
+        "onboard_time": 1748165780,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 750699,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 738084,
+        "num": 738084,
+        "word": "鹤岗 小瑞士",
+        "onboard_time": 1748160621,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 725594,
+        "num": 725594,
+        "word": "赵丽颖白色仙女长裙",
+        "onboard_time": 1748163741,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 584016,
+        "num": 584016,
+        "word": "国乒22次世乒赛男单夺冠",
+        "onboard_time": 1748165061,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495114,
+        "num": 495114,
+        "word": "藏海跪太快镜头差点没跟上",
+        "onboard_time": 1748163860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459851,
+        "num": 459851,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427136,
+        "num": 427136,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309736,
+        "num": 426260,
+        "word": "颁奖典礼上的王楚钦孙颖莎",
+        "onboard_time": 1748163321,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118407,
+        "num": 419198,
+        "word": "今年什么口味粽子最火",
+        "onboard_time": 1748161701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978258,
+        "num": 411859,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299073,
+        "num": 408065,
+        "word": "半个歌手圈疑似被毕业歌会做局了",
+        "onboard_time": 1748145500,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61031,
+        "num": 403085,
+        "word": "网上买女装为什么越来越难了",
+        "onboard_time": 1748165181,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 948168,
+        "num": 396543,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446263,
+        "num": 388098,
+        "word": "绞肉机活蛆不能全靠家长陪餐发现",
+        "onboard_time": 1748163860,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65457,
+        "num": 384305,
+        "word": "老番茄上任iQOO店长",
+        "onboard_time": 1748164641,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55748,
+        "num": 377340,
+        "word": "电表疯狂走字儿4个月用完2000度电",
+        "onboard_time": 1748164160,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22048,
+        "num": 370421,
+        "word": "果蔬汁减肥法存在着哪些误区",
+        "onboard_time": 1748164581,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43691,
+        "num": 366403,
+        "word": "甲状腺结节该如何科学诊断与治理",
+        "onboard_time": 1748165481,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364347,
+        "num": 364347,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363430,
+        "num": 363430,
+        "word": "女子疑拍刚出生小鹿遭母鹿攻击",
+        "onboard_time": 1748160500,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309193,
+        "num": 309193,
+        "word": "玉米蛋挞 贵",
+        "onboard_time": 1748165001,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 290627,
+        "num": 290627,
+        "word": "世乒赛",
+        "onboard_time": 1748162901,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275891,
+        "num": 275891,
+        "word": "朱媛媛是中戏客座教授和硕导",
+        "onboard_time": 1748159960,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261185,
+        "num": 261185,
+        "word": "奔跑吧投票",
+        "onboard_time": 1748158582,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157298,
+        "num": 260178,
+        "word": "广西一烟花爆竹企业起火鞭炮齐鸣",
+        "onboard_time": 1748163860,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160377,
+        "num": 257686,
+        "word": "沙溢王楚然肤色差",
+        "onboard_time": 1748165721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282026,
+        "num": 256451,
+        "word": "原来真有人上学上班兼职三手抓",
+        "onboard_time": 1748165601,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282482,
+        "num": 254364,
+        "word": "王楚然",
+        "onboard_time": 1748153002,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393623,
+        "num": 253463,
+        "word": "日本食品有多变态",
+        "onboard_time": 1748165061,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252171,
+        "num": 252171,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251345,
+        "num": 251345,
+        "word": "刚买的飞机被打啦",
+        "onboard_time": 1748164462,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247497,
+        "num": 247497,
+        "word": "王者新英雄孙权爆料",
+        "onboard_time": 1748158280,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219974,
+        "num": 219974,
+        "word": "杨幂完全是妈妈级别的",
+        "onboard_time": 1748154081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198181,
+        "num": 198181,
+        "word": "田曦薇紫藤萝公主",
+        "onboard_time": 1748165840,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196982,
+        "num": 196982,
+        "word": "外国人敲西瓜是跟谁学的",
+        "onboard_time": 1748165061,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178937,
+        "num": 178937,
+        "word": "九尾首发",
+        "onboard_time": 1748164401,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79534,
+        "num": 162885,
+        "word": "北六代动态飞行视频",
+        "onboard_time": 1748164761,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 68592,
+        "num": 157270,
+        "word": "进击的巨人睡袋",
+        "onboard_time": 1748165661,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156091,
+        "num": 156091,
+        "word": "教育局回应教师因未发福利消极教学",
+        "onboard_time": 1748149341,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 128684,
+        "num": 151211,
+        "word": "白鹿说小鬼是她的rapper老师",
+        "onboard_time": 1748159001,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147414,
+        "num": 147414,
+        "word": "2万4买香奈儿连衣裙能否7折回收",
+        "onboard_time": 1748165601,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147149,
+        "num": 147149,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136778,
+        "num": 136778,
+        "word": "儿童疑触碰小区路灯电桩后身亡",
+        "onboard_time": 1748159180,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132381,
+        "num": 132381,
+        "word": "官方通报网传女子领低保炒股",
+        "onboard_time": 1748156242,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124247,
+        "num": 124247,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119202,
+        "num": 119202,
+        "word": "李连杰晒小女儿大学毕业照",
+        "onboard_time": 1748158881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118756,
+        "num": 118756,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115354,
+        "num": 115354,
+        "word": "世乒赛竞争能有多惨烈",
+        "onboard_time": 1748165539,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}
