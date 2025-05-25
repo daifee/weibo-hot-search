@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748144195990,
+  "endTime": 1748145092167,
   "band_list": [
     {
       "raw_hot": 4056325,
@@ -25,6 +25,22 @@
       "onboard_time": 1748099064,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1528474,
+      "num": 1528474,
+      "word": "男子日均点外卖2.5次患病需终身服药",
+      "onboard_time": 1748143760,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1488069,
+      "num": 414041,
+      "word": "正午阳光",
+      "onboard_time": 1748143220,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1433452,
@@ -68,19 +84,11 @@
     },
     {
       "raw_hot": 1051188,
-      "num": 458341,
+      "num": 485841,
       "word": "哈妮克孜因为戴眼镜探班被换角",
       "onboard_time": 1748133440,
       "rank": 3,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 890888,
-      "num": 414041,
-      "word": "正午阳光",
-      "onboard_time": 1748143220,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 866689,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 754129,
-      "num": 453021,
+      "num": 481059,
       "word": "谍报上不封顶官宣肖战周雨彤",
       "onboard_time": 1748142201,
       "rank": 7,
@@ -171,8 +179,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 511032,
-      "num": 511032,
+      "raw_hot": 511406,
+      "num": 511406,
       "word": "上海快餐店回应四菜一汤173元",
       "onboard_time": 1748142320,
       "rank": 3,
@@ -180,19 +188,11 @@
     },
     {
       "raw_hot": 474131,
-      "num": 388458,
+      "num": 469136,
       "word": "国乒今晚3场神仙打架",
       "onboard_time": 1748141300,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 470415,
-      "num": 470415,
-      "word": "男子日均点外卖2.5次患病需终身服药",
-      "onboard_time": 1748143760,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431570,
@@ -307,8 +307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279458,
-      "num": 279458,
+      "raw_hot": 293131,
+      "num": 293131,
       "word": "谁懂王楚钦孙颖莎这个笑",
       "onboard_time": 1748141421,
       "rank": 22,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242162,
+      "num": 242162,
+      "word": "脂肪下降的顺序",
+      "onboard_time": 1748144121,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 238077,
       "num": 175189,
       "word": "亳州上百人吃网红提拉米苏后进医院",
@@ -417,6 +425,14 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222847,
+      "num": 170612,
+      "word": "洗猫 高危工作",
+      "onboard_time": 1748144360,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 219549,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211378,
+      "num": 211378,
+      "word": "年轻人有自己的生日大汉堡",
+      "onboard_time": 1748144479,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210529,
       "num": 210529,
       "word": "肖战回复沙宝亮",
@@ -473,6 +497,14 @@
       "onboard_time": 1748143281,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205305,
+      "num": 170263,
+      "word": "躺床上睡觉结果不小心点到直播",
+      "onboard_time": 1748144722,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 193907,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177365,
+      "num": 177365,
+      "word": "韶华若锦",
+      "onboard_time": 1748144420,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176252,
       "num": 176252,
       "word": "飞天仙女每天撒30万片花瓣全靠手搓",
@@ -553,6 +593,14 @@
       "onboard_time": 1748106559,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174130,
+      "num": 174130,
+      "word": "卜冠今白纱裙造型",
+      "onboard_time": 1748144241,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 173713,
@@ -611,12 +659,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165618,
+      "num": 165618,
+      "word": "戛纳评委谈为何给狂野时代特别奖",
+      "onboard_time": 1748144061,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165283,
       "num": 165283,
       "word": "易烊千玺名场面诞生",
       "onboard_time": 1748093663,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164795,
+      "num": 177681,
+      "word": "肖战的减法演戏",
+      "onboard_time": 1748140821,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162502,
+      "num": 162502,
+      "word": "左航全员加速中好命小子",
+      "onboard_time": 1748144479,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 159954,
@@ -715,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134062,
+      "num": 134062,
+      "word": "关心厌恶症",
+      "onboard_time": 1748144901,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132806,
       "num": 132806,
       "word": "金棕榈",
@@ -737,6 +817,14 @@
       "onboard_time": 1748097206,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129834,
+      "num": 129834,
+      "word": "跑男嗑学家在哪里",
+      "onboard_time": 1748144241,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129327,
@@ -779,6 +867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 121770,
+      "num": 121770,
+      "word": "下次不许带情绪来上班了",
+      "onboard_time": 1748145021,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121592,
       "num": 121592,
       "word": "KPL运动会",
@@ -801,14 +897,6 @@
       "onboard_time": 1748088562,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115203,
-      "num": 115203,
-      "word": "戛纳评委谈为何给狂野时代特别奖",
-      "onboard_time": 1748144061,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 113737,
@@ -859,6 +947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110024,
+      "num": 361531,
+      "word": "安徽铜陵经开区连续6任一把手被查",
+      "onboard_time": 1748143460,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109666,
       "num": 109666,
       "word": "孙颖莎王楚钦从休斯顿到德班再到多哈",
@@ -889,14 +985,6 @@
       "onboard_time": 1748139861,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105229,
-      "num": 105229,
-      "word": "脂肪下降的顺序",
-      "onboard_time": 1748144121,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 105081,
@@ -969,6 +1057,14 @@
       "onboard_time": 1748095167,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 93805,
+      "num": 436779,
+      "word": "俄乌就此前会谈是否使用翻译激烈争吵",
+      "onboard_time": 1748143101,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92931,
@@ -1092,18 +1188,10 @@
     },
     {
       "raw_hot": 76952,
-      "num": 603735,
+      "num": 1019135,
       "word": "网警重拳出击摧毁一网络水军团伙",
       "onboard_time": 1748138780,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74172,
-      "num": 361531,
-      "word": "安徽铜陵经开区连续6任一把手被查",
-      "onboard_time": 1748143460,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1121,14 +1209,6 @@
       "onboard_time": 1748139440,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68798,
-      "num": 436779,
-      "word": "俄乌就此前会谈是否使用翻译激烈争吵",
-      "onboard_time": 1748143101,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68725,
@@ -1196,7 +1276,7 @@
     },
     {
       "raw_hot": 44496,
-      "num": 150691,
+      "num": 152367,
       "word": "爷爷不泡茶把栀子花开进奶茶里",
       "onboard_time": 1748142080,
       "rank": 39,
@@ -1211,8 +1291,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39627,
-      "num": 152349,
+      "raw_hot": 42123,
+      "num": 173841,
+      "word": "武汉女足夺冠的历史意义是什么",
+      "onboard_time": 1748144781,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40858,
+      "num": 154231,
       "word": "现在中国实力发展到什么程度了",
       "onboard_time": 1748143820,
       "rank": 38,

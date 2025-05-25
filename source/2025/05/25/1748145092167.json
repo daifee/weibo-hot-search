@@ -1,0 +1,410 @@
+{
+  "runTime": 1748145092167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528474,
+        "num": 1528474,
+        "word": "男子日均点外卖2.5次患病需终身服药",
+        "onboard_time": 1748143760,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1280716,
+        "num": 1280716,
+        "word": "谍报上不封顶女主",
+        "onboard_time": 1748140700,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61065,
+        "num": 1019135,
+        "word": "网警重拳出击摧毁一网络水军团伙",
+        "onboard_time": 1748138780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 853206,
+        "num": 853206,
+        "word": "喜羊羊27岁了",
+        "onboard_time": 1748139861,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 511406,
+        "num": 511406,
+        "word": "上海快餐店回应四菜一汤173元",
+        "onboard_time": 1748142320,
+        "rank": 4,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 743494,
+        "num": 496952,
+        "word": "叶童终止新白娘子传奇演唱会",
+        "onboard_time": 1748129298,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 660244,
+        "num": 485841,
+        "word": "哈妮克孜因为戴眼镜探班被换角",
+        "onboard_time": 1748133440,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 556215,
+        "num": 481059,
+        "word": "谍报上不封顶官宣肖战周雨彤",
+        "onboard_time": 1748142201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469136,
+        "num": 469136,
+        "word": "国乒今晚3场神仙打架",
+        "onboard_time": 1748141300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326824,
+        "num": 326824,
+        "word": "王楚钦雨果争冠",
+        "onboard_time": 1748105899,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1488069,
+        "num": 326249,
+        "word": "正午阳光",
+        "onboard_time": 1748143220,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494175,
+        "num": 323559,
+        "word": "刘浩存体重轻到水量纹丝不动",
+        "onboard_time": 1748098706,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319321,
+        "num": 319321,
+        "word": "马来西亚西瓜汁",
+        "onboard_time": 1748133320,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293131,
+        "num": 293131,
+        "word": "谁懂王楚钦孙颖莎这个笑",
+        "onboard_time": 1748141421,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110024,
+        "num": 290501,
+        "word": "安徽铜陵经开区连续6任一把手被查",
+        "onboard_time": 1748143460,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289826,
+        "num": 289826,
+        "word": "李昀锐鹰眼挑战超神",
+        "onboard_time": 1748143340,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286940,
+        "num": 286940,
+        "word": "藏海传加广",
+        "onboard_time": 1748139320,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284392,
+        "num": 284392,
+        "word": "白宫开始第一轮大清洗",
+        "onboard_time": 1748139200,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242162,
+        "num": 242162,
+        "word": "脂肪下降的顺序",
+        "onboard_time": 1748144121,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211378,
+        "num": 211378,
+        "word": "年轻人有自己的生日大汉堡",
+        "onboard_time": 1748144479,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270030,
+        "num": 202668,
+        "word": "李乃文演出谢幕悼念朱媛媛",
+        "onboard_time": 1748140460,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249652,
+        "num": 193193,
+        "word": "印度一男子性侵马匹被捕",
+        "onboard_time": 1748097086,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182891,
+        "num": 182891,
+        "word": "敖瑞鹏联系最多的圈内好友是白鹿",
+        "onboard_time": 1748128998,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164795,
+        "num": 177681,
+        "word": "肖战的减法演戏",
+        "onboard_time": 1748140821,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177365,
+        "num": 177365,
+        "word": "韶华若锦",
+        "onboard_time": 1748144420,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174130,
+        "num": 174130,
+        "word": "卜冠今白纱裙造型",
+        "onboard_time": 1748144241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93805,
+        "num": 174070,
+        "word": "俄乌就此前会谈是否使用翻译激烈争吵",
+        "onboard_time": 1748143101,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162579,
+        "num": 173995,
+        "word": "朝鲜驱逐舰下水事故3人被拘",
+        "onboard_time": 1748129358,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53652,
+        "num": 173900,
+        "word": "吃鸡腿饭减肥的原理是什么",
+        "onboard_time": 1748143881,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42123,
+        "num": 173841,
+        "word": "武汉女足夺冠的历史意义是什么",
+        "onboard_time": 1748144781,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173794,
+        "num": 173794,
+        "word": "波音将为空难者再支付4.445亿美元",
+        "onboard_time": 1748138661,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222847,
+        "num": 170612,
+        "word": "洗猫 高危工作",
+        "onboard_time": 1748144360,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 170263,
+        "word": "躺床上睡觉结果不小心点到直播",
+        "onboard_time": 1748144722,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165618,
+        "num": 165618,
+        "word": "戛纳评委谈为何给狂野时代特别奖",
+        "onboard_time": 1748144061,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162502,
+        "num": 162502,
+        "word": "左航全员加速中好命小子",
+        "onboard_time": 1748144479,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162038,
+        "num": 162038,
+        "word": "女子恋爱后出现胃痛反酸口臭症状",
+        "onboard_time": 1748128517,
+        "rank": 35,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 155322,
+        "num": 155322,
+        "word": "苏新皓猜出王俊凯数秒名场面",
+        "onboard_time": 1748143700,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161095,
+        "num": 154625,
+        "word": "女子备孕5年4次试管全失败",
+        "onboard_time": 1748130019,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40858,
+        "num": 154231,
+        "word": "现在中国实力发展到什么程度了",
+        "onboard_time": 1748143820,
+        "rank": 38,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 41126,
+        "num": 152367,
+        "word": "爷爷不泡茶把栀子花开进奶茶里",
+        "onboard_time": 1748142080,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18957,
+        "num": 152143,
+        "word": "马来西亚西瓜汁有何独特制作工艺",
+        "onboard_time": 1748143040,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151210,
+        "num": 151210,
+        "word": "小伙称连吃28天鸡腿饭瘦10多斤",
+        "onboard_time": 1748102903,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150052,
+        "num": 150052,
+        "word": "杨肸子说杨紫在剧组从不拿剧本",
+        "onboard_time": 1748097146,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149486,
+        "num": 149486,
+        "word": "魏劭发现表哥喜欢小乔",
+        "onboard_time": 1748139800,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145926,
+        "num": 145926,
+        "word": "奔跑吧",
+        "onboard_time": 1748139560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134062,
+        "num": 134062,
+        "word": "关心厌恶症",
+        "onboard_time": 1748144901,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130846,
+        "num": 130846,
+        "word": "女子自称领低保并在银行上班引质疑",
+        "onboard_time": 1748135780,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 129834,
+        "word": "跑男嗑学家在哪里",
+        "onboard_time": 1748144241,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121770,
+        "num": 121770,
+        "word": "下次不许带情绪来上班了",
+        "onboard_time": 1748145021,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1748094746,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#昂扬精神面貌凝聚精神力量#"
+    }
+  }
+}
