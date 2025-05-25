@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748177157848,
+  "endTime": 1748178100386,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1307,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4757404,
+      "num": 4757404,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1745036722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4703448,
       "num": 5953448,
       "word": "王楚钦重庆赛夺冠",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740826040,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3273945,
-      "num": 2290203,
-      "word": "张译二封华表影帝",
-      "onboard_time": 1745749581,
-      "rank": 3,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

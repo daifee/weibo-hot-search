@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748177157848,
+  "endTime": 1748178100386,
   "band_list": [
     {
       "raw_hot": 7424626,
@@ -16,6 +16,14 @@
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1748167343,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4757404,
+      "num": 4757404,
+      "word": "王楚钦vs雨果",
+      "onboard_time": 1748177123,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1211899,
+      "num": 337072,
+      "word": "杨颖好权威的一张脸",
+      "onboard_time": 1748174546,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1194402,
       "num": 1194402,
       "word": "哈佛留学生上演大逃亡",
       "onboard_time": 1748158701,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1184288,
-      "num": 337072,
-      "word": "杨颖好权威的一张脸",
-      "onboard_time": 1748174546,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1146745,
@@ -201,14 +209,6 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1011830,
-      "num": 184340,
-      "word": "王楚钦vs雨果",
-      "onboard_time": 1748177123,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 931423,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293713,
+      "num": 293713,
+      "word": "平津侯 渣男",
+      "onboard_time": 1748176403,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293131,
       "num": 293131,
       "word": "谁懂王楚钦孙颖莎这个笑",
@@ -865,6 +873,14 @@
       "onboard_time": 1748157923,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278454,
+      "num": 334043,
+      "word": "藏海第三个仇人",
+      "onboard_time": 1748175504,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 277862,
@@ -971,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257970,
-      "num": 334043,
-      "word": "藏海第三个仇人",
-      "onboard_time": 1748175504,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255274,
       "num": 204627,
       "word": "教师因未发福利讲课3分钟就放电影",
@@ -1043,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242159,
+      "num": 242159,
+      "word": "赵丽颖犹豫半天比了个苹果",
+      "onboard_time": 1748177963,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241089,
       "num": 241089,
       "word": "金靖记错热巴星座召唤邪恶小巴巴",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1748160921,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220047,
-      "num": 220047,
-      "word": "平津侯 渣男",
-      "onboard_time": 1748176403,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 219595,
@@ -1219,12 +1227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205047,
+      "num": 205047,
+      "word": "刘端端演技",
+      "onboard_time": 1748177782,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204243,
       "num": 204243,
       "word": "王安宇被刘浩存钓到翘嘴角",
       "onboard_time": 1748153902,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203791,
+      "num": 203791,
+      "word": "耐高",
+      "onboard_time": 1748177241,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 200086,
@@ -1331,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194608,
+      "num": 204686,
+      "word": "官服藏海",
+      "onboard_time": 1748177061,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "藏海传优酷热度破10400",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1748168782,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188129,
+      "num": 188129,
+      "word": "祝绪丹钟丽丽美女身边还是美女",
+      "onboard_time": 1748177183,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 185491,
@@ -1523,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176693,
+      "num": 176693,
+      "word": "蒋依依拿下陈凯歌剧组最高分",
+      "onboard_time": 1748175144,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176252,
       "num": 176252,
       "word": "飞天仙女每天撒30万片花瓣全靠手搓",
@@ -1563,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173819,
+      "num": 173819,
+      "word": "ZB1 韩语直播",
+      "onboard_time": 1748177541,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173713,
       "num": 173713,
       "word": "刘雨欣是我好莱坞唯一的人脉",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1748100024,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170573,
-      "num": 170573,
-      "word": "蒋依依拿下陈凯歌剧组最高分",
-      "onboard_time": 1748175144,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 170176,
@@ -1883,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150937,
+      "num": 150937,
+      "word": "肖战就该演美强惨",
+      "onboard_time": 1748177963,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150177,
       "num": 150177,
       "word": "很担心藏海传剧粉的精神状态",
@@ -1920,6 +1976,14 @@
       "word": "平津侯藏海CP",
       "onboard_time": 1748091263,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145122,
+      "num": 145122,
+      "word": "梁乡给的不是车票是安全",
+      "onboard_time": 1748177602,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1995,6 +2059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140446,
+      "num": 140446,
+      "word": "小狗 我不想长大了",
+      "onboard_time": 1748177303,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139386,
       "num": 139386,
       "word": "被王一博我可以鼓励到了",
@@ -2049,14 +2121,6 @@
       "onboard_time": 1748143581,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135775,
-      "num": 135775,
-      "word": "官服藏海",
-      "onboard_time": 1748177061,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 135198,
@@ -2137,6 +2201,14 @@
       "onboard_time": 1748157562,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 132136,
+      "num": 333155,
+      "word": "凯迪拉克XT4被戚薇置顶了",
+      "onboard_time": 1748174066,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 131726,
@@ -2356,7 +2428,7 @@
     },
     {
       "raw_hot": 119373,
-      "num": 119373,
+      "num": 205009,
       "word": "皇马官宣阿隆索上任",
       "onboard_time": 1748171182,
       "rank": 40,
@@ -2417,14 +2489,6 @@
       "onboard_time": 1748107399,
       "rank": 9,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 113668,
-      "num": 333155,
-      "word": "凯迪拉克XT4被戚薇置顶了",
-      "onboard_time": 1748174066,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 113232,
@@ -2939,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80959,
+      "num": 280616,
+      "word": "300多万元商铺征收补偿仅189万",
+      "onboard_time": 1748177662,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80368,
       "num": 80368,
       "word": "全智贤北京活动",
@@ -3036,7 +3108,7 @@
     },
     {
       "raw_hot": 68619,
-      "num": 2363776,
+      "num": 2368417,
       "word": "各地端午氛围渐浓",
       "onboard_time": 1748160981,
       "rank": 2,
@@ -3060,7 +3132,7 @@
     },
     {
       "raw_hot": 66075,
-      "num": 196624,
+      "num": 204189,
       "word": "玉米蛋挞的成本结构是什么样的",
       "onboard_time": 1748176343,
       "rank": 29,
@@ -3481,6 +3553,14 @@
       "onboard_time": 1748157381,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16676,
+      "num": 203902,
+      "word": "有哪些好用的自制灭蚊神器",
+      "onboard_time": 1748177241,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15768,
