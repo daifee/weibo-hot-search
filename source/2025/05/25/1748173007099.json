@@ -1,0 +1,410 @@
+{
+  "runTime": 1748173007099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5046850,
+        "num": 5046850,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1748167343,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 879700,
+        "num": 879700,
+        "word": "孙颖莎王曼昱 强强对决",
+        "onboard_time": 1748170942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57388,
+        "num": 869298,
+        "word": "各地端午氛围渐浓",
+        "onboard_time": 1748160981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 867274,
+        "num": 867274,
+        "word": "麻辣烫 轻奢",
+        "onboard_time": 1748164822,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 511894,
+        "num": 511894,
+        "word": "奔跑吧直播",
+        "onboard_time": 1748170222,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454553,
+        "num": 454553,
+        "word": "印尼总统发言感谢中国",
+        "onboard_time": 1748170160,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421042,
+        "num": 421042,
+        "word": "哈佛留学生上演大逃亡",
+        "onboard_time": 1748158701,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 399336,
+        "num": 399336,
+        "word": "范丞丞镜头下的章若楠",
+        "onboard_time": 1748169022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381698,
+        "num": 381698,
+        "word": "折腰215秒广告",
+        "onboard_time": 1748171720,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358130,
+        "num": 358130,
+        "word": "女子因丧事在平台申请退机票被拒",
+        "onboard_time": 1748170521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1338117,
+        "num": 356689,
+        "word": "擦网",
+        "onboard_time": 1748170701,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 894809,
+        "num": 354792,
+        "word": "内娱四大淡颜",
+        "onboard_time": 1748166021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798349,
+        "num": 353664,
+        "word": "杨颖澳门活动生图",
+        "onboard_time": 1748164100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113519,
+        "num": 351318,
+        "word": "每天手机跳转到购物APP一万次",
+        "onboard_time": 1748166800,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 349574,
+        "word": "多视角看重庆菜园坝火车站爆破拆除",
+        "onboard_time": 1748172502,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285975,
+        "num": 348165,
+        "word": "藏海跪太快镜头差点没跟上",
+        "onboard_time": 1748163860,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40774,
+        "num": 345674,
+        "word": "中风早期都有哪些易忽视的症状",
+        "onboard_time": 1748172744,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58656,
+        "num": 343807,
+        "word": "荨麻疹出现风团和瘙痒暗示哪些风险",
+        "onboard_time": 1748171782,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305769,
+        "num": 342922,
+        "word": "不愧是世乒赛女单决赛",
+        "onboard_time": 1748172200,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761793,
+        "num": 340651,
+        "word": "玉米蛋挞 贵",
+        "onboard_time": 1748165001,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490445,
+        "num": 337535,
+        "word": "日本食品有多变态",
+        "onboard_time": 1748165061,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366208,
+        "num": 336109,
+        "word": "赵丽颖白色仙女长裙",
+        "onboard_time": 1748163741,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335335,
+        "num": 335335,
+        "word": "女子闯红灯拒检逃逸后自撞身亡",
+        "onboard_time": 1748172022,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321991,
+        "num": 321991,
+        "word": "李沐宸谈恋爱没一个接受她拍吻戏",
+        "onboard_time": 1748158462,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258874,
+        "num": 258874,
+        "word": "高圆圆说90%的社交对她都是消耗",
+        "onboard_time": 1748151262,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232646,
+        "num": 257041,
+        "word": "战至巅峰4常驻战队营业",
+        "onboard_time": 1748169261,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199909,
+        "num": 255925,
+        "word": "藏海传",
+        "onboard_time": 1748170761,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190474,
+        "num": 253158,
+        "word": "周翊然晒桃花坞杀青照",
+        "onboard_time": 1748172081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32288,
+        "num": 251124,
+        "word": "龙舟季的广东人强得可怕",
+        "onboard_time": 1748171541,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 13034,
+        "num": 249857,
+        "word": "哈佛赢了也会对美留学业造成打击",
+        "onboard_time": 1748172622,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248211,
+        "num": 248211,
+        "word": "孙颖莎出手稳准狠",
+        "onboard_time": 1748170942,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244569,
+        "num": 244569,
+        "word": "杨幂喂奶牛",
+        "onboard_time": 1748168241,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244419,
+        "num": 244419,
+        "word": "国乒22次世乒赛男单夺冠",
+        "onboard_time": 1748165061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173894,
+        "num": 173894,
+        "word": "祝绪丹想和王珞丹交换妈妈菜",
+        "onboard_time": 1748172382,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170100,
+        "num": 170100,
+        "word": "法网",
+        "onboard_time": 1748168661,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165176,
+        "num": 165176,
+        "word": "时代少年团官宣加盟战至巅峰4",
+        "onboard_time": 1748171962,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162317,
+        "num": 162317,
+        "word": "户上隼辅篠塚大登男双夺冠",
+        "onboard_time": 1748168241,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149661,
+        "num": 149661,
+        "word": "深圳 谨防袈裟",
+        "onboard_time": 1748171060,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145381,
+        "num": 145381,
+        "word": "内娱小短剧勇闯韩流",
+        "onboard_time": 1748168361,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141358,
+        "num": 141358,
+        "word": "仙逆",
+        "onboard_time": 1748170701,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "孙颖莎王曼昱开局就打出多拍相持",
+        "onboard_time": 1748172321,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138153,
+        "num": 138153,
+        "word": "章若楠说范丞丞是跑男新生代导演",
+        "onboard_time": 1748170521,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135275,
+        "num": 135275,
+        "word": "折腰",
+        "onboard_time": 1748167642,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122740,
+        "num": 122740,
+        "word": "李子柒将有重磅作品推出",
+        "onboard_time": 1748171362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120725,
+        "num": 120725,
+        "word": "肖战周雨彤认识十年了",
+        "onboard_time": 1748151322,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 117780,
+        "word": "奔跑吧路透",
+        "onboard_time": 1748150422,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115829,
+        "num": 115829,
+        "word": "白举纲 有这样的太太我很得意",
+        "onboard_time": 1748165900,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111146,
+        "num": 111146,
+        "word": "刚买的飞机被打啦",
+        "onboard_time": 1748164462,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107213,
+        "num": 107213,
+        "word": "林昀儒高承睿获男双亚军",
+        "onboard_time": 1748169801,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100000,
+        "num": 100000,
+        "word": "哪些食物中可能存在李斯特菌",
+        "onboard_time": 1748172982,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向第二十届中国西部国际博览会致贺信#"
+    }
+  }
+}
