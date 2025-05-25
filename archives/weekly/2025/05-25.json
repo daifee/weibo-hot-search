@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748193635333,
+  "endTime": 1748194773956,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -811,6 +811,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 402106,
+      "num": 191098,
+      "word": "赵丽颖杨幂Angelababy活动生图",
+      "onboard_time": 1748193917,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395270,
       "num": 271706,
       "word": "户上隼辅篠塚大登男双夺冠",
@@ -1003,6 +1011,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 321294,
+      "num": 207372,
+      "word": "李乃文喊话辛柏青有我们",
+      "onboard_time": 1748193077,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320993,
       "num": 320993,
       "word": "王曼昱回应与孙颖莎决赛会师",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1748107698,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313830,
+      "num": 313830,
+      "word": "朋友圈 想发就发",
+      "onboard_time": 1748191160,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 313118,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1748164462,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249109,
-      "num": 207372,
-      "word": "李乃文喊话辛柏青有我们",
-      "onboard_time": 1748193077,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 248211,
@@ -2491,14 +2507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145901,
-      "num": 145901,
-      "word": "朋友圈 想发就发",
-      "onboard_time": 1748191160,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145453,
       "num": 145453,
       "word": "平津侯藏海CP",
@@ -3347,6 +3355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104438,
+      "num": 104438,
+      "word": "孙颖莎哭了我也哭了",
+      "onboard_time": 1748194456,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104036,
       "num": 104036,
       "word": "全红婵现身跳水冠军赛现场",
@@ -3625,6 +3641,14 @@
       "onboard_time": 1748138059,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86497,
+      "num": 86497,
+      "word": "王楚钦守住了中国男乒荣誉",
+      "onboard_time": 1748192178,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 84777,
@@ -3932,7 +3956,7 @@
     },
     {
       "raw_hot": 58508,
-      "num": 66789,
+      "num": 85431,
       "word": "章昊cha了IAN进行曲",
       "onboard_time": 1748191999,
       "rank": 39,
@@ -3972,7 +3996,7 @@
     },
     {
       "raw_hot": 54894,
-      "num": 66598,
+      "num": 85648,
       "word": "骗杀父仇人进火场救自己",
       "onboard_time": 1748191939,
       "rank": 44,
@@ -3980,7 +4004,7 @@
     },
     {
       "raw_hot": 53599,
-      "num": 66525,
+      "num": 84817,
       "word": "曼联vs阿斯顿维拉",
       "onboard_time": 1748192058,
       "rank": 46,
@@ -4025,6 +4049,14 @@
       "onboard_time": 1748154381,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45255,
+      "num": 85310,
+      "word": "魏大勋军装",
+      "onboard_time": 1748193796,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 45221,
@@ -4121,6 +4153,22 @@
       "onboard_time": 1748172744,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38430,
+      "num": 84992,
+      "word": "KPL温暖的大家庭",
+      "onboard_time": 1748194517,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 38047,
+      "num": 84932,
+      "word": "王者新增四个主动装备",
+      "onboard_time": 1748194395,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 37664,
