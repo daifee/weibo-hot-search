@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748253624238,
+  "endTime": 1748255404528,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -313,6 +313,14 @@
       "onboard_time": 1748129477,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1134500,
+      "num": 734152,
+      "word": "小沈阳把张百乔拉黑了",
+      "onboard_time": 1748253142,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124437,
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644010,
+      "num": 644010,
+      "word": "端午节3天高速不免费",
+      "onboard_time": 1748249542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638452,
       "num": 638452,
       "word": "iPhone19或迎真全面屏",
@@ -689,14 +705,6 @@
       "onboard_time": 1748104703,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 634162,
-      "num": 634162,
-      "word": "端午节3天高速不免费",
-      "onboard_time": 1748249542,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630667,
@@ -729,6 +737,14 @@
       "onboard_time": 1748172022,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620647,
+      "num": 620647,
+      "word": "2025白玉兰最佳女主角将花落谁家",
+      "onboard_time": 1748252183,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 619999,
@@ -1075,14 +1091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 454398,
-      "num": 454398,
-      "word": "2025白玉兰最佳女主角将花落谁家",
-      "onboard_time": 1748252183,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 449520,
       "num": 445989,
       "word": "问界客服回应余承东疑似开车睡觉",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1748099484,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 363893,
+      "num": 363893,
+      "word": "双胞胎嫁双胞胎又生下双胞胎",
+      "onboard_time": 1748250681,
+      "rank": 36,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 362325,
@@ -1691,14 +1707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 299083,
-      "num": 299083,
-      "word": "双胞胎嫁双胞胎又生下双胞胎",
-      "onboard_time": 1748250681,
-      "rank": 36,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 297619,
       "num": 297619,
       "word": "奔跑吧",
@@ -1747,6 +1755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287546,
+      "num": 287546,
+      "word": "小巷人家获白玉兰奖7大提名",
+      "onboard_time": 1748253142,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285814,
       "num": 285814,
       "word": "宣璐折腰金蝶覆面",
@@ -1787,6 +1803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281105,
+      "num": 361918,
+      "word": "闫妮蒋欣提名白玉兰最佳女主女配",
+      "onboard_time": 1748253983,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280749,
       "num": 250727,
       "word": "我的阿勒泰等10部剧入围白玉兰奖",
@@ -1816,6 +1840,14 @@
       "word": "赵丽颖张一山扇巴掌戏扇一赠一",
       "onboard_time": 1748150540,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277319,
+      "num": 277319,
+      "word": "庄二被霸凌",
+      "onboard_time": 1748253502,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1913,14 +1945,6 @@
       "onboard_time": 1748138661,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 263842,
-      "num": 263842,
-      "word": "小巷人家获白玉兰奖7大提名",
-      "onboard_time": 1748253142,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 262307,
@@ -2035,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247227,
+      "num": 247227,
+      "word": "折腰",
+      "onboard_time": 1748167642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245840,
       "num": 245840,
       "word": "王楚钦说需要感谢的实在太多",
@@ -2147,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230681,
-      "num": 218394,
-      "word": "小沈阳把张百乔拉黑了",
-      "onboard_time": 1748253142,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "幻象黑兔 明日方舟",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1748158222,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218171,
+      "num": 218171,
+      "word": "黄正音官宣离婚",
+      "onboard_time": 1748253562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 216704,
@@ -2417,6 +2449,14 @@
       "onboard_time": 1748180370,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203227,
+      "num": 229780,
+      "word": "郑钦文把覃海洋记成了王楚钦",
+      "onboard_time": 1748254281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 202795,
@@ -2635,14 +2675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192812,
-      "num": 192812,
-      "word": "折腰",
-      "onboard_time": 1748167642,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192783,
       "num": 192783,
       "word": "田曦薇紫色抹胸纱裙",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1748106078,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191310,
+      "num": 191310,
+      "word": "徐明浩solo曲空降",
+      "onboard_time": 1748254102,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 190493,
@@ -3043,6 +3083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176304,
+      "num": 176304,
+      "word": "melon",
+      "onboard_time": 1748254041,
+      "rank": 36,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 176252,
       "num": 176252,
       "word": "飞天仙女每天撒30万片花瓣全靠手搓",
@@ -3169,6 +3217,14 @@
       "onboard_time": 1748240840,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172517,
+      "num": 172517,
+      "word": "Irene涩琪回归MV",
+      "onboard_time": 1748254462,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 172333,
@@ -3571,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "电影狂野时代",
+      "onboard_time": 1748254401,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157812,
       "num": 157211,
       "word": "2025戛纳电影节获奖名单",
@@ -3707,6 +3771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155005,
+      "num": 155005,
+      "word": "大家买的房子都跌了多少",
+      "onboard_time": 1748255301,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154970,
       "num": 154970,
       "word": "户上隼辅篠塚大登3比2林昀儒高承睿",
@@ -3769,6 +3841,14 @@
       "onboard_time": 1748246541,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151249,
+      "num": 151249,
+      "word": "张子枫i人如何表达喜欢",
+      "onboard_time": 1748255242,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150845,
@@ -3867,6 +3947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "沪深两市缩量1456亿成交1.01万亿",
+      "onboard_time": 1748254942,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146445,
       "num": 145362,
       "word": "黄牛抢购麦当劳玩具乱丢食物",
@@ -3889,6 +3977,14 @@
       "onboard_time": 1748230521,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145769,
+      "num": 145769,
+      "word": "美团第一季度净利润109.5亿元",
+      "onboard_time": 1748253983,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 145453,
@@ -3953,6 +4049,14 @@
       "onboard_time": 1748146880,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144232,
+      "num": 345076,
+      "word": "好利来回应面包上疑有2只苍蝇乱飞",
+      "onboard_time": 1748254281,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144061,
@@ -4259,14 +4363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132882,
-      "num": 132882,
-      "word": "庄二被霸凌",
-      "onboard_time": 1748253502,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "用流量诱导孩子在街头玩命必须叫停",
@@ -4337,6 +4433,14 @@
       "onboard_time": 1748174066,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132115,
+      "num": 132115,
+      "word": "吴宣仪成都抢票",
+      "onboard_time": 1748255301,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 131726,
@@ -4571,6 +4675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123717,
+      "num": 279229,
+      "word": "特朗普罕见批评普京",
+      "onboard_time": 1748254581,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123094,
       "num": 160518,
       "word": "加沙11个月大婴儿仅10斤重",
@@ -4641,14 +4753,6 @@
       "onboard_time": 1748138780,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120880,
-      "num": 120880,
-      "word": "黄正音官宣离婚",
-      "onboard_time": 1748253562,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 120604,
@@ -4937,6 +5041,14 @@
       "onboard_time": 1748088982,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110203,
+      "num": 216573,
+      "word": "美团一季度营收865.6亿元",
+      "onboard_time": 1748254822,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 110132,
@@ -5289,6 +5401,14 @@
       "onboard_time": 1748149580,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 95607,
+      "num": 134086,
+      "word": "关于完善中国特色现代企业制度的意见",
+      "onboard_time": 1748255362,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95443,
@@ -5779,6 +5899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 68396,
+      "num": 189535,
+      "word": "炫富已成反腐突破口",
+      "onboard_time": 1748255362,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68309,
       "num": 103490,
       "word": "老兵手搓的线芯误差仅0.01毫米",
@@ -6219,6 +6347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40005,
+      "num": 277966,
+      "word": "普京座机遇袭对俄乌局势有什么影响",
+      "onboard_time": 1748254581,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39706,
       "num": 155659,
       "word": "黑豆水",
@@ -6339,6 +6475,14 @@
       "category": "海外新闻,国际时政"
     },
     {
+      "raw_hot": 33225,
+      "num": 215080,
+      "word": "iPhone真全面屏有什么技术创新",
+      "onboard_time": 1748254882,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32665,
       "num": 34223,
       "word": "藏海复仇之路又前进一步",
@@ -6417,6 +6561,14 @@
       "onboard_time": 1748178624,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30880,
+      "num": 211322,
+      "word": "夏天自己清洗空调节约300",
+      "onboard_time": 1748253682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30752,
@@ -6585,6 +6737,14 @@
       "onboard_time": 1748209334,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23512,
+      "num": 209255,
+      "word": "网友拍摄仙人球开花瞬间",
+      "onboard_time": 1748253742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23302,

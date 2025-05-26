@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748253624238,
+  "endTime": 1748255404528,
   "band_list": [
     {
       "raw_hot": 2347441,
@@ -97,6 +97,14 @@
       "onboard_time": 1748187864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1134500,
+      "num": 734152,
+      "word": "小沈阳把张百乔拉黑了",
+      "onboard_time": 1748253142,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124437,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644010,
+      "num": 644010,
+      "word": "端午节3天高速不免费",
+      "onboard_time": 1748249542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638452,
       "num": 638452,
       "word": "iPhone19或迎真全面屏",
@@ -235,20 +251,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 634162,
-      "num": 634162,
-      "word": "端午节3天高速不免费",
-      "onboard_time": 1748249542,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 630667,
       "num": 630667,
       "word": "美国女主播羊水破裂坚持播3小时节目",
       "onboard_time": 1748217260,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 620647,
+      "num": 620647,
+      "word": "2025白玉兰最佳女主角将花落谁家",
+      "onboard_time": 1748252183,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 619999,
@@ -409,14 +425,6 @@
       "onboard_time": 1748182886,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 454398,
-      "num": 454398,
-      "word": "2025白玉兰最佳女主角将花落谁家",
-      "onboard_time": 1748252183,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 449802,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363893,
+      "num": 363893,
+      "word": "双胞胎嫁双胞胎又生下双胞胎",
+      "onboard_time": 1748250681,
+      "rank": 36,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 361278,
       "num": 345802,
       "word": "蜜丝婷 王楚钦",
@@ -731,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299083,
-      "num": 299083,
-      "word": "双胞胎嫁双胞胎又生下双胞胎",
-      "onboard_time": 1748250681,
-      "rank": 36,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 297321,
       "num": 361881,
       "word": "中石油下属子公司组织团购房烂尾",
@@ -760,6 +768,14 @@
       "word": "陈妍希打卡肖战同款下浩里",
       "onboard_time": 1748251523,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287546,
+      "num": 287546,
+      "word": "小巷人家获白玉兰奖7大提名",
+      "onboard_time": 1748253142,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -787,11 +803,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281105,
+      "num": 361918,
+      "word": "闫妮蒋欣提名白玉兰最佳女主女配",
+      "onboard_time": 1748253983,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280749,
       "num": 250727,
       "word": "我的阿勒泰等10部剧入围白玉兰奖",
       "onboard_time": 1748242161,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277319,
+      "num": 277319,
+      "word": "庄二被霸凌",
+      "onboard_time": 1748253502,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -817,14 +849,6 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 263842,
-      "num": 263842,
-      "word": "小巷人家获白玉兰奖7大提名",
-      "onboard_time": 1748253142,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 257544,
@@ -875,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247227,
+      "num": 247227,
+      "word": "折腰",
+      "onboard_time": 1748254342,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245840,
       "num": 245840,
       "word": "王楚钦说需要感谢的实在太多",
@@ -915,14 +947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 230681,
-      "num": 218394,
-      "word": "小沈阳把张百乔拉黑了",
-      "onboard_time": 1748253142,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227419,
       "num": 227419,
       "word": "长期睡眠不足的9个表现",
@@ -961,6 +985,14 @@
       "onboard_time": 1748192119,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218171,
+      "num": 218171,
+      "word": "黄正音官宣离婚",
+      "onboard_time": 1748253562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 216182,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1748227221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203227,
+      "num": 229780,
+      "word": "郑钦文把覃海洋记成了王楚钦",
+      "onboard_time": 1748254281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 202795,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1748233703,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 191310,
+      "num": 191310,
+      "word": "徐明浩solo曲空降",
+      "onboard_time": 1748254102,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 190493,
@@ -1267,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176304,
+      "num": 176304,
+      "word": "melon",
+      "onboard_time": 1748254041,
+      "rank": 36,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 175025,
       "num": 183970,
       "word": "藏海站在副本入口以为是主线终点",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1748240840,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172517,
+      "num": 172517,
+      "word": "Irene涩琪回归MV",
+      "onboard_time": 1748254462,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 172333,
@@ -1515,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "电影狂野时代",
+      "onboard_time": 1748254401,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156280,
       "num": 156280,
       "word": "女生花14元买牛肉干花1300补牙",
@@ -1555,6 +1627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155005,
+      "num": 155005,
+      "word": "大家买的房子都跌了多少",
+      "onboard_time": 1748255301,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154005,
       "num": 166812,
       "word": "凤凰传奇让我们吃的太好了",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1748246541,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151249,
+      "num": 151249,
+      "word": "张子枫i人如何表达喜欢",
+      "onboard_time": 1748255242,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150845,
@@ -1627,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "沪深两市缩量1456亿成交1.01万亿",
+      "onboard_time": 1748254942,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146445,
       "num": 145362,
       "word": "黄牛抢购麦当劳玩具乱丢食物",
@@ -1659,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145769,
+      "num": 145769,
+      "word": "美团第一季度净利润109.5亿元",
+      "onboard_time": 1748253983,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145342,
       "num": 145342,
       "word": "上班不要用力过猛",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1748246301,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144232,
+      "num": 345076,
+      "word": "好利来回应面包上疑有2只苍蝇乱飞",
+      "onboard_time": 1748254281,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143532,
@@ -1803,20 +1915,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132882,
-      "num": 132882,
-      "word": "庄二被霸凌",
-      "onboard_time": 1748253502,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "用流量诱导孩子在街头玩命必须叫停",
       "onboard_time": 1748188522,
       "rank": 35,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 132115,
+      "num": 132115,
+      "word": "吴宣仪成都抢票",
+      "onboard_time": 1748255301,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 130766,
@@ -1923,6 +2035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123717,
+      "num": 279229,
+      "word": "特朗普罕见批评普京",
+      "onboard_time": 1748254581,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122949,
       "num": 122949,
       "word": "张若昀提名最佳男主角",
@@ -1937,14 +2057,6 @@
       "onboard_time": 1748218822,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120880,
-      "num": 120880,
-      "word": "黄正音官宣离婚",
-      "onboard_time": 1748253562,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 119299,
@@ -2057,6 +2169,14 @@
       "onboard_time": 1748179770,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110203,
+      "num": 216573,
+      "word": "美团一季度营收865.6亿元",
+      "onboard_time": 1748254822,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 109050,
@@ -2209,6 +2329,14 @@
       "onboard_time": 1748224280,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95607,
+      "num": 134086,
+      "word": "关于完善中国特色现代企业制度的意见",
+      "onboard_time": 1748255362,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92053,
@@ -2409,6 +2537,14 @@
       "onboard_time": 1748214739,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68396,
+      "num": 189535,
+      "word": "炫富已成反腐突破口",
+      "onboard_time": 1748255362,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66912,
@@ -2619,6 +2755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40005,
+      "num": 277966,
+      "word": "普京座机遇袭对俄乌局势有什么影响",
+      "onboard_time": 1748254581,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39706,
       "num": 155659,
       "word": "黑豆水",
@@ -2699,6 +2843,14 @@
       "category": "海外新闻,国际时政"
     },
     {
+      "raw_hot": 33225,
+      "num": 215080,
+      "word": "iPhone真全面屏有什么技术创新",
+      "onboard_time": 1748254882,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32246,
       "num": 122008,
       "word": "王楚钦回应被外界质疑",
@@ -2721,6 +2873,14 @@
       "onboard_time": 1748233883,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 30880,
+      "num": 211322,
+      "word": "夏天自己清洗空调节约300",
+      "onboard_time": 1748253682,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27758,
@@ -2777,6 +2937,14 @@
       "onboard_time": 1748209334,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23512,
+      "num": 209255,
+      "word": "网友拍摄仙人球开花瞬间",
+      "onboard_time": 1748253742,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23302,
