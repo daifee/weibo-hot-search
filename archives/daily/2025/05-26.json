@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748258446700,
+  "endTime": 1748259475715,
   "band_list": [
     {
       "raw_hot": 2347441,
@@ -129,6 +129,14 @@
       "onboard_time": 1748221400,
       "rank": 10,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 996810,
+      "num": 647567,
+      "word": "苏娥皇被割鼻",
+      "onboard_time": 1748258240,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 976849,
@@ -371,12 +379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541615,
+      "num": 541615,
+      "word": "马克龙下飞机时竟被老婆打脸",
+      "onboard_time": 1748249422,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 540232,
       "num": 345602,
       "word": "上海保安月薪9000工作的一天",
       "onboard_time": 1748240962,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527406,
+      "num": 527406,
+      "word": "郑钦文把覃海洋记成了王楚钦",
+      "onboard_time": 1748254281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 521865,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 487784,
-      "num": 371368,
+      "num": 415158,
       "word": "邱贻可晒孙颖莎蒯曼金牌合照",
       "onboard_time": 1748256262,
       "rank": 47,
@@ -441,14 +465,6 @@
       "onboard_time": 1748182886,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 459024,
-      "num": 459024,
-      "word": "郑钦文把覃海洋记成了王楚钦",
-      "onboard_time": 1748254281,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 454664,
@@ -497,6 +513,14 @@
       "onboard_time": 1748184744,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433775,
+      "num": 433775,
+      "word": "难听",
+      "onboard_time": 1748257583,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 431710,
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 359592,
-      "num": 359592,
+      "num": 426306,
       "word": "金智媛到上海了",
       "onboard_time": 1748255481,
       "rank": 16,
@@ -731,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326509,
+      "num": 326509,
+      "word": "包文婧为二胎放弃女一号",
+      "onboard_time": 1748259262,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -779,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303408,
-      "num": 303408,
-      "word": "苏娥皇被割鼻",
-      "onboard_time": 1748258240,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 303224,
+      "num": 303224,
+      "word": "5元自助快餐店因一条差评火了",
+      "onboard_time": 1748258661,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 300905,
@@ -793,6 +825,14 @@
       "onboard_time": 1748237061,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299843,
+      "num": 299843,
+      "word": "王楚钦时隔32年夺圣勃莱德杯的左手将",
+      "onboard_time": 1748256262,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 297321,
@@ -817,14 +857,6 @@
       "onboard_time": 1748251523,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294784,
-      "num": 294784,
-      "word": "马克龙下飞机时竟被老婆打脸",
-      "onboard_time": 1748249422,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 287546,
@@ -907,14 +939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 263805,
-      "num": 263805,
-      "word": "难听",
-      "onboard_time": 1748257583,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257544,
       "num": 302740,
       "word": "SEVENTEEN回归",
@@ -945,6 +969,14 @@
       "onboard_time": 1748184565,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251862,
+      "num": 320714,
+      "word": "蛮蛮一劭圆房被打断",
+      "onboard_time": 1748258183,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 251476,
@@ -1019,12 +1051,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234874,
+      "num": 317966,
+      "word": "折腰29集",
+      "onboard_time": 1748257401,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233910,
       "num": 233910,
       "word": "田园脆鸡堡",
       "onboard_time": 1748236223,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227957,
+      "num": 227957,
+      "word": "上海地铁回应踹人女子未满18岁",
+      "onboard_time": 1748257881,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227419,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1748166021,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222410,
+      "num": 424820,
+      "word": "吴镇宇对胃痛的女儿好温柔",
+      "onboard_time": 1748257762,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221448,
@@ -1107,22 +1163,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 211590,
-      "num": 243517,
-      "word": "吴镇宇对胃痛的女儿好温柔",
-      "onboard_time": 1748257762,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207731,
-      "num": 207731,
-      "word": "折腰29集",
-      "onboard_time": 1748257401,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "新说唱",
@@ -1156,7 +1196,7 @@
     },
     {
       "raw_hot": 202837,
-      "num": 202837,
+      "num": 315731,
       "word": "王楚钦发文说感谢我的搭档莎莎",
       "onboard_time": 1748258063,
       "rank": 36,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1748257040,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 198812,
-      "num": 198812,
-      "word": "王楚钦时隔32年夺圣勃莱德杯的左手将",
-      "onboard_time": 1748256262,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 198389,
@@ -1483,14 +1515,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 173942,
-      "num": 173942,
-      "word": "蛮蛮一劭圆房被打断",
-      "onboard_time": 1748258183,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173729,
       "num": 173729,
       "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1748230101,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168376,
+      "num": 168376,
+      "word": "抢labubu",
+      "onboard_time": 1748259322,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 167594,
@@ -1692,7 +1724,7 @@
     },
     {
       "raw_hot": 162435,
-      "num": 192715,
+      "num": 326298,
       "word": "花海这张图里有两只小狗",
       "onboard_time": 1748258421,
       "rank": 41,
@@ -1769,14 +1801,6 @@
       "onboard_time": 1748215639,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 158836,
-      "num": 158836,
-      "word": "上海地铁回应踹人女子未满18岁",
-      "onboard_time": 1748257881,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157843,
@@ -2073,6 +2097,14 @@
       "onboard_time": 1748221281,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136347,
+      "num": 136347,
+      "word": "余承东今年刚因自驾直播被封禁",
+      "onboard_time": 1748259382,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 135637,
@@ -2539,6 +2571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98041,
+      "num": 416156,
+      "word": "十个勤天像极了冷宫里疯掉的妃子",
+      "onboard_time": 1748258603,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97832,
       "num": 97832,
       "word": "孙颖莎夺冠后看向CoCo",
@@ -2675,6 +2715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79785,
+      "num": 223812,
+      "word": "范丞丞章若楠迟来的合照",
+      "onboard_time": 1748259322,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79600,
       "num": 195157,
       "word": "男子性骚扰女下属被辞向公司索赔7万",
@@ -2723,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74883,
+      "num": 431973,
+      "word": "你以为的吸福气其实是吸辐射",
+      "onboard_time": 1748258901,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74456,
       "num": 155766,
       "word": "男子踩钉子发炎自己给自己手术",
@@ -2739,8 +2795,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72788,
+      "num": 422742,
+      "word": "专升本培训花近2万数学只考15分",
+      "onboard_time": 1748258901,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71113,
-      "num": 310090,
+      "num": 428178,
       "word": "在中国冷极做一件passion的事",
       "onboard_time": 1748250983,
       "rank": 18,
@@ -2761,6 +2825,14 @@
       "onboard_time": 1748214739,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67866,
+      "num": 431375,
+      "word": "央美毕业展多件作品疑被熊孩子损坏",
+      "onboard_time": 1748258842,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66912,
@@ -2881,6 +2953,14 @@
       "onboard_time": 1748230402,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 50509,
+      "num": 307896,
+      "word": "再也不想吃艾莎公主蛋糕了",
+      "onboard_time": 1748259022,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 50232,
@@ -3115,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28195,
+      "num": 312688,
+      "word": "再厉害的人也扛不住烂环境",
+      "onboard_time": 1748258541,
+      "rank": 28,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 27758,
       "num": 27758,
       "word": "孙颖莎第二次达成世锦赛金满贯",
@@ -3209,6 +3297,14 @@
       "onboard_time": 1748195896,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21836,
+      "num": 420226,
+      "word": "普京座机被袭有哪些疑点",
+      "onboard_time": 1748258782,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20972,
@@ -3345,6 +3441,14 @@
       "onboard_time": 1748241980,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7223,
+      "num": 418955,
+      "word": "各地麻将玩法有什么不同之处",
+      "onboard_time": 1748258842,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 6608,
