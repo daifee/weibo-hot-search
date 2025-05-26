@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748294601476,
+  "endTime": 1748295501916,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -475,8 +475,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23551,
-      "num": 23551,
+      "raw_hot": 23882,
+      "num": 23882,
       "word": "肖战任少白民国贵公子路透",
       "onboard_time": 1748285054,
       "rank": 46,
@@ -507,19 +507,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18804,
+      "num": 18804,
+      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
+      "onboard_time": 1748289435,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18447,
       "num": 18447,
       "word": "被蟑螂爬过的食物千万别吃",
       "onboard_time": 1748288834,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17739,
-      "num": 17739,
-      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
-      "onboard_time": 1748289435,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -547,12 +547,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12848,
+      "raw_hot": 14564,
       "num": 14828,
       "word": "村委会回应村庄田里设收费杆",
       "onboard_time": 1748290874,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14265,
+      "num": 14831,
+      "word": "原石油工业部部长王涛逝世",
+      "onboard_time": 1748292493,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14221,
+      "num": 14830,
+      "word": "知情人称被吸入高空男子飞行未报备",
+      "onboard_time": 1748292433,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13880,
+      "num": 14829,
+      "word": "哈马斯已同意美特使提出的加沙停火方案",
+      "onboard_time": 1748290693,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12525,
@@ -561,30 +585,6 @@
       "onboard_time": 1748287034,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12456,
-      "num": 14831,
-      "word": "原石油工业部部长王涛逝世",
-      "onboard_time": 1748292493,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12419,
-      "num": 14830,
-      "word": "知情人称被吸入高空男子飞行未报备",
-      "onboard_time": 1748292433,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12302,
-      "num": 14829,
-      "word": "哈马斯已同意美特使提出的加沙停火方案",
-      "onboard_time": 1748290693,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10110,
