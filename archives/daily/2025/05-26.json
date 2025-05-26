@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748241468865,
+  "endTime": 1748242300355,
   "band_list": [
     {
       "raw_hot": 2238121,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 775670,
+      "num": 646269,
+      "word": "女子遗落300万翡翠被垃圾清运车收走",
+      "onboard_time": 1748237002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 744938,
       "num": 698824,
       "word": "王楚钦夺冠后肖指导哭成了小孩",
@@ -155,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646269,
-      "num": 646269,
-      "word": "女子遗落300万翡翠被垃圾清运车收走",
-      "onboard_time": 1748237002,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 645454,
       "num": 367701,
       "word": "孟子义为了气我什么都干的出来",
       "onboard_time": 1748237002,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640245,
+      "num": 328731,
+      "word": "小巷人家",
+      "onboard_time": 1748240721,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 630667,
@@ -265,6 +273,14 @@
       "onboard_time": 1748230162,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497201,
+      "num": 497201,
+      "word": "余承东 开车睡觉",
+      "onboard_time": 1748241502,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 485272,
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331810,
+      "num": 331810,
+      "word": "失踪女硕士生育两孩案进入审查起诉阶段",
+      "onboard_time": 1748239824,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311279,
+      "num": 311279,
+      "word": "失踪女硕士生育两孩案最新进展",
+      "onboard_time": 1748240542,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309392,
       "num": 237139,
       "word": "折腰第29集圆房",
@@ -545,14 +577,6 @@
       "onboard_time": 1748237061,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297351,
-      "num": 297351,
-      "word": "失踪女硕士生育两孩案进入审查起诉阶段",
-      "onboard_time": 1748239824,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297321,
@@ -585,6 +609,14 @@
       "onboard_time": 1748239760,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267121,
+      "num": 267121,
+      "word": "蔡徐坤音乐节",
+      "onboard_time": 1748239461,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 266179,
@@ -659,14 +691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 228814,
-      "num": 228814,
-      "word": "蔡徐坤音乐节",
-      "onboard_time": 1748239461,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
@@ -715,14 +739,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 209918,
-      "num": 258509,
-      "word": "小巷人家",
-      "onboard_time": 1748240721,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "新说唱",
@@ -753,14 +769,6 @@
       "onboard_time": 1748190320,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202019,
-      "num": 235186,
-      "word": "失踪女硕士生育两孩案最新进展",
-      "onboard_time": 1748240542,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198389,
@@ -875,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182995,
+      "num": 182995,
+      "word": "上海保安月薪9000工作的一天",
+      "onboard_time": 1748240962,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182275,
       "num": 182275,
       "word": "赵丽颖犹豫半天比了个苹果",
@@ -913,6 +929,14 @@
       "onboard_time": 1748241200,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178736,
+      "num": 178736,
+      "word": "白鹿孩子静悄悄必定在作妖",
+      "onboard_time": 1748241921,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 176335,
@@ -1011,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166975,
+      "num": 166975,
+      "word": "杨紫二提白玉兰",
+      "onboard_time": 1748238082,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166731,
       "num": 166731,
       "word": "一诺回眸",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1748215939,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165316,
+      "num": 165316,
+      "word": "肖战藏海传杀青博",
+      "onboard_time": 1748238982,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 164781,
@@ -1147,14 +1187,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 149275,
-      "num": 149275,
-      "word": "杨紫二提白玉兰",
-      "onboard_time": 1748238082,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148042,
       "num": 148042,
       "word": "终于明白老年人玩智能机的无力感了",
@@ -1219,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144095,
-      "num": 144095,
-      "word": "肖战藏海传杀青博",
-      "onboard_time": 1748238982,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143532,
       "num": 182160,
       "word": "华晨宇长春哦啦音乐节",
@@ -1243,12 +1267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138551,
-      "num": 138551,
-      "word": "上海保安月薪9000工作的一天",
-      "onboard_time": 1748240962,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 139195,
+      "num": 178738,
+      "word": "今年高考要精心设置手机书包存放点",
+      "onboard_time": 1748241741,
+      "rank": 30,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 138388,
@@ -1323,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130289,
+      "num": 130289,
+      "word": "陈芋汐夺冠现场下起娃娃雨",
+      "onboard_time": 1748241801,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129291,
       "num": 129291,
       "word": "白宇拍的孙颖莎王楚钦",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1748237722,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123734,
+      "num": 123734,
+      "word": "一季度华为手机国内市场份额第一",
+      "onboard_time": 1748241502,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 122403,
@@ -1595,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93636,
+      "num": 174493,
+      "word": "我的阿勒泰等10部剧入围白玉兰奖",
+      "onboard_time": 1748242161,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92053,
       "num": 114648,
       "word": "哈佛没有国际学生会变成什么样",
@@ -1683,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78952,
+      "num": 166872,
+      "word": "王励勤回应洛杉矶奥运会备战",
+      "onboard_time": 1748237002,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78604,
       "num": 114482,
       "word": "时尚芭莎 音乐节",
@@ -1691,7 +1747,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74736,
+      "raw_hot": 77717,
       "num": 241902,
       "word": "下周六就高考了",
       "onboard_time": 1748240542,
@@ -1819,12 +1875,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45586,
+      "raw_hot": 48471,
       "num": 277984,
       "word": "为什么女装行业的退货率普遍较高",
       "onboard_time": 1748239880,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46835,
+      "num": 174672,
+      "word": "绝对的实力面前都不需要妆造",
+      "onboard_time": 1748240721,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 45419,
@@ -1883,20 +1947,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39032,
+      "num": 308867,
+      "word": "李微微被公诉",
+      "onboard_time": 1748240840,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38430,
       "num": 84992,
       "word": "KPL温暖的大家庭",
       "onboard_time": 1748194517,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38132,
-      "num": 174672,
-      "word": "绝对的实力面前都不需要妆造",
-      "onboard_time": 1748240721,
-      "rank": 38,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 38047,
@@ -1921,14 +1985,6 @@
       "onboard_time": 1748210175,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33062,
-      "num": 117011,
-      "word": "王励勤回应洛杉矶奥运会备战",
-      "onboard_time": 1748237002,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 32246,
@@ -1995,12 +2051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20900,
-      "num": 287000,
-      "word": "李微微被公诉",
-      "onboard_time": 1748240840,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 19070,
+      "num": 250095,
+      "word": "外媒称阿塞拜疆增加枭龙订单",
+      "onboard_time": 1748241200,
+      "rank": 26,
+      "category": "军事,民生新闻"
     },
     {
       "raw_hot": 18064,
@@ -2043,6 +2099,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 10191,
+      "num": 244939,
+      "word": "英超结局符合预期吗",
+      "onboard_time": 1748240781,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9220,
       "num": 193691,
       "word": "蹬三轮20年捐35万助学款",
@@ -2051,20 +2115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9111,
-      "num": 250095,
-      "word": "外媒称阿塞拜疆增加枭龙订单",
-      "onboard_time": 1748241200,
-      "rank": 26,
-      "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 8197,
-      "num": 244939,
-      "word": "英超结局符合预期吗",
-      "onboard_time": 1748240781,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 7809,
+      "num": 267397,
+      "word": "王健林再售48座万达面临哪些困境",
+      "onboard_time": 1748241980,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 6608,

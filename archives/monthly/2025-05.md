@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 14:37:48
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 14:51:40
 </p>
 </blockquote>
 <p>
@@ -5601,6 +5601,12 @@ iG 0比21（热度：779946）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%97%E8%90%BD300%E4%B8%87%E7%BF%A1%E7%BF%A0%E8%A2%AB%E5%9E%83%E5%9C%BE%E6%B8%85%E8%BF%90%E8%BD%A6%E6%94%B6%E8%B5%B0%23" target="weibo">
+女子遗落300万翡翠被垃圾清运车收走（热度：775670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Wolves%E5%AF%B9%E6%88%98ZETA%23" target="weibo">
 Wolves对战ZETA（热度：775611）
 </a>
@@ -6005,12 +6011,6 @@ Grace好敢说（热度：750974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%B8%80%E7%9B%B4%E6%8A%8A%E8%9B%8B%E6%8C%9E%E8%AF%BB%E9%94%99%E4%BA%86%23" target="weibo">
 原来你一直把蛋挞读错了（热度：742775）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C%E6%AD%8C%E8%AF%8D%23" target="weibo">
-鹿晗新歌歌词（热度：742646）
 </a>
 </li>
 

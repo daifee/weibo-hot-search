@@ -1,0 +1,410 @@
+{
+  "runTime": 1748242300355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862080,
+        "num": 1862080,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598324,
+        "num": 598324,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 45606,
+        "num": 499671,
+        "word": "跨境电商企业狂招外国主播拓市场",
+        "onboard_time": 1748232923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1210913,
+        "num": 498973,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 497201,
+        "num": 497201,
+        "word": "余承东 开车睡觉",
+        "onboard_time": 1748241502,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 331810,
+        "num": 331810,
+        "word": "失踪女硕士生育两孩案进入审查起诉阶段",
+        "onboard_time": 1748239824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775670,
+        "num": 329848,
+        "word": "女子遗落300万翡翠被垃圾清运车收走",
+        "onboard_time": 1748237002,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640245,
+        "num": 328731,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537626,
+        "num": 327720,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323373,
+        "num": 323373,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 940787,
+        "num": 317590,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347912,
+        "num": 316746,
+        "word": "白玉兰预测",
+        "onboard_time": 1748238861,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336971,
+        "num": 314692,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311279,
+        "num": 311279,
+        "word": "失踪女硕士生育两孩案最新进展",
+        "onboard_time": 1748240542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39032,
+        "num": 308867,
+        "word": "李微微被公诉",
+        "onboard_time": 1748240840,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306828,
+        "num": 306828,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 286669,
+        "num": 286669,
+        "word": "蟑螂咬人",
+        "onboard_time": 1748227942,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 281663,
+        "num": 281663,
+        "word": "刘亦菲提名白玉兰视后",
+        "onboard_time": 1748237061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271443,
+        "num": 271443,
+        "word": "他跟女主喝交杯酒却和女二接吻",
+        "onboard_time": 1748232262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7809,
+        "num": 267397,
+        "word": "王健林再售48座万达面临哪些困境",
+        "onboard_time": 1748241980,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267121,
+        "num": 267121,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1748239461,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238744,
+        "num": 238744,
+        "word": "苏晓彤偷亲代高政",
+        "onboard_time": 1748239760,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235128,
+        "num": 235128,
+        "word": "王楚钦机场偶遇安宰贤",
+        "onboard_time": 1748230402,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215949,
+        "num": 215949,
+        "word": "王楚钦答应刘国梁的事情做到了",
+        "onboard_time": 1748233822,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201385,
+        "num": 201385,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1748222302,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48471,
+        "num": 192959,
+        "word": "为什么女装行业的退货率普遍较高",
+        "onboard_time": 1748239880,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186978,
+        "num": 186978,
+        "word": "能不能让王宝强多上综艺",
+        "onboard_time": 1748241081,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182995,
+        "num": 182995,
+        "word": "上海保安月薪9000工作的一天",
+        "onboard_time": 1748240962,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19070,
+        "num": 178859,
+        "word": "外媒称阿塞拜疆增加枭龙订单",
+        "onboard_time": 1748241200,
+        "rank": 28,
+        "category": "军事,民生新闻"
+      },
+      {
+        "raw_hot": 10191,
+        "num": 178752,
+        "word": "英超结局符合预期吗",
+        "onboard_time": 1748240781,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139195,
+        "num": 178738,
+        "word": "今年高考要精心设置手机书包存放点",
+        "onboard_time": 1748241741,
+        "rank": 30,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 178736,
+        "num": 178736,
+        "word": "白鹿孩子静悄悄必定在作妖",
+        "onboard_time": 1748241921,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93636,
+        "num": 174493,
+        "word": "我的阿勒泰等10部剧入围白玉兰奖",
+        "onboard_time": 1748242161,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 174364,
+        "word": "雨果自曝输球原因",
+        "onboard_time": 1748226620,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167749,
+        "num": 167749,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166975,
+        "num": 166975,
+        "word": "杨紫二提白玉兰",
+        "onboard_time": 1748238082,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46835,
+        "num": 166928,
+        "word": "绝对的实力面前都不需要妆造",
+        "onboard_time": 1748240721,
+        "rank": 36,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 78952,
+        "num": 166872,
+        "word": "王励勤回应洛杉矶奥运会备战",
+        "onboard_time": 1748237002,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153858,
+        "num": 166800,
+        "word": "比亚迪一度跌超8%",
+        "onboard_time": 1748239461,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165312,
+        "num": 166707,
+        "word": "田园脆鸡堡",
+        "onboard_time": 1748236223,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "除了当老师还有什么职业能放寒暑假",
+        "onboard_time": 1748240840,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165316,
+        "num": 165316,
+        "word": "肖战藏海传杀青博",
+        "onboard_time": 1748238982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163862,
+        "num": 163862,
+        "word": "白玉兰配角组神仙打架",
+        "onboard_time": 1748240181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146633,
+        "num": 146633,
+        "word": "李现献祭式男主",
+        "onboard_time": 1748239942,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135691,
+        "num": 135691,
+        "word": "漳县塔吊事故系安装人员操作失误导致",
+        "onboard_time": 1748239581,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77717,
+        "num": 131894,
+        "word": "下周六就高考了",
+        "onboard_time": 1748240542,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130289,
+        "num": 130289,
+        "word": "陈芋汐夺冠现场下起娃娃雨",
+        "onboard_time": 1748241801,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126795,
+        "num": 126795,
+        "word": "周冬雨马思纯曾国祥十年重聚",
+        "onboard_time": 1748239402,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 124712,
+        "word": "终于明白老年人玩智能机的无力感了",
+        "onboard_time": 1748238321,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123734,
+        "num": 123734,
+        "word": "一季度华为手机国内市场份额第一",
+        "onboard_time": 1748241502,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#精神文明建设要有新气象新作为#"
+    }
+  }
+}
