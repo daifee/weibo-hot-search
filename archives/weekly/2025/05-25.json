@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748238240456,
+  "endTime": 1748241468865,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -67,20 +67,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2238121,
+      "num": 2238121,
+      "word": "第30届白玉兰奖入围名单",
+      "onboard_time": 1748236642,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2132154,
       "num": 2132154,
       "word": "手串 辐射",
       "onboard_time": 1748224341,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2131013,
-      "num": 2131013,
-      "word": "第30届白玉兰奖入围名单",
-      "onboard_time": 1748236642,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1988917,
@@ -153,6 +153,14 @@
       "onboard_time": 1748226681,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1443759,
+      "num": 672096,
+      "word": "林俊杰演唱会突发意外情况",
+      "onboard_time": 1748237242,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 1433452,
@@ -593,6 +601,22 @@
       "onboard_time": 1748171720,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 646269,
+      "num": 646269,
+      "word": "女子遗落300万翡翠被垃圾清运车收走",
+      "onboard_time": 1748237002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 645454,
+      "num": 367701,
+      "word": "孟子义为了气我什么都干的出来",
+      "onboard_time": 1748237002,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 637831,
@@ -1219,12 +1243,12 @@
       "category": "美妆,体育"
     },
     {
-      "raw_hot": 359854,
-      "num": 300439,
-      "word": "林俊杰演唱会突发意外情况",
-      "onboard_time": 1748237242,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 360395,
+      "num": 360395,
+      "word": "白玉兰预测",
+      "onboard_time": 1748238861,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 358130,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1748176043,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337405,
-      "num": 337405,
-      "word": "孟子义为了气我什么都干的出来",
-      "onboard_time": 1748237002,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 335110,
@@ -1459,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300905,
+      "num": 285068,
+      "word": "刘亦菲提名白玉兰视后",
+      "onboard_time": 1748237061,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300677,
       "num": 301676,
       "word": "朱媛媛是中戏客座教授和硕导",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1748139560,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297351,
+      "num": 297351,
+      "word": "失踪女硕士生育两孩案进入审查起诉阶段",
+      "onboard_time": 1748239824,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297321,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1748178324,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284818,
+      "num": 284818,
+      "word": "苏晓彤偷亲代高政",
+      "onboard_time": 1748239760,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 282026,
@@ -1835,12 +1875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232391,
-      "num": 304517,
-      "word": "女子遗落300万翡翠被垃圾清运车收走",
-      "onboard_time": 1748237002,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 233910,
+      "num": 233910,
+      "word": "田园脆鸡堡",
+      "onboard_time": 1748236223,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 232061,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1748180070,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228814,
+      "num": 228814,
+      "word": "蔡徐坤音乐节",
+      "onboard_time": 1748239461,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 227114,
@@ -2011,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209918,
+      "num": 258509,
+      "word": "小巷人家",
+      "onboard_time": 1748240721,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209649,
       "num": 209649,
       "word": "36岁妈妈为保护女儿被劫匪勒至昏死",
@@ -2107,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202019,
+      "num": 235186,
+      "word": "失踪女硕士生育两孩案最新进展",
+      "onboard_time": 1748240542,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200086,
       "num": 189645,
       "word": "法网",
@@ -2195,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197468,
-      "num": 197468,
-      "word": "刘亦菲提名白玉兰视后",
-      "onboard_time": 1748237061,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197113,
       "num": 197113,
       "word": "紫川",
@@ -2283,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193900,
+      "num": 193900,
+      "word": "白玉兰配角组神仙打架",
+      "onboard_time": 1748240181,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193325,
       "num": 203125,
       "word": "朱媛媛去世为何全民哀悼",
@@ -2347,12 +2411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190493,
+      "num": 253059,
+      "word": "能不能让王宝强多上综艺",
+      "onboard_time": 1748241081,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190474,
       "num": 253158,
       "word": "周翊然晒桃花坞杀青照",
       "onboard_time": 1748172081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 255150,
+      "word": "比亚迪一度跌超8%",
+      "onboard_time": 1748239461,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 189754,
@@ -2523,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179277,
+      "num": 179277,
+      "word": "A股医药股集体大跌",
+      "onboard_time": 1748241200,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179203,
       "num": 179203,
       "word": "快餐173元消费者吃后喊贵并无不妥",
@@ -2601,6 +2689,14 @@
       "onboard_time": 1748145980,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176335,
+      "num": 176335,
+      "word": "汪苏泷太原",
+      "onboard_time": 1748240422,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 176252,
@@ -2707,12 +2803,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173438,
+      "num": 173438,
+      "word": "李现献祭式男主",
+      "onboard_time": 1748239942,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173215,
       "num": 362501,
       "word": "肖战说演得挺过瘾",
       "onboard_time": 1748224460,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172977,
+      "num": 172977,
+      "word": "除了当老师还有什么职业能放寒暑假",
+      "onboard_time": 1748240840,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 172333,
@@ -2923,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164781,
+      "num": 164781,
+      "word": "周冬雨马思纯曾国祥十年重聚",
+      "onboard_time": 1748239402,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 164525,
       "num": 164525,
       "word": "Doinb谈NIP跌入涅槃组",
@@ -2969,6 +3089,14 @@
       "onboard_time": 1748236223,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161398,
+      "num": 182629,
+      "word": "漳县塔吊事故系安装人员操作失误导致",
+      "onboard_time": 1748239581,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160298,
@@ -3227,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149275,
+      "num": 149275,
+      "word": "杨紫二提白玉兰",
+      "onboard_time": 1748238082,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148628,
       "num": 174085,
       "word": "邓紫棋硬核控雨",
@@ -3241,6 +3377,14 @@
       "onboard_time": 1748148201,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148042,
+      "num": 148042,
+      "word": "终于明白老年人玩智能机的无力感了",
+      "onboard_time": 1748238321,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 148031,
@@ -3347,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144095,
+      "num": 144095,
+      "word": "肖战藏海传杀青博",
+      "onboard_time": 1748238982,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144061,
       "num": 144061,
       "word": "西山居30周年",
@@ -3377,14 +3529,6 @@
       "onboard_time": 1748150002,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 143280,
-      "num": 143280,
-      "word": "杨紫二提白玉兰",
-      "onboard_time": 1748238082,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 143066,
@@ -3467,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138551,
+      "num": 138551,
+      "word": "上海保安月薪9000工作的一天",
+      "onboard_time": 1748240962,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138388,
       "num": 155610,
       "word": "癸玺才是藏海一家灭门的根源",
@@ -3481,6 +3633,14 @@
       "onboard_time": 1748186664,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 137656,
+      "num": 137656,
+      "word": "你见过能跑起来的三亿美金吗",
+      "onboard_time": 1748240662,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 137473,
@@ -3841,14 +4001,6 @@
       "onboard_time": 1748155162,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124117,
-      "num": 124117,
-      "word": "田园脆鸡堡",
-      "onboard_time": 1748236223,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 123972,
@@ -4843,6 +4995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74736,
+      "num": 241902,
+      "word": "下周六就高考了",
+      "onboard_time": 1748240542,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73791,
       "num": 73791,
       "word": "85后干部受处分两年后拟获提拔",
@@ -4985,6 +5145,14 @@
       "onboard_time": 1748230342,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 62067,
+      "num": 280463,
+      "word": "街头飙速降自行车不是炫酷是玩命",
+      "onboard_time": 1748239824,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61938,
@@ -5155,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45586,
+      "num": 277984,
+      "word": "为什么女装行业的退货率普遍较高",
+      "onboard_time": 1748239880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45483,
       "num": 174786,
       "word": "WB运动会小灵通上线啦",
@@ -5313,6 +5489,14 @@
       "onboard_time": 1748194517,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38132,
+      "num": 174672,
+      "word": "绝对的实力面前都不需要妆造",
+      "onboard_time": 1748240721,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 38047,
@@ -5547,6 +5731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27493,
+      "num": 238758,
+      "word": "风油精还有哪些尚未被充分发掘的功能",
+      "onboard_time": 1748239880,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26567,
       "num": 128609,
       "word": "有哪些内行才知道的挑水果技巧",
@@ -5641,6 +5833,14 @@
       "onboard_time": 1748147479,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20900,
+      "num": 287000,
+      "word": "李微微被公诉",
+      "onboard_time": 1748240840,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20683,
@@ -5825,6 +6025,22 @@
       "onboard_time": 1748237242,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9111,
+      "num": 250095,
+      "word": "外媒称阿塞拜疆增加枭龙订单",
+      "onboard_time": 1748241200,
+      "rank": 26,
+      "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 8197,
+      "num": 244939,
+      "word": "英超结局符合预期吗",
+      "onboard_time": 1748240781,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 7835,
