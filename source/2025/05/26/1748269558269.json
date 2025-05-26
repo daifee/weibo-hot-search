@@ -1,0 +1,410 @@
+{
+  "runTime": 1748269558269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300794,
+        "num": 1300794,
+        "word": "5元自助快餐店因一条差评火了",
+        "onboard_time": 1748258661,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 608728,
+        "num": 608728,
+        "word": "张一山生日赵丽颖送了两巴掌",
+        "onboard_time": 1748267124,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61646,
+        "num": 603965,
+        "word": "中国成为全球购物旅游新热土",
+        "onboard_time": 1748266763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115150,
+        "num": 601743,
+        "word": "贾斯汀比伯告白女网红",
+        "onboard_time": 1748262383,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918669,
+        "num": 594670,
+        "word": "交警回应余承东疑似开车睡觉",
+        "onboard_time": 1748264962,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 881200,
+        "num": 587889,
+        "word": "三个月瘦了35斤的面部变化",
+        "onboard_time": 1748266042,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 743745,
+        "num": 583898,
+        "word": "现实中真正的漂亮",
+        "onboard_time": 1748259562,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 621615,
+        "num": 579530,
+        "word": "小沈阳把张百乔拉黑了",
+        "onboard_time": 1748253142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576554,
+        "num": 576554,
+        "word": "知网一论文下载95万次0次引用遭质疑",
+        "onboard_time": 1748262921,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538909,
+        "num": 538909,
+        "word": "永容王爷 吓人",
+        "onboard_time": 1748262442,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34754,
+        "num": 450633,
+        "word": "范丞丞能量拉满鲨出重围",
+        "onboard_time": 1748268503,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606593,
+        "num": 446780,
+        "word": "普京所乘飞机遭大规模袭击",
+        "onboard_time": 1748250083,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440351,
+        "num": 440351,
+        "word": "网友日本偶遇王菲谢霆锋",
+        "onboard_time": 1748264182,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416307,
+        "num": 416307,
+        "word": "王楚钦发文说感谢我的搭档莎莎",
+        "onboard_time": 1748258063,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135332,
+        "num": 397993,
+        "word": "捷途方盒子不眠夜",
+        "onboard_time": 1748269103,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339742,
+        "num": 393080,
+        "word": "2025白玉兰最佳女主角将花落谁家",
+        "onboard_time": 1748252183,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390766,
+        "num": 390766,
+        "word": "包文婧为二胎放弃女一号",
+        "onboard_time": 1748259262,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14541,
+        "num": 389324,
+        "word": "不同人群每日应摄入多少克膳食纤维",
+        "onboard_time": 1748267185,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37867,
+        "num": 374157,
+        "word": "网红捏捏越玩越危险",
+        "onboard_time": 1748268742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9055,
+        "num": 371854,
+        "word": "牛肉干过硬食用时有哪些注意事项",
+        "onboard_time": 1748268985,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45702,
+        "num": 362312,
+        "word": "5人骑1辆电动车被行政处罚",
+        "onboard_time": 1748269283,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356619,
+        "num": 356619,
+        "word": "66岁大爷挖鼻孔致满脸肿胀变形",
+        "onboard_time": 1748261721,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293004,
+        "num": 293004,
+        "word": "肖战秒被打脸",
+        "onboard_time": 1748266884,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291305,
+        "num": 291305,
+        "word": "女子分享孕中孕晚分娩后容貌变化",
+        "onboard_time": 1748265502,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 282488,
+        "num": 282488,
+        "word": "房琪回归后视频风格大变",
+        "onboard_time": 1748256441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237114,
+        "num": 266143,
+        "word": "not in",
+        "onboard_time": 1748261483,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256338,
+        "num": 256338,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78883,
+        "num": 248461,
+        "word": "女子看死神来了被影院天花板砸伤",
+        "onboard_time": 1748268443,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11604,
+        "num": 245775,
+        "word": "9个打动面试官的小细节",
+        "onboard_time": 1748267785,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7161,
+        "num": 245049,
+        "word": "女生跑步必看的10句话",
+        "onboard_time": 1748269283,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244816,
+        "num": 244816,
+        "word": "遇害海归女母亲曾提醒其注意江歌案",
+        "onboard_time": 1748259623,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234492,
+        "num": 234492,
+        "word": "藏海传 楚门的世界",
+        "onboard_time": 1748265622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221068,
+        "num": 221068,
+        "word": "刘宇宁拍戏不看手机不拿剧本",
+        "onboard_time": 1748267603,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206166,
+        "num": 206166,
+        "word": "折腰预告",
+        "onboard_time": 1748265262,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204211,
+        "num": 204211,
+        "word": "邱贻可说练得最多的就是孙颖莎",
+        "onboard_time": 1748267903,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202965,
+        "num": 202965,
+        "word": "孟子义我媚眼抛给瞎子看",
+        "onboard_time": 1748267663,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "特斯拉下服务区追尾大货车",
+        "onboard_time": 1748268083,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202127,
+        "num": 202127,
+        "word": "刘琰对苏娥皇是真爱",
+        "onboard_time": 1748269044,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193867,
+        "num": 193867,
+        "word": "蛮蛮一劭圆房被打断",
+        "onboard_time": 1748258183,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186752,
+        "num": 186752,
+        "word": "吴宣仪发文祝喻言生日快乐",
+        "onboard_time": 1748268263,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178660,
+        "num": 178660,
+        "word": "郑晓龙 山甄海味",
+        "onboard_time": 1748266583,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88181,
+        "num": 178086,
+        "word": "吴谨言产后首个公开活动",
+        "onboard_time": 1748256982,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 178037,
+        "word": "折腰吻戏",
+        "onboard_time": 1748267302,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177154,
+        "num": 177154,
+        "word": "大乔小乔吵架",
+        "onboard_time": 1748269344,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23445,
+        "num": 176836,
+        "word": "建议大家学会用逆向思维去面试",
+        "onboard_time": 1748268144,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176770,
+        "num": 176770,
+        "word": "莫雷加德放弃出演好莱坞电影",
+        "onboard_time": 1748268622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168184,
+        "num": 168184,
+        "word": "大家买的房子都跌了多少",
+        "onboard_time": 1748255301,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165774,
+        "num": 165774,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155224,
+        "num": 155224,
+        "word": "上海地铁上踹人女子未成年已罚款",
+        "onboard_time": 1748260282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153957,
+        "num": 153957,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

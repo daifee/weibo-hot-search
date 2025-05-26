@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748267216304,
+  "endTime": 1748269558269,
   "band_list": [
     {
       "raw_hot": 2368379,
@@ -179,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918669,
+      "num": 594670,
+      "word": "交警回应余承东疑似开车睡觉",
+      "onboard_time": 1748264962,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 915740,
       "num": 915740,
       "word": "永容王爷 吓人",
       "onboard_time": 1748262442,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 881200,
+      "num": 587889,
+      "word": "三个月瘦了35斤的面部变化",
+      "onboard_time": 1748266042,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 879844,
@@ -257,6 +273,14 @@
       "onboard_time": 1748223141,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 743745,
+      "num": 793564,
+      "word": "现实中真正的漂亮",
+      "onboard_time": 1748259562,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 724716,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608728,
+      "num": 608728,
+      "word": "张一山生日赵丽颖送了两巴掌",
+      "onboard_time": 1748267124,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600854,
       "num": 360525,
       "word": "李沐宸对公开恋情的态度",
@@ -401,14 +433,6 @@
       "onboard_time": 1748187023,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 569785,
-      "num": 793564,
-      "word": "现实中真正的漂亮",
-      "onboard_time": 1748259562,
-      "rank": 38,
-      "category": "休闲"
     },
     {
       "raw_hot": 569277,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 480440,
-      "num": 430335,
+      "num": 440351,
       "word": "网友日本偶遇王菲谢霆锋",
       "onboard_time": 1748264182,
       "rank": 23,
@@ -697,6 +721,14 @@
       "onboard_time": 1748223562,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416307,
+      "num": 471856,
+      "word": "王楚钦发文说感谢我的搭档莎莎",
+      "onboard_time": 1748258063,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 410802,
@@ -883,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327154,
-      "num": 471856,
-      "word": "王楚钦发文说感谢我的搭档莎莎",
-      "onboard_time": 1748258063,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -963,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299607,
-      "num": 299607,
-      "word": "交警回应余承东疑似开车睡觉",
-      "onboard_time": 1748264962,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297321,
       "num": 361881,
       "word": "中石油下属子公司组织团购房烂尾",
@@ -993,6 +1009,14 @@
       "onboard_time": 1748251523,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293004,
+      "num": 293004,
+      "word": "肖战秒被打脸",
+      "onboard_time": 1748266884,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 287546,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1748239760,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282488,
+      "num": 282488,
+      "word": "房琪回归后视频风格大变",
+      "onboard_time": 1748256441,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 280749,
@@ -1195,20 +1227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234492,
+      "num": 234492,
+      "word": "藏海传 楚门的世界",
+      "onboard_time": 1748265622,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233910,
       "num": 233910,
       "word": "田园脆鸡堡",
       "onboard_time": 1748236223,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 232989,
-      "num": 188695,
-      "word": "三个月瘦了35斤的面部变化",
-      "onboard_time": 1748266042,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 227957,
@@ -1227,27 +1259,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 227212,
-      "num": 188191,
-      "word": "张一山生日赵丽颖送了两巴掌",
-      "onboard_time": 1748267124,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
       "onboard_time": 1748222360,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 226711,
-      "num": 226711,
-      "word": "房琪回归后视频风格大变",
-      "onboard_time": 1748256441,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1273,6 +1289,14 @@
       "onboard_time": 1748232021,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221068,
+      "num": 221068,
+      "word": "刘宇宁拍戏不看手机不拿剧本",
+      "onboard_time": 1748267603,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 220929,
@@ -1339,12 +1363,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206166,
+      "num": 206166,
+      "word": "折腰预告",
+      "onboard_time": 1748265262,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205460,
       "num": 205460,
       "word": "弃考被救同学系心源性猝死抢救成功",
       "onboard_time": 1748227221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204211,
+      "num": 204211,
+      "word": "邱贻可说练得最多的就是孙颖莎",
+      "onboard_time": 1748267903,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 203853,
@@ -1363,12 +1403,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202965,
+      "num": 202965,
+      "word": "孟子义我媚眼抛给瞎子看",
+      "onboard_time": 1748267663,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "世乒赛男双",
       "onboard_time": 1748190320,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202169,
+      "num": 202169,
+      "word": "特斯拉下服务区追尾大货车",
+      "onboard_time": 1748268083,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202127,
+      "num": 202127,
+      "word": "刘琰对苏娥皇是真爱",
+      "onboard_time": 1748269044,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 199560,
@@ -1539,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188175,
-      "num": 188175,
-      "word": "肖战秒被打脸",
-      "onboard_time": 1748266884,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187472,
       "num": 261115,
       "word": "尼克斯1比2步行者",
@@ -1555,20 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187455,
-      "num": 187455,
-      "word": "折腰预告",
-      "onboard_time": 1748265262,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187445,
-      "num": 187445,
-      "word": "藏海传 楚门的世界",
-      "onboard_time": 1748265622,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 186752,
+      "num": 186752,
+      "word": "吴宣仪发文祝喻言生日快乐",
+      "onboard_time": 1748268263,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 185923,
@@ -1683,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178660,
+      "num": 178660,
+      "word": "郑晓龙 山甄海味",
+      "onboard_time": 1748266583,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178358,
       "num": 178358,
       "word": "孙颖莎说夺冠的路很难很难",
@@ -1699,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178037,
+      "num": 178037,
+      "word": "折腰吻戏",
+      "onboard_time": 1748267302,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "马克龙访越遭夫人当众打脸",
@@ -1707,12 +1771,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177154,
+      "num": 177154,
+      "word": "大乔小乔吵架",
+      "onboard_time": 1748269344,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176782,
       "num": 176782,
       "word": "国漫四大硬帅纸片人",
       "onboard_time": 1748243601,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 176770,
+      "num": 176770,
+      "word": "莫雷加德放弃出演好莱坞电影",
+      "onboard_time": 1748268622,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 176335,
@@ -1840,14 +1920,6 @@
       "word": "在人间",
       "onboard_time": 1748244862,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171061,
-      "num": 171061,
-      "word": "郑晓龙 山甄海味",
-      "onboard_time": 1748266583,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2108,7 +2180,7 @@
     },
     {
       "raw_hot": 157232,
-      "num": 157232,
+      "num": 178086,
       "word": "吴谨言产后首个公开活动",
       "onboard_time": 1748256982,
       "rank": 47,
@@ -2425,6 +2497,14 @@
       "onboard_time": 1748234243,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 135332,
+      "num": 397993,
+      "word": "捷途方盒子不眠夜",
+      "onboard_time": 1748269103,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 134610,
@@ -3083,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78883,
+      "num": 248461,
+      "word": "女子看死神来了被影院天花板砸伤",
+      "onboard_time": 1748268443,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78604,
       "num": 114482,
       "word": "时尚芭莎 音乐节",
@@ -3216,6 +3304,14 @@
       "word": "街头飙速降自行车不是炫酷是玩命",
       "onboard_time": 1748239824,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61646,
+      "num": 908543,
+      "word": "中国成为全球购物旅游新热土",
+      "onboard_time": 1748266763,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3363,6 +3459,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 45702,
+      "num": 362312,
+      "word": "5人骑1辆电动车被行政处罚",
+      "onboard_time": 1748269283,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45419,
       "num": 281489,
       "word": "外贸企业出货量激增运价跳涨",
@@ -3491,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37867,
+      "num": 374157,
+      "word": "网红捏捏越玩越危险",
+      "onboard_time": 1748268742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37389,
       "num": 48017,
       "word": "歌手熊天平夫妇追忆朱媛媛",
@@ -3513,6 +3625,14 @@
       "onboard_time": 1748248882,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34754,
+      "num": 450633,
+      "word": "范丞丞能量拉满鲨出重围",
+      "onboard_time": 1748268503,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 33566,
@@ -3675,6 +3795,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 23445,
+      "num": 176836,
+      "word": "建议大家学会用逆向思维去面试",
+      "onboard_time": 1748268144,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23308,
       "num": 353169,
       "word": "带状疱疹有哪些常见的误区",
@@ -3795,12 +3923,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15306,
-      "num": 908543,
-      "word": "中国成为全球购物旅游新热土",
-      "onboard_time": 1748266763,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 14541,
+      "num": 389324,
+      "word": "不同人群每日应摄入多少克膳食纤维",
+      "onboard_time": 1748267185,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12718,
@@ -3816,6 +3944,14 @@
       "word": "缓解焦虑压力的10个方法",
       "onboard_time": 1748266283,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 11604,
+      "num": 245775,
+      "word": "9个打动面试官的小细节",
+      "onboard_time": 1748267785,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -3859,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9055,
+      "num": 371854,
+      "word": "牛肉干过硬食用时有哪些注意事项",
+      "onboard_time": 1748268985,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 9005,
       "num": 295455,
       "word": "跨境电商招外国主播会带来什么机遇",
@@ -3891,19 +4035,19 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 7161,
+      "num": 245049,
+      "word": "女生跑步必看的10句话",
+      "onboard_time": 1748269283,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 6608,
       "num": 194871,
       "word": "三国曹魏简牍是如何制作的",
       "onboard_time": 1748238021,
       "rank": 26,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 6540,
-      "num": 171540,
-      "word": "不同人群每日应摄入多少克膳食纤维",
-      "onboard_time": 1748267185,
-      "rank": 42,
       "category": "科学科普"
     },
     {
@@ -3943,6 +4087,9 @@
     },
     {
       "word": "#习近平致信祝贺复旦大学建校120周年#"
+    },
+    {
+      "word": "#习近平与少年儿童的暖心瞬间#"
     }
   ]
 }
