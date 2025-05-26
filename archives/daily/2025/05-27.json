@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748278031393,
+  "endTime": 1748280120722,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171360,
+      "num": 171360,
+      "word": "刘若英演唱会两姐妹点歌",
+      "onboard_time": 1748275280,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170069,
       "num": 170069,
       "word": "小沈阳把张百乔拉黑了",
@@ -201,14 +209,6 @@
       "onboard_time": 1748275820,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112964,
-      "num": 112964,
-      "word": "刘若英演唱会两姐妹点歌",
-      "onboard_time": 1748275280,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 108409,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55898,
+      "num": 55898,
+      "word": "折腰吻戏",
+      "onboard_time": 1748267302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55194,
       "num": 55194,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
@@ -403,20 +411,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54799,
-      "num": 54799,
-      "word": "折腰吻戏",
-      "onboard_time": 1748267302,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52423,
       "num": 52423,
       "word": "崔胜澈 阿龙阿龙",
       "onboard_time": 1748277439,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41816,
+      "num": 41816,
+      "word": "还是皮筋猴好骗",
+      "onboard_time": 1748278818,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39809,
+      "num": 39809,
+      "word": "包文婧为二胎放弃女一号",
+      "onboard_time": 1748259262,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37243,
+      "num": 37243,
+      "word": "缅北明家犯罪集团案已进入审判环节",
+      "onboard_time": 1748277319,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35933,
+      "num": 35933,
+      "word": "易烊千玺提问狂野时代影迷",
+      "onboard_time": 1748279776,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 25,
