@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748242300355,
+  "endTime": 1748244874502,
   "band_list": [
     {
       "raw_hot": 2238121,
@@ -17,6 +17,14 @@
       "onboard_time": 1748224341,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2041670,
+      "num": 497201,
+      "word": "余承东 开车睡觉",
+      "onboard_time": 1748241502,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 1988917,
@@ -59,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1293643,
+      "num": 1293643,
+      "word": "孙颖莎总结多哈世乒赛",
+      "onboard_time": 1748244679,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1193417,
       "num": 1016223,
       "word": "公职人员出差周末自费旅游算违纪吗",
@@ -73,6 +89,14 @@
       "onboard_time": 1748222302,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1110639,
+      "num": 1110639,
+      "word": "小巷人家",
+      "onboard_time": 1748240721,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 997800,
@@ -171,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 640245,
-      "num": 328731,
-      "word": "小巷人家",
-      "onboard_time": 1748240721,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 630667,
       "num": 630667,
       "word": "美国女主播羊水破裂坚持播3小时节目",
@@ -217,6 +233,14 @@
       "onboard_time": 1748214739,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585568,
+      "num": 585568,
+      "word": "失踪女硕士生育两孩案进入审查起诉阶段",
+      "onboard_time": 1748239824,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582734,
@@ -273,14 +297,6 @@
       "onboard_time": 1748230162,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 497201,
-      "num": 497201,
-      "word": "余承东 开车睡觉",
-      "onboard_time": 1748241502,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 485272,
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383250,
+      "num": 383250,
+      "word": "黄玲宋莹又在白玉兰提名上相遇",
+      "onboard_time": 1748242401,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372830,
       "num": 410369,
       "word": "朝鲜军需工业部副部长被拘留",
@@ -499,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342799,
+      "num": 238382,
+      "word": "惠英红撕拉片",
+      "onboard_time": 1748243782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335110,
       "num": 335110,
       "word": "藏海海清你俩什么关系",
@@ -515,20 +547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331810,
-      "num": 331810,
-      "word": "失踪女硕士生育两孩案进入审查起诉阶段",
-      "onboard_time": 1748239824,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1748214678,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 320019,
+      "num": 236964,
+      "word": "上海保安月薪9000工作的一天",
+      "onboard_time": 1748240962,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 313403,
@@ -553,6 +585,14 @@
       "onboard_time": 1748240542,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310237,
+      "num": 245434,
+      "word": "贾玲全资持股大碗娱乐",
+      "onboard_time": 1748243661,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 309392,
@@ -651,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249977,
+      "num": 249977,
+      "word": "孙颖莎再一次把China印在了球场上",
+      "onboard_time": 1748236881,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249206,
       "num": 210732,
       "word": "王楚钦孙颖莎还未确定能获得复刻杯",
@@ -675,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238736,
-      "num": 238736,
-      "word": "孙颖莎再一次把China印在了球场上",
-      "onboard_time": 1748236881,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233910,
       "num": 233910,
       "word": "田园脆鸡堡",
@@ -691,12 +731,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 229238,
+      "num": 224981,
+      "word": "健身卡 生理期",
+      "onboard_time": 1748242520,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
       "onboard_time": 1748222360,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224791,
+      "num": 224791,
+      "word": "我的阿勒泰等10部剧入围白玉兰奖",
+      "onboard_time": 1748242161,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 223333,
@@ -737,6 +793,14 @@
       "onboard_time": 1748218221,
       "rank": 18,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 213966,
+      "num": 243162,
+      "word": "一县领证将询问登记彩礼状况",
+      "onboard_time": 1748243242,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207314,
@@ -819,6 +883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 190626,
+      "num": 190626,
+      "word": "1岁宝宝被蚊子咬了之后",
+      "onboard_time": 1748244080,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190493,
       "num": 253059,
       "word": "能不能让王宝强多上综艺",
@@ -883,14 +955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182995,
-      "num": 182995,
-      "word": "上海保安月薪9000工作的一天",
-      "onboard_time": 1748240962,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182275,
       "num": 182275,
       "word": "赵丽颖犹豫半天比了个苹果",
@@ -937,6 +1001,14 @@
       "onboard_time": 1748241921,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176782,
+      "num": 176782,
+      "word": "国漫四大硬帅纸片人",
+      "onboard_time": 1748243601,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 176335,
@@ -1203,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146746,
+      "num": 146746,
+      "word": "一直以为普拉提是很优雅的运动",
+      "onboard_time": 1748243181,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146445,
       "num": 145362,
       "word": "黄牛抢购麦当劳玩具乱丢食物",
@@ -1379,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126752,
+      "num": 126752,
+      "word": "教育部部署开展2025高考护航行动",
+      "onboard_time": 1748243181,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125337,
       "num": 125337,
       "word": "王曼昱蒯曼冠军",
@@ -1467,12 +1555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113807,
+      "num": 113807,
+      "word": "在人间",
+      "onboard_time": 1748244862,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113185,
       "num": 113185,
       "word": "阿汤哥水下戏几乎盲拍",
       "onboard_time": 1748237120,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112564,
+      "num": 112564,
+      "word": "王安宇金发请多焊一会",
+      "onboard_time": 1748244862,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112393,
@@ -1505,6 +1609,14 @@
       "onboard_time": 1748214678,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108969,
+      "num": 234265,
+      "word": "弹壳嘴欠老问女儿更爱谁",
+      "onboard_time": 1748243001,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 108487,
@@ -1635,14 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93636,
-      "num": 174493,
-      "word": "我的阿勒泰等10部剧入围白玉兰奖",
-      "onboard_time": 1748242161,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92053,
       "num": 114648,
       "word": "哈佛没有国际学生会变成什么样",
@@ -1763,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71779,
+      "num": 232314,
+      "word": "遇害女子家属称凶手事发前半年曾敲门",
+      "onboard_time": 1748244381,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70879,
       "num": 70879,
       "word": "萌娃举3米高叶子去学校回头率爆表",
@@ -1804,7 +1916,7 @@
     },
     {
       "raw_hot": 60569,
-      "num": 758120,
+      "num": 1170063,
       "word": "跨境电商企业狂招外国主播拓市场",
       "onboard_time": 1748232923,
       "rank": 2,
@@ -1819,12 +1931,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57280,
+      "num": 146206,
+      "word": "伊卡洛斯之羽",
+      "onboard_time": 1748238741,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56184,
       "num": 66689,
       "word": "皮筋侯天团团灭",
       "onboard_time": 1748192958,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55842,
+      "num": 132633,
+      "word": "孙佳俊从青奥冠军到奥运冠军",
+      "onboard_time": 1748242341,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 53992,
@@ -1931,12 +2059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40362,
+      "num": 146340,
+      "word": "102岁的爷爷还在宠溺50岁的孙子",
+      "onboard_time": 1748234604,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 40307,
       "num": 40307,
       "word": "美国玩具采购方曾抱怨太难了",
       "onboard_time": 1748208493,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39460,
+      "num": 195157,
+      "word": "男子性骚扰女下属被辞向公司索赔7万",
+      "onboard_time": 1748244561,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39310,
@@ -1987,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33032,
+      "num": 191479,
+      "word": "特朗普在网上攻击哈佛",
+      "onboard_time": 1748243360,
+      "rank": 29,
+      "category": "海外新闻,国际时政"
+    },
+    {
       "raw_hot": 32246,
       "num": 122008,
       "word": "王楚钦回应被外界质疑",
@@ -2033,6 +2185,14 @@
       "onboard_time": 1748198055,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23715,
+      "num": 241374,
+      "word": "618省钱新折学",
+      "onboard_time": 1748242881,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 23649,
@@ -2129,6 +2289,14 @@
       "onboard_time": 1748238021,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 2582,
+      "num": 229104,
+      "word": "为什么女性比男性更容易患上甲状腺疾病",
+      "onboard_time": 1748244080,
+      "rank": 19,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
