@@ -1,0 +1,402 @@
+{
+  "runTime": 1748281252603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 363601,
+        "num": 398454,
+        "word": "马克龙回应专机上被妻子推搡",
+        "onboard_time": 1748273601,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284040,
+        "num": 284040,
+        "word": "特朗普威胁苹果时iPhone响了",
+        "onboard_time": 1748272941,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252072,
+        "num": 252072,
+        "word": "贾斯汀比伯告白女网红",
+        "onboard_time": 1748262383,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241828,
+        "num": 241828,
+        "word": "王健林已被冻结4.9亿股权",
+        "onboard_time": 1748270843,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 200721,
+        "word": "知网一论文下载95万次0次引用遭质疑",
+        "onboard_time": 1748262921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180534,
+        "num": 180534,
+        "word": "现实中真正的漂亮",
+        "onboard_time": 1748259562,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 180438,
+        "num": 180438,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161653,
+        "num": 161653,
+        "word": "刘若英演唱会两姐妹点歌",
+        "onboard_time": 1748275280,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154520,
+        "num": 154520,
+        "word": "K总为看藏海传停播一天",
+        "onboard_time": 1748270004,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138393,
+        "num": 138393,
+        "word": "女子家门口遇害后母亲一夜白头",
+        "onboard_time": 1748272223,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125851,
+        "num": 125851,
+        "word": "5元自助快餐店因一条差评火了",
+        "onboard_time": 1748258661,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118207,
+        "num": 118207,
+        "word": "大乔小乔吵架",
+        "onboard_time": 1748269344,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "宋威龙好帅",
+        "onboard_time": 1748274501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104153,
+        "num": 104153,
+        "word": "三个月瘦了35斤的面部变化",
+        "onboard_time": 1748266042,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103481,
+        "num": 103481,
+        "word": "交警回应余承东疑似开车睡觉",
+        "onboard_time": 1748264962,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93382,
+        "num": 93382,
+        "word": "王楚钦夺冠高光时刻",
+        "onboard_time": 1748270063,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82666,
+        "num": 82666,
+        "word": "张一山生日赵丽颖送了两巴掌",
+        "onboard_time": 1748267124,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74882,
+        "num": 74882,
+        "word": "肖战回复周奇莫辜负",
+        "onboard_time": 1748275101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70477,
+        "num": 70477,
+        "word": "普京所乘飞机遭大规模袭击",
+        "onboard_time": 1748250083,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71111,
+        "num": 69820,
+        "word": "王楚钦发文说感谢我的搭档莎莎",
+        "onboard_time": 1748258063,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66484,
+        "num": 66484,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65951,
+        "num": 65951,
+        "word": "小沈阳把张百乔拉黑了",
+        "onboard_time": 1748253142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65469,
+        "num": 65469,
+        "word": "刘宇宁拍戏不看手机不拿剧本",
+        "onboard_time": 1748267603,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64559,
+        "num": 64559,
+        "word": "折腰吻戏",
+        "onboard_time": 1748267302,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59747,
+        "num": 59747,
+        "word": "六旬老人打赏女主播18万妻子发声",
+        "onboard_time": 1748277019,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53025,
+        "num": 53025,
+        "word": "杭州第三只外逃金钱豹四年后仍成谜",
+        "onboard_time": 1748272342,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46867,
+        "num": 46867,
+        "word": "遇害海归女母亲曾提醒其注意江歌案",
+        "onboard_time": 1748259623,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46828,
+        "num": 46828,
+        "word": "2025白玉兰最佳女主角将花落谁家",
+        "onboard_time": 1748252183,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43839,
+        "num": 43839,
+        "word": "女子分享孕中孕晚分娩后容貌变化",
+        "onboard_time": 1748265502,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 42945,
+        "num": 42945,
+        "word": "房琪回归后视频风格大变",
+        "onboard_time": 1748256441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42552,
+        "num": 42552,
+        "word": "藏海传 楚门的世界",
+        "onboard_time": 1748265622,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41997,
+        "num": 41997,
+        "word": "永容王爷 吓人",
+        "onboard_time": 1748262442,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41891,
+        "num": 41891,
+        "word": "做藏海的狗",
+        "onboard_time": 1748276300,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 41570,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39787,
+        "num": 39787,
+        "word": "大家买的房子都跌了多少",
+        "onboard_time": 1748255301,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37447,
+        "num": 37447,
+        "word": "not in",
+        "onboard_time": 1748261483,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37347,
+        "num": 37347,
+        "word": "缅北明家犯罪集团案已进入审判环节",
+        "onboard_time": 1748277319,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36355,
+        "num": 36355,
+        "word": "还是皮筋猴好骗",
+        "onboard_time": 1748278818,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36163,
+        "num": 36163,
+        "word": "王宝强晒粉丝手写信",
+        "onboard_time": 1748275820,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35295,
+        "num": 35295,
+        "word": "网友日本偶遇王菲谢霆锋",
+        "onboard_time": 1748264182,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33265,
+        "num": 33265,
+        "word": "包文婧为二胎放弃女一号",
+        "onboard_time": 1748259262,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33066,
+        "num": 33066,
+        "word": "美团王兴回应京东外卖百亿补贴",
+        "onboard_time": 1748269944,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32304,
+        "num": 32304,
+        "word": "孟子义我媚眼抛给瞎子看",
+        "onboard_time": 1748267663,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31938,
+        "num": 31938,
+        "word": "9.9元便宜好物可能要命",
+        "onboard_time": 1748273122,
+        "rank": 44,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 31297,
+        "num": 31937,
+        "word": "林峯演唱会嘉宾钟嘉欣",
+        "onboard_time": 1748271263,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30787,
+        "num": 31937,
+        "word": "王俊凯舒淇新剧 7月开机",
+        "onboard_time": 1748273302,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28759,
+        "num": 31937,
+        "word": "藏海杨真附体了",
+        "onboard_time": 1748275041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26735,
+        "num": 31937,
+        "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+        "onboard_time": 1748280855,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22519,
+        "num": 31936,
+        "word": "幸福的真谛是别把日子过反了",
+        "onboard_time": 1748277798,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

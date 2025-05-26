@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748280120722,
+  "endTime": 1748281252603,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -371,6 +371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64559,
+      "num": 64559,
+      "word": "折腰吻戏",
+      "onboard_time": 1748267302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63591,
       "num": 63591,
       "word": "孙颖莎总结多哈世乒赛",
@@ -379,28 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58528,
-      "num": 58528,
-      "word": "挣钱最不容易的就是摄影师了",
-      "onboard_time": 1748273242,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 57911,
-      "num": 57911,
+      "raw_hot": 59747,
+      "num": 59747,
       "word": "六旬老人打赏女主播18万妻子发声",
       "onboard_time": 1748277019,
       "rank": 49,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55898,
-      "num": 55898,
-      "word": "折腰吻戏",
-      "onboard_time": 1748267302,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 58528,
+      "num": 58528,
+      "word": "挣钱最不容易的就是摄影师了",
+      "onboard_time": 1748273242,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 55194,
@@ -435,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37243,
-      "num": 37243,
+      "raw_hot": 37347,
+      "num": 37347,
       "word": "缅北明家犯罪集团案已进入审判环节",
       "onboard_time": 1748277319,
       "rank": 45,
@@ -449,6 +449,22 @@
       "onboard_time": 1748279776,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26735,
+      "num": 31937,
+      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+      "onboard_time": 1748280855,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22519,
+      "num": 31936,
+      "word": "幸福的真谛是别把日子过反了",
+      "onboard_time": 1748277798,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 25,
