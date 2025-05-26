@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748269558269,
+  "endTime": 1748270657207,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965119,
+      "num": 594670,
+      "word": "交警回应余承东疑似开车睡觉",
+      "onboard_time": 1748264962,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 965015,
       "num": 752384,
       "word": "王楚钦说心头多年的结解开了",
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 918669,
-      "num": 594670,
-      "word": "交警回应余承东疑似开车睡觉",
-      "onboard_time": 1748264962,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 915740,
       "num": 915740,
       "word": "永容王爷 吓人",
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 881200,
-      "num": 587889,
+      "num": 618801,
       "word": "三个月瘦了35斤的面部变化",
       "onboard_time": 1748266042,
       "rank": 40,
@@ -643,6 +643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 754432,
+      "num": 793564,
+      "word": "现实中真正的漂亮",
+      "onboard_time": 1748259562,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 754129,
       "num": 629916,
       "word": "谍报上不封顶官宣肖战周雨彤",
@@ -683,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 743745,
-      "num": 793564,
-      "word": "现实中真正的漂亮",
-      "onboard_time": 1748259562,
-      "rank": 38,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 725519,
       "num": 736224,
       "word": "赵丽颖犹豫半天比了个苹果",
@@ -729,6 +729,14 @@
       "onboard_time": 1748184565,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 692532,
+      "num": 692532,
+      "word": "张一山生日赵丽颖送了两巴掌",
+      "onboard_time": 1748267124,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 689850,
@@ -873,14 +881,6 @@
       "onboard_time": 1748229501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608728,
-      "num": 608728,
-      "word": "张一山生日赵丽颖送了两巴掌",
-      "onboard_time": 1748267124,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 600854,
@@ -1291,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440818,
+      "num": 471856,
+      "word": "王楚钦发文说感谢我的搭档莎莎",
+      "onboard_time": 1748258063,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438451,
       "num": 438451,
       "word": "not in",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1748223562,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 416307,
-      "num": 471856,
-      "word": "王楚钦发文说感谢我的搭档莎莎",
-      "onboard_time": 1748258063,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 415909,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1748185703,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367075,
+      "num": 367075,
+      "word": "肖战秒被打脸",
+      "onboard_time": 1748266884,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 366976,
@@ -1763,6 +1771,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 321736,
+      "num": 321736,
+      "word": "刘琰对苏娥皇是真爱",
+      "onboard_time": 1748269044,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -1883,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302652,
+      "num": 302652,
+      "word": "房琪回归后视频风格大变",
+      "onboard_time": 1748256441,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302567,
       "num": 302567,
       "word": "金靖说在刘宇宁身上看到了自己",
@@ -1987,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293004,
-      "num": 293004,
-      "word": "肖战秒被打脸",
-      "onboard_time": 1748266884,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289153,
       "num": 338461,
       "word": "idle匿名纸条",
@@ -2043,12 +2059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282488,
-      "num": 282488,
-      "word": "房琪回归后视频风格大变",
-      "onboard_time": 1748256441,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 283483,
+      "num": 283483,
+      "word": "大乔小乔吵架",
+      "onboard_time": 1748269344,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 282026,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1748247561,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274531,
+      "num": 274531,
+      "word": "K总为看藏海传停播一天",
+      "onboard_time": 1748270004,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 274100,
@@ -2651,6 +2675,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 213763,
+      "num": 213763,
+      "word": "张继科将招50个特长生亲自授课",
+      "onboard_time": 1748269404,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213420,
       "num": 213420,
       "word": "敖瑞鹏联系最多的圈内好友是白鹿",
@@ -2795,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203768,
+      "num": 203768,
+      "word": "特斯拉下服务区追尾大货车",
+      "onboard_time": 1748268083,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203630,
       "num": 4918374,
       "word": "美国90%圣诞用品来自中国制造",
@@ -2827,22 +2867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202169,
-      "num": 202169,
-      "word": "特斯拉下服务区追尾大货车",
-      "onboard_time": 1748268083,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202127,
-      "num": 202127,
-      "word": "刘琰对苏娥皇是真爱",
-      "onboard_time": 1748269044,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200086,
       "num": 189645,
       "word": "法网",
@@ -2872,6 +2896,14 @@
       "word": "藏海传",
       "onboard_time": 1748170761,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199586,
+      "num": 199586,
+      "word": "天涯四美集齐两美",
+      "onboard_time": 1748270063,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2945,6 +2977,14 @@
       "onboard_time": 1748227942,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197697,
+      "num": 197697,
+      "word": "郭正亮追藏海传到16集",
+      "onboard_time": 1748270603,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 197113,
@@ -3515,14 +3555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177154,
-      "num": 177154,
-      "word": "大乔小乔吵架",
-      "onboard_time": 1748269344,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177150,
       "num": 313350,
       "word": "180万投资超市开业7天被举报",
@@ -3609,6 +3641,14 @@
       "onboard_time": 1748255542,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175384,
+      "num": 175384,
+      "word": "王楚钦夺冠高光时刻",
+      "onboard_time": 1748270063,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 175025,
@@ -3729,6 +3769,14 @@
       "onboard_time": 1748240840,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "藏海传甜一次就开虐",
+      "onboard_time": 1748270364,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 172517,
@@ -3857,6 +3905,14 @@
       "onboard_time": 1748139800,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168618,
+      "num": 168618,
+      "word": "美团王兴回应京东外卖百亿补贴",
+      "onboard_time": 1748269944,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 168531,
@@ -4211,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158247,
+      "num": 158247,
+      "word": "ARM认证小米自研玄戒O1芯片",
+      "onboard_time": 1748267063,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 158127,
       "num": 230333,
       "word": "女子闯红灯致事故辩称看不懂",
@@ -4441,6 +4505,14 @@
       "onboard_time": 1748150241,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152978,
+      "num": 152978,
+      "word": "王者露娜命运加冕皮肤爆料",
+      "onboard_time": 1748270303,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 152297,
@@ -4739,6 +4811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141918,
+      "num": 374157,
+      "word": "网红捏捏越玩越危险",
+      "onboard_time": 1748268742,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141612,
       "num": 141612,
       "word": "古茗两块五柠檬水",
@@ -4900,7 +4980,7 @@
     },
     {
       "raw_hot": 135332,
-      "num": 397993,
+      "num": 411203,
       "word": "捷途方盒子不眠夜",
       "onboard_time": 1748269103,
       "rank": 14,
@@ -6251,6 +6331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85785,
+      "num": 405867,
+      "word": "官方回应第三只金钱豹至今未找到",
+      "onboard_time": 1748269824,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85528,
       "num": 204731,
       "word": "这才是对于年轻人最正的人生观",
@@ -6273,6 +6361,14 @@
       "onboard_time": 1748162660,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84556,
+      "num": 438608,
+      "word": "不顾安全的畸形打卡热该消停了",
+      "onboard_time": 1748269824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84105,
@@ -6523,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74353,
+      "num": 219468,
+      "word": "玩滑翔伞被吸至8598米高空当事人发声",
+      "onboard_time": 1748270123,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73791,
       "num": 73791,
       "word": "85后干部受处分两年后拟获提拔",
@@ -6683,6 +6787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62629,
+      "num": 908543,
+      "word": "中国成为全球购物旅游新热土",
+      "onboard_time": 1748266763,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62390,
       "num": 62390,
       "word": "王曼昱相信自己状态没有问题",
@@ -6713,14 +6825,6 @@
       "onboard_time": 1748153781,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 61646,
-      "num": 908543,
-      "word": "中国成为全球购物旅游新热土",
-      "onboard_time": 1748266763,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61031,
@@ -6929,6 +7033,14 @@
       "onboard_time": 1748180010,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46842,
+      "num": 450633,
+      "word": "范丞丞能量拉满鲨出重围",
+      "onboard_time": 1748268503,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 46835,
@@ -7187,14 +7299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37867,
-      "num": 374157,
-      "word": "网红捏捏越玩越危险",
-      "onboard_time": 1748268742,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37664,
       "num": 113251,
       "word": "哈佛禁招令会影响比利时公主求学吗",
@@ -7241,14 +7345,6 @@
       "onboard_time": 1748157862,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34754,
-      "num": 450633,
-      "word": "范丞丞能量拉满鲨出重围",
-      "onboard_time": 1748268503,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 34458,
@@ -7473,6 +7569,14 @@
       "onboard_time": 1748239880,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26654,
+      "num": 176900,
+      "word": "双子座新月许愿",
+      "onboard_time": 1748269762,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 26567,
@@ -7819,6 +7923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14774,
+      "num": 348385,
+      "word": "如何在公司让自己看上去很忙",
+      "onboard_time": 1748270184,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14677,
       "num": 153931,
       "word": "运动是治愈情绪的特效药",
@@ -7889,6 +8001,14 @@
       "onboard_time": 1748125217,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12021,
+      "num": 245049,
+      "word": "女生跑步必看的10句话",
+      "onboard_time": 1748269283,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 11835,
@@ -8017,14 +8137,6 @@
       "onboard_time": 1748258842,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 7161,
-      "num": 245049,
-      "word": "女生跑步必看的10句话",
-      "onboard_time": 1748269283,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 7024,
