@@ -1,7 +1,15 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748266463434,
+  "endTime": 1748267216304,
   "band_list": [
+    {
+      "raw_hot": 2368379,
+      "num": 858206,
+      "word": "跳楼机",
+      "onboard_time": 1748265622,
+      "rank": 11,
+      "category": "音乐"
+    },
     {
       "raw_hot": 2347441,
       "num": 2347441,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569785,
+      "num": 793564,
+      "word": "现实中真正的漂亮",
+      "onboard_time": 1748259562,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 569277,
       "num": 569277,
       "word": "新说唱2025导师官宣",
@@ -425,6 +441,14 @@
       "onboard_time": 1748223620,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 543006,
+      "num": 452438,
+      "word": "66岁大爷挖鼻孔致满脸肿胀变形",
+      "onboard_time": 1748261721,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 541615,
@@ -483,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495560,
-      "num": 454915,
-      "word": "跳楼机",
-      "onboard_time": 1748265622,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 487784,
       "num": 415158,
       "word": "邱贻可晒孙颖莎蒯曼金牌合照",
@@ -513,6 +529,14 @@
       "onboard_time": 1748189841,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 480440,
+      "num": 430335,
+      "word": "网友日本偶遇王菲谢霆锋",
+      "onboard_time": 1748264182,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 461349,
@@ -545,14 +569,6 @@
       "onboard_time": 1748250681,
       "rank": 36,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 452438,
-      "num": 452438,
-      "word": "66岁大爷挖鼻孔致满脸肿胀变形",
-      "onboard_time": 1748261721,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 449802,
@@ -627,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 430335,
-      "num": 430335,
-      "word": "网友日本偶遇王菲谢霆锋",
-      "onboard_time": 1748264182,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430119,
       "num": 430119,
       "word": "孙颖莎冠军",
@@ -699,14 +707,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407450,
-      "num": 407450,
-      "word": "现实中真正的漂亮",
-      "onboard_time": 1748259562,
-      "rank": 38,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 402855,
       "num": 302712,
       "word": "班味好重的镜子",
@@ -721,6 +721,14 @@
       "onboard_time": 1748218340,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394019,
+      "num": 321901,
+      "word": "女子分享孕中孕晚分娩后容貌变化",
+      "onboard_time": 1748265502,
+      "rank": 21,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 393790,
@@ -875,12 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321901,
-      "num": 321901,
-      "word": "女子分享孕中孕晚分娩后容貌变化",
-      "onboard_time": 1748265502,
-      "rank": 21,
-      "category": "母婴育儿"
+      "raw_hot": 327154,
+      "num": 471856,
+      "word": "王楚钦发文说感谢我的搭档莎莎",
+      "onboard_time": 1748258063,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 321306,
@@ -955,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299607,
+      "num": 299607,
+      "word": "交警回应余承东疑似开车睡觉",
+      "onboard_time": 1748264962,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297321,
       "num": 361881,
       "word": "中石油下属子公司组织团购房烂尾",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1748239760,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284306,
-      "num": 284306,
-      "word": "交警回应余承东疑似开车睡觉",
-      "onboard_time": 1748264962,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280749,
@@ -1195,6 +1203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232989,
+      "num": 188695,
+      "word": "三个月瘦了35斤的面部变化",
+      "onboard_time": 1748266042,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227957,
       "num": 227957,
       "word": "上海地铁回应踹人女子未满18岁",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1748250621,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227212,
+      "num": 188191,
+      "word": "张一山生日赵丽颖送了两巴掌",
+      "onboard_time": 1748267124,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 227114,
@@ -1299,14 +1323,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 212811,
-      "num": 471856,
-      "word": "王楚钦发文说感谢我的搭档莎莎",
-      "onboard_time": 1748258063,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207314,
       "num": 207314,
       "word": "新说唱",
@@ -1355,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199560,
+      "num": 199560,
+      "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
+      "onboard_time": 1748264602,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199506,
       "num": 199506,
       "word": "188的卡琳娜cos188的铠",
@@ -1379,8 +1403,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196754,
-      "num": 196754,
+      "raw_hot": 196902,
+      "num": 196902,
       "word": "奴奴荼荼",
       "onboard_time": 1748263282,
       "rank": 37,
@@ -1515,12 +1539,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188175,
+      "num": 188175,
+      "word": "肖战秒被打脸",
+      "onboard_time": 1748266884,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187472,
       "num": 261115,
       "word": "尼克斯1比2步行者",
       "onboard_time": 1748228781,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187455,
+      "num": 187455,
+      "word": "折腰预告",
+      "onboard_time": 1748265262,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187445,
+      "num": 187445,
+      "word": "藏海传 楚门的世界",
+      "onboard_time": 1748265622,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185923,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1748249062,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 185402,
-      "num": 178340,
-      "word": "折腰预告",
-      "onboard_time": 1748265262,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 184342,
@@ -1651,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178113,
+      "num": 353400,
+      "word": "手串辐射让养生变成养癌",
+      "onboard_time": 1748264722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "马克龙访越遭夫人当众打脸",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1748254041,
       "rank": 36,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 175935,
+      "num": 175935,
+      "word": "上海地铁上踹人女子未成年已罚款",
+      "onboard_time": 1748260282,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175577,
@@ -1787,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171061,
+      "num": 171061,
+      "word": "郑晓龙 山甄海味",
+      "onboard_time": 1748266583,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169931,
       "num": 194586,
       "word": "姜贞羽新剧被谁做局了",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1748230101,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168109,
-      "num": 168109,
-      "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
-      "onboard_time": 1748264602,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 167594,
@@ -1877,26 +1933,18 @@
     {
       "raw_hot": 165591,
       "num": 165591,
-      "word": "上海地铁上踹人女子未成年已罚款",
-      "onboard_time": 1748260282,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165591,
-      "num": 165591,
       "word": "尹昉分享与赵丽颖拍戏趣事",
       "onboard_time": 1748263882,
       "rank": 31,
       "category": "剧集"
     },
     {
-      "raw_hot": 165473,
-      "num": 165473,
-      "word": "三个月瘦了35斤的面部变化",
-      "onboard_time": 1748266042,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 165402,
+      "num": 165402,
+      "word": "日本黑帮头目因遛狗不牵绳被捕",
+      "onboard_time": 1748261602,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165316,
@@ -2059,14 +2107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157484,
-      "num": 157484,
-      "word": "藏海传 楚门的世界",
-      "onboard_time": 1748265622,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157232,
       "num": 157232,
       "word": "吴谨言产后首个公开活动",
@@ -2099,20 +2139,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 155540,
-      "num": 155540,
-      "word": "日本黑帮头目因遛狗不牵绳被捕",
-      "onboard_time": 1748261602,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155452,
       "num": 155452,
       "word": "王源三巡重庆官宣",
       "onboard_time": 1748228661,
       "rank": 43,
       "category": "演出,音乐"
+    },
+    {
+      "raw_hot": 155253,
+      "num": 155253,
+      "word": "LPL涅槃组全军覆没",
+      "onboard_time": 1748266403,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 155077,
@@ -2315,14 +2355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141283,
-      "num": 141283,
-      "word": "LPL涅槃组全军覆没",
-      "onboard_time": 1748266403,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140359,
       "num": 144064,
       "word": "电影碟中谍8",
@@ -2483,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128932,
+      "num": 928796,
+      "word": "端午将至各地特色粽子上新中",
+      "onboard_time": 1748251343,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "WE晋级淘汰赛",
@@ -2575,14 +2615,6 @@
       "num": 246312,
       "word": "遇害女子家属称凶手事发前半年曾敲门",
       "onboard_time": 1748244381,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123769,
-      "num": 353400,
-      "word": "手串辐射让养生变成养癌",
-      "onboard_time": 1748264722,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -3003,14 +3035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83209,
-      "num": 928796,
-      "word": "端午将至各地特色粽子上新中",
-      "onboard_time": 1748251343,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81403,
       "num": 114530,
       "word": "TT万妮达不扫兴的朋友",
@@ -3052,7 +3076,7 @@
     },
     {
       "raw_hot": 78928,
-      "num": 172271,
+      "num": 180268,
       "word": "张凌赫未公开童年照",
       "onboard_time": 1748262383,
       "rank": 41,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1748214017,
       "rank": 42,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 62889,
+      "num": 324978,
+      "word": "减肥药号称10天瘦10斤送检发现有毒",
+      "onboard_time": 1748266763,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62289,
@@ -3563,6 +3595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 26081,
+      "num": 319280,
+      "word": "男子无罪后诉请删除案底遇阻",
+      "onboard_time": 1748266464,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25966,
       "num": 383378,
       "word": "哪些睡姿会导致腰背痛影响脊柱健康",
@@ -3635,6 +3675,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 23308,
+      "num": 353169,
+      "word": "带状疱疹有哪些常见的误区",
+      "onboard_time": 1748265082,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23302,
       "num": 244526,
       "word": "王健林再卖48 座万达能起死回生吗",
@@ -3679,14 +3727,6 @@
       "num": 252988,
       "word": "吞咽动作自测甲状腺健康是否科学",
       "onboard_time": 1748256682,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 19652,
-      "num": 353169,
-      "word": "带状疱疹有哪些常见的误区",
-      "onboard_time": 1748265082,
       "rank": 19,
       "category": "健康医疗"
     },
@@ -3755,12 +3795,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15306,
+      "num": 908543,
+      "word": "中国成为全球购物旅游新热土",
+      "onboard_time": 1748266763,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12718,
       "num": 50826,
       "word": "起底日本米荒危机",
       "onboard_time": 1748200754,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11835,
+      "num": 189922,
+      "word": "缓解焦虑压力的10个方法",
+      "onboard_time": 1748266283,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 11591,
@@ -3787,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9848,
+      "num": 189631,
+      "word": "兰州马拉松究竟有多能整活",
+      "onboard_time": 1748266344,
+      "rank": 34,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 9220,
       "num": 193691,
       "word": "蹬三轮20年捐35万助学款",
@@ -3803,28 +3867,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 8690,
-      "num": 189922,
-      "word": "缓解焦虑压力的10个方法",
-      "onboard_time": 1748266283,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 8426,
       "num": 241658,
       "word": "印度卖防空武器系统给亚美尼亚",
       "onboard_time": 1748258362,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8119,
-      "num": 178547,
-      "word": "兰州马拉松究竟有多能整活",
-      "onboard_time": 1748266344,
-      "rank": 34,
-      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 7809,
@@ -3848,6 +3896,14 @@
       "word": "三国曹魏简牍是如何制作的",
       "onboard_time": 1748238021,
       "rank": 26,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 6540,
+      "num": 171540,
+      "word": "不同人群每日应摄入多少克膳食纤维",
+      "onboard_time": 1748267185,
+      "rank": 42,
       "category": "科学科普"
     },
     {
