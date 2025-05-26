@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748216300985,
+  "endTime": 1748224938042,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -65,6 +65,14 @@
       "onboard_time": 1748182405,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1988917,
+      "num": 1988917,
+      "word": "王健林再卖48座万达广场",
+      "onboard_time": 1748221999,
+      "rank": 0,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 1837346,
@@ -259,12 +267,28 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1023264,
+      "num": 1023264,
+      "word": "空腹断食42小时的变化",
+      "onboard_time": 1748222302,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1016295,
       "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 997800,
+      "num": 406666,
+      "word": "Angelababy带着早期混血感回来了",
+      "onboard_time": 1748221400,
+      "rank": 10,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 965015,
@@ -345,6 +369,14 @@
       "onboard_time": 1748165780,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842515,
+      "num": 405849,
+      "word": "王楚钦机场买酒",
+      "onboard_time": 1748223801,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 827408,
@@ -443,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 744938,
+      "num": 401972,
+      "word": "王楚钦夺冠后肖指导哭成了小孩",
+      "onboard_time": 1748223141,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 725519,
       "num": 736224,
       "word": "赵丽颖犹豫半天比了个苹果",
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630667,
+      "num": 630667,
+      "word": "美国女主播羊水破裂坚持播3小时节目",
+      "onboard_time": 1748217260,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 629674,
       "num": 629674,
       "word": "郝蕾为哈妮克孜发声",
@@ -539,11 +587,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 610924,
+      "num": 610924,
+      "word": "朋友圈 想发就发",
+      "onboard_time": 1748191160,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 609915,
       "num": 609915,
       "word": "半个歌手圈疑似被毕业歌会做局了",
       "onboard_time": 1748145500,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 600854,
+      "num": 360525,
+      "word": "李沐宸对公开恋情的态度",
+      "onboard_time": 1748214739,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -596,7 +660,7 @@
     },
     {
       "raw_hot": 582734,
-      "num": 239321,
+      "num": 379462,
       "word": "赵丽颖杨幂Angelababy活动生图",
       "onboard_time": 1748193917,
       "rank": 10,
@@ -787,14 +851,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 439372,
-      "num": 439372,
-      "word": "朋友圈 想发就发",
-      "onboard_time": 1748191160,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 433879,
       "num": 730225,
       "word": "范丞丞镜头下的章若楠",
@@ -819,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419736,
+      "num": 419736,
+      "word": "南通地震",
+      "onboard_time": 1748219722,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415909,
       "num": 275210,
       "word": "脂肪下降的顺序",
@@ -841,6 +905,14 @@
       "onboard_time": 1748156242,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 398074,
+      "num": 398074,
+      "word": "一觉醒来还在为世乒赛4冠骄傲",
+      "onboard_time": 1748218340,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 395270,
@@ -899,11 +971,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372830,
+      "num": 410369,
+      "word": "朝鲜军需工业部副部长被拘留",
+      "onboard_time": 1748223260,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 371084,
       "num": 371084,
       "word": "王楚钦仰天大笑",
       "onboard_time": 1748181085,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 370526,
+      "num": 370526,
+      "word": "肖战指导发图",
+      "onboard_time": 1748218041,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -961,6 +1049,14 @@
       "onboard_time": 1748139320,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359221,
+      "num": 359221,
+      "word": "手串 辐射",
+      "onboard_time": 1748224341,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358130,
@@ -1035,8 +1131,16 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 323498,
+      "num": 411715,
+      "word": "夫妻俩在加沙救人9个孩子却被炸死",
+      "onboard_time": 1748223620,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321306,
-      "num": 150837,
+      "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1748214678,
       "rank": 20,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1748141421,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 291746,
+      "num": 157297,
+      "word": "蛋 宁碎不翻",
+      "onboard_time": 1748223562,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 289153,
@@ -1467,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 227114,
+      "num": 367786,
+      "word": "张凌赫石家庄",
+      "onboard_time": 1748222360,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226963,
       "num": 226963,
       "word": "世乒赛直播",
@@ -1545,6 +1665,14 @@
       "onboard_time": 1748165721,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214013,
+      "num": 366146,
+      "word": "YG新女团",
+      "onboard_time": 1748218221,
+      "rank": 18,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 213420,
@@ -1812,7 +1940,7 @@
     },
     {
       "raw_hot": 193325,
-      "num": 149165,
+      "num": 159207,
       "word": "朱媛媛去世为何全民哀悼",
       "onboard_time": 1748214739,
       "rank": 22,
@@ -1931,11 +2059,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185104,
+      "num": 185104,
+      "word": "巴赫说孙颖莎是一位伟大的冠军",
+      "onboard_time": 1748223920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184631,
       "num": 291236,
       "word": "哈佛医学院太平间前主管承认盗卖遗骸",
       "onboard_time": 1748177842,
       "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184342,
+      "num": 184342,
+      "word": "特朗普再威胁哈佛",
+      "onboard_time": 1748216181,
+      "rank": 36,
       "category": "海外新闻"
     },
     {
@@ -2129,6 +2273,22 @@
       "onboard_time": 1748186843,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1748217441,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173215,
+      "num": 362501,
+      "word": "肖战说演得挺过瘾",
+      "onboard_time": 1748224460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 172093,
@@ -2427,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156532,
+      "num": 156532,
+      "word": "孙颖莎要巴赫联系方式",
+      "onboard_time": 1748221222,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156349,
       "num": 156349,
       "word": "第一次见老板给艺人宣传这么到位的",
@@ -2569,6 +2737,14 @@
       "onboard_time": 1748091263,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "甘肃发现目前纪年最早的三国曹魏简牍",
+      "onboard_time": 1748217382,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145122,
@@ -2745,6 +2921,14 @@
       "onboard_time": 1748156961,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136953,
+      "num": 136953,
+      "word": "王励勤说国乒男线还有待提升",
+      "onboard_time": 1748221281,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 136435,
@@ -3003,19 +3187,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "为什么很多人都缺乏边界感",
+      "onboard_time": 1748224880,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126332,
       "num": 126332,
       "word": "李嘉格母亲人生至暗时刻",
       "onboard_time": 1748155162,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 125342,
-      "num": 157152,
-      "word": "李沐宸对公开恋情的态度",
-      "onboard_time": 1748214739,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -3187,6 +3371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115507,
+      "num": 115507,
+      "word": "多地气温组团冲上30摄氏度",
+      "onboard_time": 1748219842,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115411,
       "num": 253325,
       "word": "特朗普为何针对哈佛",
@@ -3201,6 +3393,14 @@
       "onboard_time": 1748165539,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114416,
+      "num": 157517,
+      "word": "霍建华新剧好松弛",
+      "onboard_time": 1748220682,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 113737,
@@ -3331,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108487,
+      "num": 108487,
+      "word": "王曼昱说女双决赛比女单更关键",
+      "onboard_time": 1748220081,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108210,
       "num": 177554,
       "word": "绝意腹肌",
@@ -3387,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106856,
+      "num": 106856,
+      "word": "肖指导发与孙颖莎王楚钦拥抱照片",
+      "onboard_time": 1748217382,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106482,
       "num": 106482,
       "word": "朴灿烈泡泡",
@@ -3411,12 +3627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104570,
+      "num": 120474,
+      "word": "杭州西湖偶遇五月天阿信",
+      "onboard_time": 1748224702,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104438,
       "num": 104438,
       "word": "孙颖莎哭了我也哭了",
       "onboard_time": 1748194456,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104133,
+      "num": 127106,
+      "word": "宋威龙太帅了",
+      "onboard_time": 1748223320,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 104036,
@@ -3457,6 +3689,14 @@
       "onboard_time": 1748154922,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101875,
+      "num": 101875,
+      "word": "骗杀父仇人进火场救自己",
+      "onboard_time": 1748191939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 101836,
@@ -3523,11 +3763,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99683,
+      "num": 99683,
+      "word": "狗狗意识到出大问题了",
+      "onboard_time": 1748220322,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "吃饭是一件很私密的事情",
       "onboard_time": 1748155522,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 96830,
+      "num": 96830,
+      "word": "给还没到27岁的人的浪漫建议",
+      "onboard_time": 1748224280,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -3579,6 +3835,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94655,
+      "num": 94655,
+      "word": "南方27日将迎新一轮降雨",
+      "onboard_time": 1748218822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94425,
       "num": 94425,
       "word": "会谈恋爱是一种天分",
@@ -3619,20 +3883,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91925,
+      "num": 91925,
+      "word": "狗狗打完狂犬疫苗真成狂犬了",
+      "onboard_time": 1748222962,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91689,
       "num": 91689,
       "word": "王者三阵营玩法爆料",
       "onboard_time": 1748162360,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 91640,
-      "num": 101679,
-      "word": "骗杀父仇人进火场救自己",
-      "onboard_time": 1748191939,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 91287,
@@ -4057,14 +4321,6 @@
       "onboard_time": 1748187442,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58960,
-      "num": 72053,
-      "word": "特朗普再威胁哈佛",
-      "onboard_time": 1748216181,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58508,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1748224938042,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988917,
+        "num": 1988917,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 1023264,
+        "num": 1023264,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1748222302,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69875,
+        "num": 772679,
+        "word": "美国90%圣诞用品来自中国制造",
+        "onboard_time": 1748180370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 630667,
+        "num": 630667,
+        "word": "美国女主播羊水破裂坚持播3小时节目",
+        "onboard_time": 1748217260,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 610924,
+        "num": 610924,
+        "word": "朋友圈 想发就发",
+        "onboard_time": 1748191160,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419736,
+        "num": 419736,
+        "word": "南通地震",
+        "onboard_time": 1748219722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317870,
+        "num": 419614,
+        "word": "李乃文喊话辛柏青有我们",
+        "onboard_time": 1748193077,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305820,
+        "num": 414427,
+        "word": "藏海传你睡了吗我睡不着",
+        "onboard_time": 1748187023,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323498,
+        "num": 411715,
+        "word": "夫妻俩在加沙救人9个孩子却被炸死",
+        "onboard_time": 1748223620,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372830,
+        "num": 410369,
+        "word": "朝鲜军需工业部副部长被拘留",
+        "onboard_time": 1748223260,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 997800,
+        "num": 406666,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 10,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 842515,
+        "num": 405849,
+        "word": "王楚钦机场买酒",
+        "onboard_time": 1748223801,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744938,
+        "num": 401972,
+        "word": "王楚钦夺冠后肖指导哭成了小孩",
+        "onboard_time": 1748223141,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433054,
+        "num": 398539,
+        "word": "公职人员出差周末自费旅游算违纪吗",
+        "onboard_time": 1748187864,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398074,
+        "num": 398074,
+        "word": "一觉醒来还在为世乒赛4冠骄傲",
+        "onboard_time": 1748218340,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379462,
+        "num": 379462,
+        "word": "赵丽颖杨幂Angelababy活动生图",
+        "onboard_time": 1748193917,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370526,
+        "num": 370526,
+        "word": "肖战指导发图",
+        "onboard_time": 1748218041,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227114,
+        "num": 367786,
+        "word": "张凌赫石家庄",
+        "onboard_time": 1748222360,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214013,
+        "num": 366146,
+        "word": "YG新女团",
+        "onboard_time": 1748218221,
+        "rank": 18,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 173215,
+        "num": 362501,
+        "word": "肖战说演得挺过瘾",
+        "onboard_time": 1748224460,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600854,
+        "num": 360525,
+        "word": "李沐宸对公开恋情的态度",
+        "onboard_time": 1748214739,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359221,
+        "num": 359221,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292983,
+        "num": 292983,
+        "word": "生理性喜欢和心理性喜欢的区别",
+        "onboard_time": 1748214678,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 260984,
+        "num": 260984,
+        "word": "37岁女子福建爬山拍照时坠崖身亡",
+        "onboard_time": 1748184744,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185104,
+        "num": 185104,
+        "word": "巴赫说孙颖莎是一位伟大的冠军",
+        "onboard_time": 1748223920,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184342,
+        "num": 184342,
+        "word": "特朗普再威胁哈佛",
+        "onboard_time": 1748216181,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181044,
+        "num": 181044,
+        "word": "王楚钦冠军",
+        "onboard_time": 1748179650,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173683,
+        "num": 173683,
+        "word": "朝九晚五其实是朝七晚六",
+        "onboard_time": 1748217441,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159207,
+        "num": 159207,
+        "word": "朱媛媛去世为何全民哀悼",
+        "onboard_time": 1748214739,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 157517,
+        "word": "霍建华新剧好松弛",
+        "onboard_time": 1748220682,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291746,
+        "num": 157297,
+        "word": "蛋 宁碎不翻",
+        "onboard_time": 1748223562,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 156532,
+        "word": "孙颖莎要巴赫联系方式",
+        "onboard_time": 1748221222,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "甘肃发现目前纪年最早的三国曹魏简牍",
+        "onboard_time": 1748217382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136953,
+        "num": 136953,
+        "word": "王励勤说国乒男线还有待提升",
+        "onboard_time": 1748221281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129935,
+        "num": 129935,
+        "word": "王楚钦成首位00后男单世界冠军",
+        "onboard_time": 1748182825,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104133,
+        "num": 127106,
+        "word": "宋威龙太帅了",
+        "onboard_time": 1748223320,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126761,
+        "num": 126761,
+        "word": "为什么很多人都缺乏边界感",
+        "onboard_time": 1748224880,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "300岁TVB老人跳晚安大小姐",
+        "onboard_time": 1748185703,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125566,
+        "num": 125566,
+        "word": "孙颖莎冠军",
+        "onboard_time": 1748173887,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104570,
+        "num": 120474,
+        "word": "杭州西湖偶遇五月天阿信",
+        "onboard_time": 1748224702,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115507,
+        "num": 115507,
+        "word": "多地气温组团冲上30摄氏度",
+        "onboard_time": 1748219842,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108487,
+        "num": 108487,
+        "word": "王曼昱说女双决赛比女单更关键",
+        "onboard_time": 1748220081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106856,
+        "num": 106856,
+        "word": "肖指导发与孙颖莎王楚钦拥抱照片",
+        "onboard_time": 1748217382,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103303,
+        "num": 103303,
+        "word": "印专家称对东大的恐惧刻入骨里",
+        "onboard_time": 1748189841,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101875,
+        "num": 101875,
+        "word": "骗杀父仇人进火场救自己",
+        "onboard_time": 1748191939,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99683,
+        "num": 99683,
+        "word": "狗狗意识到出大问题了",
+        "onboard_time": 1748220322,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97179,
+        "num": 97179,
+        "word": "女子遭雷击去世丈夫疑因人工降雨",
+        "onboard_time": 1748180728,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96830,
+        "num": 96830,
+        "word": "给还没到27岁的人的浪漫建议",
+        "onboard_time": 1748224280,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94655,
+        "num": 94655,
+        "word": "南方27日将迎新一轮降雨",
+        "onboard_time": 1748218822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91925,
+        "num": 91925,
+        "word": "狗狗打完狂犬疫苗真成狂犬了",
+        "onboard_time": 1748222962,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要有新气象新作为#"
+    }
+  }
+}

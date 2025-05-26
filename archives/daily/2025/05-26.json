@@ -1,7 +1,15 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748216300985,
+  "endTime": 1748224938042,
   "band_list": [
+    {
+      "raw_hot": 1988917,
+      "num": 1988917,
+      "word": "王健林再卖48座万达广场",
+      "onboard_time": 1748221999,
+      "rank": 0,
+      "category": "财经,民生新闻"
+    },
     {
       "raw_hot": 1193417,
       "num": 1016223,
@@ -9,6 +17,30 @@
       "onboard_time": 1748187864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1023264,
+      "num": 1023264,
+      "word": "空腹断食42小时的变化",
+      "onboard_time": 1748222302,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 997800,
+      "num": 406666,
+      "word": "Angelababy带着早期混血感回来了",
+      "onboard_time": 1748221400,
+      "rank": 10,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 842515,
+      "num": 405849,
+      "word": "王楚钦机场买酒",
+      "onboard_time": 1748223801,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 824449,
@@ -35,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 744938,
+      "num": 401972,
+      "word": "王楚钦夺冠后肖指导哭成了小孩",
+      "onboard_time": 1748223141,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 724716,
       "num": 923760,
       "word": "李乃文喊话辛柏青有我们",
@@ -51,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630667,
+      "num": 630667,
+      "word": "美国女主播羊水破裂坚持播3小时节目",
+      "onboard_time": 1748217260,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 619999,
       "num": 619999,
       "word": "国乒多哈世乒赛大合影",
@@ -59,8 +107,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 610924,
+      "num": 610924,
+      "word": "朋友圈 想发就发",
+      "onboard_time": 1748191160,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 600854,
+      "num": 360525,
+      "word": "李沐宸对公开恋情的态度",
+      "onboard_time": 1748214739,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582734,
-      "num": 239321,
+      "num": 379462,
       "word": "赵丽颖杨幂Angelababy活动生图",
       "onboard_time": 1748193917,
       "rank": 10,
@@ -123,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 439372,
-      "num": 439372,
-      "word": "朋友圈 想发就发",
-      "onboard_time": 1748191160,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 435011,
       "num": 435011,
       "word": "37岁女子福建爬山拍照时坠崖身亡",
@@ -147,12 +203,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419736,
+      "num": 419736,
+      "word": "南通地震",
+      "onboard_time": 1748219722,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410802,
       "num": 410802,
       "word": "杨颖好权威的一张脸",
       "onboard_time": 1748174546,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398074,
+      "num": 398074,
+      "word": "一觉醒来还在为世乒赛4冠骄傲",
+      "onboard_time": 1748218340,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 393790,
@@ -179,6 +251,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372830,
+      "num": 410369,
+      "word": "朝鲜军需工业部副部长被拘留",
+      "onboard_time": 1748223260,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 370526,
+      "num": 370526,
+      "word": "肖战指导发图",
+      "onboard_time": 1748218041,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 359221,
+      "num": 359221,
+      "word": "手串 辐射",
+      "onboard_time": 1748224341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332403,
       "num": 332403,
       "word": "孙颖莎哭了",
@@ -187,8 +283,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323498,
+      "num": 411715,
+      "word": "夫妻俩在加沙救人9个孩子却被炸死",
+      "onboard_time": 1748223620,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 321306,
-      "num": 150837,
+      "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1748214678,
       "rank": 20,
@@ -211,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291746,
+      "num": 157297,
+      "word": "蛋 宁碎不翻",
+      "onboard_time": 1748223562,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253159,
       "num": 253159,
       "word": "郑钦文恭喜王楚钦",
@@ -227,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227114,
+      "num": 367786,
+      "word": "张凌赫石家庄",
+      "onboard_time": 1748222360,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223333,
       "num": 223333,
       "word": "内娱四大淡颜",
@@ -241,6 +361,14 @@
       "onboard_time": 1748192119,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214013,
+      "num": 366146,
+      "word": "YG新女团",
+      "onboard_time": 1748218221,
+      "rank": 18,
+      "category": "艺人,音乐"
     },
     {
       "raw_hot": 206399,
@@ -260,7 +388,7 @@
     },
     {
       "raw_hot": 193325,
-      "num": 149165,
+      "num": 159207,
       "word": "朱媛媛去世为何全民哀悼",
       "onboard_time": 1748214739,
       "rank": 22,
@@ -275,12 +403,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185104,
+      "num": 185104,
+      "word": "巴赫说孙颖莎是一位伟大的冠军",
+      "onboard_time": 1748223920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184342,
+      "num": 184342,
+      "word": "特朗普再威胁哈佛",
+      "onboard_time": 1748216181,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182275,
       "num": 182275,
       "word": "赵丽颖犹豫半天比了个苹果",
       "onboard_time": 1748177963,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173683,
+      "num": 173683,
+      "word": "朝九晚五其实是朝七晚六",
+      "onboard_time": 1748217441,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 173215,
+      "num": 362501,
+      "word": "肖战说演得挺过瘾",
+      "onboard_time": 1748224460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 166731,
@@ -315,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156532,
+      "num": 156532,
+      "word": "孙颖莎要巴赫联系方式",
+      "onboard_time": 1748221222,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153019,
       "num": 153019,
       "word": "麒麟芯片",
@@ -329,6 +497,14 @@
       "onboard_time": 1748177123,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "甘肃发现目前纪年最早的三国曹魏简牍",
+      "onboard_time": 1748217382,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143532,
@@ -355,6 +531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 136953,
+      "num": 136953,
+      "word": "王励勤说国乒男线还有待提升",
+      "onboard_time": 1748221281,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134132,
       "num": 134132,
       "word": "国乒今晚嬴麻了",
@@ -379,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125342,
-      "num": 157152,
-      "word": "李沐宸对公开恋情的态度",
-      "onboard_time": 1748214739,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 126761,
+      "num": 126761,
+      "word": "为什么很多人都缺乏边界感",
+      "onboard_time": 1748224880,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 125337,
@@ -411,6 +595,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115507,
+      "num": 115507,
+      "word": "多地气温组团冲上30摄氏度",
+      "onboard_time": 1748219842,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114416,
+      "num": 157517,
+      "word": "霍建华新剧好松弛",
+      "onboard_time": 1748220682,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110573,
       "num": 114693,
       "word": "不然退役",
@@ -427,12 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108487,
+      "num": 108487,
+      "word": "王曼昱说女双决赛比女单更关键",
+      "onboard_time": 1748220081,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106955,
       "num": 174633,
       "word": "凤凰传奇演唱会",
       "onboard_time": 1748186783,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106856,
+      "num": 106856,
+      "word": "肖指导发与孙颖莎王楚钦拥抱照片",
+      "onboard_time": 1748217382,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 105146,
@@ -443,12 +659,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104570,
+      "num": 120474,
+      "word": "杭州西湖偶遇五月天阿信",
+      "onboard_time": 1748224702,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104438,
       "num": 104438,
       "word": "孙颖莎哭了我也哭了",
       "onboard_time": 1748194456,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104133,
+      "num": 127106,
+      "word": "宋威龙太帅了",
+      "onboard_time": 1748223320,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101875,
+      "num": 101875,
+      "word": "骗杀父仇人进火场救自己",
+      "onboard_time": 1748191939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 101836,
@@ -467,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99683,
+      "num": 99683,
+      "word": "狗狗意识到出大问题了",
+      "onboard_time": 1748220322,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99595,
       "num": 804898,
       "word": "美国90%圣诞用品来自中国制造",
@@ -483,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96830,
+      "num": 96830,
+      "word": "给还没到27岁的人的浪漫建议",
+      "onboard_time": 1748224280,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 94655,
+      "num": 94655,
+      "word": "南方27日将迎新一轮降雨",
+      "onboard_time": 1748218822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92053,
       "num": 114648,
       "word": "哈佛没有国际学生会变成什么样",
@@ -491,12 +755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91640,
-      "num": 101679,
-      "word": "骗杀父仇人进火场救自己",
-      "onboard_time": 1748191939,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 91925,
+      "num": 91925,
+      "word": "狗狗打完狂犬疫苗真成狂犬了",
+      "onboard_time": 1748222962,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 90852,
@@ -609,14 +873,6 @@
       "onboard_time": 1748214017,
       "rank": 42,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 58960,
-      "num": 72053,
-      "word": "特朗普再威胁哈佛",
-      "onboard_time": 1748216181,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58508,
