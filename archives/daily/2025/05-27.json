@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748285230950,
+  "endTime": 1748287238378,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -475,20 +475,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23551,
+      "num": 23551,
+      "word": "肖战任少白民国贵公子路透",
+      "onboard_time": 1748285054,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22682,
+      "num": 22682,
+      "word": "徐明浩Skyfall风格",
+      "onboard_time": 1748286674,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22519,
       "num": 31936,
       "word": "幸福的真谛是别把日子过反了",
       "onboard_time": 1748277798,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18115,
-      "num": 18672,
-      "word": "肖战任少白民国贵公子路透",
-      "onboard_time": 1748285054,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 17287,
@@ -505,6 +513,22 @@
       "onboard_time": 1748285115,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14691,
+      "num": 22733,
+      "word": "男子赴孟加拉国娶妻意外身亡家属发声",
+      "onboard_time": 1748285834,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10503,
+      "num": 22821,
+      "word": "少年先锋队第九次全国代表大会",
+      "onboard_time": 1748287034,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25,
