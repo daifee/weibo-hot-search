@@ -1,0 +1,410 @@
+{
+  "runTime": 1748237220846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120182,
+        "num": 1179229,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 706215,
+        "num": 706215,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48383,
+        "num": 645171,
+        "word": "跨境电商企业狂招外国主播拓市场",
+        "onboard_time": 1748232923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638880,
+        "num": 638880,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 453127,
+        "num": 453127,
+        "word": "王楚钦机场偶遇安宰贤",
+        "onboard_time": 1748230402,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442034,
+        "num": 442034,
+        "word": "王楚钦答应刘国梁的事情做到了",
+        "onboard_time": 1748233822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414882,
+        "num": 414882,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1748222302,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376458,
+        "num": 376458,
+        "word": "雨果自曝输球原因",
+        "onboard_time": 1748226620,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375936,
+        "num": 375936,
+        "word": "新说唱2025导师官宣",
+        "onboard_time": 1748229021,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309387,
+        "num": 309387,
+        "word": "6.8元网购10斤花生米到手只有10粒",
+        "onboard_time": 1748230162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1369662,
+        "num": 308369,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 725999,
+        "num": 307801,
+        "word": "蟑螂咬人",
+        "onboard_time": 1748227942,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 662095,
+        "num": 307186,
+        "word": "奚梦瑶丢失深蓝外套求助网友",
+        "onboard_time": 1748236402,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564369,
+        "num": 305256,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 13,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 439334,
+        "num": 304189,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303957,
+        "num": 303957,
+        "word": "错嫁世子妃定档",
+        "onboard_time": 1748232743,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271767,
+        "num": 271767,
+        "word": "肖战解析藏海传细节",
+        "onboard_time": 1748227402,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372452,
+        "num": 270436,
+        "word": "班味好重的镜子",
+        "onboard_time": 1748234063,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265382,
+        "num": 265382,
+        "word": "他跟女主喝交杯酒却和女二接吻",
+        "onboard_time": 1748232262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166604,
+        "num": 260399,
+        "word": "潘展乐说沉下来继续努力",
+        "onboard_time": 1748236521,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260330,
+        "num": 260330,
+        "word": "藏海海清你俩什么关系",
+        "onboard_time": 1748233223,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278862,
+        "num": 249460,
+        "word": "赵丽颖杨幂Angelababy活动生图",
+        "onboard_time": 1748193917,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216034,
+        "num": 216034,
+        "word": "王楚钦夺冠后肖指导哭成了小孩",
+        "onboard_time": 1748223141,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215191,
+        "num": 215191,
+        "word": "600一节课教狗如厕没学会钱也不退",
+        "onboard_time": 1748235143,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 195631,
+        "num": 195631,
+        "word": "各大高校把折腰当招生神器了",
+        "onboard_time": 1748236043,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192537,
+        "num": 192537,
+        "word": "减肥40斤直观差距",
+        "onboard_time": 1748233703,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 190376,
+        "num": 190376,
+        "word": "艾福杰尼当爸",
+        "onboard_time": 1748229501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182231,
+        "num": 182231,
+        "word": "六小龄童回应孙悟空林黛玉cp爆火",
+        "onboard_time": 1748228001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169931,
+        "num": 177063,
+        "word": "姜贞羽新剧被谁做局了",
+        "onboard_time": 1748236702,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101856,
+        "num": 175125,
+        "word": "女子遗落300万翡翠被垃圾清运车收走",
+        "onboard_time": 1748237002,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174200,
+        "num": 174200,
+        "word": "梅州文旅宣传视频被指抄袭福建",
+        "onboard_time": 1748234423,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 172333,
+        "num": 172333,
+        "word": "杨旭文刘宇宁新剧定档",
+        "onboard_time": 1748235623,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160564,
+        "num": 160564,
+        "word": "贾静雯演员3再现赵敏经典台词",
+        "onboard_time": 1748236223,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157247,
+        "num": 157247,
+        "word": "白玉兰",
+        "onboard_time": 1748237120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156497,
+        "num": 156497,
+        "word": "林黛玉是不是认错石头了",
+        "onboard_time": 1748232021,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 145501,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136378,
+        "num": 136378,
+        "word": "男孩离家出走父亲遇车祸去世视频曝光",
+        "onboard_time": 1748231002,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131391,
+        "num": 135298,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "浙江台州一烈士纪念设施遭人为破坏",
+        "onboard_time": 1748230101,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134542,
+        "num": 134542,
+        "word": "周深时间之子主题曲MV",
+        "onboard_time": 1748226741,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 131975,
+        "word": "下山回家偶遇赵丽颖",
+        "onboard_time": 1748226800,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132499,
+        "num": 131109,
+        "word": "刘亦菲提名白玉兰视后",
+        "onboard_time": 1748237061,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48582,
+        "num": 130236,
+        "word": "郑钦文说不喜欢男陪练让着自己",
+        "onboard_time": 1748229982,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129569,
+        "num": 129569,
+        "word": "上班不要用力过猛",
+        "onboard_time": 1748234304,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117255,
+        "num": 117255,
+        "word": "入境塞尔维亚遭海关区别对待",
+        "onboard_time": 1748233944,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33062,
+        "num": 117011,
+        "word": "王励勤回应洛杉矶奥运会备战",
+        "onboard_time": 1748237002,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116926,
+        "num": 116926,
+        "word": "刘宇宁也忘不了18年的夏天",
+        "onboard_time": 1748230521,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116067,
+        "num": 116067,
+        "word": "韩国选手追星孙颖莎",
+        "onboard_time": 1748230521,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113185,
+        "num": 113185,
+        "word": "阿汤哥水下戏几乎盲拍",
+        "onboard_time": 1748237120,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113166,
+        "num": 113166,
+        "word": "夫妻俩在加沙救人9个孩子却被炸死",
+        "onboard_time": 1748223620,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拦下的半碗剩饭#"
+    }
+  }
+}
