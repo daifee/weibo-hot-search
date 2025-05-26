@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748277058176,
+  "endTime": 1748278031393,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -995,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 582592,
+      "num": 582592,
+      "word": "马克龙回应专机上被妻子推搡",
+      "onboard_time": 1748273601,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 579752,
       "num": 579752,
       "word": "奔跑吧直播",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1748269344,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 502114,
-      "num": 502114,
-      "word": "马克龙回应专机上被妻子推搡",
-      "onboard_time": 1748273601,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 500924,
@@ -3347,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187378,
+      "num": 187378,
+      "word": "肖战回复周奇莫辜负",
+      "onboard_time": 1748275101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186752,
       "num": 186752,
       "word": "吴宣仪发文祝喻言生日快乐",
@@ -4211,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162842,
+      "num": 162842,
+      "word": "宋威龙好帅",
+      "onboard_time": 1748274501,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162502,
       "num": 162502,
       "word": "左航全员加速中好命小子",
@@ -4827,14 +4843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143596,
-      "num": 143596,
-      "word": "肖战回复周奇莫辜负",
-      "onboard_time": 1748275101,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143532,
       "num": 182160,
       "word": "华晨宇长春哦啦音乐节",
@@ -5331,14 +5339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129250,
-      "num": 129250,
-      "word": "宋威龙好帅",
-      "onboard_time": 1748274501,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129118,
       "num": 175537,
       "word": "男子赴孟加拉国娶妻意外身亡",
@@ -5771,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115013,
+      "num": 115013,
+      "word": "王宝强晒粉丝手写信",
+      "onboard_time": 1748275820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114837,
       "num": 131259,
       "word": "特朗普威胁将对欧盟征收50%关税",
@@ -5809,6 +5817,14 @@
       "onboard_time": 1748237120,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112964,
+      "num": 112964,
+      "word": "刘若英演唱会两姐妹点歌",
+      "onboard_time": 1748275280,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 112657,
@@ -5969,14 +5985,6 @@
       "onboard_time": 1748243001,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108898,
-      "num": 108898,
-      "word": "王宝强晒粉丝手写信",
-      "onboard_time": 1748275820,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 108487,
@@ -6321,14 +6329,6 @@
       "onboard_time": 1748095167,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 94910,
-      "num": 94910,
-      "word": "刘若英演唱会两姐妹点歌",
-      "onboard_time": 1748275280,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 94425,
@@ -7145,6 +7145,14 @@
       "onboard_time": 1748272763,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52423,
+      "num": 52423,
+      "word": "崔胜澈 阿龙阿龙",
+      "onboard_time": 1748277439,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 52253,

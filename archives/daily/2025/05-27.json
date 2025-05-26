@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748277058176,
+  "endTime": 1748278031393,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -19,6 +19,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 582592,
+      "num": 582592,
+      "word": "马克龙回应专机上被妻子推搡",
+      "onboard_time": 1748273601,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568528,
       "num": 89762,
       "word": "麦琳 千禧辣妹",
@@ -33,14 +41,6 @@
       "onboard_time": 1748270843,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 502114,
-      "num": 502114,
-      "word": "马克龙回应专机上被妻子推搡",
-      "onboard_time": 1748273601,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 492105,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187378,
+      "num": 187378,
+      "word": "肖战回复周奇莫辜负",
+      "onboard_time": 1748275101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171619,
       "num": 171619,
       "word": "普京所乘飞机遭大规模袭击",
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143596,
-      "num": 143596,
-      "word": "肖战回复周奇莫辜负",
-      "onboard_time": 1748275101,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 162842,
+      "num": 162842,
+      "word": "宋威龙好帅",
+      "onboard_time": 1748274501,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 134725,
@@ -168,14 +176,6 @@
       "word": "2025白玉兰最佳女主角将花落谁家",
       "onboard_time": 1748252183,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129250,
-      "num": 129250,
-      "word": "宋威龙好帅",
-      "onboard_time": 1748274501,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -195,12 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108898,
-      "num": 108898,
+      "raw_hot": 115013,
+      "num": 115013,
       "word": "王宝强晒粉丝手写信",
       "onboard_time": 1748275820,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112964,
+      "num": 112964,
+      "word": "刘若英演唱会两姐妹点歌",
+      "onboard_time": 1748275280,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 108409,
@@ -227,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94910,
-      "num": 94910,
-      "word": "刘若英演唱会两姐妹点歌",
-      "onboard_time": 1748275280,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 92815,
       "num": 92815,
       "word": "王俊凯舒淇新剧 7月开机",
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88955,
+      "num": 88955,
+      "word": "刘宇宁拍戏不看手机不拿剧本",
+      "onboard_time": 1748267603,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88357,
       "num": 88357,
       "word": "做藏海的狗",
@@ -281,14 +289,6 @@
       "onboard_time": 1748271263,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 81858,
-      "num": 81858,
-      "word": "刘宇宁拍戏不看手机不拿剧本",
-      "onboard_time": 1748267603,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 81068,
@@ -393,6 +393,30 @@
       "onboard_time": 1748277019,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55194,
+      "num": 55194,
+      "word": "遇害海归女母亲曾提醒其注意江歌案",
+      "onboard_time": 1748259623,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54799,
+      "num": 54799,
+      "word": "折腰吻戏",
+      "onboard_time": 1748267302,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52423,
+      "num": 52423,
+      "word": "崔胜澈 阿龙阿龙",
+      "onboard_time": 1748277439,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 25,
