@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748287238378,
+  "endTime": 1748288197945,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -499,6 +499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19361,
+      "num": 22733,
+      "word": "男子赴孟加拉国娶妻意外身亡家属发声",
+      "onboard_time": 1748285834,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17312,
+      "num": 18671,
+      "word": "乌军称乌遭355架无人机袭击",
+      "onboard_time": 1748285115,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17287,
       "num": 22058,
       "word": "第五人格微博六百万粉丝",
@@ -507,28 +523,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16408,
-      "num": 18671,
-      "word": "乌军称乌遭355架无人机袭击",
-      "onboard_time": 1748285115,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14691,
-      "num": 22733,
-      "word": "男子赴孟加拉国娶妻意外身亡家属发声",
-      "onboard_time": 1748285834,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10503,
+      "raw_hot": 12467,
       "num": 22821,
       "word": "少年先锋队第九次全国代表大会",
       "onboard_time": 1748287034,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10510,
+      "num": 23340,
+      "word": "780元买6颗减肥神药吃到心慌失眠",
+      "onboard_time": 1748287814,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25,
