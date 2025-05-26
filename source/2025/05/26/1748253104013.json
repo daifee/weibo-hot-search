@@ -1,0 +1,410 @@
+{
+  "runTime": 1748253104013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2104035,
+        "num": 2104035,
+        "word": "普京所乘飞机遭大规模袭击",
+        "onboard_time": 1748250083,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 974273,
+        "num": 974273,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75331,
+        "num": 840178,
+        "word": "端午将至各地特色粽子上新中",
+        "onboard_time": 1748251343,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806538,
+        "num": 806538,
+        "word": "朱媛媛夫妇工作室分别叫本源和本卿",
+        "onboard_time": 1748247441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762428,
+        "num": 762428,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 587975,
+        "num": 587975,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587827,
+        "num": 587827,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443658,
+        "num": 443658,
+        "word": "iPhone19或迎真全面屏",
+        "onboard_time": 1748245641,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 429094,
+        "num": 429094,
+        "word": "台积电发强硬声明",
+        "onboard_time": 1748246902,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386299,
+        "num": 427826,
+        "word": "端午节3天高速不免费",
+        "onboard_time": 1748249542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510928,
+        "num": 427713,
+        "word": "王励勤说我们不是最强阵容出战世乒赛",
+        "onboard_time": 1748249841,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436524,
+        "num": 427700,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427550,
+        "num": 427550,
+        "word": "家门口被害女子家属希望凶手判死刑",
+        "onboard_time": 1748250261,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 407197,
+        "num": 407197,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311719,
+        "num": 311719,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 421473,
+        "num": 310472,
+        "word": "问界客服回应余承东疑似开车睡觉",
+        "onboard_time": 1748249900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287268,
+        "num": 305375,
+        "word": "2025白玉兰最佳女主角将花落谁家",
+        "onboard_time": 1748252183,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257544,
+        "num": 302740,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1748250983,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71113,
+        "num": 298990,
+        "word": "在中国冷极做一件passion的事",
+        "onboard_time": 1748250983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7316,
+        "num": 295455,
+        "word": "跨境电商招外国主播会带来什么机遇",
+        "onboard_time": 1748252483,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295057,
+        "num": 295057,
+        "word": "陈妍希打卡肖战同款下浩里",
+        "onboard_time": 1748251523,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291811,
+        "num": 291811,
+        "word": "健身卡 生理期",
+        "onboard_time": 1748242520,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233566,
+        "num": 286046,
+        "word": "肖战新剧背带裤路透",
+        "onboard_time": 1748247081,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281431,
+        "num": 281431,
+        "word": "双胞胎嫁双胞胎又生下双胞胎",
+        "onboard_time": 1748250681,
+        "rank": 23,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 77627,
+        "num": 277130,
+        "word": "比特币升破110000美元",
+        "onboard_time": 1748252602,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52253,
+        "num": 273220,
+        "word": "女子家门口被害案凶手事发前疑踩点",
+        "onboard_time": 1748251882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30587,
+        "num": 265514,
+        "word": "用橡皮擦掉内向学生胆小鬼标签",
+        "onboard_time": 1748251942,
+        "rank": 26,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 13945,
+        "num": 258372,
+        "word": "老人过斑马线跌倒幸遇交警搀扶",
+        "onboard_time": 1748251343,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16247,
+        "num": 254043,
+        "word": "法国达索航空公司成立审计小组",
+        "onboard_time": 1748251343,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57909,
+        "num": 245813,
+        "word": "中科曙光回应与海光信息整体吸收合并",
+        "onboard_time": 1748252602,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147322,
+        "num": 243161,
+        "word": "我的阿勒泰等10部剧入围白玉兰奖",
+        "onboard_time": 1748242161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238426,
+        "num": 238426,
+        "word": "王嘉尔吃东西把牙齿咬裂",
+        "onboard_time": 1748252842,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214495,
+        "num": 214495,
+        "word": "宣璐折腰金蝶覆面",
+        "onboard_time": 1748247982,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25165,
+        "num": 205185,
+        "word": "哪些习惯有助于长时间保持大脑清晰",
+        "onboard_time": 1748251281,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203461,
+        "num": 203461,
+        "word": "长期睡眠不足的9个表现",
+        "onboard_time": 1748250621,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195046,
+        "num": 195046,
+        "word": "SEVENTEEN正规五辑MV",
+        "onboard_time": 1748252602,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137259,
+        "num": 183889,
+        "word": "梁靖崑回顾十年世锦赛之旅",
+        "onboard_time": 1748250382,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183155,
+        "num": 183155,
+        "word": "文俊辉Gemini",
+        "onboard_time": 1748252722,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167406,
+        "num": 167406,
+        "word": "马克龙访越遭夫人当众打脸",
+        "onboard_time": 1748249422,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159932,
+        "num": 159932,
+        "word": "惠英红撕拉片",
+        "onboard_time": 1748243782,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142774,
+        "num": 142774,
+        "word": "邱贻可说孙颖莎非常不容易",
+        "onboard_time": 1748251762,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142025,
+        "num": 142025,
+        "word": "LWX说RNG发工资了",
+        "onboard_time": 1748252901,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135814,
+        "num": 135814,
+        "word": "黄玲宋莹又在白玉兰提名上相遇",
+        "onboard_time": 1748242401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134699,
+        "num": 134699,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133462,
+        "num": 133462,
+        "word": "孙颖莎掌心布满拼搏的见证",
+        "onboard_time": 1748248280,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124616,
+        "num": 124616,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119299,
+        "num": 119299,
+        "word": "赵丽颖唱OST",
+        "onboard_time": 1748252421,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112295,
+        "num": 112295,
+        "word": "53岁知名主持人程成生病住院",
+        "onboard_time": 1748251523,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110064,
+        "num": 110064,
+        "word": "第一次当何灵有点紧张",
+        "onboard_time": 1748246001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108370,
+        "num": 108370,
+        "word": "老外爱上买中国电子产品",
+        "onboard_time": 1748249602,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺复旦大学建校120周年#"
+    }
+  }
+}
