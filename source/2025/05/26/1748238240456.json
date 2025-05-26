@@ -1,0 +1,410 @@
+{
+  "runTime": 1748238240456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2131013,
+        "num": 2131013,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 974262,
+        "num": 974262,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 55003,
+        "num": 725832,
+        "word": "跨境电商企业狂招外国主播拓市场",
+        "onboard_time": 1748232923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593216,
+        "num": 593216,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 410279,
+        "num": 410279,
+        "word": "王楚钦机场偶遇安宰贤",
+        "onboard_time": 1748230402,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386425,
+        "num": 386425,
+        "word": "王楚钦答应刘国梁的事情做到了",
+        "onboard_time": 1748233822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348573,
+        "num": 348573,
+        "word": "雨果自曝输球原因",
+        "onboard_time": 1748226620,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348356,
+        "num": 348356,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1748222302,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337405,
+        "num": 337405,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313403,
+        "num": 313403,
+        "word": "他跟女主喝交杯酒却和女二接吻",
+        "onboard_time": 1748232262,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1297305,
+        "num": 313286,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 576450,
+        "num": 310265,
+        "word": "蟑螂咬人",
+        "onboard_time": 1748227942,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 533595,
+        "num": 307660,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 12,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 445210,
+        "num": 306345,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232391,
+        "num": 304517,
+        "word": "女子遗落300万翡翠被垃圾清运车收走",
+        "onboard_time": 1748237002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402855,
+        "num": 302712,
+        "word": "班味好重的镜子",
+        "onboard_time": 1748234063,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359854,
+        "num": 300439,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299090,
+        "num": 299090,
+        "word": "6.8元网购10斤花生米到手只有10粒",
+        "onboard_time": 1748230162,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285767,
+        "num": 285767,
+        "word": "白玉兰",
+        "onboard_time": 1748237120,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267696,
+        "num": 267696,
+        "word": "新说唱2025导师官宣",
+        "onboard_time": 1748229021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262979,
+        "num": 262979,
+        "word": "错嫁世子妃定档",
+        "onboard_time": 1748232743,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238736,
+        "num": 238736,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228947,
+        "num": 228947,
+        "word": "藏海海清你俩什么关系",
+        "onboard_time": 1748233223,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197468,
+        "num": 197468,
+        "word": "刘亦菲提名白玉兰视后",
+        "onboard_time": 1748237061,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196035,
+        "num": 196035,
+        "word": "赵丽颖杨幂Angelababy活动生图",
+        "onboard_time": 1748193917,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192032,
+        "num": 195651,
+        "word": "肖战解析藏海传细节",
+        "onboard_time": 1748227402,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6608,
+        "num": 194871,
+        "word": "三国曹魏简牍是如何制作的",
+        "onboard_time": 1748238021,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168922,
+        "num": 194586,
+        "word": "姜贞羽新剧被谁做局了",
+        "onboard_time": 1748236702,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9220,
+        "num": 193691,
+        "word": "蹬三轮20年捐35万助学款",
+        "onboard_time": 1748237242,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31711,
+        "num": 193094,
+        "word": "这种姿势侧睡会让你腰疼",
+        "onboard_time": 1748237361,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 192504,
+        "num": 192504,
+        "word": "600一节课教狗如厕没学会钱也不退",
+        "onboard_time": 1748235143,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36082,
+        "num": 182598,
+        "word": "尼克斯1比2步行者",
+        "onboard_time": 1748228781,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182489,
+        "num": 182489,
+        "word": "各大高校把折腰当招生神器了",
+        "onboard_time": 1748236043,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 167475,
+        "word": "王楚钦夺冠后肖指导哭成了小孩",
+        "onboard_time": 1748223141,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167396,
+        "num": 167396,
+        "word": "减肥40斤直观差距",
+        "onboard_time": 1748233703,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 162103,
+        "num": 162103,
+        "word": "贾静雯演员3再现赵敏经典台词",
+        "onboard_time": 1748236223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148962,
+        "num": 148962,
+        "word": "艾福杰尼当爸",
+        "onboard_time": 1748229501,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144041,
+        "num": 144041,
+        "word": "杨旭文刘宇宁新剧定档",
+        "onboard_time": 1748235623,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143280,
+        "num": 143280,
+        "word": "杨紫二提白玉兰",
+        "onboard_time": 1748238082,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133699,
+        "num": 133699,
+        "word": "六小龄童回应孙悟空林黛玉cp爆火",
+        "onboard_time": 1748228001,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124178,
+        "num": 124178,
+        "word": "熹妃回宫藏海上任",
+        "onboard_time": 1748237722,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124117,
+        "num": 124117,
+        "word": "田园脆鸡堡",
+        "onboard_time": 1748236223,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122493,
+        "num": 122493,
+        "word": "周深时间之子主题曲MV",
+        "onboard_time": 1748226741,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122229,
+        "num": 122229,
+        "word": "上班不要用力过猛",
+        "onboard_time": 1748234304,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53992,
+        "num": 121088,
+        "word": "可控核聚变概念持续活跃",
+        "onboard_time": 1748237422,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120982,
+        "num": 120982,
+        "word": "梅州文旅宣传视频被指抄袭福建",
+        "onboard_time": 1748234423,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120206,
+        "num": 120206,
+        "word": "下山回家偶遇赵丽颖",
+        "onboard_time": 1748226800,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117703,
+        "num": 117703,
+        "word": "林黛玉是不是认错石头了",
+        "onboard_time": 1748232021,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115037,
+        "num": 115037,
+        "word": "韩国选手追星孙颖莎",
+        "onboard_time": 1748230521,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113077,
+        "num": 113077,
+        "word": "浙江台州一烈士纪念设施遭人为破坏",
+        "onboard_time": 1748230101,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#精神文明建设要有新气象新作为#"
+    }
+  }
+}

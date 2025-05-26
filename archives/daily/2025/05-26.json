@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748237220846,
+  "endTime": 1748238240456,
   "band_list": [
     {
       "raw_hot": 2132154,
@@ -9,6 +9,14 @@
       "onboard_time": 1748224341,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2131013,
+      "num": 2131013,
+      "word": "第30届白玉兰奖入围名单",
+      "onboard_time": 1748236642,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1988917,
@@ -129,14 +137,6 @@
       "onboard_time": 1748182825,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 706215,
-      "num": 706215,
-      "word": "第30届白玉兰奖入围名单",
-      "onboard_time": 1748236642,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 662095,
@@ -371,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402855,
+      "num": 302712,
+      "word": "班味好重的镜子",
+      "onboard_time": 1748234063,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398074,
       "num": 398074,
       "word": "一觉醒来还在为世乒赛4冠骄傲",
@@ -411,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372452,
-      "num": 270436,
-      "word": "班味好重的镜子",
-      "onboard_time": 1748234063,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 370526,
       "num": 370526,
       "word": "肖战指导发图",
@@ -435,6 +435,14 @@
       "category": "美妆,体育"
     },
     {
+      "raw_hot": 359854,
+      "num": 300439,
+      "word": "林俊杰演唱会突发意外情况",
+      "onboard_time": 1748237242,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352330,
       "num": 352330,
       "word": "巴赫说孙颖莎是一位伟大的冠军",
@@ -449,6 +457,14 @@
       "onboard_time": 1748227402,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337405,
+      "num": 337405,
+      "word": "孟子义为了气我什么都干的出来",
+      "onboard_time": 1748237002,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 335110,
@@ -473,6 +489,14 @@
       "onboard_time": 1748214678,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 313403,
+      "num": 313403,
+      "word": "他跟女主喝交杯酒却和女二接吻",
+      "onboard_time": 1748232262,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 312506,
@@ -515,11 +539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281219,
-      "num": 281219,
-      "word": "他跟女主喝交杯酒却和女二接吻",
-      "onboard_time": 1748232262,
-      "rank": 25,
+      "raw_hot": 285767,
+      "num": 285767,
+      "word": "白玉兰",
+      "onboard_time": 1748237120,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -577,6 +601,22 @@
       "onboard_time": 1748189781,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 238736,
+      "num": 238736,
+      "word": "孙颖莎再一次把China印在了球场上",
+      "onboard_time": 1748236881,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232391,
+      "num": 304517,
+      "word": "女子遗落300万翡翠被垃圾清运车收走",
+      "onboard_time": 1748237002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227114,
@@ -673,6 +713,14 @@
       "onboard_time": 1748227942,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197468,
+      "num": 197468,
+      "word": "刘亦菲提名白玉兰视后",
+      "onboard_time": 1748237061,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 195631,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 169931,
-      "num": 177063,
+      "num": 194586,
       "word": "姜贞羽新剧被谁做局了",
       "onboard_time": 1748236702,
       "rank": 28,
@@ -891,8 +939,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160564,
-      "num": 160564,
+      "raw_hot": 162103,
+      "num": 162103,
       "word": "贾静雯演员3再现赵敏经典台词",
       "onboard_time": 1748236223,
       "rank": 32,
@@ -913,14 +961,6 @@
       "onboard_time": 1748215639,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157247,
-      "num": 157247,
-      "word": "白玉兰",
-      "onboard_time": 1748237120,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 155551,
@@ -1019,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145501,
-      "num": 145501,
-      "word": "孟子义为了气我什么都干的出来",
-      "onboard_time": 1748237002,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145342,
       "num": 145342,
       "word": "上班不要用力过猛",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1748190080,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143280,
+      "num": 143280,
+      "word": "杨紫二提白玉兰",
+      "onboard_time": 1748238082,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140359,
@@ -1115,22 +1155,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 132499,
-      "num": 131109,
-      "word": "刘亦菲提名白玉兰视后",
-      "onboard_time": 1748237061,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131391,
-      "num": 135298,
-      "word": "孙颖莎再一次把China印在了球场上",
-      "onboard_time": 1748236881,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130766,
       "num": 130766,
       "word": "特朗普猛批俄乌两国总统",
@@ -1177,6 +1201,22 @@
       "onboard_time": 1748178324,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124178,
+      "num": 124178,
+      "word": "熹妃回宫藏海上任",
+      "onboard_time": 1748237722,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "田园脆鸡堡",
+      "onboard_time": 1748236223,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 122403,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1748194456,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101856,
-      "num": 175125,
-      "word": "女子遗落300万翡翠被垃圾清运车收走",
-      "onboard_time": 1748237002,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101836,
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53992,
+      "num": 121088,
+      "word": "可控核聚变概念持续活跃",
+      "onboard_time": 1748237422,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53599,
       "num": 84817,
       "word": "曼联vs阿斯顿维拉",
@@ -1715,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31711,
+      "num": 193094,
+      "word": "这种姿势侧睡会让你腰疼",
+      "onboard_time": 1748237361,
+      "rank": 29,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 31314,
       "num": 334138,
       "word": "李斯特菌在什么环境下容易滋生",
@@ -1793,6 +1841,22 @@
       "onboard_time": 1748234844,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 9220,
+      "num": 193691,
+      "word": "蹬三轮20年捐35万助学款",
+      "onboard_time": 1748237242,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6608,
+      "num": 194871,
+      "word": "三国曹魏简牍是如何制作的",
+      "onboard_time": 1748238021,
+      "rank": 26,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
@@ -1801,6 +1865,9 @@
     },
     {
       "word": "#习近平拦下的半碗剩饭#"
+    },
+    {
+      "word": "#精神文明建设要有新气象新作为#"
     }
   ]
 }
