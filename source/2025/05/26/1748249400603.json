@@ -1,0 +1,410 @@
+{
+  "runTime": 1748249400603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2347441,
+        "num": 2347441,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1009095,
+        "num": 1009095,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39367,
+        "num": 982023,
+        "word": "跨境电商企业狂招外国主播拓市场",
+        "onboard_time": 1748232923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976849,
+        "num": 976849,
+        "word": "朱媛媛夫妇工作室分别叫本源和本卿",
+        "onboard_time": 1748247441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932423,
+        "num": 932423,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682605,
+        "num": 682605,
+        "word": "台积电发强硬声明",
+        "onboard_time": 1748246902,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699424,
+        "num": 673368,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638452,
+        "num": 638452,
+        "word": "iPhone19或迎真全面屏",
+        "onboard_time": 1748245641,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 594912,
+        "num": 594912,
+        "word": "健身卡 生理期",
+        "onboard_time": 1748242520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54106,
+        "num": 548549,
+        "word": "高层小区电梯老龄化问题何解",
+        "onboard_time": 1748249001,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514241,
+        "num": 514241,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 447159,
+        "num": 447159,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406043,
+        "num": 406043,
+        "word": "贾玲全资持股大碗娱乐",
+        "onboard_time": 1748243661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380804,
+        "num": 380804,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 13,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 345602,
+        "num": 345602,
+        "word": "上海保安月薪9000工作的一天",
+        "onboard_time": 1748240962,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343001,
+        "num": 343001,
+        "word": "惠英红撕拉片",
+        "onboard_time": 1748243782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329300,
+        "num": 329300,
+        "word": "肖战新剧背带裤路透",
+        "onboard_time": 1748247081,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307974,
+        "num": 307974,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269608,
+        "num": 269608,
+        "word": "宣璐折腰金蝶覆面",
+        "onboard_time": 1748247982,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37292,
+        "num": 247933,
+        "word": "福建舰加紧海试释放出哪些信号",
+        "onboard_time": 1748248280,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276490,
+        "num": 247068,
+        "word": "韩红把内娱年轻歌手都调成啥样了",
+        "onboard_time": 1748247561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245840,
+        "num": 245840,
+        "word": "王楚钦说需要感谢的实在太多",
+        "onboard_time": 1748247863,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216182,
+        "num": 216182,
+        "word": "孙颖莎掌心布满拼搏的见证",
+        "onboard_time": 1748248280,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209436,
+        "num": 209436,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85528,
+        "num": 204731,
+        "word": "这才是对于年轻人最正的人生观",
+        "onboard_time": 1748248822,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200313,
+        "num": 200313,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197099,
+        "num": 197099,
+        "word": "黄玲宋莹又在白玉兰提名上相遇",
+        "onboard_time": 1748242401,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25560,
+        "num": 194129,
+        "word": "IP经济概念持续活跃",
+        "onboard_time": 1748249181,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26499,
+        "num": 193409,
+        "word": "以在加沙杀害一医生的9个孩子",
+        "onboard_time": 1748248882,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9937,
+        "num": 193359,
+        "word": "以阻止加沙人道援助目的",
+        "onboard_time": 1748248882,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 193349,
+        "num": 193349,
+        "word": "代拍说王鹤棣太敬业了",
+        "onboard_time": 1748248401,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183845,
+        "num": 189023,
+        "word": "何卓佳说祖国荣誉高于一切",
+        "onboard_time": 1748245821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185870,
+        "num": 185870,
+        "word": "时尚芭莎",
+        "onboard_time": 1748249062,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 178947,
+        "num": 178947,
+        "word": "藏海提灯",
+        "onboard_time": 1748245101,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178358,
+        "num": 178358,
+        "word": "孙颖莎说夺冠的路很难很难",
+        "onboard_time": 1748248521,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161860,
+        "num": 161860,
+        "word": "1岁宝宝被蚊子咬了之后",
+        "onboard_time": 1748244080,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160815,
+        "num": 160815,
+        "word": "第一次当何灵有点紧张",
+        "onboard_time": 1748246001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155793,
+        "num": 155793,
+        "word": "王楚钦说冠军不是自己就可以做到的",
+        "onboard_time": 1748249181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74456,
+        "num": 155766,
+        "word": "男子踩钉子发炎自己给自己手术",
+        "onboard_time": 1748247202,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39706,
+        "num": 155659,
+        "word": "黑豆水",
+        "onboard_time": 1748248461,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77123,
+        "num": 155444,
+        "word": "陈幸同总结多哈世乒赛",
+        "onboard_time": 1748247621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152297,
+        "num": 155372,
+        "word": "工作室回应杨紫白玉兰视后提名",
+        "onboard_time": 1748246541,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155300,
+        "num": 155300,
+        "word": "一县领证将询问登记彩礼状况",
+        "onboard_time": 1748243242,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150433,
+        "num": 150433,
+        "word": "朱媛媛留在北京胡同里的笑容",
+        "onboard_time": 1748248642,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146163,
+        "num": 146163,
+        "word": "白鹿孩子静悄悄必定在作妖",
+        "onboard_time": 1748241921,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144919,
+        "num": 144919,
+        "word": "孙颖莎比赛离不开伟大的对手",
+        "onboard_time": 1748246301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137036,
+        "num": 137036,
+        "word": "我的阿勒泰等10部剧入围白玉兰奖",
+        "onboard_time": 1748242161,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136402,
+        "num": 136402,
+        "word": "女生花14元买牛肉干花1300补牙",
+        "onboard_time": 1748245161,
+        "rank": 47,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 135951,
+        "num": 135951,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 48,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 134610,
+        "word": "在人间超前映",
+        "onboard_time": 1748249121,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平拦下的半碗剩饭#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748245897205,
+  "endTime": 1748249400603,
   "band_list": [
+    {
+      "raw_hot": 2347441,
+      "num": 2347441,
+      "word": "王楚钦世乒赛后发文",
+      "onboard_time": 1748247081,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2238121,
       "num": 2238121,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1369662,
-      "num": 428680,
+      "num": 514241,
       "word": "工资3w以下不用做情绪管理",
       "onboard_time": 1748232803,
       "rank": 14,
@@ -105,6 +113,14 @@
       "onboard_time": 1748221400,
       "rank": 10,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 976849,
+      "num": 976849,
+      "word": "朱媛媛夫妇工作室分别叫本源和本卿",
+      "onboard_time": 1748247441,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 879844,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 682605,
+      "num": 682605,
+      "word": "台积电发强硬声明",
+      "onboard_time": 1748246902,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 662095,
       "num": 307186,
       "word": "奚梦瑶丢失深蓝外套求助网友",
@@ -193,6 +217,14 @@
       "onboard_time": 1748237002,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638452,
+      "num": 638452,
+      "word": "iPhone19或迎真全面屏",
+      "onboard_time": 1748245641,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 630667,
@@ -233,6 +265,14 @@
       "onboard_time": 1748214739,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594912,
+      "num": 594912,
+      "word": "健身卡 生理期",
+      "onboard_time": 1748242520,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 585568,
@@ -284,7 +324,7 @@
     },
     {
       "raw_hot": 540232,
-      "num": 255950,
+      "num": 345602,
       "word": "上海保安月薪9000工作的一天",
       "onboard_time": 1748240962,
       "rank": 45,
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 461349,
-      "num": 254686,
+      "num": 343001,
       "word": "惠英红撕拉片",
       "onboard_time": 1748243782,
       "rank": 15,
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 446652,
-      "num": 316352,
+      "num": 406043,
       "word": "贾玲全资持股大碗娱乐",
       "onboard_time": 1748243661,
       "rank": 12,
@@ -579,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329300,
+      "num": 329300,
+      "word": "肖战新剧背带裤路透",
+      "onboard_time": 1748247081,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -667,6 +715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276490,
+      "num": 247068,
+      "word": "韩红把内娱年轻歌手都调成啥样了",
+      "onboard_time": 1748247561,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269608,
+      "num": 269608,
+      "word": "宣璐折腰金蝶覆面",
+      "onboard_time": 1748247982,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267121,
       "num": 267121,
       "word": "蔡徐坤音乐节",
@@ -689,14 +753,6 @@
       "onboard_time": 1748226800,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256987,
-      "num": 256987,
-      "word": "健身卡 生理期",
-      "onboard_time": 1748242520,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254707,
@@ -729,6 +785,14 @@
       "onboard_time": 1748226741,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245840,
+      "num": 245840,
+      "word": "王楚钦说需要感谢的实在太多",
+      "onboard_time": 1748247863,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 245593,
@@ -792,6 +856,14 @@
       "word": "巴赫对孙颖莎说保持联系",
       "onboard_time": 1748192119,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216182,
+      "num": 216182,
+      "word": "孙颖莎掌心布满拼搏的见证",
+      "onboard_time": 1748248280,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -875,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193349,
+      "num": 193349,
+      "word": "代拍说王鹤棣太敬业了",
+      "onboard_time": 1748248401,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193325,
       "num": 203125,
       "word": "朱媛媛去世为何全民哀悼",
@@ -947,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185870,
+      "num": 185870,
+      "word": "时尚芭莎",
+      "onboard_time": 1748249062,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "特朗普再威胁哈佛",
@@ -961,6 +1049,14 @@
       "onboard_time": 1748227402,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183845,
+      "num": 189023,
+      "word": "何卓佳说祖国荣誉高于一切",
+      "onboard_time": 1748245821,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182713,
@@ -1009,6 +1105,22 @@
       "onboard_time": 1748241200,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178947,
+      "num": 178947,
+      "word": "藏海提灯",
+      "onboard_time": 1748245101,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178358,
+      "num": 178358,
+      "word": "孙颖莎说夺冠的路很难很难",
+      "onboard_time": 1748248521,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 176782,
@@ -1227,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160815,
+      "num": 160815,
+      "word": "第一次当何灵有点紧张",
+      "onboard_time": 1748246001,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159799,
       "num": 159799,
       "word": "王楚钦谈双冠荣誉",
@@ -1249,6 +1369,14 @@
       "onboard_time": 1748245161,
       "rank": 34,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 155793,
+      "num": 155793,
+      "word": "王楚钦说冠军不是自己就可以做到的",
+      "onboard_time": 1748249181,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 155551,
@@ -1291,6 +1419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 152297,
+      "num": 155372,
+      "word": "工作室回应杨紫白玉兰视后提名",
+      "onboard_time": 1748246541,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150845,
       "num": 213064,
       "word": "丁禹兮中餐厅厨师服造型路透",
@@ -1299,19 +1435,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150433,
+      "num": 150433,
+      "word": "朱媛媛留在北京胡同里的笑容",
+      "onboard_time": 1748248642,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150321,
       "num": 150321,
       "word": "华为Pura80Pro配置曝光",
       "onboard_time": 1748231182,
       "rank": 44,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 149253,
-      "num": 149253,
-      "word": "iPhone19或迎真全面屏",
-      "onboard_time": 1748245641,
-      "rank": 37,
       "category": "数码"
     },
     {
@@ -1387,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144919,
+      "num": 144919,
+      "word": "孙颖莎比赛离不开伟大的对手",
+      "onboard_time": 1748246301,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143532,
       "num": 182160,
       "word": "华晨宇长春哦啦音乐节",
@@ -1451,6 +1595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 134610,
+      "num": 134610,
+      "word": "在人间超前映",
+      "onboard_time": 1748249121,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134132,
       "num": 134132,
       "word": "国乒今晚嬴麻了",
@@ -1496,22 +1648,6 @@
       "word": "白宇拍的孙颖莎王楚钦",
       "onboard_time": 1748183186,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129274,
-      "num": 129274,
-      "word": "藏海提灯",
-      "onboard_time": 1748245101,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129163,
-      "num": 129163,
-      "word": "何卓佳说祖国荣誉高于一切",
-      "onboard_time": 1748245821,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -1875,6 +2011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 85528,
+      "num": 204731,
+      "word": "这才是对于年轻人最正的人生观",
+      "onboard_time": 1748248822,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84973,
       "num": 98508,
       "word": "撒贝宁王安宇肉眼可见紧张了",
@@ -1945,6 +2089,22 @@
       "onboard_time": 1748240542,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 77123,
+      "num": 155444,
+      "word": "陈幸同总结多哈世乒赛",
+      "onboard_time": 1748247621,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74456,
+      "num": 155766,
+      "word": "男子踩钉子发炎自己给自己手术",
+      "onboard_time": 1748247202,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73791,
@@ -2033,6 +2193,14 @@
       "onboard_time": 1748242341,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54106,
+      "num": 548549,
+      "word": "高层小区电梯老龄化问题何解",
+      "onboard_time": 1748249001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53992,
@@ -2155,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39706,
+      "num": 155659,
+      "word": "黑豆水",
+      "onboard_time": 1748248461,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39310,
       "num": 341611,
       "word": "空腹断食42小时代谢会有什么变化",
@@ -2203,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37292,
+      "num": 247933,
+      "word": "福建舰加紧海试释放出哪些信号",
+      "onboard_time": 1748248280,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33566,
       "num": 191479,
       "word": "特朗普在网上攻击哈佛",
@@ -2249,6 +2433,22 @@
       "onboard_time": 1748239880,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26499,
+      "num": 193409,
+      "word": "以在加沙杀害一医生的9个孩子",
+      "onboard_time": 1748248882,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25560,
+      "num": 194129,
+      "word": "IP经济概念持续活跃",
+      "onboard_time": 1748249181,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 24369,
@@ -2337,6 +2537,14 @@
       "onboard_time": 1748240781,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9937,
+      "num": 193359,
+      "word": "以阻止加沙人道援助目的",
+      "onboard_time": 1748248882,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 9220,
