@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748259475715,
+  "endTime": 1748263819863,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -227,12 +227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1370332,
+      "num": 1370332,
+      "word": "5元自助快餐店因一条差评火了",
+      "onboard_time": 1748258661,
+      "rank": 31,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1369662,
       "num": 514241,
       "word": "工资3w以下不用做情绪管理",
       "onboard_time": 1748232803,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1348751,
+      "num": 639029,
+      "word": "贾斯汀比伯告白女网红",
+      "onboard_time": 1748262383,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1340021,
@@ -611,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745012,
+      "num": 456879,
+      "word": "遇害海归女母亲曾提醒其注意江歌案",
+      "onboard_time": 1748259623,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 744938,
       "num": 698824,
       "word": "王楚钦夺冠后肖指导哭成了小孩",
@@ -689,6 +713,14 @@
       "onboard_time": 1748144901,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 651700,
+      "num": 651700,
+      "word": "包文婧为二胎放弃女一号",
+      "onboard_time": 1748259262,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 647896,
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498417,
+      "num": 456289,
+      "word": "肖战直播",
+      "onboard_time": 1748260522,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495114,
       "num": 495114,
       "word": "藏海跪太快镜头差点没跟上",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1748189841,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 478174,
+      "num": 478174,
+      "word": "专升本培训花近2万数学只考15分",
+      "onboard_time": 1748258901,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474131,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1748233822,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438451,
+      "num": 438451,
+      "word": "not in",
+      "onboard_time": 1748261483,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 433879,
@@ -1283,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405842,
+      "num": 405842,
+      "word": "66岁大爷挖鼻孔致满脸肿胀变形",
+      "onboard_time": 1748261721,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404563,
       "num": 602946,
       "word": "官方通报网传女子领低保炒股",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1748242401,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382906,
+      "num": 382906,
+      "word": "林俊杰北京抢票",
+      "onboard_time": 1748261721,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 378121,
@@ -1539,6 +1611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346377,
+      "num": 346377,
+      "word": "永容王爷 吓人",
+      "onboard_time": 1748262442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346067,
+      "num": 346067,
+      "word": "蛮蛮一劭圆房被打断",
+      "onboard_time": 1748258183,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345825,
       "num": 426260,
       "word": "颁奖典礼上的王楚钦孙颖莎",
@@ -1595,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326509,
-      "num": 326509,
-      "word": "包文婧为二胎放弃女一号",
-      "onboard_time": 1748259262,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324296,
       "num": 324296,
       "word": "全国ATM机只剩80万台",
@@ -1625,6 +1705,14 @@
       "onboard_time": 1748131879,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320205,
+      "num": 270239,
+      "word": "林俊杰北京",
+      "onboard_time": 1748261241,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 317463,
@@ -1723,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303224,
-      "num": 303224,
-      "word": "5元自助快餐店因一条差评火了",
-      "onboard_time": 1748258661,
-      "rank": 31,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 302567,
       "num": 302567,
       "word": "金靖说在刘宇宁身上看到了自己",
@@ -1825,6 +1905,14 @@
       "onboard_time": 1748251523,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294724,
+      "num": 294724,
+      "word": "知网一论文下载95万次0次引用遭质疑",
+      "onboard_time": 1748262921,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293131,
@@ -2075,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255288,
+      "num": 255288,
+      "word": "九尾红发",
+      "onboard_time": 1748262442,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255274,
       "num": 204627,
       "word": "教师因未发福利讲课3分钟就放电影",
@@ -2105,14 +2201,6 @@
       "onboard_time": 1748098825,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251862,
-      "num": 320714,
-      "word": "蛮蛮一劭圆房被打断",
-      "onboard_time": 1748258183,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 251626,
@@ -2244,7 +2332,7 @@
     },
     {
       "raw_hot": 238776,
-      "num": 243531,
+      "num": 316922,
       "word": "肥娟夫妇取消请1000位网友参加婚礼",
       "onboard_time": 1748256501,
       "rank": 24,
@@ -2579,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203853,
+      "num": 203853,
+      "word": "KPL夏季赛第一轮赛程公布",
+      "onboard_time": 1748263101,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203791,
       "num": 203791,
       "word": "耐高",
@@ -2729,6 +2825,14 @@
       "onboard_time": 1748165061,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196754,
+      "num": 196754,
+      "word": "奴奴荼荼",
+      "onboard_time": 1748263282,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 196704,
@@ -2897,6 +3001,22 @@
       "onboard_time": 1748254102,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190744,
+      "num": 190744,
+      "word": "现实中真正的漂亮",
+      "onboard_time": 1748259562,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 190610,
+      "num": 190610,
+      "word": "闫妮白玉兰七提",
+      "onboard_time": 1748263342,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 190493,
@@ -3073,6 +3193,14 @@
       "onboard_time": 1748232624,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181914,
+      "num": 181914,
+      "word": "抢labubu",
+      "onboard_time": 1748259322,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 181189,
@@ -3523,14 +3651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168376,
-      "num": 168376,
-      "word": "抢labubu",
-      "onboard_time": 1748259322,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 168156,
       "num": 168156,
       "word": "仙逆",
@@ -3593,6 +3713,14 @@
       "onboard_time": 1748189781,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166619,
+      "num": 166619,
+      "word": "折腰作妖男女顶疯相见",
+      "onboard_time": 1748262202,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 166604,
@@ -3673,6 +3801,14 @@
       "onboard_time": 1748239402,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164552,
+      "num": 164552,
+      "word": "藏海传28.2%登顶",
+      "onboard_time": 1748259982,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164525,
@@ -3785,6 +3921,14 @@
       "onboard_time": 1748246001,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160763,
+      "num": 160763,
+      "word": "上海地铁上踹人女子未成年已罚款",
+      "onboard_time": 1748260282,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160449,
@@ -3904,6 +4048,14 @@
       "word": "森林狼1比2雷霆",
       "onboard_time": 1748142621,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156939,
+      "num": 156939,
+      "word": "牛冠凯展示王楚钦的两块金牌",
+      "onboard_time": 1748263702,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -4971,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122002,
+      "num": 271985,
+      "word": "陈芋汐掌敏洁双人10米台夺冠",
+      "onboard_time": 1748262862,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121812,
       "num": 121812,
       "word": "榴莲又便宜了",
@@ -6003,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78928,
+      "num": 172271,
+      "word": "张凌赫未公开童年照",
+      "onboard_time": 1748262383,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78773,
       "num": 191678,
       "word": "国产手机壳进化到这个地步了吗",
@@ -6041,6 +6209,14 @@
       "onboard_time": 1748181806,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 77503,
+      "num": 407380,
+      "word": "淘宝闪购日单量超4000万",
+      "onboard_time": 1748260882,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 77127,
@@ -6097,14 +6273,6 @@
       "onboard_time": 1748179224,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 72788,
-      "num": 422742,
-      "word": "专升本培训花近2万数学只考15分",
-      "onboard_time": 1748258901,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72771,
@@ -6200,6 +6368,14 @@
       "word": "央美毕业展多件作品疑被熊孩子损坏",
       "onboard_time": 1748258842,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66965,
+      "num": 382917,
+      "word": "公安回应陕西失踪3岁半女童新线索",
+      "onboard_time": 1748262323,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6552,6 +6728,14 @@
       "word": "旅日熊猫良浜将带3个幼崽回国",
       "onboard_time": 1748257822,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44700,
+      "num": 282917,
+      "word": "日巡3万步的保洁员停下说话都被罚",
+      "onboard_time": 1748262622,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6947,6 +7131,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 28033,
+      "num": 279597,
+      "word": "毕业论文答辩时的表情",
+      "onboard_time": 1748262744,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 27883,
       "num": 269192,
       "word": "外卖盒装热食有哪些危害",
@@ -7267,6 +7459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15330,
+      "num": 287127,
+      "word": "不要美化自己没走过的路",
+      "onboard_time": 1748262683,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14931,
       "num": 54421,
       "word": "伴郎抢手捧花送女朋友没想到跪错了人",
@@ -7337,6 +7537,14 @@
       "onboard_time": 1748125217,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12118,
+      "num": 383378,
+      "word": "哪些睡姿会导致腰背痛影响脊柱健康",
+      "onboard_time": 1748263042,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11591,
@@ -7457,6 +7665,14 @@
       "onboard_time": 1748186184,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5880,
+      "num": 293556,
+      "word": "如何参与影人破幕计划",
+      "onboard_time": 1748263643,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 4634,
