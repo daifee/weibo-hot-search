@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748274101665,
+  "endTime": 1748277058176,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 765571,
+      "num": 888116,
+      "word": "特朗普威胁苹果时iPhone响了",
+      "onboard_time": 1748272941,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 763949,
       "num": 763949,
       "word": "戛纳召回",
@@ -1091,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 535529,
+      "num": 535529,
+      "word": "王健林已被冻结4.9亿股权",
+      "onboard_time": 1748270843,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 535006,
       "num": 687965,
       "word": "37岁女子福建爬山拍照时坠崖身亡",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1748269344,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502114,
+      "num": 502114,
+      "word": "马克龙回应专机上被妻子推搡",
+      "onboard_time": 1748273601,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 500924,
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370649,
+      "num": 394074,
+      "word": "女子家门口遇害后母亲一夜白头",
+      "onboard_time": 1748272223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370526,
       "num": 370526,
       "word": "肖战指导发图",
@@ -1795,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333475,
-      "num": 448248,
-      "word": "王健林已被冻结4.9亿股权",
-      "onboard_time": 1748270843,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 324296,
       "num": 324296,
       "word": "全国ATM机只剩80万台",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1748139560,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297591,
-      "num": 394074,
-      "word": "女子家门口遇害后母亲一夜白头",
-      "onboard_time": 1748272223,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297321,
@@ -2569,14 +2585,6 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224624,
-      "num": 492008,
-      "word": "特朗普威胁苹果时iPhone响了",
-      "onboard_time": 1748272941,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 222410,
@@ -4819,6 +4827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143596,
+      "num": 143596,
+      "word": "肖战回复周奇莫辜负",
+      "onboard_time": 1748275101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143532,
       "num": 182160,
       "word": "华晨宇长春哦啦音乐节",
@@ -5313,6 +5329,14 @@
       "onboard_time": 1748103441,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129250,
+      "num": 129250,
+      "word": "宋威龙好帅",
+      "onboard_time": 1748274501,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 129118,
@@ -5947,6 +5971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108898,
+      "num": 108898,
+      "word": "王宝强晒粉丝手写信",
+      "onboard_time": 1748275820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108487,
       "num": 108487,
       "word": "王曼昱说女双决赛比女单更关键",
@@ -6291,6 +6323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94910,
+      "num": 94910,
+      "word": "刘若英演唱会两姐妹点歌",
+      "onboard_time": 1748275280,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94425,
       "num": 94425,
       "word": "会谈恋爱是一种天分",
@@ -6385,6 +6425,14 @@
       "onboard_time": 1748269824,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88357,
+      "num": 88357,
+      "word": "做藏海的狗",
+      "onboard_time": 1748276300,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 88158,
@@ -6585,6 +6633,14 @@
       "onboard_time": 1748244561,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79574,
+      "num": 76353,
+      "word": "藏海杨真附体了",
+      "onboard_time": 1748275041,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 79534,
@@ -6859,6 +6915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64891,
+      "num": 64891,
+      "word": "花6000元穷游了日本14天",
+      "onboard_time": 1748274862,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 63223,
       "num": 230752,
       "word": "官方通报城管商贩冲突大量群众围观",
@@ -6955,12 +7019,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58528,
+      "num": 58528,
+      "word": "挣钱最不容易的就是摄影师了",
+      "onboard_time": 1748273242,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58508,
       "num": 85431,
       "word": "章昊cha了IAN进行曲",
       "onboard_time": 1748191999,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 57911,
+      "num": 57911,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57909,
@@ -7408,14 +7488,6 @@
       "word": "哈佛禁招令会影响比利时公主求学吗",
       "onboard_time": 1748163680,
       "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 37468,
-      "num": 178249,
-      "word": "马克龙回应专机上被妻子推搡",
-      "onboard_time": 1748273601,
-      "rank": 29,
       "category": "国际时政"
     },
     {

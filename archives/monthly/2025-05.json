@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748274101665,
+  "endTime": 1748277058176,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -7803,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765571,
+      "num": 888116,
+      "word": "特朗普威胁苹果时iPhone响了",
+      "onboard_time": 1748272941,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 765429,
       "num": 765429,
       "word": "白敬亭潮牌回应质量问题",
@@ -12843,6 +12851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535529,
+      "num": 535529,
+      "word": "王健林已被冻结4.9亿股权",
+      "onboard_time": 1748270843,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 535319,
       "num": 535319,
       "word": "徐艺洋回应网友关于卫生巾质疑",
@@ -13769,6 +13785,14 @@
       "onboard_time": 1747783580,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502114,
+      "num": 502114,
+      "word": "马克龙回应专机上被妻子推搡",
+      "onboard_time": 1748273601,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 501731,
@@ -18987,6 +19011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 370649,
+      "num": 394074,
+      "word": "女子家门口遇害后母亲一夜白头",
+      "onboard_time": 1748272223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370537,
       "num": 246803,
       "word": "本科生14篇SCI论文疑与其父相关",
@@ -21017,14 +21049,6 @@
       "onboard_time": 1748054841,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333475,
-      "num": 448248,
-      "word": "王健林已被冻结4.9亿股权",
-      "onboard_time": 1748270843,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 333466,
@@ -23457,14 +23481,6 @@
       "onboard_time": 1746500001,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297591,
-      "num": 394074,
-      "word": "女子家门口遇害后母亲一夜白头",
-      "onboard_time": 1748272223,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 297403,
@@ -30793,14 +30809,6 @@
       "onboard_time": 1747976785,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224624,
-      "num": 492008,
-      "word": "特朗普威胁苹果时iPhone响了",
-      "onboard_time": 1748272941,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 224564,
@@ -57963,6 +57971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143596,
+      "num": 143596,
+      "word": "肖战回复周奇莫辜负",
+      "onboard_time": 1748275101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143582,
       "num": 143582,
       "word": "上门做饭月薪近2万女子再谈现状",
@@ -64225,6 +64241,14 @@
       "onboard_time": 1748086523,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129250,
+      "num": 129250,
+      "word": "宋威龙好帅",
+      "onboard_time": 1748274501,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 129249,
@@ -72203,6 +72227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108898,
+      "num": 108898,
+      "word": "王宝强晒粉丝手写信",
+      "onboard_time": 1748275820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108890,
       "num": 108890,
       "word": "张云龙自控式演技",
@@ -76043,6 +76075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94910,
+      "num": 94910,
+      "word": "刘若英演唱会两姐妹点歌",
+      "onboard_time": 1748275280,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94888,
       "num": 503529,
       "word": "5月15日起央行降准0.5个百分点",
@@ -77521,6 +77561,14 @@
       "onboard_time": 1746457643,
       "rank": 13,
       "category": "国际时政,电影"
+    },
+    {
+      "raw_hot": 88357,
+      "num": 88357,
+      "word": "做藏海的狗",
+      "onboard_time": 1748276300,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 88344,
@@ -79809,6 +79857,14 @@
       "onboard_time": 1747656742,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79574,
+      "num": 76353,
+      "word": "藏海杨真附体了",
+      "onboard_time": 1748275041,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 79563,
@@ -83139,6 +83195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 64891,
+      "num": 64891,
+      "word": "花6000元穷游了日本14天",
+      "onboard_time": 1748274862,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 64831,
       "num": 203951,
       "word": "男子实名举报村支书两度殴打其父",
@@ -84715,6 +84779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 58528,
+      "num": 58528,
+      "word": "挣钱最不容易的就是摄影师了",
+      "onboard_time": 1748273242,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58508,
       "num": 85431,
       "word": "章昊cha了IAN进行曲",
@@ -84849,6 +84921,14 @@
       "onboard_time": 1747766775,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57911,
+      "num": 57911,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57909,
@@ -90761,14 +90841,6 @@
       "onboard_time": 1747204703,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37468,
-      "num": 178249,
-      "word": "马克龙回应专机上被妻子推搡",
-      "onboard_time": 1748273601,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37442,
