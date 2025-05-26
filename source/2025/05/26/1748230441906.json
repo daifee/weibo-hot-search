@@ -1,0 +1,410 @@
+{
+  "runTime": 1748230441906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1779887,
+        "num": 1779887,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1265349,
+        "num": 1265349,
+        "word": "蟑螂咬人",
+        "onboard_time": 1748227942,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 56296,
+        "num": 1220808,
+        "word": "美国90%圣诞用品来自中国制造",
+        "onboard_time": 1748180370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1188124,
+        "num": 1188124,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 3,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 609521,
+        "num": 609521,
+        "word": "艾福杰尼当爸",
+        "onboard_time": 1748229501,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516287,
+        "num": 516287,
+        "word": "空腹断食42小时的变化",
+        "onboard_time": 1748222302,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474814,
+        "num": 474814,
+        "word": "夫妻俩在加沙救人9个孩子却被炸死",
+        "onboard_time": 1748223620,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429771,
+        "num": 429771,
+        "word": "恋与深空",
+        "onboard_time": 1748229081,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423681,
+        "num": 423681,
+        "word": "六小龄童回应孙悟空林黛玉cp爆火",
+        "onboard_time": 1748228001,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1468490,
+        "num": 419511,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686798,
+        "num": 419060,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 10,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 521865,
+        "num": 417169,
+        "word": "张小婉左凌峰还在一起",
+        "onboard_time": 1748230101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412858,
+        "num": 412858,
+        "word": "蛋 宁碎不翻",
+        "onboard_time": 1748223562,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409526,
+        "num": 409526,
+        "word": "王楚钦夺冠后肖指导哭成了小孩",
+        "onboard_time": 1748223141,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297321,
+        "num": 361881,
+        "word": "中石油下属子公司组织团购房烂尾",
+        "onboard_time": 1748226741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344662,
+        "num": 344662,
+        "word": "肖战解析藏海传细节",
+        "onboard_time": 1748227402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147989,
+        "num": 343998,
+        "word": "浙江台州一烈士纪念设施遭人为破坏",
+        "onboard_time": 1748230101,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288563,
+        "num": 343367,
+        "word": "王楚然说同意沙溢帅气请呼吸",
+        "onboard_time": 1748226441,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274800,
+        "num": 342506,
+        "word": "新说唱2025导师官宣",
+        "onboard_time": 1748229021,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39310,
+        "num": 341611,
+        "word": "空腹断食42小时代谢会有什么变化",
+        "onboard_time": 1748229382,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419768,
+        "num": 340784,
+        "word": "雨果自曝输球原因",
+        "onboard_time": 1748226620,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361278,
+        "num": 340081,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748224460,
+        "rank": 21,
+        "category": "美妆,体育"
+      },
+      {
+        "raw_hot": 339531,
+        "num": 339531,
+        "word": "巴赫说孙颖莎是一位伟大的冠军",
+        "onboard_time": 1748223920,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288303,
+        "num": 288303,
+        "word": "赵丽颖杨幂Angelababy活动生图",
+        "onboard_time": 1748193917,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179734,
+        "num": 261115,
+        "word": "尼克斯1比2步行者",
+        "onboard_time": 1748228781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63926,
+        "num": 254796,
+        "word": "6.8元网购10斤花生米到手只有10粒",
+        "onboard_time": 1748230162,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254707,
+        "num": 254707,
+        "word": "披荆斩棘",
+        "onboard_time": 1748227762,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251414,
+        "num": 251414,
+        "word": "李沐宸对公开恋情的态度",
+        "onboard_time": 1748214739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237286,
+        "num": 237286,
+        "word": "周深时间之子主题曲MV",
+        "onboard_time": 1748226741,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205460,
+        "num": 205460,
+        "word": "弃考被救同学系心源性猝死抢救成功",
+        "onboard_time": 1748227221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257237,
+        "num": 202583,
+        "word": "下山回家偶遇赵丽颖",
+        "onboard_time": 1748226800,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249206,
+        "num": 198898,
+        "word": "王楚钦孙颖莎还未确定能获得复刻杯",
+        "onboard_time": 1748228481,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62289,
+        "num": 194260,
+        "word": "如何判断手串是否有辐射隐患",
+        "onboard_time": 1748230342,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237268,
+        "num": 192863,
+        "word": "折腰更猛的来了",
+        "onboard_time": 1748229742,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189501,
+        "num": 189501,
+        "word": "王楚钦世乒赛单项6冠领跑现役男乒",
+        "onboard_time": 1748227942,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186024,
+        "num": 186024,
+        "word": "朝鲜军需工业部副部长被拘留",
+        "onboard_time": 1748223260,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49675,
+        "num": 185074,
+        "word": "李书福示范全家出行的正确方式",
+        "onboard_time": 1748230402,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184369,
+        "num": 184369,
+        "word": "新说唱",
+        "onboard_time": 1748226260,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184177,
+        "num": 184177,
+        "word": "公职人员出差周末自费旅游算违纪吗",
+        "onboard_time": 1748187864,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 183970,
+        "word": "藏海站在副本入口以为是主线终点",
+        "onboard_time": 1748229742,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183882,
+        "num": 183882,
+        "word": "李斯特菌",
+        "onboard_time": 1748228062,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181099,
+        "num": 181099,
+        "word": "教育具有长期性和滞后性",
+        "onboard_time": 1748229200,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174586,
+        "num": 174586,
+        "word": "白宫国安委涉华事务人员几乎全被裁",
+        "onboard_time": 1748227402,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173729,
+        "num": 173729,
+        "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
+        "onboard_time": 1748225301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168214,
+        "num": 168214,
+        "word": "李乃文喊话辛柏青有我们",
+        "onboard_time": 1748193077,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167594,
+        "num": 167594,
+        "word": "郑钦文说不喜欢男陪练让着自己",
+        "onboard_time": 1748229982,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159571,
+        "num": 159571,
+        "word": "一觉醒来还在为世乒赛4冠骄傲",
+        "onboard_time": 1748218340,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156580,
+        "num": 156580,
+        "word": "李昀锐换头像的原因",
+        "onboard_time": 1748226501,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 155077,
+        "word": "百万存款3年利息从10.5万缩至3.9万",
+        "onboard_time": 1748226620,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151719,
+        "num": 151719,
+        "word": "王楚钦机场偶遇安宰贤",
+        "onboard_time": 1748230402,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调要有新气象新作为#"
+    }
+  }
+}

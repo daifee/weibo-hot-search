@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748229752679,
+  "endTime": 1748230441906,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1468490,
+      "num": 1337422,
+      "word": "女子怀孕37周因吃冷藏食品流产",
+      "onboard_time": 1748226681,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1433452,
       "num": 1433452,
       "word": "谍报上不封顶女主",
@@ -179,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1337422,
-      "num": 1337422,
-      "word": "女子怀孕37周因吃冷藏食品流产",
-      "onboard_time": 1748226681,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1294456,
       "num": 1294456,
       "word": "叶童终止新白娘子传奇演唱会",
@@ -201,6 +201,14 @@
       "onboard_time": 1748105899,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1265349,
+      "num": 1265349,
+      "word": "蟑螂咬人",
+      "onboard_time": 1748227942,
+      "rank": 4,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1239916,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 997800,
-      "num": 406666,
+      "num": 419060,
       "word": "Angelababy带着早期混血感回来了",
       "onboard_time": 1748221400,
       "rank": 10,
@@ -523,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 714215,
-      "num": 714215,
-      "word": "蟑螂咬人",
-      "onboard_time": 1748227942,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 699100,
       "num": 699100,
       "word": "郑钦文恭喜王楚钦",
@@ -625,6 +625,14 @@
       "onboard_time": 1748145500,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609521,
+      "num": 609521,
+      "word": "艾福杰尼当爸",
+      "onboard_time": 1748229501,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 600854,
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 521865,
+      "num": 417169,
+      "word": "张小婉左凌峰还在一起",
+      "onboard_time": 1748230101,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518818,
       "num": 1136360,
       "word": "刘端端演技",
@@ -907,6 +923,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429771,
+      "num": 429771,
+      "word": "恋与深空",
+      "onboard_time": 1748229081,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 423681,
+      "num": 423681,
+      "word": "六小龄童回应孙悟空林黛玉cp爆火",
+      "onboard_time": 1748228001,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 419768,
+      "num": 340784,
+      "word": "雨果自曝输球原因",
+      "onboard_time": 1748226620,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419736,
       "num": 419736,
       "word": "南通地震",
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 419530,
-      "num": 357195,
+      "num": 412858,
       "word": "蛋 宁碎不翻",
       "onboard_time": 1748223562,
       "rank": 30,
@@ -1000,14 +1040,6 @@
       "word": "白宇拍的孙颖莎王楚钦",
       "onboard_time": 1748183186,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377063,
-      "num": 275263,
-      "word": "雨果自曝输球原因",
-      "onboard_time": 1748226620,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361278,
+      "num": 345802,
+      "word": "蜜丝婷 王楚钦",
+      "onboard_time": 1748224460,
+      "rank": 22,
+      "category": "美妆,体育"
+    },
+    {
       "raw_hot": 358130,
       "num": 358130,
       "word": "女子因丧事在平台申请退机票被拒",
@@ -1155,12 +1195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345802,
-      "num": 345802,
-      "word": "蜜丝婷 王楚钦",
-      "onboard_time": 1748224460,
-      "rank": 22,
-      "category": "美妆,体育"
+      "raw_hot": 344662,
+      "num": 360885,
+      "word": "肖战解析藏海传细节",
+      "onboard_time": 1748227402,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 342800,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1748107698,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313540,
-      "num": 392482,
-      "word": "六小龄童回应孙悟空林黛玉cp爆火",
-      "onboard_time": 1748228001,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 313118,
@@ -1339,16 +1371,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296304,
-      "num": 360885,
-      "word": "肖战解析藏海传细节",
-      "onboard_time": 1748227402,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 297321,
+      "num": 361881,
+      "word": "中石油下属子公司组织团购房烂尾",
+      "onboard_time": 1748226741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295854,
-      "num": 295854,
+      "num": 343367,
       "word": "王楚然说同意沙溢帅气请呼吸",
       "onboard_time": 1748226441,
       "rank": 15,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1748150540,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274800,
+      "num": 342506,
+      "word": "新说唱2025导师官宣",
+      "onboard_time": 1748229021,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 273715,
@@ -1499,19 +1539,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261567,
-      "num": 261567,
-      "word": "恋与深空",
-      "onboard_time": 1748229081,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 258465,
       "num": 260218,
       "word": "费曼回应近照争议",
       "onboard_time": 1748149942,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257237,
+      "num": 233472,
+      "word": "下山回家偶遇赵丽颖",
+      "onboard_time": 1748226800,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1521,6 +1561,14 @@
       "onboard_time": 1748093725,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254707,
+      "num": 254707,
+      "word": "披荆斩棘",
+      "onboard_time": 1748227762,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 253911,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1748164462,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249206,
+      "num": 198898,
+      "word": "王楚钦孙颖莎还未确定能获得复刻杯",
+      "onboard_time": 1748228481,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 248829,
@@ -1643,12 +1699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233472,
-      "num": 233472,
-      "word": "下山回家偶遇赵丽颖",
-      "onboard_time": 1748226800,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 237268,
+      "num": 192863,
+      "word": "折腰更猛的来了",
+      "onboard_time": 1748229742,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 232061,
@@ -1763,14 +1819,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 213604,
-      "num": 213604,
-      "word": "艾福杰尼当爸",
-      "onboard_time": 1748229501,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213420,
       "num": 213420,
       "word": "敖瑞鹏联系最多的圈内好友是白鹿",
@@ -1857,6 +1905,14 @@
       "onboard_time": 1748179951,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205460,
+      "num": 205460,
+      "word": "弃考被救同学系心源性猝死抢救成功",
+      "onboard_time": 1748227221,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205411,
@@ -2019,14 +2075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195888,
-      "num": 206822,
-      "word": "新说唱2025导师官宣",
-      "onboard_time": 1748229021,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195400,
       "num": 195400,
       "word": "章若楠说范丞丞是跑男新生代导演",
@@ -2131,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190020,
-      "num": 205442,
-      "word": "披荆斩棘",
-      "onboard_time": 1748227762,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189754,
       "num": 189754,
       "word": "严浩翔来新说唱听新声音",
@@ -2188,7 +2228,7 @@
     },
     {
       "raw_hot": 187472,
-      "num": 200363,
+      "num": 261115,
       "word": "尼克斯1比2步行者",
       "onboard_time": 1748228781,
       "rank": 31,
@@ -2235,14 +2275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183612,
-      "num": 183612,
-      "word": "王楚钦孙颖莎还未确定能获得复刻杯",
-      "onboard_time": 1748228481,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182577,
       "num": 182577,
       "word": "王楚钦说混双夺冠后先不庆祝",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1748168361,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181099,
+      "num": 181099,
+      "word": "教育具有长期性和滞后性",
+      "onboard_time": 1748229200,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 180879,
@@ -2331,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177927,
-      "num": 204544,
-      "word": "弃考被救同学系心源性猝死抢救成功",
-      "onboard_time": 1748227221,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177365,
       "num": 177365,
       "word": "韶华若锦",
@@ -2361,14 +2393,6 @@
       "onboard_time": 1748181205,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176921,
-      "num": 176921,
-      "word": "教育具有长期性和滞后性",
-      "onboard_time": 1748229200,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 176904,
@@ -2403,12 +2427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175870,
-      "num": 307196,
-      "word": "中石油下属子公司组织团购房烂尾",
-      "onboard_time": 1748226741,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 175025,
+      "num": 183970,
+      "word": "藏海站在副本入口以为是主线终点",
+      "onboard_time": 1748229742,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 174795,
@@ -2449,6 +2473,14 @@
       "onboard_time": 1748177541,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173729,
+      "num": 173729,
+      "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
+      "onboard_time": 1748225301,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173713,
@@ -2497,14 +2529,6 @@
       "onboard_time": 1748100743,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171726,
-      "num": 171726,
-      "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
-      "onboard_time": 1748225301,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170940,
@@ -2577,6 +2601,14 @@
       "onboard_time": 1748186603,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167594,
+      "num": 167594,
+      "word": "郑钦文说不喜欢男陪练让着自己",
+      "onboard_time": 1748229982,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167335,
@@ -2843,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155077,
+      "num": 155077,
+      "word": "百万存款3年利息从10.5万缩至3.9万",
+      "onboard_time": 1748226620,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154970,
       "num": 154970,
       "word": "户上隼辅篠塚大登3比2林昀儒高承睿",
@@ -2891,12 +2931,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152116,
-      "num": 152116,
-      "word": "折腰更猛的来了",
-      "onboard_time": 1748229742,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 151719,
+      "num": 151719,
+      "word": "王楚钦机场偶遇安宰贤",
+      "onboard_time": 1748230402,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 150845,
@@ -2923,22 +2963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149234,
-      "num": 149234,
-      "word": "藏海站在副本入口以为是主线终点",
-      "onboard_time": 1748229742,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 148817,
-      "num": 148817,
-      "word": "百万存款3年利息从10.5万缩至3.9万",
-      "onboard_time": 1748226620,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148628,
       "num": 174085,
       "word": "邓紫棋硬核控雨",
@@ -2953,6 +2977,14 @@
       "onboard_time": 1748148201,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147989,
+      "num": 343998,
+      "word": "浙江台州一烈士纪念设施遭人为破坏",
+      "onboard_time": 1748230101,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147204,
@@ -4571,6 +4603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63926,
+      "num": 254796,
+      "word": "6.8元网购10斤花生米到手只有10粒",
+      "onboard_time": 1748230162,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63223,
       "num": 230752,
       "word": "官方通报城管商贩冲突大量群众围观",
@@ -4585,6 +4625,14 @@
       "onboard_time": 1748128157,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62289,
+      "num": 194260,
+      "word": "如何判断手串是否有辐射隐患",
+      "onboard_time": 1748230342,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 61938,
@@ -4673,6 +4721,14 @@
       "onboard_time": 1748192058,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49675,
+      "num": 185074,
+      "word": "李书福示范全家出行的正确方式",
+      "onboard_time": 1748230402,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 49211,
@@ -4867,6 +4923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39310,
+      "num": 341611,
+      "word": "空腹断食42小时代谢会有什么变化",
+      "onboard_time": 1748229382,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38430,
       "num": 84992,
       "word": "KPL温暖的大家庭",
@@ -5048,14 +5112,6 @@
       "word": "带状疱疹的黄金治疗期该如何治疗",
       "onboard_time": 1748145741,
       "rank": 18,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28862,
-      "num": 278921,
-      "word": "空腹断食42小时代谢会有什么变化",
-      "onboard_time": 1748229382,
-      "rank": 19,
       "category": "健康医疗"
     },
     {
