@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748226329702,
+  "endTime": 1748229752679,
   "band_list": [
     {
       "raw_hot": 2132154,
@@ -17,6 +17,14 @@
       "onboard_time": 1748221999,
       "rank": 0,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1337422,
+      "num": 1337422,
+      "word": "女子怀孕37周因吃冷藏食品流产",
+      "onboard_time": 1748226681,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1193417,
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714215,
+      "num": 714215,
+      "word": "蟑螂咬人",
+      "onboard_time": 1748227942,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 630667,
       "num": 630667,
       "word": "美国女主播羊水破裂坚持播3小时节目",
@@ -155,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511019,
-      "num": 511019,
+      "raw_hot": 550184,
+      "num": 550184,
       "word": "夫妻俩在加沙救人9个孩子却被炸死",
       "onboard_time": 1748223620,
       "rank": 8,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419530,
+      "num": 357195,
+      "word": "蛋 宁碎不翻",
+      "onboard_time": 1748223562,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410802,
       "num": 410802,
       "word": "杨颖好权威的一张脸",
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 377063,
+      "num": 275263,
+      "word": "雨果自曝输球原因",
+      "onboard_time": 1748226620,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372830,
       "num": 410369,
       "word": "朝鲜军需工业部副部长被拘留",
@@ -283,6 +315,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352330,
+      "num": 352330,
+      "word": "巴赫说孙颖莎是一位伟大的冠军",
+      "onboard_time": 1748223920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 345802,
+      "num": 345802,
+      "word": "蜜丝婷 王楚钦",
+      "onboard_time": 1748224460,
+      "rank": 22,
+      "category": "美妆,体育"
+    },
+    {
       "raw_hot": 332403,
       "num": 332403,
       "word": "孙颖莎哭了",
@@ -291,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321971,
-      "num": 321971,
-      "word": "蛋 宁碎不翻",
-      "onboard_time": 1748223562,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
       "onboard_time": 1748214678,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 313540,
+      "num": 392482,
+      "word": "六小龄童回应孙悟空林黛玉cp爆火",
+      "onboard_time": 1748228001,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 312506,
@@ -323,12 +371,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267749,
-      "num": 267749,
-      "word": "蜜丝婷 王楚钦",
-      "onboard_time": 1748224460,
+      "raw_hot": 296304,
+      "num": 360885,
+      "word": "肖战解析藏海传细节",
+      "onboard_time": 1748227402,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295854,
+      "num": 295854,
+      "word": "王楚然说同意沙溢帅气请呼吸",
+      "onboard_time": 1748226441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261567,
+      "num": 261567,
+      "word": "恋与深空",
+      "onboard_time": 1748229081,
       "rank": 22,
-      "category": "美妆,体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 253159,
@@ -339,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248829,
+      "num": 283672,
+      "word": "周深时间之子主题曲MV",
+      "onboard_time": 1748226741,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239771,
       "num": 239771,
       "word": "邓亚萍发文祝贺王曼昱蒯曼",
       "onboard_time": 1748189781,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233472,
+      "num": 233472,
+      "word": "下山回家偶遇赵丽颖",
+      "onboard_time": 1748226800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 227114,
@@ -379,12 +459,20 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 206533,
-      "num": 206533,
-      "word": "巴赫说孙颖莎是一位伟大的冠军",
-      "onboard_time": 1748223920,
+      "raw_hot": 213604,
+      "num": 213604,
+      "word": "艾福杰尼当爸",
+      "onboard_time": 1748229501,
       "rank": 24,
-      "category": "体育"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207314,
+      "num": 207314,
+      "word": "新说唱",
+      "onboard_time": 1748226260,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206399,
@@ -403,12 +491,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198389,
+      "num": 205911,
+      "word": "李斯特菌",
+      "onboard_time": 1748228062,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197762,
+      "num": 197762,
+      "word": "王楚钦世乒赛单项6冠领跑现役男乒",
+      "onboard_time": 1748227942,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195888,
+      "num": 206822,
+      "word": "新说唱2025导师官宣",
+      "onboard_time": 1748229021,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193325,
       "num": 203125,
       "word": "朱媛媛去世为何全民哀悼",
       "onboard_time": 1748214739,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190020,
+      "num": 205442,
+      "word": "披荆斩棘",
+      "onboard_time": 1748227762,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189754,
+      "num": 189754,
+      "word": "严浩翔来新说唱听新声音",
+      "onboard_time": 1748228903,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 188466,
@@ -419,12 +547,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187472,
+      "num": 200363,
+      "word": "尼克斯1比2步行者",
+      "onboard_time": 1748228781,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "特朗普再威胁哈佛",
       "onboard_time": 1748216181,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184055,
+      "num": 184055,
+      "word": "白宫国安委涉华事务人员几乎全被裁",
+      "onboard_time": 1748227402,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 183612,
+      "num": 183612,
+      "word": "王楚钦孙颖莎还未确定能获得复刻杯",
+      "onboard_time": 1748228481,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 182275,
@@ -443,6 +595,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177927,
+      "num": 204544,
+      "word": "弃考被救同学系心源性猝死抢救成功",
+      "onboard_time": 1748227221,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176921,
+      "num": 176921,
+      "word": "教育具有长期性和滞后性",
+      "onboard_time": 1748229200,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 175870,
+      "num": 307196,
+      "word": "中石油下属子公司组织团购房烂尾",
+      "onboard_time": 1748226741,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "朝九晚五其实是朝七晚六",
@@ -457,6 +633,14 @@
       "onboard_time": 1748224460,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171726,
+      "num": 171726,
+      "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
+      "onboard_time": 1748225301,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166731,
@@ -475,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164255,
+      "num": 164255,
+      "word": "李昀锐换头像的原因",
+      "onboard_time": 1748226501,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159799,
       "num": 159799,
       "word": "王楚钦谈双冠荣誉",
@@ -491,12 +683,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155452,
+      "num": 155452,
+      "word": "王源三巡重庆官宣",
+      "onboard_time": 1748228661,
+      "rank": 43,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 153019,
       "num": 153019,
       "word": "麒麟芯片",
       "onboard_time": 1748185104,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152116,
+      "num": 152116,
+      "word": "折腰更猛的来了",
+      "onboard_time": 1748229742,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 150845,
@@ -507,11 +715,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149234,
+      "num": 149234,
+      "word": "藏海站在副本入口以为是主线终点",
+      "onboard_time": 1748229742,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148817,
+      "num": 148817,
+      "word": "百万存款3年利息从10.5万缩至3.9万",
+      "onboard_time": 1748226620,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 146445,
+      "num": 145362,
+      "word": "黄牛抢购麦当劳玩具乱丢食物",
+      "onboard_time": 1748227522,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 146097,
       "num": 146097,
       "word": "王楚钦vs雨果",
       "onboard_time": 1748177123,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145947,
+      "num": 145947,
+      "word": "孙颖莎队友每赢一个球她就带头鼓掌",
+      "onboard_time": 1748227342,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -529,14 +769,6 @@
       "onboard_time": 1748190080,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140154,
-      "num": 140154,
-      "word": "新说唱",
-      "onboard_time": 1748226260,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 138388,
@@ -585,14 +817,6 @@
       "onboard_time": 1748188522,
       "rank": 35,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 130250,
-      "num": 130250,
-      "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
-      "onboard_time": 1748225301,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129291,
@@ -995,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45419,
+      "num": 281489,
+      "word": "外贸企业出货量激增运价跳涨",
+      "onboard_time": 1748228903,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45255,
       "num": 85310,
       "word": "魏大勋军装",
@@ -1073,6 +1305,14 @@
       "onboard_time": 1748215399,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28862,
+      "num": 278921,
+      "word": "空腹断食42小时代谢会有什么变化",
+      "onboard_time": 1748229382,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27758,
