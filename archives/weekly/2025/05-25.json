@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748233958068,
+  "endTime": 1748234863490,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -299,6 +299,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1022122,
+      "num": 428680,
+      "word": "工资3w以下不用做情绪管理",
+      "onboard_time": 1748232803,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1016295,
       "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 879844,
-      "num": 368930,
+      "num": 428175,
       "word": "王楚钦机场偶遇安宰贤",
       "onboard_time": 1748230402,
       "rank": 49,
@@ -939,12 +947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431710,
+      "num": 431710,
+      "word": "雨果自曝输球原因",
+      "onboard_time": 1748226620,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 431570,
       "num": 339881,
       "word": "马嘉祺 无锡",
       "onboard_time": 1748098465,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430409,
+      "num": 430409,
+      "word": "折腰更猛的来了",
+      "onboard_time": 1748229742,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 429771,
@@ -955,12 +979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 426790,
-      "num": 366151,
-      "word": "工资3w以下不用做情绪管理",
-      "onboard_time": 1748232803,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 427571,
+      "num": 427571,
+      "word": "错嫁世子妃定档",
+      "onboard_time": 1748232743,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 423681,
@@ -969,22 +993,6 @@
       "onboard_time": 1748228001,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422463,
-      "num": 422463,
-      "word": "折腰更猛的来了",
-      "onboard_time": 1748229742,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 419768,
-      "num": 370115,
-      "word": "雨果自曝输球原因",
-      "onboard_time": 1748226620,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 419736,
@@ -1227,19 +1235,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346512,
-      "num": 346512,
-      "word": "错嫁世子妃定档",
-      "onboard_time": 1748232743,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345825,
       "num": 426260,
       "word": "颁奖典礼上的王楚钦孙颖莎",
       "onboard_time": 1748163321,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344939,
+      "num": 327025,
+      "word": "王楚钦答应刘国梁的事情做到了",
+      "onboard_time": 1748233822,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1265,6 +1273,14 @@
       "onboard_time": 1748176043,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335110,
+      "num": 335110,
+      "word": "藏海海清你俩什么关系",
+      "onboard_time": 1748233223,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 324296,
@@ -1603,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259231,
+      "num": 259231,
+      "word": "班味好重的镜子",
+      "onboard_time": 1748234063,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258465,
       "num": 260218,
       "word": "费曼回应近照争议",
@@ -1763,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234414,
-      "num": 301906,
-      "word": "藏海海清你俩什么关系",
-      "onboard_time": 1748233223,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232061,
       "num": 295684,
       "word": "白鹿说小鬼是她的rapper老师",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221448,
+      "num": 328175,
+      "word": "林黛玉是不是认错石头了",
+      "onboard_time": 1748232021,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220929,
@@ -2139,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195639,
-      "num": 301391,
-      "word": "林黛玉是不是认错石头了",
-      "onboard_time": 1748232021,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195400,
       "num": 195400,
       "word": "章若楠说范丞丞是跑男新生代导演",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1748090423,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180336,
-      "num": 200887,
-      "word": "王楚钦答应刘国梁的事情做到了",
-      "onboard_time": 1748233822,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 179894,
@@ -2708,7 +2716,7 @@
     },
     {
       "raw_hot": 167594,
-      "num": 167594,
+      "num": 325896,
       "word": "郑钦文说不喜欢男陪练让着自己",
       "onboard_time": 1748229982,
       "rank": 45,
@@ -2979,6 +2987,14 @@
       "category": "健康医疗,运动健身"
     },
     {
+      "raw_hot": 155551,
+      "num": 336179,
+      "word": "京东卖的荔枝来自唐朝荔枝树",
+      "onboard_time": 1748232201,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 155452,
       "num": 155452,
       "word": "王源三巡重庆官宣",
@@ -3107,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148031,
+      "num": 148031,
+      "word": "入境塞尔维亚遭海关区别对待",
+      "onboard_time": 1748233944,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147204,
       "num": 147204,
       "word": "蛮蛮一劭大吵",
@@ -3153,6 +3177,14 @@
       "onboard_time": 1748091263,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145342,
+      "num": 145342,
+      "word": "上班不要用力过猛",
+      "onboard_time": 1748234304,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145283,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1748151440,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143572,
-      "num": 143572,
-      "word": "入境塞尔维亚遭海关区别对待",
-      "onboard_time": 1748233944,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143532,
@@ -3331,14 +3355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 137779,
-      "num": 303228,
-      "word": "京东卖的荔枝来自唐朝荔枝树",
-      "onboard_time": 1748232201,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 137473,
       "num": 174633,
       "word": "凤凰传奇演唱会",
@@ -3377,6 +3393,14 @@
       "onboard_time": 1748143581,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135637,
+      "num": 135637,
+      "word": "床上八段锦",
+      "onboard_time": 1748234243,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 135623,
@@ -3537,6 +3561,14 @@
       "onboard_time": 1748151262,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130766,
+      "num": 130766,
+      "word": "特朗普猛批俄乌两国总统",
+      "onboard_time": 1748234183,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129834,
@@ -4136,6 +4168,14 @@
       "word": "折腰剧宣",
       "onboard_time": 1748104163,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104732,
+      "num": 260893,
+      "word": "刘诗诗稳中有序的上进心",
+      "onboard_time": 1748234664,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4812,7 +4852,7 @@
     },
     {
       "raw_hot": 60569,
-      "num": 729180,
+      "num": 758120,
       "word": "跨境电商企业狂招外国主播拓市场",
       "onboard_time": 1748232923,
       "rank": 2,
@@ -4889,6 +4929,14 @@
       "onboard_time": 1748192058,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53397,
+      "num": 429864,
+      "word": "人民日报关注上门维修乱象",
+      "onboard_time": 1748233703,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51607,
@@ -5009,6 +5057,14 @@
       "onboard_time": 1748165481,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43679,
+      "num": 369968,
+      "word": "梅州文旅宣传视频被指抄袭福建",
+      "onboard_time": 1748234423,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43546,
@@ -5227,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31314,
+      "num": 334138,
+      "word": "李斯特菌在什么环境下容易滋生",
+      "onboard_time": 1748233883,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 30974,
       "num": 146503,
       "word": "为什么一生只有一次耐高",
@@ -5393,22 +5457,6 @@
       "onboard_time": 1748103681,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21520,
-      "num": 182057,
-      "word": "李斯特菌在什么环境下容易滋生",
-      "onboard_time": 1748233883,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 21262,
-      "num": 287784,
-      "word": "人民日报关注上门维修乱象",
-      "onboard_time": 1748233703,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21167,
@@ -5584,6 +5632,14 @@
       "word": "菜园坝火车站承载了怎样的情怀",
       "onboard_time": 1748182585,
       "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 10215,
+      "num": 143960,
+      "word": "微积分在工业实践中起到什么作用",
+      "onboard_time": 1748234844,
+      "rank": 43,
       "category": "科学科普"
     },
     {

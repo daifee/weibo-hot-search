@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 12:32:38
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 12:47:43
 </p>
 </blockquote>
 <p>
@@ -3681,6 +3681,12 @@ deepseek（热度：1099496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%843w%E4%BB%A5%E4%B8%8B%E4%B8%8D%E7%94%A8%E5%81%9A%E6%83%85%E7%BB%AA%E7%AE%A1%E7%90%86%23" target="weibo">
+工资3w以下不用做情绪管理（热度：1022122）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%B1%BC%23" target="weibo">
 人鱼（热度：1021466）
 </a>
@@ -6005,12 +6011,6 @@ Grace好敢说（热度：750974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E5%B0%86%E6%88%90%E4%B8%BA%E5%8D%8E%E7%BA%B3%E4%BB%8A%E5%B9%B4%E9%87%8D%E7%82%B9%E5%8A%9B%E6%8D%A7%E7%9A%84%E5%A5%B3%E6%96%B0%E4%BA%BA%23" target="weibo">
 陈奕迅女儿将成为华纳今年重点力捧的女新人（热度：742334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E5%9C%B0%E7%90%83%E4%BC%9A%E8%A2%AB%E5%A4%AA%E9%98%B3%E7%84%9A%E5%8C%96%23" target="weibo">
-马斯克称地球会被太阳焚化（热度：741447）
 </a>
 </li>
 
