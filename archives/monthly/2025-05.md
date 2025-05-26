@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 16:50:00
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/26 17:12:57
 </p>
 </blockquote>
 <p>
@@ -6713,6 +6713,12 @@ Grace好敢说（热度：750974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%B2%BE%E7%A5%9E%E6%96%87%E6%98%8E%E5%BB%BA%E8%AE%BE%E8%A6%81%E6%9C%89%E6%96%B0%E6%B0%94%E8%B1%A1%E6%96%B0%E4%BD%9C%E4%B8%BA%23%23" target="weibo">
 #精神文明建设要有新气象新作为#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E4%BF%A1%E7%A5%9D%E8%B4%BA%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E5%BB%BA%E6%A0%A1120%E5%91%A8%E5%B9%B4%23%23" target="weibo">
+#习近平致信祝贺复旦大学建校120周年#
 </a>
 </li>
 

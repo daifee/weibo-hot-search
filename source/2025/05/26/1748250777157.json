@@ -1,0 +1,410 @@
+{
+  "runTime": 1748250777157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1630482,
+        "num": 1630482,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 791275,
+        "num": 791275,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86912,
+        "num": 781171,
+        "word": "老外爱上买中国电子产品",
+        "onboard_time": 1748249602,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 840407,
+        "num": 780904,
+        "word": "朱媛媛夫妇工作室分别叫本源和本卿",
+        "onboard_time": 1748247441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773633,
+        "num": 773633,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723756,
+        "num": 723756,
+        "word": "台积电发强硬声明",
+        "onboard_time": 1748246902,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 637880,
+        "num": 637880,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606049,
+        "num": 606049,
+        "word": "iPhone19或迎真全面屏",
+        "onboard_time": 1748245641,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 468364,
+        "num": 468364,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179534,
+        "num": 445989,
+        "word": "问界客服回应余承东疑似开车睡觉",
+        "onboard_time": 1748249900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440886,
+        "num": 440886,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418885,
+        "num": 418885,
+        "word": "健身卡 生理期",
+        "onboard_time": 1748242520,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412239,
+        "num": 412239,
+        "word": "普京所乘飞机遭大规模袭击",
+        "onboard_time": 1748250083,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 395497,
+        "num": 395497,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 13,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 41543,
+        "num": 358024,
+        "word": "家门口被害女子家属希望凶手判死刑",
+        "onboard_time": 1748250261,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 347233,
+        "num": 347233,
+        "word": "肖战新剧背带裤路透",
+        "onboard_time": 1748247081,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285814,
+        "num": 285814,
+        "word": "宣璐折腰金蝶覆面",
+        "onboard_time": 1748247982,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283976,
+        "num": 283976,
+        "word": "王励勤说我们不是最强阵容出战世乒赛",
+        "onboard_time": 1748249841,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281291,
+        "num": 281291,
+        "word": "惠英红撕拉片",
+        "onboard_time": 1748243782,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74944,
+        "num": 257986,
+        "word": "第一次当何灵有点紧张",
+        "onboard_time": 1748246001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23302,
+        "num": 244526,
+        "word": "王健林再卖48 座万达能起死回生吗",
+        "onboard_time": 1748250441,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238909,
+        "num": 238909,
+        "word": "贾玲全资持股大碗娱乐",
+        "onboard_time": 1748243661,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231997,
+        "num": 231997,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209553,
+        "num": 209553,
+        "word": "上海保安月薪9000工作的一天",
+        "onboard_time": 1748240962,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126812,
+        "num": 205970,
+        "word": "梁靖崑回顾十年世锦赛之旅",
+        "onboard_time": 1748250382,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204057,
+        "num": 204057,
+        "word": "韩红把内娱年轻歌手都调成啥样了",
+        "onboard_time": 1748247561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161517,
+        "num": 203493,
+        "word": "我的阿勒泰等10部剧入围白玉兰奖",
+        "onboard_time": 1748242161,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87898,
+        "num": 197257,
+        "word": "日本16岁男孩被指控谋杀69岁父亲",
+        "onboard_time": 1748249482,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36221,
+        "num": 190545,
+        "word": "以在加沙杀害一医生的9个孩子",
+        "onboard_time": 1748248882,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20972,
+        "num": 186245,
+        "word": "以阻止加沙人道援助目的",
+        "onboard_time": 1748248882,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 182698,
+        "num": 182698,
+        "word": "孙颖莎掌心布满拼搏的见证",
+        "onboard_time": 1748248280,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178624,
+        "num": 178624,
+        "word": "端午节3天高速不免费",
+        "onboard_time": 1748249542,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170543,
+        "num": 170543,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168726,
+        "num": 168726,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41112,
+        "num": 165771,
+        "word": "福建舰加紧海试释放出哪些信号",
+        "onboard_time": 1748248280,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164505,
+        "num": 164505,
+        "word": "高层小区电梯老龄化问题何解",
+        "onboard_time": 1748249001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10721,
+        "num": 163924,
+        "word": "双胞胎嫁双胞胎又生下双胞胎",
+        "onboard_time": 1748250681,
+        "rank": 36,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 163777,
+        "num": 163777,
+        "word": "小米玄戒负责人回应设计方案",
+        "onboard_time": 1748249662,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 161648,
+        "word": "黄玲宋莹又在白玉兰提名上相遇",
+        "onboard_time": 1748242401,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160575,
+        "num": 160575,
+        "word": "马克龙访越遭夫人当众打脸",
+        "onboard_time": 1748249422,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141829,
+        "num": 141829,
+        "word": "藏海提灯",
+        "onboard_time": 1748245101,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137989,
+        "num": 137989,
+        "word": "法网2025",
+        "onboard_time": 1748250201,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137111,
+        "num": 137111,
+        "word": "长期睡眠不足的9个表现",
+        "onboard_time": 1748250621,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136080,
+        "num": 136080,
+        "word": "1岁宝宝被蚊子咬了之后",
+        "onboard_time": 1748244080,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133617,
+        "num": 133617,
+        "word": "ZB1跳了万物生",
+        "onboard_time": 1748249962,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126079,
+        "num": 126079,
+        "word": "时尚芭莎",
+        "onboard_time": 1748249062,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121298,
+        "num": 121298,
+        "word": "孙颖莎比赛离不开伟大的对手",
+        "onboard_time": 1748246301,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119130,
+        "num": 119130,
+        "word": "工作室回应杨紫白玉兰视后提名",
+        "onboard_time": 1748246541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117259,
+        "num": 117259,
+        "word": "白鹿临江仙即将播出",
+        "onboard_time": 1748250743,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112185,
+        "num": 112185,
+        "word": "朱媛媛留在北京胡同里的笑容",
+        "onboard_time": 1748248642,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺复旦大学建校120周年#"
+    }
+  }
+}
