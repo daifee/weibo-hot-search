@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748288197945,
+  "endTime": 1748291279288,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -8195,6 +8195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 16765,
+      "num": 16765,
+      "word": "被蟑螂爬过的食物千万别吃",
+      "onboard_time": 1748288834,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16702,
       "num": 19115,
       "word": "王楚钦捧起圣勃莱德杯",
@@ -8243,6 +8251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14965,
+      "num": 23340,
+      "word": "780元买6颗减肥神药吃到心慌失眠",
+      "onboard_time": 1748287814,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14931,
       "num": 54421,
       "word": "伴郎抢手捧花送女朋友没想到跪错了人",
@@ -8265,6 +8281,14 @@
       "onboard_time": 1748150241,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14589,
+      "num": 14589,
+      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
+      "onboard_time": 1748289435,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14541,
@@ -8323,7 +8347,15 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12467,
+      "raw_hot": 12533,
+      "num": 14069,
+      "word": "村委会回应村庄田里设收费杆",
+      "onboard_time": 1748290874,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12525,
       "num": 22821,
       "word": "少年先锋队第九次全国代表大会",
       "onboard_time": 1748287034,
@@ -8369,14 +8401,6 @@
       "onboard_time": 1748255782,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 10510,
-      "num": 23340,
-      "word": "780元买6颗减肥神药吃到心慌失眠",
-      "onboard_time": 1748287814,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10431,
@@ -8489,6 +8513,14 @@
       "onboard_time": 1748241980,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7311,
+      "num": 18610,
+      "word": "完形填空固定搭配",
+      "onboard_time": 1748290994,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 7223,
