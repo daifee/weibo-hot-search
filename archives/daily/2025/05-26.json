@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748244874502,
+  "endTime": 1748245897205,
   "band_list": [
     {
       "raw_hot": 2238121,
@@ -35,6 +35,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1662892,
+      "num": 1662892,
+      "word": "孙颖莎总结多哈世乒赛",
+      "onboard_time": 1748244679,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1581558,
       "num": 1265349,
       "word": "蟑螂咬人",
@@ -67,14 +75,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1293643,
-      "num": 1293643,
-      "word": "孙颖莎总结多哈世乒赛",
-      "onboard_time": 1748244679,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1193417,
       "num": 1016223,
       "word": "公职人员出差周末自费旅游算违纪吗",
@@ -91,8 +91,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1110639,
-      "num": 1110639,
+      "raw_hot": 1115582,
+      "num": 1115582,
       "word": "小巷人家",
       "onboard_time": 1748240721,
       "rank": 23,
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 540232,
+      "num": 255950,
+      "word": "上海保安月薪9000工作的一天",
+      "onboard_time": 1748240962,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 521865,
       "num": 417169,
       "word": "张小婉左凌峰还在一起",
@@ -315,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 461349,
+      "num": 254686,
+      "word": "惠英红撕拉片",
+      "onboard_time": 1748243782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460747,
       "num": 421456,
       "word": "王楚钦孙颖莎成本届世乒赛双冠王",
@@ -337,6 +353,14 @@
       "onboard_time": 1748180728,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 446652,
+      "num": 316352,
+      "word": "贾玲全资持股大碗娱乐",
+      "onboard_time": 1748243661,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 442034,
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359235,
+      "num": 359235,
+      "word": "孙颖莎再一次把China印在了球场上",
+      "onboard_time": 1748236881,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352330,
       "num": 352330,
       "word": "巴赫说孙颖莎是一位伟大的冠军",
@@ -523,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342799,
-      "num": 238382,
-      "word": "惠英红撕拉片",
-      "onboard_time": 1748243782,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 342574,
+      "num": 311279,
+      "word": "失踪女硕士生育两孩案最新进展",
+      "onboard_time": 1748240542,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335110,
@@ -555,14 +587,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 320019,
-      "num": 236964,
-      "word": "上海保安月薪9000工作的一天",
-      "onboard_time": 1748240962,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313403,
       "num": 313403,
       "word": "他跟女主喝交杯酒却和女二接吻",
@@ -577,22 +601,6 @@
       "onboard_time": 1748167343,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311279,
-      "num": 311279,
-      "word": "失踪女硕士生育两孩案最新进展",
-      "onboard_time": 1748240542,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310237,
-      "num": 245434,
-      "word": "贾玲全资持股大碗娱乐",
-      "onboard_time": 1748243661,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 309392,
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280749,
+      "num": 250727,
+      "word": "我的阿勒泰等10部剧入围白玉兰奖",
+      "onboard_time": 1748242161,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267121,
       "num": 267121,
       "word": "蔡徐坤音乐节",
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256987,
+      "num": 256987,
+      "word": "健身卡 生理期",
+      "onboard_time": 1748242520,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254707,
       "num": 254707,
       "word": "披荆斩棘",
@@ -688,14 +712,6 @@
       "word": "郑钦文恭喜王楚钦",
       "onboard_time": 1748184565,
       "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 249977,
-      "num": 249977,
-      "word": "孙颖莎再一次把China印在了球场上",
-      "onboard_time": 1748236881,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -715,12 +731,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245593,
+      "num": 245593,
+      "word": "一县领证将询问登记彩礼状况",
+      "onboard_time": 1748243242,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239771,
       "num": 239771,
       "word": "邓亚萍发文祝贺王曼昱蒯曼",
       "onboard_time": 1748189781,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234885,
+      "num": 234885,
+      "word": "1岁宝宝被蚊子咬了之后",
+      "onboard_time": 1748244080,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 233910,
@@ -731,28 +763,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 229238,
-      "num": 224981,
-      "word": "健身卡 生理期",
-      "onboard_time": 1748242520,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
       "onboard_time": 1748222360,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224791,
-      "num": 224791,
-      "word": "我的阿勒泰等10部剧入围白玉兰奖",
-      "onboard_time": 1748242161,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 223333,
@@ -793,14 +809,6 @@
       "onboard_time": 1748218221,
       "rank": 18,
       "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 213966,
-      "num": 243162,
-      "word": "一县领证将询问登记彩礼状况",
-      "onboard_time": 1748243242,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207314,
@@ -883,14 +891,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 190626,
-      "num": 190626,
-      "word": "1岁宝宝被蚊子咬了之后",
-      "onboard_time": 1748244080,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190493,
       "num": 253059,
       "word": "能不能让王宝强多上综艺",
@@ -905,6 +905,14 @@
       "onboard_time": 1748239461,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189872,
+      "num": 189872,
+      "word": "白鹿孩子静悄悄必定在作妖",
+      "onboard_time": 1748241921,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189754,
@@ -955,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182713,
+      "num": 232797,
+      "word": "孙颖莎说继续为国而战",
+      "onboard_time": 1748245520,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182275,
       "num": 182275,
       "word": "赵丽颖犹豫半天比了个苹果",
@@ -993,14 +1009,6 @@
       "onboard_time": 1748241200,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178736,
-      "num": 178736,
-      "word": "白鹿孩子静悄悄必定在作妖",
-      "onboard_time": 1748241921,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 176782,
@@ -1083,6 +1091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171907,
+      "num": 171907,
+      "word": "藏海去见喜欢的人也是用跑的",
+      "onboard_time": 1748244921,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171699,
+      "num": 171699,
+      "word": "在人间",
+      "onboard_time": 1748244862,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169931,
       "num": 194586,
       "word": "姜贞羽新剧被谁做局了",
@@ -1147,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164913,
+      "num": 164913,
+      "word": "王安宇金发请多焊一会",
+      "onboard_time": 1748244862,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164781,
       "num": 164781,
       "word": "周冬雨马思纯曾国祥十年重聚",
@@ -1187,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161167,
+      "num": 161167,
+      "word": "孙颖莎说每一拍都要全力以赴",
+      "onboard_time": 1748245402,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159799,
       "num": 159799,
       "word": "王楚钦谈双冠荣誉",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1748215639,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156280,
+      "num": 156280,
+      "word": "女生花14元买牛肉干花1300补牙",
+      "onboard_time": 1748245161,
+      "rank": 34,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 155551,
@@ -1256,6 +1304,14 @@
       "word": "华为Pura80Pro配置曝光",
       "onboard_time": 1748231182,
       "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 149253,
+      "num": 149253,
+      "word": "iPhone19或迎真全面屏",
+      "onboard_time": 1748245641,
+      "rank": 37,
       "category": "数码"
     },
     {
@@ -1443,6 +1499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129274,
+      "num": 129274,
+      "word": "藏海提灯",
+      "onboard_time": 1748245101,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129163,
+      "num": 129163,
+      "word": "何卓佳说祖国荣誉高于一切",
+      "onboard_time": 1748245821,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128577,
       "num": 182107,
       "word": "藏海传弹幕怎么这么好笑",
@@ -1491,12 +1563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123904,
+      "num": 246312,
+      "word": "遇害女子家属称凶手事发前半年曾敲门",
+      "onboard_time": 1748244381,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123734,
       "num": 123734,
       "word": "一季度华为手机国内市场份额第一",
       "onboard_time": 1748241502,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122949,
+      "num": 122949,
+      "word": "张若昀提名最佳男主角",
+      "onboard_time": 1748245641,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 122403,
@@ -1531,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116252,
+      "num": 116252,
+      "word": "德国拟建欧洲最强军队",
+      "onboard_time": 1748245281,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115507,
       "num": 115507,
       "word": "多地气温组团冲上30摄氏度",
@@ -1555,28 +1651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113807,
-      "num": 113807,
-      "word": "在人间",
-      "onboard_time": 1748244862,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113185,
       "num": 113185,
       "word": "阿汤哥水下戏几乎盲拍",
       "onboard_time": 1748237120,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112564,
-      "num": 112564,
-      "word": "王安宇金发请多焊一会",
-      "onboard_time": 1748244862,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 112393,
@@ -1835,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79600,
+      "num": 195157,
+      "word": "男子性骚扰女下属被辞向公司索赔7万",
+      "onboard_time": 1748244561,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78952,
       "num": 166872,
       "word": "王励勤回应洛杉矶奥运会备战",
@@ -1864,14 +1952,6 @@
       "word": "85后干部受处分两年后拟获提拔",
       "onboard_time": 1748211076,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71779,
-      "num": 232314,
-      "word": "遇害女子家属称凶手事发前半年曾敲门",
-      "onboard_time": 1748244381,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2075,14 +2155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39460,
-      "num": 195157,
-      "word": "男子性骚扰女下属被辞向公司索赔7万",
-      "onboard_time": 1748244561,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39310,
       "num": 341611,
       "word": "空腹断食42小时代谢会有什么变化",
@@ -2131,7 +2203,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33032,
+      "raw_hot": 33566,
       "num": 191479,
       "word": "特朗普在网上攻击哈佛",
       "onboard_time": 1748243360,
@@ -2188,7 +2260,7 @@
     },
     {
       "raw_hot": 23715,
-      "num": 241374,
+      "num": 252700,
       "word": "618省钱新折学",
       "onboard_time": 1748242881,
       "rank": 14,
@@ -2291,8 +2363,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 2582,
-      "num": 229104,
+      "raw_hot": 4634,
+      "num": 245925,
       "word": "为什么女性比男性更容易患上甲状腺疾病",
       "onboard_time": 1748244080,
       "rank": 19,

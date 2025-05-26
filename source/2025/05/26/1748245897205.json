@@ -1,0 +1,410 @@
+{
+  "runTime": 1748245897205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1662892,
+        "num": 1662892,
+        "word": "孙颖莎总结多哈世乒赛",
+        "onboard_time": 1748244679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1115582,
+        "num": 1115582,
+        "word": "小巷人家",
+        "onboard_time": 1748240721,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41476,
+        "num": 1081551,
+        "word": "跨境电商企业狂招外国主播拓市场",
+        "onboard_time": 1748232923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078624,
+        "num": 1078624,
+        "word": "第30届白玉兰奖入围名单",
+        "onboard_time": 1748236642,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373375,
+        "num": 373375,
+        "word": "王健林再卖48座万达广场",
+        "onboard_time": 1748221999,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 359235,
+        "num": 359235,
+        "word": "孙颖莎再一次把China印在了球场上",
+        "onboard_time": 1748236881,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612106,
+        "num": 343006,
+        "word": "林俊杰演唱会突发意外情况",
+        "onboard_time": 1748237242,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446652,
+        "num": 316352,
+        "word": "贾玲全资持股大碗娱乐",
+        "onboard_time": 1748243661,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553648,
+        "num": 314562,
+        "word": "失踪女硕士生育两孩案进入审查起诉阶段",
+        "onboard_time": 1748239824,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256987,
+        "num": 256987,
+        "word": "健身卡 生理期",
+        "onboard_time": 1748242520,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690710,
+        "num": 256075,
+        "word": "工资3w以下不用做情绪管理",
+        "onboard_time": 1748232803,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 540232,
+        "num": 255950,
+        "word": "上海保安月薪9000工作的一天",
+        "onboard_time": 1748240962,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 461349,
+        "num": 254686,
+        "word": "惠英红撕拉片",
+        "onboard_time": 1748243782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342574,
+        "num": 253607,
+        "word": "失踪女硕士生育两孩案最新进展",
+        "onboard_time": 1748240542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23332,
+        "num": 252700,
+        "word": "618省钱新折学",
+        "onboard_time": 1748242881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296966,
+        "num": 251476,
+        "word": "女子遗落300万翡翠被垃圾清运车收走",
+        "onboard_time": 1748237002,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280749,
+        "num": 250727,
+        "word": "我的阿勒泰等10部剧入围白玉兰奖",
+        "onboard_time": 1748242161,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250190,
+        "num": 250190,
+        "word": "黄玲宋莹又在白玉兰提名上相遇",
+        "onboard_time": 1748242401,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123904,
+        "num": 246312,
+        "word": "遇害女子家属称凶手事发前半年曾敲门",
+        "onboard_time": 1748244381,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4634,
+        "num": 245925,
+        "word": "为什么女性比男性更容易患上甲状腺疾病",
+        "onboard_time": 1748244080,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245593,
+        "num": 245593,
+        "word": "一县领证将询问登记彩礼状况",
+        "onboard_time": 1748243242,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242815,
+        "num": 242815,
+        "word": "孟子义为了气我什么都干的出来",
+        "onboard_time": 1748237002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235694,
+        "num": 235694,
+        "word": "Angelababy带着早期混血感回来了",
+        "onboard_time": 1748221400,
+        "rank": 22,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 234885,
+        "num": 234885,
+        "word": "1岁宝宝被蚊子咬了之后",
+        "onboard_time": 1748244080,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182713,
+        "num": 232797,
+        "word": "孙颖莎说继续为国而战",
+        "onboard_time": 1748245520,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231345,
+        "num": 231345,
+        "word": "女子怀孕37周因吃冷藏食品流产",
+        "onboard_time": 1748226681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189872,
+        "num": 189872,
+        "word": "白鹿孩子静悄悄必定在作妖",
+        "onboard_time": 1748241921,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176811,
+        "num": 176811,
+        "word": "手串 辐射",
+        "onboard_time": 1748224341,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 171907,
+        "num": 171907,
+        "word": "藏海去见喜欢的人也是用跑的",
+        "onboard_time": 1748244921,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79600,
+        "num": 171762,
+        "word": "男子性骚扰女下属被辞向公司索赔7万",
+        "onboard_time": 1748244561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171699,
+        "num": 171699,
+        "word": "在人间",
+        "onboard_time": 1748244862,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164913,
+        "num": 164913,
+        "word": "王安宇金发请多焊一会",
+        "onboard_time": 1748244862,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164879,
+        "num": 164879,
+        "word": "蔡徐坤音乐节",
+        "onboard_time": 1748239461,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161167,
+        "num": 161167,
+        "word": "孙颖莎说每一拍都要全力以赴",
+        "onboard_time": 1748245402,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156280,
+        "num": 156280,
+        "word": "女生花14元买牛肉干花1300补牙",
+        "onboard_time": 1748245161,
+        "rank": 34,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 153290,
+        "num": 153290,
+        "word": "白玉兰配角组神仙打架",
+        "onboard_time": 1748240181,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1971730,
+        "num": 151950,
+        "word": "余承东 开车睡觉",
+        "onboard_time": 1748241502,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149253,
+        "num": 149253,
+        "word": "iPhone19或迎真全面屏",
+        "onboard_time": 1748245641,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144621,
+        "num": 144621,
+        "word": "刘亦菲提名白玉兰视后",
+        "onboard_time": 1748237061,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45967,
+        "num": 143457,
+        "word": "王励勤回应洛杉矶奥运会备战",
+        "onboard_time": 1748237002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142846,
+        "num": 142846,
+        "word": "他跟女主喝交杯酒却和女二接吻",
+        "onboard_time": 1748232262,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140026,
+        "num": 140026,
+        "word": "一直以为普拉提是很优雅的运动",
+        "onboard_time": 1748243181,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136703,
+        "num": 136703,
+        "word": "白玉兰预测",
+        "onboard_time": 1748238861,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135121,
+        "num": 135121,
+        "word": "蟑螂咬人",
+        "onboard_time": 1748227942,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 33566,
+        "num": 135007,
+        "word": "特朗普在网上攻击哈佛",
+        "onboard_time": 1748243360,
+        "rank": 44,
+        "category": "海外新闻,国际时政"
+      },
+      {
+        "raw_hot": 135005,
+        "num": 135005,
+        "word": "王楚钦答应刘国梁的事情做到了",
+        "onboard_time": 1748233822,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129274,
+        "num": 129274,
+        "word": "藏海提灯",
+        "onboard_time": 1748245101,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129163,
+        "num": 129163,
+        "word": "何卓佳说祖国荣誉高于一切",
+        "onboard_time": 1748245821,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122949,
+        "num": 122949,
+        "word": "张若昀提名最佳男主角",
+        "onboard_time": 1748245641,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116252,
+        "num": 116252,
+        "word": "德国拟建欧洲最强军队",
+        "onboard_time": 1748245281,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#精神文明建设要有新气象新作为#"
+    }
+  }
+}
