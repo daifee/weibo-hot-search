@@ -1,10 +1,10 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748301816579,
+  "endTime": 1748302726870,
   "band_list": [
     {
       "raw_hot": 921312,
-      "num": 921312,
+      "num": 966759,
       "word": "马克龙回应专机上被妻子推搡",
       "onboard_time": 1748273601,
       "rank": 4,
@@ -19,7 +19,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 640053,
+      "raw_hot": 685349,
       "num": 535529,
       "word": "王健林已被冻结4.9亿股权",
       "onboard_time": 1748270843,
@@ -35,19 +35,19 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 580822,
+      "num": 486002,
+      "word": "姚安娜说还好从哈佛毕业了",
+      "onboard_time": 1748271503,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568528,
       "num": 89762,
       "word": "麦琳 千禧辣妹",
       "onboard_time": 1748271082,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 509652,
-      "num": 477284,
-      "word": "姚安娜说还好从哈佛毕业了",
-      "onboard_time": 1748271503,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 491520,
-      "num": 249607,
+      "num": 271381,
       "word": "六旬老人打赏女主播18万妻子发声",
       "onboard_time": 1748277019,
       "rank": 49,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392085,
+      "num": 392085,
+      "word": "刘宇宁拍戏不看手机不拿剧本",
+      "onboard_time": 1748267603,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373222,
       "num": 373222,
       "word": "现实中真正的漂亮",
@@ -97,14 +105,6 @@
       "onboard_time": 1748272223,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333330,
-      "num": 333330,
-      "word": "刘宇宁拍戏不看手机不拿剧本",
-      "onboard_time": 1748267603,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 331868,
@@ -211,12 +211,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132716,
+      "num": 132716,
+      "word": "女性经期建议避免3类运动",
+      "onboard_time": 1748300837,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132405,
+      "num": 249685,
+      "word": "英国一辆汽车冲撞球迷",
+      "onboard_time": 1748301198,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129965,
+      "num": 129965,
+      "word": "肥娟夫妇取消请1000位网友参加婚礼",
+      "onboard_time": 1748256501,
+      "rank": 26,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 129381,
       "num": 129381,
       "word": "2025白玉兰最佳女主角将花落谁家",
       "onboard_time": 1748252183,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125860,
+      "num": 125860,
+      "word": "女子分享孕中孕晚分娩后容貌变化",
+      "onboard_time": 1748265502,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 121155,
@@ -227,12 +259,12 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 120891,
-      "num": 120891,
-      "word": "女子分享孕中孕晚分娩后容貌变化",
-      "onboard_time": 1748265502,
-      "rank": 38,
-      "category": "母婴育儿"
+      "raw_hot": 118012,
+      "num": 118012,
+      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+      "onboard_time": 1748280855,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115857,
@@ -251,8 +283,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113874,
+      "num": 250140,
+      "word": "缅北明家犯罪集团案已进入审判环节",
+      "onboard_time": 1748277319,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108409,
-      "num": 108409,
+      "num": 113874,
       "word": "藏海传 楚门的世界",
       "onboard_time": 1748265622,
       "rank": 25,
@@ -275,28 +315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99819,
-      "num": 99819,
-      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
-      "onboard_time": 1748280855,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99491,
       "num": 99491,
       "word": "刘琰对苏娥皇是真爱",
       "onboard_time": 1748269044,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98152,
-      "num": 98152,
-      "word": "肥娟夫妇取消请1000位网友参加婚礼",
-      "onboard_time": 1748256501,
-      "rank": 26,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 96682,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89838,
+      "num": 89838,
+      "word": "原来这就是不在小事上消耗孩子",
+      "onboard_time": 1748300237,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88357,
       "num": 88357,
       "word": "做藏海的狗",
@@ -353,14 +385,6 @@
       "onboard_time": 1748247081,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87059,
-      "num": 87059,
-      "word": "女性经期建议避免3类运动",
-      "onboard_time": 1748300837,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86289,
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77819,
+      "num": 127629,
+      "word": "王楚钦6925分世排第二",
+      "onboard_time": 1748302459,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75237,
       "num": 75237,
       "word": "孟子义我媚眼抛给瞎子看",
@@ -435,20 +467,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67179,
+      "num": 67179,
+      "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
+      "onboard_time": 1748264602,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64891,
       "num": 64891,
       "word": "花6000元穷游了日本14天",
       "onboard_time": 1748274862,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 64760,
-      "num": 64760,
-      "word": "原来这就是不在小事上消耗孩子",
-      "onboard_time": 1748300237,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 63591,
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62806,
+      "num": 62806,
+      "word": "鹿晗勋章唱给追梦英雄",
+      "onboard_time": 1748301318,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 61426,
       "num": 61426,
       "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
@@ -475,12 +515,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59893,
+      "num": 59893,
+      "word": "法网",
+      "onboard_time": 1748302280,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58584,
+      "num": 272180,
+      "word": "王励勤回应王楚钦夺冠",
+      "onboard_time": 1748302218,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58528,
       "num": 58528,
       "word": "挣钱最不容易的就是摄影师了",
       "onboard_time": 1748273242,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55102,
+      "num": 55102,
+      "word": "孙颖莎11900分世排第一",
+      "onboard_time": 1748302699,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54733,
+      "num": 54733,
+      "word": "王楚钦感谢无名英雄",
+      "onboard_time": 1748302520,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 52964,
@@ -499,11 +571,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 52382,
-      "num": 250140,
-      "word": "缅北明家犯罪集团案已进入审判环节",
-      "onboard_time": 1748277319,
-      "rank": 45,
+      "raw_hot": 51696,
+      "num": 51696,
+      "word": "你见过自带珠光效果的百合花吗",
+      "onboard_time": 1748302699,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -515,20 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47281,
-      "num": 47281,
-      "word": "鹿晗勋章唱给追梦英雄",
-      "onboard_time": 1748301318,
+      "raw_hot": 47023,
+      "num": 271476,
+      "word": "哈马斯已同意美特使提出的加沙停火方案",
+      "onboard_time": 1748290693,
       "rank": 47,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 43479,
-      "num": 249685,
-      "word": "英国一辆汽车冲撞球迷",
-      "onboard_time": 1748301198,
-      "rank": 9,
-      "category": "海外新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 41816,
@@ -571,20 +635,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28167,
+      "num": 193719,
+      "word": "东京大学将临时接收哈佛国际学生",
+      "onboard_time": 1748302280,
+      "rank": 15,
+      "category": "国际时政,教育"
+    },
+    {
       "raw_hot": 27017,
       "num": 27017,
       "word": "你到家了稚奴",
       "onboard_time": 1748284154,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25728,
-      "num": 87451,
-      "word": "哈马斯已同意美特使提出的加沙停火方案",
-      "onboard_time": 1748290693,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25667,
