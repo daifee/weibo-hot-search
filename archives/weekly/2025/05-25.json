@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748253104013,
+  "endTime": 1748253624238,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -691,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 634162,
+      "num": 634162,
+      "word": "端午节3天高速不免费",
+      "onboard_time": 1748249542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630667,
       "num": 630667,
       "word": "美国女主播羊水破裂坚持播3小时节目",
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552756,
+      "num": 453030,
+      "word": "王励勤说我们不是最强阵容出战世乒赛",
+      "onboard_time": 1748249841,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552180,
       "num": 552180,
       "word": "林昀儒高承睿vs户上隼辅篠塚大登",
@@ -979,14 +995,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 510928,
-      "num": 427713,
-      "word": "王励勤说我们不是最强阵容出战世乒赛",
-      "onboard_time": 1748249841,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 500924,
       "num": 277035,
       "word": "洗猫 高危工作",
@@ -1065,6 +1073,22 @@
       "onboard_time": 1748170160,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 454398,
+      "num": 454398,
+      "word": "2025白玉兰最佳女主角将花落谁家",
+      "onboard_time": 1748252183,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 449520,
+      "num": 445989,
+      "word": "问界客服回应余承东疑似开车睡觉",
+      "onboard_time": 1748249900,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446652,
@@ -1163,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421473,
-      "num": 445989,
-      "word": "问界客服回应余承东疑似开车睡觉",
-      "onboard_time": 1748249900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 419736,
       "num": 419736,
       "word": "南通地震",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1748190921,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 386299,
-      "num": 427826,
-      "word": "端午节3天高速不免费",
-      "onboard_time": 1748249542,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383872,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1748163321,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 344894,
+      "num": 344894,
+      "word": "王嘉尔吃东西把牙齿咬裂",
+      "onboard_time": 1748252842,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 344662,
@@ -1675,6 +1691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 299083,
+      "num": 299083,
+      "word": "双胞胎嫁双胞胎又生下双胞胎",
+      "onboard_time": 1748250681,
+      "rank": 36,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 297619,
       "num": 297619,
       "word": "奔跑吧",
@@ -1723,14 +1747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 287268,
-      "num": 305375,
-      "word": "2025白玉兰最佳女主角将花落谁家",
-      "onboard_time": 1748252183,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285814,
       "num": 285814,
       "word": "宣璐折腰金蝶覆面",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1748165601,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281431,
-      "num": 281431,
-      "word": "双胞胎嫁双胞胎又生下双胞胎",
-      "onboard_time": 1748250681,
-      "rank": 36,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 280749,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1748138661,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 263842,
+      "num": 263842,
+      "word": "小巷人家获白玉兰奖7大提名",
+      "onboard_time": 1748253142,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 262307,
@@ -2091,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238426,
-      "num": 238426,
-      "word": "王嘉尔吃东西把牙齿咬裂",
-      "onboard_time": 1748252842,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238077,
       "num": 175189,
       "word": "亳州上百人吃网红提拉米苏后进医院",
@@ -2139,12 +2147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230681,
+      "num": 218394,
+      "word": "小沈阳把张百乔拉黑了",
+      "onboard_time": 1748253142,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "幻象黑兔 明日方舟",
       "onboard_time": 1748180070,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227419,
+      "num": 227419,
+      "word": "长期睡眠不足的9个表现",
+      "onboard_time": 1748250621,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227114,
@@ -2395,14 +2419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203461,
-      "num": 203461,
-      "word": "长期睡眠不足的9个表现",
-      "onboard_time": 1748250621,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "世乒赛男双",
@@ -2560,6 +2576,14 @@
       "word": "SEVENTEEN正规五辑MV",
       "onboard_time": 1748252602,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "文俊辉Gemini",
+      "onboard_time": 1748252722,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -2819,14 +2843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183155,
-      "num": 183155,
-      "word": "文俊辉Gemini",
-      "onboard_time": 1748252722,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182713,
       "num": 232797,
       "word": "孙颖莎说继续为国而战",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1748248521,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "马克龙访越遭夫人当众打脸",
+      "onboard_time": 1748249422,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177365,
@@ -3283,14 +3307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167406,
-      "num": 167406,
-      "word": "马克龙访越遭夫人当众打脸",
-      "onboard_time": 1748249422,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167335,
       "num": 167335,
       "word": "章子怡看陈丽君我的大观园也很难戒断",
@@ -3497,6 +3513,14 @@
       "onboard_time": 1748246001,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160449,
+      "num": 205970,
+      "word": "梁靖崑回顾十年世锦赛之旅",
+      "onboard_time": 1748250382,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 160298,
@@ -3955,6 +3979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143348,
+      "num": 143348,
+      "word": "LWX说RNG发工资了",
+      "onboard_time": 1748252901,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143327,
       "num": 276801,
       "word": "日艇在敏感海域发射66发实弹",
@@ -3985,14 +4017,6 @@
       "onboard_time": 1748168480,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142025,
-      "num": 142025,
-      "word": "LWX说RNG发工资了",
-      "onboard_time": 1748252901,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 141990,
@@ -4105,14 +4129,6 @@
       "onboard_time": 1748186783,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137259,
-      "num": 205970,
-      "word": "梁靖崑回顾十年世锦赛之旅",
-      "onboard_time": 1748250382,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 137116,
@@ -4241,6 +4257,14 @@
       "onboard_time": 1748186484,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132882,
+      "num": 132882,
+      "word": "庄二被霸凌",
+      "onboard_time": 1748253502,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 132843,
@@ -4427,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127794,
+      "num": 127794,
+      "word": "王楚钦说谢谢不想放弃的自己",
+      "onboard_time": 1748253142,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127793,
       "num": 127793,
       "word": "林依晨孕7月素颜照",
@@ -4441,6 +4473,14 @@
       "onboard_time": 1748173342,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126825,
+      "num": 126825,
+      "word": "iOS19将迎重大重新设计",
+      "onboard_time": 1748252241,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 126824,
@@ -4601,6 +4641,14 @@
       "onboard_time": 1748138780,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "黄正音官宣离婚",
+      "onboard_time": 1748253562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120604,
@@ -5459,6 +5507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83209,
+      "num": 928796,
+      "word": "端午将至各地特色粽子上新中",
+      "onboard_time": 1748251343,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83026,
       "num": 81684,
       "word": "魏劭想做真夫妻",
@@ -5615,14 +5671,6 @@
       "num": 1019135,
       "word": "网警重拳出击摧毁一网络水军团伙",
       "onboard_time": 1748138780,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75331,
-      "num": 840178,
-      "word": "端午将至各地特色粽子上新中",
-      "onboard_time": 1748251343,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -6235,6 +6283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36440,
+      "num": 265514,
+      "word": "用橡皮擦掉内向学生胆小鬼标签",
+      "onboard_time": 1748251942,
+      "rank": 26,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 36221,
       "num": 193409,
       "word": "以在加沙杀害一医生的9个孩子",
@@ -6369,14 +6425,6 @@
       "onboard_time": 1748175024,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30587,
-      "num": 265514,
-      "word": "用橡皮擦掉内向学生胆小鬼标签",
-      "onboard_time": 1748251942,
-      "rank": 26,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 30158,
@@ -6635,12 +6683,28 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 17818,
+      "num": 258372,
+      "word": "老人过斑马线跌倒幸遇交警搀扶",
+      "onboard_time": 1748251343,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17670,
       "num": 230009,
       "word": "ATM机数量减少会造成哪些影响",
       "onboard_time": 1748157381,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17409,
+      "num": 254043,
+      "word": "法国达索航空公司成立审计小组",
+      "onboard_time": 1748251343,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16976,
@@ -6675,14 +6739,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 16247,
-      "num": 254043,
-      "word": "法国达索航空公司成立审计小组",
-      "onboard_time": 1748251343,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15768,
       "num": 229896,
       "word": "印度大外宣材料可信度到底如何",
@@ -6713,14 +6769,6 @@
       "onboard_time": 1748170880,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 13945,
-      "num": 258372,
-      "word": "老人过斑马线跌倒幸遇交警搀扶",
-      "onboard_time": 1748251343,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13126,
@@ -6811,6 +6859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9005,
+      "num": 295455,
+      "word": "跨境电商招外国主播会带来什么机遇",
+      "onboard_time": 1748252483,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 7835,
       "num": 129983,
       "word": "武汉市政府发文祝贺武汉女足夺冠",
@@ -6833,14 +6889,6 @@
       "onboard_time": 1748241980,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 7316,
-      "num": 295455,
-      "word": "跨境电商招外国主播会带来什么机遇",
-      "onboard_time": 1748252483,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 7024,

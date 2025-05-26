@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748253104013,
+  "endTime": 1748253624238,
   "band_list": [
     {
       "raw_hot": 2347441,
@@ -235,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 634162,
+      "num": 634162,
+      "word": "端午节3天高速不免费",
+      "onboard_time": 1748249542,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630667,
       "num": 630667,
       "word": "美国女主播羊水破裂坚持播3小时节目",
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552756,
+      "num": 453030,
+      "word": "王励勤说我们不是最强阵容出战世乒赛",
+      "onboard_time": 1748249841,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550184,
       "num": 550184,
       "word": "夫妻俩在加沙救人9个孩子却被炸死",
@@ -353,14 +369,6 @@
       "onboard_time": 1748230162,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 510928,
-      "num": 427713,
-      "word": "王励勤说我们不是最强阵容出战世乒赛",
-      "onboard_time": 1748249841,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 485272,
@@ -403,11 +411,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 454398,
+      "num": 454398,
+      "word": "2025白玉兰最佳女主角将花落谁家",
+      "onboard_time": 1748252183,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449802,
       "num": 419296,
       "word": "女子遭雷击去世丈夫疑因人工降雨",
       "onboard_time": 1748180728,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449520,
+      "num": 445989,
+      "word": "问界客服回应余承东疑似开车睡觉",
+      "onboard_time": 1748249900,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -491,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421473,
-      "num": 445989,
-      "word": "问界客服回应余承东疑似开车睡觉",
-      "onboard_time": 1748249900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 419736,
       "num": 419736,
       "word": "南通地震",
@@ -563,14 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386299,
-      "num": 427826,
-      "word": "端午节3天高速不免费",
-      "onboard_time": 1748249542,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 383250,
       "num": 383250,
       "word": "黄玲宋莹又在白玉兰提名上相遇",
@@ -633,6 +641,14 @@
       "onboard_time": 1748247081,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344894,
+      "num": 344894,
+      "word": "王嘉尔吃东西把牙齿咬裂",
+      "onboard_time": 1748252842,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 344662,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299083,
+      "num": 299083,
+      "word": "双胞胎嫁双胞胎又生下双胞胎",
+      "onboard_time": 1748250681,
+      "rank": 36,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 297321,
       "num": 361881,
       "word": "中石油下属子公司组织团购房烂尾",
@@ -736,14 +760,6 @@
       "word": "陈妍希打卡肖战同款下浩里",
       "onboard_time": 1748251523,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 287268,
-      "num": 305375,
-      "word": "2025白玉兰最佳女主角将花落谁家",
-      "onboard_time": 1748252183,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -769,14 +785,6 @@
       "onboard_time": 1748239760,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281431,
-      "num": 281431,
-      "word": "双胞胎嫁双胞胎又生下双胞胎",
-      "onboard_time": 1748250681,
-      "rank": 36,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 280749,
@@ -809,6 +817,14 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 263842,
+      "num": 263842,
+      "word": "小巷人家获白玉兰奖7大提名",
+      "onboard_time": 1748253142,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 257544,
@@ -883,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238426,
-      "num": 238426,
-      "word": "王嘉尔吃东西把牙齿咬裂",
-      "onboard_time": 1748252842,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234885,
       "num": 234885,
       "word": "1岁宝宝被蚊子咬了之后",
@@ -905,6 +913,22 @@
       "onboard_time": 1748236223,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 230681,
+      "num": 218394,
+      "word": "小沈阳把张百乔拉黑了",
+      "onboard_time": 1748253142,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227419,
+      "num": 227419,
+      "word": "长期睡眠不足的9个表现",
+      "onboard_time": 1748250621,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227114,
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203461,
-      "num": 203461,
-      "word": "长期睡眠不足的9个表现",
-      "onboard_time": 1748250621,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "世乒赛男双",
@@ -1032,6 +1048,14 @@
       "word": "SEVENTEEN正规五辑MV",
       "onboard_time": 1748252602,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195033,
+      "num": 195033,
+      "word": "文俊辉Gemini",
+      "onboard_time": 1748252722,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -1155,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183155,
-      "num": 183155,
-      "word": "文俊辉Gemini",
-      "onboard_time": 1748252722,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182713,
       "num": 232797,
       "word": "孙颖莎说继续为国而战",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1748248521,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "马克龙访越遭夫人当众打脸",
+      "onboard_time": 1748249422,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176782,
@@ -1347,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167406,
-      "num": 167406,
-      "word": "马克龙访越遭夫人当众打脸",
-      "onboard_time": 1748249422,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166975,
       "num": 166975,
       "word": "杨紫二提白玉兰",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1748246001,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160449,
+      "num": 205970,
+      "word": "梁靖崑回顾十年世锦赛之旅",
+      "onboard_time": 1748250382,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 159799,
@@ -1667,20 +1691,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143348,
+      "num": 143348,
+      "word": "LWX说RNG发工资了",
+      "onboard_time": 1748252901,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142774,
       "num": 142774,
       "word": "邱贻可说孙颖莎非常不容易",
       "onboard_time": 1748251762,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142025,
-      "num": 142025,
-      "word": "LWX说RNG发工资了",
-      "onboard_time": 1748252901,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 140359,
@@ -1731,14 +1755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137259,
-      "num": 205970,
-      "word": "梁靖崑回顾十年世锦赛之旅",
-      "onboard_time": 1748250382,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136953,
       "num": 136953,
       "word": "王励勤说国乒男线还有待提升",
@@ -1787,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132882,
+      "num": 132882,
+      "word": "庄二被霸凌",
+      "onboard_time": 1748253502,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "用流量诱导孩子在街头玩命必须叫停",
@@ -1825,6 +1849,22 @@
       "onboard_time": 1748232442,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127794,
+      "num": 127794,
+      "word": "王楚钦说谢谢不想放弃的自己",
+      "onboard_time": 1748253142,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126825,
+      "num": 126825,
+      "word": "iOS19将迎重大重新设计",
+      "onboard_time": 1748252241,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 126761,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1748218822,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "黄正音官宣离婚",
+      "onboard_time": 1748253562,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 119299,
@@ -2251,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83209,
+      "num": 928796,
+      "word": "端午将至各地特色粽子上新中",
+      "onboard_time": 1748251343,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81403,
       "num": 114530,
       "word": "TT万妮达不扫兴的朋友",
@@ -2313,14 +2369,6 @@
       "onboard_time": 1748247621,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75331,
-      "num": 840178,
-      "word": "端午将至各地特色粽子上新中",
-      "onboard_time": 1748251343,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74456,
@@ -2627,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36440,
+      "num": 265514,
+      "word": "用橡皮擦掉内向学生胆小鬼标签",
+      "onboard_time": 1748251942,
+      "rank": 26,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 36221,
       "num": 193409,
       "word": "以在加沙杀害一医生的9个孩子",
@@ -2665,14 +2721,6 @@
       "onboard_time": 1748233883,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 30587,
-      "num": 265514,
-      "word": "用橡皮擦掉内向学生胆小鬼标签",
-      "onboard_time": 1748251942,
-      "rank": 26,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 27758,
@@ -2771,6 +2819,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17818,
+      "num": 258372,
+      "word": "老人过斑马线跌倒幸遇交警搀扶",
+      "onboard_time": 1748251343,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17409,
+      "num": 254043,
+      "word": "法国达索航空公司成立审计小组",
+      "onboard_time": 1748251343,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16702,
       "num": 19115,
       "word": "王楚钦捧起圣勃莱德杯",
@@ -2785,22 +2849,6 @@
       "onboard_time": 1748206454,
       "rank": 40,
       "category": "军事"
-    },
-    {
-      "raw_hot": 16247,
-      "num": 254043,
-      "word": "法国达索航空公司成立审计小组",
-      "onboard_time": 1748251343,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13945,
-      "num": 258372,
-      "word": "老人过斑马线跌倒幸遇交警搀扶",
-      "onboard_time": 1748251343,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12718,
@@ -2835,20 +2883,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9005,
+      "num": 295455,
+      "word": "跨境电商招外国主播会带来什么机遇",
+      "onboard_time": 1748252483,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 7809,
       "num": 267397,
       "word": "王健林再售48座万达面临哪些困境",
       "onboard_time": 1748241980,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 7316,
-      "num": 295455,
-      "word": "跨境电商招外国主播会带来什么机遇",
-      "onboard_time": 1748252483,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 6608,
