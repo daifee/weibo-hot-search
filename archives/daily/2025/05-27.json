@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748281252603,
+  "endTime": 1748284427633,
   "band_list": [
     {
       "raw_hot": 765571,
@@ -161,6 +161,14 @@
       "onboard_time": 1748253142,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164865,
+      "num": 65523,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162842,
@@ -387,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59747,
-      "num": 59747,
-      "word": "六旬老人打赏女主播18万妻子发声",
-      "onboard_time": 1748277019,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58528,
       "num": 58528,
       "word": "挣钱最不容易的就是摄影师了",
@@ -451,12 +451,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26735,
+      "raw_hot": 34952,
       "num": 31937,
       "word": "三名日本黑帮成员因遛狗不拴绳被捕",
       "onboard_time": 1748280855,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27017,
+      "num": 27017,
+      "word": "你到家了稚奴",
+      "onboard_time": 1748284154,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24654,
+      "num": 24654,
+      "word": "特朗普威胁苹果时iPhone铃声响了",
+      "onboard_time": 1748274621,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22519,
@@ -465,6 +481,14 @@
       "onboard_time": 1748277798,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17287,
+      "num": 22058,
+      "word": "第五人格微博六百万粉丝",
+      "onboard_time": 1748283014,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 25,
