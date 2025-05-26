@@ -1,7 +1,15 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748224938042,
+  "endTime": 1748226329702,
   "band_list": [
+    {
+      "raw_hot": 2132154,
+      "num": 2132154,
+      "word": "手串 辐射",
+      "onboard_time": 1748224341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1988917,
       "num": 1988917,
@@ -19,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1023264,
-      "num": 1023264,
+      "raw_hot": 1124437,
+      "num": 1124437,
       "word": "空腹断食42小时的变化",
       "onboard_time": 1748222302,
       "rank": 1,
@@ -35,7 +43,7 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 842515,
+      "raw_hot": 846715,
       "num": 405849,
       "word": "王楚钦机场买酒",
       "onboard_time": 1748223801,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 744938,
-      "num": 401972,
+      "num": 698824,
       "word": "王楚钦夺冠后肖指导哭成了小孩",
       "onboard_time": 1748223141,
       "rank": 12,
@@ -145,6 +153,14 @@
       "onboard_time": 1748180309,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511019,
+      "num": 511019,
+      "word": "夫妻俩在加沙救人9个孩子却被炸死",
+      "onboard_time": 1748223620,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 485272,
@@ -267,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359221,
-      "num": 359221,
-      "word": "手串 辐射",
-      "onboard_time": 1748224341,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332403,
       "num": 332403,
       "word": "孙颖莎哭了",
@@ -283,12 +291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 323498,
-      "num": 411715,
-      "word": "夫妻俩在加沙救人9个孩子却被炸死",
-      "onboard_time": 1748223620,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 321971,
+      "num": 321971,
+      "word": "蛋 宁碎不翻",
+      "onboard_time": 1748223562,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 321306,
@@ -315,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291746,
-      "num": 157297,
-      "word": "蛋 宁碎不翻",
-      "onboard_time": 1748223562,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 267749,
+      "num": 267749,
+      "word": "蜜丝婷 王楚钦",
+      "onboard_time": 1748224460,
+      "rank": 22,
+      "category": "美妆,体育"
     },
     {
       "raw_hot": 253159,
@@ -371,6 +379,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 206533,
+      "num": 206533,
+      "word": "巴赫说孙颖莎是一位伟大的冠军",
+      "onboard_time": 1748223920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206399,
       "num": 206399,
       "word": "300岁TVB老人跳晚安大小姐",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 193325,
-      "num": 159207,
+      "num": 203125,
       "word": "朱媛媛去世为何全民哀悼",
       "onboard_time": 1748214739,
       "rank": 22,
@@ -401,14 +417,6 @@
       "onboard_time": 1748189841,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185104,
-      "num": 185104,
-      "word": "巴赫说孙颖莎是一位伟大的冠军",
-      "onboard_time": 1748223920,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 184342,
@@ -425,6 +433,14 @@
       "onboard_time": 1748177963,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179894,
+      "num": 188939,
+      "word": "孙颖莎要巴赫联系方式",
+      "onboard_time": 1748221222,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 173683,
@@ -475,20 +491,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 156532,
-      "num": 156532,
-      "word": "孙颖莎要巴赫联系方式",
-      "onboard_time": 1748221222,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153019,
       "num": 153019,
       "word": "麒麟芯片",
       "onboard_time": 1748185104,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150845,
+      "num": 213064,
+      "word": "丁禹兮中餐厅厨师服造型路透",
+      "onboard_time": 1748226141,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 146097,
@@ -513,6 +529,14 @@
       "onboard_time": 1748190080,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140154,
+      "num": 140154,
+      "word": "新说唱",
+      "onboard_time": 1748226260,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 138388,
@@ -547,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133925,
+      "num": 201182,
+      "word": "国乒夺冠后二王一马的庆祝时刻",
+      "onboard_time": 1748222962,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132843,
       "num": 132843,
       "word": "用流量诱导孩子在街头玩命必须叫停",
       "onboard_time": 1748188522,
       "rank": 35,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 130250,
+      "num": 130250,
+      "word": "中国驻孟加拉国使馆提醒谨慎赴孟娶妻",
+      "onboard_time": 1748225301,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129291,
@@ -587,12 +627,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122403,
+      "num": 268111,
+      "word": "南方27日将迎新一轮降雨",
+      "onboard_time": 1748218822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118199,
+      "num": 118199,
+      "word": "狗狗打完狂犬疫苗真成狂犬了",
+      "onboard_time": 1748222962,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116946,
       "num": 168538,
       "word": "seventeen直播",
       "onboard_time": 1748190080,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116646,
+      "num": 116646,
+      "word": "金价",
+      "onboard_time": 1748226021,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 115507,
@@ -603,11 +667,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114837,
+      "num": 131259,
+      "word": "特朗普威胁将对欧盟征收50%关税",
+      "onboard_time": 1748225661,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114416,
       "num": 157517,
       "word": "霍建华新剧好松弛",
       "onboard_time": 1748220682,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112393,
+      "num": 112393,
+      "word": "剑网3联动有兽焉",
+      "onboard_time": 1748226081,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112337,
+      "num": 196840,
+      "word": "骗杀父仇人进火场救自己",
+      "onboard_time": 1748191939,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -633,6 +721,14 @@
       "onboard_time": 1748220081,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107724,
+      "num": 192419,
+      "word": "宋威龙太帅了",
+      "onboard_time": 1748223320,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 106955,
@@ -675,22 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104133,
-      "num": 127106,
-      "word": "宋威龙太帅了",
-      "onboard_time": 1748223320,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 101875,
-      "num": 101875,
-      "word": "骗杀父仇人进火场救自己",
-      "onboard_time": 1748191939,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101836,
       "num": 167696,
       "word": "权志龙大阪演唱会",
@@ -707,6 +787,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100544,
+      "num": 100544,
+      "word": "高中女生被造黄谣法院判平台赔8000元",
+      "onboard_time": 1748226021,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100179,
+      "num": 311801,
+      "word": "英伟达或再推中国特供芯片",
+      "onboard_time": 1748221820,
+      "rank": 14,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 99683,
       "num": 99683,
       "word": "狗狗意识到出大问题了",
@@ -716,7 +812,7 @@
     },
     {
       "raw_hot": 99595,
-      "num": 804898,
+      "num": 1203124,
       "word": "美国90%圣诞用品来自中国制造",
       "onboard_time": 1748180370,
       "rank": 2,
@@ -739,28 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94655,
-      "num": 94655,
-      "word": "南方27日将迎新一轮降雨",
-      "onboard_time": 1748218822,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92053,
       "num": 114648,
       "word": "哈佛没有国际学生会变成什么样",
       "onboard_time": 1748187623,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91925,
-      "num": 91925,
-      "word": "狗狗打完狂犬疫苗真成狂犬了",
-      "onboard_time": 1748222962,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 90852,
