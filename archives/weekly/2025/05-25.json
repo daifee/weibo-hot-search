@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748284427633,
+  "endTime": 1748285230950,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -3443,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182317,
+      "num": 66024,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182044,
       "num": 182044,
       "word": "网剧紫川",
@@ -4161,14 +4169,6 @@
       "onboard_time": 1748244862,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164865,
-      "num": 65523,
-      "word": "六旬老人打赏女主播18万妻子发声",
-      "onboard_time": 1748277019,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164781,
@@ -7835,6 +7835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26235,
+      "num": 26235,
+      "word": "特朗普威胁苹果时iPhone铃声响了",
+      "onboard_time": 1748274621,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26081,
       "num": 319280,
       "word": "男子无罪后诉请删除案底遇阻",
@@ -7897,14 +7905,6 @@
       "onboard_time": 1748251281,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 24654,
-      "num": 24654,
-      "word": "特朗普威胁苹果时iPhone铃声响了",
-      "onboard_time": 1748274621,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24369,
@@ -8115,6 +8115,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 18115,
+      "num": 18672,
+      "word": "肖战任少白民国贵公子路透",
+      "onboard_time": 1748285054,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17818,
       "num": 258372,
       "word": "老人过斑马线跌倒幸遇交警搀扶",
@@ -8185,6 +8193,14 @@
       "onboard_time": 1748206454,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16408,
+      "num": 18671,
+      "word": "乌军称乌遭355架无人机袭击",
+      "onboard_time": 1748285115,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15989,

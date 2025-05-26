@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748284427633,
+  "endTime": 1748285230950,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -43507,6 +43507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182317,
+      "num": 66024,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182313,
       "num": 185532,
       "word": "周翊然工作室告黑",
@@ -49497,14 +49505,6 @@
       "onboard_time": 1748244862,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164865,
-      "num": 65523,
-      "word": "六旬老人打赏女主播18万妻子发声",
-      "onboard_time": 1748277019,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164848,
@@ -95083,6 +95083,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 26235,
+      "num": 26235,
+      "word": "特朗普威胁苹果时iPhone铃声响了",
+      "onboard_time": 1748274621,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26233,
       "num": 344540,
       "word": "一段好的友情的四大表现",
@@ -95785,14 +95793,6 @@
       "onboard_time": 1746056299,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24654,
-      "num": 24654,
-      "word": "特朗普威胁苹果时iPhone铃声响了",
-      "onboard_time": 1748274621,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24601,
@@ -98851,6 +98851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18115,
+      "num": 18672,
+      "word": "肖战任少白民国贵公子路透",
+      "onboard_time": 1748285054,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18111,
       "num": 237790,
       "word": "克什米尔对巴基斯坦到底多重要",
@@ -99713,6 +99721,14 @@
       "onboard_time": 1747999943,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16408,
+      "num": 18671,
+      "word": "乌军称乌遭355架无人机袭击",
+      "onboard_time": 1748285115,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16382,
