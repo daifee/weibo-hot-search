@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748295501916,
+  "endTime": 1748298265714,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -2747,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211949,
+      "num": 82016,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211378,
       "num": 276029,
       "word": "年轻人有自己的生日大汉堡",
@@ -3379,6 +3387,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 185625,
+      "num": 404170,
+      "word": "杭州第三只外逃金钱豹四年后仍成谜",
+      "onboard_time": 1748272342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185491,
       "num": 208840,
       "word": "世乒赛复刻杯目前仅限于单打",
@@ -3441,14 +3457,6 @@
       "onboard_time": 1748097446,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182317,
-      "num": 66024,
-      "word": "六旬老人打赏女主播18万妻子发声",
-      "onboard_time": 1748277019,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182044,
@@ -4673,14 +4681,6 @@
       "onboard_time": 1748149162,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149111,
-      "num": 404170,
-      "word": "杭州第三只外逃金钱豹四年后仍成谜",
-      "onboard_time": 1748272342,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148628,
@@ -7219,6 +7219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47042,
+      "num": 47042,
+      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+      "onboard_time": 1748280855,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47008,
       "num": 343998,
       "word": "没有一只羊能走出KPL",
@@ -7563,14 +7571,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 34952,
-      "num": 31937,
-      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
-      "onboard_time": 1748280855,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 34458,
       "num": 417287,
       "word": "菜园坝是无数重庆人的人生第一站",
@@ -7608,6 +7608,14 @@
       "word": "藏海复仇之路又前进一步",
       "onboard_time": 1748112076,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32342,
+      "num": 32342,
+      "word": "肖战任少白民国贵公子路透",
+      "onboard_time": 1748285054,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -7747,6 +7755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28735,
+      "num": 28735,
+      "word": "特朗普威胁苹果时iPhone铃声响了",
+      "onboard_time": 1748274621,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28365,
       "num": 35603,
       "word": "刘国梁为王楚钦孙颖莎颁发奖杯",
@@ -7835,19 +7851,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26235,
-      "num": 26235,
-      "word": "特朗普威胁苹果时iPhone铃声响了",
-      "onboard_time": 1748274621,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26081,
       "num": 319280,
       "word": "男子无罪后诉请删除案底遇阻",
       "onboard_time": 1748266464,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26052,
+      "num": 26052,
+      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
+      "onboard_time": 1748289435,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -7873,6 +7889,14 @@
       "onboard_time": 1748164581,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25644,
+      "num": 25644,
+      "word": "知情人称被吸入高空男子飞行未报备",
+      "onboard_time": 1748292433,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25568,
@@ -7915,12 +7939,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23882,
-      "num": 23882,
-      "word": "肖战任少白民国贵公子路透",
-      "onboard_time": 1748285054,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 24167,
+      "num": 24167,
+      "word": "乌军称乌遭355架无人机袭击",
+      "onboard_time": 1748285115,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23794,
@@ -7977,6 +8001,14 @@
       "onboard_time": 1748268144,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23332,
+      "num": 24008,
+      "word": "被蟑螂爬过的食物千万别吃",
+      "onboard_time": 1748288834,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23308,
@@ -8043,6 +8075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21691,
+      "num": 24007,
+      "word": "原石油工业部部长王涛逝世",
+      "onboard_time": 1748292493,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21421,
       "num": 178055,
       "word": "盈都来董事长说取名胖都来不后悔",
@@ -8091,6 +8131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20382,
+      "num": 24005,
+      "word": "男子赴孟加拉国娶妻意外身亡家属发声",
+      "onboard_time": 1748285834,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20176,
       "num": 243476,
       "word": "黑豆水有什么神奇功效",
@@ -8105,6 +8153,14 @@
       "onboard_time": 1748256682,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20122,
+      "num": 24003,
+      "word": "村委会回应村庄田里设收费杆",
+      "onboard_time": 1748290874,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19673,
@@ -8123,36 +8179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19361,
-      "num": 22733,
-      "word": "男子赴孟加拉国娶妻意外身亡家属发声",
-      "onboard_time": 1748285834,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19070,
       "num": 250095,
       "word": "外媒称阿塞拜疆增加枭龙订单",
       "onboard_time": 1748241200,
       "rank": 26,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 18804,
-      "num": 18804,
-      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
-      "onboard_time": 1748289435,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18447,
-      "num": 18447,
-      "word": "被蟑螂爬过的食物千万别吃",
-      "onboard_time": 1748288834,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17818,
@@ -8187,20 +8219,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17312,
-      "num": 18671,
-      "word": "乌军称乌遭355架无人机袭击",
-      "onboard_time": 1748285115,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17287,
       "num": 22058,
       "word": "第五人格微博六百万粉丝",
       "onboard_time": 1748283014,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17177,
+      "num": 24002,
+      "word": "哈马斯已同意美特使提出的加沙停火方案",
+      "onboard_time": 1748290693,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16976,
@@ -8291,14 +8323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 14564,
-      "num": 14828,
-      "word": "村委会回应村庄田里设收费杆",
-      "onboard_time": 1748290874,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14541,
       "num": 389324,
       "word": "不同人群每日应摄入多少克膳食纤维",
@@ -8313,30 +8337,6 @@
       "onboard_time": 1748170880,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14265,
-      "num": 14831,
-      "word": "原石油工业部部长王涛逝世",
-      "onboard_time": 1748292493,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 14221,
-      "num": 14830,
-      "word": "知情人称被吸入高空男子飞行未报备",
-      "onboard_time": 1748292433,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13880,
-      "num": 14829,
-      "word": "哈马斯已同意美特使提出的加沙停火方案",
-      "onboard_time": 1748290693,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13126,
