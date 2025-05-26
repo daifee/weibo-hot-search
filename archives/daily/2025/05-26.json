@@ -1,6 +1,6 @@
 {
   "startTime": 1748190569614,
-  "endTime": 1748264719226,
+  "endTime": 1748266463434,
   "band_list": [
     {
       "raw_hot": 2347441,
@@ -67,20 +67,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1471958,
+      "num": 921166,
+      "word": "贾斯汀比伯告白女网红",
+      "onboard_time": 1748262383,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1468490,
       "num": 1337422,
       "word": "女子怀孕37周因吃冷藏食品流产",
       "onboard_time": 1748226681,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1455993,
-      "num": 639029,
-      "word": "贾斯汀比伯告白女网红",
-      "onboard_time": 1748262383,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1443759,
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 935904,
+      "num": 935904,
+      "word": "知网一论文下载95万次0次引用遭质疑",
+      "onboard_time": 1748262921,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 915740,
+      "num": 915740,
+      "word": "永容王爷 吓人",
+      "onboard_time": 1748262442,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 879844,
       "num": 453127,
       "word": "王楚钦机场偶遇安宰贤",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 745012,
-      "num": 456879,
+      "num": 464296,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
       "onboard_time": 1748259623,
       "rank": 10,
@@ -337,14 +353,6 @@
       "onboard_time": 1748229501,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608438,
-      "num": 473861,
-      "word": "永容王爷 吓人",
-      "onboard_time": 1748262442,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 600854,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 495560,
+      "num": 454915,
+      "word": "跳楼机",
+      "onboard_time": 1748265622,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 487784,
       "num": 415158,
       "word": "邱贻可晒孙颖莎蒯曼金牌合照",
@@ -529,6 +545,14 @@
       "onboard_time": 1748250681,
       "rank": 36,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 452438,
+      "num": 452438,
+      "word": "66岁大爷挖鼻孔致满脸肿胀变形",
+      "onboard_time": 1748261721,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449802,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430335,
+      "num": 430335,
+      "word": "网友日本偶遇王菲谢霆锋",
+      "onboard_time": 1748264182,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430119,
       "num": 430119,
       "word": "孙颖莎冠军",
@@ -667,12 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 405842,
-      "num": 405842,
-      "word": "66岁大爷挖鼻孔致满脸肿胀变形",
-      "onboard_time": 1748261721,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 407450,
+      "num": 407450,
+      "word": "现实中真正的漂亮",
+      "onboard_time": 1748259562,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 402855,
@@ -705,14 +737,6 @@
       "onboard_time": 1748189781,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 389607,
-      "num": 389607,
-      "word": "知网一论文下载95万次0次引用遭质疑",
-      "onboard_time": 1748262921,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388165,
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321901,
+      "num": 321901,
+      "word": "女子分享孕中孕晚分娩后容貌变化",
+      "onboard_time": 1748265502,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 321306,
       "num": 292983,
       "word": "生理性喜欢和心理性喜欢的区别",
@@ -979,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284306,
+      "num": 284306,
+      "word": "交警回应余承东疑似开车睡觉",
+      "onboard_time": 1748264962,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280749,
       "num": 250727,
       "word": "我的阿勒泰等10部剧入围白玉兰奖",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 265229,
-      "num": 265229,
-      "word": "网友日本偶遇王菲谢霆锋",
-      "onboard_time": 1748264182,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 257544,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1748226741,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247298,
-      "num": 354213,
-      "word": "现实中真正的漂亮",
-      "onboard_time": 1748259562,
-      "rank": 38,
-      "category": "休闲"
     },
     {
       "raw_hot": 247227,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216799,
+      "num": 216799,
+      "word": "左奇函在邓紫棋演唱会见证一场求婚",
+      "onboard_time": 1748265864,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216182,
       "num": 216182,
       "word": "孙颖莎掌心布满拼搏的见证",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1748218221,
       "rank": 18,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 212811,
+      "num": 471856,
+      "word": "王楚钦发文说感谢我的搭档莎莎",
+      "onboard_time": 1748258063,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 207314,
@@ -1305,14 +1345,6 @@
       "onboard_time": 1748254581,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202837,
-      "num": 315731,
-      "word": "王楚钦发文说感谢我的搭档莎莎",
-      "onboard_time": 1748258063,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 202795,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1748240181,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193386,
+      "num": 193386,
+      "word": "台湾名嘴手持孙颖莎照片哽咽发声",
+      "onboard_time": 1748265323,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 193349,
@@ -1499,6 +1539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 185402,
+      "num": 178340,
+      "word": "折腰预告",
+      "onboard_time": 1748265262,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184342,
       "num": 184342,
       "word": "特朗普再威胁哈佛",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1748259322,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181534,
+      "num": 181534,
+      "word": "藏海传海暗线分分合合",
+      "onboard_time": 1748265742,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181099,
@@ -1739,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169118,
+      "num": 169118,
+      "word": "JJ20",
+      "onboard_time": 1748265383,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168797,
       "num": 168797,
       "word": "金珉奎solo",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1748230101,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168109,
+      "num": 168109,
+      "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
+      "onboard_time": 1748264602,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 167594,
@@ -1805,10 +1877,26 @@
     {
       "raw_hot": 165591,
       "num": 165591,
+      "word": "上海地铁上踹人女子未成年已罚款",
+      "onboard_time": 1748260282,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165591,
+      "num": 165591,
       "word": "尹昉分享与赵丽颖拍戏趣事",
       "onboard_time": 1748263882,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165473,
+      "num": 165473,
+      "word": "三个月瘦了35斤的面部变化",
+      "onboard_time": 1748266042,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 165316,
@@ -1931,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160763,
-      "num": 160763,
-      "word": "上海地铁上踹人女子未成年已罚款",
-      "onboard_time": 1748260282,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160449,
       "num": 205970,
       "word": "梁靖崑回顾十年世锦赛之旅",
@@ -1979,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157484,
+      "num": 157484,
+      "word": "藏海传 楚门的世界",
+      "onboard_time": 1748265622,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157232,
       "num": 157232,
       "word": "吴谨言产后首个公开活动",
@@ -2009,6 +2097,14 @@
       "onboard_time": 1748232201,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155540,
+      "num": 155540,
+      "word": "日本黑帮头目因遛狗不牵绳被捕",
+      "onboard_time": 1748261602,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155452,
@@ -2059,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151386,
+      "num": 271985,
+      "word": "陈芋汐掌敏洁双人10米台夺冠",
+      "onboard_time": 1748262862,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151263,
       "num": 151263,
       "word": "当00后负责管理员工穿着",
@@ -2089,14 +2193,6 @@
       "onboard_time": 1748231182,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 149749,
-      "num": 271985,
-      "word": "陈芋汐掌敏洁双人10米台夺冠",
-      "onboard_time": 1748262862,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 148042,
@@ -2219,12 +2315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142738,
-      "num": 142738,
-      "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
-      "onboard_time": 1748264602,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 141283,
+      "num": 141283,
+      "word": "LPL涅槃组全军覆没",
+      "onboard_time": 1748266403,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 140359,
@@ -2289,14 +2385,6 @@
       "onboard_time": 1748259382,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 136133,
-      "num": 136133,
-      "word": "日本黑帮头目因遛狗不牵绳被捕",
-      "onboard_time": 1748261602,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135637,
@@ -2387,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129118,
+      "num": 175537,
+      "word": "男子赴孟加拉国娶妻意外身亡",
+      "onboard_time": 1748264542,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128860,
       "num": 128860,
       "word": "WE晋级淘汰赛",
@@ -2443,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126222,
-      "num": 175537,
-      "word": "男子赴孟加拉国娶妻意外身亡",
-      "onboard_time": 1748264542,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125754,
       "num": 125754,
       "word": "在外体面伪装背地挖墓经商",
@@ -2487,6 +2575,14 @@
       "num": 246312,
       "word": "遇害女子家属称凶手事发前半年曾敲门",
       "onboard_time": 1748244381,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123769,
+      "num": 353400,
+      "word": "手串辐射让养生变成养癌",
+      "onboard_time": 1748264722,
       "rank": 18,
       "category": "民生新闻"
     },
@@ -3051,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68702,
+      "num": 468508,
+      "word": "知网回应称下载与引用无直接关系",
+      "onboard_time": 1748265562,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67866,
       "num": 431375,
       "word": "央美毕业展多件作品疑被熊孩子损坏",
@@ -3579,6 +3683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19652,
+      "num": 353169,
+      "word": "带状疱疹有哪些常见的误区",
+      "onboard_time": 1748265082,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19070,
       "num": 250095,
       "word": "外媒称阿塞拜疆增加枭龙订单",
@@ -3601,6 +3713,14 @@
       "onboard_time": 1748251343,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17457,
+      "num": 192767,
+      "word": "有效且有用的攒钱计划",
+      "onboard_time": 1748264783,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 17409,
@@ -3683,12 +3803,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 8690,
+      "num": 189922,
+      "word": "缓解焦虑压力的10个方法",
+      "onboard_time": 1748266283,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 8426,
       "num": 241658,
       "word": "印度卖防空武器系统给亚美尼亚",
       "onboard_time": 1748258362,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8119,
+      "num": 178547,
+      "word": "兰州马拉松究竟有多能整活",
+      "onboard_time": 1748266344,
+      "rank": 34,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 7809,
@@ -3715,6 +3851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 6467,
+      "num": 174294,
+      "word": "终于和导师拍上了抽象毕业照",
+      "onboard_time": 1748264542,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 5880,
       "num": 293556,
       "word": "如何参与影人破幕计划",
@@ -3729,14 +3873,6 @@
       "onboard_time": 1748244080,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2895,
-      "num": 174294,
-      "word": "终于和导师拍上了抽象毕业照",
-      "onboard_time": 1748264542,
-      "rank": 28,
-      "category": "幽默,民生新闻"
     }
   ],
   "hotgov_list": [
