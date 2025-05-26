@@ -1,7 +1,15 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748299322311,
+  "endTime": 1748301816579,
   "band_list": [
+    {
+      "raw_hot": 921312,
+      "num": 921312,
+      "word": "马克龙回应专机上被妻子推搡",
+      "onboard_time": 1748273601,
+      "rank": 4,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 765571,
       "num": 888116,
@@ -9,6 +17,14 @@
       "onboard_time": 1748272941,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 640053,
+      "num": 535529,
+      "word": "王健林已被冻结4.9亿股权",
+      "onboard_time": 1748270843,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 606665,
@@ -19,14 +35,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 604285,
-      "num": 604285,
-      "word": "马克龙回应专机上被妻子推搡",
-      "onboard_time": 1748273601,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 568528,
       "num": 89762,
       "word": "麦琳 千禧辣妹",
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 535529,
-      "num": 535529,
-      "word": "王健林已被冻结4.9亿股权",
-      "onboard_time": 1748270843,
-      "rank": 3,
-      "category": "财经"
+      "raw_hot": 509652,
+      "num": 477284,
+      "word": "姚安娜说还好从哈佛毕业了",
+      "onboard_time": 1748271503,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 492105,
@@ -51,12 +59,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471235,
-      "num": 471235,
-      "word": "姚安娜说还好从哈佛毕业了",
-      "onboard_time": 1748271503,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 491520,
+      "num": 249607,
+      "word": "六旬老人打赏女主播18万妻子发声",
+      "onboard_time": 1748277019,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470284,
+      "num": 470284,
+      "word": "杭州第三只外逃金钱豹四年后仍成谜",
+      "onboard_time": 1748272342,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423207,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333330,
+      "num": 333330,
+      "word": "刘宇宁拍戏不看手机不拿剧本",
+      "onboard_time": 1748267603,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331868,
       "num": 331868,
       "word": "三个月瘦了35斤的面部变化",
@@ -96,14 +120,6 @@
       "word": "知网一论文下载95万次0次引用遭质疑",
       "onboard_time": 1748262921,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307311,
-      "num": 116310,
-      "word": "六旬老人打赏女主播18万妻子发声",
-      "onboard_time": 1748277019,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -123,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259232,
-      "num": 259232,
-      "word": "杭州第三只外逃金钱豹四年后仍成谜",
-      "onboard_time": 1748272342,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253149,
       "num": 129364,
       "word": "王楚钦发文说感谢我的搭档莎莎",
@@ -139,8 +147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195876,
-      "num": 195876,
+      "raw_hot": 222954,
+      "num": 222954,
       "word": "交警回应余承东疑似开车睡觉",
       "onboard_time": 1748264962,
       "rank": 14,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "遇害海归女母亲曾提醒其注意江歌案",
+      "onboard_time": 1748259623,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162842,
       "num": 162842,
       "word": "宋威龙好帅",
@@ -211,12 +227,20 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 118313,
-      "num": 118313,
-      "word": "刘宇宁拍戏不看手机不拿剧本",
-      "onboard_time": 1748267603,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 120891,
+      "num": 120891,
+      "word": "女子分享孕中孕晚分娩后容貌变化",
+      "onboard_time": 1748265502,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 115857,
+      "num": 115857,
+      "word": "许昕说樊振东会打乒超",
+      "onboard_time": 1748300717,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 115013,
@@ -227,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112952,
-      "num": 112952,
-      "word": "遇害海归女母亲曾提醒其注意江歌案",
-      "onboard_time": 1748259623,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108409,
       "num": 108409,
       "word": "藏海传 楚门的世界",
@@ -243,12 +259,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105127,
+      "num": 105127,
+      "word": "网友日本偶遇王菲谢霆锋",
+      "onboard_time": 1748264182,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100559,
+      "num": 100559,
+      "word": "台湾名嘴手持孙颖莎照片哽咽发声",
+      "onboard_time": 1748265323,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99819,
+      "num": 99819,
+      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+      "onboard_time": 1748280855,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99491,
       "num": 99491,
       "word": "刘琰对苏娥皇是真爱",
       "onboard_time": 1748269044,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98152,
+      "num": 98152,
+      "word": "肥娟夫妇取消请1000位网友参加婚礼",
+      "onboard_time": 1748256501,
+      "rank": 26,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 96682,
@@ -265,6 +313,14 @@
       "onboard_time": 1748273302,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90547,
+      "num": 90547,
+      "word": "折腰吻戏",
+      "onboard_time": 1748267302,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 90319,
@@ -299,6 +355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87059,
+      "num": 87059,
+      "word": "女性经期建议避免3类运动",
+      "onboard_time": 1748300837,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86289,
+      "num": 86289,
+      "word": "大家买的房子都跌了多少",
+      "onboard_time": 1748255301,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85862,
       "num": 85862,
       "word": "林峯演唱会嘉宾钟嘉欣",
@@ -307,36 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 81068,
-      "num": 81068,
-      "word": "大家买的房子都跌了多少",
-      "onboard_time": 1748255301,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 80757,
-      "num": 77209,
-      "word": "网友日本偶遇王菲谢霆锋",
-      "onboard_time": 1748264182,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79574,
       "num": 76353,
       "word": "藏海杨真附体了",
       "onboard_time": 1748275041,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79148,
-      "num": 79148,
-      "word": "女子分享孕中孕晚分娩后容貌变化",
-      "onboard_time": 1748265502,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 79006,
@@ -371,20 +419,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71271,
+      "num": 71271,
+      "word": "知情人称被吸入高空男子飞行未报备",
+      "onboard_time": 1748292433,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68887,
       "num": 68887,
       "word": "美团王兴回应京东外卖百亿补贴",
       "onboard_time": 1748269944,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 66346,
-      "num": 66346,
-      "word": "折腰吻戏",
-      "onboard_time": 1748267302,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 64891,
@@ -395,12 +443,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64760,
+      "num": 64760,
+      "word": "原来这就是不在小事上消耗孩子",
+      "onboard_time": 1748300237,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63591,
       "num": 63591,
       "word": "孙颖莎总结多哈世乒赛",
       "onboard_time": 1748244679,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63047,
+      "num": 63047,
+      "word": "肖战任少白民国贵公子路透",
+      "onboard_time": 1748285054,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61426,
+      "num": 61426,
+      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
+      "onboard_time": 1748289435,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58528,
@@ -411,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56750,
-      "num": 56750,
-      "word": "三名日本黑帮成员因遛狗不拴绳被捕",
-      "onboard_time": 1748280855,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 52964,
+      "num": 52964,
+      "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
+      "onboard_time": 1748300658,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 52423,
@@ -427,12 +499,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 42915,
-      "num": 42915,
-      "word": "肖战任少白民国贵公子路透",
-      "onboard_time": 1748285054,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 52382,
+      "num": 250140,
+      "word": "缅北明家犯罪集团案已进入审判环节",
+      "onboard_time": 1748277319,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51674,
+      "num": 51674,
+      "word": "乌军称乌遭355架无人机袭击",
+      "onboard_time": 1748285115,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47281,
+      "num": 47281,
+      "word": "鹿晗勋章唱给追梦英雄",
+      "onboard_time": 1748301318,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 43479,
+      "num": 249685,
+      "word": "英国一辆汽车冲撞球迷",
+      "onboard_time": 1748301198,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41816,
@@ -449,22 +545,6 @@
       "onboard_time": 1748259262,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37347,
-      "num": 37347,
-      "word": "缅北明家犯罪集团案已进入审判环节",
-      "onboard_time": 1748277319,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37333,
-      "num": 37333,
-      "word": "知情人称被吸入高空男子飞行未报备",
-      "onboard_time": 1748292433,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35933,
@@ -491,28 +571,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27549,
-      "num": 27549,
-      "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
-      "onboard_time": 1748289435,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27436,
-      "num": 27436,
-      "word": "乌军称乌遭355架无人机袭击",
-      "onboard_time": 1748285115,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27017,
       "num": 27017,
       "word": "你到家了稚奴",
       "onboard_time": 1748284154,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25728,
+      "num": 87451,
+      "word": "哈马斯已同意美特使提出的加沙停火方案",
+      "onboard_time": 1748290693,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25667,
@@ -537,14 +609,6 @@
       "onboard_time": 1748290874,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23140,
-      "num": 27428,
-      "word": "哈马斯已同意美特使提出的加沙停火方案",
-      "onboard_time": 1748290693,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22682,

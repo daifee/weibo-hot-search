@@ -1,0 +1,402 @@
+{
+  "runTime": 1748301816579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 921312,
+        "num": 921312,
+        "word": "马克龙回应专机上被妻子推搡",
+        "onboard_time": 1748273601,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505124,
+        "num": 505124,
+        "word": "特朗普威胁苹果时iPhone响了",
+        "onboard_time": 1748272941,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 640053,
+        "num": 482617,
+        "word": "王健林已被冻结4.9亿股权",
+        "onboard_time": 1748270843,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 509652,
+        "num": 477284,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470284,
+        "num": 470284,
+        "word": "杭州第三只外逃金钱豹四年后仍成谜",
+        "onboard_time": 1748272342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333330,
+        "num": 333330,
+        "word": "刘宇宁拍戏不看手机不拿剧本",
+        "onboard_time": 1748267603,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278705,
+        "num": 278705,
+        "word": "现实中真正的漂亮",
+        "onboard_time": 1748259562,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 52382,
+        "num": 250140,
+        "word": "缅北明家犯罪集团案已进入审判环节",
+        "onboard_time": 1748277319,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43479,
+        "num": 249685,
+        "word": "英国一辆汽车冲撞球迷",
+        "onboard_time": 1748301198,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491520,
+        "num": 249607,
+        "word": "六旬老人打赏女主播18万妻子发声",
+        "onboard_time": 1748277019,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249371,
+        "num": 249371,
+        "word": "三个月瘦了35斤的面部变化",
+        "onboard_time": 1748266042,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222954,
+        "num": 222954,
+        "word": "交警回应余承东疑似开车睡觉",
+        "onboard_time": 1748264962,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210255,
+        "num": 210255,
+        "word": "贾斯汀比伯告白女网红",
+        "onboard_time": 1748262383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197256,
+        "num": 197256,
+        "word": "5元自助快餐店因一条差评火了",
+        "onboard_time": 1748258661,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "张一山生日赵丽颖送了两巴掌",
+        "onboard_time": 1748267124,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175135,
+        "num": 175135,
+        "word": "女子家门口遇害后母亲一夜白头",
+        "onboard_time": 1748272223,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165666,
+        "num": 165666,
+        "word": "遇害海归女母亲曾提醒其注意江歌案",
+        "onboard_time": 1748259623,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156063,
+        "num": 156063,
+        "word": "知网一论文下载95万次0次引用遭质疑",
+        "onboard_time": 1748262921,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151607,
+        "num": 151607,
+        "word": "大乔小乔吵架",
+        "onboard_time": 1748269344,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120891,
+        "num": 120891,
+        "word": "女子分享孕中孕晚分娩后容貌变化",
+        "onboard_time": 1748265502,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 115857,
+        "num": 115857,
+        "word": "许昕说樊振东会打乒超",
+        "onboard_time": 1748300717,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105269,
+        "num": 105269,
+        "word": "普京所乘飞机遭大规模袭击",
+        "onboard_time": 1748250083,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105127,
+        "num": 105127,
+        "word": "网友日本偶遇王菲谢霆锋",
+        "onboard_time": 1748264182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100559,
+        "num": 100559,
+        "word": "台湾名嘴手持孙颖莎照片哽咽发声",
+        "onboard_time": 1748265323,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99819,
+        "num": 99819,
+        "word": "三名日本黑帮成员因遛狗不拴绳被捕",
+        "onboard_time": 1748280855,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98152,
+        "num": 98152,
+        "word": "肥娟夫妇取消请1000位网友参加婚礼",
+        "onboard_time": 1748256501,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 90547,
+        "num": 90547,
+        "word": "折腰吻戏",
+        "onboard_time": 1748267302,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90172,
+        "num": 90172,
+        "word": "小沈阳把张百乔拉黑了",
+        "onboard_time": 1748253142,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88011,
+        "num": 88011,
+        "word": "刘若英演唱会两姐妹点歌",
+        "onboard_time": 1748275280,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25728,
+        "num": 87451,
+        "word": "哈马斯已同意美特使提出的加沙停火方案",
+        "onboard_time": 1748290693,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87059,
+        "num": 87059,
+        "word": "女性经期建议避免3类运动",
+        "onboard_time": 1748300837,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86289,
+        "num": 86289,
+        "word": "大家买的房子都跌了多少",
+        "onboard_time": 1748255301,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84065,
+        "num": 84065,
+        "word": "藏海传 楚门的世界",
+        "onboard_time": 1748265622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82601,
+        "num": 82601,
+        "word": "K总为看藏海传停播一天",
+        "onboard_time": 1748270004,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78010,
+        "num": 78010,
+        "word": "王楚钦发文说感谢我的搭档莎莎",
+        "onboard_time": 1748258063,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71271,
+        "num": 71271,
+        "word": "知情人称被吸入高空男子飞行未报备",
+        "onboard_time": 1748292433,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65983,
+        "num": 65983,
+        "word": "王楚钦世乒赛后发文",
+        "onboard_time": 1748247081,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64760,
+        "num": 64760,
+        "word": "原来这就是不在小事上消耗孩子",
+        "onboard_time": 1748300237,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63047,
+        "num": 63047,
+        "word": "肖战任少白民国贵公子路透",
+        "onboard_time": 1748285054,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61426,
+        "num": 61426,
+        "word": "老人吃冷藏瑞士卷感染李斯特菌去世",
+        "onboard_time": 1748289435,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56232,
+        "num": 56232,
+        "word": "2025白玉兰最佳女主角将花落谁家",
+        "onboard_time": 1748252183,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52964,
+        "num": 52964,
+        "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
+        "onboard_time": 1748300658,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51674,
+        "num": 51674,
+        "word": "乌军称乌遭355架无人机袭击",
+        "onboard_time": 1748285115,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51506,
+        "num": 51506,
+        "word": "美团王兴回应京东外卖百亿补贴",
+        "onboard_time": 1748269944,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49686,
+        "num": 49686,
+        "word": "肖战回复周奇莫辜负",
+        "onboard_time": 1748275101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48219,
+        "num": 48219,
+        "word": "9.9元便宜好物可能要命",
+        "onboard_time": 1748273122,
+        "rank": 46,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 47281,
+        "num": 47281,
+        "word": "鹿晗勋章唱给追梦英雄",
+        "onboard_time": 1748301318,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46411,
+        "num": 46411,
+        "word": "永容王爷 吓人",
+        "onboard_time": 1748262442,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45772,
+        "num": 45772,
+        "word": "房琪回归后视频风格大变",
+        "onboard_time": 1748256441,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
