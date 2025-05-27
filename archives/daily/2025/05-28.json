@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748381092524,
+  "endTime": 1748381990273,
   "band_list": [
     {
       "raw_hot": 772396,
@@ -467,6 +467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24191,
+      "num": 24191,
+      "word": "藏海传城网登顶",
+      "onboard_time": 1748379313,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23821,
+      "num": 23821,
+      "word": "特朗普考虑撤回哈佛30亿美元拨款",
+      "onboard_time": 1748378294,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20809,
       "num": 20719,
       "word": "郑恺张真源打网球",
@@ -491,32 +507,24 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 18602,
-      "num": 18602,
-      "word": "藏海传城网登顶",
-      "onboard_time": 1748379313,
-      "rank": 34,
+      "raw_hot": 18222,
+      "num": 18222,
+      "word": "风与潮第二波阵容剧照",
+      "onboard_time": 1748381234,
+      "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 18590,
-      "num": 18590,
-      "word": "特朗普考虑撤回哈佛30亿美元拨款",
-      "onboard_time": 1748378294,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16176,
-      "num": 16176,
+      "raw_hot": 17090,
+      "num": 17090,
       "word": "特朗普说美军阅兵式将超奥运会",
       "onboard_time": 1748372353,
       "rank": 44,
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 15003,
-      "num": 15505,
+      "raw_hot": 15321,
+      "num": 16219,
       "word": "2025文化强国建设高峰论坛",
       "onboard_time": 1748378415,
       "rank": 39,
