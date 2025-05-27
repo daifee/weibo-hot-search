@@ -1,10 +1,10 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748320376486,
+  "endTime": 1748321275400,
   "band_list": [
     {
       "raw_hot": 1802246,
-      "num": 495914,
+      "num": 628122,
       "word": "母亲跌倒六天儿子见死不救去世",
       "onboard_time": 1748312660,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1378786,
-      "num": 1032843,
+      "num": 1044851,
       "word": "教育部通知严禁违规频繁考试",
       "onboard_time": 1748313980,
       "rank": 12,
@@ -41,6 +41,14 @@
       "onboard_time": 1748304320,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1020858,
+      "num": 1020858,
+      "word": "王曼昱 雅诗兰黛",
+      "onboard_time": 1748320223,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 996199,
@@ -64,6 +72,14 @@
       "word": "网传彩票店因未先付款想占百万奖金",
       "onboard_time": 1748314520,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 794864,
+      "num": 794864,
+      "word": "女子持刀杀人后父母带其做精神鉴定",
+      "onboard_time": 1748313920,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -92,11 +108,19 @@
     },
     {
       "raw_hot": 761616,
-      "num": 494233,
+      "num": 588058,
       "word": "凶手等到女子妈妈离开后敲门杀人",
       "onboard_time": 1748312839,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702728,
+      "num": 702728,
+      "word": "宋雨琦把IU给整结巴了",
+      "onboard_time": 1748319682,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 691705,
@@ -116,11 +140,19 @@
     },
     {
       "raw_hot": 640091,
-      "num": 398182,
+      "num": 475367,
       "word": "杨幂穿弯刀裤",
       "onboard_time": 1748315421,
       "rank": 36,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 637580,
+      "num": 637580,
+      "word": "BLACKPINK宣布新巡演",
+      "onboard_time": 1748318422,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 606665,
@@ -131,20 +163,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 599875,
-      "num": 599875,
-      "word": "BLACKPINK宣布新巡演",
-      "onboard_time": 1748318422,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 592914,
       "num": 592914,
       "word": "断眉登机照",
       "onboard_time": 1748314280,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586763,
+      "num": 542062,
+      "word": "母亲要求不给家门口遇害女儿打码",
+      "onboard_time": 1748316921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584450,
+      "num": 584450,
+      "word": "刘若英回应演唱会两姐妹点歌",
+      "onboard_time": 1748319622,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 580822,
@@ -161,22 +201,6 @@
       "onboard_time": 1748271082,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 542062,
-      "num": 542062,
-      "word": "母亲要求不给家门口遇害女儿打码",
-      "onboard_time": 1748316921,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522827,
-      "num": 413171,
-      "word": "女子持刀杀人后父母带其做精神鉴定",
-      "onboard_time": 1748313920,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 492105,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 469193,
-      "num": 395907,
+      "num": 446876,
       "word": "花165万买了北京150平米老破大",
       "onboard_time": 1748309181,
       "rank": 26,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428179,
+      "num": 1068508,
+      "word": "广州某科技公司遭台湾黑客攻击",
+      "onboard_time": 1748309301,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 423207,
       "num": 423207,
       "word": "K总为看藏海传停播一天",
@@ -243,28 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423102,
-      "num": 1067696,
-      "word": "广州某科技公司遭台湾黑客攻击",
-      "onboard_time": 1748309301,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 415718,
-      "num": 415718,
+      "num": 565754,
       "word": "姚晨从小就是大五官",
       "onboard_time": 1748318601,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412723,
-      "num": 412723,
-      "word": "刘若英回应演唱会两姐妹点歌",
-      "onboard_time": 1748319622,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 408420,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 387797,
-      "num": 407351,
+      "num": 546288,
       "word": "谁懂赵丽颖一开口的宿命感",
       "onboard_time": 1748316200,
       "rank": 18,
@@ -321,6 +337,14 @@
       "onboard_time": 1748313621,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357833,
+      "num": 503697,
+      "word": "丁程鑫参加北电毕业答辩",
+      "onboard_time": 1748319322,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 348223,
@@ -355,28 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307545,
-      "num": 307545,
-      "word": "宋雨琦把IU给整结巴了",
-      "onboard_time": 1748319682,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283662,
-      "num": 283662,
-      "word": "王曼昱 雅诗兰黛",
-      "onboard_time": 1748320223,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 280160,
-      "num": 280160,
+      "raw_hot": 313585,
+      "num": 313585,
       "word": "国产剧离婚女主早不玩吃苦这套了",
       "onboard_time": 1748318543,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284170,
+      "num": 284170,
+      "word": "光遇",
+      "onboard_time": 1748320161,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 280056,
@@ -387,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263122,
-      "num": 263122,
-      "word": "光遇",
-      "onboard_time": 1748320161,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 275984,
+      "num": 275984,
+      "word": "嘬老",
+      "onboard_time": 1748317521,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 261055,
@@ -401,6 +417,22 @@
       "onboard_time": 1748269344,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259095,
+      "num": 259095,
+      "word": "光与夜之恋",
+      "onboard_time": 1748320282,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 258965,
+      "num": 258965,
+      "word": "粤A人不哭",
+      "onboard_time": 1748317941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253149,
@@ -425,14 +457,6 @@
       "onboard_time": 1748310200,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 239646,
-      "num": 400813,
-      "word": "丁程鑫参加北电毕业答辩",
-      "onboard_time": 1748319322,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 239350,
@@ -491,12 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202675,
-      "num": 202675,
-      "word": "粤A人不哭",
-      "onboard_time": 1748317941,
-      "rank": 37,
+      "raw_hot": 205630,
+      "num": 482959,
+      "word": "景区回应月薪3万招帅气NPC属实",
+      "onboard_time": 1748319682,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192924,
+      "num": 192924,
+      "word": "冰箱贴",
+      "onboard_time": 1748321002,
+      "rank": 38,
+      "category": "旅游,休闲"
     },
     {
       "raw_hot": 191938,
@@ -547,6 +579,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 185942,
+      "num": 415098,
+      "word": "成都女子家门口被害案需重新取证",
+      "onboard_time": 1748318060,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184595,
       "num": 369394,
       "word": "京东卖的百年龙虾嫩吗",
@@ -571,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180378,
+      "num": 285026,
+      "word": "孙颖莎多哈世乒赛vlog",
+      "onboard_time": 1748318002,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178738,
       "num": 178738,
       "word": "李萌萌演了Mike的女主角",
@@ -579,20 +627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177566,
-      "num": 415098,
-      "word": "成都女子家门口被害案需重新取证",
-      "onboard_time": 1748318060,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 177425,
+      "num": 574209,
+      "word": "李昀锐北面冲锋衣战神",
+      "onboard_time": 1748317342,
+      "rank": 14,
+      "category": "艺人"
     },
     {
-      "raw_hot": 174123,
-      "num": 285026,
-      "word": "孙颖莎多哈世乒赛vlog",
-      "onboard_time": 1748318002,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 175426,
+      "num": 269537,
+      "word": "日本失去全球最大债权国地位",
+      "onboard_time": 1748319923,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172173,
@@ -643,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165655,
+      "num": 271556,
+      "word": "藏海爷们要脸",
+      "onboard_time": 1748318242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162842,
       "num": 162842,
       "word": "宋威龙好帅",
@@ -651,16 +707,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160086,
-      "num": 160086,
-      "word": "嘬老",
-      "onboard_time": 1748317521,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 159454,
-      "num": 159454,
+      "raw_hot": 162518,
+      "num": 162518,
       "word": "西藏警方通报珠峰车辆被砸",
       "onboard_time": 1748316502,
       "rank": 41,
@@ -675,28 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157573,
-      "num": 263823,
-      "word": "日本失去全球最大债权国地位",
-      "onboard_time": 1748319923,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157239,
-      "num": 157239,
-      "word": "光与夜之恋",
-      "onboard_time": 1748320282,
-      "rank": 45,
+      "raw_hot": 158029,
+      "num": 158029,
+      "word": "光遇复刻",
+      "onboard_time": 1748320462,
+      "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153983,
-      "num": 153983,
-      "word": "藏海爷们要脸",
-      "onboard_time": 1748318242,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 152555,
@@ -723,20 +755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "怎么会有猫长得像被嗦过的芒果核",
+      "onboard_time": 1748320702,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150408,
+      "num": 150408,
+      "word": "00后抗癌博主千千离世",
+      "onboard_time": 1748321183,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148490,
       "num": 427009,
       "word": "杀害成都女子凶手称正当防卫不认罪",
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146502,
-      "num": 413887,
-      "word": "李昀锐北面冲锋衣战神",
-      "onboard_time": 1748317342,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 142993,
@@ -915,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121238,
+      "num": 288246,
+      "word": "中国申办2029世乒赛宣传片",
+      "onboard_time": 1748318183,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121155,
       "num": 121155,
       "word": "9.9元便宜好物可能要命",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1748316561,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 97938,
-      "num": 398752,
-      "word": "景区回应月薪3万招帅气NPC属实",
-      "onboard_time": 1748319682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97688,
@@ -1395,6 +1435,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 53399,
+      "num": 1022291,
+      "word": "中国特色现代企业制度说明书来了",
+      "onboard_time": 1748316801,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 52964,
       "num": 52964,
       "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
@@ -1451,14 +1499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43539,
-      "num": 921833,
-      "word": "中国特色现代企业制度说明书来了",
-      "onboard_time": 1748316801,
-      "rank": 2,
-      "category": "正能量,财经"
-    },
-    {
       "raw_hot": 41816,
       "num": 41816,
       "word": "还是皮筋猴好骗",
@@ -1476,7 +1516,7 @@
     },
     {
       "raw_hot": 40196,
-      "num": 644034,
+      "num": 813172,
       "word": "国家网络身份认证筑牢数字安全屏障",
       "onboard_time": 1748316742,
       "rank": 5,
@@ -1512,6 +1552,14 @@
       "word": "被蟑螂爬过的食物千万别吃",
       "onboard_time": 1748288834,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29204,
+      "num": 594538,
+      "word": "当地回应滑翔伞爱好者高空结冰",
+      "onboard_time": 1748320823,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1609,6 +1657,14 @@
       "onboard_time": 1748317642,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 15746,
+      "num": 269607,
+      "word": "工作中做个淡人是什么样的",
+      "onboard_time": 1748320823,
+      "rank": 28,
+      "category": "议题讨论,民生新闻"
     },
     {
       "raw_hot": 14965,

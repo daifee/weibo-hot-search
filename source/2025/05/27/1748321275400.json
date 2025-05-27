@@ -1,0 +1,410 @@
+{
+  "runTime": 1748321275400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 428179,
+        "num": 1068508,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1210952,
+        "num": 1044851,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53399,
+        "num": 1022291,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1020858,
+        "num": 1020858,
+        "word": "王曼昱 雅诗兰黛",
+        "onboard_time": 1748320223,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838319,
+        "num": 838319,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31535,
+        "num": 813172,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 794864,
+        "num": 794864,
+        "word": "女子持刀杀人后父母带其做精神鉴定",
+        "onboard_time": 1748313920,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717684,
+        "num": 717684,
+        "word": "网传彩票店因未先付款想占百万奖金",
+        "onboard_time": 1748314520,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702728,
+        "num": 702728,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637580,
+        "num": 637580,
+        "word": "BLACKPINK宣布新巡演",
+        "onboard_time": 1748318422,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1240955,
+        "num": 628122,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29204,
+        "num": 594538,
+        "word": "当地回应滑翔伞爱好者高空结冰",
+        "onboard_time": 1748320823,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588058,
+        "num": 588058,
+        "word": "凶手等到女子妈妈离开后敲门杀人",
+        "onboard_time": 1748312839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584450,
+        "num": 584450,
+        "word": "刘若英回应演唱会两姐妹点歌",
+        "onboard_time": 1748319622,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177425,
+        "num": 574209,
+        "word": "李昀锐北面冲锋衣战神",
+        "onboard_time": 1748317342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405129,
+        "num": 565754,
+        "word": "姚晨从小就是大五官",
+        "onboard_time": 1748318601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358341,
+        "num": 546288,
+        "word": "谁懂赵丽颖一开口的宿命感",
+        "onboard_time": 1748316200,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586763,
+        "num": 518742,
+        "word": "母亲要求不给家门口遇害女儿打码",
+        "onboard_time": 1748316921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357833,
+        "num": 503697,
+        "word": "丁程鑫参加北电毕业答辩",
+        "onboard_time": 1748319322,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205630,
+        "num": 482959,
+        "word": "景区回应月薪3万招帅气NPC属实",
+        "onboard_time": 1748319682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475367,
+        "num": 475367,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 20,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 446876,
+        "num": 446876,
+        "word": "花165万买了北京150平米老破大",
+        "onboard_time": 1748309181,
+        "rank": 21,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 352078,
+        "num": 352078,
+        "word": "王楚钦孙颖莎混双世排第二",
+        "onboard_time": 1748313621,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313585,
+        "num": 313585,
+        "word": "国产剧离婚女主早不玩吃苦这套了",
+        "onboard_time": 1748318543,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121238,
+        "num": 288246,
+        "word": "中国申办2029世乒赛宣传片",
+        "onboard_time": 1748318183,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284170,
+        "num": 284170,
+        "word": "光遇",
+        "onboard_time": 1748320161,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275984,
+        "num": 275984,
+        "word": "嘬老",
+        "onboard_time": 1748317521,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165655,
+        "num": 271556,
+        "word": "藏海爷们要脸",
+        "onboard_time": 1748318242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15746,
+        "num": 269607,
+        "word": "工作中做个淡人是什么样的",
+        "onboard_time": 1748320823,
+        "rank": 28,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 175426,
+        "num": 269537,
+        "word": "日本失去全球最大债权国地位",
+        "onboard_time": 1748319923,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269537,
+        "num": 269536,
+        "word": "芒果男主持转型拍短剧的演技",
+        "onboard_time": 1748317762,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270827,
+        "num": 266169,
+        "word": "肖战爱买冰箱贴",
+        "onboard_time": 1748314040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259095,
+        "num": 259095,
+        "word": "光与夜之恋",
+        "onboard_time": 1748320282,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258965,
+        "num": 258965,
+        "word": "粤A人不哭",
+        "onboard_time": 1748317941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197846,
+        "num": 197846,
+        "word": "男子中百万大奖却没付30元彩票钱",
+        "onboard_time": 1748317822,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194851,
+        "num": 194851,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202290,
+        "num": 194822,
+        "word": "藏海传制片说不因是顶流选肖战",
+        "onboard_time": 1748316081,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194259,
+        "num": 194259,
+        "word": "香港人涌入内地从买菜到看病",
+        "onboard_time": 1748317100,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192924,
+        "num": 192924,
+        "word": "冰箱贴",
+        "onboard_time": 1748321002,
+        "rank": 38,
+        "category": "旅游,休闲"
+      },
+      {
+        "raw_hot": 185942,
+        "num": 185942,
+        "word": "成都女子家门口被害案需重新取证",
+        "onboard_time": 1748318060,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180378,
+        "num": 180378,
+        "word": "孙颖莎多哈世乒赛vlog",
+        "onboard_time": 1748318002,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "邓紫棋重录",
+        "onboard_time": 1748316861,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162882,
+        "num": 162882,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162518,
+        "num": 162518,
+        "word": "西藏警方通报珠峰车辆被砸",
+        "onboard_time": 1748316502,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 158029,
+        "num": 158029,
+        "word": "光遇复刻",
+        "onboard_time": 1748320462,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154144,
+        "num": 154144,
+        "word": "丁禹兮中餐厅单手接饼",
+        "onboard_time": 1748319622,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150530,
+        "num": 150530,
+        "word": "怎么会有猫长得像被嗦过的芒果核",
+        "onboard_time": 1748320702,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150408,
+        "num": 150408,
+        "word": "00后抗癌博主千千离世",
+        "onboard_time": 1748321183,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149450,
+        "num": 149450,
+        "word": "德国告诉以色列不要太过火",
+        "onboard_time": 1748319322,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143981,
+        "num": 143981,
+        "word": "弯刀裤",
+        "onboard_time": 1748304320,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
