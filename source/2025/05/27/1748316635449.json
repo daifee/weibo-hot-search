@@ -1,0 +1,410 @@
+{
+  "runTime": 1748316635449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 336331,
+        "num": 1053813,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1376365,
+        "num": 1005456,
+        "word": "教授称对烫碗习惯恶心",
+        "onboard_time": 1748311281,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2,
+        "num": 962362,
+        "word": "优质主播中国行赣出圈",
+        "onboard_time": 1748310920,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 940926,
+        "num": 940926,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 847479,
+        "num": 847479,
+        "word": "网传彩票店因未先付款想占百万奖金",
+        "onboard_time": 1748314520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664325,
+        "num": 664325,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592914,
+        "num": 592914,
+        "word": "断眉登机照",
+        "onboard_time": 1748314280,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542052,
+        "num": 542052,
+        "word": "弯刀裤",
+        "onboard_time": 1748304320,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377768,
+        "num": 519842,
+        "word": "吴京发布翻车视频",
+        "onboard_time": 1748307621,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497838,
+        "num": 497838,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1802246,
+        "num": 495914,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643162,
+        "num": 494233,
+        "word": "凶手等到女子妈妈离开后敲门杀人",
+        "onboard_time": 1748312839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479701,
+        "num": 479701,
+        "word": "女儿未恋爱遇害母亲泣诉人生骤断",
+        "onboard_time": 1748306842,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 361381,
+        "num": 361381,
+        "word": "花165万买了北京150平米老破大",
+        "onboard_time": 1748309181,
+        "rank": 13,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 26403,
+        "num": 320600,
+        "word": "美联航一航班滑跑喷火中断起飞",
+        "onboard_time": 1748315902,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282447,
+        "num": 282447,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280339,
+        "num": 280339,
+        "word": "藏海传制片说不因是顶流选肖战",
+        "onboard_time": 1748316081,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210336,
+        "num": 280304,
+        "word": "爸爸当家4选人含金量还在上升",
+        "onboard_time": 1748312720,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205340,
+        "num": 279680,
+        "word": "谁懂赵丽颖一开口的宿命感",
+        "onboard_time": 1748316200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153821,
+        "num": 279197,
+        "word": "京东卖的百年龙虾嫩吗",
+        "onboard_time": 1748315300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535861,
+        "num": 278848,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 20,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 278443,
+        "num": 278443,
+        "word": "王楚钦孙颖莎混双世排第二",
+        "onboard_time": 1748313621,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197245,
+        "num": 278195,
+        "word": "BLACKPINK或将下半年回归",
+        "onboard_time": 1748312961,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158844,
+        "num": 277028,
+        "word": "孙颖莎连续150周第一",
+        "onboard_time": 1748315300,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146246,
+        "num": 276684,
+        "word": "林更新提名白玉兰最佳男配角",
+        "onboard_time": 1748310200,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55073,
+        "num": 275996,
+        "word": "600公里人象寻亲破防了",
+        "onboard_time": 1748313500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25485,
+        "num": 274801,
+        "word": "德英法解禁乌远程武器射程",
+        "onboard_time": 1748315480,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9656,
+        "num": 274023,
+        "word": "嫦娥六号在线催更天问二号",
+        "onboard_time": 1748314882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43834,
+        "num": 273599,
+        "word": "美联航回应客机在首都机场起飞中断",
+        "onboard_time": 1748315961,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12717,
+        "num": 272747,
+        "word": "2500年前的岩画群揭示了哪些文明",
+        "onboard_time": 1748316142,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148490,
+        "num": 271369,
+        "word": "杀害成都女子凶手称正当防卫不认罪",
+        "onboard_time": 1748314701,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271331,
+        "num": 271331,
+        "word": "肖战爱买冰箱贴",
+        "onboard_time": 1748314040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245711,
+        "num": 245711,
+        "word": "男童因伤退出孙继海青训被要18万",
+        "onboard_time": 1748309660,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176564,
+        "num": 176564,
+        "word": "王健林已被冻结4.9亿股权",
+        "onboard_time": 1748270843,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164580,
+        "num": 164580,
+        "word": "陈芋汐夺冠后说非常感谢新搭档",
+        "onboard_time": 1748313920,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159879,
+        "num": 159879,
+        "word": "美老板说一旦美国生产就不卖了",
+        "onboard_time": 1748307381,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152458,
+        "num": 152458,
+        "word": "留几手谈一个中国男人的一生",
+        "onboard_time": 1748311821,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152362,
+        "num": 152362,
+        "word": "儿童针筒玩具可轻易刺穿生肉西瓜",
+        "onboard_time": 1748304919,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 152042,
+        "num": 152042,
+        "word": "端午假期将有一轮大范围降雨",
+        "onboard_time": 1748310559,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141473,
+        "num": 141473,
+        "word": "刘若英演唱会两姐妹点歌",
+        "onboard_time": 1748275280,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119972,
+        "num": 119972,
+        "word": "马克龙回应专机上被妻子推搡",
+        "onboard_time": 1748273601,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113585,
+        "num": 113585,
+        "word": "西藏警方通报珠峰车辆被砸",
+        "onboard_time": 1748316502,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108132,
+        "num": 108132,
+        "word": "难忘孙颖莎胜利后夺眶而出的泪水",
+        "onboard_time": 1748314160,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107818,
+        "num": 107818,
+        "word": "新疆赛里木湖发现2500年前岩画群",
+        "onboard_time": 1748305402,
+        "rank": 43,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 106889,
+        "num": 106889,
+        "word": "女子持刀杀人后父母带其做精神鉴定",
+        "onboard_time": 1748313920,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 102008,
+        "word": "烤西瓜",
+        "onboard_time": 1748313860,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100797,
+        "num": 100797,
+        "word": "三个月瘦了35斤的面部变化",
+        "onboard_time": 1748266042,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98104,
+        "num": 98104,
+        "word": "Red专辑",
+        "onboard_time": 1748316561,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97688,
+        "num": 97688,
+        "word": "金晨湿发麻花辫",
+        "onboard_time": 1748316322,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94710,
+        "num": 94710,
+        "word": "武汉一高校教师发前妻隐私视频被解聘",
+        "onboard_time": 1748306482,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

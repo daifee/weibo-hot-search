@@ -1,10 +1,10 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748315776204,
+  "endTime": 1748316635449,
   "band_list": [
     {
-      "raw_hot": 1728109,
-      "num": 460802,
+      "raw_hot": 1802246,
+      "num": 495914,
       "word": "母亲跌倒六天儿子见死不救去世",
       "onboard_time": 1748312660,
       "rank": 10,
@@ -35,12 +35,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 940926,
+      "num": 940926,
+      "word": "雷军恳请大家转发辟谣",
+      "onboard_time": 1748307740,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 921312,
       "num": 966759,
       "word": "马克龙回应专机上被妻子推搡",
       "onboard_time": 1748273601,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 847479,
+      "num": 847479,
+      "word": "网传彩票店因未先付款想占百万奖金",
+      "onboard_time": 1748314520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789913,
@@ -67,14 +83,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 714242,
-      "num": 714242,
-      "word": "雷军恳请大家转发辟谣",
-      "onboard_time": 1748307740,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 691705,
       "num": 691705,
       "word": "记录我毁容的全过程",
@@ -91,12 +99,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 643162,
+      "num": 494233,
+      "word": "凶手等到女子妈妈离开后敲门杀人",
+      "onboard_time": 1748312839,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606665,
       "num": 606665,
       "word": "5元自助快餐店因一条差评火了",
       "onboard_time": 1748258661,
       "rank": 1,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 592914,
+      "num": 592914,
+      "word": "断眉登机照",
+      "onboard_time": 1748314280,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 580822,
@@ -115,12 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553508,
-      "num": 456921,
-      "word": "凶手等到女子妈妈离开后敲门杀人",
-      "onboard_time": 1748312839,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 535861,
+      "num": 278848,
+      "word": "杨幂穿弯刀裤",
+      "onboard_time": 1748315421,
+      "rank": 36,
+      "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 497838,
+      "num": 497838,
+      "word": "教育部通知严禁违规频繁考试",
+      "onboard_time": 1748313980,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 492105,
@@ -163,27 +195,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456203,
-      "num": 456203,
-      "word": "教育部通知严禁违规频繁考试",
-      "onboard_time": 1748313980,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 441640,
-      "num": 471359,
+      "num": 519842,
       "word": "吴京发布翻车视频",
       "onboard_time": 1748307621,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 431183,
-      "num": 469239,
-      "word": "断眉登机照",
-      "onboard_time": 1748314280,
-      "rank": 8,
       "category": "艺人"
     },
     {
@@ -235,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351701,
-      "num": 351701,
+      "raw_hot": 361381,
+      "num": 361381,
       "word": "花165万买了北京150平米老破大",
       "onboard_time": 1748309181,
       "rank": 26,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280339,
+      "num": 280339,
+      "word": "藏海传制片说不因是顶流选肖战",
+      "onboard_time": 1748316081,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280056,
       "num": 280056,
       "word": "张一山生日赵丽颖送了两巴掌",
@@ -267,8 +291,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265356,
-      "num": 265356,
+      "raw_hot": 278443,
+      "num": 278443,
+      "word": "王楚钦孙颖莎混双世排第二",
+      "onboard_time": 1748313621,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271331,
+      "num": 271331,
       "word": "肖战爱买冰箱贴",
       "onboard_time": 1748314040,
       "rank": 22,
@@ -331,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208713,
-      "num": 208713,
-      "word": "王楚钦孙颖莎混双世排第二",
-      "onboard_time": 1748313621,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194956,
+      "raw_hot": 210336,
       "num": 404076,
       "word": "爸爸当家4选人含金量还在上升",
       "onboard_time": 1748312720,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205340,
+      "num": 279680,
+      "word": "谁懂赵丽颖一开口的宿命感",
+      "onboard_time": 1748316200,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 191938,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 172173,
-      "num": 172173,
+      "num": 277028,
       "word": "孙颖莎连续150周第一",
       "onboard_time": 1748315300,
       "rank": 33,
@@ -459,8 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150878,
-      "num": 150878,
+      "raw_hot": 152042,
+      "num": 152042,
       "word": "端午假期将有一轮大范围降雨",
       "onboard_time": 1748310559,
       "rank": 39,
@@ -475,11 +507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150396,
-      "num": 360001,
-      "word": "网传彩票店因未先付款想占百万奖金",
-      "onboard_time": 1748314520,
-      "rank": 19,
+      "raw_hot": 148490,
+      "num": 427009,
+      "word": "杀害成都女子凶手称正当防卫不认罪",
+      "onboard_time": 1748314701,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1748309301,
       "rank": 37,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 130027,
-      "num": 130027,
-      "word": "杨幂穿弯刀裤",
-      "onboard_time": 1748315421,
-      "rank": 36,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 129965,
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113585,
+      "num": 113585,
+      "word": "西藏警方通报珠峰车辆被砸",
+      "onboard_time": 1748316502,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 112838,
       "num": 112838,
       "word": "美元大跌原因",
@@ -739,12 +771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102089,
-      "num": 427009,
-      "word": "杀害成都女子凶手称正当防卫不认罪",
-      "onboard_time": 1748314701,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 102008,
+      "num": 102008,
+      "word": "烤西瓜",
+      "onboard_time": 1748313860,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 100559,
@@ -771,6 +803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98104,
+      "num": 98104,
+      "word": "Red专辑",
+      "onboard_time": 1748316561,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 97688,
+      "num": 97688,
+      "word": "金晨湿发麻花辫",
+      "onboard_time": 1748316322,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96682,
       "num": 96682,
       "word": "永容王爷 吓人",
@@ -785,14 +833,6 @@
       "onboard_time": 1748312360,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95037,
-      "num": 95037,
-      "word": "烤西瓜",
-      "onboard_time": 1748313860,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 93735,
@@ -1036,7 +1076,7 @@
     },
     {
       "raw_hot": 57810,
-      "num": 202518,
+      "num": 275996,
       "word": "600公里人象寻亲破防了",
       "onboard_time": 1748313500,
       "rank": 27,
@@ -1107,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43834,
+      "num": 273599,
+      "word": "美联航回应客机在首都机场起飞中断",
+      "onboard_time": 1748315961,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41816,
       "num": 41816,
       "word": "还是皮筋猴好骗",
@@ -1164,11 +1212,19 @@
     },
     {
       "raw_hot": 26972,
-      "num": 201111,
+      "num": 274801,
       "word": "德英法解禁乌远程武器射程",
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26403,
+      "num": 320600,
+      "word": "美联航一航班滑跑喷火中断起飞",
+      "onboard_time": 1748315902,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25667,
@@ -1235,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12717,
+      "num": 272747,
+      "word": "2500年前的岩画群揭示了哪些文明",
+      "onboard_time": 1748316142,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12525,
       "num": 22821,
       "word": "少年先锋队第九次全国代表大会",
@@ -1244,7 +1308,7 @@
     },
     {
       "raw_hot": 10328,
-      "num": 197375,
+      "num": 274023,
       "word": "嫦娥六号在线催更天问二号",
       "onboard_time": 1748314882,
       "rank": 29,
