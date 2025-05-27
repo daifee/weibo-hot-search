@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748345897589,
+  "endTime": 1748350387088,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1228526,
+      "num": 414855,
+      "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+      "onboard_time": 1748346380,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1220000,
       "num": 932009,
       "word": "弯刀裤",
@@ -425,6 +433,14 @@
       "onboard_time": 1748187864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1190138,
+      "num": 407573,
+      "word": "内娱最权威的四张撕拉片",
+      "onboard_time": 1748346981,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1167460,
@@ -545,6 +561,14 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 999633,
+      "num": 999633,
+      "word": "爸爸工亡胚胎移植子女领抚恤金遭拒",
+      "onboard_time": 1748346801,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 997800,
@@ -763,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 809029,
+      "num": 809029,
+      "word": "端午节不调休下周只上四天班",
+      "onboard_time": 1748338400,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 807109,
       "num": 371835,
       "word": "马来西亚西瓜汁",
@@ -891,14 +923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 759086,
-      "num": 759086,
-      "word": "端午节不调休下周只上四天班",
-      "onboard_time": 1748338400,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 754822,
       "num": 754822,
       "word": "赵丽颖白色仙女长裙",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1748246902,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 703060,
+      "num": 406498,
+      "word": "肖战腹肌",
+      "onboard_time": 1748346620,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 703000,
@@ -1899,6 +1931,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 423775,
+      "num": 423775,
+      "word": "网传歌手2025第三期歌单",
+      "onboard_time": 1748342781,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423681,
       "num": 423681,
       "word": "六小龄童回应孙悟空林黛玉cp爆火",
@@ -2073,6 +2113,14 @@
       "onboard_time": 1748316200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384802,
+      "num": 384802,
+      "word": "张小斐好S",
+      "onboard_time": 1748349381,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 383872,
@@ -2403,12 +2451,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 339327,
+      "num": 339327,
+      "word": "白鹿小鬼合照",
+      "onboard_time": 1748345719,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338462,
       "num": 338462,
       "word": "王曼昱世乒赛女单亚军",
       "onboard_time": 1748176043,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336498,
+      "num": 336498,
+      "word": "LPL",
+      "onboard_time": 1748348722,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 335386,
@@ -2425,6 +2489,14 @@
       "onboard_time": 1748233223,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325724,
+      "num": 325724,
+      "word": "吴谨言产后现身机场",
+      "onboard_time": 1748347401,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 324296,
@@ -2721,6 +2793,14 @@
       "onboard_time": 1748173827,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288815,
+      "num": 254327,
+      "word": "百岁山 直角肩",
+      "onboard_time": 1748345719,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 287546,
@@ -3395,6 +3475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227226,
+      "num": 302203,
+      "word": "欧阳娜娜在闲鱼讲价被拒绝",
+      "onboard_time": 1748347760,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
@@ -3409,6 +3497,14 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224465,
+      "num": 299680,
+      "word": "杨凯之死在了充满希望那一天",
+      "onboard_time": 1748347341,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 224370,
@@ -3529,6 +3625,14 @@
       "onboard_time": 1748097626,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215965,
+      "num": 215965,
+      "word": "梁洁花仙子撕拉片",
+      "onboard_time": 1748348301,
+      "rank": 34,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 215191,
@@ -3795,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203693,
+      "num": 203693,
+      "word": "曹静贤个太监办什么家宴啊",
+      "onboard_time": 1748350162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203630,
       "num": 4918374,
       "word": "美国90%圣诞用品来自中国制造",
@@ -3905,6 +4017,14 @@
       "onboard_time": 1748157923,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198923,
+      "num": 198923,
+      "word": "小乔愿意为魏劭生孩子",
+      "onboard_time": 1748350162,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 198652,
@@ -4107,14 +4227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194396,
-      "num": 351063,
-      "word": "网传歌手2025第三期歌单",
-      "onboard_time": 1748342781,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194143,
       "num": 350464,
       "word": "杨凯之情书变血书",
@@ -4209,6 +4321,14 @@
       "onboard_time": 1748233703,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 192284,
+      "num": 192284,
+      "word": "化工车间爆炸公司曾涉重大事故隐患",
+      "onboard_time": 1748347521,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 192109,
@@ -4395,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188739,
+      "num": 188739,
+      "word": "李现新剧",
+      "onboard_time": 1748349620,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188541,
       "num": 190223,
       "word": "老妈看奶茶菜单像看天书",
@@ -4440,6 +4568,14 @@
       "word": "肖战回复周奇莫辜负",
       "onboard_time": 1748275101,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187224,
+      "num": 187224,
+      "word": "王安宇这个黄毛不一样",
+      "onboard_time": 1748349982,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -4585,6 +4721,14 @@
       "onboard_time": 1748245520,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182608,
+      "num": 182608,
+      "word": "八支LPL淘汰赛队伍揭晓",
+      "onboard_time": 1748349741,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 182577,
@@ -4937,6 +5081,14 @@
       "onboard_time": 1748229742,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174902,
+      "num": 395106,
+      "word": "泡泡玛特599元联名款被炒至1.5万",
+      "onboard_time": 1748346501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174795,
@@ -5524,7 +5676,7 @@
     },
     {
       "raw_hot": 163387,
-      "num": 163387,
+      "num": 422566,
       "word": "日本无权干涉中国科考船活动",
       "onboard_time": 1748337322,
       "rank": 49,
@@ -5627,20 +5779,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160834,
+      "num": 309461,
+      "word": "王俊凯不是计较这些的人",
+      "onboard_time": 1748349082,
+      "rank": 21,
+      "category": "电影,作品衍生"
+    },
+    {
       "raw_hot": 160815,
       "num": 257986,
       "word": "第一次当何灵有点紧张",
       "onboard_time": 1748246001,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160673,
-      "num": 160673,
-      "word": "白鹿小鬼合照",
-      "onboard_time": 1748345719,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 160449,
@@ -6241,14 +6393,6 @@
       "onboard_time": 1748253983,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145695,
-      "num": 145695,
-      "word": "百岁山 直角肩",
-      "onboard_time": 1748345719,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 145453,
@@ -8795,6 +8939,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 80236,
+      "num": 163034,
+      "word": "黄瓜拌什么最好吃",
+      "onboard_time": 1748350341,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80051,
       "num": 80051,
       "word": "KSG今屿断开连接",
@@ -9491,6 +9643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55897,
+      "num": 294776,
+      "word": "斯诺克男女世锦赛冠军都来自中国",
+      "onboard_time": 1748350101,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55842,
       "num": 132633,
       "word": "孙佳俊从青奥冠军到奥运冠军",
@@ -9785,6 +9945,14 @@
       "onboard_time": 1748228903,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45286,
+      "num": 290806,
+      "word": "3岁就要立规矩了",
+      "onboard_time": 1748349141,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 45255,
@@ -10307,6 +10475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30470,
+      "num": 911327,
+      "word": "两新政策持续释放消费潜力",
+      "onboard_time": 1748338641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30158,
       "num": 145501,
       "word": "为什么美国会衰落",
@@ -10723,6 +10899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22660,
+      "num": 337603,
+      "word": "滑雪场的夏天是什么样子",
+      "onboard_time": 1748348782,
+      "rank": 18,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 22519,
       "num": 31936,
       "word": "幸福的真谛是别把日子过反了",
@@ -10819,8 +11003,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 19816,
-      "num": 267686,
+      "raw_hot": 19847,
+      "num": 288814,
       "word": "长期喝热水暖胃有科学依据吗",
       "onboard_time": 1748344341,
       "rank": 28,
@@ -11067,6 +11251,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 13996,
+      "num": 293498,
+      "word": "女子以占卜疗愈为名诈骗母女300万",
+      "onboard_time": 1748350101,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13487,
       "num": 227586,
       "word": "原来瘦不下来是你胖菌多",
@@ -11243,14 +11435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10169,
-      "num": 911327,
-      "word": "两新政策持续释放消费潜力",
-      "onboard_time": 1748338641,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10110,
       "num": 43726,
       "word": "江西新干赣江大桥老桥成功爆破拆除",
@@ -11377,6 +11561,14 @@
       "onboard_time": 1748345780,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7350,
+      "num": 169306,
+      "word": "西瓜有哪些意想不到的隐藏吃法",
+      "onboard_time": 1748350341,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 7223,

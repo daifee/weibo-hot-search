@@ -1,0 +1,410 @@
+{
+  "runTime": 1748350387088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 48287,
+        "num": 1007726,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 999633,
+        "num": 999633,
+        "word": "爸爸工亡胚胎移植子女领抚恤金遭拒",
+        "onboard_time": 1748346801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30470,
+        "num": 898729,
+        "word": "两新政策持续释放消费潜力",
+        "onboard_time": 1748338641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809029,
+        "num": 809029,
+        "word": "端午节不调休下周只上四天班",
+        "onboard_time": 1748338400,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605607,
+        "num": 605607,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1748344581,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 4471,
+        "num": 594911,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 593455,
+        "num": 593455,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557586,
+        "num": 557586,
+        "word": "王曼昱首次出席时尚活动",
+        "onboard_time": 1748343681,
+        "rank": 7,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 423775,
+        "num": 423775,
+        "word": "网传歌手2025第三期歌单",
+        "onboard_time": 1748342781,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62595,
+        "num": 422566,
+        "word": "日本无权干涉中国科考船活动",
+        "onboard_time": 1748337322,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1228526,
+        "num": 414855,
+        "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+        "onboard_time": 1748346380,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1190138,
+        "num": 407573,
+        "word": "内娱最权威的四张撕拉片",
+        "onboard_time": 1748346981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703060,
+        "num": 406498,
+        "word": "肖战腹肌",
+        "onboard_time": 1748346620,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571514,
+        "num": 398093,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174902,
+        "num": 395106,
+        "word": "泡泡玛特599元联名款被炒至1.5万",
+        "onboard_time": 1748346501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435246,
+        "num": 386012,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384802,
+        "num": 384802,
+        "word": "张小斐好S",
+        "onboard_time": 1748349381,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339327,
+        "num": 339327,
+        "word": "白鹿小鬼合照",
+        "onboard_time": 1748345719,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22660,
+        "num": 337603,
+        "word": "滑雪场的夏天是什么样子",
+        "onboard_time": 1748348782,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 336498,
+        "num": 336498,
+        "word": "LPL",
+        "onboard_time": 1748348722,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325724,
+        "num": 325724,
+        "word": "吴谨言产后现身机场",
+        "onboard_time": 1748347401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160834,
+        "num": 309461,
+        "word": "王俊凯不是计较这些的人",
+        "onboard_time": 1748349082,
+        "rank": 21,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 302626,
+        "num": 302626,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227226,
+        "num": 302203,
+        "word": "欧阳娜娜在闲鱼讲价被拒绝",
+        "onboard_time": 1748347760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224465,
+        "num": 299680,
+        "word": "杨凯之死在了充满希望那一天",
+        "onboard_time": 1748347341,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211734,
+        "num": 298364,
+        "word": "陈梦回应被催婚",
+        "onboard_time": 1748344581,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55897,
+        "num": 294776,
+        "word": "斯诺克男女世锦赛冠军都来自中国",
+        "onboard_time": 1748350101,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13996,
+        "num": 293498,
+        "word": "女子以占卜疗愈为名诈骗母女300万",
+        "onboard_time": 1748350101,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45286,
+        "num": 290806,
+        "word": "3岁就要立规矩了",
+        "onboard_time": 1748349141,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19847,
+        "num": 288814,
+        "word": "长期喝热水暖胃有科学依据吗",
+        "onboard_time": 1748344341,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 288651,
+        "num": 288651,
+        "word": "化工车间爆炸教体局称学生已疏散",
+        "onboard_time": 1748343800,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 255028,
+        "num": 255028,
+        "word": "藏海传的两集90分钟还能怎么拍",
+        "onboard_time": 1748336721,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288815,
+        "num": 254327,
+        "word": "百岁山 直角肩",
+        "onboard_time": 1748345719,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226051,
+        "num": 226051,
+        "word": "莫迪称要么和平共处要么面对印度子弹",
+        "onboard_time": 1748343322,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215965,
+        "num": 215965,
+        "word": "梁洁花仙子撕拉片",
+        "onboard_time": 1748348301,
+        "rank": 34,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 203693,
+        "num": 203693,
+        "word": "曹静贤个太监办什么家宴啊",
+        "onboard_time": 1748350162,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198923,
+        "num": 198923,
+        "word": "小乔愿意为魏劭生孩子",
+        "onboard_time": 1748350162,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193527,
+        "num": 193527,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192284,
+        "num": 192284,
+        "word": "化工车间爆炸公司曾涉重大事故隐患",
+        "onboard_time": 1748347521,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 188739,
+        "num": 188739,
+        "word": "李现新剧",
+        "onboard_time": 1748349620,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187224,
+        "num": 187224,
+        "word": "王安宇这个黄毛不一样",
+        "onboard_time": 1748349982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182608,
+        "num": 182608,
+        "word": "八支LPL淘汰赛队伍揭晓",
+        "onboard_time": 1748349741,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179774,
+        "num": 179774,
+        "word": "妃子笑 不好吃",
+        "onboard_time": 1748335220,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 7350,
+        "num": 169306,
+        "word": "西瓜有哪些意想不到的隐藏吃法",
+        "onboard_time": 1748350341,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80236,
+        "num": 163034,
+        "word": "黄瓜拌什么最好吃",
+        "onboard_time": 1748350341,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162887,
+        "num": 162887,
+        "word": "张继科谈王楚钦世乒赛表现",
+        "onboard_time": 1748339601,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162259,
+        "num": 162259,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 46,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 159036,
+        "num": 159036,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158063,
+        "num": 158063,
+        "word": "律师呼吁精神病人行凶入刑",
+        "onboard_time": 1748336362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149382,
+        "num": 149382,
+        "word": "高密已接收多名化工车间爆炸伤者",
+        "onboard_time": 1748338102,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国小朋友们六一快乐#"
+    }
+  }
+}
