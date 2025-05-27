@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748364528862,
+  "endTime": 1748366629979,
   "band_list": [
     {
       "raw_hot": 772396,
@@ -235,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117328,
+      "num": 376410,
+      "word": "73岁朴槿惠罕见外出笑容灿烂",
+      "onboard_time": 1748361921,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115202,
       "num": 115202,
       "word": "刘若英道歉",
@@ -265,14 +273,6 @@
       "onboard_time": 1748358982,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106898,
-      "num": 376410,
-      "word": "73岁朴槿惠罕见外出笑容灿烂",
-      "onboard_time": 1748361921,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105633,
@@ -403,17 +403,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48903,
+      "num": 87772,
+      "word": "17岁女生失踪47天系跳桥坠江",
+      "onboard_time": 1748365338,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45901,
+      "num": 45901,
+      "word": "金秋天开球",
+      "onboard_time": 1748364858,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20123,
       "num": 676135,
       "word": "夏收跑出加速度",
       "onboard_time": 1748352503,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20115,
+      "num": 46802,
+      "word": "应认清年轻人不愿为台独卖命现实",
+      "onboard_time": 1748366536,
+      "rank": 42,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 18683,
+      "num": 55000,
+      "word": "特朗普又对哈佛出招",
+      "onboard_time": 1748366597,
+      "rank": 38,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#培养中国特色社会主义事业合格建设者#"
+    },
+    {
+      "word": "#习近平祝小朋友们节日快乐#"
     }
   ]
 }
