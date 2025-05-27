@@ -1,13 +1,21 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748385767899,
+  "endTime": 1748388240166,
   "band_list": [
     {
-      "raw_hot": 772396,
-      "num": 874694,
+      "raw_hot": 986087,
+      "num": 986087,
       "word": "致多人上吐下泻甜品商家已贴封条",
       "onboard_time": 1748358622,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 758164,
+      "num": 758164,
+      "word": "高校教师迟到1分钟被认定教学事故",
+      "onboard_time": 1748358082,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -35,11 +43,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 541615,
-      "num": 541615,
-      "word": "高校教师迟到1分钟被认定教学事故",
-      "onboard_time": 1748358082,
-      "rank": 4,
+      "raw_hot": 553557,
+      "num": 306998,
+      "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+      "onboard_time": 1748346380,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432935,
+      "num": 432935,
+      "word": "安徽17年前丢失石狮现身私人博物馆",
+      "onboard_time": 1748358982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399286,
       "num": 399286,
       "word": "中戏院长称易烊千玺刻苦有敬畏心",
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387191,
+      "num": 266240,
+      "word": "戛纳偶遇刘亦菲吃越南粉",
+      "onboard_time": 1748387058,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349259,
       "num": 349259,
       "word": "山东一化工车间爆炸震碎周边玻璃",
@@ -83,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344873,
-      "num": 306998,
-      "word": "杀害27岁女子凶手父亲抱怨有家不能回",
-      "onboard_time": 1748346380,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 325331,
+      "num": 325331,
+      "word": "常吃4种食物更容易患糖尿病",
+      "onboard_time": 1748360481,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 312470,
@@ -99,12 +123,36 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 298613,
+      "num": 298613,
+      "word": "中国未能获得2029年世乒赛举办权",
+      "onboard_time": 1748354662,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 271890,
+      "num": 265531,
+      "word": "李亚鹏和妻子目前没房产",
+      "onboard_time": 1748350761,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269180,
       "num": 269180,
       "word": "演员张翰被起诉",
       "onboard_time": 1748322622,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265138,
+      "num": 265138,
+      "word": "男子坐共享单车摔死骑车人全责",
+      "onboard_time": 1748357004,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264483,
@@ -115,27 +163,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260403,
-      "num": 260403,
-      "word": "安徽17年前丢失石狮现身私人博物馆",
-      "onboard_time": 1748358982,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241683,
-      "num": 241683,
-      "word": "中国未能获得2029年世乒赛举办权",
-      "onboard_time": 1748354662,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 210286,
+      "raw_hot": 240489,
       "num": 376410,
       "word": "73岁朴槿惠罕见外出笑容灿烂",
       "onboard_time": 1748361921,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 216372,
+      "num": 216372,
+      "word": "朴槿惠力挺韩国总统候选人金文洙",
+      "onboard_time": 1748352264,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -153,14 +193,6 @@
       "onboard_time": 1748359703,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 184135,
-      "num": 184135,
-      "word": "常吃4种食物更容易患糖尿病",
-      "onboard_time": 1748360481,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 182345,
@@ -187,20 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173525,
-      "num": 173525,
-      "word": "男子坐共享单车摔死骑车人全责",
-      "onboard_time": 1748357004,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168742,
-      "num": 168742,
+      "num": 216481,
       "word": "蛮蛮一劭这下是真圆房了",
       "onboard_time": 1748360242,
       "rank": 24,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 159800,
+      "num": 159800,
+      "word": "一中国商人在菲律宾遭枪杀",
+      "onboard_time": 1748361561,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 148842,
@@ -227,12 +259,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136729,
-      "num": 136729,
-      "word": "一中国商人在菲律宾遭枪杀",
-      "onboard_time": 1748361561,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "剧版哈利波特三人组演员官宣",
+      "onboard_time": 1748387658,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 128010,
@@ -243,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125983,
-      "num": 125983,
-      "word": "朴槿惠力挺韩国总统候选人金文洙",
-      "onboard_time": 1748352264,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 124995,
+      "num": 124995,
+      "word": "Uzi卡莎名人堂皮肤",
+      "onboard_time": 1748387658,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 121065,
@@ -259,12 +291,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118033,
+      "num": 118033,
+      "word": "月薪3万NPC岗位超百人报名只招1人",
+      "onboard_time": 1748353342,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116135,
+      "num": 116135,
+      "word": "网红儿童厨具能轻松切开牛肉",
+      "onboard_time": 1748353102,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 115202,
       "num": 115202,
       "word": "刘若英道歉",
       "onboard_time": 1748326643,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114255,
+      "num": 124268,
+      "word": "我是姜子牙 我同意给藏海传每一集封神",
+      "onboard_time": 1748351542,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112459,
+      "num": 112459,
+      "word": "17岁女生失踪47天系跳桥坠江",
+      "onboard_time": 1748365338,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112363,
@@ -283,16 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105633,
-      "num": 105633,
-      "word": "月薪3万NPC岗位超百人报名只招1人",
-      "onboard_time": 1748353342,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100352,
-      "num": 100352,
+      "raw_hot": 101669,
+      "num": 101669,
       "word": "体育局回应男子滑翔伞被吸至8千米高空",
       "onboard_time": 1748361201,
       "rank": 35,
@@ -307,14 +363,6 @@
       "category": "读书作家,民生新闻"
     },
     {
-      "raw_hot": 98330,
-      "num": 98330,
-      "word": "网红儿童厨具能轻松切开牛肉",
-      "onboard_time": 1748353102,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 98165,
       "num": 98165,
       "word": "刘强东 杭州是世界美食之都",
@@ -323,12 +371,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 96784,
-      "num": 104106,
-      "word": "我是姜子牙 我同意给藏海传每一集封神",
-      "onboard_time": 1748351542,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 98065,
+      "num": 98065,
+      "word": "这颗珍珠已经吸了半个小时了",
+      "onboard_time": 1748344821,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97592,
+      "num": 121701,
+      "word": "张翰2年前已退出烧本烧股权",
+      "onboard_time": 1748343141,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 95252,
@@ -363,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91172,
+      "num": 91172,
+      "word": "金智媛上海外滩和网友比心",
+      "onboard_time": 1748387358,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86120,
       "num": 86120,
       "word": "吴谨言产后现身机场",
@@ -371,8 +435,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81977,
-      "num": 102837,
+      "raw_hot": 83819,
+      "num": 120565,
       "word": "藏海传城网登顶",
       "onboard_time": 1748379313,
       "rank": 34,
@@ -387,12 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76974,
-      "num": 87772,
-      "word": "17岁女生失踪47天系跳桥坠江",
-      "onboard_time": 1748365338,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 79105,
+      "num": 79105,
+      "word": "大乔为丈夫与父亲决裂",
+      "onboard_time": 1748385496,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77377,
+      "num": 216426,
+      "word": "藏海不如厕 真是厉害",
+      "onboard_time": 1748384236,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 76945,
@@ -403,6 +475,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75725,
+      "num": 266969,
+      "word": "多方回应市民打卡网红大桥疑被收费",
+      "onboard_time": 1748387058,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75591,
+      "num": 75591,
+      "word": "小乔幸好姓乔 如果姓张",
+      "onboard_time": 1748383515,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70488,
       "num": 70488,
       "word": "折腰",
@@ -411,12 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63048,
-      "num": 63048,
-      "word": "小乔幸好姓乔 如果姓张",
-      "onboard_time": 1748383515,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 65043,
+      "num": 118088,
+      "word": "孩子自信的5种表现",
+      "onboard_time": 1748387118,
+      "rank": 29,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 62977,
+      "num": 62977,
+      "word": "特朗普说美军阅兵式将超奥运会",
+      "onboard_time": 1748372353,
+      "rank": 44,
+      "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 62350,
+      "num": 131221,
+      "word": "王励勤代表中国乒协领奖",
+      "onboard_time": 1748387058,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60722,
@@ -425,6 +529,30 @@
       "onboard_time": 1748363959,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57318,
+      "num": 57318,
+      "word": "现货黄金跌破3320",
+      "onboard_time": 1748387298,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 57238,
+      "num": 117560,
+      "word": "特朗普又对哈佛出招",
+      "onboard_time": 1748366597,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50317,
+      "num": 50317,
+      "word": "氯虫苯甲酰胺原药是什么",
+      "onboard_time": 1748388018,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49751,
@@ -443,36 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44291,
-      "num": 44291,
-      "word": "藏海不如厕 真是厉害",
-      "onboard_time": 1748384236,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42228,
-      "num": 117560,
-      "word": "特朗普又对哈佛出招",
-      "onboard_time": 1748366597,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
       "onboard_time": 1748367076,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38935,
-      "num": 38935,
-      "word": "特朗普说美军阅兵式将超奥运会",
-      "onboard_time": 1748372353,
-      "rank": 44,
-      "category": "国际时政,体育"
     },
     {
       "raw_hot": 36107,
@@ -515,12 +619,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 23328,
-      "num": 35924,
-      "word": "大乔为丈夫与父亲决裂",
-      "onboard_time": 1748385496,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 23786,
+      "num": 676135,
+      "word": "夏收跑出加速度",
+      "onboard_time": 1748352503,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20809,
@@ -529,14 +633,6 @@
       "onboard_time": 1748371454,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20123,
-      "num": 676135,
-      "word": "夏收跑出加速度",
-      "onboard_time": 1748352503,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19567,
