@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748366629979,
+  "endTime": 1748367592773,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -10731,6 +10731,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 40842,
+      "num": 40842,
+      "word": "魏大勋原声台词",
+      "onboard_time": 1748367076,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40774,
       "num": 345674,
       "word": "中风早期都有哪些易忽视的症状",
@@ -11073,6 +11081,14 @@
       "onboard_time": 1748156362,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31359,
+      "num": 117560,
+      "word": "特朗普又对哈佛出招",
+      "onboard_time": 1748366597,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31314,
@@ -11721,14 +11737,6 @@
       "onboard_time": 1748323823,
       "rank": 18,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 18683,
-      "num": 55000,
-      "word": "特朗普又对哈佛出招",
-      "onboard_time": 1748366597,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17818,

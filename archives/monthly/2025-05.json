@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748366629979,
+  "endTime": 1748367592773,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -93067,6 +93067,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 40842,
+      "num": 40842,
+      "word": "魏大勋原声台词",
+      "onboard_time": 1748367076,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40809,
       "num": 220985,
       "word": "男孩玩手游充值上万元看病钱",
@@ -96401,6 +96409,14 @@
       "onboard_time": 1748084842,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31359,
+      "num": 117560,
+      "word": "特朗普又对哈佛出招",
+      "onboard_time": 1748366597,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31353,
@@ -102145,14 +102161,6 @@
       "onboard_time": 1747922666,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18683,
-      "num": 55000,
-      "word": "特朗普又对哈佛出招",
-      "onboard_time": 1748366597,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18653,
