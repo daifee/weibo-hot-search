@@ -1,0 +1,402 @@
+{
+  "runTime": 1748344955267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66443,
+        "num": 1010631,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1535118,
+        "num": 996057,
+        "word": "王曼昱首次出席时尚活动",
+        "onboard_time": 1748343681,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 956803,
+        "num": 956803,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771068,
+        "num": 771068,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9366,
+        "num": 620597,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 614125,
+        "num": 614125,
+        "word": "端午节不调休下周只上四天班",
+        "onboard_time": 1748338400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521793,
+        "num": 521793,
+        "word": "高密已接收多名化工车间爆炸伤者",
+        "onboard_time": 1748338102,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450086,
+        "num": 479269,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1748344581,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216680,
+        "num": 455466,
+        "word": "化工车间爆炸教体局称学生已疏散",
+        "onboard_time": 1748343800,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 453082,
+        "num": 453082,
+        "word": "律师呼吁精神病人行凶入刑",
+        "onboard_time": 1748336362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441236,
+        "num": 441236,
+        "word": "妃子笑 不好吃",
+        "onboard_time": 1748335220,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438845,
+        "num": 438845,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285807,
+        "num": 424043,
+        "word": "藏海传的两集90分钟还能怎么拍",
+        "onboard_time": 1748336721,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326123,
+        "num": 397063,
+        "word": "莫迪称要么和平共处要么面对印度子弹",
+        "onboard_time": 1748343322,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273813,
+        "num": 375412,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194143,
+        "num": 350464,
+        "word": "杨凯之情书变血书",
+        "onboard_time": 1748343922,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345527,
+        "num": 345527,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37615,
+        "num": 345519,
+        "word": "成都家门口被害女子母亲称不敢回家",
+        "onboard_time": 1748344521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15159,
+        "num": 345159,
+        "word": "化工车间爆炸伤者该如何妥善安置",
+        "onboard_time": 1748344341,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594712,
+        "num": 344943,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37006,
+        "num": 344851,
+        "word": "颐莲把熬夜党养得很好",
+        "onboard_time": 1748340681,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 376425,
+        "num": 344647,
+        "word": "张继科谈王楚钦世乒赛表现",
+        "onboard_time": 1748339601,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344470,
+        "num": 344470,
+        "word": "被杀女子母亲怀疑凶手因嫉妒行凶",
+        "onboard_time": 1748336301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284487,
+        "num": 284487,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212185,
+        "num": 280318,
+        "word": "刘诗诗周润发 短剧奇迹",
+        "onboard_time": 1748340080,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196775,
+        "num": 271145,
+        "word": "HYBE向腾讯音乐出售SM股份",
+        "onboard_time": 1748340620,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32098,
+        "num": 253825,
+        "word": "梁王组合晋级新加坡公开赛16强",
+        "onboard_time": 1748344701,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19816,
+        "num": 247788,
+        "word": "长期喝热水暖胃有科学依据吗",
+        "onboard_time": 1748344341,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67974,
+        "num": 235079,
+        "word": "全红婵昌雅妮为陈艺文加油",
+        "onboard_time": 1748344701,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229507,
+        "num": 229507,
+        "word": "郑州大学一社团被指用公款吃喝团建",
+        "onboard_time": 1748343622,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 219770,
+        "num": 219770,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190118,
+        "num": 208885,
+        "word": "许嵩点歌环节三次喊导播",
+        "onboard_time": 1748343381,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200607,
+        "num": 200607,
+        "word": "小米集团第一季度营收1112.9亿",
+        "onboard_time": 1748344401,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190162,
+        "num": 196089,
+        "word": "陈梦回应被催婚",
+        "onboard_time": 1748344581,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195094,
+        "num": 195094,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 35,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 188530,
+        "num": 188530,
+        "word": "李亚鹏妻子否认离婚",
+        "onboard_time": 1748344281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182901,
+        "num": 182901,
+        "word": "厚皮橙 上头",
+        "onboard_time": 1748343261,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176983,
+        "num": 176983,
+        "word": "在人间八集五天播完",
+        "onboard_time": 1748344042,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171572,
+        "num": 171572,
+        "word": "辞职后不想上班",
+        "onboard_time": 1748342721,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168067,
+        "num": 168067,
+        "word": "网传歌手2025第三期歌单",
+        "onboard_time": 1748342781,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167396,
+        "num": 167396,
+        "word": "欧阳娜娜闲鱼买吉他一眼被认出",
+        "onboard_time": 1748340441,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13487,
+        "num": 156030,
+        "word": "原来瘦不下来是你胖菌多",
+        "onboard_time": 1748342541,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155513,
+        "num": 155513,
+        "word": "卜冠今说的陈凯歌真往心里去了",
+        "onboard_time": 1748339480,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142947,
+        "num": 142947,
+        "word": "宁静主动示好欧阳娣娣",
+        "onboard_time": 1748327062,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140256,
+        "num": 140256,
+        "word": "张翰2年前已退出烧本烧股权",
+        "onboard_time": 1748343141,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1039053,
+        "num": 139690,
+        "word": "李现金智媛世纪同框",
+        "onboard_time": 1748340981,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139106,
+        "num": 139106,
+        "word": "这颗珍珠已经吸了半个小时了",
+        "onboard_time": 1748344821,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 131169,
+        "word": "凶手将女子捅死开庭前夕才道歉",
+        "onboard_time": 1748328321,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "戛纳晚宴上吃到了中国的鱼子酱",
+        "onboard_time": 1748343622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国小朋友们六一快乐#"
+    }
+  }
+}
