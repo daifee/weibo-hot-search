@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748344955267,
+  "endTime": 1748345897589,
   "band_list": [
     {
       "raw_hot": 2780095,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759086,
+      "num": 759086,
+      "word": "端午节不调休下周只上四天班",
+      "onboard_time": 1748338400,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 732863,
       "num": 732863,
       "word": "高密已接收多名化工车间爆炸伤者",
@@ -275,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 658017,
+      "num": 658017,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1748344581,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 640091,
       "num": 516958,
       "word": "杨幂穿弯刀裤",
@@ -289,14 +305,6 @@
       "onboard_time": 1748318422,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 614125,
-      "num": 614125,
-      "word": "端午节不调休下周只上四天班",
-      "onboard_time": 1748338400,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 608726,
@@ -337,6 +345,14 @@
       "onboard_time": 1748316921,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586234,
+      "num": 586234,
+      "word": "化工车间爆炸教体局称学生已疏散",
+      "onboard_time": 1748343800,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 584450,
@@ -481,14 +497,6 @@
       "onboard_time": 1748331681,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 450086,
-      "num": 479269,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1748344581,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 441640,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339330,
+      "num": 397063,
+      "word": "莫迪称要么和平共处要么面对印度子弹",
+      "onboard_time": 1748343322,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 335386,
       "num": 335386,
       "word": "失踪一年多女童疑有新线索爷爷发声",
@@ -673,14 +689,6 @@
       "onboard_time": 1748266042,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 326123,
-      "num": 397063,
-      "word": "莫迪称要么和平共处要么面对印度子弹",
-      "onboard_time": 1748343322,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 323557,
@@ -713,6 +721,14 @@
       "onboard_time": 1748262921,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303284,
+      "num": 364143,
+      "word": "陈梦回应被催婚",
+      "onboard_time": 1748344581,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 293378,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 229507,
-      "num": 229507,
+      "num": 271108,
       "word": "郑州大学一社团被指用公款吃喝团建",
       "onboard_time": 1748343622,
       "rank": 30,
@@ -961,14 +977,6 @@
       "onboard_time": 1748322802,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216680,
-      "num": 455466,
-      "word": "化工车间爆炸教体局称学生已疏散",
-      "onboard_time": 1748343800,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 214584,
@@ -1099,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194396,
+      "num": 351063,
+      "word": "网传歌手2025第三期歌单",
+      "onboard_time": 1748342781,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194143,
       "num": 350464,
       "word": "杨凯之情书变血书",
@@ -1171,20 +1187,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190745,
+      "num": 190745,
+      "word": "王曼昱四宫格生图帅得很权威",
+      "onboard_time": 1748345842,
+      "rank": 31,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 190329,
       "num": 358582,
       "word": "折腰夜色祈愿群像海报",
       "onboard_time": 1748317221,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190162,
-      "num": 196089,
-      "word": "陈梦回应被催婚",
-      "onboard_time": 1748344581,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 190118,
@@ -1467,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168067,
-      "num": 168067,
-      "word": "网传歌手2025第三期歌单",
-      "onboard_time": 1748342781,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165666,
       "num": 165666,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
@@ -1523,6 +1531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 160673,
+      "num": 160673,
+      "word": "白鹿小鬼合照",
+      "onboard_time": 1748345719,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159786,
       "num": 159786,
       "word": "张翰方尚未回应被起诉",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1748308521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158965,
+      "num": 158965,
+      "word": "张翰2年前已退出烧本烧股权",
+      "onboard_time": 1748343141,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 158029,
@@ -1595,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151428,
+      "num": 144695,
+      "word": "原神超话",
+      "onboard_time": 1748345181,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150576,
       "num": 150576,
       "word": "孙颖莎再刷新ITTF最高积分纪录",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1748341340,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145695,
+      "num": 145695,
+      "word": "百岁山 直角肩",
+      "onboard_time": 1748345719,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 145055,
@@ -1731,14 +1771,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 140256,
-      "num": 140256,
-      "word": "张翰2年前已退出烧本烧股权",
-      "onboard_time": 1748343141,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139941,
       "num": 139941,
       "word": "香港街头78元龙虾盒饭",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1748313860,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139348,
+      "num": 139348,
+      "word": "折腰单更",
+      "onboard_time": 1748345242,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139337,
@@ -2491,6 +2531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81029,
+      "num": 278529,
+      "word": "全红婵昌雅妮为陈艺文加油",
+      "onboard_time": 1748344701,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80035,
       "num": 416719,
       "word": "雷佳音嘴在前面跑岳云鹏脑子在后面追",
@@ -2571,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70729,
+      "num": 360206,
+      "word": "成都家门口遇害女子母亲微博发声",
+      "onboard_time": 1748345242,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68887,
       "num": 68887,
       "word": "美团王兴回应京东外卖百亿补贴",
@@ -2585,14 +2641,6 @@
       "onboard_time": 1748334502,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67974,
-      "num": 235079,
-      "word": "全红婵昌雅妮为陈艺文加油",
-      "onboard_time": 1748344701,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 67179,
@@ -2625,6 +2673,14 @@
       "onboard_time": 1748309541,
       "rank": 48,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 64166,
+      "num": 159575,
+      "word": "第五人格卧谈会",
+      "onboard_time": 1748340320,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 63591,
@@ -2699,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60707,
+      "num": 368262,
+      "word": "中国学者帅气发言让澳主持人哑火",
+      "onboard_time": 1748345120,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60163,
       "num": 516090,
       "word": "卫健部门调查口腔医生做隆胸手术",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1748340681,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 59131,
+      "num": 350139,
+      "word": "成都家门口被害女子母亲称不敢回家",
+      "onboard_time": 1748344521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58528,
@@ -2769,6 +2841,14 @@
       "onboard_time": 1748330782,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 56852,
+      "num": 260144,
+      "word": "印度批准自研五代机计划",
+      "onboard_time": 1748345421,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55481,
@@ -2987,20 +3067,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 37615,
-      "num": 345519,
-      "word": "成都家门口被害女子母亲称不敢回家",
-      "onboard_time": 1748344521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36797,
       "num": 336474,
       "word": "山东化工车间爆炸目击者发声",
       "onboard_time": 1748336481,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36262,
+      "num": 158834,
+      "word": "100斤的西瓜是怎么种出来的",
+      "onboard_time": 1748345842,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 35933,
@@ -3172,7 +3252,7 @@
     },
     {
       "raw_hot": 19816,
-      "num": 247788,
+      "num": 267686,
       "word": "长期喝热水暖胃有科学依据吗",
       "onboard_time": 1748344341,
       "rank": 28,
@@ -3193,6 +3273,14 @@
       "onboard_time": 1748323823,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 17726,
+      "num": 345231,
+      "word": "化工车间爆炸伤者该如何妥善安置",
+      "onboard_time": 1748344341,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17287,
@@ -3233,14 +3321,6 @@
       "onboard_time": 1748334383,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15159,
-      "num": 345159,
-      "word": "化工车间爆炸伤者该如何妥善安置",
-      "onboard_time": 1748344341,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15064,
@@ -3369,6 +3449,22 @@
       "onboard_time": 1748310920,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 7687,
+      "num": 256771,
+      "word": "国家防总启动四级应急响应",
+      "onboard_time": 1748345601,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7599,
+      "num": 159062,
+      "word": "旅日大熊猫回国后会对外展出吗",
+      "onboard_time": 1748345780,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25,
