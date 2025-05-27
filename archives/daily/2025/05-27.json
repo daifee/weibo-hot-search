@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748321275400,
+  "endTime": 1748323541755,
   "band_list": [
     {
       "raw_hot": 1802246,
@@ -19,6 +19,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1543763,
+      "num": 1049683,
+      "word": "演员张翰被起诉",
+      "onboard_time": 1748322622,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1532268,
       "num": 1055088,
       "word": "教授称对烫碗习惯恶心",
@@ -35,20 +43,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1331789,
+      "num": 1037854,
+      "word": "王曼昱 雅诗兰黛",
+      "onboard_time": 1748320223,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1220000,
       "num": 932009,
       "word": "弯刀裤",
       "onboard_time": 1748304320,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1020858,
-      "num": 1020858,
-      "word": "王曼昱 雅诗兰黛",
-      "onboard_time": 1748320223,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 996199,
@@ -65,6 +73,14 @@
       "onboard_time": 1748273601,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 918136,
+      "num": 918136,
+      "word": "宋雨琦把IU给整结巴了",
+      "onboard_time": 1748319682,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 847479,
@@ -113,14 +129,6 @@
       "onboard_time": 1748312839,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 702728,
-      "num": 702728,
-      "word": "宋雨琦把IU给整结巴了",
-      "onboard_time": 1748319682,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 691705,
@@ -235,6 +243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 473105,
+      "num": 473105,
+      "word": "00后抗癌博主千千离世",
+      "onboard_time": 1748321183,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470284,
       "num": 470284,
       "word": "杭州第三只外逃金钱豹四年后仍成谜",
@@ -289,6 +305,14 @@
       "onboard_time": 1748306482,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 401618,
+      "num": 525291,
+      "word": "蔡依林发文谈时隔六年发新曲",
+      "onboard_time": 1748322262,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 396971,
@@ -355,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344381,
+      "num": 344381,
+      "word": "国产剧离婚女主早不玩吃苦这套了",
+      "onboard_time": 1748318543,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342065,
       "num": 342065,
       "word": "肖战爱买冰箱贴",
       "onboard_time": 1748314040,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335386,
+      "num": 335386,
+      "word": "失踪一年多女童疑有新线索爷爷发声",
+      "onboard_time": 1748321362,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331868,
@@ -377,14 +417,6 @@
       "onboard_time": 1748262921,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313585,
-      "num": 313585,
-      "word": "国产剧离婚女主早不玩吃苦这套了",
-      "onboard_time": 1748318543,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 284170,
@@ -409,6 +441,14 @@
       "onboard_time": 1748317521,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 275000,
+      "num": 275000,
+      "word": "雷佳音荔枝",
+      "onboard_time": 1748322262,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 261055,
@@ -459,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239615,
+      "num": 228995,
+      "word": "刘国梁竞选国际乒联执委",
+      "onboard_time": 1748322980,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
@@ -483,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228909,
+      "num": 228909,
+      "word": "韩国将黄豆酱和酱油申遗",
+      "onboard_time": 1748323282,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 227829,
       "num": 359218,
       "word": "邓紫棋重录",
@@ -497,6 +553,14 @@
       "onboard_time": 1748264962,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221807,
+      "num": 221807,
+      "word": "藏海传彩蛋信息量好大",
+      "onboard_time": 1748322802,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 214584,
@@ -521,6 +585,14 @@
       "onboard_time": 1748319682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193309,
+      "num": 193309,
+      "word": "孙颖莎不到半年狂揽5金",
+      "onboard_time": 1748321963,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 192924,
@@ -553,6 +625,14 @@
       "onboard_time": 1748316742,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 191441,
+      "num": 271556,
+      "word": "藏海爷们要脸",
+      "onboard_time": 1748318242,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 190329,
@@ -619,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179361,
+      "num": 229229,
+      "word": "赵丽颖新剧一滴泪破碎感",
+      "onboard_time": 1748321723,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178738,
       "num": 178738,
       "word": "李萌萌演了Mike的女主角",
@@ -683,20 +771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168475,
+      "num": 168475,
+      "word": "张艺兴放不下甜食的一生",
+      "onboard_time": 1748323464,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165666,
       "num": 165666,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
       "onboard_time": 1748259623,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165655,
-      "num": 271556,
-      "word": "藏海爷们要脸",
-      "onboard_time": 1748318242,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 162842,
@@ -763,20 +851,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150408,
-      "num": 150408,
-      "word": "00后抗癌博主千千离世",
-      "onboard_time": 1748321183,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148490,
       "num": 427009,
       "word": "杀害成都女子凶手称正当防卫不认罪",
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145347,
+      "num": 145347,
+      "word": "许昕闫安谈王楚钦雨果决赛",
+      "onboard_time": 1748323401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142993,
@@ -875,12 +963,28 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 132032,
+      "num": 132032,
+      "word": "减肥时可以代替吃饭的项目",
+      "onboard_time": 1748321603,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 129965,
       "num": 129965,
       "word": "肥娟夫妇取消请1000位网友参加婚礼",
       "onboard_time": 1748256501,
       "rank": 26,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 129418,
+      "num": 129418,
+      "word": "美国费城大规模枪击",
+      "onboard_time": 1748321782,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129381,
@@ -897,6 +1001,14 @@
       "onboard_time": 1748318361,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "绽放的许开心定档",
+      "onboard_time": 1748323401,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 127183,
@@ -985,6 +1097,14 @@
       "onboard_time": 1748280855,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116207,
+      "num": 229003,
+      "word": "为1万报酬男子用电动车运47斤冰毒",
+      "onboard_time": 1748322443,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115857,
@@ -1164,7 +1284,7 @@
     },
     {
       "raw_hot": 90991,
-      "num": 90991,
+      "num": 267539,
       "word": "兴业银行回应新存1000万可推名企实习",
       "onboard_time": 1748313260,
       "rank": 45,
@@ -1387,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59941,
+      "num": 1038097,
+      "word": "中国特色现代企业制度说明书来了",
+      "onboard_time": 1748316801,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 59893,
       "num": 59893,
       "word": "法网",
@@ -1435,14 +1563,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 53399,
-      "num": 1022291,
-      "word": "中国特色现代企业制度说明书来了",
-      "onboard_time": 1748316801,
-      "rank": 2,
-      "category": "正能量,财经"
-    },
-    {
       "raw_hot": 52964,
       "num": 52964,
       "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
@@ -1473,6 +1593,14 @@
       "onboard_time": 1748285115,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47921,
+      "num": 344531,
+      "word": "台军校招不够男生用女生凑",
+      "onboard_time": 1748322262,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47023,
@@ -1516,7 +1644,7 @@
     },
     {
       "raw_hot": 40196,
-      "num": 813172,
+      "num": 934362,
       "word": "国家网络身份认证筑牢数字安全屏障",
       "onboard_time": 1748316742,
       "rank": 5,
@@ -1585,6 +1713,14 @@
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26822,
+      "num": 344440,
+      "word": "律师称凶手开庭前才道歉是走形式",
+      "onboard_time": 1748322980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26403,
