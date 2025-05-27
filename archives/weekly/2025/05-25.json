@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748374598174,
+  "endTime": 1748377722687,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -11977,6 +11977,14 @@
       "onboard_time": 1748170880,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 14220,
+      "num": 14220,
+      "word": "撕拉片",
+      "onboard_time": 1748368276,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 13497,
