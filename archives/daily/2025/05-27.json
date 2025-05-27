@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748331585960,
+  "endTime": 1748334836202,
   "band_list": [
     {
       "raw_hot": 2780095,
@@ -75,7 +75,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1197693,
+      "raw_hot": 1206148,
       "num": 967383,
       "word": "山东一化工车间发生爆炸",
       "onboard_time": 1748326942,
@@ -89,6 +89,14 @@
       "onboard_time": 1748326643,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1077482,
+      "num": 896876,
+      "word": "地下车库 氡",
+      "onboard_time": 1748331382,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 1072763,
@@ -275,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575428,
+      "num": 575428,
+      "word": "央视曝光云养殖骗局",
+      "onboard_time": 1748331020,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 568528,
       "num": 89762,
       "word": "麦琳 千禧辣妹",
       "onboard_time": 1748271082,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543892,
+      "num": 543892,
+      "word": "长期晚睡会发生什么",
+      "onboard_time": 1748329522,
+      "rank": 23,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 530732,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482444,
+      "num": 482444,
+      "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+      "onboard_time": 1748329281,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480836,
       "num": 480836,
       "word": "儿童针筒玩具可轻易刺穿生肉西瓜",
@@ -363,12 +395,12 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 462050,
-      "num": 416326,
-      "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
-      "onboard_time": 1748329281,
+      "raw_hot": 461968,
+      "num": 461968,
+      "word": "王安宇搞怪撕拉片",
+      "onboard_time": 1748331681,
       "rank": 24,
-      "category": "体育"
+      "category": "艺人"
     },
     {
       "raw_hot": 441640,
@@ -419,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415639,
-      "num": 415639,
-      "word": "长期晚睡会发生什么",
-      "onboard_time": 1748329522,
-      "rank": 23,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 408420,
       "num": 329483,
       "word": "武汉一高校教师发前妻隐私视频被解聘",
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377703,
+      "num": 514711,
+      "word": "刘诗诗流金岁月含金量还在上升",
+      "onboard_time": 1748331621,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373222,
       "num": 373222,
       "word": "现实中真正的漂亮",
@@ -472,6 +504,14 @@
       "word": "女子家门口遇害后母亲一夜白头",
       "onboard_time": 1748272223,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359051,
+      "num": 359051,
+      "word": "遭家暴后坠亡9岁男孩父亲发声",
+      "onboard_time": 1748329882,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -507,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343711,
-      "num": 343711,
-      "word": "遭家暴后坠亡9岁男孩父亲发声",
-      "onboard_time": 1748329882,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342065,
       "num": 342065,
       "word": "肖战爱买冰箱贴",
@@ -545,6 +577,14 @@
       "onboard_time": 1748324062,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315973,
+      "num": 315973,
+      "word": "应急管理部调派力量赶赴山东高密",
+      "onboard_time": 1748332942,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 313923,
@@ -619,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255304,
+      "num": 446598,
+      "word": "张翰工作室发声",
+      "onboard_time": 1748332462,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253149,
       "num": 129364,
       "word": "王楚钦发文说感谢我的搭档莎莎",
@@ -633,6 +681,14 @@
       "onboard_time": 1748312961,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245010,
+      "num": 695335,
+      "word": "凶手将女子捅死开庭前夕才道歉",
+      "onboard_time": 1748328321,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240961,
@@ -699,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224370,
+      "num": 417601,
+      "word": "多方回应山东高密一化工厂爆炸",
+      "onboard_time": 1748331382,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222954,
       "num": 222954,
       "word": "交警回应余承东疑似开车睡觉",
@@ -745,6 +809,22 @@
       "onboard_time": 1748330361,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 203888,
+      "num": 203888,
+      "word": "断崖式友情",
+      "onboard_time": 1748330002,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 200031,
+      "num": 200031,
+      "word": "黄金",
+      "onboard_time": 1748331141,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 197393,
@@ -867,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184438,
+      "num": 512623,
+      "word": "十万只潜江龙虾红遍大厂餐桌",
+      "onboard_time": 1748333061,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "折腰连续三天逆跌",
@@ -875,12 +963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183264,
-      "num": 269896,
-      "word": "凶手将女子捅死开庭前夕才道歉",
-      "onboard_time": 1748328321,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 183428,
+      "num": 183428,
+      "word": "就这个梦之队群像爽",
+      "onboard_time": 1748333781,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 183159,
@@ -931,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175065,
+      "num": 465704,
+      "word": "不能错过的心动礼遇",
+      "onboard_time": 1748333061,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 172734,
       "num": 172734,
       "word": "张艺兴放不下甜食的一生",
@@ -961,14 +1057,6 @@
       "onboard_time": 1748315300,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172120,
-      "num": 172120,
-      "word": "黄金",
-      "onboard_time": 1748331141,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 171619,
@@ -1033,6 +1121,14 @@
       "onboard_time": 1748324302,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163058,
+      "num": 163058,
+      "word": "A股缩量110亿",
+      "onboard_time": 1748332221,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 162842,
@@ -1115,20 +1211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149539,
+      "num": 149539,
+      "word": "蛮蛮一劭在评论区和好了",
+      "onboard_time": 1748331441,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148490,
       "num": 427009,
       "word": "杀害成都女子凶手称正当防卫不认罪",
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145320,
-      "num": 145320,
-      "word": "蛮蛮一劭在评论区和好了",
-      "onboard_time": 1748331441,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 144239,
@@ -1187,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140325,
+      "num": 170375,
+      "word": "老祖宗的快乐你想象不到",
+      "onboard_time": 1748334383,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 139678,
       "num": 139678,
       "word": "烤西瓜",
@@ -1219,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139008,
-      "num": 417601,
-      "word": "多方回应山东高密一化工厂爆炸",
-      "onboard_time": 1748331382,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137637,
       "num": 262350,
       "word": "藏海低声些难道光彩吗",
@@ -1243,12 +1339,28 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 137629,
+      "num": 534527,
+      "word": "陈都灵用一加上分很灵",
+      "onboard_time": 1748333123,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137233,
       "num": 137233,
       "word": "上海套内85平米的家",
       "onboard_time": 1748327121,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135479,
+      "num": 135479,
+      "word": "孙颖莎王楚钦夺冠名场面",
+      "onboard_time": 1748333181,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135056,
@@ -1283,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133371,
+      "num": 133371,
+      "word": "藏海传伟大的引导型电子榨菜",
+      "onboard_time": 1748334561,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132716,
       "num": 132716,
       "word": "女性经期建议避免3类运动",
@@ -1313,14 +1433,6 @@
       "onboard_time": 1748321603,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 130065,
-      "num": 130065,
-      "word": "地下车库 氡",
-      "onboard_time": 1748331382,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 129965,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1748309660,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123668,
+      "num": 123668,
+      "word": "刘强东来杭州了",
+      "onboard_time": 1748334321,
+      "rank": 48,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 123256,
@@ -1601,14 +1721,6 @@
       "onboard_time": 1748328502,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105775,
-      "num": 428499,
-      "word": "央视曝光云养殖骗局",
-      "onboard_time": 1748331020,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 105127,
@@ -1923,6 +2035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67644,
+      "num": 496875,
+      "word": "男孩捡到66年前装有情书的漂流瓶",
+      "onboard_time": 1748334502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67179,
       "num": 67179,
       "word": "魏晨儿子2岁就学会给爸爸泡咖啡",
@@ -2195,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42387,
+      "num": 445800,
+      "word": "为啥不吃香菜变成了一个嘲讽的梗",
+      "onboard_time": 1748333842,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 41816,
       "num": 41816,
       "word": "还是皮筋猴好骗",
@@ -2305,6 +2433,14 @@
       "onboard_time": 1748329281,
       "rank": 29,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 26756,
+      "num": 462842,
+      "word": "扬州一清代文物合院618元起拍",
+      "onboard_time": 1748334502,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26403,
@@ -2457,6 +2593,14 @@
       "onboard_time": 1748293634,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10008,
+      "num": 487957,
+      "word": "吹风机缓解风寒的科学依据是什么",
+      "onboard_time": 1748334383,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 8875,

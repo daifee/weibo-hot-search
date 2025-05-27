@@ -1,0 +1,410 @@
+{
+  "runTime": 1748334836202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 140437,
+        "num": 1022470,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1565575,
+        "num": 992790,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40917,
+        "num": 958327,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1206148,
+        "num": 925670,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077482,
+        "num": 896876,
+        "word": "地下车库 氡",
+        "onboard_time": 1748331382,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21082,
+        "num": 828347,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 825266,
+        "num": 825266,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 803583,
+        "num": 803583,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764324,
+        "num": 764324,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 245010,
+        "num": 695335,
+        "word": "凶手将女子捅死开庭前夕才道歉",
+        "onboard_time": 1748328321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773689,
+        "num": 693460,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 647993,
+        "num": 647993,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575428,
+        "num": 575428,
+        "word": "央视曝光云养殖骗局",
+        "onboard_time": 1748331020,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 543892,
+        "num": 543892,
+        "word": "长期晚睡会发生什么",
+        "onboard_time": 1748329522,
+        "rank": 13,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 137629,
+        "num": 534527,
+        "word": "陈都灵用一加上分很灵",
+        "onboard_time": 1748333123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428105,
+        "num": 533555,
+        "word": "崔政宇去世",
+        "onboard_time": 1748327302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377703,
+        "num": 514711,
+        "word": "刘诗诗流金岁月含金量还在上升",
+        "onboard_time": 1748331621,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184438,
+        "num": 512623,
+        "word": "十万只潜江龙虾红遍大厂餐桌",
+        "onboard_time": 1748333061,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67644,
+        "num": 496875,
+        "word": "男孩捡到66年前装有情书的漂流瓶",
+        "onboard_time": 1748334502,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10008,
+        "num": 487957,
+        "word": "吹风机缓解风寒的科学依据是什么",
+        "onboard_time": 1748334383,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 482444,
+        "num": 482444,
+        "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+        "onboard_time": 1748329281,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175065,
+        "num": 465704,
+        "word": "不能错过的心动礼遇",
+        "onboard_time": 1748333061,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 26756,
+        "num": 462842,
+        "word": "扬州一清代文物合院618元起拍",
+        "onboard_time": 1748334502,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256660,
+        "num": 462308,
+        "word": "宁静主动示好欧阳娣娣",
+        "onboard_time": 1748327062,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461968,
+        "num": 461968,
+        "word": "王安宇搞怪撕拉片",
+        "onboard_time": 1748331681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265459,
+        "num": 461888,
+        "word": "汪海林吐槽群体造假刷数据",
+        "onboard_time": 1748324962,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461888,
+        "num": 461887,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256015,
+        "num": 452599,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255304,
+        "num": 446598,
+        "word": "张翰工作室发声",
+        "onboard_time": 1748332462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42387,
+        "num": 445800,
+        "word": "为啥不吃香菜变成了一个嘲讽的梗",
+        "onboard_time": 1748333842,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 445447,
+        "num": 445447,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359051,
+        "num": 359051,
+        "word": "遭家暴后坠亡9岁男孩父亲发声",
+        "onboard_time": 1748329882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315973,
+        "num": 315973,
+        "word": "应急管理部调派力量赶赴山东高密",
+        "onboard_time": 1748332942,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 224370,
+        "num": 224370,
+        "word": "多方回应山东高密一化工厂爆炸",
+        "onboard_time": 1748331382,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203888,
+        "num": 203888,
+        "word": "断崖式友情",
+        "onboard_time": 1748330002,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200031,
+        "num": 200031,
+        "word": "黄金",
+        "onboard_time": 1748331141,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195172,
+        "num": 195172,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183428,
+        "num": 183428,
+        "word": "就这个梦之队群像爽",
+        "onboard_time": 1748333781,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140325,
+        "num": 170375,
+        "word": "老祖宗的快乐你想象不到",
+        "onboard_time": 1748334383,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 168991,
+        "num": 168991,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 39,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 168116,
+        "num": 168116,
+        "word": "女子早产生双胞胎后感染肺炎去世",
+        "onboard_time": 1748325804,
+        "rank": 40,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 166923,
+        "num": 166923,
+        "word": "蔡依林发文谈时隔六年发新曲",
+        "onboard_time": 1748322262,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163058,
+        "num": 163058,
+        "word": "A股缩量110亿",
+        "onboard_time": 1748332221,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149539,
+        "num": 149539,
+        "word": "蛮蛮一劭在评论区和好了",
+        "onboard_time": 1748331441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141316,
+        "num": 141316,
+        "word": "这周六就是端午节了",
+        "onboard_time": 1748324121,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135479,
+        "num": 135479,
+        "word": "孙颖莎王楚钦夺冠名场面",
+        "onboard_time": 1748333181,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133371,
+        "num": 133371,
+        "word": "藏海传伟大的引导型电子榨菜",
+        "onboard_time": 1748334561,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131804,
+        "num": 131804,
+        "word": "藏海传开始走甄嬛传的流程了吗",
+        "onboard_time": 1748324062,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123668,
+        "num": 123668,
+        "word": "刘强东来杭州了",
+        "onboard_time": 1748334321,
+        "rank": 48,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 122925,
+        "num": 122925,
+        "word": "12辆车15秒让出救命通道",
+        "onboard_time": 1748326762,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
