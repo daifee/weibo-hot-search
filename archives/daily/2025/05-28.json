@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748370870034,
+  "endTime": 1748371800500,
   "band_list": [
     {
       "raw_hot": 772396,
@@ -459,12 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23119,
-      "num": 23377,
+      "raw_hot": 24586,
+      "num": 24586,
       "word": "庄二不是恶童变好了而是恶童长大了",
       "onboard_time": 1748369414,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20809,
+      "num": 20719,
+      "word": "郑恺张真源打网球",
+      "onboard_time": 1748371454,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 20123,
