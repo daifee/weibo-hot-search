@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748360604007,
+  "endTime": 1748363576903,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -931,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772396,
+      "num": 874694,
+      "word": "致多人上吐下泻甜品商家已贴封条",
+      "onboard_time": 1748358622,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770178,
       "num": 505549,
       "word": "K总为看藏海传停播一天",
@@ -1179,20 +1187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 661158,
-      "num": 661158,
-      "word": "致多人上吐下泻甜品商家已贴封条",
-      "onboard_time": 1748358622,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 658017,
       "num": 658017,
       "word": "鹿晗演唱会",
       "onboard_time": 1748344581,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 655939,
+      "num": 359200,
+      "word": "YG新女团首位成员EVELLI公开",
+      "onboard_time": 1748361140,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 652894,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1748218221,
       "rank": 18,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 615788,
+      "num": 615788,
+      "word": "腓腓快要出生了",
+      "onboard_time": 1748358622,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 610924,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1748319622,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 584376,
-      "num": 584376,
-      "word": "腓腓快要出生了",
-      "onboard_time": 1748358622,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 584016,
@@ -2187,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399286,
+      "num": 399286,
+      "word": "中戏院长称易烊千玺刻苦有敬畏心",
+      "onboard_time": 1748360002,
+      "rank": 37,
+      "category": "艺人,演出"
+    },
+    {
       "raw_hot": 398074,
       "num": 398074,
       "word": "一觉醒来还在为世乒赛4冠骄傲",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1748316200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387220,
+      "num": 412113,
+      "word": "武汉一网红大桥桥下被指圈起来收费",
+      "onboard_time": 1748359521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384088,
@@ -3225,6 +3249,14 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 264483,
+      "num": 392163,
+      "word": "湖南株洲一交通事故致1死1伤",
+      "onboard_time": 1748360120,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264011,
@@ -5291,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176173,
+      "num": 176173,
+      "word": "常吃4种食物更容易患糖尿病",
+      "onboard_time": 1748360481,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175935,
       "num": 175935,
       "word": "上海地铁上踹人女子未成年已罚款",
@@ -5481,14 +5521,6 @@
       "onboard_time": 1748270364,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172776,
-      "num": 412113,
-      "word": "武汉一网红大桥桥下被指圈起来收费",
-      "onboard_time": 1748359521,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172734,
@@ -5731,20 +5763,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168742,
+      "num": 168742,
+      "word": "蛮蛮一劭这下是真圆房了",
+      "onboard_time": 1748360242,
+      "rank": 42,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 168618,
       "num": 168618,
       "word": "美团王兴回应京东外卖百亿补贴",
       "onboard_time": 1748269944,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 168569,
-      "num": 168569,
-      "word": "常吃4种食物更容易患糖尿病",
-      "onboard_time": 1748360481,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 168531,
@@ -5921,14 +5953,6 @@
       "onboard_time": 1748171962,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165169,
-      "num": 165169,
-      "word": "中戏院长称易烊千玺刻苦有敬畏心",
-      "onboard_time": 1748360002,
-      "rank": 37,
-      "category": "艺人,演出"
     },
     {
       "raw_hot": 164913,
@@ -6713,14 +6737,6 @@
       "onboard_time": 1748137401,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146874,
-      "num": 146874,
-      "word": "蛮蛮一劭这下是真圆房了",
-      "onboard_time": 1748360242,
-      "rank": 42,
-      "category": "剧集,综艺"
     },
     {
       "raw_hot": 146746,
@@ -8843,6 +8859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100352,
+      "num": 100352,
+      "word": "体育局回应男子滑翔伞被吸至8千米高空",
+      "onboard_time": 1748361201,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100179,
       "num": 311801,
       "word": "英伟达或再推中国特供芯片",
@@ -8857,6 +8881,14 @@
       "onboard_time": 1748172982,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99784,
+      "num": 99784,
+      "word": "我终于get到了李白的快乐",
+      "onboard_time": 1748362041,
+      "rank": 36,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 99683,
@@ -8963,6 +8995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 95851,
+      "num": 95851,
+      "word": "一中国商人在菲律宾遭枪杀",
+      "onboard_time": 1748361561,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95607,
       "num": 134086,
       "word": "关于完善中国特色现代企业制度的意见",
@@ -8985,6 +9025,14 @@
       "onboard_time": 1748095167,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 94955,
+      "num": 94955,
+      "word": "魏大勋回应杨凯之死在了充满希望的那一天",
+      "onboard_time": 1748361380,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 94425,
@@ -9017,6 +9065,14 @@
       "onboard_time": 1748307800,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93611,
+      "num": 93611,
+      "word": "Deadman",
+      "onboard_time": 1748363419,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 93174,
@@ -9563,6 +9619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76945,
+      "num": 76945,
+      "word": "特朗普确认将出席G20峰会",
+      "onboard_time": 1748361083,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75912,
       "num": 281717,
       "word": "中国孩子收到来自太空的祝福",
@@ -9609,6 +9673,14 @@
       "onboard_time": 1748179224,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72892,
+      "num": 376410,
+      "word": "73岁朴槿惠罕见外出笑容灿烂",
+      "onboard_time": 1748361921,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72771,
@@ -9953,14 +10025,6 @@
       "onboard_time": 1748345120,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60646,
-      "num": 392163,
-      "word": "湖南株洲一交通事故致1死1伤",
-      "onboard_time": 1748360120,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60569,

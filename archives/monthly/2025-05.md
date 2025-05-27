@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 23:43:24
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/28 00:32:56
 </p>
 </blockquote>
 <p>
@@ -5985,6 +5985,12 @@ Wolves对战ZETA（热度：775611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E7%94%9C%E5%93%81%E5%95%86%E5%AE%B6%E5%B7%B2%E8%B4%B4%E5%B0%81%E6%9D%A1%23" target="weibo">
+致多人上吐下泻甜品商家已贴封条（热度：772396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%A6%8D%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A2%AB%E5%8F%AB%E5%B0%8F%E5%A7%A8%E8%BF%98%E4%B8%8D%E5%A4%AA%E7%90%86%E8%A7%A3%23" target="weibo">
 姜妍说第一次被叫小姨还不太理解（热度：771972）
 </a>
@@ -6005,12 +6011,6 @@ Wolves对战ZETA（热度：775611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%BA%AB%E4%BA%A1%E8%8E%B756%E4%B8%87%E8%B5%94%E5%81%BF%E5%A7%91%E7%88%B6%E5%96%8A%E8%AF%9D%E5%AD%A9%E5%AD%90%E5%9B%9E%E5%AE%B6%23" target="weibo">
 父亲身亡获56万赔偿姑父喊话孩子回家（热度：770885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8F%E8%99%AB%E5%AD%90%E5%BE%80%E8%84%96%E5%AD%90%E9%87%8C%E9%92%BB%23" target="weibo">
-景区回应大量虫子往脖子里钻（热度：770665）
 </a>
 </li>
 
