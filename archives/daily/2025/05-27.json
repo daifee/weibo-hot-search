@@ -1,7 +1,23 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748302726870,
+  "endTime": 1748311057271,
   "band_list": [
+    {
+      "raw_hot": 1639991,
+      "num": 1012237,
+      "word": "女儿未恋爱遇害母亲泣诉人生骤断",
+      "onboard_time": 1748306842,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1220000,
+      "num": 872816,
+      "word": "弯刀裤",
+      "onboard_time": 1748304320,
+      "rank": 3,
+      "category": "幽默"
+    },
     {
       "raw_hot": 921312,
       "num": 966759,
@@ -9,6 +25,14 @@
       "onboard_time": 1748273601,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 777678,
+      "num": 777678,
+      "word": "美老板说一旦美国生产就不卖了",
+      "onboard_time": 1748307381,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 765571,
@@ -67,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480836,
+      "num": 480836,
+      "word": "儿童针筒玩具可轻易刺穿生肉西瓜",
+      "onboard_time": 1748304919,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 470284,
       "num": 470284,
       "word": "杭州第三只外逃金钱豹四年后仍成谜",
@@ -83,11 +115,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408420,
+      "num": 329483,
+      "word": "武汉一高校教师发前妻隐私视频被解聘",
+      "onboard_time": 1748306482,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 396140,
+      "num": 309994,
+      "word": "男童因伤退出孙继海青训被要18万",
+      "onboard_time": 1748309660,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392085,
       "num": 392085,
       "word": "刘宇宁拍戏不看手机不拿剧本",
       "onboard_time": 1748267603,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 389658,
+      "num": 389658,
+      "word": "大乔人设",
+      "onboard_time": 1748307203,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -105,6 +161,14 @@
       "onboard_time": 1748272223,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339698,
+      "num": 1054351,
+      "word": "广州某科技公司遭台湾黑客攻击",
+      "onboard_time": 1748309301,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331868,
@@ -147,6 +211,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239350,
+      "num": 239350,
+      "word": "东京大学将临时接收哈佛国际学生",
+      "onboard_time": 1748302280,
+      "rank": 15,
+      "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 233493,
+      "num": 233493,
+      "word": "南京地铁回应同站进出未乘车也收费",
+      "onboard_time": 1748304919,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231757,
+      "num": 236184,
+      "word": "林更新提名白玉兰最佳男配角",
+      "onboard_time": 1748310200,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222954,
       "num": 222954,
       "word": "交警回应余承东疑似开车睡觉",
@@ -155,12 +243,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214563,
+      "num": 234370,
+      "word": "吴京发布翻车视频",
+      "onboard_time": 1748307621,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197817,
+      "num": 197817,
+      "word": "雷军恳请大家转发辟谣",
+      "onboard_time": 1748307740,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 187378,
       "num": 187378,
       "word": "肖战回复周奇莫辜负",
       "onboard_time": 1748275101,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186034,
+      "num": 186034,
+      "word": "新疆赛里木湖发现2500年前岩画群",
+      "onboard_time": 1748305402,
+      "rank": 23,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "折腰连续三天逆跌",
+      "onboard_time": 1748304442,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180155,
+      "num": 180155,
+      "word": "花165万买了北京150平米老破大",
+      "onboard_time": 1748309181,
+      "rank": 26,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 171619,
@@ -179,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171088,
+      "num": 171088,
+      "word": "体重跟肠道也有关系吗",
+      "onboard_time": 1748307740,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170069,
       "num": 170069,
       "word": "小沈阳把张百乔拉黑了",
@@ -195,12 +331,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165504,
+      "num": 165504,
+      "word": "记录我毁容的全过程",
+      "onboard_time": 1748310620,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162842,
       "num": 162842,
       "word": "宋威龙好帅",
       "onboard_time": 1748274501,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159052,
+      "num": 159052,
+      "word": "河南省纪委回应实施全天候禁酒令",
+      "onboard_time": 1748308521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148357,
+      "num": 148357,
+      "word": "孙颖莎再刷新ITTF最高积分纪录",
+      "onboard_time": 1748307321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "特朗普要把哈佛的30亿给职业学校",
+      "onboard_time": 1748303179,
+      "rank": 35,
+      "category": "国际时政,教育"
     },
     {
       "raw_hot": 134725,
@@ -227,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132360,
+      "num": 132360,
+      "word": "为了让老师莫名其妙全班都选了B",
+      "onboard_time": 1748309301,
+      "rank": 37,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 129965,
       "num": 129965,
       "word": "肥娟夫妇取消请1000位网友参加婚礼",
@@ -251,12 +427,36 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 125506,
+      "num": 125506,
+      "word": "印度宣称超越日本成全球第四大经济体",
+      "onboard_time": 1748303781,
+      "rank": 38,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 125270,
+      "num": 125270,
+      "word": "詹姆斯吐槽天眼摄像机",
+      "onboard_time": 1748309660,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121155,
       "num": 121155,
       "word": "9.9元便宜好物可能要命",
       "onboard_time": 1748273122,
       "rank": 22,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 120807,
+      "num": 120807,
+      "word": "日本民众分食米饭精确到克",
+      "onboard_time": 1748306183,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118012,
@@ -275,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115420,
+      "num": 272180,
+      "word": "王励勤回应王楚钦夺冠",
+      "onboard_time": 1748302218,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115013,
       "num": 115013,
       "word": "王宝强晒粉丝手写信",
@@ -283,10 +491,34 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114564,
+      "num": 125297,
+      "word": "端午假期将有一轮大范围降雨",
+      "onboard_time": 1748310559,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113874,
       "num": 250140,
       "word": "缅北明家犯罪集团案已进入审判环节",
       "onboard_time": 1748277319,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112838,
+      "num": 112838,
+      "word": "美元大跌原因",
+      "onboard_time": 1748310739,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 111885,
+      "num": 111885,
+      "word": "郭二娃一审被判死刑",
+      "onboard_time": 1748310739,
       "rank": 45,
       "category": "民生新闻"
     },
@@ -305,6 +537,22 @@
       "onboard_time": 1748264182,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104793,
+      "num": 104793,
+      "word": "妈妈回应男孩4岁时患糖尿病",
+      "onboard_time": 1748304860,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100945,
+      "num": 100945,
+      "word": "21岁小伙下错站两天没吃饭报警求助",
+      "onboard_time": 1748308641,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100559,
@@ -329,6 +577,14 @@
       "onboard_time": 1748262442,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93735,
+      "num": 184280,
+      "word": "闫安称樊振东肯定参加全运",
+      "onboard_time": 1748307800,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 92815,
@@ -483,6 +739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64452,
+      "num": 100148,
+      "word": "利物浦夺冠游行发生汽车撞人事故",
+      "onboard_time": 1748309541,
+      "rank": 48,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 63591,
       "num": 63591,
       "word": "孙颖莎总结多哈世乒赛",
@@ -515,19 +779,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60771,
+      "num": 233797,
+      "word": "律师起诉南京地铁要求返还2元车费",
+      "onboard_time": 1748309360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59893,
       "num": 59893,
       "word": "法网",
       "onboard_time": 1748302280,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58584,
-      "num": 272180,
-      "word": "王励勤回应王楚钦夺冠",
-      "onboard_time": 1748302218,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -595,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46464,
+      "num": 171109,
+      "word": "俄对乌发动最大规模的无人机攻击",
+      "onboard_time": 1748310079,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41816,
       "num": 41816,
       "word": "还是皮筋猴好骗",
@@ -619,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35192,
+      "num": 241974,
+      "word": "家门口被害女子母亲将另起诉物业",
+      "onboard_time": 1748310021,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29693,
       "num": 29693,
       "word": "被蟑螂爬过的食物千万别吃",
@@ -633,14 +913,6 @@
       "onboard_time": 1748274621,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28167,
-      "num": 193719,
-      "word": "东京大学将临时接收哈佛国际学生",
-      "onboard_time": 1748302280,
-      "rank": 15,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 27017,
@@ -737,6 +1009,14 @@
       "onboard_time": 1748290994,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7747,
+      "num": 873294,
+      "word": "优质主播中国行赣出圈",
+      "onboard_time": 1748310920,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 25,
