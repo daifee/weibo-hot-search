@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748377722687,
+  "endTime": 1748378523077,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -11859,8 +11859,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 16042,
-      "num": 16042,
+      "raw_hot": 16176,
+      "num": 16176,
       "word": "特朗普说美军阅兵式将超奥运会",
       "onboard_time": 1748372353,
       "rank": 44,
@@ -11939,6 +11939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14869,
+      "num": 14869,
+      "word": "撕拉片",
+      "onboard_time": 1748368276,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14774,
       "num": 348385,
       "word": "如何在公司让自己看上去很忙",
@@ -11977,14 +11985,6 @@
       "onboard_time": 1748170880,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14220,
-      "num": 14220,
-      "word": "撕拉片",
-      "onboard_time": 1748368276,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 13497,
@@ -12091,12 +12091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12078,
+      "num": 15505,
+      "word": "2025文化强国建设高峰论坛",
+      "onboard_time": 1748378415,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 12021,
       "num": 245049,
       "word": "女生跑步必看的10句话",
       "onboard_time": 1748269283,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11837,
+      "num": 15606,
+      "word": "特朗普考虑撤回哈佛30亿美元拨款",
+      "onboard_time": 1748378294,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11835,
