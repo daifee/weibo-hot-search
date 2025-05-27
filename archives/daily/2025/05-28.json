@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748384691283,
+  "endTime": 1748385767899,
   "band_list": [
     {
       "raw_hot": 772396,
@@ -83,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344873,
+      "num": 306998,
+      "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+      "onboard_time": 1748346380,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312470,
       "num": 268119,
       "word": "YG新女团",
       "onboard_time": 1748358863,
       "rank": 15,
       "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 306998,
-      "num": 306998,
-      "word": "杀害27岁女子凶手父亲抱怨有家不能回",
-      "onboard_time": 1748346380,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269180,
@@ -115,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260403,
+      "num": 260403,
+      "word": "安徽17年前丢失石狮现身私人博物馆",
+      "onboard_time": 1748358982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241683,
       "num": 241683,
       "word": "中国未能获得2029年世乒赛举办权",
       "onboard_time": 1748354662,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210286,
+      "num": 376410,
+      "word": "73岁朴槿惠罕见外出笑容灿烂",
+      "onboard_time": 1748361921,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199500,
@@ -139,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184135,
+      "num": 184135,
+      "word": "常吃4种食物更容易患糖尿病",
+      "onboard_time": 1748360481,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182345,
       "num": 182345,
       "word": "小乔愿意为魏劭生孩子",
@@ -153,14 +177,6 @@
       "onboard_time": 1748336602,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176173,
-      "num": 176173,
-      "word": "常吃4种食物更容易患糖尿病",
-      "onboard_time": 1748360481,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173761,
@@ -187,22 +203,6 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 153243,
-      "num": 195803,
-      "word": "安徽17年前丢失石狮现身私人博物馆",
-      "onboard_time": 1748358982,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150084,
-      "num": 376410,
-      "word": "73岁朴槿惠罕见外出笑容灿烂",
-      "onboard_time": 1748361921,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148842,
       "num": 148842,
       "word": "鹿晗演唱会",
@@ -227,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136729,
+      "num": 136729,
+      "word": "一中国商人在菲律宾遭枪杀",
+      "onboard_time": 1748361561,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128010,
       "num": 128010,
       "word": "网传歌手2025第三期歌单",
@@ -235,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125983,
+      "num": 125983,
+      "word": "朴槿惠力挺韩国总统候选人金文洙",
+      "onboard_time": 1748352264,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121065,
       "num": 121065,
       "word": "藏海传你真的是配享太庙",
       "onboard_time": 1748358442,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119685,
-      "num": 119685,
-      "word": "朴槿惠力挺韩国总统候选人金文洙",
-      "onboard_time": 1748352264,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115202,
@@ -316,19 +324,11 @@
     },
     {
       "raw_hot": 96784,
-      "num": 96784,
+      "num": 104106,
       "word": "我是姜子牙 我同意给藏海传每一集封神",
       "onboard_time": 1748351542,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95851,
-      "num": 95851,
-      "word": "一中国商人在菲律宾遭枪杀",
-      "onboard_time": 1748361561,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95252,
@@ -371,12 +371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81977,
+      "num": 102837,
+      "word": "藏海传城网登顶",
+      "onboard_time": 1748379313,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81675,
       "num": 81675,
       "word": "张继科希望孙颖莎奥运会继续保持势头",
       "onboard_time": 1748351661,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76974,
+      "num": 87772,
+      "word": "17岁女生失踪47天系跳桥坠江",
+      "onboard_time": 1748365338,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76945,
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63048,
+      "num": 63048,
+      "word": "小乔幸好姓乔 如果姓张",
+      "onboard_time": 1748383515,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60722,
       "num": 63116,
       "word": "藏海传",
@@ -403,19 +427,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59658,
-      "num": 87772,
-      "word": "17岁女生失踪47天系跳桥坠江",
-      "onboard_time": 1748365338,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55915,
-      "num": 55915,
-      "word": "藏海传城网登顶",
-      "onboard_time": 1748379313,
-      "rank": 34,
+      "raw_hot": 49751,
+      "num": 49751,
+      "word": "庄二不是恶童变好了而是恶童长大了",
+      "onboard_time": 1748369414,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -427,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44291,
+      "num": 44291,
+      "word": "藏海不如厕 真是厉害",
+      "onboard_time": 1748384236,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42228,
+      "num": 117560,
+      "word": "特朗普又对哈佛出招",
+      "onboard_time": 1748366597,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
@@ -435,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37153,
-      "num": 37153,
-      "word": "庄二不是恶童变好了而是恶童长大了",
-      "onboard_time": 1748369414,
+      "raw_hot": 38935,
+      "num": 38935,
+      "word": "特朗普说美军阅兵式将超奥运会",
+      "onboard_time": 1748372353,
       "rank": 44,
-      "category": "剧集"
+      "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 36107,
+      "num": 36107,
+      "word": "特朗普考虑撤回哈佛30亿美元拨款",
+      "onboard_time": 1748378294,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36090,
@@ -451,44 +491,12 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 33995,
-      "num": 33995,
-      "word": "小乔幸好姓乔 如果姓张",
-      "onboard_time": 1748383515,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33857,
-      "num": 117560,
-      "word": "特朗普又对哈佛出招",
-      "onboard_time": 1748366597,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30741,
-      "num": 30741,
-      "word": "特朗普考虑撤回哈佛30亿美元拨款",
-      "onboard_time": 1748378294,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30599,
       "num": 30599,
       "word": "鹿晗四巡上海站通过审批",
       "onboard_time": 1748370134,
       "rank": 26,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 28589,
-      "num": 28589,
-      "word": "特朗普说美军阅兵式将超奥运会",
-      "onboard_time": 1748372353,
-      "rank": 44,
-      "category": "国际时政,体育"
     },
     {
       "raw_hot": 26196,
@@ -499,11 +507,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22053,
-      "num": 28418,
-      "word": "藏海不如厕 真是厉害",
-      "onboard_time": 1748384236,
-      "rank": 45,
+      "raw_hot": 25219,
+      "num": 46802,
+      "word": "应认清年轻人不愿为台独卖命现实",
+      "onboard_time": 1748366536,
+      "rank": 42,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 23328,
+      "num": 35924,
+      "word": "大乔为丈夫与父亲决裂",
+      "onboard_time": 1748385496,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1748371454,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20786,
-      "num": 46802,
-      "word": "应认清年轻人不愿为台独卖命现实",
-      "onboard_time": 1748366536,
-      "rank": 42,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 20123,
