@@ -1,7 +1,15 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748312456276,
+  "endTime": 1748315776204,
   "band_list": [
+    {
+      "raw_hot": 1728109,
+      "num": 460802,
+      "word": "母亲跌倒六天儿子见死不救去世",
+      "onboard_time": 1748312660,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1639991,
       "num": 1022404,
@@ -11,20 +19,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1484465,
+      "num": 1055088,
+      "word": "教授称对烫碗习惯恶心",
+      "onboard_time": 1748311281,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1220000,
       "num": 932009,
       "word": "弯刀裤",
       "onboard_time": 1748304320,
       "rank": 3,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 968416,
-      "num": 968416,
-      "word": "教授称对烫碗习惯恶心",
-      "onboard_time": 1748311281,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 921312,
@@ -59,6 +67,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 714242,
+      "num": 714242,
+      "word": "雷军恳请大家转发辟谣",
+      "onboard_time": 1748307740,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 691705,
+      "num": 691705,
+      "word": "记录我毁容的全过程",
+      "onboard_time": 1748310620,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 685349,
       "num": 535529,
       "word": "王健林已被冻结4.9亿股权",
@@ -91,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 529096,
-      "num": 165504,
-      "word": "记录我毁容的全过程",
-      "onboard_time": 1748310620,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 553508,
+      "num": 456921,
+      "word": "凶手等到女子妈妈离开后敲门杀人",
+      "onboard_time": 1748312839,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492105,
@@ -137,6 +161,30 @@
       "onboard_time": 1748272342,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456203,
+      "num": 456203,
+      "word": "教育部通知严禁违规频繁考试",
+      "onboard_time": 1748313980,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 441640,
+      "num": 471359,
+      "word": "吴京发布翻车视频",
+      "onboard_time": 1748307621,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431183,
+      "num": 469239,
+      "word": "断眉登机照",
+      "onboard_time": 1748314280,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 423207,
@@ -187,20 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351701,
+      "num": 351701,
+      "word": "花165万买了北京150平米老破大",
+      "onboard_time": 1748309181,
+      "rank": 26,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 331868,
       "num": 331868,
       "word": "三个月瘦了35斤的面部变化",
       "onboard_time": 1748266042,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328686,
-      "num": 429138,
-      "word": "吴京发布翻车视频",
-      "onboard_time": 1748307621,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 313923,
@@ -219,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265356,
+      "num": 265356,
+      "word": "肖战爱买冰箱贴",
+      "onboard_time": 1748314040,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261055,
       "num": 261055,
       "word": "大乔小乔吵架",
@@ -235,8 +291,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245129,
+      "num": 415807,
+      "word": "BLACKPINK或将下半年回归",
+      "onboard_time": 1748312961,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240961,
-      "num": 240961,
+      "num": 385468,
       "word": "林更新提名白玉兰最佳男配角",
       "onboard_time": 1748310200,
       "rank": 17,
@@ -249,14 +313,6 @@
       "onboard_time": 1748302280,
       "rank": 15,
       "category": "国际时政,教育"
-    },
-    {
-      "raw_hot": 236056,
-      "num": 236056,
-      "word": "雷军恳请大家转发辟谣",
-      "onboard_time": 1748307740,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 233493,
@@ -275,12 +331,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217536,
-      "num": 217536,
-      "word": "花165万买了北京150平米老破大",
-      "onboard_time": 1748309181,
-      "rank": 26,
-      "category": "幽默,民生新闻"
+      "raw_hot": 208713,
+      "num": 208713,
+      "word": "王楚钦孙颖莎混双世排第二",
+      "onboard_time": 1748313621,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194956,
+      "num": 404076,
+      "word": "爸爸当家4选人含金量还在上升",
+      "onboard_time": 1748312720,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191938,
+      "num": 209166,
+      "word": "陈芋汐夺冠后说非常感谢新搭档",
+      "onboard_time": 1748313920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191650,
+      "num": 191650,
+      "word": "留几手谈一个中国男人的一生",
+      "onboard_time": 1748311821,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187378,
@@ -307,6 +387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176418,
+      "num": 369394,
+      "word": "京东卖的百年龙虾嫩吗",
+      "onboard_time": 1748315300,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172173,
+      "num": 172173,
+      "word": "孙颖莎连续150周第一",
+      "onboard_time": 1748315300,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171619,
       "num": 171619,
       "word": "普京所乘飞机遭大规模袭击",
@@ -316,7 +412,7 @@
     },
     {
       "raw_hot": 171360,
-      "num": 171360,
+      "num": 206620,
       "word": "刘若英演唱会两姐妹点歌",
       "onboard_time": 1748275280,
       "rank": 28,
@@ -363,11 +459,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150878,
+      "num": 150878,
+      "word": "端午假期将有一轮大范围降雨",
+      "onboard_time": 1748310559,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150576,
       "num": 150576,
       "word": "孙颖莎再刷新ITTF最高积分纪录",
       "onboard_time": 1748307321,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150396,
+      "num": 360001,
+      "word": "网传彩票店因未先付款想占百万奖金",
+      "onboard_time": 1748314520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142993,
+      "num": 142993,
+      "word": "难忘孙颖莎胜利后夺眶而出的泪水",
+      "onboard_time": 1748314160,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -427,6 +547,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 130027,
+      "num": 130027,
+      "word": "杨幂穿弯刀裤",
+      "onboard_time": 1748315421,
+      "rank": 36,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 129965,
       "num": 129965,
       "word": "肥娟夫妇取消请1000位网友参加婚礼",
@@ -448,6 +576,14 @@
       "word": "南方本次大雨有4个特点",
       "onboard_time": 1748312059,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125932,
+      "num": 465855,
+      "word": "27岁女子家门口被害案今日开庭",
+      "onboard_time": 1748314160,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -499,28 +635,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120592,
-      "num": 120592,
-      "word": "留几手谈一个中国男人的一生",
-      "onboard_time": 1748311821,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118012,
       "num": 118012,
       "word": "三名日本黑帮成员因遛狗不拴绳被捕",
       "onboard_time": 1748280855,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 117172,
-      "num": 125297,
-      "word": "端午假期将有一轮大范围降雨",
-      "onboard_time": 1748310559,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115857,
@@ -587,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109342,
+      "num": 109342,
+      "word": "女子持刀杀人后父母带其做精神鉴定",
+      "onboard_time": 1748313920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108409,
       "num": 113874,
       "word": "藏海传 楚门的世界",
@@ -608,6 +736,14 @@
       "word": "妈妈回应男孩4岁时患糖尿病",
       "onboard_time": 1748304860,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102089,
+      "num": 427009,
+      "word": "杀害成都女子凶手称正当防卫不认罪",
+      "onboard_time": 1748314701,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -651,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95037,
+      "num": 95037,
+      "word": "烤西瓜",
+      "onboard_time": 1748313860,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93735,
       "num": 184280,
       "word": "闫安称樊振东肯定参加全运",
@@ -665,6 +809,14 @@
       "onboard_time": 1748273302,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90991,
+      "num": 90991,
+      "word": "兴业银行回应新存1000万可推名企实习",
+      "onboard_time": 1748313260,
+      "rank": 45,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 90547,
@@ -697,6 +849,14 @@
       "onboard_time": 1748300237,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88543,
+      "num": 88543,
+      "word": "广州警方通报科技公司遭境外黑客攻击",
+      "onboard_time": 1748313980,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88357,
@@ -875,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57810,
+      "num": 202518,
+      "word": "600公里人象寻亲破防了",
+      "onboard_time": 1748313500,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55102,
       "num": 55102,
       "word": "孙颖莎11900分世排第一",
@@ -995,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26972,
+      "num": 201111,
+      "word": "德英法解禁乌远程武器射程",
+      "onboard_time": 1748315480,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25667,
       "num": 27435,
       "word": "我希望我的手机被别人拿到不能打字",
@@ -1065,6 +1241,14 @@
       "onboard_time": 1748287034,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10328,
+      "num": 197375,
+      "word": "嫦娥六号在线催更天问二号",
+      "onboard_time": 1748314882,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10110,
