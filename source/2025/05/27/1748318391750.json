@@ -1,0 +1,410 @@
+{
+  "runTime": 1748318391750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 400092,
+        "num": 1064014,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1300364,
+        "num": 1032843,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62481,
+        "num": 1003438,
+        "word": "网信办进一步加强整治网络开盒",
+        "onboard_time": 1748317642,
+        "rank": 2,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 996199,
+        "num": 996199,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 839034,
+        "num": 839034,
+        "word": "网传彩票店因未先付款想占百万奖金",
+        "onboard_time": 1748314520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40196,
+        "num": 625868,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1532268,
+        "num": 560987,
+        "word": "教授称对烫碗习惯恶心",
+        "onboard_time": 1748311281,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480624,
+        "num": 480624,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396971,
+        "num": 396971,
+        "word": "藏海传制片说不因是顶流选肖战",
+        "onboard_time": 1748316081,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387797,
+        "num": 387797,
+        "word": "谁懂赵丽颖一开口的宿命感",
+        "onboard_time": 1748316200,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1343895,
+        "num": 385082,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469193,
+        "num": 380275,
+        "word": "花165万买了北京150平米老破大",
+        "onboard_time": 1748309181,
+        "rank": 11,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 761616,
+        "num": 376158,
+        "word": "凶手等到女子妈妈离开后敲门杀人",
+        "onboard_time": 1748312839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529711,
+        "num": 370142,
+        "word": "女儿未恋爱遇害母亲泣诉人生骤断",
+        "onboard_time": 1748306842,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121771,
+        "num": 363505,
+        "word": "李昀锐北面冲锋衣战神",
+        "onboard_time": 1748317342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359402,
+        "num": 359402,
+        "word": "弯刀裤",
+        "onboard_time": 1748304320,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348223,
+        "num": 359327,
+        "word": "芒果男主持转型拍短剧的演技",
+        "onboard_time": 1748317762,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194330,
+        "num": 359277,
+        "word": "女子持刀杀人后父母带其做精神鉴定",
+        "onboard_time": 1748313920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227829,
+        "num": 359218,
+        "word": "邓紫棋重录",
+        "onboard_time": 1748316861,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184595,
+        "num": 359116,
+        "word": "京东卖的百年龙虾嫩吗",
+        "onboard_time": 1748315300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640091,
+        "num": 359039,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 20,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 276345,
+        "num": 358904,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224567,
+        "num": 358865,
+        "word": "吴京发布翻车视频",
+        "onboard_time": 1748307621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214584,
+        "num": 358746,
+        "word": "爸爸当家4选人含金量还在上升",
+        "onboard_time": 1748312720,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51305,
+        "num": 358661,
+        "word": "王楚钦夺冠路堪称热血逆袭成长史",
+        "onboard_time": 1748312059,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190329,
+        "num": 358582,
+        "word": "折腰夜色祈愿群像海报",
+        "onboard_time": 1748317221,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181213,
+        "num": 358460,
+        "word": "BLACKPINK或将下半年回归",
+        "onboard_time": 1748312961,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54092,
+        "num": 358421,
+        "word": "香港多所高校欢迎哈佛学生转学",
+        "onboard_time": 1748316801,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 16238,
+        "num": 358273,
+        "word": "针筒玩具可能会造成哪些伤害",
+        "onboard_time": 1748317642,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62594,
+        "num": 358201,
+        "word": "大消费概念早盘活跃",
+        "onboard_time": 1748318002,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 358156,
+        "num": 358156,
+        "word": "王楚钦孙颖莎混双世排第二",
+        "onboard_time": 1748313621,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343190,
+        "num": 343190,
+        "word": "母亲要求不给家门口遇害女儿打码",
+        "onboard_time": 1748316921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342065,
+        "num": 342065,
+        "word": "肖战爱买冰箱贴",
+        "onboard_time": 1748314040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 229741,
+        "word": "男子中百万大奖却没付30元彩票钱",
+        "onboard_time": 1748317822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207183,
+        "num": 207183,
+        "word": "香港人涌入内地从买菜到看病",
+        "onboard_time": 1748317100,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191620,
+        "num": 191620,
+        "word": "烫碗",
+        "onboard_time": 1748316742,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169817,
+        "num": 169817,
+        "word": "李萌萌演了Mike的女主角",
+        "onboard_time": 1748318122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164269,
+        "num": 164269,
+        "word": "粤A人不哭",
+        "onboard_time": 1748317941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147960,
+        "num": 147960,
+        "word": "西藏警方通报珠峰车辆被砸",
+        "onboard_time": 1748316502,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "嘬老",
+        "onboard_time": 1748317521,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140613,
+        "num": 140613,
+        "word": "孙颖莎多哈世乒赛vlog",
+        "onboard_time": 1748318002,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139337,
+        "num": 139337,
+        "word": "内地两女游客在澳门乱过马路被撞",
+        "onboard_time": 1748317762,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137251,
+        "num": 137251,
+        "word": "男童因伤退出孙继海青训被要18万",
+        "onboard_time": 1748309660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "成都女子家门口被害案需重新取证",
+        "onboard_time": 1748318060,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134332,
+        "num": 134332,
+        "word": "陈芋汐夺冠后说非常感谢新搭档",
+        "onboard_time": 1748313920,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133405,
+        "num": 133405,
+        "word": "多方回应店主被传因未付款占百万彩票",
+        "onboard_time": 1748317161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131495,
+        "num": 131495,
+        "word": "藏海爷们要脸",
+        "onboard_time": 1748318242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128638,
+        "num": 128638,
+        "word": "蔡依林新专PLEASURE上线倒计时",
+        "onboard_time": 1748318361,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123256,
+        "num": 123256,
+        "word": "怎样察觉到一段关系快完了",
+        "onboard_time": 1748317941,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122714,
+        "num": 122714,
+        "word": "美老板说一旦美国生产就不卖了",
+        "onboard_time": 1748307381,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

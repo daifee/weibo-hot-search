@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748316635449,
+  "endTime": 1748318391750,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -187,6 +187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1532268,
+      "num": 1055088,
+      "word": "教授称对烫碗习惯恶心",
+      "onboard_time": 1748311281,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1528474,
       "num": 1528474,
       "word": "男子日均点外卖2.5次患病需终身服药",
@@ -201,14 +209,6 @@
       "onboard_time": 1748143220,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1484465,
-      "num": 1055088,
-      "word": "教授称对烫碗习惯恶心",
-      "onboard_time": 1748311281,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1471958,
@@ -297,6 +297,14 @@
       "onboard_time": 1748170701,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1300364,
+      "num": 1032843,
+      "word": "教育部通知严禁违规频繁考试",
+      "onboard_time": 1748313980,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1294456,
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 996199,
+      "num": 996199,
+      "word": "雷军恳请大家转发辟谣",
+      "onboard_time": 1748307740,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 976849,
       "num": 976849,
       "word": "朱媛媛夫妇工作室分别叫本源和本卿",
@@ -473,14 +489,6 @@
       "onboard_time": 1748183604,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 940926,
-      "num": 940926,
-      "word": "雷军恳请大家转发辟谣",
-      "onboard_time": 1748307740,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 935904,
@@ -731,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 761616,
+      "num": 494233,
+      "word": "凶手等到女子妈妈离开后敲门杀人",
+      "onboard_time": 1748312839,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 754822,
       "num": 754822,
       "word": "赵丽颖白色仙女长裙",
@@ -923,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 643162,
-      "num": 494233,
-      "word": "凶手等到女子妈妈离开后敲门杀人",
-      "onboard_time": 1748312839,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 640091,
+      "num": 359039,
+      "word": "杨幂穿弯刀裤",
+      "onboard_time": 1748315421,
+      "rank": 36,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 638452,
@@ -1203,14 +1219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 535861,
-      "num": 278848,
-      "word": "杨幂穿弯刀裤",
-      "onboard_time": 1748315421,
-      "rank": 36,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 535006,
       "num": 687965,
       "word": "37岁女子福建爬山拍照时坠崖身亡",
@@ -1323,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497838,
-      "num": 497838,
-      "word": "教育部通知严禁违规频繁考试",
-      "onboard_time": 1748313980,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 495114,
       "num": 495114,
       "word": "藏海跪太快镜头差点没跟上",
@@ -1417,6 +1417,14 @@
       "onboard_time": 1748180788,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469193,
+      "num": 380275,
+      "word": "花165万买了北京150平米老破大",
+      "onboard_time": 1748309181,
+      "rank": 26,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 463851,
@@ -1659,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396971,
+      "num": 396971,
+      "word": "藏海传制片说不因是顶流选肖战",
+      "onboard_time": 1748316081,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395270,
       "num": 271706,
       "word": "户上隼辅篠塚大登男双夺冠",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1748190921,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387797,
+      "num": 387797,
+      "word": "谁懂赵丽颖一开口的宿命感",
+      "onboard_time": 1748316200,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 383872,
@@ -1843,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361381,
-      "num": 361381,
-      "word": "花165万买了北京150平米老破大",
-      "onboard_time": 1748309181,
-      "rank": 26,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 361278,
       "num": 345802,
       "word": "蜜丝婷 王楚钦",
@@ -1880,6 +1896,14 @@
       "word": "孙颖莎再一次把China印在了球场上",
       "onboard_time": 1748236881,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 358156,
+      "num": 358156,
+      "word": "王楚钦孙颖莎混双世排第二",
+      "onboard_time": 1748313621,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1931,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348223,
+      "num": 359327,
+      "word": "芒果男主持转型拍短剧的演技",
+      "onboard_time": 1748317762,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347233,
       "num": 347233,
       "word": "肖战新剧背带裤路透",
@@ -1971,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343190,
+      "num": 343190,
+      "word": "母亲要求不给家门口遇害女儿打码",
+      "onboard_time": 1748316921,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342800,
       "num": 665471,
       "word": "不愧是世乒赛女单决赛",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1748240542,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342065,
+      "num": 342065,
+      "word": "肖战爱买冰箱贴",
+      "onboard_time": 1748314040,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 338462,
@@ -2323,28 +2371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280339,
-      "num": 280339,
-      "word": "藏海传制片说不因是顶流选肖战",
-      "onboard_time": 1748316081,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278454,
       "num": 563139,
       "word": "藏海第三个仇人",
       "onboard_time": 1748175504,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278443,
-      "num": 278443,
-      "word": "王楚钦孙颖莎混双世排第二",
-      "onboard_time": 1748313621,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 277862,
@@ -2401,14 +2433,6 @@
       "onboard_time": 1748169261,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271331,
-      "num": 271331,
-      "word": "肖战爱买冰箱贴",
-      "onboard_time": 1748314040,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 270167,
@@ -2779,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229741,
+      "num": 229741,
+      "word": "男子中百万大奖却没付30元彩票钱",
+      "onboard_time": 1748317822,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "幻象黑兔 明日方舟",
@@ -2793,6 +2825,14 @@
       "onboard_time": 1748257881,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227829,
+      "num": 359218,
+      "word": "邓紫棋重录",
+      "onboard_time": 1748316861,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 227419,
@@ -2947,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214584,
+      "num": 404076,
+      "word": "爸爸当家4选人含金量还在上升",
+      "onboard_time": 1748312720,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214013,
       "num": 366146,
       "word": "YG新女团",
@@ -2993,14 +3041,6 @@
       "onboard_time": 1748128637,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210336,
-      "num": 404076,
-      "word": "爸爸当家4选人含金量还在上升",
-      "onboard_time": 1748312720,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 209997,
@@ -3051,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207183,
+      "num": 207183,
+      "word": "香港人涌入内地从买菜到看病",
+      "onboard_time": 1748317100,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206999,
       "num": 312172,
       "word": "周奇庄二上桌",
@@ -3081,14 +3129,6 @@
       "onboard_time": 1748146699,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205340,
-      "num": 279680,
-      "word": "谁懂赵丽颖一开口的宿命感",
-      "onboard_time": 1748316200,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 204243,
@@ -3387,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194330,
+      "num": 359277,
+      "word": "女子持刀杀人后父母带其做精神鉴定",
+      "onboard_time": 1748313920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193907,
       "num": 193907,
       "word": "藏海传优酷热度破10400",
@@ -3499,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191620,
+      "num": 191620,
+      "word": "烫碗",
+      "onboard_time": 1748316742,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191310,
       "num": 191310,
       "word": "徐明浩solo曲空降",
@@ -3529,6 +3585,14 @@
       "onboard_time": 1748172081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190329,
+      "num": 358582,
+      "word": "折腰夜色祈愿群像海报",
+      "onboard_time": 1748317221,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 189974,
@@ -3665,6 +3729,14 @@
       "onboard_time": 1748177842,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184595,
+      "num": 369394,
+      "word": "京东卖的百年龙虾嫩吗",
+      "onboard_time": 1748315300,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184342,
@@ -3937,14 +4009,6 @@
       "onboard_time": 1748268622,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176418,
-      "num": 369394,
-      "word": "京东卖的百年龙虾嫩吗",
-      "onboard_time": 1748315300,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176335,
@@ -4251,6 +4315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169817,
+      "num": 169817,
+      "word": "李萌萌演了Mike的女主角",
+      "onboard_time": 1748318122,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169118,
       "num": 169118,
       "word": "JJ20",
@@ -4488,6 +4560,14 @@
       "word": "高层小区电梯老龄化问题何解",
       "onboard_time": 1748249001,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164269,
+      "num": 164269,
+      "word": "粤A人不哭",
+      "onboard_time": 1748317941,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5027,6 +5107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147960,
+      "num": 147960,
+      "word": "西藏警方通报珠峰车辆被砸",
+      "onboard_time": 1748316502,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 147545,
+      "num": 147545,
+      "word": "嘬老",
+      "onboard_time": 1748317521,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147204,
       "num": 147204,
       "word": "蛮蛮一劭大吵",
@@ -5283,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140613,
+      "num": 140613,
+      "word": "孙颖莎多哈世乒赛vlog",
+      "onboard_time": 1748318002,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140446,
       "num": 140446,
       "word": "小狗 我不想长大了",
@@ -5313,6 +5417,14 @@
       "onboard_time": 1748156362,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139337,
+      "num": 139337,
+      "word": "内地两女游客在澳门乱过马路被撞",
+      "onboard_time": 1748317762,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139259,
@@ -5467,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135130,
+      "num": 135130,
+      "word": "成都女子家门口被害案需重新取证",
+      "onboard_time": 1748318060,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135115,
       "num": 419198,
       "word": "今年什么口味粽子最火",
@@ -5537,6 +5657,14 @@
       "onboard_time": 1748186484,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133405,
+      "num": 133405,
+      "word": "多方回应店主被传因未付款占百万彩票",
+      "onboard_time": 1748317161,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132843,
@@ -5649,6 +5777,14 @@
       "onboard_time": 1748156062,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131495,
+      "num": 131495,
+      "word": "藏海爷们要脸",
+      "onboard_time": 1748318242,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131315,
@@ -5777,6 +5913,14 @@
       "onboard_time": 1748264663,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128638,
+      "num": 128638,
+      "word": "蔡依林新专PLEASURE上线倒计时",
+      "onboard_time": 1748318361,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 128577,
@@ -5963,6 +6107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123256,
+      "num": 123256,
+      "word": "怎样察觉到一段关系快完了",
+      "onboard_time": 1748317941,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123094,
       "num": 160518,
       "word": "加沙11个月大婴儿仅10斤重",
@@ -6025,6 +6177,14 @@
       "onboard_time": 1748132179,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 121771,
+      "num": 363505,
+      "word": "李昀锐北面冲锋衣战神",
+      "onboard_time": 1748317342,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 121770,
@@ -6267,14 +6427,6 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 113585,
-      "num": 113585,
-      "word": "西藏警方通报珠峰车辆被砸",
-      "onboard_time": 1748316502,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 113232,
       "num": 113232,
       "word": "雨果回应4比3胜梁靖崑",
@@ -6465,14 +6617,6 @@
       "onboard_time": 1748097746,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109342,
-      "num": 109342,
-      "word": "女子持刀杀人后父母带其做精神鉴定",
-      "onboard_time": 1748313920,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109050,
@@ -6780,7 +6924,7 @@
     },
     {
       "raw_hot": 98869,
-      "num": 98869,
+      "num": 358661,
       "word": "王楚钦夺冠路堪称热血逆袭成长史",
       "onboard_time": 1748312059,
       "rank": 47,
@@ -7563,6 +7707,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62594,
+      "num": 358201,
+      "word": "大消费概念早盘活跃",
+      "onboard_time": 1748318002,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 62481,
+      "num": 1003438,
+      "word": "网信办进一步加强整治网络开盒",
+      "onboard_time": 1748317642,
+      "rank": 2,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 62390,
       "num": 62390,
       "word": "王曼昱相信自己状态没有问题",
@@ -7769,6 +7929,14 @@
       "onboard_time": 1748302520,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54092,
+      "num": 358421,
+      "word": "香港多所高校欢迎哈佛学生转学",
+      "onboard_time": 1748316801,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 53992,
@@ -8153,6 +8321,14 @@
       "onboard_time": 1748208493,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40196,
+      "num": 625868,
+      "word": "国家网络身份认证筑牢数字安全屏障",
+      "onboard_time": 1748316742,
+      "rank": 5,
+      "category": "正能量"
     },
     {
       "raw_hot": 39706,
@@ -8945,6 +9121,14 @@
       "onboard_time": 1748206454,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 16238,
+      "num": 358273,
+      "word": "针筒玩具可能会造成哪些伤害",
+      "onboard_time": 1748317642,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15989,
