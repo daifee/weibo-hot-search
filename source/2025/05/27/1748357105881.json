@@ -1,0 +1,410 @@
+{
+  "runTime": 1748357105881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 37820,
+        "num": 1006051,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1630001,
+        "num": 977099,
+        "word": "曹氏鸭脖一门店碗底印你像猪一样能吃",
+        "onboard_time": 1748352443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38653,
+        "num": 946544,
+        "word": "夏收跑出加速度",
+        "onboard_time": 1748352503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924939,
+        "num": 924939,
+        "word": "梁乡重伤不治而亡",
+        "onboard_time": 1748353044,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 837976,
+        "num": 837976,
+        "word": "朴槿惠力挺韩国总统候选人金文洙",
+        "onboard_time": 1748352264,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 731824,
+        "num": 731824,
+        "word": "小乔愿意为魏劭生孩子",
+        "onboard_time": 1748350162,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670392,
+        "num": 670392,
+        "word": "中国未能获得2029年世乒赛举办权",
+        "onboard_time": 1748354662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655529,
+        "num": 655529,
+        "word": "山东一化工厂爆炸5人死亡6人失联",
+        "onboard_time": 1748351243,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 566253,
+        "num": 566253,
+        "word": "赵秉文 面具人",
+        "onboard_time": 1748350942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311793,
+        "num": 558013,
+        "word": "运动员版高考加油海报太燃了",
+        "onboard_time": 1748355863,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1015964,
+        "num": 556946,
+        "word": "内娱最权威的四张撕拉片",
+        "onboard_time": 1748346981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715531,
+        "num": 556323,
+        "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+        "onboard_time": 1748346380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555513,
+        "num": 555513,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509473,
+        "num": 509473,
+        "word": "月薪3万NPC岗位超百人报名只招1人",
+        "onboard_time": 1748353342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506206,
+        "num": 506206,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394843,
+        "num": 394843,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349957,
+        "num": 349957,
+        "word": "肖战腹肌",
+        "onboard_time": 1748346620,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324460,
+        "num": 346810,
+        "word": "欧阳娜娜在闲鱼讲价被拒绝",
+        "onboard_time": 1748347760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54030,
+        "num": 343857,
+        "word": "豪配全配齐东风纳米06掀桌子",
+        "onboard_time": 1748353342,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31671,
+        "num": 341282,
+        "word": "化工车间爆炸对附近居民会有什么影响",
+        "onboard_time": 1748354784,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 491820,
+        "num": 339212,
+        "word": "张继科希望孙颖莎奥运会继续保持势头",
+        "onboard_time": 1748351661,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86609,
+        "num": 334141,
+        "word": "教授回应广东人饭前烫碗恶心言论",
+        "onboard_time": 1748356763,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332057,
+        "num": 332057,
+        "word": "哈萨克斯坦举办2027年世乒赛",
+        "onboard_time": 1748354183,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352393,
+        "num": 332047,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24099,
+        "num": 331167,
+        "word": "AI建议以旧换新的家电有什么",
+        "onboard_time": 1748356944,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308024,
+        "num": 330460,
+        "word": "杨凯之死在了充满希望那一天",
+        "onboard_time": 1748347341,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256115,
+        "num": 329581,
+        "word": "歌手赵丽颖上线",
+        "onboard_time": 1748356223,
+        "rank": 26,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 240125,
+        "num": 329222,
+        "word": "宁静误会朱丹",
+        "onboard_time": 1748352083,
+        "rank": 27,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 233683,
+        "num": 328785,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1748344581,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11094,
+        "num": 328065,
+        "word": "学会对健身祛魅很重要",
+        "onboard_time": 1748356343,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 327693,
+        "num": 327693,
+        "word": "独居阿婆被老闺蜜骗光273万养老钱",
+        "onboard_time": 1748353884,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246010,
+        "num": 246010,
+        "word": "网红儿童厨具能轻松切开牛肉",
+        "onboard_time": 1748353102,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 221030,
+        "num": 221030,
+        "word": "百岁山 直角肩",
+        "onboard_time": 1748345719,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208841,
+        "num": 208841,
+        "word": "藏海被人捅了",
+        "onboard_time": 1748351661,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191146,
+        "num": 191146,
+        "word": "我是姜子牙 我同意给藏海传每一集封神",
+        "onboard_time": 1748351542,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91852,
+        "num": 189615,
+        "word": "男子坐共享单车摔死骑车人全责",
+        "onboard_time": 1748357004,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115240,
+        "num": 189113,
+        "word": "巴西里约举办2029年世乒赛",
+        "onboard_time": 1748354604,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189033,
+        "num": 189033,
+        "word": "官方通报山东高密一化工厂爆炸",
+        "onboard_time": 1748352322,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188938,
+        "num": 188938,
+        "word": "吴谨言产后现身机场",
+        "onboard_time": 1748347401,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24913,
+        "num": 186515,
+        "word": "AI建议以旧换新的家电有哪些",
+        "onboard_time": 1748355142,
+        "rank": 39,
+        "category": "休闲,数码"
+      },
+      {
+        "raw_hot": 186393,
+        "num": 186393,
+        "word": "爸爸工亡胚胎移植子女领抚恤金遭拒",
+        "onboard_time": 1748346801,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187925,
+        "num": 185918,
+        "word": "藏海传海暗线 囚禁爱",
+        "onboard_time": 1748355443,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185224,
+        "num": 185224,
+        "word": "泡泡玛特599元联名款被炒至1.5万",
+        "onboard_time": 1748346501,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173655,
+        "num": 173655,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173466,
+        "num": 173466,
+        "word": "端午节不调休下周只上四天班",
+        "onboard_time": 1748338400,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172871,
+        "num": 172871,
+        "word": "王曼昱首次出席时尚活动",
+        "onboard_time": 1748343681,
+        "rank": 45,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 170316,
+        "word": "涉事门店回应碗底印你像猪一样能吃",
+        "onboard_time": 1748356463,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168553,
+        "num": 168553,
+        "word": "小米",
+        "onboard_time": 1748352264,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158215,
+        "num": 158215,
+        "word": "李亚鹏和妻子目前没房产",
+        "onboard_time": 1748350761,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149154,
+        "num": 149154,
+        "word": "曹静贤个太监办什么家宴啊",
+        "onboard_time": 1748350162,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
