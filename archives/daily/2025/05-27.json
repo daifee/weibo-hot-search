@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748328617261,
+  "endTime": 1748330766416,
   "band_list": [
     {
       "raw_hot": 2780095,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1323941,
-      "num": 554140,
+      "num": 666141,
       "word": "海恩贤圭分手",
       "onboard_time": 1748326882,
       "rank": 10,
@@ -75,6 +75,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1197693,
+      "num": 941520,
+      "word": "山东一化工车间发生爆炸",
+      "onboard_time": 1748326942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1167460,
+      "num": 965707,
+      "word": "刘若英道歉",
+      "onboard_time": 1748326643,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1072763,
       "num": 1033765,
       "word": "山东一化工车间爆炸震碎周边玻璃",
@@ -83,20 +99,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1037549,
+      "num": 836314,
+      "word": "月薪三万就是最大的意义",
+      "onboard_time": 1748325262,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 996199,
       "num": 996199,
       "word": "雷军恳请大家转发辟谣",
       "onboard_time": 1748307740,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 965707,
-      "num": 965707,
-      "word": "刘若英道歉",
-      "onboard_time": 1748326643,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 924641,
@@ -131,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 836739,
-      "num": 836739,
-      "word": "山东一化工车间发生爆炸",
-      "onboard_time": 1748326942,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 802963,
+      "num": 802963,
+      "word": "崔政宇去世",
+      "onboard_time": 1748327302,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 794864,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 716712,
-      "num": 716712,
-      "word": "月薪三万就是最大的意义",
-      "onboard_time": 1748325262,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 691705,
       "num": 691705,
       "word": "记录我毁容的全过程",
@@ -201,6 +209,14 @@
       "onboard_time": 1748270843,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 660353,
+      "num": 660353,
+      "word": "抑郁症躯体化症状的真实表现",
+      "onboard_time": 1748327842,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 640091,
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572775,
-      "num": 572775,
-      "word": "崔政宇去世",
-      "onboard_time": 1748327302,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 568528,
       "num": 89762,
       "word": "麦琳 千禧辣妹",
@@ -313,6 +321,14 @@
       "onboard_time": 1748307203,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484675,
+      "num": 484675,
+      "word": "宁静主动示好欧阳娣娣",
+      "onboard_time": 1748327062,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 480836,
@@ -379,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417563,
+      "num": 417563,
+      "word": "女子早产生双胞胎后感染肺炎去世",
+      "onboard_time": 1748325804,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415718,
       "num": 565754,
       "word": "姚晨从小就是大五官",
       "onboard_time": 1748318601,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414079,
-      "num": 414079,
-      "word": "女子早产生双胞胎后感染肺炎去世",
-      "onboard_time": 1748325804,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 408420,
@@ -441,14 +457,6 @@
       "onboard_time": 1748272223,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367967,
-      "num": 482120,
-      "word": "宁静主动示好欧阳娣娣",
-      "onboard_time": 1748327062,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 358156,
@@ -523,6 +531,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298516,
+      "num": 298516,
+      "word": "长期晚睡会发生什么",
+      "onboard_time": 1748329522,
+      "rank": 23,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 293791,
+      "num": 268699,
+      "word": "遭家暴后坠亡9岁男孩父亲发声",
+      "onboard_time": 1748329882,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284170,
       "num": 284170,
       "word": "光遇",
@@ -537,6 +561,14 @@
       "onboard_time": 1748267124,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278944,
+      "num": 278944,
+      "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+      "onboard_time": 1748329281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 275984,
@@ -643,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232188,
+      "num": 239644,
+      "word": "12辆车15秒让出救命通道",
+      "onboard_time": 1748326762,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 229741,
       "num": 229741,
       "word": "男子中百万大奖却没付30元彩票钱",
@@ -697,6 +737,30 @@
       "onboard_time": 1748319682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205366,
+      "num": 276894,
+      "word": "鞠婧祎回应时尚芭莎",
+      "onboard_time": 1748330361,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 197393,
+      "num": 523567,
+      "word": "山东一村免费为适龄青年分配100平楼房",
+      "onboard_time": 1748327361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194773,
+      "num": 273214,
+      "word": "石宇奇因治疗腹部被烫出泡",
+      "onboard_time": 1748329882,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 193309,
@@ -811,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183264,
+      "num": 269896,
+      "word": "凶手将女子捅死开庭前夕才道歉",
+      "onboard_time": 1748328321,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183159,
       "num": 183159,
       "word": "丁禹兮中餐厅单手接饼",
@@ -899,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171095,
-      "num": 239644,
-      "word": "12辆车15秒让出救命通道",
-      "onboard_time": 1748326762,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 171088,
       "num": 171088,
       "word": "体重跟肠道也有关系吗",
@@ -961,6 +1025,14 @@
       "onboard_time": 1748316502,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 159786,
+      "num": 159786,
+      "word": "张翰方尚未回应被起诉",
+      "onboard_time": 1748330241,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159052,
@@ -1027,12 +1099,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144443,
-      "num": 523567,
-      "word": "山东一村免费为适龄青年分配100平楼房",
-      "onboard_time": 1748327361,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "山花烂漫时",
+      "onboard_time": 1748329821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 142993,
@@ -1099,6 +1171,22 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 137233,
+      "num": 137233,
+      "word": "上海套内85平米的家",
+      "onboard_time": 1748327121,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135056,
+      "num": 135056,
+      "word": "汪顺游泳冠军赛九宫格",
+      "onboard_time": 1748329821,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134725,
       "num": 134725,
       "word": "王楚钦夺冠高光时刻",
@@ -1153,14 +1241,6 @@
       "onboard_time": 1748321603,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 131264,
-      "num": 131264,
-      "word": "上海套内85平米的家",
-      "onboard_time": 1748327121,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 129965,
@@ -1307,14 +1387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120418,
-      "num": 139281,
-      "word": "抑郁症躯体化症状的真实表现",
-      "onboard_time": 1748327842,
-      "rank": 38,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 118970,
       "num": 118970,
       "word": "字节辟谣为大额储户子女提供实习",
@@ -1355,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115644,
+      "num": 115644,
+      "word": "折腰婆媳关系丝滑一镜到底",
+      "onboard_time": 1748328682,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115420,
       "num": 272180,
       "word": "王励勤回应王楚钦夺冠",
@@ -1379,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114441,
+      "num": 114441,
+      "word": "48元一块的玉米挞",
+      "onboard_time": 1748330542,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113874,
       "num": 250140,
       "word": "缅北明家犯罪集团案已进入审判环节",
@@ -1395,20 +1483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113047,
-      "num": 113047,
-      "word": "凶手将女子捅死开庭前夕才道歉",
-      "onboard_time": 1748328321,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112838,
       "num": 112838,
       "word": "美元大跌原因",
       "onboard_time": 1748310739,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112300,
+      "num": 112300,
+      "word": "当老师叫00后学生的名字",
+      "onboard_time": 1748329222,
+      "rank": 47,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 111885,
@@ -1443,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106377,
+      "num": 112659,
+      "word": "汪顺夺冠后发文",
+      "onboard_time": 1748328502,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105127,
       "num": 105127,
       "word": "网友日本偶遇王菲谢霆锋",
@@ -1464,6 +1560,14 @@
       "word": "台湾名嘴手持孙颖莎照片哽咽发声",
       "onboard_time": 1748265323,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100320,
+      "num": 688528,
+      "word": "是孙颖莎的荣光也是中国队的荣光",
+      "onboard_time": 1748330182,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1692,7 +1796,7 @@
     },
     {
       "raw_hot": 77548,
-      "num": 542850,
+      "num": 666711,
       "word": "成毅给你刚好的甜",
       "onboard_time": 1748326522,
       "rank": 11,
@@ -2027,12 +2131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32699,
-      "num": 112659,
-      "word": "汪顺夺冠后发文",
-      "onboard_time": 1748328502,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 30209,
+      "num": 320758,
+      "word": "山东化工车间爆炸的原因可能是什么",
+      "onboard_time": 1748329581,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 29693,
@@ -2089,6 +2193,14 @@
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26869,
+      "num": 271856,
+      "word": "为什么孕妇要特别小心李斯特菌",
+      "onboard_time": 1748329281,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 26403,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748328617261,
+  "endTime": 1748330766416,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1323941,
-      "num": 554140,
+      "num": 666141,
       "word": "海恩贤圭分手",
       "onboard_time": 1748326882,
       "rank": 10,
@@ -379,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1197693,
+      "num": 941520,
+      "word": "山东一化工车间发生爆炸",
+      "onboard_time": 1748326942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1194402,
       "num": 1194402,
       "word": "哈佛留学生上演大逃亡",
@@ -393,6 +401,14 @@
       "onboard_time": 1748187864,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1167460,
+      "num": 965707,
+      "word": "刘若英道歉",
+      "onboard_time": 1748326643,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 1146745,
@@ -475,6 +491,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1037549,
+      "num": 836314,
+      "word": "月薪三万就是最大的意义",
+      "onboard_time": 1748325262,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1016295,
       "num": 619264,
       "word": "躺床上睡觉结果不小心点到直播",
@@ -513,14 +537,6 @@
       "onboard_time": 1748247441,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 965707,
-      "num": 965707,
-      "word": "刘若英道歉",
-      "onboard_time": 1748326643,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 965119,
@@ -691,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 836739,
-      "num": 836739,
-      "word": "山东一化工车间发生爆炸",
-      "onboard_time": 1748326942,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 827408,
       "num": 379026,
       "word": "小伙称连吃28天鸡腿饭瘦10多斤",
@@ -729,6 +737,14 @@
       "onboard_time": 1748180309,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 802963,
+      "num": 802963,
+      "word": "崔政宇去世",
+      "onboard_time": 1748327302,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 802327,
@@ -923,14 +939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 716712,
-      "num": 716712,
-      "word": "月薪三万就是最大的意义",
-      "onboard_time": 1748325262,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 699100,
       "num": 699100,
       "word": "郑钦文恭喜王楚钦",
@@ -985,6 +993,14 @@
       "onboard_time": 1748236402,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660353,
+      "num": 660353,
+      "word": "抑郁症躯体化症状的真实表现",
+      "onboard_time": 1748327842,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 652894,
@@ -1243,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 572775,
-      "num": 572775,
-      "word": "崔政宇去世",
-      "onboard_time": 1748327302,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 569277,
       "num": 569277,
       "word": "新说唱2025导师官宣",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1748189781,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484675,
+      "num": 484675,
+      "word": "宁静主动示好欧阳娣娣",
+      "onboard_time": 1748327062,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 484117,
@@ -1771,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 417563,
+      "num": 417563,
+      "word": "女子早产生双胞胎后感染肺炎去世",
+      "onboard_time": 1748325804,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415909,
       "num": 275210,
       "word": "脂肪下降的顺序",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1748318601,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414079,
-      "num": 414079,
-      "word": "女子早产生双胞胎后感染肺炎去世",
-      "onboard_time": 1748325804,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 409504,
@@ -1976,14 +1992,6 @@
       "word": "奔跑吧路透",
       "onboard_time": 1748150422,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 367967,
-      "num": 482120,
-      "word": "宁静主动示好欧阳娣娣",
-      "onboard_time": 1748327062,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2459,6 +2467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 298516,
+      "num": 298516,
+      "word": "长期晚睡会发生什么",
+      "onboard_time": 1748329522,
+      "rank": 23,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 297619,
       "num": 297619,
       "word": "奔跑吧",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1748251523,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293791,
+      "num": 268699,
+      "word": "遭家暴后坠亡9岁男孩父亲发声",
+      "onboard_time": 1748329882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293131,
@@ -2576,6 +2600,14 @@
       "word": "马龙带娃参加斯巴达",
       "onboard_time": 1748157923,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278944,
+      "num": 278944,
+      "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+      "onboard_time": 1748329281,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -3059,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232188,
+      "num": 239644,
+      "word": "12辆车15秒让出救命通道",
+      "onboard_time": 1748326762,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 232061,
       "num": 295684,
       "word": "白鹿说小鬼是她的rapper老师",
@@ -3411,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205366,
+      "num": 276894,
+      "word": "鞠婧祎回应时尚芭莎",
+      "onboard_time": 1748330361,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 204243,
       "num": 204243,
       "word": "王安宇被刘浩存钓到翘嘴角",
@@ -3611,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197393,
+      "num": 523567,
+      "word": "山东一村免费为适龄青年分配100平楼房",
+      "onboard_time": 1748327361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197113,
       "num": 197113,
       "word": "紫川",
@@ -3697,6 +3753,14 @@
       "onboard_time": 1748152762,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194773,
+      "num": 273214,
+      "word": "石宇奇因治疗腹部被烫出泡",
+      "onboard_time": 1748329882,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 194608,
@@ -4089,6 +4153,14 @@
       "onboard_time": 1748304442,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183264,
+      "num": 269896,
+      "word": "凶手将女子捅死开庭前夕才道歉",
+      "onboard_time": 1748328321,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183159,
@@ -4643,14 +4715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171095,
-      "num": 239644,
-      "word": "12辆车15秒让出救命通道",
-      "onboard_time": 1748326762,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 171088,
       "num": 171088,
       "word": "体重跟肠道也有关系吗",
@@ -5113,6 +5177,14 @@
       "onboard_time": 1748191699,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159786,
+      "num": 159786,
+      "word": "张翰方尚未回应被起诉",
+      "onboard_time": 1748330241,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 159052,
@@ -5659,14 +5731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144443,
-      "num": 523567,
-      "word": "山东一村免费为适龄青年分配100平楼房",
-      "onboard_time": 1748327361,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144281,
       "num": 144281,
       "word": "谍报上不封顶官宣阵容没有程潇",
@@ -5713,6 +5777,14 @@
       "onboard_time": 1748150002,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143125,
+      "num": 143125,
+      "word": "山花烂漫时",
+      "onboard_time": 1748329821,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 143066,
@@ -5947,6 +6019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137233,
+      "num": 137233,
+      "word": "上海套内85平米的家",
+      "onboard_time": 1748327121,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137116,
       "num": 137116,
       "word": "苏醒一把摸出猎人酒店房卡",
@@ -6025,6 +6105,14 @@
       "onboard_time": 1748161701,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135056,
+      "num": 135056,
+      "word": "汪顺游泳冠军赛九宫格",
+      "onboard_time": 1748329821,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134610,
@@ -6233,14 +6321,6 @@
       "onboard_time": 1748255601,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131264,
-      "num": 131264,
-      "word": "上海套内85平米的家",
-      "onboard_time": 1748327121,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 131021,
@@ -6723,14 +6803,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 120418,
-      "num": 139281,
-      "word": "抑郁症躯体化症状的真实表现",
-      "onboard_time": 1748327842,
-      "rank": 38,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 120181,
       "num": 180136,
       "word": "清融发文告别eStar",
@@ -6875,6 +6947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115644,
+      "num": 115644,
+      "word": "折腰婆媳关系丝滑一镜到底",
+      "onboard_time": 1748328682,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115507,
       "num": 115507,
       "word": "多地气温组团冲上30摄氏度",
@@ -6931,6 +7011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114441,
+      "num": 114441,
+      "word": "48元一块的玉米挞",
+      "onboard_time": 1748330542,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114416,
       "num": 157517,
       "word": "霍建华新剧好松弛",
@@ -6979,14 +7067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113047,
-      "num": 113047,
-      "word": "凶手将女子捅死开庭前夕才道歉",
-      "onboard_time": 1748328321,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112838,
       "num": 112838,
       "word": "美元大跌原因",
@@ -7033,6 +7113,14 @@
       "onboard_time": 1748158642,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 112300,
+      "num": 112300,
+      "word": "当老师叫00后学生的名字",
+      "onboard_time": 1748329222,
+      "rank": 47,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 112295,
@@ -7275,6 +7363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106377,
+      "num": 112659,
+      "word": "汪顺夺冠后发文",
+      "onboard_time": 1748328502,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105810,
       "num": 105810,
       "word": "宋威龙i人战术喝水",
@@ -7425,6 +7521,14 @@
       "onboard_time": 1748226021,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100320,
+      "num": 688528,
+      "word": "是孙颖莎的荣光也是中国队的荣光",
+      "onboard_time": 1748330182,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 100179,
@@ -8036,7 +8140,7 @@
     },
     {
       "raw_hot": 77548,
-      "num": 542850,
+      "num": 666711,
       "word": "成毅给你刚好的甜",
       "onboard_time": 1748326522,
       "rank": 11,
@@ -9139,14 +9243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 32699,
-      "num": 112659,
-      "word": "汪顺夺冠后发文",
-      "onboard_time": 1748328502,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32665,
       "num": 34223,
       "word": "藏海复仇之路又前进一步",
@@ -9241,6 +9337,14 @@
       "onboard_time": 1748175024,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30209,
+      "num": 320758,
+      "word": "山东化工车间爆炸的原因可能是什么",
+      "onboard_time": 1748329581,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 30158,
@@ -9401,6 +9505,14 @@
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26869,
+      "num": 271856,
+      "word": "为什么孕妇要特别小心李斯特菌",
+      "onboard_time": 1748329281,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 26654,
