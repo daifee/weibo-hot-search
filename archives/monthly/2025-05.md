@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 11:59:51
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 12:32:56
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ meiko（热度：1397208）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%80%9A%E7%9F%A5%E4%B8%A5%E7%A6%81%E8%BF%9D%E8%A7%84%E9%A2%91%E7%B9%81%E8%80%83%E8%AF%95%23" target="weibo">
+教育部通知严禁违规频繁考试（热度：1378786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%BF%87%E5%8E%BB1%E4%B8%AA%E6%9C%88%E6%98%AF%E5%88%9B%E4%B8%9A%E6%9C%80%E8%89%B0%E9%9A%BE%E6%97%B6%E6%9C%9F%23" target="weibo">
 雷军说过去1个月是创业最艰难时期（热度：1376907）
 </a>
@@ -2387,12 +2393,6 @@ CP31开票（热度：1334205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E5%8C%96%E7%B2%AA%E6%B1%A0%E9%81%87%E9%9A%BE%E7%94%B7%E7%94%9F%E7%88%B6%E4%BA%B2%E5%91%BD%E8%BF%90%E5%A4%9A%E8%88%9B%23" target="weibo">
 坠化粪池遇难男生父亲命运多舛（热度：1301326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%80%9A%E7%9F%A5%E4%B8%A5%E7%A6%81%E8%BF%9D%E8%A7%84%E9%A2%91%E7%B9%81%E8%80%83%E8%AF%95%23" target="weibo">
-教育部通知严禁违规频繁考试（热度：1300364）
 </a>
 </li>
 
