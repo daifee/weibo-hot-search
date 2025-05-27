@@ -1,0 +1,410 @@
+{
+  "runTime": 1748324608422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 276431,
+        "num": 1044229,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2780095,
+        "num": 992493,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51091,
+        "num": 867990,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1057941,
+        "num": 849733,
+        "word": "王曼昱 雅诗兰黛",
+        "onboard_time": 1748320223,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831295,
+        "num": 831295,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24320,
+        "num": 759847,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 716927,
+        "num": 716927,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530732,
+        "num": 530732,
+        "word": "蔡依林发文谈时隔六年发新曲",
+        "onboard_time": 1748322262,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 491317,
+        "num": 491317,
+        "word": "女子持刀杀人后父母带其做精神鉴定",
+        "onboard_time": 1748313920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463856,
+        "num": 463856,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 847016,
+        "num": 441955,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417815,
+        "num": 417815,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34332,
+        "num": 391463,
+        "word": "放大镜看时代少年团新大片",
+        "onboard_time": 1748324062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381106,
+        "num": 381106,
+        "word": "00后抗癌博主千千离世",
+        "onboard_time": 1748321183,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366498,
+        "num": 366498,
+        "word": "刘国梁竞选国际乒联执委",
+        "onboard_time": 1748322980,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346297,
+        "num": 346297,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 318435,
+        "num": 318435,
+        "word": "刘若英回应演唱会两姐妹点歌",
+        "onboard_time": 1748319622,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128408,
+        "num": 303086,
+        "word": "金晨申敏儿同框",
+        "onboard_time": 1748324003,
+        "rank": 17,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 18709,
+        "num": 295321,
+        "word": "减脂期哪些食物可以越吃越瘦",
+        "onboard_time": 1748323823,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 55195,
+        "num": 292453,
+        "word": "律师称凶手开庭前才道歉是走形式",
+        "onboard_time": 1748322980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292383,
+        "num": 292383,
+        "word": "BLACKPINK宣布新巡演",
+        "onboard_time": 1748318422,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263274,
+        "num": 263274,
+        "word": "国产剧离婚女主早不玩吃苦这套了",
+        "onboard_time": 1748318543,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201280,
+        "num": 258748,
+        "word": "雷佳音荔枝",
+        "onboard_time": 1748322262,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257172,
+        "num": 257172,
+        "word": "网传彩票店因未先付款想占百万奖金",
+        "onboard_time": 1748314520,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234399,
+        "num": 234399,
+        "word": "王楚钦孙颖莎混双世排第二",
+        "onboard_time": 1748313621,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207879,
+        "num": 207879,
+        "word": "藏海传开始走甄嬛传的流程了吗",
+        "onboard_time": 1748324062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113258,
+        "num": 196854,
+        "word": "米卢祝王楚钦未来可期",
+        "onboard_time": 1748323583,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191947,
+        "num": 191947,
+        "word": "刘宇宁回应被网友看顺眼了",
+        "onboard_time": 1748323882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186590,
+        "num": 186590,
+        "word": "失踪一年多女童疑有新线索爷爷发声",
+        "onboard_time": 1748321362,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12207,
+        "num": 181530,
+        "word": "森林狼还有翻盘机会吗",
+        "onboard_time": 1748323823,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189795,
+        "num": 181321,
+        "word": "许昕闫安谈王楚钦雨果决赛",
+        "onboard_time": 1748323401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180757,
+        "num": 180757,
+        "word": "丁程鑫参加北电毕业答辩",
+        "onboard_time": 1748319322,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92297,
+        "num": 175962,
+        "word": "小舅子给魏劭夸成了胚胎",
+        "onboard_time": 1748323942,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172734,
+        "num": 172734,
+        "word": "张艺兴放不下甜食的一生",
+        "onboard_time": 1748323464,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117175,
+        "num": 172684,
+        "word": "这周六就是端午节了",
+        "onboard_time": 1748324121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172680,
+        "num": 172680,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27093,
+        "num": 167098,
+        "word": "孙颖莎说好好总结再接再厉",
+        "onboard_time": 1748324481,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77809,
+        "num": 163792,
+        "word": "兴业银行回应新存1000万可推名企实习",
+        "onboard_time": 1748313260,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 163448,
+        "num": 163448,
+        "word": "弹壳 32岁正是爱上早教的年纪",
+        "onboard_time": 1748324302,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157826,
+        "num": 157826,
+        "word": "斗罗大陆剧场版定档",
+        "onboard_time": 1748324361,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156542,
+        "num": 156542,
+        "word": "嘬老",
+        "onboard_time": 1748317521,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155847,
+        "num": 155847,
+        "word": "姚晨从小就是大五官",
+        "onboard_time": 1748318601,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155076,
+        "num": 155076,
+        "word": "粤A人不哭",
+        "onboard_time": 1748317941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145795,
+        "num": 145795,
+        "word": "藏海爷们要脸",
+        "onboard_time": 1748318242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145761,
+        "num": 145761,
+        "word": "花165万买了北京150平米老破大",
+        "onboard_time": 1748309181,
+        "rank": 44,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 145643,
+        "num": 145643,
+        "word": "景区回应月薪3万招帅气NPC属实",
+        "onboard_time": 1748319682,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143628,
+        "num": 143628,
+        "word": "肖战爱买冰箱贴",
+        "onboard_time": 1748314040,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136022,
+        "num": 136022,
+        "word": "孙颖莎不到半年狂揽5金",
+        "onboard_time": 1748321963,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134914,
+        "num": 134914,
+        "word": "男子中百万大奖却没付30元彩票钱",
+        "onboard_time": 1748317822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 130933,
+        "word": "冰箱贴",
+        "onboard_time": 1748321002,
+        "rank": 49,
+        "category": "旅游,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748323541755,
+  "endTime": 1748324608422,
   "band_list": [
+    {
+      "raw_hot": 2780095,
+      "num": 1049683,
+      "word": "演员张翰被起诉",
+      "onboard_time": 1748322622,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1802246,
       "num": 628122,
@@ -17,14 +25,6 @@
       "onboard_time": 1748306842,
       "rank": 1,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1543763,
-      "num": 1049683,
-      "word": "演员张翰被起诉",
-      "onboard_time": 1748322622,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1532268,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530732,
+      "num": 530732,
+      "word": "蔡依林发文谈时隔六年发新曲",
+      "onboard_time": 1748322262,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 492105,
       "num": 492105,
       "word": "贾斯汀比伯告白女网红",
@@ -267,6 +275,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 463856,
+      "num": 463856,
+      "word": "韩国将黄豆酱和酱油申遗",
+      "onboard_time": 1748323282,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 441640,
       "num": 519842,
       "word": "吴京发布翻车视频",
@@ -307,14 +323,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 401618,
-      "num": 525291,
-      "word": "蔡依林发文谈时隔六年发新曲",
-      "onboard_time": 1748322262,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 396971,
       "num": 396971,
       "word": "藏海传制片说不因是顶流选肖战",
@@ -353,6 +361,14 @@
       "onboard_time": 1748272223,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366498,
+      "num": 366498,
+      "word": "刘国梁竞选国际乒联执委",
+      "onboard_time": 1748322980,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 358156,
@@ -499,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 239615,
-      "num": 228995,
-      "word": "刘国梁竞选国际乒联执委",
-      "onboard_time": 1748322980,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
@@ -529,14 +537,6 @@
       "onboard_time": 1748317822,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228909,
-      "num": 228909,
-      "word": "韩国将黄豆酱和酱油申遗",
-      "onboard_time": 1748323282,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 227829,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207879,
+      "num": 207879,
+      "word": "藏海传开始走甄嬛传的流程了吗",
+      "onboard_time": 1748324062,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207183,
       "num": 207183,
       "word": "香港人涌入内地从买菜到看病",
@@ -601,6 +609,14 @@
       "onboard_time": 1748321002,
       "rank": 38,
       "category": "旅游,休闲"
+    },
+    {
+      "raw_hot": 191947,
+      "num": 191947,
+      "word": "刘宇宁回应被网友看顺眼了",
+      "onboard_time": 1748323882,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 191938,
@@ -641,6 +657,14 @@
       "onboard_time": 1748317221,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189795,
+      "num": 181321,
+      "word": "许昕闫安谈王楚钦雨果决赛",
+      "onboard_time": 1748323401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 187378,
@@ -731,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172734,
+      "num": 172734,
+      "word": "张艺兴放不下甜食的一生",
+      "onboard_time": 1748323464,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172173,
       "num": 277028,
       "word": "孙颖莎连续150周第一",
@@ -771,20 +803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168475,
-      "num": 168475,
-      "word": "张艺兴放不下甜食的一生",
-      "onboard_time": 1748323464,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165666,
       "num": 165666,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
       "onboard_time": 1748259623,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163448,
+      "num": 163448,
+      "word": "弹壳 32岁正是爱上早教的年纪",
+      "onboard_time": 1748324302,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 162842,
@@ -817,6 +849,14 @@
       "onboard_time": 1748320462,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157826,
+      "num": 157826,
+      "word": "斗罗大陆剧场版定档",
+      "onboard_time": 1748324361,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 152555,
@@ -857,14 +897,6 @@
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145347,
-      "num": 145347,
-      "word": "许昕闫安谈王楚钦雨果决赛",
-      "onboard_time": 1748323401,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 142993,
@@ -1003,6 +1035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128408,
+      "num": 303086,
+      "word": "金晨申敏儿同框",
+      "onboard_time": 1748324003,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "绽放的许开心定档",
@@ -1099,6 +1139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117175,
+      "num": 172684,
+      "word": "这周六就是端午节了",
+      "onboard_time": 1748324121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116207,
       "num": 229003,
       "word": "为1万报酬男子用电动车运47斤冰毒",
@@ -1137,6 +1185,14 @@
       "onboard_time": 1748277319,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113258,
+      "num": 196854,
+      "word": "米卢祝王楚钦未来可期",
+      "onboard_time": 1748323583,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 112838,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1748273302,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92297,
+      "num": 175962,
+      "word": "小舅子给魏劭夸成了胚胎",
+      "onboard_time": 1748323942,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 90991,
@@ -1539,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55195,
+      "num": 344440,
+      "word": "律师称凶手开庭前才道歉是走形式",
+      "onboard_time": 1748322980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55102,
       "num": 55102,
       "word": "孙颖莎11900分世排第一",
@@ -1675,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34332,
+      "num": 391463,
+      "word": "放大镜看时代少年团新大片",
+      "onboard_time": 1748324062,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29693,
       "num": 29693,
       "word": "被蟑螂爬过的食物千万别吃",
@@ -1699,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27093,
+      "num": 167098,
+      "word": "孙颖莎说好好总结再接再厉",
+      "onboard_time": 1748324481,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27017,
       "num": 27017,
       "word": "你到家了稚奴",
@@ -1713,14 +1801,6 @@
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26822,
-      "num": 344440,
-      "word": "律师称凶手开庭前才道歉是走形式",
-      "onboard_time": 1748322980,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26403,
@@ -1779,6 +1859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18709,
+      "num": 295321,
+      "word": "减脂期哪些食物可以越吃越瘦",
+      "onboard_time": 1748323823,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 17287,
       "num": 22058,
       "word": "第五人格微博六百万粉丝",
@@ -1825,6 +1913,14 @@
       "onboard_time": 1748287034,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12207,
+      "num": 181530,
+      "word": "森林狼还有翻盘机会吗",
+      "onboard_time": 1748323823,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10328,

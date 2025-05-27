@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748323541755,
+  "endTime": 1748324608422,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -41,6 +41,14 @@
       "onboard_time": 1748100024,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2780095,
+      "num": 1049683,
+      "word": "演员张翰被起诉",
+      "onboard_time": 1748322622,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2597174,
@@ -177,14 +185,6 @@
       "onboard_time": 1748179224,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1543763,
-      "num": 1049683,
-      "word": "演员张翰被起诉",
-      "onboard_time": 1748322622,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1532358,
@@ -1283,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530732,
+      "num": 530732,
+      "word": "蔡依林发文谈时隔六年发新曲",
+      "onboard_time": 1748322262,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 528590,
       "num": 133392,
       "word": "孙颖莎比了个1",
@@ -1489,6 +1497,14 @@
       "onboard_time": 1748309181,
       "rank": 26,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 463856,
+      "num": 463856,
+      "word": "韩国将黄豆酱和酱油申遗",
+      "onboard_time": 1748323282,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 463851,
@@ -1731,14 +1747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 401618,
-      "num": 525291,
-      "word": "蔡依林发文谈时隔六年发新曲",
-      "onboard_time": 1748322262,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 398074,
       "num": 398074,
       "word": "一觉醒来还在为世乒赛4冠骄傲",
@@ -1920,6 +1928,14 @@
       "word": "郑钦文2比0帕芙柳琴科娃",
       "onboard_time": 1748179527,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 366498,
+      "num": 366498,
+      "word": "刘国梁竞选国际乒联执委",
+      "onboard_time": 1748322980,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -2859,14 +2875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239615,
-      "num": 228995,
-      "word": "刘国梁竞选国际乒联执委",
-      "onboard_time": 1748322980,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
@@ -2961,14 +2969,6 @@
       "onboard_time": 1748180070,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 228909,
-      "num": 228909,
-      "word": "韩国将黄豆酱和酱油申遗",
-      "onboard_time": 1748323282,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 227957,
@@ -3225,6 +3225,14 @@
       "onboard_time": 1748175083,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207879,
+      "num": 207879,
+      "word": "藏海传开始走甄嬛传的流程了吗",
+      "onboard_time": 1748324062,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 207644,
@@ -3683,6 +3691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191947,
+      "num": 191947,
+      "word": "刘宇宁回应被网友看顺眼了",
+      "onboard_time": 1748323882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191938,
       "num": 209166,
       "word": "陈芋汐夺冠后说非常感谢新搭档",
@@ -3793,6 +3809,14 @@
       "onboard_time": 1748241921,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189795,
+      "num": 181321,
+      "word": "许昕闫安谈王楚钦雨果决赛",
+      "onboard_time": 1748323401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 189754,
@@ -4435,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172734,
+      "num": 172734,
+      "word": "张艺兴放不下甜食的一生",
+      "onboard_time": 1748323464,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172517,
       "num": 172517,
       "word": "Irene涩琪回归MV",
@@ -4601,14 +4633,6 @@
       "onboard_time": 1748230101,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168475,
-      "num": 168475,
-      "word": "张艺兴放不下甜食的一生",
-      "onboard_time": 1748323464,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 168156,
@@ -4819,6 +4843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 163448,
+      "num": 163448,
+      "word": "弹壳 32岁正是爱上早教的年纪",
+      "onboard_time": 1748324302,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163342,
       "num": 230096,
       "word": "宋威龙包上恩还原大婚名场面",
@@ -5009,6 +5041,14 @@
       "onboard_time": 1748254401,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157826,
+      "num": 157826,
+      "word": "斗罗大陆剧场版定档",
+      "onboard_time": 1748324361,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 157812,
@@ -5441,14 +5481,6 @@
       "onboard_time": 1748091263,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145347,
-      "num": 145347,
-      "word": "许昕闫安谈王楚钦雨果决赛",
-      "onboard_time": 1748323401,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 145342,
@@ -6195,6 +6227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128408,
+      "num": 303086,
+      "word": "金晨申敏儿同框",
+      "onboard_time": 1748324003,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 127856,
       "num": 127856,
       "word": "周深搭档张靓颖",
@@ -6579,6 +6619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117175,
+      "num": 172684,
+      "word": "这周六就是端午节了",
+      "onboard_time": 1748324121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117113,
       "num": 117113,
       "word": "我家腰儿仿佛刚开播的样子",
@@ -6705,6 +6753,14 @@
       "onboard_time": 1748107399,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 113258,
+      "num": 196854,
+      "word": "米卢祝王楚钦未来可期",
+      "onboard_time": 1748323583,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 113232,
@@ -7345,6 +7401,14 @@
       "onboard_time": 1748137281,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92297,
+      "num": 175962,
+      "word": "小舅子给魏劭夸成了胚胎",
+      "onboard_time": 1748323942,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 92263,
@@ -8203,6 +8267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55195,
+      "num": 344440,
+      "word": "律师称凶手开庭前才道歉是走形式",
+      "onboard_time": 1748322980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55102,
       "num": 55102,
       "word": "孙颖莎11900分世排第一",
@@ -8763,6 +8835,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 34332,
+      "num": 391463,
+      "word": "放大镜看时代少年团新大片",
+      "onboard_time": 1748324062,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33647,
       "num": 1754429,
       "word": "每个中国人传唱的精神密码",
@@ -9011,6 +9091,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 27093,
+      "num": 167098,
+      "word": "孙颖莎说好好总结再接再厉",
+      "onboard_time": 1748324481,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27017,
       "num": 27017,
       "word": "你到家了稚奴",
@@ -9025,14 +9113,6 @@
       "onboard_time": 1748315480,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26822,
-      "num": 344440,
-      "word": "律师称凶手开庭前才道歉是走形式",
-      "onboard_time": 1748322980,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26654,
@@ -9379,6 +9459,14 @@
       "category": "军事,民生新闻"
     },
     {
+      "raw_hot": 18709,
+      "num": 295321,
+      "word": "减脂期哪些食物可以越吃越瘦",
+      "onboard_time": 1748323823,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 17818,
       "num": 258372,
       "word": "老人过斑马线跌倒幸遇交警搀扶",
@@ -9601,6 +9689,14 @@
       "onboard_time": 1748125217,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12207,
+      "num": 181530,
+      "word": "森林狼还有翻盘机会吗",
+      "onboard_time": 1748323823,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 12021,
