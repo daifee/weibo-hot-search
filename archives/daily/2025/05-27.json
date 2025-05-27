@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748324608422,
+  "endTime": 1748327789066,
   "band_list": [
     {
       "raw_hot": 2780095,
@@ -51,6 +51,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1323941,
+      "num": 546456,
+      "word": "海恩贤圭分手",
+      "onboard_time": 1748326882,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1256342,
+      "num": 944887,
+      "word": "韩国将黄豆酱和酱油申遗",
+      "onboard_time": 1748323282,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1220000,
       "num": 932009,
       "word": "弯刀裤",
@@ -65,6 +81,14 @@
       "onboard_time": 1748307740,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 924641,
+      "num": 924641,
+      "word": "高密爆炸",
+      "onboard_time": 1748327121,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 921312,
@@ -147,8 +171,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 665383,
+      "num": 665383,
+      "word": "刘若英道歉",
+      "onboard_time": 1748326643,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 640091,
-      "num": 475367,
+      "num": 516958,
       "word": "杨幂穿弯刀裤",
       "onboard_time": 1748315421,
       "rank": 36,
@@ -211,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551972,
+      "num": 551972,
+      "word": "山东一化工车间发生爆炸",
+      "onboard_time": 1748326942,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530732,
       "num": 530732,
       "word": "蔡依林发文谈时隔六年发新曲",
       "onboard_time": 1748322262,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 515834,
+      "num": 515834,
+      "word": "刘国梁竞选国际乒联执委",
+      "onboard_time": 1748322980,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 492105,
@@ -275,12 +323,12 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 463856,
-      "num": 463856,
-      "word": "韩国将黄豆酱和酱油申遗",
-      "onboard_time": 1748323282,
+      "raw_hot": 467508,
+      "num": 467508,
+      "word": "月薪三万就是最大的意义",
+      "onboard_time": 1748325262,
       "rank": 31,
-      "category": "海外新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 441640,
@@ -299,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 423595,
+      "num": 499942,
+      "word": "汪海林吐槽群体造假刷数据",
+      "onboard_time": 1748324962,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423207,
       "num": 423207,
       "word": "K总为看藏海传停播一天",
@@ -313,6 +369,14 @@
       "onboard_time": 1748318601,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414079,
+      "num": 414079,
+      "word": "女子早产生双胞胎后感染肺炎去世",
+      "onboard_time": 1748325804,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408420,
@@ -361,14 +425,6 @@
       "onboard_time": 1748272223,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366498,
-      "num": 366498,
-      "word": "刘国梁竞选国际乒联执委",
-      "onboard_time": 1748322980,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 358156,
@@ -427,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318047,
+      "num": 483993,
+      "word": "藏海传开始走甄嬛传的流程了吗",
+      "onboard_time": 1748324062,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313923,
       "num": 313923,
       "word": "知网一论文下载95万次0次引用遭质疑",
@@ -435,12 +499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304561,
+      "num": 482120,
+      "word": "宁静主动示好欧阳娣娣",
+      "onboard_time": 1748327062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284170,
       "num": 284170,
       "word": "光遇",
       "onboard_time": 1748320161,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281713,
+      "num": 281713,
+      "word": "崔政宇去世",
+      "onboard_time": 1748327302,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 280056,
@@ -460,11 +540,19 @@
     },
     {
       "raw_hot": 275000,
-      "num": 275000,
+      "num": 467577,
       "word": "雷佳音荔枝",
       "onboard_time": 1748322262,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268736,
+      "num": 268736,
+      "word": "王曼昱最想说的仍是感谢",
+      "onboard_time": 1748326342,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 261055,
@@ -523,6 +611,22 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 237677,
+      "num": 237677,
+      "word": "欧阳娜娜张子枫教毛不易闲鱼小刀",
+      "onboard_time": 1748327062,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236725,
+      "num": 236725,
+      "word": "刘亦菲做完美容后探望好友",
+      "onboard_time": 1748324721,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233493,
       "num": 233493,
       "word": "南京地铁回应同站进出未乘车也收费",
@@ -569,14 +673,6 @@
       "onboard_time": 1748312720,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207879,
-      "num": 207879,
-      "word": "藏海传开始走甄嬛传的流程了吗",
-      "onboard_time": 1748324062,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 207183,
@@ -819,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163343,
+      "num": 239644,
+      "word": "12辆车15秒让出救命通道",
+      "onboard_time": 1748326762,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 162842,
       "num": 162842,
       "word": "宋威龙好帅",
@@ -921,6 +1025,14 @@
       "onboard_time": 1748311281,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140340,
+      "num": 140340,
+      "word": "考研面试三次被拒后终于上岸了",
+      "onboard_time": 1748325080,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 139678,
@@ -1027,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129073,
+      "num": 559265,
+      "word": "王楚钦孙颖莎多哈混双冠军之路",
+      "onboard_time": 1748326942,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128638,
       "num": 128638,
       "word": "蔡依林新专PLEASURE上线倒计时",
@@ -1051,12 +1171,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127199,
+      "num": 127199,
+      "word": "小米YU7保留可拆卸按键",
+      "onboard_time": 1748327302,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127183,
       "num": 127183,
       "word": "南方本次大雨有4个特点",
       "onboard_time": 1748312059,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127149,
+      "num": 127149,
+      "word": "歌手2025",
+      "onboard_time": 1748327723,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125932,
@@ -1235,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108174,
+      "num": 490527,
+      "word": "为什么下腹部脂肪往往最后才会消失",
+      "onboard_time": 1748327481,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 105127,
       "num": 105127,
       "word": "网友日本偶遇王菲谢霆锋",
@@ -1313,6 +1457,14 @@
       "onboard_time": 1748312360,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94318,
+      "num": 257519,
+      "word": "明星歌手翻唱网络神曲你怎么看",
+      "onboard_time": 1748325622,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 93735,
@@ -1395,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88436,
+      "num": 252093,
+      "word": "魏劭 输了你赢了世界又如何",
+      "onboard_time": 1748325503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88357,
       "num": 88357,
       "word": "做藏海的狗",
@@ -1427,6 +1587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83045,
+      "num": 473142,
+      "word": "巴军方称莫迪将水资源武器化是在玩火",
+      "onboard_time": 1748326762,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79574,
       "num": 76353,
       "word": "藏海杨真附体了",
@@ -1457,6 +1625,14 @@
       "onboard_time": 1748302459,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77548,
+      "num": 542850,
+      "word": "成毅给你刚好的甜",
+      "onboard_time": 1748326522,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 75237,
@@ -1531,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62979,
+      "num": 478270,
+      "word": "女子顺产双胞胎女儿后感染肺炎去世",
+      "onboard_time": 1748327361,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62806,
       "num": 62806,
       "word": "鹿晗勋章唱给追梦英雄",
@@ -1571,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60163,
+      "num": 516090,
+      "word": "卫健部门调查口腔医生做隆胸手术",
+      "onboard_time": 1748326223,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59941,
       "num": 1038097,
       "word": "中国特色现代企业制度说明书来了",
@@ -1595,11 +1787,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57830,
+      "num": 516351,
+      "word": "肠道真的有胖子菌和瘦子菌吗",
+      "onboard_time": 1748325443,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57810,
       "num": 275996,
       "word": "600公里人象寻亲破防了",
       "onboard_time": 1748313500,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57324,
+      "num": 523567,
+      "word": "山东一村免费为适龄青年分配100平楼房",
+      "onboard_time": 1748327361,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1748,7 +1956,7 @@
     },
     {
       "raw_hot": 34332,
-      "num": 391463,
+      "num": 534209,
       "word": "放大镜看时代少年团新大片",
       "onboard_time": 1748324062,
       "rank": 12,
@@ -1761,6 +1969,14 @@
       "onboard_time": 1748288834,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29320,
+      "num": 486965,
+      "word": "孙颖莎说好好总结再接再厉",
+      "onboard_time": 1748324481,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 29204,
@@ -1779,12 +1995,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27093,
-      "num": 167098,
-      "word": "孙颖莎说好好总结再接再厉",
-      "onboard_time": 1748324481,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 27792,
+      "num": 516483,
+      "word": "美白不能只盯着黑色素",
+      "onboard_time": 1748326882,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 27017,
@@ -1920,6 +2136,14 @@
       "word": "森林狼还有翻盘机会吗",
       "onboard_time": 1748323823,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11657,
+      "num": 475411,
+      "word": "雷霆森林狼会打天王山吗",
+      "onboard_time": 1748326342,
+      "rank": 28,
       "category": "体育"
     },
     {

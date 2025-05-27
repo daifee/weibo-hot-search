@@ -1,0 +1,410 @@
+{
+  "runTime": 1748327789066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 220199,
+        "num": 1045556,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2772251,
+        "num": 1034105,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54346,
+        "num": 958467,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1256342,
+        "num": 944887,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 924641,
+        "num": 924641,
+        "word": "高密爆炸",
+        "onboard_time": 1748327121,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22271,
+        "num": 676902,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 665383,
+        "num": 665383,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 578165,
+        "num": 578165,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129073,
+        "num": 559265,
+        "word": "王楚钦孙颖莎多哈混双冠军之路",
+        "onboard_time": 1748326942,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551972,
+        "num": 551972,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323941,
+        "num": 546456,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77548,
+        "num": 542850,
+        "word": "成毅给你刚好的甜",
+        "onboard_time": 1748326522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26462,
+        "num": 534209,
+        "word": "放大镜看时代少年团新大片",
+        "onboard_time": 1748324062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575698,
+        "num": 530136,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57324,
+        "num": 523567,
+        "word": "山东一村免费为适龄青年分配100平楼房",
+        "onboard_time": 1748327361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516958,
+        "num": 516958,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 497427,
+        "num": 516861,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27792,
+        "num": 516483,
+        "word": "美白不能只盯着黑色素",
+        "onboard_time": 1748326882,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57830,
+        "num": 516351,
+        "word": "肠道真的有胖子菌和瘦子菌吗",
+        "onboard_time": 1748325443,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60163,
+        "num": 516090,
+        "word": "卫健部门调查口腔医生做隆胸手术",
+        "onboard_time": 1748326223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515834,
+        "num": 515834,
+        "word": "刘国梁竞选国际乒联执委",
+        "onboard_time": 1748322980,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423595,
+        "num": 499942,
+        "word": "汪海林吐槽群体造假刷数据",
+        "onboard_time": 1748324962,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493296,
+        "num": 493296,
+        "word": "蔡依林发文谈时隔六年发新曲",
+        "onboard_time": 1748322262,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108174,
+        "num": 490527,
+        "word": "为什么下腹部脂肪往往最后才会消失",
+        "onboard_time": 1748327481,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 29320,
+        "num": 486965,
+        "word": "孙颖莎说好好总结再接再厉",
+        "onboard_time": 1748324481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318047,
+        "num": 483993,
+        "word": "藏海传开始走甄嬛传的流程了吗",
+        "onboard_time": 1748324062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304561,
+        "num": 482120,
+        "word": "宁静主动示好欧阳娣娣",
+        "onboard_time": 1748327062,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62979,
+        "num": 478270,
+        "word": "女子顺产双胞胎女儿后感染肺炎去世",
+        "onboard_time": 1748327361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11657,
+        "num": 475411,
+        "word": "雷霆森林狼会打天王山吗",
+        "onboard_time": 1748326342,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83045,
+        "num": 473142,
+        "word": "巴军方称莫迪将水资源武器化是在玩火",
+        "onboard_time": 1748326762,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202494,
+        "num": 467577,
+        "word": "雷佳音荔枝",
+        "onboard_time": 1748322262,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467508,
+        "num": 467508,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414079,
+        "num": 414079,
+        "word": "女子早产生双胞胎后感染肺炎去世",
+        "onboard_time": 1748325804,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300181,
+        "num": 300181,
+        "word": "00后抗癌博主千千离世",
+        "onboard_time": 1748321183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281713,
+        "num": 281713,
+        "word": "崔政宇去世",
+        "onboard_time": 1748327302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268736,
+        "num": 268736,
+        "word": "王曼昱最想说的仍是感谢",
+        "onboard_time": 1748326342,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459001,
+        "num": 265086,
+        "word": "王曼昱 雅诗兰黛",
+        "onboard_time": 1748320223,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94318,
+        "num": 257519,
+        "word": "明星歌手翻唱网络神曲你怎么看",
+        "onboard_time": 1748325622,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88436,
+        "num": 252093,
+        "word": "魏劭 输了你赢了世界又如何",
+        "onboard_time": 1748325503,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163343,
+        "num": 239644,
+        "word": "12辆车15秒让出救命通道",
+        "onboard_time": 1748326762,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 237677,
+        "num": 237677,
+        "word": "欧阳娜娜张子枫教毛不易闲鱼小刀",
+        "onboard_time": 1748327062,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237229,
+        "num": 237229,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236725,
+        "num": 236725,
+        "word": "刘亦菲做完美容后探望好友",
+        "onboard_time": 1748324721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174593,
+        "num": 174593,
+        "word": "冰箱贴",
+        "onboard_time": 1748321002,
+        "rank": 43,
+        "category": "旅游,休闲"
+      },
+      {
+        "raw_hot": 154355,
+        "num": 154355,
+        "word": "王楚钦孙颖莎混双世排第二",
+        "onboard_time": 1748313621,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140340,
+        "num": 140340,
+        "word": "考研面试三次被拒后终于上岸了",
+        "onboard_time": 1748325080,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137194,
+        "num": 137194,
+        "word": "刘若英回应演唱会两姐妹点歌",
+        "onboard_time": 1748319622,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127199,
+        "num": 127199,
+        "word": "小米YU7保留可拆卸按键",
+        "onboard_time": 1748327302,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "歌手2025",
+        "onboard_time": 1748327723,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124827,
+        "num": 124827,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
