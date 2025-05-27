@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748378523077,
+  "endTime": 1748381092524,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -11763,6 +11763,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 18602,
+      "num": 18602,
+      "word": "藏海传城网登顶",
+      "onboard_time": 1748379313,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18590,
+      "num": 18590,
+      "word": "特朗普考虑撤回哈佛30亿美元拨款",
+      "onboard_time": 1748378294,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17818,
       "num": 258372,
       "word": "老人过斑马线跌倒幸遇交警搀扶",
@@ -11921,6 +11937,14 @@
       "onboard_time": 1748354784,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15003,
+      "num": 15505,
+      "word": "2025文化强国建设高峰论坛",
+      "onboard_time": 1748378415,
+      "rank": 39,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 14965,
@@ -12091,28 +12115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12078,
-      "num": 15505,
-      "word": "2025文化强国建设高峰论坛",
-      "onboard_time": 1748378415,
-      "rank": 39,
-      "category": "国内时政,民生新闻"
-    },
-    {
       "raw_hot": 12021,
       "num": 245049,
       "word": "女生跑步必看的10句话",
       "onboard_time": 1748269283,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11837,
-      "num": 15606,
-      "word": "特朗普考虑撤回哈佛30亿美元拨款",
-      "onboard_time": 1748378294,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11835,
