@@ -1,0 +1,410 @@
+{
+  "runTime": 1748355958177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 39359,
+        "num": 1006297,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1413655,
+        "num": 999133,
+        "word": "曹氏鸭脖一门店碗底印你像猪一样能吃",
+        "onboard_time": 1748352443,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37267,
+        "num": 969555,
+        "word": "夏收跑出加速度",
+        "onboard_time": 1748352503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964245,
+        "num": 964245,
+        "word": "梁乡重伤不治而亡",
+        "onboard_time": 1748353044,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 961288,
+        "num": 961288,
+        "word": "小乔愿意为魏劭生孩子",
+        "onboard_time": 1748350162,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857958,
+        "num": 857958,
+        "word": "山东一化工厂爆炸5人死亡6人失联",
+        "onboard_time": 1748351243,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 692466,
+        "num": 692466,
+        "word": "赵秉文 面具人",
+        "onboard_time": 1748350942,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664441,
+        "num": 664441,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559225,
+        "num": 559225,
+        "word": "朴槿惠力挺韩国总统候选人金文洙",
+        "onboard_time": 1748352264,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421030,
+        "num": 421030,
+        "word": "月薪3万NPC岗位超百人报名只招1人",
+        "onboard_time": 1748353342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1134288,
+        "num": 420765,
+        "word": "内娱最权威的四张撕拉片",
+        "onboard_time": 1748346981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006366,
+        "num": 414566,
+        "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+        "onboard_time": 1748346380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540014,
+        "num": 409902,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456440,
+        "num": 406573,
+        "word": "杨凯之死在了充满希望那一天",
+        "onboard_time": 1748347341,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452866,
+        "num": 404216,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401088,
+        "num": 401088,
+        "word": "肖战腹肌",
+        "onboard_time": 1748346620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324527,
+        "num": 324527,
+        "word": "中国未能获得2029年世乒赛举办权",
+        "onboard_time": 1748354662,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42152,
+        "num": 323894,
+        "word": "豪配全配齐东风纳米06掀桌子",
+        "onboard_time": 1748353342,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172456,
+        "num": 323829,
+        "word": "独居阿婆被老闺蜜骗光273万养老钱",
+        "onboard_time": 1748353884,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 323804,
+        "word": "化工车间爆炸对附近居民会有什么影响",
+        "onboard_time": 1748354784,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 323802,
+        "num": 323802,
+        "word": "百岁山 直角肩",
+        "onboard_time": 1748345719,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 618568,
+        "num": 321545,
+        "word": "张继科希望孙颖莎奥运会继续保持势头",
+        "onboard_time": 1748351661,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343714,
+        "num": 320459,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314351,
+        "num": 314351,
+        "word": "哈萨克斯坦举办2027年世乒赛",
+        "onboard_time": 1748354183,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301066,
+        "num": 301066,
+        "word": "爸爸工亡胚胎移植子女领抚恤金遭拒",
+        "onboard_time": 1748346801,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279190,
+        "num": 279190,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1748344581,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259028,
+        "num": 259028,
+        "word": "宁静误会朱丹",
+        "onboard_time": 1748352083,
+        "rank": 26,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 247558,
+        "num": 255666,
+        "word": "欧阳娜娜在闲鱼讲价被拒绝",
+        "onboard_time": 1748347760,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227836,
+        "num": 255367,
+        "word": "藏海被人捅了",
+        "onboard_time": 1748351661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15048,
+        "num": 255262,
+        "word": "大学生口中吃顿好是什么意思",
+        "onboard_time": 1748354784,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255258,
+        "num": 255258,
+        "word": "网红儿童厨具能轻松切开牛肉",
+        "onboard_time": 1748353102,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 251359,
+        "num": 251359,
+        "word": "官方通报山东高密一化工厂爆炸",
+        "onboard_time": 1748352322,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 243109,
+        "num": 243109,
+        "word": "端午节不调休下周只上四天班",
+        "onboard_time": 1748338400,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238112,
+        "num": 238112,
+        "word": "泡泡玛特599元联名款被炒至1.5万",
+        "onboard_time": 1748346501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218622,
+        "num": 218622,
+        "word": "吴谨言产后现身机场",
+        "onboard_time": 1748347401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205605,
+        "num": 205605,
+        "word": "王曼昱首次出席时尚活动",
+        "onboard_time": 1748343681,
+        "rank": 35,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 203948,
+        "num": 203948,
+        "word": "曹静贤个太监办什么家宴啊",
+        "onboard_time": 1748350162,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197221,
+        "num": 197221,
+        "word": "李亚鹏和妻子目前没房产",
+        "onboard_time": 1748350761,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190429,
+        "num": 190429,
+        "word": "藏海传海暗线 囚禁爱",
+        "onboard_time": 1748355443,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22498,
+        "num": 178227,
+        "word": "AI建议以旧换新的家电有哪些",
+        "onboard_time": 1748355142,
+        "rank": 39,
+        "category": "休闲,数码"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 173316,
+        "word": "警方通报17岁女生失踪月余坠江",
+        "onboard_time": 1748350582,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167238,
+        "num": 167238,
+        "word": "小米",
+        "onboard_time": 1748352264,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155104,
+        "num": 155104,
+        "word": "腰越来越细的30个小常识",
+        "onboard_time": 1748352922,
+        "rank": 42,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 151542,
+        "num": 151542,
+        "word": "浙江农村 咖啡店",
+        "onboard_time": 1748349501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150999,
+        "num": 150999,
+        "word": "卢伟冰回应YU7是否影响SU7销量",
+        "onboard_time": 1748355563,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150905,
+        "num": 150905,
+        "word": "我是姜子牙 我同意给藏海传每一集封神",
+        "onboard_time": 1748351542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148185,
+        "num": 149476,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148365,
+        "num": 148365,
+        "word": "运动员版高考加油海报太燃了",
+        "onboard_time": 1748355863,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 143072,
+        "num": 143072,
+        "word": "未来4年世乒赛举办地全部出炉",
+        "onboard_time": 1748353823,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140682,
+        "num": 140682,
+        "word": "第一次知道整容完的后遗症",
+        "onboard_time": 1748354842,
+        "rank": 49,
+        "category": "情感,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
