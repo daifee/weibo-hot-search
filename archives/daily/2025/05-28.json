@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748363576903,
+  "endTime": 1748364528862,
   "band_list": [
     {
       "raw_hot": 772396,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145304,
+      "num": 145304,
+      "word": "Deadman",
+      "onboard_time": 1748363419,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128010,
       "num": 128010,
       "word": "网传歌手2025第三期歌单",
@@ -252,11 +260,19 @@
     },
     {
       "raw_hot": 108777,
-      "num": 108777,
+      "num": 195803,
       "word": "安徽17年前丢失石狮现身私人博物馆",
       "onboard_time": 1748358982,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106898,
+      "num": 376410,
+      "word": "73岁朴槿惠罕见外出笑容灿烂",
+      "onboard_time": 1748361921,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105633,
@@ -315,8 +331,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 94955,
-      "num": 94955,
+      "raw_hot": 95252,
+      "num": 95252,
       "word": "魏大勋回应杨凯之死在了充满希望的那一天",
       "onboard_time": 1748361380,
       "rank": 41,
@@ -337,14 +353,6 @@
       "onboard_time": 1748351243,
       "rank": 43,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 93611,
-      "num": 93611,
-      "word": "Deadman",
-      "onboard_time": 1748363419,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 93176,
@@ -379,18 +387,18 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 72892,
-      "num": 376410,
-      "word": "73岁朴槿惠罕见外出笑容灿烂",
-      "onboard_time": 1748361921,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70488,
       "num": 70488,
       "word": "折腰",
       "onboard_time": 1748341161,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60722,
+      "num": 63116,
+      "word": "藏海传",
+      "onboard_time": 1748363959,
       "rank": 49,
       "category": "剧集"
     },
