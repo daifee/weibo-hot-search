@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/28 07:24:00
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/28 07:38:28
 </p>
 </blockquote>
 <p>
@@ -5865,6 +5865,12 @@ Angelababy眼睫碎钻（热度：792754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E8%BF%9F%E5%88%B01%E5%88%86%E9%92%9F%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%95%99%E5%AD%A6%E4%BA%8B%E6%95%85%23" target="weibo">
+高校教师迟到1分钟被认定教学事故（热度：782337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%B4%81%E4%BB%A5%E5%89%8D%E6%98%AF%E9%82%93%E8%B6%85%E4%BC%B4%E8%88%9E%23" target="weibo">
 徐梦洁以前是邓超伴舞（热度：781867）
 </a>
@@ -6005,12 +6011,6 @@ Wolves对战ZETA（热度：775611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%20%E5%90%B4%E7%A3%8A%23" target="weibo">
 剑来 吴磊（热度：770991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%BA%AB%E4%BA%A1%E8%8E%B756%E4%B8%87%E8%B5%94%E5%81%BF%E5%A7%91%E7%88%B6%E5%96%8A%E8%AF%9D%E5%AD%A9%E5%AD%90%E5%9B%9E%E5%AE%B6%23" target="weibo">
-父亲身亡获56万赔偿姑父喊话孩子回家（热度：770885）
 </a>
 </li>
 

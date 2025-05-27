@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748388240166,
+  "endTime": 1748389108571,
   "band_list": [
     {
       "raw_hot": 986087,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 758164,
-      "num": 758164,
+      "raw_hot": 782337,
+      "num": 782337,
       "word": "高校教师迟到1分钟被认定教学事故",
       "onboard_time": 1748358082,
       "rank": 4,
@@ -43,7 +43,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 553557,
+      "raw_hot": 555469,
       "num": 306998,
       "word": "杀害27岁女子凶手父亲抱怨有家不能回",
       "onboard_time": 1748346380,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475186,
+      "num": 475186,
+      "word": "安徽17年前丢失石狮现身私人博物馆",
+      "onboard_time": 1748358982,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450009,
       "num": 357739,
       "word": "内娱最权威的四张撕拉片",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432935,
-      "num": 432935,
-      "word": "安徽17年前丢失石狮现身私人博物馆",
-      "onboard_time": 1748358982,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 416235,
+      "num": 266240,
+      "word": "戛纳偶遇刘亦菲吃越南粉",
+      "onboard_time": 1748387058,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 399286,
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387191,
-      "num": 266240,
-      "word": "戛纳偶遇刘亦菲吃越南粉",
-      "onboard_time": 1748387058,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349259,
       "num": 349259,
       "word": "山东一化工车间爆炸震碎周边玻璃",
@@ -107,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325331,
-      "num": 325331,
+      "raw_hot": 329629,
+      "num": 329629,
       "word": "常吃4种食物更容易患糖尿病",
       "onboard_time": 1748360481,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 315538,
+      "num": 315538,
+      "word": "男子坐共享单车摔死骑车人全责",
+      "onboard_time": 1748357004,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312470,
@@ -131,7 +139,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271890,
+      "raw_hot": 287885,
       "num": 265531,
       "word": "李亚鹏和妻子目前没房产",
       "onboard_time": 1748350761,
@@ -145,14 +153,6 @@
       "onboard_time": 1748322622,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265138,
-      "num": 265138,
-      "word": "男子坐共享单车摔死骑车人全责",
-      "onboard_time": 1748357004,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 264483,
@@ -177,6 +177,14 @@
       "onboard_time": 1748352264,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200305,
+      "num": 200305,
+      "word": "剧版哈利波特三人组演员官宣",
+      "onboard_time": 1748387658,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 199500,
@@ -235,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 157489,
+      "num": 157489,
+      "word": "这颗珍珠已经吸了半个小时了",
+      "onboard_time": 1748344821,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148842,
       "num": 148842,
       "word": "鹿晗演唱会",
@@ -259,12 +275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139979,
-      "num": 139979,
-      "word": "剧版哈利波特三人组演员官宣",
+      "raw_hot": 129870,
+      "num": 129870,
+      "word": "Uzi卡莎名人堂皮肤",
       "onboard_time": 1748387658,
-      "rank": 23,
-      "category": "剧集"
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 128010,
@@ -275,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124995,
-      "num": 124995,
-      "word": "Uzi卡莎名人堂皮肤",
-      "onboard_time": 1748387658,
+      "raw_hot": 126238,
+      "num": 126238,
+      "word": "又一拨00后要成大学生了",
+      "onboard_time": 1748388919,
       "rank": 25,
-      "category": "电竞"
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 121065,
@@ -371,14 +387,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98065,
-      "num": 98065,
-      "word": "这颗珍珠已经吸了半个小时了",
-      "onboard_time": 1748344821,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97592,
       "num": 121701,
       "word": "张翰2年前已退出烧本烧股权",
@@ -387,11 +395,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95625,
+      "num": 95625,
+      "word": "金智媛上海外滩和网友比心",
+      "onboard_time": 1748387358,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95252,
       "num": 95252,
       "word": "魏大勋回应杨凯之死在了充满希望的那一天",
       "onboard_time": 1748361380,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94868,
+      "num": 216426,
+      "word": "藏海不如厕 真是厉害",
+      "onboard_time": 1748384236,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -419,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91172,
-      "num": 91172,
-      "word": "金智媛上海外滩和网友比心",
-      "onboard_time": 1748387358,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 90950,
+      "num": 96700,
+      "word": "大乔为丈夫与父亲决裂",
+      "onboard_time": 1748385496,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86120,
@@ -451,22 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79105,
-      "num": 79105,
-      "word": "大乔为丈夫与父亲决裂",
-      "onboard_time": 1748385496,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 77377,
-      "num": 216426,
-      "word": "藏海不如厕 真是厉害",
-      "onboard_time": 1748384236,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76945,
       "num": 76945,
       "word": "特朗普确认将出席G20峰会",
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70632,
+      "num": 118088,
+      "word": "孩子自信的5种表现",
+      "onboard_time": 1748387118,
+      "rank": 29,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 70488,
       "num": 70488,
       "word": "折腰",
@@ -499,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65043,
-      "num": 118088,
-      "word": "孩子自信的5种表现",
-      "onboard_time": 1748387118,
-      "rank": 29,
-      "category": "母婴育儿,民生新闻"
-    },
-    {
-      "raw_hot": 62977,
-      "num": 62977,
+      "raw_hot": 64047,
+      "num": 64047,
       "word": "特朗普说美军阅兵式将超奥运会",
       "onboard_time": 1748372353,
       "rank": 44,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 63197,
+      "num": 63197,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1748389040,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 62350,
@@ -529,6 +545,14 @@
       "onboard_time": 1748363959,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59984,
+      "num": 59984,
+      "word": "蔡依林新专辑",
+      "onboard_time": 1748389040,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 57318,
@@ -593,6 +617,14 @@
       "onboard_time": 1748343681,
       "rank": 44,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 31532,
+      "num": 260127,
+      "word": "湖南株洲交通事故家属发声",
+      "onboard_time": 1748388258,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30599,
