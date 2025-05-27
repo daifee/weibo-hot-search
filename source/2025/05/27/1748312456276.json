@@ -1,0 +1,410 @@
+{
+  "runTime": 1748312456276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 423102,
+        "num": 1067696,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1472370,
+        "num": 1022404,
+        "word": "女儿未恋爱遇害母亲泣诉人生骤断",
+        "onboard_time": 1748306842,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1711,
+        "num": 984549,
+        "word": "优质主播中国行赣出圈",
+        "onboard_time": 1748310920,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 968416,
+        "num": 968416,
+        "word": "教授称对烫碗习惯恶心",
+        "onboard_time": 1748311281,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932009,
+        "num": 932009,
+        "word": "弯刀裤",
+        "onboard_time": 1748304320,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 789913,
+        "num": 789913,
+        "word": "男童因伤退出孙继海青训被要18万",
+        "onboard_time": 1748309660,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639413,
+        "num": 639413,
+        "word": "美老板说一旦美国生产就不卖了",
+        "onboard_time": 1748307381,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 479763,
+        "num": 479763,
+        "word": "姚安娜说还好从哈佛毕业了",
+        "onboard_time": 1748271503,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328686,
+        "num": 429138,
+        "word": "吴京发布翻车视频",
+        "onboard_time": 1748307621,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140431,
+        "num": 408168,
+        "word": "双方回应男童退出孙继海青训被要18万",
+        "onboard_time": 1748311281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486057,
+        "num": 403092,
+        "word": "大乔人设",
+        "onboard_time": 1748307203,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392301,
+        "num": 392301,
+        "word": "儿童针筒玩具可轻易刺穿生肉西瓜",
+        "onboard_time": 1748304919,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 310113,
+        "num": 310113,
+        "word": "王健林已被冻结4.9亿股权",
+        "onboard_time": 1748270843,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287994,
+        "num": 287994,
+        "word": "武汉一高校教师发前妻隐私视频被解聘",
+        "onboard_time": 1748306482,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 277365,
+        "num": 277365,
+        "word": "马克龙回应专机上被妻子推搡",
+        "onboard_time": 1748273601,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245352,
+        "num": 245352,
+        "word": "贾斯汀比伯告白女网红",
+        "onboard_time": 1748262383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240961,
+        "num": 240961,
+        "word": "林更新提名白玉兰最佳男配角",
+        "onboard_time": 1748310200,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236056,
+        "num": 236056,
+        "word": "雷军恳请大家转发辟谣",
+        "onboard_time": 1748307740,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175276,
+        "num": 229896,
+        "word": "刘宇宁拍戏不看手机不拿剧本",
+        "onboard_time": 1748267603,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139275,
+        "num": 227739,
+        "word": "K总为看藏海传停播一天",
+        "onboard_time": 1748270004,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226970,
+        "num": 226970,
+        "word": "三个月瘦了35斤的面部变化",
+        "onboard_time": 1748266042,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217536,
+        "num": 217536,
+        "word": "花165万买了北京150平米老破大",
+        "onboard_time": 1748309181,
+        "rank": 21,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 182126,
+        "num": 182126,
+        "word": "折腰连续三天逆跌",
+        "onboard_time": 1748304442,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152769,
+        "num": 152769,
+        "word": "南京地铁回应同站进出未乘车也收费",
+        "onboard_time": 1748304919,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141306,
+        "num": 151261,
+        "word": "倪夏莲谈国际乒坛局势",
+        "onboard_time": 1748311821,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150576,
+        "num": 150576,
+        "word": "孙颖莎再刷新ITTF最高积分纪录",
+        "onboard_time": 1748307321,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147284,
+        "num": 147284,
+        "word": "新疆赛里木湖发现2500年前岩画群",
+        "onboard_time": 1748305402,
+        "rank": 26,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 145648,
+        "num": 145648,
+        "word": "特朗普威胁苹果时iPhone响了",
+        "onboard_time": 1748272941,
+        "rank": 27,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 145129,
+        "num": 145129,
+        "word": "东京大学将临时接收哈佛国际学生",
+        "onboard_time": 1748302280,
+        "rank": 28,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 135378,
+        "num": 135378,
+        "word": "刘若英演唱会两姐妹点歌",
+        "onboard_time": 1748275280,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529096,
+        "num": 133766,
+        "word": "记录我毁容的全过程",
+        "onboard_time": 1748310620,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140115,
+        "num": 132801,
+        "word": "体重跟肠道也有关系吗",
+        "onboard_time": 1748307740,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127183,
+        "num": 127183,
+        "word": "南方本次大雨有4个特点",
+        "onboard_time": 1748312059,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125607,
+        "num": 125607,
+        "word": "为了让老师莫名其妙全班都选了B",
+        "onboard_time": 1748309301,
+        "rank": 33,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 122099,
+        "num": 122099,
+        "word": "知情人回应女子救儿子不幸溺亡",
+        "onboard_time": 1748311940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120592,
+        "num": 120592,
+        "word": "留几手谈一个中国男人的一生",
+        "onboard_time": 1748311821,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117172,
+        "num": 117172,
+        "word": "端午假期将有一轮大范围降雨",
+        "onboard_time": 1748310559,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115269,
+        "num": 115269,
+        "word": "女子家门口遇害后母亲一夜白头",
+        "onboard_time": 1748272223,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112488,
+        "num": 112488,
+        "word": "现实中真正的漂亮",
+        "onboard_time": 1748259562,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 111831,
+        "num": 111831,
+        "word": "21岁小伙下错站两天没吃饭报警求助",
+        "onboard_time": 1748308641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111747,
+        "num": 111747,
+        "word": "印度宣称超越日本成全球第四大经济体",
+        "onboard_time": 1748303781,
+        "rank": 40,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 110529,
+        "num": 110529,
+        "word": "任天堂宣布打击Switch2黄牛",
+        "onboard_time": 1748312059,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110035,
+        "num": 110035,
+        "word": "河南省纪委回应实施全天候禁酒令",
+        "onboard_time": 1748308521,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105503,
+        "num": 105503,
+        "word": "日本民众分食米饭精确到克",
+        "onboard_time": 1748306183,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105119,
+        "num": 105119,
+        "word": "张一山生日赵丽颖送了两巴掌",
+        "onboard_time": 1748267124,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104736,
+        "num": 104736,
+        "word": "特朗普要把哈佛的30亿给职业学校",
+        "onboard_time": 1748303179,
+        "rank": 45,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 102859,
+        "num": 102859,
+        "word": "郭二娃一审被判死刑",
+        "onboard_time": 1748310739,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98869,
+        "num": 98869,
+        "word": "王楚钦夺冠路堪称热血逆袭成长史",
+        "onboard_time": 1748312059,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98022,
+        "num": 98022,
+        "word": "5元自助快餐店因一条差评火了",
+        "onboard_time": 1748258661,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96517,
+        "num": 96517,
+        "word": "熊孩子多次破解邻居家密码锁闯进门",
+        "onboard_time": 1748312360,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}

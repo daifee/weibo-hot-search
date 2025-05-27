@@ -1,10 +1,10 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748311057271,
+  "endTime": 1748312456276,
   "band_list": [
     {
       "raw_hot": 1639991,
-      "num": 1012237,
+      "num": 1022404,
       "word": "女儿未恋爱遇害母亲泣诉人生骤断",
       "onboard_time": 1748306842,
       "rank": 1,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1220000,
-      "num": 872816,
+      "num": 932009,
       "word": "弯刀裤",
       "onboard_time": 1748304320,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 968416,
+      "num": 968416,
+      "word": "教授称对烫碗习惯恶心",
+      "onboard_time": 1748311281,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 921312,
@@ -25,6 +33,14 @@
       "onboard_time": 1748273601,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 789913,
+      "num": 789913,
+      "word": "男童因伤退出孙继海青训被要18万",
+      "onboard_time": 1748309660,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 777678,
@@ -75,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529096,
+      "num": 165504,
+      "word": "记录我毁容的全过程",
+      "onboard_time": 1748310620,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492105,
       "num": 492105,
       "word": "贾斯汀比伯告白女网红",
@@ -89,6 +113,14 @@
       "onboard_time": 1748277019,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486057,
+      "num": 403092,
+      "word": "大乔人设",
+      "onboard_time": 1748307203,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 480836,
@@ -115,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423102,
+      "num": 1067696,
+      "word": "广州某科技公司遭台湾黑客攻击",
+      "onboard_time": 1748309301,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 408420,
       "num": 329483,
       "word": "武汉一高校教师发前妻隐私视频被解聘",
@@ -123,27 +163,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 396140,
-      "num": 309994,
-      "word": "男童因伤退出孙继海青训被要18万",
-      "onboard_time": 1748309660,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 392085,
       "num": 392085,
       "word": "刘宇宁拍戏不看手机不拿剧本",
       "onboard_time": 1748267603,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 389658,
-      "num": 389658,
-      "word": "大乔人设",
-      "onboard_time": 1748307203,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -163,20 +187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 339698,
-      "num": 1054351,
-      "word": "广州某科技公司遭台湾黑客攻击",
-      "onboard_time": 1748309301,
-      "rank": 0,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 331868,
       "num": 331868,
       "word": "三个月瘦了35斤的面部变化",
       "onboard_time": 1748266042,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328686,
+      "num": 429138,
+      "word": "吴京发布翻车视频",
+      "onboard_time": 1748307621,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 313923,
@@ -211,12 +235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240961,
+      "num": 240961,
+      "word": "林更新提名白玉兰最佳男配角",
+      "onboard_time": 1748310200,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
       "onboard_time": 1748302280,
       "rank": 15,
       "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 236056,
+      "num": 236056,
+      "word": "雷军恳请大家转发辟谣",
+      "onboard_time": 1748307740,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 233493,
@@ -227,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231757,
-      "num": 236184,
-      "word": "林更新提名白玉兰最佳男配角",
-      "onboard_time": 1748310200,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222954,
       "num": 222954,
       "word": "交警回应余承东疑似开车睡觉",
@@ -243,20 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214563,
-      "num": 234370,
-      "word": "吴京发布翻车视频",
-      "onboard_time": 1748307621,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197817,
-      "num": 197817,
-      "word": "雷军恳请大家转发辟谣",
-      "onboard_time": 1748307740,
-      "rank": 21,
-      "category": "互联网"
+      "raw_hot": 217536,
+      "num": 217536,
+      "word": "花165万买了北京150平米老破大",
+      "onboard_time": 1748309181,
+      "rank": 26,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 187378,
@@ -281,14 +305,6 @@
       "onboard_time": 1748304442,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180155,
-      "num": 180155,
-      "word": "花165万买了北京150平米老破大",
-      "onboard_time": 1748309181,
-      "rank": 26,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 171619,
@@ -331,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165504,
-      "num": 165504,
-      "word": "记录我毁容的全过程",
-      "onboard_time": 1748310620,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 162842,
       "num": 162842,
       "word": "宋威龙好帅",
@@ -355,11 +363,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148357,
-      "num": 148357,
+      "raw_hot": 150576,
+      "num": 150576,
       "word": "孙颖莎再刷新ITTF最高积分纪录",
       "onboard_time": 1748307321,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141306,
+      "num": 151261,
+      "word": "倪夏莲谈国际乒坛局势",
+      "onboard_time": 1748311821,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140431,
+      "num": 408168,
+      "word": "双方回应男童退出孙继海青训被要18万",
+      "onboard_time": 1748311281,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -419,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127183,
+      "num": 127183,
+      "word": "南方本次大雨有4个特点",
+      "onboard_time": 1748312059,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125860,
       "num": 125860,
       "word": "女子分享孕中孕晚分娩后容貌变化",
@@ -443,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122099,
+      "num": 122099,
+      "word": "知情人回应女子救儿子不幸溺亡",
+      "onboard_time": 1748311940,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121155,
       "num": 121155,
       "word": "9.9元便宜好物可能要命",
@@ -459,12 +499,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120592,
+      "num": 120592,
+      "word": "留几手谈一个中国男人的一生",
+      "onboard_time": 1748311821,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118012,
       "num": 118012,
       "word": "三名日本黑帮成员因遛狗不拴绳被捕",
       "onboard_time": 1748280855,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117172,
+      "num": 125297,
+      "word": "端午假期将有一轮大范围降雨",
+      "onboard_time": 1748310559,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115857,
@@ -491,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114564,
-      "num": 125297,
-      "word": "端午假期将有一轮大范围降雨",
-      "onboard_time": 1748310559,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113874,
       "num": 250140,
       "word": "缅北明家犯罪集团案已进入审判环节",
@@ -521,6 +569,22 @@
       "onboard_time": 1748310739,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111831,
+      "num": 111831,
+      "word": "21岁小伙下错站两天没吃饭报警求助",
+      "onboard_time": 1748308641,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110529,
+      "num": 110529,
+      "word": "任天堂宣布打击Switch2黄牛",
+      "onboard_time": 1748312059,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 108409,
@@ -547,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100945,
-      "num": 100945,
-      "word": "21岁小伙下错站两天没吃饭报警求助",
-      "onboard_time": 1748308641,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "台湾名嘴手持孙颖莎照片哽咽发声",
@@ -571,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98869,
+      "num": 98869,
+      "word": "王楚钦夺冠路堪称热血逆袭成长史",
+      "onboard_time": 1748312059,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96682,
       "num": 96682,
       "word": "永容王爷 吓人",
       "onboard_time": 1748262442,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96517,
+      "num": 96517,
+      "word": "熊孩子多次破解邻居家密码锁闯进门",
+      "onboard_time": 1748312360,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93735,
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 7747,
-      "num": 873294,
+      "num": 984549,
       "word": "优质主播中国行赣出圈",
       "onboard_time": 1748310920,
       "rank": 2,

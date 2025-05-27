@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 09:57:37
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 10:20:56
 </p>
 </blockquote>
 <p>
@@ -4089,6 +4089,12 @@ Angelababy带着早期混血感回来了（热度：997800）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E7%A7%B0%E5%AF%B9%E7%83%AB%E7%A2%97%E4%B9%A0%E6%83%AF%E6%81%B6%E5%BF%83%23" target="weibo">
+教授称对烫碗习惯恶心（热度：968416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%8F%91%E5%8D%9A%E7%9A%84%E6%97%B6%E9%97%B4%23" target="weibo">
 辛柏青发博的时间（热度：967812）
 </a>
@@ -5589,6 +5595,12 @@ Angelababy眼睫碎钻（热度：792754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%9B%A0%E4%BC%A4%E9%80%80%E5%87%BA%E5%AD%99%E7%BB%A7%E6%B5%B7%E9%9D%92%E8%AE%AD%E8%A2%AB%E8%A6%8118%E4%B8%87%23" target="weibo">
+男童因伤退出孙继海青训被要18万（热度：789913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%96%87%E8%AE%A9%E5%A4%A7%E5%AE%B6%E5%88%AB%E6%9B%BF%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%93%8D%E5%BF%83%23" target="weibo">
 甘薇让大家别替赵丽颖操心（热度：789667）
 </a>
@@ -5999,18 +6011,6 @@ K总为看藏海传停播一天（热度：770178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%B0%8F%E8%8A%B1%E5%8E%BB%E4%B8%96%23" target="weibo">
 抗癌博主小花去世（热度：756392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E7%8E%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E5%8D%87%23" target="weibo">
-我国新冠检测阳性率快速上升（热度：756253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B%E7%A1%AC%E5%88%9A%E7%BE%8E%E6%94%BF%E5%BA%9C%23" target="weibo">
-哈佛硬刚美政府（热度：755806）
 </a>
 </li>
 
