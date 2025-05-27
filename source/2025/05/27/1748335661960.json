@@ -1,0 +1,410 @@
+{
+  "runTime": 1748335661960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 132375,
+        "num": 1021180,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1375394,
+        "num": 1005752,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46003,
+        "num": 984509,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1046200,
+        "num": 981118,
+        "word": "地下车库 氡",
+        "onboard_time": 1748331382,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 976472,
+        "num": 976472,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 851435,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 784146,
+        "num": 784146,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 758887,
+        "num": 758887,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712757,
+        "num": 712757,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 134001,
+        "num": 653659,
+        "word": "央视曝光网店海外直邮造假猫腻",
+        "onboard_time": 1748333781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653654,
+        "num": 653654,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608726,
+        "num": 608726,
+        "word": "遭家暴后坠亡9岁男孩父亲发声",
+        "onboard_time": 1748329882,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130656,
+        "num": 608490,
+        "word": "陈都灵用一加上分很灵",
+        "onboard_time": 1748333123,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376533,
+        "num": 607170,
+        "word": "刘诗诗流金岁月含金量还在上升",
+        "onboard_time": 1748331621,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67978,
+        "num": 605595,
+        "word": "扬州一清代文物合院618元起拍",
+        "onboard_time": 1748334502,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350653,
+        "num": 604200,
+        "word": "崔政宇去世",
+        "onboard_time": 1748327302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231994,
+        "num": 603356,
+        "word": "雪王在一加发布会很忙",
+        "onboard_time": 1748334861,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96982,
+        "num": 602725,
+        "word": "十万只潜江龙虾红遍大厂餐桌",
+        "onboard_time": 1748333061,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 601132,
+        "word": "男孩捡到66年前装有情书的漂流瓶",
+        "onboard_time": 1748334502,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15255,
+        "num": 599254,
+        "word": "吹风机缓解风寒的科学依据是什么",
+        "onboard_time": 1748334383,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156314,
+        "num": 598455,
+        "word": "不能错过的心动礼遇",
+        "onboard_time": 1748333061,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 235902,
+        "num": 597138,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596845,
+        "num": 596845,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589406,
+        "num": 589406,
+        "word": "央视曝光云养殖骗局",
+        "onboard_time": 1748331020,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 432453,
+        "num": 432453,
+        "word": "王安宇搞怪撕拉片",
+        "onboard_time": 1748331681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373602,
+        "num": 373602,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224971,
+        "num": 372695,
+        "word": "汪海林吐槽群体造假刷数据",
+        "onboard_time": 1748324962,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192504,
+        "num": 372374,
+        "word": "张翰工作室发声",
+        "onboard_time": 1748332462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188874,
+        "num": 370984,
+        "word": "宁静主动示好欧阳娣娣",
+        "onboard_time": 1748327062,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38625,
+        "num": 370540,
+        "word": "盐为什么不会过期",
+        "onboard_time": 1748335283,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 369619,
+        "num": 369619,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169693,
+        "num": 340830,
+        "word": "在人间憋出内伤不如创飞全场",
+        "onboard_time": 1748335462,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337811,
+        "num": 337811,
+        "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+        "onboard_time": 1748329281,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115414,
+        "num": 326238,
+        "word": "孙颖莎王楚钦夺冠名场面",
+        "onboard_time": 1748333181,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324546,
+        "num": 324546,
+        "word": "长期晚睡会发生什么",
+        "onboard_time": 1748329522,
+        "rank": 34,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 275190,
+        "word": "为啥不吃香菜变成了一个嘲讽的梗",
+        "onboard_time": 1748333842,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 228495,
+        "num": 228495,
+        "word": "应急管理部调派力量赶赴山东高密",
+        "onboard_time": 1748332942,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 224259,
+        "num": 224259,
+        "word": "凶手将女子捅死开庭前夕才道歉",
+        "onboard_time": 1748328321,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139017,
+        "num": 213631,
+        "word": "老祖宗的快乐你想象不到",
+        "onboard_time": 1748334383,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 211763,
+        "num": 211763,
+        "word": "妃子笑 不好吃",
+        "onboard_time": 1748335220,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205971,
+        "num": 205971,
+        "word": "断崖式友情",
+        "onboard_time": 1748330002,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181430,
+        "num": 181430,
+        "word": "黄金",
+        "onboard_time": 1748331141,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172020,
+        "num": 172020,
+        "word": "教育部通知严禁违规频繁考试",
+        "onboard_time": 1748313980,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "多方回应山东高密一化工厂爆炸",
+        "onboard_time": 1748331382,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160675,
+        "num": 160675,
+        "word": "杨幂穿弯刀裤",
+        "onboard_time": 1748315421,
+        "rank": 44,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 160488,
+        "num": 160488,
+        "word": "老人舍不得拆女儿送的钱花发霉",
+        "onboard_time": 1748335101,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154651,
+        "num": 154651,
+        "word": "闫安说孙颖莎王楚钦复刻杯有了",
+        "onboard_time": 1748331202,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143111,
+        "num": 143111,
+        "word": "蔡依林发文谈时隔六年发新曲",
+        "onboard_time": 1748322262,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127003,
+        "num": 127003,
+        "word": "女子早产生双胞胎后感染肺炎去世",
+        "onboard_time": 1748325804,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 125755,
+        "num": 125755,
+        "word": "田园脆鸡堡 变了",
+        "onboard_time": 1748335643,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
