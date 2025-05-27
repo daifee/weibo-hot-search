@@ -1,0 +1,410 @@
+{
+  "runTime": 1748384691283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 345029,
+        "num": 415204,
+        "word": "致多人上吐下泻甜品商家已贴封条",
+        "onboard_time": 1748358622,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267165,
+        "num": 267165,
+        "word": "高校教师迟到1分钟被认定教学事故",
+        "onboard_time": 1748358082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13861,
+        "num": 167527,
+        "word": "夏收跑出加速度",
+        "onboard_time": 1748352503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154894,
+        "num": 154894,
+        "word": "中国未能获得2029年世乒赛举办权",
+        "onboard_time": 1748354662,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153243,
+        "num": 153243,
+        "word": "安徽17年前丢失石狮现身私人博物馆",
+        "onboard_time": 1748358982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150084,
+        "num": 150084,
+        "word": "73岁朴槿惠罕见外出笑容灿烂",
+        "onboard_time": 1748361921,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128587,
+        "num": 128587,
+        "word": "常吃4种食物更容易患糖尿病",
+        "onboard_time": 1748360481,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106003,
+        "num": 106003,
+        "word": "中戏院长称易烊千玺刻苦有敬畏心",
+        "onboard_time": 1748360002,
+        "rank": 7,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 104885,
+        "num": 104885,
+        "word": "欧阳娜娜在闲鱼讲价被拒绝",
+        "onboard_time": 1748347760,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52636,
+        "num": 102587,
+        "word": "高考10天倒计时",
+        "onboard_time": 1748359703,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263253,
+        "num": 102382,
+        "word": "杀害27岁女子凶手父亲抱怨有家不能回",
+        "onboard_time": 1748346380,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102172,
+        "num": 102172,
+        "word": "武汉一网红大桥桥下被指圈起来收费",
+        "onboard_time": 1748359521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99131,
+        "num": 99131,
+        "word": "蛮蛮一劭这下是真圆房了",
+        "onboard_time": 1748360242,
+        "rank": 12,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 94195,
+        "num": 94195,
+        "word": "一中国商人在菲律宾遭枪杀",
+        "onboard_time": 1748361561,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93319,
+        "num": 93319,
+        "word": "曹氏鸭脖一门店碗底印你像猪一样能吃",
+        "onboard_time": 1748352443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92330,
+        "num": 92330,
+        "word": "YG新女团首位成员EVELLI公开",
+        "onboard_time": 1748361140,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85362,
+        "num": 85362,
+        "word": "朴槿惠力挺韩国总统候选人金文洙",
+        "onboard_time": 1748352264,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81887,
+        "num": 81887,
+        "word": "腓腓快要出生了",
+        "onboard_time": 1748358622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72120,
+        "num": 72120,
+        "word": "我是姜子牙 我同意给藏海传每一集封神",
+        "onboard_time": 1748351542,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68046,
+        "num": 68046,
+        "word": "男子坐共享单车摔死骑车人全责",
+        "onboard_time": 1748357004,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67563,
+        "num": 67563,
+        "word": "网红儿童厨具能轻松切开牛肉",
+        "onboard_time": 1748353102,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62720,
+        "num": 62720,
+        "word": "体育局回应男子滑翔伞被吸至8千米高空",
+        "onboard_time": 1748361201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59658,
+        "num": 59658,
+        "word": "17岁女生失踪47天系跳桥坠江",
+        "onboard_time": 1748365338,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55915,
+        "num": 55915,
+        "word": "藏海传城网登顶",
+        "onboard_time": 1748379313,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48914,
+        "num": 48914,
+        "word": "梁乡重伤不治而亡",
+        "onboard_time": 1748353044,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48503,
+        "num": 48503,
+        "word": "月薪3万NPC岗位超百人报名只招1人",
+        "onboard_time": 1748353342,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48233,
+        "num": 48233,
+        "word": "湖南株洲一交通事故致1死1伤",
+        "onboard_time": 1748360120,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42765,
+        "num": 42765,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38365,
+        "num": 38365,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33798,
+        "num": 38333,
+        "word": "特朗普又对哈佛出招",
+        "onboard_time": 1748366597,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38327,
+        "num": 38327,
+        "word": "藏海传你真的是配享太庙",
+        "onboard_time": 1748358442,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37153,
+        "num": 37153,
+        "word": "庄二不是恶童变好了而是恶童长大了",
+        "onboard_time": 1748369414,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35404,
+        "num": 35404,
+        "word": "刘强东 杭州是世界美食之都",
+        "onboard_time": 1748356882,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34278,
+        "num": 34278,
+        "word": "魏大勋回应杨凯之死在了充满希望的那一天",
+        "onboard_time": 1748361380,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33995,
+        "num": 33995,
+        "word": "小乔幸好姓乔 如果姓张",
+        "onboard_time": 1748383515,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33715,
+        "num": 33715,
+        "word": "内娱最权威的四张撕拉片",
+        "onboard_time": 1748346981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33043,
+        "num": 33043,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32760,
+        "num": 32760,
+        "word": "教授回应广东人饭前烫碗恶心言论",
+        "onboard_time": 1748356763,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30821,
+        "num": 30821,
+        "word": "小乔愿意为魏劭生孩子",
+        "onboard_time": 1748350162,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30741,
+        "num": 30741,
+        "word": "特朗普考虑撤回哈佛30亿美元拨款",
+        "onboard_time": 1748378294,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29881,
+        "num": 29881,
+        "word": "特朗普确认将出席G20峰会",
+        "onboard_time": 1748361083,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28727,
+        "num": 28727,
+        "word": "张继科希望孙颖莎奥运会继续保持势头",
+        "onboard_time": 1748351661,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28589,
+        "num": 28589,
+        "word": "特朗普说美军阅兵式将超奥运会",
+        "onboard_time": 1748372353,
+        "rank": 42,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 27650,
+        "num": 28517,
+        "word": "肖战腹肌",
+        "onboard_time": 1748346620,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24590,
+        "num": 28441,
+        "word": "吴谨言产后现身机场",
+        "onboard_time": 1748347401,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22053,
+        "num": 28418,
+        "word": "藏海不如厕 真是厉害",
+        "onboard_time": 1748384236,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20786,
+        "num": 28308,
+        "word": "应认清年轻人不愿为台独卖命现实",
+        "onboard_time": 1748366536,
+        "rank": 46,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 20377,
+        "num": 28253,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1748344581,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20139,
+        "num": 28172,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19567,
+        "num": 28051,
+        "word": "2025文化强国建设高峰论坛",
+        "onboard_time": 1748378415,
+        "rank": 49,
+        "category": "国内时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
