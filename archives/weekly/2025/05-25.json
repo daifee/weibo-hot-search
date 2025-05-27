@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748327789066,
+  "endTime": 1748328617261,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1323941,
-      "num": 546456,
+      "num": 554140,
       "word": "海恩贤圭分手",
       "onboard_time": 1748326882,
       "rank": 10,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1256342,
-      "num": 944887,
+      "num": 1033762,
       "word": "韩国将黄豆酱和酱油申遗",
       "onboard_time": 1748323282,
       "rank": 31,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1072763,
+      "num": 1033765,
+      "word": "山东一化工车间爆炸震碎周边玻璃",
+      "onboard_time": 1748327121,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1064757,
       "num": 432744,
       "word": "杨颖澳门活动生图",
@@ -505,6 +513,14 @@
       "onboard_time": 1748247441,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 965707,
+      "num": 965707,
+      "word": "刘若英道歉",
+      "onboard_time": 1748326643,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 965119,
@@ -673,6 +689,14 @@
       "onboard_time": 1748271082,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 836739,
+      "num": 836739,
+      "word": "山东一化工车间发生爆炸",
+      "onboard_time": 1748326942,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 827408,
@@ -899,6 +923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 716712,
+      "num": 716712,
+      "word": "月薪三万就是最大的意义",
+      "onboard_time": 1748325262,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 699100,
       "num": 699100,
       "word": "郑钦文恭喜王楚钦",
@@ -937,14 +969,6 @@
       "onboard_time": 1748270843,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 665383,
-      "num": 665383,
-      "word": "刘若英道歉",
-      "onboard_time": 1748326643,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 663079,
@@ -1219,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572775,
+      "num": 572775,
+      "word": "崔政宇去世",
+      "onboard_time": 1748327302,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569277,
       "num": 569277,
       "word": "新说唱2025导师官宣",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1748166263,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 551972,
-      "num": 551972,
-      "word": "山东一化工车间发生爆炸",
-      "onboard_time": 1748326942,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 550184,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1748309181,
       "rank": 26,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 467508,
-      "num": 467508,
-      "word": "月薪三万就是最大的意义",
-      "onboard_time": 1748325262,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 463851,
@@ -1963,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367967,
+      "num": 482120,
+      "word": "宁静主动示好欧阳娣娣",
+      "onboard_time": 1748327062,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367500,
       "num": 367500,
       "word": "300岁TVB老人跳晚安大小姐",
@@ -2347,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304561,
-      "num": 482120,
-      "word": "宁静主动示好欧阳娣娣",
-      "onboard_time": 1748327062,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304371,
       "num": 304371,
       "word": "白宫开始第一轮大清洗",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1748165601,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281713,
-      "num": 281713,
-      "word": "崔政宇去世",
-      "onboard_time": 1748327302,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 280749,
@@ -4563,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172614,
+      "num": 172614,
+      "word": "为什么很多年轻人不愿意摆烂",
+      "onboard_time": 1748328502,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172517,
       "num": 172517,
       "word": "Irene涩琪回归MV",
@@ -4627,6 +4643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171095,
+      "num": 239644,
+      "word": "12辆车15秒让出救命通道",
+      "onboard_time": 1748326762,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 171088,
       "num": 171088,
       "word": "体重跟肠道也有关系吗",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1748108477,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169748,
+      "num": 169748,
+      "word": "歌手2025",
+      "onboard_time": 1748327723,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 169118,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1748324302,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163343,
-      "num": 239644,
-      "word": "12辆车15秒让出救命通道",
-      "onboard_time": 1748326762,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 163342,
@@ -5635,6 +5659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144443,
+      "num": 523567,
+      "word": "山东一村免费为适龄青年分配100平楼房",
+      "onboard_time": 1748327361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144281,
       "num": 144281,
       "word": "谍报上不封顶官宣阵容没有程潇",
@@ -6003,6 +6035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134592,
+      "num": 425715,
+      "word": "藏海复仇MVP结算",
+      "onboard_time": 1748327902,
+      "rank": 17,
+      "category": "剧集,电竞"
+    },
+    {
       "raw_hot": 134480,
       "num": 134480,
       "word": "重庆一流浪狗凭乖吃饱饭",
@@ -6193,6 +6233,14 @@
       "onboard_time": 1748255601,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131264,
+      "num": 131264,
+      "word": "上海套内85平米的家",
+      "onboard_time": 1748327121,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131021,
@@ -6409,14 +6457,6 @@
       "onboard_time": 1748312059,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127149,
-      "num": 127149,
-      "word": "歌手2025",
-      "onboard_time": 1748327723,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 126825,
@@ -6683,6 +6723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120418,
+      "num": 139281,
+      "word": "抑郁症躯体化症状的真实表现",
+      "onboard_time": 1748327842,
+      "rank": 38,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 120181,
       "num": 180136,
       "word": "清融发文告别eStar",
@@ -6721,6 +6769,14 @@
       "onboard_time": 1748148503,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118970,
+      "num": 118970,
+      "word": "字节辟谣为大额储户子女提供实习",
+      "onboard_time": 1748328381,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118199,
@@ -6843,6 +6899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115375,
+      "num": 490527,
+      "word": "为什么下腹部脂肪往往最后才会消失",
+      "onboard_time": 1748327481,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 115354,
       "num": 115354,
       "word": "世乒赛竞争能有多惨烈",
@@ -6913,6 +6977,14 @@
       "onboard_time": 1748237120,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113047,
+      "num": 113047,
+      "word": "凶手将女子捅死开庭前夕才道歉",
+      "onboard_time": 1748328321,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112838,
@@ -7129,14 +7201,6 @@
       "onboard_time": 1748153602,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108174,
-      "num": 490527,
-      "word": "为什么下腹部脂肪往往最后才会消失",
-      "onboard_time": 1748327481,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 107724,
@@ -8419,14 +8483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57324,
-      "num": 523567,
-      "word": "山东一村免费为适龄青年分配100平楼房",
-      "onboard_time": 1748327361,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57280,
       "num": 146206,
       "word": "伊卡洛斯之羽",
@@ -8473,6 +8529,14 @@
       "onboard_time": 1748164160,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55225,
+      "num": 131009,
+      "word": "王曼昱球不落地始终专注",
+      "onboard_time": 1748328562,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 55195,
@@ -8779,6 +8843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44267,
+      "num": 534209,
+      "word": "放大镜看时代少年团新大片",
+      "onboard_time": 1748324062,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43834,
       "num": 273599,
       "word": "美联航回应客机在首都机场起飞中断",
@@ -8916,7 +8988,7 @@
     },
     {
       "raw_hot": 40196,
-      "num": 934362,
+      "num": 994819,
       "word": "国家网络身份认证筑牢数字安全屏障",
       "onboard_time": 1748316742,
       "rank": 5,
@@ -9043,14 +9115,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 34332,
-      "num": 534209,
-      "word": "放大镜看时代少年团新大片",
-      "onboard_time": 1748324062,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33647,
       "num": 1754429,
       "word": "每个中国人传唱的精神密码",
@@ -9073,6 +9137,14 @@
       "onboard_time": 1748254882,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32699,
+      "num": 112659,
+      "word": "汪顺夺冠后发文",
+      "onboard_time": 1748328502,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 32665,
@@ -9817,6 +9889,14 @@
       "onboard_time": 1748270184,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14713,
+      "num": 194501,
+      "word": "怀着什么样的心情和孩子相处",
+      "onboard_time": 1748327781,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 14677,
