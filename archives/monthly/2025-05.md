@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 21:08:22
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/27 21:37:40
 </p>
 </blockquote>
 <p>
@@ -6737,6 +6737,12 @@ K总为看藏海传停播一天（热度：770178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E5%85%A8%E5%9B%BD%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BB%AC%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90%23%23" target="weibo">
 #习近平祝全国小朋友们六一快乐#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9F%B9%E5%85%BB%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E4%BA%8B%E4%B8%9A%E5%90%88%E6%A0%BC%E5%BB%BA%E8%AE%BE%E8%80%85%23%23" target="weibo">
+#培养中国特色社会主义事业合格建设者#
 </a>
 </li>
 
