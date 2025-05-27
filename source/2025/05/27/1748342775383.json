@@ -1,0 +1,402 @@
+{
+  "runTime": 1748342775383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 77290,
+        "num": 1012366,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823955,
+        "num": 823955,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1169446,
+        "num": 674544,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647242,
+        "num": 647242,
+        "word": "高密已接收多名化工车间爆炸伤者",
+        "onboard_time": 1748338102,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10623,
+        "num": 592400,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 590712,
+        "num": 590712,
+        "word": "妃子笑 不好吃",
+        "onboard_time": 1748335220,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552602,
+        "num": 552602,
+        "word": "被杀女子母亲怀疑凶手因嫉妒行凶",
+        "onboard_time": 1748336301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344482,
+        "num": 551044,
+        "word": "藏海传的两集90分钟还能怎么拍",
+        "onboard_time": 1748336721,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178481,
+        "num": 547422,
+        "word": "端午节不调休下周只上四天班",
+        "onboard_time": 1748338400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1304380,
+        "num": 539554,
+        "word": "李现金智媛世纪同框",
+        "onboard_time": 1748340981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583308,
+        "num": 533915,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532447,
+        "num": 532447,
+        "word": "律师呼吁精神病人行凶入刑",
+        "onboard_time": 1748336362,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375229,
+        "num": 375229,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339787,
+        "num": 339787,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276329,
+        "num": 276329,
+        "word": "HYBE向腾讯音乐出售SM股份",
+        "onboard_time": 1748340620,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264339,
+        "num": 264339,
+        "word": "刘诗诗周润发 短剧奇迹",
+        "onboard_time": 1748340080,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252763,
+        "num": 252763,
+        "word": "折腰",
+        "onboard_time": 1748341161,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57201,
+        "num": 250176,
+        "word": "颐莲把熬夜党养得很好",
+        "onboard_time": 1748340681,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 55060,
+        "num": 247330,
+        "word": "长期熬夜会增加患癌的概率吗",
+        "onboard_time": 1748341641,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196096,
+        "num": 244426,
+        "word": "卜冠今说的陈凯歌真往心里去了",
+        "onboard_time": 1748339480,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189968,
+        "num": 240005,
+        "word": "巴黎世家活动",
+        "onboard_time": 1748341641,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159591,
+        "num": 235744,
+        "word": "藏海传登顶迪士尼网站",
+        "onboard_time": 1748341761,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233381,
+        "num": 233381,
+        "word": "京东直播拍卖100斤大西瓜",
+        "onboard_time": 1748340441,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67070,
+        "num": 231253,
+        "word": "季节退役",
+        "onboard_time": 1748342421,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10899,
+        "num": 230967,
+        "word": "广东人开水烫碗是否纯属心理安慰",
+        "onboard_time": 1748342602,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 7280,
+        "num": 227586,
+        "word": "原来瘦不下来是你胖菌多",
+        "onboard_time": 1748342541,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 225473,
+        "word": "美妆博主烧伤毁容后发声",
+        "onboard_time": 1748342421,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10493,
+        "num": 222382,
+        "word": "毕业生面试时该怎样突出亮点",
+        "onboard_time": 1748341281,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28795,
+        "num": 220407,
+        "word": "王曼昱蒯曼世乒赛女双冠军之路",
+        "onboard_time": 1748342302,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 775621,
+        "num": 218614,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 520577,
+        "num": 215857,
+        "word": "张继科谈王楚钦世乒赛表现",
+        "onboard_time": 1748339601,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308522,
+        "num": 212724,
+        "word": "欧阳娜娜闲鱼买吉他一眼被认出",
+        "onboard_time": 1748340441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279601,
+        "num": 211048,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209334,
+        "num": 209334,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 34,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 196413,
+        "num": 196413,
+        "word": "小米高管晒雷军送的纪念礼物",
+        "onboard_time": 1748341100,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138250,
+        "num": 181460,
+        "word": "岳云鹏回应开演唱会",
+        "onboard_time": 1748341701,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173177,
+        "num": 173177,
+        "word": "超100斤的西瓜引来7万人拍瓜",
+        "onboard_time": 1748342061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43779,
+        "num": 171194,
+        "word": "张家界溶洞被排污水",
+        "onboard_time": 1748339302,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169614,
+        "num": 169614,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158548,
+        "num": 158548,
+        "word": "凶手将女子捅死开庭前夕才道歉",
+        "onboard_time": 1748328321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "折腰夫君务必等我含金量",
+        "onboard_time": 1748342122,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147905,
+        "num": 147905,
+        "word": "打乒乓球的乔丹战胜打篮球的乔丹",
+        "onboard_time": 1748341340,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 136128,
+        "word": "遭家暴后坠亡9岁男孩父亲发声",
+        "onboard_time": 1748329882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125859,
+        "num": 125859,
+        "word": "崔政宇去世",
+        "onboard_time": 1748327302,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124295,
+        "num": 124295,
+        "word": "只有打过羽毛球的人才会懂",
+        "onboard_time": 1748341820,
+        "rank": 45,
+        "category": "运动健身,幽默"
+      },
+      {
+        "raw_hot": 123269,
+        "num": 123269,
+        "word": "王安宇搞怪撕拉片",
+        "onboard_time": 1748331681,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 122527,
+        "word": "刘诗诗流金岁月含金量还在上升",
+        "onboard_time": 1748331621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120571,
+        "num": 120571,
+        "word": "辞职后不想上班",
+        "onboard_time": 1748342721,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72190,
+        "num": 113915,
+        "word": "被杀女子母亲称凶手没精神史",
+        "onboard_time": 1748340981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝全国小朋友们六一快乐#"
+    }
+  }
+}
