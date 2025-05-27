@@ -1,6 +1,6 @@
 {
   "startTime": 1748277058176,
-  "endTime": 1748350387088,
+  "endTime": 1748351302572,
   "band_list": [
     {
       "raw_hot": 2780095,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1324202,
+      "num": 407573,
+      "word": "内娱最权威的四张撕拉片",
+      "onboard_time": 1748346981,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1323941,
       "num": 701180,
       "word": "海恩贤圭分手",
@@ -113,14 +121,6 @@
       "onboard_time": 1748326942,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1190138,
-      "num": 407573,
-      "word": "内娱最权威的四张撕拉片",
-      "onboard_time": 1748346981,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1167460,
@@ -337,6 +337,14 @@
       "onboard_time": 1748318422,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 635487,
+      "num": 384802,
+      "word": "张小斐好S",
+      "onboard_time": 1748349381,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 608726,
@@ -643,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384802,
-      "num": 384802,
-      "word": "张小斐好S",
-      "onboard_time": 1748349381,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 377703,
       "num": 607170,
       "word": "刘诗诗流金岁月含金量还在上升",
@@ -665,6 +665,14 @@
       "onboard_time": 1748259562,
       "rank": 8,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 371983,
+      "num": 284635,
+      "word": "百岁山 直角肩",
+      "onboard_time": 1748345719,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 370649,
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333413,
+      "num": 333413,
+      "word": "小乔愿意为魏劭生孩子",
+      "onboard_time": 1748350162,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331868,
       "num": 331868,
       "word": "三个月瘦了35斤的面部变化",
@@ -811,12 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288815,
-      "num": 254327,
-      "word": "百岁山 直角肩",
-      "onboard_time": 1748345719,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 288622,
+      "num": 299680,
+      "word": "杨凯之死在了充满希望那一天",
+      "onboard_time": 1748347341,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288038,
+      "num": 395106,
+      "word": "泡泡玛特599元联名款被炒至1.5万",
+      "onboard_time": 1748346501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285139,
@@ -883,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259459,
+      "num": 259459,
+      "word": "曹静贤个太监办什么家宴啊",
+      "onboard_time": 1748350162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259095,
       "num": 259095,
       "word": "光与夜之恋",
@@ -905,6 +937,14 @@
       "onboard_time": 1748332462,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253349,
+      "num": 253349,
+      "word": "赵秉文 面具人",
+      "onboard_time": 1748350942,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 253149,
@@ -947,12 +987,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239732,
+      "num": 302203,
+      "word": "欧阳娜娜在闲鱼讲价被拒绝",
+      "onboard_time": 1748347760,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
       "onboard_time": 1748302280,
       "rank": 15,
       "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 238057,
+      "num": 282612,
+      "word": "赵磊巴厘岛婚礼记录",
+      "onboard_time": 1748350401,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 237677,
@@ -1033,22 +1089,6 @@
       "onboard_time": 1748316861,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 227226,
-      "num": 302203,
-      "word": "欧阳娜娜在闲鱼讲价被拒绝",
-      "onboard_time": 1748347760,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224465,
-      "num": 299680,
-      "word": "杨凯之死在了充满希望那一天",
-      "onboard_time": 1748347341,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 224370,
@@ -1155,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203693,
-      "num": 203693,
-      "word": "曹静贤个太监办什么家宴啊",
-      "onboard_time": 1748350162,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200607,
       "num": 200607,
       "word": "小米集团第一季度营收1112.9亿",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1748331141,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 198923,
-      "num": 198923,
-      "word": "小乔愿意为魏劭生孩子",
-      "onboard_time": 1748350162,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 197802,
@@ -1395,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185939,
+      "num": 284196,
+      "word": "易烊千玺说遇到狂野时代非常幸运",
+      "onboard_time": 1748350881,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184595,
       "num": 369394,
       "word": "京东卖的百年龙虾嫩吗",
@@ -1491,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176766,
+      "num": 176766,
+      "word": "浙江农村 咖啡店",
+      "onboard_time": 1748349501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175426,
       "num": 269537,
       "word": "日本失去全球最大债权国地位",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1748333061,
       "rank": 21,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 174902,
-      "num": 395106,
-      "word": "泡泡玛特599元联名款被炒至1.5万",
-      "onboard_time": 1748346501,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173177,
@@ -1635,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167545,
+      "num": 167545,
+      "word": "警方通报17岁女生失踪月余坠江",
+      "onboard_time": 1748350582,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165666,
       "num": 165666,
       "word": "遇害海归女母亲曾提醒其注意江歌案",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1748332221,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163003,
+      "num": 163003,
+      "word": "李亚鹏和妻子目前没房产",
+      "onboard_time": 1748350761,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 162842,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1748324361,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156562,
+      "num": 156562,
+      "word": "平津侯曹公公为藏海撕破脸",
+      "onboard_time": 1748350942,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 154651,
@@ -2684,7 +2740,7 @@
     },
     {
       "raw_hot": 80236,
-      "num": 163034,
+      "num": 283536,
       "word": "黄瓜拌什么最好吃",
       "onboard_time": 1748350341,
       "rank": 44,
@@ -2729,6 +2785,14 @@
       "onboard_time": 1748302459,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75912,
+      "num": 281717,
+      "word": "中国孩子收到来自太空的祝福",
+      "onboard_time": 1748350761,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75237,
@@ -2779,12 +2843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70075,
+      "num": 290806,
+      "word": "3岁就要立规矩了",
+      "onboard_time": 1748349141,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68887,
       "num": 68887,
       "word": "美团王兴回应京东外卖百亿补贴",
       "onboard_time": 1748269944,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68676,
+      "num": 157942,
+      "word": "山东一化工厂爆炸5人死亡6人失联",
+      "onboard_time": 1748351243,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 67978,
@@ -2809,6 +2889,14 @@
       "onboard_time": 1748342421,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66808,
+      "num": 294776,
+      "word": "斯诺克男女世锦赛冠军都来自中国",
+      "onboard_time": 1748350101,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 64891,
@@ -3003,14 +3091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55897,
-      "num": 294776,
-      "word": "斯诺克男女世锦赛冠军都来自中国",
-      "onboard_time": 1748350101,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55481,
       "num": 420299,
       "word": "山东化工车间爆炸的原因可能是什么",
@@ -3131,14 +3211,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 45286,
-      "num": 290806,
-      "word": "3岁就要立规矩了",
-      "onboard_time": 1748349141,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 44654,
       "num": 394762,
       "word": "抑郁症躯体化症状有哪些常见表现",
@@ -3243,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36540,
+      "num": 911327,
+      "word": "两新政策持续释放消费潜力",
+      "onboard_time": 1748338641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36262,
       "num": 158834,
       "word": "100斤的西瓜是怎么种出来的",
@@ -3267,20 +3347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34388,
+      "num": 293498,
+      "word": "女子以占卜疗愈为名诈骗母女300万",
+      "onboard_time": 1748350101,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32098,
       "num": 253825,
       "word": "梁王组合晋级新加坡公开赛16强",
       "onboard_time": 1748344701,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30470,
-      "num": 911327,
-      "word": "两新政策持续释放消费潜力",
-      "onboard_time": 1748338641,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29693,
@@ -3531,14 +3611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 13996,
-      "num": 293498,
-      "word": "女子以占卜疗愈为名诈骗母女300万",
-      "onboard_time": 1748350101,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13487,
       "num": 227586,
       "word": "原来瘦不下来是你胖菌多",
@@ -3569,6 +3641,14 @@
       "onboard_time": 1748287034,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12423,
+      "num": 253461,
+      "word": "西瓜有哪些意想不到的隐藏吃法",
+      "onboard_time": 1748350341,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 12207,
@@ -3649,14 +3729,6 @@
       "onboard_time": 1748345780,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7350,
-      "num": 169306,
-      "word": "西瓜有哪些意想不到的隐藏吃法",
-      "onboard_time": 1748350341,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 25,
