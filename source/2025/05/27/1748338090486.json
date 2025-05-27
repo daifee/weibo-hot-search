@@ -1,0 +1,410 @@
+{
+  "runTime": 1748338090486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 112673,
+        "num": 1018027,
+        "word": "广州某科技公司遭台湾黑客攻击",
+        "onboard_time": 1748309301,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1260279,
+        "num": 1017540,
+        "word": "演员张翰被起诉",
+        "onboard_time": 1748322622,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35153,
+        "num": 1016109,
+        "word": "中国特色现代企业制度说明书来了",
+        "onboard_time": 1748316801,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1015527,
+        "num": 1015527,
+        "word": "妃子笑 不好吃",
+        "onboard_time": 1748335220,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 789676,
+        "num": 789676,
+        "word": "地下车库 氡",
+        "onboard_time": 1748331382,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17014,
+        "num": 729921,
+        "word": "国家网络身份认证筑牢数字安全屏障",
+        "onboard_time": 1748316742,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 709210,
+        "num": 709210,
+        "word": "山东一化工车间发生爆炸",
+        "onboard_time": 1748326942,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660874,
+        "num": 660874,
+        "word": "女生考法警进体检被举报曾发极端言论",
+        "onboard_time": 1748336602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552770,
+        "num": 552770,
+        "word": "抑郁症躯体化症状的真实表现",
+        "onboard_time": 1748327842,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 329930,
+        "num": 521909,
+        "word": "刘诗诗流金岁月含金量还在上升",
+        "onboard_time": 1748331621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 994400,
+        "num": 518732,
+        "word": "刘若英道歉",
+        "onboard_time": 1748326643,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 716929,
+        "num": 518132,
+        "word": "山东一化工车间爆炸震碎周边玻璃",
+        "onboard_time": 1748327121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507386,
+        "num": 507386,
+        "word": "月薪三万就是最大的意义",
+        "onboard_time": 1748325262,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305522,
+        "num": 507029,
+        "word": "藏海传的两集90分钟还能怎么拍",
+        "onboard_time": 1748336721,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296407,
+        "num": 505610,
+        "word": "律师呼吁精神病人行凶入刑",
+        "onboard_time": 1748336362,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204674,
+        "num": 505309,
+        "word": "宋雨琦把IU给整结巴了",
+        "onboard_time": 1748319682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109743,
+        "num": 503634,
+        "word": "雪王在一加发布会很忙",
+        "onboard_time": 1748334861,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192581,
+        "num": 502518,
+        "word": "香飘飘Meco售罄",
+        "onboard_time": 1748336721,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 61383,
+        "num": 501455,
+        "word": "为什么口腔溃疡总是有一个小白坑",
+        "onboard_time": 1748336542,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191875,
+        "num": 500497,
+        "word": "张翰工作室发声",
+        "onboard_time": 1748332462,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500246,
+        "num": 500246,
+        "word": "海恩贤圭分手",
+        "onboard_time": 1748326882,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458877,
+        "num": 458877,
+        "word": "遭家暴后坠亡9岁男孩父亲发声",
+        "onboard_time": 1748329882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350267,
+        "num": 350267,
+        "word": "王安宇搞怪撕拉片",
+        "onboard_time": 1748331681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321589,
+        "num": 349257,
+        "word": "被杀女子母亲怀疑凶手因嫉妒行凶",
+        "onboard_time": 1748336301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175941,
+        "num": 347440,
+        "word": "崔政宇去世",
+        "onboard_time": 1748327302,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171683,
+        "num": 344227,
+        "word": "蔡依林发文谈时隔六年发新曲",
+        "onboard_time": 1748322262,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 341811,
+        "word": "不能错过的心动礼遇",
+        "onboard_time": 1748333061,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167836,
+        "num": 339802,
+        "word": "汪海林吐槽群体造假刷数据",
+        "onboard_time": 1748324962,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24435,
+        "num": 338404,
+        "word": "蜗牛壳上为什么会长蜂窝",
+        "onboard_time": 1748336780,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36797,
+        "num": 336474,
+        "word": "山东化工车间爆炸目击者发声",
+        "onboard_time": 1748336481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142677,
+        "num": 333730,
+        "word": "陈都灵用一加上分很灵",
+        "onboard_time": 1748333123,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332870,
+        "num": 332870,
+        "word": "韩国将黄豆酱和酱油申遗",
+        "onboard_time": 1748323282,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295979,
+        "num": 295979,
+        "word": "母亲跌倒六天儿子见死不救去世",
+        "onboard_time": 1748312660,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 289019,
+        "word": "孙颖莎晒训练视频",
+        "onboard_time": 1748337982,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286443,
+        "num": 286443,
+        "word": "央视曝光云养殖骗局",
+        "onboard_time": 1748331020,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 247671,
+        "num": 247671,
+        "word": "陈梦说奥运夺冠后仍遭质疑很煎熬",
+        "onboard_time": 1748329281,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46512,
+        "num": 234114,
+        "word": "一女子街边强拽小孩被家长追回",
+        "onboard_time": 1748337982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72666,
+        "num": 228632,
+        "word": "提拉米苏路边摊",
+        "onboard_time": 1748334321,
+        "rank": 37,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 226613,
+        "num": 226613,
+        "word": "老人舍不得拆女儿送的钱花发霉",
+        "onboard_time": 1748335101,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122635,
+        "num": 216621,
+        "word": "晨光孔庙祈福",
+        "onboard_time": 1748336481,
+        "rank": 39,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 26934,
+        "num": 214955,
+        "word": "传统豪华vs新豪华",
+        "onboard_time": 1748335942,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45589,
+        "num": 214380,
+        "word": "双子座新月许愿时间",
+        "onboard_time": 1748336182,
+        "rank": 41,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 214229,
+        "num": 214229,
+        "word": "传销现在变成忽悠养猪了",
+        "onboard_time": 1748337262,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209810,
+        "num": 209810,
+        "word": "李沁老公姐",
+        "onboard_time": 1748337620,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208306,
+        "num": 208306,
+        "word": "田园脆鸡堡 变了",
+        "onboard_time": 1748335643,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203877,
+        "num": 203877,
+        "word": "古茗回应赤裸男子持刀闯入门店",
+        "onboard_time": 1748335041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140732,
+        "num": 198285,
+        "word": "宁静主动示好欧阳娣娣",
+        "onboard_time": 1748327062,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197802,
+        "num": 197802,
+        "word": "央视曝光网店海外直邮造假猫腻",
+        "onboard_time": 1748333781,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197393,
+        "num": 197393,
+        "word": "男孩捡到66年前装有情书的漂流瓶",
+        "onboard_time": 1748334502,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163387,
+        "num": 163387,
+        "word": "日本无权干涉中国科考船活动",
+        "onboard_time": 1748337322,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与少年儿童的暖心瞬间#"
+    }
+  }
+}
