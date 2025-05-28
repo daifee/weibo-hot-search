@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748431369501,
+  "endTime": 1748432304386,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -89,6 +89,14 @@
       "onboard_time": 1748395822,
       "rank": 14,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 1082219,
+      "num": 1173155,
+      "word": "于正 吴谨言又杀回来了",
+      "onboard_time": 1748430380,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1002270,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618440,
+      "num": 618440,
+      "word": "鞠婧祎 蛇女",
+      "onboard_time": 1748430860,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 615788,
       "num": 615788,
       "word": "腓腓快要出生了",
@@ -339,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516207,
-      "num": 516207,
-      "word": "于正 吴谨言又杀回来了",
-      "onboard_time": 1748430380,
-      "rank": 3,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 514466,
       "num": 251051,
       "word": "爱情公寓主演16年后现状",
@@ -371,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 489109,
+      "num": 456471,
+      "word": "在人间热度",
+      "onboard_time": 1748429480,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488882,
       "num": 488882,
       "word": "藏海传IMDB开分9.1",
@@ -393,6 +409,14 @@
       "onboard_time": 1748392103,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482274,
+      "num": 445956,
+      "word": "妈妈幂呀",
+      "onboard_time": 1748431102,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 480012,
@@ -427,6 +451,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 463793,
+      "num": 463793,
+      "word": "时尚芭莎盛典",
+      "onboard_time": 1748418201,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 450009,
       "num": 357739,
       "word": "内娱最权威的四张撕拉片",
@@ -435,28 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447873,
-      "num": 447873,
-      "word": "时尚芭莎盛典",
-      "onboard_time": 1748418201,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 441954,
       "num": 441954,
       "word": "乒超",
       "onboard_time": 1748429061,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 437562,
-      "num": 437562,
-      "word": "在人间热度",
-      "onboard_time": 1748429480,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 436530,
@@ -611,20 +627,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 306182,
+      "num": 306182,
+      "word": "惠英红 妖红杀回来了",
+      "onboard_time": 1748429782,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 303929,
       "num": 309999,
       "word": "aespaASEA红毯",
       "onboard_time": 1748420661,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302882,
-      "num": 302882,
-      "word": "惠英红 妖红杀回来了",
-      "onboard_time": 1748429782,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298613,
@@ -665,6 +681,14 @@
       "onboard_time": 1748406743,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275475,
+      "num": 275475,
+      "word": "赵今麦挂脖高定",
+      "onboard_time": 1748431102,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274572,
@@ -763,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251066,
+      "num": 381210,
+      "word": "北师大回应官网教师简介用动漫头像",
+      "onboard_time": 1748429241,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250548,
       "num": 333990,
       "word": "肖战看过探索频道",
@@ -785,6 +817,14 @@
       "onboard_time": 1748405002,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245566,
+      "num": 245566,
+      "word": "辛柏青新剧有的是力气和手段",
+      "onboard_time": 1748431462,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 244992,
@@ -835,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234883,
-      "num": 234883,
-      "word": "北师大回应官网教师简介用动漫头像",
-      "onboard_time": 1748429241,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234170,
       "num": 234170,
       "word": "作家刘楚昕获奖后追忆已故女友",
@@ -859,14 +891,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 231903,
-      "num": 231903,
-      "word": "鞠婧祎 蛇女",
-      "onboard_time": 1748430860,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 229243,
       "num": 229243,
       "word": "中方回应美政府停止发放学生签证",
@@ -881,6 +905,14 @@
       "onboard_time": 1748416521,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227227,
+      "num": 351599,
+      "word": "对山东高密爆炸事故挂牌督办",
+      "onboard_time": 1748430200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226303,
@@ -1059,14 +1091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197332,
-      "num": 197332,
-      "word": "赵今麦挂脖高定",
-      "onboard_time": 1748431102,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 196593,
       "num": 196593,
       "word": "哈利伯顿也能骑着扫帚飞",
@@ -1083,12 +1107,12 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 195090,
-      "num": 188970,
-      "word": "妈妈幂呀",
-      "onboard_time": 1748431102,
-      "rank": 43,
-      "category": "艺人,时尚"
+      "raw_hot": 194953,
+      "num": 194953,
+      "word": "这一秒 王楚然",
+      "onboard_time": 1748431342,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 194861,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1748430200,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193445,
+      "num": 193445,
+      "word": "郑钦文罗兰加洛斯8连胜",
+      "onboard_time": 1748431462,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 192784,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1748412861,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191044,
+      "num": 191044,
+      "word": "在雍和宫许愿见鹿晗后被调剂了",
+      "onboard_time": 1748430801,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 190688,
@@ -1179,12 +1219,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185226,
-      "num": 179507,
-      "word": "在雍和宫许愿见鹿晗后被调剂了",
-      "onboard_time": 1748430801,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 184009,
+      "num": 184009,
+      "word": "时代少年团演唱会久久不能散去的余温",
+      "onboard_time": 1748431581,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 183787,
@@ -1307,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174083,
+      "num": 265341,
+      "word": "不是618买不起而是天猫更有性价比",
+      "onboard_time": 1748430380,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 173761,
       "num": 173761,
       "word": "赵秉文 面具人",
@@ -1371,11 +1419,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170506,
-      "num": 170506,
-      "word": "这一秒 王楚然",
-      "onboard_time": 1748431342,
-      "rank": 49,
+      "raw_hot": 170156,
+      "num": 170156,
+      "word": "汪苏泷线条美甲",
+      "onboard_time": 1748431521,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 170146,
+      "num": 170146,
+      "word": "折腰第31集床边吻",
+      "onboard_time": 1748431941,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1449,6 +1505,14 @@
       "onboard_time": 1748405903,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164260,
+      "num": 164260,
+      "word": "方时赫或将入狱",
+      "onboard_time": 1748432181,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 163828,
@@ -1619,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146686,
+      "num": 304064,
+      "word": "网传朱媛媛遗嘱内容纯属捏造",
+      "onboard_time": 1748431822,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146683,
       "num": 146683,
       "word": "肖战藏海水下镜头",
@@ -1665,14 +1737,6 @@
       "onboard_time": 1748407522,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143023,
-      "num": 256400,
-      "word": "不是618买不起而是天猫更有性价比",
-      "onboard_time": 1748430380,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 141698,
@@ -1843,14 +1907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123447,
-      "num": 351599,
-      "word": "对山东高密爆炸事故挂牌督办",
-      "onboard_time": 1748430200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123190,
       "num": 123190,
       "word": "特朗普为加拿大加入金穹开价610亿美元",
@@ -1908,7 +1964,7 @@
     },
     {
       "raw_hot": 119697,
-      "num": 119697,
+      "num": 246494,
       "word": "谁还敢叫刘晓艳爷爷",
       "onboard_time": 1748428941,
       "rank": 41,
@@ -2475,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69168,
+      "num": 244636,
+      "word": "首尔大学食堂6500元自助",
+      "onboard_time": 1748431281,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68315,
       "num": 189977,
       "word": "报复性熬夜后报复性养生",
@@ -2508,7 +2572,7 @@
     },
     {
       "raw_hot": 63382,
-      "num": 223060,
+      "num": 242906,
       "word": "立法专家谈韩国拿中国文化申遗",
       "onboard_time": 1748431281,
       "rank": 27,
@@ -2659,14 +2723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49582,
-      "num": 193550,
-      "word": "首尔大学食堂6500元自助",
-      "onboard_time": 1748431281,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48182,
       "num": 309285,
       "word": "开发商疑用公共楼梯补房产面积",
@@ -2739,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44311,
+      "num": 240792,
+      "word": "特朗普发文批普京在玩火",
+      "onboard_time": 1748431042,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43575,
       "num": 210454,
       "word": "一人一句祝福高考生",
@@ -2763,14 +2827,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42076,
-      "num": 222107,
-      "word": "特朗普发文批普京在玩火",
-      "onboard_time": 1748431042,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1748401341,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 40457,
+      "num": 237809,
+      "word": "干蒸菜和蒸菜有什么区别",
+      "onboard_time": 1748431881,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 38758,
@@ -2899,6 +2963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34993,
+      "num": 169975,
+      "word": "马斯克公然与特朗普唱反调",
+      "onboard_time": 1748432242,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33517,
       "num": 240444,
       "word": "官方回应英之园拆除最新进展",
@@ -2953,6 +3025,14 @@
       "onboard_time": 1748404222,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30066,
+      "num": 662614,
+      "word": "中国成都国际非遗节",
+      "onboard_time": 1748431822,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30065,
@@ -3187,7 +3267,7 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 11729,
+      "raw_hot": 12022,
       "num": 221954,
       "word": "AI教你国补如何买手机最划算",
       "onboard_time": 1748431042,
