@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748437702472,
+  "endTime": 1748439472042,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1481431,
+      "num": 372763,
+      "word": "刘宇宁 锡纸抹胸",
+      "onboard_time": 1748438122,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1458311,
       "num": 1458311,
       "word": "2025新一线城市官宣",
@@ -64,6 +72,14 @@
       "word": "鞠婧祎 蛇女",
       "onboard_time": 1748430860,
       "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1438255,
+      "num": 1438255,
+      "word": "没去芭莎的很幸运了",
+      "onboard_time": 1748436801,
+      "rank": 13,
       "category": "艺人,时尚"
     },
     {
@@ -211,6 +227,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 761209,
+      "num": 761209,
+      "word": "游客发现武陵山天池底为304不锈钢",
+      "onboard_time": 1748433621,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 753761,
       "num": 538225,
       "word": "李昀锐黑脸",
@@ -233,6 +257,14 @@
       "onboard_time": 1748352443,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 745386,
+      "num": 546844,
+      "word": "杨幂躲镜头",
+      "onboard_time": 1748437162,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 737830,
@@ -259,12 +291,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 717018,
+      "raw_hot": 719441,
       "num": 562438,
       "word": "刘宇宁直播",
       "onboard_time": 1748434703,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717168,
+      "num": 410520,
+      "word": "藏海传24集 新的太子",
+      "onboard_time": 1748437522,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 698913,
@@ -280,14 +320,6 @@
       "word": "携致癌基因男子捐精育出67个孩子",
       "onboard_time": 1748389339,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 670447,
-      "num": 670447,
-      "word": "游客发现武陵山天池底为304不锈钢",
-      "onboard_time": 1748433621,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512136,
+      "num": 411435,
+      "word": "林允身材好绝",
+      "onboard_time": 1748435782,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 502611,
       "num": 502611,
       "word": "越南粉",
@@ -523,14 +563,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 460357,
-      "num": 412266,
-      "word": "没去芭莎的很幸运了",
-      "onboard_time": 1748436801,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 456964,
       "num": 456964,
       "word": "北师大回应官网教师简介用动漫头像",
@@ -579,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411435,
-      "num": 411435,
-      "word": "林允身材好绝",
-      "onboard_time": 1748435782,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 404464,
       "num": 404464,
       "word": "藏海传全面入侵我全家",
@@ -633,6 +657,14 @@
       "onboard_time": 1748403802,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371857,
+      "num": 371857,
+      "word": "芭莎内场",
+      "onboard_time": 1748435961,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 371848,
@@ -739,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303155,
-      "num": 303155,
-      "word": "杨幂躲镜头",
-      "onboard_time": 1748437162,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 298613,
       "num": 298613,
       "word": "中国未能获得2029年世乒赛举办权",
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 283254,
-      "num": 283254,
+      "num": 352101,
       "word": "卫生巾 妇科感染",
       "onboard_time": 1748435121,
       "rank": 34,
@@ -857,14 +881,6 @@
       "onboard_time": 1748360120,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263754,
-      "num": 263754,
-      "word": "芭莎内场",
-      "onboard_time": 1748435961,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 257965,
@@ -1075,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217988,
+      "num": 338050,
+      "word": "株洲母子车祸1死1伤案家属发声",
+      "onboard_time": 1748438603,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "朴槿惠力挺韩国总统候选人金文洙",
@@ -1211,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199566,
+      "num": 199566,
+      "word": "蔡文静孟子义桃花坞的卧龙凤雏",
+      "onboard_time": 1748438721,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199500,
       "num": 199500,
       "word": "梁乡重伤不治而亡",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1748429782,
       "rank": 34,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 198091,
+      "num": 198091,
+      "word": "医生未做皮试输青霉素致患者死亡获刑",
+      "onboard_time": 1748433801,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197493,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1748402421,
       "rank": 23,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 195397,
-      "num": 195397,
-      "word": "医生未做皮试输青霉素致患者死亡获刑",
-      "onboard_time": 1748433801,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194953,
@@ -1491,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177093,
-      "num": 177093,
-      "word": "藏海传24集 新的太子",
-      "onboard_time": 1748437522,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176891,
       "num": 219976,
       "word": "叶舒华时隔一年更新称心痛不已",
@@ -1643,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169439,
+      "num": 169439,
+      "word": "孙俪 摇曳生姿的黑玫瑰",
+      "onboard_time": 1748438122,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 168858,
       "num": 168858,
       "word": "原神5.6",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1748436501,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166685,
+      "num": 166685,
+      "word": "洪小铃产后首次露面",
+      "onboard_time": 1748437343,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 166182,
@@ -1761,14 +1801,6 @@
       "onboard_time": 1748409321,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157997,
-      "num": 157997,
-      "word": "洪小铃产后首次露面",
-      "onboard_time": 1748437343,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 157489,
@@ -1875,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149321,
+      "num": 346066,
+      "word": "荣耀新CEO李健国内首秀",
+      "onboard_time": 1748437642,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 148842,
       "num": 148842,
       "word": "鹿晗演唱会",
@@ -1953,6 +1993,14 @@
       "onboard_time": 1748402181,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141578,
+      "num": 420875,
+      "word": "教授给学生挨个发信息号召回国",
+      "onboard_time": 1748433321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140928,
@@ -2067,6 +2115,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 131617,
+      "num": 131617,
+      "word": "法网2025",
+      "onboard_time": 1748439323,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130873,
       "num": 130873,
       "word": "金子银子将成为美佛州流通货币",
@@ -2105,6 +2161,14 @@
       "onboard_time": 1748342781,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127047,
+      "num": 130474,
+      "word": "王楚钦多哈世乒赛男单冠军路",
+      "onboard_time": 1748438063,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126238,
@@ -2659,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83983,
-      "num": 244431,
-      "word": "荣耀新CEO李健国内首秀",
-      "onboard_time": 1748437642,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 83819,
       "num": 120565,
       "word": "藏海传城网登顶",
@@ -2843,6 +2899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64119,
+      "num": 253107,
+      "word": "天问二号发微博说准备好了",
+      "onboard_time": 1748437762,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64047,
       "num": 64047,
       "word": "特朗普说美军阅兵式将超奥运会",
@@ -2923,7 +2987,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58435,
+      "raw_hot": 58985,
       "num": 352607,
       "word": "想魂穿胡一天旁边的冲锋衣",
       "onboard_time": 1748435902,
@@ -2945,6 +3009,14 @@
       "onboard_time": 1748366597,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56701,
+      "num": 179394,
+      "word": "荣耀AI意图识别引擎行业领先",
+      "onboard_time": 1748439443,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 55897,
@@ -2987,6 +3059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52159,
+      "num": 228857,
+      "word": "老人6700万房产被合伙人白菜价卖出",
+      "onboard_time": 1748438721,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51377,
       "num": 311989,
       "word": "中介承诺付费2万元可进大厂实习",
@@ -3025,6 +3105,14 @@
       "onboard_time": 1748369414,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49296,
+      "num": 170001,
+      "word": "荣耀CEO李健发布会首发微博",
+      "onboard_time": 1748439443,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 48182,
@@ -3129,6 +3217,14 @@
       "onboard_time": 1748405842,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41509,
+      "num": 285661,
+      "word": "男子不满分手连杀两人潜逃11年被抓",
+      "onboard_time": 1748439023,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40869,
@@ -3291,6 +3387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34046,
+      "num": 260831,
+      "word": "打工人的午餐能节省到什么程度",
+      "onboard_time": 1748438483,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 33517,
       "num": 240444,
       "word": "官方回应英之园拆除最新进展",
@@ -3329,6 +3433,14 @@
       "onboard_time": 1748388258,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31148,
+      "num": 302918,
+      "word": "我们每个人都是这场青春的C位",
+      "onboard_time": 1748439263,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 30599,
@@ -3555,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15151,
+      "num": 213278,
+      "word": "为自己的心动买单有错吗",
+      "onboard_time": 1748439383,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15019,
       "num": 191083,
       "word": "微博CyberAgent官宣合作",
@@ -3665,6 +3785,14 @@
       "onboard_time": 1748272763,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4607,
+      "num": 129174,
+      "word": "吴谨言的家政秘籍藏不住了",
+      "onboard_time": 1748439443,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 3372,
