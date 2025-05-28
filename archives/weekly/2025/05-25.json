@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748439472042,
+  "endTime": 1748440173085,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1789038,
+      "num": 406376,
+      "word": "刘宇宁 锡纸抹胸",
+      "onboard_time": 1748438122,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1662892,
       "num": 1662892,
       "word": "孙颖莎总结多哈世乒赛",
@@ -193,6 +201,14 @@
       "onboard_time": 1748306842,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1609253,
+      "num": 1609253,
+      "word": "没去芭莎的很幸运了",
+      "onboard_time": 1748436801,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1588791,
@@ -275,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1481431,
-      "num": 372763,
-      "word": "刘宇宁 锡纸抹胸",
-      "onboard_time": 1748438122,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1471958,
       "num": 921166,
       "word": "贾斯汀比伯告白女网红",
@@ -336,14 +344,6 @@
       "word": "鞠婧祎 蛇女",
       "onboard_time": 1748430860,
       "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1438255,
-      "num": 1438255,
-      "word": "没去芭莎的很幸运了",
-      "onboard_time": 1748436801,
-      "rank": 13,
       "category": "艺人,时尚"
     },
     {
@@ -851,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 919862,
+      "num": 919862,
+      "word": "结婚4天就离男子获退18万彩礼",
+      "onboard_time": 1748435422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 918136,
       "num": 918136,
       "word": "宋雨琦把IU给整结巴了",
@@ -881,14 +889,6 @@
       "onboard_time": 1748417120,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 889082,
-      "num": 889082,
-      "word": "结婚4天就离男子获退18万彩礼",
-      "onboard_time": 1748435422,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 881200,
@@ -1099,6 +1099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 791462,
+      "num": 546844,
+      "word": "杨幂躲镜头",
+      "onboard_time": 1748437162,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 789913,
       "num": 789913,
       "word": "男童因伤退出孙继海青训被要18万",
@@ -1160,6 +1168,14 @@
       "word": "K总为看藏海传停播一天",
       "onboard_time": 1748270004,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 768791,
+      "num": 504430,
+      "word": "藏海传24集 新的太子",
+      "onboard_time": 1748437522,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1257,14 +1273,6 @@
       "onboard_time": 1748271503,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 745386,
-      "num": 546844,
-      "word": "杨幂躲镜头",
-      "onboard_time": 1748437162,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 745012,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1748434703,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717168,
-      "num": 410520,
-      "word": "藏海传24集 新的太子",
-      "onboard_time": 1748437522,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 712430,
@@ -2715,6 +2715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 407992,
+      "num": 407992,
+      "word": "芭莎内场",
+      "onboard_time": 1748435961,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 404563,
       "num": 602946,
       "word": "官方通报网传女子领低保炒股",
@@ -2843,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386699,
+      "num": 386699,
+      "word": "株洲母子车祸1死1伤案家属发声",
+      "onboard_time": 1748438603,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384449,
       "num": 384449,
       "word": "余华说现在写不出活着了",
@@ -2929,14 +2945,6 @@
       "onboard_time": 1748403802,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371857,
-      "num": 371857,
-      "word": "芭莎内场",
-      "onboard_time": 1748435961,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 371848,
@@ -3273,6 +3281,14 @@
       "onboard_time": 1748348722,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 335482,
+      "num": 352101,
+      "word": "卫生巾 妇科感染",
+      "onboard_time": 1748435121,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335386,
@@ -3753,14 +3769,6 @@
       "onboard_time": 1748320161,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283254,
-      "num": 352101,
-      "word": "卫生巾 妇科感染",
-      "onboard_time": 1748435121,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282026,
@@ -4811,14 +4819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217988,
-      "num": 338050,
-      "word": "株洲母子车祸1死1伤案家属发声",
-      "onboard_time": 1748438603,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216799,
       "num": 216799,
       "word": "左奇函在邓紫棋演唱会见证一场求婚",
@@ -5289,6 +5289,14 @@
       "onboard_time": 1748344401,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200505,
+      "num": 357650,
+      "word": "荣耀新CEO李健国内首秀",
+      "onboard_time": 1748437642,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 200305,
@@ -7011,6 +7019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171602,
+      "num": 420875,
+      "word": "教授给学生挨个发信息号召回国",
+      "onboard_time": 1748433321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171572,
       "num": 171572,
       "word": "辞职后不想上班",
@@ -7161,6 +7177,14 @@
       "onboard_time": 1748335462,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169626,
+      "num": 169626,
+      "word": "洪小铃产后首次露面",
+      "onboard_time": 1748437343,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 169610,
@@ -7329,14 +7353,6 @@
       "onboard_time": 1748189781,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166685,
-      "num": 166685,
-      "word": "洪小铃产后首次露面",
-      "onboard_time": 1748437343,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 166619,
@@ -8339,14 +8355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149321,
-      "num": 346066,
-      "word": "荣耀新CEO李健国内首秀",
-      "onboard_time": 1748437642,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 148712,
       "num": 206652,
       "word": "陈德容笑称自己是娱乐圈活人",
@@ -8529,6 +8537,14 @@
       "onboard_time": 1748363419,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145288,
+      "num": 145288,
+      "word": "法网2025",
+      "onboard_time": 1748250201,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 145283,
@@ -8771,14 +8787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141578,
-      "num": 420875,
-      "word": "教授给学生挨个发信息号召回国",
-      "onboard_time": 1748433321,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141306,
       "num": 151261,
       "word": "倪夏莲谈国际乒坛局势",
@@ -9019,14 +9027,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 137989,
-      "num": 137989,
-      "word": "法网2025",
-      "onboard_time": 1748250201,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137880,
       "num": 329154,
       "word": "沙宝亮谈与肖战对手戏",
@@ -9233,6 +9233,14 @@
       "onboard_time": 1748136022,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134377,
+      "num": 134377,
+      "word": "大麦崩了",
+      "onboard_time": 1748439924,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 134132,
@@ -9724,7 +9732,7 @@
     },
     {
       "raw_hot": 127047,
-      "num": 130474,
+      "num": 234612,
       "word": "王楚钦多哈世乒赛男单冠军路",
       "onboard_time": 1748438063,
       "rank": 46,
@@ -9817,6 +9825,14 @@
       "onboard_time": 1748414661,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125536,
+      "num": 367599,
+      "word": "荣耀CEO李健发布会首发微博",
+      "onboard_time": 1748439443,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 125506,
@@ -10353,6 +10369,14 @@
       "onboard_time": 1748354604,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115192,
+      "num": 265344,
+      "word": "荣耀AI意图识别引擎行业领先",
+      "onboard_time": 1748439443,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 115013,
@@ -11121,6 +11145,14 @@
       "onboard_time": 1748312059,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98632,
+      "num": 170349,
+      "word": "吴谨言的家政秘籍藏不住了",
+      "onboard_time": 1748439443,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98577,
@@ -12747,12 +12779,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56701,
-      "num": 179394,
-      "word": "荣耀AI意图识别引擎行业领先",
-      "onboard_time": 1748439443,
-      "rank": 36,
-      "category": "互联网,数码"
+      "raw_hot": 56669,
+      "num": 407295,
+      "word": "马斯克对特朗普支出法案失望",
+      "onboard_time": 1748439503,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56658,
@@ -12948,7 +12980,7 @@
     },
     {
       "raw_hot": 52159,
-      "num": 228857,
+      "num": 246707,
       "word": "老人6700万房产被合伙人白菜价卖出",
       "onboard_time": 1748438721,
       "rank": 29,
@@ -12984,6 +13016,14 @@
       "word": "中介承诺付费2万元可进大厂实习",
       "onboard_time": 1748421022,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50783,
+      "num": 285661,
+      "word": "男子不满分手连杀两人潜逃11年被抓",
+      "onboard_time": 1748439023,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -13033,14 +13073,6 @@
       "onboard_time": 1748369414,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49296,
-      "num": 170001,
-      "word": "荣耀CEO李健发布会首发微博",
-      "onboard_time": 1748439443,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 49211,
@@ -13451,14 +13483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41509,
-      "num": 285661,
-      "word": "男子不满分手连杀两人潜逃11年被抓",
-      "onboard_time": 1748439023,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41112,
       "num": 247933,
       "word": "福建舰加紧海试释放出哪些信号",
@@ -13476,7 +13500,7 @@
     },
     {
       "raw_hot": 40869,
-      "num": 847095,
+      "num": 910696,
       "word": "中国成都国际非遗节",
       "onboard_time": 1748431822,
       "rank": 2,
@@ -14027,20 +14051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31332,
+      "num": 302918,
+      "word": "我们每个人都是这场青春的C位",
+      "onboard_time": 1748439263,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 31314,
       "num": 334138,
       "word": "李斯特菌在什么环境下容易滋生",
       "onboard_time": 1748233883,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 31148,
-      "num": 302918,
-      "word": "我们每个人都是这场青春的C位",
-      "onboard_time": 1748439263,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 30974,
@@ -14995,6 +15019,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 15538,
+      "num": 242513,
+      "word": "为自己的心动买单有错吗",
+      "onboard_time": 1748439383,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15330,
       "num": 287127,
       "word": "不要美化自己没走过的路",
@@ -15017,14 +15049,6 @@
       "onboard_time": 1748420481,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15151,
-      "num": 213278,
-      "word": "为自己的心动买单有错吗",
-      "onboard_time": 1748439383,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 15064,
@@ -15427,6 +15451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9347,
+      "num": 256374,
+      "word": "在博物馆拍照有哪些技巧",
+      "onboard_time": 1748439982,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 9220,
       "num": 193691,
       "word": "蹬三轮20年捐35万助学款",
@@ -15601,14 +15633,6 @@
       "onboard_time": 1748244080,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 4607,
-      "num": 129174,
-      "word": "吴谨言的家政秘籍藏不住了",
-      "onboard_time": 1748439443,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 3372,

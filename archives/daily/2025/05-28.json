@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748439472042,
+  "endTime": 1748440173085,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -27,6 +27,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1789038,
+      "num": 406376,
+      "word": "刘宇宁 锡纸抹胸",
+      "onboard_time": 1748438122,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1609253,
+      "num": 1609253,
+      "word": "没去芭莎的很幸运了",
+      "onboard_time": 1748436801,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1588791,
       "num": 1588791,
       "word": "无菌蛋 智商税",
@@ -40,14 +56,6 @@
       "word": "朱朱小桃官宣",
       "onboard_time": 1748421921,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1481431,
-      "num": 372763,
-      "word": "刘宇宁 锡纸抹胸",
-      "onboard_time": 1748438122,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -72,14 +80,6 @@
       "word": "鞠婧祎 蛇女",
       "onboard_time": 1748430860,
       "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1438255,
-      "num": 1438255,
-      "word": "没去芭莎的很幸运了",
-      "onboard_time": 1748436801,
-      "rank": 13,
       "category": "艺人,时尚"
     },
     {
@@ -163,6 +163,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 919862,
+      "num": 919862,
+      "word": "结婚4天就离男子获退18万彩礼",
+      "onboard_time": 1748435422,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 916139,
       "num": 916139,
       "word": "国际乒联致歉",
@@ -179,14 +187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 889082,
-      "num": 889082,
-      "word": "结婚4天就离男子获退18万彩礼",
-      "onboard_time": 1748435422,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 853055,
       "num": 853055,
       "word": "长月烬明又杀回来了",
@@ -201,6 +201,14 @@
       "onboard_time": 1748419101,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791462,
+      "num": 546844,
+      "word": "杨幂躲镜头",
+      "onboard_time": 1748437162,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 782337,
@@ -225,6 +233,14 @@
       "onboard_time": 1748396060,
       "rank": 15,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 768791,
+      "num": 504430,
+      "word": "藏海传24集 新的太子",
+      "onboard_time": 1748437522,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 761209,
@@ -259,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 745386,
-      "num": 546844,
-      "word": "杨幂躲镜头",
-      "onboard_time": 1748437162,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 737830,
       "num": 315433,
       "word": "SM就柳智敏ins争议道歉",
@@ -297,14 +305,6 @@
       "onboard_time": 1748434703,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717168,
-      "num": 410520,
-      "word": "藏海传24集 新的太子",
-      "onboard_time": 1748437522,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 698913,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407992,
+      "num": 407992,
+      "word": "芭莎内场",
+      "onboard_time": 1748435961,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 404464,
       "num": 404464,
       "word": "藏海传全面入侵我全家",
@@ -632,6 +640,14 @@
       "word": "武汉一网红大桥桥下被指圈起来收费",
       "onboard_time": 1748359521,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386699,
+      "num": 386699,
+      "word": "株洲母子车祸1死1伤案家属发声",
+      "onboard_time": 1748438603,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -657,14 +673,6 @@
       "onboard_time": 1748403802,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371857,
-      "num": 371857,
-      "word": "芭莎内场",
-      "onboard_time": 1748435961,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 371848,
@@ -713,6 +721,14 @@
       "onboard_time": 1748392402,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335482,
+      "num": 352101,
+      "word": "卫生巾 妇科感染",
+      "onboard_time": 1748435121,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335145,
@@ -801,14 +817,6 @@
       "onboard_time": 1748400261,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 283254,
-      "num": 352101,
-      "word": "卫生巾 妇科感染",
-      "onboard_time": 1748435121,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278981,
@@ -1091,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217988,
-      "num": 338050,
-      "word": "株洲母子车祸1死1伤案家属发声",
-      "onboard_time": 1748438603,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "朴槿惠力挺韩国总统候选人金文洙",
@@ -1225,6 +1225,14 @@
       "onboard_time": 1748423780,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200505,
+      "num": 357650,
+      "word": "荣耀新CEO李健国内首秀",
+      "onboard_time": 1748437642,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 200305,
@@ -1627,6 +1635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171602,
+      "num": 420875,
+      "word": "教授给学生挨个发信息号召回国",
+      "onboard_time": 1748433321,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170978,
       "num": 170978,
       "word": "大雍平账仙人",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1748404463,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169626,
+      "num": 169626,
+      "word": "洪小铃产后首次露面",
+      "onboard_time": 1748437343,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 169610,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1748436501,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166685,
-      "num": 166685,
-      "word": "洪小铃产后首次露面",
-      "onboard_time": 1748437343,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 166182,
@@ -1907,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149321,
-      "num": 346066,
-      "word": "荣耀新CEO李健国内首秀",
-      "onboard_time": 1748437642,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 148842,
       "num": 148842,
       "word": "鹿晗演唱会",
@@ -1971,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145288,
+      "num": 145288,
+      "word": "法网2025",
+      "onboard_time": 1748439323,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143879,
       "num": 298767,
       "word": "中国奥委会发文回顾马龙获复刻杯",
@@ -1993,14 +2009,6 @@
       "onboard_time": 1748402181,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141578,
-      "num": 420875,
-      "word": "教授给学生挨个发信息号召回国",
-      "onboard_time": 1748433321,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140928,
@@ -2091,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134377,
+      "num": 134377,
+      "word": "大麦崩了",
+      "onboard_time": 1748439924,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132369,
       "num": 132369,
       "word": "99元Labubu隐藏款被炒至2600元",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1748415260,
       "rank": 44,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 131617,
-      "num": 131617,
-      "word": "法网2025",
-      "onboard_time": 1748439323,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 130873,
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 127047,
-      "num": 130474,
+      "num": 234612,
       "word": "王楚钦多哈世乒赛男单冠军路",
       "onboard_time": 1748438063,
       "rank": 46,
@@ -2185,6 +2193,14 @@
       "onboard_time": 1748414661,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125536,
+      "num": 367599,
+      "word": "荣耀CEO李健发布会首发微博",
+      "onboard_time": 1748439443,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 124802,
@@ -2337,6 +2353,14 @@
       "onboard_time": 1748326643,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115192,
+      "num": 265344,
+      "word": "荣耀AI意图识别引擎行业领先",
+      "onboard_time": 1748439443,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 114997,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1748416641,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98632,
+      "num": 170349,
+      "word": "吴谨言的家政秘籍藏不住了",
+      "onboard_time": 1748439443,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98577,
@@ -3011,12 +3043,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56701,
-      "num": 179394,
-      "word": "荣耀AI意图识别引擎行业领先",
-      "onboard_time": 1748439443,
-      "rank": 36,
-      "category": "互联网,数码"
+      "raw_hot": 56669,
+      "num": 407295,
+      "word": "马斯克对特朗普支出法案失望",
+      "onboard_time": 1748439503,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55897,
@@ -3060,7 +3092,7 @@
     },
     {
       "raw_hot": 52159,
-      "num": 228857,
+      "num": 246707,
       "word": "老人6700万房产被合伙人白菜价卖出",
       "onboard_time": 1748438721,
       "rank": 29,
@@ -3072,6 +3104,14 @@
       "word": "中介承诺付费2万元可进大厂实习",
       "onboard_time": 1748421022,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50783,
+      "num": 285661,
+      "word": "男子不满分手连杀两人潜逃11年被抓",
+      "onboard_time": 1748439023,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -3105,14 +3145,6 @@
       "onboard_time": 1748369414,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49296,
-      "num": 170001,
-      "word": "荣耀CEO李健发布会首发微博",
-      "onboard_time": 1748439443,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 48182,
@@ -3219,16 +3251,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 41509,
-      "num": 285661,
-      "word": "男子不满分手连杀两人潜逃11年被抓",
-      "onboard_time": 1748439023,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40869,
-      "num": 847095,
+      "num": 910696,
       "word": "中国成都国际非遗节",
       "onboard_time": 1748431822,
       "rank": 2,
@@ -3435,7 +3459,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31148,
+      "raw_hot": 31332,
       "num": 302918,
       "word": "我们每个人都是这场青春的C位",
       "onboard_time": 1748439263,
@@ -3659,20 +3683,20 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 15538,
+      "num": 242513,
+      "word": "为自己的心动买单有错吗",
+      "onboard_time": 1748439383,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15160,
       "num": 273190,
       "word": "小伙街头救助倒地老人",
       "onboard_time": 1748420481,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15151,
-      "num": 213278,
-      "word": "为自己的心动买单有错吗",
-      "onboard_time": 1748439383,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 15019,
@@ -3771,6 +3795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9347,
+      "num": 256374,
+      "word": "在博物馆拍照有哪些技巧",
+      "onboard_time": 1748439982,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 9219,
       "num": 158223,
       "word": "外国女婿已掌握省钱精髓",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1748272763,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4607,
-      "num": 129174,
-      "word": "吴谨言的家政秘籍藏不住了",
-      "onboard_time": 1748439443,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 3372,
