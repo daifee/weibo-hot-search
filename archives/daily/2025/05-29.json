@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748467444610,
+  "endTime": 1748468321981,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155978,
+      "num": 191692,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140875,
       "num": 120387,
       "word": "折腰弹幕",
@@ -249,14 +257,6 @@
       "onboard_time": 1748446402,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131415,
-      "num": 140627,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130867,
@@ -483,12 +483,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24731,
+      "num": 21752,
+      "word": "覃海洋回应张雨霏称他是卷王",
+      "onboard_time": 1748465294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22879,
+      "num": 22879,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22369,
       "num": 22369,
       "word": "张云雷民谣新歌独木",
       "onboard_time": 1748457675,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22008,
+      "num": 22896,
+      "word": "68岁老汉称在等国家发的老婆",
+      "onboard_time": 1748460434,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21888,
+      "num": 21888,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20458,
@@ -499,44 +531,12 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 19734,
-      "num": 19734,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19571,
-      "num": 19571,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19474,
       "num": 22897,
       "word": "提拉米苏",
       "onboard_time": 1748458875,
       "rank": 37,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 19380,
-      "num": 19167,
-      "word": "覃海洋回应张雨霏称他是卷王",
-      "onboard_time": 1748465294,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 19140,
-      "num": 22896,
-      "word": "68岁老汉称在等国家发的老婆",
-      "onboard_time": 1748460434,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18543,
@@ -555,12 +555,28 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 15337,
-      "num": 15337,
+      "raw_hot": 17215,
+      "num": 17215,
       "word": "BBC采访广东小伙被种草中国锅",
       "onboard_time": 1748465234,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16996,
+      "num": 16996,
+      "word": "在李昀锐旁边沙溢都眉清目秀了",
+      "onboard_time": 1748466494,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15507,
+      "num": 15507,
+      "word": "自我接纳",
+      "onboard_time": 1748454975,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 15043,
@@ -571,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14991,
-      "num": 14991,
-      "word": "自我接纳",
-      "onboard_time": 1748454975,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 13823,
       "num": 22894,
       "word": "五月天杭州",
@@ -587,12 +595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13677,
-      "num": 14045,
-      "word": "在李昀锐旁边沙溢都眉清目秀了",
-      "onboard_time": 1748466494,
+      "raw_hot": 13700,
+      "num": 15105,
+      "word": "梁小静亚锦赛女子100米夺冠",
+      "onboard_time": 1748468294,
       "rank": 49,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 13072,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748467444610,
+  "endTime": 1748468321981,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -8299,6 +8299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155978,
+      "num": 191692,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "2万4买香奈儿连衣裙能否7折回收",
@@ -9841,14 +9849,6 @@
       "onboard_time": 1748156062,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131415,
-      "num": 140627,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131315,
@@ -15115,6 +15115,14 @@
       "category": "休闲,数码"
     },
     {
+      "raw_hot": 24731,
+      "num": 21752,
+      "word": "覃海洋回应张雨霏称他是卷王",
+      "onboard_time": 1748465294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24435,
       "num": 338404,
       "word": "蜗牛壳上为什么会长蜂窝",
@@ -15259,6 +15267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22879,
+      "num": 22879,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22682,
       "num": 22682,
       "word": "徐明浩Skyfall风格",
@@ -15296,6 +15312,22 @@
       "word": "AI大模型拿用户隐私威胁人类",
       "onboard_time": 1748417240,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22008,
+      "num": 22896,
+      "word": "68岁老汉称在等国家发的老婆",
+      "onboard_time": 1748460434,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21888,
+      "num": 21888,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -15443,28 +15475,12 @@
       "category": "美妆,互联网"
     },
     {
-      "raw_hot": 19734,
-      "num": 19734,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19673,
       "num": 290183,
       "word": "马来西亚西瓜汁有何独特制作工艺",
       "onboard_time": 1748143040,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 19571,
-      "num": 19571,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19567,
@@ -15491,28 +15507,12 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 19380,
-      "num": 19167,
-      "word": "覃海洋回应张雨霏称他是卷王",
-      "onboard_time": 1748465294,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19258,
       "num": 131731,
       "word": "如何正确做到自我接纳",
       "onboard_time": 1748415742,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19140,
-      "num": 22896,
-      "word": "68岁老汉称在等国家发的老婆",
-      "onboard_time": 1748460434,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19070,
@@ -15627,6 +15627,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17215,
+      "num": 17215,
+      "word": "BBC采访广东小伙被种草中国锅",
+      "onboard_time": 1748465234,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16996,
+      "num": 16996,
+      "word": "在李昀锐旁边沙溢都眉清目秀了",
+      "onboard_time": 1748466494,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16976,
       "num": 360363,
       "word": "重庆菜园坝火车站有怎样的历史地位",
@@ -15723,12 +15739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15337,
-      "num": 15337,
-      "word": "BBC采访广东小伙被种草中国锅",
-      "onboard_time": 1748465234,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 15507,
+      "num": 15507,
+      "word": "自我接纳",
+      "onboard_time": 1748454975,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 15330,
@@ -15785,14 +15801,6 @@
       "onboard_time": 1748430439,
       "rank": 41,
       "category": "互联网,游戏"
-    },
-    {
-      "raw_hot": 14991,
-      "num": 14991,
-      "word": "自我接纳",
-      "onboard_time": 1748454975,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 14965,
@@ -15883,12 +15891,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13677,
-      "num": 14045,
-      "word": "在李昀锐旁边沙溢都眉清目秀了",
-      "onboard_time": 1748466494,
+      "raw_hot": 13700,
+      "num": 15105,
+      "word": "梁小静亚锦赛女子100米夺冠",
+      "onboard_time": 1748468294,
       "rank": 49,
-      "category": "综艺"
+      "category": "体育"
     },
     {
       "raw_hot": 13497,
