@@ -1,10 +1,10 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748414186533,
+  "endTime": 1748415042946,
   "band_list": [
     {
       "raw_hot": 2186954,
-      "num": 784484,
+      "num": 787096,
       "word": "鹿晗ins晒与山下智久合照",
       "onboard_time": 1748405422,
       "rank": 3,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 811587,
+      "num": 811587,
+      "word": "瘦5斤需要1个月 胖5斤却只要5天",
+      "onboard_time": 1748409321,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 782337,
       "num": 782337,
       "word": "高校教师迟到1分钟被认定教学事故",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 737830,
-      "num": 222981,
+      "num": 308391,
       "word": "SM就柳智敏ins争议道歉",
       "onboard_time": 1748412621,
       "rank": 11,
@@ -185,14 +193,6 @@
       "onboard_time": 1748358622,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 595567,
-      "num": 595567,
-      "word": "瘦5斤需要1个月 胖5斤却只要5天",
-      "onboard_time": 1748409321,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 573433,
@@ -291,6 +291,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 465343,
+      "num": 465343,
+      "word": "无菌蛋 智商税",
+      "onboard_time": 1748413459,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 450009,
       "num": 357739,
       "word": "内娱最权威的四张撕拉片",
@@ -307,12 +315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424377,
+      "num": 228413,
+      "word": "爱情公寓主演16年后现状",
+      "onboard_time": 1748413161,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416235,
       "num": 266240,
       "word": "戛纳偶遇刘亦菲吃越南粉",
       "onboard_time": 1748387058,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404464,
+      "num": 404464,
+      "word": "藏海传全面入侵我全家",
+      "onboard_time": 1748409860,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 399286,
@@ -353,14 +377,6 @@
       "onboard_time": 1748407103,
       "rank": 20,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 363910,
-      "num": 363910,
-      "word": "藏海传全面入侵我全家",
-      "onboard_time": 1748409860,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 354950,
@@ -451,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285792,
-      "num": 208285,
-      "word": "爱情公寓主演16年后现状",
-      "onboard_time": 1748413161,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284796,
       "num": 335751,
       "word": "浪胃仙再复更",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 274572,
-      "num": 205689,
+      "num": 236273,
       "word": "黄景瑜 跟你跳troublemaker的那个",
       "onboard_time": 1748412022,
       "rank": 23,
@@ -617,6 +625,14 @@
       "onboard_time": 1748352264,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215386,
+      "num": 215386,
+      "word": "落马官员只收高档烟酒称不算受贿",
+      "onboard_time": 1748412980,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 215102,
@@ -795,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181502,
-      "num": 181502,
-      "word": "无菌蛋 智商税",
-      "onboard_time": 1748413459,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "雷军晒玄戒O1纪念品",
@@ -899,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168858,
+      "num": 168858,
+      "word": "原神5.6",
+      "onboard_time": 1748414661,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168742,
       "num": 216481,
       "word": "蛮蛮一劭这下是真圆房了",
@@ -929,6 +945,14 @@
       "onboard_time": 1748401221,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158867,
+      "num": 158867,
+      "word": "第一个拍撕拉片的纸片人",
+      "onboard_time": 1748414781,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 158219,
@@ -976,6 +1000,14 @@
       "word": "马龙2年前举起复刻杯",
       "onboard_time": 1748401881,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153135,
+      "num": 153135,
+      "word": "王楚钦球拍受损事件依然等待回应",
+      "onboard_time": 1748414360,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1051,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146112,
+      "num": 224884,
+      "word": "癌症遗传概率有多高",
+      "onboard_time": 1748411420,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145304,
       "num": 145304,
       "word": "Deadman",
@@ -1099,20 +1139,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137311,
+      "num": 229442,
+      "word": "孟子义给汪峰卸妆徐志胜唱春天里",
+      "onboard_time": 1748414240,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "狗 真是见了鬼了",
       "onboard_time": 1748407462,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135296,
-      "num": 135296,
-      "word": "癌症遗传概率有多高",
-      "onboard_time": 1748411420,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129870,
@@ -1139,12 +1179,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 125646,
+      "num": 125646,
+      "word": "电影超人定档",
+      "onboard_time": 1748414661,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123190,
       "num": 123190,
       "word": "特朗普为加拿大加入金穹开价610亿美元",
       "onboard_time": 1748399601,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122718,
+      "num": 122718,
+      "word": "光夜全新live2d互动系统",
+      "onboard_time": 1748415020,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122544,
@@ -1179,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119250,
+      "num": 119250,
+      "word": "梦之队烟花氛围大片",
+      "onboard_time": 1748414480,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118033,
       "num": 118033,
       "word": "月薪3万NPC岗位超百人报名只招1人",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1748384236,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116624,
+      "num": 220795,
+      "word": "请问这场龙舟赛的终点设在龙宫吗",
+      "onboard_time": 1748412921,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116586,
@@ -1225,14 +1297,6 @@
       "onboard_time": 1748326643,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114562,
-      "num": 220795,
-      "word": "请问这场龙舟赛的终点设在龙宫吗",
-      "onboard_time": 1748412921,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114255,
@@ -1368,6 +1432,14 @@
       "word": "体育局回应男子滑翔伞被吸至8千米高空",
       "onboard_time": 1748361201,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101092,
+      "num": 364445,
+      "word": "异瞳治沙小伙爆红后现状",
+      "onboard_time": 1748414120,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1619,14 +1691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72579,
-      "num": 136755,
-      "word": "异瞳治沙小伙爆红后现状",
-      "onboard_time": 1748414120,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70632,
       "num": 118088,
       "word": "孩子自信的5种表现",
@@ -1636,7 +1700,7 @@
     },
     {
       "raw_hot": 70518,
-      "num": 215483,
+      "num": 234634,
       "word": "真正的618从30日开启",
       "onboard_time": 1748412379,
       "rank": 16,
@@ -1731,14 +1795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58512,
-      "num": 211503,
-      "word": "落马官员只收高档烟酒称不算受贿",
-      "onboard_time": 1748412980,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "现货黄金跌破3320",
@@ -1756,7 +1812,7 @@
     },
     {
       "raw_hot": 55897,
-      "num": 217506,
+      "num": 234950,
       "word": "时代少年团大巴报名系统崩了",
       "onboard_time": 1748411540,
       "rank": 15,
@@ -1843,6 +1899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42524,
+      "num": 230648,
+      "word": "专家详解AI首次抗命",
+      "onboard_time": 1748413821,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42392,
       "num": 354298,
       "word": "端午节悬挂艾草能起到什么作用",
@@ -1875,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37384,
+      "num": 176787,
+      "word": "用隔夜绿茶洗头能缓解脱发问题吗",
+      "onboard_time": 1748414841,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 36107,
       "num": 36107,
       "word": "特朗普考虑撤回哈佛30亿美元拨款",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1748343681,
       "rank": 44,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 35757,
+      "num": 232837,
+      "word": "饮食是怎么改变皮肤状态的",
+      "onboard_time": 1748414541,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32704,
@@ -1971,14 +2051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 20820,
-      "num": 213297,
-      "word": "专家详解AI首次抗命",
-      "onboard_time": 1748413821,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20809,
       "num": 20719,
       "word": "郑恺张真源打网球",
@@ -2040,6 +2112,14 @@
       "word": "江南华南新一轮强降水来了",
       "onboard_time": 1748410521,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10453,
+      "num": 795224,
+      "word": "跨越75年的文艺对话",
+      "onboard_time": 1748414541,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
