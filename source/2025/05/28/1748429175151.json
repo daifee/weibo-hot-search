@@ -1,0 +1,410 @@
+{
+  "runTime": 1748429175151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907768,
+        "num": 1145242,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687838,
+        "num": 687838,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 33164,
+        "num": 602199,
+        "word": "高质量发展看能源",
+        "onboard_time": 1748427082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 880040,
+        "num": 572649,
+        "word": "猪油渣",
+        "onboard_time": 1748422101,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 840657,
+        "num": 558675,
+        "word": "韩红的压力已经给到内娱了",
+        "onboard_time": 1748424562,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523787,
+        "num": 523787,
+        "word": "袭榜歌手 NEYO",
+        "onboard_time": 1748425941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485579,
+        "num": 485579,
+        "word": "台当局要求陆配提供丧失原籍证明",
+        "onboard_time": 1748422882,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 459380,
+        "num": 459380,
+        "word": "藏海传IMDB开分9.1",
+        "onboard_time": 1748424920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436571,
+        "num": 436571,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77662,
+        "num": 385542,
+        "word": "以军向加沙食物分发点人群附近开枪",
+        "onboard_time": 1748428160,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 623710,
+        "num": 385487,
+        "word": "朱朱小桃官宣",
+        "onboard_time": 1748421921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385285,
+        "num": 385285,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 334166,
+        "num": 334166,
+        "word": "医生称7成妇科感染与卫生巾有关",
+        "onboard_time": 1748418081,
+        "rank": 12,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 117467,
+        "num": 310583,
+        "word": "小鹏MONA发布会太会玩了",
+        "onboard_time": 1748427140,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303245,
+        "num": 303245,
+        "word": "方时赫被移送检方",
+        "onboard_time": 1748427981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291538,
+        "num": 291538,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259768,
+        "num": 259768,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 245338,
+        "num": 245338,
+        "word": "丈夫伪造车祸杀妻因太冷静被识破",
+        "onboard_time": 1748419101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238672,
+        "num": 245303,
+        "word": "明星时尚芭莎盛典出图",
+        "onboard_time": 1748425220,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32393,
+        "num": 245289,
+        "word": "轻断食前应该注意什么",
+        "onboard_time": 1748428280,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245289,
+        "num": 245288,
+        "word": "擅自发祁连山滑翔视频飞行员被停飞",
+        "onboard_time": 1748421321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210485,
+        "num": 210485,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190238,
+        "num": 190238,
+        "word": "时尚芭莎盛典直播",
+        "onboard_time": 1748426001,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 180420,
+        "num": 180420,
+        "word": "OOTD",
+        "onboard_time": 1748428521,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152237,
+        "num": 178401,
+        "word": "陷入我们的热恋云包场",
+        "onboard_time": 1748427261,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430557,
+        "num": 176372,
+        "word": "叶舒华为成都遇害女生发声",
+        "onboard_time": 1748420661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10951,
+        "num": 171835,
+        "word": "校长食堂用餐遇可爱一幕",
+        "onboard_time": 1748428882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36176,
+        "num": 168268,
+        "word": "加沙医生一天内目睹上百人死亡",
+        "onboard_time": 1748427800,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13305,
+        "num": 166502,
+        "word": "不建议空腹吃荔枝的原因是什么",
+        "onboard_time": 1748428280,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 9752,
+        "num": 162489,
+        "word": "邻居留两米路方便他人出行",
+        "onboard_time": 1748428941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161119,
+        "num": 161119,
+        "word": "AD钙奶",
+        "onboard_time": 1748417120,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151100,
+        "num": 151100,
+        "word": "女子走私2000余本淫秽漫画获刑",
+        "onboard_time": 1748427800,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147303,
+        "num": 147303,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146989,
+        "num": 146989,
+        "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+        "onboard_time": 1748416521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112323,
+        "num": 143030,
+        "word": "周杰伦没出新专辑出了新吧唧",
+        "onboard_time": 1748428821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142124,
+        "num": 142124,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134854,
+        "num": 134854,
+        "word": "村民希望博物馆提供石狮来源信息",
+        "onboard_time": 1748426601,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127654,
+        "num": 127654,
+        "word": "乒超",
+        "onboard_time": 1748429061,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36538,
+        "num": 127491,
+        "word": "不要随便给陌生人开门",
+        "onboard_time": 1748427501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127415,
+        "num": 127415,
+        "word": "药企遭举报贿赂多家医院超百位医生",
+        "onboard_time": 1748425282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120393,
+        "num": 120393,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119697,
+        "num": 119697,
+        "word": "谁还敢叫刘晓艳爷爷",
+        "onboard_time": 1748428941,
+        "rank": 41,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 114179,
+        "num": 114179,
+        "word": "马斯克称政府效率部成华盛顿替罪羊",
+        "onboard_time": 1748424323,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111482,
+        "num": 111482,
+        "word": "重庆发生脚手架垮塌事故",
+        "onboard_time": 1748427559,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110637,
+        "num": 110637,
+        "word": "作家刘楚昕获奖后追忆已故女友",
+        "onboard_time": 1748422761,
+        "rank": 44,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 109511,
+        "num": 109511,
+        "word": "去年剩的防晒霜今年还能用吗",
+        "onboard_time": 1748415079,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105767,
+        "num": 105767,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103613,
+        "num": 103613,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9219,
+        "num": 101109,
+        "word": "外国女婿已掌握省钱精髓",
+        "onboard_time": 1748426542,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 99936,
+        "num": 99936,
+        "word": "鞠婧祎芭莎年度派对造型",
+        "onboard_time": 1748426121,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
