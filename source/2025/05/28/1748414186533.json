@@ -1,0 +1,410 @@
+{
+  "runTime": 1748414186533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937434,
+        "num": 1149989,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595567,
+        "num": 595567,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 32045,
+        "num": 484039,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839070,
+        "num": 482894,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480012,
+        "num": 480012,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 452173,
+        "num": 452173,
+        "word": "武汉警方通报11岁男孩小区坠亡",
+        "onboard_time": 1748403742,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 363910,
+        "num": 363910,
+        "word": "藏海传全面入侵我全家",
+        "onboard_time": 1748409860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318151,
+        "num": 318151,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299513,
+        "num": 299513,
+        "word": "被李子柒的植物染紫色长裙美翻",
+        "onboard_time": 1748406984,
+        "rank": 8,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 225405,
+        "num": 225405,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1428537,
+        "num": 225118,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 737830,
+        "num": 222981,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501119,
+        "num": 221711,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114562,
+        "num": 220795,
+        "word": "请问这场龙舟赛的终点设在龙宫吗",
+        "onboard_time": 1748412921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427023,
+        "num": 218507,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55897,
+        "num": 217506,
+        "word": "时代少年团大巴报名系统崩了",
+        "onboard_time": 1748411540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70518,
+        "num": 215483,
+        "word": "真正的618从30日开启",
+        "onboard_time": 1748412379,
+        "rank": 16,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 192129,
+        "num": 214249,
+        "word": "岳云鹏新剧演男模",
+        "onboard_time": 1748412861,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 213297,
+        "word": "专家详解AI首次抗命",
+        "onboard_time": 1748413821,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58512,
+        "num": 211503,
+        "word": "落马官员只收高档烟酒称不算受贿",
+        "onboard_time": 1748412980,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 409818,
+        "num": 210471,
+        "word": "月薪1万5的保姆自制炸鸡全家桶",
+        "onboard_time": 1748405782,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285792,
+        "num": 208285,
+        "word": "爱情公寓主演16年后现状",
+        "onboard_time": 1748413161,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276801,
+        "num": 207128,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274572,
+        "num": 205689,
+        "word": "黄景瑜 跟你跳troublemaker的那个",
+        "onboard_time": 1748412022,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65984,
+        "num": 204550,
+        "word": "A股放量419亿",
+        "onboard_time": 1748410101,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203302,
+        "num": 203302,
+        "word": "金价",
+        "onboard_time": 1748392162,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196956,
+        "num": 196956,
+        "word": "人果然不能随便辞职",
+        "onboard_time": 1748396060,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 194029,
+        "num": 194029,
+        "word": "黄晓明谁让你这么捯饬自己的",
+        "onboard_time": 1748410581,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191647,
+        "num": 191647,
+        "word": "这居然是蔡徐坤的歌",
+        "onboard_time": 1748407941,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45526,
+        "num": 189117,
+        "word": "软色情语音厅围猎未成年人",
+        "onboard_time": 1748413701,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187483,
+        "num": 187483,
+        "word": "杜淳妻子声援家门口遇害女生",
+        "onboard_time": 1748407103,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 78336,
+        "num": 181707,
+        "word": "藏海传超绝情头诞生",
+        "onboard_time": 1748412141,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181502,
+        "num": 181502,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169531,
+        "num": 169531,
+        "word": "不论男女 到22岁就分一套房",
+        "onboard_time": 1748395822,
+        "rank": 33,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 152604,
+        "num": 152604,
+        "word": "终于有恋综把丑话都说在了前面",
+        "onboard_time": 1748413642,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150543,
+        "num": 150543,
+        "word": "男子看诈骗新闻惊觉自己被女友骗",
+        "onboard_time": 1748408481,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95116,
+        "num": 147894,
+        "word": "低能量的人上班是这样的",
+        "onboard_time": 1748411661,
+        "rank": 36,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 146683,
+        "num": 146683,
+        "word": "肖战藏海水下镜头",
+        "onboard_time": 1748412980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72579,
+        "num": 136755,
+        "word": "异瞳治沙小伙爆红后现状",
+        "onboard_time": 1748414120,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135296,
+        "num": 135296,
+        "word": "癌症遗传概率有多高",
+        "onboard_time": 1748411420,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132781,
+        "num": 132781,
+        "word": "48岁再婚女子怀孕以为是绝经发福",
+        "onboard_time": 1748392103,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131042,
+        "num": 131042,
+        "word": "法国军方首次回应阵风战机疑被击落",
+        "onboard_time": 1748403141,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126032,
+        "num": 126032,
+        "word": "冯小刚徐帆养女徐朵高中毕业",
+        "onboard_time": 1748398460,
+        "rank": 42,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 122720,
+        "num": 122720,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112965,
+        "num": 112965,
+        "word": "张凌赫你也知道自己很帅吧",
+        "onboard_time": 1748411302,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 112372,
+        "word": "刘若英点歌",
+        "onboard_time": 1748406743,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106959,
+        "num": 106959,
+        "word": "这种剧不用去网飞看了",
+        "onboard_time": 1748412379,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106577,
+        "num": 106577,
+        "word": "携致癌基因男子捐精育出67个孩子",
+        "onboard_time": 1748389339,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106111,
+        "num": 106111,
+        "word": "白敬亭直播",
+        "onboard_time": 1748411721,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100356,
+        "num": 100356,
+        "word": "恋爱兄妹收官",
+        "onboard_time": 1748410042,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
