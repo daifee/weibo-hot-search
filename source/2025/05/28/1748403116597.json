@@ -1,0 +1,410 @@
+{
+  "runTime": 1748403116597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1082740,
+        "num": 1173238,
+        "word": "不论男女 到22岁就分一套房",
+        "onboard_time": 1748395822,
+        "rank": 0,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 904819,
+        "num": 904819,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67129,
+        "num": 701244,
+        "word": "粽子海外订单爆了",
+        "onboard_time": 1748402301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614540,
+        "num": 614540,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509270,
+        "num": 509270,
+        "word": "孙颖莎代言妮维雅",
+        "onboard_time": 1748401160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428441,
+        "num": 428441,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409571,
+        "num": 409571,
+        "word": "李昀锐黑脸",
+        "onboard_time": 1748393541,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332047,
+        "num": 332047,
+        "word": "金价",
+        "onboard_time": 1748392162,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321933,
+        "num": 321933,
+        "word": "藏海传央八收视率第一",
+        "onboard_time": 1748401521,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75399,
+        "num": 320543,
+        "word": "美考虑审查所有留学生社交媒体",
+        "onboard_time": 1748402362,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1234215,
+        "num": 319269,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256216,
+        "num": 317994,
+        "word": "内娱85花人美吧唧也美",
+        "onboard_time": 1748400922,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 216150,
+        "num": 316256,
+        "word": "哈利波特",
+        "onboard_time": 1748392402,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197405,
+        "num": 315112,
+        "word": "陈妍希回应藏海传面具人身份",
+        "onboard_time": 1748392882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32663,
+        "num": 313345,
+        "word": "高密化工厂爆炸震塌5公里外天花板",
+        "onboard_time": 1748402483,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60443,
+        "num": 312490,
+        "word": "源头美白的国货代表",
+        "onboard_time": 1748402660,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 72236,
+        "num": 311003,
+        "word": "淘淘氧棉守护女性健康",
+        "onboard_time": 1748401521,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122544,
+        "num": 308653,
+        "word": "益生菌到底是治腹泻还是治便秘",
+        "onboard_time": 1748402601,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11269,
+        "num": 307703,
+        "word": "端午极阳水是什么时候的水",
+        "onboard_time": 1748402483,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 54047,
+        "num": 305990,
+        "word": "日常中哪些食物更容易引发糖尿病",
+        "onboard_time": 1748401341,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 688748,
+        "num": 305227,
+        "word": "人果然不能随便辞职",
+        "onboard_time": 1748396060,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 657231,
+        "num": 303476,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208175,
+        "num": 301638,
+        "word": "白鹿进组莫离了",
+        "onboard_time": 1748400082,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196526,
+        "num": 299614,
+        "word": "小乔魏劭慈父严母",
+        "onboard_time": 1748402421,
+        "rank": 23,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 124724,
+        "num": 298767,
+        "word": "中国奥委会发文回顾马龙获复刻杯",
+        "onboard_time": 1748401281,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106134,
+        "num": 296520,
+        "word": "京东官宣又发新补贴",
+        "onboard_time": 1748401221,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30445,
+        "num": 296379,
+        "word": "男子扮富二代租迈巴赫配合团伙盗车",
+        "onboard_time": 1748402843,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74363,
+        "num": 294081,
+        "word": "为什么讨厌一个人会感到很痛苦",
+        "onboard_time": 1748402181,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97869,
+        "num": 292548,
+        "word": "判断同事是不是小人的四个细节",
+        "onboard_time": 1748401341,
+        "rank": 28,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 108609,
+        "num": 291497,
+        "word": "重庆通报爆破后周边房屋被曝有裂缝",
+        "onboard_time": 1748402362,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 575729,
+        "num": 290199,
+        "word": "冯小刚徐帆养女徐朵高中毕业",
+        "onboard_time": 1748398460,
+        "rank": 30,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 374235,
+        "num": 287957,
+        "word": "携致癌基因男子捐精育出67个孩子",
+        "onboard_time": 1748389339,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287423,
+        "num": 287423,
+        "word": "48岁再婚女子怀孕以为是绝经发福",
+        "onboard_time": 1748392103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138650,
+        "num": 283427,
+        "word": "何小鹏透露MONA智驾比肩友商50万旗舰车",
+        "onboard_time": 1748401701,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 283333,
+        "num": 283333,
+        "word": "特朗普政府已暂停留学生新签证面谈",
+        "onboard_time": 1748390060,
+        "rank": 34,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 266199,
+        "num": 266199,
+        "word": "浪胃仙再复更",
+        "onboard_time": 1748400261,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249964,
+        "num": 249964,
+        "word": "快递员回应两次为同一人捐骨髓",
+        "onboard_time": 1748400021,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196593,
+        "num": 196593,
+        "word": "哈利伯顿也能骑着扫帚飞",
+        "onboard_time": 1748402781,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73553,
+        "num": 188667,
+        "word": "兴业银行存千万换实习暂停",
+        "onboard_time": 1748402962,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176891,
+        "num": 184233,
+        "word": "叶舒华时隔一年更新称心痛不已",
+        "onboard_time": 1748401041,
+        "rank": 39,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 182367,
+        "num": 182367,
+        "word": "步行者拿到东决冠军点",
+        "onboard_time": 1748402241,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101817,
+        "num": 148379,
+        "word": "索林回应国际乒联选举闹剧",
+        "onboard_time": 1748403081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148300,
+        "num": 148300,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1748396122,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "跑男团为郑恺张真源庆生",
+        "onboard_time": 1748400860,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 142970,
+        "num": 142970,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141698,
+        "num": 141698,
+        "word": "陈昊宇新专辑",
+        "onboard_time": 1748402181,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139289,
+        "num": 139289,
+        "word": "专项整治保健品市场坑老骗老行为",
+        "onboard_time": 1748399601,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136393,
+        "num": 136393,
+        "word": "马龙2年前举起复刻杯",
+        "onboard_time": 1748401881,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126001,
+        "num": 126001,
+        "word": "翘楚",
+        "onboard_time": 1748397562,
+        "rank": 48,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 123190,
+        "num": 123190,
+        "word": "特朗普为加拿大加入金穹开价610亿美元",
+        "onboard_time": 1748399601,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
