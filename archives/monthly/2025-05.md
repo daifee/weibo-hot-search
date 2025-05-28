@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/28 21:49:33
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/28 22:27:16
 </p>
 </blockquote>
 <p>
@@ -6749,6 +6749,12 @@ Angelababy眼睫碎钻（热度：792754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A5%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BB%AC%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90%23%23" target="weibo">
 #习近平祝小朋友们节日快乐#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%8E%A8%E5%8A%A8%E5%B0%91%E5%85%88%E9%98%9F%E4%BA%8B%E4%B8%9A%E4%B8%8D%E6%96%AD%E5%8F%96%E5%BE%97%E6%96%B0%E6%88%90%E7%BB%A9%23%23" target="weibo">
+#推动少先队事业不断取得新成绩#
 </a>
 </li>
 

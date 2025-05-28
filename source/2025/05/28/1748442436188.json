@@ -1,0 +1,410 @@
+{
+  "runTime": 1748442436188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1568675,
+        "num": 1568675,
+        "word": "没去芭莎的很幸运了",
+        "onboard_time": 1748436801,
+        "rank": 0,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 727390,
+        "num": 727390,
+        "word": "株洲母子车祸1死1伤案家属发声",
+        "onboard_time": 1748438603,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69713,
+        "num": 643186,
+        "word": "端午气氛组强势上线",
+        "onboard_time": 1748441003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 778381,
+        "num": 618532,
+        "word": "藏海传24集 新的太子",
+        "onboard_time": 1748437522,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589915,
+        "num": 589915,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439174,
+        "num": 439174,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770799,
+        "num": 438907,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 694082,
+        "num": 425316,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 611072,
+        "num": 422072,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 407155,
+        "num": 407155,
+        "word": "总监降职为前台公司被判赔26万",
+        "onboard_time": 1748440763,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1242238,
+        "num": 400538,
+        "word": "刘宇宁 锡纸抹胸",
+        "onboard_time": 1748438122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549451,
+        "num": 383023,
+        "word": "结婚4天就离男子获退18万彩礼",
+        "onboard_time": 1748435422,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537393,
+        "num": 341675,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 452958,
+        "num": 338810,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48805,
+        "num": 318921,
+        "word": "男子与被告同名同姓被执行还陌生人钱",
+        "onboard_time": 1748441482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297125,
+        "num": 297125,
+        "word": "芭莎内场",
+        "onboard_time": 1748435961,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 67194,
+        "num": 296645,
+        "word": "荣耀CEO李健发布会首发微博",
+        "onboard_time": 1748439443,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18219,
+        "num": 294553,
+        "word": "郑钦文法语致谢观众",
+        "onboard_time": 1748441962,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68668,
+        "num": 293639,
+        "word": "销售回应女生装大人疯狂下单化妆品",
+        "onboard_time": 1748441243,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96053,
+        "num": 293117,
+        "word": "四川一中学校长被曝殴打学生",
+        "onboard_time": 1748441183,
+        "rank": 19,
+        "category": ""
+      },
+      {
+        "raw_hot": 366003,
+        "num": 291845,
+        "word": "大麦崩了",
+        "onboard_time": 1748439924,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290612,
+        "num": 290612,
+        "word": "易梦玲的脸",
+        "onboard_time": 1748433801,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 275409,
+        "num": 275409,
+        "word": "妈妈幂呀",
+        "onboard_time": 1748431102,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 273753,
+        "num": 273753,
+        "word": "方时赫或将入狱",
+        "onboard_time": 1748432181,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266751,
+        "num": 266751,
+        "word": "张凌赫内场赢麻了",
+        "onboard_time": 1748441604,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 22662,
+        "num": 266292,
+        "word": "荣耀AI意图识别引擎行业领先",
+        "onboard_time": 1748439443,
+        "rank": 25,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 48234,
+        "num": 264279,
+        "word": "吴谨言的家政秘籍藏不住了",
+        "onboard_time": 1748439443,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42931,
+        "num": 262901,
+        "word": "荣耀400听劝换大电池了",
+        "onboard_time": 1748441122,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 262263,
+        "word": "男子在生殖医院做手术次日身亡进展",
+        "onboard_time": 1748441122,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24114,
+        "num": 261308,
+        "word": "用苹果和梨炖排骨为什么能去腥提鲜",
+        "onboard_time": 1748441843,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138012,
+        "num": 259953,
+        "word": "这次是林志玲酷玲",
+        "onboard_time": 1748440223,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258984,
+        "num": 258984,
+        "word": "外交部回应辽宁舰为何如此靠近日本",
+        "onboard_time": 1748433502,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202336,
+        "num": 202336,
+        "word": "虞书欣谢可寅你俩喝点中药吧",
+        "onboard_time": 1748441064,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200665,
+        "num": 200665,
+        "word": "在人间热度",
+        "onboard_time": 1748429480,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196390,
+        "num": 196390,
+        "word": "张云龙请把手拿开",
+        "onboard_time": 1748441783,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195273,
+        "num": 195273,
+        "word": "关晓彤薄荷曼波九宫格",
+        "onboard_time": 1748442205,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187546,
+        "num": 187546,
+        "word": "香暗荼你被捕了",
+        "onboard_time": 1748441482,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168705,
+        "num": 168705,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167309,
+        "num": 167309,
+        "word": "刘宇宁直播",
+        "onboard_time": 1748434703,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24845,
+        "num": 165977,
+        "word": "美团澄清称不惜代价是指反内卷",
+        "onboard_time": 1748440882,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165931,
+        "num": 165931,
+        "word": "越过山丘发现无人等候终于懂了",
+        "onboard_time": 1748441423,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 161666,
+        "num": 161666,
+        "word": "洪小铃产后首次露面",
+        "onboard_time": 1748437343,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161659,
+        "num": 161659,
+        "word": "U16国足2比1沙特U16",
+        "onboard_time": 1748441423,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "我家猫长得像褚怀明",
+        "onboard_time": 1748442143,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144530,
+        "num": 144530,
+        "word": "荣耀400",
+        "onboard_time": 1748440403,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "赵丽颖下意识演员天赋型选手",
+        "onboard_time": 1748432541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133881,
+        "num": 133881,
+        "word": "王楚钦多哈世乒赛男单冠军路",
+        "onboard_time": 1748438063,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133201,
+        "num": 133201,
+        "word": "aespa小品女王",
+        "onboard_time": 1748440343,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132374,
+        "num": 132374,
+        "word": "乒超",
+        "onboard_time": 1748429061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75089,
+        "num": 127515,
+        "word": "荣耀新CEO李健国内首秀",
+        "onboard_time": 1748437642,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
