@@ -1,0 +1,410 @@
+{
+  "runTime": 1748424522163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392962,
+        "num": 1392962,
+        "word": "朱朱小桃官宣",
+        "onboard_time": 1748421921,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072663,
+        "num": 1072663,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20734,
+        "num": 940619,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819695,
+        "num": 819695,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 693116,
+        "num": 693116,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538338,
+        "num": 538338,
+        "word": "擅自发祁连山滑翔视频飞行员被停飞",
+        "onboard_time": 1748421321,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466955,
+        "num": 466955,
+        "word": "叶舒华为成都遇害女生发声",
+        "onboard_time": 1748420661,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421079,
+        "num": 421079,
+        "word": "AD钙奶",
+        "onboard_time": 1748417120,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417940,
+        "num": 417940,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 355351,
+        "word": "配音师声音遭AI商用成功维权",
+        "onboard_time": 1748419222,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812602,
+        "num": 349284,
+        "word": "丈夫伪造车祸杀妻因太冷静被识破",
+        "onboard_time": 1748419101,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503132,
+        "num": 344109,
+        "word": "医生称7成妇科感染与卫生巾有关",
+        "onboard_time": 1748418081,
+        "rank": 11,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 338225,
+        "num": 338225,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 335430,
+        "num": 335430,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 319798,
+        "num": 319798,
+        "word": "去年剩的防晒霜今年还能用吗",
+        "onboard_time": 1748415079,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305141,
+        "num": 305141,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 219386,
+        "num": 300632,
+        "word": "肖战看过探索频道",
+        "onboard_time": 1748423541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203364,
+        "num": 279472,
+        "word": "aespaASEA红毯",
+        "onboard_time": 1748420661,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133978,
+        "num": 261305,
+        "word": "pdd化妆刷子销量第一的村厂",
+        "onboard_time": 1748423842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73153,
+        "num": 242251,
+        "word": "郑钦文vs阿朗戈",
+        "onboard_time": 1748423481,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239819,
+        "num": 239819,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 235106,
+        "num": 235106,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201070,
+        "num": 234451,
+        "word": "迪丽热巴甜品合拍",
+        "onboard_time": 1748423780,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234170,
+        "num": 234170,
+        "word": "作家刘楚昕获奖后追忆已故女友",
+        "onboard_time": 1748422761,
+        "rank": 23,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 33354,
+        "num": 232766,
+        "word": "被易烊千玺种草了天猫618",
+        "onboard_time": 1748423780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16326,
+        "num": 231519,
+        "word": "无菌蛋到底是不是智商税",
+        "onboard_time": 1748423780,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38474,
+        "num": 229883,
+        "word": "美百万富翁之妻被捅四刀身亡",
+        "onboard_time": 1748420181,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22814,
+        "num": 227589,
+        "word": "最炫清洁工",
+        "onboard_time": 1748422882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10339,
+        "num": 226909,
+        "word": "上海路人的爱情字典",
+        "onboard_time": 1748423722,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 7974,
+        "num": 223864,
+        "word": "哪个是AI哪个真的大挑战",
+        "onboard_time": 1748424141,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223853,
+        "num": 223853,
+        "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+        "onboard_time": 1748416521,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333862,
+        "num": 221824,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214852,
+        "num": 214852,
+        "word": "猪油渣",
+        "onboard_time": 1748422101,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211435,
+        "num": 211435,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169822,
+        "num": 169822,
+        "word": "爱情公寓主演16年后现状",
+        "onboard_time": 1748413161,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153875,
+        "num": 153875,
+        "word": "王安宇想睡觉就有刘浩存递枕头",
+        "onboard_time": 1748419880,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 153224,
+        "word": "AI教你国补怎么买手机最划算",
+        "onboard_time": 1748424202,
+        "rank": 36,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 47158,
+        "num": 152966,
+        "word": "在硅谷大厂年入50w美金是什么体验",
+        "onboard_time": 1748421802,
+        "rank": 37,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 23099,
+        "num": 152952,
+        "word": "AI首次抗命是自我意识的体现吗",
+        "onboard_time": 1748424442,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152948,
+        "num": 152948,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151404,
+        "num": 151404,
+        "word": "别再拔白头发了",
+        "onboard_time": 1748417001,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150423,
+        "num": 150423,
+        "word": "一个女主配五个男主",
+        "onboard_time": 1748419941,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147165,
+        "num": 147165,
+        "word": "一旅客违规携带230万美金入境",
+        "onboard_time": 1748419401,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142006,
+        "num": 142006,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 140883,
+        "word": "小米澎湃OS2年中OTA开启",
+        "onboard_time": 1748423661,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140474,
+        "num": 140474,
+        "word": "台当局要求陆配提供丧失原籍证明",
+        "onboard_time": 1748422882,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124537,
+        "num": 124537,
+        "word": "马斯克称政府效率部成华盛顿替罪羊",
+        "onboard_time": 1748424323,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123444,
+        "num": 123444,
+        "word": "99元Labubu隐藏款被炒至2600元",
+        "onboard_time": 1748420301,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120939,
+        "num": 120939,
+        "word": "黄樱桃",
+        "onboard_time": 1748424442,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119602,
+        "num": 119602,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}

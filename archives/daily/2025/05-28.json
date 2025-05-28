@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748422120482,
+  "endTime": 1748424522163,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1392962,
+      "num": 1392962,
+      "word": "朱朱小桃官宣",
+      "onboard_time": 1748421921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1330603,
       "num": 449338,
       "word": "您的骑手正在攻击您早饭",
@@ -129,6 +137,14 @@
       "onboard_time": 1748417181,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 812602,
+      "num": 616554,
+      "word": "丈夫伪造车祸杀妻因太冷静被识破",
+      "onboard_time": 1748419101,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 782337,
@@ -227,14 +243,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 616554,
-      "num": 616554,
-      "word": "丈夫伪造车祸杀妻因太冷静被识破",
-      "onboard_time": 1748419101,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 615788,
       "num": 615788,
       "word": "腓腓快要出生了",
@@ -273,6 +281,14 @@
       "onboard_time": 1748401160,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 538338,
+      "num": 538338,
+      "word": "擅自发祁连山滑翔视频飞行员被停飞",
+      "onboard_time": 1748421321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537938,
@@ -353,6 +369,14 @@
       "onboard_time": 1748406984,
       "rank": 15,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 466955,
+      "num": 466955,
+      "word": "叶舒华为成都遇害女生发声",
+      "onboard_time": 1748420661,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450009,
@@ -483,28 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 314958,
-      "num": 481158,
-      "word": "擅自发祁连山滑翔视频飞行员被停飞",
-      "onboard_time": 1748421321,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312470,
       "num": 268119,
       "word": "YG新女团",
       "onboard_time": 1748358863,
       "rank": 15,
       "category": "艺人,音乐"
-    },
-    {
-      "raw_hot": 309030,
-      "num": 309030,
-      "word": "叶舒华为成都遇害女生发声",
-      "onboard_time": 1748420661,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306276,
@@ -691,12 +699,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239819,
+      "num": 239819,
+      "word": "时尚芭莎盛典",
+      "onboard_time": 1748418201,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 236801,
       "num": 336732,
       "word": "反家暴法主要起草专家夏吟兰去世",
       "onboard_time": 1748402541,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234170,
+      "num": 234170,
+      "word": "作家刘楚昕获奖后追忆已故女友",
+      "onboard_time": 1748422761,
+      "rank": 23,
+      "category": "读书作家,民生新闻"
     },
     {
       "raw_hot": 233849,
@@ -747,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219386,
+      "num": 300632,
+      "word": "肖战看过探索频道",
+      "onboard_time": 1748423541,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "朴槿惠力挺韩国总统候选人金文洙",
       "onboard_time": 1748352264,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 215713,
-      "num": 215713,
-      "word": "时尚芭莎盛典",
-      "onboard_time": 1748418201,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 215386,
@@ -777,6 +801,14 @@
       "onboard_time": 1748406922,
       "rank": 43,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 214852,
+      "num": 214852,
+      "word": "猪油渣",
+      "onboard_time": 1748422101,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 214207,
@@ -851,12 +883,12 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 201384,
-      "num": 279940,
-      "word": "朱朱小桃官宣",
-      "onboard_time": 1748421921,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 201070,
+      "num": 234451,
+      "word": "迪丽热巴甜品合拍",
+      "onboard_time": 1748423780,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 200305,
@@ -1339,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145614,
+      "num": 355351,
+      "word": "配音师声音遭AI商用成功维权",
+      "onboard_time": 1748419222,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "国乒选手喜欢甜粽还是咸粽",
@@ -1387,12 +1427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140883,
+      "num": 140883,
+      "word": "小米澎湃OS2年中OTA开启",
+      "onboard_time": 1748423661,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "下周六高考",
       "onboard_time": 1748400681,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140474,
+      "num": 140474,
+      "word": "台当局要求陆配提供丧失原籍证明",
+      "onboard_time": 1748422882,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139909,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1748407462,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133978,
+      "num": 261305,
+      "word": "pdd化妆刷子销量第一的村厂",
+      "onboard_time": 1748423842,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132079,
@@ -1507,6 +1571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124537,
+      "num": 124537,
+      "word": "马斯克称政府效率部成华盛顿替罪羊",
+      "onboard_time": 1748424323,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123190,
       "num": 123190,
       "word": "特朗普为加拿大加入金穹开价610亿美元",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1748358442,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120939,
+      "num": 120939,
+      "word": "黄樱桃",
+      "onboard_time": 1748424442,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 119575,
@@ -1633,14 +1713,6 @@
       "onboard_time": 1748397562,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113788,
-      "num": 113788,
-      "word": "猪油渣",
-      "onboard_time": 1748422101,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 112965,
@@ -1753,14 +1825,6 @@
       "onboard_time": 1748401341,
       "rank": 28,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 102770,
-      "num": 128547,
-      "word": "配音师声音遭AI商用成功维权",
-      "onboard_time": 1748419222,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101669,
@@ -2059,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73153,
+      "num": 242251,
+      "word": "郑钦文vs阿朗戈",
+      "onboard_time": 1748423481,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70632,
       "num": 118088,
       "word": "孩子自信的5种表现",
@@ -2259,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47158,
+      "num": 152966,
+      "word": "在硅谷大厂年入50w美金是什么体验",
+      "onboard_time": 1748421802,
+      "rank": 37,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 45941,
       "num": 172404,
       "word": "脾胃虚寒可以用荔枝补气血吗",
@@ -2371,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38474,
+      "num": 229883,
+      "word": "美百万富翁之妻被捅四刀身亡",
+      "onboard_time": 1748420181,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37384,
       "num": 176787,
       "word": "用隔夜绿茶洗头能缓解脱发问题吗",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1748415440,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33354,
+      "num": 232766,
+      "word": "被易烊千玺种草了天猫618",
+      "onboard_time": 1748423780,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 32704,
@@ -2475,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25449,
+      "num": 153224,
+      "word": "AI教你国补怎么买手机最划算",
+      "onboard_time": 1748424202,
+      "rank": 36,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 25219,
       "num": 46802,
       "word": "应认清年轻人不愿为台独卖命现实",
@@ -2496,6 +2600,22 @@
       "word": "夏收跑出加速度",
       "onboard_time": 1748352503,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23099,
+      "num": 152952,
+      "word": "AI首次抗命是自我意识的体现吗",
+      "onboard_time": 1748424442,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22814,
+      "num": 227589,
+      "word": "最炫清洁工",
+      "onboard_time": 1748422882,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -2571,6 +2691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 16326,
+      "num": 231519,
+      "word": "无菌蛋到底是不是智商税",
+      "onboard_time": 1748423780,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15734,
       "num": 267488,
       "word": "高考数学必会基础公式汇总",
@@ -2625,6 +2753,22 @@
       "onboard_time": 1748414541,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10339,
+      "num": 226909,
+      "word": "上海路人的爱情字典",
+      "onboard_time": 1748423722,
+      "rank": 28,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 7974,
+      "num": 223864,
+      "word": "哪个是AI哪个真的大挑战",
+      "onboard_time": 1748424141,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 5262,
