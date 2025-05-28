@@ -1,7 +1,15 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748472156563,
+  "endTime": 1748474688415,
   "band_list": [
+    {
+      "raw_hot": 796728,
+      "num": 849976,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 714375,
       "num": 216295,
@@ -27,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 591104,
+      "num": 591104,
+      "word": "游客发现武陵山天池底为304不锈钢",
+      "onboard_time": 1748433621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553993,
       "num": 553993,
       "word": "没去芭莎的很幸运了",
       "onboard_time": 1748436801,
       "rank": 3,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 451872,
-      "num": 527924,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 429755,
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 386744,
-      "num": 237021,
+      "num": 307660,
       "word": "陈乔恩确诊盲肠炎",
       "onboard_time": 1748445502,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366964,
+      "num": 366964,
+      "word": "小乔怀孕傻的却是魏劭",
+      "onboard_time": 1748473937,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 366675,
@@ -107,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326847,
-      "num": 326847,
-      "word": "游客发现武陵山天池底为304不锈钢",
-      "onboard_time": 1748433621,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280175,
       "num": 209155,
       "word": "刘宇宁 锡纸抹胸",
@@ -129,6 +137,14 @@
       "onboard_time": 1748443942,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238164,
+      "num": 238164,
+      "word": "客人闹事店主护妻反击被判入狱",
+      "onboard_time": 1748447482,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237607,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197424,
+      "num": 197424,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194672,
       "num": 145447,
       "word": "藏海传24集 新的太子",
@@ -227,12 +251,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 169848,
-      "num": 169848,
-      "word": "客人闹事店主护妻反击被判入狱",
-      "onboard_time": 1748447482,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 160015,
+      "num": 160015,
+      "word": "被芭莎的镜头签吓死",
+      "onboard_time": 1748442863,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 140875,
@@ -243,8 +267,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138088,
-      "num": 138088,
+      "raw_hot": 139139,
+      "num": 139139,
       "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
       "onboard_time": 1748446281,
       "rank": 29,
@@ -315,20 +339,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114792,
-      "num": 114792,
-      "word": "被芭莎的镜头签吓死",
-      "onboard_time": 1748442863,
-      "rank": 39,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 110190,
       "num": 110190,
       "word": "王安宇新剧在猎了在猎了",
       "onboard_time": 1748448020,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107880,
+      "num": 107880,
+      "word": "68岁老汉称在等国家发的老婆",
+      "onboard_time": 1748460434,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107453,
@@ -411,6 +435,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 77488,
+      "num": 77488,
+      "word": "刘涛可以领因为她叫安迪",
+      "onboard_time": 1748469195,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77371,
       "num": 77371,
       "word": "庄大下线",
@@ -419,24 +451,40 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66992,
-      "num": 66992,
-      "word": "刘涛可以领因为她叫安迪",
-      "onboard_time": 1748469195,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 71596,
+      "num": 71596,
+      "word": "去博物馆戴大金镯子",
+      "onboard_time": 1748473217,
+      "rank": 32,
+      "category": "幽默"
     },
     {
-      "raw_hot": 59780,
-      "num": 116816,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
+      "raw_hot": 68544,
+      "num": 68544,
+      "word": "覃海洋回应张雨霏称他是卷王",
+      "onboard_time": 1748465294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55045,
+      "num": 561897,
+      "word": "端午气氛组强势上线",
+      "onboard_time": 1748441003,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 54402,
+      "num": 54402,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52905,
-      "num": 52905,
+      "raw_hot": 53919,
+      "num": 53919,
       "word": "虞书欣谢可寅你俩喝点中药吧",
       "onboard_time": 1748441064,
       "rank": 44,
@@ -451,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49299,
-      "num": 49299,
-      "word": "68岁老汉称在等国家发的老婆",
-      "onboard_time": 1748460434,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 49989,
+      "num": 49989,
+      "word": "马拉松拉伸员小姐姐走红",
+      "onboard_time": 1748473937,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 49142,
@@ -475,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46882,
+      "num": 46882,
+      "word": "荣耀400价格",
+      "onboard_time": 1748443282,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46256,
       "num": 46256,
       "word": "在人间",
@@ -483,36 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43620,
-      "num": 43620,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
+      "raw_hot": 43580,
+      "num": 43580,
+      "word": "BBC采访广东小伙被种草中国锅",
+      "onboard_time": 1748465234,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42987,
-      "num": 42987,
-      "word": "覃海洋回应张雨霏称他是卷王",
-      "onboard_time": 1748465294,
-      "rank": 30,
+      "raw_hot": 43210,
+      "num": 198228,
+      "word": "美国再对大学祭杀招或正自废武功",
+      "onboard_time": 1748474237,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42799,
+      "num": 42799,
+      "word": "林孝埈一起去米兰吧",
+      "onboard_time": 1748473998,
+      "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38525,
-      "num": 38525,
-      "word": "荣耀400价格",
-      "onboard_time": 1748443282,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 38236,
-      "num": 561897,
-      "word": "端午气氛组强势上线",
-      "onboard_time": 1748441003,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37767,
@@ -520,14 +568,6 @@
       "word": "医院减脂餐",
       "onboard_time": 1748449939,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31034,
-      "num": 31034,
-      "word": "BBC采访广东小伙被种草中国锅",
-      "onboard_time": 1748465234,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -625,6 +665,14 @@
       "onboard_time": 1748458994,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9722,
+      "num": 53974,
+      "word": "他用15度视角走出了180度广阔人生",
+      "onboard_time": 1748473937,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
