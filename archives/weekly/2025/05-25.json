@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748424522163,
+  "endTime": 1748425353663,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -219,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1569494,
+      "num": 1569494,
+      "word": "朱朱小桃官宣",
+      "onboard_time": 1748421921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1560734,
       "num": 1560734,
       "word": "孙颖莎说输掉第6局后有一丝绝望",
@@ -361,14 +369,6 @@
       "onboard_time": 1748174546,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1392962,
-      "num": 1392962,
-      "word": "朱朱小桃官宣",
-      "onboard_time": 1748421921,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1378786,
@@ -1155,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 751758,
+      "num": 667262,
+      "word": "叶舒华为成都遇害女生发声",
+      "onboard_time": 1748420661,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 749681,
       "num": 749681,
       "word": "王楚钦王皓拿着国旗拥抱",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1748398460,
       "rank": 15,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 639394,
+      "num": 639394,
+      "word": "擅自发祁连山滑翔视频飞行员被停飞",
+      "onboard_time": 1748421321,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 638452,
@@ -1859,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 538338,
-      "num": 538338,
-      "word": "擅自发祁连山滑翔视频飞行员被停飞",
-      "onboard_time": 1748421321,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 537938,
       "num": 537938,
       "word": "特朗普政府已暂停留学生新签证面谈",
@@ -2219,14 +2227,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 466955,
-      "num": 466955,
-      "word": "叶舒华为成都遇害女生发声",
-      "onboard_time": 1748420661,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 463851,
       "num": 365742,
       "word": "杨幂完全是妈妈级别的",
@@ -2273,6 +2273,14 @@
       "onboard_time": 1748249900,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447873,
+      "num": 447873,
+      "word": "时尚芭莎盛典",
+      "onboard_time": 1748418201,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 446652,
@@ -2707,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373827,
+      "num": 293252,
+      "word": "韩红的压力已经给到内娱了",
+      "onboard_time": 1748424562,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372830,
       "num": 410369,
       "word": "朝鲜军需工业部副部长被拘留",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1748392402,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343159,
+      "num": 343159,
+      "word": "猪油渣",
+      "onboard_time": 1748422101,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 342800,
@@ -3955,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250548,
+      "num": 333990,
+      "word": "肖战看过探索频道",
+      "onboard_time": 1748423541,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250520,
       "num": 250520,
       "word": "黄晓明谁让你这么捯饬自己的",
@@ -4113,14 +4145,6 @@
       "onboard_time": 1748361921,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 239819,
-      "num": 239819,
-      "word": "时尚芭莎盛典",
-      "onboard_time": 1748418201,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 239771,
@@ -4475,14 +4499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219386,
-      "num": 300632,
-      "word": "肖战看过探索频道",
-      "onboard_time": 1748423541,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219336,
       "num": 219336,
       "word": "谍报上不封顶宣传片先行版",
@@ -4585,14 +4601,6 @@
       "onboard_time": 1748270063,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214852,
-      "num": 214852,
-      "word": "猪油渣",
-      "onboard_time": 1748422101,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 214584,
@@ -4803,6 +4811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205910,
+      "num": 205910,
+      "word": "时尚芭莎年度派对出图",
+      "onboard_time": 1748424740,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 205630,
       "num": 482959,
       "word": "景区回应月薪3万招帅气NPC属实",
@@ -4833,6 +4849,14 @@
       "onboard_time": 1748330361,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 205255,
+      "num": 330285,
+      "word": "藏海传IMDB开分9.1",
+      "onboard_time": 1748424920,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 204872,
@@ -5585,6 +5609,14 @@
       "onboard_time": 1748142080,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189407,
+      "num": 301515,
+      "word": "台当局要求陆配提供丧失原籍证明",
+      "onboard_time": 1748422882,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188817,
@@ -6379,6 +6411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173467,
+      "num": 355351,
+      "word": "配音师声音遭AI商用成功维权",
+      "onboard_time": 1748419222,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173438,
       "num": 173438,
       "word": "李现献祭式男主",
@@ -6683,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169202,
+      "num": 169202,
+      "word": "明星时尚芭莎盛典出图",
+      "onboard_time": 1748425220,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169118,
       "num": 169118,
       "word": "JJ20",
@@ -6848,6 +6896,14 @@
       "word": "主播拒绝擦边直播被公司索赔10万元",
       "onboard_time": 1748183903,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166182,
+      "num": 319629,
+      "word": "pdd化妆刷子销量第一的村厂",
+      "onboard_time": 1748423842,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -7931,14 +7987,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145614,
-      "num": 355351,
-      "word": "配音师声音遭AI商用成功维权",
-      "onboard_time": 1748419222,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145453,
       "num": 145453,
       "word": "平津侯藏海CP",
@@ -8265,14 +8313,6 @@
       "onboard_time": 1748354842,
       "rank": 49,
       "category": "情感,健康医疗"
-    },
-    {
-      "raw_hot": 140474,
-      "num": 140474,
-      "word": "台当局要求陆配提供丧失原籍证明",
-      "onboard_time": 1748422882,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140446,
@@ -8651,14 +8691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133978,
-      "num": 261305,
-      "word": "pdd化妆刷子销量第一的村厂",
-      "onboard_time": 1748423842,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133946,
       "num": 133946,
       "word": "偷看到蛮蛮一劭二人世界了",
@@ -8779,6 +8811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132369,
+      "num": 132369,
+      "word": "99元Labubu隐藏款被炒至2600元",
+      "onboard_time": 1748420301,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132360,
       "num": 132360,
       "word": "为了让老师莫名其妙全班都选了B",
@@ -8828,7 +8868,7 @@
     },
     {
       "raw_hot": 132056,
-      "num": 132056,
+      "num": 169212,
       "word": "东北女生在日本54楼高空绝美的家",
       "onboard_time": 1748415260,
       "rank": 44,
@@ -8984,14 +9024,6 @@
       "word": "男子赴孟加拉国娶妻意外身亡",
       "onboard_time": 1748264542,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129111,
-      "num": 129111,
-      "word": "99元Labubu隐藏款被炒至2600元",
-      "onboard_time": 1748420301,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -11819,6 +11851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60375,
+      "num": 204754,
+      "word": "药企遭举报贿赂多家医院超百位医生",
+      "onboard_time": 1748425282,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60163,
       "num": 516090,
       "word": "卫健部门调查口腔医生做隆胸手术",
@@ -12147,6 +12187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53339,
+      "num": 305798,
+      "word": "AI首次抗命是自我意识的体现吗",
+      "onboard_time": 1748424442,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53336,
       "num": 413711,
       "word": "俄方回应特朗普批评普京",
@@ -12433,6 +12481,14 @@
       "onboard_time": 1748228903,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45275,
+      "num": 246442,
+      "word": "被易烊千玺种草了天猫618",
+      "onboard_time": 1748423780,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 45255,
@@ -13003,20 +13059,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33354,
-      "num": 232766,
-      "word": "被易烊千玺种草了天猫618",
-      "onboard_time": 1748423780,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33225,
       "num": 215080,
       "word": "iPhone真全面屏有什么技术创新",
       "onboard_time": 1748254882,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33074,
+      "num": 169207,
+      "word": "AI教你国补怎么买手机最划算",
+      "onboard_time": 1748424202,
+      "rank": 36,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 32967,
@@ -13427,6 +13483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26283,
+      "num": 227589,
+      "word": "最炫清洁工",
+      "onboard_time": 1748422882,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26081,
       "num": 319280,
       "word": "男子无罪后诉请删除案底遇阻",
@@ -13481,14 +13545,6 @@
       "onboard_time": 1748249181,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 25449,
-      "num": 153224,
-      "word": "AI教你国补怎么买手机最划算",
-      "onboard_time": 1748424202,
-      "rank": 36,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 25250,
@@ -13659,28 +13715,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 23099,
-      "num": 152952,
-      "word": "AI首次抗命是自我意识的体现吗",
-      "onboard_time": 1748424442,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 22940,
       "num": 38429,
       "word": "张真源李昀锐搭档",
       "onboard_time": 1748195896,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22814,
-      "num": 227589,
-      "word": "最炫清洁工",
-      "onboard_time": 1748422882,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22682,
@@ -13809,6 +13849,14 @@
       "onboard_time": 1748118314,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20589,
+      "num": 212600,
+      "word": "新一线都是怎么定义的",
+      "onboard_time": 1748424681,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 20176,
@@ -14155,6 +14203,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14409,
+      "num": 223864,
+      "word": "哪个是AI哪个真的大挑战",
+      "onboard_time": 1748424141,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13497,
       "num": 377569,
       "word": "为什么夏天皮肤总爱出油",
@@ -14193,6 +14249,14 @@
       "onboard_time": 1748339781,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12858,
+      "num": 226909,
+      "word": "上海路人的爱情字典",
+      "onboard_time": 1748423722,
+      "rank": 28,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 12818,
@@ -14363,14 +14427,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 10339,
-      "num": 226909,
-      "word": "上海路人的爱情字典",
-      "onboard_time": 1748423722,
-      "rank": 28,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 10328,
       "num": 274023,
       "word": "嫦娥六号在线催更天问二号",
@@ -14417,6 +14473,14 @@
       "onboard_time": 1748266344,
       "rank": 34,
       "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 9644,
+      "num": 169204,
+      "word": "孙继海越位",
+      "onboard_time": 1748425041,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 9595,
@@ -14473,14 +14537,6 @@
       "onboard_time": 1748258362,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 7974,
-      "num": 223864,
-      "word": "哪个是AI哪个真的大挑战",
-      "onboard_time": 1748424141,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 7835,
