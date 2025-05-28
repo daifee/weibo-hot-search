@@ -1,0 +1,410 @@
+{
+  "runTime": 1748436759459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439332,
+        "num": 1439332,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 0,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 672671,
+        "num": 672671,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40869,
+        "num": 665731,
+        "word": "中国成都国际非遗节",
+        "onboard_time": 1748431822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 954100,
+        "num": 665508,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 665011,
+        "num": 665011,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587878,
+        "num": 587878,
+        "word": "教育部门回应教师迟到1分钟被定事故",
+        "onboard_time": 1748432422,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 772329,
+        "num": 587730,
+        "word": "妈妈幂呀",
+        "onboard_time": 1748431102,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 587494,
+        "num": 587494,
+        "word": "易梦玲的脸",
+        "onboard_time": 1748433801,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 468404,
+        "num": 573318,
+        "word": "外交部回应辽宁舰为何如此靠近日本",
+        "onboard_time": 1748433502,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79423,
+        "num": 565728,
+        "word": "北师大官网两教师简介用动漫头像",
+        "onboard_time": 1748434403,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562438,
+        "num": 562438,
+        "word": "刘宇宁直播",
+        "onboard_time": 1748434703,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547499,
+        "num": 547499,
+        "word": "赵丽颖下意识演员天赋型选手",
+        "onboard_time": 1748432541,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74472,
+        "num": 459057,
+        "word": "肖战同款荣耀400发布",
+        "onboard_time": 1748435902,
+        "rank": 12,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 430360,
+        "num": 458010,
+        "word": "结婚4天就离男子获退18万彩礼",
+        "onboard_time": 1748435422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14127,
+        "num": 457149,
+        "word": "超多明星都在天猫派对等你云合拍",
+        "onboard_time": 1748433682,
+        "rank": 14,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 456964,
+        "num": 456964,
+        "word": "北师大回应官网教师简介用动漫头像",
+        "onboard_time": 1748429241,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365270,
+        "num": 365270,
+        "word": "乒超",
+        "onboard_time": 1748429061,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232870,
+        "num": 364628,
+        "word": "找到了天猫无门槛消费券最省秘诀",
+        "onboard_time": 1748433981,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53779,
+        "num": 363014,
+        "word": "今晚全网都在抄天猫爆款清单",
+        "onboard_time": 1748432842,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99293,
+        "num": 360772,
+        "word": "闫桂军被控违规放贷63.9亿元",
+        "onboard_time": 1748436021,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520299,
+        "num": 359577,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 481201,
+        "num": 357475,
+        "word": "方时赫或将入狱",
+        "onboard_time": 1748432181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355855,
+        "num": 355855,
+        "word": "惠英红杨幂压轴",
+        "onboard_time": 1748432482,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58435,
+        "num": 352607,
+        "word": "想魂穿胡一天旁边的冲锋衣",
+        "onboard_time": 1748435902,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111063,
+        "num": 348376,
+        "word": "郑钦文回应晋级法网32强",
+        "onboard_time": 1748436381,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100523,
+        "num": 345973,
+        "word": "人经历抑郁的意义是什么",
+        "onboard_time": 1748436082,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30343,
+        "num": 340280,
+        "word": "重庆一建筑外脚手架倒塌目击者发声",
+        "onboard_time": 1748435782,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53605,
+        "num": 336566,
+        "word": "英国主持人被中国数据吓到",
+        "onboard_time": 1748430200,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23679,
+        "num": 335108,
+        "word": "精神病人并非完全不负刑事责任",
+        "onboard_time": 1748436140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137880,
+        "num": 329154,
+        "word": "沙宝亮谈与肖战对手戏",
+        "onboard_time": 1748432962,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327777,
+        "num": 327777,
+        "word": "在人间热度",
+        "onboard_time": 1748429480,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310754,
+        "num": 310754,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 271665,
+        "num": 299126,
+        "word": "小鹏MONA要这么讲智驾我可就懂了",
+        "onboard_time": 1748432902,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 287703,
+        "num": 287703,
+        "word": "韩红的压力已经给到内娱了",
+        "onboard_time": 1748424562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283254,
+        "num": 283254,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272699,
+        "num": 272699,
+        "word": "赵今麦挂脖高定",
+        "onboard_time": 1748431102,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270132,
+        "num": 270132,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 143654,
+        "num": 246797,
+        "word": "惠英红 神女临世",
+        "onboard_time": 1748433920,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245904,
+        "num": 245904,
+        "word": "芭莎内场",
+        "onboard_time": 1748435961,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 29536,
+        "num": 217542,
+        "word": "美团澄清称不惜代价是指反内卷",
+        "onboard_time": 1748434282,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209998,
+        "num": 209998,
+        "word": "国家话剧院辟谣朱媛媛捐赠眼角膜",
+        "onboard_time": 1748433200,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202348,
+        "num": 202348,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195397,
+        "num": 195397,
+        "word": "医生未做皮试输青霉素致患者死亡获刑",
+        "onboard_time": 1748433801,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194850,
+        "num": 194850,
+        "word": "林俊杰演唱会抢票",
+        "onboard_time": 1748435542,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194571,
+        "num": 194571,
+        "word": "电竞男团来袭",
+        "onboard_time": 1748435842,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209200,
+        "num": 194571,
+        "word": "网传朱媛媛遗嘱内容纯属捏造",
+        "onboard_time": 1748431822,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 194543,
+        "num": 194543,
+        "word": "陷入我们的热恋滤镜",
+        "onboard_time": 1748432722,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166394,
+        "num": 166394,
+        "word": "男子共享单车内放情趣用品被抓",
+        "onboard_time": 1748436501,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163696,
+        "num": 163696,
+        "word": "吴谨言胳肢窝 腋下脱毛商务",
+        "onboard_time": 1748432842,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154166,
+        "num": 154166,
+        "word": "打球犯规致人骨折被判无需担责",
+        "onboard_time": 1748433920,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}

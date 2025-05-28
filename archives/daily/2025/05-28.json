@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748432304386,
+  "endTime": 1748436759459,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -57,6 +57,14 @@
       "onboard_time": 1748391921,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1439332,
+      "num": 1439332,
+      "word": "鞠婧祎 蛇女",
+      "onboard_time": 1748430860,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1428537,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772329,
+      "num": 587730,
+      "word": "妈妈幂呀",
+      "onboard_time": 1748431102,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 771070,
       "num": 470782,
       "word": "人果然不能随便辞职",
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 665011,
+      "num": 665011,
+      "word": "游客发现武陵山天池底为304不锈钢",
+      "onboard_time": 1748433621,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 655939,
       "num": 359200,
       "word": "YG新女团首位成员EVELLI公开",
@@ -283,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 618440,
-      "num": 618440,
-      "word": "鞠婧祎 蛇女",
-      "onboard_time": 1748430860,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 615788,
       "num": 615788,
       "word": "腓腓快要出生了",
@@ -305,6 +321,22 @@
       "onboard_time": 1748418081,
       "rank": 11,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 587878,
+      "num": 587878,
+      "word": "教育部门回应教师迟到1分钟被定事故",
+      "onboard_time": 1748432422,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 587494,
+      "num": 587494,
+      "word": "易梦玲的脸",
+      "onboard_time": 1748433801,
+      "rank": 7,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 573433,
@@ -323,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562438,
+      "num": 562438,
+      "word": "刘宇宁直播",
+      "onboard_time": 1748434703,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 555469,
       "num": 306998,
       "word": "杀害27岁女子凶手父亲抱怨有家不能回",
       "onboard_time": 1748346380,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547499,
+      "num": 547499,
+      "word": "赵丽颖下意识演员天赋型选手",
+      "onboard_time": 1748432541,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 540191,
@@ -411,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 482274,
-      "num": 445956,
-      "word": "妈妈幂呀",
-      "onboard_time": 1748431102,
-      "rank": 43,
-      "category": "艺人,时尚"
+      "raw_hot": 481201,
+      "num": 357475,
+      "word": "方时赫或将入狱",
+      "onboard_time": 1748432181,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 480012,
@@ -451,12 +499,28 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 468404,
+      "num": 573318,
+      "word": "外交部回应辽宁舰为何如此靠近日本",
+      "onboard_time": 1748433502,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 463793,
       "num": 463793,
       "word": "时尚芭莎盛典",
       "onboard_time": 1748418201,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 456964,
+      "num": 456964,
+      "word": "北师大回应官网教师简介用动漫头像",
+      "onboard_time": 1748429241,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450009,
@@ -481,6 +545,14 @@
       "onboard_time": 1748394803,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430360,
+      "num": 458010,
+      "word": "结婚4天就离男子获退18万彩礼",
+      "onboard_time": 1748435422,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420662,
@@ -555,6 +627,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 355855,
+      "num": 355855,
+      "word": "惠英红杨幂压轴",
+      "onboard_time": 1748432482,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 354950,
       "num": 354950,
       "word": "这居然是蔡徐坤的歌",
@@ -619,6 +699,14 @@
       "category": "艺人,音乐"
     },
     {
+      "raw_hot": 310754,
+      "num": 310754,
+      "word": "林允身材好绝",
+      "onboard_time": 1748435782,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 306276,
       "num": 306276,
       "word": "陈飞宇王曼昱世纪同框",
@@ -675,6 +763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283254,
+      "num": 283254,
+      "word": "卫生巾 妇科感染",
+      "onboard_time": 1748435121,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278981,
       "num": 336973,
       "word": "刘若英点歌",
@@ -705,6 +801,14 @@
       "onboard_time": 1748425220,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271665,
+      "num": 299126,
+      "word": "小鹏MONA要这么讲智驾我可就懂了",
+      "onboard_time": 1748432902,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 270459,
@@ -787,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251066,
-      "num": 381210,
-      "word": "北师大回应官网教师简介用动漫头像",
-      "onboard_time": 1748429241,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250548,
       "num": 333990,
       "word": "肖战看过探索频道",
@@ -817,6 +913,14 @@
       "onboard_time": 1748405002,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245904,
+      "num": 245904,
+      "word": "芭莎内场",
+      "onboard_time": 1748435961,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 245566,
@@ -889,6 +993,14 @@
       "onboard_time": 1748397562,
       "rank": 49,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 232870,
+      "num": 364628,
+      "word": "找到了天猫无门槛消费券最省秘诀",
+      "onboard_time": 1748433981,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 229243,
@@ -987,12 +1099,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209998,
+      "num": 209998,
+      "word": "国家话剧院辟谣朱媛媛捐赠眼角膜",
+      "onboard_time": 1748433200,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209312,
       "num": 337406,
       "word": "武艺连见到周杰伦说什么都想好了",
       "onboard_time": 1748407043,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209200,
+      "num": 304064,
+      "word": "网传朱媛媛遗嘱内容纯属捏造",
+      "onboard_time": 1748431822,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 209126,
@@ -1107,6 +1235,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 195397,
+      "num": 195397,
+      "word": "医生未做皮试输青霉素致患者死亡获刑",
+      "onboard_time": 1748433801,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194953,
       "num": 194953,
       "word": "这一秒 王楚然",
@@ -1116,11 +1252,35 @@
     },
     {
       "raw_hot": 194861,
-      "num": 194861,
+      "num": 336566,
       "word": "英国主持人被中国数据吓到",
       "onboard_time": 1748430200,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194850,
+      "num": 194850,
+      "word": "林俊杰演唱会抢票",
+      "onboard_time": 1748435542,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194571,
+      "num": 194571,
+      "word": "电竞男团来袭",
+      "onboard_time": 1748435842,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194543,
+      "num": 194543,
+      "word": "陷入我们的热恋滤镜",
+      "onboard_time": 1748432722,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 193445,
@@ -1467,6 +1627,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 166394,
+      "num": 166394,
+      "word": "男子共享单车内放情趣用品被抓",
+      "onboard_time": 1748436501,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166182,
       "num": 319629,
       "word": "pdd化妆刷子销量第一的村厂",
@@ -1507,20 +1675,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164260,
-      "num": 164260,
-      "word": "方时赫或将入狱",
-      "onboard_time": 1748432181,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163828,
       "num": 278090,
       "word": "王安宇想睡觉就有刘浩存递枕头",
       "onboard_time": 1748419880,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163696,
+      "num": 163696,
+      "word": "吴谨言胳肢窝 腋下脱毛商务",
+      "onboard_time": 1748432842,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 159800,
@@ -1593,6 +1761,14 @@
       "onboard_time": 1748393961,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154166,
+      "num": 154166,
+      "word": "打球犯规致人骨折被判无需担责",
+      "onboard_time": 1748433920,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153825,
@@ -1683,14 +1859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 146686,
-      "num": 304064,
-      "word": "网传朱媛媛遗嘱内容纯属捏造",
-      "onboard_time": 1748431822,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 146683,
       "num": 146683,
       "word": "肖战藏海水下镜头",
@@ -1729,6 +1897,14 @@
       "onboard_time": 1748401281,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143654,
+      "num": 246797,
+      "word": "惠英红 神女临世",
+      "onboard_time": 1748433920,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143541,
@@ -1793,6 +1969,14 @@
       "onboard_time": 1748420783,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137880,
+      "num": 329154,
+      "word": "沙宝亮谈与肖战对手戏",
+      "onboard_time": 1748432962,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 137016,
@@ -2115,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111063,
+      "num": 348376,
+      "word": "郑钦文回应晋级法网32强",
+      "onboard_time": 1748436381,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110608,
       "num": 169613,
       "word": "在人间今日开播",
@@ -2211,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100523,
+      "num": 345973,
+      "word": "人经历抑郁的意义是什么",
+      "onboard_time": 1748436082,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99784,
       "num": 99784,
       "word": "我终于get到了李白的快乐",
@@ -2225,6 +2425,14 @@
       "onboard_time": 1748406201,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99293,
+      "num": 360772,
+      "word": "闫桂军被控违规放贷63.9亿元",
+      "onboard_time": 1748436021,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99193,
@@ -2419,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79423,
+      "num": 565728,
+      "word": "北师大官网两教师简介用动漫头像",
+      "onboard_time": 1748434403,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79306,
       "num": 358078,
       "word": "DIOR将电影带进秀场",
@@ -2481,6 +2697,14 @@
       "onboard_time": 1748403502,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74472,
+      "num": 459057,
+      "word": "肖战同款荣耀400发布",
+      "onboard_time": 1748435902,
+      "rank": 12,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 74363,
@@ -2635,6 +2859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 58435,
+      "num": 352607,
+      "word": "想魂穿胡一天旁边的冲锋衣",
+      "onboard_time": 1748435902,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "现货黄金跌破3320",
@@ -2665,6 +2897,14 @@
       "onboard_time": 1748401341,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53779,
+      "num": 363014,
+      "word": "今晚全网都在抄天猫爆款清单",
+      "onboard_time": 1748432842,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 53386,
@@ -2825,6 +3065,14 @@
       "onboard_time": 1748405842,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 40869,
+      "num": 665731,
+      "word": "中国成都国际非遗节",
+      "onboard_time": 1748431822,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40842,
@@ -3011,6 +3259,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 30343,
+      "num": 340280,
+      "word": "重庆一建筑外脚手架倒塌目击者发声",
+      "onboard_time": 1748435782,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30313,
       "num": 274226,
       "word": "氡气的危害",
@@ -3027,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30066,
-      "num": 662614,
-      "word": "中国成都国际非遗节",
-      "onboard_time": 1748431822,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30065,
       "num": 192327,
       "word": "孙继海越位",
@@ -3049,6 +3297,14 @@
       "onboard_time": 1748409980,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29536,
+      "num": 217542,
+      "word": "美团澄清称不惜代价是指反内卷",
+      "onboard_time": 1748434282,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 28897,
@@ -3112,6 +3368,14 @@
       "word": "夏收跑出加速度",
       "onboard_time": 1748352503,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23679,
+      "num": 335108,
+      "word": "精神病人并非完全不负刑事责任",
+      "onboard_time": 1748436140,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3241,6 +3505,14 @@
       "onboard_time": 1748424141,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14127,
+      "num": 457149,
+      "word": "超多明星都在天猫派对等你云合拍",
+      "onboard_time": 1748433682,
+      "rank": 14,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 13305,
