@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748458113182,
+  "endTime": 1748460091997,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108675,
+      "num": 108675,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107453,
       "num": 107348,
       "word": "曹公公疯子",
@@ -467,14 +475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27977,
-      "num": 27977,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 26063,
       "num": 26063,
       "word": "米卡金属战甲造型",
@@ -497,6 +497,38 @@
       "onboard_time": 1748458034,
       "rank": 46,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 19474,
+      "num": 19474,
+      "word": "提拉米苏",
+      "onboard_time": 1748458875,
+      "rank": 37,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 17659,
+      "num": 18731,
+      "word": "这个苏泷太贵了",
+      "onboard_time": 1748456055,
+      "rank": 44,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 17588,
+      "num": 18722,
+      "word": "巴黎世家活动大合影",
+      "onboard_time": 1748454196,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 11580,
+      "num": 29005,
+      "word": "敦促美方切实保障留学生合法正当权益",
+      "onboard_time": 1748458994,
+      "rank": 24,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
