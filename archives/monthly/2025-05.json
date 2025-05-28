@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748425353663,
+  "endTime": 1748428145985,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -5393,6 +5393,14 @@
       "onboard_time": 1746687142,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1002270,
+      "num": 612990,
+      "word": "猪油渣",
+      "onboard_time": 1748422101,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 1001036,
@@ -11371,6 +11379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612906,
+      "num": 612906,
+      "word": "韩红的压力已经给到内娱了",
+      "onboard_time": 1748424562,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612879,
       "num": 612879,
       "word": "玉米蛋挞价格",
@@ -12849,6 +12865,14 @@
       "onboard_time": 1747020501,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 563531,
+      "num": 563531,
+      "word": "袭榜歌手 NEYO",
+      "onboard_time": 1748425941,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 562821,
@@ -15065,6 +15089,14 @@
       "onboard_time": 1747580303,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488882,
+      "num": 488882,
+      "word": "藏海传IMDB开分9.1",
+      "onboard_time": 1748424920,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 488326,
@@ -19891,14 +19923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373827,
-      "num": 293252,
-      "word": "韩红的压力已经给到内娱了",
-      "onboard_time": 1748424562,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 373815,
       "num": 373815,
       "word": "半熟恋人4",
@@ -21155,6 +21179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 352070,
+      "num": 113241,
+      "word": "男团学",
+      "onboard_time": 1748426181,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351659,
       "num": 351659,
       "word": "刘宇宁感谢开推小伙伴",
@@ -21681,14 +21713,6 @@
       "onboard_time": 1748392402,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343159,
-      "num": 343159,
-      "word": "猪油渣",
-      "onboard_time": 1748422101,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 343054,
@@ -26779,6 +26803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272443,
+      "num": 272443,
+      "word": "明星时尚芭莎盛典出图",
+      "onboard_time": 1748425220,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272407,
       "num": 366522,
       "word": "中国至美国运单飙升近300%",
@@ -27345,6 +27377,14 @@
       "onboard_time": 1746494962,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266910,
+      "num": 316231,
+      "word": "台当局要求陆配提供丧失原籍证明",
+      "onboard_time": 1748422882,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266889,
@@ -30521,6 +30561,14 @@
       "onboard_time": 1747822103,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240570,
+      "num": 240570,
+      "word": "时尚芭莎盛典直播",
+      "onboard_time": 1748426001,
+      "rank": 21,
+      "category": "时尚"
     },
     {
       "raw_hot": 240527,
@@ -36907,14 +36955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205255,
-      "num": 330285,
-      "word": "藏海传IMDB开分9.1",
-      "onboard_time": 1748424920,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205242,
       "num": 193736,
       "word": "默茨未能当选德国总理",
@@ -41595,6 +41635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192784,
+      "num": 204754,
+      "word": "药企遭举报贿赂多家医院超百位医生",
+      "onboard_time": 1748425282,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192783,
       "num": 192783,
       "word": "田曦薇紫色抹胸纱裙",
@@ -43137,14 +43185,6 @@
       "onboard_time": 1746103041,
       "rank": 33,
       "category": "动漫,电影"
-    },
-    {
-      "raw_hot": 189407,
-      "num": 301515,
-      "word": "台当局要求陆配提供丧失原籍证明",
-      "onboard_time": 1748422882,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 189395,
@@ -50499,14 +50539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169202,
-      "num": 169202,
-      "word": "明星时尚芭莎盛典出图",
-      "onboard_time": 1748425220,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169184,
       "num": 169184,
       "word": "GEN十五连胜",
@@ -54433,6 +54465,14 @@
       "onboard_time": 1746501141,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159299,
+      "num": 266845,
+      "word": "小鹏MONA发布会太会玩了",
+      "onboard_time": 1748427140,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 159265,
@@ -59363,6 +59403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148225,
+      "num": 148225,
+      "word": "方时赫被移送检方",
+      "onboard_time": 1748427981,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148157,
       "num": 148157,
       "word": "全员加速中录制",
@@ -60241,6 +60289,14 @@
       "onboard_time": 1746115100,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145851,
+      "num": 162806,
+      "word": "陷入我们的热恋云包场",
+      "onboard_time": 1748427261,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 145843,
@@ -64275,6 +64331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137387,
+      "num": 137387,
+      "word": "女子走私2000余本淫秽漫画获刑",
+      "onboard_time": 1748427800,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137369,
       "num": 137369,
       "word": "桃花坞",
@@ -64977,6 +65041,14 @@
       "onboard_time": 1746744377,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135733,
+      "num": 161013,
+      "word": "王爷哄妻先丢人后砸钱",
+      "onboard_time": 1748427621,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 135732,
@@ -70172,7 +70244,7 @@
     },
     {
       "raw_hot": 124537,
-      "num": 124537,
+      "num": 337443,
       "word": "马斯克称政府效率部成华盛顿替罪羊",
       "onboard_time": 1748424323,
       "rank": 46,
@@ -73883,6 +73955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114997,
+      "num": 114997,
+      "word": "重庆发生脚手架垮塌事故",
+      "onboard_time": 1748427559,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114996,
       "num": 114996,
       "word": "官方通报珠海发生旋挖桩机倾倒事件",
@@ -75521,6 +75601,14 @@
       "onboard_time": 1748405242,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110590,
+      "num": 110590,
+      "word": "鞠婧祎芭莎年度派对造型",
+      "onboard_time": 1748426121,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 110582,
@@ -77873,6 +77961,14 @@
       "onboard_time": 1747222521,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103587,
+      "num": 103587,
+      "word": "中国对沙特等4国试行免签",
+      "onboard_time": 1748425460,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103585,
@@ -87371,6 +87467,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 66882,
+      "num": 263459,
+      "word": "村民希望博物馆提供石狮来源信息",
+      "onboard_time": 1748426601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66833,
       "num": 248288,
       "word": "巴海军展示印度航母行踪图",
@@ -89120,14 +89224,6 @@
       "word": "科技发展离不开每一个为什么",
       "onboard_time": 1747452150,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60375,
-      "num": 204754,
-      "word": "药企遭举报贿赂多家医院超百位医生",
-      "onboard_time": 1748425282,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -95243,6 +95339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40307,
+      "num": 133236,
+      "word": "郑钦文1比0阿朗戈",
+      "onboard_time": 1748427800,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40276,
       "num": 348229,
       "word": "广州一老板上新租三金结婚业务",
@@ -95945,6 +96049,14 @@
       "onboard_time": 1747827622,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 38291,
+      "num": 169207,
+      "word": "AI教你国补怎么买手机最划算",
+      "onboard_time": 1748424202,
+      "rank": 36,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 38289,
@@ -96939,6 +97051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35074,
+      "num": 613069,
+      "word": "高质量发展看能源",
+      "onboard_time": 1748427082,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35073,
       "num": 55843,
       "word": "我被大麦做局了",
@@ -97777,14 +97897,6 @@
       "onboard_time": 1747058723,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 33074,
-      "num": 169207,
-      "word": "AI教你国补怎么买手机最划算",
-      "onboard_time": 1748424202,
-      "rank": 36,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 33042,
@@ -100131,6 +100243,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 27520,
+      "num": 160381,
+      "word": "加沙医生一天内目睹上百人死亡",
+      "onboard_time": 1748427800,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27512,
       "num": 55611,
       "word": "于适贵阳音乐节舞台",
@@ -101179,6 +101299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25065,
+      "num": 159728,
+      "word": "人体的脂肪可以自己燃烧吗",
+      "onboard_time": 1748427380,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 25062,
       "num": 37486,
       "word": "青春赞歌",
@@ -101865,6 +101993,14 @@
       "onboard_time": 1747902441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23668,
+      "num": 137534,
+      "word": "不要随便给陌生人开门",
+      "onboard_time": 1748427501,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23661,
@@ -109201,6 +109337,14 @@
       "onboard_time": 1747222462,
       "rank": 48,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 7707,
+      "num": 158223,
+      "word": "外国女婿已掌握省钱精髓",
+      "onboard_time": 1748426542,
+      "rank": 29,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 7687,

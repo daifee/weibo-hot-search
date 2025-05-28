@@ -1,0 +1,410 @@
+{
+  "runTime": 1748428145985,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 943898,
+        "num": 1151023,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700747,
+        "num": 700747,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 35074,
+        "num": 613069,
+        "word": "高质量发展看能源",
+        "onboard_time": 1748427082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1002270,
+        "num": 612990,
+        "word": "猪油渣",
+        "onboard_time": 1748422101,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 612906,
+        "num": 612906,
+        "word": "韩红的压力已经给到内娱了",
+        "onboard_time": 1748424562,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563531,
+        "num": 563531,
+        "word": "袭榜歌手 NEYO",
+        "onboard_time": 1748425941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521809,
+        "num": 521809,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488882,
+        "num": 488882,
+        "word": "藏海传IMDB开分9.1",
+        "onboard_time": 1748424920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337472,
+        "num": 337472,
+        "word": "擅自发祁连山滑翔视频飞行员被停飞",
+        "onboard_time": 1748421321,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 337443,
+        "word": "马斯克称政府效率部成华盛顿替罪羊",
+        "onboard_time": 1748424323,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 740292,
+        "num": 334876,
+        "word": "朱朱小桃官宣",
+        "onboard_time": 1748421921,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506212,
+        "num": 333299,
+        "word": "叶舒华为成都遇害女生发声",
+        "onboard_time": 1748420661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385504,
+        "num": 331242,
+        "word": "医生称7成妇科感染与卫生巾有关",
+        "onboard_time": 1748418081,
+        "rank": 12,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 329899,
+        "num": 329899,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 266910,
+        "num": 316231,
+        "word": "台当局要求陆配提供丧失原籍证明",
+        "onboard_time": 1748422882,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314984,
+        "num": 314984,
+        "word": "丈夫伪造车祸杀妻因太冷静被识破",
+        "onboard_time": 1748419101,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272443,
+        "num": 272443,
+        "word": "明星时尚芭莎盛典出图",
+        "onboard_time": 1748425220,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159299,
+        "num": 266845,
+        "word": "小鹏MONA发布会太会玩了",
+        "onboard_time": 1748427140,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 306506,
+        "num": 266511,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66882,
+        "num": 263459,
+        "word": "村民希望博物馆提供石狮来源信息",
+        "onboard_time": 1748426601,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262533,
+        "num": 262533,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 240570,
+        "num": 240570,
+        "word": "时尚芭莎盛典直播",
+        "onboard_time": 1748426001,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 204396,
+        "num": 204396,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192784,
+        "num": 192784,
+        "word": "药企遭举报贿赂多家医院超百位医生",
+        "onboard_time": 1748425282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163060,
+        "num": 163060,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145851,
+        "num": 162806,
+        "word": "陷入我们的热恋云包场",
+        "onboard_time": 1748427261,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135733,
+        "num": 161013,
+        "word": "王爷哄妻先丢人后砸钱",
+        "onboard_time": 1748427621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27520,
+        "num": 160381,
+        "word": "加沙医生一天内目睹上百人死亡",
+        "onboard_time": 1748427800,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25065,
+        "num": 159728,
+        "word": "人体的脂肪可以自己燃烧吗",
+        "onboard_time": 1748427380,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 7707,
+        "num": 158223,
+        "word": "外国女婿已掌握省钱精髓",
+        "onboard_time": 1748426542,
+        "rank": 29,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 134338,
+        "num": 157685,
+        "word": "配音师声音遭AI商用成功维权",
+        "onboard_time": 1748419222,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92994,
+        "num": 155885,
+        "word": "pdd化妆刷子销量第一的村厂",
+        "onboard_time": 1748423842,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186237,
+        "num": 155396,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154711,
+        "num": 154711,
+        "word": "AD钙奶",
+        "onboard_time": 1748417120,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148225,
+        "num": 148225,
+        "word": "方时赫被移送检方",
+        "onboard_time": 1748427981,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122525,
+        "num": 141788,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140988,
+        "num": 140988,
+        "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+        "onboard_time": 1748416521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138706,
+        "num": 138706,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23668,
+        "num": 137534,
+        "word": "不要随便给陌生人开门",
+        "onboard_time": 1748427501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137387,
+        "num": 137387,
+        "word": "女子走私2000余本淫秽漫画获刑",
+        "onboard_time": 1748427800,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40307,
+        "num": 133236,
+        "word": "郑钦文1比0阿朗戈",
+        "onboard_time": 1748427800,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132523,
+        "num": 132523,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 124514,
+        "num": 124514,
+        "word": "去年剩的防晒霜今年还能用吗",
+        "onboard_time": 1748415079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114997,
+        "num": 114997,
+        "word": "重庆发生脚手架垮塌事故",
+        "onboard_time": 1748427559,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352070,
+        "num": 113241,
+        "word": "男团学",
+        "onboard_time": 1748426181,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38291,
+        "num": 111808,
+        "word": "AI教你国补怎么买手机最划算",
+        "onboard_time": 1748424202,
+        "rank": 45,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 111305,
+        "num": 111305,
+        "word": "肖战看过探索频道",
+        "onboard_time": 1748423541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110590,
+        "num": 110590,
+        "word": "鞠婧祎芭莎年度派对造型",
+        "onboard_time": 1748426121,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106249,
+        "num": 106249,
+        "word": "aespaASEA红毯",
+        "onboard_time": 1748420661,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103587,
+        "num": 103587,
+        "word": "中国对沙特等4国试行免签",
+        "onboard_time": 1748425460,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
