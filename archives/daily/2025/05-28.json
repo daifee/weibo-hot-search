@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748398987075,
+  "endTime": 1748402359322,
   "band_list": [
     {
       "raw_hot": 2153195,
@@ -27,12 +27,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1145595,
+      "num": 1183295,
+      "word": "不论男女 到22岁就分一套房",
+      "onboard_time": 1748395822,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 986087,
       "num": 986087,
       "word": "致多人上吐下泻甜品商家已贴封条",
       "onboard_time": 1748358622,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 916139,
+      "num": 916139,
+      "word": "国际乒联致歉",
+      "onboard_time": 1748397981,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 782337,
@@ -67,14 +83,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 676748,
-      "num": 1108279,
-      "word": "不论男女 到22岁就分一套房",
-      "onboard_time": 1748395822,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 673636,
       "num": 312586,
       "word": "携致癌基因男子捐精育出67个孩子",
@@ -97,6 +105,14 @@
       "onboard_time": 1748392162,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 639594,
+      "num": 270814,
+      "word": "冯小刚徐帆养女徐朵高中毕业",
+      "onboard_time": 1748398460,
+      "rank": 15,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 615788,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446064,
+      "num": 446064,
+      "word": "孙颖莎代言妮维雅",
+      "onboard_time": 1748401160,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436530,
       "num": 436530,
       "word": "国际乒联回应选举乌龙",
@@ -201,6 +225,14 @@
       "onboard_time": 1748392103,
       "rank": 7,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 374350,
+      "num": 374350,
+      "word": "1335万人报名2025全国高考",
+      "onboard_time": 1748401462,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 349259,
@@ -243,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314443,
+      "num": 207013,
+      "word": "第一次见6个主演演一个人",
+      "onboard_time": 1748401822,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312470,
       "num": 268119,
       "word": "YG新女团",
@@ -267,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293800,
+      "num": 293800,
+      "word": "快递员回应两次为同一人捐骨髓",
+      "onboard_time": 1748400021,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287885,
       "num": 265531,
       "word": "李亚鹏和妻子目前没房产",
@@ -275,20 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275947,
-      "num": 270902,
-      "word": "国际乒联致歉",
-      "onboard_time": 1748397981,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 270814,
-      "num": 270814,
-      "word": "冯小刚徐帆养女徐朵高中毕业",
-      "onboard_time": 1748398460,
-      "rank": 15,
-      "category": "艺人,艺人"
+      "raw_hot": 272815,
+      "num": 190694,
+      "word": "浪胃仙再复更",
+      "onboard_time": 1748400261,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 269180,
@@ -299,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268318,
+      "num": 311364,
+      "word": "内娱85花人美吧唧也美",
+      "onboard_time": 1748400922,
+      "rank": 8,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 264483,
       "num": 264483,
       "word": "湖南株洲一交通事故致1死1伤",
@@ -307,8 +355,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257053,
+      "num": 187926,
+      "word": "白鹿进组莫离了",
+      "onboard_time": 1748400082,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254331,
-      "num": 208599,
+      "num": 213659,
       "word": "陈妍希回应藏海传面具人身份",
       "onboard_time": 1748392882,
       "rank": 21,
@@ -321,6 +377,14 @@
       "onboard_time": 1748361921,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237186,
+      "num": 237186,
+      "word": "藏海传央八收视率第一",
+      "onboard_time": 1748401521,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 233849,
@@ -371,12 +435,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186251,
+      "num": 183401,
+      "word": "何小鹏透露MONA智驾比肩友商50万旗舰车",
+      "onboard_time": 1748401701,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 186235,
       "num": 385028,
       "word": "高考10天倒计时",
       "onboard_time": 1748359703,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183342,
+      "num": 183342,
+      "word": "专项整治保健品市场坑老骗老行为",
+      "onboard_time": 1748399601,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182345,
@@ -393,6 +473,14 @@
       "onboard_time": 1748336602,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176292,
+      "num": 176292,
+      "word": "跑男团为郑恺张真源庆生",
+      "onboard_time": 1748400860,
+      "rank": 36,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 173761,
@@ -451,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153825,
+      "num": 153825,
+      "word": "马龙2年前举起复刻杯",
+      "onboard_time": 1748401881,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152323,
       "num": 152323,
       "word": "不去焦虑2小时和8公里以外的事",
@@ -491,6 +587,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143879,
+      "num": 176621,
+      "word": "中国奥委会发文回顾马龙获复刻杯",
+      "onboard_time": 1748401281,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "下周六高考",
+      "onboard_time": 1748400681,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139704,
       "num": 139704,
       "word": "黄金直线下跌",
@@ -523,12 +635,52 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 125988,
+      "num": 125988,
+      "word": "步行者拿到东决冠军点",
+      "onboard_time": 1748402241,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124435,
+      "num": 124435,
+      "word": "陈昊宇新专辑",
+      "onboard_time": 1748402181,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 122062,
+      "num": 122062,
+      "word": "黄雨婷首夺青年世界杯冠军",
+      "onboard_time": 1748399661,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121989,
+      "num": 219976,
+      "word": "叶舒华时隔一年更新称心痛不已",
+      "onboard_time": 1748401041,
+      "rank": 18,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 121065,
       "num": 121065,
       "word": "藏海传你真的是配享太庙",
       "onboard_time": 1748358442,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119632,
+      "num": 119632,
+      "word": "特朗普为加拿大加入金穹开价610亿美元",
+      "onboard_time": 1748399601,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118033,
@@ -595,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112753,
+      "num": 112753,
+      "word": "山东一村16年免费分配楼房218套",
+      "onboard_time": 1748401041,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112459,
       "num": 112459,
       "word": "17岁女生失踪47天系跳桥坠江",
@@ -633,6 +793,14 @@
       "onboard_time": 1748391502,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103319,
+      "num": 183909,
+      "word": "判断同事是不是小人的四个细节",
+      "onboard_time": 1748401341,
+      "rank": 28,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 101669,
@@ -692,7 +860,7 @@
     },
     {
       "raw_hot": 94023,
-      "num": 94023,
+      "num": 183594,
       "word": "詹姆斯很可能执行球员选项",
       "onboard_time": 1748395703,
       "rank": 42,
@@ -755,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84162,
+      "num": 237124,
+      "word": "淘淘氧棉守护女性健康",
+      "onboard_time": 1748401521,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83819,
       "num": 120565,
       "word": "藏海传城网登顶",
@@ -795,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70990,
+      "num": 179457,
+      "word": "为什么讨厌一个人会感到很痛苦",
+      "onboard_time": 1748402181,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 70632,
       "num": 118088,
       "word": "孩子自信的5种表现",
@@ -809,6 +993,14 @@
       "onboard_time": 1748341161,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67471,
+      "num": 184005,
+      "word": "京东官宣又发新补贴",
+      "onboard_time": 1748401221,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 64047,
@@ -899,12 +1091,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45856,
+      "num": 369181,
+      "word": "学古人过端午仪式感拉满",
+      "onboard_time": 1748401822,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43648,
+      "num": 215519,
+      "word": "日常中哪些食物更容易引发糖尿病",
+      "onboard_time": 1748401341,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
       "onboard_time": 1748367076,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40499,
+      "num": 183718,
+      "word": "普通人离职后真实生活状态是怎样的",
+      "onboard_time": 1748401341,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 36107,
@@ -953,6 +1169,14 @@
       "onboard_time": 1748366536,
       "rank": 42,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 24849,
+      "num": 621799,
+      "word": "粽子海外订单爆了",
+      "onboard_time": 1748402301,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23786,
