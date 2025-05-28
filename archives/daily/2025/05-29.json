@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748464131504,
+  "endTime": 1748464945540,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -523,7 +523,15 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 15454,
+      "raw_hot": 16398,
+      "num": 16398,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15543,
       "num": 22896,
       "word": "68岁老汉称在等国家发的老婆",
       "onboard_time": 1748460434,
@@ -531,20 +539,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14441,
-      "num": 14441,
+      "raw_hot": 15471,
+      "num": 15471,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15043,
+      "num": 15043,
       "word": "种地吧",
       "onboard_time": 1748461933,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 13979,
-      "num": 14315,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 14237,
+      "num": 14917,
+      "word": "自我接纳",
+      "onboard_time": 1748454975,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 13823,
@@ -555,16 +571,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13258,
-      "num": 14314,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13072,
-      "num": 14313,
+      "num": 14913,
       "word": "杨超越叛逆运动风",
       "onboard_time": 1748462414,
       "rank": 49,
