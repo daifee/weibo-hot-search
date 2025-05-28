@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748464945540,
+  "endTime": 1748467444610,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -251,20 +251,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131415,
+      "num": 140627,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130867,
       "num": 130867,
       "word": "火流星",
       "onboard_time": 1748447840,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130564,
-      "num": 130564,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128479,
@@ -499,12 +499,44 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 19734,
+      "num": 19734,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19571,
+      "num": 19571,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19474,
       "num": 22897,
       "word": "提拉米苏",
       "onboard_time": 1748458875,
       "rank": 37,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 19380,
+      "num": 19167,
+      "word": "覃海洋回应张雨霏称他是卷王",
+      "onboard_time": 1748465294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19140,
+      "num": 22896,
+      "word": "68岁老汉称在等国家发的老婆",
+      "onboard_time": 1748460434,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18543,
@@ -523,27 +555,11 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 16398,
-      "num": 16398,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15543,
-      "num": 22896,
-      "word": "68岁老汉称在等国家发的老婆",
-      "onboard_time": 1748460434,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15471,
-      "num": 15471,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
+      "raw_hot": 15337,
+      "num": 15337,
+      "word": "BBC采访广东小伙被种草中国锅",
+      "onboard_time": 1748465234,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -555,8 +571,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14237,
-      "num": 14917,
+      "raw_hot": 14991,
+      "num": 14991,
       "word": "自我接纳",
       "onboard_time": 1748454975,
       "rank": 43,
@@ -569,6 +585,14 @@
       "onboard_time": 1748453776,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13677,
+      "num": 14045,
+      "word": "在李昀锐旁边沙溢都眉清目秀了",
+      "onboard_time": 1748466494,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 13072,
