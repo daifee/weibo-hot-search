@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748446086990,
+  "endTime": 1748446996249,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -139,6 +139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1047414,
+      "num": 840953,
+      "word": "102岁老人3楼坠落被众人稳稳接住",
+      "onboard_time": 1748442564,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1002270,
       "num": 612990,
       "word": "猪油渣",
@@ -209,14 +217,6 @@
       "onboard_time": 1748417181,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 840953,
-      "num": 840953,
-      "word": "102岁老人3楼坠落被众人稳稳接住",
-      "onboard_time": 1748442564,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 836277,
@@ -595,6 +595,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 468919,
+      "num": 267477,
+      "word": "陈乔恩确诊盲肠炎",
+      "onboard_time": 1748445502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468404,
       "num": 573318,
       "word": "外交部回应辽宁舰为何如此靠近日本",
@@ -891,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278215,
+      "num": 271371,
+      "word": "新婚男子生殖医院术后身亡系药物过敏",
+      "onboard_time": 1748445142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278127,
       "num": 278127,
       "word": "关晓彤薄荷曼波九宫格",
@@ -929,14 +945,6 @@
       "onboard_time": 1748432902,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 271371,
-      "num": 271371,
-      "word": "新婚男子生殖医院术后身亡系药物过敏",
-      "onboard_time": 1748445142,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270459,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1748444123,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246309,
-      "num": 246309,
-      "word": "陈乔恩确诊盲肠炎",
-      "onboard_time": 1748445502,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 245566,
@@ -1275,12 +1275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213770,
+      "num": 213770,
+      "word": "王者荣耀",
+      "onboard_time": 1748446402,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213455,
       "num": 223778,
       "word": "天塌了谈到了公司大佬姐",
       "onboard_time": 1748409741,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211215,
+      "num": 211215,
+      "word": "藏海烧了父母的人皮",
+      "onboard_time": 1748445742,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 209998,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1748430801,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190974,
+      "num": 190974,
+      "word": "印度承诺2047年建成发达国家",
+      "onboard_time": 1748445622,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190688,
@@ -1883,14 +1907,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 168990,
-      "num": 168990,
-      "word": "印度承诺2047年建成发达国家",
-      "onboard_time": 1748445622,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 168858,
       "num": 168858,
       "word": "原神5.6",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1748419401,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165105,
+      "num": 310418,
+      "word": "荣耀400让深圳变成肖战痛城",
+      "onboard_time": 1748444782,
+      "rank": 16,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 164596,
@@ -2043,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156899,
+      "num": 156899,
+      "word": "专家称富士山已进入喷发待命状态",
+      "onboard_time": 1748445083,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156345,
       "num": 156345,
       "word": "年轻人流行攒新三金",
@@ -2060,7 +2092,7 @@
     },
     {
       "raw_hot": 155063,
-      "num": 155063,
+      "num": 223516,
       "word": "王楚钦世乒赛男单仅输4小局",
       "onboard_time": 1748443282,
       "rank": 44,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1748444663,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152911,
+      "num": 152911,
+      "word": "国补后iPhone16Pro重回销量第一",
+      "onboard_time": 1748446701,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 152826,
@@ -2219,14 +2259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145326,
-      "num": 145326,
-      "word": "藏海烧了父母的人皮",
-      "onboard_time": 1748445742,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "国乒选手喜欢甜粽还是咸粽",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1748407522,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142505,
-      "num": 310418,
-      "word": "荣耀400让深圳变成肖战痛城",
-      "onboard_time": 1748444782,
-      "rank": 16,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 141698,
@@ -2371,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136346,
+      "num": 136346,
+      "word": "泡泡玛特回应Labubu品控问题",
+      "onboard_time": 1748446761,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135733,
       "num": 161013,
       "word": "王爷哄妻先丢人后砸钱",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1748415260,
       "rank": 44,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 130881,
-      "num": 130881,
-      "word": "专家称富士山已进入喷发待命状态",
-      "onboard_time": 1748445083,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130873,
@@ -2835,6 +2859,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 101733,
+      "num": 175917,
+      "word": "05年无父无母1人抚养弟弟妹妹的日常",
+      "onboard_time": 1748445563,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101669,
       "num": 101669,
       "word": "体育局回应男子滑翔伞被吸至8千米高空",
@@ -3187,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73969,
+      "num": 275661,
+      "word": "景区回应不锈钢天池被质疑破坏水质",
+      "onboard_time": 1748445622,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73153,
       "num": 242251,
       "word": "郑钦文vs阿朗戈",
@@ -3363,6 +3403,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 57691,
+      "num": 338995,
+      "word": "荣耀400活人感出片配方",
+      "onboard_time": 1748442983,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "现货黄金跌破3320",
@@ -3385,14 +3433,6 @@
       "onboard_time": 1748439503,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56299,
-      "num": 338995,
-      "word": "荣耀400活人感出片配方",
-      "onboard_time": 1748442983,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 55897,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1748424442,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 52696,
-      "num": 275661,
-      "word": "景区回应不锈钢天池被质疑破坏水质",
-      "onboard_time": 1748445622,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52159,
@@ -3523,20 +3555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47798,
-      "num": 173313,
-      "word": "05年无父无母1人抚养弟弟妹妹的日常",
-      "onboard_time": 1748445563,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47158,
       "num": 152966,
       "word": "在硅谷大厂年入50w美金是什么体验",
       "onboard_time": 1748421802,
       "rank": 37,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 47036,
+      "num": 262251,
+      "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+      "onboard_time": 1748446281,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45941,
@@ -3720,6 +3752,14 @@
       "word": "不要随便给陌生人开门",
       "onboard_time": 1748427501,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36537,
+      "num": 190373,
+      "word": "曾有公司开除早退1分钟员工败诉",
+      "onboard_time": 1748446821,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3929,6 +3969,14 @@
       "onboard_time": 1748369594,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25714,
+      "num": 244997,
+      "word": "广东一宠物救助站被指诈捐",
+      "onboard_time": 1748446701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25219,
