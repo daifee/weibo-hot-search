@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748460988797,
+  "endTime": 1748464131504,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -507,7 +507,7 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 17692,
+      "raw_hot": 18543,
       "num": 22913,
       "word": "巴黎世家活动大合影",
       "onboard_time": 1748454196,
@@ -523,11 +523,27 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 14315,
+      "raw_hot": 15454,
       "num": 22896,
       "word": "68岁老汉称在等国家发的老婆",
       "onboard_time": 1748460434,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14441,
+      "num": 14441,
+      "word": "种地吧",
+      "onboard_time": 1748461933,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13979,
+      "num": 14315,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -537,6 +553,22 @@
       "onboard_time": 1748453776,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13258,
+      "num": 14314,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13072,
+      "num": 14313,
+      "word": "杨超越叛逆运动风",
+      "onboard_time": 1748462414,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 11955,
